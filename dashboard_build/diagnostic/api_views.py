@@ -19,7 +19,11 @@ from typing import Any, Dict
 
 try:
     from django.http import JsonResponse
+    from django.views.decorators.csrf import csrf_exempt
 except ImportError:
+    def csrf_exempt(fn):  # type: ignore[misc]
+        return fn
+
     class JsonResponse:                                          # type: ignore[no-redef]
         """Minimal JsonResponse shim for testing without Django."""
 
@@ -43,6 +47,7 @@ logger = logging.getLogger(__name__)
 # POST /api/v2/diagnose/
 # ---------------------------------------------------------------------------
 
+@csrf_exempt
 def diagnose_view(request: Any) -> JsonResponse:
     """Run the full diagnostic cycle on submitted data packets.
 
@@ -106,6 +111,7 @@ def diagnose_view(request: Any) -> JsonResponse:
 # POST /api/v2/feedback/
 # ---------------------------------------------------------------------------
 
+@csrf_exempt
 def feedback_view(request: Any) -> JsonResponse:
     """Log user feedback on a diagnostic rule result.
 
@@ -147,6 +153,7 @@ def feedback_view(request: Any) -> JsonResponse:
 # GET /api/v2/history/
 # ---------------------------------------------------------------------------
 
+@csrf_exempt
 def history_view(request: Any) -> JsonResponse:
     """Retrieve diagnostic history for a vehicle.
 
