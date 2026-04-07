@@ -78,6 +78,7 @@ LTFT_PROBLEM_PACKET = {
 DTC_PACKET = {
     "rpm": 800, "speed": 0, "coolant_temp": 90,
     "voltage": 14.2, "dtc_codes": ["P0171"],
+    "ltft_bank1": 12.0, "stft_bank1": 5.0,
 }
 
 
@@ -107,16 +108,11 @@ class TestHealthyReport:
 
 class TestDtcDiagnosis:
     def test_dtc_produces_diagnoses(self, pipeline):
+        """P0171 + LTFT=12% → fuel_lean rule fires → diagnoses non-empty."""
         report = pipeline.full_diagnose(DTC_PACKET)
-        # DTC P0171 should generate at least one fact, which may trigger
-        # rules or appear in diagnoses
         assert isinstance(report["diagnoses"], list)
-        # There should be at least one diagnosis OR facts that triggered
-        # The DTC fact exists; lean rule requires ltft_abs > 10 which we
-        # don't have here. But the diagnosis list should at minimum be populated
-        # by the DTC-related diagnosis or the report is still valid.
-        # We verify the report structure is correct and can_drive is set.
-        assert report["can_drive"] in ("safe", "caution", "stop")
+        assert len(report["diagnoses"]) >= 1
+        assert report["can_drive"] in ("caution", "stop")
 
 
 # ---------------------------------------------------------------------------
