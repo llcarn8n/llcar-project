@@ -114,6 +114,7 @@ class RuleEngine:
     def __init__(self) -> None:
         self.rules: List[DiagnosticRule] = []
         self._load_default_rules()
+        self._python_rules = self._load_python_rules()
 
     # ------------------------------------------------------------------
     # Rule loading
@@ -161,6 +162,35 @@ class RuleEngine:
     def add_rule(self, rule: DiagnosticRule) -> None:
         """Register an additional rule (e.g. Python-defined)."""
         self.rules.append(rule)
+
+    def _load_python_rules(self) -> list:
+        """Load Python rule functions from complex_rules module."""
+        from .rules.complex_rules import ALL_RULES
+        return list(ALL_RULES)
+
+    def _run_python_rules(
+        self,
+        facts: list,
+        features: Dict[str, Any],
+        baselines: BaselineStore,
+        regime: Union[str, Enum],
+        packet: NormalizedPacket,
+    ) -> List[Dict[str, Any]]:
+        """Run all Python rules and collect results.
+
+        Each Python rule receives (features, packet, baselines, regime)
+        and returns a result dict or None.  Failing rules are silently
+        skipped to avoid one broken rule poisoning the entire pipeline.
+        """
+        results: List[Dict[str, Any]] = []
+        for rule_fn in self._python_rules:
+            try:
+                result = rule_fn(features, packet, baselines, regime)
+                if result is not None:
+                    results.append(result)
+            except Exception:
+                pass  # Skip failing rules silently
+        return results
 
     # ------------------------------------------------------------------
     # Value resolution
@@ -397,6 +427,12 @@ class RuleEngine:
                 rule, facts, features, baselines, regime, packet,
             )
             results.append(result)
+
+        # Run Python rules (complex logic beyond JSON thresholds)
+        python_results = self._run_python_rules(
+            facts, features, baselines, regime, packet,
+        )
+        results.extend(python_results)
 
         results.sort(key=lambda r: r["confidence"], reverse=True)
         return results
