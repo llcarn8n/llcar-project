@@ -22,7 +22,7 @@ from .vehicle_profile import VehicleProfile
 
 
 # ---------------------------------------------------------------------------
-# Severity table (10 levels, inclusive lower bound, exclusive upper bound)
+# Severity table (8 levels, inclusive lower bound, exclusive upper bound)
 # ---------------------------------------------------------------------------
 
 _SEVERITY_TABLE = [

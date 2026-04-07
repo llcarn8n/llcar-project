@@ -175,6 +175,12 @@ class TestCrossAnalysis:
         r = a.analyze(ltft=2.0, stft=15.0, regime=DrivingRegime.IDLE)
         assert r.cross_type == "sensor"
 
+    def test_opposing_signs_no_classification(self):
+        """ltft positive, stft negative (opposing signs) → None."""
+        a = FuelTrimAnalyzer(_default_profile())
+        r = a.analyze(ltft=5.0, stft=-3.0, regime=DrivingRegime.IDLE)
+        assert r.cross_type is None
+
 
 # ===========================================================================
 # Recommended tests
