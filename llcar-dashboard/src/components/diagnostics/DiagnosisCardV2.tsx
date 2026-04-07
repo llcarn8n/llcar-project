@@ -3,12 +3,14 @@ import { FeedbackButtons } from '../panels/FeedbackButtons'
 import { RobotTooltip } from '../shared/RobotTooltip'
 import { theme } from '../../theme'
 import type { DiagnosticReport } from '../../hooks/useDiagnosticV2'
+import { exportReport } from '../../utils/exportReport'
 import carHeartbeat from '../../assets/car-heartbeat.jpg'
 
 interface DiagnosisCardV2Props {
   report: DiagnosticReport | null
   loading?: boolean
   onFeedback: (ruleName: string, action: 'confirmed' | 'dismissed') => Promise<boolean>
+  clientHash?: string
 }
 
 const CAN_DRIVE_CONFIG = {
@@ -31,7 +33,7 @@ const STATUS_LABELS: Record<string, string> = {
   clear: 'НОРМА',
 }
 
-export function DiagnosisCardV2({ report, loading, onFeedback }: DiagnosisCardV2Props) {
+export function DiagnosisCardV2({ report, loading, onFeedback, clientHash }: DiagnosisCardV2Props) {
   if (!report) {
     return (
       <GlassPanel>
@@ -116,18 +118,32 @@ export function DiagnosisCardV2({ report, loading, onFeedback }: DiagnosisCardV2
             }} />
           )}
         </div>
-        <div style={{
-          display: 'flex', alignItems: 'center', gap: 6,
-          padding: '3px 10px', borderRadius: 2,
-          color: driveConfig.color,
-          background: `${driveConfig.color}12`,
-          border: `1px solid ${driveConfig.color}40`,
-          fontSize: 11, fontFamily: "'Orbitron', sans-serif", fontWeight: 600, letterSpacing: '0.1em',
-          boxShadow: `0 0 8px ${driveConfig.color}30`,
-          animation: report.can_drive === 'stop' ? 'pulse-critical 2s ease-in-out infinite' : 'none',
-        }}>
-          <span>{driveConfig.icon}</span>
-          <span>{driveConfig.label}</span>
+        <div style={{ display: 'flex', alignItems: 'center', gap: 6 }}>
+          <button
+            onClick={(e) => { e.stopPropagation(); exportReport(report, clientHash || ''); }}
+            style={{
+              padding: '3px 8px', fontSize: 9, fontFamily: "'Orbitron', sans-serif",
+              color: theme.text.muted, background: 'transparent',
+              border: `1px solid ${theme.text.muted}30`, borderRadius: 2,
+              cursor: 'pointer', letterSpacing: '0.1em',
+            }}
+            title="Скачать PDF отчёт"
+          >
+            PDF
+          </button>
+          <div style={{
+            display: 'flex', alignItems: 'center', gap: 6,
+            padding: '3px 10px', borderRadius: 2,
+            color: driveConfig.color,
+            background: `${driveConfig.color}12`,
+            border: `1px solid ${driveConfig.color}40`,
+            fontSize: 11, fontFamily: "'Orbitron', sans-serif", fontWeight: 600, letterSpacing: '0.1em',
+            boxShadow: `0 0 8px ${driveConfig.color}30`,
+            animation: report.can_drive === 'stop' ? 'pulse-critical 2s ease-in-out infinite' : 'none',
+          }}>
+            <span>{driveConfig.icon}</span>
+            <span>{driveConfig.label}</span>
+          </div>
         </div>
       </div>
 

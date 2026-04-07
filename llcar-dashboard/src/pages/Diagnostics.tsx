@@ -104,7 +104,7 @@ export function Diagnostics() {
         onClick={() => toggle('diag')}
       >
         {useV2Api ? (
-          <DiagnosisCardV2 report={v2Report} loading={v2Loading} onFeedback={sendFeedback} />
+          <DiagnosisCardV2 report={v2Report} loading={v2Loading} onFeedback={sendFeedback} clientHash={clientHash} />
         ) : (
           <DiagnosisCard
             diagnostics={diagnostics}
