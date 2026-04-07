@@ -13,6 +13,10 @@ import { theme } from '../theme'
 import { useDiagnosticV2 } from '../hooks/useDiagnosticV2'
 import { DiagnosisCardV2 } from '../components/diagnostics/DiagnosisCardV2'
 import { HealthTrends } from '../components/panels/HealthTrends'
+import { RecallsPanel } from '../components/panels/RecallsPanel'
+import { EscalationTimeline } from '../components/panels/EscalationTimeline'
+import { NextSteps } from '../components/panels/NextSteps'
+import { FuelLossWidget } from '../components/panels/FuelLossWidget'
 import { OnboardingTour } from '../components/onboarding/OnboardingTour'
 
 const CoherenceMap = lazy(() => import('../components/panels/CoherenceMap').then(m => ({ default: m.CoherenceMap })))
@@ -219,7 +223,38 @@ export function Diagnostics() {
         </div>
       )}
 
-      {/* Row 3: Expert panels (CoherenceMap + CUSUMChart) */}
+      {/* Row 3: V2 additional panels */}
+      {useV2Api && v2Report && !expanded && (
+        <div className="col-span-12 grid grid-cols-12 gap-3">
+          {/* Fuel Loss (if present) */}
+          {v2Report.fuel_loss && (
+            <div className="col-span-3">
+              <FuelLossWidget fuelLoss={v2Report.fuel_loss} />
+            </div>
+          )}
+
+          {/* Escalation Timeline */}
+          {v2Report.escalations && v2Report.escalations.length > 0 && (
+            <div className={v2Report.fuel_loss ? 'col-span-4' : 'col-span-6'}>
+              <EscalationTimeline escalations={v2Report.escalations} />
+            </div>
+          )}
+
+          {/* Next Steps */}
+          {v2Report.next_steps && v2Report.next_steps.length > 0 && (
+            <div className={v2Report.fuel_loss ? 'col-span-5' : 'col-span-6'}>
+              <NextSteps steps={v2Report.next_steps} />
+            </div>
+          )}
+
+          {/* Recalls */}
+          <div className="col-span-12">
+            <RecallsPanel recalls={v2Report.recalls || []} />
+          </div>
+        </div>
+      )}
+
+      {/* Row 4: Expert panels (CoherenceMap + CUSUMChart) */}
       {expertMode && (
         <div className="col-span-12 grid grid-cols-12 gap-3">
           <div className="col-span-6">
