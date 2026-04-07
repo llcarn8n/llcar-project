@@ -108,6 +108,7 @@ class DiagnosisBuilder:
         baseline_store: Optional[BaselineStore] = None,
         escalation_manager: Optional[Any] = None,
         history: Optional[List[Dict[str, Any]]] = None,
+        recalls_data: Optional[List[Dict[str, Any]]] = None,
     ) -> Dict[str, Any]:
         """Build the full 7-block diagnostic report.
 
@@ -118,6 +119,7 @@ class DiagnosisBuilder:
             baseline_store:  Optional BaselineStore for confidence/readiness.
             escalation_manager: Optional EscalationManager for persistence/escalation info.
             history: Optional list of score dicts for CUSUM trend detection.
+            recalls_data: Optional list of recall dicts from RecallsChecker.check().
 
         Returns:
             Dict with keys: can_drive, health_scores, health_trends,
@@ -145,8 +147,8 @@ class DiagnosisBuilder:
         # Block 6: escalations
         escalations = self._compute_escalations(rule_results, escalation_manager)
 
-        # Block 6b: recalls (placeholder)
-        recalls: List[Any] = []
+        # Block 6b: recalls
+        recalls = recalls_data if recalls_data is not None else []
 
         # Block 7: next_steps
         next_steps = self._build_next_steps(diagnoses)
