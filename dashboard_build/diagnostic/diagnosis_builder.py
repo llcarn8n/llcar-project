@@ -7,7 +7,8 @@ Report blocks:
   3. health_trends: placeholder → / ↑ / ↓
   4. diagnoses:     list of structured diagnosis entries
   5. fuel_loss:     monthly_rub / yearly_rub
-  6. recalls:       placeholder (empty list)
+  6. escalations:   persistence/escalation info from EscalationManager
+  6b. recalls:      placeholder (empty list)
   7. next_steps:    prioritized recommendations
 
 Plus meta: confidence, baseline_status, rule_version.
@@ -105,6 +106,7 @@ class DiagnosisBuilder:
         rule_results: List[Dict[str, Any]],
         fuel_trim_result: Optional[FuelTrimResult] = None,
         baseline_store: Optional[BaselineStore] = None,
+        escalation_manager: Optional[Any] = None,
     ) -> Dict[str, Any]:
         """Build the full 7-block diagnostic report.
 
@@ -113,10 +115,11 @@ class DiagnosisBuilder:
             rule_results:    List of dicts from RuleEngine.run_all().
             fuel_trim_result: Optional FuelTrimResult from FuelTrimAnalyzer.
             baseline_store:  Optional BaselineStore for confidence/readiness.
+            escalation_manager: Optional EscalationManager for persistence/escalation info.
 
         Returns:
             Dict with keys: can_drive, health_scores, health_trends,
-            diagnoses, fuel_loss, recalls, next_steps, confidence,
+            diagnoses, fuel_loss, escalations, recalls, next_steps, confidence,
             baseline_status, rule_version.
         """
         facts: List[Fact] = pipeline_result.get("facts", [])
@@ -137,7 +140,10 @@ class DiagnosisBuilder:
         # Block 5: fuel_loss
         fuel_loss = self._compute_fuel_loss(fuel_trim_result)
 
-        # Block 6: recalls (placeholder)
+        # Block 6: escalations
+        escalations = self._compute_escalations(rule_results, escalation_manager)
+
+        # Block 6b: recalls (placeholder)
         recalls: List[Any] = []
 
         # Block 7: next_steps
@@ -153,6 +159,7 @@ class DiagnosisBuilder:
             "health_trends": health_trends,
             "diagnoses": diagnoses,
             "fuel_loss": fuel_loss,
+            "escalations": escalations,
             "recalls": recalls,
             "next_steps": next_steps,
             "confidence": confidence,
@@ -350,6 +357,39 @@ class DiagnosisBuilder:
             "monthly_rub": fuel_trim_result.monthly_loss_rub,
             "yearly_rub": fuel_trim_result.yearly_loss_rub,
         }
+
+    # ------------------------------------------------------------------
+    # Block 6: escalations
+    # ------------------------------------------------------------------
+
+    def _compute_escalations(
+        self,
+        rule_results: List[Dict[str, Any]],
+        escalation_manager: Optional[Any],
+    ) -> List[Dict[str, Any]]:
+        """Build escalation info for fired rules.
+
+        Returns list of escalation dicts sorted by level (urgent first).
+        Returns empty list if no escalation_manager provided.
+        """
+        if escalation_manager is None:
+            return []
+
+        escalations: List[Dict[str, Any]] = []
+        for rr in rule_results:
+            if rr["confidence"] < rr.get("min_confidence", 40):
+                continue
+            info = escalation_manager.get_escalation_info(
+                self._profile.client_hash, rr["name"]
+            )
+            if info is not None and info.get("consecutive_count", 0) > 0:
+                escalations.append({
+                    "rule_name": rr["name"],
+                    "display": rr["display"],
+                    **info,
+                })
+
+        return sorted(escalations, key=lambda x: x.get("level", 0), reverse=True)
 
     # ------------------------------------------------------------------
     # Block 7: next_steps
