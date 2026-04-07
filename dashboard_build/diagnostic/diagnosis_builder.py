@@ -107,6 +107,7 @@ class DiagnosisBuilder:
         fuel_trim_result: Optional[FuelTrimResult] = None,
         baseline_store: Optional[BaselineStore] = None,
         escalation_manager: Optional[Any] = None,
+        history: Optional[List[Dict[str, Any]]] = None,
     ) -> Dict[str, Any]:
         """Build the full 7-block diagnostic report.
 
@@ -116,6 +117,7 @@ class DiagnosisBuilder:
             fuel_trim_result: Optional FuelTrimResult from FuelTrimAnalyzer.
             baseline_store:  Optional BaselineStore for confidence/readiness.
             escalation_manager: Optional EscalationManager for persistence/escalation info.
+            history: Optional list of score dicts for CUSUM trend detection.
 
         Returns:
             Dict with keys: can_drive, health_scores, health_trends,
@@ -131,8 +133,8 @@ class DiagnosisBuilder:
         # Block 2: health_scores
         health_scores = self._compute_health_scores(rule_results)
 
-        # Block 3: health_trends (placeholder)
-        health_trends = self._compute_health_trends()
+        # Block 3: health_trends (CUSUM-based)
+        health_trends = self._compute_health_trends(history)
 
         # Block 4: diagnoses
         diagnoses = self._build_diagnoses(pipeline_result, rule_results)
@@ -240,9 +242,17 @@ class DiagnosisBuilder:
     # ------------------------------------------------------------------
 
     @staticmethod
-    def _compute_health_trends() -> Dict[str, str]:
-        """Placeholder: all systems stable. Will use CUSUM in Plan 3."""
-        return {system: "→" for system in _ALL_SYSTEMS}
+    def _compute_health_trends(history: list = None) -> Dict[str, str]:
+        """Compute health trends using CUSUM on historical scores.
+
+        If no history or too few data points, returns stable (→) for all.
+        """
+        if not history or len(history) < 5:
+            return {s: "→" for s in _ALL_SYSTEMS}
+
+        from .cusum import CUSUMDetector
+        detector = CUSUMDetector()
+        return detector.compute_all_trends(history)
 
     # ------------------------------------------------------------------
     # Block 4: diagnoses
