@@ -91,20 +91,36 @@ def diagnose_view(request: Any) -> JsonResponse:
         modifications=vp_data.get("modifications", {}),
     )
 
-    # Create pipeline
-    pipeline = DiagnosticPipeline(vehicle_profile=profile)
-
     # Top-level DTC codes to inject into every packet
     dtc_codes = body.get("dtc_codes", [])
 
-    # Process each packet through full_diagnose
-    report: Dict[str, Any] = {}
-    for packet in data_packets:
-        if dtc_codes:
-            packet = {**packet, "dtc_codes": dtc_codes}
-        report = pipeline.full_diagnose(packet)
+    # Try DB-backed pipeline (load baselines, persist results)
+    try:
+        from .db import get_cursor
+        from .db_writers import load_baselines
 
-    return JsonResponse(report, status=200)
+        with get_cursor() as cursor:
+            baselines = load_baselines(cursor, client_hash)
+            pipeline = DiagnosticPipeline(vehicle_profile=profile, baselines=baselines)
+
+            report: Dict[str, Any] = {}
+            for packet in data_packets:
+                if dtc_codes:
+                    packet = {**packet, "dtc_codes": dtc_codes}
+                report = pipeline.full_diagnose(
+                    packet, db_cursor=cursor, client_hash=client_hash,
+                )
+
+            return JsonResponse(report, status=200)
+    except Exception:
+        # Fallback: run without DB (same as before)
+        pipeline = DiagnosticPipeline(vehicle_profile=profile)
+        report_fallback: Dict[str, Any] = {}
+        for packet in data_packets:
+            if dtc_codes:
+                packet = {**packet, "dtc_codes": dtc_codes}
+            report_fallback = pipeline.full_diagnose(packet)
+        return JsonResponse(report_fallback or {}, status=200)
 
 
 # ---------------------------------------------------------------------------
@@ -137,7 +153,24 @@ def feedback_view(request: Any) -> JsonResponse:
         if not body.get(field):
             return JsonResponse({"error": f"{field} required"}, status=400)
 
-    # Log feedback (DB integration in Plan 3)
+    # Try to persist feedback to DB
+    try:
+        from .db import get_cursor
+        from .db_writers import write_feedback
+
+        with get_cursor() as cursor:
+            write_feedback(
+                cursor,
+                body["client_hash"],
+                body["rule_name"],
+                body["action"],
+                body.get("diagnosis_time"),
+                body.get("comment"),
+            )
+    except Exception:
+        logger.warning("DB write failed for feedback, logging only")
+
+    # Always log feedback
     logger.info(
         "Feedback: client=%s rule=%s action=%s comment=%s",
         body["client_hash"],
@@ -157,14 +190,31 @@ def feedback_view(request: Any) -> JsonResponse:
 def history_view(request: Any) -> JsonResponse:
     """Retrieve diagnostic history for a vehicle.
 
-    Parameters (query string, not used yet):
-        client_hash:  str
-        period:       7d / 30d / 90d
+    Parameters (query string):
+        client_hash:  str (required)
+        period:       7d / 30d / 90d (default 7d)
 
-    Placeholder — returns empty list. Will query DB in Plan 3.
+    Returns list of anomaly_scores dicts or empty list on error/missing data.
     """
     if request.method != "GET":
         return JsonResponse({"error": "Method not allowed"}, status=405)
 
-    # Placeholder — will query DB in Plan 3
-    return JsonResponse([], safe=False, status=200)
+    client_hash = None
+    period = "7d"
+    if hasattr(request, "GET") and request.GET is not None:
+        client_hash = request.GET.get("client_hash")
+        period = request.GET.get("period", "7d")
+
+    if not client_hash:
+        return JsonResponse([], safe=False, status=200)
+
+    try:
+        from .db import get_cursor
+        from .db_readers import read_history
+
+        with get_cursor() as cursor:
+            data = read_history(cursor, client_hash, period)
+    except Exception:
+        data = []
+
+    return JsonResponse(data, safe=False, status=200)

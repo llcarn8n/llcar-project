@@ -140,7 +140,9 @@ class DiagnosticPipeline:
     # Full diagnosis cycle (Plan 2)
     # ------------------------------------------------------------------
 
-    def full_diagnose(self, raw_data: dict) -> Dict[str, Any]:
+    def full_diagnose(
+        self, raw_data: dict, db_cursor=None, client_hash: str = None,
+    ) -> Dict[str, Any]:
         """Run the complete diagnostic cycle and return a 7-block report.
 
         Steps:
@@ -148,6 +150,11 @@ class DiagnosticPipeline:
           2. FuelTrimAnalyzer.analyze() if LTFT data is present
           3. RuleEngine.run_all() against facts, features, baselines
           4. DiagnosisBuilder.build_report() → 7-block report
+
+        If db_cursor and client_hash are provided:
+          - Save baselines to DB after processing
+          - Write facts to fact_log
+          - Write anomaly scores to anomaly_scores
 
         Returns:
             Dict with keys: can_drive, health_scores, health_trends,
@@ -188,5 +195,14 @@ class DiagnosticPipeline:
             fuel_trim_result=fuel_trim_result,
             baseline_store=self.baselines,
         )
+
+        # Step 5: Optional DB persistence
+        if db_cursor is not None and client_hash is not None:
+            from .db_writers import save_baselines, write_fact_log, write_anomaly_scores
+
+            regime_str = packet.regime.value
+            save_baselines(db_cursor, client_hash, self.baselines)
+            write_fact_log(db_cursor, client_hash, facts, packet.tier)
+            write_anomaly_scores(db_cursor, client_hash, report, features, regime_str)
 
         return report
