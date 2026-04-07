@@ -109,6 +109,21 @@ CREATE TABLE IF NOT EXISTS user_feedback (
 );
 CREATE INDEX IF NOT EXISTS idx_feedback_client ON user_feedback(client_hash);
 
+-- Correlation results (batch accel↔audio analysis)
+CREATE TABLE IF NOT EXISTS correlation_results (
+    time TIMESTAMPTZ NOT NULL,
+    client_hash VARCHAR(64) NOT NULL,
+    trip_id VARCHAR(64),
+    correlation_type VARCHAR(40) NOT NULL,
+    r_value REAL,
+    slope REAL,
+    p_value REAL,
+    data_points INTEGER,
+    regime VARCHAR(20),
+    diagnosis_hint VARCHAR(40)
+);
+CREATE INDEX IF NOT EXISTS idx_correlation_client_time ON correlation_results(client_hash, time DESC);
+
 -- DTC Patterns (мульти-DTC, статическая)
 CREATE TABLE IF NOT EXISTS dtc_patterns (
     id SERIAL PRIMARY KEY,
