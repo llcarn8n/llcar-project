@@ -257,6 +257,69 @@ def diagnose_latest_view(request: Any) -> JsonResponse:
                 packet, db_cursor=cursor, client_hash=client_hash,
             )
 
+            # ----------------------------------------------------------
+            # 6. Escalation — load, update per diagnosis, save
+            # ----------------------------------------------------------
+            try:
+                from .escalation import EscalationManager
+
+                em = EscalationManager()
+                em.load_from_db(cursor, client_hash)
+
+                for diag in report.get("diagnoses", []):
+                    em.update(client_hash, diag["rule_name"],
+                              int(diag.get("confidence", 0)))
+
+                escalations = []
+                for diag in report.get("diagnoses", []):
+                    info = em.get_escalation_info(client_hash, diag["rule_name"])
+                    if info and info.get("consecutive_count", 0) > 0:
+                        escalations.append({
+                            "rule_name": diag["rule_name"],
+                            "display": diag.get("display", diag["rule_name"]),
+                            **info,
+                        })
+
+                report["escalations"] = sorted(
+                    escalations,
+                    key=lambda x: x.get("level", 0),
+                    reverse=True,
+                )
+
+                em.save_to_db(cursor, client_hash)
+            except Exception:
+                logger.debug("Escalation integration skipped: %s",
+                             __import__("traceback").format_exc())
+
+            # ----------------------------------------------------------
+            # 7. Recalls — check offline campaign database
+            # ----------------------------------------------------------
+            try:
+                from .recalls_checker import RecallsChecker
+
+                checker = RecallsChecker()
+                report["recalls"] = checker.check(
+                    profile.brand, profile.model, profile.year,
+                )
+            except Exception:
+                logger.debug("Recalls integration skipped")
+
+            # ----------------------------------------------------------
+            # 8. CUSUM — historical health trends
+            # ----------------------------------------------------------
+            try:
+                from .db_readers import read_history
+                from .cusum import CUSUMDetector
+
+                history = read_history(cursor, client_hash, "7d")
+                if history and len(history) >= 5:
+                    detector = CUSUMDetector()
+                    report["health_trends"] = detector.compute_all_trends(
+                        history,
+                    )
+            except Exception:
+                logger.debug("CUSUM integration skipped")
+
             # Add metadata
             report["data_source"] = {
                 "has_obd": obd_row is not None,
