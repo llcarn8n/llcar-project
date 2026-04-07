@@ -1,0 +1,191 @@
+"""KnowledgeBase — 4-level resolver for DTC codes and diagnostic situations.
+
+Resolution hierarchy (highest priority first):
+  1. Vehicle-specific  (future)
+  2. Brand-specific     (add_brand_layer)
+  3. Universal          (loaded in __init__)
+  4. Fallback / None    (code not found)
+"""
+
+from __future__ import annotations
+
+import json
+from typing import Any, Dict, List, Optional, Set
+
+
+# ---------------------------------------------------------------------------
+# Static mappings
+# ---------------------------------------------------------------------------
+
+SYSTEM_TO_CATEGORY: Dict[str, List[str]] = {
+    "engine": ["engine"],
+    "fuel": ["engine"],
+    "ignition": ["engine"],
+    "cooling": ["engine"],
+    "exhaust": ["engine"],
+    "transmission": ["drivetrain"],
+    "brakes": ["brakes"],
+    "abs": ["brakes"],
+    "electrical": ["electrical"],
+    "battery": ["electrical"],
+    "sensors": ["electrical"],
+    "suspension": ["chassis"],
+    "steering": ["chassis"],
+    "chassis": ["chassis"],
+    "body": ["body"],
+    "airbag": ["safety"],
+    "network": ["electrical"],
+}
+
+# Hard-coded multi-DTC patterns — each entry contains:
+#   pattern_codes : frozenset of DTC codes that must ALL be present
+#   situation_id  : identifier for the matched situation
+#   boost         : confidence boost value
+DEFAULT_DTC_PATTERNS: List[Dict[str, Any]] = [
+    {"pattern_codes": frozenset({"P0171", "P0174"}), "situation_id": "air_leak", "boost": 25},
+    {"pattern_codes": frozenset({"P0172", "P0175"}), "situation_id": "rich_mixture", "boost": 25},
+    {"pattern_codes": frozenset({"P0300", "P0301", "P0302"}), "situation_id": "ignition_coil", "boost": 20},
+    {"pattern_codes": frozenset({"P0420", "P0430"}), "situation_id": "bad_fuel", "boost": 20},
+    {"pattern_codes": frozenset({"P0171", "P0101"}), "situation_id": "maf_failure", "boost": 25},
+    {"pattern_codes": frozenset({"P0016", "P0011"}), "situation_id": "vvt_problem", "boost": 20},
+]
+
+
+# ---------------------------------------------------------------------------
+# Helpers
+# ---------------------------------------------------------------------------
+
+def _load_json(path: str) -> Any:
+    """Read and parse a UTF-8 JSON file."""
+    with open(path, "r", encoding="utf-8") as fh:
+        return json.load(fh)
+
+
+# ---------------------------------------------------------------------------
+# KnowledgeBase
+# ---------------------------------------------------------------------------
+
+class KnowledgeBase:
+    """4-level resolver for DTC codes and diagnostic situations.
+
+    Levels loaded so far: universal + per-brand overlays.
+    Vehicle-specific level is reserved for future use.
+    """
+
+    def __init__(self, dtc_index_path: str, situations_path: str) -> None:
+        raw_dtc = _load_json(dtc_index_path)
+        self._universal_dtc: Dict[str, Dict[str, Any]] = raw_dtc.get("codes", {})
+        self._universal_situations: List[Dict[str, Any]] = _load_json(situations_path)
+
+        # brand -> {"dtc": {...}, "situations": [...]}
+        self._brand_layers: Dict[str, Dict[str, Any]] = {}
+
+    # ------------------------------------------------------------------
+    # Brand overlay
+    # ------------------------------------------------------------------
+
+    def add_brand_layer(
+        self,
+        brand: str,
+        dtc_path: str,
+        situations_path: str,
+    ) -> None:
+        """Register a brand-level data overlay."""
+        raw_dtc = _load_json(dtc_path)
+        self._brand_layers[brand] = {
+            "dtc": raw_dtc.get("codes", {}),
+            "situations": _load_json(situations_path),
+        }
+
+    # ------------------------------------------------------------------
+    # DTC resolution
+    # ------------------------------------------------------------------
+
+    def resolve_dtc(self, code: str, brand: Optional[str] = None) -> Optional[Dict[str, Any]]:
+        """Resolve a DTC code. Brand layer overrides universal if present."""
+        if brand and brand in self._brand_layers:
+            brand_dtc = self._brand_layers[brand]["dtc"]
+            if code in brand_dtc:
+                return dict(brand_dtc[code])  # shallow copy
+
+        if code in self._universal_dtc:
+            return dict(self._universal_dtc[code])
+
+        return None
+
+    # ------------------------------------------------------------------
+    # Situation finders
+    # ------------------------------------------------------------------
+
+    def _get_situations(self, brand: Optional[str] = None) -> List[Dict[str, Any]]:
+        """Return combined situation list (universal + brand if specified)."""
+        base = list(self._universal_situations)
+        if brand and brand in self._brand_layers:
+            base.extend(self._brand_layers[brand]["situations"])
+        return base
+
+    def find_situations_by_dtc(
+        self, code: str, brand: Optional[str] = None
+    ) -> List[Dict[str, Any]]:
+        """Return situations whose dtc_codes list contains *code*."""
+        return [
+            s for s in self._get_situations(brand)
+            if code in s.get("dtc_codes", [])
+        ]
+
+    def find_situations_by_category(
+        self, category: str, brand: Optional[str] = None
+    ) -> List[Dict[str, Any]]:
+        """Return situations matching a category directly."""
+        return [
+            s for s in self._get_situations(brand)
+            if s.get("category") == category
+        ]
+
+    def find_situations_by_system_id(
+        self, system_id: str, brand: Optional[str] = None
+    ) -> List[Dict[str, Any]]:
+        """Map system_id to categories via SYSTEM_TO_CATEGORY, then filter."""
+        categories = self.system_id_to_categories(system_id)
+        if not categories:
+            return []
+        cat_set = set(categories)
+        return [
+            s for s in self._get_situations(brand)
+            if s.get("category") in cat_set
+        ]
+
+    # ------------------------------------------------------------------
+    # Multi-DTC pattern matching
+    # ------------------------------------------------------------------
+
+    def match_dtc_pattern(
+        self, codes: List[str]
+    ) -> Optional[Dict[str, Any]]:
+        """Check if *codes* match any known multi-DTC pattern (subset match).
+
+        A pattern matches when all of its pattern_codes are present in *codes*.
+        If multiple patterns match, the one with the highest boost wins.
+        Returns dict with situation_id and boost, or None.
+        """
+        code_set: Set[str] = set(codes)
+        best: Optional[Dict[str, Any]] = None
+
+        for pattern in DEFAULT_DTC_PATTERNS:
+            if pattern["pattern_codes"].issubset(code_set):
+                if best is None or pattern["boost"] > best["boost"]:
+                    best = {
+                        "situation_id": pattern["situation_id"],
+                        "boost": pattern["boost"],
+                    }
+
+        return best
+
+    # ------------------------------------------------------------------
+    # Static helpers
+    # ------------------------------------------------------------------
+
+    @staticmethod
+    def system_id_to_categories(system_id: str) -> List[str]:
+        """Map a system_id to its parent categories."""
+        return list(SYSTEM_TO_CATEGORY.get(system_id, []))
