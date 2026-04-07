@@ -10,12 +10,16 @@ import { StatusBadge } from '../components/shared/StatusBadge'
 import { useApiData } from '../hooks/useApiData'
 import { useDashboardStore } from '../stores/dashboardStore'
 import { theme } from '../theme'
+import { useDiagnosticV2 } from '../hooks/useDiagnosticV2'
+import { DiagnosisCardV2 } from '../components/diagnostics/DiagnosisCardV2'
+import { HealthTrends } from '../components/panels/HealthTrends'
 
 const CoherenceMap = lazy(() => import('../components/panels/CoherenceMap').then(m => ({ default: m.CoherenceMap })))
 const CUSUMChart = lazy(() => import('../components/panels/CUSUMChart').then(m => ({ default: m.CUSUMChart })))
 
 export function Diagnostics() {
-  const { clientHash, timeRange, expertMode, toggleExpert } = useDashboardStore()
+  const { clientHash, timeRange, expertMode, toggleExpert, useV2Api, toggleV2Api } = useDashboardStore()
+  const { report: v2Report, history: v2History, sendFeedback } = useDiagnosticV2(clientHash)
 
   const { data: anomaly } = useApiData<any>({
     endpoint: '/api/anomaly/',
@@ -52,6 +56,22 @@ export function Diagnostics() {
 
   return (
     <div className="relative">
+      {/* V2 API toggle */}
+      <button
+        onClick={toggleV2Api}
+        className="nav-btn absolute top-0 right-24 z-20 font-mono text-xs px-3 py-1 rounded transition-all duration-200"
+        style={{
+          color: useV2Api ? theme.accent.teal : theme.text.muted,
+          boxShadow: useV2Api ? `0 0 12px ${theme.accent.teal}44, inset 0 0 8px ${theme.accent.teal}22` : 'none',
+          background: useV2Api ? `${theme.accent.teal}11` : 'transparent',
+          border: `1px solid ${useV2Api ? theme.accent.teal : 'rgba(255,255,255,0.1)'}`,
+          letterSpacing: '0.1em',
+          textTransform: 'uppercase' as const,
+        }}
+      >
+        API {useV2Api ? 'V2 \u25CF' : 'V1'}
+      </button>
+
       {/* Expert Mode toggle */}
       <button
         onClick={toggleExpert}
@@ -76,11 +96,15 @@ export function Diagnostics() {
         className={`${expanded === 'diag' ? 'col-span-12' : expanded ? 'hidden' : 'col-span-3'} cursor-pointer transition-all duration-300`}
         onClick={() => toggle('diag')}
       >
-        <DiagnosisCard
-          diagnostics={diagnostics}
-          degradation={degradation}
-          regime={regime}
-        />
+        {useV2Api ? (
+          <DiagnosisCardV2 report={v2Report} onFeedback={sendFeedback} />
+        ) : (
+          <DiagnosisCard
+            diagnostics={diagnostics}
+            degradation={degradation}
+            regime={regime}
+          />
+        )}
       </div>
 
       <div
@@ -165,9 +189,15 @@ export function Diagnostics() {
         </GlassPanel>
       </div>
 
-      <div className={`${expanded ? 'hidden' : 'col-span-9'}`}>
+      <div className={`${expanded ? 'hidden' : useV2Api ? 'col-span-6' : 'col-span-9'}`}>
         <AnomalyTimeline history={historyData?.history ?? []} />
       </div>
+
+      {useV2Api && !expanded && (
+        <div className="col-span-3">
+          <HealthTrends history={v2History} trends={v2Report?.health_trends} />
+        </div>
+      )}
 
       {/* Timeline Scrubber — full width */}
       {!expanded && (
