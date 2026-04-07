@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: '/static/spa/',
+  base: '/static/spa-v3/',
   server: {
     proxy: {
       '/api': 'https://llcar.ru'
