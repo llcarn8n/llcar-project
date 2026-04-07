@@ -13,6 +13,7 @@ import { theme } from '../theme'
 import { useDiagnosticV2 } from '../hooks/useDiagnosticV2'
 import { DiagnosisCardV2 } from '../components/diagnostics/DiagnosisCardV2'
 import { HealthTrends } from '../components/panels/HealthTrends'
+import { OnboardingTour } from '../components/onboarding/OnboardingTour'
 
 const CoherenceMap = lazy(() => import('../components/panels/CoherenceMap').then(m => ({ default: m.CoherenceMap })))
 const CUSUMChart = lazy(() => import('../components/panels/CUSUMChart').then(m => ({ default: m.CUSUMChart })))
@@ -56,6 +57,7 @@ export function Diagnostics() {
 
   return (
     <div className="relative">
+      <OnboardingTour />
       {/* V2 API toggle */}
       <button
         onClick={toggleV2Api}

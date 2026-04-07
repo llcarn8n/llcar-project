@@ -420,6 +420,17 @@ body::after {
   .grid[style*="calc(100vh"] > div:last-child .glass-panel { height: 350px !important; }
 }
 
+/* ── Onboarding animations ── */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+
 @media (max-width: 480px) {
   .nav-btn { padding: 4px 5px !important; font-size: 0.45rem !important; }
   .nav-btn .mr-2 { display: none; } /* hide tab icons */

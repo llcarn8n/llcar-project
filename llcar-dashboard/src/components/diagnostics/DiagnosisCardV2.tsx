@@ -2,6 +2,7 @@ import { GlassPanel } from '../shared/GlassPanel'
 import { FeedbackButtons } from '../panels/FeedbackButtons'
 import { theme } from '../../theme'
 import type { DiagnosticReport } from '../../hooks/useDiagnosticV2'
+import carHeartbeat from '../../assets/car-heartbeat.jpg'
 
 interface DiagnosisCardV2Props {
   report: DiagnosticReport | null
@@ -38,23 +39,17 @@ export function DiagnosisCardV2({ report, loading, onFeedback }: DiagnosisCardV2
           display: 'flex', flexDirection: 'column', alignItems: 'center',
           justifyContent: 'center', padding: '24px 16px', gap: 12,
         }}>
-          {/* Animated scan ring */}
-          <div style={{
-            width: 56, height: 56, borderRadius: '50%',
-            border: `2px solid ${theme.accent.cyan}30`,
-            borderTopColor: theme.accent.cyan,
-            animation: 'spin 2s linear infinite',
-            display: 'flex', alignItems: 'center', justifyContent: 'center',
-          }}>
-            <div style={{
-              width: 32, height: 32, borderRadius: '50%',
-              border: `1px solid ${theme.accent.cyan}20`,
-              display: 'flex', alignItems: 'center', justifyContent: 'center',
-              fontSize: 16, color: theme.accent.cyan,
-            }}>
-              V2
-            </div>
-          </div>
+          {/* Car heartbeat illustration */}
+          <img
+            src={carHeartbeat}
+            alt="Car diagnostic"
+            style={{
+              width: '100%', maxWidth: 200, height: 'auto',
+              borderRadius: 8, marginBottom: 12,
+              opacity: 0.7,
+              filter: 'saturate(1.2)',
+            }}
+          />
 
           <div style={{ textAlign: 'center' }}>
             <div style={{
