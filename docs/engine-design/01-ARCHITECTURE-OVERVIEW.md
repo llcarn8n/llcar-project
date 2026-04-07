@@ -33,9 +33,9 @@ Raw Data → Normalizer → Feature Extractor → Fact Generator → Fact Store 
 2. Threshold Rules — JSON-правила, 100+ штук, интерпретируются движком
 3. Correlation Rules — Python-правила для сложной логики (accel↔audio)
 
-**Knowledge Base (4-level resolver):**
-- Universal → Brand → Model → Generation (most specific wins)
-- 36K DTC кодов, 764+ ситуаций, 298 отзывных, 32 платформы
+**Knowledge Base (2 реальных уровня + расширяемость):**
+- Universal + Brand (реальный уникальный контент). Model = фильтр brand. Generation = пока мануальные выдержки.
+- 36K DTC кодов, 764+ ситуаций, 298 отзывных (9-tier система уже реализована), 32 платформы
 - DTC Patterns — мульти-DTC корреляции (P0171+P0174 = подсос)
 
 **Diagnosis Builder:**
@@ -82,7 +82,7 @@ Raw Data → Normalizer → Feature Extractor → Fact Generator → Fact Store 
 1. **Vehicle Profile** — обязательный, с онбординга. Блокирует LTFT коррекции.
 2. **Feature Extractor** — отдельный шаг между Normalizer и Facts.
 3. **FuelTrim Analyzer** — выделенная подсистема, не правило.
-4. **4-level KB resolver** — universal → brand → model → generation.
+4. **KB resolver** — реально 2 уровня (universal + brand). Model = фильтр brand (0% уникального контента). Generation = пока только мануальные выдержки. Архитектура поддерживает 4 уровня на будущее (generation-specific overlays), но сейчас данные есть только на 2.
 5. **DTC Patterns** — мульти-DTC корреляции.
 6. **Severity Escalation** — notice → warning → problem → urgent (по времени).
 7. **Batch jobs** — корреляции, baseline aggregation, recall matching.
