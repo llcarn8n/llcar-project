@@ -222,9 +222,12 @@ class RuleEngine:
         if op == ">":
             met = value > threshold
             if met:
-                # Scale deviation so a 10% overshoot = full deviation
-                scale = max(abs(threshold) * 0.1, 1.0)
-                dev = min(abs(value - threshold) / scale, 1.0)
+                if threshold == 0:
+                    dev = 0.0
+                else:
+                    # Scale deviation so a 10% overshoot = full deviation
+                    scale = max(abs(threshold) * 0.1, 1.0)
+                    dev = min(abs(value - threshold) / scale, 1.0)
             else:
                 dev = 0.0
             return met, dev
@@ -232,8 +235,12 @@ class RuleEngine:
         if op == "<":
             met = value < threshold
             if met:
-                scale = max(abs(threshold) * 0.1, 1.0)
-                dev = min(abs(threshold - value) / scale, 1.0)
+                if threshold == 0:
+                    # threshold=0 is a directional check (e.g. ltft < 0)
+                    dev = 0.0
+                else:
+                    scale = max(abs(threshold) * 0.1, 1.0)
+                    dev = min(abs(threshold - value) / scale, 1.0)
             else:
                 dev = 0.0
             return met, dev
