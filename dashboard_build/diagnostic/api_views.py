@@ -96,7 +96,7 @@ def diagnose_view(request: Any) -> JsonResponse:
     report: Dict[str, Any] = {}
     for packet in data_packets:
         if dtc_codes:
-            packet["dtc_codes"] = dtc_codes
+            packet = {**packet, "dtc_codes": dtc_codes}
         report = pipeline.full_diagnose(packet)
 
     return JsonResponse(report, status=200)
