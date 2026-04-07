@@ -1,0 +1,129 @@
+"""DiagnosticPipeline — orchestrator that ties the full diagnostic cycle together.
+
+Pipeline steps:
+  1. normalize_packet(raw_data) → NormalizedPacket
+  2. extract_features(packet) → features dict
+  3. Collect numeric features + OBD values into baseline_features
+  4. baselines.update(regime, baseline_features)
+  5. fact_generator.generate(packet, features) → List[Fact]
+  6. Return result dict with packet, features, facts, tier, regime, baseline state
+"""
+from __future__ import annotations
+
+from typing import Any, Dict, List, Optional
+
+from .baseline_store import BaselineStore
+from .facts import Fact, FactGenerator
+from .feature_extractor import extract_features
+from .knowledge_base import KnowledgeBase
+from .normalizer import NormalizedPacket, normalize_packet
+from .vehicle_profile import VehicleProfile
+
+
+# OBD fields to feed into baselines alongside extracted features
+_OBD_BASELINE_FIELDS = ("rpm", "speed", "coolant_temp", "voltage")
+
+# Feature keys that are numeric and suitable for baseline tracking
+_NUMERIC_FEATURE_KEYS = (
+    "total_vibration",
+    "crest_factor_x", "crest_factor_y", "crest_factor_z",
+    "shape_ratio_x", "shape_ratio_y", "shape_ratio_z",
+    "ax_range", "ay_range", "az_range",
+    "ltft_abs",
+    "fuel_trim_delta",
+    "vibration_speed_ratio",
+)
+
+
+class DiagnosticPipeline:
+    """Full diagnostic cycle: raw data → normalize → features → baselines → facts.
+
+    Args:
+        vehicle_profile: Vehicle identity and correction factors.
+        dtc_index_path:  Path to DTC index JSON (optional, default sample).
+        situations_path: Path to situations JSON (optional, default sample).
+        baselines:       External BaselineStore instance (optional, creates new if None).
+    """
+
+    def __init__(
+        self,
+        vehicle_profile: VehicleProfile,
+        dtc_index_path: Optional[str] = None,
+        situations_path: Optional[str] = None,
+        baselines: Optional[BaselineStore] = None,
+    ) -> None:
+        # Knowledge base
+        if dtc_index_path is not None and situations_path is not None:
+            self._kb = KnowledgeBase(dtc_index_path, situations_path)
+        else:
+            # Allow construction without KB paths for minimal usage
+            import os
+            data_dir = os.path.join(os.path.dirname(__file__), "..", "data")
+            self._kb = KnowledgeBase(
+                os.path.join(data_dir, "dtc-index-sample.json"),
+                os.path.join(data_dir, "situations-sample.json"),
+            )
+
+        # Baseline store
+        self.baselines: BaselineStore = baselines if baselines is not None else BaselineStore()
+
+        # Fact generator
+        self._fact_generator = FactGenerator(vehicle_profile, self._kb)
+        self._profile = vehicle_profile
+
+    def process(self, raw_data: dict) -> Dict[str, Any]:
+        """Process a single raw telemetry packet through the full diagnostic pipeline.
+
+        Returns a dict with:
+            packet:              NormalizedPacket
+            features:            dict of extracted features
+            facts:               List[Fact]
+            tier:                str ('T1', 'T2', 'T3')
+            regime:              str (driving regime value)
+            baseline_ready:      bool (all key features have enough samples)
+            baseline_confidence: float (0.0 to 1.0)
+        """
+        # Step 1: Normalize
+        packet: NormalizedPacket = normalize_packet(raw_data)
+
+        # Step 2: Extract features
+        features: Dict[str, Any] = extract_features(packet)
+
+        # Step 3: Collect baseline features (numeric features + key OBD values)
+        baseline_features: Dict[str, Any] = {}
+
+        # Add numeric extracted features
+        for key in _NUMERIC_FEATURE_KEYS:
+            val = features.get(key)
+            if val is not None and isinstance(val, (int, float)):
+                baseline_features[key] = val
+
+        # Add OBD values
+        for obd_field in _OBD_BASELINE_FIELDS:
+            val = getattr(packet, obd_field, None)
+            if val is not None:
+                baseline_features[obd_field] = val
+
+        # Also add ltft_abs from features (already covered above) and
+        # az_std, total_vibration directly from packet/features for KEY_FEATURES tracking
+        az_std = getattr(packet, "az_std", None)
+        if az_std is not None:
+            baseline_features["az_std"] = az_std
+
+        # Step 4: Update baselines
+        regime_str = packet.regime.value
+        self.baselines.update(packet.regime, baseline_features)
+
+        # Step 5: Generate facts
+        facts: List[Fact] = self._fact_generator.generate(packet, features)
+
+        # Step 6: Build result
+        return {
+            "packet": packet,
+            "features": features,
+            "facts": facts,
+            "tier": packet.tier,
+            "regime": regime_str,
+            "baseline_ready": self.baselines.is_ready(packet.regime),
+            "baseline_confidence": self.baselines.confidence(packet.regime),
+        }
