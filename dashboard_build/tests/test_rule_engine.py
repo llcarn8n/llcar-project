@@ -136,9 +136,9 @@ class TestDataclasses:
 # ---------------------------------------------------------------------------
 
 class TestJSONLoading:
-    def test_json_rules_load_at_least_50(self):
+    def test_json_rules_load_at_least_75(self):
         engine = RuleEngine()
-        assert len(engine.rules) >= 50
+        assert len(engine.rules) >= 75
 
     def test_json_rules_have_required_fields(self):
         engine = RuleEngine()
@@ -316,9 +316,13 @@ class TestEdgeCases:
         baselines = _make_baselines_store()
 
         results = engine.run_all([], features, baselines, packet.regime, packet)
-        # Only oil_pressure_low remains a placeholder (no OBD sensor data)
+        # Placeholders: no OBD/PHEV sensor data yet
         placeholders = [r for r in results if r["name"] in (
             "oil_pressure_low",
+            "battery_temp_high",
+            "soc_critical",
+            "range_extender_overwork",
+            "motor_overheat",
         )]
         for r in placeholders:
             assert r["confidence"] == 0
