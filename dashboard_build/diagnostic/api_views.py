@@ -156,16 +156,18 @@ def diagnose_latest_view(request: Any) -> JsonResponse:
         from .db_writers import load_baselines
 
         with get_cursor() as cursor:
-            # 1. Get latest OBD data from ecu_7e8
+            # 1. Get latest OBD data from ecu_7e8 (10 rows for baseline accumulation)
             cursor.execute("""
                 SELECT p010c, p010d, p0105, p0106, p0107, p0142, p0104, p0111
                 FROM ecu_7e8
                 WHERE client_hash = %s
                   AND time > NOW() - INTERVAL '%s minutes'
-                ORDER BY time DESC LIMIT 1
+                ORDER BY time DESC LIMIT 10
             """, [client_hash, minutes])
 
-            obd_row = cursor.fetchone()
+            obd_rows = cursor.fetchall()
+            if not obd_rows:
+                obd_rows = []
 
             # 2. Get latest accel window
             cursor.execute("""
@@ -191,47 +193,32 @@ def diagnose_latest_view(request: Any) -> JsonResponse:
 
             audio_row = cursor.fetchone()
 
-            # 4. Assemble diagnostic packet
-            packet: Dict[str, Any] = {}
-
-            if obd_row:
-                rpm, speed, coolant, ltft_raw, stft_raw, voltage_mv, load, throttle = obd_row
-                packet["rpm"] = rpm
-                packet["speed"] = speed
-                packet["coolant_temp"] = coolant
-                # LTFT/STFT: raw OBD byte -> percentage: (value - 128) * 100 / 128
-                if ltft_raw is not None:
-                    packet["ltft_bank1"] = round((ltft_raw - 128) * 100 / 128, 2)
-                if stft_raw is not None:
-                    packet["stft_bank1"] = round((stft_raw - 128) * 100 / 128, 2)
-                # Voltage: mV -> V
-                if voltage_mv is not None:
-                    packet["voltage"] = round(voltage_mv / 1000, 1)
-                if load is not None:
-                    packet["engine_load"] = load
-                if throttle is not None:
-                    packet["throttle_pos"] = throttle
-
+            # 4. Prepare accel + audio data (shared across all OBD packets)
+            accel_data: Dict[str, Any] = {}
             if accel_row:
                 (ax_avg, ax_std, ax_min, ax_max,
                  ay_avg, ay_std, ay_min, ay_max,
                  az_avg, az_std, az_min, az_max) = accel_row
-                packet.update({
+                accel_data = {
                     "ax_avg": ax_avg, "ax_std": ax_std,
                     "ax_min": ax_min, "ax_max": ax_max,
                     "ay_avg": ay_avg, "ay_std": ay_std,
                     "ay_min": ay_min, "ay_max": ay_max,
                     "az_avg": az_avg, "az_std": az_std,
                     "az_min": az_min, "az_max": az_max,
-                })
+                }
 
+            audio_data: Dict[str, Any] = {}
             if audio_row:
                 freq, amp, quality = audio_row
-                packet["dominant_freq"] = freq
-                packet["dominant_amp"] = amp
-                packet["audio_quality"] = quality
+                audio_data = {
+                    "dominant_freq": freq,
+                    "dominant_amp": amp,
+                    "audio_quality": quality,
+                }
 
-            if not packet:
+            # Check if we have any data at all
+            if not obd_rows and not accel_data and not audio_data:
                 return JsonResponse({
                     "error": "no_data",
                     "message": "No recent data found",
@@ -257,12 +244,49 @@ def diagnose_latest_view(request: Any) -> JsonResponse:
                 vehicle_profile=profile, baselines=baselines,
             )
 
-            # Run full diagnosis with DB persistence
-            report = pipeline.full_diagnose(
-                packet, db_cursor=cursor, client_hash=client_hash,
-            )
+            # 6. Process multiple OBD packets for baseline accumulation
+            #    Iterate oldest-first so baselines build up properly;
+            #    the last report (most recent packet) is the one returned.
+            report: Dict[str, Any] = {}
+            if obd_rows:
+                for obd_row in reversed(obd_rows):  # oldest first
+                    packet: Dict[str, Any] = {}
+                    rpm, speed, coolant, ltft_raw, stft_raw, voltage_mv, load, throttle = obd_row
+                    packet["rpm"] = rpm
+                    packet["speed"] = speed
+                    packet["coolant_temp"] = coolant
+                    if ltft_raw is not None:
+                        packet["ltft_bank1"] = round((ltft_raw - 128) * 100 / 128, 2)
+                    if stft_raw is not None:
+                        packet["stft_bank1"] = round((stft_raw - 128) * 100 / 128, 2)
+                    if voltage_mv is not None:
+                        packet["voltage"] = round(voltage_mv / 1000, 1)
+                    if load is not None:
+                        packet["engine_load"] = load
+                    if throttle is not None:
+                        packet["throttle_pos"] = throttle
 
-            # Write DTC events if present in packet
+                    # Add accel + audio to each packet
+                    if accel_data:
+                        packet.update(accel_data)
+                    if audio_data:
+                        packet.update(audio_data)
+
+                    report = pipeline.full_diagnose(
+                        packet, db_cursor=cursor, client_hash=client_hash,
+                    )
+            else:
+                # No OBD data — run with accel/audio only
+                packet = {}
+                if accel_data:
+                    packet.update(accel_data)
+                if audio_data:
+                    packet.update(audio_data)
+                report = pipeline.full_diagnose(
+                    packet, db_cursor=cursor, client_hash=client_hash,
+                )
+
+            # Write DTC events if present in last packet
             dtc_codes = packet.get("dtc_codes", [])
             if dtc_codes:
                 freeze = {
@@ -338,7 +362,8 @@ def diagnose_latest_view(request: Any) -> JsonResponse:
 
             # Add metadata
             report["data_source"] = {
-                "has_obd": obd_row is not None,
+                "has_obd": len(obd_rows) > 0,
+                "obd_packets": len(obd_rows),
                 "has_accel": accel_row is not None,
                 "has_audio": audio_row is not None,
                 "minutes_searched": minutes,
