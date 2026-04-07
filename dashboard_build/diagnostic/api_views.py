@@ -1,9 +1,10 @@
 """API views for the diagnostic engine.
 
-Three endpoints:
-  POST /api/v2/diagnose/  — run full diagnostic pipeline on data packets
-  POST /api/v2/feedback/  — log user feedback on a diagnosis
-  GET  /api/v2/history/   — retrieve diagnostic history (placeholder)
+Four endpoints:
+  POST /api/v2/diagnose/          — run full diagnostic pipeline on data packets
+  GET  /api/v2/diagnose-latest/   — diagnose using latest server-side data from DB
+  POST /api/v2/feedback/          — log user feedback on a diagnosis
+  GET  /api/v2/history/           — retrieve diagnostic history (placeholder)
 
 Designed to work both inside Django and standalone (for testing without Django).
 """
@@ -121,6 +122,154 @@ def diagnose_view(request: Any) -> JsonResponse:
                 packet = {**packet, "dtc_codes": dtc_codes}
             report_fallback = pipeline.full_diagnose(packet)
         return JsonResponse(report_fallback or {}, status=200)
+
+
+# ---------------------------------------------------------------------------
+# GET /api/v2/diagnose-latest/
+# ---------------------------------------------------------------------------
+
+@csrf_exempt
+def diagnose_latest_view(request: Any) -> JsonResponse:
+    """GET /api/v2/diagnose-latest/ — diagnose using latest server data.
+
+    Reads latest OBD + accel + audio data from PostgreSQL,
+    assembles a diagnostic packet, runs full_diagnose().
+
+    Query params:
+        client_hash: str (required)
+        minutes: int (default 30, how far back to look for data)
+    """
+    if request.method != "GET":
+        return JsonResponse({"error": "Method not allowed"}, status=405)
+
+    client_hash = None
+    minutes = 30
+    if hasattr(request, "GET") and request.GET is not None:
+        client_hash = request.GET.get("client_hash")
+        minutes = int(request.GET.get("minutes", "30"))
+
+    if not client_hash:
+        return JsonResponse({"error": "client_hash required"}, status=400)
+
+    try:
+        from .db import get_cursor
+        from .db_writers import load_baselines
+
+        with get_cursor() as cursor:
+            # 1. Get latest OBD data from ecu_7e8
+            cursor.execute("""
+                SELECT p010c, p010d, p0105, p0106, p0107, p0142, p0104, p0111
+                FROM ecu_7e8
+                WHERE client_hash = %s
+                  AND time > NOW() - INTERVAL '%s minutes'
+                ORDER BY time DESC LIMIT 1
+            """, [client_hash, minutes])
+
+            obd_row = cursor.fetchone()
+
+            # 2. Get latest accel window
+            cursor.execute("""
+                SELECT ax_avg, ax_std, ax_min, ax_max,
+                       ay_avg, ay_std, ay_min, ay_max,
+                       az_avg, az_std, az_min, az_max
+                FROM accel_windows
+                WHERE client_hash = %s
+                  AND time > NOW() - INTERVAL '%s minutes'
+                ORDER BY time DESC LIMIT 1
+            """, [client_hash, minutes])
+
+            accel_row = cursor.fetchone()
+
+            # 3. Get latest audio window
+            cursor.execute("""
+                SELECT freq_1, amp_1, quality
+                FROM audio_windows
+                WHERE client_hash = %s
+                  AND time > NOW() - INTERVAL '%s minutes'
+                ORDER BY time DESC LIMIT 1
+            """, [client_hash, minutes])
+
+            audio_row = cursor.fetchone()
+
+            # 4. Assemble diagnostic packet
+            packet: Dict[str, Any] = {}
+
+            if obd_row:
+                rpm, speed, coolant, ltft_raw, stft_raw, voltage_mv, load, throttle = obd_row
+                packet["rpm"] = rpm
+                packet["speed"] = speed
+                packet["coolant_temp"] = coolant
+                # LTFT/STFT: raw OBD byte -> percentage: (value - 128) * 100 / 128
+                if ltft_raw is not None:
+                    packet["ltft_bank1"] = round((ltft_raw - 128) * 100 / 128, 2)
+                if stft_raw is not None:
+                    packet["stft_bank1"] = round((stft_raw - 128) * 100 / 128, 2)
+                # Voltage: mV -> V
+                if voltage_mv is not None:
+                    packet["voltage"] = round(voltage_mv / 1000, 1)
+                if load is not None:
+                    packet["engine_load"] = load
+                if throttle is not None:
+                    packet["throttle_pos"] = throttle
+
+            if accel_row:
+                (ax_avg, ax_std, ax_min, ax_max,
+                 ay_avg, ay_std, ay_min, ay_max,
+                 az_avg, az_std, az_min, az_max) = accel_row
+                packet.update({
+                    "ax_avg": ax_avg, "ax_std": ax_std,
+                    "ax_min": ax_min, "ax_max": ax_max,
+                    "ay_avg": ay_avg, "ay_std": ay_std,
+                    "ay_min": ay_min, "ay_max": ay_max,
+                    "az_avg": az_avg, "az_std": az_std,
+                    "az_min": az_min, "az_max": az_max,
+                })
+
+            if audio_row:
+                freq, amp, quality = audio_row
+                packet["dominant_freq"] = freq
+                packet["dominant_amp"] = amp
+                packet["audio_quality"] = quality
+
+            if not packet:
+                return JsonResponse({
+                    "error": "no_data",
+                    "message": "No recent data found",
+                    "minutes_searched": minutes,
+                }, status=200)
+
+            # 5. Create profile and run diagnosis
+            profile = VehicleProfile(
+                client_hash=client_hash,
+                brand="li_auto",
+                model="L7",
+                year=2023,
+            )
+
+            # Load existing baselines
+            baselines = load_baselines(cursor, client_hash)
+            pipeline = DiagnosticPipeline(
+                vehicle_profile=profile, baselines=baselines,
+            )
+
+            # Run full diagnosis with DB persistence
+            report = pipeline.full_diagnose(
+                packet, db_cursor=cursor, client_hash=client_hash,
+            )
+
+            # Add metadata
+            report["data_source"] = {
+                "has_obd": obd_row is not None,
+                "has_accel": accel_row is not None,
+                "has_audio": audio_row is not None,
+                "minutes_searched": minutes,
+            }
+
+            return JsonResponse(report, status=200)
+
+    except Exception as e:
+        logger.error("diagnose_latest failed: %s", str(e))
+        return JsonResponse({"error": str(e)}, status=500)
 
 
 # ---------------------------------------------------------------------------

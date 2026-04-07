@@ -74,10 +74,31 @@ export interface HistoryEntry {
 export function useDiagnosticV2(clientHash: string) {
   const [report, setReport] = useState<DiagnosticReport | null>(null)
   const [history, setHistory] = useState<HistoryEntry[]>([])
-  const [loading, _setLoading] = useState(false)
-  const [error, _setError] = useState<string | null>(null)
+  const [loading, setLoading] = useState(true)
+  const [error, setError] = useState<string | null>(null)
 
-  // Fetch history on mount and periodically
+  // Fetch latest diagnosis from server
+  const fetchLatest = useCallback(async () => {
+    try {
+      setLoading(true)
+      const res = await fetch(`/api/v2/diagnose-latest/?client_hash=${clientHash}&minutes=1440`)
+      if (res.ok) {
+        const data = await res.json()
+        if (!data.error) {
+          setReport(data as DiagnosticReport)
+          setError(null)
+        } else {
+          setError(data.message || 'No data')
+        }
+      }
+    } catch (e: any) {
+      setError(e.message)
+    } finally {
+      setLoading(false)
+    }
+  }, [clientHash])
+
+  // Fetch history
   const fetchHistory = useCallback(async (period = '7d') => {
     try {
       const res = await fetch(`/api/v2/history/?client_hash=${clientHash}&period=${period}`)
@@ -90,11 +111,14 @@ export function useDiagnosticV2(clientHash: string) {
     }
   }, [clientHash])
 
+  // Auto-fetch on mount + periodic refresh
   useEffect(() => {
+    fetchLatest()
     fetchHistory()
-    const timer = setInterval(() => fetchHistory(), 60000)
-    return () => clearInterval(timer)
-  }, [fetchHistory])
+    const timer1 = setInterval(fetchLatest, 30000)
+    const timer2 = setInterval(() => fetchHistory(), 60000)
+    return () => { clearInterval(timer1); clearInterval(timer2) }
+  }, [fetchLatest, fetchHistory])
 
   // Send feedback
   const sendFeedback = useCallback(async (ruleName: string, action: 'confirmed' | 'dismissed') => {
@@ -114,5 +138,5 @@ export function useDiagnosticV2(clientHash: string) {
     }
   }, [clientHash])
 
-  return { report, history, loading, error, sendFeedback, fetchHistory, setReport }
+  return { report, history, loading, error, sendFeedback, fetchHistory, fetchLatest, setReport }
 }

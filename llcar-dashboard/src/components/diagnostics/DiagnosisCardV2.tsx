@@ -5,6 +5,7 @@ import type { DiagnosticReport } from '../../hooks/useDiagnosticV2'
 
 interface DiagnosisCardV2Props {
   report: DiagnosticReport | null
+  loading?: boolean
   onFeedback: (ruleName: string, action: 'confirmed' | 'dismissed') => Promise<boolean>
 }
 
@@ -28,7 +29,7 @@ const STATUS_LABELS: Record<string, string> = {
   clear: 'НОРМА',
 }
 
-export function DiagnosisCardV2({ report, onFeedback }: DiagnosisCardV2Props) {
+export function DiagnosisCardV2({ report, loading, onFeedback }: DiagnosisCardV2Props) {
   if (!report) {
     return (
       <GlassPanel>
@@ -108,7 +109,17 @@ export function DiagnosisCardV2({ report, onFeedback }: DiagnosisCardV2Props) {
     <GlassPanel>
       {/* Header + Can Drive status */}
       <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 12 }}>
-        <div className="hud-header">ДИАГНОСТИКА V2</div>
+        <div className="hud-header" style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+          ДИАГНОСТИКА V2
+          {loading && (
+            <div style={{
+              width: 10, height: 10, borderRadius: '50%',
+              border: `1.5px solid ${theme.accent.cyan}30`,
+              borderTopColor: theme.accent.cyan,
+              animation: 'spin 1s linear infinite',
+            }} />
+          )}
+        </div>
         <div style={{
           display: 'flex', alignItems: 'center', gap: 6,
           padding: '3px 10px', borderRadius: 2,

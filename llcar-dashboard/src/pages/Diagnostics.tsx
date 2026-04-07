@@ -19,7 +19,7 @@ const CUSUMChart = lazy(() => import('../components/panels/CUSUMChart').then(m =
 
 export function Diagnostics() {
   const { clientHash, timeRange, expertMode, toggleExpert, useV2Api, toggleV2Api } = useDashboardStore()
-  const { report: v2Report, history: v2History, sendFeedback } = useDiagnosticV2(clientHash)
+  const { report: v2Report, history: v2History, loading: v2Loading, error: _v2Error, sendFeedback } = useDiagnosticV2(clientHash)
 
   const { data: anomaly } = useApiData<any>({
     endpoint: '/api/anomaly/',
@@ -97,7 +97,7 @@ export function Diagnostics() {
         onClick={() => toggle('diag')}
       >
         {useV2Api ? (
-          <DiagnosisCardV2 report={v2Report} onFeedback={sendFeedback} />
+          <DiagnosisCardV2 report={v2Report} loading={v2Loading} onFeedback={sendFeedback} />
         ) : (
           <DiagnosisCard
             diagnostics={diagnostics}
