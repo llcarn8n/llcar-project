@@ -175,7 +175,8 @@ class DiagnosisBuilder:
         worst_priority = _DRIVE_PRIORITY[worst]
 
         for fact in facts:
-            drive_status = _SEVERITY_TO_DRIVE.get(fact.severity, "safe")
+            # Unknown severity defaults to caution (safety-first in car diagnostics)
+            drive_status = _SEVERITY_TO_DRIVE.get(fact.severity, "caution")
             priority = _DRIVE_PRIORITY.get(drive_status, 0)
             if priority > worst_priority:
                 worst = drive_status
@@ -203,6 +204,9 @@ class DiagnosisBuilder:
             system = _RULE_TO_SYSTEM.get(rr["name"])
             if system is None:
                 continue
+            # Intentionally includes all confidence > 0, not just >= min_confidence.
+            # Health score is a lower-level signal: even sub-threshold anomalies
+            # should depress it slightly. Diagnosis list uses min_confidence filter.
             if rr["confidence"] > 0:
                 system_confidences[system].append(rr["confidence"])
 
@@ -301,7 +305,8 @@ class DiagnosisBuilder:
             if situations:
                 return situations[0]
 
-        # No situations found from DTCs — return empty fallback
+        # TODO Plan 3: add KnowledgeBase.find_situation_by_id() and use
+        # rule_result.get("situation_id") here for rules without DTC codes.
         return {}
 
     @staticmethod
