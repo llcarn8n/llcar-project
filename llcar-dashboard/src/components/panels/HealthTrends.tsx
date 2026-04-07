@@ -9,14 +9,55 @@ interface HealthTrendsProps {
 
 export function HealthTrends({ history, trends }: HealthTrendsProps) {
   if (!history || history.length === 0) {
+    const emptySystems = [
+      { label: 'Общий', color: theme.accent.cyan },
+      { label: 'Подвеска', color: '#FF6B35' },
+      { label: 'Двигатель', color: '#FFD700' },
+      { label: 'Электрика', color: '#7B68EE' },
+      { label: 'Аудио', color: '#00E676' },
+    ]
+
     return (
       <GlassPanel>
-        <div className="hud-header mb-3">ТРЕНДЫ</div>
+        <div className="hud-header mb-3">ТРЕНДЫ ЗДОРОВЬЯ</div>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
+          {emptySystems.map(({ label, color }) => (
+            <div key={label} style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+              <span style={{
+                width: 70, fontSize: 11, fontFamily: "'Rajdhani', sans-serif",
+                color: `${theme.text.muted}80`, letterSpacing: '0.03em',
+              }}>
+                {label}
+              </span>
+              {/* Skeleton sparkline */}
+              <div style={{
+                flex: 1, height: 20, position: 'relative',
+                background: `linear-gradient(90deg, transparent 0%, ${color}08 50%, transparent 100%)`,
+                borderRadius: 2,
+              }}>
+                <div style={{
+                  position: 'absolute', top: 9, left: 0, right: 0, height: 1,
+                  background: `${color}15`,
+                }} />
+              </div>
+              <span style={{
+                width: 30, textAlign: 'right', fontSize: 13,
+                fontFamily: "Consolas, monospace", fontWeight: 'bold',
+                color: theme.text.muted,
+              }}>
+                --
+              </span>
+              <span style={{ width: 20, textAlign: 'center', fontSize: 16, color: `${theme.accent.cyan}40` }}>
+                {'\u2192'}
+              </span>
+            </div>
+          ))}
+        </div>
         <div style={{
-          textAlign: 'center', padding: '20px 0',
-          color: theme.text.muted, fontSize: 12, fontFamily: "'Rajdhani', sans-serif"
+          marginTop: 8, textAlign: 'center', fontSize: 9,
+          fontFamily: "'Orbitron', sans-serif", color: `${theme.text.muted}80`, letterSpacing: '0.1em',
         }}>
-          Нет данных истории
+          ОЖИДАНИЕ ДАННЫХ
         </div>
       </GlassPanel>
     )

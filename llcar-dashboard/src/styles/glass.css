@@ -131,6 +131,12 @@ body::after {
 .status-warning { color: #FFB800; text-shadow: 0 0 8px rgba(255, 184, 0, 0.5); }
 .status-critical { color: #FF1744; text-shadow: 0 0 8px rgba(255, 23, 68, 0.5); }
 
+/* ── Spin animation for loading indicators ── */
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
 /* ── Pulse animation for critical values ── */
 @keyframes pulse-critical {
   0%, 100% { opacity: 1; }

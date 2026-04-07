@@ -33,8 +33,69 @@ export function DiagnosisCardV2({ report, onFeedback }: DiagnosisCardV2Props) {
     return (
       <GlassPanel>
         <div className="hud-header mb-3">ДИАГНОСТИКА V2</div>
-        <div style={{ textAlign: 'center', padding: 20, color: theme.text.muted, fontSize: 12, fontFamily: "'Rajdhani', sans-serif" }}>
-          Нет данных
+        <div style={{
+          display: 'flex', flexDirection: 'column', alignItems: 'center',
+          justifyContent: 'center', padding: '24px 16px', gap: 12,
+        }}>
+          {/* Animated scan ring */}
+          <div style={{
+            width: 56, height: 56, borderRadius: '50%',
+            border: `2px solid ${theme.accent.cyan}30`,
+            borderTopColor: theme.accent.cyan,
+            animation: 'spin 2s linear infinite',
+            display: 'flex', alignItems: 'center', justifyContent: 'center',
+          }}>
+            <div style={{
+              width: 32, height: 32, borderRadius: '50%',
+              border: `1px solid ${theme.accent.cyan}20`,
+              display: 'flex', alignItems: 'center', justifyContent: 'center',
+              fontSize: 16, color: theme.accent.cyan,
+            }}>
+              V2
+            </div>
+          </div>
+
+          <div style={{ textAlign: 'center' }}>
+            <div style={{
+              fontSize: 13, fontFamily: "'Rajdhani', sans-serif", fontWeight: 600,
+              color: theme.text.secondary, letterSpacing: '0.03em', marginBottom: 4,
+            }}>
+              Ожидание данных
+            </div>
+            <div style={{
+              fontSize: 10, fontFamily: "'Rajdhani', sans-serif",
+              color: theme.text.muted, lineHeight: 1.4,
+            }}>
+              Данные появятся после начала движения.
+              <br />
+              62 правила диагностики готовы к анализу.
+            </div>
+          </div>
+
+          {/* Status indicators */}
+          <div style={{
+            display: 'flex', gap: 12, marginTop: 4,
+          }}>
+            {[
+              { label: 'Движок', ok: true },
+              { label: 'Правила', ok: true },
+              { label: 'Baseline', ok: false },
+            ].map(({ label, ok }) => (
+              <div key={label} style={{ display: 'flex', alignItems: 'center', gap: 4 }}>
+                <div style={{
+                  width: 6, height: 6, borderRadius: '50%',
+                  backgroundColor: ok ? theme.status.ok : theme.status.warning,
+                  boxShadow: `0 0 4px ${ok ? theme.status.ok : theme.status.warning}`,
+                }} />
+                <span style={{
+                  fontSize: 9, fontFamily: "'Orbitron', sans-serif",
+                  color: theme.text.muted, letterSpacing: '0.05em',
+                }}>
+                  {label}
+                </span>
+              </div>
+            ))}
+          </div>
         </div>
       </GlassPanel>
     )

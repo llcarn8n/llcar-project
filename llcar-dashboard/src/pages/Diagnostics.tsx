@@ -93,7 +93,7 @@ export function Diagnostics() {
       {/* Row 1: Diagnosis Card + AccelBars + Audio Spectrum */}
       {/* Expanded panel takes full row, others collapse */}
       <div
-        className={`${expanded === 'diag' ? 'col-span-12' : expanded ? 'hidden' : 'col-span-3'} cursor-pointer transition-all duration-300`}
+        className={`${expanded === 'diag' ? 'col-span-12' : expanded ? 'hidden' : useV2Api ? 'col-span-4' : 'col-span-3'} cursor-pointer transition-all duration-300`}
         onClick={() => toggle('diag')}
       >
         {useV2Api ? (
@@ -115,7 +115,7 @@ export function Diagnostics() {
       </div>
 
       <div
-        className={`${expanded === 'audio' ? 'col-span-12' : expanded ? 'hidden' : 'col-span-5'} cursor-pointer transition-all duration-300`}
+        className={`${expanded === 'audio' ? 'col-span-12' : expanded ? 'hidden' : useV2Api ? 'col-span-4' : 'col-span-5'} cursor-pointer transition-all duration-300`}
         onClick={() => toggle('audio')}
       >
         <AudioSpectrum data={audioData} />
@@ -140,8 +140,11 @@ export function Diagnostics() {
           <div className="hud-header mb-3">Подсистемы</div>
           <div className="space-y-3">
             {(['suspension', 'engine', 'electrical', 'audio'] as const).map(sys => {
+              // Use V2 scores when available
+              const v2Score = useV2Api && v2Report ? v2Report.health_scores[sys] : null
               const sysData = systems[sys]
-              const score = sysData?.score ?? 0
+              const score = v2Score !== null ? v2Score : (sysData?.score ?? 0)
+              const trend = useV2Api && v2Report ? v2Report.health_trends[sys] : null
               const sysNames: Record<string, string> = {
                 suspension: 'Подвеска',
                 engine: 'Двигатель',
@@ -155,6 +158,14 @@ export function Diagnostics() {
                       {sysNames[sys]}
                     </span>
                     <div className="flex items-center gap-2">
+                      {trend && (
+                        <span style={{
+                          fontSize: 14,
+                          color: trend === '\u2193' ? theme.status.critical : trend === '\u2191' ? theme.status.ok : theme.accent.cyan,
+                        }}>
+                          {trend}
+                        </span>
+                      )}
                       <span className="text-xs font-mono" style={{
                         color: isOffline && score === 0 ? theme.text.muted : score >= 80 ? theme.status.ok : score >= 50 ? theme.status.warning : theme.status.critical,
                       }}>
@@ -164,8 +175,8 @@ export function Diagnostics() {
                     </div>
                   </div>
                   <HealthBar score={score} label="" />
-                  {/* Feature z-scores */}
-                  {sysData?.features && (
+                  {/* Feature z-scores (V1 only) */}
+                  {!useV2Api && sysData?.features && (
                     <div className="mt-1 flex flex-wrap gap-1 overflow-hidden max-w-full">
                       {Object.entries(sysData.features as Record<string, any>)
                         .filter(([, v]: [string, any]) => v.status !== 'missing')
