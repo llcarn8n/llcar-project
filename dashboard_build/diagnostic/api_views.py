@@ -471,3 +471,55 @@ def history_view(request: Any) -> JsonResponse:
         data = []
 
     return JsonResponse(data, safe=False, status=200)
+
+
+# ---------------------------------------------------------------------------
+# GET /api/v2/correlations/
+# ---------------------------------------------------------------------------
+
+@csrf_exempt
+def correlations_view(request: Any) -> JsonResponse:
+    """GET /api/v2/correlations/ — get latest correlation results for a client."""
+    if request.method != "GET":
+        return JsonResponse({"error": "Method not allowed"}, status=405)
+
+    client_hash = None
+    if hasattr(request, "GET") and request.GET is not None:
+        client_hash = request.GET.get("client_hash")
+
+    if not client_hash:
+        return JsonResponse([], safe=False, status=200)
+
+    try:
+        from .db import get_cursor
+
+        with get_cursor() as cursor:
+            module_name = type(cursor).__module__
+            ph = "?" if "sqlite" in module_name else "%s"
+
+            if ph == "?":
+                cursor.execute("""
+                    SELECT time, correlation_type, r_value, slope, p_value,
+                           data_points, regime, diagnosis_hint
+                    FROM correlation_results
+                    WHERE client_hash = ?
+                    ORDER BY time DESC LIMIT 20
+                """, (client_hash,))
+            else:
+                cursor.execute("""
+                    SELECT time, correlation_type, r_value, slope, p_value,
+                           data_points, regime, diagnosis_hint
+                    FROM correlation_results
+                    WHERE client_hash = %s
+                      AND time > NOW() - INTERVAL '30 days'
+                    ORDER BY time DESC LIMIT 20
+                """, (client_hash,))
+
+            columns = [
+                "time", "correlation_type", "r_value", "slope",
+                "p_value", "data_points", "regime", "diagnosis_hint",
+            ]
+            results = [dict(zip(columns, row)) for row in cursor.fetchall()]
+            return JsonResponse(results, safe=False, status=200)
+    except Exception:
+        return JsonResponse([], safe=False, status=200)

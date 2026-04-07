@@ -17,6 +17,7 @@ import { RecallsPanel } from '../components/panels/RecallsPanel'
 import { EscalationTimeline } from '../components/panels/EscalationTimeline'
 import { NextSteps } from '../components/panels/NextSteps'
 import { FuelLossWidget } from '../components/panels/FuelLossWidget'
+import { CorrelationPanel } from '../components/panels/CorrelationPanel'
 import { OnboardingTour } from '../components/onboarding/OnboardingTour'
 
 const CoherenceMap = lazy(() => import('../components/panels/CoherenceMap').then(m => ({ default: m.CoherenceMap })))
@@ -250,6 +251,11 @@ export function Diagnostics() {
           {/* Recalls */}
           <div className="col-span-12">
             <RecallsPanel recalls={v2Report.recalls || []} />
+          </div>
+
+          {/* Correlations */}
+          <div className="col-span-12">
+            <CorrelationPanel clientHash={clientHash} />
           </div>
         </div>
       )}
