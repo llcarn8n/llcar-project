@@ -18,6 +18,7 @@ import { EscalationTimeline } from '../components/panels/EscalationTimeline'
 import { NextSteps } from '../components/panels/NextSteps'
 import { FuelLossWidget } from '../components/panels/FuelLossWidget'
 import { CorrelationPanel } from '../components/panels/CorrelationPanel'
+import { TripCompare } from '../components/panels/TripCompare'
 import { OnboardingTour } from '../components/onboarding/OnboardingTour'
 
 const CoherenceMap = lazy(() => import('../components/panels/CoherenceMap').then(m => ({ default: m.CoherenceMap })))
@@ -227,6 +228,13 @@ export function Diagnostics() {
       {/* Row 3: V2 additional panels */}
       {useV2Api && v2Report && !expanded && (
         <div className="col-span-12 grid grid-cols-12 gap-3">
+          {/* Trip Compare */}
+          {v2History.length >= 2 && (
+            <div className="col-span-12 lg:col-span-3">
+              <TripCompare history={v2History} />
+            </div>
+          )}
+
           {/* Fuel Loss (if present) */}
           {v2Report.fuel_loss && (
             <div className="col-span-12 lg:col-span-3">
