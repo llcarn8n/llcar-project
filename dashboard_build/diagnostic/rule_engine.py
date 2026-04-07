@@ -21,7 +21,6 @@ Status mapping:
 from __future__ import annotations
 
 import json
-import math
 from dataclasses import dataclass, field
 from enum import Enum
 from pathlib import Path
@@ -398,17 +397,6 @@ class RuleEngine:
     # ------------------------------------------------------------------
     # Helpers
     # ------------------------------------------------------------------
-
-    @staticmethod
-    def _confidence_to_status(confidence: float) -> str:
-        """Map numeric confidence to a status string."""
-        if confidence >= 70:
-            return "likely"
-        if confidence >= 40:
-            return "possible"
-        if confidence > 0:
-            return "unlikely"
-        return "clear"
 
     @staticmethod
     def _make_result(
