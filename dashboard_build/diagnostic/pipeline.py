@@ -13,10 +13,13 @@ from __future__ import annotations
 from typing import Any, Dict, List, Optional
 
 from .baseline_store import BaselineStore
+from .diagnosis_builder import DiagnosisBuilder
 from .facts import Fact, FactGenerator
 from .feature_extractor import extract_features
+from .fuel_trim_analyzer import FuelTrimAnalyzer
 from .knowledge_base import KnowledgeBase
 from .normalizer import NormalizedPacket, normalize_packet
+from .rule_engine import RuleEngine
 from .vehicle_profile import VehicleProfile
 
 
@@ -70,6 +73,11 @@ class DiagnosticPipeline:
         # Fact generator
         self._fact_generator = FactGenerator(vehicle_profile, self._kb)
         self._profile = vehicle_profile
+
+        # Plan 2 components: fuel-trim analysis, rule engine, diagnosis builder
+        self._fuel_trim_analyzer = FuelTrimAnalyzer(vehicle_profile)
+        self._rule_engine = RuleEngine()
+        self._diagnosis_builder = DiagnosisBuilder(self._kb, vehicle_profile)
 
     def process(self, raw_data: dict) -> Dict[str, Any]:
         """Process a single raw telemetry packet through the full diagnostic pipeline.
@@ -127,3 +135,58 @@ class DiagnosticPipeline:
             "baseline_ready": self.baselines.is_ready(packet.regime),
             "baseline_confidence": self.baselines.confidence(packet.regime),
         }
+
+    # ------------------------------------------------------------------
+    # Full diagnosis cycle (Plan 2)
+    # ------------------------------------------------------------------
+
+    def full_diagnose(self, raw_data: dict) -> Dict[str, Any]:
+        """Run the complete diagnostic cycle and return a 7-block report.
+
+        Steps:
+          1. process(raw_data) → pipeline result (normalize → features → baselines → facts)
+          2. FuelTrimAnalyzer.analyze() if LTFT data is present
+          3. RuleEngine.run_all() against facts, features, baselines
+          4. DiagnosisBuilder.build_report() → 7-block report
+
+        Returns:
+            Dict with keys: can_drive, health_scores, health_trends,
+            diagnoses, fuel_loss, recalls, next_steps, confidence,
+            baseline_status, rule_version.
+        """
+        # Step 1: existing pipeline processing
+        pipeline_result = self.process(raw_data)
+        packet: NormalizedPacket = pipeline_result["packet"]
+        features: Dict[str, Any] = pipeline_result["features"]
+        facts: List[Fact] = pipeline_result["facts"]
+
+        # Step 2: Fuel trim analysis (only if LTFT data available)
+        fuel_trim_result = None
+        if packet.ltft_bank1 is not None:
+            stft = packet.stft_bank1 if packet.stft_bank1 is not None else 0.0
+            fuel_trim_result = self._fuel_trim_analyzer.analyze(
+                ltft=packet.ltft_bank1,
+                stft=stft,
+                regime=packet.regime,
+                coolant_temp=packet.coolant_temp,
+                ambient_temp=packet.engine_context.ambient_temp,
+            )
+
+        # Step 3: Rule engine evaluation
+        rule_results = self._rule_engine.run_all(
+            facts=facts,
+            features=features,
+            baselines=self.baselines,
+            regime=packet.regime,
+            packet=packet,
+        )
+
+        # Step 4: Build diagnosis report
+        report = self._diagnosis_builder.build_report(
+            pipeline_result=pipeline_result,
+            rule_results=rule_results,
+            fuel_trim_result=fuel_trim_result,
+            baseline_store=self.baselines,
+        )
+
+        return report
