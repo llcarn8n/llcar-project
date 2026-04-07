@@ -1,0 +1,46 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Build artifacts
+dist/
+build/
+*.tsbuildinfo
+
+# Screenshots & images (large binaries)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.pptx
+
+# IDE & tools
+.playwright-mcp/
+.superpowers/
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Temp files
+*.tmp
+~$*
+
+# Environment
+.env
+.env.local
+
+# App binary artifacts
+_archive/old-app-v104/llcarv104/llcarv104/bin/
+_archive/old-app-v104/llcarv104/llcarv104/obj/
+_archive/old-app-v104/llcarv104/llcarv104/node_modules/
+
+# Large data files
+*.glb
+*.gltf
+*.bin
+pids_rxtx.txt
