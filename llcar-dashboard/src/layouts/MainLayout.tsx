@@ -11,7 +11,7 @@ const tabs = [
 ]
 
 export function MainLayout({ children }: { children: ReactNode }) {
-  const { activeTab, setTab, sidebarOpen, toggleSidebar, clientHash, timeRange } = useDashboardStore()
+  const { activeTab, setTab, sidebarOpen, toggleSidebar, clientHash, timeRange, isDarkMode, toggleTheme } = useDashboardStore()
 
   const { data: recentData } = useApiData<any[]>({
     endpoint: '/api/data/',
@@ -22,17 +22,21 @@ export function MainLayout({ children }: { children: ReactNode }) {
   const isOnline = Array.isArray(recentData) && recentData.length > 0
 
   return (
-    <div className="min-h-screen overflow-x-hidden" style={{ backgroundColor: theme.bg.void }}>
+    <div className="min-h-screen overflow-x-hidden" style={{ backgroundColor: isDarkMode ? theme.bg.void : '#F0F4F8' }}>
       {/* Breathing background orbs */}
       <div style={{ position: 'fixed', inset: 0, zIndex: 0, pointerEvents: 'none', overflow: 'hidden' }}>
         <div style={{
           position: 'absolute', top: '20%', left: '20%', width: 500, height: 500, borderRadius: '50%',
-          background: 'radial-gradient(circle, rgba(0,229,255,0.2) 0%, transparent 70%)',
+          background: isDarkMode
+            ? 'radial-gradient(circle, rgba(0,229,255,0.2) 0%, transparent 70%)'
+            : 'radial-gradient(circle, rgba(8,145,178,0.08) 0%, transparent 70%)',
           filter: 'blur(60px)', animation: 'breathe1 12s ease-in-out infinite',
         }} />
         <div style={{
           position: 'absolute', bottom: '10%', right: '15%', width: 400, height: 400, borderRadius: '50%',
-          background: 'radial-gradient(circle, rgba(255,23,68,0.12) 0%, transparent 70%)',
+          background: isDarkMode
+            ? 'radial-gradient(circle, rgba(255,23,68,0.12) 0%, transparent 70%)'
+            : 'radial-gradient(circle, rgba(220,38,38,0.05) 0%, transparent 70%)',
           filter: 'blur(60px)', animation: 'breathe2 18s ease-in-out infinite',
         }} />
       </div>
@@ -113,8 +117,16 @@ export function MainLayout({ children }: { children: ReactNode }) {
           </div>
 
           <button
+            onClick={toggleTheme}
+            className="theme-toggle"
+            title={isDarkMode ? 'Light mode' : 'Dark mode'}
+          >
+            {isDarkMode ? '\u2600' : '\u263E'}
+          </button>
+
+          <button
             onClick={toggleSidebar}
-            className="text-white/40 hover:text-white/70 font-mono text-xl px-3 py-2 min-w-[44px] min-h-[44px] flex items-center justify-center"
+            className={`font-mono text-xl px-3 py-2 min-w-[44px] min-h-[44px] flex items-center justify-center ${isDarkMode ? 'text-white/40 hover:text-white/70' : 'text-gray-500 hover:text-gray-700'}`}
           >
             {sidebarOpen ? '\u2715' : '\u2630'}
           </button>

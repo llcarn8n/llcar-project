@@ -431,6 +431,287 @@ body::after {
   50% { transform: translateY(-10px); }
 }
 
+/* ── Light Mode Overrides ── */
+body.light-mode {
+  background-color: #F0F4F8 !important;
+  color: #1A202C !important;
+  background-image: radial-gradient(circle at 1px 1px, rgba(0,130,150,0.08) 1px, transparent 0) !important;
+}
+
+body.light-mode::before {
+  background:
+    repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 2px,
+      rgba(0,130,150,0.015) 2px,
+      rgba(0,130,150,0.015) 4px
+    ),
+    radial-gradient(circle at 50% 50%, rgba(0,130,150,0.03) 0%, transparent 70%) !important;
+}
+
+body.light-mode::after {
+  background: radial-gradient(circle, transparent 40%, rgba(240,244,248,0.6) 130%) !important;
+}
+
+/* Glass panels */
+body.light-mode .glass-panel {
+  background: linear-gradient(135deg, rgba(255,255,255,0.8) 0%, rgba(245,248,252,0.7) 100%) !important;
+  border: 1px solid rgba(0,130,150,0.12) !important;
+  border-top: 1px solid rgba(255,255,255,0.9) !important;
+  border-left: 2px solid rgba(0,130,150,0.3) !important;
+  box-shadow:
+    0 1px 3px rgba(0,0,0,0.08),
+    0 4px 16px rgba(0,0,0,0.04),
+    inset 0 1px 0 rgba(255,255,255,0.8) !important;
+  color: #1A202C !important;
+}
+
+body.light-mode .glass-panel:hover {
+  border-color: rgba(0,130,150,0.25) !important;
+  box-shadow:
+    0 2px 8px rgba(0,130,150,0.1),
+    0 4px 16px rgba(0,0,0,0.06),
+    inset 0 0 10px rgba(0,130,150,0.03) !important;
+}
+
+body.light-mode .glass-panel::before,
+body.light-mode .glass-panel::after {
+  border-color: rgba(0,130,150,0.2) !important;
+}
+
+/* Typography */
+body.light-mode .hud-header {
+  color: rgba(13,148,136,0.85) !important;
+}
+
+body.light-mode .hud-header::before {
+  background: #0891B2 !important;
+  box-shadow: 0 0 6px rgba(8,145,178,0.4) !important;
+}
+
+body.light-mode .metric-value {
+  color: #0891B2 !important;
+  text-shadow:
+    0 0 6px rgba(8,145,178,0.2),
+    0 0 12px rgba(8,145,178,0.1) !important;
+}
+
+body.light-mode .metric-label {
+  color: rgba(74,85,104,0.7) !important;
+}
+
+body.light-mode .metric-unit {
+  color: rgba(13,148,136,0.5) !important;
+}
+
+body.light-mode .stat-value {
+  color: #0891B2 !important;
+  text-shadow:
+    0 0 8px rgba(8,145,178,0.3),
+    0 0 16px rgba(8,145,178,0.15) !important;
+}
+
+body.light-mode .stat-value.critical {
+  color: #DC2626 !important;
+  text-shadow: 0 0 8px rgba(220,38,38,0.3), 0 0 16px rgba(220,38,38,0.15) !important;
+}
+
+/* Status colors — slightly muted for light bg */
+body.light-mode .status-ok {
+  color: #059669 !important;
+  text-shadow: none !important;
+}
+
+body.light-mode .status-warning {
+  color: #D97706 !important;
+  text-shadow: none !important;
+}
+
+body.light-mode .status-critical {
+  color: #DC2626 !important;
+  text-shadow: none !important;
+}
+
+/* Nav buttons */
+body.light-mode .nav-btn {
+  color: #4A5568 !important;
+  border-color: rgba(0,130,150,0.15) !important;
+  background: transparent !important;
+}
+
+body.light-mode .nav-btn:hover {
+  background: rgba(0,130,150,0.06) !important;
+  color: #1A202C !important;
+  border-color: rgba(0,130,150,0.3) !important;
+}
+
+body.light-mode .nav-btn.active {
+  background: rgba(8,145,178,0.08) !important;
+  border-color: rgba(8,145,178,0.3) !important;
+  color: #0891B2 !important;
+  box-shadow: 0 0 8px rgba(8,145,178,0.1) !important;
+}
+
+/* Nav tabs */
+body.light-mode .nav-tab {
+  color: #718096 !important;
+}
+
+body.light-mode .nav-tab:hover {
+  color: #4A5568 !important;
+  background: rgba(0,130,150,0.04) !important;
+}
+
+body.light-mode .nav-tab.active {
+  background: linear-gradient(135deg, rgba(8,145,178,0.1), transparent) !important;
+  border-color: rgba(8,145,178,0.25) !important;
+  color: #0891B2 !important;
+  box-shadow: 0 0 10px rgba(8,145,178,0.1) !important;
+}
+
+/* Logo */
+body.light-mode .logo-text {
+  background: linear-gradient(135deg, #0891B2 0%, #0D9488 100%) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+  filter: drop-shadow(0 0 6px rgba(8,145,178,0.3)) !important;
+}
+
+body.light-mode .logo-pulse {
+  filter: brightness(1.0) drop-shadow(0 0 6px rgba(8,145,178,0.4)) !important;
+}
+
+/* Health bars */
+body.light-mode .health-track {
+  background: rgba(0,0,0,0.06) !important;
+  background-image: linear-gradient(to right, rgba(8,145,178,0.1) 33%, transparent 0%) !important;
+  background-position: bottom !important;
+  background-size: 6px 1px !important;
+  background-repeat: repeat-x !important;
+}
+
+body.light-mode .health-accent::before {
+  background: linear-gradient(180deg, #0891B2 0%, #0D9488 50%, #0891B2 100%) !important;
+  box-shadow: 0 0 10px rgba(8,145,178,0.5) !important;
+}
+
+/* Holographic projector */
+body.light-mode .holographic-projector {
+  background: radial-gradient(
+    ellipse at center,
+    rgba(8,145,178,0.06) 0%,
+    rgba(240,244,248,0.3) 40%,
+    transparent 70%
+  ) !important;
+}
+
+body.light-mode .holographic-projector::before {
+  background: radial-gradient(ellipse, rgba(8,145,178,0.2) 0%, rgba(8,145,178,0.06) 30%, transparent 70%) !important;
+}
+
+/* Grid floor */
+body.light-mode .grid-floor {
+  background:
+    linear-gradient(to top, rgba(8,145,178,0.03), transparent),
+    linear-gradient(90deg, rgba(8,145,178,0.015) 1px, transparent 1px),
+    linear-gradient(rgba(8,145,178,0.015) 1px, transparent 1px) !important;
+}
+
+/* EKG pulse */
+body.light-mode .pulse-path {
+  stroke: #059669 !important;
+  filter: drop-shadow(0 0 2px rgba(5,150,105,0.3)) !important;
+}
+
+/* Sidebar */
+body.light-mode aside.glass-panel {
+  background: rgba(255,255,255,0.95) !important;
+}
+
+/* Header border */
+body.light-mode header {
+  border-bottom-color: rgba(0,0,0,0.06) !important;
+}
+
+/* Background orbs — softer for light mode */
+body.light-mode [style*="breathe1"],
+body.light-mode [style*="breathe2"] {
+  opacity: 0.15 !important;
+}
+
+/* Map tiles — no invert needed in light mode */
+body.light-mode .dark-tiles {
+  filter: none !important;
+}
+
+/* General text overrides */
+body.light-mode [style*="color: rgba(255,255,255"] {
+  color: #4A5568 !important;
+}
+
+body.light-mode [style*="color: rgb(255, 255, 255)"] {
+  color: #1A202C !important;
+}
+
+body.light-mode [style*="color: #FFFFFF"] {
+  color: #1A202C !important;
+}
+
+body.light-mode [style*="color: white"] {
+  color: #1A202C !important;
+}
+
+/* Scrollbar for light mode */
+body.light-mode ::-webkit-scrollbar-track {
+  background: #F0F4F8;
+}
+
+body.light-mode ::-webkit-scrollbar-thumb {
+  background: rgba(0,130,150,0.2);
+}
+
+body.light-mode ::-webkit-scrollbar-thumb:hover {
+  background: rgba(0,130,150,0.35);
+}
+
+/* Theme toggle button */
+.theme-toggle {
+  font-size: 16px;
+  line-height: 1;
+  padding: 6px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.3s;
+  border: 1px solid rgba(0,229,255,0.2);
+  background: transparent;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 36px;
+  min-height: 36px;
+}
+
+body.dark-mode .theme-toggle {
+  color: #FFB800;
+  border-color: rgba(0,229,255,0.2);
+}
+
+body.dark-mode .theme-toggle:hover {
+  background: rgba(0,229,255,0.08);
+  border-color: rgba(0,229,255,0.4);
+}
+
+body.light-mode .theme-toggle {
+  color: #4A5568 !important;
+  border-color: rgba(0,130,150,0.15) !important;
+}
+
+body.light-mode .theme-toggle:hover {
+  background: rgba(0,130,150,0.06) !important;
+  border-color: rgba(0,130,150,0.3) !important;
+}
+
 @media (max-width: 480px) {
   .nav-btn { padding: 4px 5px !important; font-size: 0.45rem !important; }
   .nav-btn .mr-2 { display: none; } /* hide tab icons */
