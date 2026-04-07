@@ -18,6 +18,13 @@ export interface DiagnosticReport {
   confidence: number
   baseline_status: { ready: boolean; total_samples: number; samples_needed: number }
   rule_version: string
+  data_source?: {
+    has_obd: boolean
+    has_accel: boolean
+    has_audio: boolean
+    minutes_searched: number
+    obd_packets?: number
+  }
 }
 
 export interface Diagnosis {

@@ -1,5 +1,6 @@
 import { GlassPanel } from '../shared/GlassPanel'
 import { FeedbackButtons } from '../panels/FeedbackButtons'
+import { RobotTooltip } from '../shared/RobotTooltip'
 import { theme } from '../../theme'
 import type { DiagnosticReport } from '../../hooks/useDiagnosticV2'
 import carHeartbeat from '../../assets/car-heartbeat.jpg'
@@ -163,9 +164,11 @@ export function DiagnosisCardV2({ report, loading, onFeedback }: DiagnosisCardV2
               }}>
                 {/* Name + status + confidence */}
                 <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 6 }}>
-                  <span style={{ fontSize: 14, fontFamily: "'Rajdhani', sans-serif", fontWeight: 600, color: theme.text.primary }}>
-                    {diag.display}
-                  </span>
+                  <RobotTooltip text={diag.explanation || 'Робот анализирует...'}>
+                    <span style={{ fontSize: 14, fontFamily: "'Rajdhani', sans-serif", fontWeight: 600, color: theme.text.primary }}>
+                      {diag.display}
+                    </span>
+                  </RobotTooltip>
                   <div style={{ display: 'flex', alignItems: 'center', gap: 6 }}>
                     <span style={{
                       fontSize: 9, fontFamily: "'Orbitron', sans-serif", fontWeight: 600,
@@ -235,6 +238,34 @@ export function DiagnosisCardV2({ report, loading, onFeedback }: DiagnosisCardV2
           {report.rule_version.toUpperCase()}
         </span>
       </div>
+
+      {/* Data source indicator */}
+      {report.data_source && (
+        <div style={{
+          display: 'flex', gap: 10, justifyContent: 'center', marginTop: 6,
+        }}>
+          {[
+            { label: 'OBD', ok: report.data_source.has_obd },
+            { label: 'ACCEL', ok: report.data_source.has_accel },
+            { label: 'AUDIO', ok: report.data_source.has_audio },
+          ].map(({ label, ok }) => (
+            <div key={label} style={{ display: 'flex', alignItems: 'center', gap: 3 }}>
+              <div style={{
+                width: 5, height: 5, borderRadius: '50%',
+                backgroundColor: ok ? theme.status.ok : 'rgba(255,255,255,0.15)',
+                boxShadow: ok ? `0 0 4px ${theme.status.ok}` : 'none',
+              }} />
+              <span style={{
+                fontSize: 8, fontFamily: "'Orbitron', sans-serif",
+                color: ok ? theme.text.muted : 'rgba(255,255,255,0.15)',
+                letterSpacing: '0.08em',
+              }}>
+                {label}
+              </span>
+            </div>
+          ))}
+        </div>
+      )}
     </GlassPanel>
   )
 }

@@ -65,7 +65,7 @@ export function Diagnostics() {
       {/* V2 API toggle */}
       <button
         onClick={toggleV2Api}
-        className="nav-btn absolute top-0 right-24 z-20 font-mono text-xs px-3 py-1 rounded transition-all duration-200"
+        className="nav-btn absolute top-0 right-24 z-20 font-mono text-[10px] lg:text-xs px-2 lg:px-3 py-1 rounded transition-all duration-200"
         style={{
           color: useV2Api ? theme.accent.teal : theme.text.muted,
           boxShadow: useV2Api ? `0 0 12px ${theme.accent.teal}44, inset 0 0 8px ${theme.accent.teal}22` : 'none',
@@ -81,7 +81,7 @@ export function Diagnostics() {
       {/* Expert Mode toggle */}
       <button
         onClick={toggleExpert}
-        className="nav-btn absolute top-0 right-0 z-20 font-mono text-xs px-3 py-1 rounded transition-all duration-200"
+        className="nav-btn absolute top-0 right-0 z-20 font-mono text-[10px] lg:text-xs px-2 lg:px-3 py-1 rounded transition-all duration-200"
         style={{
           color: expertMode ? theme.accent.cyan : theme.text.muted,
           borderColor: expertMode ? theme.accent.cyan : 'rgba(255,255,255,0.1)',
@@ -99,7 +99,7 @@ export function Diagnostics() {
       {/* Row 1: Diagnosis Card + AccelBars + Audio Spectrum */}
       {/* Expanded panel takes full row, others collapse */}
       <div
-        className={`${expanded === 'diag' ? 'col-span-12' : expanded ? 'hidden' : useV2Api ? 'col-span-4' : 'col-span-3'} cursor-pointer transition-all duration-300`}
+        className={`${expanded === 'diag' ? 'col-span-12' : expanded ? 'hidden' : useV2Api ? 'col-span-12 md:col-span-6 lg:col-span-4' : 'col-span-12 md:col-span-6 lg:col-span-3'} cursor-pointer transition-all duration-300`}
         onClick={() => toggle('diag')}
       >
         {useV2Api ? (
@@ -114,14 +114,14 @@ export function Diagnostics() {
       </div>
 
       <div
-        className={`${expanded === 'accel' ? 'col-span-12' : expanded ? 'hidden' : 'col-span-4'} cursor-pointer transition-all duration-300`}
+        className={`${expanded === 'accel' ? 'col-span-12' : expanded ? 'hidden' : 'col-span-12 md:col-span-6 lg:col-span-4'} cursor-pointer transition-all duration-300`}
         onClick={() => toggle('accel')}
       >
         <SmartSphere data={accelData} />
       </div>
 
       <div
-        className={`${expanded === 'audio' ? 'col-span-12' : expanded ? 'hidden' : useV2Api ? 'col-span-4' : 'col-span-5'} cursor-pointer transition-all duration-300`}
+        className={`${expanded === 'audio' ? 'col-span-12' : expanded ? 'hidden' : useV2Api ? 'col-span-12 md:col-span-12 lg:col-span-4' : 'col-span-12 md:col-span-12 lg:col-span-5'} cursor-pointer transition-all duration-300`}
         onClick={() => toggle('audio')}
       >
         <AudioSpectrum data={audioData} />
@@ -141,7 +141,7 @@ export function Diagnostics() {
       )}
 
       {/* Row 2: Per-system health bars + Anomaly Timeline */}
-      <div className={`${expanded ? 'hidden' : 'col-span-3'}`}>
+      <div className={`${expanded ? 'hidden' : 'col-span-12 lg:col-span-3'}`}>
         <GlassPanel>
           <div className="hud-header mb-3">Подсистемы</div>
           <div className="space-y-3">
@@ -206,12 +206,12 @@ export function Diagnostics() {
         </GlassPanel>
       </div>
 
-      <div className={`${expanded ? 'hidden' : useV2Api ? 'col-span-6' : 'col-span-9'}`}>
+      <div className={`${expanded ? 'hidden' : useV2Api ? 'col-span-12 lg:col-span-6' : 'col-span-12 lg:col-span-9'}`}>
         <AnomalyTimeline history={historyData?.history ?? []} />
       </div>
 
       {useV2Api && !expanded && (
-        <div className="col-span-3">
+        <div className="col-span-12 lg:col-span-3">
           <HealthTrends history={v2History} trends={v2Report?.health_trends} />
         </div>
       )}
@@ -228,21 +228,21 @@ export function Diagnostics() {
         <div className="col-span-12 grid grid-cols-12 gap-3">
           {/* Fuel Loss (if present) */}
           {v2Report.fuel_loss && (
-            <div className="col-span-3">
+            <div className="col-span-12 lg:col-span-3">
               <FuelLossWidget fuelLoss={v2Report.fuel_loss} />
             </div>
           )}
 
           {/* Escalation Timeline */}
           {v2Report.escalations && v2Report.escalations.length > 0 && (
-            <div className={v2Report.fuel_loss ? 'col-span-4' : 'col-span-6'}>
+            <div className={v2Report.fuel_loss ? 'col-span-12 lg:col-span-4' : 'col-span-12 lg:col-span-6'}>
               <EscalationTimeline escalations={v2Report.escalations} />
             </div>
           )}
 
           {/* Next Steps */}
           {v2Report.next_steps && v2Report.next_steps.length > 0 && (
-            <div className={v2Report.fuel_loss ? 'col-span-5' : 'col-span-6'}>
+            <div className={v2Report.fuel_loss ? 'col-span-12 lg:col-span-5' : 'col-span-12 lg:col-span-6'}>
               <NextSteps steps={v2Report.next_steps} />
             </div>
           )}
