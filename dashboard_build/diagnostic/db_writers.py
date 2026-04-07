@@ -182,6 +182,99 @@ def write_anomaly_scores(
     )
 
 
+def save_vehicle_profile(cursor, profile: 'VehicleProfile') -> None:
+    """UPSERT vehicle profile to DB."""
+    ph = _placeholder(cursor)
+    mods_json = json.dumps(profile.modifications) if profile.modifications else '{}'
+
+    if ph == '?':
+        cursor.execute("""
+            INSERT OR REPLACE INTO vehicle_profiles
+            (client_hash, brand, model, year, vin, generation, engine_code,
+             engine_type, mileage_km, platform, modifications)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+        """, (profile.client_hash, profile.brand, profile.model, profile.year,
+              profile.vin, profile.generation, profile.engine_code,
+              profile.engine_type, profile.mileage_km, profile.platform, mods_json))
+    else:
+        cursor.execute("""
+            INSERT INTO vehicle_profiles
+            (client_hash, brand, model, year, vin, generation, engine_code,
+             engine_type, mileage_km, platform, modifications)
+            VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+            ON CONFLICT (client_hash)
+            DO UPDATE SET brand=EXCLUDED.brand, model=EXCLUDED.model, year=EXCLUDED.year,
+                         vin=EXCLUDED.vin, generation=EXCLUDED.generation,
+                         engine_code=EXCLUDED.engine_code, engine_type=EXCLUDED.engine_type,
+                         mileage_km=EXCLUDED.mileage_km, platform=EXCLUDED.platform,
+                         modifications=EXCLUDED.modifications
+        """, (profile.client_hash, profile.brand, profile.model, profile.year,
+              profile.vin, profile.generation, profile.engine_code,
+              profile.engine_type, profile.mileage_km, profile.platform, mods_json))
+
+
+def load_vehicle_profile(cursor, client_hash: str) -> Optional['VehicleProfile']:
+    """Load vehicle profile from DB. Returns None if not found."""
+    from .vehicle_profile import VehicleProfile
+    ph = _placeholder(cursor)
+
+    cursor.execute(
+        f"""SELECT brand, model, year, vin, generation, engine_code,
+                   engine_type, mileage_km, platform, modifications
+            FROM vehicle_profiles WHERE client_hash = {ph}""",
+        (client_hash,)
+    )
+    row = cursor.fetchone()
+    if row is None:
+        return None
+
+    columns = ['brand', 'model', 'year', 'vin', 'generation', 'engine_code',
+               'engine_type', 'mileage_km', 'platform', 'modifications']
+    if hasattr(row, 'keys'):
+        d = dict(row)
+    else:
+        d = dict(zip(columns, row))
+
+    mods = d.get('modifications', '{}')
+    if isinstance(mods, str):
+        mods = json.loads(mods) if mods else {}
+
+    return VehicleProfile(
+        client_hash=client_hash,
+        brand=d.get('brand', 'unknown'),
+        model=d.get('model', 'unknown'),
+        year=d.get('year', 2020),
+        vin=d.get('vin'),
+        generation=d.get('generation'),
+        engine_code=d.get('engine_code'),
+        engine_type=d.get('engine_type', 'ice'),
+        mileage_km=d.get('mileage_km', 0),
+        platform=d.get('platform'),
+        modifications=mods,
+    )
+
+
+def write_dtc_events(cursor, client_hash: str, dtc_codes: list,
+                     freeze_frame: dict = None) -> int:
+    """Write DTC events to dtc_events table. Returns count.
+
+    freeze_frame: snapshot of OBD params at time of DTC (rpm, speed, coolant, etc.)
+    """
+    ph = _placeholder(cursor)
+    now = _now_iso()
+    freeze_json = json.dumps(freeze_frame) if freeze_frame else None
+
+    count = 0
+    for code in dtc_codes:
+        cursor.execute(
+            f"""INSERT INTO dtc_events (time, client_hash, dtc_code, freeze_frame, occurrences)
+                VALUES ({ph}, {ph}, {ph}, {ph}, 1)""",
+            (now, client_hash, code, freeze_json)
+        )
+        count += 1
+    return count
+
+
 def write_feedback(
     cursor,
     client_hash: str,

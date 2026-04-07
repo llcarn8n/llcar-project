@@ -238,13 +238,18 @@ def diagnose_latest_view(request: Any) -> JsonResponse:
                     "minutes_searched": minutes,
                 }, status=200)
 
-            # 5. Create profile and run diagnosis
-            profile = VehicleProfile(
-                client_hash=client_hash,
-                brand="li_auto",
-                model="L7",
-                year=2023,
-            )
+            # 5. Load or create vehicle profile, then run diagnosis
+            from .db_writers import load_vehicle_profile, save_vehicle_profile, write_dtc_events
+
+            profile = load_vehicle_profile(cursor, client_hash)
+            if profile is None:
+                profile = VehicleProfile(
+                    client_hash=client_hash,
+                    brand="li_auto",
+                    model="L7",
+                    year=2023,
+                )
+                save_vehicle_profile(cursor, profile)
 
             # Load existing baselines
             baselines = load_baselines(cursor, client_hash)
@@ -256,6 +261,17 @@ def diagnose_latest_view(request: Any) -> JsonResponse:
             report = pipeline.full_diagnose(
                 packet, db_cursor=cursor, client_hash=client_hash,
             )
+
+            # Write DTC events if present in packet
+            dtc_codes = packet.get("dtc_codes", [])
+            if dtc_codes:
+                freeze = {
+                    "rpm": packet.get("rpm"),
+                    "speed": packet.get("speed"),
+                    "coolant_temp": packet.get("coolant_temp"),
+                    "voltage": packet.get("voltage"),
+                }
+                write_dtc_events(cursor, client_hash, dtc_codes, freeze)
 
             # ----------------------------------------------------------
             # 6. Escalation — load, update per diagnosis, save

@@ -9,11 +9,15 @@ from diagnostic.db_writers import (
     write_fact_log,
     write_anomaly_scores,
     write_feedback,
+    save_vehicle_profile,
+    load_vehicle_profile,
+    write_dtc_events,
     _placeholder,
 )
 from diagnostic.baseline_store import BaselineStore
 from diagnostic.normalizer import DrivingRegime
 from diagnostic.facts import Fact, FactType
+from diagnostic.vehicle_profile import VehicleProfile
 
 
 # ---------------------------------------------------------------------------
@@ -370,3 +374,131 @@ class TestWriteFeedback:
             row = c.fetchone()
         assert row[0] == "dismiss"
         assert row[1] is None
+
+
+# ---------------------------------------------------------------------------
+# save_vehicle_profile / load_vehicle_profile
+# ---------------------------------------------------------------------------
+
+
+class TestSaveVehicleProfile:
+    """save_vehicle_profile writes vehicle profile to DB."""
+
+    def test_writes_to_db(self, db):
+        profile = VehicleProfile(
+            client_hash=CLIENT, brand="li_auto", model="L7", year=2023,
+        )
+        with db.cursor() as c:
+            save_vehicle_profile(c, profile)
+        with db.cursor() as c:
+            c.execute(
+                "SELECT brand, model, year FROM vehicle_profiles WHERE client_hash = ?",
+                (CLIENT,),
+            )
+            row = c.fetchone()
+        assert row[0] == "li_auto"
+        assert row[1] == "L7"
+        assert row[2] == 2023
+
+
+class TestLoadVehicleProfile:
+    """load_vehicle_profile returns a VehicleProfile or None."""
+
+    def test_returns_vehicle_profile_object(self, db):
+        profile = VehicleProfile(
+            client_hash=CLIENT, brand="li_auto", model="L7", year=2023,
+            vin="LFV123", engine_type="phev",
+        )
+        with db.cursor() as c:
+            save_vehicle_profile(c, profile)
+        with db.cursor() as c:
+            loaded = load_vehicle_profile(c, CLIENT)
+        assert isinstance(loaded, VehicleProfile)
+        assert loaded.brand == "li_auto"
+        assert loaded.model == "L7"
+        assert loaded.year == 2023
+        assert loaded.vin == "LFV123"
+        assert loaded.engine_type == "phev"
+
+    def test_returns_none_for_unknown_client(self, db):
+        with db.cursor() as c:
+            loaded = load_vehicle_profile(c, "nonexistent_hash")
+        assert loaded is None
+
+    def test_roundtrip_preserves_all_fields_including_modifications(self, db):
+        mods = {"euro2_removed_cat": True, "fuel_type": "lpg", "custom_exhaust": "borla"}
+        profile = VehicleProfile(
+            client_hash=CLIENT,
+            brand="toyota",
+            model="Camry",
+            year=2019,
+            vin="JTDBR123456",
+            generation="XV70",
+            engine_code="2AR-FE",
+            engine_type="ice",
+            mileage_km=85000,
+            platform="TNGA-K",
+            modifications=mods,
+        )
+        with db.cursor() as c:
+            save_vehicle_profile(c, profile)
+        with db.cursor() as c:
+            loaded = load_vehicle_profile(c, CLIENT)
+
+        assert loaded.client_hash == CLIENT
+        assert loaded.brand == "toyota"
+        assert loaded.model == "Camry"
+        assert loaded.year == 2019
+        assert loaded.vin == "JTDBR123456"
+        assert loaded.generation == "XV70"
+        assert loaded.engine_code == "2AR-FE"
+        assert loaded.engine_type == "ice"
+        assert loaded.mileage_km == 85000
+        assert loaded.platform == "TNGA-K"
+        assert loaded.modifications == mods
+
+
+# ---------------------------------------------------------------------------
+# write_dtc_events
+# ---------------------------------------------------------------------------
+
+
+class TestWriteDtcEvents:
+    """write_dtc_events writes DTC events to dtc_events table."""
+
+    def test_writes_correct_number_of_rows(self, db):
+        codes = ["P0300", "P0171", "P0420"]
+        with db.cursor() as c:
+            count = write_dtc_events(c, CLIENT, codes)
+        assert count == 3
+        with db.cursor() as c:
+            c.execute(
+                "SELECT COUNT(*) FROM dtc_events WHERE client_hash = ?", (CLIENT,),
+            )
+            assert c.fetchone()[0] == 3
+
+    def test_stores_freeze_frame_as_json(self, db):
+        codes = ["P0300"]
+        freeze = {"rpm": 2500, "speed": 60, "coolant_temp": 90, "voltage": 14.2}
+        with db.cursor() as c:
+            write_dtc_events(c, CLIENT, codes, freeze_frame=freeze)
+        with db.cursor() as c:
+            c.execute(
+                "SELECT freeze_frame FROM dtc_events WHERE client_hash = ?", (CLIENT,),
+            )
+            raw = c.fetchone()[0]
+        parsed = json.loads(raw)
+        assert parsed["rpm"] == 2500
+        assert parsed["speed"] == 60
+        assert parsed["coolant_temp"] == 90
+        assert parsed["voltage"] == pytest.approx(14.2)
+
+    def test_handles_empty_dtc_codes_list(self, db):
+        with db.cursor() as c:
+            count = write_dtc_events(c, CLIENT, [])
+        assert count == 0
+        with db.cursor() as c:
+            c.execute(
+                "SELECT COUNT(*) FROM dtc_events WHERE client_hash = ?", (CLIENT,),
+            )
+            assert c.fetchone()[0] == 0

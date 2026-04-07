@@ -133,6 +133,15 @@ class MockDB:
             modifications TEXT DEFAULT '{}'
         )""")
 
+        c.execute("""CREATE TABLE IF NOT EXISTS dtc_events (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            time TEXT NOT NULL,
+            client_hash TEXT NOT NULL,
+            dtc_code TEXT NOT NULL,
+            freeze_frame TEXT,
+            occurrences INTEGER DEFAULT 1
+        )""")
+
         self.conn.commit()
 
     @contextlib.contextmanager
