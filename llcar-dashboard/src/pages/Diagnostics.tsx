@@ -409,15 +409,17 @@ export function Diagnostics() {
         </div>
       )}
 
-      {/* Rules + OBD + Chat */}
+      {/* Rules + Search — ALWAYS visible, important section */}
+      <div className="col-span-12 lg:col-span-5">
+        <DiagnosticSearch />
+      </div>
+      <div className="col-span-12 lg:col-span-7">
+        <RulesList />
+      </div>
+
+      {/* OBD + Chat */}
       {!expanded && (
         <>
-          <div className="col-span-12 lg:col-span-5">
-            <DiagnosticSearch />
-          </div>
-          <div className="col-span-12 lg:col-span-7">
-            <RulesList />
-          </div>
           <div className="col-span-12 grid grid-cols-12 gap-3">
             <div className="col-span-12 lg:col-span-4">
               <OBDSetup />
