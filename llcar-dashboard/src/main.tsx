@@ -6,7 +6,7 @@ import App from './App'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <BrowserRouter basename="/static/spa-v3/">
+    <BrowserRouter basename="/v3">
       <App />
     </BrowserRouter>
   </StrictMode>,
