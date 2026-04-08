@@ -35,18 +35,31 @@ const ROBOT_IMG = `${import.meta.env.BASE_URL}images/robot/Error_Codes_Caricatur
 export function VehicleInfo() {
   const { vehicleProfile, mode } = useDashboardStore()
   const [brandData, setBrandData] = useState<BrandData | null>(null)
+  const [modelDesc, setModelDesc] = useState<string | null>(null)
   const [loading, setLoading] = useState(false)
 
-  // Load brand data
+  // Load brand data + model description
   useEffect(() => {
     if (!vehicleProfile) return
     const brandId = vehicleProfile.brandId || vehicleProfile.brand.toLowerCase().replace(/\s+/g, '_')
     setLoading(true)
 
-    fetch(`${import.meta.env.BASE_URL}data/brands/${brandId}.json`)
+    const loadSpecs = fetch(`${import.meta.env.BASE_URL}data/brands/${brandId}.json`)
       .then(r => r.ok ? r.json() : null)
-      .then(data => { setBrandData(data); setLoading(false) })
-      .catch(() => { setBrandData(null); setLoading(false) })
+
+    const loadDesc = fetch(`${import.meta.env.BASE_URL}data/brands-info/${brandId}.json`)
+      .then(r => r.ok ? r.json() : null)
+      .catch(() => null)
+
+    Promise.all([loadSpecs, loadDesc]).then(([specs, descs]) => {
+      setBrandData(specs)
+      if (descs) {
+        const modelId = vehicleProfile.model.toLowerCase().replace(/\s+/g, '_')
+        const info = descs[modelId]
+        setModelDesc(info?.desc || null)
+      }
+      setLoading(false)
+    })
   }, [vehicleProfile])
 
   // Find matching model and generation
@@ -164,6 +177,25 @@ export function VehicleInfo() {
           </div>
         </GlassPanel>
       </div>
+
+      {/* Model description / reputation */}
+      {modelDesc && (
+        <div className="col-span-12">
+          <GlassPanel>
+            <div className="hud-header mb-3">Народная репутация</div>
+            <div style={{
+              fontFamily: "'Rajdhani', sans-serif",
+              fontSize: 14,
+              fontWeight: 500,
+              color: theme.text.secondary,
+              lineHeight: 1.7,
+              padding: '4px 0',
+            }}>
+              {modelDesc}
+            </div>
+          </GlassPanel>
+        </div>
+      )}
 
       {/* Specs */}
       <div className="col-span-12">

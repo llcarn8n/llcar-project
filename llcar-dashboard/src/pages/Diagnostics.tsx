@@ -26,6 +26,7 @@ import { BaselineStatus } from '../components/panels/BaselineStatus'
 import { OBDSetup } from '../components/diagnostics/OBDSetup'
 import { ChatPanel } from '../components/chat/ChatPanel'
 import { RulesList } from '../components/diagnostics/RulesList'
+import { DiagnosticSearch } from '../components/diagnostics/DiagnosticSearch'
 
 const CoherenceMap = lazy(() => import('../components/panels/CoherenceMap').then(m => ({ default: m.CoherenceMap })))
 const CUSUMChart = lazy(() => import('../components/panels/CUSUMChart').then(m => ({ default: m.CUSUMChart })))
@@ -411,7 +412,10 @@ export function Diagnostics() {
       {/* Rules + OBD + Chat */}
       {!expanded && (
         <>
-          <div className="col-span-12">
+          <div className="col-span-12 lg:col-span-5">
+            <DiagnosticSearch />
+          </div>
+          <div className="col-span-12 lg:col-span-7">
             <RulesList />
           </div>
           <div className="col-span-12 grid grid-cols-12 gap-3">
