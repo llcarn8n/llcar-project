@@ -10,12 +10,13 @@
   --accent-teal: #64FFDA;
   --accent-header: rgba(100, 255, 218, 0.8);
   --accent-header-bar: #00E5FF;
-  --border-glow: rgba(0, 229, 255, 0.2);
+  --accent-orange: #FF8C00;
+  --border-glow: rgba(0, 229, 255, 0.25);
   --border-accent: rgba(0, 229, 255, 0.5);
-  --border-hover: rgba(0, 229, 255, 0.4);
-  --border-corner: rgba(0, 229, 255, 0.4);
-  --glass-shadow: 0 0 30px rgba(0, 229, 255, 0.08), 0 8px 32px rgba(0, 0, 0, 0.4), inset 0 1px 0 rgba(255, 255, 255, 0.05), inset 0 0 20px rgba(0, 229, 255, 0.03);
-  --glass-shadow-hover: 0 0 40px rgba(0, 229, 255, 0.15), 0 8px 32px rgba(0, 0, 0, 0.4), inset 0 0 30px rgba(0, 229, 255, 0.06);
+  --border-hover: rgba(0, 229, 255, 0.5);
+  --border-corner: rgba(0, 229, 255, 0.5);
+  --glass-shadow: 0 0 30px rgba(0, 229, 255, 0.1), 0 10px 40px rgba(0, 0, 0, 0.5), inset 0 1px 0 rgba(255, 255, 255, 0.08), inset 0 -1px 0 rgba(0, 0, 0, 0.3), inset 0 0 20px rgba(0, 229, 255, 0.04);
+  --glass-shadow-hover: 0 0 50px rgba(0, 229, 255, 0.2), 0 16px 48px rgba(0, 0, 0, 0.5), inset 0 1px 0 rgba(255, 255, 255, 0.12), inset 0 0 30px rgba(0, 229, 255, 0.08);
   --glass-border-top: rgba(255,255,255,0.15);
   --panel-text: white;
   --status-ok: #00E676;
@@ -194,21 +195,58 @@ body::after {
   transform: translateY(-1px);
 }
 
-/* Corner brackets */
+/* Corner brackets — larger, glowing */
 .glass-panel::before,
 .glass-panel::after {
   content: '';
   position: absolute;
-  width: 8px;
-  height: 8px;
-  border: 1px solid var(--border-corner);
+  width: 14px;
+  height: 14px;
+  border: 2px solid var(--border-corner);
   pointer-events: none;
-  transition: border-color 0.3s;
+  transition: all 0.3s;
+  z-index: 2;
 }
 .glass-panel::before { top: -1px; left: -2px; border-right: none; border-bottom: none; }
 .glass-panel::after { bottom: -1px; right: -1px; border-left: none; border-top: none; }
 .glass-panel:hover::before,
-.glass-panel:hover::after { border-color: var(--accent-cyan); }
+.glass-panel:hover::after {
+  border-color: var(--accent-cyan);
+  filter: drop-shadow(0 0 4px var(--accent-cyan));
+}
+
+/* Scan line animation on panels */
+.glass-panel .scan-line {
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, var(--accent-cyan), transparent);
+  opacity: 0;
+  pointer-events: none;
+  z-index: 3;
+}
+.glass-panel:hover .scan-line {
+  opacity: 0.6;
+  animation: panelScan 2.5s linear infinite;
+}
+@keyframes panelScan {
+  0% { top: 0; opacity: 0; }
+  10% { opacity: 0.6; }
+  90% { opacity: 0.6; }
+  100% { top: 100%; opacity: 0; }
+}
+
+/* Reveal animation on load */
+@keyframes revealPanel {
+  from { opacity: 0; filter: blur(6px); transform: translateY(16px); }
+  to { opacity: 1; filter: blur(0); transform: translateY(0); }
+}
+.glass-panel {
+  animation: revealPanel 0.6s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+.glass-panel:nth-child(2) { animation-delay: 0.08s; }
+.glass-panel:nth-child(3) { animation-delay: 0.16s; }
+.glass-panel:nth-child(4) { animation-delay: 0.24s; }
 
 /* ── Typography ── */
 .hud-header {
@@ -218,6 +256,7 @@ body::after {
   letter-spacing: 0.2em;
   text-transform: uppercase;
   color: var(--accent-header);
+  text-shadow: 0 0 10px rgba(0, 229, 255, 0.4), 0 0 20px rgba(0, 229, 255, 0.2);
   position: relative;
   padding-left: 12px;
 }
@@ -227,11 +266,11 @@ body::after {
   left: 0;
   top: 50%;
   transform: translateY(-50%);
-  width: 3px;
+  width: 4px;
   height: 100%;
-  background: var(--accent-header-bar);
-  box-shadow: 0 0 8px var(--accent-header-bar);
-  border-radius: 1px;
+  background: linear-gradient(180deg, var(--accent-cyan), var(--accent-orange, #FF8C00));
+  box-shadow: 0 0 12px var(--accent-header-bar), 0 0 24px rgba(0, 229, 255, 0.3);
+  border-radius: 2px;
 }
 
 .metric-value {
