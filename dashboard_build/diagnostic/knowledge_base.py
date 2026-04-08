@@ -1,10 +1,11 @@
 """KnowledgeBase — 4-level resolver for DTC codes and diagnostic situations.
 
 Resolution hierarchy (highest priority first):
-  1. Vehicle-specific  (future)
-  2. Brand-specific     (add_brand_layer)
-  3. Universal          (loaded in __init__)
-  4. Fallback / None    (code not found)
+  1. Generation-specific (add_generation_layer)
+  2. Model-specific      (add_model_layer)
+  3. Brand-specific      (add_brand_layer)
+  4. Universal           (loaded in __init__)
+  5. Fallback / None     (code not found)
 """
 
 from __future__ import annotations
@@ -70,8 +71,7 @@ def _load_json(path: str) -> Any:
 class KnowledgeBase:
     """4-level resolver for DTC codes and diagnostic situations.
 
-    Levels loaded so far: universal + per-brand overlays.
-    Vehicle-specific level is reserved for future use.
+    Levels: universal → brand → model → generation (most specific wins).
     """
 
     def __init__(self, dtc_index_path: str, situations_path: str) -> None:
@@ -89,6 +89,18 @@ class KnowledgeBase:
 
         # brand -> {situation_id: situation_dict}
         self._brand_situations_by_id: Dict[str, Dict[str, Dict[str, Any]]] = {}
+
+        # "brand/model" -> {"dtc": {...}, "situations": [...]}
+        self._model_layers: Dict[str, Dict[str, Any]] = {}
+
+        # "brand/model" -> {situation_id: situation_dict}
+        self._model_situations_by_id: Dict[str, Dict[str, Dict[str, Any]]] = {}
+
+        # "brand/model/generation" -> {"dtc": {...}, "situations": [...]}
+        self._generation_layers: Dict[str, Dict[str, Any]] = {}
+
+        # "brand/model/generation" -> {situation_id: situation_dict}
+        self._generation_situations_by_id: Dict[str, Dict[str, Dict[str, Any]]] = {}
 
         # Severity overrides — loaded from data/severity_overrides.json if present
         self._severity_overrides: Dict[str, str] = {}
@@ -122,18 +134,101 @@ class KnowledgeBase:
         }
 
     # ------------------------------------------------------------------
+    # Model overlay
+    # ------------------------------------------------------------------
+
+    def add_model_layer(
+        self,
+        brand: str,
+        model: str,
+        dtc_path: Optional[str] = None,
+        situations_path: Optional[str] = None,
+    ) -> None:
+        """Register a model-level data overlay."""
+        key = f"{brand}/{model}"
+        if key in self._model_layers:
+            return  # already loaded
+
+        layer: Dict[str, Any] = {"dtc": {}, "situations": []}
+        if dtc_path and os.path.isfile(dtc_path):
+            raw = _load_json(dtc_path)
+            layer["dtc"] = raw.get("codes", {}) if isinstance(raw, dict) else {}
+        if situations_path and os.path.isfile(situations_path):
+            raw = _load_json(situations_path)
+            layer["situations"] = raw if isinstance(raw, list) else raw.get("situations", [])
+
+        self._model_layers[key] = layer
+        self._model_situations_by_id[key] = {
+            s["id"]: s for s in layer["situations"] if "id" in s
+        }
+
+    # ------------------------------------------------------------------
+    # Generation overlay
+    # ------------------------------------------------------------------
+
+    def add_generation_layer(
+        self,
+        brand: str,
+        model: str,
+        generation: str,
+        dtc_path: Optional[str] = None,
+        situations_path: Optional[str] = None,
+    ) -> None:
+        """Register a generation-level data overlay."""
+        key = f"{brand}/{model}/{generation}"
+        if key in self._generation_layers:
+            return  # already loaded
+
+        layer: Dict[str, Any] = {"dtc": {}, "situations": []}
+        if dtc_path and os.path.isfile(dtc_path):
+            raw = _load_json(dtc_path)
+            layer["dtc"] = raw.get("codes", {}) if isinstance(raw, dict) else {}
+        if situations_path and os.path.isfile(situations_path):
+            raw = _load_json(situations_path)
+            layer["situations"] = raw if isinstance(raw, list) else raw.get("situations", [])
+
+        self._generation_layers[key] = layer
+        self._generation_situations_by_id[key] = {
+            s["id"]: s for s in layer["situations"] if "id" in s
+        }
+
+    # ------------------------------------------------------------------
     # DTC resolution
     # ------------------------------------------------------------------
 
-    def resolve_dtc(self, code: str, brand: Optional[str] = None) -> Optional[Dict[str, Any]]:
-        """Resolve a DTC code. Brand layer overrides universal if present.
+    def resolve_dtc(
+        self,
+        code: str,
+        brand: Optional[str] = None,
+        model: Optional[str] = None,
+        generation: Optional[str] = None,
+    ) -> Optional[Dict[str, Any]]:
+        """Resolve a DTC code. Most specific layer wins.
 
+        Resolution order: generation → model → brand → universal.
         After lookup, severity_overrides.json is applied as a final correction
         layer -- it fixes known inconsistencies in the upstream DTC databases.
         """
         result: Optional[Dict[str, Any]] = None
 
-        if brand and brand in self._brand_layers:
+        # Generation layer (highest priority)
+        if generation and model and brand:
+            gen_key = f"{brand}/{model}/{generation}"
+            if gen_key in self._generation_layers:
+                gen_dtc = self._generation_layers[gen_key]["dtc"]
+                if code in gen_dtc:
+                    result = dict(gen_dtc[code])
+
+        # Model layer
+        if result is None and model and brand:
+            model_key = f"{brand}/{model}"
+            if model_key in self._model_layers:
+                model_dtc = self._model_layers[model_key]["dtc"]
+                if code in model_dtc:
+                    result = dict(model_dtc[code])
+
+        # Brand layer
+        if result is None and brand and brand in self._brand_layers:
             brand_dtc = self._brand_layers[brand]["dtc"]
             if code in brand_dtc:
                 result = dict(brand_dtc[code])  # shallow copy
@@ -167,23 +262,55 @@ class KnowledgeBase:
     # Situation finders
     # ------------------------------------------------------------------
 
-    def _get_situations(self, brand: Optional[str] = None) -> List[Dict[str, Any]]:
-        """Return combined situation list (universal + brand if specified)."""
+    def _get_situations(
+        self,
+        brand: Optional[str] = None,
+        model: Optional[str] = None,
+        generation: Optional[str] = None,
+    ) -> List[Dict[str, Any]]:
+        """Return combined situation list (universal + brand + model + generation)."""
         base = list(self._universal_situations)
         if brand and brand in self._brand_layers:
             base.extend(self._brand_layers[brand]["situations"])
+        if model and brand:
+            model_key = f"{brand}/{model}"
+            if model_key in self._model_layers:
+                base.extend(self._model_layers[model_key]["situations"])
+        if generation and model and brand:
+            gen_key = f"{brand}/{model}/{generation}"
+            if gen_key in self._generation_layers:
+                base.extend(self._generation_layers[gen_key]["situations"])
         return base
 
     def find_situation_by_id(
-        self, situation_id: str, brand: Optional[str] = None
+        self,
+        situation_id: str,
+        brand: Optional[str] = None,
+        model: Optional[str] = None,
+        generation: Optional[str] = None,
     ) -> Optional[Dict[str, Any]]:
         """Look up a single situation by its 'id' field.
 
-        Brand layer takes priority over universal if brand is specified
-        and the situation_id exists in the brand layer.
+        Most specific layer wins: generation → model → brand → universal.
         Returns the situation dict or None if not found.
         """
-        # Brand layer first (if specified)
+        # Generation layer (highest priority)
+        if generation and model and brand:
+            gen_key = f"{brand}/{model}/{generation}"
+            if gen_key in self._generation_situations_by_id:
+                match = self._generation_situations_by_id[gen_key].get(situation_id)
+                if match is not None:
+                    return match
+
+        # Model layer
+        if model and brand:
+            model_key = f"{brand}/{model}"
+            if model_key in self._model_situations_by_id:
+                match = self._model_situations_by_id[model_key].get(situation_id)
+                if match is not None:
+                    return match
+
+        # Brand layer
         if brand and brand in self._brand_situations_by_id:
             brand_match = self._brand_situations_by_id[brand].get(situation_id)
             if brand_match is not None:
@@ -193,16 +320,24 @@ class KnowledgeBase:
         return self._universal_situations_by_id.get(situation_id)
 
     def find_situations_by_dtc(
-        self, code: str, brand: Optional[str] = None
+        self,
+        code: str,
+        brand: Optional[str] = None,
+        model: Optional[str] = None,
+        generation: Optional[str] = None,
     ) -> List[Dict[str, Any]]:
         """Return situations whose dtc_codes list contains *code*."""
         return [
-            s for s in self._get_situations(brand)
+            s for s in self._get_situations(brand, model, generation)
             if code in s.get("dtc_codes", [])
         ]
 
     def find_situations_by_category(
-        self, category: str, brand: Optional[str] = None
+        self,
+        category: str,
+        brand: Optional[str] = None,
+        model: Optional[str] = None,
+        generation: Optional[str] = None,
     ) -> List[Dict[str, Any]]:
         """Return situations matching a category directly.
 
@@ -210,12 +345,16 @@ class KnowledgeBase:
         polluting category-based fallback matching.
         """
         return [
-            s for s in self._get_situations(brand)
+            s for s in self._get_situations(brand, model, generation)
             if s.get("category") == category and self._is_diagnostic_situation(s)
         ]
 
     def find_situations_by_system_id(
-        self, system_id: str, brand: Optional[str] = None
+        self,
+        system_id: str,
+        brand: Optional[str] = None,
+        model: Optional[str] = None,
+        generation: Optional[str] = None,
     ) -> List[Dict[str, Any]]:
         """Map system_id to categories via SYSTEM_TO_CATEGORY, then filter.
 
@@ -227,7 +366,7 @@ class KnowledgeBase:
             return []
         cat_set = set(categories)
         return [
-            s for s in self._get_situations(brand)
+            s for s in self._get_situations(brand, model, generation)
             if s.get("category") in cat_set and self._is_diagnostic_situation(s)
         ]
 
@@ -283,13 +422,17 @@ class KnowledgeBase:
         return self._dtc_situation_map_cache
 
     def resolve_dtc_to_situation(
-        self, code: str, brand: Optional[str] = None
+        self,
+        code: str,
+        brand: Optional[str] = None,
+        model: Optional[str] = None,
+        generation: Optional[str] = None,
     ) -> Optional[Dict[str, Any]]:
         """Highest-priority lookup: curated DTC -> situation map.
 
         If *code* is found in dtc_situation_map.json, iterates the
         situation_ids list and returns the first situation that exists
-        in the KB (checking brand layer first, then universal).
+        in the KB (checking generation → model → brand → universal).
 
         Returns the situation dict or None if no curated mapping exists.
         """
@@ -299,7 +442,9 @@ class KnowledgeBase:
             return None
 
         for sid in entry.get("situation_ids", []):
-            situation = self.find_situation_by_id(sid, brand=brand)
+            situation = self.find_situation_by_id(
+                sid, brand=brand, model=model, generation=generation,
+            )
             if situation is not None:
                 return situation
 
@@ -359,13 +504,19 @@ class KnowledgeBase:
         return None
 
     def find_situations_by_dtc_range(
-        self, code: str, brand: Optional[str] = None
+        self,
+        code: str,
+        brand: Optional[str] = None,
+        model: Optional[str] = None,
+        generation: Optional[str] = None,
     ) -> List[Dict[str, Any]]:
         """Find situations matching a DTC code's SAE J2012 category."""
         classification = self.classify_dtc_by_range(code)
         if not classification:
             return []
-        return self.find_situations_by_category(classification["category"], brand=brand)
+        return self.find_situations_by_category(
+            classification["category"], brand=brand, model=model, generation=generation,
+        )
 
     # ------------------------------------------------------------------
     # Static helpers

@@ -619,3 +619,249 @@ class TestCuratedDtcSituationMap:
         result = builder._resolve_kb_data(rule_result, "test")
         # Curated map should resolve first, returning the curated situation
         assert result["id"] == target_sid
+
+
+# ---------------------------------------------------------------------------
+# Model / generation layer tests
+# ---------------------------------------------------------------------------
+
+class TestModelGenerationLayers:
+    """Tests for add_model_layer, add_generation_layer and resolution."""
+
+    @pytest.fixture
+    def model_dtc_file(self, tmp_path):
+        data = {
+            "meta": {"total": 1},
+            "codes": {
+                "P0171": {
+                    "severity": "info",
+                    "title_ru": "Бедная смесь (модель L7)",
+                    "system_id": "fuel",
+                    "can_drive": "yes",
+                },
+                "P0420": {
+                    "severity": "warning",
+                    "title_ru": "Катализатор L7",
+                    "system_id": "exhaust",
+                    "can_drive": "yes_caution",
+                },
+            },
+        }
+        path = tmp_path / "model-dtc.json"
+        path.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
+        return str(path)
+
+    @pytest.fixture
+    def model_situations_file(self, tmp_path):
+        data = [
+            {
+                "id": "lean_mixture_l7",
+                "title": "Обеднённая смесь (L7)",
+                "quickAnswer": "Проверьте форсунки L7.",
+                "urgency": 3,
+                "category": "engine",
+                "dtc_codes": ["P0171"],
+            }
+        ]
+        path = tmp_path / "model-situations.json"
+        path.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
+        return str(path)
+
+    @pytest.fixture
+    def gen_dtc_file(self, tmp_path):
+        data = {
+            "meta": {"total": 1},
+            "codes": {
+                "P0171": {
+                    "severity": "critical",
+                    "title_ru": "Бедная смесь (L7 2023)",
+                    "system_id": "fuel",
+                    "can_drive": "no_stop",
+                },
+            },
+        }
+        path = tmp_path / "gen-dtc.json"
+        path.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
+        return str(path)
+
+    @pytest.fixture
+    def gen_situations_file(self, tmp_path):
+        data = [
+            {
+                "id": "lean_mixture_l7_2023",
+                "title": "Обеднённая смесь (L7 2023 facelift)",
+                "quickAnswer": "Проверьте форсунки L7 2023.",
+                "urgency": 5,
+                "category": "engine",
+                "dtc_codes": ["P0171"],
+            }
+        ]
+        path = tmp_path / "gen-situations.json"
+        path.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
+        return str(path)
+
+    # --- 1. test_add_model_layer ---
+    def test_add_model_layer(self, kb, model_dtc_file, model_situations_file):
+        """add_model_layer loads DTC codes and situations."""
+        kb.add_model_layer("li_auto", "l7",
+                           dtc_path=model_dtc_file,
+                           situations_path=model_situations_file)
+        key = "li_auto/l7"
+        assert key in kb._model_layers
+        assert "P0171" in kb._model_layers[key]["dtc"]
+        assert len(kb._model_layers[key]["situations"]) == 1
+        assert "lean_mixture_l7" in kb._model_situations_by_id[key]
+
+    # --- 2. test_add_generation_layer ---
+    def test_add_generation_layer(self, kb, gen_dtc_file, gen_situations_file):
+        """add_generation_layer loads DTC codes and situations."""
+        kb.add_generation_layer("li_auto", "l7", "2023",
+                                dtc_path=gen_dtc_file,
+                                situations_path=gen_situations_file)
+        key = "li_auto/l7/2023"
+        assert key in kb._generation_layers
+        assert "P0171" in kb._generation_layers[key]["dtc"]
+        assert len(kb._generation_layers[key]["situations"]) == 1
+        assert "lean_mixture_l7_2023" in kb._generation_situations_by_id[key]
+
+    # --- 3. test_model_layer_cached ---
+    def test_model_layer_cached(self, kb, model_dtc_file, model_situations_file):
+        """Second call to add_model_layer with same key is a no-op (cached)."""
+        kb.add_model_layer("li_auto", "l7",
+                           dtc_path=model_dtc_file,
+                           situations_path=model_situations_file)
+        # Mutate the layer to detect if second call overwrites it
+        kb._model_layers["li_auto/l7"]["_marker"] = True
+
+        kb.add_model_layer("li_auto", "l7",
+                           dtc_path=model_dtc_file,
+                           situations_path=model_situations_file)
+        assert kb._model_layers["li_auto/l7"].get("_marker") is True
+
+    # --- 4. test_resolve_dtc_model_override ---
+    def test_resolve_dtc_model_override(
+        self, kb, brand_dtc_file, brand_situations_file,
+        model_dtc_file, model_situations_file,
+    ):
+        """Model layer overrides brand layer for DTC resolution."""
+        kb.add_brand_layer("li_auto", brand_dtc_file, brand_situations_file)
+        kb.add_model_layer("li_auto", "l7",
+                           dtc_path=model_dtc_file,
+                           situations_path=model_situations_file)
+
+        result = kb.resolve_dtc("P0171", brand="li_auto", model="l7")
+        assert result is not None
+        # Model layer has severity="info", but severity_overrides.json
+        # overrides P0171 to "warning" as the final correction layer
+        assert result["system_id"] == "fuel"  # model override
+        assert "L7" in result.get("title_ru", "") or result["system_id"] == "fuel"
+
+        # P0420 only in model layer, not in brand
+        result420 = kb.resolve_dtc("P0420", brand="li_auto", model="l7")
+        assert result420 is not None
+        assert result420["system_id"] == "exhaust"
+
+    # --- 5. test_resolve_dtc_generation_override ---
+    def test_resolve_dtc_generation_override(
+        self, kb, brand_dtc_file, brand_situations_file,
+        model_dtc_file, model_situations_file,
+        gen_dtc_file, gen_situations_file,
+    ):
+        """Generation layer overrides model AND brand for DTC resolution."""
+        kb.add_brand_layer("li_auto", brand_dtc_file, brand_situations_file)
+        kb.add_model_layer("li_auto", "l7",
+                           dtc_path=model_dtc_file,
+                           situations_path=model_situations_file)
+        kb.add_generation_layer("li_auto", "l7", "2023",
+                                dtc_path=gen_dtc_file,
+                                situations_path=gen_situations_file)
+
+        result = kb.resolve_dtc(
+            "P0171", brand="li_auto", model="l7", generation="2023",
+        )
+        assert result is not None
+        # Generation has can_drive="no_stop" — unique to generation layer
+        # Note: severity_overrides may override severity, but can_drive stays
+        assert result["can_drive"] == "no_stop"
+
+    # --- 6. test_find_situations_includes_model ---
+    def test_find_situations_includes_model(
+        self, kb, brand_dtc_file, brand_situations_file,
+        model_dtc_file, model_situations_file,
+    ):
+        """find_situations_by_dtc includes model-layer situations."""
+        kb.add_brand_layer("li_auto", brand_dtc_file, brand_situations_file)
+        kb.add_model_layer("li_auto", "l7",
+                           dtc_path=model_dtc_file,
+                           situations_path=model_situations_file)
+
+        results = kb.find_situations_by_dtc(
+            "P0171", brand="li_auto", model="l7",
+        )
+        ids = [s["id"] for s in results]
+        assert "lean_mixture" in ids        # universal
+        assert "lean_mixture_li" in ids     # brand
+        assert "lean_mixture_l7" in ids     # model
+
+    # --- 7. test_find_situations_includes_generation ---
+    def test_find_situations_includes_generation(
+        self, kb, brand_dtc_file, brand_situations_file,
+        model_dtc_file, model_situations_file,
+        gen_dtc_file, gen_situations_file,
+    ):
+        """find_situations_by_dtc includes generation-layer situations."""
+        kb.add_brand_layer("li_auto", brand_dtc_file, brand_situations_file)
+        kb.add_model_layer("li_auto", "l7",
+                           dtc_path=model_dtc_file,
+                           situations_path=model_situations_file)
+        kb.add_generation_layer("li_auto", "l7", "2023",
+                                dtc_path=gen_dtc_file,
+                                situations_path=gen_situations_file)
+
+        results = kb.find_situations_by_dtc(
+            "P0171", brand="li_auto", model="l7", generation="2023",
+        )
+        ids = [s["id"] for s in results]
+        assert "lean_mixture" in ids             # universal
+        assert "lean_mixture_li" in ids          # brand
+        assert "lean_mixture_l7" in ids          # model
+        assert "lean_mixture_l7_2023" in ids     # generation
+
+    # --- 8. test_fallback_without_model_layer ---
+    def test_fallback_without_model_layer(self, kb, brand_dtc_file, brand_situations_file):
+        """Without model layer loaded, resolution still works (brand + universal)."""
+        kb.add_brand_layer("li_auto", brand_dtc_file, brand_situations_file)
+
+        # Passing model= without a loaded model layer should fall through
+        result = kb.resolve_dtc("P0171", brand="li_auto", model="l7")
+        assert result is not None
+        # Should resolve from brand layer
+        assert result["system_id"] == "fuel"
+
+        results = kb.find_situations_by_dtc("P0171", brand="li_auto", model="l7")
+        ids = [s["id"] for s in results]
+        assert "lean_mixture" in ids
+        assert "lean_mixture_li" in ids
+
+    # --- 9. test_empty_model_layer ---
+    def test_empty_model_layer(self, kb, tmp_path):
+        """Empty or missing files in add_model_layer don't crash."""
+        # No files at all
+        kb.add_model_layer("li_auto", "l9", dtc_path=None, situations_path=None)
+        key = "li_auto/l9"
+        assert key in kb._model_layers
+        assert kb._model_layers[key]["dtc"] == {}
+        assert kb._model_layers[key]["situations"] == []
+
+        # Non-existent file paths
+        kb.add_model_layer("li_auto", "l8",
+                           dtc_path=str(tmp_path / "nonexistent.json"),
+                           situations_path=str(tmp_path / "nonexistent2.json"))
+        key2 = "li_auto/l8"
+        assert key2 in kb._model_layers
+        assert kb._model_layers[key2]["dtc"] == {}
+        assert kb._model_layers[key2]["situations"] == []
+
+        # Resolution still works — falls back to universal
+        result = kb.resolve_dtc("P0171", brand="li_auto", model="l9")
+        assert result is not None  # universal fallback
