@@ -11,7 +11,7 @@ const tabs = [
 ]
 
 export function MainLayout({ children }: { children: ReactNode }) {
-  const { activeTab, setTab, sidebarOpen, toggleSidebar, clientHash, timeRange, isDarkMode, toggleTheme } = useDashboardStore()
+  const { activeTab, setTab, sidebarOpen, toggleSidebar, clientHash, timeRange, isDarkMode, toggleTheme, vehicleProfile, openVehicleSetup } = useDashboardStore()
 
   const { data: recentData } = useApiData<any[]>({
     endpoint: '/api/data/',
@@ -152,6 +152,42 @@ export function MainLayout({ children }: { children: ReactNode }) {
             <button onClick={toggleSidebar} className="text-white/40 hover:text-white text-lg">{'\u2715'}</button>
           </div>
           <SidebarContent clientHash={clientHash} timeRange={timeRange} />
+
+          {/* Vehicle profile edit button */}
+          {vehicleProfile && (
+            <div style={{ marginTop: 16, paddingTop: 12, borderTop: '1px solid rgba(0,229,255,0.1)' }}>
+              <button
+                onClick={() => { openVehicleSetup(); toggleSidebar(); }}
+                style={{
+                  width: '100%',
+                  display: 'flex',
+                  alignItems: 'center',
+                  gap: 10,
+                  padding: '10px 12px',
+                  borderRadius: 4,
+                  background: 'rgba(0,229,255,0.04)',
+                  border: '1px solid rgba(0,229,255,0.12)',
+                  cursor: 'pointer',
+                  transition: 'all 0.3s',
+                  fontFamily: "'Rajdhani', sans-serif",
+                  fontSize: 12,
+                  color: 'var(--text-secondary)',
+                  letterSpacing: '0.05em',
+                  textAlign: 'left',
+                }}
+              >
+                <span style={{ fontSize: 16, opacity: 0.6 }}>{'\u2699'}</span>
+                <div style={{ flex: 1 }}>
+                  <div style={{ fontWeight: 600, marginBottom: 2 }}>
+                    {vehicleProfile.brand} {vehicleProfile.model} {vehicleProfile.year}
+                  </div>
+                  <div style={{ fontSize: 10, color: 'var(--text-muted)', letterSpacing: '0.1em', textTransform: 'uppercase' }}>
+                    {'\u0418\u0437\u043C\u0435\u043D\u0438\u0442\u044C \u043F\u0440\u043E\u0444\u0438\u043B\u044C \u0430\u0432\u0442\u043E'}
+                  </div>
+                </div>
+              </button>
+            </div>
+          )}
         </aside>
       )}
     </div>

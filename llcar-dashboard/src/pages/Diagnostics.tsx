@@ -193,7 +193,7 @@ export function Diagnostics() {
                       <StatusBadge status={isOffline && score === 0 ? 'offline' : score >= 80 ? 'ok' : score >= 50 ? 'warning' : 'critical'} />
                     </div>
                   </div>
-                  <HealthBar score={score} label="" />
+                  <HealthBar score={score} label="" showWear={useV2Api} />
                   {/* Feature z-scores (V1 only) */}
                   {!useV2Api && sysData?.features && (
                     <div className="mt-1 flex flex-wrap gap-1 overflow-hidden max-w-full">
