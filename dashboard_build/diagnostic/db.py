@@ -148,6 +148,15 @@ class MockDB:
             resolved_at TEXT
         )""")
 
+        c.execute("""CREATE TABLE IF NOT EXISTS dtc_patterns (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            pattern_codes TEXT NOT NULL,
+            diagnosis TEXT NOT NULL,
+            confidence_boost INTEGER DEFAULT 20,
+            situation_id TEXT,
+            description_ru TEXT
+        )""")
+
         self.conn.commit()
 
     @contextlib.contextmanager

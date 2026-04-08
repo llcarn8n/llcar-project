@@ -148,6 +148,22 @@ class KnowledgeBase:
         return result
 
     # ------------------------------------------------------------------
+    # Situation filtering
+    # ------------------------------------------------------------------
+
+    @staticmethod
+    def _is_diagnostic_situation(situation: Dict[str, Any]) -> bool:
+        """Return True if situation is a real diagnostic entry, not a manual/maintenance excerpt."""
+        sid = situation.get("id", "")
+        source = situation.get("source", "")
+        # Filter out maintenance entries and manual warnings
+        if sid.startswith("maint_") or sid.startswith("man_"):
+            return False
+        if source in ("manual_warning", "maintenance"):
+            return False
+        return True
+
+    # ------------------------------------------------------------------
     # Situation finders
     # ------------------------------------------------------------------
 
@@ -188,23 +204,31 @@ class KnowledgeBase:
     def find_situations_by_category(
         self, category: str, brand: Optional[str] = None
     ) -> List[Dict[str, Any]]:
-        """Return situations matching a category directly."""
+        """Return situations matching a category directly.
+
+        Maintenance / manual-warning excerpts are excluded to avoid
+        polluting category-based fallback matching.
+        """
         return [
             s for s in self._get_situations(brand)
-            if s.get("category") == category
+            if s.get("category") == category and self._is_diagnostic_situation(s)
         ]
 
     def find_situations_by_system_id(
         self, system_id: str, brand: Optional[str] = None
     ) -> List[Dict[str, Any]]:
-        """Map system_id to categories via SYSTEM_TO_CATEGORY, then filter."""
+        """Map system_id to categories via SYSTEM_TO_CATEGORY, then filter.
+
+        Maintenance / manual-warning excerpts are excluded (same as
+        find_situations_by_category).
+        """
         categories = self.system_id_to_categories(system_id)
         if not categories:
             return []
         cat_set = set(categories)
         return [
             s for s in self._get_situations(brand)
-            if s.get("category") in cat_set
+            if s.get("category") in cat_set and self._is_diagnostic_situation(s)
         ]
 
     # ------------------------------------------------------------------
@@ -232,6 +256,54 @@ class KnowledgeBase:
                     }
 
         return best
+
+    # ------------------------------------------------------------------
+    # Curated DTC → situation map (highest-priority lookup)
+    # ------------------------------------------------------------------
+
+    def _load_dtc_situation_map(self) -> Dict[str, Dict[str, Any]]:
+        """Lazily load and cache dtc_situation_map.json."""
+        if hasattr(self, "_dtc_situation_map_cache"):
+            return self._dtc_situation_map_cache
+
+        map_path = os.path.join(
+            os.path.dirname(os.path.abspath(__file__)),
+            "data",
+            "dtc_situation_map.json",
+        )
+        if os.path.isfile(map_path):
+            raw = _load_json(map_path)
+            # Strip _meta key, keep only DTC code entries
+            self._dtc_situation_map_cache: Dict[str, Dict[str, Any]] = {
+                k: v for k, v in raw.items() if not k.startswith("_")
+            }
+        else:
+            self._dtc_situation_map_cache = {}
+
+        return self._dtc_situation_map_cache
+
+    def resolve_dtc_to_situation(
+        self, code: str, brand: Optional[str] = None
+    ) -> Optional[Dict[str, Any]]:
+        """Highest-priority lookup: curated DTC -> situation map.
+
+        If *code* is found in dtc_situation_map.json, iterates the
+        situation_ids list and returns the first situation that exists
+        in the KB (checking brand layer first, then universal).
+
+        Returns the situation dict or None if no curated mapping exists.
+        """
+        curated_map = self._load_dtc_situation_map()
+        entry = curated_map.get(code)
+        if entry is None:
+            return None
+
+        for sid in entry.get("situation_ids", []):
+            situation = self.find_situation_by_id(sid, brand=brand)
+            if situation is not None:
+                return situation
+
+        return None
 
     # ------------------------------------------------------------------
     # DTC range classification (SAE J2012)
@@ -298,6 +370,34 @@ class KnowledgeBase:
     # ------------------------------------------------------------------
     # Static helpers
     # ------------------------------------------------------------------
+
+    # ------------------------------------------------------------------
+    # DB-backed DTC pattern loading
+    # ------------------------------------------------------------------
+
+    @staticmethod
+    def load_dtc_patterns(cursor) -> List[Dict]:
+        """Load multi-DTC patterns from dtc_patterns table.
+
+        Works with both PostgreSQL (TEXT[] columns) and SQLite (JSON string columns).
+        Returns a list of dicts with keys: codes (set), diagnosis, confidence_boost, description_ru.
+        """
+        cursor.execute(
+            "SELECT pattern_codes, diagnosis, confidence_boost, description_ru FROM dtc_patterns"
+        )
+        patterns: List[Dict] = []
+        for row in cursor.fetchall():
+            codes = row[0]
+            # Handle both PostgreSQL TEXT[] (returns list) and SQLite JSON string
+            if isinstance(codes, str):
+                codes = json.loads(codes)
+            patterns.append({
+                "codes": set(codes),
+                "diagnosis": row[1],
+                "confidence_boost": row[2],
+                "description_ru": row[3],
+            })
+        return patterns
 
     @staticmethod
     def system_id_to_categories(system_id: str) -> List[str]:

@@ -1,0 +1,267 @@
+{
+  "_meta": {
+    "description": "Curated top-50 DTC → situation mapping for highest-priority KB resolution",
+    "version": "1.0",
+    "total_mappings": 50
+  },
+  "P0171": {
+    "situation_ids": ["yt_e5da3229", "yt_678e3e15"],
+    "confidence_boost": 15,
+    "note": "fuel lean bank 1 — high fuel trims, vacuum leak, purge valve"
+  },
+  "P0174": {
+    "situation_ids": ["yt_e5da3229", "yt_678e3e15"],
+    "confidence_boost": 15,
+    "note": "fuel lean bank 2 — same root causes as P0171"
+  },
+  "P0172": {
+    "situation_ids": ["yt_4f5c6ec6", "video_ext_437a0aa6"],
+    "confidence_boost": 15,
+    "note": "fuel rich bank 1 — negative fuel trim, rich mixture"
+  },
+  "P0175": {
+    "situation_ids": ["yt_4f5c6ec6", "video_ext_437a0aa6"],
+    "confidence_boost": 15,
+    "note": "fuel rich bank 2 — same root causes as P0172"
+  },
+  "P0300": {
+    "situation_ids": ["rev_7c7ade0f", "yt_0d46eee8"],
+    "confidence_boost": 20,
+    "note": "random/multiple cylinder misfire — rough idle, ignition coil check"
+  },
+  "P0301": {
+    "situation_ids": ["rev_7c7ade0f", "yt_0d46eee8"],
+    "confidence_boost": 15,
+    "note": "misfire cylinder 1 — ignition coil, spark plug"
+  },
+  "P0302": {
+    "situation_ids": ["rev_7c7ade0f", "yt_0d46eee8"],
+    "confidence_boost": 15,
+    "note": "misfire cylinder 2"
+  },
+  "P0303": {
+    "situation_ids": ["rev_7c7ade0f", "yt_0d46eee8"],
+    "confidence_boost": 15,
+    "note": "misfire cylinder 3"
+  },
+  "P0304": {
+    "situation_ids": ["rev_7c7ade0f", "yt_0d46eee8"],
+    "confidence_boost": 15,
+    "note": "misfire cylinder 4"
+  },
+  "P0305": {
+    "situation_ids": ["rev_7c7ade0f", "yt_0d46eee8"],
+    "confidence_boost": 15,
+    "note": "misfire cylinder 5"
+  },
+  "P0420": {
+    "situation_ids": ["yt_93e9f2aa", "msf_catalytic_hot"],
+    "confidence_boost": 15,
+    "note": "catalyst system efficiency below threshold bank 1"
+  },
+  "P0430": {
+    "situation_ids": ["yt_93e9f2aa", "msf_catalytic_hot"],
+    "confidence_boost": 15,
+    "note": "catalyst system efficiency below threshold bank 2"
+  },
+  "P0440": {
+    "situation_ids": ["yt_678e3e15", "buni_09ef2ed9"],
+    "confidence_boost": 10,
+    "note": "EVAP system malfunction — purge valve, fuel tank vapor"
+  },
+  "P0442": {
+    "situation_ids": ["yt_678e3e15", "buni_09ef2ed9"],
+    "confidence_boost": 10,
+    "note": "EVAP system small leak"
+  },
+  "P0455": {
+    "situation_ids": ["yt_678e3e15", "buni_09ef2ed9"],
+    "confidence_boost": 10,
+    "note": "EVAP system large leak — often loose gas cap"
+  },
+  "P0456": {
+    "situation_ids": ["yt_678e3e15", "buni_09ef2ed9"],
+    "confidence_boost": 10,
+    "note": "EVAP system very small leak"
+  },
+  "P0500": {
+    "situation_ids": ["video_ext_7a9d2462"],
+    "confidence_boost": 10,
+    "note": "vehicle speed sensor malfunction"
+  },
+  "P0505": {
+    "situation_ids": ["buni_f1b38a0d", "rev_bd97c3b9"],
+    "confidence_boost": 15,
+    "note": "idle control system malfunction — stalls at idle, floating RPM"
+  },
+  "P0507": {
+    "situation_ids": ["buni_f1b38a0d", "rev_bd97c3b9"],
+    "confidence_boost": 15,
+    "note": "idle control system RPM higher than expected"
+  },
+  "P0011": {
+    "situation_ids": ["yt_d78f3273", "rev_19de4e9e"],
+    "confidence_boost": 15,
+    "note": "intake camshaft position timing over-advanced bank 1 — VVT solenoid"
+  },
+  "P0012": {
+    "situation_ids": ["yt_d78f3273", "rev_19de4e9e"],
+    "confidence_boost": 15,
+    "note": "intake camshaft position timing over-retarded bank 1"
+  },
+  "P0016": {
+    "situation_ids": ["yt_d78f3273", "rev_19de4e9e"],
+    "confidence_boost": 15,
+    "note": "crankshaft/camshaft position correlation bank 1 — timing chain stretch"
+  },
+  "P0021": {
+    "situation_ids": ["yt_d78f3273", "rev_19de4e9e"],
+    "confidence_boost": 15,
+    "note": "intake camshaft position timing over-advanced bank 2"
+  },
+  "P0022": {
+    "situation_ids": ["yt_d78f3273", "rev_19de4e9e"],
+    "confidence_boost": 15,
+    "note": "intake camshaft position timing over-retarded bank 2"
+  },
+  "P0101": {
+    "situation_ids": ["yt_fb3d58b5", "yt_e5da3229"],
+    "confidence_boost": 15,
+    "note": "MAF sensor range/performance — affects fuel trims"
+  },
+  "P0102": {
+    "situation_ids": ["yt_fb3d58b5", "yt_e5da3229"],
+    "confidence_boost": 15,
+    "note": "MAF sensor circuit low input"
+  },
+  "P0110": {
+    "situation_ids": ["yt_fb3d58b5"],
+    "confidence_boost": 10,
+    "note": "intake air temperature sensor circuit malfunction"
+  },
+  "P0113": {
+    "situation_ids": ["yt_fb3d58b5"],
+    "confidence_boost": 10,
+    "note": "intake air temperature sensor circuit high input"
+  },
+  "P0120": {
+    "situation_ids": ["buni_f1b38a0d", "rev_bd97c3b9"],
+    "confidence_boost": 15,
+    "note": "throttle position sensor circuit malfunction — idle issues"
+  },
+  "P0122": {
+    "situation_ids": ["buni_f1b38a0d", "rev_bd97c3b9"],
+    "confidence_boost": 15,
+    "note": "throttle position sensor circuit low input"
+  },
+  "P0130": {
+    "situation_ids": ["video_ext_a42cb8ec", "yt_4f5c6ec6"],
+    "confidence_boost": 15,
+    "note": "O2 sensor circuit malfunction bank 1 sensor 1"
+  },
+  "P0131": {
+    "situation_ids": ["video_ext_a42cb8ec", "yt_4f5c6ec6"],
+    "confidence_boost": 15,
+    "note": "O2 sensor circuit low voltage bank 1 sensor 1"
+  },
+  "P0133": {
+    "situation_ids": ["video_ext_a42cb8ec", "yt_4f5c6ec6"],
+    "confidence_boost": 15,
+    "note": "O2 sensor circuit slow response bank 1 sensor 1"
+  },
+  "P0135": {
+    "situation_ids": ["video_ext_a42cb8ec", "yt_4f5c6ec6"],
+    "confidence_boost": 15,
+    "note": "O2 sensor heater circuit malfunction bank 1 sensor 1"
+  },
+  "P0217": {
+    "situation_ids": ["rev_0d0ff629"],
+    "confidence_boost": 20,
+    "note": "engine overtemperature condition — critical overheat"
+  },
+  "P0218": {
+    "situation_ids": ["rev_0d0ff629"],
+    "confidence_boost": 20,
+    "note": "transmission fluid overtemperature — overheat condition"
+  },
+  "P0562": {
+    "situation_ids": ["rev_83b71805", "yt_2cb4c3b6"],
+    "confidence_boost": 15,
+    "note": "system voltage low — battery discharge, alternator issue"
+  },
+  "P0563": {
+    "situation_ids": ["rev_83b71805", "yt_2cb4c3b6"],
+    "confidence_boost": 15,
+    "note": "system voltage high — overcharging, voltage regulator"
+  },
+  "P2096": {
+    "situation_ids": ["yt_40da4deb", "yt_e5da3229"],
+    "confidence_boost": 15,
+    "note": "post catalyst fuel trim system too lean bank 1"
+  },
+  "P2097": {
+    "situation_ids": ["yt_40da4deb", "yt_4f5c6ec6"],
+    "confidence_boost": 15,
+    "note": "post catalyst fuel trim system too rich bank 1"
+  },
+  "P2187": {
+    "situation_ids": ["yt_40da4deb", "yt_e5da3229"],
+    "confidence_boost": 15,
+    "note": "system too lean at idle bank 1"
+  },
+  "P2188": {
+    "situation_ids": ["yt_40da4deb", "yt_4f5c6ec6"],
+    "confidence_boost": 15,
+    "note": "system too rich at idle bank 1"
+  },
+  "P0340": {
+    "situation_ids": ["yt_fb3d58b5", "yt_295103c1"],
+    "confidence_boost": 15,
+    "note": "camshaft position sensor circuit malfunction bank 1"
+  },
+  "P0341": {
+    "situation_ids": ["yt_fb3d58b5", "yt_295103c1"],
+    "confidence_boost": 15,
+    "note": "camshaft position sensor range/performance bank 1"
+  },
+  "P0345": {
+    "situation_ids": ["yt_fb3d58b5", "yt_295103c1"],
+    "confidence_boost": 15,
+    "note": "camshaft position sensor circuit malfunction bank 2"
+  },
+  "P0346": {
+    "situation_ids": ["yt_fb3d58b5", "yt_295103c1"],
+    "confidence_boost": 15,
+    "note": "camshaft position sensor range/performance bank 2"
+  },
+  "P0401": {
+    "situation_ids": ["yt_c3f5dc82", "rev_0d0ff629"],
+    "confidence_boost": 10,
+    "note": "EGR flow insufficient — carbon buildup, valve stuck"
+  },
+  "P0402": {
+    "situation_ids": ["yt_c3f5dc82", "rev_0d0ff629"],
+    "confidence_boost": 10,
+    "note": "EGR flow excessive"
+  },
+  "P0411": {
+    "situation_ids": ["yt_c3f5dc82"],
+    "confidence_boost": 10,
+    "note": "secondary air injection system incorrect flow"
+  },
+  "P0443": {
+    "situation_ids": ["yt_678e3e15"],
+    "confidence_boost": 10,
+    "note": "EVAP purge control valve circuit malfunction"
+  },
+  "P0446": {
+    "situation_ids": ["yt_678e3e15", "buni_09ef2ed9"],
+    "confidence_boost": 10,
+    "note": "EVAP vent control circuit malfunction"
+  },
+  "P0449": {
+    "situation_ids": ["yt_678e3e15", "buni_09ef2ed9"],
+    "confidence_boost": 10,
+    "note": "EVAP vent valve/solenoid circuit malfunction"
+  }
+}

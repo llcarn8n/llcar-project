@@ -273,3 +273,60 @@ class TestPipelineEdgeCases:
         raw = {"rpm": 1000, "speed": 30, "coolant_temp": 85, "voltage": 14.0}
         result = pipeline.process(raw)
         assert isinstance(result["baseline_ready"], bool)
+
+
+# ---------------------------------------------------------------------------
+# Data quality gate (F4)
+# ---------------------------------------------------------------------------
+
+class TestDataQualityGate:
+    def test_data_quality_good_with_normal_data(self, pipeline):
+        """Normal city driving with real sensor values → data_quality = 'good'."""
+        raw = {
+            "rpm": 1500,
+            "speed": 50,
+            "coolant_temp": 90,
+            "voltage": 14.0,
+            "ax_avg": 0.1, "ax_std": 0.05, "ax_min": -0.2, "ax_max": 0.3,
+            "ay_avg": 0.0, "ay_std": 0.03, "ay_min": -0.1, "ay_max": 0.15,
+            "az_avg": 9.81, "az_std": 0.08, "az_min": 9.5, "az_max": 10.1,
+        }
+        report = pipeline.full_diagnose(raw)
+        assert report["data_quality"] == "good"
+        assert "data_quality_issues" not in report
+
+    def test_data_quality_limited_with_frozen_features(self, pipeline):
+        """Frozen sensor data (az_std=0, total_vibration=0) → data_quality = 'limited'."""
+        raw = {
+            "rpm": 1500,
+            "speed": 50,
+            "coolant_temp": 90,
+            "voltage": 14.0,
+            # All accel values exactly the same → std=0, vibration=0
+            "ax_avg": 0.0, "ax_std": 0.0, "ax_min": 0.0, "ax_max": 0.0,
+            "ay_avg": 0.0, "ay_std": 0.0, "ay_min": 0.0, "ay_max": 0.0,
+            "az_avg": 0.0, "az_std": 0.0, "az_min": 0.0, "az_max": 0.0,
+        }
+        report = pipeline.full_diagnose(raw)
+        assert report["data_quality"] == "limited"
+        assert "features_frozen" in report["data_quality_issues"]
+
+    def test_data_quality_suppresses_low_confidence(self, pipeline):
+        """When data quality is limited, diagnoses with confidence < 50 are removed."""
+        raw = {
+            "rpm": 1500,
+            "speed": 50,
+            "coolant_temp": 90,
+            "voltage": 14.0,
+            "ax_avg": 0.0, "ax_std": 0.0, "ax_min": 0.0, "ax_max": 0.0,
+            "ay_avg": 0.0, "ay_std": 0.0, "ay_min": 0.0, "ay_max": 0.0,
+            "az_avg": 0.0, "az_std": 0.0, "az_min": 0.0, "az_max": 0.0,
+        }
+        report = pipeline.full_diagnose(raw)
+        assert report["data_quality"] == "limited"
+        # Every remaining diagnosis must have confidence >= 50
+        if "diagnoses" in report:
+            for d in report["diagnoses"]:
+                assert d.get("confidence", 0) >= 50, (
+                    f"Low-confidence diagnosis not suppressed: {d}"
+                )

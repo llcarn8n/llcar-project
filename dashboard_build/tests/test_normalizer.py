@@ -4,7 +4,9 @@ from diagnostic.normalizer import (
     DrivingRegime,
     EngineContext,
     NormalizedPacket,
+    SessionTimer,
     normalize_packet,
+    validate_ambient_temp,
 )
 
 
@@ -302,3 +304,100 @@ class TestRegimeStability:
         """NormalizedPacket default has regime_stable=True."""
         pkt = NormalizedPacket()
         assert pkt.regime_stable is True
+
+
+# ---------------------------------------------------------------------------
+# SessionTimer
+# ---------------------------------------------------------------------------
+
+class TestSessionTimer:
+    """Test SessionTimer — tracks minutes since first packet."""
+
+    def test_first_packet_zero(self):
+        """First call always returns 0.0."""
+        timer = SessionTimer()
+        assert timer.update("2026-04-08T10:00:00") == 0.0
+
+    def test_subsequent_packet_minutes(self):
+        """Second call returns correct elapsed minutes."""
+        timer = SessionTimer()
+        timer.update("2026-04-08T10:00:00")
+        result = timer.update("2026-04-08T10:05:30")
+        assert abs(result - 5.5) < 0.1
+
+    def test_invalid_timestamp(self):
+        """Invalid timestamp returns 0.0, does not crash."""
+        timer = SessionTimer()
+        assert timer.update("invalid") == 0.0
+
+    def test_invalid_second_timestamp(self):
+        """Invalid second timestamp returns 0.0 after valid first."""
+        timer = SessionTimer()
+        timer.update("2026-04-08T10:00:00")
+        assert timer.update("not-a-date") == 0.0
+
+
+# ---------------------------------------------------------------------------
+# Ambient temp validation
+# ---------------------------------------------------------------------------
+
+class TestAmbientTempValidation:
+    """Test validate_ambient_temp — plausible range [-60, 60] C."""
+
+    def test_valid_ambient_temp(self):
+        """Normal ambient temp passes through."""
+        assert validate_ambient_temp(25.0) == 25.0
+
+    def test_none_ambient_temp(self):
+        """None input returns None."""
+        assert validate_ambient_temp(None) is None
+
+    def test_too_hot_rejected(self):
+        """Temperature above 60 C rejected as implausible."""
+        assert validate_ambient_temp(70.0) is None
+
+    def test_too_cold_rejected(self):
+        """Temperature below -60 C rejected as implausible."""
+        assert validate_ambient_temp(-65.0) is None
+
+    def test_boundary_accepted(self):
+        """Boundary values -60 and 60 are accepted."""
+        assert validate_ambient_temp(-60.0) == -60.0
+        assert validate_ambient_temp(60.0) == 60.0
+
+    def test_string_converted(self):
+        """String that looks like a number is converted."""
+        assert validate_ambient_temp("15.5") == 15.5
+
+    def test_garbage_string_rejected(self):
+        """Non-numeric string returns None."""
+        assert validate_ambient_temp("warm") is None
+
+
+# ---------------------------------------------------------------------------
+# Engine context with enrichments
+# ---------------------------------------------------------------------------
+
+class TestEngineContextEnrichments:
+    """Test that ambient_temp and minutes_running flow through normalize_packet."""
+
+    def test_ambient_temp_in_context(self):
+        """ambient_temp from raw packet appears in engine_context."""
+        pkt = normalize_packet(_make_raw(ambient_temp=22.0))
+        assert pkt.engine_context.ambient_temp == 22.0
+
+    def test_minutes_running_in_context(self):
+        """minutes_running from raw packet appears in engine_context."""
+        pkt = normalize_packet(_make_raw(minutes_running=12.5))
+        assert pkt.engine_context.minutes_running == 12.5
+
+    def test_ambient_temp_out_of_range_rejected(self):
+        """Implausible ambient temp is rejected (set to None)."""
+        pkt = normalize_packet(_make_raw(ambient_temp=100.0))
+        assert pkt.engine_context.ambient_temp is None
+
+    def test_defaults_when_absent(self):
+        """Without ambient_temp/minutes_running in raw, defaults apply."""
+        pkt = normalize_packet(_make_raw())
+        assert pkt.engine_context.ambient_temp is None
+        assert pkt.engine_context.minutes_running == 0.0

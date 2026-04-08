@@ -189,8 +189,9 @@ def diagnose_latest_view(request: Any) -> JsonResponse:
 
         with get_cursor() as cursor:
             # 1. Get latest OBD data from ecu_7e8 (10 rows for baseline accumulation)
+            #    p011f = "Run Time Since Engine Start" (seconds)
             cursor.execute("""
-                SELECT p010c, p010d, p0105, p0106, p0107, p0142, p0104, p0111
+                SELECT p010c, p010d, p0105, p0106, p0107, p0142, p0104, p0111, p011f
                 FROM ecu_7e8
                 WHERE client_hash = %s
                   AND time > NOW() - INTERVAL '%s minutes'
@@ -200,6 +201,23 @@ def diagnose_latest_view(request: Any) -> JsonResponse:
             obd_rows = cursor.fetchall()
             if not obd_rows:
                 obd_rows = []
+
+            # 1b. Get latest ambient temperature from qtp_packets (weather API)
+            cursor.execute("""
+                SELECT weather_temp
+                FROM qtp_packets
+                WHERE client_hash = %s
+                  AND time > NOW() - INTERVAL '%s minutes'
+                  AND weather_temp IS NOT NULL
+                ORDER BY time DESC LIMIT 1
+            """, [client_hash, minutes])
+            weather_row = cursor.fetchone()
+            ambient_temp: Optional[float] = None
+            if weather_row and weather_row[0] is not None:
+                try:
+                    ambient_temp = float(weather_row[0])
+                except (TypeError, ValueError):
+                    ambient_temp = None
 
             # 2. Get latest accel window
             cursor.execute("""
@@ -301,7 +319,8 @@ def diagnose_latest_view(request: Any) -> JsonResponse:
                 parsed_packets: list = []
                 for obd_row in reversed(obd_rows):  # oldest first
                     packet: Dict[str, Any] = {}
-                    rpm, speed, coolant, ltft_raw, stft_raw, voltage_mv, load, throttle = obd_row
+                    (rpm, speed, coolant, ltft_raw, stft_raw,
+                     voltage_mv, load, throttle, runtime_sec) = obd_row
                     packet["rpm"] = rpm
                     packet["speed"] = speed
                     packet["coolant_temp"] = coolant
@@ -315,6 +334,15 @@ def diagnose_latest_view(request: Any) -> JsonResponse:
                         packet["engine_load"] = load
                     if throttle is not None:
                         packet["throttle_pos"] = throttle
+
+                    # Engine context enrichments
+                    if runtime_sec is not None:
+                        try:
+                            packet["minutes_running"] = round(float(runtime_sec) / 60.0, 2)
+                        except (TypeError, ValueError):
+                            pass
+                    if ambient_temp is not None:
+                        packet["ambient_temp"] = ambient_temp
 
                     # Add accel + audio to each packet
                     if accel_data:

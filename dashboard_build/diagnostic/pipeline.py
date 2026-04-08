@@ -267,6 +267,9 @@ class DiagnosticPipeline:
                 "stft_2000rpm": dual_regime_result.stft_2000rpm,
             }
 
+        # Step 5: Data quality gate — flag limited data, suppress low-confidence
+        report = self._data_quality_check(packet, features, report)
+
         # Step 6: Optional DB persistence
         if db_cursor is not None and client_hash is not None:
             from .db_writers import save_baselines, write_fact_log, write_anomaly_scores
@@ -356,3 +359,46 @@ class DiagnosticPipeline:
             ))
 
         return facts
+
+    # ------------------------------------------------------------------
+    # Data quality gate (F4)
+    # ------------------------------------------------------------------
+
+    def _data_quality_check(self, packet, features: dict, report: dict) -> dict:
+        """Check data quality and flag limited reliability.
+
+        If regime is UNKNOWN, or key feature variance is ~0,
+        mark report as limited and suppress low-confidence diagnoses.
+        """
+        issues: List[str] = []
+
+        # Check regime: if unknown, data might be garbage
+        if packet.regime.value == "unknown":
+            issues.append("regime_unknown")
+
+        # Check feature variance: if all features near-zero, sensor might be dead
+        key_features = ["az_std", "total_vibration"]
+        frozen_count = 0
+        for feat in key_features:
+            val = features.get(feat, None)
+            # az_std lives on the packet, not in features dict
+            if val is None:
+                val = getattr(packet, feat, None)
+            if val is not None and abs(val) < 0.001:
+                frozen_count += 1
+        if frozen_count == len(key_features) and len(key_features) > 0:
+            issues.append("features_frozen")
+
+        if issues:
+            report["data_quality"] = "limited"
+            report["data_quality_issues"] = issues
+            # Suppress low-confidence diagnoses
+            if "diagnoses" in report:
+                report["diagnoses"] = [
+                    d for d in report["diagnoses"]
+                    if d.get("confidence", 0) >= 50
+                ]
+        else:
+            report["data_quality"] = "good"
+
+        return report

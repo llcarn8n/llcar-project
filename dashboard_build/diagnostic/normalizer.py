@@ -9,6 +9,7 @@ Responsibilities:
 from __future__ import annotations
 
 from dataclasses import dataclass, field
+from datetime import datetime
 from enum import Enum
 from typing import Dict, List, Optional, Tuple
 
@@ -16,6 +17,47 @@ from typing import Dict, List, Optional, Tuple
 # ---------------------------------------------------------------------------
 # Enums
 # ---------------------------------------------------------------------------
+
+class SessionTimer:
+    """Track engine running time from first packet timestamp."""
+
+    def __init__(self) -> None:
+        self._first_time: Optional[str] = None
+
+    def update(self, timestamp: str) -> float:
+        """Return minutes elapsed since the first packet.
+
+        Returns 0.0 for the very first call and on any parse error.
+        """
+        if self._first_time is None:
+            # Try to parse before accepting — reject garbage early
+            try:
+                datetime.fromisoformat(timestamp.replace("Z", "+00:00"))
+            except (ValueError, TypeError, AttributeError):
+                return 0.0
+            self._first_time = timestamp
+            return 0.0
+        try:
+            t0 = datetime.fromisoformat(self._first_time.replace("Z", "+00:00"))
+            t1 = datetime.fromisoformat(timestamp.replace("Z", "+00:00"))
+            delta = (t1 - t0).total_seconds() / 60.0
+            return max(0.0, delta)
+        except (ValueError, TypeError, AttributeError):
+            return 0.0
+
+
+def validate_ambient_temp(value: Optional[float]) -> Optional[float]:
+    """Return ambient temperature if within plausible range [-60, 60] C, else None."""
+    if value is None:
+        return None
+    try:
+        value = float(value)
+    except (TypeError, ValueError):
+        return None
+    if value < -60 or value > 60:
+        return None
+    return value
+
 
 class DrivingRegime(Enum):
     """Driving regime classification."""
@@ -174,12 +216,18 @@ def _classify_regime(
     return DrivingRegime.CITY
 
 
-def _build_engine_context(coolant_temp: Optional[float]) -> EngineContext:
-    """Derive engine context from coolant temperature."""
+def _build_engine_context(
+    coolant_temp: Optional[float],
+    ambient_temp: Optional[float] = None,
+    minutes_running: float = 0.0,
+) -> EngineContext:
+    """Derive engine context from coolant temperature and optional enrichments."""
     ctx = EngineContext()
     if coolant_temp is not None:
         ctx.warm = coolant_temp > 80
         ctx.cold_start = coolant_temp < 60
+    ctx.ambient_temp = validate_ambient_temp(ambient_temp)
+    ctx.minutes_running = max(0.0, float(minutes_running)) if minutes_running else 0.0
     return ctx
 
 
@@ -256,7 +304,15 @@ def normalize_packet(
 
     # Computed fields
     regime = _classify_regime(speed, accel_vals.get("ax_avg"), accel_vals.get("ay_avg"))
-    engine_context = _build_engine_context(coolant_temp)
+
+    # Extract optional engine context enrichments from raw packet
+    raw_ambient = raw.get("ambient_temp")
+    raw_minutes = raw.get("minutes_running", 0.0)
+    engine_context = _build_engine_context(
+        coolant_temp,
+        ambient_temp=raw_ambient,
+        minutes_running=raw_minutes,
+    )
     tier = _detect_tier(raw)
 
     # GAP-P2: Regime stability — False when regime just changed

@@ -7,7 +7,6 @@ import { StatusBadge } from '../components/shared/StatusBadge'
 const DigitalTwinCanvas = React.lazy(() => import('../components/three/DigitalTwinCanvas'))
 import { StatusPills } from '../components/shared/StatusPills'
 import { WeatherWidget } from '../components/shared/WeatherWidget'
-import robotImg from '../assets/robot-default.jpg'
 import { useApiData } from '../hooks/useApiData'
 import { useDiagnosticV2 } from '../hooks/useDiagnosticV2'
 import { useDashboardStore } from '../stores/dashboardStore'
@@ -15,7 +14,7 @@ import { theme } from '../theme'
 
 export function Dashboard() {
   const { clientHash, timeRange, setTimeRange, setTab } = useDashboardStore()
-  const { report: v2Report, history: v2History } = useDiagnosticV2(clientHash)
+  const { report: v2Report, history: v2History, loading: v2Loading } = useDiagnosticV2(clientHash)
 
   const { data: anomaly } = useApiData<any>({
     endpoint: '/api/anomaly/',
@@ -31,7 +30,7 @@ export function Dashboard() {
 
   // Prefer V2 health scores (fixes Электрика -1 bug)
   const v2Overall = v2Report?.health_scores?.overall
-  const overall = v2Overall ?? anomaly?.overall ?? -1
+  const overall = v2Loading ? -1 : (v2Overall ?? anomaly?.overall ?? -1)
   // Trend data for health delta indicator
   const v2Trends = v2Report?.health_trends
   const overallTrend = v2Trends?.overall as string | undefined
@@ -157,17 +156,17 @@ export function Dashboard() {
             <div className="text-xs font-mono mt-1" style={{ color: 'rgba(255,255,255,0.3)' }}>Двигатель выкл</div>
           )}
           <div className="mt-4 space-y-2">
-            <HealthBar score={v2Scores?.suspension ?? systems.suspension?.score ?? 0} label={'\u041F\u043E\u0434\u0432\u0435\u0441\u043A\u0430'} />
-            <HealthBar score={v2Scores?.engine ?? systems.engine?.score ?? 0} label={'\u0414\u0432\u0438\u0433\u0430\u0442\u0435\u043B\u044C'} />
-            <HealthBar score={v2Scores?.electrical ?? systems.electrical?.score ?? 0} label={'\u042D\u043B\u0435\u043A\u0442\u0440\u0438\u043A\u0430'} />
-            <HealthBar score={v2Scores?.audio ?? systems.audio?.score ?? 0} label={'\u0410\u0443\u0434\u0438\u043E'} />
+            <HealthBar score={v2Loading ? 0 : (v2Scores?.suspension ?? systems.suspension?.score ?? 0)} label={'\u041F\u043E\u0434\u0432\u0435\u0441\u043A\u0430'} />
+            <HealthBar score={v2Loading ? 0 : (v2Scores?.engine ?? systems.engine?.score ?? 0)} label={'\u0414\u0432\u0438\u0433\u0430\u0442\u0435\u043B\u044C'} />
+            <HealthBar score={v2Loading ? 0 : (v2Scores?.electrical ?? systems.electrical?.score ?? 0)} label={'\u042D\u043B\u0435\u043A\u0442\u0440\u0438\u043A\u0430'} />
+            <HealthBar score={v2Loading ? 0 : (v2Scores?.audio ?? systems.audio?.score ?? 0)} label={'\u0410\u0443\u0434\u0438\u043E'} />
           </div>
           {(() => {
             const sysScores = {
-              suspension: v2Scores?.suspension ?? systems.suspension?.score ?? 0,
-              engine: v2Scores?.engine ?? systems.engine?.score ?? 0,
-              electrical: v2Scores?.electrical ?? systems.electrical?.score ?? 0,
-              audio: v2Scores?.audio ?? systems.audio?.score ?? 0,
+              suspension: v2Loading ? 0 : (v2Scores?.suspension ?? systems.suspension?.score ?? 0),
+              engine: v2Loading ? 0 : (v2Scores?.engine ?? systems.engine?.score ?? 0),
+              electrical: v2Loading ? 0 : (v2Scores?.electrical ?? systems.electrical?.score ?? 0),
+              audio: v2Loading ? 0 : (v2Scores?.audio ?? systems.audio?.score ?? 0),
             }
             const getStatus = (score: number) => isOffline && score === 0 ? 'offline' as const : score >= 80 ? 'ok' as const : score >= 50 ? 'warning' as const : 'critical' as const
             return (
@@ -233,39 +232,6 @@ export function Dashboard() {
         </div>
       )}
 
-      {/* Советы Пантелея — next_steps from V2 report */}
-      {v2Report?.next_steps && v2Report.next_steps.length > 0 && (
-        <div className="col-span-12">
-          <GlassPanel>
-            <div style={{ display: 'flex', alignItems: 'flex-start', gap: 12 }}>
-              <img src={robotImg} alt="" style={{ width: 40, height: 40, objectFit: 'contain', flexShrink: 0, marginTop: 2 }} />
-              <div style={{ flex: 1 }}>
-                <div className="hud-header mb-2" style={{ fontSize: 11 }}>Советы Пантелея</div>
-                <div style={{ display: 'flex', flexDirection: 'column', gap: 6 }}>
-                  {v2Report.next_steps.map((step: string, i: number) => (
-                    <div key={i} style={{
-                      display: 'flex', alignItems: 'flex-start', gap: 8,
-                      fontSize: 12, fontFamily: "'Rajdhani', sans-serif", fontWeight: 500,
-                      color: theme.text.secondary, lineHeight: 1.4,
-                    }}>
-                      <span style={{
-                        flexShrink: 0, width: 18, height: 18, borderRadius: '50%',
-                        display: 'flex', alignItems: 'center', justifyContent: 'center',
-                        fontSize: 9, fontFamily: "'Orbitron', sans-serif", fontWeight: 700,
-                        background: `${theme.accent.teal}15`, color: theme.accent.teal,
-                        border: `1px solid ${theme.accent.teal}30`,
-                      }}>
-                        {i + 1}
-                      </span>
-                      <span>{step}</span>
-                    </div>
-                  ))}
-                </div>
-              </div>
-            </div>
-          </GlassPanel>
-        </div>
-      )}
 
       {/* Чек-лист по системам */}
       {!isOffline && (
@@ -279,7 +245,7 @@ export function Dashboard() {
                 { key: 'electrical', name: 'Электрика', icon: '\u26A1' },
                 { key: 'audio', name: 'Шумы', icon: '\u{1F50A}' },
               ] as const).map(sys => {
-                const score = v2Scores?.[sys.key] ?? systems[sys.key]?.score ?? 0
+                const score = v2Loading ? 0 : (v2Scores?.[sys.key] ?? systems[sys.key]?.score ?? 0)
                 const st = score === 0 && isOffline ? 'offline' : score >= 80 ? 'ok' : score >= 50 ? 'warning' : 'critical'
                 const stColor = st === 'ok' ? theme.status.ok : st === 'warning' ? theme.status.warning : st === 'critical' ? theme.status.critical : theme.text.muted
                 const stLabel = st === 'ok' ? 'Норма' : st === 'warning' ? 'Внимание' : st === 'critical' ? 'Проблема' : '--'

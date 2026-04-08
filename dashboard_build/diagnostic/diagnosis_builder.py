@@ -512,15 +512,22 @@ class DiagnosisBuilder:
     ) -> Dict[str, Any]:
         """Try to resolve KB situation data for a rule result.
 
-        Strategy:
+        Strategy (highest priority first):
+          0. Curated DTC→situation map (dtc_situation_map.json).
           1. If rule has dtc_codes, try find_situations_by_dtc for each code.
           2. If rule has situation_id, use it directly.
           3. If rule has dtc_codes, try find_situations_by_dtc_range (SAE J2012).
           4. Fallback: search by category + keyword from rule name.
           5. Fallback to empty dict.
         """
-        # Try DTC codes first (exact match)
+        # Step 0: Curated DTC→situation map (highest priority)
         dtc_codes = rule_result.get("dtc_codes", [])
+        for code in dtc_codes:
+            curated = self._kb.resolve_dtc_to_situation(code, brand=brand)
+            if curated is not None:
+                return curated
+
+        # Step 1: Try DTC codes (exact match in situation.dtc_codes)
         for code in dtc_codes:
             situations = self._kb.find_situations_by_dtc(code, brand=brand)
             if situations:
