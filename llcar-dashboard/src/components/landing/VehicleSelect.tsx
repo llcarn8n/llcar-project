@@ -112,7 +112,7 @@ export function VehicleSelect() {
         <select style={selectStyle} value={brandId} onChange={e => setBrandId(e.target.value)}>
           <option value="">— Выберите марку —</option>
           {brands.map(b => (
-            <option key={b.id} value={b.id}>{b.name_ru || b.name} ({b.models})</option>
+            <option key={b.id} value={b.id}>{b.name} ({b.models})</option>
           ))}
         </select>
       </div>

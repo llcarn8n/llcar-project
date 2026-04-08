@@ -30,15 +30,31 @@ export function Landing() {
       {/* Background orbs */}
       <div style={{ position: 'fixed', inset: 0, zIndex: 0, pointerEvents: 'none', overflow: 'hidden' }}>
         <div style={{
-          position: 'absolute', top: '15%', left: '10%', width: 600, height: 600, borderRadius: '50%',
-          background: `radial-gradient(circle, ${theme.accent.cyan}20 0%, transparent 70%)`,
+          position: 'absolute', top: '10%', left: '5%', width: 700, height: 700, borderRadius: '50%',
+          background: 'radial-gradient(circle, rgba(0,229,255,0.12) 0%, transparent 60%)',
           filter: 'blur(80px)', animation: 'breathe1 12s ease-in-out infinite',
         }} />
         <div style={{
-          position: 'absolute', bottom: '5%', right: '5%', width: 400, height: 400, borderRadius: '50%',
-          background: 'radial-gradient(circle, rgba(255,23,68,0.08) 0%, transparent 70%)',
-          filter: 'blur(60px)', animation: 'breathe2 18s ease-in-out infinite',
+          position: 'absolute', bottom: '0%', right: '0%', width: 500, height: 500, borderRadius: '50%',
+          background: 'radial-gradient(circle, rgba(255,140,0,0.08) 0%, transparent 60%)',
+          filter: 'blur(70px)', animation: 'breathe2 18s ease-in-out infinite',
         }} />
+        <div style={{
+          position: 'absolute', top: '50%', left: '50%', width: 400, height: 400, borderRadius: '50%',
+          background: 'radial-gradient(circle, rgba(138,43,226,0.06) 0%, transparent 60%)',
+          filter: 'blur(60px)', animation: 'breathe1 20s ease-in-out infinite reverse',
+        }} />
+      </div>
+
+      {/* Floating particles */}
+      <div className="particles-container">
+        {Array.from({ length: 15 }).map((_, i) => (
+          <div key={i} className="particle" style={{
+            left: `${Math.random() * 100}%`,
+            animationDelay: `${Math.random() * 20}s`,
+            animationDuration: `${15 + Math.random() * 20}s`,
+          }} />
+        ))}
       </div>
 
       {/* Header */}
@@ -205,16 +221,22 @@ export function Landing() {
           <div style={{
             display: 'grid',
             gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))',
-            gap: 12,
+            gap: 14,
           }}>
-            {COMICS.map(({ file, caption }) => (
-              <div key={file} style={{
+            {COMICS.map(({ file, caption }, i) => (
+              <div key={file} className="comic-card" style={{
                 borderRadius: 8,
                 overflow: 'hidden',
-                border: '1px solid rgba(0,229,255,0.1)',
-                background: 'rgba(0,229,255,0.02)',
-                transition: 'all 0.3s',
+                border: '1px solid rgba(0,229,255,0.2)',
+                background: 'linear-gradient(180deg, rgba(0,229,255,0.04) 0%, rgba(0,10,20,0.6) 100%)',
+                transition: 'all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275)',
+                boxShadow: '0 4px 20px rgba(0,0,0,0.4), 0 0 15px rgba(0,229,255,0.05), inset 0 1px 0 rgba(255,255,255,0.06)',
+                position: 'relative',
+                animation: `revealPanel 0.7s cubic-bezier(0.16, 1, 0.3, 1) ${0.3 + i * 0.15}s both`,
               }}>
+                {/* Corner brackets */}
+                <div style={{ position: 'absolute', top: 0, left: 0, width: 12, height: 12, borderTop: '2px solid rgba(0,229,255,0.4)', borderLeft: '2px solid rgba(0,229,255,0.4)', zIndex: 2 }} />
+                <div style={{ position: 'absolute', bottom: 0, right: 0, width: 12, height: 12, borderBottom: '2px solid rgba(0,229,255,0.4)', borderRight: '2px solid rgba(0,229,255,0.4)', zIndex: 2 }} />
                 <img
                   src={`${import.meta.env.BASE_URL}images/comics/${file}.webp`}
                   alt={caption}
@@ -223,16 +245,20 @@ export function Landing() {
                     width: '100%',
                     height: 'auto',
                     display: 'block',
+                    filter: 'brightness(0.95) contrast(1.05)',
+                    transition: 'filter 0.3s',
                   }}
                 />
                 <div style={{
-                  padding: '8px 10px',
+                  padding: '10px 12px',
                   fontFamily: "'Rajdhani', sans-serif",
                   fontSize: 11,
                   fontWeight: 600,
-                  color: theme.text.muted,
-                  letterSpacing: '0.02em',
+                  color: 'rgba(0,229,255,0.7)',
+                  letterSpacing: '0.03em',
                   lineHeight: 1.3,
+                  borderTop: '1px solid rgba(0,229,255,0.1)',
+                  textShadow: '0 0 8px rgba(0,229,255,0.2)',
                 }}>
                   {caption}
                 </div>

@@ -9,6 +9,50 @@ select option {
   color: #ffffff;
 }
 
+/* Comic card hover — lift and glow */
+.comic-card:hover {
+  transform: translateY(-6px) scale(1.02) !important;
+  box-shadow: 0 12px 40px rgba(0,0,0,0.5), 0 0 30px rgba(0,229,255,0.15), inset 0 1px 0 rgba(255,255,255,0.1) !important;
+  border-color: rgba(0,229,255,0.4) !important;
+}
+.comic-card:hover img {
+  filter: brightness(1.05) contrast(1.1) !important;
+}
+
+/* Floating particles */
+.particles-container {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 1;
+  overflow: hidden;
+}
+.particle {
+  position: absolute;
+  width: 2px;
+  height: 2px;
+  background: rgba(0,229,255,0.6);
+  border-radius: 50%;
+  box-shadow: 0 0 6px rgba(0,229,255,0.8);
+  animation: particleDrift 20s linear infinite;
+}
+.particle:nth-child(2n) {
+  background: rgba(255,140,0,0.5);
+  box-shadow: 0 0 6px rgba(255,140,0,0.6);
+  animation-duration: 25s;
+}
+.particle:nth-child(3n) {
+  width: 1px;
+  height: 1px;
+  animation-duration: 30s;
+}
+@keyframes particleDrift {
+  0% { transform: translateY(100vh) translateX(0); opacity: 0; }
+  5% { opacity: 1; }
+  95% { opacity: 1; }
+  100% { transform: translateY(-100vh) translateX(80px); opacity: 0; }
+}
+
 /* Pulsing border for select panel */
 @keyframes borderPulse {
   0%, 100% { border-top-color: rgba(0,229,255,0.4); }

@@ -31,17 +31,30 @@ export function MainLayout({ children }: { children: ReactNode }) {
       {/* Breathing background orbs */}
       <div style={{ position: 'fixed', inset: 0, zIndex: 0, pointerEvents: 'none', overflow: 'hidden' }}>
         <div style={{
-          position: 'absolute', top: '20%', left: '20%', width: 500, height: 500, borderRadius: '50%',
-          background: 'radial-gradient(circle, var(--accent-cyan, rgba(0,229,255,0.2)) 0%, transparent 70%)',
-          opacity: 0.2,
-          filter: 'blur(60px)', animation: 'breathe1 12s ease-in-out infinite',
+          position: 'absolute', top: '15%', left: '10%', width: 600, height: 600, borderRadius: '50%',
+          background: 'radial-gradient(circle, rgba(0,229,255,0.12) 0%, transparent 60%)',
+          filter: 'blur(80px)', animation: 'breathe1 12s ease-in-out infinite',
         }} />
         <div style={{
-          position: 'absolute', bottom: '10%', right: '15%', width: 400, height: 400, borderRadius: '50%',
-          background: 'radial-gradient(circle, var(--status-critical, rgba(255,23,68,0.12)) 0%, transparent 70%)',
-          opacity: 0.12,
-          filter: 'blur(60px)', animation: 'breathe2 18s ease-in-out infinite',
+          position: 'absolute', bottom: '5%', right: '5%', width: 500, height: 500, borderRadius: '50%',
+          background: 'radial-gradient(circle, rgba(255,140,0,0.06) 0%, transparent 60%)',
+          filter: 'blur(70px)', animation: 'breathe2 18s ease-in-out infinite',
         }} />
+        <div style={{
+          position: 'absolute', top: '60%', left: '60%', width: 350, height: 350, borderRadius: '50%',
+          background: 'radial-gradient(circle, rgba(138,43,226,0.05) 0%, transparent 60%)',
+          filter: 'blur(60px)', animation: 'breathe1 22s ease-in-out infinite reverse',
+        }} />
+      </div>
+      {/* Floating particles */}
+      <div className="particles-container">
+        {Array.from({ length: 10 }).map((_, i) => (
+          <div key={i} className="particle" style={{
+            left: `${(i * 10) + Math.random() * 5}%`,
+            animationDelay: `${i * 2}s`,
+            animationDuration: `${18 + i * 2}s`,
+          }} />
+        ))}
       </div>
       {/* Header */}
       <header className="flex flex-wrap items-center justify-between px-3 md:px-6 py-2 md:py-3 border-b border-white/5 gap-1">
