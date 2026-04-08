@@ -40,26 +40,13 @@ export function VehicleInfo() {
   // Load brand data
   useEffect(() => {
     if (!vehicleProfile) return
-    const brandId = vehicleProfile.brand.toLowerCase().replace(/\s+/g, '_')
+    const brandId = vehicleProfile.brandId || vehicleProfile.brand.toLowerCase().replace(/\s+/g, '_')
     setLoading(true)
 
-    // Try multiple brand ID formats
-    const tryLoad = async () => {
-      for (const id of [brandId, vehicleProfile.brand.toLowerCase()]) {
-        try {
-          const res = await fetch(`${import.meta.env.BASE_URL}data/brands/${id}.json`)
-          if (res.ok) {
-            const data = await res.json()
-            setBrandData(data)
-            setLoading(false)
-            return
-          }
-        } catch { /* try next */ }
-      }
-      setBrandData(null)
-      setLoading(false)
-    }
-    tryLoad()
+    fetch(`${import.meta.env.BASE_URL}data/brands/${brandId}.json`)
+      .then(r => r.ok ? r.json() : null)
+      .then(data => { setBrandData(data); setLoading(false) })
+      .catch(() => { setBrandData(null); setLoading(false) })
   }, [vehicleProfile])
 
   // Find matching model and generation

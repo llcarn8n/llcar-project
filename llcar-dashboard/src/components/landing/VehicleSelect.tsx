@@ -73,6 +73,7 @@ export function VehicleSelect() {
     if (!brandData || !selectedModel || !selectedGen) return
     setVehicleProfile({
       brand: brandData.name,
+      brandId: brandData.id,
       model: selectedModel.name,
       year: selectedGen.ys,
       engine,

@@ -2,6 +2,7 @@ import { create } from 'zustand'
 
 interface VehicleProfile {
   brand: string
+  brandId?: string
   model: string
   year: number
   engine: string
