@@ -2,3 +2,9 @@
 @import "./styles/glass.css";
 @import "./styles/telemetry.css";
 @import "./components/shared/HoloSheen.css";
+
+/* Fix native select dropdown visibility on Windows */
+select option {
+  background: #0f1923;
+  color: #ffffff;
+}

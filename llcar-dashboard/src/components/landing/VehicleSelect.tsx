@@ -22,15 +22,13 @@ const selectStyle: React.CSSProperties = {
   fontFamily: "'Rajdhani', sans-serif",
   fontSize: 14,
   fontWeight: 600,
-  color: 'var(--text-primary)',
-  background: 'rgba(0,229,255,0.04)',
+  color: '#ffffff',
+  background: '#0f1923',
   border: '1px solid rgba(0,229,255,0.2)',
   borderRadius: 4,
   outline: 'none',
   letterSpacing: '0.03em',
   cursor: 'pointer',
-  appearance: 'none' as const,
-  WebkitAppearance: 'none' as const,
 }
 
 export function VehicleSelect() {
