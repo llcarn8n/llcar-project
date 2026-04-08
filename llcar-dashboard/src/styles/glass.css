@@ -149,8 +149,16 @@ body {
   font-family: 'Rajdhani', sans-serif;
   background-color: var(--bg-primary);
   color: var(--text-primary);
-  background-image: radial-gradient(circle at 1px 1px, var(--body-dots) 1px, transparent 0);
-  background-size: 24px 24px;
+  background-image:
+    /* Star dots */
+    radial-gradient(circle at 1px 1px, var(--body-dots) 1px, transparent 0),
+    /* Coordinate grid */
+    linear-gradient(rgba(0,229,255,0.025) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(0,229,255,0.025) 1px, transparent 1px),
+    /* Nebula wash */
+    radial-gradient(ellipse at 20% 80%, rgba(0,100,255,0.06) 0%, transparent 50%),
+    radial-gradient(ellipse at 80% 20%, rgba(255,140,0,0.04) 0%, transparent 50%);
+  background-size: 24px 24px, 48px 48px, 48px 48px, 100% 100%, 100% 100%;
 }
 
 body::before {
@@ -192,7 +200,7 @@ body::after {
 .glass-panel:hover {
   border-color: var(--border-hover);
   box-shadow: var(--glass-shadow-hover);
-  transform: translateY(-1px);
+  transform: translateY(-2px) scale(1.002);
 }
 
 /* Corner brackets — larger, glowing */

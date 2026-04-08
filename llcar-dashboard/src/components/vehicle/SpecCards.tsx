@@ -34,30 +34,46 @@ function SpecCard({ label, value, unit, icon }: { label: string; value: string |
       display: 'flex',
       flexDirection: 'column',
       alignItems: 'center',
-      padding: '16px 12px',
-      borderRadius: 4,
-      background: 'rgba(0,229,255,0.03)',
-      border: '1px solid rgba(0,229,255,0.1)',
-      gap: 6,
-      minWidth: 100,
+      padding: '20px 14px 16px',
+      borderRadius: 6,
+      background: 'linear-gradient(135deg, rgba(0,229,255,0.06) 0%, rgba(0,20,40,0.8) 100%)',
+      border: '1px solid rgba(0,229,255,0.2)',
+      gap: 8,
+      minWidth: 110,
+      position: 'relative',
+      overflow: 'hidden',
+      boxShadow: '0 4px 20px rgba(0,0,0,0.3), inset 0 1px 0 rgba(255,255,255,0.06), 0 0 15px rgba(0,229,255,0.05)',
+      transition: 'all 0.3s',
     }}>
-      <span style={{ fontSize: 20, opacity: 0.5 }}>{icon}</span>
+      {/* Top glow line */}
       <div style={{
-        fontFamily: "'Orbitron', sans-serif",
-        fontSize: 18,
+        position: 'absolute',
+        top: 0, left: '20%', right: '20%',
+        height: 1,
+        background: 'linear-gradient(90deg, transparent, rgba(0,229,255,0.5), transparent)',
+      }} />
+      <span style={{
+        fontSize: 22,
+        filter: 'drop-shadow(0 0 6px rgba(0,229,255,0.4))',
+      }}>{icon}</span>
+      <div style={{
+        fontFamily: "'Share Tech Mono', 'Orbitron', monospace",
+        fontSize: 22,
         fontWeight: 700,
-        color: theme.accent.cyan,
-        textShadow: `0 0 12px ${theme.accent.cyan}40`,
-        letterSpacing: '0.05em',
+        color: '#00E5FF',
+        textShadow: '0 0 10px rgba(0,229,255,0.8), 0 0 20px rgba(0,229,255,0.4), 0 0 40px rgba(0,229,255,0.2)',
+        letterSpacing: '0.08em',
+        lineHeight: 1,
       }}>
-        {value}{unit && <span style={{ fontSize: 10, opacity: 0.6, marginLeft: 2 }}>{unit}</span>}
+        {value}{unit && <span style={{ fontSize: 10, opacity: 0.5, marginLeft: 3, fontFamily: "'Rajdhani', sans-serif" }}>{unit}</span>}
       </div>
       <div style={{
         fontFamily: "'Rajdhani', sans-serif",
         fontSize: 11,
         fontWeight: 600,
-        color: theme.text.muted,
-        letterSpacing: '0.05em',
+        color: 'rgba(255,255,255,0.5)',
+        letterSpacing: '0.08em',
+        textTransform: 'uppercase' as const,
         textAlign: 'center',
       }}>
         {label}
@@ -119,30 +135,35 @@ export function SpecCards({ dimensions, trims }: SpecCardsProps) {
           <div style={{ overflowX: 'auto' }}>
             <table style={{
               width: '100%',
-              borderCollapse: 'collapse',
+              borderCollapse: 'separate',
+              borderSpacing: '0 3px',
               fontFamily: "'Rajdhani', sans-serif",
               fontSize: 12,
             }}>
               <thead>
-                <tr style={{ borderBottom: '1px solid rgba(0,229,255,0.15)' }}>
+                <tr>
                   {['Комплектация', 'Мощность', 'Крутящий', 'КПП', 'Привод', '0-100', 'Расход'].map(h => (
                     <th key={h} style={{
-                      padding: '8px 10px',
+                      padding: '10px 12px',
                       textAlign: 'left',
-                      color: theme.text.muted,
+                      color: 'rgba(0,229,255,0.6)',
                       fontWeight: 600,
                       fontSize: 10,
-                      letterSpacing: '0.08em',
+                      letterSpacing: '0.12em',
                       textTransform: 'uppercase' as const,
+                      borderBottom: '2px solid rgba(0,229,255,0.2)',
+                      background: 'linear-gradient(90deg, rgba(0,229,255,0.06) 0%, transparent 100%)',
                     }}>{h}</th>
                   ))}
                 </tr>
               </thead>
               <tbody>
                 {trims.map((t, i) => (
-                  <tr key={i} style={{
-                    borderBottom: '1px solid rgba(0,229,255,0.05)',
-                    background: i % 2 === 0 ? 'transparent' : 'rgba(0,229,255,0.02)',
+                  <tr key={i} className="trim-row" style={{
+                    background: i % 2 === 0 ? 'rgba(0,20,40,0.4)' : 'rgba(0,229,255,0.02)',
+                    transition: 'all 0.2s',
+                    cursor: 'pointer',
+                    position: 'relative',
                   }}>
                     <td style={{ padding: '8px 10px', color: theme.text.secondary, fontWeight: 600 }}>{t.name}</td>
                     <td style={{ padding: '8px 10px', color: theme.accent.cyan }}>{t.engine?.power_hp ? `${t.engine.power_hp} л.с.` : '—'}</td>

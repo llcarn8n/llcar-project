@@ -8,3 +8,14 @@ select option {
   background: #0f1923;
   color: #ffffff;
 }
+
+/* Trim table row hover */
+.trim-row:hover {
+  background: linear-gradient(90deg, rgba(0,229,255,0.1) 0%, rgba(255,140,0,0.04) 100%) !important;
+  box-shadow: 0 0 20px rgba(0,229,255,0.08), inset 3px 0 0 rgba(0,229,255,0.6);
+  transform: scale(1.005);
+}
+.trim-row:hover td {
+  color: #fff !important;
+  text-shadow: 0 0 8px rgba(255,255,255,0.15);
+}
