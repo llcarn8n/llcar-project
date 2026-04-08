@@ -36,12 +36,14 @@ export function VehicleInfo() {
   const { vehicleProfile, mode } = useDashboardStore()
   const [brandData, setBrandData] = useState<BrandData | null>(null)
   const [modelDesc, setModelDesc] = useState<string | null>(null)
+  const [videoTitles, setVideoTitles] = useState<string[]>([])
   const [loading, setLoading] = useState(false)
 
-  // Load brand data + model description
+  // Load brand data + model description + videos
   useEffect(() => {
     if (!vehicleProfile) return
     const brandId = vehicleProfile.brandId || vehicleProfile.brand.toLowerCase().replace(/\s+/g, '_')
+    const modelId = vehicleProfile.model.toLowerCase().replace(/\s+/g, '_')
     setLoading(true)
 
     const loadSpecs = fetch(`${import.meta.env.BASE_URL}data/brands/${brandId}.json`)
@@ -51,13 +53,17 @@ export function VehicleInfo() {
       .then(r => r.ok ? r.json() : null)
       .catch(() => null)
 
-    Promise.all([loadSpecs, loadDesc]).then(([specs, descs]) => {
+    const loadVideos = fetch(`${import.meta.env.BASE_URL}data/videos/${brandId}_${modelId}.json`)
+      .then(r => r.ok ? r.json() : null)
+      .catch(() => null)
+
+    Promise.all([loadSpecs, loadDesc, loadVideos]).then(([specs, descs, vids]) => {
       setBrandData(specs)
       if (descs) {
-        const modelId = vehicleProfile.model.toLowerCase().replace(/\s+/g, '_')
         const info = descs[modelId]
         setModelDesc(info?.desc || null)
       }
+      if (vids?.titles) setVideoTitles(vids.titles.slice(0, 10))
       setLoading(false)
     })
   }, [vehicleProfile])
@@ -192,6 +198,31 @@ export function VehicleInfo() {
               padding: '4px 0',
             }}>
               {modelDesc}
+            </div>
+          </GlassPanel>
+        </div>
+      )}
+
+      {/* Video topics */}
+      {videoTitles.length > 0 && (
+        <div className="col-span-12">
+          <GlassPanel>
+            <div className="hud-header mb-3">Видео по модели</div>
+            <div style={{ display: 'flex', flexWrap: 'wrap', gap: 6 }}>
+              {videoTitles.map((t, i) => (
+                <div key={i} style={{
+                  padding: '6px 12px',
+                  borderRadius: 4,
+                  background: 'rgba(0,229,255,0.03)',
+                  border: '1px solid rgba(0,229,255,0.1)',
+                  fontFamily: "'Rajdhani', sans-serif",
+                  fontSize: 12,
+                  fontWeight: 600,
+                  color: theme.text.secondary,
+                }}>
+                  &#x1F3AC; {t}
+                </div>
+              ))}
             </div>
           </GlassPanel>
         </div>

@@ -31,11 +31,13 @@ function urgencyColor(urg: number): string {
   return theme.accent.cyan
 }
 
-export function SituationsList() {
+export function SituationsList({ brandId }: { brandId?: string | null }) {
   const [situations, setSituations] = useState<Situation[]>([])
   const [loading, setLoading] = useState(true)
+  const [brandSituations, setBrandSituations] = useState<Situation[]>([])
   const [search, setSearch] = useState('')
   const [catFilter, setCatFilter] = useState('')
+  const [showBrandOnly, setShowBrandOnly] = useState(false)
   const [expandedId, setExpandedId] = useState<string | null>(null)
 
   useEffect(() => {
@@ -45,6 +47,15 @@ export function SituationsList() {
       .catch(() => setLoading(false))
   }, [])
 
+  // Load brand-specific situations
+  useEffect(() => {
+    if (!brandId) return
+    fetch(`${import.meta.env.BASE_URL}data/situations/brands/${brandId}.json`)
+      .then(r => r.ok ? r.json() : [])
+      .then((data: Situation[]) => setBrandSituations(data))
+      .catch(() => setBrandSituations([]))
+  }, [brandId])
+
   // Available categories
   const categories = useMemo(() => {
     const cats = new Set(situations.map(s => s.cat).filter(Boolean))
@@ -53,8 +64,9 @@ export function SituationsList() {
 
   // Filter
   const filtered = useMemo(() => {
+    const source = showBrandOnly && brandSituations.length > 0 ? brandSituations : [...brandSituations, ...situations]
     const q = search.toLowerCase().trim()
-    return situations
+    return source
       .filter(s => {
         if (catFilter && s.cat !== catFilter) return false
         if (q && !s.title.toLowerCase().includes(q) && !s.qa.toLowerCase().includes(q)) return false
@@ -62,13 +74,17 @@ export function SituationsList() {
       })
       .sort((a, b) => b.urg - a.urg)
       .slice(0, 50)
-  }, [situations, search, catFilter])
+  }, [situations, brandSituations, showBrandOnly, search, catFilter])
 
   return (
     <GlassPanel>
       <div className="hud-header mb-3">
         Ситуации
-        {!loading && <span style={{ fontSize: 10, color: theme.text.muted, marginLeft: 8, fontWeight: 400 }}>{situations.length} универсальных</span>}
+        {!loading && (
+          <span style={{ fontSize: 10, color: theme.text.muted, marginLeft: 8, fontWeight: 400 }}>
+            {situations.length} универсальных{brandSituations.length > 0 && ` + ${brandSituations.length} для марки`}
+          </span>
+        )}
       </div>
 
       {/* Filters */}
@@ -113,6 +129,26 @@ export function SituationsList() {
             return <option key={cat} value={cat}>{info ? `${info.icon} ${info.label}` : cat}</option>
           })}
         </select>
+        {brandSituations.length > 0 && (
+          <button
+            onClick={() => setShowBrandOnly(!showBrandOnly)}
+            style={{
+              padding: '10px 14px',
+              fontFamily: "'Rajdhani', sans-serif",
+              fontSize: 12,
+              fontWeight: 700,
+              color: showBrandOnly ? '#0C1220' : '#FF8C00',
+              background: showBrandOnly ? '#FF8C00' : 'rgba(255,140,0,0.06)',
+              border: `1px solid ${showBrandOnly ? 'transparent' : 'rgba(255,140,0,0.2)'}`,
+              borderRadius: 4,
+              cursor: 'pointer',
+              transition: 'all 0.2s',
+              whiteSpace: 'nowrap',
+            }}
+          >
+            Для марки ({brandSituations.length})
+          </button>
+        )}
       </div>
 
       {loading && (

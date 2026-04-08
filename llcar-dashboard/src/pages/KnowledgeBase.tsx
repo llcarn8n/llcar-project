@@ -35,7 +35,7 @@ export function KnowledgeBase() {
 
       {/* Situations */}
       <div className="col-span-12 lg:col-span-8">
-        <SituationsList />
+        <SituationsList brandId={vehicleProfile?.brandId} />
       </div>
 
       {/* Right sidebar: manuals + parts (stubs) */}
