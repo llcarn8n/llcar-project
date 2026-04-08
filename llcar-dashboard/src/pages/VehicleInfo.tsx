@@ -30,7 +30,7 @@ interface BrandData {
   models: Model[]
 }
 
-// Robot image removed — will be redesigned
+import { ICONS } from '../utils/icons'
 
 export function VehicleInfo() {
   const { vehicleProfile, mode } = useDashboardStore()
@@ -90,7 +90,7 @@ export function VehicleInfo() {
               gap: 24,
               padding: '32px 24px',
             }}>
-              <span style={{ fontSize: 48, opacity: 0.4 }}>&#x1F916;</span>
+              <img src={ICONS.spaceRover} alt="" style={{ width: 64, height: 64, objectFit: 'contain', filter: 'drop-shadow(0 2px 10px rgba(0,229,255,0.3))' }} />
               <div>
                 <div style={{
                   fontFamily: "'Rajdhani', sans-serif",
@@ -257,7 +257,7 @@ export function VehicleInfo() {
               gap: 20,
               padding: '24px 16px',
             }}>
-              <span style={{ fontSize: 48, opacity: 0.4 }}>&#x1F916;</span>
+              <img src={ICONS.spaceRover} alt="" style={{ width: 64, height: 64, objectFit: 'contain', filter: 'drop-shadow(0 2px 10px rgba(0,229,255,0.3))' }} />
               <div style={{
                 fontFamily: "'Rajdhani', sans-serif",
                 fontSize: 14,

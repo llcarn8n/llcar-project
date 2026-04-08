@@ -3,8 +3,7 @@ import { ManualViewer } from '../components/kb/ManualViewer'
 import { GlassPanel } from '../components/shared/GlassPanel'
 import { useDashboardStore } from '../stores/dashboardStore'
 import { theme } from '../theme'
-
-// Robot image removed — will be redesigned
+import { ICONS } from '../utils/icons'
 
 export function KnowledgeBase() {
   const { vehicleProfile } = useDashboardStore()
@@ -15,7 +14,7 @@ export function KnowledgeBase() {
       <div className="col-span-12">
         <GlassPanel>
           <div style={{ display: 'flex', alignItems: 'center', gap: 16 }}>
-            <span style={{ fontSize: 48, opacity: 0.4 }}>&#x1F916;</span>
+            <img src={ICONS.knowledgeBase} alt="" style={{ width: 56, height: 56, objectFit: 'contain', filter: 'drop-shadow(0 2px 10px rgba(0,229,255,0.3))' }} />
             <div>
               <div className="hud-header" style={{ marginBottom: 4 }}>База знаний</div>
               <div style={{

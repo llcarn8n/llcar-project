@@ -1,7 +1,6 @@
 import { GlassPanel } from '../shared/GlassPanel'
 import { theme } from '../../theme'
-
-// Robot image removed — will be redesigned
+import { ICONS } from '../../utils/icons'
 
 export function ChatPanel() {
   return (
@@ -13,7 +12,7 @@ export function ChatPanel() {
         gap: 20,
         padding: '24px 16px',
       }}>
-        <span style={{ fontSize: 48, opacity: 0.4, flexShrink: 0 }}>&#x1F4AC;</span>
+        <img src={ICONS.aiChat} alt="" style={{ width: 72, height: 72, objectFit: 'contain', flexShrink: 0, filter: 'drop-shadow(0 4px 16px rgba(0,229,255,0.3))' }} />
         <div style={{ display: 'flex', flexDirection: 'column', gap: 10 }}>
           <div style={{
             fontFamily: "'Rajdhani', sans-serif",
