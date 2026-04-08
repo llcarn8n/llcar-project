@@ -30,7 +30,7 @@ interface BrandData {
   models: Model[]
 }
 
-const ROBOT_IMG = `${import.meta.env.BASE_URL}images/robot/Error_Codes_Caricature_AEOjbilI.webp`
+// Robot image removed — will be redesigned
 
 export function VehicleInfo() {
   const { vehicleProfile, mode } = useDashboardStore()
@@ -90,7 +90,7 @@ export function VehicleInfo() {
               gap: 24,
               padding: '32px 24px',
             }}>
-              <img src={ROBOT_IMG} alt="LLCAR" style={{ width: 100, height: 100, objectFit: 'contain', opacity: 0.8 }} />
+              <span style={{ fontSize: 48, opacity: 0.4 }}>&#x1F916;</span>
               <div>
                 <div style={{
                   fontFamily: "'Rajdhani', sans-serif",
@@ -257,7 +257,7 @@ export function VehicleInfo() {
               gap: 20,
               padding: '24px 16px',
             }}>
-              <img src={ROBOT_IMG} alt="LLCAR" style={{ width: 80, height: 80, objectFit: 'contain', opacity: 0.6 }} />
+              <span style={{ fontSize: 48, opacity: 0.4 }}>&#x1F916;</span>
               <div style={{
                 fontFamily: "'Rajdhani', sans-serif",
                 fontSize: 14,

@@ -353,11 +353,7 @@ export function DTCSearch({ onSelect, selectedCode, brandId }: DTCSearchProps) {
           gap: 16,
           padding: '24px 16px',
         }}>
-          <img
-            src={`${import.meta.env.BASE_URL}images/robot/Error_Codes_Caricature_VgN6CxZS.webp`}
-            alt="LLCAR"
-            style={{ width: 64, height: 64, objectFit: 'contain', opacity: 0.6 }}
-          />
+          <span style={{ fontSize: 40, opacity: 0.4 }}>&#x1F50D;</span>
           <div style={{
             fontFamily: "'Rajdhani', sans-serif",
             fontSize: 14,
@@ -377,11 +373,7 @@ export function DTCSearch({ onSelect, selectedCode, brandId }: DTCSearchProps) {
           gap: 16,
           padding: '20px 16px',
         }}>
-          <img
-            src={`${import.meta.env.BASE_URL}images/robot/Error_Codes_Caricature_TX7IgJ34.webp`}
-            alt="LLCAR"
-            style={{ width: 72, height: 72, objectFit: 'contain', opacity: 0.7 }}
-          />
+          <span style={{ fontSize: 44, opacity: 0.4 }}>&#x26A0;</span>
           <div style={{
             fontFamily: "'Rajdhani', sans-serif",
             fontSize: 13,

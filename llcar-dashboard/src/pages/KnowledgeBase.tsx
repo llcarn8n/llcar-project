@@ -4,7 +4,7 @@ import { GlassPanel } from '../components/shared/GlassPanel'
 import { useDashboardStore } from '../stores/dashboardStore'
 import { theme } from '../theme'
 
-const ROBOT_IMG = `${import.meta.env.BASE_URL}images/robot/Error_Codes_Caricature_LcC1QMc7.webp`
+// Robot image removed — will be redesigned
 
 export function KnowledgeBase() {
   const { vehicleProfile } = useDashboardStore()
@@ -15,7 +15,7 @@ export function KnowledgeBase() {
       <div className="col-span-12">
         <GlassPanel>
           <div style={{ display: 'flex', alignItems: 'center', gap: 16 }}>
-            <img src={ROBOT_IMG} alt="LLCAR" style={{ width: 56, height: 56, objectFit: 'contain', opacity: 0.8 }} />
+            <span style={{ fontSize: 48, opacity: 0.4 }}>&#x1F916;</span>
             <div>
               <div className="hud-header" style={{ marginBottom: 4 }}>База знаний</div>
               <div style={{

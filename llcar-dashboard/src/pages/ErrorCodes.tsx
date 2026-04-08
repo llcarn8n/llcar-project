@@ -219,11 +219,7 @@ export function ErrorCodes() {
               background: 'rgba(0,229,255,0.02)',
               border: '1px solid rgba(0,229,255,0.06)',
             }}>
-              <img
-                src={`${import.meta.env.BASE_URL}images/robot/Error_Codes_Caricature_F5ROtOf7.webp`}
-                alt="LLCAR"
-                style={{ width: 48, height: 48, objectFit: 'contain', opacity: 0.7 }}
-              />
+              <span style={{ fontSize: 36, opacity: 0.4 }}>&#x1F4CA;</span>
               <div style={{
                 fontFamily: "'Rajdhani', sans-serif",
                 fontSize: 12,
