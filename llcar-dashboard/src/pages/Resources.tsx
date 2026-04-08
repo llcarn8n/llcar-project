@@ -26,8 +26,7 @@ const RESOURCES: Resource[] = [
 
   // Tools
   { name: 'OBD Codes Lookup', url: 'https://www.obd-codes.com', desc: 'Международная база кодов ошибок OBD-II (англ.)', category: 'tool' },
-  { name: 'CarScanner (iOS/Android)', url: 'https://www.carscanner.info', desc: 'Мобильная OBD-II диагностика, конкурент LLCAR', category: 'tool' },
-  { name: 'Torque Pro', url: 'https://torque-bhp.com', desc: 'Популярное Android-приложение для OBD-II', category: 'tool' },
+  { name: 'ELM327 — гид по адаптерам', url: 'https://www.elm327.com', desc: 'Как выбрать OBD-II адаптер, совместимость', category: 'tool' },
 
   // Manufacturers
   { name: 'Lada (АвтоВАЗ)', url: 'https://www.lada.ru', desc: 'Официальный сайт, сервисная документация', category: 'manufacturer', brands: ['lada'] },

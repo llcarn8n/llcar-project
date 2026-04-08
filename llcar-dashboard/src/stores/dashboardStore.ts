@@ -41,6 +41,7 @@ interface DashboardState {
   openVehicleSetup: () => void
   closeVehicleSetup: () => void
   setConnectionDone: (done: boolean) => void
+  resetVehicle: () => void
   openConnectionWizard: () => void
   closeConnectionWizard: () => void
 }
@@ -108,6 +109,11 @@ export const useDashboardStore = create<DashboardState>((set) => ({
   },
   openVehicleSetup: () => set({ showVehicleSetup: true }),
   closeVehicleSetup: () => set({ showVehicleSetup: false }),
+  resetVehicle: () => {
+    localStorage.removeItem('llcar-vehicle-profile')
+    localStorage.removeItem('llcar-mode')
+    set({ vehicleProfile: null, mode: 'vehicle' })
+  },
   setConnectionDone: (done) => set({ connectionDone: done }),
   openConnectionWizard: () => set({ showConnectionWizard: true }),
   closeConnectionWizard: () => set({ showConnectionWizard: false }),

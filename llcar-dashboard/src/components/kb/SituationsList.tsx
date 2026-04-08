@@ -204,7 +204,7 @@ export function SituationsList() {
                       lineHeight: 1.5,
                       marginBottom: 8,
                     }}>
-                      {s.qa}{s.qa.length >= 200 ? '...' : ''}
+                      {s.qa}
                     </div>
 
                     {s.dtc.length > 0 && (

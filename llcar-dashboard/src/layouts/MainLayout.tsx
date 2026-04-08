@@ -16,7 +16,7 @@ const tabs = [
 export function MainLayout({ children }: { children: ReactNode }) {
   const location = useLocation()
   const navigate = useNavigate()
-  const { sidebarOpen, toggleSidebar, clientHash, timeRange, isDarkMode, toggleTheme, vehicleProfile, openVehicleSetup, openConnectionWizard } = useDashboardStore()
+  const { sidebarOpen, toggleSidebar, clientHash, timeRange, isDarkMode, toggleTheme, vehicleProfile, openVehicleSetup, openConnectionWizard, resetVehicle } = useDashboardStore()
 
   const { data: recentData } = useApiData<any[]>({
     endpoint: '/api/data/',
@@ -89,6 +89,29 @@ export function MainLayout({ children }: { children: ReactNode }) {
         </nav>
 
         <div className="flex items-center gap-2 md:gap-4">
+          {/* Change vehicle button */}
+          {vehicleProfile && (
+            <button
+              onClick={() => { resetVehicle(); navigate('/') }}
+              style={{
+                padding: '4px 10px',
+                fontFamily: "'Rajdhani', sans-serif",
+                fontSize: 11,
+                fontWeight: 700,
+                color: theme.accent.orange,
+                background: 'rgba(255,140,0,0.08)',
+                border: '1px solid rgba(255,140,0,0.25)',
+                borderRadius: 4,
+                cursor: 'pointer',
+                letterSpacing: '0.05em',
+                transition: 'all 0.3s',
+                whiteSpace: 'nowrap',
+              }}
+              title="Сменить автомобиль"
+            >
+              {vehicleProfile.brand} {vehicleProfile.model} ✕
+            </button>
+          )}
           {/* Connection status + vehicle badge — hidden on mobile */}
           <div className="hidden md:flex items-center gap-3" style={{ opacity: 0.6 }}>
             <div className="flex items-center gap-1.5">
