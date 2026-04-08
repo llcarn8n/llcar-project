@@ -9,6 +9,46 @@ select option {
   color: #ffffff;
 }
 
+/* Pulsing border for select panel */
+@keyframes borderPulse {
+  0%, 100% { border-top-color: rgba(0,229,255,0.4); }
+  50% { border-top-color: rgba(0,229,255,0.8); }
+}
+
+/* Float animation for holographic elements */
+@keyframes float {
+  0%, 100% { transform: translateY(0) rotate(0deg); }
+  50% { transform: translateY(-10px) rotate(0.5deg); }
+}
+
+/* Scan line sweeping effect */
+@keyframes scanSweep {
+  0% { top: -2px; opacity: 0; }
+  10% { opacity: 0.8; }
+  90% { opacity: 0.8; }
+  100% { top: 100%; opacity: 0; }
+}
+
+/* Holographic scanlines overlay on images */
+.holo-overlay {
+  position: relative;
+}
+.holo-overlay::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: repeating-linear-gradient(
+    0deg,
+    transparent,
+    transparent 2px,
+    rgba(0,229,255,0.04) 2px,
+    rgba(0,229,255,0.04) 4px
+  );
+  pointer-events: none;
+  mix-blend-mode: overlay;
+  border-radius: inherit;
+}
+
 /* Trim table row hover */
 .trim-row:hover {
   background: linear-gradient(90deg, rgba(0,229,255,0.1) 0%, rgba(255,140,0,0.04) 100%) !important;

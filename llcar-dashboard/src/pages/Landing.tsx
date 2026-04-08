@@ -96,27 +96,53 @@ export function Landing() {
         <div style={{ flex: '1 1 500px', maxWidth: 680, display: 'flex', flexDirection: 'column', gap: 32 }}>
           {/* Hero text + robot */}
           <div style={{ display: 'flex', alignItems: 'flex-start', gap: 24 }}>
-            <img
-              src={robotSrc}
-              alt="LLCAR помощник"
-              style={{
-                width: 120,
-                height: 120,
-                objectFit: 'contain',
-                flexShrink: 0,
-                filter: 'drop-shadow(0 4px 20px rgba(0,229,255,0.3))',
-              }}
-            />
+            <div style={{ position: 'relative', flexShrink: 0 }}>
+              {/* Holographic glow behind robot */}
+              <div style={{
+                position: 'absolute',
+                top: '50%', left: '50%',
+                transform: 'translate(-50%, -50%)',
+                width: 160, height: 160,
+                borderRadius: '50%',
+                background: 'radial-gradient(circle, rgba(0,229,255,0.25) 0%, transparent 70%)',
+                filter: 'blur(25px)',
+                animation: 'breathe1 4s ease-in-out infinite',
+              }} />
+              {/* Pulse ring */}
+              <div style={{
+                position: 'absolute',
+                top: '50%', left: '50%',
+                transform: 'translate(-50%, -50%)',
+                width: 130, height: 130,
+                borderRadius: '50%',
+                border: '1px solid rgba(0,229,255,0.15)',
+                animation: 'pulse-glow 3s ease-out infinite',
+              }} />
+              <img
+                src={robotSrc}
+                alt="LLCAR помощник"
+                style={{
+                  width: 130,
+                  height: 130,
+                  objectFit: 'contain',
+                  position: 'relative',
+                  zIndex: 1,
+                  filter: 'drop-shadow(0 8px 30px rgba(0,229,255,0.5)) drop-shadow(0 0 10px rgba(0,229,255,0.3))',
+                  animation: 'float 5s ease-in-out infinite',
+                }}
+              />
+            </div>
             <div style={{ display: 'flex', flexDirection: 'column', gap: 12 }}>
               <h1 style={{
                 fontFamily: "'Orbitron', sans-serif",
-                fontSize: 22,
+                fontSize: 26,
                 fontWeight: 700,
                 letterSpacing: '0.08em',
                 lineHeight: 1.3,
                 color: theme.text.primary,
                 margin: 0,
-                textShadow: `0 0 20px ${theme.accent.cyan}30`,
+                textShadow: '0 0 20px rgba(0,229,255,0.3), 0 0 40px rgba(0,229,255,0.15)',
+                filter: 'drop-shadow(0 2px 10px rgba(0,0,0,0.5))',
               }}>
                 Профессиональная
                 <br />
@@ -147,26 +173,29 @@ export function Landing() {
           {/* Feature badges */}
           <div style={{ display: 'flex', gap: 12, flexWrap: 'wrap' }}>
             {[
-              { icon: '\u26A1', text: 'Мгновенная диагностика', accent: theme.accent.cyan },
-              { icon: '\u{1F4DA}', text: '999 моделей в базе', accent: theme.accent.teal },
-              { icon: '\u{1F50D}', text: '36 000 кодов ошибок', accent: theme.status.warning },
-              { icon: '\u{1F6E0}', text: 'Пошаговый ремонт', accent: theme.status.ok },
+              { icon: '\u26A1', text: 'Мгновенная диагностика', accent: '#00E5FF' },
+              { icon: '\u{1F4DA}', text: '999 моделей в базе', accent: '#64FFDA' },
+              { icon: '\u{1F50D}', text: '36 000 кодов ошибок', accent: '#FF8C00' },
+              { icon: '\u{1F6E0}', text: 'Пошаговый ремонт', accent: '#00E676' },
             ].map(({ icon, text, accent }) => (
               <div key={text} style={{
                 display: 'flex',
                 alignItems: 'center',
-                gap: 8,
-                padding: '8px 14px',
-                borderRadius: 4,
-                background: `${accent}08`,
-                border: `1px solid ${accent}20`,
+                gap: 10,
+                padding: '10px 16px',
+                borderRadius: 6,
+                background: `linear-gradient(135deg, ${accent}10 0%, ${accent}04 100%)`,
+                border: `1px solid ${accent}30`,
+                borderLeft: `3px solid ${accent}`,
                 fontFamily: "'Rajdhani', sans-serif",
-                fontSize: 12,
-                fontWeight: 600,
+                fontSize: 13,
+                fontWeight: 700,
                 color: accent,
-                letterSpacing: '0.03em',
+                letterSpacing: '0.04em',
+                boxShadow: `0 2px 12px ${accent}15, inset 0 1px 0 rgba(255,255,255,0.05)`,
+                transition: 'all 0.3s',
               }}>
-                <span style={{ fontSize: 16 }}>{icon}</span>
+                <span style={{ fontSize: 18, filter: `drop-shadow(0 0 6px ${accent})` }}>{icon}</span>
                 {text}
               </div>
             ))}
@@ -214,15 +243,17 @@ export function Landing() {
 
         {/* Right: Vehicle selection */}
         <div style={{
-          flex: '0 0 340px',
-          maxWidth: 380,
-          padding: '28px 24px',
+          flex: '0 0 360px',
+          maxWidth: 400,
+          padding: '32px 28px',
           borderRadius: 8,
-          background: 'rgba(6, 15, 25, 0.55)',
-          backdropFilter: 'blur(20px) saturate(180%)',
-          WebkitBackdropFilter: 'blur(20px) saturate(180%)',
-          border: '1px solid rgba(0,229,255,0.1)',
-          boxShadow: `0 0 40px rgba(0,229,255,0.05), inset 0 0 30px rgba(0,229,255,0.02)`,
+          background: 'linear-gradient(180deg, rgba(0,229,255,0.04) 0%, rgba(6,15,25,0.7) 30%, rgba(6,15,25,0.8) 100%)',
+          backdropFilter: 'blur(24px) saturate(200%)',
+          WebkitBackdropFilter: 'blur(24px) saturate(200%)',
+          border: '1px solid rgba(0,229,255,0.2)',
+          borderTop: '2px solid rgba(0,229,255,0.4)',
+          boxShadow: '0 0 50px rgba(0,229,255,0.08), 0 16px 48px rgba(0,0,0,0.5), inset 0 1px 0 rgba(255,255,255,0.08), inset 0 0 40px rgba(0,229,255,0.03)',
+          animation: 'borderPulse 4s ease-in-out infinite',
         }}>
           <VehicleSelect />
         </div>

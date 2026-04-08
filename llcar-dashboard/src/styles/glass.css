@@ -176,31 +176,45 @@ body::after {
   content: '';
   position: fixed;
   inset: 0;
-  background: radial-gradient(circle, transparent 40%, var(--body-vignette) 130%);
+  background:
+    /* Stronger vignette */
+    radial-gradient(circle, transparent 30%, rgba(0,0,0,0.5) 100%),
+    /* Film grain noise */
+    url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  opacity: 0.85;
   pointer-events: none;
   z-index: 0;
+  mix-blend-mode: multiply;
 }
 
 /* ── Glass Panel ── */
 .glass-panel {
   --glass-blur: blur(20px) saturate(180%);
-  background: linear-gradient(135deg, var(--bg-panel) 0%, var(--bg-panel-end) 100%);
+  background:
+    /* Inner gradient glow at top */
+    linear-gradient(180deg, rgba(0,229,255,0.04) 0%, transparent 40%),
+    /* Base glass */
+    linear-gradient(135deg, var(--bg-panel) 0%, var(--bg-panel-end) 100%);
   backdrop-filter: var(--glass-blur);
   -webkit-backdrop-filter: var(--glass-blur);
   border: 1px solid var(--border-glow);
   border-top: 1px solid var(--glass-border-top);
-  border-left: 2px solid var(--border-accent);
+  border-left: 3px solid var(--border-accent);
   box-shadow: var(--glass-shadow);
-  border-radius: 4px;
+  border-radius: 6px;
   color: var(--panel-text);
   position: relative;
-  transition: all 0.3s ease;
+  transition: all 0.35s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  /* Subtle 3D perspective */
+  transform: perspective(1200px) rotateX(0.3deg);
+  transform-style: preserve-3d;
 }
 
 .glass-panel:hover {
   border-color: var(--border-hover);
   box-shadow: var(--glass-shadow-hover);
-  transform: translateY(-2px) scale(1.002);
+  transform: perspective(1200px) rotateX(0deg) translateY(-3px) scale(1.003);
+  border-left-color: var(--accent-cyan);
 }
 
 /* Corner brackets — larger, glowing */
@@ -246,15 +260,21 @@ body::after {
 
 /* Reveal animation on load */
 @keyframes revealPanel {
-  from { opacity: 0; filter: blur(6px); transform: translateY(16px); }
-  to { opacity: 1; filter: blur(0); transform: translateY(0); }
+  from { opacity: 0; filter: blur(8px) brightness(1.5); transform: translateY(20px) scale(0.97); }
+  to { opacity: 1; filter: blur(0) brightness(1); transform: translateY(0) scale(1); }
 }
 .glass-panel {
-  animation: revealPanel 0.6s cubic-bezier(0.16, 1, 0.3, 1) both;
+  animation: revealPanel 0.7s cubic-bezier(0.16, 1, 0.3, 1) both;
 }
-.glass-panel:nth-child(2) { animation-delay: 0.08s; }
-.glass-panel:nth-child(3) { animation-delay: 0.16s; }
-.glass-panel:nth-child(4) { animation-delay: 0.24s; }
+.glass-panel:nth-child(2) { animation-delay: 0.1s; }
+.glass-panel:nth-child(3) { animation-delay: 0.2s; }
+.glass-panel:nth-child(4) { animation-delay: 0.3s; }
+
+/* Pulsing left border accent */
+@keyframes borderGlow {
+  0%, 100% { border-left-color: rgba(0,229,255,0.5); box-shadow: var(--glass-shadow); }
+  50% { border-left-color: rgba(0,229,255,0.8); }
+}
 
 /* ── Typography ── */
 .hud-header {
