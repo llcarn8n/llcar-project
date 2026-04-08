@@ -1,46 +1,226 @@
+import { useState, useEffect } from 'react'
 import { GlassPanel } from '../components/shared/GlassPanel'
+import { SpecCards } from '../components/vehicle/SpecCards'
 import { useDashboardStore } from '../stores/dashboardStore'
 import { theme } from '../theme'
 
+interface Generation {
+  id: string
+  name: string
+  ys: number
+  ye: number
+  body_type?: string
+  dimensions?: Record<string, number>
+  trims?: any[]
+}
+
+interface Model {
+  id: string
+  name: string
+  body_type?: string
+  powertrain?: string
+  generations: Generation[]
+}
+
+interface BrandData {
+  id: string
+  name: string
+  name_ru: string
+  country: string
+  models: Model[]
+}
+
+const ROBOT_IMG = `${import.meta.env.BASE_URL}images/robot/Error_Codes_Caricature_AEOjbilI.webp`
+
 export function VehicleInfo() {
   const { vehicleProfile, mode } = useDashboardStore()
+  const [brandData, setBrandData] = useState<BrandData | null>(null)
+  const [loading, setLoading] = useState(false)
+
+  // Load brand data
+  useEffect(() => {
+    if (!vehicleProfile) return
+    const brandId = vehicleProfile.brand.toLowerCase().replace(/\s+/g, '_')
+    setLoading(true)
+
+    // Try multiple brand ID formats
+    const tryLoad = async () => {
+      for (const id of [brandId, vehicleProfile.brand.toLowerCase()]) {
+        try {
+          const res = await fetch(`${import.meta.env.BASE_URL}data/brands/${id}.json`)
+          if (res.ok) {
+            const data = await res.json()
+            setBrandData(data)
+            setLoading(false)
+            return
+          }
+        } catch { /* try next */ }
+      }
+      setBrandData(null)
+      setLoading(false)
+    }
+    tryLoad()
+  }, [vehicleProfile])
+
+  // Find matching model and generation
+  const model = brandData?.models.find(m =>
+    m.name.toLowerCase() === vehicleProfile?.model.toLowerCase()
+  )
+  const generation = model?.generations.find(g =>
+    (vehicleProfile?.generationId && g.id === vehicleProfile.generationId) ||
+    g.ys === vehicleProfile?.year
+  ) || model?.generations[0]
+
+  // General mode — no vehicle selected
+  if (mode === 'general' && !vehicleProfile) {
+    return (
+      <div className="grid grid-cols-12 gap-3">
+        <div className="col-span-12">
+          <GlassPanel>
+            <div className="hud-header mb-4">Об автомобиле</div>
+            <div style={{
+              display: 'flex',
+              alignItems: 'center',
+              gap: 24,
+              padding: '32px 24px',
+            }}>
+              <img src={ROBOT_IMG} alt="LLCAR" style={{ width: 100, height: 100, objectFit: 'contain', opacity: 0.8 }} />
+              <div>
+                <div style={{
+                  fontFamily: "'Rajdhani', sans-serif",
+                  fontSize: 16,
+                  fontWeight: 600,
+                  color: theme.text.secondary,
+                  marginBottom: 8,
+                }}>
+                  Выберите автомобиль для просмотра характеристик
+                </div>
+                <div style={{
+                  fontFamily: "'Rajdhani', sans-serif",
+                  fontSize: 13,
+                  color: theme.text.muted,
+                  lineHeight: 1.5,
+                }}>
+                  В нашей базе 58 марок, 999 моделей и 1919 поколений с полными техническими характеристиками.
+                  Нажмите на своё авто в хедере или перейдите на главную.
+                </div>
+              </div>
+            </div>
+          </GlassPanel>
+        </div>
+      </div>
+    )
+  }
 
   const title = vehicleProfile
-    ? `${vehicleProfile.brand} ${vehicleProfile.model} (${vehicleProfile.year})`
+    ? `${vehicleProfile.brand} ${vehicleProfile.model}`
     : 'Об автомобиле'
+
+  const subtitle = generation?.name || (vehicleProfile ? `${vehicleProfile.year}` : '')
 
   return (
     <div className="grid grid-cols-12 gap-3">
+      {/* Hero header */}
       <div className="col-span-12">
         <GlassPanel>
-          <div className="hud-header mb-4">{title}</div>
-          <div style={{
-            display: 'flex',
-            flexDirection: 'column',
-            alignItems: 'center',
-            padding: '48px 24px',
-            gap: 16,
-          }}>
-            <div style={{ fontSize: 48, opacity: 0.3 }}>&#x1F697;</div>
+          <div style={{ display: 'flex', alignItems: 'center', gap: 20 }}>
             <div style={{
-              fontFamily: "'Rajdhani', sans-serif",
-              fontSize: 16,
-              fontWeight: 600,
-              color: theme.text.secondary,
+              width: 64,
+              height: 64,
+              borderRadius: 8,
+              background: `linear-gradient(135deg, ${theme.accent.cyan}15, ${theme.accent.teal}10)`,
+              border: `1px solid ${theme.accent.cyan}20`,
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'center',
+              fontSize: 32,
+              flexShrink: 0,
             }}>
-              {mode === 'general'
-                ? 'Выберите автомобиль для просмотра характеристик'
-                : 'Спецификации, типовые болячки, народная репутация'}
+              &#x1F697;
             </div>
-            <div style={{
-              fontFamily: "'Rajdhani', sans-serif",
-              fontSize: 12,
-              color: theme.text.muted,
-            }}>
-              Раздел в разработке — скоро здесь появятся полные ТТХ поколения
+            <div>
+              <h1 style={{
+                fontFamily: "'Orbitron', sans-serif",
+                fontSize: 20,
+                fontWeight: 700,
+                letterSpacing: '0.1em',
+                color: theme.text.primary,
+                margin: 0,
+                textShadow: `0 0 16px ${theme.accent.cyan}30`,
+              }}>
+                {title}
+              </h1>
+              {subtitle && (
+                <div style={{
+                  fontFamily: "'Rajdhani', sans-serif",
+                  fontSize: 14,
+                  fontWeight: 600,
+                  color: theme.accent.teal,
+                  marginTop: 4,
+                  letterSpacing: '0.05em',
+                }}>
+                  {subtitle}
+                </div>
+              )}
+              {brandData && (
+                <div style={{
+                  fontFamily: "'Rajdhani', sans-serif",
+                  fontSize: 11,
+                  color: theme.text.muted,
+                  marginTop: 2,
+                  letterSpacing: '0.05em',
+                }}>
+                  {brandData.name_ru} &bull; {brandData.country} &bull; {vehicleProfile?.engine === 'gasoline' ? 'Бензин' : vehicleProfile?.engine === 'diesel' ? 'Дизель' : vehicleProfile?.engine === 'hybrid' ? 'Гибрид' : vehicleProfile?.engine === 'electric' ? 'Электро' : vehicleProfile?.engine}
+                </div>
+              )}
             </div>
           </div>
         </GlassPanel>
+      </div>
+
+      {/* Specs */}
+      <div className="col-span-12">
+        {loading ? (
+          <GlassPanel>
+            <div style={{
+              textAlign: 'center',
+              padding: 32,
+              fontFamily: "'Orbitron', sans-serif",
+              fontSize: 12,
+              color: theme.accent.cyan,
+              letterSpacing: '0.15em',
+            }}>
+              LOADING...
+            </div>
+          </GlassPanel>
+        ) : generation ? (
+          <SpecCards
+            dimensions={generation.dimensions}
+            trims={generation.trims}
+            generationName={generation.name}
+          />
+        ) : (
+          <GlassPanel>
+            <div style={{
+              display: 'flex',
+              alignItems: 'center',
+              gap: 20,
+              padding: '24px 16px',
+            }}>
+              <img src={ROBOT_IMG} alt="LLCAR" style={{ width: 80, height: 80, objectFit: 'contain', opacity: 0.6 }} />
+              <div style={{
+                fontFamily: "'Rajdhani', sans-serif",
+                fontSize: 14,
+                color: theme.text.muted,
+                lineHeight: 1.5,
+              }}>
+                Спецификации для этого поколения пока не загружены.
+                <br />
+                Данные пополняются — скоро здесь появятся полные ТТХ.
+              </div>
+            </div>
+          </GlassPanel>
+        )}
       </div>
     </div>
   )
