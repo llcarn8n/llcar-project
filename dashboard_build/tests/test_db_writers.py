@@ -14,6 +14,7 @@ from diagnostic.db_writers import (
     write_dtc_events,
     _placeholder,
 )
+from diagnostic.db_readers import read_freeze_frames
 from diagnostic.baseline_store import BaselineStore
 from diagnostic.normalizer import DrivingRegime
 from diagnostic.facts import Fact, FactType
@@ -502,3 +503,65 @@ class TestWriteDtcEvents:
                 "SELECT COUNT(*) FROM dtc_events WHERE client_hash = ?", (CLIENT,),
             )
             assert c.fetchone()[0] == 0
+
+
+# ---------------------------------------------------------------------------
+# read_freeze_frames
+# ---------------------------------------------------------------------------
+
+
+class TestReadFreezeFrames:
+    """read_freeze_frames reads freeze frame data for DTC codes."""
+
+    def test_returns_freeze_frame_for_existing_dtc(self, db):
+        freeze = {"rpm": 2500, "speed": 60, "coolant_temp": 90, "voltage": 14.2}
+        with db.cursor() as c:
+            write_dtc_events(c, CLIENT, ["P0300"], freeze_frame=freeze)
+        with db.cursor() as c:
+            result = read_freeze_frames(c, CLIENT, ["P0300"])
+        assert "P0300" in result
+        assert result["P0300"]["rpm"] == 2500
+        assert result["P0300"]["speed"] == 60
+        assert result["P0300"]["coolant_temp"] == 90
+        assert result["P0300"]["voltage"] == pytest.approx(14.2)
+        assert "timestamp" in result["P0300"]
+
+    def test_returns_empty_for_unknown_dtc(self, db):
+        with db.cursor() as c:
+            result = read_freeze_frames(c, CLIENT, ["P9999"])
+        assert result == {}
+
+    def test_returns_empty_for_empty_dtc_list(self, db):
+        with db.cursor() as c:
+            result = read_freeze_frames(c, CLIENT, [])
+        assert result == {}
+
+    def test_returns_most_recent_freeze_frame(self, db):
+        freeze_old = {"rpm": 800, "speed": 0}
+        freeze_new = {"rpm": 3000, "speed": 100}
+        with db.cursor() as c:
+            write_dtc_events(c, CLIENT, ["P0171"], freeze_frame=freeze_old)
+        with db.cursor() as c:
+            write_dtc_events(c, CLIENT, ["P0171"], freeze_frame=freeze_new)
+        with db.cursor() as c:
+            result = read_freeze_frames(c, CLIENT, ["P0171"])
+        assert result["P0171"]["rpm"] == 3000
+        assert result["P0171"]["speed"] == 100
+
+    def test_returns_multiple_dtc_freeze_frames(self, db):
+        freeze1 = {"rpm": 1000}
+        freeze2 = {"rpm": 2000}
+        with db.cursor() as c:
+            write_dtc_events(c, CLIENT, ["P0300"], freeze_frame=freeze1)
+            write_dtc_events(c, CLIENT, ["P0420"], freeze_frame=freeze2)
+        with db.cursor() as c:
+            result = read_freeze_frames(c, CLIENT, ["P0300", "P0420"])
+        assert result["P0300"]["rpm"] == 1000
+        assert result["P0420"]["rpm"] == 2000
+
+    def test_skips_dtc_without_freeze_frame(self, db):
+        with db.cursor() as c:
+            write_dtc_events(c, CLIENT, ["P0300"])  # no freeze_frame
+        with db.cursor() as c:
+            result = read_freeze_frames(c, CLIENT, ["P0300"])
+        assert result == {}

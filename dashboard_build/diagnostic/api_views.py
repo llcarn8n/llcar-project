@@ -298,7 +298,33 @@ def diagnose_latest_view(request: Any) -> JsonResponse:
                 write_dtc_events(cursor, client_hash, dtc_codes, freeze)
 
             # ----------------------------------------------------------
-            # 6. Escalation — load, update per diagnosis, save
+            # 6a. Freeze frames — attach to diagnoses with DTC codes
+            # ----------------------------------------------------------
+            try:
+                from .db_readers import read_freeze_frames
+
+                # Collect all DTC codes referenced by active diagnoses
+                all_dtc: list = []
+                for diag in report.get("diagnoses", []):
+                    codes = diag.get("dtc_codes", [])
+                    all_dtc.extend(codes)
+
+                if all_dtc:
+                    freeze_map = read_freeze_frames(cursor, client_hash, all_dtc)
+
+                    # Attach freeze frame to each diagnosis that has matching DTCs
+                    for diag in report.get("diagnoses", []):
+                        codes = diag.get("dtc_codes", [])
+                        for code in codes:
+                            if code in freeze_map:
+                                diag["freeze_frame"] = freeze_map[code]
+                                break  # use first matching freeze frame
+            except Exception:
+                logger.debug("Freeze frame attachment skipped: %s",
+                             __import__("traceback").format_exc())
+
+            # ----------------------------------------------------------
+            # 6b. Escalation — load, update per diagnosis, save
             # ----------------------------------------------------------
             try:
                 from .escalation import EscalationManager

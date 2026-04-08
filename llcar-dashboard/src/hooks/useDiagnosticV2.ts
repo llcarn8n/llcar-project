@@ -27,6 +27,20 @@ export interface DiagnosticReport {
   }
 }
 
+export interface FreezeFrame {
+  rpm?: number
+  speed?: number
+  coolant_temp?: number
+  engine_load?: number
+  throttle?: number
+  voltage?: number
+  ltft?: number
+  stft?: number
+  outdoor_temp?: number
+  weather?: string
+  timestamp?: string
+}
+
 export interface Diagnosis {
   rule_name: string
   display: string
@@ -39,6 +53,7 @@ export interface Diagnosis {
   can_drive: string
   price_range: string
   situation_id: string | null
+  freeze_frame?: FreezeFrame
 }
 
 export interface Escalation {

@@ -4,7 +4,7 @@ import { FeedbackButtons } from '../panels/FeedbackButtons'
 import { RobotTooltip } from '../shared/RobotTooltip'
 import { ShareButton } from '../shared/ShareButton'
 import { theme } from '../../theme'
-import type { DiagnosticReport, Diagnosis } from '../../hooks/useDiagnosticV2'
+import type { DiagnosticReport, Diagnosis, FreezeFrame } from '../../hooks/useDiagnosticV2'
 import { exportReport } from '../../utils/exportReport'
 import carHeartbeat from '../../assets/car-heartbeat.jpg'
 
@@ -199,6 +199,155 @@ function EvidenceScales({ diag }: { diag: Diagnosis }) {
               </div>
             )
           })}
+        </div>
+      )}
+    </div>
+  )
+}
+
+/* ── Freeze Frame labels & config ── */
+
+const FREEZE_PARAMS: { key: keyof FreezeFrame; label: string; unit: string }[] = [
+  { key: 'rpm', label: 'Обороты', unit: 'об/мин' },
+  { key: 'speed', label: 'Скорость', unit: 'км/ч' },
+  { key: 'coolant_temp', label: 'Температура ОЖ', unit: '°C' },
+  { key: 'engine_load', label: 'Нагрузка', unit: '%' },
+  { key: 'throttle', label: 'Дроссель', unit: '%' },
+  { key: 'voltage', label: 'Напряжение', unit: 'В' },
+  { key: 'ltft', label: 'LTFT', unit: '%' },
+  { key: 'stft', label: 'STFT', unit: '%' },
+  { key: 'outdoor_temp', label: 'Температура воздуха', unit: '°C' },
+]
+
+const WEATHER_ICONS: Record<string, string> = {
+  clear: '\u2600',
+  cloudy: '\u2601',
+  rain: '\uD83C\uDF27',
+  snow: '\uD83C\uDF28',
+  fog: '\uD83C\uDF2B',
+}
+
+function formatFreezeTimestamp(ts: string): string {
+  try {
+    const d = new Date(ts)
+    if (isNaN(d.getTime())) return ts
+    const months = [
+      'января', 'февраля', 'марта', 'апреля', 'мая', 'июня',
+      'июля', 'августа', 'сентября', 'октября', 'ноября', 'декабря',
+    ]
+    const day = d.getDate()
+    const month = months[d.getMonth()]
+    const year = d.getFullYear()
+    const hh = String(d.getHours()).padStart(2, '0')
+    const mm = String(d.getMinutes()).padStart(2, '0')
+    return `${day} ${month} ${year}, ${hh}:${mm}`
+  } catch {
+    return ts
+  }
+}
+
+/* ── FreezeFramePanel sub-component ── */
+
+function FreezeFramePanel({ frame }: { frame: FreezeFrame }) {
+  const [expanded, setExpanded] = useState(false)
+
+  // Check if there's any data to show
+  const hasData = FREEZE_PARAMS.some(p => frame[p.key] != null) || frame.weather
+
+  if (!hasData) return null
+
+  return (
+    <div style={{ marginTop: 6, marginBottom: 4 }}>
+      <button
+        onClick={(e) => { e.stopPropagation(); setExpanded(v => !v) }}
+        style={{
+          background: 'transparent', border: 'none', cursor: 'pointer',
+          display: 'flex', alignItems: 'center', gap: 4, padding: '2px 0',
+          color: theme.accent.teal, fontSize: 9, fontFamily: "'Orbitron', sans-serif",
+          letterSpacing: '0.08em',
+        }}
+      >
+        <span style={{
+          display: 'inline-block', transition: 'transform 0.2s',
+          transform: expanded ? 'rotate(90deg)' : 'rotate(0deg)',
+          fontSize: 8,
+        }}>
+          \u25B6
+        </span>
+        FREEZE FRAME
+      </button>
+
+      {expanded && (
+        <div style={{
+          marginTop: 6, padding: '8px 10px', borderRadius: 3,
+          background: 'rgba(0, 229, 255, 0.04)',
+          border: '1px solid rgba(0, 229, 255, 0.12)',
+          backdropFilter: 'blur(6px)',
+        }}>
+          {/* Timestamp */}
+          {frame.timestamp && (
+            <div style={{
+              fontSize: 9, fontFamily: "'Rajdhani', sans-serif",
+              color: theme.text.muted, marginBottom: 6,
+              letterSpacing: '0.02em',
+            }}>
+              {'\u23F1'} {formatFreezeTimestamp(frame.timestamp)}
+            </div>
+          )}
+
+          {/* 2-column grid of parameters */}
+          <div style={{
+            display: 'grid',
+            gridTemplateColumns: '1fr 1fr',
+            gap: '3px 12px',
+          }}>
+            {FREEZE_PARAMS.map(({ key, label, unit }) => {
+              const val = frame[key]
+              if (val == null) return null
+              return (
+                <div key={key} style={{
+                  display: 'flex', justifyContent: 'space-between',
+                  alignItems: 'baseline', padding: '1px 0',
+                }}>
+                  <span style={{
+                    fontSize: 10, fontFamily: "'Rajdhani', sans-serif",
+                    fontWeight: 600, color: theme.text.muted,
+                  }}>
+                    {label}
+                  </span>
+                  <span style={{
+                    fontSize: 10, fontFamily: 'Consolas, monospace',
+                    fontWeight: 'bold', color: theme.text.secondary,
+                    marginLeft: 6,
+                  }}>
+                    {typeof val === 'number' ? val : String(val)}{unit ? ` ${unit}` : ''}
+                  </span>
+                </div>
+              )
+            })}
+
+            {/* Weather row — spans full width if present */}
+            {frame.weather && (
+              <div style={{
+                display: 'flex', justifyContent: 'space-between',
+                alignItems: 'baseline', padding: '1px 0',
+              }}>
+                <span style={{
+                  fontSize: 10, fontFamily: "'Rajdhani', sans-serif",
+                  fontWeight: 600, color: theme.text.muted,
+                }}>
+                  Погода
+                </span>
+                <span style={{
+                  fontSize: 10, fontFamily: 'Consolas, monospace',
+                  fontWeight: 'bold', color: theme.text.secondary,
+                  marginLeft: 6,
+                }}>
+                  {WEATHER_ICONS[frame.weather] || ''} {frame.weather}
+                </span>
+              </div>
+            )}
+          </div>
         </div>
       )}
     </div>
@@ -410,6 +559,9 @@ export function DiagnosisCardV2({ report, loading, onFeedback, clientHash }: Dia
 
                 {/* Evidence parameter scales */}
                 <EvidenceScales diag={diag} />
+
+                {/* Freeze frame snapshot */}
+                {diag.freeze_frame && <FreezeFramePanel frame={diag.freeze_frame} />}
 
                 {/* Repair roadmap */}
                 {diag.repair_roadmap && diag.repair_roadmap.length > 0 && (

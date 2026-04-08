@@ -11,7 +11,7 @@ const tabs = [
 ]
 
 export function MainLayout({ children }: { children: ReactNode }) {
-  const { activeTab, setTab, sidebarOpen, toggleSidebar, clientHash, timeRange, isDarkMode, toggleTheme, vehicleProfile, openVehicleSetup } = useDashboardStore()
+  const { activeTab, setTab, sidebarOpen, toggleSidebar, clientHash, timeRange, isDarkMode, toggleTheme, vehicleProfile, openVehicleSetup, openConnectionWizard } = useDashboardStore()
 
   const { data: recentData } = useApiData<any[]>({
     endpoint: '/api/data/',
@@ -155,7 +155,7 @@ export function MainLayout({ children }: { children: ReactNode }) {
 
           {/* Vehicle profile edit button */}
           {vehicleProfile && (
-            <div style={{ marginTop: 16, paddingTop: 12, borderTop: '1px solid rgba(0,229,255,0.1)' }}>
+            <div style={{ marginTop: 16, paddingTop: 12, borderTop: '1px solid rgba(0,229,255,0.1)', display: 'flex', flexDirection: 'column', gap: 8 }}>
               <button
                 onClick={() => { openVehicleSetup(); toggleSidebar(); }}
                 style={{
@@ -183,6 +183,36 @@ export function MainLayout({ children }: { children: ReactNode }) {
                   </div>
                   <div style={{ fontSize: 10, color: 'var(--text-muted)', letterSpacing: '0.1em', textTransform: 'uppercase' }}>
                     {'\u0418\u0437\u043C\u0435\u043D\u0438\u0442\u044C \u043F\u0440\u043E\u0444\u0438\u043B\u044C \u0430\u0432\u0442\u043E'}
+                  </div>
+                </div>
+              </button>
+              <button
+                onClick={() => { openConnectionWizard(); toggleSidebar(); }}
+                style={{
+                  width: '100%',
+                  display: 'flex',
+                  alignItems: 'center',
+                  gap: 10,
+                  padding: '10px 12px',
+                  borderRadius: 4,
+                  background: 'rgba(0,229,255,0.04)',
+                  border: '1px solid rgba(0,229,255,0.12)',
+                  cursor: 'pointer',
+                  transition: 'all 0.3s',
+                  fontFamily: "'Rajdhani', sans-serif",
+                  fontSize: 12,
+                  color: 'var(--text-secondary)',
+                  letterSpacing: '0.05em',
+                  textAlign: 'left',
+                }}
+              >
+                <span style={{ fontSize: 16, opacity: 0.6 }}>{'\u{1F50C}'}</span>
+                <div style={{ flex: 1 }}>
+                  <div style={{ fontWeight: 600, marginBottom: 2 }}>
+                    {'\u041F\u043E\u0434\u043A\u043B\u044E\u0447\u0435\u043D\u0438\u0435 OBD-II'}
+                  </div>
+                  <div style={{ fontSize: 10, color: 'var(--text-muted)', letterSpacing: '0.1em', textTransform: 'uppercase' }}>
+                    {'\u0418\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u044F \u043F\u043E\u0434\u043A\u043B\u044E\u0447\u0435\u043D\u0438\u044F'}
                   </div>
                 </div>
               </button>

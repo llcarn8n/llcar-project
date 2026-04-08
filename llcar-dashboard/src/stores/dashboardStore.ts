@@ -18,6 +18,8 @@ interface DashboardState {
   isDarkMode: boolean
   vehicleProfile: VehicleProfile | null
   showVehicleSetup: boolean
+  connectionDone: boolean
+  showConnectionWizard: boolean
   setTab: (tab: DashboardState['activeTab']) => void
   toggleSidebar: () => void
   setSelectedSystem: (system: string | null) => void
@@ -29,6 +31,9 @@ interface DashboardState {
   setVehicleProfile: (profile: VehicleProfile) => void
   openVehicleSetup: () => void
   closeVehicleSetup: () => void
+  setConnectionDone: (done: boolean) => void
+  openConnectionWizard: () => void
+  closeConnectionWizard: () => void
 }
 
 function loadVehicleProfile(): VehicleProfile | null {
@@ -45,6 +50,14 @@ function loadVehicleProfile(): VehicleProfile | null {
   }
 }
 
+function loadConnectionDone(): boolean {
+  try {
+    return localStorage.getItem('llcar-connection-done') === 'true'
+  } catch {
+    return false
+  }
+}
+
 export const useDashboardStore = create<DashboardState>((set) => ({
   activeTab: 'dashboard',
   sidebarOpen: false,
@@ -56,6 +69,8 @@ export const useDashboardStore = create<DashboardState>((set) => ({
   isDarkMode: true,
   vehicleProfile: loadVehicleProfile(),
   showVehicleSetup: false,
+  connectionDone: loadConnectionDone(),
+  showConnectionWizard: false,
   setTab: (tab) => set({ activeTab: tab }),
   toggleSidebar: () => set((s) => ({ sidebarOpen: !s.sidebarOpen })),
   setSelectedSystem: (system) => set({ selectedSystem: system }),
@@ -67,4 +82,7 @@ export const useDashboardStore = create<DashboardState>((set) => ({
   setVehicleProfile: (profile) => set({ vehicleProfile: profile, showVehicleSetup: false }),
   openVehicleSetup: () => set({ showVehicleSetup: true }),
   closeVehicleSetup: () => set({ showVehicleSetup: false }),
+  setConnectionDone: (done) => set({ connectionDone: done }),
+  openConnectionWizard: () => set({ showConnectionWizard: true }),
+  closeConnectionWizard: () => set({ showConnectionWizard: false }),
 }))
