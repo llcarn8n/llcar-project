@@ -5,10 +5,14 @@ interface VehicleProfile {
   model: string
   year: number
   engine: string
+  generationId: string | null
 }
 
 interface DashboardState {
-  activeTab: 'dashboard' | 'diagnostics' | 'trips'
+  // Navigation mode
+  mode: 'vehicle' | 'general'
+
+  // UI state
   sidebarOpen: boolean
   selectedSystem: string | null
   timeRange: number // minutes
@@ -16,11 +20,15 @@ interface DashboardState {
   expertMode: boolean
   useV2Api: boolean
   isDarkMode: boolean
+
+  // Vehicle
   vehicleProfile: VehicleProfile | null
   showVehicleSetup: boolean
   connectionDone: boolean
   showConnectionWizard: boolean
-  setTab: (tab: DashboardState['activeTab']) => void
+
+  // Actions
+  setMode: (mode: DashboardState['mode']) => void
   toggleSidebar: () => void
   setSelectedSystem: (system: string | null) => void
   setTimeRange: (minutes: number) => void
@@ -50,6 +58,16 @@ function loadVehicleProfile(): VehicleProfile | null {
   }
 }
 
+function loadMode(): 'vehicle' | 'general' {
+  try {
+    const raw = localStorage.getItem('llcar-mode')
+    if (raw === 'general') return 'general'
+    return 'vehicle'
+  } catch {
+    return 'vehicle'
+  }
+}
+
 function loadConnectionDone(): boolean {
   try {
     return localStorage.getItem('llcar-connection-done') === 'true'
@@ -59,7 +77,7 @@ function loadConnectionDone(): boolean {
 }
 
 export const useDashboardStore = create<DashboardState>((set) => ({
-  activeTab: 'dashboard',
+  mode: loadMode(),
   sidebarOpen: false,
   selectedSystem: null,
   timeRange: 10080,
@@ -71,7 +89,11 @@ export const useDashboardStore = create<DashboardState>((set) => ({
   showVehicleSetup: false,
   connectionDone: loadConnectionDone(),
   showConnectionWizard: false,
-  setTab: (tab) => set({ activeTab: tab }),
+
+  setMode: (mode) => {
+    localStorage.setItem('llcar-mode', mode)
+    set({ mode })
+  },
   toggleSidebar: () => set((s) => ({ sidebarOpen: !s.sidebarOpen })),
   setSelectedSystem: (system) => set({ selectedSystem: system }),
   setTimeRange: (minutes) => set({ timeRange: minutes }),
@@ -79,7 +101,10 @@ export const useDashboardStore = create<DashboardState>((set) => ({
   toggleExpert: () => set((s) => ({ expertMode: !s.expertMode })),
   toggleV2Api: () => set((s) => ({ useV2Api: !s.useV2Api })),
   toggleTheme: () => set((s) => ({ isDarkMode: !s.isDarkMode })),
-  setVehicleProfile: (profile) => set({ vehicleProfile: profile, showVehicleSetup: false }),
+  setVehicleProfile: (profile) => {
+    localStorage.setItem('llcar-vehicle-profile', JSON.stringify(profile))
+    set({ vehicleProfile: profile, showVehicleSetup: false, mode: 'vehicle' })
+  },
   openVehicleSetup: () => set({ showVehicleSetup: true }),
   closeVehicleSetup: () => set({ showVehicleSetup: false }),
   setConnectionDone: (done) => set({ connectionDone: done }),

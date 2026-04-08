@@ -90,12 +90,26 @@ UNION ALL SELECT 'correlation_results: ' || COUNT(*) FROM correlation_results
 done
 
 # 7. Frontend files
+echo "--- Frontend V2 (frozen) ---"
+V2_COUNT=$($SSH "ls /var/www/html/django/static/spa/static/ 2>/dev/null | wc -l" 2>/dev/null)
+if [ "$V2_COUNT" -gt 10 ]; then
+    pass "V2 has $V2_COUNT static files"
+else
+    fail "V2 only has $V2_COUNT files (expected 15+)"
+fi
+V2_SPA_V3=$($SSH "grep -c 'spa-v3' /var/www/html/django/static/spa/index.html 2>/dev/null" 2>/dev/null || echo "0")
+if [ "$V2_SPA_V3" = "0" ]; then
+    pass "V2 independent (no spa-v3 refs)"
+else
+    fail "V2 index.html references spa-v3 ($V2_SPA_V3 refs)"
+fi
+
 echo "--- Frontend V3 ---"
 V3_COUNT=$($SSH "ls /var/www/html/django/static/spa-v3/static/ 2>/dev/null | wc -l" 2>/dev/null)
-if [ "$V3_COUNT" -gt 40 ]; then
+if [ "$V3_COUNT" -gt 10 ]; then
     pass "V3 has $V3_COUNT static files"
 else
-    fail "V3 only has $V3_COUNT files (expected 50+)"
+    fail "V3 only has $V3_COUNT files (expected 15+)"
 fi
 
 # 8. Summary

@@ -10,6 +10,7 @@ export interface VehicleProfile {
   model: string
   year: number
   engine: string
+  generationId: string | null
 }
 
 interface VehicleBrand {
@@ -343,6 +344,7 @@ export function VehicleSetup({ asModal = false, onComplete }: VehicleSetupProps)
       model: model.trim(),
       year,
       engine,
+      generationId: null,
     }
     saveProfile(profile)
     setVehicleProfile(profile)
@@ -526,7 +528,7 @@ export function VehicleSetup({ asModal = false, onComplete }: VehicleSetupProps)
         {showSummary ? (
           <div key="summary" style={{ animation: 'vehicleStepIn 0.35s ease both' }}>
             <SummaryCard
-              profile={{ brand: brand.trim(), model: model.trim(), year: year as number, engine }}
+              profile={{ brand: brand.trim(), model: model.trim(), year: year as number, engine, generationId: null }}
               onConfirm={handleConfirm}
               onEdit={handleEdit}
             />

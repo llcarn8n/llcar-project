@@ -1,17 +1,22 @@
 import type { ReactNode } from 'react'
+import { useLocation, useNavigate } from 'react-router-dom'
 import { useDashboardStore } from '../stores/dashboardStore'
 import { useApiData } from '../hooks/useApiData'
 import { SidebarContent } from '../components/sidebar/SidebarContent'
 import { theme } from '../theme'
 
 const tabs = [
-  { id: 'dashboard' as const, label: 'Обзор', icon: '\u25C8' },
-  { id: 'diagnostics' as const, label: 'Диагностика', icon: '\u2B21' },
-  { id: 'trips' as const, label: 'Поездки', icon: '\u25C7' },
+  { path: '/', label: 'Авто', icon: '\u{1F697}' },
+  { path: '/kb', label: 'База знаний', icon: '\u{1F4DA}' },
+  { path: '/dtc', label: 'Ошибки', icon: '\u26A0' },
+  { path: '/diagnostics', label: 'Диагностика', icon: '\u2B21' },
+  { path: '/resources', label: 'Ресурсы', icon: '\u{1F517}' },
 ]
 
 export function MainLayout({ children }: { children: ReactNode }) {
-  const { activeTab, setTab, sidebarOpen, toggleSidebar, clientHash, timeRange, isDarkMode, toggleTheme, vehicleProfile, openVehicleSetup, openConnectionWizard } = useDashboardStore()
+  const location = useLocation()
+  const navigate = useNavigate()
+  const { sidebarOpen, toggleSidebar, clientHash, timeRange, isDarkMode, toggleTheme, vehicleProfile, openVehicleSetup, openConnectionWizard } = useDashboardStore()
 
   const { data: recentData } = useApiData<any[]>({
     endpoint: '/api/data/',
@@ -67,17 +72,20 @@ export function MainLayout({ children }: { children: ReactNode }) {
           </div>
         </div>
 
-        <nav className="flex gap-1 flex-shrink min-w-0">
-          {tabs.map(t => (
-            <button
-              key={t.id}
-              onClick={() => setTab(t.id)}
-              className={`nav-btn ${activeTab === t.id ? 'active' : ''}`}
-            >
-              <span className="mr-1">{t.icon}</span>
-              {t.label}
-            </button>
-          ))}
+        <nav className="flex gap-1 flex-shrink min-w-0 overflow-x-auto">
+          {tabs.map(t => {
+            const isActive = location.pathname === t.path || (t.path === '/' && location.pathname === '/vehicle')
+            return (
+              <button
+                key={t.path}
+                onClick={() => navigate(t.path)}
+                className={`nav-btn ${isActive ? 'active' : ''}`}
+              >
+                <span className="mr-1">{t.icon}</span>
+                <span className="hidden sm:inline">{t.label}</span>
+              </button>
+            )
+          })}
         </nav>
 
         <div className="flex items-center gap-2 md:gap-4">

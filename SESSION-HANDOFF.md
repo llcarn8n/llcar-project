@@ -75,7 +75,7 @@
 
 ## ПРАВИЛА
 
-1. **V2 = frozen** (/static/spa/), V3 = active (/static/spa-v3/). Не синхронизировать.
+1. **V2 = frozen snapshot of V3** (/static/spa/, base=/static/spa/, 2026-04-08). V3 = active (/static/spa-v3/). V2 полностью независима — свои JS/CSS/models. НЕ ТРОГАТЬ.
 2. **Deploy:** scripts/deploy-v3.sh — загружает ВСЕ chunks + backend + data.
 3. **HUD стиль** утверждён — НЕ менять на flat design.
 4. **Качество #1** — не торопиться, TDD, validate на реальных данных.

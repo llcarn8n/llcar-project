@@ -12,6 +12,7 @@ PROJECT_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
 
 SSH="/tmp/llcar_ssh.sh"
 SCP="/tmp/llcar_scp.sh"
+REMOTE_HOST="webadmin@185.55.57.145"
 
 FRONTEND_SRC="$PROJECT_ROOT/llcar-dashboard"
 DIST_DIR="$FRONTEND_SRC/dist"
@@ -109,7 +110,7 @@ if [[ "$BACKEND_ONLY" == false ]]; then
         fi
 
         # Upload new or changed file
-        $SCP "$local_file" "$REMOTE_SPA/static/$filename"
+        $SCP "$local_file" "$REMOTE_HOST:$REMOTE_SPA/static/$filename"
         UPLOAD_COUNT=$((UPLOAD_COUNT + 1))
     done
 
@@ -118,13 +119,13 @@ if [[ "$BACKEND_ONLY" == false ]]; then
     # Upload index.html (always — it references chunk hashes)
     if [[ -f "$DIST_DIR/index.html" ]]; then
         log "Uploading index.html..."
-        $SCP "$DIST_DIR/index.html" "$REMOTE_SPA/index.html"
+        $SCP "$DIST_DIR/index.html" "$REMOTE_HOST:$REMOTE_SPA/index.html"
     fi
 
     # Upload favicon, icons, logo if they exist
     for asset in favicon.svg icons.svg llcar-logo.png; do
         if [[ -f "$DIST_DIR/$asset" ]]; then
-            $SCP "$DIST_DIR/$asset" "$REMOTE_SPA/$asset"
+            $SCP "$DIST_DIR/$asset" "$REMOTE_HOST:$REMOTE_SPA/$asset"
         fi
     done
 
@@ -134,7 +135,7 @@ if [[ "$BACKEND_ONLY" == false ]]; then
         for model_file in "$DIST_DIR/models"/*; do
             if [[ -f "$model_file" ]]; then
                 $SSH "mkdir -p $REMOTE_SPA/models"
-                $SCP "$model_file" "$REMOTE_SPA/models/$(basename "$model_file")"
+                $SCP "$model_file" "$REMOTE_HOST:$REMOTE_SPA/models/$(basename "$model_file")"
             fi
         done
     fi
@@ -166,7 +167,7 @@ if [[ "$FRONTEND_ONLY" == false ]]; then
     for py_file in "$BACKEND_SRC"/*.py; do
         if [[ -f "$py_file" ]]; then
             filename=$(basename "$py_file")
-            $SCP "$py_file" "$REMOTE_BACKEND/$filename"
+            $SCP "$py_file" "$REMOTE_HOST:$REMOTE_BACKEND/$filename"
             PY_COUNT=$((PY_COUNT + 1))
         fi
     done
@@ -178,7 +179,7 @@ if [[ "$FRONTEND_ONLY" == false ]]; then
         $SSH "mkdir -p $REMOTE_BACKEND/rules"
         for rules_file in "$BACKEND_SRC/rules"/*.py "$BACKEND_SRC/rules"/*.json; do
             if [[ -f "$rules_file" ]]; then
-                $SCP "$rules_file" "$REMOTE_BACKEND/rules/$(basename "$rules_file")"
+                $SCP "$rules_file" "$REMOTE_HOST:$REMOTE_BACKEND/rules/$(basename "$rules_file")"
             fi
         done
     fi
@@ -192,7 +193,7 @@ if [[ "$FRONTEND_ONLY" == false ]]; then
         $SSH "touch $REMOTE_BACKEND/management/commands/__init__.py"
         for cmd_file in "$BACKEND_SRC/management/commands"/*.py; do
             if [[ -f "$cmd_file" ]]; then
-                $SCP "$cmd_file" "$REMOTE_BACKEND/management/commands/$(basename "$cmd_file")"
+                $SCP "$cmd_file" "$REMOTE_HOST:$REMOTE_BACKEND/management/commands/$(basename "$cmd_file")"
             fi
         done
     fi
@@ -203,7 +204,7 @@ if [[ "$FRONTEND_ONLY" == false ]]; then
         $SSH "mkdir -p $REMOTE_BACKEND/sql"
         for sql_file in "$BACKEND_SRC/sql"/*; do
             if [[ -f "$sql_file" ]]; then
-                $SCP "$sql_file" "$REMOTE_BACKEND/sql/$(basename "$sql_file")"
+                $SCP "$sql_file" "$REMOTE_HOST:$REMOTE_BACKEND/sql/$(basename "$sql_file")"
             fi
         done
     fi
@@ -214,7 +215,7 @@ if [[ "$FRONTEND_ONLY" == false ]]; then
         $SSH "mkdir -p $REMOTE_BACKEND/data"
         for data_file in "$BACKEND_SRC/data"/*; do
             if [[ -f "$data_file" ]]; then
-                $SCP "$data_file" "$REMOTE_BACKEND/data/$(basename "$data_file")"
+                $SCP "$data_file" "$REMOTE_HOST:$REMOTE_BACKEND/data/$(basename "$data_file")"
             fi
         done
     fi
@@ -226,7 +227,7 @@ if [[ "$FRONTEND_ONLY" == false ]]; then
         $SSH "mkdir -p $REMOTE_DATA"
         for json_file in "$DATA_SRC"/*.json; do
             if [[ -f "$json_file" ]]; then
-                $SCP "$json_file" "$REMOTE_DATA/$(basename "$json_file")"
+                $SCP "$json_file" "$REMOTE_HOST:$REMOTE_DATA/$(basename "$json_file")"
             fi
         done
     fi

@@ -9,11 +9,13 @@ import { StatusPills } from '../components/shared/StatusPills'
 import { WeatherWidget } from '../components/shared/WeatherWidget'
 import { useApiData } from '../hooks/useApiData'
 import { useDiagnosticV2 } from '../hooks/useDiagnosticV2'
+import { useNavigate } from 'react-router-dom'
 import { useDashboardStore } from '../stores/dashboardStore'
 import { theme } from '../theme'
 
 export function Dashboard() {
-  const { clientHash, timeRange, setTimeRange, setTab } = useDashboardStore()
+  const { clientHash, timeRange, setTimeRange } = useDashboardStore()
+  const navigate = useNavigate()
   const { report: v2Report, history: v2History, loading: v2Loading } = useDiagnosticV2(clientHash)
 
   const { data: anomaly } = useApiData<any>({
@@ -211,7 +213,7 @@ export function Dashboard() {
         <RPMPanel value={Math.round(lastPid.rpm || 0)} />
         <SpeedPanel value={Math.round(lastPid.speed || 0)} />
         <CoolantVoltagePanel coolant={Math.round(lastPid.coolant || 0)} />
-        <VibrationPanel value={totalVib} onClick={() => setTab('diagnostics')} />
+        <VibrationPanel value={totalVib} onClick={() => navigate('/diagnostics')} />
       </div>
 
       {/* Diagnostics summary — only show real issues (confidence >= 40%) */}
