@@ -1,11 +1,10 @@
-import { Canvas } from '@react-three/fiber'
-import { Suspense } from 'react'
+import React, { Suspense } from 'react'
 import { RPMPanel, SpeedPanel, CoolantVoltagePanel, VibrationPanel } from '../components/panels/InstrumentCard'
 import { GlassPanel } from '../components/shared/GlassPanel'
 import { HealthBar } from '../components/shared/HealthBar'
 import { StatusBadge } from '../components/shared/StatusBadge'
-import { CarWireframe } from '../components/three/CarWireframe'
-import { SceneSetup } from '../components/three/SceneSetup'
+
+const DigitalTwinCanvas = React.lazy(() => import('../components/three/DigitalTwinCanvas'))
 import { StatusPills } from '../components/shared/StatusPills'
 import { WeatherWidget } from '../components/shared/WeatherWidget'
 import { useApiData } from '../hooks/useApiData'
@@ -121,12 +120,13 @@ export function Dashboard() {
           <div className="absolute top-3 left-3 z-10 hud-header">
             Цифровой двойник
           </div>
-          <Canvas camera={{ position: [5, 2.5, 5], fov: 42 }} style={{ background: 'transparent' }}>
-            <Suspense fallback={null}>
-              <SceneSetup />
-              <CarWireframe />
-            </Suspense>
-          </Canvas>
+          <Suspense fallback={
+            <div className="flex items-center justify-center h-full">
+              <span className="text-xs font-mono" style={{ color: 'rgba(0,229,255,0.5)' }}>Loading 3D...</span>
+            </div>
+          }>
+            <DigitalTwinCanvas />
+          </Suspense>
           {/* Holographic scanline overlay */}
           <div style={{
             position: 'absolute',

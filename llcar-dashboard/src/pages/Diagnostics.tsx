@@ -1,5 +1,6 @@
 import { Suspense, lazy, useState } from 'react'
-import { SmartSphere } from '../components/three/SmartSphere'
+
+const SmartSphere = lazy(() => import('../components/three/SmartSphere').then(m => ({ default: m.SmartSphere })))
 import { AudioSpectrum } from '../components/panels/AudioSpectrum'
 import { DiagnosisCard } from '../components/panels/DiagnosisCard'
 import { AnomalyTimeline } from '../components/panels/AnomalyTimeline'
@@ -122,7 +123,14 @@ export function Diagnostics() {
         className={`${expanded === 'accel' ? 'col-span-12' : expanded ? 'hidden' : 'col-span-12 md:col-span-6 lg:col-span-4'} cursor-pointer transition-all duration-300`}
         onClick={() => toggle('accel')}
       >
-        <SmartSphere data={accelData} />
+        <Suspense fallback={
+          <GlassPanel style={{ height: 'min(420px, 55vh)' }}>
+            <div className="hud-header mb-3">Вибрация 3D</div>
+            <div className="flex items-center justify-center" style={{ height: 200, color: 'rgba(0,229,255,0.5)', fontSize: 12, fontFamily: 'monospace' }}>Loading 3D...</div>
+          </GlassPanel>
+        }>
+          <SmartSphere data={accelData} />
+        </Suspense>
       </div>
 
       <div

@@ -55,7 +55,7 @@ function Panel({ children, style, onClick }: { children: React.ReactNode; style?
         <path d="M20 20 H4 V17 M20 20 V4 H17" stroke="var(--accent-cyan, #00E5FF)" strokeWidth="1.5" fill="none" opacity="0.6" />
       </svg>
       {/* Glass reflection */}
-      <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(to bottom, rgba(255,255,255,0.06) 0%, transparent 40%)', pointerEvents: 'none', zIndex: 10 }} />
+      <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(to bottom, var(--glass-border-top) 0%, transparent 40%)', pointerEvents: 'none', zIndex: 10, opacity: 0.4 }} />
       <div style={{ position: 'relative', zIndex: 5, width: '100%', height: '100%', padding: 12 }}>
         {children}
       </div>
@@ -100,18 +100,18 @@ function GaugeSVG({ value, max, size, label }: { value: number; max: number; siz
   return (
     <svg width={size} height={size} viewBox={`0 0 ${size} ${size}`}>
       {/* Track */}
-      <circle cx={cx} cy={cy} r={r} fill="none" stroke="rgba(0,229,255,0.1)" strokeWidth="6"
+      <circle cx={cx} cy={cy} r={r} fill="none" stroke={COLORS.accentDim} strokeWidth="6"
         strokeDasharray={`${circ} ${circ * 0.33}`} strokeLinecap="butt" transform={`rotate(135 ${cx} ${cy})`} />
       {/* Fill */}
       <circle cx={cx} cy={cy} r={r} fill="none" stroke={COLORS.accent} strokeWidth="6"
         strokeDasharray={`${circ} ${circ}`} strokeDashoffset={offset} strokeLinecap="round"
         transform={`rotate(135 ${cx} ${cy})`} style={{ filter: `drop-shadow(0 0 6px ${COLORS.accent}) drop-shadow(0 0 12px ${COLORS.accent}40)`, transition: 'stroke-dashoffset 0.5s ease' }} />
       {/* Inner ring */}
-      <circle cx={cx} cy={cy} r={r - 10} fill="none" stroke="rgba(0,229,255,0.12)" strokeWidth="0.8" strokeDasharray="2 4" />
+      <circle cx={cx} cy={cy} r={r - 10} fill="none" stroke={COLORS.accentDim} strokeWidth="0.8" strokeDasharray="2 4" />
       {/* Ticks */}
       {ticks}
       {/* Center value */}
-      <text x={cx} y={cy - 2} textAnchor="middle" dominantBaseline="middle" fill="#fff" fontSize={size * 0.2}
+      <text x={cx} y={cy - 2} textAnchor="middle" dominantBaseline="middle" fill="var(--text-primary, #fff)" fontSize={size * 0.2}
         fontFamily="Consolas, 'Lucida Console', monospace" fontWeight="bold">{value}</text>
       {label && <text x={cx} y={cy + size * 0.12} textAnchor="middle" fill={COLORS.textDim} fontSize="10"
         fontFamily="'Orbitron', sans-serif" letterSpacing="2">{label}</text>}
@@ -122,11 +122,11 @@ function GaugeSVG({ value, max, size, label }: { value: number; max: number; siz
 // ── Equalizer bars ──
 function Equalizer({ active, total = 18 }: { active: number; total?: number }) {
   return (
-    <div style={{ display: 'flex', gap: 2, alignItems: 'flex-end', height: 36, padding: 4, background: 'rgba(0,0,0,0.3)', borderRadius: 2, border: '1px solid rgba(0,229,255,0.1)' }}>
+    <div style={{ display: 'flex', gap: 2, alignItems: 'flex-end', height: 36, padding: 4, background: 'rgba(0,0,0,0.15)', borderRadius: 2, border: `1px solid ${COLORS.accentDim}` }}>
       {Array.from({ length: total }).map((_, i) => (
         <div key={i} style={{
           width: 5, height: '100%', borderRadius: i < active ? '2px 2px 0 0' : 1,
-          background: i < active ? `linear-gradient(to top, ${COLORS.accent} 0%, rgba(0,229,255,0.6) 80%, rgba(255,255,255,0.3) 100%)` : 'rgba(0,229,255,0.08)',
+          background: i < active ? `linear-gradient(to top, ${COLORS.accent} 0%, ${COLORS.accentDim} 100%)` : COLORS.accentDim,
           opacity: i < active ? 0.9 : 0.3,
           boxShadow: i < active ? `0 0 3px ${COLORS.accent}` : 'none',
         }} />
@@ -147,8 +147,8 @@ export function RPMPanel({ value }: { value: number }) {
           <GaugeSVG value={value} max={8000} size={120} label="об/мин" />
         </div>
         <div style={{ flex: 1, paddingLeft: 8, display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
-          <div style={{ fontSize: 11, color: '#fff', letterSpacing: 2, fontFamily: "'Orbitron', sans-serif", marginBottom: 4 }}>ОБОРОТЫ</div>
-          <div style={{ fontSize: 34, color: '#fff', fontFamily: "Consolas, monospace", fontWeight: 'bold', lineHeight: 1, textShadow: '0 0 12px rgba(255,255,255,0.3)' }}>{value}</div>
+          <div style={{ fontSize: 11, color: COLORS.text, letterSpacing: 2, fontFamily: "'Orbitron', sans-serif", marginBottom: 4 }}>ОБОРОТЫ</div>
+          <div style={{ fontSize: 34, color: COLORS.text, fontFamily: "Consolas, monospace", fontWeight: 'bold', lineHeight: 1 }}>{value}</div>
           <div style={{ fontSize: 9, color: COLORS.textDim, fontFamily: "Consolas, monospace", marginTop: 2 }}>об/мин</div>
           <div style={{ marginTop: 8, opacity: 0.8 }}><Sparkline /></div>
         </div>
@@ -161,7 +161,7 @@ export function SpeedPanel({ value }: { value: number }) {
   return (
     <Panel style={{ borderLeft: '3px solid var(--accent-cyan)' }}>
       <div style={{ display: 'flex', height: '100%', alignItems: 'center', gap: 10 }}>
-        <div style={{ flex: 1.2, display: 'flex', flexDirection: 'column', justifyContent: 'center', borderRight: '1px solid rgba(0,229,255,0.1)', paddingRight: 10 }}>
+        <div style={{ flex: 1.2, display: 'flex', flexDirection: 'column', justifyContent: 'center', borderRight: `1px solid ${COLORS.accentDim}`, paddingRight: 10 }}>
           <div style={{ fontSize: 9, color: COLORS.accent, letterSpacing: 2, marginBottom: 6, opacity: 0.7 }}>
             <span style={{ border: '1px solid currentColor', padding: '1px 4px', fontSize: 7, marginRight: 4 }}>OBD-II</span>
           </div>
@@ -170,7 +170,7 @@ export function SpeedPanel({ value }: { value: number }) {
         </div>
         <div style={{ flex: 1, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
           <div style={{ fontSize: 10, color: COLORS.accent, letterSpacing: 3, fontWeight: 'bold', textShadow: `0 0 10px ${COLORS.accent}`, fontFamily: "'Orbitron', sans-serif" }}>СКОРОСТЬ</div>
-          <div style={{ fontSize: 48, color: '#fff', fontFamily: "Consolas, monospace", fontWeight: 'bold', lineHeight: 1 }}>{value}</div>
+          <div style={{ fontSize: 48, color: COLORS.text, fontFamily: "Consolas, monospace", fontWeight: 'bold', lineHeight: 1 }}>{value}</div>
           <div style={{ fontSize: 12, color: COLORS.textDim, fontFamily: "'Orbitron', sans-serif", letterSpacing: 1 }}>км/ч</div>
         </div>
       </div>
@@ -187,7 +187,7 @@ export function CoolantVoltagePanel({ coolant }: { coolant: number; voltage?: nu
           <GaugeSVG value={coolant} max={120} size={120} label="°C" />
         </div>
         <div style={{ flex: 1, paddingLeft: 8, display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
-          <div style={{ fontSize: 11, color: '#fff', letterSpacing: 2, fontFamily: "'Orbitron', sans-serif", marginBottom: 4 }}>ТЕМП. ОЖ</div>
+          <div style={{ fontSize: 11, color: COLORS.text, letterSpacing: 2, fontFamily: "'Orbitron', sans-serif", marginBottom: 4 }}>ТЕМП. ОЖ</div>
           <div style={{ display: 'flex', alignItems: 'baseline', gap: 6 }}>
             <span style={{ fontSize: 34, color: coolColor, fontFamily: "Consolas, monospace", fontWeight: 'bold', lineHeight: 1, textShadow: `0 0 10px ${coolColor}44` }}>{coolant}</span>
             <span style={{ fontSize: 14, color: COLORS.textDim }}>°C</span>
@@ -209,7 +209,7 @@ export function VibrationPanel({ value, onClick }: { value: number; onClick?: ()
           {/* Animated vibration bars */}
           <div style={{ display: 'flex', alignItems: 'flex-end', gap: 3, height: 70 }}>
             {[0.5, 0.8, 1.0, 0.7, 0.9, 0.6, 0.85, 0.55, 0.75].map((h, i) => {
-              const barColor = value > 0 ? (i < 3 ? COLORS.accent : i < 6 ? '#FFAB00' : '#FF1744') : color
+              const barColor = value > 0 ? (i < 3 ? COLORS.accent : i < 6 ? 'var(--status-warning, #FFAB00)' : 'var(--status-critical, #FF1744)') : color
               return (
                 <div key={i} style={{
                   width: 5, borderRadius: 2, minHeight: 4,
@@ -225,7 +225,7 @@ export function VibrationPanel({ value, onClick }: { value: number; onClick?: ()
           <style>{`@keyframes vibBar { from { transform: scaleY(0.6); } to { transform: scaleY(1.4); } }`}</style>
         </div>
         <div style={{ flex: 1, paddingLeft: 10, display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
-          <div style={{ fontSize: 10, color: '#fff', letterSpacing: 2, fontFamily: "'Orbitron', sans-serif", marginBottom: 4 }}>ВИБРАЦИЯ</div>
+          <div style={{ fontSize: 10, color: COLORS.text, letterSpacing: 2, fontFamily: "'Orbitron', sans-serif", marginBottom: 4 }}>ВИБРАЦИЯ</div>
           <div style={{ fontSize: 34, color, fontFamily: "Consolas, monospace", fontWeight: 'bold', lineHeight: 1, textShadow: `0 0 10px ${color}44` }}>
             {value.toFixed(1)}
           </div>
