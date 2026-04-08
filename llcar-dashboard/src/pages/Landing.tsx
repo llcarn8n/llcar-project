@@ -1,6 +1,6 @@
 import { VehicleSelect } from '../components/landing/VehicleSelect'
 import { theme } from '../theme'
-import { ICONS } from '../utils/icons'
+// icons available via ../utils/icons if needed later
 
 export function Landing() {
   return (
@@ -40,7 +40,6 @@ export function Landing() {
 
           {/* HERO */}
           <div style={{ display: 'flex', alignItems: 'flex-start', gap: 24 }}>
-            <img src={ICONS.scanner} alt="" style={{ width: 100, height: 100, objectFit: 'contain', flexShrink: 0, filter: 'drop-shadow(0 4px 20px rgba(0,229,255,0.4))', animation: 'float 5s ease-in-out infinite' }} />
             <div>
               <h1 style={{
                 fontFamily: "'Orbitron', sans-serif", fontSize: 26, fontWeight: 700,
