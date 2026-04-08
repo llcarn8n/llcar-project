@@ -13,7 +13,16 @@ interface DTCEntry {
 interface DTCSearchProps {
   onSelect: (code: string) => void
   selectedCode: string | null
+  brandId?: string | null
 }
+
+const SYSTEM_TABS = [
+  { prefix: '', label: 'Все', icon: '\u{1F50D}', color: theme.accent.cyan },
+  { prefix: 'P', label: 'Двигатель (P)', icon: '\u2699', color: theme.status.warning },
+  { prefix: 'B', label: 'Кузов (B)', icon: '\u{1F6AA}', color: theme.accent.teal },
+  { prefix: 'C', label: 'Шасси (C)', icon: '\u{1F6DE}', color: '#FF6B35' },
+  { prefix: 'U', label: 'Сеть (U)', icon: '\u{1F4E1}', color: '#bc13fe' },
+]
 
 const SEVERITY_COLORS: Record<string, string> = {
   critical: theme.status.critical,
@@ -41,11 +50,14 @@ const SYSTEM_LABELS: Record<string, string> = {
   ev: 'Электро',
 }
 
-export function DTCSearch({ onSelect, selectedCode }: DTCSearchProps) {
+export function DTCSearch({ onSelect, selectedCode, brandId }: DTCSearchProps) {
   const [allCodes, setAllCodes] = useState<DTCEntry[]>([])
+  const [brandCodes, setBrandCodes] = useState<DTCEntry[]>([])
   const [loading, setLoading] = useState(true)
   const [query, setQuery] = useState('')
   const [severityFilter, setSeverityFilter] = useState<string>('')
+  const [systemTab, setSystemTab] = useState('')
+  const [showBrandOnly, setShowBrandOnly] = useState(false)
 
   // Load DTC index
   useEffect(() => {
@@ -58,18 +70,37 @@ export function DTCSearch({ onSelect, selectedCode }: DTCSearchProps) {
       .catch(() => setLoading(false))
   }, [])
 
+  // Load brand-specific codes
+  useEffect(() => {
+    if (!brandId) { setBrandCodes([]); return }
+    // Try loading brand DTC notes — future: from KB dtc-brand.json
+    // For now brand codes are filtered from universal by manufacturer prefix (P1xxx, C1xxx, B1xxx, U1xxx)
+    setBrandCodes([])
+  }, [brandId])
+
+  // System tab counts
+  const systemCounts = useMemo(() => {
+    const counts: Record<string, number> = { '': allCodes.length }
+    for (const tab of SYSTEM_TABS) {
+      if (tab.prefix) counts[tab.prefix] = allCodes.filter(e => e.c.startsWith(tab.prefix)).length
+    }
+    return counts
+  }, [allCodes])
+
   // Filter results
   const results = useMemo(() => {
-    if (!query && !severityFilter) return []
+    const source = showBrandOnly && brandCodes.length > 0 ? brandCodes : allCodes
+    if (!query && !severityFilter && !systemTab) return []
     const q = query.toUpperCase().trim()
     const qLower = query.toLowerCase().trim()
 
-    return allCodes.filter(e => {
+    return source.filter(e => {
+      if (systemTab && !e.c.startsWith(systemTab)) return false
       if (severityFilter && e.s !== severityFilter) return false
-      if (!q) return !!severityFilter
+      if (!q) return !!(severityFilter || systemTab)
       return e.c.includes(q) || e.t.toLowerCase().includes(qLower)
-    }).slice(0, 100) // cap at 100 results
-  }, [allCodes, query, severityFilter])
+    }).slice(0, 100)
+  }, [allCodes, brandCodes, showBrandOnly, query, severityFilter, systemTab])
 
   const handleInput = useCallback((e: React.ChangeEvent<HTMLInputElement>) => {
     setQuery(e.target.value)
@@ -135,6 +166,60 @@ export function DTCSearch({ onSelect, selectedCode }: DTCSearchProps) {
           <option value="low">Низкие</option>
         </select>
       </div>
+
+      {/* System tabs */}
+      {!loading && (
+        <div style={{ display: 'flex', gap: 6, marginBottom: 12, flexWrap: 'wrap' }}>
+          {SYSTEM_TABS.map(tab => {
+            const active = systemTab === tab.prefix
+            const count = systemCounts[tab.prefix] || 0
+            return (
+              <button
+                key={tab.prefix}
+                onClick={() => setSystemTab(active ? '' : tab.prefix)}
+                style={{
+                  padding: '6px 12px',
+                  borderRadius: 4,
+                  fontFamily: "'Rajdhani', sans-serif",
+                  fontSize: 11,
+                  fontWeight: 700,
+                  color: active ? '#0C1220' : tab.color,
+                  background: active ? tab.color : `${tab.color}08`,
+                  border: `1px solid ${active ? 'transparent' : `${tab.color}20`}`,
+                  cursor: 'pointer',
+                  letterSpacing: '0.05em',
+                  transition: 'all 0.2s',
+                }}
+              >
+                {tab.icon} {tab.label} <span style={{ opacity: 0.7 }}>({count.toLocaleString()})</span>
+              </button>
+            )
+          })}
+
+          {/* Brand toggle */}
+          {brandId && (
+            <button
+              onClick={() => setShowBrandOnly(!showBrandOnly)}
+              style={{
+                padding: '6px 12px',
+                borderRadius: 4,
+                fontFamily: "'Rajdhani', sans-serif",
+                fontSize: 11,
+                fontWeight: 700,
+                color: showBrandOnly ? '#0C1220' : theme.status.warning,
+                background: showBrandOnly ? theme.status.warning : `${theme.status.warning}08`,
+                border: `1px solid ${showBrandOnly ? 'transparent' : `${theme.status.warning}20`}`,
+                cursor: 'pointer',
+                letterSpacing: '0.05em',
+                transition: 'all 0.2s',
+                marginLeft: 'auto',
+              }}
+            >
+              Только для марки
+            </button>
+          )}
+        </div>
+      )}
 
       {/* Loading state */}
       {loading && (

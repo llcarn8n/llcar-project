@@ -52,7 +52,7 @@ export function ErrorCodes() {
     <div className="grid grid-cols-12 gap-3">
       {/* Search panel */}
       <div className="col-span-12 lg:col-span-7">
-        <DTCSearch onSelect={setSelectedCode} selectedCode={selectedCode} />
+        <DTCSearch onSelect={setSelectedCode} selectedCode={selectedCode} brandId={vehicleProfile?.brandId} />
       </div>
 
       {/* Detail / Multi-DTC panel */}
