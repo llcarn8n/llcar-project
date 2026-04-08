@@ -73,9 +73,18 @@ export function DTCSearch({ onSelect, selectedCode, brandId }: DTCSearchProps) {
   // Load brand-specific codes
   useEffect(() => {
     if (!brandId) { setBrandCodes([]); return }
-    // Try loading brand DTC notes — future: from KB dtc-brand.json
-    // For now brand codes are filtered from universal by manufacturer prefix (P1xxx, C1xxx, B1xxx, U1xxx)
-    setBrandCodes([])
+    fetch(`${import.meta.env.BASE_URL}data/brands-dtc/${brandId}.json`)
+      .then(r => r.ok ? r.json() : [])
+      .then((data: Array<{ c: string; n: string; f: string }>) => {
+        setBrandCodes(data.map(d => ({
+          c: d.c,
+          t: d.n,
+          s: 'medium' as string,
+          sys: '',
+          d: 'check',
+        })))
+      })
+      .catch(() => setBrandCodes([]))
   }, [brandId])
 
   // System tab counts
@@ -197,7 +206,7 @@ export function DTCSearch({ onSelect, selectedCode, brandId }: DTCSearchProps) {
           })}
 
           {/* Brand toggle */}
-          {brandId && (
+          {brandId && brandCodes.length > 0 && (
             <button
               onClick={() => setShowBrandOnly(!showBrandOnly)}
               style={{
@@ -215,7 +224,7 @@ export function DTCSearch({ onSelect, selectedCode, brandId }: DTCSearchProps) {
                 marginLeft: 'auto',
               }}
             >
-              Только для марки
+              Только для марки ({brandCodes.length})
             </button>
           )}
         </div>
