@@ -256,3 +256,57 @@ class TestSystemIdToCategories:
 
     def test_unknown_system(self):
         assert KnowledgeBase.system_id_to_categories("unknown") == []
+
+
+# ---------------------------------------------------------------------------
+# DTC range classification (SAE J2012)
+# ---------------------------------------------------------------------------
+
+class TestDtcRangeClassification:
+    def test_p0171_classified_as_engine(self, kb):
+        """P0171 is in P0100-P0199 range → engine/sensors per SAE J2012."""
+        result = kb.classify_dtc_by_range("P0171")
+        assert result is not None
+        assert result["category"] == "engine"
+        assert result["system"] == "sensors"
+
+    def test_p0300_classified_as_ignition(self, kb):
+        result = kb.classify_dtc_by_range("P0300")
+        assert result is not None
+        assert result["category"] == "engine"
+        assert result["system"] == "ignition"
+
+    def test_p0700_classified_as_transmission(self, kb):
+        result = kb.classify_dtc_by_range("P0700")
+        assert result is not None
+        assert result["category"] == "drivetrain"
+        assert result["system"] == "transmission"
+
+    def test_b1234_classified_as_body(self, kb):
+        result = kb.classify_dtc_by_range("B1234")
+        assert result is not None
+        assert result["category"] == "body"
+        assert result["system"] == "body"
+
+    def test_c0045_classified_as_chassis(self, kb):
+        result = kb.classify_dtc_by_range("C0045")
+        assert result is not None
+        assert result["category"] == "chassis"
+        assert result["system"] == "chassis"
+
+    def test_u0100_classified_as_network(self, kb):
+        result = kb.classify_dtc_by_range("U0100")
+        assert result is not None
+        assert result["category"] == "electrical"
+        assert result["system"] == "network"
+
+    def test_unknown_code_returns_none(self, kb):
+        result = kb.classify_dtc_by_range("X9999")
+        assert result is None
+
+    def test_find_situations_by_dtc_range_returns_results(self, kb):
+        """P0171 range → engine category → should find engine situations."""
+        results = kb.find_situations_by_dtc_range("P0171")
+        assert len(results) >= 1
+        categories = [s.get("category") for s in results]
+        assert "engine" in categories

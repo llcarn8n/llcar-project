@@ -1,0 +1,17 @@
+[
+  {"range_start": "P0001", "range_end": "P0099", "category": "engine", "system": "fuel_metering"},
+  {"range_start": "P0100", "range_end": "P0199", "category": "engine", "system": "sensors"},
+  {"range_start": "P0200", "range_end": "P0299", "category": "engine", "system": "fuel_injection"},
+  {"range_start": "P0300", "range_end": "P0399", "category": "engine", "system": "ignition"},
+  {"range_start": "P0400", "range_end": "P0499", "category": "engine", "system": "emissions"},
+  {"range_start": "P0500", "range_end": "P0599", "category": "electrical", "system": "vehicle_speed"},
+  {"range_start": "P0600", "range_end": "P0699", "category": "electrical", "system": "ecu"},
+  {"range_start": "P0700", "range_end": "P0899", "category": "drivetrain", "system": "transmission"},
+  {"range_start": "P0900", "range_end": "P0999", "category": "drivetrain", "system": "clutch"},
+  {"range_start": "P1000", "range_end": "P1999", "category": "engine", "system": "manufacturer"},
+  {"range_start": "P2000", "range_end": "P2999", "category": "engine", "system": "generic_extended"},
+  {"range_start": "P3000", "range_end": "P3499", "category": "engine", "system": "manufacturer_ext"},
+  {"range_start": "B0000", "range_end": "B9999", "category": "body", "system": "body"},
+  {"range_start": "C0000", "range_end": "C9999", "category": "chassis", "system": "chassis"},
+  {"range_start": "U0000", "range_end": "U9999", "category": "electrical", "system": "network"}
+]

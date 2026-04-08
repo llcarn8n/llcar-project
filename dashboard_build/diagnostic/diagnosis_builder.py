@@ -515,10 +515,11 @@ class DiagnosisBuilder:
         Strategy:
           1. If rule has dtc_codes, try find_situations_by_dtc for each code.
           2. If rule has situation_id, use it directly.
-          3. Fallback: search by category + keyword from rule name.
-          4. Fallback to empty dict.
+          3. If rule has dtc_codes, try find_situations_by_dtc_range (SAE J2012).
+          4. Fallback: search by category + keyword from rule name.
+          5. Fallback to empty dict.
         """
-        # Try DTC codes first
+        # Try DTC codes first (exact match)
         dtc_codes = rule_result.get("dtc_codes", [])
         for code in dtc_codes:
             situations = self._kb.find_situations_by_dtc(code, brand=brand)
@@ -531,6 +532,12 @@ class DiagnosisBuilder:
             situation = self._kb.find_situation_by_id(situation_id, brand=brand)
             if situation is not None:
                 return situation
+
+        # Try DTC range classification (SAE J2012 fallback)
+        for code in dtc_codes:
+            situations = self._kb.find_situations_by_dtc_range(code, brand=brand)
+            if situations:
+                return situations[0]
 
         # Fallback: match by category + keywords from rule name/display
         rule_name = rule_result.get("name", "")

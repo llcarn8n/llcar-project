@@ -11,7 +11,8 @@ from __future__ import annotations
 
 import json
 import os
-from typing import Any, Dict, List, Optional, Set
+import re
+from typing import Any, Dict, List, Optional, Set, Tuple
 
 
 # ---------------------------------------------------------------------------
@@ -231,6 +232,68 @@ class KnowledgeBase:
                     }
 
         return best
+
+    # ------------------------------------------------------------------
+    # DTC range classification (SAE J2012)
+    # ------------------------------------------------------------------
+
+    _DTC_CODE_RE = re.compile(r"^([PBCU])(\d{4})$", re.IGNORECASE)
+
+    def _load_dtc_ranges(self) -> List[Dict[str, Any]]:
+        """Lazily load and cache dtc_range_categories.json."""
+        if hasattr(self, "_dtc_ranges_cache"):
+            return self._dtc_ranges_cache
+
+        ranges_path = os.path.join(
+            os.path.dirname(os.path.abspath(__file__)),
+            "data",
+            "dtc_range_categories.json",
+        )
+        if os.path.isfile(ranges_path):
+            self._dtc_ranges_cache: List[Dict[str, Any]] = _load_json(ranges_path)
+        else:
+            self._dtc_ranges_cache = []
+
+        return self._dtc_ranges_cache
+
+    @staticmethod
+    def _parse_dtc_code(code: str) -> Optional[Tuple[str, int]]:
+        """Parse a DTC code into (prefix_letter, number). Returns None if invalid."""
+        m = KnowledgeBase._DTC_CODE_RE.match(code)
+        if not m:
+            return None
+        return m.group(1).upper(), int(m.group(2))
+
+    def classify_dtc_by_range(self, code: str) -> Optional[Dict[str, str]]:
+        """Classify a DTC code by SAE J2012 range.
+
+        Returns {"category": ..., "system": ...} or None if no range matches.
+        """
+        parsed = self._parse_dtc_code(code)
+        if parsed is None:
+            return None
+        prefix, number = parsed
+
+        for entry in self._load_dtc_ranges():
+            r_start = self._parse_dtc_code(entry["range_start"])
+            r_end = self._parse_dtc_code(entry["range_end"])
+            if r_start is None or r_end is None:
+                continue
+            if r_start[0] != prefix:
+                continue
+            if r_start[1] <= number <= r_end[1]:
+                return {"category": entry["category"], "system": entry["system"]}
+
+        return None
+
+    def find_situations_by_dtc_range(
+        self, code: str, brand: Optional[str] = None
+    ) -> List[Dict[str, Any]]:
+        """Find situations matching a DTC code's SAE J2012 category."""
+        classification = self.classify_dtc_by_range(code)
+        if not classification:
+            return []
+        return self.find_situations_by_category(classification["category"], brand=brand)
 
     # ------------------------------------------------------------------
     # Static helpers
