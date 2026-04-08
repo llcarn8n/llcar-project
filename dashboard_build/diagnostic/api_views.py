@@ -244,11 +244,29 @@ def diagnose_latest_view(request: Any) -> JsonResponse:
                 vehicle_profile=profile, baselines=baselines,
             )
 
-            # 6. Process multiple OBD packets for baseline accumulation
-            #    Iterate oldest-first so baselines build up properly;
-            #    the last report (most recent packet) is the one returned.
+            # 6. Process multiple OBD packets for baseline accumulation,
+            #    then run a FINAL diagnosis on aggregated features for stability.
+            #
+            #    Strategy:
+            #      a) Iterate oldest-first so baselines build up properly.
+            #      b) Collect parsed packets for aggregation.
+            #      c) Build one aggregated packet:
+            #         - AVERAGE numeric OBD features (RPM, coolant, voltage, etc.)
+            #         - MAX vibration features (worst-case)
+            #         - UNION of DTC codes
+            #      d) Run full_diagnose on the aggregated packet for the final report.
+
+            # Keys to average (OBD numeric features)
+            _AVG_KEYS = ("rpm", "speed", "coolant_temp", "voltage",
+                         "engine_load", "throttle_pos", "ltft_bank1", "stft_bank1")
+            # Keys to take MAX (vibration worst-case)
+            _MAX_KEYS = ("ax_std", "ay_std", "az_std",
+                         "ax_max", "ay_max", "az_max",
+                         "ax_min", "ay_min", "az_min")
+
             report: Dict[str, Any] = {}
             if obd_rows:
+                parsed_packets: list = []
                 for obd_row in reversed(obd_rows):  # oldest first
                     packet: Dict[str, Any] = {}
                     rpm, speed, coolant, ltft_raw, stft_raw, voltage_mv, load, throttle = obd_row
@@ -272,9 +290,47 @@ def diagnose_latest_view(request: Any) -> JsonResponse:
                     if audio_data:
                         packet.update(audio_data)
 
-                    report = pipeline.full_diagnose(
+                    # Run through pipeline to accumulate baselines
+                    pipeline.full_diagnose(
                         packet, db_cursor=cursor, client_hash=client_hash,
                     )
+                    parsed_packets.append(packet)
+
+                # -- Build aggregated packet from all parsed packets --
+                aggregated: Dict[str, Any] = {}
+
+                # Average numeric OBD features
+                for key in _AVG_KEYS:
+                    values = [p[key] for p in parsed_packets if p.get(key) is not None]
+                    if values:
+                        aggregated[key] = round(sum(values) / len(values), 2)
+
+                # MAX vibration features (worst-case)
+                for key in _MAX_KEYS:
+                    values = [p[key] for p in parsed_packets if p.get(key) is not None]
+                    if values:
+                        aggregated[key] = max(values)
+
+                # Union of DTC codes across all packets
+                all_dtc_union: set = set()
+                for p in parsed_packets:
+                    for code in p.get("dtc_codes", []):
+                        all_dtc_union.add(code)
+                if all_dtc_union:
+                    aggregated["dtc_codes"] = sorted(all_dtc_union)
+
+                # Carry forward accel avg fields and audio (single-reading, not OBD)
+                for key in ("ax_avg", "ay_avg", "az_avg",
+                            "dominant_freq", "dominant_amp", "audio_quality"):
+                    if key in parsed_packets[-1]:
+                        aggregated.setdefault(key, parsed_packets[-1][key])
+
+                # Final diagnosis on aggregated data
+                report = pipeline.full_diagnose(
+                    aggregated, db_cursor=cursor, client_hash=client_hash,
+                )
+                # Use aggregated packet for downstream DTC/freeze logic
+                packet = aggregated
             else:
                 # No OBD data — run with accel/audio only
                 packet = {}
@@ -390,6 +446,7 @@ def diagnose_latest_view(request: Any) -> JsonResponse:
             report["data_source"] = {
                 "has_obd": len(obd_rows) > 0,
                 "obd_packets": len(obd_rows),
+                "aggregated": len(obd_rows) > 1,
                 "has_accel": accel_row is not None,
                 "has_audio": audio_row is not None,
                 "minutes_searched": minutes,

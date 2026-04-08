@@ -11,6 +11,10 @@ Current rules:
   - MULTI_DTC_PATTERN: if 2+ codes match a known pattern in KB
   - OVERHEAT:          coolant_temp > 105 → danger
   - LOW_VOLTAGE:       voltage < 13.0 AND rpm > 1000 → warning
+  - LTFT_SEVERITY:     fuel-trim corrected abs through severity table
+  - VIBRATION_ANOMALY: z-score > 2.0 on vibration features vs baseline
+  - AUDIO_ANOMALY:     z-score > 2.0 on audio features vs baseline
+  - CUSUM_ALARM:       CUSUM trend detector shows degradation ("↓")
 """
 from __future__ import annotations
 
@@ -91,18 +95,33 @@ class FactGenerator:
         self,
         packet: NormalizedPacket,
         features: Dict[str, Optional[Union[float, bool, str, int]]],
+        baselines: Optional[Any] = None,
+        health_trends: Optional[Dict[str, str]] = None,
     ) -> List[Fact]:
         """Generate all applicable facts for the given packet + features.
+
+        Args:
+            packet: Normalized telemetry packet.
+            features: Extracted feature dict from feature_extractor.
+            baselines: Optional BaselineStore for z-score anomaly detection.
+            health_trends: Optional dict of system→trend from CUSUM detector
+                           (e.g. {"engine": "↓", "suspension": "→"}).
 
         Returns a list of Fact objects (may be empty).
         """
         now = time.time()
         facts: List[Fact] = []
 
+        # Original 4 fact types
         facts.extend(self._dtc_facts(packet, now))
         facts.extend(self._multi_dtc_facts(packet, now))
         facts.extend(self._overheat_facts(packet, now))
         facts.extend(self._low_voltage_facts(packet, now))
+
+        # New fact types
+        facts.extend(self._ltft_severity_facts(packet, now))
+        facts.extend(self._zscore_anomaly_facts(packet, features, baselines, now))
+        facts.extend(self._cusum_facts(health_trends, now))
 
         return facts
 
@@ -210,3 +229,203 @@ class FactGenerator:
             source_tier=packet.tier,
             details={"threshold_voltage": 13.0, "threshold_rpm": 1000},
         )]
+
+    # ------------------------------------------------------------------
+    # LTFT severity
+    # ------------------------------------------------------------------
+
+    # Severity table: (lo_inclusive, hi_exclusive, severity, level_name)
+    _LTFT_SEVERITY_TABLE = [
+        (0,   3,   "normal",     "normal_low"),
+        (3,   5,   "normal",     "normal_high"),
+        (5,   7,   "borderline", "borderline"),
+        (7,  10,   "elevated",   "elevated"),
+        (10,  15,  "problem",    "problem"),
+        (15,  25,  "defect",     "defect"),
+        (25,  37,  "critical",   "critical"),
+        (37, 999,  "danger",     "danger"),
+    ]
+
+    def _ltft_severity_facts(self, packet: NormalizedPacket, ts: float) -> List[Fact]:
+        """LTFT_SEVERITY — run LTFT through severity table inline.
+
+        Uses the vehicle profile's ltft_base_offset and ltft_tolerance_mult
+        to correct the raw LTFT value before severity lookup.
+        """
+        if packet.ltft_bank1 is None:
+            return []
+
+        ltft = packet.ltft_bank1
+        offset = self._profile.ltft_base_offset
+        mult = self._profile.ltft_tolerance_mult
+
+        corrected = (ltft - offset) / mult
+        corrected_abs = abs(corrected)
+
+        # Winter correction: if ambient_temp < -15, reduce abs by 4
+        ambient = packet.engine_context.ambient_temp
+        winter_applied = False
+        if ambient is not None and ambient < -15.0:
+            corrected_abs = max(0.0, corrected_abs - 4.0)
+            winter_applied = True
+
+        # Severity lookup
+        severity = "normal"
+        level_name = "normal_low"
+        for lo, hi, sev, lvl in self._LTFT_SEVERITY_TABLE:
+            if lo <= corrected_abs < hi:
+                severity = sev
+                level_name = lvl
+                break
+
+        return [Fact(
+            type=FactType.LTFT_SEVERITY,
+            timestamp=ts,
+            value=corrected_abs,
+            severity=severity,
+            confidence=1.0,
+            context={"regime": packet.regime.value},
+            source_tier=packet.tier,
+            details={
+                "raw_ltft": ltft,
+                "corrected_ltft": corrected,
+                "corrected_abs": corrected_abs,
+                "level_name": level_name,
+                "offset_applied": offset,
+                "mult_applied": mult,
+                "winter_correction": winter_applied,
+            },
+        )]
+
+    # ------------------------------------------------------------------
+    # Z-score anomaly facts (vibration + audio)
+    # ------------------------------------------------------------------
+
+    # Vibration features to check — maps feature key to packet attr or features key
+    _VIBRATION_ZSCORE_FEATURES = ("az_std", "total_vibration")
+    _AUDIO_ZSCORE_FEATURES = ("dominant_freq", "dominant_amp")
+
+    def _zscore_anomaly_facts(
+        self,
+        packet: NormalizedPacket,
+        features: Dict[str, Optional[Union[float, bool, str, int]]],
+        baselines: Optional[Any],
+        ts: float,
+    ) -> List[Fact]:
+        """VIBRATION_ANOMALY / AUDIO_ANOMALY — produce anomaly fact when |z-score| > 2.0.
+
+        For each key feature, if the baseline is ready (enough samples) and the
+        current z-score exceeds the threshold, produce a typed anomaly fact.
+        """
+        if baselines is None:
+            return []
+
+        facts: List[Fact] = []
+        regime = packet.regime
+
+        # Check if baseline is ready for this regime
+        if not baselines.is_ready(regime):
+            return []
+
+        # Vibration features
+        for feat_key in self._VIBRATION_ZSCORE_FEATURES:
+            value = self._resolve_feature_value(packet, features, feat_key)
+            if value is None:
+                continue
+
+            bl = baselines.get(regime, feat_key)
+            z = bl.z_score(value)
+            if abs(z) > 2.0:
+                facts.append(Fact(
+                    type=FactType.VIBRATION_ANOMALY,
+                    timestamp=ts,
+                    value=value,
+                    severity="warning" if abs(z) < 3.0 else "urgent",
+                    confidence=min(1.0, baselines.confidence(regime)),
+                    context={"regime": regime.value, "feature": feat_key},
+                    source_tier=packet.tier,
+                    details={
+                        "feature": feat_key,
+                        "z_score": round(z, 3),
+                        "baseline_mean": round(bl.mean, 4),
+                        "baseline_std": round(bl.std, 4),
+                        "baseline_count": bl.count,
+                    },
+                ))
+
+        # Audio features
+        for feat_key in self._AUDIO_ZSCORE_FEATURES:
+            value = self._resolve_feature_value(packet, features, feat_key)
+            if value is None:
+                continue
+
+            bl = baselines.get(regime, feat_key)
+            z = bl.z_score(value)
+            if abs(z) > 2.0:
+                facts.append(Fact(
+                    type=FactType.AUDIO_ANOMALY,
+                    timestamp=ts,
+                    value=value,
+                    severity="warning" if abs(z) < 3.0 else "urgent",
+                    confidence=min(1.0, baselines.confidence(regime)),
+                    context={"regime": regime.value, "feature": feat_key},
+                    source_tier=packet.tier,
+                    details={
+                        "feature": feat_key,
+                        "z_score": round(z, 3),
+                        "baseline_mean": round(bl.mean, 4),
+                        "baseline_std": round(bl.std, 4),
+                        "baseline_count": bl.count,
+                    },
+                ))
+
+        return facts
+
+    @staticmethod
+    def _resolve_feature_value(
+        packet: NormalizedPacket,
+        features: Dict[str, Optional[Union[float, bool, str, int]]],
+        key: str,
+    ) -> Optional[float]:
+        """Resolve a feature value from the packet first, then features dict."""
+        # Try packet attribute (e.g. az_std, dominant_freq)
+        val = getattr(packet, key, None)
+        if val is not None:
+            return float(val)
+        # Fall back to features dict (e.g. total_vibration)
+        val = features.get(key)
+        if val is not None and isinstance(val, (int, float)):
+            return float(val)
+        return None
+
+    # ------------------------------------------------------------------
+    # CUSUM alarm facts
+    # ------------------------------------------------------------------
+
+    def _cusum_facts(
+        self,
+        health_trends: Optional[Dict[str, str]],
+        ts: float,
+    ) -> List[Fact]:
+        """CUSUM_ALARM — if any system's CUSUM trend is "↓" (degrading), produce a fact."""
+        if health_trends is None:
+            return []
+
+        facts: List[Fact] = []
+        for system, trend in health_trends.items():
+            if trend == "\u2193":  # "↓"
+                facts.append(Fact(
+                    type=FactType.CUSUM_ALARM,
+                    timestamp=ts,
+                    value=1.0,
+                    severity="warning",
+                    confidence=0.85,
+                    context={"system": system, "trend": trend},
+                    source_tier="T1",
+                    details={
+                        "system": system,
+                        "trend_direction": "degrading",
+                    },
+                ))
+
+        return facts

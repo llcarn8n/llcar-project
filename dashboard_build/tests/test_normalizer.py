@@ -248,3 +248,57 @@ class TestTierDetection:
         }
         pkt = normalize_packet(raw)
         assert pkt.tier == "T1"
+
+
+# ---------------------------------------------------------------------------
+# GAP-P2: Regime stability
+# ---------------------------------------------------------------------------
+
+class TestRegimeStability:
+    """GAP-P2: regime_stable field in NormalizedPacket."""
+
+    def test_stable_by_default_no_previous(self):
+        """Without previous_regime, regime_stable defaults to True."""
+        pkt = normalize_packet(_make_raw(speed=0))
+        assert pkt.regime_stable is True
+
+    def test_stable_when_same_regime(self):
+        """Same regime as previous -> regime_stable=True."""
+        pkt = normalize_packet(
+            _make_raw(speed=0),
+            previous_regime=DrivingRegime.IDLE,
+        )
+        assert pkt.regime == DrivingRegime.IDLE
+        assert pkt.regime_stable is True
+
+    def test_unstable_when_regime_changed(self):
+        """Different regime from previous -> regime_stable=False."""
+        pkt = normalize_packet(
+            _make_raw(speed=0),  # IDLE
+            previous_regime=DrivingRegime.HIGHWAY,
+        )
+        assert pkt.regime == DrivingRegime.IDLE
+        assert pkt.regime_stable is False
+
+    def test_unstable_city_to_highway(self):
+        """CITY -> HIGHWAY transition is unstable."""
+        pkt = normalize_packet(
+            _make_raw(speed=100, ax_avg=0.2, ay_avg=0.1),  # HIGHWAY
+            previous_regime=DrivingRegime.CITY,
+        )
+        assert pkt.regime == DrivingRegime.HIGHWAY
+        assert pkt.regime_stable is False
+
+    def test_stable_highway_to_highway(self):
+        """HIGHWAY -> HIGHWAY is stable."""
+        pkt = normalize_packet(
+            _make_raw(speed=100, ax_avg=0.2, ay_avg=0.1),  # HIGHWAY
+            previous_regime=DrivingRegime.HIGHWAY,
+        )
+        assert pkt.regime == DrivingRegime.HIGHWAY
+        assert pkt.regime_stable is True
+
+    def test_default_packet_has_regime_stable(self):
+        """NormalizedPacket default has regime_stable=True."""
+        pkt = NormalizedPacket()
+        assert pkt.regime_stable is True

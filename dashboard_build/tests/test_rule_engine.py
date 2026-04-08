@@ -408,3 +408,127 @@ class TestStatusMapping:
         )
         # With std~0.3, z_score(5.0) = (5.0 - 1.0) / 0.3 ≈ 13, well above 2.0
         assert result2["confidence"] > 0
+
+
+# ---------------------------------------------------------------------------
+# Test: GAP-R2 — Cooldown enforcement
+# ---------------------------------------------------------------------------
+
+class TestCooldownEnforcement:
+    """GAP-R2: Dismissed rules in cooldown period return confidence=0."""
+
+    def test_cooldown_suppresses_rule(self):
+        """Rule in cooldown returns confidence=0 even with all conditions met."""
+        from diagnostic.escalation import EscalationManager
+
+        engine = RuleEngine()
+        esc = EscalationManager()
+
+        # Trigger and then dismiss
+        esc.update("client1", "engine_overheating", 80, "2026-04-01T00:00:00+00:00")
+        esc.dismiss("client1", "engine_overheating", "2026-04-07T00:00:00+00:00")
+
+        # Verify it's in cooldown (within 7 days)
+        assert esc.is_in_cooldown("client1", "engine_overheating", "2026-04-08T00:00:00+00:00")
+
+        packet = _make_packet(coolant_temp=108, rpm=1500, regime=DrivingRegime.CITY)
+        features = _make_features()
+        baselines = _make_baselines_store()
+
+        # Without cooldown — should fire
+        rule = next(r for r in engine.rules if r.name == "engine_overheating")
+        result_no_cooldown = engine.evaluate_rule(
+            rule, [], features, baselines, packet.regime, packet,
+        )
+        assert result_no_cooldown["confidence"] > 60
+
+        # With cooldown — should be suppressed
+        result_with_cooldown = engine.evaluate_rule(
+            rule, [], features, baselines, packet.regime, packet,
+            escalation_manager=esc,
+            client_hash="client1",
+        )
+        assert result_with_cooldown["confidence"] == 0
+        assert result_with_cooldown["status"] == "clear"
+
+    def test_expired_cooldown_allows_rule(self):
+        """After cooldown expires (7+ days), rule fires normally."""
+        from diagnostic.escalation import EscalationManager
+
+        engine = RuleEngine()
+        esc = EscalationManager()
+
+        esc.update("client1", "engine_overheating", 80, "2026-03-01T00:00:00+00:00")
+        esc.dismiss("client1", "engine_overheating", "2026-03-01T12:00:00+00:00")
+
+        # 8+ days later — cooldown expired
+        assert not esc.is_in_cooldown(
+            "client1", "engine_overheating", "2026-03-10T00:00:00+00:00",
+        )
+
+        packet = _make_packet(coolant_temp=108, rpm=1500, regime=DrivingRegime.CITY)
+        features = _make_features()
+        baselines = _make_baselines_store()
+
+        rule = next(r for r in engine.rules if r.name == "engine_overheating")
+        result = engine.evaluate_rule(
+            rule, [], features, baselines, packet.regime, packet,
+            escalation_manager=esc,
+            client_hash="client1",
+        )
+        assert result["confidence"] > 0
+
+    def test_no_escalation_manager_backward_compat(self):
+        """Without escalation_manager, cooldown check is skipped (backward compat)."""
+        engine = RuleEngine()
+        packet = _make_packet(coolant_temp=108, rpm=1500, regime=DrivingRegime.CITY)
+        features = _make_features()
+        baselines = _make_baselines_store()
+
+        rule = next(r for r in engine.rules if r.name == "engine_overheating")
+        result = engine.evaluate_rule(
+            rule, [], features, baselines, packet.regime, packet,
+        )
+        assert result["confidence"] > 60
+
+    def test_cooldown_in_run_all(self):
+        """run_all passes escalation_manager/client_hash to evaluate_rule."""
+        from diagnostic.escalation import EscalationManager
+
+        engine = RuleEngine()
+        esc = EscalationManager()
+
+        esc.update("client1", "engine_overheating", 80, "2026-04-01T00:00:00+00:00")
+        esc.dismiss("client1", "engine_overheating", "2026-04-07T00:00:00+00:00")
+
+        packet = _make_packet(coolant_temp=108, rpm=1500, regime=DrivingRegime.CITY)
+        features = _make_features()
+        baselines = _make_baselines_store()
+
+        results = engine.run_all(
+            [], features, baselines, packet.regime, packet,
+            escalation_manager=esc,
+            client_hash="client1",
+        )
+        overheat = next(r for r in results if r["name"] == "engine_overheating")
+        assert overheat["confidence"] == 0
+
+    def test_cooldown_error_graceful_degradation(self):
+        """If escalation_manager.is_in_cooldown raises, rule still evaluates."""
+        engine = RuleEngine()
+        esc_mock = MagicMock()
+        esc_mock.is_in_cooldown.side_effect = RuntimeError("DB error")
+        esc_mock.get_record.return_value = None
+
+        packet = _make_packet(coolant_temp=108, rpm=1500, regime=DrivingRegime.CITY)
+        features = _make_features()
+        baselines = _make_baselines_store()
+
+        rule = next(r for r in engine.rules if r.name == "engine_overheating")
+        result = engine.evaluate_rule(
+            rule, [], features, baselines, packet.regime, packet,
+            escalation_manager=esc_mock,
+            client_hash="client1",
+        )
+        # Should still fire despite the error
+        assert result["confidence"] > 0

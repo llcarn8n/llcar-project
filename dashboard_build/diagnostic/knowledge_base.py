@@ -77,8 +77,16 @@ class KnowledgeBase:
         self._universal_dtc: Dict[str, Dict[str, Any]] = raw_dtc.get("codes", {})
         self._universal_situations: List[Dict[str, Any]] = _load_json(situations_path)
 
+        # Index universal situations by 'id' for O(1) lookup
+        self._universal_situations_by_id: Dict[str, Dict[str, Any]] = {
+            s["id"]: s for s in self._universal_situations if "id" in s
+        }
+
         # brand -> {"dtc": {...}, "situations": [...]}
         self._brand_layers: Dict[str, Dict[str, Any]] = {}
+
+        # brand -> {situation_id: situation_dict}
+        self._brand_situations_by_id: Dict[str, Dict[str, Dict[str, Any]]] = {}
 
     # ------------------------------------------------------------------
     # Brand overlay
@@ -92,9 +100,14 @@ class KnowledgeBase:
     ) -> None:
         """Register a brand-level data overlay."""
         raw_dtc = _load_json(dtc_path)
+        brand_situations = _load_json(situations_path)
         self._brand_layers[brand] = {
             "dtc": raw_dtc.get("codes", {}),
-            "situations": _load_json(situations_path),
+            "situations": brand_situations,
+        }
+        # Index brand situations by id for O(1) lookup
+        self._brand_situations_by_id[brand] = {
+            s["id"]: s for s in brand_situations if "id" in s
         }
 
     # ------------------------------------------------------------------
@@ -123,6 +136,24 @@ class KnowledgeBase:
         if brand and brand in self._brand_layers:
             base.extend(self._brand_layers[brand]["situations"])
         return base
+
+    def find_situation_by_id(
+        self, situation_id: str, brand: Optional[str] = None
+    ) -> Optional[Dict[str, Any]]:
+        """Look up a single situation by its 'id' field.
+
+        Brand layer takes priority over universal if brand is specified
+        and the situation_id exists in the brand layer.
+        Returns the situation dict or None if not found.
+        """
+        # Brand layer first (if specified)
+        if brand and brand in self._brand_situations_by_id:
+            brand_match = self._brand_situations_by_id[brand].get(situation_id)
+            if brand_match is not None:
+                return brand_match
+
+        # Universal layer
+        return self._universal_situations_by_id.get(situation_id)
 
     def find_situations_by_dtc(
         self, code: str, brand: Optional[str] = None

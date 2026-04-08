@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { theme } from '../../theme'
-import robotImg from '../../assets/robot-default.png'
+import robotImg from '../../assets/robot-default.jpg'
 
 interface RobotTooltipProps {
   text: string

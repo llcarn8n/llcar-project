@@ -1,9 +1,9 @@
 import { useState, useEffect } from 'react'
 import { theme } from '../../theme'
-import robotDefault from '../../assets/robot-default.png'
-import robotThumbsup from '../../assets/robot-thumbsup.png'
-import robotShield from '../../assets/robot-shield.png'
-import robotCelebrate from '../../assets/robot-celebrate.png'
+import robotDefault from '../../assets/robot-default.jpg'
+import robotThumbsup from '../../assets/robot-thumbsup.jpg'
+import robotShield from '../../assets/robot-shield.jpg'
+import robotCelebrate from '../../assets/robot-celebrate.jpg'
 
 interface OnboardingStep {
   title: string

@@ -1009,3 +1009,244 @@ class TestWeightedHealthScoring:
         assert scores["engine"] == 100
         assert scores["audio"] == 100
         assert scores["overall"] == 95
+
+
+# ---------------------------------------------------------------------------
+# Test: GAP-R4 — Minimum consecutive firings before display
+# ---------------------------------------------------------------------------
+
+class TestConsecutiveFirings:
+    """GAP-R4: Rules must fire 3+ times before status is likely/possible."""
+
+    def test_low_consecutive_demoted_to_monitoring(self):
+        """Rule with consecutive_count=1 is demoted to 'monitoring' status."""
+        kb = _make_kb_mock()
+        profile = _make_profile()
+        builder = DiagnosisBuilder(kb, profile)
+
+        esc = MagicMock()
+        esc.get_escalation_info.return_value = {
+            "first_seen": "2026-04-01T00:00:00+00:00",
+            "days_active": 1,
+            "level": 0,
+            "level_name": "notice",
+            "consecutive_count": 1,
+            "was_dismissed": False,
+            "max_confidence": 50,
+        }
+
+        pipeline_result = _make_pipeline_result(facts=[])
+        rule_results = [
+            _make_rule_result(
+                name="worn_suspension",  # severity=medium, not critical/high
+                display="Wear suspension",
+                confidence=55.0,
+                status="possible",
+                min_confidence=40,
+            ),
+        ]
+
+        report = builder.build_report(
+            pipeline_result, rule_results,
+            escalation_manager=esc,
+        )
+
+        assert len(report["diagnoses"]) == 1
+        diag = report["diagnoses"][0]
+        assert diag["status"] == "monitoring"
+        assert diag["confidence"] == 55.0  # confidence preserved
+
+    def test_three_consecutive_shows_normally(self):
+        """Rule with consecutive_count=3 is shown with original status."""
+        kb = _make_kb_mock()
+        profile = _make_profile()
+        builder = DiagnosisBuilder(kb, profile)
+
+        esc = MagicMock()
+        esc.get_escalation_info.return_value = {
+            "consecutive_count": 3,
+            "level": 0,
+        }
+
+        pipeline_result = _make_pipeline_result(facts=[])
+        rule_results = [
+            _make_rule_result(
+                name="worn_suspension",
+                display="Wear suspension",
+                confidence=55.0,
+                status="possible",
+                min_confidence=40,
+            ),
+        ]
+
+        report = builder.build_report(
+            pipeline_result, rule_results,
+            escalation_manager=esc,
+        )
+
+        assert len(report["diagnoses"]) == 1
+        diag = report["diagnoses"][0]
+        assert diag["status"] == "possible"  # not demoted
+
+    def test_critical_severity_bypasses_consecutive_check(self):
+        """Critical-severity rule shown immediately even with consecutive_count=1."""
+        kb = _make_kb_mock()
+        profile = _make_profile()
+        builder = DiagnosisBuilder(kb, profile)
+
+        esc = MagicMock()
+        esc.get_escalation_info.return_value = {
+            "consecutive_count": 1,
+            "level": 0,
+        }
+
+        pipeline_result = _make_pipeline_result(facts=[])
+        rule_results = [
+            _make_rule_result(
+                name="engine_overheating",  # severity=critical
+                display="Engine overheat",
+                confidence=75.0,
+                status="likely",
+                min_confidence=40,
+            ),
+        ]
+
+        report = builder.build_report(
+            pipeline_result, rule_results,
+            escalation_manager=esc,
+        )
+
+        assert len(report["diagnoses"]) == 1
+        diag = report["diagnoses"][0]
+        assert diag["status"] == "likely"  # not demoted due to critical severity
+
+    def test_high_severity_bypasses_consecutive_check(self):
+        """High-severity rule (misfire) shown immediately with consecutive_count=1."""
+        kb = _make_kb_mock()
+        profile = _make_profile()
+        builder = DiagnosisBuilder(kb, profile)
+
+        esc = MagicMock()
+        esc.get_escalation_info.return_value = {
+            "consecutive_count": 1,
+            "level": 0,
+        }
+
+        pipeline_result = _make_pipeline_result(facts=[])
+        rule_results = [
+            _make_rule_result(
+                name="misfire",  # severity=high
+                display="Misfire",
+                confidence=60.0,
+                status="possible",
+                min_confidence=40,
+            ),
+        ]
+
+        report = builder.build_report(
+            pipeline_result, rule_results,
+            escalation_manager=esc,
+        )
+
+        assert len(report["diagnoses"]) == 1
+        diag = report["diagnoses"][0]
+        assert diag["status"] == "possible"  # not demoted due to high severity
+
+    def test_no_escalation_manager_backward_compat(self):
+        """Without escalation_manager, consecutive check is skipped."""
+        kb = _make_kb_mock()
+        profile = _make_profile()
+        builder = DiagnosisBuilder(kb, profile)
+
+        pipeline_result = _make_pipeline_result(facts=[])
+        rule_results = [
+            _make_rule_result(
+                name="worn_suspension",
+                display="Wear suspension",
+                confidence=55.0,
+                status="possible",
+                min_confidence=40,
+            ),
+        ]
+
+        report = builder.build_report(pipeline_result, rule_results)
+
+        assert len(report["diagnoses"]) == 1
+        diag = report["diagnoses"][0]
+        assert diag["status"] == "possible"  # original status preserved
+
+    def test_monitoring_status_still_in_diagnoses_list(self):
+        """Monitoring-status diagnoses are still present (for health_scores)."""
+        kb = _make_kb_mock()
+        profile = _make_profile()
+        builder = DiagnosisBuilder(kb, profile)
+
+        esc = MagicMock()
+        esc.get_escalation_info.return_value = {
+            "consecutive_count": 1,
+            "level": 0,
+        }
+
+        pipeline_result = _make_pipeline_result(facts=[])
+        rule_results = [
+            _make_rule_result(
+                name="fuel_lean",
+                display="Lean",
+                confidence=50.0,
+                status="possible",
+                min_confidence=40,
+            ),
+        ]
+
+        report = builder.build_report(
+            pipeline_result, rule_results,
+            escalation_manager=esc,
+        )
+
+        # Diagnosis is still included but demoted
+        assert len(report["diagnoses"]) == 1
+        assert report["diagnoses"][0]["status"] == "monitoring"
+        # Health score still affected (rule fires at confidence=50)
+        assert report["health_scores"]["engine"] < 100
+
+    def test_escalation_error_keeps_original_status(self):
+        """If escalation_manager raises in _build_diagnoses, original status is preserved."""
+        kb = _make_kb_mock()
+        profile = _make_profile()
+        builder = DiagnosisBuilder(kb, profile)
+
+        # We need the error only during _build_diagnoses, but
+        # get_escalation_info is also called by _compute_health_scores
+        # and _compute_escalations. Use a counter to fail only on
+        # the specific call from _build_diagnoses (the second call).
+        call_count = [0]
+        def side_effect_fn(client_hash, rule_name):
+            call_count[0] += 1
+            # First call is from _compute_health_scores (graceful),
+            # second from _build_diagnoses (we want it to raise),
+            # third from _compute_escalations (also graceful).
+            if call_count[0] == 2:
+                raise RuntimeError("DB error")
+            return None
+
+        esc = MagicMock()
+        esc.get_escalation_info.side_effect = side_effect_fn
+
+        pipeline_result = _make_pipeline_result(facts=[])
+        rule_results = [
+            _make_rule_result(
+                name="worn_suspension",
+                display="Wear",
+                confidence=55.0,
+                status="possible",
+                min_confidence=40,
+            ),
+        ]
+
+        report = builder.build_report(
+            pipeline_result, rule_results,
+            escalation_manager=esc,
+        )
+
+        assert len(report["diagnoses"]) == 1
+        assert report["diagnoses"][0]["status"] == "possible"

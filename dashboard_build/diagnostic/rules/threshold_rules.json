@@ -9,6 +9,7 @@
         {"fact_type": "total_vibration", "operator": ">", "threshold": 4.0, "weight": 2},
         {"fact_type": "az_range", "operator": ">", "threshold": 8.0, "weight": 2}
       ],
+      "context": {"min_speed": 20},
       "min_confidence": 40,
       "cooldown_minutes": 10080,
       "situation_id": null,
@@ -49,6 +50,7 @@
         {"fact_type": "total_vibration", "operator": ">", "threshold": 3.0, "weight": 2},
         {"fact_type": "speed", "operator": ">", "threshold": 60.0, "weight": 1}
       ],
+      "context": {"min_speed": 20},
       "min_confidence": 40,
       "cooldown_minutes": 10080,
       "situation_id": null,
@@ -62,6 +64,7 @@
         {"fact_type": "dominant_freq", "operator": "<", "threshold": 80.0, "weight": 2},
         {"fact_type": "dominant_amp", "operator": "z>", "threshold": 2.0, "weight": 3}
       ],
+      "context": {"min_speed": 10},
       "min_confidence": 40,
       "cooldown_minutes": 10080,
       "situation_id": null,
@@ -75,6 +78,7 @@
         {"fact_type": "dominant_freq", "operator": ">", "threshold": 200.0, "weight": 2},
         {"fact_type": "dominant_amp", "operator": "z>", "threshold": 2.5, "weight": 3}
       ],
+      "context": {"min_speed": 10},
       "min_confidence": 40,
       "cooldown_minutes": 10080,
       "situation_id": null,
@@ -102,6 +106,7 @@
         {"fact_type": "ltft_abs", "operator": ">", "threshold": 10.0, "weight": 3},
         {"fact_type": "ltft_bank1", "operator": ">", "threshold": 0.0, "weight": 1}
       ],
+      "context": {"require_warm": true},
       "min_confidence": 40,
       "cooldown_minutes": 10080,
       "situation_id": null,
@@ -115,6 +120,7 @@
         {"fact_type": "ltft_abs", "operator": ">", "threshold": 10.0, "weight": 2},
         {"fact_type": "ltft_bank1", "operator": "<", "threshold": 0.0, "weight": 1}
       ],
+      "context": {"require_warm": true},
       "min_confidence": 40,
       "cooldown_minutes": 10080,
       "situation_id": null,
@@ -270,6 +276,7 @@
         {"fact_type": "speed", "operator": ">", "threshold": 60.0, "weight": 3},
         {"fact_type": "coolant_temp", "operator": "<", "threshold": 50.0, "weight": 2}
       ],
+      "context": {"require_warm": false},
       "min_confidence": 40,
       "cooldown_minutes": 10080,
       "situation_id": null,
@@ -335,6 +342,7 @@
       "conditions": [
         {"fact_type": "ltft_bank2", "operator": ">", "threshold": 10.0, "weight": 3}
       ],
+      "context": {"require_warm": true},
       "min_confidence": 40,
       "cooldown_minutes": 10080,
       "situation_id": null,
@@ -347,6 +355,7 @@
       "conditions": [
         {"fact_type": "ltft_bank2", "operator": "<", "threshold": -10.0, "weight": 3}
       ],
+      "context": {"require_warm": true},
       "min_confidence": 40,
       "cooldown_minutes": 10080,
       "situation_id": null,
@@ -373,6 +382,7 @@
         {"fact_type": "ltft_bank1", "operator": ">", "threshold": 0.0, "weight": 1},
         {"fact_type": "speed", "operator": "<", "threshold": 3.0, "weight": 1}
       ],
+      "context": {"require_warm": true},
       "min_confidence": 40,
       "cooldown_minutes": 10080,
       "situation_id": null,
@@ -387,6 +397,7 @@
         {"fact_type": "ltft_bank1", "operator": "<", "threshold": 0.0, "weight": 1},
         {"fact_type": "speed", "operator": "<", "threshold": 3.0, "weight": 1}
       ],
+      "context": {"require_warm": true},
       "min_confidence": 40,
       "cooldown_minutes": 10080,
       "situation_id": null,
@@ -480,6 +491,7 @@
         {"fact_type": "total_vibration", "operator": ">", "threshold": 7.0, "weight": 3},
         {"fact_type": "speed", "operator": ">", "threshold": 60.0, "weight": 2}
       ],
+      "context": {"min_speed": 20},
       "min_confidence": 60,
       "cooldown_minutes": 10080,
       "situation_id": null,
@@ -493,6 +505,7 @@
         {"fact_type": "ax_std", "operator": "z>", "threshold": 2.5, "weight": 3},
         {"fact_type": "speed", "operator": ">", "threshold": 40.0, "weight": 1}
       ],
+      "context": {"min_speed": 20},
       "min_confidence": 40,
       "cooldown_minutes": 10080,
       "situation_id": null,
@@ -520,6 +533,7 @@
         {"fact_type": "speed", "operator": ">", "threshold": 30.0, "weight": 1},
         {"fact_type": "az_std", "operator": ">", "threshold": 3.0, "weight": 2}
       ],
+      "context": {"min_speed": 20},
       "min_confidence": 40,
       "cooldown_minutes": 10080,
       "situation_id": null,
@@ -587,6 +601,7 @@
         {"fact_type": "dominant_amp", "operator": "z>", "threshold": 2.0, "weight": 3},
         {"fact_type": "rpm", "operator": ">", "threshold": 1000.0, "weight": 1}
       ],
+      "context": {"min_speed": 10},
       "min_confidence": 40,
       "cooldown_minutes": 10080,
       "situation_id": null,
@@ -602,6 +617,7 @@
         {"fact_type": "speed", "operator": ">", "threshold": 40.0, "weight": 1},
         {"fact_type": "rpm", "operator": ">", "threshold": 2000.0, "weight": 1}
       ],
+      "context": {"min_speed": 10},
       "min_confidence": 40,
       "cooldown_minutes": 10080,
       "situation_id": null,
@@ -1213,6 +1229,7 @@
         {"fact_type": "voltage", "operator": "<", "threshold": 12.0, "weight": 2},
         {"fact_type": "rpm", "operator": "<", "threshold": 500.0, "weight": 2}
       ],
+      "context": {"require_warm": false},
       "min_confidence": 40,
       "cooldown_minutes": 10080,
       "situation_id": null,

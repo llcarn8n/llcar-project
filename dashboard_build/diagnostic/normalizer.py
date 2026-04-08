@@ -82,6 +82,7 @@ class NormalizedPacket:
     regime: DrivingRegime = DrivingRegime.UNKNOWN
     engine_context: EngineContext = field(default_factory=EngineContext)
     tier: str = "T1"
+    regime_stable: bool = True  # GAP-P2: False when regime just changed
 
 
 # ---------------------------------------------------------------------------
@@ -203,11 +204,20 @@ def _detect_tier(raw: dict) -> str:
 # Public API
 # ---------------------------------------------------------------------------
 
-def normalize_packet(raw: dict) -> NormalizedPacket:
+def normalize_packet(
+    raw: dict,
+    previous_regime: Optional[DrivingRegime] = None,
+) -> NormalizedPacket:
     """Validate raw telemetry dict and return a fully normalized packet.
 
     Fields outside physical bounds are set to None.
     Driving regime, engine context, and data tier are computed.
+
+    Args:
+        raw: Raw telemetry dict with OBD/accel/audio fields.
+        previous_regime: If provided, regime_stable will be False when the
+            current regime differs from the previous one (GAP-P2).
+            When None, regime_stable defaults to True (backward compat).
     """
     # Validate bounded OBD fields
     rpm = _validate_field(raw, "rpm")
@@ -249,6 +259,11 @@ def normalize_packet(raw: dict) -> NormalizedPacket:
     engine_context = _build_engine_context(coolant_temp)
     tier = _detect_tier(raw)
 
+    # GAP-P2: Regime stability — False when regime just changed
+    regime_stable = True
+    if previous_regime is not None and previous_regime != regime:
+        regime_stable = False
+
     return NormalizedPacket(
         rpm=rpm,
         speed=speed,
@@ -280,4 +295,5 @@ def normalize_packet(raw: dict) -> NormalizedPacket:
         regime=regime,
         engine_context=engine_context,
         tier=tier,
+        regime_stable=regime_stable,
     )

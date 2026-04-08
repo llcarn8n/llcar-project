@@ -194,6 +194,12 @@ _SEVERITY_TO_DRIVE: Dict[str, str] = {
     "critical": "caution",
     "warning": "caution",
     "ok": "safe",
+    "normal": "safe",
+    "borderline": "safe",
+    "elevated": "caution",
+    "problem": "caution",
+    "defect": "stop",
+    "info": "safe",
 }
 
 # Priority order for can_drive: stop > caution > safe
@@ -267,8 +273,10 @@ class DiagnosisBuilder:
         # Block 3: health_trends (CUSUM-based)
         health_trends = self._compute_health_trends(history)
 
-        # Block 4: diagnoses
-        diagnoses = self._build_diagnoses(pipeline_result, rule_results)
+        # Block 4: diagnoses (pass escalation_manager for GAP-R4 consecutive check)
+        diagnoses = self._build_diagnoses(
+            pipeline_result, rule_results, escalation_manager,
+        )
 
         # Block 5: fuel_loss
         fuel_loss = self._compute_fuel_loss(fuel_trim_result)
@@ -421,15 +429,26 @@ class DiagnosisBuilder:
     # Block 4: diagnoses
     # ------------------------------------------------------------------
 
+    # Minimum consecutive firings before a rule is shown as likely/possible.
+    # Critical-severity rules bypass this requirement (shown immediately).
+    _MIN_CONSECUTIVE_FIRINGS = 3
+    _BYPASS_SEVERITIES = frozenset({"critical", "high"})
+
     def _build_diagnoses(
         self,
         pipeline_result: Dict[str, Any],
         rule_results: List[Dict[str, Any]],
+        escalation_manager: Optional[Any] = None,
     ) -> List[Dict[str, Any]]:
         """Build the diagnoses list from fired rules.
 
         Only includes rules where confidence >= the rule's min_confidence.
         Each diagnosis is enriched with KB data if available.
+
+        GAP-R4: Rules that have fired fewer than _MIN_CONSECUTIVE_FIRINGS
+        times are demoted to status='monitoring' (unless severity is
+        critical/high). They still count toward health_scores but are not
+        shown as actionable diagnoses to the user.
         """
         facts: List[Fact] = pipeline_result.get("facts", [])
         brand = self._profile.brand
@@ -446,10 +465,30 @@ class DiagnosisBuilder:
             # Collect evidence from facts matching this rule's tier
             evidence = self._collect_evidence(facts, rr)
 
+            # Determine effective status (may be demoted to 'monitoring')
+            effective_status = rr["status"]
+
+            # GAP-R4: Require 3+ consecutive firings before displaying
+            # as likely/possible. Critical/high severity rules bypass this.
+            if escalation_manager is not None:
+                severity = _RULE_SEVERITY.get(rr["name"], "medium")
+                if severity not in self._BYPASS_SEVERITIES:
+                    try:
+                        info = escalation_manager.get_escalation_info(
+                            self._profile.client_hash, rr["name"]
+                        )
+                        consecutive = 0
+                        if info is not None:
+                            consecutive = info.get("consecutive_count", 0)
+                        if consecutive < self._MIN_CONSECUTIVE_FIRINGS:
+                            effective_status = "monitoring"
+                    except Exception:
+                        pass  # Graceful degradation — keep original status
+
             diagnosis: Dict[str, Any] = {
                 "rule_name": rr["name"],
                 "display": rr["display"],
-                "status": rr["status"],
+                "status": effective_status,
                 "confidence": rr["confidence"],
                 "explanation": kb_data.get("quickAnswer", f"Диагностика: {rr['display']}"),
                 "evidence": evidence,
@@ -485,8 +524,13 @@ class DiagnosisBuilder:
             if situations:
                 return situations[0]
 
-        # TODO Plan 3: add KnowledgeBase.find_situation_by_id() and use
-        # rule_result.get("situation_id") here for rules without DTC codes.
+        # Try situation_id lookup for rules without DTC codes
+        situation_id = rule_result.get("situation_id")
+        if situation_id:
+            situation = self._kb.find_situation_by_id(situation_id, brand=brand)
+            if situation is not None:
+                return situation
+
         return {}
 
     @staticmethod
@@ -552,15 +596,18 @@ class DiagnosisBuilder:
         for rr in rule_results:
             if rr["confidence"] < rr.get("min_confidence", 40):
                 continue
-            info = escalation_manager.get_escalation_info(
-                self._profile.client_hash, rr["name"]
-            )
-            if info is not None and info.get("consecutive_count", 0) > 0:
-                escalations.append({
-                    "rule_name": rr["name"],
-                    "display": rr["display"],
-                    **info,
-                })
+            try:
+                info = escalation_manager.get_escalation_info(
+                    self._profile.client_hash, rr["name"]
+                )
+                if info is not None and info.get("consecutive_count", 0) > 0:
+                    escalations.append({
+                        "rule_name": rr["name"],
+                        "display": rr["display"],
+                        **info,
+                    })
+            except Exception:
+                pass  # Graceful degradation
 
         return sorted(escalations, key=lambda x: x.get("level", 0), reverse=True)
 

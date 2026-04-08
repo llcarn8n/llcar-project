@@ -1,6 +1,6 @@
 import { useState, useCallback } from 'react'
-import robotDefault from '../../assets/robot-default.png'
-import obdGuideImg from '../../assets/obd-guide.png'
+import robotDefault from '../../assets/robot-default.jpg'
+import obdGuideImg from '../../assets/obd-guide.jpg'
 
 // ── Types ──
 
@@ -50,6 +50,7 @@ const STEPS: WizardStep[] = [
     title: 'Подключите сканер',
     description: 'Вставьте компактный BT-адаптер в разъём OBD-II до характерного щелчка.',
     warning: 'Вставляйте плотно, не раскачивайте адаптер.',
+    image: obdGuideImg,
   },
   {
     icon: '\u{1F511}', // key
@@ -68,12 +69,6 @@ const STEPS: WizardStep[] = [
       'Стандартный пароль: 1234 или 0000',
       'Название устройства: OBD-II, ELM327 или OBDII',
     ],
-  },
-  {
-    icon: '\u{1F680}', // rocket
-    title: 'Запустите диагностику',
-    description: 'Сканер инициализируется и отобразит данные вашего автомобиля в приложении LLCAR.',
-    warning: 'Не отключайте сканер во время диагностики. Отключайте только при выключенном зажигании.',
   },
 ]
 

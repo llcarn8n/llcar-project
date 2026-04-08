@@ -1,4 +1,3 @@
-import { useCallback } from 'react'
 import { MainLayout } from './layouts/MainLayout'
 import { Dashboard } from './pages/Dashboard'
 import { Diagnostics } from './pages/Diagnostics'
@@ -14,38 +13,15 @@ function App() {
     vehicleProfile,
     showVehicleSetup,
     closeVehicleSetup,
-    connectionDone,
-    setConnectionDone,
     showConnectionWizard,
     closeConnectionWizard,
   } = useDashboardStore()
 
-  const handleSetupComplete = useCallback(() => {
-    closeVehicleSetup()
-  }, [closeVehicleSetup])
-
-  const handleConnectionComplete = useCallback(() => {
-    setConnectionDone(true)
-  }, [setConnectionDone])
-
-  const handleConnectionWizardClose = useCallback(() => {
-    closeConnectionWizard()
-  }, [closeConnectionWizard])
-
-  // First-time user: no vehicle profile yet
+  // First-time user: no vehicle profile yet — go straight to dashboard after setup
   if (!vehicleProfile) {
     return (
       <ThemeProvider>
         <VehicleSetup onComplete={() => {}} />
-      </ThemeProvider>
-    )
-  }
-
-  // Vehicle profile set, but connection guide not completed yet
-  if (!connectionDone) {
-    return (
-      <ThemeProvider>
-        <ConnectionWizard onComplete={handleConnectionComplete} />
       </ThemeProvider>
     )
   }
@@ -57,13 +33,13 @@ function App() {
         {activeTab === 'diagnostics' && <Diagnostics />}
         {activeTab === 'trips' && <Trips />}
       </MainLayout>
-      {/* Re-edit vehicle profile modal (opened from sidebar) */}
+      {/* Re-edit vehicle profile modal */}
       {showVehicleSetup && (
-        <VehicleSetup asModal onComplete={handleSetupComplete} />
+        <VehicleSetup asModal onComplete={() => closeVehicleSetup()} />
       )}
-      {/* Re-open connection wizard modal (opened from sidebar) */}
+      {/* Connection wizard modal (from sidebar) */}
       {showConnectionWizard && (
-        <ConnectionWizard asModal onComplete={handleConnectionWizardClose} />
+        <ConnectionWizard asModal onComplete={() => closeConnectionWizard()} />
       )}
     </ThemeProvider>
   )

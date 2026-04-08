@@ -18,7 +18,7 @@ from .facts import Fact, FactGenerator
 from .feature_extractor import extract_features
 from .fuel_trim_analyzer import FuelTrimAnalyzer
 from .knowledge_base import KnowledgeBase
-from .normalizer import NormalizedPacket, normalize_packet
+from .normalizer import DrivingRegime, NormalizedPacket, normalize_packet
 from .rule_engine import RuleEngine
 from .vehicle_profile import VehicleProfile
 
@@ -79,6 +79,9 @@ class DiagnosticPipeline:
         self._rule_engine = RuleEngine()
         self._diagnosis_builder = DiagnosisBuilder(self._kb, vehicle_profile)
 
+        # GAP-P2: Track previous regime for regime stability detection
+        self._previous_regime: Optional[DrivingRegime] = None
+
     def process(self, raw_data: dict) -> Dict[str, Any]:
         """Process a single raw telemetry packet through the full diagnostic pipeline.
 
@@ -91,8 +94,12 @@ class DiagnosticPipeline:
             baseline_ready:      bool (all key features have enough samples)
             baseline_confidence: float (0.0 to 1.0)
         """
-        # Step 1: Normalize
-        packet: NormalizedPacket = normalize_packet(raw_data)
+        # Step 1: Normalize (pass previous_regime for GAP-P2 stability detection)
+        packet: NormalizedPacket = normalize_packet(
+            raw_data, previous_regime=self._previous_regime,
+        )
+        # Update previous regime for next call
+        self._previous_regime = packet.regime
 
         # Step 2: Extract features
         features: Dict[str, Any] = extract_features(packet)
@@ -122,8 +129,10 @@ class DiagnosticPipeline:
         regime_str = packet.regime.value
         self.baselines.update(packet.regime, baseline_features)
 
-        # Step 5: Generate facts
-        facts: List[Fact] = self._fact_generator.generate(packet, features)
+        # Step 5: Generate facts (pass baselines for z-score anomaly detection)
+        facts: List[Fact] = self._fact_generator.generate(
+            packet, features, baselines=self.baselines,
+        )
 
         # Step 6: Build result
         return {
@@ -187,6 +196,25 @@ class DiagnosticPipeline:
             regime=packet.regime,
             packet=packet,
         )
+
+        # GAP-P2: Regime stability filter — during regime transitions, data is
+        # unreliable. Reduce confidence by 50% for all rule results when regime
+        # just changed. This prevents false positives from transient spikes
+        # (e.g. brief deceleration triggering idle-regime rules).
+        if not packet.regime_stable:
+            for rr in rule_results:
+                original = rr["confidence"]
+                rr["confidence"] = round(original * 0.5, 1)
+                # Recompute status based on reduced confidence
+                c = rr["confidence"]
+                if c >= 70:
+                    rr["status"] = "likely"
+                elif c >= 40:
+                    rr["status"] = "possible"
+                elif c > 0:
+                    rr["status"] = "unlikely"
+                else:
+                    rr["status"] = "clear"
 
         # Step 4: Build diagnosis report
         report = self._diagnosis_builder.build_report(

@@ -9,8 +9,9 @@ Each rule produces a confidence score (0-100) and a status string.
 Confidence scoring has 3 components:
   - match_score   (40%): fraction of conditions met, weighted
   - deviation_score (40%): how far beyond thresholds values are
-  - persistence_score (4%): placeholder for Plan 2 (first occurrence = 0.2)
-    (max 20%, but without DB history persistence_ratio stays at 0.2)
+  - persistence_score (0-20%): scales with consecutive firing count from
+    EscalationManager.  count=0→0%, 1→4%, 3→12%, 5+→20%.
+    Falls back to 4% when no escalation_manager is provided.
 
 Status mapping:
   - confidence >= 70 → "likely"
@@ -29,6 +30,11 @@ from typing import Any, Dict, List, Optional, Tuple, Union
 from .baseline_store import BaselineStore
 from .normalizer import DrivingRegime, NormalizedPacket
 
+# Type-only import to avoid circular dependency at runtime
+from typing import TYPE_CHECKING
+if TYPE_CHECKING:
+    from .escalation import EscalationManager
+
 # ---------------------------------------------------------------------------
 # Rule directory
 # ---------------------------------------------------------------------------
@@ -36,14 +42,30 @@ from .normalizer import DrivingRegime, NormalizedPacket
 _RULES_DIR = Path(__file__).parent / "rules"
 
 # ---------------------------------------------------------------------------
-# Persistence placeholder (Plan 2 — no DB history yet)
+# Persistence scoring
 # ---------------------------------------------------------------------------
-
-_PERSISTENCE_RATIO: float = 0.2
-"""Placeholder: 1 occurrence → ratio = 0.2.  Full range: 1→0.2, 3→0.6, 5+→1.0."""
 
 _PERSISTENCE_WEIGHT: float = 20.0
 """Maximum points from the persistence component."""
+
+_PERSISTENCE_FALLBACK_RATIO: float = 0.2
+"""Default ratio when no escalation_manager is available (backward compat)."""
+
+
+def _persistence_ratio_from_count(consecutive_count: int) -> float:
+    """Map consecutive firing count to persistence ratio (0.0 .. 1.0).
+
+    Mapping:
+      count=0 → 0.0  (never fired before, no bonus)
+      count=1 → 0.2  (first occurrence, minimal bonus)
+      count=2 → 0.4
+      count=3 → 0.6
+      count=4 → 0.8
+      count>=5 → 1.0  (maximum persistence)
+    """
+    if consecutive_count <= 0:
+        return 0.0
+    return min(consecutive_count * 0.2, 1.0)
 
 # ---------------------------------------------------------------------------
 # Dataclasses
@@ -69,6 +91,25 @@ class RuleCondition:
 
 
 @dataclass
+class RuleContext:
+    """Driving-context constraints that must be satisfied before a rule fires.
+
+    All fields are optional; only specified fields are checked.
+
+    Attributes:
+        regimes:      Allowed driving regimes (e.g. ["highway", "city"]).
+                      Empty list = any regime is acceptable.
+        require_warm: If True, engine must be warm (coolant_temp >= 70).
+                      If False, engine must be cold (coolant_temp < 70).
+                      If None, no engine warmth check.
+        min_speed:    Minimum speed (km/h) required.  None = no check.
+    """
+    regimes: List[str] = field(default_factory=list)
+    require_warm: Optional[bool] = None
+    min_speed: Optional[float] = None
+
+
+@dataclass
 class DiagnosticRule:
     """A complete diagnostic rule with one or more conditions.
 
@@ -81,6 +122,7 @@ class DiagnosticRule:
         cooldown_minutes: Minimum time between firings (default 10080 = 7 days).
         situation_id:     Optional link to a KB situation.
         dtc_codes:        Associated DTC codes (informational).
+        context:          Optional driving-context constraints.
     """
     name: str
     display: str
@@ -90,6 +132,7 @@ class DiagnosticRule:
     cooldown_minutes: int = 10080
     situation_id: Optional[str] = None
     dtc_codes: List[str] = field(default_factory=list)
+    context: Optional[RuleContext] = None
 
 
 # ---------------------------------------------------------------------------
@@ -147,6 +190,16 @@ class RuleEngine:
                     context=cd.get("context"),
                 ))
 
+            # Parse optional context constraints
+            ctx_data = rd.get("context")
+            rule_context: Optional[RuleContext] = None
+            if ctx_data is not None:
+                rule_context = RuleContext(
+                    regimes=ctx_data.get("regimes", []),
+                    require_warm=ctx_data.get("require_warm"),
+                    min_speed=ctx_data.get("min_speed"),
+                )
+
             rule = DiagnosticRule(
                 name=rd["name"],
                 display=rd["display"],
@@ -156,6 +209,7 @@ class RuleEngine:
                 cooldown_minutes=rd.get("cooldown_minutes", 10080),
                 situation_id=rd.get("situation_id"),
                 dtc_codes=rd.get("dtc_codes", []),
+                context=rule_context,
             )
             self.rules.append(rule)
 
@@ -310,6 +364,52 @@ class RuleEngine:
     # Rule evaluation
     # ------------------------------------------------------------------
 
+    # ------------------------------------------------------------------
+    # Context checking
+    # ------------------------------------------------------------------
+
+    @staticmethod
+    def _check_context(
+        rule: DiagnosticRule,
+        regime: Union[str, Enum],
+        packet: NormalizedPacket,
+    ) -> bool:
+        """Check if the current driving context matches the rule's context constraints.
+
+        Returns True if context matches (or rule has no context), False otherwise.
+        """
+        ctx = rule.context
+        if ctx is None:
+            return True
+
+        # Check regimes
+        if ctx.regimes:
+            regime_str = regime.value if isinstance(regime, Enum) else str(regime)
+            if regime_str not in ctx.regimes:
+                return False
+
+        # Check require_warm
+        if ctx.require_warm is not None:
+            coolant = getattr(packet, "coolant_temp", None)
+            if coolant is not None:
+                is_warm = coolant >= 70.0
+                if ctx.require_warm and not is_warm:
+                    return False
+                if not ctx.require_warm and is_warm:
+                    return False
+
+        # Check min_speed
+        if ctx.min_speed is not None:
+            speed = getattr(packet, "speed", None)
+            if speed is not None and speed < ctx.min_speed:
+                return False
+
+        return True
+
+    # ------------------------------------------------------------------
+    # Rule evaluation
+    # ------------------------------------------------------------------
+
     def evaluate_rule(
         self,
         rule: DiagnosticRule,
@@ -318,6 +418,8 @@ class RuleEngine:
         baselines: BaselineStore,
         regime: Union[str, Enum],
         packet: NormalizedPacket,
+        escalation_manager: Optional[Any] = None,
+        client_hash: Optional[str] = None,
     ) -> Dict[str, Any]:
         """Evaluate a single rule against current data.
 
@@ -328,6 +430,8 @@ class RuleEngine:
             baselines:  BaselineStore for z-score computations.
             regime:     Current driving regime.
             packet:     NormalizedPacket with raw OBD/accel/audio fields.
+            escalation_manager: Optional EscalationManager for persistence lookup.
+            client_hash: Optional client identifier for escalation_manager lookups.
 
         Returns:
             Dict with keys: name, display, tier, confidence (0-100),
@@ -336,6 +440,20 @@ class RuleEngine:
         """
         if not rule.conditions:
             return self._make_result(rule, 0.0, 0, 0)
+
+        # --- GAP-R2: Cooldown enforcement ---
+        # If the user dismissed this rule and it's still in cooldown,
+        # return confidence=0 immediately to prevent reappearance.
+        if escalation_manager is not None and client_hash is not None:
+            try:
+                if escalation_manager.is_in_cooldown(client_hash, rule.name):
+                    return self._make_result(rule, 0.0, 0, len(rule.conditions))
+            except Exception:
+                pass  # Graceful degradation — proceed without cooldown check
+
+        # --- Context gate: if driving context doesn't match, rule can't fire ---
+        if not self._check_context(rule, regime, packet):
+            return self._make_result(rule, 0.0, 0, len(rule.conditions))
 
         total_weight = sum(c.weight for c in rule.conditions)
         met_weight = 0
@@ -377,8 +495,22 @@ class RuleEngine:
             avg_deviation = 0.0
         deviation_score = avg_deviation * match_ratio * 40.0
 
-        # Component 3: persistence_score (max 20%, placeholder = 4%)
-        persistence_score = _PERSISTENCE_RATIO * _PERSISTENCE_WEIGHT
+        # Component 3: persistence_score (max 20%)
+        # Look up consecutive firing count from escalation_manager if available
+        persistence_ratio = _PERSISTENCE_FALLBACK_RATIO
+        if escalation_manager is not None and client_hash is not None:
+            try:
+                rec = escalation_manager.get_record(client_hash, rule.name)
+                if rec is not None:
+                    persistence_ratio = _persistence_ratio_from_count(
+                        rec.consecutive_count,
+                    )
+                else:
+                    # No record = never fired before → no persistence bonus
+                    persistence_ratio = 0.0
+            except Exception:
+                pass  # Graceful degradation — use fallback
+        persistence_score = persistence_ratio * _PERSISTENCE_WEIGHT
 
         # Total confidence
         confidence = match_score + deviation_score + persistence_score
@@ -408,6 +540,8 @@ class RuleEngine:
         baselines: BaselineStore,
         regime: Union[str, Enum],
         packet: NormalizedPacket,
+        escalation_manager: Optional[Any] = None,
+        client_hash: Optional[str] = None,
     ) -> List[Dict[str, Any]]:
         """Evaluate all loaded rules, return results sorted by confidence desc.
 
@@ -417,6 +551,11 @@ class RuleEngine:
             baselines:  BaselineStore for z-score computations.
             regime:     Current driving regime.
             packet:     NormalizedPacket with raw fields.
+            escalation_manager: Optional EscalationManager for persistence-based
+                                confidence scoring.  When provided along with
+                                client_hash, each rule's persistence component
+                                scales with its consecutive firing count.
+            client_hash: Optional client identifier used with escalation_manager.
 
         Returns:
             List of result dicts, sorted by confidence descending.
@@ -425,6 +564,8 @@ class RuleEngine:
         for rule in self.rules:
             result = self.evaluate_rule(
                 rule, facts, features, baselines, regime, packet,
+                escalation_manager=escalation_manager,
+                client_hash=client_hash,
             )
             results.append(result)
 

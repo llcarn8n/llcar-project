@@ -469,6 +469,32 @@ export function DiagnosisCardV2({ report, loading, onFeedback, clientHash }: Dia
           )}
         </div>
         <div style={{ display: 'flex', alignItems: 'center', gap: 6 }}>
+          {/* Data source dots — always visible when report loaded */}
+          {report.data_source && (
+            <div style={{ display: 'flex', alignItems: 'center', gap: 6, marginRight: 4 }}>
+              {[
+                { label: 'OBD', ok: report.data_source.has_obd },
+                { label: 'ACCEL', ok: report.data_source.has_accel },
+                { label: 'AUDIO', ok: report.data_source.has_audio },
+              ].map(({ label, ok }) => (
+                <div key={label} style={{ display: 'flex', alignItems: 'center', gap: 3 }} title={`${label}: ${ok ? 'данные есть' : 'нет данных'}`}>
+                  <div style={{
+                    width: 6, height: 6, borderRadius: '50%',
+                    backgroundColor: ok ? theme.status.ok : 'rgba(255,255,255,0.15)',
+                    boxShadow: ok ? `0 0 5px ${theme.status.ok}` : 'none',
+                    transition: 'all 0.3s ease',
+                  }} />
+                  <span style={{
+                    fontSize: 8, fontFamily: "'Orbitron', sans-serif",
+                    color: ok ? theme.text.secondary : 'rgba(255,255,255,0.2)',
+                    letterSpacing: '0.08em',
+                  }}>
+                    {label}
+                  </span>
+                </div>
+              ))}
+            </div>
+          )}
           <ShareButton report={report} clientHash={clientHash || ''} />
           <button
             onClick={(e) => { e.stopPropagation(); exportReport(report, clientHash || ''); }}
@@ -612,33 +638,6 @@ export function DiagnosisCardV2({ report, loading, onFeedback, clientHash }: Dia
         </span>
       </div>
 
-      {/* Data source indicator */}
-      {report.data_source && (
-        <div style={{
-          display: 'flex', gap: 10, justifyContent: 'center', marginTop: 6,
-        }}>
-          {[
-            { label: 'OBD', ok: report.data_source.has_obd },
-            { label: 'ACCEL', ok: report.data_source.has_accel },
-            { label: 'AUDIO', ok: report.data_source.has_audio },
-          ].map(({ label, ok }) => (
-            <div key={label} style={{ display: 'flex', alignItems: 'center', gap: 3 }}>
-              <div style={{
-                width: 5, height: 5, borderRadius: '50%',
-                backgroundColor: ok ? theme.status.ok : 'rgba(255,255,255,0.15)',
-                boxShadow: ok ? `0 0 4px ${theme.status.ok}` : 'none',
-              }} />
-              <span style={{
-                fontSize: 8, fontFamily: "'Orbitron', sans-serif",
-                color: ok ? theme.text.muted : 'rgba(255,255,255,0.15)',
-                letterSpacing: '0.08em',
-              }}>
-                {label}
-              </span>
-            </div>
-          ))}
-        </div>
-      )}
     </GlassPanel>
   )
 }

@@ -1,9 +1,10 @@
-import { Suspense, lazy, useState } from 'react'
+import { Suspense, lazy, useState, useMemo } from 'react'
 
 const SmartSphere = lazy(() => import('../components/three/SmartSphere').then(m => ({ default: m.SmartSphere })))
 import { AudioSpectrum } from '../components/panels/AudioSpectrum'
 import { DiagnosisCard } from '../components/panels/DiagnosisCard'
 import { AnomalyTimeline } from '../components/panels/AnomalyTimeline'
+import type { HistoryPoint } from '../components/panels/AnomalyTimeline'
 import { TimelineScrubber } from '../components/panels/TimelineScrubber'
 import { GlassPanel } from '../components/shared/GlassPanel'
 import { HealthBar } from '../components/shared/HealthBar'
@@ -28,7 +29,33 @@ const CUSUMChart = lazy(() => import('../components/panels/CUSUMChart').then(m =
 
 export function Diagnostics() {
   const { clientHash, timeRange, expertMode, toggleExpert, useV2Api, toggleV2Api } = useDashboardStore()
-  const { report: v2Report, history: v2History, loading: v2Loading, error: _v2Error, sendFeedback } = useDiagnosticV2(clientHash)
+  const { report: v2Report, history: v2History, loading: v2Loading, error: _v2Error, sendFeedback, fetchLatest } = useDiagnosticV2(clientHash)
+  const [manualLoading, setManualLoading] = useState(false)
+
+  // Adapter: convert V2 HistoryEntry[] to AnomalyTimeline's HistoryPoint[]
+  const v2HistoryAdapted = useMemo<HistoryPoint[]>(() => {
+    if (!v2History || v2History.length === 0) return []
+    return v2History.map((entry) => ({
+      time: entry.time,
+      overall: entry.overall_score,
+      suspension: entry.suspension_score,
+      engine: entry.engine_score,
+      electrical: entry.electrical_score,
+      audio: entry.audio_score,
+      confidence: entry.confidence,
+      degradation: false,
+      trend: 0,
+      regime: 'unknown',
+      top_diagnostic: entry.top_diagnostic || '',
+      top_diagnostic_confidence: entry.top_diagnostic_confidence,
+    }))
+  }, [v2History])
+
+  const handleRunDiagnostic = async () => {
+    setManualLoading(true)
+    await fetchLatest()
+    setManualLoading(false)
+  }
 
   const { data: anomaly } = useApiData<any>({
     endpoint: '/api/anomaly/',
@@ -109,7 +136,46 @@ export function Diagnostics() {
         onClick={() => toggle('diag')}
       >
         {useV2Api ? (
-          <DiagnosisCardV2 report={v2Report} loading={v2Loading} onFeedback={sendFeedback} clientHash={clientHash} />
+          <div className="flex flex-col gap-2">
+            <DiagnosisCardV2 report={v2Report} loading={v2Loading} onFeedback={sendFeedback} clientHash={clientHash} />
+            <button
+              onClick={(e) => { e.stopPropagation(); handleRunDiagnostic() }}
+              disabled={manualLoading}
+              className="w-full py-2 px-4 rounded transition-all duration-300"
+              style={{
+                fontFamily: "'Orbitron', sans-serif",
+                fontSize: 12,
+                letterSpacing: '0.15em',
+                textTransform: 'uppercase' as const,
+                color: manualLoading ? theme.text.muted : theme.accent.cyan,
+                background: manualLoading
+                  ? 'rgba(0,229,255,0.03)'
+                  : 'rgba(0,229,255,0.06)',
+                border: `1px solid ${manualLoading ? 'rgba(0,229,255,0.1)' : 'rgba(0,229,255,0.3)'}`,
+                backdropFilter: 'blur(12px)',
+                boxShadow: manualLoading
+                  ? 'none'
+                  : `0 0 16px rgba(0,229,255,0.1), inset 0 0 12px rgba(0,229,255,0.05)`,
+                cursor: manualLoading ? 'wait' : 'pointer',
+              }}
+            >
+              {manualLoading ? (
+                <span style={{ display: 'inline-flex', alignItems: 'center', gap: 8 }}>
+                  <span className="animate-spin" style={{
+                    display: 'inline-block',
+                    width: 14,
+                    height: 14,
+                    border: '2px solid rgba(0,229,255,0.2)',
+                    borderTopColor: theme.accent.cyan,
+                    borderRadius: '50%',
+                  }} />
+                  Анализ...
+                </span>
+              ) : (
+                'Запустить диагностику'
+              )}
+            </button>
+          </div>
         ) : (
           <DiagnosisCard
             diagnostics={diagnostics}
@@ -220,7 +286,7 @@ export function Diagnostics() {
       </div>
 
       <div className={`${expanded ? 'hidden' : useV2Api ? 'col-span-12 lg:col-span-6' : 'col-span-12 lg:col-span-9'}`}>
-        <AnomalyTimeline history={historyData?.history ?? []} />
+        <AnomalyTimeline history={useV2Api ? v2HistoryAdapted : (historyData?.history ?? [])} />
       </div>
 
       {useV2Api && !expanded && (
@@ -232,7 +298,7 @@ export function Diagnostics() {
       {/* Timeline Scrubber — full width */}
       {!expanded && (
         <div className="col-span-12">
-          <TimelineScrubber history={historyData?.history ?? []} />
+          <TimelineScrubber history={useV2Api ? v2HistoryAdapted : (historyData?.history ?? [])} />
         </div>
       )}
 

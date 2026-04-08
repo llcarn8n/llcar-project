@@ -1,6 +1,6 @@
 import { useState, useEffect, useCallback, useMemo } from 'react'
 import { useDashboardStore } from '../../stores/dashboardStore'
-import robotDefault from '../../assets/robot-default.png'
+import robotDefault from '../../assets/robot-default.jpg'
 import vehiclesData from '../../data/vehicles.json'
 
 // ── Types ──
