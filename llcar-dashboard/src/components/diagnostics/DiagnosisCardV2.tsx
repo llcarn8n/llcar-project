@@ -42,6 +42,7 @@ const PARAM_NORMS: Record<string, { min: number; max: number; unit: string }> = 
 
 /** Parse evidence strings like "az_std > 2.5" or "coolant_temp = 98.3" */
 function parseEvidence(ev: string): { param: string; value: number } | null {
+  if (typeof ev !== 'string') return null
   const m = ev.match(/^(\w+)\s*[><=!]+\s*([\d.]+)/)
   if (!m) return null
   return { param: m[1], value: parseFloat(m[2]) }
