@@ -316,13 +316,11 @@ class TestEdgeCases:
         baselines = _make_baselines_store()
 
         results = engine.run_all([], features, baselines, packet.regime, packet)
-        # Placeholders: no OBD/PHEV sensor data yet
+        # Only oil_pressure_low remains as a true placeholder (empty conditions).
+        # PHEV rules (battery_temp_high, soc_critical, range_extender_overwork,
+        # motor_overheat) now have real conditions and are no longer placeholders.
         placeholders = [r for r in results if r["name"] in (
             "oil_pressure_low",
-            "battery_temp_high",
-            "soc_critical",
-            "range_extender_overwork",
-            "motor_overheat",
         )]
         for r in placeholders:
             assert r["confidence"] == 0

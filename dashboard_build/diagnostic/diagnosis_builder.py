@@ -32,6 +32,21 @@ _RULE_TO_SYSTEM: Dict[str, str] = {
     # suspension
     "worn_suspension": "suspension",
     "wheel_imbalance": "suspension",
+    "harsh_road_surface": "suspension",
+    "front_suspension_worn": "suspension",
+    "lateral_instability": "suspension",
+    "shock_absorber_worn": "suspension",
+    "stabilizer_link_worn": "suspension",
+    "high_crest_vertical": "suspension",
+    "vibration_at_speed": "suspension",
+    "idle_vibration_high": "suspension",
+    "suspension_rattle": "suspension",
+    "rough_road_impact": "suspension",
+    "tire_flat_vibration": "suspension",
+    "axle_vibration": "suspension",
+    "cv_joint_click": "suspension",
+    "brake_vibration": "suspension",
+    "vibration_with_dtc": "suspension",
     # engine
     "engine_overheating": "engine",
     "fuel_lean": "engine",
@@ -40,13 +55,96 @@ _RULE_TO_SYSTEM: Dict[str, str] = {
     "misfire": "engine",
     "catalyst_degradation": "engine",
     "engine_mount_wear": "engine",
+    "engine_overrev": "engine",
+    "stalling_risk": "engine",
+    "high_rpm_idle": "engine",
+    "low_rpm_idle": "engine",
+    "coolant_overtemp_warning": "engine",
+    "cold_engine_driving": "engine",
+    "intake_vacuum_low": "engine",
+    "intake_vacuum_high": "engine",
+    "maf_reading_low": "engine",
+    "maf_reading_high": "engine",
+    "fuel_lean_bank2": "engine",
+    "fuel_rich_bank2": "engine",
+    "stft_high_oscillation": "engine",
+    "fuel_system_lean_idle": "engine",
+    "fuel_system_rich_idle": "engine",
+    "o2_sensor_stuck_lean": "engine",
+    "o2_sensor_stuck_rich": "engine",
+    "oil_pressure_low": "engine",
+    "idle_speed_oscillation": "engine",
+    "thermostat_stuck_open": "engine",
+    "thermostat_stuck_closed": "engine",
+    "egr_malfunction": "engine",
+    "excessive_fuel_consumption": "engine",
+    "vacuum_leak": "engine",
+    "injector_imbalance": "engine",
+    "catalytic_overtemp": "engine",
+    "engine_load_high": "engine",
+    "throttle_stuck": "engine",
+    "p0171_lean_boost": "engine",
+    "p0300_misfire_boost": "engine",
+    "p0420_catalyst_boost": "engine",
+    "p0442_evap_leak": "engine",
+    "winter_cold_start_anomaly": "engine",
+    "summer_overheat_risk": "engine",
+    "warmup_too_slow": "engine",
+    "idle_rpm_instability": "engine",
+    "turbo_lag_excessive": "engine",
+    "oil_pressure_warning": "engine",
+    "transmission_slip": "engine",
+    "ac_compressor_overload": "engine",
+    "catalytic_light_off_slow": "engine",
+    "combined_drivetrain_stress": "engine",
     # electrical
     "alternator_failure": "electrical",
     "low_battery": "electrical",
     "coolant_sensor": "electrical",
+    "charging_high": "electrical",
+    "voltage_drop_idle": "electrical",
+    "battery_deep_discharge": "electrical",
+    "charging_intermittent": "electrical",
+    # electrical — PHEV/BEV
+    "battery_temp_high": "electrical",
+    "soc_critical": "electrical",
+    "range_extender_overwork": "electrical",
+    "motor_overheat": "electrical",
+    "battery_soc_low": "electrical",
+    "e_motor_temp_high": "electrical",
+    "charging_anomaly": "electrical",
+    "regen_brake_weak": "electrical",
+    "hv_battery_imbalance": "electrical",
+    "inverter_overtemp": "electrical",
+    "phev_battery_degradation": "electrical",
     # audio
     "exhaust_leak": "audio",
     "bearing_wear": "audio",
+    "belt_squeal": "audio",
+    "turbo_whistle": "audio",
+    "brake_squeal": "audio",
+    "intake_noise": "audio",
+    "valve_train_noise": "audio",
+    "knock_detonation": "audio",
+    "wind_noise": "audio",
+    "rumble_low_freq": "audio",
+    "whistle_high_freq": "audio",
+    "power_steering_noise": "audio",
+    "drivetrain_vibration": "audio",
+    "compressor_noise": "audio",
+    "fuel_pump_noise": "audio",
+    "starter_grinding": "audio",
+    "loose_heat_shield": "audio",
+    "water_pump_noise": "audio",
+    "timing_chain_rattle": "audio",
+    "audio_speed_correlation": "audio",
+    "brake_pad_wear": "audio",
+    # complex rules
+    "fuel_bank_cross": "engine",
+    "vibration_regime_dependency": "suspension",
+    "audio_engine_harmonic": "audio",
+    "warmup_anomaly": "engine",
+    "speed_vibration_resonance": "suspension",
 }
 
 # System weights for overall score calculation
@@ -58,6 +156,37 @@ _SYSTEM_WEIGHTS: Dict[str, float] = {
 }
 
 _ALL_SYSTEMS = ("suspension", "engine", "electrical", "audio")
+
+# Severity weights — how much each severity level penalises health
+SEVERITY_WEIGHTS: Dict[str, float] = {
+    "info": 0.5,
+    "low": 1.0,
+    "medium": 2.0,
+    "high": 3.0,
+    "critical": 5.0,
+}
+
+# Rule → severity mapping (rules without an entry default to "medium")
+_RULE_SEVERITY: Dict[str, str] = {
+    # suspension
+    "worn_suspension": "medium",
+    "wheel_imbalance": "low",
+    # engine
+    "engine_overheating": "critical",
+    "fuel_lean": "medium",
+    "fuel_rich": "medium",
+    "high_idle": "low",
+    "misfire": "high",
+    "catalyst_degradation": "high",
+    "engine_mount_wear": "medium",
+    # electrical
+    "alternator_failure": "high",
+    "low_battery": "medium",
+    "coolant_sensor": "medium",
+    # audio
+    "exhaust_leak": "medium",
+    "bearing_wear": "high",
+}
 
 # Severity → can_drive mapping (worst wins)
 _SEVERITY_TO_DRIVE: Dict[str, str] = {
@@ -133,7 +262,7 @@ class DiagnosisBuilder:
         can_drive = self._compute_can_drive(facts)
 
         # Block 2: health_scores
-        health_scores = self._compute_health_scores(rule_results)
+        health_scores = self._compute_health_scores(rule_results, escalation_manager)
 
         # Block 3: health_trends (CUSUM-based)
         health_trends = self._compute_health_trends(history)
@@ -199,37 +328,69 @@ class DiagnosisBuilder:
     # Block 2: health_scores
     # ------------------------------------------------------------------
 
-    @staticmethod
-    def _compute_health_scores(rule_results: List[Dict[str, Any]]) -> Dict[str, Any]:
-        """Compute per-system and overall health scores.
+    def _compute_health_scores(
+        self,
+        rule_results: List[Dict[str, Any]],
+        escalation_manager: Optional[Any] = None,
+    ) -> Dict[str, Any]:
+        """Compute per-system and overall health scores using weighted formula.
 
-        For each system, find rules that fired (confidence > 0).
-        System score = 100 - average(confidence of fired rules).
-        If no rules fired → 100.
-        Overall = weighted average of system scores.
+        For each fired rule (confidence > 0):
+          - severity_weight  = SEVERITY_WEIGHTS[rule_severity]
+          - confidence_factor = confidence / 100
+          - persistence_factor = 1.0 + 0.1 * min(escalation_level, 3)
+          - penalty += severity_weight * confidence_factor * persistence_factor
+
+        System score = max(0, min(100, int(100 - penalty * 10)))
+        Overall = weighted average of system scores using _SYSTEM_WEIGHTS.
         """
-        # Collect fired confidence per system
-        system_confidences: Dict[str, List[float]] = {s: [] for s in _ALL_SYSTEMS}
+        # Collect per-rule penalties grouped by system
+        system_rule_penalties: Dict[str, List[float]] = {s: [] for s in _ALL_SYSTEMS}
 
         for rr in rule_results:
-            system = _RULE_TO_SYSTEM.get(rr["name"])
-            if system is None:
-                continue
+            # Map rule to system; rules not in the mapping default to 'engine'
+            system = _RULE_TO_SYSTEM.get(rr["name"], "engine")
             # Intentionally includes all confidence > 0, not just >= min_confidence.
             # Health score is a lower-level signal: even sub-threshold anomalies
             # should depress it slightly. Diagnosis list uses min_confidence filter.
-            if rr["confidence"] > 0:
-                system_confidences[system].append(rr["confidence"])
+            if rr["confidence"] <= 0:
+                continue
 
-        # Compute per-system scores
+            # Severity weight
+            severity = _RULE_SEVERITY.get(rr["name"], "medium")
+            severity_weight = SEVERITY_WEIGHTS.get(severity, SEVERITY_WEIGHTS["medium"])
+
+            # Confidence factor (0..1)
+            confidence_factor = rr["confidence"] / 100.0
+
+            # Persistence factor from escalation manager
+            persistence_factor = 1.0
+            if escalation_manager is not None:
+                try:
+                    info = escalation_manager.get_escalation_info(
+                        self._profile.client_hash, rr["name"]
+                    )
+                    if info is not None:
+                        esc_level = info.get("level", 0)
+                        persistence_factor = 1.0 + 0.1 * min(esc_level, 3)
+                except Exception:
+                    pass  # Graceful degradation — ignore escalation errors
+
+            rule_penalty = severity_weight * confidence_factor * persistence_factor
+            system_rule_penalties[system].append(rule_penalty)
+
+        # Compute per-system scores using dominant-rule approach.
+        # The worst rule carries full weight; remaining rules contribute 10%
+        # each, preventing noise-stacking when many rules fire at low confidence.
         scores: Dict[str, Any] = {}
         for system in _ALL_SYSTEMS:
-            confs = system_confidences[system]
-            if confs:
-                avg_conf = sum(confs) / len(confs)
-                scores[system] = round(max(0, 100 - avg_conf))
-            else:
+            penalties = system_rule_penalties[system]
+            if not penalties:
                 scores[system] = 100
+                continue
+            penalties_sorted = sorted(penalties, reverse=True)
+            effective = penalties_sorted[0] + sum(penalties_sorted[1:]) * 0.1
+            scores[system] = max(0, min(100, int(100 - effective * 10)))
 
         # Overall = weighted average
         overall = 0.0

@@ -20,6 +20,7 @@ import { FuelLossWidget } from '../components/panels/FuelLossWidget'
 import { CorrelationPanel } from '../components/panels/CorrelationPanel'
 import { TripCompare } from '../components/panels/TripCompare'
 import { OnboardingTour } from '../components/onboarding/OnboardingTour'
+import { BaselineStatus } from '../components/panels/BaselineStatus'
 
 const CoherenceMap = lazy(() => import('../components/panels/CoherenceMap').then(m => ({ default: m.CoherenceMap })))
 const CUSUMChart = lazy(() => import('../components/panels/CUSUMChart').then(m => ({ default: m.CUSUMChart })))
@@ -64,21 +65,23 @@ export function Diagnostics() {
   return (
     <div className="relative">
       <OnboardingTour />
-      {/* V2 API toggle */}
-      <button
-        onClick={toggleV2Api}
-        className="nav-btn absolute top-0 right-24 z-20 font-mono text-[10px] lg:text-xs px-2 lg:px-3 py-1 rounded transition-all duration-200"
-        style={{
-          color: useV2Api ? theme.accent.teal : theme.text.muted,
-          boxShadow: useV2Api ? `0 0 12px ${theme.accent.teal}44, inset 0 0 8px ${theme.accent.teal}22` : 'none',
-          background: useV2Api ? `${theme.accent.teal}11` : 'transparent',
-          border: `1px solid ${useV2Api ? theme.accent.teal : 'rgba(255,255,255,0.1)'}`,
-          letterSpacing: '0.1em',
-          textTransform: 'uppercase' as const,
-        }}
-      >
-        API {useV2Api ? 'V2 \u25CF' : 'V1'}
-      </button>
+      {/* V2 API toggle — Expert only */}
+      {expertMode && (
+        <button
+          onClick={toggleV2Api}
+          className="nav-btn absolute top-0 right-24 z-20 font-mono text-[10px] lg:text-xs px-2 lg:px-3 py-1 rounded transition-all duration-200"
+          style={{
+            color: useV2Api ? theme.accent.teal : theme.text.muted,
+            boxShadow: useV2Api ? `0 0 12px ${theme.accent.teal}44, inset 0 0 8px ${theme.accent.teal}22` : 'none',
+            background: useV2Api ? `${theme.accent.teal}11` : 'transparent',
+            border: `1px solid ${useV2Api ? theme.accent.teal : 'rgba(255,255,255,0.1)'}`,
+            letterSpacing: '0.1em',
+            textTransform: 'uppercase' as const,
+          }}
+        >
+          API {useV2Api ? 'V2 \u25CF' : 'V1'}
+        </button>
+      )}
 
       {/* Expert Mode toggle */}
       <button
@@ -261,8 +264,19 @@ export function Diagnostics() {
             <RecallsPanel recalls={v2Report.recalls || []} />
           </div>
 
+          {/* Baseline quality */}
+          {v2Report.baseline_status && (
+            <div className="col-span-12 lg:col-span-3">
+              <BaselineStatus
+                ready={v2Report.baseline_status.ready}
+                totalSamples={v2Report.baseline_status.total_samples}
+                samplesNeeded={v2Report.baseline_status.samples_needed}
+              />
+            </div>
+          )}
+
           {/* Correlations */}
-          <div className="col-span-12">
+          <div className={v2Report.baseline_status ? 'col-span-12 lg:col-span-9' : 'col-span-12'}>
             <CorrelationPanel clientHash={clientHash} />
           </div>
         </div>

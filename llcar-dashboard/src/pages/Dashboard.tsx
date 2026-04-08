@@ -9,11 +9,13 @@ import { SceneSetup } from '../components/three/SceneSetup'
 import { StatusPills } from '../components/shared/StatusPills'
 import { WeatherWidget } from '../components/shared/WeatherWidget'
 import { useApiData } from '../hooks/useApiData'
+import { useDiagnosticV2 } from '../hooks/useDiagnosticV2'
 import { useDashboardStore } from '../stores/dashboardStore'
 import { theme } from '../theme'
 
 export function Dashboard() {
   const { clientHash, timeRange, setTimeRange, setTab } = useDashboardStore()
+  const { report: v2Report } = useDiagnosticV2(clientHash)
 
   const { data: anomaly } = useApiData<any>({
     endpoint: '/api/anomaly/',
@@ -27,13 +29,16 @@ export function Dashboard() {
     refreshInterval: 30000,
   })
 
-  const overall = anomaly?.overall ?? -1
+  // Prefer V2 health scores (fixes Электрика -1 bug)
+  const v2Overall = v2Report?.health_scores?.overall
+  const overall = v2Overall ?? anomaly?.overall ?? -1
   const regime = anomaly?.regime ?? 'unknown'
   const hasData = (apiData?.accel?.length ?? 0) > 0 || (apiData?.pids?.length ?? 0) > 0
   const isOffline = !hasData && overall <= 0 && regime === 'unknown'
   const status = isOffline ? 'offline' : overall >= 80 ? 'ok' : overall >= 50 ? 'warning' : overall <= 0 ? (hasData ? 'warning' : 'unknown') : 'critical'
   const systems = anomaly?.systems ?? {}
-  const diagnostics = anomaly?.diagnostics ?? []
+  const v2Scores = v2Report?.health_scores
+  const diagnostics = v2Report?.diagnoses ?? anomaly?.diagnostics ?? []
   const topDiag = diagnostics.find((d: any) => d.confidence >= 40)
 
   // Latest PID values
@@ -85,17 +90,28 @@ export function Dashboard() {
             <div className="text-xs font-mono mt-1" style={{ color: 'rgba(255,255,255,0.3)' }}>Двигатель выкл</div>
           )}
           <div className="mt-4 space-y-2">
-            <HealthBar score={systems.suspension?.score ?? 0} label={'\u041F\u043E\u0434\u0432\u0435\u0441\u043A\u0430'} />
-            <HealthBar score={systems.engine?.score ?? 0} label={'\u0414\u0432\u0438\u0433\u0430\u0442\u0435\u043B\u044C'} />
-            <HealthBar score={systems.electrical?.score ?? 0} label={'\u042D\u043B\u0435\u043A\u0442\u0440\u0438\u043A\u0430'} />
-            <HealthBar score={systems.audio?.score ?? 0} label={'\u0410\u0443\u0434\u0438\u043E'} />
+            <HealthBar score={v2Scores?.suspension ?? systems.suspension?.score ?? 0} label={'\u041F\u043E\u0434\u0432\u0435\u0441\u043A\u0430'} />
+            <HealthBar score={v2Scores?.engine ?? systems.engine?.score ?? 0} label={'\u0414\u0432\u0438\u0433\u0430\u0442\u0435\u043B\u044C'} />
+            <HealthBar score={v2Scores?.electrical ?? systems.electrical?.score ?? 0} label={'\u042D\u043B\u0435\u043A\u0442\u0440\u0438\u043A\u0430'} />
+            <HealthBar score={v2Scores?.audio ?? systems.audio?.score ?? 0} label={'\u0410\u0443\u0434\u0438\u043E'} />
           </div>
-          <StatusPills systems={[
-            { name: '\u041F\u043E\u0434\u0432.', score: systems.suspension?.score ?? 0, status: isOffline && (systems.suspension?.score ?? 0) === 0 ? 'offline' : (systems.suspension?.score ?? 0) >= 80 ? 'ok' : (systems.suspension?.score ?? 0) >= 50 ? 'warning' : 'critical' },
-            { name: '\u0414\u0432\u0438\u0433.', score: systems.engine?.score ?? 0, status: isOffline && (systems.engine?.score ?? 0) === 0 ? 'offline' : (systems.engine?.score ?? 0) >= 80 ? 'ok' : (systems.engine?.score ?? 0) >= 50 ? 'warning' : 'critical' },
-            { name: '\u042D\u043B\u0435\u043A\u0442.', score: systems.electrical?.score ?? 0, status: isOffline && (systems.electrical?.score ?? 0) === 0 ? 'offline' : (systems.electrical?.score ?? 0) >= 80 ? 'ok' : (systems.electrical?.score ?? 0) >= 50 ? 'warning' : 'critical' },
-            { name: '\u0410\u0443\u0434\u0438\u043E', score: systems.audio?.score ?? 0, status: isOffline && (systems.audio?.score ?? 0) === 0 ? 'offline' : (systems.audio?.score ?? 0) >= 80 ? 'ok' : (systems.audio?.score ?? 0) >= 50 ? 'warning' : 'critical' },
-          ]} />
+          {(() => {
+            const sysScores = {
+              suspension: v2Scores?.suspension ?? systems.suspension?.score ?? 0,
+              engine: v2Scores?.engine ?? systems.engine?.score ?? 0,
+              electrical: v2Scores?.electrical ?? systems.electrical?.score ?? 0,
+              audio: v2Scores?.audio ?? systems.audio?.score ?? 0,
+            }
+            const getStatus = (score: number) => isOffline && score === 0 ? 'offline' as const : score >= 80 ? 'ok' as const : score >= 50 ? 'warning' as const : 'critical' as const
+            return (
+              <StatusPills systems={[
+                { name: '\u041F\u043E\u0434\u0432.', score: sysScores.suspension, status: getStatus(sysScores.suspension) },
+                { name: '\u0414\u0432\u0438\u0433.', score: sysScores.engine, status: getStatus(sysScores.engine) },
+                { name: '\u042D\u043B\u0435\u043A\u0442.', score: sysScores.electrical, status: getStatus(sysScores.electrical) },
+                { name: '\u0410\u0443\u0434\u0438\u043E', score: sysScores.audio, status: getStatus(sysScores.audio) },
+              ]} />
+            )
+          })()}
         </GlassPanel>
       </div>
 

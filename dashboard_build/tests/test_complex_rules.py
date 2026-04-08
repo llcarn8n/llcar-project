@@ -476,8 +476,8 @@ class TestResultFormat:
         assert _confidence_to_status(20.0) == "unlikely"
         assert _confidence_to_status(0.0) == "clear"
 
-    def test_all_rules_list_has_five_entries(self):
-        """ALL_RULES contains exactly 5 rule functions."""
-        assert len(ALL_RULES) == 5
+    def test_all_rules_list_has_seven_entries(self):
+        """ALL_RULES contains exactly 7 rule functions."""
+        assert len(ALL_RULES) == 7
         for fn in ALL_RULES:
             assert callable(fn)

@@ -1,6 +1,6 @@
 export const theme = {
-  bg: { void: '#0C1220', panel: 'rgba(16,34,50,0.85)', deep: '#101828' },
-  accent: { cyan: '#00E5FF', teal: '#64FFDA', hologram: '#00B8D4' },
-  status: { ok: '#00E676', warning: '#FFAB00', critical: '#FF1744' },
-  text: { primary: '#FFFFFF', secondary: 'rgba(255,255,255,0.75)', muted: 'rgba(255,255,255,0.45)' },
+  bg: { void: 'var(--bg-primary)', panel: 'var(--bg-panel)', deep: 'var(--bg-primary)' },
+  accent: { cyan: 'var(--accent-cyan)', teal: 'var(--accent-teal)', hologram: 'var(--accent-cyan)' },
+  status: { ok: 'var(--status-ok)', warning: 'var(--status-warning)', critical: 'var(--status-critical)' },
+  text: { primary: 'var(--text-primary)', secondary: 'var(--text-secondary)', muted: 'var(--text-muted)' },
 }

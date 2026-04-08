@@ -517,6 +517,192 @@ def rule_speed_vibration_resonance(
 
 
 # ---------------------------------------------------------------------------
+# Rule 6: PHEV Battery Degradation (T1)
+# ---------------------------------------------------------------------------
+
+def rule_phev_battery_degradation(
+    features: Dict[str, Any],
+    packet: Any,
+    baselines: Any,
+    regime: Any,
+) -> Optional[Dict[str, Any]]:
+    """Detects signs of high-voltage battery degradation in PHEV/BEV.
+
+    Combines multiple indicators:
+    - SOC dropping faster than expected (low SOC at moderate speed)
+    - Battery temp elevated (above 40 C)
+    - Cell voltage delta high (imbalance between cells > 0.2V)
+    - Range extender kicking in too often (SOC < 25% while driving)
+
+    Confidence increases with number of concurrent symptoms.
+    Only fires for vehicles that report HV battery data.
+    """
+    soc = getattr(packet, "hv_battery_soc", None)
+    if soc is None:
+        return None
+
+    soc = float(soc)
+
+    # Collect symptoms
+    symptoms: List[str] = []
+    conditions_met = 0
+    conditions_total = 4
+
+    # Symptom 1: Low SOC while driving
+    speed = getattr(packet, "speed", None)
+    if speed is not None and float(speed) > 20.0 and soc < 25.0:
+        symptoms.append("rapid_soc_drop")
+        conditions_met += 1
+
+    # Symptom 2: Elevated battery temperature
+    batt_temp = getattr(packet, "hv_battery_temp", None)
+    if batt_temp is not None and float(batt_temp) > 40.0:
+        symptoms.append("elevated_battery_temp")
+        conditions_met += 1
+
+    # Symptom 3: Cell voltage imbalance
+    cell_delta = getattr(packet, "hv_cell_voltage_delta", None)
+    if cell_delta is not None and float(cell_delta) > 0.2:
+        symptoms.append("cell_imbalance")
+        conditions_met += 1
+
+    # Symptom 4: Range extender running while SOC not critically low
+    re_runtime = getattr(packet, "range_extender_runtime", None)
+    if re_runtime is not None and float(re_runtime) > 600 and soc > 10.0:
+        symptoms.append("early_range_extender")
+        conditions_met += 1
+
+    if conditions_met < 2:
+        return None
+
+    # Confidence: 2 symptoms → 45, 3 → 60, 4 → 80
+    confidence = 30.0 + conditions_met * 15.0
+
+    # Severity boost for cell imbalance (strongest degradation signal)
+    if "cell_imbalance" in symptoms:
+        confidence += 10.0
+
+    return _make_result(
+        name="phev_battery_degradation",
+        display="Признаки деградации ВВБ (PHEV/BEV)",
+        tier="T1",
+        confidence=confidence,
+        conditions_met=conditions_met,
+        conditions_total=conditions_total,
+        details={
+            "soc_pct": soc,
+            "symptoms": symptoms,
+            "battery_temp": float(batt_temp) if batt_temp is not None else None,
+            "cell_delta_v": float(cell_delta) if cell_delta is not None else None,
+        },
+        dtc_codes=["P0A80", "P0A09"],
+    )
+
+
+# ---------------------------------------------------------------------------
+# Rule 7: Combined Drivetrain Stress (T1+T2)
+# ---------------------------------------------------------------------------
+
+def rule_combined_drivetrain_stress(
+    features: Dict[str, Any],
+    packet: Any,
+    baselines: Any,
+    regime: Any,
+) -> Optional[Dict[str, Any]]:
+    """Detects drivetrain stress by combining engine, vibration, and audio signals.
+
+    Cross-correlates:
+    - High RPM with low speed → possible clutch/torque converter slip
+    - Elevated vibration z-score at speed → drivetrain resonance
+    - Low-frequency audio anomaly (< 100 Hz) → mechanical rumble
+    - Fuel trim instability → load-induced mixture issues
+
+    At least 2 of 4 signals must be present.
+    This rule catches drivetrain problems that no single-tier rule can detect.
+    """
+    conditions_met = 0
+    conditions_total = 4
+    stress_signals: List[str] = []
+
+    # Signal 1: RPM/speed mismatch (high RPM, low speed = slip)
+    rpm = getattr(packet, "rpm", None)
+    speed = getattr(packet, "speed", None)
+    rpm_speed_ratio = None
+    if rpm is not None and speed is not None:
+        rpm_val = float(rpm)
+        speed_val = float(speed)
+        if speed_val > 10.0 and rpm_val > 2500.0:
+            rpm_speed_ratio = rpm_val / speed_val
+            if rpm_speed_ratio > 80.0:  # Abnormally high ratio
+                stress_signals.append("rpm_speed_mismatch")
+                conditions_met += 1
+
+    # Signal 2: Vibration anomaly
+    az_std_val = features.get("az_std")
+    if az_std_val is None:
+        az_std_val = getattr(packet, "az_std", None)
+
+    vib_z = 0.0
+    if az_std_val is not None:
+        regime_key = _regime_key(regime)
+        bl = baselines.get(regime_key, "az_std")
+        if bl.count >= 30:
+            vib_z = bl.z_score(float(az_std_val))
+            if vib_z > 2.0:
+                stress_signals.append("vibration_elevated")
+                conditions_met += 1
+
+    # Signal 3: Low-frequency audio anomaly
+    dominant_freq = getattr(packet, "dominant_freq", None)
+    dominant_amp = getattr(packet, "dominant_amp", None)
+    if dominant_freq is not None and dominant_amp is not None:
+        freq = float(dominant_freq)
+        if 20.0 < freq < 100.0:
+            # Check amplitude z-score
+            regime_key = _regime_key(regime)
+            bl_amp = baselines.get(regime_key, "dominant_amp")
+            if bl_amp.count >= 30:
+                amp_z = bl_amp.z_score(float(dominant_amp))
+                if amp_z > 2.0:
+                    stress_signals.append("low_freq_rumble")
+                    conditions_met += 1
+
+    # Signal 4: Fuel trim instability under load
+    ltft_abs = features.get("ltft_abs")
+    stft_val = getattr(packet, "stft_bank1", None)
+    if ltft_abs is not None and stft_val is not None:
+        ltft_abs_val = float(ltft_abs)
+        stft_abs_val = abs(float(stft_val))
+        if ltft_abs_val > 8.0 and stft_abs_val > 5.0:
+            stress_signals.append("fuel_trim_instability")
+            conditions_met += 1
+
+    if conditions_met < 2:
+        return None
+
+    # Confidence: 2 → 45, 3 → 60, 4 → 80
+    confidence = 25.0 + conditions_met * 15.0
+
+    # Extra boost if both vibration and audio match (strong physical signal)
+    if "vibration_elevated" in stress_signals and "low_freq_rumble" in stress_signals:
+        confidence += 10.0
+
+    return _make_result(
+        name="combined_drivetrain_stress",
+        display="Комплексная нагрузка на трансмиссию",
+        tier="T1",
+        confidence=confidence,
+        conditions_met=conditions_met,
+        conditions_total=conditions_total,
+        details={
+            "stress_signals": stress_signals,
+            "rpm_speed_ratio": round(rpm_speed_ratio, 1) if rpm_speed_ratio else None,
+            "vibration_z": round(vib_z, 2),
+        },
+    )
+
+
+# ---------------------------------------------------------------------------
 # Exports
 # ---------------------------------------------------------------------------
 
@@ -526,4 +712,6 @@ ALL_RULES = [
     rule_audio_engine_harmonic,
     rule_warmup_anomaly,
     rule_speed_vibration_resonance,
+    rule_phev_battery_degradation,
+    rule_combined_drivetrain_stress,
 ]

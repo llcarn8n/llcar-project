@@ -88,7 +88,7 @@ export function useDiagnosticV2(clientHash: string) {
   const fetchLatest = useCallback(async () => {
     try {
       setLoading(true)
-      const res = await fetch(`/api/v2/diagnose-latest/?client_hash=${clientHash}&minutes=1440`)
+      const res = await fetch(`/api/v2/diagnose-latest/?client_hash=${clientHash}&minutes=10080`)
       if (res.ok) {
         const data = await res.json()
         if (!data.error) {

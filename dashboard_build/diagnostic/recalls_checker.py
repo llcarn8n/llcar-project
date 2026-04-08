@@ -5,12 +5,27 @@ Matches by brand slug + model name (fuzzy substring) + year.
 """
 from __future__ import annotations
 
+import functools
 import json
 import os
-from typing import Any, Dict, List, Optional
+from typing import Any, Dict, List, Optional, Tuple
 
 
 _DEFAULT_DB_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "recalls-database.json")
+
+
+@functools.lru_cache(maxsize=1)
+def _load_recalls_db(path: str) -> Tuple[List[Dict[str, Any]], Dict[str, Any]]:
+    """Load and parse recalls database from JSON file (cached).
+
+    Returns (campaigns, brands).  Result is cached by *path* so the
+    6 271-line JSON is only parsed once per unique path.
+    """
+    if not os.path.exists(path):
+        return [], {}
+    with open(path, "r", encoding="utf-8") as f:
+        db = json.load(f)
+    return db.get("campaigns", []), db.get("brands", {})
 
 
 def _parse_years(years_raw: Any) -> List[int]:
@@ -47,18 +62,7 @@ class RecallsChecker:
 
     def __init__(self, db_path: str = None):
         path = db_path or _DEFAULT_DB_PATH
-        self._campaigns: List[Dict[str, Any]] = []
-        self._brands: Dict[str, Dict[str, Any]] = {}
-        self._load(path)
-
-    def _load(self, path: str) -> None:
-        """Load recalls database from JSON file."""
-        if not os.path.exists(path):
-            return
-        with open(path, "r", encoding="utf-8") as f:
-            db = json.load(f)
-        self._campaigns = db.get("campaigns", [])
-        self._brands = db.get("brands", {})
+        self._campaigns, self._brands = _load_recalls_db(path)
 
     def check(self, brand: str, model: str, year: int) -> List[Dict[str, Any]]:
         """Search for recalls matching brand + model + year.

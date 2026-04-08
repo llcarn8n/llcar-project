@@ -3,12 +3,12 @@ import { theme } from '../../theme'
 
 // ── Constants ──
 const COLORS = {
-  bg: '#0a1118',
-  border: 'rgba(0,229,255,0.3)',
-  accent: '#00E5FF',
-  accentDim: 'rgba(0,229,255,0.2)',
-  text: '#ffffff',
-  textDim: 'rgba(255,255,255,0.6)',
+  bg: 'var(--bg-primary)',
+  border: 'var(--border-glow)',
+  accent: 'var(--accent-cyan)',
+  accentDim: 'var(--border-glow)',
+  text: 'var(--text-primary)',
+  textDim: 'var(--text-secondary)',
 }
 
 const CHAMFER = 'polygon(14px 0, calc(100% - 14px) 0, 100% 14px, 100% calc(100% - 14px), calc(100% - 14px) 100%, 14px 100%, 0 calc(100% - 14px), 0 14px)'
@@ -19,7 +19,7 @@ function Screw({ top, bottom, left, right }: { top?: string; bottom?: string; le
     <div style={{
       position: 'absolute', top, bottom, left, right,
       width: 8, height: 8, borderRadius: '50%',
-      background: '#1a2633', border: `1px solid ${COLORS.accent}`,
+      background: 'var(--bg-primary)', border: `1px solid ${COLORS.accent}`,
       boxShadow: `0 0 6px ${COLORS.accent}, inset 0 0 2px ${COLORS.accent}`,
       zIndex: 20,
     }}>
@@ -43,16 +43,16 @@ function Panel({ children, style, onClick }: { children: React.ReactNode; style?
       <Screw bottom="8px" right="8px" />
       {/* L-shaped corner brackets */}
       <svg style={{ position: 'absolute', top: -1, left: -1, width: 20, height: 20, zIndex: 20 }} viewBox="0 0 20 20">
-        <path d="M0 0 H16 V3 M0 0 V16 H3" stroke="#00E5FF" strokeWidth="1.5" fill="none" opacity="0.6" />
+        <path d="M0 0 H16 V3 M0 0 V16 H3" stroke="var(--accent-cyan, #00E5FF)" strokeWidth="1.5" fill="none" opacity="0.6" />
       </svg>
       <svg style={{ position: 'absolute', top: -1, right: -1, width: 20, height: 20, zIndex: 20 }} viewBox="0 0 20 20">
-        <path d="M20 0 H4 V3 M20 0 V16 H17" stroke="#00E5FF" strokeWidth="1.5" fill="none" opacity="0.6" />
+        <path d="M20 0 H4 V3 M20 0 V16 H17" stroke="var(--accent-cyan, #00E5FF)" strokeWidth="1.5" fill="none" opacity="0.6" />
       </svg>
       <svg style={{ position: 'absolute', bottom: -1, left: -1, width: 20, height: 20, zIndex: 20 }} viewBox="0 0 20 20">
-        <path d="M0 20 H16 V17 M0 20 V4 H3" stroke="#00E5FF" strokeWidth="1.5" fill="none" opacity="0.6" />
+        <path d="M0 20 H16 V17 M0 20 V4 H3" stroke="var(--accent-cyan, #00E5FF)" strokeWidth="1.5" fill="none" opacity="0.6" />
       </svg>
       <svg style={{ position: 'absolute', bottom: -1, right: -1, width: 20, height: 20, zIndex: 20 }} viewBox="0 0 20 20">
-        <path d="M20 20 H4 V17 M20 20 V4 H17" stroke="#00E5FF" strokeWidth="1.5" fill="none" opacity="0.6" />
+        <path d="M20 20 H4 V17 M20 20 V4 H17" stroke="var(--accent-cyan, #00E5FF)" strokeWidth="1.5" fill="none" opacity="0.6" />
       </svg>
       {/* Glass reflection */}
       <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(to bottom, rgba(255,255,255,0.06) 0%, transparent 40%)', pointerEvents: 'none', zIndex: 10 }} />
@@ -141,7 +141,7 @@ function Equalizer({ active, total = 18 }: { active: number; total?: number }) {
 
 export function RPMPanel({ value }: { value: number }) {
   return (
-    <Panel style={{ borderLeft: '3px solid #00E5FF' }}>
+    <Panel style={{ borderLeft: '3px solid var(--accent-cyan)' }}>
       <div style={{ display: 'flex', height: '100%', alignItems: 'center' }}>
         <div style={{ flex: '0 0 45%', display: 'flex', justifyContent: 'center' }}>
           <GaugeSVG value={value} max={8000} size={120} label="об/мин" />
@@ -159,7 +159,7 @@ export function RPMPanel({ value }: { value: number }) {
 
 export function SpeedPanel({ value }: { value: number }) {
   return (
-    <Panel style={{ borderLeft: '3px solid #00E5FF' }}>
+    <Panel style={{ borderLeft: '3px solid var(--accent-cyan)' }}>
       <div style={{ display: 'flex', height: '100%', alignItems: 'center', gap: 10 }}>
         <div style={{ flex: 1.2, display: 'flex', flexDirection: 'column', justifyContent: 'center', borderRight: '1px solid rgba(0,229,255,0.1)', paddingRight: 10 }}>
           <div style={{ fontSize: 9, color: COLORS.accent, letterSpacing: 2, marginBottom: 6, opacity: 0.7 }}>

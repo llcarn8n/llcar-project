@@ -22,21 +22,19 @@ export function MainLayout({ children }: { children: ReactNode }) {
   const isOnline = Array.isArray(recentData) && recentData.length > 0
 
   return (
-    <div className="min-h-screen overflow-x-hidden" style={{ backgroundColor: isDarkMode ? theme.bg.void : '#F0F4F8' }}>
+    <div className="min-h-screen overflow-x-hidden" style={{ backgroundColor: 'var(--bg-primary)' }}>
       {/* Breathing background orbs */}
       <div style={{ position: 'fixed', inset: 0, zIndex: 0, pointerEvents: 'none', overflow: 'hidden' }}>
         <div style={{
           position: 'absolute', top: '20%', left: '20%', width: 500, height: 500, borderRadius: '50%',
-          background: isDarkMode
-            ? 'radial-gradient(circle, rgba(0,229,255,0.2) 0%, transparent 70%)'
-            : 'radial-gradient(circle, rgba(8,145,178,0.08) 0%, transparent 70%)',
+          background: 'radial-gradient(circle, var(--accent-cyan, rgba(0,229,255,0.2)) 0%, transparent 70%)',
+          opacity: 0.2,
           filter: 'blur(60px)', animation: 'breathe1 12s ease-in-out infinite',
         }} />
         <div style={{
           position: 'absolute', bottom: '10%', right: '15%', width: 400, height: 400, borderRadius: '50%',
-          background: isDarkMode
-            ? 'radial-gradient(circle, rgba(255,23,68,0.12) 0%, transparent 70%)'
-            : 'radial-gradient(circle, rgba(220,38,38,0.05) 0%, transparent 70%)',
+          background: 'radial-gradient(circle, var(--status-critical, rgba(255,23,68,0.12)) 0%, transparent 70%)',
+          opacity: 0.12,
           filter: 'blur(60px)', animation: 'breathe2 18s ease-in-out infinite',
         }} />
       </div>

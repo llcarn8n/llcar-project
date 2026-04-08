@@ -26,7 +26,7 @@ export const useDashboardStore = create<DashboardState>((set) => ({
   timeRange: 10080,
   clientHash: '362f5a4a5f95127723509e28c392850f',
   expertMode: false,
-  useV2Api: false,
+  useV2Api: true,
   isDarkMode: true,
   setTab: (tab) => set({ activeTab: tab }),
   toggleSidebar: () => set((s) => ({ sidebarOpen: !s.sidebarOpen })),
