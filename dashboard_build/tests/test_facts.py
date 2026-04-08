@@ -91,7 +91,7 @@ class TestFactTypeEnum:
             "VIBRATION_ANOMALY", "AUDIO_ANOMALY", "THRESHOLD_BREACH",
             "CUSUM_ALARM", "BASELINE_DRIFT", "LTFT_TREND", "DEGRADATION",
             "VIBRATION_RPM_CORRELATION", "AUDIO_WHEEL_CORRELATION",
-            "MULTI_DTC_PATTERN",
+            "MULTI_DTC_PATTERN", "CORRELATION",
         }
         actual = {m.name for m in FactType}
         assert expected == actual

@@ -586,6 +586,32 @@ header {
   .grid[style*="calc(100vh"] { display: flex !important; flex-direction: column !important; height: auto !important; }
   .grid[style*="calc(100vh"] > div:first-child { max-height: 180px; overflow-y: auto; }
   .grid[style*="calc(100vh"] > div:last-child .glass-panel { height: 350px !important; }
+
+  /* Status bar: stack vertically on mobile */
+  .status-bar-inner {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    gap: 8px !important;
+  }
+  .status-bar-info {
+    flex-wrap: wrap !important;
+    gap: 4px 10px !important;
+  }
+  .status-bar-time-range {
+    width: 100% !important;
+    justify-content: space-between !important;
+  }
+  .status-bar-time-range button {
+    flex: 1 !important;
+    min-width: 0 !important;
+    padding: 4px 2px !important;
+    text-align: center !important;
+  }
+
+  /* Sidebar: ensure no horizontal overflow */
+  aside.glass-panel {
+    max-width: 85vw !important;
+  }
 }
 
 @media (max-width: 480px) {
@@ -595,4 +621,18 @@ header {
   .stat-value { font-size: 1.5rem !important; }
   .grid.grid-cols-4 { grid-template-columns: 1fr !important; }
   .metric-value { font-size: 14px !important; }
+
+  /* Status bar: even more compact */
+  .status-bar-info > .status-bar-divider { display: none !important; }
+  .status-bar-info { gap: 2px 8px !important; }
+  .status-bar-time-range button { font-size: 9px !important; }
+}
+
+/* ── Tablet breakpoint (769-1024px) ── */
+@media (min-width: 769px) and (max-width: 1024px) {
+  .grid.grid-cols-12 > .col-span-3 { grid-column: span 4 !important; }
+  .grid.grid-cols-12 > .col-span-9 { grid-column: span 8 !important; }
+  .grid.grid-cols-4 { grid-template-columns: repeat(2, 1fr) !important; gap: 8px !important; }
+  .holographic-projector { height: 280px !important; }
+  .nav-btn { padding: 6px 12px !important; font-size: 0.6rem !important; }
 }

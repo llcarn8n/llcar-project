@@ -26,6 +26,7 @@ import { BaselineStatus } from '../components/panels/BaselineStatus'
 
 const CoherenceMap = lazy(() => import('../components/panels/CoherenceMap').then(m => ({ default: m.CoherenceMap })))
 const CUSUMChart = lazy(() => import('../components/panels/CUSUMChart').then(m => ({ default: m.CUSUMChart })))
+const PseudoOrderPlot = lazy(() => import('../components/panels/PseudoOrderPlot').then(m => ({ default: m.PseudoOrderPlot })))
 
 export function Diagnostics() {
   const { clientHash, timeRange, expertMode, toggleExpert, useV2Api, toggleV2Api } = useDashboardStore()
@@ -219,6 +220,54 @@ export function Diagnostics() {
         </div>
       )}
 
+      {/* System Checklist */}
+      {useV2Api && v2Report && !expanded && (
+        <div className="col-span-12">
+          <GlassPanel>
+            <div className="hud-header mb-3">Чек-лист систем</div>
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-2">
+              {([
+                { key: 'suspension' as const, name: 'Подвеска', icon: '\u{1F6DE}' },
+                { key: 'engine' as const, name: 'Двигатель', icon: '\u2699' },
+                { key: 'electrical' as const, name: 'Электрика', icon: '\u26A1' },
+                { key: 'audio' as const, name: 'Шумы/вибрации', icon: '\u{1F50A}' },
+              ]).map(sys => {
+                const score = v2Report.health_scores[sys.key] ?? 0
+                const hasDiag = v2Report.diagnoses.some(d =>
+                  (d.status === 'likely' || d.status === 'possible') &&
+                  (d.rule_name.includes(sys.key) || d.evidence?.some(e => typeof e === 'string' && e.includes(sys.key === 'audio' ? 'audio' : sys.key === 'suspension' ? 'accel' : sys.key)))
+                )
+                const st = score >= 80 && !hasDiag ? 'ok' : score >= 50 ? 'warning' : 'critical'
+                const stColor = st === 'ok' ? theme.status.ok : st === 'warning' ? theme.status.warning : theme.status.critical
+                const checkIcon = st === 'ok' ? '\u2713' : st === 'warning' ? '\u26A0' : '\u2717'
+                const stLabel = st === 'ok' ? 'Проверено — норма' : st === 'warning' ? 'Требует внимания' : 'Обнаружены проблемы'
+                return (
+                  <div key={sys.key} style={{
+                    display: 'flex', alignItems: 'center', gap: 8,
+                    padding: '10px 12px', borderRadius: 4,
+                    background: `${stColor}08`,
+                    border: `1px solid ${stColor}20`,
+                  }}>
+                    <span style={{ fontSize: 20, color: stColor, textShadow: `0 0 8px ${stColor}40` }}>{checkIcon}</span>
+                    <div>
+                      <div style={{ fontSize: 12, fontFamily: "'Rajdhani', sans-serif", fontWeight: 700, color: theme.text.primary }}>
+                        {sys.icon} {sys.name}
+                      </div>
+                      <div style={{ fontSize: 10, fontFamily: "'Rajdhani', sans-serif", color: stColor, fontWeight: 600 }}>
+                        {stLabel}
+                      </div>
+                      <div style={{ fontSize: 9, fontFamily: 'Consolas, monospace', color: theme.text.muted, marginTop: 1 }}>
+                        Score: {score}
+                      </div>
+                    </div>
+                  </div>
+                )
+              })}
+            </div>
+          </GlassPanel>
+        </div>
+      )}
+
       {/* Row 2: Per-system health bars + Anomaly Timeline */}
       <div className={`${expanded ? 'hidden' : 'col-span-12 lg:col-span-3'}`}>
         <GlassPanel>
@@ -356,17 +405,22 @@ export function Diagnostics() {
         </div>
       )}
 
-      {/* Row 4: Expert panels (CoherenceMap + CUSUMChart) */}
+      {/* Row 4: Expert panels (CoherenceMap + CUSUMChart + PseudoOrderPlot) */}
       {expertMode && (
         <div className="col-span-12 grid grid-cols-12 gap-3">
-          <div className="col-span-6">
+          <div className="col-span-6 lg:col-span-4">
             <Suspense fallback={<GlassPanel><div className="text-center text-xs font-mono" style={{ color: theme.text.muted }}>Loading...</div></GlassPanel>}>
               <CoherenceMap accel={accelData} audio={audioData} />
             </Suspense>
           </div>
-          <div className="col-span-6">
+          <div className="col-span-6 lg:col-span-4">
             <Suspense fallback={<GlassPanel><div className="text-center text-xs font-mono" style={{ color: theme.text.muted }}>Loading...</div></GlassPanel>}>
               <CUSUMChart degradation={degradation} history={historyData?.history} />
+            </Suspense>
+          </div>
+          <div className="col-span-12 lg:col-span-4">
+            <Suspense fallback={<GlassPanel><div className="text-center text-xs font-mono" style={{ color: theme.text.muted }}>Loading...</div></GlassPanel>}>
+              <PseudoOrderPlot accel={accelData} pids={apiData?.pids ?? []} />
             </Suspense>
           </div>
         </div>

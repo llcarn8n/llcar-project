@@ -12,6 +12,7 @@ from diagnostic.db_writers import (
     save_vehicle_profile,
     load_vehicle_profile,
     write_dtc_events,
+    resolve_cleared_dtcs,
     _placeholder,
 )
 from diagnostic.db_readers import read_freeze_frames
@@ -541,6 +542,9 @@ class TestReadFreezeFrames:
         freeze_new = {"rpm": 3000, "speed": 100}
         with db.cursor() as c:
             write_dtc_events(c, CLIENT, ["P0171"], freeze_frame=freeze_old)
+        # Resolve the first occurrence so a second INSERT creates a new row
+        with db.cursor() as c:
+            resolve_cleared_dtcs(c, CLIENT, [])
         with db.cursor() as c:
             write_dtc_events(c, CLIENT, ["P0171"], freeze_frame=freeze_new)
         with db.cursor() as c:
@@ -565,3 +569,141 @@ class TestReadFreezeFrames:
         with db.cursor() as c:
             result = read_freeze_frames(c, CLIENT, ["P0300"])
         assert result == {}
+
+
+# ---------------------------------------------------------------------------
+# write_dtc_events — ecu field + dedup (GAP-D3)
+# ---------------------------------------------------------------------------
+
+
+class TestWriteDtcEventsEcu:
+    """write_dtc_events stores ecu field and deduplicates active DTCs."""
+
+    def test_stores_ecu_field(self, db):
+        """New DTC inserts ecu value."""
+        with db.cursor() as c:
+            write_dtc_events(c, CLIENT, ["P0300"], ecu="7E8")
+        with db.cursor() as c:
+            c.execute("SELECT ecu FROM dtc_events WHERE client_hash = ?", (CLIENT,))
+            row = c.fetchone()
+        assert row[0] == "7E8"
+
+    def test_ecu_defaults_to_none(self, db):
+        """Without ecu param, column is NULL."""
+        with db.cursor() as c:
+            write_dtc_events(c, CLIENT, ["P0300"])
+        with db.cursor() as c:
+            c.execute("SELECT ecu FROM dtc_events WHERE client_hash = ?", (CLIENT,))
+            row = c.fetchone()
+        assert row[0] is None
+
+    def test_duplicate_dtc_increments_occurrences(self, db):
+        """Same DTC written twice -> single row with occurrences=2."""
+        with db.cursor() as c:
+            write_dtc_events(c, CLIENT, ["P0300"], ecu="7E8")
+        with db.cursor() as c:
+            write_dtc_events(c, CLIENT, ["P0300"], ecu="7E8")
+        with db.cursor() as c:
+            c.execute(
+                "SELECT occurrences FROM dtc_events WHERE client_hash = ? AND dtc_code = ?",
+                (CLIENT, "P0300"),
+            )
+            rows = c.fetchall()
+        assert len(rows) == 1
+        assert rows[0][0] == 2
+
+    def test_different_dtcs_create_separate_rows(self, db):
+        """Different DTC codes -> separate rows."""
+        with db.cursor() as c:
+            write_dtc_events(c, CLIENT, ["P0300", "P0171"], ecu="7E8")
+        with db.cursor() as c:
+            c.execute(
+                "SELECT COUNT(*) FROM dtc_events WHERE client_hash = ?", (CLIENT,),
+            )
+            assert c.fetchone()[0] == 2
+
+    def test_resolved_dtc_allows_new_insert(self, db):
+        """After a DTC is resolved, a new occurrence creates a new row."""
+        # Insert first occurrence
+        with db.cursor() as c:
+            write_dtc_events(c, CLIENT, ["P0300"], ecu="7E8")
+        # Resolve it
+        with db.cursor() as c:
+            resolve_cleared_dtcs(c, CLIENT, [])  # no active codes -> resolves P0300
+        # Insert same DTC again
+        with db.cursor() as c:
+            write_dtc_events(c, CLIENT, ["P0300"], ecu="7E8")
+        # Should be 2 rows: old resolved + new active
+        with db.cursor() as c:
+            c.execute(
+                "SELECT occurrences, resolved_at FROM dtc_events "
+                "WHERE client_hash = ? AND dtc_code = ? ORDER BY time",
+                (CLIENT, "P0300"),
+            )
+            rows = c.fetchall()
+        assert len(rows) == 2
+        assert rows[0][1] is not None  # first row resolved
+        assert rows[1][1] is None      # second row still active
+        assert rows[1][0] == 1         # fresh occurrence count
+
+
+# ---------------------------------------------------------------------------
+# resolve_cleared_dtcs (GAP-D3)
+# ---------------------------------------------------------------------------
+
+
+class TestResolveClearedDtcs:
+    """resolve_cleared_dtcs marks inactive DTCs as resolved."""
+
+    def test_resolves_cleared_dtc(self, db):
+        """DTC not in active list -> resolved_at set."""
+        with db.cursor() as c:
+            write_dtc_events(c, CLIENT, ["P0300", "P0171"], ecu="7E8")
+        with db.cursor() as c:
+            resolved = resolve_cleared_dtcs(c, CLIENT, ["P0300"])
+        assert resolved == 1  # P0171 resolved
+        with db.cursor() as c:
+            c.execute(
+                "SELECT dtc_code, resolved_at FROM dtc_events "
+                "WHERE client_hash = ? ORDER BY dtc_code",
+                (CLIENT,),
+            )
+            rows = c.fetchall()
+        # P0171 resolved, P0300 still active
+        p0171 = [r for r in rows if r[0] == "P0171"][0]
+        p0300 = [r for r in rows if r[0] == "P0300"][0]
+        assert p0171[1] is not None
+        assert p0300[1] is None
+
+    def test_resolves_all_when_empty_active(self, db):
+        """Empty active_codes -> all DTCs resolved."""
+        with db.cursor() as c:
+            write_dtc_events(c, CLIENT, ["P0300", "P0171"])
+        with db.cursor() as c:
+            resolved = resolve_cleared_dtcs(c, CLIENT, [])
+        assert resolved == 2
+
+    def test_resolves_none_when_all_active(self, db):
+        """All DTCs still active -> nothing resolved."""
+        with db.cursor() as c:
+            write_dtc_events(c, CLIENT, ["P0300", "P0171"])
+        with db.cursor() as c:
+            resolved = resolve_cleared_dtcs(c, CLIENT, ["P0300", "P0171"])
+        assert resolved == 0
+
+    def test_does_not_resolve_already_resolved(self, db):
+        """Already-resolved DTCs are not counted again."""
+        with db.cursor() as c:
+            write_dtc_events(c, CLIENT, ["P0300"])
+        with db.cursor() as c:
+            resolve_cleared_dtcs(c, CLIENT, [])
+        # Resolve again — should resolve 0
+        with db.cursor() as c:
+            resolved = resolve_cleared_dtcs(c, CLIENT, [])
+        assert resolved == 0
+
+    def test_no_dtcs_returns_zero(self, db):
+        """No DTCs in DB -> 0 resolved."""
+        with db.cursor() as c:
+            resolved = resolve_cleared_dtcs(c, CLIENT, [])
+        assert resolved == 0

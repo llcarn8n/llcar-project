@@ -7,6 +7,7 @@ export interface AudioSample {
   ts: string
   freqs: [number, number][]
   quality: number
+  weather?: string
 }
 
 interface AudioSpectrumProps {
@@ -83,7 +84,31 @@ export function AudioSpectrum({ data, compact = false }: AudioSpectrumProps) {
       emphasis: { focus: 'series' as const },
       data: data.map(s => groupByZone(s)[zi]),
     }))
-    return { timestamps, zoneSeries }
+
+    // Weather zones — detect contiguous rain regions for markArea
+    const weatherAreas: Array<[{ xAxis: string }, { xAxis: string }]> = []
+    let rainStart: number | null = null
+    for (let i = 0; i < data.length; i++) {
+      const w = data[i].weather?.toLowerCase() ?? ''
+      const isRain = w.includes('rain') || w.includes('дождь') || w.includes('drizzle') || w.includes('shower') || w.includes('storm')
+      if (isRain && rainStart === null) {
+        rainStart = i
+      } else if (!isRain && rainStart !== null) {
+        weatherAreas.push([
+          { xAxis: timestamps[rainStart] },
+          { xAxis: timestamps[i - 1] },
+        ])
+        rainStart = null
+      }
+    }
+    if (rainStart !== null) {
+      weatherAreas.push([
+        { xAxis: timestamps[rainStart] },
+        { xAxis: timestamps[data.length - 1] },
+      ])
+    }
+
+    return { timestamps, zoneSeries, weatherAreas }
   }, [data, isLowData])
 
   // Auto Y max
@@ -190,7 +215,32 @@ export function AudioSpectrum({ data, compact = false }: AudioSpectrumProps) {
       axisLabel: { color: theme.text.secondary, fontFamily: "'Share Tech Mono', monospace", fontSize: 9 },
       splitLine: { lineStyle: { color: 'rgba(0,229,255,0.1)', type: 'dashed' as const } },
     },
-    series: timelineData!.zoneSeries,
+    series: timelineData!.zoneSeries.map((s, idx) => {
+      if (idx === 0 && timelineData!.weatherAreas.length > 0) {
+        return {
+          ...s,
+          markArea: {
+            silent: true,
+            itemStyle: {
+              color: 'rgba(66, 165, 245, 0.08)',
+              borderColor: 'rgba(66, 165, 245, 0.2)',
+              borderWidth: 1,
+              borderType: 'dashed' as const,
+            },
+            label: {
+              show: true,
+              position: 'insideTop' as const,
+              fontSize: 9,
+              fontFamily: "'Share Tech Mono', monospace",
+              color: 'rgba(66, 165, 245, 0.6)',
+              formatter: () => 'RAIN',
+            },
+            data: timelineData!.weatherAreas,
+          },
+        }
+      }
+      return s
+    }),
   }
 
   return (

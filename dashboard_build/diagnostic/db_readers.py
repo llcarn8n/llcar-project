@@ -70,6 +70,38 @@ def read_freeze_frames(
     return result
 
 
+def read_correlation_results(
+    cursor, client_hash: str, limit: int = 50,
+) -> List[Dict[str, Any]]:
+    """Read recent significant correlation results for a client.
+
+    Args:
+        cursor:      DB cursor (SQLite or PostgreSQL).
+        client_hash: Vehicle identifier.
+        limit:       Max rows to return.
+
+    Returns:
+        List of dicts with correlation_type, r_value, diagnosis_hint, etc.
+    """
+    module_name = type(cursor).__module__
+    ph = "?" if "sqlite" in module_name else "%s"
+
+    cursor.execute(
+        f"""
+        SELECT correlation_type, r_value, slope, p_value,
+               data_points, regime, diagnosis_hint, time
+        FROM correlation_results
+        WHERE client_hash = {ph}
+        ORDER BY time DESC
+        LIMIT {ph}
+        """,
+        (client_hash, limit),
+    )
+
+    columns = [desc[0] for desc in cursor.description]
+    return [dict(zip(columns, row)) for row in cursor.fetchall()]
+
+
 def read_history(cursor, client_hash: str, period: str = "7d") -> List[Dict[str, Any]]:
     """Read anomaly_scores history for a client.
 

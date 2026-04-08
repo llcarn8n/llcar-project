@@ -12,7 +12,7 @@ from __future__ import annotations
 
 import json
 import logging
-from typing import Any, Dict
+from typing import Any, Dict, Optional
 
 # ---------------------------------------------------------------------------
 # Django shim — allows tests to run without Django installed
@@ -111,6 +111,38 @@ def diagnose_view(request: Any) -> JsonResponse:
                 report = pipeline.full_diagnose(
                     packet, db_cursor=cursor, client_hash=client_hash,
                 )
+
+            # Escalation -- load, update per diagnosis, save (same as diagnose_latest)
+            try:
+                from .escalation import EscalationManager
+
+                em = EscalationManager()
+                em.load_from_db(cursor, client_hash)
+
+                for diag in report.get("diagnoses", []):
+                    em.update(client_hash, diag["rule_name"],
+                              int(diag.get("confidence", 0)))
+
+                escalations = []
+                for diag in report.get("diagnoses", []):
+                    info = em.get_escalation_info(client_hash, diag["rule_name"])
+                    if info and info.get("consecutive_count", 0) > 0:
+                        escalations.append({
+                            "rule_name": diag["rule_name"],
+                            "display": diag.get("display", diag["rule_name"]),
+                            **info,
+                        })
+
+                report["escalations"] = sorted(
+                    escalations,
+                    key=lambda x: x.get("level", 0),
+                    reverse=True,
+                )
+
+                em.save_to_db(cursor, client_hash)
+            except Exception:
+                logger.debug("Escalation integration skipped in diagnose_view: %s",
+                             __import__("traceback").format_exc())
 
             return JsonResponse(report, status=200)
     except Exception:
@@ -296,6 +328,33 @@ def diagnose_latest_view(request: Any) -> JsonResponse:
                     )
                     parsed_packets.append(packet)
 
+                # -- Dual-regime LTFT collection --
+                # Separate packets by RPM to compare idle vs load LTFT
+                idle_ltfts: list = []
+                idle_stfts: list = []
+                load_ltfts: list = []
+                load_stfts: list = []
+                for p in parsed_packets:
+                    p_rpm = p.get("rpm")
+                    p_ltft = p.get("ltft_bank1")
+                    p_stft = p.get("stft_bank1", 0.0)
+                    if p_rpm is not None and p_ltft is not None:
+                        if p_rpm < 1000:
+                            idle_ltfts.append(p_ltft)
+                            idle_stfts.append(p_stft)
+                        elif p_rpm >= 1500:
+                            load_ltfts.append(p_ltft)
+                            load_stfts.append(p_stft)
+
+                dual_regime_data: Optional[Dict[str, float]] = None
+                if idle_ltfts and load_ltfts:
+                    dual_regime_data = {
+                        "ltft_idle": sum(idle_ltfts) / len(idle_ltfts),
+                        "ltft_2000rpm": sum(load_ltfts) / len(load_ltfts),
+                        "stft_idle": sum(idle_stfts) / len(idle_stfts),
+                        "stft_2000rpm": sum(load_stfts) / len(load_stfts),
+                    }
+
                 # -- Build aggregated packet from all parsed packets --
                 aggregated: Dict[str, Any] = {}
 
@@ -328,6 +387,7 @@ def diagnose_latest_view(request: Any) -> JsonResponse:
                 # Final diagnosis on aggregated data
                 report = pipeline.full_diagnose(
                     aggregated, db_cursor=cursor, client_hash=client_hash,
+                    dual_regime_data=dual_regime_data,
                 )
                 # Use aggregated packet for downstream DTC/freeze logic
                 packet = aggregated

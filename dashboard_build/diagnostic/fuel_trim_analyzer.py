@@ -15,7 +15,7 @@ Cross-analysis classifies mixture direction (lean / rich / chronic / sensor).
 from __future__ import annotations
 
 from dataclasses import dataclass, field
-from typing import List, Optional
+from typing import Dict, List, Optional
 
 from .normalizer import DrivingRegime
 from .vehicle_profile import VehicleProfile
@@ -81,6 +81,96 @@ _CROSS_TESTS = {
 # ---------------------------------------------------------------------------
 # Result dataclass
 # ---------------------------------------------------------------------------
+
+# ---------------------------------------------------------------------------
+# Dual-regime diagnosis hints (Russian)
+# ---------------------------------------------------------------------------
+
+_DUAL_REGIME_HINTS: Dict[str, str] = {
+    "both_regimes": (
+        "Проблема присутствует на всех режимах → "
+        "утечка воздуха после дроссельной заслонки или неисправность MAF"
+    ),
+    "idle_only": (
+        "Проблема только на холостом ходу → "
+        "проверьте адсорбер, клапан вентиляции картера, подсос воздуха в патрубки"
+    ),
+    "load_only": (
+        "Проблема только под нагрузкой → "
+        "проверьте давление топлива, форсунки, катализатор"
+    ),
+    "normal": "Топливная коррекция в норме на обоих режимах",
+}
+
+_DUAL_REGIME_TESTS: Dict[str, List[str]] = {
+    "both_regimes": [
+        "Дымогенератор — проверка герметичности впуска (500–3000 руб)",
+        "Проверить ДМРВ — отключить разъём, сравнить LTFT",
+        "Проверить прокладку впускного коллектора",
+        "Проверить все вакуумные шланги",
+    ],
+    "idle_only": [
+        "Заглушить адсорбер — пережать шланг, смотреть LTFT",
+        "Проверить клапан вентиляции картерных газов (PCV)",
+        "Крышка маслозаливной горловины — открыть на ХХ, смотреть LTFT",
+        "Масляный щуп — вынуть на ХХ, смотреть LTFT",
+    ],
+    "load_only": [
+        "Проверить давление топлива под нагрузкой (манометр на рампу)",
+        "Проверить производительность форсунок",
+        "Проверить катализатор (противодавление, P0420/P0430)",
+        "Проверить лямбда-зонд на быстродействие",
+    ],
+    "normal": [],
+}
+
+# Threshold (absolute corrected LTFT) to consider a regime "problematic"
+_DUAL_REGIME_THRESHOLD = 5.0
+
+# Threshold (absolute LTFT delta between banks) for asymmetric classification
+_DUAL_BANK_THRESHOLD = 3.0
+
+_DUAL_BANK_HINTS: Dict[str, str] = {
+    "symmetric": (
+        "Обе банки показывают одинаковое отклонение → "
+        "общая причина: топливо, воздух после дроссельной заслонки, ДМРВ"
+    ),
+    "asymmetric": (
+        "Банки показывают разное отклонение → "
+        "локальная причина: форсунка, подсос воздуха или утечка вакуума на одной стороне"
+    ),
+}
+
+
+# ---------------------------------------------------------------------------
+# Result dataclasses
+# ---------------------------------------------------------------------------
+
+@dataclass
+class DualBankResult:
+    """Result of Bank 1 vs Bank 2 LTFT comparison."""
+    pattern: str              # "symmetric" | "asymmetric"
+    delta: float              # abs(ltft_bank1 - ltft_bank2)
+    diagnosis_hint: str       # Russian explanation
+    ltft_bank1: float = 0.0
+    ltft_bank2: float = 0.0
+    stft_bank1: float = 0.0
+    stft_bank2: float = 0.0
+
+
+@dataclass
+class DualRegimeResult:
+    """Result of dual-regime LTFT comparison (idle vs 2000 RPM)."""
+    regime_pattern: str           # "both_regimes" | "idle_only" | "load_only" | "normal"
+    idle_severity: str            # severity at idle
+    load_severity: str            # severity at 2000 RPM
+    diagnosis_hint: str           # Russian explanation of what the pattern means
+    recommended_tests: List[str]  # specific tests to run
+    ltft_idle: float = 0.0
+    ltft_2000rpm: float = 0.0
+    stft_idle: float = 0.0
+    stft_2000rpm: float = 0.0
+
 
 @dataclass
 class FuelTrimResult:
@@ -189,6 +279,110 @@ class FuelTrimAnalyzer:
             base_offset_applied=offset,
             tolerance_mult_applied=mult,
             winter_correction_applied=winter_applied,
+        )
+
+    # ------------------------------------------------------------------
+    # Dual-regime analysis (idle vs 2000 RPM)
+    # ------------------------------------------------------------------
+
+    def analyze_dual_regime(
+        self,
+        ltft_idle: float,
+        ltft_2000rpm: float,
+        stft_idle: float = 0.0,
+        stft_2000rpm: float = 0.0,
+    ) -> DualRegimeResult:
+        """Compare LTFT at idle and 2000 RPM to classify the problem source.
+
+        Professional mechanic technique:
+          - Bad on BOTH regimes → general problem (air leak after throttle body, MAF)
+          - Bad on IDLE only   → local idle problem (adsorber, PCV valve, vacuum leak)
+          - Bad on LOAD only   → load problem (fuel pressure, injectors, catalytic converter)
+          - Both normal        → no fuel trim issue
+
+        The method applies vehicle correction chain (offset + tolerance) before
+        comparing, ensuring the same thresholds work across vehicle profiles.
+        """
+        offset = self._profile.ltft_base_offset
+        mult = self._profile.ltft_tolerance_mult
+
+        # Apply correction chain to both regimes
+        corrected_idle = abs((ltft_idle - offset) / mult)
+        corrected_load = abs((ltft_2000rpm - offset) / mult)
+
+        # Severity lookup for each regime
+        idle_severity, _ = _severity_lookup(corrected_idle)
+        load_severity, _ = _severity_lookup(corrected_load)
+
+        # Classify pattern using threshold
+        idle_bad = corrected_idle >= _DUAL_REGIME_THRESHOLD
+        load_bad = corrected_load >= _DUAL_REGIME_THRESHOLD
+
+        if idle_bad and load_bad:
+            pattern = "both_regimes"
+        elif idle_bad:
+            pattern = "idle_only"
+        elif load_bad:
+            pattern = "load_only"
+        else:
+            pattern = "normal"
+
+        return DualRegimeResult(
+            regime_pattern=pattern,
+            idle_severity=idle_severity,
+            load_severity=load_severity,
+            diagnosis_hint=_DUAL_REGIME_HINTS[pattern],
+            recommended_tests=list(_DUAL_REGIME_TESTS[pattern]),
+            ltft_idle=ltft_idle,
+            ltft_2000rpm=ltft_2000rpm,
+            stft_idle=stft_idle,
+            stft_2000rpm=stft_2000rpm,
+        )
+
+    # ------------------------------------------------------------------
+    # Dual-bank analysis (Bank 1 vs Bank 2)
+    # ------------------------------------------------------------------
+
+    def analyze_dual_bank(
+        self,
+        ltft_bank1: float,
+        ltft_bank2: float,
+        stft_bank1: float = 0.0,
+        stft_bank2: float = 0.0,
+    ) -> DualBankResult:
+        """Compare LTFT between Bank 1 and Bank 2 to classify problem locality.
+
+        V-engine and boxer-engine vehicles have two cylinder banks, each with
+        its own oxygen sensor and fuel trim.  Comparing the two banks helps
+        narrow down whether a fault is common (fuel supply, MAF, throttle body)
+        or localized to one side (single injector, vacuum leak on one manifold
+        runner, cracked exhaust header on one bank).
+
+        Classification (based on absolute LTFT delta after vehicle correction):
+          - delta <  3 %: "symmetric"  -- both banks behave the same
+          - delta >= 3 %: "asymmetric" -- one bank is different
+        """
+        offset = self._profile.ltft_base_offset
+        mult = self._profile.ltft_tolerance_mult
+
+        corrected_b1 = (ltft_bank1 - offset) / mult
+        corrected_b2 = (ltft_bank2 - offset) / mult
+
+        delta = abs(corrected_b1 - corrected_b2)
+
+        if delta < _DUAL_BANK_THRESHOLD:
+            pattern = "symmetric"
+        else:
+            pattern = "asymmetric"
+
+        return DualBankResult(
+            pattern=pattern,
+            delta=round(delta, 2),
+            diagnosis_hint=_DUAL_BANK_HINTS[pattern],
+            ltft_bank1=ltft_bank1,
+            ltft_bank2=ltft_bank2,
+            stft_bank1=stft_bank1,
+            stft_bank2=stft_bank2,
         )
 
     # ------------------------------------------------------------------

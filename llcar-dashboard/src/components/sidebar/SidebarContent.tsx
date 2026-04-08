@@ -1,6 +1,8 @@
+import { useState } from 'react'
 import { useApiData } from '../../hooks/useApiData'
 import { GlassPanel } from '../shared/GlassPanel'
 import { theme } from '../../theme'
+import { useDashboardStore } from '../../stores/dashboardStore'
 
 // ── Types ──
 
@@ -64,6 +66,35 @@ const ALERT_COLORS: Record<string, string> = {
   info: theme.accent.cyan,
   warning: theme.status.warning,
   critical: theme.status.critical,
+}
+
+// ── Knowledge Base data (hardcoded per model, can be dynamic later) ──
+
+const KNOWN_ISSUES: Record<string, Array<{ title: string; severity: 'info' | 'warning' | 'critical' }>> = {
+  'Li Auto L7': [
+    { title: 'Разряд 12В батареи при длительной стоянке (>5 дней)', severity: 'warning' },
+    { title: 'Повышенный шум цепи ГРМ при холодном старте 1.5T', severity: 'info' },
+    { title: 'Рассинхронизация SOC BMS при перепаде температур', severity: 'warning' },
+    { title: 'Ошибка P0420 — катализатор ниже эффективности (пробег >60к)', severity: 'critical' },
+    { title: 'Вибрация рулевой рейки на скорости 80-100 км/ч', severity: 'info' },
+  ],
+  'Li Auto L9': [
+    { title: 'Утечка хладагента контура охлаждения батареи', severity: 'critical' },
+    { title: 'Дребезг панорамной крыши при неровностях', severity: 'info' },
+    { title: 'Повышенный расход масла 1.5T после 40к км', severity: 'warning' },
+    { title: 'Нестабильная работа ACC в дождь', severity: 'info' },
+  ],
+  'default': [
+    { title: 'Проверьте уровень масла каждые 5000 км', severity: 'info' },
+    { title: 'Контроль давления в шинах при смене сезона', severity: 'info' },
+    { title: 'Диагностика аккумулятора перед зимой', severity: 'warning' },
+  ],
+}
+
+const SEVERITY_ICONS: Record<string, string> = {
+  info: '\u2139',
+  warning: '\u26A0',
+  critical: '\u2716',
 }
 
 // ── Mini sparkline (SVG) ──
@@ -191,6 +222,138 @@ function LoadingSkeleton() {
         />
       ))}
     </div>
+  )
+}
+
+// ── Knowledge Base Section ──
+
+function KnowledgeBaseSection() {
+  const vehicleProfile = useDashboardStore((s) => s.vehicleProfile)
+  const [expanded, setExpanded] = useState(false)
+
+  if (!vehicleProfile) return null
+
+  const modelKey = `${vehicleProfile.brand} ${vehicleProfile.model}`
+  const issues = KNOWN_ISSUES[modelKey] || KNOWN_ISSUES['default']
+  const displayIssues = expanded ? issues : issues.slice(0, 3)
+
+  return (
+    <GlassPanel className="!p-3" style={{ borderRadius: 4 }}>
+      <SectionHeader text="БАЗА ЗНАНИЙ" />
+
+      {/* Vehicle badge */}
+      <div
+        style={{
+          display: 'flex',
+          alignItems: 'center',
+          gap: 8,
+          marginBottom: 10,
+          padding: '6px 10px',
+          borderRadius: 3,
+          background: 'rgba(100,255,218,0.04)',
+          border: '1px solid rgba(100,255,218,0.12)',
+        }}
+      >
+        <span style={{ fontSize: 14, opacity: 0.7 }}>{'\u{1F697}'}</span>
+        <span
+          style={{
+            fontFamily: "'Rajdhani', sans-serif",
+            fontSize: 12,
+            fontWeight: 600,
+            color: theme.accent.teal,
+            letterSpacing: '0.05em',
+          }}
+        >
+          {vehicleProfile.brand} {vehicleProfile.model} {vehicleProfile.year}
+        </span>
+      </div>
+
+      {/* Section subtitle */}
+      <div
+        style={{
+          fontFamily: "'Rajdhani', sans-serif",
+          fontSize: 11,
+          color: theme.text.secondary,
+          marginBottom: 8,
+          letterSpacing: '0.02em',
+        }}
+      >
+        Типичные проблемы {modelKey}:
+      </div>
+
+      {/* Issues list */}
+      <div style={{ display: 'flex', flexDirection: 'column', gap: 6 }}>
+        {displayIssues.map((issue, i) => {
+          const color = ALERT_COLORS[issue.severity] || theme.text.secondary
+          return (
+            <div
+              key={i}
+              style={{
+                display: 'flex',
+                alignItems: 'flex-start',
+                gap: 8,
+                padding: '5px 8px',
+                borderRadius: 3,
+                background: `${color}06`,
+                borderLeft: `2px solid ${color}50`,
+                transition: 'all 0.2s ease',
+              }}
+            >
+              <span
+                style={{
+                  fontSize: 10,
+                  color,
+                  flexShrink: 0,
+                  marginTop: 1,
+                  filter: issue.severity === 'critical' ? `drop-shadow(0 0 4px ${color})` : 'none',
+                }}
+              >
+                {SEVERITY_ICONS[issue.severity]}
+              </span>
+              <span
+                style={{
+                  fontFamily: "'Rajdhani', sans-serif",
+                  fontSize: 11,
+                  color: theme.text.secondary,
+                  lineHeight: 1.4,
+                  letterSpacing: '0.01em',
+                }}
+              >
+                {issue.title}
+              </span>
+            </div>
+          )
+        })}
+      </div>
+
+      {/* Expand / collapse toggle */}
+      {issues.length > 3 && (
+        <button
+          onClick={() => setExpanded(!expanded)}
+          style={{
+            display: 'flex',
+            alignItems: 'center',
+            gap: 4,
+            marginTop: 10,
+            padding: '4px 8px',
+            borderRadius: 3,
+            background: 'rgba(0,229,255,0.04)',
+            border: '1px solid rgba(0,229,255,0.12)',
+            cursor: 'pointer',
+            transition: 'all 0.3s',
+            fontFamily: "'Rajdhani', sans-serif",
+            fontSize: 11,
+            fontWeight: 600,
+            color: theme.accent.cyan,
+            letterSpacing: '0.05em',
+            width: '100%',
+            justifyContent: 'center',
+          }}
+        >
+          {expanded ? '\u25B2 Скрыть' : `\u25BC Подробнее (+${issues.length - 3})`}
+        </button>
+      )}
+    </GlassPanel>
   )
 }
 
@@ -555,6 +718,9 @@ export function SidebarContent({ clientHash, timeRange }: SidebarContentProps) {
           </div>
         </GlassPanel>
       )}
+
+      {/* ── 5. Knowledge Base ── */}
+      <KnowledgeBaseSection />
     </div>
   )
 }

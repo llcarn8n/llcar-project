@@ -16,7 +16,7 @@ from .baseline_store import BaselineStore
 from .diagnosis_builder import DiagnosisBuilder
 from .facts import Fact, FactGenerator
 from .feature_extractor import extract_features
-from .fuel_trim_analyzer import FuelTrimAnalyzer
+from .fuel_trim_analyzer import DualRegimeResult, FuelTrimAnalyzer
 from .knowledge_base import KnowledgeBase
 from .normalizer import DrivingRegime, NormalizedPacket, normalize_packet
 from .rule_engine import RuleEngine
@@ -151,6 +151,7 @@ class DiagnosticPipeline:
 
     def full_diagnose(
         self, raw_data: dict, db_cursor=None, client_hash: str = None,
+        dual_regime_data: Optional[Dict[str, float]] = None,
     ) -> Dict[str, Any]:
         """Run the complete diagnostic cycle and return a 7-block report.
 
@@ -188,7 +189,30 @@ class DiagnosticPipeline:
                 ambient_temp=packet.engine_context.ambient_temp,
             )
 
-        # Step 3: Rule engine evaluation
+        # Step 2b: Dual-regime fuel trim analysis (idle vs 2000 RPM)
+        dual_regime_result = None
+        if dual_regime_data is not None:
+            ltft_idle = dual_regime_data.get("ltft_idle")
+            ltft_2000rpm = dual_regime_data.get("ltft_2000rpm")
+            if ltft_idle is not None and ltft_2000rpm is not None:
+                dual_regime_result = self._fuel_trim_analyzer.analyze_dual_regime(
+                    ltft_idle=ltft_idle,
+                    ltft_2000rpm=ltft_2000rpm,
+                    stft_idle=dual_regime_data.get("stft_idle", 0.0),
+                    stft_2000rpm=dual_regime_data.get("stft_2000rpm", 0.0),
+                )
+
+        # Step 3 (GAP-C1): Read recent correlation results from DB and
+        # generate Fact objects so they feed into the rule engine.
+        if db_cursor is not None and client_hash is not None:
+            correlation_facts = self._generate_correlation_facts(
+                db_cursor, client_hash,
+            )
+            facts.extend(correlation_facts)
+            # Update pipeline_result so DiagnosisBuilder sees correlation facts
+            pipeline_result["facts"] = facts
+
+        # Step 4: Rule engine evaluation
         rule_results = self._rule_engine.run_all(
             facts=facts,
             features=features,
@@ -224,13 +248,108 @@ class DiagnosticPipeline:
             baseline_store=self.baselines,
         )
 
-        # Step 5: Optional DB persistence
+        # Step 4b: Attach dual-regime analysis to fuel_analysis block
+        if dual_regime_result is not None:
+            if report.get("fuel_analysis") is None:
+                report["fuel_analysis"] = {}
+            report["fuel_analysis"]["dual_regime"] = {
+                "regime_pattern": dual_regime_result.regime_pattern,
+                "idle_severity": dual_regime_result.idle_severity,
+                "load_severity": dual_regime_result.load_severity,
+                "diagnosis_hint": dual_regime_result.diagnosis_hint,
+                "recommended_tests": dual_regime_result.recommended_tests,
+                "ltft_idle": dual_regime_result.ltft_idle,
+                "ltft_2000rpm": dual_regime_result.ltft_2000rpm,
+                "stft_idle": dual_regime_result.stft_idle,
+                "stft_2000rpm": dual_regime_result.stft_2000rpm,
+            }
+
+        # Step 6: Optional DB persistence
         if db_cursor is not None and client_hash is not None:
             from .db_writers import save_baselines, write_fact_log, write_anomaly_scores
+            from .db_readers import read_history
 
             regime_str = packet.regime.value
             save_baselines(db_cursor, client_hash, self.baselines)
             write_fact_log(db_cursor, client_hash, facts, packet.tier)
-            write_anomaly_scores(db_cursor, client_hash, report, features, regime_str)
+
+            # Read history for CUSUM columns in anomaly_scores (GAP-A2)
+            history = read_history(db_cursor, client_hash, period="90d")
+            write_anomaly_scores(
+                db_cursor, client_hash, report, features, regime_str,
+                history=history,
+            )
 
         return report
+
+    # ------------------------------------------------------------------
+    # GAP-C1: Correlation → Facts
+    # ------------------------------------------------------------------
+
+    # Correlation type → diagnosis hint → detail mapping
+    _CORRELATION_HINT_TO_FACT_DETAILS = {
+        "engine_mount": {"system": "engine", "component": "engine_mount"},
+        "wheel_bearing": {"system": "audio", "component": "wheel_bearing"},
+        "cv_joint": {"system": "suspension", "component": "cv_joint"},
+        "wheel_balance": {"system": "suspension", "component": "wheel_balance"},
+        "accessory_bearing": {"system": "audio", "component": "accessory_bearing"},
+    }
+
+    # Minimum |r| threshold for a correlation to generate a fact
+    _CORRELATION_R_THRESHOLD = 0.6
+
+    def _generate_correlation_facts(
+        self, db_cursor, client_hash: str,
+    ) -> List[Fact]:
+        """Read recent correlation_results from DB and produce Fact objects.
+
+        For each significant correlation (|r| > threshold), generates a
+        CORRELATION fact that feeds into rule_engine.run_all().
+        """
+        import time as _time
+        from .db_readers import read_correlation_results
+        from .facts import FactType
+
+        try:
+            correlations = read_correlation_results(
+                db_cursor, client_hash, limit=50,
+            )
+        except Exception:
+            return []  # Graceful degradation if table is missing
+
+        facts: List[Fact] = []
+        now = _time.time()
+
+        for corr in correlations:
+            r_value = corr.get("r_value", 0.0)
+            if r_value is None:
+                continue
+            if abs(r_value) < self._CORRELATION_R_THRESHOLD:
+                continue
+
+            hint = corr.get("diagnosis_hint", "")
+            detail_info = self._CORRELATION_HINT_TO_FACT_DETAILS.get(hint, {})
+
+            facts.append(Fact(
+                type=FactType.CORRELATION,
+                timestamp=now,
+                value=abs(r_value),
+                severity="warning" if abs(r_value) >= 0.75 else "info",
+                confidence=min(1.0, abs(r_value)),
+                context={
+                    "correlation_type": corr.get("correlation_type", ""),
+                    "regime": corr.get("regime", "all"),
+                },
+                source_tier="T3",
+                details={
+                    "correlation_type": corr.get("correlation_type", ""),
+                    "r_value": round(r_value, 4),
+                    "slope": corr.get("slope", 0.0),
+                    "p_value": corr.get("p_value", 1.0),
+                    "data_points": corr.get("data_points", 0),
+                    "diagnosis_hint": hint,
+                    **detail_info,
+                },
+            ))
+
+        return facts

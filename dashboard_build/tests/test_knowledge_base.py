@@ -78,7 +78,7 @@ class TestResolveDtc:
     def test_known_code(self, kb):
         result = kb.resolve_dtc("P0171")
         assert result is not None
-        assert result["severity"] == "info"
+        assert result["severity"] == "warning"  # severity_overrides.json: info -> warning
         assert result["system_id"] == "engine"
 
     def test_unknown_code(self, kb):
@@ -100,12 +100,12 @@ class TestResolveDtc:
     def test_brand_falls_back_to_universal(self, kb_with_brand):
         result = kb_with_brand.resolve_dtc("P0300", brand="li_auto")
         assert result is not None
-        assert result["severity"] == "urgent"  # from universal
+        assert result["severity"] == "critical"  # severity_overrides.json: urgent -> critical
 
     def test_no_brand_ignores_brand_layer(self, kb_with_brand):
         result = kb_with_brand.resolve_dtc("P0171")
         assert result is not None
-        assert result["severity"] == "info"  # universal, not brand
+        assert result["severity"] == "warning"  # universal + severity override (info -> warning)
 
 
 # ---------------------------------------------------------------------------

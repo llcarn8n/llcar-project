@@ -7,6 +7,7 @@ import { StatusBadge } from '../components/shared/StatusBadge'
 const DigitalTwinCanvas = React.lazy(() => import('../components/three/DigitalTwinCanvas'))
 import { StatusPills } from '../components/shared/StatusPills'
 import { WeatherWidget } from '../components/shared/WeatherWidget'
+import robotImg from '../assets/robot-default.jpg'
 import { useApiData } from '../hooks/useApiData'
 import { useDiagnosticV2 } from '../hooks/useDiagnosticV2'
 import { useDashboardStore } from '../stores/dashboardStore'
@@ -14,7 +15,7 @@ import { theme } from '../theme'
 
 export function Dashboard() {
   const { clientHash, timeRange, setTimeRange, setTab } = useDashboardStore()
-  const { report: v2Report } = useDiagnosticV2(clientHash)
+  const { report: v2Report, history: v2History } = useDiagnosticV2(clientHash)
 
   const { data: anomaly } = useApiData<any>({
     endpoint: '/api/anomaly/',
@@ -31,6 +32,9 @@ export function Dashboard() {
   // Prefer V2 health scores (fixes Электрика -1 bug)
   const v2Overall = v2Report?.health_scores?.overall
   const overall = v2Overall ?? anomaly?.overall ?? -1
+  // Trend data for health delta indicator
+  const v2Trends = v2Report?.health_trends
+  const overallTrend = v2Trends?.overall as string | undefined
   const regime = anomaly?.regime ?? 'unknown'
   const hasData = (apiData?.accel?.length ?? 0) > 0 || (apiData?.pids?.length ?? 0) > 0
   const isOffline = !hasData && overall <= 0 && regime === 'unknown'
@@ -39,6 +43,14 @@ export function Dashboard() {
   const v2Scores = v2Report?.health_scores
   const diagnostics = v2Report?.diagnoses ?? anomaly?.diagnostics ?? []
   const topDiag = diagnostics.find((d: any) => d.confidence >= 40)
+
+  // Health score delta: compare current overall with previous history entry
+  const healthDelta = (() => {
+    if (!v2History || v2History.length < 2 || overall < 0) return null
+    const prev = v2History[v2History.length - 2]
+    if (!prev || prev.overall_score <= 0) return null
+    return overall - prev.overall_score
+  })()
 
   // Latest PID values
   const pids = apiData?.pids ?? []
@@ -85,6 +97,62 @@ export function Dashboard() {
             </div>
           </div>
           <StatusBadge status={status} />
+          {/* Health delta indicator */}
+          {!isOffline && (healthDelta !== null || overallTrend) && (
+            <div style={{
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'center',
+              gap: 6,
+              marginTop: 4,
+            }}>
+              {healthDelta !== null && (
+                <span style={{
+                  fontFamily: "'Share Tech Mono', monospace",
+                  fontSize: 13,
+                  fontWeight: 'bold',
+                  color: healthDelta > 0
+                    ? 'var(--status-ok)'
+                    : healthDelta < 0
+                    ? 'var(--status-critical)'
+                    : 'var(--text-muted)',
+                  textShadow: healthDelta !== 0
+                    ? `0 0 6px ${healthDelta > 0 ? 'var(--status-ok)' : 'var(--status-critical)'}60`
+                    : 'none',
+                }}>
+                  {healthDelta > 0 ? '+' : ''}{healthDelta}
+                </span>
+              )}
+              {overallTrend && (
+                <span style={{
+                  fontSize: 16,
+                  color: overallTrend === '\u2191'
+                    ? 'var(--status-ok)'
+                    : overallTrend === '\u2193'
+                    ? 'var(--status-critical)'
+                    : 'var(--accent-cyan)',
+                  textShadow: overallTrend !== '\u2192'
+                    ? `0 0 8px ${overallTrend === '\u2191' ? 'var(--status-ok)' : 'var(--status-critical)'}50`
+                    : 'none',
+                  lineHeight: 1,
+                }}>
+                  {overallTrend}
+                </span>
+              )}
+            </div>
+          )}
+          {!isOffline && (healthDelta !== null || overallTrend) && (
+            <div style={{
+              fontFamily: "'Share Tech Mono', monospace",
+              fontSize: 9,
+              color: 'var(--text-muted)',
+              textAlign: 'center',
+              marginTop: 2,
+              letterSpacing: '0.05em',
+            }}>
+              vs предыдущий замер
+            </div>
+          )}
           {isOffline && (
             <div className="text-xs font-mono mt-1" style={{ color: 'rgba(255,255,255,0.3)' }}>Двигатель выкл</div>
           )}
@@ -154,7 +222,7 @@ export function Dashboard() {
             <div className="hud-header mb-3">{'\u0414\u0438\u0430\u0433\u043D\u043E\u0441\u0442\u0438\u043A\u0430'}</div>
             <div className="grid grid-cols-4 gap-3">
               {diagnostics.filter((d: any) => d.confidence >= 40).slice(0, 4).map((d: any) => (
-                <div key={d.name} className="flex items-center gap-2">
+                <div key={d.name || d.rule_name} className="flex items-center gap-2">
                   <StatusBadge status={d.status === 'likely' ? 'critical' : d.status === 'possible' ? 'warning' : 'ok'} />
                   <span className="text-xs text-white/70 font-mono">{d.display}</span>
                   <span className="text-xs font-mono ml-auto" style={{ color: theme.accent.cyan }}>{d.confidence}%</span>
@@ -165,29 +233,110 @@ export function Dashboard() {
         </div>
       )}
 
+      {/* Советы Пантелея — next_steps from V2 report */}
+      {v2Report?.next_steps && v2Report.next_steps.length > 0 && (
+        <div className="col-span-12">
+          <GlassPanel>
+            <div style={{ display: 'flex', alignItems: 'flex-start', gap: 12 }}>
+              <img src={robotImg} alt="" style={{ width: 40, height: 40, objectFit: 'contain', flexShrink: 0, marginTop: 2 }} />
+              <div style={{ flex: 1 }}>
+                <div className="hud-header mb-2" style={{ fontSize: 11 }}>Советы Пантелея</div>
+                <div style={{ display: 'flex', flexDirection: 'column', gap: 6 }}>
+                  {v2Report.next_steps.map((step: string, i: number) => (
+                    <div key={i} style={{
+                      display: 'flex', alignItems: 'flex-start', gap: 8,
+                      fontSize: 12, fontFamily: "'Rajdhani', sans-serif", fontWeight: 500,
+                      color: theme.text.secondary, lineHeight: 1.4,
+                    }}>
+                      <span style={{
+                        flexShrink: 0, width: 18, height: 18, borderRadius: '50%',
+                        display: 'flex', alignItems: 'center', justifyContent: 'center',
+                        fontSize: 9, fontFamily: "'Orbitron', sans-serif", fontWeight: 700,
+                        background: `${theme.accent.teal}15`, color: theme.accent.teal,
+                        border: `1px solid ${theme.accent.teal}30`,
+                      }}>
+                        {i + 1}
+                      </span>
+                      <span>{step}</span>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            </div>
+          </GlassPanel>
+        </div>
+      )}
+
+      {/* Чек-лист по системам */}
+      {!isOffline && (
+        <div className="col-span-12">
+          <GlassPanel>
+            <div className="hud-header mb-3">Состояние систем</div>
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
+              {([
+                { key: 'suspension', name: 'Подвеска', icon: '\u{1F6DE}' },
+                { key: 'engine', name: 'Двигатель', icon: '\u2699' },
+                { key: 'electrical', name: 'Электрика', icon: '\u26A1' },
+                { key: 'audio', name: 'Шумы', icon: '\u{1F50A}' },
+              ] as const).map(sys => {
+                const score = v2Scores?.[sys.key] ?? systems[sys.key]?.score ?? 0
+                const st = score === 0 && isOffline ? 'offline' : score >= 80 ? 'ok' : score >= 50 ? 'warning' : 'critical'
+                const stColor = st === 'ok' ? theme.status.ok : st === 'warning' ? theme.status.warning : st === 'critical' ? theme.status.critical : theme.text.muted
+                const stLabel = st === 'ok' ? 'Норма' : st === 'warning' ? 'Внимание' : st === 'critical' ? 'Проблема' : '--'
+                const checkIcon = st === 'ok' ? '\u2713' : st === 'warning' ? '\u26A0' : st === 'critical' ? '\u2717' : '\u2014'
+                return (
+                  <div key={sys.key} style={{
+                    display: 'flex', alignItems: 'center', gap: 8,
+                    padding: '8px 10px', borderRadius: 4,
+                    background: `${stColor}08`,
+                    border: `1px solid ${stColor}20`,
+                  }}>
+                    <span style={{ fontSize: 16 }}>{sys.icon}</span>
+                    <div style={{ flex: 1 }}>
+                      <div style={{ fontSize: 11, fontFamily: "'Rajdhani', sans-serif", fontWeight: 600, color: theme.text.primary }}>
+                        {sys.name}
+                      </div>
+                      <div style={{ display: 'flex', alignItems: 'center', gap: 4, marginTop: 2 }}>
+                        <span style={{ fontSize: 12, fontWeight: 'bold', color: stColor }}>{checkIcon}</span>
+                        <span style={{ fontSize: 10, fontFamily: "'Rajdhani', sans-serif", color: stColor, fontWeight: 600 }}>
+                          {stLabel}
+                        </span>
+                        <span style={{ fontSize: 10, fontFamily: 'Consolas, monospace', color: stColor, marginLeft: 'auto' }}>
+                          {score > 0 ? score : '--'}
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                )
+              })}
+            </div>
+          </GlassPanel>
+        </div>
+      )}
+
       {/* Status bar — compact info strip */}
       <div className="col-span-12">
         <div style={{ height: 1, background: 'linear-gradient(90deg, transparent, rgba(0,229,255,0.3), transparent)', marginBottom: 2 }} />
         <GlassPanel className="!py-2 !px-4">
-          <div className="flex items-center justify-between text-xs font-mono">
-            <div className="flex items-center gap-6">
+          <div className="status-bar-inner flex items-center justify-between text-xs font-mono">
+            <div className="status-bar-info flex items-center gap-6">
               <span className="flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-green-400 shadow-[0_0_6px_#4ade80]" />
+                <span className="w-2 h-2 rounded-full bg-green-400 shadow-[0_0_6px_#4ade80]" style={{ flexShrink: 0 }} />
                 <span className="text-white/50">{'\u0421\u0442\u0430\u0442\u0443\u0441'}:</span>
                 <span className="text-white/80">{'\u0421\u0442\u043E\u044F\u043D\u043A\u0430'}</span>
               </span>
-              <span className="text-white/30">|</span>
+              <span className="status-bar-divider text-white/30">|</span>
               <span className="text-white/50">Дорога: <span className="text-white/80">{
                 ({standstill:'стоянка',asphalt:'асфальт',gravel:'грунт'} as Record<string,string>)[anomaly?.road_type] || anomaly?.road_type || 'н/д'
               }</span></span>
-              <span className="text-white/30">|</span>
+              <span className="status-bar-divider text-white/30">|</span>
               <span className="text-white/50">Режим: <span style={{ color: '#00E5FF' }}>{
                 ({idle:'холостой',city:'город',highway:'трасса',acceleration:'разгон',braking:'торможение',cornering:'поворот',unknown:'н/д'} as Record<string,string>)[anomaly?.regime] || anomaly?.regime || 'н/д'
               }</span></span>
-              <span className="text-white/30">|</span>
+              <span className="status-bar-divider text-white/30">|</span>
               <WeatherWidget weather={apiData?.latest_weather} />
             </div>
-            <div className="flex items-center gap-3">
+            <div className="status-bar-time-range flex items-center gap-3">
               {[
                 { label: '5м', val: 5 },
                 { label: '15м', val: 15 },

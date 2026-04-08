@@ -10,6 +10,7 @@ Resolution hierarchy (highest priority first):
 from __future__ import annotations
 
 import json
+import os
 from typing import Any, Dict, List, Optional, Set
 
 
@@ -88,6 +89,15 @@ class KnowledgeBase:
         # brand -> {situation_id: situation_dict}
         self._brand_situations_by_id: Dict[str, Dict[str, Dict[str, Any]]] = {}
 
+        # Severity overrides — loaded from data/severity_overrides.json if present
+        self._severity_overrides: Dict[str, str] = {}
+        overrides_path = os.path.join(
+            os.path.dirname(os.path.abspath(dtc_index_path)),
+            "severity_overrides.json",
+        )
+        if os.path.isfile(overrides_path):
+            self._severity_overrides = _load_json(overrides_path)
+
     # ------------------------------------------------------------------
     # Brand overlay
     # ------------------------------------------------------------------
@@ -115,16 +125,26 @@ class KnowledgeBase:
     # ------------------------------------------------------------------
 
     def resolve_dtc(self, code: str, brand: Optional[str] = None) -> Optional[Dict[str, Any]]:
-        """Resolve a DTC code. Brand layer overrides universal if present."""
+        """Resolve a DTC code. Brand layer overrides universal if present.
+
+        After lookup, severity_overrides.json is applied as a final correction
+        layer -- it fixes known inconsistencies in the upstream DTC databases.
+        """
+        result: Optional[Dict[str, Any]] = None
+
         if brand and brand in self._brand_layers:
             brand_dtc = self._brand_layers[brand]["dtc"]
             if code in brand_dtc:
-                return dict(brand_dtc[code])  # shallow copy
+                result = dict(brand_dtc[code])  # shallow copy
 
-        if code in self._universal_dtc:
-            return dict(self._universal_dtc[code])
+        if result is None and code in self._universal_dtc:
+            result = dict(self._universal_dtc[code])
 
-        return None
+        # Apply severity override (highest priority correction layer)
+        if result is not None and code in self._severity_overrides:
+            result["severity"] = self._severity_overrides[code]
+
+        return result
 
     # ------------------------------------------------------------------
     # Situation finders

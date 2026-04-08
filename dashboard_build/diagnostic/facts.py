@@ -48,6 +48,7 @@ class FactType(Enum):
     VIBRATION_RPM_CORRELATION = "vibration_rpm_correlation"
     AUDIO_WHEEL_CORRELATION = "audio_wheel_correlation"
     MULTI_DTC_PATTERN = "multi_dtc_pattern"
+    CORRELATION = "correlation"
 
 
 # ---------------------------------------------------------------------------

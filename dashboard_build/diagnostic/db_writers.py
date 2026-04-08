@@ -145,8 +145,15 @@ def write_anomaly_scores(
     report: dict,
     features: dict,
     regime: str,
+    history: list = None,
 ) -> None:
-    """Write health scores + features to anomaly_scores table."""
+    """Write health scores + features to anomaly_scores table.
+
+    GAP-A2: Also computes and writes cusum_short/cusum_medium/cusum_long
+    columns and degradation_detected flag using MultiScaleCUSUM.
+    """
+    from .cusum import MultiScaleCUSUM
+
     ph = _placeholder(cursor)
     now = _now_iso()
     scores = report.get("health_scores", {})
@@ -158,13 +165,34 @@ def write_anomaly_scores(
 
     features_json = json.dumps(features, default=str)
 
+    # GAP-A2: Multi-scale CUSUM trends
+    cusum_short = None
+    cusum_medium = None
+    cusum_long = None
+    degradation = False
+
+    if history and len(history) >= 5:
+        ms_cusum = MultiScaleCUSUM()
+        # Use overall_score for the aggregate CUSUM columns
+        overall_values = [
+            h["overall_score"] for h in history
+            if h.get("overall_score") is not None
+        ]
+        if len(overall_values) >= 5:
+            all_scales = ms_cusum.compute_all_scales(overall_values)
+            cusum_short = all_scales["short"]
+            cusum_medium = all_scales["medium"]
+            cusum_long = all_scales["long"]
+            degradation = ms_cusum.degradation_detected(history)
+
     cursor.execute(
         f"""INSERT INTO anomaly_scores
             (time, client_hash, regime, overall_score, suspension_score,
              engine_score, electrical_score, audio_score, confidence,
-             top_diagnostic, top_diagnostic_confidence, features_json)
+             top_diagnostic, top_diagnostic_confidence, features_json,
+             cusum_short, cusum_medium, cusum_long, degradation_detected)
             VALUES ({ph}, {ph}, {ph}, {ph}, {ph}, {ph}, {ph}, {ph},
-                    {ph}, {ph}, {ph}, {ph})""",
+                    {ph}, {ph}, {ph}, {ph}, {ph}, {ph}, {ph}, {ph})""",
         (
             now,
             client_hash,
@@ -178,6 +206,10 @@ def write_anomaly_scores(
             top_diag,
             top_conf,
             features_json,
+            cusum_short,
+            cusum_medium,
+            cusum_long,
+            degradation,
         ),
     )
 
@@ -255,10 +287,18 @@ def load_vehicle_profile(cursor, client_hash: str) -> Optional['VehicleProfile']
 
 
 def write_dtc_events(cursor, client_hash: str, dtc_codes: list,
-                     freeze_frame: dict = None) -> int:
-    """Write DTC events to dtc_events table. Returns count.
+                     freeze_frame: dict = None, ecu: Optional[str] = None) -> int:
+    """Write DTC events to dtc_events table. Returns count of new/updated rows.
 
-    freeze_frame: snapshot of OBD params at time of DTC (rpm, speed, coolant, etc.)
+    If the same DTC code is already active (resolved_at IS NULL) for this client,
+    increment its occurrences counter instead of inserting a duplicate row.
+
+    Args:
+        cursor:       DB cursor (SQLite or PostgreSQL).
+        client_hash:  Vehicle identifier.
+        dtc_codes:    List of DTC code strings (e.g. ["P0300", "P0171"]).
+        freeze_frame: Snapshot of OBD params at time of DTC.
+        ecu:          ECU address that reported the DTC (e.g. "7E8").
     """
     ph = _placeholder(cursor)
     now = _now_iso()
@@ -266,13 +306,81 @@ def write_dtc_events(cursor, client_hash: str, dtc_codes: list,
 
     count = 0
     for code in dtc_codes:
+        # Check if this DTC is already active (not resolved)
         cursor.execute(
-            f"""INSERT INTO dtc_events (time, client_hash, dtc_code, freeze_frame, occurrences)
-                VALUES ({ph}, {ph}, {ph}, {ph}, 1)""",
-            (now, client_hash, code, freeze_json)
+            f"""SELECT id, occurrences FROM dtc_events
+                WHERE client_hash = {ph} AND dtc_code = {ph}
+                AND resolved_at IS NULL
+                ORDER BY time DESC LIMIT 1""",
+            (client_hash, code),
         )
+        existing = cursor.fetchone()
+
+        if existing is not None:
+            # Increment occurrences on existing active DTC and update freeze_frame
+            row_id = existing[0]
+            old_occ = existing[1]
+            if freeze_json is not None:
+                cursor.execute(
+                    f"UPDATE dtc_events SET occurrences = {ph}, time = {ph}, freeze_frame = {ph} WHERE id = {ph}",
+                    (old_occ + 1, now, freeze_json, row_id),
+                )
+            else:
+                cursor.execute(
+                    f"UPDATE dtc_events SET occurrences = {ph}, time = {ph} WHERE id = {ph}",
+                    (old_occ + 1, now, row_id),
+                )
+        else:
+            # Insert new DTC event
+            cursor.execute(
+                f"""INSERT INTO dtc_events
+                    (time, client_hash, dtc_code, ecu, freeze_frame, occurrences)
+                    VALUES ({ph}, {ph}, {ph}, {ph}, {ph}, 1)""",
+                (now, client_hash, code, ecu, freeze_json),
+            )
         count += 1
     return count
+
+
+def resolve_cleared_dtcs(cursor, client_hash: str, active_codes: list) -> int:
+    """Mark DTCs as resolved if they are no longer in the active set.
+
+    For any dtc_events row where resolved_at IS NULL and dtc_code NOT in
+    active_codes, set resolved_at = now.
+
+    Args:
+        cursor:       DB cursor (SQLite or PostgreSQL).
+        client_hash:  Vehicle identifier.
+        active_codes: List of DTC codes currently still active. Any active
+                      DTC not in this list will be marked resolved.
+
+    Returns:
+        Number of rows resolved.
+    """
+    ph = _placeholder(cursor)
+    now = _now_iso()
+
+    # Find all currently-active (unresolved) DTCs for this client
+    cursor.execute(
+        f"""SELECT id, dtc_code FROM dtc_events
+            WHERE client_hash = {ph} AND resolved_at IS NULL""",
+        (client_hash,),
+    )
+    rows = cursor.fetchall()
+
+    active_set = set(active_codes)
+    resolved_count = 0
+    for row in rows:
+        row_id = row[0]
+        dtc_code = row[1]
+        if dtc_code not in active_set:
+            cursor.execute(
+                f"UPDATE dtc_events SET resolved_at = {ph} WHERE id = {ph}",
+                (now, row_id),
+            )
+            resolved_count += 1
+
+    return resolved_count
 
 
 def write_feedback(

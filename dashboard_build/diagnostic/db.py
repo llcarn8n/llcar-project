@@ -103,7 +103,11 @@ class MockDB:
             confidence REAL,
             top_diagnostic TEXT,
             top_diagnostic_confidence INTEGER DEFAULT 0,
-            features_json TEXT
+            features_json TEXT,
+            cusum_short TEXT,
+            cusum_medium TEXT,
+            cusum_long TEXT,
+            degradation_detected INTEGER DEFAULT 0
         )""")
 
         c.execute("""CREATE TABLE IF NOT EXISTS correlation_results (
@@ -138,8 +142,10 @@ class MockDB:
             time TEXT NOT NULL,
             client_hash TEXT NOT NULL,
             dtc_code TEXT NOT NULL,
+            ecu TEXT,
             freeze_frame TEXT,
-            occurrences INTEGER DEFAULT 1
+            occurrences INTEGER DEFAULT 1,
+            resolved_at TEXT
         )""")
 
         self.conn.commit()

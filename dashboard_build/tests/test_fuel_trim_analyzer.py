@@ -2,7 +2,9 @@
 import pytest
 
 from diagnostic.vehicle_profile import VehicleProfile
-from diagnostic.fuel_trim_analyzer import FuelTrimAnalyzer, FuelTrimResult
+from diagnostic.fuel_trim_analyzer import (
+    FuelTrimAnalyzer, FuelTrimResult, DualRegimeResult, DualBankResult,
+)
 from diagnostic.normalizer import DrivingRegime
 
 
@@ -253,3 +255,195 @@ class TestResultDataclass:
         assert hasattr(r, "raw_stft")
         assert r.raw_ltft == 12.0
         assert r.raw_stft == 5.0
+
+
+# ===========================================================================
+# Dual-regime LTFT analysis (idle vs 2000 RPM)
+# ===========================================================================
+
+
+class TestDualRegimeAnalysis:
+    """Dual-regime LTFT comparison — key diagnostic differentiator.
+
+    Professional mechanic technique:
+      - Both bad → air leak / MAF
+      - Idle only → adsorber / PCV valve
+      - Load only → fuel pressure / injectors / catalytic converter
+      - Both normal → no issue
+    """
+
+    def test_both_regimes_bad(self):
+        """LTFT elevated on both idle and 2000 RPM → both_regimes pattern."""
+        a = FuelTrimAnalyzer(_default_profile())
+        r = a.analyze_dual_regime(ltft_idle=12.0, ltft_2000rpm=10.0)
+        assert isinstance(r, DualRegimeResult)
+        assert r.regime_pattern == "both_regimes"
+        assert "утечка воздуха" in r.diagnosis_hint
+        assert "MAF" in r.diagnosis_hint
+        assert len(r.recommended_tests) > 0
+        assert any("ДМРВ" in t for t in r.recommended_tests)
+
+    def test_idle_only_bad(self):
+        """LTFT elevated only at idle → idle_only pattern."""
+        a = FuelTrimAnalyzer(_default_profile())
+        r = a.analyze_dual_regime(ltft_idle=10.0, ltft_2000rpm=2.0)
+        assert r.regime_pattern == "idle_only"
+        assert "адсорбер" in r.diagnosis_hint
+        assert "вентиляции картера" in r.diagnosis_hint
+        assert len(r.recommended_tests) > 0
+        assert any("адсорбер" in t.lower() for t in r.recommended_tests)
+
+    def test_load_only_bad(self):
+        """LTFT elevated only at 2000 RPM → load_only pattern."""
+        a = FuelTrimAnalyzer(_default_profile())
+        r = a.analyze_dual_regime(ltft_idle=2.0, ltft_2000rpm=10.0)
+        assert r.regime_pattern == "load_only"
+        assert "давление топлива" in r.diagnosis_hint
+        assert "форсунки" in r.diagnosis_hint
+        assert len(r.recommended_tests) > 0
+        assert any("давление" in t.lower() for t in r.recommended_tests)
+
+    def test_both_normal(self):
+        """LTFT normal on both regimes → normal pattern."""
+        a = FuelTrimAnalyzer(_default_profile())
+        r = a.analyze_dual_regime(ltft_idle=2.0, ltft_2000rpm=1.5)
+        assert r.regime_pattern == "normal"
+        assert r.recommended_tests == []
+        assert "в норме" in r.diagnosis_hint
+
+    def test_severity_reflects_each_regime(self):
+        """Idle severity and load severity computed independently."""
+        a = FuelTrimAnalyzer(_default_profile())
+        # idle=12% → PROBLEM, load=2% → NORMAL
+        r = a.analyze_dual_regime(ltft_idle=12.0, ltft_2000rpm=2.0)
+        assert r.idle_severity == "PROBLEM"
+        assert r.load_severity == "NORMAL"
+
+    def test_vehicle_corrections_applied(self):
+        """Euro2 offset is applied before threshold comparison."""
+        a = FuelTrimAnalyzer(_euro2_profile())
+        # Euro2 offset = -7.5. Raw idle=-12 → corrected = (-12-(-7.5))/1.0 = -4.5 → abs=4.5 < 5 → normal
+        # Raw load=-10 → corrected = (-10-(-7.5))/1.0 = -2.5 → abs=2.5 < 5 → normal
+        r = a.analyze_dual_regime(ltft_idle=-12.0, ltft_2000rpm=-10.0)
+        assert r.regime_pattern == "normal"
+
+    def test_negative_ltft_both_bad(self):
+        """Negative (rich) LTFT on both regimes is caught as both_regimes."""
+        a = FuelTrimAnalyzer(_default_profile())
+        r = a.analyze_dual_regime(ltft_idle=-10.0, ltft_2000rpm=-8.0)
+        assert r.regime_pattern == "both_regimes"
+
+    def test_stft_values_stored(self):
+        """STFT values are stored in the result for downstream use."""
+        a = FuelTrimAnalyzer(_default_profile())
+        r = a.analyze_dual_regime(
+            ltft_idle=10.0, ltft_2000rpm=2.0,
+            stft_idle=5.0, stft_2000rpm=1.0,
+        )
+        assert r.stft_idle == 5.0
+        assert r.stft_2000rpm == 1.0
+        assert r.ltft_idle == 10.0
+        assert r.ltft_2000rpm == 2.0
+
+
+# ===========================================================================
+# Dual-bank LTFT analysis (Bank 1 vs Bank 2) — GAP-F2
+# ===========================================================================
+
+
+class TestDualBankAnalysis:
+    """Dual-bank LTFT comparison to classify problem locality.
+
+    symmetric  (delta < 3%): common problem (fuel, air, MAF)
+    asymmetric (delta >= 3%): localized problem (injector, vacuum leak on one side)
+    """
+
+    def test_symmetric_identical_banks(self):
+        """Both banks at same LTFT -> symmetric, delta=0."""
+        a = FuelTrimAnalyzer(_default_profile())
+        r = a.analyze_dual_bank(ltft_bank1=8.0, ltft_bank2=8.0)
+        assert isinstance(r, DualBankResult)
+        assert r.pattern == "symmetric"
+        assert r.delta == pytest.approx(0.0)
+
+    def test_symmetric_small_delta(self):
+        """Banks differ by 2% -> symmetric (below 3% threshold)."""
+        a = FuelTrimAnalyzer(_default_profile())
+        r = a.analyze_dual_bank(ltft_bank1=10.0, ltft_bank2=8.0)
+        assert r.pattern == "symmetric"
+        assert r.delta == pytest.approx(2.0)
+
+    def test_asymmetric_large_delta(self):
+        """Banks differ by 5% -> asymmetric (above 3% threshold)."""
+        a = FuelTrimAnalyzer(_default_profile())
+        r = a.analyze_dual_bank(ltft_bank1=10.0, ltft_bank2=5.0)
+        assert r.pattern == "asymmetric"
+        assert r.delta == pytest.approx(5.0)
+
+    def test_asymmetric_exact_threshold(self):
+        """Banks differ by exactly 3% -> asymmetric (>= threshold)."""
+        a = FuelTrimAnalyzer(_default_profile())
+        r = a.analyze_dual_bank(ltft_bank1=8.0, ltft_bank2=5.0)
+        assert r.pattern == "asymmetric"
+        assert r.delta == pytest.approx(3.0)
+
+    def test_symmetric_just_below_threshold(self):
+        """Banks differ by 2.9% -> symmetric (< 3%)."""
+        a = FuelTrimAnalyzer(_default_profile())
+        r = a.analyze_dual_bank(ltft_bank1=7.9, ltft_bank2=5.0)
+        assert r.pattern == "symmetric"
+        assert r.delta == pytest.approx(2.9)
+
+    def test_symmetric_hint_contains_common_cause(self):
+        """Symmetric diagnosis mentions common cause."""
+        a = FuelTrimAnalyzer(_default_profile())
+        r = a.analyze_dual_bank(ltft_bank1=8.0, ltft_bank2=8.0)
+        assert "общая причина" in r.diagnosis_hint
+
+    def test_asymmetric_hint_contains_localized_cause(self):
+        """Asymmetric diagnosis mentions localized cause."""
+        a = FuelTrimAnalyzer(_default_profile())
+        r = a.analyze_dual_bank(ltft_bank1=15.0, ltft_bank2=5.0)
+        assert "локальная причина" in r.diagnosis_hint
+        assert "форсунка" in r.diagnosis_hint
+
+    def test_negative_ltft_asymmetric(self):
+        """Negative LTFT values (rich) with large delta -> asymmetric."""
+        a = FuelTrimAnalyzer(_default_profile())
+        r = a.analyze_dual_bank(ltft_bank1=-10.0, ltft_bank2=-3.0)
+        assert r.pattern == "asymmetric"
+        assert r.delta == pytest.approx(7.0)
+
+    def test_vehicle_correction_applied(self):
+        """Euro2 offset cancels out for delta computation (same offset both banks)."""
+        a = FuelTrimAnalyzer(_euro2_profile())
+        # offset = -7.5, mult = 1.0
+        # corrected_b1 = (-12 - (-7.5)) / 1.0 = -4.5
+        # corrected_b2 = (-10 - (-7.5)) / 1.0 = -2.5
+        # delta = abs(-4.5 - (-2.5)) = 2.0 -> symmetric
+        r = a.analyze_dual_bank(ltft_bank1=-12.0, ltft_bank2=-10.0)
+        assert r.pattern == "symmetric"
+        assert r.delta == pytest.approx(2.0)
+
+    def test_stft_values_stored(self):
+        """STFT values are stored in the result for downstream use."""
+        a = FuelTrimAnalyzer(_default_profile())
+        r = a.analyze_dual_bank(
+            ltft_bank1=10.0, ltft_bank2=5.0,
+            stft_bank1=3.0, stft_bank2=1.0,
+        )
+        assert r.stft_bank1 == 3.0
+        assert r.stft_bank2 == 1.0
+        assert r.ltft_bank1 == 10.0
+        assert r.ltft_bank2 == 5.0
+
+    def test_lpg_tolerance_affects_delta(self):
+        """LPG tolerance mult=1.5 reduces effective delta between banks."""
+        a = FuelTrimAnalyzer(_lpg_profile())
+        # mult=1.5, offset=0
+        # corrected_b1 = 9.0 / 1.5 = 6.0
+        # corrected_b2 = 4.5 / 1.5 = 3.0
+        # delta = abs(6.0 - 3.0) = 3.0 -> asymmetric (exactly at threshold)
+        r = a.analyze_dual_bank(ltft_bank1=9.0, ltft_bank2=4.5)
+        assert r.pattern == "asymmetric"
+        assert r.delta == pytest.approx(3.0)
