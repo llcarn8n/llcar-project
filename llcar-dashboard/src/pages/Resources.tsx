@@ -1,4 +1,4 @@
-import { useState, useMemo } from 'react'
+import { useState, useMemo, useEffect } from 'react'
 import { GlassPanel } from '../components/shared/GlassPanel'
 import { useDashboardStore } from '../stores/dashboardStore'
 import { theme } from '../theme'
@@ -46,6 +46,106 @@ const CATEGORY_INFO: Record<string, { label: string; icon: string; color: string
   tool: { label: 'Инструменты', icon: '\u{1F6E0}', color: theme.accent.teal },
   manufacturer: { label: 'Производители', icon: '\u{1F3ED}', color: theme.status.warning },
   recall: { label: 'Отзывные кампании', icon: '\u26A0', color: theme.status.critical },
+}
+
+interface RecallCampaign {
+  id: string; brand: string; models: string[]; date: string;
+  count: number; title: string; desc: string; severity: string;
+}
+
+function RecallsSearch({ brand }: { brand: string | null; model: string | null }) {
+  const [recalls, setRecalls] = useState<RecallCampaign[]>([])
+  const [loading, setLoading] = useState(true)
+  const [search, setSearch] = useState('')
+
+  useEffect(() => {
+    fetch(`${import.meta.env.BASE_URL}data/recalls.json`)
+      .then(r => r.json())
+      .then((d: RecallCampaign[]) => { setRecalls(d); setLoading(false) })
+      .catch(() => setLoading(false))
+  }, [])
+
+  const filtered = useMemo(() => {
+    let results = recalls
+    if (brand) results = results.filter(r => r.brand === brand)
+    if (search) {
+      const q = search.toLowerCase()
+      results = results.filter(r =>
+        r.title.toLowerCase().includes(q) ||
+        r.models.some(m => m.toLowerCase().includes(q)) ||
+        r.brand.includes(q)
+      )
+    }
+    return results.slice(0, 30)
+  }, [recalls, brand, search])
+
+  return (
+    <GlassPanel>
+      <div className="hud-header mb-3">
+        Отзывные кампании
+        {!loading && <span style={{ fontSize: 10, color: theme.text.muted, marginLeft: 8, fontWeight: 400 }}>{recalls.length} в базе</span>}
+      </div>
+
+      <input
+        type="text"
+        placeholder="Поиск по кампаниям..."
+        value={search}
+        onChange={e => setSearch(e.target.value)}
+        style={{
+          width: '100%', padding: '10px 14px', marginBottom: 12,
+          fontFamily: "'Rajdhani', sans-serif", fontSize: 14, fontWeight: 600,
+          color: '#ffffff', background: '#0f1923',
+          border: '1px solid rgba(0,229,255,0.15)', borderRadius: 4, outline: 'none',
+        }}
+      />
+
+      {loading ? (
+        <div style={{ textAlign: 'center', padding: 16, fontFamily: "'Orbitron', sans-serif", fontSize: 12, color: theme.accent.cyan }}>LOADING...</div>
+      ) : (
+        <div style={{ display: 'flex', flexDirection: 'column', gap: 6, maxHeight: '50vh', overflowY: 'auto' }}>
+          {filtered.length === 0 && (
+            <div style={{ padding: 16, fontFamily: "'Rajdhani', sans-serif", fontSize: 13, color: theme.text.muted, textAlign: 'center' }}>
+              {brand ? `Нет отзывных кампаний для ${brand}` : 'Введите запрос или выберите автомобиль'}
+            </div>
+          )}
+          {filtered.map(r => (
+            <div key={r.id} style={{
+              padding: '12px 14px', borderRadius: 4,
+              background: 'rgba(255,23,68,0.03)', border: '1px solid rgba(255,23,68,0.1)',
+              transition: 'all 0.2s',
+            }}>
+              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', gap: 12 }}>
+                <div style={{ flex: 1 }}>
+                  <div style={{ fontFamily: "'Rajdhani', sans-serif", fontSize: 13, fontWeight: 700, color: theme.text.secondary, marginBottom: 4 }}>
+                    {r.title}
+                  </div>
+                  <div style={{ fontFamily: "'Rajdhani', sans-serif", fontSize: 11, color: theme.text.muted, lineHeight: 1.4, marginBottom: 6 }}>
+                    {r.desc}
+                  </div>
+                  <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
+                    {r.models.slice(0, 5).map(m => (
+                      <span key={m} style={{
+                        fontSize: 9, padding: '2px 6px', borderRadius: 2,
+                        background: 'rgba(0,229,255,0.06)', border: '1px solid rgba(0,229,255,0.12)',
+                        fontFamily: "'Rajdhani', sans-serif", fontWeight: 600, color: theme.accent.cyan,
+                      }}>{m}</span>
+                    ))}
+                  </div>
+                </div>
+                <div style={{ textAlign: 'right', flexShrink: 0 }}>
+                  <div style={{ fontFamily: "'Orbitron', sans-serif", fontSize: 12, fontWeight: 700, color: theme.status.critical }}>
+                    {r.count.toLocaleString()}
+                  </div>
+                  <div style={{ fontFamily: "'Rajdhani', sans-serif", fontSize: 9, color: theme.text.muted }}>авто</div>
+                  <div style={{ fontFamily: 'monospace', fontSize: 9, color: theme.text.muted, marginTop: 4 }}>{r.date}</div>
+                </div>
+              </div>
+            </div>
+          ))}
+        </div>
+      )}
+    </GlassPanel>
+  )
 }
 
 export function Resources() {
@@ -197,30 +297,9 @@ export function Resources() {
         </div>
       </div>
 
-      {/* Recalls section */}
+      {/* Recalls search */}
       <div className="col-span-12">
-        <GlassPanel>
-          <div className="hud-header mb-3">Проверка отзывных кампаний</div>
-          <div style={{
-            display: 'flex',
-            alignItems: 'center',
-            gap: 16,
-            padding: '16px 8px',
-          }}>
-            <span style={{ fontSize: 32, opacity: 0.4 }}>&#x1F6A8;</span>
-            <div style={{
-              fontFamily: "'Rajdhani', sans-serif",
-              fontSize: 13,
-              color: theme.text.muted,
-              lineHeight: 1.5,
-            }}>
-              В нашей базе <strong style={{ color: theme.accent.cyan }}>298</strong> отзывных кампаний.
-              {vehicleProfile
-                ? ` Проверка для ${vehicleProfile.brand} ${vehicleProfile.model} — скоро.`
-                : ' Выберите автомобиль для проверки.'}
-            </div>
-          </div>
-        </GlassPanel>
+        <RecallsSearch brand={vehicleProfile?.brandId || null} model={vehicleProfile?.model || null} />
       </div>
     </div>
   )
