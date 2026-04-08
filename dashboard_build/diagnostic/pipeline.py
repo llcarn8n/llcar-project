@@ -59,12 +59,15 @@ class DiagnosticPipeline:
         if dtc_index_path is not None and situations_path is not None:
             self._kb = KnowledgeBase(dtc_index_path, situations_path)
         else:
-            # Allow construction without KB paths for minimal usage
             import os
             data_dir = os.path.join(os.path.dirname(__file__), "..", "data")
+            dtc_full = os.path.join(data_dir, "dtc-index.json")
+            dtc_sample = os.path.join(data_dir, "dtc-index-sample.json")
+            sit_full = os.path.join(data_dir, "situations-universal.json")
+            sit_sample = os.path.join(data_dir, "situations-sample.json")
             self._kb = KnowledgeBase(
-                os.path.join(data_dir, "dtc-index-sample.json"),
-                os.path.join(data_dir, "situations-sample.json"),
+                dtc_full if os.path.exists(dtc_full) else dtc_sample,
+                sit_full if os.path.exists(sit_full) else sit_sample,
             )
 
         # Baseline store

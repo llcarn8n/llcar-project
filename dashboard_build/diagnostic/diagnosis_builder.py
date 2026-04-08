@@ -515,7 +515,8 @@ class DiagnosisBuilder:
         Strategy:
           1. If rule has dtc_codes, try find_situations_by_dtc for each code.
           2. If rule has situation_id, use it directly.
-          3. Fallback to empty dict.
+          3. Fallback: search by category + keyword from rule name.
+          4. Fallback to empty dict.
         """
         # Try DTC codes first
         dtc_codes = rule_result.get("dtc_codes", [])
@@ -530,6 +531,54 @@ class DiagnosisBuilder:
             situation = self._kb.find_situation_by_id(situation_id, brand=brand)
             if situation is not None:
                 return situation
+
+        # Fallback: match by category + keywords from rule name/display
+        rule_name = rule_result.get("name", "")
+        display = rule_result.get("display", "")
+        category = rule_result.get("tier", "").lower()
+
+        # Map rule name prefixes to KB categories
+        _CAT_MAP = {
+            "engine": "engine", "overheating": "engine", "coolant": "engine",
+            "fuel": "engine", "ltft": "engine", "stft": "engine",
+            "misfire": "engine", "catalyst": "engine", "lambda": "engine",
+            "suspension": "suspension", "worn": "suspension", "shock": "suspension",
+            "spring": "suspension", "bearing": "suspension", "vibrat": "suspension",
+            "electr": "electrical", "voltage": "electrical", "battery": "electrical",
+            "alternator": "electrical", "starter": "electrical",
+            "audio": "audio", "noise": "audio", "squeal": "audio",
+            "knock": "audio", "rattle": "audio", "hum": "audio",
+        }
+        matched_cat = None
+        search_term = rule_name.lower().replace("_", " ")
+        for prefix, cat in _CAT_MAP.items():
+            if prefix in search_term:
+                matched_cat = cat
+                break
+
+        if matched_cat:
+            try:
+                cat_situations = self._kb.find_situations_by_category(
+                    matched_cat, brand=brand,
+                )
+                # Find best match by keyword overlap with display name
+                display_words = set(display.lower().split())
+                best = None
+                best_score = 0
+                for s in cat_situations:
+                    title = s.get("title", "").lower()
+                    title_words = set(title.split())
+                    score = len(display_words & title_words)
+                    if score > best_score:
+                        best_score = score
+                        best = s
+                if best and best_score > 0:
+                    return best
+                # No keyword match — return first situation in category
+                if cat_situations:
+                    return cat_situations[0]
+            except Exception:
+                pass
 
         return {}
 
@@ -625,9 +674,20 @@ class DiagnosisBuilder:
         steps: List[str] = []
         for diag in diagnoses:
             if diag["status"] in ("likely", "possible"):
-                explanation = diag.get("explanation", "")
-                step = f"{diag['display']}: {explanation}" if explanation else diag["display"]
-                steps.append(step)
+                # Use repair roadmap first step if available, else can_drive advice
+                roadmap = diag.get("repair_roadmap", [])
+                can_drive = diag.get("can_drive", "")
+                if roadmap:
+                    steps.append(f"{diag['display']}: {roadmap[0]}")
+                elif can_drive and can_drive != "осторожно":
+                    steps.append(f"{diag['display']}: {can_drive}")
+                else:
+                    explanation = diag.get("explanation", "")
+                    # Don't repeat display name in explanation
+                    if explanation and diag["display"] not in explanation:
+                        steps.append(f"{diag['display']}: {explanation}")
+                    else:
+                        steps.append(diag["display"])
         return steps
 
     # ------------------------------------------------------------------
