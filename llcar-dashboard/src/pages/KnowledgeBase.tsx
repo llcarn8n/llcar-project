@@ -1,4 +1,5 @@
 import { SituationsList } from '../components/kb/SituationsList'
+import { ManualViewer } from '../components/kb/ManualViewer'
 import { GlassPanel } from '../components/shared/GlassPanel'
 import { useDashboardStore } from '../stores/dashboardStore'
 import { theme } from '../theme'
@@ -39,30 +40,11 @@ export function KnowledgeBase() {
 
       {/* Right sidebar: manuals + parts (stubs) */}
       <div className="col-span-12 lg:col-span-4 flex flex-col gap-3">
-        {/* Manuals stub */}
-        <GlassPanel>
-          <div className="hud-header mb-3">Руководства</div>
-          <div style={{
-            display: 'flex',
-            alignItems: 'center',
-            gap: 12,
-            padding: '16px 8px',
-          }}>
-            <span style={{ fontSize: 32, opacity: 0.3 }}>&#x1F4D6;</span>
-            <div style={{
-              fontFamily: "'Rajdhani', sans-serif",
-              fontSize: 12,
-              color: theme.text.muted,
-              lineHeight: 1.4,
-            }}>
-              Сервисные мануалы с разбивкой по системам.
-              <br />
-              {vehicleProfile
-                ? `Загрузка мануала для ${vehicleProfile.brand} ${vehicleProfile.model} — скоро.`
-                : '333 полных мануала в базе — выберите авто.'}
-            </div>
-          </div>
-        </GlassPanel>
+        {/* Manuals viewer */}
+        <ManualViewer
+          brandId={vehicleProfile?.brandId || null}
+          modelName={vehicleProfile?.model || null}
+        />
 
         {/* Parts stub */}
         <GlassPanel>
