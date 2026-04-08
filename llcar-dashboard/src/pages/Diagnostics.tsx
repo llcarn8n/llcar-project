@@ -25,6 +25,7 @@ import { OnboardingTour } from '../components/onboarding/OnboardingTour'
 import { BaselineStatus } from '../components/panels/BaselineStatus'
 import { OBDSetup } from '../components/diagnostics/OBDSetup'
 import { ChatPanel } from '../components/chat/ChatPanel'
+import { RulesList } from '../components/diagnostics/RulesList'
 
 const CoherenceMap = lazy(() => import('../components/panels/CoherenceMap').then(m => ({ default: m.CoherenceMap })))
 const CUSUMChart = lazy(() => import('../components/panels/CUSUMChart').then(m => ({ default: m.CUSUMChart })))
@@ -407,16 +408,21 @@ export function Diagnostics() {
         </div>
       )}
 
-      {/* OBD Setup + Chat */}
+      {/* Rules + OBD + Chat */}
       {!expanded && (
-        <div className="col-span-12 grid grid-cols-12 gap-3">
-          <div className="col-span-12 lg:col-span-4">
-            <OBDSetup />
+        <>
+          <div className="col-span-12">
+            <RulesList />
           </div>
-          <div className="col-span-12 lg:col-span-8">
-            <ChatPanel />
+          <div className="col-span-12 grid grid-cols-12 gap-3">
+            <div className="col-span-12 lg:col-span-4">
+              <OBDSetup />
+            </div>
+            <div className="col-span-12 lg:col-span-8">
+              <ChatPanel />
+            </div>
           </div>
-        </div>
+        </>
       )}
 
       {/* Row 4: Expert panels (CoherenceMap + CUSUMChart + PseudoOrderPlot) */}
