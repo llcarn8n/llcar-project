@@ -219,7 +219,7 @@ export function ErrorCodes() {
                 fontSize: 11,
                 fontWeight: 700,
                 letterSpacing: '0.1em',
-                color: '#0C1220',
+                color: '#1A1D26',
                 background: `linear-gradient(135deg, ${theme.accent.cyan}, ${theme.accent.teal})`,
                 border: 'none',
                 borderRadius: 4,

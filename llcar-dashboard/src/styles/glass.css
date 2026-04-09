@@ -1,8 +1,8 @@
 /* ── Theme Variables ── */
 :root {
-  --bg-primary: #0C1220;
-  --bg-panel: rgba(6, 15, 25, 0.55);
-  --bg-panel-end: rgba(10, 20, 30, 0.45);
+  --bg-primary: #151A2B;
+  --bg-panel: rgba(16, 22, 36, 0.6);
+  --bg-panel-end: rgba(20, 26, 40, 0.5);
   --text-primary: #FFFFFF;
   --text-secondary: rgba(255,255,255,0.75);
   --text-muted: rgba(255,255,255,0.45);
@@ -54,8 +54,8 @@
   --body-dots: rgba(0,229,255,0.15);
   --body-scanline: rgba(0, 229, 255, 0.02);
   --body-center: rgba(0, 229, 255, 0.04);
-  --body-vignette: #0C1220;
-  --scrollbar-bg: #0C1220;
+  --body-vignette: #151A2B;
+  --scrollbar-bg: #151A2B;
   --scrollbar-thumb: rgba(0,229,255,0.15);
   --scrollbar-thumb-hover: rgba(0,229,255,0.3);
   --header-border: rgba(255,255,255,0.05);
@@ -693,6 +693,69 @@ header {
   .status-bar-info > .status-bar-divider { display: none !important; }
   .status-bar-info { gap: 2px 8px !important; }
   .status-bar-time-range button { font-size: 9px !important; }
+}
+
+/* ── Rim Light (volumetric depth) ── */
+.glass-panel {
+  border-top: 1px solid rgba(255,255,255,0.08);
+  border-left: 1px solid rgba(255,255,255,0.04);
+  border-bottom: 1px solid rgba(0,0,0,0.3);
+  border-right: 1px solid rgba(0,0,0,0.15);
+}
+
+/* ── Bloom behind 3D instruments ── */
+.instrument-bloom {
+  position: relative;
+}
+.instrument-bloom::before {
+  content: '';
+  position: absolute;
+  inset: -20px;
+  background: radial-gradient(ellipse at center, rgba(0,229,255,0.06) 0%, transparent 70%);
+  border-radius: 20px;
+  z-index: -1;
+  pointer-events: none;
+}
+
+/* ── Trust metric glow ── */
+.metric-glow-cyan {
+  text-shadow: 0 0 20px rgba(0,229,255,0.6), 0 0 40px rgba(0,229,255,0.3);
+}
+.metric-glow-orange {
+  text-shadow: 0 0 20px rgba(255,140,0,0.6), 0 0 40px rgba(255,140,0,0.3);
+}
+.metric-glow-teal {
+  text-shadow: 0 0 20px rgba(100,255,218,0.6), 0 0 40px rgba(100,255,218,0.3);
+}
+
+/* ── Timeline rounded + shimmer ── */
+.timeline-rounded {
+  border-radius: 8px !important;
+  overflow: hidden;
+  position: relative;
+}
+.timeline-rounded::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.04), transparent);
+  animation: shimmer 4s ease-in-out infinite;
+  pointer-events: none;
+}
+@keyframes shimmer {
+  0%, 100% { transform: translateX(-100%); }
+  50% { transform: translateX(100%); }
+}
+
+/* ── T1 heartbeat pulse ── */
+@keyframes heartbeat-t1 {
+  0%, 100% { box-shadow: 0 0 4px rgba(255,23,68,0.4); transform: scale(1); }
+  25% { box-shadow: 0 0 12px rgba(255,23,68,0.8); transform: scale(1.3); }
+  35% { box-shadow: 0 0 6px rgba(255,23,68,0.5); transform: scale(1.05); }
+  45% { box-shadow: 0 0 10px rgba(255,23,68,0.7); transform: scale(1.2); }
+}
+.tier-dot-t1 {
+  animation: heartbeat-t1 1.5s ease-in-out infinite;
 }
 
 /* ── Tablet breakpoint (769-1024px) ── */
