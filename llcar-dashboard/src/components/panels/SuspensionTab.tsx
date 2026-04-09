@@ -1,6 +1,6 @@
 import * as echarts from 'echarts'
 import 'echarts-gl'
-import { useRef, useEffect, useMemo } from 'react'
+import { useRef, useEffect, useMemo, useState } from 'react'
 import { GlassPanel } from '../shared/GlassPanel'
 import { theme } from '../../theme'
 
@@ -16,6 +16,97 @@ function formatTime(ts: string): string {
     const d = new Date(ts)
     return `${String(d.getHours()).padStart(2, '0')}:${String(d.getMinutes()).padStart(2, '0')}`
   } catch { return ts }
+}
+
+function DetailCharts({ accelData, chartAxesRef, chartCorridorRef }: {
+  accelData: SuspensionTabProps['accelData']
+  chartAxesRef: React.RefObject<HTMLDivElement | null>
+  chartCorridorRef: React.RefObject<HTMLDivElement | null>
+}) {
+  const [open, setOpen] = useState(false)
+
+  return (
+    <>
+      <button
+        onClick={() => setOpen(!open)}
+        style={{
+          width: '100%',
+          padding: '10px 16px',
+          fontFamily: "'Rajdhani', sans-serif",
+          fontSize: 13,
+          fontWeight: 700,
+          color: open ? '#0C1220' : 'var(--accent-cyan)',
+          background: open ? 'var(--accent-cyan)' : 'rgba(0,229,255,0.06)',
+          border: `1px solid ${open ? 'transparent' : 'rgba(0,229,255,0.2)'}`,
+          borderRadius: 6,
+          cursor: 'pointer',
+          transition: 'all 0.3s',
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          gap: 8,
+        }}
+      >
+        <span style={{ transition: 'transform 0.3s', transform: open ? 'rotate(90deg)' : 'rotate(0)' }}>▶</span>
+        {open ? 'Скрыть подробности' : 'Подробнее — графики по осям и коридор Z'}
+      </button>
+
+      {open && (
+        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 12 }}>
+          {/* Vibration by axes */}
+          <GlassPanel style={{ background: 'rgba(6, 15, 25, 0.5)' }}>
+            <div className="hud-header" style={{ marginBottom: 4 }}>Вибрация по осям</div>
+            <div style={{
+              fontSize: 10, color: 'rgba(255,255,255,0.45)',
+              fontFamily: "'Rajdhani', sans-serif",
+              lineHeight: 1.5, marginBottom: 8,
+              padding: '6px 8px',
+              background: 'rgba(0,229,255,0.03)',
+              borderRadius: 4,
+              border: '1px solid rgba(0,229,255,0.06)',
+            }}>
+              Три линии — тряска по каждой оси за период наблюдения.
+              <span style={{ color: '#ef4444' }}> Красная (X)</span> — боковые крены в поворотах и на колее.
+              <span style={{ color: '#4ade80' }}> Зелёная (Y)</span> — рывки при разгоне и торможении.
+              <span style={{ color: '#60a5fa' }}> Синяя (Z)</span> — удары от ям и лежачих полицейских.
+              Если одна ось стабильно выше — проблема в конкретном узле подвески.
+            </div>
+            <div ref={chartAxesRef} style={{ width: '100%', height: 240 }} />
+          </GlassPanel>
+
+          {/* Z corridor */}
+          <GlassPanel style={{ background: 'rgba(6, 15, 25, 0.5)', position: 'relative' }}>
+            <div className="hud-header" style={{ marginBottom: 4 }}>Вертикальная ось Z — коридор ям</div>
+            <div style={{
+              fontSize: 10, color: 'rgba(255,255,255,0.45)',
+              fontFamily: "'Rajdhani', sans-serif",
+              lineHeight: 1.5, marginBottom: 8,
+              padding: '6px 8px',
+              background: 'rgba(0,229,255,0.03)',
+              borderRadius: 4,
+              border: '1px solid rgba(0,229,255,0.06)',
+            }}>
+              Синяя линия — текущая вертикальная вибрация (ямы, кочки, лежачие полицейские).
+              Пунктир — минимум и максимум за период.
+              Широкий коридор = неровная дорога или изношенные амортизаторы.
+              Узкий коридор = ровная дорога, подвеска в порядке.
+            </div>
+            <div ref={chartCorridorRef} style={{ width: '100%', height: 240 }} />
+            {!accelData.some(d => d.z_min != null || d.z_max != null) && (
+              <div style={{
+                position: 'absolute', bottom: 20, left: 0, right: 0,
+                display: 'flex', alignItems: 'center', justifyContent: 'center',
+                color: 'rgba(255,255,255,0.3)', fontSize: 11,
+                fontFamily: "'Share Tech Mono', monospace",
+              }}>
+                Нет данных min/max для этого периода
+              </div>
+            )}
+          </GlassPanel>
+        </div>
+      )}
+    </>
+  )
 }
 
 export function SuspensionTab({ accelData }: SuspensionTabProps) {
@@ -582,30 +673,12 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
         </div>
       </GlassPanel>
 
-      {/* 4. Two 2D Charts */}
-      <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 12 }}>
-        {/* Vibration by axes — stacked area */}
-        <GlassPanel style={{ background: 'rgba(6, 15, 25, 0.5)' }}>
-          <div className="hud-header" style={{ marginBottom: 4 }}>Вибрация по осям</div>
-          <div ref={chartAxesRef} style={{ width: '100%', height: 240 }} />
-        </GlassPanel>
-
-        {/* Z min/max corridor */}
-        <GlassPanel style={{ background: 'rgba(6, 15, 25, 0.5)' }}>
-          <div className="hud-header" style={{ marginBottom: 4 }}>Мин/Макс коридор Z</div>
-          <div ref={chartCorridorRef} style={{ width: '100%', height: 240 }} />
-          {!accelData.some(d => d.z_min != null || d.z_max != null) && (
-            <div style={{
-              position: 'absolute', inset: 0,
-              display: 'flex', alignItems: 'center', justifyContent: 'center',
-              color: theme.text.muted, fontSize: 11,
-              fontFamily: "'Share Tech Mono', monospace",
-            }}>
-              Нет данных z_min/z_max
-            </div>
-          )}
-        </GlassPanel>
-      </div>
+      {/* 4. Details toggle */}
+      <DetailCharts
+        accelData={accelData}
+        chartAxesRef={chartAxesRef}
+        chartCorridorRef={chartCorridorRef}
+      />
     </div>
   )
 }
