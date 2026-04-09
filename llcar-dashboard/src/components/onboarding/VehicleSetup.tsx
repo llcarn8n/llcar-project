@@ -133,7 +133,7 @@ const btnPrimaryStyle: React.CSSProperties = {
   fontSize: 13,
   fontFamily: "'Rajdhani', sans-serif",
   fontWeight: 700,
-  color: '#1A1D26',
+  color: '#0C1220',
   background: 'linear-gradient(135deg, var(--accent-cyan), var(--accent-teal))',
   border: 'none',
   borderRadius: 4,

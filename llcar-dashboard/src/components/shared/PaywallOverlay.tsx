@@ -89,7 +89,7 @@ export function PaywallOverlay({
             fontSize: compact ? 10 : 12,
             fontWeight: 600,
             letterSpacing: '0.1em',
-            color: '#1A1D26',
+            color: '#0C1220',
             background: 'linear-gradient(135deg, #00E5FF, #64FFDA)',
             border: 'none',
             borderRadius: 6,

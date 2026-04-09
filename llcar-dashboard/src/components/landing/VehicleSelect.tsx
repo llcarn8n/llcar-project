@@ -172,7 +172,7 @@ export function VehicleSelect() {
           fontWeight: 700,
           letterSpacing: '0.12em',
           textTransform: 'uppercase' as const,
-          color: canConfirm ? '#1A1D26' : theme.text.muted,
+          color: canConfirm ? '#0C1220' : theme.text.muted,
           background: canConfirm
             ? `linear-gradient(135deg, ${theme.accent.cyan}, ${theme.accent.teal})`
             : 'rgba(0,229,255,0.05)',

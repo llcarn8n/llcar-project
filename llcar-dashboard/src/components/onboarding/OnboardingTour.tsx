@@ -159,7 +159,7 @@ export function OnboardingTour() {
             style={{
               padding: '8px 24px', fontSize: 12,
               fontFamily: "'Rajdhani', sans-serif", fontWeight: 600,
-              color: '#1A1D26',
+              color: '#0C1220',
               background: `linear-gradient(135deg, ${theme.accent.cyan}, ${theme.accent.teal})`,
               border: 'none', borderRadius: 4, cursor: 'pointer',
               boxShadow: `0 0 12px ${theme.accent.cyan}40`,
