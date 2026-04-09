@@ -410,17 +410,17 @@ export function Diagnostics() {
         </div>
       )}
 
-      {/* Suspension analysis — V2 style with 3D scatter + charts */}
-      <div className="col-span-12">
-        <SuspensionTab accelData={accelData} />
-      </div>
-
-      {/* Rules + Search — ALWAYS visible, important section */}
+      {/* Rules + Search — in main diagnostics only */}
       <div className="col-span-12 lg:col-span-5">
         <DiagnosticSearch />
       </div>
       <div className="col-span-12 lg:col-span-7">
         <RulesList />
+      </div>
+
+      {/* Suspension analysis — V2 style with 3D scatter + charts */}
+      <div className="col-span-12">
+        <SuspensionTab accelData={accelData} />
       </div>
 
       {/* OBD + Chat */}
