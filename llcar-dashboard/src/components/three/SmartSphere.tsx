@@ -7,7 +7,7 @@ import { theme } from '../../theme'
 export interface AccelSample { x_std: number; y_std: number; z_std: number; ts: string }
 
 const C_OK = '#00E676', C_WARN = '#FFAB00', C_CRIT = '#FF1744'
-const SCALE = 0.4
+const SCALE = 0.25
 const ZONE_OK = 2, ZONE_WARN = 5
 
 function getStatus(t: number, x: number, y: number, z: number) {
@@ -239,7 +239,7 @@ export function SmartSphere({ data }: { data: AccelSample[] }) {
 
   return (
     <div className="glass-panel !p-0 overflow-hidden relative" style={{ height: 'min(420px, 55vh)' }}>
-      <Canvas camera={{ position: [10, 10, 10], fov: 38 }} style={{ background: 'transparent' }}>
+      <Canvas camera={{ position: [12, 12, 12], fov: 35 }} style={{ background: 'transparent' }}>
         <VibrationScene data={data} latest={latest} />
       </Canvas>
 
