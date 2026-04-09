@@ -1,7 +1,7 @@
 import { useRef, useMemo } from 'react'
 import * as THREE from 'three'
 import { Canvas, useFrame } from '@react-three/fiber'
-import { Html, OrbitControls } from '@react-three/drei'
+import { Html, OrbitControls, ContactShadows } from '@react-three/drei'
 import { theme } from '../../theme'
 
 export interface AccelSample { x_std: number; y_std: number; z_std: number; ts: string }
@@ -121,7 +121,7 @@ function AxisChart({ data, dataKey, axis, color }: {
     <group>
       {/* Min-max corridor */}
       <mesh geometry={corridorGeo}>
-        <meshBasicMaterial color={color} transparent opacity={0.08} side={THREE.DoubleSide} />
+        <meshStandardMaterial color={color} transparent opacity={0.12} side={THREE.DoubleSide} metalness={0.2} roughness={0.6} />
       </mesh>
       <primitive object={histLine} />
       <primitive object={z2Line} />
@@ -144,7 +144,12 @@ function CurrentBar({ value, axis, color }: { value: number; axis: 'x'|'y'|'z'; 
   const chartLen = 5
 
   useFrame(({ clock }) => {
-    if (ref.current) ref.current.material.emissiveIntensity = 0.4 + Math.sin(clock.elapsedTime * 2) * 0.2
+    if (!ref.current) return
+    const isCrit = value > ZONE_WARN
+    const isWarn = value > ZONE_OK
+    const base = isCrit ? 1.0 : isWarn ? 0.6 : 0.4
+    const pulse = isCrit ? 0.5 : 0.2
+    ref.current.material.emissiveIntensity = base + Math.sin(clock.elapsedTime * (isCrit ? 4 : 2)) * pulse
   })
 
   // Position at the END of the history chart
@@ -186,7 +191,9 @@ function AxisLine({ dir, color, len }: { dir: 'x'|'y'|'z'; color: string; len: n
 function VibrationScene({ data, latest }: { data: AccelSample[]; latest: AccelSample }) {
   return (
     <>
+      <fog attach="fog" args={['#0C1220', 8, 20]} />
       <gridHelper args={[14, 14, 'rgba(0,229,255,0.1)', 'rgba(0,229,255,0.03)']} position={[0,-0.01,0]} />
+      <ContactShadows position={[0, -0.02, 0]} opacity={0.3} scale={16} blur={2} far={6} color="#00E5FF" />
 
       {/* Axis guide lines */}
       <AxisLine dir="x" color="#ef4444" len={7} />
@@ -206,8 +213,9 @@ function VibrationScene({ data, latest }: { data: AccelSample[]; latest: AccelSa
       <CurrentBar value={latest.y_std} axis="y" color="#4ade80" />
       <CurrentBar value={latest.z_std} axis="z" color="#60a5fa" />
 
-      <ambientLight intensity={0.25} color="#4488ff" />
-      <pointLight position={[8, 8, 8]} intensity={0.5} />
+      <ambientLight intensity={0.35} color="#4488ff" />
+      <pointLight position={[8, 8, 8]} intensity={0.8} color="#ffffff" />
+      <directionalLight position={[-4, 6, 3]} intensity={0.4} color="#00E5FF" />
       <OrbitControls enableZoom={false} enablePan={false} enableDamping dampingFactor={0.1}
         autoRotate autoRotateSpeed={0.3}
         minPolarAngle={Math.PI*0.15} maxPolarAngle={Math.PI*0.55} />
