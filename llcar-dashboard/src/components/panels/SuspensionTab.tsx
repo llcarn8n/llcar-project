@@ -199,16 +199,39 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
       }
     }
 
+    const times = accelData.map(d => {
+      try { return new Date(d.ts).toLocaleTimeString('ru-RU', { hour: '2-digit', minute: '2-digit', second: '2-digit' }) } catch { return '--' }
+    })
+
     const option = {
       backgroundColor: 'transparent',
+      tooltip: {
+        formatter: (p: any) => {
+          if (!p.data || p.seriesType === 'surface') return ''
+          const d = p.data
+          const idx = Math.round(d[4] || 0)
+          const timeStr = idx >= 0 && idx < times.length ? times[idx] : '--'
+          return `<span style="color:#00D4AA;font-weight:600;">Время: ${timeStr}</span><br>`
+            + `X бок: <b>${d[0]?.toFixed(2) ?? '--'}</b> m/s²<br>`
+            + `Y прод: <b>${d[1]?.toFixed(2) ?? '--'}</b> m/s²<br>`
+            + `Z верт: <b>${d[2]?.toFixed(2) ?? '--'}</b> m/s²<br>`
+            + `Общая: <b style="color:${d[3] > 5 ? '#ef4444' : d[3] > 2 ? '#f59e0b' : '#4ade80'}">${d[3]?.toFixed(2) ?? '--'}</b> m/s²`
+        },
+      },
       visualMap: {
-        show: false,
+        show: true,
         dimension: 3,
         min: 0,
-        max: 8,
+        max: Math.max(...trajectoryData.map(d => d[3]), 1),
         inRange: {
-          color: ['#00E676', '#00E5FF', '#FFD740', '#FF6D00', '#FF1744'],
+          color: ['#00D4AA', '#22d3ee', '#4ade80', '#f59e0b', '#ef4444'],
         },
+        textStyle: { color: 'rgba(255,255,255,0.5)', fontFamily: "'Share Tech Mono', monospace", fontSize: 9 },
+        right: 10,
+        top: 10,
+        text: ['\u26A0 Тряска', '\u2713 Норма'],
+        itemWidth: 8,
+        itemHeight: 100,
       },
       grid3D: {
         boxWidth: 100,
