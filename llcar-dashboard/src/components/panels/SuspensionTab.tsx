@@ -126,8 +126,8 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
         viewControl: {
           autoRotate: true,
           autoRotateSpeed: 4,
-          distance: 200,
-          alpha: 25,
+          distance: 220,
+          alpha: 40,
           beta: 30,
         },
         postEffect: {
