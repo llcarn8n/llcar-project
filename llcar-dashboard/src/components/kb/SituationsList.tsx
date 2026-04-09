@@ -38,6 +38,14 @@ const CATEGORY_MAP: Record<string, { label: string; icon: string; color: string 
   brakes: { label: 'Тормоза', icon: '\u{1F6D1}', color: theme.status.critical },
   cooling: { label: 'Охлаждение', icon: '\u2744', color: '#00BCD4' },
   audio: { label: 'Шумы', icon: '\u{1F50A}', color: theme.accent.teal },
+  chassis: { label: 'Шасси', icon: '\u{1F6E0}', color: '#FF6B35' },
+  drivetrain: { label: 'Привод', icon: '\u{1F504}', color: '#FF6B35' },
+  hvac: { label: 'Климат', icon: '\u2744', color: '#00BCD4' },
+  infotainment: { label: 'Мультимедиа', icon: '\u{1F4F1}', color: theme.accent.teal },
+  lighting: { label: 'Освещение', icon: '\u{1F4A1}', color: '#FFD700' },
+  safety: { label: 'Безопасность', icon: '\u{1F6E1}', color: theme.status.critical },
+  tires: { label: 'Шины', icon: '\u{1F6DE}', color: theme.text.muted },
+  general: { label: 'Общее', icon: '\u{1F4CB}', color: theme.text.secondary },
 }
 
 function urgencyColor(urg: number): string {

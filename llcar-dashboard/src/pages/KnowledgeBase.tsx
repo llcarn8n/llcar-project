@@ -58,7 +58,20 @@ export function KnowledgeBase() {
     if (!kbGenPath) { setVideos([]); return }
     fetch(`${import.meta.env.BASE_URL}data/kb/${kbGenPath}/videos.json`)
       .then(r => r.ok ? r.json() : [])
-      .then((data: KbVideo[]) => setVideos(Array.isArray(data) ? data : []))
+      .then((data: KbVideo[]) => {
+        if (!Array.isArray(data)) { setVideos([]); return }
+        // Deduplicate by URL and filter irrelevant videos
+        const seen = new Set<string>()
+        const filtered = data.filter(v => {
+          if (!v.url || seen.has(v.url)) return false
+          seen.add(v.url)
+          // Filter out obviously irrelevant videos (not about cars)
+          const t = (v.title || '').toLowerCase()
+          if (t.includes('ванн') || t.includes('кухн') || t.includes('деревн') || t.includes('ремонт квартир')) return false
+          return true
+        })
+        setVideos(filtered)
+      })
       .catch(() => setVideos([]))
   }, [kbGenPath])
 
@@ -217,7 +230,7 @@ export function KnowledgeBase() {
           <GlassPanel>
             <div className="hud-header mb-3">Отзывы</div>
             <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
-              {reviews.slice(0, 3).map((r, i) => (
+              {reviews.filter(r => r.title && !r.title.startsWith('#') && !r.title.startsWith('Chunks:')).slice(0, 3).map((r, i) => (
                 <div key={i} style={{
                   padding: '10px 12px',
                   borderRadius: 4,
