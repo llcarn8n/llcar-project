@@ -218,7 +218,7 @@ function VibrationScene({ data, latest }: { data: AccelSample[]; latest: AccelSa
       <directionalLight position={[-4, 6, 3]} intensity={0.4} color="#00E5FF" />
       <OrbitControls enableZoom={false} enablePan={false} enableDamping dampingFactor={0.1}
         autoRotate autoRotateSpeed={0.3}
-        minPolarAngle={Math.PI*0.15} maxPolarAngle={Math.PI*0.55} />
+        minPolarAngle={Math.PI*0.1} maxPolarAngle={Math.PI*0.45} />
     </>
   )
 }
@@ -239,7 +239,7 @@ export function SmartSphere({ data }: { data: AccelSample[] }) {
 
   return (
     <div className="glass-panel !p-0 overflow-hidden relative" style={{ height: 'min(420px, 55vh)' }}>
-      <Canvas camera={{ position: [8, 6, 8], fov: 42 }} style={{ background: 'transparent' }}>
+      <Canvas camera={{ position: [10, 10, 10], fov: 38 }} style={{ background: 'transparent' }}>
         <VibrationScene data={data} latest={latest} />
       </Canvas>
 
