@@ -16,7 +16,7 @@ export function PaywallOverlay({
   children,
   feature,
   blurIntensity = 6,
-  ctaText = 'Разблокировать за 349 \u20BD',
+  ctaText = 'Разблокировать за 349 руб.',
   compact = false,
 }: PaywallOverlayProps) {
   const hasAccess = useHasAccess()

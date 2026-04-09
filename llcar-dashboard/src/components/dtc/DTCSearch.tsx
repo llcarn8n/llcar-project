@@ -185,14 +185,16 @@ export function DTCSearch({ onSelect, selectedCode, brandId, kbGenPath }: DTCSea
   // Filter results
   const results = useMemo(() => {
     const source = showBrandOnly && mergedBrandCodes.length > 0 ? mergedBrandCodes : mergedAllCodes
-    if (!query && !severityFilter && !systemTab) return []
+    // When brand-only mode: show all brand codes even without query
+    const showAll = showBrandOnly && mergedBrandCodes.length > 0
+    if (!query && !severityFilter && !systemTab && !showAll) return []
     const q = query.toUpperCase().trim()
     const qLower = query.toLowerCase().trim()
 
     return source.filter(e => {
       if (systemTab && !e.c.startsWith(systemTab)) return false
       if (severityFilter && e.s !== severityFilter) return false
-      if (!q) return !!(severityFilter || systemTab)
+      if (!q) return true
       return e.c.includes(q) || e.t.toLowerCase().includes(qLower)
     }).slice(0, 100)
   }, [mergedAllCodes, mergedBrandCodes, showBrandOnly, query, severityFilter, systemTab])
