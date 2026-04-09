@@ -1,99 +1,121 @@
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useMemo } from 'react'
 import { GlassPanel } from '../shared/GlassPanel'
 import { theme } from '../../theme'
 
-interface Article { id: string; title: string; qa: string; type: 'article' }
 interface Rule { id: string; title: string; conditions: string; tier: string; dtc: string[]; type: 'rule' }
-interface DiagData { articles: Article[]; rules: Rule[] }
+interface DiagData { articles: unknown[]; rules: Rule[] }
 
-const TIER_COLORS: Record<string, { label: string; color: string }> = {
-  T1: { label: 'Критическое', color: theme.status.critical },
-  T2: { label: 'Важное', color: theme.status.warning },
-  T3: { label: 'Контроль', color: theme.accent.cyan },
+/* ─── Tier config ─── */
+const TIER: Record<string, { label: string; color: string; icon: string; action: string }> = {
+  T1: { label: 'Критическое', color: theme.status.critical, icon: '🔴', action: 'Требуется немедленное внимание. Не откладывайте.' },
+  T2: { label: 'Важное', color: theme.status.warning, icon: '🟡', action: 'Запланируйте проверку в ближайшие дни.' },
+  T3: { label: 'Контроль', color: theme.accent.cyan, icon: '🔵', action: 'Следите за динамикой. Пока не критично.' },
 }
 
-/* ─── Human-readable condition labels ─── */
-const COND_LABELS: Record<string, { label: string; unit: string }> = {
-  az_std: { label: 'Стд. откл. вибрации Z', unit: 'м/с²' },
-  ax_std: { label: 'Стд. откл. вибрации X', unit: 'м/с²' },
-  ay_std: { label: 'Стд. откл. вибрации Y', unit: 'м/с²' },
-  total_vibration: { label: 'Общая вибрация', unit: 'м/с²' },
-  az_range: { label: 'Размах вибрации Z', unit: 'м/с²' },
-  az_mean: { label: 'Средняя вибрация Z', unit: 'м/с²' },
-  coolant_temp: { label: 'Т° охл. жидкости', unit: '°C' },
-  voltage: { label: 'Напряжение борт. сети', unit: 'В' },
-  rpm: { label: 'Обороты двигателя', unit: 'об/мин' },
-  speed: { label: 'Скорость', unit: 'км/ч' },
-  LTFT_B1: { label: 'Долгоср. корр. топлива Б1', unit: '%' },
-  LTFT_B2: { label: 'Долгоср. корр. топлива Б2', unit: '%' },
-  STFT_B1: { label: 'Краткоср. корр. топлива Б1', unit: '%' },
-  STFT_B2: { label: 'Краткоср. корр. топлива Б2', unit: '%' },
-  dominant_freq: { label: 'Доминантная частота', unit: 'Гц' },
-  dominant_amp: { label: 'Доминантная амплитуда', unit: '' },
-  spectral_energy: { label: 'Спектральная энергия', unit: '' },
-  engine_load: { label: 'Нагрузка двигателя', unit: '%' },
-  throttle: { label: 'Положение дросселя', unit: '%' },
-  intake_temp: { label: 'Т° впускного воздуха', unit: '°C' },
-  maf: { label: 'Расход воздуха (MAF)', unit: 'г/с' },
-  fuel_pressure: { label: 'Давление топлива', unit: 'кПа' },
-  oil_temp: { label: 'Т° масла', unit: '°C' },
-  boost_pressure: { label: 'Давление наддува', unit: 'кПа' },
-  catalyst_temp: { label: 'Т° катализатора', unit: '°C' },
-  crest_factor: { label: 'Крест-фактор', unit: '' },
+/* ─── Condition labels (parameter → Russian name + unit) ─── */
+const CL: Record<string, [string, string]> = {
+  az_std: ['Стд. откл. вибрации Z', 'м/с²'], ax_std: ['Стд. откл. вибрации X', 'м/с²'],
+  ay_std: ['Стд. откл. вибрации Y', 'м/с²'], total_vibration: ['Общая вибрация', 'м/с²'],
+  az_range: ['Размах вибрации Z', 'м/с²'], az_mean: ['Средняя вибрация Z', 'м/с²'],
+  coolant_temp: ['Т° охл. жидкости', '°C'], voltage: ['Напряжение борт. сети', 'В'],
+  rpm: ['Обороты двигателя', 'об/мин'], speed: ['Скорость', 'км/ч'],
+  LTFT_B1: ['Долгоср. корр. топлива Б1', '%'], LTFT_B2: ['Долгоср. корр. топлива Б2', '%'],
+  STFT_B1: ['Краткоср. корр. топлива Б1', '%'], STFT_B2: ['Краткоср. корр. топлива Б2', '%'],
+  dominant_freq: ['Доминантная частота', 'Гц'], dominant_amp: ['Доминантная амплитуда', ''],
+  spectral_energy: ['Спектральная энергия', ''], engine_load: ['Нагрузка двигателя', '%'],
+  throttle: ['Положение дросселя', '%'], intake_temp: ['Т° впускного воздуха', '°C'],
+  maf: ['Расход воздуха (MAF)', 'г/с'], fuel_pressure: ['Давление топлива', 'кПа'],
+  oil_temp: ['Т° масла', '°C'], boost_pressure: ['Давление наддува', 'кПа'],
+  catalyst_temp: ['Т° катализатора', '°C'], crest_factor: ['Крест-фактор', ''],
 }
 
-function humanizeCondition(raw: string): { human: string; formula: string } {
-  const parts = raw.split(',').map(s => s.trim()).filter(Boolean)
-  const humanParts: string[] = []
-  for (const part of parts) {
-    // Handle "param z> value" (z-score)
-    const zMatch = part.match(/^(\w+)\s+z([><])\s*(.+)/)
-    if (zMatch) {
-      const info = COND_LABELS[zMatch[1]]
-      const label = info ? info.label : zMatch[1]
-      const unit = info?.unit ? ` ${info.unit}` : ''
-      humanParts.push(`${label} ${zMatch[2] === '>' ? '>' : '<'} ${zMatch[3]}σ${unit}`)
-      continue
-    }
-    // Handle "param between X,Y" — but between splits on comma, so check next part
-    const betweenMatch = part.match(/^(\w+)\s+between\s+(.+)/)
-    if (betweenMatch) {
-      const info = COND_LABELS[betweenMatch[1]]
-      const label = info ? info.label : betweenMatch[1]
-      humanParts.push(`${label}: ${betweenMatch[2].replace(',', ' — ')}`)
-      continue
-    }
-    // Handle "param > value" or "param < value"
-    const stdMatch = part.match(/^(\w+)\s*([><!=]+)\s*(.+)/)
-    if (stdMatch) {
-      const info = COND_LABELS[stdMatch[1]]
-      const label = info ? info.label : stdMatch[1]
-      const unit = info?.unit ? ` ${info.unit}` : ''
-      humanParts.push(`${label} ${stdMatch[2]} ${stdMatch[3]}${unit}`)
-      continue
-    }
-    humanParts.push(part)
-  }
-  return { human: humanParts.join(' • '), formula: raw }
+/* ─── Why it matters: human explanation per rule pattern ─── */
+const WHY: Record<string, string> = {
+  engine_overheating: 'Двигатель перегрет — если продолжить движение, возможна деформация головки блока. Ремонт от 50 000 руб.',
+  alternator_failure: 'Генератор не выдаёт достаточно тока — аккумулятор разряжается. Авто может заглохнуть в любой момент.',
+  fuel_lean: 'Смесь бедная — двигатель работает с избытком воздуха. Перегрев выпускного тракта, прогар клапанов.',
+  fuel_rich: 'Смесь богатая — перерасход топлива, разрушение катализатора, масло разжижается бензином.',
+  low_battery: 'Напряжение аккумулятора ниже нормы — возможен отказ запуска, сброс настроек ЭБУ.',
+  misfire: 'Пропуски зажигания — потеря мощности, тряска двигателя, несгоревшее топливо убивает катализатор.',
+  oil_pressure_low: 'Низкое давление масла — масляное голодание двигателя. Задиры вкладышей, заклинивание.',
+  catalyst_degradation: 'Катализатор деградирует — токсичность выхлопа растёт, расход топлива увеличивается.',
+  worn_suspension: 'Подвеска изношена — увеличивается тормозной путь, ухудшается управляемость на неровностях.',
+  wheel_imbalance: 'Дисбаланс колёс — вибрация на руле, неравномерный износ шин, нагрузка на ступичные подшипники.',
+  stalling_risk: 'Двигатель может заглохнуть — опасно в потоке: усилитель тормозов и руля отключатся.',
+  vacuum_leak: 'Подсос воздуха мимо датчика — ЭБУ не может правильно дозировать топливо. Нестабильный ХХ.',
+  excessive_fuel_consumption: 'Расход топлива выше нормы — деньги уходят впустую. Причина может быть в датчиках, форсунках или зажигании.',
+  thermostat_stuck_open: 'Термостат заклинил в открытом положении — двигатель не прогревается. Повышенный расход, износ.',
+  thermostat_stuck_closed: 'Термостат заклинил закрытым — охлаждающая жидкость не циркулирует. Перегрев неизбежен.',
+  transmission_slip: 'АКПП проскальзывает — потеря ускорения, рывки при переключении. Может потребоваться ремонт коробки.',
+  egr_malfunction: 'EGR не работает — повышенный выброс NOx, нагар во впуске, потеря мощности.',
+  turbo_lag_excessive: 'Турбина запаздывает — возможна утечка наддува, износ актуатора или вестгейта.',
 }
 
-/* ─── System classification for rules ─── */
+/* ─── What to do when triggered ─── */
+const ACTION: Record<string, string> = {
+  engine_overheating: 'Остановитесь. Дайте двигателю остыть 15-20 мин. Проверьте уровень антифриза. Не открывайте крышку радиатора на горячую.',
+  alternator_failure: 'Выключите кондиционер, подогревы, музыку — минимизируйте нагрузку. Езжайте в сервис или вызовите эвакуатор.',
+  fuel_lean: 'Проверьте подсосы воздуха (прокладка впуска, шланги). Замените воздушный фильтр. Диагностика лямбда-зондов.',
+  fuel_rich: 'Проверьте форсунки (перелив), датчик температуры, давление топлива. Замените свечи.',
+  low_battery: 'Зарядите АКБ внешним зарядным. Проверьте клеммы на окисление. При частых разрядах — замена АКБ.',
+  misfire: 'Замените свечи зажигания и катушки (начните с цилиндра из DTC). Проверьте компрессию.',
+  oil_pressure_low: 'НЕМЕДЛЕННО заглушите двигатель! Проверьте уровень масла. Не заводите до выяснения причины. Эвакуатор.',
+  worn_suspension: 'Запишитесь на диагностику ходовой. Избегайте ям и лежачих полицейских. Проверьте стойки и сайлентблоки.',
+  wheel_imbalance: 'Сделайте балансировку колёс. Проверьте шины на грыжи и неравномерный износ.',
+  stalling_risk: 'Избегайте резких манёвров. Если заглох в потоке — включите аварийку, затормозите, заведите заново.',
+  vacuum_leak: 'Проверьте все вакуумные шланги, прокладку впускного коллектора, клапан PCV.',
+  thermostat_stuck_open: 'Замените термостат. Простая и недорогая операция (1 500-5 000 руб. с работой).',
+  thermostat_stuck_closed: 'Замените термостат срочно. До замены — следите за температурой, останавливайтесь при перегреве.',
+  transmission_slip: 'Замените масло АКПП если давно не меняли. Диагностика на стенде. Не игнорируйте — ремонт АКПП дорог.',
+}
+
+function humanize(raw: string): string[] {
+  return raw.split(',').map(s => s.trim()).filter(Boolean).map(part => {
+    const z = part.match(/^(\w+)\s+z([><])\s*(.+)/)
+    if (z) { const c = CL[z[1]]; return `${c?.[0] || z[1]} ${z[2] === '>' ? '>' : '<'} ${z[3]}σ${c?.[1] ? ' ' + c[1] : ''}` }
+    const m = part.match(/^(\w+)\s*([><!=]+)\s*(.+)/)
+    if (m) { const c = CL[m[1]]; return `${c?.[0] || m[1]} ${m[2]} ${m[3]}${c?.[1] ? ' ' + c[1] : ''}` }
+    return part
+  })
+}
+
+/* ─── System classification ─── */
+const SYS_ICON: Record<string, string> = {
+  'Подвеска': '🛞', 'Двигатель': '⚙️', 'Электрика': '⚡', 'Топливо': '⛽',
+  'Охлаждение': '🌡️', 'Шумы': '🔊', 'Трансмиссия': '🔗', 'Общее': '📋',
+}
+
 function classifySystem(r: Rule): string {
   const id = r.id; const c = r.conditions
-  if (/suspension|wheel|shock|strut|bushing|stabilizer|imbalance|lateral|tire_flat|crest/.test(id) || /az_|vibration/.test(c)) return 'Подвеска'
-  if (/engine|misfire|knock|overheating|oil|idle|stalling|overrev|mount|egr|turbo|catalytic|warmup/.test(id) || /RPM|rpm|throttle|maf/.test(c)) return 'Двигатель'
-  if (/battery|alternator|starter|wiring|fuse|voltage|charging/.test(id) || /voltage|BATT/.test(c)) return 'Электрика'
-  if (/fuel|injector|pump|lambda|vacuum|lean|rich|p0171|p0172|stft|evap/.test(id) || /LTFT|ltft|STFT|stft/.test(c)) return 'Топливо'
-  if (/coolant|thermostat|radiator|fan|overheat|water_pump|cold_engine|ac_compressor/.test(id) || /coolant|TEMP/.test(c)) return 'Охлаждение'
-  if (/noise|rattle|squeal|whistle|rumble|click|grinding|belt_|brake_squeal|intake_noise|valve_train|wind_noise|audio/.test(id) || /spectral|freq|dominant_amp/.test(c)) return 'Шумы'
+  if (/suspension|wheel|shock|strut|bushing|stabilizer|imbalance|lateral|tire_flat|crest|rough_road|vibration_at_speed/.test(id) || /az_|vibration/.test(c)) return 'Подвеска'
+  if (/engine|misfire|knock|overheating|oil|idle|stalling|overrev|mount|egr|turbo|catalytic|warmup|throttle|intake_vacuum|maf_reading/.test(id) || /RPM|rpm|throttle|maf/.test(c)) return 'Двигатель'
+  if (/battery|alternator|starter|wiring|fuse|voltage|charging|inverter|hv_battery|soc_critical/.test(id) || /voltage|BATT/.test(c)) return 'Электрика'
+  if (/fuel|injector|pump|lambda|vacuum|lean|rich|p0171|p0172|stft|evap|p0442|o2_sensor/.test(id) || /LTFT|ltft|STFT|stft/.test(c)) return 'Топливо'
+  if (/coolant|thermostat|radiator|fan|overheat|water_pump|cold_engine|ac_compressor|summer_overheat/.test(id) || /coolant|TEMP/.test(c)) return 'Охлаждение'
+  if (/noise|rattle|squeal|whistle|rumble|click|grinding|belt_|brake_squeal|intake_noise|valve_train|wind_noise|audio|timing_chain|loose_heat/.test(id) || /spectral|freq|dominant_amp/.test(c)) return 'Шумы'
   if (/trans|clutch|gear|shift|drivetrain|cv_joint|axle/.test(id)) return 'Трансмиссия'
   return 'Общее'
 }
 
+function getWhy(r: Rule): string {
+  if (WHY[r.id]) return WHY[r.id]
+  const sys = classifySystem(r)
+  if (r.tier === 'T1') return `${r.title} — проблема требует внимания. Если игнорировать, возможен дорогой ремонт или небезопасная ситуация на дороге.`
+  if (r.tier === 'T2') return `${r.title} — отклонение в системе "${sys}". Пока не критично, но при ухудшении может привести к серьёзным последствиям.`
+  return `${r.title} — LLCAR отслеживает этот параметр для раннего обнаружения проблем.`
+}
+
+function getAction(r: Rule): string {
+  if (ACTION[r.id]) return ACTION[r.id]
+  if (r.tier === 'T1') return 'Запишитесь на диагностику в ближайший сервис. Не откладывайте — проблема может усугубиться.'
+  if (r.tier === 'T2') return 'Запланируйте проверку при следующем ТО или в ближайшие 1-2 недели.'
+  return 'Продолжайте наблюдение. Если значение ухудшается — обратитесь к специалисту.'
+}
+
 export function RulesList() {
   const [data, setData] = useState<DiagData | null>(null)
-  const [tab, setTab] = useState<'articles' | 'rules'>('articles')
-  const [expanded, setExpanded] = useState<string | null>(null)
+  const [expandedId, setExpandedId] = useState<string | null>(null)
+  const [openSystem, setOpenSystem] = useState<string | null>(null)
 
   useEffect(() => {
     fetch(`${import.meta.env.BASE_URL}data/diagnostic-rules.json`)
@@ -102,198 +124,198 @@ export function RulesList() {
       .catch(() => {})
   }, [])
 
+  const groups = useMemo(() => {
+    if (!data) return []
+    const g: Record<string, Rule[]> = {}
+    for (const r of data.rules) {
+      const sys = classifySystem(r)
+      if (!g[sys]) g[sys] = []
+      g[sys].push(r)
+    }
+    // Sort: by count descending
+    return Object.entries(g).sort((a, b) => b[1].length - a[1].length)
+  }, [data])
+
   if (!data) return null
+
+  const totalRules = data.rules.length
+  const t1Count = data.rules.filter(r => r.tier === 'T1').length
+  const systemCount = groups.length
 
   return (
     <GlassPanel>
-      <div className="hud-header mb-3">Правила диагностики</div>
-
-      {/* Tabs */}
-      <div style={{ display: 'flex', gap: 8, marginBottom: 12 }}>
-        {([
-          { key: 'articles' as const, label: `Руководства (${data.articles.length})`, icon: '\u{1F4D6}' },
-          { key: 'rules' as const, label: `Правила (${data.rules.length})`, icon: '\u2699' },
-        ]).map(t => (
-          <button
-            key={t.key}
-            onClick={() => setTab(t.key)}
-            style={{
-              padding: '6px 14px',
-              borderRadius: 4,
-              fontFamily: "'Rajdhani', sans-serif",
-              fontSize: 12,
-              fontWeight: 700,
-              color: tab === t.key ? '#0C1220' : theme.accent.cyan,
-              background: tab === t.key ? theme.accent.cyan : 'rgba(0,229,255,0.06)',
-              border: `1px solid ${tab === t.key ? 'transparent' : 'rgba(0,229,255,0.2)'}`,
-              cursor: 'pointer',
-              transition: 'all 0.2s',
-            }}
-          >
-            {t.icon} {t.label}
-          </button>
-        ))}
+      {/* Header with stats */}
+      <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 12 }}>
+        <div className="hud-header" style={{ margin: 0 }}>Правила проверки</div>
+        <div style={{ display: 'flex', gap: 12, fontFamily: "'Rajdhani', sans-serif", fontSize: 11, color: theme.text.muted }}>
+          <span><strong style={{ color: theme.accent.cyan, fontFamily: "'Share Tech Mono', monospace" }}>{totalRules}</strong> правил</span>
+          <span><strong style={{ color: theme.status.critical, fontFamily: "'Share Tech Mono', monospace" }}>{t1Count}</strong> критических</span>
+          <span><strong style={{ color: theme.accent.teal, fontFamily: "'Share Tech Mono', monospace" }}>{systemCount}</strong> систем</span>
+        </div>
       </div>
 
-      <div style={{ maxHeight: '50vh', overflowY: 'auto', display: 'flex', flexDirection: 'column', gap: 4 }}>
-        {tab === 'articles' && data.articles.map(a => (
-          <div
-            key={a.id}
-            onClick={() => setExpanded(expanded === a.id ? null : a.id)}
-            style={{
-              padding: '10px 12px',
-              borderRadius: 4,
-              background: expanded === a.id ? 'rgba(0,229,255,0.05)' : 'rgba(0,229,255,0.02)',
-              border: `1px solid ${expanded === a.id ? 'rgba(0,229,255,0.15)' : 'rgba(0,229,255,0.06)'}`,
-              cursor: 'pointer',
-              transition: 'all 0.2s',
-            }}
-          >
-            <div style={{
-              fontFamily: "'Rajdhani', sans-serif",
-              fontSize: 13,
-              fontWeight: 700,
-              color: theme.text.secondary,
-            }}>
-              {a.title}
-            </div>
-            {expanded === a.id && (
-              <div style={{
-                marginTop: 8,
-                fontFamily: "'Rajdhani', sans-serif",
-                fontSize: 12,
-                color: theme.text.muted,
-                lineHeight: 1.6,
-                borderTop: '1px solid rgba(0,229,255,0.08)',
-                paddingTop: 8,
-              }}>
-                {a.qa}
-              </div>
-            )}
-          </div>
-        ))}
+      {/* Subtitle */}
+      <div style={{
+        fontFamily: "'Rajdhani', sans-serif", fontSize: 12, color: theme.text.muted,
+        lineHeight: 1.5, marginBottom: 16, paddingBottom: 12,
+        borderBottom: '1px solid rgba(0,229,255,0.08)',
+      }}>
+        LLCAR автоматически проверяет {totalRules} параметров вашего автомобиля при каждом сканировании.
+        Каждое правило основано на инженерных нормах и данных от производителей.
+      </div>
 
-        {tab === 'rules' && (() => {
-          // Group rules by system
-          const groups: Record<string, Rule[]> = {}
-          for (const r of data.rules) {
-            const sys = classifySystem(r)
-            if (!groups[sys]) groups[sys] = []
-            groups[sys].push(r)
-          }
-          // Sort groups by size descending
-          const sortedGroups = Object.entries(groups).sort((a, b) => b[1].length - a[1].length)
+      {/* System groups */}
+      <div style={{ display: 'flex', flexDirection: 'column', gap: 6, maxHeight: '60vh', overflowY: 'auto' }}>
+        {groups.map(([system, rules]) => {
+          const isOpen = openSystem === system
+          const icon = SYS_ICON[system] || '📋'
+          const t1 = rules.filter(r => r.tier === 'T1').length
+          const t2 = rules.filter(r => r.tier === 'T2').length
+          const t3 = rules.filter(r => r.tier === 'T3').length
 
-          return sortedGroups.map(([system, rules]) => (
+          return (
             <div key={system}>
-              {/* System header */}
-              <div style={{
-                fontFamily: "'Orbitron', sans-serif",
-                fontSize: 10,
-                fontWeight: 700,
-                letterSpacing: '0.15em',
-                color: theme.accent.teal,
-                padding: '8px 0 4px',
-                borderBottom: `1px solid rgba(100,255,218,0.1)`,
-                marginBottom: 6,
-                display: 'flex',
-                justifyContent: 'space-between',
-              }}>
-                <span>{system.toUpperCase()}</span>
-                <span style={{ color: theme.text.muted, fontFamily: "'Rajdhani', sans-serif", fontSize: 11, fontWeight: 600, letterSpacing: 'normal' }}>
-                  {rules.length} правил
-                </span>
+              {/* System header — clickable to expand/collapse */}
+              <div
+                onClick={() => setOpenSystem(isOpen ? null : system)}
+                style={{
+                  display: 'flex', alignItems: 'center', gap: 10, padding: '10px 12px',
+                  borderRadius: 4, cursor: 'pointer', transition: 'all 0.2s',
+                  background: isOpen ? 'rgba(100,255,218,0.06)' : 'rgba(0,229,255,0.02)',
+                  border: `1px solid ${isOpen ? 'rgba(100,255,218,0.15)' : 'rgba(0,229,255,0.06)'}`,
+                }}
+              >
+                <span style={{ fontSize: 18 }}>{icon}</span>
+                <div style={{ flex: 1 }}>
+                  <div style={{ fontFamily: "'Rajdhani', sans-serif", fontSize: 14, fontWeight: 700, color: theme.text.secondary }}>
+                    {system}
+                  </div>
+                  <div style={{ fontFamily: "'Rajdhani', sans-serif", fontSize: 11, color: theme.text.muted }}>
+                    {rules.length} правил проверки
+                  </div>
+                </div>
+                {/* Tier mini-badges */}
+                <div style={{ display: 'flex', gap: 4 }}>
+                  {t1 > 0 && <span style={{ fontSize: 9, fontFamily: "'Share Tech Mono', monospace", color: theme.status.critical, padding: '1px 5px', borderRadius: 2, background: `${theme.status.critical}15`, border: `1px solid ${theme.status.critical}25` }}>{t1}</span>}
+                  {t2 > 0 && <span style={{ fontSize: 9, fontFamily: "'Share Tech Mono', monospace", color: theme.status.warning, padding: '1px 5px', borderRadius: 2, background: `${theme.status.warning}15`, border: `1px solid ${theme.status.warning}25` }}>{t2}</span>}
+                  {t3 > 0 && <span style={{ fontSize: 9, fontFamily: "'Share Tech Mono', monospace", color: theme.accent.cyan, padding: '1px 5px', borderRadius: 2, background: 'rgba(0,229,255,0.06)', border: '1px solid rgba(0,229,255,0.12)' }}>{t3}</span>}
+                </div>
+                <span style={{ fontSize: 12, color: theme.text.muted, transition: 'transform 0.3s', transform: isOpen ? 'rotate(90deg)' : 'rotate(0)' }}>▶</span>
               </div>
 
-              {/* Rules in this group */}
-              {rules.map(r => {
-                const tier = TIER_COLORS[r.tier] || TIER_COLORS.T3
-                const isExp = expanded === r.id
-                const { human, formula } = humanizeCondition(r.conditions)
-                return (
-                  <div
-                    key={r.id}
-                    onClick={() => setExpanded(isExp ? null : r.id)}
-                    style={{
-                      padding: '10px 12px',
-                      borderRadius: 4,
-                      background: isExp ? 'rgba(0,229,255,0.05)' : 'rgba(0,229,255,0.02)',
-                      border: `1px solid ${isExp ? 'rgba(0,229,255,0.15)' : 'rgba(0,229,255,0.06)'}`,
-                      borderLeft: `3px solid ${tier.color}`,
-                      cursor: 'pointer',
-                      transition: 'all 0.2s',
-                    }}
-                  >
-                    <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
-                      <div style={{ flex: 1 }}>
-                        <div style={{
-                          fontFamily: "'Rajdhani', sans-serif",
-                          fontSize: 13,
-                          fontWeight: 700,
-                          color: theme.text.secondary,
-                        }}>
-                          {r.title}
+              {/* Expanded rules list */}
+              {isOpen && (
+                <div style={{ display: 'flex', flexDirection: 'column', gap: 4, padding: '8px 0 8px 16px' }}>
+                  {rules.map(r => {
+                    const tier = TIER[r.tier] || TIER.T3
+                    const isExp = expandedId === r.id
+                    const conditions = humanize(r.conditions)
+                    const why = getWhy(r)
+                    const action = getAction(r)
+
+                    return (
+                      <div
+                        key={r.id}
+                        onClick={() => setExpandedId(isExp ? null : r.id)}
+                        style={{
+                          padding: '10px 12px', borderRadius: 4, cursor: 'pointer', transition: 'all 0.2s',
+                          background: isExp ? 'rgba(0,229,255,0.05)' : 'rgba(0,229,255,0.015)',
+                          border: `1px solid ${isExp ? 'rgba(0,229,255,0.15)' : 'rgba(0,229,255,0.05)'}`,
+                          borderLeft: `3px solid ${tier.color}`,
+                        }}
+                      >
+                        {/* Title row */}
+                        <div style={{ display: 'flex', alignItems: 'flex-start', gap: 8 }}>
+                          <span style={{ fontSize: 14, lineHeight: '18px' }}>{tier.icon}</span>
+                          <div style={{ flex: 1 }}>
+                            <div style={{ fontFamily: "'Rajdhani', sans-serif", fontSize: 13, fontWeight: 700, color: theme.text.primary }}>
+                              {r.title}
+                            </div>
+                          </div>
+                          <span style={{
+                            fontSize: 8, fontFamily: "'Orbitron', sans-serif", fontWeight: 700,
+                            color: tier.color, padding: '2px 6px', borderRadius: 2, whiteSpace: 'nowrap',
+                            background: `${tier.color}12`, border: `1px solid ${tier.color}25`,
+                          }}>
+                            {tier.label}
+                          </span>
                         </div>
-                        {/* Human-readable summary always visible */}
+
+                        {/* WHY — always visible, 1-2 sentences */}
                         <div style={{
-                          fontFamily: "'Rajdhani', sans-serif",
-                          fontSize: 11,
-                          color: theme.text.muted,
-                          marginTop: 2,
+                          fontFamily: "'Rajdhani', sans-serif", fontSize: 12, color: theme.text.muted,
+                          marginTop: 4, lineHeight: 1.5, paddingLeft: 22,
                         }}>
-                          {human}
+                          {why}
                         </div>
-                      </div>
-                      <span style={{
-                        fontSize: 9,
-                        fontFamily: "'Orbitron', sans-serif",
-                        fontWeight: 700,
-                        color: tier.color,
-                        padding: '2px 6px',
-                        borderRadius: 2,
-                        background: `${tier.color}10`,
-                        border: `1px solid ${tier.color}20`,
-                        whiteSpace: 'nowrap',
-                      }}>
-                        {tier.label}
-                      </span>
-                    </div>
-                    {isExp && (
-                      <div style={{ marginTop: 8, borderTop: '1px solid rgba(0,229,255,0.08)', paddingTop: 8 }}>
-                        {/* Technical formula */}
-                        <div style={{
-                          fontFamily: "'Share Tech Mono', monospace",
-                          fontSize: 10,
-                          color: theme.accent.cyan,
-                          marginBottom: 6,
-                          padding: '4px 8px',
-                          background: 'rgba(0,229,255,0.04)',
-                          borderRadius: 3,
-                          border: '1px solid rgba(0,229,255,0.08)',
-                        }}>
-                          <span style={{ color: theme.text.muted, fontSize: 9 }}>Формула: </span>
-                          {formula}
-                        </div>
-                        {r.dtc.length > 0 && (
-                          <div style={{ display: 'flex', gap: 4, flexWrap: 'wrap', marginTop: 4 }}>
-                            <span style={{ fontSize: 9, color: theme.text.muted }}>DTC:</span>
-                            {r.dtc.map(code => (
-                              <span key={code} style={{
-                                fontFamily: "'Orbitron', sans-serif", fontSize: 9, fontWeight: 700,
-                                color: theme.status.warning, padding: '2px 6px', borderRadius: 2,
-                                background: `${theme.status.warning}10`, border: `1px solid ${theme.status.warning}20`,
-                              }}>{code}</span>
+
+                        {/* Expanded: HOW + WHAT TO DO */}
+                        {isExp && (
+                          <div style={{ marginTop: 10, paddingLeft: 22 }}>
+                            {/* HOW: conditions */}
+                            <div style={{
+                              fontSize: 11, fontFamily: "'Rajdhani', sans-serif", fontWeight: 600,
+                              color: theme.accent.teal, marginBottom: 4, letterSpacing: '0.03em',
+                            }}>
+                              Как проверяем:
+                            </div>
+                            {conditions.map((c, i) => (
+                              <div key={i} style={{
+                                fontFamily: "'Rajdhani', sans-serif", fontSize: 12, color: theme.text.secondary,
+                                padding: '2px 0 2px 12px', borderLeft: `2px solid rgba(0,229,255,0.15)`,
+                                marginBottom: 2,
+                              }}>
+                                {c}
+                              </div>
                             ))}
+
+                            {/* Formula for trust */}
+                            <div style={{
+                              fontFamily: "'Share Tech Mono', monospace", fontSize: 10, color: 'rgba(0,229,255,0.5)',
+                              marginTop: 6, padding: '3px 8px', borderRadius: 3,
+                              background: 'rgba(0,229,255,0.03)', border: '1px solid rgba(0,229,255,0.06)',
+                            }}>
+                              {r.conditions}
+                            </div>
+
+                            {/* WHAT TO DO */}
+                            <div style={{
+                              fontSize: 11, fontFamily: "'Rajdhani', sans-serif", fontWeight: 600,
+                              color: tier.color, marginTop: 10, marginBottom: 4,
+                            }}>
+                              Что делать:
+                            </div>
+                            <div style={{
+                              fontFamily: "'Rajdhani', sans-serif", fontSize: 12, color: theme.text.secondary,
+                              lineHeight: 1.5, padding: '6px 10px', borderRadius: 4,
+                              background: `${tier.color}08`, border: `1px solid ${tier.color}12`,
+                            }}>
+                              {action}
+                            </div>
+
+                            {/* DTC codes */}
+                            {r.dtc.length > 0 && (
+                              <div style={{ display: 'flex', gap: 4, flexWrap: 'wrap', marginTop: 8, alignItems: 'center' }}>
+                                <span style={{ fontSize: 10, color: theme.text.muted, fontFamily: "'Rajdhani', sans-serif" }}>Связанные DTC:</span>
+                                {r.dtc.map(code => (
+                                  <span key={code} style={{
+                                    fontFamily: "'Orbitron', sans-serif", fontSize: 8, fontWeight: 700,
+                                    color: theme.status.warning, padding: '2px 5px', borderRadius: 2,
+                                    background: `${theme.status.warning}10`, border: `1px solid ${theme.status.warning}20`,
+                                  }}>{code}</span>
+                                ))}
+                              </div>
+                            )}
                           </div>
                         )}
                       </div>
-                    )}
-                  </div>
-                )
-              })}
+                    )
+                  })}
+                </div>
+              )}
             </div>
-          ))
-        })()}
+          )
+        })}
       </div>
     </GlassPanel>
   )
