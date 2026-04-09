@@ -3,6 +3,7 @@ import { DTCSearch } from '../components/dtc/DTCSearch'
 import { GlassPanel } from '../components/shared/GlassPanel'
 import { useDashboardStore } from '../stores/dashboardStore'
 import { theme } from '../theme'
+import { deriveKBGenPath } from '../utils/kbPath'
 
 // Full DTC detail from dtc-index.json (loaded on demand)
 interface DTCFull {
@@ -39,6 +40,29 @@ export function ErrorCodes() {
   const [selectedCode, setSelectedCode] = useState<string | null>(null)
   const [detail, setDetail] = useState<DTCFull | null>(null)
   const [multiCodes, setMultiCodes] = useState('')
+  const [kbGenPath, setKbGenPath] = useState<string | null>(null)
+
+  // Derive kbGenPath from vehicleProfile by loading brand specs
+  useEffect(() => {
+    if (!vehicleProfile?.brandId) { setKbGenPath(null); return }
+    const brandId = vehicleProfile.brandId
+    fetch(`${import.meta.env.BASE_URL}data/brands/${brandId}.json`)
+      .then(r => r.ok ? r.json() : null)
+      .then(data => {
+        if (!data) { setKbGenPath(null); return }
+        const model = data.models?.find((m: { name: string }) =>
+          m.name.toLowerCase() === vehicleProfile.model.toLowerCase()
+        )
+        if (!model) { setKbGenPath(null); return }
+        const gen = model.generations?.find((g: { id: string; ys: number }) =>
+          (vehicleProfile.generationId && g.id === vehicleProfile.generationId) ||
+          g.ys === vehicleProfile.year
+        ) || model.generations?.[0]
+        if (!gen?.name) { setKbGenPath(null); return }
+        setKbGenPath(deriveKBGenPath(brandId, gen.name))
+      })
+      .catch(() => setKbGenPath(null))
+  }, [vehicleProfile])
 
   // Load full detail when code selected (from full index - could be API in future)
   useEffect(() => {
@@ -52,7 +76,7 @@ export function ErrorCodes() {
     <div className="grid grid-cols-12 gap-3">
       {/* Search panel */}
       <div className="col-span-12 lg:col-span-7">
-        <DTCSearch onSelect={setSelectedCode} selectedCode={selectedCode} brandId={vehicleProfile?.brandId} />
+        <DTCSearch onSelect={setSelectedCode} selectedCode={selectedCode} brandId={vehicleProfile?.brandId} kbGenPath={kbGenPath} />
       </div>
 
       {/* Detail / Multi-DTC panel */}

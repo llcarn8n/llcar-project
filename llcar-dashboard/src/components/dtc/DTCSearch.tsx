@@ -8,12 +8,27 @@ interface DTCEntry {
   s: string   // severity
   sys: string // system_id
   d: string   // can_drive
+  fix?: string        // fix recommendation (from generation data)
+  isGeneration?: boolean // true if this entry came from generation-level KB
+}
+
+/** Raw format of generation-level DTC from kb/{brand}/{model}/{gen}/dtc.json */
+interface GenDTCRaw {
+  code: string
+  note_ru: string
+  note_en?: string
+  common_fix_ru?: string
+  frequency?: string
+  severity: string
+  system_id: string
+  can_drive: string
 }
 
 interface DTCSearchProps {
   onSelect: (code: string) => void
   selectedCode: string | null
   brandId?: string | null
+  kbGenPath?: string | null
 }
 
 const SYSTEM_TABS = [
@@ -50,14 +65,16 @@ const SYSTEM_LABELS: Record<string, string> = {
   ev: 'Электро',
 }
 
-export function DTCSearch({ onSelect, selectedCode, brandId }: DTCSearchProps) {
+export function DTCSearch({ onSelect, selectedCode, brandId, kbGenPath }: DTCSearchProps) {
   const [allCodes, setAllCodes] = useState<DTCEntry[]>([])
   const [brandCodes, setBrandCodes] = useState<DTCEntry[]>([])
+  const [genCodes, setGenCodes] = useState<DTCEntry[]>([])
   const [loading, setLoading] = useState(true)
   const [query, setQuery] = useState('')
   const [severityFilter, setSeverityFilter] = useState<string>('')
   const [systemTab, setSystemTab] = useState('')
   const [showBrandOnly, setShowBrandOnly] = useState(false)
+  const [expandedCode, setExpandedCode] = useState<string | null>(null)
 
   // Load DTC index
   useEffect(() => {
@@ -82,10 +99,79 @@ export function DTCSearch({ onSelect, selectedCode, brandId }: DTCSearchProps) {
           s: 'medium' as string,
           sys: '',
           d: 'check',
+          fix: d.f || undefined,
         })))
       })
       .catch(() => setBrandCodes([]))
   }, [brandId])
+
+  // Load generation-specific codes
+  useEffect(() => {
+    if (!kbGenPath) { setGenCodes([]); return }
+    fetch(`${import.meta.env.BASE_URL}data/kb/${kbGenPath}/dtc.json`)
+      .then(r => r.ok ? r.json() : null)
+      .then((data: GenDTCRaw[] | null) => {
+        if (!data || !Array.isArray(data)) { setGenCodes([]); return }
+        setGenCodes(data.map(d => ({
+          c: d.code,
+          t: d.note_ru || d.note_en || '',
+          s: d.severity || 'medium',
+          sys: d.system_id || '',
+          d: d.can_drive || 'check',
+          fix: d.common_fix_ru || undefined,
+          isGeneration: true,
+        })))
+      })
+      .catch(() => setGenCodes([]))
+  }, [kbGenPath])
+
+  // Build a lookup map for generation codes (code → entry) for quick override
+  const genCodesMap = useMemo(() => {
+    const map = new Map<string, DTCEntry>()
+    for (const entry of genCodes) {
+      map.set(entry.c, entry)
+    }
+    return map
+  }, [genCodes])
+
+  // Merged brand codes: generation overrides brand for same code
+  const mergedBrandCodes = useMemo(() => {
+    if (genCodes.length === 0) return brandCodes
+    if (brandCodes.length === 0) return genCodes
+
+    // Start with all brand codes, replacing with gen where overlap
+    const brandMap = new Map<string, DTCEntry>()
+    for (const entry of brandCodes) {
+      brandMap.set(entry.c, entry)
+    }
+
+    // Override with generation codes
+    for (const entry of genCodes) {
+      brandMap.set(entry.c, entry)
+    }
+
+    // Return merged, with generation-only codes added
+    return Array.from(brandMap.values())
+  }, [brandCodes, genCodes])
+
+  // Merged universal codes: generation data enriches universal entries
+  const mergedAllCodes = useMemo(() => {
+    if (genCodes.length === 0) return allCodes
+    return allCodes.map(entry => {
+      const genEntry = genCodesMap.get(entry.c)
+      if (genEntry) {
+        return {
+          ...entry,
+          s: genEntry.s,
+          sys: genEntry.sys || entry.sys,
+          d: genEntry.d,
+          fix: genEntry.fix,
+          isGeneration: true,
+        }
+      }
+      return entry
+    })
+  }, [allCodes, genCodes, genCodesMap])
 
   // System tab counts
   const systemCounts = useMemo(() => {
@@ -98,7 +184,7 @@ export function DTCSearch({ onSelect, selectedCode, brandId }: DTCSearchProps) {
 
   // Filter results
   const results = useMemo(() => {
-    const source = showBrandOnly && brandCodes.length > 0 ? brandCodes : allCodes
+    const source = showBrandOnly && mergedBrandCodes.length > 0 ? mergedBrandCodes : mergedAllCodes
     if (!query && !severityFilter && !systemTab) return []
     const q = query.toUpperCase().trim()
     const qLower = query.toLowerCase().trim()
@@ -109,10 +195,14 @@ export function DTCSearch({ onSelect, selectedCode, brandId }: DTCSearchProps) {
       if (!q) return !!(severityFilter || systemTab)
       return e.c.includes(q) || e.t.toLowerCase().includes(qLower)
     }).slice(0, 100)
-  }, [allCodes, brandCodes, showBrandOnly, query, severityFilter, systemTab])
+  }, [mergedAllCodes, mergedBrandCodes, showBrandOnly, query, severityFilter, systemTab])
 
   const handleInput = useCallback((e: React.ChangeEvent<HTMLInputElement>) => {
     setQuery(e.target.value)
+  }, [])
+
+  const toggleExpand = useCallback((code: string) => {
+    setExpandedCode(prev => prev === code ? null : code)
   }, [])
 
   return (
@@ -122,6 +212,11 @@ export function DTCSearch({ onSelect, selectedCode, brandId }: DTCSearchProps) {
         {!loading && (
           <span style={{ fontSize: 10, color: theme.text.muted, marginLeft: 8, fontWeight: 400 }}>
             {allCodes.length.toLocaleString()} кодов в базе
+            {genCodes.length > 0 && (
+              <span style={{ color: theme.accent.teal, marginLeft: 6 }}>
+                + {genCodes.length} для поколения
+              </span>
+            )}
           </span>
         )}
       </div>
@@ -206,7 +301,7 @@ export function DTCSearch({ onSelect, selectedCode, brandId }: DTCSearchProps) {
           })}
 
           {/* Brand toggle */}
-          {brandId && brandCodes.length > 0 && (
+          {brandId && mergedBrandCodes.length > 0 && (
             <button
               onClick={() => setShowBrandOnly(!showBrandOnly)}
               style={{
@@ -224,7 +319,7 @@ export function DTCSearch({ onSelect, selectedCode, brandId }: DTCSearchProps) {
                 marginLeft: 'auto',
               }}
             >
-              Только для марки ({brandCodes.length})
+              Только для марки ({mergedBrandCodes.length})
             </button>
           )}
         </div>
@@ -256,90 +351,151 @@ export function DTCSearch({ onSelect, selectedCode, brandId }: DTCSearchProps) {
             const sevColor = SEVERITY_COLORS[entry.s] || theme.text.muted
             const driveInfo = CAN_DRIVE_LABELS[entry.d]
             const isSelected = selectedCode === entry.c
+            const isExpanded = expandedCode === entry.c
+            const hasFix = !!entry.fix
 
             return (
-              <button
-                key={entry.c}
-                onClick={() => onSelect(entry.c)}
-                style={{
-                  display: 'flex',
-                  alignItems: 'center',
-                  gap: 12,
-                  padding: '10px 14px',
-                  borderRadius: 4,
-                  background: isSelected ? `${theme.accent.cyan}10` : 'rgba(0,229,255,0.02)',
-                  border: `1px solid ${isSelected ? `${theme.accent.cyan}30` : 'rgba(0,229,255,0.06)'}`,
-                  cursor: 'pointer',
-                  transition: 'all 0.2s',
-                  textAlign: 'left',
-                  width: '100%',
-                }}
-              >
-                {/* Code */}
-                <div style={{
-                  fontFamily: "'Orbitron', sans-serif",
-                  fontSize: 13,
-                  fontWeight: 700,
-                  color: sevColor,
-                  letterSpacing: '0.08em',
-                  minWidth: 70,
-                  textShadow: `0 0 8px ${sevColor}40`,
-                }}>
-                  {entry.c}
-                </div>
-
-                {/* Title */}
-                <div style={{
-                  flex: 1,
-                  fontFamily: "'Rajdhani', sans-serif",
-                  fontSize: 13,
-                  fontWeight: 500,
-                  color: theme.text.secondary,
-                  lineHeight: 1.3,
-                  overflow: 'hidden',
-                  textOverflow: 'ellipsis',
-                  whiteSpace: 'nowrap',
-                }}>
-                  {entry.t}
-                </div>
-
-                {/* System badge */}
-                {entry.sys && (
-                  <span style={{
-                    fontSize: 9,
-                    fontFamily: "'Rajdhani', sans-serif",
-                    fontWeight: 600,
-                    color: theme.text.muted,
-                    padding: '2px 6px',
-                    borderRadius: 2,
-                    background: 'rgba(0,229,255,0.05)',
-                    letterSpacing: '0.05em',
-                    textTransform: 'uppercase' as const,
-                    flexShrink: 0,
-                  }}>
-                    {SYSTEM_LABELS[entry.sys] || entry.sys}
-                  </span>
-                )}
-
-                {/* Can drive badge */}
-                {driveInfo && (
-                  <span style={{
-                    fontSize: 9,
-                    fontFamily: "'Rajdhani', sans-serif",
+              <div key={entry.c} style={{ position: 'relative' }}>
+                <button
+                  onClick={() => {
+                    onSelect(entry.c)
+                    if (hasFix) toggleExpand(entry.c)
+                  }}
+                  style={{
+                    display: 'flex',
+                    alignItems: 'center',
+                    gap: 12,
+                    padding: '10px 14px',
+                    borderRadius: 4,
+                    background: isSelected ? `${theme.accent.cyan}10` : 'rgba(0,229,255,0.02)',
+                    border: `1px solid ${isSelected ? `${theme.accent.cyan}30` : 'rgba(0,229,255,0.06)'}`,
+                    borderLeft: entry.isGeneration ? `3px solid ${theme.accent.teal}` : undefined,
+                    cursor: 'pointer',
+                    transition: 'all 0.2s',
+                    textAlign: 'left',
+                    width: '100%',
+                  }}
+                >
+                  {/* Code */}
+                  <div style={{
+                    fontFamily: "'Orbitron', sans-serif",
+                    fontSize: 13,
                     fontWeight: 700,
-                    color: driveInfo.color,
-                    padding: '2px 6px',
-                    borderRadius: 2,
-                    background: `${driveInfo.color}10`,
-                    border: `1px solid ${driveInfo.color}20`,
-                    letterSpacing: '0.05em',
-                    textTransform: 'uppercase' as const,
-                    flexShrink: 0,
+                    color: sevColor,
+                    letterSpacing: '0.08em',
+                    minWidth: 70,
+                    textShadow: `0 0 8px ${sevColor}40`,
                   }}>
-                    {driveInfo.text}
-                  </span>
+                    {entry.c}
+                  </div>
+
+                  {/* Title */}
+                  <div style={{
+                    flex: 1,
+                    fontFamily: "'Rajdhani', sans-serif",
+                    fontSize: 13,
+                    fontWeight: 500,
+                    color: theme.text.secondary,
+                    lineHeight: 1.3,
+                    overflow: 'hidden',
+                    textOverflow: 'ellipsis',
+                    whiteSpace: isExpanded ? 'normal' : 'nowrap',
+                  }}>
+                    {entry.t}
+                  </div>
+
+                  {/* Generation badge */}
+                  {entry.isGeneration && (
+                    <span style={{
+                      fontSize: 8,
+                      fontFamily: "'Rajdhani', sans-serif",
+                      fontWeight: 700,
+                      color: theme.accent.teal,
+                      padding: '2px 5px',
+                      borderRadius: 2,
+                      background: `${theme.accent.teal}10`,
+                      border: `1px solid ${theme.accent.teal}20`,
+                      letterSpacing: '0.03em',
+                      textTransform: 'uppercase' as const,
+                      flexShrink: 0,
+                      whiteSpace: 'nowrap',
+                    }}>
+                      для поколения
+                    </span>
+                  )}
+
+                  {/* System badge */}
+                  {entry.sys && (
+                    <span style={{
+                      fontSize: 9,
+                      fontFamily: "'Rajdhani', sans-serif",
+                      fontWeight: 600,
+                      color: theme.text.muted,
+                      padding: '2px 6px',
+                      borderRadius: 2,
+                      background: 'rgba(0,229,255,0.05)',
+                      letterSpacing: '0.05em',
+                      textTransform: 'uppercase' as const,
+                      flexShrink: 0,
+                    }}>
+                      {SYSTEM_LABELS[entry.sys] || entry.sys}
+                    </span>
+                  )}
+
+                  {/* Can drive badge */}
+                  {driveInfo && (
+                    <span style={{
+                      fontSize: 9,
+                      fontFamily: "'Rajdhani', sans-serif",
+                      fontWeight: 700,
+                      color: driveInfo.color,
+                      padding: '2px 6px',
+                      borderRadius: 2,
+                      background: `${driveInfo.color}10`,
+                      border: `1px solid ${driveInfo.color}20`,
+                      letterSpacing: '0.05em',
+                      textTransform: 'uppercase' as const,
+                      flexShrink: 0,
+                    }}>
+                      {driveInfo.text}
+                    </span>
+                  )}
+                </button>
+
+                {/* Expanded fix recommendation */}
+                {isExpanded && hasFix && (
+                  <div style={{
+                    margin: '2px 0 4px 0',
+                    padding: '10px 14px 10px 18px',
+                    borderRadius: '0 0 4px 4px',
+                    background: `${theme.accent.teal}06`,
+                    borderLeft: `3px solid ${theme.accent.teal}`,
+                    borderBottom: `1px solid ${theme.accent.teal}15`,
+                    borderRight: `1px solid ${theme.accent.teal}10`,
+                  }}>
+                    <div style={{
+                      fontFamily: "'Rajdhani', sans-serif",
+                      fontSize: 10,
+                      fontWeight: 700,
+                      color: theme.accent.teal,
+                      letterSpacing: '0.08em',
+                      textTransform: 'uppercase' as const,
+                      marginBottom: 4,
+                    }}>
+                      Рекомендация по исправлению
+                    </div>
+                    <div style={{
+                      fontFamily: "'Rajdhani', sans-serif",
+                      fontSize: 13,
+                      fontWeight: 500,
+                      color: theme.accent.teal,
+                      lineHeight: 1.5,
+                    }}>
+                      {entry.fix}
+                    </div>
+                  </div>
                 )}
-              </button>
+              </div>
             )
           })}
         </div>

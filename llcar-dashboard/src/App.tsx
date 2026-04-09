@@ -15,6 +15,7 @@ const KnowledgeBase = lazy(() => import('./pages/KnowledgeBase').then(m => ({ de
 const ErrorCodes = lazy(() => import('./pages/ErrorCodes').then(m => ({ default: m.ErrorCodes })))
 const Diagnostics = lazy(() => import('./pages/Diagnostics').then(m => ({ default: m.Diagnostics })))
 const Resources = lazy(() => import('./pages/Resources').then(m => ({ default: m.Resources })))
+const Pricing = lazy(() => import('./pages/Pricing').then(m => ({ default: m.Pricing })))
 
 function PageLoader() {
   return (
@@ -63,6 +64,7 @@ function App() {
               <Route path="/dtc" element={<ErrorCodes />} />
               <Route path="/diagnostics" element={<Diagnostics />} />
               <Route path="/resources" element={<Resources />} />
+              <Route path="/pricing" element={<Pricing />} />
               <Route path="*" element={<Navigate to="/" replace />} />
             </Routes>
           </Suspense>

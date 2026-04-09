@@ -9,6 +9,14 @@ interface VehicleProfile {
   generationId: string | null
 }
 
+export type UserTier = 'free' | 'single' | 'monthly' | 'annual'
+
+export interface UserTierState {
+  tier: UserTier
+  freeReportUsed: boolean
+  freeReportVehicleKey: string | null
+}
+
 interface DashboardState {
   // Navigation mode
   mode: 'vehicle' | 'general'
@@ -28,6 +36,9 @@ interface DashboardState {
   connectionDone: boolean
   showConnectionWizard: boolean
 
+  // Monetization
+  userTier: UserTierState
+
   // Actions
   setMode: (mode: DashboardState['mode']) => void
   toggleSidebar: () => void
@@ -44,6 +55,8 @@ interface DashboardState {
   resetVehicle: () => void
   openConnectionWizard: () => void
   closeConnectionWizard: () => void
+  setUserTier: (tier: UserTier) => void
+  markFreeReportUsed: (vehicleKey: string) => void
 }
 
 function loadVehicleProfile(): VehicleProfile | null {
@@ -78,7 +91,27 @@ function loadConnectionDone(): boolean {
   }
 }
 
-export const useDashboardStore = create<DashboardState>((set) => ({
+function loadUserTier(): UserTierState {
+  try {
+    const raw = localStorage.getItem('llcar-user-tier')
+    if (!raw) return { tier: 'free', freeReportUsed: false, freeReportVehicleKey: null }
+    const parsed = JSON.parse(raw)
+    if (parsed && typeof parsed.tier === 'string') {
+      return parsed as UserTierState
+    }
+    return { tier: 'free', freeReportUsed: false, freeReportVehicleKey: null }
+  } catch {
+    return { tier: 'free', freeReportUsed: false, freeReportVehicleKey: null }
+  }
+}
+
+function saveUserTier(state: UserTierState) {
+  try {
+    localStorage.setItem('llcar-user-tier', JSON.stringify(state))
+  } catch { /* ignore */ }
+}
+
+export const useDashboardStore = create<DashboardState>((set, get) => ({
   mode: loadMode(),
   sidebarOpen: false,
   selectedSystem: null,
@@ -91,6 +124,7 @@ export const useDashboardStore = create<DashboardState>((set) => ({
   showVehicleSetup: false,
   connectionDone: loadConnectionDone(),
   showConnectionWizard: false,
+  userTier: loadUserTier(),
 
   setMode: (mode) => {
     localStorage.setItem('llcar-mode', mode)
@@ -117,4 +151,22 @@ export const useDashboardStore = create<DashboardState>((set) => ({
   setConnectionDone: (done) => set({ connectionDone: done }),
   openConnectionWizard: () => set({ showConnectionWizard: true }),
   closeConnectionWizard: () => set({ showConnectionWizard: false }),
+  setUserTier: (tier) => {
+    const newState: UserTierState = { ...get().userTier, tier }
+    saveUserTier(newState)
+    set({ userTier: newState })
+  },
+  markFreeReportUsed: (vehicleKey) => {
+    const newState: UserTierState = { ...get().userTier, freeReportUsed: true, freeReportVehicleKey: vehicleKey }
+    saveUserTier(newState)
+    set({ userTier: newState })
+  },
 }))
+
+export function useHasAccess(): boolean {
+  const userTier = useDashboardStore(s => s.userTier)
+  if (userTier.tier === 'monthly' || userTier.tier === 'annual') return true
+  if (userTier.tier === 'single') return true
+  if (!userTier.freeReportUsed) return true // first report free
+  return false
+}

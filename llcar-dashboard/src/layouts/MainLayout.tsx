@@ -11,6 +11,7 @@ const tabs = [
   { path: '/dtc', label: 'Ошибки', icon: '\u26A0' },
   { path: '/diagnostics', label: 'Диагностика', icon: '\u2B21' },
   { path: '/resources', label: 'Ресурсы', icon: '\u{1F517}' },
+  { path: '/pricing', label: 'Тарифы', icon: '\u{1F48E}' },
 ]
 
 export function MainLayout({ children }: { children: ReactNode }) {

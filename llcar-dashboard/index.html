@@ -5,10 +5,33 @@
     <link rel="icon" type="image/png" href="/llcar-logo.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>LLCAR — Диагностика</title>
+    <meta name="description" content="LLCAR — умная диагностика автомобиля через OBD-II. Health Score, расшифровка DTC, маршрутная карта ремонта. В 10 раз дешевле СТО." />
+    <meta property="og:title" content="LLCAR — Умная диагностика автомобиля" />
+    <meta property="og:description" content="Health Score, расшифровка DTC, маршрутная карта ремонта. Первый отчёт — бесплатно." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://llcar.ru/v3/" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700&family=Share+Tech+Mono&family=Rajdhani:wght@400;500;600;700&display=swap" rel="stylesheet">
     <style>body { margin: 0; background: #0C1220; }</style>
+    <!-- Yandex.Metrica — раскомментировать когда будет реальный ID счётчика
+    <script>
+      (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+      m[i].l=1*new Date();
+      for(var j=0;j<document.scripts.length;j++){if(document.scripts[j].src===r)return;}
+      k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+      (window,document,"script","https://mc.yandex.ru/metrika/tag.js","ym");
+      ym(12345678, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true });
+    </script>
+    -->
+    <!-- Google Analytics (GA4) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-XXXXXXXXXX');
+    </script>
   </head>
   <body>
     <div id="root"></div>
