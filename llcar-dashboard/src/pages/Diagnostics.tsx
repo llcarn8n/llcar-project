@@ -27,6 +27,7 @@ import { OBDSetup } from '../components/diagnostics/OBDSetup'
 import { ChatPanel } from '../components/chat/ChatPanel'
 import { RulesList } from '../components/diagnostics/RulesList'
 import { DiagnosticSearch } from '../components/diagnostics/DiagnosticSearch'
+import { SuspensionTab } from '../components/panels/SuspensionTab'
 
 const CoherenceMap = lazy(() => import('../components/panels/CoherenceMap').then(m => ({ default: m.CoherenceMap })))
 const CUSUMChart = lazy(() => import('../components/panels/CUSUMChart').then(m => ({ default: m.CUSUMChart })))
@@ -408,6 +409,11 @@ export function Diagnostics() {
           </div>
         </div>
       )}
+
+      {/* Suspension analysis — V2 style with 3D scatter + charts */}
+      <div className="col-span-12">
+        <SuspensionTab accelData={accelData} />
+      </div>
 
       {/* Rules + Search — ALWAYS visible, important section */}
       <div className="col-span-12 lg:col-span-5">
