@@ -196,6 +196,8 @@ function CarBouncer({ activeSystem, groupRef }: {
   }, [])
 
   const wheelRotation = useRef(0)
+  // Cache wheel parent groups (proper pivot for rotation)
+  const wheelParents = useRef<Map<WheelCorner, THREE.Object3D>>(new Map())
 
   useFrame((_, delta) => {
     if (!groupRef.current) return
@@ -206,11 +208,11 @@ function CarBouncer({ activeSystem, groupRef }: {
     groupRef.current.rotation.x = bounceRef.pitch
 
     // Wheel spin: slows when pitch is high (braking)
-    const brakeAmount = Math.abs(bounceRef.pitch) / 0.05 // 0..1 at max brake pitch
-    const spinSpeed = Math.max(1 - brakeAmount * 0.9, 0.1) // slow to 10% on brake
-    wheelRotation.current += delta * 3.0 * spinSpeed // ~3 rad/s base speed
+    const brakeAmount = Math.abs(bounceRef.pitch) / 0.05
+    const spinSpeed = Math.max(1 - brakeAmount * 0.9, 0.1)
+    wheelRotation.current += delta * 3.0 * spinSpeed
 
-    // Per-wheel Y offset + rotation
+    // Per-wheel Y offset + parent-group rotation
     const wRefs = wheelRefsLocal.current
     if (wRefs) {
       for (const corner of Object.keys(wRefs) as WheelCorner[]) {
@@ -219,8 +221,19 @@ function CarBouncer({ activeSystem, groupRef }: {
         for (const obj of wRefs[corner]) {
           const oy = origY.current.get(obj) ?? obj.position.y
           obj.position.y = oy + wheelY
-          // Spin all wheel assembly meshes (tire + rim + brake)
-          obj.rotation.x = wheelRotation.current
+        }
+
+        // Rotate parent group (has correct pivot from Blender)
+        if (!wheelParents.current.has(corner) && wRefs[corner].length > 0) {
+          // Find common parent of first wheel mesh
+          const firstMesh = wRefs[corner][0]
+          if (firstMesh.parent && firstMesh.parent !== groupRef.current) {
+            wheelParents.current.set(corner, firstMesh.parent)
+          }
+        }
+        const parent = wheelParents.current.get(corner)
+        if (parent) {
+          parent.rotation.x = wheelRotation.current
         }
       }
     }
