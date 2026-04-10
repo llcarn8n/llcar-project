@@ -196,8 +196,8 @@ function CarBouncer({ activeSystem, groupRef }: {
   }, [])
 
   const wheelRotation = useRef(0)
-  // Cache wheel parent groups (proper pivot for rotation)
-  const wheelParents = useRef<Map<WheelCorner, THREE.Object3D>>(new Map())
+  // Cache wheel centers (computed once from bounding box)
+  const wheelCenters = useRef<Map<WheelCorner, THREE.Vector3>>(new Map())
 
   useFrame((_, delta) => {
     if (!groupRef.current) return
@@ -207,12 +207,13 @@ function CarBouncer({ activeSystem, groupRef }: {
     groupRef.current.rotation.z = bounceRef.roll
     groupRef.current.rotation.x = bounceRef.pitch
 
-    // Wheel spin: slows when pitch is high (braking)
+    // Wheel spin delta
     const brakeAmount = Math.abs(bounceRef.pitch) / 0.05
     const spinSpeed = Math.max(1 - brakeAmount * 0.9, 0.1)
-    wheelRotation.current += delta * 3.0 * spinSpeed
+    const spinDelta = delta * 3.0 * spinSpeed
+    wheelRotation.current += spinDelta
 
-    // Per-wheel Y offset + parent-group rotation
+    // Per-wheel Y offset (no rotation on individual meshes — breaks geometry)
     const wRefs = wheelRefsLocal.current
     if (wRefs) {
       for (const corner of Object.keys(wRefs) as WheelCorner[]) {
@@ -223,17 +224,28 @@ function CarBouncer({ activeSystem, groupRef }: {
           obj.position.y = oy + wheelY
         }
 
-        // Rotate parent group (has correct pivot from Blender)
-        if (!wheelParents.current.has(corner) && wRefs[corner].length > 0) {
-          // Find common parent of first wheel mesh
-          const firstMesh = wRefs[corner][0]
-          if (firstMesh.parent && firstMesh.parent !== groupRef.current) {
-            wheelParents.current.set(corner, firstMesh.parent)
-          }
+        // Compute wheel center once, then rotate geometry vertices
+        if (!wheelCenters.current.has(corner) && wRefs[corner].length > 0) {
+          const box = new THREE.Box3()
+          for (const obj of wRefs[corner]) box.expandByObject(obj)
+          wheelCenters.current.set(corner, box.getCenter(new THREE.Vector3()))
         }
-        const parent = wheelParents.current.get(corner)
-        if (parent) {
-          parent.rotation.x = wheelRotation.current
+      }
+
+      // Rotate tire meshes only (not rim/brake) using geometry rotation
+      // Tires are named Шина_XX — rotate their geometry around wheel center
+      for (const corner of Object.keys(wRefs) as WheelCorner[]) {
+        const center = wheelCenters.current.get(corner)
+        if (!center) continue
+        for (const obj of wRefs[corner]) {
+          const n = obj.name?.toLowerCase() ?? ''
+          if (!n.includes('шина')) continue
+          // Rotate geometry around wheel center on X axis (rolling)
+          const geo = (obj as THREE.Mesh).geometry
+          if (!geo) continue
+          geo.translate(-center.x, -center.y, -center.z)
+          geo.rotateX(spinDelta)
+          geo.translate(center.x, center.y, center.z)
         }
       }
     }
