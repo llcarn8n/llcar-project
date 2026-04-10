@@ -109,17 +109,19 @@ function BrakeSmoke() {
   const PARTICLE_COUNT = 80
 
   // 4 tire positions: FL, FR, RL, RR (X offsets matching car width ~0.7)
+  // Tire positions relative to brake obstacle group (which sits at Y=-0.52)
+  // Y offset +0.12 to start above road surface, at wheel contact point
   const TIRE_X = [-0.7, 0.7, -0.7, 0.7]
-  const TIRE_Z = [0.3, 0.3, -0.6, -0.6] // front and rear relative to brake obstacle
+  const TIRE_Z = [0.4, 0.4, -0.5, -0.5]
 
   const { positions, seeds } = useMemo(() => {
     const pos = new Float32Array(PARTICLE_COUNT * 3)
-    const s = new Float32Array(PARTICLE_COUNT) // random seed per particle for variation
+    const s = new Float32Array(PARTICLE_COUNT)
     for (let i = 0; i < PARTICLE_COUNT; i++) {
       const tire = i % 4
-      pos[i * 3] = TIRE_X[tire] + (Math.random() - 0.5) * 0.3
-      pos[i * 3 + 1] = Math.random() * 0.15
-      pos[i * 3 + 2] = TIRE_Z[tire] + (Math.random() - 0.5) * 0.5
+      pos[i * 3] = TIRE_X[tire] + (Math.random() - 0.5) * 0.25
+      pos[i * 3 + 1] = 0.12 + Math.random() * 0.15  // start above road
+      pos[i * 3 + 2] = TIRE_Z[tire] + (Math.random() - 0.5) * 0.4
       s[i] = Math.random()
     }
     return { positions: pos, seeds: s }
@@ -137,10 +139,10 @@ function BrakeSmoke() {
       // Spread sideways as smoke rises
       arr[i * 3] += (arr[i * 3] > 0 ? 0.001 : -0.001) * seeds[i]
       // Reset when too high
-      if (arr[i * 3 + 1] > 0.5 + seeds[i] * 0.3) {
-        arr[i * 3] = TIRE_X[tire] + (Math.random() - 0.5) * 0.3
-        arr[i * 3 + 1] = 0
-        arr[i * 3 + 2] = TIRE_Z[tire] + (Math.random() - 0.5) * 0.5
+      if (arr[i * 3 + 1] > 0.6 + seeds[i] * 0.3) {
+        arr[i * 3] = TIRE_X[tire] + (Math.random() - 0.5) * 0.25
+        arr[i * 3 + 1] = 0.12
+        arr[i * 3 + 2] = TIRE_Z[tire] + (Math.random() - 0.5) * 0.4
       }
     }
     pts.geometry.attributes.position.needsUpdate = true
@@ -206,9 +208,12 @@ function ObstacleMesh({ type }: { type: ObsType }) {
     return g
   }, [type])
 
+  // Colors matching legend: Яма cyan, Бугор green, Торможение red, Колея amber, Стык purple
   const color = (type === 'pothole_l' || type === 'pothole_r') ? '#00e5ff'
-    : type === 'bump' ? '#64ffda'
+    : type === 'bump' ? '#4ade80'
     : type === 'brake' ? '#ff4444'
+    : type === 'rut' ? '#f59e0b'
+    : type === 'joint' ? '#a78bfa'
     : '#00b8d4'
 
   if (type === 'brake') {
