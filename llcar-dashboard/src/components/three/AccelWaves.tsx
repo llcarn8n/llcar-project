@@ -102,68 +102,53 @@ function RoadStrip() {
   )
 }
 
-// ── Tire smoke for braking — billows out from under all 4 wheels ──
+// ── Tire smoke: soft clouds behind rear tires on braking ──
 
 function BrakeSmoke() {
-  const pointsRef = useRef<THREE.Points>(null)
-  const PARTICLE_COUNT = 80
-
-  // 4 tire positions: FL, FR, RL, RR (X offsets matching car width ~0.7)
-  // Tire positions relative to brake obstacle group (which sits at Y=-0.52)
-  // Y offset +0.12 to start above road surface, at wheel contact point
-  const TIRE_X = [-0.7, 0.7, -0.7, 0.7]
-  const TIRE_Z = [0.4, 0.4, -0.5, -0.5]
-
-  const { positions, seeds } = useMemo(() => {
-    const pos = new Float32Array(PARTICLE_COUNT * 3)
-    const s = new Float32Array(PARTICLE_COUNT)
-    for (let i = 0; i < PARTICLE_COUNT; i++) {
-      const tire = i % 4
-      pos[i * 3] = TIRE_X[tire] + (Math.random() - 0.5) * 0.25
-      pos[i * 3 + 1] = 0.12 + Math.random() * 0.15  // start above road
-      pos[i * 3 + 2] = TIRE_Z[tire] + (Math.random() - 0.5) * 0.4
-      s[i] = Math.random()
-    }
-    return { positions: pos, seeds: s }
-  }, [])
+  const groupRef = useRef<THREE.Group>(null)
+  // 2 rear tires only — smoke trails behind when braking
+  const SMOKE_PER_TIRE = 6
+  const meshRefs = useRef<THREE.Mesh[]>([])
 
   useFrame(({ clock }) => {
-    const pts = pointsRef.current
-    if (!pts) return
-    const arr = pts.geometry.attributes.position.array as Float32Array
     const t = clock.elapsedTime
-    for (let i = 0; i < PARTICLE_COUNT; i++) {
-      const tire = i % 4
-      // Rise slowly + drift outward from tire
-      arr[i * 3 + 1] += 0.004 + seeds[i] * 0.002
-      // Spread sideways as smoke rises
-      arr[i * 3] += (arr[i * 3] > 0 ? 0.001 : -0.001) * seeds[i]
-      // Reset when too high
-      if (arr[i * 3 + 1] > 0.6 + seeds[i] * 0.3) {
-        arr[i * 3] = TIRE_X[tire] + (Math.random() - 0.5) * 0.25
-        arr[i * 3 + 1] = 0.12
-        arr[i * 3 + 2] = TIRE_Z[tire] + (Math.random() - 0.5) * 0.4
-      }
-    }
-    pts.geometry.attributes.position.needsUpdate = true
-    ;(pts.material as THREE.PointsMaterial).opacity = 0.10 + Math.sin(t * 2) * 0.04
+    meshRefs.current.forEach((mesh, i) => {
+      if (!mesh) return
+      const tire = i < SMOKE_PER_TIRE ? 0 : 1 // left or right
+      const idx = i % SMOKE_PER_TIRE
+      // Each puff cycles with offset
+      const phase = ((t * 0.8 + idx * 0.18) % 1)
+      const tireX = tire === 0 ? -0.65 : 0.65
+
+      // Rise from tire level, drift backward (negative Z = behind)
+      mesh.position.x = tireX + Math.sin(t + i) * 0.05
+      mesh.position.y = 0.05 + phase * 0.35
+      mesh.position.z = -phase * 0.6 // drift backward
+
+      // Grow as it rises, fade out
+      const scale = 0.08 + phase * 0.2
+      mesh.scale.setScalar(scale)
+      ;(mesh.material as THREE.MeshBasicMaterial).opacity = (1 - phase) * 0.18
+    })
   })
 
   return (
-    <points ref={pointsRef}>
-      <bufferGeometry>
-        <bufferAttribute attach="attributes-position" args={[positions, 3]} />
-      </bufferGeometry>
-      <pointsMaterial
-        color="#eeddcc"
-        size={0.12}
-        transparent
-        opacity={0.12}
-        blending={THREE.AdditiveBlending}
-        depthWrite={false}
-        sizeAttenuation
-      />
-    </points>
+    <group ref={groupRef}>
+      {Array.from({ length: SMOKE_PER_TIRE * 2 }, (_, i) => (
+        <mesh
+          key={i}
+          ref={el => { if (el) meshRefs.current[i] = el }}
+        >
+          <sphereGeometry args={[1, 8, 6]} />
+          <meshBasicMaterial
+            color="#887766"
+            transparent
+            opacity={0}
+            depthWrite={false}
+          />
+        </mesh>
+      ))}
+    </group>
   )
 }
 
