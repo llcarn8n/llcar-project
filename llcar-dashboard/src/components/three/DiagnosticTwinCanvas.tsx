@@ -31,10 +31,10 @@ interface DiagnosticTwinCanvasProps {
 }
 
 const HOTSPOTS: { key: string; label: string; position: [number, number, number]; color: string }[] = [
-  { key: 'engine', label: 'Двигатель', position: [0, 1.0, -1.3], color: '#00e5ff' },
-  { key: 'suspension', label: 'Подвеска', position: [-0.85, 0.5, 0.2], color: '#00e5ff' },
-  { key: 'electrical', label: 'Электрика', position: [0.5, 0.5, 0.2], color: '#64ffda' },
-  { key: 'audio', label: 'Аудио', position: [0, 0.85, 1.3], color: '#64ffda' },
+  { key: 'engine',     label: 'Двигатель', position: [0, 0.5, -1.8],    color: '#4ade80' },  // rear — where engine is
+  { key: 'suspension', label: 'Подвеска',  position: [0, -0.4, 0.5],    color: '#00e5ff' },  // low — road/carpet level
+  { key: 'electrical', label: 'Электрика', position: [0.7, 0.9, 1.5],   color: '#a78bfa' },  // front right — headlights/fuse area
+  { key: 'audio',      label: 'Аудио',     position: [-1.2, 0.6, 1.3],  color: '#f97316' },  // near left front bearing audio zone
 ]
 
 // 6 NVH audio zones — spread to ALL sides of the car for visual separation
