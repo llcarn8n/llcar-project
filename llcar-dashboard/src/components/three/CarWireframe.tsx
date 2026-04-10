@@ -99,8 +99,8 @@ export function CarWireframe({ activeSystem = null, onWheelRefs }: CarWireframeP
       if (!(child instanceof THREE.Mesh)) return
       const cat = child.userData.materialCategory
       if (!cat) return
-      child.material = getHoloMaterial(cat, getMaterialState(cat, activeSystem))
-      // Everything always visible — no hiding of interior or tires
+      // Always default state — no dimming, no hiding. Same look on every tab.
+      child.material = getHoloMaterial(cat, 'default')
       child.visible = true
     })
   }, [activeSystem, clonedScene])
