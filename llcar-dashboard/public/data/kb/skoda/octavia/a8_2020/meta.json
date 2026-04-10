@@ -1,0 +1,18 @@
+{
+  "generation_id": "skoda_octavia_a8_2020",
+  "generation_name": "Octavia IV (A8/NX)",
+  "year_start": 2020,
+  "year_end": 2025,
+  "body_type": "liftback/combi",
+  "market": "local_production + parallel_import",
+  "production": "VW Group Rus Калуга 2020-2022, затем параллельный импорт",
+  "platform": "MQB Evo",
+  "engines": [
+    { "code": "CZDA", "volume": "1.4L", "type": "TSI Turbo", "fuel": "petrol", "power_hp": 150 },
+    { "code": "CZPA", "volume": "2.0L", "type": "TSI Turbo", "fuel": "petrol", "power_hp": 190 }
+  ],
+  "transmissions": ["DSG-7 DQ381 (1.4)", "DSG-7 DQ381 (2.0)"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "high",
+  "notes": "Четвёртое поколение MQB Evo. Калуга 2020-2022. Лифтбек и универсал Combi."
+}

@@ -1,0 +1,20 @@
+{
+  "generation_id": "skoda_kodiaq_ns_2017",
+  "generation_name": "Kodiaq I (NS)",
+  "year_start": 2017,
+  "year_end": 2024,
+  "body_type": "suv",
+  "market": "local_production + parallel_import",
+  "production": "ГАЗ Нижний Новгород 2017-2022, затем параллельный импорт",
+  "facelift": 2022,
+  "platform": "MQB (shared with VW Tiguan AD1)",
+  "engines": [
+    { "code": "CZDA", "volume": "1.4L", "type": "TSI Turbo", "fuel": "petrol", "power_hp": 150 },
+    { "code": "CZPA", "volume": "2.0L", "type": "TSI Turbo", "fuel": "petrol", "power_hp": 180 },
+    { "code": "DFGA", "volume": "2.0L", "type": "TDI Turbo Diesel", "fuel": "diesel", "power_hp": 150 }
+  ],
+  "transmissions": ["DSG-6 DQ250 (1.4)", "DSG-7 DQ500 (2.0)"],
+  "drivetrains": ["FWD", "AWD"],
+  "popularity_ru": "high",
+  "notes": "Первое поколение MQB. ГАЗ Нижний Новгород. 7 мест. Те же моторы что VW Tiguan."
+}

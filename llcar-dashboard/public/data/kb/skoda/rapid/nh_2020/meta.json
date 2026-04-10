@@ -1,0 +1,18 @@
+{
+  "generation_id": "skoda_rapid_nh_2020",
+  "generation_name": "Rapid II (NH)",
+  "year_start": 2020,
+  "year_end": 2023,
+  "body_type": "liftback",
+  "market": "local_production",
+  "production": "VW Group Rus, Калуга",
+  "platform": "MQB-A0 (shared with VW Polo AW)",
+  "engines": [
+    { "code": "CWVA", "volume": "1.6L", "type": "MPI", "fuel": "petrol", "power_hp": 90 },
+    { "code": "CWVB", "volume": "1.6L", "type": "MPI", "fuel": "petrol", "power_hp": 110 }
+  ],
+  "transmissions": ["МКПП-5", "АКПП-6 (Aisin)"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "high",
+  "notes": "Второе поколение MQB-A0. Калуга. Те же моторы что VW Polo."
+}
