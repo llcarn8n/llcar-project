@@ -1,0 +1,1 @@
+function e(e,t){let n=t.match(/^(.+?)\s+(I{1,3}V?|V?I{0,3})\s+(\d{4})/);if(!n)return null;let r=n[1].toLowerCase().replace(/\s+/g,`_`);return`${e}/${r}/${r}_${n[2].toLowerCase()}_${n[3]}`}export{e as t};

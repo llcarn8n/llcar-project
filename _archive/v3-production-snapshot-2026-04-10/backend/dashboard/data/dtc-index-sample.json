@@ -1,0 +1,10 @@
+{
+  "meta": {"total": 5},
+  "codes": {
+    "P0171": {"severity": "info", "title_ru": "Бедная смесь (банк 1)", "system_id": "engine", "can_drive": "yes_caution"},
+    "P0174": {"severity": "info", "title_ru": "Бедная смесь (банк 2)", "system_id": "engine", "can_drive": "yes_caution"},
+    "P0300": {"severity": "urgent", "title_ru": "Пропуски зажигания", "system_id": "ignition", "can_drive": "yes_caution"},
+    "P0420": {"severity": "warning", "title_ru": "Низкая эффективность катализатора", "system_id": "exhaust", "can_drive": "yes_safe"},
+    "B0001": {"severity": "critical", "title_ru": "Неисправность датчика удара", "system_id": "sensors", "can_drive": "no_stop"}
+  }
+}

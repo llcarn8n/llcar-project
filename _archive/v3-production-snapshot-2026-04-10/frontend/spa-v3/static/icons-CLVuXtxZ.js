@@ -1,0 +1,1 @@
+var e=`/static/spa-v3/`,t={scanner:`${e}images/icons/icon-diagnostic-scanner.webp`,knowledgeBase:`${e}images/icons/icon-knowledge-base.webp`,errorCodes:`${e}images/icons/icon-error-codes.webp`,aiChat:`${e}images/icons/icon-ai-chat.webp`,spaceRover:`${e}images/icons/icon-space-rover.webp`};export{t};

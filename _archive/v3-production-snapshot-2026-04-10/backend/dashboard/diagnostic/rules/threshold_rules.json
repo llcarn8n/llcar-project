@@ -1,0 +1,1420 @@
+{
+  "rules": [
+    {
+      "name": "worn_suspension",
+      "display": "Износ подвески",
+      "tier": "T2",
+      "conditions": [
+        {"fact_type": "az_std", "operator": ">", "threshold": 3.0, "weight": 3},
+        {"fact_type": "total_vibration", "operator": ">", "threshold": 4.0, "weight": 2},
+        {"fact_type": "az_range", "operator": ">", "threshold": 8.0, "weight": 2}
+      ],
+      "context": {"min_speed": 20},
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "engine_overheating",
+      "display": "Перегрев двигателя",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "coolant_temp", "operator": ">", "threshold": 100.0, "weight": 3},
+        {"fact_type": "rpm", "operator": ">", "threshold": 1200.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0217", "P0118"]
+    },
+    {
+      "name": "alternator_failure",
+      "display": "Неисправность генератора",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "voltage", "operator": "<", "threshold": 13.0, "weight": 3},
+        {"fact_type": "rpm", "operator": ">", "threshold": 1000.0, "weight": 2}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0562", "P0563"]
+    },
+    {
+      "name": "wheel_imbalance",
+      "display": "Дисбаланс колёс",
+      "tier": "T2",
+      "conditions": [
+        {"fact_type": "az_std", "operator": "z>", "threshold": 2.0, "weight": 3},
+        {"fact_type": "total_vibration", "operator": ">", "threshold": 3.0, "weight": 2},
+        {"fact_type": "speed", "operator": ">", "threshold": 60.0, "weight": 1}
+      ],
+      "context": {"min_speed": 20},
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "exhaust_leak",
+      "display": "Утечка выхлопа",
+      "tier": "T3",
+      "conditions": [
+        {"fact_type": "dominant_freq", "operator": "<", "threshold": 80.0, "weight": 2},
+        {"fact_type": "dominant_amp", "operator": "z>", "threshold": 2.0, "weight": 3}
+      ],
+      "context": {"min_speed": 10},
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "bearing_wear",
+      "display": "Износ подшипников",
+      "tier": "T3",
+      "conditions": [
+        {"fact_type": "dominant_freq", "operator": ">", "threshold": 200.0, "weight": 2},
+        {"fact_type": "dominant_amp", "operator": "z>", "threshold": 2.5, "weight": 3}
+      ],
+      "context": {"min_speed": 10},
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "engine_mount_wear",
+      "display": "Износ опор двигателя",
+      "tier": "T2",
+      "conditions": [
+        {"fact_type": "az_std", "operator": "z>", "threshold": 2.0, "weight": 2},
+        {"fact_type": "dominant_amp", "operator": "z>", "threshold": 2.0, "weight": 2},
+        {"fact_type": "rpm", "operator": ">", "threshold": 1500.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "fuel_lean",
+      "display": "Бедная топливная смесь",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "ltft_abs", "operator": ">", "threshold": 10.0, "weight": 3},
+        {"fact_type": "ltft_bank1", "operator": ">", "threshold": 0.0, "weight": 1}
+      ],
+      "context": {"require_warm": true},
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0171", "P0174"]
+    },
+    {
+      "name": "fuel_rich",
+      "display": "Богатая топливная смесь",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "ltft_abs", "operator": ">", "threshold": 10.0, "weight": 2},
+        {"fact_type": "ltft_bank1", "operator": "<", "threshold": 0.0, "weight": 1}
+      ],
+      "context": {"require_warm": true},
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0172", "P0175"]
+    },
+    {
+      "name": "low_battery",
+      "display": "Низкое напряжение АКБ",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "voltage", "operator": "<", "threshold": 12.0, "weight": 3}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "high_idle",
+      "display": "Высокие обороты на холостом ходу",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "rpm", "operator": ">", "threshold": 1100.0, "weight": 3},
+        {"fact_type": "speed", "operator": "<", "threshold": 3.0, "weight": 2}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0507"]
+    },
+    {
+      "name": "coolant_sensor",
+      "display": "Неисправность датчика ОЖ",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "coolant_temp", "operator": "<", "threshold": -20.0, "weight": 3}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0115", "P0116", "P0117", "P0118"]
+    },
+    {
+      "name": "oil_pressure_low",
+      "display": "Низкое давление масла",
+      "tier": "T1",
+      "conditions": [],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0520"]
+    },
+    {
+      "name": "catalyst_degradation",
+      "display": "Деградация катализатора",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "o2_voltage", "operator": ">", "threshold": 0.75, "weight": 3},
+        {"fact_type": "speed", "operator": ">", "threshold": 30.0, "weight": 1},
+        {"fact_type": "rpm", "operator": ">", "threshold": 1500.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0420", "P0430"]
+    },
+    {
+      "name": "misfire",
+      "display": "Пропуски зажигания",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "rpm", "operator": "z>", "threshold": 2.5, "weight": 3},
+        {"fact_type": "total_vibration", "operator": ">", "threshold": 3.0, "weight": 2},
+        {"fact_type": "stft_bank1", "operator": ">", "threshold": 10.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0300", "P0301", "P0302", "P0303", "P0304"]
+    },
+    {
+      "name": "engine_overrev",
+      "display": "Превышение оборотов двигателя",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "rpm", "operator": ">", "threshold": 6500.0, "weight": 3}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0219"]
+    },
+    {
+      "name": "stalling_risk",
+      "display": "Риск остановки двигателя",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "rpm", "operator": "<", "threshold": 400.0, "weight": 3},
+        {"fact_type": "speed", "operator": "<", "threshold": 3.0, "weight": 1},
+        {"fact_type": "coolant_temp", "operator": ">", "threshold": 60.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0505"]
+    },
+    {
+      "name": "high_rpm_idle",
+      "display": "Повышенные обороты ХХ (прогретый)",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "rpm", "operator": ">", "threshold": 1200.0, "weight": 5},
+        {"fact_type": "speed", "operator": "<", "threshold": 3.0, "weight": 1},
+        {"fact_type": "coolant_temp", "operator": ">", "threshold": 80.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0507"]
+    },
+    {
+      "name": "low_rpm_idle",
+      "display": "Низкие обороты ХХ (прогретый)",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "rpm", "operator": "<", "threshold": 500.0, "weight": 5},
+        {"fact_type": "speed", "operator": "<", "threshold": 3.0, "weight": 1},
+        {"fact_type": "coolant_temp", "operator": ">", "threshold": 80.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0506"]
+    },
+    {
+      "name": "coolant_overtemp_warning",
+      "display": "Предупреждение: температура ОЖ повышена",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "coolant_temp", "operator": ">", "threshold": 95.0, "weight": 3},
+        {"fact_type": "coolant_temp", "operator": "<", "threshold": 105.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0217"]
+    },
+    {
+      "name": "cold_engine_driving",
+      "display": "Движение на непрогретом двигателе",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "speed", "operator": ">", "threshold": 60.0, "weight": 3},
+        {"fact_type": "coolant_temp", "operator": "<", "threshold": 50.0, "weight": 2}
+      ],
+      "context": {"require_warm": false},
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "intake_vacuum_low",
+      "display": "Низкий вакуум впускного коллектора",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "map_pressure", "operator": "<", "threshold": 20.0, "weight": 3},
+        {"fact_type": "rpm", "operator": ">", "threshold": 800.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0106"]
+    },
+    {
+      "name": "intake_vacuum_high",
+      "display": "Высокое давление впускного коллектора на ХХ",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "map_pressure", "operator": ">", "threshold": 90.0, "weight": 3},
+        {"fact_type": "speed", "operator": "<", "threshold": 3.0, "weight": 1},
+        {"fact_type": "rpm", "operator": "<", "threshold": 1000.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0401"]
+    },
+    {
+      "name": "maf_reading_low",
+      "display": "Низкий расход воздуха MAF",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "maf", "operator": "<", "threshold": 2.0, "weight": 3},
+        {"fact_type": "rpm", "operator": ">", "threshold": 1000.0, "weight": 2}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0101"]
+    },
+    {
+      "name": "maf_reading_high",
+      "display": "Завышенный расход воздуха MAF",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "maf", "operator": ">", "threshold": 200.0, "weight": 3},
+        {"fact_type": "rpm", "operator": "<", "threshold": 2500.0, "weight": 2}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0101"]
+    },
+    {
+      "name": "fuel_lean_bank2",
+      "display": "Бедная смесь (банк 2)",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "ltft_bank2", "operator": ">", "threshold": 10.0, "weight": 3}
+      ],
+      "context": {"require_warm": true},
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0174"]
+    },
+    {
+      "name": "fuel_rich_bank2",
+      "display": "Богатая смесь (банк 2)",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "ltft_bank2", "operator": "<", "threshold": -10.0, "weight": 3}
+      ],
+      "context": {"require_warm": true},
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0175"]
+    },
+    {
+      "name": "stft_high_oscillation",
+      "display": "Нестабильность топливной коррекции",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "fuel_trim_delta", "operator": ">", "threshold": 15.0, "weight": 3}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0170"]
+    },
+    {
+      "name": "fuel_system_lean_idle",
+      "display": "Бедная смесь на холостом ходу",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "ltft_abs", "operator": ">", "threshold": 8.0, "weight": 3},
+        {"fact_type": "ltft_bank1", "operator": ">", "threshold": 0.0, "weight": 1},
+        {"fact_type": "speed", "operator": "<", "threshold": 3.0, "weight": 1}
+      ],
+      "context": {"require_warm": true},
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0171"]
+    },
+    {
+      "name": "fuel_system_rich_idle",
+      "display": "Богатая смесь на холостом ходу",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "ltft_abs", "operator": ">", "threshold": 8.0, "weight": 3},
+        {"fact_type": "ltft_bank1", "operator": "<", "threshold": 0.0, "weight": 1},
+        {"fact_type": "speed", "operator": "<", "threshold": 3.0, "weight": 1}
+      ],
+      "context": {"require_warm": true},
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0172"]
+    },
+    {
+      "name": "o2_sensor_stuck_lean",
+      "display": "Датчик O2 завис (бедный сигнал)",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "o2_voltage", "operator": "<", "threshold": 0.15, "weight": 3},
+        {"fact_type": "rpm", "operator": ">", "threshold": 1000.0, "weight": 1},
+        {"fact_type": "speed", "operator": ">", "threshold": 20.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0131"]
+    },
+    {
+      "name": "o2_sensor_stuck_rich",
+      "display": "Датчик O2 завис (богатый сигнал)",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "o2_voltage", "operator": ">", "threshold": 0.85, "weight": 3},
+        {"fact_type": "rpm", "operator": ">", "threshold": 1000.0, "weight": 1},
+        {"fact_type": "speed", "operator": ">", "threshold": 20.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0132"]
+    },
+    {
+      "name": "charging_high",
+      "display": "Перезарядка АКБ (неисправность регулятора)",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "voltage", "operator": ">", "threshold": 15.5, "weight": 3},
+        {"fact_type": "rpm", "operator": ">", "threshold": 1000.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0563"]
+    },
+    {
+      "name": "voltage_drop_idle",
+      "display": "Просадка напряжения на ХХ",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "voltage", "operator": "<", "threshold": 12.5, "weight": 3},
+        {"fact_type": "speed", "operator": "<", "threshold": 3.0, "weight": 1},
+        {"fact_type": "rpm", "operator": ">", "threshold": 600.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0562"]
+    },
+    {
+      "name": "battery_deep_discharge",
+      "display": "Глубокий разряд АКБ",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "voltage", "operator": "<", "threshold": 11.0, "weight": 3}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0562"]
+    },
+    {
+      "name": "charging_intermittent",
+      "display": "Нестабильная зарядка",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "voltage", "operator": "z>", "threshold": 2.5, "weight": 3},
+        {"fact_type": "rpm", "operator": ">", "threshold": 1000.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0562"]
+    },
+    {
+      "name": "harsh_road_surface",
+      "display": "Плохое дорожное покрытие",
+      "tier": "T2",
+      "conditions": [
+        {"fact_type": "total_vibration", "operator": ">", "threshold": 7.0, "weight": 3},
+        {"fact_type": "speed", "operator": ">", "threshold": 60.0, "weight": 2}
+      ],
+      "context": {"min_speed": 20},
+      "min_confidence": 60,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "front_suspension_worn",
+      "display": "Износ передней подвески",
+      "tier": "T2",
+      "conditions": [
+        {"fact_type": "ax_std", "operator": "z>", "threshold": 2.5, "weight": 3},
+        {"fact_type": "speed", "operator": ">", "threshold": 40.0, "weight": 1}
+      ],
+      "context": {"min_speed": 20},
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "lateral_instability",
+      "display": "Боковая нестабильность",
+      "tier": "T2",
+      "conditions": [
+        {"fact_type": "ay_std", "operator": "z>", "threshold": 2.5, "weight": 3},
+        {"fact_type": "speed", "operator": ">", "threshold": 60.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "shock_absorber_worn",
+      "display": "Износ амортизаторов",
+      "tier": "T2",
+      "conditions": [
+        {"fact_type": "az_range", "operator": ">", "threshold": 12.0, "weight": 3},
+        {"fact_type": "speed", "operator": ">", "threshold": 30.0, "weight": 1},
+        {"fact_type": "az_std", "operator": ">", "threshold": 3.0, "weight": 2}
+      ],
+      "context": {"min_speed": 20},
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "stabilizer_link_worn",
+      "display": "Износ стоек стабилизатора",
+      "tier": "T2",
+      "conditions": [
+        {"fact_type": "ay_std", "operator": "z>", "threshold": 2.0, "weight": 3},
+        {"fact_type": "speed", "operator": ">", "threshold": 30.0, "weight": 1},
+        {"fact_type": "total_vibration", "operator": ">", "threshold": 3.0, "weight": 2}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "high_crest_vertical",
+      "display": "Импульсные удары подвески",
+      "tier": "T2",
+      "conditions": [
+        {"fact_type": "crest_factor_z", "operator": ">", "threshold": 5.0, "weight": 3},
+        {"fact_type": "speed", "operator": ">", "threshold": 40.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "vibration_at_speed",
+      "display": "Вибрация на скорости",
+      "tier": "T2",
+      "conditions": [
+        {"fact_type": "vibration_speed_ratio", "operator": ">", "threshold": 0.05, "weight": 3},
+        {"fact_type": "speed", "operator": ">", "threshold": 50.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "idle_vibration_high",
+      "display": "Повышенная вибрация на ХХ",
+      "tier": "T2",
+      "conditions": [
+        {"fact_type": "total_vibration", "operator": "z>", "threshold": 2.0, "weight": 3},
+        {"fact_type": "speed", "operator": "<", "threshold": 3.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "belt_squeal",
+      "display": "Визг ремня",
+      "tier": "T3",
+      "conditions": [
+        {"fact_type": "dominant_freq", "operator": "between", "threshold": [1000, 4000], "weight": 2},
+        {"fact_type": "dominant_amp", "operator": "z>", "threshold": 2.0, "weight": 3},
+        {"fact_type": "rpm", "operator": ">", "threshold": 1000.0, "weight": 1}
+      ],
+      "context": {"min_speed": 10},
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "turbo_whistle",
+      "display": "Свист турбины",
+      "tier": "T3",
+      "conditions": [
+        {"fact_type": "dominant_freq", "operator": ">", "threshold": 1500.0, "weight": 2},
+        {"fact_type": "dominant_amp", "operator": "z>", "threshold": 2.0, "weight": 3},
+        {"fact_type": "speed", "operator": ">", "threshold": 40.0, "weight": 1},
+        {"fact_type": "rpm", "operator": ">", "threshold": 2000.0, "weight": 1}
+      ],
+      "context": {"min_speed": 10},
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "brake_squeal",
+      "display": "Скрип тормозов",
+      "tier": "T3",
+      "conditions": [
+        {"fact_type": "dominant_freq", "operator": ">", "threshold": 2000.0, "weight": 3},
+        {"fact_type": "dominant_amp", "operator": "z>", "threshold": 1.5, "weight": 2},
+        {"fact_type": "speed", "operator": "<", "threshold": 10.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "intake_noise",
+      "display": "Шум впуска",
+      "tier": "T3",
+      "conditions": [
+        {"fact_type": "dominant_freq", "operator": "between", "threshold": [50, 200], "weight": 2},
+        {"fact_type": "dominant_amp", "operator": "z>", "threshold": 2.0, "weight": 3},
+        {"fact_type": "rpm", "operator": ">", "threshold": 2000.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "valve_train_noise",
+      "display": "Шум клапанного механизма",
+      "tier": "T3",
+      "conditions": [
+        {"fact_type": "dominant_freq", "operator": "between", "threshold": [500, 1500], "weight": 2},
+        {"fact_type": "dominant_amp", "operator": "z>", "threshold": 1.5, "weight": 3},
+        {"fact_type": "rpm", "operator": ">", "threshold": 1500.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "knock_detonation",
+      "display": "Детонация двигателя",
+      "tier": "T3",
+      "conditions": [
+        {"fact_type": "dominant_freq", "operator": "between", "threshold": [5000, 8000], "weight": 2},
+        {"fact_type": "dominant_amp", "operator": "z>", "threshold": 2.0, "weight": 3}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0324"]
+    },
+    {
+      "name": "wind_noise",
+      "display": "Аэродинамический шум",
+      "tier": "T3",
+      "conditions": [
+        {"fact_type": "dominant_freq", "operator": ">", "threshold": 300.0, "weight": 2},
+        {"fact_type": "dominant_amp", "operator": "z>", "threshold": 1.5, "weight": 3},
+        {"fact_type": "speed", "operator": ">", "threshold": 90.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "rumble_low_freq",
+      "display": "Низкочастотный гул трансмиссии",
+      "tier": "T3",
+      "conditions": [
+        {"fact_type": "dominant_freq", "operator": "<", "threshold": 50.0, "weight": 2},
+        {"fact_type": "dominant_amp", "operator": "z>", "threshold": 2.0, "weight": 3},
+        {"fact_type": "speed", "operator": ">", "threshold": 30.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "whistle_high_freq",
+      "display": "Высокочастотный свист",
+      "tier": "T3",
+      "conditions": [
+        {"fact_type": "dominant_freq", "operator": "between", "threshold": [3000, 6000], "weight": 2},
+        {"fact_type": "dominant_amp", "operator": "z>", "threshold": 2.0, "weight": 3},
+        {"fact_type": "speed", "operator": ">", "threshold": 20.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "power_steering_noise",
+      "display": "Шум гидроусилителя руля",
+      "tier": "T3",
+      "conditions": [
+        {"fact_type": "dominant_amp", "operator": "z>", "threshold": 2.0, "weight": 3},
+        {"fact_type": "ay_std", "operator": ">", "threshold": 1.5, "weight": 2},
+        {"fact_type": "speed", "operator": "<", "threshold": 20.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "drivetrain_vibration",
+      "display": "Вибрация трансмиссии",
+      "tier": "T2",
+      "conditions": [
+        {"fact_type": "total_vibration", "operator": "z>", "threshold": 2.5, "weight": 3},
+        {"fact_type": "speed", "operator": ">", "threshold": 50.0, "weight": 1},
+        {"fact_type": "dominant_amp", "operator": "z>", "threshold": 1.5, "weight": 2}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "brake_vibration",
+      "display": "Вибрация при торможении",
+      "tier": "T2",
+      "conditions": [
+        {"fact_type": "az_std", "operator": "z>", "threshold": 2.0, "weight": 3},
+        {"fact_type": "dominant_amp", "operator": "z>", "threshold": 1.5, "weight": 2},
+        {"fact_type": "speed", "operator": "between", "threshold": [20, 80], "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "cv_joint_click",
+      "display": "Щелчки ШРУСа",
+      "tier": "T2",
+      "conditions": [
+        {"fact_type": "ay_std", "operator": ">", "threshold": 2.5, "weight": 3},
+        {"fact_type": "dominant_amp", "operator": "z>", "threshold": 2.0, "weight": 2},
+        {"fact_type": "speed", "operator": "between", "threshold": [10, 40], "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+
+    {
+      "name": "battery_temp_high",
+      "display": "Высокая температура ВВБ (PHEV)",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "hv_battery_temp", "operator": ">", "threshold": 45.0, "weight": 3},
+        {"fact_type": "speed", "operator": ">", "threshold": 30.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0A1F"]
+    },
+    {
+      "name": "soc_critical",
+      "display": "Критически низкий заряд ВВБ (PHEV)",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "hv_battery_soc", "operator": "<", "threshold": 15.0, "weight": 3},
+        {"fact_type": "speed", "operator": ">", "threshold": 10.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0A80"]
+    },
+    {
+      "name": "range_extender_overwork",
+      "display": "Перегрузка рейндж-экстендера (PHEV)",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "range_extender_runtime", "operator": ">", "threshold": 1800.0, "weight": 3},
+        {"fact_type": "hv_battery_soc", "operator": "<", "threshold": 25.0, "weight": 2},
+        {"fact_type": "rpm", "operator": ">", "threshold": 3500.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "motor_overheat",
+      "display": "Перегрев электродвигателя (PHEV)",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "e_motor_temp", "operator": ">", "threshold": 150.0, "weight": 3},
+        {"fact_type": "speed", "operator": ">", "threshold": 20.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0A78"]
+    },
+
+    {
+      "name": "compressor_noise",
+      "display": "Шум компрессора кондиционера",
+      "tier": "T3",
+      "conditions": [
+        {"fact_type": "dominant_freq", "operator": "between", "threshold": [800, 1200], "weight": 2},
+        {"fact_type": "dominant_amp", "operator": "z>", "threshold": 2.0, "weight": 3}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "fuel_pump_noise",
+      "display": "Шум топливного насоса",
+      "tier": "T3",
+      "conditions": [
+        {"fact_type": "dominant_freq", "operator": "between", "threshold": [200, 400], "weight": 2},
+        {"fact_type": "dominant_amp", "operator": "z>", "threshold": 1.5, "weight": 3},
+        {"fact_type": "speed", "operator": "<", "threshold": 10.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "starter_grinding",
+      "display": "Скрежет стартера",
+      "tier": "T3",
+      "conditions": [
+        {"fact_type": "dominant_freq", "operator": "between", "threshold": [100, 300], "weight": 2},
+        {"fact_type": "dominant_amp", "operator": "z>", "threshold": 3.0, "weight": 3},
+        {"fact_type": "rpm", "operator": "<", "threshold": 500.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+
+    {
+      "name": "engine_load_high",
+      "display": "Высокая нагрузка на малой скорости",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "p0104", "operator": ">", "threshold": 90.0, "weight": 3},
+        {"fact_type": "speed", "operator": "<", "threshold": 60.0, "weight": 2}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "throttle_stuck",
+      "display": "Залипание дроссельной заслонки",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "p0111", "operator": ">", "threshold": 80.0, "weight": 3},
+        {"fact_type": "speed", "operator": "<", "threshold": 5.0, "weight": 2}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0121", "P0122", "P0123"]
+    },
+    {
+      "name": "idle_speed_oscillation",
+      "display": "Нестабильные обороты на ХХ",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "rpm", "operator": "z>", "threshold": 2.0, "weight": 3},
+        {"fact_type": "speed", "operator": "<", "threshold": 3.0, "weight": 2}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0505"]
+    },
+
+    {
+      "name": "suspension_rattle",
+      "display": "Дребезг элементов подвески",
+      "tier": "T2",
+      "conditions": [
+        {"fact_type": "az_std", "operator": "z>", "threshold": 2.5, "weight": 3},
+        {"fact_type": "dominant_amp", "operator": "z>", "threshold": 1.5, "weight": 2},
+        {"fact_type": "dominant_freq", "operator": "between", "threshold": [50, 200], "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "loose_heat_shield",
+      "display": "Вибрация теплозащитного экрана",
+      "tier": "T3",
+      "conditions": [
+        {"fact_type": "dominant_freq", "operator": "between", "threshold": [300, 600], "weight": 2},
+        {"fact_type": "dominant_amp", "operator": "z>", "threshold": 2.0, "weight": 3},
+        {"fact_type": "az_std", "operator": "z>", "threshold": 1.5, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+
+    {
+      "name": "thermostat_stuck_open",
+      "display": "Термостат заклинил (открыт)",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "coolant_temp", "operator": "<", "threshold": 70.0, "weight": 3},
+        {"fact_type": "speed", "operator": ">", "threshold": 40.0, "weight": 1},
+        {"fact_type": "rpm", "operator": ">", "threshold": 1500.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0128"]
+    },
+    {
+      "name": "thermostat_stuck_closed",
+      "display": "Термостат заклинил (закрыт)",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "coolant_temp", "operator": ">", "threshold": 105.0, "weight": 3},
+        {"fact_type": "speed", "operator": ">", "threshold": 60.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0217"]
+    },
+    {
+      "name": "egr_malfunction",
+      "display": "Неисправность EGR",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "map_pressure", "operator": ">", "threshold": 80.0, "weight": 3},
+        {"fact_type": "rpm", "operator": "<", "threshold": 1500.0, "weight": 1},
+        {"fact_type": "speed", "operator": "<", "threshold": 10.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0400", "P0401"]
+    },
+    {
+      "name": "excessive_fuel_consumption",
+      "display": "Повышенный расход топлива",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "maf", "operator": ">", "threshold": 150.0, "weight": 3},
+        {"fact_type": "speed", "operator": "<", "threshold": 40.0, "weight": 2}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "vacuum_leak",
+      "display": "Подсос воздуха (вакуумная утечка)",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "ltft_bank1", "operator": ">", "threshold": 15.0, "weight": 3},
+        {"fact_type": "stft_bank1", "operator": ">", "threshold": 10.0, "weight": 2},
+        {"fact_type": "speed", "operator": "<", "threshold": 5.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0171", "P0300"]
+    },
+    {
+      "name": "injector_imbalance",
+      "display": "Разброс форсунок (дисбаланс впрыска)",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "fuel_trim_delta", "operator": ">", "threshold": 12.0, "weight": 3},
+        {"fact_type": "rpm", "operator": ">", "threshold": 1000.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0201", "P0202", "P0203", "P0204"]
+    },
+    {
+      "name": "rough_road_impact",
+      "display": "Удар на неровности",
+      "tier": "T2",
+      "conditions": [
+        {"fact_type": "crest_factor_z", "operator": ">", "threshold": 6.0, "weight": 3},
+        {"fact_type": "az_range", "operator": ">", "threshold": 10.0, "weight": 2},
+        {"fact_type": "speed", "operator": ">", "threshold": 20.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "tire_flat_vibration",
+      "display": "Вибрация от спущенного колеса",
+      "tier": "T2",
+      "conditions": [
+        {"fact_type": "total_vibration", "operator": "z>", "threshold": 3.0, "weight": 3},
+        {"fact_type": "az_std", "operator": "z>", "threshold": 2.5, "weight": 2},
+        {"fact_type": "speed", "operator": "between", "threshold": [20, 60], "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "water_pump_noise",
+      "display": "Шум водяной помпы",
+      "tier": "T3",
+      "conditions": [
+        {"fact_type": "dominant_freq", "operator": "between", "threshold": [400, 800], "weight": 2},
+        {"fact_type": "dominant_amp", "operator": "z>", "threshold": 2.0, "weight": 3},
+        {"fact_type": "rpm", "operator": ">", "threshold": 1000.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "timing_chain_rattle",
+      "display": "Дребезг цепи ГРМ",
+      "tier": "T3",
+      "conditions": [
+        {"fact_type": "dominant_freq", "operator": "between", "threshold": [200, 500], "weight": 2},
+        {"fact_type": "dominant_amp", "operator": "z>", "threshold": 2.5, "weight": 3},
+        {"fact_type": "rpm", "operator": "<", "threshold": 1200.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0341"]
+    },
+    {
+      "name": "axle_vibration",
+      "display": "Вибрация приводного вала",
+      "tier": "T2",
+      "conditions": [
+        {"fact_type": "ax_std", "operator": "z>", "threshold": 2.0, "weight": 3},
+        {"fact_type": "ay_std", "operator": "z>", "threshold": 2.0, "weight": 2},
+        {"fact_type": "speed", "operator": ">", "threshold": 50.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "catalytic_overtemp",
+      "display": "Перегрев катализатора",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "coolant_temp", "operator": ">", "threshold": 100.0, "weight": 2},
+        {"fact_type": "ltft_bank1", "operator": "<", "threshold": -8.0, "weight": 3},
+        {"fact_type": "rpm", "operator": ">", "threshold": 2000.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0420", "P0430"]
+    },
+
+    {
+      "name": "battery_soc_low",
+      "display": "Низкий заряд ВВБ (PHEV/BEV)",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "hv_battery_soc", "operator": "<", "threshold": 20.0, "weight": 3},
+        {"fact_type": "hv_battery_soc", "operator": ">", "threshold": 5.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0A80"]
+    },
+    {
+      "name": "e_motor_temp_high",
+      "display": "Повышенная температура э/мотора",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "e_motor_temp", "operator": ">", "threshold": 120.0, "weight": 3},
+        {"fact_type": "e_motor_temp", "operator": "<", "threshold": 150.0, "weight": 1},
+        {"fact_type": "speed", "operator": ">", "threshold": 30.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0A78"]
+    },
+    {
+      "name": "charging_anomaly",
+      "display": "Аномалия зарядки ВВБ",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "hv_battery_soc", "operator": "<", "threshold": 30.0, "weight": 2},
+        {"fact_type": "hv_battery_voltage", "operator": "<", "threshold": 300.0, "weight": 3},
+        {"fact_type": "hv_battery_current", "operator": "<", "threshold": -5.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0A09", "P0AA6"]
+    },
+    {
+      "name": "regen_brake_weak",
+      "display": "Слабая рекуперация тормозов (PHEV/BEV)",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "regen_brake_power", "operator": "<", "threshold": 5.0, "weight": 3},
+        {"fact_type": "speed", "operator": ">", "threshold": 30.0, "weight": 1},
+        {"fact_type": "hv_battery_soc", "operator": "<", "threshold": 90.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0A0A"]
+    },
+
+    {
+      "name": "p0171_lean_boost",
+      "display": "Бедная смесь + DTC P0171",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "ltft_bank1", "operator": ">", "threshold": 8.0, "weight": 3},
+        {"fact_type": "stft_bank1", "operator": ">", "threshold": 5.0, "weight": 2},
+        {"fact_type": "rpm", "operator": ">", "threshold": 800.0, "weight": 1}
+      ],
+      "min_confidence": 35,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0171"]
+    },
+    {
+      "name": "p0300_misfire_boost",
+      "display": "Пропуски зажигания + DTC P0300",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "rpm", "operator": "z>", "threshold": 2.0, "weight": 3},
+        {"fact_type": "total_vibration", "operator": ">", "threshold": 2.5, "weight": 2},
+        {"fact_type": "stft_bank1", "operator": ">", "threshold": 8.0, "weight": 1}
+      ],
+      "min_confidence": 35,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0300", "P0301", "P0302", "P0303", "P0304"]
+    },
+    {
+      "name": "p0420_catalyst_boost",
+      "display": "Катализатор ниже порога + DTC P0420",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "o2_voltage", "operator": ">", "threshold": 0.7, "weight": 3},
+        {"fact_type": "speed", "operator": ">", "threshold": 40.0, "weight": 1},
+        {"fact_type": "coolant_temp", "operator": ">", "threshold": 80.0, "weight": 1}
+      ],
+      "min_confidence": 35,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0420"]
+    },
+    {
+      "name": "p0442_evap_leak",
+      "display": "Утечка системы EVAP + DTC P0442",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "ltft_bank1", "operator": ">", "threshold": 5.0, "weight": 2},
+        {"fact_type": "speed", "operator": "<", "threshold": 5.0, "weight": 1}
+      ],
+      "min_confidence": 35,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0442", "P0455", "P0456"]
+    },
+
+    {
+      "name": "winter_cold_start_anomaly",
+      "display": "Аномалия холодного пуска (зима)",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "coolant_temp", "operator": "<", "threshold": -10.0, "weight": 3},
+        {"fact_type": "voltage", "operator": "<", "threshold": 12.0, "weight": 2},
+        {"fact_type": "rpm", "operator": "<", "threshold": 500.0, "weight": 2}
+      ],
+      "context": {"require_warm": false},
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0171", "P0562"]
+    },
+    {
+      "name": "summer_overheat_risk",
+      "display": "Риск перегрева (лето, пробки)",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "coolant_temp", "operator": ">", "threshold": 100.0, "weight": 5},
+        {"fact_type": "speed", "operator": "<", "threshold": 10.0, "weight": 1},
+        {"fact_type": "rpm", "operator": "<", "threshold": 1000.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0217"]
+    },
+
+    {
+      "name": "vibration_with_dtc",
+      "display": "Вибрация + коды неисправностей",
+      "tier": "T2",
+      "conditions": [
+        {"fact_type": "total_vibration", "operator": "z>", "threshold": 2.0, "weight": 3},
+        {"fact_type": "az_std", "operator": "z>", "threshold": 2.0, "weight": 2},
+        {"fact_type": "rpm", "operator": ">", "threshold": 800.0, "weight": 1}
+      ],
+      "min_confidence": 35,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0300", "P0301", "P0302", "P0303", "P0304"]
+    },
+    {
+      "name": "audio_speed_correlation",
+      "display": "Шум коррелирует со скоростью",
+      "tier": "T3",
+      "conditions": [
+        {"fact_type": "dominant_amp", "operator": "z>", "threshold": 2.0, "weight": 3},
+        {"fact_type": "speed", "operator": ">", "threshold": 50.0, "weight": 2},
+        {"fact_type": "dominant_freq", "operator": "between", "threshold": [100, 500], "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "warmup_too_slow",
+      "display": "Слишком медленный прогрев",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "coolant_temp", "operator": "<", "threshold": 60.0, "weight": 3},
+        {"fact_type": "rpm", "operator": ">", "threshold": 1500.0, "weight": 2},
+        {"fact_type": "speed", "operator": ">", "threshold": 40.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0128"]
+    },
+    {
+      "name": "idle_rpm_instability",
+      "display": "Нестабильно��ть оборотов ХХ",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "rpm", "operator": "z>", "threshold": 2.5, "weight": 5},
+        {"fact_type": "speed", "operator": "<", "threshold": 3.0, "weight": 1},
+        {"fact_type": "coolant_temp", "operator": ">", "threshold": 70.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0505", "P0507"]
+    },
+
+    {
+      "name": "turbo_lag_excessive",
+      "display": "Чрезмерное запаздывание турбины",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "map_pressure", "operator": "<", "threshold": 50.0, "weight": 3},
+        {"fact_type": "rpm", "operator": ">", "threshold": 2500.0, "weight": 2},
+        {"fact_type": "speed", "operator": ">", "threshold": 40.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0299"]
+    },
+    {
+      "name": "oil_pressure_warning",
+      "display": "Предупреждение: давление масла",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "oil_pressure", "operator": "<", "threshold": 1.0, "weight": 3},
+        {"fact_type": "rpm", "operator": ">", "threshold": 1000.0, "weight": 2}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0520", "P0521"]
+    },
+    {
+      "name": "transmission_slip",
+      "display": "Проскальзывание АКПП",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "rpm", "operator": ">", "threshold": 3000.0, "weight": 5},
+        {"fact_type": "speed", "operator": "<", "threshold": 40.0, "weight": 1},
+        {"fact_type": "coolant_temp", "operator": ">", "threshold": 80.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0730", "P0741"]
+    },
+    {
+      "name": "brake_pad_wear",
+      "display": "Износ тормозных колодок",
+      "tier": "T3",
+      "conditions": [
+        {"fact_type": "dominant_freq", "operator": ">", "threshold": 2500.0, "weight": 3},
+        {"fact_type": "dominant_amp", "operator": "z>", "threshold": 2.0, "weight": 2},
+        {"fact_type": "speed", "operator": "between", "threshold": [5, 30], "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "hv_battery_imbalance",
+      "display": "Разбалансировка ячеек ВВБ",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "hv_cell_voltage_delta", "operator": ">", "threshold": 0.3, "weight": 3},
+        {"fact_type": "hv_battery_soc", "operator": "<", "threshold": 80.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0A09"]
+    },
+    {
+      "name": "inverter_overtemp",
+      "display": "Перегрев инвертора (PHEV/BEV)",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "inverter_temp", "operator": ">", "threshold": 80.0, "weight": 3},
+        {"fact_type": "speed", "operator": ">", "threshold": 20.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0A3F"]
+    },
+    {
+      "name": "ac_compressor_overload",
+      "display": "Перегрузка компрессора кондиционера",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "rpm", "operator": "<", "threshold": 700.0, "weight": 2},
+        {"fact_type": "voltage", "operator": "<", "threshold": 13.0, "weight": 3},
+        {"fact_type": "coolant_temp", "operator": ">", "threshold": 95.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "catalytic_light_off_slow",
+      "display": "Медленный прогрев катализатора",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "o2_voltage", "operator": "<", "threshold": 0.2, "weight": 3},
+        {"fact_type": "coolant_temp", "operator": ">", "threshold": 70.0, "weight": 2},
+        {"fact_type": "rpm", "operator": ">", "threshold": 1000.0, "weight": 1}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0420", "P0421"]
+    }
+  ]
+}

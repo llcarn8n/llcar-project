@@ -1,0 +1,5 @@
+[
+  {"id": "lean_mixture", "title": "Обеднённая смесь", "quickAnswer": "Проверьте подсос воздуха.", "urgency": 4, "category": "engine", "layers": ["engine", "fuel"], "dtc_codes": ["P0171", "P0174"], "canDrive": "осторожно", "priceRange": "3000-25000 руб", "commonMistakes": ["Замена лямбды без проверки подсоса"]},
+  {"id": "engine_overheat", "title": "Перегрев двигателя", "quickAnswer": "Остановитесь.", "urgency": 5, "category": "engine", "layers": ["engine", "cooling"], "dtc_codes": [], "canDrive": "нет", "priceRange": "2000-80000 руб", "commonMistakes": ["Продолжение движения при перегреве"]},
+  {"id": "suspension_noise", "title": "Подвеска стучит", "quickAnswer": "Стойки стабилизатора — первое.", "urgency": 3, "category": "chassis", "layers": ["chassis", "suspension"], "dtc_codes": [], "canDrive": "да", "priceRange": "2000-20000 руб", "commonMistakes": ["Замена амортизаторов без проверки стоек"]}
+]

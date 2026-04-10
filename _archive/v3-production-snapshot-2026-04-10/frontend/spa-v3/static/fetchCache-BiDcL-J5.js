@@ -1,0 +1,1 @@
+var e=new Map;function t(t){if(e.has(t))return e.get(t);let n=fetch(t).then(e=>e.json());return e.set(t,n),n}export{t};

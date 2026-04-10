@@ -1,0 +1,2772 @@
+{
+  "yt2_a87f1c1a": {
+    "title": "Восстановление двигателя после термического воздействия (пожар)",
+    "category": "engine",
+    "thresholds": [
+      {
+        "type": "norm_range",
+        "min": 10.0,
+        "max": 14.0,
+        "unit": "бар",
+        "raw": "норма 10-14 бар"
+      },
+      {
+        "type": "gt",
+        "value": 600.0,
+        "unit": "°C",
+        "raw": "выше 600°C"
+      },
+      {
+        "type": "gt",
+        "value": 10.0,
+        "unit": "%",
+        "raw": "более 10%"
+      }
+    ]
+  },
+  "yt_311fa9f1": {
+    "title": "Диагностика давления масла на холодную",
+    "category": "engine",
+    "thresholds": [
+      {
+        "type": "norm_range",
+        "min": 10.0,
+        "max": 14.0,
+        "unit": "бар",
+        "raw": "норма 10–14 бар"
+      },
+      {
+        "type": "norm_range",
+        "min": 1.0,
+        "max": 1.5,
+        "unit": "бар",
+        "raw": "норма 1.0–1.5 бар"
+      },
+      {
+        "type": "gt",
+        "value": 40.0,
+        "unit": "°C",
+        "raw": "выше 40°C"
+      },
+      {
+        "type": "gt",
+        "value": 0.1,
+        "unit": "%",
+        "raw": "выше 0.1%"
+      },
+      {
+        "type": "lt",
+        "value": 0.8,
+        "unit": "бар",
+        "raw": "ниже 0.8 бар"
+      }
+    ]
+  },
+  "engine_noise": {
+    "title": "Желтый индикатор CHECK ENGINE: диагностика и безопасное движение",
+    "category": "engine",
+    "thresholds": [
+      {
+        "type": "norm_range",
+        "min": 10.0,
+        "max": 20.0,
+        "unit": "",
+        "raw": "норма 10-20 "
+      }
+    ]
+  },
+  "yt_fddcc241": {
+    "title": "Контроль давления в картере двигателя",
+    "category": "engine",
+    "thresholds": [
+      {
+        "type": "norm_range",
+        "min": 10.0,
+        "max": 13.0,
+        "unit": "атм",
+        "raw": "норма 10-13 атм"
+      },
+      {
+        "type": "gt",
+        "value": 1.0,
+        "unit": "",
+        "raw": ">1 "
+      }
+    ]
+  },
+  "yt_29f7b61d": {
+    "title": "Контроль качества ремонта и чистоты системы",
+    "category": "engine",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 95.0,
+        "unit": "°C",
+        "raw": "выше 95°C"
+      },
+      {
+        "type": "gt",
+        "value": 105.0,
+        "unit": "°C",
+        "raw": "выше 105°C"
+      },
+      {
+        "type": "gt",
+        "value": 3000.0,
+        "unit": "об/мин",
+        "raw": "выше 3000 об/мин"
+      },
+      {
+        "type": "lt",
+        "value": 1.5,
+        "unit": "бар",
+        "raw": "Ниже 1.5 бар"
+      }
+    ]
+  },
+  "yt_cabdc384": {
+    "title": "Контроль равномерности торможения колес",
+    "category": "engine",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 10.0,
+        "unit": "%",
+        "raw": "более 10%"
+      }
+    ]
+  },
+  "yt_93e9f2aa": {
+    "title": "Контроль температуры работы катализатора",
+    "category": "engine",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 0.5,
+        "unit": "бар",
+        "raw": "более 0,5 бар"
+      },
+      {
+        "type": "gt",
+        "value": 40.0,
+        "unit": "°C",
+        "raw": "выше 40°C"
+      },
+      {
+        "type": "lt",
+        "value": 350.0,
+        "unit": "°C",
+        "raw": "ниже 350 °C"
+      }
+    ]
+  },
+  "yt_295103c1": {
+    "title": "Проверка датчиков коленвала и распредвала",
+    "category": "engine",
+    "thresholds": [
+      {
+        "type": "lt",
+        "value": 1.5,
+        "unit": "бар",
+        "raw": "менее 1.5 бар"
+      }
+    ]
+  },
+  "yt_0d46eee8": {
+    "title": "Проверка питания катушки зажигания под нагрузкой",
+    "category": "engine",
+    "thresholds": [
+      {
+        "type": "norm_range",
+        "min": 3.0,
+        "max": 4.0,
+        "unit": "бар",
+        "raw": "норма 3.0–4.0 бар"
+      },
+      {
+        "type": "norm_range",
+        "min": 1.2,
+        "max": 1.8,
+        "unit": "",
+        "raw": "норма 1,2–1,8 "
+      },
+      {
+        "type": "norm_range",
+        "min": 25.0,
+        "max": 35.0,
+        "unit": "",
+        "raw": "норма 25–35 "
+      }
+    ]
+  },
+  "yt_c3f5dc82": {
+    "title": "Проверка целостности мембраны клапана вентиляции картера (PCV)",
+    "category": "engine",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 10.0,
+        "unit": "кПа",
+        "raw": "более 10 кПа"
+      }
+    ]
+  },
+  "oil_consumption": {
+    "title": "Расход масла превышает 1 литр на 1000 км пробега (не является конструктивной особенностью)",
+    "category": "engine",
+    "thresholds": [
+      {
+        "type": "lt",
+        "value": 20.0,
+        "unit": "°C",
+        "raw": "ниже 20°C"
+      },
+      {
+        "type": "lt",
+        "value": 1.5,
+        "unit": "бар",
+        "raw": "ниже 1.5 бар"
+      }
+    ]
+  },
+  "yt_7c5edd43": {
+    "title": "Риск выгорания адаптера на старых автомобилях",
+    "category": "engine",
+    "thresholds": [
+      {
+        "type": "lt",
+        "value": 11.0,
+        "unit": "В",
+        "raw": "ниже 11В"
+      },
+      {
+        "type": "gt",
+        "value": 10.0,
+        "unit": "",
+        "raw": ">10 "
+      },
+      {
+        "type": "lt",
+        "value": 0.5,
+        "unit": "",
+        "raw": "<0.5 "
+      }
+    ]
+  },
+  "yt_10577e9b": {
+    "title": "Риски эксплуатации б/у авто без замены масел",
+    "category": "engine",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 3000.0,
+        "unit": "об/мин",
+        "raw": "выше 3000 об/мин"
+      }
+    ]
+  },
+  "yt_1224fdf9": {
+    "title": "Самостоятельное перемещение на нейтральной передаче",
+    "category": "engine",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 120.0,
+        "unit": "°C",
+        "raw": "выше 120°C"
+      }
+    ]
+  },
+  "yt_562422cd": {
+    "title": "Установка масляных форсунок охлаждения",
+    "category": "engine",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 220.0,
+        "unit": "°C",
+        "raw": "выше 220°C"
+      },
+      {
+        "type": "gt",
+        "value": 0.8,
+        "unit": "",
+        "raw": ">0.8 "
+      }
+    ]
+  },
+  "yt_e5d25cde": {
+    "title": "Диагностика вибраций двигателя",
+    "category": "engine",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 10.0,
+        "unit": "%",
+        "raw": "более 10%"
+      }
+    ]
+  },
+  "yt_1bd913c2": {
+    "title": "Низкий уровень моторного масла",
+    "category": "engine",
+    "thresholds": [
+      {
+        "type": "norm_range",
+        "min": 2.0,
+        "max": 4.5,
+        "unit": "бар",
+        "raw": "норма: 2.0-4.5 бар"
+      }
+    ]
+  },
+  "yt_9ce716e0": {
+    "title": "Осторожность при покупке авто с пробегом",
+    "category": "engine",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 1.5,
+        "unit": "",
+        "raw": ">1.5 "
+      }
+    ]
+  },
+  "yt_d78f3273": {
+    "title": "Ошибки фазорегулятора (P0011, P0014) после промывки",
+    "category": "engine",
+    "thresholds": [
+      {
+        "type": "norm_range",
+        "min": 2.5,
+        "max": 4.0,
+        "unit": "бар",
+        "raw": "норма 2.5-4.0 бар"
+      },
+      {
+        "type": "lt",
+        "value": 1.5,
+        "unit": "бар",
+        "raw": "Ниже 1.5 бар"
+      }
+    ]
+  },
+  "yt2_0fa749c0": {
+    "title": "Потеря мощности и крутящего момента после установки полного привода",
+    "category": "engine",
+    "thresholds": [
+      {
+        "type": "norm_range",
+        "min": 12.0,
+        "max": 14.0,
+        "unit": "бар",
+        "raw": "норма 12-14 бар"
+      },
+      {
+        "type": "norm_range",
+        "min": 3.5,
+        "max": 4.0,
+        "unit": "бар",
+        "raw": "норма 3.5-4.0 бар"
+      },
+      {
+        "type": "gt",
+        "value": 10.0,
+        "unit": "%",
+        "raw": "более 10%"
+      },
+      {
+        "type": "gt",
+        "value": 0.5,
+        "unit": "бар",
+        "raw": "выше 0.5 бар"
+      }
+    ]
+  },
+  "video_ext_ce2d85be": {
+    "title": "Рено Логан 1.6 (K7M 710) - Капиталка неубиваемого мотора!",
+    "category": "engine",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 1.0,
+        "unit": "",
+        "raw": ">1"
+      },
+      {
+        "type": "gt",
+        "value": 2.0,
+        "unit": "",
+        "raw": ">2"
+      }
+    ]
+  },
+  "yt_82c93513": {
+    "title": "Смазка при сборке двигателя",
+    "category": "engine",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 110.0,
+        "unit": "°C",
+        "raw": "выше 110°C"
+      }
+    ]
+  },
+  "buni_f1b38a0d": {
+    "title": "Глохнет двигатель на холостых",
+    "category": "engine",
+    "thresholds": [
+      {
+        "type": "norm_range",
+        "min": 3.0,
+        "max": 4.0,
+        "unit": "бар",
+        "raw": "норма 3-4 бар"
+      },
+      {
+        "type": "gt",
+        "value": 1.05,
+        "unit": "В",
+        "raw": ">1.05 В"
+      }
+    ]
+  },
+  "yt2_5bdc758d": {
+    "title": "Недозаряд аккумулятора из-за низких оборотов двигателя",
+    "category": "engine",
+    "thresholds": [
+      {
+        "type": "norm_range",
+        "min": 13.5,
+        "max": 14.5,
+        "unit": "В",
+        "raw": "норма 13.5–14.5 В"
+      },
+      {
+        "type": "lt",
+        "value": 13.0,
+        "unit": "В",
+        "raw": "ниже 13.0 В"
+      }
+    ]
+  },
+  "yt_e3e6ef0f": {
+    "title": "Поиск трубок при плотной компоновке моторного отсека",
+    "category": "engine",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 35.0,
+        "unit": "°C",
+        "raw": "выше 35°C"
+      },
+      {
+        "type": "gt",
+        "value": 70.0,
+        "unit": "°C",
+        "raw": ">70°C"
+      }
+    ]
+  },
+  "yt_d4b55797": {
+    "title": "Принцип работы попарно-параллельного впрыска",
+    "category": "engine",
+    "thresholds": [
+      {
+        "type": "norm_range",
+        "min": 3.0,
+        "max": 3.5,
+        "unit": "бар",
+        "raw": "Норма 3.0-3.5 бар"
+      },
+      {
+        "type": "lt",
+        "value": 2.5,
+        "unit": "бар",
+        "raw": "ниже 2.5 бар"
+      },
+      {
+        "type": "gt",
+        "value": 2.0,
+        "unit": "",
+        "raw": ">2 "
+      }
+    ]
+  },
+  "yt_c7c4fc18": {
+    "title": "Режимы работы форсунок: одновременный впрыск",
+    "category": "engine",
+    "thresholds": [
+      {
+        "type": "norm_range",
+        "min": 3.0,
+        "max": 4.0,
+        "unit": "бар",
+        "raw": "норма 3.0–4.0 бар"
+      }
+    ]
+  },
+  "buni_8943ed2b": {
+    "title": "Стук турбины ACTECO 1.5T/1.6T",
+    "category": "engine",
+    "thresholds": [
+      {
+        "type": "lt",
+        "value": 100.0,
+        "unit": "",
+        "raw": "<100 "
+      },
+      {
+        "type": "lt",
+        "value": 5.0,
+        "unit": "",
+        "raw": "<5 "
+      }
+    ]
+  },
+  "video_ext_af95dae0": {
+    "title": "Все пошло не по плану! Теперь страдают все ((",
+    "category": "engine",
+    "thresholds": [
+      {
+        "type": "range",
+        "min": 2.0,
+        "max": 3.0,
+        "unit": "",
+        "raw": "от 2-3 "
+      }
+    ]
+  },
+  "yt_ac049adc": {
+    "title": "Защита ниппеля при покраске",
+    "category": "engine",
+    "thresholds": [
+      {
+        "type": "norm_range",
+        "min": 2.0,
+        "max": 2.5,
+        "unit": "атм",
+        "raw": "норма 2.0-2.5 атм"
+      }
+    ]
+  },
+  "yt_15f88492": {
+    "title": "Использование простых инструментов для первичной диагностики",
+    "category": "engine",
+    "thresholds": [
+      {
+        "type": "norm_range",
+        "min": 10.0,
+        "max": 13.0,
+        "unit": "атм",
+        "raw": "Норма: 10-13 атм"
+      },
+      {
+        "type": "gt",
+        "value": 1.5,
+        "unit": "",
+        "raw": ">1.5 "
+      }
+    ]
+  },
+  "yt_54a4f4bb": {
+    "title": "Ожидание завершения сканирования",
+    "category": "engine",
+    "thresholds": [
+      {
+        "type": "lt",
+        "value": 3.5,
+        "unit": "",
+        "raw": "< 3.5 "
+      },
+      {
+        "type": "lt",
+        "value": 85.0,
+        "unit": "°C",
+        "raw": "< 85°C"
+      }
+    ]
+  },
+  "yt_d7d2ed08": {
+    "title": "Развитие навыков самостоятельного ремонта",
+    "category": "engine",
+    "thresholds": [
+      {
+        "type": "norm_range",
+        "min": 3.0,
+        "max": 5.0,
+        "unit": "бар",
+        "raw": "норма 3–5 бар"
+      }
+    ]
+  },
+  "yt_5f8098d0": {
+    "title": "Самостоятельная закупка расходных материалов",
+    "category": "engine",
+    "thresholds": [
+      {
+        "type": "norm_range",
+        "min": 2.0,
+        "max": 4.0,
+        "unit": "бар",
+        "raw": "норма 2–4 бар"
+      }
+    ]
+  },
+  "yt_c451c1cf": {
+    "title": "Удаление ошибок перед диагностикой",
+    "category": "engine",
+    "thresholds": [
+      {
+        "type": "norm_range",
+        "min": 85.0,
+        "max": 95.0,
+        "unit": "°C",
+        "raw": "норма 85–95 °C"
+      }
+    ]
+  },
+  "yt_2710ab16": {
+    "title": "Универсальность диагностических параметров",
+    "category": "engine",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 1.5,
+        "unit": "",
+        "raw": ">1.5 "
+      },
+      {
+        "type": "gt",
+        "value": 15.0,
+        "unit": "%",
+        "raw": ">15%"
+      },
+      {
+        "type": "lt",
+        "value": 1.5,
+        "unit": "",
+        "raw": "<1.5 "
+      }
+    ]
+  },
+  "used_car_check": {
+    "title": "Проверка б/у автомобиля перед покупкой: полный чеклист",
+    "category": "engine",
+    "thresholds": [
+      {
+        "type": "norm_range",
+        "min": 80.0,
+        "max": 150.0,
+        "unit": "",
+        "raw": "норма 80-150 "
+      },
+      {
+        "type": "gt",
+        "value": 200.0,
+        "unit": "",
+        "raw": ">200 "
+      }
+    ]
+  },
+  "yt_355f02d5": {
+    "title": "Вибрация и толчки педали тормоза при обычном торможении",
+    "category": "brakes",
+    "thresholds": [
+      {
+        "type": "range",
+        "min": 6000.0,
+        "max": 40000.0,
+        "unit": "",
+        "raw": "от 6000 до 40000 "
+      }
+    ]
+  },
+  "yt_9054e937": {
+    "title": "Замена сгоревших тросов управления",
+    "category": "brakes",
+    "thresholds": [
+      {
+        "type": "range",
+        "min": 1000.0,
+        "max": 2500.0,
+        "unit": "",
+        "raw": "от 1000 до 2500 "
+      },
+      {
+        "type": "range",
+        "min": 4500.0,
+        "max": 12000.0,
+        "unit": "",
+        "raw": "от 4500 до 12000 "
+      }
+    ]
+  },
+  "yt_54d8d36a": {
+    "title": "Неравномерный износ и разрушение колодок",
+    "category": "brakes",
+    "thresholds": [
+      {
+        "type": "range",
+        "min": 800.0,
+        "max": 2000.0,
+        "unit": "",
+        "raw": "от 800 до 2000 "
+      },
+      {
+        "type": "range",
+        "min": 3000.0,
+        "max": 15.0,
+        "unit": "",
+        "raw": "от 3000 до 15 "
+      },
+      {
+        "type": "range",
+        "min": 3000.0,
+        "max": 5000.0,
+        "unit": "",
+        "raw": "от 3000 до 5000 "
+      },
+      {
+        "type": "range",
+        "min": 2500.0,
+        "max": 10.0,
+        "unit": "",
+        "raw": "от 2500 до 10 "
+      }
+    ]
+  },
+  "yt_471d4691": {
+    "title": "Определение критического износа колодок",
+    "category": "brakes",
+    "thresholds": [
+      {
+        "type": "range",
+        "min": 4000.0,
+        "max": 20000.0,
+        "unit": "",
+        "raw": "от 4000 до 20000 "
+      }
+    ]
+  },
+  "yt_e6fa6e87": {
+    "title": "Проверка целостности тормозных трубопроводов",
+    "category": "brakes",
+    "thresholds": [
+      {
+        "type": "range",
+        "min": 800.0,
+        "max": 1.0,
+        "unit": "",
+        "raw": "от 800 до 1 "
+      },
+      {
+        "type": "gt",
+        "value": 15.0,
+        "unit": "%",
+        "raw": "более 15%"
+      }
+    ]
+  },
+  "buni_41e85d0d": {
+    "title": "Скрип и вибрация передних тормозов",
+    "category": "brakes",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 3.0,
+        "unit": "",
+        "raw": ">3 "
+      },
+      {
+        "type": "lt",
+        "value": 3.0,
+        "unit": "",
+        "raw": "<3 "
+      }
+    ]
+  },
+  "msf_wet_road": {
+    "title": "Аквапланирование: вождение по мокрой дороге",
+    "category": "brakes",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 80.0,
+        "unit": "км/ч",
+        "raw": "выше 80 км/ч"
+      }
+    ]
+  },
+  "yt_41ca784e": {
+    "title": "Биение педали тормоза",
+    "category": "brakes",
+    "thresholds": [
+      {
+        "type": "range",
+        "min": 1500.0,
+        "max": 3000.0,
+        "unit": "",
+        "raw": "от 1500 до 3000 "
+      },
+      {
+        "type": "range",
+        "min": 2000.0,
+        "max": 15.0,
+        "unit": "",
+        "raw": "от 2000 до 15 "
+      }
+    ]
+  },
+  "yt_aaedc5e3": {
+    "title": "Вибрация руля на скорости 70-90 км/ч",
+    "category": "brakes",
+    "thresholds": [
+      {
+        "type": "range",
+        "min": 3000.0,
+        "max": 15000.0,
+        "unit": "",
+        "raw": "от 3000 до 15000 "
+      }
+    ]
+  },
+  "yt_6d5ade67": {
+    "title": "Критический уровень и загрязнение тормозной жидкости",
+    "category": "brakes",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 3.0,
+        "unit": "%",
+        "raw": "более 3%"
+      }
+    ]
+  },
+  "yt_f1de22ca": {
+    "title": "Проверка работы вакуумного усилителя тормозов",
+    "category": "brakes",
+    "thresholds": [
+      {
+        "type": "range",
+        "min": 1.5,
+        "max": 2.5,
+        "unit": "",
+        "raw": "от 1,5 до 2,5 "
+      }
+    ]
+  },
+  "buni_059316ef": {
+    "title": "Деформация тормозных дисков на малом пробеге",
+    "category": "brakes",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 0.1,
+        "unit": "",
+        "raw": ">0.1 "
+      },
+      {
+        "type": "lt",
+        "value": 0.05,
+        "unit": "",
+        "raw": "<0.05 "
+      }
+    ]
+  },
+  "yt2_ee332d66": {
+    "title": "Перекос тормозного усилия при ручном тормозе",
+    "category": "brakes",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 25.0,
+        "unit": "%",
+        "raw": "более 25%"
+      }
+    ]
+  },
+  "video_ext_c4e75e43": {
+    "title": "РЕМОНТ и ОБСЛУЖИВАНИЕ электромобиля. Как СЭКОНОМИТЬ на ЗАМЕНЕ БАТАРЕИ электро...",
+    "category": "brakes",
+    "thresholds": [
+      {
+        "type": "lt",
+        "value": 75.0,
+        "unit": "%",
+        "raw": "ниже 75%"
+      },
+      {
+        "type": "lt",
+        "value": 20.0,
+        "unit": "%",
+        "raw": "ниже 20%"
+      }
+    ]
+  },
+  "yt_41fba19d": {
+    "title": "Выявление межвиткового замыкания обмотки",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 1.0,
+        "unit": "",
+        "raw": ">1 "
+      }
+    ]
+  },
+  "yt_73cfa95b": {
+    "title": "Контроль тока потребления при включении",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 100.0,
+        "unit": "",
+        "raw": ">100 "
+      }
+    ]
+  },
+  "yt_72bc11a4": {
+    "title": "Периодическая потеря питания (сброс электроники)",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 0.2,
+        "unit": "V",
+        "raw": "более 0.2V"
+      }
+    ]
+  },
+  "yt_992c287b": {
+    "title": "Проверка питания диагностического разъема перед подключением",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "lt",
+        "value": 10.0,
+        "unit": "V",
+        "raw": "ниже 10V"
+      }
+    ]
+  },
+  "rev_83b71805": {
+    "title": "Быстрый разряд аккумулятора",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "lt",
+        "value": 50.0,
+        "unit": "",
+        "raw": "< 50 "
+      }
+    ]
+  },
+  "yt_2cb4c3b6": {
+    "title": "Визуальный осмотр коллектора и щеток",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 0.5,
+        "unit": "В",
+        "raw": "более 0.5 В"
+      },
+      {
+        "type": "lt",
+        "value": 12.4,
+        "unit": "В",
+        "raw": "менее 12.4 В"
+      }
+    ]
+  },
+  "rev_ddc82991": {
+    "title": "Вышел из строя аккумулятор: замена и подбор",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "lt",
+        "value": 50.0,
+        "unit": "",
+        "raw": "< 50 "
+      }
+    ]
+  },
+  "yt_492aaedb": {
+    "title": "Глохнет на неровностях и не запускается с ключа",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 0.5,
+        "unit": "В",
+        "raw": "более 0.5 В"
+      },
+      {
+        "type": "lt",
+        "value": 12.4,
+        "unit": "В",
+        "raw": "менее 12.4 В"
+      }
+    ]
+  },
+  "yt_3cb64c69": {
+    "title": "Диагностика отсутствия напряжения в цепи",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 0.5,
+        "unit": "В",
+        "raw": "более 0.5 В"
+      },
+      {
+        "type": "lt",
+        "value": 12.4,
+        "unit": "В",
+        "raw": "менее 12.4 В"
+      }
+    ]
+  },
+  "yt_f7b9e701": {
+    "title": "Загрязненный воздушный фильтр вызывает провалы и высокий расход",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 0.5,
+        "unit": "В",
+        "raw": "более 0.5 В"
+      },
+      {
+        "type": "lt",
+        "value": 12.4,
+        "unit": "В",
+        "raw": "менее 12.4 В"
+      }
+    ]
+  },
+  "yt_0397ae69": {
+    "title": "Износ контактных колец якоря",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 0.5,
+        "unit": "В",
+        "raw": "более 0.5 В"
+      },
+      {
+        "type": "lt",
+        "value": 12.4,
+        "unit": "В",
+        "raw": "менее 12.4 В"
+      }
+    ]
+  },
+  "yt_37d447ec": {
+    "title": "Локализация замыкания методом исключения",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 0.5,
+        "unit": "В",
+        "raw": "более 0.5 В"
+      },
+      {
+        "type": "lt",
+        "value": 12.4,
+        "unit": "В",
+        "raw": "менее 12.4 В"
+      }
+    ]
+  },
+  "yt_5f0089bd": {
+    "title": "Низкое напряжение в цепи фар",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 0.5,
+        "unit": "В",
+        "raw": "более 0.5 В"
+      },
+      {
+        "type": "lt",
+        "value": 12.4,
+        "unit": "В",
+        "raw": "менее 12.4 В"
+      }
+    ]
+  },
+  "yt_22072549": {
+    "title": "Подмена фактов о пробеге и обслуживании",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 0.5,
+        "unit": "В",
+        "raw": "более 0.5 В"
+      },
+      {
+        "type": "lt",
+        "value": 12.4,
+        "unit": "В",
+        "raw": "менее 12.4 В"
+      }
+    ]
+  },
+  "yt_71c22c47": {
+    "title": "Проблемы с электроникой полного привода",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 0.5,
+        "unit": "В",
+        "raw": "более 0.5 В"
+      },
+      {
+        "type": "lt",
+        "value": 12.4,
+        "unit": "В",
+        "raw": "менее 12.4 В"
+      }
+    ]
+  },
+  "yt_d46b4671": {
+    "title": "Проверка диодного моста",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 15.0,
+        "unit": "V",
+        "raw": ">15V"
+      },
+      {
+        "type": "gt",
+        "value": 0.5,
+        "unit": "V",
+        "raw": ">0.5V"
+      },
+      {
+        "type": "lt",
+        "value": 13.5,
+        "unit": "V",
+        "raw": "<13.5V"
+      }
+    ]
+  },
+  "buni_83a65cff": {
+    "title": "Разряд 12V аккумулятора (BYD)",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 2.0,
+        "unit": "",
+        "raw": ">2 "
+      }
+    ]
+  },
+  "yt_47621f50": {
+    "title": "Сложность запуска после простоя",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 0.5,
+        "unit": "В",
+        "raw": "более 0.5 В"
+      },
+      {
+        "type": "lt",
+        "value": 12.4,
+        "unit": "В",
+        "raw": "менее 12.4 В"
+      }
+    ]
+  },
+  "yt_c6819ba1": {
+    "title": "Специфика ПО для конкретных групп авто",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 0.5,
+        "unit": "В",
+        "raw": "более 0.5 В"
+      },
+      {
+        "type": "lt",
+        "value": 12.4,
+        "unit": "В",
+        "raw": "менее 12.4 В"
+      }
+    ]
+  },
+  "video_ext_a14937c0": {
+    "title": "DQ500 10668 - Датчик положения муфты 2 P1736 00 [172] - электрическая неиспр...",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 0.5,
+        "unit": "В",
+        "raw": "более 0.5 В"
+      },
+      {
+        "type": "lt",
+        "value": 12.4,
+        "unit": "В",
+        "raw": "менее 12.4 В"
+      }
+    ]
+  },
+  "yt_0da31b2c": {
+    "title": "Активация заводских функций после установки доп. оборудования",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 0.5,
+        "unit": "В",
+        "raw": "более 0.5 В"
+      },
+      {
+        "type": "lt",
+        "value": 12.4,
+        "unit": "В",
+        "raw": "менее 12.4 В"
+      }
+    ]
+  },
+  "yt_048d3fc6": {
+    "title": "Базовое понимание электрических величин",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 0.5,
+        "unit": "В",
+        "raw": "более 0.5 В"
+      },
+      {
+        "type": "lt",
+        "value": 12.4,
+        "unit": "В",
+        "raw": "менее 12.4 В"
+      }
+    ]
+  },
+  "yt_946226fd": {
+    "title": "Визуальная проверка срабатывания электромагнитной муфты",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 0.5,
+        "unit": "В",
+        "raw": "более 0.5 В"
+      },
+      {
+        "type": "lt",
+        "value": 12.4,
+        "unit": "В",
+        "raw": "менее 12.4 В"
+      }
+    ]
+  },
+  "yt_6fada669": {
+    "title": "Диагностика износа коллектора якоря",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 0.5,
+        "unit": "В",
+        "raw": "более 0.5 В"
+      },
+      {
+        "type": "lt",
+        "value": 12.4,
+        "unit": "В",
+        "raw": "менее 12.4 В"
+      }
+    ]
+  },
+  "yt_ca518ae1": {
+    "title": "Метод Soft Drain для сброса ошибок",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 0.5,
+        "unit": "В",
+        "raw": "более 0.5 В"
+      },
+      {
+        "type": "lt",
+        "value": 12.4,
+        "unit": "В",
+        "raw": "менее 12.4 В"
+      }
+    ]
+  },
+  "yt_48daf294": {
+    "title": "Нарушение целостности электроники и датчиков",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 0.5,
+        "unit": "В",
+        "raw": "более 0.5 В"
+      },
+      {
+        "type": "lt",
+        "value": 12.4,
+        "unit": "В",
+        "raw": "менее 12.4 В"
+      }
+    ]
+  },
+  "video_ext_486a5ce5": {
+    "title": "Нет запуска появилась ошибка Р0606",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 0.5,
+        "unit": "В",
+        "raw": "более 0.5 В"
+      },
+      {
+        "type": "lt",
+        "value": 12.4,
+        "unit": "В",
+        "raw": "менее 12.4 В"
+      }
+    ]
+  },
+  "buni_1e21ed56": {
+    "title": "Потеря запаса хода зимой (BYD EV)",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "lt",
+        "value": 20.0,
+        "unit": "%",
+        "raw": "ниже 20%"
+      }
+    ]
+  },
+  "yt_e8b33d7d": {
+    "title": "Проблемы с сигнализацией и ключом",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 0.5,
+        "unit": "В",
+        "raw": "более 0.5 В"
+      },
+      {
+        "type": "lt",
+        "value": 12.4,
+        "unit": "В",
+        "raw": "менее 12.4 В"
+      }
+    ]
+  },
+  "yt_4d075df7": {
+    "title": "Проверка корректности показаний датчиков",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 0.5,
+        "unit": "В",
+        "raw": "более 0.5 В"
+      },
+      {
+        "type": "lt",
+        "value": 12.4,
+        "unit": "В",
+        "raw": "менее 12.4 В"
+      }
+    ]
+  },
+  "yt_a923488f": {
+    "title": "Проверка состояния щеток стартера",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "norm_range",
+        "min": 12.0,
+        "max": 15.0,
+        "unit": "",
+        "raw": "норма 12-15 "
+      }
+    ]
+  },
+  "yt_10f19cc4": {
+    "title": "Программная активация штатных модулей",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 0.5,
+        "unit": "В",
+        "raw": "более 0.5 В"
+      },
+      {
+        "type": "lt",
+        "value": 12.4,
+        "unit": "В",
+        "raw": "менее 12.4 В"
+      }
+    ]
+  },
+  "rev_681ed4e7": {
+    "title": "Сбои бортовой электроники и мультимедиа",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "lt",
+        "value": 50.0,
+        "unit": "",
+        "raw": "< 50 "
+      }
+    ]
+  },
+  "yt_fc309a7e": {
+    "title": "Сбой связи между датчиками и блоком управления",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 0.5,
+        "unit": "В",
+        "raw": "более 0.5 В"
+      },
+      {
+        "type": "lt",
+        "value": 12.4,
+        "unit": "В",
+        "raw": "менее 12.4 В"
+      }
+    ]
+  },
+  "yt_ec7ecaeb": {
+    "title": "Сезонные сбои работы автозапуска",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 0.5,
+        "unit": "В",
+        "raw": "более 0.5 В"
+      },
+      {
+        "type": "lt",
+        "value": 12.4,
+        "unit": "В",
+        "raw": "менее 12.4 В"
+      }
+    ]
+  },
+  "yt_efeda7ef": {
+    "title": "Эмуляция датчиков для диагностики блока управления",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 50.0,
+        "unit": "км/ч",
+        "raw": "более 50 км/ч"
+      }
+    ]
+  },
+  "yt_5bc0d554": {
+    "title": "Автоматический поиск блоков управления",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 0.5,
+        "unit": "В",
+        "raw": "более 0.5 В"
+      },
+      {
+        "type": "lt",
+        "value": 12.4,
+        "unit": "В",
+        "raw": "менее 12.4 В"
+      }
+    ]
+  },
+  "yt_ef12f484": {
+    "title": "Выбор качественных ламп",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 0.5,
+        "unit": "В",
+        "raw": "более 0.5 В"
+      },
+      {
+        "type": "lt",
+        "value": 12.4,
+        "unit": "В",
+        "raw": "менее 12.4 В"
+      }
+    ]
+  },
+  "yt_f29a6367": {
+    "title": "Использование игл от шприца для подключения щупов",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 0.5,
+        "unit": "В",
+        "raw": "более 0.5 В"
+      },
+      {
+        "type": "lt",
+        "value": 12.4,
+        "unit": "В",
+        "raw": "менее 12.4 В"
+      }
+    ]
+  },
+  "yt_3aae93bf": {
+    "title": "Использование распиновки и схем для ремонта",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 0.5,
+        "unit": "В",
+        "raw": "более 0.5 В"
+      },
+      {
+        "type": "lt",
+        "value": 12.4,
+        "unit": "В",
+        "raw": "менее 12.4 В"
+      }
+    ]
+  },
+  "yt_fba7cba1": {
+    "title": "Использование смартфона как диагностического прибора",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 1.5,
+        "unit": "",
+        "raw": ">1.5 "
+      }
+    ]
+  },
+  "yt_068fd673": {
+    "title": "Настройка отображения дополнительных датчиков",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 0.5,
+        "unit": "В",
+        "raw": "более 0.5 В"
+      },
+      {
+        "type": "lt",
+        "value": 12.4,
+        "unit": "В",
+        "raw": "менее 12.4 В"
+      }
+    ]
+  },
+  "yt_b6720b1c": {
+    "title": "Очистка контактов и изоляция от грязи",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 0.5,
+        "unit": "В",
+        "raw": "более 0.5 В"
+      },
+      {
+        "type": "lt",
+        "value": 12.4,
+        "unit": "В",
+        "raw": "менее 12.4 В"
+      }
+    ]
+  },
+  "yt_3930ab9d": {
+    "title": "Правильный порядок разборки щеточного узла",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 0.5,
+        "unit": "В",
+        "raw": "более 0.5 В"
+      },
+      {
+        "type": "lt",
+        "value": 12.4,
+        "unit": "В",
+        "raw": "менее 12.4 В"
+      }
+    ]
+  },
+  "video_ext_7a9d2462": {
+    "title": "ошибка 16885 - Датчик скорости движения",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 0.5,
+        "unit": "В",
+        "raw": "более 0.5 В"
+      },
+      {
+        "type": "lt",
+        "value": 12.4,
+        "unit": "В",
+        "raw": "менее 12.4 В"
+      }
+    ]
+  },
+  "yt_3ec74dc6": {
+    "title": "Активация устройства через пин-код",
+    "category": "electrical",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 0.5,
+        "unit": "В",
+        "raw": "более 0.5 В"
+      },
+      {
+        "type": "lt",
+        "value": 12.4,
+        "unit": "В",
+        "raw": "менее 12.4 В"
+      }
+    ]
+  },
+  "yt_dce73f18": {
+    "title": "Проверка люфтов в подвеске без подъемника",
+    "category": "suspension",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 50.0,
+        "unit": "",
+        "raw": ">50"
+      }
+    ]
+  },
+  "yt_32472c3b": {
+    "title": "Диагностика сайлентблоков рычагов",
+    "category": "suspension",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 20.0,
+        "unit": "%",
+        "raw": "более 20%"
+      }
+    ]
+  },
+  "video_ext_7f234b23": {
+    "title": "ОБЯЗАТЕЛЬНО ПРОВЕРЬ ПЕРЕД ЗИМОЙ / Мерседес GLS — диагностика и ремонт",
+    "category": "suspension",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 4.0,
+        "unit": "",
+        "raw": ">4 "
+      },
+      {
+        "type": "lt",
+        "value": 3.0,
+        "unit": "",
+        "raw": "<3 "
+      }
+    ]
+  },
+  "yt_d9965033": {
+    "title": "Рывки и пинки при переключении передач (гидравлический сбой)",
+    "category": "drivetrain",
+    "thresholds": [
+      {
+        "type": "norm_range",
+        "min": 3.0,
+        "max": 5.0,
+        "unit": "бар",
+        "raw": "Норма: 3-5 бар"
+      }
+    ]
+  },
+  "rev_transmission_jerks": {
+    "title": "Рывки и толчки АКПП / робота при переключениях",
+    "category": "drivetrain",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 80000.0,
+        "unit": "",
+        "raw": ">80000 "
+      }
+    ]
+  },
+  "yt_64b457b9": {
+    "title": "Потеря управляемости при перегреве",
+    "category": "drivetrain",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 120.0,
+        "unit": "°С",
+        "raw": ">120°С"
+      }
+    ]
+  },
+  "buni_968a0e64": {
+    "title": "Задержка переключения передач в АКПП",
+    "category": "drivetrain",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 120.0,
+        "unit": "°C",
+        "raw": ">120°C"
+      }
+    ]
+  },
+  "yt_18d178f3": {
+    "title": "Низкое давление в топливной рампе (Common Rail)",
+    "category": "fuel",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 20.0,
+        "unit": "%",
+        "raw": "более 20%"
+      },
+      {
+        "type": "gt",
+        "value": 5.0,
+        "unit": "",
+        "raw": "> 5"
+      },
+      {
+        "type": "gt",
+        "value": 25.0,
+        "unit": "",
+        "raw": "> 25 "
+      },
+      {
+        "type": "gt",
+        "value": 100.0,
+        "unit": "",
+        "raw": "> 100 "
+      },
+      {
+        "type": "lt",
+        "value": 2.0,
+        "unit": "",
+        "raw": "< 2 "
+      },
+      {
+        "type": "lt",
+        "value": 10.0,
+        "unit": "%",
+        "raw": "< 10%"
+      },
+      {
+        "type": "lt",
+        "value": 0.002,
+        "unit": "",
+        "raw": "< 0.002 "
+      }
+    ]
+  },
+  "yt_4ef31cdc": {
+    "title": "Развоздушивание топливной системы после полного опустошения бака",
+    "category": "fuel",
+    "thresholds": [
+      {
+        "type": "norm_range",
+        "min": 3.0,
+        "max": 4.0,
+        "unit": "бар",
+        "raw": "норма 3-4 бар"
+      }
+    ]
+  },
+  "yt2_96d9e91a": {
+    "title": "Нестабильная работа топливного насоса (не запускается / работает постоянно) при отсутствии явных при",
+    "category": "fuel",
+    "thresholds": [
+      {
+        "type": "norm_range",
+        "min": 3.0,
+        "max": 4.0,
+        "unit": "бар",
+        "raw": "норма 3-4 бар"
+      }
+    ]
+  },
+  "yt_1e50d1a1": {
+    "title": "Определение типа системы впрыска топлива",
+    "category": "fuel",
+    "thresholds": [
+      {
+        "type": "norm_range",
+        "min": 3.0,
+        "max": 4.0,
+        "unit": "бар",
+        "raw": "норма 3-4 бар"
+      }
+    ]
+  },
+  "yt_23a261c8": {
+    "title": "Подготовка аварийного набора",
+    "category": "fuel",
+    "thresholds": [
+      {
+        "type": "norm_range",
+        "min": 3.0,
+        "max": 4.0,
+        "unit": "бар",
+        "raw": "норма 3-4 бар"
+      }
+    ]
+  },
+  "yt_d64db0b8": {
+    "title": "Правильные условия для диагностики топливной системы",
+    "category": "fuel",
+    "thresholds": [
+      {
+        "type": "norm_range",
+        "min": 3.0,
+        "max": 4.0,
+        "unit": "бар",
+        "raw": "норма 3-4 бар"
+      },
+      {
+        "type": "lt",
+        "value": 85.0,
+        "unit": "°C",
+        "raw": "менее 85°C"
+      }
+    ]
+  },
+  "yt_44c1a336": {
+    "title": "Стоимость ремонта топливной системы",
+    "category": "fuel",
+    "thresholds": [
+      {
+        "type": "norm_range",
+        "min": 250.0,
+        "max": 350.0,
+        "unit": "бар",
+        "raw": "норма 250-350 бар"
+      }
+    ]
+  },
+  "yt_29b7d425": {
+    "title": "Анализ расхода топлива с учётом средней скорости",
+    "category": "fuel",
+    "thresholds": [
+      {
+        "type": "norm_range",
+        "min": 3.0,
+        "max": 4.0,
+        "unit": "бар",
+        "raw": "норма 3-4 бар"
+      }
+    ]
+  },
+  "yt_cd76b2b7": {
+    "title": "Контроль стехиометрического соотношения",
+    "category": "fuel",
+    "thresholds": [
+      {
+        "type": "norm_range",
+        "min": 3.0,
+        "max": 4.0,
+        "unit": "бар",
+        "raw": "норма 3-4 бар"
+      }
+    ]
+  },
+  "yt_434a6264": {
+    "title": "Причины повышенного расхода топлива",
+    "category": "fuel",
+    "thresholds": [
+      {
+        "type": "norm_range",
+        "min": 3.0,
+        "max": 4.0,
+        "unit": "бар",
+        "raw": "норма 3-4 бар"
+      }
+    ]
+  },
+  "yt_1274276d": {
+    "title": "Проблема с качеством топлива",
+    "category": "fuel",
+    "thresholds": [
+      {
+        "type": "norm_range",
+        "min": 3.0,
+        "max": 4.0,
+        "unit": "бар",
+        "raw": "норма 3-4 бар"
+      }
+    ]
+  },
+  "yt_98d9a30a": {
+    "title": "Требования к распылению топлива",
+    "category": "fuel",
+    "thresholds": [
+      {
+        "type": "lt",
+        "value": 1.0,
+        "unit": "",
+        "raw": "<1 "
+      }
+    ]
+  },
+  "video_ext_d1eca24b": {
+    "title": "Честный обзор на тягач DONGFENFG GX КАТЕГОРИЯ Е",
+    "category": "fuel",
+    "thresholds": [
+      {
+        "type": "range",
+        "min": 6.0,
+        "max": 8.0,
+        "unit": "",
+        "raw": "от 6-8 "
+      }
+    ]
+  },
+  "yt_3a13dd0b": {
+    "title": "Недостаточная диагностика в сервисах",
+    "category": "fuel",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 0.5,
+        "unit": "",
+        "raw": ">0.5 "
+      }
+    ]
+  },
+  "yt_9706d793": {
+    "title": "Температурный режим при замене охлаждающей жидкости",
+    "category": "cooling",
+    "thresholds": [
+      {
+        "type": "lt",
+        "value": 50.0,
+        "unit": "°С",
+        "raw": "ниже 50°С"
+      }
+    ]
+  },
+  "yt_835795c3": {
+    "title": "Оценка состояния автомобиля после длительного простоя",
+    "category": "cooling",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 12.0,
+        "unit": "",
+        "raw": ">12 "
+      },
+      {
+        "type": "gt",
+        "value": 12.0,
+        "unit": "",
+        "raw": ">12 "
+      }
+    ]
+  },
+  "yt_ed20d31e": {
+    "title": "Использование лимонной кислоты для промывки",
+    "category": "cooling",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 40.0,
+        "unit": "",
+        "raw": ">40 "
+      }
+    ]
+  },
+  "yt_34f8fc5c": {
+    "title": "Нормальная температура ОЖ",
+    "category": "cooling",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 105.0,
+        "unit": "°С",
+        "raw": "Выше 105°С"
+      },
+      {
+        "type": "lt",
+        "value": 80.0,
+        "unit": "°С",
+        "raw": "Ниже 80°С"
+      }
+    ]
+  },
+  "msf_ev_high_voltage": {
+    "title": "Высокое напряжение: электромобиль / гибрид",
+    "category": "body",
+    "thresholds": [
+      {
+        "type": "range",
+        "min": 1500.0,
+        "max": 3000.0,
+        "unit": "",
+        "raw": "от 1500 до 3000 "
+      }
+    ]
+  },
+  "msf_child_seat": {
+    "title": "Детское кресло: правила установки",
+    "category": "body",
+    "thresholds": [
+      {
+        "type": "range",
+        "min": 3300.0,
+        "max": 7000.0,
+        "unit": "",
+        "raw": "от 3300 до 7000 "
+      }
+    ]
+  },
+  "yt_437de8d8": {
+    "title": "Замена жидкости в омывателе",
+    "category": "body",
+    "thresholds": [
+      {
+        "type": "range",
+        "min": 250.0,
+        "max": 300.0,
+        "unit": "",
+        "raw": "от 250 до 300 "
+      },
+      {
+        "type": "range",
+        "min": 1500.0,
+        "max": 3000.0,
+        "unit": "",
+        "raw": "от 1500 до 3000 "
+      }
+    ]
+  },
+  "yt_681084ed": {
+    "title": "Нарушение заводских зазоров и геометрии кузова",
+    "category": "body",
+    "thresholds": [
+      {
+        "type": "range",
+        "min": 2500.0,
+        "max": 3500.0,
+        "unit": "",
+        "raw": "от 2500 до 3500 "
+      },
+      {
+        "type": "range",
+        "min": 8000.0,
+        "max": 25.0,
+        "unit": "",
+        "raw": "от 8000 до 25 "
+      },
+      {
+        "type": "range",
+        "min": 3500.0,
+        "max": 12.0,
+        "unit": "",
+        "raw": "от 3500 до 12 "
+      }
+    ]
+  },
+  "msf_seatbelt": {
+    "title": "Ремни безопасности: правильное использование",
+    "category": "body",
+    "thresholds": [
+      {
+        "type": "range",
+        "min": 500.0,
+        "max": 700.0,
+        "unit": "",
+        "raw": "от 500 до 700 "
+      }
+    ]
+  },
+  "yt_07e24728": {
+    "title": "Скрытые следы ремонта (шпаклевка и окрас)",
+    "category": "body",
+    "thresholds": [
+      {
+        "type": "range",
+        "min": 1500.0,
+        "max": 3000.0,
+        "unit": "",
+        "raw": "от 1500 до 3000 "
+      },
+      {
+        "type": "gt",
+        "value": 140.0,
+        "unit": "",
+        "raw": ">140 "
+      },
+      {
+        "type": "lt",
+        "value": 80.0,
+        "unit": "",
+        "raw": "<80 "
+      }
+    ]
+  },
+  "yt_cc5545d6": {
+    "title": "Следы откручивания крепежа",
+    "category": "body",
+    "thresholds": [
+      {
+        "type": "range",
+        "min": 3000.0,
+        "max": 5000.0,
+        "unit": "",
+        "raw": "от 3000 до 5000 "
+      }
+    ]
+  },
+  "yt_1fee6271": {
+    "title": "Выбор точек домкрата для защиты кузова",
+    "category": "body",
+    "thresholds": [
+      {
+        "type": "range",
+        "min": 1500.0,
+        "max": 3000.0,
+        "unit": "",
+        "raw": "от 1500 до 3000 "
+      }
+    ]
+  },
+  "yt_6ae27005": {
+    "title": "Мойка автомобиля в сильный мороз",
+    "category": "body",
+    "thresholds": [
+      {
+        "type": "range",
+        "min": 2500.0,
+        "max": 4500.0,
+        "unit": "",
+        "raw": "от 2500 до 4500 "
+      },
+      {
+        "type": "range",
+        "min": 3500.0,
+        "max": 6500.0,
+        "unit": "",
+        "raw": "от 3500 до 6500 "
+      }
+    ]
+  },
+  "yt_5c43a084": {
+    "title": "Обнаружение скрытых дефектов кузова (сварка, ремонт)",
+    "category": "body",
+    "thresholds": [
+      {
+        "type": "lt",
+        "value": 60.0,
+        "unit": "°C",
+        "raw": "≤60°C"
+      }
+    ]
+  },
+  "yt_94e78b31": {
+    "title": "Устранение утечки через уплотнительные кольца",
+    "category": "body",
+    "thresholds": [
+      {
+        "type": "range",
+        "min": 0.0,
+        "max": 40.0,
+        "unit": "°C",
+        "raw": "от 0 до 40°C"
+      }
+    ]
+  },
+  "yt_0edcbc73": {
+    "title": "Восстановление алюминиевых деталей после ДТП",
+    "category": "body",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 200.0,
+        "unit": "°C",
+        "raw": "выше 200°C"
+      }
+    ]
+  },
+  "yt_fa32c63b": {
+    "title": "Защита краев кузова при использовании монтажной пены",
+    "category": "body",
+    "thresholds": [
+      {
+        "type": "range",
+        "min": 600.0,
+        "max": 1200.0,
+        "unit": "",
+        "raw": "от 600 до 1200 "
+      },
+      {
+        "type": "range",
+        "min": 4000.0,
+        "max": 6000.0,
+        "unit": "",
+        "raw": "от 4000 до 6000 "
+      }
+    ]
+  },
+  "yt_302d58b4": {
+    "title": "Натертости и повреждения при закрытии",
+    "category": "body",
+    "thresholds": [
+      {
+        "type": "range",
+        "min": 1200.0,
+        "max": 2500.0,
+        "unit": "",
+        "raw": "от 1200 до 2500 "
+      },
+      {
+        "type": "range",
+        "min": 5000.0,
+        "max": 8000.0,
+        "unit": "",
+        "raw": "от 5000 до 8000 "
+      },
+      {
+        "type": "range",
+        "min": 6500.0,
+        "max": 9500.0,
+        "unit": "",
+        "raw": "от 6500 до 9500 "
+      }
+    ]
+  },
+  "yt_6d225d54": {
+    "title": "Обработка стекол средством антидождь",
+    "category": "body",
+    "thresholds": [
+      {
+        "type": "range",
+        "min": 650.0,
+        "max": 1200.0,
+        "unit": "",
+        "raw": "от 650 до 1200 "
+      },
+      {
+        "type": "range",
+        "min": 3.0,
+        "max": 6.0,
+        "unit": "",
+        "raw": "от 3 до 6 "
+      }
+    ]
+  },
+  "yt_76c9d406": {
+    "title": "Приготовление эпоксидного состава для ремонта",
+    "category": "body",
+    "thresholds": [
+      {
+        "type": "lt",
+        "value": 15.0,
+        "unit": "°C",
+        "raw": "ниже 15°C"
+      }
+    ]
+  },
+  "yt_f6a08da9": {
+    "title": "Раскачка кузова после нажатия на капот",
+    "category": "body",
+    "thresholds": [
+      {
+        "type": "range",
+        "min": 2500.0,
+        "max": 4000.0,
+        "unit": "",
+        "raw": "от 2500 до 4000 "
+      },
+      {
+        "type": "range",
+        "min": 850.0,
+        "max": 1800.0,
+        "unit": "",
+        "raw": "от 850 до 1800 "
+      }
+    ]
+  },
+  "yt_5697b813": {
+    "title": "Стук в багажнике при движении по неровностям: причины и устранение",
+    "category": "body",
+    "thresholds": [
+      {
+        "type": "range",
+        "min": 4500.0,
+        "max": 12.0,
+        "unit": "",
+        "raw": "от 4500 до 12 "
+      }
+    ]
+  },
+  "yt_8b1ce14f": {
+    "title": "Замена стекол и проверка замков",
+    "category": "body",
+    "thresholds": [
+      {
+        "type": "range",
+        "min": 1500.0,
+        "max": 3000.0,
+        "unit": "",
+        "raw": "от 1500 до 3000 "
+      }
+    ]
+  },
+  "yt_e93392b6": {
+    "title": "Самостоятельная диагностика перед обращением в сервис",
+    "category": "body",
+    "thresholds": [
+      {
+        "type": "range",
+        "min": 1500.0,
+        "max": 3000.0,
+        "unit": "",
+        "raw": "от 1500 до 3000 "
+      }
+    ]
+  },
+  "yt_8dd08f20": {
+    "title": "Эффективность химии при очистке подкапотного пространства",
+    "category": "body",
+    "thresholds": [
+      {
+        "type": "range",
+        "min": 1500.0,
+        "max": 3000.0,
+        "unit": "",
+        "raw": "от 1500 до 3000 "
+      }
+    ]
+  },
+  "yt_e89e8f87": {
+    "title": "Бережная подготовка к ремонту",
+    "category": "body",
+    "thresholds": [
+      {
+        "type": "range",
+        "min": 2500.0,
+        "max": 4000.0,
+        "unit": "",
+        "raw": "от 2500 до 4000 "
+      }
+    ]
+  },
+  "yt_60454e68": {
+    "title": "Люфт и шум в подвесном подшипнике",
+    "category": "tires",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 3.0,
+        "unit": "",
+        "raw": ">3 "
+      }
+    ]
+  },
+  "video_ext_79ee7615": {
+    "title": "Ошибка 00516 AKL 1.6 мини-отчет",
+    "category": "tires",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 130.0,
+        "unit": "км/ч",
+        "raw": "выше 130 км/ч"
+      }
+    ]
+  },
+  "tires_tpms": {
+    "title": "Шины и TPMS: проверка давления и датчиков",
+    "category": "tires",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 0.3,
+        "unit": "",
+        "raw": "> 0.3 "
+      }
+    ]
+  },
+  "yt_9c4f5d97": {
+    "title": "Вибрация и увод автомобиля на малой скорости",
+    "category": "tires",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 3.0,
+        "unit": "",
+        "raw": ">3 "
+      }
+    ]
+  },
+  "winter_prep": {
+    "title": "Подготовка автомобиля к зиме: полный чеклист",
+    "category": "tires",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 12.4,
+        "unit": "В",
+        "raw": ">12.4В"
+      }
+    ]
+  },
+  "ac_not_working": {
+    "title": "Неверная диагностика: кондиционер «работает» при утечке хладагента",
+    "category": "hvac",
+    "thresholds": [
+      {
+        "type": "lt",
+        "value": 2.0,
+        "unit": "бар",
+        "raw": "ниже 2.0 бар"
+      },
+      {
+        "type": "lt",
+        "value": 500.0,
+        "unit": "",
+        "raw": "< 500 "
+      }
+    ]
+  },
+  "yt_fa07a103": {
+    "title": "Запотевание и загрязнение фар",
+    "category": "hvac",
+    "thresholds": [
+      {
+        "type": "lt",
+        "value": 10.0,
+        "unit": "°C",
+        "raw": "менее 10°C"
+      }
+    ]
+  },
+  "yt_241ac9fd": {
+    "title": "Отсутствие утечек масла при наличии запотевания",
+    "category": "hvac",
+    "thresholds": [
+      {
+        "type": "lt",
+        "value": 2.0,
+        "unit": "бар",
+        "raw": "ниже 2 бар"
+      }
+    ]
+  },
+  "yt_55d2ecf0": {
+    "title": "Проверка работоспособности ТРВ (терморегулирующего вентиля)",
+    "category": "hvac",
+    "thresholds": [
+      {
+        "type": "lt",
+        "value": 10.0,
+        "unit": "°C",
+        "raw": "менее 10°C"
+      }
+    ]
+  },
+  "yt_39f8a5f1": {
+    "title": "Проверка температуры трубки низкого давления",
+    "category": "hvac",
+    "thresholds": [
+      {
+        "type": "lt",
+        "value": 10.0,
+        "unit": "°C",
+        "raw": "менее 10°C"
+      }
+    ]
+  },
+  "yt_91136825": {
+    "title": "Выбор вакуумного насоса",
+    "category": "hvac",
+    "thresholds": [
+      {
+        "type": "lt",
+        "value": 10.0,
+        "unit": "°C",
+        "raw": "менее 10°C"
+      }
+    ]
+  },
+  "yt_f9c6e70b": {
+    "title": "Осмотр пластиковых разветвителей и хомутов на предмет подтеков",
+    "category": "hvac",
+    "thresholds": [
+      {
+        "type": "lt",
+        "value": 10.0,
+        "unit": "°C",
+        "raw": "менее 10°C"
+      }
+    ]
+  },
+  "yt_5a28808a": {
+    "title": "Влияние нагрузки на показания диагностики",
+    "category": "hvac",
+    "thresholds": [
+      {
+        "type": "lt",
+        "value": 10.0,
+        "unit": "°C",
+        "raw": "менее 10°C"
+      }
+    ]
+  },
+  "yt_75bdd29c": {
+    "title": "Комплексная проверка светотехники",
+    "category": "lighting",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 14.5,
+        "unit": "В",
+        "raw": ">14.5В"
+      }
+    ]
+  },
+  "buni_35965928": {
+    "title": "Русификация и OTA-обновления — проблемы серого импорта",
+    "category": "infotainment",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 60.0,
+        "unit": "%",
+        "raw": ">60%"
+      },
+      {
+        "type": "gt",
+        "value": 12.0,
+        "unit": "В",
+        "raw": ">12В"
+      }
+    ]
+  },
+  "yt2_8d12ead9": {
+    "title": "Ошибка AirBag (подушки безопасности) с подозрением на неисправность цепи или напряжения",
+    "category": "safety",
+    "thresholds": [
+      {
+        "type": "lt",
+        "value": 12.0,
+        "unit": "В",
+        "raw": "ниже 12.0 В"
+      }
+    ]
+  },
+  "maint_d7ae41a4": {
+    "title": "Диагностика и проверка: ключевые моменты",
+    "category": "general",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 5.0,
+        "unit": "%",
+        "raw": "более 5%"
+      }
+    ]
+  },
+  "maint_b7622252": {
+    "title": "Масляные системы и двигатель: ключевые советы",
+    "category": "general",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 10.0,
+        "unit": "%",
+        "raw": "более 10%"
+      },
+      {
+        "type": "lt",
+        "value": 1.5,
+        "unit": "бар",
+        "raw": "ниже 1.5 бар"
+      }
+    ]
+  },
+  "diag_merged_a3340269": {
+    "title": "Полное руководство по диагностике и работе с блоками управления",
+    "category": "general",
+    "thresholds": [
+      {
+        "type": "norm_range",
+        "min": 12.0,
+        "max": 12.5,
+        "unit": "В",
+        "raw": "норма 12.0–12.5 В"
+      },
+      {
+        "type": "gt",
+        "value": 10.0,
+        "unit": "°C",
+        "raw": "выше 10°C"
+      },
+      {
+        "type": "lt",
+        "value": 11.5,
+        "unit": "В",
+        "raw": "ниже 11.5 В"
+      }
+    ]
+  },
+  "diag_merged_030cdbed": {
+    "title": "Полное руководство по диагностике неисправностей двигателя",
+    "category": "general",
+    "thresholds": [
+      {
+        "type": "norm_range",
+        "min": 200.0,
+        "max": 1000.0,
+        "unit": "",
+        "raw": "норма 200–1000 "
+      },
+      {
+        "type": "gt",
+        "value": 10.0,
+        "unit": "%",
+        "raw": "более 10%"
+      },
+      {
+        "type": "gt",
+        "value": 800.0,
+        "unit": "°C",
+        "raw": "выше 800°C"
+      }
+    ]
+  },
+  "diag_merged_5b896ff0": {
+    "title": "Полное руководство по подготовке и проверке диагностического оборудования",
+    "category": "general",
+    "thresholds": [
+      {
+        "type": "lt",
+        "value": 11.0,
+        "unit": "В",
+        "raw": "ниже 11 В"
+      }
+    ]
+  },
+  "maint_f9971935": {
+    "title": "Риски и ошибки при ремонте: ключевые советы",
+    "category": "general",
+    "thresholds": [
+      {
+        "type": "gt",
+        "value": 105.0,
+        "unit": "°C",
+        "raw": "выше 105°C"
+      }
+    ]
+  },
+  "diag_merged_4aad8110": {
+    "title": "Диагностика систем полного привода и трансмиссии",
+    "category": "general",
+    "thresholds": [
+      {
+        "type": "norm_range",
+        "min": 12.0,
+        "max": 14.0,
+        "unit": "бар",
+        "raw": "норма 12-14 бар"
+      },
+      {
+        "type": "norm_range",
+        "min": 3.5,
+        "max": 4.0,
+        "unit": "бар",
+        "raw": "норма 3.5-4.0 бар"
+      },
+      {
+        "type": "gt",
+        "value": 10.0,
+        "unit": "%",
+        "raw": "более 10%"
+      },
+      {
+        "type": "gt",
+        "value": 0.5,
+        "unit": "бар",
+        "raw": "выше 0.5 бар"
+      }
+    ]
+  },
+  "maint_7f36b69d": {
+    "title": "Подготовка и документы: ключевые советы",
+    "category": "general",
+    "thresholds": [
+      {
+        "type": "lt",
+        "value": 3.5,
+        "unit": "",
+        "raw": "< 3.5 "
+      },
+      {
+        "type": "lt",
+        "value": 85.0,
+        "unit": "°C",
+        "raw": "< 85°C"
+      }
+    ]
+  },
+  "video_ext_9d2c47aa": {
+    "title": "Ошибка АБС: диагностика впускного клапана тормозного контура",
+    "category": "brakes",
+    "thresholds": [
+      {
+        "type": "range",
+        "min": 1500.0,
+        "max": 3000.0,
+        "unit": "",
+        "raw": "от 1500 до 3000 "
+      }
+    ]
+  }
+}

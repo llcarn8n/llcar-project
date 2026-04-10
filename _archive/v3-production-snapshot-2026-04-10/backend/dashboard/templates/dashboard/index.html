@@ -1,0 +1,3697 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <title>LLCAR — Диагностика</title>
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/echarts-gl@2/dist/echarts-gl.min.js" defer></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" defer></script>
+    <link rel="preconnect" href="https://cdn.jsdelivr.net">
+    <link rel="preconnect" href="https://www.gstatic.com">
+    <script type="importmap">
+    { "imports": {
+        "three": "https://cdn.jsdelivr.net/npm/three@0.170.0/build/three.module.js",
+        "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.170.0/examples/jsm/"
+    }}
+    </script>
+    <style>
+        :root {
+            --bg-body: #08080c;
+            --bg-card: #111116;
+            --bg-card-hover: #16161c;
+            --border: #1e1e28;
+            --border-active: #3a3a55;
+            --text-primary: #e0e0ec;
+            --text-secondary: #8888a0;
+            --chrome: #eaeaf0;
+            --accent: #00D4AA;
+            --accent-dim: rgba(0, 212, 170, 0.15);
+            --status-normal: #4ade80;
+            --status-warning: #f59e0b;
+            --status-alert: #ef4444;
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+
+        body {
+            background: var(--bg-body);
+            color: var(--text-primary);
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif;
+            min-height: 100vh;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        /* Scrollbar */
+        ::-webkit-scrollbar { width: 6px; height: 6px; }
+        ::-webkit-scrollbar-track { background: var(--bg-body); }
+        ::-webkit-scrollbar-thumb { background: var(--border-active); border-radius: 3px; }
+
+        /* Header */
+        .header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0 24px;
+            height: 56px;
+            background: var(--bg-card);
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        .header-logo {
+            display: flex;
+            align-items: center;
+            font-size: 22px;
+            font-weight: 800;
+            letter-spacing: 2px;
+            color: var(--chrome);
+            user-select: none;
+        }
+        .header-logo span {
+            color: var(--accent);
+            font-weight: 600;
+            font-size: 13px;
+            letter-spacing: 0.5px;
+            margin-left: 8px;
+        }
+
+        /* Tabs */
+        .tab-bar {
+            display: flex;
+            gap: 2px;
+        }
+        .tab-btn {
+            padding: 8px 18px;
+            font-size: 13px;
+            font-weight: 500;
+            color: var(--text-secondary);
+            background: transparent;
+            border: none;
+            border-bottom: 2px solid transparent;
+            cursor: pointer;
+            transition: all 0.2s;
+            white-space: nowrap;
+        }
+        .tab-btn:hover {
+            color: var(--text-primary);
+            background: var(--bg-card-hover);
+        }
+        .tab-btn.active {
+            color: var(--chrome);
+            border-bottom-color: var(--accent);
+            background: var(--bg-card-hover);
+        }
+
+        /* Controls */
+        .header-controls {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .ctrl-select, .ctrl-btn {
+            padding: 6px 12px;
+            font-size: 12px;
+            background: var(--bg-body);
+            color: var(--text-primary);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            cursor: pointer;
+            transition: border-color 0.2s;
+            outline: none;
+        }
+        .ctrl-select:focus, .ctrl-btn:focus {
+            border-color: var(--border-active);
+        }
+        .ctrl-select option { background: var(--bg-card); }
+
+        .time-range {
+            display: flex;
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            overflow: hidden;
+        }
+        .time-btn {
+            padding: 5px 10px;
+            font-size: 11px;
+            background: transparent;
+            color: var(--text-secondary);
+            border: none;
+            cursor: pointer;
+            transition: all 0.15s;
+        }
+        .time-btn:hover { color: var(--text-primary); background: var(--bg-card-hover); }
+        .time-btn.active {
+            color: var(--chrome);
+            background: var(--bg-card-hover);
+        }
+
+        .refresh-btn {
+            padding: 6px 14px;
+            font-size: 12px;
+            font-weight: 500;
+            background: var(--accent-dim);
+            color: var(--accent);
+            border: 1px solid rgba(0, 212, 170, 0.25);
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .refresh-btn:hover {
+            background: rgba(0, 212, 170, 0.2);
+            border-color: rgba(0, 212, 170, 0.5);
+            box-shadow: 0 0 12px rgba(0, 212, 170, 0.15);
+        }
+        .refresh-btn.refreshing {
+            pointer-events: none;
+            opacity: 0.6;
+        }
+        .refresh-btn.refreshing::before {
+            content: '';
+            display: inline-block;
+            width: 12px; height: 12px;
+            border: 2px solid rgba(74,222,128,0.3);
+            border-top-color: var(--status-normal);
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+            margin-right: 6px;
+            vertical-align: middle;
+        }
+        @keyframes spin { to { transform: rotate(360deg); } }
+        .last-update {
+            font-size: 10px;
+            color: var(--text-secondary);
+            opacity: 0;
+            transition: opacity 0.5s ease;
+            white-space: nowrap;
+        }
+        .last-update.visible { opacity: 1; }
+
+        /* Health bar */
+        .health-bar {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            padding: 4px 24px;
+            background: var(--bg-card);
+            border-bottom: 1px solid var(--border);
+        }
+        .health-pulse-wrap {
+            width: 120px;
+            height: 24px;
+            flex-shrink: 0;
+        }
+        .health-pulse-wrap svg { width: 100%; height: 100%; }
+        .pulse-line {
+            fill: none;
+            stroke-width: 1.8;
+            stroke-linecap: round;
+            stroke-linejoin: round;
+        }
+        .pulse-line.normal { stroke: var(--status-normal); }
+        .pulse-line.warning { stroke: var(--status-warning); }
+        .pulse-line.alert { stroke: var(--status-alert); }
+
+        @keyframes pulse-scroll {
+            0% { stroke-dashoffset: 0; }
+            100% { stroke-dashoffset: -320; }
+        }
+        .pulse-animated {
+            stroke-dasharray: 320;
+            animation: pulse-scroll var(--pulse-speed, 2s) linear infinite;
+        }
+
+        .health-status {
+            font-size: 13px;
+            font-weight: 500;
+            flex: 1;
+        }
+        .health-dots {
+            display: flex;
+            gap: 12px;
+        }
+        .health-dot {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            font-size: 11px;
+            color: var(--text-secondary);
+        }
+        .health-dot .dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            flex-shrink: 0;
+        }
+        .dot-normal { background: var(--status-normal); box-shadow: 0 0 6px rgba(74,222,128,0.4); }
+        .dot-warning { background: var(--status-warning); box-shadow: 0 0 6px rgba(245,158,11,0.4); }
+        .dot-alert { background: var(--status-alert); box-shadow: 0 0 6px rgba(239,68,68,0.4); }
+        .dot-unknown { background: var(--text-secondary); }
+
+        /* Metrics row */
+        .metrics-row {
+            display: grid;
+            grid-template-columns: repeat(6, 1fr);
+            gap: 8px;
+            padding: 8px 24px;
+        }
+        @media (max-width: 1024px) {
+            .metrics-row {
+                grid-template-columns: 1fr 1fr;
+            }
+        }
+        @media (max-width: 640px) {
+            .metrics-row {
+                grid-template-columns: 1fr 1fr;
+            }
+        }
+
+        .card {
+            background: rgba(17, 17, 22, 0.85);
+            backdrop-filter: blur(8px);
+            -webkit-backdrop-filter: blur(8px);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            padding: 16px;
+            transition: background 0.2s, border-color 0.2s, box-shadow 0.3s;
+        }
+        .card:hover {
+            background: var(--bg-card-hover);
+            border-color: var(--border-active);
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+        }
+        .card-title {
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--text-secondary);
+            margin-bottom: 12px;
+        }
+
+        /* Car silhouette card */
+        .car-card {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 110px;
+        }
+        .car-card .car-status {
+            font-size: 12px;
+            color: var(--text-secondary);
+            margin-top: 6px;
+        }
+        .car-card .car-status strong {
+            color: var(--text-primary);
+            font-weight: 600;
+        }
+
+        /* Gauge */
+        .gauge-card {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 110px;
+            padding: 8px 10px;
+        }
+        .gauge-svg { width: 80px; height: 46px; }
+        .gauge-value {
+            font-size: 20px;
+            font-weight: 700;
+            color: var(--chrome);
+            margin-top: 2px;
+            font-variant-numeric: tabular-nums;
+            font-feature-settings: "tnum";
+            letter-spacing: -0.02em;
+        }
+        .gauge-label {
+            font-size: 10px;
+            color: var(--text-secondary);
+            margin-top: 1px;
+        }
+        .gauge-status {
+            font-size: 9px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-top: 3px;
+            padding: 1px 6px;
+            border-radius: 3px;
+        }
+        .gauge-status.status-ok {
+            color: var(--status-normal);
+            background: rgba(74, 222, 128, 0.1);
+        }
+        .gauge-status.status-warn {
+            color: var(--status-warning);
+            background: rgba(245, 158, 11, 0.1);
+        }
+        .gauge-status.status-crit {
+            color: var(--status-alert);
+            background: rgba(239, 68, 68, 0.1);
+        }
+        .gauge-status.status-cold {
+            color: #60a5fa;
+            background: rgba(96, 165, 250, 0.1);
+        }
+
+        /* Tab content */
+        .tab-content { display: none; padding: 0 24px 12px; }
+        .tab-content.active-content { display: block; }
+
+        .chart-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 12px;
+            margin-bottom: 12px;
+        }
+        @media (max-width: 768px) {
+            .chart-grid { grid-template-columns: 1fr; }
+        }
+        .chart-grid-full {
+            grid-column: 1 / -1;
+        }
+
+        .chart-container {
+            background: rgba(17, 17, 22, 0.85);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border: 1px solid rgba(0, 212, 170, 0.08);
+            border-radius: 12px;
+            padding: 14px;
+            transition: background 0.2s, border-color 0.3s, box-shadow 0.4s;
+            box-shadow: 0 0 15px rgba(0, 212, 170, 0.03), inset 0 1px 0 rgba(255,255,255,0.03);
+        }
+        .chart-container:hover {
+            background: var(--bg-card-hover);
+            border-color: rgba(0, 212, 170, 0.2);
+            box-shadow: 0 0 25px rgba(0, 212, 170, 0.08), 0 4px 20px rgba(0, 0, 0, 0.3);
+        }
+        .chart-title {
+            font-size: 11px;
+            font-weight: 600;
+            color: var(--accent);
+            margin-bottom: 10px;
+            text-transform: uppercase;
+            letter-spacing: 1.2px;
+            font-family: 'SF Mono', 'Fira Code', 'Cascadia Code', monospace;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .chart-title::before {
+            content: '';
+            width: 3px;
+            height: 12px;
+            background: var(--accent);
+            border-radius: 2px;
+            box-shadow: 0 0 6px rgba(0, 212, 170, 0.4);
+        }
+        .chart-box { width: 100%; height: calc(50vh - 130px); min-height: 280px; }
+        .chart-box-tall { width: 100%; height: calc(60vh - 120px); min-height: 380px; }
+        .chart-box-short { width: 100%; height: 140px; }
+
+        /* Hero Twin Layout */
+        .hero-twin {
+            position: relative;
+            width: 100%;
+            height: calc(100vh - 260px);
+            min-height: 400px;
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            margin-bottom: 12px;
+        }
+        .hero-twin .twin-wrap {
+            width: 100%;
+            height: 100%;
+            border-radius: 0;
+        }
+        /* hero-overlay removed — replaced by hero-overlay-cards grid */
+        .hero-overlay-cards {
+            position: absolute;
+            bottom: 24px;
+            left: 20px;
+            right: 20px;
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 12px;
+            z-index: 10;
+            pointer-events: none;
+        }
+        .hero-overlay-card {
+            background: rgba(17, 17, 22, 0.8);
+            backdrop-filter: blur(16px);
+            -webkit-backdrop-filter: blur(16px);
+            border: 1px solid rgba(255,255,255,0.08);
+            border-radius: 10px;
+            padding: 12px 16px;
+            pointer-events: auto;
+            transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s;
+        }
+        .hero-overlay-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 24px rgba(0,0,0,0.5);
+            border-color: rgba(255,255,255,0.12);
+        }
+        .hero-overlay-card .ov-label {
+            font-size: 9px;
+            text-transform: uppercase;
+            letter-spacing: 0.8px;
+            color: var(--text-secondary);
+            margin-bottom: 4px;
+        }
+        .hero-overlay-card .ov-value {
+            font-size: 22px;
+            font-weight: 700;
+            color: var(--chrome);
+            font-variant-numeric: tabular-nums;
+            line-height: 1;
+        }
+        .hero-overlay-card .ov-unit {
+            font-size: 11px;
+            font-weight: 400;
+            color: var(--text-secondary);
+            margin-left: 2px;
+        }
+        .hero-overlay-card .ov-status {
+            font-size: 9px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-top: 4px;
+        }
+        .hero-title {
+            position: absolute;
+            top: 16px;
+            left: 20px;
+            z-index: 10;
+        }
+        .hero-title h2 {
+            font-size: 14px;
+            font-weight: 600;
+            color: var(--chrome);
+            letter-spacing: 0.5px;
+        }
+        .hero-title span {
+            font-size: 10px;
+            color: var(--accent);
+            font-weight: 400;
+        }
+        .hero-badge {
+            position: absolute;
+            top: 16px;
+            right: 20px;
+            z-index: 10;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            padding: 5px 12px;
+            background: rgba(0, 212, 170, 0.1);
+            border: 1px solid rgba(0, 212, 170, 0.2);
+            border-radius: 20px;
+            font-size: 10px;
+            color: var(--accent);
+            font-weight: 500;
+        }
+        .hero-badge .live-dot {
+            width: 6px;
+            height: 6px;
+            background: var(--accent);
+            border-radius: 50%;
+            animation: livePulse 2s ease-in-out infinite;
+        }
+        @keyframes livePulse {
+            0%, 100% { opacity: 1; box-shadow: 0 0 4px rgba(0,212,170,0.5); }
+            50% { opacity: 0.4; box-shadow: none; }
+        }
+
+        /* Mini metric cards */
+        .mini-metrics {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 12px;
+        }
+        @media (max-width: 768px) {
+            .mini-metrics { grid-template-columns: 1fr 1fr; }
+        }
+        .mini-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            padding: 14px;
+            text-align: center;
+        }
+        .mini-card .mini-value {
+            font-size: 24px;
+            font-weight: 700;
+            color: var(--chrome);
+            font-variant-numeric: tabular-nums;
+            font-feature-settings: "tnum";
+        }
+        .mini-card .mini-label {
+            font-size: 11px;
+            color: var(--text-secondary);
+            margin-top: 4px;
+        }
+
+        /* Suspension stats */
+        .susp-stat-card {
+            background: rgba(17, 17, 22, 0.9);
+            border: 1px solid rgba(0, 212, 170, 0.1);
+            border-radius: 10px;
+            padding: 14px 16px;
+            text-align: center;
+            transition: border-color 0.3s, box-shadow 0.3s;
+        }
+        .susp-stat-card:hover {
+            border-color: rgba(0, 212, 170, 0.25);
+            box-shadow: 0 0 20px rgba(0, 212, 170, 0.06);
+        }
+        .susp-stat-label {
+            font-size: 9px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--text-secondary);
+            font-family: 'SF Mono', monospace;
+            margin-bottom: 6px;
+        }
+        .susp-stat-value {
+            font-size: 26px;
+            font-weight: 700;
+            color: var(--chrome);
+            font-variant-numeric: tabular-nums;
+            line-height: 1.1;
+        }
+        .susp-stat-unit {
+            font-size: 9px;
+            color: var(--text-secondary);
+            margin-top: 2px;
+        }
+        .susp-stat-status {
+            font-size: 9px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-top: 6px;
+            padding: 2px 8px;
+            border-radius: 4px;
+            display: inline-block;
+        }
+        .susp-stat-bar {
+            height: 3px;
+            background: rgba(255,255,255,0.05);
+            border-radius: 2px;
+            margin-top: 8px;
+            overflow: hidden;
+        }
+        .susp-stat-fill {
+            height: 100%;
+            background: var(--accent);
+            border-radius: 2px;
+            transition: width 0.6s ease;
+            box-shadow: 0 0 6px rgba(0, 212, 170, 0.3);
+        }
+
+        /* Audio spectrogram */
+        .audio-stat-row {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 10px;
+            margin-bottom: 12px;
+        }
+        .audio-stat-card {
+            background: rgba(17, 17, 22, 0.9);
+            border: 1px solid rgba(167, 139, 250, 0.1);
+            border-radius: 10px;
+            padding: 12px 16px;
+            text-align: center;
+        }
+        .audio-stat-card:hover {
+            border-color: rgba(167, 139, 250, 0.25);
+            box-shadow: 0 0 20px rgba(167, 139, 250, 0.06);
+        }
+        .audio-stat-label {
+            font-size: 9px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--text-secondary);
+            font-family: 'SF Mono', monospace;
+            margin-bottom: 4px;
+        }
+        .audio-stat-value {
+            font-size: 22px;
+            font-weight: 700;
+            color: #a78bfa;
+            font-variant-numeric: tabular-nums;
+        }
+        .audio-stat-unit {
+            font-size: 9px;
+            color: var(--text-secondary);
+        }
+
+        /* Trips map */
+        .trips-map { width:100%; height:calc(100vh - 280px); min-height:400px; border-radius:10px; z-index:1; }
+        .trip-stats-bar { display:grid; grid-template-columns:repeat(4,1fr); gap:10px; margin-bottom:12px; }
+        .trip-stat { background:rgba(17,17,22,0.9); border:1px solid rgba(0,212,170,0.1); border-radius:10px; padding:12px; text-align:center; }
+        .trip-stat-value { font-size:22px; font-weight:700; color:var(--chrome); font-variant-numeric:tabular-nums; }
+        .trip-stat-label { font-size:9px; text-transform:uppercase; letter-spacing:1px; color:var(--text-secondary); margin-top:2px; }
+        .leaflet-popup-content-wrapper { background:rgba(17,17,22,0.95)!important; color:var(--text-primary)!important; border:1px solid rgba(0,212,170,0.2)!important; border-radius:8px!important; }
+        .leaflet-popup-tip { background:rgba(17,17,22,0.95)!important; }
+        .leaflet-popup-content { font-size:12px!important; font-family:'SF Mono',monospace!important; line-height:1.6!important; }
+        @media (max-width:768px) { .trip-stats-bar { grid-template-columns:1fr 1fr; } }
+
+        .susp-sub { display: none; }
+        .susp-sub.active-sub { display: block; }
+
+        @media (max-width: 768px) {
+            .susp-summary { grid-template-columns: 1fr !important; }
+            .audio-stat-row { grid-template-columns: 1fr !important; }
+        }
+
+        /* Audio freq table */
+        .freq-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 12px;
+        }
+        .freq-table th {
+            text-align: left;
+            padding: 8px 12px;
+            color: var(--text-secondary);
+            border-bottom: 1px solid var(--border);
+            font-weight: 600;
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        .freq-table th:last-child { text-align: right; }
+        .freq-table td {
+            padding: 6px 12px;
+            border-bottom: 1px solid rgba(30,30,40,0.5);
+            color: var(--text-primary);
+            font-variant-numeric: tabular-nums;
+        }
+        .freq-table tr:hover td {
+            background: var(--bg-card-hover);
+        }
+
+        /* Responsive */
+        @media (max-width: 1400px) {
+            .metrics-row {
+                grid-template-columns: repeat(3, 1fr);
+            }
+        }
+        @media (max-width: 1200px) {
+            .hero-overlay-cards {
+                grid-template-columns: repeat(2, 1fr);
+                bottom: 16px;
+            }
+            .chart-grid { grid-template-columns: 1fr; }
+        }
+        @media (max-width: 640px) {
+            .metrics-row { grid-template-columns: 1fr 1fr; }
+            .hero-overlay-cards {
+                grid-template-columns: 1fr 1fr;
+                gap: 8px;
+            }
+            .hero-overlay-card { padding: 8px 12px; }
+            .ov-value { font-size: 18px; }
+            .mini-metrics { grid-template-columns: 1fr 1fr; }
+        }
+
+        /* Responsive header */
+        @media (max-width: 900px) {
+            .header {
+                flex-wrap: wrap;
+                height: auto;
+                padding: 10px 16px;
+                gap: 8px;
+            }
+            .tab-bar { order: 3; width: 100%; overflow-x: auto; }
+            .header-controls { flex-wrap: wrap; }
+            .metrics-row { padding: 12px 16px; }
+            .tab-content { padding: 0 16px 16px; }
+        }
+
+        /* KB tabs & layout */
+        .kb-tabs { display: flex; gap: 2px; }
+        .kb-tab {
+            padding: 10px 18px;
+            font-size: 12px;
+            font-weight: 500;
+            color: var(--text-secondary);
+            background: transparent;
+            border: none;
+            border-bottom: 2px solid transparent;
+            cursor: pointer;
+            transition: all 0.2s;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        .kb-tab:hover { color: var(--text-primary); background: var(--bg-card-hover); }
+        .kb-tab.active { color: var(--accent); border-bottom-color: var(--accent); }
+        .kb-tab-count {
+            font-size: 9px;
+            background: var(--border);
+            padding: 1px 5px;
+            border-radius: 8px;
+            color: var(--text-secondary);
+        }
+        .kb-tab.active .kb-tab-count { background: var(--accent-dim); color: var(--accent); }
+        .kb-search {
+            flex: 1;
+            padding: 10px 14px;
+            background: var(--bg-body);
+            color: var(--text-primary);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            font-size: 13px;
+            outline: none;
+            transition: border-color 0.2s;
+        }
+        .kb-search:focus { border-color: var(--accent); }
+        .kb-select {
+            padding: 10px 12px;
+            background: var(--bg-body);
+            color: var(--text-primary);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            font-size: 12px;
+            outline: none;
+        }
+
+        /* Situations cards grid */
+        .kb-cards-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(420px, 1fr));
+            gap: 12px;
+            max-height: 650px;
+            overflow-y: auto;
+        }
+        .sit-card {
+            background: rgba(20,20,25,0.8);
+            backdrop-filter: blur(8px);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            padding: 16px;
+            transition: transform 0.15s, box-shadow 0.2s, border-color 0.2s;
+            position: relative;
+            overflow: hidden;
+        }
+        .sit-card:hover {
+            transform: translateY(-1px);
+            box-shadow: 0 6px 20px rgba(0,0,0,0.4);
+            border-color: var(--border-active);
+        }
+        .sit-card.sev-critical { border-left: 3px solid var(--status-alert); }
+        .sit-card.sev-warning { border-left: 3px solid var(--status-warning); }
+        .sit-card.sev-info { border-left: 3px solid #60a5fa; }
+        .sit-header { display: flex; align-items: flex-start; gap: 10px; margin-bottom: 8px; }
+        .sit-icon { font-size: 18px; flex-shrink: 0; margin-top: 1px; }
+        .sit-title { font-size: 13px; font-weight: 600; color: var(--text-primary); line-height: 1.3; }
+        .sit-quick { font-size: 11px; color: var(--text-secondary); line-height: 1.5; margin-bottom: 8px; }
+        .sit-action { font-size: 10px; color: var(--accent); font-weight: 500; margin-bottom: 8px; }
+        .sit-facts { font-size: 10px; color: var(--text-secondary); line-height: 1.5; }
+        .sit-prices {
+            margin-top: 8px;
+            padding-top: 8px;
+            border-top: 1px solid var(--border);
+        }
+        .sit-price-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 3px 0;
+            font-size: 10px;
+        }
+        .sit-price-service { color: var(--text-secondary); }
+        .sit-price-value { color: var(--accent); font-weight: 600; font-variant-numeric: tabular-nums; }
+
+        /* Parts grid */
+        .kb-parts-grid {
+            max-height: 650px;
+            overflow-y: auto;
+        }
+        .parts-system {
+            margin-bottom: 12px;
+            background: rgba(20,20,25,0.6);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            overflow: hidden;
+        }
+        .parts-system-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 14px;
+            background: rgba(0,0,0,0.2);
+            cursor: pointer;
+            transition: background 0.15s;
+        }
+        .parts-system-header:hover { background: rgba(0,0,0,0.35); }
+        .parts-system-name {
+            font-size: 12px;
+            font-weight: 600;
+            color: var(--accent);
+            text-transform: uppercase;
+            letter-spacing: 0.3px;
+        }
+        .parts-system-count {
+            font-size: 10px;
+            color: var(--text-secondary);
+            background: var(--border);
+            padding: 2px 7px;
+            border-radius: 8px;
+        }
+        .parts-list {
+            padding: 6px 14px 10px;
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 2px;
+        }
+        .parts-list-item {
+            font-size: 11px;
+            color: var(--text-primary);
+            padding: 3px 0;
+        }
+        .parts-more {
+            font-size: 10px;
+            color: var(--text-secondary);
+            padding: 4px 14px 8px;
+            cursor: pointer;
+        }
+        .parts-more:hover { color: var(--accent); }
+
+        /* DTC results */
+        .dtc-item {
+            display: flex;
+            gap: 10px;
+            padding: 10px 12px;
+            border-bottom: 1px solid rgba(30,30,40,0.5);
+            transition: background 0.15s;
+            cursor: default;
+        }
+        .dtc-item:hover { background: var(--bg-card-hover); }
+        .dtc-code {
+            font-family: monospace;
+            font-size: 13px;
+            font-weight: 700;
+            color: var(--accent);
+            min-width: 55px;
+        }
+        .dtc-body { flex: 1; }
+        .dtc-title { font-size: 12px; color: var(--text-primary); margin-bottom: 3px; }
+        .dtc-meta { font-size: 10px; color: var(--text-secondary); display: flex; gap: 10px; flex-wrap: wrap; }
+        .dtc-sev { padding: 1px 5px; border-radius: 3px; font-weight: 600; font-size: 9px; }
+        .dtc-sev.s5 { background: rgba(239,68,68,0.15); color: var(--status-alert); }
+        .dtc-sev.s4 { background: rgba(245,158,11,0.15); color: var(--status-warning); }
+        .dtc-sev.s3 { background: rgba(96,165,250,0.15); color: #60a5fa; }
+        .dtc-sev.s2 { background: rgba(74,222,128,0.15); color: var(--status-normal); }
+        .dtc-sev.s1 { background: rgba(136,136,160,0.1); color: var(--text-secondary); }
+        .dtc-causes { font-size: 10px; color: var(--text-secondary); margin-top: 4px; line-height: 1.4; }
+
+        /* Wear bars */
+        .wear-item { display:flex; align-items:center; gap:10px; margin-bottom:8px; }
+        .wear-label { font-size:11px; color:var(--text-secondary); min-width:130px; }
+        .wear-bar-bg { flex:1; height:8px; background:var(--border); border-radius:4px; overflow:hidden; }
+        .wear-bar-fill { height:100%; border-radius:4px; transition:width 0.8s ease, background 0.5s; }
+        .wear-pct { font-size:11px; font-weight:600; min-width:35px; text-align:right; font-variant-numeric:tabular-nums; }
+
+        /* Alert cards */
+        .alert-card {
+            display: flex;
+            gap: 10px;
+            padding: 10px 14px;
+            border-radius: 8px;
+            border: 1px solid;
+            font-size: 12px;
+            cursor: pointer;
+            transition: transform 0.15s, box-shadow 0.2s;
+            flex: 1;
+            min-width: 280px;
+        }
+        .alert-card:hover { transform: translateY(-1px); box-shadow: 0 4px 16px rgba(0,0,0,0.3); }
+        .alert-card .alert-icon { display:flex; align-items:flex-start; margin-top:2px; }
+        .alert-card.sev-critical {
+            background: rgba(239,68,68,0.06);
+            border-color: rgba(239,68,68,0.2);
+        }
+        .alert-card.sev-warning {
+            background: rgba(245,158,11,0.06);
+            border-color: rgba(245,158,11,0.2);
+        }
+        .alert-card.sev-info {
+            background: rgba(96,165,250,0.06);
+            border-color: rgba(96,165,250,0.2);
+        }
+        .alert-icon {
+            font-size: 16px;
+            flex-shrink: 0;
+            margin-top: 1px;
+        }
+        .alert-body { flex: 1; }
+        .alert-title { font-weight: 600; color: var(--text-primary); margin-bottom: 2px; }
+        .alert-explain { color: var(--text-secondary); line-height: 1.4; }
+        .alert-action {
+            margin-top: 4px;
+            font-size: 11px;
+            color: var(--accent);
+            font-weight: 500;
+        }
+
+        /* Actual vs Expected cards */
+        .ave-card {
+            background: rgba(17,17,22,0.85);
+            backdrop-filter: blur(8px);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            padding: 12px 14px;
+            cursor: pointer;
+            transition: background 0.2s, border-color 0.2s, box-shadow 0.3s;
+            position: relative;
+        }
+        .ave-card:hover {
+            background: var(--bg-card-hover);
+            border-color: var(--border-active);
+            box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+        }
+        .ave-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px; }
+        .ave-label { font-size: 10px; text-transform: uppercase; letter-spacing: 0.5px; color: var(--text-secondary); }
+        .ave-badge {
+            font-size: 8px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px;
+            padding: 2px 6px; border-radius: 3px;
+        }
+        .ave-badge.b-ok { color: var(--status-normal); background: rgba(74,222,128,0.1); }
+        .ave-badge.b-warning { color: var(--status-warning); background: rgba(245,158,11,0.1); }
+        .ave-badge.b-critical { color: var(--status-alert); background: rgba(239,68,68,0.1); }
+        .ave-badge.b-cold { color: #60a5fa; background: rgba(96,165,250,0.1); }
+        .ave-badge.b-unknown { color: var(--text-secondary); background: rgba(136,136,160,0.1); }
+        .ave-value-row { display: flex; align-items: baseline; gap: 4px; margin-bottom: 4px; }
+        .ave-value { font-size: 22px; font-weight: 700; color: var(--chrome); font-variant-numeric: tabular-nums; line-height: 1; transition: color 0.3s; }
+        .ave-card.crit .ave-value { color: var(--status-alert); }
+        .ave-card.warn .ave-value { color: var(--status-warning); }
+        .ave-unit { font-size: 11px; color: var(--text-secondary); }
+        .ave-trend { font-size: 14px; margin-left: auto; }
+        .ave-expected { font-size: 10px; color: var(--text-secondary); }
+        .ave-bar-wrap { height: 4px; background: var(--border); border-radius: 2px; margin-top: 6px; position: relative; overflow: visible; }
+        .ave-bar-range { position: absolute; height: 100%; background: rgba(74,222,128,0.2); border-radius: 2px; }
+        .ave-bar-needle {
+            position: absolute; top: -3px; width: 3px; height: 10px; border-radius: 1px;
+            transform: translateX(-50%);
+        }
+
+        /* Progressive Disclosure — expandable gauge detail */
+        .gauge-card { cursor: pointer; position: relative; }
+        .gauge-card::after {
+            content: '▾';
+            position: absolute;
+            bottom: 4px;
+            right: 8px;
+            font-size: 10px;
+            color: var(--text-secondary);
+            opacity: 0.4;
+            transition: transform 0.2s, opacity 0.2s;
+        }
+        .gauge-card.expanded::after {
+            transform: rotate(180deg);
+            opacity: 0.7;
+        }
+        .gauge-detail {
+            display: none;
+            grid-column: 1 / -1;
+            background: rgba(17, 17, 22, 0.9);
+            backdrop-filter: blur(8px);
+            -webkit-backdrop-filter: blur(8px);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            padding: 14px 20px;
+            animation: slideDown 0.25s ease-out;
+        }
+        .gauge-detail.visible { display: block; }
+        @keyframes slideDown {
+            from { opacity: 0; transform: translateY(-8px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .detail-grid {
+            display: grid;
+            grid-template-columns: 1fr 120px;
+            gap: 12px;
+            align-items: center;
+        }
+        .detail-stats {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+        .detail-stat {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .detail-stat-value {
+            font-size: 18px;
+            font-weight: 700;
+            color: var(--chrome);
+            font-variant-numeric: tabular-nums;
+        }
+        .detail-stat-label {
+            font-size: 9px;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-top: 2px;
+        }
+        .detail-chart { width: 100%; height: 60px; }
+
+        /* Digital Twin */
+        .twin-wrap { position: relative; overflow: hidden; border-radius: 8px; }
+        .twin-wrap canvas { display: block; }
+        .twin-label {
+            position: absolute;
+            pointer-events: none;
+            transform: translate(-50%, -100%);
+            padding: 3px 10px;
+            border-radius: 4px;
+            font-size: 10px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            color: #fff;
+            white-space: nowrap;
+            transition: opacity 0.2s;
+            text-shadow: 0 1px 3px rgba(0,0,0,0.5);
+        }
+        .twin-label::after {
+            content: '';
+            position: absolute;
+            bottom: -4px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 0; height: 0;
+            border-left: 4px solid transparent;
+            border-right: 4px solid transparent;
+            border-top: 4px solid currentColor;
+        }
+        .twin-hint {
+            position: absolute;
+            bottom: 6px;
+            left: 50%;
+            transform: translateX(-50%);
+            font-size: 9px;
+            color: var(--text-secondary);
+            opacity: 0.4;
+            pointer-events: none;
+            z-index: 5;
+        }
+        .twin-loading-msg {
+            position: absolute;
+            inset: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 12px;
+            color: var(--text-secondary);
+        }
+
+        /* Print / PDF export */
+        @media print {
+            .header, .health-bar, .loading-overlay, .alert-card, .twin-wrap, .hero-badge, .twin-hint, .twin-label { display: none !important; }
+            body { background: #fff !important; color: #000 !important; }
+            .tab-content { display: block !important; page-break-inside: avoid; }
+            .chart-container, .ave-card, .mini-card { background: #f5f5f5 !important; border: 1px solid #ddd !important; color: #000 !important; }
+            .ave-value, .mini-value, .chart-title, .ov-value { color: #000 !important; }
+            .ave-label, .ave-expected, .gauge-label, .mini-label { color: #555 !important; }
+            #print-header { display: block !important; padding: 20px; border-bottom: 2px solid #000; margin-bottom: 20px; }
+            #print-header h1 { font-size: 24px; }
+            #print-header p { font-size: 12px; color: #555; }
+        }
+        #print-header { display: none; }
+
+        /* Loading overlay */
+        .loading-overlay {
+            position: fixed;
+            inset: 0;
+            background: rgba(8,8,12,0.7);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 999;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.2s;
+        }
+        .loading-overlay.visible {
+            opacity: 1;
+            pointer-events: all;
+        }
+        .loading-spinner {
+            width: 36px;
+            height: 36px;
+            border: 3px solid var(--border);
+            border-top-color: var(--chrome);
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+        }
+        @keyframes spin { to { transform: rotate(360deg); } }
+    </style>
+</head>
+<body>
+
+<!-- Print Header (hidden, shown only in print) -->
+<div id="print-header">
+    <h1>LLCAR Диагностика — Отчёт</h1>
+    <p id="print-date"></p>
+</div>
+
+<!-- Loading Overlay -->
+<div class="loading-overlay" id="loading-overlay">
+    <div class="loading-spinner"></div>
+</div>
+
+<!-- ===== HEADER ===== -->
+<header class="header">
+    <div class="header-logo">
+        <img src="/static/img/llcar-logo.png" alt="LLCAR" height="48" style="vertical-align:middle;margin-right:12px;flex-shrink:0;border-radius:4px;filter:drop-shadow(0 0 6px rgba(255,255,255,0.15));">
+        LLCAR<span>Диагностика</span>
+    </div>
+
+    <nav class="tab-bar">
+        <button class="tab-btn active" data-tab="overview" onclick="switchTab('overview')">Обзор</button>
+        <button class="tab-btn" data-tab="engine" onclick="switchTab('engine')">Двигатель</button>
+        <button class="tab-btn" data-tab="suspension" onclick="switchTab('suspension')">Подвеска</button>
+        <button class="tab-btn" data-tab="audio" onclick="switchTab('audio')">Аудио</button>
+        <button class="tab-btn" data-tab="trips" onclick="switchTab('trips')">Поездки</button>
+      <button class="tab-btn" data-tab="diagnostics" onclick="switchTab('diagnostics')">Диагностика</button>
+      <button class="tab-btn" data-tab="kb" onclick="switchTab('kb')">База знаний</button>
+    </nav>
+
+    <div class="header-controls">
+        <select class="ctrl-select" id="client-select" onchange="loadData()">
+            <option value="">Все клиенты</option>
+            {% for c in clients %}
+            <option value="{{ c }}">{{ c|truncatechars:16 }}</option>
+            {% endfor %}
+        </select>
+
+        <div class="time-range" id="time-range-bar">
+            <button class="time-btn" data-minutes="5" onclick="setTimeRange(this)">5м</button>
+            <button class="time-btn" data-minutes="15" onclick="setTimeRange(this)">15м</button>
+            <button class="time-btn" data-minutes="60" onclick="setTimeRange(this)">1ч</button>
+            <button class="time-btn active" data-minutes="360" onclick="setTimeRange(this)">6ч</button>
+            <button class="time-btn" data-minutes="1440" onclick="setTimeRange(this)">24ч</button>
+            <button class="time-btn" data-minutes="10080" onclick="setTimeRange(this)">7д</button>
+        </div>
+
+        <span class="last-update" id="last-update"></span>
+        <button class="ctrl-btn" onclick="exportPDF()" title="Скачать PDF отчёт" style="font-size:14px;padding:5px 8px;">📄</button>
+        <button class="refresh-btn" id="refresh-btn" onclick="loadData()">Обновить</button>
+    </div>
+</header>
+
+<!-- ===== HEALTH SCORE BAR ===== -->
+<div class="health-bar" id="health-bar">
+    <div class="health-pulse-wrap">
+        <svg viewBox="0 0 160 32" preserveAspectRatio="none">
+            <path id="pulse-path" class="pulse-line pulse-animated normal"
+                  style="--pulse-speed: 2s;"
+                  d="M0,16 L20,16 L25,16 L30,4 L35,28 L40,10 L45,22 L50,16 L70,16
+                     L80,16 L85,16 L90,4 L95,28 L100,10 L105,22 L110,16 L130,16
+                     L140,16 L145,16 L150,4 L155,28 L160,10 L165,22 L170,16 L190,16
+                     L200,16 L205,16 L210,4 L215,28 L220,10 L225,22 L230,16 L250,16
+                     L260,16 L265,16 L270,4 L275,28 L280,10 L285,22 L290,16 L320,16" />
+        </svg>
+    </div>
+    <div style="display:flex;align-items:center;gap:10px;flex:1;">
+        <div id="health-score-badge" style="font-size:18px;font-weight:800;font-variant-numeric:tabular-nums;min-width:44px;text-align:center;">--</div>
+        <div style="flex:1;height:6px;background:var(--border);border-radius:3px;overflow:hidden;">
+            <div id="health-score-fill" style="height:100%;width:0%;border-radius:3px;transition:width 0.8s ease,background 0.5s;"></div>
+        </div>
+        <div class="health-status" id="health-status" style="flex:none;">Загрузка...</div>
+    </div>
+    <div class="health-dots" id="health-dots">
+        <div class="health-dot"><div class="dot dot-normal" id="dot-engine"></div>Двигатель</div>
+        <div class="health-dot"><div class="dot dot-normal" id="dot-suspension"></div>Подвеска</div>
+        <div class="health-dot"><div class="dot dot-normal" id="dot-electrical"></div>Электрика</div>
+        <div class="health-dot"><div class="dot dot-normal" id="dot-audio"></div>Аудио</div>
+    </div>
+</div>
+
+<!-- ===== ALERT CARDS ===== -->
+<div id="alert-cards" style="padding:0 24px;display:none;">
+    <div id="alert-cards-inner" style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:8px;"></div>
+</div>
+
+<!-- ===== ACTUAL vs EXPECTED METRICS ===== -->
+<div class="metrics-row" id="ave-row">
+    <!-- Status card -->
+    <div class="ave-card" id="car-card">
+        <div class="ave-header"><span class="ave-label">Статус</span><span class="ave-badge b-unknown" id="car-state-badge">--</span></div>
+        <div class="ave-value-row"><span class="ave-value" id="car-state" style="font-size:16px;">Н/Д</span></div>
+        <div class="ave-expected"><span id="car-road"></span></div>
+        <div style="font-size:10px;color:var(--text-secondary);margin-top:4px;">Батарея тел: <span id="car-battery" style="color:var(--chrome);">--%</span></div>
+    </div>
+    <!-- 4 Actual vs Expected cards (populated by JS) -->
+    <div class="ave-card" id="ave-speed">
+        <div class="ave-header"><span class="ave-label">Скорость</span><span class="ave-badge b-unknown" id="ave-speed-badge">--</span></div>
+        <div class="ave-value-row"><span class="ave-value" id="ave-speed-val">--</span><span class="ave-unit">км/ч</span><span class="ave-trend" id="ave-speed-trend">→</span></div>
+        <div class="ave-expected" id="ave-speed-exp">Норма: 0–120</div>
+        <div class="ave-bar-wrap"><div class="ave-bar-range" id="ave-speed-range"></div><div class="ave-bar-needle" id="ave-speed-needle"></div></div>
+    </div>
+    <div class="ave-card" id="ave-rpm">
+        <div class="ave-header"><span class="ave-label">Обороты</span><span class="ave-badge b-unknown" id="ave-rpm-badge">--</span></div>
+        <div class="ave-value-row"><span class="ave-value" id="ave-rpm-val">--</span><span class="ave-unit">об/мин</span><span class="ave-trend" id="ave-rpm-trend">→</span></div>
+        <div class="ave-expected" id="ave-rpm-exp">Норма: 700–900</div>
+        <div class="ave-bar-wrap"><div class="ave-bar-range" id="ave-rpm-range"></div><div class="ave-bar-needle" id="ave-rpm-needle"></div></div>
+    </div>
+    <div class="ave-card" id="ave-temp">
+        <div class="ave-header"><span class="ave-label">Температура ОЖ</span><span class="ave-badge b-unknown" id="ave-temp-badge">--</span></div>
+        <div class="ave-value-row"><span class="ave-value" id="ave-temp-val">--</span><span class="ave-unit">°C</span><span class="ave-trend" id="ave-temp-trend">→</span></div>
+        <div class="ave-expected" id="ave-temp-exp">Норма: 80–95</div>
+        <div class="ave-bar-wrap"><div class="ave-bar-range" id="ave-temp-range"></div><div class="ave-bar-needle" id="ave-temp-needle"></div></div>
+    </div>
+    <div class="ave-card" id="ave-vib">
+        <div class="ave-header"><span class="ave-label">Вибрация</span><span class="ave-badge b-unknown" id="ave-vib-badge">--</span></div>
+        <div class="ave-value-row"><span class="ave-value" id="ave-vib-val">--</span><span class="ave-unit">m/s²</span><span class="ave-trend" id="ave-vib-trend">→</span></div>
+        <div class="ave-expected" id="ave-vib-exp">Норма: < 2.0</div>
+        <div class="ave-bar-wrap"><div class="ave-bar-range" id="ave-vib-range"></div><div class="ave-bar-needle" id="ave-vib-needle"></div></div>
+    </div>
+    <div class="ave-card" id="weather-card" style="display:none;">
+        <div class="ave-header"><span class="ave-label">Погода</span></div>
+        <div class="ave-value-row"><span id="weather-icon" style="font-size:16px;">☀️</span><span class="ave-value" id="weather-temp" style="margin-left:4px;">--</span><span class="ave-unit">°C</span></div>
+        <div class="ave-expected" id="weather-cond">--</div>
+    </div>
+</div>
+
+<!-- Gauge Detail Panel (Progressive Disclosure) -->
+<div class="gauge-detail" id="gauge-detail">
+    <div class="detail-grid">
+        <div class="detail-stats" id="detail-stats">
+            <div class="detail-stat"><div class="detail-stat-value" id="d-min">--</div><div class="detail-stat-label">Мин</div></div>
+            <div class="detail-stat"><div class="detail-stat-value" id="d-avg">--</div><div class="detail-stat-label">Сред</div></div>
+            <div class="detail-stat"><div class="detail-stat-value" id="d-max">--</div><div class="detail-stat-label">Макс</div></div>
+            <div class="detail-stat"><div class="detail-stat-value" id="d-last">--</div><div class="detail-stat-label">Текущее</div></div>
+        </div>
+        <div class="detail-chart" id="detail-mini-chart"></div>
+    </div>
+</div>
+
+<!-- ===== TAB: OVERVIEW ===== -->
+<div class="tab-content active-content" id="tab-overview">
+    <!-- Row 1: 3D Accel + Digital Twin side by side -->
+    <div class="chart-grid">
+        <div class="chart-container">
+            <div class="chart-title">3D Акселерометр</div>
+            <div style="position:relative;">
+                <div class="chart-box" id="chart-accel3d"></div>
+                <div style="position:absolute;top:6px;left:6px;background:rgba(0,0,0,0.8);backdrop-filter:blur(8px);border:1px solid rgba(0,212,170,0.15);border-radius:6px;padding:6px 10px;font-size:9px;color:var(--text-secondary);line-height:1.7;pointer-events:none;">
+                    <span style="color:#ef4444">● X</span> крен &nbsp;
+                    <span style="color:#4ade80">● Y</span> разг. &nbsp;
+                    <span style="color:#60a5fa">● Z</span> ямы<br>
+                    Плотно = <span style="color:#4ade80">ок</span>, разброс = <span style="color:#ef4444">тряска</span>
+                </div>
+            </div>
+        </div>
+        <div class="chart-container" style="position:relative;">
+            <div class="chart-title" style="display:flex;justify-content:space-between;align-items:center;">
+                <span>Digital Twin</span>
+                <span class="hero-badge" style="position:static;padding:3px 8px;font-size:9px;">
+                    <div class="live-dot"></div>LIVE
+                </span>
+            </div>
+            <div class="chart-box twin-wrap" id="digital-twin-container">
+                <div class="twin-loading-msg" id="twin-load-msg">Загрузка 3D модели (3 MB)...</div>
+                <div class="twin-hint">Вращайте · Клик на маркер → система</div>
+            </div>
+            <!-- Overlay mini-stats inside twin panel -->
+            <div class="hero-overlay-cards" style="position:absolute;bottom:20px;left:14px;right:14px;">
+                <div class="hero-overlay-card" style="padding:6px 10px;">
+                    <div class="ov-label" style="font-size:8px;">Скорость</div>
+                    <div><span class="ov-value" id="ov-speed" style="font-size:16px;">0</span><span class="ov-unit" style="font-size:9px;">км/ч</span></div>
+                </div>
+                <div class="hero-overlay-card" style="padding:6px 10px;">
+                    <div class="ov-label" style="font-size:8px;">Обороты</div>
+                    <div><span class="ov-value" id="ov-rpm" style="font-size:16px;">0</span><span class="ov-unit" style="font-size:9px;">об/м</span></div>
+                </div>
+                <div class="hero-overlay-card" style="padding:6px 10px;">
+                    <div class="ov-label" style="font-size:8px;">Темп.</div>
+                    <div><span class="ov-value" id="ov-temp" style="font-size:16px;">0</span><span class="ov-unit" style="font-size:9px;">°C</span></div>
+                </div>
+                <div class="hero-overlay-card" style="padding:6px 10px;">
+                    <div class="ov-label" style="font-size:8px;">Вибрация</div>
+                    <div><span class="ov-value" id="ov-vib" style="font-size:16px;">0.0</span><span class="ov-unit" style="font-size:9px;">m/s²</span></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Row 2: Sparklines -->
+    <div class="chart-grid">
+        <div class="chart-container">
+            <div class="chart-title" style="display:flex;justify-content:space-between;align-items:center;">
+                <span>Обороты</span>
+                <span id="spark-rpm-last" style="font-size:14px;font-weight:700;color:var(--chrome);font-variant-numeric:tabular-nums;">--</span>
+            </div>
+            <div class="chart-box-short" id="chart-spark-rpm"></div>
+        </div>
+        <div class="chart-container">
+            <div class="chart-title" style="display:flex;justify-content:space-between;align-items:center;">
+                <span>Скорость</span>
+                <span id="spark-speed-last" style="font-size:14px;font-weight:700;color:var(--accent);font-variant-numeric:tabular-nums;">--</span>
+            </div>
+            <div class="chart-box-short" id="chart-spark-speed"></div>
+        </div>
+    </div>
+</div>
+
+<!-- ===== TAB: ENGINE ===== -->
+<div class="tab-content" id="tab-engine">
+    <div style="padding:0 24px;">
+        <div class="card" style="margin-bottom:12px;">
+            <div class="chart-title">Двигатель — все параметры</div>
+            <div id="chart-engine-multi" style="width:100%;height:calc(100vh - 240px);min-height:450px;"></div>
+        </div>
+    </div>
+    <!-- Maintenance + Heatmap + Sankey -->
+    <div style="padding:0 24px;">
+        <div class="chart-grid" style="margin-bottom:12px;">
+            <!-- Wear Indicators -->
+            <div class="chart-container">
+                <div class="chart-title">Износ расходников (прогноз)</div>
+                <div id="wear-bars" style="padding:10px 0;">
+                    <div class="wear-item"><span class="wear-label">Масло</span><div class="wear-bar-bg"><div class="wear-bar-fill" id="wear-oil" style="width:0%"></div></div><span class="wear-pct" id="wear-oil-pct">--</span></div>
+                    <div class="wear-item"><span class="wear-label">Тормозные колодки</span><div class="wear-bar-bg"><div class="wear-bar-fill" id="wear-brakes" style="width:0%"></div></div><span class="wear-pct" id="wear-brakes-pct">--</span></div>
+                    <div class="wear-item"><span class="wear-label">Воздушный фильтр</span><div class="wear-bar-bg"><div class="wear-bar-fill" id="wear-filter" style="width:0%"></div></div><span class="wear-pct" id="wear-filter-pct">--</span></div>
+                </div>
+                <div id="comparison-baseline" style="margin-top:8px;font-size:11px;color:var(--text-secondary);border-top:1px solid var(--border);padding-top:8px;">
+                    <div style="font-size:10px;text-transform:uppercase;letter-spacing:0.5px;color:var(--accent);margin-bottom:6px;">Среднее за 7 дней (baseline)</div>
+                    <div id="baseline-values" style="display:flex;gap:12px;flex-wrap:wrap;"></div>
+                </div>
+            </div>
+            <!-- Heatmap: speed vs vibration -->
+            <div class="chart-container">
+                <div class="chart-title">Вибрация по скорости / времени</div>
+                <div id="chart-heatmap" style="width:100%;height:200px;"></div>
+            </div>
+        </div>
+        <!-- Sankey: system dependencies -->
+        <div class="chart-container" style="margin-bottom:12px;">
+            <div class="chart-title">Зависимости систем (Sankey)</div>
+            <div id="chart-sankey" style="width:100%;height:200px;"></div>
+        </div>
+    </div>
+    <!-- DTC moved to KB tab -->
+    <div class="mini-metrics" id="engine-mini-metrics" style="margin:0 24px 12px;">
+        <div class="mini-card">
+            <div class="mini-value" id="mm-fuel">--</div>
+            <div class="mini-label">Топливо, %</div>
+        </div>
+        <div class="mini-card">
+            <div class="mini-value" id="mm-voltage">--</div>
+            <div class="mini-label">Напряжение, В</div>
+        </div>
+        <div class="mini-card">
+            <div class="mini-value" id="mm-runtime">--</div>
+            <div class="mini-label">Время работы</div>
+        </div>
+        <div class="mini-card">
+            <div class="mini-value" id="mm-ambient">--</div>
+            <div class="mini-label">Темп. воздуха, °C</div>
+        </div>
+    </div>
+</div>
+
+<!-- ===== TAB: SUSPENSION ===== -->
+<div class="tab-content" id="tab-suspension">
+    <!-- Diagnostic status -->
+    <div id="susp-status-card" style="background:rgba(17,17,22,0.9);border:1px solid rgba(0,212,170,0.12);border-radius:12px;padding:20px 24px;margin-bottom:14px;">
+        <div style="display:flex;align-items:center;gap:16px;">
+            <div id="susp-status-icon" style="font-size:36px;">🔄</div>
+            <div style="flex:1;">
+                <div id="susp-status-title" style="font-size:18px;font-weight:700;">Анализ подвески</div>
+                <div id="susp-status-desc" style="font-size:12px;color:var(--text-secondary);margin-top:4px;line-height:1.5;">Загрузка данных акселерометра...</div>
+            </div>
+            <div style="text-align:center;">
+                <div style="font-size:9px;text-transform:uppercase;letter-spacing:1px;color:var(--text-secondary);">Вибрация RMS</div>
+                <div id="susp-vib-big" style="font-size:28px;font-weight:700;font-variant-numeric:tabular-nums;">--</div>
+                <div style="font-size:10px;color:var(--text-secondary);">m/s²</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Stat cards -->
+    <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-bottom:12px;">
+        <div class="susp-stat-card">
+            <div class="susp-stat-label">X — Боковая тряска</div>
+            <div style="font-size:10px;color:var(--text-secondary);margin-bottom:6px;">Крены, колея</div>
+            <div class="susp-stat-value" id="ss-x-vib">--</div>
+            <div class="susp-stat-bar"><div class="susp-stat-fill" id="ss-x-bar" style="width:0%"></div></div>
+        </div>
+        <div class="susp-stat-card">
+            <div class="susp-stat-label">Y — Разгон / Торможение</div>
+            <div style="font-size:10px;color:var(--text-secondary);margin-bottom:6px;">Клевки, рывки</div>
+            <div class="susp-stat-value" id="ss-y-vib">--</div>
+            <div class="susp-stat-bar"><div class="susp-stat-fill" id="ss-y-bar" style="width:0%;background:var(--status-normal)"></div></div>
+        </div>
+        <div class="susp-stat-card">
+            <div class="susp-stat-label">Z — Вертикальная</div>
+            <div style="font-size:10px;color:var(--text-secondary);margin-bottom:6px;">Ямы, лежачие</div>
+            <div class="susp-stat-value" id="ss-z-vib">--</div>
+            <div class="susp-stat-bar"><div class="susp-stat-fill" id="ss-z-bar" style="width:0%;background:#60a5fa"></div></div>
+        </div>
+    </div>
+
+    <!-- 3D chart -->
+    <div class="chart-grid">
+        <div class="chart-container chart-grid-full">
+            <div class="chart-title">3D Траектория вибрации</div>
+            <div style="position:relative;">
+                <div class="chart-box-tall" id="chart-susp-accel3d"></div>
+                <div style="position:absolute;top:8px;left:8px;background:rgba(0,0,0,0.8);backdrop-filter:blur(8px);border:1px solid rgba(0,212,170,0.15);border-radius:8px;padding:10px 14px;font-size:11px;color:var(--text-secondary);line-height:1.8;pointer-events:none;">
+                    <div style="color:var(--accent);font-weight:700;font-size:12px;margin-bottom:6px;">Как читать 3D график</div>
+                    <div>Каждая точка — замер вибрации. Три оси = три направления тряски:</div>
+                    <div style="margin:4px 0;">
+                        <span style="color:#ef4444">● X</span> — боковой крен (колея, повороты) &nbsp;
+                        <span style="color:#4ade80">● Y</span> — разгон / торможение &nbsp;
+                        <span style="color:#60a5fa">● Z</span> — ямы, кочки
+                    </div>
+                    <div style="margin-top:6px;border-top:1px solid rgba(255,255,255,0.08);padding-top:6px;">
+                        Точки рядом с центром = <span style="color:#4ade80;font-weight:600;">подвеска в норме</span>.
+                        Широкий разброс = <span style="color:#ef4444;font-weight:600;">сильная тряска, износ</span>.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 2D charts -->
+    <div class="chart-grid">
+        <div class="chart-container">
+            <div class="chart-title">Вибрация по осям (по времени)</div>
+            <div class="chart-box" id="chart-vib-axes"></div>
+        </div>
+        <div class="chart-container">
+            <div class="chart-title">Мин / Макс коридор (ось Z)</div>
+            <div class="chart-box" id="chart-minmax"></div>
+        </div>
+    </div>
+</div>
+
+<!-- ===== TAB: AUDIO ===== -->
+<div class="tab-content" id="tab-audio">
+    <!-- Big status card -->
+    <div id="audio-status-card" style="background:rgba(17,17,22,0.9);border:1px solid rgba(0,212,170,0.12);border-radius:12px;padding:20px 24px;margin-bottom:14px;">
+        <div style="display:flex;align-items:center;gap:16px;">
+            <div id="audio-status-icon" style="font-size:36px;">🔊</div>
+            <div style="flex:1;">
+                <div id="audio-status-title" style="font-size:18px;font-weight:700;color:var(--chrome);">Загрузка...</div>
+                <div id="audio-status-desc" style="font-size:12px;color:var(--text-secondary);margin-top:4px;line-height:1.5;">Анализируем звуки автомобиля</div>
+            </div>
+            <div style="text-align:center;">
+                <div style="font-size:9px;text-transform:uppercase;letter-spacing:1px;color:var(--text-secondary);">Качество записи</div>
+                <div id="audio-quality-big" style="font-size:28px;font-weight:700;font-variant-numeric:tabular-nums;">--</div>
+                <div id="audio-quality-label" style="font-size:10px;">из 100</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- MAIN: sound over time -->
+    <div class="chart-grid">
+        <div class="chart-container chart-grid-full">
+            <div class="chart-title">Звук по времени</div>
+            <div class="chart-box-tall" id="chart-audio-main"></div>
+        </div>
+    </div>
+    <div class="chart-grid">
+        <div class="chart-container">
+            <div class="chart-title">Качество записи</div>
+            <div class="chart-box" id="chart-audio-timeline"></div>
+        </div>
+        <div class="chart-container">
+            <div class="chart-title">Сейчас (последний замер)</div>
+            <div id="audio-bars" style="padding:8px 0;"></div>
+        </div>
+    </div>
+</div>
+
+<!-- ===== TAB: TRIPS ===== -->
+<div class="tab-content" id="tab-trips">
+    <div class="trip-stats-bar">
+        <div class="trip-stat">
+            <div class="trip-stat-value" id="ts-count">--</div>
+            <div class="trip-stat-label">Поездок</div>
+        </div>
+        <div class="trip-stat">
+            <div class="trip-stat-value" id="ts-points">--</div>
+            <div class="trip-stat-label">Точек GPS</div>
+        </div>
+        <div class="trip-stat">
+            <div class="trip-stat-value" id="ts-avg-vib">--</div>
+            <div class="trip-stat-label">Ср. вибрация m/s²</div>
+        </div>
+        <div class="trip-stat">
+            <div class="trip-stat-value" id="ts-avg-speed">--</div>
+            <div class="trip-stat-label">Ср. скорость км/ч</div>
+        </div>
+    </div>
+    <div class="chart-container" style="padding:0;overflow:hidden;">
+        <div id="trips-map" class="trips-map"></div>
+    </div>
+</div>
+
+<!-- ===== TAB: DIAGNOSTICS ===== -->
+<div class="tab-content" id="tab-diagnostics">
+    <div id="diag-alerts" style="margin-bottom:14px;"></div>
+    <div id="diag-dtc" style="background:rgba(17,17,22,0.9);border:1px solid rgba(0,212,170,0.12);border-radius:12px;padding:16px 20px;margin-bottom:14px;"></div>
+    <div id="diag-ecu" style="display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-bottom:14px;"></div>
+    <div class="chart-container">
+        <div class="chart-title">Напряжения ECU блоков по времени</div>
+        <div class="chart-box" id="chart-voltage-compare"></div>
+    </div>
+</div>
+
+<!-- ===== TAB: KNOWLEDGE BASE ===== -->
+<div class="tab-content" id="tab-kb">
+    <div style="padding:0 24px;">
+        <!-- KB Sub-tabs -->
+        <div class="kb-tabs" style="display:flex;gap:4px;margin-bottom:16px;border-bottom:1px solid var(--border);padding-bottom:0;">
+            <button class="kb-tab active" data-kbtab="situations" onclick="switchKBTab('situations')">🚨 Ситуации <span class="kb-tab-count">34</span></button>
+            <button class="kb-tab" data-kbtab="parts" onclick="switchKBTab('parts')">🔧 Запчасти <span class="kb-tab-count">2,569</span></button>
+            <button class="kb-tab" data-kbtab="dtc" onclick="switchKBTab('dtc')">⚡ DTC коды <span class="kb-tab-count">244</span></button>
+        </div>
+
+        <!-- KB: Situations -->
+        <div class="kb-section active" id="kb-situations">
+            <div style="display:flex;gap:8px;margin-bottom:14px;">
+                <input type="text" id="sit-search" placeholder="Поиск: подвеска, тормоза, двигатель..."
+                    class="kb-search" oninput="searchSituations(this.value)">
+            </div>
+            <div id="sit-results" class="kb-cards-grid"></div>
+        </div>
+
+        <!-- KB: Parts -->
+        <div class="kb-section" id="kb-parts" style="display:none;">
+            <div style="display:flex;gap:8px;margin-bottom:14px;">
+                <input type="text" id="parts-search" placeholder="Поиск: фильтр, колодки, датчик..."
+                    class="kb-search" oninput="searchParts(this.value)">
+            </div>
+            <div id="parts-results" class="kb-parts-grid"></div>
+        </div>
+
+        <!-- KB: DTC -->
+        <div class="kb-section" id="kb-dtc" style="display:none;">
+            <div style="display:flex;gap:8px;margin-bottom:14px;">
+                <input type="text" id="dtc-search" placeholder="Введите код (P0101) или описание..."
+                    class="kb-search" oninput="searchDTC(this.value)">
+                <select id="dtc-filter" onchange="searchDTC(document.getElementById('dtc-search').value)"
+                    class="kb-select">
+                    <option value="">Все</option>
+                    <option value="B">B — Кузов</option>
+                    <option value="C">C — Шасси</option>
+                    <option value="P">P — Двигатель</option>
+                    <option value="U">U — Сеть</option>
+                </select>
+            </div>
+            <div id="dtc-results" style="max-height:600px;overflow-y:auto;"></div>
+            <div id="dtc-count" style="font-size:10px;color:var(--text-secondary);margin-top:6px;"></div>
+        </div>
+    </div>
+</div>
+
+<script>
+(function () {
+    'use strict';
+
+    // ─── State ───────────────────────────────────────────────────────
+    let charts = {};
+    let refreshTimer = null;
+    let currentTab = localStorage.getItem('llcar-tab') || 'overview';
+
+    // ─── Constants ───────────────────────────────────────────────────
+    const AXIS_STYLE = {
+        axisLine:  { lineStyle: { color: '#2a2a35' } },
+        axisLabel: { color: '#888', fontSize: 11 },
+        splitLine: { lineStyle: { color: '#1a1a24' } }
+    };
+
+    const DATAZOOM_STYLE = {
+        type: 'slider',
+        borderColor: '#1e1e28',
+        backgroundColor: '#0a0a0f',
+        fillerColor: 'rgba(212,212,224,0.08)',
+        textStyle: { color: '#555' },
+        handleStyle: { color: '#3a3a55', borderColor: '#555' },
+        dataBackground: {
+            lineStyle: { color: '#2a2a35' },
+            areaStyle: { color: 'rgba(42,42,53,0.3)' }
+        }
+    };
+
+    // ─── Time range ──────────────────────────────────────────────────
+    function getTimeRange() {
+        const active = document.querySelector('#time-range-bar .time-btn.active');
+        return active ? active.dataset.minutes : '360';
+    }
+
+    window.setTimeRange = function (btn) {
+        document.querySelectorAll('#time-range-bar .time-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        loadData();
+    };
+
+    // ─── Gauge SVG ───────────────────────────────────────────────────
+    function createGaugeSVG(value, max, thresholds) {
+        if (value == null || isNaN(value)) value = 0;
+        const pct = Math.min(Math.max(value / max, 0), 1);
+        const cx = 60, cy = 55, r = 44;
+        const startAngle = Math.PI;
+        const endAngle = 0;
+
+        function polarToCart(angle) {
+            return { x: cx + r * Math.cos(angle), y: cy - r * Math.sin(angle) };
+        }
+
+        const bgStart = polarToCart(startAngle);
+        const bgEnd = polarToCart(endAngle);
+        const fillAngle = startAngle - pct * Math.PI;
+        const fillEnd = polarToCart(fillAngle);
+
+        let color = 'var(--chrome)';
+        if (thresholds) {
+            for (let i = thresholds.length - 1; i >= 0; i--) {
+                if (value >= thresholds[i][0]) { color = thresholds[i][1]; break; }
+            }
+        }
+
+        const largeArc = pct > 0.5 ? 1 : 0;
+
+        return `<svg viewBox="0 0 120 62" xmlns="http://www.w3.org/2000/svg">
+            <path d="M ${bgStart.x} ${bgStart.y} A ${r} ${r} 0 1 1 ${bgEnd.x} ${bgEnd.y}"
+                  fill="none" stroke="var(--border)" stroke-width="7" stroke-linecap="round"/>
+            ${pct > 0.005 ? `<path d="M ${bgStart.x} ${bgStart.y} A ${r} ${r} 0 ${largeArc} 1 ${fillEnd.x} ${fillEnd.y}"
+                  fill="none" stroke="${color}" stroke-width="7" stroke-linecap="round"
+                  style="filter: drop-shadow(0 0 4px ${color === 'var(--chrome)' ? 'rgba(234,234,240,0.3)' : color === 'var(--status-normal)' ? 'rgba(74,222,128,0.4)' : color === 'var(--status-warning)' ? 'rgba(245,158,11,0.4)' : 'rgba(239,68,68,0.5)'})"/>` : ''}
+        </svg>`;
+    }
+
+    function setGaugeStatus(id, value, thresholds) {
+        var el = document.getElementById(id);
+        if (!el) return;
+        var label = 'Норма', cls = 'status-ok';
+        for (var i = thresholds.length - 1; i >= 0; i--) {
+            if (value >= thresholds[i][0]) { label = thresholds[i][1]; cls = thresholds[i][2]; break; }
+        }
+        el.textContent = label;
+        el.className = 'gauge-status ' + cls;
+    }
+
+    // ─── Actual vs Expected card update ────────────────────────────
+    function updateAVE(id, value, expMin, expMax, absMax, unit) {
+        var valEl = document.getElementById(id + '-val');
+        var badgeEl = document.getElementById(id + '-badge');
+        var rangeEl = document.getElementById(id + '-range');
+        var needleEl = document.getElementById(id + '-needle');
+        if (!valEl) return;
+
+        if (value == null) {
+            valEl.textContent = '--';
+            if (badgeEl) { badgeEl.textContent = 'Н/Д'; badgeEl.className = 'ave-badge b-unknown'; }
+            return;
+        }
+
+        valEl.textContent = typeof value === 'number' ? (value % 1 === 0 ? value : value.toFixed(1)) : value;
+
+        // Status
+        var st = 'ok', label = 'Норма';
+        if (value < expMin * 0.5 && expMin > 0) { st = 'critical'; label = 'Критично'; }
+        else if (value > expMax * 1.5) { st = 'critical'; label = 'Критично'; }
+        else if (value < expMin && expMin > 0) { st = 'warning'; label = 'Отклонение'; }
+        else if (value > expMax) { st = 'warning'; label = 'Повышено'; }
+
+        // Special: temp cold
+        if (id === 'ave-temp' && value < 70 && value !== null) { st = 'cold'; label = 'Холодно'; }
+
+        if (badgeEl) { badgeEl.textContent = label; badgeEl.className = 'ave-badge b-' + st; }
+
+        // Color the value for critical/warning
+        var cardEl = document.getElementById(id);
+        if (cardEl) { cardEl.className = 'ave-card' + (st === 'critical' ? ' crit' : st === 'warning' ? ' warn' : ''); }
+
+        // Bar visualization
+        if (rangeEl && absMax > 0) {
+            var left = (expMin / absMax * 100);
+            var width = ((expMax - expMin) / absMax * 100);
+            rangeEl.style.left = left + '%';
+            rangeEl.style.width = width + '%';
+        }
+        if (needleEl && absMax > 0) {
+            var pos = Math.min(Math.max(value / absMax * 100, 0), 100);
+            needleEl.style.left = pos + '%';
+            var colors = { ok: 'var(--status-normal)', warning: 'var(--status-warning)', critical: 'var(--status-alert)', cold: '#60a5fa', unknown: 'var(--text-secondary)' };
+            needleEl.style.background = colors[st] || colors.ok;
+        }
+    }
+
+    function updateGauges(pids, accel) {
+        const latest = pids && pids.length ? pids[pids.length - 1] : {};
+        const latestA = accel && accel.length ? accel[accel.length - 1] : {};
+
+        const speed = latest.speed != null ? latest.speed : null;
+        const rpm   = latest.rpm   != null ? latest.rpm   : null;
+        const temp  = latest.coolant != null ? latest.coolant : null;
+
+        const xStd = latestA.x_std || 0;
+        const yStd = latestA.y_std || 0;
+        const zStd = latestA.z_std || 0;
+        const vib = (xStd || yStd || zStd) ? Math.sqrt(xStd * xStd + yStd * yStd + zStd * zStd) : null;
+
+        updateAVE('ave-speed', speed, 0, 120, 220, 'км/ч');
+        updateAVE('ave-rpm', rpm, 700, 900, 8000, 'об/мин');
+        updateAVE('ave-temp', temp, 80, 95, 150, '°C');
+        updateAVE('ave-vib', vib, 0, 2.0, 10, 'm/s²');
+    }
+
+    // ─── Health bar ──────────────────────────────────────────────────
+    function updateHealth(health) {
+        if (!health) return;
+        const pulse = document.getElementById('pulse-path');
+        const statusEl = document.getElementById('health-status');
+        const scoreBadge = document.getElementById('health-score-badge');
+        const scoreFill = document.getElementById('health-score-fill');
+
+        pulse.classList.remove('normal', 'warning', 'alert');
+
+        if (health.status === 'alert') {
+            pulse.classList.add('alert');
+            pulse.style.setProperty('--pulse-speed', '0.6s');
+            statusEl.style.color = 'var(--status-alert)';
+        } else if (health.status === 'warning') {
+            pulse.classList.add('warning');
+            pulse.style.setProperty('--pulse-speed', '1.2s');
+            statusEl.style.color = 'var(--status-warning)';
+        } else {
+            pulse.classList.add('normal');
+            pulse.style.setProperty('--pulse-speed', '2s');
+            statusEl.style.color = 'var(--status-normal)';
+        }
+        statusEl.textContent = health.message || 'Все системы в норме';
+
+        const subs = health.subsystems || {};
+        ['engine', 'suspension', 'electrical', 'audio'].forEach(key => {
+            const dot = document.getElementById('dot-' + key);
+            if (!dot) return;
+            dot.className = 'dot';
+            const st = subs[key] ? subs[key].status : 'normal';
+            dot.classList.add('dot-' + st);
+            dot.title = subs[key] ? subs[key].detail : '';
+        });
+    }
+
+    // ─── Health Score API (enriched) ─────────────────────────────────
+    function fetchHealthScore(client) {
+        var url = '/api/health/' + (client ? '?client=' + encodeURIComponent(client) : '');
+        fetch(url).then(function(r) { return r.json(); }).then(function(h) {
+            // Score badge + fill bar
+            var badge = document.getElementById('health-score-badge');
+            var fill = document.getElementById('health-score-fill');
+            if (badge) {
+                badge.textContent = h.score;
+                badge.style.color = h.status === 'critical' ? 'var(--status-alert)' : h.status === 'warning' ? 'var(--status-warning)' : 'var(--status-normal)';
+            }
+            if (fill) {
+                fill.style.width = h.score + '%';
+                fill.style.background = h.status === 'critical' ? 'var(--status-alert)' : h.status === 'warning' ? 'var(--status-warning)' : 'var(--status-normal)';
+            }
+
+            // Critical notification
+            if (h.status === 'critical' && h.alerts && h.alerts.length) {
+                sendCriticalNotification(h.alerts[0].title, h.alerts[0].explanation);
+            }
+
+            // Alert cards
+            var container = document.getElementById('alert-cards');
+            var inner = document.getElementById('alert-cards-inner');
+            if (container && inner) {
+                if (h.alerts && h.alerts.length) {
+                    container.style.display = 'block';
+                    inner.innerHTML = h.alerts.map(function(a) {
+                        var sev = a.severity === 'critical' ? 'sev-critical' : a.severity === 'warning' ? 'sev-warning' : 'sev-info';
+                        var icon = a.severity === 'critical' ? '🔴' : a.severity === 'warning' ? '🟡' : 'ℹ️';
+                        var tab = a.system === 'engine' ? 'engine' : a.system === 'suspension' ? 'suspension' : a.system === 'electrical' ? 'engine' : 'audio';
+                        return '<div class="alert-card ' + sev + '" onclick="switchTab(\'' + tab + '\')">'
+                            + '<div class="alert-icon">' + icon + '</div>'
+                            + '<div class="alert-body">'
+                            + '<div class="alert-title">' + a.title + '</div>'
+                            + '<div class="alert-explain">' + a.explanation + '</div>'
+                            + '<div class="alert-action">→ ' + a.action + '</div>'
+                            + '</div></div>';
+                    }).join('');
+                } else {
+                    container.style.display = 'none';
+                }
+            }
+        }).catch(function() {});
+    }
+
+    // ─── Car card ────────────────────────────────────────────────────
+    function updateCarCard(packets) {
+        if (!packets || !packets.length) return;
+        const last = packets[packets.length - 1];
+        const stateMap = {
+            cruising: 'Движение', idle: 'Холостой ход', braking: 'Торможение',
+            accelerating: 'Разгон', parked: 'Стоянка', standstill: 'Стоянка',
+            moving: 'Движение', unknown: 'Неизвестно'
+        };
+        const roadMap = {
+            city: 'Город', highway: 'Трасса', offroad: 'Бездорожье',
+            parking: 'Парковка', unknown: 'Н/Д'
+        };
+        var stateText = stateMap[last.accel_state] || last.accel_state || 'Н/Д';
+        document.getElementById('car-state').textContent = stateText;
+        var badge = document.getElementById('car-state-badge');
+        if (badge) {
+            var moving = ['cruising','accelerating','braking','moving'].indexOf(last.accel_state) >= 0;
+            badge.textContent = moving ? 'В пути' : 'Стоит';
+            badge.className = 'ave-badge ' + (moving ? 'b-ok' : 'b-warn');
+        }
+        var roadText = roadMap[last.road] || last.road || '';
+        document.getElementById('car-road').textContent = roadText ? 'Дорога: ' + roadText : '';
+        document.getElementById('car-battery').textContent = (last.battery != null ? last.battery + '%' : '--%');
+    }
+
+    // ─── ECharts helpers ─────────────────────────────────────────────
+    function initChart(id) {
+        const dom = document.getElementById(id);
+        if (!dom) return null;
+        const c = echarts.init(dom, null, { renderer: 'canvas' });
+        charts[id] = c;
+        return c;
+    }
+
+    function ts(isoStr) {
+        if (!isoStr) return '';
+        return isoStr.replace('T', ' ').replace(/\.\d+.*$/, '').substring(5);
+    }
+
+    function safeArr(arr) { return Array.isArray(arr) ? arr : []; }
+
+    // ─── Sparkline ───────────────────────────────────────────────────
+    function renderSparkline(id, dataPoints, _unused, color) {
+        const c = initChart(id);
+        if (!c || !dataPoints || !dataPoints.length) return;
+        c.setOption({
+            backgroundColor: 'transparent',
+            grid: { left: 50, right: 10, top: 6, bottom: 18 },
+            xAxis: { type: 'time',
+                axisLine: { show: false }, axisTick: { show: false },
+                axisLabel: { color: '#555', fontSize: 9, formatter: '{HH}:{mm}' },
+                splitLine: { show: false }
+            },
+            yAxis: { type: 'value',
+                axisLine: { show: false }, axisTick: { show: false },
+                axisLabel: { color: '#555', fontSize: 9 },
+                splitLine: { show: false }, splitNumber: 2
+            },
+            tooltip: { trigger: 'axis', backgroundColor: '#111116', borderColor: '#1e1e28',
+                textStyle: { color: '#c0c0cc', fontSize: 10 },
+                formatter: function(p) { var d = p[0]; return d.axisValueLabel + '<br/>' + d.seriesName + ': <b>' + d.value[1] + '</b>'; }
+            },
+            series: [{
+                name: id.includes('rpm') ? 'об/мин' : 'км/ч',
+                type: 'line', data: dataPoints, symbol: 'none', connectNulls: true,
+                lineStyle: { width: 1.5, color: color },
+                areaStyle: { color: { type: 'linear', x: 0, y: 0, x2: 0, y2: 1,
+                    colorStops: [{ offset: 0, color: color.replace(')', ',0.35)').replace('rgb', 'rgba') },
+                               { offset: 1, color: color.replace(')', ',0.02)').replace('rgb', 'rgba') }] } }
+            }]
+        });
+    }
+
+    // ─── 3D Vibration Trajectory (line3D + normal zone) ────────────
+    function render3DTrajectory(id, data, isDetailed) {
+        const c = initChart(id);
+        if (!c) return;
+        var src = safeArr(data);
+        if (!src.length) return;
+
+        // Downsample to 300 for line3D (more than scatter was)
+        var maxPts = isDetailed ? 400 : 200;
+        if (src.length > maxPts) {
+            var step = Math.ceil(src.length / maxPts);
+            var sampled = [];
+            for (var si = 0; si < src.length; si += step) sampled.push(src[si]);
+            src = sampled;
+        }
+
+        // Use STD values (vibration intensity per axis) — not avg which is dominated by gravity
+        var trajectoryData = [];
+        var vibIntensity = [];
+        for (var i = 0; i < src.length; i++) {
+            var d = src[i];
+            var xs = d.x_std || 0, ys = d.y_std || 0, zs = d.z_std || 0;
+            var vib = Math.sqrt(xs*xs + ys*ys + zs*zs);
+            trajectoryData.push([xs, ys, zs, vib, i]);
+            vibIntensity.push(vib);
+        }
+
+        // Compute std of std for normal zone
+        var meanXs = 0, meanYs = 0, meanZs = 0;
+        for (var j = 0; j < src.length; j++) { meanXs += (src[j].x_std||0); meanYs += (src[j].y_std||0); meanZs += (src[j].z_std||0); }
+        meanXs /= src.length; meanYs /= src.length; meanZs /= src.length;
+        var stdX = 0, stdY = 0, stdZ = 0;
+        for (var j = 0; j < src.length; j++) {
+            stdX += Math.pow((src[j].x_std||0) - meanXs, 2);
+            stdY += Math.pow((src[j].y_std||0) - meanYs, 2);
+            stdZ += Math.pow((src[j].z_std||0) - meanZs, 2);
+        }
+        stdX = Math.sqrt(stdX / src.length); stdY = Math.sqrt(stdY / src.length); stdZ = Math.sqrt(stdZ / src.length);
+        // Use mean for center point and ellipsoid
+        var meanX = meanXs, meanY = meanYs, meanZ = meanZs;
+
+        // Generate normal zone ellipsoid as parametric surface
+        var normalZone = [];
+        var res = 16;
+        for (var u = 0; u <= res; u++) {
+            for (var v = 0; v <= res; v++) {
+                var theta = (u / res) * Math.PI;
+                var phi = (v / res) * 2 * Math.PI;
+                normalZone.push([
+                    meanX + stdX * 1.5 * Math.sin(theta) * Math.cos(phi),
+                    meanY + stdY * 1.5 * Math.sin(theta) * Math.sin(phi),
+                    meanZ + stdZ * 1.5 * Math.cos(theta)
+                ]);
+            }
+        }
+
+        var maxVib = Math.max.apply(null, vibIntensity.concat([0.5]));
+        var times = src.map(function(d) { return new Date(d.ts); });
+
+        c.setOption({
+            backgroundColor: 'transparent',
+            tooltip: {
+                formatter: function(p) {
+                    if (!p.data || p.seriesType === 'surface') return '';
+                    var d = p.data;
+                    var idx = Math.round(d[4] || 0);
+                    var timeStr = (idx >= 0 && idx < times.length)
+                        ? times[idx].toLocaleTimeString('ru-RU', {hour:'2-digit', minute:'2-digit', second:'2-digit'})
+                        : '--';
+                    return '<span style="color:#00D4AA;font-weight:600;">Время: ' + timeStr + '</span><br>'
+                         + 'X тряска бок.: <b>' + (d[0] != null ? d[0].toFixed(2) : '--') + '</b><br>'
+                         + 'Y тряска прод.: <b>' + (d[1] != null ? d[1].toFixed(2) : '--') + '</b><br>'
+                         + 'Z тряска верт.: <b>' + (d[2] != null ? d[2].toFixed(2) : '--') + '</b><br>'
+                         + 'Общая: <b>' + (d[3] != null ? d[3].toFixed(2) : '--') + '</b> m/s²';
+                }
+            },
+            visualMap: {
+                show: true, min: 0, max: maxVib, dimension: 3,
+                inRange: { color: ['#00D4AA', '#22d3ee', '#4ade80', '#f59e0b', '#ef4444'] },
+                textStyle: { color: '#aaa', fontFamily: 'SF Mono, monospace', fontSize: 10 },
+                right: 10, top: 10,
+                text: ['⚠ Тряска', '✓ Норма'], itemWidth: 10, itemHeight: isDetailed ? 140 : 80
+            },
+            grid3D: {
+                boxWidth: isDetailed ? 90 : 80,
+                boxHeight: isDetailed ? 60 : 50,
+                boxDepth: isDetailed ? 90 : 80,
+                viewControl: {
+                    distance: isDetailed ? 220 : 240,
+                    alpha: 25, beta: 40,
+                    autoRotate: true, autoRotateSpeed: 2,
+                    damping: 0.93
+                },
+                axisLine: { lineStyle: { color: 'rgba(0,212,170,0.15)' } },
+                axisLabel: { color: '#555', fontFamily: 'SF Mono, monospace', fontSize: 9 },
+                axisPointer: { lineStyle: { color: 'rgba(0,212,170,0.3)' } },
+                splitLine: { lineStyle: { color: 'rgba(0,212,170,0.04)' } },
+                environment: 'transparent',
+                light: {
+                    main: { intensity: 1.0, shadow: true, shadowQuality: 'medium', alpha: 40, beta: 30 },
+                    ambient: { intensity: 0.4 }
+                },
+                postEffect: { enable: isDetailed, bloom: { enable: true, intensity: 0.1 } }
+            },
+            xAxis3D: { type: 'value', name: 'X тряска бок.', nameTextStyle: { color: '#ef4444', fontSize: 11, fontWeight: 'bold' },
+                        axisLabel: { color: '#888', formatter: function(v) { return v.toFixed(1); } } },
+            yAxis3D: { type: 'value', name: 'Y тряска прод.', nameTextStyle: { color: '#4ade80', fontSize: 11, fontWeight: 'bold' },
+                        axisLabel: { color: '#888', formatter: function(v) { return v.toFixed(1); } } },
+            zAxis3D: { type: 'value', name: 'Z тряска верт.', nameTextStyle: { color: '#60a5fa', fontSize: 11, fontWeight: 'bold' },
+                        axisLabel: { color: '#888', formatter: function(v) { return v.toFixed(1); } } },
+            series: [
+                // Trajectory line
+                {
+                    type: 'line3D', data: trajectoryData,
+                    lineStyle: { width: isDetailed ? 3 : 2, opacity: 0.7 },
+                    animation: true, animationDurationUpdate: 500
+                },
+                // Scatter overlay
+                {
+                    type: 'scatter3D', data: trajectoryData,
+                    symbolSize: isDetailed
+                        ? function(val) { return 5 + (val[3] || 0) * 2; }
+                        : function(val) { return 3 + (val[3] || 0) * 0.8; },
+                    itemStyle: { opacity: isDetailed ? 0.85 : 0.6, borderWidth: 0 }
+                }
+            ].concat(isDetailed ? [
+                // Center point (only detailed)
+                {
+                    type: 'scatter3D',
+                    data: [[0, 0, 0, 0, 0]],
+                    symbolSize: 12,
+                    itemStyle: { color: '#00D4AA', opacity: 1, borderWidth: 2, borderColor: '#fff' },
+                    tooltip: { formatter: function() { return '<span style="color:#00D4AA;font-weight:700;">● Центр (0 = норма)</span><br>Отклонение от центра = тряска'; } }
+                },
+                // Normal zone ellipsoid (only detailed)
+                {
+                    type: 'surface',
+                    wireframe: { show: true, lineStyle: { color: 'rgba(0,212,170,0.15)', width: 0.8 } },
+                    itemStyle: { color: 'rgba(0,212,170,0.06)', opacity: 0.12 },
+                    shading: 'color',
+                    parametric: true,
+                    parametricEquation: {
+                        u: { min: 0, max: Math.PI, step: Math.PI / 14 },
+                        v: { min: 0, max: 2 * Math.PI, step: Math.PI / 14 },
+                        x: function(u, v) { return stdX * 1.8 * Math.sin(u) * Math.cos(v); },
+                        y: function(u, v) { return stdY * 1.8 * Math.sin(u) * Math.sin(v); },
+                        z: function(u, v) { return stdZ * 1.8 * Math.cos(u); }
+                    },
+                    silent: true
+                }
+            ] : [])
+        });
+    }
+
+    // ─── Tab renderers ───────────────────────────────────────────────
+
+    function renderOverview(data) {
+        const accel = safeArr(data.accel);
+        const pids  = safeArr(data.pids);
+
+        // 3D Vibration trajectory
+        render3DTrajectory('chart-accel3d', accel, false);
+
+        // Update overlay data cards on twin
+        var latestP = pids.length ? pids[pids.length - 1] : {};
+        var latestA = accel.length ? accel[accel.length - 1] : {};
+        var spd = latestP.speed || 0, rpm = latestP.rpm || 0, tmp = latestP.coolant || 0;
+        var xs = latestA.x_std || 0, ys = latestA.y_std || 0, zs = latestA.z_std || 0;
+        var vib = Math.sqrt(xs*xs + ys*ys + zs*zs);
+
+        var ovSpd = document.getElementById('ov-speed'); if (ovSpd) ovSpd.textContent = Math.round(spd);
+        var ovRpm = document.getElementById('ov-rpm'); if (ovRpm) ovRpm.textContent = Math.round(rpm);
+        var ovTmp = document.getElementById('ov-temp'); if (ovTmp) ovTmp.textContent = Math.round(tmp);
+        var ovVib = document.getElementById('ov-vib'); if (ovVib) ovVib.textContent = vib.toFixed(1);
+
+        // Status text + color
+        function setOvStatus(id, val, thresholds) {
+            var el = document.getElementById(id); if (!el) return;
+            for (var i = thresholds.length - 1; i >= 0; i--) {
+                if (val >= thresholds[i][0]) { el.textContent = thresholds[i][1]; el.style.color = thresholds[i][2]; return; }
+            }
+        }
+        setOvStatus('ov-speed-st', spd, [[0,'Стоянка','var(--status-normal)'],[1,'Движение','var(--accent)'],[140,'Быстро','var(--status-warning)'],[180,'Опасно','var(--status-alert)']]);
+        setOvStatus('ov-rpm-st', rpm, [[0,'Норма','var(--status-normal)'],[5000,'Высокие','var(--status-warning)'],[7000,'Критично','var(--status-alert)']]);
+        setOvStatus('ov-temp-st', tmp, [[0,'Холодно','#60a5fa'],[70,'Норма','var(--status-normal)'],[95,'Нагрев','var(--status-warning)'],[105,'Перегрев','var(--status-alert)']]);
+        setOvStatus('ov-vib-st', vib, [[0,'Норма','var(--status-normal)'],[2,'Повышена','var(--status-warning)'],[4,'Высокая','var(--status-alert)']]);
+
+        // Update Digital Twin health colors
+        if (window.__twin && window.__twin.updateHealth) {
+            var audio = safeArr(data.audio);
+            var lastAudio = audio.length ? audio[audio.length - 1] : null;
+            var audioQual = 0, audioQualCnt = 0;
+            audio.forEach(function(a) { if (a.quality != null) { audioQual += a.quality; audioQualCnt++; } });
+            var avgAudioQual = audioQualCnt ? audioQual / audioQualCnt : 50;
+
+            window.__twin.updateHealth({
+                engine: {
+                    status: tmp > 105 ? 'alert' : tmp > 95 ? 'warning' : (rpm > 0 || tmp > 0) ? 'ok' : 'unknown',
+                    value: tmp > 0 ? tmp + '°C' : (rpm > 0 ? rpm + ' об/м' : '')
+                },
+                suspension: {
+                    status: vib > 4 ? 'alert' : vib > 2 ? 'warning' : 'ok',
+                    value: vib.toFixed(1) + ' m/s²'
+                },
+                audio: {
+                    status: avgAudioQual < 40 ? 'alert' : avgAudioQual < 70 ? 'warning' : 'ok',
+                    value: Math.round(avgAudioQual) + '/100'
+                }
+            });
+        }
+
+        // Weather card
+        var lw = data.latest_weather;
+        if (lw) {
+            var wCard = document.getElementById('weather-card'); if (wCard) wCard.style.display = '';
+            var wTemp = document.getElementById('weather-temp'); if (wTemp) wTemp.textContent = lw.temp != null ? Math.round(lw.temp) : '--';
+            var wIcMap = {clear:'\u2600\uFE0F',mainly_clear:'\uD83C\uDF24\uFE0F',partly_cloudy:'\u26C5',overcast:'\u2601\uFE0F',slight_rain:'\uD83C\uDF26\uFE0F',moderate_rain:'\uD83C\uDF27\uFE0F'};
+            var wIc = document.getElementById('weather-icon'); if (wIc) wIc.textContent = wIcMap[lw.condition] || '\uD83C\uDF21\uFE0F';
+            var wCdMap = {clear:'Ясно',mainly_clear:'Ясно',partly_cloudy:'Облачно',overcast:'Пасмурно',slight_rain:'Дождь',moderate_rain:'Дождь',unknown:'Н/Д'};
+            var wCd = document.getElementById('weather-cond'); if (wCd) wCd.textContent = wCdMap[lw.condition] || '';
+        }
+
+        // Sparklines
+        const recentPids = pids.slice(-50);
+        const rpmData = [], spdData = [];
+        for (var si = 0; si < recentPids.length; si++) {
+            var sp = recentPids[si], st = new Date(sp.ts).getTime();
+            if (isNaN(st)) continue;
+            if (sp.rpm != null) rpmData.push([st, sp.rpm]);
+            if (sp.speed != null) spdData.push([st, sp.speed]);
+        }
+        renderSparkline('chart-spark-rpm', rpmData, null, 'rgb(212,212,224)');
+        renderSparkline('chart-spark-speed', spdData, null, 'rgb(0,212,170)');
+        var rpmLastEl = document.getElementById('spark-rpm-last');
+        if (rpmLastEl) rpmLastEl.textContent = rpmData.length ? Math.round(rpmData[rpmData.length-1][1]) + ' об/мин' : '--';
+        var spdLastEl = document.getElementById('spark-speed-last');
+        if (spdLastEl) spdLastEl.textContent = spdData.length ? Math.round(spdData[spdData.length-1][1]) + ' км/ч' : '--';
+    }
+
+    function renderEngine(data) {
+        const pids = safeArr(data.pids);
+
+        // Convert timestamps to ms for ECharts time axis
+        function toMs(ts) { return ts ? new Date(ts).getTime() : null; }
+
+        // Prepare per-metric data (filter nulls, convert ts)
+        var rpmData = [], spdData = [], coolData = [], loadData = [], thrData = [];
+        for (var i = 0; i < pids.length; i++) {
+            var d = pids[i], t = toMs(d.ts);
+            if (t == null) continue;
+            if (d.rpm != null) rpmData.push([t, d.rpm]);
+            if (d.speed != null) spdData.push([t, d.speed]);
+            if (d.coolant != null) coolData.push([t, d.coolant]);
+            if (d.load != null) loadData.push([t, d.load]);
+            if (d.throttle != null) thrData.push([t, d.throttle]);
+        }
+
+        // 5-pane multi-grid chart
+        var c = initChart('chart-engine-multi');
+        if (!c) return;
+
+        var paneH = 17; // % height per pane
+        var gap = 3;
+        var panels = [
+            { name: 'Обороты',     unit: 'об/мин', color: '#c0c0cc', data: rpmData },
+            { name: 'Скорость',    unit: 'км/ч',   color: '#60a5fa', data: spdData },
+            { name: 'Температура', unit: '°C',     color: '#ef4444', data: coolData },
+            { name: 'Нагрузка',    unit: '%',      color: '#f59e0b', data: loadData },
+            { name: 'Дроссель',    unit: '%',      color: '#a78bfa', data: thrData }
+        ];
+
+        var grids = [], xAxes = [], yAxes = [], series = [];
+        var dzXAxisIdx = [];
+
+        for (var p = 0; p < panels.length; p++) {
+            var topPct = p * (paneH + gap) + 2;
+            grids.push({ left: 70, right: 30, top: topPct + '%', height: paneH + '%' });
+
+            xAxes.push({
+                type: 'time', gridIndex: p,
+                axisLine: { lineStyle: { color: '#2a2a35' } },
+                axisLabel: p === panels.length - 1
+                    ? { color: '#555', fontSize: 10, formatter: '{MM}-{dd} {HH}:{mm}' }
+                    : { show: false },
+                axisTick: { show: p === panels.length - 1 },
+                splitLine: { show: false }
+            });
+
+            yAxes.push({
+                type: 'value', gridIndex: p, name: panels[p].name,
+                nameTextStyle: { color: panels[p].color, fontSize: 10, padding: [0, 40, 0, 0] },
+                nameLocation: 'middle', nameGap: 50,
+                axisLine: { lineStyle: { color: '#2a2a35' } },
+                axisLabel: { color: '#555', fontSize: 10 },
+                splitLine: { lineStyle: { color: '#1a1a24' } },
+                scale: true
+            });
+
+            series.push({
+                name: panels[p].name, type: 'line', symbol: 'none',
+                xAxisIndex: p, yAxisIndex: p,
+                data: panels[p].data, sampling: 'lttb',
+                lineStyle: { width: 1.5, color: panels[p].color },
+                areaStyle: {
+                    color: new echarts.graphic.LinearGradient(0, 0, 0, 1, [
+                        { offset: 0, color: panels[p].color.replace('#', 'rgba(') ? panels[p].color + '1a' : 'transparent' },
+                        { offset: 1, color: 'transparent' }
+                    ])
+                },
+                connectNulls: false
+            });
+
+            dzXAxisIdx.push(p);
+        }
+
+        // Fix area gradient — use proper rgba
+        for (var s = 0; s < series.length; s++) {
+            var hex = panels[s].color;
+            var r = parseInt(hex.slice(1,3), 16);
+            var g = parseInt(hex.slice(3,5), 16);
+            var b = parseInt(hex.slice(5,7), 16);
+            series[s].areaStyle = {
+                color: new echarts.graphic.LinearGradient(0, 0, 0, 1, [
+                    { offset: 0, color: 'rgba(' + r + ',' + g + ',' + b + ',0.08)' },
+                    { offset: 1, color: 'rgba(' + r + ',' + g + ',' + b + ',0)' }
+                ])
+            };
+        }
+
+        c.setOption({
+            backgroundColor: 'transparent',
+            tooltip: {
+                trigger: 'axis', backgroundColor: '#111116', borderColor: '#1e1e28',
+                textStyle: { color: '#c0c0cc', fontSize: 11 },
+                axisPointer: { type: 'line', lineStyle: { color: '#333' } }
+            },
+            axisPointer: { link: [{ xAxisIndex: 'all' }] },
+            grid: grids,
+            xAxis: xAxes,
+            yAxis: yAxes,
+            dataZoom: [
+                { type: 'slider', xAxisIndex: dzXAxisIdx, bottom: 5, height: 18,
+                  borderColor: '#1e1e28', backgroundColor: '#0a0a0f',
+                  fillerColor: 'rgba(212,212,224,0.06)',
+                  handleStyle: { color: '#555' }, textStyle: { color: '#555' },
+                  dataBackground: { lineStyle: { color: '#333' }, areaStyle: { color: '#1a1a24' } } },
+                { type: 'inside', xAxisIndex: dzXAxisIdx }
+            ],
+            series: series
+        });
+
+        // Mini metrics
+        const last = pids.length ? pids[pids.length - 1] : {};
+        document.getElementById('mm-fuel').textContent    = last.fuel != null ? last.fuel : '--';
+        document.getElementById('mm-voltage').textContent = last.voltage != null ? (last.voltage / 1000).toFixed(1) : '--';
+        document.getElementById('mm-runtime').textContent = last.runtime != null ? formatRuntime(last.runtime) : '--';
+        document.getElementById('mm-ambient').textContent = last.ambient_temp != null ? last.ambient_temp : '--';
+
+        // Fetch maintenance data (wear + heatmap + baseline + sankey)
+        fetchMaintenance();
+        // Load DTC knowledge base
+        loadDTCData();
+    }
+
+    function fetchMaintenance() {
+        var clientEl = document.getElementById('client-select');
+        var client = clientEl ? clientEl.value : '';
+        fetch('/api/maintenance/' + (client ? '?client=' + encodeURIComponent(client) : ''))
+            .then(function(r) { return r.json(); })
+            .then(function(m) { renderMaintenance(m); })
+            .catch(function(e) { console.error('Maintenance API error:', e); });
+    }
+
+    function renderMaintenance(m) {
+        // Wear bars
+        function setWear(id, pct) {
+            var fill = document.getElementById(id);
+            var pctEl = document.getElementById(id + '-pct');
+            if (!fill || !pctEl) return;
+            fill.style.width = pct + '%';
+            fill.style.background = pct > 60 ? 'var(--status-normal)' : pct > 30 ? 'var(--status-warning)' : 'var(--status-alert)';
+            pctEl.textContent = pct + '%';
+            pctEl.style.color = pct > 60 ? 'var(--status-normal)' : pct > 30 ? 'var(--status-warning)' : 'var(--status-alert)';
+        }
+        if (m.wear) {
+            setWear('wear-oil', m.wear.oil.remaining_pct);
+            setWear('wear-brakes', m.wear.brakes.remaining_pct);
+            setWear('wear-filter', m.wear.filter.remaining_pct);
+        }
+
+        // Baseline comparison
+        var blEl = document.getElementById('baseline-values');
+        if (blEl && m.baseline) {
+            var b = m.baseline;
+            var items = [];
+            if (b.rpm != null) items.push('<span>RPM: <strong>' + b.rpm + '</strong></span>');
+            if (b.speed != null) items.push('<span>Скорость: <strong>' + b.speed + '</strong> км/ч</span>');
+            if (b.coolant != null) items.push('<span>Темп: <strong>' + b.coolant + '</strong>°C</span>');
+            if (b.voltage != null) items.push('<span>Напряж: <strong>' + b.voltage + '</strong>В</span>');
+            if (b.vibration != null) items.push('<span>Вибрация: <strong>' + b.vibration + '</strong> m/s²</span>');
+            items.push('<span>Наработка: <strong>' + m.runtime_hours + '</strong>ч</span>');
+            blEl.innerHTML = items.join('');
+        }
+
+        // Heatmap: speed vs vibration over time
+        var hmChart = initChart('chart-heatmap');
+        if (hmChart && m.heatmap && m.heatmap.length) {
+            var hours = m.heatmap.map(function(d) { return d.hour.replace('T', ' ').substring(5, 13); });
+            var hmData = m.heatmap.map(function(d, i) { return [i, 0, d.vibration]; });
+            hmChart.setOption({
+                backgroundColor: 'transparent',
+                tooltip: { formatter: function(p) { return hours[p.data[0]] + '<br>Вибрация: ' + p.data[2] + ' m/s²'; } },
+                grid: { left: 50, right: 20, top: 10, bottom: 30 },
+                xAxis: { type: 'category', data: hours, axisLabel: { color: '#555', fontSize: 9, rotate: 30 }, ...AXIS_STYLE },
+                yAxis: { type: 'category', data: ['Вибрация'], axisLabel: { color: '#555', fontSize: 10 }, ...AXIS_STYLE },
+                visualMap: { min: 0, max: 10, show: false, inRange: { color: ['#1a1a3e', '#4ade80', '#f59e0b', '#ef4444'] } },
+                series: [{ type: 'heatmap', data: hmData, itemStyle: { borderRadius: 3 }, emphasis: { itemStyle: { borderColor: '#fff', borderWidth: 1 } } }]
+            });
+        }
+
+        // Sankey: system dependencies
+        var skChart = initChart('chart-sankey');
+        if (skChart) {
+            skChart.setOption({
+                backgroundColor: 'transparent',
+                tooltip: { trigger: 'item' },
+                series: [{
+                    type: 'sankey',
+                    layout: 'none',
+                    emphasis: { focus: 'adjacency' },
+                    nodeAlign: 'left',
+                    lineStyle: { color: 'gradient', curveness: 0.5, opacity: 0.3 },
+                    label: { color: '#aaa', fontSize: 11 },
+                    data: [
+                        { name: 'Топливо', itemStyle: { color: '#f59e0b' } },
+                        { name: 'Двигатель', itemStyle: { color: '#ef4444' } },
+                        { name: 'Генератор', itemStyle: { color: '#60a5fa' } },
+                        { name: 'Электрика', itemStyle: { color: '#a78bfa' } },
+                        { name: 'Подвеска', itemStyle: { color: '#4ade80' } },
+                        { name: 'Выхлоп', itemStyle: { color: '#f97316' } },
+                        { name: 'Охлаждение', itemStyle: { color: '#22d3ee' } },
+                        { name: 'Аудио', itemStyle: { color: '#c084fc' } },
+                    ],
+                    links: [
+                        { source: 'Топливо', target: 'Двигатель', value: 10 },
+                        { source: 'Двигатель', target: 'Генератор', value: 8 },
+                        { source: 'Двигатель', target: 'Выхлоп', value: 7 },
+                        { source: 'Двигатель', target: 'Охлаждение', value: 6 },
+                        { source: 'Генератор', target: 'Электрика', value: 8 },
+                        { source: 'Электрика', target: 'Аудио', value: 3 },
+                        { source: 'Двигатель', target: 'Подвеска', value: 4 },
+                    ]
+                }]
+            });
+        }
+    }
+
+    function formatRuntime(seconds) {
+        if (seconds == null) return '--';
+        const h = Math.floor(seconds / 3600);
+        const m = Math.floor((seconds % 3600) / 60);
+        return h > 0 ? h + 'ч ' + m + 'м' : m + 'м';
+    }
+
+    // Sub-tab switcher for suspension
+    window.switchSuspTab = function(tab) {
+        document.querySelectorAll('[data-susptab]').forEach(function(b) { b.classList.toggle('active', b.dataset.susptab === tab); });
+        document.querySelectorAll('.susp-sub').forEach(function(s) { s.classList.remove('active-sub'); s.style.display = 'none'; });
+        var target = document.getElementById('susp-sub-' + tab);
+        if (target) { target.classList.add('active-sub'); target.style.display = 'block'; }
+        // Resize charts on tab switch (they need re-render when becoming visible)
+        setTimeout(function() { Object.values(charts).forEach(function(c) { if (c && c.resize) c.resize(); }); }, 100);
+    };
+
+    function renderSuspension(data) {
+        const accel = safeArr(data.accel);
+        var el = function(id) { return document.getElementById(id); };
+
+        // ── Diagnostic status + stats ──
+        if (accel.length) {
+            var sumX = 0, sumY = 0, sumZ = 0, cnt = 0;
+            for (var si = 0; si < accel.length; si++) {
+                sumX += (accel[si].x_std || 0);
+                sumY += (accel[si].y_std || 0);
+                sumZ += (accel[si].z_std || 0);
+                cnt++;
+            }
+            var avgX = cnt ? sumX / cnt : 0, avgY = cnt ? sumY / cnt : 0, avgZ = cnt ? sumZ / cnt : 0;
+            var totalVib = Math.sqrt(avgX*avgX + avgY*avgY + avgZ*avgZ);
+
+            // Status card
+            var icon, title, desc, color;
+            if (totalVib < 1.5) {
+                icon = '✅'; title = 'Подвеска в норме'; color = 'var(--status-normal)';
+                desc = 'Уровень вибрации в пределах нормы (<1.5 m/s²). Амортизаторы, сайлентблоки и ступичные подшипники работают штатно.';
+            } else if (totalVib < 3) {
+                icon = '⚠️'; title = 'Вибрация повышена'; color = 'var(--status-warning)';
+                desc = 'Вибрация выше нормы (' + totalVib.toFixed(1) + ' m/s²). Возможные причины: неровная дорога, начальный износ амортизаторов или разбалансировка колёс. Рекомендуется наблюдение.';
+            } else {
+                icon = '🔴'; title = 'Вибрация высокая'; color = 'var(--status-alert)';
+                desc = 'Вибрация значительно выше нормы (' + totalVib.toFixed(1) + ' m/s²). Возможные причины: износ амортизаторов, повреждённые сайлентблоки, разбалансировка колёс, неровная дорога. Рекомендуется диагностика подвески.';
+            }
+            // Dominant axis explanation
+            var domAxis = avgX > avgY && avgX > avgZ ? 'боковая (X)' : avgY > avgZ ? 'продольная (Y)' : 'вертикальная (Z)';
+            var domExpl = avgX > avgY && avgX > avgZ ? 'Сильнее всего трясёт в стороны — возможно колея, износ стоек стабилизатора или рулевых наконечников.'
+                        : avgY > avgZ ? 'Сильнее всего трясёт вдоль — рывки при разгоне/торможении, возможен износ опор двигателя или тормозных дисков.'
+                        : 'Сильнее всего трясёт вертикально — ямы на дороге, износ амортизаторов или пружин.';
+            desc += ' ' + domExpl;
+
+            if (el('susp-status-icon')) el('susp-status-icon').textContent = icon;
+            if (el('susp-status-title')) { el('susp-status-title').textContent = title; el('susp-status-title').style.color = color; }
+            if (el('susp-status-desc')) el('susp-status-desc').textContent = desc;
+            if (el('susp-vib-big')) { el('susp-vib-big').textContent = totalVib.toFixed(1); el('susp-vib-big').style.color = color; }
+
+            // Stat cards
+            if (el('ss-x-vib')) el('ss-x-vib').textContent = avgX.toFixed(2);
+            if (el('ss-y-vib')) el('ss-y-vib').textContent = avgY.toFixed(2);
+            if (el('ss-z-vib')) el('ss-z-vib').textContent = avgZ.toFixed(2);
+            var xBar = el('ss-x-bar'), yBar = el('ss-y-bar'), zBar = el('ss-z-bar');
+            if (xBar) xBar.style.width = Math.min(avgX / 5 * 100, 100) + '%';
+            if (yBar) yBar.style.width = Math.min(avgY / 5 * 100, 100) + '%';
+            if (zBar) zBar.style.width = Math.min(avgZ / 5 * 100, 100) + '%';
+        }
+
+        // 3D Trajectory (rendered even if hidden — will resize on tab switch)
+        render3DTrajectory('chart-susp-accel3d', accel, true);
+
+        // Vibration by axes (stacked area)
+        const c1 = initChart('chart-vib-axes');
+        if (c1) {
+            c1.setOption({
+                backgroundColor: 'transparent',
+                tooltip: { trigger: 'axis', backgroundColor: '#111116', borderColor: '#1e1e28',
+                           textStyle: { color: '#c0c0cc', fontSize: 12 } },
+                legend: { data: ['X бок.', 'Y прод.', 'Z верт.'], textStyle: { color: '#888' }, top: 0 },
+                grid: { left: 55, right: 20, top: 35, bottom: 65 },
+                xAxis: { type: 'time', ...AXIS_STYLE,
+                    axisLabel: { color: '#aaa', fontSize: 11, formatter: function(v) {
+                        return new Date(v).toLocaleTimeString('ru-RU', {hour:'2-digit', minute:'2-digit'});
+                    }}
+                },
+                yAxis: { type: 'value', name: 'm/s²', nameTextStyle: { color: '#888' }, ...AXIS_STYLE },
+                dataZoom: [{ ...DATAZOOM_STYLE, xAxisIndex: [0], bottom: 8 }, { type: 'inside', xAxisIndex: [0] }],
+                series: [
+                    { name: 'X бок.', type: 'line', stack: 'vib', symbol: 'none',
+                      sampling: 'lttb',
+                      data: accel.map(d => [d.ts, d.x_std || 0]),
+                      lineStyle: { width: 2, color: '#ef4444', shadowColor: 'rgba(239,68,68,0.3)', shadowBlur: 8 },
+                      areaStyle: {
+                          color: new echarts.graphic.LinearGradient(0, 0, 0, 1, [
+                              { offset: 0, color: 'rgba(239,68,68,0.2)' },
+                              { offset: 1, color: 'rgba(239,68,68,0.05)' }
+                          ])
+                      }
+                    },
+                    { name: 'Y прод.', type: 'line', stack: 'vib', symbol: 'none',
+                      sampling: 'lttb',
+                      data: accel.map(d => [d.ts, d.y_std || 0]),
+                      lineStyle: { width: 2, color: '#4ade80', shadowColor: 'rgba(74,222,128,0.3)', shadowBlur: 8 },
+                      areaStyle: {
+                          color: new echarts.graphic.LinearGradient(0, 0, 0, 1, [
+                              { offset: 0, color: 'rgba(74,222,128,0.2)' },
+                              { offset: 1, color: 'rgba(74,222,128,0.05)' }
+                          ])
+                      }
+                    },
+                    { name: 'Z верт.', type: 'line', stack: 'vib', symbol: 'none',
+                      sampling: 'lttb',
+                      data: accel.map(d => [d.ts, d.z_std || 0]),
+                      lineStyle: { width: 2, color: '#60a5fa', shadowColor: 'rgba(96,165,250,0.3)', shadowBlur: 8 },
+                      areaStyle: {
+                          color: new echarts.graphic.LinearGradient(0, 0, 0, 1, [
+                              { offset: 0, color: 'rgba(96,165,250,0.2)' },
+                              { offset: 1, color: 'rgba(96,165,250,0.05)' }
+                          ])
+                      }
+                    }
+                ]
+            });
+        }
+
+        // Min/Max corridor (Z axis)
+        const c2 = initChart('chart-minmax');
+        if (c2) {
+            c2.setOption({
+                backgroundColor: 'transparent',
+                tooltip: { trigger: 'axis', backgroundColor: '#111116', borderColor: '#1e1e28',
+                           textStyle: { color: '#c0c0cc', fontSize: 12 } },
+                legend: { data: ['Z мин', 'Z макс', 'Z'], textStyle: { color: '#888' }, top: 0 },
+                grid: { left: 55, right: 20, top: 35, bottom: 65 },
+                xAxis: { type: 'time', ...AXIS_STYLE,
+                    axisLabel: { color: '#aaa', fontSize: 11, formatter: function(v) {
+                        return new Date(v).toLocaleTimeString('ru-RU', {hour:'2-digit', minute:'2-digit'});
+                    }}
+                },
+                yAxis: { type: 'value', name: 'm/s²', nameTextStyle: { color: '#888' }, ...AXIS_STYLE },
+                dataZoom: [{ ...DATAZOOM_STYLE, xAxisIndex: [0], bottom: 8 }, { type: 'inside', xAxisIndex: [0] }],
+                series: [
+                    { name: 'Z мин', type: 'line', data: accel.filter(d => d.z_min != null).map(d => [d.ts, d.z_min]),
+                      symbol: 'none', sampling: 'lttb',
+                      lineStyle: { width: 1.5, color: 'rgba(96,165,250,0.4)', type: 'dashed' },
+                      areaStyle: { color: 'transparent' } },
+                    { name: 'Z макс', type: 'line', data: accel.filter(d => d.z_max != null).map(d => [d.ts, d.z_max]),
+                      symbol: 'none', sampling: 'lttb',
+                      lineStyle: { width: 1.5, color: 'rgba(96,165,250,0.4)', type: 'dashed' },
+                      areaStyle: { color: 'rgba(96,165,250,0.06)' } },
+                    { name: 'Z', type: 'line', symbol: 'none', sampling: 'lttb', smooth: true,
+                      data: (function() {
+                          // Use shape data (s1-s4) for smooth 4x resolution curve
+                          var pts = [];
+                          for (var si = 0; si < accel.length; si++) {
+                              var d = accel[si], t = new Date(d.ts).getTime();
+                              var dt = si < accel.length - 1 ? (new Date(accel[si+1].ts).getTime() - t) / 4 : 750;
+                              if (d.z_s1 != null) {
+                                  pts.push([t, d.z_s1]);
+                                  pts.push([t + dt, d.z_s2]);
+                                  pts.push([t + dt*2, d.z_s3]);
+                                  pts.push([t + dt*3, d.z_s4]);
+                              } else if (d.z != null) {
+                                  pts.push([t, d.z]);
+                              }
+                          }
+                          return pts;
+                      })(),
+                      lineStyle: { width: 2, color: '#60a5fa', shadowColor: 'rgba(96,165,250,0.35)', shadowBlur: 10 },
+                      areaStyle: {
+                          color: new echarts.graphic.LinearGradient(0, 0, 0, 1, [
+                              { offset: 0, color: 'rgba(96,165,250,0.15)' },
+                              { offset: 1, color: 'rgba(96,165,250,0)' }
+                          ])
+                      }
+                    }
+                ]
+            });
+        }
+
+        // Sync DataZoom between suspension charts
+        syncDataZoom('chart-vib-axes', 'chart-minmax');
+    }
+
+    function syncDataZoom(idA, idB) {
+        var a = charts[idA], b = charts[idB];
+        if (!a || !b) return;
+        var syncing = false;
+        a.on('datazoom', function(e) {
+            if (syncing) return; syncing = true;
+            b.dispatchAction({ type: 'dataZoom', start: e.start, end: e.end });
+            syncing = false;
+        });
+        b.on('datazoom', function(e) {
+            if (syncing) return; syncing = true;
+            a.dispatchAction({ type: 'dataZoom', start: e.start, end: e.end });
+            syncing = false;
+        });
+    }
+
+    // ─── Audio helpers ─────────────────────────────────────────────
+
+    function renderAudio(data) {
+        const audio = safeArr(data.audio);
+        const last = audio.length ? audio[audio.length - 1] : null;
+        var el = function(id) { return document.getElementById(id); };
+        if (!audio.length) return;
+
+        // ── Status card + sound bars ──
+        var qualSum = 0, qualCnt = 0;
+        audio.forEach(function(a) { if (a.quality != null) { qualSum += a.quality; qualCnt++; } });
+        var avgQual = qualCnt ? qualSum / qualCnt : 0;
+
+        // Classify: all freqs are 50-290Hz = engine/road. No high freq = no bearing/belt issues
+        var hasHighFreq = false;
+        if (last && last.freqs) {
+            last.freqs.forEach(function(f) { if (f[0] > 500) hasHighFreq = true; });
+        }
+
+        var statusIcon = hasHighFreq ? '⚠️' : '✅';
+        var statusTitle = hasHighFreq ? 'Обнаружены нетипичные частоты' : 'Звуковой фон в норме';
+        var statusColor = hasHighFreq ? 'var(--status-warning)' : 'var(--status-normal)';
+        var statusDesc = hasHighFreq
+            ? 'Микрофон зафиксировал высокочастотные звуки (>500 Гц). Это может указывать на износ подшипников или ремня. Рекомендуется проверка.'
+            : 'Микрофон слышит только низкочастотный гул двигателя и дороги (50–290 Гц). Высокочастотных аномалий (свист, скрежет) не обнаружено. Качество записи: ' + Math.round(avgQual) + '/100.';
+
+        if (el('audio-status-icon')) el('audio-status-icon').textContent = statusIcon;
+        if (el('audio-status-title')) { el('audio-status-title').textContent = statusTitle; el('audio-status-title').style.color = statusColor; }
+        if (el('audio-status-desc')) el('audio-status-desc').textContent = statusDesc;
+        if (el('audio-quality-big')) {
+            el('audio-quality-big').textContent = Math.round(avgQual);
+            el('audio-quality-big').style.color = avgQual > 70 ? 'var(--status-normal)' : avgQual > 40 ? 'var(--status-warning)' : 'var(--status-alert)';
+        }
+
+        // ── MAIN: 4 sound zones over time ──
+        var cMain = initChart('chart-audio-main');
+        if (cMain) {
+            var bands = [
+                { name: 'Дорога (<100 Гц)', color: '#60a5fa', min: 0, max: 100, data: [] },
+                { name: 'Двигатель (100–300 Гц)', color: '#4ade80', min: 100, max: 300, data: [] },
+                { name: 'Навесное (300–1000 Гц)', color: '#f59e0b', min: 300, max: 1000, data: [] },
+                { name: 'Шум (>1000 Гц)', color: '#ef4444', min: 1000, max: 99999, data: [] }
+            ];
+            // Compute raw sums per band
+            var rawBands = [[], [], [], []];
+            for (var ai = 0; ai < audio.length; ai++) {
+                var a = audio[ai], sums = [0, 0, 0, 0];
+                if (a.freqs) a.freqs.forEach(function(f) {
+                    var amp = Math.abs(f[1] || 0);
+                    for (var bi = 0; bi < bands.length; bi++) {
+                        if (f[0] >= bands[bi].min && f[0] < bands[bi].max) { sums[bi] += amp; break; }
+                    }
+                });
+                for (var bi = 0; bi < 4; bi++) rawBands[bi].push({ ts: a.ts, v: sums[bi] });
+            }
+            // Moving average (window=10) + downsample
+            var win = 10;
+            var step = audio.length > 400 ? Math.ceil(audio.length / 400) : 1;
+            for (var bi = 0; bi < 4; bi++) {
+                var raw = rawBands[bi];
+                for (var ai = 0; ai < raw.length; ai += step) {
+                    var sum = 0, cnt = 0;
+                    for (var wi = Math.max(0, ai - win); wi <= Math.min(raw.length - 1, ai + win); wi++) {
+                        sum += raw[wi].v; cnt++;
+                    }
+                    bands[bi].data.push([raw[ai].ts, Math.round(sum / cnt)]);
+                }
+            }
+
+            cMain.setOption({
+                backgroundColor: 'transparent',
+                tooltip: {
+                    trigger: 'axis', backgroundColor: '#111116', borderColor: 'rgba(0,212,170,0.15)',
+                    textStyle: { color: '#c0c0cc', fontSize: 11 }
+                },
+                legend: {
+                    data: bands.map(function(b) { return b.name; }),
+                    top: 0, textStyle: { color: '#888', fontSize: 10 }, itemWidth: 12, itemHeight: 8
+                },
+                grid: { left: 55, right: 20, top: 35, bottom: 65 },
+                xAxis: { type: 'time', ...AXIS_STYLE,
+                    axisLabel: { color: '#aaa', fontSize: 11, formatter: function(v) {
+                        var d = new Date(v);
+                        return d.toLocaleTimeString('ru-RU', {hour:'2-digit', minute:'2-digit'});
+                    }}
+                },
+                yAxis: { type: 'value', name: 'Громкость', max: 12000, nameTextStyle: { color: '#888', fontSize: 10 }, ...AXIS_STYLE },
+                dataZoom: [{ ...DATAZOOM_STYLE, xAxisIndex: [0], bottom: 8 }, { type: 'inside', xAxisIndex: [0] }],
+                series: bands.map(function(b) {
+                    return {
+                        name: b.name, type: 'line', symbol: 'none', sampling: 'lttb', smooth: true,
+                        data: b.data,
+                        lineStyle: { width: 2, color: b.color, shadowColor: b.color + '40', shadowBlur: 6 },
+                        areaStyle: { color: new echarts.graphic.LinearGradient(0, 0, 0, 1, [
+                            { offset: 0, color: b.color + '25' }, { offset: 1, color: b.color + '03' }
+                        ]) }
+                    };
+                })
+            });
+        }
+
+        // ── Aggregated horizontal bars by sound zone ──
+        var barsEl = el('audio-bars');
+        if (barsEl && last && last.freqs && last.freqs.length) {
+            var zones = [
+                { name: 'Низкий гул (дорога)', color: '#60a5fa', min: 0, max: 80, sum: 0, count: 0, freqs: [] },
+                { name: 'Гул двигателя', color: '#4ade80', min: 80, max: 150, sum: 0, count: 0, freqs: [] },
+                { name: 'Трансмиссия', color: '#22d3ee', min: 150, max: 300, sum: 0, count: 0, freqs: [] },
+                { name: 'Навесное оборудование', color: '#f59e0b', min: 300, max: 600, sum: 0, count: 0, freqs: [] },
+                { name: 'Подшипники / клапаны', color: '#f97316', min: 600, max: 2000, sum: 0, count: 0, freqs: [] },
+                { name: 'Высокочаст. шум', color: '#ef4444', min: 2000, max: 99999, sum: 0, count: 0, freqs: [] }
+            ];
+            last.freqs.forEach(function(f) {
+                var hz = f[0], amp = Math.abs(f[1] || 0);
+                for (var zi = 0; zi < zones.length; zi++) {
+                    if (hz >= zones[zi].min && hz < zones[zi].max) {
+                        zones[zi].sum += amp;
+                        zones[zi].count++;
+                        zones[zi].freqs.push(hz);
+                        break;
+                    }
+                }
+            });
+
+            // Filter out empty zones and sort by loudness
+            var active = zones.filter(function(z) { return z.count > 0; });
+            active.sort(function(a, b) { return b.sum - a.sum; });
+            var maxSum = active.length ? active[0].sum : 1;
+
+            var html = '';
+            active.forEach(function(z) {
+                var pct = Math.round(z.sum / maxSum * 100);
+                var freqStr = z.freqs.sort(function(a,b){return a-b;}).join(', ') + ' Гц';
+                html += '<div style="margin-bottom:10px;">'
+                    + '<div style="display:flex;justify-content:space-between;align-items:baseline;margin-bottom:3px;">'
+                    + '<span style="font-size:12px;color:' + z.color + ';font-weight:600;">' + z.name + '</span>'
+                    + '<span style="font-size:9px;color:var(--text-secondary);font-family:SF Mono,monospace;">' + freqStr + '</span>'
+                    + '</div>'
+                    + '<div style="height:22px;background:rgba(255,255,255,0.03);border-radius:6px;overflow:hidden;position:relative;">'
+                    + '<div style="height:100%;width:' + pct + '%;background:linear-gradient(90deg,' + z.color + '50,' + z.color + ');border-radius:6px;transition:width 0.5s;box-shadow:0 0 10px ' + z.color + '25;display:flex;align-items:center;justify-content:flex-end;padding-right:8px;">'
+                    + '<span style="font-size:10px;color:#fff;font-weight:700;font-family:SF Mono,monospace;text-shadow:0 1px 3px rgba(0,0,0,0.5);">' + z.sum + '</span>'
+                    + '</div>'
+                    + '</div>'
+                    + '</div>';
+            });
+            barsEl.innerHTML = html;
+        }
+
+        // ── Bar chart: individual frequencies ──
+        const c1 = initChart('chart-spectrum');
+        if (c1 && last && last.freqs) {
+            var sortedF = last.freqs.slice().sort(function(a,b) { return a[0] - b[0]; });
+            c1.setOption({
+                backgroundColor: 'transparent',
+                tooltip: {
+                    trigger: 'axis', backgroundColor: '#111116', borderColor: 'rgba(0,212,170,0.15)',
+                    textStyle: { color: '#c0c0cc', fontSize: 11, fontFamily: 'SF Mono, monospace' },
+                    formatter: function(params) {
+                        var p = params[0];
+                        var hz = sortedF[p.dataIndex] ? sortedF[p.dataIndex][0] : 0;
+                        var src = hz < 80 ? 'Дорога' : hz < 150 ? 'Двигатель' : hz < 300 ? 'Трансмиссия' : hz < 600 ? 'Навесное' : hz < 2000 ? 'Подшипники' : 'Шум';
+                        return '<b>' + hz + ' Гц</b> — ' + src + '<br>Громкость: <b>' + p.value + '</b>';
+                    }
+                },
+                grid: { left: 50, right: 10, top: 10, bottom: 40 },
+                xAxis: { type: 'category', data: sortedF.map(function(f) { return f[0] + ''; }), ...AXIS_STYLE,
+                         axisLabel: { color: '#666', fontSize: 9, fontFamily: 'SF Mono, monospace' },
+                         name: 'Гц', nameTextStyle: { color: '#555', fontSize: 9 }, nameLocation: 'end' },
+                yAxis: { type: 'value', name: 'Громкость', nameTextStyle: { color: '#555', fontSize: 9 }, ...AXIS_STYLE },
+                series: [{
+                    type: 'bar', barWidth: '60%',
+                    data: sortedF.map(function(f) {
+                        var hz = f[0], clr = hz < 80 ? '#60a5fa' : hz < 150 ? '#4ade80' : hz < 300 ? '#22d3ee' : hz < 600 ? '#f59e0b' : hz < 2000 ? '#f97316' : '#ef4444';
+                        return { value: Math.abs(f[1] || 0), itemStyle: { color: clr, borderRadius: [4,4,0,0] } };
+                    })
+                }]
+            });
+        }
+
+        // ── Quality timeline ──
+        const c2 = initChart('chart-audio-timeline');
+        if (c2 && audio.length) {
+            c2.setOption({
+                backgroundColor: 'transparent',
+                tooltip: { trigger: 'axis', backgroundColor: '#111116', borderColor: 'rgba(0,212,170,0.15)',
+                           textStyle: { color: '#c0c0cc', fontSize: 11, fontFamily: 'SF Mono, monospace' } },
+                grid: { left: 50, right: 20, top: 30, bottom: 50 },
+                xAxis: { type: 'time', ...AXIS_STYLE },
+                yAxis: { type: 'value', name: 'Качество 0-100', min: 0, max: 100,
+                         nameTextStyle: { color: '#555', fontSize: 10 }, ...AXIS_STYLE },
+                dataZoom: [{ ...DATAZOOM_STYLE, xAxisIndex: [0] }, { type: 'inside', xAxisIndex: [0] }],
+                series: [
+                    { name: 'Зоны', type: 'line', data: [], markArea: {
+                        silent: true, data: [
+                            [{ yAxis: 70, itemStyle: { color: 'rgba(74,222,128,0.05)' }, label: { show: true, position: 'insideRight', formatter: 'Хорошо', color: '#4ade8040', fontSize: 9 } }, { yAxis: 100 }],
+                            [{ yAxis: 40, itemStyle: { color: 'rgba(245,158,11,0.04)' }, label: { show: true, position: 'insideRight', formatter: 'Средне', color: '#f59e0b40', fontSize: 9 } }, { yAxis: 70 }],
+                            [{ yAxis: 0, itemStyle: { color: 'rgba(239,68,68,0.04)' }, label: { show: true, position: 'insideRight', formatter: 'Плохо', color: '#ef444440', fontSize: 9 } }, { yAxis: 40 }]
+                        ]
+                    } },
+                    { name: 'Качество', type: 'line', symbol: 'none', sampling: 'lttb',
+                      data: audio.filter(function(d) { return d.quality != null; }).map(function(d) { return [d.ts, d.quality]; }),
+                      lineStyle: { width: 2, color: '#22d3ee', shadowColor: 'rgba(34,211,238,0.3)', shadowBlur: 8 },
+                      areaStyle: {
+                          color: new echarts.graphic.LinearGradient(0, 0, 0, 1, [
+                              { offset: 0, color: 'rgba(34,211,238,0.15)' },
+                              { offset: 1, color: 'rgba(34,211,238,0)' }
+                          ])
+                      }
+                    }
+                ]
+            });
+        }
+    }
+
+    // ─── Trips (Leaflet map) ────────────────────────────────────────
+    var tripsMap = null, tripsLayer = null;
+
+    function renderTrips() {
+        var client = document.getElementById('client-select') ? document.getElementById('client-select').value : '';
+        var minutes = getTimeRange();
+        var el = function(id) { return document.getElementById(id); };
+
+        // Trips always load 7 days minimum to show enough routes
+        var tripMinutes = Math.max(parseInt(minutes) || 1440, 10080);
+        fetch('/api/trips/?minutes=' + tripMinutes + (client ? '&client=' + client : ''))
+            .then(function(r) { return r.json(); })
+            .then(function(data) {
+                var trips = data.trips || [];
+                var totalPts = 0, totalVib = 0, totalSpd = 0, vc = 0, sc = 0;
+                trips.forEach(function(t) {
+                    totalPts += t.points;
+                    if (t.avg_vib > 0) { totalVib += t.avg_vib; vc++; }
+                    if (t.avg_speed > 0) { totalSpd += t.avg_speed; sc++; }
+                });
+                if (el('ts-count')) el('ts-count').textContent = trips.length;
+                if (el('ts-points')) el('ts-points').textContent = totalPts;
+                if (el('ts-avg-vib')) el('ts-avg-vib').textContent = vc ? (totalVib / vc).toFixed(1) : '--';
+                if (el('ts-avg-speed')) el('ts-avg-speed').textContent = sc ? Math.round(totalSpd / sc) : '--';
+
+                if (!tripsMap) {
+                    tripsMap = L.map('trips-map', { zoomControl: true, attributionControl: false }).setView([55.75, 37.62], 11);
+                    L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', { maxZoom: 19, subdomains: 'abcd' }).addTo(tripsMap);
+                }
+                if (tripsLayer) tripsMap.removeLayer(tripsLayer);
+                tripsLayer = L.layerGroup().addTo(tripsMap);
+                if (!trips.length) return;
+
+                var allB = [];
+                var wIcons = {clear:'\u2600\uFE0F',mainly_clear:'\uD83C\uDF24',partly_cloudy:'\u26C5',overcast:'\u2601\uFE0F',slight_rain:'\uD83C\uDF26',moderate_rain:'\uD83C\uDF27'};
+                trips.forEach(function(trip) {
+                    var r = trip.route;
+                    if (!r || r.length < 2) return;
+                    for (var i = 0; i < r.length - 1; i++) {
+                        var p1 = r[i], p2 = r[i + 1];
+                        var vib = p1.vib || 0;
+                        var clr = vib < 2 ? '#4ade80' : vib < 4 ? '#f59e0b' : '#ef4444';
+                        var w = Math.max(2, Math.min((p1.speed || 0) / 20, 6));
+                        var seg = L.polyline([[p1.lat, p1.lng], [p2.lat, p2.lng]], { color: clr, weight: w, opacity: 0.8 }).addTo(tripsLayer);
+                        seg.bindPopup('<b style="color:#00D4AA">' + new Date(p1.ts).toLocaleTimeString('ru-RU',{hour:'2-digit',minute:'2-digit',second:'2-digit'}) + '</b><br>'
+                            + 'Скорость: <b>' + (p1.speed||0) + '</b> км/ч<br>'
+                            + 'Вибрация: <b>' + (p1.vib||0) + '</b> m/s\u00B2<br>'
+                            + (p1.temp != null ? 'Темп: <b>' + p1.temp + '\u00B0C</b> ' + (wIcons[p1.weather]||'') + '<br>' : '')
+                            + (p1.road ? 'Дорога: ' + p1.road : ''));
+                        allB.push([p1.lat, p1.lng]);
+                    }
+                    allB.push([r[r.length-1].lat, r[r.length-1].lng]);
+                    L.circleMarker([r[0].lat, r[0].lng], { radius: 6, color: '#00D4AA', fillColor: '#00D4AA', fillOpacity: 1 }).bindPopup('Старт: ' + new Date(trip.start).toLocaleString('ru-RU')).addTo(tripsLayer);
+                    L.circleMarker([r[r.length-1].lat, r[r.length-1].lng], { radius: 6, color: '#ef4444', fillColor: '#ef4444', fillOpacity: 1 }).bindPopup('Финиш: ' + new Date(trip.end).toLocaleString('ru-RU')).addTo(tripsLayer);
+                });
+                if (allB.length > 1) tripsMap.fitBounds(allB, { padding: [30, 30] });
+            }).catch(function(e) { console.error('Trips error:', e); });
+    }
+
+    // ─── Diagnostics ─────────────────────────────────────────────────
+    function renderDiagnostics() {
+        var client = document.getElementById('client-select') ? document.getElementById('client-select').value : '';
+        var minutes = getTimeRange();
+
+        var diagMinutes = Math.max(parseInt(minutes) || 1440, 10080);
+        fetch('/api/diagnostics/?minutes=' + diagMinutes + (client ? '&client=' + client : ''))
+            .then(function(r) { return r.json(); })
+            .then(function(data) {
+                // Alerts
+                var ae = document.getElementById('diag-alerts');
+                if (ae) {
+                    ae.innerHTML = (data.alerts || []).map(function(a) {
+                        var c = {ok:'var(--status-normal)',warning:'var(--status-warning)',critical:'var(--status-alert)'}[a.severity] || 'var(--status-normal)';
+                        var ic = {ok:'\u2705',warning:'\u26A0\uFE0F',critical:'\uD83D\uDD34'}[a.severity] || '';
+                        var bg = {ok:'rgba(74,222,128,0.06)',warning:'rgba(245,158,11,0.06)',critical:'rgba(239,68,68,0.06)'}[a.severity] || 'rgba(74,222,128,0.06)';
+                        return '<div style="background:'+bg+';border:1px solid '+c+'30;border-radius:10px;padding:14px 18px;margin-bottom:8px;">'
+                            +'<div style="font-size:14px;font-weight:600;color:'+c+';">'+ic+' '+a.title+'</div>'
+                            +'<div style="font-size:11px;color:var(--text-secondary);margin-top:4px;">'+a.explanation+'</div></div>';
+                    }).join('');
+                }
+
+                // DTC
+                var de = document.getElementById('diag-dtc');
+                if (de) {
+                    var dtc = data.dtc || {};
+                    if (dtc.status === 'clear') {
+                        de.innerHTML = '<div style="display:flex;align-items:center;gap:12px;">'
+                            +'<span style="font-size:24px;">\u2705</span>'
+                            +'<div><div style="font-size:14px;font-weight:600;color:var(--status-normal);">Ошибок не обнаружено (DTC)</div>'
+                            +'<div style="font-size:11px;color:var(--text-secondary);">Проверено '+dtc.total_packets+' пакетов данных</div></div></div>';
+                    } else {
+                        de.innerHTML = (dtc.codes||[]).map(function(c) {
+                            return '<div style="background:rgba(239,68,68,0.08);border:1px solid rgba(239,68,68,0.2);border-radius:8px;padding:10px 14px;margin-bottom:6px;">'
+                                +'<span style="color:#ef4444;font-weight:700;font-family:SF Mono,monospace;">DTC '+c.code+'</span> \u2014 '+c.count+' раз</div>';
+                        }).join('');
+                    }
+                }
+
+                // ECU grid
+                var ee = document.getElementById('diag-ecu');
+                if (ee) {
+                    var blocks = [
+                        {id:'7e8',name:'\u0414\u0412\u0421 (7E8)',color:'#f59e0b'},
+                        {id:'7ea',name:'\u042D\u043B\u0435\u043A\u0442\u0440\u043E (7EA)',color:'#4ade80'},
+                        {id:'7eb',name:'BMS (7EB)',color:'#60a5fa'},
+                        {id:'7ef',name:'\u041E\u0445\u043B. (7EF)',color:'#22d3ee'}
+                    ];
+                    ee.innerHTML = blocks.map(function(b) {
+                        var ecu = data.ecu[b.id] || {};
+                        var labels = ecu._labels || {};
+                        var h = '<div class="susp-stat-card" style="border-color:'+b.color+'20;">'
+                            +'<div style="font-size:11px;font-weight:700;color:'+b.color+';text-transform:uppercase;letter-spacing:1px;margin-bottom:8px;">'+b.name+'</div>';
+                        Object.keys(labels).forEach(function(pid) {
+                            var val = ecu[pid];
+                            var lbl = labels[pid];
+                            var disp = val != null ? (pid.indexOf('0142')>=0 ? (val/1000).toFixed(1)+'\u0412' : pid.indexOf('0105')>=0||pid.indexOf('0146')>=0 ? Math.round(val)+'\u00B0C' : Math.round(val)) : '--';
+                            h += '<div style="display:flex;justify-content:space-between;padding:3px 0;border-bottom:1px solid rgba(255,255,255,0.03);font-size:11px;">'
+                                +'<span style="color:var(--text-secondary);">'+lbl+'</span>'
+                                +'<span style="color:var(--chrome);font-family:SF Mono,monospace;font-weight:600;">'+disp+'</span></div>';
+                        });
+                        return h + '</div>';
+                    }).join('');
+                }
+
+                // Voltage chart
+                var vc = initChart('chart-voltage-compare');
+                if (vc) {
+                    var vh = data.voltage_history || {};
+                    vc.setOption({
+                        backgroundColor: 'transparent',
+                        tooltip: { trigger: 'axis', backgroundColor: '#111116', borderColor: 'rgba(0,212,170,0.15)', textStyle: { color: '#c0c0cc', fontSize: 11 } },
+                        legend: { data: ['\u0414\u0412\u0421 (7E8)','BMS (7EB)','\u041E\u0445\u043B. (7EF)'], textStyle: { color: '#888', fontSize: 10 }, top: 0 },
+                        grid: { left: 55, right: 20, top: 35, bottom: 65 },
+                        xAxis: { type: 'time', ...AXIS_STYLE, axisLabel: { color: '#aaa', fontSize: 11, formatter: function(v) { return new Date(v).toLocaleTimeString('ru-RU',{hour:'2-digit',minute:'2-digit'}); } } },
+                        yAxis: { type: 'value', name: '\u0412\u043E\u043B\u044C\u0442', nameTextStyle: { color: '#888' }, ...AXIS_STYLE },
+                        dataZoom: [{ ...DATAZOOM_STYLE, xAxisIndex: [0], bottom: 8 }, { type: 'inside' }],
+                        series: [
+                            { name: '\u0414\u0412\u0421 (7E8)', type: 'line', symbol: 'none', smooth: true, data: (vh['7e8']||[]).map(function(d){return [d.ts,d.v];}), lineStyle: { width: 2, color: '#f59e0b', shadowColor: 'rgba(245,158,11,0.3)', shadowBlur: 6 } },
+                            { name: 'BMS (7EB)', type: 'line', symbol: 'none', smooth: true, data: (vh['7eb']||[]).map(function(d){return [d.ts,d.v];}), lineStyle: { width: 2, color: '#60a5fa', shadowColor: 'rgba(96,165,250,0.3)', shadowBlur: 6 } },
+                            { name: '\u041E\u0445\u043B. (7EF)', type: 'line', symbol: 'none', smooth: true, data: (vh['7ef']||[]).map(function(d){return [d.ts,d.v];}), lineStyle: { width: 2, color: '#22d3ee', shadowColor: 'rgba(34,211,238,0.3)', shadowBlur: 6 } }
+                        ]
+                    });
+                }
+            }).catch(function(e) { console.error('Diagnostics error:', e); });
+    }
+
+    // ─── Tab rendering dispatcher ────────────────────────────────────
+    function renderTab(tab, data) {
+        switch (tab) {
+            case 'overview':    renderOverview(data);    break;
+            case 'engine':      renderEngine(data);      break;
+            case 'suspension':  renderSuspension(data);  break;
+            case 'audio':       renderAudio(data);       break;
+            case 'trips':       renderTrips(); break;
+            case 'diagnostics': renderDiagnostics(); break;
+            case 'kb':          loadSituations(); loadDTCData(); loadPartsData(); break;
+        }
+    }
+
+    // ─── Update metrics (gauges + car card) ──────────────────────────
+    function updateMetrics(data) {
+        var pids = safeArr(data.pids);
+        var accel = safeArr(data.accel);
+        lastPidsCache = pids;
+        lastAccelCache = accel;
+        updateGauges(pids, accel);
+        updateCarCard(safeArr(data.packets));
+        // Refresh detail panel if open
+        if (expandedGauge) populateDetail(expandedGauge);
+    }
+
+    // ─── Progressive Disclosure (gauge detail) ─────────────────────
+    let expandedGauge = null;
+    let detailChart = null;
+    let lastPidsCache = [];
+    let lastAccelCache = [];
+
+    function toggleGaugeDetail(gaugeId) {
+        var panel = document.getElementById('gauge-detail');
+        var card = document.getElementById(gaugeId);
+        if (!panel || !card) return;
+
+        // Close if same card clicked again
+        if (expandedGauge === gaugeId) {
+            panel.classList.remove('visible');
+            card.classList.remove('expanded');
+            expandedGauge = null;
+            if (detailChart) { detailChart.dispose(); detailChart = null; }
+            return;
+        }
+
+        // Close previous
+        if (expandedGauge) {
+            var prev = document.getElementById(expandedGauge);
+            if (prev) prev.classList.remove('expanded');
+        }
+
+        expandedGauge = gaugeId;
+        card.classList.add('expanded');
+
+        // Insert panel after metrics-row
+        var metricsRow = document.querySelector('.metrics-row');
+        if (metricsRow && panel.parentNode !== metricsRow.parentNode) {
+            metricsRow.parentNode.insertBefore(panel, metricsRow.nextSibling);
+        }
+        panel.classList.add('visible');
+
+        // Populate data based on which gauge
+        populateDetail(gaugeId);
+    }
+
+    function populateDetail(gaugeId) {
+        var dataArr = [], unit = '', color = '#eaeaf0';
+
+        if (gaugeId === 'gauge-speed') {
+            dataArr = lastPidsCache.filter(function(d) { return d.speed != null; }).map(function(d) { return { ts: d.ts, v: d.speed }; });
+            unit = ' км/ч'; color = 'var(--accent)';
+        } else if (gaugeId === 'gauge-rpm') {
+            dataArr = lastPidsCache.filter(function(d) { return d.rpm != null; }).map(function(d) { return { ts: d.ts, v: d.rpm }; });
+            unit = ' об/м'; color = '#c0c0cc';
+        } else if (gaugeId === 'gauge-temp') {
+            dataArr = lastPidsCache.filter(function(d) { return d.coolant != null; }).map(function(d) { return { ts: d.ts, v: d.coolant }; });
+            unit = ' °C'; color = '#ef4444';
+        } else if (gaugeId === 'gauge-vib') {
+            dataArr = lastAccelCache.map(function(d) {
+                var xs = d.x_std || 0, ys = d.y_std || 0, zs = d.z_std || 0;
+                return { ts: d.ts, v: Math.sqrt(xs*xs + ys*ys + zs*zs) };
+            });
+            unit = ' m/s²'; color = '#4ade80';
+        }
+
+        if (!dataArr.length) {
+            document.getElementById('d-min').textContent = '--';
+            document.getElementById('d-avg').textContent = '--';
+            document.getElementById('d-max').textContent = '--';
+            document.getElementById('d-last').textContent = '--';
+            return;
+        }
+
+        var vals = dataArr.map(function(d) { return d.v; });
+        var mn = Math.min.apply(null, vals);
+        var mx = Math.max.apply(null, vals);
+        var avg = vals.reduce(function(a,b) { return a+b; }, 0) / vals.length;
+        var last = vals[vals.length - 1];
+
+        document.getElementById('d-min').textContent = mn.toFixed(1) + unit;
+        document.getElementById('d-avg').textContent = avg.toFixed(1) + unit;
+        document.getElementById('d-max').textContent = mx.toFixed(1) + unit;
+        document.getElementById('d-last').textContent = last.toFixed(1) + unit;
+
+        // Mini chart
+        var chartEl = document.getElementById('detail-mini-chart');
+        if (detailChart) { detailChart.dispose(); detailChart = null; }
+        detailChart = echarts.init(chartEl, null, { renderer: 'canvas' });
+        var chartData = dataArr.slice(-100).map(function(d) { return [new Date(d.ts).getTime(), d.v]; });
+
+        detailChart.setOption({
+            backgroundColor: 'transparent',
+            grid: { left: 0, right: 0, top: 2, bottom: 2 },
+            xAxis: { type: 'time', show: false },
+            yAxis: { type: 'value', show: false },
+            series: [{
+                type: 'line', data: chartData, symbol: 'none', smooth: true,
+                lineStyle: { width: 1.5, color: color },
+                areaStyle: { color: { type: 'linear', x: 0, y: 0, x2: 0, y2: 1,
+                    colorStops: [{ offset: 0, color: color.replace('var(--accent)', '#00D4AA') + '40' },
+                                 { offset: 1, color: 'transparent' }] } }
+            }]
+        });
+    }
+
+    // Attach click handlers to gauge cards
+    document.querySelectorAll('.gauge-card').forEach(function(card) {
+        card.addEventListener('click', function() { toggleGaugeDetail(card.id); });
+    });
+
+    // ─── PDF Export ──────────────────────────────────────────────────
+    window.exportPDF = function() {
+        var pd = document.getElementById('print-date');
+        if (pd) pd.textContent = 'Дата: ' + new Date().toLocaleString('ru-RU') + ' | Health Score: ' + (document.getElementById('health-score-badge')?.textContent || '--');
+        window.print();
+    };
+
+    // ─── Browser Notifications ──────────────────────────────────────
+    var notifPermission = false;
+    var lastNotifTime = 0;
+    if ('Notification' in window && Notification.permission !== 'denied') {
+        Notification.requestPermission().then(function(p) { notifPermission = (p === 'granted'); });
+    }
+
+    function sendCriticalNotification(title, body) {
+        if (!notifPermission) return;
+        var now = Date.now();
+        if (now - lastNotifTime < 60000) return; // max 1 per minute
+        lastNotifTime = now;
+        try {
+            new Notification('LLCAR: ' + title, {
+                body: body,
+                icon: '/static/img/llcar-logo.png',
+                tag: 'llcar-critical',
+                requireInteraction: true
+            });
+        } catch(e) {}
+    }
+
+    // ─── KB Sub-tabs ──────────────────────────────────────────────────
+    window.switchKBTab = function(tab) {
+        document.querySelectorAll('.kb-tab').forEach(function(t) { t.classList.toggle('active', t.dataset.kbtab === tab); });
+        document.querySelectorAll('.kb-section').forEach(function(s) { s.style.display = 'none'; });
+        var sec = document.getElementById('kb-' + tab);
+        if (sec) sec.style.display = 'block';
+        // Load data for the selected sub-tab
+        if (tab === 'situations') loadSituations();
+        if (tab === 'parts') loadPartsData();
+        if (tab === 'dtc') loadDTCData();
+    };
+
+    // ─── Situations Lookup ─────────────────────────────────────────────
+    var sitData = null;
+    function loadSituations() {
+        if (sitData) return;
+        fetch('/static/situations.json').then(function(r) { return r.json(); }).then(function(d) {
+            sitData = d;
+            searchSituations('');
+        }).catch(function() {});
+    }
+
+    window.searchSituations = function(query) {
+        if (!sitData) { loadSituations(); return; }
+        var q = (query || '').toLowerCase().trim();
+        var results = sitData.filter(function(s) {
+            if (!q) return true;
+            return (s.title || '').toLowerCase().includes(q) || (s.quick || '').toLowerCase().includes(q) || (s.id || '').toLowerCase().includes(q);
+        });
+        var container = document.getElementById('sit-results');
+        if (!container) return;
+
+        container.innerHTML = results.map(function(s) {
+            var sevClass = s.severity === 'critical' ? 'sev-critical' : s.severity === 'warning' ? 'sev-warning' : 'sev-info';
+            var icon = s.severity === 'critical' ? '🚨' : s.severity === 'warning' ? '⚠️' : 'ℹ️';
+
+            var factsHtml = s.facts && s.facts.length
+                ? '<div class="sit-facts">' + s.facts.slice(0,3).map(function(f) { return '• ' + f; }).join('<br>') + '</div>' : '';
+
+            var priceHtml = '';
+            if (s.prices && s.prices.length) {
+                priceHtml = '<div class="sit-prices">' + s.prices.map(function(p) {
+                    return '<div class="sit-price-row"><span class="sit-price-service">' + p.service + '</span><span class="sit-price-value">' + (p.min/1000).toFixed(0) + '–' + (p.max/1000).toFixed(0) + 'к ₽</span></div>';
+                }).join('') + '</div>';
+            }
+
+            return '<div class="sit-card ' + sevClass + '">'
+                + '<div class="sit-header"><span class="sit-icon">' + icon + '</span><div class="sit-title">' + s.title + '</div></div>'
+                + '<div class="sit-quick">' + (s.quick || '') + '</div>'
+                + '<div class="sit-action">→ ' + (s.action || '') + '</div>'
+                + factsHtml + priceHtml + '</div>';
+        }).join('');
+    };
+
+    // ─── Parts Catalog ────────────────────────────────────────────────
+    var partsData = null;
+    function loadPartsData() {
+        if (partsData) return;
+        fetch('/static/parts.json').then(function(r) { return r.json(); }).then(function(d) {
+            partsData = d;
+            searchParts('');
+        }).catch(function() {});
+    }
+
+    window.searchParts = function(query) {
+        if (!partsData) { loadPartsData(); return; }
+        var q = (query || '').toLowerCase().trim();
+        var container = document.getElementById('parts-results');
+        if (!container) return;
+
+        var html = '';
+        partsData.forEach(function(sys) {
+            var matched = sys.parts.filter(function(p) {
+                return !q || p.toLowerCase().includes(q) || sys.system_ru.toLowerCase().includes(q);
+            });
+            if (!matched.length) return;
+            var shown = matched.slice(0, q ? 30 : 8);
+            var isOpen = q ? ' open' : '';
+
+            html += '<details class="parts-system"' + isOpen + '>'
+                + '<summary class="parts-system-header"><span class="parts-system-name">' + sys.system_ru + '</span><span class="parts-system-count">' + sys.parts.length + '</span></summary>'
+                + '<div class="parts-list">'
+                + shown.map(function(p) { return '<div class="parts-list-item">• ' + p + '</div>'; }).join('')
+                + '</div>'
+                + (matched.length > shown.length ? '<div class="parts-more" onclick="this.parentElement.querySelector(\'.parts-list\').innerHTML+=\'' + matched.slice(shown.length, shown.length + 20).map(function(p) { return '<div class=parts-list-item>• ' + p.replace(/'/g, "\\'") + '</div>'; }).join('') + '\';this.remove()">Показать ещё ' + (matched.length - shown.length) + '...</div>' : '')
+                + '</details>';
+        });
+        container.innerHTML = html || '<div style="text-align:center;color:var(--text-secondary);padding:40px;">Ничего не найдено</div>';
+    };
+
+    // ─── DTC Code Lookup ──────────────────────────────────────────────
+    var dtcData = null;
+    function loadDTCData() {
+        if (dtcData) return;
+        fetch('/static/dtc_codes.json').then(function(r) { return r.json(); }).then(function(d) {
+            dtcData = d;
+            searchDTC('');
+        }).catch(function() {});
+    }
+
+    window.searchDTC = function(query) {
+        if (!dtcData) { loadDTCData(); return; }
+        var filter = document.getElementById('dtc-filter');
+        var cat = filter ? filter.value : '';
+        var q = (query || '').toLowerCase().trim();
+        var results = dtcData.filter(function(d) {
+            if (cat && !d.code.startsWith(cat)) return false;
+            if (!q) return true;
+            return d.code.toLowerCase().includes(q) || d.title.toLowerCase().includes(q);
+        });
+        var container = document.getElementById('dtc-results');
+        var countEl = document.getElementById('dtc-count');
+        if (!container) return;
+
+        var shown = results.slice(0, 30);
+        container.innerHTML = shown.map(function(d) {
+            var sevClass = 's' + Math.min(d.severity, 5);
+            var sevLabels = {1:'Инфо',2:'Низкая',3:'Средняя',4:'Высокая',5:'Критич.'};
+            var driveLabels = {yes:'Можно ехать',yes_limited:'Ограниченно',no:'Нельзя ехать'};
+            var sysLabels = {sensors:'Датчики',ev:'Электро',hvac:'Климат',body:'Кузов',engine:'Двигатель',brakes:'Тормоза',drivetrain:'Трансмиссия',chassis:'Шасси',interior:'Салон'};
+            return '<div class="dtc-item">'
+                + '<div class="dtc-code">' + d.code + '</div>'
+                + '<div class="dtc-body">'
+                + '<div class="dtc-title">' + d.title + '</div>'
+                + '<div class="dtc-meta">'
+                + '<span class="dtc-sev ' + sevClass + '">' + (sevLabels[d.severity] || d.severity) + '</span>'
+                + '<span>' + (sysLabels[d.system] || d.system) + '</span>'
+                + '<span>' + (driveLabels[d.drive] || d.drive) + '</span>'
+                + '</div>'
+                + (d.causes.length ? '<div class="dtc-causes">Причины: ' + d.causes.join(', ') + '</div>' : '')
+                + '</div></div>';
+        }).join('');
+
+        if (countEl) countEl.textContent = 'Показано ' + shown.length + ' из ' + results.length + ' кодов';
+    };
+
+    // Load DTC when engine tab is first shown
+    var origRenderEngine = renderEngine;
+    // Will call loadDTCData() from renderEngine
+
+    // ─── Data loading ────────────────────────────────────────────────
+    let firstLoad = true;
+    function showLoading() {
+        if (firstLoad) document.getElementById('loading-overlay').classList.add('visible');
+        var btn = document.getElementById('refresh-btn');
+        if (btn) { btn.classList.add('refreshing'); btn.textContent = ''; }
+    }
+    function hideLoading() {
+        firstLoad = false;
+        document.getElementById('loading-overlay').classList.remove('visible');
+        var btn = document.getElementById('refresh-btn');
+        if (btn) { btn.classList.remove('refreshing'); btn.textContent = 'Обновить'; }
+        // iOS-style "last updated" timestamp
+        var lu = document.getElementById('last-update');
+        if (lu) {
+            var now = new Date();
+            lu.textContent = 'Обновлено ' + now.toLocaleTimeString('ru-RU', {hour:'2-digit', minute:'2-digit', second:'2-digit'});
+            lu.classList.add('visible');
+        }
+    }
+
+    window.loadData = async function (tab) {
+        tab = tab || currentTab || 'overview';
+        const clientEl = document.getElementById('client-select');
+        const client = clientEl ? clientEl.value : '';
+        const mins = getTimeRange();
+        var lim = (tab === 'overview') ? 500 : 3000;
+        const url = '/api/data/?minutes=' + mins + '&limit=' + lim + '&tab=' + tab + (client ? '&client=' + encodeURIComponent(client) : '');
+
+        showLoading();
+
+        try {
+            const [data, stats] = await Promise.all([
+                fetch(url).then(function (r) {
+                    if (!r.ok) throw new Error('Data API error: ' + r.status);
+                    return r.json();
+                }).catch(function () { return { packets: [], accel: [], pids: [], audio: [] }; }),
+                fetch('/api/stats/' + (client ? '?client=' + encodeURIComponent(client) : '')).then(function (r) {
+                    if (!r.ok) throw new Error('Stats API error: ' + r.status);
+                    return r.json();
+                }).catch(function () { return { health: null }; })
+            ]);
+
+            updateHealth(stats.health);
+            updateMetrics(data);
+            renderTab(tab, data);
+            fetchHealthScore(client);
+        } catch (e) {
+            console.error('LLCAR loadData error:', e);
+        } finally {
+            hideLoading();
+        }
+    };
+
+    // ─── Tab switching ───────────────────────────────────────────────
+    window.switchTab = function (tabName) {
+        // Dispose old charts
+        Object.keys(charts).forEach(function (key) {
+            if (charts[key] && charts[key].dispose) {
+                try { charts[key].dispose(); } catch (e) {}
+            }
+        });
+        charts = {};
+
+        // Toggle visibility
+        document.querySelectorAll('.tab-content').forEach(function (el) {
+            el.style.display = 'none';
+            el.classList.remove('active-content');
+        });
+        document.querySelectorAll('.tab-btn').forEach(function (el) {
+            el.classList.toggle('active', el.dataset.tab === tabName);
+        });
+
+        var tabEl = document.getElementById('tab-' + tabName);
+        if (tabEl) {
+            tabEl.style.display = 'block';
+            tabEl.classList.add('active-content');
+        }
+
+        currentTab = tabName;
+        localStorage.setItem('llcar-tab', tabName);
+
+        // Trips map needs resize after becoming visible
+        if (tabName === 'trips') {
+            setTimeout(function() { if (tripsMap) tripsMap.invalidateSize(); renderTrips(); }, 200);
+            return;
+        }
+        if (tabName === 'diagnostics') { renderDiagnostics(); return; }
+
+        loadData(tabName);
+    };
+
+    // ─── Window resize ───────────────────────────────────────────────
+    window.addEventListener('resize', function () {
+        Object.values(charts).forEach(function (c) {
+            if (c && c.resize) {
+                try { c.resize(); } catch (e) {}
+            }
+        });
+    });
+
+    // ─── Auto-refresh ────────────────────────────────────────────────
+    function startAutoRefresh() {
+        if (refreshTimer) clearInterval(refreshTimer);
+        refreshTimer = setInterval(function () {
+            loadData(currentTab);
+        }, 30000);
+    }
+
+    // ─── Init ────────────────────────────────────────────────────────
+    function init() {
+        // Restore saved tab
+        var savedTab = localStorage.getItem('llcar-tab');
+        if (savedTab && ['overview', 'engine', 'suspension', 'audio', 'kb'].indexOf(savedTab) !== -1) {
+            currentTab = savedTab;
+        } else {
+            currentTab = 'overview';
+        }
+
+        // Activate correct tab button and content
+        document.querySelectorAll('.tab-btn').forEach(function (el) {
+            el.classList.toggle('active', el.dataset.tab === currentTab);
+        });
+        document.querySelectorAll('.tab-content').forEach(function (el) {
+            var tabId = el.id.replace('tab-', '');
+            if (tabId === currentTab) {
+                el.style.display = 'block';
+                el.classList.add('active-content');
+            } else {
+                el.style.display = 'none';
+                el.classList.remove('active-content');
+            }
+        });
+
+        // Restore time range
+        var savedMins = localStorage.getItem('llcar-time-range');
+        if (savedMins) {
+            document.querySelectorAll('#time-range-bar .time-btn').forEach(function (b) {
+                b.classList.toggle('active', b.dataset.minutes === savedMins);
+            });
+        }
+
+        // Initial load
+        loadData(currentTab);
+        startAutoRefresh();
+    }
+
+    // Persist time range to localStorage
+    var origSetTimeRange = window.setTimeRange;
+    window.setTimeRange = function (btn) {
+        document.querySelectorAll('#time-range-bar .time-btn').forEach(function (b) { b.classList.remove('active'); });
+        btn.classList.add('active');
+        localStorage.setItem('llcar-time-range', btn.dataset.minutes);
+        loadData();
+    };
+
+    // Start on DOM ready
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', init);
+    } else {
+        init();
+    }
+
+})();
+</script>
+
+<!-- ===== 3D DIGITAL TWIN (Three.js) ===== -->
+<script type="module">
+import * as THREE from 'three';
+import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+import { DRACOLoader } from 'three/addons/loaders/DRACOLoader.js';
+
+const HOTSPOTS = [
+    { pos: [0, 1.0, -1.3], label: 'Двигатель', tab: 'engine', color: 0xff7043 },
+    { pos: [-0.85, 0.5, 0.2], label: 'Подвеска', tab: 'suspension', color: 0x60a5fa },
+    { pos: [0, 0.85, 1.3], label: 'Аудио', tab: 'audio', color: 0xa78bfa },
+];
+
+window.__twin = null;
+
+class DigitalTwin {
+    constructor(container) {
+        this.el = container;
+        this.scene = new THREE.Scene();
+        this.scene.background = new THREE.Color(0x08080c);
+        this.scene.fog = new THREE.Fog(0x08080c, 15, 35);
+
+        const w = container.clientWidth, h = container.clientHeight;
+        this.camera = new THREE.PerspectiveCamera(42, w / h, 0.01, 100);
+        this.camera.position.set(3.5, 1.5, 3.5);
+        this.camera.lookAt(0, 0.5, 0);
+
+        this.renderer = new THREE.WebGLRenderer({ antialias: true, alpha: false });
+        this.renderer.setPixelRatio(Math.min(devicePixelRatio, 2));
+        this.renderer.setSize(w, h);
+        this.renderer.toneMapping = THREE.ACESFilmicToneMapping;
+        this.renderer.toneMappingExposure = 1.1;
+        container.appendChild(this.renderer.domElement);
+
+        this.controls = new OrbitControls(this.camera, this.renderer.domElement);
+        this.controls.enableDamping = true;
+        this.controls.dampingFactor = 0.05;
+        this.controls.autoRotate = true;
+        this.controls.autoRotateSpeed = 0.8;
+        this.controls.maxDistance = 12;
+        this.controls.minDistance = 2;
+        this.controls.target.set(0, 0.5, 0);
+        this.controls.addEventListener('start', () => { this.controls.autoRotate = false; });
+
+        // Lights
+        this.scene.add(new THREE.AmbientLight(0xffffff, 0.5));
+        const hemi = new THREE.HemisphereLight(0xddeeff, 0x111116, 0.35);
+        this.scene.add(hemi);
+        const dir = new THREE.DirectionalLight(0xffffff, 0.9);
+        dir.position.set(5, 8, 5);
+        this.scene.add(dir);
+        const fill = new THREE.DirectionalLight(0xffffff, 0.3);
+        fill.position.set(-4, 3, -4);
+        this.scene.add(fill);
+        // Accent rim light — teal from below
+        const rim = new THREE.DirectionalLight(0x00D4AA, 0.4);
+        rim.position.set(0, -1, -4);
+        this.scene.add(rim);
+        // Additional top highlight
+        const top = new THREE.DirectionalLight(0x00D4AA, 0.15);
+        top.position.set(0, 5, 0);
+        this.scene.add(top);
+
+        // Ground plane with teal glow reflection
+        const ground = new THREE.Mesh(
+            new THREE.CircleGeometry(6, 64),
+            new THREE.MeshStandardMaterial({
+                color: 0x041a15,
+                roughness: 0.8,
+                metalness: 0.2,
+                transparent: true,
+                opacity: 0.6
+            })
+        );
+        ground.rotation.x = -Math.PI / 2;
+        ground.position.y = -0.02;
+        ground.receiveShadow = true;
+        this.scene.add(ground);
+
+        this.hotspotMeshes = [];
+        this.labels = [];
+        this.raycaster = new THREE.Raycaster();
+        this.mouse = new THREE.Vector2();
+
+        this.renderer.domElement.addEventListener('click', (e) => this._onClick(e));
+        this.renderer.domElement.addEventListener('pointermove', (e) => this._onHover(e));
+        this.renderer.domElement.style.cursor = 'grab';
+
+        this._ro = new ResizeObserver(() => this._resize());
+        this._ro.observe(container);
+
+        this._animate();
+    }
+
+    async load(url) {
+        const loader = new GLTFLoader();
+        const draco = new DRACOLoader();
+        draco.setDecoderPath('https://www.gstatic.com/draco/versioned/decoders/1.5.7/');
+        loader.setDRACOLoader(draco);
+
+        try {
+            const msg = document.getElementById('twin-load-msg');
+            if (msg) msg.textContent = 'Загрузка 3D модели (3 MB)...';
+
+            let gltf;
+            for (let attempt = 0; attempt < 3; attempt++) {
+                try {
+                    gltf = await loader.loadAsync(url);
+                    break;
+                } catch (e) {
+                    if (attempt === 2) throw e;
+                    if (msg) msg.textContent = 'Повтор загрузки...';
+                    await new Promise(r => setTimeout(r, 1000));
+                }
+            }
+            this.model = gltf.scene;
+
+            // Auto-center and scale
+            const box = new THREE.Box3().setFromObject(this.model);
+            const center = box.getCenter(new THREE.Vector3());
+            const size = box.getSize(new THREE.Vector3());
+            const s = 3.2 / Math.max(size.x, size.y, size.z);
+            this.model.scale.setScalar(s);
+            this.model.position.copy(center.multiplyScalar(-s));
+            this.model.position.y += 0.8; // Raise model higher in viewport
+
+            // Enhance materials
+            this.model.traverse((child) => {
+                if (child.isMesh && child.material) {
+                    const m = child.material.clone();
+                    m.transparent = true;
+                    m.opacity = 0.85;
+                    m.metalness = Math.min(m.metalness + 0.1, 0.6);
+                    m.roughness = Math.max(m.roughness - 0.1, 0.3);
+                    m.envMapIntensity = 0.5;
+                    child.material = m;
+                }
+            });
+
+            this.scene.add(this.model);
+            this._addHotspots();
+
+            // Hide loading message
+            if (msg) msg.style.display = 'none';
+            // Also hide any ECharts loading overlay in this container
+            var loadOv = document.getElementById('loading-overlay');
+            if (loadOv) loadOv.classList.remove('visible');
+        } catch (e) {
+            console.error('Digital Twin load error:', e);
+            const errMsg = document.getElementById('twin-load-msg');
+            if (errMsg) errMsg.textContent = 'Ошибка загрузки 3D: ' + e.message;
+        }
+    }
+
+    _addHotspots() {
+        HOTSPOTS.forEach((h) => {
+            // Glowing sphere
+            const geo = new THREE.SphereGeometry(0.07, 16, 16);
+            const mat = new THREE.MeshBasicMaterial({ color: h.color, transparent: true, opacity: 0.9 });
+            const mesh = new THREE.Mesh(geo, mat);
+            mesh.position.set(h.pos[0], h.pos[1], h.pos[2]);
+            mesh.userData = { tab: h.tab, label: h.label, baseColor: h.color };
+            this.scene.add(mesh);
+            this.hotspotMeshes.push(mesh);
+
+            // Outer glow ring
+            const glowGeo = new THREE.SphereGeometry(0.12, 16, 16);
+            const glowMat = new THREE.MeshBasicMaterial({ color: h.color, transparent: true, opacity: 0.15 });
+            const glow = new THREE.Mesh(glowGeo, glowMat);
+            glow.position.copy(mesh.position);
+            this.scene.add(glow);
+
+            // HTML label
+            const lbl = document.createElement('div');
+            lbl.className = 'twin-label';
+            lbl.textContent = h.label;
+            lbl.style.background = '#' + h.color.toString(16).padStart(6, '0');
+            lbl.style.color = '#fff';
+            this.el.appendChild(lbl);
+            this.labels.push({ el: lbl, pos: new THREE.Vector3(h.pos[0], h.pos[1] + 0.18, h.pos[2]) });
+        });
+    }
+
+    _updateLabels() {
+        const w = this.el.clientWidth, h = this.el.clientHeight;
+        this.labels.forEach((l) => {
+            const v = l.pos.clone().project(this.camera);
+            const x = (v.x * 0.5 + 0.5) * w;
+            const y = (-v.y * 0.5 + 0.5) * h;
+            const behind = v.z > 1;
+            l.el.style.left = x + 'px';
+            l.el.style.top = y + 'px';
+            l.el.style.opacity = behind ? '0' : '1';
+        });
+    }
+
+    _onClick(e) {
+        const rect = this.renderer.domElement.getBoundingClientRect();
+        this.mouse.x = ((e.clientX - rect.left) / rect.width) * 2 - 1;
+        this.mouse.y = -((e.clientY - rect.top) / rect.height) * 2 + 1;
+        this.raycaster.setFromCamera(this.mouse, this.camera);
+        const hits = this.raycaster.intersectObjects(this.hotspotMeshes);
+        if (hits.length > 0 && hits[0].object.userData.tab) {
+            window.switchTab(hits[0].object.userData.tab);
+        }
+    }
+
+    _onHover(e) {
+        const rect = this.renderer.domElement.getBoundingClientRect();
+        this.mouse.x = ((e.clientX - rect.left) / rect.width) * 2 - 1;
+        this.mouse.y = -((e.clientY - rect.top) / rect.height) * 2 + 1;
+        this.raycaster.setFromCamera(this.mouse, this.camera);
+        const hits = this.raycaster.intersectObjects(this.hotspotMeshes);
+        this.renderer.domElement.style.cursor = hits.length > 0 ? 'pointer' : 'grab';
+    }
+
+    _resize() {
+        const w = this.el.clientWidth, h = this.el.clientHeight;
+        if (w === 0 || h === 0) return;
+        this.camera.aspect = w / h;
+        this.camera.updateProjectionMatrix();
+        this.renderer.setSize(w, h);
+    }
+
+    // Update hotspot colors + labels based on live health data
+    updateHealth(healthData) {
+        // healthData = { engine: {status, value, label}, suspension: {...}, audio: {...} }
+        if (!healthData) return;
+        const tabMap = { engine: 0, suspension: 1, audio: 2 };
+        const colorMap = { ok: 0x4ade80, warning: 0xf59e0b, alert: 0xef4444, unknown: 0x555555 };
+
+        Object.keys(healthData).forEach((sys) => {
+            const idx = tabMap[sys];
+            if (idx === undefined || !this.hotspotMeshes[idx]) return;
+            const h = healthData[sys];
+            const mesh = this.hotspotMeshes[idx];
+            const newColor = colorMap[h.status] || colorMap.unknown;
+            mesh.material.color.setHex(newColor);
+            mesh.userData.severity = h.status === 'alert' ? 3 : h.status === 'warning' ? 2 : 1;
+
+            // Update HTML label with status
+            if (this.labels[idx] && this.labels[idx].el) {
+                const lbl = this.labels[idx].el;
+                lbl.style.background = '#' + newColor.toString(16).padStart(6, '0');
+                lbl.innerHTML = HOTSPOTS[idx].label + (h.value ? ' <b>' + h.value + '</b>' : '');
+            }
+        });
+    }
+
+    _animate() {
+        requestAnimationFrame(() => this._animate());
+        this.controls.update();
+        // Pulse hotspots — speed tied to severity
+        const t = performance.now() * 0.003;
+        this.hotspotMeshes.forEach((m, i) => {
+            const sev = m.userData.severity || 1;
+            const speed = sev * 1.2;
+            const amp = 0.15 + sev * 0.08;
+            m.scale.setScalar(1 + amp * Math.sin(t * speed + i * 2.1));
+        });
+        this._updateLabels();
+        this.renderer.render(this.scene, this.camera);
+    }
+}
+
+// Init on page load — only when overview tab is visible
+function initTwin() {
+    const container = document.getElementById('digital-twin-container');
+    if (!container || window.__twin) return;
+    window.__twin = new DigitalTwin(container);
+    window.__twin.load('/static/models/Li7_5layer.glb');
+}
+
+// Lazy load: wait 2s after page load so ECharts + data load first
+if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', () => setTimeout(initTwin, 2000));
+} else {
+    setTimeout(initTwin, 2000);
+}
+</script>
+</body>
+</html>
