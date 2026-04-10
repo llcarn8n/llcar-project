@@ -232,15 +232,11 @@ function CarBouncer({ activeSystem, groupRef }: {
         }
       }
 
-      // Rotate tire meshes only (not rim/brake) using geometry rotation
-      // Tires are named Шина_XX — rotate their geometry around wheel center
+      // Rotate ALL wheel meshes (tire+rim+brake) around wheel center
       for (const corner of Object.keys(wRefs) as WheelCorner[]) {
         const center = wheelCenters.current.get(corner)
         if (!center) continue
         for (const obj of wRefs[corner]) {
-          const n = obj.name?.toLowerCase() ?? ''
-          if (!n.includes('шина')) continue
-          // Rotate geometry around wheel center on X axis (rolling)
           const geo = (obj as THREE.Mesh).geometry
           if (!geo) continue
           geo.translate(-center.x, -center.y, -center.z)
