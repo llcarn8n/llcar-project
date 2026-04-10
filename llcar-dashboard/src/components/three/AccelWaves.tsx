@@ -144,7 +144,7 @@ function BrakeSmoke() {
       }
     }
     pts.geometry.attributes.position.needsUpdate = true
-    ;(pts.material as THREE.PointsMaterial).opacity = 0.06 + Math.sin(t * 2) * 0.02
+    ;(pts.material as THREE.PointsMaterial).opacity = 0.10 + Math.sin(t * 2) * 0.04
   })
 
   return (
@@ -153,10 +153,10 @@ function BrakeSmoke() {
         <bufferAttribute attach="attributes-position" args={[positions, 3]} />
       </bufferGeometry>
       <pointsMaterial
-        color="#ccbbaa"
-        size={0.08}
+        color="#eeddcc"
+        size={0.12}
         transparent
-        opacity={0.07}
+        opacity={0.12}
         blending={THREE.AdditiveBlending}
         depthWrite={false}
         sizeAttenuation
@@ -298,20 +298,18 @@ export function AccelWaves({ accelData, visible = true, onBounce }: AccelWavesPr
     if (!visible) return
     const t = clock.elapsedTime
 
-    // ── Road scroll: dynamic speed (slows during braking) ──
-    // First pass: detect brake proximity to slow road
-    let brakeSlowdown = 1.0 // 1 = full speed, 0 = stopped
-    OBSTACLES.forEach((obs, i) => {
+    // ── Road scroll: slows to near-stop during braking ──
+    let brakeSlowdown = 1.0
+    OBSTACLES.forEach((obs) => {
       if (obs.type !== 'brake') return
-      const group = obstacleRefs.current[i]
-      if (!group) return
       let z = obs.baseZ - roadOffset.current % LOOP_LENGTH
       while (z < -8) z += LOOP_LENGTH
       while (z > 28) z -= LOOP_LENGTH
-      const dist = Math.abs(z - 0) // distance from car center
-      if (dist < 3) {
-        const proximity = Math.max(0, 1 - dist / 3) // 0..1
-        brakeSlowdown = Math.min(brakeSlowdown, 1 - proximity * 0.85) // slow to 15% speed
+      const dist = Math.abs(z) // distance brake obstacle from car center (z=0)
+      if (dist < 5) {
+        // Smooth deceleration: full stop at center, gradual approach
+        const proximity = Math.max(0, 1 - dist / 5)
+        brakeSlowdown = Math.min(brakeSlowdown, 1 - proximity * 0.97) // almost full stop (3% speed)
       }
     })
     roadOffset.current += SCROLL_SPEED * brakeSlowdown * delta
@@ -374,8 +372,8 @@ export function AccelWaves({ accelData, visible = true, onBounce }: AccelWavesPr
           wRL -= lat * rearHit; wRR += lat * rearHit
         } else if (obs.type === 'brake') {
           const brakeRamp = 1 - Math.exp(-anyHit * 3)
-          targetPitch += 0.10 * brakeRamp  // noticeable nose dive, not extreme
-          targetBounceY -= 0.03 * brakeRamp
+          targetPitch += 0.05 * brakeRamp  // subtle nose dive
+          targetBounceY -= 0.02 * brakeRamp
           // Front compressed, rear unloaded
           wFL -= 0.12 * brakeRamp; wFR -= 0.12 * brakeRamp
           wRL += 0.06 * brakeRamp; wRR += 0.06 * brakeRamp
@@ -446,15 +444,15 @@ export function AccelWaves({ accelData, visible = true, onBounce }: AccelWavesPr
           if (dist < 2.5) {
             const falloff = Math.exp(-dist * 1.5)
             if (obs.type === 'pothole_l' || obs.type === 'pothole_r') {
-              h -= 0.06 * falloff  // dip
+              h -= 0.12 * falloff  // deep dip
             } else if (obs.type === 'bump') {
-              h += 0.05 * falloff  // rise
+              h += 0.10 * falloff  // strong rise
             } else if (obs.type === 'rut') {
-              h -= 0.03 * falloff * Math.sin(dx * 8)  // grooves
+              h -= 0.06 * falloff * Math.sin(dx * 8)  // deep grooves
             } else if (obs.type === 'brake') {
-              h -= 0.02 * falloff  // slight dip from weight
+              h -= 0.04 * falloff  // weight transfer dip
             } else if (obs.type === 'joint') {
-              h += 0.04 * falloff * (dist < 0.3 ? 1 : 0)  // sharp ridge
+              h += 0.08 * falloff * (dist < 0.4 ? 1 : 0)  // sharp ridge
             }
           }
         }
