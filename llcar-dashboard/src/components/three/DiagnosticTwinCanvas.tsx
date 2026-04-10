@@ -195,7 +195,9 @@ function CarBouncer({ activeSystem, groupRef }: {
     if (susp) origY.current.set(susp, susp.position.y)
   }, [])
 
-  useFrame(() => {
+  const wheelRotation = useRef(0)
+
+  useFrame((_, delta) => {
     if (!groupRef.current) return
 
     // Body movement (slow lerp applied in AccelWaves)
@@ -203,16 +205,25 @@ function CarBouncer({ activeSystem, groupRef }: {
     groupRef.current.rotation.z = bounceRef.roll
     groupRef.current.rotation.x = bounceRef.pitch
 
-    // Per-wheel Y offset (relative to body)
+    // Wheel spin: slows when pitch is high (braking)
+    const brakeAmount = Math.abs(bounceRef.pitch) / 0.05 // 0..1 at max brake pitch
+    const spinSpeed = Math.max(1 - brakeAmount * 0.9, 0.1) // slow to 10% on brake
+    wheelRotation.current += delta * 3.0 * spinSpeed // ~3 rad/s base speed
+
+    // Per-wheel Y offset + rotation
     const wRefs = wheelRefsLocal.current
     if (wRefs) {
       for (const corner of Object.keys(wRefs) as WheelCorner[]) {
         const key = CORNER_KEY[corner]
         const wheelY = wheelBounceRef[key]
-        // Offset wheel meshes relative to their original position
         for (const obj of wRefs[corner]) {
           const oy = origY.current.get(obj) ?? obj.position.y
           obj.position.y = oy + wheelY
+          // Spin wheels around X axis (rolling forward)
+          const name = obj.name?.toLowerCase() ?? ''
+          if (name.includes('шина') || name.includes('колесо') || name.includes('тормоз')) {
+            obj.rotation.x = wheelRotation.current
+          }
         }
       }
     }

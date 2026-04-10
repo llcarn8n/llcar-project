@@ -102,56 +102,6 @@ function RoadStrip() {
   )
 }
 
-// ── Tire smoke: soft clouds behind rear tires on braking ──
-
-function BrakeSmoke() {
-  const groupRef = useRef<THREE.Group>(null)
-  // 2 rear tires only — smoke trails behind when braking
-  const SMOKE_PER_TIRE = 6
-  const meshRefs = useRef<THREE.Mesh[]>([])
-
-  useFrame(({ clock }) => {
-    const t = clock.elapsedTime
-    meshRefs.current.forEach((mesh, i) => {
-      if (!mesh) return
-      const tire = i < SMOKE_PER_TIRE ? 0 : 1 // left or right
-      const idx = i % SMOKE_PER_TIRE
-      // Each puff cycles with offset
-      const phase = ((t * 0.8 + idx * 0.18) % 1)
-      const tireX = tire === 0 ? -0.65 : 0.65
-
-      // Rise from tire level, drift backward (negative Z = behind)
-      mesh.position.x = tireX + Math.sin(t + i) * 0.05
-      mesh.position.y = 0.05 + phase * 0.35
-      mesh.position.z = -phase * 0.6 // drift backward
-
-      // Grow as it rises, fade out
-      const scale = 0.08 + phase * 0.2
-      mesh.scale.setScalar(scale)
-      ;(mesh.material as THREE.MeshBasicMaterial).opacity = (1 - phase) * 0.18
-    })
-  })
-
-  return (
-    <group ref={groupRef}>
-      {Array.from({ length: SMOKE_PER_TIRE * 2 }, (_, i) => (
-        <mesh
-          key={i}
-          ref={el => { if (el) meshRefs.current[i] = el }}
-        >
-          <sphereGeometry args={[1, 8, 6]} />
-          <meshBasicMaterial
-            color="#887766"
-            transparent
-            opacity={0}
-            depthWrite={false}
-          />
-        </mesh>
-      ))}
-    </group>
-  )
-}
-
 // ── Obstacle mesh ──
 
 function ObstacleMesh({ type }: { type: ObsType }) {
@@ -218,7 +168,6 @@ function ObstacleMesh({ type }: { type: ObsType }) {
           <meshBasicMaterial color="#ff2200" transparent opacity={0.06} blending={THREE.AdditiveBlending} depthWrite={false} />
         </mesh>
         {/* Smoke particles */}
-        <BrakeSmoke />
       </>
     )
   }
