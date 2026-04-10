@@ -45,65 +45,124 @@ const AUDIO_ZONES = [
   { key: 'hf', pos: [0, 0.6, 0.8] as [number, number, number], color: '#00e5ff', minFreq: 1000, label: 'ВЧ шум' },
 ]
 
-// Concentric particle ring for a single audio zone
-const RING_PARTICLES = 24
-function AudioParticleRing({ color, amplitude }: { color: string; amplitude: number }) {
+// Single audio zone: pulsing core sphere + 3 expanding wave rings + particle spray
+function AudioZoneEmitter({ color, amplitude, index }: { color: string; amplitude: number; index: number }) {
+  const coreRef = useRef<THREE.Mesh>(null)
+  const ringsRef = useRef<THREE.Mesh[]>([])
   const pointsRef = useRef<THREE.Points>(null)
+  const PARTICLES = 60
 
-  const positions = useMemo(() => {
-    const arr = new Float32Array(RING_PARTICLES * 3)
-    for (let i = 0; i < RING_PARTICLES; i++) {
-      const angle = (i / RING_PARTICLES) * Math.PI * 2
-      arr[i * 3] = Math.cos(angle) * 0.2
-      arr[i * 3 + 1] = 0
-      arr[i * 3 + 2] = Math.sin(angle) * 0.2
+  const particlePositions = useMemo(() => {
+    const arr = new Float32Array(PARTICLES * 3)
+    for (let i = 0; i < PARTICLES; i++) {
+      const theta = Math.random() * Math.PI * 2
+      const phi = Math.random() * Math.PI
+      const r = 0.1 + Math.random() * 0.3
+      arr[i * 3] = r * Math.sin(phi) * Math.cos(theta)
+      arr[i * 3 + 1] = r * Math.cos(phi)
+      arr[i * 3 + 2] = r * Math.sin(phi) * Math.sin(theta)
     }
     return arr
   }, [])
 
   useFrame(({ clock }) => {
-    const pts = pointsRef.current
-    if (!pts) return
     const t = clock.elapsedTime
-    const arr = pts.geometry.attributes.position.array as Float32Array
-    for (let i = 0; i < RING_PARTICLES; i++) {
-      const angle = (i / RING_PARTICLES) * Math.PI * 2
-      // Expand outward proportional to amplitude
-      const r = 0.2 + amplitude * 0.4 + Math.sin(t * 3 + i) * 0.05
-      arr[i * 3] = Math.cos(angle + t * 0.5) * r
-      arr[i * 3 + 2] = Math.sin(angle + t * 0.5) * r
+    const amp = amplitude
+    const baseAmp = 0.15 // always show something even with zero data
+
+    // Core sphere: pulses with amplitude
+    if (coreRef.current) {
+      const s = (baseAmp + amp * 0.6) * (1 + Math.sin(t * (3 + index)) * 0.3)
+      coreRef.current.scale.setScalar(s)
+      ;(coreRef.current.material as THREE.MeshBasicMaterial).opacity = 0.25 + amp * 0.5
     }
-    pts.geometry.attributes.position.needsUpdate = true
-    ;(pts.material as THREE.PointsMaterial).opacity = amplitude * 0.5
-    ;(pts.material as THREE.PointsMaterial).size = 0.02 + amplitude * 0.04
+
+    // 3 expanding rings: staggered phase, grow outward, fade
+    for (let r = 0; r < 3; r++) {
+      const ring = ringsRef.current[r]
+      if (!ring) continue
+      // Each ring cycles 0→1 with phase offset
+      const phase = ((t * (0.6 + amp * 0.8) + r * 0.33) % 1)
+      const ringScale = 0.15 + phase * (0.8 + amp * 1.2)
+      ring.scale.setScalar(ringScale)
+      // Fade out as it expands
+      ;(ring.material as THREE.MeshBasicMaterial).opacity = (1 - phase) * (0.2 + amp * 0.5)
+    }
+
+    // Particles: expand outward proportional to amplitude, orbit slowly
+    if (pointsRef.current) {
+      const arr = pointsRef.current.geometry.attributes.position.array as Float32Array
+      for (let i = 0; i < PARTICLES; i++) {
+        const theta = (i / PARTICLES) * Math.PI * 2 + t * 0.3
+        const phi = (i * 2.399) % Math.PI // golden angle distribution
+        const r = 0.15 + (baseAmp + amp) * 0.5 + Math.sin(t * 2 + i * 0.7) * 0.08
+        arr[i * 3] = r * Math.sin(phi) * Math.cos(theta)
+        arr[i * 3 + 1] = r * Math.cos(phi) * 0.6 // flatten slightly
+        arr[i * 3 + 2] = r * Math.sin(phi) * Math.sin(theta)
+      }
+      pointsRef.current.geometry.attributes.position.needsUpdate = true
+      ;(pointsRef.current.material as THREE.PointsMaterial).opacity = 0.12 + amp * 0.4
+      ;(pointsRef.current.material as THREE.PointsMaterial).size = 0.03 + amp * 0.05
+    }
   })
 
   return (
-    <points ref={pointsRef}>
-      <bufferGeometry>
-        <bufferAttribute attach="attributes-position" args={[positions, 3]} />
-      </bufferGeometry>
-      <pointsMaterial
-        color={color}
-        size={0.03}
-        transparent
-        opacity={0.1}
-        blending={THREE.AdditiveBlending}
-        depthWrite={false}
-        sizeAttenuation
-      />
-    </points>
+    <group>
+      {/* Glowing core sphere */}
+      <mesh ref={coreRef}>
+        <sphereGeometry args={[0.15, 16, 12]} />
+        <meshBasicMaterial
+          color={color}
+          transparent
+          opacity={0.3}
+          blending={THREE.AdditiveBlending}
+          depthWrite={false}
+        />
+      </mesh>
+
+      {/* 3 expanding wave rings */}
+      {[0, 1, 2].map(r => (
+        <mesh
+          key={r}
+          ref={el => { if (el) ringsRef.current[r] = el }}
+          rotation={[Math.PI / 2, 0, 0]}
+        >
+          <torusGeometry args={[0.5, 0.015, 8, 48]} />
+          <meshBasicMaterial
+            color={color}
+            transparent
+            opacity={0.2}
+            blending={THREE.AdditiveBlending}
+            depthWrite={false}
+          />
+        </mesh>
+      ))}
+
+      {/* Particle spray */}
+      <points ref={pointsRef}>
+        <bufferGeometry>
+          <bufferAttribute attach="attributes-position" args={[particlePositions, 3]} />
+        </bufferGeometry>
+        <pointsMaterial
+          color={color}
+          size={0.04}
+          transparent
+          opacity={0.15}
+          blending={THREE.AdditiveBlending}
+          depthWrite={false}
+          sizeAttenuation
+        />
+      </points>
+    </group>
   )
 }
 
 function AudioZones3D({ audioData }: { audioData?: AudioSample[] }) {
-  const ringsRef = useRef<THREE.Mesh[]>([])
-
   // Compute zone amplitudes from latest audio sample
   const zoneAmps = useMemo(() => {
-    if (!audioData || audioData.length === 0) return [0, 0, 0, 0]
+    if (!audioData || audioData.length === 0) return [0.3, 0.3, 0.3, 0.3] // demo baseline
     const last = audioData[audioData.length - 1]
-    if (!last.freqs || last.freqs.length === 0) return [0, 0, 0, 0]
+    if (!last.freqs || last.freqs.length === 0) return [0.3, 0.3, 0.3, 0.3]
 
     return AUDIO_ZONES.map(zone => {
       let sum = 0
@@ -114,43 +173,15 @@ function AudioZones3D({ audioData }: { audioData?: AudioSample[] }) {
         const max = (zone as any).maxFreq ?? 99999
         if (f >= min && f < max) sum += a
       }
-      return Math.min(sum / 500, 1) // normalize 0..1
+      return Math.max(Math.min(sum / 300, 1), 0.15) // normalize 0.15..1, never fully invisible
     })
   }, [audioData])
-
-  useFrame(({ clock }) => {
-    const t = clock.elapsedTime
-    AUDIO_ZONES.forEach((_, i) => {
-      const mesh = ringsRef.current[i]
-      if (!mesh) return
-      const amp = zoneAmps[i]
-      const pulse = 1 + Math.sin(t * (2 + i)) * 0.15 * amp
-      mesh.scale.setScalar(0.15 + amp * 0.3)
-      mesh.scale.multiplyScalar(pulse)
-      ;(mesh.material as THREE.MeshBasicMaterial).opacity = 0.1 + amp * 0.4
-    })
-  })
 
   return (
     <group>
       {AUDIO_ZONES.map((zone, i) => (
         <group key={zone.key} position={zone.pos}>
-          {/* Torus ring */}
-          <mesh
-            ref={el => { if (el) ringsRef.current[i] = el }}
-            rotation={[Math.PI / 2, 0, 0]}
-          >
-            <torusGeometry args={[0.3, 0.02, 8, 32]} />
-            <meshBasicMaterial
-              color={zone.color}
-              transparent
-              opacity={0.15}
-              blending={THREE.AdditiveBlending}
-              depthWrite={false}
-            />
-          </mesh>
-          {/* Concentric particle ring */}
-          <AudioParticleRing color={zone.color} amplitude={zoneAmps[i]} />
+          <AudioZoneEmitter color={zone.color} amplitude={zoneAmps[i]} index={i} />
         </group>
       ))}
     </group>
