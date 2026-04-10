@@ -1,0 +1,17 @@
+{
+  "generation_id": "hyundai_santa_fe_mx5_2023",
+  "generation_name": "Santa Fe V (MX5)",
+  "year_start": 2023,
+  "year_end": 2026,
+  "body_type": "suv",
+  "market": "parallel_import",
+  "production": "Корея",
+  "engines": [
+    { "code": "G4KM", "volume": "2.5L", "type": "Smartstream MPI", "fuel": "petrol", "power_hp": 194 },
+    { "code": "G4KN", "volume": "2.5L", "type": "Smartstream T-GDI", "fuel": "petrol", "power_hp": 281 }
+  ],
+  "transmissions": ["АКПП-8"],
+  "drivetrains": ["AWD (HTRAC)"],
+  "popularity_ru": "medium",
+  "notes": "Пятое поколение, параллельный импорт. Полностью новый дизайн."
+}

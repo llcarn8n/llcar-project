@@ -1,0 +1,18 @@
+{
+  "generation_id": "hyundai_elantra_cn7_2020",
+  "generation_name": "Elantra VII (CN7)",
+  "year_start": 2020,
+  "year_end": 2026,
+  "body_type": "sedan",
+  "market": "parallel_import",
+  "production": "Корея",
+  "platform": "Hyundai-Kia K3 (shared with Kia Cerato BD facelift)",
+  "engines": [
+    { "code": "G4FG", "volume": "1.6L", "type": "Gamma MPI", "fuel": "petrol", "power_hp": 123 },
+    { "code": "G4NA", "volume": "2.0L", "type": "Nu MPI", "fuel": "petrol", "power_hp": 150 }
+  ],
+  "transmissions": ["CVT (1.6)", "АКПП-6 (2.0)"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "medium",
+  "notes": "Седьмое поколение, параллельный импорт. Радикальный дизайн."
+}

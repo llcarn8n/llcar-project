@@ -1,0 +1,18 @@
+{
+  "generation_id": "hyundai_santa_fe_tm_2018",
+  "generation_name": "Santa Fe IV (TM)",
+  "year_start": 2018,
+  "year_end": 2023,
+  "body_type": "suv",
+  "market": "local_production + parallel_import",
+  "production": "Автотор Калининград 2018-2022, затем параллельный импорт",
+  "facelift": 2021,
+  "engines": [
+    { "code": "G4KN", "volume": "2.5L", "type": "Smartstream GDI", "fuel": "petrol", "power_hp": 180 },
+    { "code": "D4HB", "volume": "2.2L", "type": "CRDi Turbo Diesel", "fuel": "diesel", "power_hp": 200 }
+  ],
+  "transmissions": ["АКПП-6 (2.5)", "АКПП-8 (2.2D)"],
+  "drivetrains": ["FWD", "AWD (HTRAC)"],
+  "popularity_ru": "high",
+  "notes": "Четвёртое поколение, Автотор. Рестайлинг 2021. HTRAC полный привод."
+}

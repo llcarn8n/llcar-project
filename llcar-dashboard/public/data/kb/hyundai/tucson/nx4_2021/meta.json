@@ -1,0 +1,19 @@
+{
+  "generation_id": "hyundai_tucson_nx4_2021",
+  "generation_name": "Tucson IV (NX4)",
+  "year_start": 2021,
+  "year_end": 2026,
+  "body_type": "suv",
+  "market": "parallel_import",
+  "production": "Корея / Чехия",
+  "platform": "Hyundai-Kia N3 (shared with Kia Sportage NQ5)",
+  "engines": [
+    { "code": "G4NA", "volume": "2.0L", "type": "Nu MPI", "fuel": "petrol", "power_hp": 150 },
+    { "code": "G4KM", "volume": "2.5L", "type": "Smartstream MPI", "fuel": "petrol", "power_hp": 190 },
+    { "code": "D4HA", "volume": "2.0L", "type": "CRDi Turbo Diesel", "fuel": "diesel", "power_hp": 186 }
+  ],
+  "transmissions": ["АКПП-6 (2.0)", "АКПП-8 (2.5/diesel)"],
+  "drivetrains": ["FWD", "AWD"],
+  "popularity_ru": "high",
+  "notes": "Четвёртое поколение, параллельный импорт. Платформа N3 как Kia Sportage NQ5."
+}

@@ -1,0 +1,19 @@
+{
+  "generation_id": "hyundai_elantra_ad_2016",
+  "generation_name": "Elantra VI (AD)",
+  "year_start": 2016,
+  "year_end": 2020,
+  "body_type": "sedan",
+  "market": "local_production",
+  "production": "Автотор, Калининград",
+  "facelift": 2019,
+  "platform": "Hyundai-Kia (shared with Kia Cerato BD)",
+  "engines": [
+    { "code": "G4FG", "volume": "1.6L", "type": "Gamma MPI", "fuel": "petrol", "power_hp": 128 },
+    { "code": "G4NA", "volume": "2.0L", "type": "Nu MPI", "fuel": "petrol", "power_hp": 150 }
+  ],
+  "transmissions": ["МКПП-6", "АКПП-6"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "high",
+  "notes": "Шестое поколение, Автотор. Платформа как Kia Cerato BD."
+}

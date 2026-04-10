@@ -1,0 +1,19 @@
+{
+  "generation_id": "hyundai_tucson_tl_2015",
+  "generation_name": "Tucson III (TL)",
+  "year_start": 2015,
+  "year_end": 2021,
+  "body_type": "suv",
+  "market": "local_production",
+  "production": "Автотор, Калининград",
+  "facelift": 2018,
+  "platform": "Hyundai-Kia (shared with Kia Sportage QL)",
+  "engines": [
+    { "code": "G4NA", "volume": "2.0L", "type": "Nu MPI", "fuel": "petrol", "power_hp": 150 },
+    { "code": "D4HA", "volume": "2.0L", "type": "CRDi Turbo Diesel", "fuel": "diesel", "power_hp": 185 }
+  ],
+  "transmissions": ["МКПП-6", "АКПП-6"],
+  "drivetrains": ["FWD", "AWD"],
+  "popularity_ru": "very_high",
+  "notes": "Третье поколение, Автотор Калининград. Платформа как Kia Sportage QL. Рестайлинг 2018."
+}
