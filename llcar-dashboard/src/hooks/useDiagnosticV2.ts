@@ -93,7 +93,7 @@ export interface HistoryEntry {
   top_diagnostic_confidence: number
 }
 
-export function useDiagnosticV2(clientHash: string) {
+export function useDiagnosticV2(clientHash: string, timeRange: number = 10080) {
   const [report, setReport] = useState<DiagnosticReport | null>(null)
   const [history, setHistory] = useState<HistoryEntry[]>([])
   const [loading, setLoading] = useState(true)
@@ -103,7 +103,7 @@ export function useDiagnosticV2(clientHash: string) {
   const fetchLatest = useCallback(async () => {
     try {
       setLoading(true)
-      const res = await fetch(`/api/v2/diagnose-latest/?client_hash=${clientHash}&minutes=10080`)
+      const res = await fetch(`/api/v2/diagnose-latest/?client_hash=${clientHash}&minutes=${timeRange}`)
       if (res.ok) {
         const data = await res.json()
         if (!data.error) {
@@ -118,7 +118,7 @@ export function useDiagnosticV2(clientHash: string) {
     } finally {
       setLoading(false)
     }
-  }, [clientHash])
+  }, [clientHash, timeRange])
 
   // Fetch history
   const fetchHistory = useCallback(async (period = '7d') => {
@@ -135,12 +135,13 @@ export function useDiagnosticV2(clientHash: string) {
 
   // Auto-fetch on mount + periodic refresh
   useEffect(() => {
+    const period = timeRange <= 60 ? '1h' : timeRange <= 1440 ? '24h' : timeRange <= 10080 ? '7d' : '30d'
     fetchLatest()
-    fetchHistory()
+    fetchHistory(period)
     const timer1 = setInterval(fetchLatest, 30000)
-    const timer2 = setInterval(() => fetchHistory(), 60000)
+    const timer2 = setInterval(() => fetchHistory(period), 60000)
     return () => { clearInterval(timer1); clearInterval(timer2) }
-  }, [fetchLatest, fetchHistory])
+  }, [fetchLatest, fetchHistory, timeRange])
 
   // Send feedback
   const sendFeedback = useCallback(async (ruleName: string, action: 'confirmed' | 'dismissed') => {

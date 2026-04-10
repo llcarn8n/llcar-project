@@ -57,12 +57,20 @@ const SYSTEMS = [
   { key: 'audio' as const, name: 'Аудио', icon: '🔊' },
 ]
 
+const TIME_PILLS = [
+  { label: '1ч', val: 60 },
+  { label: '24ч', val: 1440 },
+  { label: '7д', val: 10080 },
+  { label: '30д', val: 43200 },
+]
+
 export function Diagnostics() {
   const clientHash = useDashboardStore(s => s.clientHash)
   const timeRange = useDashboardStore(s => s.timeRange)
+  const setTimeRange = useDashboardStore(s => s.setTimeRange)
   const expertMode = useDashboardStore(s => s.expertMode)
   const useV2Api = useDashboardStore(s => s.useV2Api)
-  const { report: v2Report, history: v2History, loading: v2Loading, error: _v2Error, sendFeedback, fetchLatest } = useDiagnosticV2(clientHash)
+  const { report: v2Report, history: v2History, loading: v2Loading, error: _v2Error, sendFeedback, fetchLatest } = useDiagnosticV2(clientHash, timeRange)
   const [manualLoading, setManualLoading] = useState(false)
   const [activeSystem, setActiveSystem] = useState<string | null>('suspension')
 
@@ -181,6 +189,30 @@ export function Diagnostics() {
           />
         </div>
       )}
+
+      {/* ═══ TIME PERIOD PILLS ═══ */}
+      <div style={{ display: 'flex', justifyContent: 'center', gap: 4, margin: '8px 0' }}>
+        {TIME_PILLS.map(p => (
+          <button
+            key={p.val}
+            onClick={() => setTimeRange(p.val)}
+            style={{
+              fontFamily: "'Orbitron', sans-serif",
+              fontSize: 10,
+              padding: '4px 12px',
+              borderRadius: 4,
+              border: timeRange === p.val ? '1px solid rgba(0,229,255,0.4)' : '1px solid rgba(255,255,255,0.1)',
+              background: timeRange === p.val ? 'rgba(0,229,255,0.15)' : 'rgba(255,255,255,0.04)',
+              color: timeRange === p.val ? '#00e5ff' : 'rgba(255,255,255,0.5)',
+              cursor: 'pointer',
+              transition: 'all 0.2s',
+              letterSpacing: '0.05em',
+            }}
+          >
+            {p.label}
+          </button>
+        ))}
+      </div>
 
       {/* ═══ FULL-WIDTH 3D VIEWPORT ═══ */}
       <div className="diag-viewport-full">
