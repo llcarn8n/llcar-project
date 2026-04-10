@@ -990,20 +990,24 @@ header {
 .system-tab-bar {
   display: flex;
   gap: 2px;
-  border-bottom: 1px solid var(--border-glow);
-  padding: 0 4px;
-  margin-top: 12px;
+  padding: 2px 4px;
+  margin: 0;
+  background: rgba(6, 18, 30, 0.88);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(0, 229, 255, 0.15);
+  border-radius: 8px;
 }
 
 .system-tab {
   font-family: 'Orbitron', sans-serif;
-  font-size: 0.6rem;
-  letter-spacing: 0.12em;
+  font-size: 0.55rem;
+  letter-spacing: 0.1em;
   text-transform: uppercase;
-  padding: 8px 16px;
+  padding: 5px 12px;
   color: var(--nav-text);
   border: none;
-  border-bottom: 2px solid transparent;
+  border-radius: 6px;
   cursor: pointer;
   transition: all 0.2s;
   background: transparent;
@@ -1016,7 +1020,7 @@ header {
 
 .system-tab.active {
   color: #fff;
-  border-bottom-color: var(--accent-cyan);
+  background: rgba(0, 229, 255, 0.15);
   background: linear-gradient(135deg, rgba(0, 229, 255, 0.1), transparent);
   text-shadow: 0 0 8px rgba(0, 229, 255, 0.4);
 }

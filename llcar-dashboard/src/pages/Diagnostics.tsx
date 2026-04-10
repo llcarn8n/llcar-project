@@ -314,10 +314,14 @@ export function Diagnostics() {
             </div>
           )}
         </div>
+        {/* ── System tab bar inside 3D viewport (top center) ── */}
+        <div style={{
+          position: 'absolute', top: 8, left: '50%', transform: 'translateX(-50%)',
+          zIndex: 25, pointerEvents: 'auto',
+        }}>
+          <SystemTabBar active={activeSystem} onChange={setActiveSystem} />
+        </div>
       </div>
-
-      {/* ═══ SYSTEM TAB BAR ═══ */}
-      <SystemTabBar active={activeSystem} onChange={setActiveSystem} />
 
       {/* ═══ DETAIL PANEL (conditional by activeSystem) ═══ */}
       <div className="grid grid-cols-12 gap-3 mt-3">
