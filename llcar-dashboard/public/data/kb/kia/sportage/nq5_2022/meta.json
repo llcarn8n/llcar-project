@@ -1,0 +1,28 @@
+{
+  "generation_id": "kia_sportage_nq5_2022",
+  "generation_name": "Sportage V (NQ5)",
+  "year_start": 2022,
+  "year_end": 2026,
+  "body_type": "suv",
+  "market": "parallel_import",
+  "production": "Корея / Словакия",
+  "platform": "Hyundai-Kia N3 (shared with Hyundai Tucson NX4)",
+  "dimensions": {
+    "length_mm": 4515,
+    "width_mm": 1865,
+    "height_mm": 1650,
+    "wheelbase_mm": 2680,
+    "ground_clearance_mm": 177,
+    "trunk_volume_l": 543,
+    "fuel_tank_l": 54,
+    "curb_weight_kg": 1610
+  },
+  "engines": [
+    { "code": "G4NA", "volume": "2.0L", "type": "Nu MPI", "fuel": "petrol", "power_hp": 150 },
+    { "code": "G4KM", "volume": "2.5L", "type": "Smartstream MPI", "fuel": "petrol", "power_hp": 190 }
+  ],
+  "transmissions": ["АКПП-6 (2.0)", "АКПП-8 (2.5)"],
+  "drivetrains": ["FWD", "AWD"],
+  "popularity_ru": "high",
+  "notes": "Пятое поколение, только параллельный импорт. Новый дизайн, платформа N3 как Tucson NX4. Есть гибридные версии на других рынках."
+}
