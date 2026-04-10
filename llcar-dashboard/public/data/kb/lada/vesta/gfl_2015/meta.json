@@ -1,0 +1,20 @@
+{
+  "generation_id": "lada_vesta_gfl_2015",
+  "generation_name": "Vesta (GFL/GFK)",
+  "year_start": 2015,
+  "year_end": 2026,
+  "body_type": "sedan/sw/cross",
+  "market": "local_production",
+  "production": "АвтоВАЗ, Ижевск → Тольятти",
+  "facelift": 2022,
+  "platform": "CMF-B LS (Renault-Nissan Alliance)",
+  "engines": [
+    { "code": "ВАЗ-21129", "volume": "1.6L", "type": "16V MPI", "fuel": "petrol", "power_hp": 106 },
+    { "code": "ВАЗ-21179", "volume": "1.8L", "type": "16V MPI", "fuel": "petrol", "power_hp": 122 },
+    { "code": "H4M", "volume": "1.6L", "type": "HR16DE MPI", "fuel": "petrol", "power_hp": 113 }
+  ],
+  "transmissions": ["МКПП-5 (ВАЗ)", "АМТ-5 (робот ВАЗ)", "CVT Jatco (H4M)"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "very_high",
+  "notes": "Единственное поколение с рестайлингом 2022. Ижевск до 2022, затем Тольятти. АМТ — робот, спорный. CVT только с H4M."
+}

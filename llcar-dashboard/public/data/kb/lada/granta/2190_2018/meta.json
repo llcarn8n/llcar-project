@@ -1,0 +1,19 @@
+{
+  "generation_id": "lada_granta_2190_2018",
+  "generation_name": "Granta FL (2190)",
+  "year_start": 2018,
+  "year_end": 2026,
+  "body_type": "sedan/liftback/sw/cross",
+  "market": "local_production",
+  "production": "АвтоВАЗ, Тольятти",
+  "platform": "ВАЗ-2190 (Kalina base)",
+  "engines": [
+    { "code": "ВАЗ-11186", "volume": "1.6L", "type": "8V MPI", "fuel": "petrol", "power_hp": 87 },
+    { "code": "ВАЗ-21127", "volume": "1.6L", "type": "16V MPI", "fuel": "petrol", "power_hp": 106 },
+    { "code": "ВАЗ-21129", "volume": "1.6L", "type": "16V MPI", "fuel": "petrol", "power_hp": 106 }
+  ],
+  "transmissions": ["МКПП-5", "АМТ-5 (робот)", "АКПП-4 (Jatco)"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "very_high",
+  "notes": "Рестайлинг 2018 (объединила Granta и Kalina). Тольятти. Самый массовый автомобиль в РФ по продажам."
+}
