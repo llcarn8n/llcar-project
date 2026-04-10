@@ -39,9 +39,10 @@ const AUDIO_LEGEND = [
 
 const VIBRATION_LEGEND = [
   { color: '#00e5ff', label: '⬇ Яма', type: 'pothole' },
-  { color: '#64ffda', label: '⬆ Бугор', type: 'bump' },
+  { color: '#4ade80', label: '⬆ Бугор', type: 'bump' },
   { color: '#ff4444', label: '⏹ Торможение', type: 'brake' },
-  { color: '#00b8d4', label: '↔ Колея / ▬ Стык', type: 'rut' },
+  { color: '#f59e0b', label: '↔ Колея', type: 'rut' },
+  { color: '#a78bfa', label: '▬ Стык', type: 'joint' },
 ]
 
 const CoherenceMap = lazy(() => import('../components/panels/CoherenceMap').then(m => ({ default: m.CoherenceMap })))
@@ -261,39 +262,57 @@ export function Diagnostics() {
 
         <div className="scan-overlay" />
 
-        {/* ── Bottom legend: vibration types + audio zones ── */}
+        {/* ── Bottom legend: two blocks — ВИБРАЦИИ | АУДИО ── */}
         <div style={{
-          position: 'absolute', bottom: 6, left: 8, right: 8, zIndex: 25,
-          display: 'flex', gap: 12, alignItems: 'center', justifyContent: 'center', flexWrap: 'wrap',
-          pointerEvents: 'auto',
-          background: 'rgba(6, 18, 30, 0.92)', backdropFilter: 'blur(8px)',
-          padding: '6px 12px', borderRadius: 6,
-          border: '1px solid rgba(0, 229, 255, 0.15)',
-          fontFamily: "'Share Tech Mono', monospace", fontSize: '0.6rem', letterSpacing: '0.04em',
+          position: 'absolute', bottom: 8, left: 10, right: 10, zIndex: 25,
+          display: 'flex', gap: 0, pointerEvents: 'auto',
+          fontFamily: "'Rajdhani', sans-serif", fontSize: '0.72rem',
         }}>
-          {/* Vibrations — solid dots */}
-          {(!activeSystem || activeSystem === 'suspension') && VIBRATION_LEGEND.map(v => (
-            <span key={v.type} style={{ display: 'flex', alignItems: 'center', gap: 4, color: v.color }}>
-              <span style={{ width: 8, height: 8, borderRadius: '50%', background: v.color, boxShadow: `0 0 4px ${v.color}` }} />
-              {v.label}
-            </span>
-          ))}
-          {/* Separator */}
-          {!activeSystem && <span style={{ color: 'rgba(255,255,255,0.15)' }}>│</span>}
-          {/* Audio zones — ring dots, clickable → audio tab */}
-          {(!activeSystem || activeSystem === 'audio') && AUDIO_LEGEND.map(a => (
-            <span
-              key={a.label}
+          {/* LEFT: Vibrations */}
+          {(!activeSystem || activeSystem === 'suspension') && (
+            <div style={{
+              flex: 1, display: 'flex', flexDirection: 'column', gap: 3,
+              background: 'rgba(6, 18, 30, 0.93)', backdropFilter: 'blur(10px)',
+              padding: '6px 10px', borderRadius: '6px 0 0 6px',
+              border: '1px solid rgba(0, 229, 255, 0.15)', borderRight: 'none',
+            }}>
+              <div style={{ fontSize: '0.55rem', fontFamily: "'Orbitron', sans-serif", letterSpacing: '0.12em', color: 'rgba(255,255,255,0.4)', textTransform: 'uppercase' as const, marginBottom: 1 }}>Вибрации</div>
+              <div style={{ display: 'flex', gap: 10, flexWrap: 'wrap' }}>
+                {VIBRATION_LEGEND.map(v => (
+                  <span key={v.type} style={{ display: 'flex', alignItems: 'center', gap: 4, color: v.color }}>
+                    <span style={{ width: 9, height: 9, borderRadius: '50%', background: v.color, boxShadow: `0 0 6px ${v.color}` }} />
+                    {v.label}
+                  </span>
+                ))}
+              </div>
+            </div>
+          )}
+          {/* RIGHT: Audio zones */}
+          {(!activeSystem || activeSystem === 'audio') && (
+            <div
               onClick={() => handleHotspotClick('audio')}
-              style={{ display: 'flex', alignItems: 'center', gap: 4, color: a.color, cursor: 'pointer' }}
+              style={{
+                flex: 1, display: 'flex', flexDirection: 'column', gap: 3, cursor: 'pointer',
+                background: 'rgba(6, 18, 30, 0.93)', backdropFilter: 'blur(10px)',
+                padding: '6px 10px',
+                borderRadius: (!activeSystem && (activeSystem as string | null) !== 'audio') ? '0 6px 6px 0' : '6px',
+                border: '1px solid rgba(0, 229, 255, 0.15)',
+              }}
             >
-              <span style={{
-                width: 8, height: 8, borderRadius: '50%', border: `2px solid ${a.color}`,
-                boxShadow: `0 0 4px ${a.color}`, background: 'transparent',
-              }} />
-              {a.label}
-            </span>
-          ))}
+              <div style={{ fontSize: '0.55rem', fontFamily: "'Orbitron', sans-serif", letterSpacing: '0.12em', color: 'rgba(255,255,255,0.4)', textTransform: 'uppercase' as const, marginBottom: 1 }}>Аудио зоны</div>
+              <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
+                {AUDIO_LEGEND.map(a => (
+                  <span key={a.label} style={{ display: 'flex', alignItems: 'center', gap: 4, color: a.color }}>
+                    <span style={{
+                      width: 9, height: 9, borderRadius: '50%', border: `2px solid ${a.color}`,
+                      boxShadow: `0 0 5px ${a.color}`, background: 'transparent',
+                    }} />
+                    {a.label}
+                  </span>
+                ))}
+              </div>
+            </div>
+          )}
         </div>
       </div>
 
