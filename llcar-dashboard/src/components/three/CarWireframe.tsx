@@ -100,9 +100,8 @@ export function CarWireframe({ activeSystem = null, onWheelRefs }: CarWireframeP
       const cat = child.userData.materialCategory
       if (!cat) return
       child.material = getHoloMaterial(cat, getMaterialState(cat, activeSystem))
-      if (cat === 'interior') {
-        child.visible = activeSystem === 'audio' || activeSystem === null
-      }
+      // Everything always visible — no hiding of interior or tires
+      child.visible = true
     })
   }, [activeSystem, clonedScene])
 
