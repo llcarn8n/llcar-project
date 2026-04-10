@@ -1,0 +1,19 @@
+{
+  "generation_id": "renault_duster_hs_2015",
+  "generation_name": "Duster I рестайлинг (HS)",
+  "year_start": 2015,
+  "year_end": 2021,
+  "body_type": "suv",
+  "market": "local_production",
+  "production": "Автофрамос/Renault Russia, Москва",
+  "platform": "Dacia B0 (Logan platform)",
+  "engines": [
+    { "code": "H4M", "volume": "1.6L", "type": "HR16DE MPI", "fuel": "petrol", "power_hp": 114 },
+    { "code": "F4R", "volume": "2.0L", "type": "MPI", "fuel": "petrol", "power_hp": 143 },
+    { "code": "K9K", "volume": "1.5L", "type": "dCi Turbo Diesel", "fuel": "diesel", "power_hp": 109 }
+  ],
+  "transmissions": ["МКПП-5", "МКПП-6 (2.0)", "АКПП-4 (2.0)"],
+  "drivetrains": ["FWD", "AWD"],
+  "popularity_ru": "very_high",
+  "notes": "Рестайлинг первого поколения. Москва. Платформа B0 от Logan. H4M — совместный с Nissan (HR16DE)."
+}

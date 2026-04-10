@@ -1,0 +1,17 @@
+{
+  "generation_id": "renault_logan_ll_2022",
+  "generation_name": "Logan III (LL)",
+  "year_start": 2022,
+  "year_end": 2026,
+  "body_type": "sedan",
+  "market": "local_production",
+  "production": "АвтоВАЗ, Тольятти (без бренда Renault)",
+  "platform": "CMF-B LS",
+  "engines": [
+    { "code": "H4M", "volume": "1.6L", "type": "HR16DE MPI", "fuel": "petrol", "power_hp": 113 }
+  ],
+  "transmissions": ["МКПП-5", "CVT (Jatco)"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "high",
+  "notes": "Третье поколение, продаётся без бренда Renault. АвтоВАЗ Тольятти. Только H4M 1.6."
+}

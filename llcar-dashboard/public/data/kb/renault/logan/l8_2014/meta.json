@@ -1,0 +1,20 @@
+{
+  "generation_id": "renault_logan_l8_2014",
+  "generation_name": "Logan II (L8)",
+  "year_start": 2014,
+  "year_end": 2022,
+  "body_type": "sedan",
+  "market": "local_production",
+  "production": "Автофрамос/Renault Russia, Москва + АвтоВАЗ Тольятти",
+  "facelift": 2018,
+  "platform": "Dacia B0+",
+  "engines": [
+    { "code": "K7M", "volume": "1.6L", "type": "8V MPI", "fuel": "petrol", "power_hp": 82 },
+    { "code": "K4M", "volume": "1.6L", "type": "16V MPI", "fuel": "petrol", "power_hp": 102 },
+    { "code": "H4M", "volume": "1.6L", "type": "HR16DE MPI", "fuel": "petrol", "power_hp": 113 }
+  ],
+  "transmissions": ["МКПП-5", "АКПП-4 (Jatco)", "CVT (H4M рестайл)"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "very_high",
+  "notes": "Второе поколение. Москва+Тольятти. K7M/K4M — легендарные ресурсные моторы. Рестайлинг 2018 — H4M и CVT."
+}

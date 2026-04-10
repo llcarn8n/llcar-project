@@ -1,0 +1,18 @@
+{
+  "generation_id": "renault_duster_hm_2021",
+  "generation_name": "Duster II (HM)",
+  "year_start": 2021,
+  "year_end": 2025,
+  "body_type": "suv",
+  "market": "local_production",
+  "production": "Renault Russia / LADA Ижевск",
+  "platform": "CMF-B (Renault-Nissan Alliance)",
+  "engines": [
+    { "code": "H4M", "volume": "1.6L", "type": "HR16DE MPI", "fuel": "petrol", "power_hp": 114 },
+    { "code": "H5Ht", "volume": "1.3L", "type": "TCe Turbo", "fuel": "petrol", "power_hp": 150 }
+  ],
+  "transmissions": ["МКПП-6", "CVT (1.3T)"],
+  "drivetrains": ["FWD", "AWD"],
+  "popularity_ru": "high",
+  "notes": "Второе поколение CMF-B. Новый турбо 1.3 TCe. CVT на турбо версиях. С 2022 без бренда Renault в РФ."
+}
