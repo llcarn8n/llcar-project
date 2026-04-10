@@ -37,12 +37,14 @@ const HOTSPOTS: { key: string; label: string; position: [number, number, number]
   { key: 'audio', label: 'Аудио', position: [0, 0.85, 1.3], color: '#64ffda' },
 ]
 
-// Audio zone positions on car and colors (matching AudioSpectrum zones)
+// 6 audio zones matching AudioTab — unique colors, positioned on car geometry
 const AUDIO_ZONES = [
-  { key: 'road', pos: [0, -0.3, 0] as [number, number, number], color: '#00e5ff', maxFreq: 100, label: 'Дорога' },
-  { key: 'engine', pos: [0, 0.2, -1.0] as [number, number, number], color: '#64ffda', minFreq: 100, maxFreq: 300, label: 'Двигатель' },
-  { key: 'acc', pos: [0.4, 0.3, 0.5] as [number, number, number], color: '#00b8d4', minFreq: 300, maxFreq: 1000, label: 'Оборудование' },
-  { key: 'hf', pos: [0, 0.6, 0.8] as [number, number, number], color: '#00e5ff', minFreq: 1000, label: 'ВЧ шум' },
+  { key: 'road',    pos: [0, -0.4, 0.8] as [number, number, number],   color: '#60a5fa', minFreq: 0,    maxFreq: 80,    label: 'Дорога' },       // blue — under front wheels
+  { key: 'engine',  pos: [0, 0.15, -1.2] as [number, number, number],  color: '#4ade80', minFreq: 80,   maxFreq: 150,   label: 'Двигатель' },    // green — engine bay
+  { key: 'trans',   pos: [0, -0.1, -0.3] as [number, number, number],  color: '#22d3ee', minFreq: 150,  maxFreq: 300,   label: 'Трансмиссия' },  // cyan — center tunnel
+  { key: 'acc',     pos: [0.6, 0.3, -0.6] as [number, number, number], color: '#f59e0b', minFreq: 300,  maxFreq: 600,   label: 'Навесное' },     // amber — right side accessories
+  { key: 'bearing', pos: [-0.6, -0.1, 0.4] as [number, number, number],color: '#f97316', minFreq: 600,  maxFreq: 2000,  label: 'Подшипники' },   // orange — left wheel hub
+  { key: 'hf',      pos: [0, 0.5, 0.5] as [number, number, number],    color: '#ef4444', minFreq: 2000, maxFreq: 99999, label: 'ВЧ шум' },       // red — cabin area
 ]
 
 // Single audio zone: pulsing core sphere + 3 expanding wave rings + particle spray
@@ -159,23 +161,23 @@ function AudioZoneEmitter({ color, amplitude, index }: { color: string; amplitud
 
 function AudioZones3D({ audioData }: { audioData?: AudioSample[] }) {
   // Compute zone amplitudes from latest audio sample
+  const ZONE_COUNT = AUDIO_ZONES.length
+  const demoBaseline = useMemo(() => new Array(ZONE_COUNT).fill(0.25), [])
   const zoneAmps = useMemo(() => {
-    if (!audioData || audioData.length === 0) return [0.3, 0.3, 0.3, 0.3] // demo baseline
+    if (!audioData || audioData.length === 0) return demoBaseline
     const last = audioData[audioData.length - 1]
-    if (!last.freqs || last.freqs.length === 0) return [0.3, 0.3, 0.3, 0.3]
+    if (!last.freqs || last.freqs.length === 0) return demoBaseline
 
     return AUDIO_ZONES.map(zone => {
       let sum = 0
       for (const [freq, amp] of last.freqs) {
         const f = Math.abs(freq)
         const a = Math.abs(amp)
-        const min = (zone as any).minFreq ?? 0
-        const max = (zone as any).maxFreq ?? 99999
-        if (f >= min && f < max) sum += a
+        if (f >= zone.minFreq && f < zone.maxFreq) sum += a
       }
-      return Math.max(Math.min(sum / 300, 1), 0.15) // normalize 0.15..1, never fully invisible
+      return Math.max(Math.min(sum / 300, 1), 0.1) // normalize 0.1..1
     })
-  }, [audioData])
+  }, [audioData, demoBaseline])
 
   return (
     <group>
