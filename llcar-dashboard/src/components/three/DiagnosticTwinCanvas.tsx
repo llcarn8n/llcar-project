@@ -37,14 +37,15 @@ const HOTSPOTS: { key: string; label: string; position: [number, number, number]
   { key: 'audio', label: 'Аудио', position: [0, 0.85, 1.3], color: '#64ffda' },
 ]
 
-// 6 audio zones matching AudioTab — unique colors, positioned on car geometry
+// 6 audio zones matching AudioTab — unique colors, spread across car geometry
+// Car model: bbox X ±1.07, Y 0..1.6, Z -2.44..+2.32 (offset Y -0.5 in CarWireframe)
 const AUDIO_ZONES = [
-  { key: 'road',    pos: [0, -0.4, 0.8] as [number, number, number],   color: '#60a5fa', minFreq: 0,    maxFreq: 80,    label: 'Дорога' },       // blue — under front wheels
-  { key: 'engine',  pos: [0, 0.15, -1.2] as [number, number, number],  color: '#4ade80', minFreq: 80,   maxFreq: 150,   label: 'Двигатель' },    // green — engine bay
-  { key: 'trans',   pos: [0, -0.1, -0.3] as [number, number, number],  color: '#22d3ee', minFreq: 150,  maxFreq: 300,   label: 'Трансмиссия' },  // cyan — center tunnel
-  { key: 'acc',     pos: [0.6, 0.3, -0.6] as [number, number, number], color: '#f59e0b', minFreq: 300,  maxFreq: 600,   label: 'Навесное' },     // amber — right side accessories
-  { key: 'bearing', pos: [-0.6, -0.1, 0.4] as [number, number, number],color: '#f97316', minFreq: 600,  maxFreq: 2000,  label: 'Подшипники' },   // orange — left wheel hub
-  { key: 'hf',      pos: [0, 0.5, 0.5] as [number, number, number],    color: '#ef4444', minFreq: 2000, maxFreq: 99999, label: 'ВЧ шум' },       // red — cabin area
+  { key: 'road',    pos: [0, -0.6, 1.5] as [number, number, number],    color: '#60a5fa', minFreq: 0,    maxFreq: 80,    label: 'Дорога' },       // blue — under front axle area
+  { key: 'engine',  pos: [0, 0.3, -1.8] as [number, number, number],    color: '#4ade80', minFreq: 80,   maxFreq: 150,   label: 'Двигатель' },    // green — behind rear bumper (engine bay)
+  { key: 'trans',   pos: [0, -0.3, -0.5] as [number, number, number],   color: '#22d3ee', minFreq: 150,  maxFreq: 300,   label: 'Трансмиссия' },  // cyan — under center tunnel
+  { key: 'acc',     pos: [1.2, 0.4, -0.8] as [number, number, number],  color: '#f59e0b', minFreq: 300,  maxFreq: 600,   label: 'Навесное' },     // amber — right side, outside body
+  { key: 'bearing', pos: [-1.1, -0.3, 1.0] as [number, number, number], color: '#f97316', minFreq: 600,  maxFreq: 2000,  label: 'Подшипники' },   // orange — left front wheel hub
+  { key: 'hf',      pos: [0, 1.2, 0.3] as [number, number, number],     color: '#ef4444', minFreq: 2000, maxFreq: 99999, label: 'ВЧ шум' },       // red — above roof/cabin
 ]
 
 // Single audio zone: pulsing core sphere + 3 expanding wave rings + particle spray
