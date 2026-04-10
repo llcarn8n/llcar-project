@@ -87,7 +87,7 @@ function AudioZoneEmitter({ color, amplitude, index, waveSpeed, maxRadius }: {
 
       sphere.scale.setScalar(Math.max(r, 0.01))
       const mat = sphere.material as THREE.MeshBasicMaterial
-      mat.opacity = envelope * amp * 0.35
+      mat.opacity = envelope * amp * 0.6
     }
   })
 
@@ -290,7 +290,7 @@ export default function DiagnosticTwinCanvas(props: DiagnosticTwinCanvasProps) {
   }, [])
 
   return (
-    <Canvas camera={{ position: [3.5, 1.5, 3.5], fov: 42 }} style={{ background: 'transparent' }}>
+    <Canvas camera={{ position: [5, 2.5, 5], fov: 38 }} style={{ background: 'transparent' }}>
       <Suspense fallback={null}>
         <SceneContent {...props} />
       </Suspense>

@@ -106,14 +106,14 @@ export function SceneSetup() {
       <OrbitControls
         enablePan={false}
         enableZoom={true}
-        autoRotate={true}
-        autoRotateSpeed={0.8}
+        enableRotate={true}
+        autoRotate={false}
         enableDamping
         dampingFactor={0.05}
-        minDistance={2}
+        minDistance={3}
         maxDistance={12}
         maxPolarAngle={Math.PI / 2 + 0.3}
-        target={[0, 0.5, 0]}
+        target={[0, 0.3, 0]}
       />
     </>
   )
