@@ -954,26 +954,27 @@ header {
 /* Left overlay (Health Score + Systems) */
 .diag-overlay-left {
   position: absolute;
-  top: 16px;
-  left: 16px;
+  top: 44px;
+  left: 10px;
   z-index: 20;
-  width: 180px;
+  width: 150px;
   display: flex;
   flex-direction: column;
-  gap: 6px;
+  gap: 4px;
   pointer-events: auto;
 }
 
 /* Right overlay (Diagnosis Card) */
 .diag-overlay-right {
   position: absolute;
-  top: 16px;
-  right: 16px;
+  top: 44px;
+  right: 10px;
   z-index: 20;
-  width: 240px;
-  max-height: calc(100% - 80px);
+  width: 200px;
+  max-height: calc(100% - 100px);
   overflow-y: auto;
   pointer-events: auto;
+  font-size: 0.75rem;
 }
 
 /* Semi-transparent glass for overlays */
