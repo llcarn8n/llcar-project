@@ -93,30 +93,30 @@ export function CanvasOverlayHUD({ pids }: CanvasOverlayHUDProps) {
       gap: 4,
     }}>
       {/* RPM + sparkline */}
-      <div style={cardStyle}>
+      {latest.rpm != null && <div style={cardStyle}>
         <div style={labelStyle}>RPM</div>
         <div style={valueStyle('#00e5ff')}>{Math.round(latest.rpm)}</div>
         <MiniSparkline data={rpmHistory} color="#00e5ff" width={70} height={16} />
-      </div>
+      </div>}
 
       {/* Coolant Temp */}
-      <div style={cardStyle}>
+      {latest.coolant != null && <div style={cardStyle}>
         <div style={labelStyle}>Т° ОЖ</div>
         <div style={valueStyle(tempColor(latest.coolant))}>
           {latest.coolant.toFixed(1)}°C
         </div>
-      </div>
+      </div>}
 
       {/* Voltage */}
-      <div style={cardStyle}>
+      {latest.voltage != null && <div style={cardStyle}>
         <div style={labelStyle}>Напряжение</div>
         <div style={valueStyle(voltColor(latest.voltage))}>
           {latest.voltage.toFixed(1)}V
         </div>
-      </div>
+      </div>}
 
       {/* Throttle — fill bar */}
-      <div style={cardStyle}>
+      {latest.throttle != null && <div style={cardStyle}>
         <div style={labelStyle}>Газ</div>
         <div style={{ display: 'flex', alignItems: 'center', gap: 4 }}>
           <div style={{ flex: 1, height: 5, background: 'rgba(255,255,255,0.06)', borderRadius: 3, overflow: 'hidden' }}>
@@ -132,7 +132,7 @@ export function CanvasOverlayHUD({ pids }: CanvasOverlayHUDProps) {
             {Math.round(latest.throttle)}%
           </span>
         </div>
-      </div>
+      </div>}
     </div>
   )
 }
