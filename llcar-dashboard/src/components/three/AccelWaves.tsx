@@ -1,4 +1,4 @@
-import { useRef, useMemo, useCallback } from 'react'
+import { useRef, useMemo, useCallback, useEffect } from 'react'
 import * as THREE from 'three'
 import { useFrame } from '@react-three/fiber'
 
@@ -47,39 +47,29 @@ const OBSTACLES: { type: ObsType; baseZ: number; x: number; label: string; sub: 
 ]
 
 
-// ── Shared materials ──
-
-const waveMaterial = new THREE.MeshBasicMaterial({
-  color: WAVE_COLOR,
-  transparent: true,
-  opacity: 0.4,
-  side: THREE.DoubleSide,
-  blending: THREE.AdditiveBlending,
-  depthWrite: false,
-})
-
-const zWaveMaterial = waveMaterial.clone()
-zWaveMaterial.opacity = 0.25
-
-const roadMaterial = new THREE.MeshBasicMaterial({
-  color: '#0a1525',
-  transparent: true,
-  opacity: 0.6,
-  side: THREE.DoubleSide,
-  depthWrite: false,
-})
-
-const lineMaterial = new THREE.MeshBasicMaterial({
-  color: '#00e5ff',
-  transparent: true,
-  opacity: 0.12,
-  side: THREE.DoubleSide,
-  depthWrite: false,
-})
-
 // ── Road strip ──
 
 function RoadStrip() {
+  const roadMaterial = useMemo(() => new THREE.MeshBasicMaterial({
+    color: '#0a1525',
+    transparent: true,
+    opacity: 0.6,
+    side: THREE.DoubleSide,
+    depthWrite: false,
+  }), [])
+
+  const lineMaterial = useMemo(() => new THREE.MeshBasicMaterial({
+    color: '#00e5ff',
+    transparent: true,
+    opacity: 0.12,
+    side: THREE.DoubleSide,
+    depthWrite: false,
+  }), [])
+
+  useEffect(() => {
+    return () => { roadMaterial.dispose(); lineMaterial.dispose() }
+  }, [roadMaterial, lineMaterial])
+
   return (
     <group position={[0, -0.52, 0]}>
       {/* Road surface */}
@@ -199,6 +189,17 @@ function AxleWave({ pos, axleRef }: {
     return g
   }, [])
 
+  const waveMaterial = useMemo(() => new THREE.MeshBasicMaterial({
+    color: WAVE_COLOR,
+    transparent: true,
+    opacity: 0.4,
+    side: THREE.DoubleSide,
+    blending: THREE.AdditiveBlending,
+    depthWrite: false,
+  }), [])
+
+  useEffect(() => { return () => { waveMaterial.dispose() } }, [waveMaterial])
+
   return <mesh ref={axleRef} position={pos} geometry={geo} material={waveMaterial} />
 }
 
@@ -211,6 +212,17 @@ function ZWave({ waveRef }: { waveRef: React.MutableRefObject<THREE.Mesh | null>
     g.userData.origPositions = new Float32Array(g.attributes.position.array)
     return g
   }, [])
+
+  const zWaveMaterial = useMemo(() => new THREE.MeshBasicMaterial({
+    color: WAVE_COLOR,
+    transparent: true,
+    opacity: 0.25,
+    side: THREE.DoubleSide,
+    blending: THREE.AdditiveBlending,
+    depthWrite: false,
+  }), [])
+
+  useEffect(() => { return () => { zWaveMaterial.dispose() } }, [zWaveMaterial])
 
   return <mesh ref={waveRef} position={[0, -0.53, 0]} geometry={geo} material={zWaveMaterial} />
 }

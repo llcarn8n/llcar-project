@@ -242,7 +242,7 @@ function SceneContent({
 }: DiagnosticTwinCanvasProps) {
   const carGroupRef = useRef<THREE.Group>(null)
 
-  const handleBounce = (y: number, roll: number, pitch: number, wheels: WheelBounce) => {
+  const handleBounce = useCallback((y: number, roll: number, pitch: number, wheels: WheelBounce) => {
     bounceRef.y = y
     bounceRef.roll = roll
     bounceRef.pitch = pitch
@@ -250,7 +250,7 @@ function SceneContent({
     wheelBounceRef.fr = wheels.fr
     wheelBounceRef.rl = wheels.rl
     wheelBounceRef.rr = wheels.rr
-  }
+  }, [])
 
   return (
     <>
