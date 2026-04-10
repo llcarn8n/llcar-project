@@ -320,58 +320,65 @@ export function Diagnostics() {
           display: 'flex', gap: 0, pointerEvents: 'auto',
           fontFamily: "'Rajdhani', sans-serif", fontSize: '0.72rem',
         }}>
-          {/* LEFT: Vibrations */}
-          {(!activeSystem || activeSystem === 'suspension') && (
-            <div style={{
-              flex: 1, display: 'flex', flexDirection: 'column', gap: 3,
+          {/* LEFT: Vibrations — always visible */}
+          <div style={{
+            flex: 1, display: 'flex', flexDirection: 'column', gap: 3,
+            background: 'rgba(6, 18, 30, 0.93)', backdropFilter: 'blur(10px)',
+            padding: '6px 10px', borderRadius: '6px 0 0 6px',
+            border: '1px solid rgba(0, 229, 255, 0.15)', borderRight: 'none',
+          }}>
+            <div style={{ fontSize: '0.55rem', fontFamily: "'Orbitron', sans-serif", letterSpacing: '0.12em', color: 'rgba(255,255,255,0.4)', textTransform: 'uppercase' as const, marginBottom: 1 }}>Вибрации</div>
+            <div style={{ display: 'flex', gap: 10, flexWrap: 'wrap' }}>
+              {VIBRATION_LEGEND.map(v => (
+                <span key={v.type} style={{ display: 'flex', alignItems: 'center', gap: 4, color: v.color }}>
+                  <span style={{ width: 9, height: 9, borderRadius: '50%', background: v.color, boxShadow: `0 0 6px ${v.color}` }} />
+                  {v.label}
+                </span>
+              ))}
+            </div>
+          </div>
+          {/* RIGHT: Audio zones — always visible */}
+          <div
+            onClick={() => handleHotspotClick('audio')}
+            style={{
+              flex: 1, display: 'flex', flexDirection: 'column', gap: 3, cursor: 'pointer',
               background: 'rgba(6, 18, 30, 0.93)', backdropFilter: 'blur(10px)',
-              padding: '6px 10px', borderRadius: '6px 0 0 6px',
-              border: '1px solid rgba(0, 229, 255, 0.15)', borderRight: 'none',
-            }}>
-              <div style={{ fontSize: '0.55rem', fontFamily: "'Orbitron', sans-serif", letterSpacing: '0.12em', color: 'rgba(255,255,255,0.4)', textTransform: 'uppercase' as const, marginBottom: 1 }}>Вибрации</div>
-              <div style={{ display: 'flex', gap: 10, flexWrap: 'wrap' }}>
-                {VIBRATION_LEGEND.map(v => (
-                  <span key={v.type} style={{ display: 'flex', alignItems: 'center', gap: 4, color: v.color }}>
-                    <span style={{ width: 9, height: 9, borderRadius: '50%', background: v.color, boxShadow: `0 0 6px ${v.color}` }} />
-                    {v.label}
-                  </span>
-                ))}
-              </div>
+              padding: '6px 10px', borderRadius: '0 6px 6px 0',
+              border: '1px solid rgba(0, 229, 255, 0.15)',
+            }}
+          >
+            <div style={{ fontSize: '0.55rem', fontFamily: "'Orbitron', sans-serif", letterSpacing: '0.12em', color: 'rgba(255,255,255,0.4)', textTransform: 'uppercase' as const, marginBottom: 1 }}>Аудио зоны</div>
+            <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
+              {AUDIO_LEGEND.map(a => (
+                <span key={a.label} style={{ display: 'flex', alignItems: 'center', gap: 4, color: a.color }}>
+                  <span style={{
+                    width: 9, height: 9, borderRadius: '50%', border: `2px solid ${a.color}`,
+                    boxShadow: `0 0 5px ${a.color}`, background: 'transparent',
+                  }} />
+                  {a.label}
+                </span>
+              ))}
             </div>
-          )}
-          {/* RIGHT: Audio zones */}
-          {(!activeSystem || activeSystem === 'audio') && (
-            <div
-              onClick={() => handleHotspotClick('audio')}
-              style={{
-                flex: 1, display: 'flex', flexDirection: 'column', gap: 3, cursor: 'pointer',
-                background: 'rgba(6, 18, 30, 0.93)', backdropFilter: 'blur(10px)',
-                padding: '6px 10px',
-                borderRadius: (!activeSystem && (activeSystem as string | null) !== 'audio') ? '0 6px 6px 0' : '6px',
-                border: '1px solid rgba(0, 229, 255, 0.15)',
-              }}
-            >
-              <div style={{ fontSize: '0.55rem', fontFamily: "'Orbitron', sans-serif", letterSpacing: '0.12em', color: 'rgba(255,255,255,0.4)', textTransform: 'uppercase' as const, marginBottom: 1 }}>Аудио зоны</div>
-              <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
-                {AUDIO_LEGEND.map(a => (
-                  <span key={a.label} style={{ display: 'flex', alignItems: 'center', gap: 4, color: a.color }}>
-                    <span style={{
-                      width: 9, height: 9, borderRadius: '50%', border: `2px solid ${a.color}`,
-                      boxShadow: `0 0 5px ${a.color}`, background: 'transparent',
-                    }} />
-                    {a.label}
-                  </span>
-                ))}
-              </div>
-            </div>
-          )}
+          </div>
         </div>
         {/* ── System tab bar inside 3D viewport (top center) ── */}
         <div style={{
           position: 'absolute', top: 8, left: '50%', transform: 'translateX(-50%)',
-          zIndex: 25, pointerEvents: 'auto',
+          zIndex: 25, pointerEvents: 'auto', display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 2,
         }}>
           <SystemTabBar active={activeSystem} onChange={setActiveSystem} />
+          {/* Date range under tabs */}
+          <div style={{
+            fontSize: 9, fontFamily: "'Share Tech Mono', monospace",
+            color: 'rgba(255,255,255,0.35)', letterSpacing: '0.05em',
+          }}>
+            {(() => {
+              const now = new Date()
+              const from = new Date(now.getTime() - timeRange * 60 * 1000)
+              const fmt = (d: Date) => `${d.getDate().toString().padStart(2, '0')}.${(d.getMonth() + 1).toString().padStart(2, '0')} ${d.getHours().toString().padStart(2, '0')}:${d.getMinutes().toString().padStart(2, '0')}`
+              return `${fmt(from)} — ${fmt(now)}`
+            })()}
+          </div>
         </div>
 
       </div>
