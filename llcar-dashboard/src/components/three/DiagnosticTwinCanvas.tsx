@@ -37,22 +37,20 @@ const HOTSPOTS: { key: string; label: string; position: [number, number, number]
   { key: 'audio', label: 'Аудио', position: [0, 0.85, 1.3], color: '#64ffda' },
 ]
 
-// 6 NVH audio zones — positioned at real noise source locations on the car
-// Based on automotive NVH (Noise, Vibration, Harshness) source mapping
+// 6 NVH audio zones — spread to ALL sides of the car for visual separation
+// Based on automotive NVH source mapping, exaggerated positions for clarity
 // Car model: bbox X ±1.07, Y 0..1.6, Z -2.44..+2.32 (offset Y -0.5)
 const AUDIO_ZONES = [
-  { key: 'road',    pos: [0, -0.6, 1.3] as [number, number, number],    color: '#60a5fa', minFreq: 0,    maxFreq: 80,    label: 'Дорога',      waveSpeed: 0.3, maxRadius: 1.8 },  // blue — tire contact patch
-  { key: 'engine',  pos: [0, 0.2, -1.8] as [number, number, number],    color: '#4ade80', minFreq: 80,   maxFreq: 150,   label: 'Двигатель',   waveSpeed: 0.5, maxRadius: 2.2 },  // green — engine/exhaust
-  { key: 'trans',   pos: [0, -0.2, -0.3] as [number, number, number],   color: '#22d3ee', minFreq: 150,  maxFreq: 300,   label: 'Трансмиссия', waveSpeed: 0.4, maxRadius: 1.5 },  // cyan — center tunnel
-  { key: 'acc',     pos: [1.1, 0.3, -1.0] as [number, number, number],  color: '#f59e0b', minFreq: 300,  maxFreq: 600,   label: 'Навесное',    waveSpeed: 0.6, maxRadius: 1.4 },  // amber — accessory belt side
-  { key: 'bearing', pos: [-1.0, -0.3, 1.2] as [number, number, number], color: '#f97316', minFreq: 600,  maxFreq: 2000,  label: 'Подшипники',  waveSpeed: 0.7, maxRadius: 1.2 },  // orange — front left hub
-  { key: 'hf',      pos: [0.3, 0.9, 1.0] as [number, number, number],   color: '#ef4444', minFreq: 2000, maxFreq: 99999, label: 'ВЧ шум',      waveSpeed: 0.9, maxRadius: 1.0 },  // red — A-pillar/windshield
+  { key: 'road',    pos: [0.8, -0.5, 1.8] as [number, number, number],   color: '#60a5fa', minFreq: 0,    maxFreq: 80,    label: 'Дорога <80Гц',      waveSpeed: 0.3, maxRadius: 1.4 },  // blue — front RIGHT tire
+  { key: 'engine',  pos: [0, 0.1, -2.2] as [number, number, number],     color: '#4ade80', minFreq: 80,   maxFreq: 150,   label: 'Двигатель 80–150Гц', waveSpeed: 0.5, maxRadius: 1.6 },  // green — behind car (exhaust)
+  { key: 'trans',   pos: [-0.8, -0.4, 0] as [number, number, number],    color: '#22d3ee', minFreq: 150,  maxFreq: 300,   label: 'Трансмиссия 150–300Гц', waveSpeed: 0.4, maxRadius: 1.2 },  // cyan — LEFT underside
+  { key: 'acc',     pos: [1.4, 0.5, -1.2] as [number, number, number],   color: '#f59e0b', minFreq: 300,  maxFreq: 600,   label: 'Навесное 300–600Гц', waveSpeed: 0.6, maxRadius: 1.0 },  // amber — far RIGHT engine bay
+  { key: 'bearing', pos: [-1.3, -0.3, 1.6] as [number, number, number],  color: '#f97316', minFreq: 600,  maxFreq: 2000,  label: 'Подшипники 0.6–2кГц', waveSpeed: 0.7, maxRadius: 0.9 },  // orange — front LEFT hub
+  { key: 'hf',      pos: [0, 1.4, 0.6] as [number, number, number],      color: '#ef4444', minFreq: 2000, maxFreq: 99999, label: 'ВЧ шум >2кГц',      waveSpeed: 0.9, maxRadius: 0.7 },  // red — ABOVE roof
 ]
 
 // ── Spherical wave emitter with 1/r decay (physically-based sound propagation) ──
-// Physics: amplitude ∝ A·e^(-B·r)·cos(C·r), where r = distance from source
-// Wavefronts are concentric spheres expanding outward with inverse-distance fade
-const WAVE_COUNT = 5 // concurrent expanding wavefronts per source
+const WAVE_COUNT = 4 // concurrent expanding wavefronts per source
 
 function AudioZoneEmitter({ color, amplitude, index, waveSpeed, maxRadius }: {
   color: string; amplitude: number; index: number; waveSpeed: number; maxRadius: number
@@ -67,8 +65,8 @@ function AudioZoneEmitter({ color, amplitude, index, waveSpeed, maxRadius }: {
     // Core: soft glow at source — gentle breathing pulse
     if (coreRef.current) {
       const breath = 1 + Math.sin(t * (1.5 + index * 0.3)) * 0.15 * amp
-      coreRef.current.scale.setScalar(0.06 + amp * 0.1 * breath)
-      ;(coreRef.current.material as THREE.MeshBasicMaterial).opacity = 0.15 + amp * 0.45
+      coreRef.current.scale.setScalar(0.5 + amp * 0.5 * breath)
+      ;(coreRef.current.material as THREE.MeshBasicMaterial).opacity = 0.3 + amp * 0.5
     }
 
     // Spherical wavefronts: expand outward, fade as 1/r (inverse distance)
@@ -95,25 +93,25 @@ function AudioZoneEmitter({ color, amplitude, index, waveSpeed, maxRadius }: {
 
   return (
     <group>
-      {/* Source core: soft inner glow */}
+      {/* Source core: small bright dot */}
       <mesh ref={coreRef}>
-        <sphereGeometry args={[0.08, 12, 8]} />
+        <sphereGeometry args={[0.04, 8, 6]} />
         <meshBasicMaterial
           color={color}
           transparent
-          opacity={0.2}
+          opacity={0.3}
           blending={THREE.AdditiveBlending}
           depthWrite={false}
         />
       </mesh>
 
-      {/* Expanding spherical wavefronts — wireframe spheres for "wave" look */}
+      {/* Expanding spherical wavefronts — wireframe spheres, fewer segments for lighter look */}
       {Array.from({ length: WAVE_COUNT }, (_, w) => (
         <mesh
           key={w}
           ref={el => { if (el) wavesRef.current[w] = el }}
         >
-          <sphereGeometry args={[1, 24, 16]} />
+          <sphereGeometry args={[1, 20, 12]} />
           <meshBasicMaterial
             color={color}
             transparent

@@ -102,22 +102,27 @@ function RoadStrip() {
   )
 }
 
-// ── Smoke particles for brake zone ──
+// ── Tire smoke for braking — billows out from under all 4 wheels ──
 
 function BrakeSmoke() {
   const pointsRef = useRef<THREE.Points>(null)
-  const PARTICLE_COUNT = 40
+  const PARTICLE_COUNT = 80
 
-  const { positions } = useMemo(() => {
+  // 4 tire positions: FL, FR, RL, RR (X offsets matching car width ~0.7)
+  const TIRE_X = [-0.7, 0.7, -0.7, 0.7]
+  const TIRE_Z = [0.3, 0.3, -0.6, -0.6] // front and rear relative to brake obstacle
+
+  const { positions, seeds } = useMemo(() => {
     const pos = new Float32Array(PARTICLE_COUNT * 3)
+    const s = new Float32Array(PARTICLE_COUNT) // random seed per particle for variation
     for (let i = 0; i < PARTICLE_COUNT; i++) {
-      // Spread around two tire tracks
-      const track = i % 2 === 0 ? -0.25 : 0.25
-      pos[i * 3] = track + (Math.random() - 0.5) * 0.3
-      pos[i * 3 + 1] = Math.random() * 0.4           // rise up
-      pos[i * 3 + 2] = (Math.random() - 0.5) * 1.5   // along skid
+      const tire = i % 4
+      pos[i * 3] = TIRE_X[tire] + (Math.random() - 0.5) * 0.3
+      pos[i * 3 + 1] = Math.random() * 0.15
+      pos[i * 3 + 2] = TIRE_Z[tire] + (Math.random() - 0.5) * 0.5
+      s[i] = Math.random()
     }
-    return { positions: pos }
+    return { positions: pos, seeds: s }
   }, [])
 
   useFrame(({ clock }) => {
@@ -126,15 +131,20 @@ function BrakeSmoke() {
     const arr = pts.geometry.attributes.position.array as Float32Array
     const t = clock.elapsedTime
     for (let i = 0; i < PARTICLE_COUNT; i++) {
-      // Particles slowly rise and fade
-      arr[i * 3 + 1] += 0.003
-      if (arr[i * 3 + 1] > 0.5) {
+      const tire = i % 4
+      // Rise slowly + drift outward from tire
+      arr[i * 3 + 1] += 0.004 + seeds[i] * 0.002
+      // Spread sideways as smoke rises
+      arr[i * 3] += (arr[i * 3] > 0 ? 0.001 : -0.001) * seeds[i]
+      // Reset when too high
+      if (arr[i * 3 + 1] > 0.5 + seeds[i] * 0.3) {
+        arr[i * 3] = TIRE_X[tire] + (Math.random() - 0.5) * 0.3
         arr[i * 3 + 1] = 0
+        arr[i * 3 + 2] = TIRE_Z[tire] + (Math.random() - 0.5) * 0.5
       }
     }
     pts.geometry.attributes.position.needsUpdate = true
-    // Pulsing opacity
-    ;(pts.material as THREE.PointsMaterial).opacity = 0.04 + Math.sin(t * 3) * 0.02
+    ;(pts.material as THREE.PointsMaterial).opacity = 0.06 + Math.sin(t * 2) * 0.02
   })
 
   return (
@@ -143,10 +153,10 @@ function BrakeSmoke() {
         <bufferAttribute attach="attributes-position" args={[positions, 3]} />
       </bufferGeometry>
       <pointsMaterial
-        color="#ff6644"
-        size={0.06}
+        color="#ccbbaa"
+        size={0.08}
         transparent
-        opacity={0.05}
+        opacity={0.07}
         blending={THREE.AdditiveBlending}
         depthWrite={false}
         sizeAttenuation
@@ -278,17 +288,35 @@ export function AccelWaves({ accelData, visible = true, onBounce }: AccelWavesPr
   const obstacleRefs = useRef<THREE.Group[]>([])
   const currentBounce = useRef({ y: 0, roll: 0, pitch: 0 })
   const currentWheels = useRef<WheelBounce>({ fl: 0, fr: 0, rl: 0, rr: 0 })
+  const roadOffset = useRef(0) // accumulated road scroll (slows on brake)
 
   const setObstacleRef = useCallback((idx: number) => (el: THREE.Group | null) => {
     if (el) obstacleRefs.current[idx] = el
   }, [])
 
-  useFrame(({ clock }) => {
+  useFrame(({ clock }, delta) => {
     if (!visible) return
     const t = clock.elapsedTime
 
-    // ── Road scroll: obstacles move along Z ──
-    const offset = (t * SCROLL_SPEED) % LOOP_LENGTH
+    // ── Road scroll: dynamic speed (slows during braking) ──
+    // First pass: detect brake proximity to slow road
+    let brakeSlowdown = 1.0 // 1 = full speed, 0 = stopped
+    OBSTACLES.forEach((obs, i) => {
+      if (obs.type !== 'brake') return
+      const group = obstacleRefs.current[i]
+      if (!group) return
+      let z = obs.baseZ - roadOffset.current % LOOP_LENGTH
+      while (z < -8) z += LOOP_LENGTH
+      while (z > 28) z -= LOOP_LENGTH
+      const dist = Math.abs(z - 0) // distance from car center
+      if (dist < 3) {
+        const proximity = Math.max(0, 1 - dist / 3) // 0..1
+        brakeSlowdown = Math.min(brakeSlowdown, 1 - proximity * 0.85) // slow to 15% speed
+      }
+    })
+    roadOffset.current += SCROLL_SPEED * brakeSlowdown * delta
+    const offset = roadOffset.current % LOOP_LENGTH
+
     let targetBounceY = 0
     let targetBounceRoll = 0
     let targetPitch = 0
@@ -346,8 +374,8 @@ export function AccelWaves({ accelData, visible = true, onBounce }: AccelWavesPr
           wRL -= lat * rearHit; wRR += lat * rearHit
         } else if (obs.type === 'brake') {
           const brakeRamp = 1 - Math.exp(-anyHit * 3)
-          targetPitch += 0.18 * brakeRamp  // stronger pitch for braking
-          targetBounceY -= 0.04 * brakeRamp
+          targetPitch += 0.10 * brakeRamp  // noticeable nose dive, not extreme
+          targetBounceY -= 0.03 * brakeRamp
           // Front compressed, rear unloaded
           wFL -= 0.12 * brakeRamp; wFR -= 0.12 * brakeRamp
           wRL += 0.06 * brakeRamp; wRR += 0.06 * brakeRamp

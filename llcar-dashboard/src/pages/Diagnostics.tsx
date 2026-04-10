@@ -27,6 +27,23 @@ import { SystemCard } from '../components/diagnostics/SystemCard'
 import { SystemTabBar } from '../components/diagnostics/SystemTabBar'
 import { HealthScorePanel } from '../components/diagnostics/HealthScorePanel'
 
+// Legend data for 3D viewport overlay (matches DiagnosticTwinCanvas AUDIO_ZONES)
+const AUDIO_LEGEND = [
+  { color: '#60a5fa', label: 'Дорога <80Гц' },
+  { color: '#4ade80', label: 'Двигатель 80–150Гц' },
+  { color: '#22d3ee', label: 'Трансмиссия 150–300Гц' },
+  { color: '#f59e0b', label: 'Навесное 300–600Гц' },
+  { color: '#f97316', label: 'Подшипники 0.6–2кГц' },
+  { color: '#ef4444', label: 'ВЧ шум >2кГц' },
+]
+
+const VIBRATION_LEGEND = [
+  { color: '#00e5ff', label: '⬇ Яма', type: 'pothole' },
+  { color: '#64ffda', label: '⬆ Бугор', type: 'bump' },
+  { color: '#ff4444', label: '⏹ Торможение', type: 'brake' },
+  { color: '#00b8d4', label: '↔ Колея / ▬ Стык', type: 'rut' },
+]
+
 const CoherenceMap = lazy(() => import('../components/panels/CoherenceMap').then(m => ({ default: m.CoherenceMap })))
 const CUSUMChart = lazy(() => import('../components/panels/CUSUMChart').then(m => ({ default: m.CUSUMChart })))
 const PseudoOrderPlot = lazy(() => import('../components/panels/PseudoOrderPlot').then(m => ({ default: m.PseudoOrderPlot })))
@@ -243,23 +260,40 @@ export function Diagnostics() {
         </div>
 
         <div className="scan-overlay" />
-        {/* Link to Suspension tab over the road animation */}
-        <div
-          onClick={() => handleHotspotClick('suspension')}
-          style={{
-            position: 'absolute', bottom: 12, left: '50%', transform: 'translateX(-50%)',
-            zIndex: 25, cursor: 'pointer', pointerEvents: 'auto',
-            fontFamily: "'Orbitron', sans-serif", fontSize: '0.55rem', letterSpacing: '0.12em',
-            color: '#00e5ff', textTransform: 'uppercase' as const,
-            background: 'rgba(6, 18, 30, 0.85)', backdropFilter: 'blur(8px)',
-            padding: '4px 12px', borderRadius: 4,
-            border: '1px solid rgba(0, 229, 255, 0.25)',
-            transition: 'all 0.2s',
-          }}
-          onMouseEnter={e => { (e.target as HTMLElement).style.borderColor = 'rgba(0, 229, 255, 0.5)'; (e.target as HTMLElement).style.boxShadow = '0 0 12px rgba(0, 229, 255, 0.2)' }}
-          onMouseLeave={e => { (e.target as HTMLElement).style.borderColor = 'rgba(0, 229, 255, 0.2)'; (e.target as HTMLElement).style.boxShadow = 'none' }}
-        >
-          Подвеска →
+
+        {/* ── Bottom legend: vibration types + audio zones ── */}
+        <div style={{
+          position: 'absolute', bottom: 6, left: 8, right: 8, zIndex: 25,
+          display: 'flex', gap: 12, alignItems: 'center', justifyContent: 'center', flexWrap: 'wrap',
+          pointerEvents: 'auto',
+          background: 'rgba(6, 18, 30, 0.92)', backdropFilter: 'blur(8px)',
+          padding: '6px 12px', borderRadius: 6,
+          border: '1px solid rgba(0, 229, 255, 0.15)',
+          fontFamily: "'Share Tech Mono', monospace", fontSize: '0.6rem', letterSpacing: '0.04em',
+        }}>
+          {/* Vibrations — solid dots */}
+          {(!activeSystem || activeSystem === 'suspension') && VIBRATION_LEGEND.map(v => (
+            <span key={v.type} style={{ display: 'flex', alignItems: 'center', gap: 4, color: v.color }}>
+              <span style={{ width: 8, height: 8, borderRadius: '50%', background: v.color, boxShadow: `0 0 4px ${v.color}` }} />
+              {v.label}
+            </span>
+          ))}
+          {/* Separator */}
+          {!activeSystem && <span style={{ color: 'rgba(255,255,255,0.15)' }}>│</span>}
+          {/* Audio zones — ring dots, clickable → audio tab */}
+          {(!activeSystem || activeSystem === 'audio') && AUDIO_LEGEND.map(a => (
+            <span
+              key={a.label}
+              onClick={() => handleHotspotClick('audio')}
+              style={{ display: 'flex', alignItems: 'center', gap: 4, color: a.color, cursor: 'pointer' }}
+            >
+              <span style={{
+                width: 8, height: 8, borderRadius: '50%', border: `2px solid ${a.color}`,
+                boxShadow: `0 0 4px ${a.color}`, background: 'transparent',
+              }} />
+              {a.label}
+            </span>
+          ))}
         </div>
       </div>
 
