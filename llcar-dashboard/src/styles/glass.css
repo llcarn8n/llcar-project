@@ -1040,6 +1040,10 @@ header {
     display: none !important;
   }
 
+  .canvas-overlay-hud {
+    display: none !important;
+  }
+
   /* Canvas fills viewport */
   .diag-viewport-full canvas {
     position: absolute;

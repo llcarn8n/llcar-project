@@ -27,6 +27,7 @@ import { StatusStrip } from '../components/diagnostics/StatusStrip'
 import { SystemCard } from '../components/diagnostics/SystemCard'
 import { SystemTabBar } from '../components/diagnostics/SystemTabBar'
 import { HealthScorePanel } from '../components/diagnostics/HealthScorePanel'
+import { CanvasOverlayHUD } from '../components/diagnostics/CanvasOverlayHUD'
 
 // Legend data for 3D viewport overlay (matches DiagnosticTwinCanvas AUDIO_ZONES)
 const AUDIO_LEGEND = [
@@ -256,6 +257,8 @@ export function Diagnostics() {
             audioData={audioData}
           />
         </Suspense>
+
+        <CanvasOverlayHUD pids={apiData?.pids} />
 
         {/* Right overlay: Compact Diagnosis (collapsible) */}
         <div className="diag-overlay-right">
