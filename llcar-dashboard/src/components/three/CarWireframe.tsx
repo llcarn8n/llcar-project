@@ -6,7 +6,6 @@ import {
   classifyByNode,
   CATEGORY_SYSTEM_MAP,
   getHoloMaterial,
-  getMaterialState,
   type MaterialCategory,
 } from './materialClassifier'
 
