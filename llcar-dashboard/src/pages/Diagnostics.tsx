@@ -2,6 +2,7 @@ import { Suspense, lazy, useState, useMemo } from 'react'
 
 const DiagnosticTwinCanvas = lazy(() => import('../components/three/DiagnosticTwinCanvas'))
 const SmartSphere = lazy(() => import('../components/three/SmartSphere').then(m => ({ default: m.SmartSphere })))
+const VehicleInfo = lazy(() => import('./VehicleInfo').then(m => ({ default: m.VehicleInfo })))
 import { AudioSpectrum } from '../components/panels/AudioSpectrum'
 import { DiagnosisCard } from '../components/panels/DiagnosisCard'
 import { AnomalyTimeline } from '../components/panels/AnomalyTimeline'
@@ -330,6 +331,13 @@ export function Diagnostics() {
         {/* ── Обзор (default) — clean vertical stack ── */}
         {activeSystem === null && (
           <>
+            {/* Row 0: Vehicle info (moved from deleted /vehicle route) */}
+            <div className="col-span-12">
+              <Suspense fallback={null}>
+                <VehicleInfo />
+              </Suspense>
+            </div>
+
             {/* Row 1: Diagnosis card full-width */}
             <div className="col-span-12">
               {useV2Api ? (
