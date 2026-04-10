@@ -430,8 +430,12 @@ export function AccelWaves({ accelData, visible = true, onBounce }: AccelWavesPr
       for (let j = 0; j < zPos.length; j += 3) {
         const vx = zOrig[j], vz = zOrig[j + 2]
 
-        // Road roughness baseline
-        let h = 0.04 * Math.sin(vx * 5 + t * 0.4) * Math.sin(vz * 3 + t * 0.3)
+        // Road roughness baseline — always alive, multiple harmonics
+        const scroll = roadOffset.current * 3 // tie to road movement
+        let h = 0.025 * Math.sin(vx * 4 + scroll * 1.2 + t * 0.8)         // slow lateral wave
+             + 0.020 * Math.sin(vz * 6 + scroll * 2.0 + t * 1.5)          // faster longitudinal ripple
+             + 0.012 * Math.sin(vx * 9 + vz * 7 + t * 2.0)               // fine grain texture
+             + 0.008 * Math.sin((vx + vz) * 12 + t * 3.0) * Math.cos(vx * 3 - t * 0.5) // shimmer
 
         // Add deformation centered on EACH obstacle's current position
         for (const obs of obsPositions) {
