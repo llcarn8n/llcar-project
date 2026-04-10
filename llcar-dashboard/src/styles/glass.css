@@ -1026,13 +1026,27 @@ header {
   .diag-viewport-full {
     height: 280px;
     min-height: 220px;
+    /* Allow overlays to flow outside viewport on mobile */
+    overflow: visible;
   }
 
+  /* On mobile, overlays move below the 3D canvas */
   .diag-overlay-left,
   .diag-overlay-right {
-    position: static;
+    position: relative;
     width: 100%;
     max-height: none;
+    top: auto;
+    left: auto;
+    right: auto;
+  }
+
+  /* Canvas fills the full viewport height */
+  .diag-viewport-full canvas {
+    position: absolute;
+    inset: 0;
+    width: 100% !important;
+    height: 280px !important;
   }
 
   .system-tab-bar {
