@@ -102,6 +102,59 @@ function RoadStrip() {
   )
 }
 
+// ── Smoke particles for brake zone ──
+
+function BrakeSmoke() {
+  const pointsRef = useRef<THREE.Points>(null)
+  const PARTICLE_COUNT = 40
+
+  const { positions } = useMemo(() => {
+    const pos = new Float32Array(PARTICLE_COUNT * 3)
+    for (let i = 0; i < PARTICLE_COUNT; i++) {
+      // Spread around two tire tracks
+      const track = i % 2 === 0 ? -0.25 : 0.25
+      pos[i * 3] = track + (Math.random() - 0.5) * 0.3
+      pos[i * 3 + 1] = Math.random() * 0.4           // rise up
+      pos[i * 3 + 2] = (Math.random() - 0.5) * 1.5   // along skid
+    }
+    return { positions: pos }
+  }, [])
+
+  useFrame(({ clock }) => {
+    const pts = pointsRef.current
+    if (!pts) return
+    const arr = pts.geometry.attributes.position.array as Float32Array
+    const t = clock.elapsedTime
+    for (let i = 0; i < PARTICLE_COUNT; i++) {
+      // Particles slowly rise and fade
+      arr[i * 3 + 1] += 0.003
+      if (arr[i * 3 + 1] > 0.5) {
+        arr[i * 3 + 1] = 0
+      }
+    }
+    pts.geometry.attributes.position.needsUpdate = true
+    // Pulsing opacity
+    ;(pts.material as THREE.PointsMaterial).opacity = 0.04 + Math.sin(t * 3) * 0.02
+  })
+
+  return (
+    <points ref={pointsRef}>
+      <bufferGeometry>
+        <bufferAttribute attach="attributes-position" args={[positions, 3]} />
+      </bufferGeometry>
+      <pointsMaterial
+        color="#ff6644"
+        size={0.06}
+        transparent
+        opacity={0.05}
+        blending={THREE.AdditiveBlending}
+        depthWrite={false}
+        sizeAttenuation
+      />
+    </points>
+  )
+}
+
 // ── Obstacle mesh ──
 
 function ObstacleMesh({ type }: { type: ObsType }) {
@@ -117,8 +170,19 @@ function ObstacleMesh({ type }: { type: ObsType }) {
       return g
     }
     if (type === 'brake') {
-      // Skid marks — two flat boxes
-      const g = new THREE.BoxGeometry(0.08, 0.01, 1.5)
+      // Skid marks — long gradient planes
+      const g = new THREE.PlaneGeometry(0.1, 2.5, 1, 10)
+      g.rotateX(-Math.PI / 2)
+      // Gradient opacity via vertex colors: fade in from front to back
+      const colors = new Float32Array(g.attributes.position.count * 3)
+      for (let i = 0; i < g.attributes.position.count; i++) {
+        const z = g.attributes.position.getZ(i)
+        const fade = THREE.MathUtils.clamp((z + 1.25) / 2.5, 0, 1) // 0 at front → 1 at back
+        colors[i * 3] = fade * 0.8     // R
+        colors[i * 3 + 1] = fade * 0.1 // G
+        colors[i * 3 + 2] = fade * 0.1 // B
+      }
+      g.setAttribute('color', new THREE.BufferAttribute(colors, 3))
       return g
     }
     if (type === 'joint') {
@@ -137,6 +201,28 @@ function ObstacleMesh({ type }: { type: ObsType }) {
     : type === 'brake' ? '#ff4444'
     : '#00b8d4'
 
+  if (type === 'brake') {
+    return (
+      <>
+        {/* Left skid mark */}
+        <mesh geometry={geo} position={[-0.25, 0.002, 0]}>
+          <meshBasicMaterial color="#ff4444" transparent opacity={0.25} vertexColors side={THREE.DoubleSide} blending={THREE.AdditiveBlending} depthWrite={false} />
+        </mesh>
+        {/* Right skid mark */}
+        <mesh geometry={geo} position={[0.25, 0.002, 0]}>
+          <meshBasicMaterial color="#ff4444" transparent opacity={0.25} vertexColors side={THREE.DoubleSide} blending={THREE.AdditiveBlending} depthWrite={false} />
+        </mesh>
+        {/* Red glow zone */}
+        <mesh rotation={[-Math.PI / 2, 0, 0]} position={[0, 0.003, 0]}>
+          <circleGeometry args={[0.6, 16]} />
+          <meshBasicMaterial color="#ff2200" transparent opacity={0.06} blending={THREE.AdditiveBlending} depthWrite={false} />
+        </mesh>
+        {/* Smoke particles */}
+        <BrakeSmoke />
+      </>
+    )
+  }
+
   return (
     <>
       <mesh geometry={geo}>
@@ -145,12 +231,6 @@ function ObstacleMesh({ type }: { type: ObsType }) {
       <mesh geometry={geo}>
         <meshBasicMaterial color={color} transparent opacity={0.08} side={THREE.DoubleSide} blending={THREE.AdditiveBlending} depthWrite={false} />
       </mesh>
-      {/* Second skid mark for brake */}
-      {type === 'brake' && (
-        <mesh geometry={geo} position={[0.5, 0, 0]}>
-          <meshBasicMaterial color={color} transparent opacity={0.15} wireframe side={THREE.DoubleSide} blending={THREE.AdditiveBlending} depthWrite={false} />
-        </mesh>
-      )}
     </>
   )
 }
