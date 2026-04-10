@@ -195,11 +195,7 @@ function CarBouncer({ activeSystem, groupRef }: {
     if (susp) origY.current.set(susp, susp.position.y)
   }, [])
 
-  const wheelRotation = useRef(0)
-  // Cache wheel centers (computed once from bounding box)
-  const wheelCenters = useRef<Map<WheelCorner, THREE.Vector3>>(new Map())
-
-  useFrame((_, delta) => {
+  useFrame(() => {
     if (!groupRef.current) return
 
     // Body movement (slow lerp applied in AccelWaves)
@@ -207,13 +203,7 @@ function CarBouncer({ activeSystem, groupRef }: {
     groupRef.current.rotation.z = bounceRef.roll
     groupRef.current.rotation.x = bounceRef.pitch
 
-    // Wheel spin delta
-    const brakeAmount = Math.abs(bounceRef.pitch) / 0.05
-    const spinSpeed = Math.max(1 - brakeAmount * 0.9, 0.1)
-    const spinDelta = delta * 3.0 * spinSpeed
-    wheelRotation.current += spinDelta
-
-    // Per-wheel Y offset (no rotation on individual meshes — breaks geometry)
+    // Per-wheel Y offset only (wheel spin removed — requires Blender pivot fix)
     const wRefs = wheelRefsLocal.current
     if (wRefs) {
       for (const corner of Object.keys(wRefs) as WheelCorner[]) {
@@ -222,26 +212,6 @@ function CarBouncer({ activeSystem, groupRef }: {
         for (const obj of wRefs[corner]) {
           const oy = origY.current.get(obj) ?? obj.position.y
           obj.position.y = oy + wheelY
-        }
-
-        // Compute wheel center once, then rotate geometry vertices
-        if (!wheelCenters.current.has(corner) && wRefs[corner].length > 0) {
-          const box = new THREE.Box3()
-          for (const obj of wRefs[corner]) box.expandByObject(obj)
-          wheelCenters.current.set(corner, box.getCenter(new THREE.Vector3()))
-        }
-      }
-
-      // Rotate ALL wheel meshes (tire+rim+brake) around wheel center
-      for (const corner of Object.keys(wRefs) as WheelCorner[]) {
-        const center = wheelCenters.current.get(corner)
-        if (!center) continue
-        for (const obj of wRefs[corner]) {
-          const geo = (obj as THREE.Mesh).geometry
-          if (!geo) continue
-          geo.translate(-center.x, -center.y, -center.z)
-          geo.rotateX(spinDelta)
-          geo.translate(center.x, center.y, center.z)
         }
       }
     }
