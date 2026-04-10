@@ -1,0 +1,19 @@
+{
+  "generation_id": "hyundai_creta_gs_2016",
+  "generation_name": "Creta I (GS)",
+  "year_start": 2016,
+  "year_end": 2021,
+  "body_type": "suv",
+  "market": "local_production",
+  "production": "Hyundai Motor Manufacturing Rus, Санкт-Петербург",
+  "facelift": 2020,
+  "platform": "Hyundai-Kia GS (shared with Kia Seltos SP2)",
+  "engines": [
+    { "code": "G4FG", "volume": "1.6L", "type": "Gamma MPI", "fuel": "petrol", "power_hp": 123 },
+    { "code": "G4NA", "volume": "2.0L", "type": "Nu MPI", "fuel": "petrol", "power_hp": 150 }
+  ],
+  "transmissions": ["МКПП-6", "АКПП-6"],
+  "drivetrains": ["FWD", "AWD"],
+  "popularity_ru": "very_high",
+  "notes": "Первое поколение, бестселлер. Завод Hyundai СПб. Рестайлинг 2020."
+}

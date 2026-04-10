@@ -1,0 +1,19 @@
+{
+  "generation_id": "hyundai_solaris_hc_2017",
+  "generation_name": "Solaris II (HC)",
+  "year_start": 2017,
+  "year_end": 2022,
+  "body_type": "sedan",
+  "market": "local_production",
+  "production": "Hyundai Motor Manufacturing Rus, Санкт-Петербург",
+  "facelift": 2020,
+  "platform": "Hyundai-Kia K2 (shared with Kia Rio FB)",
+  "engines": [
+    { "code": "G4LC", "volume": "1.4L", "type": "Kappa MPI", "fuel": "petrol", "power_hp": 100 },
+    { "code": "G4FG", "volume": "1.6L", "type": "Gamma MPI", "fuel": "petrol", "power_hp": 123 }
+  ],
+  "transmissions": ["МКПП-6", "АКПП-6"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "very_high",
+  "notes": "Второе поколение, рестайлинг 2020. Завод Hyundai СПб. Платформа как Kia Rio FB. Производство прекращено в 2022."
+}

@@ -1,0 +1,18 @@
+{
+  "generation_id": "hyundai_creta_su2_2021",
+  "generation_name": "Creta II (SU2)",
+  "year_start": 2021,
+  "year_end": 2026,
+  "body_type": "suv",
+  "market": "local_production + parallel_import",
+  "production": "Автотор Калининград 2021-2022, AGR СПб 2024+",
+  "platform": "Hyundai-Kia SU2 (shared with Kia Seltos)",
+  "engines": [
+    { "code": "G4FG", "volume": "1.6L", "type": "Gamma MPI", "fuel": "petrol", "power_hp": 123 },
+    { "code": "G4NH", "volume": "2.0L", "type": "Nu MPI", "fuel": "petrol", "power_hp": 149 }
+  ],
+  "transmissions": ["МКПП-6", "CVT (2.0 AWD)", "АКПП-6"],
+  "drivetrains": ["FWD", "AWD"],
+  "popularity_ru": "very_high",
+  "notes": "Второе поколение. Автотор 2021-2022, затем AGR СПб под брендом Solaris HC с 2024."
+}
