@@ -321,6 +321,42 @@ export function Diagnostics() {
         }}>
           <SystemTabBar active={activeSystem} onChange={setActiveSystem} />
         </div>
+
+        {/* ── Telemetry overlay: real-time metrics around the 3D car ── */}
+        {/* Right side: key OBD metrics */}
+        <div style={{
+          position: 'absolute', top: 50, right: 10, zIndex: 22, pointerEvents: 'none',
+          display: 'flex', flexDirection: 'column', gap: 6, width: 130,
+          fontFamily: "'Share Tech Mono', monospace", fontSize: '0.65rem',
+        }}>
+          {[
+            { label: 'ВИБРАЦИЯ', value: totalVib > 0 ? totalVib.toFixed(1) : '—', unit: 'м/с²', color: totalVib > 5 ? '#ff4444' : totalVib > 2 ? '#ffab00' : '#00e5ff' },
+            { label: 'Z-ОСЬ', value: lastAccel.z_std ? lastAccel.z_std.toFixed(2) : '—', unit: 'σ', color: (lastAccel.z_std || 0) > 3 ? '#ff4444' : '#00e5ff' },
+            { label: 'АУДИО', value: audioData.length > 0 ? `${audioData[audioData.length - 1]?.quality ?? '—'}` : '—', unit: '/100', color: (audioData[audioData.length - 1]?.quality ?? 100) < 50 ? '#ff4444' : '#4ade80' },
+          ].map(m => (
+            <div key={m.label} style={{
+              background: 'rgba(6,18,30,0.88)', backdropFilter: 'blur(6px)',
+              border: `1px solid ${m.color}25`, borderLeft: `2px solid ${m.color}`,
+              borderRadius: 4, padding: '4px 8px',
+            }}>
+              <div style={{ fontSize: '0.5rem', color: 'rgba(255,255,255,0.4)', letterSpacing: '0.1em' }}>{m.label}</div>
+              <div style={{ color: m.color, fontSize: '0.85rem', fontWeight: 700 }}>
+                {m.value}<span style={{ fontSize: '0.5rem', color: 'rgba(255,255,255,0.3)', marginLeft: 3 }}>{m.unit}</span>
+              </div>
+            </div>
+          ))}
+        </div>
+
+        {/* Bottom-right: data freshness */}
+        {hasData && (
+          <div style={{
+            position: 'absolute', bottom: 52, right: 10, zIndex: 22, pointerEvents: 'none',
+            fontFamily: "'Share Tech Mono', monospace", fontSize: '0.5rem', color: 'rgba(0,229,255,0.4)',
+            background: 'rgba(6,18,30,0.7)', padding: '2px 6px', borderRadius: 3,
+          }}>
+            {accelData.length} замеров · {audioData.length} аудио
+          </div>
+        )}
       </div>
 
       {/* ═══ DETAIL PANEL — unified pattern: summary → charts → rules ═══ */}
