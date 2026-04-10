@@ -1028,40 +1028,73 @@ header {
 /* ── 25. V3 Diagnostics: Mobile Responsive ── */
 @media (max-width: 768px) {
   .diag-viewport-full {
-    height: 280px;
-    min-height: 220px;
-    /* Allow overlays to flow outside viewport on mobile */
+    height: 320px;
+    min-height: 260px;
     overflow: visible;
   }
 
-  /* On mobile, overlays move below the 3D canvas */
-  .diag-overlay-left,
+  /* Hide left/right overlays on mobile — data shown below */
+  .diag-overlay-left {
+    display: none;
+  }
+
   .diag-overlay-right {
     position: relative;
     width: 100%;
     max-height: none;
     top: auto;
-    left: auto;
     right: auto;
   }
 
-  /* Canvas fills the full viewport height */
+  /* Canvas fills viewport */
   .diag-viewport-full canvas {
     position: absolute;
     inset: 0;
     width: 100% !important;
-    height: 280px !important;
+    height: 320px !important;
   }
 
+  /* Tab bar scrollable, pill style */
   .system-tab-bar {
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
+    flex-wrap: nowrap;
+    gap: 1px;
+    padding: 2px;
   }
 
   .system-tab {
-    padding: 6px 10px;
-    font-size: 0.5rem;
+    padding: 5px 8px;
+    font-size: 0.45rem;
     white-space: nowrap;
+  }
+
+  /* Grid: force single column on mobile */
+  .grid.grid-cols-12 {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 8px !important;
+  }
+  .grid.grid-cols-12 > [class*="col-span"] {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+  /* Glass panels: tighter padding on mobile */
+  .glass-panel {
+    padding: 10px !important;
+  }
+
+  /* HUD header smaller */
+  .hud-header {
+    font-size: 0.6rem !important;
+  }
+
+  /* Legend: stack vertically */
+  .diag-viewport-full > div:last-child {
+    flex-direction: column !important;
+    gap: 4px !important;
+    font-size: 0.5rem !important;
   }
 }
 
