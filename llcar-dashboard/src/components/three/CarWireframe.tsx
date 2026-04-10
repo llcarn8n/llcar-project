@@ -71,11 +71,12 @@ export function CarWireframe({ activeSystem = null, onWheelRefs }: CarWireframeP
         catCount[category] = (catCount[category] || 0) + 1
 
         // Collect wheel assembly refs per corner
+        // GLB export uses underscores: Шина_ПЛ, Колесо_ПП_—_Обшивка, Тормоз_ЗЛ
         const nl = nodeName.toLowerCase()
         for (const corner of WHEEL_CORNERS) {
           const cl = corner.toLowerCase()
-          if (nl.includes(`шина ${cl}`) || nl.includes(`тормоз ${cl}`) ||
-              nl.includes(`колесо ${cl}`)) {
+          if (nl.includes(`шина_${cl}`) || nl.includes(`тормоз_${cl}`) ||
+              nl.includes(`колесо_${cl}`)) {
             wRefs[corner].push(child)
             break
           }

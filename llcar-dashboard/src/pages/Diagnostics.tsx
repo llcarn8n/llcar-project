@@ -327,31 +327,33 @@ export function Diagnostics() {
       {/* ═══ DETAIL PANEL — unified pattern: summary → charts → rules ═══ */}
       <div className="grid grid-cols-12 gap-3 mt-3">
 
-        {/* ── Обзор (default) ── */}
+        {/* ── Обзор (default) — clean vertical stack ── */}
         {activeSystem === null && (
           <>
-            {/* Summary row: Diagnosis + Baseline + Timeline */}
-            <div className="col-span-12 lg:col-span-7">
+            {/* Row 1: Diagnosis card full-width */}
+            <div className="col-span-12">
               {useV2Api ? (
                 <DiagnosisCardV2 report={v2Report} loading={v2Loading} onFeedback={sendFeedback} clientHash={clientHash} />
               ) : (
                 <DiagnosisCard diagnostics={diagnostics} degradation={degradation} regime={regime} />
               )}
             </div>
+
+            {/* Row 2: Baseline + Health Timeline side by side */}
             <div className="col-span-12 lg:col-span-5">
               {useV2Api && v2Report?.baseline_status && (
-                <div style={{ marginBottom: 12 }}>
-                  <BaselineStatus
-                    ready={v2Report.baseline_status.ready}
-                    totalSamples={v2Report.baseline_status.total_samples}
-                    samplesNeeded={v2Report.baseline_status.samples_needed}
-                  />
-                </div>
+                <BaselineStatus
+                  ready={v2Report.baseline_status.ready}
+                  totalSamples={v2Report.baseline_status.total_samples}
+                  samplesNeeded={v2Report.baseline_status.samples_needed}
+                />
               )}
+            </div>
+            <div className="col-span-12 lg:col-span-7">
               <AnomalyTimeline history={useV2Api ? v2HistoryAdapted : (historyData?.history ?? [])} />
             </div>
 
-            {/* Insight cards row */}
+            {/* Row 3: Insights (collapsible) */}
             {useV2Api && v2Report && (
               <div className="col-span-12 grid grid-cols-1 md:grid-cols-3 gap-3">
                 {v2Report.escalations && v2Report.escalations.length > 0 && (
@@ -380,15 +382,17 @@ export function Diagnostics() {
               </div>
             )}
 
-            {/* Search + Rules + Chat */}
+            {/* Row 4: Search + Rules */}
             <div className="col-span-12 lg:col-span-4">
               <DiagnosticSearch />
-              <div style={{ marginTop: 12 }}>
-                <ChatPanel />
-              </div>
             </div>
             <div className="col-span-12 lg:col-span-8">
               <RulesList />
+            </div>
+
+            {/* Row 5: Chat */}
+            <div className="col-span-12">
+              <ChatPanel />
             </div>
           </>
         )}
