@@ -21,8 +21,8 @@
   },
   "engines": [
     { "code": "G4NA", "volume": "2.0L", "type": "Nu MPI/GDI", "fuel": "petrol", "power_hp": 150 },
-    { "code": "G4GC", "volume": "2.5L", "type": "Smartstream GDI", "fuel": "petrol", "power_hp": 194 },
-    { "code": "G4KH", "volume": "1.6L", "type": "T-GDI Turbo", "fuel": "petrol", "power_hp": 180 },
+    { "code": "G4KJ", "volume": "2.5L", "type": "Smartstream GDI", "fuel": "petrol", "power_hp": 194 },
+    { "code": "G4FJ", "volume": "1.6L", "type": "Smartstream T-GDI Turbo", "fuel": "petrol", "power_hp": 180 },
     { "code": "G4KN", "volume": "2.5L", "type": "T-GDI Turbo", "fuel": "petrol", "power_hp": 290 }
   ],
   "transmissions": ["АКПП-6 (2.0)", "АКПП-8 (2.5/2.5T)", "DCT-8 (1.6T)"],
