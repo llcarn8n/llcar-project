@@ -37,125 +37,93 @@ const HOTSPOTS: { key: string; label: string; position: [number, number, number]
   { key: 'audio', label: 'Аудио', position: [0, 0.85, 1.3], color: '#64ffda' },
 ]
 
-// 6 audio zones matching AudioTab — unique colors, spread across car geometry
-// Car model: bbox X ±1.07, Y 0..1.6, Z -2.44..+2.32 (offset Y -0.5 in CarWireframe)
+// 6 NVH audio zones — positioned at real noise source locations on the car
+// Based on automotive NVH (Noise, Vibration, Harshness) source mapping
+// Car model: bbox X ±1.07, Y 0..1.6, Z -2.44..+2.32 (offset Y -0.5)
 const AUDIO_ZONES = [
-  { key: 'road',    pos: [0, -0.6, 1.5] as [number, number, number],    color: '#60a5fa', minFreq: 0,    maxFreq: 80,    label: 'Дорога' },       // blue — under front axle area
-  { key: 'engine',  pos: [0, 0.3, -1.8] as [number, number, number],    color: '#4ade80', minFreq: 80,   maxFreq: 150,   label: 'Двигатель' },    // green — behind rear bumper (engine bay)
-  { key: 'trans',   pos: [0, -0.3, -0.5] as [number, number, number],   color: '#22d3ee', minFreq: 150,  maxFreq: 300,   label: 'Трансмиссия' },  // cyan — under center tunnel
-  { key: 'acc',     pos: [1.2, 0.4, -0.8] as [number, number, number],  color: '#f59e0b', minFreq: 300,  maxFreq: 600,   label: 'Навесное' },     // amber — right side, outside body
-  { key: 'bearing', pos: [-1.1, -0.3, 1.0] as [number, number, number], color: '#f97316', minFreq: 600,  maxFreq: 2000,  label: 'Подшипники' },   // orange — left front wheel hub
-  { key: 'hf',      pos: [0, 1.2, 0.3] as [number, number, number],     color: '#ef4444', minFreq: 2000, maxFreq: 99999, label: 'ВЧ шум' },       // red — above roof/cabin
+  { key: 'road',    pos: [0, -0.6, 1.3] as [number, number, number],    color: '#60a5fa', minFreq: 0,    maxFreq: 80,    label: 'Дорога',      waveSpeed: 0.3, maxRadius: 1.8 },  // blue — tire contact patch
+  { key: 'engine',  pos: [0, 0.2, -1.8] as [number, number, number],    color: '#4ade80', minFreq: 80,   maxFreq: 150,   label: 'Двигатель',   waveSpeed: 0.5, maxRadius: 2.2 },  // green — engine/exhaust
+  { key: 'trans',   pos: [0, -0.2, -0.3] as [number, number, number],   color: '#22d3ee', minFreq: 150,  maxFreq: 300,   label: 'Трансмиссия', waveSpeed: 0.4, maxRadius: 1.5 },  // cyan — center tunnel
+  { key: 'acc',     pos: [1.1, 0.3, -1.0] as [number, number, number],  color: '#f59e0b', minFreq: 300,  maxFreq: 600,   label: 'Навесное',    waveSpeed: 0.6, maxRadius: 1.4 },  // amber — accessory belt side
+  { key: 'bearing', pos: [-1.0, -0.3, 1.2] as [number, number, number], color: '#f97316', minFreq: 600,  maxFreq: 2000,  label: 'Подшипники',  waveSpeed: 0.7, maxRadius: 1.2 },  // orange — front left hub
+  { key: 'hf',      pos: [0.3, 0.9, 1.0] as [number, number, number],   color: '#ef4444', minFreq: 2000, maxFreq: 99999, label: 'ВЧ шум',      waveSpeed: 0.9, maxRadius: 1.0 },  // red — A-pillar/windshield
 ]
 
-// Single audio zone: pulsing core sphere + 3 expanding wave rings + particle spray
-function AudioZoneEmitter({ color, amplitude, index }: { color: string; amplitude: number; index: number }) {
-  const coreRef = useRef<THREE.Mesh>(null)
-  const ringsRef = useRef<THREE.Mesh[]>([])
-  const pointsRef = useRef<THREE.Points>(null)
-  const PARTICLES = 60
+// ── Spherical wave emitter with 1/r decay (physically-based sound propagation) ──
+// Physics: amplitude ∝ A·e^(-B·r)·cos(C·r), where r = distance from source
+// Wavefronts are concentric spheres expanding outward with inverse-distance fade
+const WAVE_COUNT = 5 // concurrent expanding wavefronts per source
 
-  const particlePositions = useMemo(() => {
-    const arr = new Float32Array(PARTICLES * 3)
-    for (let i = 0; i < PARTICLES; i++) {
-      const theta = Math.random() * Math.PI * 2
-      const phi = Math.random() * Math.PI
-      const r = 0.1 + Math.random() * 0.3
-      arr[i * 3] = r * Math.sin(phi) * Math.cos(theta)
-      arr[i * 3 + 1] = r * Math.cos(phi)
-      arr[i * 3 + 2] = r * Math.sin(phi) * Math.sin(theta)
-    }
-    return arr
-  }, [])
+function AudioZoneEmitter({ color, amplitude, index, waveSpeed, maxRadius }: {
+  color: string; amplitude: number; index: number; waveSpeed: number; maxRadius: number
+}) {
+  const coreRef = useRef<THREE.Mesh>(null)
+  const wavesRef = useRef<THREE.Mesh[]>([])
 
   useFrame(({ clock }) => {
     const t = clock.elapsedTime
-    const amp = amplitude
-    const baseAmp = 0.15 // always show something even with zero data
+    const amp = Math.max(amplitude, 0.08) // always minimally visible
 
-    // Core sphere: pulses with amplitude
+    // Core: soft glow at source — gentle breathing pulse
     if (coreRef.current) {
-      const s = (baseAmp + amp * 0.6) * (1 + Math.sin(t * (3 + index)) * 0.3)
-      coreRef.current.scale.setScalar(s)
-      ;(coreRef.current.material as THREE.MeshBasicMaterial).opacity = 0.25 + amp * 0.5
+      const breath = 1 + Math.sin(t * (1.5 + index * 0.3)) * 0.15 * amp
+      coreRef.current.scale.setScalar(0.06 + amp * 0.1 * breath)
+      ;(coreRef.current.material as THREE.MeshBasicMaterial).opacity = 0.15 + amp * 0.45
     }
 
-    // 3 expanding rings: staggered phase, grow outward, fade
-    for (let r = 0; r < 3; r++) {
-      const ring = ringsRef.current[r]
-      if (!ring) continue
-      // Each ring cycles 0→1 with phase offset
-      const phase = ((t * (0.6 + amp * 0.8) + r * 0.33) % 1)
-      const ringScale = 0.15 + phase * (0.8 + amp * 1.2)
-      ring.scale.setScalar(ringScale)
-      // Fade out as it expands
-      ;(ring.material as THREE.MeshBasicMaterial).opacity = (1 - phase) * (0.2 + amp * 0.5)
-    }
+    // Spherical wavefronts: expand outward, fade as 1/r (inverse distance)
+    for (let w = 0; w < WAVE_COUNT; w++) {
+      const sphere = wavesRef.current[w]
+      if (!sphere) continue
 
-    // Particles: expand outward proportional to amplitude, orbit slowly
-    if (pointsRef.current) {
-      const arr = pointsRef.current.geometry.attributes.position.array as Float32Array
-      for (let i = 0; i < PARTICLES; i++) {
-        const theta = (i / PARTICLES) * Math.PI * 2 + t * 0.3
-        const phi = (i * 2.399) % Math.PI // golden angle distribution
-        const r = 0.15 + (baseAmp + amp) * 0.5 + Math.sin(t * 2 + i * 0.7) * 0.08
-        arr[i * 3] = r * Math.sin(phi) * Math.cos(theta)
-        arr[i * 3 + 1] = r * Math.cos(phi) * 0.6 // flatten slightly
-        arr[i * 3 + 2] = r * Math.sin(phi) * Math.sin(theta)
-      }
-      pointsRef.current.geometry.attributes.position.needsUpdate = true
-      ;(pointsRef.current.material as THREE.PointsMaterial).opacity = 0.12 + amp * 0.4
-      ;(pointsRef.current.material as THREE.PointsMaterial).size = 0.03 + amp * 0.05
+      // Stagger wavefronts evenly across the cycle
+      const cycleTime = maxRadius / (waveSpeed * (0.5 + amp * 0.5))
+      const phase = ((t + w * (cycleTime / WAVE_COUNT)) % cycleTime) / cycleTime // 0→1
+
+      // Radius grows from 0 to maxRadius
+      const r = phase * maxRadius
+
+      // Physically-based 1/r decay with damping: A·e^(-decay·r) / (1 + r)
+      const decay = 1.5 - amp * 0.5 // stronger signal = slower decay
+      const envelope = Math.exp(-decay * r) / (1 + r * 2)
+
+      sphere.scale.setScalar(Math.max(r, 0.01))
+      const mat = sphere.material as THREE.MeshBasicMaterial
+      mat.opacity = envelope * amp * 0.35
     }
   })
 
   return (
     <group>
-      {/* Glowing core sphere */}
+      {/* Source core: soft inner glow */}
       <mesh ref={coreRef}>
-        <sphereGeometry args={[0.15, 16, 12]} />
+        <sphereGeometry args={[0.08, 12, 8]} />
         <meshBasicMaterial
           color={color}
           transparent
-          opacity={0.3}
+          opacity={0.2}
           blending={THREE.AdditiveBlending}
           depthWrite={false}
         />
       </mesh>
 
-      {/* 3 expanding wave rings */}
-      {[0, 1, 2].map(r => (
+      {/* Expanding spherical wavefronts — wireframe spheres for "wave" look */}
+      {Array.from({ length: WAVE_COUNT }, (_, w) => (
         <mesh
-          key={r}
-          ref={el => { if (el) ringsRef.current[r] = el }}
-          rotation={[Math.PI / 2, 0, 0]}
+          key={w}
+          ref={el => { if (el) wavesRef.current[w] = el }}
         >
-          <torusGeometry args={[0.5, 0.015, 8, 48]} />
+          <sphereGeometry args={[1, 24, 16]} />
           <meshBasicMaterial
             color={color}
             transparent
-            opacity={0.2}
+            opacity={0}
+            wireframe
             blending={THREE.AdditiveBlending}
             depthWrite={false}
           />
         </mesh>
       ))}
-
-      {/* Particle spray */}
-      <points ref={pointsRef}>
-        <bufferGeometry>
-          <bufferAttribute attach="attributes-position" args={[particlePositions, 3]} />
-        </bufferGeometry>
-        <pointsMaterial
-          color={color}
-          size={0.04}
-          transparent
-          opacity={0.15}
-          blending={THREE.AdditiveBlending}
-          depthWrite={false}
-          sizeAttenuation
-        />
-      </points>
     </group>
   )
 }
@@ -184,7 +152,13 @@ function AudioZones3D({ audioData }: { audioData?: AudioSample[] }) {
     <group>
       {AUDIO_ZONES.map((zone, i) => (
         <group key={zone.key} position={zone.pos}>
-          <AudioZoneEmitter color={zone.color} amplitude={zoneAmps[i]} index={i} />
+          <AudioZoneEmitter
+            color={zone.color}
+            amplitude={zoneAmps[i]}
+            index={i}
+            waveSpeed={zone.waveSpeed}
+            maxRadius={zone.maxRadius}
+          />
         </group>
       ))}
     </group>
