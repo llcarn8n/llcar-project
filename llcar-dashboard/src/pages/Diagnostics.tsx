@@ -64,7 +64,7 @@ export function Diagnostics() {
   const useV2Api = useDashboardStore(s => s.useV2Api)
   const { report: v2Report, history: v2History, loading: v2Loading, error: _v2Error, sendFeedback, fetchLatest } = useDiagnosticV2(clientHash)
   const [manualLoading, setManualLoading] = useState(false)
-  const [activeSystem, setActiveSystem] = useState<string | null>(null)
+  const [activeSystem, setActiveSystem] = useState<string | null>('suspension')
 
   // Insight collapse state
   const [openInsight, setOpenInsight] = useState<string | null>(null)
