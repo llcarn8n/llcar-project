@@ -1,0 +1,251 @@
+import { Suspense, useState, useEffect, useRef, useMemo, useCallback } from 'react'
+import * as THREE from 'three'
+import { Canvas, useFrame } from '@react-three/fiber'
+import { EffectComposer, Bloom, Vignette } from '@react-three/postprocessing'
+import { SceneSetup } from './SceneSetup'
+import { CarWireframe, type WheelRefs, type WheelCorner } from './CarWireframe'
+import { Hotspot } from './Hotspot'
+import { AccelWaves, type AccelSample, type WheelBounce } from './AccelWaves'
+
+interface SystemInfo {
+  score: number
+  severity: number
+}
+
+interface AudioSample {
+  freqs: [number, number][]
+  quality: number
+}
+
+interface DiagnosticTwinCanvasProps {
+  systems: {
+    suspension: SystemInfo
+    engine: SystemInfo
+    electrical: SystemInfo
+    audio: SystemInfo
+  }
+  activeSystem: string | null
+  onHotspotClick: (system: string) => void
+  accelData?: AccelSample | null
+  audioData?: AudioSample[]
+}
+
+const HOTSPOTS: { key: string; label: string; position: [number, number, number]; color: string }[] = [
+  { key: 'engine', label: 'Двигатель', position: [0, 1.0, -1.3], color: '#00e5ff' },
+  { key: 'suspension', label: 'Подвеска', position: [-0.85, 0.5, 0.2], color: '#00e5ff' },
+  { key: 'electrical', label: 'Электрика', position: [0.5, 0.5, 0.2], color: '#64ffda' },
+  { key: 'audio', label: 'Аудио', position: [0, 0.85, 1.3], color: '#64ffda' },
+]
+
+// Audio zone positions on car and colors (matching AudioSpectrum zones)
+const AUDIO_ZONES = [
+  { key: 'road', pos: [0, -0.3, 0] as [number, number, number], color: '#00e5ff', maxFreq: 100, label: 'Дорога' },
+  { key: 'engine', pos: [0, 0.2, -1.0] as [number, number, number], color: '#64ffda', minFreq: 100, maxFreq: 300, label: 'Двигатель' },
+  { key: 'acc', pos: [0.4, 0.3, 0.5] as [number, number, number], color: '#00b8d4', minFreq: 300, maxFreq: 1000, label: 'Оборудование' },
+  { key: 'hf', pos: [0, 0.6, 0.8] as [number, number, number], color: '#00e5ff', minFreq: 1000, label: 'ВЧ шум' },
+]
+
+function AudioZones3D({ audioData }: { audioData?: AudioSample[] }) {
+  const ringsRef = useRef<THREE.Mesh[]>([])
+
+  // Compute zone amplitudes from latest audio sample
+  const zoneAmps = useMemo(() => {
+    if (!audioData || audioData.length === 0) return [0, 0, 0, 0]
+    const last = audioData[audioData.length - 1]
+    if (!last.freqs || last.freqs.length === 0) return [0, 0, 0, 0]
+
+    return AUDIO_ZONES.map(zone => {
+      let sum = 0
+      for (const [freq, amp] of last.freqs) {
+        const f = Math.abs(freq)
+        const a = Math.abs(amp)
+        const min = (zone as any).minFreq ?? 0
+        const max = (zone as any).maxFreq ?? 99999
+        if (f >= min && f < max) sum += a
+      }
+      return Math.min(sum / 500, 1) // normalize 0..1
+    })
+  }, [audioData])
+
+  useFrame(({ clock }) => {
+    const t = clock.elapsedTime
+    AUDIO_ZONES.forEach((_, i) => {
+      const mesh = ringsRef.current[i]
+      if (!mesh) return
+      const amp = zoneAmps[i]
+      const pulse = 1 + Math.sin(t * (2 + i)) * 0.15 * amp
+      mesh.scale.setScalar(0.15 + amp * 0.3)
+      mesh.scale.multiplyScalar(pulse)
+      ;(mesh.material as THREE.MeshBasicMaterial).opacity = 0.1 + amp * 0.4
+    })
+  })
+
+  return (
+    <group>
+      {AUDIO_ZONES.map((zone, i) => (
+        <mesh
+          key={zone.key}
+          ref={el => { if (el) ringsRef.current[i] = el }}
+          position={zone.pos}
+          rotation={[Math.PI / 2, 0, 0]}
+        >
+          <torusGeometry args={[0.3, 0.02, 8, 32]} />
+          <meshBasicMaterial
+            color={zone.color}
+            transparent
+            opacity={0.15}
+            blending={THREE.AdditiveBlending}
+            depthWrite={false}
+          />
+        </mesh>
+      ))}
+    </group>
+  )
+}
+
+// Shared bounce ref — written by AccelWaves, read by CarBouncer
+const bounceRef = { y: 0, roll: 0, pitch: 0 }
+const wheelBounceRef: WheelBounce = { fl: 0, fr: 0, rl: 0, rr: 0 }
+
+// Corner → bounce key mapping
+const CORNER_KEY: Record<WheelCorner, keyof WheelBounce> = {
+  'ПЛ': 'fl', 'ПП': 'fr', 'ЗЛ': 'rl', 'ЗП': 'rr',
+}
+
+// Applies bounce to car body + per-wheel offsets (no React re-renders)
+function CarBouncer({ activeSystem, groupRef }: {
+  activeSystem: string | null
+  groupRef: React.RefObject<THREE.Group | null>
+}) {
+  const wheelRefsLocal = useRef<WheelRefs | null>(null)
+  const suspRefLocal = useRef<THREE.Object3D | null>(null)
+  // Store original Y positions for each wheel mesh
+  const origY = useRef<Map<THREE.Object3D, number>>(new Map())
+
+  const handleWheelRefs = useCallback((refs: WheelRefs, susp: THREE.Object3D | null) => {
+    wheelRefsLocal.current = refs
+    suspRefLocal.current = susp
+    // Cache original Y positions
+    origY.current.clear()
+    for (const corner of Object.keys(refs) as WheelCorner[]) {
+      for (const obj of refs[corner]) {
+        origY.current.set(obj, obj.position.y)
+      }
+    }
+    if (susp) origY.current.set(susp, susp.position.y)
+  }, [])
+
+  useFrame(() => {
+    if (!groupRef.current) return
+
+    // Body movement (slow lerp applied in AccelWaves)
+    groupRef.current.position.y = -0.15 + bounceRef.y
+    groupRef.current.rotation.z = bounceRef.roll
+    groupRef.current.rotation.x = bounceRef.pitch
+
+    // Per-wheel Y offset (relative to body)
+    const wRefs = wheelRefsLocal.current
+    if (wRefs) {
+      for (const corner of Object.keys(wRefs) as WheelCorner[]) {
+        const key = CORNER_KEY[corner]
+        const wheelY = wheelBounceRef[key]
+        // Offset wheel meshes relative to their original position
+        for (const obj of wRefs[corner]) {
+          const oy = origY.current.get(obj) ?? obj.position.y
+          obj.position.y = oy + wheelY
+        }
+      }
+    }
+
+    // Suspension compression: scale Y based on max wheel-body gap
+    const susp = suspRefLocal.current
+    if (susp) {
+      const maxGap = Math.max(
+        Math.abs(wheelBounceRef.fl - bounceRef.y),
+        Math.abs(wheelBounceRef.fr - bounceRef.y),
+        Math.abs(wheelBounceRef.rl - bounceRef.y),
+        Math.abs(wheelBounceRef.rr - bounceRef.y),
+      )
+      // Compress when gap is large (wheel far from body)
+      susp.scale.y = THREE.MathUtils.lerp(1.0, 0.6, Math.min(maxGap * 8, 1))
+    }
+  })
+
+  return (
+    <group ref={groupRef}>
+      <CarWireframe activeSystem={activeSystem} onWheelRefs={handleWheelRefs} />
+    </group>
+  )
+}
+
+function SceneContent({
+  systems, activeSystem, onHotspotClick, accelData, audioData,
+}: DiagnosticTwinCanvasProps) {
+  const carGroupRef = useRef<THREE.Group>(null)
+
+  const handleBounce = (y: number, roll: number, pitch: number, wheels: WheelBounce) => {
+    bounceRef.y = y
+    bounceRef.roll = roll
+    bounceRef.pitch = pitch
+    wheelBounceRef.fl = wheels.fl
+    wheelBounceRef.fr = wheels.fr
+    wheelBounceRef.rl = wheels.rl
+    wheelBounceRef.rr = wheels.rr
+  }
+
+  return (
+    <>
+      <SceneSetup />
+      <CarBouncer activeSystem={activeSystem} groupRef={carGroupRef} />
+      <AccelWaves
+        accelData={accelData ?? null}
+        visible={activeSystem === 'suspension' || activeSystem === null}
+        onBounce={handleBounce}
+      />
+      {(activeSystem === 'audio' || activeSystem === null) && (
+        <AudioZones3D audioData={audioData} />
+      )}
+      {HOTSPOTS.map(hs => {
+        const sys = systems[hs.key as keyof typeof systems]
+        return (
+          <Hotspot
+            key={hs.key}
+            position={hs.position}
+            label={hs.label}
+            value={`${sys.score}`}
+            severity={sys.severity}
+            color={hs.color}
+            active={activeSystem === hs.key}
+            onClick={() => onHotspotClick(hs.key)}
+          />
+        )
+      })}
+    </>
+  )
+}
+
+export default function DiagnosticTwinCanvas(props: DiagnosticTwinCanvasProps) {
+  const [isMobile, setIsMobile] = useState(false)
+  useEffect(() => {
+    setIsMobile(window.innerWidth < 768)
+  }, [])
+
+  return (
+    <Canvas camera={{ position: [3.5, 1.5, 3.5], fov: 42 }} style={{ background: 'transparent' }}>
+      <Suspense fallback={null}>
+        <SceneContent {...props} />
+      </Suspense>
+      {!isMobile && (
+        <EffectComposer multisampling={0}>
+          <Bloom
+            intensity={0.4}
+            luminanceThreshold={0.6}
+            luminanceSmoothing={0.9}
+            mipmapBlur
+          />
+          <Vignette offset={0.3} darkness={0.6} />
+        </EffectComposer>
+      )}
+    </Canvas>
+  )
+}
