@@ -52,7 +52,7 @@ function DetailCharts({ accelData, chartAxesRef, chartCorridorRef }: {
       </button>
 
       {open && (
-        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 12 }}>
+        <div className="suspension-detail-grid" style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 12 }}>
           {/* Vibration by axes */}
           <GlassPanel style={{ background: 'rgba(6, 15, 25, 0.5)' }}>
             <div className="hud-header" style={{ marginBottom: 4 }}>Вибрация по осям</div>
@@ -598,7 +598,7 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
       </GlassPanel>
 
       {/* 2. Three Stat Cards */}
-      <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: 12 }}>
+      <div className="suspension-stat-grid" style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: 12 }}>
         {STAT_CARDS.map(card => {
           const pct = Math.min(card.value / 5 * 100, 100)
           return (
@@ -665,7 +665,7 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
         <div className="hud-header" style={{ marginBottom: 4 }}>3D-Траектория вибрации</div>
         <div
           ref={chart3dRef}
-          style={{ width: '100%', height: 420 }}
+          style={{ width: '100%', height: 'min(420px, 60vh)' }}
         />
         {/* Overlay explanation */}
         <div style={{

@@ -1094,6 +1094,13 @@ header {
     gap: 4px !important;
     font-size: 0.5rem !important;
   }
+
+  .suspension-stat-grid {
+    grid-template-columns: 1fr !important;
+  }
+  .suspension-detail-grid {
+    grid-template-columns: 1fr !important;
+  }
 }
 
 /* ── 26. V3 Diagnostics: Tablet Responsive ── */
