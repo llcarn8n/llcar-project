@@ -185,13 +185,19 @@ export function RulesList({ filterSystem }: { filterSystem?: string } = {}) {
               <div
                 onClick={() => setOpenSystem(isOpen ? null : system)}
                 style={{
-                  display: 'flex', alignItems: 'center', gap: 10, padding: '10px 12px',
-                  borderRadius: 4, cursor: 'pointer', transition: 'all 0.2s',
-                  background: isOpen ? 'rgba(100,255,218,0.06)' : 'rgba(0,229,255,0.02)',
-                  border: `1px solid ${isOpen ? 'rgba(100,255,218,0.15)' : 'rgba(0,229,255,0.06)'}`,
+                  display: 'flex', alignItems: 'center', gap: 10, padding: '12px 14px',
+                  borderRadius: 6, cursor: 'pointer', transition: 'all 0.25s',
+                  background: isOpen
+                    ? 'linear-gradient(135deg, rgba(100,255,218,0.1), rgba(0,229,255,0.05))'
+                    : 'linear-gradient(135deg, rgba(0,229,255,0.04), transparent)',
+                  border: `1px solid ${isOpen ? 'rgba(100,255,218,0.2)' : 'rgba(0,229,255,0.08)'}`,
+                  boxShadow: isOpen ? '0 0 12px rgba(100,255,218,0.08)' : 'none',
                 }}
               >
-                <span style={{ fontSize: 18 }}>{icon}</span>
+                <span style={{
+                  fontSize: 22, width: 36, height: 36, display: 'flex', alignItems: 'center', justifyContent: 'center',
+                  background: 'rgba(0,229,255,0.08)', borderRadius: 6, border: '1px solid rgba(0,229,255,0.12)',
+                }}>{icon}</span>
                 <div style={{ flex: 1 }}>
                   <div style={{ fontFamily: "'Rajdhani', sans-serif", fontSize: 14, fontWeight: 700, color: theme.text.secondary }}>
                     {system}
@@ -224,10 +230,13 @@ export function RulesList({ filterSystem }: { filterSystem?: string } = {}) {
                         key={r.id}
                         onClick={() => setExpandedId(isExp ? null : r.id)}
                         style={{
-                          padding: '10px 12px', borderRadius: 4, cursor: 'pointer', transition: 'all 0.2s',
-                          background: isExp ? 'rgba(0,229,255,0.05)' : 'rgba(0,229,255,0.015)',
-                          border: `1px solid ${isExp ? 'rgba(0,229,255,0.15)' : 'rgba(0,229,255,0.05)'}`,
+                          padding: '10px 12px', borderRadius: 6, cursor: 'pointer', transition: 'all 0.25s',
+                          background: isExp
+                            ? `linear-gradient(135deg, ${tier.color}18, ${tier.color}08)`
+                            : `linear-gradient(135deg, ${tier.color}08, transparent)`,
+                          border: `1px solid ${isExp ? `${tier.color}30` : `${tier.color}12`}`,
                           borderLeft: `3px solid ${tier.color}`,
+                          boxShadow: isExp ? `0 0 10px ${tier.color}15` : 'none',
                         }}
                       >
                         {/* Title row */}

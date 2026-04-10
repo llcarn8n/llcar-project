@@ -7,7 +7,6 @@ import { theme } from '../theme'
 
 const tabs = [
   { path: '/', label: 'Диагностика', icon: '\u2B21' },
-  { path: '/vehicle', label: 'Авто', icon: '\u{1F697}' },
   { path: '/kb', label: 'База знаний', icon: '\u{1F4DA}' },
   { path: '/dtc', label: 'Ошибки', icon: '\u26A0' },
   { path: '/resources', label: 'Ресурсы', icon: '\u{1F517}' },

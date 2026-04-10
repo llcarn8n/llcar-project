@@ -10,7 +10,7 @@ import { theme } from './theme'
 
 // Lazy-loaded pages
 const Landing = lazy(() => import('./pages/Landing').then(m => ({ default: m.Landing })))
-const VehicleInfo = lazy(() => import('./pages/VehicleInfo').then(m => ({ default: m.VehicleInfo })))
+// VehicleInfo removed — all info now in Diagnostics overview tab
 const KnowledgeBase = lazy(() => import('./pages/KnowledgeBase').then(m => ({ default: m.KnowledgeBase })))
 const ErrorCodes = lazy(() => import('./pages/ErrorCodes').then(m => ({ default: m.ErrorCodes })))
 const Diagnostics = lazy(() => import('./pages/Diagnostics').then(m => ({ default: m.Diagnostics })))
@@ -60,7 +60,6 @@ function App() {
             <Routes>
               <Route path="/" element={<Diagnostics />} />
               <Route path="/diagnostics" element={<Diagnostics />} />
-              <Route path="/vehicle" element={<VehicleInfo />} />
               <Route path="/kb" element={<KnowledgeBase />} />
               <Route path="/dtc" element={<ErrorCodes />} />
               <Route path="/resources" element={<Resources />} />

@@ -323,18 +323,34 @@ export function Diagnostics() {
         </div>
       </div>
 
-      {/* ═══ DETAIL PANEL (conditional by activeSystem) ═══ */}
+      {/* ═══ DETAIL PANEL — unified pattern: summary → charts → rules ═══ */}
       <div className="grid grid-cols-12 gap-3 mt-3">
 
         {/* ── Обзор (default) ── */}
         {activeSystem === null && (
           <>
-            {/* Timeline */}
-            <div className="col-span-12">
+            {/* Summary row: Diagnosis + Baseline + Timeline */}
+            <div className="col-span-12 lg:col-span-7">
+              {useV2Api ? (
+                <DiagnosisCardV2 report={v2Report} loading={v2Loading} onFeedback={sendFeedback} clientHash={clientHash} />
+              ) : (
+                <DiagnosisCard diagnostics={diagnostics} degradation={degradation} regime={regime} />
+              )}
+            </div>
+            <div className="col-span-12 lg:col-span-5">
+              {useV2Api && v2Report?.baseline_status && (
+                <div style={{ marginBottom: 12 }}>
+                  <BaselineStatus
+                    ready={v2Report.baseline_status.ready}
+                    totalSamples={v2Report.baseline_status.total_samples}
+                    samplesNeeded={v2Report.baseline_status.samples_needed}
+                  />
+                </div>
+              )}
               <AnomalyTimeline history={useV2Api ? v2HistoryAdapted : (historyData?.history ?? [])} />
             </div>
 
-            {/* Insight cards */}
+            {/* Insight cards row */}
             {useV2Api && v2Report && (
               <div className="col-span-12 grid grid-cols-1 md:grid-cols-3 gap-3">
                 {v2Report.escalations && v2Report.escalations.length > 0 && (
@@ -343,14 +359,7 @@ export function Diagnostics() {
                       <span style={{ fontSize: 12, fontFamily: "'Rajdhani', sans-serif", fontWeight: 600, color: theme.text.primary }}>📈 История диагнозов</span>
                       <span style={{ fontSize: 10, color: theme.accent.cyan }}>{openInsight === 'esc' ? '▾' : '▸'}</span>
                     </div>
-                    <div style={{ fontSize: 10, color: theme.text.muted, fontFamily: "'Rajdhani', sans-serif" }}>
-                      {v2Report.escalations.length} проблем отслеживается
-                    </div>
-                    {openInsight === 'esc' && (
-                      <div style={{ marginTop: 8 }} onClick={e => e.stopPropagation()}>
-                        <EscalationTimeline escalations={v2Report.escalations} />
-                      </div>
-                    )}
+                    {openInsight === 'esc' && <div style={{ marginTop: 8 }} onClick={e => e.stopPropagation()}><EscalationTimeline escalations={v2Report.escalations} /></div>}
                   </div>
                 )}
                 <div className="glass-panel" style={{ padding: '10px 14px', cursor: 'pointer' }} onClick={() => setOpenInsight(openInsight === 'corr' ? null : 'corr')}>
@@ -358,118 +367,95 @@ export function Diagnostics() {
                     <span style={{ fontSize: 12, fontFamily: "'Rajdhani', sans-serif", fontWeight: 600, color: theme.text.primary }}>🔗 Корреляции</span>
                     <span style={{ fontSize: 10, color: theme.accent.cyan }}>{openInsight === 'corr' ? '▾' : '▸'}</span>
                   </div>
-                  <div style={{ fontSize: 10, color: theme.text.muted, fontFamily: "'Rajdhani', sans-serif" }}>
-                    Связи вибрация ↔ звук ↔ OBD
-                  </div>
-                  {openInsight === 'corr' && (
-                    <div style={{ marginTop: 8 }} onClick={e => e.stopPropagation()}>
-                      <CorrelationPanel clientHash={clientHash} />
-                    </div>
-                  )}
+                  {openInsight === 'corr' && <div style={{ marginTop: 8 }} onClick={e => e.stopPropagation()}><CorrelationPanel clientHash={clientHash} /></div>}
                 </div>
                 <div className="glass-panel" style={{ padding: '10px 14px', cursor: 'pointer' }} onClick={() => setOpenInsight(openInsight === 'recall' ? null : 'recall')}>
                   <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-                    <span style={{ fontSize: 12, fontFamily: "'Rajdhani', sans-serif", fontWeight: 600, color: theme.text.primary }}>📋 Отзывные кампании</span>
+                    <span style={{ fontSize: 12, fontFamily: "'Rajdhani', sans-serif", fontWeight: 600, color: theme.text.primary }}>📋 Отзывные</span>
                     <span style={{ fontSize: 10, color: theme.accent.cyan }}>{openInsight === 'recall' ? '▾' : '▸'}</span>
                   </div>
-                  <div style={{ fontSize: 10, color: theme.text.muted, fontFamily: "'Rajdhani', sans-serif" }}>
-                    {(v2Report.recalls?.length || 0) === 0 ? 'Не найдено' : `${v2Report.recalls!.length} найдено`}
-                  </div>
-                  {openInsight === 'recall' && (
-                    <div style={{ marginTop: 8 }} onClick={e => e.stopPropagation()}>
-                      <RecallsPanel recalls={v2Report.recalls || []} />
-                    </div>
-                  )}
+                  {openInsight === 'recall' && <div style={{ marginTop: 8 }} onClick={e => e.stopPropagation()}><RecallsPanel recalls={v2Report.recalls || []} /></div>}
                 </div>
               </div>
             )}
 
-            {/* Baseline + Search + Rules */}
-            {useV2Api && v2Report?.baseline_status && (
-              <div className="col-span-12 lg:col-span-3">
-                <BaselineStatus
-                  ready={v2Report.baseline_status.ready}
-                  totalSamples={v2Report.baseline_status.total_samples}
-                  samplesNeeded={v2Report.baseline_status.samples_needed}
-                />
-              </div>
-            )}
-            <div className={useV2Api && v2Report?.baseline_status ? 'col-span-12 lg:col-span-4' : 'col-span-12 lg:col-span-5'}>
+            {/* Search + Rules + Chat */}
+            <div className="col-span-12 lg:col-span-4">
               <DiagnosticSearch />
+              <div style={{ marginTop: 12 }}>
+                <ChatPanel />
+              </div>
             </div>
-            <div className={useV2Api && v2Report?.baseline_status ? 'col-span-12 lg:col-span-5' : 'col-span-12 lg:col-span-7'}>
+            <div className="col-span-12 lg:col-span-8">
               <RulesList />
-            </div>
-
-            {/* Chat */}
-            <div className="col-span-12">
-              <ChatPanel />
             </div>
           </>
         )}
 
-        {/* ── Подвеска ── */}
+        {/* ── Подвеска: summary card full-width → SmartSphere + Scatter side by side → Rules ── */}
         {activeSystem === 'suspension' && (
           <>
-            <div className="col-span-12 lg:col-span-6">
+            {/* Summary: status card full width */}
+            <div className="col-span-12">
+              <SuspensionTab accelData={accelData} />
+            </div>
+            {/* 3D SmartSphere */}
+            <div className="col-span-12 lg:col-span-12">
               <Suspense fallback={
-                <GlassPanel style={{ height: 'min(420px, 55vh)' }}>
-                  <div className="hud-header mb-3">Вибрация 3D</div>
+                <GlassPanel style={{ height: 'min(400px, 50vh)' }}>
                   <div className="flex items-center justify-center" style={{ height: 200, color: 'rgba(0,229,255,0.5)', fontSize: 12, fontFamily: 'monospace' }}>Loading 3D...</div>
                 </GlassPanel>
               }>
                 <SmartSphere data={accelData} />
               </Suspense>
             </div>
-            <div className="col-span-12 lg:col-span-6">
-              <SuspensionTab accelData={accelData} />
-            </div>
+            {/* Rules */}
             <div className="col-span-12">
               <RulesList filterSystem="Подвеска" />
             </div>
           </>
         )}
 
-        {/* ── Двигатель ── */}
+        {/* ── Двигатель: diagnosis full-width → rules ── */}
         {activeSystem === 'engine' && (
           <>
-            <div className="col-span-12 lg:col-span-6">
+            <div className="col-span-12">
               {useV2Api ? (
                 <DiagnosisCardV2 report={v2Report} loading={v2Loading} onFeedback={sendFeedback} clientHash={clientHash} />
               ) : (
                 <DiagnosisCard diagnostics={diagnostics} degradation={degradation} regime={regime} />
               )}
             </div>
-            <div className="col-span-12 lg:col-span-6">
+            <div className="col-span-12">
               <RulesList filterSystem="Двигатель" />
             </div>
           </>
         )}
 
-        {/* ── Электрика ── */}
+        {/* ── Электрика: diagnosis full-width → rules ── */}
         {activeSystem === 'electrical' && (
           <>
-            <div className="col-span-12 lg:col-span-6">
+            <div className="col-span-12">
               {useV2Api ? (
                 <DiagnosisCardV2 report={v2Report} loading={v2Loading} onFeedback={sendFeedback} clientHash={clientHash} />
               ) : (
                 <DiagnosisCard diagnostics={diagnostics} degradation={degradation} regime={regime} />
               )}
             </div>
-            <div className="col-span-12 lg:col-span-6">
+            <div className="col-span-12">
               <RulesList filterSystem="Электрика" />
             </div>
           </>
         )}
 
-        {/* ── Аудио ── */}
+        {/* ── Аудио: AudioTab summary full-width → spectrum below → rules ── */}
         {activeSystem === 'audio' && (
           <>
-            <div className="col-span-12 lg:col-span-6">
-              <AudioSpectrum data={audioData} />
-            </div>
-            <div className="col-span-12 lg:col-span-6">
+            <div className="col-span-12">
               <AudioTab data={audioData} />
+            </div>
+            <div className="col-span-12">
+              <AudioSpectrum data={audioData} />
             </div>
             <div className="col-span-12">
               <RulesList filterSystem="Шумы" />
