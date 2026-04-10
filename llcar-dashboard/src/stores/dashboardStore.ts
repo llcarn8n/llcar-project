@@ -116,7 +116,7 @@ export const useDashboardStore = create<DashboardState>((set, get) => ({
   sidebarOpen: false,
   selectedSystem: null,
   timeRange: 10080,
-  clientHash: '',
+  clientHash: 'b5f2f64851802f4859a3ffe3eda4b2d5', // auto-select freshest client
   expertMode: false,
   useV2Api: true,
   isDarkMode: true,
