@@ -1,0 +1,29 @@
+{
+  "generation_id": "kia_rio_qb_2011",
+  "generation_name": "Rio III (QB)",
+  "year_start": 2011,
+  "year_end": 2017,
+  "body_type": "sedan/hatchback",
+  "market": "local_production",
+  "production": "Hyundai Motor Manufacturing Rus, Санкт-Петербург",
+  "facelift": 2015,
+  "platform": "Hyundai-Kia GB (shared with Hyundai Solaris)",
+  "dimensions": {
+    "length_mm": 4370,
+    "width_mm": 1700,
+    "height_mm": 1470,
+    "wheelbase_mm": 2570,
+    "ground_clearance_mm": 160,
+    "trunk_volume_l": 500,
+    "fuel_tank_l": 43,
+    "curb_weight_kg": 1106
+  },
+  "engines": [
+    { "code": "G4FA", "volume": "1.4L", "type": "Gamma MPI", "fuel": "petrol", "power_hp": 107 },
+    { "code": "G4FC", "volume": "1.6L", "type": "Gamma MPI", "fuel": "petrol", "power_hp": 123 }
+  ],
+  "transmissions": ["МКПП-5", "МКПП-6", "АКПП-4", "АКПП-6"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "very_high",
+  "notes": "Массовая модель для РФ. Производство на заводе Hyundai в СПб. Одна платформа с Hyundai Solaris. Самое продаваемое поколение."
+}

@@ -1,0 +1,24 @@
+{
+  "generation_id": "kia_rio_jb_2005",
+  "generation_name": "Rio II (JB)",
+  "year_start": 2005,
+  "year_end": 2011,
+  "body_type": "sedan/hatchback",
+  "market": "import",
+  "production": "Корея",
+  "facelift": 2009,
+  "dimensions": {
+    "length_mm": 4240,
+    "width_mm": 1695,
+    "height_mm": 1470,
+    "wheelbase_mm": 2500
+  },
+  "engines": [
+    { "code": "G4EE", "volume": "1.4L", "type": "MPI", "fuel": "petrol", "power_hp": 97 },
+    { "code": "G4ED", "volume": "1.6L", "type": "MPI", "fuel": "petrol", "power_hp": 112 }
+  ],
+  "transmissions": ["МКПП-5", "АКПП-4"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "medium",
+  "notes": "Второе поколение, рестайлинг 2009. Импорт из Кореи."
+}

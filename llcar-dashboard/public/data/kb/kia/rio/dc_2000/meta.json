@@ -1,0 +1,23 @@
+{
+  "generation_id": "kia_rio_dc_2000",
+  "generation_name": "Rio I (DC)",
+  "year_start": 2000,
+  "year_end": 2005,
+  "body_type": "sedan/hatchback",
+  "market": "import",
+  "production": "Корея",
+  "dimensions": {
+    "length_mm": 4240,
+    "width_mm": 1670,
+    "height_mm": 1420,
+    "wheelbase_mm": 2410
+  },
+  "engines": [
+    { "code": "A3E", "volume": "1.3L", "type": "MPI", "fuel": "petrol", "power_hp": 75 },
+    { "code": "A5D", "volume": "1.5L", "type": "MPI", "fuel": "petrol", "power_hp": 98 }
+  ],
+  "transmissions": ["МКПП-5", "АКПП-4"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "low",
+  "notes": "Первое поколение, импортировалось в РФ в небольших количествах"
+}

@@ -1,0 +1,30 @@
+{
+  "generation_id": "kia_rio_fb_2017",
+  "generation_name": "Rio IV (FB)",
+  "year_start": 2017,
+  "year_end": 2023,
+  "body_type": "sedan/hatchback/x-line",
+  "market": "local_production",
+  "production": "Hyundai Motor Manufacturing Rus, Санкт-Петербург",
+  "facelift": 2020,
+  "platform": "Hyundai-Kia K2 (shared with Hyundai Solaris II)",
+  "dimensions": {
+    "length_mm": 4375,
+    "width_mm": 1720,
+    "height_mm": 1470,
+    "wheelbase_mm": 2580,
+    "ground_clearance_mm": 155,
+    "trunk_volume_l": 480,
+    "fuel_tank_l": 45,
+    "curb_weight_kg": 1190
+  },
+  "engines": [
+    { "code": "G4LC", "volume": "1.4L", "type": "Kappa MPI", "fuel": "petrol", "power_hp": 100 },
+    { "code": "G4FG", "volume": "1.6L", "type": "Gamma MPI", "fuel": "petrol", "power_hp": 123 }
+  ],
+  "transmissions": ["МКПП-6", "АКПП-6"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "very_high",
+  "sub_models": ["Rio", "Rio X-Line (кросс-версия, клиренс 170мм)"],
+  "notes": "Четвёртое поколение, рестайлинг 2020. Производство в СПб. X-Line — кросс-версия с увеличенным клиренсом. Последнее поколение для РФ рынка до ухода Kia."
+}
