@@ -1,0 +1,19 @@
+{
+  "generation_id": "kia_cerato_bd_2018",
+  "generation_name": "Cerato IV (BD)",
+  "year_start": 2018,
+  "year_end": 2024,
+  "body_type": "sedan",
+  "market": "local_production + parallel_import",
+  "production": "Автотор Калининград 2018-2022, затем параллельный импорт",
+  "facelift": 2022,
+  "platform": "Hyundai-Kia K3 (shared with Hyundai Elantra CN7)",
+  "engines": [
+    { "code": "G4FG", "volume": "1.6L", "type": "Gamma MPI", "fuel": "petrol", "power_hp": 128 },
+    { "code": "G4NA", "volume": "2.0L", "type": "Nu MPI", "fuel": "petrol", "power_hp": 150 }
+  ],
+  "transmissions": ["МКПП-6", "АКПП-6"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "high",
+  "notes": "Четвёртое поколение, рестайлинг 2022. Сборка Автотор до 2022, затем параллельный импорт."
+}

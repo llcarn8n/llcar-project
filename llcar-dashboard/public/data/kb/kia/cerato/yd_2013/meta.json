@@ -1,0 +1,19 @@
+{
+  "generation_id": "kia_cerato_yd_2013",
+  "generation_name": "Cerato III (YD)",
+  "year_start": 2013,
+  "year_end": 2020,
+  "body_type": "sedan",
+  "market": "local_production",
+  "production": "Автотор, Калининград",
+  "facelift": 2016,
+  "platform": "Hyundai-Kia (shared with Hyundai Elantra MD)",
+  "engines": [
+    { "code": "G4FG", "volume": "1.6L", "type": "Gamma MPI", "fuel": "petrol", "power_hp": 130 },
+    { "code": "G4NA", "volume": "2.0L", "type": "Nu MPI", "fuel": "petrol", "power_hp": 150 }
+  ],
+  "transmissions": ["МКПП-6", "АКПП-6"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "high",
+  "notes": "Третье поколение, сборка Автотор. Рестайлинг 2016. Продавалось параллельно с BD до 2020."
+}

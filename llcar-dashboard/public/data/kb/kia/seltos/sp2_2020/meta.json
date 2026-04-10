@@ -1,0 +1,29 @@
+{
+  "generation_id": "kia_seltos_sp2_2020",
+  "generation_name": "Seltos (SP2)",
+  "year_start": 2020,
+  "year_end": 2022,
+  "body_type": "suv",
+  "market": "local_production",
+  "production": "Автотор, Калининград",
+  "platform": "Hyundai-Kia SP2 (shared with Hyundai Creta)",
+  "dimensions": {
+    "length_mm": 4370,
+    "width_mm": 1800,
+    "height_mm": 1615,
+    "wheelbase_mm": 2610,
+    "ground_clearance_mm": 190,
+    "trunk_volume_l": 433,
+    "fuel_tank_l": 50,
+    "curb_weight_kg": 1395
+  },
+  "engines": [
+    { "code": "G4FG", "volume": "1.6L", "type": "Gamma II MPI", "fuel": "petrol", "power_hp": 121 },
+    { "code": "G4NH", "volume": "2.0L", "type": "Nu MPI", "fuel": "petrol", "power_hp": 149 },
+    { "code": "G4FJ", "volume": "1.6L", "type": "Gamma II T-GDI Turbo", "fuel": "petrol", "power_hp": 177 }
+  ],
+  "transmissions": ["МКПП-6 (1.6)", "CVT (2.0 AWD)", "DCT-7 (1.6T)"],
+  "drivetrains": ["FWD", "AWD"],
+  "popularity_ru": "high",
+  "notes": "Единственное поколение для РФ. Автотор Калининград 2020-2022. Производство прекращено после ухода Kia из РФ."
+}
