@@ -1,0 +1,32 @@
+{
+  "generation_id": "kia_k5_dl3_2020",
+  "generation_name": "K5 (DL3)",
+  "year_start": 2020,
+  "year_end": 2025,
+  "body_type": "sedan (fastback)",
+  "market": "local_production + parallel_import",
+  "production": "Калининград (Автотор) 2020-2022, затем параллельный импорт",
+  "facelift": 2023,
+  "platform": "Hyundai-Kia N3 (shared with Hyundai Sonata DN8)",
+  "previous_name": "Kia Optima (до 2020)",
+  "dimensions": {
+    "length_mm": 4905,
+    "width_mm": 1860,
+    "height_mm": 1445,
+    "wheelbase_mm": 2850,
+    "ground_clearance_mm": 150,
+    "trunk_volume_l": 510,
+    "fuel_tank_l": 60,
+    "curb_weight_kg": 1455
+  },
+  "engines": [
+    { "code": "G4NA", "volume": "2.0L", "type": "Nu MPI/GDI", "fuel": "petrol", "power_hp": 150 },
+    { "code": "G4GC", "volume": "2.5L", "type": "Smartstream GDI", "fuel": "petrol", "power_hp": 194 },
+    { "code": "G4KH", "volume": "1.6L", "type": "T-GDI Turbo", "fuel": "petrol", "power_hp": 180 },
+    { "code": "G4KN", "volume": "2.5L", "type": "T-GDI Turbo", "fuel": "petrol", "power_hp": 290 }
+  ],
+  "transmissions": ["АКПП-6 (2.0)", "АКПП-8 (2.5/2.5T)", "DCT-8 (1.6T)"],
+  "drivetrains": ["FWD", "AWD (2.5T GT)"],
+  "popularity_ru": "high",
+  "notes": "Пятое поколение, переименована из Optima в K5. Сборка на Автоторе до 2022, затем параллельный импорт. Рестайлинг 2023. Платформа как Hyundai Sonata DN8."
+}

@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"curl -s --max-time 180 \\\"https://api.z.ai/api/coding/paas/v4/chat/completions\\\" \\\\\\n  -H \\\"Content-Type: application/json\\\" \\\\\\n  -H \\\"Authorization: Bearer 75f455cb5c3143cda67ddfe97294c8b...",
+  "error": "Exit code 1\nTraceback (most recent call last):\r\n  File \"<string>\", line 19, in <module>\r\n    sits = json.loads(c)\r\n  File \"C:\\Users\\����\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\json\\__init__.py\", line 346, in loads\r\n    return _default_decoder.decode(s)\r\n           ~~~~~~~~~~~~~~~~~~~~~~~^^^\r\n  File \"C:\\Users\\����\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\json\\decoder.py\", line 345, in decode\r\n    obj, end = self.raw_decode(s, idx=_w(s, 0).end())\r\n               ~~~~~~~~~~~~~~~^^^^^^^^^^^^...",
+  "timestamp": "2026-04-10T16:13:28.895Z",
+  "retry_count": 1
+}
