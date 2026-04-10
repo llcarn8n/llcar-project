@@ -44,9 +44,9 @@ const AUDIO_ZONES = [
   { key: 'road',    pos: [0.8, -0.5, 1.8] as [number, number, number],   color: '#60a5fa', minFreq: 0,    maxFreq: 80,    label: 'Дорога <80Гц',      waveSpeed: 0.3, maxRadius: 1.4 },  // blue — front RIGHT tire
   { key: 'engine',  pos: [0, 0.2, 2.0] as [number, number, number],      color: '#4ade80', minFreq: 80,   maxFreq: 150,   label: 'Двигатель 80–150Гц', waveSpeed: 0.5, maxRadius: 1.6 },  // green — FRONT engine bay
   { key: 'trans',   pos: [-0.8, -0.4, 0] as [number, number, number],    color: '#22d3ee', minFreq: 150,  maxFreq: 300,   label: 'Трансмиссия 150–300Гц', waveSpeed: 0.4, maxRadius: 1.2 },  // cyan — LEFT underside
-  { key: 'acc',     pos: [1.3, 0.3, 1.4] as [number, number, number],    color: '#f59e0b', minFreq: 300,  maxFreq: 600,   label: 'Навесное 300–600Гц', waveSpeed: 0.6, maxRadius: 1.0 },  // amber — RIGHT side of front engine bay
-  { key: 'bearing', pos: [-1.3, -0.3, 1.6] as [number, number, number],  color: '#f97316', minFreq: 600,  maxFreq: 2000,  label: 'Подшипники 0.6–2кГц', waveSpeed: 0.7, maxRadius: 0.9 },  // orange — front LEFT hub
-  { key: 'hf',      pos: [0, 0.6, 0.8] as [number, number, number],      color: '#ef4444', minFreq: 2000, maxFreq: 99999, label: 'ВЧ шум >2кГц',      waveSpeed: 0.9, maxRadius: 0.7 },  // red — windshield/A-pillar level
+  { key: 'acc',     pos: [-1.3, 0.3, 1.4] as [number, number, number],   color: '#f59e0b', minFreq: 300,  maxFreq: 600,   label: 'Навесное 300–600Гц', waveSpeed: 0.6, maxRadius: 1.0 },  // amber — LEFT side of engine bay
+  { key: 'bearing', pos: [1.2, -0.3, 1.6] as [number, number, number],   color: '#f97316', minFreq: 600,  maxFreq: 2000,  label: 'Подшипники 0.6–2кГц', waveSpeed: 0.7, maxRadius: 0.9 },  // orange — front RIGHT hub (swapped with acc)
+  { key: 'hf',      pos: [0.8, 1.0, -1.5] as [number, number, number],   color: '#ef4444', minFreq: 2000, maxFreq: 99999, label: 'ВЧ шум >2кГц',      waveSpeed: 0.9, maxRadius: 0.7 },  // red — rear RIGHT, above trunk (visible from default camera angle)
 ]
 
 // ── Spherical wave emitter with 1/r decay (physically-based sound propagation) ──
