@@ -6,10 +6,10 @@ import { SidebarContent } from '../components/sidebar/SidebarContent'
 import { theme } from '../theme'
 
 const tabs = [
-  { path: '/', label: 'Авто', icon: '\u{1F697}' },
+  { path: '/', label: 'Диагностика', icon: '\u2B21' },
+  { path: '/vehicle', label: 'Авто', icon: '\u{1F697}' },
   { path: '/kb', label: 'База знаний', icon: '\u{1F4DA}' },
   { path: '/dtc', label: 'Ошибки', icon: '\u26A0' },
-  { path: '/diagnostics', label: 'Диагностика', icon: '\u2B21' },
   { path: '/resources', label: 'Ресурсы', icon: '\u{1F517}' },
   { path: '/pricing', label: 'Тарифы', icon: '\u{1F48E}' },
 ]
@@ -88,7 +88,7 @@ export function MainLayout({ children }: { children: ReactNode }) {
 
         <nav className="flex gap-1 flex-shrink min-w-0 overflow-x-auto">
           {tabs.map(t => {
-            const isActive = location.pathname === t.path || (t.path === '/' && location.pathname === '/vehicle')
+            const isActive = location.pathname === t.path || (t.path === '/' && location.pathname === '/diagnostics')
             return (
               <button
                 key={t.path}

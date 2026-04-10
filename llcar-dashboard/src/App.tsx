@@ -58,11 +58,11 @@ function App() {
         <MainLayout>
           <Suspense fallback={<PageLoader />}>
             <Routes>
-              <Route path="/" element={<VehicleInfo />} />
+              <Route path="/" element={<Diagnostics />} />
+              <Route path="/diagnostics" element={<Diagnostics />} />
               <Route path="/vehicle" element={<VehicleInfo />} />
               <Route path="/kb" element={<KnowledgeBase />} />
               <Route path="/dtc" element={<ErrorCodes />} />
-              <Route path="/diagnostics" element={<Diagnostics />} />
               <Route path="/resources" element={<Resources />} />
               <Route path="/pricing" element={<Pricing />} />
               <Route path="*" element={<Navigate to="/" replace />} />
