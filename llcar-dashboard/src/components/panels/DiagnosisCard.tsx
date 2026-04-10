@@ -40,7 +40,7 @@ const STATUS_COLORS: Record<DiagnosticResult['status'], string> = {
   likely: '#FF1744',
   possible: '#FFAB00',
   unlikely: 'rgba(255,255,255,0.3)',
-  clear: '#00E676',
+  clear: '#00E5FF',
   no_data: 'rgba(255,255,255,0.15)',
 }
 
@@ -112,6 +112,8 @@ function StatusBadge({ status }: { status: DiagnosticResult['status'] }) {
         background: `${color}12`,
         textShadow: `0 0 6px ${color}80`,
         whiteSpace: 'nowrap' as const,
+        minWidth: 'fit-content',
+        flexShrink: 0,
         animation: isPulsing ? 'pulse-critical 2s ease-in-out infinite' : 'none',
       }}
     >

@@ -291,7 +291,7 @@ export function Pricing() {
                     fontWeight: 700,
                     letterSpacing: '0.2em',
                     color: '#0C1220',
-                    background: 'linear-gradient(135deg, #00E5FF, #64FFDA)',
+                    background: 'linear-gradient(135deg, #00E5FF, #00E5FF)',
                     padding: '4px 16px',
                     borderRadius: 12,
                     whiteSpace: 'nowrap',
@@ -432,7 +432,7 @@ export function Pricing() {
                   letterSpacing: '0.15em',
                   color: tier.popular ? '#0C1220' : tier.accentColor,
                   background: tier.popular
-                    ? 'linear-gradient(135deg, #00E5FF, #64FFDA)'
+                    ? 'linear-gradient(135deg, #00E5FF, #00E5FF)'
                     : 'rgba(255,255,255,0.03)',
                   border: tier.popular ? 'none' : `1px solid ${tier.borderColor}`,
                   borderRadius: 6,
@@ -561,7 +561,7 @@ export function Pricing() {
               fontWeight: 700,
               letterSpacing: '0.15em',
               color: '#0C1220',
-              background: 'linear-gradient(135deg, #00E5FF, #64FFDA)',
+              background: 'linear-gradient(135deg, #00E5FF, #00E5FF)',
               border: 'none',
               borderRadius: 8,
               padding: '14px 40px',
@@ -719,7 +719,7 @@ export function Pricing() {
                       fontWeight: 700,
                       letterSpacing: '0.1em',
                       color: '#0C1220',
-                      background: 'linear-gradient(135deg, #00E5FF, #64FFDA)',
+                      background: 'linear-gradient(135deg, #00E5FF, #00E5FF)',
                       border: 'none',
                       borderRadius: 6,
                       padding: '10px 20px',

@@ -14,7 +14,7 @@ export function HealthTrends({ history, trends }: HealthTrendsProps) {
       { label: 'Подвеска', color: '#FF6B35' },
       { label: 'Двигатель', color: '#FFD700' },
       { label: 'Электрика', color: '#7B68EE' },
-      { label: 'Аудио', color: '#00E676' },
+      { label: 'Аудио', color: '#00E5FF' },
     ]
 
     return (
@@ -68,7 +68,7 @@ export function HealthTrends({ history, trends }: HealthTrendsProps) {
     { key: 'suspension_score', label: 'Подвеска', color: '#FF6B35' },
     { key: 'engine_score', label: 'Двигатель', color: '#FFD700' },
     { key: 'electrical_score', label: 'Электрика', color: '#7B68EE' },
-    { key: 'audio_score', label: 'Аудио', color: '#00E676' },
+    { key: 'audio_score', label: 'Аудио', color: '#00E5FF' },
   ]
 
   // Get latest and earliest scores for sparkline

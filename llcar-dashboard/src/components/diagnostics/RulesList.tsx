@@ -1,6 +1,7 @@
 import { useState, useEffect, useMemo } from 'react'
 import { GlassPanel } from '../shared/GlassPanel'
 import { theme } from '../../theme'
+import { cachedFetch } from '../../utils/fetchCache'
 
 interface Rule { id: string; title: string; conditions: string; tier: string; dtc: string[]; type: 'rule' }
 interface DiagData { articles: unknown[]; rules: Rule[] }
@@ -112,34 +113,39 @@ function getAction(r: Rule): string {
   return 'Продолжайте наблюдение. Если значение ухудшается — обратитесь к специалисту.'
 }
 
-export function RulesList() {
+export function RulesList({ filterSystem }: { filterSystem?: string } = {}) {
   const [data, setData] = useState<DiagData | null>(null)
   const [expandedId, setExpandedId] = useState<string | null>(null)
   const [openSystem, setOpenSystem] = useState<string | null>(null)
 
   useEffect(() => {
-    fetch(`${import.meta.env.BASE_URL}data/diagnostic-rules.json`)
-      .then(r => r.json())
+    cachedFetch(`${import.meta.env.BASE_URL}data/diagnostic-rules.json`)
       .then(d => setData(d))
       .catch(() => {})
   }, [])
 
   const groups = useMemo(() => {
     if (!data) return []
+    const filtered = filterSystem
+      ? data.rules.filter(r => classifySystem(r) === filterSystem)
+      : data.rules
     const g: Record<string, Rule[]> = {}
-    for (const r of data.rules) {
+    for (const r of filtered) {
       const sys = classifySystem(r)
       if (!g[sys]) g[sys] = []
       g[sys].push(r)
     }
     // Sort: by count descending
     return Object.entries(g).sort((a, b) => b[1].length - a[1].length)
-  }, [data])
+  }, [data, filterSystem])
 
   if (!data) return null
 
-  const totalRules = data.rules.length
-  const t1Count = data.rules.filter(r => r.tier === 'T1').length
+  const allRules = filterSystem
+    ? data.rules.filter(r => classifySystem(r) === filterSystem)
+    : data.rules
+  const totalRules = allRules.length
+  const t1Count = allRules.filter(r => r.tier === 'T1').length
   const systemCount = groups.length
 
   return (

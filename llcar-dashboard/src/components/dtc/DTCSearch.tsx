@@ -1,6 +1,7 @@
 import { useState, useEffect, useMemo, useCallback } from 'react'
 import { GlassPanel } from '../shared/GlassPanel'
 import { theme } from '../../theme'
+import { cachedFetch } from '../../utils/fetchCache'
 
 interface DTCEntry {
   c: string   // code
@@ -78,9 +79,8 @@ export function DTCSearch({ onSelect, selectedCode, brandId, kbGenPath }: DTCSea
 
   // Load DTC index
   useEffect(() => {
-    fetch(`${import.meta.env.BASE_URL}data/dtc-search.json`)
-      .then(r => r.json())
-      .then((data: DTCEntry[]) => {
+    cachedFetch<DTCEntry[]>(`${import.meta.env.BASE_URL}data/dtc-search.json`)
+      .then((data) => {
         setAllCodes(data)
         setLoading(false)
       })

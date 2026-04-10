@@ -29,7 +29,7 @@ export interface AnomalyTimelineProps {
 
 const LINE_COLORS: Record<string, string> = {
   overall: '#00E5FF',
-  suspension: '#64FFDA',
+  suspension: '#00E5FF',
   engine: '#7C4DFF',
   electrical: '#FFAB00',
   audio: '#FF4081',
@@ -61,7 +61,7 @@ const SUBSYSTEMS = ['suspension', 'engine', 'electrical', 'audio'] as const
 
 /** Returns color based on health score value */
 function scoreColor(value: number): string {
-  if (value > 80) return '#00E676'
+  if (value > 80) return '#00E5FF'
   if (value >= 50) return '#FFAB00'
   return '#FF1744'
 }
@@ -180,7 +180,7 @@ export function AnomalyTimeline({ history, selectedSystem, compact = false }: An
 
     // Opacity helpers for system selection highlighting
     function subsystemOpacity(system: string): number {
-      if (!selectedSystem) return 0.35
+      if (!selectedSystem) return 0.5
       if (selectedSystem === system) return 0.9
       return 0.08
     }
@@ -190,8 +190,8 @@ export function AnomalyTimeline({ history, selectedSystem, compact = false }: An
       return 0.2
     }
 
-    const lineWidth = compact ? 2 : 3
-    const subLineWidth = compact ? 1 : 1.5
+    const lineWidth = 2
+    const subLineWidth = 1.5
 
     // Overall health score series (main line)
     const overallSeries = {
@@ -259,7 +259,7 @@ export function AnomalyTimeline({ history, selectedSystem, compact = false }: An
       grid: {
         top: compact ? 10 : 40,
         right: compact ? 12 : 20,
-        bottom: compact ? 24 : 36,
+        bottom: compact ? 40 : 55,
         left: compact ? 36 : 52,
         containLabel: false,
       },
@@ -319,9 +319,10 @@ export function AnomalyTimeline({ history, selectedSystem, compact = false }: An
         axisLine: { show: false },
         axisTick: { show: false },
         axisLabel: {
-          color: 'rgba(255,255,255,0.3)',
-          fontSize: compact ? 9 : 10,
-          fontFamily: 'Consolas, monospace',
+          show: true,
+          formatter: '{value}',
+          fontSize: 10,
+          color: 'rgba(255,255,255,0.4)',
         },
         splitLine: {
           lineStyle: {
@@ -335,12 +336,16 @@ export function AnomalyTimeline({ history, selectedSystem, compact = false }: An
         show: false,
         seriesIndex: 0,
         pieces: [
-          { gt: 80, lte: 100, color: '#00E676' },
+          { gt: 80, lte: 100, color: '#00E5FF' },
           { gt: 50, lte: 80, color: '#FFAB00' },
           { gte: 0, lte: 50, color: '#FF1744' },
         ],
         outOfRange: { color: '#FF1744' },
       },
+      dataZoom: [
+        { type: 'slider', start: 70, end: 100, height: 20, bottom: 5, borderColor: 'rgba(0,229,255,0.2)', fillerColor: 'rgba(0,229,255,0.05)', handleStyle: { color: '#00E5FF' }, textStyle: { color: 'rgba(255,255,255,0.5)', fontSize: 9 } },
+        { type: 'inside', start: 70, end: 100 },
+      ],
       series: [overallSeries, ...subsystemSeries],
     }
   }, [history, selectedSystem, compact])

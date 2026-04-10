@@ -90,7 +90,7 @@ export function PaywallOverlay({
             fontWeight: 600,
             letterSpacing: '0.1em',
             color: '#0C1220',
-            background: 'linear-gradient(135deg, #00E5FF, #64FFDA)',
+            background: 'linear-gradient(135deg, #00E5FF, #00E5FF)',
             border: 'none',
             borderRadius: 6,
             padding: compact ? '6px 14px' : '10px 24px',

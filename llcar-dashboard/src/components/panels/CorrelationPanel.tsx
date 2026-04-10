@@ -35,6 +35,7 @@ interface CorrelationPanelProps {
 
 export function CorrelationPanel({ clientHash }: CorrelationPanelProps) {
   const [results, setResults] = useState<CorrelationResult[]>([])
+  const [error, setError] = useState(false)
 
   const fetchCorrelations = useCallback(async () => {
     try {
@@ -42,8 +43,9 @@ export function CorrelationPanel({ clientHash }: CorrelationPanelProps) {
       if (res.ok) {
         const data = await res.json()
         setResults(data)
+        setError(false)
       }
-    } catch { /* silently ignore fetch errors */ }
+    } catch { setError(true) }
   }, [clientHash])
 
   useEffect(() => {
@@ -52,7 +54,14 @@ export function CorrelationPanel({ clientHash }: CorrelationPanelProps) {
     return () => clearInterval(timer)
   }, [fetchCorrelations])
 
-  if (results.length === 0) return null
+  if (results.length === 0 || error) return (
+    <GlassPanel>
+      <div className="hud-header mb-3">КОРРЕЛЯЦИИ ACCEL&#x2194;AUDIO</div>
+      <div style={{ fontSize: 11, color: 'var(--text-muted)', fontFamily: "'Rajdhani', sans-serif", padding: 4 }}>
+        Недостаточно данных для анализа корреляций. Нужно минимум 30 минут записи.
+      </div>
+    </GlassPanel>
+  )
 
   return (
     <GlassPanel>

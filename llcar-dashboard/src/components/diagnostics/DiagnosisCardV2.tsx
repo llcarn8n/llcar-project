@@ -362,6 +362,7 @@ interface DiagnosisCardV2Props {
   loading?: boolean
   onFeedback: (ruleName: string, action: 'confirmed' | 'dismissed') => Promise<boolean>
   clientHash?: string
+  compact?: boolean
 }
 
 const CAN_DRIVE_CONFIG = {
@@ -374,7 +375,7 @@ const STATUS_COLORS: Record<string, string> = {
   likely: '#FF1744',
   possible: '#FFAB00',
   unlikely: 'rgba(255,255,255,0.3)',
-  clear: '#00E676',
+  clear: '#00E5FF',
 }
 
 const STATUS_LABELS: Record<string, string> = {
@@ -384,7 +385,7 @@ const STATUS_LABELS: Record<string, string> = {
   clear: 'НОРМА',
 }
 
-export function DiagnosisCardV2({ report, loading, onFeedback, clientHash }: DiagnosisCardV2Props) {
+export function DiagnosisCardV2({ report, loading, onFeedback, clientHash, compact }: DiagnosisCardV2Props) {
   if (!report) {
     return (
       <GlassPanel>
@@ -456,93 +457,76 @@ export function DiagnosisCardV2({ report, loading, onFeedback, clientHash }: Dia
 
   return (
     <GlassPanel>
-      {/* Header + Can Drive status */}
-      <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 12 }}>
-        <div className="hud-header" style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
-          ДИАГНОСТИКА V2
-          {loading && (
-            <div style={{
-              width: 10, height: 10, borderRadius: '50%',
-              border: `1.5px solid ${theme.accent.cyan}30`,
-              borderTopColor: theme.accent.cyan,
-              animation: 'spin 1s linear infinite',
-            }} />
-          )}
-        </div>
-        <div style={{ display: 'flex', alignItems: 'center', gap: 6 }}>
-          {/* Data source dots — always visible when report loaded */}
-          {report.data_source && (
-            <div style={{ display: 'flex', alignItems: 'center', gap: 6, marginRight: 4 }}>
-              {[
-                { label: 'OBD', ok: report.data_source.has_obd },
-                { label: 'ACCEL', ok: report.data_source.has_accel },
-                { label: 'AUDIO', ok: report.data_source.has_audio },
-              ].map(({ label, ok }) => (
-                <div key={label} style={{ display: 'flex', alignItems: 'center', gap: 3 }} title={`${label}: ${ok ? 'данные есть' : 'нет данных'}`}>
-                  <div style={{
-                    width: 6, height: 6, borderRadius: '50%',
-                    backgroundColor: ok ? theme.status.ok : 'rgba(255,255,255,0.15)',
-                    boxShadow: ok ? `0 0 5px ${theme.status.ok}` : 'none',
-                    transition: 'all 0.3s ease',
-                  }} />
-                  <span style={{
-                    fontSize: 8, fontFamily: "'Orbitron', sans-serif",
-                    color: ok ? theme.text.secondary : 'rgba(255,255,255,0.2)',
-                    letterSpacing: '0.08em',
-                  }}>
-                    {label}
-                  </span>
+      {/* Header — hidden in compact mode (StatusStrip handles it) */}
+      {!compact && (
+        <>
+          <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 12 }}>
+            <div className="hud-header" style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+              ДИАГНОСТИКА V2
+              {loading && (
+                <div style={{
+                  width: 10, height: 10, borderRadius: '50%',
+                  border: `1.5px solid ${theme.accent.cyan}30`,
+                  borderTopColor: theme.accent.cyan,
+                  animation: 'spin 1s linear infinite',
+                }} />
+              )}
+            </div>
+            <div style={{ display: 'flex', alignItems: 'center', gap: 6 }}>
+              {report.data_source && (
+                <div style={{ display: 'flex', alignItems: 'center', gap: 6, marginRight: 4 }}>
+                  {[
+                    { label: 'OBD', ok: report.data_source.has_obd },
+                    { label: 'ACCEL', ok: report.data_source.has_accel },
+                    { label: 'AUDIO', ok: report.data_source.has_audio },
+                  ].map(({ label, ok }) => (
+                    <div key={label} style={{ display: 'flex', alignItems: 'center', gap: 3 }} title={`${label}: ${ok ? 'данные есть' : 'нет данных'}`}>
+                      <div style={{
+                        width: 6, height: 6, borderRadius: '50%',
+                        backgroundColor: ok ? theme.status.ok : 'rgba(255,255,255,0.15)',
+                        boxShadow: ok ? `0 0 5px ${theme.status.ok}` : 'none',
+                      }} />
+                      <span style={{ fontSize: 8, fontFamily: "'Orbitron', sans-serif", color: ok ? theme.text.secondary : 'rgba(255,255,255,0.2)', letterSpacing: '0.08em' }}>{label}</span>
+                    </div>
+                  ))}
                 </div>
-              ))}
+              )}
+              <ShareButton report={report} clientHash={clientHash || ''} />
+              <button onClick={(e) => { e.stopPropagation(); exportReport(report, clientHash || '') }}
+                style={{ padding: '3px 8px', fontSize: 9, fontFamily: "'Orbitron', sans-serif", color: theme.text.muted, background: 'transparent', border: `1px solid ${theme.text.muted}30`, borderRadius: 2, cursor: 'pointer', letterSpacing: '0.1em' }}
+                title="Скачать PDF отчёт">PDF</button>
+              <div style={{
+                display: 'flex', alignItems: 'center', gap: 6, padding: '3px 10px', borderRadius: 2,
+                color: driveConfig.color, background: `${driveConfig.color}12`, border: `1px solid ${driveConfig.color}40`,
+                fontSize: 11, fontFamily: "'Orbitron', sans-serif", fontWeight: 600, letterSpacing: '0.1em',
+                boxShadow: `0 0 8px ${driveConfig.color}30`,
+                animation: report.can_drive === 'stop' ? 'pulse-critical 2s ease-in-out infinite' : 'none',
+              }}>
+                <span>{driveConfig.icon}</span>
+                <span>{driveConfig.label}</span>
+              </div>
+            </div>
+          </div>
+
+          {/* Fuel loss alert — only in full mode */}
+          {report.fuel_loss && (
+            <div style={{
+              marginBottom: 12, padding: '8px 12px', borderRadius: 2,
+              background: `${theme.status.warning}08`, border: `1px solid ${theme.status.warning}20`,
+            }}>
+              <div style={{ fontSize: 10, color: theme.status.warning, fontFamily: "'Orbitron', sans-serif", letterSpacing: '0.1em', marginBottom: 4 }}>ПОТЕРИ ТОПЛИВА</div>
+              <div style={{ display: 'flex', justifyContent: 'space-between' }}>
+                <span style={{ fontSize: 13, fontFamily: "'Rajdhani', sans-serif", color: theme.text.secondary }}>{report.fuel_loss.monthly_rub.toLocaleString('ru-RU')} \u20BD/мес</span>
+                <span style={{ fontSize: 13, fontFamily: "'Rajdhani', sans-serif", color: theme.text.muted }}>{report.fuel_loss.yearly_rub.toLocaleString('ru-RU')} \u20BD/год</span>
+              </div>
             </div>
           )}
-          <ShareButton report={report} clientHash={clientHash || ''} />
-          <button
-            onClick={(e) => { e.stopPropagation(); exportReport(report, clientHash || ''); }}
-            style={{
-              padding: '3px 8px', fontSize: 9, fontFamily: "'Orbitron', sans-serif",
-              color: theme.text.muted, background: 'transparent',
-              border: `1px solid ${theme.text.muted}30`, borderRadius: 2,
-              cursor: 'pointer', letterSpacing: '0.1em',
-            }}
-            title="Скачать PDF отчёт"
-          >
-            PDF
-          </button>
-          <div style={{
-            display: 'flex', alignItems: 'center', gap: 6,
-            padding: '3px 10px', borderRadius: 2,
-            color: driveConfig.color,
-            background: `${driveConfig.color}12`,
-            border: `1px solid ${driveConfig.color}40`,
-            fontSize: 11, fontFamily: "'Orbitron', sans-serif", fontWeight: 600, letterSpacing: '0.1em',
-            boxShadow: `0 0 8px ${driveConfig.color}30`,
-            animation: report.can_drive === 'stop' ? 'pulse-critical 2s ease-in-out infinite' : 'none',
-          }}>
-            <span>{driveConfig.icon}</span>
-            <span>{driveConfig.label}</span>
-          </div>
-        </div>
-      </div>
+        </>
+      )}
 
-      {/* Fuel loss alert */}
-      {report.fuel_loss && (
-        <div style={{
-          marginBottom: 12, padding: '8px 12px', borderRadius: 2,
-          background: `${theme.status.warning}08`, border: `1px solid ${theme.status.warning}20`,
-        }}>
-          <div style={{ fontSize: 10, color: theme.status.warning, fontFamily: "'Orbitron', sans-serif", letterSpacing: '0.1em', marginBottom: 4 }}>
-            ПОТЕРИ ТОПЛИВА
-          </div>
-          <div style={{ display: 'flex', justifyContent: 'space-between' }}>
-            <span style={{ fontSize: 13, fontFamily: "'Rajdhani', sans-serif", color: theme.text.secondary }}>
-              {report.fuel_loss.monthly_rub.toLocaleString('ru-RU')} \u20BD/мес
-            </span>
-            <span style={{ fontSize: 13, fontFamily: "'Rajdhani', sans-serif", color: theme.text.muted }}>
-              {report.fuel_loss.yearly_rub.toLocaleString('ru-RU')} \u20BD/год
-            </span>
-          </div>
-        </div>
+      {/* Compact header */}
+      {compact && (
+        <div className="hud-header" style={{ marginBottom: 8 }}>ДИАГНОЗЫ</div>
       )}
 
       {/* Diagnoses list */}
@@ -626,18 +610,20 @@ export function DiagnosisCardV2({ report, loading, onFeedback, clientHash }: Dia
         </div>
       )}
 
-      {/* Baseline status */}
-      <div style={{
-        marginTop: 10, paddingTop: 8, borderTop: '1px solid rgba(0,229,255,0.1)',
-        display: 'flex', justifyContent: 'space-between', alignItems: 'center',
-      }}>
-        <span style={{ fontSize: 9, fontFamily: "'Orbitron', sans-serif", color: theme.text.muted, letterSpacing: '0.1em' }}>
-          {report.baseline_status.ready ? 'BASELINE READY' : `CALIBRATING ${report.baseline_status.total_samples}/${report.baseline_status.samples_needed}`}
-        </span>
-        <span style={{ fontSize: 9, fontFamily: "'Orbitron', sans-serif", color: theme.text.muted, letterSpacing: '0.1em' }}>
-          {report.rule_version.toUpperCase()}
-        </span>
-      </div>
+      {/* Baseline status — hidden in compact mode (StatusStrip shows it) */}
+      {!compact && (
+        <div style={{
+          marginTop: 10, paddingTop: 8, borderTop: '1px solid rgba(0,229,255,0.1)',
+          display: 'flex', justifyContent: 'space-between', alignItems: 'center',
+        }}>
+          <span style={{ fontSize: 9, fontFamily: "'Orbitron', sans-serif", color: theme.text.muted, letterSpacing: '0.1em' }}>
+            {report.baseline_status.ready ? 'BASELINE READY' : `CALIBRATING ${report.baseline_status.total_samples}/${report.baseline_status.samples_needed}`}
+          </span>
+          <span style={{ fontSize: 9, fontFamily: "'Orbitron', sans-serif", color: theme.text.muted, letterSpacing: '0.1em' }}>
+            {report.rule_version.toUpperCase()}
+          </span>
+        </div>
+      )}
 
     </GlassPanel>
   )

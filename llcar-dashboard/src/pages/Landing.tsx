@@ -77,7 +77,7 @@ export function Landing() {
                 title: 'Просто хочу не думать об этом',
                 pain: 'Не хочешь разбираться в датчиках. Хочешь сесть и поехать.',
                 solution: 'Зелёный — езжай. Жёлтый — запланируй. Красный — не тяни. Три цвета вместо тысячи цифр.',
-                accent: '#00E676',
+                accent: '#00E5FF',
               },
             ].map(({ title, pain, solution, accent }) => (
               <div key={title} style={{

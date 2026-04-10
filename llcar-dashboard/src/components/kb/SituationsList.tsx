@@ -1,6 +1,7 @@
 import { useState, useEffect, useMemo } from 'react'
 import { GlassPanel } from '../shared/GlassPanel'
 import { theme } from '../../theme'
+import { cachedFetch } from '../../utils/fetchCache'
 
 interface Situation {
   id: string
@@ -72,9 +73,8 @@ export function SituationsList({ brandId, kbGenPath }: SituationsListProps) {
   const [expandedId, setExpandedId] = useState<string | null>(null)
 
   useEffect(() => {
-    fetch(`${import.meta.env.BASE_URL}data/situations-universal.json`)
-      .then(r => r.json())
-      .then((data: Situation[]) => { setSituations(data); setLoading(false) })
+    cachedFetch<Situation[]>(`${import.meta.env.BASE_URL}data/situations-universal.json`)
+      .then((data) => { setSituations(data); setLoading(false) })
       .catch(() => setLoading(false))
   }, [])
 

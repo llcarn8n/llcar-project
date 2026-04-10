@@ -85,14 +85,14 @@ export function Dashboard() {
             <svg viewBox="0 0 100 100" style={{ width: '100%', height: '100%', transform: 'rotate(-90deg)' }}>
               <circle cx="50" cy="50" r="42" fill="none" stroke="rgba(255,255,255,0.05)" strokeWidth="4" />
               <circle cx="50" cy="50" r="42" fill="none"
-                stroke={isOffline ? 'rgba(255,255,255,0.15)' : status === 'ok' ? '#00E676' : status === 'warning' ? '#FFAB00' : '#FF1744'}
+                stroke={isOffline ? 'rgba(255,255,255,0.15)' : status === 'ok' ? '#00E5FF' : status === 'warning' ? '#FFAB00' : '#FF1744'}
                 strokeWidth="4" strokeLinecap="round"
                 strokeDasharray={isOffline ? '0 264' : `${(overall >= 0 ? overall : 0) * 2.64} 264`}
-                style={{ filter: isOffline ? 'none' : `drop-shadow(0 0 6px ${status === 'ok' ? '#00E676' : status === 'warning' ? '#FFAB00' : '#FF1744'})`, transition: 'stroke-dasharray 1s ease' }}
+                style={{ filter: isOffline ? 'none' : `drop-shadow(0 0 6px ${status === 'ok' ? '#00E5FF' : status === 'warning' ? '#FFAB00' : '#FF1744'})`, transition: 'stroke-dasharray 1s ease' }}
               />
             </svg>
             <div style={{ position: 'absolute', inset: 0, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
-              <span className="stat-value" style={{ fontSize: 28, color: isOffline ? 'rgba(255,255,255,0.3)' : status === 'ok' ? '#00E676' : status === 'warning' ? '#FFAB00' : '#FF1744', textShadow: isOffline ? 'none' : '0 0 10px currentColor' }}>
+              <span className="stat-value" style={{ fontSize: 28, color: isOffline ? 'rgba(255,255,255,0.3)' : status === 'ok' ? '#00E5FF' : status === 'warning' ? '#FFAB00' : '#FF1744', textShadow: isOffline ? 'none' : '0 0 10px currentColor' }}>
                 {isOffline ? '--' : overall >= 0 ? overall : '\u2014'}
               </span>
             </div>

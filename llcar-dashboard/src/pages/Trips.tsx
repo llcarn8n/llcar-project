@@ -46,7 +46,7 @@ const endIcon = L.divIcon({
 })
 
 function vibColor(vib: number): string {
-  if (vib < 2) return '#00E676'
+  if (vib < 2) return '#00E5FF'
   if (vib < 5) return '#FFAB00'
   return '#FF1744'
 }

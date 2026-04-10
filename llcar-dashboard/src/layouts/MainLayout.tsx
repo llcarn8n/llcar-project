@@ -17,7 +17,7 @@ const tabs = [
 export function MainLayout({ children }: { children: ReactNode }) {
   const location = useLocation()
   const navigate = useNavigate()
-  const { sidebarOpen, toggleSidebar, clientHash, timeRange, isDarkMode, toggleTheme, vehicleProfile, openVehicleSetup, openConnectionWizard, resetVehicle } = useDashboardStore()
+  const { sidebarOpen, toggleSidebar, clientHash, setClient, timeRange, isDarkMode, toggleTheme, vehicleProfile, openVehicleSetup, openConnectionWizard, resetVehicle } = useDashboardStore()
 
   const { data: recentData } = useApiData<any[]>({
     endpoint: '/api/data/',
@@ -78,7 +78,7 @@ export function MainLayout({ children }: { children: ReactNode }) {
             {/* EKG pulse — UNDER logo */}
             <div className="header-pulse hidden md:block" style={{ marginTop: -4, marginLeft: 2 }}>
               <svg viewBox="0 0 320 32" className="header-pulse-svg">
-                <path className="pulse-path" style={{ '--pulse-color': '#00E676' } as React.CSSProperties}
+                <path className="pulse-path" style={{ '--pulse-color': '#00E5FF' } as React.CSSProperties}
                   d="M0,16 L20,16 L25,16 L30,4 L35,28 L40,10 L45,22 L50,16 L70,16 L80,16 L85,16 L90,4 L95,28 L100,10 L105,22 L110,16 L130,16 L140,16 L145,16 L150,4 L155,28 L160,10 L165,22 L170,16 L190,16 L200,16 L205,16 L210,4 L215,28 L220,10 L225,22 L230,16 L250,16 L260,16 L265,16 L270,4 L275,28 L280,10 L285,22 L290,16 L320,16"
                 />
               </svg>
@@ -144,19 +144,29 @@ export function MainLayout({ children }: { children: ReactNode }) {
                 {isOnline ? 'Онлайн' : 'Офлайн'}
               </span>
             </div>
-            <span
+            <select
+              value={clientHash}
+              onChange={(e) => setClient(e.target.value)}
               style={{
                 fontSize: 10,
                 fontFamily: 'monospace',
                 color: theme.accent.teal,
-                backgroundColor: 'rgba(100,255,218,0.08)',
+                backgroundColor: 'rgba(6,15,25,0.9)',
                 padding: '2px 6px',
                 borderRadius: 4,
-                letterSpacing: '0.1em',
+                letterSpacing: '0.05em',
+                border: '1px solid rgba(0,229,255,0.2)',
+                cursor: 'pointer',
+                outline: 'none',
               }}
             >
-              {clientHash.slice(0, 6)}
-            </span>
+              <option value="">Все клиенты</option>
+              <option value="b5f2f64851802f4859a3ffe3eda4b2d5">b5f2f6 (свежий)</option>
+              <option value="362f5a4a5f95127723509e28c392850f">362f5a</option>
+              <option value="1bba31ec949a958d87c46c41ef765c7e">1bba31</option>
+              <option value="5ce91d1aa578ca17f22c0c2afc009abc">5ce91d</option>
+              <option value="b79831a1b4c80fc7549998661e820bef">b79831</option>
+            </select>
           </div>
 
           <button

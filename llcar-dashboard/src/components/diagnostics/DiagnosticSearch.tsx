@@ -1,6 +1,7 @@
 import { useState, useEffect, useMemo } from 'react'
 import { GlassPanel } from '../shared/GlassPanel'
 import { theme } from '../../theme'
+import { cachedFetch } from '../../utils/fetchCache'
 
 interface SearchResult {
   type: 'dtc' | 'situation' | 'rule' | 'article'
@@ -18,9 +19,9 @@ export function DiagnosticSearch() {
   const [rules, setRules] = useState<{ articles: Array<{ id: string; title: string; qa: string }>; rules: Array<{ id: string; title: string }> } | null>(null)
 
   useEffect(() => {
-    fetch(`${import.meta.env.BASE_URL}data/dtc-search.json`).then(r => r.json()).then(setDtcData).catch(() => {})
-    fetch(`${import.meta.env.BASE_URL}data/situations-universal.json`).then(r => r.json()).then(setSituations).catch(() => {})
-    fetch(`${import.meta.env.BASE_URL}data/diagnostic-rules.json`).then(r => r.json()).then(setRules).catch(() => {})
+    cachedFetch(`${import.meta.env.BASE_URL}data/dtc-search.json`).then(setDtcData).catch(() => {})
+    cachedFetch(`${import.meta.env.BASE_URL}data/situations-universal.json`).then(setSituations).catch(() => {})
+    cachedFetch(`${import.meta.env.BASE_URL}data/diagnostic-rules.json`).then(setRules).catch(() => {})
   }, [])
 
   const results = useMemo<SearchResult[]>(() => {
