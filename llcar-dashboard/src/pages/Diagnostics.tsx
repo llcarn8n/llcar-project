@@ -154,6 +154,21 @@ export function Diagnostics() {
     return { suspension: first.suspension_score, engine: first.engine_score, electrical: first.electrical_score, audio: first.audio_score }
   }, [v2History])
 
+  const degradationRates = useMemo(() => {
+    if (!v2History || v2History.length < 2) return {} as Record<string, number>
+    const first = v2History[0]
+    const last = v2History[v2History.length - 1]
+    const msSpan = new Date(last.time).getTime() - new Date(first.time).getTime()
+    const days = msSpan / (1000 * 60 * 60 * 24)
+    if (days < 0.01) return {} as Record<string, number>
+    return {
+      suspension: (last.suspension_score - first.suspension_score) / days,
+      engine: (last.engine_score - first.engine_score) / days,
+      electrical: (last.electrical_score - first.electrical_score) / days,
+      audio: (last.audio_score - first.audio_score) / days,
+    }
+  }, [v2History])
+
   // Systems map for 3D hotspots
   const systemsMap = useMemo(() => {
     const getScore = (key: string) => {
@@ -237,6 +252,7 @@ export function Diagnostics() {
                   oldScore={oldScores?.[sys.key]}
                   trend={trend}
                   onClick={() => handleHotspotClick(sys.key)}
+                  degradationRate={degradationRates[sys.key]}
                 />
               </div>
             )

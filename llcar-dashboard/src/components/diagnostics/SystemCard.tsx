@@ -9,6 +9,7 @@ interface SystemCardProps {
   trend?: string  // ↑ ↓ →
   compact?: boolean
   onClick?: () => void
+  degradationRate?: number
 }
 
 function scoreColor(s: number): string {
@@ -17,7 +18,7 @@ function scoreColor(s: number): string {
   return theme.status.critical
 }
 
-export function SystemCard({ name, icon, score, sparkline, oldScore, trend, compact, onClick }: SystemCardProps) {
+export function SystemCard({ name, icon, score, sparkline, oldScore, trend, compact, onClick, degradationRate }: SystemCardProps) {
   const color = scoreColor(score)
   const diff = oldScore != null ? score - oldScore : null
   const maxSpark = Math.max(...sparkline, 1)
@@ -61,8 +62,30 @@ export function SystemCard({ name, icon, score, sparkline, oldScore, trend, comp
             {score}
           </div>
           {trendArrow && (
-            <div style={{ fontSize: 9, color: trendColor, fontFamily: "'Rajdhani', sans-serif" }}>
+            <div style={{ fontSize: 9, color: trendColor, fontFamily: "'Rajdhani', sans-serif", display: 'flex', alignItems: 'center', justifyContent: 'flex-end' }}>
               {trendArrow} {diff != null && oldScore != null ? `${diff > 0 ? '+' : ''}${diff}` : ''}
+              {degradationRate != null && Math.abs(degradationRate) > 0.1 && (
+                <span style={{
+                  fontSize: 9,
+                  fontFamily: "'Share Tech Mono', monospace",
+                  color: degradationRate < -0.5 ? '#ff1744' : degradationRate > 0.5 ? '#00e676' : 'rgba(255,255,255,0.35)',
+                  marginLeft: 2,
+                }}>
+                  {degradationRate > 0 ? '+' : ''}{degradationRate.toFixed(1)}/д
+                </span>
+              )}
+              {degradationRate != null && (
+                <span style={{ display: 'inline-flex', gap: 1, marginLeft: 3 }}>
+                  {[0, 1, 2].map(i => {
+                    const absRate = Math.abs(degradationRate)
+                    const active = absRate > i * 1.5
+                    const dotColor = degradationRate < 0
+                      ? (active ? '#ff1744' : 'rgba(255,23,68,0.15)')
+                      : (active ? '#00e676' : 'rgba(0,230,118,0.15)')
+                    return <span key={i} style={{ width: 3, height: 3, borderRadius: '50%', background: dotColor }} />
+                  })}
+                </span>
+              )}
             </div>
           )}
         </div>
