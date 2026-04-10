@@ -206,30 +206,6 @@ export function Diagnostics() {
         </div>
       )}
 
-      {/* ═══ TIME PERIOD PILLS ═══ */}
-      <div style={{ display: 'flex', justifyContent: 'center', gap: 4, margin: '8px 0' }}>
-        {TIME_PILLS.map(p => (
-          <button
-            key={p.val}
-            onClick={() => setTimeRange(p.val)}
-            style={{
-              fontFamily: "'Orbitron', sans-serif",
-              fontSize: 10,
-              padding: '4px 12px',
-              borderRadius: 4,
-              border: timeRange === p.val ? '1px solid rgba(0,229,255,0.4)' : '1px solid rgba(255,255,255,0.1)',
-              background: timeRange === p.val ? 'rgba(0,229,255,0.15)' : 'rgba(255,255,255,0.04)',
-              color: timeRange === p.val ? '#00e5ff' : 'rgba(255,255,255,0.5)',
-              cursor: 'pointer',
-              transition: 'all 0.2s',
-              letterSpacing: '0.05em',
-            }}
-          >
-            {p.label}
-          </button>
-        ))}
-      </div>
-
       {/* ═══ FULL-WIDTH 3D VIEWPORT ═══ */}
       <div className="diag-viewport-full">
         {/* Left overlay: Health Score + System Cards */}
@@ -367,10 +343,32 @@ export function Diagnostics() {
           zIndex: 25, pointerEvents: 'auto', display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 2,
         }}>
           <SystemTabBar active={activeSystem} onChange={setActiveSystem} />
-          {/* Date range under tabs */}
+          {/* Period pills + date range under tabs */}
+          <div style={{ display: 'flex', gap: 4, marginTop: 4 }}>
+            {TIME_PILLS.map(p => (
+              <button
+                key={p.val}
+                onClick={() => setTimeRange(p.val)}
+                style={{
+                  fontFamily: "'Orbitron', sans-serif",
+                  fontSize: 9,
+                  padding: '2px 10px',
+                  borderRadius: 4,
+                  border: timeRange === p.val ? '1px solid rgba(0,229,255,0.4)' : '1px solid rgba(255,255,255,0.1)',
+                  background: timeRange === p.val ? 'rgba(0,229,255,0.15)' : 'rgba(255,255,255,0.04)',
+                  color: timeRange === p.val ? '#00e5ff' : 'rgba(255,255,255,0.5)',
+                  cursor: 'pointer',
+                  transition: 'all 0.2s',
+                  letterSpacing: '0.05em',
+                }}
+              >
+                {p.label}
+              </button>
+            ))}
+          </div>
           <div style={{
             fontSize: 9, fontFamily: "'Share Tech Mono', monospace",
-            color: 'rgba(255,255,255,0.35)', letterSpacing: '0.05em',
+            color: 'rgba(255,255,255,0.3)', letterSpacing: '0.05em', marginTop: 2,
           }}>
             {(() => {
               const now = new Date()
