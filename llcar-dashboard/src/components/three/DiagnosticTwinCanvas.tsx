@@ -219,11 +219,8 @@ function CarBouncer({ activeSystem, groupRef }: {
         for (const obj of wRefs[corner]) {
           const oy = origY.current.get(obj) ?? obj.position.y
           obj.position.y = oy + wheelY
-          // Spin wheels around X axis (rolling forward)
-          const name = obj.name?.toLowerCase() ?? ''
-          if (name.includes('шина') || name.includes('колесо') || name.includes('тормоз')) {
-            obj.rotation.x = wheelRotation.current
-          }
+          // Spin all wheel assembly meshes (tire + rim + brake)
+          obj.rotation.x = wheelRotation.current
         }
       }
     }
