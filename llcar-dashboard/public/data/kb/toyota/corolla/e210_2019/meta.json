@@ -1,0 +1,20 @@
+{
+  "generation_id": "toyota_corolla_e210_2019",
+  "generation_name": "Corolla XII (E210)",
+  "year_start": 2019,
+  "year_end": 2025,
+  "body_type": "sedan/hatchback",
+  "market": "import + parallel_import",
+  "production": "Турция / Япония",
+  "facelift": 2023,
+  "platform": "TNGA-C",
+  "engines": [
+    { "code": "1ZR-FE", "volume": "1.6L", "type": "Valvematic", "fuel": "petrol", "power_hp": 122 },
+    { "code": "M20A-FKS", "volume": "2.0L", "type": "Dynamic Force", "fuel": "petrol", "power_hp": 169 },
+    { "code": "2ZR-FXE", "volume": "1.8L", "type": "Hybrid", "fuel": "hybrid", "power_hp": 140 }
+  ],
+  "transmissions": ["CVT (1.6)", "CVT (2.0)", "eCVT (hybrid)"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "high",
+  "notes": "Двенадцатое поколение TNGA-C. Импорт из Турции. Рестайлинг 2023."
+}

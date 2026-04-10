@@ -1,0 +1,18 @@
+{
+  "generation_id": "toyota_land_cruiser_j300_2021",
+  "generation_name": "Land Cruiser 300 (J300)",
+  "year_start": 2021,
+  "year_end": 2026,
+  "body_type": "suv",
+  "market": "parallel_import",
+  "production": "Япония",
+  "platform": "TNGA-F",
+  "engines": [
+    { "code": "V35A-FTS", "volume": "3.5L", "type": "V6 Twin-Turbo", "fuel": "petrol", "power_hp": 415 },
+    { "code": "F33A-FTV", "volume": "3.3L", "type": "V6 Twin-Turbo Diesel", "fuel": "diesel", "power_hp": 309 }
+  ],
+  "transmissions": ["АКПП-10"],
+  "drivetrains": ["AWD (full-time, center diff lock)"],
+  "popularity_ru": "high",
+  "notes": "300-я серия. TNGA-F. Параллельный импорт с наценкой. V6 twin-turbo вместо V8. 10-ступенчатый автомат."
+}

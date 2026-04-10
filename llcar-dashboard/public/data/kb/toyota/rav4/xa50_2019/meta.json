@@ -1,0 +1,19 @@
+{
+  "generation_id": "toyota_rav4_xa50_2019",
+  "generation_name": "RAV4 V (XA50)",
+  "year_start": 2019,
+  "year_end": 2025,
+  "body_type": "suv",
+  "market": "import + parallel_import",
+  "production": "Япония / Канада",
+  "facelift": 2022,
+  "platform": "TNGA-K",
+  "engines": [
+    { "code": "A25A-FKS", "volume": "2.0L", "type": "Dynamic Force", "fuel": "petrol", "power_hp": 149 },
+    { "code": "A25A-FXS", "volume": "2.5L", "type": "Dynamic Force Hybrid", "fuel": "hybrid", "power_hp": 222 }
+  ],
+  "transmissions": ["CVT (2.0)", "eCVT (hybrid)"],
+  "drivetrains": ["FWD", "AWD"],
+  "popularity_ru": "high",
+  "notes": "Пятое поколение TNGA-K. Импорт (не собирался в РФ). Гибрид — один из самых экономичных кроссоверов."
+}

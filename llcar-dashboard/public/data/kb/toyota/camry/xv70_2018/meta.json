@@ -1,0 +1,20 @@
+{
+  "generation_id": "toyota_camry_xv70_2018",
+  "generation_name": "Camry VIII (XV70)",
+  "year_start": 2018,
+  "year_end": 2025,
+  "body_type": "sedan",
+  "market": "local_production + parallel_import",
+  "production": "Toyota Motor Manufacturing Russia, Шушары СПб (2018-2022), затем параллельный импорт",
+  "facelift": 2021,
+  "platform": "TNGA-K",
+  "engines": [
+    { "code": "6AR-FSE", "volume": "2.0L", "type": "D-4S", "fuel": "petrol", "power_hp": 150 },
+    { "code": "A25A-FKS", "volume": "2.5L", "type": "Dynamic Force", "fuel": "petrol", "power_hp": 200 },
+    { "code": "2GR-FKS", "volume": "3.5L", "type": "V6 D-4S", "fuel": "petrol", "power_hp": 249 }
+  ],
+  "transmissions": ["CVT (2.0)", "АКПП-8 (2.5/3.5)"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "very_high",
+  "notes": "Восьмое поколение на TNGA. Завод Toyota Шушары 2018-2022. Рестайлинг 2021. Самый продаваемый бизнес-седан в РФ."
+}
