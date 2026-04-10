@@ -258,7 +258,7 @@ function SceneContent({
       <CarBouncer activeSystem={activeSystem} groupRef={carGroupRef} />
       <AccelWaves
         accelData={accelData ?? null}
-        visible={activeSystem === 'suspension' || activeSystem === null}
+        visible={true}
         onBounce={handleBounce}
       />
       <AudioZones3D audioData={audioData} />
