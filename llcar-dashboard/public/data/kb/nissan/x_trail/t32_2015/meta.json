@@ -1,0 +1,19 @@
+{
+  "generation_id": "nissan_x_trail_t32_2015",
+  "generation_name": "X-Trail III (T32)",
+  "year_start": 2015,
+  "year_end": 2022,
+  "body_type": "suv",
+  "market": "local_production",
+  "production": "Nissan Manufacturing Russia, Санкт-Петербург",
+  "facelift": 2019,
+  "platform": "CMF-C (Renault-Nissan Alliance)",
+  "engines": [
+    { "code": "MR20DD", "volume": "2.0L", "type": "MPI/GDI", "fuel": "petrol", "power_hp": 144 },
+    { "code": "QR25DE", "volume": "2.5L", "type": "MPI", "fuel": "petrol", "power_hp": 171 }
+  ],
+  "transmissions": ["МКПП-6 (2.0)", "CVT Jatco JF016E"],
+  "drivetrains": ["FWD", "AWD"],
+  "popularity_ru": "very_high",
+  "notes": "Третье поколение CMF-C. Завод Nissan СПб. CVT Jatco JF016E. 7 мест опционально. Рестайлинг 2019."
+}

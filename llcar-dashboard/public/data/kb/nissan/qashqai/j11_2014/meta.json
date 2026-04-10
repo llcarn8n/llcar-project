@@ -1,0 +1,19 @@
+{
+  "generation_id": "nissan_qashqai_j11_2014",
+  "generation_name": "Qashqai II (J11)",
+  "year_start": 2014,
+  "year_end": 2022,
+  "body_type": "suv",
+  "market": "local_production",
+  "production": "Nissan Manufacturing Russia, Санкт-Петербург",
+  "facelift": 2017,
+  "platform": "CMF-C (Renault-Nissan Alliance)",
+  "engines": [
+    { "code": "MR20DD", "volume": "2.0L", "type": "MPI/GDI", "fuel": "petrol", "power_hp": 144 },
+    { "code": "HR12DDT", "volume": "1.2L", "type": "DIG-T Turbo", "fuel": "petrol", "power_hp": 115 }
+  ],
+  "transmissions": ["МКПП-6", "CVT Jatco JF015E"],
+  "drivetrains": ["FWD", "AWD"],
+  "popularity_ru": "high",
+  "notes": "Второе поколение CMF-C. Завод Nissan СПб. CVT Jatco — основная КПП. Рестайлинг 2017."
+}
