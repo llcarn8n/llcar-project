@@ -1,0 +1,18 @@
+{
+  "generation_id": "vw_tiguan_nf_2021",
+  "generation_name": "Tiguan III (NF/BW2)",
+  "year_start": 2024,
+  "year_end": 2026,
+  "body_type": "suv",
+  "market": "parallel_import",
+  "production": "Германия / Мексика",
+  "platform": "MQB Evo",
+  "engines": [
+    { "code": "DKTA", "volume": "1.5L", "type": "TSI Evo Turbo", "fuel": "petrol", "power_hp": 150 },
+    { "code": "DNUA", "volume": "2.0L", "type": "TSI Turbo", "fuel": "petrol", "power_hp": 204 }
+  ],
+  "transmissions": ["DSG-7 DQ381"],
+  "drivetrains": ["FWD", "AWD (4MOTION)"],
+  "popularity_ru": "medium",
+  "notes": "Третье поколение MQB Evo. Параллельный импорт. 1.5 TSI Evo с Miller cycle."
+}

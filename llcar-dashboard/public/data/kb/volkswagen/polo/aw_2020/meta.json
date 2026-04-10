@@ -1,0 +1,19 @@
+{
+  "generation_id": "vw_polo_aw_2020",
+  "generation_name": "Polo Liftback (AW)",
+  "year_start": 2020,
+  "year_end": 2023,
+  "body_type": "liftback",
+  "market": "local_production",
+  "production": "VW Group Rus, Калуга",
+  "facelift": 2022,
+  "platform": "MQB-A0",
+  "engines": [
+    { "code": "CWVA", "volume": "1.6L", "type": "MPI", "fuel": "petrol", "power_hp": 90 },
+    { "code": "CWVB", "volume": "1.6L", "type": "MPI", "fuel": "petrol", "power_hp": 110 }
+  ],
+  "transmissions": ["МКПП-5", "АКПП-6 (Aisin)"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "very_high",
+  "notes": "Лифтбек на MQB-A0, завод Калуга. Тот же двигатель CWVA/CWVB что на Skoda Rapid. Рестайлинг 2022."
+}
