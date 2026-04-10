@@ -1033,17 +1033,10 @@ header {
     overflow: visible;
   }
 
-  /* Hide left/right overlays on mobile — data shown below */
-  .diag-overlay-left {
-    display: none;
-  }
-
+  /* Hide both overlays on mobile — data shown below in content */
+  .diag-overlay-left,
   .diag-overlay-right {
-    position: relative;
-    width: 100%;
-    max-height: none;
-    top: auto;
-    right: auto;
+    display: none !important;
   }
 
   /* Canvas fills viewport */
