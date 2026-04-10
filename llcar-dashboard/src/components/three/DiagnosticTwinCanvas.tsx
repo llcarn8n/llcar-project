@@ -261,9 +261,7 @@ function SceneContent({
         visible={activeSystem === 'suspension' || activeSystem === null}
         onBounce={handleBounce}
       />
-      {(activeSystem === 'audio' || activeSystem === null) && (
-        <AudioZones3D audioData={audioData} />
-      )}
+      <AudioZones3D audioData={audioData} />
       {HOTSPOTS.map(hs => {
         const sys = systems[hs.key as keyof typeof systems]
         return (
