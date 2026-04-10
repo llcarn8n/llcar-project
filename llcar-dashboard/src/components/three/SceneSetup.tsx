@@ -1,7 +1,6 @@
 import { useRef, useMemo } from 'react'
 import { useFrame } from '@react-three/fiber'
 import { OrbitControls } from '@react-three/drei'
-import { EffectComposer, Bloom, N8AO } from '@react-three/postprocessing'
 import * as THREE from 'three'
 
 function ParticleField() {
@@ -33,7 +32,7 @@ function ParticleField() {
       <bufferGeometry>
         <bufferAttribute attach="attributes-position" args={[positions, 3]} />
       </bufferGeometry>
-      <pointsMaterial size={0.05} color="#00E5FF" transparent opacity={0.85} sizeAttenuation blending={THREE.AdditiveBlending} depthWrite={false} />
+      <pointsMaterial size={0.05} color="#22d3ee" transparent opacity={0.5} sizeAttenuation blending={THREE.AdditiveBlending} depthWrite={false} />
     </points>
   )
 }
@@ -43,9 +42,10 @@ const gridFadeMaterial = new THREE.ShaderMaterial({
   wireframe: true,
   depthWrite: false,
   uniforms: {
-    uColor: { value: new THREE.Color('#00E5FF') },
-    uMaxOpacity: { value: 0.12 },
+    uColor: { value: new THREE.Color('#1e6091') },
+    uMaxOpacity: { value: 0.08 },
     uFadeRadius: { value: 12.0 },
+    uClearRadius: { value: 3.0 },
   },
   vertexShader: /* glsl */ `
     varying vec2 vUv;
@@ -61,19 +61,30 @@ const gridFadeMaterial = new THREE.ShaderMaterial({
     uniform vec3 uColor;
     uniform float uMaxOpacity;
     uniform float uFadeRadius;
+    uniform float uClearRadius;
     varying vec3 vWorldPos;
     void main() {
       float dist = length(vWorldPos.xz);
       float fade = 1.0 - smoothstep(0.0, uFadeRadius, dist);
-      gl_FragColor = vec4(uColor, uMaxOpacity * fade * fade);
+      float clear = smoothstep(0.0, uClearRadius, dist);
+      gl_FragColor = vec4(uColor, uMaxOpacity * fade * fade * clear);
     }
   `,
 })
 
 function HoloGrid() {
   return (
-    <mesh rotation={[-Math.PI / 2, 0, 0]} position={[0, -1.2, 0]} material={gridFadeMaterial}>
+    <mesh rotation={[-Math.PI / 2, 0, 0]} position={[0, -1.5, 0]} material={gridFadeMaterial}>
       <planeGeometry args={[30, 30, 30, 30]} />
+    </mesh>
+  )
+}
+
+function GroundPlane() {
+  return (
+    <mesh rotation={[-Math.PI / 2, 0, 0]} position={[0, -0.52, 0]} receiveShadow>
+      <circleGeometry args={[6, 64]} />
+      <meshStandardMaterial color={0x060b14} roughness={0.9} metalness={0.1} transparent opacity={0.35} />
     </mesh>
   )
 }
@@ -81,38 +92,29 @@ function HoloGrid() {
 export function SceneSetup() {
   return (
     <>
-      {/* Exponential fog for depth fade */}
-      <fogExp2 attach="fog" args={['#050A0F', 0.08]} />
+      <fog attach="fog" args={['#060b14', 15, 35]} />
 
-      <ambientLight intensity={0.3} />
-      <directionalLight position={[5, 5, 5]} intensity={0.6} />
-      <pointLight position={[-3, 2, -3]} color="#00E5FF" intensity={0.4} />
+      <ambientLight intensity={0.4} />
+      <hemisphereLight args={['#cce0ff', '#060b14', 0.3]} />
+      <directionalLight position={[5, 8, 5]} intensity={0.8} />
+      <directionalLight position={[-4, 3, -4]} intensity={0.25} />
+      <pointLight position={[0, -1, -4]} color="#22d3ee" intensity={0.3} />
+      <pointLight position={[0, 5, 0]} color="#22d3ee" intensity={0.1} />
       <ParticleField />
       <HoloGrid />
+      <GroundPlane />
       <OrbitControls
         enablePan={false}
         enableZoom={true}
-        autoRotate={false}
-        minDistance={3}
-        maxDistance={8}
+        autoRotate={true}
+        autoRotateSpeed={0.8}
+        enableDamping
+        dampingFactor={0.05}
+        minDistance={2}
+        maxDistance={12}
         maxPolarAngle={Math.PI / 2 + 0.3}
+        target={[0, 0.5, 0]}
       />
-      <EffectComposer>
-        <Bloom
-          intensity={0.8}
-          luminanceThreshold={0.2}
-          luminanceSmoothing={0.9}
-          mipmapBlur
-        />
-        <N8AO
-          aoRadius={0.5}
-          intensity={0.5}
-          quality="performance"
-          halfRes
-          color="#050A0F"
-          distanceFalloff={1.0}
-        />
-      </EffectComposer>
     </>
   )
 }

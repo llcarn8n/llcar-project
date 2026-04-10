@@ -33,7 +33,7 @@ const MAX_TIME_DIFF_MS = 3000 // 3 seconds pairing window
 const REGIMES = [
   { name: 'Холостой',   min: 0,    max: 900,   color: '#00E5FF' },
   { name: 'Город',      min: 900,  max: 2000,  color: '#7C4DFF' },
-  { name: 'Трасса',     min: 2000, max: 3500,  color: '#00E676' },
+  { name: 'Трасса',     min: 2000, max: 3500,  color: '#00E5FF' },
   { name: 'Разгон',     min: 3500, max: 8000,  color: '#FFAB00' },
 ] as const
 

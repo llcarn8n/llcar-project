@@ -211,28 +211,34 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
           const d = p.data
           const idx = Math.round(d[4] || 0)
           const timeStr = idx >= 0 && idx < times.length ? times[idx] : '--'
-          return `<span style="color:#00D4AA;font-weight:600;">Время: ${timeStr}</span><br>`
+          return `<span style="color:#00E5FF;font-weight:600;">Время: ${timeStr}</span><br>`
             + `X бок: <b>${d[0]?.toFixed(2) ?? '--'}</b> m/s²<br>`
             + `Y прод: <b>${d[1]?.toFixed(2) ?? '--'}</b> m/s²<br>`
             + `Z верт: <b>${d[2]?.toFixed(2) ?? '--'}</b> m/s²<br>`
             + `Общая: <b style="color:${d[3] > 5 ? '#ef4444' : d[3] > 2 ? '#f59e0b' : '#4ade80'}">${d[3]?.toFixed(2) ?? '--'}</b> m/s²`
         },
       },
-      visualMap: {
-        show: true,
-        dimension: 3,
-        min: 0,
-        max: Math.max(...trajectoryData.map(d => d[3]), 1),
-        inRange: {
-          color: ['#00D4AA', '#22d3ee', '#4ade80', '#f59e0b', '#ef4444'],
-        },
-        textStyle: { color: 'rgba(255,255,255,0.5)', fontFamily: "'Share Tech Mono', monospace", fontSize: 9 },
-        right: 10,
-        top: 10,
-        text: ['\u26A0 Тряска', '\u2713 Норма'],
-        itemWidth: 8,
-        itemHeight: 100,
-      },
+      visualMap: (() => {
+        const vibs = trajectoryData.map(d => d[3]).sort((a, b) => a - b)
+        const p5 = vibs[Math.floor(vibs.length * 0.05)] ?? 0
+        const p95 = vibs[Math.floor(vibs.length * 0.95)] ?? 1
+        const range = p95 - p5
+        return {
+          show: true,
+          dimension: 3,
+          min: Math.max(0, p5 - range * 0.1),
+          max: (p95 + range * 0.1) || 1,
+          inRange: {
+            color: ['#00E5FF', '#22d3ee', '#4ade80', '#f59e0b', '#ef4444'],
+          },
+          textStyle: { color: 'rgba(255,255,255,0.5)', fontFamily: "'Share Tech Mono', monospace", fontSize: 9 },
+          right: 10,
+          top: 10,
+          text: ['\u26A0 Тряска', '\u2713 Норма'],
+          itemWidth: 8,
+          itemHeight: 100,
+        }
+      })(),
       grid3D: {
         boxWidth: 100,
         boxHeight: 100,

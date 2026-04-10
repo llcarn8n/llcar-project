@@ -203,8 +203,9 @@ export function AudioSpectrum({ data, compact = false }: AudioSpectrumProps) {
         color: theme.text.secondary,
         fontFamily: "'Share Tech Mono', monospace",
         fontSize: 9,
-        interval: Math.max(0, Math.floor(data.length / 8) - 1),
-        rotate: data.length > 30 ? 30 : 0,
+        interval: Math.max(0, Math.floor(data.length / 6) - 1),
+        rotate: data.length > 20 ? 45 : 0,
+        hideOverlap: true,
       },
     },
     yAxis: {

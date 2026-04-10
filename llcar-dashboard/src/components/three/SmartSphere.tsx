@@ -6,8 +6,8 @@ import { theme } from '../../theme'
 
 export interface AccelSample { x_std: number; y_std: number; z_std: number; ts: string }
 
-const C_OK = '#00E676', C_WARN = '#FFAB00', C_CRIT = '#FF1744'
-const SCALE = 0.25
+const C_OK = '#00E5FF', C_WARN = '#FFAB00', C_CRIT = '#FF1744'
+const SCALE = 0.4
 const ZONE_OK = 2, ZONE_WARN = 5
 
 function getStatus(t: number, x: number, y: number, z: number) {
@@ -40,7 +40,6 @@ function AxisChart({ data, dataKey, axis, color }: {
   // Chart extends along the axis direction, amplitude perpendicular
   // Length of chart along axis = 5 units, amplitude = scaled value
   const chartLen = 5
-  const ampScale = 0.15 // amplitude perpendicular to axis
 
   // Build line points + corridor (min/max envelope)
   const { linePoints, corridorTop, corridorBot, zoneLine2, zoneLine5 } = useMemo(() => {
@@ -71,12 +70,13 @@ function AxisChart({ data, dataKey, axis, color }: {
         z2.push(new THREE.Vector3(0, ZONE_OK * SCALE, t))
         z5.push(new THREE.Vector3(0, ZONE_WARN * SCALE, t))
       } else {
-        // Along Y (up), amplitude on X
-        lp.push(new THREE.Vector3(v * ampScale * 3, t, 0))
-        ct.push(new THREE.Vector3(mx * ampScale * 3, t, 0))
-        cb.push(new THREE.Vector3(mn * ampScale * 3, t, 0))
-        z2.push(new THREE.Vector3(ZONE_OK * SCALE * ampScale * 3, t, 0))
-        z5.push(new THREE.Vector3(ZONE_WARN * SCALE * ampScale * 3, t, 0))
+        // Z axis: along diagonal (-X, 0, -Z) from origin, amplitude on Y
+        const diag = t * 0.707 // 1/sqrt(2) for 45° diagonal
+        lp.push(new THREE.Vector3(-diag, v, -diag))
+        ct.push(new THREE.Vector3(-diag, mx, -diag))
+        cb.push(new THREE.Vector3(-diag, mn, -diag))
+        z2.push(new THREE.Vector3(-diag, ZONE_OK * SCALE, -diag))
+        z5.push(new THREE.Vector3(-diag, ZONE_WARN * SCALE, -diag))
       }
     }
     return { linePoints: lp, corridorTop: ct, corridorBot: cb, zoneLine2: z2, zoneLine5: z5 }
@@ -127,10 +127,10 @@ function AxisChart({ data, dataKey, axis, color }: {
       <primitive object={z2Line} />
       <primitive object={z5Line} />
       {/* Min/Max labels at end */}
-      <Html position={axis === 'x' ? [chartLen+0.3, maxVal*SCALE, 0] : axis === 'y' ? [0, maxVal*SCALE, chartLen+0.3] : [maxVal*SCALE*ampScale*3, chartLen+0.3, 0]} style={{ pointerEvents: 'none' }}>
+      <Html position={axis === 'x' ? [chartLen+0.3, maxVal*SCALE, 0] : axis === 'y' ? [0, maxVal*SCALE, chartLen+0.3] : [-(chartLen*0.707+0.3), maxVal*SCALE, -(chartLen*0.707+0.3)]} style={{ pointerEvents: 'none' }}>
         <span style={{ fontSize: 7, color: 'rgba(255,255,255,0.3)', fontFamily: 'Consolas' }}>max {maxVal.toFixed(1)}</span>
       </Html>
-      <Html position={axis === 'x' ? [chartLen+0.3, minVal*SCALE, 0] : axis === 'y' ? [0, minVal*SCALE, chartLen+0.3] : [minVal*SCALE*ampScale*3, chartLen+0.3, 0]} style={{ pointerEvents: 'none' }}>
+      <Html position={axis === 'x' ? [chartLen+0.3, minVal*SCALE, 0] : axis === 'y' ? [0, minVal*SCALE, chartLen+0.3] : [-(chartLen*0.707+0.3), minVal*SCALE, -(chartLen*0.707+0.3)]} style={{ pointerEvents: 'none' }}>
         <span style={{ fontSize: 7, color: 'rgba(255,255,255,0.3)', fontFamily: 'Consolas' }}>min {minVal.toFixed(1)}</span>
       </Html>
     </group>
@@ -153,7 +153,8 @@ function CurrentBar({ value, axis, color }: { value: number; axis: 'x'|'y'|'z'; 
   })
 
   // Position at the END of the history chart
-  const pos: [number,number,number] = axis === 'x' ? [chartLen, len/2, 0] : axis === 'y' ? [0, len/2, chartLen] : [0, chartLen + len/2, 0]
+  const zDiag = chartLen * 0.707
+  const pos: [number,number,number] = axis === 'x' ? [chartLen, len/2, 0] : axis === 'y' ? [0, len/2, chartLen] : [-zDiag, len/2, -zDiag]
 
   return (
     <group>
@@ -168,7 +169,7 @@ function CurrentBar({ value, axis, color }: { value: number; axis: 'x'|'y'|'z'; 
         </div>
       </Html>
       {/* Axis label */}
-      <Html position={[pos[0], -0.5, pos[2]]} center style={{ pointerEvents: 'none' }}>
+      <Html position={axis === 'z' ? [pos[0], -0.5, pos[2]] : [pos[0], -0.5, pos[2]]} center style={{ pointerEvents: 'none' }}>
         <span style={{ fontSize: 9, color: `${color}aa`, fontFamily: 'Consolas', whiteSpace: 'nowrap' }}>
           {axis === 'x' ? 'X Боковая' : axis === 'y' ? 'Y Продольная' : 'Z Вертикальная'}
         </span>
@@ -180,7 +181,8 @@ function CurrentBar({ value, axis, color }: { value: number; axis: 'x'|'y'|'z'; 
 // ── Axis guide line ──
 function AxisLine({ dir, color, len }: { dir: 'x'|'y'|'z'; color: string; len: number }) {
   const line = useMemo(() => {
-    const end = dir === 'x' ? new THREE.Vector3(len,0,0) : dir === 'y' ? new THREE.Vector3(0,0,len) : new THREE.Vector3(0,len,0)
+    const d = len * 0.707
+    const end = dir === 'x' ? new THREE.Vector3(len,0,0) : dir === 'y' ? new THREE.Vector3(0,0,len) : new THREE.Vector3(-d,0,-d)
     const geo = new THREE.BufferGeometry().setFromPoints([new THREE.Vector3(0,0,0), end])
     return new THREE.Line(geo, new THREE.LineBasicMaterial({ color, transparent: true, opacity: 0.15 }))
   }, [dir, color, len])
@@ -218,7 +220,7 @@ function VibrationScene({ data, latest }: { data: AccelSample[]; latest: AccelSa
       <directionalLight position={[-4, 6, 3]} intensity={0.4} color="#00E5FF" />
       <OrbitControls enableZoom={false} enablePan={false} enableDamping dampingFactor={0.1}
         autoRotate autoRotateSpeed={0.3}
-        minPolarAngle={Math.PI*0.1} maxPolarAngle={Math.PI*0.45} />
+        minPolarAngle={Math.PI*0.15} maxPolarAngle={Math.PI*0.55} />
     </>
   )
 }
@@ -239,7 +241,7 @@ export function SmartSphere({ data }: { data: AccelSample[] }) {
 
   return (
     <div className="glass-panel !p-0 overflow-hidden relative" style={{ height: 'min(420px, 55vh)' }}>
-      <Canvas camera={{ position: [12, 12, 12], fov: 35 }} style={{ background: 'transparent' }}>
+      <Canvas camera={{ position: [8, 6, 8], fov: 42 }} style={{ background: 'transparent' }}>
         <VibrationScene data={data} latest={latest} />
       </Canvas>
 
