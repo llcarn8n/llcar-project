@@ -2,6 +2,7 @@ import { useState, useEffect, useMemo } from 'react'
 import { GlassPanel } from '../shared/GlassPanel'
 import { theme } from '../../theme'
 import { cachedFetch } from '../../utils/fetchCache'
+import { PARAM_LABELS, PARAM_NORMS, zoneColor } from './paramNorms'
 
 interface Rule { id: string; title: string; conditions: string; tier: string; dtc: string[]; type: 'rule' }
 interface DiagData { articles: unknown[]; rules: Rule[] }
@@ -117,6 +118,7 @@ export function RulesList({ filterSystem }: { filterSystem?: string } = {}) {
   const [data, setData] = useState<DiagData | null>(null)
   const [expandedId, setExpandedId] = useState<string | null>(null)
   const [openSystem, setOpenSystem] = useState<string | null>(null)
+  const [hoveredRule, setHoveredRule] = useState<string | null>(null)
 
   useEffect(() => {
     cachedFetch(`${import.meta.env.BASE_URL}data/diagnostic-rules.json`)
@@ -195,7 +197,7 @@ export function RulesList({ filterSystem }: { filterSystem?: string } = {}) {
                 }}
               >
                 <span style={{
-                  fontSize: 22, width: 36, height: 36, display: 'flex', alignItems: 'center', justifyContent: 'center',
+                  fontSize: 28, width: 44, height: 44, display: 'flex', alignItems: 'center', justifyContent: 'center',
                   background: 'rgba(0,229,255,0.08)', borderRadius: 6, border: '1px solid rgba(0,229,255,0.12)',
                 }}>{icon}</span>
                 <div style={{ flex: 1 }}>
@@ -229,6 +231,8 @@ export function RulesList({ filterSystem }: { filterSystem?: string } = {}) {
                       <div
                         key={r.id}
                         onClick={() => setExpandedId(isExp ? null : r.id)}
+                        onMouseEnter={() => setHoveredRule(r.id)}
+                        onMouseLeave={() => setHoveredRule(null)}
                         style={{
                           padding: '10px 12px', borderRadius: 6, cursor: 'pointer', transition: 'all 0.25s',
                           background: isExp
@@ -236,7 +240,7 @@ export function RulesList({ filterSystem }: { filterSystem?: string } = {}) {
                             : `linear-gradient(135deg, ${tier.color}08, transparent)`,
                           border: `1px solid ${isExp ? `${tier.color}30` : `${tier.color}12`}`,
                           borderLeft: `3px solid ${tier.color}`,
-                          boxShadow: isExp ? `0 0 10px ${tier.color}15` : 'none',
+                          boxShadow: hoveredRule === r.id ? `0 0 16px ${tier.color}25` : (isExp ? `0 0 10px ${tier.color}15` : 'none'),
                         }}
                       >
                         {/* Title row */}
@@ -292,6 +296,47 @@ export function RulesList({ filterSystem }: { filterSystem?: string } = {}) {
                             }}>
                               {r.conditions}
                             </div>
+
+                            {/* Parameter Scales */}
+                            {(() => {
+                              const parsed = r.conditions.split(',')
+                                .map(s => s.trim())
+                                .map(s => {
+                                  const m = s.match(/^(\w+)\s*[><=!]+\s*([\d.]+)/)
+                                  if (!m) return null
+                                  const param = m[1]
+                                  const value = parseFloat(m[2])
+                                  if (!(param in PARAM_NORMS)) return null
+                                  return { param, value }
+                                })
+                                .filter(Boolean) as { param: string; value: number }[]
+
+                              if (parsed.length === 0) return null
+
+                              return (
+                                <div style={{ margin: '8px 0', padding: '6px 8px', background: 'rgba(0,229,255,0.03)', borderRadius: 4, border: '1px solid rgba(0,229,255,0.08)' }}>
+                                  <div style={{ fontSize: 9, color: 'rgba(255,255,255,0.4)', marginBottom: 4, fontFamily: "'Rajdhani', sans-serif", textTransform: 'uppercase', letterSpacing: '0.08em' }}>Параметры</div>
+                                  {parsed.map(({ param, value }) => {
+                                    const norm = PARAM_NORMS[param]
+                                    const label = PARAM_LABELS[param] || param
+                                    const color = zoneColor(value, norm)
+                                    const pct = Math.max(0, Math.min(100, ((value - norm.min) / (norm.max - norm.min)) * 100))
+                                    return (
+                                      <div key={param} style={{ display: 'flex', alignItems: 'center', gap: 6, marginBottom: 3 }}>
+                                        <span style={{ fontSize: 9, color: 'rgba(255,255,255,0.5)', width: 90, flexShrink: 0, fontFamily: "'Rajdhani', sans-serif" }}>{label}</span>
+                                        <div style={{ flex: 1, height: 6, background: 'rgba(255,255,255,0.06)', borderRadius: 3, position: 'relative', overflow: 'hidden' }}>
+                                          {/* Green zone */}
+                                          <div style={{ position: 'absolute', left: 0, top: 0, bottom: 0, width: '100%', background: 'linear-gradient(90deg, rgba(255,23,68,0.2) 0%, rgba(0,230,118,0.2) 20%, rgba(0,230,118,0.2) 80%, rgba(255,23,68,0.2) 100%)', borderRadius: 3 }} />
+                                          {/* Value marker */}
+                                          <div style={{ position: 'absolute', left: `${pct}%`, top: -1, width: 2, height: 8, background: color, borderRadius: 1, boxShadow: `0 0 4px ${color}` }} />
+                                        </div>
+                                        <span style={{ fontSize: 9, color, fontFamily: "'Share Tech Mono', monospace", width: 50, textAlign: 'right', flexShrink: 0 }}>{value}{norm.unit ? ` ${norm.unit}` : ''}</span>
+                                      </div>
+                                    )
+                                  })}
+                                </div>
+                              )
+                            })()}
 
                             {/* WHAT TO DO */}
                             <div style={{
