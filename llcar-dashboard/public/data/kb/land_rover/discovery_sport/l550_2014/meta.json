@@ -1,0 +1,17 @@
+{
+  "generation_id": "lr_disco_sport_l550_2014",
+  "generation_name": "Discovery Sport (L550)",
+  "year_start": 2014, "year_end": 2022,
+  "body_type": "suv", "market": "import",
+  "production": "Jaguar Land Rover, Halewood, UK",
+  "facelift": 2019, "platform": "D8/PTA (Premium Transverse Architecture)",
+  "engines": [
+    { "code": "Ingenium P", "volume": "2.0L", "type": "R4 Turbo Ingenium Petrol", "fuel": "petrol", "power_hp": 249 },
+    { "code": "Ingenium D", "volume": "2.0L", "type": "R4 Turbo Diesel Ingenium", "fuel": "diesel", "power_hp": 180 },
+    { "code": "Ingenium D240", "volume": "2.0L", "type": "R4 BiTurbo Diesel", "fuel": "diesel", "power_hp": 240 }
+  ],
+  "transmissions": ["АКПП-9 ZF 9HP"],
+  "drivetrains": ["AWD"],
+  "popularity_ru": "medium",
+  "notes": "Замена Freelander. Halewood UK. АКПП-9 ZF 9HP — проблемная на ранних. Terrain Response. 5+2 мест. LCI 2019 — обновлённый PTA, mild-hybrid 48V."
+}

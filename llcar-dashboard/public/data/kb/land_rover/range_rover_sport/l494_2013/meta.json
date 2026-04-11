@@ -1,0 +1,19 @@
+{
+  "generation_id": "lr_rr_sport_l494_2013",
+  "generation_name": "Range Rover Sport II (L494)",
+  "year_start": 2013, "year_end": 2022,
+  "body_type": "suv", "market": "import",
+  "production": "Jaguar Land Rover, Solihull, UK",
+  "facelift": 2017, "platform": "PLA (Premium Lightweight Architecture)",
+  "engines": [
+    { "code": "Si4", "volume": "2.0L", "type": "R4 Turbo Ingenium", "fuel": "petrol", "power_hp": 300 },
+    { "code": "LR-V6SC", "volume": "3.0L", "type": "V6 Supercharged", "fuel": "petrol", "power_hp": 340 },
+    { "code": "AJ133", "volume": "5.0L", "type": "V8 Supercharged", "fuel": "petrol", "power_hp": 525 },
+    { "code": "Td6/Sd4", "volume": "3.0L", "type": "V6 Turbo Diesel", "fuel": "diesel", "power_hp": 249 },
+    { "code": "Ingenium D", "volume": "2.0L", "type": "R4 Turbo Diesel Ingenium", "fuel": "diesel", "power_hp": 240 }
+  ],
+  "transmissions": ["АКПП-8 ZF 8HP"],
+  "drivetrains": ["AWD (Full-Time)"],
+  "popularity_ru": "medium",
+  "notes": "Второе поколение на PLA (алюминиевый кузов). Solihull UK. Пневмоподвеска стандарт. Terrain Response 2. LCI 2017 — Ingenium 2.0 4-цил. AJ133 V8 5.0 SC — SVR 575 л.с."
+}

@@ -1,0 +1,17 @@
+{
+  "generation_id": "volvo_xc90_lc_2015",
+  "generation_name": "XC90 II (SPA)",
+  "year_start": 2015, "year_end": 2022,
+  "body_type": "suv", "market": "import",
+  "production": "Volvo Torslanda, Швеция",
+  "facelift": 2019, "platform": "Volvo SPA",
+  "engines": [
+    { "code": "B4204T23", "volume": "2.0L", "type": "R4 Turbo (T5)", "fuel": "petrol", "power_hp": 254 },
+    { "code": "B4204T35", "volume": "2.0L", "type": "R4 Turbo+SC (T6)", "fuel": "petrol", "power_hp": 320 },
+    { "code": "D4204T23", "volume": "2.0L", "type": "R4 BiTurbo Diesel (D5)", "fuel": "diesel", "power_hp": 235 }
+  ],
+  "transmissions": ["АКПП-8 Aisin AW TG-81SC"],
+  "drivetrains": ["AWD"],
+  "popularity_ru": "medium",
+  "notes": "Флагман Volvo, первый на SPA (2015). 7-местный. AWD стандарт. T8 PHEV ограниченно в РФ. Пневмоподвеска опция. АКПП-8 Aisin. LCI 2019. Продажи прекращены 2022."
+}

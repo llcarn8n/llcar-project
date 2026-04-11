@@ -1,0 +1,18 @@
+{
+  "generation_id": "volvo_xc60_su_2017",
+  "generation_name": "XC60 II (SPA)",
+  "year_start": 2017, "year_end": 2022,
+  "body_type": "suv", "market": "import",
+  "production": "Volvo Torslanda, Швеция",
+  "facelift": 2021, "platform": "Volvo SPA (Scalable Product Architecture)",
+  "engines": [
+    { "code": "B4204T23", "volume": "2.0L", "type": "R4 Turbo (T5)", "fuel": "petrol", "power_hp": 254 },
+    { "code": "B4204T35", "volume": "2.0L", "type": "R4 Turbo+SC (T6)", "fuel": "petrol", "power_hp": 320 },
+    { "code": "D4204T14", "volume": "2.0L", "type": "R4 Turbo Diesel (D4)", "fuel": "diesel", "power_hp": 190 },
+    { "code": "D4204T23", "volume": "2.0L", "type": "R4 BiTurbo Diesel (D5)", "fuel": "diesel", "power_hp": 235 }
+  ],
+  "transmissions": ["АКПП-8 Aisin AW TG-81SC"],
+  "drivetrains": ["FWD", "AWD"],
+  "popularity_ru": "high",
+  "notes": "Второе поколение на SPA. Torslanda Швеция. Все моторы 2.0 R4. T6 — турбо+компрессор. T8 — PHEV (не для РФ основная). АКПП-8 Aisin. City Safety стандарт. LCI 2021."
+}
