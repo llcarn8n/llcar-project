@@ -1,0 +1,18 @@
+{
+  "generation_id": "mitsubishi_lancer_cy_2007",
+  "generation_name": "Lancer X (CY)",
+  "year_start": 2007, "year_end": 2017,
+  "body_type": "sedan", "market": "import",
+  "production": "Mitsubishi Mizushima, Япония",
+  "facelift": 2012, "platform": "Mitsubishi GS",
+  "engines": [
+    { "code": "4A91", "volume": "1.5L", "type": "R4 MIVEC", "fuel": "petrol", "power_hp": 109 },
+    { "code": "4A92", "volume": "1.6L", "type": "R4 MIVEC", "fuel": "petrol", "power_hp": 117 },
+    { "code": "4B10", "volume": "1.8L", "type": "R4 MIVEC", "fuel": "petrol", "power_hp": 143 },
+    { "code": "4B11", "volume": "2.0L", "type": "R4 MIVEC", "fuel": "petrol", "power_hp": 150 }
+  ],
+  "transmissions": ["МКПП-5", "CVT Jatco JF011E"],
+  "drivetrains": ["FWD", "AWD (S-AWC на EVO)"],
+  "popularity_ru": "very_high",
+  "notes": "Десятое поколение — культовый. Mizushima. 4B11 2.0 + CVT — основной. EVO X — 4B11T 295 л.с. + SST DCT + S-AWC. CVT JF011E — перегрев. LCI 2012. Снят 2017."
+}

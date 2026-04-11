@@ -1,0 +1,16 @@
+{
+  "generation_id": "toyota_corolla_e180_2013",
+  "generation_name": "Corolla XI (E180)",
+  "year_start": 2013, "year_end": 2019,
+  "body_type": "sedan", "market": "import",
+  "production": "Toyota Takaoka/Tsutsumi, Япония",
+  "facelift": 2016, "platform": "Toyota New MC",
+  "engines": [
+    { "code": "1ZR-FE", "volume": "1.6L", "type": "R4 Valvematic", "fuel": "petrol", "power_hp": 122 },
+    { "code": "2ZR-FE", "volume": "1.8L", "type": "R4 Valvematic", "fuel": "petrol", "power_hp": 140 }
+  ],
+  "transmissions": ["МКПП-6", "CVT Aisin K313 (1.6)", "CVT Aisin K311 (1.8)"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "high",
+  "notes": "Одиннадцатое поколение. 1ZR-FE 1.6 + CVT — основной для РФ. 2ZR-FE 1.8 — мощнее. CVT Aisin. Предшественник E210 (TNGA). LCI 2016."
+}
