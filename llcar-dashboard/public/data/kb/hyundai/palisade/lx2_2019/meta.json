@@ -1,0 +1,36 @@
+{
+  "generation_id": "hyundai_palisade_lx2_2019",
+  "generation_name": "Palisade (LX2)",
+  "year_start": 2019,
+  "year_end": 2022,
+  "body_type": "suv",
+  "market": "import",
+  "production": "Hyundai Ulsan",
+  "facelift": null,
+  "platform": "Hyundai-Kia N3",
+  "engines": [
+    {
+      "code": "D4HB",
+      "volume": "2.2L",
+      "type": "R4 CRDi Diesel",
+      "fuel": "diesel",
+      "power_hp": 200
+    },
+    {
+      "code": "G6DB",
+      "volume": "3.5L",
+      "type": "V6 Lambda GDI",
+      "fuel": "petrol",
+      "power_hp": 249
+    }
+  ],
+  "transmissions": [
+    "АКПП-8"
+  ],
+  "drivetrains": [
+    "FWD",
+    "HTRAC AWD"
+  ],
+  "popularity_ru": "medium",
+  "notes": "8-местный. Ulsan. D4HB дизель основной. Продажи прекращены 2022."
+}

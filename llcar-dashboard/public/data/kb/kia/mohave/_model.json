@@ -1,0 +1,23 @@
+{
+  "model_id": "mohave",
+  "model_name": "Mohave",
+  "brand_id": "kia",
+  "body_type": "suv",
+  "status": "parallel_import",
+  "powertrain": "ice",
+  "generations_count": 1,
+  "description_ru": "Kia Mohave — единственный рамный Kia. Дизель 3.0 V6 CRDi, АКПП-8, Full-Time AWD + понижайка.",
+  "character": "Рамный внедорожник.",
+  "pros": [
+    "Рамная конструкция",
+    "AWD + понижайка",
+    "Дизель V6"
+  ],
+  "cons": [
+    "Расход",
+    "Дорогое ТО",
+    "Нет бензина"
+  ],
+  "target_audience": "Любители бездорожья.",
+  "total_reviews": 30
+}

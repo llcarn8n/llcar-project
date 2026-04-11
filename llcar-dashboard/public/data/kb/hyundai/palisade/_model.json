@@ -1,0 +1,23 @@
+{
+  "model_id": "palisade",
+  "model_name": "Palisade",
+  "brand_id": "hyundai",
+  "body_type": "suv",
+  "status": "parallel_import",
+  "powertrain": "ice",
+  "generations_count": 1,
+  "description_ru": "Hyundai Palisade — 8-местный флагман. Дизель 2.2 CRDi и бензин 3.5 V6.",
+  "character": "8-местный флагман.",
+  "pros": [
+    "8 мест",
+    "Богатая комплектация",
+    "Дизель 2.2"
+  ],
+  "cons": [
+    "DPF дизель",
+    "Расход V6",
+    "Дорогие запчасти"
+  ],
+  "target_audience": "Большие семьи.",
+  "total_reviews": 35
+}

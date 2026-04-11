@@ -1,0 +1,29 @@
+{
+  "generation_id": "nissan_pathfinder_r52_2013",
+  "generation_name": "Pathfinder IV (R52)",
+  "year_start": 2013,
+  "year_end": 2021,
+  "body_type": "suv",
+  "market": "local_assembly",
+  "production": "Nissan СПб",
+  "facelift": 2017,
+  "platform": "Nissan D",
+  "engines": [
+    {
+      "code": "VQ35DE",
+      "volume": "3.5L",
+      "type": "V6",
+      "fuel": "petrol",
+      "power_hp": 249
+    }
+  ],
+  "transmissions": [
+    "CVT Jatco JF016E"
+  ],
+  "drivetrains": [
+    "FWD",
+    "AWD"
+  ],
+  "popularity_ru": "medium",
+  "notes": "Nissan СПб. VQ35DE + CVT. 7-местный. LCI 2017."
+}

@@ -1,0 +1,28 @@
+{
+  "generation_id": "kia_mohave_hm_2019",
+  "generation_name": "Mohave II (HM)",
+  "year_start": 2019,
+  "year_end": 2022,
+  "body_type": "suv",
+  "market": "import",
+  "production": "Kia Gwangju",
+  "facelift": null,
+  "platform": "Body-on-Frame",
+  "engines": [
+    {
+      "code": "D6EA",
+      "volume": "3.0L",
+      "type": "V6 CRDi Diesel",
+      "fuel": "diesel",
+      "power_hp": 260
+    }
+  ],
+  "transmissions": [
+    "АКПП-8 Aisin"
+  ],
+  "drivetrains": [
+    "Full-Time AWD + понижающая"
+  ],
+  "popularity_ru": "medium",
+  "notes": "Рамный. Gwangju. D6EA 3.0 V6 CRDi. AWD + понижайка + блокировка."
+}

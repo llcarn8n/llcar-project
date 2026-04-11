@@ -1,0 +1,36 @@
+{
+  "generation_id": "mercedes_cla_c117_2013",
+  "generation_name": "CLA I (C117)",
+  "year_start": 2013,
+  "year_end": 2019,
+  "body_type": "sedan_coupe",
+  "market": "import",
+  "production": "Mercedes Kecskemet, Венгрия",
+  "facelift": 2016,
+  "platform": "Mercedes MFA",
+  "engines": [
+    {
+      "code": "M270 DE16",
+      "volume": "1.6L",
+      "type": "R4 Turbo",
+      "fuel": "petrol",
+      "power_hp": 156
+    },
+    {
+      "code": "M270 DE20",
+      "volume": "2.0L",
+      "type": "R4 Turbo",
+      "fuel": "petrol",
+      "power_hp": 211
+    }
+  ],
+  "transmissions": [
+    "DCT-7 Getrag 724.0"
+  ],
+  "drivetrains": [
+    "FWD",
+    "4MATIC AWD"
+  ],
+  "popularity_ru": "medium",
+  "notes": "Kecskemet. DCT-7 Getrag — рывки. LCI 2016."
+}

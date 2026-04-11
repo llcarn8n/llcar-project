@@ -1,0 +1,51 @@
+{
+  "generation_id": "bmw_1_series_f20_2011",
+  "generation_name": "1 Series II (F20)",
+  "year_start": 2011,
+  "year_end": 2019,
+  "body_type": "hatchback",
+  "market": "import",
+  "production": "BMW Лейпциг",
+  "facelift": 2015,
+  "platform": "BMW rear-drive",
+  "engines": [
+    {
+      "code": "N13B16",
+      "volume": "1.6L",
+      "type": "R4 Turbo",
+      "fuel": "petrol",
+      "power_hp": 136
+    },
+    {
+      "code": "N20B20",
+      "volume": "2.0L",
+      "type": "R4 Turbo",
+      "fuel": "petrol",
+      "power_hp": 184
+    },
+    {
+      "code": "B48B20",
+      "volume": "2.0L",
+      "type": "R4 Turbo (LCI)",
+      "fuel": "petrol",
+      "power_hp": 192
+    },
+    {
+      "code": "N47D20",
+      "volume": "2.0L",
+      "type": "R4 Turbo Diesel",
+      "fuel": "diesel",
+      "power_hp": 184
+    }
+  ],
+  "transmissions": [
+    "АКПП-8 ZF 8HP",
+    "МКПП-6"
+  ],
+  "drivetrains": [
+    "RWD",
+    "xDrive AWD"
+  ],
+  "popularity_ru": "medium",
+  "notes": "Заднеприводный! LCI 2015 — моторы серии B. N20 — цепь ГРМ."
+}

@@ -1,0 +1,35 @@
+{
+  "generation_id": "toyota_lc_j200_2007",
+  "generation_name": "Land Cruiser 200 (J200)",
+  "year_start": 2007,
+  "year_end": 2021,
+  "body_type": "suv",
+  "market": "import",
+  "production": "Toyota Tahara",
+  "facelift": 2015,
+  "platform": "Toyota IMV (рамная)",
+  "engines": [
+    {
+      "code": "1UR-FE",
+      "volume": "4.6L",
+      "type": "V8",
+      "fuel": "petrol",
+      "power_hp": 318
+    },
+    {
+      "code": "1VD-FTV",
+      "volume": "4.5L",
+      "type": "V8 Twin-Turbo Diesel",
+      "fuel": "diesel",
+      "power_hp": 235
+    }
+  ],
+  "transmissions": [
+    "АКПП-6 Aisin"
+  ],
+  "drivetrains": [
+    "Full-Time AWD + понижающая"
+  ],
+  "popularity_ru": "very_high",
+  "notes": "Культовый рамный. 1UR-FE 4.6 V8 основной для РФ. Full-Time AWD + понижайка + KDSS. LCI 2012, 2015."
+}

@@ -1,0 +1,23 @@
+{
+  "model_id": "1_series",
+  "model_name": "1 Series",
+  "brand_id": "bmw",
+  "body_type": "hatchback",
+  "status": "parallel_import",
+  "powertrain": "ice",
+  "generations_count": 1,
+  "description_ru": "BMW 1 Series F20 — заднеприводный компактный хэтчбек, управляемость BMW в малом формате.",
+  "character": "Заднеприводный компакт.",
+  "pros": [
+    "Задний привод",
+    "ZF 8HP",
+    "Управляемость"
+  ],
+  "cons": [
+    "Тесный сзади",
+    "Жёсткая подвеска",
+    "Дорогое ТО"
+  ],
+  "target_audience": "Молодые водители.",
+  "total_reviews": 50
+}

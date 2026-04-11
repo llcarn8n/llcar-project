@@ -1,0 +1,23 @@
+{
+  "model_id": "pathfinder",
+  "model_name": "Pathfinder",
+  "brand_id": "nissan",
+  "body_type": "suv",
+  "status": "parallel_import",
+  "powertrain": "ice",
+  "generations_count": 1,
+  "description_ru": "Nissan Pathfinder R52 — 7-местный кроссовер с V6 3.5 + CVT. Просторный, но CVT на V6 — слабое место.",
+  "character": "7-местный семейный.",
+  "pros": [
+    "7 мест",
+    "V6 3.5",
+    "Просторный"
+  ],
+  "cons": [
+    "CVT на V6",
+    "Нет понижайки",
+    "Расход"
+  ],
+  "target_audience": "Большие семьи.",
+  "total_reviews": 45
+}

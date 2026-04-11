@@ -1,0 +1,23 @@
+{
+  "model_id": "cla",
+  "model_name": "CLA",
+  "brand_id": "mercedes",
+  "body_type": "sedan_coupe",
+  "status": "parallel_import",
+  "powertrain": "ice",
+  "generations_count": 1,
+  "description_ru": "Mercedes CLA — 4-дверное купе на базе A-Class. Стильный безрамочный дизайн, M270 1.6/2.0T, DCT-7 Getrag.",
+  "character": "Стильное 4-дверное купе.",
+  "pros": [
+    "Купе-дизайн",
+    "Безрамочные двери",
+    "Доступный Mercedes"
+  ],
+  "cons": [
+    "DCT-7 рывки",
+    "Тесный сзади",
+    "Жёсткая"
+  ],
+  "target_audience": "Молодые покупатели.",
+  "total_reviews": 40
+}
