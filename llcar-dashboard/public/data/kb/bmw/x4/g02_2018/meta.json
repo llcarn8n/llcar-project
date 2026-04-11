@@ -1,0 +1,18 @@
+{
+  "generation_id": "bmw_x4_g02_2018",
+  "generation_name": "X4 II (G02)",
+  "year_start": 2018, "year_end": 2022,
+  "body_type": "suv_coupe", "market": "import",
+  "production": "BMW Spartanburg, США",
+  "facelift": 2021, "platform": "BMW CLAR",
+  "engines": [
+    { "code": "B48B20", "volume": "2.0L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 184 },
+    { "code": "B58B30M1", "volume": "3.0L", "type": "R6 Turbo (M40i)", "fuel": "petrol", "power_hp": 360 },
+    { "code": "B47D20", "volume": "2.0L", "type": "R4 Turbo Diesel", "fuel": "diesel", "power_hp": 190 },
+    { "code": "B57D30", "volume": "3.0L", "type": "R6 Turbo Diesel", "fuel": "diesel", "power_hp": 265 }
+  ],
+  "transmissions": ["АКПП-8 ZF 8HP Steptronic"],
+  "drivetrains": ["xDrive AWD"],
+  "popularity_ru": "medium",
+  "notes": "Второе поколение на CLAR. Spartanburg. На базе X3 G01. xDrive стандарт. LCI 2021. Продажи прекращены 2022."
+}

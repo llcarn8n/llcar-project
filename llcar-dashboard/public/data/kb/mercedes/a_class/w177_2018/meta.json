@@ -1,0 +1,17 @@
+{
+  "generation_id": "mercedes_a_class_w177_2018",
+  "generation_name": "A-Class IV (W177/V177)",
+  "year_start": 2018, "year_end": 2022,
+  "body_type": "hatchback/sedan", "market": "import",
+  "production": "Mercedes Rastatt, Германия",
+  "facelift": null, "platform": "Mercedes MFA2",
+  "engines": [
+    { "code": "M282 DE14", "volume": "1.3L", "type": "R4 Turbo (A 200)", "fuel": "petrol", "power_hp": 163 },
+    { "code": "M260 DE20", "volume": "2.0L", "type": "R4 Turbo (A 250)", "fuel": "petrol", "power_hp": 224 },
+    { "code": "M139", "volume": "2.0L", "type": "R4 Turbo (AMG A 35/45)", "fuel": "petrol", "power_hp": 421 }
+  ],
+  "transmissions": ["DCT-7 Getrag (A 200)", "8G-DCT (A 250/AMG)"],
+  "drivetrains": ["FWD", "4MATIC AWD (AMG)"],
+  "popularity_ru": "medium",
+  "notes": "Четвёртое поколение на MFA2. Rastatt. Седан V177 для РФ. M282 1.3T совместная разработка с Renault. MBUX стандарт. AMG A 45 S — 421 л.с. Продажи прекращены 2022."
+}

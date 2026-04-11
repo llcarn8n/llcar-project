@@ -1,0 +1,16 @@
+{
+  "generation_id": "toyota_camry_xv40_2006",
+  "generation_name": "Camry VI (XV40)",
+  "year_start": 2006, "year_end": 2011,
+  "body_type": "sedan", "market": "local_assembly",
+  "production": "Toyota Шушары, СПб",
+  "facelift": 2009, "platform": "Toyota K",
+  "engines": [
+    { "code": "2AZ-FE", "volume": "2.4L", "type": "R4", "fuel": "petrol", "power_hp": 167 },
+    { "code": "2GR-FE", "volume": "3.5L", "type": "V6", "fuel": "petrol", "power_hp": 277 }
+  ],
+  "transmissions": ["МКПП-5 (2.4)", "АКПП-5 Aisin U250E (2.4)", "АКПП-6 Aisin U660E (3.5)"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "very_high",
+  "notes": "Шестое поколение. Сборка Toyota Шушары СПб. 2AZ-FE — масложор (задиры). 2GR-FE V6 — надёжен. АКПП-5 U250E — простая и надёжная. Культовая Camry для РФ."
+}

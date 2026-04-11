@@ -1,0 +1,19 @@
+{
+  "generation_id": "audi_a6_c7_2011",
+  "generation_name": "A6 IV (C7/4G)",
+  "year_start": 2011, "year_end": 2018,
+  "body_type": "sedan/wagon", "market": "import",
+  "production": "Audi Неккарзульм, Германия",
+  "facelift": 2014, "platform": "Audi MLB",
+  "engines": [
+    { "code": "CDHB/CYGA", "volume": "1.8L", "type": "R4 TFSI Turbo", "fuel": "petrol", "power_hp": 190 },
+    { "code": "CDNB/CNCD", "volume": "2.0L", "type": "R4 TFSI Turbo", "fuel": "petrol", "power_hp": 211 },
+    { "code": "CGWD/CREC", "volume": "3.0L", "type": "V6 TFSI Supercharged", "fuel": "petrol", "power_hp": 310 },
+    { "code": "CGLC", "volume": "2.0L", "type": "R4 TDI", "fuel": "diesel", "power_hp": 177 },
+    { "code": "CDUC", "volume": "3.0L", "type": "V6 TDI", "fuel": "diesel", "power_hp": 245 }
+  ],
+  "transmissions": ["Multitronic CVT (FWD)", "S tronic DSG-7 DL501 (quattro)", "Tiptronic 8AT (V6)"],
+  "drivetrains": ["FWD", "quattro AWD (Torsen)"],
+  "popularity_ru": "high",
+  "notes": "Четвёртое поколение на MLB. Неккарзульм. 3.0 TFSI — компрессор (не турбо). Multitronic CVT на FWD, S tronic DL501 на quattro. Allroad — пневмоподвеска. LCI 2014."
+}

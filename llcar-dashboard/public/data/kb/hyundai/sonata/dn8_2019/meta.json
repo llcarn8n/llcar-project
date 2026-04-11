@@ -1,0 +1,16 @@
+{
+  "generation_id": "hyundai_sonata_dn8_2019",
+  "generation_name": "Sonata VIII (DN8)",
+  "year_start": 2019, "year_end": 2023,
+  "body_type": "sedan", "market": "import",
+  "production": "Hyundai Asan, Южная Корея",
+  "facelift": null, "platform": "Hyundai-Kia N3",
+  "engines": [
+    { "code": "G4NA", "volume": "2.0L", "type": "R4 Smartstream MPI", "fuel": "petrol", "power_hp": 150 },
+    { "code": "G4KN", "volume": "2.5L", "type": "R4 Smartstream GDI", "fuel": "petrol", "power_hp": 180 }
+  ],
+  "transmissions": ["CVT (2.0)", "АКПП-8 (2.5)"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "medium",
+  "notes": "Восьмое поколение на N3. Asan Корея. Купе-силуэт. G4NA 2.0 Smartstream — исправлены задиры (новая ревизия). G4KN 2.5 — новый мотор."
+}
