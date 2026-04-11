@@ -1,0 +1,19 @@
+{
+  "generation_id": "haval_jolion_2021",
+  "generation_name": "Jolion I",
+  "year_start": 2021,
+  "year_end": null,
+  "body_type": "suv",
+  "market": "local_assembly",
+  "production": "Haval (GWM), Узловая, Тульская область",
+  "facelift": 2024,
+  "platform": "GWM L.E.M.O.N.",
+  "engines": [
+    { "code": "GW4G15K", "volume": "1.5L", "type": "R4 Turbo MPI", "fuel": "petrol", "power_hp": 143 },
+    { "code": "GW4B15D", "volume": "1.5L", "type": "R4 Turbo GDI", "fuel": "petrol", "power_hp": 150 }
+  ],
+  "transmissions": ["МКПП-6 (1.5T FWD)", "DCT-7 мокрое сцепление"],
+  "drivetrains": ["FWD", "AWD (1.5T GDI)"],
+  "popularity_ru": "very_high",
+  "notes": "Бестселлер Haval в РФ. Полноцикловая сборка в Туле (штамповка, сварка, окраска). GW4G15K (MPI, 143 л.с.) — базовый. GW4B15D (GDI, 150 л.с.) — AWD. Рестайлинг 2024 — увеличен момент до 270 Нм."
+}

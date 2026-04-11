@@ -1,0 +1,19 @@
+{
+  "generation_id": "chery_tiggo_7_pro_t7p_2020",
+  "generation_name": "Tiggo 7 Pro / Pro Max (T1E)",
+  "year_start": 2020,
+  "year_end": null,
+  "body_type": "suv",
+  "market": "local_assembly",
+  "production": "AGR Automotive, Калуга (с 2024) / Импорт из Китая",
+  "facelift": 2024,
+  "platform": "Chery T1x",
+  "engines": [
+    { "code": "SQRE4T15C", "volume": "1.5L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 147 },
+    { "code": "SQRF4J16", "volume": "1.6L", "type": "R4 Turbo GDI (Pro Max AWD)", "fuel": "petrol", "power_hp": 150 }
+  ],
+  "transmissions": ["CVT25 (1.5T)", "DCT-7 (1.6T AWD)"],
+  "drivetrains": ["FWD", "AWD (1.6T Pro Max)"],
+  "popularity_ru": "very_high",
+  "notes": "Бестселлер Chery в РФ (~65 тыс. продаж). 1.5T + CVT — основной вариант. 1.6T GDI + DCT-7 + AWD с 2023 (Pro Max). Сборка AGR Калуга (бывший VW) с 2024."
+}

@@ -1,0 +1,19 @@
+{
+  "generation_id": "geely_coolray_sx11_2020",
+  "generation_name": "Coolray (SX11)",
+  "year_start": 2020,
+  "year_end": null,
+  "body_type": "suv",
+  "market": "import",
+  "production": "BelGee, Борисов, Беларусь / Импорт из Китая",
+  "facelift": 2023,
+  "platform": "Geely BMA (Volvo CMA derived)",
+  "engines": [
+    { "code": "JLH-3G15TD", "volume": "1.5L", "type": "R3 Turbo TGDI", "fuel": "petrol", "power_hp": 150 },
+    { "code": "BHE15-EFZ", "volume": "1.5L", "type": "R4 Turbo TGDI (рестайлинг)", "fuel": "petrol", "power_hp": 147 }
+  ],
+  "transmissions": ["DCT-7 Getrag 724.0 / Geely 7DCT330"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "very_high",
+  "notes": "Субкомпакт на платформе BMA (Volvo). Дорестайл — 3-цилиндровый JLH-3G15TD 150 л.с. Рестайлинг 2023 — 4-цилиндровый BHE15-EFZ 147 л.с. (дефорсирован для налога). Сборка BelGee Борисов (дорестайл = BelGee X50). ~77 тыс. продаж."
+}
