@@ -1,0 +1,18 @@
+{
+  "generation_id": "vw_golf_mk7_2012",
+  "generation_name": "Golf VII (Mk7/5G)",
+  "year_start": 2012, "year_end": 2020,
+  "body_type": "hatchback", "market": "import",
+  "production": "VW Wolfsburg, Германия",
+  "facelift": 2017, "platform": "VW MQB",
+  "engines": [
+    { "code": "CZCA", "volume": "1.4L", "type": "R4 TSI", "fuel": "petrol", "power_hp": 125 },
+    { "code": "CZDA", "volume": "1.4L", "type": "R4 TSI ACT", "fuel": "petrol", "power_hp": 150 },
+    { "code": "CWVA", "volume": "1.6L", "type": "R4 MPI", "fuel": "petrol", "power_hp": 110 },
+    { "code": "CHHB", "volume": "2.0L", "type": "R4 TSI (GTI)", "fuel": "petrol", "power_hp": 220 }
+  ],
+  "transmissions": ["DSG-7 DQ200 (сухое)", "АКПП-6 Aisin (1.6 MPI)", "DSG-6 DQ250 (GTI)"],
+  "drivetrains": ["FWD", "4Motion Haldex (R/GTD)"],
+  "popularity_ru": "medium",
+  "notes": "Седьмое поколение на MQB. Wolfsburg. DSG-7 DQ200 сухое — мехатроник. 1.4 TSI CZCA — цепь ГРМ растягивается. GTI 2.0 TSI + DSG-6 мокрое. LCI 2017."
+}

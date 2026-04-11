@@ -1,0 +1,17 @@
+{
+  "generation_id": "kia_ceed_jd_2012",
+  "generation_name": "Ceed II (JD)",
+  "year_start": 2012, "year_end": 2018,
+  "body_type": "hatchback/wagon", "market": "import",
+  "production": "Kia Žilina, Словакия",
+  "facelift": 2015, "platform": "Hyundai-Kia K3",
+  "engines": [
+    { "code": "G4FA", "volume": "1.4L", "type": "R4 Gamma MPI", "fuel": "petrol", "power_hp": 100 },
+    { "code": "G4FD", "volume": "1.6L", "type": "R4 Gamma GDI", "fuel": "petrol", "power_hp": 135 },
+    { "code": "G4FG", "volume": "1.6L", "type": "R4 Gamma MPI", "fuel": "petrol", "power_hp": 130 }
+  ],
+  "transmissions": ["МКПП-6", "АКПП-6 Aisin"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "high",
+  "notes": "Второе поколение. Žilina Словакия. G4FD 1.6 GDI — задиры и масложор. G4FG 1.6 MPI — надёжнее. Pro_ceed — купе-версия. LCI 2015."
+}

@@ -1,0 +1,17 @@
+{
+  "generation_id": "lada_xray_b2_2015",
+  "generation_name": "XRAY (BAZ-2412)",
+  "year_start": 2015, "year_end": 2022,
+  "body_type": "hatchback/crossover", "market": "local_assembly",
+  "production": "АвтоВАЗ, Тольятти",
+  "facelift": 2018, "platform": "Renault-Nissan B0",
+  "engines": [
+    { "code": "ВАЗ-21129", "volume": "1.6L", "type": "R4 16V", "fuel": "petrol", "power_hp": 106 },
+    { "code": "ВАЗ-21179", "volume": "1.8L", "type": "R4 16V", "fuel": "petrol", "power_hp": 122 },
+    { "code": "H4M", "volume": "1.6L", "type": "R4 16V (HR16DE)", "fuel": "petrol", "power_hp": 110 }
+  ],
+  "transmissions": ["МКПП-5 (ВАЗ)", "CVT Jatco JF015E (H4M)"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "medium",
+  "notes": "На платформе B0. АвтоВАЗ. XRAY Cross — увеличенный клиренс 215мм. ВАЗ-21179 1.8 — расход масла. H4M + CVT — топовый вариант. Снят с производства 2022."
+}

@@ -1,0 +1,16 @@
+{
+  "generation_id": "toyota_rav4_xa40_2013",
+  "generation_name": "RAV4 IV (XA40)",
+  "year_start": 2013, "year_end": 2019,
+  "body_type": "suv", "market": "local_assembly",
+  "production": "Toyota Шушары, СПб",
+  "facelift": 2015, "platform": "Toyota New MC",
+  "engines": [
+    { "code": "3ZR-FAE", "volume": "2.0L", "type": "R4 Valvematic", "fuel": "petrol", "power_hp": 146 },
+    { "code": "2AR-FE", "volume": "2.5L", "type": "R4", "fuel": "petrol", "power_hp": 180 }
+  ],
+  "transmissions": ["CVT Aisin K112 (2.0)", "АКПП-6 Aisin U660E (2.5)"],
+  "drivetrains": ["FWD", "AWD (муфта)"],
+  "popularity_ru": "very_high",
+  "notes": "Четвёртое поколение. Сборка Шушары СПб. 3ZR-FAE 2.0 + CVT — основной. 2AR-FE 2.5 + АКПП-6 — мощнее. AWD с муфтой. LCI 2015. Предшественник XA50."
+}

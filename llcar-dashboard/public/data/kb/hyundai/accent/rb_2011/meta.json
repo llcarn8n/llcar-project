@@ -1,0 +1,16 @@
+{
+  "generation_id": "hyundai_accent_rb_2011",
+  "generation_name": "Accent IV (RB) / Solaris I",
+  "year_start": 2011, "year_end": 2017,
+  "body_type": "sedan/hatchback", "market": "local_assembly",
+  "production": "Hyundai Motor Manufacturing Rus, СПб",
+  "facelift": 2014, "platform": "Hyundai-Kia RB",
+  "engines": [
+    { "code": "G4FA", "volume": "1.4L", "type": "R4 Gamma MPI", "fuel": "petrol", "power_hp": 107 },
+    { "code": "G4FC", "volume": "1.6L", "type": "R4 Gamma MPI", "fuel": "petrol", "power_hp": 123 }
+  ],
+  "transmissions": ["МКПП-5", "АКПП-4 A4CF1"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "very_high",
+  "notes": "Solaris I для РФ (Accent на других рынках). Сборка СПб. G4FA/G4FC Gamma — задиры цилиндров (каталитическая пыль). АКПП-4 A4CF1 — простая. LCI 2014."
+}
