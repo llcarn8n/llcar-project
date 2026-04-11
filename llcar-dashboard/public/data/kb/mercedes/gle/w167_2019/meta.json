@@ -1,0 +1,22 @@
+{
+  "generation_id": "mercedes_gle_w167_2019",
+  "generation_name": "GLE II (W167)",
+  "year_start": 2019,
+  "year_end": 2022,
+  "body_type": "suv",
+  "market": "import",
+  "production": "Mercedes Tuscaloosa, США",
+  "facelift": null,
+  "platform": "Mercedes MHA-2",
+  "engines": [
+    { "code": "M264", "volume": "2.0L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 258 },
+    { "code": "M256", "volume": "3.0L", "type": "R6 Turbo + EQ Boost 48V", "fuel": "petrol", "power_hp": 367 },
+    { "code": "M177", "volume": "4.0L", "type": "V8 BiTurbo (AMG 63 S)", "fuel": "petrol", "power_hp": 612 },
+    { "code": "OM654", "volume": "2.0L", "type": "R4 Turbo Diesel", "fuel": "diesel", "power_hp": 245 },
+    { "code": "OM656", "volume": "2.9L", "type": "R6 Turbo Diesel", "fuel": "diesel", "power_hp": 330 }
+  ],
+  "transmissions": ["9G-Tronic (725.0)"],
+  "drivetrains": ["4MATIC AWD"],
+  "popularity_ru": "high",
+  "notes": "Второе поколение GLE на MHA-2. Tuscaloosa USA. Рядные шестёрки M256/OM656 + EQ Boost 48V. 4MATIC стандарт. Продажи прекращены март 2022."
+}

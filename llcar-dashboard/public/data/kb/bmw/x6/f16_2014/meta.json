@@ -1,0 +1,21 @@
+{
+  "generation_id": "bmw_x6_f16_2014",
+  "generation_name": "X6 II (F16)",
+  "year_start": 2014,
+  "year_end": 2019,
+  "body_type": "suv_coupe",
+  "market": "import",
+  "production": "BMW Spartanburg, США",
+  "facelift": 2017,
+  "platform": "BMW F15 base",
+  "engines": [
+    { "code": "N55B30/B58B30", "volume": "3.0L", "type": "R6 Turbo", "fuel": "petrol", "power_hp": 306 },
+    { "code": "N63B44O1", "volume": "4.4L", "type": "V8 BiTurbo", "fuel": "petrol", "power_hp": 450 },
+    { "code": "N57D30/B57D30", "volume": "3.0L", "type": "R6 Turbo Diesel", "fuel": "diesel", "power_hp": 249 },
+    { "code": "N57D30S1", "volume": "3.0L", "type": "R6 TriTurbo Diesel", "fuel": "diesel", "power_hp": 381 }
+  ],
+  "transmissions": ["АКПП-8 ZF 8HP"],
+  "drivetrains": ["xDrive AWD"],
+  "popularity_ru": "medium",
+  "notes": "Второе поколение X6 на базе X5 F15. Импорт из Spartanburg. Переход N→B серии в 2016 (LCI). M50d — три турбины. xDrive стандарт."
+}

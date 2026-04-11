@@ -1,0 +1,22 @@
+{
+  "generation_id": "mercedes_gle_w166_2011",
+  "generation_name": "ML/GLE (W166)",
+  "year_start": 2011,
+  "year_end": 2019,
+  "body_type": "suv",
+  "market": "import",
+  "production": "Mercedes Tuscaloosa, США / Солнечногорск",
+  "facelift": 2015,
+  "platform": "Mercedes MHA",
+  "engines": [
+    { "code": "M276 DE35", "volume": "3.5L", "type": "V6", "fuel": "petrol", "power_hp": 306 },
+    { "code": "M276 DE30", "volume": "3.0L", "type": "V6 BiTurbo", "fuel": "petrol", "power_hp": 367 },
+    { "code": "M278 DE46", "volume": "4.7L", "type": "V8 BiTurbo", "fuel": "petrol", "power_hp": 435 },
+    { "code": "OM651", "volume": "2.1L", "type": "R4 Turbo Diesel", "fuel": "diesel", "power_hp": 204 },
+    { "code": "OM642", "volume": "3.0L", "type": "V6 Turbo Diesel", "fuel": "diesel", "power_hp": 258 }
+  ],
+  "transmissions": ["7G-Tronic Plus (722.9)", "9G-Tronic (725.0, с 2015)"],
+  "drivetrains": ["4MATIC AWD"],
+  "popularity_ru": "very_high",
+  "notes": "ML до 2015, GLE после фейслифта. Tuscaloosa USA + частичная сборка Солнечногорск. 4MATIC стандарт для РФ. AIRMATIC опционально."
+}

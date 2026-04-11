@@ -1,0 +1,20 @@
+{
+  "generation_id": "bmw_x1_f48_2015",
+  "generation_name": "X1 II (F48)",
+  "year_start": 2015,
+  "year_end": 2022,
+  "body_type": "suv",
+  "market": "local_assembly",
+  "production": "Автотор, Калининград / BMW Регенсбург",
+  "facelift": 2019,
+  "platform": "BMW UKL2 (поперечная)",
+  "engines": [
+    { "code": "B38B15", "volume": "1.5L", "type": "R3 Turbo", "fuel": "petrol", "power_hp": 136 },
+    { "code": "B48B20", "volume": "2.0L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 192 },
+    { "code": "B47D20", "volume": "2.0L", "type": "R4 Turbo Diesel", "fuel": "diesel", "power_hp": 190 }
+  ],
+  "transmissions": ["АКПП-6 Aisin (18i)", "АКПП-8 Aisin (20i/20d)"],
+  "drivetrains": ["sDrive FWD", "xDrive AWD (Haldex)"],
+  "popularity_ru": "high",
+  "notes": "Второе поколение на переднеприводной UKL2. Сборка Автотор Калининград. АКПП Aisin (НЕ ZF 8HP). xDrive через муфту Haldex 5-го поколения. LCI 2019."
+}

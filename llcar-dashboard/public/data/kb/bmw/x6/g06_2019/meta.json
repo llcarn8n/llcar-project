@@ -1,0 +1,21 @@
+{
+  "generation_id": "bmw_x6_g06_2019",
+  "generation_name": "X6 III (G06)",
+  "year_start": 2019,
+  "year_end": 2022,
+  "body_type": "suv_coupe",
+  "market": "import",
+  "production": "BMW Spartanburg, США",
+  "facelift": null,
+  "platform": "BMW CLAR",
+  "engines": [
+    { "code": "B58B30O1", "volume": "3.0L", "type": "R6 Turbo", "fuel": "petrol", "power_hp": 340 },
+    { "code": "N63B44T3", "volume": "4.4L", "type": "V8 BiTurbo", "fuel": "petrol", "power_hp": 530 },
+    { "code": "B57D30O0", "volume": "3.0L", "type": "R6 Turbo Diesel", "fuel": "diesel", "power_hp": 265 },
+    { "code": "B57D30S0", "volume": "3.0L", "type": "R6 QuadTurbo Diesel", "fuel": "diesel", "power_hp": 400 }
+  ],
+  "transmissions": ["АКПП-8 ZF 8HP76"],
+  "drivetrains": ["xDrive AWD"],
+  "popularity_ru": "medium",
+  "notes": "Третье поколение на платформе CLAR. Импорт из Spartanburg. M50d квадро-турбо снят в 2021. LCI 2023 в Россию не поставлялся. Параллельный импорт с 2022."
+}

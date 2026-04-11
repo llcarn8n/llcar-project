@@ -1,0 +1,24 @@
+{
+  "generation_id": "mercedes_s_class_w222_2013",
+  "generation_name": "S-Class VI (W222)",
+  "year_start": 2013,
+  "year_end": 2020,
+  "body_type": "sedan",
+  "market": "local_assembly",
+  "production": "Mercedes Sindelfingen / Солнечногорск",
+  "facelift": 2017,
+  "platform": "Mercedes MRA",
+  "engines": [
+    { "code": "M276 DE30", "volume": "3.0L", "type": "V6 BiTurbo", "fuel": "petrol", "power_hp": 333 },
+    { "code": "M278 DE46", "volume": "4.7L", "type": "V8 BiTurbo", "fuel": "petrol", "power_hp": 455 },
+    { "code": "M256", "volume": "3.0L", "type": "R6 Turbo + EQ Boost (LCI)", "fuel": "petrol", "power_hp": 367 },
+    { "code": "M176", "volume": "4.0L", "type": "V8 BiTurbo (LCI S 560)", "fuel": "petrol", "power_hp": 469 },
+    { "code": "M177", "volume": "4.0L", "type": "V8 BiTurbo (AMG 63, LCI)", "fuel": "petrol", "power_hp": 612 },
+    { "code": "OM642", "volume": "3.0L", "type": "V6 Turbo Diesel", "fuel": "diesel", "power_hp": 258 },
+    { "code": "OM656", "volume": "2.9L", "type": "R6 Turbo Diesel (LCI)", "fuel": "diesel", "power_hp": 340 }
+  ],
+  "transmissions": ["7G-Tronic Plus (722.9)", "9G-Tronic (725.0, LCI)"],
+  "drivetrains": ["RWD", "4MATIC AWD"],
+  "popularity_ru": "high",
+  "notes": "Флагман — V222 (длиннобазная) основная для РФ. Частичная сборка Солнечногорск. LCI 2017 — M256 R6, M176 V8, OM656 R6 дизель. AIRMATIC стандарт. Magic Body Control опция."
+}
