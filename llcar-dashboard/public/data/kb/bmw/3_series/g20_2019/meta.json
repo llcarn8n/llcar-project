@@ -1,0 +1,24 @@
+{
+  "generation_id": "bmw_3_series_g20_2019",
+  "generation_name": "3 Series VII (G20/G21)",
+  "year_start": 2019,
+  "year_end": 2022,
+  "body_type": "sedan/touring",
+  "market": "local_assembly",
+  "production": "Автотор, Калининград / BMW Мюнхен",
+  "facelift": null,
+  "platform": "BMW CLAR",
+  "engines": [
+    { "code": "B48B20M0", "volume": "2.0L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 156 },
+    { "code": "B48B20M0", "volume": "2.0L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 184 },
+    { "code": "B48B20O0", "volume": "2.0L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 258 },
+    { "code": "B58B30M1", "volume": "3.0L", "type": "R6 Turbo", "fuel": "petrol", "power_hp": 374 },
+    { "code": "B47D20U1", "volume": "2.0L", "type": "R4 Turbo Diesel", "fuel": "diesel", "power_hp": 150 },
+    { "code": "B47D20O1", "volume": "2.0L", "type": "R4 Turbo Diesel", "fuel": "diesel", "power_hp": 190 },
+    { "code": "B57D30A", "volume": "3.0L", "type": "R6 Turbo Diesel", "fuel": "diesel", "power_hp": 265 }
+  ],
+  "transmissions": ["АКПП-8 ZF 8HP Steptronic"],
+  "drivetrains": ["RWD", "xDrive AWD"],
+  "popularity_ru": "high",
+  "notes": "Седьмое поколение на платформе CLAR. Сборка на Автоторе до мая 2022. МКПП не предлагалась в РФ. LCI 2022 официально не поставлялся в Россию. Параллельный импорт с 2022."
+}

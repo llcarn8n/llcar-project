@@ -1,0 +1,25 @@
+{
+  "generation_id": "bmw_5_series_f10_2010",
+  "generation_name": "5 Series VI (F10/F11)",
+  "year_start": 2010,
+  "year_end": 2017,
+  "body_type": "sedan/touring",
+  "market": "local_assembly",
+  "production": "Автотор, Калининград / BMW Дингольфинг",
+  "facelift": 2013,
+  "platform": "BMW F10 (pre-CLAR)",
+  "engines": [
+    { "code": "N20B20", "volume": "2.0L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 184 },
+    { "code": "N20B20", "volume": "2.0L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 245 },
+    { "code": "N55B30", "volume": "3.0L", "type": "R6 Turbo", "fuel": "petrol", "power_hp": 306 },
+    { "code": "N63B44TU", "volume": "4.4L", "type": "V8 BiTurbo", "fuel": "petrol", "power_hp": 450 },
+    { "code": "N47D20", "volume": "2.0L", "type": "R4 Turbo Diesel", "fuel": "diesel", "power_hp": 184 },
+    { "code": "B47D20", "volume": "2.0L", "type": "R4 Turbo Diesel (LCI)", "fuel": "diesel", "power_hp": 190 },
+    { "code": "N57D30O1", "volume": "3.0L", "type": "R6 Turbo Diesel", "fuel": "diesel", "power_hp": 258 },
+    { "code": "N57D30T1", "volume": "3.0L", "type": "R6 BiTurbo Diesel", "fuel": "diesel", "power_hp": 313 }
+  ],
+  "transmissions": ["МКПП-6", "АКПП-8 ZF 8HP"],
+  "drivetrains": ["RWD", "xDrive AWD"],
+  "popularity_ru": "high",
+  "notes": "Шестое поколение. Сборка CKD на Автоторе в Калининграде. LCI 2013. N20 — проблемы с цепью ГРМ. N47 — вихревые заслонки, цепь. N63 — течь масла из турбин."
+}

@@ -1,0 +1,23 @@
+{
+  "generation_id": "bmw_x5_g05_2018",
+  "generation_name": "X5 IV (G05)",
+  "year_start": 2018,
+  "year_end": 2022,
+  "body_type": "suv",
+  "market": "local_assembly",
+  "production": "Автотор, Калининград / BMW Спартанбург",
+  "facelift": null,
+  "platform": "BMW CLAR",
+  "engines": [
+    { "code": "B58B30M1", "volume": "3.0L", "type": "R6 Turbo", "fuel": "petrol", "power_hp": 340 },
+    { "code": "N63B44T3", "volume": "4.4L", "type": "V8 BiTurbo", "fuel": "petrol", "power_hp": 530 },
+    { "code": "B47D20", "volume": "2.0L", "type": "R4 Turbo Diesel", "fuel": "diesel", "power_hp": 231 },
+    { "code": "B57D30O0", "volume": "3.0L", "type": "R6 Turbo Diesel", "fuel": "diesel", "power_hp": 265 },
+    { "code": "B57D30T2", "volume": "3.0L", "type": "R6 BiTurbo Diesel", "fuel": "diesel", "power_hp": 340 },
+    { "code": "B57D30S0", "volume": "3.0L", "type": "R6 QuadTurbo Diesel", "fuel": "diesel", "power_hp": 400 }
+  ],
+  "transmissions": ["АКПП-8 ZF 8HP76 Steptronic Sport"],
+  "drivetrains": ["xDrive AWD"],
+  "popularity_ru": "high",
+  "notes": "Четвёртое поколение на платформе CLAR. Сборка CKD на Автоторе до 2022. LCI 2023 в Россию официально не поставлялся. M50d — квадро-турбо 400 л.с. Параллельный импорт с 2022."
+}

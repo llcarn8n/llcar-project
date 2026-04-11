@@ -1,0 +1,26 @@
+{
+  "generation_id": "bmw_3_series_f30_2012",
+  "generation_name": "3 Series VI (F30/F31)",
+  "year_start": 2012,
+  "year_end": 2018,
+  "body_type": "sedan/touring",
+  "market": "local_assembly",
+  "production": "Автотор, Калининград / BMW Мюнхен",
+  "facelift": 2015,
+  "platform": "BMW F30 (pre-CLAR)",
+  "engines": [
+    { "code": "N13B16", "volume": "1.6L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 136 },
+    { "code": "N20B20B", "volume": "2.0L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 184 },
+    { "code": "N20B20A", "volume": "2.0L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 245 },
+    { "code": "N55B30A", "volume": "3.0L", "type": "R6 Turbo", "fuel": "petrol", "power_hp": 306 },
+    { "code": "B38B15A", "volume": "1.5L", "type": "R3 Turbo (LCI)", "fuel": "petrol", "power_hp": 136 },
+    { "code": "B48B20B", "volume": "2.0L", "type": "R4 Turbo (LCI)", "fuel": "petrol", "power_hp": 184 },
+    { "code": "B58B30A", "volume": "3.0L", "type": "R6 Turbo (LCI)", "fuel": "petrol", "power_hp": 326 },
+    { "code": "N47D20C", "volume": "2.0L", "type": "R4 Turbo Diesel", "fuel": "diesel", "power_hp": 184 },
+    { "code": "B47D20A", "volume": "2.0L", "type": "R4 Turbo Diesel (LCI)", "fuel": "diesel", "power_hp": 150 }
+  ],
+  "transmissions": ["МКПП-6 Getrag", "АКПП-8 ZF 8HP"],
+  "drivetrains": ["RWD", "xDrive AWD"],
+  "popularity_ru": "high",
+  "notes": "Шестое поколение. Сборка на Автоторе в Калининграде. LCI 2015 — переход на модульные двигатели серии B. N20 известен проблемами с цепью ГРМ. N47 — вихревые заслонки."
+}

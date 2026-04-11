@@ -1,0 +1,23 @@
+{
+  "generation_id": "bmw_x3_f25_2010",
+  "generation_name": "X3 II (F25)",
+  "year_start": 2010,
+  "year_end": 2017,
+  "body_type": "suv",
+  "market": "local_assembly",
+  "production": "Автотор, Калининград / BMW Спартанбург",
+  "facelift": 2014,
+  "platform": "BMW F30 base",
+  "engines": [
+    { "code": "N20B20O0", "volume": "2.0L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 184 },
+    { "code": "N20B20O0", "volume": "2.0L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 245 },
+    { "code": "N55B30", "volume": "3.0L", "type": "R6 Turbo", "fuel": "petrol", "power_hp": 306 },
+    { "code": "N47D20", "volume": "2.0L", "type": "R4 Turbo Diesel", "fuel": "diesel", "power_hp": 184 },
+    { "code": "B47D20", "volume": "2.0L", "type": "R4 Turbo Diesel (LCI)", "fuel": "diesel", "power_hp": 190 },
+    { "code": "N57D30O1", "volume": "3.0L", "type": "R6 Turbo Diesel", "fuel": "diesel", "power_hp": 258 }
+  ],
+  "transmissions": ["МКПП-6", "АКПП-8 ZF 8HP45"],
+  "drivetrains": ["xDrive AWD"],
+  "popularity_ru": "medium",
+  "notes": "Второе поколение X3. Сборка CKD на Автоторе с 2011. LCI 2014. N20 — цепь ГРМ. N47 — вихревые заслонки. xDrive стандарт для РФ."
+}

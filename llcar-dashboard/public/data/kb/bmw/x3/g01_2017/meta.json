@@ -1,0 +1,22 @@
+{
+  "generation_id": "bmw_x3_g01_2017",
+  "generation_name": "X3 III (G01)",
+  "year_start": 2017,
+  "year_end": 2022,
+  "body_type": "suv",
+  "market": "local_assembly",
+  "production": "Автотор, Калининград / BMW Спартанбург",
+  "facelift": 2021,
+  "platform": "BMW CLAR",
+  "engines": [
+    { "code": "B48B20O0", "volume": "2.0L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 184 },
+    { "code": "B48B20O0", "volume": "2.0L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 252 },
+    { "code": "B58B30M1", "volume": "3.0L", "type": "R6 Turbo", "fuel": "petrol", "power_hp": 360 },
+    { "code": "B47D20O0", "volume": "2.0L", "type": "R4 Turbo Diesel", "fuel": "diesel", "power_hp": 190 },
+    { "code": "B57D30O0", "volume": "3.0L", "type": "R6 Turbo Diesel", "fuel": "diesel", "power_hp": 265 }
+  ],
+  "transmissions": ["АКПП-8 ZF 8HP Steptronic"],
+  "drivetrains": ["xDrive AWD"],
+  "popularity_ru": "high",
+  "notes": "Третье поколение на платформе CLAR. Сборка CKD на Автоторе с 2018. LCI 2021. xDrive стандарт для РФ. Поставки прекращены весной 2022."
+}

@@ -1,0 +1,24 @@
+{
+  "generation_id": "bmw_x5_f15_2013",
+  "generation_name": "X5 III (F15)",
+  "year_start": 2013,
+  "year_end": 2018,
+  "body_type": "suv",
+  "market": "local_assembly",
+  "production": "Автотор, Калининград / BMW Спартанбург",
+  "facelift": null,
+  "platform": "BMW F15 (pre-CLAR)",
+  "engines": [
+    { "code": "N55B30", "volume": "3.0L", "type": "R6 Turbo", "fuel": "petrol", "power_hp": 306 },
+    { "code": "N63B44O1", "volume": "4.4L", "type": "V8 BiTurbo", "fuel": "petrol", "power_hp": 450 },
+    { "code": "N47D20", "volume": "2.0L", "type": "R4 BiTurbo Diesel", "fuel": "diesel", "power_hp": 218 },
+    { "code": "B47D20T0", "volume": "2.0L", "type": "R4 BiTurbo Diesel", "fuel": "diesel", "power_hp": 231 },
+    { "code": "N57D30O1", "volume": "3.0L", "type": "R6 Turbo Diesel", "fuel": "diesel", "power_hp": 258 },
+    { "code": "N57D30T1", "volume": "3.0L", "type": "R6 BiTurbo Diesel", "fuel": "diesel", "power_hp": 313 },
+    { "code": "N57D30S1", "volume": "3.0L", "type": "R6 TriTurbo Diesel", "fuel": "diesel", "power_hp": 381 }
+  ],
+  "transmissions": ["АКПП-8 ZF 8HP70"],
+  "drivetrains": ["xDrive AWD"],
+  "popularity_ru": "high",
+  "notes": "Третье поколение X5. Сборка CKD на Автоторе. Без формального LCI. N57 M50d — три турбины, 381 л.с. xDrive стандарт для РФ."
+}
