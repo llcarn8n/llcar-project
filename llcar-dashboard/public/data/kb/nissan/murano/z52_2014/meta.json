@@ -1,0 +1,15 @@
+{
+  "generation_id": "nissan_murano_z52_2014",
+  "generation_name": "Murano III (Z52)",
+  "year_start": 2014, "year_end": 2022,
+  "body_type": "suv", "market": "import",
+  "production": "Nissan Canton, США",
+  "facelift": 2019, "platform": "Nissan D",
+  "engines": [
+    { "code": "VQ35DE", "volume": "3.5L", "type": "V6", "fuel": "petrol", "power_hp": 249 }
+  ],
+  "transmissions": ["CVT Jatco JF016E (Xtronic)"],
+  "drivetrains": ["FWD", "AWD (муфта)"],
+  "popularity_ru": "medium",
+  "notes": "Третье поколение. Canton USA. Один мотор VQ35DE V6 + CVT. AWD с муфтой. Zero Gravity сиденья. LCI 2019. Nissan ушёл из РФ 2022."
+}

@@ -1,0 +1,17 @@
+{
+  "generation_id": "renault_arkana_rjl_2019",
+  "generation_name": "Arkana I (RJL)",
+  "year_start": 2019, "year_end": 2022,
+  "body_type": "suv_coupe", "market": "local_assembly",
+  "production": "Renault Москва",
+  "facelift": null, "platform": "Renault-Nissan B0+ (модернизированная)",
+  "engines": [
+    { "code": "H5Ht", "volume": "1.3L", "type": "R4 Turbo TCe 150", "fuel": "petrol", "power_hp": 150 },
+    { "code": "F4R", "volume": "2.0L", "type": "R4 16V", "fuel": "petrol", "power_hp": 143 },
+    { "code": "H4M", "volume": "1.6L", "type": "R4 16V", "fuel": "petrol", "power_hp": 114 }
+  ],
+  "transmissions": ["CVT Jatco JF015E", "МКПП-6 (2.0)", "МКПП-5 (1.6)"],
+  "drivetrains": ["FWD", "AWD (муфта)"],
+  "popularity_ru": "high",
+  "notes": "Разработан для РФ. Сборка Москва. Купе-кроссовер. H5Ht 1.3T + CVT — основной вариант. F4R 2.0 + МКПП + AWD. Renault ушёл из РФ 2022."
+}

@@ -1,0 +1,17 @@
+{
+  "generation_id": "vw_touareg_cr_2018",
+  "generation_name": "Touareg III (CR)",
+  "year_start": 2018, "year_end": 2022,
+  "body_type": "suv", "market": "import",
+  "production": "VW Братислава, Словакия",
+  "facelift": null, "platform": "VW MLBevo (Audi Q7/Porsche Cayenne)",
+  "engines": [
+    { "code": "DCBE", "volume": "3.0L", "type": "V6 TSI Turbo", "fuel": "petrol", "power_hp": 340 },
+    { "code": "DCBC", "volume": "3.0L", "type": "V6 TDI", "fuel": "diesel", "power_hp": 249 },
+    { "code": "DNFA", "volume": "3.0L", "type": "V6 TDI", "fuel": "diesel", "power_hp": 286 }
+  ],
+  "transmissions": ["Tiptronic 8AT Aisin"],
+  "drivetrains": ["4Motion AWD (Torsen)"],
+  "popularity_ru": "medium",
+  "notes": "Третье поколение на MLBevo. Братислава. Общая платформа с Cayenne/Q7. 4Motion Torsen стандарт. Пневмоподвеска опция. Innovision Cockpit. Продажи прекращены 2022."
+}
