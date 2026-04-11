@@ -1,0 +1,21 @@
+{
+  "generation_id": "mercedes_gls_x166_2012",
+  "generation_name": "GL/GLS I (X166)",
+  "year_start": 2012,
+  "year_end": 2019,
+  "body_type": "suv",
+  "market": "import",
+  "production": "Mercedes Tuscaloosa, США",
+  "facelift": 2016,
+  "platform": "Mercedes X166",
+  "engines": [
+    { "code": "M276 DE35", "volume": "3.5L", "type": "V6 (GL/GLS 400)", "fuel": "petrol", "power_hp": 333 },
+    { "code": "M278 DE46", "volume": "4.7L", "type": "V8 BiTurbo (GL/GLS 500)", "fuel": "petrol", "power_hp": 435 },
+    { "code": "M157", "volume": "5.5L", "type": "V8 BiTurbo (AMG 63)", "fuel": "petrol", "power_hp": 585 },
+    { "code": "OM642", "volume": "3.0L", "type": "V6 Turbo Diesel (GL/GLS 350d)", "fuel": "diesel", "power_hp": 258 }
+  ],
+  "transmissions": ["7G-Tronic Plus (722.9)", "9G-Tronic (с 2016)"],
+  "drivetrains": ["4MATIC AWD"],
+  "popularity_ru": "high",
+  "notes": "GL до 2016, GLS после рестайлинга. Tuscaloosa USA. 7-местный. 4MATIC стандарт. AIRMATIC стандарт. AMG 63 — 585 л.с."
+}

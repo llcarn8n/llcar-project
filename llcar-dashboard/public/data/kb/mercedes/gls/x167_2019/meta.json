@@ -1,0 +1,21 @@
+{
+  "generation_id": "mercedes_gls_x167_2019",
+  "generation_name": "GLS II (X167)",
+  "year_start": 2019,
+  "year_end": 2022,
+  "body_type": "suv",
+  "market": "import",
+  "production": "Mercedes Tuscaloosa, США",
+  "facelift": null,
+  "platform": "Mercedes MHA-2",
+  "engines": [
+    { "code": "M256", "volume": "3.0L", "type": "R6 Turbo + EQ Boost 48V (GLS 450)", "fuel": "petrol", "power_hp": 367 },
+    { "code": "M176", "volume": "4.0L", "type": "V8 BiTurbo (GLS 580)", "fuel": "petrol", "power_hp": 489 },
+    { "code": "M177", "volume": "4.0L", "type": "V8 BiTurbo (AMG 63)", "fuel": "petrol", "power_hp": 612 },
+    { "code": "OM656", "volume": "2.9L", "type": "R6 Turbo Diesel (GLS 350d/400d)", "fuel": "diesel", "power_hp": 330 }
+  ],
+  "transmissions": ["9G-Tronic (725.0)"],
+  "drivetrains": ["4MATIC AWD"],
+  "popularity_ru": "high",
+  "notes": "Второе поколение GLS на MHA-2. Tuscaloosa. 7-местный. EQ Boost 48V. AIRMATIC стандарт. Maybach GLS 600 — V8 4.0 558 л.с. Продажи прекращены март 2022."
+}

@@ -1,0 +1,23 @@
+{
+  "generation_id": "bmw_7_series_g11_2015",
+  "generation_name": "7 Series VI (G11/G12)",
+  "year_start": 2015,
+  "year_end": 2022,
+  "body_type": "sedan",
+  "market": "import",
+  "production": "BMW Дингольфинг, Германия",
+  "facelift": 2019,
+  "platform": "BMW CLAR (Carbon Core)",
+  "engines": [
+    { "code": "B48B20", "volume": "2.0L", "type": "R4 Turbo (730i)", "fuel": "petrol", "power_hp": 258 },
+    { "code": "B58B30", "volume": "3.0L", "type": "R6 Turbo (740i)", "fuel": "petrol", "power_hp": 340 },
+    { "code": "N63B44", "volume": "4.4L", "type": "V8 BiTurbo (750i)", "fuel": "petrol", "power_hp": 450 },
+    { "code": "N74B66", "volume": "6.6L", "type": "V12 BiTurbo (M760Li)", "fuel": "petrol", "power_hp": 609 },
+    { "code": "B47D20", "volume": "2.0L", "type": "R4 Turbo Diesel (730d)", "fuel": "diesel", "power_hp": 265 },
+    { "code": "B57D30", "volume": "3.0L", "type": "R6 Turbo Diesel (740d)", "fuel": "diesel", "power_hp": 320 }
+  ],
+  "transmissions": ["АКПП-8 ZF 8HP"],
+  "drivetrains": ["RWD", "xDrive AWD"],
+  "popularity_ru": "medium",
+  "notes": "Шестое поколение на CLAR с Carbon Core. Дингольфинг. G12 длиннобазная — основная для РФ. LCI 2019 — увеличенная решётка. M760Li — V12 609 л.с. Продажи прекращены март 2022."
+}

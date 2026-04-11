@@ -1,0 +1,18 @@
+{
+  "generation_id": "chery_tiggo_8_pro_t8p_2021",
+  "generation_name": "Tiggo 8 Pro / Pro Max",
+  "year_start": 2021,
+  "year_end": null,
+  "body_type": "suv",
+  "market": "import",
+  "production": "Импорт из Китая / AGR Калуга",
+  "facelift": 2023,
+  "platform": "Chery T1x",
+  "engines": [
+    { "code": "SQRF4J16", "volume": "1.6L", "type": "R4 Turbo GDI", "fuel": "petrol", "power_hp": 186 }
+  ],
+  "transmissions": ["DCT-7 (мокрое сцепление)"],
+  "drivetrains": ["FWD", "AWD"],
+  "popularity_ru": "high",
+  "notes": "Флагман Tiggo. 7-местный. 1.6T TGDI + DCT-7. AWD доступен. Pro Max с 2023 — обновлённый дизайн."
+}

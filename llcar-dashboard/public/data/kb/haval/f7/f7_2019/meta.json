@@ -1,0 +1,19 @@
+{
+  "generation_id": "haval_f7_2019",
+  "generation_name": "F7 I",
+  "year_start": 2019,
+  "year_end": null,
+  "body_type": "suv",
+  "market": "local_assembly",
+  "production": "Haval (GWM), Узловая, Тульская область",
+  "facelift": 2022,
+  "platform": "GWM L.E.M.O.N.",
+  "engines": [
+    { "code": "GW4C20NT", "volume": "2.0L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 190 },
+    { "code": "GW4B15", "volume": "1.5L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 150 }
+  ],
+  "transmissions": ["DCT-7 (мокрое сцепление)"],
+  "drivetrains": ["FWD", "AWD"],
+  "popularity_ru": "high",
+  "notes": "Полноцикловая сборка в Туле. 2.0T GW4C20NT — основной мотор. DCT-7 мокрое сцепление. AWD опционально. Рестайлинг 2022."
+}
