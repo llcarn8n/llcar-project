@@ -1,0 +1,16 @@
+{
+  "generation_id": "kia_sorento_um_2015",
+  "generation_name": "Sorento III (UM)",
+  "year_start": 2015, "year_end": 2020,
+  "body_type": "suv", "market": "local_assembly",
+  "production": "Автотор, Калининград",
+  "facelift": 2018, "platform": "Hyundai-Kia Y6",
+  "engines": [
+    { "code": "G4KE", "volume": "2.4L", "type": "R4 GDI MPI", "fuel": "petrol", "power_hp": 188 },
+    { "code": "D4HB", "volume": "2.2L", "type": "R4 CRDi Turbo Diesel", "fuel": "diesel", "power_hp": 200 }
+  ],
+  "transmissions": ["АКПП-6 Aisin"],
+  "drivetrains": ["FWD", "AWD (муфта Dynamax)"],
+  "popularity_ru": "high",
+  "notes": "Третье поколение. Сборка Автотор Калининград. 7-местный. G4KE 2.4 GDI — основной. D4HB 2.2 CRDi — дизель с DPF. LCI 2018. Kia ушла из РФ 2022."
+}

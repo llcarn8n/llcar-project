@@ -1,0 +1,17 @@
+{
+  "generation_id": "toyota_prado_j150_2009",
+  "generation_name": "Land Cruiser Prado IV (J150)",
+  "year_start": 2009, "year_end": 2023,
+  "body_type": "suv", "market": "import",
+  "production": "Toyota Tahara, Япония",
+  "facelift": 2017, "platform": "Toyota IMV (рамная)",
+  "engines": [
+    { "code": "2TR-FE", "volume": "2.7L", "type": "R4", "fuel": "petrol", "power_hp": 163 },
+    { "code": "1GR-FE", "volume": "4.0L", "type": "V6", "fuel": "petrol", "power_hp": 282 },
+    { "code": "1GD-FTV", "volume": "2.8L", "type": "R4 Turbo Diesel", "fuel": "diesel", "power_hp": 177 }
+  ],
+  "transmissions": ["АКПП-5 (2.7)", "АКПП-6 Aisin (4.0/2.8D)"],
+  "drivetrains": ["Full-Time AWD + блокировка межосевого"],
+  "popularity_ru": "very_high",
+  "notes": "Долгожитель — 2009-2023. Рамный. 3 рестайлинга (2013, 2017, 2020). 1GD-FTV 2.8D с DPF — проблемы регенерации. 1GR-FE 4.0 V6 — надёжен но прожорлив. Культовый в РФ."
+}

@@ -1,0 +1,18 @@
+{
+  "generation_id": "kia_optima_jf_2015",
+  "generation_name": "Optima IV (JF)",
+  "year_start": 2015, "year_end": 2020,
+  "body_type": "sedan", "market": "local_assembly",
+  "production": "Автотор, Калининград",
+  "facelift": 2018, "platform": "Hyundai-Kia Y6",
+  "engines": [
+    { "code": "G4NA", "volume": "2.0L", "type": "R4 Theta II MPI", "fuel": "petrol", "power_hp": 150 },
+    { "code": "G4KD", "volume": "2.0L", "type": "R4 Theta II GDI", "fuel": "petrol", "power_hp": 165 },
+    { "code": "G4KJ", "volume": "2.4L", "type": "R4 Theta II GDI", "fuel": "petrol", "power_hp": 188 },
+    { "code": "G4FJ", "volume": "1.6L", "type": "R4 Gamma T-GDI Turbo", "fuel": "petrol", "power_hp": 177 }
+  ],
+  "transmissions": ["АКПП-6 Aisin", "DCT-7 (1.6T)"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "high",
+  "notes": "Четвёртое поколение. Сборка Автотор. G4NA/G4KD/G4KJ Theta II — проблема задиров цилиндров (каталитическая пыль). G4FJ 1.6T — топовый с DCT-7. LCI 2018."
+}

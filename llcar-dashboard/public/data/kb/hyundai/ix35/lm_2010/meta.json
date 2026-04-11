@@ -1,0 +1,16 @@
+{
+  "generation_id": "hyundai_ix35_lm_2010",
+  "generation_name": "ix35 / Tucson (LM)",
+  "year_start": 2010, "year_end": 2015,
+  "body_type": "suv", "market": "local_assembly",
+  "production": "Hyundai Motor Manufacturing Rus, СПб",
+  "facelift": 2013, "platform": "Hyundai-Kia Y5",
+  "engines": [
+    { "code": "G4NA", "volume": "2.0L", "type": "R4 Theta II MPI", "fuel": "petrol", "power_hp": 150 },
+    { "code": "D4HA", "volume": "2.0L", "type": "R4 CRDi Turbo Diesel", "fuel": "diesel", "power_hp": 184 }
+  ],
+  "transmissions": ["МКПП-5 (2.0)", "МКПП-6 (дизель)", "АКПП-6 Aisin"],
+  "drivetrains": ["FWD", "AWD (муфта)"],
+  "popularity_ru": "high",
+  "notes": "Сборка Hyundai СПб. G4NA Theta II — задиры цилиндров (каталитическая пыль). D4HA дизель — форсунки, DPF. LCI 2013. Заменён Tucson TL в 2015."
+}

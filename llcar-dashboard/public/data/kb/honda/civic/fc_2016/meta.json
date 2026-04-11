@@ -1,0 +1,15 @@
+{
+  "generation_id": "honda_civic_fc_2016",
+  "generation_name": "Civic X (FC/FK)",
+  "year_start": 2016, "year_end": 2021,
+  "body_type": "sedan/hatchback", "market": "import",
+  "production": "Honda Alliston, Канада / Swindon, UK",
+  "facelift": 2019, "platform": "Honda Global Compact",
+  "engines": [
+    { "code": "L15B7", "volume": "1.5L", "type": "R4 VTEC Turbo", "fuel": "petrol", "power_hp": 182 }
+  ],
+  "transmissions": ["CVT Honda", "МКПП-6 (хэтчбек)"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "medium",
+  "notes": "Десятое поколение. L15B7 1.5T — fuel dilution в холодном климате. CVT основная. Type R FK8 — 2.0T K20C1 320 л.с. (редок). LCI 2019."
+}

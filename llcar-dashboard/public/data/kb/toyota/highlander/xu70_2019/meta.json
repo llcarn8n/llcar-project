@@ -1,0 +1,16 @@
+{
+  "generation_id": "toyota_highlander_xu70_2019",
+  "generation_name": "Highlander IV (XU70)",
+  "year_start": 2019, "year_end": 2022,
+  "body_type": "suv", "market": "import",
+  "production": "Toyota Princeton, США",
+  "facelift": null, "platform": "Toyota TNGA-K",
+  "engines": [
+    { "code": "2GR-FKS", "volume": "3.5L", "type": "V6 D-4S", "fuel": "petrol", "power_hp": 249 },
+    { "code": "A25A-FXS", "volume": "2.5L", "type": "R4 Hybrid", "fuel": "petrol", "power_hp": 243 }
+  ],
+  "transmissions": ["АКПП-8 Aisin (3.5)", "E-CVT (гибрид)"],
+  "drivetrains": ["FWD", "AWD Dynamic Torque Vectoring"],
+  "popularity_ru": "high",
+  "notes": "Четвёртое поколение на TNGA-K. Princeton USA. 7-местный. 2GR-FKS дефорсирован для РФ (249 л.с. вместо 295). Гибрид E-Four. Продажи прекращены 2022."
+}
