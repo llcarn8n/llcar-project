@@ -1,0 +1,17 @@
+{
+  "generation_id": "renault_sandero_b8_2014",
+  "generation_name": "Sandero II (B8)",
+  "year_start": 2014, "year_end": 2022,
+  "body_type": "hatchback", "market": "local_assembly",
+  "production": "АвтоВАЗ, Тольятти / Renault Москва",
+  "facelift": 2018, "platform": "Renault-Nissan B0+",
+  "engines": [
+    { "code": "K7M", "volume": "1.6L", "type": "R4 8V", "fuel": "petrol", "power_hp": 82 },
+    { "code": "K4M", "volume": "1.6L", "type": "R4 16V", "fuel": "petrol", "power_hp": 102 },
+    { "code": "H4M", "volume": "1.6L", "type": "R4 16V (HR16DE)", "fuel": "petrol", "power_hp": 113 }
+  ],
+  "transmissions": ["МКПП-5", "АКПП-4 Jatco (K4M)", "CVT Jatco JF015E (H4M)"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "very_high",
+  "notes": "Второе поколение на B0+. Сборка АвтоВАЗ/Москва. Stepway — кросс-версия клиренс 195мм. H4M (HR16DE) с CVT — с 2018 рестайлинга. Renault ушёл из РФ 2022."
+}

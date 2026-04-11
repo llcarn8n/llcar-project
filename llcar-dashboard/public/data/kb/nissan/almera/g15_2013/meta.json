@@ -1,0 +1,15 @@
+{
+  "generation_id": "nissan_almera_g15_2013",
+  "generation_name": "Almera III (G15)",
+  "year_start": 2013, "year_end": 2018,
+  "body_type": "sedan", "market": "local_assembly",
+  "production": "АвтоВАЗ, Тольятти",
+  "facelift": null, "platform": "Renault B0 (Logan I base)",
+  "engines": [
+    { "code": "K4M", "volume": "1.6L", "type": "R4 16V", "fuel": "petrol", "power_hp": 102 }
+  ],
+  "transmissions": ["МКПП-5", "АКПП-4 Jatco JF404E"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "high",
+  "notes": "На базе Renault Logan I. Сборка АвтоВАЗ Тольятти. Один мотор K4M. АКПП-4 Jatco — простая но вялая. Огромный парк в такси."
+}

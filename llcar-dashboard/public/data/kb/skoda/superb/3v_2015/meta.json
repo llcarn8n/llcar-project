@@ -1,0 +1,17 @@
+{
+  "generation_id": "skoda_superb_3v_2015",
+  "generation_name": "Superb III (3V)",
+  "year_start": 2015, "year_end": 2022,
+  "body_type": "sedan/liftback", "market": "import",
+  "production": "Skoda Kvasiny, Чехия",
+  "facelift": 2019, "platform": "VW MQB-B",
+  "engines": [
+    { "code": "CZCA", "volume": "1.4L", "type": "R4 TSI", "fuel": "petrol", "power_hp": 150 },
+    { "code": "CJSA", "volume": "1.8L", "type": "R4 TSI", "fuel": "petrol", "power_hp": 180 },
+    { "code": "CZPA", "volume": "2.0L", "type": "R4 TSI", "fuel": "petrol", "power_hp": 220 }
+  ],
+  "transmissions": ["DSG-7 DQ381 (мокрое)", "DSG-6 DQ250"],
+  "drivetrains": ["FWD", "4x4 (Haldex)"],
+  "popularity_ru": "medium",
+  "notes": "Третье поколение на MQB-B. Kvasiny Чехия. Лифтбек — огромный багажник 625л. DSG-7 DQ381 мокрое. 4x4 Haldex опция на 2.0 TSI. LCI 2019."
+}

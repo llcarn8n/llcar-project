@@ -1,0 +1,17 @@
+{
+  "generation_id": "lada_largus_r90_2012",
+  "generation_name": "Largus (R90/F90)",
+  "year_start": 2012, "year_end": null,
+  "body_type": "wagon/van", "market": "local_assembly",
+  "production": "АвтоВАЗ, Тольятти",
+  "facelift": 2021, "platform": "Renault-Nissan B0",
+  "engines": [
+    { "code": "K7M", "volume": "1.6L", "type": "R4 8V", "fuel": "petrol", "power_hp": 84 },
+    { "code": "K4M", "volume": "1.6L", "type": "R4 16V", "fuel": "petrol", "power_hp": 102 },
+    { "code": "ВАЗ-21129", "volume": "1.6L", "type": "R4 16V", "fuel": "petrol", "power_hp": 106 }
+  ],
+  "transmissions": ["МКПП-5", "AMT-5 (робот, с 2019)"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "very_high",
+  "notes": "На базе Dacia Logan MCV. АвтоВАЗ Тольятти. С 2021 — мотор ВАЗ-21129 вместо Renault K4M. 5/7-местный универсал и фургон. AMT робот с 2019 — рывки. Cross версия — увеличенный клиренс."
+}

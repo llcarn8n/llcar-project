@@ -1,0 +1,19 @@
+{
+  "generation_id": "vw_passat_b8_2015",
+  "generation_name": "Passat VIII (B8/3G)",
+  "year_start": 2015, "year_end": 2022,
+  "body_type": "sedan/wagon", "market": "import",
+  "production": "VW Emden, Германия",
+  "facelift": 2019, "platform": "VW MQB-B",
+  "engines": [
+    { "code": "CZCA", "volume": "1.4L", "type": "R4 TSI", "fuel": "petrol", "power_hp": 150 },
+    { "code": "CZDA", "volume": "1.4L", "type": "R4 TSI ACT", "fuel": "petrol", "power_hp": 150 },
+    { "code": "CJSA/DADA", "volume": "1.8L", "type": "R4 TSI", "fuel": "petrol", "power_hp": 180 },
+    { "code": "CZPA", "volume": "2.0L", "type": "R4 TSI", "fuel": "petrol", "power_hp": 220 },
+    { "code": "DCXA", "volume": "2.0L", "type": "R4 TDI", "fuel": "diesel", "power_hp": 150 }
+  ],
+  "transmissions": ["DSG-7 DQ381 (мокрое)", "DSG-6 DQ250 (мокрое)"],
+  "drivetrains": ["FWD", "4Motion AWD"],
+  "popularity_ru": "medium",
+  "notes": "Восьмое поколение на MQB-B. Emden Германия. DSG-7 DQ381 мокрое сцепление (надёжнее DQ200). LCI 2019. 4Motion опция. Продажи прекращены 2022."
+}
