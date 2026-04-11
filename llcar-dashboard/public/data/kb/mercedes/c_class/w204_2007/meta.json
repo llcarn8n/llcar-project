@@ -1,0 +1,24 @@
+{
+  "generation_id": "mercedes_c_class_w204_2007",
+  "generation_name": "C-Class III (W204/S204/C204)",
+  "year_start": 2007,
+  "year_end": 2014,
+  "body_type": "sedan/wagon/coupe",
+  "market": "import",
+  "production": "BMW Бремен, Германия",
+  "facelift": 2011,
+  "platform": "Mercedes W204 (pre-MRA)",
+  "engines": [
+    { "code": "M271", "volume": "1.8L", "type": "R4 Kompressor", "fuel": "petrol", "power_hp": 156 },
+    { "code": "M271", "volume": "1.8L", "type": "R4 Kompressor", "fuel": "petrol", "power_hp": 184 },
+    { "code": "M274 DE16", "volume": "1.6L", "type": "R4 Turbo (LCI)", "fuel": "petrol", "power_hp": 156 },
+    { "code": "M274 DE18", "volume": "1.8L", "type": "R4 Turbo (LCI)", "fuel": "petrol", "power_hp": 204 },
+    { "code": "M272 E30", "volume": "3.0L", "type": "V6", "fuel": "petrol", "power_hp": 231 },
+    { "code": "M276 DE35", "volume": "3.5L", "type": "V6 DI (LCI)", "fuel": "petrol", "power_hp": 306 },
+    { "code": "OM651", "volume": "2.1L", "type": "R4 Turbo Diesel", "fuel": "diesel", "power_hp": 170 }
+  ],
+  "transmissions": ["7G-Tronic (722.9)", "7G-Tronic Plus (LCI)"],
+  "drivetrains": ["RWD", "4MATIC AWD"],
+  "popularity_ru": "high",
+  "notes": "Третье поколение. Импорт из Бремена, на Автоторе НЕ собирался. LCI 2011 — переход на M274 турбо. M156 V8 6.2L на C63 AMG. Дизели — серый импорт, редко."
+}

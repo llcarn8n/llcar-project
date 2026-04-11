@@ -1,0 +1,24 @@
+{
+  "generation_id": "mercedes_e_class_w213_2016",
+  "generation_name": "E-Class V (W213/S213)",
+  "year_start": 2016,
+  "year_end": 2022,
+  "body_type": "sedan/wagon/coupe",
+  "market": "local_assembly",
+  "production": "Mercedes Manufacturing Rus, Солнечногорск / Зиндельфинген",
+  "facelift": 2020,
+  "platform": "Mercedes MRA",
+  "engines": [
+    { "code": "M274 DE20", "volume": "2.0L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 184 },
+    { "code": "M264 E20", "volume": "2.0L", "type": "R4 Turbo + 48V MHEV (LCI)", "fuel": "petrol", "power_hp": 197 },
+    { "code": "M276 DE30", "volume": "3.0L", "type": "V6 BiTurbo", "fuel": "petrol", "power_hp": 367 },
+    { "code": "M256 E30", "volume": "3.0L", "type": "R6 Turbo + 48V (AMG 53)", "fuel": "petrol", "power_hp": 435 },
+    { "code": "M177 DE40", "volume": "4.0L", "type": "V8 BiTurbo (AMG 63)", "fuel": "petrol", "power_hp": 612 },
+    { "code": "OM654 DE20", "volume": "2.0L", "type": "R4 Turbo Diesel", "fuel": "diesel", "power_hp": 194 },
+    { "code": "OM656 DE29", "volume": "2.9L", "type": "R6 BiTurbo Diesel", "fuel": "diesel", "power_hp": 340 }
+  ],
+  "transmissions": ["9G-Tronic (725.0)"],
+  "drivetrains": ["RWD", "4MATIC AWD", "4MATIC+ (AMG)"],
+  "popularity_ru": "high",
+  "notes": "Пятое поколение на платформе MRA. Собирался на заводе в Солнечногорске с 2019. LCI 2020 — M264 EQ Boost на базовых. Продажи прекращены март 2022."
+}

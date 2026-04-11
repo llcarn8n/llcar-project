@@ -1,0 +1,23 @@
+{
+  "generation_id": "mercedes_glc_x253_2015",
+  "generation_name": "GLC I (X253/C253)",
+  "year_start": 2015,
+  "year_end": 2022,
+  "body_type": "suv/coupe",
+  "market": "local_assembly",
+  "production": "Mercedes Manufacturing Rus, Солнечногорск / Бремен / Valmet Финляндия",
+  "facelift": 2019,
+  "platform": "Mercedes MRA (shared with C-Class W205)",
+  "engines": [
+    { "code": "M274 DE20", "volume": "2.0L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 211 },
+    { "code": "M264 E20", "volume": "2.0L", "type": "R4 Turbo + 48V MHEV (LCI)", "fuel": "petrol", "power_hp": 258 },
+    { "code": "M276 DE30", "volume": "3.0L", "type": "V6 BiTurbo (AMG 43)", "fuel": "petrol", "power_hp": 390 },
+    { "code": "M177 DE40", "volume": "4.0L", "type": "V8 BiTurbo (AMG 63 S)", "fuel": "petrol", "power_hp": 510 },
+    { "code": "OM651 DE22", "volume": "2.1L", "type": "R4 Turbo Diesel", "fuel": "diesel", "power_hp": 204 },
+    { "code": "OM654 DE20", "volume": "2.0L", "type": "R4 Turbo Diesel (LCI)", "fuel": "diesel", "power_hp": 245 }
+  ],
+  "transmissions": ["9G-Tronic (725.0)"],
+  "drivetrains": ["4MATIC AWD"],
+  "popularity_ru": "very_high",
+  "notes": "Первое поколение GLC на базе C-Class W205. Собирался на заводе в Солнечногорске. LCI 2019 — M264 EQ Boost, OM654 вместо OM651. 4MATIC стандарт для РФ. Продажи прекращены март 2022."
+}

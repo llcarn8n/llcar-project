@@ -1,0 +1,23 @@
+{
+  "generation_id": "mercedes_e_class_w212_2009",
+  "generation_name": "E-Class IV (W212/S212)",
+  "year_start": 2009,
+  "year_end": 2016,
+  "body_type": "sedan/wagon/coupe",
+  "market": "import",
+  "production": "Mercedes Зиндельфинген, Германия",
+  "facelift": 2013,
+  "platform": "Mercedes W212",
+  "engines": [
+    { "code": "M271 DE18", "volume": "1.8L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 184 },
+    { "code": "M274 DE20", "volume": "2.0L", "type": "R4 Turbo (LCI)", "fuel": "petrol", "power_hp": 211 },
+    { "code": "M276 DE35", "volume": "3.5L", "type": "V6 DI", "fuel": "petrol", "power_hp": 306 },
+    { "code": "M278 DE46", "volume": "4.7L", "type": "V8 BiTurbo", "fuel": "petrol", "power_hp": 408 },
+    { "code": "M157 DE55", "volume": "5.5L", "type": "V8 BiTurbo (E63 AMG)", "fuel": "petrol", "power_hp": 585 },
+    { "code": "OM651 DE22", "volume": "2.1L", "type": "R4 Turbo Diesel", "fuel": "diesel", "power_hp": 204 }
+  ],
+  "transmissions": ["7G-Tronic Plus (722.9)", "9G-Tronic (LCI, дизели)"],
+  "drivetrains": ["RWD", "4MATIC AWD"],
+  "popularity_ru": "high",
+  "notes": "Четвёртое поколение. Импорт из Зиндельфингена, в России НЕ собирался. LCI 2013 — M274 вместо M271. Пневмоподвеска AIRMATIC опционально."
+}

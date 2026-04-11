@@ -1,0 +1,23 @@
+{
+  "generation_id": "mercedes_c_class_w205_2014",
+  "generation_name": "C-Class IV (W205/C205)",
+  "year_start": 2014,
+  "year_end": 2021,
+  "body_type": "sedan/coupe",
+  "market": "import",
+  "production": "Mercedes Бремен, Германия",
+  "facelift": 2018,
+  "platform": "Mercedes MRA",
+  "engines": [
+    { "code": "M274 DE16", "volume": "1.6L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 156 },
+    { "code": "M274 DE20", "volume": "2.0L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 184 },
+    { "code": "M264 DE15", "volume": "1.5L", "type": "R4 Turbo + EQ Boost 48V (LCI)", "fuel": "petrol", "power_hp": 184 },
+    { "code": "M264 DE20", "volume": "2.0L", "type": "R4 Turbo (LCI)", "fuel": "petrol", "power_hp": 249 },
+    { "code": "M276 DE30", "volume": "3.0L", "type": "V6 BiTurbo (C43 AMG)", "fuel": "petrol", "power_hp": 390 },
+    { "code": "M177 DE40", "volume": "4.0L", "type": "V8 BiTurbo (C63 AMG)", "fuel": "petrol", "power_hp": 510 }
+  ],
+  "transmissions": ["7G-Tronic Plus (722.9)", "9G-Tronic (725.0, LCI)"],
+  "drivetrains": ["RWD", "4MATIC AWD"],
+  "popularity_ru": "high",
+  "notes": "Четвёртое поколение на платформе MRA. Импорт из Бремена. LCI 2018 — M264 с EQ Boost 48V mild-hybrid, 9G-Tronic на всех версиях. Дизели после 2018 в РФ не поставлялись."
+}
