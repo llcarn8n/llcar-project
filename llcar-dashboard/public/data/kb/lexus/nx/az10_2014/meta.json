@@ -1,0 +1,16 @@
+{
+  "generation_id": "lexus_nx_az10_2014",
+  "generation_name": "NX I (AZ10)",
+  "year_start": 2014, "year_end": 2021,
+  "body_type": "suv", "market": "import",
+  "production": "Toyota Miyata, Япония",
+  "facelift": 2017, "platform": "Toyota MC (RAV4 base)",
+  "engines": [
+    { "code": "8AR-FTS", "volume": "2.0L", "type": "R4 Turbo (NX 200t/300)", "fuel": "petrol", "power_hp": 238 },
+    { "code": "2AR-FXE", "volume": "2.5L", "type": "R4 Hybrid (NX 300h)", "fuel": "petrol", "power_hp": 197 }
+  ],
+  "transmissions": ["АКПП-6 Aisin (2.0T)", "E-CVT (гибрид)"],
+  "drivetrains": ["FWD", "AWD"],
+  "popularity_ru": "high",
+  "notes": "Первое поколение NX. NX 200t переименован в NX 300 в 2017. 8AR-FTS — масложор. NX 300h — гибрид. LCI 2017. Продажи прекращены 2021."
+}

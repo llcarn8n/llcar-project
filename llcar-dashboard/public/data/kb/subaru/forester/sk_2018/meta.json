@@ -1,0 +1,16 @@
+{
+  "generation_id": "subaru_forester_sk_2018",
+  "generation_name": "Forester V (SK)",
+  "year_start": 2018, "year_end": 2022,
+  "body_type": "suv", "market": "import",
+  "production": "Subaru Gunma, Япония",
+  "facelift": 2021, "platform": "Subaru Global Platform (SGP)",
+  "engines": [
+    { "code": "FB25", "volume": "2.5L", "type": "H4 Boxer", "fuel": "petrol", "power_hp": 185 },
+    { "code": "FB20", "volume": "2.0L", "type": "H4 Boxer + e-Boxer (гибрид)", "fuel": "petrol", "power_hp": 150 }
+  ],
+  "transmissions": ["CVT Lineartronic"],
+  "drivetrains": ["Symmetrical AWD"],
+  "popularity_ru": "medium",
+  "notes": "Пятое поколение на SGP. Оппозитные двигатели Boxer. Symmetrical AWD + X-Mode стандарт. FB25 — масложор (маслосъёмные кольца). CVT Lineartronic. e-Boxer гибрид ограниченно в РФ. Продажи прекращены 2022."
+}

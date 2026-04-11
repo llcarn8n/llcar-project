@@ -1,0 +1,16 @@
+{
+  "generation_id": "subaru_outback_bs_2014",
+  "generation_name": "Outback V (BS)",
+  "year_start": 2014, "year_end": 2020,
+  "body_type": "wagon/suv", "market": "import",
+  "production": "Subaru Indiana, США / Gunma, Япония",
+  "facelift": 2017, "platform": "Subaru SGA (pre-SGP)",
+  "engines": [
+    { "code": "FB25", "volume": "2.5L", "type": "H4 Boxer", "fuel": "petrol", "power_hp": 175 },
+    { "code": "FB36", "volume": "3.6L", "type": "H6 Boxer", "fuel": "petrol", "power_hp": 260 }
+  ],
+  "transmissions": ["CVT Lineartronic"],
+  "drivetrains": ["Symmetrical AWD"],
+  "popularity_ru": "medium",
+  "notes": "Пятое поколение Outback. FB25 2.5 Boxer — основной мотор, масложор. FB36 3.6 H6 — мощный, но редкий. CVT Lineartronic. Symmetrical AWD стандарт. LCI 2017."
+}

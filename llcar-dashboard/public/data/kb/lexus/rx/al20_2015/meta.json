@@ -1,0 +1,17 @@
+{
+  "generation_id": "lexus_rx_al20_2015",
+  "generation_name": "RX IV (AL20)",
+  "year_start": 2015, "year_end": 2022,
+  "body_type": "suv", "market": "import",
+  "production": "Toyota Miyata, Япония / Cambridge, Канада",
+  "facelift": 2019, "platform": "Toyota TNGA-K",
+  "engines": [
+    { "code": "8AR-FTS", "volume": "2.0L", "type": "R4 Turbo (RX 200t/300)", "fuel": "petrol", "power_hp": 238 },
+    { "code": "2GR-FKS", "volume": "3.5L", "type": "V6 (RX 350)", "fuel": "petrol", "power_hp": 300 },
+    { "code": "2GR-FXS", "volume": "3.5L", "type": "V6 Hybrid (RX 450h)", "fuel": "petrol", "power_hp": 313 }
+  ],
+  "transmissions": ["АКПП-6 Aisin (2.0T)", "АКПП-8 Aisin (3.5)", "E-CVT (гибрид)"],
+  "drivetrains": ["FWD", "AWD"],
+  "popularity_ru": "very_high",
+  "notes": "Четвёртое поколение на TNGA-K. RX 200t переименован в RX 300 в 2017. 8AR-FTS — масложор (проблема маслосъёмных колец). RX 450h — гибрид. LCI 2019. Продажи в РФ прекращены 2022."
+}
