@@ -1,0 +1,19 @@
+{
+  "generation_id": "audi_q5_8r_2008",
+  "generation_name": "Q5 I (8R)",
+  "year_start": 2008, "year_end": 2017,
+  "body_type": "suv",
+  "market": "import", "production": "Audi Ингольштадт",
+  "facelift": 2012, "platform": "Audi MLB",
+  "engines": [
+    { "code": "CDNC/CNCD", "volume": "2.0L", "type": "R4 TFSI Turbo", "fuel": "petrol", "power_hp": 211 },
+    { "code": "CTUC", "volume": "2.0L", "type": "R4 TFSI Turbo (LCI)", "fuel": "petrol", "power_hp": 230 },
+    { "code": "CALB", "volume": "3.2L", "type": "V6 FSI", "fuel": "petrol", "power_hp": 270 },
+    { "code": "CAHA/CNHA", "volume": "2.0L", "type": "R4 TDI", "fuel": "diesel", "power_hp": 177 },
+    { "code": "CCWA", "volume": "3.0L", "type": "V6 TDI", "fuel": "diesel", "power_hp": 240 }
+  ],
+  "transmissions": ["S tronic DSG-7 (DL501)", "Tiptronic 8-ступ."],
+  "drivetrains": ["quattro AWD (Torsen)"],
+  "popularity_ru": "high",
+  "notes": "Первое поколение Q5. Quattro Torsen стандарт. 2.0 TFSI CDNC — масложор, цепь ГРМ сзади. LCI 2012 — исправлены ранние проблемы. S tronic DL501 — мехатроник."
+}

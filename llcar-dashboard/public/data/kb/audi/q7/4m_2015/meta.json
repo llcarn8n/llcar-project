@@ -1,0 +1,18 @@
+{
+  "generation_id": "audi_q7_4m_2015",
+  "generation_name": "Q7 II (4M)",
+  "year_start": 2015, "year_end": 2022,
+  "body_type": "suv",
+  "market": "import", "production": "Audi Братислава, Словакия",
+  "facelift": 2019, "platform": "Audi MLBevo",
+  "engines": [
+    { "code": "CYJA/CZZA", "volume": "2.0L", "type": "R4 TFSI Turbo 45", "fuel": "petrol", "power_hp": 252 },
+    { "code": "CREC", "volume": "3.0L", "type": "V6 TFSI Supercharged", "fuel": "petrol", "power_hp": 333 },
+    { "code": "DCBC", "volume": "3.0L", "type": "V6 TFSI Turbo (LCI)", "fuel": "petrol", "power_hp": 340 },
+    { "code": "CRTE/CZAC", "volume": "3.0L", "type": "V6 TDI", "fuel": "diesel", "power_hp": 249 }
+  ],
+  "transmissions": ["Tiptronic 8-ступ. Aisin"],
+  "drivetrains": ["quattro AWD (Torsen)"],
+  "popularity_ru": "high",
+  "notes": "Второе поколение Q7 на MLBevo. Братислава. 7-местный. Quattro Torsen. Пневмоподвеска опция. LCI 2019. Tiptronic Aisin 8-ступ. Продажи прекращены 2022."
+}

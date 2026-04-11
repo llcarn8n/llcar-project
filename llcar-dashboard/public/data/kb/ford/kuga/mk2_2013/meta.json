@@ -1,0 +1,17 @@
+{
+  "generation_id": "ford_kuga_mk2_2013",
+  "generation_name": "Kuga II (Mk2)",
+  "year_start": 2013, "year_end": 2019,
+  "body_type": "suv",
+  "market": "local_assembly", "production": "Ford Sollers, Елабуга, Татарстан",
+  "facelift": 2016, "platform": "Ford C1/Global C",
+  "engines": [
+    { "code": "M8MA", "volume": "1.5L", "type": "R4 EcoBoost Turbo", "fuel": "petrol", "power_hp": 150 },
+    { "code": "JTMA", "volume": "1.6L", "type": "R4 EcoBoost Turbo", "fuel": "petrol", "power_hp": 150 },
+    { "code": "DURATEC-HE", "volume": "2.5L", "type": "R5 Duratec", "fuel": "petrol", "power_hp": 150 }
+  ],
+  "transmissions": ["МКПП-6", "PowerShift DCT-6 (DPS6)", "АКПП-6 Aisin"],
+  "drivetrains": ["FWD", "AWD (Haldex)"],
+  "popularity_ru": "high",
+  "notes": "Сборка Ford Sollers Елабуга. 1.5/1.6 EcoBoost + PowerShift — проблемы с DCT. 2.5 Duratec + АКПП-6 Aisin — надёжнее. AWD Haldex. Ford ушёл из РФ 2019."
+}

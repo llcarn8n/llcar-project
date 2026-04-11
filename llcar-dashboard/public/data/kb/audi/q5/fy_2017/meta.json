@@ -1,0 +1,18 @@
+{
+  "generation_id": "audi_q5_fy_2017",
+  "generation_name": "Q5 II (FY)",
+  "year_start": 2017, "year_end": 2022,
+  "body_type": "suv",
+  "market": "import", "production": "Audi SQ5 Мексика / Ингольштадт",
+  "facelift": 2020, "platform": "Audi MLBevo",
+  "engines": [
+    { "code": "DAXB/DBPA", "volume": "2.0L", "type": "R4 TFSI Turbo 45", "fuel": "petrol", "power_hp": 249 },
+    { "code": "CZHA", "volume": "2.0L", "type": "R4 TFSI Turbo 35", "fuel": "petrol", "power_hp": 150 },
+    { "code": "DEUA", "volume": "2.0L", "type": "R4 TDI 40", "fuel": "diesel", "power_hp": 190 },
+    { "code": "DCPC", "volume": "3.0L", "type": "V6 TFSI (SQ5)", "fuel": "petrol", "power_hp": 354 }
+  ],
+  "transmissions": ["S tronic DSG-7 (DL382)", "Tiptronic 8-ступ."],
+  "drivetrains": ["quattro ultra AWD", "quattro Torsen (SQ5)"],
+  "popularity_ru": "high",
+  "notes": "Второе поколение на MLBevo. Quattro ultra на 2.0 (подключаемый), Torsen на SQ5. Virtual Cockpit. LCI 2020. Продажи прекращены 2022."
+}

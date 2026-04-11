@@ -1,0 +1,18 @@
+{
+  "generation_id": "audi_a4_b8_2008",
+  "generation_name": "A4 IV (B8/8K)",
+  "year_start": 2008, "year_end": 2015,
+  "body_type": "sedan/wagon",
+  "market": "import", "production": "Audi Ингольштадт/Неккарзульм",
+  "facelift": 2012, "platform": "Audi MLB",
+  "engines": [
+    { "code": "CDNC/CAEB", "volume": "2.0L", "type": "R4 TFSI Turbo", "fuel": "petrol", "power_hp": 211 },
+    { "code": "CDHB", "volume": "1.8L", "type": "R4 TFSI Turbo", "fuel": "petrol", "power_hp": 170 },
+    { "code": "CJEB", "volume": "1.8L", "type": "R4 TFSI Turbo (LCI)", "fuel": "petrol", "power_hp": 170 },
+    { "code": "CAHA/CGLC", "volume": "2.0L", "type": "R4 TDI", "fuel": "diesel", "power_hp": 177 }
+  ],
+  "transmissions": ["Multitronic CVT", "S tronic DSG-7 (DL501)", "МКПП-6"],
+  "drivetrains": ["FWD", "quattro AWD"],
+  "popularity_ru": "high",
+  "notes": "Четвёртое поколение на MLB. 2.0 TFSI ранних ревизий (CDNC) — масложор. Цепь ГРМ сзади двигателя. Multitronic CVT на FWD, S tronic DL501 на quattro. LCI 2012."
+}

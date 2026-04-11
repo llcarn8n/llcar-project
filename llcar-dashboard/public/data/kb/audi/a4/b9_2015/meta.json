@@ -1,0 +1,18 @@
+{
+  "generation_id": "audi_a4_b9_2015",
+  "generation_name": "A4 V (B9/8W)",
+  "year_start": 2015, "year_end": 2022,
+  "body_type": "sedan/wagon",
+  "market": "import", "production": "Audi Ингольштадт/Неккарзульм",
+  "facelift": 2019, "platform": "Audi MLBevo",
+  "engines": [
+    { "code": "CZHA/DBPA", "volume": "1.4L", "type": "R4 TFSI Turbo", "fuel": "petrol", "power_hp": 150 },
+    { "code": "CYRA/DKNA", "volume": "2.0L", "type": "R4 TFSI Turbo", "fuel": "petrol", "power_hp": 190 },
+    { "code": "DESA", "volume": "2.0L", "type": "R4 TFSI Turbo 45", "fuel": "petrol", "power_hp": 249 },
+    { "code": "DEUA", "volume": "2.0L", "type": "R4 TDI", "fuel": "diesel", "power_hp": 190 }
+  ],
+  "transmissions": ["S tronic DSG-7 (DL382)", "Tiptronic 7-ступ."],
+  "drivetrains": ["FWD", "quattro ultra AWD"],
+  "popularity_ru": "high",
+  "notes": "Пятое поколение на MLBevo. Virtual Cockpit. Quattro ultra — подключаемый AWD (не Torsen). S tronic DL382 — мокрое сцепление. LCI 2019. Продажи прекращены 2022."
+}
