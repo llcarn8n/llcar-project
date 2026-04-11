@@ -1,0 +1,19 @@
+{
+  "generation_id": "mazda_cx5_kf_2017",
+  "generation_name": "CX-5 II (KF)",
+  "year_start": 2017,
+  "year_end": 2022,
+  "body_type": "suv",
+  "market": "local_assembly",
+  "production": "Mazda Sollers, Владивосток",
+  "facelift": 2021,
+  "platform": "SkyActiv",
+  "engines": [
+    { "code": "PE-VPS", "volume": "2.0L", "type": "SkyActiv-G R4", "fuel": "petrol", "power_hp": 150 },
+    { "code": "PY-VPS", "volume": "2.5L", "type": "SkyActiv-G R4", "fuel": "petrol", "power_hp": 194 }
+  ],
+  "transmissions": ["МКПП-6 SkyActiv-MT", "АКПП-6 SkyActiv-Drive"],
+  "drivetrains": ["FWD", "AWD"],
+  "popularity_ru": "very_high",
+  "notes": "Второе поколение CX-5. Сборка Mazda Sollers Владивосток (основная площадка). Дизель в РФ НЕ поставлялся. Продажи прекращены март 2022."
+}

@@ -1,0 +1,20 @@
+{
+  "generation_id": "mitsubishi_outlander_gf_2012",
+  "generation_name": "Outlander III (GF)",
+  "year_start": 2012,
+  "year_end": 2022,
+  "body_type": "suv",
+  "market": "local_assembly",
+  "production": "ПСМА Рус, Калуга",
+  "facelift": 2018,
+  "platform": "Mitsubishi GS",
+  "engines": [
+    { "code": "4B11", "volume": "2.0L", "type": "R4 MIVEC", "fuel": "petrol", "power_hp": 146 },
+    { "code": "4B12", "volume": "2.4L", "type": "R4 MIVEC", "fuel": "petrol", "power_hp": 167 },
+    { "code": "6B31", "volume": "3.0L", "type": "V6 MIVEC", "fuel": "petrol", "power_hp": 227 }
+  ],
+  "transmissions": ["CVT Jatco JF011E/JF016E (2.0/2.4)", "АКПП-6 Jatco JF613E (3.0)"],
+  "drivetrains": ["FWD", "AWD"],
+  "popularity_ru": "very_high",
+  "notes": "Третье поколение, долгожитель (2012-2022). Сборка ПСМА Рус Калуга. 3 рестайлинга (2014, 2015, 2018 Dynamic Shield). CVT JF011E на ранних → JF016E с ~2015. V6 3.0 — ремень ГРМ ~90 тыс. км. Двигатели серии B (НЕ J для РФ)."
+}

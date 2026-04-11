@@ -1,0 +1,19 @@
+{
+  "generation_id": "mitsubishi_asx_ga_2010",
+  "generation_name": "ASX I (GA)",
+  "year_start": 2010,
+  "year_end": 2022,
+  "body_type": "suv",
+  "market": "import",
+  "production": "Okazaki, Япония",
+  "facelift": 2020,
+  "platform": "Mitsubishi GS",
+  "engines": [
+    { "code": "4A92", "volume": "1.6L", "type": "R4 MIVEC", "fuel": "petrol", "power_hp": 117 },
+    { "code": "4B11", "volume": "2.0L", "type": "R4 MIVEC", "fuel": "petrol", "power_hp": 150 }
+  ],
+  "transmissions": ["МКПП-5 (1.6)", "CVT Jatco JF011E (2.0)"],
+  "drivetrains": ["FWD", "AWD"],
+  "popularity_ru": "high",
+  "notes": "Одно поколение 2010-2022, 4 рестайлинга (2012, 2016, 2020 Dynamic Shield). Импорт из Японии. 1.6 снят после 2016 — остался только 2.0 4B11. Дизель в РФ НЕ поставлялся."
+}

@@ -1,0 +1,19 @@
+{
+  "generation_id": "mitsubishi_pajero_sport_ks_2016",
+  "generation_name": "Pajero Sport III (KS)",
+  "year_start": 2016,
+  "year_end": 2022,
+  "body_type": "suv",
+  "market": "local_assembly",
+  "production": "ПСМА Рус, Калуга / Таиланд",
+  "facelift": 2019,
+  "platform": "Рама L200 (5-е поколение)",
+  "engines": [
+    { "code": "4N15", "volume": "2.4L", "type": "R4 Turbo Diesel MIVEC DI-D", "fuel": "diesel", "power_hp": 181 },
+    { "code": "6B31", "volume": "3.0L", "type": "V6 MIVEC", "fuel": "petrol", "power_hp": 209 }
+  ],
+  "transmissions": ["МКПП-6 (дизель)", "АКПП-8 Aisin (дизель/бензин)"],
+  "drivetrains": ["Super Select II AWD", "Easy Select AWD (МКПП)"],
+  "popularity_ru": "high",
+  "notes": "Рамный внедорожник на базе L200. Сборка CKD в Калуге с 2017. Super Select II (33/67 перед/зад) на АКПП. Easy Select Part-Time на МКПП. Рестайлинг 2019 Dynamic Shield. V6 6B31 — ремень ГРМ ~90 тыс. км."
+}

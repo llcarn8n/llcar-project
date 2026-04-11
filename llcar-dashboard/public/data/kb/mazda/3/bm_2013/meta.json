@@ -1,0 +1,19 @@
+{
+  "generation_id": "mazda_3_bm_2013",
+  "generation_name": "Mazda 3 III (BM/BN)",
+  "year_start": 2013,
+  "year_end": 2019,
+  "body_type": "sedan/hatchback",
+  "market": "import",
+  "production": "Hiroshima, Япония",
+  "facelift": 2016,
+  "platform": "SkyActiv",
+  "engines": [
+    { "code": "P5-VPS", "volume": "1.5L", "type": "SkyActiv-G R4", "fuel": "petrol", "power_hp": 120 },
+    { "code": "PE-VPS", "volume": "2.0L", "type": "SkyActiv-G R4", "fuel": "petrol", "power_hp": 150 }
+  ],
+  "transmissions": ["МКПП-6 SkyActiv-MT", "АКПП-6 SkyActiv-Drive"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "medium",
+  "notes": "Третье поколение. Импорт из Японии. Рестайлинг 2016 (BN) — G-Vectoring Control. Только передний привод для РФ."
+}
