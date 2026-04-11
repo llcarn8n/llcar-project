@@ -1,0 +1,16 @@
+{
+  "generation_id": "skoda_karoq_nu_2017",
+  "generation_name": "Karoq I (NU)",
+  "year_start": 2017, "year_end": 2022,
+  "body_type": "suv", "market": "local_assembly",
+  "production": "ГАЗ Нижний Новгород (SKD) / Skoda Kvasiny",
+  "facelift": 2021, "platform": "VW MQB-A1",
+  "engines": [
+    { "code": "CZCA", "volume": "1.4L", "type": "R4 TSI", "fuel": "petrol", "power_hp": 150 },
+    { "code": "CWVA", "volume": "1.6L", "type": "R4 MPI", "fuel": "petrol", "power_hp": 110 }
+  ],
+  "transmissions": ["DSG-7 DQ200 (сухое, 1.4 TSI)", "АКПП-6 Aisin (1.6 MPI)"],
+  "drivetrains": ["FWD", "4x4 Haldex (1.4 TSI)"],
+  "popularity_ru": "high",
+  "notes": "Замена Yeti. SKD сборка ГАЗ НН. DSG-7 DQ200 сухое на 1.4 TSI. 1.6 MPI + АКПП-6 — проще и надёжнее. 4x4 Haldex опция. LCI 2021."
+}

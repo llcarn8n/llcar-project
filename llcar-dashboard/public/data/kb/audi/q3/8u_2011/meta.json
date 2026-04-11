@@ -1,0 +1,17 @@
+{
+  "generation_id": "audi_q3_8u_2011",
+  "generation_name": "Q3 I (8U)",
+  "year_start": 2011, "year_end": 2018,
+  "body_type": "suv", "market": "import",
+  "production": "SEAT Martorell, Испания",
+  "facelift": 2014, "platform": "VW PQ35/MQB",
+  "engines": [
+    { "code": "CZEA", "volume": "1.4L", "type": "R4 TFSI", "fuel": "petrol", "power_hp": 150 },
+    { "code": "CULB/CPSA", "volume": "2.0L", "type": "R4 TFSI", "fuel": "petrol", "power_hp": 180 },
+    { "code": "CLJA", "volume": "2.0L", "type": "R4 TDI", "fuel": "diesel", "power_hp": 177 }
+  ],
+  "transmissions": ["S tronic DSG-7 DQ200 (сухое, FWD)", "S tronic DSG-6 DQ250 (мокрое, quattro)"],
+  "drivetrains": ["FWD", "quattro AWD (Haldex)"],
+  "popularity_ru": "medium",
+  "notes": "Первое поколение. Martorell Испания. DSG-7 DQ200 сухое — проблемы мехатроник. Quattro Haldex (подключаемый). LCI 2014."
+}

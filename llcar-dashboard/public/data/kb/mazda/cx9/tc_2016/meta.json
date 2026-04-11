@@ -1,0 +1,15 @@
+{
+  "generation_id": "mazda_cx9_tc_2016",
+  "generation_name": "CX-9 II (TC)",
+  "year_start": 2016, "year_end": 2022,
+  "body_type": "suv", "market": "import",
+  "production": "Mazda Hiroshima, Япония",
+  "facelift": 2019, "platform": "SkyActiv",
+  "engines": [
+    { "code": "PY-VPTS", "volume": "2.5L", "type": "SkyActiv-G R4 Turbo", "fuel": "petrol", "power_hp": 231 }
+  ],
+  "transmissions": ["АКПП-6 SkyActiv-Drive"],
+  "drivetrains": ["FWD", "AWD i-ACTIV"],
+  "popularity_ru": "medium",
+  "notes": "Второе поколение. Hiroshima. Один мотор PY-VPTS 2.5T. 7-местный. AWD i-ACTIV опция. LCI 2019. Mazda ушла из РФ 2022."
+}

@@ -1,0 +1,17 @@
+{
+  "generation_id": "ford_mondeo_mk5_2014",
+  "generation_name": "Mondeo V (Mk5/CD391)",
+  "year_start": 2014, "year_end": 2019,
+  "body_type": "sedan/liftback", "market": "local_assembly",
+  "production": "Ford Sollers, Всеволожск",
+  "facelift": 2016, "platform": "Ford CD4",
+  "engines": [
+    { "code": "UNCE", "volume": "1.5L", "type": "R4 EcoBoost Turbo", "fuel": "petrol", "power_hp": 160 },
+    { "code": "TNBA", "volume": "2.0L", "type": "R4 EcoBoost Turbo", "fuel": "petrol", "power_hp": 199 },
+    { "code": "HUWA", "volume": "2.5L", "type": "R5 Duratec", "fuel": "petrol", "power_hp": 149 }
+  ],
+  "transmissions": ["PowerShift DCT-6 DPS6 (1.5 EcoBoost)", "АКПП-6 Aisin (2.0/2.5)"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "medium",
+  "notes": "Пятое поколение. Всеволожск. Лифтбек — особенность для РФ. PowerShift DPS6 на 1.5 — проблемы. АКПП-6 Aisin на 2.0/2.5 — надёжнее. Ford ушёл 2019."
+}

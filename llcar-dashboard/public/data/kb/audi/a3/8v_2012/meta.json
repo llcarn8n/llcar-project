@@ -1,0 +1,17 @@
+{
+  "generation_id": "audi_a3_8v_2012",
+  "generation_name": "A3 III (8V)",
+  "year_start": 2012, "year_end": 2020,
+  "body_type": "sedan/hatchback", "market": "import",
+  "production": "Audi Ингольштадт / Györ Венгрия",
+  "facelift": 2016, "platform": "VW MQB",
+  "engines": [
+    { "code": "CZEA/CZDA", "volume": "1.4L", "type": "R4 TFSI COD", "fuel": "petrol", "power_hp": 150 },
+    { "code": "CJSA", "volume": "1.8L", "type": "R4 TFSI", "fuel": "petrol", "power_hp": 180 },
+    { "code": "CZPB", "volume": "2.0L", "type": "R4 TFSI (S3)", "fuel": "petrol", "power_hp": 310 }
+  ],
+  "transmissions": ["S tronic DSG-7 DQ200 (сухое)", "S tronic DSG-7 DQ381 (мокрое, S3)"],
+  "drivetrains": ["FWD", "quattro AWD (Haldex, S3)"],
+  "popularity_ru": "medium",
+  "notes": "Третье поколение на MQB. Седан 8VS для РФ — основной. DSG-7 DQ200 сухое — мехатроник слабое место. S3 — 310 л.с. + DQ381 мокрое + quattro. LCI 2016."
+}
