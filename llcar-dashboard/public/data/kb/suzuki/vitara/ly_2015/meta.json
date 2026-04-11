@@ -1,0 +1,16 @@
+{
+  "generation_id": "suzuki_vitara_ly_2015",
+  "generation_name": "Vitara IV (LY)",
+  "year_start": 2015, "year_end": 2022,
+  "body_type": "suv", "market": "import",
+  "production": "Magyar Suzuki, Esztergom, Венгрия",
+  "facelift": 2018, "platform": "Suzuki Global C",
+  "engines": [
+    { "code": "M16A", "volume": "1.6L", "type": "R4 VVT", "fuel": "petrol", "power_hp": 117 },
+    { "code": "K14C", "volume": "1.4L", "type": "R4 Boosterjet Turbo", "fuel": "petrol", "power_hp": 140 }
+  ],
+  "transmissions": ["МКПП-5 (1.6)", "АКПП-6 Aisin (1.6)", "АКПП-6 Aisin (1.4T)"],
+  "drivetrains": ["FWD", "AllGrip AWD"],
+  "popularity_ru": "medium",
+  "notes": "Четвёртое поколение. Сборка Венгрия (Esztergom). AllGrip — 4 режима AWD. M16A 1.6 — базовый, цепь ГРМ. K14C 1.4T Boosterjet — топовый. LCI 2018 — убран 1.6, остался только 1.4T. Suzuki ушла из РФ 2022."
+}

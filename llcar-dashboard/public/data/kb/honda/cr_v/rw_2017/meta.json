@@ -1,0 +1,16 @@
+{
+  "generation_id": "honda_cr_v_rw_2017",
+  "generation_name": "CR-V V (RW)",
+  "year_start": 2017, "year_end": 2022,
+  "body_type": "suv", "market": "import",
+  "production": "Honda East Liberty, США / Alliston, Канада",
+  "facelift": 2019, "platform": "Honda Global Compact",
+  "engines": [
+    { "code": "L15B7", "volume": "1.5L", "type": "R4 VTEC Turbo", "fuel": "petrol", "power_hp": 193 },
+    { "code": "R20A", "volume": "2.0L", "type": "R4 i-VTEC", "fuel": "petrol", "power_hp": 150 }
+  ],
+  "transmissions": ["CVT Honda"],
+  "drivetrains": ["FWD", "Real Time AWD"],
+  "popularity_ru": "medium",
+  "notes": "Пятое поколение. L15B7 1.5T — основной мотор, проблема разбавления масла бензином в холодном климате (fuel dilution). R20A 2.0 атмо — для некоторых рынков. CVT Honda. LCI 2019."
+}
