@@ -1,0 +1,19 @@
+{
+  "generation_id": "mini_countryman_f60_2017",
+  "generation_name": "Countryman II (F60)",
+  "year_start": 2017,
+  "year_end": 2024,
+  "body_type": "suv",
+  "market": "import",
+  "production": "Graz, Австрия (Magna Steyr)",
+  "facelift": 2020,
+  "platform": "BMW UKL2",
+  "engines": [
+    {"code": "B38A15A", "volume": "1.5L", "type": "R3 Turbo (Cooper)", "fuel": "petrol", "power_hp": 136},
+    {"code": "B48A20A", "volume": "2.0L", "type": "R4 Turbo (Cooper S)", "fuel": "petrol", "power_hp": 192}
+  ],
+  "transmissions": ["МКПП-6", "АКПП-6 Aisin", "АКПП-8 Aisin (ALL4)"],
+  "drivetrains": ["FWD", "AWD (ALL4)"],
+  "popularity_ru": "medium",
+  "notes": "Платформа UKL2 общая с BMW X1 F48. Производство Magna Steyr в Австрии. B38 цепь ГРМ — та же проблема что и на F56."
+}

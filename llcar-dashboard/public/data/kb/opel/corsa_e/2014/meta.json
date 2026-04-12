@@ -1,0 +1,19 @@
+{
+  "generation_id": "opel_corsa_e_2014",
+  "generation_name": "Corsa E (2014)",
+  "year_start": 2014,
+  "year_end": 2019,
+  "body_type": "hatchback",
+  "market": "used",
+  "production": "Saragossa, Испания",
+  "facelift": 2017,
+  "platform": "GM Gamma II",
+  "engines": [
+    {"code": "A12XEL", "volume": "1.2L", "type": "R4 атмо", "fuel": "petrol", "power_hp": 70},
+    {"code": "B14NET", "volume": "1.4L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 100}
+  ],
+  "transmissions": ["МКПП-5/6", "АКПП-6 Aisin TF-80SC (1.4T)"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "medium",
+  "notes": "Платформа Gamma II. B14NET — цепь ГРМ и масложор (аналогично Astra K). A12XEL — цепной, надёжнее. LCI 2017."
+}

@@ -1,0 +1,9 @@
+{
+  "brand_id": "infiniti",
+  "brand_name": {"ru": "Инфинити", "en": "Infiniti", "zh": "英菲尼迪"},
+  "country": "JP",
+  "tier": 2,
+  "powertrain_types": ["ice"],
+  "models_count": 4,
+  "data_stats": {"situations": 0, "last_updated": "2026-04-12"}
+}

@@ -1,0 +1,15 @@
+{
+  "model_id": "compass",
+  "model_name": "Compass",
+  "brand_id": "jeep",
+  "body_type": "suv",
+  "status": "parallel_import",
+  "powertrain": "ice",
+  "generations_count": 1,
+  "description_ru": "Jeep Compass второго поколения (MP) — компактный кроссовер на платформе FCA с итальянскими корнями. Двигатели 1.4T MultiAir и 2.4 Tigershark, 9AT ZF проблемный.",
+  "character": "Компактный городской кроссовер с джиповским характером.",
+  "pros": ["Проходимость для класса", "Стильный дизайн", "Полный привод AWD"],
+  "cons": ["9AT ZF рывки", "Расход 1.4T", "Дорогое ТО"],
+  "target_audience": "Молодые покупатели, выбирающие бренд Jeep в городе.",
+  "total_reviews": 40
+}

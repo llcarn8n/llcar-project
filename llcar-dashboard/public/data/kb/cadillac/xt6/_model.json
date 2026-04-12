@@ -1,0 +1,15 @@
+{
+  "model_id": "xt6",
+  "model_name": "XT6",
+  "brand_id": "cadillac",
+  "body_type": "suv",
+  "status": "parallel_import",
+  "powertrain": "ice",
+  "generations_count": 1,
+  "description_ru": "Cadillac XT6 — 3-рядный кроссовер на платформе GM C1XX. Двигатель 3.6 V6 LGX. 7 мест, просторный, но аналогичные проблемы LGX что и у XT5.",
+  "character": "7-местная американская роскошь с V6.",
+  "pros": ["7 мест", "V6 3.6 LGX", "Роскошный салон"],
+  "cons": ["Цепь ГРМ LGX", "Большой расход", "Параллельный импорт"],
+  "target_audience": "Семьи, предпочитающие американскую роскошь с 7 местами.",
+  "total_reviews": 20
+}

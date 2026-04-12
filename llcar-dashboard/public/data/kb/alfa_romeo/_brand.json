@@ -1,0 +1,9 @@
+{
+  "brand_id": "alfa_romeo",
+  "brand_name": {"ru": "Альфа Ромео", "en": "Alfa Romeo", "zh": "阿尔法·罗密欧"},
+  "country": "IT",
+  "tier": 2,
+  "powertrain_types": ["ice"],
+  "models_count": 2,
+  "data_stats": {"situations": 0, "last_updated": "2026-04-12"}
+}

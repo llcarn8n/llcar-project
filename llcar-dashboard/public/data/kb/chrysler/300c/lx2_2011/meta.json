@@ -1,0 +1,19 @@
+{
+  "generation_id": "chrysler_300c_lx2_2011",
+  "generation_name": "300C II (LX2)",
+  "year_start": 2011,
+  "year_end": 2023,
+  "body_type": "sedan",
+  "market": "import",
+  "production": "Brampton Assembly, Канада",
+  "facelift": 2015,
+  "platform": "Chrysler LX",
+  "engines": [
+    {"code": "ERB", "volume": "3.6L", "type": "V6 Pentastar", "fuel": "petrol", "power_hp": 292},
+    {"code": "EZH", "volume": "5.7L", "type": "V8 Hemi MDS", "fuel": "petrol", "power_hp": 370}
+  ],
+  "transmissions": ["АКПП-8 ZF 8HP70"],
+  "drivetrains": ["RWD", "AWD"],
+  "popularity_ru": "low",
+  "notes": "Заднеприводная платформа LX. ZF 8HP70 — мехатроник. Pentastar — рокеры RVTS. Hemi — лифтеры MDS. LCI 2015."
+}

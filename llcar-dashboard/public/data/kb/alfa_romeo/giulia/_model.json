@@ -1,0 +1,15 @@
+{
+  "model_id": "giulia",
+  "model_name": "Giulia",
+  "brand_id": "alfa_romeo",
+  "body_type": "sedan",
+  "status": "parallel_import",
+  "powertrain": "ice",
+  "generations_count": 1,
+  "description_ru": "Alfa Romeo Giulia (952) — спортивный седан заднеприводной компоновки на платформе Giorgio. Двигатели 2.0T MultiAir 200 л.с. и 2.9TT V6 Quadrifoglio 510 л.с. Масляный радиатор — слабое место.",
+  "character": "Итальянская страсть и задний привод в D-сегменте.",
+  "pros": ["Задний привод", "2.9TT V6 Quadrifoglio", "Управляемость"],
+  "cons": ["Масляный радиатор — течь", "Электрика", "Дорогой ремонт"],
+  "target_audience": "Энтузиасты, выбирающие итальянский характер и задний привод.",
+  "total_reviews": 30
+}

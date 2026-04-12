@@ -1,0 +1,19 @@
+{
+  "generation_id": "jeep_grand_cherokee_wl_2021",
+  "generation_name": "Grand Cherokee V (WL)",
+  "year_start": 2021,
+  "year_end": null,
+  "body_type": "suv",
+  "market": "parallel_import",
+  "production": "Jefferson North Assembly, США",
+  "facelift": null,
+  "platform": "Chrysler Giorgio",
+  "engines": [
+    {"code": "ERB", "volume": "3.6L", "type": "V6 Pentastar eTorque 48V", "fuel": "petrol", "power_hp": 290},
+    {"code": "EZH", "volume": "5.7L", "type": "V8 Hemi eTorque 48V", "fuel": "petrol", "power_hp": 360}
+  ],
+  "transmissions": ["АКПП-8 ZF 8HP75"],
+  "drivetrains": ["RWD", "AWD (Quadra-Trac)", "4WD (Quadra-Drive)"],
+  "popularity_ru": "low",
+  "notes": "Платформа Giorgio. eTorque — 48В мягкий гибрид (BSG 15 кВт). 7-местная версия — Grand Cherokee L."
+}

@@ -1,0 +1,15 @@
+{
+  "model_id": "qx50",
+  "model_name": "QX50",
+  "brand_id": "infiniti",
+  "body_type": "suv",
+  "status": "parallel_import",
+  "powertrain": "ice",
+  "generations_count": 1,
+  "description_ru": "Infiniti QX50 второго поколения (J55) — среднеразмерный кроссовер с уникальным мотором VC-Turbo KR20DDET с переменной степенью сжатия. Революционная технология имеет свои слабости.",
+  "character": "Технологичный премиум с компромиссной надёжностью.",
+  "pros": ["VC-Turbo технология", "Просторный салон", "AWD"],
+  "cons": ["Сложный мотор", "Дорогой ремонт", "CVT Jatco"],
+  "target_audience": "Технофилы, ценящие инновации в премиум-сегменте.",
+  "total_reviews": 30
+}

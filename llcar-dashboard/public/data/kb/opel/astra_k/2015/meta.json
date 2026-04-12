@@ -1,0 +1,19 @@
+{
+  "generation_id": "opel_astra_k_2015",
+  "generation_name": "Astra K (2015)",
+  "year_start": 2015,
+  "year_end": 2021,
+  "body_type": "hatchback",
+  "market": "used",
+  "production": "Ellesmere Port, Великобритания / Гливице, Польша",
+  "facelift": 2019,
+  "platform": "GM D2XX",
+  "engines": [
+    {"code": "B14NET", "volume": "1.4L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 125},
+    {"code": "B16DTH", "volume": "1.6L", "type": "R4 CDTi Diesel", "fuel": "diesel", "power_hp": 110}
+  ],
+  "transmissions": ["МКПП-5/6", "АКПП-6 Aisin TF-80SC", "АКПП-6 Aisin TF-81SC"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "medium",
+  "notes": "Платформа D2XX (совместно с Chevrolet Cruze). B14NET — цепь ГРМ и масложор. LCI 2019."
+}

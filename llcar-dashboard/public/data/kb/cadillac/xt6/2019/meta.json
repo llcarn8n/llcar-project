@@ -1,0 +1,18 @@
+{
+  "generation_id": "cadillac_xt6_2019",
+  "generation_name": "XT6 I (2019)",
+  "year_start": 2019,
+  "year_end": null,
+  "body_type": "suv",
+  "market": "import",
+  "production": "Spring Hill Assembly, США",
+  "facelift": null,
+  "platform": "GM C1XX",
+  "engines": [
+    {"code": "LGX", "volume": "3.6L", "type": "V6", "fuel": "petrol", "power_hp": 314}
+  ],
+  "transmissions": ["АКПП-9 Hydra-Matic 9T50"],
+  "drivetrains": ["FWD", "AWD"],
+  "popularity_ru": "low",
+  "notes": "Трёхрядный 7-местный кроссовер. LGX + 9T50. Аналогичные проблемы цепи ГРМ что и у XT5."
+}

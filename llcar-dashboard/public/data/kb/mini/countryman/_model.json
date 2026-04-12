@@ -1,0 +1,15 @@
+{
+  "model_id": "countryman",
+  "model_name": "Countryman",
+  "brand_id": "mini",
+  "body_type": "suv",
+  "status": "parallel_import",
+  "powertrain": "ice",
+  "generations_count": 1,
+  "description_ru": "MINI Countryman F60 — кроссовер на платформе BMW UKL2 (общей с BMW X1 F48). Двигатели B38/B48, возможен AWD (ALL4). Цепь ГРМ — ахиллесова пята.",
+  "character": "Кроссовер с характером MINI и практичностью BMW X1.",
+  "pros": ["ALL4 AWD", "Платформа BMW UKL", "Практичность"],
+  "cons": ["Цепь ГРМ B38", "Дорогое ТО", "Расход"],
+  "target_audience": "Покупатели, желающие MINI с кроссоверными возможностями.",
+  "total_reviews": 35
+}

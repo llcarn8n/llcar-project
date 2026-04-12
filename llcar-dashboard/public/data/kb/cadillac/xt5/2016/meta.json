@@ -1,0 +1,19 @@
+{
+  "generation_id": "cadillac_xt5_2016",
+  "generation_name": "XT5 I (2016)",
+  "year_start": 2016,
+  "year_end": null,
+  "body_type": "suv",
+  "market": "import",
+  "production": "Spring Hill Assembly, США / Шанхай, Китай",
+  "facelift": 2019,
+  "platform": "GM C1",
+  "engines": [
+    {"code": "LGX", "volume": "3.6L", "type": "V6", "fuel": "petrol", "power_hp": 314},
+    {"code": "LSY", "volume": "2.0L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 237}
+  ],
+  "transmissions": ["АКПП-8 Hydra-Matic 8L45"],
+  "drivetrains": ["FWD", "AWD"],
+  "popularity_ru": "low",
+  "notes": "LGX — цепной ГРМ, склонен к масложору. 8L45 — плавная АКПП. LCI 2019 добавил мотор 2.0T LSY."
+}

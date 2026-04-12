@@ -1,0 +1,15 @@
+{
+  "model_id": "insignia_b",
+  "model_name": "Insignia B",
+  "brand_id": "opel",
+  "body_type": "sedan",
+  "status": "used",
+  "powertrain": "ice",
+  "generations_count": 1,
+  "description_ru": "Opel Insignia B (2017) — флагманский седан/универсал Opel на платформе GM Epsilon II. Двигатели 1.5T, 2.0T и 1.6D. Коробка 8AT, слабое место — электронное рулевое и ТНВД дизеля.",
+  "character": "Немецкий бизнес-класс по доступной цене.",
+  "pros": ["Просторный", "8AT плавный", "Уровень оснащения"],
+  "cons": ["ЭУР — отказы", "ТНВД дизеля", "Слабые ЛКП"],
+  "target_audience": "Деловые люди, ценящие простор и комфорт за разумные деньги.",
+  "total_reviews": 40
+}

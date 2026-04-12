@@ -1,0 +1,19 @@
+{
+  "generation_id": "mini_cooper_f56_2013",
+  "generation_name": "Cooper III (F56)",
+  "year_start": 2013,
+  "year_end": 2023,
+  "body_type": "hatchback",
+  "market": "import",
+  "production": "Oxford, Великобритания",
+  "facelift": 2018,
+  "platform": "BMW UKL1",
+  "engines": [
+    {"code": "B38A15A", "volume": "1.5L", "type": "R3 Turbo (Cooper)", "fuel": "petrol", "power_hp": 136},
+    {"code": "B48A20A", "volume": "2.0L", "type": "R4 Turbo (Cooper S)", "fuel": "petrol", "power_hp": 192}
+  ],
+  "transmissions": ["МКПП-6 Aisin", "АКПП-6 Aisin AW6F21", "АКПП-7 DCT Aisin (Cooper S)"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "medium",
+  "notes": "Первый MINI на платформе BMW UKL. B38 — трёхцилиндровый, склонен к вытяжению цепи ГРМ. DCT — двухмассовый маховик."
+}

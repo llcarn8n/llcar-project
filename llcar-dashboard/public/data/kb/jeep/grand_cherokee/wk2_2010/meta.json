@@ -1,0 +1,19 @@
+{
+  "generation_id": "jeep_grand_cherokee_wk2_2010",
+  "generation_name": "Grand Cherokee IV (WK2)",
+  "year_start": 2010,
+  "year_end": 2021,
+  "body_type": "suv",
+  "market": "import",
+  "production": "Jefferson North Assembly, США",
+  "facelift": 2014,
+  "platform": "Chrysler WK2",
+  "engines": [
+    {"code": "ERB", "volume": "3.6L", "type": "V6 Pentastar", "fuel": "petrol", "power_hp": 290},
+    {"code": "EZH", "volume": "5.7L", "type": "V8 Hemi MDS", "fuel": "petrol", "power_hp": 360}
+  ],
+  "transmissions": ["АКПП-5 W5A580 (до 2012)", "АКПП-8 ZF 8HP70 (с 2012)"],
+  "drivetrains": ["RWD", "AWD (Quadra-Trac I/II)", "4WD (Quadra-Drive II)"],
+  "popularity_ru": "medium",
+  "notes": "Pentastar 3.6 — самый массовый мотор Chrysler. Рокеры RVTS — известная слабость. ZF 8HP70 — мехатроник. LCI 2014."
+}

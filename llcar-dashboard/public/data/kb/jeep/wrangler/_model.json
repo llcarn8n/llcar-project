@@ -1,0 +1,15 @@
+{
+  "model_id": "wrangler",
+  "model_name": "Wrangler",
+  "brand_id": "jeep",
+  "body_type": "suv",
+  "status": "parallel_import",
+  "powertrain": "ice",
+  "generations_count": 1,
+  "description_ru": "Jeep Wrangler JL — легендарный внедорожник с рамным кузовом. Двигатели Pentastar 3.6 и 2.0 турбо. Культовая проходимость Dana 44 и характерная проблема Death Wobble.",
+  "character": "Культовый внедорожник — бездорожье превыше всего.",
+  "pros": ["Рамное шасси", "Dana 44 мосты", "Культовый дизайн"],
+  "cons": ["Death Wobble", "Высокий расход", "Комфорт на шоссе"],
+  "target_audience": "Энтузиасты бездорожья и поклонники иконичного дизайна.",
+  "total_reviews": 60
+}

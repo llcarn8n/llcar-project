@@ -1,0 +1,9 @@
+{
+  "brand_id": "mini",
+  "brand_name": {"ru": "Мини", "en": "MINI", "zh": "迷你"},
+  "country": "GB",
+  "tier": 2,
+  "powertrain_types": ["ice"],
+  "models_count": 2,
+  "data_stats": {"situations": 0, "last_updated": "2026-04-12"}
+}

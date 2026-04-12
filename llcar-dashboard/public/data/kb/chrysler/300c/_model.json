@@ -1,0 +1,15 @@
+{
+  "model_id": "300c",
+  "model_name": "300C",
+  "brand_id": "chrysler",
+  "body_type": "sedan",
+  "status": "parallel_import",
+  "powertrain": "ice",
+  "generations_count": 1,
+  "description_ru": "Chrysler 300C (LX2) — большой американский седан заднеприводной компоновки. Двигатели Pentastar 3.6 V6 и Hemi 5.7 V8. Культовый дизайн, роскошный салон, характерные проблемы Pentastar и ZF8HP.",
+  "character": "Американская роскошь — мощь, пространство, стиль.",
+  "pros": ["Hemi 5.7 V8", "Задний привод", "Просторный салон"],
+  "cons": ["Рокерный механизм Pentastar", "ZF8HP мехатроник", "Расход"],
+  "target_audience": "Ценители классической американской роскоши.",
+  "total_reviews": 30
+}

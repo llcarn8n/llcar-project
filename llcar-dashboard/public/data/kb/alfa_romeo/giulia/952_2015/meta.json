@@ -1,0 +1,19 @@
+{
+  "generation_id": "alfa_romeo_giulia_952_2015",
+  "generation_name": "Giulia (952)",
+  "year_start": 2015,
+  "year_end": null,
+  "body_type": "sedan",
+  "market": "import",
+  "production": "Cassino, Италия",
+  "facelift": 2020,
+  "platform": "FCA Giorgio",
+  "engines": [
+    {"code": "GME-T4", "volume": "2.0L", "type": "R4 Turbo MultiAir II", "fuel": "petrol", "power_hp": 200},
+    {"code": "690T", "volume": "2.9L", "type": "V6 BiTurbo (Quadrifoglio)", "fuel": "petrol", "power_hp": 510}
+  ],
+  "transmissions": ["АКПП-8 ZF 8HP50"],
+  "drivetrains": ["RWD", "AWD (Q4)"],
+  "popularity_ru": "low",
+  "notes": "Платформа Giorgio — задний привод. 2.9 V6 BiTurbo — мотор Ferrari California. Масляный радиатор 2.0T течёт. ZF 8HP50 мехатроник."
+}

@@ -1,0 +1,20 @@
+{
+  "generation_id": "opel_insignia_b_2017",
+  "generation_name": "Insignia B (2017)",
+  "year_start": 2017,
+  "year_end": 2022,
+  "body_type": "sedan",
+  "market": "used",
+  "production": "Russelsheim, Германия",
+  "facelift": 2020,
+  "platform": "GM Epsilon II",
+  "engines": [
+    {"code": "B16DTH", "volume": "1.6L", "type": "R4 CDTi Diesel", "fuel": "diesel", "power_hp": 136},
+    {"code": "B20DTH", "volume": "2.0L", "type": "R4 CDTi Diesel", "fuel": "diesel", "power_hp": 170},
+    {"code": "B16XNT", "volume": "1.6L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 200}
+  ],
+  "transmissions": ["МКПП-6", "АКПП-8 Hydra-Matic 8G45"],
+  "drivetrains": ["FWD", "AWD (FlexRide)"],
+  "popularity_ru": "medium",
+  "notes": "Платформа Epsilon II. 8G45 — 8AT. Дизельные ТНВД склонны к отказу. ЭУР FlexRide — электронная система рулевого."
+}

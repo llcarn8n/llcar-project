@@ -1,0 +1,19 @@
+{
+  "generation_id": "alfa_romeo_stelvio_949_2016",
+  "generation_name": "Stelvio (949)",
+  "year_start": 2016,
+  "year_end": null,
+  "body_type": "suv",
+  "market": "import",
+  "production": "Cassino, Италия",
+  "facelift": 2020,
+  "platform": "FCA Giorgio",
+  "engines": [
+    {"code": "GME-T4", "volume": "2.0L", "type": "R4 Turbo MultiAir II", "fuel": "petrol", "power_hp": 280},
+    {"code": "690T", "volume": "2.9L", "type": "V6 BiTurbo (Quadrifoglio)", "fuel": "petrol", "power_hp": 510}
+  ],
+  "transmissions": ["АКПП-8 ZF 8HP50"],
+  "drivetrains": ["RWD", "AWD (Q4)"],
+  "popularity_ru": "low",
+  "notes": "SUV на платформе Giorgio. Лучшее время на Нюрбургринге среди серийных SUV (7:51.67). Масляный радиатор 2.0T — общая проблема с Giulia."
+}

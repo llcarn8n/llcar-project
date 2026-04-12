@@ -1,0 +1,15 @@
+{
+  "model_id": "q50",
+  "model_name": "Q50",
+  "brand_id": "infiniti",
+  "body_type": "sedan",
+  "status": "parallel_import",
+  "powertrain": "ice",
+  "generations_count": 1,
+  "description_ru": "Infiniti Q50 (V37) — спортивный седан, конкурент BMW 3-серии. Двигатель VQ37VHR 3.7 или 2.0T. Уникальная система Direct Adaptive Steering (DAS) без механической связи руль-рейка.",
+  "character": "Спортивный седан с революционным рулевым управлением.",
+  "pros": ["VQ37VHR 333 л.с.", "Direct Adaptive Steering", "Спортивная управляемость"],
+  "cons": ["DAS — сложный в ремонте", "Жёсткая подвеска", "Высокий расход"],
+  "target_audience": "Водители, выбирающие динамику и технологии в D-сегменте.",
+  "total_reviews": 35
+}

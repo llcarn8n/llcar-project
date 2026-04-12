@@ -1,0 +1,19 @@
+{
+  "generation_id": "jeep_compass_mp_2017",
+  "generation_name": "Compass II (MP)",
+  "year_start": 2017,
+  "year_end": null,
+  "body_type": "suv",
+  "market": "parallel_import",
+  "production": "Melfi, Италия",
+  "facelift": 2021,
+  "platform": "FCA Small Wide 4x4",
+  "engines": [
+    {"code": "GME-T4", "volume": "1.4L", "type": "R4 Turbo MultiAir", "fuel": "petrol", "power_hp": 140},
+    {"code": "ED6", "volume": "2.4L", "type": "R4 Tigershark", "fuel": "petrol", "power_hp": 177}
+  ],
+  "transmissions": ["МКПП-6 Aisin", "АКПП-6 Aisin AW6F35", "АКПП-9 ZF 9HP48 (AWD 2.4)"],
+  "drivetrains": ["FWD", "AWD (Active Drive)"],
+  "popularity_ru": "low",
+  "notes": "Итальянское производство. ZF 9HP48 — рывки 1-2 передачи, Chrysler выпустил TSB. LCI 2021."
+}

@@ -1,0 +1,15 @@
+{
+  "model_id": "grand_cherokee",
+  "model_name": "Grand Cherokee",
+  "brand_id": "jeep",
+  "body_type": "suv",
+  "status": "parallel_import",
+  "powertrain": "ice",
+  "generations_count": 2,
+  "description_ru": "Jeep Grand Cherokee — флагманский SUV с двигателями Pentastar 3.6 V6 и Hemi 5.7 V8. Известная проблема: рокерный механизм Pentastar и мехатроник ZF8HP.",
+  "character": "Американский флагман — мощь, проходимость, комфорт.",
+  "pros": ["Pentastar 3.6 надёжный", "Квадра-Трак AWD", "Просторный"],
+  "cons": ["Рокерный механизм RVTS", "Дорогой ZF8HP", "Расход топлива"],
+  "target_audience": "Любители американских SUV, ценящие мощь и проходимость.",
+  "total_reviews": 55
+}

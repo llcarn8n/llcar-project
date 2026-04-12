@@ -1,0 +1,18 @@
+{
+  "generation_id": "infiniti_qx60_l50_2013",
+  "generation_name": "QX60 I (L50)",
+  "year_start": 2013,
+  "year_end": 2021,
+  "body_type": "suv",
+  "market": "import",
+  "production": "Nissan Смирна, США",
+  "facelift": 2016,
+  "platform": "Nissan D",
+  "engines": [
+    {"code": "VQ35DE", "volume": "3.5L", "type": "V6", "fuel": "petrol", "power_hp": 249}
+  ],
+  "transmissions": ["CVT Jatco JF016E"],
+  "drivetrains": ["FWD", "AWD"],
+  "popularity_ru": "medium",
+  "notes": "Общая платформа с Nissan Pathfinder R52. CVT JF016E — ахиллесова пята. LCI 2016."
+}

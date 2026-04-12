@@ -1,0 +1,15 @@
+{
+  "model_id": "stelvio",
+  "model_name": "Stelvio",
+  "brand_id": "alfa_romeo",
+  "body_type": "suv",
+  "status": "parallel_import",
+  "powertrain": "ice",
+  "generations_count": 1,
+  "description_ru": "Alfa Romeo Stelvio (949) — спортивный кроссовер на платформе Giorgio. Двигатели 2.0T 280 л.с. и 2.9TT V6 Quadrifoglio 510 л.с. Лучшая динамика в классе, но масляный радиатор и электрика требуют внимания.",
+  "character": "Самый динамичный кроссовер сегмента с итальянским характером.",
+  "pros": ["Лучшая управляемость в классе", "2.9TT V6 510 л.с.", "Стильный дизайн"],
+  "cons": ["Масляный радиатор", "Ненадёжная электрика", "Параллельный импорт"],
+  "target_reviews": 25,
+  "total_reviews": 25
+}

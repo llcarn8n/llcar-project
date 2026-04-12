@@ -1,0 +1,15 @@
+{
+  "model_id": "corsa_e",
+  "model_name": "Corsa E",
+  "brand_id": "opel",
+  "body_type": "hatchback",
+  "status": "used",
+  "powertrain": "ice",
+  "generations_count": 1,
+  "description_ru": "Opel Corsa E (2014) — субкомпактный хетчбэк на платформе GM Gamma II. Двигатели 1.2 и 1.4T. Самая массовая Corsa в истории. Проблемы: цепь ГРМ 1.4T, коррозия порогов в России.",
+  "character": "Городской субкомпакт — практичный и экономичный.",
+  "pros": ["Экономичность", "Манёвренность", "Низкое ТО"],
+  "cons": ["Цепь 1.4T", "Жёсткая подвеска", "Коррозия"],
+  "target_audience": "Горожане, выбирающие практичный субкомпакт.",
+  "total_reviews": 55
+}

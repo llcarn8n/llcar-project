@@ -1,0 +1,19 @@
+{
+  "generation_id": "jeep_wrangler_jl_2018",
+  "generation_name": "Wrangler IV (JL)",
+  "year_start": 2018,
+  "year_end": null,
+  "body_type": "suv",
+  "market": "parallel_import",
+  "production": "Toledo Assembly Complex, США",
+  "facelift": null,
+  "platform": "Chrysler JL",
+  "engines": [
+    {"code": "ERB", "volume": "3.6L", "type": "V6 Pentastar eTorque", "fuel": "petrol", "power_hp": 285},
+    {"code": "GME-T4", "volume": "2.0L", "type": "R4 Turbo eTorque", "fuel": "petrol", "power_hp": 272}
+  ],
+  "transmissions": ["МКПП-6 Aisin", "АКПП-8 ZF 8HP75"],
+  "drivetrains": ["4WD Command-Trac", "4WD Rock-Trac (Rubicon)"],
+  "popularity_ru": "low",
+  "notes": "Первый Wrangler с алюминиевыми дверями и капотом. Rubicon: Dana 44/44, электроблокировки. Turbo 2.0 — TSB по масложору MY2018-2019."
+}

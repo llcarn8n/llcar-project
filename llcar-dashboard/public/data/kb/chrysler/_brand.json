@@ -1,0 +1,9 @@
+{
+  "brand_id": "chrysler",
+  "brand_name": {"ru": "Крайслер", "en": "Chrysler", "zh": "克莱斯勒"},
+  "country": "US",
+  "tier": 2,
+  "powertrain_types": ["ice"],
+  "models_count": 1,
+  "data_stats": {"situations": 0, "last_updated": "2026-04-12"}
+}

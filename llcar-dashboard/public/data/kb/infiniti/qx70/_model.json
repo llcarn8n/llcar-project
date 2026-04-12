@@ -1,0 +1,15 @@
+{
+  "model_id": "qx70",
+  "model_name": "QX70",
+  "brand_id": "infiniti",
+  "body_type": "suv",
+  "status": "parallel_import",
+  "powertrain": "ice",
+  "generations_count": 1,
+  "description_ru": "Infiniti QX70 (S51/FX) — спортивный кроссовер с атмосферным V6 3.7 VQ37VHR или V8 5.0. Экспрессивный дизайн Italdesign, мощные двигатели, характерный цепной ГРМ.",
+  "character": "Спортивный кроссовер для ценителей V8 и драйва.",
+  "pros": ["VQ37VHR 333 л.с.", "Спортивное шасси", "Уникальный дизайн"],
+  "cons": ["Высокий расход", "Дорогой ремонт VQ37", "Жёсткая подвеска"],
+  "target_audience": "Ценители спортивных кроссоверов с мощными атмосферниками.",
+  "total_reviews": 25
+}

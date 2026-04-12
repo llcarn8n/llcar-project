@@ -1,0 +1,9 @@
+{
+  "brand_id": "opel",
+  "brand_name": {"ru": "Опель", "en": "Opel", "zh": "欧宝"},
+  "country": "DE",
+  "tier": 1,
+  "powertrain_types": ["ice"],
+  "models_count": 3,
+  "data_stats": {"situations": 0, "last_updated": "2026-04-12"}
+}

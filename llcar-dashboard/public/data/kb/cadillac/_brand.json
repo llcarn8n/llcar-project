@@ -1,0 +1,9 @@
+{
+  "brand_id": "cadillac",
+  "brand_name": {"ru": "Кадиллак", "en": "Cadillac", "zh": "凯迪拉克"},
+  "country": "US",
+  "tier": 2,
+  "powertrain_types": ["ice"],
+  "models_count": 2,
+  "data_stats": {"situations": 0, "last_updated": "2026-04-12"}
+}

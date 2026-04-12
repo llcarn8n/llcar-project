@@ -1,0 +1,15 @@
+{
+  "model_id": "xt5",
+  "model_name": "XT5",
+  "brand_id": "cadillac",
+  "body_type": "suv",
+  "status": "parallel_import",
+  "powertrain": "ice",
+  "generations_count": 1,
+  "description_ru": "Cadillac XT5 — среднеразмерный кроссовер на платформе GM C1. Двигатель 3.6 V6 LGX + 8AT. Роскошный салон, слабые места — цепь ГРМ и масложор LGX.",
+  "character": "Американская роскошь с европейскими амбициями.",
+  "pros": ["3.6 V6 мощный", "Роскошный салон", "8AT плавный"],
+  "cons": ["Цепь ГРМ LGX", "Масложор", "Дорогой ремонт"],
+  "target_audience": "Бизнес-класс, ценящий американскую роскошь.",
+  "total_reviews": 35
+}

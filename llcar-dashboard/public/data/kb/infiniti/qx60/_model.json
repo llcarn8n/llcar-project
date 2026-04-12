@@ -1,0 +1,15 @@
+{
+  "model_id": "qx60",
+  "model_name": "QX60",
+  "brand_id": "infiniti",
+  "body_type": "suv",
+  "status": "parallel_import",
+  "powertrain": "ice",
+  "generations_count": 1,
+  "description_ru": "Infiniti QX60 (L50) — 7-местный кроссовер на платформе Nissan Pathfinder R52. Мотор VQ35DE + CVT JF016E — сочетание надёжного двигателя с проблемным вариатором.",
+  "character": "7-местный премиальный кроссовер с акцентом на комфорт.",
+  "pros": ["7 мест", "Надёжный VQ35DE", "Просторный салон"],
+  "cons": ["CVT JF016E — слабое место", "Высокий расход", "Дорогой ремонт"],
+  "target_audience": "Семьи, желающие премиум-комфорт с 7 местами.",
+  "total_reviews": 40
+}
