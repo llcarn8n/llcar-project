@@ -1,0 +1,27 @@
+{
+  "generation_id": "kia_soul_sk3_2019",
+  "generation_name": "Soul III (SK3)",
+  "year_start": 2019, "year_end": null,
+  "body_type": "crossover", "market": "import",
+  "production": "Kia Gwangju, Южная Корея",
+  "facelift": null,
+  "platform": "Kia K2 (обновлённая)",
+  "dimensions": {
+    "length_mm": 4195,
+    "width_mm": 1800,
+    "height_mm": 1605,
+    "wheelbase_mm": 2600,
+    "ground_clearance_mm": 162,
+    "trunk_volume_l": 395,
+    "fuel_tank_l": 50,
+    "curb_weight_kg": 1321
+  },
+  "engines": [
+    { "code": "G4LC", "volume": "1.6L", "type": "Kappa Turbo (1.6T-GDI)", "fuel": "petrol", "power_hp": 177 },
+    { "code": "G4FG", "volume": "1.6L", "type": "Gamma MPI", "fuel": "petrol", "power_hp": 123 }
+  ],
+  "transmissions": ["МКПП-6", "АКПП-7 DCT (1.6T)", "IVT CVT (1.6 MPI)"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "medium",
+  "notes": "Третье поколение Soul. В РФ поставлялся до 2022. G4LC 1.6T — сухой DCT-7, проблемы с толчками при трогании на холодную. IVT — вариатор, требует замены масла каждые 60 000 км. Кубический дизайн сохранён, колёсная база увеличена."
+}

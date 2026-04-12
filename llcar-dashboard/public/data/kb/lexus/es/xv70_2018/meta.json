@@ -1,0 +1,27 @@
+{
+  "generation_id": "lexus_es_xv70_2018",
+  "generation_name": "ES VII (XV70)",
+  "year_start": 2018, "year_end": null,
+  "body_type": "sedan", "market": "import",
+  "production": "Guangzhou, Китай (GTMC)",
+  "facelift": 2021,
+  "platform": "Toyota TNGA-K",
+  "dimensions": {
+    "length_mm": 4975,
+    "width_mm": 1865,
+    "height_mm": 1445,
+    "wheelbase_mm": 2870,
+    "ground_clearance_mm": 140,
+    "trunk_volume_l": 454,
+    "fuel_tank_l": 60,
+    "curb_weight_kg": 1685
+  },
+  "engines": [
+    { "code": "A25A-FKS", "volume": "2.5L", "type": "R4 DOHC (ES 250)", "fuel": "petrol", "power_hp": 200 },
+    { "code": "A25A-FXS", "volume": "2.5L", "type": "R4 Hybrid (ES 300h)", "fuel": "petrol", "power_hp": 218 }
+  ],
+  "transmissions": ["АКПП-8 Aisin P810 (ES 250)", "E-CVT (ES 300h)"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "very_high",
+  "notes": "Седьмое поколение на TNGA-K. Производство только в Китае. A25A-FKS — цикл Аткинсона. P810 — 8AT, склонна к толчкам при холодном прогреве (известная проблема TSB). ES 300h — самая популярная версия в РФ. В РФ продажи прекращены 2022, параллельный импорт."
+}

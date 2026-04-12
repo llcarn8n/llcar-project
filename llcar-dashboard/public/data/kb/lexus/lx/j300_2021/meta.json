@@ -1,0 +1,26 @@
+{
+  "generation_id": "lexus_lx_j300_2021",
+  "generation_name": "LX IV (J300)",
+  "year_start": 2021, "year_end": null,
+  "body_type": "suv", "market": "import",
+  "production": "Toyota Tahara, Япония",
+  "facelift": null,
+  "platform": "Toyota TNGA-F (GA-F, body-on-frame)",
+  "dimensions": {
+    "length_mm": 5095,
+    "width_mm": 1985,
+    "height_mm": 1890,
+    "wheelbase_mm": 2850,
+    "ground_clearance_mm": 235,
+    "trunk_volume_l": 258,
+    "fuel_tank_l": 93,
+    "curb_weight_kg": 2640
+  },
+  "engines": [
+    { "code": "V35A-FTS", "volume": "3.5L", "type": "V6 Twin-Turbo (LX 600)", "fuel": "petrol", "power_hp": 415 }
+  ],
+  "transmissions": ["АКПП-10 Aisin AB60F-10 (Direct Shift-10AT)"],
+  "drivetrains": ["4WD (Multi-Terrain Select, E-KDSS опция)"],
+  "popularity_ru": "high",
+  "notes": "Четвёртое поколение LX на новой раме TNGA-F. V35A-FTS — тот же мотор что в LC 300. Биметаллическое кузовное оперение. E-KDSS — электронная кинетическая стабилизация. В РФ — только параллельный импорт с 2022. Проблемы: нагар GDI, задержки 10AT на холодную."
+}

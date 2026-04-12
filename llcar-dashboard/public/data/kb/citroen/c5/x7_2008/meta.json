@@ -1,0 +1,21 @@
+{
+  "generation_id": "citroen_c5_x7_2008",
+  "generation_name": "C5 II (X7)",
+  "year_start": 2008,
+  "year_end": 2017,
+  "body_type": "sedan",
+  "market": "was_official",
+  "production": "Aulnay-sous-Bois / Rennes, France",
+  "facelift": 2012,
+  "platform": "PF3 (PSA)",
+  "engines": [
+    { "code": "EP6CDT", "volume": "1.6L", "type": "Prince THP Turbo", "fuel": "petrol", "power_hp": 156 },
+    { "code": "EW10A", "volume": "2.0L", "type": "NA R4", "fuel": "petrol", "power_hp": 143 },
+    { "code": "DW10C", "volume": "2.0L", "type": "HDi FAP Diesel", "fuel": "diesel", "power_hp": 140 },
+    { "code": "DW12C", "volume": "2.2L", "type": "HDi FAP Diesel", "fuel": "diesel", "power_hp": 200 }
+  ],
+  "transmissions": ["МКП-6", "АЛ4 4AT (AL4/DP0)", "EAT6 6AT (Aisin TF80SC)"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "medium",
+  "notes": "Второе поколение С5 с уникальной гидропневматической подвеской Hydractive III+. Флагманская опция, но требует замены сфер каждые 80–120 тыс. км. EP6CDT страдает цепью ГРМ и сальниками. AL4 изнашивается без регулярного обслуживания."
+}

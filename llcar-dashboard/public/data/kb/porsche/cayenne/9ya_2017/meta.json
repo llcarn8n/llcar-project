@@ -1,0 +1,19 @@
+{
+  "generation_id": "porsche_cayenne_9ya_2017",
+  "generation_name": "Cayenne III (9YA)",
+  "year_start": 2017,
+  "year_end": null,
+  "body_type": "suv",
+  "market": "parallel_import",
+  "production": "Leipzig, Germany",
+  "facelift": 2023,
+  "platform": "MLB Evo (shared with Audi Q8, Lamborghini Urus)",
+  "engines": [
+    { "code": "DCB.AB", "volume": "3.0L", "type": "V6 Turbo", "fuel": "petrol", "power_hp": 340 },
+    { "code": "DCB.MA", "volume": "4.0L", "type": "V8 Twin-Turbo", "fuel": "petrol", "power_hp": 550 }
+  ],
+  "transmissions": ["PDK 8AT (ZF 8HP76)"],
+  "drivetrains": ["AWD"],
+  "popularity_ru": "high",
+  "notes": "Третье поколение на MLB Evo. Система 4D-Chassis Control координирует подвеску, задний руль и торсивектор. Мотор V6 3.0T склонен к течи клапанной крышки и расходу масла после 50 тыс. км. Программное обеспечение PCM 6.0 требует актуальных обновлений."
+}

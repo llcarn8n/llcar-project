@@ -1,0 +1,28 @@
+{
+  "generation_id": "nissan_teana_j32_2008",
+  "generation_name": "Teana II (J32)",
+  "year_start": 2008, "year_end": 2013,
+  "body_type": "sedan", "market": "import",
+  "production": "Nissan Oppama, Япония / Guangzhou, Китай",
+  "facelift": 2011,
+  "platform": "Nissan D (FF-L platform)",
+  "dimensions": {
+    "length_mm": 4855,
+    "width_mm": 1835,
+    "height_mm": 1490,
+    "wheelbase_mm": 2775,
+    "ground_clearance_mm": 150,
+    "trunk_volume_l": 480,
+    "fuel_tank_l": 76,
+    "curb_weight_kg": 1530
+  },
+  "engines": [
+    { "code": "QR25DE", "volume": "2.5L", "type": "R4 DOHC", "fuel": "petrol", "power_hp": 182 },
+    { "code": "VQ25DE", "volume": "2.5L", "type": "V6 DOHC", "fuel": "petrol", "power_hp": 182 },
+    { "code": "VQ35DE", "volume": "3.5L", "type": "V6 DOHC", "fuel": "petrol", "power_hp": 249 }
+  ],
+  "transmissions": ["Xtronic CVT JF010E (2.5)", "Xtronic CVT JF011E (3.5)"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "very_high",
+  "notes": "Второе поколение Teana. QR25DE — ломается натяжитель цепи ГРМ. VQ35DE — надёжный мотор, но JF011E CVT склонен к перегреву. JF010E/JF011E — массовая проблема толчков и рывков при движении. Рестайлинг 2011 — LED ДХО, изменённая решётка."
+}

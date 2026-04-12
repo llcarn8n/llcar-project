@@ -1,0 +1,20 @@
+{
+  "generation_id": "peugeot_408_t7_2010",
+  "generation_name": "408 I (T7)",
+  "year_start": 2010,
+  "year_end": 2017,
+  "body_type": "sedan",
+  "market": "was_official",
+  "production": "Калуга, Россия (PSA-Mitsubishi)",
+  "facelift": 2014,
+  "platform": "PF2 (PSA)",
+  "engines": [
+    { "code": "EP6CDT", "volume": "1.6L", "type": "Prince THP Turbo", "fuel": "petrol", "power_hp": 150 },
+    { "code": "EP6C", "volume": "1.6L", "type": "Prince NA", "fuel": "petrol", "power_hp": 115 },
+    { "code": "DV6C", "volume": "1.6L", "type": "HDi Diesel", "fuel": "diesel", "power_hp": 112 }
+  ],
+  "transmissions": ["МКП-5", "АЛ4 4AT (AL4/DP0)"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "high",
+  "notes": "Российская сборка на заводе Калуга. EP6CDT 1.6T — совместная разработка PSA/BMW. Цепь ГРМ растягивается к 60–80 тыс. км. АЛ4 (AL4/DP0) требует замены масла каждые 40–60 тыс. км. Сальники коленвала часто текут."
+}

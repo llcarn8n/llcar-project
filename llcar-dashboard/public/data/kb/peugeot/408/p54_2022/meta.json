@@ -1,0 +1,19 @@
+{
+  "generation_id": "peugeot_408_p54_2022",
+  "generation_name": "408 II (P54)",
+  "year_start": 2022,
+  "year_end": null,
+  "body_type": "suv",
+  "market": "parallel_import",
+  "production": "Mulhouse / Sochaux, France",
+  "facelift": null,
+  "platform": "EMP2 (PSA/Stellantis)",
+  "engines": [
+    { "code": "EB2ADTS", "volume": "1.2L", "type": "PureTech 130 Turbo", "fuel": "petrol", "power_hp": 130 },
+    { "code": "EB2ADTX", "volume": "1.2L", "type": "PureTech 156 Turbo", "fuel": "petrol", "power_hp": 156 }
+  ],
+  "transmissions": ["EAT8 8AT (Aisin)"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "low",
+  "notes": "Второе поколение 408 — кроссовер-купе на EMP2. PureTech 1.2T Gen2 имеет известные проблемы с растяжением ремня ГРМ (переход на ремень вместо цепи после 2019). EAT8 чувствительна к качеству масла. Параллельный импорт ограничивает гарантию."
+}

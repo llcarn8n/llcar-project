@@ -1,0 +1,20 @@
+{
+  "generation_id": "porsche_cayenne_92a_2010",
+  "generation_name": "Cayenne II (92A)",
+  "year_start": 2010,
+  "year_end": 2017,
+  "body_type": "suv",
+  "market": "parallel_import",
+  "production": "Leipzig, Germany",
+  "facelift": 2014,
+  "platform": "PL71 (shared with Audi Q7 Typ 4L)",
+  "engines": [
+    { "code": "M55.01", "volume": "3.6L", "type": "VR6 Turbo", "fuel": "petrol", "power_hp": 300 },
+    { "code": "MDC.AB", "volume": "3.0L", "type": "V6 TDI", "fuel": "diesel", "power_hp": 245 },
+    { "code": "M48.52", "volume": "4.8L", "type": "V8", "fuel": "petrol", "power_hp": 400 }
+  ],
+  "transmissions": ["Tiptronic S 8AT (ZF 8HP)"],
+  "drivetrains": ["AWD"],
+  "popularity_ru": "high",
+  "notes": "Второе поколение на платформе PL71. Пневматическая подвеска PASM стандартна на GTS/Turbo. Пластиковые патрубки охлаждения трескаются между 60–100 тыс. км. Трансфер-кейс PTM (многодисковая муфта) чувствителен к перегреву."
+}

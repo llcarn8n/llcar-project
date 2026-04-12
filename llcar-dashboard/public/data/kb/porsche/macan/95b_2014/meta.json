@@ -1,0 +1,20 @@
+{
+  "generation_id": "porsche_macan_95b_2014",
+  "generation_name": "Macan I (95B)",
+  "year_start": 2014,
+  "year_end": 2021,
+  "body_type": "suv",
+  "market": "parallel_import",
+  "production": "Leipzig, Germany",
+  "facelift": 2018,
+  "platform": "MLB (shared with Audi Q5 8R)",
+  "engines": [
+    { "code": "DAWB", "volume": "2.0L", "type": "EA888 Gen3 Turbo", "fuel": "petrol", "power_hp": 252 },
+    { "code": "CTVA", "volume": "3.0L", "type": "V6 TDI BiTurbo", "fuel": "diesel", "power_hp": 258 },
+    { "code": "DCB.FA", "volume": "3.0L", "type": "V6 Twin-Turbo", "fuel": "petrol", "power_hp": 354 }
+  ],
+  "transmissions": ["PDK 7DCT (Porsche)"],
+  "drivetrains": ["AWD"],
+  "popularity_ru": "high",
+  "notes": "Первое поколение Macan на платформе MLB. PDK 7DCT отличается быстрой реакцией, но требует замены масла каждые 40–50 тыс. км. Двигатели EA888 подвержены нагару на впускных клапанах и трещинам водяного насоса."
+}

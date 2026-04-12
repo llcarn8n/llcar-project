@@ -1,0 +1,28 @@
+{
+  "generation_id": "kia_stinger_ck_2017",
+  "generation_name": "Stinger I (CK)",
+  "year_start": 2017, "year_end": null,
+  "body_type": "liftback", "market": "import",
+  "production": "Kia Sohari, Южная Корея",
+  "facelift": 2020,
+  "platform": "Genesis-Kia RWD (shared with Genesis G70)",
+  "dimensions": {
+    "length_mm": 4830,
+    "width_mm": 1870,
+    "height_mm": 1400,
+    "wheelbase_mm": 2905,
+    "ground_clearance_mm": 130,
+    "trunk_volume_l": 406,
+    "fuel_tank_l": 60,
+    "curb_weight_kg": 1803
+  },
+  "engines": [
+    { "code": "G4KH (Theta II)", "volume": "2.0L", "type": "R4 Turbo GDI", "fuel": "petrol", "power_hp": 255 },
+    { "code": "G6DT (Lambda II)", "volume": "3.3L", "type": "V6 Twin-Turbo GDI", "fuel": "petrol", "power_hp": 370 },
+    { "code": "G4KJ (Theta II)", "volume": "2.5L", "type": "R4 Turbo GDI (post-facelift)", "fuel": "petrol", "power_hp": 304 }
+  ],
+  "transmissions": ["АКПП-8 Aisin A8LR1"],
+  "drivetrains": ["RWD", "AWD (опция)"],
+  "popularity_ru": "medium",
+  "notes": "Единственный заднеприводный Kia. Платформа Genesis G70. Lambda II 3.3TT — 0-100 за 4.9 сек. Нагар GDI на впускных клапанах (особенно 2.0T). Суппорта Brembo на 3.3TT. Рестайлинг 2020 — мотор 2.5T вместо 2.0T. В РФ только параллельный импорт."
+}

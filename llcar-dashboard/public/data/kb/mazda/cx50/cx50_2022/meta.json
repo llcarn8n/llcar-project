@@ -1,0 +1,19 @@
+{
+  "generation_id": "mazda_cx50_cx50_2022",
+  "generation_name": "CX-50 I",
+  "year_start": 2022,
+  "year_end": null,
+  "body_type": "suv",
+  "market": "parallel_import",
+  "production": "Huntsville, Alabama, USA",
+  "facelift": null,
+  "platform": "Skyactiv-Vehicle Architecture",
+  "engines": [
+    { "code": "PY-VPS", "volume": "2.5L", "type": "SkyActiv-G R4", "fuel": "petrol", "power_hp": 192 },
+    { "code": "PY-VPTR", "volume": "2.5L", "type": "SkyActiv-G Turbo R4", "fuel": "petrol", "power_hp": 256 }
+  ],
+  "transmissions": ["АКПП-6 SkyActiv-Drive"],
+  "drivetrains": ["AWD"],
+  "popularity_ru": "low",
+  "notes": "Первое поколение CX-50, ориентированное на Северную Америку и параллельный импорт в РФ. Турбомотор 2.5T разделяет конструкцию с CX-5 KF. Повышенный дорожный просвет (222 мм). Американская сборка — запчасти дороже японских аналогов."
+}

@@ -1,0 +1,19 @@
+{
+  "generation_id": "citroen_c5_rc_2021",
+  "generation_name": "C5 X (RC)",
+  "year_start": 2021,
+  "year_end": null,
+  "body_type": "suv",
+  "market": "parallel_import",
+  "production": "Chengdu, China (Dongfeng-PSA)",
+  "facelift": null,
+  "platform": "EMP2 (PSA/Stellantis)",
+  "engines": [
+    { "code": "EB2ADTS", "volume": "1.2L", "type": "PureTech 130 Turbo", "fuel": "petrol", "power_hp": 130 },
+    { "code": "EP6FADTX", "volume": "1.6L", "type": "PureTech 180 Turbo", "fuel": "petrol", "power_hp": 180 }
+  ],
+  "transmissions": ["EAT8 8AT (Aisin)"],
+  "drivetrains": ["FWD", "AWD"],
+  "popularity_ru": "low",
+  "notes": "Третье поколение C5 — кроссовер-седан, производится в Китае. PureTech 1.6T 180 л.с. — надёжнее предшественника EP6CDT, но также имеет проблемы с ремнём ГРМ в масле. Прогрессивная гидравлическая подвеска PHC — упрощённая версия гидропневматики."
+}

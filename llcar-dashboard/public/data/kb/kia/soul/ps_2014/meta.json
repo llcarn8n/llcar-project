@@ -1,0 +1,28 @@
+{
+  "generation_id": "kia_soul_ps_2014",
+  "generation_name": "Soul II (PS)",
+  "year_start": 2013, "year_end": 2019,
+  "body_type": "crossover", "market": "import",
+  "production": "Kia Gwangju, Южная Корея",
+  "facelift": 2016,
+  "platform": "Kia K2 (shared with Ceed, Hyundai i30 GD)",
+  "dimensions": {
+    "length_mm": 4140,
+    "width_mm": 1800,
+    "height_mm": 1600,
+    "wheelbase_mm": 2570,
+    "ground_clearance_mm": 162,
+    "trunk_volume_l": 354,
+    "fuel_tank_l": 50,
+    "curb_weight_kg": 1280
+  },
+  "engines": [
+    { "code": "G4FC", "volume": "1.6L", "type": "Gamma MPI", "fuel": "petrol", "power_hp": 124 },
+    { "code": "G4FD", "volume": "1.6L", "type": "Gamma GDI", "fuel": "petrol", "power_hp": 135 },
+    { "code": "G4NA", "volume": "2.0L", "type": "Nu MPI", "fuel": "petrol", "power_hp": 150 }
+  ],
+  "transmissions": ["МКПП-6", "АКПП-6 A6MF1 (1.6)", "АКПП-6 A6MF2 (2.0)"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "medium",
+  "notes": "Второе поколение Soul. G4FD GDI — масложор из-за нагара маслосъёмных колец (известная проблема форумов). G4NA 2.0 — задиры ЦПГ аналогично Sportage QL. A6MF1 — в целом надёжная, но требует замены ATF каждые 60 000 км. Рестайлинг 2016."
+}

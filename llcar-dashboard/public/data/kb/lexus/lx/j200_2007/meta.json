@@ -1,0 +1,27 @@
+{
+  "generation_id": "lexus_lx_j200_2007",
+  "generation_name": "LX III (J200)",
+  "year_start": 2007, "year_end": 2021,
+  "body_type": "suv", "market": "import",
+  "production": "Toyota Tahara, Япония",
+  "facelift": 2012,
+  "platform": "Toyota F (body-on-frame, GA-F)",
+  "dimensions": {
+    "length_mm": 4985,
+    "width_mm": 1970,
+    "height_mm": 1915,
+    "wheelbase_mm": 2850,
+    "ground_clearance_mm": 225,
+    "trunk_volume_l": 203,
+    "fuel_tank_l": 93,
+    "curb_weight_kg": 2690
+  },
+  "engines": [
+    { "code": "1UR-FE", "volume": "4.6L", "type": "V8 DOHC (LX 460)", "fuel": "petrol", "power_hp": 309 },
+    { "code": "3UR-FE", "volume": "5.7L", "type": "V8 DOHC (LX 570)", "fuel": "petrol", "power_hp": 383 }
+  ],
+  "transmissions": ["АКПП-6 Aisin AB60F (1UR-FE)", "АКПП-6 Aisin AB60F (3UR-FE)"],
+  "drivetrains": ["4WD (part-time с понижающей передачей)"],
+  "popularity_ru": "high",
+  "notes": "Третье поколение LX на раме LC 200. 1UR-FE 4.6 — слабые натяжители цепи ГРМ. 3UR-FE 5.7 — надёжнее, но расход 17-22 л/100 км. KDSS (кинетическая система стабилизации), пневмоподвеска. Рестайлинг 2012 — новый передок."
+}

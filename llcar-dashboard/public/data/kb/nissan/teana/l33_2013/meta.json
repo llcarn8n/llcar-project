@@ -1,0 +1,28 @@
+{
+  "generation_id": "nissan_teana_l33_2013",
+  "generation_name": "Teana III (L33)",
+  "year_start": 2013, "year_end": 2022,
+  "body_type": "sedan", "market": "import",
+  "production": "Guangzhou, Китай (Dongfeng Nissan)",
+  "facelift": 2016,
+  "platform": "Nissan D (updated FF-L)",
+  "dimensions": {
+    "length_mm": 4900,
+    "width_mm": 1840,
+    "height_mm": 1480,
+    "wheelbase_mm": 2775,
+    "ground_clearance_mm": 145,
+    "trunk_volume_l": 495,
+    "fuel_tank_l": 70,
+    "curb_weight_kg": 1545
+  },
+  "engines": [
+    { "code": "QR25DE", "volume": "2.5L", "type": "R4 DOHC (Teana 2.5)", "fuel": "petrol", "power_hp": 182 },
+    { "code": "VQ25DE", "volume": "2.5L", "type": "V6 DOHC (Teana 2.5 V6)", "fuel": "petrol", "power_hp": 181 },
+    { "code": "VQ35DE", "volume": "3.5L", "type": "V6 DOHC (Teana 3.5)", "fuel": "petrol", "power_hp": 249 }
+  ],
+  "transmissions": ["Xtronic CVT JF016E (2.5)", "Xtronic CVT JF017E (3.5)"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "high",
+  "notes": "Третье поколение L33 производилось в Китае. JF016E — новый вариатор, но те же проблемы перегрева при буксировке и городском трафике. VQ25DE V6 — редкий, VQ35DE — надёжнее. Рестайлинг 2016. В РФ официальные продажи завершены 2021-2022."
+}
