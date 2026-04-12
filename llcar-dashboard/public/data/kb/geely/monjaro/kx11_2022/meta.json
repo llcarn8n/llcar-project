@@ -1,0 +1,18 @@
+{
+  "generation_id": "geely_monjaro_kx11_2022",
+  "generation_name": "Monjaro KX11 I",
+  "year_start": 2022,
+  "year_end": null,
+  "body_type": "suv",
+  "market": "import",
+  "production": "Geely Auto, Хэнчжоу, Китай",
+  "facelift": null,
+  "platform": "CMA (Compact Modular Architecture, совм. с Volvo)",
+  "engines": [
+    { "code": "JLH-4G20TDB", "volume": "2.0L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 218 }
+  ],
+  "transmissions": ["8AT Aisin"],
+  "drivetrains": ["FWD", "AWD"],
+  "popularity_ru": "medium",
+  "notes": "Платформа CMA совместно с Volvo. 2.0T JLH-4G20TDB + Aisin 8AT. ADAS L2: адаптивный круиз, удержание полосы, AEB. Богатая комплектация. Импорт из Китая."
+}

@@ -1,0 +1,18 @@
+{
+  "generation_id": "geely_tugella_fy11_2020",
+  "generation_name": "Tugella FY11 I",
+  "year_start": 2020,
+  "year_end": null,
+  "body_type": "suv",
+  "market": "import",
+  "production": "Geely Auto, Хэнчжоу, Китай",
+  "facelift": null,
+  "platform": "CMA (Compact Modular Architecture, совм. с Volvo)",
+  "engines": [
+    { "code": "JLH-4G20TDB", "volume": "2.0L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 238 }
+  ],
+  "transmissions": ["7DCT", "8AT"],
+  "drivetrains": ["FWD", "AWD"],
+  "popularity_ru": "low",
+  "notes": "Купеобразный кроссовер на платформе CMA. 2.0T 238 л.с. с 7DCT или 8AT. Адаптивная подвеска (опция). Продаётся в России с 2020 г. Импорт из Китая."
+}

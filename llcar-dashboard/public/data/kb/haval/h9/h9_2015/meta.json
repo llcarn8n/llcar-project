@@ -1,0 +1,18 @@
+{
+  "generation_id": "haval_h9_2015",
+  "generation_name": "H9 I (рестайлинг 2020)",
+  "year_start": 2015,
+  "year_end": null,
+  "body_type": "suv",
+  "market": "import",
+  "production": "GWM, Баодин, Китай",
+  "facelift": 2020,
+  "platform": "GWM рамная (BOF)",
+  "engines": [
+    { "code": "GW4C20NT", "volume": "2.0L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 218 }
+  ],
+  "transmissions": ["8AT ZF 8HP"],
+  "drivetrains": ["4WD part-time (с понижающей)"],
+  "popularity_ru": "low",
+  "notes": "Полноразмерный рамный внедорожник. Единственный двигатель 2.0T GW4C20NT. ZF 8HP — надёжная коробка. Раздаточная коробка BorgWarner с понижающей. Рестайлинг 2020: новый интерьер."
+}

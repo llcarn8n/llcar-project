@@ -1,0 +1,18 @@
+{
+  "generation_id": "chery_tiggo2_pro_t2p_2021",
+  "generation_name": "Tiggo 2 Pro (T2P)",
+  "year_start": 2021,
+  "year_end": null,
+  "body_type": "suv",
+  "market": "import",
+  "production": "Chery, Урумчи, Китай",
+  "facelift": null,
+  "platform": "Chery T2x",
+  "engines": [
+    { "code": "SQR477F", "volume": "1.5L", "type": "R4 MPI атмо", "fuel": "petrol", "power_hp": 113 }
+  ],
+  "transmissions": ["CVT", "5MT"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "medium",
+  "notes": "Субкомпактный кроссовер начального уровня. Атмосферный 1.5 SQR477F. CVT или 5МКПП. Переднеприводный. Импорт из Китая."
+}

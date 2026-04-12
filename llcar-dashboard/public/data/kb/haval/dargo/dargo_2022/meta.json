@@ -1,0 +1,18 @@
+{
+  "generation_id": "haval_dargo_2022",
+  "generation_name": "Dargo I (B09)",
+  "year_start": 2022,
+  "year_end": null,
+  "body_type": "suv",
+  "market": "import",
+  "production": "GWM, Баодин, Китай",
+  "facelift": null,
+  "platform": "GWM L.E.M.O.N. (F7x база)",
+  "engines": [
+    { "code": "GW4B15F", "volume": "2.0L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 190 }
+  ],
+  "transmissions": ["7DCT (мокрое сцепление)"],
+  "drivetrains": ["FWD", "AWD"],
+  "popularity_ru": "medium",
+  "notes": "Позиционируется как adventure-кроссовер. 2.0T GW4B15F + DCT-7. AWD с муфтой. Отличается брутальным дизайном и повышенным клиренсом. Импорт из Китая."
+}
