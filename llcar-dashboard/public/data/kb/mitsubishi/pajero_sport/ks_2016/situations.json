@@ -6,9 +6,8 @@
     "urg": 4,
     "cat": "engine",
     "dtc_codes": [
-      "P0420",
       "P0471",
-      "P1451",
+      "P242F",
       "P2463"
     ],
     "solutions": [
