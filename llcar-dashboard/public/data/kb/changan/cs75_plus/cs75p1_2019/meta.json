@@ -1,0 +1,19 @@
+{
+  "generation_id": "changan_cs75_plus_cs75p1_2019",
+  "generation_name": "CS75 Plus (2nd Gen)",
+  "year_start": 2019,
+  "year_end": null,
+  "body_type": "suv",
+  "market": "import",
+  "production": "Changan, Чунцин",
+  "facelift": null,
+  "platform": "Changan C-SUV",
+  "engines": [
+    { "code": "JL486ZQ5", "volume": "1.5T", "type": "R4 Turbo GDI", "fuel": "petrol", "power_hp": 184 },
+    { "code": "JL486ZQ6", "volume": "2.0T", "type": "R4 Turbo GDI", "fuel": "petrol", "power_hp": 233 }
+  ],
+  "transmissions": ["6AT", "8AT"],
+  "drivetrains": ["FWD", "AWD"],
+  "popularity_ru": "high",
+  "notes": "Один из самых популярных Changan в России. 1.5T + 6AT или 2.0T + 8AT. AWD только с 2.0T. Второе поколение с 2019 года."
+}

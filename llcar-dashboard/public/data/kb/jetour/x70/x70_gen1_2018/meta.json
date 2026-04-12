@@ -1,0 +1,19 @@
+{
+  "generation_id": "jetour_x70_x70_gen1_2018",
+  "generation_name": "Jetour X70 (1st Gen)",
+  "year_start": 2018,
+  "year_end": null,
+  "body_type": "suv",
+  "market": "import",
+  "production": "Chery Jetour, Урумчи",
+  "facelift": null,
+  "platform": "Chery C-SUV",
+  "engines": [
+    { "code": "SQRF4J16", "volume": "1.5L", "type": "R4 Turbo GDI", "fuel": "petrol", "power_hp": 147 },
+    { "code": "SQRF4J16A", "volume": "1.6L", "type": "R4 Turbo GDI", "fuel": "petrol", "power_hp": 197 }
+  ],
+  "transmissions": ["CVT", "7DCT"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "medium",
+  "notes": "7-местный среднеразмерный кроссовер Chery Jetour. 1.5T + CVT — бюджетный вариант. 1.6T + 7DCT — топовый вариант. Только передний привод."
+}

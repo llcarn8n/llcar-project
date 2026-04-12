@@ -1,0 +1,18 @@
+{
+  "generation_id": "jac_js4_js4_gen1_2019",
+  "generation_name": "JAC JS4 (1st Gen)",
+  "year_start": 2019,
+  "year_end": null,
+  "body_type": "suv",
+  "market": "import",
+  "production": "JAC, Хэфэй",
+  "facelift": null,
+  "platform": "JAC B-SUV",
+  "engines": [
+    { "code": "HFC4GA3", "volume": "1.5L", "type": "R4 Turbo GDI", "fuel": "petrol", "power_hp": 150 }
+  ],
+  "transmissions": ["6AT", "CVT"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "low",
+  "notes": "Компактный кроссовер JAC. 1.5T HFC4GA3 + 6AT — основной вариант. CVT — бюджетный вариант. Только передний привод."
+}

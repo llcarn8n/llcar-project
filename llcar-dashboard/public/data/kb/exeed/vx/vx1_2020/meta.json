@@ -1,0 +1,18 @@
+{
+  "generation_id": "exeed_vx_vx1_2020",
+  "generation_name": "Exeed VX (1st Gen)",
+  "year_start": 2020,
+  "year_end": null,
+  "body_type": "suv",
+  "market": "import",
+  "production": "Chery, Урумчи",
+  "facelift": null,
+  "platform": "Chery D-SUV",
+  "engines": [
+    { "code": "SQRF4J16", "volume": "2.0L", "type": "R4 Turbo GDI", "fuel": "petrol", "power_hp": 197 }
+  ],
+  "transmissions": ["6AT"],
+  "drivetrains": ["FWD", "AWD"],
+  "popularity_ru": "medium",
+  "notes": "Флагманский полноразмерный кроссовер суббренда Exeed (Chery). 2.0T + 6AT — единственный вариант. AWD — опция. Позиционируется против Volvo XC60."
+}

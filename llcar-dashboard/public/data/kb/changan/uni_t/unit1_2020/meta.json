@@ -1,0 +1,18 @@
+{
+  "generation_id": "changan_uni_t_unit1_2020",
+  "generation_name": "UNI-T (1st Gen)",
+  "year_start": 2020,
+  "year_end": null,
+  "body_type": "suv",
+  "market": "import",
+  "production": "Changan, Чунцин",
+  "facelift": null,
+  "platform": "Changan UNI",
+  "engines": [
+    { "code": "JL486ZQ5A", "volume": "1.5L", "type": "R4 Turbo GDI", "fuel": "petrol", "power_hp": 181 }
+  ],
+  "transmissions": ["7DCT"],
+  "drivetrains": ["FWD", "AWD"],
+  "popularity_ru": "medium",
+  "notes": "Технологичный компактный кроссовер линейки UNI. BlueCore 1.5T + 7DCT — единственный вариант. AWD — опция. Панорамное лобовое стекло."
+}

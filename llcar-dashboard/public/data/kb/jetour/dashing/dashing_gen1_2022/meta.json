@@ -1,0 +1,18 @@
+{
+  "generation_id": "jetour_dashing_dashing_gen1_2022",
+  "generation_name": "Jetour Dashing (1st Gen)",
+  "year_start": 2022,
+  "year_end": null,
+  "body_type": "suv",
+  "market": "import",
+  "production": "Chery Jetour, Урумчи",
+  "facelift": null,
+  "platform": "Chery B-SUV",
+  "engines": [
+    { "code": "SQRF4J16", "volume": "1.5L", "type": "R4 Turbo GDI", "fuel": "petrol", "power_hp": 147 }
+  ],
+  "transmissions": ["CVT", "7DCT"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "medium",
+  "notes": "Компактный кроссовер Chery Jetour нового поколения. 1.5T + CVT или 7DCT. Только передний привод. Агрессивный дизайн."
+}

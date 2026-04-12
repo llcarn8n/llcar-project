@@ -1,0 +1,18 @@
+{
+  "generation_id": "faw_bestune_t99_t99_gen1_2020",
+  "generation_name": "FAW Bestune T99 (1st Gen)",
+  "year_start": 2020,
+  "year_end": null,
+  "body_type": "suv",
+  "market": "import",
+  "production": "FAW, Чанчунь",
+  "facelift": null,
+  "platform": "FAW D-SUV",
+  "engines": [
+    { "code": "CA4GC20TD", "volume": "2.0L", "type": "R4 Turbo GDI", "fuel": "petrol", "power_hp": 252 }
+  ],
+  "transmissions": ["8AT"],
+  "drivetrains": ["FWD", "AWD"],
+  "popularity_ru": "low",
+  "notes": "Флагманский кроссовер FAW Bestune. 2.0T + 8AT — единственный вариант. AWD — опция. Пневматическая подвеска на топ-комплектации."
+}

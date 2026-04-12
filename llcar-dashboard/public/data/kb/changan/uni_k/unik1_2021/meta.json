@@ -1,0 +1,18 @@
+{
+  "generation_id": "changan_uni_k_unik1_2021",
+  "generation_name": "UNI-K (1st Gen)",
+  "year_start": 2021,
+  "year_end": null,
+  "body_type": "suv",
+  "market": "import",
+  "production": "Changan, Чунцин",
+  "facelift": null,
+  "platform": "Changan UNI",
+  "engines": [
+    { "code": "JL486ZQ6", "volume": "2.0L", "type": "R4 Turbo GDI", "fuel": "petrol", "power_hp": 233 }
+  ],
+  "transmissions": ["8AT"],
+  "drivetrains": ["FWD", "AWD"],
+  "popularity_ru": "medium",
+  "notes": "Флагманский кроссовер линейки UNI. BlueCore 2.0T + 8AT — единственный вариант. AWD — опция. Более крупный брат UNI-T."
+}

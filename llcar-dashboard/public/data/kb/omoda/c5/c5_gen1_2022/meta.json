@@ -1,0 +1,18 @@
+{
+  "generation_id": "omoda_c5_c5_gen1_2022",
+  "generation_name": "Omoda C5 (1st Gen)",
+  "year_start": 2022,
+  "year_end": null,
+  "body_type": "suv",
+  "market": "import",
+  "production": "Chery, Урумчи / AGR Automotive, Калуга (с 2024)",
+  "facelift": null,
+  "platform": "Chery T1x",
+  "engines": [
+    { "code": "SQRE4T15C", "volume": "1.5L", "type": "R4 Turbo GDI", "fuel": "petrol", "power_hp": 147 }
+  ],
+  "transmissions": ["CVT"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "high",
+  "notes": "Компактный кроссовер суббренда Omoda (Chery). Платформа идентична Chery Tiggo 4 Pro. 1.5T + CVT — единственный вариант. Сборка AGR Калуга с 2024."
+}
