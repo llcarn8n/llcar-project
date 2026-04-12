@@ -1,0 +1,20 @@
+{
+  "generation_id": "hyundai_creta_gs_2014",
+  "generation_name": "Creta I (GS/GC)",
+  "year_start": 2014,
+  "year_end": 2021,
+  "body_type": "suv",
+  "market": "official",
+  "production": "Hyundai Motor India / Hyundai Motor Russia, СПб (завод Hyundai)",
+  "facelift": 2017,
+  "platform": "Hyundai ix25 platform",
+  "engines": [
+    { "code": "G4FG", "volume": "1.6L", "type": "MPI", "fuel": "petrol", "power_hp": 123 },
+    { "code": "G4NA", "volume": "2.0L", "type": "MPI", "fuel": "petrol", "power_hp": 149 },
+    { "code": "D4FB", "volume": "1.6L", "type": "CRDi diesel", "fuel": "diesel", "power_hp": 128 }
+  ],
+  "transmissions": ["МКПП-6", "АКПП-6", "CVT (1.6)"],
+  "drivetrains": ["FWD", "AWD"],
+  "popularity_ru": "very_high",
+  "notes": "Первое поколение Creta. Произведено в России на заводе Hyundai в СПб. Стало одним из самых продаваемых кроссоверов РФ. Рестайлинг 2017. Сменило поколение в 2021 (SU2). Дизель D4FB доступен с МКПП6."
+}

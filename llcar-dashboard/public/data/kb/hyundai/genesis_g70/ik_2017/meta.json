@@ -1,0 +1,20 @@
+{
+  "generation_id": "hyundai_genesis_g70_ik_2017",
+  "generation_name": "Genesis G70 I (IK)",
+  "year_start": 2017,
+  "year_end": 2023,
+  "body_type": "sedan",
+  "market": "parallel_import",
+  "production": "Genesis Motor (Hyundai), Южная Корея (Ульсан)",
+  "facelift": 2020,
+  "platform": "Hyundai M3X (RWD/AWD)",
+  "engines": [
+    { "code": "G6DP", "volume": "3.3L", "type": "Lambda II V6 Twin Turbo", "fuel": "petrol", "power_hp": 370 },
+    { "code": "G4KH", "volume": "2.0L", "type": "Theta III T-GDI", "fuel": "petrol", "power_hp": 255 },
+    { "code": "R9A", "volume": "2.2L", "type": "CRDi diesel", "fuel": "diesel", "power_hp": 202 }
+  ],
+  "transmissions": ["АКПП-8 (2.0T/3.3TT)", "МКПП-6 (2.0T)"],
+  "drivetrains": ["RWD", "AWD"],
+  "popularity_ru": "low",
+  "notes": "Первый спортивный заднеприводный седан Genesis. Платформа M3X общая с Kia Stinger. V6 3.3TT — flagship мотор 370 л.с. Задний привод RWD по умолчанию. В России доступен через параллельный импорт. Рестайлинг 2020."
+}

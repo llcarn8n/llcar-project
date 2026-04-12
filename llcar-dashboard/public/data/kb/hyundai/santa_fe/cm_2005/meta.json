@@ -1,0 +1,21 @@
+{
+  "generation_id": "hyundai_santa_fe_cm_2005",
+  "generation_name": "Santa Fe II (CM)",
+  "year_start": 2005,
+  "year_end": 2012,
+  "body_type": "suv",
+  "market": "official",
+  "production": "Hyundai Motor Company, Южная Корея / Таганрог (ТагАЗ)",
+  "facelift": 2009,
+  "platform": "Hyundai CM platform",
+  "engines": [
+    { "code": "G6EA", "volume": "2.7L", "type": "V6 DOHC", "fuel": "petrol", "power_hp": 189 },
+    { "code": "G4KA", "volume": "2.0L", "type": "DOHC CVVT", "fuel": "petrol", "power_hp": 150 },
+    { "code": "D4EA", "volume": "2.0L", "type": "CRDi diesel", "fuel": "diesel", "power_hp": 150 },
+    { "code": "D4EB", "volume": "2.2L", "type": "CRDi diesel", "fuel": "diesel", "power_hp": 155 }
+  ],
+  "transmissions": ["МКПП-6", "АКПП-5", "АКПП-6"],
+  "drivetrains": ["FWD", "AWD"],
+  "popularity_ru": "high",
+  "notes": "Второе поколение Santa Fe. Популярный семейный кроссовер в России. Производился в том числе на ТагАЗе. V6 2.7 G6EA — самый распространённый бензиновый мотор. Рестайлинг 2009."
+}

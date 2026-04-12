@@ -1,0 +1,20 @@
+{
+  "generation_id": "nissan_qashqai_j12_2021",
+  "generation_name": "Qashqai III (J12)",
+  "year_start": 2021,
+  "year_end": 2026,
+  "body_type": "suv",
+  "market": "parallel_import",
+  "production": "Nissan Motor Manufacturing UK, Сандерленд",
+  "facelift": null,
+  "platform": "CMF-CD (Renault-Nissan-Mitsubishi Alliance)",
+  "engines": [
+    { "code": "HR13DDT", "volume": "1.3L", "type": "DiG-T Turbo", "fuel": "petrol", "power_hp": 140 },
+    { "code": "HR13DDT", "volume": "1.3L", "type": "DiG-T Turbo", "fuel": "petrol", "power_hp": 158 },
+    { "code": "KR15DDT", "volume": "1.5L", "type": "e-Power Hybrid", "fuel": "petrol+electric", "power_hp": 190 }
+  ],
+  "transmissions": ["CVT Xtronic", "МКПП-6", "e-CVT (e-Power)"],
+  "drivetrains": ["FWD", "AWD"],
+  "popularity_ru": "medium",
+  "notes": "Третье поколение Qashqai — полностью новая платформа CMF-CD. Более лёгкий и безопасный кузов. Двигатели Renault-Nissan 1.3 DiG-T совместной разработки. Гибрид e-Power только на переднем приводе. Параллельный импорт."
+}

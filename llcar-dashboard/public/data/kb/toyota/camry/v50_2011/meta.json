@@ -1,0 +1,20 @@
+{
+  "generation_id": "toyota_camry_v50_2011",
+  "generation_name": "Camry VII (XV50)",
+  "year_start": 2011,
+  "year_end": 2017,
+  "body_type": "sedan",
+  "market": "local_production",
+  "production": "Toyota Motor Manufacturing Russia, Шушары СПб (2012-2017)",
+  "facelift": 2014,
+  "platform": "K platform",
+  "engines": [
+    { "code": "2AR-FE", "volume": "2.5L", "type": "DOHC VVT-i", "fuel": "petrol", "power_hp": 181 },
+    { "code": "6AR-FSE", "volume": "2.0L", "type": "D-4S", "fuel": "petrol", "power_hp": 152 },
+    { "code": "2GR-FE", "volume": "3.5L", "type": "V6 DOHC", "fuel": "petrol", "power_hp": 277 }
+  ],
+  "transmissions": ["АКПП-6 (2AR-FE/2GR-FE)"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "very_high",
+  "notes": "Седьмое поколение, производилось на заводе в Шушарах. Рестайлинг 2014. Один из самых популярных бизнес-седанов РФ за всё время. Двигатель 2AR-FE признан одним из надёжнейших в классе."
+}

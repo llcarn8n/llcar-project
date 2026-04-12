@@ -1,0 +1,20 @@
+{
+  "generation_id": "kia_cerato_td_2008",
+  "generation_name": "Cerato II (TD)",
+  "year_start": 2008,
+  "year_end": 2013,
+  "body_type": "sedan/hatchback",
+  "market": "official",
+  "production": "Kia Motors, Южная Корея / Автотор, Калининград",
+  "facelift": 2010,
+  "platform": "FD platform",
+  "engines": [
+    { "code": "G4FC", "volume": "1.6L", "type": "DOHC CVVT", "fuel": "petrol", "power_hp": 122 },
+    { "code": "G4GC", "volume": "2.0L", "type": "DOHC CVVT", "fuel": "petrol", "power_hp": 143 },
+    { "code": "D4FB", "volume": "1.6L", "type": "CRDi diesel", "fuel": "diesel", "power_hp": 126 }
+  ],
+  "transmissions": ["МКПП-6", "АКПП-4"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "high",
+  "notes": "Второе поколение Cerato. Более современный дизайн и улучшенная оснащённость. Рестайлинг 2010. Двигатель G4FC — надёжный и экономичный агрегат, широко используется в классе."
+}

@@ -1,0 +1,20 @@
+{
+  "generation_id": "kia_sportage_sl_2010",
+  "generation_name": "Sportage III (SL)",
+  "year_start": 2010,
+  "year_end": 2016,
+  "body_type": "suv",
+  "market": "official",
+  "production": "Kia Motors, Южная Корея / Автотор, Калининград",
+  "facelift": 2014,
+  "platform": "Hyundai ix35 platform (FWD/AWD)",
+  "engines": [
+    { "code": "G4FD", "volume": "1.6L", "type": "Gamma GDI", "fuel": "petrol", "power_hp": 135 },
+    { "code": "G4KD", "volume": "2.0L", "type": "Theta II MPI", "fuel": "petrol", "power_hp": 150 },
+    { "code": "D4HA", "volume": "2.0L", "type": "R CRDi", "fuel": "diesel", "power_hp": 136 }
+  ],
+  "transmissions": ["МКПП-6", "АКПП-6"],
+  "drivetrains": ["FWD", "AWD"],
+  "popularity_ru": "very_high",
+  "notes": "Третье поколение Sportage — одно из самых массовых и узнаваемых кроссоверов в России. Платформа общая с Hyundai ix35. Широчайшая сеть обслуживания, доступные запчасти. Рестайлинг 2014."
+}

@@ -1,0 +1,20 @@
+{
+  "generation_id": "hyundai_tucson_nx4_2020",
+  "generation_name": "Tucson IV (NX4)",
+  "year_start": 2020,
+  "year_end": 2025,
+  "body_type": "suv",
+  "market": "official + parallel_import",
+  "production": "Hyundai Motor Company, Южная Корея / Чехия (HMMC)",
+  "facelift": 2023,
+  "platform": "Hyundai N3 platform",
+  "engines": [
+    { "code": "G4FL", "volume": "2.0L", "type": "MPI", "fuel": "petrol", "power_hp": 150 },
+    { "code": "G4KH", "volume": "1.6L", "type": "T-GDI Turbo", "fuel": "petrol", "power_hp": 180 },
+    { "code": "D4HB", "volume": "2.0L", "type": "CRDi", "fuel": "diesel", "power_hp": 186 }
+  ],
+  "transmissions": ["АКПП-6 (2.0 MPI)", "8DCT (1.6T)", "АКПП-8 (дизель)"],
+  "drivetrains": ["FWD", "AWD"],
+  "popularity_ru": "very_high",
+  "notes": "Четвёртое поколение Tucson с радикально новым дизайном. Параметрическое освещение, скрытые дверные ручки. 1.6T с 8DCT — основная версия. Рестайлинг 2023 (N-Line)."
+}

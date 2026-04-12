@@ -1,0 +1,19 @@
+{
+  "generation_id": "nissan_x_trail_t33_2022",
+  "generation_name": "X-Trail IV (T33)",
+  "year_start": 2022,
+  "year_end": 2027,
+  "body_type": "suv",
+  "market": "parallel_import",
+  "production": "Nissan Motor, Япония (Кюсю) / Китай (Dongjing)",
+  "facelift": null,
+  "platform": "CMF-CD (Renault-Nissan-Mitsubishi Alliance)",
+  "engines": [
+    { "code": "KR15DDT", "volume": "1.5L", "type": "e-Power Hybrid VC-Turbo", "fuel": "petrol+electric", "power_hp": 204 },
+    { "code": "MR20DD", "volume": "2.0L", "type": "MPI Mild-Hybrid", "fuel": "petrol", "power_hp": 145 }
+  ],
+  "transmissions": ["e-CVT (e-Power)", "CVT Xtronic (2.0 MHev)"],
+  "drivetrains": ["FWD", "AWD (e-4ORCE)"],
+  "popularity_ru": "medium",
+  "notes": "Четвёртое поколение X-Trail на платформе CMF-CD. Гибрид e-Power с VC-Turbo 1.5 — основная версия. e-4ORCE AWD — электрический задний мост без механической связи. Параллельный импорт из Японии."
+}

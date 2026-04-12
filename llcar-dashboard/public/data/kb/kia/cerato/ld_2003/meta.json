@@ -1,0 +1,20 @@
+{
+  "generation_id": "kia_cerato_ld_2003",
+  "generation_name": "Cerato I (LD)",
+  "year_start": 2003,
+  "year_end": 2008,
+  "body_type": "sedan/hatchback",
+  "market": "official",
+  "production": "Kia Motors, Южная Корея / Автотор, Калининград",
+  "facelift": 2006,
+  "platform": "J2 platform (Hyundai)",
+  "engines": [
+    { "code": "G4ED", "volume": "1.6L", "type": "DOHC CVVT", "fuel": "petrol", "power_hp": 105 },
+    { "code": "G4GC", "volume": "2.0L", "type": "DOHC CVVT", "fuel": "petrol", "power_hp": 143 },
+    { "code": "D4FA", "volume": "1.5L", "type": "CRDi diesel", "fuel": "diesel", "power_hp": 102 }
+  ],
+  "transmissions": ["МКПП-5", "АКПП-4"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "medium",
+  "notes": "Первое поколение Cerato. Производилось в Калининграде на заводе Автотор. Простая и недорогая в обслуживании платформа. Широко распространено на вторичном рынке России."
+}
