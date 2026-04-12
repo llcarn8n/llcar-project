@@ -1,0 +1,21 @@
+{
+  "generation_id": "bmw_6_series_f13_2010",
+  "generation_name": "6 Series III (F12/F13/F06)",
+  "year_start": 2010,
+  "year_end": 2018,
+  "body_type": "coupe/cabrio/gran_coupe",
+  "market": "import",
+  "production": "BMW Dingolfing, Германия",
+  "facelift": 2015,
+  "platform": "BMW F01 base",
+  "engines": [
+    { "code": "N55B30A", "volume": "3.0L", "type": "R6 Turbo", "fuel": "petrol", "power_hp": 320 },
+    { "code": "N63B44O1", "volume": "4.4L", "type": "V8 BiTurbo", "fuel": "petrol", "power_hp": 450 },
+    { "code": "S63B44A", "volume": "4.4L", "type": "V8 BiTurbo (M6)", "fuel": "petrol", "power_hp": 560 },
+    { "code": "N57D30OL", "volume": "3.0L", "type": "R6 TriTurbo Diesel", "fuel": "diesel", "power_hp": 313 }
+  ],
+  "transmissions": ["АКПП-8 ZF 8HP"],
+  "drivetrains": ["RWD"],
+  "popularity_ru": "low",
+  "notes": "Третье поколение 6 серии. Купе F13, кабриолет F12, Gran Coupe F06. M6 — S63B44A. N63 — известен повышенным масложором. LCI 2015."
+}

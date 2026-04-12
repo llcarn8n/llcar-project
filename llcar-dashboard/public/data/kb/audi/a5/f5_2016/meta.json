@@ -1,0 +1,22 @@
+{
+  "generation_id": "audi_a5_f5_2016",
+  "generation_name": "A5 II (F5)",
+  "year_start": 2016,
+  "year_end": null,
+  "body_type": "coupe/cabrio/sportback",
+  "market": "parallel_import",
+  "production": "Audi Ingolstadt / Neckarsulm, Германия",
+  "facelift": 2019,
+  "platform": "Audi MLB Evo",
+  "engines": [
+    { "code": "CYRB", "volume": "2.0L", "type": "R4 TFSI", "fuel": "petrol", "power_hp": 190 },
+    { "code": "CVKB", "volume": "2.0L", "type": "R4 TFSI", "fuel": "petrol", "power_hp": 245 },
+    { "code": "DKNA", "volume": "3.0L", "type": "V6 TFSI 48V (S5)", "fuel": "petrol", "power_hp": 354 },
+    { "code": "DERA", "volume": "2.0L", "type": "R4 TDI", "fuel": "diesel", "power_hp": 190 },
+    { "code": "CVUA", "volume": "3.0L", "type": "V6 TDI", "fuel": "diesel", "power_hp": 286 }
+  ],
+  "transmissions": ["S tronic DSG-7 DQ381 (мокрое)", "tiptronic АКПП-8 ZF"],
+  "drivetrains": ["FWD", "quattro AWD (ultra или Haldex)"],
+  "popularity_ru": "low",
+  "notes": "Второе поколение A5 на MLB Evo. CYRB/CVKB TFSI — нагар на клапанах прямого впрыска. DSG DQ381 мокрое — значительно надёжнее DQ200. S5 — V6 48V. LCI 2019."
+}

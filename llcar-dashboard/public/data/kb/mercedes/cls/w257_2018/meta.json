@@ -1,0 +1,21 @@
+{
+  "generation_id": "mercedes_cls_w257_2018",
+  "generation_name": "CLS III (W257)",
+  "year_start": 2018,
+  "year_end": null,
+  "body_type": "coupe_sedan",
+  "market": "parallel_import",
+  "production": "Mercedes-Benz Sindelfingen, Германия",
+  "facelift": null,
+  "platform": "Mercedes MRA (W213 base)",
+  "engines": [
+    { "code": "M256.920", "volume": "3.0L", "type": "R6 EQ Boost 48V", "fuel": "petrol", "power_hp": 367 },
+    { "code": "M256.930", "volume": "3.0L", "type": "R6 EQ Boost 48V", "fuel": "petrol", "power_hp": 435 },
+    { "code": "M177.980", "volume": "4.0L", "type": "V8 BiTurbo AMG 53", "fuel": "petrol", "power_hp": 450 },
+    { "code": "OM656.929", "volume": "3.0L", "type": "R6 Diesel EQ Boost", "fuel": "diesel", "power_hp": 265 }
+  ],
+  "transmissions": ["АКПП-9 9G-Tronic"],
+  "drivetrains": ["RWD", "4MATIC AWD"],
+  "popularity_ru": "low",
+  "notes": "Третье поколение CLS на платформе E-класса W213. M256 R6 с 48V EQ Boost mild-hybrid. AMG CLS53 — без V8. Параллельный импорт с 2022."
+}

@@ -1,0 +1,22 @@
+{
+  "generation_id": "volvo_s60_v_2010",
+  "generation_name": "S60 II (134)",
+  "year_start": 2010,
+  "year_end": 2018,
+  "body_type": "sedan",
+  "market": "import",
+  "production": "Volvo Gent, Бельгия",
+  "facelift": 2013,
+  "platform": "Volvo P2 (Ford D3)",
+  "engines": [
+    { "code": "B4204T4", "volume": "2.0L", "type": "R4 Turbo T4", "fuel": "petrol", "power_hp": 181 },
+    { "code": "B4204T6", "volume": "2.0L", "type": "R4 Turbo T5", "fuel": "petrol", "power_hp": 249 },
+    { "code": "B4204T7", "volume": "2.0L", "type": "R4 Turbo T6", "fuel": "petrol", "power_hp": 306 },
+    { "code": "D4204T5", "volume": "2.0L", "type": "R4 TDI D3", "fuel": "diesel", "power_hp": 136 },
+    { "code": "D5244T15", "volume": "2.4L", "type": "R5 TDI D5", "fuel": "diesel", "power_hp": 215 }
+  ],
+  "transmissions": ["МКПП-6", "АКПП-6 Aisin TF-80SC (T4/T5)", "АКПП-6 Geartronic (T6/D5)"],
+  "drivetrains": ["FWD", "AWD Haldex (T6)"],
+  "popularity_ru": "medium",
+  "notes": "Второе поколение S60. Платформа Ford D3 (общая с Ford Mondeo). T6 — AWD Haldex. D5 — рядная пятёрка, надёжный. LCI 2013 — новый интерьер и фары."
+}

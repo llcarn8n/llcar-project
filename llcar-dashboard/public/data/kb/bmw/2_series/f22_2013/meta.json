@@ -1,0 +1,21 @@
+{
+  "generation_id": "bmw_2_series_f22_2013",
+  "generation_name": "2 Series I (F22/F23/F87)",
+  "year_start": 2013,
+  "year_end": 2021,
+  "body_type": "coupe/cabrio",
+  "market": "import",
+  "production": "BMW Regensburg, Германия",
+  "facelift": 2017,
+  "platform": "BMW UKL2 / FAAR",
+  "engines": [
+    { "code": "N20B20", "volume": "2.0L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 184 },
+    { "code": "N20B20O1", "volume": "2.0L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 245 },
+    { "code": "B48B20M0", "volume": "2.0L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 184 },
+    { "code": "S55B30", "volume": "3.0L", "type": "R6 TwinTurbo (M2)", "fuel": "petrol", "power_hp": 370 }
+  ],
+  "transmissions": ["МКПП-6", "АКПП-8 ZF 8HP"],
+  "drivetrains": ["RWD"],
+  "popularity_ru": "low",
+  "notes": "Первое поколение 2 серии, купе F22 и кабриолет F23. M2 (F87) — с S55B30. N20 до 2016, затем B48. LCI 2017. Задний привод — стандарт."
+}

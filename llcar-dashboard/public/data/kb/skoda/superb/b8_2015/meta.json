@@ -1,0 +1,22 @@
+{
+  "generation_id": "skoda_superb_b8_2015",
+  "generation_name": "Superb III (B8)",
+  "year_start": 2015,
+  "year_end": null,
+  "body_type": "sedan/combi",
+  "market": "local_assembly",
+  "production": "Skoda Kvasiny / ГАЗ Нижний Новгород (до 2022)",
+  "facelift": 2019,
+  "platform": "VW MQB",
+  "engines": [
+    { "code": "CZDA", "volume": "1.4L", "type": "R4 TSI ACT", "fuel": "petrol", "power_hp": 150 },
+    { "code": "CYRC", "volume": "1.8L", "type": "R4 TSI", "fuel": "petrol", "power_hp": 180 },
+    { "code": "DFGA", "volume": "2.0L", "type": "R4 TSI", "fuel": "petrol", "power_hp": 272 },
+    { "code": "DDAA", "volume": "2.0L", "type": "R4 TDI", "fuel": "diesel", "power_hp": 150 },
+    { "code": "DFHA", "volume": "2.0L", "type": "R4 TDI", "fuel": "diesel", "power_hp": 190 }
+  ],
+  "transmissions": ["МКПП-6", "S tronic DSG-7 DQ381 (мокрое)", "S tronic DSG-6 DQ250 (мокрое)"],
+  "drivetrains": ["FWD", "4x4 (Haldex 5)"],
+  "popularity_ru": "high",
+  "notes": "Третье поколение Superb на MQB. Российская сборка на ГАЗ. CZDA 1.4 TSI ACT — отключение цилиндров. Седан и Combi. DQ381 мокрое — для 4x4. LCI 2019."
+}

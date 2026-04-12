@@ -1,0 +1,23 @@
+{
+  "generation_id": "vw_passat_b8_2014",
+  "generation_name": "Passat B8",
+  "year_start": 2014,
+  "year_end": null,
+  "body_type": "sedan/variant",
+  "market": "local_assembly",
+  "production": "VW Emden/Zwickau / ГАЗ Нижний Новгород (до 2022)",
+  "facelift": 2019,
+  "platform": "VW MQB",
+  "engines": [
+    { "code": "CZDA", "volume": "1.4L", "type": "R4 TSI ACT", "fuel": "petrol", "power_hp": 125 },
+    { "code": "CZDA", "volume": "1.4L", "type": "R4 TSI ACT", "fuel": "petrol", "power_hp": 150 },
+    { "code": "DFGA", "volume": "2.0L", "type": "R4 TSI", "fuel": "petrol", "power_hp": 220 },
+    { "code": "DHHA", "volume": "1.5L", "type": "R4 TSI ACT Evo", "fuel": "petrol", "power_hp": 150 },
+    { "code": "DDAA", "volume": "2.0L", "type": "R4 TDI", "fuel": "diesel", "power_hp": 150 },
+    { "code": "DFHA", "volume": "2.0L", "type": "R4 TDI", "fuel": "diesel", "power_hp": 190 }
+  ],
+  "transmissions": ["МКПП-6", "S tronic DSG-6 DQ250 (мокрое)", "S tronic DSG-7 DQ381 (мокрое)"],
+  "drivetrains": ["FWD", "4Motion AWD (Haldex 5)"],
+  "popularity_ru": "high",
+  "notes": "Восьмое поколение Passat на MQB. Российская сборка ГАЗ до 2022. CZDA 1.4 TSI — популярный мотор. DQ500 для 2.0 TDI 240 л.с. (R-Line). LCI 2019."
+}

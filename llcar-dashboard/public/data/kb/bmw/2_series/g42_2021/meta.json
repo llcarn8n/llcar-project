@@ -1,0 +1,20 @@
+{
+  "generation_id": "bmw_2_series_g42_2021",
+  "generation_name": "2 Series II Coupe (G42)",
+  "year_start": 2021,
+  "year_end": null,
+  "body_type": "coupe",
+  "market": "parallel_import",
+  "production": "BMW San Luis Potosí, Мексика",
+  "facelift": null,
+  "platform": "BMW FAAR",
+  "engines": [
+    { "code": "B48B20M1", "volume": "2.0L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 184 },
+    { "code": "B48B20O1", "volume": "2.0L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 258 },
+    { "code": "S58B30A", "volume": "3.0L", "type": "R6 TwinTurbo (M2)", "fuel": "petrol", "power_hp": 460 }
+  ],
+  "transmissions": ["МКПП-6", "АКПП-8 ZF 8HP"],
+  "drivetrains": ["RWD", "xDrive AWD (M2 только RWD)"],
+  "popularity_ru": "low",
+  "notes": "Второе поколение купе. Платформа FAAR. Производство в Мексике. M2 G87 — S58B30A 460 л.с. Параллельный импорт с 2022."
+}

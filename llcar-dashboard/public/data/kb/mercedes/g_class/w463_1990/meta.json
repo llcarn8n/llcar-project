@@ -1,0 +1,22 @@
+{
+  "generation_id": "mercedes_g_class_w463_1990",
+  "generation_name": "G-Class W463 (1990–2018)",
+  "year_start": 1990,
+  "year_end": 2018,
+  "body_type": "suv",
+  "market": "import",
+  "production": "Magna Steyr, Грац, Австрия",
+  "facelift": 2012,
+  "platform": "Лестничная рама G-Class",
+  "engines": [
+    { "code": "OM642.940", "volume": "3.0L", "type": "V6 CDI", "fuel": "diesel", "power_hp": 224 },
+    { "code": "M272.985", "volume": "3.5L", "type": "V6", "fuel": "petrol", "power_hp": 272 },
+    { "code": "M273.923", "volume": "5.5L", "type": "V8", "fuel": "petrol", "power_hp": 388 },
+    { "code": "M157.982", "volume": "5.5L", "type": "V8 BiTurbo AMG", "fuel": "petrol", "power_hp": 536 },
+    { "code": "M178.980", "volume": "4.0L", "type": "V8 BiTurbo AMG (G63)", "fuel": "petrol", "power_hp": 585 }
+  ],
+  "transmissions": ["АКПП-7 7G-Tronic", "АКПП-9 9G-Tronic (от 2015)"],
+  "drivetrains": ["4MATIC AWD (постоянный с тремя блокировками)"],
+  "popularity_ru": "medium",
+  "notes": "Долгожитель на раме. Производство Magna Steyr Австрия. AMG G63 W463 — M157/M178. Три принудительные блокировки дифференциалов. LCI 2012 — новый интерьер. Последние W463 до 2018."
+}

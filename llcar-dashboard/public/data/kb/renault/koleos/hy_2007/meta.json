@@ -1,0 +1,20 @@
+{
+  "generation_id": "renault_koleos_hy_2007",
+  "generation_name": "Koleos I (HY)",
+  "year_start": 2007,
+  "year_end": 2016,
+  "body_type": "suv",
+  "market": "import",
+  "production": "Renault Samsung Busan, Южная Корея",
+  "facelift": 2011,
+  "platform": "Nissan C (X-Trail T31)",
+  "engines": [
+    { "code": "M4R", "volume": "2.5L", "type": "R4", "fuel": "petrol", "power_hp": 171 },
+    { "code": "M9R", "volume": "2.0L", "type": "R4 TDI", "fuel": "diesel", "power_hp": 150 },
+    { "code": "M9R", "volume": "2.0L", "type": "R4 TDI", "fuel": "diesel", "power_hp": 173 }
+  ],
+  "transmissions": ["МКПП-6", "CVT Xtronic (M4R)", "АКПП-6 (M9R)"],
+  "drivetrains": ["FWD", "4WD (Haldex подключаемый)"],
+  "popularity_ru": "low",
+  "notes": "Первое поколение Koleos — совместная платформа Nissan X-Trail T31. Производство Samsung Корея. M4R 2.5 бензин — основной для РФ. M9R 2.0 дизель — для Европы. LCI 2011."
+}

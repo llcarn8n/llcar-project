@@ -1,0 +1,21 @@
+{
+  "generation_id": "audi_q3_f3_2018",
+  "generation_name": "Q3 II (F3)",
+  "year_start": 2018,
+  "year_end": null,
+  "body_type": "suv",
+  "market": "parallel_import",
+  "production": "SEAT Martorell, Испания",
+  "facelift": null,
+  "platform": "VW MQB A2",
+  "engines": [
+    { "code": "DFYA", "volume": "1.5L", "type": "R4 TFSI", "fuel": "petrol", "power_hp": 150 },
+    { "code": "DKFA", "volume": "2.0L", "type": "R4 TFSI", "fuel": "petrol", "power_hp": 190 },
+    { "code": "DKFA", "volume": "2.0L", "type": "R4 TFSI", "fuel": "petrol", "power_hp": 230 },
+    { "code": "DFFA", "volume": "2.0L", "type": "R4 TDI", "fuel": "diesel", "power_hp": 150 }
+  ],
+  "transmissions": ["S tronic DSG-7 DQ381 (мокрое)", "МКПП-6"],
+  "drivetrains": ["FWD", "quattro AWD (Haldex 5)"],
+  "popularity_ru": "low",
+  "notes": "Второе поколение Q3 на MQB A2. Марторелл Испания. DKFA 2.0 TFSI — нагар на клапанах. DSG DQ381 мокрое — надёжнее предшественника. Haldex 5 quattro. Параллельный импорт с 2022."
+}

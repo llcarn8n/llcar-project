@@ -1,0 +1,22 @@
+{
+  "generation_id": "audi_a5_8t_2007",
+  "generation_name": "A5 I (8T/8F)",
+  "year_start": 2007,
+  "year_end": 2016,
+  "body_type": "coupe/cabrio/sportback",
+  "market": "import",
+  "production": "Audi Ingolstadt / Neckarsulm, Германия",
+  "facelift": 2011,
+  "platform": "Audi MLB",
+  "engines": [
+    { "code": "CDN", "volume": "2.0L", "type": "R4 TFSI", "fuel": "petrol", "power_hp": 211 },
+    { "code": "CDNB", "volume": "2.0L", "type": "R4 TFSI", "fuel": "petrol", "power_hp": 180 },
+    { "code": "CGWB", "volume": "3.0L", "type": "V6 TFSI (S5)", "fuel": "petrol", "power_hp": 333 },
+    { "code": "CAHA", "volume": "2.7L", "type": "V6 TDI", "fuel": "diesel", "power_hp": 190 },
+    { "code": "CALA", "volume": "3.0L", "type": "V6 TDI", "fuel": "diesel", "power_hp": 239 }
+  ],
+  "transmissions": ["МКПП-6", "S tronic DSG-7 DQ200 (сухое, FWD 2.0)", "tiptronic АКПП-6 (V6)"],
+  "drivetrains": ["FWD", "quattro AWD"],
+  "popularity_ru": "medium",
+  "notes": "Первое поколение A5. Купе 8T, кабриолет 8F, Sportback 8TA. CDN 2.0 TFSI — расход масла типичен. S5 — V6 TFSI 333 л.с. LCI 2011. DSG DQ200 — проблемная трансмиссия."
+}

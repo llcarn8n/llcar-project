@@ -1,0 +1,22 @@
+{
+  "generation_id": "bmw_4_series_g22_2020",
+  "generation_name": "4 Series II (G22/G23/G26)",
+  "year_start": 2020,
+  "year_end": null,
+  "body_type": "coupe/cabrio/gran_coupe",
+  "market": "parallel_import",
+  "production": "BMW Dingolfing, Германия",
+  "facelift": null,
+  "platform": "BMW CLAR",
+  "engines": [
+    { "code": "B48B20M1", "volume": "2.0L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 184 },
+    { "code": "B48B20O1", "volume": "2.0L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 258 },
+    { "code": "B58B30M1", "volume": "3.0L", "type": "R6 Turbo", "fuel": "petrol", "power_hp": 374 },
+    { "code": "S58B30A", "volume": "3.0L", "type": "R6 TwinTurbo (M4)", "fuel": "petrol", "power_hp": 510 },
+    { "code": "B47D20U1", "volume": "2.0L", "type": "R4 TDI", "fuel": "diesel", "power_hp": 190 }
+  ],
+  "transmissions": ["МКПП-6 (только M4)", "АКПП-8 ZF 8HP"],
+  "drivetrains": ["RWD", "xDrive AWD"],
+  "popularity_ru": "low",
+  "notes": "Второе поколение 4 серии на платформе CLAR. Спорная решётка-«ноздри». M4 G82 — S58, 510 л.с., xDrive Competition. Параллельный импорт с 2022."
+}

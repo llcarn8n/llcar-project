@@ -1,0 +1,20 @@
+{
+  "generation_id": "renault_koleos_hz_2016",
+  "generation_name": "Koleos II (HZG)",
+  "year_start": 2016,
+  "year_end": null,
+  "body_type": "suv",
+  "market": "parallel_import",
+  "production": "Renault Samsung Busan, Южная Корея / Renault Wuhan, Китай",
+  "facelift": 2019,
+  "platform": "Renault-Nissan CMF-CD",
+  "engines": [
+    { "code": "H5H", "volume": "2.0L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 225 },
+    { "code": "M9R", "volume": "2.0L", "type": "R4 TDI Blue", "fuel": "diesel", "power_hp": 175 },
+    { "code": "HR16DE", "volume": "1.6L", "type": "R4 MPI", "fuel": "petrol", "power_hp": 120 }
+  ],
+  "transmissions": ["CVT Xtronic (1.6/2.0T)", "АКПП-7 (2.0 дизель)"],
+  "drivetrains": ["FWD", "4WD (Haldex подключаемый)"],
+  "popularity_ru": "low",
+  "notes": "Второе поколение Koleos на CMF-CD. H5H 2.0T — мощный турбомотор. CVT Xtronic — требует обслуживания. LCI 2019 — обновлённый интерьер. Параллельный импорт с 2022."
+}

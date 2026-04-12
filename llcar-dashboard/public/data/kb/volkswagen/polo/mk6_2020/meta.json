@@ -1,0 +1,20 @@
+{
+  "generation_id": "vw_polo_mk6_2020",
+  "generation_name": "Polo VI Sedan RU (Mk6, 2020)",
+  "year_start": 2020,
+  "year_end": 2023,
+  "body_type": "sedan",
+  "market": "local_assembly",
+  "production": "VW Калуга (Volkswagen Group Rus)",
+  "facelift": null,
+  "platform": "VW MQB A0",
+  "engines": [
+    { "code": "CWVA", "volume": "1.0L", "type": "R3 TSI", "fuel": "petrol", "power_hp": 95 },
+    { "code": "CFNA", "volume": "1.6L", "type": "R4 MPI", "fuel": "petrol", "power_hp": 90 },
+    { "code": "CFNA", "volume": "1.6L", "type": "R4 MPI", "fuel": "petrol", "power_hp": 110 }
+  ],
+  "transmissions": ["МКПП-5 (1.6 MPI)", "АКПП-6 Aisin (1.6 MPI)", "S tronic DSG-7 DQ200 (1.0 TSI)"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "high",
+  "notes": "Российский седан Polo Mk6 — отдельная локализованная версия. CFNA 1.6 MPI — простой атмо-мотор, надёжный. АКПП-6 Aisin — надёжнее DSG. Производство Калуга до 2023."
+}

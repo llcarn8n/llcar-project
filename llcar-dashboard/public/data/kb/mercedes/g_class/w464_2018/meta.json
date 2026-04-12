@@ -1,0 +1,20 @@
+{
+  "generation_id": "mercedes_g_class_w464_2018",
+  "generation_name": "G-Class W464 (2018–н.в.)",
+  "year_start": 2018,
+  "year_end": null,
+  "body_type": "suv",
+  "market": "parallel_import",
+  "production": "Magna Steyr, Грац, Австрия",
+  "facelift": null,
+  "platform": "Обновлённая рама G-Class (алюминий + сталь)",
+  "engines": [
+    { "code": "M256.930", "volume": "3.0L", "type": "R6 EQ Boost 48V", "fuel": "petrol", "power_hp": 435 },
+    { "code": "M177.980", "volume": "4.0L", "type": "V8 BiTurbo AMG (G63)", "fuel": "petrol", "power_hp": 585 },
+    { "code": "M177.982", "volume": "4.0L", "type": "V8 BiTurbo AMG (G63 Edition 1)", "fuel": "petrol", "power_hp": 612 }
+  ],
+  "transmissions": ["АКПП-9 9G-Tronic (G500)", "AMG Speedshift TCT 9G (G63)"],
+  "drivetrains": ["4MATIC AWD (постоянный с тремя блокировками)"],
+  "popularity_ru": "medium",
+  "notes": "Глубокая модернизация 2018: независимая передняя подвеска, современный интерьер уровня S-класса. Три блокировки сохранены. G63 — M177.980 585 л.с. Параллельный импорт с 2022."
+}

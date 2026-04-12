@@ -1,0 +1,22 @@
+{
+  "generation_id": "volvo_xc40_536_2017",
+  "generation_name": "XC40 I (536)",
+  "year_start": 2017,
+  "year_end": null,
+  "body_type": "suv",
+  "market": "parallel_import",
+  "production": "Volvo Gent, Бельгия / Volvo Chengdu, Китай",
+  "facelift": 2022,
+  "platform": "Volvo CMA",
+  "engines": [
+    { "code": "B3154T2", "volume": "1.5L", "type": "R3 Turbo T3", "fuel": "petrol", "power_hp": 163 },
+    { "code": "B4204T21", "volume": "2.0L", "type": "R4 Turbo T4", "fuel": "petrol", "power_hp": 190 },
+    { "code": "B4204T48", "volume": "2.0L", "type": "R4 BiTurbo T5", "fuel": "petrol", "power_hp": 249 },
+    { "code": "D4204T8", "volume": "2.0L", "type": "R4 TDI D3", "fuel": "diesel", "power_hp": 150 },
+    { "code": "D4204T23", "volume": "2.0L", "type": "R4 TDI D4", "fuel": "diesel", "power_hp": 190 }
+  ],
+  "transmissions": ["МКПП-6 (T3)", "АКПП-8 Aisin AWF8F45 (T4/T5/D)"],
+  "drivetrains": ["FWD (T3/T4 base)", "AWD Haldex (T5/D4)"],
+  "popularity_ru": "medium",
+  "notes": "Первый XC40 на платформе CMA. Gent Бельгия / Chengdu Китай. T5 AWD — наиболее востребованная версия в РФ. АКПП Aisin 8-ступ. LCI 2022 — обновлённый Sensus/Android Auto. Параллельный импорт с 2022."
+}

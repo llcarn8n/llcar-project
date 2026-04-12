@@ -1,0 +1,21 @@
+{
+  "generation_id": "bmw_6_series_g32_2017",
+  "generation_name": "6 Series Gran Turismo (G32)",
+  "year_start": 2017,
+  "year_end": 2023,
+  "body_type": "gran_turismo",
+  "market": "import",
+  "production": "BMW Dingolfing, Германия",
+  "facelift": 2020,
+  "platform": "BMW CLAR",
+  "engines": [
+    { "code": "B48B20M0", "volume": "2.0L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 258 },
+    { "code": "B58B30M0", "volume": "3.0L", "type": "R6 Turbo", "fuel": "petrol", "power_hp": 340 },
+    { "code": "B47D20O1", "volume": "2.0L", "type": "R4 TDI", "fuel": "diesel", "power_hp": 265 },
+    { "code": "B57D30A", "volume": "3.0L", "type": "R6 TDI", "fuel": "diesel", "power_hp": 265 }
+  ],
+  "transmissions": ["АКПП-8 ZF 8HP"],
+  "drivetrains": ["RWD", "xDrive AWD"],
+  "popularity_ru": "low",
+  "notes": "Gran Turismo на платформе CLAR — фактически замена 5 GT. Пневмоподвеска опционально. xDrive стандарт для топовых версий. LCI 2020."
+}

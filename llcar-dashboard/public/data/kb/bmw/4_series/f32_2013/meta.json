@@ -1,0 +1,23 @@
+{
+  "generation_id": "bmw_4_series_f32_2013",
+  "generation_name": "4 Series I (F32/F33/F36)",
+  "year_start": 2013,
+  "year_end": 2020,
+  "body_type": "coupe/cabrio/gran_coupe",
+  "market": "import",
+  "production": "BMW Regensburg, Германия",
+  "facelift": 2017,
+  "platform": "BMW F30 base",
+  "engines": [
+    { "code": "N20B20O1", "volume": "2.0L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 184 },
+    { "code": "N20B20O1", "volume": "2.0L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 245 },
+    { "code": "B48B20O0", "volume": "2.0L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 252 },
+    { "code": "N55B30A", "volume": "3.0L", "type": "R6 Turbo", "fuel": "petrol", "power_hp": 306 },
+    { "code": "S55B30A", "volume": "3.0L", "type": "R6 TwinTurbo (M4)", "fuel": "petrol", "power_hp": 431 },
+    { "code": "N47D20C", "volume": "2.0L", "type": "R4 TDI", "fuel": "diesel", "power_hp": 184 }
+  ],
+  "transmissions": ["МКПП-6", "АКПП-8 ZF 8HP"],
+  "drivetrains": ["RWD", "xDrive AWD"],
+  "popularity_ru": "medium",
+  "notes": "Первое поколение 4 серии — купе F32, кабриолет F33, Gran Coupe F36. M4 F82 — S55B30A с карбоновой крышей. LCI 2017. N20 → B48 в 2016."
+}

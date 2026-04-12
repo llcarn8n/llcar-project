@@ -1,0 +1,19 @@
+{
+  "generation_id": "renault_logan_l52_2014",
+  "generation_name": "Logan II (L52)",
+  "year_start": 2014,
+  "year_end": 2022,
+  "body_type": "sedan",
+  "market": "local_assembly",
+  "production": "АвтоВАЗ Тольятти / Renault Москва",
+  "facelift": 2018,
+  "platform": "Renault B0 (Logan)",
+  "engines": [
+    { "code": "K7M", "volume": "1.6L", "type": "R4 MPI 8V", "fuel": "petrol", "power_hp": 82 },
+    { "code": "H4M", "volume": "1.6L", "type": "R4 MPI 16V", "fuel": "petrol", "power_hp": 113 }
+  ],
+  "transmissions": ["МКПП-5", "АКПП-4 Jatco (H4M)"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "high",
+  "notes": "Второе поколение Logan. H4M — новый 16V мотор с АКПП-4 Jatco. K7M — старый надёжный 8V. АКПП Jatco — требует обслуживания каждые 40000 км. LCI 2018."
+}

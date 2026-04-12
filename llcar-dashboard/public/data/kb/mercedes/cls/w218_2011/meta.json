@@ -1,0 +1,21 @@
+{
+  "generation_id": "mercedes_cls_w218_2011",
+  "generation_name": "CLS II (W218)",
+  "year_start": 2011,
+  "year_end": 2018,
+  "body_type": "coupe_sedan",
+  "market": "import",
+  "production": "Mercedes-Benz Sindelfingen, Германия",
+  "facelift": 2014,
+  "platform": "Mercedes W212 base",
+  "engines": [
+    { "code": "M276.850", "volume": "3.0L", "type": "V6 Turbo", "fuel": "petrol", "power_hp": 333 },
+    { "code": "M278.922", "volume": "4.7L", "type": "V8 BiTurbo", "fuel": "petrol", "power_hp": 408 },
+    { "code": "M157.983", "volume": "5.5L", "type": "V8 BiTurbo AMG", "fuel": "petrol", "power_hp": 558 },
+    { "code": "OM642.838", "volume": "3.0L", "type": "V6 BlueTEC", "fuel": "diesel", "power_hp": 265 }
+  ],
+  "transmissions": ["АКПП-7 7G-Tronic Plus"],
+  "drivetrains": ["RWD", "4MATIC AWD"],
+  "popularity_ru": "medium",
+  "notes": "Второе поколение CLS на базе E-класса W212. M276 V6 — проблемы балансирного вала (бюллетень). M278 V8 — надёжный мотор. AMG CLS63 — M157 558 л.с. LCI 2014."
+}

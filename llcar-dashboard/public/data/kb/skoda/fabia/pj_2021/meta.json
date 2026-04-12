@@ -1,0 +1,21 @@
+{
+  "generation_id": "skoda_fabia_pj_2021",
+  "generation_name": "Fabia IV (PJ)",
+  "year_start": 2021,
+  "year_end": null,
+  "body_type": "hatchback",
+  "market": "parallel_import",
+  "production": "Skoda Mladá Boleslav, Чехия",
+  "facelift": null,
+  "platform": "VW MQB A0 (обновлённая)",
+  "engines": [
+    { "code": "DLAA", "volume": "1.0L", "type": "R3 MPI", "fuel": "petrol", "power_hp": 65 },
+    { "code": "DADA", "volume": "1.0L", "type": "R3 TSI", "fuel": "petrol", "power_hp": 95 },
+    { "code": "DLBA", "volume": "1.0L", "type": "R3 TSI", "fuel": "petrol", "power_hp": 110 },
+    { "code": "DKZA", "volume": "1.5L", "type": "R4 TSI ACT", "fuel": "petrol", "power_hp": 150 }
+  ],
+  "transmissions": ["МКПП-6", "S tronic DSG-7 DQ200 (сухое)"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "low",
+  "notes": "Четвёртое поколение Fabia. Выросли габариты. DKZA 1.5 TSI ACT — система отключения цилиндров. Больше нет седана и Combi в РФ. Параллельный импорт с 2022."
+}

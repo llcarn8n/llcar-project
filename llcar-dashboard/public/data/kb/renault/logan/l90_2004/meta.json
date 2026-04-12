@@ -1,0 +1,20 @@
+{
+  "generation_id": "renault_logan_l90_2004",
+  "generation_name": "Logan I (L90)",
+  "year_start": 2004,
+  "year_end": 2014,
+  "body_type": "sedan",
+  "market": "local_assembly",
+  "production": "АвтоВАЗ Тольятти / Renault Pitesti Румыния",
+  "facelift": 2009,
+  "platform": "Renault B0 (Logan)",
+  "engines": [
+    { "code": "K7M", "volume": "1.6L", "type": "R4 MPI", "fuel": "petrol", "power_hp": 84 },
+    { "code": "K4M", "volume": "1.6L", "type": "R4 MPI 16V", "fuel": "petrol", "power_hp": 105 },
+    { "code": "K7J", "volume": "1.4L", "type": "R4 MPI", "fuel": "petrol", "power_hp": 75 }
+  ],
+  "transmissions": ["МКПП-5"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "high",
+  "notes": "Первое поколение Logan российской сборки. K7M — простейший 8-клапанный, надёжный. K4M — 16-клапанный, чуть капризнее. Только МКПП-5. Самый распространённый бюджетный седан РФ 2000-х. LCI 2009."
+}

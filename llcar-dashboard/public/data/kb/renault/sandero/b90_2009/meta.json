@@ -1,0 +1,19 @@
+{
+  "generation_id": "renault_sandero_b90_2009",
+  "generation_name": "Sandero I (B90)",
+  "year_start": 2009,
+  "year_end": 2014,
+  "body_type": "hatchback",
+  "market": "local_assembly",
+  "production": "АвтоВАЗ Тольятти",
+  "facelift": null,
+  "platform": "Renault B0 (Logan)",
+  "engines": [
+    { "code": "K7M", "volume": "1.6L", "type": "R4 MPI 8V", "fuel": "petrol", "power_hp": 84 },
+    { "code": "K4M", "volume": "1.6L", "type": "R4 MPI 16V", "fuel": "petrol", "power_hp": 102 }
+  ],
+  "transmissions": ["МКПП-5"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "high",
+  "notes": "Первое поколение Sandero — хэтчбек на базе Logan L90. Российская сборка АвтоВАЗ. K7M надёжнее K4M. Только МКПП-5. Доступный городской хэтчбек."
+}

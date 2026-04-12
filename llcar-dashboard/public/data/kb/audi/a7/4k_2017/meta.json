@@ -1,0 +1,21 @@
+{
+  "generation_id": "audi_a7_4k_2017",
+  "generation_name": "A7 II (4K)",
+  "year_start": 2017,
+  "year_end": null,
+  "body_type": "sportback",
+  "market": "parallel_import",
+  "production": "Audi Neckarsulm, Германия",
+  "facelift": null,
+  "platform": "Audi MLB Evo",
+  "engines": [
+    { "code": "CZVE", "volume": "3.0L", "type": "V6 TFSI 48V EQ Boost", "fuel": "petrol", "power_hp": 340 },
+    { "code": "DEVB", "volume": "2.9L", "type": "V6 BiTurbo TFSI (S7)", "fuel": "petrol", "power_hp": 450 },
+    { "code": "CREC", "volume": "3.0L", "type": "V6 TDI", "fuel": "diesel", "power_hp": 231 },
+    { "code": "CVUA", "volume": "3.0L", "type": "V6 TDI", "fuel": "diesel", "power_hp": 286 }
+  ],
+  "transmissions": ["S tronic DSG-7 DQ381 (мокрое)"],
+  "drivetrains": ["quattro AWD (ultra или Torsen)"],
+  "popularity_ru": "low",
+  "notes": "Второе поколение A7 на MLB Evo. Цифровая приборная панель Virtual Cockpit. Mild-hybrid 48V. S7 — 2.9 V6 BiTurbo. RS7 — 4.0 V8 600 л.с. Параллельный импорт с 2022."
+}

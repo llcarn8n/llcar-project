@@ -1,0 +1,21 @@
+{
+  "generation_id": "audi_a7_4g_2010",
+  "generation_name": "A7 I (4G)",
+  "year_start": 2010,
+  "year_end": 2018,
+  "body_type": "sportback",
+  "market": "import",
+  "production": "Audi Neckarsulm, Германия",
+  "facelift": 2014,
+  "platform": "Audi MLB",
+  "engines": [
+    { "code": "CREC", "volume": "3.0L", "type": "V6 TFSI", "fuel": "petrol", "power_hp": 300 },
+    { "code": "CTUA", "volume": "4.0L", "type": "V8 BiTurbo TFSI (S7/RS7)", "fuel": "petrol", "power_hp": 420 },
+    { "code": "CGWD", "volume": "3.0L", "type": "V6 TDI", "fuel": "diesel", "power_hp": 204 },
+    { "code": "CLAA", "volume": "3.0L", "type": "V6 TDI", "fuel": "diesel", "power_hp": 245 }
+  ],
+  "transmissions": ["S tronic DSG-7 DQ500 (мокрое)", "tiptronic АКПП-7"],
+  "drivetrains": ["quattro AWD (Torsen центр)"],
+  "popularity_ru": "medium",
+  "notes": "Первое поколение A7. Только Sportback. Neckarsulm. Quattro с Torsen. S7 — V8 420 л.с., RS7 — V8 560 л.с. LCI 2014. Пневмоподвеска опционально."
+}

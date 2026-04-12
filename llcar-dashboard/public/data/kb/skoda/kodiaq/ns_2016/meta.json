@@ -1,0 +1,22 @@
+{
+  "generation_id": "skoda_kodiaq_ns_2016",
+  "generation_name": "Kodiaq I (NS)",
+  "year_start": 2016,
+  "year_end": 2023,
+  "body_type": "suv",
+  "market": "local_assembly",
+  "production": "Skoda Kvasiny / ГАЗ Нижний Новгород (РФ сборка до 2022)",
+  "facelift": 2021,
+  "platform": "VW MQB",
+  "engines": [
+    { "code": "CZEA", "volume": "1.4L", "type": "R4 TSI", "fuel": "petrol", "power_hp": 150 },
+    { "code": "DGTE", "volume": "2.0L", "type": "R4 TSI", "fuel": "petrol", "power_hp": 180 },
+    { "code": "DADA", "volume": "2.0L", "type": "R4 TSI", "fuel": "petrol", "power_hp": 190 },
+    { "code": "DFCA", "volume": "2.0L", "type": "R4 TDI", "fuel": "diesel", "power_hp": 150 },
+    { "code": "DFHA", "volume": "2.0L", "type": "R4 TDI", "fuel": "diesel", "power_hp": 190 }
+  ],
+  "transmissions": ["МКПП-6", "S tronic DSG-7 DQ381 (мокрое)", "S tronic DSG-6 DQ250 (мокрое)"],
+  "drivetrains": ["FWD", "4x4 (Haldex 5)"],
+  "popularity_ru": "high",
+  "notes": "Первый SUV Skoda на MQB. Российская сборка на ГАЗ до 2022. DQ381 мокрое — для 4x4 версий. CZEA 1.4 TSI — нагар на клапанах. LCI 2021."
+}

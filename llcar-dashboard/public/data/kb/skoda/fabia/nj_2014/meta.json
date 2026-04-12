@@ -1,0 +1,21 @@
+{
+  "generation_id": "skoda_fabia_nj_2014",
+  "generation_name": "Fabia III (NJ)",
+  "year_start": 2014,
+  "year_end": 2021,
+  "body_type": "hatchback/combi",
+  "market": "import",
+  "production": "Skoda Mladá Boleslav, Чехия",
+  "facelift": 2018,
+  "platform": "VW MQB A0",
+  "engines": [
+    { "code": "CHZB", "volume": "1.0L", "type": "R3 MPI", "fuel": "petrol", "power_hp": 60 },
+    { "code": "CWVA", "volume": "1.0L", "type": "R3 TSI", "fuel": "petrol", "power_hp": 95 },
+    { "code": "CWVB", "volume": "1.0L", "type": "R3 TSI", "fuel": "petrol", "power_hp": 110 },
+    { "code": "CZDA", "volume": "1.4L", "type": "R4 TSI", "fuel": "petrol", "power_hp": 150 }
+  ],
+  "transmissions": ["МКПП-5/6", "S tronic DSG-7 DQ200 (сухое)"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "low",
+  "notes": "Третье поколение Fabia на MQB A0. CHZB MPI — атмо, простой и надёжный. CWVA/CWVB TSI — нагар на клапанах. DSG DQ200 — сухое, требует обслуживания. LCI 2018."
+}
