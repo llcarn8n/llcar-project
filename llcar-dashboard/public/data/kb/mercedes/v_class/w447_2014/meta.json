@@ -1,0 +1,19 @@
+{
+  "generation_id": "mercedes_v_class_w447_2014",
+  "generation_name": "V-Class II (W447)",
+  "year_start": 2014,
+  "year_end": 2023,
+  "body_type": "minivan",
+  "market": "import",
+  "production": "Mercedes Vitoria-Gasteiz, Испания",
+  "facelift": 2019,
+  "platform": "Mercedes NCV3 (Vito-база)",
+  "engines": [
+    { "code": "OM651 DE 22 LA", "volume": "2.2L", "type": "R4 CDI Turbo Diesel (V 220 d / V 250 d)", "fuel": "diesel", "power_hp": 163 },
+    { "code": "M274 DE 20 AL", "volume": "2.0L", "type": "R4 Turbo Petrol (V 300 d — после рестайл. 2019)", "fuel": "petrol", "power_hp": 237 }
+  ],
+  "transmissions": ["7G-TRONIC PLUS (722.9 — OM651)", "9G-TRONIC (725.0 — M274 после 2019)"],
+  "drivetrains": ["RWD (стандарт)", "4MATIC AWD (опция)"],
+  "popularity_ru": "high",
+  "notes": "W447 — представительский минивэн на базе Vito. Vitoria Испания. OM651 дизель до рестайлинга 2019. После 2019 — M274 бензин + 9G-TRONIC. 4MATIC AWD опционально. Очень популярен в России как корпоративный транспорт и трансфер."
+}

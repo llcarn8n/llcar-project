@@ -1,0 +1,20 @@
+{
+  "generation_id": "mercedes_glb_x247_2019",
+  "generation_name": "GLB I (X247)",
+  "year_start": 2019,
+  "year_end": 2023,
+  "body_type": "suv",
+  "market": "import",
+  "production": "Mercedes Aguascalientes, Мексика",
+  "facelift": null,
+  "platform": "Mercedes MFA2",
+  "engines": [
+    { "code": "M282 DE 14 LA", "volume": "1.3L", "type": "R4 Turbo (GLB 200 — совм. Renault)", "fuel": "petrol", "power_hp": 163 },
+    { "code": "M260 DE 20 LA", "volume": "2.0L", "type": "R4 Turbo (GLB 250 / GLB 250 4MATIC)", "fuel": "petrol", "power_hp": 224 },
+    { "code": "M139 DE 20 LA", "volume": "2.0L", "type": "R4 Turbo AMG (AMG GLB 35)", "fuel": "petrol", "power_hp": 306 }
+  ],
+  "transmissions": ["8G-DCT (725.0)"],
+  "drivetrains": ["FWD (M282)", "4MATIC AWD (M260/M139)"],
+  "popularity_ru": "medium",
+  "notes": "Первый GLB. Платформа MFA2. Aguascalientes Мексика. 7-местная компоновка (3 ряд — опция). 8G-DCT надёжнее 7G-DCT. M282 — 1.3T Renault-совмест. MBUX стандарт. Продажи прекращены 2022."
+}

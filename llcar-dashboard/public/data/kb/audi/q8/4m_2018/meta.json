@@ -1,0 +1,20 @@
+{
+  "generation_id": "audi_q8_4m_2018",
+  "generation_name": "Q8 I (4M)",
+  "year_start": 2018,
+  "year_end": 2023,
+  "body_type": "suv",
+  "market": "import",
+  "production": "Audi Bratislava, Словакия",
+  "facelift": null,
+  "platform": "Audi MLBevo",
+  "engines": [
+    { "code": "CZAD/DETA", "volume": "3.0L", "type": "V6 TFSI Turbo (55 TFSI)", "fuel": "petrol", "power_hp": 340 },
+    { "code": "CWGD", "volume": "4.0L", "type": "V8 TDI (RS Q8 50 TDI)", "fuel": "diesel", "power_hp": 286 },
+    { "code": "DDXE/DETA", "volume": "4.0L", "type": "V8 TFSI BiTurbo (RS Q8)", "fuel": "petrol", "power_hp": 600 }
+  ],
+  "transmissions": ["Tiptronic 8AT (ZF 8HP)"],
+  "drivetrains": ["quattro AWD (Torsen центр. дифференциал)"],
+  "popularity_ru": "medium",
+  "notes": "Флагманский купе-SUV Audi. Братислава Словакия. EA839 V6 55 TFSI — основной мотор в России. Tiptronic 8AT. Mild-hybrid 48V MHEV на 55 TFSI (2020+). Адаптивная пневмоподвеска (опция/стандарт). Продажи прекращены 2022."
+}

@@ -1,0 +1,21 @@
+{
+  "generation_id": "bmw_x7_g07_2018",
+  "generation_name": "X7 I (G07)",
+  "year_start": 2018,
+  "year_end": 2022,
+  "body_type": "suv",
+  "market": "import",
+  "production": "BMW Spartanburg, США",
+  "facelift": null,
+  "platform": "BMW CLAR",
+  "engines": [
+    { "code": "B58B30M1", "volume": "3.0L", "type": "R6 TwinPower Turbo (40i)", "fuel": "petrol", "power_hp": 340 },
+    { "code": "N63B44T3", "volume": "4.4L", "type": "V8 TwinPower Turbo (50i/M50i)", "fuel": "petrol", "power_hp": 462 },
+    { "code": "B57D30O1", "volume": "3.0L", "type": "R6 TwinPower Turbo Diesel (40d)", "fuel": "diesel", "power_hp": 265 },
+    { "code": "B57D30S1", "volume": "3.0L", "type": "R6 TwinPower Turbo Diesel (M50d)", "fuel": "diesel", "power_hp": 400 }
+  ],
+  "transmissions": ["ZF 8HP75 (GA8HP75Z)"],
+  "drivetrains": ["xDrive AWD"],
+  "popularity_ru": "medium",
+  "notes": "Первый BMW X7 — флагманский семиместный SUV. Платформа CLAR. Spartanburg USA. B58 надёжен, N63 требователен к маслу. Пневмоподвеска опциональна/стандарт на топ-версиях. Продажи прекращены март 2022."
+}

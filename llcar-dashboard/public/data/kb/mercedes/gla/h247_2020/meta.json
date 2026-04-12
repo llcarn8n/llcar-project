@@ -1,0 +1,20 @@
+{
+  "generation_id": "mercedes_gla_h247_2020",
+  "generation_name": "GLA II (H247)",
+  "year_start": 2020,
+  "year_end": 2023,
+  "body_type": "crossover",
+  "market": "import",
+  "production": "Mercedes Rastatt, Германия / Раштатт",
+  "facelift": null,
+  "platform": "Mercedes MFA2",
+  "engines": [
+    { "code": "M282 DE 14 LA", "volume": "1.3L", "type": "R4 Turbo (GLA 200/250 — совм. Renault)", "fuel": "petrol", "power_hp": 163 },
+    { "code": "M260 DE 20 LA", "volume": "2.0L", "type": "R4 Turbo (GLA 250 4MATIC / AMG GLA 35)", "fuel": "petrol", "power_hp": 224 },
+    { "code": "M139 DE 20 LA", "volume": "2.0L", "type": "R4 Turbo AMG (AMG GLA 45 S)", "fuel": "petrol", "power_hp": 421 }
+  ],
+  "transmissions": ["7G-DCT (724.9 — с M282)", "8G-DCT (725.0 — с M260/M139)"],
+  "drivetrains": ["FWD (M282 базовый)", "4MATIC AWD (M260/M139)"],
+  "popularity_ru": "medium",
+  "notes": "Второе поколение GLA. Платформа MFA2. Rastatt Германия. M282 — совместный мотор с Renault (1.3T). M260 — собственный 2.0T AMG. 7G-DCT жалуется на рывки, 8G-DCT надёжнее. MBUX стандарт."
+}

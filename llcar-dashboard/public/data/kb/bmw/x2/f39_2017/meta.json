@@ -1,0 +1,21 @@
+{
+  "generation_id": "bmw_x2_f39_2017",
+  "generation_name": "X2 I (F39)",
+  "year_start": 2017,
+  "year_end": 2023,
+  "body_type": "crossover",
+  "market": "import",
+  "production": "BMW Regensburg, Германия",
+  "facelift": null,
+  "platform": "BMW UKL2",
+  "engines": [
+    { "code": "B48A20B", "volume": "2.0L", "type": "R4 TwinPower Turbo (sDrive20i/xDrive25i)", "fuel": "petrol", "power_hp": 192 },
+    { "code": "B48A20M0", "volume": "2.0L", "type": "R4 TwinPower Turbo (M35i)", "fuel": "petrol", "power_hp": 306 },
+    { "code": "B47C20A", "volume": "2.0L", "type": "R4 TwinPower Turbo Diesel (sDrive18d/xDrive20d)", "fuel": "diesel", "power_hp": 150 },
+    { "code": "B47C20B", "volume": "2.0L", "type": "R4 TwinPower Turbo Diesel (xDrive25d)", "fuel": "diesel", "power_hp": 231 }
+  ],
+  "transmissions": ["Steptronic DCT 7-ступ. (GD7L45)", "Steptronic 8AT (GA8F22AW)"],
+  "drivetrains": ["sDrive FWD", "xDrive AWD"],
+  "popularity_ru": "low",
+  "notes": "Первое поколение X2. Платформа UKL2 (передний привод как основа). xDrive25i/d — AWD. DCT-7 на бензине, 8AT на xDrive25d. M35i — заряженная версия 306 л.с. Regensburg Германия."
+}
