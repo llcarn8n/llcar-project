@@ -1,0 +1,28 @@
+{
+  "model_name": "HiPhi X",
+  "generation": "X (2021+)",
+  "body_styles": [
+    "SUV"
+  ],
+  "engines": [
+    {
+      "code": "Front 220 kW PMSM",
+      "power_kw": 220
+    },
+    {
+      "code": "Rear 300 kW PMSM",
+      "power_kw": 300
+    }
+  ],
+  "transmissions": [
+    "single-speed"
+  ],
+  "platform": "Hyper SOA (Human Horizons)",
+  "production_years": "2021+",
+  "russia_relevant": true,
+  "battery": {
+    "capacity_kwh": 97,
+    "chemistry": "NCM",
+    "voltage": 400
+  }
+}

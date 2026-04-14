@@ -1,0 +1,314 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 43,
+  "codes": {
+    "P0A93": {
+      "count": 3,
+      "situations": [
+        "leap_motor_c11_002",
+        "leap_motor_c11_004",
+        "leap_motor_c11_007"
+      ],
+      "category": "hv_electric"
+    },
+    "U0100": {
+      "count": 3,
+      "situations": [
+        "leap_motor_c11_003",
+        "leap_motor_c11_005",
+        "leap_motor_c11_010"
+      ],
+      "category": "network"
+    },
+    "U0140": {
+      "count": 3,
+      "situations": [
+        "leap_motor_c11_003",
+        "leap_motor_c11_006",
+        "leap_motor_c11_010"
+      ],
+      "category": "network"
+    },
+    "P0A04": {
+      "count": 2,
+      "situations": [
+        "leap_motor_c11_002",
+        "leap_motor_c11_004"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A80": {
+      "count": 1,
+      "situations": [
+        "leap_motor_c11_001"
+      ],
+      "category": "hv_electric"
+    },
+    "P0AFA": {
+      "count": 1,
+      "situations": [
+        "leap_motor_c11_001"
+      ],
+      "category": "hv_electric"
+    },
+    "P0AF8": {
+      "count": 1,
+      "situations": [
+        "leap_motor_c11_001"
+      ],
+      "category": "hv_electric"
+    },
+    "U0111": {
+      "count": 1,
+      "situations": [
+        "leap_motor_c11_001"
+      ],
+      "category": "network"
+    },
+    "P0560": {
+      "count": 1,
+      "situations": [
+        "leap_motor_c11_001"
+      ],
+      "category": "engine"
+    },
+    "P0C78": {
+      "count": 1,
+      "situations": [
+        "leap_motor_c11_002"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A3C": {
+      "count": 1,
+      "situations": [
+        "leap_motor_c11_002"
+      ],
+      "category": "hv_electric"
+    },
+    "P0255": {
+      "count": 1,
+      "situations": [
+        "leap_motor_c11_002"
+      ],
+      "category": "engine"
+    },
+    "P0562": {
+      "count": 1,
+      "situations": [
+        "leap_motor_c11_003"
+      ],
+      "category": "engine"
+    },
+    "P0563": {
+      "count": 1,
+      "situations": [
+        "leap_motor_c11_003"
+      ],
+      "category": "engine"
+    },
+    "B1480": {
+      "count": 1,
+      "situations": [
+        "leap_motor_c11_003"
+      ],
+      "category": "body"
+    },
+    "P0AC4": {
+      "count": 1,
+      "situations": [
+        "leap_motor_c11_004"
+      ],
+      "category": "hv_electric"
+    },
+    "P261B": {
+      "count": 1,
+      "situations": [
+        "leap_motor_c11_004"
+      ],
+      "category": "engine"
+    },
+    "P261C": {
+      "count": 1,
+      "situations": [
+        "leap_motor_c11_004"
+      ],
+      "category": "engine"
+    },
+    "P0AE0": {
+      "count": 1,
+      "situations": [
+        "leap_motor_c11_005"
+      ],
+      "category": "hv_electric"
+    },
+    "P0AC7": {
+      "count": 1,
+      "situations": [
+        "leap_motor_c11_005"
+      ],
+      "category": "hv_electric"
+    },
+    "P0D00": {
+      "count": 1,
+      "situations": [
+        "leap_motor_c11_005"
+      ],
+      "category": "hv_electric"
+    },
+    "P0D10": {
+      "count": 1,
+      "situations": [
+        "leap_motor_c11_005"
+      ],
+      "category": "hv_electric"
+    },
+    "C0550": {
+      "count": 1,
+      "situations": [
+        "leap_motor_c11_006"
+      ],
+      "category": "chassis"
+    },
+    "C0565": {
+      "count": 1,
+      "situations": [
+        "leap_motor_c11_006"
+      ],
+      "category": "chassis"
+    },
+    "C0580": {
+      "count": 1,
+      "situations": [
+        "leap_motor_c11_006"
+      ],
+      "category": "chassis"
+    },
+    "C0750": {
+      "count": 1,
+      "situations": [
+        "leap_motor_c11_006"
+      ],
+      "category": "chassis"
+    },
+    "P0A8C": {
+      "count": 1,
+      "situations": [
+        "leap_motor_c11_007"
+      ],
+      "category": "hv_electric"
+    },
+    "P2617": {
+      "count": 1,
+      "situations": [
+        "leap_motor_c11_007"
+      ],
+      "category": "engine"
+    },
+    "P2619": {
+      "count": 1,
+      "situations": [
+        "leap_motor_c11_007"
+      ],
+      "category": "engine"
+    },
+    "B1239": {
+      "count": 1,
+      "situations": [
+        "leap_motor_c11_007"
+      ],
+      "category": "body"
+    },
+    "P0010": {
+      "count": 1,
+      "situations": [
+        "leap_motor_c11_008"
+      ],
+      "category": "engine"
+    },
+    "P0335": {
+      "count": 1,
+      "situations": [
+        "leap_motor_c11_008"
+      ],
+      "category": "engine"
+    },
+    "P0420": {
+      "count": 1,
+      "situations": [
+        "leap_motor_c11_008"
+      ],
+      "category": "engine"
+    },
+    "P0171": {
+      "count": 1,
+      "situations": [
+        "leap_motor_c11_008"
+      ],
+      "category": "engine"
+    },
+    "P0230": {
+      "count": 1,
+      "situations": [
+        "leap_motor_c11_008"
+      ],
+      "category": "engine"
+    },
+    "C056D": {
+      "count": 1,
+      "situations": [
+        "leap_motor_c11_009"
+      ],
+      "category": "chassis"
+    },
+    "C056E": {
+      "count": 1,
+      "situations": [
+        "leap_motor_c11_009"
+      ],
+      "category": "chassis"
+    },
+    "P055A": {
+      "count": 1,
+      "situations": [
+        "leap_motor_c11_009"
+      ],
+      "category": "engine"
+    },
+    "C1225": {
+      "count": 1,
+      "situations": [
+        "leap_motor_c11_009"
+      ],
+      "category": "chassis"
+    },
+    "C1256": {
+      "count": 1,
+      "situations": [
+        "leap_motor_c11_009"
+      ],
+      "category": "chassis"
+    },
+    "U0101": {
+      "count": 1,
+      "situations": [
+        "leap_motor_c11_010"
+      ],
+      "category": "network"
+    },
+    "U0155": {
+      "count": 1,
+      "situations": [
+        "leap_motor_c11_010"
+      ],
+      "category": "network"
+    },
+    "U0167": {
+      "count": 1,
+      "situations": [
+        "leap_motor_c11_010"
+      ],
+      "category": "network"
+    }
+  }
+}

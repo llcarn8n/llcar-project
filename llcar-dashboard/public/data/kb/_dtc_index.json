@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-04-14",
-  "total_codes": 1799,
-  "total_mappings": 6530,
+  "total_codes": 1820,
+  "total_mappings": 6712,
   "index": {
     "-": [
       {
@@ -1997,6 +1997,33 @@
     ],
     "B1000": [
       {
+        "sit_id": "im_motors_l7_003",
+        "title": "Сбой калибровки IMAD",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "im_motors_l7_007",
+        "title": "Быстрый разряд 12V АКБ",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "im_motors_l7_010",
+        "title": "Зависание мультимедиа",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 2,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "nissan_murano_z52_005",
         "title": "Скрип и люфт каркаса сидений Zero Gravity",
         "brand": "nissan",
@@ -2127,6 +2154,17 @@
         "generation": "w218_2011",
         "urg": 2,
         "cat": "steering"
+      }
+    ],
+    "B1008": [
+      {
+        "sit_id": "im_motors_l7_004",
+        "title": "Перегрев порта DC",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 4,
+        "cat": "electrical"
       }
     ],
     "B1009": [
@@ -3259,6 +3297,15 @@
         "cat": "body"
       },
       {
+        "sit_id": "jidu_robo_01_002",
+        "title": "Декалибровка лидаров Apollo",
+        "brand": "jidu",
+        "model": "robocar_01",
+        "generation": "robo_01_2023",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "kia_k5_dl3_005",
         "title": "Разрядка аккумулятора на стоянке",
         "brand": "kia",
@@ -3360,6 +3407,15 @@
         "cat": "body"
       },
       {
+        "sit_id": "jidu_robo_01_008",
+        "title": "Отказ камер Apollo",
+        "brand": "jidu",
+        "model": "robocar_01",
+        "generation": "robo_01_2023",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "kia_k5_dl3_008",
         "title": "Проблемы с мультимедиа и экраном на центральной консоли",
         "brand": "kia",
@@ -3443,6 +3499,15 @@
         "generation": "mx5_2023",
         "urg": 1,
         "cat": "body"
+      },
+      {
+        "sit_id": "jidu_robo_01_008",
+        "title": "Отказ камер Apollo",
+        "brand": "jidu",
+        "model": "robocar_01",
+        "generation": "robo_01_2023",
+        "urg": 4,
+        "cat": "electrical"
       },
       {
         "sit_id": "kia_cerato_bd_009",
@@ -3741,6 +3806,17 @@
         "cat": "body"
       }
     ],
+    "B1239": [
+      {
+        "sit_id": "leap_motor_c11_007",
+        "title": "Неисправность клапана терморегуляции",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 3,
+        "cat": "cooling"
+      }
+    ],
     "B1241": [
       {
         "sit_id": "lexus_es_xv60_010",
@@ -3933,11 +4009,38 @@
     ],
     "B1318": [
       {
+        "sit_id": "hiphi_x_001",
+        "title": "Отказ актуатора NT Door системы",
+        "brand": "hiphi",
+        "model": "x",
+        "generation": "x_2021",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "hiphi_x_010",
+        "title": "Быстрый разряд 12V AGM",
+        "brand": "hiphi",
+        "model": "x",
+        "generation": "x_2021",
+        "urg": 5,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "hyundai_santa_fe_tm_006",
         "title": "Нестабильная работа системы Start-Stop и разряд АКБ",
         "brand": "hyundai",
         "model": "santa_fe",
         "generation": "tm_2018",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "jidu_robo_01_005",
+        "title": "Преждевременный разряд 12V АКБ",
+        "brand": "jidu",
+        "model": "robocar_01",
+        "generation": "robo_01_2023",
         "urg": 3,
         "cat": "electrical"
       },
@@ -4054,6 +4157,15 @@
         "generation": "mk2_2013",
         "urg": 4,
         "cat": "chassis"
+      },
+      {
+        "sit_id": "hiphi_x_001",
+        "title": "Отказ актуатора NT Door системы",
+        "brand": "hiphi",
+        "model": "x",
+        "generation": "x_2021",
+        "urg": 4,
+        "cat": "electrical"
       },
       {
         "sit_id": "hyundai_santa_fe_mx5_006",
@@ -4706,6 +4818,15 @@
         "generation": "mv_2023",
         "urg": 5,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "leap_motor_c11_003",
+        "title": "Разряд 12V АКБ",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 3,
+        "cat": "electrical"
       }
     ],
     "B1485": [
@@ -4752,6 +4873,15 @@
     ],
     "B14A5": [
       {
+        "sit_id": "hiphi_x_007",
+        "title": "Залипание крышки зарядного порта",
+        "brand": "hiphi",
+        "model": "x",
+        "generation": "x_2021",
+        "urg": 4,
+        "cat": "body"
+      },
+      {
         "sit_id": "skoda_octavia_a8_02",
         "title": "Попадание воды в салон через жабо и левую стойку",
         "brand": "skoda",
@@ -4767,6 +4897,17 @@
         "model": "octavia",
         "generation": "a8_2020",
         "urg": 2,
+        "cat": "body"
+      }
+    ],
+    "B14B1": [
+      {
+        "sit_id": "hiphi_x_007",
+        "title": "Залипание крышки зарядного порта",
+        "brand": "hiphi",
+        "model": "x",
+        "generation": "x_2021",
+        "urg": 4,
         "cat": "body"
       }
     ],
@@ -5796,6 +5937,17 @@
         "brand": "land_rover",
         "model": "range_rover_sport",
         "generation": "l494_2013",
+        "urg": 4,
+        "cat": "electrical"
+      }
+    ],
+    "B1D56": [
+      {
+        "sit_id": "hiphi_x_001",
+        "title": "Отказ актуатора NT Door системы",
+        "brand": "hiphi",
+        "model": "x",
+        "generation": "x_2021",
         "urg": 4,
         "cat": "electrical"
       }
@@ -7939,6 +8091,24 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "im_motors_l7_008",
+        "title": "Сбой by-wire тормозной системы",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 5,
+        "cat": "brakes"
+      },
+      {
+        "sit_id": "jidu_robo_01_006",
+        "title": "Неисправность рекуперативного торможения",
+        "brand": "jidu",
+        "model": "robocar_01",
+        "generation": "robo_01_2023",
+        "urg": 4,
+        "cat": "brakes"
+      },
+      {
         "sit_id": "mercedes_amg_gt_c192_010",
         "title": "Неисправность Brake-by-Wire и датчика педали тормоза",
         "brand": "mercedes",
@@ -8114,6 +8284,24 @@
         "generation": "hc_2017",
         "urg": 4,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "im_motors_l7_008",
+        "title": "Сбой by-wire тормозной системы",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 5,
+        "cat": "brakes"
+      },
+      {
+        "sit_id": "jidu_robo_01_006",
+        "title": "Неисправность рекуперативного торможения",
+        "brand": "jidu",
+        "model": "robocar_01",
+        "generation": "robo_01_2023",
+        "urg": 4,
+        "cat": "brakes"
       },
       {
         "sit_id": "kia_cerato_td_abs_sensor_failure",
@@ -8362,6 +8550,15 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "im_motors_l7_008",
+        "title": "Сбой by-wire тормозной системы",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 5,
+        "cat": "brakes"
+      },
+      {
         "sit_id": "lada_granta_2190_rear_brake_cylinder",
         "title": "Подтекание задних тормозных цилиндров и падение уровня тормозной жидкости",
         "brand": "lada",
@@ -8472,6 +8669,24 @@
         "generation": "hc_2017",
         "urg": 4,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "im_motors_l7_008",
+        "title": "Сбой by-wire тормозной системы",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 5,
+        "cat": "brakes"
+      },
+      {
+        "sit_id": "jidu_robo_01_006",
+        "title": "Неисправность рекуперативного торможения",
+        "brand": "jidu",
+        "model": "robocar_01",
+        "generation": "robo_01_2023",
+        "urg": 4,
+        "cat": "brakes"
       },
       {
         "sit_id": "lada_granta_2190_rear_brake_cylinder",
@@ -8726,6 +8941,15 @@
         "generation": "fy11_2020",
         "urg": 3,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "im_motors_l7_008",
+        "title": "Сбой by-wire тормозной системы",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 5,
+        "cat": "brakes"
       }
     ],
     "C013040": [
@@ -9188,6 +9412,24 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "hiphi_x_005",
+        "title": "Износ компрессора пневмоподвески",
+        "brand": "hiphi",
+        "model": "x",
+        "generation": "x_2021",
+        "urg": 3,
+        "cat": "chassis"
+      },
+      {
+        "sit_id": "im_motors_l7_009",
+        "title": "Утечка пневмоподвески",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 3,
+        "cat": "chassis"
+      },
+      {
         "sit_id": "jetour_dashing_dashing_gen1_2022_002",
         "title": "Ошибки системы парктроника — срабатывание при чистом бампере",
         "brand": "jetour",
@@ -9195,6 +9437,15 @@
         "generation": "dashing_gen1_2022",
         "urg": 1,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "leap_motor_c11_006",
+        "title": "Износ амортизаторов и пневмостойки",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 2,
+        "cat": "chassis"
       },
       {
         "sit_id": "lucid_air_005",
@@ -9217,6 +9468,15 @@
     ],
     "C0555": [
       {
+        "sit_id": "im_motors_l7_009",
+        "title": "Утечка пневмоподвески",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 3,
+        "cat": "chassis"
+      },
+      {
         "sit_id": "voyah_free_009",
         "title": "Прерывистая работа вакуумного насоса тормозов",
         "brand": "voyah",
@@ -9235,6 +9495,17 @@
         "generation": "free_2021",
         "urg": 5,
         "cat": "brakes"
+      }
+    ],
+    "C0560": [
+      {
+        "sit_id": "im_motors_l7_009",
+        "title": "Утечка пневмоподвески",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 3,
+        "cat": "chassis"
       }
     ],
     "C0561": [
@@ -9297,6 +9568,15 @@
     ],
     "C0564": [
       {
+        "sit_id": "jidu_robo_01_010",
+        "title": "Утечка пневмопружин",
+        "brand": "jidu",
+        "model": "robocar_01",
+        "generation": "robo_01_2023",
+        "urg": 3,
+        "cat": "chassis"
+      },
+      {
         "sit_id": "volvo_xc90_lc_002",
         "title": "Износ пневмобаллонов и перегрузка компрессора подвески",
         "brand": "volvo",
@@ -9314,6 +9594,33 @@
         "model": "e_tron_gt",
         "generation": "f83_2020",
         "urg": 3,
+        "cat": "chassis"
+      },
+      {
+        "sit_id": "hiphi_x_005",
+        "title": "Износ компрессора пневмоподвески",
+        "brand": "hiphi",
+        "model": "x",
+        "generation": "x_2021",
+        "urg": 3,
+        "cat": "chassis"
+      },
+      {
+        "sit_id": "jidu_robo_01_010",
+        "title": "Утечка пневмопружин",
+        "brand": "jidu",
+        "model": "robocar_01",
+        "generation": "robo_01_2023",
+        "urg": 3,
+        "cat": "chassis"
+      },
+      {
+        "sit_id": "leap_motor_c11_006",
+        "title": "Износ амортизаторов и пневмостойки",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 2,
         "cat": "chassis"
       },
       {
@@ -9373,6 +9680,28 @@
         "cat": "chassis"
       }
     ],
+    "C056D": [
+      {
+        "sit_id": "leap_motor_c11_009",
+        "title": "Неисправность вакуумного насоса тормозов",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 5,
+        "cat": "brakes"
+      }
+    ],
+    "C056E": [
+      {
+        "sit_id": "leap_motor_c11_009",
+        "title": "Неисправность вакуумного насоса тормозов",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 5,
+        "cat": "brakes"
+      }
+    ],
     "C056F": [
       {
         "sit_id": "skoda_superb_3v_007",
@@ -9414,6 +9743,33 @@
         "model": "e_tron_gt",
         "generation": "f83_2020",
         "urg": 3,
+        "cat": "chassis"
+      },
+      {
+        "sit_id": "im_motors_l7_009",
+        "title": "Утечка пневмоподвески",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 3,
+        "cat": "chassis"
+      },
+      {
+        "sit_id": "jidu_robo_01_010",
+        "title": "Утечка пневмопружин",
+        "brand": "jidu",
+        "model": "robocar_01",
+        "generation": "robo_01_2023",
+        "urg": 3,
+        "cat": "chassis"
+      },
+      {
+        "sit_id": "leap_motor_c11_006",
+        "title": "Износ амортизаторов и пневмостойки",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 2,
         "cat": "chassis"
       },
       {
@@ -9517,6 +9873,15 @@
         "generation": "g01_2017",
         "urg": 4,
         "cat": "brakes"
+      },
+      {
+        "sit_id": "im_motors_l7_002",
+        "title": "Отказ системы подруливания задней оси",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 3,
+        "cat": "chassis"
       }
     ],
     "C0601": [
@@ -9539,6 +9904,17 @@
         "cat": "brakes"
       }
     ],
+    "C0605": [
+      {
+        "sit_id": "im_motors_l7_002",
+        "title": "Отказ системы подруливания задней оси",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 3,
+        "cat": "chassis"
+      }
+    ],
     "C0608": [
       {
         "sit_id": "merc_c_w205_007",
@@ -9548,6 +9924,17 @@
         "generation": "w205_2014",
         "urg": 3,
         "cat": "brakes"
+      }
+    ],
+    "C0610": [
+      {
+        "sit_id": "im_motors_l7_002",
+        "title": "Отказ системы подруливания задней оси",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 3,
+        "cat": "chassis"
       }
     ],
     "C0700": [
@@ -9610,6 +9997,15 @@
     ],
     "C0750": [
       {
+        "sit_id": "leap_motor_c11_006",
+        "title": "Износ амортизаторов и пневмостойки",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 2,
+        "cat": "chassis"
+      },
+      {
         "sit_id": "lucid_air_005",
         "title": "Утечка воздуха из пневмоподвески",
         "brand": "lucid",
@@ -9637,6 +10033,15 @@
         "generation": "g06_2019",
         "urg": 5,
         "cat": "brakes"
+      },
+      {
+        "sit_id": "hiphi_x_005",
+        "title": "Износ компрессора пневмоподвески",
+        "brand": "hiphi",
+        "model": "x",
+        "generation": "x_2021",
+        "urg": 3,
+        "cat": "chassis"
       },
       {
         "sit_id": "rivian_r1s_002",
@@ -10738,6 +11143,15 @@
         "cat": "chassis"
       },
       {
+        "sit_id": "hiphi_x_005",
+        "title": "Износ компрессора пневмоподвески",
+        "brand": "hiphi",
+        "model": "x",
+        "generation": "x_2021",
+        "urg": 3,
+        "cat": "chassis"
+      },
+      {
         "sit_id": "nissan_murano_z52_009",
         "title": "Закисание и стук передних тормозных суппортов",
         "brand": "nissan",
@@ -10977,6 +11391,15 @@
         "model": "qx60",
         "generation": "l50_2013",
         "urg": 4,
+        "cat": "chassis"
+      },
+      {
+        "sit_id": "jidu_robo_01_010",
+        "title": "Утечка пневмопружин",
+        "brand": "jidu",
+        "model": "robocar_01",
+        "generation": "robo_01_2023",
+        "urg": 3,
         "cat": "chassis"
       },
       {
@@ -11753,6 +12176,15 @@
       }
     ],
     "C1185": [
+      {
+        "sit_id": "hiphi_x_002",
+        "title": "Мисколибровка лидаров NOA",
+        "brand": "hiphi",
+        "model": "x",
+        "generation": "x_2021",
+        "urg": 3,
+        "cat": "electrical"
+      },
       {
         "sit_id": "nissan_qashqai_j11_epb_failure",
         "title": "Неисправность электронного стояночного тормоза (EPB)",
@@ -12903,6 +13335,15 @@
         "cat": "brakes"
       },
       {
+        "sit_id": "leap_motor_c11_009",
+        "title": "Неисправность вакуумного насоса тормозов",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 5,
+        "cat": "brakes"
+      },
+      {
         "sit_id": "mazda_cx9_tc_003",
         "title": "Выход из строя вакуумного насоса тормозной системы",
         "brand": "mazda",
@@ -13299,6 +13740,15 @@
       }
     ],
     "C1256": [
+      {
+        "sit_id": "leap_motor_c11_009",
+        "title": "Неисправность вакуумного насоса тормозов",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 5,
+        "cat": "brakes"
+      },
       {
         "sit_id": "lexus_rx_al20_006",
         "title": "Перегрев и пробуксовка электромагнитной муфты полного привода (Active Torque Control, ATC-coupling) ",
@@ -15899,6 +16349,15 @@
         "cat": "brakes"
       },
       {
+        "sit_id": "im_motors_l7_003",
+        "title": "Сбой калибровки IMAD",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "jeep_wrangler_jl_009",
         "title": "Отказ электрического разъединителя стабилизатора Rubicon — C1A00",
         "brand": "jeep",
@@ -15906,6 +16365,15 @@
         "generation": "jl_2018",
         "urg": 3,
         "cat": "chassis"
+      },
+      {
+        "sit_id": "jidu_robo_01_002",
+        "title": "Декалибровка лидаров Apollo",
+        "brand": "jidu",
+        "model": "robocar_01",
+        "generation": "robo_01_2023",
+        "urg": 4,
+        "cat": "electrical"
       },
       {
         "sit_id": "lr_disco_sport_l550_009",
@@ -16298,6 +16766,15 @@
         "generation": "g30_2017",
         "urg": 4,
         "cat": "chassis"
+      },
+      {
+        "sit_id": "hiphi_x_002",
+        "title": "Мисколибровка лидаров NOA",
+        "brand": "hiphi",
+        "model": "x",
+        "generation": "x_2021",
+        "urg": 3,
+        "cat": "electrical"
       },
       {
         "sit_id": "volvo_xc60_su_006",
@@ -17098,6 +17575,15 @@
         "model": "niva",
         "generation": "2121_1977",
         "urg": 4,
+        "cat": "engine"
+      },
+      {
+        "sit_id": "leap_motor_c11_008",
+        "title": "Отказ range extender (C11 EREV)",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 3,
         "cat": "engine"
       },
       {
@@ -24282,6 +24768,15 @@
         "cat": "engine"
       },
       {
+        "sit_id": "leap_motor_c11_008",
+        "title": "Отказ range extender (C11 EREV)",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 3,
+        "cat": "engine"
+      },
+      {
         "sit_id": "lexus_lx_j200_008",
         "title": "Повышенный расход топлива и потеря мощности двигателя 3UR-FE 5.7 V8 из-за засорения топливных форсун",
         "brand": "lexus",
@@ -26041,6 +26536,15 @@
         "generation": "on_2019",
         "urg": 4,
         "cat": "fuel"
+      },
+      {
+        "sit_id": "leap_motor_c11_008",
+        "title": "Отказ range extender (C11 EREV)",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 3,
+        "cat": "engine"
       }
     ],
     "P0231": [
@@ -26467,6 +26971,15 @@
         "model": "ev9",
         "generation": "mv_2023",
         "urg": 2,
+        "cat": "cooling"
+      },
+      {
+        "sit_id": "leap_motor_c11_002",
+        "title": "Перегрев инвертора",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 4,
         "cat": "cooling"
       }
     ],
@@ -31410,6 +31923,15 @@
         "cat": "engine"
       },
       {
+        "sit_id": "leap_motor_c11_008",
+        "title": "Отказ range extender (C11 EREV)",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 3,
+        "cat": "engine"
+      },
+      {
         "sit_id": "nissan_almera_g15_004",
         "title": "Расслоение и проворот демпферного шкива коленвала",
         "brand": "nissan",
@@ -33580,6 +34102,15 @@
         "cat": "engine"
       },
       {
+        "sit_id": "leap_motor_c11_008",
+        "title": "Отказ range extender (C11 EREV)",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 3,
+        "cat": "engine"
+      },
+      {
         "sit_id": "mazda_6_gj_002",
         "title": "Отрыв выпускного коллектора и обрыв шпилек ГБЦ (2.5 л)",
         "brand": "mazda",
@@ -34510,6 +35041,17 @@
         "cat": "electrical"
       }
     ],
+    "P0463": [
+      {
+        "sit_id": "im_motors_l7_003",
+        "title": "Сбой калибровки IMAD",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 3,
+        "cat": "electrical"
+      }
+    ],
     "P0470": [
       {
         "sit_id": "bmw_1_f20_010",
@@ -34764,6 +35306,15 @@
         "brand": "ford",
         "model": "mondeo",
         "generation": "mk5_2014",
+        "urg": 5,
+        "cat": "cooling"
+      },
+      {
+        "sit_id": "im_motors_l7_006",
+        "title": "Отказ циркуляционной помпы терморегуляции",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
         "urg": 5,
         "cat": "cooling"
       },
@@ -37112,6 +37663,15 @@
         "cat": "engine"
       },
       {
+        "sit_id": "leap_motor_c11_009",
+        "title": "Неисправность вакуумного насоса тормозов",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 5,
+        "cat": "brakes"
+      },
+      {
         "sit_id": "volvo_xc90_lc_007",
         "title": "Поломка вакуумного насоса тормозов и масло во впуске",
         "brand": "volvo",
@@ -37150,11 +37710,29 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "im_motors_l7_001",
+        "title": "Дисбаланс ячеек semi-solid",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "lada_granta_2190_generator_bearing",
         "title": "Генератор: шум подшипников и недозаряд аккумулятора",
         "brand": "lada",
         "model": "granta",
         "generation": "2190_2018",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "leap_motor_c11_001",
+        "title": "Дисбаланс ячеек LFP-батареи",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
         "urg": 3,
         "cat": "electrical"
       }
@@ -37224,6 +37802,15 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "hiphi_x_010",
+        "title": "Быстрый разряд 12V AGM",
+        "brand": "hiphi",
+        "model": "x",
+        "generation": "x_2021",
+        "urg": 5,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "hyundai_creta_gs_alternator_belt_squeal",
         "title": "Свист ремня генератора при запуске в мороз",
         "brand": "hyundai",
@@ -37283,6 +37870,24 @@
         "brand": "hyundai",
         "model": "santa_fe",
         "generation": "tm_2018",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "im_motors_l7_007",
+        "title": "Быстрый разряд 12V АКБ",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "jidu_robo_01_005",
+        "title": "Преждевременный разряд 12V АКБ",
+        "brand": "jidu",
+        "model": "robocar_01",
+        "generation": "robo_01_2023",
         "urg": 3,
         "cat": "electrical"
       },
@@ -37374,6 +37979,15 @@
         "model": "vesta",
         "generation": "gfl_2015",
         "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "leap_motor_c11_003",
+        "title": "Разряд 12V АКБ",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 3,
         "cat": "electrical"
       },
       {
@@ -37640,6 +38254,24 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "im_motors_l7_007",
+        "title": "Быстрый разряд 12V АКБ",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "jidu_robo_01_005",
+        "title": "Преждевременный разряд 12V АКБ",
+        "brand": "jidu",
+        "model": "robocar_01",
+        "generation": "robo_01_2023",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "kia_ev6_002",
         "title": "Преждевременный разряд 12В батареи",
         "brand": "kia",
@@ -37682,6 +38314,15 @@
         "model": "niva",
         "generation": "2121_1977",
         "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "leap_motor_c11_003",
+        "title": "Разряд 12V АКБ",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 3,
         "cat": "electrical"
       },
       {
@@ -45673,6 +46314,42 @@
         "cat": "cooling"
       },
       {
+        "sit_id": "im_motors_l7_001",
+        "title": "Дисбаланс ячеек semi-solid",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "im_motors_l7_006",
+        "title": "Отказ циркуляционной помпы терморегуляции",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 5,
+        "cat": "cooling"
+      },
+      {
+        "sit_id": "leap_motor_c11_002",
+        "title": "Перегрев инвертора",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 4,
+        "cat": "cooling"
+      },
+      {
+        "sit_id": "leap_motor_c11_004",
+        "title": "Отказ электрического насоса охлаждения",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 4,
+        "cat": "cooling"
+      },
+      {
         "sit_id": "mercedes_eqc_001",
         "title": "Отказ HV junction box — нет зарядки и тяги",
         "brand": "mercedes",
@@ -45692,6 +46369,15 @@
       }
     ],
     "P0A06": [
+      {
+        "sit_id": "hiphi_x_006",
+        "title": "Деградация DC-DC 400V/12V",
+        "brand": "hiphi",
+        "model": "x",
+        "generation": "x_2021",
+        "urg": 4,
+        "cat": "electrical"
+      },
       {
         "sit_id": "voyah_free_008",
         "title": "Утечка антифриза из терморегуляции батареи",
@@ -45730,6 +46416,24 @@
         "model": "s07",
         "generation": "s07_2023",
         "urg": 5,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "hiphi_x_006",
+        "title": "Деградация DC-DC 400V/12V",
+        "brand": "hiphi",
+        "model": "x",
+        "generation": "x_2021",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "im_motors_l7_004",
+        "title": "Перегрев порта DC",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 4,
         "cat": "electrical"
       },
       {
@@ -45960,6 +46664,15 @@
         "model": "s07",
         "generation": "s07_2023",
         "urg": 5,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "hiphi_x_006",
+        "title": "Деградация DC-DC 400V/12V",
+        "brand": "hiphi",
+        "model": "x",
+        "generation": "x_2021",
+        "urg": 4,
         "cat": "electrical"
       },
       {
@@ -46199,6 +46912,24 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "jidu_robo_01_003",
+        "title": "Перегрев инвертора переднего мотора",
+        "brand": "jidu",
+        "model": "robocar_01",
+        "generation": "robo_01_2023",
+        "urg": 4,
+        "cat": "cooling"
+      },
+      {
+        "sit_id": "leap_motor_c11_002",
+        "title": "Перегрев инвертора",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 4,
+        "cat": "cooling"
+      },
+      {
         "sit_id": "lucid_air_002",
         "title": "Перегрев инвертора заднего мотора",
         "brand": "lucid",
@@ -46273,6 +47004,15 @@
         "cat": "engine"
       },
       {
+        "sit_id": "jidu_robo_01_009",
+        "title": "Износ подшипников заднего мотора",
+        "brand": "jidu",
+        "model": "robocar_01",
+        "generation": "robo_01_2023",
+        "urg": 4,
+        "cat": "engine"
+      },
+      {
         "sit_id": "nio_et7_004",
         "title": "Износ подшипников переднего ASM 180 кВт",
         "brand": "nio",
@@ -46283,6 +47023,15 @@
       }
     ],
     "P0A3E": [
+      {
+        "sit_id": "jidu_robo_01_009",
+        "title": "Износ подшипников заднего мотора",
+        "brand": "jidu",
+        "model": "robocar_01",
+        "generation": "robo_01_2023",
+        "urg": 4,
+        "cat": "engine"
+      },
       {
         "sit_id": "nio_et7_004",
         "title": "Износ подшипников переднего ASM 180 кВт",
@@ -46311,6 +47060,33 @@
         "generation": "g08_2020",
         "urg": 4,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "hiphi_x_004",
+        "title": "Перегрев инвертора заднего мотора 300 кВт",
+        "brand": "hiphi",
+        "model": "x",
+        "generation": "x_2021",
+        "urg": 3,
+        "cat": "cooling"
+      },
+      {
+        "sit_id": "im_motors_l7_005",
+        "title": "Просадка мощности переднего мотора",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "jidu_robo_01_009",
+        "title": "Износ подшипников заднего мотора",
+        "brand": "jidu",
+        "model": "robocar_01",
+        "generation": "robo_01_2023",
+        "urg": 4,
+        "cat": "engine"
       },
       {
         "sit_id": "kia_ev9_003",
@@ -46414,6 +47190,33 @@
         "generation": "f83_2020",
         "urg": 4,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "hiphi_x_004",
+        "title": "Перегрев инвертора заднего мотора 300 кВт",
+        "brand": "hiphi",
+        "model": "x",
+        "generation": "x_2021",
+        "urg": 3,
+        "cat": "cooling"
+      },
+      {
+        "sit_id": "im_motors_l7_005",
+        "title": "Просадка мощности переднего мотора",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "jidu_robo_01_009",
+        "title": "Износ подшипников заднего мотора",
+        "brand": "jidu",
+        "model": "robocar_01",
+        "generation": "robo_01_2023",
+        "urg": 4,
+        "cat": "engine"
       }
     ],
     "P0A4A": [
@@ -46455,6 +47258,15 @@
       }
     ],
     "P0A4B": [
+      {
+        "sit_id": "jidu_robo_01_003",
+        "title": "Перегрев инвертора переднего мотора",
+        "brand": "jidu",
+        "model": "robocar_01",
+        "generation": "robo_01_2023",
+        "urg": 4,
+        "cat": "cooling"
+      },
       {
         "sit_id": "lucid_air_002",
         "title": "Перегрев инвертора заднего мотора",
@@ -46548,6 +47360,24 @@
         "generation": "tang_2018",
         "urg": 3,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "im_motors_l7_005",
+        "title": "Просадка мощности переднего мотора",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "jidu_robo_01_003",
+        "title": "Перегрев инвертора переднего мотора",
+        "brand": "jidu",
+        "model": "robocar_01",
+        "generation": "robo_01_2023",
+        "urg": 4,
+        "cat": "cooling"
       },
       {
         "sit_id": "rivian_r1t_005",
@@ -46906,6 +47736,15 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "jidu_robo_01_001",
+        "title": "Дисбаланс ячеек HV батареи",
+        "brand": "jidu",
+        "model": "robocar_01",
+        "generation": "robo_01_2023",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "kia_ev6_005",
         "title": "Перегрев порта DC-зарядки и ограничение скорости",
         "brand": "kia",
@@ -47196,6 +48035,15 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "hiphi_x_003",
+        "title": "Дисбаланс ячеек HV батареи 97 кВт·ч",
+        "brand": "hiphi",
+        "model": "x",
+        "generation": "x_2021",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "genesis_g90_rs4_003",
         "title": "Неисправность 48V MHEV системы",
         "brand": "hyundai",
@@ -47219,6 +48067,24 @@
         "brand": "hyundai",
         "model": "ioniq6",
         "generation": "ce_2022",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "im_motors_l7_001",
+        "title": "Дисбаланс ячеек semi-solid",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "jidu_robo_01_001",
+        "title": "Дисбаланс ячеек HV батареи",
+        "brand": "jidu",
+        "model": "robocar_01",
+        "generation": "robo_01_2023",
         "urg": 3,
         "cat": "electrical"
       },
@@ -47247,6 +48113,15 @@
         "model": "ev9",
         "generation": "mv_2023",
         "urg": 2,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "leap_motor_c11_001",
+        "title": "Дисбаланс ячеек LFP-батареи",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 3,
         "cat": "electrical"
       },
       {
@@ -47596,6 +48471,33 @@
         "cat": "cooling"
       },
       {
+        "sit_id": "hiphi_x_009",
+        "title": "Отказ электронасоса охлаждения батареи",
+        "brand": "hiphi",
+        "model": "x",
+        "generation": "x_2021",
+        "urg": 4,
+        "cat": "cooling"
+      },
+      {
+        "sit_id": "im_motors_l7_006",
+        "title": "Отказ циркуляционной помпы терморегуляции",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 5,
+        "cat": "cooling"
+      },
+      {
+        "sit_id": "jidu_robo_01_007",
+        "title": "Отказ насоса охлаждения HV батареи",
+        "brand": "jidu",
+        "model": "robocar_01",
+        "generation": "robo_01_2023",
+        "urg": 5,
+        "cat": "cooling"
+      },
+      {
         "sit_id": "kia_ev6_003",
         "title": "Утечка хладагента теплового насоса",
         "brand": "kia",
@@ -47704,6 +48606,24 @@
         "brand": "deepal",
         "model": "s07",
         "generation": "s07_2023",
+        "urg": 5,
+        "cat": "cooling"
+      },
+      {
+        "sit_id": "hiphi_x_009",
+        "title": "Отказ электронасоса охлаждения батареи",
+        "brand": "hiphi",
+        "model": "x",
+        "generation": "x_2021",
+        "urg": 4,
+        "cat": "cooling"
+      },
+      {
+        "sit_id": "jidu_robo_01_007",
+        "title": "Отказ насоса охлаждения HV батареи",
+        "brand": "jidu",
+        "model": "robocar_01",
+        "generation": "robo_01_2023",
         "urg": 5,
         "cat": "cooling"
       },
@@ -47824,6 +48744,33 @@
     ],
     "P0A8C": [
       {
+        "sit_id": "hiphi_x_009",
+        "title": "Отказ электронасоса охлаждения батареи",
+        "brand": "hiphi",
+        "model": "x",
+        "generation": "x_2021",
+        "urg": 4,
+        "cat": "cooling"
+      },
+      {
+        "sit_id": "jidu_robo_01_007",
+        "title": "Отказ насоса охлаждения HV батареи",
+        "brand": "jidu",
+        "model": "robocar_01",
+        "generation": "robo_01_2023",
+        "urg": 5,
+        "cat": "cooling"
+      },
+      {
+        "sit_id": "leap_motor_c11_007",
+        "title": "Неисправность клапана терморегуляции",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 3,
+        "cat": "cooling"
+      },
+      {
         "sit_id": "rivian_r1t_006",
         "title": "Отказ насоса охлаждения",
         "brand": "rivian",
@@ -47871,6 +48818,15 @@
         "generation": "s07_2023",
         "urg": 5,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "im_motors_l7_006",
+        "title": "Отказ циркуляционной помпы терморегуляции",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 5,
+        "cat": "cooling"
       },
       {
         "sit_id": "voyah_free_008",
@@ -48112,6 +49068,15 @@
         "cat": "transmission"
       },
       {
+        "sit_id": "hiphi_x_004",
+        "title": "Перегрев инвертора заднего мотора 300 кВт",
+        "brand": "hiphi",
+        "model": "x",
+        "generation": "x_2021",
+        "urg": 3,
+        "cat": "cooling"
+      },
+      {
         "sit_id": "hyundai_ioniq5_008",
         "title": "Неисправность теплового насоса (отказ обогрева)",
         "brand": "hyundai",
@@ -48119,6 +49084,33 @@
         "generation": "ne_2021",
         "urg": 3,
         "cat": "ac"
+      },
+      {
+        "sit_id": "leap_motor_c11_002",
+        "title": "Перегрев инвертора",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 4,
+        "cat": "cooling"
+      },
+      {
+        "sit_id": "leap_motor_c11_004",
+        "title": "Отказ электрического насоса охлаждения",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 4,
+        "cat": "cooling"
+      },
+      {
+        "sit_id": "leap_motor_c11_007",
+        "title": "Неисправность клапана терморегуляции",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 3,
+        "cat": "cooling"
       },
       {
         "sit_id": "lexus_es_xv70_003",
@@ -48283,6 +49275,33 @@
         "generation": "s07_2023",
         "urg": 3,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "hiphi_x_004",
+        "title": "Перегрев инвертора заднего мотора 300 кВт",
+        "brand": "hiphi",
+        "model": "x",
+        "generation": "x_2021",
+        "urg": 3,
+        "cat": "cooling"
+      },
+      {
+        "sit_id": "im_motors_l7_005",
+        "title": "Просадка мощности переднего мотора",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "jidu_robo_01_003",
+        "title": "Перегрев инвертора переднего мотора",
+        "brand": "jidu",
+        "model": "robocar_01",
+        "generation": "robo_01_2023",
+        "urg": 4,
+        "cat": "cooling"
       },
       {
         "sit_id": "kia_ev6_006",
@@ -48747,6 +49766,24 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "im_motors_l7_004",
+        "title": "Перегрев порта DC",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "jidu_robo_01_004",
+        "title": "Отказ OBC (AC зарядное)",
+        "brand": "jidu",
+        "model": "robocar_01",
+        "generation": "robo_01_2023",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "kia_ev6_004",
         "title": "Дисбаланс ячеек HV-батареи и потеря ёмкости",
         "brand": "kia",
@@ -48870,6 +49907,15 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "leap_motor_c11_004",
+        "title": "Отказ электрического насоса охлаждения",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 4,
+        "cat": "cooling"
+      },
+      {
         "sit_id": "mercedes_eqe_002",
         "title": "Не работает быстрая зарядка DC (CCS)",
         "brand": "mercedes",
@@ -48935,6 +49981,17 @@
         "cat": "electrical"
       }
     ],
+    "P0AC7": [
+      {
+        "sit_id": "leap_motor_c11_005",
+        "title": "Неисправность зарядного порта",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 4,
+        "cat": "electrical"
+      }
+    ],
     "P0ADB": [
       {
         "sit_id": "audi_e_tron_gt_008",
@@ -48963,6 +50020,15 @@
         "model": "e_tron_gt",
         "generation": "f83_2020",
         "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "leap_motor_c11_005",
+        "title": "Неисправность зарядного порта",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 4,
         "cat": "electrical"
       }
     ],
@@ -49032,6 +50098,15 @@
         "model": "e_tron_gt",
         "generation": "f83_2020",
         "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "jidu_robo_01_004",
+        "title": "Отказ OBC (AC зарядное)",
+        "brand": "jidu",
+        "model": "robocar_01",
+        "generation": "robo_01_2023",
+        "urg": 3,
         "cat": "electrical"
       }
     ],
@@ -49135,6 +50210,15 @@
         "cat": "cooling"
       },
       {
+        "sit_id": "jidu_robo_01_007",
+        "title": "Отказ насоса охлаждения HV батареи",
+        "brand": "jidu",
+        "model": "robocar_01",
+        "generation": "robo_01_2023",
+        "urg": 5,
+        "cat": "cooling"
+      },
+      {
         "sit_id": "voyah_free_006",
         "title": "Перегрев DC-DC преобразователя",
         "brand": "voyah",
@@ -49163,6 +50247,15 @@
         "model": "ev6",
         "generation": "cv_2021",
         "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "leap_motor_c11_001",
+        "title": "Дисбаланс ячеек LFP-батареи",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 3,
         "cat": "electrical"
       }
     ],
@@ -49249,6 +50342,15 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "hiphi_x_003",
+        "title": "Дисбаланс ячеек HV батареи 97 кВт·ч",
+        "brand": "hiphi",
+        "model": "x",
+        "generation": "x_2021",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "genesis_g90_rs4_003",
         "title": "Неисправность 48V MHEV системы",
         "brand": "hyundai",
@@ -49274,6 +50376,33 @@
         "generation": "ce_2022",
         "urg": 3,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "im_motors_l7_001",
+        "title": "Дисбаланс ячеек semi-solid",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "jidu_robo_01_001",
+        "title": "Дисбаланс ячеек HV батареи",
+        "brand": "jidu",
+        "model": "robocar_01",
+        "generation": "robo_01_2023",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "jidu_robo_01_006",
+        "title": "Неисправность рекуперативного торможения",
+        "brand": "jidu",
+        "model": "robocar_01",
+        "generation": "robo_01_2023",
+        "urg": 4,
+        "cat": "brakes"
       },
       {
         "sit_id": "kia_ev6_004",
@@ -49309,6 +50438,15 @@
         "model": "ev9",
         "generation": "mv_2023",
         "urg": 2,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "leap_motor_c11_001",
+        "title": "Дисбаланс ячеек LFP-батареи",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 3,
         "cat": "electrical"
       },
       {
@@ -49565,6 +50703,15 @@
     ],
     "P0B00": [
       {
+        "sit_id": "jidu_robo_01_001",
+        "title": "Дисбаланс ячеек HV батареи",
+        "brand": "jidu",
+        "model": "robocar_01",
+        "generation": "robo_01_2023",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "lucid_air_001",
         "title": "Деградация терморегуляции ВВБ",
         "brand": "lucid",
@@ -49635,6 +50782,17 @@
         "brand": "kia",
         "model": "ev6",
         "generation": "cv_2021",
+        "urg": 3,
+        "cat": "electrical"
+      }
+    ],
+    "P0B21": [
+      {
+        "sit_id": "hiphi_x_003",
+        "title": "Дисбаланс ячеек HV батареи 97 кВт·ч",
+        "brand": "hiphi",
+        "model": "x",
+        "generation": "x_2021",
         "urg": 3,
         "cat": "electrical"
       }
@@ -49958,6 +51116,17 @@
         "cat": "electrical"
       }
     ],
+    "P0C78": [
+      {
+        "sit_id": "leap_motor_c11_002",
+        "title": "Перегрев инвертора",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 4,
+        "cat": "cooling"
+      }
+    ],
     "P0CC0": [
       {
         "sit_id": "byd_yuan_006",
@@ -50103,6 +51272,33 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "im_motors_l7_004",
+        "title": "Перегрев порта DC",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "jidu_robo_01_004",
+        "title": "Отказ OBC (AC зарядное)",
+        "brand": "jidu",
+        "model": "robocar_01",
+        "generation": "robo_01_2023",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "leap_motor_c11_005",
+        "title": "Неисправность зарядного порта",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "nio_et7_010",
         "title": "Деградация DC-зарядного порта",
         "brand": "nio",
@@ -50176,6 +51372,24 @@
         "model": "ix3",
         "generation": "g08_2020",
         "urg": 1,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "jidu_robo_01_004",
+        "title": "Отказ OBC (AC зарядное)",
+        "brand": "jidu",
+        "model": "robocar_01",
+        "generation": "robo_01_2023",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "leap_motor_c11_005",
+        "title": "Неисправность зарядного порта",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 4,
         "cat": "electrical"
       },
       {
@@ -50335,6 +51549,17 @@
         "generation": "007_2024",
         "urg": 3,
         "cat": "electrical"
+      }
+    ],
+    "P0DAC": [
+      {
+        "sit_id": "hiphi_x_007",
+        "title": "Залипание крышки зарядного порта",
+        "brand": "hiphi",
+        "model": "x",
+        "generation": "x_2021",
+        "urg": 4,
+        "cat": "body"
       }
     ],
     "P0DBC00": [
@@ -56324,6 +57549,28 @@
         "cat": "engine"
       }
     ],
+    "P2617": [
+      {
+        "sit_id": "leap_motor_c11_007",
+        "title": "Неисправность клапана терморегуляции",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 3,
+        "cat": "cooling"
+      }
+    ],
+    "P2619": [
+      {
+        "sit_id": "leap_motor_c11_007",
+        "title": "Неисправность клапана терморегуляции",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 3,
+        "cat": "cooling"
+      }
+    ],
     "P261B": [
       {
         "sit_id": "deepal_s07_005",
@@ -56335,11 +57582,40 @@
         "cat": "cooling"
       },
       {
+        "sit_id": "hiphi_x_009",
+        "title": "Отказ электронасоса охлаждения батареи",
+        "brand": "hiphi",
+        "model": "x",
+        "generation": "x_2021",
+        "urg": 4,
+        "cat": "cooling"
+      },
+      {
+        "sit_id": "leap_motor_c11_004",
+        "title": "Отказ электрического насоса охлаждения",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 4,
+        "cat": "cooling"
+      },
+      {
         "sit_id": "rivian_r1t_006",
         "title": "Отказ насоса охлаждения",
         "brand": "rivian",
         "model": "r1t",
         "generation": "r1t_2021",
+        "urg": 4,
+        "cat": "cooling"
+      }
+    ],
+    "P261C": [
+      {
+        "sit_id": "leap_motor_c11_004",
+        "title": "Отказ электрического насоса охлаждения",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
         "urg": 4,
         "cat": "cooling"
       }
@@ -57185,12 +58461,30 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "hiphi_x_010",
+        "title": "Быстрый разряд 12V AGM",
+        "brand": "hiphi",
+        "model": "x",
+        "generation": "x_2021",
+        "urg": 5,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "genesis_g80_rg3_010",
         "title": "Зависание и перезагрузка мультимедиа",
         "brand": "hyundai",
         "model": "genesis_g80",
         "generation": "rg3_2020",
         "urg": 2,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "im_motors_l7_007",
+        "title": "Быстрый разряд 12V АКБ",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 3,
         "cat": "electrical"
       },
       {
@@ -57330,6 +58624,17 @@
         "model": "rapid",
         "generation": "nh_2020",
         "urg": 2,
+        "cat": "electrical"
+      }
+    ],
+    "U0028": [
+      {
+        "sit_id": "jidu_robo_01_005",
+        "title": "Преждевременный разряд 12V АКБ",
+        "brand": "jidu",
+        "model": "robocar_01",
+        "generation": "robo_01_2023",
+        "urg": 3,
         "cat": "electrical"
       }
     ],
@@ -57762,6 +59067,42 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "hiphi_x_003",
+        "title": "Дисбаланс ячеек HV батареи 97 кВт·ч",
+        "brand": "hiphi",
+        "model": "x",
+        "generation": "x_2021",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "hiphi_x_006",
+        "title": "Деградация DC-DC 400V/12V",
+        "brand": "hiphi",
+        "model": "x",
+        "generation": "x_2021",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "hiphi_x_008",
+        "title": "Ошибка BCM по CAN Hyper SOA",
+        "brand": "hiphi",
+        "model": "x",
+        "generation": "x_2021",
+        "urg": 5,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "hiphi_x_010",
+        "title": "Быстрый разряд 12V AGM",
+        "brand": "hiphi",
+        "model": "x",
+        "generation": "x_2021",
+        "urg": 5,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "hyundai_creta_gs_005",
         "title": "Подключение MobiAuto / StarLine и проблемы с CAN-шиной (запуск, зуммер)",
         "brand": "hyundai",
@@ -57858,6 +59199,87 @@
         "model": "tucson",
         "generation": "nx4_2020",
         "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "im_motors_l7_001",
+        "title": "Дисбаланс ячеек semi-solid",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "im_motors_l7_002",
+        "title": "Отказ системы подруливания задней оси",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 3,
+        "cat": "chassis"
+      },
+      {
+        "sit_id": "im_motors_l7_004",
+        "title": "Перегрев порта DC",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "im_motors_l7_005",
+        "title": "Просадка мощности переднего мотора",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "im_motors_l7_006",
+        "title": "Отказ циркуляционной помпы терморегуляции",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 5,
+        "cat": "cooling"
+      },
+      {
+        "sit_id": "im_motors_l7_007",
+        "title": "Быстрый разряд 12V АКБ",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "im_motors_l7_008",
+        "title": "Сбой by-wire тормозной системы",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 5,
+        "cat": "brakes"
+      },
+      {
+        "sit_id": "im_motors_l7_009",
+        "title": "Утечка пневмоподвески",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 3,
+        "cat": "chassis"
+      },
+      {
+        "sit_id": "im_motors_l7_010",
+        "title": "Зависание мультимедиа",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 2,
         "cat": "electrical"
       },
       {
@@ -57975,6 +59397,33 @@
         "model": "range_rover_sport",
         "generation": "l494_2013",
         "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "leap_motor_c11_003",
+        "title": "Разряд 12V АКБ",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "leap_motor_c11_005",
+        "title": "Неисправность зарядного порта",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "leap_motor_c11_010",
+        "title": "Программные сбои VCU и мультимедиа",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 2,
         "cat": "electrical"
       },
       {
@@ -58486,6 +59935,15 @@
         "cat": "chassis"
       },
       {
+        "sit_id": "im_motors_l7_003",
+        "title": "Сбой калибровки IMAD",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "jeep_compass_mp_004",
         "title": "Отказ датчика дождя и зависание UConnect 8.4A на морозе",
         "brand": "jeep",
@@ -58510,6 +59968,15 @@
         "model": "telluride",
         "generation": "on_2019",
         "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "leap_motor_c11_010",
+        "title": "Программные сбои VCU и мультимедиа",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 2,
         "cat": "electrical"
       },
       {
@@ -58696,6 +60163,15 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "leap_motor_c11_001",
+        "title": "Дисбаланс ячеек LFP-батареи",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "nio_et7_005",
         "title": "Потеря связи по CAN-шине (Banyan OS)",
         "brand": "nio",
@@ -58792,6 +60268,24 @@
         "brand": "ford",
         "model": "mondeo",
         "generation": "mk5_2014",
+        "urg": 3,
+        "cat": "chassis"
+      },
+      {
+        "sit_id": "hiphi_x_008",
+        "title": "Ошибка BCM по CAN Hyper SOA",
+        "brand": "hiphi",
+        "model": "x",
+        "generation": "x_2021",
+        "urg": 5,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "im_motors_l7_002",
+        "title": "Отказ системы подруливания задней оси",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
         "urg": 3,
         "cat": "chassis"
       },
@@ -59150,6 +60644,33 @@
         "cat": "body"
       },
       {
+        "sit_id": "hiphi_x_001",
+        "title": "Отказ актуатора NT Door системы",
+        "brand": "hiphi",
+        "model": "x",
+        "generation": "x_2021",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "hiphi_x_007",
+        "title": "Залипание крышки зарядного порта",
+        "brand": "hiphi",
+        "model": "x",
+        "generation": "x_2021",
+        "urg": 4,
+        "cat": "body"
+      },
+      {
+        "sit_id": "hiphi_x_008",
+        "title": "Ошибка BCM по CAN Hyper SOA",
+        "brand": "hiphi",
+        "model": "x",
+        "generation": "x_2021",
+        "urg": 5,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "honda_crv_rw_004",
         "title": "Быстрый разряд штатной АКБ (особенно зимой)",
         "brand": "honda",
@@ -59174,6 +60695,24 @@
         "model": "tucson",
         "generation": "nx4_2020",
         "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "im_motors_l7_003",
+        "title": "Сбой калибровки IMAD",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "im_motors_l7_010",
+        "title": "Зависание мультимедиа",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 2,
         "cat": "electrical"
       },
       {
@@ -59256,6 +60795,33 @@
         "generation": "l494_2013",
         "urg": 1,
         "cat": "body"
+      },
+      {
+        "sit_id": "leap_motor_c11_003",
+        "title": "Разряд 12V АКБ",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "leap_motor_c11_006",
+        "title": "Износ амортизаторов и пневмостойки",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 2,
+        "cat": "chassis"
+      },
+      {
+        "sit_id": "leap_motor_c11_010",
+        "title": "Программные сбои VCU и мультимедиа",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 2,
+        "cat": "electrical"
       },
       {
         "sit_id": "lucid_air_003",
@@ -59644,6 +61210,24 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "hiphi_x_008",
+        "title": "Ошибка BCM по CAN Hyper SOA",
+        "brand": "hiphi",
+        "model": "x",
+        "generation": "x_2021",
+        "urg": 5,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "im_motors_l7_010",
+        "title": "Зависание мультимедиа",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 2,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "kia_carnival_ka4_008",
         "title": "Ошибки CAN-шины и периодическая потеря связи",
         "brand": "kia",
@@ -59900,6 +61484,15 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "leap_motor_c11_010",
+        "title": "Программные сбои VCU и мультимедиа",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 2,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "lexus_lx_j300_005",
         "title": "Сбои мультимедийной системы Lexus Interface на LX 600: зависания, самопроизвольные перезагрузки, пот",
         "brand": "lexus",
@@ -60066,6 +61659,17 @@
         "cat": "electrical"
       }
     ],
+    "U0167": [
+      {
+        "sit_id": "leap_motor_c11_010",
+        "title": "Программные сбои VCU и мультимедиа",
+        "brand": "leap_motor",
+        "model": "c11",
+        "generation": "c11_2021",
+        "urg": 2,
+        "cat": "electrical"
+      }
+    ],
     "U0170": [
       {
         "sit_id": "rivian_r1s_009",
@@ -60176,6 +61780,15 @@
         "brand": "dodge",
         "model": "charger",
         "generation": "ld_2011",
+        "urg": 2,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "im_motors_l7_010",
+        "title": "Зависание мультимедиа",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
         "urg": 2,
         "cat": "electrical"
       },
@@ -60356,7 +61969,27 @@
         "cat": "electrical"
       }
     ],
+    "U0230": [
+      {
+        "sit_id": "jidu_robo_01_008",
+        "title": "Отказ камер Apollo",
+        "brand": "jidu",
+        "model": "robocar_01",
+        "generation": "robo_01_2023",
+        "urg": 4,
+        "cat": "electrical"
+      }
+    ],
     "U0234": [
+      {
+        "sit_id": "im_motors_l7_003",
+        "title": "Сбой калибровки IMAD",
+        "brand": "im_motors",
+        "model": "l7",
+        "generation": "l7_2022",
+        "urg": 3,
+        "cat": "electrical"
+      },
       {
         "sit_id": "rivian_r1s_006",
         "title": "Неработающий датчик дверной ручки",
@@ -60368,6 +62001,15 @@
       }
     ],
     "U0235": [
+      {
+        "sit_id": "jidu_robo_01_008",
+        "title": "Отказ камер Apollo",
+        "brand": "jidu",
+        "model": "robocar_01",
+        "generation": "robo_01_2023",
+        "urg": 4,
+        "cat": "electrical"
+      },
       {
         "sit_id": "lexus_es_xv70_005",
         "title": "Отказ системы BSM (Blind Spot Monitor) и RCTA на Lexus ES XV70 из-за засорения и трещин корпусов зад",
@@ -60809,6 +62451,15 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "jidu_robo_01_002",
+        "title": "Декалибровка лидаров Apollo",
+        "brand": "jidu",
+        "model": "robocar_01",
+        "generation": "robo_01_2023",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "lucid_air_006",
         "title": "Некорректная работа рекуперативного торможения",
         "brand": "lucid",
@@ -60947,6 +62598,24 @@
         "model": "tiggo_8_pro",
         "generation": "t8p_2021",
         "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "hiphi_x_002",
+        "title": "Мисколибровка лидаров NOA",
+        "brand": "hiphi",
+        "model": "x",
+        "generation": "x_2021",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "jidu_robo_01_002",
+        "title": "Декалибровка лидаров Apollo",
+        "brand": "jidu",
+        "model": "robocar_01",
+        "generation": "robo_01_2023",
+        "urg": 4,
         "cat": "electrical"
       },
       {
@@ -61313,6 +62982,17 @@
         "model": "q4_e_tron",
         "generation": "89_2021",
         "urg": 4,
+        "cat": "electrical"
+      }
+    ],
+    "U1006": [
+      {
+        "sit_id": "hiphi_x_002",
+        "title": "Мисколибровка лидаров NOA",
+        "brand": "hiphi",
+        "model": "x",
+        "generation": "x_2021",
+        "urg": 3,
         "cat": "electrical"
       }
     ],

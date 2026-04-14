@@ -1,42 +1,42 @@
 {
   "generated_at": "2026-04-14",
   "kb_totals": {
-    "brands": 58,
-    "generations": 305,
-    "situations": 3020,
+    "brands": 62,
+    "generations": 309,
+    "situations": 3060,
     "avg_situations_per_generation": 9.9
   },
   "qa_length_distribution": {
-    "300-499": 1571,
-    "500-799": 1164,
+    "300-499": 1578,
+    "500-799": 1196,
     "100-299": 251,
-    "800-1499": 34
+    "800-1499": 35
   },
   "urgency_distribution": {
     "0": 1,
     "1": 191,
-    "2": 687,
-    "3": 1075,
-    "4": 715,
-    "5": 351
+    "2": 690,
+    "3": 1091,
+    "4": 730,
+    "5": 357
   },
   "category_distribution": {
     "ac": 58,
-    "body": 284,
-    "brakes": 241,
-    "chassis": 492,
-    "cooling": 206,
-    "electrical": 598,
-    "engine": 714,
+    "body": 285,
+    "brakes": 244,
+    "chassis": 497,
+    "cooling": 214,
+    "electrical": 619,
+    "engine": 716,
     "fuel": 21,
     "steering": 33,
     "transmission": 373
   },
   "content_type_distribution": {
-    "diagnostic": 3020
+    "diagnostic": 3060
   },
   "dtc_stats": {
-    "avg_per_situation": 2.16,
+    "avg_per_situation": 2.19,
     "max": 10,
     "zero_dtc_situations": 822
   },
@@ -92,7 +92,11 @@
     "chrysler": 10,
     "citroen": 10,
     "deepal": 10,
+    "hiphi": 10,
+    "im_motors": 10,
     "jaguar": 10,
+    "jidu": 10,
+    "leap_motor": 10,
     "lucid": 10,
     "nio": 10,
     "suzuki": 10,

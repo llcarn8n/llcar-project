@@ -1,0 +1,23 @@
+{
+  "model_name": "Robocar 01",
+  "generation": "Robo-01 (2023+)",
+  "body_styles": [
+    "SUV"
+  ],
+  "engines": [
+    {
+      "code": "Dual-motor 200-400 kW"
+    }
+  ],
+  "transmissions": [
+    "single-speed"
+  ],
+  "platform": "SEA-E (Geely+Baidu)",
+  "production_years": "2023+",
+  "russia_relevant": true,
+  "battery": {
+    "capacity_kwh": 100,
+    "chemistry": "NCM (CATL)",
+    "voltage": 400
+  }
+}

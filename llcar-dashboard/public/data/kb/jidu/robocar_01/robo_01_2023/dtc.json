@@ -1,0 +1,280 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 39,
+  "codes": {
+    "P0AFA": {
+      "count": 2,
+      "situations": [
+        "jidu_robo_01_001",
+        "jidu_robo_01_006"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A80": {
+      "count": 1,
+      "situations": [
+        "jidu_robo_01_001"
+      ],
+      "category": "hv_electric"
+    },
+    "P0B00": {
+      "count": 1,
+      "situations": [
+        "jidu_robo_01_001"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A7F": {
+      "count": 1,
+      "situations": [
+        "jidu_robo_01_001"
+      ],
+      "category": "hv_electric"
+    },
+    "U0415": {
+      "count": 1,
+      "situations": [
+        "jidu_robo_01_002"
+      ],
+      "category": "network"
+    },
+    "U0418": {
+      "count": 1,
+      "situations": [
+        "jidu_robo_01_002"
+      ],
+      "category": "network"
+    },
+    "C1A00": {
+      "count": 1,
+      "situations": [
+        "jidu_robo_01_002"
+      ],
+      "category": "chassis"
+    },
+    "B1200": {
+      "count": 1,
+      "situations": [
+        "jidu_robo_01_002"
+      ],
+      "category": "body"
+    },
+    "P0A94": {
+      "count": 1,
+      "situations": [
+        "jidu_robo_01_003"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A78": {
+      "count": 1,
+      "situations": [
+        "jidu_robo_01_003"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A3C": {
+      "count": 1,
+      "situations": [
+        "jidu_robo_01_003"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A4B": {
+      "count": 1,
+      "situations": [
+        "jidu_robo_01_003"
+      ],
+      "category": "hv_electric"
+    },
+    "P0AC0": {
+      "count": 1,
+      "situations": [
+        "jidu_robo_01_004"
+      ],
+      "category": "hv_electric"
+    },
+    "P0AE6": {
+      "count": 1,
+      "situations": [
+        "jidu_robo_01_004"
+      ],
+      "category": "hv_electric"
+    },
+    "P0D00": {
+      "count": 1,
+      "situations": [
+        "jidu_robo_01_004"
+      ],
+      "category": "hv_electric"
+    },
+    "P0D10": {
+      "count": 1,
+      "situations": [
+        "jidu_robo_01_004"
+      ],
+      "category": "hv_electric"
+    },
+    "P0562": {
+      "count": 1,
+      "situations": [
+        "jidu_robo_01_005"
+      ],
+      "category": "engine"
+    },
+    "P0563": {
+      "count": 1,
+      "situations": [
+        "jidu_robo_01_005"
+      ],
+      "category": "engine"
+    },
+    "B1318": {
+      "count": 1,
+      "situations": [
+        "jidu_robo_01_005"
+      ],
+      "category": "body"
+    },
+    "U0028": {
+      "count": 1,
+      "situations": [
+        "jidu_robo_01_005"
+      ],
+      "category": "network"
+    },
+    "C0035": {
+      "count": 1,
+      "situations": [
+        "jidu_robo_01_006"
+      ],
+      "category": "chassis"
+    },
+    "C0040": {
+      "count": 1,
+      "situations": [
+        "jidu_robo_01_006"
+      ],
+      "category": "chassis"
+    },
+    "C0050": {
+      "count": 1,
+      "situations": [
+        "jidu_robo_01_006"
+      ],
+      "category": "chassis"
+    },
+    "P0A8C": {
+      "count": 1,
+      "situations": [
+        "jidu_robo_01_007"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A81": {
+      "count": 1,
+      "situations": [
+        "jidu_robo_01_007"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A82": {
+      "count": 1,
+      "situations": [
+        "jidu_robo_01_007"
+      ],
+      "category": "hv_electric"
+    },
+    "P0AEE": {
+      "count": 1,
+      "situations": [
+        "jidu_robo_01_007"
+      ],
+      "category": "hv_electric"
+    },
+    "U0230": {
+      "count": 1,
+      "situations": [
+        "jidu_robo_01_008"
+      ],
+      "category": "network"
+    },
+    "U0235": {
+      "count": 1,
+      "situations": [
+        "jidu_robo_01_008"
+      ],
+      "category": "network"
+    },
+    "B1201": {
+      "count": 1,
+      "situations": [
+        "jidu_robo_01_008"
+      ],
+      "category": "body"
+    },
+    "B1205": {
+      "count": 1,
+      "situations": [
+        "jidu_robo_01_008"
+      ],
+      "category": "body"
+    },
+    "P0A3D": {
+      "count": 1,
+      "situations": [
+        "jidu_robo_01_009"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A3E": {
+      "count": 1,
+      "situations": [
+        "jidu_robo_01_009"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A3F": {
+      "count": 1,
+      "situations": [
+        "jidu_robo_01_009"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A40": {
+      "count": 1,
+      "situations": [
+        "jidu_robo_01_009"
+      ],
+      "category": "hv_electric"
+    },
+    "C0564": {
+      "count": 1,
+      "situations": [
+        "jidu_robo_01_010"
+      ],
+      "category": "chassis"
+    },
+    "C0565": {
+      "count": 1,
+      "situations": [
+        "jidu_robo_01_010"
+      ],
+      "category": "chassis"
+    },
+    "C0580": {
+      "count": 1,
+      "situations": [
+        "jidu_robo_01_010"
+      ],
+      "category": "chassis"
+    },
+    "C1130": {
+      "count": 1,
+      "situations": [
+        "jidu_robo_01_010"
+      ],
+      "category": "chassis"
+    }
+  }
+}

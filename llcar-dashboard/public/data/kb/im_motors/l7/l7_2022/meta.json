@@ -1,0 +1,28 @@
+{
+  "model_name": "L7",
+  "generation": "L7 (2022+)",
+  "body_styles": [
+    "sedan"
+  ],
+  "engines": [
+    {
+      "code": "Dual 340+425 kW AWD",
+      "power_kw": 765
+    }
+  ],
+  "transmissions": [
+    "single-speed"
+  ],
+  "platform": "IM Hi4 (SAIC+Alibaba)",
+  "production_years": "2022+",
+  "russia_relevant": true,
+  "battery": {
+    "capacity_kwh_options": [
+      90,
+      93,
+      120
+    ],
+    "chemistry": "NCM semi-solid (CATL)",
+    "voltage": 400
+  }
+}
