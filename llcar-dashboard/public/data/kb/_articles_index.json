@@ -133,10 +133,70 @@
       "urg": 4,
       "cat": "engine",
       "topic": "EGR и вихревые заслонки на дизеле D4HA"
+    },
+    {
+      "sit_id": "toyota_camry_xv70_2gr_fks_v6_oil_consumption",
+      "file": "_articles/toyota_camry_xv70_2gr_fks_v6_oil_consumption.md",
+      "brand": "Toyota",
+      "model": "Camry",
+      "generation": "VIII XV70 (2018+)",
+      "length_chars": 2419,
+      "sections": 6,
+      "urg": 4,
+      "cat": "engine",
+      "topic": "Масложор 2GR-FKS V6 D-4S + закоксовка впускных клапанов"
+    },
+    {
+      "sit_id": "toyota_prado_j150_002",
+      "file": "_articles/toyota_prado_j150_002.md",
+      "brand": "Toyota",
+      "model": "Land Cruiser Prado",
+      "generation": "J150 (2009+)",
+      "length_chars": 2350,
+      "sections": 6,
+      "urg": 5,
+      "cat": "cooling",
+      "topic": "Смешивание антифриза и ATF через радиатор 1GR-FE"
+    },
+    {
+      "sit_id": "vw_polo_aw_001",
+      "file": "_articles/vw_polo_aw_001.md",
+      "brand": "Volkswagen",
+      "model": "Polo",
+      "generation": "V AW (2020+, лифтбек)",
+      "length_chars": 2335,
+      "sections": 6,
+      "urg": 4,
+      "cat": "engine",
+      "topic": "Троение CWVA/CWVB 1.6 MPI — форсунки/катушки/свечи"
+    },
+    {
+      "sit_id": "renault_duster_hs_001",
+      "file": "_articles/renault_duster_hs_001.md",
+      "brand": "Renault",
+      "model": "Duster",
+      "generation": "I FL HS (2015-2020)",
+      "length_chars": 2295,
+      "sections": 6,
+      "urg": 5,
+      "cat": "engine",
+      "topic": "Прогорание прокладки ГБЦ K9K 1.5 dCi, эмульсия"
+    },
+    {
+      "sit_id": "bmw_3_f30_001",
+      "file": "_articles/bmw_3_f30_001.md",
+      "brand": "BMW",
+      "model": "3 Series",
+      "generation": "F30 (2012-2019)",
+      "length_chars": 2462,
+      "sections": 6,
+      "urg": 5,
+      "cat": "engine",
+      "topic": "Растяжение цепи ГРМ N20B20 + пластиковая звезда маслонасоса"
     }
   ],
   "target_total": 30,
-  "completed": 10,
+  "completed": 15,
   "remaining_priority": [
     "hyundai_solaris_rb (катушки зажигания)",
     "kia_rio_fb (6AT A6GF1 рывки)",

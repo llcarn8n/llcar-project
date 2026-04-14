@@ -23,7 +23,8 @@
     ],
     "price_range": "3000-25000 руб.",
     "mileage_range": "40000-120000 км",
-    "content_type": "diagnostic"
+    "content_type": "full_article",
+    "full_article_path": "_articles/vw_polo_aw_001.md"
   },
   {
     "id": "vw_polo_aw_002",

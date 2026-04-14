@@ -22,7 +22,8 @@
     ],
     "price_range": "25000 - 55000 руб.",
     "mileage_range": "80000 - 180000 км",
-    "content_type": "diagnostic"
+    "content_type": "full_article",
+    "full_article_path": "_articles/renault_duster_hs_001.md"
   },
   {
     "id": "renault_duster_hs_002",

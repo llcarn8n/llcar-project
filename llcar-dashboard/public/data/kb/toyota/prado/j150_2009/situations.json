@@ -36,7 +36,8 @@
     ],
     "price_range": "30000 - 100000 руб.",
     "mileage_range": "100000 - 200000 км",
-    "content_type": "diagnostic"
+    "content_type": "full_article",
+    "full_article_path": "_articles/toyota_prado_j150_002.md"
   },
   {
     "id": "toyota_prado_j150_003",

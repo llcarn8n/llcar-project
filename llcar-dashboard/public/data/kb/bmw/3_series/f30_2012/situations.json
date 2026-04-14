@@ -17,7 +17,8 @@
     ],
     "price_range": "45000 - 85000 руб.",
     "mileage_range": "60000 - 120000 км",
-    "content_type": "diagnostic"
+    "content_type": "full_article",
+    "full_article_path": "_articles/bmw_3_f30_001.md"
   },
   {
     "id": "bmw_3_f30_002",

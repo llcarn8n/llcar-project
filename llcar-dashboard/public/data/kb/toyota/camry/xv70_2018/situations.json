@@ -22,7 +22,8 @@
     ],
     "price_range": "15000 - 180000 руб.",
     "mileage_range": "80000 - 200000 км",
-    "content_type": "diagnostic"
+    "content_type": "full_article",
+    "full_article_path": "_articles/toyota_camry_xv70_2gr_fks_v6_oil_consumption.md"
   },
   {
     "id": "toyota_camry_xv70_cvt_judder",
