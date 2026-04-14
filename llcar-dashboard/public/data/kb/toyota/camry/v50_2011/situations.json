@@ -19,7 +19,8 @@
     ],
     "price_range": "25000 - 80000 руб.",
     "mileage_range": "120000 - 200000 км",
-    "content_type": "diagnostic"
+    "content_type": "full_article",
+    "full_article_path": "_articles/toyota_camry_v50_2ar_fe_timing_chain_stretch.md"
   },
   {
     "id": "toyota_camry_v50_6at_jerk_cold",

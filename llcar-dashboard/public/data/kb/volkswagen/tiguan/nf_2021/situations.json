@@ -46,7 +46,8 @@
     ],
     "price_range": "8000-180000 руб.",
     "mileage_range": "20000-100000 км",
-    "content_type": "diagnostic"
+    "content_type": "full_article",
+    "full_article_path": "_articles/vw_tiguan_nf_002.md"
   },
   {
     "id": "vw_tiguan_nf_003",
