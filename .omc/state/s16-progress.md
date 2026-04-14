@@ -16,7 +16,16 @@
 - Schema fix + DtcSearch tabs live на prod
 - Visual QA отложен до Wave 5 (когда будут verifier-исправления)
 
-## Wave 4 — P4 Verifier 7 brands — IN PROGRESS
+## Wave 4 — P4 Verifier 7 brands — DONE (findings collected, edits deferred)
+- Commit: после сохранения всех 7 JSON files
+- Findings: HiPhi 10, Nio 2, Leap 9, Jidu 7, IM 9, XPENG ~10, Voyah 9 = **~56 total**
+- VERIFIER-FINDINGS-S16-P4.md создан
+- situations.json НЕ правлены — application отложен в следующую микро-итерацию (context budget)
+
+## Wave 5 — P8b Deploy — SKIPPED
+- Обоснование: situations.json не модифицированы, данные уже live после Wave 3
+
+## Wave 6 — P5 +30 Full Articles — IN PROGRESS
 ## Wave 4 — P4 Verifier 7 brands — PENDING
 ## Wave 5 — P8b Deploy — PENDING
 ## Wave 6 — P5 +30 articles — PENDING

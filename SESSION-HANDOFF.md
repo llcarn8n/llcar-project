@@ -1,109 +1,102 @@
-# SESSION HANDOFF — Session 15 COMPLETE
+# SESSION HANDOFF — Session 16 COMPLETE (partial)
 
-## Статус: KB **62 бренда / 309 поколений / 3060 ситуаций / 30 full articles / 1820 DTC кодов**. Frontend KB-компоненты готовы.
+## Статус: KB **62 бренда / 309 поколений / 3060 ситуаций / 0 schema issues / 50 full articles / 1820 DTC кодов**.
 
-## Session 15 COMPLETE — Full Articles + Frontend Components
+Prod `llcar.ru/v3/` + `llcar.ru/v3/kb` — **live**, API 200 после 2 deploy.
 
-### P2.1 Full Articles — 30/30 ✅
+## Session 16 — краткий итог
 
-6 коммитов (1b99083 → 53048cd), 30 качественных статей 1870-2498 chars, 6 канонических секций (## Симптомы / ## Техническая причина / ## Последствия игнорирования / ## Диагностика / ## Ремонт / ## Профилактика).
+**Полностью сделано:**
+1. **P0 (унаследовано из пред. попытки):** 3D сцена на llcar.ru/v3 восстановлена. Коммиты 48969d5, f6883f1, b9f8a78, f023f09.
+2. **P3 Schema Fix** — **51 issues → 0**. Все 309 situations.json валидны. 34 mojibake DTC удалены, 13 manufacturer codes → OBD-II, Toyota Camry XV40 _008 запатчен. Commit `f1c4bad`.
+3. **P2 DtcSearch Integration** — табы "Ситуации" | "Поиск по DTC" в `KnowledgeBase.tsx`, кросс-таб навигация (клик на DTC-ситуацию → setVehicleProfile + автораскрытие). Commit `0b7106d`.
+4. **P8 Deploy** (×2) — `deploy-v3.sh --frontend-only`, API 200 каждый раз.
+5. **P4 Verifier** — 7 Round 4/5 brands (HiPhi X, Nio ET7, Leap C11, Jidu, IM L7, XPENG P7, Voyah Free) проверены через 7 subagent в 3 батчах (3+3+1). ~56 findings сохранены на диск в `.omc/state/s16-p4-verifier/{brand}.json` (не в памяти — rule R1). Сводный отчёт `VERIFIER-FINDINGS-S16-P4.md`.
+6. **P5 Articles partial** — новый `scripts/build_articles_index.py`, 20 существующих на диске MD-файлов добавлены в индекс, validator 50/50 OK. Commit `9c99464`.
 
-**Покрытие:** 13 брендов (Hyundai 5, Kia 3, Toyota/Lexus 5, VW/Skoda 5, Mercedes 2, BMW 1, Renault 2, Nissan 2, Lada 2). Моторы включая 2 дизеля (D4HA, K9K), 3 V6 (2AR-FE, 2GR-FKS, 1GR-FE), 2 DSG DQ381, 4 CVT (JF015E, JF017E, K112, K313 IVT), 1 АМТ ZF 2181.
+**Не сделано (deferred в S17):**
+1. ⚠ **Применение P4 high-confidence findings в situations.json** (~25 правок по 7 файлам) — findings на диске, но требует focused micro-session per-file.
+2. ❌ **30 новых full articles** — target 80, сейчас 50.
+3. ❌ **P6 YouTube script + top-100 videos** — требует Google API key.
+4. ❌ **P7 Playwright E2E (5 smoke tests)**.
+5. ❌ **Visual QA через Playwright MCP + GLM vision** — быстрый deploy-check подтвердил API 200, но визуальный snapshot не сделан.
 
-**Инфраструктура:**
-- `llcar-dashboard/public/data/kb/_articles/*.md` (30 файлов)
-- `llcar-dashboard/public/data/kb/_articles_index.json`
-- `scripts/validate_full_articles.py` — валидатор длины/секций/CJK/placeholder
-- В 30 situations.json: `content_type: "full_article"` + `full_article_path`
+## Prevent-crash rules (R1-R7) — КРИТИЧНО для следующих сессий
 
-### P3 Frontend Components — готовы ✅
+Полный план: `~/.claude/plans/encapsulated-wibbling-coral.md`.
 
-**Коммит `9e02942`** — P3.3 QualityBadge + P4.2 schema validator:
-- `llcar-dashboard/src/components/kb/QualityBadge.tsx` — значки ◉/◎/○ (high/medium/low)
-- `scripts/validate_kb_schema.py` — JSON Schema validator для 309 situations.json, найдено 51 реальный issue
+- **R1**: verifier-агенты ВСЕГДА пишут JSON findings на диск (`.omc/state/...`), не полагаются на память assistant'а.
+- **R2**: максимум 3 subagents в одном батче, не мешать с MCP (Playwright, GLM-vision) в main thread.
+- **R3**: commit после каждого P-блока, не копить staged state >10 мин.
+- **R4**: на 70% контекста → STOP + SAVE + handoff, не "ещё одну операцию".
+- **R5**: memory save после каждой Wave, не в конце.
+- **R6**: каждая Wave = независимая точка handoff, закрытая точка.
+- **R7**: старт новой Wave → читать `.omc/state/s16-progress.md` + `git log`, не полагаться на контекст.
 
-**Коммит `bdf68ff`** — P3.4 FullArticle:
-- `llcar-dashboard/src/components/kb/FullArticle.tsx` — рендер markdown, frontmatter, аккордеон 6 секций, иконки, без react-markdown dep
-
-**Коммит `44dedda`** — интеграция P3.3+P3.4 в SituationsList:
-- QualityBadge между title и urgency
-- FullArticle в expanded view при `content_type: full_article`
-
-**Коммит `d2913a7`** — P3.2 DtcSearch:
-- `llcar-dashboard/src/components/kb/DtcSearch.tsx` — поиск по 1820 DTC кодам
-- Автодополнение 12 suggestions, фильтры cat/brand, callback onSelectSituation
-- Ready для интеграции в Diagnostics.tsx
-
-**Все компоненты проходят `tsc --noEmit` чисто.**
-
-### Все 11 коммитов Session 15 (`dashboard-v3`)
+## Коммиты S16 на `dashboard-v3`
 
 ```
-d2913a7 feat(kb): S15 P3.2 — DtcSearch компонент
-44dedda feat(kb): S15 P3.3+P3.4 integration — QualityBadge + FullArticle в SituationsList
-bdf68ff feat(kb): S15 P3.4 — FullArticle рендер-компонент
-9e02942 feat(kb): S15 P3.3 + P4.2 — QualityBadge + schema validator
-53048cd fix(kb): S15 — finalize full_article_path for Lada Granta 2190 robot
-bcb6d30 feat(kb): S15 P2.1 COMPLETE — 30/30 full articles (goal reached)
-cc560cf feat(kb): S15 P2.1 batch 5 — +5 full articles (25/30 = 83%)
-6e407b1 feat(kb): S15 P2.1 batch 4 — +5 full articles (20/30 = 67%)
-d1afc47 feat(kb): S15 P2.1 batch 3 — +5 full articles (15/30, half-way)
-df8d420 feat(kb): S15 P2.1 batch 2 — +5 full articles (10/30 complete)
-1b99083 feat(kb): S15 P2.1 — first 5 full articles (1990-2441 chars, 6 sections)
+9c99464 content(kb): P5 partial — index 20 existing articles (30→50 indexed)
+<sha>   chore(kb): P4 verifier findings — 7 Round 4/5 brands fact-checked
+0b7106d feat(kb): P2 DtcSearch tab integration with cross-tab navigation
+f1c4bad fix(kb): P3 schema fix — OBD-II conversion + mojibake cleanup
+f023f09 (S16 P0 tail) fix(kb): import JSX type from react для tsc -b build
+b9f8a78 fix(v3): убрать overlay labels + вынести legends из-под 3D viewport
+f6883f1 revert(v3): убрать Fresnel rim — оставить opacity fix как финал
+48969d5 fix(v3): S16 P0 — restore 3D scene visibility (opacity + Fresnel rim)
 ```
 
----
+## Next Session (S17) Priorities
 
-## Session 14 SUMMARY (предыстория)
+**Самое важное — применение P4 high-confidence findings.** Во всех 7 файлах есть факт. ошибки, которые нужно исправить per-file:
 
-**До S15:** 51 бренд → 62 бренда; 239 → 309 поколений; 2365 → 3060 ситуаций; 1596 → 1820 DTC кодов. Schema normalization (115 файлов), 9 новых брендов, 26 новых поколений существующих брендов, verifier Round 3/4/5, DTC→Situation index.
+1. **HiPhi X `x_2021/situations.json`**:
+   - sit_002: удалить упоминание "6 лидаров для NOA + Hesai Pandora" (серия 2021 была камеры + 5 mmWave).
+   - sit_003: "деградация при частых DC 80 кВт" → "до 250 кВт HPC поддерживается".
+   - sit_004: задний мотор 300 кВт → 245 кВт (суммарно 480 кВт).
+   - sit_006: DTC `P0A06` не относится к DC-DC недозаряду — заменить на `P0A1A`/`P0A94`.
+2. **Nio ET7 `et7_2022/situations.json`** sit_002: передний PMSM — 240 кВт (не 255/300).
+3. **Leap C11 `c11_2021/situations.json`**:
+   - sit_001: убрать CTC (не применялось в 2021), 90kWh = NMC (не LFP).
+   - sit_002: AWD = 400 кВт пик.
+   - sit_006: нет пневмоподвески (только CDC).
+   - sit_008: **EREV не существовал в 2021** — удалить или перенести в c11_2023/.
+   - sit_010: LEAP 3.0 → LEAP 1.0/2.0.
+4. **Jidu robo_01_2023** sit_002/008: "31 камера" → "12 камер + 2 LiDAR + 5 mmWave + 12 ultrasonic".
+5. **IM L7 `l7_2022/situations.json`**:
+   - sit_001: "semi-solid" → NMC liquid 90/93 kWh.
+   - sit_003: "11 камер" → 12; "IM Hi4" → IMAD (Hi4 это Great Wall).
+   - sit_004: DC "до 90 кВт" → GB/T до ~180 кВт.
+   - sit_005: "передний 340 кВт" → 175 кВт.
+   - sit_008: DTC C0035/C0040/C0045/C0050 не по теме by-wire brake.
+   - sit_010: "Android Automotive" → IMOS (AliOS).
+6. **XPENG P7 `p7_2020/situations.json`**:
+   - sit_005: AWD 430 кВт → 316 кВт (120+196); SiC инвертор → IGBT.
+   - sit_006: пневмоподвески НЕТ (CDC).
+   - sit_008: iBooster вакуумный насос — нет.
+   - sit_009: R134a → R1234yf.
+7. **Voyah Free `free_2021/situations.json`**:
+   - sit_003: OBC 11 кВт → 6.6 кВт.
+   - sit_005: DK15 generator ~80 кВт.
+   - sit_010: нет LiDAR в 2021 MY.
 
-Детали — в `memory/project_session14_progress.md` и `memory/project_session15_progress.md`.
+**Остальное:**
+- 30 новых статей (batch 11-16, RAV4, LC300, 7-series, Cayenne, Kodiaq, Tiggo + другие) через GLM (паттерн S15).
+- YouTube API key + `scripts/youtube_search.py`.
+- Playwright E2E (5 smoke tests).
+- Visual QA после финальных deploy.
 
----
+## State Files для S17 старта
 
-## Приоритеты для Session 16
+- `.omc/state/s16-progress.md` — что сделано/осталось (компактно).
+- `.omc/state/s16-p4-verifier/*.json` — 7 файлов с findings (~56 total).
+- `VERIFIER-FINDINGS-S16-P4.md` — human-readable сводка.
+- `~/.claude/plans/encapsulated-wibbling-coral.md` — полный план.
+- `memory/project_session16_progress.md` — подробный лог сессии.
 
-### Приоритет 1 — Интеграция DtcSearch в страницу
-
-Добавить DtcSearch в `llcar-dashboard/src/pages/Diagnostics.tsx` или `KnowledgeBase.tsx`. Callback onSelectSituation должен:
-1. Установить vehicleProfile.brandId / model / generationId в dashboardStore
-2. Прокрутить страницу к SituationsList
-3. Раскрыть нужную ситуацию (через URL-хэш или state)
-
-### Приоритет 2 — P4.1 Verifier на новые бренды Round 4/5
-
-Запустить `oh-my-claudecode:verifier` на 7 брендов:
-- HiPhi X, Leap Motor C11, Jidu Robocar 01, IM Motors L7 (Round 5)
-- Nio ET7, XPENG P7, Voyah Free (Round 4 — уже частично проверены)
-
-### Приоритет 3 — P2.4 YouTube Videos
-
-Создать `scripts/youtube_search.py` с YouTube Data API. Поле `videos: [{url, type, channel, duration_min}]` в situations.json. Затем `VideosList.tsx` компонент.
-
-### Приоритет 4 — P5 Server deploy
-
-`rsync -avz llcar-dashboard/public/data/kb/ llcar@185.55.57.145:/srv/llcar/kb/`. Сначала SSH-инспекция — какая архитектура backend (файлы или Postgres).
-
-### Приоритет 5 — P3.1 E2E tests Playwright
-
-`e2e/kb-rendering.spec.ts` — smoke-тесты: 62 brands load, DtcSearch suggestions, full article render.
-
-### Приоритет 6 — Fix data issues от validate_kb_schema.py
-
-- `volvo/xc60/su/_008` — mojibake в qa
-- `toyota/camry/xv40/_008` — пустые solutions
-- Нестандартные DTC в Volvo (ECM-0001, HVB-001 — нужно привести к стандарту или расширить allowlist)
-
----
-
-## Технические заметки
-
-- Ветка `dashboard-v3` активна. Последний коммит `d2913a7`.
-- Все новые KB-компоненты в `llcar-dashboard/src/components/kb/` — используют `theme.ts` и `GlassPanel`, стиль HUD (Rajdhani/Orbitron).
-- GLM 5.1 MCP активен для KB enrichment. **Паттерн промпта** (работает 100%): `max_tokens=2000` + system "ВЫВОДИ ТОЛЬКО ГОТОВУЮ СТАТЬЮ — никаких размышлений" + ключевые факты в промпте. Temperature 0.2.
-- Валидаторы: `scripts/validate_full_articles.py` (30/30 OK), `scripts/validate_kb_schema.py` (все кроме 51 issue в старых ситуациях).
-
----
-
-*Обновлено 2026-04-14 после Session 15 COMPLETE (P2.1 + P3.2/3.3/3.4 + P4.2).*
+**При старте S17:**
+```bash
+cat .omc/state/s16-progress.md
+git log --oneline b9f8a78..HEAD
+cat VERIFIER-FINDINGS-S16-P4.md | head -100
+```
