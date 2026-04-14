@@ -1,6 +1,24 @@
-# SESSION HANDOFF — Session 14 ROUND 3 COMPLETE
+# SESSION HANDOFF — Session 14 ROUND 4 COMPLETE
 
-## Статус: KB 55 брендов / 302 поколения / 2990 ситуаций / 1767 DTC кодов / dtc.json per gen. GLM 5.1 MCP активен.
+## Статус: KB **58 брендов / 305 поколений / 3020 ситуаций / 1799 DTC кодов / dtc.json per gen + quality report**. GLM 5.1 MCP активен.
+
+### Round 4 (финальный прирост Session 14):
+
+**Коммит `245d3d7`** — +3 китайских EV бренда + verifier fixes + quality report:
+- Nio ET7 (2022+, 400V, 75/100/150 кВт·ч semi-solid, Battery-as-a-Service swap)
+- XPENG P7 (2020+, CATL NCM 811, Edward platform, XPilot 3.0/3.5)
+- Voyah Free (2021+, Dongfeng ESSA, BEV или EREV с 1.5T JL473QJ extender)
+- Verifier Round 3 fixes (3): P0264 → P261B в Rivian R1T, CHAdeMO → CCS2/GB/T в Deepal, Samsung SDG → SDI в Rivian R1S
+- `scripts/kb_quality_report.py` + `_quality_report.json`: QA distribution, urgency/category spread, DTC stats per brand
+
+**QA-распределение после Round 4:**
+- 300-499 chars: 1571 (52%)
+- 500-799: 1164 (39%)
+- 100-299: 251 (8%) — кандидаты на расширение
+- 800-1499: 34 (1%)
+- 1500+: 0 (full articles ещё не начаты)
+
+**Топ-10 брендов по числу ситуаций:** BMW 299, Hyundai 258, Mercedes 250, Kia 237, Audi 177, Toyota 150, Renault 130, Nissan 100, Skoda 90, Mazda 80.
 
 ### Round 3 (дополнение к Session 14):
 
