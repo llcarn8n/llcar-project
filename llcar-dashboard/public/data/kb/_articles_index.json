@@ -15,6 +15,18 @@
   },
   "articles": [
     {
+      "sit_id": "audi_a6_c8_001",
+      "file": "_articles/audi_a6_c8_001.md",
+      "brand": "",
+      "model": "",
+      "generation": "",
+      "length_chars": 2712,
+      "sections": 0,
+      "urg": 0,
+      "cat": "",
+      "topic": "---"
+    },
+    {
       "sit_id": "audi_q5_fy_001",
       "file": "_articles/audi_q5_fy_001.md",
       "brand": "audi",
@@ -51,6 +63,18 @@
       "topic": "---"
     },
     {
+      "sit_id": "bmw_7_g11_001",
+      "file": "_articles/bmw_7_g11_001.md",
+      "brand": "bmw",
+      "model": "7_series",
+      "generation": "g11_2015",
+      "length_chars": 2711,
+      "sections": 0,
+      "urg": 4,
+      "cat": "engine",
+      "topic": "---"
+    },
+    {
       "sit_id": "bmw_x3_g01_001",
       "file": "_articles/bmw_x3_g01_001.md",
       "brand": "bmw",
@@ -60,6 +84,42 @@
       "sections": 0,
       "urg": 5,
       "cat": "cooling",
+      "topic": "---"
+    },
+    {
+      "sit_id": "bmw_x5_g05_001",
+      "file": "_articles/bmw_x5_g05_001.md",
+      "brand": "bmw",
+      "model": "x5",
+      "generation": "g05_2018",
+      "length_chars": 2714,
+      "sections": 0,
+      "urg": 4,
+      "cat": "engine",
+      "topic": "---"
+    },
+    {
+      "sit_id": "byd_atto3_001",
+      "file": "_articles/byd_atto3_001.md",
+      "brand": "",
+      "model": "",
+      "generation": "",
+      "length_chars": 2752,
+      "sections": 0,
+      "urg": 0,
+      "cat": "",
+      "topic": "---"
+    },
+    {
+      "sit_id": "chery_tiggo7_001",
+      "file": "_articles/chery_tiggo7_001.md",
+      "brand": "",
+      "model": "",
+      "generation": "",
+      "length_chars": 2427,
+      "sections": 0,
+      "urg": 0,
+      "cat": "",
       "topic": "---"
     },
     {
@@ -75,6 +135,18 @@
       "topic": "---"
     },
     {
+      "sit_id": "geely_monjaro_kx11_001",
+      "file": "_articles/geely_monjaro_kx11_001.md",
+      "brand": "",
+      "model": "",
+      "generation": "",
+      "length_chars": 2633,
+      "sections": 0,
+      "urg": 0,
+      "cat": "",
+      "topic": "---"
+    },
+    {
       "sit_id": "geely_monjaro_kx11_2022_001",
       "file": "_articles/geely_monjaro_kx11_2022_001.md",
       "brand": "geely",
@@ -84,6 +156,18 @@
       "sections": 0,
       "urg": 3,
       "cat": "engine",
+      "topic": "---"
+    },
+    {
+      "sit_id": "haval_f7_001",
+      "file": "_articles/haval_f7_001.md",
+      "brand": "haval",
+      "model": "f7",
+      "generation": "f7_2019",
+      "length_chars": 2675,
+      "sections": 0,
+      "urg": 4,
+      "cat": "transmission",
       "topic": "---"
     },
     {
@@ -133,6 +217,18 @@
       "urg": 3,
       "cat": "engine",
       "topic": "Масложор и синий дым на G4NA 2.0 Nu"
+    },
+    {
+      "sit_id": "hyundai_palisade_001",
+      "file": "_articles/hyundai_palisade_001.md",
+      "brand": "hyundai",
+      "model": "palisade",
+      "generation": "lx2_2019",
+      "length_chars": 2463,
+      "sections": 0,
+      "urg": 5,
+      "cat": "engine",
+      "topic": "---"
     },
     {
       "sit_id": "hyundai_santa_fe_tm_001",
@@ -241,6 +337,18 @@
       "urg": 5,
       "cat": "engine",
       "topic": "Задиры в цилиндрах G4FC + катализатор"
+    },
+    {
+      "sit_id": "kia_seltos_001",
+      "file": "_articles/kia_seltos_001.md",
+      "brand": "",
+      "model": "",
+      "generation": "",
+      "length_chars": 2741,
+      "sections": 0,
+      "urg": 0,
+      "cat": "",
+      "topic": "---"
     },
     {
       "sit_id": "kia_sorento_um_001",
@@ -387,6 +495,18 @@
       "topic": "---"
     },
     {
+      "sit_id": "merc_e_w213_002",
+      "file": "_articles/merc_e_w213_002.md",
+      "brand": "mercedes",
+      "model": "e_class",
+      "generation": "w213_2016",
+      "length_chars": 2754,
+      "sections": 0,
+      "urg": 4,
+      "cat": "chassis",
+      "topic": "---"
+    },
+    {
       "sit_id": "mitsu_outlander_gf_001",
       "file": "_articles/mitsu_outlander_gf_001.md",
       "brand": "mitsubishi",
@@ -421,6 +541,18 @@
       "urg": 5,
       "cat": "engine",
       "topic": "Масложор QR25DE + разрушение катализатора"
+    },
+    {
+      "sit_id": "porsche_cayenne_9y_001",
+      "file": "_articles/porsche_cayenne_9y_001.md",
+      "brand": "",
+      "model": "",
+      "generation": "",
+      "length_chars": 2743,
+      "sections": 0,
+      "urg": 0,
+      "cat": "",
+      "topic": "---"
     },
     {
       "sit_id": "porsche_macan_95b_001",
@@ -519,6 +651,18 @@
       "topic": "Масложор 2GR-FKS V6 D-4S + закоксовка впускных клапанов"
     },
     {
+      "sit_id": "toyota_corolla_e210_001",
+      "file": "_articles/toyota_corolla_e210_001.md",
+      "brand": "toyota",
+      "model": "corolla",
+      "generation": "e210_2019",
+      "length_chars": 2651,
+      "sections": 0,
+      "urg": 4,
+      "cat": "transmission",
+      "topic": "---"
+    },
+    {
       "sit_id": "toyota_highlander_xu70_001",
       "file": "_articles/toyota_highlander_xu70_001.md",
       "brand": "toyota",
@@ -540,6 +684,18 @@
       "sections": 0,
       "urg": 4,
       "cat": "chassis",
+      "topic": "---"
+    },
+    {
+      "sit_id": "toyota_lc300_001",
+      "file": "_articles/toyota_lc300_001.md",
+      "brand": "",
+      "model": "",
+      "generation": "",
+      "length_chars": 2630,
+      "sections": 0,
+      "urg": 0,
+      "cat": "",
       "topic": "---"
     },
     {
@@ -565,6 +721,18 @@
       "urg": 4,
       "cat": "engine",
       "topic": "Valvematic 3ZR-FAE — плавающие обороты, отзыв ЭБУ"
+    },
+    {
+      "sit_id": "volvo_xc90_lc_001",
+      "file": "_articles/volvo_xc90_lc_001.md",
+      "brand": "volvo",
+      "model": "xc90",
+      "generation": "lc_2015",
+      "length_chars": 2738,
+      "sections": 0,
+      "urg": 4,
+      "cat": "engine",
+      "topic": "---"
     },
     {
       "sit_id": "vw_polo_aw_001",
@@ -612,6 +780,18 @@
       "sections": 0,
       "urg": 4,
       "cat": "chassis",
+      "topic": "---"
+    },
+    {
+      "sit_id": "zeekr_001_p_001",
+      "file": "_articles/zeekr_001_p_001.md",
+      "brand": "",
+      "model": "",
+      "generation": "",
+      "length_chars": 2754,
+      "sections": 0,
+      "urg": 0,
+      "cat": "",
       "topic": "---"
     }
   ],
