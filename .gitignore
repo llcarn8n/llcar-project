@@ -44,3 +44,8 @@ _archive/old-app-v104/llcarv104/llcarv104/node_modules/
 *.gltf
 *.bin
 pids_rxtx.txt
+
+# Playwright
+llcar-dashboard/test-results/
+llcar-dashboard/playwright-report/
+llcar-dashboard/blob-report/
