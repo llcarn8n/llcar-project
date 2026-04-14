@@ -2,6 +2,8 @@ import { useState, useEffect, useMemo } from 'react'
 import { GlassPanel } from '../shared/GlassPanel'
 import { theme } from '../../theme'
 import { cachedFetch } from '../../utils/fetchCache'
+import { QualityBadge } from './QualityBadge'
+import { FullArticle } from './FullArticle'
 
 interface Situation {
   id: string
@@ -11,6 +13,9 @@ interface Situation {
   cat: string             // category
   layers: string[]
   dtc: string[]           // related DTC codes — universal/brand format
+  solutions?: string[]    // generation-level solutions
+  content_type?: string   // 'diagnostic' | 'guide' | 'full_article'
+  full_article_path?: string  // path relative to kb/ for rich articles
   // Generation KB extended fields (optional)
   quickAnswer?: string    // generation-level quick answer
   level1_ru?: string      // detailed explanation
@@ -101,6 +106,9 @@ export function SituationsList({ brandId, kbGenPath }: SituationsListProps) {
           qa: s.qa ?? s.quickAnswer ?? '',
           dtc: s.dtc ?? s.dtc_codes ?? [],
           layers: s.layers ?? [],
+          solutions: s.solutions ?? [],
+          content_type: s.content_type,
+          full_article_path: s.full_article_path,
         }))
         setGenSituations(normalized)
       })
@@ -350,6 +358,14 @@ export function SituationsList({ brandId, kbGenPath }: SituationsListProps) {
                     )}
                   </div>
 
+                  {/* Quality badge */}
+                  <QualityBadge
+                    qaLength={(s.quickAnswer || s.qa || '').length}
+                    dtcCount={(s.dtc_codes || s.dtc || []).length}
+                    solutionsCount={(s.solutions || []).length}
+                    hasFullArticle={!!s.full_article_path}
+                  />
+
                   {/* Urgency number */}
                   <span style={{
                     fontFamily: "'Orbitron', sans-serif",
@@ -370,15 +386,22 @@ export function SituationsList({ brandId, kbGenPath }: SituationsListProps) {
                   const layers = s.layers || []
                   return (
                     <div style={{ marginTop: 10, paddingLeft: 14 }}>
-                      <div style={{
-                        fontFamily: "'Rajdhani', sans-serif",
-                        fontSize: 12,
-                        color: theme.text.muted,
-                        lineHeight: 1.5,
-                        marginBottom: 8,
-                      }}>
-                        {answer}
-                      </div>
+                      {/* Full article renders when full_article_path is set */}
+                      {s.full_article_path ? (
+                        <div style={{ marginBottom: 10 }}>
+                          <FullArticle articlePath={s.full_article_path} />
+                        </div>
+                      ) : (
+                        <div style={{
+                          fontFamily: "'Rajdhani', sans-serif",
+                          fontSize: 12,
+                          color: theme.text.muted,
+                          lineHeight: 1.5,
+                          marginBottom: 8,
+                        }}>
+                          {answer}
+                        </div>
+                      )}
 
                       {/* Generation-level detailed explanation */}
                       {isGen && s.level1_ru && (
