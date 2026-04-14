@@ -1,6 +1,22 @@
-# SESSION HANDOFF — Session 14 ROUND 4 COMPLETE
+# SESSION HANDOFF — Session 14 ROUND 5 COMPLETE
 
-## Статус: KB **58 брендов / 305 поколений / 3020 ситуаций / 1799 DTC кодов / dtc.json per gen + quality report**. GLM 5.1 MCP активен.
+## Статус: KB **62 бренда / 309 поколений / 3060 ситуаций / 1820 DTC кодов / dtc.json per gen + quality report**. GLM 5.1 MCP активен.
+
+### Round 5 (финал Session 14):
+
+**Коммит `527dd21`** — +4 китайских EV бренда + Round 4 verifier fixes:
+- HiPhi X (2021+, Hyper SOA, NOA 6 лидаров, NT Doors)
+- Leap Motor C11 (2021+, LEAP 3.0 CTC LFP, BEV + EREV)
+- Jidu Robocar 01 (2023+, SEA-E, Apollo AD Baidu, CATL NCM)
+- IM Motors L7 (2022+, IM Hi4 SAIC+Alibaba, semi-solid, Rear Axle Steering)
+
+Verifier Round 4 (8 исправлений):
+- Nio ET7: CCS2/GB/T split, 300→255 кВт, semi-solid qualifier
+- Voyah Free: Dongfeng ESSA (не Siemens), DK15TDF (не DFMC15TDR)
+- XPENG P7: iBooster не имеет вакуумного насоса; SiC→IGBT (2020)
+- Audi A8 D5: ZF 8HP65 для 3.0 (не 8HP75)
+- Mercedes SL R232: ISG 48V = 22 л.с. (не 204)
+- Toyota Alphard AH40: Li-ion (не NiMH)
 
 ### Round 4 (финальный прирост Session 14):
 
