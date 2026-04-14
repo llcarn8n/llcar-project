@@ -1,0 +1,175 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 24,
+  "codes": {
+    "P2002": {
+      "count": 2,
+      "situations": [
+        "vw_touareg_cr_008",
+        "vw_touareg_cr_010"
+      ],
+      "category": "engine"
+    },
+    "C1A00": {
+      "count": 1,
+      "situations": [
+        "vw_touareg_cr_001"
+      ],
+      "category": "chassis"
+    },
+    "C1117": {
+      "count": 1,
+      "situations": [
+        "vw_touareg_cr_001"
+      ],
+      "category": "chassis"
+    },
+    "P0730": {
+      "count": 1,
+      "situations": [
+        "vw_touareg_cr_002"
+      ],
+      "category": "transmission"
+    },
+    "P0750": {
+      "count": 1,
+      "situations": [
+        "vw_touareg_cr_002"
+      ],
+      "category": "transmission"
+    },
+    "P0868": {
+      "count": 1,
+      "situations": [
+        "vw_touareg_cr_002"
+      ],
+      "category": "engine"
+    },
+    "P2200": {
+      "count": 1,
+      "situations": [
+        "vw_touareg_cr_003"
+      ],
+      "category": "engine"
+    },
+    "P204F": {
+      "count": 1,
+      "situations": [
+        "vw_touareg_cr_003"
+      ],
+      "category": "engine"
+    },
+    "P042E": {
+      "count": 1,
+      "situations": [
+        "vw_touareg_cr_003"
+      ],
+      "category": "engine"
+    },
+    "P0401": {
+      "count": 1,
+      "situations": [
+        "vw_touareg_cr_004"
+      ],
+      "category": "engine"
+    },
+    "P0113": {
+      "count": 1,
+      "situations": [
+        "vw_touareg_cr_004"
+      ],
+      "category": "engine"
+    },
+    "P048E": {
+      "count": 1,
+      "situations": [
+        "vw_touareg_cr_004"
+      ],
+      "category": "engine"
+    },
+    "P0016": {
+      "count": 1,
+      "situations": [
+        "vw_touareg_cr_005"
+      ],
+      "category": "engine"
+    },
+    "P0011": {
+      "count": 1,
+      "situations": [
+        "vw_touareg_cr_005"
+      ],
+      "category": "engine"
+    },
+    "P1340": {
+      "count": 1,
+      "situations": [
+        "vw_touareg_cr_005"
+      ],
+      "category": "engine"
+    },
+    "B1162": {
+      "count": 1,
+      "situations": [
+        "vw_touareg_cr_006"
+      ],
+      "category": "body"
+    },
+    "U0140": {
+      "count": 1,
+      "situations": [
+        "vw_touareg_cr_006"
+      ],
+      "category": "network"
+    },
+    "P179F": {
+      "count": 1,
+      "situations": [
+        "vw_touareg_cr_007"
+      ],
+      "category": "transmission"
+    },
+    "P1735": {
+      "count": 1,
+      "situations": [
+        "vw_touareg_cr_007"
+      ],
+      "category": "transmission"
+    },
+    "P2015": {
+      "count": 1,
+      "situations": [
+        "vw_touareg_cr_008"
+      ],
+      "category": "engine"
+    },
+    "C0035": {
+      "count": 1,
+      "situations": [
+        "vw_touareg_cr_009"
+      ],
+      "category": "chassis"
+    },
+    "C0040": {
+      "count": 1,
+      "situations": [
+        "vw_touareg_cr_009"
+      ],
+      "category": "chassis"
+    },
+    "C1012": {
+      "count": 1,
+      "situations": [
+        "vw_touareg_cr_009"
+      ],
+      "category": "chassis"
+    },
+    "P2463": {
+      "count": 1,
+      "situations": [
+        "vw_touareg_cr_010"
+      ],
+      "category": "engine"
+    }
+  }
+}

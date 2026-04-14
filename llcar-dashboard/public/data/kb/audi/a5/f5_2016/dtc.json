@@ -1,0 +1,62 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 8,
+  "codes": {
+    "P0300": {
+      "count": 1,
+      "situations": [
+        "audi_a5_f5_001"
+      ],
+      "category": "engine"
+    },
+    "P0171": {
+      "count": 1,
+      "situations": [
+        "audi_a5_f5_001"
+      ],
+      "category": "engine"
+    },
+    "U0100": {
+      "count": 1,
+      "situations": [
+        "audi_a5_f5_005"
+      ],
+      "category": "network"
+    },
+    "U0155": {
+      "count": 1,
+      "situations": [
+        "audi_a5_f5_005"
+      ],
+      "category": "network"
+    },
+    "U0001": {
+      "count": 1,
+      "situations": [
+        "audi_a5_f5_007"
+      ],
+      "category": "network"
+    },
+    "B200E01": {
+      "count": 1,
+      "situations": [
+        "audi_a5_f5_007"
+      ],
+      "category": "body"
+    },
+    "B1422": {
+      "count": 1,
+      "situations": [
+        "audi_a5_f5_009"
+      ],
+      "category": "body"
+    },
+    "B1424": {
+      "count": 1,
+      "situations": [
+        "audi_a5_f5_009"
+      ],
+      "category": "body"
+    }
+  }
+}

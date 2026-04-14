@@ -1,0 +1,55 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 7,
+  "codes": {
+    "P0171": {
+      "count": 1,
+      "situations": [
+        "jac_js4_js4_gen1_2019_001"
+      ],
+      "category": "engine"
+    },
+    "P0700": {
+      "count": 1,
+      "situations": [
+        "jac_js4_js4_gen1_2019_002"
+      ],
+      "category": "transmission"
+    },
+    "U0164": {
+      "count": 1,
+      "situations": [
+        "jac_js4_js4_gen1_2019_003"
+      ],
+      "category": "network"
+    },
+    "P0016": {
+      "count": 1,
+      "situations": [
+        "jac_js4_js4_gen1_2019_004"
+      ],
+      "category": "engine"
+    },
+    "P0017": {
+      "count": 1,
+      "situations": [
+        "jac_js4_js4_gen1_2019_004"
+      ],
+      "category": "engine"
+    },
+    "B1400": {
+      "count": 1,
+      "situations": [
+        "jac_js4_js4_gen1_2019_008"
+      ],
+      "category": "body"
+    },
+    "P0420": {
+      "count": 1,
+      "situations": [
+        "jac_js4_js4_gen1_2019_010"
+      ],
+      "category": "engine"
+    }
+  }
+}

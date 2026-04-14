@@ -1,0 +1,154 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 21,
+  "codes": {
+    "U0184": {
+      "count": 2,
+      "situations": [
+        "tesla_ms_001",
+        "tesla_ms_007"
+      ],
+      "category": "network"
+    },
+    "U3003": {
+      "count": 1,
+      "situations": [
+        "tesla_ms_001"
+      ],
+      "category": "network"
+    },
+    "P182A": {
+      "count": 1,
+      "situations": [
+        "tesla_ms_002"
+      ],
+      "category": "engine"
+    },
+    "P0731": {
+      "count": 1,
+      "situations": [
+        "tesla_ms_002"
+      ],
+      "category": "transmission"
+    },
+    "B1201": {
+      "count": 1,
+      "situations": [
+        "tesla_ms_003"
+      ],
+      "category": "body"
+    },
+    "B1205": {
+      "count": 1,
+      "situations": [
+        "tesla_ms_003"
+      ],
+      "category": "body"
+    },
+    "C1501": {
+      "count": 1,
+      "situations": [
+        "tesla_ms_004"
+      ],
+      "category": "chassis"
+    },
+    "C1521": {
+      "count": 1,
+      "situations": [
+        "tesla_ms_004"
+      ],
+      "category": "chassis"
+    },
+    "C1503": {
+      "count": 1,
+      "situations": [
+        "tesla_ms_004"
+      ],
+      "category": "chassis"
+    },
+    "P0A78": {
+      "count": 1,
+      "situations": [
+        "tesla_ms_005"
+      ],
+      "category": "hv_electric"
+    },
+    "P0AA6": {
+      "count": 1,
+      "situations": [
+        "tesla_ms_005"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A3F": {
+      "count": 1,
+      "situations": [
+        "tesla_ms_005"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A80": {
+      "count": 1,
+      "situations": [
+        "tesla_ms_006"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A7F": {
+      "count": 1,
+      "situations": [
+        "tesla_ms_006"
+      ],
+      "category": "hv_electric"
+    },
+    "P0CC1": {
+      "count": 1,
+      "situations": [
+        "tesla_ms_007"
+      ],
+      "category": "hv_electric"
+    },
+    "P0CC0": {
+      "count": 1,
+      "situations": [
+        "tesla_ms_007"
+      ],
+      "category": "hv_electric"
+    },
+    "P0562": {
+      "count": 1,
+      "situations": [
+        "tesla_ms_009"
+      ],
+      "category": "engine"
+    },
+    "U0100": {
+      "count": 1,
+      "situations": [
+        "tesla_ms_009"
+      ],
+      "category": "network"
+    },
+    "C0040": {
+      "count": 1,
+      "situations": [
+        "tesla_ms_010"
+      ],
+      "category": "chassis"
+    },
+    "C0035": {
+      "count": 1,
+      "situations": [
+        "tesla_ms_010"
+      ],
+      "category": "chassis"
+    },
+    "C1500": {
+      "count": 1,
+      "situations": [
+        "tesla_ms_010"
+      ],
+      "category": "chassis"
+    }
+  }
+}

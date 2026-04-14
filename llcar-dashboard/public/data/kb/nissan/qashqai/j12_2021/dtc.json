@@ -1,0 +1,125 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 17,
+  "codes": {
+    "P0016": {
+      "count": 1,
+      "situations": [
+        "nissan_qashqai_j12_hr13ddt_timing_chain_rattle"
+      ],
+      "category": "engine"
+    },
+    "P0017": {
+      "count": 1,
+      "situations": [
+        "nissan_qashqai_j12_hr13ddt_timing_chain_rattle"
+      ],
+      "category": "engine"
+    },
+    "P0011": {
+      "count": 1,
+      "situations": [
+        "nissan_qashqai_j12_hr13ddt_timing_chain_rattle"
+      ],
+      "category": "engine"
+    },
+    "P0021": {
+      "count": 1,
+      "situations": [
+        "nissan_qashqai_j12_hr13ddt_timing_chain_rattle"
+      ],
+      "category": "engine"
+    },
+    "P0700": {
+      "count": 1,
+      "situations": [
+        "nissan_qashqai_j12_cvt_jf017e_judder"
+      ],
+      "category": "transmission"
+    },
+    "P0868": {
+      "count": 1,
+      "situations": [
+        "nissan_qashqai_j12_cvt_jf017e_judder"
+      ],
+      "category": "engine"
+    },
+    "P0776": {
+      "count": 1,
+      "situations": [
+        "nissan_qashqai_j12_cvt_jf017e_judder"
+      ],
+      "category": "transmission"
+    },
+    "P0711": {
+      "count": 1,
+      "situations": [
+        "nissan_qashqai_j12_cvt_jf017e_judder"
+      ],
+      "category": "transmission"
+    },
+    "P0A80": {
+      "count": 1,
+      "situations": [
+        "nissan_qashqai_j12_epower_hybrid_battery"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A7F": {
+      "count": 1,
+      "situations": [
+        "nissan_qashqai_j12_epower_hybrid_battery"
+      ],
+      "category": "hv_electric"
+    },
+    "P3000": {
+      "count": 1,
+      "situations": [
+        "nissan_qashqai_j12_epower_hybrid_battery"
+      ],
+      "category": "engine"
+    },
+    "C1B00": {
+      "count": 1,
+      "situations": [
+        "nissan_qashqai_j12_propark_sensor_failure"
+      ],
+      "category": "chassis"
+    },
+    "C1B01": {
+      "count": 1,
+      "situations": [
+        "nissan_qashqai_j12_propark_sensor_failure"
+      ],
+      "category": "chassis"
+    },
+    "C1B04": {
+      "count": 1,
+      "situations": [
+        "nissan_qashqai_j12_propark_sensor_failure"
+      ],
+      "category": "chassis"
+    },
+    "C1B05": {
+      "count": 1,
+      "situations": [
+        "nissan_qashqai_j12_propark_sensor_failure"
+      ],
+      "category": "chassis"
+    },
+    "B1479": {
+      "count": 1,
+      "situations": [
+        "nissan_qashqai_j12_air_conditioning_efficiency"
+      ],
+      "category": "body"
+    },
+    "B1421": {
+      "count": 1,
+      "situations": [
+        "nissan_qashqai_j12_air_conditioning_efficiency"
+      ],
+      "category": "body"
+    }
+  }
+}

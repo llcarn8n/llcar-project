@@ -1,0 +1,155 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 21,
+  "codes": {
+    "P0300": {
+      "count": 2,
+      "situations": [
+        "kia_sportage_sl_g4kd_theta2_oil_consumption",
+        "kia_sportage_sl_gamma_gdi_intake_carbon"
+      ],
+      "category": "engine"
+    },
+    "P0171": {
+      "count": 2,
+      "situations": [
+        "kia_sportage_sl_gamma_gdi_intake_carbon",
+        "kia_sportage_sl_map_sensor_fault"
+      ],
+      "category": "engine"
+    },
+    "P0301": {
+      "count": 1,
+      "situations": [
+        "kia_sportage_sl_g4kd_theta2_oil_consumption"
+      ],
+      "category": "engine"
+    },
+    "P0302": {
+      "count": 1,
+      "situations": [
+        "kia_sportage_sl_g4kd_theta2_oil_consumption"
+      ],
+      "category": "engine"
+    },
+    "P0303": {
+      "count": 1,
+      "situations": [
+        "kia_sportage_sl_g4kd_theta2_oil_consumption"
+      ],
+      "category": "engine"
+    },
+    "P0304": {
+      "count": 1,
+      "situations": [
+        "kia_sportage_sl_g4kd_theta2_oil_consumption"
+      ],
+      "category": "engine"
+    },
+    "P2002": {
+      "count": 1,
+      "situations": [
+        "kia_sportage_sl_d4ha_dpf_clogging"
+      ],
+      "category": "engine"
+    },
+    "P2459": {
+      "count": 1,
+      "situations": [
+        "kia_sportage_sl_d4ha_dpf_clogging"
+      ],
+      "category": "engine"
+    },
+    "P2463": {
+      "count": 1,
+      "situations": [
+        "kia_sportage_sl_d4ha_dpf_clogging"
+      ],
+      "category": "engine"
+    },
+    "P0481": {
+      "count": 1,
+      "situations": [
+        "kia_sportage_sl_d4ha_dpf_clogging"
+      ],
+      "category": "engine"
+    },
+    "C1200": {
+      "count": 1,
+      "situations": [
+        "kia_sportage_sl_4wd_coupling_vibration"
+      ],
+      "category": "chassis"
+    },
+    "C1201": {
+      "count": 1,
+      "situations": [
+        "kia_sportage_sl_4wd_coupling_vibration"
+      ],
+      "category": "chassis"
+    },
+    "C1203": {
+      "count": 1,
+      "situations": [
+        "kia_sportage_sl_4wd_coupling_vibration"
+      ],
+      "category": "chassis"
+    },
+    "P0741": {
+      "count": 1,
+      "situations": [
+        "kia_sportage_sl_6at_shift_quality"
+      ],
+      "category": "transmission"
+    },
+    "P0746": {
+      "count": 1,
+      "situations": [
+        "kia_sportage_sl_6at_shift_quality"
+      ],
+      "category": "transmission"
+    },
+    "P0776": {
+      "count": 1,
+      "situations": [
+        "kia_sportage_sl_6at_shift_quality"
+      ],
+      "category": "transmission"
+    },
+    "P1776": {
+      "count": 1,
+      "situations": [
+        "kia_sportage_sl_6at_shift_quality"
+      ],
+      "category": "transmission"
+    },
+    "P0011": {
+      "count": 1,
+      "situations": [
+        "kia_sportage_sl_gamma_gdi_intake_carbon"
+      ],
+      "category": "engine"
+    },
+    "P0106": {
+      "count": 1,
+      "situations": [
+        "kia_sportage_sl_map_sensor_fault"
+      ],
+      "category": "engine"
+    },
+    "P0107": {
+      "count": 1,
+      "situations": [
+        "kia_sportage_sl_map_sensor_fault"
+      ],
+      "category": "engine"
+    },
+    "P0108": {
+      "count": 1,
+      "situations": [
+        "kia_sportage_sl_map_sensor_fault"
+      ],
+      "category": "engine"
+    }
+  }
+}

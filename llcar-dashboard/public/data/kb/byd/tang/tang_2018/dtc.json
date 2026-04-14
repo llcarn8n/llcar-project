@@ -1,0 +1,84 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 11,
+  "codes": {
+    "P0A80": {
+      "count": 2,
+      "situations": [
+        "byd_tang_002",
+        "byd_tang_006"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A78": {
+      "count": 1,
+      "situations": [
+        "byd_tang_001"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A7A": {
+      "count": 1,
+      "situations": [
+        "byd_tang_001"
+      ],
+      "category": "hv_electric"
+    },
+    "P182A": {
+      "count": 1,
+      "situations": [
+        "byd_tang_001"
+      ],
+      "category": "engine"
+    },
+    "C1209": {
+      "count": 1,
+      "situations": [
+        "byd_tang_004"
+      ],
+      "category": "chassis"
+    },
+    "C1621": {
+      "count": 1,
+      "situations": [
+        "byd_tang_004"
+      ],
+      "category": "chassis"
+    },
+    "P0A7F": {
+      "count": 1,
+      "situations": [
+        "byd_tang_006"
+      ],
+      "category": "hv_electric"
+    },
+    "P0AFA": {
+      "count": 1,
+      "situations": [
+        "byd_tang_006"
+      ],
+      "category": "hv_electric"
+    },
+    "U0184": {
+      "count": 1,
+      "situations": [
+        "byd_tang_007"
+      ],
+      "category": "network"
+    },
+    "P0731": {
+      "count": 1,
+      "situations": [
+        "byd_tang_008"
+      ],
+      "category": "transmission"
+    },
+    "U0415": {
+      "count": 1,
+      "situations": [
+        "byd_tang_009"
+      ],
+      "category": "network"
+    }
+  }
+}

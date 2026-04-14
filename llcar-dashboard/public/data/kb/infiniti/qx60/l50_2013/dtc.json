@@ -1,0 +1,125 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 17,
+  "codes": {
+    "P17F0": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx60_l50_001"
+      ],
+      "category": "transmission"
+    },
+    "P0715": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx60_l50_001"
+      ],
+      "category": "transmission"
+    },
+    "P0840": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx60_l50_001"
+      ],
+      "category": "engine"
+    },
+    "P0011": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx60_l50_002"
+      ],
+      "category": "engine"
+    },
+    "P0021": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx60_l50_002"
+      ],
+      "category": "engine"
+    },
+    "P0340": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx60_l50_002"
+      ],
+      "category": "engine"
+    },
+    "C0024": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx60_l50_003"
+      ],
+      "category": "chassis"
+    },
+    "C0025": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx60_l50_003"
+      ],
+      "category": "chassis"
+    },
+    "B2210": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx60_l50_005"
+      ],
+      "category": "body"
+    },
+    "P0136": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx60_l50_007"
+      ],
+      "category": "engine"
+    },
+    "P0141": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx60_l50_007"
+      ],
+      "category": "engine"
+    },
+    "P0156": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx60_l50_007"
+      ],
+      "category": "engine"
+    },
+    "C1130": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx60_l50_009"
+      ],
+      "category": "chassis"
+    },
+    "C1142": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx60_l50_009"
+      ],
+      "category": "chassis"
+    },
+    "P1741": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx60_l50_009"
+      ],
+      "category": "transmission"
+    },
+    "P0217": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx60_l50_010"
+      ],
+      "category": "engine"
+    },
+    "P0128": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx60_l50_010"
+      ],
+      "category": "engine"
+    }
+  }
+}

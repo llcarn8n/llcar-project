@@ -1,0 +1,118 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 16,
+  "codes": {
+    "C0073": {
+      "count": 1,
+      "situations": [
+        "infiniti_q50_v37_001"
+      ],
+      "category": "chassis"
+    },
+    "C0074": {
+      "count": 1,
+      "situations": [
+        "infiniti_q50_v37_001"
+      ],
+      "category": "chassis"
+    },
+    "U1000": {
+      "count": 1,
+      "situations": [
+        "infiniti_q50_v37_001"
+      ],
+      "category": "network"
+    },
+    "P0011": {
+      "count": 1,
+      "situations": [
+        "infiniti_q50_v37_002"
+      ],
+      "category": "engine"
+    },
+    "P0021": {
+      "count": 1,
+      "situations": [
+        "infiniti_q50_v37_002"
+      ],
+      "category": "engine"
+    },
+    "P1148": {
+      "count": 1,
+      "situations": [
+        "infiniti_q50_v37_002"
+      ],
+      "category": "engine"
+    },
+    "P0087": {
+      "count": 1,
+      "situations": [
+        "infiniti_q50_v37_003"
+      ],
+      "category": "engine"
+    },
+    "P0191": {
+      "count": 1,
+      "situations": [
+        "infiniti_q50_v37_003"
+      ],
+      "category": "engine"
+    },
+    "P0090": {
+      "count": 1,
+      "situations": [
+        "infiniti_q50_v37_003"
+      ],
+      "category": "engine"
+    },
+    "C0024": {
+      "count": 1,
+      "situations": [
+        "infiniti_q50_v37_004"
+      ],
+      "category": "chassis"
+    },
+    "U0164": {
+      "count": 1,
+      "situations": [
+        "infiniti_q50_v37_006"
+      ],
+      "category": "network"
+    },
+    "C1B00": {
+      "count": 1,
+      "situations": [
+        "infiniti_q50_v37_006"
+      ],
+      "category": "chassis"
+    },
+    "C0034": {
+      "count": 1,
+      "situations": [
+        "infiniti_q50_v37_008"
+      ],
+      "category": "chassis"
+    },
+    "C0044": {
+      "count": 1,
+      "situations": [
+        "infiniti_q50_v37_008"
+      ],
+      "category": "chassis"
+    },
+    "P0218": {
+      "count": 1,
+      "situations": [
+        "infiniti_q50_v37_010"
+      ],
+      "category": "engine"
+    },
+    "P0711": {
+      "count": 1,
+      "situations": [
+        "infiniti_q50_v37_010"
+      ],
+      "category": "transmission"
+    }
+  }
+}

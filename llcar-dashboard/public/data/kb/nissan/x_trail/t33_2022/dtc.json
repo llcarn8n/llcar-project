@@ -1,0 +1,133 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 18,
+  "codes": {
+    "P0A94": {
+      "count": 2,
+      "situations": [
+        "nissan_x_trail_t33_epower_engine_noise",
+        "nissan_x_trail_t33_front_electric_motor_noise"
+      ],
+      "category": "hv_electric"
+    },
+    "P3000": {
+      "count": 1,
+      "situations": [
+        "nissan_x_trail_t33_epower_engine_noise"
+      ],
+      "category": "engine"
+    },
+    "C1200": {
+      "count": 1,
+      "situations": [
+        "nissan_x_trail_t33_e4orce_awd_calibration"
+      ],
+      "category": "chassis"
+    },
+    "C1201": {
+      "count": 1,
+      "situations": [
+        "nissan_x_trail_t33_e4orce_awd_calibration"
+      ],
+      "category": "chassis"
+    },
+    "C1600": {
+      "count": 1,
+      "situations": [
+        "nissan_x_trail_t33_e4orce_awd_calibration"
+      ],
+      "category": "chassis"
+    },
+    "P0A9C": {
+      "count": 1,
+      "situations": [
+        "nissan_x_trail_t33_hv_battery_thermal"
+      ],
+      "category": "hv_electric"
+    },
+    "P0AC4": {
+      "count": 1,
+      "situations": [
+        "nissan_x_trail_t33_hv_battery_thermal"
+      ],
+      "category": "hv_electric"
+    },
+    "C0057": {
+      "count": 1,
+      "situations": [
+        "nissan_x_trail_t33_brake_regen_pedal_feel"
+      ],
+      "category": "chassis"
+    },
+    "C0060": {
+      "count": 1,
+      "situations": [
+        "nissan_x_trail_t33_brake_regen_pedal_feel"
+      ],
+      "category": "chassis"
+    },
+    "B1017": {
+      "count": 1,
+      "situations": [
+        "nissan_x_trail_t33_climate_actuator_failure"
+      ],
+      "category": "body"
+    },
+    "B1018": {
+      "count": 1,
+      "situations": [
+        "nissan_x_trail_t33_climate_actuator_failure"
+      ],
+      "category": "body"
+    },
+    "B1019": {
+      "count": 1,
+      "situations": [
+        "nissan_x_trail_t33_climate_actuator_failure"
+      ],
+      "category": "body"
+    },
+    "C1A11": {
+      "count": 1,
+      "situations": [
+        "nissan_x_trail_t33_propark_adas_calibration"
+      ],
+      "category": "chassis"
+    },
+    "C1A10": {
+      "count": 1,
+      "situations": [
+        "nissan_x_trail_t33_propark_adas_calibration"
+      ],
+      "category": "chassis"
+    },
+    "U023A": {
+      "count": 1,
+      "situations": [
+        "nissan_x_trail_t33_propark_adas_calibration"
+      ],
+      "category": "network"
+    },
+    "P0A36": {
+      "count": 1,
+      "situations": [
+        "nissan_x_trail_t33_front_electric_motor_noise"
+      ],
+      "category": "hv_electric"
+    },
+    "B2750": {
+      "count": 1,
+      "situations": [
+        "nissan_x_trail_t33_rear_wiper_motor_failure"
+      ],
+      "category": "body"
+    },
+    "B2751": {
+      "count": 1,
+      "situations": [
+        "nissan_x_trail_t33_rear_wiper_motor_failure"
+      ],
+      "category": "body"
+    }
+  }
+}

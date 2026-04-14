@@ -1,0 +1,55 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 7,
+  "codes": {
+    "P0300": {
+      "count": 1,
+      "situations": [
+        "skoda_kodiaq_ns_001"
+      ],
+      "category": "engine"
+    },
+    "P0171": {
+      "count": 1,
+      "situations": [
+        "skoda_kodiaq_ns_001"
+      ],
+      "category": "engine"
+    },
+    "4B8501": {
+      "count": 1,
+      "situations": [
+        "skoda_kodiaq_ns_002"
+      ],
+      "category": "unknown"
+    },
+    "4B8602": {
+      "count": 1,
+      "situations": [
+        "skoda_kodiaq_ns_002"
+      ],
+      "category": "unknown"
+    },
+    "P17BF": {
+      "count": 1,
+      "situations": [
+        "skoda_kodiaq_ns_003"
+      ],
+      "category": "transmission"
+    },
+    "P18AE": {
+      "count": 1,
+      "situations": [
+        "skoda_kodiaq_ns_003"
+      ],
+      "category": "engine"
+    },
+    "C0041": {
+      "count": 1,
+      "situations": [
+        "skoda_kodiaq_ns_007"
+      ],
+      "category": "chassis"
+    }
+  }
+}

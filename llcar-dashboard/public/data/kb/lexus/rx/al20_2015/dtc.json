@@ -1,0 +1,224 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 31,
+  "codes": {
+    "C1256": {
+      "count": 2,
+      "situations": [
+        "lexus_rx_al20_006",
+        "lexus_rx_al20_007"
+      ],
+      "category": "chassis"
+    },
+    "P0300": {
+      "count": 1,
+      "situations": [
+        "lexus_rx_al20_001"
+      ],
+      "category": "engine"
+    },
+    "P0301": {
+      "count": 1,
+      "situations": [
+        "lexus_rx_al20_001"
+      ],
+      "category": "engine"
+    },
+    "P0302": {
+      "count": 1,
+      "situations": [
+        "lexus_rx_al20_001"
+      ],
+      "category": "engine"
+    },
+    "P0303": {
+      "count": 1,
+      "situations": [
+        "lexus_rx_al20_001"
+      ],
+      "category": "engine"
+    },
+    "P0304": {
+      "count": 1,
+      "situations": [
+        "lexus_rx_al20_001"
+      ],
+      "category": "engine"
+    },
+    "P0126": {
+      "count": 1,
+      "situations": [
+        "lexus_rx_al20_002"
+      ],
+      "category": "engine"
+    },
+    "P0128": {
+      "count": 1,
+      "situations": [
+        "lexus_rx_al20_002"
+      ],
+      "category": "engine"
+    },
+    "P011B": {
+      "count": 1,
+      "situations": [
+        "lexus_rx_al20_002"
+      ],
+      "category": "engine"
+    },
+    "P0A93": {
+      "count": 1,
+      "situations": [
+        "lexus_rx_al20_003"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A94": {
+      "count": 1,
+      "situations": [
+        "lexus_rx_al20_003"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A80": {
+      "count": 1,
+      "situations": [
+        "lexus_rx_al20_003"
+      ],
+      "category": "hv_electric"
+    },
+    "P0751": {
+      "count": 1,
+      "situations": [
+        "lexus_rx_al20_004"
+      ],
+      "category": "transmission"
+    },
+    "P0771": {
+      "count": 1,
+      "situations": [
+        "lexus_rx_al20_004"
+      ],
+      "category": "transmission"
+    },
+    "P0746": {
+      "count": 1,
+      "situations": [
+        "lexus_rx_al20_004"
+      ],
+      "category": "transmission"
+    },
+    "P2714": {
+      "count": 1,
+      "situations": [
+        "lexus_rx_al20_004"
+      ],
+      "category": "engine"
+    },
+    "P0A90": {
+      "count": 1,
+      "situations": [
+        "lexus_rx_al20_005"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A7A": {
+      "count": 1,
+      "situations": [
+        "lexus_rx_al20_005"
+      ],
+      "category": "hv_electric"
+    },
+    "C123E": {
+      "count": 1,
+      "situations": [
+        "lexus_rx_al20_006"
+      ],
+      "category": "chassis"
+    },
+    "C1299": {
+      "count": 1,
+      "situations": [
+        "lexus_rx_al20_006"
+      ],
+      "category": "chassis"
+    },
+    "C1391": {
+      "count": 1,
+      "situations": [
+        "lexus_rx_al20_007"
+      ],
+      "category": "chassis"
+    },
+    "C1253": {
+      "count": 1,
+      "situations": [
+        "lexus_rx_al20_007"
+      ],
+      "category": "chassis"
+    },
+    "C1345": {
+      "count": 1,
+      "situations": [
+        "lexus_rx_al20_007"
+      ],
+      "category": "chassis"
+    },
+    "C1712": {
+      "count": 1,
+      "situations": [
+        "lexus_rx_al20_008"
+      ],
+      "category": "chassis"
+    },
+    "C1725": {
+      "count": 1,
+      "situations": [
+        "lexus_rx_al20_008"
+      ],
+      "category": "chassis"
+    },
+    "C2318": {
+      "count": 1,
+      "situations": [
+        "lexus_rx_al20_008"
+      ],
+      "category": "chassis"
+    },
+    "C1AED": {
+      "count": 1,
+      "situations": [
+        "lexus_rx_al20_009"
+      ],
+      "category": "chassis"
+    },
+    "C1AEC": {
+      "count": 1,
+      "situations": [
+        "lexus_rx_al20_009"
+      ],
+      "category": "chassis"
+    },
+    "U0235": {
+      "count": 1,
+      "situations": [
+        "lexus_rx_al20_009"
+      ],
+      "category": "network"
+    },
+    "B1815": {
+      "count": 1,
+      "situations": [
+        "lexus_rx_al20_010"
+      ],
+      "category": "body"
+    },
+    "B1820": {
+      "count": 1,
+      "situations": [
+        "lexus_rx_al20_010"
+      ],
+      "category": "body"
+    }
+  }
+}

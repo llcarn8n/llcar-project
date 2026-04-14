@@ -1,0 +1,127 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 17,
+  "codes": {
+    "C1200": {
+      "count": 2,
+      "situations": [
+        "genesis_g70_ik_electronic_limited_slip_diff",
+        "genesis_g70_ik_abs_ecu_water_intrusion"
+      ],
+      "category": "chassis"
+    },
+    "C1201": {
+      "count": 2,
+      "situations": [
+        "genesis_g70_ik_electronic_limited_slip_diff",
+        "genesis_g70_ik_abs_ecu_water_intrusion"
+      ],
+      "category": "chassis"
+    },
+    "P0300": {
+      "count": 1,
+      "situations": [
+        "genesis_g70_ik_g6dp_33tt_oil_consumption"
+      ],
+      "category": "engine"
+    },
+    "P0301": {
+      "count": 1,
+      "situations": [
+        "genesis_g70_ik_g6dp_33tt_oil_consumption"
+      ],
+      "category": "engine"
+    },
+    "P0302": {
+      "count": 1,
+      "situations": [
+        "genesis_g70_ik_g6dp_33tt_oil_consumption"
+      ],
+      "category": "engine"
+    },
+    "P0700": {
+      "count": 1,
+      "situations": [
+        "genesis_g70_ik_8at_rear_wheel_drive_shift"
+      ],
+      "category": "transmission"
+    },
+    "P0741": {
+      "count": 1,
+      "situations": [
+        "genesis_g70_ik_8at_rear_wheel_drive_shift"
+      ],
+      "category": "transmission"
+    },
+    "P0746": {
+      "count": 1,
+      "situations": [
+        "genesis_g70_ik_8at_rear_wheel_drive_shift"
+      ],
+      "category": "transmission"
+    },
+    "P0087": {
+      "count": 1,
+      "situations": [
+        "genesis_g70_ik_g4kh_20t_high_pressure_pump"
+      ],
+      "category": "engine"
+    },
+    "P0088": {
+      "count": 1,
+      "situations": [
+        "genesis_g70_ik_g4kh_20t_high_pressure_pump"
+      ],
+      "category": "engine"
+    },
+    "P0190": {
+      "count": 1,
+      "situations": [
+        "genesis_g70_ik_g4kh_20t_high_pressure_pump"
+      ],
+      "category": "engine"
+    },
+    "P0191": {
+      "count": 1,
+      "situations": [
+        "genesis_g70_ik_g4kh_20t_high_pressure_pump"
+      ],
+      "category": "engine"
+    },
+    "C1206": {
+      "count": 1,
+      "situations": [
+        "genesis_g70_ik_electronic_limited_slip_diff"
+      ],
+      "category": "chassis"
+    },
+    "U0100": {
+      "count": 1,
+      "situations": [
+        "genesis_g70_ik_infotainment_android_auto"
+      ],
+      "category": "network"
+    },
+    "U023A": {
+      "count": 1,
+      "situations": [
+        "genesis_g70_ik_infotainment_android_auto"
+      ],
+      "category": "network"
+    },
+    "C0031": {
+      "count": 1,
+      "situations": [
+        "genesis_g70_ik_abs_ecu_water_intrusion"
+      ],
+      "category": "chassis"
+    },
+    "C0034": {
+      "count": 1,
+      "situations": [
+        "genesis_g70_ik_abs_ecu_water_intrusion"
+      ],
+      "category": "chassis"
+    }
+  }
+}

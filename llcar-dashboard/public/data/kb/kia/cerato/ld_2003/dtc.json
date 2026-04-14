@@ -1,0 +1,139 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 19,
+  "codes": {
+    "P0016": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_ld_g4ed_timing_belt_break"
+      ],
+      "category": "engine"
+    },
+    "P0017": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_ld_g4ed_timing_belt_break"
+      ],
+      "category": "engine"
+    },
+    "P0340": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_ld_g4ed_timing_belt_break"
+      ],
+      "category": "engine"
+    },
+    "P0345": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_ld_g4ed_timing_belt_break"
+      ],
+      "category": "engine"
+    },
+    "P0741": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_ld_4at_jerk_slipping"
+      ],
+      "category": "transmission"
+    },
+    "P0746": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_ld_4at_jerk_slipping"
+      ],
+      "category": "transmission"
+    },
+    "P0751": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_ld_4at_jerk_slipping"
+      ],
+      "category": "transmission"
+    },
+    "P0756": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_ld_4at_jerk_slipping"
+      ],
+      "category": "transmission"
+    },
+    "P0505": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_ld_idle_air_valve_fault"
+      ],
+      "category": "engine"
+    },
+    "P0506": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_ld_idle_air_valve_fault"
+      ],
+      "category": "engine"
+    },
+    "P0507": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_ld_idle_air_valve_fault"
+      ],
+      "category": "engine"
+    },
+    "P0122": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_ld_idle_air_valve_fault"
+      ],
+      "category": "engine"
+    },
+    "B1479": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_ld_ac_condenser_leak"
+      ],
+      "category": "body"
+    },
+    "P0401": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_ld_egr_valve_clogging"
+      ],
+      "category": "engine"
+    },
+    "P0402": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_ld_egr_valve_clogging"
+      ],
+      "category": "engine"
+    },
+    "P0404": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_ld_egr_valve_clogging"
+      ],
+      "category": "engine"
+    },
+    "P0405": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_ld_egr_valve_clogging"
+      ],
+      "category": "engine"
+    },
+    "P0125": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_ld_thermostat_stuck"
+      ],
+      "category": "engine"
+    },
+    "P0128": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_ld_thermostat_stuck"
+      ],
+      "category": "engine"
+    }
+  }
+}

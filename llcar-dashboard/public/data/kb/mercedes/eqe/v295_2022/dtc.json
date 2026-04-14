@@ -1,0 +1,332 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 46,
+  "codes": {
+    "U0140": {
+      "count": 3,
+      "situations": [
+        "mercedes_eqe_001",
+        "mercedes_eqe_003",
+        "mercedes_eqe_008"
+      ],
+      "category": "network"
+    },
+    "P0AFA": {
+      "count": 2,
+      "situations": [
+        "mercedes_eqe_001",
+        "mercedes_eqe_004"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A3C": {
+      "count": 2,
+      "situations": [
+        "mercedes_eqe_004",
+        "mercedes_eqe_007"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A80": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_001"
+      ],
+      "category": "hv_electric"
+    },
+    "P0AA6": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_001"
+      ],
+      "category": "hv_electric"
+    },
+    "U0100": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_001"
+      ],
+      "category": "network"
+    },
+    "P0AC4": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_002"
+      ],
+      "category": "hv_electric"
+    },
+    "P0D26": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_002"
+      ],
+      "category": "hv_electric"
+    },
+    "P0D2D": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_002"
+      ],
+      "category": "hv_electric"
+    },
+    "P0BDE": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_002"
+      ],
+      "category": "hv_electric"
+    },
+    "U029F": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_002"
+      ],
+      "category": "network"
+    },
+    "B10A0": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_003"
+      ],
+      "category": "body"
+    },
+    "B10A1": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_003"
+      ],
+      "category": "body"
+    },
+    "U0151": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_003"
+      ],
+      "category": "network"
+    },
+    "P0562": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_003"
+      ],
+      "category": "engine"
+    },
+    "P0A8E": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_004"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A93": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_004"
+      ],
+      "category": "hv_electric"
+    },
+    "B1D0E": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_004"
+      ],
+      "category": "body"
+    },
+    "C1130": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_005"
+      ],
+      "category": "chassis"
+    },
+    "C1145": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_005"
+      ],
+      "category": "chassis"
+    },
+    "C1135": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_005"
+      ],
+      "category": "chassis"
+    },
+    "C1114": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_005"
+      ],
+      "category": "chassis"
+    },
+    "B2220": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_005"
+      ],
+      "category": "body"
+    },
+    "C0300": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_006"
+      ],
+      "category": "chassis"
+    },
+    "C0460": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_006"
+      ],
+      "category": "chassis"
+    },
+    "C0205": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_006"
+      ],
+      "category": "chassis"
+    },
+    "C0242": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_006"
+      ],
+      "category": "chassis"
+    },
+    "C0561": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_006"
+      ],
+      "category": "chassis"
+    },
+    "P0A3F": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_007"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A4B": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_007"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A94": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_007"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A7A": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_007"
+      ],
+      "category": "hv_electric"
+    },
+    "B2210": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_008"
+      ],
+      "category": "body"
+    },
+    "U0184": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_008"
+      ],
+      "category": "network"
+    },
+    "B2000": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_008"
+      ],
+      "category": "body"
+    },
+    "U029E": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_008"
+      ],
+      "category": "network"
+    },
+    "C1880": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_009"
+      ],
+      "category": "chassis"
+    },
+    "C1882": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_009"
+      ],
+      "category": "chassis"
+    },
+    "C1885": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_009"
+      ],
+      "category": "chassis"
+    },
+    "C1875": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_009"
+      ],
+      "category": "chassis"
+    },
+    "C1860": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_009"
+      ],
+      "category": "chassis"
+    },
+    "B2008": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_010"
+      ],
+      "category": "body"
+    },
+    "B2010": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_010"
+      ],
+      "category": "body"
+    },
+    "U0185": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_010"
+      ],
+      "category": "network"
+    },
+    "B2206": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_010"
+      ],
+      "category": "body"
+    },
+    "B2207": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqe_010"
+      ],
+      "category": "body"
+    }
+  }
+}

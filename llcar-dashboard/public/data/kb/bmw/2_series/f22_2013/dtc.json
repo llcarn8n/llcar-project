@@ -1,0 +1,139 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 19,
+  "codes": {
+    "P0300": {
+      "count": 1,
+      "situations": [
+        "bmw_2_f22_001"
+      ],
+      "category": "engine"
+    },
+    "P0301": {
+      "count": 1,
+      "situations": [
+        "bmw_2_f22_001"
+      ],
+      "category": "engine"
+    },
+    "P0302": {
+      "count": 1,
+      "situations": [
+        "bmw_2_f22_001"
+      ],
+      "category": "engine"
+    },
+    "P0016": {
+      "count": 1,
+      "situations": [
+        "bmw_2_f22_002"
+      ],
+      "category": "engine"
+    },
+    "P0017": {
+      "count": 1,
+      "situations": [
+        "bmw_2_f22_002"
+      ],
+      "category": "engine"
+    },
+    "2A82": {
+      "count": 1,
+      "situations": [
+        "bmw_2_f22_002"
+      ],
+      "category": "unknown"
+    },
+    "2A87": {
+      "count": 1,
+      "situations": [
+        "bmw_2_f22_002"
+      ],
+      "category": "unknown"
+    },
+    "P0700": {
+      "count": 1,
+      "situations": [
+        "bmw_2_f22_003"
+      ],
+      "category": "transmission"
+    },
+    "P0730": {
+      "count": 1,
+      "situations": [
+        "bmw_2_f22_003"
+      ],
+      "category": "transmission"
+    },
+    "4F5C": {
+      "count": 1,
+      "situations": [
+        "bmw_2_f22_003"
+      ],
+      "category": "unknown"
+    },
+    "480F3E": {
+      "count": 1,
+      "situations": [
+        "bmw_2_f22_004"
+      ],
+      "category": "unknown"
+    },
+    "480403": {
+      "count": 1,
+      "situations": [
+        "bmw_2_f22_004"
+      ],
+      "category": "unknown"
+    },
+    "5E2009": {
+      "count": 1,
+      "situations": [
+        "bmw_2_f22_004"
+      ],
+      "category": "unknown"
+    },
+    "2F84": {
+      "count": 1,
+      "situations": [
+        "bmw_2_f22_007"
+      ],
+      "category": "unknown"
+    },
+    "2F85": {
+      "count": 1,
+      "situations": [
+        "bmw_2_f22_007"
+      ],
+      "category": "unknown"
+    },
+    "A0A0": {
+      "count": 1,
+      "situations": [
+        "bmw_2_f22_007"
+      ],
+      "category": "unknown"
+    },
+    "A000F6": {
+      "count": 1,
+      "situations": [
+        "bmw_2_f22_010"
+      ],
+      "category": "unknown"
+    },
+    "A000F7": {
+      "count": 1,
+      "situations": [
+        "bmw_2_f22_010"
+      ],
+      "category": "unknown"
+    },
+    "93230A": {
+      "count": 1,
+      "situations": [
+        "bmw_2_f22_010"
+      ],
+      "category": "unknown"
+    }
+  }
+}

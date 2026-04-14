@@ -1,0 +1,62 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 8,
+  "codes": {
+    "P0700": {
+      "count": 1,
+      "situations": [
+        "renault_logan_l52_001"
+      ],
+      "category": "transmission"
+    },
+    "P0730": {
+      "count": 1,
+      "situations": [
+        "renault_logan_l52_001"
+      ],
+      "category": "transmission"
+    },
+    "P0751": {
+      "count": 1,
+      "situations": [
+        "renault_logan_l52_001"
+      ],
+      "category": "transmission"
+    },
+    "P0507": {
+      "count": 1,
+      "situations": [
+        "renault_logan_l52_003"
+      ],
+      "category": "engine"
+    },
+    "P0506": {
+      "count": 1,
+      "situations": [
+        "renault_logan_l52_003"
+      ],
+      "category": "engine"
+    },
+    "C0044": {
+      "count": 1,
+      "situations": [
+        "renault_logan_l52_009"
+      ],
+      "category": "chassis"
+    },
+    "C0046": {
+      "count": 1,
+      "situations": [
+        "renault_logan_l52_009"
+      ],
+      "category": "chassis"
+    },
+    "U0131": {
+      "count": 1,
+      "situations": [
+        "renault_logan_l52_009"
+      ],
+      "category": "network"
+    }
+  }
+}

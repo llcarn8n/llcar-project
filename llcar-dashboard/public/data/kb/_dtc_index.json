@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-04-14",
-  "total_codes": 1716,
-  "total_mappings": 6167,
+  "total_codes": 1767,
+  "total_mappings": 6391,
   "index": {
     "-": [
       {
@@ -2033,6 +2033,24 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "rivian_r1s_002",
+        "title": "Утечка пневмоподвески",
+        "brand": "rivian",
+        "model": "r1s",
+        "generation": "r1s_2022",
+        "urg": 3,
+        "cat": "chassis"
+      },
+      {
+        "sit_id": "rivian_r1t_002",
+        "title": "Утечка воздуха из пневмоподвески",
+        "brand": "rivian",
+        "model": "r1t",
+        "generation": "r1t_2021",
+        "urg": 4,
+        "cat": "chassis"
+      },
+      {
         "sit_id": "uaz_patriot_2005_002",
         "title": "Отказ электростеклоподъёмников и зависание блока BCM",
         "brand": "uaz",
@@ -2051,6 +2069,15 @@
         "generation": "mp_2017",
         "urg": 2,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "rivian_r1t_010",
+        "title": "Сбои Body Control Module",
+        "brand": "rivian",
+        "model": "r1t",
+        "generation": "r1t_2021",
+        "urg": 3,
+        "cat": "body"
       },
       {
         "sit_id": "uaz_patriot_2005_002",
@@ -2122,6 +2149,17 @@
         "generation": "f60_2017",
         "urg": 2,
         "cat": "electrical"
+      }
+    ],
+    "B1010": [
+      {
+        "sit_id": "rivian_r1t_010",
+        "title": "Сбои Body Control Module",
+        "brand": "rivian",
+        "model": "r1t",
+        "generation": "r1t_2021",
+        "urg": 3,
+        "cat": "body"
       }
     ],
     "B1012": [
@@ -2236,6 +2274,17 @@
         "model": "i5",
         "generation": "g60_2023",
         "urg": 3,
+        "cat": "electrical"
+      }
+    ],
+    "B1045": [
+      {
+        "sit_id": "rivian_r1s_009",
+        "title": "Зависание мультимедиа",
+        "brand": "rivian",
+        "model": "r1s",
+        "generation": "r1s_2022",
+        "urg": 2,
         "cat": "electrical"
       }
     ],
@@ -2451,6 +2500,15 @@
         "generation": "v295_2022",
         "urg": 5,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "rivian_r1s_006",
+        "title": "Неработающий датчик дверной ручки",
+        "brand": "rivian",
+        "model": "r1s",
+        "generation": "r1s_2022",
+        "urg": 3,
+        "cat": "body"
       }
     ],
     "B10A1": [
@@ -2462,6 +2520,15 @@
         "generation": "v295_2022",
         "urg": 5,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "rivian_r1s_006",
+        "title": "Неработающий датчик дверной ручки",
+        "brand": "rivian",
+        "model": "r1s",
+        "generation": "r1s_2022",
+        "urg": 3,
+        "cat": "body"
       }
     ],
     "B10A2": [
@@ -2514,6 +2581,17 @@
         "model": "001",
         "generation": "001_2021",
         "urg": 2,
+        "cat": "electrical"
+      }
+    ],
+    "B10AA": [
+      {
+        "sit_id": "aion_y_003",
+        "title": "Деградация 12V АКБ",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
+        "urg": 3,
         "cat": "electrical"
       }
     ],
@@ -2639,6 +2717,17 @@
         "cat": "cooling"
       }
     ],
+    "B10C2": [
+      {
+        "sit_id": "rivian_r1s_001",
+        "title": "Разряд 12В вспомогательной батареи",
+        "brand": "rivian",
+        "model": "r1s",
+        "generation": "r1s_2022",
+        "urg": 4,
+        "cat": "electrical"
+      }
+    ],
     "B10C400": [
       {
         "sit_id": "vw_tiguan_nf_006",
@@ -2679,6 +2768,28 @@
         "cat": "electrical"
       }
     ],
+    "B10D0": [
+      {
+        "sit_id": "rivian_r1t_009",
+        "title": "Зависания инфоразвлекательной системы",
+        "brand": "rivian",
+        "model": "r1t",
+        "generation": "r1t_2021",
+        "urg": 2,
+        "cat": "electrical"
+      }
+    ],
+    "B10D4": [
+      {
+        "sit_id": "rivian_r1s_003",
+        "title": "Неисправность зарядного порта",
+        "brand": "rivian",
+        "model": "r1s",
+        "generation": "r1s_2022",
+        "urg": 5,
+        "cat": "electrical"
+      }
+    ],
     "B10E2": [
       {
         "sit_id": "ford_mondeo_mk5_009",
@@ -2699,6 +2810,17 @@
         "generation": "l494_2013",
         "urg": 1,
         "cat": "body"
+      }
+    ],
+    "B10F0": [
+      {
+        "sit_id": "rivian_r1s_007",
+        "title": "Уход калибровки ADAS",
+        "brand": "rivian",
+        "model": "r1s",
+        "generation": "r1s_2022",
+        "urg": 3,
+        "cat": "electrical"
       }
     ],
     "B10F5": [
@@ -3429,6 +3551,15 @@
     ],
     "B1234": [
       {
+        "sit_id": "deepal_s07_006",
+        "title": "Быстрый разряд 12V АКБ",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "geely_atlas_006",
         "title": "Быстрый разряд АКБ и глюки мультимедийной системы",
         "brand": "geely",
@@ -3774,6 +3905,15 @@
         "generation": "w463_1990",
         "urg": 1,
         "cat": "body"
+      },
+      {
+        "sit_id": "rivian_r1t_003",
+        "title": "Отказ 12V АКБ",
+        "brand": "rivian",
+        "model": "r1t",
+        "generation": "r1t_2021",
+        "urg": 5,
+        "cat": "electrical"
       },
       {
         "sit_id": "toyota_camry_xv70_cabin_water_leak",
@@ -4501,6 +4641,17 @@
         "cat": "electrical"
       }
     ],
+    "B14A0": [
+      {
+        "sit_id": "rivian_r1t_004",
+        "title": "Перегрев зарядного порта DC",
+        "brand": "rivian",
+        "model": "r1t",
+        "generation": "r1t_2021",
+        "urg": 4,
+        "cat": "electrical"
+      }
+    ],
     "B14A5": [
       {
         "sit_id": "skoda_octavia_a8_02",
@@ -4657,6 +4808,15 @@
       }
     ],
     "B15A0": [
+      {
+        "sit_id": "rivian_r1s_004",
+        "title": "Сбой терморегуляции батареи",
+        "brand": "rivian",
+        "model": "r1s",
+        "generation": "r1s_2022",
+        "urg": 3,
+        "cat": "cooling"
+      },
       {
         "sit_id": "skoda_octavia_a8_03",
         "title": "Запотевание фар и сбои матричных модулей (Matrix LED)",
@@ -5372,6 +5532,39 @@
         "cat": "ac"
       }
     ],
+    "B1A45": [
+      {
+        "sit_id": "lucid_air_007",
+        "title": "Расслоение панорамной крыши",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 2,
+        "cat": "body"
+      }
+    ],
+    "B1A50": [
+      {
+        "sit_id": "lucid_air_007",
+        "title": "Расслоение панорамной крыши",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 2,
+        "cat": "body"
+      }
+    ],
+    "B1A54": [
+      {
+        "sit_id": "rivian_r1s_006",
+        "title": "Неработающий датчик дверной ручки",
+        "brand": "rivian",
+        "model": "r1s",
+        "generation": "r1s_2022",
+        "urg": 3,
+        "cat": "body"
+      }
+    ],
     "B1C01": [
       {
         "sit_id": "mazda_3_bp_003",
@@ -5380,6 +5573,59 @@
         "model": "3",
         "generation": "bp_2019",
         "urg": 2,
+        "cat": "electrical"
+      }
+    ],
+    "B1C23": [
+      {
+        "sit_id": "lucid_air_007",
+        "title": "Расслоение панорамной крыши",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 2,
+        "cat": "body"
+      }
+    ],
+    "B1C44": [
+      {
+        "sit_id": "lucid_air_005",
+        "title": "Утечка воздуха из пневмоподвески",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 3,
+        "cat": "chassis"
+      }
+    ],
+    "B1C61": [
+      {
+        "sit_id": "lucid_air_004",
+        "title": "Разряд 12В АКБ",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "lucid_air_009",
+        "title": "Зависание сенсорного экрана 34\"",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 2,
+        "cat": "electrical"
+      }
+    ],
+    "B1C62": [
+      {
+        "sit_id": "lucid_air_004",
+        "title": "Разряд 12В АКБ",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 4,
         "cat": "electrical"
       }
     ],
@@ -7503,6 +7749,15 @@
     ],
     "C0035": [
       {
+        "sit_id": "aion_y_008",
+        "title": "Неисправность вакуумного насоса тормозов",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
+        "urg": 5,
+        "cat": "brakes"
+      },
+      {
         "sit_id": "audi_e_tron_gt_007",
         "title": "Неисправность рекуперативного торможения и iBooster",
         "brand": "audi",
@@ -7526,6 +7781,15 @@
         "brand": "bmw",
         "model": "x5",
         "generation": "f15_2013",
+        "urg": 4,
+        "cat": "brakes"
+      },
+      {
+        "sit_id": "deepal_s07_009",
+        "title": "Неисправность рекуперативного торможения и ESP",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
         "urg": 4,
         "cat": "brakes"
       },
@@ -7563,6 +7827,24 @@
         "model": "e_class",
         "generation": "w213_2016",
         "urg": 4,
+        "cat": "brakes"
+      },
+      {
+        "sit_id": "rivian_r1s_008",
+        "title": "Сбой рекуперативного торможения",
+        "brand": "rivian",
+        "model": "r1s",
+        "generation": "r1s_2022",
+        "urg": 3,
+        "cat": "brakes"
+      },
+      {
+        "sit_id": "rivian_r1t_007",
+        "title": "Сбои рекуперативного торможения",
+        "brand": "rivian",
+        "model": "r1t",
+        "generation": "r1t_2021",
+        "urg": 3,
         "cat": "brakes"
       },
       {
@@ -7662,6 +7944,15 @@
         "cat": "brakes"
       },
       {
+        "sit_id": "deepal_s07_009",
+        "title": "Неисправность рекуперативного торможения и ESP",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 4,
+        "cat": "brakes"
+      },
+      {
         "sit_id": "dodge_charger_004",
         "title": "Течь рулевой рейки EHPS — стук и масляные пятна под машиной",
         "brand": "dodge",
@@ -7713,6 +8004,24 @@
         "model": "e_class",
         "generation": "w213_2016",
         "urg": 4,
+        "cat": "brakes"
+      },
+      {
+        "sit_id": "rivian_r1s_008",
+        "title": "Сбой рекуперативного торможения",
+        "brand": "rivian",
+        "model": "r1s",
+        "generation": "r1s_2022",
+        "urg": 3,
+        "cat": "brakes"
+      },
+      {
+        "sit_id": "rivian_r1t_007",
+        "title": "Сбои рекуперативного торможения",
+        "brand": "rivian",
+        "model": "r1t",
+        "generation": "r1t_2021",
+        "urg": 3,
         "cat": "brakes"
       },
       {
@@ -7899,6 +8208,15 @@
         "cat": "chassis"
       },
       {
+        "sit_id": "deepal_s07_009",
+        "title": "Неисправность рекуперативного торможения и ESP",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 4,
+        "cat": "brakes"
+      },
+      {
         "sit_id": "hyundai_solaris_hc_04",
         "title": "Обрыв проводов датчиков ABS задних колес",
         "brand": "hyundai",
@@ -7990,6 +8308,15 @@
         "model": "e_tron_gt",
         "generation": "f83_2020",
         "urg": 5,
+        "cat": "brakes"
+      },
+      {
+        "sit_id": "deepal_s07_009",
+        "title": "Неисправность рекуперативного торможения и ESP",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 4,
         "cat": "brakes"
       },
       {
@@ -8307,6 +8634,17 @@
         "generation": "nh_2020",
         "urg": 4,
         "cat": "chassis"
+      }
+    ],
+    "C0195": [
+      {
+        "sit_id": "rivian_r1t_007",
+        "title": "Сбои рекуперативного торможения",
+        "brand": "rivian",
+        "model": "r1t",
+        "generation": "r1t_2021",
+        "urg": 3,
+        "cat": "brakes"
       }
     ],
     "C0196": [
@@ -8683,6 +9021,17 @@
         "cat": "brakes"
       }
     ],
+    "C0545": [
+      {
+        "sit_id": "rivian_r1s_002",
+        "title": "Утечка пневмоподвески",
+        "brand": "rivian",
+        "model": "r1s",
+        "generation": "r1s_2022",
+        "urg": 3,
+        "cat": "chassis"
+      }
+    ],
     "C0550": [
       {
         "sit_id": "audi_e_tron_gt_006",
@@ -8710,6 +9059,24 @@
         "generation": "dashing_gen1_2022",
         "urg": 1,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "lucid_air_005",
+        "title": "Утечка воздуха из пневмоподвески",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 3,
+        "cat": "chassis"
+      },
+      {
+        "sit_id": "rivian_r1t_002",
+        "title": "Утечка воздуха из пневмоподвески",
+        "brand": "rivian",
+        "model": "r1t",
+        "generation": "r1t_2021",
+        "urg": 4,
+        "cat": "chassis"
       }
     ],
     "C0561": [
@@ -8772,6 +9139,24 @@
         "generation": "f83_2020",
         "urg": 3,
         "cat": "chassis"
+      },
+      {
+        "sit_id": "lucid_air_005",
+        "title": "Утечка воздуха из пневмоподвески",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 3,
+        "cat": "chassis"
+      },
+      {
+        "sit_id": "rivian_r1t_002",
+        "title": "Утечка воздуха из пневмоподвески",
+        "brand": "rivian",
+        "model": "r1t",
+        "generation": "r1t_2021",
+        "urg": 4,
+        "cat": "chassis"
       }
     ],
     "C0569": [
@@ -8790,6 +9175,15 @@
         "brand": "mazda",
         "model": "6",
         "generation": "gj_2012",
+        "urg": 3,
+        "cat": "chassis"
+      },
+      {
+        "sit_id": "rivian_r1s_002",
+        "title": "Утечка пневмоподвески",
+        "brand": "rivian",
+        "model": "r1s",
+        "generation": "r1s_2022",
         "urg": 3,
         "cat": "chassis"
       }
@@ -8835,6 +9229,24 @@
         "model": "e_tron_gt",
         "generation": "f83_2020",
         "urg": 3,
+        "cat": "chassis"
+      },
+      {
+        "sit_id": "lucid_air_005",
+        "title": "Утечка воздуха из пневмоподвески",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 3,
+        "cat": "chassis"
+      },
+      {
+        "sit_id": "rivian_r1t_002",
+        "title": "Утечка воздуха из пневмоподвески",
+        "brand": "rivian",
+        "model": "r1t",
+        "generation": "r1t_2021",
+        "urg": 4,
         "cat": "chassis"
       }
     ],
@@ -9004,6 +9416,15 @@
     ],
     "C0750": [
       {
+        "sit_id": "lucid_air_005",
+        "title": "Утечка воздуха из пневмоподвески",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 3,
+        "cat": "chassis"
+      },
+      {
         "sit_id": "zeekr_007_007",
         "title": "Отказ датчика давления в шинах (TPMS)",
         "brand": "zeekr",
@@ -9022,6 +9443,15 @@
         "generation": "g06_2019",
         "urg": 5,
         "cat": "brakes"
+      },
+      {
+        "sit_id": "rivian_r1s_002",
+        "title": "Утечка пневмоподвески",
+        "brand": "rivian",
+        "model": "r1s",
+        "generation": "r1s_2022",
+        "urg": 3,
+        "cat": "chassis"
       },
       {
         "sit_id": "zeekr_007_007",
@@ -9416,6 +9846,15 @@
       }
     ],
     "C102D": [
+      {
+        "sit_id": "rivian_r1s_005",
+        "title": "Вибрация приводного блока",
+        "brand": "rivian",
+        "model": "r1s",
+        "generation": "r1s_2022",
+        "urg": 4,
+        "cat": "transmission"
+      },
       {
         "sit_id": "volvo_xc90_lc_004",
         "title": "Выход из строя модуля DDEM ( муфты Haldex AWD)",
@@ -12235,6 +12674,15 @@
       }
     ],
     "C1234": [
+      {
+        "sit_id": "deepal_s07_009",
+        "title": "Неисправность рекуперативного торможения и ESP",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 4,
+        "cat": "brakes"
+      },
       {
         "sit_id": "hyundai_ix35_lm_010",
         "title": "Закисание задних тормозных суппортов",
@@ -15131,6 +15579,15 @@
         "cat": "steering"
       },
       {
+        "sit_id": "rivian_r1s_007",
+        "title": "Уход калибровки ADAS",
+        "brand": "rivian",
+        "model": "r1s",
+        "generation": "r1s_2022",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "vw_touareg_cr_001",
         "title": "Износ компрессора пневмоподвески",
         "brand": "volkswagen",
@@ -15391,6 +15848,15 @@
         "cat": "brakes"
       },
       {
+        "sit_id": "lucid_air_006",
+        "title": "Некорректная работа рекуперативного торможения",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 2,
+        "cat": "brakes"
+      },
+      {
         "sit_id": "mazda_cx30_dm_002",
         "title": "Закисание задних тормозных суппортов (EPB)",
         "brand": "mazda",
@@ -15458,6 +15924,17 @@
         "generation": "su_2017",
         "urg": 3,
         "cat": "electrical"
+      }
+    ],
+    "C1A68": [
+      {
+        "sit_id": "lucid_air_006",
+        "title": "Некорректная работа рекуперативного торможения",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 2,
+        "cat": "brakes"
       }
     ],
     "C1A6E": [
@@ -15660,6 +16137,15 @@
         "generation": "l550_2014",
         "urg": 2,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "lucid_air_006",
+        "title": "Некорректная работа рекуперативного торможения",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 2,
+        "cat": "brakes"
       },
       {
         "sit_id": "nissan_qashqai_j12_propark_sensor_failure",
@@ -19209,6 +19695,15 @@
         "model": "uni_k",
         "generation": "unik1_2021",
         "urg": 3,
+        "cat": "engine"
+      },
+      {
+        "sit_id": "deepal_s07_003",
+        "title": "Двигатель увеличенного хода не запускается (EREV)",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 4,
         "cat": "engine"
       },
       {
@@ -22934,6 +23429,15 @@
         "cat": "engine"
       },
       {
+        "sit_id": "deepal_s07_003",
+        "title": "Двигатель увеличенного хода не запускается (EREV)",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 4,
+        "cat": "engine"
+      },
+      {
         "sit_id": "exeed_lx_lx1_2019_002",
         "title": "Расход масла двигателя 1.5T SQRE4T15 до 500 мл на 5000 км",
         "brand": "exeed",
@@ -25091,6 +25595,15 @@
     ],
     "P0230": [
       {
+        "sit_id": "deepal_s07_003",
+        "title": "Двигатель увеличенного хода не запускается (EREV)",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 4,
+        "cat": "engine"
+      },
+      {
         "sit_id": "hyundai_solaris_rb_009",
         "title": "Щелчки и хруст при работе бензонасоса",
         "brand": "hyundai",
@@ -25554,6 +26067,17 @@
         "generation": "lm_2010",
         "urg": 4,
         "cat": "engine"
+      }
+    ],
+    "P0264": [
+      {
+        "sit_id": "rivian_r1t_006",
+        "title": "Отказ насоса охлаждения",
+        "brand": "rivian",
+        "model": "r1t",
+        "generation": "r1t_2021",
+        "urg": 4,
+        "cat": "cooling"
       }
     ],
     "P0299": [
@@ -30359,6 +30883,15 @@
     ],
     "P0335": [
       {
+        "sit_id": "deepal_s07_003",
+        "title": "Двигатель увеличенного хода не запускается (EREV)",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 4,
+        "cat": "engine"
+      },
+      {
         "sit_id": "kia_rio_dc_001",
         "title": "Обрыв ремня ГРМ и загиб клапанов (A5D 1.5L / A3E 1.3L)",
         "brand": "kia",
@@ -31268,6 +31801,15 @@
         "model": "x6",
         "generation": "g06_2019",
         "urg": 5,
+        "cat": "engine"
+      },
+      {
+        "sit_id": "deepal_s07_003",
+        "title": "Двигатель увеличенного хода не запускается (EREV)",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 4,
         "cat": "engine"
       },
       {
@@ -32239,6 +32781,15 @@
         "generation": "j400_2016",
         "urg": 2,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "deepal_s07_003",
+        "title": "Двигатель увеличенного хода не запускается (EREV)",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 4,
+        "cat": "engine"
       },
       {
         "sit_id": "faw_bestune_t99_t99_gen1_2020_009",
@@ -36024,6 +36575,15 @@
     ],
     "P0556": [
       {
+        "sit_id": "aion_y_008",
+        "title": "Неисправность вакуумного насоса тормозов",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
+        "urg": 5,
+        "cat": "brakes"
+      },
+      {
         "sit_id": "mazda_cx9_tc_003",
         "title": "Выход из строя вакуумного насоса тормозной системы",
         "brand": "mazda",
@@ -36040,6 +36600,39 @@
         "brand": "audi",
         "model": "q4_e_tron",
         "generation": "89_2021",
+        "urg": 5,
+        "cat": "brakes"
+      }
+    ],
+    "P0557": [
+      {
+        "sit_id": "aion_y_008",
+        "title": "Неисправность вакуумного насоса тормозов",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
+        "urg": 5,
+        "cat": "brakes"
+      }
+    ],
+    "P0558": [
+      {
+        "sit_id": "aion_y_008",
+        "title": "Неисправность вакуумного насоса тормозов",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
+        "urg": 5,
+        "cat": "brakes"
+      }
+    ],
+    "P0559": [
+      {
+        "sit_id": "aion_y_008",
+        "title": "Неисправность вакуумного насоса тормозов",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
         "urg": 5,
         "cat": "brakes"
       }
@@ -36104,6 +36697,15 @@
     ],
     "P0562": [
       {
+        "sit_id": "aion_y_003",
+        "title": "Деградация 12V АКБ",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "bmw_3_f30_010",
         "title": "Ошибки системы зарядки и датчика IBS (Intelligent Battery Sensor)",
         "brand": "bmw",
@@ -36146,6 +36748,15 @@
         "model": "seal",
         "generation": "seal_2022",
         "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "deepal_s07_006",
+        "title": "Быстрый разряд 12V АКБ",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 3,
         "cat": "electrical"
       },
       {
@@ -36401,6 +37012,15 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "rivian_r1t_003",
+        "title": "Отказ 12V АКБ",
+        "brand": "rivian",
+        "model": "r1t",
+        "generation": "r1t_2021",
+        "urg": 5,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "skoda_rapid_nh_005",
         "title": "Неисправность системы старт-стоп и быстрый разряд АКБ",
         "brand": "skoda",
@@ -36502,6 +37122,24 @@
     ],
     "P0563": [
       {
+        "sit_id": "aion_y_003",
+        "title": "Деградация 12V АКБ",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "deepal_s07_006",
+        "title": "Быстрый разряд 12V АКБ",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "genesis_g80_rg3_007",
         "title": "Износ подшипников генератора",
         "brand": "hyundai",
@@ -36553,6 +37191,15 @@
         "model": "niva",
         "generation": "2121_1977",
         "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "rivian_r1t_003",
+        "title": "Отказ 12V АКБ",
+        "brand": "rivian",
+        "model": "r1t",
+        "generation": "r1t_2021",
+        "urg": 5,
         "cat": "electrical"
       }
     ],
@@ -37289,6 +37936,15 @@
       }
     ],
     "P061B": [
+      {
+        "sit_id": "deepal_s07_010",
+        "title": "Отказ DC-DC и разряд 12V в движении",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 5,
+        "cat": "electrical"
+      },
       {
         "sit_id": "kia_telluride_006",
         "title": "Проблемы ISG Start-Stop, быстрый разряд АКБ",
@@ -44405,6 +45061,15 @@
     ],
     "P0A00": [
       {
+        "sit_id": "aion_y_004",
+        "title": "Потеря связи BMS с модулями ячеек",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "bmw_i4_001",
         "title": "Шум заднего eDrive40 на малых скоростях",
         "brand": "bmw",
@@ -44445,12 +45110,68 @@
     ],
     "P0A04": [
       {
+        "sit_id": "aion_y_001",
+        "title": "Неисправность терморегуляции батареи",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
+        "urg": 4,
+        "cat": "cooling"
+      },
+      {
+        "sit_id": "deepal_s07_002",
+        "title": "Дисбаланс ячеек LFP и деградация",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "deepal_s07_005",
+        "title": "Отказ насоса охлаждения HV батареи",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 5,
+        "cat": "cooling"
+      },
+      {
         "sit_id": "mercedes_eqc_001",
         "title": "Отказ HV junction box — нет зарядки и тяги",
         "brand": "mercedes",
         "model": "eqc",
         "generation": "n293_2019",
         "urg": 5,
+        "cat": "electrical"
+      }
+    ],
+    "P0A09": [
+      {
+        "sit_id": "aion_y_009",
+        "title": "Неисправность DC-DC преобразователя",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "deepal_s07_010",
+        "title": "Отказ DC-DC и разряд 12V в движении",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 5,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "lucid_air_004",
+        "title": "Разряд 12В АКБ",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 4,
         "cat": "electrical"
       }
     ],
@@ -44465,7 +45186,45 @@
         "cat": "electrical"
       }
     ],
+    "P0A0A": [
+      {
+        "sit_id": "aion_y_006",
+        "title": "Приваривание HV контакторов",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
+        "urg": 5,
+        "cat": "electrical"
+      }
+    ],
     "P0A0B": [
+      {
+        "sit_id": "aion_y_009",
+        "title": "Неисправность DC-DC преобразователя",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "deepal_s07_001",
+        "title": "Потеря связи BMS с VCU",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "deepal_s07_008",
+        "title": "Приваривание HV контакторов",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 5,
+        "cat": "electrical"
+      },
       {
         "sit_id": "mercedes_amg_gt_c192_005",
         "title": "Неисправность ISG (интегрированный стартер-генератор)",
@@ -44477,6 +45236,15 @@
       }
     ],
     "P0A0C": [
+      {
+        "sit_id": "aion_y_009",
+        "title": "Неисправность DC-DC преобразователя",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
+        "urg": 4,
+        "cat": "electrical"
+      },
       {
         "sit_id": "mercedes_amg_gt_c192_005",
         "title": "Неисправность ISG (интегрированный стартер-генератор)",
@@ -44532,9 +45300,45 @@
         "generation": "v297_2021",
         "urg": 2,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "rivian_r1s_003",
+        "title": "Неисправность зарядного порта",
+        "brand": "rivian",
+        "model": "r1s",
+        "generation": "r1s_2022",
+        "urg": 5,
+        "cat": "electrical"
       }
     ],
     "P0A10": [
+      {
+        "sit_id": "aion_y_002",
+        "title": "Отказ OBC (встроенное зарядное)",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "aion_y_010",
+        "title": "Перегрев зарядного порта",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "deepal_s07_010",
+        "title": "Отказ DC-DC и разряд 12V в движении",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 5,
+        "cat": "electrical"
+      },
       {
         "sit_id": "mercedes_amg_gt_c192_005",
         "title": "Неисправность ISG (интегрированный стартер-генератор)",
@@ -44547,12 +45351,41 @@
     ],
     "P0A11": [
       {
+        "sit_id": "aion_y_002",
+        "title": "Отказ OBC (встроенное зарядное)",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "bmw_i5_005",
         "title": "Неисправность порта быстрой зарядки CCS",
         "brand": "bmw",
         "model": "i5",
         "generation": "g60_2023",
         "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "deepal_s07_010",
+        "title": "Отказ DC-DC и разряд 12V в движении",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 5,
+        "cat": "electrical"
+      }
+    ],
+    "P0A12": [
+      {
+        "sit_id": "aion_y_002",
+        "title": "Отказ OBC (встроенное зарядное)",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
+        "urg": 3,
         "cat": "electrical"
       }
     ],
@@ -44587,12 +45420,30 @@
     ],
     "P0A1F": [
       {
+        "sit_id": "aion_y_007",
+        "title": "Гул подшипников электромотора",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
+        "urg": 3,
+        "cat": "engine"
+      },
+      {
         "sit_id": "audi_e_tron_gt_002",
         "title": "Износ подшипников переднего электромотора",
         "brand": "audi",
         "model": "e_tron_gt",
         "generation": "f83_2020",
         "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "deepal_s07_007",
+        "title": "Перегрев инвертора при длительной нагрузке",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 3,
         "cat": "electrical"
       },
       {
@@ -44661,6 +45512,17 @@
         "cat": "transmission"
       }
     ],
+    "P0A3A": [
+      {
+        "sit_id": "lucid_air_008",
+        "title": "Гул подшипников электромотора",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 4,
+        "cat": "electrical"
+      }
+    ],
     "P0A3C": [
       {
         "sit_id": "audi_e_tron_gt_002",
@@ -44668,6 +45530,24 @@
         "brand": "audi",
         "model": "e_tron_gt",
         "generation": "f83_2020",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "lucid_air_002",
+        "title": "Перегрев инвертора заднего мотора",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "lucid_air_008",
+        "title": "Гул подшипников электромотора",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
         "urg": 4,
         "cat": "electrical"
       },
@@ -44688,6 +45568,26 @@
         "generation": "v295_2022",
         "urg": 4,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "rivian_r1t_005",
+        "title": "Отказ инвертера электромотора",
+        "brand": "rivian",
+        "model": "r1t",
+        "generation": "r1t_2021",
+        "urg": 5,
+        "cat": "electrical"
+      }
+    ],
+    "P0A3D": [
+      {
+        "sit_id": "aion_y_007",
+        "title": "Гул подшипников электромотора",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
+        "urg": 3,
+        "cat": "engine"
       }
     ],
     "P0A3F": [
@@ -44744,6 +45644,24 @@
         "generation": "v295_2022",
         "urg": 4,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "rivian_r1s_005",
+        "title": "Вибрация приводного блока",
+        "brand": "rivian",
+        "model": "r1s",
+        "generation": "r1s_2022",
+        "urg": 4,
+        "cat": "transmission"
+      },
+      {
+        "sit_id": "rivian_r1t_008",
+        "title": "Шум и вибрации редуктора мотор-редуктора",
+        "brand": "rivian",
+        "model": "r1t",
+        "generation": "r1t_2021",
+        "urg": 3,
+        "cat": "transmission"
       },
       {
         "sit_id": "tesla_ms_005",
@@ -44804,9 +45722,36 @@
         "generation": "g08_2020",
         "urg": 4,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "rivian_r1t_008",
+        "title": "Шум и вибрации редуктора мотор-редуктора",
+        "brand": "rivian",
+        "model": "r1t",
+        "generation": "r1t_2021",
+        "urg": 3,
+        "cat": "transmission"
       }
     ],
     "P0A4B": [
+      {
+        "sit_id": "lucid_air_002",
+        "title": "Перегрев инвертора заднего мотора",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "lucid_air_008",
+        "title": "Гул подшипников электромотора",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 4,
+        "cat": "electrical"
+      },
       {
         "sit_id": "mercedes_eqe_007",
         "title": "Неисправность заднего электромотора или инвертера",
@@ -44814,6 +45759,24 @@
         "model": "eqe",
         "generation": "v295_2022",
         "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "rivian_r1s_004",
+        "title": "Сбой терморегуляции батареи",
+        "brand": "rivian",
+        "model": "r1s",
+        "generation": "r1s_2022",
+        "urg": 3,
+        "cat": "cooling"
+      },
+      {
+        "sit_id": "rivian_r1t_005",
+        "title": "Отказ инвертера электромотора",
+        "brand": "rivian",
+        "model": "r1t",
+        "generation": "r1t_2021",
+        "urg": 5,
         "cat": "electrical"
       }
     ],
@@ -44848,6 +45811,15 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "rivian_r1t_005",
+        "title": "Отказ инвертера электромотора",
+        "brand": "rivian",
+        "model": "r1t",
+        "generation": "r1t_2021",
+        "urg": 5,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "tesla_ms_005",
         "title": "Перегрев и оплавление высоковольтных кабелей батареи",
         "brand": "tesla",
@@ -44877,7 +45849,27 @@
         "cat": "electrical"
       }
     ],
+    "P0A79": [
+      {
+        "sit_id": "deepal_s07_007",
+        "title": "Перегрев инвертора при длительной нагрузке",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 3,
+        "cat": "electrical"
+      }
+    ],
     "P0A7A": [
+      {
+        "sit_id": "aion_y_007",
+        "title": "Гул подшипников электромотора",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
+        "urg": 3,
+        "cat": "engine"
+      },
       {
         "sit_id": "audi_e_tron_gt_002",
         "title": "Износ подшипников переднего электромотора",
@@ -44911,6 +45903,15 @@
         "brand": "byd",
         "model": "tang",
         "generation": "tang_2018",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "deepal_s07_007",
+        "title": "Перегрев инвертора при длительной нагрузке",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
         "urg": 3,
         "cat": "electrical"
       },
@@ -44998,6 +45999,15 @@
     ],
     "P0A7B": [
       {
+        "sit_id": "deepal_s07_009",
+        "title": "Неисправность рекуперативного торможения и ESP",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 4,
+        "cat": "brakes"
+      },
+      {
         "sit_id": "zeekr_x_005",
         "title": "Потеря мощности при жаре выше +35°C",
         "brand": "zeekr",
@@ -45005,6 +46015,17 @@
         "generation": "x_2023",
         "urg": 2,
         "cat": "cooling"
+      }
+    ],
+    "P0A7C": [
+      {
+        "sit_id": "lucid_air_006",
+        "title": "Некорректная работа рекуперативного торможения",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 2,
+        "cat": "brakes"
       }
     ],
     "P0A7E": [
@@ -45073,6 +46094,15 @@
       }
     ],
     "P0A7F": [
+      {
+        "sit_id": "aion_y_007",
+        "title": "Гул подшипников электромотора",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
+        "urg": 3,
+        "cat": "engine"
+      },
       {
         "sit_id": "audi_rs6_c8_001",
         "title": "Деградация аккумуляторной батареи 48V системы MHEV",
@@ -45274,6 +46304,15 @@
     ],
     "P0A80": [
       {
+        "sit_id": "aion_y_004",
+        "title": "Потеря связи BMS с модулями ячеек",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "audi_a8_d5_001",
         "title": "Деградация АКБ 48V MHEV",
         "brand": "audi",
@@ -45387,6 +46426,15 @@
         "brand": "byd",
         "model": "tang",
         "generation": "tang_2018",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "deepal_s07_002",
+        "title": "Дисбаланс ячеек LFP и деградация",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
         "urg": 3,
         "cat": "electrical"
       },
@@ -45580,6 +46628,33 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "rivian_r1s_004",
+        "title": "Сбой терморегуляции батареи",
+        "brand": "rivian",
+        "model": "r1s",
+        "generation": "r1s_2022",
+        "urg": 3,
+        "cat": "cooling"
+      },
+      {
+        "sit_id": "rivian_r1s_010",
+        "title": "Деградация HV батареи",
+        "brand": "rivian",
+        "model": "r1s",
+        "generation": "r1s_2022",
+        "urg": 2,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "rivian_r1t_001",
+        "title": "Деградация HV батареи и потеря ёмкости",
+        "brand": "rivian",
+        "model": "r1t",
+        "generation": "r1t_2021",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "tesla_m3_002",
         "title": "Деградация высоковольтной батареи (потеря запаса хода)",
         "brand": "tesla",
@@ -45683,6 +46758,15 @@
     ],
     "P0A81": [
       {
+        "sit_id": "aion_y_001",
+        "title": "Неисправность терморегуляции батареи",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
+        "urg": 4,
+        "cat": "cooling"
+      },
+      {
         "sit_id": "audi_e_tron_gt_004",
         "title": "Отказ насоса охлаждения HV-батареи",
         "brand": "audi",
@@ -45710,6 +46794,15 @@
         "cat": "cooling"
       },
       {
+        "sit_id": "deepal_s07_005",
+        "title": "Отказ насоса охлаждения HV батареи",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 5,
+        "cat": "cooling"
+      },
+      {
         "sit_id": "kia_ev6_003",
         "title": "Утечка хладагента теплового насоса",
         "brand": "kia",
@@ -45719,11 +46812,29 @@
         "cat": "cooling"
       },
       {
+        "sit_id": "lucid_air_001",
+        "title": "Деградация терморегуляции ВВБ",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 3,
+        "cat": "cooling"
+      },
+      {
         "sit_id": "mercedes_amg_gt_c192_009",
         "title": "Отказ насоса охлаждения HV-системы",
         "brand": "mercedes",
         "model": "amg_gt",
         "generation": "c192_2023",
+        "urg": 4,
+        "cat": "cooling"
+      },
+      {
+        "sit_id": "rivian_r1t_006",
+        "title": "Отказ насоса охлаждения",
+        "brand": "rivian",
+        "model": "r1t",
+        "generation": "r1t_2021",
         "urg": 4,
         "cat": "cooling"
       }
@@ -45768,6 +46879,15 @@
         "cat": "cooling"
       },
       {
+        "sit_id": "deepal_s07_005",
+        "title": "Отказ насоса охлаждения HV батареи",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 5,
+        "cat": "cooling"
+      },
+      {
         "sit_id": "kia_ev6_003",
         "title": "Утечка хладагента теплового насоса",
         "brand": "kia",
@@ -45777,11 +46897,29 @@
         "cat": "cooling"
       },
       {
+        "sit_id": "lucid_air_001",
+        "title": "Деградация терморегуляции ВВБ",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 3,
+        "cat": "cooling"
+      },
+      {
         "sit_id": "mercedes_amg_gt_c192_009",
         "title": "Отказ насоса охлаждения HV-системы",
         "brand": "mercedes",
         "model": "amg_gt",
         "generation": "c192_2023",
+        "urg": 4,
+        "cat": "cooling"
+      },
+      {
+        "sit_id": "rivian_r1t_006",
+        "title": "Отказ насоса охлаждения",
+        "brand": "rivian",
+        "model": "r1t",
+        "generation": "r1t_2021",
         "urg": 4,
         "cat": "cooling"
       },
@@ -45808,6 +46946,15 @@
     ],
     "P0A84": [
       {
+        "sit_id": "aion_y_001",
+        "title": "Неисправность терморегуляции батареи",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
+        "urg": 4,
+        "cat": "cooling"
+      },
+      {
         "sit_id": "bmw_ix3_004",
         "title": "Отказ циркуляционного насоса системы терморегуляции",
         "brand": "bmw",
@@ -45824,6 +46971,28 @@
         "generation": "g08_2020",
         "urg": 5,
         "cat": "electrical"
+      }
+    ],
+    "P0A85": [
+      {
+        "sit_id": "deepal_s07_008",
+        "title": "Приваривание HV контакторов",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 5,
+        "cat": "electrical"
+      }
+    ],
+    "P0A8C": [
+      {
+        "sit_id": "rivian_r1t_006",
+        "title": "Отказ насоса охлаждения",
+        "brand": "rivian",
+        "model": "r1t",
+        "generation": "r1t_2021",
+        "urg": 4,
+        "cat": "cooling"
       }
     ],
     "P0A8C00": [
@@ -45855,6 +47024,15 @@
         "generation": "g08_2020",
         "urg": 3,
         "cat": "ac"
+      },
+      {
+        "sit_id": "deepal_s07_010",
+        "title": "Отказ DC-DC и разряд 12V в движении",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 5,
+        "cat": "electrical"
       }
     ],
     "P0A8E": [
@@ -45962,6 +47140,24 @@
         "cat": "transmission"
       },
       {
+        "sit_id": "rivian_r1s_005",
+        "title": "Вибрация приводного блока",
+        "brand": "rivian",
+        "model": "r1s",
+        "generation": "r1s_2022",
+        "urg": 4,
+        "cat": "transmission"
+      },
+      {
+        "sit_id": "rivian_r1t_008",
+        "title": "Шум и вибрации редуктора мотор-редуктора",
+        "brand": "rivian",
+        "model": "r1t",
+        "generation": "r1t_2021",
+        "urg": 3,
+        "cat": "transmission"
+      },
+      {
         "sit_id": "toyota_highlander_xu70_002",
         "title": "Гул и вибрация мотора на гибридной версии (E-CVT)",
         "brand": "toyota",
@@ -45991,6 +47187,17 @@
         "generation": "89_2021",
         "urg": 5,
         "cat": "electrical"
+      }
+    ],
+    "P0A92": [
+      {
+        "sit_id": "rivian_r1t_008",
+        "title": "Шум и вибрации редуктора мотор-редуктора",
+        "brand": "rivian",
+        "model": "r1t",
+        "generation": "r1t_2021",
+        "urg": 3,
+        "cat": "transmission"
       }
     ],
     "P0A93": [
@@ -46150,6 +47357,15 @@
     ],
     "P0A94": [
       {
+        "sit_id": "aion_y_009",
+        "title": "Неисправность DC-DC преобразователя",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "audi_a8_d5_001",
         "title": "Деградация АКБ 48V MHEV",
         "brand": "audi",
@@ -46182,6 +47398,15 @@
         "brand": "bmw",
         "model": "i7",
         "generation": "g70_2022",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "deepal_s07_007",
+        "title": "Перегрев инвертора при длительной нагрузке",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
         "urg": 3,
         "cat": "electrical"
       },
@@ -46227,6 +47452,24 @@
         "brand": "lexus",
         "model": "rx",
         "generation": "al20_2015",
+        "urg": 5,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "lucid_air_002",
+        "title": "Перегрев инвертора заднего мотора",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "lucid_air_010",
+        "title": "Приваривание HV контакторов",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
         "urg": 5,
         "cat": "electrical"
       },
@@ -46294,6 +47537,15 @@
         "cat": "transmission"
       },
       {
+        "sit_id": "rivian_r1s_005",
+        "title": "Вибрация приводного блока",
+        "brand": "rivian",
+        "model": "r1s",
+        "generation": "r1s_2022",
+        "urg": 4,
+        "cat": "transmission"
+      },
+      {
         "sit_id": "toyota_alphard_ah40_004",
         "title": "Перегрев инвертора гибридной установки",
         "brand": "toyota",
@@ -46352,6 +47604,15 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "lucid_air_010",
+        "title": "Приваривание HV контакторов",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 5,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "nissan_x_trail_t33_hv_battery_thermal",
         "title": "Снижение мощности в мороз — тепловое ограничение батареи e-Power",
         "brand": "nissan",
@@ -46362,6 +47623,15 @@
       }
     ],
     "P0AA0": [
+      {
+        "sit_id": "aion_y_006",
+        "title": "Приваривание HV контакторов",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
+        "urg": 5,
+        "cat": "electrical"
+      },
       {
         "sit_id": "audi_e_tron_gt_008",
         "title": "Приваривание высоковольтных контакторов батареи",
@@ -46379,9 +47649,38 @@
         "generation": "g60_2023",
         "urg": 5,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "deepal_s07_008",
+        "title": "Приваривание HV контакторов",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 5,
+        "cat": "electrical"
+      }
+    ],
+    "P0AA2": [
+      {
+        "sit_id": "aion_y_006",
+        "title": "Приваривание HV контакторов",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
+        "urg": 5,
+        "cat": "electrical"
       }
     ],
     "P0AA6": [
+      {
+        "sit_id": "aion_y_006",
+        "title": "Приваривание HV контакторов",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
+        "urg": 5,
+        "cat": "electrical"
+      },
       {
         "sit_id": "audi_e_tron_gt_001",
         "title": "Дисбаланс ячеек высоковольтной батареи 93.4 кВт·ч",
@@ -46437,11 +47736,29 @@
         "cat": "cooling"
       },
       {
+        "sit_id": "deepal_s07_008",
+        "title": "Приваривание HV контакторов",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 5,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "hyundai_ioniq5_002",
         "title": "Нарушение изоляции HV-цепи (B29xx)",
         "brand": "hyundai",
         "model": "ioniq5",
         "generation": "ne_2021",
+        "urg": 5,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "lucid_air_010",
+        "title": "Приваривание HV контакторов",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
         "urg": 5,
         "cat": "electrical"
       },
@@ -46493,6 +47810,15 @@
     ],
     "P0AC0": [
       {
+        "sit_id": "aion_y_001",
+        "title": "Неисправность терморегуляции батареи",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
+        "urg": 4,
+        "cat": "cooling"
+      },
+      {
         "sit_id": "audi_a8_d5_001",
         "title": "Деградация АКБ 48V MHEV",
         "brand": "audi",
@@ -46517,6 +47843,15 @@
         "model": "ix3",
         "generation": "g08_2020",
         "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "deepal_s07_002",
+        "title": "Дисбаланс ячеек LFP и деградация",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 3,
         "cat": "electrical"
       },
       {
@@ -46574,6 +47909,15 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "lucid_air_003",
+        "title": "Не работает быстрая зарядка DC",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "mercedes_eqs_007",
         "title": "Ошибка OBC (бортовое зарядное устройство) — AC зарядка обрывается",
         "brand": "mercedes",
@@ -46621,6 +47965,15 @@
         "brand": "bmw",
         "model": "i5",
         "generation": "g60_2023",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "deepal_s07_004",
+        "title": "Отказ OBC (встроенное зарядное)",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
         "urg": 4,
         "cat": "electrical"
       },
@@ -46679,6 +48032,15 @@
         "generation": "f83_2020",
         "urg": 4,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "lucid_air_010",
+        "title": "Приваривание HV контакторов",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 5,
+        "cat": "electrical"
       }
     ],
     "P0AE0": [
@@ -46703,7 +48065,45 @@
         "cat": "electrical"
       }
     ],
+    "P0AE2": [
+      {
+        "sit_id": "deepal_s07_008",
+        "title": "Приваривание HV контакторов",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 5,
+        "cat": "electrical"
+      }
+    ],
     "P0AE6": [
+      {
+        "sit_id": "aion_y_002",
+        "title": "Отказ OBC (встроенное зарядное)",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "aion_y_009",
+        "title": "Неисправность DC-DC преобразователя",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "aion_y_010",
+        "title": "Перегрев зарядного порта",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
+        "urg": 3,
+        "cat": "electrical"
+      },
       {
         "sit_id": "audi_a8_d5_001",
         "title": "Деградация АКБ 48V MHEV",
@@ -46723,7 +48123,27 @@
         "cat": "electrical"
       }
     ],
+    "P0AE7": [
+      {
+        "sit_id": "aion_y_010",
+        "title": "Перегрев зарядного порта",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
+        "urg": 3,
+        "cat": "electrical"
+      }
+    ],
     "P0AE8": [
+      {
+        "sit_id": "aion_y_010",
+        "title": "Перегрев зарядного порта",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
+        "urg": 3,
+        "cat": "electrical"
+      },
       {
         "sit_id": "bmw_ix3_006",
         "title": "Приваривание контакторов высоковольтной батареи",
@@ -46731,6 +48151,15 @@
         "model": "ix3",
         "generation": "g08_2020",
         "urg": 5,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "deepal_s07_004",
+        "title": "Отказ OBC (встроенное зарядное)",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 4,
         "cat": "electrical"
       }
     ],
@@ -46798,6 +48227,15 @@
     ],
     "P0AFA": [
       {
+        "sit_id": "aion_y_004",
+        "title": "Потеря связи BMS с модулями ячеек",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "audi_a8_d5_001",
         "title": "Деградация АКБ 48V MHEV",
         "brand": "audi",
@@ -46857,6 +48295,15 @@
         "brand": "byd",
         "model": "tang",
         "generation": "tang_2018",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "deepal_s07_002",
+        "title": "Дисбаланс ячеек LFP и деградация",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
         "urg": 3,
         "cat": "electrical"
       },
@@ -46924,6 +48371,24 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "lucid_air_001",
+        "title": "Деградация терморегуляции ВВБ",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 3,
+        "cat": "cooling"
+      },
+      {
+        "sit_id": "lucid_air_008",
+        "title": "Гул подшипников электромотора",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "mercedes_amg_gt_c192_001",
         "title": "Деградация HV батареи E PERFORMANCE",
         "brand": "mercedes",
@@ -46976,6 +48441,51 @@
         "generation": "r232_2021",
         "urg": 4,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "rivian_r1s_004",
+        "title": "Сбой терморегуляции батареи",
+        "brand": "rivian",
+        "model": "r1s",
+        "generation": "r1s_2022",
+        "urg": 3,
+        "cat": "cooling"
+      },
+      {
+        "sit_id": "rivian_r1s_008",
+        "title": "Сбой рекуперативного торможения",
+        "brand": "rivian",
+        "model": "r1s",
+        "generation": "r1s_2022",
+        "urg": 3,
+        "cat": "brakes"
+      },
+      {
+        "sit_id": "rivian_r1s_010",
+        "title": "Деградация HV батареи",
+        "brand": "rivian",
+        "model": "r1s",
+        "generation": "r1s_2022",
+        "urg": 2,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "rivian_r1t_001",
+        "title": "Деградация HV батареи и потеря ёмкости",
+        "brand": "rivian",
+        "model": "r1t",
+        "generation": "r1t_2021",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "rivian_r1t_007",
+        "title": "Сбои рекуперативного торможения",
+        "brand": "rivian",
+        "model": "r1t",
+        "generation": "r1t_2021",
+        "urg": 3,
+        "cat": "brakes"
       },
       {
         "sit_id": "tesla_m3_002",
@@ -47038,6 +48548,15 @@
     ],
     "P0AFB": [
       {
+        "sit_id": "lucid_air_010",
+        "title": "Приваривание HV контакторов",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 5,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "mercedes_sl_r232_009",
         "title": "Неисправность 48V MHEV системы на SL 43",
         "brand": "mercedes",
@@ -47049,12 +48568,39 @@
     ],
     "P0B00": [
       {
+        "sit_id": "lucid_air_001",
+        "title": "Деградация терморегуляции ВВБ",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 3,
+        "cat": "cooling"
+      },
+      {
         "sit_id": "mercedes_sl_r232_009",
         "title": "Неисправность 48V MHEV системы на SL 43",
         "brand": "mercedes",
         "model": "sl",
         "generation": "r232_2021",
         "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "rivian_r1s_010",
+        "title": "Деградация HV батареи",
+        "brand": "rivian",
+        "model": "r1s",
+        "generation": "r1s_2022",
+        "urg": 2,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "rivian_r1t_001",
+        "title": "Деградация HV батареи и потеря ёмкости",
+        "brand": "rivian",
+        "model": "r1t",
+        "generation": "r1t_2021",
+        "urg": 3,
         "cat": "electrical"
       },
       {
@@ -47118,6 +48664,28 @@
         "cat": "electrical"
       }
     ],
+    "P0B39": [
+      {
+        "sit_id": "deepal_s07_005",
+        "title": "Отказ насоса охлаждения HV батареи",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 5,
+        "cat": "cooling"
+      }
+    ],
+    "P0B3B": [
+      {
+        "sit_id": "deepal_s07_007",
+        "title": "Перегрев инвертора при длительной нагрузке",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 3,
+        "cat": "electrical"
+      }
+    ],
     "P0B3C": [
       {
         "sit_id": "mercedes_sl_r232_009",
@@ -47126,6 +48694,17 @@
         "model": "sl",
         "generation": "r232_2021",
         "urg": 4,
+        "cat": "electrical"
+      }
+    ],
+    "P0B3D": [
+      {
+        "sit_id": "deepal_s07_002",
+        "title": "Дисбаланс ячеек LFP и деградация",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 3,
         "cat": "electrical"
       }
     ],
@@ -47158,6 +48737,17 @@
         "generation": "cv_2021",
         "urg": 4,
         "cat": "cooling"
+      }
+    ],
+    "P0B40": [
+      {
+        "sit_id": "rivian_r1s_003",
+        "title": "Неисправность зарядного порта",
+        "brand": "rivian",
+        "model": "r1s",
+        "generation": "r1s_2022",
+        "urg": 5,
+        "cat": "electrical"
       }
     ],
     "P0B56": [
@@ -47232,6 +48822,17 @@
         "model": "eqe",
         "generation": "v295_2022",
         "urg": 3,
+        "cat": "electrical"
+      }
+    ],
+    "P0BE0": [
+      {
+        "sit_id": "rivian_r1t_004",
+        "title": "Перегрев зарядного порта DC",
+        "brand": "rivian",
+        "model": "r1t",
+        "generation": "r1t_2021",
+        "urg": 4,
         "cat": "electrical"
       }
     ],
@@ -47398,6 +48999,17 @@
         "cat": "electrical"
       }
     ],
+    "P0CE4": [
+      {
+        "sit_id": "lucid_air_002",
+        "title": "Перегрев инвертора заднего мотора",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 4,
+        "cat": "electrical"
+      }
+    ],
     "P0D00": [
       {
         "sit_id": "audi_e_tron_gt_005",
@@ -47433,6 +49045,24 @@
         "model": "ix3",
         "generation": "g08_2020",
         "urg": 1,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "deepal_s07_004",
+        "title": "Отказ OBC (встроенное зарядное)",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "rivian_r1t_004",
+        "title": "Перегрев зарядного порта DC",
+        "brand": "rivian",
+        "model": "r1t",
+        "generation": "r1t_2021",
+        "urg": 4,
         "cat": "electrical"
       }
     ],
@@ -47472,6 +49102,15 @@
         "generation": "g08_2020",
         "urg": 1,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "rivian_r1t_004",
+        "title": "Перегрев зарядного порта DC",
+        "brand": "rivian",
+        "model": "r1t",
+        "generation": "r1t_2021",
+        "urg": 4,
+        "cat": "electrical"
       }
     ],
     "P0D20": [
@@ -47487,11 +49126,38 @@
     ],
     "P0D26": [
       {
+        "sit_id": "aion_y_006",
+        "title": "Приваривание HV контакторов",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
+        "urg": 5,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "aion_y_010",
+        "title": "Перегрев зарядного порта",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "bmw_i5_005",
         "title": "Неисправность порта быстрой зарядки CCS",
         "brand": "bmw",
         "model": "i5",
         "generation": "g60_2023",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "deepal_s07_004",
+        "title": "Отказ OBC (встроенное зарядное)",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
         "urg": 4,
         "cat": "electrical"
       },
@@ -47511,6 +49177,15 @@
         "model": "ev9",
         "generation": "mv_2023",
         "urg": 5,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "lucid_air_003",
+        "title": "Не работает быстрая зарядка DC",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 3,
         "cat": "electrical"
       },
       {
@@ -47541,6 +49216,17 @@
         "brand": "mercedes",
         "model": "eqe",
         "generation": "v295_2022",
+        "urg": 3,
+        "cat": "electrical"
+      }
+    ],
+    "P0D2E": [
+      {
+        "sit_id": "lucid_air_003",
+        "title": "Не работает быстрая зарядка DC",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
         "urg": 3,
         "cat": "electrical"
       }
@@ -47595,6 +49281,17 @@
         "model": "ev9",
         "generation": "mv_2023",
         "urg": 5,
+        "cat": "electrical"
+      }
+    ],
+    "P0DE3": [
+      {
+        "sit_id": "deepal_s07_004",
+        "title": "Отказ OBC (встроенное зарядное)",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 4,
         "cat": "electrical"
       }
     ],
@@ -53421,6 +55118,15 @@
     ],
     "P2534": [
       {
+        "sit_id": "rivian_r1s_001",
+        "title": "Разряд 12В вспомогательной батареи",
+        "brand": "rivian",
+        "model": "r1s",
+        "generation": "r1s_2022",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "suzuki_vitara_ly_008",
         "title": "Нарушение контакта в замке зажигания и кнопки Start/Stop",
         "brand": "suzuki",
@@ -53510,6 +55216,17 @@
         "generation": "kf_2017",
         "urg": 3,
         "cat": "engine"
+      }
+    ],
+    "P261B": [
+      {
+        "sit_id": "deepal_s07_005",
+        "title": "Отказ насоса охлаждения HV батареи",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 5,
+        "cat": "cooling"
       }
     ],
     "P2647": [
@@ -54308,6 +56025,15 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "deepal_s07_006",
+        "title": "Быстрый разряд 12V АКБ",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "geely_tugella_fy11_2020_007",
         "title": "Быстрый разряд аккумулятора и сбои BCM",
         "brand": "geely",
@@ -54505,6 +56231,24 @@
     ],
     "U0073": [
       {
+        "sit_id": "aion_y_003",
+        "title": "Деградация 12V АКБ",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "deepal_s07_001",
+        "title": "Потеря связи BMS с VCU",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "exeed_vx_vx1_2020_008",
         "title": "Некорректная работа системы ADAS — ложные срабатывания экстренного торможения",
         "brand": "exeed",
@@ -54639,6 +56383,24 @@
         "model": "rdx",
         "generation": "tc1_2018",
         "urg": 2,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "aion_y_002",
+        "title": "Отказ OBC (встроенное зарядное)",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "aion_y_003",
+        "title": "Деградация 12V АКБ",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
+        "urg": 3,
         "cat": "electrical"
       },
       {
@@ -54801,6 +56563,24 @@
         "model": "seal",
         "generation": "seal_2022",
         "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "deepal_s07_001",
+        "title": "Потеря связи BMS с VCU",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "deepal_s07_006",
+        "title": "Быстрый разряд 12V АКБ",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 3,
         "cat": "electrical"
       },
       {
@@ -55119,6 +56899,24 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "lucid_air_001",
+        "title": "Деградация терморегуляции ВВБ",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 3,
+        "cat": "cooling"
+      },
+      {
+        "sit_id": "lucid_air_008",
+        "title": "Гул подшипников электромотора",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "mazda_3_bm_010",
         "title": "Неисправность системы i-ELOOP и выход из строя конденсатора",
         "brand": "mazda",
@@ -55305,6 +57103,42 @@
         "model": "arkana",
         "generation": "rjl_2019",
         "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "rivian_r1s_001",
+        "title": "Разряд 12В вспомогательной батареи",
+        "brand": "rivian",
+        "model": "r1s",
+        "generation": "r1s_2022",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "rivian_r1s_010",
+        "title": "Деградация HV батареи",
+        "brand": "rivian",
+        "model": "r1s",
+        "generation": "r1s_2022",
+        "urg": 2,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "rivian_r1t_001",
+        "title": "Деградация HV батареи и потеря ёмкости",
+        "brand": "rivian",
+        "model": "r1t",
+        "generation": "r1t_2021",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "rivian_r1t_009",
+        "title": "Зависания инфоразвлекательной системы",
+        "brand": "rivian",
+        "model": "r1t",
+        "generation": "r1t_2021",
+        "urg": 2,
         "cat": "electrical"
       },
       {
@@ -55553,6 +57387,15 @@
         "generation": "9ya_2017",
         "urg": 2,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "rivian_r1t_005",
+        "title": "Отказ инвертера электромотора",
+        "brand": "rivian",
+        "model": "r1t",
+        "generation": "r1t_2021",
+        "urg": 5,
+        "cat": "electrical"
       }
     ],
     "U010100": [
@@ -55584,6 +57427,26 @@
         "generation": "w213_2016",
         "urg": 2,
         "cat": "body"
+      },
+      {
+        "sit_id": "rivian_r1s_003",
+        "title": "Неисправность зарядного порта",
+        "brand": "rivian",
+        "model": "r1s",
+        "generation": "r1s_2022",
+        "urg": 5,
+        "cat": "electrical"
+      }
+    ],
+    "U0109": [
+      {
+        "sit_id": "aion_y_004",
+        "title": "Потеря связи BMS с модулями ячеек",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
+        "urg": 4,
+        "cat": "electrical"
       }
     ],
     "U010C": [
@@ -55619,6 +57482,15 @@
     ],
     "U0111": [
       {
+        "sit_id": "aion_y_004",
+        "title": "Потеря связи BMS с модулями ячеек",
+        "brand": "aion",
+        "model": "y",
+        "generation": "y_2021",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "bmw_x1_f48_006",
         "title": "Затекание воды в багажник и окисление блоков комфорта",
         "brand": "bmw",
@@ -55634,6 +57506,15 @@
         "model": "han",
         "generation": "han_2020",
         "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "deepal_s07_001",
+        "title": "Потеря связи BMS с VCU",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 4,
         "cat": "electrical"
       },
       {
@@ -55798,6 +57679,15 @@
         "generation": "95b_2014",
         "urg": 3,
         "cat": "steering"
+      },
+      {
+        "sit_id": "rivian_r1s_008",
+        "title": "Сбой рекуперативного торможения",
+        "brand": "rivian",
+        "model": "r1s",
+        "generation": "r1s_2022",
+        "urg": 3,
+        "cat": "brakes"
       },
       {
         "sit_id": "subaru_outback_bs_005",
@@ -56046,6 +57936,15 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "deepal_s07_001",
+        "title": "Потеря связи BMS с VCU",
+        "brand": "deepal",
+        "model": "s07",
+        "generation": "s07_2023",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "ford_mondeo_mk5_006",
         "title": "Мультимедиа SYNC 2/3: зависание и белый экран",
         "brand": "ford",
@@ -56170,6 +58069,33 @@
         "generation": "l494_2013",
         "urg": 1,
         "cat": "body"
+      },
+      {
+        "sit_id": "lucid_air_003",
+        "title": "Не работает быстрая зарядка DC",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "lucid_air_004",
+        "title": "Разряд 12В АКБ",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "lucid_air_009",
+        "title": "Зависание сенсорного экрана 34\"",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 2,
+        "cat": "electrical"
       },
       {
         "sit_id": "mazda_3_bp_010",
@@ -56316,6 +58242,33 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "rivian_r1s_001",
+        "title": "Разряд 12В вспомогательной батареи",
+        "brand": "rivian",
+        "model": "r1s",
+        "generation": "r1s_2022",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "rivian_r1t_003",
+        "title": "Отказ 12V АКБ",
+        "brand": "rivian",
+        "model": "r1t",
+        "generation": "r1t_2021",
+        "urg": 5,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "rivian_r1t_010",
+        "title": "Сбои Body Control Module",
+        "brand": "rivian",
+        "model": "r1t",
+        "generation": "r1t_2021",
+        "urg": 3,
+        "cat": "body"
+      },
+      {
         "sit_id": "skoda_superb_3v_004",
         "title": "Перелом проводки в гофре крышки багажника (лифтбек 625 л)",
         "brand": "skoda",
@@ -56446,6 +58399,17 @@
         "cat": "electrical"
       }
     ],
+    "U0148": [
+      {
+        "sit_id": "rivian_r1s_009",
+        "title": "Зависание мультимедиа",
+        "brand": "rivian",
+        "model": "r1s",
+        "generation": "r1s_2022",
+        "urg": 2,
+        "cat": "electrical"
+      }
+    ],
     "U0151": [
       {
         "sit_id": "bmw_ix3_005",
@@ -56484,6 +58448,15 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "lucid_air_004",
+        "title": "Разряд 12В АКБ",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "mazda_3_bm_004",
         "title": "Расслоение дисплея мультимедийной системы (CMU) и зависания",
         "brand": "mazda",
@@ -56499,6 +58472,17 @@
         "model": "eqe",
         "generation": "v295_2022",
         "urg": 5,
+        "cat": "electrical"
+      }
+    ],
+    "U0154": [
+      {
+        "sit_id": "rivian_r1t_009",
+        "title": "Зависания инфоразвлекательной системы",
+        "brand": "rivian",
+        "model": "r1t",
+        "generation": "r1t_2021",
+        "urg": 2,
         "cat": "electrical"
       }
     ],
@@ -56684,6 +58668,24 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "lucid_air_003",
+        "title": "Не работает быстрая зарядка DC",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "lucid_air_009",
+        "title": "Зависание сенсорного экрана 34\"",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 2,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "mazda_3_bp_003",
         "title": "Расслоение дисплея мультимедийной системы (CMU)",
         "brand": "mazda",
@@ -56727,6 +58729,15 @@
         "generation": "c5_gen1_2022",
         "urg": 2,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "rivian_r1t_010",
+        "title": "Сбои Body Control Module",
+        "brand": "rivian",
+        "model": "r1t",
+        "generation": "r1t_2021",
+        "urg": 3,
+        "cat": "body"
       },
       {
         "sit_id": "toyota_highlander_xu70_006",
@@ -56810,6 +58821,26 @@
         "brand": "jac",
         "model": "js4",
         "generation": "js4_gen1_2019",
+        "urg": 2,
+        "cat": "electrical"
+      }
+    ],
+    "U0170": [
+      {
+        "sit_id": "rivian_r1s_009",
+        "title": "Зависание мультимедиа",
+        "brand": "rivian",
+        "model": "r1s",
+        "generation": "r1s_2022",
+        "urg": 2,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "rivian_r1t_009",
+        "title": "Зависания инфоразвлекательной системы",
+        "brand": "rivian",
+        "model": "r1t",
+        "generation": "r1t_2021",
         "urg": 2,
         "cat": "electrical"
       }
@@ -56944,6 +58975,15 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "rivian_r1s_009",
+        "title": "Зависание мультимедиа",
+        "brand": "rivian",
+        "model": "r1s",
+        "generation": "r1s_2022",
+        "urg": 2,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "tesla_m3_001",
         "title": "Ghost touch на сенсорном экране MCU (фантомные нажатия)",
         "brand": "tesla",
@@ -57011,6 +59051,17 @@
         "cat": "electrical"
       }
     ],
+    "U0194": [
+      {
+        "sit_id": "rivian_r1s_007",
+        "title": "Уход калибровки ADAS",
+        "brand": "rivian",
+        "model": "r1s",
+        "generation": "r1s_2022",
+        "urg": 3,
+        "cat": "electrical"
+      }
+    ],
     "U0198": [
       {
         "sit_id": "lr_rr_sport_l494_008",
@@ -57064,6 +59115,17 @@
         "cat": "electrical"
       }
     ],
+    "U0234": [
+      {
+        "sit_id": "rivian_r1s_006",
+        "title": "Неработающий датчик дверной ручки",
+        "brand": "rivian",
+        "model": "r1s",
+        "generation": "r1s_2022",
+        "urg": 3,
+        "cat": "body"
+      }
+    ],
     "U0235": [
       {
         "sit_id": "lexus_es_xv70_005",
@@ -57080,6 +59142,24 @@
         "brand": "lexus",
         "model": "rx",
         "generation": "al20_2015",
+        "urg": 2,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "lucid_air_007",
+        "title": "Расслоение панорамной крыши",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 2,
+        "cat": "body"
+      },
+      {
+        "sit_id": "lucid_air_009",
+        "title": "Зависание сенсорного экрана 34\"",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
         "urg": 2,
         "cat": "electrical"
       },
@@ -57129,6 +59209,17 @@
         "generation": "xv70_2018",
         "urg": 2,
         "cat": "body"
+      }
+    ],
+    "U023F": [
+      {
+        "sit_id": "rivian_r1s_007",
+        "title": "Уход калибровки ADAS",
+        "brand": "rivian",
+        "model": "r1s",
+        "generation": "r1s_2022",
+        "urg": 3,
+        "cat": "electrical"
       }
     ],
     "U0253": [
@@ -57439,6 +59530,15 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "lucid_air_006",
+        "title": "Некорректная работа рекуперативного торможения",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 2,
+        "cat": "brakes"
+      },
+      {
         "sit_id": "mazda_6_gj_010",
         "title": "Стук в рулевой рейке (ЭУР) при проезде неровностей",
         "brand": "mazda",
@@ -57632,6 +59732,24 @@
       }
     ],
     "U0447": [
+      {
+        "sit_id": "lucid_air_002",
+        "title": "Перегрев инвертора заднего мотора",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "lucid_air_009",
+        "title": "Зависание сенсорного экрана 34\"",
+        "brand": "lucid",
+        "model": "air",
+        "generation": "air_2021",
+        "urg": 2,
+        "cat": "electrical"
+      },
       {
         "sit_id": "mercedes_amg_gt_c192_005",
         "title": "Неисправность ISG (интегрированный стартер-генератор)",

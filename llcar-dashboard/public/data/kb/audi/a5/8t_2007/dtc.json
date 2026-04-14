@@ -1,0 +1,62 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 8,
+  "codes": {
+    "P17BF": {
+      "count": 1,
+      "situations": [
+        "audi_a5_8t_002"
+      ],
+      "category": "transmission"
+    },
+    "P189E": {
+      "count": 1,
+      "situations": [
+        "audi_a5_8t_002"
+      ],
+      "category": "engine"
+    },
+    "P0826": {
+      "count": 1,
+      "situations": [
+        "audi_a5_8t_002"
+      ],
+      "category": "engine"
+    },
+    "P0300": {
+      "count": 1,
+      "situations": [
+        "audi_a5_8t_003"
+      ],
+      "category": "engine"
+    },
+    "P0301": {
+      "count": 1,
+      "situations": [
+        "audi_a5_8t_003"
+      ],
+      "category": "engine"
+    },
+    "01771": {
+      "count": 1,
+      "situations": [
+        "audi_a5_8t_007"
+      ],
+      "category": "unknown"
+    },
+    "01772": {
+      "count": 1,
+      "situations": [
+        "audi_a5_8t_007"
+      ],
+      "category": "unknown"
+    },
+    "01773": {
+      "count": 1,
+      "situations": [
+        "audi_a5_8t_007"
+      ],
+      "category": "unknown"
+    }
+  }
+}

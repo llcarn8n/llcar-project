@@ -1,0 +1,196 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 27,
+  "codes": {
+    "P0171": {
+      "count": 2,
+      "situations": [
+        "hyundai_solaris_rb_004",
+        "hyundai_solaris_rb_009"
+      ],
+      "category": "engine"
+    },
+    "P0420": {
+      "count": 1,
+      "situations": [
+        "hyundai_solaris_rb_001"
+      ],
+      "category": "engine"
+    },
+    "P0300": {
+      "count": 1,
+      "situations": [
+        "hyundai_solaris_rb_001"
+      ],
+      "category": "engine"
+    },
+    "P0301": {
+      "count": 1,
+      "situations": [
+        "hyundai_solaris_rb_001"
+      ],
+      "category": "engine"
+    },
+    "P0302": {
+      "count": 1,
+      "situations": [
+        "hyundai_solaris_rb_001"
+      ],
+      "category": "engine"
+    },
+    "P0303": {
+      "count": 1,
+      "situations": [
+        "hyundai_solaris_rb_001"
+      ],
+      "category": "engine"
+    },
+    "P0304": {
+      "count": 1,
+      "situations": [
+        "hyundai_solaris_rb_001"
+      ],
+      "category": "engine"
+    },
+    "P0011": {
+      "count": 1,
+      "situations": [
+        "hyundai_solaris_rb_002"
+      ],
+      "category": "engine"
+    },
+    "P0014": {
+      "count": 1,
+      "situations": [
+        "hyundai_solaris_rb_002"
+      ],
+      "category": "engine"
+    },
+    "P0340": {
+      "count": 1,
+      "situations": [
+        "hyundai_solaris_rb_002"
+      ],
+      "category": "engine"
+    },
+    "P0341": {
+      "count": 1,
+      "situations": [
+        "hyundai_solaris_rb_002"
+      ],
+      "category": "engine"
+    },
+    "P0715": {
+      "count": 1,
+      "situations": [
+        "hyundai_solaris_rb_003"
+      ],
+      "category": "transmission"
+    },
+    "P0731": {
+      "count": 1,
+      "situations": [
+        "hyundai_solaris_rb_003"
+      ],
+      "category": "transmission"
+    },
+    "P0732": {
+      "count": 1,
+      "situations": [
+        "hyundai_solaris_rb_003"
+      ],
+      "category": "transmission"
+    },
+    "P0733": {
+      "count": 1,
+      "situations": [
+        "hyundai_solaris_rb_003"
+      ],
+      "category": "transmission"
+    },
+    "P0734": {
+      "count": 1,
+      "situations": [
+        "hyundai_solaris_rb_003"
+      ],
+      "category": "transmission"
+    },
+    "P0750": {
+      "count": 1,
+      "situations": [
+        "hyundai_solaris_rb_003"
+      ],
+      "category": "transmission"
+    },
+    "P0944": {
+      "count": 1,
+      "situations": [
+        "hyundai_solaris_rb_003"
+      ],
+      "category": "engine"
+    },
+    "P0505": {
+      "count": 1,
+      "situations": [
+        "hyundai_solaris_rb_004"
+      ],
+      "category": "engine"
+    },
+    "P0507": {
+      "count": 1,
+      "situations": [
+        "hyundai_solaris_rb_004"
+      ],
+      "category": "engine"
+    },
+    "C1609": {
+      "count": 1,
+      "situations": [
+        "hyundai_solaris_rb_006"
+      ],
+      "category": "chassis"
+    },
+    "C1622": {
+      "count": 1,
+      "situations": [
+        "hyundai_solaris_rb_006"
+      ],
+      "category": "chassis"
+    },
+    "U0100": {
+      "count": 1,
+      "situations": [
+        "hyundai_solaris_rb_006"
+      ],
+      "category": "network"
+    },
+    "C1209": {
+      "count": 1,
+      "situations": [
+        "hyundai_solaris_rb_007"
+      ],
+      "category": "chassis"
+    },
+    "C1210": {
+      "count": 1,
+      "situations": [
+        "hyundai_solaris_rb_007"
+      ],
+      "category": "chassis"
+    },
+    "P0087": {
+      "count": 1,
+      "situations": [
+        "hyundai_solaris_rb_009"
+      ],
+      "category": "engine"
+    },
+    "P0230": {
+      "count": 1,
+      "situations": [
+        "hyundai_solaris_rb_009"
+      ],
+      "category": "engine"
+    }
+  }
+}

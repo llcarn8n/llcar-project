@@ -1,0 +1,195 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 27,
+  "codes": {
+    "P0471": {
+      "count": 1,
+      "situations": [
+        "mitsu_pajero_ks_001"
+      ],
+      "category": "engine"
+    },
+    "P242F": {
+      "count": 1,
+      "situations": [
+        "mitsu_pajero_ks_001"
+      ],
+      "category": "engine"
+    },
+    "P2463": {
+      "count": 1,
+      "situations": [
+        "mitsu_pajero_ks_001"
+      ],
+      "category": "engine"
+    },
+    "P0400": {
+      "count": 1,
+      "situations": [
+        "mitsu_pajero_ks_002"
+      ],
+      "category": "engine"
+    },
+    "P0401": {
+      "count": 1,
+      "situations": [
+        "mitsu_pajero_ks_002"
+      ],
+      "category": "engine"
+    },
+    "P0403": {
+      "count": 1,
+      "situations": [
+        "mitsu_pajero_ks_002"
+      ],
+      "category": "engine"
+    },
+    "P0300": {
+      "count": 1,
+      "situations": [
+        "mitsu_pajero_ks_003"
+      ],
+      "category": "engine"
+    },
+    "P0301": {
+      "count": 1,
+      "situations": [
+        "mitsu_pajero_ks_003"
+      ],
+      "category": "engine"
+    },
+    "P0171": {
+      "count": 1,
+      "situations": [
+        "mitsu_pajero_ks_003"
+      ],
+      "category": "engine"
+    },
+    "P0730": {
+      "count": 1,
+      "situations": [
+        "mitsu_pajero_ks_004"
+      ],
+      "category": "transmission"
+    },
+    "P0715": {
+      "count": 1,
+      "situations": [
+        "mitsu_pajero_ks_004"
+      ],
+      "category": "transmission"
+    },
+    "P0756": {
+      "count": 1,
+      "situations": [
+        "mitsu_pajero_ks_004"
+      ],
+      "category": "transmission"
+    },
+    "P0746": {
+      "count": 1,
+      "situations": [
+        "mitsu_pajero_ks_004"
+      ],
+      "category": "transmission"
+    },
+    "P1790": {
+      "count": 1,
+      "situations": [
+        "mitsu_pajero_ks_005"
+      ],
+      "category": "transmission"
+    },
+    "P1780": {
+      "count": 1,
+      "situations": [
+        "mitsu_pajero_ks_005"
+      ],
+      "category": "transmission"
+    },
+    "C1235": {
+      "count": 1,
+      "situations": [
+        "mitsu_pajero_ks_005"
+      ],
+      "category": "chassis"
+    },
+    "C1550": {
+      "count": 1,
+      "situations": [
+        "mitsu_pajero_ks_006"
+      ],
+      "category": "chassis"
+    },
+    "C1501": {
+      "count": 1,
+      "situations": [
+        "mitsu_pajero_ks_006"
+      ],
+      "category": "chassis"
+    },
+    "C1017": {
+      "count": 1,
+      "situations": [
+        "mitsu_pajero_ks_007"
+      ],
+      "category": "chassis"
+    },
+    "P0504": {
+      "count": 1,
+      "situations": [
+        "mitsu_pajero_ks_007"
+      ],
+      "category": "engine"
+    },
+    "P0562": {
+      "count": 1,
+      "situations": [
+        "mitsu_pajero_ks_008"
+      ],
+      "category": "engine"
+    },
+    "P065B": {
+      "count": 1,
+      "situations": [
+        "mitsu_pajero_ks_008"
+      ],
+      "category": "engine"
+    },
+    "P1648": {
+      "count": 1,
+      "situations": [
+        "mitsu_pajero_ks_008"
+      ],
+      "category": "engine"
+    },
+    "P0115": {
+      "count": 1,
+      "situations": [
+        "mitsu_pajero_ks_010"
+      ],
+      "category": "engine"
+    },
+    "P0118": {
+      "count": 1,
+      "situations": [
+        "mitsu_pajero_ks_010"
+      ],
+      "category": "engine"
+    },
+    "P0125": {
+      "count": 1,
+      "situations": [
+        "mitsu_pajero_ks_010"
+      ],
+      "category": "engine"
+    },
+    "P1250": {
+      "count": 1,
+      "situations": [
+        "mitsu_pajero_ks_010"
+      ],
+      "category": "engine"
+    }
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 49,
+  "codes": {
+    "C104500": {
+      "count": 2,
+      "situations": [
+        "audi_rs6_c8_005",
+        "audi_rs6_c8_009"
+      ],
+      "category": "chassis"
+    },
+    "C111800": {
+      "count": 2,
+      "situations": [
+        "audi_rs6_c8_005",
+        "audi_rs6_c8_009"
+      ],
+      "category": "chassis"
+    },
+    "P0A80": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_001"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A7F": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_001"
+      ],
+      "category": "hv_electric"
+    },
+    "U140300": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_001"
+      ],
+      "category": "network"
+    },
+    "P253400": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_001"
+      ],
+      "category": "engine"
+    },
+    "U140000": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_001"
+      ],
+      "category": "network"
+    },
+    "P029900": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_002"
+      ],
+      "category": "engine"
+    },
+    "P023400": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_002"
+      ],
+      "category": "engine"
+    },
+    "P024500": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_002"
+      ],
+      "category": "engine"
+    },
+    "P00AF00": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_002"
+      ],
+      "category": "engine"
+    },
+    "P023600": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_002"
+      ],
+      "category": "engine"
+    },
+    "P073400": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_003"
+      ],
+      "category": "transmission"
+    },
+    "P174F00": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_003"
+      ],
+      "category": "transmission"
+    },
+    "P179E00": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_003"
+      ],
+      "category": "transmission"
+    },
+    "P179D00": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_003"
+      ],
+      "category": "transmission"
+    },
+    "P270900": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_003"
+      ],
+      "category": "engine"
+    },
+    "P071700": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_003"
+      ],
+      "category": "transmission"
+    },
+    "P052600": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_004"
+      ],
+      "category": "engine"
+    },
+    "P052400": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_004"
+      ],
+      "category": "engine"
+    },
+    "P052000": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_004"
+      ],
+      "category": "engine"
+    },
+    "P344100": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_004"
+      ],
+      "category": "engine"
+    },
+    "P344900": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_004"
+      ],
+      "category": "engine"
+    },
+    "P349700": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_004"
+      ],
+      "category": "engine"
+    },
+    "C111D00": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_005"
+      ],
+      "category": "chassis"
+    },
+    "C111C00": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_005"
+      ],
+      "category": "chassis"
+    },
+    "C105200": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_005"
+      ],
+      "category": "chassis"
+    },
+    "P042000": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_006"
+      ],
+      "category": "engine"
+    },
+    "P043000": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_006"
+      ],
+      "category": "engine"
+    },
+    "P030100": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_006"
+      ],
+      "category": "engine"
+    },
+    "P030200": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_006"
+      ],
+      "category": "engine"
+    },
+    "P017100": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_006"
+      ],
+      "category": "engine"
+    },
+    "P017200": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_006"
+      ],
+      "category": "engine"
+    },
+    "P048000": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_007"
+      ],
+      "category": "engine"
+    },
+    "P011800": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_007"
+      ],
+      "category": "engine"
+    },
+    "P012800": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_007"
+      ],
+      "category": "engine"
+    },
+    "P048700": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_007"
+      ],
+      "category": "engine"
+    },
+    "P048900": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_007"
+      ],
+      "category": "engine"
+    },
+    "U041600": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_007"
+      ],
+      "category": "network"
+    },
+    "P220000": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_008"
+      ],
+      "category": "engine"
+    },
+    "P220200": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_008"
+      ],
+      "category": "engine"
+    },
+    "P220100": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_008"
+      ],
+      "category": "engine"
+    },
+    "P13E700": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_008"
+      ],
+      "category": "engine"
+    },
+    "P20EE00": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_008"
+      ],
+      "category": "engine"
+    },
+    "P204700": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_008"
+      ],
+      "category": "engine"
+    },
+    "P204800": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_008"
+      ],
+      "category": "engine"
+    },
+    "C111A00": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_009"
+      ],
+      "category": "chassis"
+    },
+    "C105800": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_009"
+      ],
+      "category": "chassis"
+    },
+    "C104B00": {
+      "count": 1,
+      "situations": [
+        "audi_rs6_c8_009"
+      ],
+      "category": "chassis"
+    }
+  }
+}

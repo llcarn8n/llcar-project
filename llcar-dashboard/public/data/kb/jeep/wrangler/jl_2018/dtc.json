@@ -1,0 +1,55 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 7,
+  "codes": {
+    "P0302": {
+      "count": 1,
+      "situations": [
+        "jeep_wrangler_jl_001"
+      ],
+      "category": "engine"
+    },
+    "P0171": {
+      "count": 1,
+      "situations": [
+        "jeep_wrangler_jl_001"
+      ],
+      "category": "engine"
+    },
+    "P0700": {
+      "count": 1,
+      "situations": [
+        "jeep_wrangler_jl_003"
+      ],
+      "category": "transmission"
+    },
+    "P0731": {
+      "count": 1,
+      "situations": [
+        "jeep_wrangler_jl_003"
+      ],
+      "category": "transmission"
+    },
+    "P0733": {
+      "count": 1,
+      "situations": [
+        "jeep_wrangler_jl_003"
+      ],
+      "category": "transmission"
+    },
+    "C1A00": {
+      "count": 1,
+      "situations": [
+        "jeep_wrangler_jl_009"
+      ],
+      "category": "chassis"
+    },
+    "C1A01": {
+      "count": 1,
+      "situations": [
+        "jeep_wrangler_jl_009"
+      ],
+      "category": "chassis"
+    }
+  }
+}

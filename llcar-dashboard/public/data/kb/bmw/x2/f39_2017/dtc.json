@@ -1,0 +1,125 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 17,
+  "codes": {
+    "P17BF": {
+      "count": 1,
+      "situations": [
+        "bmw_x2_f39_001"
+      ],
+      "category": "transmission"
+    },
+    "P17C0": {
+      "count": 1,
+      "situations": [
+        "bmw_x2_f39_001"
+      ],
+      "category": "transmission"
+    },
+    "P0894": {
+      "count": 1,
+      "situations": [
+        "bmw_x2_f39_001"
+      ],
+      "category": "engine"
+    },
+    "P0302": {
+      "count": 1,
+      "situations": [
+        "bmw_x2_f39_002"
+      ],
+      "category": "engine"
+    },
+    "P0303": {
+      "count": 1,
+      "situations": [
+        "bmw_x2_f39_002"
+      ],
+      "category": "engine"
+    },
+    "P0217": {
+      "count": 1,
+      "situations": [
+        "bmw_x2_f39_003"
+      ],
+      "category": "engine"
+    },
+    "P0480": {
+      "count": 1,
+      "situations": [
+        "bmw_x2_f39_003"
+      ],
+      "category": "engine"
+    },
+    "C0710": {
+      "count": 1,
+      "situations": [
+        "bmw_x2_f39_004"
+      ],
+      "category": "chassis"
+    },
+    "C0455": {
+      "count": 1,
+      "situations": [
+        "bmw_x2_f39_004"
+      ],
+      "category": "chassis"
+    },
+    "A8A2F": {
+      "count": 1,
+      "situations": [
+        "bmw_x2_f39_005"
+      ],
+      "category": "unknown"
+    },
+    "A8A30": {
+      "count": 1,
+      "situations": [
+        "bmw_x2_f39_005"
+      ],
+      "category": "unknown"
+    },
+    "280400": {
+      "count": 1,
+      "situations": [
+        "bmw_x2_f39_005"
+      ],
+      "category": "unknown"
+    },
+    "A463D": {
+      "count": 1,
+      "situations": [
+        "bmw_x2_f39_009"
+      ],
+      "category": "unknown"
+    },
+    "A463E": {
+      "count": 1,
+      "situations": [
+        "bmw_x2_f39_009"
+      ],
+      "category": "unknown"
+    },
+    "P0299": {
+      "count": 1,
+      "situations": [
+        "bmw_x2_f39_010"
+      ],
+      "category": "engine"
+    },
+    "P0101": {
+      "count": 1,
+      "situations": [
+        "bmw_x2_f39_010"
+      ],
+      "category": "engine"
+    },
+    "P0102": {
+      "count": 1,
+      "situations": [
+        "bmw_x2_f39_010"
+      ],
+      "category": "engine"
+    }
+  }
+}

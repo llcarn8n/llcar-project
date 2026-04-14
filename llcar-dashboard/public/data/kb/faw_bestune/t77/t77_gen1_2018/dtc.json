@@ -1,0 +1,55 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 7,
+  "codes": {
+    "P0811": {
+      "count": 1,
+      "situations": [
+        "faw_bestune_t77_t77_gen1_2018_001"
+      ],
+      "category": "engine"
+    },
+    "P0830": {
+      "count": 1,
+      "situations": [
+        "faw_bestune_t77_t77_gen1_2018_001"
+      ],
+      "category": "engine"
+    },
+    "U0155": {
+      "count": 1,
+      "situations": [
+        "faw_bestune_t77_t77_gen1_2018_003"
+      ],
+      "category": "network"
+    },
+    "P0016": {
+      "count": 1,
+      "situations": [
+        "faw_bestune_t77_t77_gen1_2018_004"
+      ],
+      "category": "engine"
+    },
+    "P0017": {
+      "count": 1,
+      "situations": [
+        "faw_bestune_t77_t77_gen1_2018_004"
+      ],
+      "category": "engine"
+    },
+    "P0087": {
+      "count": 1,
+      "situations": [
+        "faw_bestune_t77_t77_gen1_2018_007"
+      ],
+      "category": "engine"
+    },
+    "B1400": {
+      "count": 1,
+      "situations": [
+        "faw_bestune_t77_t77_gen1_2018_008"
+      ],
+      "category": "body"
+    }
+  }
+}

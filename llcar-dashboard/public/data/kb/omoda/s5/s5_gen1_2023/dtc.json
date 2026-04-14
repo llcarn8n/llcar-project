@@ -1,0 +1,41 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 5,
+  "codes": {
+    "P0700": {
+      "count": 1,
+      "situations": [
+        "omoda_s5_s5_gen1_2023_001"
+      ],
+      "category": "transmission"
+    },
+    "P0846": {
+      "count": 1,
+      "situations": [
+        "omoda_s5_s5_gen1_2023_001"
+      ],
+      "category": "engine"
+    },
+    "P0171": {
+      "count": 1,
+      "situations": [
+        "omoda_s5_s5_gen1_2023_003"
+      ],
+      "category": "engine"
+    },
+    "P0131": {
+      "count": 1,
+      "situations": [
+        "omoda_s5_s5_gen1_2023_007"
+      ],
+      "category": "engine"
+    },
+    "P0137": {
+      "count": 1,
+      "situations": [
+        "omoda_s5_s5_gen1_2023_007"
+      ],
+      "category": "engine"
+    }
+  }
+}

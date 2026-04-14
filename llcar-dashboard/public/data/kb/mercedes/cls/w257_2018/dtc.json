@@ -1,0 +1,90 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 12,
+  "codes": {
+    "U1207": {
+      "count": 1,
+      "situations": [
+        "merc_cls_w257_001"
+      ],
+      "category": "network"
+    },
+    "B2A0101": {
+      "count": 1,
+      "situations": [
+        "merc_cls_w257_001"
+      ],
+      "category": "body"
+    },
+    "B2A0203": {
+      "count": 1,
+      "situations": [
+        "merc_cls_w257_001"
+      ],
+      "category": "body"
+    },
+    "P0730": {
+      "count": 1,
+      "situations": [
+        "merc_cls_w257_002"
+      ],
+      "category": "transmission"
+    },
+    "P0700": {
+      "count": 1,
+      "situations": [
+        "merc_cls_w257_002"
+      ],
+      "category": "transmission"
+    },
+    "7E6001": {
+      "count": 1,
+      "situations": [
+        "merc_cls_w257_002"
+      ],
+      "category": "unknown"
+    },
+    "A80201": {
+      "count": 1,
+      "situations": [
+        "merc_cls_w257_005"
+      ],
+      "category": "unknown"
+    },
+    "A80302": {
+      "count": 1,
+      "situations": [
+        "merc_cls_w257_005"
+      ],
+      "category": "unknown"
+    },
+    "C0031": {
+      "count": 1,
+      "situations": [
+        "merc_cls_w257_005"
+      ],
+      "category": "chassis"
+    },
+    "60CC01": {
+      "count": 1,
+      "situations": [
+        "merc_cls_w257_007"
+      ],
+      "category": "unknown"
+    },
+    "60D002": {
+      "count": 1,
+      "situations": [
+        "merc_cls_w257_007"
+      ],
+      "category": "unknown"
+    },
+    "U1A0001": {
+      "count": 1,
+      "situations": [
+        "merc_cls_w257_008"
+      ],
+      "category": "network"
+    }
+  }
+}

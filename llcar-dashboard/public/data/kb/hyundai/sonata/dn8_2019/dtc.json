@@ -1,0 +1,175 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 24,
+  "codes": {
+    "P0300": {
+      "count": 2,
+      "situations": [
+        "hyundai_sonata_dn8_002",
+        "hyundai_sonata_dn8_005"
+      ],
+      "category": "engine"
+    },
+    "P0420": {
+      "count": 1,
+      "situations": [
+        "hyundai_sonata_dn8_001"
+      ],
+      "category": "engine"
+    },
+    "P0430": {
+      "count": 1,
+      "situations": [
+        "hyundai_sonata_dn8_001"
+      ],
+      "category": "engine"
+    },
+    "P0301": {
+      "count": 1,
+      "situations": [
+        "hyundai_sonata_dn8_002"
+      ],
+      "category": "engine"
+    },
+    "P0302": {
+      "count": 1,
+      "situations": [
+        "hyundai_sonata_dn8_002"
+      ],
+      "category": "engine"
+    },
+    "P0303": {
+      "count": 1,
+      "situations": [
+        "hyundai_sonata_dn8_002"
+      ],
+      "category": "engine"
+    },
+    "P0304": {
+      "count": 1,
+      "situations": [
+        "hyundai_sonata_dn8_002"
+      ],
+      "category": "engine"
+    },
+    "P0715": {
+      "count": 1,
+      "situations": [
+        "hyundai_sonata_dn8_003"
+      ],
+      "category": "transmission"
+    },
+    "P0745": {
+      "count": 1,
+      "situations": [
+        "hyundai_sonata_dn8_003"
+      ],
+      "category": "transmission"
+    },
+    "P0872": {
+      "count": 1,
+      "situations": [
+        "hyundai_sonata_dn8_003"
+      ],
+      "category": "engine"
+    },
+    "P0733": {
+      "count": 1,
+      "situations": [
+        "hyundai_sonata_dn8_004"
+      ],
+      "category": "transmission"
+    },
+    "P0734": {
+      "count": 1,
+      "situations": [
+        "hyundai_sonata_dn8_004"
+      ],
+      "category": "transmission"
+    },
+    "P0750": {
+      "count": 1,
+      "situations": [
+        "hyundai_sonata_dn8_004"
+      ],
+      "category": "transmission"
+    },
+    "P0171": {
+      "count": 1,
+      "situations": [
+        "hyundai_sonata_dn8_005"
+      ],
+      "category": "engine"
+    },
+    "P0011": {
+      "count": 1,
+      "situations": [
+        "hyundai_sonata_dn8_006"
+      ],
+      "category": "engine"
+    },
+    "P0014": {
+      "count": 1,
+      "situations": [
+        "hyundai_sonata_dn8_006"
+      ],
+      "category": "engine"
+    },
+    "P0521": {
+      "count": 1,
+      "situations": [
+        "hyundai_sonata_dn8_006"
+      ],
+      "category": "engine"
+    },
+    "C1A00": {
+      "count": 1,
+      "situations": [
+        "hyundai_sonata_dn8_008"
+      ],
+      "category": "chassis"
+    },
+    "C1207": {
+      "count": 1,
+      "situations": [
+        "hyundai_sonata_dn8_008"
+      ],
+      "category": "chassis"
+    },
+    "U0073": {
+      "count": 1,
+      "situations": [
+        "hyundai_sonata_dn8_009"
+      ],
+      "category": "network"
+    },
+    "U0100": {
+      "count": 1,
+      "situations": [
+        "hyundai_sonata_dn8_009"
+      ],
+      "category": "network"
+    },
+    "B13A1": {
+      "count": 1,
+      "situations": [
+        "hyundai_sonata_dn8_009"
+      ],
+      "category": "body"
+    },
+    "B1600": {
+      "count": 1,
+      "situations": [
+        "hyundai_sonata_dn8_010"
+      ],
+      "category": "body"
+    },
+    "B16XX": {
+      "count": 1,
+      "situations": [
+        "hyundai_sonata_dn8_010"
+      ],
+      "category": "body"
+    }
+  }
+}

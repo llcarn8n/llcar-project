@@ -1,0 +1,183 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 25,
+  "codes": {
+    "U0100": {
+      "count": 3,
+      "situations": [
+        "hyundai_tucson_nx4_panoramic_camera_glitch",
+        "hyundai_tucson_nx4_ambient_light_led_failure",
+        "hyundai_tucson_nx4_battery_drain_infotainment"
+      ],
+      "category": "network"
+    },
+    "P0703": {
+      "count": 1,
+      "situations": [
+        "hyundai_tucson_nx4_8dct_jerk_cold"
+      ],
+      "category": "transmission"
+    },
+    "P1711": {
+      "count": 1,
+      "situations": [
+        "hyundai_tucson_nx4_8dct_jerk_cold"
+      ],
+      "category": "transmission"
+    },
+    "P1777": {
+      "count": 1,
+      "situations": [
+        "hyundai_tucson_nx4_8dct_jerk_cold"
+      ],
+      "category": "transmission"
+    },
+    "P0300": {
+      "count": 1,
+      "situations": [
+        "hyundai_tucson_nx4_g4kh_engine_vibration"
+      ],
+      "category": "engine"
+    },
+    "P0301": {
+      "count": 1,
+      "situations": [
+        "hyundai_tucson_nx4_g4kh_engine_vibration"
+      ],
+      "category": "engine"
+    },
+    "P0302": {
+      "count": 1,
+      "situations": [
+        "hyundai_tucson_nx4_g4kh_engine_vibration"
+      ],
+      "category": "engine"
+    },
+    "P0303": {
+      "count": 1,
+      "situations": [
+        "hyundai_tucson_nx4_g4kh_engine_vibration"
+      ],
+      "category": "engine"
+    },
+    "P0304": {
+      "count": 1,
+      "situations": [
+        "hyundai_tucson_nx4_g4kh_engine_vibration"
+      ],
+      "category": "engine"
+    },
+    "C1610": {
+      "count": 1,
+      "situations": [
+        "hyundai_tucson_nx4_blind_spot_radar_fault"
+      ],
+      "category": "chassis"
+    },
+    "C1611": {
+      "count": 1,
+      "situations": [
+        "hyundai_tucson_nx4_blind_spot_radar_fault"
+      ],
+      "category": "chassis"
+    },
+    "C1620": {
+      "count": 1,
+      "situations": [
+        "hyundai_tucson_nx4_blind_spot_radar_fault"
+      ],
+      "category": "chassis"
+    },
+    "U023A": {
+      "count": 1,
+      "situations": [
+        "hyundai_tucson_nx4_panoramic_camera_glitch"
+      ],
+      "category": "network"
+    },
+    "B1615": {
+      "count": 1,
+      "situations": [
+        "hyundai_tucson_nx4_panoramic_camera_glitch"
+      ],
+      "category": "body"
+    },
+    "P0128": {
+      "count": 1,
+      "situations": [
+        "hyundai_tucson_nx4_2l_mpi_water_pump_failure"
+      ],
+      "category": "engine"
+    },
+    "P0217": {
+      "count": 1,
+      "situations": [
+        "hyundai_tucson_nx4_2l_mpi_water_pump_failure"
+      ],
+      "category": "engine"
+    },
+    "P0219": {
+      "count": 1,
+      "situations": [
+        "hyundai_tucson_nx4_2l_mpi_water_pump_failure"
+      ],
+      "category": "engine"
+    },
+    "P2002": {
+      "count": 1,
+      "situations": [
+        "hyundai_tucson_nx4_diesel_dpf_regen_issues"
+      ],
+      "category": "engine"
+    },
+    "P2459": {
+      "count": 1,
+      "situations": [
+        "hyundai_tucson_nx4_diesel_dpf_regen_issues"
+      ],
+      "category": "engine"
+    },
+    "P2463": {
+      "count": 1,
+      "situations": [
+        "hyundai_tucson_nx4_diesel_dpf_regen_issues"
+      ],
+      "category": "engine"
+    },
+    "P0481": {
+      "count": 1,
+      "situations": [
+        "hyundai_tucson_nx4_diesel_dpf_regen_issues"
+      ],
+      "category": "engine"
+    },
+    "B1617": {
+      "count": 1,
+      "situations": [
+        "hyundai_tucson_nx4_ambient_light_led_failure"
+      ],
+      "category": "body"
+    },
+    "B1618": {
+      "count": 1,
+      "situations": [
+        "hyundai_tucson_nx4_ambient_light_led_failure"
+      ],
+      "category": "body"
+    },
+    "B1477": {
+      "count": 1,
+      "situations": [
+        "hyundai_tucson_nx4_battery_drain_infotainment"
+      ],
+      "category": "body"
+    },
+    "U0140": {
+      "count": 1,
+      "situations": [
+        "hyundai_tucson_nx4_battery_drain_infotainment"
+      ],
+      "category": "network"
+    }
+  }
+}

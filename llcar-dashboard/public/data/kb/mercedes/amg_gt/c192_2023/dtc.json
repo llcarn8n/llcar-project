@@ -1,0 +1,335 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 47,
+  "codes": {
+    "P0A80": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_001"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A7F": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_001"
+      ],
+      "category": "hv_electric"
+    },
+    "P0AFA": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_001"
+      ],
+      "category": "hv_electric"
+    },
+    "U0467": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_001"
+      ],
+      "category": "network"
+    },
+    "P0730": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_002"
+      ],
+      "category": "transmission"
+    },
+    "P0715": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_002"
+      ],
+      "category": "transmission"
+    },
+    "P0750": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_002"
+      ],
+      "category": "transmission"
+    },
+    "P0894": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_002"
+      ],
+      "category": "engine"
+    },
+    "P2767": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_002"
+      ],
+      "category": "engine"
+    },
+    "P1876": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_003"
+      ],
+      "category": "engine"
+    },
+    "P1877": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_003"
+      ],
+      "category": "engine"
+    },
+    "P1882": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_003"
+      ],
+      "category": "engine"
+    },
+    "C1145": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_003"
+      ],
+      "category": "chassis"
+    },
+    "P0299": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_004"
+      ],
+      "category": "engine"
+    },
+    "P0234": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_004"
+      ],
+      "category": "engine"
+    },
+    "P0030": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_004"
+      ],
+      "category": "engine"
+    },
+    "P0045": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_004"
+      ],
+      "category": "engine"
+    },
+    "P2263": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_004"
+      ],
+      "category": "engine"
+    },
+    "P0A0B": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_005"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A0C": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_005"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A10": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_005"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A94": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_005"
+      ],
+      "category": "hv_electric"
+    },
+    "U0447": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_005"
+      ],
+      "category": "network"
+    },
+    "P0480": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_006"
+      ],
+      "category": "engine"
+    },
+    "P0481": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_006"
+      ],
+      "category": "engine"
+    },
+    "P04FF": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_006"
+      ],
+      "category": "engine"
+    },
+    "P0491": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_006"
+      ],
+      "category": "engine"
+    },
+    "C1130": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_007"
+      ],
+      "category": "chassis"
+    },
+    "C1135": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_007"
+      ],
+      "category": "chassis"
+    },
+    "C1140": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_007"
+      ],
+      "category": "chassis"
+    },
+    "C156C": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_007"
+      ],
+      "category": "chassis"
+    },
+    "C156D": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_007"
+      ],
+      "category": "chassis"
+    },
+    "P0300": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_008"
+      ],
+      "category": "engine"
+    },
+    "P0305": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_008"
+      ],
+      "category": "engine"
+    },
+    "P0306": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_008"
+      ],
+      "category": "engine"
+    },
+    "P0307": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_008"
+      ],
+      "category": "engine"
+    },
+    "P0308": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_008"
+      ],
+      "category": "engine"
+    },
+    "P0524": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_008"
+      ],
+      "category": "engine"
+    },
+    "P0A3F": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_009"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A81": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_009"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A82": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_009"
+      ],
+      "category": "hv_electric"
+    },
+    "P0AEC": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_009"
+      ],
+      "category": "hv_electric"
+    },
+    "C0035": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_010"
+      ],
+      "category": "chassis"
+    },
+    "C0040": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_010"
+      ],
+      "category": "chassis"
+    },
+    "C0045": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_010"
+      ],
+      "category": "chassis"
+    },
+    "C0205": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_010"
+      ],
+      "category": "chassis"
+    },
+    "C0278": {
+      "count": 1,
+      "situations": [
+        "mercedes_amg_gt_c192_010"
+      ],
+      "category": "chassis"
+    }
+  }
+}

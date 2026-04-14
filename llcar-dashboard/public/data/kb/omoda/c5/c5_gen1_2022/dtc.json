@@ -1,0 +1,48 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 6,
+  "codes": {
+    "P0700": {
+      "count": 1,
+      "situations": [
+        "omoda_c5_c5_gen1_2022_001"
+      ],
+      "category": "transmission"
+    },
+    "P0846": {
+      "count": 1,
+      "situations": [
+        "omoda_c5_c5_gen1_2022_001"
+      ],
+      "category": "engine"
+    },
+    "P0171": {
+      "count": 1,
+      "situations": [
+        "omoda_c5_c5_gen1_2022_002"
+      ],
+      "category": "engine"
+    },
+    "U0155": {
+      "count": 1,
+      "situations": [
+        "omoda_c5_c5_gen1_2022_003"
+      ],
+      "category": "network"
+    },
+    "B1400": {
+      "count": 1,
+      "situations": [
+        "omoda_c5_c5_gen1_2022_007"
+      ],
+      "category": "body"
+    },
+    "C0710": {
+      "count": 1,
+      "situations": [
+        "omoda_c5_c5_gen1_2022_010"
+      ],
+      "category": "chassis"
+    }
+  }
+}

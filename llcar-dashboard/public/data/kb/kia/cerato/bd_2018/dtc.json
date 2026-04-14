@@ -1,0 +1,162 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 22,
+  "codes": {
+    "P0011": {
+      "count": 2,
+      "situations": [
+        "kia_cerato_bd_001",
+        "kia_cerato_bd_010"
+      ],
+      "category": "engine"
+    },
+    "P0300": {
+      "count": 2,
+      "situations": [
+        "kia_cerato_bd_004",
+        "kia_cerato_bd_010"
+      ],
+      "category": "engine"
+    },
+    "P0014": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_bd_001"
+      ],
+      "category": "engine"
+    },
+    "P0524": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_bd_001"
+      ],
+      "category": "engine"
+    },
+    "P0750": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_bd_002"
+      ],
+      "category": "transmission"
+    },
+    "P0755": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_bd_002"
+      ],
+      "category": "transmission"
+    },
+    "P0760": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_bd_002"
+      ],
+      "category": "transmission"
+    },
+    "P0731": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_bd_002"
+      ],
+      "category": "transmission"
+    },
+    "P0732": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_bd_002"
+      ],
+      "category": "transmission"
+    },
+    "P0420": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_bd_004"
+      ],
+      "category": "engine"
+    },
+    "P0171": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_bd_004"
+      ],
+      "category": "engine"
+    },
+    "B1318": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_bd_005"
+      ],
+      "category": "body"
+    },
+    "P0562": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_bd_005"
+      ],
+      "category": "engine"
+    },
+    "P065B": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_bd_005"
+      ],
+      "category": "engine"
+    },
+    "B1338": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_bd_006"
+      ],
+      "category": "body"
+    },
+    "B1398": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_bd_006"
+      ],
+      "category": "body"
+    },
+    "B1312": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_bd_006"
+      ],
+      "category": "body"
+    },
+    "C1203": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_bd_007"
+      ],
+      "category": "chassis"
+    },
+    "C1213": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_bd_007"
+      ],
+      "category": "chassis"
+    },
+    "P0534": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_bd_009"
+      ],
+      "category": "engine"
+    },
+    "B1205": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_bd_009"
+      ],
+      "category": "body"
+    },
+    "P0303": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_bd_010"
+      ],
+      "category": "engine"
+    }
+  }
+}

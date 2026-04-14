@@ -1,0 +1,104 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 14,
+  "codes": {
+    "P0087": {
+      "count": 1,
+      "situations": [
+        "opel_insignia_b_2017_001"
+      ],
+      "category": "engine"
+    },
+    "P0093": {
+      "count": 1,
+      "situations": [
+        "opel_insignia_b_2017_001"
+      ],
+      "category": "engine"
+    },
+    "P0191": {
+      "count": 1,
+      "situations": [
+        "opel_insignia_b_2017_001"
+      ],
+      "category": "engine"
+    },
+    "C0072": {
+      "count": 1,
+      "situations": [
+        "opel_insignia_b_2017_002"
+      ],
+      "category": "chassis"
+    },
+    "C0073": {
+      "count": 1,
+      "situations": [
+        "opel_insignia_b_2017_002"
+      ],
+      "category": "chassis"
+    },
+    "C0074": {
+      "count": 1,
+      "situations": [
+        "opel_insignia_b_2017_002"
+      ],
+      "category": "chassis"
+    },
+    "P0700": {
+      "count": 1,
+      "situations": [
+        "opel_insignia_b_2017_003"
+      ],
+      "category": "transmission"
+    },
+    "P0731": {
+      "count": 1,
+      "situations": [
+        "opel_insignia_b_2017_003"
+      ],
+      "category": "transmission"
+    },
+    "C0034": {
+      "count": 1,
+      "situations": [
+        "opel_insignia_b_2017_005"
+      ],
+      "category": "chassis"
+    },
+    "P0400": {
+      "count": 1,
+      "situations": [
+        "opel_insignia_b_2017_006"
+      ],
+      "category": "engine"
+    },
+    "P0403": {
+      "count": 1,
+      "situations": [
+        "opel_insignia_b_2017_006"
+      ],
+      "category": "engine"
+    },
+    "P0404": {
+      "count": 1,
+      "situations": [
+        "opel_insignia_b_2017_006"
+      ],
+      "category": "engine"
+    },
+    "P2002": {
+      "count": 1,
+      "situations": [
+        "opel_insignia_b_2017_007"
+      ],
+      "category": "engine"
+    },
+    "P2458": {
+      "count": 1,
+      "situations": [
+        "opel_insignia_b_2017_007"
+      ],
+      "category": "engine"
+    }
+  }
+}

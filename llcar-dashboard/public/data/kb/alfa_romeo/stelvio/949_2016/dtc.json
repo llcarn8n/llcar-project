@@ -1,0 +1,76 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 10,
+  "codes": {
+    "P0520": {
+      "count": 1,
+      "situations": [
+        "alfa_romeo_stelvio_949_001"
+      ],
+      "category": "engine"
+    },
+    "P0524": {
+      "count": 1,
+      "situations": [
+        "alfa_romeo_stelvio_949_001"
+      ],
+      "category": "engine"
+    },
+    "P0700": {
+      "count": 1,
+      "situations": [
+        "alfa_romeo_stelvio_949_002"
+      ],
+      "category": "transmission"
+    },
+    "P0733": {
+      "count": 1,
+      "situations": [
+        "alfa_romeo_stelvio_949_002"
+      ],
+      "category": "transmission"
+    },
+    "P0729": {
+      "count": 1,
+      "situations": [
+        "alfa_romeo_stelvio_949_002"
+      ],
+      "category": "transmission"
+    },
+    "C0000": {
+      "count": 1,
+      "situations": [
+        "alfa_romeo_stelvio_949_003"
+      ],
+      "category": "chassis"
+    },
+    "C1214": {
+      "count": 1,
+      "situations": [
+        "alfa_romeo_stelvio_949_004"
+      ],
+      "category": "chassis"
+    },
+    "C1130": {
+      "count": 1,
+      "situations": [
+        "alfa_romeo_stelvio_949_004"
+      ],
+      "category": "chassis"
+    },
+    "P0300": {
+      "count": 1,
+      "situations": [
+        "alfa_romeo_stelvio_949_005"
+      ],
+      "category": "engine"
+    },
+    "P0171": {
+      "count": 1,
+      "situations": [
+        "alfa_romeo_stelvio_949_005"
+      ],
+      "category": "engine"
+    }
+  }
+}

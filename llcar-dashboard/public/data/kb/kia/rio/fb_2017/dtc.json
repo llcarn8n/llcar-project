@@ -1,0 +1,250 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 34,
+  "codes": {
+    "P0300": {
+      "count": 2,
+      "situations": [
+        "kia_rio_fb_001",
+        "kia_rio_fb_003"
+      ],
+      "category": "engine"
+    },
+    "P0301": {
+      "count": 2,
+      "situations": [
+        "kia_rio_fb_001",
+        "kia_rio_fb_003"
+      ],
+      "category": "engine"
+    },
+    "P0302": {
+      "count": 2,
+      "situations": [
+        "kia_rio_fb_001",
+        "kia_rio_fb_003"
+      ],
+      "category": "engine"
+    },
+    "P0303": {
+      "count": 2,
+      "situations": [
+        "kia_rio_fb_001",
+        "kia_rio_fb_003"
+      ],
+      "category": "engine"
+    },
+    "P0304": {
+      "count": 2,
+      "situations": [
+        "kia_rio_fb_001",
+        "kia_rio_fb_003"
+      ],
+      "category": "engine"
+    },
+    "B1229": {
+      "count": 2,
+      "situations": [
+        "kia_rio_fb_004",
+        "kia_rio_fb_006"
+      ],
+      "category": "body"
+    },
+    "P0420": {
+      "count": 1,
+      "situations": [
+        "kia_rio_fb_001"
+      ],
+      "category": "engine"
+    },
+    "P0732": {
+      "count": 1,
+      "situations": [
+        "kia_rio_fb_002"
+      ],
+      "category": "transmission"
+    },
+    "P0733": {
+      "count": 1,
+      "situations": [
+        "kia_rio_fb_002"
+      ],
+      "category": "transmission"
+    },
+    "P0750": {
+      "count": 1,
+      "situations": [
+        "kia_rio_fb_002"
+      ],
+      "category": "transmission"
+    },
+    "P0755": {
+      "count": 1,
+      "situations": [
+        "kia_rio_fb_002"
+      ],
+      "category": "transmission"
+    },
+    "P0715": {
+      "count": 1,
+      "situations": [
+        "kia_rio_fb_002"
+      ],
+      "category": "transmission"
+    },
+    "P0717": {
+      "count": 1,
+      "situations": [
+        "kia_rio_fb_002"
+      ],
+      "category": "transmission"
+    },
+    "P0350": {
+      "count": 1,
+      "situations": [
+        "kia_rio_fb_003"
+      ],
+      "category": "engine"
+    },
+    "P0351": {
+      "count": 1,
+      "situations": [
+        "kia_rio_fb_003"
+      ],
+      "category": "engine"
+    },
+    "B1231": {
+      "count": 1,
+      "situations": [
+        "kia_rio_fb_006"
+      ],
+      "category": "body"
+    },
+    "B1235": {
+      "count": 1,
+      "situations": [
+        "kia_rio_fb_006"
+      ],
+      "category": "body"
+    },
+    "B1405": {
+      "count": 1,
+      "situations": [
+        "kia_rio_fb_006"
+      ],
+      "category": "body"
+    },
+    "P0116": {
+      "count": 1,
+      "situations": [
+        "kia_rio_fb_007"
+      ],
+      "category": "engine"
+    },
+    "P0117": {
+      "count": 1,
+      "situations": [
+        "kia_rio_fb_007"
+      ],
+      "category": "engine"
+    },
+    "P0125": {
+      "count": 1,
+      "situations": [
+        "kia_rio_fb_007"
+      ],
+      "category": "engine"
+    },
+    "P0126": {
+      "count": 1,
+      "situations": [
+        "kia_rio_fb_007"
+      ],
+      "category": "engine"
+    },
+    "P0128": {
+      "count": 1,
+      "situations": [
+        "kia_rio_fb_007"
+      ],
+      "category": "engine"
+    },
+    "C1502": {
+      "count": 1,
+      "situations": [
+        "kia_rio_fb_008"
+      ],
+      "category": "chassis"
+    },
+    "C1503": {
+      "count": 1,
+      "situations": [
+        "kia_rio_fb_008"
+      ],
+      "category": "chassis"
+    },
+    "C1604": {
+      "count": 1,
+      "situations": [
+        "kia_rio_fb_008"
+      ],
+      "category": "chassis"
+    },
+    "C1611": {
+      "count": 1,
+      "situations": [
+        "kia_rio_fb_008"
+      ],
+      "category": "chassis"
+    },
+    "C1201": {
+      "count": 1,
+      "situations": [
+        "kia_rio_fb_009"
+      ],
+      "category": "chassis"
+    },
+    "C1203": {
+      "count": 1,
+      "situations": [
+        "kia_rio_fb_009"
+      ],
+      "category": "chassis"
+    },
+    "C1113": {
+      "count": 1,
+      "situations": [
+        "kia_rio_fb_009"
+      ],
+      "category": "chassis"
+    },
+    "P0480": {
+      "count": 1,
+      "situations": [
+        "kia_rio_fb_010"
+      ],
+      "category": "engine"
+    },
+    "P0481": {
+      "count": 1,
+      "situations": [
+        "kia_rio_fb_010"
+      ],
+      "category": "engine"
+    },
+    "P0691": {
+      "count": 1,
+      "situations": [
+        "kia_rio_fb_010"
+      ],
+      "category": "engine"
+    },
+    "P0692": {
+      "count": 1,
+      "situations": [
+        "kia_rio_fb_010"
+      ],
+      "category": "engine"
+    }
+  }
+}

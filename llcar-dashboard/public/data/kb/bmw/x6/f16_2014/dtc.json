@@ -1,0 +1,210 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 29,
+  "codes": {
+    "5F39": {
+      "count": 2,
+      "situations": [
+        "bmw_x6_f16_003",
+        "bmw_x6_f16_009"
+      ],
+      "category": "unknown"
+    },
+    "P0171": {
+      "count": 1,
+      "situations": [
+        "bmw_x6_f16_001"
+      ],
+      "category": "engine"
+    },
+    "P0174": {
+      "count": 1,
+      "situations": [
+        "bmw_x6_f16_001"
+      ],
+      "category": "engine"
+    },
+    "P0087": {
+      "count": 1,
+      "situations": [
+        "bmw_x6_f16_001"
+      ],
+      "category": "engine"
+    },
+    "P0730": {
+      "count": 1,
+      "situations": [
+        "bmw_x6_f16_002"
+      ],
+      "category": "transmission"
+    },
+    "P0750": {
+      "count": 1,
+      "situations": [
+        "bmw_x6_f16_002"
+      ],
+      "category": "transmission"
+    },
+    "P1746": {
+      "count": 1,
+      "situations": [
+        "bmw_x6_f16_002"
+      ],
+      "category": "transmission"
+    },
+    "5F3A": {
+      "count": 1,
+      "situations": [
+        "bmw_x6_f16_003"
+      ],
+      "category": "unknown"
+    },
+    "5F44": {
+      "count": 1,
+      "situations": [
+        "bmw_x6_f16_003"
+      ],
+      "category": "unknown"
+    },
+    "P0480": {
+      "count": 1,
+      "situations": [
+        "bmw_x6_f16_004"
+      ],
+      "category": "engine"
+    },
+    "P0401": {
+      "count": 1,
+      "situations": [
+        "bmw_x6_f16_004"
+      ],
+      "category": "engine"
+    },
+    "P2463": {
+      "count": 1,
+      "situations": [
+        "bmw_x6_f16_004"
+      ],
+      "category": "engine"
+    },
+    "P0597": {
+      "count": 1,
+      "situations": [
+        "bmw_x6_f16_005"
+      ],
+      "category": "engine"
+    },
+    "P011A": {
+      "count": 1,
+      "situations": [
+        "bmw_x6_f16_005"
+      ],
+      "category": "engine"
+    },
+    "P0128": {
+      "count": 1,
+      "situations": [
+        "bmw_x6_f16_005"
+      ],
+      "category": "engine"
+    },
+    "P0299": {
+      "count": 1,
+      "situations": [
+        "bmw_x6_f16_006"
+      ],
+      "category": "engine"
+    },
+    "P2260": {
+      "count": 1,
+      "situations": [
+        "bmw_x6_f16_006"
+      ],
+      "category": "engine"
+    },
+    "P107A": {
+      "count": 1,
+      "situations": [
+        "bmw_x6_f16_006"
+      ],
+      "category": "engine"
+    },
+    "P0012": {
+      "count": 1,
+      "situations": [
+        "bmw_x6_f16_007"
+      ],
+      "category": "engine"
+    },
+    "P1048": {
+      "count": 1,
+      "situations": [
+        "bmw_x6_f16_007"
+      ],
+      "category": "engine"
+    },
+    "P0015": {
+      "count": 1,
+      "situations": [
+        "bmw_x6_f16_007"
+      ],
+      "category": "engine"
+    },
+    "P0560": {
+      "count": 1,
+      "situations": [
+        "bmw_x6_f16_008"
+      ],
+      "category": "engine"
+    },
+    "93CDB": {
+      "count": 1,
+      "situations": [
+        "bmw_x6_f16_008"
+      ],
+      "category": "unknown"
+    },
+    "93CD9": {
+      "count": 1,
+      "situations": [
+        "bmw_x6_f16_008"
+      ],
+      "category": "unknown"
+    },
+    "P0571": {
+      "count": 1,
+      "situations": [
+        "bmw_x6_f16_009"
+      ],
+      "category": "engine"
+    },
+    "5E40": {
+      "count": 1,
+      "situations": [
+        "bmw_x6_f16_009"
+      ],
+      "category": "unknown"
+    },
+    "P0550": {
+      "count": 1,
+      "situations": [
+        "bmw_x6_f16_010"
+      ],
+      "category": "engine"
+    },
+    "4809": {
+      "count": 1,
+      "situations": [
+        "bmw_x6_f16_010"
+      ],
+      "category": "unknown"
+    },
+    "480C": {
+      "count": 1,
+      "situations": [
+        "bmw_x6_f16_010"
+      ],
+      "category": "unknown"
+    }
+  }
+}

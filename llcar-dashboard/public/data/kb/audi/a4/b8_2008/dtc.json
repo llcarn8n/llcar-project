@@ -1,0 +1,209 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 29,
+  "codes": {
+    "P0016": {
+      "count": 1,
+      "situations": [
+        "audi_a4_b8_001"
+      ],
+      "category": "engine"
+    },
+    "P0011": {
+      "count": 1,
+      "situations": [
+        "audi_a4_b8_001"
+      ],
+      "category": "engine"
+    },
+    "P0341": {
+      "count": 1,
+      "situations": [
+        "audi_a4_b8_001"
+      ],
+      "category": "engine"
+    },
+    "P0300": {
+      "count": 1,
+      "situations": [
+        "audi_a4_b8_002"
+      ],
+      "category": "engine"
+    },
+    "P0301": {
+      "count": 1,
+      "situations": [
+        "audi_a4_b8_002"
+      ],
+      "category": "engine"
+    },
+    "P0302": {
+      "count": 1,
+      "situations": [
+        "audi_a4_b8_002"
+      ],
+      "category": "engine"
+    },
+    "P0171": {
+      "count": 1,
+      "situations": [
+        "audi_a4_b8_002"
+      ],
+      "category": "engine"
+    },
+    "P1773": {
+      "count": 1,
+      "situations": [
+        "audi_a4_b8_003"
+      ],
+      "category": "transmission"
+    },
+    "P1741": {
+      "count": 1,
+      "situations": [
+        "audi_a4_b8_003"
+      ],
+      "category": "transmission"
+    },
+    "P179E": {
+      "count": 1,
+      "situations": [
+        "audi_a4_b8_003"
+      ],
+      "category": "transmission"
+    },
+    "P0401": {
+      "count": 1,
+      "situations": [
+        "audi_a4_b8_004"
+      ],
+      "category": "engine"
+    },
+    "P042F": {
+      "count": 1,
+      "situations": [
+        "audi_a4_b8_004"
+      ],
+      "category": "engine"
+    },
+    "P2463": {
+      "count": 1,
+      "situations": [
+        "audi_a4_b8_004"
+      ],
+      "category": "engine"
+    },
+    "P1742": {
+      "count": 1,
+      "situations": [
+        "audi_a4_b8_005"
+      ],
+      "category": "transmission"
+    },
+    "P179F": {
+      "count": 1,
+      "situations": [
+        "audi_a4_b8_005"
+      ],
+      "category": "transmission"
+    },
+    "P1775": {
+      "count": 1,
+      "situations": [
+        "audi_a4_b8_005"
+      ],
+      "category": "transmission"
+    },
+    "P2014": {
+      "count": 1,
+      "situations": [
+        "audi_a4_b8_006"
+      ],
+      "category": "engine"
+    },
+    "P2015": {
+      "count": 1,
+      "situations": [
+        "audi_a4_b8_006"
+      ],
+      "category": "engine"
+    },
+    "P2008": {
+      "count": 1,
+      "situations": [
+        "audi_a4_b8_006"
+      ],
+      "category": "engine"
+    },
+    "U0155": {
+      "count": 1,
+      "situations": [
+        "audi_a4_b8_007"
+      ],
+      "category": "network"
+    },
+    "B1165": {
+      "count": 1,
+      "situations": [
+        "audi_a4_b8_007"
+      ],
+      "category": "body"
+    },
+    "U0140": {
+      "count": 1,
+      "situations": [
+        "audi_a4_b8_007"
+      ],
+      "category": "network"
+    },
+    "C1901": {
+      "count": 1,
+      "situations": [
+        "audi_a4_b8_008"
+      ],
+      "category": "chassis"
+    },
+    "C1904": {
+      "count": 1,
+      "situations": [
+        "audi_a4_b8_008"
+      ],
+      "category": "chassis"
+    },
+    "U0131": {
+      "count": 1,
+      "situations": [
+        "audi_a4_b8_008"
+      ],
+      "category": "network"
+    },
+    "Нет DTC кодов (диагностика на подъемнике)": {
+      "count": 1,
+      "situations": [
+        "audi_a4_b8_009"
+      ],
+      "category": "unknown"
+    },
+    "P1635": {
+      "count": 1,
+      "situations": [
+        "audi_a4_b8_010"
+      ],
+      "category": "engine"
+    },
+    "C1004": {
+      "count": 1,
+      "situations": [
+        "audi_a4_b8_010"
+      ],
+      "category": "chassis"
+    },
+    "P0571": {
+      "count": 1,
+      "situations": [
+        "audi_a4_b8_010"
+      ],
+      "category": "engine"
+    }
+  }
+}

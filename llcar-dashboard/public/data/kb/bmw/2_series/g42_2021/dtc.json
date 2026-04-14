@@ -1,0 +1,83 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 11,
+  "codes": {
+    "280A17": {
+      "count": 1,
+      "situations": [
+        "bmw_2_g42_001"
+      ],
+      "category": "unknown"
+    },
+    "280A18": {
+      "count": 1,
+      "situations": [
+        "bmw_2_g42_001"
+      ],
+      "category": "unknown"
+    },
+    "A0FD01": {
+      "count": 1,
+      "situations": [
+        "bmw_2_g42_003"
+      ],
+      "category": "unknown"
+    },
+    "A0FE02": {
+      "count": 1,
+      "situations": [
+        "bmw_2_g42_003"
+      ],
+      "category": "unknown"
+    },
+    "34100A": {
+      "count": 1,
+      "situations": [
+        "bmw_2_g42_004"
+      ],
+      "category": "unknown"
+    },
+    "34110B": {
+      "count": 1,
+      "situations": [
+        "bmw_2_g42_004"
+      ],
+      "category": "unknown"
+    },
+    "A0F101": {
+      "count": 1,
+      "situations": [
+        "bmw_2_g42_005"
+      ],
+      "category": "unknown"
+    },
+    "BF5C09": {
+      "count": 1,
+      "situations": [
+        "bmw_2_g42_005"
+      ],
+      "category": "body"
+    },
+    "2A82": {
+      "count": 1,
+      "situations": [
+        "bmw_2_g42_007"
+      ],
+      "category": "unknown"
+    },
+    "2A87": {
+      "count": 1,
+      "situations": [
+        "bmw_2_g42_007"
+      ],
+      "category": "unknown"
+    },
+    "2AAF": {
+      "count": 1,
+      "situations": [
+        "bmw_2_g42_007"
+      ],
+      "category": "unknown"
+    }
+  }
+}

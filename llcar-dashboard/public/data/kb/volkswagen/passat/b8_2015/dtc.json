@@ -1,0 +1,202 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 28,
+  "codes": {
+    "P164B": {
+      "count": 1,
+      "situations": [
+        "vw_passat_b8_001"
+      ],
+      "category": "engine"
+    },
+    "P0341": {
+      "count": 1,
+      "situations": [
+        "vw_passat_b8_001"
+      ],
+      "category": "engine"
+    },
+    "P0011": {
+      "count": 1,
+      "situations": [
+        "vw_passat_b8_001"
+      ],
+      "category": "engine"
+    },
+    "P0016": {
+      "count": 1,
+      "situations": [
+        "vw_passat_b8_001"
+      ],
+      "category": "engine"
+    },
+    "P179E": {
+      "count": 1,
+      "situations": [
+        "vw_passat_b8_002"
+      ],
+      "category": "transmission"
+    },
+    "P179F": {
+      "count": 1,
+      "situations": [
+        "vw_passat_b8_002"
+      ],
+      "category": "transmission"
+    },
+    "P17BF": {
+      "count": 1,
+      "situations": [
+        "vw_passat_b8_002"
+      ],
+      "category": "transmission"
+    },
+    "P2791": {
+      "count": 1,
+      "situations": [
+        "vw_passat_b8_002"
+      ],
+      "category": "engine"
+    },
+    "P0401": {
+      "count": 1,
+      "situations": [
+        "vw_passat_b8_003"
+      ],
+      "category": "engine"
+    },
+    "P0403": {
+      "count": 1,
+      "situations": [
+        "vw_passat_b8_003"
+      ],
+      "category": "engine"
+    },
+    "P0480": {
+      "count": 1,
+      "situations": [
+        "vw_passat_b8_003"
+      ],
+      "category": "engine"
+    },
+    "P189B": {
+      "count": 1,
+      "situations": [
+        "vw_passat_b8_004"
+      ],
+      "category": "engine"
+    },
+    "P1890": {
+      "count": 1,
+      "situations": [
+        "vw_passat_b8_004"
+      ],
+      "category": "engine"
+    },
+    "P1895": {
+      "count": 1,
+      "situations": [
+        "vw_passat_b8_004"
+      ],
+      "category": "engine"
+    },
+    "B11A5": {
+      "count": 1,
+      "situations": [
+        "vw_passat_b8_006"
+      ],
+      "category": "body"
+    },
+    "B11A6": {
+      "count": 1,
+      "situations": [
+        "vw_passat_b8_006"
+      ],
+      "category": "body"
+    },
+    "00467": {
+      "count": 1,
+      "situations": [
+        "vw_passat_b8_006"
+      ],
+      "category": "unknown"
+    },
+    "P2181": {
+      "count": 1,
+      "situations": [
+        "vw_passat_b8_007"
+      ],
+      "category": "engine"
+    },
+    "P011B": {
+      "count": 1,
+      "situations": [
+        "vw_passat_b8_007"
+      ],
+      "category": "engine"
+    },
+    "C1106": {
+      "count": 1,
+      "situations": [
+        "vw_passat_b8_008"
+      ],
+      "category": "chassis"
+    },
+    "P1609": {
+      "count": 1,
+      "situations": [
+        "vw_passat_b8_008"
+      ],
+      "category": "engine"
+    },
+    "U1113": {
+      "count": 1,
+      "situations": [
+        "vw_passat_b8_008"
+      ],
+      "category": "network"
+    },
+    "P1635": {
+      "count": 1,
+      "situations": [
+        "vw_passat_b8_009"
+      ],
+      "category": "engine"
+    },
+    "C101B": {
+      "count": 1,
+      "situations": [
+        "vw_passat_b8_009"
+      ],
+      "category": "chassis"
+    },
+    "P0580": {
+      "count": 1,
+      "situations": [
+        "vw_passat_b8_009"
+      ],
+      "category": "engine"
+    },
+    "B2005": {
+      "count": 1,
+      "situations": [
+        "vw_passat_b8_010"
+      ],
+      "category": "body"
+    },
+    "B2010": {
+      "count": 1,
+      "situations": [
+        "vw_passat_b8_010"
+      ],
+      "category": "body"
+    },
+    "B201A": {
+      "count": 1,
+      "situations": [
+        "vw_passat_b8_010"
+      ],
+      "category": "body"
+    }
+  }
+}

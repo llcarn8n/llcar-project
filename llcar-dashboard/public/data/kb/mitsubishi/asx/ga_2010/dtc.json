@@ -1,0 +1,146 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 20,
+  "codes": {
+    "P0011": {
+      "count": 1,
+      "situations": [
+        "mitsu_asx_ga_002"
+      ],
+      "category": "engine"
+    },
+    "P0340": {
+      "count": 1,
+      "situations": [
+        "mitsu_asx_ga_002"
+      ],
+      "category": "engine"
+    },
+    "P0341": {
+      "count": 1,
+      "situations": [
+        "mitsu_asx_ga_002"
+      ],
+      "category": "engine"
+    },
+    "P0778": {
+      "count": 1,
+      "situations": [
+        "mitsu_asx_ga_003"
+      ],
+      "category": "transmission"
+    },
+    "P0842": {
+      "count": 1,
+      "situations": [
+        "mitsu_asx_ga_003"
+      ],
+      "category": "engine"
+    },
+    "P0868": {
+      "count": 1,
+      "situations": [
+        "mitsu_asx_ga_003"
+      ],
+      "category": "engine"
+    },
+    "P1715": {
+      "count": 1,
+      "situations": [
+        "mitsu_asx_ga_003"
+      ],
+      "category": "transmission"
+    },
+    "P0420": {
+      "count": 1,
+      "situations": [
+        "mitsu_asx_ga_004"
+      ],
+      "category": "engine"
+    },
+    "P0430": {
+      "count": 1,
+      "situations": [
+        "mitsu_asx_ga_004"
+      ],
+      "category": "engine"
+    },
+    "P0138": {
+      "count": 1,
+      "situations": [
+        "mitsu_asx_ga_004"
+      ],
+      "category": "engine"
+    },
+    "P0115": {
+      "count": 1,
+      "situations": [
+        "mitsu_asx_ga_005"
+      ],
+      "category": "engine"
+    },
+    "P0116": {
+      "count": 1,
+      "situations": [
+        "mitsu_asx_ga_005"
+      ],
+      "category": "engine"
+    },
+    "P0125": {
+      "count": 1,
+      "situations": [
+        "mitsu_asx_ga_005"
+      ],
+      "category": "engine"
+    },
+    "P0217": {
+      "count": 1,
+      "situations": [
+        "mitsu_asx_ga_005"
+      ],
+      "category": "engine"
+    },
+    "C1235": {
+      "count": 1,
+      "situations": [
+        "mitsu_asx_ga_007"
+      ],
+      "category": "chassis"
+    },
+    "C1265": {
+      "count": 1,
+      "situations": [
+        "mitsu_asx_ga_007"
+      ],
+      "category": "chassis"
+    },
+    "C121A": {
+      "count": 1,
+      "situations": [
+        "mitsu_asx_ga_007"
+      ],
+      "category": "chassis"
+    },
+    "P0580": {
+      "count": 1,
+      "situations": [
+        "mitsu_asx_ga_009"
+      ],
+      "category": "engine"
+    },
+    "P0615": {
+      "count": 1,
+      "situations": [
+        "mitsu_asx_ga_009"
+      ],
+      "category": "engine"
+    },
+    "P0616": {
+      "count": 1,
+      "situations": [
+        "mitsu_asx_ga_009"
+      ],
+      "category": "engine"
+    }
+  }
+}

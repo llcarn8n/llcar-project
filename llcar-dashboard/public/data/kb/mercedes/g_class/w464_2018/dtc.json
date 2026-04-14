@@ -1,0 +1,41 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 5,
+  "codes": {
+    "U1207": {
+      "count": 1,
+      "situations": [
+        "merc_g_w464_002"
+      ],
+      "category": "network"
+    },
+    "U1208": {
+      "count": 1,
+      "situations": [
+        "merc_g_w464_002"
+      ],
+      "category": "network"
+    },
+    "B2A0101": {
+      "count": 1,
+      "situations": [
+        "merc_g_w464_002"
+      ],
+      "category": "body"
+    },
+    "U1A0001": {
+      "count": 1,
+      "situations": [
+        "merc_g_w464_006"
+      ],
+      "category": "network"
+    },
+    "U1A0102": {
+      "count": 1,
+      "situations": [
+        "merc_g_w464_006"
+      ],
+      "category": "network"
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 18,
+  "codes": {
+    "P0300": {
+      "count": 2,
+      "situations": [
+        "subaru_outback_bs_002",
+        "subaru_outback_bs_009"
+      ],
+      "category": "engine"
+    },
+    "P0851": {
+      "count": 1,
+      "situations": [
+        "subaru_outback_bs_001"
+      ],
+      "category": "engine"
+    },
+    "P1711": {
+      "count": 1,
+      "situations": [
+        "subaru_outback_bs_001"
+      ],
+      "category": "transmission"
+    },
+    "P0700": {
+      "count": 1,
+      "situations": [
+        "subaru_outback_bs_001"
+      ],
+      "category": "transmission"
+    },
+    "P0420": {
+      "count": 1,
+      "situations": [
+        "subaru_outback_bs_002"
+      ],
+      "category": "engine"
+    },
+    "P0172": {
+      "count": 1,
+      "situations": [
+        "subaru_outback_bs_002"
+      ],
+      "category": "engine"
+    },
+    "P0710": {
+      "count": 1,
+      "situations": [
+        "subaru_outback_bs_004"
+      ],
+      "category": "transmission"
+    },
+    "P0218": {
+      "count": 1,
+      "situations": [
+        "subaru_outback_bs_004"
+      ],
+      "category": "engine"
+    },
+    "P0128": {
+      "count": 1,
+      "situations": [
+        "subaru_outback_bs_004"
+      ],
+      "category": "engine"
+    },
+    "C1550": {
+      "count": 1,
+      "situations": [
+        "subaru_outback_bs_005"
+      ],
+      "category": "chassis"
+    },
+    "U0126": {
+      "count": 1,
+      "situations": [
+        "subaru_outback_bs_005"
+      ],
+      "category": "network"
+    },
+    "P0021": {
+      "count": 1,
+      "situations": [
+        "subaru_outback_bs_007"
+      ],
+      "category": "engine"
+    },
+    "P0011": {
+      "count": 1,
+      "situations": [
+        "subaru_outback_bs_007"
+      ],
+      "category": "engine"
+    },
+    "C0045": {
+      "count": 1,
+      "situations": [
+        "subaru_outback_bs_008"
+      ],
+      "category": "chassis"
+    },
+    "C0050": {
+      "count": 1,
+      "situations": [
+        "subaru_outback_bs_008"
+      ],
+      "category": "chassis"
+    },
+    "U0073": {
+      "count": 1,
+      "situations": [
+        "subaru_outback_bs_008"
+      ],
+      "category": "network"
+    },
+    "P0301": {
+      "count": 1,
+      "situations": [
+        "subaru_outback_bs_009"
+      ],
+      "category": "engine"
+    },
+    "P0302": {
+      "count": 1,
+      "situations": [
+        "subaru_outback_bs_009"
+      ],
+      "category": "engine"
+    }
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 18,
+  "codes": {
+    "P1774": {
+      "count": 1,
+      "situations": [
+        "mitsu_outlander_gf_001"
+      ],
+      "category": "transmission"
+    },
+    "P0868": {
+      "count": 1,
+      "situations": [
+        "mitsu_outlander_gf_001"
+      ],
+      "category": "engine"
+    },
+    "P0011": {
+      "count": 1,
+      "situations": [
+        "mitsu_outlander_gf_002"
+      ],
+      "category": "engine"
+    },
+    "P0014": {
+      "count": 1,
+      "situations": [
+        "mitsu_outlander_gf_002"
+      ],
+      "category": "engine"
+    },
+    "C121C": {
+      "count": 1,
+      "situations": [
+        "mitsu_outlander_gf_003"
+      ],
+      "category": "chassis"
+    },
+    "C1229": {
+      "count": 1,
+      "situations": [
+        "mitsu_outlander_gf_003"
+      ],
+      "category": "chassis"
+    },
+    "C1501": {
+      "count": 1,
+      "situations": [
+        "mitsu_outlander_gf_004"
+      ],
+      "category": "chassis"
+    },
+    "C1511": {
+      "count": 1,
+      "situations": [
+        "mitsu_outlander_gf_004"
+      ],
+      "category": "chassis"
+    },
+    "U0126": {
+      "count": 1,
+      "situations": [
+        "mitsu_outlander_gf_004"
+      ],
+      "category": "network"
+    },
+    "P0420": {
+      "count": 1,
+      "situations": [
+        "mitsu_outlander_gf_005"
+      ],
+      "category": "engine"
+    },
+    "P0430": {
+      "count": 1,
+      "situations": [
+        "mitsu_outlander_gf_005"
+      ],
+      "category": "engine"
+    },
+    "P0300": {
+      "count": 1,
+      "situations": [
+        "mitsu_outlander_gf_005"
+      ],
+      "category": "engine"
+    },
+    "P0731": {
+      "count": 1,
+      "situations": [
+        "mitsu_outlander_gf_006"
+      ],
+      "category": "transmission"
+    },
+    "P0732": {
+      "count": 1,
+      "situations": [
+        "mitsu_outlander_gf_006"
+      ],
+      "category": "transmission"
+    },
+    "P0756": {
+      "count": 1,
+      "situations": [
+        "mitsu_outlander_gf_006"
+      ],
+      "category": "transmission"
+    },
+    "C1A20": {
+      "count": 1,
+      "situations": [
+        "mitsu_outlander_gf_007"
+      ],
+      "category": "chassis"
+    },
+    "C0050": {
+      "count": 1,
+      "situations": [
+        "mitsu_outlander_gf_007"
+      ],
+      "category": "chassis"
+    },
+    "P0562": {
+      "count": 1,
+      "situations": [
+        "mitsu_outlander_gf_009"
+      ],
+      "category": "engine"
+    }
+  }
+}

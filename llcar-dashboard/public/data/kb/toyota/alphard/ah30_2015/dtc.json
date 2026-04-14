@@ -1,0 +1,188 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 26,
+  "codes": {
+    "P0700": {
+      "count": 1,
+      "situations": [
+        "toyota_alphard_ah30_cvt_overheating"
+      ],
+      "category": "transmission"
+    },
+    "P0868": {
+      "count": 1,
+      "situations": [
+        "toyota_alphard_ah30_cvt_overheating"
+      ],
+      "category": "engine"
+    },
+    "P0711": {
+      "count": 1,
+      "situations": [
+        "toyota_alphard_ah30_cvt_overheating"
+      ],
+      "category": "transmission"
+    },
+    "P0776": {
+      "count": 1,
+      "situations": [
+        "toyota_alphard_ah30_cvt_overheating"
+      ],
+      "category": "transmission"
+    },
+    "B2784": {
+      "count": 1,
+      "situations": [
+        "toyota_alphard_ah30_sliding_door_malfunction"
+      ],
+      "category": "body"
+    },
+    "B2785": {
+      "count": 1,
+      "situations": [
+        "toyota_alphard_ah30_sliding_door_malfunction"
+      ],
+      "category": "body"
+    },
+    "B2790": {
+      "count": 1,
+      "situations": [
+        "toyota_alphard_ah30_sliding_door_malfunction"
+      ],
+      "category": "body"
+    },
+    "B2791": {
+      "count": 1,
+      "situations": [
+        "toyota_alphard_ah30_sliding_door_malfunction"
+      ],
+      "category": "body"
+    },
+    "P0016": {
+      "count": 1,
+      "situations": [
+        "toyota_alphard_ah30_2gre_oil_leak"
+      ],
+      "category": "engine"
+    },
+    "P0017": {
+      "count": 1,
+      "situations": [
+        "toyota_alphard_ah30_2gre_oil_leak"
+      ],
+      "category": "engine"
+    },
+    "B2840": {
+      "count": 1,
+      "situations": [
+        "toyota_alphard_ah30_power_seat_failure"
+      ],
+      "category": "body"
+    },
+    "B2841": {
+      "count": 1,
+      "situations": [
+        "toyota_alphard_ah30_power_seat_failure"
+      ],
+      "category": "body"
+    },
+    "B2842": {
+      "count": 1,
+      "situations": [
+        "toyota_alphard_ah30_power_seat_failure"
+      ],
+      "category": "body"
+    },
+    "P3000": {
+      "count": 1,
+      "situations": [
+        "toyota_alphard_ah30_hybrid_battery_degradation"
+      ],
+      "category": "engine"
+    },
+    "P3004": {
+      "count": 1,
+      "situations": [
+        "toyota_alphard_ah30_hybrid_battery_degradation"
+      ],
+      "category": "engine"
+    },
+    "P0A80": {
+      "count": 1,
+      "situations": [
+        "toyota_alphard_ah30_hybrid_battery_degradation"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A7F": {
+      "count": 1,
+      "situations": [
+        "toyota_alphard_ah30_hybrid_battery_degradation"
+      ],
+      "category": "hv_electric"
+    },
+    "P0087": {
+      "count": 1,
+      "situations": [
+        "toyota_alphard_ah30_fuel_pump_low_pressure"
+      ],
+      "category": "engine"
+    },
+    "P0088": {
+      "count": 1,
+      "situations": [
+        "toyota_alphard_ah30_fuel_pump_low_pressure"
+      ],
+      "category": "engine"
+    },
+    "P0190": {
+      "count": 1,
+      "situations": [
+        "toyota_alphard_ah30_fuel_pump_low_pressure"
+      ],
+      "category": "engine"
+    },
+    "P0191": {
+      "count": 1,
+      "situations": [
+        "toyota_alphard_ah30_fuel_pump_low_pressure"
+      ],
+      "category": "engine"
+    },
+    "C1A11": {
+      "count": 1,
+      "situations": [
+        "toyota_alphard_ah30_pre_crash_sensor_false"
+      ],
+      "category": "chassis"
+    },
+    "C1A10": {
+      "count": 1,
+      "situations": [
+        "toyota_alphard_ah30_pre_crash_sensor_false"
+      ],
+      "category": "chassis"
+    },
+    "U0073": {
+      "count": 1,
+      "situations": [
+        "toyota_alphard_ah30_pre_crash_sensor_false"
+      ],
+      "category": "network"
+    },
+    "C1203": {
+      "count": 1,
+      "situations": [
+        "toyota_alphard_ah30_rear_differential_noise"
+      ],
+      "category": "chassis"
+    },
+    "C1206": {
+      "count": 1,
+      "situations": [
+        "toyota_alphard_ah30_rear_differential_noise"
+      ],
+      "category": "chassis"
+    }
+  }
+}

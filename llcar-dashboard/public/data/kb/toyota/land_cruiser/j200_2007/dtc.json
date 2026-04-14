@@ -1,0 +1,125 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 17,
+  "codes": {
+    "P0622": {
+      "count": 1,
+      "situations": [
+        "toyota_lc200_001"
+      ],
+      "category": "engine"
+    },
+    "C1736": {
+      "count": 1,
+      "situations": [
+        "toyota_lc200_002"
+      ],
+      "category": "chassis"
+    },
+    "C1741": {
+      "count": 1,
+      "situations": [
+        "toyota_lc200_002"
+      ],
+      "category": "chassis"
+    },
+    "P0751": {
+      "count": 1,
+      "situations": [
+        "toyota_lc200_003"
+      ],
+      "category": "transmission"
+    },
+    "P0776": {
+      "count": 1,
+      "situations": [
+        "toyota_lc200_003"
+      ],
+      "category": "transmission"
+    },
+    "P0418": {
+      "count": 1,
+      "situations": [
+        "toyota_lc200_004"
+      ],
+      "category": "engine"
+    },
+    "P0412": {
+      "count": 1,
+      "situations": [
+        "toyota_lc200_004"
+      ],
+      "category": "engine"
+    },
+    "P2445": {
+      "count": 1,
+      "situations": [
+        "toyota_lc200_004"
+      ],
+      "category": "engine"
+    },
+    "P0710": {
+      "count": 1,
+      "situations": [
+        "toyota_lc200_006"
+      ],
+      "category": "transmission"
+    },
+    "P0218": {
+      "count": 1,
+      "situations": [
+        "toyota_lc200_006"
+      ],
+      "category": "engine"
+    },
+    "C1256": {
+      "count": 1,
+      "situations": [
+        "toyota_lc200_007"
+      ],
+      "category": "chassis"
+    },
+    "C1252": {
+      "count": 1,
+      "situations": [
+        "toyota_lc200_007"
+      ],
+      "category": "chassis"
+    },
+    "C1391": {
+      "count": 1,
+      "situations": [
+        "toyota_lc200_007"
+      ],
+      "category": "chassis"
+    },
+    "P0088": {
+      "count": 1,
+      "situations": [
+        "toyota_lc200_008"
+      ],
+      "category": "engine"
+    },
+    "P0093": {
+      "count": 1,
+      "situations": [
+        "toyota_lc200_008"
+      ],
+      "category": "engine"
+    },
+    "P0190": {
+      "count": 1,
+      "situations": [
+        "toyota_lc200_008"
+      ],
+      "category": "engine"
+    },
+    "C1253": {
+      "count": 1,
+      "situations": [
+        "toyota_lc200_009"
+      ],
+      "category": "chassis"
+    }
+  }
+}

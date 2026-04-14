@@ -1,0 +1,139 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 19,
+  "codes": {
+    "P0011": {
+      "count": 1,
+      "situations": [
+        "hyundai_elantra_ad_001"
+      ],
+      "category": "engine"
+    },
+    "P0521": {
+      "count": 1,
+      "situations": [
+        "hyundai_elantra_ad_001"
+      ],
+      "category": "engine"
+    },
+    "P0014": {
+      "count": 1,
+      "situations": [
+        "hyundai_elantra_ad_001"
+      ],
+      "category": "engine"
+    },
+    "P0715": {
+      "count": 1,
+      "situations": [
+        "hyundai_elantra_ad_002"
+      ],
+      "category": "transmission"
+    },
+    "P0750": {
+      "count": 1,
+      "situations": [
+        "hyundai_elantra_ad_002"
+      ],
+      "category": "transmission"
+    },
+    "P0731": {
+      "count": 1,
+      "situations": [
+        "hyundai_elantra_ad_002"
+      ],
+      "category": "transmission"
+    },
+    "P0733": {
+      "count": 1,
+      "situations": [
+        "hyundai_elantra_ad_002"
+      ],
+      "category": "transmission"
+    },
+    "P0420": {
+      "count": 1,
+      "situations": [
+        "hyundai_elantra_ad_003"
+      ],
+      "category": "engine"
+    },
+    "P0300": {
+      "count": 1,
+      "situations": [
+        "hyundai_elantra_ad_003"
+      ],
+      "category": "engine"
+    },
+    "P0171": {
+      "count": 1,
+      "situations": [
+        "hyundai_elantra_ad_005"
+      ],
+      "category": "engine"
+    },
+    "P0106": {
+      "count": 1,
+      "situations": [
+        "hyundai_elantra_ad_005"
+      ],
+      "category": "engine"
+    },
+    "P0507": {
+      "count": 1,
+      "situations": [
+        "hyundai_elantra_ad_005"
+      ],
+      "category": "engine"
+    },
+    "P0118": {
+      "count": 1,
+      "situations": [
+        "hyundai_elantra_ad_006"
+      ],
+      "category": "engine"
+    },
+    "P0125": {
+      "count": 1,
+      "situations": [
+        "hyundai_elantra_ad_006"
+      ],
+      "category": "engine"
+    },
+    "P2181": {
+      "count": 1,
+      "situations": [
+        "hyundai_elantra_ad_006"
+      ],
+      "category": "engine"
+    },
+    "B1602": {
+      "count": 1,
+      "situations": [
+        "hyundai_elantra_ad_007"
+      ],
+      "category": "body"
+    },
+    "B1681": {
+      "count": 1,
+      "situations": [
+        "hyundai_elantra_ad_007"
+      ],
+      "category": "body"
+    },
+    "P0562": {
+      "count": 1,
+      "situations": [
+        "hyundai_elantra_ad_009"
+      ],
+      "category": "engine"
+    },
+    "P0622": {
+      "count": 1,
+      "situations": [
+        "hyundai_elantra_ad_009"
+      ],
+      "category": "engine"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 8,
+  "codes": {
+    "P0700": {
+      "count": 1,
+      "situations": [
+        "exeed_vx_vx1_2020_001"
+      ],
+      "category": "transmission"
+    },
+    "P0741": {
+      "count": 1,
+      "situations": [
+        "exeed_vx_vx1_2020_001"
+      ],
+      "category": "transmission"
+    },
+    "P0171": {
+      "count": 1,
+      "situations": [
+        "exeed_vx_vx1_2020_002"
+      ],
+      "category": "engine"
+    },
+    "P0316": {
+      "count": 1,
+      "situations": [
+        "exeed_vx_vx1_2020_002"
+      ],
+      "category": "engine"
+    },
+    "U0164": {
+      "count": 1,
+      "situations": [
+        "exeed_vx_vx1_2020_004"
+      ],
+      "category": "network"
+    },
+    "B2278": {
+      "count": 1,
+      "situations": [
+        "exeed_vx_vx1_2020_004"
+      ],
+      "category": "body"
+    },
+    "C1A61": {
+      "count": 1,
+      "situations": [
+        "exeed_vx_vx1_2020_008"
+      ],
+      "category": "chassis"
+    },
+    "U0073": {
+      "count": 1,
+      "situations": [
+        "exeed_vx_vx1_2020_008"
+      ],
+      "category": "network"
+    }
+  }
+}

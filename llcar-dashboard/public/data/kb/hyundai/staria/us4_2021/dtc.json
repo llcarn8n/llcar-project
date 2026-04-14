@@ -1,0 +1,139 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 19,
+  "codes": {
+    "P0300": {
+      "count": 1,
+      "situations": [
+        "hyundai_staria_001"
+      ],
+      "category": "engine"
+    },
+    "P0301": {
+      "count": 1,
+      "situations": [
+        "hyundai_staria_001"
+      ],
+      "category": "engine"
+    },
+    "P0302": {
+      "count": 1,
+      "situations": [
+        "hyundai_staria_001"
+      ],
+      "category": "engine"
+    },
+    "P0715": {
+      "count": 1,
+      "situations": [
+        "hyundai_staria_002"
+      ],
+      "category": "transmission"
+    },
+    "P0730": {
+      "count": 1,
+      "situations": [
+        "hyundai_staria_002"
+      ],
+      "category": "transmission"
+    },
+    "P0741": {
+      "count": 1,
+      "situations": [
+        "hyundai_staria_002"
+      ],
+      "category": "transmission"
+    },
+    "B1610": {
+      "count": 1,
+      "situations": [
+        "hyundai_staria_003"
+      ],
+      "category": "body"
+    },
+    "B1611": {
+      "count": 1,
+      "situations": [
+        "hyundai_staria_003"
+      ],
+      "category": "body"
+    },
+    "B1421": {
+      "count": 1,
+      "situations": [
+        "hyundai_staria_004"
+      ],
+      "category": "body"
+    },
+    "B1422": {
+      "count": 1,
+      "situations": [
+        "hyundai_staria_004"
+      ],
+      "category": "body"
+    },
+    "B1430": {
+      "count": 1,
+      "situations": [
+        "hyundai_staria_004"
+      ],
+      "category": "body"
+    },
+    "P0128": {
+      "count": 1,
+      "situations": [
+        "hyundai_staria_005"
+      ],
+      "category": "engine"
+    },
+    "P0217": {
+      "count": 1,
+      "situations": [
+        "hyundai_staria_005"
+      ],
+      "category": "engine"
+    },
+    "P0420": {
+      "count": 1,
+      "situations": [
+        "hyundai_staria_006"
+      ],
+      "category": "engine"
+    },
+    "P0430": {
+      "count": 1,
+      "situations": [
+        "hyundai_staria_006"
+      ],
+      "category": "engine"
+    },
+    "P0087": {
+      "count": 1,
+      "situations": [
+        "hyundai_staria_008"
+      ],
+      "category": "engine"
+    },
+    "P0093": {
+      "count": 1,
+      "situations": [
+        "hyundai_staria_008"
+      ],
+      "category": "engine"
+    },
+    "C1200": {
+      "count": 1,
+      "situations": [
+        "hyundai_staria_009"
+      ],
+      "category": "chassis"
+    },
+    "C1201": {
+      "count": 1,
+      "situations": [
+        "hyundai_staria_009"
+      ],
+      "category": "chassis"
+    }
+  }
+}

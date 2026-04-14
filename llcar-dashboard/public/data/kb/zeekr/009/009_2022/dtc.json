@@ -1,0 +1,41 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 5,
+  "codes": {
+    "B2027": {
+      "count": 1,
+      "situations": [
+        "zeekr_009_001"
+      ],
+      "category": "body"
+    },
+    "B2028": {
+      "count": 1,
+      "situations": [
+        "zeekr_009_001"
+      ],
+      "category": "body"
+    },
+    "P0A82": {
+      "count": 1,
+      "situations": [
+        "zeekr_009_003"
+      ],
+      "category": "hv_electric"
+    },
+    "B1A20": {
+      "count": 1,
+      "situations": [
+        "zeekr_009_004"
+      ],
+      "category": "body"
+    },
+    "B1A25": {
+      "count": 1,
+      "situations": [
+        "zeekr_009_004"
+      ],
+      "category": "body"
+    }
+  }
+}

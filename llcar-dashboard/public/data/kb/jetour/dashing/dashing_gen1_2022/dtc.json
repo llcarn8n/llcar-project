@@ -1,0 +1,34 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 4,
+  "codes": {
+    "P0811": {
+      "count": 1,
+      "situations": [
+        "jetour_dashing_dashing_gen1_2022_001"
+      ],
+      "category": "engine"
+    },
+    "P0830": {
+      "count": 1,
+      "situations": [
+        "jetour_dashing_dashing_gen1_2022_001"
+      ],
+      "category": "engine"
+    },
+    "C0550": {
+      "count": 1,
+      "situations": [
+        "jetour_dashing_dashing_gen1_2022_002"
+      ],
+      "category": "chassis"
+    },
+    "P0171": {
+      "count": 1,
+      "situations": [
+        "jetour_dashing_dashing_gen1_2022_004"
+      ],
+      "category": "engine"
+    }
+  }
+}

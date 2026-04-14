@@ -1,0 +1,104 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 14,
+  "codes": {
+    "C100A": {
+      "count": 1,
+      "situations": [
+        "citroen_c5_x7_001"
+      ],
+      "category": "chassis"
+    },
+    "C1010": {
+      "count": 1,
+      "situations": [
+        "citroen_c5_x7_001"
+      ],
+      "category": "chassis"
+    },
+    "C1011": {
+      "count": 1,
+      "situations": [
+        "citroen_c5_x7_001"
+      ],
+      "category": "chassis"
+    },
+    "P0011": {
+      "count": 1,
+      "situations": [
+        "citroen_c5_x7_002"
+      ],
+      "category": "engine"
+    },
+    "P0016": {
+      "count": 1,
+      "situations": [
+        "citroen_c5_x7_002"
+      ],
+      "category": "engine"
+    },
+    "P0017": {
+      "count": 1,
+      "situations": [
+        "citroen_c5_x7_002"
+      ],
+      "category": "engine"
+    },
+    "P0740": {
+      "count": 1,
+      "situations": [
+        "citroen_c5_x7_003"
+      ],
+      "category": "transmission"
+    },
+    "P0748": {
+      "count": 1,
+      "situations": [
+        "citroen_c5_x7_003"
+      ],
+      "category": "transmission"
+    },
+    "P1811": {
+      "count": 1,
+      "situations": [
+        "citroen_c5_x7_003"
+      ],
+      "category": "engine"
+    },
+    "B1A00": {
+      "count": 1,
+      "situations": [
+        "citroen_c5_x7_004"
+      ],
+      "category": "body"
+    },
+    "B1A01": {
+      "count": 1,
+      "situations": [
+        "citroen_c5_x7_004"
+      ],
+      "category": "body"
+    },
+    "U0164": {
+      "count": 1,
+      "situations": [
+        "citroen_c5_x7_004"
+      ],
+      "category": "network"
+    },
+    "P1890": {
+      "count": 1,
+      "situations": [
+        "citroen_c5_x7_005"
+      ],
+      "category": "engine"
+    },
+    "P1895": {
+      "count": 1,
+      "situations": [
+        "citroen_c5_x7_005"
+      ],
+      "category": "engine"
+    }
+  }
+}

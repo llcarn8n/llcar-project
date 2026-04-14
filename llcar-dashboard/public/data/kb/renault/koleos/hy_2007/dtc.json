@@ -1,0 +1,55 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 7,
+  "codes": {
+    "P0840": {
+      "count": 1,
+      "situations": [
+        "renault_koleos_hy_001"
+      ],
+      "category": "engine"
+    },
+    "P0868": {
+      "count": 1,
+      "situations": [
+        "renault_koleos_hy_001"
+      ],
+      "category": "engine"
+    },
+    "P1776": {
+      "count": 1,
+      "situations": [
+        "renault_koleos_hy_001"
+      ],
+      "category": "transmission"
+    },
+    "AWD-001": {
+      "count": 1,
+      "situations": [
+        "renault_koleos_hy_002"
+      ],
+      "category": "unknown"
+    },
+    "P0506": {
+      "count": 1,
+      "situations": [
+        "renault_koleos_hy_004"
+      ],
+      "category": "engine"
+    },
+    "P0507": {
+      "count": 1,
+      "situations": [
+        "renault_koleos_hy_004"
+      ],
+      "category": "engine"
+    },
+    "P0171": {
+      "count": 1,
+      "situations": [
+        "renault_koleos_hy_004"
+      ],
+      "category": "engine"
+    }
+  }
+}

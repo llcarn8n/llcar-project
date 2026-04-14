@@ -1,0 +1,133 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 18,
+  "codes": {
+    "P0300": {
+      "count": 2,
+      "situations": [
+        "chevy_cruze_j400_002",
+        "chevy_cruze_j400_009"
+      ],
+      "category": "engine"
+    },
+    "P0700": {
+      "count": 1,
+      "situations": [
+        "chevy_cruze_j400_001"
+      ],
+      "category": "transmission"
+    },
+    "P0716": {
+      "count": 1,
+      "situations": [
+        "chevy_cruze_j400_001"
+      ],
+      "category": "transmission"
+    },
+    "P0756": {
+      "count": 1,
+      "situations": [
+        "chevy_cruze_j400_001"
+      ],
+      "category": "transmission"
+    },
+    "P0171": {
+      "count": 1,
+      "situations": [
+        "chevy_cruze_j400_002"
+      ],
+      "category": "engine"
+    },
+    "P0299": {
+      "count": 1,
+      "situations": [
+        "chevy_cruze_j400_003"
+      ],
+      "category": "engine"
+    },
+    "P2261": {
+      "count": 1,
+      "situations": [
+        "chevy_cruze_j400_003"
+      ],
+      "category": "engine"
+    },
+    "P0128": {
+      "count": 1,
+      "situations": [
+        "chevy_cruze_j400_004"
+      ],
+      "category": "engine"
+    },
+    "P0597": {
+      "count": 1,
+      "situations": [
+        "chevy_cruze_j400_004"
+      ],
+      "category": "engine"
+    },
+    "P0010": {
+      "count": 1,
+      "situations": [
+        "chevy_cruze_j400_006"
+      ],
+      "category": "engine"
+    },
+    "P0011": {
+      "count": 1,
+      "situations": [
+        "chevy_cruze_j400_006"
+      ],
+      "category": "engine"
+    },
+    "P0420": {
+      "count": 1,
+      "situations": [
+        "chevy_cruze_j400_007"
+      ],
+      "category": "engine"
+    },
+    "P0131": {
+      "count": 1,
+      "situations": [
+        "chevy_cruze_j400_007"
+      ],
+      "category": "engine"
+    },
+    "P0134": {
+      "count": 1,
+      "situations": [
+        "chevy_cruze_j400_007"
+      ],
+      "category": "engine"
+    },
+    "P0504": {
+      "count": 1,
+      "situations": [
+        "chevy_cruze_j400_008"
+      ],
+      "category": "engine"
+    },
+    "P050D": {
+      "count": 1,
+      "situations": [
+        "chevy_cruze_j400_009"
+      ],
+      "category": "engine"
+    },
+    "U0140": {
+      "count": 1,
+      "situations": [
+        "chevy_cruze_j400_010"
+      ],
+      "category": "network"
+    },
+    "B2600": {
+      "count": 1,
+      "situations": [
+        "chevy_cruze_j400_010"
+      ],
+      "category": "body"
+    }
+  }
+}

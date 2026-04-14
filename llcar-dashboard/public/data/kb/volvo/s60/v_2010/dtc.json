@@ -1,0 +1,48 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 6,
+  "codes": {
+    "P0700": {
+      "count": 1,
+      "situations": [
+        "volvo_s60_v_003"
+      ],
+      "category": "transmission"
+    },
+    "P0730": {
+      "count": 1,
+      "situations": [
+        "volvo_s60_v_003"
+      ],
+      "category": "transmission"
+    },
+    "P0751": {
+      "count": 1,
+      "situations": [
+        "volvo_s60_v_003"
+      ],
+      "category": "transmission"
+    },
+    "P0507": {
+      "count": 1,
+      "situations": [
+        "volvo_s60_v_006"
+      ],
+      "category": "engine"
+    },
+    "P0506": {
+      "count": 1,
+      "situations": [
+        "volvo_s60_v_006"
+      ],
+      "category": "engine"
+    },
+    "P0171": {
+      "count": 1,
+      "situations": [
+        "volvo_s60_v_006"
+      ],
+      "category": "engine"
+    }
+  }
+}

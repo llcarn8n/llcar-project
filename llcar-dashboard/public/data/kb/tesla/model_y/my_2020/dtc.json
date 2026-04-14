@@ -1,0 +1,118 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 16,
+  "codes": {
+    "B1A02": {
+      "count": 1,
+      "situations": [
+        "tesla_my_001"
+      ],
+      "category": "body"
+    },
+    "B1A05": {
+      "count": 1,
+      "situations": [
+        "tesla_my_001"
+      ],
+      "category": "body"
+    },
+    "U0140": {
+      "count": 1,
+      "situations": [
+        "tesla_my_001"
+      ],
+      "category": "network"
+    },
+    "P0A80": {
+      "count": 1,
+      "situations": [
+        "tesla_my_002"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A7F": {
+      "count": 1,
+      "situations": [
+        "tesla_my_002"
+      ],
+      "category": "hv_electric"
+    },
+    "P0AFA": {
+      "count": 1,
+      "situations": [
+        "tesla_my_002"
+      ],
+      "category": "hv_electric"
+    },
+    "P0562": {
+      "count": 1,
+      "situations": [
+        "tesla_my_003"
+      ],
+      "category": "engine"
+    },
+    "B0019": {
+      "count": 1,
+      "situations": [
+        "tesla_my_003"
+      ],
+      "category": "body"
+    },
+    "U0100": {
+      "count": 1,
+      "situations": [
+        "tesla_my_003"
+      ],
+      "category": "network"
+    },
+    "P0731": {
+      "count": 1,
+      "situations": [
+        "tesla_my_005"
+      ],
+      "category": "transmission"
+    },
+    "P182A": {
+      "count": 1,
+      "situations": [
+        "tesla_my_005"
+      ],
+      "category": "engine"
+    },
+    "B1A15": {
+      "count": 1,
+      "situations": [
+        "tesla_my_006"
+      ],
+      "category": "body"
+    },
+    "P0A93": {
+      "count": 1,
+      "situations": [
+        "tesla_my_007"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A7E": {
+      "count": 1,
+      "situations": [
+        "tesla_my_007"
+      ],
+      "category": "hv_electric"
+    },
+    "B1A00": {
+      "count": 1,
+      "situations": [
+        "tesla_my_008"
+      ],
+      "category": "body"
+    },
+    "B1A01": {
+      "count": 1,
+      "situations": [
+        "tesla_my_008"
+      ],
+      "category": "body"
+    }
+  }
+}

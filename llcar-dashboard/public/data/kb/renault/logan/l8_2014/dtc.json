@@ -1,0 +1,92 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 12,
+  "codes": {
+    "P0300": {
+      "count": 2,
+      "situations": [
+        "renault_logan_l8_h4m_cat",
+        "renault_logan_l8_k7m_ignition"
+      ],
+      "category": "engine"
+    },
+    "P0301": {
+      "count": 2,
+      "situations": [
+        "renault_logan_l8_h4m_cat",
+        "renault_logan_l8_k7m_ignition"
+      ],
+      "category": "engine"
+    },
+    "P0700": {
+      "count": 1,
+      "situations": [
+        "renault_logan_l8_cvt_jerk"
+      ],
+      "category": "transmission"
+    },
+    "P17A1": {
+      "count": 1,
+      "situations": [
+        "renault_logan_l8_cvt_jerk"
+      ],
+      "category": "transmission"
+    },
+    "P0746": {
+      "count": 1,
+      "situations": [
+        "renault_logan_l8_cvt_jerk"
+      ],
+      "category": "transmission"
+    },
+    "P0730": {
+      "count": 1,
+      "situations": [
+        "renault_logan_l8_dp0_slip"
+      ],
+      "category": "transmission"
+    },
+    "P0715": {
+      "count": 1,
+      "situations": [
+        "renault_logan_l8_dp0_slip"
+      ],
+      "category": "transmission"
+    },
+    "P0732": {
+      "count": 1,
+      "situations": [
+        "renault_logan_l8_dp0_slip"
+      ],
+      "category": "transmission"
+    },
+    "P0302": {
+      "count": 1,
+      "situations": [
+        "renault_logan_l8_h4m_cat"
+      ],
+      "category": "engine"
+    },
+    "P0420": {
+      "count": 1,
+      "situations": [
+        "renault_logan_l8_h4m_cat"
+      ],
+      "category": "engine"
+    },
+    "P0430": {
+      "count": 1,
+      "situations": [
+        "renault_logan_l8_h4m_cat"
+      ],
+      "category": "engine"
+    },
+    "P0304": {
+      "count": 1,
+      "situations": [
+        "renault_logan_l8_k7m_ignition"
+      ],
+      "category": "engine"
+    }
+  }
+}

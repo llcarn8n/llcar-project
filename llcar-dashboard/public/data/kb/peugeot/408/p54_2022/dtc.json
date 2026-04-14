@@ -1,0 +1,62 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 8,
+  "codes": {
+    "P0016": {
+      "count": 1,
+      "situations": [
+        "peugeot_408_p54_001"
+      ],
+      "category": "engine"
+    },
+    "P0017": {
+      "count": 1,
+      "situations": [
+        "peugeot_408_p54_001"
+      ],
+      "category": "engine"
+    },
+    "P0011": {
+      "count": 1,
+      "situations": [
+        "peugeot_408_p54_001"
+      ],
+      "category": "engine"
+    },
+    "P0730": {
+      "count": 1,
+      "situations": [
+        "peugeot_408_p54_002"
+      ],
+      "category": "transmission"
+    },
+    "P0740": {
+      "count": 1,
+      "situations": [
+        "peugeot_408_p54_002"
+      ],
+      "category": "transmission"
+    },
+    "U0100": {
+      "count": 1,
+      "situations": [
+        "peugeot_408_p54_003"
+      ],
+      "category": "network"
+    },
+    "U0073": {
+      "count": 1,
+      "situations": [
+        "peugeot_408_p54_003"
+      ],
+      "category": "network"
+    },
+    "B1000": {
+      "count": 1,
+      "situations": [
+        "peugeot_408_p54_003"
+      ],
+      "category": "body"
+    }
+  }
+}

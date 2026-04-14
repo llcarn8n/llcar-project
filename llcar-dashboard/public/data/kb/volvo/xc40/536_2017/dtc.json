@@ -1,0 +1,55 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 7,
+  "codes": {
+    "ECM-0001": {
+      "count": 1,
+      "situations": [
+        "volvo_xc40_536_001"
+      ],
+      "category": "unknown"
+    },
+    "ECM-0002": {
+      "count": 1,
+      "situations": [
+        "volvo_xc40_536_001"
+      ],
+      "category": "unknown"
+    },
+    "AWD-001": {
+      "count": 1,
+      "situations": [
+        "volvo_xc40_536_003"
+      ],
+      "category": "unknown"
+    },
+    "P0300": {
+      "count": 1,
+      "situations": [
+        "volvo_xc40_536_006"
+      ],
+      "category": "engine"
+    },
+    "P0171": {
+      "count": 1,
+      "situations": [
+        "volvo_xc40_536_006"
+      ],
+      "category": "engine"
+    },
+    "ABS-001": {
+      "count": 1,
+      "situations": [
+        "volvo_xc40_536_007"
+      ],
+      "category": "unknown"
+    },
+    "STC-001": {
+      "count": 1,
+      "situations": [
+        "volvo_xc40_536_007"
+      ],
+      "category": "unknown"
+    }
+  }
+}

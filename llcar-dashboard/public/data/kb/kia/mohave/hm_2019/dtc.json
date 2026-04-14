@@ -1,0 +1,195 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 27,
+  "codes": {
+    "P2463": {
+      "count": 1,
+      "situations": [
+        "kia_mohave_hm_001"
+      ],
+      "category": "engine"
+    },
+    "P2002": {
+      "count": 1,
+      "situations": [
+        "kia_mohave_hm_001"
+      ],
+      "category": "engine"
+    },
+    "P0420": {
+      "count": 1,
+      "situations": [
+        "kia_mohave_hm_001"
+      ],
+      "category": "engine"
+    },
+    "P200A": {
+      "count": 1,
+      "situations": [
+        "kia_mohave_hm_002"
+      ],
+      "category": "engine"
+    },
+    "P2015": {
+      "count": 1,
+      "situations": [
+        "kia_mohave_hm_002"
+      ],
+      "category": "engine"
+    },
+    "P2004": {
+      "count": 1,
+      "situations": [
+        "kia_mohave_hm_002"
+      ],
+      "category": "engine"
+    },
+    "P0401": {
+      "count": 1,
+      "situations": [
+        "kia_mohave_hm_003"
+      ],
+      "category": "engine"
+    },
+    "P0404": {
+      "count": 1,
+      "situations": [
+        "kia_mohave_hm_003"
+      ],
+      "category": "engine"
+    },
+    "P0409": {
+      "count": 1,
+      "situations": [
+        "kia_mohave_hm_003"
+      ],
+      "category": "engine"
+    },
+    "P0715": {
+      "count": 1,
+      "situations": [
+        "kia_mohave_hm_004"
+      ],
+      "category": "transmission"
+    },
+    "P0730": {
+      "count": 1,
+      "situations": [
+        "kia_mohave_hm_004"
+      ],
+      "category": "transmission"
+    },
+    "P0750": {
+      "count": 1,
+      "situations": [
+        "kia_mohave_hm_004"
+      ],
+      "category": "transmission"
+    },
+    "P1730": {
+      "count": 1,
+      "situations": [
+        "kia_mohave_hm_005"
+      ],
+      "category": "transmission"
+    },
+    "P1736": {
+      "count": 1,
+      "situations": [
+        "kia_mohave_hm_005"
+      ],
+      "category": "transmission"
+    },
+    "C1145": {
+      "count": 1,
+      "situations": [
+        "kia_mohave_hm_005"
+      ],
+      "category": "chassis"
+    },
+    "C1734": {
+      "count": 1,
+      "situations": [
+        "kia_mohave_hm_007"
+      ],
+      "category": "chassis"
+    },
+    "C1741": {
+      "count": 1,
+      "situations": [
+        "kia_mohave_hm_007"
+      ],
+      "category": "chassis"
+    },
+    "C1742": {
+      "count": 1,
+      "situations": [
+        "kia_mohave_hm_007"
+      ],
+      "category": "chassis"
+    },
+    "U0001": {
+      "count": 1,
+      "situations": [
+        "kia_mohave_hm_008"
+      ],
+      "category": "network"
+    },
+    "U0100": {
+      "count": 1,
+      "situations": [
+        "kia_mohave_hm_008"
+      ],
+      "category": "network"
+    },
+    "U0140": {
+      "count": 1,
+      "situations": [
+        "kia_mohave_hm_008"
+      ],
+      "category": "network"
+    },
+    "P0117": {
+      "count": 1,
+      "situations": [
+        "kia_mohave_hm_009"
+      ],
+      "category": "engine"
+    },
+    "P0118": {
+      "count": 1,
+      "situations": [
+        "kia_mohave_hm_009"
+      ],
+      "category": "engine"
+    },
+    "P0217": {
+      "count": 1,
+      "situations": [
+        "kia_mohave_hm_009"
+      ],
+      "category": "engine"
+    },
+    "C0574": {
+      "count": 1,
+      "situations": [
+        "kia_mohave_hm_010"
+      ],
+      "category": "chassis"
+    },
+    "C0569": {
+      "count": 1,
+      "situations": [
+        "kia_mohave_hm_010"
+      ],
+      "category": "chassis"
+    },
+    "P0580": {
+      "count": 1,
+      "situations": [
+        "kia_mohave_hm_010"
+      ],
+      "category": "engine"
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 10,
+  "codes": {
+    "11657619458": {
+      "count": 1,
+      "situations": [
+        "bmw_6_f13_002"
+      ],
+      "category": "unknown"
+    },
+    "P0299": {
+      "count": 1,
+      "situations": [
+        "bmw_6_f13_002"
+      ],
+      "category": "engine"
+    },
+    "230310": {
+      "count": 1,
+      "situations": [
+        "bmw_6_f13_003"
+      ],
+      "category": "unknown"
+    },
+    "230311": {
+      "count": 1,
+      "situations": [
+        "bmw_6_f13_003"
+      ],
+      "category": "unknown"
+    },
+    "230312": {
+      "count": 1,
+      "situations": [
+        "bmw_6_f13_003"
+      ],
+      "category": "unknown"
+    },
+    "A0FD03": {
+      "count": 1,
+      "situations": [
+        "bmw_6_f13_004"
+      ],
+      "category": "unknown"
+    },
+    "A0FE04": {
+      "count": 1,
+      "situations": [
+        "bmw_6_f13_004"
+      ],
+      "category": "unknown"
+    },
+    "P0087": {
+      "count": 1,
+      "situations": [
+        "bmw_6_f13_009"
+      ],
+      "category": "engine"
+    },
+    "P0090": {
+      "count": 1,
+      "situations": [
+        "bmw_6_f13_009"
+      ],
+      "category": "engine"
+    },
+    "29CC": {
+      "count": 1,
+      "situations": [
+        "bmw_6_f13_009"
+      ],
+      "category": "unknown"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 8,
+  "codes": {
+    "U0100": {
+      "count": 2,
+      "situations": [
+        "byd_dolphin_001",
+        "byd_dolphin_002"
+      ],
+      "category": "network"
+    },
+    "P0562": {
+      "count": 1,
+      "situations": [
+        "byd_dolphin_001"
+      ],
+      "category": "engine"
+    },
+    "B1201": {
+      "count": 1,
+      "situations": [
+        "byd_dolphin_002"
+      ],
+      "category": "body"
+    },
+    "B1202": {
+      "count": 1,
+      "situations": [
+        "byd_dolphin_002"
+      ],
+      "category": "body"
+    },
+    "P0A80": {
+      "count": 1,
+      "situations": [
+        "byd_dolphin_004"
+      ],
+      "category": "hv_electric"
+    },
+    "U0184": {
+      "count": 1,
+      "situations": [
+        "byd_dolphin_005"
+      ],
+      "category": "network"
+    },
+    "C1209": {
+      "count": 1,
+      "situations": [
+        "byd_dolphin_007"
+      ],
+      "category": "chassis"
+    },
+    "B2AAA": {
+      "count": 1,
+      "situations": [
+        "byd_dolphin_009"
+      ],
+      "category": "body"
+    }
+  }
+}

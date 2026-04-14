@@ -1,0 +1,83 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 11,
+  "codes": {
+    "P0520": {
+      "count": 1,
+      "situations": [
+        "alfa_romeo_giulia_952_001"
+      ],
+      "category": "engine"
+    },
+    "P0524": {
+      "count": 1,
+      "situations": [
+        "alfa_romeo_giulia_952_001"
+      ],
+      "category": "engine"
+    },
+    "P0700": {
+      "count": 1,
+      "situations": [
+        "alfa_romeo_giulia_952_002"
+      ],
+      "category": "transmission"
+    },
+    "P0733": {
+      "count": 1,
+      "situations": [
+        "alfa_romeo_giulia_952_002"
+      ],
+      "category": "transmission"
+    },
+    "P0729": {
+      "count": 1,
+      "situations": [
+        "alfa_romeo_giulia_952_002"
+      ],
+      "category": "transmission"
+    },
+    "U0100": {
+      "count": 1,
+      "situations": [
+        "alfa_romeo_giulia_952_003"
+      ],
+      "category": "network"
+    },
+    "C1A00": {
+      "count": 1,
+      "situations": [
+        "alfa_romeo_giulia_952_003"
+      ],
+      "category": "chassis"
+    },
+    "C0000": {
+      "count": 1,
+      "situations": [
+        "alfa_romeo_giulia_952_004"
+      ],
+      "category": "chassis"
+    },
+    "C1A01": {
+      "count": 1,
+      "situations": [
+        "alfa_romeo_giulia_952_004"
+      ],
+      "category": "chassis"
+    },
+    "P0300": {
+      "count": 1,
+      "situations": [
+        "alfa_romeo_giulia_952_005"
+      ],
+      "category": "engine"
+    },
+    "P0171": {
+      "count": 1,
+      "situations": [
+        "alfa_romeo_giulia_952_005"
+      ],
+      "category": "engine"
+    }
+  }
+}

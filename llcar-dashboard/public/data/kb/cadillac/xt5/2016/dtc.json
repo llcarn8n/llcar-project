@@ -1,0 +1,98 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 13,
+  "codes": {
+    "P0301": {
+      "count": 2,
+      "situations": [
+        "cadillac_xt5_2016_002",
+        "cadillac_xt5_2016_009"
+      ],
+      "category": "engine"
+    },
+    "P0008": {
+      "count": 1,
+      "situations": [
+        "cadillac_xt5_2016_001"
+      ],
+      "category": "engine"
+    },
+    "P0009": {
+      "count": 1,
+      "situations": [
+        "cadillac_xt5_2016_001"
+      ],
+      "category": "engine"
+    },
+    "P0016": {
+      "count": 1,
+      "situations": [
+        "cadillac_xt5_2016_001"
+      ],
+      "category": "engine"
+    },
+    "P0017": {
+      "count": 1,
+      "situations": [
+        "cadillac_xt5_2016_001"
+      ],
+      "category": "engine"
+    },
+    "P0302": {
+      "count": 1,
+      "situations": [
+        "cadillac_xt5_2016_002"
+      ],
+      "category": "engine"
+    },
+    "P0700": {
+      "count": 1,
+      "situations": [
+        "cadillac_xt5_2016_003"
+      ],
+      "category": "transmission"
+    },
+    "P0731": {
+      "count": 1,
+      "situations": [
+        "cadillac_xt5_2016_003"
+      ],
+      "category": "transmission"
+    },
+    "C0024": {
+      "count": 1,
+      "situations": [
+        "cadillac_xt5_2016_005"
+      ],
+      "category": "chassis"
+    },
+    "C1214": {
+      "count": 1,
+      "situations": [
+        "cadillac_xt5_2016_007"
+      ],
+      "category": "chassis"
+    },
+    "C1215": {
+      "count": 1,
+      "situations": [
+        "cadillac_xt5_2016_007"
+      ],
+      "category": "chassis"
+    },
+    "P0303": {
+      "count": 1,
+      "situations": [
+        "cadillac_xt5_2016_009"
+      ],
+      "category": "engine"
+    },
+    "P0305": {
+      "count": 1,
+      "situations": [
+        "cadillac_xt5_2016_009"
+      ],
+      "category": "engine"
+    }
+  }
+}

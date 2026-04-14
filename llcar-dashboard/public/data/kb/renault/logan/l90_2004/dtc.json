@@ -1,0 +1,48 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 6,
+  "codes": {
+    "P0300": {
+      "count": 1,
+      "situations": [
+        "renault_logan_l90_005"
+      ],
+      "category": "engine"
+    },
+    "P0171": {
+      "count": 1,
+      "situations": [
+        "renault_logan_l90_005"
+      ],
+      "category": "engine"
+    },
+    "P0301": {
+      "count": 1,
+      "situations": [
+        "renault_logan_l90_005"
+      ],
+      "category": "engine"
+    },
+    "P0128": {
+      "count": 1,
+      "situations": [
+        "renault_logan_l90_007"
+      ],
+      "category": "engine"
+    },
+    "P0620": {
+      "count": 1,
+      "situations": [
+        "renault_logan_l90_009"
+      ],
+      "category": "engine"
+    },
+    "P0622": {
+      "count": 1,
+      "situations": [
+        "renault_logan_l90_009"
+      ],
+      "category": "engine"
+    }
+  }
+}

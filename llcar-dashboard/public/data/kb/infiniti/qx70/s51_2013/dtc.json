@@ -1,0 +1,90 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 12,
+  "codes": {
+    "P0011": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx70_s51_001"
+      ],
+      "category": "engine"
+    },
+    "P0021": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx70_s51_001"
+      ],
+      "category": "engine"
+    },
+    "P0340": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx70_s51_001"
+      ],
+      "category": "engine"
+    },
+    "P1148": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx70_s51_001"
+      ],
+      "category": "engine"
+    },
+    "P0731": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx70_s51_002"
+      ],
+      "category": "transmission"
+    },
+    "P0732": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx70_s51_002"
+      ],
+      "category": "transmission"
+    },
+    "P0751": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx70_s51_002"
+      ],
+      "category": "transmission"
+    },
+    "P0171": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx70_s51_005"
+      ],
+      "category": "engine"
+    },
+    "P0174": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx70_s51_005"
+      ],
+      "category": "engine"
+    },
+    "P0507": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx70_s51_005"
+      ],
+      "category": "engine"
+    },
+    "B1052": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx70_s51_007"
+      ],
+      "category": "body"
+    },
+    "B1054": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx70_s51_007"
+      ],
+      "category": "body"
+    }
+  }
+}

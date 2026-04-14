@@ -1,0 +1,42 @@
+{
+  "model_name": "Air",
+  "generation": "Air (2021-н.в.)",
+  "body_styles": [
+    "sedan"
+  ],
+  "engines": [
+    {
+      "code": "Pure RWD",
+      "type": "Single PSM",
+      "power_kw": 321,
+      "power_hp": 430
+    },
+    {
+      "code": "Grand Touring AWD",
+      "type": "Dual PSM",
+      "power_kw": 604,
+      "power_hp": 810
+    },
+    {
+      "code": "Sapphire",
+      "type": "Tri-motor PSM",
+      "power_kw": 920,
+      "power_hp": 1234
+    }
+  ],
+  "transmissions": [
+    "single-speed"
+  ],
+  "platform": "Lucid space-efficient",
+  "production_years": "2021-н.в.",
+  "russia_relevant": false,
+  "battery": {
+    "capacity_kwh_options": [
+      88,
+      112,
+      118
+    ],
+    "chemistry": "NCMA (Samsung SDI)",
+    "voltage": 900
+  }
+}

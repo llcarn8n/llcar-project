@@ -1,0 +1,162 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 22,
+  "codes": {
+    "U1900": {
+      "count": 2,
+      "situations": [
+        "bmw_i7_002",
+        "bmw_i7_010"
+      ],
+      "category": "network"
+    },
+    "U0423": {
+      "count": 2,
+      "situations": [
+        "bmw_i7_002",
+        "bmw_i7_010"
+      ],
+      "category": "network"
+    },
+    "B10A3": {
+      "count": 1,
+      "situations": [
+        "bmw_i7_001"
+      ],
+      "category": "body"
+    },
+    "B10A4": {
+      "count": 1,
+      "situations": [
+        "bmw_i7_001"
+      ],
+      "category": "body"
+    },
+    "U0140": {
+      "count": 1,
+      "situations": [
+        "bmw_i7_001"
+      ],
+      "category": "network"
+    },
+    "B2099": {
+      "count": 1,
+      "situations": [
+        "bmw_i7_002"
+      ],
+      "category": "body"
+    },
+    "C100A": {
+      "count": 1,
+      "situations": [
+        "bmw_i7_003"
+      ],
+      "category": "chassis"
+    },
+    "C1096": {
+      "count": 1,
+      "situations": [
+        "bmw_i7_003"
+      ],
+      "category": "chassis"
+    },
+    "C1200": {
+      "count": 1,
+      "situations": [
+        "bmw_i7_003"
+      ],
+      "category": "chassis"
+    },
+    "B1046": {
+      "count": 1,
+      "situations": [
+        "bmw_i7_004"
+      ],
+      "category": "body"
+    },
+    "P0A94": {
+      "count": 1,
+      "situations": [
+        "bmw_i7_004"
+      ],
+      "category": "hv_electric"
+    },
+    "U0100": {
+      "count": 1,
+      "situations": [
+        "bmw_i7_004"
+      ],
+      "category": "network"
+    },
+    "P0300": {
+      "count": 1,
+      "situations": [
+        "bmw_i7_005"
+      ],
+      "category": "engine"
+    },
+    "P0316": {
+      "count": 1,
+      "situations": [
+        "bmw_i7_005"
+      ],
+      "category": "engine"
+    },
+    "C104A": {
+      "count": 1,
+      "situations": [
+        "bmw_i7_006"
+      ],
+      "category": "chassis"
+    },
+    "C1060": {
+      "count": 1,
+      "situations": [
+        "bmw_i7_006"
+      ],
+      "category": "chassis"
+    },
+    "B140E": {
+      "count": 1,
+      "situations": [
+        "bmw_i7_007"
+      ],
+      "category": "body"
+    },
+    "B1415": {
+      "count": 1,
+      "situations": [
+        "bmw_i7_007"
+      ],
+      "category": "body"
+    },
+    "P0524": {
+      "count": 1,
+      "situations": [
+        "bmw_i7_008"
+      ],
+      "category": "engine"
+    },
+    "P050D": {
+      "count": 1,
+      "situations": [
+        "bmw_i7_008"
+      ],
+      "category": "engine"
+    },
+    "P0A36": {
+      "count": 1,
+      "situations": [
+        "bmw_i7_009"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A00": {
+      "count": 1,
+      "situations": [
+        "bmw_i7_009"
+      ],
+      "category": "hv_electric"
+    }
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 26,
+  "codes": {
+    "P0016": {
+      "count": 1,
+      "situations": [
+        "jaguar_fpace_x761_001"
+      ],
+      "category": "engine"
+    },
+    "P0017": {
+      "count": 1,
+      "situations": [
+        "jaguar_fpace_x761_001"
+      ],
+      "category": "engine"
+    },
+    "P0011": {
+      "count": 1,
+      "situations": [
+        "jaguar_fpace_x761_001"
+      ],
+      "category": "engine"
+    },
+    "P0128": {
+      "count": 1,
+      "situations": [
+        "jaguar_fpace_x761_002"
+      ],
+      "category": "engine"
+    },
+    "P0217": {
+      "count": 1,
+      "situations": [
+        "jaguar_fpace_x761_002"
+      ],
+      "category": "engine"
+    },
+    "P011A": {
+      "count": 1,
+      "situations": [
+        "jaguar_fpace_x761_002"
+      ],
+      "category": "engine"
+    },
+    "U0140": {
+      "count": 1,
+      "situations": [
+        "jaguar_fpace_x761_003"
+      ],
+      "category": "network"
+    },
+    "U0073": {
+      "count": 1,
+      "situations": [
+        "jaguar_fpace_x761_003"
+      ],
+      "category": "network"
+    },
+    "U3000": {
+      "count": 1,
+      "situations": [
+        "jaguar_fpace_x761_003"
+      ],
+      "category": "network"
+    },
+    "C0031": {
+      "count": 1,
+      "situations": [
+        "jaguar_fpace_x761_004"
+      ],
+      "category": "chassis"
+    },
+    "C0034": {
+      "count": 1,
+      "situations": [
+        "jaguar_fpace_x761_004"
+      ],
+      "category": "chassis"
+    },
+    "C1A54": {
+      "count": 1,
+      "situations": [
+        "jaguar_fpace_x761_004"
+      ],
+      "category": "chassis"
+    },
+    "C110B": {
+      "count": 1,
+      "situations": [
+        "jaguar_fpace_x761_005"
+      ],
+      "category": "chassis"
+    },
+    "C110D": {
+      "count": 1,
+      "situations": [
+        "jaguar_fpace_x761_005"
+      ],
+      "category": "chassis"
+    },
+    "C1174": {
+      "count": 1,
+      "situations": [
+        "jaguar_fpace_x761_005"
+      ],
+      "category": "chassis"
+    },
+    "P0300": {
+      "count": 1,
+      "situations": [
+        "jaguar_fpace_x761_006"
+      ],
+      "category": "engine"
+    },
+    "P0301": {
+      "count": 1,
+      "situations": [
+        "jaguar_fpace_x761_006"
+      ],
+      "category": "engine"
+    },
+    "P0524": {
+      "count": 1,
+      "situations": [
+        "jaguar_fpace_x761_006"
+      ],
+      "category": "engine"
+    },
+    "P0730": {
+      "count": 1,
+      "situations": [
+        "jaguar_fpace_x761_008"
+      ],
+      "category": "transmission"
+    },
+    "P0740": {
+      "count": 1,
+      "situations": [
+        "jaguar_fpace_x761_008"
+      ],
+      "category": "transmission"
+    },
+    "P17BF": {
+      "count": 1,
+      "situations": [
+        "jaguar_fpace_x761_008"
+      ],
+      "category": "transmission"
+    },
+    "C1609": {
+      "count": 1,
+      "situations": [
+        "jaguar_fpace_x761_009"
+      ],
+      "category": "chassis"
+    },
+    "C161C": {
+      "count": 1,
+      "situations": [
+        "jaguar_fpace_x761_009"
+      ],
+      "category": "chassis"
+    },
+    "P242F": {
+      "count": 1,
+      "situations": [
+        "jaguar_fpace_x761_010"
+      ],
+      "category": "engine"
+    },
+    "P2002": {
+      "count": 1,
+      "situations": [
+        "jaguar_fpace_x761_010"
+      ],
+      "category": "engine"
+    },
+    "P20EE": {
+      "count": 1,
+      "situations": [
+        "jaguar_fpace_x761_010"
+      ],
+      "category": "engine"
+    }
+  }
+}

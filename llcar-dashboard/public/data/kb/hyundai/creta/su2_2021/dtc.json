@@ -1,0 +1,97 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 13,
+  "codes": {
+    "P0524": {
+      "count": 1,
+      "situations": [
+        "hyundai_creta_su2_engine_knock_g4fg"
+      ],
+      "category": "engine"
+    },
+    "P0868": {
+      "count": 1,
+      "situations": [
+        "hyundai_creta_su2_trans_cvt_judder"
+      ],
+      "category": "engine"
+    },
+    "P0746": {
+      "count": 1,
+      "situations": [
+        "hyundai_creta_su2_trans_cvt_judder"
+      ],
+      "category": "transmission"
+    },
+    "B1602": {
+      "count": 1,
+      "situations": [
+        "hyundai_creta_su2_electrical_fob_battery"
+      ],
+      "category": "body"
+    },
+    "P0420": {
+      "count": 1,
+      "situations": [
+        "hyundai_creta_su2_engine_catsc_g4nh"
+      ],
+      "category": "engine"
+    },
+    "P0430": {
+      "count": 1,
+      "situations": [
+        "hyundai_creta_su2_engine_catsc_g4nh"
+      ],
+      "category": "engine"
+    },
+    "P0300": {
+      "count": 1,
+      "situations": [
+        "hyundai_creta_su2_engine_catsc_g4nh"
+      ],
+      "category": "engine"
+    },
+    "P0715": {
+      "count": 1,
+      "situations": [
+        "hyundai_creta_su2_trans_6at_solenoid"
+      ],
+      "category": "transmission"
+    },
+    "P0731": {
+      "count": 1,
+      "situations": [
+        "hyundai_creta_su2_trans_6at_solenoid"
+      ],
+      "category": "transmission"
+    },
+    "P0973": {
+      "count": 1,
+      "situations": [
+        "hyundai_creta_su2_trans_6at_solenoid"
+      ],
+      "category": "engine"
+    },
+    "P0116": {
+      "count": 1,
+      "situations": [
+        "hyundai_creta_su2_cooling_rad_crack"
+      ],
+      "category": "engine"
+    },
+    "P0117": {
+      "count": 1,
+      "situations": [
+        "hyundai_creta_su2_cooling_rad_crack"
+      ],
+      "category": "engine"
+    },
+    "B1405": {
+      "count": 1,
+      "situations": [
+        "hyundai_creta_su2_electrical_bluelink_fail"
+      ],
+      "category": "body"
+    }
+  }
+}

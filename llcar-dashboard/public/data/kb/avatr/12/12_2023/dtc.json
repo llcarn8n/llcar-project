@@ -1,0 +1,41 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 5,
+  "codes": {
+    "P0A82": {
+      "count": 1,
+      "situations": [
+        "avatr_12_001"
+      ],
+      "category": "hv_electric"
+    },
+    "U3003": {
+      "count": 1,
+      "situations": [
+        "avatr_12_001"
+      ],
+      "category": "network"
+    },
+    "P0D35": {
+      "count": 1,
+      "situations": [
+        "avatr_12_004"
+      ],
+      "category": "hv_electric"
+    },
+    "P1A15": {
+      "count": 1,
+      "situations": [
+        "avatr_12_004"
+      ],
+      "category": "engine"
+    },
+    "C0455": {
+      "count": 1,
+      "situations": [
+        "avatr_12_007"
+      ],
+      "category": "chassis"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 8,
+  "codes": {
+    "P0171": {
+      "count": 2,
+      "situations": [
+        "skoda_fabia_nj_001",
+        "skoda_fabia_nj_006"
+      ],
+      "category": "engine"
+    },
+    "P0300": {
+      "count": 1,
+      "situations": [
+        "skoda_fabia_nj_001"
+      ],
+      "category": "engine"
+    },
+    "P17BF": {
+      "count": 1,
+      "situations": [
+        "skoda_fabia_nj_002"
+      ],
+      "category": "transmission"
+    },
+    "P189E": {
+      "count": 1,
+      "situations": [
+        "skoda_fabia_nj_002"
+      ],
+      "category": "engine"
+    },
+    "P0826": {
+      "count": 1,
+      "situations": [
+        "skoda_fabia_nj_002"
+      ],
+      "category": "engine"
+    },
+    "P0172": {
+      "count": 1,
+      "situations": [
+        "skoda_fabia_nj_006"
+      ],
+      "category": "engine"
+    },
+    "B11E4": {
+      "count": 1,
+      "situations": [
+        "skoda_fabia_nj_008"
+      ],
+      "category": "body"
+    },
+    "B11E5": {
+      "count": 1,
+      "situations": [
+        "skoda_fabia_nj_008"
+      ],
+      "category": "body"
+    }
+  }
+}

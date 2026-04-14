@@ -1,0 +1,141 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 19,
+  "codes": {
+    "P0420": {
+      "count": 2,
+      "situations": [
+        "toyota_camry_xv40_001",
+        "toyota_camry_xv40_010"
+      ],
+      "category": "engine"
+    },
+    "P0300": {
+      "count": 2,
+      "situations": [
+        "toyota_camry_xv40_001",
+        "toyota_camry_xv40_010"
+      ],
+      "category": "engine"
+    },
+    "P0301": {
+      "count": 1,
+      "situations": [
+        "toyota_camry_xv40_001"
+      ],
+      "category": "engine"
+    },
+    "P0302": {
+      "count": 1,
+      "situations": [
+        "toyota_camry_xv40_001"
+      ],
+      "category": "engine"
+    },
+    "P0303": {
+      "count": 1,
+      "situations": [
+        "toyota_camry_xv40_001"
+      ],
+      "category": "engine"
+    },
+    "P0304": {
+      "count": 1,
+      "situations": [
+        "toyota_camry_xv40_001"
+      ],
+      "category": "engine"
+    },
+    "P0750": {
+      "count": 1,
+      "situations": [
+        "toyota_camry_xv40_003"
+      ],
+      "category": "transmission"
+    },
+    "P0753": {
+      "count": 1,
+      "situations": [
+        "toyota_camry_xv40_003"
+      ],
+      "category": "transmission"
+    },
+    "P0770": {
+      "count": 1,
+      "situations": [
+        "toyota_camry_xv40_003"
+      ],
+      "category": "transmission"
+    },
+    "P0773": {
+      "count": 1,
+      "situations": [
+        "toyota_camry_xv40_003"
+      ],
+      "category": "transmission"
+    },
+    "P0717": {
+      "count": 1,
+      "situations": [
+        "toyota_camry_xv40_003"
+      ],
+      "category": "transmission"
+    },
+    "C1511": {
+      "count": 1,
+      "situations": [
+        "toyota_camry_xv40_004"
+      ],
+      "category": "chassis"
+    },
+    "C1513": {
+      "count": 1,
+      "situations": [
+        "toyota_camry_xv40_004"
+      ],
+      "category": "chassis"
+    },
+    "C1201": {
+      "count": 1,
+      "situations": [
+        "toyota_camry_xv40_007"
+      ],
+      "category": "chassis"
+    },
+    "C1300": {
+      "count": 1,
+      "situations": [
+        "toyota_camry_xv40_007"
+      ],
+      "category": "chassis"
+    },
+    "P0016": {
+      "count": 1,
+      "situations": [
+        "toyota_camry_xv40_009"
+      ],
+      "category": "engine"
+    },
+    "P0335": {
+      "count": 1,
+      "situations": [
+        "toyota_camry_xv40_009"
+      ],
+      "category": "engine"
+    },
+    "P0562": {
+      "count": 1,
+      "situations": [
+        "toyota_camry_xv40_009"
+      ],
+      "category": "engine"
+    },
+    "P0430": {
+      "count": 1,
+      "situations": [
+        "toyota_camry_xv40_010"
+      ],
+      "category": "engine"
+    }
+  }
+}

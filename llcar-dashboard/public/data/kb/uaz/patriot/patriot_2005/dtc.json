@@ -1,0 +1,34 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 4,
+  "codes": {
+    "B1000": {
+      "count": 1,
+      "situations": [
+        "uaz_patriot_2005_002"
+      ],
+      "category": "body"
+    },
+    "B1001": {
+      "count": 1,
+      "situations": [
+        "uaz_patriot_2005_002"
+      ],
+      "category": "body"
+    },
+    "P0711": {
+      "count": 1,
+      "situations": [
+        "uaz_patriot_2005_006"
+      ],
+      "category": "transmission"
+    },
+    "P0218": {
+      "count": 1,
+      "situations": [
+        "uaz_patriot_2005_006"
+      ],
+      "category": "engine"
+    }
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 22,
+  "codes": {
+    "P0217": {
+      "count": 2,
+      "situations": [
+        "porsche_cayenne_92a_001",
+        "porsche_cayenne_92a_010"
+      ],
+      "category": "engine"
+    },
+    "P0128": {
+      "count": 1,
+      "situations": [
+        "porsche_cayenne_92a_001"
+      ],
+      "category": "engine"
+    },
+    "P011A": {
+      "count": 1,
+      "situations": [
+        "porsche_cayenne_92a_001"
+      ],
+      "category": "engine"
+    },
+    "P1A03": {
+      "count": 1,
+      "situations": [
+        "porsche_cayenne_92a_002"
+      ],
+      "category": "engine"
+    },
+    "P1A04": {
+      "count": 1,
+      "situations": [
+        "porsche_cayenne_92a_002"
+      ],
+      "category": "engine"
+    },
+    "C163A": {
+      "count": 1,
+      "situations": [
+        "porsche_cayenne_92a_002"
+      ],
+      "category": "chassis"
+    },
+    "C110B": {
+      "count": 1,
+      "situations": [
+        "porsche_cayenne_92a_003"
+      ],
+      "category": "chassis"
+    },
+    "C110D": {
+      "count": 1,
+      "situations": [
+        "porsche_cayenne_92a_003"
+      ],
+      "category": "chassis"
+    },
+    "C1174": {
+      "count": 1,
+      "situations": [
+        "porsche_cayenne_92a_003"
+      ],
+      "category": "chassis"
+    },
+    "P0341": {
+      "count": 1,
+      "situations": [
+        "porsche_cayenne_92a_005"
+      ],
+      "category": "engine"
+    },
+    "P0346": {
+      "count": 1,
+      "situations": [
+        "porsche_cayenne_92a_005"
+      ],
+      "category": "engine"
+    },
+    "P0523": {
+      "count": 1,
+      "situations": [
+        "porsche_cayenne_92a_005"
+      ],
+      "category": "engine"
+    },
+    "P0730": {
+      "count": 1,
+      "situations": [
+        "porsche_cayenne_92a_006"
+      ],
+      "category": "transmission"
+    },
+    "P0740": {
+      "count": 1,
+      "situations": [
+        "porsche_cayenne_92a_006"
+      ],
+      "category": "transmission"
+    },
+    "P17BF": {
+      "count": 1,
+      "situations": [
+        "porsche_cayenne_92a_006"
+      ],
+      "category": "transmission"
+    },
+    "C0041": {
+      "count": 1,
+      "situations": [
+        "porsche_cayenne_92a_007"
+      ],
+      "category": "chassis"
+    },
+    "C0031": {
+      "count": 1,
+      "situations": [
+        "porsche_cayenne_92a_008"
+      ],
+      "category": "chassis"
+    },
+    "C0034": {
+      "count": 1,
+      "situations": [
+        "porsche_cayenne_92a_008"
+      ],
+      "category": "chassis"
+    },
+    "C14A0": {
+      "count": 1,
+      "situations": [
+        "porsche_cayenne_92a_009"
+      ],
+      "category": "chassis"
+    },
+    "C14A1": {
+      "count": 1,
+      "situations": [
+        "porsche_cayenne_92a_009"
+      ],
+      "category": "chassis"
+    },
+    "C14B0": {
+      "count": 1,
+      "situations": [
+        "porsche_cayenne_92a_009"
+      ],
+      "category": "chassis"
+    },
+    "P0197": {
+      "count": 1,
+      "situations": [
+        "porsche_cayenne_92a_010"
+      ],
+      "category": "engine"
+    }
+  }
+}

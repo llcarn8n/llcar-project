@@ -1,0 +1,140 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 19,
+  "codes": {
+    "P0300": {
+      "count": 2,
+      "situations": [
+        "kia_cerato_yd_006",
+        "kia_cerato_yd_007"
+      ],
+      "category": "engine"
+    },
+    "P0325": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_yd_001"
+      ],
+      "category": "engine"
+    },
+    "P0330": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_yd_001"
+      ],
+      "category": "engine"
+    },
+    "C1205": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_yd_002"
+      ],
+      "category": "chassis"
+    },
+    "C1200": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_yd_002"
+      ],
+      "category": "chassis"
+    },
+    "P0715": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_yd_003"
+      ],
+      "category": "transmission"
+    },
+    "P0731": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_yd_003"
+      ],
+      "category": "transmission"
+    },
+    "P0756": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_yd_003"
+      ],
+      "category": "transmission"
+    },
+    "P0751": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_yd_003"
+      ],
+      "category": "transmission"
+    },
+    "C1113": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_yd_004"
+      ],
+      "category": "chassis"
+    },
+    "C1203": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_yd_004"
+      ],
+      "category": "chassis"
+    },
+    "B1346": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_yd_005"
+      ],
+      "category": "body"
+    },
+    "B1347": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_yd_005"
+      ],
+      "category": "body"
+    },
+    "B1628": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_yd_005"
+      ],
+      "category": "body"
+    },
+    "P0171": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_yd_006"
+      ],
+      "category": "engine"
+    },
+    "P0301": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_yd_007"
+      ],
+      "category": "engine"
+    },
+    "P0302": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_yd_007"
+      ],
+      "category": "engine"
+    },
+    "P0303": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_yd_007"
+      ],
+      "category": "engine"
+    },
+    "P0304": {
+      "count": 1,
+      "situations": [
+        "kia_cerato_yd_007"
+      ],
+      "category": "engine"
+    }
+  }
+}

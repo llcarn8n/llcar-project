@@ -1,0 +1,55 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 7,
+  "codes": {
+    "P0D35": {
+      "count": 1,
+      "situations": [
+        "zeekr_007_001"
+      ],
+      "category": "hv_electric"
+    },
+    "U3003": {
+      "count": 1,
+      "situations": [
+        "zeekr_007_001"
+      ],
+      "category": "network"
+    },
+    "C0455": {
+      "count": 1,
+      "situations": [
+        "zeekr_007_004"
+      ],
+      "category": "chassis"
+    },
+    "P0122": {
+      "count": 1,
+      "situations": [
+        "zeekr_007_006"
+      ],
+      "category": "engine"
+    },
+    "P1A10": {
+      "count": 1,
+      "situations": [
+        "zeekr_007_006"
+      ],
+      "category": "engine"
+    },
+    "C0750": {
+      "count": 1,
+      "situations": [
+        "zeekr_007_007"
+      ],
+      "category": "chassis"
+    },
+    "C0755": {
+      "count": 1,
+      "situations": [
+        "zeekr_007_007"
+      ],
+      "category": "chassis"
+    }
+  }
+}

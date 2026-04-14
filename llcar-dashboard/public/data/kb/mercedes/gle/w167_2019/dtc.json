@@ -1,0 +1,230 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 32,
+  "codes": {
+    "P0A1F": {
+      "count": 1,
+      "situations": [
+        "merc_gle_w167_001"
+      ],
+      "category": "hv_electric"
+    },
+    "P1CE5": {
+      "count": 1,
+      "situations": [
+        "merc_gle_w167_001"
+      ],
+      "category": "engine"
+    },
+    "P0A94": {
+      "count": 1,
+      "situations": [
+        "merc_gle_w167_001"
+      ],
+      "category": "hv_electric"
+    },
+    "P0726": {
+      "count": 1,
+      "situations": [
+        "merc_gle_w167_002"
+      ],
+      "category": "transmission"
+    },
+    "P0715": {
+      "count": 1,
+      "situations": [
+        "merc_gle_w167_002"
+      ],
+      "category": "transmission"
+    },
+    "P0731": {
+      "count": 1,
+      "situations": [
+        "merc_gle_w167_002"
+      ],
+      "category": "transmission"
+    },
+    "P20EE": {
+      "count": 1,
+      "situations": [
+        "merc_gle_w167_003"
+      ],
+      "category": "engine"
+    },
+    "P11DC": {
+      "count": 1,
+      "situations": [
+        "merc_gle_w167_003"
+      ],
+      "category": "engine"
+    },
+    "P149B": {
+      "count": 1,
+      "situations": [
+        "merc_gle_w167_003"
+      ],
+      "category": "engine"
+    },
+    "P13D0": {
+      "count": 1,
+      "situations": [
+        "merc_gle_w167_003"
+      ],
+      "category": "engine"
+    },
+    "P1876": {
+      "count": 1,
+      "situations": [
+        "merc_gle_w167_004"
+      ],
+      "category": "engine"
+    },
+    "C1401": {
+      "count": 1,
+      "situations": [
+        "merc_gle_w167_004"
+      ],
+      "category": "chassis"
+    },
+    "C1402": {
+      "count": 1,
+      "situations": [
+        "merc_gle_w167_004"
+      ],
+      "category": "chassis"
+    },
+    "C1130": {
+      "count": 1,
+      "situations": [
+        "merc_gle_w167_005"
+      ],
+      "category": "chassis"
+    },
+    "C1142": {
+      "count": 1,
+      "situations": [
+        "merc_gle_w167_005"
+      ],
+      "category": "chassis"
+    },
+    "B2100": {
+      "count": 1,
+      "situations": [
+        "merc_gle_w167_005"
+      ],
+      "category": "body"
+    },
+    "P0480": {
+      "count": 1,
+      "situations": [
+        "merc_gle_w167_006"
+      ],
+      "category": "engine"
+    },
+    "P011A": {
+      "count": 1,
+      "situations": [
+        "merc_gle_w167_006"
+      ],
+      "category": "engine"
+    },
+    "P0597": {
+      "count": 1,
+      "situations": [
+        "merc_gle_w167_006"
+      ],
+      "category": "engine"
+    },
+    "P2004": {
+      "count": 1,
+      "situations": [
+        "merc_gle_w167_006"
+      ],
+      "category": "engine"
+    },
+    "C1010": {
+      "count": 1,
+      "situations": [
+        "merc_gle_w167_007"
+      ],
+      "category": "chassis"
+    },
+    "C1201": {
+      "count": 1,
+      "situations": [
+        "merc_gle_w167_007"
+      ],
+      "category": "chassis"
+    },
+    "C1143": {
+      "count": 1,
+      "situations": [
+        "merc_gle_w167_007"
+      ],
+      "category": "chassis"
+    },
+    "B210C": {
+      "count": 1,
+      "situations": [
+        "merc_gle_w167_008"
+      ],
+      "category": "body"
+    },
+    "U0100": {
+      "count": 1,
+      "situations": [
+        "merc_gle_w167_008"
+      ],
+      "category": "network"
+    },
+    "B2776": {
+      "count": 1,
+      "situations": [
+        "merc_gle_w167_008"
+      ],
+      "category": "body"
+    },
+    "P059F": {
+      "count": 1,
+      "situations": [
+        "merc_gle_w167_009"
+      ],
+      "category": "engine"
+    },
+    "P05A0": {
+      "count": 1,
+      "situations": [
+        "merc_gle_w167_009"
+      ],
+      "category": "engine"
+    },
+    "P059E": {
+      "count": 1,
+      "situations": [
+        "merc_gle_w167_009"
+      ],
+      "category": "engine"
+    },
+    "P052E": {
+      "count": 1,
+      "situations": [
+        "merc_gle_w167_010"
+      ],
+      "category": "engine"
+    },
+    "P0504": {
+      "count": 1,
+      "situations": [
+        "merc_gle_w167_010"
+      ],
+      "category": "engine"
+    },
+    "P0401": {
+      "count": 1,
+      "situations": [
+        "merc_gle_w167_010"
+      ],
+      "category": "engine"
+    }
+  }
+}

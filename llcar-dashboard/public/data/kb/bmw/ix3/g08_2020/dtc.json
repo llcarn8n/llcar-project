@@ -1,0 +1,221 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 30,
+  "codes": {
+    "U0100": {
+      "count": 3,
+      "situations": [
+        "bmw_ix3_003",
+        "bmw_ix3_005",
+        "bmw_ix3_010"
+      ],
+      "category": "network"
+    },
+    "P0D00": {
+      "count": 2,
+      "situations": [
+        "bmw_ix3_003",
+        "bmw_ix3_010"
+      ],
+      "category": "hv_electric"
+    },
+    "P0D10": {
+      "count": 2,
+      "situations": [
+        "bmw_ix3_003",
+        "bmw_ix3_010"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A84": {
+      "count": 2,
+      "situations": [
+        "bmw_ix3_004",
+        "bmw_ix3_006"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A80": {
+      "count": 1,
+      "situations": [
+        "bmw_ix3_001"
+      ],
+      "category": "hv_electric"
+    },
+    "P0AFA": {
+      "count": 1,
+      "situations": [
+        "bmw_ix3_001"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A9C": {
+      "count": 1,
+      "situations": [
+        "bmw_ix3_001"
+      ],
+      "category": "hv_electric"
+    },
+    "B7F056": {
+      "count": 1,
+      "situations": [
+        "bmw_ix3_001"
+      ],
+      "category": "body"
+    },
+    "P0A90": {
+      "count": 1,
+      "situations": [
+        "bmw_ix3_002"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A4A": {
+      "count": 1,
+      "situations": [
+        "bmw_ix3_002"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A3F": {
+      "count": 1,
+      "situations": [
+        "bmw_ix3_002"
+      ],
+      "category": "hv_electric"
+    },
+    "B7F023": {
+      "count": 1,
+      "situations": [
+        "bmw_ix3_002"
+      ],
+      "category": "body"
+    },
+    "P0AC0": {
+      "count": 1,
+      "situations": [
+        "bmw_ix3_003"
+      ],
+      "category": "hv_electric"
+    },
+    "B7F089": {
+      "count": 1,
+      "situations": [
+        "bmw_ix3_003"
+      ],
+      "category": "body"
+    },
+    "P0A81": {
+      "count": 1,
+      "situations": [
+        "bmw_ix3_004"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A82": {
+      "count": 1,
+      "situations": [
+        "bmw_ix3_004"
+      ],
+      "category": "hv_electric"
+    },
+    "B7F112": {
+      "count": 1,
+      "situations": [
+        "bmw_ix3_004"
+      ],
+      "category": "body"
+    },
+    "U0101": {
+      "count": 1,
+      "situations": [
+        "bmw_ix3_005"
+      ],
+      "category": "network"
+    },
+    "B7F000": {
+      "count": 1,
+      "situations": [
+        "bmw_ix3_005"
+      ],
+      "category": "body"
+    },
+    "U0140": {
+      "count": 1,
+      "situations": [
+        "bmw_ix3_005"
+      ],
+      "category": "network"
+    },
+    "U0151": {
+      "count": 1,
+      "situations": [
+        "bmw_ix3_005"
+      ],
+      "category": "network"
+    },
+    "P0AE8": {
+      "count": 1,
+      "situations": [
+        "bmw_ix3_006"
+      ],
+      "category": "hv_electric"
+    },
+    "P0AE9": {
+      "count": 1,
+      "situations": [
+        "bmw_ix3_006"
+      ],
+      "category": "hv_electric"
+    },
+    "B7F234": {
+      "count": 1,
+      "situations": [
+        "bmw_ix3_006"
+      ],
+      "category": "body"
+    },
+    "C0020": {
+      "count": 1,
+      "situations": [
+        "bmw_ix3_007"
+      ],
+      "category": "chassis"
+    },
+    "B7F567": {
+      "count": 1,
+      "situations": [
+        "bmw_ix3_007"
+      ],
+      "category": "body"
+    },
+    "P0A8D": {
+      "count": 1,
+      "situations": [
+        "bmw_ix3_008"
+      ],
+      "category": "hv_electric"
+    },
+    "P06B8": {
+      "count": 1,
+      "situations": [
+        "bmw_ix3_008"
+      ],
+      "category": "engine"
+    },
+    "B7F345": {
+      "count": 1,
+      "situations": [
+        "bmw_ix3_008"
+      ],
+      "category": "body"
+    },
+    "U0173": {
+      "count": 1,
+      "situations": [
+        "bmw_ix3_008"
+      ],
+      "category": "network"
+    }
+  }
+}

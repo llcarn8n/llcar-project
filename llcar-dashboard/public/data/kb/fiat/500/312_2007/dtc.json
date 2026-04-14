@@ -1,0 +1,69 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 9,
+  "codes": {
+    "P0810": {
+      "count": 1,
+      "situations": [
+        "fiat_500_001"
+      ],
+      "category": "engine"
+    },
+    "P0851": {
+      "count": 1,
+      "situations": [
+        "fiat_500_001"
+      ],
+      "category": "engine"
+    },
+    "U0101": {
+      "count": 1,
+      "situations": [
+        "fiat_500_001"
+      ],
+      "category": "network"
+    },
+    "P0016": {
+      "count": 1,
+      "situations": [
+        "fiat_500_002"
+      ],
+      "category": "engine"
+    },
+    "P0017": {
+      "count": 1,
+      "situations": [
+        "fiat_500_002"
+      ],
+      "category": "engine"
+    },
+    "P0125": {
+      "count": 1,
+      "situations": [
+        "fiat_500_005"
+      ],
+      "category": "engine"
+    },
+    "P0128": {
+      "count": 1,
+      "situations": [
+        "fiat_500_005"
+      ],
+      "category": "engine"
+    },
+    "P0505": {
+      "count": 1,
+      "situations": [
+        "fiat_500_008"
+      ],
+      "category": "engine"
+    },
+    "P0507": {
+      "count": 1,
+      "situations": [
+        "fiat_500_008"
+      ],
+      "category": "engine"
+    }
+  }
+}

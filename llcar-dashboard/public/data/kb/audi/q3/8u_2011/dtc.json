@@ -1,0 +1,147 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 20,
+  "codes": {
+    "P179E": {
+      "count": 2,
+      "situations": [
+        "audi_q3_8u_001",
+        "audi_q3_8u_004"
+      ],
+      "category": "transmission"
+    },
+    "P179F": {
+      "count": 1,
+      "situations": [
+        "audi_q3_8u_001"
+      ],
+      "category": "transmission"
+    },
+    "P1734": {
+      "count": 1,
+      "situations": [
+        "audi_q3_8u_001"
+      ],
+      "category": "transmission"
+    },
+    "P0016": {
+      "count": 1,
+      "situations": [
+        "audi_q3_8u_002"
+      ],
+      "category": "engine"
+    },
+    "P0011": {
+      "count": 1,
+      "situations": [
+        "audi_q3_8u_002"
+      ],
+      "category": "engine"
+    },
+    "P000A": {
+      "count": 1,
+      "situations": [
+        "audi_q3_8u_002"
+      ],
+      "category": "engine"
+    },
+    "P1890": {
+      "count": 1,
+      "situations": [
+        "audi_q3_8u_003"
+      ],
+      "category": "engine"
+    },
+    "P1891": {
+      "count": 1,
+      "situations": [
+        "audi_q3_8u_003"
+      ],
+      "category": "engine"
+    },
+    "P1895": {
+      "count": 1,
+      "situations": [
+        "audi_q3_8u_003"
+      ],
+      "category": "engine"
+    },
+    "P073C": {
+      "count": 1,
+      "situations": [
+        "audi_q3_8u_004"
+      ],
+      "category": "transmission"
+    },
+    "P17BF": {
+      "count": 1,
+      "situations": [
+        "audi_q3_8u_004"
+      ],
+      "category": "transmission"
+    },
+    "P0300": {
+      "count": 1,
+      "situations": [
+        "audi_q3_8u_005"
+      ],
+      "category": "engine"
+    },
+    "P0420": {
+      "count": 1,
+      "situations": [
+        "audi_q3_8u_005"
+      ],
+      "category": "engine"
+    },
+    "P011A": {
+      "count": 1,
+      "situations": [
+        "audi_q3_8u_006"
+      ],
+      "category": "engine"
+    },
+    "P0128": {
+      "count": 1,
+      "situations": [
+        "audi_q3_8u_006"
+      ],
+      "category": "engine"
+    },
+    "P0401": {
+      "count": 1,
+      "situations": [
+        "audi_q3_8u_007"
+      ],
+      "category": "engine"
+    },
+    "P0403": {
+      "count": 1,
+      "situations": [
+        "audi_q3_8u_007"
+      ],
+      "category": "engine"
+    },
+    "P042F": {
+      "count": 1,
+      "situations": [
+        "audi_q3_8u_007"
+      ],
+      "category": "engine"
+    },
+    "B2000": {
+      "count": 1,
+      "situations": [
+        "audi_q3_8u_009"
+      ],
+      "category": "body"
+    },
+    "B200F": {
+      "count": 1,
+      "situations": [
+        "audi_q3_8u_009"
+      ],
+      "category": "body"
+    }
+  }
+}

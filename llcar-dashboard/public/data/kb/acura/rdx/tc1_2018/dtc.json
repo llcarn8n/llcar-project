@@ -1,0 +1,125 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 17,
+  "codes": {
+    "P0300": {
+      "count": 1,
+      "situations": [
+        "acura_rdx_001"
+      ],
+      "category": "engine"
+    },
+    "P0301": {
+      "count": 1,
+      "situations": [
+        "acura_rdx_001"
+      ],
+      "category": "engine"
+    },
+    "P0700": {
+      "count": 1,
+      "situations": [
+        "acura_rdx_002"
+      ],
+      "category": "transmission"
+    },
+    "P0741": {
+      "count": 1,
+      "situations": [
+        "acura_rdx_002"
+      ],
+      "category": "transmission"
+    },
+    "P0868": {
+      "count": 1,
+      "situations": [
+        "acura_rdx_002"
+      ],
+      "category": "engine"
+    },
+    "U0184": {
+      "count": 1,
+      "situations": [
+        "acura_rdx_003"
+      ],
+      "category": "network"
+    },
+    "U0100": {
+      "count": 1,
+      "situations": [
+        "acura_rdx_003"
+      ],
+      "category": "network"
+    },
+    "U0402": {
+      "count": 1,
+      "situations": [
+        "acura_rdx_003"
+      ],
+      "category": "network"
+    },
+    "C0043": {
+      "count": 1,
+      "situations": [
+        "acura_rdx_004"
+      ],
+      "category": "chassis"
+    },
+    "C0045": {
+      "count": 1,
+      "situations": [
+        "acura_rdx_004"
+      ],
+      "category": "chassis"
+    },
+    "P0299": {
+      "count": 1,
+      "situations": [
+        "acura_rdx_005"
+      ],
+      "category": "engine"
+    },
+    "P0234": {
+      "count": 1,
+      "situations": [
+        "acura_rdx_005"
+      ],
+      "category": "engine"
+    },
+    "P0046": {
+      "count": 1,
+      "situations": [
+        "acura_rdx_005"
+      ],
+      "category": "engine"
+    },
+    "C0031": {
+      "count": 1,
+      "situations": [
+        "acura_rdx_008"
+      ],
+      "category": "chassis"
+    },
+    "C0034": {
+      "count": 1,
+      "situations": [
+        "acura_rdx_008"
+      ],
+      "category": "chassis"
+    },
+    "B1405": {
+      "count": 1,
+      "situations": [
+        "acura_rdx_010"
+      ],
+      "category": "body"
+    },
+    "B1406": {
+      "count": 1,
+      "situations": [
+        "acura_rdx_010"
+      ],
+      "category": "body"
+    }
+  }
+}

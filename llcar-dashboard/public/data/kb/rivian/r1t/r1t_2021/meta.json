@@ -1,0 +1,35 @@
+{
+  "model_name": "R1T",
+  "generation": "R1T (2021-н.в.)",
+  "body_styles": [
+    "pickup"
+  ],
+  "engines": [
+    {
+      "code": "Quad-motor Performance",
+      "type": "Quad PSM",
+      "power_kw": 623,
+      "power_hp": 835
+    },
+    {
+      "code": "Dual-motor",
+      "type": "Dual PSM",
+      "power_kw": 447,
+      "power_hp": 600
+    }
+  ],
+  "transmissions": [
+    "single-speed"
+  ],
+  "platform": "Rivian skateboard",
+  "production_years": "2021-н.в.",
+  "russia_relevant": false,
+  "battery": {
+    "capacity_kwh_options": [
+      135,
+      149
+    ],
+    "chemistry": "NCM (Samsung SDI)",
+    "voltage": 400
+  }
+}

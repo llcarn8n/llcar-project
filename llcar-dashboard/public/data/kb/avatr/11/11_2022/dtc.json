@@ -1,0 +1,62 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 8,
+  "codes": {
+    "U0200": {
+      "count": 1,
+      "situations": [
+        "avatr_11_002"
+      ],
+      "category": "network"
+    },
+    "B2210": {
+      "count": 1,
+      "situations": [
+        "avatr_11_002"
+      ],
+      "category": "body"
+    },
+    "P062B": {
+      "count": 1,
+      "situations": [
+        "avatr_11_003"
+      ],
+      "category": "engine"
+    },
+    "B1520": {
+      "count": 1,
+      "situations": [
+        "avatr_11_003"
+      ],
+      "category": "body"
+    },
+    "U3010": {
+      "count": 1,
+      "situations": [
+        "avatr_11_004"
+      ],
+      "category": "network"
+    },
+    "C1F00": {
+      "count": 1,
+      "situations": [
+        "avatr_11_004"
+      ],
+      "category": "chassis"
+    },
+    "C1050": {
+      "count": 1,
+      "situations": [
+        "avatr_11_008"
+      ],
+      "category": "chassis"
+    },
+    "P1A00": {
+      "count": 1,
+      "situations": [
+        "avatr_11_010"
+      ],
+      "category": "engine"
+    }
+  }
+}

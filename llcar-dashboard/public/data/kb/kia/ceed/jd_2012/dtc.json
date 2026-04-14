@@ -1,0 +1,162 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 22,
+  "codes": {
+    "P0300": {
+      "count": 2,
+      "situations": [
+        "kia_ceed_jd_001",
+        "kia_ceed_jd_002"
+      ],
+      "category": "engine"
+    },
+    "P0011": {
+      "count": 2,
+      "situations": [
+        "kia_ceed_jd_002",
+        "kia_ceed_jd_003"
+      ],
+      "category": "engine"
+    },
+    "P0420": {
+      "count": 1,
+      "situations": [
+        "kia_ceed_jd_001"
+      ],
+      "category": "engine"
+    },
+    "P0430": {
+      "count": 1,
+      "situations": [
+        "kia_ceed_jd_001"
+      ],
+      "category": "engine"
+    },
+    "P0301": {
+      "count": 1,
+      "situations": [
+        "kia_ceed_jd_001"
+      ],
+      "category": "engine"
+    },
+    "P0170": {
+      "count": 1,
+      "situations": [
+        "kia_ceed_jd_002"
+      ],
+      "category": "engine"
+    },
+    "P2187": {
+      "count": 1,
+      "situations": [
+        "kia_ceed_jd_002"
+      ],
+      "category": "engine"
+    },
+    "P0012": {
+      "count": 1,
+      "situations": [
+        "kia_ceed_jd_003"
+      ],
+      "category": "engine"
+    },
+    "P0339": {
+      "count": 1,
+      "situations": [
+        "kia_ceed_jd_003"
+      ],
+      "category": "engine"
+    },
+    "P0524": {
+      "count": 1,
+      "situations": [
+        "kia_ceed_jd_003"
+      ],
+      "category": "engine"
+    },
+    "P0715": {
+      "count": 1,
+      "situations": [
+        "kia_ceed_jd_004"
+      ],
+      "category": "transmission"
+    },
+    "P0731": {
+      "count": 1,
+      "situations": [
+        "kia_ceed_jd_004"
+      ],
+      "category": "transmission"
+    },
+    "P0732": {
+      "count": 1,
+      "situations": [
+        "kia_ceed_jd_004"
+      ],
+      "category": "transmission"
+    },
+    "P0733": {
+      "count": 1,
+      "situations": [
+        "kia_ceed_jd_004"
+      ],
+      "category": "transmission"
+    },
+    "P0711": {
+      "count": 1,
+      "situations": [
+        "kia_ceed_jd_004"
+      ],
+      "category": "transmission"
+    },
+    "C1513": {
+      "count": 1,
+      "situations": [
+        "kia_ceed_jd_006"
+      ],
+      "category": "chassis"
+    },
+    "C1515": {
+      "count": 1,
+      "situations": [
+        "kia_ceed_jd_006"
+      ],
+      "category": "chassis"
+    },
+    "C1608": {
+      "count": 1,
+      "situations": [
+        "kia_ceed_jd_006"
+      ],
+      "category": "chassis"
+    },
+    "P0622": {
+      "count": 1,
+      "situations": [
+        "kia_ceed_jd_007"
+      ],
+      "category": "engine"
+    },
+    "P0625": {
+      "count": 1,
+      "situations": [
+        "kia_ceed_jd_007"
+      ],
+      "category": "engine"
+    },
+    "P0704": {
+      "count": 1,
+      "situations": [
+        "kia_ceed_jd_008"
+      ],
+      "category": "transmission"
+    },
+    "P0830": {
+      "count": 1,
+      "situations": [
+        "kia_ceed_jd_008"
+      ],
+      "category": "engine"
+    }
+  }
+}

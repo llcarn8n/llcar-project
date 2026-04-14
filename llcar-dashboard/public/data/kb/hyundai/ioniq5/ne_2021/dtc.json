@@ -1,0 +1,113 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 15,
+  "codes": {
+    "P0C73": {
+      "count": 2,
+      "situations": [
+        "hyundai_ioniq5_006",
+        "hyundai_ioniq5_010"
+      ],
+      "category": "hv_electric"
+    },
+    "P0CE0": {
+      "count": 2,
+      "situations": [
+        "hyundai_ioniq5_006",
+        "hyundai_ioniq5_010"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A80": {
+      "count": 1,
+      "situations": [
+        "hyundai_ioniq5_001"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A7A": {
+      "count": 1,
+      "situations": [
+        "hyundai_ioniq5_001"
+      ],
+      "category": "hv_electric"
+    },
+    "P0AFA": {
+      "count": 1,
+      "situations": [
+        "hyundai_ioniq5_001"
+      ],
+      "category": "hv_electric"
+    },
+    "B2910": {
+      "count": 1,
+      "situations": [
+        "hyundai_ioniq5_002"
+      ],
+      "category": "body"
+    },
+    "B2915": {
+      "count": 1,
+      "situations": [
+        "hyundai_ioniq5_002"
+      ],
+      "category": "body"
+    },
+    "P0AA6": {
+      "count": 1,
+      "situations": [
+        "hyundai_ioniq5_002"
+      ],
+      "category": "hv_electric"
+    },
+    "P0562": {
+      "count": 1,
+      "situations": [
+        "hyundai_ioniq5_003"
+      ],
+      "category": "engine"
+    },
+    "B2AAB": {
+      "count": 1,
+      "situations": [
+        "hyundai_ioniq5_003"
+      ],
+      "category": "body"
+    },
+    "U0293": {
+      "count": 1,
+      "situations": [
+        "hyundai_ioniq5_004"
+      ],
+      "category": "network"
+    },
+    "U0100": {
+      "count": 1,
+      "situations": [
+        "hyundai_ioniq5_004"
+      ],
+      "category": "network"
+    },
+    "B1410": {
+      "count": 1,
+      "situations": [
+        "hyundai_ioniq5_008"
+      ],
+      "category": "body"
+    },
+    "P0A93": {
+      "count": 1,
+      "situations": [
+        "hyundai_ioniq5_008"
+      ],
+      "category": "hv_electric"
+    },
+    "B1429": {
+      "count": 1,
+      "situations": [
+        "hyundai_ioniq5_008"
+      ],
+      "category": "body"
+    }
+  }
+}

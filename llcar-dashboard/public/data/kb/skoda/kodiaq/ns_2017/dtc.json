@@ -1,0 +1,197 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 27,
+  "codes": {
+    "P0016": {
+      "count": 2,
+      "situations": [
+        "skoda_kodiaq_ns_001",
+        "skoda_kodiaq_ns_007"
+      ],
+      "category": "engine"
+    },
+    "P0300": {
+      "count": 2,
+      "situations": [
+        "skoda_kodiaq_ns_006",
+        "skoda_kodiaq_ns_010"
+      ],
+      "category": "engine"
+    },
+    "P0011": {
+      "count": 1,
+      "situations": [
+        "skoda_kodiaq_ns_001"
+      ],
+      "category": "engine"
+    },
+    "P0521": {
+      "count": 1,
+      "situations": [
+        "skoda_kodiaq_ns_001"
+      ],
+      "category": "engine"
+    },
+    "P17BF": {
+      "count": 1,
+      "situations": [
+        "skoda_kodiaq_ns_002"
+      ],
+      "category": "transmission"
+    },
+    "P179E": {
+      "count": 1,
+      "situations": [
+        "skoda_kodiaq_ns_002"
+      ],
+      "category": "transmission"
+    },
+    "P179D": {
+      "count": 1,
+      "situations": [
+        "skoda_kodiaq_ns_002"
+      ],
+      "category": "transmission"
+    },
+    "P2711": {
+      "count": 1,
+      "situations": [
+        "skoda_kodiaq_ns_002"
+      ],
+      "category": "engine"
+    },
+    "B1145": {
+      "count": 1,
+      "situations": [
+        "skoda_kodiaq_ns_004"
+      ],
+      "category": "body"
+    },
+    "U1402": {
+      "count": 1,
+      "situations": [
+        "skoda_kodiaq_ns_004"
+      ],
+      "category": "network"
+    },
+    "P0128": {
+      "count": 1,
+      "situations": [
+        "skoda_kodiaq_ns_005"
+      ],
+      "category": "engine"
+    },
+    "P11B5": {
+      "count": 1,
+      "situations": [
+        "skoda_kodiaq_ns_005"
+      ],
+      "category": "engine"
+    },
+    "P2181": {
+      "count": 1,
+      "situations": [
+        "skoda_kodiaq_ns_005"
+      ],
+      "category": "engine"
+    },
+    "P0301": {
+      "count": 1,
+      "situations": [
+        "skoda_kodiaq_ns_006"
+      ],
+      "category": "engine"
+    },
+    "P0171": {
+      "count": 1,
+      "situations": [
+        "skoda_kodiaq_ns_006"
+      ],
+      "category": "engine"
+    },
+    "P0299": {
+      "count": 1,
+      "situations": [
+        "skoda_kodiaq_ns_007"
+      ],
+      "category": "engine"
+    },
+    "P0087": {
+      "count": 1,
+      "situations": [
+        "skoda_kodiaq_ns_007"
+      ],
+      "category": "engine"
+    },
+    "P0088": {
+      "count": 1,
+      "situations": [
+        "skoda_kodiaq_ns_007"
+      ],
+      "category": "engine"
+    },
+    "C1014": {
+      "count": 1,
+      "situations": [
+        "skoda_kodiaq_ns_008"
+      ],
+      "category": "chassis"
+    },
+    "C1045": {
+      "count": 1,
+      "situations": [
+        "skoda_kodiaq_ns_008"
+      ],
+      "category": "chassis"
+    },
+    "P0571": {
+      "count": 1,
+      "situations": [
+        "skoda_kodiaq_ns_008"
+      ],
+      "category": "engine"
+    },
+    "P1895": {
+      "count": 1,
+      "situations": [
+        "skoda_kodiaq_ns_009"
+      ],
+      "category": "engine"
+    },
+    "P189000": {
+      "count": 1,
+      "situations": [
+        "skoda_kodiaq_ns_009"
+      ],
+      "category": "engine"
+    },
+    "P189100": {
+      "count": 1,
+      "situations": [
+        "skoda_kodiaq_ns_009"
+      ],
+      "category": "engine"
+    },
+    "P0420": {
+      "count": 1,
+      "situations": [
+        "skoda_kodiaq_ns_010"
+      ],
+      "category": "engine"
+    },
+    "P0430": {
+      "count": 1,
+      "situations": [
+        "skoda_kodiaq_ns_010"
+      ],
+      "category": "engine"
+    },
+    "P0302": {
+      "count": 1,
+      "situations": [
+        "skoda_kodiaq_ns_010"
+      ],
+      "category": "engine"
+    }
+  }
+}

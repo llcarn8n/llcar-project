@@ -1,0 +1,125 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 17,
+  "codes": {
+    "P0300": {
+      "count": 1,
+      "situations": [
+        "suzuki_vitara_ly_001"
+      ],
+      "category": "engine"
+    },
+    "P0420": {
+      "count": 1,
+      "situations": [
+        "suzuki_vitara_ly_001"
+      ],
+      "category": "engine"
+    },
+    "P0700": {
+      "count": 1,
+      "situations": [
+        "suzuki_vitara_ly_002"
+      ],
+      "category": "transmission"
+    },
+    "P0750": {
+      "count": 1,
+      "situations": [
+        "suzuki_vitara_ly_002"
+      ],
+      "category": "transmission"
+    },
+    "P0715": {
+      "count": 1,
+      "situations": [
+        "suzuki_vitara_ly_002"
+      ],
+      "category": "transmission"
+    },
+    "P1790": {
+      "count": 1,
+      "situations": [
+        "suzuki_vitara_ly_003"
+      ],
+      "category": "transmission"
+    },
+    "C1235": {
+      "count": 1,
+      "situations": [
+        "suzuki_vitara_ly_003"
+      ],
+      "category": "chassis"
+    },
+    "P1789": {
+      "count": 1,
+      "situations": [
+        "suzuki_vitara_ly_003"
+      ],
+      "category": "transmission"
+    },
+    "P0011": {
+      "count": 1,
+      "situations": [
+        "suzuki_vitara_ly_004"
+      ],
+      "category": "engine"
+    },
+    "P0016": {
+      "count": 1,
+      "situations": [
+        "suzuki_vitara_ly_004"
+      ],
+      "category": "engine"
+    },
+    "P0010": {
+      "count": 1,
+      "situations": [
+        "suzuki_vitara_ly_004"
+      ],
+      "category": "engine"
+    },
+    "B1234": {
+      "count": 1,
+      "situations": [
+        "suzuki_vitara_ly_005"
+      ],
+      "category": "body"
+    },
+    "U0100": {
+      "count": 1,
+      "situations": [
+        "suzuki_vitara_ly_005"
+      ],
+      "category": "network"
+    },
+    "P0299": {
+      "count": 1,
+      "situations": [
+        "suzuki_vitara_ly_007"
+      ],
+      "category": "engine"
+    },
+    "P0234": {
+      "count": 1,
+      "situations": [
+        "suzuki_vitara_ly_007"
+      ],
+      "category": "engine"
+    },
+    "P2534": {
+      "count": 1,
+      "situations": [
+        "suzuki_vitara_ly_008"
+      ],
+      "category": "engine"
+    },
+    "P0615": {
+      "count": 1,
+      "situations": [
+        "suzuki_vitara_ly_008"
+      ],
+      "category": "engine"
+    }
+  }
+}

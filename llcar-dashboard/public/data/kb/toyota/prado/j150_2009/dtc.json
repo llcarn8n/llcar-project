@@ -1,0 +1,119 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 16,
+  "codes": {
+    "P0420": {
+      "count": 2,
+      "situations": [
+        "toyota_prado_j150_001",
+        "toyota_prado_j150_003"
+      ],
+      "category": "engine"
+    },
+    "P0300": {
+      "count": 1,
+      "situations": [
+        "toyota_prado_j150_001"
+      ],
+      "category": "engine"
+    },
+    "P0301": {
+      "count": 1,
+      "situations": [
+        "toyota_prado_j150_001"
+      ],
+      "category": "engine"
+    },
+    "P0711": {
+      "count": 1,
+      "situations": [
+        "toyota_prado_j150_002"
+      ],
+      "category": "transmission"
+    },
+    "P0128": {
+      "count": 1,
+      "situations": [
+        "toyota_prado_j150_002"
+      ],
+      "category": "engine"
+    },
+    "P2002": {
+      "count": 1,
+      "situations": [
+        "toyota_prado_j150_003"
+      ],
+      "category": "engine"
+    },
+    "P0401": {
+      "count": 1,
+      "situations": [
+        "toyota_prado_j150_003"
+      ],
+      "category": "engine"
+    },
+    "P0750": {
+      "count": 1,
+      "situations": [
+        "toyota_prado_j150_007"
+      ],
+      "category": "transmission"
+    },
+    "P0755": {
+      "count": 1,
+      "situations": [
+        "toyota_prado_j150_007"
+      ],
+      "category": "transmission"
+    },
+    "P0717": {
+      "count": 1,
+      "situations": [
+        "toyota_prado_j150_007"
+      ],
+      "category": "transmission"
+    },
+    "C1235": {
+      "count": 1,
+      "situations": [
+        "toyota_prado_j150_008"
+      ],
+      "category": "chassis"
+    },
+    "C1713": {
+      "count": 1,
+      "situations": [
+        "toyota_prado_j150_009"
+      ],
+      "category": "chassis"
+    },
+    "C1752": {
+      "count": 1,
+      "situations": [
+        "toyota_prado_j150_009"
+      ],
+      "category": "chassis"
+    },
+    "P0562": {
+      "count": 1,
+      "situations": [
+        "toyota_prado_j150_010"
+      ],
+      "category": "engine"
+    },
+    "P0443": {
+      "count": 1,
+      "situations": [
+        "toyota_prado_j150_010"
+      ],
+      "category": "engine"
+    },
+    "P0456": {
+      "count": 1,
+      "situations": [
+        "toyota_prado_j150_010"
+      ],
+      "category": "engine"
+    }
+  }
+}

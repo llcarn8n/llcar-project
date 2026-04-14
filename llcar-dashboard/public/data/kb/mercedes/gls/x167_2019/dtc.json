@@ -1,0 +1,274 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 38,
+  "codes": {
+    "P0480": {
+      "count": 2,
+      "situations": [
+        "merc_gls_x167_003",
+        "merc_gls_x167_008"
+      ],
+      "category": "engine"
+    },
+    "C1401": {
+      "count": 2,
+      "situations": [
+        "merc_gls_x167_006",
+        "merc_gls_x167_007"
+      ],
+      "category": "chassis"
+    },
+    "P0A1F": {
+      "count": 1,
+      "situations": [
+        "merc_gls_x167_001"
+      ],
+      "category": "hv_electric"
+    },
+    "P1CE9": {
+      "count": 1,
+      "situations": [
+        "merc_gls_x167_001"
+      ],
+      "category": "engine"
+    },
+    "P0AFA": {
+      "count": 1,
+      "situations": [
+        "merc_gls_x167_001"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A94": {
+      "count": 1,
+      "situations": [
+        "merc_gls_x167_001"
+      ],
+      "category": "hv_electric"
+    },
+    "C1130": {
+      "count": 1,
+      "situations": [
+        "merc_gls_x167_002"
+      ],
+      "category": "chassis"
+    },
+    "C1140": {
+      "count": 1,
+      "situations": [
+        "merc_gls_x167_002"
+      ],
+      "category": "chassis"
+    },
+    "C156C": {
+      "count": 1,
+      "situations": [
+        "merc_gls_x167_002"
+      ],
+      "category": "chassis"
+    },
+    "A0A100": {
+      "count": 1,
+      "situations": [
+        "merc_gls_x167_002"
+      ],
+      "category": "unknown"
+    },
+    "P20EE": {
+      "count": 1,
+      "situations": [
+        "merc_gls_x167_003"
+      ],
+      "category": "engine"
+    },
+    "P011B": {
+      "count": 1,
+      "situations": [
+        "merc_gls_x167_003"
+      ],
+      "category": "engine"
+    },
+    "B1D06": {
+      "count": 1,
+      "situations": [
+        "merc_gls_x167_003"
+      ],
+      "category": "body"
+    },
+    "P0730": {
+      "count": 1,
+      "situations": [
+        "merc_gls_x167_004"
+      ],
+      "category": "transmission"
+    },
+    "P0715": {
+      "count": 1,
+      "situations": [
+        "merc_gls_x167_004"
+      ],
+      "category": "transmission"
+    },
+    "P0750": {
+      "count": 1,
+      "situations": [
+        "merc_gls_x167_004"
+      ],
+      "category": "transmission"
+    },
+    "P0604": {
+      "count": 1,
+      "situations": [
+        "merc_gls_x167_004"
+      ],
+      "category": "engine"
+    },
+    "P0299": {
+      "count": 1,
+      "situations": [
+        "merc_gls_x167_005"
+      ],
+      "category": "engine"
+    },
+    "P0234": {
+      "count": 1,
+      "situations": [
+        "merc_gls_x167_005"
+      ],
+      "category": "engine"
+    },
+    "P0245": {
+      "count": 1,
+      "situations": [
+        "merc_gls_x167_005"
+      ],
+      "category": "engine"
+    },
+    "P0030": {
+      "count": 1,
+      "situations": [
+        "merc_gls_x167_005"
+      ],
+      "category": "engine"
+    },
+    "C1402": {
+      "count": 1,
+      "situations": [
+        "merc_gls_x167_006"
+      ],
+      "category": "chassis"
+    },
+    "P1736": {
+      "count": 1,
+      "situations": [
+        "merc_gls_x167_006"
+      ],
+      "category": "transmission"
+    },
+    "P1738": {
+      "count": 1,
+      "situations": [
+        "merc_gls_x167_006"
+      ],
+      "category": "transmission"
+    },
+    "C11A2": {
+      "count": 1,
+      "situations": [
+        "merc_gls_x167_007"
+      ],
+      "category": "chassis"
+    },
+    "C11AA": {
+      "count": 1,
+      "situations": [
+        "merc_gls_x167_007"
+      ],
+      "category": "chassis"
+    },
+    "B2210": {
+      "count": 1,
+      "situations": [
+        "merc_gls_x167_007"
+      ],
+      "category": "body"
+    },
+    "P0597": {
+      "count": 1,
+      "situations": [
+        "merc_gls_x167_008"
+      ],
+      "category": "engine"
+    },
+    "P0128": {
+      "count": 1,
+      "situations": [
+        "merc_gls_x167_008"
+      ],
+      "category": "engine"
+    },
+    "P0116": {
+      "count": 1,
+      "situations": [
+        "merc_gls_x167_008"
+      ],
+      "category": "engine"
+    },
+    "B19A2": {
+      "count": 1,
+      "situations": [
+        "merc_gls_x167_009"
+      ],
+      "category": "body"
+    },
+    "B1A1A": {
+      "count": 1,
+      "situations": [
+        "merc_gls_x167_009"
+      ],
+      "category": "body"
+    },
+    "P2096": {
+      "count": 1,
+      "situations": [
+        "merc_gls_x167_009"
+      ],
+      "category": "engine"
+    },
+    "B2811": {
+      "count": 1,
+      "situations": [
+        "merc_gls_x167_009"
+      ],
+      "category": "body"
+    },
+    "C1002": {
+      "count": 1,
+      "situations": [
+        "merc_gls_x167_010"
+      ],
+      "category": "chassis"
+    },
+    "C1420": {
+      "count": 1,
+      "situations": [
+        "merc_gls_x167_010"
+      ],
+      "category": "chassis"
+    },
+    "U0100": {
+      "count": 1,
+      "situations": [
+        "merc_gls_x167_010"
+      ],
+      "category": "network"
+    },
+    "P0500": {
+      "count": 1,
+      "situations": [
+        "merc_gls_x167_010"
+      ],
+      "category": "engine"
+    }
+  }
+}

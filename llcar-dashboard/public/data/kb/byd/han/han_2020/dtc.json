@@ -1,0 +1,90 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 12,
+  "codes": {
+    "P0A93": {
+      "count": 1,
+      "situations": [
+        "byd_han_001"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A7A": {
+      "count": 1,
+      "situations": [
+        "byd_han_001"
+      ],
+      "category": "hv_electric"
+    },
+    "P0AA6": {
+      "count": 1,
+      "situations": [
+        "byd_han_001"
+      ],
+      "category": "hv_electric"
+    },
+    "U0111": {
+      "count": 1,
+      "situations": [
+        "byd_han_002"
+      ],
+      "category": "network"
+    },
+    "U0100": {
+      "count": 1,
+      "situations": [
+        "byd_han_002"
+      ],
+      "category": "network"
+    },
+    "U0122": {
+      "count": 1,
+      "situations": [
+        "byd_han_002"
+      ],
+      "category": "network"
+    },
+    "U0184": {
+      "count": 1,
+      "situations": [
+        "byd_han_004"
+      ],
+      "category": "network"
+    },
+    "P0A80": {
+      "count": 1,
+      "situations": [
+        "byd_han_006"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A7F": {
+      "count": 1,
+      "situations": [
+        "byd_han_006"
+      ],
+      "category": "hv_electric"
+    },
+    "C1609": {
+      "count": 1,
+      "situations": [
+        "byd_han_007"
+      ],
+      "category": "chassis"
+    },
+    "U0415": {
+      "count": 1,
+      "situations": [
+        "byd_han_009"
+      ],
+      "category": "network"
+    },
+    "B2AAA": {
+      "count": 1,
+      "situations": [
+        "byd_han_009"
+      ],
+      "category": "body"
+    }
+  }
+}

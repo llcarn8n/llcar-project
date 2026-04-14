@@ -1,0 +1,167 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 23,
+  "codes": {
+    "P0011": {
+      "count": 1,
+      "situations": [
+        "nissan_almera_g15_001"
+      ],
+      "category": "engine"
+    },
+    "P0010": {
+      "count": 1,
+      "situations": [
+        "nissan_almera_g15_001"
+      ],
+      "category": "engine"
+    },
+    "P0505": {
+      "count": 1,
+      "situations": [
+        "nissan_almera_g15_002"
+      ],
+      "category": "engine"
+    },
+    "P0113": {
+      "count": 1,
+      "situations": [
+        "nissan_almera_g15_002"
+      ],
+      "category": "engine"
+    },
+    "P0170": {
+      "count": 1,
+      "situations": [
+        "nissan_almera_g15_002"
+      ],
+      "category": "engine"
+    },
+    "P0730": {
+      "count": 1,
+      "situations": [
+        "nissan_almera_g15_003"
+      ],
+      "category": "transmission"
+    },
+    "P0746": {
+      "count": 1,
+      "situations": [
+        "nissan_almera_g15_003"
+      ],
+      "category": "transmission"
+    },
+    "P0715": {
+      "count": 1,
+      "situations": [
+        "nissan_almera_g15_003"
+      ],
+      "category": "transmission"
+    },
+    "P0732": {
+      "count": 1,
+      "situations": [
+        "nissan_almera_g15_003"
+      ],
+      "category": "transmission"
+    },
+    "P0335": {
+      "count": 1,
+      "situations": [
+        "nissan_almera_g15_004"
+      ],
+      "category": "engine"
+    },
+    "P0336": {
+      "count": 1,
+      "situations": [
+        "nissan_almera_g15_004"
+      ],
+      "category": "engine"
+    },
+    "P0016": {
+      "count": 1,
+      "situations": [
+        "nissan_almera_g15_004"
+      ],
+      "category": "engine"
+    },
+    "P0200": {
+      "count": 1,
+      "situations": [
+        "nissan_almera_g15_005"
+      ],
+      "category": "engine"
+    },
+    "P0300": {
+      "count": 1,
+      "situations": [
+        "nissan_almera_g15_005"
+      ],
+      "category": "engine"
+    },
+    "P0607": {
+      "count": 1,
+      "situations": [
+        "nissan_almera_g15_005"
+      ],
+      "category": "engine"
+    },
+    "P1615": {
+      "count": 1,
+      "situations": [
+        "nissan_almera_g15_005"
+      ],
+      "category": "engine"
+    },
+    "P0217": {
+      "count": 1,
+      "situations": [
+        "nissan_almera_g15_006"
+      ],
+      "category": "engine"
+    },
+    "P0118": {
+      "count": 1,
+      "situations": [
+        "nissan_almera_g15_006"
+      ],
+      "category": "engine"
+    },
+    "P0115": {
+      "count": 1,
+      "situations": [
+        "nissan_almera_g15_006"
+      ],
+      "category": "engine"
+    },
+    "C0045": {
+      "count": 1,
+      "situations": [
+        "nissan_almera_g15_009"
+      ],
+      "category": "chassis"
+    },
+    "C0050": {
+      "count": 1,
+      "situations": [
+        "nissan_almera_g15_009"
+      ],
+      "category": "chassis"
+    },
+    "P0420": {
+      "count": 1,
+      "situations": [
+        "nissan_almera_g15_010"
+      ],
+      "category": "engine"
+    },
+    "P0430": {
+      "count": 1,
+      "situations": [
+        "nissan_almera_g15_010"
+      ],
+      "category": "engine"
+    }
+  }
+}

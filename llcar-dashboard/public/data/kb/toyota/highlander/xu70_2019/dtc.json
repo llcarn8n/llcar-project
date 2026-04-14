@@ -1,0 +1,139 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 19,
+  "codes": {
+    "P0750": {
+      "count": 1,
+      "situations": [
+        "toyota_highlander_xu70_001"
+      ],
+      "category": "transmission"
+    },
+    "P0755": {
+      "count": 1,
+      "situations": [
+        "toyota_highlander_xu70_001"
+      ],
+      "category": "transmission"
+    },
+    "P0780": {
+      "count": 1,
+      "situations": [
+        "toyota_highlander_xu70_001"
+      ],
+      "category": "transmission"
+    },
+    "P0A80": {
+      "count": 1,
+      "situations": [
+        "toyota_highlander_xu70_002"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A90": {
+      "count": 1,
+      "situations": [
+        "toyota_highlander_xu70_002"
+      ],
+      "category": "hv_electric"
+    },
+    "P324E": {
+      "count": 1,
+      "situations": [
+        "toyota_highlander_xu70_002"
+      ],
+      "category": "engine"
+    },
+    "P0125": {
+      "count": 1,
+      "situations": [
+        "toyota_highlander_xu70_004"
+      ],
+      "category": "engine"
+    },
+    "P0126": {
+      "count": 1,
+      "situations": [
+        "toyota_highlander_xu70_004"
+      ],
+      "category": "engine"
+    },
+    "P0524": {
+      "count": 1,
+      "situations": [
+        "toyota_highlander_xu70_005"
+      ],
+      "category": "engine"
+    },
+    "P0300": {
+      "count": 1,
+      "situations": [
+        "toyota_highlander_xu70_005"
+      ],
+      "category": "engine"
+    },
+    "P0171": {
+      "count": 1,
+      "situations": [
+        "toyota_highlander_xu70_005"
+      ],
+      "category": "engine"
+    },
+    "B15A2": {
+      "count": 1,
+      "situations": [
+        "toyota_highlander_xu70_006"
+      ],
+      "category": "body"
+    },
+    "U0155": {
+      "count": 1,
+      "situations": [
+        "toyota_highlander_xu70_006"
+      ],
+      "category": "network"
+    },
+    "C1234": {
+      "count": 1,
+      "situations": [
+        "toyota_highlander_xu70_007"
+      ],
+      "category": "chassis"
+    },
+    "C1414": {
+      "count": 1,
+      "situations": [
+        "toyota_highlander_xu70_007"
+      ],
+      "category": "chassis"
+    },
+    "B1100": {
+      "count": 1,
+      "situations": [
+        "toyota_highlander_xu70_008"
+      ],
+      "category": "body"
+    },
+    "B1215": {
+      "count": 1,
+      "situations": [
+        "toyota_highlander_xu70_008"
+      ],
+      "category": "body"
+    },
+    "C1553": {
+      "count": 1,
+      "situations": [
+        "toyota_highlander_xu70_010"
+      ],
+      "category": "chassis"
+    },
+    "C1511": {
+      "count": 1,
+      "situations": [
+        "toyota_highlander_xu70_010"
+      ],
+      "category": "chassis"
+    }
+  }
+}

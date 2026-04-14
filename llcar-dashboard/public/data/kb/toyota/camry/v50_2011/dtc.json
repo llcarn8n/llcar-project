@@ -1,0 +1,174 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 24,
+  "codes": {
+    "P0016": {
+      "count": 1,
+      "situations": [
+        "toyota_camry_v50_2ar_fe_timing_chain_stretch"
+      ],
+      "category": "engine"
+    },
+    "P0017": {
+      "count": 1,
+      "situations": [
+        "toyota_camry_v50_2ar_fe_timing_chain_stretch"
+      ],
+      "category": "engine"
+    },
+    "P0018": {
+      "count": 1,
+      "situations": [
+        "toyota_camry_v50_2ar_fe_timing_chain_stretch"
+      ],
+      "category": "engine"
+    },
+    "P0019": {
+      "count": 1,
+      "situations": [
+        "toyota_camry_v50_2ar_fe_timing_chain_stretch"
+      ],
+      "category": "engine"
+    },
+    "P0741": {
+      "count": 1,
+      "situations": [
+        "toyota_camry_v50_6at_jerk_cold"
+      ],
+      "category": "transmission"
+    },
+    "P0746": {
+      "count": 1,
+      "situations": [
+        "toyota_camry_v50_6at_jerk_cold"
+      ],
+      "category": "transmission"
+    },
+    "P0776": {
+      "count": 1,
+      "situations": [
+        "toyota_camry_v50_6at_jerk_cold"
+      ],
+      "category": "transmission"
+    },
+    "P2714": {
+      "count": 1,
+      "situations": [
+        "toyota_camry_v50_6at_jerk_cold"
+      ],
+      "category": "engine"
+    },
+    "P0010": {
+      "count": 1,
+      "situations": [
+        "toyota_camry_v50_vvti_actuator_noise"
+      ],
+      "category": "engine"
+    },
+    "P0012": {
+      "count": 1,
+      "situations": [
+        "toyota_camry_v50_vvti_actuator_noise"
+      ],
+      "category": "engine"
+    },
+    "P0020": {
+      "count": 1,
+      "situations": [
+        "toyota_camry_v50_vvti_actuator_noise"
+      ],
+      "category": "engine"
+    },
+    "P0022": {
+      "count": 1,
+      "situations": [
+        "toyota_camry_v50_vvti_actuator_noise"
+      ],
+      "category": "engine"
+    },
+    "B1479": {
+      "count": 1,
+      "situations": [
+        "toyota_camry_v50_ac_compressor_failure"
+      ],
+      "category": "body"
+    },
+    "B1421": {
+      "count": 1,
+      "situations": [
+        "toyota_camry_v50_ac_compressor_failure"
+      ],
+      "category": "body"
+    },
+    "P0300": {
+      "count": 1,
+      "situations": [
+        "toyota_camry_v50_fuel_injector_clogging"
+      ],
+      "category": "engine"
+    },
+    "P0171": {
+      "count": 1,
+      "situations": [
+        "toyota_camry_v50_fuel_injector_clogging"
+      ],
+      "category": "engine"
+    },
+    "P0172": {
+      "count": 1,
+      "situations": [
+        "toyota_camry_v50_fuel_injector_clogging"
+      ],
+      "category": "engine"
+    },
+    "P0301": {
+      "count": 1,
+      "situations": [
+        "toyota_camry_v50_fuel_injector_clogging"
+      ],
+      "category": "engine"
+    },
+    "P0302": {
+      "count": 1,
+      "situations": [
+        "toyota_camry_v50_fuel_injector_clogging"
+      ],
+      "category": "engine"
+    },
+    "C1241": {
+      "count": 1,
+      "situations": [
+        "toyota_camry_v50_rear_brake_caliper_seized"
+      ],
+      "category": "chassis"
+    },
+    "C1303": {
+      "count": 1,
+      "situations": [
+        "toyota_camry_v50_rear_brake_caliper_seized"
+      ],
+      "category": "chassis"
+    },
+    "B1477": {
+      "count": 1,
+      "situations": [
+        "toyota_camry_v50_battery_drain"
+      ],
+      "category": "body"
+    },
+    "U0140": {
+      "count": 1,
+      "situations": [
+        "toyota_camry_v50_battery_drain"
+      ],
+      "category": "network"
+    },
+    "B0100": {
+      "count": 1,
+      "situations": [
+        "toyota_camry_v50_battery_drain"
+      ],
+      "category": "body"
+    }
+  }
+}

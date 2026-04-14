@@ -1,0 +1,121 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 16,
+  "codes": {
+    "P0524": {
+      "count": 3,
+      "situations": [
+        "hyundai_tucson_nx4_engine_chain_stretch",
+        "hyundai_tucson_nx4_cooling_oil_pump_leak",
+        "hyundai_tucson_nx4_engine_oil_consumption_g4km"
+      ],
+      "category": "engine"
+    },
+    "C1613": {
+      "count": 2,
+      "situations": [
+        "hyundai_tucson_nx4_electrical_ics_disabled",
+        "hyundai_tucson_nx4_electrical_kia_mando_abs"
+      ],
+      "category": "chassis"
+    },
+    "P0011": {
+      "count": 1,
+      "situations": [
+        "hyundai_tucson_nx4_engine_chain_stretch"
+      ],
+      "category": "engine"
+    },
+    "P0014": {
+      "count": 1,
+      "situations": [
+        "hyundai_tucson_nx4_engine_chain_stretch"
+      ],
+      "category": "engine"
+    },
+    "P0733": {
+      "count": 1,
+      "situations": [
+        "hyundai_tucson_nx4_trans_8at_kickdown"
+      ],
+      "category": "transmission"
+    },
+    "P0756": {
+      "count": 1,
+      "situations": [
+        "hyundai_tucson_nx4_trans_8at_kickdown"
+      ],
+      "category": "transmission"
+    },
+    "P0771": {
+      "count": 1,
+      "situations": [
+        "hyundai_tucson_nx4_trans_8at_kickdown"
+      ],
+      "category": "transmission"
+    },
+    "C1682": {
+      "count": 1,
+      "situations": [
+        "hyundai_tucson_nx4_electrical_ics_disabled"
+      ],
+      "category": "chassis"
+    },
+    "C1612": {
+      "count": 1,
+      "situations": [
+        "hyundai_tucson_nx4_electrical_ics_disabled"
+      ],
+      "category": "chassis"
+    },
+    "P0300": {
+      "count": 1,
+      "situations": [
+        "hyundai_tucson_nx4_cooling_oil_pump_leak"
+      ],
+      "category": "engine"
+    },
+    "C1204": {
+      "count": 1,
+      "situations": [
+        "hyundai_tucson_nx4_brakes_rear_squeal"
+      ],
+      "category": "chassis"
+    },
+    "C1200": {
+      "count": 1,
+      "situations": [
+        "hyundai_tucson_nx4_electrical_kia_mando_abs"
+      ],
+      "category": "chassis"
+    },
+    "C1604": {
+      "count": 1,
+      "situations": [
+        "hyundai_tucson_nx4_electrical_kia_mando_abs"
+      ],
+      "category": "chassis"
+    },
+    "P0732": {
+      "count": 1,
+      "situations": [
+        "hyundai_tucson_nx4_trans_6at_slip"
+      ],
+      "category": "transmission"
+    },
+    "P0715": {
+      "count": 1,
+      "situations": [
+        "hyundai_tucson_nx4_trans_6at_slip"
+      ],
+      "category": "transmission"
+    },
+    "P0750": {
+      "count": 1,
+      "situations": [
+        "hyundai_tucson_nx4_trans_6at_slip"
+      ],
+      "category": "transmission"
+    }
+  }
+}

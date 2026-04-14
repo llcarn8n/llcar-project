@@ -1,0 +1,76 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 10,
+  "codes": {
+    "P0301": {
+      "count": 1,
+      "situations": [
+        "renault_duster_hm_002"
+      ],
+      "category": "engine"
+    },
+    "P0420": {
+      "count": 1,
+      "situations": [
+        "renault_duster_hm_002"
+      ],
+      "category": "engine"
+    },
+    "P17C2": {
+      "count": 1,
+      "situations": [
+        "renault_duster_hm_003"
+      ],
+      "category": "transmission"
+    },
+    "P0846": {
+      "count": 1,
+      "situations": [
+        "renault_duster_hm_003"
+      ],
+      "category": "engine"
+    },
+    "P0480": {
+      "count": 1,
+      "situations": [
+        "renault_duster_hm_005"
+      ],
+      "category": "engine"
+    },
+    "P0217": {
+      "count": 1,
+      "situations": [
+        "renault_duster_hm_005"
+      ],
+      "category": "engine"
+    },
+    "C0200": {
+      "count": 1,
+      "situations": [
+        "renault_duster_hm_006"
+      ],
+      "category": "chassis"
+    },
+    "U0001": {
+      "count": 1,
+      "situations": [
+        "renault_duster_hm_007"
+      ],
+      "category": "network"
+    },
+    "B1000": {
+      "count": 1,
+      "situations": [
+        "renault_duster_hm_007"
+      ],
+      "category": "body"
+    },
+    "C1212": {
+      "count": 1,
+      "situations": [
+        "renault_duster_hm_010"
+      ],
+      "category": "chassis"
+    }
+  }
+}

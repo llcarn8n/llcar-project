@@ -1,0 +1,113 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 15,
+  "codes": {
+    "P0AA6": {
+      "count": 2,
+      "situations": [
+        "mercedes_eqc_001",
+        "mercedes_eqc_005"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A80": {
+      "count": 2,
+      "situations": [
+        "mercedes_eqc_005",
+        "mercedes_eqc_007"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A7F": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqc_001"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A04": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqc_001"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A93": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqc_002"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A7E": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqc_002"
+      ],
+      "category": "hv_electric"
+    },
+    "B189540": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqc_002"
+      ],
+      "category": "body"
+    },
+    "U040062": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqc_003"
+      ],
+      "category": "network"
+    },
+    "U042300": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqc_003"
+      ],
+      "category": "network"
+    },
+    "C104A": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqc_004"
+      ],
+      "category": "chassis"
+    },
+    "C1043": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqc_004"
+      ],
+      "category": "chassis"
+    },
+    "C1060": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqc_004"
+      ],
+      "category": "chassis"
+    },
+    "P0A0F": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqc_007"
+      ],
+      "category": "hv_electric"
+    },
+    "C013040": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqc_009"
+      ],
+      "category": "chassis"
+    },
+    "C010040": {
+      "count": 1,
+      "situations": [
+        "mercedes_eqc_009"
+      ],
+      "category": "chassis"
+    }
+  }
+}

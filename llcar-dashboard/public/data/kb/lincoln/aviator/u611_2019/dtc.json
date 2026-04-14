@@ -1,0 +1,168 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 23,
+  "codes": {
+    "P1A15": {
+      "count": 2,
+      "situations": [
+        "lincoln_aviator_002",
+        "lincoln_aviator_008"
+      ],
+      "category": "engine"
+    },
+    "P0741": {
+      "count": 1,
+      "situations": [
+        "lincoln_aviator_001"
+      ],
+      "category": "transmission"
+    },
+    "P0700": {
+      "count": 1,
+      "situations": [
+        "lincoln_aviator_001"
+      ],
+      "category": "transmission"
+    },
+    "P0894": {
+      "count": 1,
+      "situations": [
+        "lincoln_aviator_001"
+      ],
+      "category": "engine"
+    },
+    "P1A00": {
+      "count": 1,
+      "situations": [
+        "lincoln_aviator_002"
+      ],
+      "category": "engine"
+    },
+    "P1A01": {
+      "count": 1,
+      "situations": [
+        "lincoln_aviator_002"
+      ],
+      "category": "engine"
+    },
+    "P1A16": {
+      "count": 1,
+      "situations": [
+        "lincoln_aviator_002"
+      ],
+      "category": "engine"
+    },
+    "P0299": {
+      "count": 1,
+      "situations": [
+        "lincoln_aviator_003"
+      ],
+      "category": "engine"
+    },
+    "P0234": {
+      "count": 1,
+      "situations": [
+        "lincoln_aviator_003"
+      ],
+      "category": "engine"
+    },
+    "P0046": {
+      "count": 1,
+      "situations": [
+        "lincoln_aviator_003"
+      ],
+      "category": "engine"
+    },
+    "C1725": {
+      "count": 1,
+      "situations": [
+        "lincoln_aviator_004"
+      ],
+      "category": "chassis"
+    },
+    "C1726": {
+      "count": 1,
+      "situations": [
+        "lincoln_aviator_004"
+      ],
+      "category": "chassis"
+    },
+    "C1727": {
+      "count": 1,
+      "situations": [
+        "lincoln_aviator_004"
+      ],
+      "category": "chassis"
+    },
+    "C1728": {
+      "count": 1,
+      "situations": [
+        "lincoln_aviator_004"
+      ],
+      "category": "chassis"
+    },
+    "U0100": {
+      "count": 1,
+      "situations": [
+        "lincoln_aviator_005"
+      ],
+      "category": "network"
+    },
+    "U0184": {
+      "count": 1,
+      "situations": [
+        "lincoln_aviator_005"
+      ],
+      "category": "network"
+    },
+    "U3000": {
+      "count": 1,
+      "situations": [
+        "lincoln_aviator_005"
+      ],
+      "category": "network"
+    },
+    "P0AC0": {
+      "count": 1,
+      "situations": [
+        "lincoln_aviator_008"
+      ],
+      "category": "hv_electric"
+    },
+    "P1A17": {
+      "count": 1,
+      "situations": [
+        "lincoln_aviator_008"
+      ],
+      "category": "engine"
+    },
+    "B1064": {
+      "count": 1,
+      "situations": [
+        "lincoln_aviator_009"
+      ],
+      "category": "body"
+    },
+    "B1065": {
+      "count": 1,
+      "situations": [
+        "lincoln_aviator_009"
+      ],
+      "category": "body"
+    },
+    "C1979": {
+      "count": 1,
+      "situations": [
+        "lincoln_aviator_010"
+      ],
+      "category": "chassis"
+    },
+    "C1980": {
+      "count": 1,
+      "situations": [
+        "lincoln_aviator_010"
+      ],
+      "category": "chassis"
+    }
+  }
+}

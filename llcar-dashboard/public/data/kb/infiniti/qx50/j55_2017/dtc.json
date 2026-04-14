@@ -1,0 +1,133 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 18,
+  "codes": {
+    "P0011": {
+      "count": 2,
+      "situations": [
+        "infiniti_qx50_j55_001",
+        "infiniti_qx50_j55_003"
+      ],
+      "category": "engine"
+    },
+    "P0021": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx50_j55_001"
+      ],
+      "category": "engine"
+    },
+    "P0017": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx50_j55_001"
+      ],
+      "category": "engine"
+    },
+    "P0840": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx50_j55_002"
+      ],
+      "category": "engine"
+    },
+    "P17F0": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx50_j55_002"
+      ],
+      "category": "transmission"
+    },
+    "P0715": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx50_j55_002"
+      ],
+      "category": "transmission"
+    },
+    "P1001": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx50_j55_003"
+      ],
+      "category": "engine"
+    },
+    "P0016": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx50_j55_003"
+      ],
+      "category": "engine"
+    },
+    "C1155": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx50_j55_004"
+      ],
+      "category": "chassis"
+    },
+    "C1130": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx50_j55_004"
+      ],
+      "category": "chassis"
+    },
+    "P0171": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx50_j55_005"
+      ],
+      "category": "engine"
+    },
+    "P0174": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx50_j55_005"
+      ],
+      "category": "engine"
+    },
+    "C0072": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx50_j55_006"
+      ],
+      "category": "chassis"
+    },
+    "C0073": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx50_j55_006"
+      ],
+      "category": "chassis"
+    },
+    "P0200": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx50_j55_008"
+      ],
+      "category": "engine"
+    },
+    "P0201": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx50_j55_008"
+      ],
+      "category": "engine"
+    },
+    "P0202": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx50_j55_008"
+      ],
+      "category": "engine"
+    },
+    "P0203": {
+      "count": 1,
+      "situations": [
+        "infiniti_qx50_j55_008"
+      ],
+      "category": "engine"
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 14,
+  "codes": {
+    "P0300": {
+      "count": 2,
+      "situations": [
+        "kia_soul_ps_001",
+        "kia_soul_ps_005"
+      ],
+      "category": "engine"
+    },
+    "P0420": {
+      "count": 2,
+      "situations": [
+        "kia_soul_ps_001",
+        "kia_soul_ps_005"
+      ],
+      "category": "engine"
+    },
+    "P0524": {
+      "count": 1,
+      "situations": [
+        "kia_soul_ps_001"
+      ],
+      "category": "engine"
+    },
+    "P0750": {
+      "count": 1,
+      "situations": [
+        "kia_soul_ps_002"
+      ],
+      "category": "transmission"
+    },
+    "P0755": {
+      "count": 1,
+      "situations": [
+        "kia_soul_ps_002"
+      ],
+      "category": "transmission"
+    },
+    "P0760": {
+      "count": 1,
+      "situations": [
+        "kia_soul_ps_002"
+      ],
+      "category": "transmission"
+    },
+    "P0765": {
+      "count": 1,
+      "situations": [
+        "kia_soul_ps_002"
+      ],
+      "category": "transmission"
+    },
+    "P0301": {
+      "count": 1,
+      "situations": [
+        "kia_soul_ps_005"
+      ],
+      "category": "engine"
+    },
+    "P0302": {
+      "count": 1,
+      "situations": [
+        "kia_soul_ps_005"
+      ],
+      "category": "engine"
+    },
+    "P0303": {
+      "count": 1,
+      "situations": [
+        "kia_soul_ps_005"
+      ],
+      "category": "engine"
+    },
+    "P0304": {
+      "count": 1,
+      "situations": [
+        "kia_soul_ps_005"
+      ],
+      "category": "engine"
+    },
+    "P0335": {
+      "count": 1,
+      "situations": [
+        "kia_soul_ps_007"
+      ],
+      "category": "engine"
+    },
+    "P0336": {
+      "count": 1,
+      "situations": [
+        "kia_soul_ps_007"
+      ],
+      "category": "engine"
+    },
+    "P0128": {
+      "count": 1,
+      "situations": [
+        "kia_soul_ps_008"
+      ],
+      "category": "engine"
+    }
+  }
+}

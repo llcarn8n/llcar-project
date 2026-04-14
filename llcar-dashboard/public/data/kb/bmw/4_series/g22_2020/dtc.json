@@ -1,0 +1,111 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 15,
+  "codes": {
+    "A0D901": {
+      "count": 1,
+      "situations": [
+        "bmw_4_g22_002"
+      ],
+      "category": "unknown"
+    },
+    "A8CE01": {
+      "count": 1,
+      "situations": [
+        "bmw_4_g22_002"
+      ],
+      "category": "unknown"
+    },
+    "A8CF02": {
+      "count": 1,
+      "situations": [
+        "bmw_4_g22_002"
+      ],
+      "category": "unknown"
+    },
+    "P0300": {
+      "count": 1,
+      "situations": [
+        "bmw_4_g22_003"
+      ],
+      "category": "engine"
+    },
+    "P0301": {
+      "count": 1,
+      "situations": [
+        "bmw_4_g22_003"
+      ],
+      "category": "engine"
+    },
+    "P0302": {
+      "count": 1,
+      "situations": [
+        "bmw_4_g22_003"
+      ],
+      "category": "engine"
+    },
+    "5B1001": {
+      "count": 1,
+      "situations": [
+        "bmw_4_g22_004"
+      ],
+      "category": "unknown"
+    },
+    "5B2002": {
+      "count": 1,
+      "situations": [
+        "bmw_4_g22_004"
+      ],
+      "category": "unknown"
+    },
+    "60CF01": {
+      "count": 1,
+      "situations": [
+        "bmw_4_g22_006"
+      ],
+      "category": "unknown"
+    },
+    "60D002": {
+      "count": 1,
+      "situations": [
+        "bmw_4_g22_006"
+      ],
+      "category": "unknown"
+    },
+    "60D103": {
+      "count": 1,
+      "situations": [
+        "bmw_4_g22_006"
+      ],
+      "category": "unknown"
+    },
+    "5DF001": {
+      "count": 1,
+      "situations": [
+        "bmw_4_g22_008"
+      ],
+      "category": "unknown"
+    },
+    "5DF109": {
+      "count": 1,
+      "situations": [
+        "bmw_4_g22_008"
+      ],
+      "category": "unknown"
+    },
+    "60B201": {
+      "count": 1,
+      "situations": [
+        "bmw_4_g22_009"
+      ],
+      "category": "unknown"
+    },
+    "60B302": {
+      "count": 1,
+      "situations": [
+        "bmw_4_g22_009"
+      ],
+      "category": "unknown"
+    }
+  }
+}

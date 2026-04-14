@@ -1,0 +1,111 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 15,
+  "codes": {
+    "P0420": {
+      "count": 1,
+      "situations": [
+        "hyundai_solaris_hc_01"
+      ],
+      "category": "engine"
+    },
+    "P0430": {
+      "count": 1,
+      "situations": [
+        "hyundai_solaris_hc_01"
+      ],
+      "category": "engine"
+    },
+    "P0300": {
+      "count": 1,
+      "situations": [
+        "hyundai_solaris_hc_01"
+      ],
+      "category": "engine"
+    },
+    "P0715": {
+      "count": 1,
+      "situations": [
+        "hyundai_solaris_hc_02"
+      ],
+      "category": "transmission"
+    },
+    "P0730": {
+      "count": 1,
+      "situations": [
+        "hyundai_solaris_hc_02"
+      ],
+      "category": "transmission"
+    },
+    "P0750": {
+      "count": 1,
+      "situations": [
+        "hyundai_solaris_hc_02"
+      ],
+      "category": "transmission"
+    },
+    "P0011": {
+      "count": 1,
+      "situations": [
+        "hyundai_solaris_hc_03"
+      ],
+      "category": "engine"
+    },
+    "P0521": {
+      "count": 1,
+      "situations": [
+        "hyundai_solaris_hc_03"
+      ],
+      "category": "engine"
+    },
+    "C0035": {
+      "count": 1,
+      "situations": [
+        "hyundai_solaris_hc_04"
+      ],
+      "category": "chassis"
+    },
+    "C0040": {
+      "count": 1,
+      "situations": [
+        "hyundai_solaris_hc_04"
+      ],
+      "category": "chassis"
+    },
+    "C0045": {
+      "count": 1,
+      "situations": [
+        "hyundai_solaris_hc_04"
+      ],
+      "category": "chassis"
+    },
+    "C0050": {
+      "count": 1,
+      "situations": [
+        "hyundai_solaris_hc_04"
+      ],
+      "category": "chassis"
+    },
+    "P0130": {
+      "count": 1,
+      "situations": [
+        "hyundai_solaris_hc_06"
+      ],
+      "category": "engine"
+    },
+    "P0136": {
+      "count": 1,
+      "situations": [
+        "hyundai_solaris_hc_06"
+      ],
+      "category": "engine"
+    },
+    "P0171": {
+      "count": 1,
+      "situations": [
+        "hyundai_solaris_hc_06"
+      ],
+      "category": "engine"
+    }
+  }
+}

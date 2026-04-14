@@ -1,0 +1,216 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 30,
+  "codes": {
+    "P0011": {
+      "count": 1,
+      "situations": [
+        "bmw_3_f30_001"
+      ],
+      "category": "engine"
+    },
+    "P0015": {
+      "count": 1,
+      "situations": [
+        "bmw_3_f30_001"
+      ],
+      "category": "engine"
+    },
+    "P0524": {
+      "count": 1,
+      "situations": [
+        "bmw_3_f30_001"
+      ],
+      "category": "engine"
+    },
+    "P29F0": {
+      "count": 1,
+      "situations": [
+        "bmw_3_f30_002"
+      ],
+      "category": "engine"
+    },
+    "P006A": {
+      "count": 1,
+      "situations": [
+        "bmw_3_f30_002"
+      ],
+      "category": "engine"
+    },
+    "P10D4": {
+      "count": 1,
+      "situations": [
+        "bmw_3_f30_002"
+      ],
+      "category": "engine"
+    },
+    "P0521": {
+      "count": 1,
+      "situations": [
+        "bmw_3_f30_003"
+      ],
+      "category": "engine"
+    },
+    "P0171": {
+      "count": 1,
+      "situations": [
+        "bmw_3_f30_003"
+      ],
+      "category": "engine"
+    },
+    "P2202": {
+      "count": 1,
+      "situations": [
+        "bmw_3_f30_004"
+      ],
+      "category": "engine"
+    },
+    "P13E0": {
+      "count": 1,
+      "situations": [
+        "bmw_3_f30_004"
+      ],
+      "category": "engine"
+    },
+    "P0420": {
+      "count": 1,
+      "situations": [
+        "bmw_3_f30_004"
+      ],
+      "category": "engine"
+    },
+    "P0597": {
+      "count": 1,
+      "situations": [
+        "bmw_3_f30_005"
+      ],
+      "category": "engine"
+    },
+    "P0480": {
+      "count": 1,
+      "situations": [
+        "bmw_3_f30_005"
+      ],
+      "category": "engine"
+    },
+    "P0128": {
+      "count": 1,
+      "situations": [
+        "bmw_3_f30_005"
+      ],
+      "category": "engine"
+    },
+    "P011A": {
+      "count": 1,
+      "situations": [
+        "bmw_3_f30_006"
+      ],
+      "category": "engine"
+    },
+    "P011B": {
+      "count": 1,
+      "situations": [
+        "bmw_3_f30_006"
+      ],
+      "category": "engine"
+    },
+    "B7F66B": {
+      "count": 1,
+      "situations": [
+        "bmw_3_f30_006"
+      ],
+      "category": "body"
+    },
+    "P0733": {
+      "count": 1,
+      "situations": [
+        "bmw_3_f30_007"
+      ],
+      "category": "transmission"
+    },
+    "P1734": {
+      "count": 1,
+      "situations": [
+        "bmw_3_f30_007"
+      ],
+      "category": "transmission"
+    },
+    "P1744": {
+      "count": 1,
+      "situations": [
+        "bmw_3_f30_007"
+      ],
+      "category": "transmission"
+    },
+    "P0172": {
+      "count": 1,
+      "situations": [
+        "bmw_3_f30_008"
+      ],
+      "category": "engine"
+    },
+    "P0175": {
+      "count": 1,
+      "situations": [
+        "bmw_3_f30_008"
+      ],
+      "category": "engine"
+    },
+    "P129F": {
+      "count": 1,
+      "situations": [
+        "bmw_3_f30_008"
+      ],
+      "category": "engine"
+    },
+    "P1101": {
+      "count": 1,
+      "situations": [
+        "bmw_3_f30_008"
+      ],
+      "category": "engine"
+    },
+    "C1885": {
+      "count": 1,
+      "situations": [
+        "bmw_3_f30_009"
+      ],
+      "category": "chassis"
+    },
+    "C1886": {
+      "count": 1,
+      "situations": [
+        "bmw_3_f30_009"
+      ],
+      "category": "chassis"
+    },
+    "5E40": {
+      "count": 1,
+      "situations": [
+        "bmw_3_f30_009"
+      ],
+      "category": "unknown"
+    },
+    "B7F44E": {
+      "count": 1,
+      "situations": [
+        "bmw_3_f30_010"
+      ],
+      "category": "body"
+    },
+    "P0562": {
+      "count": 1,
+      "situations": [
+        "bmw_3_f30_010"
+      ],
+      "category": "engine"
+    },
+    "93D1": {
+      "count": 1,
+      "situations": [
+        "bmw_3_f30_010"
+      ],
+      "category": "unknown"
+    }
+  }
+}

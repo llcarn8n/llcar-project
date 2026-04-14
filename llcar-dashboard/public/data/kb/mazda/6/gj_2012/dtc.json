@@ -1,0 +1,142 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 19,
+  "codes": {
+    "P0171": {
+      "count": 2,
+      "situations": [
+        "mazda_6_gj_001",
+        "mazda_6_gj_009"
+      ],
+      "category": "engine"
+    },
+    "P0300": {
+      "count": 2,
+      "situations": [
+        "mazda_6_gj_001",
+        "mazda_6_gj_008"
+      ],
+      "category": "engine"
+    },
+    "P0420": {
+      "count": 2,
+      "situations": [
+        "mazda_6_gj_002",
+        "mazda_6_gj_008"
+      ],
+      "category": "engine"
+    },
+    "P0301": {
+      "count": 1,
+      "situations": [
+        "mazda_6_gj_001"
+      ],
+      "category": "engine"
+    },
+    "P0131": {
+      "count": 1,
+      "situations": [
+        "mazda_6_gj_002"
+      ],
+      "category": "engine"
+    },
+    "U0155": {
+      "count": 1,
+      "situations": [
+        "mazda_6_gj_003"
+      ],
+      "category": "network"
+    },
+    "B1251": {
+      "count": 1,
+      "situations": [
+        "mazda_6_gj_003"
+      ],
+      "category": "body"
+    },
+    "P0750": {
+      "count": 1,
+      "situations": [
+        "mazda_6_gj_004"
+      ],
+      "category": "transmission"
+    },
+    "P0760": {
+      "count": 1,
+      "situations": [
+        "mazda_6_gj_004"
+      ],
+      "category": "transmission"
+    },
+    "P0744": {
+      "count": 1,
+      "situations": [
+        "mazda_6_gj_004"
+      ],
+      "category": "transmission"
+    },
+    "P0128": {
+      "count": 1,
+      "situations": [
+        "mazda_6_gj_005"
+      ],
+      "category": "engine"
+    },
+    "P0115": {
+      "count": 1,
+      "situations": [
+        "mazda_6_gj_005"
+      ],
+      "category": "engine"
+    },
+    "C0050": {
+      "count": 1,
+      "situations": [
+        "mazda_6_gj_006"
+      ],
+      "category": "chassis"
+    },
+    "C1114": {
+      "count": 1,
+      "situations": [
+        "mazda_6_gj_006"
+      ],
+      "category": "chassis"
+    },
+    "P0430": {
+      "count": 1,
+      "situations": [
+        "mazda_6_gj_008"
+      ],
+      "category": "engine"
+    },
+    "P0505": {
+      "count": 1,
+      "situations": [
+        "mazda_6_gj_009"
+      ],
+      "category": "engine"
+    },
+    "P0507": {
+      "count": 1,
+      "situations": [
+        "mazda_6_gj_009"
+      ],
+      "category": "engine"
+    },
+    "C0569": {
+      "count": 1,
+      "situations": [
+        "mazda_6_gj_010"
+      ],
+      "category": "chassis"
+    },
+    "U0415": {
+      "count": 1,
+      "situations": [
+        "mazda_6_gj_010"
+      ],
+      "category": "network"
+    }
+  }
+}
