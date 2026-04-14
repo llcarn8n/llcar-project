@@ -119,10 +119,6 @@ interface MatDef {
   physical?: boolean // use MeshPhysicalMaterial
   transmission?: number
   thickness?: number
-  fresnel?: boolean // rim-light silhouette glow
-  fresnelColor?: string
-  fresnelPower?: number
-  fresnelStrength?: number
 }
 
 // Site palette: cyan #00e5ff, teal #64ffda, bg #0c1220
@@ -146,10 +142,6 @@ const BASE_DEFS: Record<MaterialCategory, MatDef> = {
     emissiveIntensity: 0.35,
     metalness: 0.5,
     roughness: 0.4,
-    fresnel: true,
-    fresnelColor: '#00e5ff',
-    fresnelPower: 2.5,
-    fresnelStrength: 2.2,
   },
   chrome: {
     color: '#64ffda',
@@ -159,10 +151,6 @@ const BASE_DEFS: Record<MaterialCategory, MatDef> = {
     emissiveIntensity: 0.6,
     metalness: 0.9,
     roughness: 0.1,
-    fresnel: true,
-    fresnelColor: '#64ffda',
-    fresnelPower: 3.0,
-    fresnelStrength: 1.8,
   },
   tire: {
     color: '#0a1a2a',
@@ -215,36 +203,6 @@ const BASE_DEFS: Record<MaterialCategory, MatDef> = {
 
 type MatState = 'default' | 'active' | 'dimmed'
 
-function applyFresnel(mat: THREE.Material, def: MatDef): void {
-  if (!def.fresnel) return
-  const color = new THREE.Color(def.fresnelColor ?? def.emissive)
-  const power = def.fresnelPower ?? 3.0
-  const strength = def.fresnelStrength ?? 1.5
-  ;(mat as THREE.MeshStandardMaterial).onBeforeCompile = (shader) => {
-    shader.uniforms.uFresnelColor = { value: color }
-    shader.uniforms.uFresnelPower = { value: power }
-    shader.uniforms.uFresnelStrength = { value: strength }
-    shader.fragmentShader = shader.fragmentShader
-      .replace(
-        '#include <common>',
-        `#include <common>
-         uniform vec3 uFresnelColor;
-         uniform float uFresnelPower;
-         uniform float uFresnelStrength;`,
-      )
-      .replace(
-        '#include <emissivemap_fragment>',
-        `#include <emissivemap_fragment>
-         {
-           vec3 vN = normalize(normal);
-           vec3 vV = normalize(vViewPosition);
-           float fresnel = pow(1.0 - clamp(dot(vN, vV), 0.0, 1.0), uFresnelPower);
-           totalEmissiveRadiance += uFresnelColor * fresnel * uFresnelStrength;
-         }`,
-      )
-  }
-}
-
 function buildMaterial(def: MatDef, state: MatState): THREE.Material {
   let { opacity, emissiveIntensity } = def
 
@@ -256,33 +214,32 @@ function buildMaterial(def: MatDef, state: MatState): THREE.Material {
     emissiveIntensity *= 0.25
   }
 
-  const mat = def.physical
-    ? new THREE.MeshPhysicalMaterial({
-        color: def.color,
-        wireframe: def.wireframe,
-        transparent: true,
-        opacity,
-        emissive: def.emissive,
-        emissiveIntensity,
-        metalness: def.metalness,
-        roughness: def.roughness,
-        transmission: def.transmission ?? 0,
-        thickness: def.thickness ?? 0,
-        side: THREE.DoubleSide,
-      })
-    : new THREE.MeshStandardMaterial({
-        color: def.color,
-        wireframe: def.wireframe,
-        transparent: true,
-        opacity,
-        emissive: def.emissive,
-        emissiveIntensity,
-        metalness: def.metalness,
-        roughness: def.roughness,
-      })
+  if (def.physical) {
+    return new THREE.MeshPhysicalMaterial({
+      color: def.color,
+      wireframe: def.wireframe,
+      transparent: true,
+      opacity,
+      emissive: def.emissive,
+      emissiveIntensity,
+      metalness: def.metalness,
+      roughness: def.roughness,
+      transmission: def.transmission ?? 0,
+      thickness: def.thickness ?? 0,
+      side: THREE.DoubleSide,
+    })
+  }
 
-  applyFresnel(mat, def)
-  return mat
+  return new THREE.MeshStandardMaterial({
+    color: def.color,
+    wireframe: def.wireframe,
+    transparent: true,
+    opacity,
+    emissive: def.emissive,
+    emissiveIntensity,
+    metalness: def.metalness,
+    roughness: def.roughness,
+  })
 }
 
 // ── Material pool: 8 categories × 3 states = 24 instances ──
