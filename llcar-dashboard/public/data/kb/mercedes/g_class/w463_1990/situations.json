@@ -109,8 +109,7 @@
     "urg": 4,
     "cat": "transmission",
     "dtc_codes": [
-      "P4WD01",
-      "P4WD03"
+      "C0800"
     ],
     "solutions": [
       "Диагностика раздаточной коробки VG750 через XENTRY",
@@ -119,7 +118,11 @@
     ],
     "price_range": "40000-200000 руб.",
     "mileage_range": "80000-180000 км",
-    "content_type": "diagnostic"
+    "content_type": "diagnostic",
+    "manufacturer_code": [
+      "P4WD01",
+      "P4WD03"
+    ]
   },
   {
     "id": "merc_g_w463_008",

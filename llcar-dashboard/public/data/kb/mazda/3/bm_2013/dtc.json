@@ -1,17 +1,7 @@
 {
   "generated_at": "2026-04-14",
-  "total_codes": 19,
+  "total_codes": 18,
   "codes": {
-    "-": {
-      "count": 4,
-      "situations": [
-        "mazda_3_bm_004",
-        "mazda_3_bm_005",
-        "mazda_3_bm_006",
-        "mazda_3_bm_007"
-      ],
-      "category": "unknown"
-    },
     "P0300": {
       "count": 2,
       "situations": [

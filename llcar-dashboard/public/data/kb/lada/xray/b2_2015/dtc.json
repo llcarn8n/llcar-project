@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-04-14",
-  "total_codes": 24,
+  "total_codes": 20,
   "codes": {
     "P0016": {
       "count": 2,
@@ -38,13 +38,6 @@
       ],
       "category": "engine"
     },
-    "P17H2": {
-      "count": 1,
-      "situations": [
-        "lada_xray_002"
-      ],
-      "category": "transmission"
-    },
     "P1778": {
       "count": 1,
       "situations": [
@@ -65,13 +58,6 @@
         "lada_xray_003"
       ],
       "category": "engine"
-    },
-    "Нет кодов (механическая поломка)": {
-      "count": 1,
-      "situations": [
-        "lada_xray_004"
-      ],
-      "category": "unknown"
     },
     "P0505": {
       "count": 1,
@@ -150,26 +136,12 @@
       ],
       "category": "engine"
     },
-    "Нет кодов (механический износ)": {
-      "count": 1,
-      "situations": [
-        "lada_xray_008"
-      ],
-      "category": "unknown"
-    },
     "C0050": {
       "count": 1,
       "situations": [
         "lada_xray_009"
       ],
       "category": "chassis"
-    },
-    "Нет кодов (кузовная проблема)": {
-      "count": 1,
-      "situations": [
-        "lada_xray_010"
-      ],
-      "category": "unknown"
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-04-14",
-  "total_codes": 27,
+  "total_codes": 26,
   "codes": {
     "P0521": {
       "count": 1,
@@ -141,13 +141,6 @@
         "volvo_xc60_su_007"
       ],
       "category": "engine"
-    },
-    "Нет ошибок (механический износ)": {
-      "count": 1,
-      "situations": [
-        "volvo_xc60_su_008"
-      ],
-      "category": "unknown"
     },
     "C1A77": {
       "count": 1,

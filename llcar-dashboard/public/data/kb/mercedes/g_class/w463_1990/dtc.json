@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-04-14",
-  "total_codes": 11,
+  "total_codes": 10,
   "codes": {
     "P0017": {
       "count": 1,
@@ -37,19 +37,12 @@
       ],
       "category": "engine"
     },
-    "P4WD01": {
+    "C0800": {
       "count": 1,
       "situations": [
         "merc_g_w463_007"
       ],
-      "category": "engine"
-    },
-    "P4WD03": {
-      "count": 1,
-      "situations": [
-        "merc_g_w463_007"
-      ],
-      "category": "engine"
+      "category": "chassis"
     },
     "P0128": {
       "count": 1,

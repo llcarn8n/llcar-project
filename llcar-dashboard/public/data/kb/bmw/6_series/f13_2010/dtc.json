@@ -1,14 +1,7 @@
 {
   "generated_at": "2026-04-14",
-  "total_codes": 10,
+  "total_codes": 9,
   "codes": {
-    "11657619458": {
-      "count": 1,
-      "situations": [
-        "bmw_6_f13_002"
-      ],
-      "category": "unknown"
-    },
     "P0299": {
       "count": 1,
       "situations": [

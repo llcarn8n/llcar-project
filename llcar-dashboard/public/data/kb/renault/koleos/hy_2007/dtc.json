@@ -23,12 +23,12 @@
       ],
       "category": "transmission"
     },
-    "AWD-001": {
+    "C0800": {
       "count": 1,
       "situations": [
         "renault_koleos_hy_002"
       ],
-      "category": "unknown"
+      "category": "chassis"
     },
     "P0506": {
       "count": 1,

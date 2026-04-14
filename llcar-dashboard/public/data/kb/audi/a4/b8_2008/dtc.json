@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-04-14",
-  "total_codes": 29,
+  "total_codes": 28,
   "codes": {
     "P0016": {
       "count": 1,
@@ -176,13 +176,6 @@
         "audi_a4_b8_008"
       ],
       "category": "network"
-    },
-    "Нет DTC кодов (диагностика на подъемнике)": {
-      "count": 1,
-      "situations": [
-        "audi_a4_b8_009"
-      ],
-      "category": "unknown"
     },
     "P1635": {
       "count": 1,

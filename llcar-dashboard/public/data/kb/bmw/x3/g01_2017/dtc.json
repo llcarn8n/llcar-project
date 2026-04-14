@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-04-14",
-  "total_codes": 27,
+  "total_codes": 24,
   "codes": {
     "P0480": {
       "count": 1,
@@ -128,20 +128,6 @@
       ],
       "category": "engine"
     },
-    "Нет DTC": {
-      "count": 1,
-      "situations": [
-        "bmw_x3_g01_007"
-      ],
-      "category": "unknown"
-    },
-    "Возможны случайные ошибки блоков комфорта при затеке воды": {
-      "count": 1,
-      "situations": [
-        "bmw_x3_g01_007"
-      ],
-      "category": "unknown"
-    },
     "C0600": {
       "count": 1,
       "situations": [
@@ -162,13 +148,6 @@
         "bmw_x3_g01_008"
       ],
       "category": "chassis"
-    },
-    "Нет DTC (механический износ)": {
-      "count": 1,
-      "situations": [
-        "bmw_x3_g01_009"
-      ],
-      "category": "unknown"
     },
     "P006E": {
       "count": 1,

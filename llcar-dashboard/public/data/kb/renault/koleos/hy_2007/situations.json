@@ -26,7 +26,7 @@
     "urg": 3,
     "cat": "transmission",
     "dtc_codes": [
-      "AWD-001"
+      "C0800"
     ],
     "solutions": [
       "Замена сальников заднего дифференциала",
@@ -35,7 +35,10 @@
     ],
     "price_range": "8000-30000 руб.",
     "mileage_range": "80000-180000 км",
-    "content_type": "diagnostic"
+    "content_type": "diagnostic",
+    "manufacturer_code": [
+      "AWD-001"
+    ]
   },
   {
     "id": "renault_koleos_hy_003",

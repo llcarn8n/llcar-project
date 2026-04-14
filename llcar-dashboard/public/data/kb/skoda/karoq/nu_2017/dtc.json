@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-04-14",
-  "total_codes": 24,
+  "total_codes": 22,
   "codes": {
     "P1890": {
       "count": 2,
@@ -80,13 +80,6 @@
       ],
       "category": "engine"
     },
-    "Нет кодов (механическая проблема)": {
-      "count": 1,
-      "situations": [
-        "skoda_karoq_nu_005"
-      ],
-      "category": "unknown"
-    },
     "P0730": {
       "count": 1,
       "situations": [
@@ -119,13 +112,6 @@
       "count": 1,
       "situations": [
         "skoda_karoq_nu_007"
-      ],
-      "category": "unknown"
-    },
-    "Нет DTC (механический износ)": {
-      "count": 1,
-      "situations": [
-        "skoda_karoq_nu_008"
       ],
       "category": "unknown"
     },

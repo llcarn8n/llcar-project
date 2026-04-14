@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-04-14",
-  "total_codes": 24,
+  "total_codes": 23,
   "codes": {
     "P0011": {
       "count": 1,
@@ -148,13 +148,6 @@
         "bmw_x1_f48_008"
       ],
       "category": "engine"
-    },
-    "-": {
-      "count": 1,
-      "situations": [
-        "bmw_x1_f48_009"
-      ],
-      "category": "unknown"
     },
     "P0128": {
       "count": 1,

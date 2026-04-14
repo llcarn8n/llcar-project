@@ -94,7 +94,6 @@
     "cat": "electrical",
     "dtc_codes": [
       "C2520",
-      "C2520",
       "A6F011",
       "A6F012"
     ],
@@ -115,7 +114,6 @@
     "urg": 4,
     "cat": "chassis",
     "dtc_codes": [
-      "C1A54",
       "C1A54",
       "C1A51",
       "480800"

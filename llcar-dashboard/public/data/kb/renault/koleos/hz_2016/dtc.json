@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-04-14",
-  "total_codes": 8,
+  "total_codes": 7,
   "codes": {
     "P0840": {
       "count": 1,
@@ -44,19 +44,12 @@
       ],
       "category": "engine"
     },
-    "AWD-001": {
+    "C0800": {
       "count": 1,
       "situations": [
         "renault_koleos_hz_007"
       ],
-      "category": "unknown"
-    },
-    "4WD-002": {
-      "count": 1,
-      "situations": [
-        "renault_koleos_hz_007"
-      ],
-      "category": "unknown"
+      "category": "chassis"
     }
   }
 }

@@ -111,8 +111,7 @@
     "urg": 3,
     "cat": "transmission",
     "dtc_codes": [
-      "AWD-001",
-      "4WD-002"
+      "C0800"
     ],
     "solutions": [
       "Охлаждение муфты 4WD при перегреве (остановить, выключить 4WD)",
@@ -121,7 +120,11 @@
     ],
     "price_range": "5000-60000 руб.",
     "mileage_range": "30000-120000 км",
-    "content_type": "diagnostic"
+    "content_type": "diagnostic",
+    "manufacturer_code": [
+      "AWD-001",
+      "4WD-002"
+    ]
   },
   {
     "id": "renault_koleos_hz_008",

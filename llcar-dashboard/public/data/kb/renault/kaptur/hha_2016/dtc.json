@@ -1,16 +1,7 @@
 {
   "generated_at": "2026-04-14",
-  "total_codes": 19,
+  "total_codes": 18,
   "codes": {
-    "-": {
-      "count": 3,
-      "situations": [
-        "renault_kaptur_008",
-        "renault_kaptur_009",
-        "renault_kaptur_010"
-      ],
-      "category": "unknown"
-    },
     "P0300": {
       "count": 2,
       "situations": [

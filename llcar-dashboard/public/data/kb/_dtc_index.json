@@ -1,91 +1,8 @@
 {
   "generated_at": "2026-04-14",
-  "total_codes": 1820,
-  "total_mappings": 6712,
+  "total_codes": 1790,
+  "total_mappings": 6672,
   "index": {
-    "-": [
-      {
-        "sit_id": "audi_q5_fy_007",
-        "title": "Скрип и глухой стук в передней подвеске на кочках",
-        "brand": "audi",
-        "model": "q5",
-        "generation": "fy_2017",
-        "urg": 2,
-        "cat": "chassis"
-      },
-      {
-        "sit_id": "bmw_x1_f48_009",
-        "title": "Быстрый износ сайлентблоков передних рычагов",
-        "brand": "bmw",
-        "model": "x1",
-        "generation": "f48_2015",
-        "urg": 3,
-        "cat": "chassis"
-      },
-      {
-        "sit_id": "mazda_3_bm_004",
-        "title": "Расслоение дисплея мультимедийной системы (CMU) и зависания",
-        "brand": "mazda",
-        "model": "3",
-        "generation": "bm_2013",
-        "urg": 2,
-        "cat": "electrical"
-      },
-      {
-        "sit_id": "mazda_3_bm_005",
-        "title": "Износ правой гидравлической опоры двигателя",
-        "brand": "mazda",
-        "model": "3",
-        "generation": "bm_2013",
-        "urg": 3,
-        "cat": "chassis"
-      },
-      {
-        "sit_id": "mazda_3_bm_006",
-        "title": "Деформация и перегрев передних тормозных дисков",
-        "brand": "mazda",
-        "model": "3",
-        "generation": "bm_2013",
-        "urg": 3,
-        "cat": "brakes"
-      },
-      {
-        "sit_id": "mazda_3_bm_007",
-        "title": "Протекание задних амортизаторов и стуки в подвеске",
-        "brand": "mazda",
-        "model": "3",
-        "generation": "bm_2013",
-        "urg": 2,
-        "cat": "chassis"
-      },
-      {
-        "sit_id": "renault_kaptur_008",
-        "title": "Биение руля и пульсация педали тормоза (деформация тормозных дисков)",
-        "brand": "renault",
-        "model": "kaptur",
-        "generation": "hha_2016",
-        "urg": 2,
-        "cat": "brakes"
-      },
-      {
-        "sit_id": "renault_kaptur_009",
-        "title": "Скрип и стук в передней подвеске (опорные подшипники и стойки стабилизатора)",
-        "brand": "renault",
-        "model": "kaptur",
-        "generation": "hha_2016",
-        "urg": 2,
-        "cat": "chassis"
-      },
-      {
-        "sit_id": "renault_kaptur_010",
-        "title": "Скрип обшивки салона, люфты сидений (салазки передних кресел) и дребезг механизма люка",
-        "brand": "renault",
-        "model": "kaptur",
-        "generation": "hha_2016",
-        "urg": 1,
-        "cat": "body"
-      }
-    ],
     "00457008": [
       {
         "sit_id": "vw_polo_aw_008",
@@ -313,28 +230,6 @@
         "brand": "bmw",
         "model": "3_series",
         "generation": "g20_2019",
-        "urg": 4,
-        "cat": "engine"
-      }
-    ],
-    "0x801123": [
-      {
-        "sit_id": "bmw_i5_009",
-        "title": "Чёрный экран BMW Curved Display (iDrive 8)",
-        "brand": "bmw",
-        "model": "i5",
-        "generation": "g60_2023",
-        "urg": 3,
-        "cat": "electrical"
-      }
-    ],
-    "11657619458": [
-      {
-        "sit_id": "bmw_6_f13_002",
-        "title": "Перегрев турбин N63 — высокое расположение в развале V8",
-        "brand": "bmw",
-        "model": "6_series",
-        "generation": "f13_2010",
         "urg": 4,
         "cat": "engine"
       }
@@ -857,17 +752,6 @@
         "model": "4_series",
         "generation": "f32_2013",
         "urg": 5,
-        "cat": "transmission"
-      }
-    ],
-    "4WD-002": [
-      {
-        "sit_id": "renault_koleos_hz_007",
-        "title": "Ошибки системы полного привода 4WD — отказ муфты",
-        "brand": "renault",
-        "model": "koleos",
-        "generation": "hz_2016",
-        "urg": 3,
         "cat": "transmission"
       }
     ],
@@ -1878,46 +1762,6 @@
         "generation": "4k_2017",
         "urg": 2,
         "cat": "electrical"
-      }
-    ],
-    "ABS-001": [
-      {
-        "sit_id": "volvo_xc40_536_007",
-        "title": "Ошибки системы DSTC — нестабильность при скользкой дороге",
-        "brand": "volvo",
-        "model": "xc40",
-        "generation": "536_2017",
-        "urg": 3,
-        "cat": "electrical"
-      }
-    ],
-    "AWD-001": [
-      {
-        "sit_id": "renault_koleos_hy_002",
-        "title": "Течь заднего дифференциала Haldex — масло на полу",
-        "brand": "renault",
-        "model": "koleos",
-        "generation": "hy_2007",
-        "urg": 3,
-        "cat": "transmission"
-      },
-      {
-        "sit_id": "renault_koleos_hz_007",
-        "title": "Ошибки системы полного привода 4WD — отказ муфты",
-        "brand": "renault",
-        "model": "koleos",
-        "generation": "hz_2016",
-        "urg": 3,
-        "cat": "transmission"
-      },
-      {
-        "sit_id": "volvo_xc40_536_003",
-        "title": "Хруст муфты Haldex AWD при разворотах — масло Haldex",
-        "brand": "volvo",
-        "model": "xc40",
-        "generation": "536_2017",
-        "urg": 3,
-        "cat": "transmission"
       }
     ],
     "B0012": [
@@ -5523,17 +5367,6 @@
         "cat": "electrical"
       }
     ],
-    "B16XX": [
-      {
-        "sit_id": "hyundai_sonata_dn8_010",
-        "title": "Запотевание и перегорание LED-модулей фар",
-        "brand": "hyundai",
-        "model": "sonata",
-        "generation": "dn8_2019",
-        "urg": 2,
-        "cat": "body"
-      }
-    ],
     "B1815": [
       {
         "sit_id": "lexus_rx_al20_010",
@@ -7351,15 +7184,6 @@
         "generation": "g11_2015",
         "urg": 3,
         "cat": "electrical"
-      },
-      {
-        "sit_id": "bmw_7_g11_008",
-        "title": "Попадание воды в багажник и сбои электрооборудования",
-        "brand": "bmw",
-        "model": "7_series",
-        "generation": "g11_2015",
-        "urg": 3,
-        "cat": "electrical"
       }
     ],
     "B7F023": [
@@ -7650,17 +7474,6 @@
         "model": "6_series",
         "generation": "g32_2017",
         "urg": 2,
-        "cat": "electrical"
-      }
-    ],
-    "BMS-002": [
-      {
-        "sit_id": "volvo_s60_p_003",
-        "title": "Разряд 12V АКБ при PHEV T8 — балансировка 12V/48V систем",
-        "brand": "volvo",
-        "model": "s60",
-        "generation": "p_2018",
-        "urg": 3,
         "cat": "electrical"
       }
     ],
@@ -8177,6 +7990,15 @@
         "brand": "volkswagen",
         "model": "touareg",
         "generation": "cr_2018",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "volvo_xc40_536_007",
+        "title": "Ошибки системы DSTC — нестабильность при скользкой дороге",
+        "brand": "volvo",
+        "model": "xc40",
+        "generation": "536_2017",
         "urg": 3,
         "cat": "electrical"
       }
@@ -9537,6 +9359,15 @@
         "cat": "brakes"
       },
       {
+        "sit_id": "volvo_xc40_536_007",
+        "title": "Ошибки системы DSTC — нестабильность при скользкой дороге",
+        "brand": "volvo",
+        "model": "xc40",
+        "generation": "536_2017",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "voyah_free_009",
         "title": "Прерывистая работа вакуумного насоса тормозов",
         "brand": "voyah",
@@ -10069,6 +9900,44 @@
         "generation": "007_2024",
         "urg": 2,
         "cat": "chassis"
+      }
+    ],
+    "C0800": [
+      {
+        "sit_id": "merc_g_w463_007",
+        "title": "Шум и вибрация раздаточной коробки VG750 — износ муфты",
+        "brand": "mercedes",
+        "model": "g_class",
+        "generation": "w463_1990",
+        "urg": 4,
+        "cat": "transmission"
+      },
+      {
+        "sit_id": "renault_koleos_hy_002",
+        "title": "Течь заднего дифференциала Haldex — масло на полу",
+        "brand": "renault",
+        "model": "koleos",
+        "generation": "hy_2007",
+        "urg": 3,
+        "cat": "transmission"
+      },
+      {
+        "sit_id": "renault_koleos_hz_007",
+        "title": "Ошибки системы полного привода 4WD — отказ муфты",
+        "brand": "renault",
+        "model": "koleos",
+        "generation": "hz_2016",
+        "urg": 3,
+        "cat": "transmission"
+      },
+      {
+        "sit_id": "volvo_xc40_536_003",
+        "title": "Хруст муфты Haldex AWD при разворотах — масло Haldex",
+        "brand": "volvo",
+        "model": "xc40",
+        "generation": "536_2017",
+        "urg": 3,
+        "cat": "transmission"
       }
     ],
     "C0805": [
@@ -16681,15 +16550,6 @@
         "cat": "chassis"
       },
       {
-        "sit_id": "bmw_x6_g06_006",
-        "title": "Поломка компрессора пневмоподвески и утечки в пневмобаллонах",
-        "brand": "bmw",
-        "model": "x6",
-        "generation": "g06_2019",
-        "urg": 4,
-        "cat": "chassis"
-      },
-      {
         "sit_id": "jaguar_fpace_x761_004",
         "title": "Коррозия тормозных дисков и суппортов (алюминиевые суппорты)",
         "brand": "jaguar",
@@ -17218,15 +17078,6 @@
         "generation": "g06_2019",
         "urg": 2,
         "cat": "electrical"
-      },
-      {
-        "sit_id": "bmw_x6_g06_005",
-        "title": "Запотевание камеры KAFAS и отказ систем помощи водителю",
-        "brand": "bmw",
-        "model": "x6",
-        "generation": "g06_2019",
-        "urg": 2,
-        "cat": "electrical"
       }
     ],
     "C2A20": [
@@ -17292,17 +17143,6 @@
         "model": "x3",
         "generation": "g01_2017",
         "urg": 3,
-        "cat": "electrical"
-      }
-    ],
-    "CA-001": [
-      {
-        "sit_id": "volvo_s60_p_005",
-        "title": "Ошибки Pilot Assist — ADAS не работает в снег и туман",
-        "brand": "volvo",
-        "model": "s60",
-        "generation": "p_2018",
-        "urg": 2,
         "cat": "electrical"
       }
     ],
@@ -17414,50 +17254,6 @@
         "generation": "g06_2019",
         "urg": 5,
         "cat": "brakes"
-      }
-    ],
-    "ECM-0001": [
-      {
-        "sit_id": "volvo_xc40_536_001",
-        "title": "Сбои Android Auto / Sensus при морозах — зависание экрана",
-        "brand": "volvo",
-        "model": "xc40",
-        "generation": "536_2017",
-        "urg": 2,
-        "cat": "electrical"
-      }
-    ],
-    "ECM-0002": [
-      {
-        "sit_id": "volvo_xc40_536_001",
-        "title": "Сбои Android Auto / Sensus при морозах — зависание экрана",
-        "brand": "volvo",
-        "model": "xc40",
-        "generation": "536_2017",
-        "urg": 2,
-        "cat": "electrical"
-      }
-    ],
-    "ECT-001": [
-      {
-        "sit_id": "volvo_s60_p_009",
-        "title": "Ошибка системы охлаждения — перегрев при пробке летом",
-        "brand": "volvo",
-        "model": "s60",
-        "generation": "p_2018",
-        "urg": 3,
-        "cat": "cooling"
-      }
-    ],
-    "HVB-001": [
-      {
-        "sit_id": "volvo_s60_p_003",
-        "title": "Разряд 12V АКБ при PHEV T8 — балансировка 12V/48V систем",
-        "brand": "volvo",
-        "model": "s60",
-        "generation": "p_2018",
-        "urg": 3,
-        "cat": "electrical"
       }
     ],
     "P0008": [
@@ -21533,6 +21329,15 @@
         "model": "rav4",
         "generation": "xa50_2019",
         "urg": 5,
+        "cat": "cooling"
+      },
+      {
+        "sit_id": "volvo_s60_p_009",
+        "title": "Ошибка системы охлаждения — перегрев при пробке летом",
+        "brand": "volvo",
+        "model": "s60",
+        "generation": "p_2018",
+        "urg": 3,
         "cat": "cooling"
       },
       {
@@ -37486,15 +37291,6 @@
         "generation": "a8_2020",
         "urg": 3,
         "cat": "cooling"
-      },
-      {
-        "sit_id": "skoda_octavia_a8_07",
-        "title": "Отказ компрессора кондиционера или клапана регулировки давления",
-        "brand": "skoda",
-        "model": "octavia",
-        "generation": "a8_2020",
-        "urg": 3,
-        "cat": "cooling"
       }
     ],
     "P054A": [
@@ -38958,6 +38754,17 @@
         "generation": "x167_2019",
         "urg": 3,
         "cat": "transmission"
+      }
+    ],
+    "P0606": [
+      {
+        "sit_id": "volvo_xc40_536_001",
+        "title": "Сбои Android Auto / Sensus при морозах — зависание экрана",
+        "brand": "volvo",
+        "model": "xc40",
+        "generation": "536_2017",
+        "urg": 2,
+        "cat": "electrical"
       }
     ],
     "P0607": [
@@ -48386,6 +48193,15 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "volvo_s60_p_003",
+        "title": "Разряд 12V АКБ при PHEV T8 — балансировка 12V/48V систем",
+        "brand": "volvo",
+        "model": "s60",
+        "generation": "p_2018",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "voyah_free_001",
         "title": "Деградация HV батареи и ошибки BMS",
         "brand": "voyah",
@@ -54657,17 +54473,6 @@
         "cat": "transmission"
       }
     ],
-    "P17H2": [
-      {
-        "sit_id": "lada_xray_002",
-        "title": "Износ подшипников и ремня вариатора Jatco JF015E",
-        "brand": "lada",
-        "model": "xray",
-        "generation": "b2_2015",
-        "urg": 5,
-        "cat": "transmission"
-      }
-    ],
     "P1811": [
       {
         "sit_id": "citroen_c5_x7_003",
@@ -58348,61 +58153,6 @@
         "generation": "c8_2019",
         "urg": 5,
         "cat": "engine"
-      }
-    ],
-    "P4WD01": [
-      {
-        "sit_id": "merc_g_w463_007",
-        "title": "Шум и вибрация раздаточной коробки VG750 — износ муфты",
-        "brand": "mercedes",
-        "model": "g_class",
-        "generation": "w463_1990",
-        "urg": 4,
-        "cat": "transmission"
-      }
-    ],
-    "P4WD03": [
-      {
-        "sit_id": "merc_g_w463_007",
-        "title": "Шум и вибрация раздаточной коробки VG750 — износ муфты",
-        "brand": "mercedes",
-        "model": "g_class",
-        "generation": "w463_1990",
-        "urg": 4,
-        "cat": "transmission"
-      }
-    ],
-    "PA-001": [
-      {
-        "sit_id": "volvo_s60_p_005",
-        "title": "Ошибки Pilot Assist — ADAS не работает в снег и туман",
-        "brand": "volvo",
-        "model": "s60",
-        "generation": "p_2018",
-        "urg": 2,
-        "cat": "electrical"
-      }
-    ],
-    "SB-001": [
-      {
-        "sit_id": "volvo_s60_p_007",
-        "title": "Коррозия тормозных суппортов — закисание при длительной стоянке",
-        "brand": "volvo",
-        "model": "s60",
-        "generation": "p_2018",
-        "urg": 4,
-        "cat": "brakes"
-      }
-    ],
-    "STC-001": [
-      {
-        "sit_id": "volvo_xc40_536_007",
-        "title": "Ошибки системы DSTC — нестабильность при скользкой дороге",
-        "brand": "volvo",
-        "model": "xc40",
-        "generation": "536_2017",
-        "urg": 3,
-        "cat": "electrical"
       }
     ],
     "U0001": [
@@ -63879,176 +63629,6 @@
         "generation": "11_2022",
         "urg": 3,
         "cat": "electrical"
-      }
-    ],
-    "Возможны случайные ошибки блоков комфорта при затеке воды": [
-      {
-        "sit_id": "bmw_x3_g01_007",
-        "title": "Засор дренажа панорамной крыши и попадание воды в салон",
-        "brand": "bmw",
-        "model": "x3",
-        "generation": "g01_2017",
-        "urg": 3,
-        "cat": "body"
-      }
-    ],
-    "Нет DTC": [
-      {
-        "sit_id": "bmw_x3_g01_007",
-        "title": "Засор дренажа панорамной крыши и попадание воды в салон",
-        "brand": "bmw",
-        "model": "x3",
-        "generation": "g01_2017",
-        "urg": 3,
-        "cat": "body"
-      },
-      {
-        "sit_id": "mazda_cx5_kf_007",
-        "title": "Быстрый износ и скрип задних тормозных механизмов",
-        "brand": "mazda",
-        "model": "cx5",
-        "generation": "kf_2017",
-        "urg": 3,
-        "cat": "brakes"
-      },
-      {
-        "sit_id": "mazda_cx5_kf_010",
-        "title": "Скрипы и сверчки в салоне (пластик интерфера)",
-        "brand": "mazda",
-        "model": "cx5",
-        "generation": "kf_2017",
-        "urg": 1,
-        "cat": "body"
-      }
-    ],
-    "Нет DTC (механическая неисправность)": [
-      {
-        "sit_id": "mazda_cx5_kf_005",
-        "title": "Быстрый износ задних сайлентблоков передних рычагов",
-        "brand": "mazda",
-        "model": "cx5",
-        "generation": "kf_2017",
-        "urg": 3,
-        "cat": "chassis"
-      }
-    ],
-    "Нет DTC (механическая поломка)": [
-      {
-        "sit_id": "honda_civic_fc_008",
-        "title": "Стук в передней подвеске из-за опорных подшипников амортизаторов",
-        "brand": "honda",
-        "model": "civic",
-        "generation": "fc_2016",
-        "urg": 3,
-        "cat": "chassis"
-      }
-    ],
-    "Нет DTC (механический износ)": [
-      {
-        "sit_id": "bmw_x3_g01_009",
-        "title": "Износ сайлентблоков передних нижних рычагов",
-        "brand": "bmw",
-        "model": "x3",
-        "generation": "g01_2017",
-        "urg": 2,
-        "cat": "chassis"
-      },
-      {
-        "sit_id": "skoda_karoq_nu_008",
-        "title": "Стук и скрип передней подвески (опорные подшипники)",
-        "brand": "skoda",
-        "model": "karoq",
-        "generation": "nu_2017",
-        "urg": 2,
-        "cat": "chassis"
-      }
-    ],
-    "Нет DTC кодов (диагностика на подъемнике)": [
-      {
-        "sit_id": "audi_a4_b8_009",
-        "title": "Быстрый износ сайлентблоков передних рычагов (Подвеска)",
-        "brand": "audi",
-        "model": "a4",
-        "generation": "b8_2008",
-        "urg": 2,
-        "cat": "chassis"
-      }
-    ],
-    "Нет DTC ошибок": [
-      {
-        "sit_id": "renault_arkana_010",
-        "title": "Слабое ЛКП кузова (купе-кроссовер Москва)",
-        "brand": "renault",
-        "model": "arkana",
-        "generation": "rjl_2019",
-        "urg": 2,
-        "cat": "body"
-      }
-    ],
-    "Нет кодов (кузовная проблема)": [
-      {
-        "sit_id": "lada_xray_010",
-        "title": "Протекание уплотнителей дверей и стекла (кузов)",
-        "brand": "lada",
-        "model": "xray",
-        "generation": "b2_2015",
-        "urg": 1,
-        "cat": "body"
-      }
-    ],
-    "Нет кодов (механическая поломка)": [
-      {
-        "sit_id": "lada_xray_004",
-        "title": "Трещины задних продольных рычагов подвески (рычаги-бананы)",
-        "brand": "lada",
-        "model": "xray",
-        "generation": "b2_2015",
-        "urg": 5,
-        "cat": "chassis"
-      }
-    ],
-    "Нет кодов (механическая проблема)": [
-      {
-        "sit_id": "skoda_karoq_nu_005",
-        "title": "Скрипы панели приборов, дверей и дефекты ЛКП из-за крупноузловой (SKD) сборки ГАЗ",
-        "brand": "skoda",
-        "model": "karoq",
-        "generation": "nu_2017",
-        "urg": 1,
-        "cat": "body"
-      }
-    ],
-    "Нет кодов (механический износ)": [
-      {
-        "sit_id": "lada_xray_008",
-        "title": "Гул и хруст синхронизаторов МКПП-5",
-        "brand": "lada",
-        "model": "xray",
-        "generation": "b2_2015",
-        "urg": 3,
-        "cat": "transmission"
-      }
-    ],
-    "Нет ошибок (механическая неисправность)": [
-      {
-        "sit_id": "honda_civic_fc_007",
-        "title": "Преждевременный износ задних тормозных суппортов (закисание направляющих)",
-        "brand": "honda",
-        "model": "civic",
-        "generation": "fc_2016",
-        "urg": 4,
-        "cat": "brakes"
-      }
-    ],
-    "Нет ошибок (механический износ)": [
-      {
-        "sit_id": "volvo_xc60_su_008",
-        "title": "Скрип и стук в передней подвеске (Сайлентблоки передних рычагов)",
-        "brand": "volvo",
-        "model": "xc60",
-        "generation": "su_2017",
-        "urg": 2,
-        "cat": "chassis"
       }
     ]
   }

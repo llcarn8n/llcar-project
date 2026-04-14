@@ -6,8 +6,7 @@
     "urg": 2,
     "cat": "electrical",
     "dtc_codes": [
-      "ECM-0001",
-      "ECM-0002"
+      "P0606"
     ],
     "solutions": [
       "Ожидание 2-4 минуты при морозном пуске — норма для Android системы",
@@ -16,7 +15,11 @@
     ],
     "price_range": "0-15000 руб.",
     "mileage_range": "0-60000 км",
-    "content_type": "diagnostic"
+    "content_type": "diagnostic",
+    "manufacturer_code": [
+      "ECM-0001",
+      "ECM-0002"
+    ]
   },
   {
     "id": "volvo_xc40_536_002",
@@ -41,7 +44,7 @@
     "urg": 3,
     "cat": "transmission",
     "dtc_codes": [
-      "AWD-001"
+      "C0800"
     ],
     "solutions": [
       "Замена масла муфты Haldex 5 и сетчатого фильтра (каждые 30000-40000 км)",
@@ -50,7 +53,10 @@
     ],
     "price_range": "8000-60000 руб.",
     "mileage_range": "30000-100000 км",
-    "content_type": "diagnostic"
+    "content_type": "diagnostic",
+    "manufacturer_code": [
+      "AWD-001"
+    ]
   },
   {
     "id": "volvo_xc40_536_004",
@@ -110,8 +116,8 @@
     "urg": 3,
     "cat": "electrical",
     "dtc_codes": [
-      "ABS-001",
-      "STC-001"
+      "C0035",
+      "C0561"
     ],
     "solutions": [
       "Проверка датчиков скорости колёс — очистка от грязи",
@@ -120,7 +126,11 @@
     ],
     "price_range": "5000-40000 руб.",
     "mileage_range": "20000-100000 км",
-    "content_type": "diagnostic"
+    "content_type": "diagnostic",
+    "manufacturer_code": [
+      "ABS-001",
+      "STC-001"
+    ]
   },
   {
     "id": "volvo_xc40_536_008",

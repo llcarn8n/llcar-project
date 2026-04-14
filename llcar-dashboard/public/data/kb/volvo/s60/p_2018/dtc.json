@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-04-14",
-  "total_codes": 11,
+  "total_codes": 7,
   "codes": {
     "P0299": {
       "count": 1,
@@ -16,33 +16,12 @@
       ],
       "category": "engine"
     },
-    "HVB-001": {
+    "P0A80": {
       "count": 1,
       "situations": [
         "volvo_s60_p_003"
       ],
-      "category": "unknown"
-    },
-    "BMS-002": {
-      "count": 1,
-      "situations": [
-        "volvo_s60_p_003"
-      ],
-      "category": "body"
-    },
-    "PA-001": {
-      "count": 1,
-      "situations": [
-        "volvo_s60_p_005"
-      ],
-      "category": "engine"
-    },
-    "CA-001": {
-      "count": 1,
-      "situations": [
-        "volvo_s60_p_005"
-      ],
-      "category": "chassis"
+      "category": "hv_electric"
     },
     "P0300": {
       "count": 1,
@@ -58,19 +37,12 @@
       ],
       "category": "engine"
     },
-    "SB-001": {
-      "count": 1,
-      "situations": [
-        "volvo_s60_p_007"
-      ],
-      "category": "unknown"
-    },
-    "ECT-001": {
+    "P0115": {
       "count": 1,
       "situations": [
         "volvo_s60_p_009"
       ],
-      "category": "unknown"
+      "category": "engine"
     },
     "P0217": {
       "count": 1,

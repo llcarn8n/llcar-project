@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-04-14",
-  "total_codes": 25,
+  "total_codes": 23,
   "codes": {
     "P0171": {
       "count": 2,
@@ -115,26 +115,12 @@
       ],
       "category": "chassis"
     },
-    "Нет ошибок (механическая неисправность)": {
-      "count": 1,
-      "situations": [
-        "honda_civic_fc_007"
-      ],
-      "category": "unknown"
-    },
     "U3000": {
       "count": 1,
       "situations": [
         "honda_civic_fc_008"
       ],
       "category": "network"
-    },
-    "Нет DTC (механическая поломка)": {
-      "count": 1,
-      "situations": [
-        "honda_civic_fc_008"
-      ],
-      "category": "unknown"
     },
     "C0510": {
       "count": 1,

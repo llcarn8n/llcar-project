@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-04-14",
-  "total_codes": 31,
+  "total_codes": 30,
   "codes": {
     "U1120": {
       "count": 2,
@@ -149,13 +149,6 @@
         "audi_q5_fy_006"
       ],
       "category": "engine"
-    },
-    "-": {
-      "count": 1,
-      "situations": [
-        "audi_q5_fy_007"
-      ],
-      "category": "unknown"
     },
     "C1003": {
       "count": 1,

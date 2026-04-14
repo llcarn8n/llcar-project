@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-04-14",
-  "total_codes": 24,
+  "total_codes": 23,
   "codes": {
     "P0300": {
       "count": 2,
@@ -158,13 +158,6 @@
       "category": "body"
     },
     "B1600": {
-      "count": 1,
-      "situations": [
-        "hyundai_sonata_dn8_010"
-      ],
-      "category": "body"
-    },
-    "B16XX": {
       "count": 1,
       "situations": [
         "hyundai_sonata_dn8_010"

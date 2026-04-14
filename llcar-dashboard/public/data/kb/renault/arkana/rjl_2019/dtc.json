@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-04-14",
-  "total_codes": 24,
+  "total_codes": 23,
   "codes": {
     "P0011": {
       "count": 2,
@@ -163,13 +163,6 @@
         "renault_arkana_009"
       ],
       "category": "engine"
-    },
-    "Нет DTC ошибок": {
-      "count": 1,
-      "situations": [
-        "renault_arkana_010"
-      ],
-      "category": "unknown"
     }
   }
 }

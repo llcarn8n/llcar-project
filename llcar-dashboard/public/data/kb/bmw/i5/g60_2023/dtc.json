@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-04-14",
-  "total_codes": 37,
+  "total_codes": 36,
   "codes": {
     "P0AA6": {
       "count": 2,
@@ -233,13 +233,6 @@
         "bmw_i5_009"
       ],
       "category": "body"
-    },
-    "0x801123": {
-      "count": 1,
-      "situations": [
-        "bmw_i5_009"
-      ],
-      "category": "unknown"
     },
     "P0AA0": {
       "count": 1,
