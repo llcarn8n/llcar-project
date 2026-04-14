@@ -1,0 +1,20 @@
+{
+  "generation_id": "dodge_challenger_lc_2008",
+  "generation_name": "Dodge Challenger LC (III поколение)",
+  "year_start": 2008,
+  "year_end": 2023,
+  "body_type": "coupe 2-door",
+  "market": "parallel_import",
+  "production": "Stellantis, Brampton Assembly, Ontario, Canada",
+  "facelift": 2015,
+  "platform": "LX Platform (Chrysler)",
+  "engines": [
+    { "code": "ERB", "volume": "3.6L", "type": "Pentastar V6", "fuel": "petrol", "power_hp": 305 },
+    { "code": "EZH", "volume": "5.7L", "type": "HEMI V8 MDS", "fuel": "petrol", "power_hp": 375 },
+    { "code": "EZC", "volume": "6.4L", "type": "HEMI V8 392 SRT", "fuel": "petrol", "power_hp": 485 }
+  ],
+  "transmissions": ["6MT (Tremec TR-6060)", "8AT (ZF 8HP70)", "5AT (W5A580, ранние)"],
+  "drivetrains": ["RWD"],
+  "popularity_ru": "low",
+  "notes": "Культовое американское купе. Двигатели: 3.6 Pentastar V6, 5.7 HEMI V8, 6.4 HEMI 392. АКПП ZF 8HP70 с 2015. Система MDS (отключение 4 цилиндров) на HEMI V8. Параллельный импорт в РФ."
+}

@@ -1,0 +1,18 @@
+{
+  "generation_id": "lincoln_navigator_u554_2017",
+  "generation_name": "Lincoln Navigator IV (U554)",
+  "year_start": 2017,
+  "year_end": null,
+  "body_type": "SUV full-size 7-8 seat",
+  "market": "parallel_import",
+  "production": "Ford, Kentucky Truck Plant, Louisville, USA",
+  "facelift": 2022,
+  "platform": "Ford Body-on-Frame (F-150 derived)",
+  "engines": [
+    { "code": "TT35 (3.5L EcoBoost)", "volume": "3.5L", "type": "V6 twin-turbo EcoBoost", "fuel": "petrol", "power_hp": 450 }
+  ],
+  "transmissions": ["10AT (Ford 10R80)"],
+  "drivetrains": ["RWD", "4WD"],
+  "popularity_ru": "low",
+  "notes": "Четвёртое поколение Lincoln Navigator на шасси F-150. Двигатель 3.5 EcoBoost V6 TT 450 л.с. АКПП Ford 10R80. Пневматическая подвеска. Параллельный импорт в РФ."
+}

@@ -1,0 +1,20 @@
+{
+  "generation_id": "fiat_500_312_2007",
+  "generation_name": "Fiat 500 312 (III поколение)",
+  "year_start": 2007,
+  "year_end": 2024,
+  "body_type": "hatchback 3-door",
+  "market": "parallel_import",
+  "production": "Fiat, Tychy, Poland",
+  "facelift": 2015,
+  "platform": "Fiat MINI (Seicento platform evolved)",
+  "engines": [
+    { "code": "169A4000", "volume": "1.2L", "type": "8V NA FIRE", "fuel": "petrol", "power_hp": 69 },
+    { "code": "350A1000", "volume": "1.4L", "type": "16V NA", "fuel": "petrol", "power_hp": 100 },
+    { "code": "312A3000", "volume": "0.9L", "type": "TwinAir turbo", "fuel": "petrol", "power_hp": 85 }
+  ],
+  "transmissions": ["5MT", "5AMT (Dualogic)"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "low",
+  "notes": "Культовый итальянский хэтчбек на базе Seicento. Рестайлинг 2015. Двигатели 1.2 FIRE, 1.4 16V, 0.9 TwinAir. КПП: механика или Dualogic (AMT). Параллельный импорт в РФ."
+}

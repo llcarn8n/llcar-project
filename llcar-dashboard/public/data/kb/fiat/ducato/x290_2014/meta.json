@@ -1,0 +1,20 @@
+{
+  "generation_id": "fiat_ducato_x290_2014",
+  "generation_name": "Fiat Ducato X290 (III/IV поколение)",
+  "year_start": 2014,
+  "year_end": null,
+  "body_type": "van / minibus / chassis cab",
+  "market": "official + parallel_import",
+  "production": "Fiat / Sevel, Val di Sangro, Italy",
+  "facelift": 2021,
+  "platform": "Sevel Platform (совместно PSA/Fiat)",
+  "engines": [
+    { "code": "F1AG", "volume": "2.3L", "type": "Multijet II", "fuel": "diesel", "power_hp": 130 },
+    { "code": "F1AE", "volume": "2.3L", "type": "Multijet II", "fuel": "diesel", "power_hp": 150 },
+    { "code": "F1CE", "volume": "3.0L", "type": "Multijet II", "fuel": "diesel", "power_hp": 180 }
+  ],
+  "transmissions": ["6MT", "6AT (ZF 6HP)"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "medium",
+  "notes": "Коммерческий фургон Fiat Ducato X290. Совместная платформа Stellantis/Fiat. Двигатели 2.3 Multijet F1AG/F1AE и 3.0 Multijet F1CE. ДПФ обязателен. Широко используется как база для автодомов и микроавтобусов в РФ."
+}

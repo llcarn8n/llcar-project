@@ -1,0 +1,20 @@
+{
+  "generation_id": "fiat_tipo_356_2015",
+  "generation_name": "Fiat Tipo 356 (II поколение)",
+  "year_start": 2015,
+  "year_end": null,
+  "body_type": "hatchback 5-door / sedan / station wagon",
+  "market": "parallel_import",
+  "production": "Fiat, Bursa, Turkey",
+  "facelift": 2020,
+  "platform": "Fiat C-segment platform (Aegea)",
+  "engines": [
+    { "code": "843A1000", "volume": "1.4L", "type": "T-Jet turbo 16V", "fuel": "petrol", "power_hp": 120 },
+    { "code": "55282698", "volume": "1.6L", "type": "MultiJet II diesel", "fuel": "diesel", "power_hp": 120 },
+    { "code": "330A1000", "volume": "1.0L", "type": "FireFly turbo", "fuel": "petrol", "power_hp": 100 }
+  ],
+  "transmissions": ["6MT", "6AT (Aisin)"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "low",
+  "notes": "Второе поколение Fiat Tipo 356 турецкой сборки. Двигатели 1.4 T-Jet, 1.6 MultiJet diesel, 1.0 FireFly. Рестайлинг 2020. Популярен в Европе как бюджетный C-segment. Параллельный импорт в РФ."
+}

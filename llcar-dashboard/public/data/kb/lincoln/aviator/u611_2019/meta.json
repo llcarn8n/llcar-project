@@ -1,0 +1,19 @@
+{
+  "generation_id": "lincoln_aviator_u611_2019",
+  "generation_name": "Lincoln Aviator CX430 (II поколение)",
+  "year_start": 2019,
+  "year_end": null,
+  "body_type": "mid-size SUV 6-7 seat",
+  "market": "parallel_import",
+  "production": "Ford, Chicago Assembly, Illinois, USA",
+  "facelift": null,
+  "platform": "Ford CD6 (rear-wheel-drive based)",
+  "engines": [
+    { "code": "TT30 (3.0L EcoBoost)", "volume": "3.0L", "type": "V6 twin-turbo EcoBoost", "fuel": "petrol", "power_hp": 400 },
+    { "code": "TT30 PHEV", "volume": "3.0L", "type": "V6 twin-turbo PHEV + EM", "fuel": "petrol+electric", "power_hp": 494 }
+  ],
+  "transmissions": ["10AT (Ford 10R60)"],
+  "drivetrains": ["RWD", "AWD"],
+  "popularity_ru": "low",
+  "notes": "Второе поколение Lincoln Aviator на платформе Ford CD6. Двигатель 3.0 EcoBoost V6 TT. АКПП Ford 10R60. Версия Grand Touring — PHEV. Пневматическая подвеска. Параллельный импорт в РФ."
+}

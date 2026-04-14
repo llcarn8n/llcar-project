@@ -1,0 +1,20 @@
+{
+  "generation_id": "dodge_charger_ld_2011",
+  "generation_name": "Dodge Charger LD (VII поколение)",
+  "year_start": 2011,
+  "year_end": 2023,
+  "body_type": "sedan 4-door",
+  "market": "parallel_import",
+  "production": "Stellantis, Brampton Assembly, Ontario, Canada",
+  "facelift": 2015,
+  "platform": "LX Platform (Chrysler)",
+  "engines": [
+    { "code": "ERB", "volume": "3.6L", "type": "Pentastar V6", "fuel": "petrol", "power_hp": 292 },
+    { "code": "EZH", "volume": "5.7L", "type": "HEMI V8 MDS", "fuel": "petrol", "power_hp": 370 },
+    { "code": "EZC", "volume": "6.4L", "type": "HEMI V8 SRT 392", "fuel": "petrol", "power_hp": 485 }
+  ],
+  "transmissions": ["8AT (ZF 8HP70)", "5AT (W5A580, до 2012)"],
+  "drivetrains": ["RWD", "AWD (Pentastar)"],
+  "popularity_ru": "low",
+  "notes": "Седан Dodge Charger VII поколения на LX-платформе. Аналог Challenger — те же двигатели HEMI. Версия AWD только с 3.6 Pentastar. АКПП ZF 8HP70 с 2012. Параллельный импорт в РФ."
+}

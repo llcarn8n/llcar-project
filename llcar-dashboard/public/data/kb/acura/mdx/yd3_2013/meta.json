@@ -1,0 +1,19 @@
+{
+  "generation_id": "acura_mdx_yd3_2013",
+  "generation_name": "Acura MDX YD3 (III поколение)",
+  "year_start": 2013,
+  "year_end": 2020,
+  "body_type": "SUV 7-seat",
+  "market": "parallel_import",
+  "production": "Honda, Lincoln, Alabama, USA",
+  "facelift": 2017,
+  "platform": "Honda global SUV platform",
+  "engines": [
+    { "code": "J35Y4", "volume": "3.5L", "type": "V6 SOHC VTEC i-VTM4", "fuel": "petrol", "power_hp": 290 },
+    { "code": "J35Y5", "volume": "3.5L", "type": "V6 SOHC VTEC Hybrid", "fuel": "petrol+electric", "power_hp": 325 }
+  ],
+  "transmissions": ["9AT (ZF 9HP48)", "7DCT (гибрид)"],
+  "drivetrains": ["FWD", "SH-AWD"],
+  "popularity_ru": "low",
+  "notes": "Третье поколение Acura MDX. Двигатель J35Y4 3.5 V6 с VCM (система отключения цилиндров). АКПП ZF 9HP48 — 9-ступенчатый автомат. Система SH-AWD (Super Handling AWD). Параллельный импорт в РФ."
+}
