@@ -167,8 +167,6 @@
     "urg": 3,
     "cat": "brakes",
     "dtc_codes": [
-      "C0035",
-      "C0040",
       "C0050"
     ],
     "solutions": [

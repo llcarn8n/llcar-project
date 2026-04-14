@@ -14,8 +14,8 @@
       "Замена маслосъемных колпачков",
       "Капитальный ремонт при критическом износе"
     ],
-    "price_range": "10000-150000 rub",
-    "mileage_range": "30000-150000 km",
+    "price_range": "10000-150000 руб.",
+    "mileage_range": "30000-150000 км",
     "content_type": "diagnostic"
   },
   {
@@ -32,8 +32,8 @@
       "Замена гидрокомпенсаторов",
       "Использование масла 5W-30 API SP"
     ],
-    "price_range": "5000-80000 rub",
-    "mileage_range": "20000-120000 km",
+    "price_range": "5000-80000 руб.",
+    "mileage_range": "20000-120000 км",
     "content_type": "diagnostic"
   },
   {
@@ -53,8 +53,8 @@
       "Адаптация коробки передач",
       "Замена мехатроника"
     ],
-    "price_range": "5000-250000 rub",
-    "mileage_range": "10000-100000 km",
+    "price_range": "5000-250000 руб.",
+    "mileage_range": "10000-100000 км",
     "content_type": "diagnostic"
   },
   {
@@ -74,8 +74,8 @@
       "Замена фрикционов при сильном износе",
       "Компьютерная адаптация АКПП"
     ],
-    "price_range": "15000-180000 rub",
-    "mileage_range": "40000-150000 km",
+    "price_range": "15000-180000 руб.",
+    "mileage_range": "40000-150000 км",
     "content_type": "diagnostic"
   },
   {
@@ -95,8 +95,8 @@
       "Диагностика утечки тока",
       "Замена модуля ICU или реле-регулятора"
     ],
-    "price_range": "5000-30000 rub",
-    "mileage_range": "0-80000 km",
+    "price_range": "5000-30000 руб.",
+    "mileage_range": "0-80000 км",
     "content_type": "diagnostic"
   },
   {
@@ -112,8 +112,8 @@
       "Замена сайлентблоков рычагов",
       "Замена опорных подшипников"
     ],
-    "price_range": "3000-60000 rub",
-    "mileage_range": "20000-100000 km",
+    "price_range": "3000-60000 руб.",
+    "mileage_range": "20000-100000 км",
     "content_type": "diagnostic"
   },
   {
@@ -133,8 +133,8 @@
       "Замена антифриза Hyundai/Kia Long Life",
       "Проверка крышки радиатора на герметичность"
     ],
-    "price_range": "3000-25000 rub",
-    "mileage_range": "20000-100000 km",
+    "price_range": "3000-25000 руб.",
+    "mileage_range": "20000-100000 км",
     "content_type": "diagnostic"
   },
   {
@@ -154,8 +154,8 @@
       "Замена головного устройства (гарантия)",
       "Диагностика и замена шлейфа экрана"
     ],
-    "price_range": "0-120000 rub",
-    "mileage_range": "0-120000 km",
+    "price_range": "0-120000 руб.",
+    "mileage_range": "0-120000 км",
     "content_type": "diagnostic"
   },
   {
@@ -174,8 +174,8 @@
       "Смазка и чистка направляющих суппортов",
       "Замена тормозных колодок на керамические"
     ],
-    "price_range": "5000-50000 rub",
-    "mileage_range": "15000-80000 km",
+    "price_range": "5000-50000 руб.",
+    "mileage_range": "15000-80000 км",
     "content_type": "diagnostic"
   },
   {
@@ -194,8 +194,8 @@
       "Замена ступичных подшипников",
       "Проверка и замена подрамника по гарантии"
     ],
-    "price_range": "3000-45000 rub",
-    "mileage_range": "10000-100000 km",
+    "price_range": "3000-45000 руб.",
+    "mileage_range": "10000-100000 км",
     "content_type": "diagnostic"
   }
 ]

@@ -18,8 +18,8 @@
       "Замена охлаждающей жидкости",
       "Проверка герметичности патрубков"
     ],
-    "price_range": "1500-3500 rub",
-    "mileage_range": "40000-120000 km",
+    "price_range": "1500-3500 руб.",
+    "mileage_range": "40000-120000 км",
     "content_type": "diagnostic"
   },
   {
@@ -42,8 +42,8 @@
       "Замена вилки сцепления",
       "Замена актуатора"
     ],
-    "price_range": "12000-28000 rub",
-    "mileage_range": "50000-100000 km",
+    "price_range": "12000-28000 руб.",
+    "mileage_range": "50000-100000 км",
     "content_type": "diagnostic"
   },
   {
@@ -69,8 +69,8 @@
       "Прошивка под Евро-2",
       "Замена свечей зажигания"
     ],
-    "price_range": "4000-15000 rub",
-    "mileage_range": "30000-100000 km",
+    "price_range": "4000-15000 руб.",
+    "mileage_range": "30000-100000 км",
     "content_type": "diagnostic"
   },
   {
@@ -87,8 +87,8 @@
       "Проверка и подтяжка гаек ступичных подшипников",
       "Замена отбойников амортизаторов"
     ],
-    "price_range": "2500-8000 rub",
-    "mileage_range": "40000-90000 km",
+    "price_range": "2500-8000 руб.",
+    "mileage_range": "40000-90000 км",
     "content_type": "diagnostic"
   },
   {
@@ -113,8 +113,8 @@
       "Замена соленоидов",
       "Капитальный ремонт АКПП"
     ],
-    "price_range": "5000-60000 rub",
-    "mileage_range": "80000-180000 km",
+    "price_range": "5000-60000 руб.",
+    "mileage_range": "80000-180000 км",
     "content_type": "diagnostic"
   },
   {
@@ -137,8 +137,8 @@
       "Замена генератора в сборе",
       "Регулировка натяжения ремня"
     ],
-    "price_range": "1500-8000 rub",
-    "mileage_range": "60000-150000 km",
+    "price_range": "1500-8000 руб.",
+    "mileage_range": "60000-150000 км",
     "content_type": "diagnostic"
   },
   {
@@ -160,8 +160,8 @@
       "Замена щеток стартера",
       "Полная замена стартера"
     ],
-    "price_range": "1000-6500 rub",
-    "mileage_range": "50000-150000 km",
+    "price_range": "1000-6500 руб.",
+    "mileage_range": "50000-150000 км",
     "content_type": "diagnostic"
   },
   {
@@ -172,8 +172,6 @@
     "cat": "brakes",
     "dtc_codes": [
       "P0504",
-      "C0035",
-      "C0040",
       "C0045",
       "C0050"
     ],
@@ -184,8 +182,8 @@
       "Расточка или замена задних тормозных барабанов",
       "Замена задних тормозных колодок"
     ],
-    "price_range": "2000-5000 rub",
-    "mileage_range": "60000-130000 km",
+    "price_range": "2000-5000 руб.",
+    "mileage_range": "60000-130000 км",
     "content_type": "diagnostic"
   },
   {
@@ -210,8 +208,8 @@
       "Шлифовка плоскости ГБЦ",
       "Замена маслосъемных колпачков"
     ],
-    "price_range": "15000-35000 rub",
-    "mileage_range": "60000-200000 km",
+    "price_range": "15000-35000 руб.",
+    "mileage_range": "60000-200000 км",
     "content_type": "diagnostic"
   },
   {
@@ -236,8 +234,8 @@
       "Чистка клапана вентиляции картерных газов (PCV)",
       "Замена воздушного фильтра"
     ],
-    "price_range": "1500-4500 rub",
-    "mileage_range": "30000-100000 km",
+    "price_range": "1500-4500 руб.",
+    "mileage_range": "30000-100000 км",
     "content_type": "diagnostic"
   }
 ]
