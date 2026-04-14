@@ -37,7 +37,8 @@
     ],
     "price_range": "50000 - 200000 руб.",
     "mileage_range": "60000 - 130000 км",
-    "content_type": "diagnostic"
+    "content_type": "full_article",
+    "full_article_path": "_articles/nissan_x_trail_t32_qr25de_oil_consumption.md"
   },
   {
     "id": "nissan_x_trail_t32_stearing_knock",

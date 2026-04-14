@@ -37,7 +37,8 @@
     ],
     "price_range": "30000-250000 руб",
     "mileage_range": "60000-180000 км",
-    "content_type": "diagnostic"
+    "content_type": "full_article",
+    "full_article_path": "_articles/hyundai_creta_su2_trans_cvt_judder.md"
   },
   {
     "id": "hyundai_creta_su2_body_paint_peel",

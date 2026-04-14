@@ -313,10 +313,70 @@
       "urg": 5,
       "cat": "engine",
       "topic": "Разрушение катализатора H4M 1.6 и задиры ЦПГ"
+    },
+    {
+      "sit_id": "kia_ceed_jd_002",
+      "file": "_articles/kia_ceed_jd_002.md",
+      "brand": "Kia",
+      "model": "Cee'd",
+      "generation": "JD (2012-2018)",
+      "length_chars": 2471,
+      "sections": 6,
+      "urg": 3,
+      "cat": "engine",
+      "topic": "Нагар на впускных клапанах G4FD 1.6 GDI"
+    },
+    {
+      "sit_id": "lada_granta_2190_robot_jerking",
+      "file": "_articles/lada_granta_2190_robot_jerking.md",
+      "brand": "Lada",
+      "model": "Granta",
+      "generation": "2190 (2018+)",
+      "length_chars": 2135,
+      "sections": 6,
+      "urg": 4,
+      "cat": "transmission",
+      "topic": "АМТ ZF 2181 — рывки и пинки робота"
+    },
+    {
+      "sit_id": "nissan_x_trail_t32_qr25de_oil_consumption",
+      "file": "_articles/nissan_x_trail_t32_qr25de_oil_consumption.md",
+      "brand": "Nissan",
+      "model": "X-Trail",
+      "generation": "III T32 (2015-2021)",
+      "length_chars": 2432,
+      "sections": 6,
+      "urg": 5,
+      "cat": "engine",
+      "topic": "Масложор QR25DE + разрушение катализатора"
+    },
+    {
+      "sit_id": "hyundai_creta_su2_trans_cvt_judder",
+      "file": "_articles/hyundai_creta_su2_trans_cvt_judder.md",
+      "brand": "Hyundai",
+      "model": "Creta",
+      "generation": "II SU2 (2021+)",
+      "length_chars": 2300,
+      "sections": 6,
+      "urg": 5,
+      "cat": "transmission",
+      "topic": "Вариатор K313 IVT на 2.0 G4NH рывки"
+    },
+    {
+      "sit_id": "hyundai_solaris_hc_03",
+      "file": "_articles/hyundai_solaris_hc_03.md",
+      "brand": "Hyundai",
+      "model": "Solaris",
+      "generation": "II HC (2017-2022)",
+      "length_chars": 2210,
+      "sections": 6,
+      "urg": 2,
+      "cat": "engine",
+      "topic": "Цокание Kappa G4LC на холодную (цепь + HLA)"
     }
   ],
   "target_total": 30,
-  "completed": 25,
+  "completed": 30,
   "remaining_priority": [
     "hyundai_solaris_rb (катушки зажигания)",
     "kia_rio_fb (6AT A6GF1 рывки)",
