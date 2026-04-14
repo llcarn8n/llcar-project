@@ -6,7 +6,7 @@ export default defineConfig({
   retries: 2,
   reporter: [['list']],
   use: {
-    baseURL: 'http://localhost:5173',
+    baseURL: 'http://localhost:5173/static/spa-v3',
     trace: 'on-first-retry',
     actionTimeout: 10_000,
     navigationTimeout: 30_000,
