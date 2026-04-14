@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-04-14",
-  "total_codes": 1596,
-  "total_mappings": 5821,
+  "total_codes": 1716,
+  "total_mappings": 6167,
   "index": {
     "-": [
       {
@@ -699,6 +699,17 @@
         "cat": "brakes"
       }
     ],
+    "480A01": [
+      {
+        "sit_id": "bmw_x3_g45_009",
+        "title": "Ложное срабатывание датчика тормозных колодок",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 2,
+        "cat": "brakes"
+      }
+    ],
     "480AB4": [
       {
         "sit_id": "bmw_5_g30_007",
@@ -708,6 +719,17 @@
         "generation": "g30_2017",
         "urg": 3,
         "cat": "electrical"
+      }
+    ],
+    "480B01": [
+      {
+        "sit_id": "bmw_x3_g45_009",
+        "title": "Ложное срабатывание датчика тормозных колодок",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 2,
+        "cat": "brakes"
       }
     ],
     "480C": [
@@ -752,6 +774,28 @@
         "generation": "g05_2018",
         "urg": 3,
         "cat": "chassis"
+      }
+    ],
+    "481D01": [
+      {
+        "sit_id": "bmw_x3_g45_001",
+        "title": "Неисправность системы мягкого гибрида 48V (BSG)",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 3,
+        "cat": "electrical"
+      }
+    ],
+    "481D02": [
+      {
+        "sit_id": "bmw_x3_g45_001",
+        "title": "Неисправность системы мягкого гибрида 48V (BSG)",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 3,
+        "cat": "electrical"
       }
     ],
     "4B8501": [
@@ -1023,6 +1067,15 @@
         "model": "x3",
         "generation": "f25_2010",
         "urg": 4,
+        "cat": "chassis"
+      },
+      {
+        "sit_id": "bmw_x3_g45_004",
+        "title": "Неисправность раздаточной коробки xDrive",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 3,
         "cat": "chassis"
       },
       {
@@ -2701,7 +2754,27 @@
         "cat": "electrical"
       }
     ],
+    "B1160": [
+      {
+        "sit_id": "audi_a8_d5_007",
+        "title": "Отказ блока управления Matrix LED",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 4,
+        "cat": "electrical"
+      }
+    ],
     "B1162": [
+      {
+        "sit_id": "audi_a8_d5_007",
+        "title": "Отказ блока управления Matrix LED",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 4,
+        "cat": "electrical"
+      },
       {
         "sit_id": "vw_touareg_cr_006",
         "title": "Затекание воды в салон через дренаж",
@@ -3020,6 +3093,15 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "mercedes_sl_r232_008",
+        "title": "Неисправность складной крыши (soft top)",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 3,
+        "cat": "body"
+      },
+      {
         "sit_id": "merc_s_w222_009",
         "title": "Попадание воды в передний SAM-блок и блок ЭУР",
         "brand": "mercedes",
@@ -3161,6 +3243,15 @@
         "cat": "cooling"
       },
       {
+        "sit_id": "mercedes_sl_r232_008",
+        "title": "Неисправность складной крыши (soft top)",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 3,
+        "cat": "body"
+      },
+      {
         "sit_id": "tesla_ms_003",
         "title": "Отказ выдвижных дверных ручек",
         "brand": "tesla",
@@ -3212,6 +3303,17 @@
         "cat": "electrical"
       }
     ],
+    "B1210": [
+      {
+        "sit_id": "mercedes_sl_r232_008",
+        "title": "Неисправность складной крыши (soft top)",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 3,
+        "cat": "body"
+      }
+    ],
     "B1213": [
       {
         "sit_id": "geely_coolray_007",
@@ -3243,12 +3345,43 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "mercedes_sl_r232_008",
+        "title": "Неисправность складной крыши (soft top)",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 3,
+        "cat": "body"
+      },
+      {
         "sit_id": "toyota_highlander_xu70_008",
         "title": "Неработоспособность дверных замков в морозы",
         "brand": "toyota",
         "model": "highlander",
         "generation": "xu70_2019",
         "urg": 2,
+        "cat": "body"
+      }
+    ],
+    "B1220": [
+      {
+        "sit_id": "mercedes_sl_r232_008",
+        "title": "Неисправность складной крыши (soft top)",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 3,
+        "cat": "body"
+      }
+    ],
+    "B1225": [
+      {
+        "sit_id": "mercedes_sl_r232_008",
+        "title": "Неисправность складной крыши (soft top)",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 3,
         "cat": "body"
       }
     ],
@@ -3270,6 +3403,17 @@
         "generation": "fb_2017",
         "urg": 3,
         "cat": "electrical"
+      }
+    ],
+    "B1230": [
+      {
+        "sit_id": "mercedes_sl_r232_008",
+        "title": "Неисправность складной крыши (soft top)",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 3,
+        "cat": "body"
       }
     ],
     "B1231": [
@@ -3366,6 +3510,15 @@
         "generation": "fb_2017",
         "urg": 3,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "mercedes_sl_r232_008",
+        "title": "Неисправность складной крыши (soft top)",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 3,
+        "cat": "body"
       }
     ],
     "B1241": [
@@ -4627,6 +4780,15 @@
     ],
     "B1600": [
       {
+        "sit_id": "audi_a8_d5_007",
+        "title": "Отказ блока управления Matrix LED",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "hyundai_santa_fe_tm_006",
         "title": "Нестабильная работа системы Start-Stop и разряд АКБ",
         "brand": "hyundai",
@@ -4748,6 +4910,28 @@
         "brand": "kia",
         "model": "carnival",
         "generation": "ka4_2020",
+        "urg": 4,
+        "cat": "electrical"
+      }
+    ],
+    "B1607": [
+      {
+        "sit_id": "audi_a8_d5_007",
+        "title": "Отказ блока управления Matrix LED",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 4,
+        "cat": "electrical"
+      }
+    ],
+    "B1609": [
+      {
+        "sit_id": "audi_a8_d5_007",
+        "title": "Отказ блока управления Matrix LED",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
         "urg": 4,
         "cat": "electrical"
       }
@@ -5933,6 +6117,26 @@
         "generation": "v295_2022",
         "urg": 3,
         "cat": "chassis"
+      },
+      {
+        "sit_id": "toyota_alphard_ah40_009",
+        "title": "Отказ электропривода сдвижной двери / крышки багажника",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
+        "urg": 2,
+        "cat": "body"
+      }
+    ],
+    "B2222": [
+      {
+        "sit_id": "toyota_alphard_ah40_009",
+        "title": "Отказ электропривода сдвижной двери / крышки багажника",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
+        "urg": 2,
+        "cat": "body"
       }
     ],
     "B2278": [
@@ -6022,6 +6226,39 @@
         "brand": "mercedes",
         "model": "v_class",
         "generation": "w447_2014",
+        "urg": 2,
+        "cat": "body"
+      }
+    ],
+    "B2305": [
+      {
+        "sit_id": "toyota_alphard_ah40_009",
+        "title": "Отказ электропривода сдвижной двери / крышки багажника",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
+        "urg": 2,
+        "cat": "body"
+      }
+    ],
+    "B2312": [
+      {
+        "sit_id": "toyota_alphard_ah40_009",
+        "title": "Отказ электропривода сдвижной двери / крышки багажника",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
+        "urg": 2,
+        "cat": "body"
+      }
+    ],
+    "B2313": [
+      {
+        "sit_id": "toyota_alphard_ah40_009",
+        "title": "Отказ электропривода сдвижной двери / крышки багажника",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
         "urg": 2,
         "cat": "body"
       }
@@ -7302,6 +7539,15 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "mercedes_amg_gt_c192_010",
+        "title": "Неисправность Brake-by-Wire и датчика педали тормоза",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 5,
+        "cat": "brakes"
+      },
+      {
         "sit_id": "merc_c_w204_008",
         "title": "Ошибка системы ESP и датчик ABS на ступице",
         "brand": "mercedes",
@@ -7450,6 +7696,15 @@
         "generation": "td_2008",
         "urg": 3,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "mercedes_amg_gt_c192_010",
+        "title": "Неисправность Brake-by-Wire и датчика педали тормоза",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 5,
+        "cat": "brakes"
       },
       {
         "sit_id": "merc_e_w213_009",
@@ -7658,6 +7913,15 @@
         "brand": "lada",
         "model": "granta",
         "generation": "2190_2018",
+        "urg": 5,
+        "cat": "brakes"
+      },
+      {
+        "sit_id": "mercedes_amg_gt_c192_010",
+        "title": "Неисправность Brake-by-Wire и датчика педали тормоза",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
         "urg": 5,
         "cat": "brakes"
       },
@@ -8069,12 +8333,41 @@
     ],
     "C0205": [
       {
+        "sit_id": "genesis_g90_rs4_010",
+        "title": "Неисправность EPB и подклинивание суппортов",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 4,
+        "cat": "brakes"
+      },
+      {
+        "sit_id": "mercedes_amg_gt_c192_010",
+        "title": "Неисправность Brake-by-Wire и датчика педали тормоза",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 5,
+        "cat": "brakes"
+      },
+      {
         "sit_id": "mercedes_eqe_006",
         "title": "Сбои электрогидравлической тормозной системы (SBC)",
         "brand": "mercedes",
         "model": "eqe",
         "generation": "v295_2022",
         "urg": 5,
+        "cat": "brakes"
+      }
+    ],
+    "C0210": [
+      {
+        "sit_id": "genesis_g90_rs4_010",
+        "title": "Неисправность EPB и подклинивание суппортов",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 4,
         "cat": "brakes"
       }
     ],
@@ -8095,6 +8388,28 @@
         "model": "eqe",
         "generation": "v295_2022",
         "urg": 5,
+        "cat": "brakes"
+      }
+    ],
+    "C0245": [
+      {
+        "sit_id": "genesis_g90_rs4_010",
+        "title": "Неисправность EPB и подклинивание суппортов",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 4,
+        "cat": "brakes"
+      }
+    ],
+    "C0262": [
+      {
+        "sit_id": "genesis_g90_rs4_010",
+        "title": "Неисправность EPB и подклинивание суппортов",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 4,
         "cat": "brakes"
       }
     ],
@@ -8120,6 +8435,17 @@
         "cat": "brakes"
       }
     ],
+    "C0278": [
+      {
+        "sit_id": "mercedes_amg_gt_c192_010",
+        "title": "Неисправность Brake-by-Wire и датчика педали тормоза",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 5,
+        "cat": "brakes"
+      }
+    ],
     "C0300": [
       {
         "sit_id": "mercedes_eqe_006",
@@ -8128,6 +8454,15 @@
         "model": "eqe",
         "generation": "v295_2022",
         "urg": 5,
+        "cat": "brakes"
+      },
+      {
+        "sit_id": "mercedes_sl_r232_010",
+        "title": "Преждевременный износ AMG тормозов",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 2,
         "cat": "brakes"
       },
       {
@@ -8162,6 +8497,17 @@
         "cat": "chassis"
       }
     ],
+    "C0305": [
+      {
+        "sit_id": "mercedes_sl_r232_010",
+        "title": "Преждевременный износ AMG тормозов",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 2,
+        "cat": "brakes"
+      }
+    ],
     "C0306": [
       {
         "sit_id": "renault_duster_hs_006",
@@ -8171,6 +8517,28 @@
         "generation": "hs_2015",
         "urg": 4,
         "cat": "chassis"
+      }
+    ],
+    "C0310": [
+      {
+        "sit_id": "mercedes_sl_r232_010",
+        "title": "Преждевременный износ AMG тормозов",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 2,
+        "cat": "brakes"
+      }
+    ],
+    "C0315": [
+      {
+        "sit_id": "mercedes_sl_r232_010",
+        "title": "Преждевременный износ AMG тормозов",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 2,
+        "cat": "brakes"
       }
     ],
     "C0350": [
@@ -8352,6 +8720,15 @@
         "model": "genesis_g80",
         "generation": "rg3_2020",
         "urg": 3,
+        "cat": "brakes"
+      },
+      {
+        "sit_id": "genesis_g90_rs4_010",
+        "title": "Неисправность EPB и подклинивание суппортов",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 4,
         "cat": "brakes"
       },
       {
@@ -8667,6 +9044,26 @@
         "cat": "brakes"
       }
     ],
+    "C1000": [
+      {
+        "sit_id": "audi_a8_d5_009",
+        "title": "Неисправность EPB и подклинивание суппортов",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 4,
+        "cat": "brakes"
+      },
+      {
+        "sit_id": "mercedes_sl_r232_010",
+        "title": "Преждевременный износ AMG тормозов",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 2,
+        "cat": "brakes"
+      }
+    ],
     "C1002": [
       {
         "sit_id": "merc_glc_x253_009",
@@ -8688,6 +9085,15 @@
       }
     ],
     "C1003": [
+      {
+        "sit_id": "audi_a8_d5_009",
+        "title": "Неисправность EPB и подклинивание суппортов",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 4,
+        "cat": "brakes"
+      },
       {
         "sit_id": "audi_q5_fy_008",
         "title": "Неисправность электронного стояночного тормоза (EPB)",
@@ -8767,6 +9173,15 @@
         "generation": "w218_2011",
         "urg": 4,
         "cat": "chassis"
+      },
+      {
+        "sit_id": "mercedes_sl_r232_010",
+        "title": "Преждевременный износ AMG тормозов",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 2,
+        "cat": "brakes"
       }
     ],
     "C1006": [
@@ -8893,6 +9308,15 @@
         "model": "gle",
         "generation": "w167_2019",
         "urg": 4,
+        "cat": "brakes"
+      },
+      {
+        "sit_id": "mercedes_sl_r232_010",
+        "title": "Преждевременный износ AMG тормозов",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 2,
         "cat": "brakes"
       }
     ],
@@ -9400,6 +9824,15 @@
     ],
     "C1106": [
       {
+        "sit_id": "audi_a8_d5_003",
+        "title": "Утечки воздуха и отказ пневмоподвески",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 4,
+        "cat": "chassis"
+      },
+      {
         "sit_id": "audi_q5_fy_010",
         "title": "Отключение адаптивного круиз-контроля (ACC) в непогоду",
         "brand": "audi",
@@ -9509,6 +9942,15 @@
     ],
     "C1112": [
       {
+        "sit_id": "audi_a8_d5_008",
+        "title": "Люфт и стук рулевой рейки EPS",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 4,
+        "cat": "chassis"
+      },
+      {
         "sit_id": "audi_e_tron_gt_006",
         "title": "Утечка воздуха из пневмоподушек подвески",
         "brand": "audi",
@@ -9519,6 +9961,15 @@
       }
     ],
     "C1113": [
+      {
+        "sit_id": "audi_a8_d5_003",
+        "title": "Утечки воздуха и отказ пневмоподвески",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 4,
+        "cat": "chassis"
+      },
       {
         "sit_id": "genesis_g80_rg3_009",
         "title": "Стук в передней подвеске при проезде неровностей",
@@ -9605,6 +10056,15 @@
     ],
     "C1115": [
       {
+        "sit_id": "audi_a8_d5_003",
+        "title": "Утечки воздуха и отказ пневмоподвески",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 4,
+        "cat": "chassis"
+      },
+      {
         "sit_id": "nissan_murano_z52_009",
         "title": "Закисание и стук передних тормозных суппортов",
         "brand": "nissan",
@@ -9620,6 +10080,17 @@
         "model": "forester",
         "generation": "sk_2018",
         "urg": 3,
+        "cat": "chassis"
+      }
+    ],
+    "C1116": [
+      {
+        "sit_id": "audi_a8_d5_003",
+        "title": "Утечки воздуха и отказ пневмоподвески",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 4,
         "cat": "chassis"
       }
     ],
@@ -9674,6 +10145,15 @@
     ],
     "C1119": [
       {
+        "sit_id": "audi_a8_d5_003",
+        "title": "Утечки воздуха и отказ пневмоподвески",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 4,
+        "cat": "chassis"
+      },
+      {
         "sit_id": "mazda_cx9_tc_004",
         "title": "Гул и вибрации от раздаточной коробки и муфты i-ACTIV AWD",
         "brand": "mazda",
@@ -9716,6 +10196,17 @@
         "cat": "chassis"
       }
     ],
+    "C1120": [
+      {
+        "sit_id": "mercedes_sl_r232_007",
+        "title": "Неисправность системы подруливания задней оси",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 4,
+        "cat": "chassis"
+      }
+    ],
     "C1121": [
       {
         "sit_id": "bmw_x5_f15_003",
@@ -9724,6 +10215,15 @@
         "model": "x5",
         "generation": "f15_2013",
         "urg": 3,
+        "cat": "chassis"
+      },
+      {
+        "sit_id": "mercedes_sl_r232_007",
+        "title": "Неисправность системы подруливания задней оси",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 4,
         "cat": "chassis"
       }
     ],
@@ -9734,6 +10234,17 @@
         "brand": "volkswagen",
         "model": "tiguan",
         "generation": "ad1_2016",
+        "urg": 4,
+        "cat": "chassis"
+      }
+    ],
+    "C1125": [
+      {
+        "sit_id": "mercedes_sl_r232_007",
+        "title": "Неисправность системы подруливания задней оси",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
         "urg": 4,
         "cat": "chassis"
       }
@@ -9796,6 +10307,15 @@
         "cat": "chassis"
       },
       {
+        "sit_id": "mercedes_amg_gt_c192_007",
+        "title": "Неисправность амортизаторов ADS+",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 4,
+        "cat": "chassis"
+      },
+      {
         "sit_id": "mercedes_eqe_005",
         "title": "Проседание и неисправность пневмоподвески AIRMATIC",
         "brand": "mercedes",
@@ -9828,6 +10348,15 @@
         "brand": "mercedes",
         "model": "gls",
         "generation": "x167_2019",
+        "urg": 4,
+        "cat": "chassis"
+      },
+      {
+        "sit_id": "mercedes_sl_r232_007",
+        "title": "Неисправность системы подруливания задней оси",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
         "urg": 4,
         "cat": "chassis"
       },
@@ -9982,12 +10511,30 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "mercedes_amg_gt_c192_007",
+        "title": "Неисправность амортизаторов ADS+",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 4,
+        "cat": "chassis"
+      },
+      {
         "sit_id": "mercedes_eqe_005",
         "title": "Проседание и неисправность пневмоподвески AIRMATIC",
         "brand": "mercedes",
         "model": "eqe",
         "generation": "v295_2022",
         "urg": 3,
+        "cat": "chassis"
+      },
+      {
+        "sit_id": "mercedes_sl_r232_007",
+        "title": "Неисправность системы подруливания задней оси",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 4,
         "cat": "chassis"
       },
       {
@@ -10013,12 +10560,39 @@
     ],
     "C1140": [
       {
+        "sit_id": "audi_a8_d5_003",
+        "title": "Утечки воздуха и отказ пневмоподвески",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 4,
+        "cat": "chassis"
+      },
+      {
+        "sit_id": "audi_a8_d5_008",
+        "title": "Люфт и стук рулевой рейки EPS",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 4,
+        "cat": "chassis"
+      },
+      {
         "sit_id": "jeep_grand_cherokee_wk2_003",
         "title": "Течь переднего моста Dana 44 — износ сальников хвостовика",
         "brand": "jeep",
         "model": "grand_cherokee",
         "generation": "wk2_2010",
         "urg": 3,
+        "cat": "chassis"
+      },
+      {
+        "sit_id": "mercedes_amg_gt_c192_007",
+        "title": "Неисправность амортизаторов ADS+",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 4,
         "cat": "chassis"
       },
       {
@@ -10054,6 +10628,15 @@
         "brand": "mercedes",
         "model": "gls",
         "generation": "x167_2019",
+        "urg": 4,
+        "cat": "chassis"
+      },
+      {
+        "sit_id": "mercedes_sl_r232_007",
+        "title": "Неисправность системы подруливания задней оси",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
         "urg": 4,
         "cat": "chassis"
       },
@@ -10106,6 +10689,15 @@
       }
     ],
     "C1142": [
+      {
+        "sit_id": "audi_a8_d5_009",
+        "title": "Неисправность EPB и подклинивание суппортов",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 4,
+        "cat": "brakes"
+      },
       {
         "sit_id": "honda_civic_fc_009",
         "title": "Залипание суппортов мотора электронного ручника (EPB)",
@@ -10203,12 +10795,39 @@
     ],
     "C1145": [
       {
+        "sit_id": "audi_a8_d5_008",
+        "title": "Люфт и стук рулевой рейки EPS",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 4,
+        "cat": "chassis"
+      },
+      {
+        "sit_id": "audi_a8_d5_009",
+        "title": "Неисправность EPB и подклинивание суппортов",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 4,
+        "cat": "brakes"
+      },
+      {
         "sit_id": "kia_mohave_hm_005",
         "title": "Гул и утечка масла из раздаточной коробки (TOD)",
         "brand": "kia",
         "model": "mohave",
         "generation": "hm_2019",
         "urg": 4,
+        "cat": "chassis"
+      },
+      {
+        "sit_id": "mercedes_amg_gt_c192_003",
+        "title": "Износ раздаточной коробки 4MATIC+",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 3,
         "cat": "chassis"
       },
       {
@@ -10239,6 +10858,26 @@
         "cat": "brakes"
       }
     ],
+    "C1146": [
+      {
+        "sit_id": "audi_a8_d5_008",
+        "title": "Люфт и стук рулевой рейки EPS",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 4,
+        "cat": "chassis"
+      },
+      {
+        "sit_id": "audi_a8_d5_009",
+        "title": "Неисправность EPB и подклинивание суппортов",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 4,
+        "cat": "brakes"
+      }
+    ],
     "C1155": [
       {
         "sit_id": "infiniti_qx50_j55_004",
@@ -10247,6 +10886,17 @@
         "model": "qx50",
         "generation": "j55_2017",
         "urg": 3,
+        "cat": "chassis"
+      }
+    ],
+    "C1156": [
+      {
+        "sit_id": "audi_a8_d5_008",
+        "title": "Люфт и стук рулевой рейки EPS",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 4,
         "cat": "chassis"
       }
     ],
@@ -10326,6 +10976,15 @@
         "cat": "chassis"
       },
       {
+        "sit_id": "mercedes_sl_r232_003",
+        "title": "Гул и вибрация 4MATIC+",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 3,
+        "cat": "chassis"
+      },
+      {
         "sit_id": "renault_kaptur_005",
         "title": "Спонтанное включение вентилятора охлаждения и ошибка ESP (глюк проводки)",
         "brand": "renault",
@@ -10381,6 +11040,15 @@
         "model": "cx5",
         "generation": "kf_2017",
         "urg": 4,
+        "cat": "chassis"
+      },
+      {
+        "sit_id": "mercedes_sl_r232_003",
+        "title": "Гул и вибрация 4MATIC+",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 3,
         "cat": "chassis"
       }
     ],
@@ -10995,6 +11663,15 @@
         "cat": "brakes"
       },
       {
+        "sit_id": "genesis_g90_rs4_002",
+        "title": "Неисправность раздаточной коробки HTRAC AWD",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 4,
+        "cat": "chassis"
+      },
+      {
         "sit_id": "hyundai_santa_fe_tm_005",
         "title": "Гул и вибрация в заднем редукторе HTRAC",
         "brand": "hyundai",
@@ -11155,6 +11832,15 @@
         "model": "genesis_g80",
         "generation": "rg3_2020",
         "urg": 3,
+        "cat": "chassis"
+      },
+      {
+        "sit_id": "genesis_g90_rs4_002",
+        "title": "Неисправность раздаточной коробки HTRAC AWD",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 4,
         "cat": "chassis"
       },
       {
@@ -11714,6 +12400,17 @@
         "cat": "brakes"
       }
     ],
+    "C1238": [
+      {
+        "sit_id": "toyota_alphard_ah40_008",
+        "title": "Неисправность муфты AWD (Electronic On-Demand)",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
+        "urg": 3,
+        "cat": "chassis"
+      }
+    ],
     "C1239": [
       {
         "sit_id": "lexus_nx_az10_005",
@@ -11737,6 +12434,15 @@
       }
     ],
     "C1241": [
+      {
+        "sit_id": "toyota_alphard_ah40_008",
+        "title": "Неисправность муфты AWD (Electronic On-Demand)",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
+        "urg": 3,
+        "cat": "chassis"
+      },
       {
         "sit_id": "toyota_camry_v50_rear_brake_caliper_seized",
         "title": "Закисание задних суппортов — перегрев и неравномерный износ колодок",
@@ -11779,6 +12485,15 @@
       }
     ],
     "C1252": [
+      {
+        "sit_id": "toyota_alphard_ah40_006",
+        "title": "Неисправность Brake Booster гибрида",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
+        "urg": 5,
+        "cat": "brakes"
+      },
       {
         "sit_id": "toyota_lc200_007",
         "title": "Выход из строя блока актуатора тормозов (насоса VSC/ABS)",
@@ -11827,6 +12542,15 @@
         "cat": "brakes"
       },
       {
+        "sit_id": "toyota_alphard_ah40_006",
+        "title": "Неисправность Brake Booster гибрида",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
+        "urg": 5,
+        "cat": "brakes"
+      },
+      {
         "sit_id": "toyota_lc200_009",
         "title": "Разрушение вакуумного насоса тормозов",
         "brand": "toyota",
@@ -11861,6 +12585,15 @@
         "brand": "lexus",
         "model": "rx",
         "generation": "al20_2015",
+        "urg": 5,
+        "cat": "brakes"
+      },
+      {
+        "sit_id": "toyota_alphard_ah40_006",
+        "title": "Неисправность Brake Booster гибрида",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
         "urg": 5,
         "cat": "brakes"
       },
@@ -11953,6 +12686,15 @@
         "brand": "kia",
         "model": "telluride",
         "generation": "on_2019",
+        "urg": 3,
+        "cat": "chassis"
+      },
+      {
+        "sit_id": "toyota_alphard_ah40_008",
+        "title": "Неисправность муфты AWD (Electronic On-Demand)",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
         "urg": 3,
         "cat": "chassis"
       }
@@ -12109,6 +12851,17 @@
         "generation": "x253_2015",
         "urg": 3,
         "cat": "brakes"
+      }
+    ],
+    "C1268": [
+      {
+        "sit_id": "toyota_alphard_ah40_008",
+        "title": "Неисправность муфты AWD (Electronic On-Demand)",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
+        "urg": 3,
+        "cat": "chassis"
       }
     ],
     "C1277": [
@@ -12363,6 +13116,15 @@
         "cat": "brakes"
       },
       {
+        "sit_id": "toyota_alphard_ah40_006",
+        "title": "Неисправность Brake Booster гибрида",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
+        "urg": 5,
+        "cat": "brakes"
+      },
+      {
         "sit_id": "toyota_corolla_e180_008",
         "title": "Деформация передних тормозных дисков",
         "brand": "toyota",
@@ -12406,6 +13168,15 @@
         "brand": "lexus",
         "model": "rx",
         "generation": "al20_2015",
+        "urg": 5,
+        "cat": "brakes"
+      },
+      {
+        "sit_id": "toyota_alphard_ah40_006",
+        "title": "Неисправность Brake Booster гибрида",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
         "urg": 5,
         "cat": "brakes"
       },
@@ -12957,6 +13728,15 @@
     ],
     "C1530": [
       {
+        "sit_id": "genesis_g90_rs4_008",
+        "title": "Просадка пневмоподвески и отказ компрессора",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 4,
+        "cat": "chassis"
+      },
+      {
         "sit_id": "nissan_x_trail_t32_stearing_knock",
         "title": "Стук в рулевой рейке при проезде неровностей на небольших скоростях",
         "brand": "nissan",
@@ -13028,6 +13808,15 @@
     ],
     "C1553": [
       {
+        "sit_id": "genesis_g90_rs4_008",
+        "title": "Просадка пневмоподвески и отказ компрессора",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 4,
+        "cat": "chassis"
+      },
+      {
         "sit_id": "toyota_highlander_xu70_010",
         "title": "Скрип и люфт в рулевом управлении",
         "brand": "toyota",
@@ -13037,7 +13826,80 @@
         "cat": "chassis"
       }
     ],
+    "C1555": [
+      {
+        "sit_id": "mercedes_sl_r232_005",
+        "title": "Проседание активной подвески AMG ACTIVE RIDE",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 4,
+        "cat": "chassis"
+      }
+    ],
+    "C1560": [
+      {
+        "sit_id": "mercedes_sl_r232_005",
+        "title": "Проседание активной подвески AMG ACTIVE RIDE",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 4,
+        "cat": "chassis"
+      }
+    ],
+    "C1562": [
+      {
+        "sit_id": "genesis_g90_rs4_008",
+        "title": "Просадка пневмоподвески и отказ компрессора",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 4,
+        "cat": "chassis"
+      },
+      {
+        "sit_id": "mercedes_sl_r232_005",
+        "title": "Проседание активной подвески AMG ACTIVE RIDE",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 4,
+        "cat": "chassis"
+      }
+    ],
+    "C1563": [
+      {
+        "sit_id": "genesis_g90_rs4_008",
+        "title": "Просадка пневмоподвески и отказ компрессора",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 4,
+        "cat": "chassis"
+      }
+    ],
+    "C1566": [
+      {
+        "sit_id": "mercedes_sl_r232_005",
+        "title": "Проседание активной подвески AMG ACTIVE RIDE",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 4,
+        "cat": "chassis"
+      }
+    ],
     "C156C": [
+      {
+        "sit_id": "mercedes_amg_gt_c192_007",
+        "title": "Неисправность амортизаторов ADS+",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 4,
+        "cat": "chassis"
+      },
       {
         "sit_id": "merc_c_w205_005",
         "title": "Просадка и утечки пневматической подвески Airmatic",
@@ -13086,6 +13948,15 @@
     ],
     "C156D": [
       {
+        "sit_id": "mercedes_amg_gt_c192_007",
+        "title": "Неисправность амортизаторов ADS+",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 4,
+        "cat": "chassis"
+      },
+      {
         "sit_id": "merc_e_w212_004",
         "title": "Неисправность пневмоподвески AIRMATIC (компрессор и блок клапанов)",
         "brand": "mercedes",
@@ -13100,6 +13971,39 @@
         "brand": "mercedes",
         "model": "e_class",
         "generation": "w213_2016",
+        "urg": 4,
+        "cat": "chassis"
+      }
+    ],
+    "C1570": [
+      {
+        "sit_id": "mercedes_sl_r232_005",
+        "title": "Проседание активной подвески AMG ACTIVE RIDE",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 4,
+        "cat": "chassis"
+      }
+    ],
+    "C1572": [
+      {
+        "sit_id": "genesis_g90_rs4_008",
+        "title": "Просадка пневмоподвески и отказ компрессора",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 4,
+        "cat": "chassis"
+      }
+    ],
+    "C1575": [
+      {
+        "sit_id": "mercedes_sl_r232_005",
+        "title": "Проседание активной подвески AMG ACTIVE RIDE",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
         "urg": 4,
         "cat": "chassis"
       }
@@ -13828,6 +14732,15 @@
         "generation": "j32_2008",
         "urg": 3,
         "cat": "chassis"
+      },
+      {
+        "sit_id": "toyota_alphard_ah40_007",
+        "title": "Утечка газа из задних амортизаторов",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
+        "urg": 3,
+        "cat": "chassis"
       }
     ],
     "C1743": [
@@ -13852,6 +14765,17 @@
         "cat": "chassis"
       }
     ],
+    "C1745": [
+      {
+        "sit_id": "toyota_alphard_ah40_007",
+        "title": "Утечка газа из задних амортизаторов",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
+        "urg": 3,
+        "cat": "chassis"
+      }
+    ],
     "C1752": [
       {
         "sit_id": "toyota_prado_j150_009",
@@ -13860,6 +14784,17 @@
         "model": "prado",
         "generation": "j150_2009",
         "urg": 2,
+        "cat": "chassis"
+      }
+    ],
+    "C1760": [
+      {
+        "sit_id": "toyota_alphard_ah40_007",
+        "title": "Утечка газа из задних амортизаторов",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
+        "urg": 3,
         "cat": "chassis"
       }
     ],
@@ -15049,6 +15984,17 @@
         "cat": "brakes"
       }
     ],
+    "D35400": [
+      {
+        "sit_id": "bmw_x3_g45_009",
+        "title": "Ложное срабатывание датчика тормозных колодок",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 2,
+        "cat": "brakes"
+      }
+    ],
     "D355": [
       {
         "sit_id": "bmw_x5_f15_009",
@@ -15057,6 +16003,17 @@
         "model": "x5",
         "generation": "f15_2013",
         "urg": 4,
+        "cat": "brakes"
+      }
+    ],
+    "D35500": [
+      {
+        "sit_id": "bmw_x3_g45_009",
+        "title": "Ложное срабатывание датчика тормозных колодок",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 2,
         "cat": "brakes"
       }
     ],
@@ -15362,6 +16319,15 @@
         "model": "a6",
         "generation": "c7_2011",
         "urg": 5,
+        "cat": "engine"
+      },
+      {
+        "sit_id": "audi_a8_d5_004",
+        "title": "Повышенный расход масла 3.0 TFSI EA839",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 3,
         "cat": "engine"
       },
       {
@@ -15968,6 +16934,15 @@
         "cat": "engine"
       },
       {
+        "sit_id": "mercedes_sl_r232_004",
+        "title": "Неисправность CAMTRONIC (отключение цилиндров)",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 3,
+        "cat": "engine"
+      },
+      {
         "sit_id": "merc_s_w222_001",
         "title": "Износ цепи ГРМ и звезд балансирных валов (M278 4.7 V8)",
         "brand": "mercedes",
@@ -16500,6 +17475,15 @@
         "model": "gle",
         "generation": "w166_2011",
         "urg": 5,
+        "cat": "engine"
+      },
+      {
+        "sit_id": "mercedes_sl_r232_004",
+        "title": "Неисправность CAMTRONIC (отключение цилиндров)",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 3,
         "cat": "engine"
       },
       {
@@ -17822,6 +18806,15 @@
         "cat": "engine"
       },
       {
+        "sit_id": "mercedes_sl_r232_004",
+        "title": "Неисправность CAMTRONIC (отключение цилиндров)",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 3,
+        "cat": "engine"
+      },
+      {
         "sit_id": "nissan_murano_z52_006",
         "title": "Растяжение цепи ГРМ двигателя VQ35DE",
         "brand": "nissan",
@@ -17896,9 +18889,27 @@
         "generation": "w166_2011",
         "urg": 5,
         "cat": "engine"
+      },
+      {
+        "sit_id": "mercedes_sl_r232_004",
+        "title": "Неисправность CAMTRONIC (отключение цилиндров)",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 3,
+        "cat": "engine"
       }
     ],
     "P0030": [
+      {
+        "sit_id": "audi_a8_d5_004",
+        "title": "Повышенный расход масла 3.0 TFSI EA839",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 3,
+        "cat": "engine"
+      },
       {
         "sit_id": "kia_telluride_004",
         "title": "Неисправность ТНВД двигателя 3.8 GDI",
@@ -17907,6 +18918,15 @@
         "generation": "on_2019",
         "urg": 4,
         "cat": "fuel"
+      },
+      {
+        "sit_id": "mercedes_amg_gt_c192_004",
+        "title": "Стук вестгейта турбокомпрессоров M177",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 3,
+        "cat": "engine"
       },
       {
         "sit_id": "merc_gls_x167_005",
@@ -17925,6 +18945,15 @@
         "brand": "kia",
         "model": "carnival",
         "generation": "ka4_2020",
+        "urg": 3,
+        "cat": "engine"
+      },
+      {
+        "sit_id": "mercedes_sl_r232_001",
+        "title": "Стук турбокомпрессоров M177 при холодном пуске",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
         "urg": 3,
         "cat": "engine"
       }
@@ -17951,6 +18980,15 @@
         "cat": "engine"
       },
       {
+        "sit_id": "mercedes_amg_gt_c192_004",
+        "title": "Стук вестгейта турбокомпрессоров M177",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 3,
+        "cat": "engine"
+      },
+      {
         "sit_id": "mercedes_s_class_006",
         "title": "Утечка масла OM656 (S 400d) через прокладку впускного коллектора",
         "brand": "mercedes",
@@ -17971,12 +19009,30 @@
         "cat": "engine"
       },
       {
+        "sit_id": "audi_a8_d5_005",
+        "title": "Отказ актуатора wastegate 4.0 TFSI",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 4,
+        "cat": "engine"
+      },
+      {
         "sit_id": "genesis_g80_rg3_001",
         "title": "Падение давления наддува турбокомпрессора 2.5T-GDI",
         "brand": "hyundai",
         "model": "genesis_g80",
         "generation": "rg3_2020",
         "urg": 4,
+        "cat": "engine"
+      },
+      {
+        "sit_id": "genesis_g90_rs4_006",
+        "title": "Дребезг турбокомпрессоров 2.5T и 3.5T",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 2,
         "cat": "engine"
       },
       {
@@ -18015,6 +19071,17 @@
         "model": "xc90",
         "generation": "lc_2015",
         "urg": 4,
+        "cat": "engine"
+      }
+    ],
+    "P006800": [
+      {
+        "sit_id": "bmw_x3_g45_002",
+        "title": "Потеря давления наддува B48",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 3,
         "cat": "engine"
       }
     ],
@@ -18190,6 +19257,15 @@
         "cat": "fuel"
       },
       {
+        "sit_id": "genesis_g90_rs4_007",
+        "title": "Отказ ТНВД на GDI",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 4,
+        "cat": "fuel"
+      },
+      {
         "sit_id": "hyundai_ix35_lm_004",
         "title": "Износ топливных форсунок и ТНВД дизеля D4HA",
         "brand": "hyundai",
@@ -18289,6 +19365,15 @@
         "cat": "engine"
       },
       {
+        "sit_id": "mercedes_sl_r232_006",
+        "title": "Отказ ТНВД на M139 2.0T (SL 43)",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 4,
+        "cat": "fuel"
+      },
+      {
         "sit_id": "merc_vclass_w447_007",
         "title": "Засорение форсунок и трудный запуск дизеля (OM651 Common Rail)",
         "brand": "mercedes",
@@ -18334,6 +19419,17 @@
         "cat": "engine"
       }
     ],
+    "P008700": [
+      {
+        "sit_id": "bmw_x3_g45_007",
+        "title": "Неисправность ТНВД B48/B58",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 4,
+        "cat": "fuel"
+      }
+    ],
     "P0088": [
       {
         "sit_id": "genesis_g70_ik_g4kh_20t_high_pressure_pump",
@@ -18341,6 +19437,15 @@
         "brand": "hyundai",
         "model": "genesis_g70",
         "generation": "ik_2017",
+        "urg": 4,
+        "cat": "fuel"
+      },
+      {
+        "sit_id": "genesis_g90_rs4_007",
+        "title": "Отказ ТНВД на GDI",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
         "urg": 4,
         "cat": "fuel"
       },
@@ -18381,6 +19486,15 @@
         "cat": "engine"
       },
       {
+        "sit_id": "mercedes_sl_r232_006",
+        "title": "Отказ ТНВД на M139 2.0T (SL 43)",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 4,
+        "cat": "fuel"
+      },
+      {
         "sit_id": "skoda_kodiaq_ns_007",
         "title": "Цоканье цепи ТНВД и жесткая работа форсунок (2.0 TDI DFGA)",
         "brand": "skoda",
@@ -18408,6 +19522,17 @@
         "cat": "engine"
       }
     ],
+    "P008800": [
+      {
+        "sit_id": "bmw_x3_g45_007",
+        "title": "Неисправность ТНВД B48/B58",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 4,
+        "cat": "fuel"
+      }
+    ],
     "P0089": [
       {
         "sit_id": "audi_q5_fy_009",
@@ -18425,6 +19550,15 @@
         "model": "genesis_g80",
         "generation": "rg3_2020",
         "urg": 5,
+        "cat": "fuel"
+      },
+      {
+        "sit_id": "genesis_g90_rs4_007",
+        "title": "Отказ ТНВД на GDI",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 4,
         "cat": "fuel"
       },
       {
@@ -18446,6 +19580,28 @@
         "generation": "g05_2018",
         "urg": 5,
         "cat": "engine"
+      }
+    ],
+    "P008A00": [
+      {
+        "sit_id": "bmw_x3_g45_007",
+        "title": "Неисправность ТНВД B48/B58",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 4,
+        "cat": "fuel"
+      }
+    ],
+    "P008B00": [
+      {
+        "sit_id": "bmw_x3_g45_007",
+        "title": "Неисправность ТНВД B48/B58",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 4,
+        "cat": "fuel"
       }
     ],
     "P0090": [
@@ -18960,6 +20116,15 @@
         "cat": "cooling"
       },
       {
+        "sit_id": "toyota_alphard_ah40_005",
+        "title": "Течь антифриза из водяного насоса 2GR-FKS",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
+        "urg": 4,
+        "cat": "cooling"
+      },
+      {
         "sit_id": "toyota_corolla_e180_009",
         "title": "Течь радиатора кондиционера и охлаждения",
         "brand": "toyota",
@@ -19297,6 +20462,17 @@
         "cat": "cooling"
       }
     ],
+    "P011700": [
+      {
+        "sit_id": "bmw_x3_g45_005",
+        "title": "Утечка антифриза B48/B58",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 4,
+        "cat": "cooling"
+      }
+    ],
     "P0118": [
       {
         "sit_id": "audi_a6_c7_003",
@@ -19459,6 +20635,15 @@
         "brand": "audi",
         "model": "rs6",
         "generation": "c8_2019",
+        "urg": 4,
+        "cat": "cooling"
+      },
+      {
+        "sit_id": "bmw_x3_g45_005",
+        "title": "Утечка антифриза B48/B58",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
         "urg": 4,
         "cat": "cooling"
       }
@@ -19708,6 +20893,17 @@
         "cat": "cooling"
       }
     ],
+    "P011A00": [
+      {
+        "sit_id": "bmw_x3_g45_005",
+        "title": "Утечка антифриза B48/B58",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 4,
+        "cat": "cooling"
+      }
+    ],
     "P011B": [
       {
         "sit_id": "audi_a3_8v_006",
@@ -19845,6 +21041,15 @@
         "cat": "cooling"
       },
       {
+        "sit_id": "toyota_alphard_ah40_005",
+        "title": "Течь антифриза из водяного насоса 2GR-FKS",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
+        "urg": 4,
+        "cat": "cooling"
+      },
+      {
         "sit_id": "toyota_rav4_xa50_009",
         "title": "Течь антифриза из трубки системы охлаждения",
         "brand": "toyota",
@@ -19869,6 +21074,17 @@
         "model": "passat",
         "generation": "b8_2015",
         "urg": 5,
+        "cat": "cooling"
+      }
+    ],
+    "P011B00": [
+      {
+        "sit_id": "bmw_x3_g45_005",
+        "title": "Утечка антифриза B48/B58",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 4,
         "cat": "cooling"
       }
     ],
@@ -20179,6 +21395,15 @@
         "cat": "cooling"
       },
       {
+        "sit_id": "toyota_alphard_ah40_005",
+        "title": "Течь антифриза из водяного насоса 2GR-FKS",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
+        "urg": 4,
+        "cat": "cooling"
+      },
+      {
         "sit_id": "toyota_corolla_e180_009",
         "title": "Течь радиатора кондиционера и охлаждения",
         "brand": "toyota",
@@ -20258,6 +21483,15 @@
         "brand": "lexus",
         "model": "rx",
         "generation": "al20_2015",
+        "urg": 4,
+        "cat": "cooling"
+      },
+      {
+        "sit_id": "toyota_alphard_ah40_005",
+        "title": "Течь антифриза из водяного насоса 2GR-FKS",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
         "urg": 4,
         "cat": "cooling"
       },
@@ -21083,6 +22317,15 @@
         "generation": "c8_2019",
         "urg": 4,
         "cat": "cooling"
+      },
+      {
+        "sit_id": "bmw_x3_g45_005",
+        "title": "Утечка антифриза B48/B58",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 4,
+        "cat": "cooling"
       }
     ],
     "P0130": [
@@ -21835,6 +23078,15 @@
         "cat": "engine"
       },
       {
+        "sit_id": "genesis_g90_rs4_004",
+        "title": "Нагар на впускных клапанах GDI",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 2,
+        "cat": "engine"
+      },
+      {
         "sit_id": "hyundai_palisade_005",
         "title": "Нагар на впускных клапанах (G6DB 3.5 GDI)",
         "brand": "hyundai",
@@ -22366,6 +23618,15 @@
         "cat": "engine"
       },
       {
+        "sit_id": "toyota_alphard_ah40_002",
+        "title": "Нагар на впускных клапанах (Direct Injection)",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
+        "urg": 3,
+        "cat": "engine"
+      },
+      {
         "sit_id": "toyota_camry_v50_fuel_injector_clogging",
         "title": "Нестабильный холостой ход и провалы при ускорении — засор форсунок",
         "brand": "toyota",
@@ -22595,6 +23856,15 @@
         "cat": "engine"
       },
       {
+        "sit_id": "toyota_alphard_ah40_002",
+        "title": "Нагар на впускных клапанах (Direct Injection)",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
+        "urg": 3,
+        "cat": "engine"
+      },
+      {
         "sit_id": "toyota_camry_v50_fuel_injector_clogging",
         "title": "Нестабильный холостой ход и провалы при ускорении — засор форсунок",
         "brand": "toyota",
@@ -22686,6 +23956,15 @@
         "model": "mondeo",
         "generation": "mk5_2014",
         "urg": 3,
+        "cat": "engine"
+      },
+      {
+        "sit_id": "genesis_g90_rs4_004",
+        "title": "Нагар на впускных клапанах GDI",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 2,
         "cat": "engine"
       },
       {
@@ -22801,6 +24080,15 @@
         "cat": "fuel"
       },
       {
+        "sit_id": "genesis_g90_rs4_007",
+        "title": "Отказ ТНВД на GDI",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 4,
+        "cat": "fuel"
+      },
+      {
         "sit_id": "kia_telluride_004",
         "title": "Неисправность ТНВД двигателя 3.8 GDI",
         "brand": "kia",
@@ -22866,6 +24154,15 @@
         "cat": "fuel"
       },
       {
+        "sit_id": "genesis_g90_rs4_007",
+        "title": "Отказ ТНВД на GDI",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 4,
+        "cat": "fuel"
+      },
+      {
         "sit_id": "hyundai_santa_fe_dm_fuel_injector_leak",
         "title": "Запах бензина в салоне — течь форсунок G4KJ GDI под давлением",
         "brand": "hyundai",
@@ -22909,6 +24206,15 @@
         "generation": "w212_2009",
         "urg": 4,
         "cat": "engine"
+      },
+      {
+        "sit_id": "mercedes_sl_r232_006",
+        "title": "Отказ ТНВД на M139 2.0T (SL 43)",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 4,
+        "cat": "fuel"
       },
       {
         "sit_id": "nissan_x_trail_t32_fuel_pump",
@@ -22956,6 +24262,15 @@
         "generation": "on_2019",
         "urg": 4,
         "cat": "fuel"
+      },
+      {
+        "sit_id": "mercedes_sl_r232_006",
+        "title": "Отказ ТНВД на M139 2.0T (SL 43)",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 4,
+        "cat": "fuel"
       }
     ],
     "P0193": [
@@ -22965,6 +24280,15 @@
         "brand": "kia",
         "model": "telluride",
         "generation": "on_2019",
+        "urg": 4,
+        "cat": "fuel"
+      },
+      {
+        "sit_id": "mercedes_sl_r232_006",
+        "title": "Отказ ТНВД на M139 2.0T (SL 43)",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
         "urg": 4,
         "cat": "fuel"
       }
@@ -23816,6 +25140,15 @@
         "cat": "engine"
       },
       {
+        "sit_id": "audi_a8_d5_005",
+        "title": "Отказ актуатора wastegate 4.0 TFSI",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 4,
+        "cat": "engine"
+      },
+      {
         "sit_id": "bmw_x3_g01_010",
         "title": "Разрушение пластиковой впускной трубы турбины (B58B30M1)",
         "brand": "bmw",
@@ -23858,6 +25191,15 @@
         "model": "genesis_g80",
         "generation": "rg3_2020",
         "urg": 4,
+        "cat": "engine"
+      },
+      {
+        "sit_id": "genesis_g90_rs4_006",
+        "title": "Дребезг турбокомпрессоров 2.5T и 3.5T",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 2,
         "cat": "engine"
       },
       {
@@ -23921,6 +25263,15 @@
         "model": "navigator",
         "generation": "u554_2017",
         "urg": 2,
+        "cat": "engine"
+      },
+      {
+        "sit_id": "mercedes_amg_gt_c192_004",
+        "title": "Стук вестгейта турбокомпрессоров M177",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 3,
         "cat": "engine"
       },
       {
@@ -24032,6 +25383,15 @@
         "generation": "c8_2019",
         "urg": 4,
         "cat": "engine"
+      },
+      {
+        "sit_id": "bmw_x3_g45_002",
+        "title": "Потеря давления наддува B48",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 3,
+        "cat": "engine"
       }
     ],
     "P0235": [
@@ -24046,6 +25406,15 @@
       }
     ],
     "P0236": [
+      {
+        "sit_id": "audi_a8_d5_005",
+        "title": "Отказ актуатора wastegate 4.0 TFSI",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 4,
+        "cat": "engine"
+      },
       {
         "sit_id": "bmw_z4_008",
         "title": "Осечки при резком ускорении (B46B20M1 sDrive20i)",
@@ -24074,9 +25443,27 @@
         "generation": "c8_2019",
         "urg": 4,
         "cat": "engine"
+      },
+      {
+        "sit_id": "bmw_x3_g45_002",
+        "title": "Потеря давления наддува B48",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 3,
+        "cat": "engine"
       }
     ],
     "P0243": [
+      {
+        "sit_id": "audi_a8_d5_005",
+        "title": "Отказ актуатора wastegate 4.0 TFSI",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 4,
+        "cat": "engine"
+      },
       {
         "sit_id": "kia_carnival_ka4_009",
         "title": "Неисправность актуатора турбокомпрессора (R 2.2 CRDi)",
@@ -24085,15 +25472,53 @@
         "generation": "ka4_2020",
         "urg": 3,
         "cat": "engine"
+      },
+      {
+        "sit_id": "mercedes_sl_r232_001",
+        "title": "Стук турбокомпрессоров M177 при холодном пуске",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 3,
+        "cat": "engine"
+      }
+    ],
+    "P0244": [
+      {
+        "sit_id": "audi_a8_d5_005",
+        "title": "Отказ актуатора wastegate 4.0 TFSI",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 4,
+        "cat": "engine"
       }
     ],
     "P0245": [
+      {
+        "sit_id": "genesis_g90_rs4_006",
+        "title": "Дребезг турбокомпрессоров 2.5T и 3.5T",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 2,
+        "cat": "engine"
+      },
       {
         "sit_id": "merc_gls_x167_005",
         "title": "Стук и дребезжание турбонагнетателей на моторах M176/M177 V8",
         "brand": "mercedes",
         "model": "gls",
         "generation": "x167_2019",
+        "urg": 3,
+        "cat": "engine"
+      },
+      {
+        "sit_id": "mercedes_sl_r232_001",
+        "title": "Стук турбокомпрессоров M177 при холодном пуске",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
         "urg": 3,
         "cat": "engine"
       }
@@ -24138,6 +25563,15 @@
         "brand": "acura",
         "model": "rdx",
         "generation": "tc1_2018",
+        "urg": 4,
+        "cat": "engine"
+      },
+      {
+        "sit_id": "audi_a8_d5_005",
+        "title": "Отказ актуатора wastegate 4.0 TFSI",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
         "urg": 4,
         "cat": "engine"
       },
@@ -24304,6 +25738,15 @@
         "cat": "engine"
       },
       {
+        "sit_id": "genesis_g90_rs4_006",
+        "title": "Дребезг турбокомпрессоров 2.5T и 3.5T",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 2,
+        "cat": "engine"
+      },
+      {
         "sit_id": "genesis_gv70_007",
         "title": "Перегрев турбокомпрессора при агрессивной езде (G4FR 2.5T)",
         "brand": "hyundai",
@@ -24421,6 +25864,15 @@
         "cat": "engine"
       },
       {
+        "sit_id": "mercedes_amg_gt_c192_004",
+        "title": "Стук вестгейта турбокомпрессоров M177",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 3,
+        "cat": "engine"
+      },
+      {
         "sit_id": "merc_c_w205_009",
         "title": "Повышенный расход масла и люфт вестгейтов турбин (двигатель M177 4.0 V8 Biturbo)",
         "brand": "mercedes",
@@ -24435,6 +25887,15 @@
         "brand": "mercedes",
         "model": "gls",
         "generation": "x167_2019",
+        "urg": 3,
+        "cat": "engine"
+      },
+      {
+        "sit_id": "mercedes_sl_r232_001",
+        "title": "Стук турбокомпрессоров M177 при холодном пуске",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
         "urg": 3,
         "cat": "engine"
       },
@@ -24574,6 +26035,15 @@
         "generation": "c8_2019",
         "urg": 4,
         "cat": "engine"
+      },
+      {
+        "sit_id": "bmw_x3_g45_002",
+        "title": "Потеря давления наддува B48",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 3,
+        "cat": "engine"
       }
     ],
     "P0300": [
@@ -24682,6 +26152,15 @@
         "brand": "audi",
         "model": "a7",
         "generation": "4k_2017",
+        "urg": 3,
+        "cat": "engine"
+      },
+      {
+        "sit_id": "audi_a8_d5_004",
+        "title": "Повышенный расход масла 3.0 TFSI EA839",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
         "urg": 3,
         "cat": "engine"
       },
@@ -25064,6 +26543,24 @@
         "cat": "engine"
       },
       {
+        "sit_id": "genesis_g90_rs4_001",
+        "title": "Повышенный расход масла двигателем G4FR 2.5T-GDI",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 3,
+        "cat": "engine"
+      },
+      {
+        "sit_id": "genesis_g90_rs4_004",
+        "title": "Нагар на впускных клапанах GDI",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 2,
+        "cat": "engine"
+      },
+      {
         "sit_id": "genesis_gv70_001",
         "title": "Нагар на впускных клапанах (G4FR 2.5T GDI)",
         "brand": "hyundai",
@@ -25173,7 +26670,7 @@
       },
       {
         "sit_id": "hyundai_staria_001",
-        "title": "Стук и вибрация двигателя G6CT 3.5 V6 на холостых оборотах",
+        "title": "Стук и вибрация двигателя G6DK 3.5 V6 на холостых оборотах",
         "brand": "hyundai",
         "model": "staria",
         "generation": "us4_2021",
@@ -25667,6 +27164,15 @@
         "cat": "engine"
       },
       {
+        "sit_id": "mercedes_amg_gt_c192_008",
+        "title": "Повышенный расход масла при отключении цилиндров",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 3,
+        "cat": "engine"
+      },
+      {
         "sit_id": "merc_cls_w218_001",
         "title": "Разрушение балансирного вала M276 — критическая проблема CLS350",
         "brand": "mercedes",
@@ -26036,6 +27542,24 @@
         "cat": "engine"
       },
       {
+        "sit_id": "toyota_alphard_ah40_002",
+        "title": "Нагар на впускных клапанах (Direct Injection)",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
+        "urg": 3,
+        "cat": "engine"
+      },
+      {
+        "sit_id": "toyota_alphard_ah40_010",
+        "title": "Повышенный расход масла 2GR-FKS",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
+        "urg": 3,
+        "cat": "engine"
+      },
+      {
         "sit_id": "toyota_camry_v50_fuel_injector_clogging",
         "title": "Нестабильный холостой ход и провалы при ускорении — засор форсунок",
         "brand": "toyota",
@@ -26225,6 +27749,17 @@
         "cat": "engine"
       }
     ],
+    "P030000": [
+      {
+        "sit_id": "bmw_x3_g45_006",
+        "title": "Повышенный расход масла B48",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 3,
+        "cat": "engine"
+      }
+    ],
     "P0301": [
       {
         "sit_id": "acura_mdx_002",
@@ -26269,6 +27804,15 @@
         "model": "a6",
         "generation": "c7_2011",
         "urg": 4,
+        "cat": "engine"
+      },
+      {
+        "sit_id": "audi_a8_d5_004",
+        "title": "Повышенный расход масла 3.0 TFSI EA839",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 3,
         "cat": "engine"
       },
       {
@@ -26425,6 +27969,24 @@
         "cat": "engine"
       },
       {
+        "sit_id": "genesis_g90_rs4_001",
+        "title": "Повышенный расход масла двигателем G4FR 2.5T-GDI",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 3,
+        "cat": "engine"
+      },
+      {
+        "sit_id": "genesis_g90_rs4_004",
+        "title": "Нагар на впускных клапанах GDI",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 2,
+        "cat": "engine"
+      },
+      {
         "sit_id": "genesis_gv70_001",
         "title": "Нагар на впускных клапанах (G4FR 2.5T GDI)",
         "brand": "hyundai",
@@ -26498,7 +28060,7 @@
       },
       {
         "sit_id": "hyundai_staria_001",
-        "title": "Стук и вибрация двигателя G6CT 3.5 V6 на холостых оборотах",
+        "title": "Стук и вибрация двигателя G6DK 3.5 V6 на холостых оборотах",
         "brand": "hyundai",
         "model": "staria",
         "generation": "us4_2021",
@@ -26983,6 +28545,15 @@
         "cat": "engine"
       },
       {
+        "sit_id": "toyota_alphard_ah40_002",
+        "title": "Нагар на впускных клапанах (Direct Injection)",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
+        "urg": 3,
+        "cat": "engine"
+      },
+      {
         "sit_id": "toyota_camry_v50_fuel_injector_clogging",
         "title": "Нестабильный холостой ход и провалы при ускорении — засор форсунок",
         "brand": "toyota",
@@ -27099,6 +28670,15 @@
         "model": "rs6",
         "generation": "c8_2019",
         "urg": 2,
+        "cat": "engine"
+      },
+      {
+        "sit_id": "bmw_x3_g45_006",
+        "title": "Повышенный расход масла B48",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 3,
         "cat": "engine"
       }
     ],
@@ -27230,6 +28810,24 @@
         "cat": "engine"
       },
       {
+        "sit_id": "genesis_g90_rs4_001",
+        "title": "Повышенный расход масла двигателем G4FR 2.5T-GDI",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 3,
+        "cat": "engine"
+      },
+      {
+        "sit_id": "genesis_g90_rs4_004",
+        "title": "Нагар на впускных клапанах GDI",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 2,
+        "cat": "engine"
+      },
+      {
         "sit_id": "genesis_gv70_001",
         "title": "Нагар на впускных клапанах (G4FR 2.5T GDI)",
         "brand": "hyundai",
@@ -27294,7 +28892,7 @@
       },
       {
         "sit_id": "hyundai_staria_001",
-        "title": "Стук и вибрация двигателя G6CT 3.5 V6 на холостых оборотах",
+        "title": "Стук и вибрация двигателя G6DK 3.5 V6 на холостых оборотах",
         "brand": "hyundai",
         "model": "staria",
         "generation": "us4_2021",
@@ -27608,6 +29206,15 @@
         "cat": "engine"
       },
       {
+        "sit_id": "toyota_alphard_ah40_002",
+        "title": "Нагар на впускных клапанах (Direct Injection)",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
+        "urg": 3,
+        "cat": "engine"
+      },
+      {
         "sit_id": "toyota_camry_v50_fuel_injector_clogging",
         "title": "Нестабильный холостой ход и провалы при ускорении — засор форсунок",
         "brand": "toyota",
@@ -27679,6 +29286,15 @@
         "model": "rs6",
         "generation": "c8_2019",
         "urg": 2,
+        "cat": "engine"
+      },
+      {
+        "sit_id": "bmw_x3_g45_006",
+        "title": "Повышенный расход масла B48",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 3,
         "cat": "engine"
       }
     ],
@@ -27762,6 +29378,24 @@
         "model": "creta",
         "generation": "gs_2016",
         "urg": 3,
+        "cat": "engine"
+      },
+      {
+        "sit_id": "genesis_g90_rs4_001",
+        "title": "Повышенный расход масла двигателем G4FR 2.5T-GDI",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 3,
+        "cat": "engine"
+      },
+      {
+        "sit_id": "genesis_g90_rs4_004",
+        "title": "Нагар на впускных клапанах GDI",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 2,
         "cat": "engine"
       },
       {
@@ -28017,6 +29651,15 @@
         "cat": "engine"
       },
       {
+        "sit_id": "toyota_alphard_ah40_002",
+        "title": "Нагар на впускных клапанах (Direct Injection)",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
+        "urg": 3,
+        "cat": "engine"
+      },
+      {
         "sit_id": "toyota_camry_xv40_001",
         "title": "Масложор двигателя 2AZ-FE (2.4 л)",
         "brand": "toyota",
@@ -28059,6 +29702,17 @@
         "model": "tiguan",
         "generation": "nf_2021",
         "urg": 4,
+        "cat": "engine"
+      }
+    ],
+    "P030300": [
+      {
+        "sit_id": "bmw_x3_g45_006",
+        "title": "Повышенный расход масла B48",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 3,
         "cat": "engine"
       }
     ],
@@ -28106,6 +29760,24 @@
         "model": "creta",
         "generation": "gs_2016",
         "urg": 3,
+        "cat": "engine"
+      },
+      {
+        "sit_id": "genesis_g90_rs4_001",
+        "title": "Повышенный расход масла двигателем G4FR 2.5T-GDI",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 3,
+        "cat": "engine"
+      },
+      {
+        "sit_id": "genesis_g90_rs4_004",
+        "title": "Нагар на впускных клапанах GDI",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 2,
         "cat": "engine"
       },
       {
@@ -28361,6 +30033,15 @@
         "cat": "engine"
       },
       {
+        "sit_id": "toyota_alphard_ah40_002",
+        "title": "Нагар на впускных клапанах (Direct Injection)",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
+        "urg": 3,
+        "cat": "engine"
+      },
+      {
         "sit_id": "toyota_camry_xv40_001",
         "title": "Масложор двигателя 2AZ-FE (2.4 л)",
         "brand": "toyota",
@@ -28403,6 +30084,17 @@
         "model": "tiguan",
         "generation": "nf_2021",
         "urg": 4,
+        "cat": "engine"
+      }
+    ],
+    "P030400": [
+      {
+        "sit_id": "bmw_x3_g45_006",
+        "title": "Повышенный расход масла B48",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 3,
         "cat": "engine"
       }
     ],
@@ -28453,6 +30145,15 @@
         "cat": "engine"
       },
       {
+        "sit_id": "genesis_g90_rs4_004",
+        "title": "Нагар на впускных клапанах GDI",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 2,
+        "cat": "engine"
+      },
+      {
         "sit_id": "kia_stinger_ck_001",
         "title": "Нагар на впускных клапанах двигателя Lambda II 3.3TT V6 Kia Stinger GT: пропуски зажигания и потеря ",
         "brand": "kia",
@@ -28468,6 +30169,15 @@
         "model": "telluride",
         "generation": "on_2019",
         "urg": 2,
+        "cat": "engine"
+      },
+      {
+        "sit_id": "mercedes_amg_gt_c192_008",
+        "title": "Повышенный расход масла при отключении цилиндров",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 3,
         "cat": "engine"
       },
       {
@@ -28482,6 +30192,15 @@
     ],
     "P0306": [
       {
+        "sit_id": "genesis_g90_rs4_004",
+        "title": "Нагар на впускных клапанах GDI",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 2,
+        "cat": "engine"
+      },
+      {
         "sit_id": "kia_stinger_ck_001",
         "title": "Нагар на впускных клапанах двигателя Lambda II 3.3TT V6 Kia Stinger GT: пропуски зажигания и потеря ",
         "brand": "kia",
@@ -28500,12 +30219,32 @@
         "cat": "engine"
       },
       {
+        "sit_id": "mercedes_amg_gt_c192_008",
+        "title": "Повышенный расход масла при отключении цилиндров",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 3,
+        "cat": "engine"
+      },
+      {
         "sit_id": "toyota_camry_xv70_2gr_fks_v6_oil_consumption",
         "title": "Повышенный расход масла двигателем 2GR-FKS 3.5 V6",
         "brand": "toyota",
         "model": "camry",
         "generation": "xv70_2018",
         "urg": 4,
+        "cat": "engine"
+      }
+    ],
+    "P0307": [
+      {
+        "sit_id": "mercedes_amg_gt_c192_008",
+        "title": "Повышенный расход масла при отключении цилиндров",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 3,
         "cat": "engine"
       }
     ],
@@ -28535,6 +30274,15 @@
         "model": "charger",
         "generation": "ld_2011",
         "urg": 4,
+        "cat": "engine"
+      },
+      {
+        "sit_id": "mercedes_amg_gt_c192_008",
+        "title": "Повышенный расход масла при отключении цилиндров",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 3,
         "cat": "engine"
       }
     ],
@@ -30304,6 +32052,15 @@
         "cat": "engine"
       },
       {
+        "sit_id": "audi_a8_d5_004",
+        "title": "Повышенный расход масла 3.0 TFSI EA839",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 3,
+        "cat": "engine"
+      },
+      {
         "sit_id": "audi_q3_8u_005",
         "title": "Повышенный расход масла 2.0 TFSI (CULB)",
         "brand": "audi",
@@ -30583,13 +32340,13 @@
         "cat": "engine"
       },
       {
-        "sit_id": "genesis_gv80_006",
-        "title": "Запах выхлопных газов в салоне при работе дизеля D4HB 3.0",
+        "sit_id": "genesis_g90_rs4_009",
+        "title": "Деградация катализаторов V6 3.5T",
         "brand": "hyundai",
-        "model": "genesis_gv80",
-        "generation": "jx_2020",
-        "urg": 3,
-        "cat": "fuel"
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 2,
+        "cat": "engine"
       },
       {
         "sit_id": "hyundai_ix35_lm_001",
@@ -31060,6 +32817,15 @@
         "cat": "engine"
       },
       {
+        "sit_id": "toyota_alphard_ah40_010",
+        "title": "Повышенный расход масла 2GR-FKS",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
+        "urg": 3,
+        "cat": "engine"
+      },
+      {
         "sit_id": "toyota_camry_xv40_001",
         "title": "Масложор двигателя 2AZ-FE (2.4 л)",
         "brand": "toyota",
@@ -31181,6 +32947,15 @@
     ],
     "P0421": [
       {
+        "sit_id": "genesis_g90_rs4_009",
+        "title": "Деградация катализаторов V6 3.5T",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 2,
+        "cat": "engine"
+      },
+      {
         "sit_id": "lada_granta_2190_catalyst_failure",
         "title": "Разрушение катализатора и попадание крошки в цилиндры (8V)",
         "brand": "lada",
@@ -31205,6 +32980,28 @@
         "model": "forfour",
         "generation": "w453_2014",
         "urg": 3,
+        "cat": "engine"
+      }
+    ],
+    "P0422": [
+      {
+        "sit_id": "genesis_g90_rs4_009",
+        "title": "Деградация катализаторов V6 3.5T",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 2,
+        "cat": "engine"
+      }
+    ],
+    "P0423": [
+      {
+        "sit_id": "audi_a8_d5_006",
+        "title": "Отказ AdBlue и SCR-катализатора 3.0 TDI",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 5,
         "cat": "engine"
       }
     ],
@@ -31288,6 +33085,15 @@
         "cat": "engine"
       },
       {
+        "sit_id": "audi_a8_d5_004",
+        "title": "Повышенный расход масла 3.0 TFSI EA839",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 3,
+        "cat": "engine"
+      },
+      {
         "sit_id": "audi_q5_8r_009",
         "title": "Неудачная конструкция поршневой группы и вред катализатора 3.2 V6 FSI",
         "brand": "audi",
@@ -31348,6 +33154,15 @@
         "model": "genesis_g80",
         "generation": "rg3_2020",
         "urg": 3,
+        "cat": "engine"
+      },
+      {
+        "sit_id": "genesis_g90_rs4_009",
+        "title": "Деградация катализаторов V6 3.5T",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 2,
         "cat": "engine"
       },
       {
@@ -31576,6 +33391,15 @@
         "cat": "engine"
       },
       {
+        "sit_id": "toyota_alphard_ah40_010",
+        "title": "Повышенный расход масла 2GR-FKS",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
+        "urg": 3,
+        "cat": "engine"
+      },
+      {
         "sit_id": "toyota_camry_xv40_010",
         "title": "Задиры в цилиндрах 2GR-FE из-за катализатора",
         "brand": "toyota",
@@ -31601,6 +33425,28 @@
         "brand": "audi",
         "model": "rs6",
         "generation": "c8_2019",
+        "urg": 2,
+        "cat": "engine"
+      }
+    ],
+    "P0431": [
+      {
+        "sit_id": "genesis_g90_rs4_009",
+        "title": "Деградация катализаторов V6 3.5T",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 2,
+        "cat": "engine"
+      }
+    ],
+    "P0432": [
+      {
+        "sit_id": "genesis_g90_rs4_009",
+        "title": "Деградация катализаторов V6 3.5T",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
         "urg": 2,
         "cat": "engine"
       }
@@ -31952,6 +33798,15 @@
         "cat": "cooling"
       },
       {
+        "sit_id": "mercedes_amg_gt_c192_006",
+        "title": "Неисправность клапанов активного выхлопа AMG",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 2,
+        "cat": "engine"
+      },
+      {
         "sit_id": "merc_a_w177_004",
         "title": "Разрушение демпферного шкива коленвала на двигателе M260 (2.0T)",
         "brand": "mercedes",
@@ -32107,6 +33962,15 @@
         "generation": "on_2019",
         "urg": 3,
         "cat": "cooling"
+      },
+      {
+        "sit_id": "mercedes_amg_gt_c192_006",
+        "title": "Неисправность клапанов активного выхлопа AMG",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 2,
+        "cat": "engine"
       }
     ],
     "P048700": [
@@ -32164,6 +34028,17 @@
         "cat": "engine"
       }
     ],
+    "P0491": [
+      {
+        "sit_id": "mercedes_amg_gt_c192_006",
+        "title": "Неисправность клапанов активного выхлопа AMG",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 2,
+        "cat": "engine"
+      }
+    ],
     "P04DB": [
       {
         "sit_id": "bmw_x5_f15_006",
@@ -32181,6 +34056,17 @@
         "model": "x5",
         "generation": "g05_2018",
         "urg": 4,
+        "cat": "engine"
+      }
+    ],
+    "P04FF": [
+      {
+        "sit_id": "mercedes_amg_gt_c192_006",
+        "title": "Неисправность клапанов активного выхлопа AMG",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 2,
         "cat": "engine"
       }
     ],
@@ -32959,6 +34845,15 @@
     ],
     "P0521": [
       {
+        "sit_id": "audi_a8_d5_004",
+        "title": "Повышенный расход масла 3.0 TFSI EA839",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 3,
+        "cat": "engine"
+      },
+      {
         "sit_id": "audi_q5_8r_003",
         "title": "Перескок цепи ГРМ из-за бракованного натяжителя 2.0 TFSI",
         "brand": "audi",
@@ -33154,6 +35049,15 @@
         "model": "gle",
         "generation": "w166_2011",
         "urg": 5,
+        "cat": "engine"
+      },
+      {
+        "sit_id": "mercedes_sl_r232_004",
+        "title": "Неисправность CAMTRONIC (отключение цилиндров)",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 3,
         "cat": "engine"
       },
       {
@@ -33397,6 +35301,15 @@
         "cat": "engine"
       },
       {
+        "sit_id": "genesis_g90_rs4_001",
+        "title": "Повышенный расход масла двигателем G4FR 2.5T-GDI",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 3,
+        "cat": "engine"
+      },
+      {
         "sit_id": "hyundai_santa_fe_mx5_008",
         "title": "Задиры в цилиндрах и повышенный расход масла (двигатель G4KN 2.5T)",
         "brand": "hyundai",
@@ -33568,6 +35481,24 @@
         "cat": "engine"
       },
       {
+        "sit_id": "mercedes_amg_gt_c192_008",
+        "title": "Повышенный расход масла при отключении цилиндров",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 3,
+        "cat": "engine"
+      },
+      {
+        "sit_id": "mercedes_sl_r232_004",
+        "title": "Неисправность CAMTRONIC (отключение цилиндров)",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 3,
+        "cat": "engine"
+      },
+      {
         "sit_id": "mercedes_s_class_006",
         "title": "Утечка масла OM656 (S 400d) через прокладку впускного коллектора",
         "brand": "mercedes",
@@ -33631,6 +35562,15 @@
         "cat": "engine"
       },
       {
+        "sit_id": "toyota_alphard_ah40_010",
+        "title": "Повышенный расход масла 2GR-FKS",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
+        "urg": 3,
+        "cat": "engine"
+      },
+      {
         "sit_id": "toyota_corolla_e210_002",
         "title": "Повышенный расход масла двигателем 1ZR-FE 1.6",
         "brand": "toyota",
@@ -33678,6 +35618,17 @@
         "cat": "engine"
       }
     ],
+    "P0526": [
+      {
+        "sit_id": "mercedes_sl_r232_004",
+        "title": "Неисправность CAMTRONIC (отключение цилиндров)",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 3,
+        "cat": "engine"
+      }
+    ],
     "P052600": [
       {
         "sit_id": "audi_rs6_c8_004",
@@ -33686,6 +35637,39 @@
         "model": "rs6",
         "generation": "c8_2019",
         "urg": 5,
+        "cat": "engine"
+      }
+    ],
+    "P0527": [
+      {
+        "sit_id": "mercedes_sl_r232_004",
+        "title": "Неисправность CAMTRONIC (отключение цилиндров)",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 3,
+        "cat": "engine"
+      }
+    ],
+    "P0528": [
+      {
+        "sit_id": "mercedes_sl_r232_004",
+        "title": "Неисправность CAMTRONIC (отключение цилиндров)",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 3,
+        "cat": "engine"
+      }
+    ],
+    "P0529": [
+      {
+        "sit_id": "mercedes_sl_r232_004",
+        "title": "Неисправность CAMTRONIC (отключение цилиндров)",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 3,
         "cat": "engine"
       }
     ],
@@ -33783,6 +35767,17 @@
         "cat": "engine"
       }
     ],
+    "P052B00": [
+      {
+        "sit_id": "bmw_x3_g45_006",
+        "title": "Повышенный расход масла B48",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 3,
+        "cat": "engine"
+      }
+    ],
     "P052C": [
       {
         "sit_id": "vw_golf_mk7_003",
@@ -33791,6 +35786,28 @@
         "model": "golf",
         "generation": "mk7_2012",
         "urg": 4,
+        "cat": "engine"
+      }
+    ],
+    "P052C00": [
+      {
+        "sit_id": "bmw_x3_g45_006",
+        "title": "Повышенный расход масла B48",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 3,
+        "cat": "engine"
+      }
+    ],
+    "P052D00": [
+      {
+        "sit_id": "bmw_x3_g45_006",
+        "title": "Повышенный расход масла B48",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 3,
         "cat": "engine"
       }
     ],
@@ -34561,6 +36578,15 @@
         "cat": "brakes"
       },
       {
+        "sit_id": "audi_a8_d5_009",
+        "title": "Неисправность EPB и подклинивание суппортов",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 4,
+        "cat": "brakes"
+      },
+      {
         "sit_id": "bmw_x6_f16_009",
         "title": "Коррозия тормозных суппортов и отказ электромеханического стояночного тормоза (EMF)",
         "brand": "bmw",
@@ -34585,6 +36611,15 @@
         "model": "genesis_g80",
         "generation": "rg3_2020",
         "urg": 3,
+        "cat": "brakes"
+      },
+      {
+        "sit_id": "genesis_g90_rs4_010",
+        "title": "Неисправность EPB и подклинивание суппортов",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 4,
         "cat": "brakes"
       },
       {
@@ -34655,7 +36690,29 @@
         "cat": "brakes"
       }
     ],
-    "P0578": [
+    "P057500": [
+      {
+        "sit_id": "bmw_x3_g45_009",
+        "title": "Ложное срабатывание датчика тормозных колодок",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 2,
+        "cat": "brakes"
+      }
+    ],
+    "P057600": [
+      {
+        "sit_id": "bmw_x3_g45_009",
+        "title": "Ложное срабатывание датчика тормозных колодок",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 2,
+        "cat": "brakes"
+      }
+    ],
+    "P0577": [
       {
         "sit_id": "toyota_bz4x_005",
         "title": "Ошибка системы рекуперативного торможения (регенерация)",
@@ -34982,6 +37039,17 @@
         "cat": "cooling"
       }
     ],
+    "P059700": [
+      {
+        "sit_id": "bmw_x3_g45_005",
+        "title": "Утечка антифриза B48/B58",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 4,
+        "cat": "cooling"
+      }
+    ],
     "P0598": [
       {
         "sit_id": "bmw_x3_f25_005",
@@ -34999,6 +37067,17 @@
         "model": "karoq",
         "generation": "nu_2017",
         "urg": 3,
+        "cat": "cooling"
+      }
+    ],
+    "P059800": [
+      {
+        "sit_id": "bmw_x3_g45_005",
+        "title": "Утечка антифриза B48/B58",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 4,
         "cat": "cooling"
       }
     ],
@@ -35051,6 +37130,17 @@
         "generation": "w167_2019",
         "urg": 2,
         "cat": "body"
+      }
+    ],
+    "P0600": [
+      {
+        "sit_id": "genesis_g90_rs4_003",
+        "title": "Неисправность 48V MHEV системы",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 3,
+        "cat": "electrical"
       }
     ],
     "P0604": [
@@ -36598,6 +38688,15 @@
         "cat": "transmission"
       },
       {
+        "sit_id": "genesis_g90_rs4_005",
+        "title": "Рывки и удары при переключении АКПП A8LR1",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 3,
+        "cat": "transmission"
+      },
+      {
         "sit_id": "genesis_gv70_003",
         "title": "Рывки АКПП 8AT при переключениях в пробке",
         "brand": "hyundai",
@@ -36859,6 +38958,15 @@
         "cat": "transmission"
       },
       {
+        "sit_id": "mercedes_amg_gt_c192_002",
+        "title": "Неисправность мехатроника 9G-TRONIC MCT",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 4,
+        "cat": "transmission"
+      },
+      {
         "sit_id": "merc_a_w177_009",
         "title": "Потеря мощности и пробуксовки на 7-ступенчатом роботе Getrag (DCT-7 FWD)",
         "brand": "mercedes",
@@ -36945,6 +39053,15 @@
         "brand": "mercedes",
         "model": "gls",
         "generation": "x167_2019",
+        "urg": 3,
+        "cat": "transmission"
+      },
+      {
+        "sit_id": "mercedes_sl_r232_002",
+        "title": "Рывки 9G-TRONIC MCT",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
         "urg": 3,
         "cat": "transmission"
       },
@@ -37088,6 +39205,15 @@
         "cat": "transmission"
       },
       {
+        "sit_id": "genesis_g90_rs4_005",
+        "title": "Рывки и удары при переключении АКПП A8LR1",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 3,
+        "cat": "transmission"
+      },
+      {
         "sit_id": "kia_rio_fb_002",
         "title": "Толчки и пинки 6-ступенчатого автомата A6GF1/A6MF1 при переключении",
         "brand": "kia",
@@ -37173,6 +39299,15 @@
         "cat": "transmission"
       },
       {
+        "sit_id": "genesis_g90_rs4_005",
+        "title": "Рывки и удары при переключении АКПП A8LR1",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 3,
+        "cat": "transmission"
+      },
+      {
         "sit_id": "hyundai_santa_fe_mx5_003",
         "title": "Рывки и пинки при переключении 8-ми ступенчатого автомата 8AT",
         "brand": "hyundai",
@@ -37224,6 +39359,15 @@
         "model": "gle",
         "generation": "w166_2011",
         "urg": 5,
+        "cat": "transmission"
+      },
+      {
+        "sit_id": "mercedes_sl_r232_002",
+        "title": "Рывки 9G-TRONIC MCT",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 3,
         "cat": "transmission"
       }
     ],
@@ -37336,6 +39480,15 @@
     ],
     "P072F": [
       {
+        "sit_id": "audi_a8_d5_002",
+        "title": "Износ гидроблока и мехатроника ZF 8HP75/95",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 3,
+        "cat": "transmission"
+      },
+      {
         "sit_id": "merc_cla_c117_002",
         "title": "Износ сцепления и мехатроника (DCT-7 Getrag 7DCT300)",
         "brand": "mercedes",
@@ -37352,6 +39505,15 @@
         "brand": "acura",
         "model": "mdx",
         "generation": "yd3_2013",
+        "urg": 3,
+        "cat": "transmission"
+      },
+      {
+        "sit_id": "audi_a8_d5_002",
+        "title": "Износ гидроблока и мехатроника ZF 8HP75/95",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
         "urg": 3,
         "cat": "transmission"
       },
@@ -37581,6 +39743,15 @@
         "cat": "transmission"
       },
       {
+        "sit_id": "genesis_g90_rs4_005",
+        "title": "Рывки и удары при переключении АКПП A8LR1",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 3,
+        "cat": "transmission"
+      },
+      {
         "sit_id": "genesis_gv70_003",
         "title": "Рывки АКПП 8AT при переключениях в пробке",
         "brand": "hyundai",
@@ -37734,6 +39905,15 @@
         "cat": "transmission"
       },
       {
+        "sit_id": "mercedes_amg_gt_c192_002",
+        "title": "Неисправность мехатроника 9G-TRONIC MCT",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 4,
+        "cat": "transmission"
+      },
+      {
         "sit_id": "merc_a_w177_002",
         "title": "Рывки и пинки при переключении коробки передач 8G-DCT (Getrag)",
         "brand": "mercedes",
@@ -37820,6 +40000,15 @@
         "brand": "mercedes",
         "model": "g_class",
         "generation": "w463_1990",
+        "urg": 3,
+        "cat": "transmission"
+      },
+      {
+        "sit_id": "mercedes_sl_r232_002",
+        "title": "Рывки 9G-TRONIC MCT",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
         "urg": 3,
         "cat": "transmission"
       },
@@ -38105,6 +40294,15 @@
         "cat": "transmission"
       },
       {
+        "sit_id": "genesis_g90_rs4_005",
+        "title": "Рывки и удары при переключении АКПП A8LR1",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 3,
+        "cat": "transmission"
+      },
+      {
         "sit_id": "hyundai_ix35_lm_002",
         "title": "Толчки и пинки АКПП Aisin-6 при переключении",
         "brand": "hyundai",
@@ -38364,6 +40562,15 @@
         "brand": "hyundai",
         "model": "genesis_g80",
         "generation": "rg3_2020",
+        "urg": 3,
+        "cat": "transmission"
+      },
+      {
+        "sit_id": "genesis_g90_rs4_005",
+        "title": "Рывки и удары при переключении АКПП A8LR1",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
         "urg": 3,
         "cat": "transmission"
       },
@@ -38777,6 +40984,15 @@
     ],
     "P0734": [
       {
+        "sit_id": "audi_a8_d5_002",
+        "title": "Износ гидроблока и мехатроника ZF 8HP75/95",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 3,
+        "cat": "transmission"
+      },
+      {
         "sit_id": "bmw_1_f20_003",
         "title": "Рывки АКПП и износ гидроблока (ZF 8HP)",
         "brand": "bmw",
@@ -38869,6 +41085,17 @@
         "cat": "transmission"
       }
     ],
+    "P0736": [
+      {
+        "sit_id": "audi_a8_d5_002",
+        "title": "Износ гидроблока и мехатроника ZF 8HP75/95",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 3,
+        "cat": "transmission"
+      }
+    ],
     "P073C": [
       {
         "sit_id": "audi_q3_8u_004",
@@ -38877,6 +41104,28 @@
         "model": "q3",
         "generation": "8u_2011",
         "urg": 4,
+        "cat": "transmission"
+      }
+    ],
+    "P073E00": [
+      {
+        "sit_id": "bmw_x3_g45_003",
+        "title": "Рывки ZF 8HP при переключении",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 2,
+        "cat": "transmission"
+      }
+    ],
+    "P073F00": [
+      {
+        "sit_id": "bmw_x3_g45_003",
+        "title": "Рывки ZF 8HP при переключении",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 2,
         "cat": "transmission"
       }
     ],
@@ -39430,6 +41679,15 @@
         "cat": "transmission"
       },
       {
+        "sit_id": "mercedes_sl_r232_002",
+        "title": "Рывки 9G-TRONIC MCT",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 3,
+        "cat": "transmission"
+      },
+      {
         "sit_id": "mitsu_pajero_ks_004",
         "title": "Рывки, пинки и пробуксовки АКПП (Aisin 8-ступ.)",
         "brand": "mitsubishi",
@@ -39517,6 +41775,15 @@
         "model": "sandero",
         "generation": "b8_2014",
         "urg": 5,
+        "cat": "transmission"
+      },
+      {
+        "sit_id": "toyota_alphard_ah40_003",
+        "title": "Рывки 8AT Direct Shift",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
+        "urg": 3,
         "cat": "transmission"
       },
       {
@@ -39656,6 +41923,15 @@
         "model": "elantra",
         "generation": "ad_2016",
         "urg": 4,
+        "cat": "transmission"
+      },
+      {
+        "sit_id": "genesis_g90_rs4_005",
+        "title": "Рывки и удары при переключении АКПП A8LR1",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 3,
         "cat": "transmission"
       },
       {
@@ -39893,6 +42169,15 @@
         "cat": "transmission"
       },
       {
+        "sit_id": "mercedes_amg_gt_c192_002",
+        "title": "Неисправность мехатроника 9G-TRONIC MCT",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 4,
+        "cat": "transmission"
+      },
+      {
         "sit_id": "merc_gls_x167_004",
         "title": "Рывки и пинки автоматической коробки 9G-Tronic",
         "brand": "mercedes",
@@ -40120,6 +42405,15 @@
         "cat": "transmission"
       },
       {
+        "sit_id": "toyota_alphard_ah40_003",
+        "title": "Рывки 8AT Direct Shift",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
+        "urg": 3,
+        "cat": "transmission"
+      },
+      {
         "sit_id": "toyota_camry_xv70_8at_shift_shock",
         "title": "Удары и пинки 8-ступенчатого автомата при переключении 1-2-3",
         "brand": "toyota",
@@ -40315,6 +42609,15 @@
     ],
     "P0756": [
       {
+        "sit_id": "audi_a8_d5_002",
+        "title": "Износ гидроблока и мехатроника ZF 8HP75/95",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 3,
+        "cat": "transmission"
+      },
+      {
         "sit_id": "chevy_cruze_j400_001",
         "title": "Износ фрикционов и гидроблока АКПП 6T40 (6T45)",
         "brand": "chevrolet",
@@ -40413,6 +42716,15 @@
         "model": "kuga",
         "generation": "mk2_2013",
         "urg": 4,
+        "cat": "transmission"
+      },
+      {
+        "sit_id": "genesis_g90_rs4_005",
+        "title": "Рывки и удары при переключении АКПП A8LR1",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 3,
         "cat": "transmission"
       },
       {
@@ -40669,6 +42981,15 @@
         "cat": "transmission"
       },
       {
+        "sit_id": "mercedes_sl_r232_002",
+        "title": "Рывки 9G-TRONIC MCT",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 3,
+        "cat": "transmission"
+      },
+      {
         "sit_id": "nissan_murano_z52_008",
         "title": "Неисправность соленоидов гидроблока вариатора",
         "brand": "nissan",
@@ -40711,6 +43032,15 @@
         "model": "alphard",
         "generation": "ah30_2015",
         "urg": 5,
+        "cat": "transmission"
+      },
+      {
+        "sit_id": "toyota_alphard_ah40_003",
+        "title": "Рывки 8AT Direct Shift",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
+        "urg": 3,
         "cat": "transmission"
       },
       {
@@ -41745,6 +44075,15 @@
         "cat": "transmission"
       },
       {
+        "sit_id": "mercedes_amg_gt_c192_002",
+        "title": "Неисправность мехатроника 9G-TRONIC MCT",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 4,
+        "cat": "transmission"
+      },
+      {
         "sit_id": "merc_a_w177_009",
         "title": "Потеря мощности и пробуксовки на 7-ступенчатом роботе Getrag (DCT-7 FWD)",
         "brand": "mercedes",
@@ -42126,6 +44465,28 @@
         "cat": "electrical"
       }
     ],
+    "P0A0B": [
+      {
+        "sit_id": "mercedes_amg_gt_c192_005",
+        "title": "Неисправность ISG (интегрированный стартер-генератор)",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 5,
+        "cat": "electrical"
+      }
+    ],
+    "P0A0C": [
+      {
+        "sit_id": "mercedes_amg_gt_c192_005",
+        "title": "Неисправность ISG (интегрированный стартер-генератор)",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 5,
+        "cat": "electrical"
+      }
+    ],
     "P0A0F": [
       {
         "sit_id": "bmw_i4_006",
@@ -42173,6 +44534,17 @@
         "cat": "electrical"
       }
     ],
+    "P0A10": [
+      {
+        "sit_id": "mercedes_amg_gt_c192_005",
+        "title": "Неисправность ISG (интегрированный стартер-генератор)",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 5,
+        "cat": "electrical"
+      }
+    ],
     "P0A11": [
       {
         "sit_id": "bmw_i5_005",
@@ -42202,6 +44574,15 @@
         "generation": "mv_2023",
         "urg": 2,
         "cat": "transmission"
+      },
+      {
+        "sit_id": "toyota_alphard_ah40_004",
+        "title": "Перегрев инвертора гибридной установки",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
+        "urg": 5,
+        "cat": "cooling"
       }
     ],
     "P0A1F": [
@@ -42344,6 +44725,15 @@
         "model": "ev9",
         "generation": "mv_2023",
         "urg": 5,
+        "cat": "cooling"
+      },
+      {
+        "sit_id": "mercedes_amg_gt_c192_009",
+        "title": "Отказ насоса охлаждения HV-системы",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 4,
         "cat": "cooling"
       },
       {
@@ -42588,6 +44978,15 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "toyota_alphard_ah40_004",
+        "title": "Перегрев инвертора гибридной установки",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
+        "urg": 5,
+        "cat": "cooling"
+      },
+      {
         "sit_id": "toyota_bz4x_001",
         "title": "Деградация HV-батареи и снижение запаса хода",
         "brand": "toyota",
@@ -42720,6 +45119,15 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "genesis_g90_rs4_003",
+        "title": "Неисправность 48V MHEV системы",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "kia_ev6_005",
         "title": "Перегрев порта DC-зарядки и ограничение скорости",
         "brand": "kia",
@@ -42753,6 +45161,15 @@
         "model": "es",
         "generation": "xv70_2018",
         "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "mercedes_amg_gt_c192_001",
+        "title": "Деградация HV батареи E PERFORMANCE",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 4,
         "cat": "electrical"
       },
       {
@@ -42828,6 +45245,15 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "toyota_alphard_ah40_001",
+        "title": "Деградация тяговой батареи гибрида A25A-FXS",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "toyota_sienta_002",
         "title": "Деградация гибридной батареи (NiMH/LFP)",
         "brand": "toyota",
@@ -42847,6 +45273,15 @@
       }
     ],
     "P0A80": [
+      {
+        "sit_id": "audi_a8_d5_001",
+        "title": "Деградация АКБ 48V MHEV",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 4,
+        "cat": "electrical"
+      },
       {
         "sit_id": "audi_e_tron_gt_001",
         "title": "Дисбаланс ячеек высоковольтной батареи 93.4 кВт·ч",
@@ -42956,6 +45391,15 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "genesis_g90_rs4_003",
+        "title": "Неисправность 48V MHEV системы",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "hyundai_ioniq5_001",
         "title": "Деградация HV-батареи и потеря запаса хода",
         "brand": "hyundai",
@@ -43046,6 +45490,15 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "mercedes_amg_gt_c192_001",
+        "title": "Деградация HV батареи E PERFORMANCE",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "merc_c_w205_003",
         "title": "Сбои микрогибридной системы EQ Boost 48V и отказ ISG (двигатель M264)",
         "brand": "mercedes",
@@ -43097,6 +45550,15 @@
         "model": "e_class",
         "generation": "w213_2016",
         "urg": 5,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "mercedes_sl_r232_009",
+        "title": "Неисправность 48V MHEV системы на SL 43",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 4,
         "cat": "electrical"
       },
       {
@@ -43159,6 +45621,15 @@
         "brand": "toyota",
         "model": "alphard",
         "generation": "ah30_2015",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "toyota_alphard_ah40_001",
+        "title": "Деградация тяговой батареи гибрида A25A-FXS",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
         "urg": 4,
         "cat": "electrical"
       },
@@ -43246,6 +45717,15 @@
         "generation": "cv_2021",
         "urg": 3,
         "cat": "cooling"
+      },
+      {
+        "sit_id": "mercedes_amg_gt_c192_009",
+        "title": "Отказ насоса охлаждения HV-системы",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 4,
+        "cat": "cooling"
       }
     ],
     "P0A8100": [
@@ -43294,6 +45774,15 @@
         "model": "ev6",
         "generation": "cv_2021",
         "urg": 3,
+        "cat": "cooling"
+      },
+      {
+        "sit_id": "mercedes_amg_gt_c192_009",
+        "title": "Отказ насоса охлаждения HV-системы",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 4,
         "cat": "cooling"
       },
       {
@@ -43641,6 +46130,15 @@
         "cat": "cooling"
       },
       {
+        "sit_id": "toyota_alphard_ah40_004",
+        "title": "Перегрев инвертора гибридной установки",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
+        "urg": 5,
+        "cat": "cooling"
+      },
+      {
         "sit_id": "toyota_bz4x_007",
         "title": "Некорректная работа теплового насоса при морозе ниже -15°C",
         "brand": "toyota",
@@ -43651,6 +46149,15 @@
       }
     ],
     "P0A94": [
+      {
+        "sit_id": "audi_a8_d5_001",
+        "title": "Деградация АКБ 48V MHEV",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 4,
+        "cat": "electrical"
+      },
       {
         "sit_id": "audi_e_tron_gt_002",
         "title": "Износ подшипников переднего электромотора",
@@ -43724,6 +46231,15 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "mercedes_amg_gt_c192_005",
+        "title": "Неисправность ISG (интегрированный стартер-генератор)",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 5,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "mercedes_eqe_007",
         "title": "Неисправность заднего электромотора или инвертера",
         "brand": "mercedes",
@@ -43776,6 +46292,15 @@
         "generation": "t33_2022",
         "urg": 2,
         "cat": "transmission"
+      },
+      {
+        "sit_id": "toyota_alphard_ah40_004",
+        "title": "Перегрев инвертора гибридной установки",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
+        "urg": 5,
+        "cat": "cooling"
       },
       {
         "sit_id": "toyota_sienta_006",
@@ -43968,6 +46493,15 @@
     ],
     "P0AC0": [
       {
+        "sit_id": "audi_a8_d5_001",
+        "title": "Деградация АКБ 48V MHEV",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "bmw_ix_010",
         "title": "Течь антифриза охлаждающего контура батареи",
         "brand": "bmw",
@@ -43983,6 +46517,15 @@
         "model": "ix3",
         "generation": "g08_2020",
         "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "genesis_g90_rs4_003",
+        "title": "Неисправность 48V MHEV системы",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 3,
         "cat": "electrical"
       },
       {
@@ -44162,6 +46705,15 @@
     ],
     "P0AE6": [
       {
+        "sit_id": "audi_a8_d5_001",
+        "title": "Деградация АКБ 48V MHEV",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "audi_e_tron_gt_008",
         "title": "Приваривание высоковольтных контакторов батареи",
         "brand": "audi",
@@ -44200,6 +46752,26 @@
         "generation": "g08_2020",
         "urg": 5,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "toyota_alphard_ah40_001",
+        "title": "Деградация тяговой батареи гибрида A25A-FXS",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
+        "urg": 4,
+        "cat": "electrical"
+      }
+    ],
+    "P0AEC": [
+      {
+        "sit_id": "mercedes_amg_gt_c192_009",
+        "title": "Отказ насоса охлаждения HV-системы",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 4,
+        "cat": "cooling"
       }
     ],
     "P0AEE": [
@@ -44225,6 +46797,15 @@
       }
     ],
     "P0AFA": [
+      {
+        "sit_id": "audi_a8_d5_001",
+        "title": "Деградация АКБ 48V MHEV",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 4,
+        "cat": "electrical"
+      },
       {
         "sit_id": "audi_e_tron_gt_001",
         "title": "Дисбаланс ячеек высоковольтной батареи 93.4 кВт·ч",
@@ -44276,6 +46857,15 @@
         "brand": "byd",
         "model": "tang",
         "generation": "tang_2018",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "genesis_g90_rs4_003",
+        "title": "Неисправность 48V MHEV системы",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
         "urg": 3,
         "cat": "electrical"
       },
@@ -44334,6 +46924,15 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "mercedes_amg_gt_c192_001",
+        "title": "Деградация HV батареи E PERFORMANCE",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "merc_c_w205_003",
         "title": "Сбои микрогибридной системы EQ Boost 48V и отказ ISG (двигатель M264)",
         "brand": "mercedes",
@@ -44370,6 +46969,15 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "mercedes_sl_r232_009",
+        "title": "Неисправность 48V MHEV системы на SL 43",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "tesla_m3_002",
         "title": "Деградация высоковольтной батареи (потеря запаса хода)",
         "brand": "tesla",
@@ -44385,6 +46993,15 @@
         "model": "model_y",
         "generation": "my_2020",
         "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "toyota_alphard_ah40_001",
+        "title": "Деградация тяговой батареи гибрида A25A-FXS",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
+        "urg": 4,
         "cat": "electrical"
       },
       {
@@ -44419,7 +47036,27 @@
         "cat": "electrical"
       }
     ],
+    "P0AFB": [
+      {
+        "sit_id": "mercedes_sl_r232_009",
+        "title": "Неисправность 48V MHEV системы на SL 43",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 4,
+        "cat": "electrical"
+      }
+    ],
     "P0B00": [
+      {
+        "sit_id": "mercedes_sl_r232_009",
+        "title": "Неисправность 48V MHEV системы на SL 43",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 4,
+        "cat": "electrical"
+      },
       {
         "sit_id": "toyota_sienta_006",
         "title": "Ошибки инвертора гибридной системы (P0B00)",
@@ -44469,6 +47106,26 @@
         "model": "e_tron_gt",
         "generation": "f83_2020",
         "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "mercedes_sl_r232_009",
+        "title": "Неисправность 48V MHEV системы на SL 43",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 4,
+        "cat": "electrical"
+      }
+    ],
+    "P0B3C": [
+      {
+        "sit_id": "mercedes_sl_r232_009",
+        "title": "Неисправность 48V MHEV системы на SL 43",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 4,
         "cat": "electrical"
       }
     ],
@@ -45025,6 +47682,17 @@
         "cat": "engine"
       }
     ],
+    "P110100": [
+      {
+        "sit_id": "bmw_x3_g45_002",
+        "title": "Потеря давления наддува B48",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 3,
+        "cat": "engine"
+      }
+    ],
     "P110F": [
       {
         "sit_id": "audi_a4_b9_010",
@@ -45098,6 +47766,17 @@
         "generation": "g05_2018",
         "urg": 5,
         "cat": "engine"
+      }
+    ],
+    "P118800": [
+      {
+        "sit_id": "bmw_x3_g45_007",
+        "title": "Неисправность ТНВД B48/B58",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 4,
+        "cat": "fuel"
       }
     ],
     "P1189": [
@@ -45246,6 +47925,28 @@
         "cat": "engine"
       }
     ],
+    "P11DC00": [
+      {
+        "sit_id": "bmw_x3_g45_002",
+        "title": "Потеря давления наддува B48",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 3,
+        "cat": "engine"
+      }
+    ],
+    "P11DC01": [
+      {
+        "sit_id": "bmw_x3_g45_002",
+        "title": "Потеря давления наддува B48",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 3,
+        "cat": "engine"
+      }
+    ],
     "P1250": [
       {
         "sit_id": "mitsu_pajero_ks_010",
@@ -45290,6 +47991,28 @@
         "cat": "cooling"
       }
     ],
+    "P129000": [
+      {
+        "sit_id": "bmw_x3_g45_007",
+        "title": "Неисправность ТНВД B48/B58",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 4,
+        "cat": "fuel"
+      }
+    ],
+    "P129100": [
+      {
+        "sit_id": "bmw_x3_g45_007",
+        "title": "Неисправность ТНВД B48/B58",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 4,
+        "cat": "fuel"
+      }
+    ],
     "P1299": [
       {
         "sit_id": "ford_kuga_mk2_001",
@@ -45299,6 +48022,39 @@
         "generation": "mk2_2013",
         "urg": 5,
         "cat": "cooling"
+      }
+    ],
+    "P129A": [
+      {
+        "sit_id": "mercedes_sl_r232_006",
+        "title": "Отказ ТНВД на M139 2.0T (SL 43)",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 4,
+        "cat": "fuel"
+      }
+    ],
+    "P129B": [
+      {
+        "sit_id": "mercedes_sl_r232_006",
+        "title": "Отказ ТНВД на M139 2.0T (SL 43)",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 4,
+        "cat": "fuel"
+      }
+    ],
+    "P129C": [
+      {
+        "sit_id": "mercedes_sl_r232_006",
+        "title": "Отказ ТНВД на M139 2.0T (SL 43)",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 4,
+        "cat": "fuel"
       }
     ],
     "P129F": [
@@ -45419,6 +48175,15 @@
       }
     ],
     "P13DF": [
+      {
+        "sit_id": "audi_a8_d5_006",
+        "title": "Отказ AdBlue и SCR-катализатора 3.0 TDI",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 5,
+        "cat": "engine"
+      },
       {
         "sit_id": "merc_e_w213_005",
         "title": "Кристаллизация AdBlue и выход из строя системы SCR (дизель OM654)",
@@ -45761,6 +48526,15 @@
     ],
     "P1730": [
       {
+        "sit_id": "genesis_g90_rs4_002",
+        "title": "Неисправность раздаточной коробки HTRAC AWD",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 4,
+        "cat": "chassis"
+      },
+      {
         "sit_id": "kia_mohave_hm_005",
         "title": "Гул и утечка масла из раздаточной коробки (TOD)",
         "brand": "kia",
@@ -45877,6 +48651,15 @@
         "cat": "transmission"
       },
       {
+        "sit_id": "mercedes_sl_r232_003",
+        "title": "Гул и вибрация 4MATIC+",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 3,
+        "cat": "chassis"
+      },
+      {
         "sit_id": "skoda_superb_3v_001",
         "title": "Износ сцепления и мехатроника DSG-7 DQ381",
         "brand": "skoda",
@@ -45892,6 +48675,17 @@
         "model": "tiguan",
         "generation": "nf_2021",
         "urg": 4,
+        "cat": "transmission"
+      }
+    ],
+    "P173400": [
+      {
+        "sit_id": "bmw_x3_g45_003",
+        "title": "Рывки ZF 8HP при переключении",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 2,
         "cat": "transmission"
       }
     ],
@@ -45921,6 +48715,17 @@
         "model": "touareg",
         "generation": "cr_2018",
         "urg": 3,
+        "cat": "transmission"
+      }
+    ],
+    "P173500": [
+      {
+        "sit_id": "bmw_x3_g45_003",
+        "title": "Рывки ZF 8HP при переключении",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 2,
         "cat": "transmission"
       }
     ],
@@ -46034,6 +48839,15 @@
         "cat": "transmission"
       },
       {
+        "sit_id": "genesis_g90_rs4_002",
+        "title": "Неисправность раздаточной коробки HTRAC AWD",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 4,
+        "cat": "chassis"
+      },
+      {
         "sit_id": "hyundai_ix35_lm_003",
         "title": "Отказ муфты полного привода AWD",
         "brand": "hyundai",
@@ -46097,6 +48911,15 @@
         "cat": "chassis"
       },
       {
+        "sit_id": "mercedes_sl_r232_003",
+        "title": "Гул и вибрация 4MATIC+",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 3,
+        "cat": "chassis"
+      },
+      {
         "sit_id": "renault_arkana_006",
         "title": "Перегрев и износ муфты полного привода (AWD)",
         "brand": "renault",
@@ -46113,6 +48936,17 @@
         "generation": "lc_2015",
         "urg": 4,
         "cat": "chassis"
+      }
+    ],
+    "P173600": [
+      {
+        "sit_id": "bmw_x3_g45_003",
+        "title": "Рывки ZF 8HP при переключении",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 2,
+        "cat": "transmission"
       }
     ],
     "P1737": [
@@ -46215,6 +49049,39 @@
         "cat": "chassis"
       }
     ],
+    "P173B00": [
+      {
+        "sit_id": "bmw_x3_g45_004",
+        "title": "Неисправность раздаточной коробки xDrive",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 3,
+        "cat": "chassis"
+      }
+    ],
+    "P173C00": [
+      {
+        "sit_id": "bmw_x3_g45_004",
+        "title": "Неисправность раздаточной коробки xDrive",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 3,
+        "cat": "chassis"
+      }
+    ],
+    "P173D00": [
+      {
+        "sit_id": "bmw_x3_g45_004",
+        "title": "Неисправность раздаточной коробки xDrive",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 3,
+        "cat": "chassis"
+      }
+    ],
     "P173E": [
       {
         "sit_id": "audi_a3_8v_002",
@@ -46293,6 +49160,15 @@
         "cat": "transmission"
       },
       {
+        "sit_id": "audi_a8_d5_002",
+        "title": "Износ гидроблока и мехатроника ZF 8HP75/95",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 3,
+        "cat": "transmission"
+      },
+      {
         "sit_id": "audi_q5_8r_001",
         "title": "Износ пакета сцеплений и сбой мехатроника S tronic DL501",
         "brand": "audi",
@@ -46326,6 +49202,15 @@
         "model": "gle",
         "generation": "w166_2011",
         "urg": 4,
+        "cat": "chassis"
+      },
+      {
+        "sit_id": "mercedes_sl_r232_003",
+        "title": "Гул и вибрация 4MATIC+",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 3,
         "cat": "chassis"
       },
       {
@@ -46389,6 +49274,15 @@
         "generation": "f25_2010",
         "urg": 4,
         "cat": "transmission"
+      },
+      {
+        "sit_id": "mercedes_sl_r232_003",
+        "title": "Гул и вибрация 4MATIC+",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 3,
+        "cat": "chassis"
       }
     ],
     "P1746": [
@@ -47671,6 +50565,39 @@
         "cat": "transmission"
       }
     ],
+    "P17F200": [
+      {
+        "sit_id": "bmw_x3_g45_003",
+        "title": "Рывки ZF 8HP при переключении",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 2,
+        "cat": "transmission"
+      }
+    ],
+    "P17F300": [
+      {
+        "sit_id": "bmw_x3_g45_004",
+        "title": "Неисправность раздаточной коробки xDrive",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 3,
+        "cat": "chassis"
+      }
+    ],
+    "P17F400": [
+      {
+        "sit_id": "bmw_x3_g45_004",
+        "title": "Неисправность раздаточной коробки xDrive",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 3,
+        "cat": "chassis"
+      }
+    ],
     "P17F5": [
       {
         "sit_id": "porsche_cayenne_9ya_003",
@@ -47689,6 +50616,26 @@
         "generation": "95b_2014",
         "urg": 4,
         "cat": "transmission"
+      }
+    ],
+    "P17F500": [
+      {
+        "sit_id": "bmw_x3_g45_003",
+        "title": "Рывки ZF 8HP при переключении",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 2,
+        "cat": "transmission"
+      },
+      {
+        "sit_id": "bmw_x3_g45_004",
+        "title": "Неисправность раздаточной коробки xDrive",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 3,
+        "cat": "chassis"
       }
     ],
     "P17F6": [
@@ -47826,6 +50773,15 @@
     ],
     "P1876": [
       {
+        "sit_id": "mercedes_amg_gt_c192_003",
+        "title": "Износ раздаточной коробки 4MATIC+",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 3,
+        "cat": "chassis"
+      },
+      {
         "sit_id": "merc_gla_h247_006",
         "title": "Ошибки системы 4MATIC и вибрация при полном приводе",
         "brand": "mercedes",
@@ -47862,6 +50818,17 @@
         "cat": "chassis"
       }
     ],
+    "P1877": [
+      {
+        "sit_id": "mercedes_amg_gt_c192_003",
+        "title": "Износ раздаточной коробки 4MATIC+",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 3,
+        "cat": "chassis"
+      }
+    ],
     "P187A": [
       {
         "sit_id": "audi_q8_4m_009",
@@ -47892,6 +50859,17 @@
         "model": "range_rover_sport",
         "generation": "l494_2013",
         "urg": 4,
+        "cat": "chassis"
+      }
+    ],
+    "P1882": [
+      {
+        "sit_id": "mercedes_amg_gt_c192_003",
+        "title": "Износ раздаточной коробки 4MATIC+",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 3,
         "cat": "chassis"
       }
     ],
@@ -49016,6 +51994,17 @@
         "cat": "electrical"
       }
     ],
+    "P203B": [
+      {
+        "sit_id": "audi_a8_d5_006",
+        "title": "Отказ AdBlue и SCR-катализатора 3.0 TDI",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 5,
+        "cat": "engine"
+      }
+    ],
     "P204700": [
       {
         "sit_id": "audi_rs6_c8_008",
@@ -49038,6 +52027,17 @@
         "cat": "engine"
       }
     ],
+    "P204E00": [
+      {
+        "sit_id": "bmw_x3_g45_008",
+        "title": "Неисправность системы SCR/AdBlue",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 4,
+        "cat": "engine"
+      }
+    ],
     "P204F": [
       {
         "sit_id": "audi_a6_c7_005",
@@ -49047,6 +52047,15 @@
         "generation": "c7_2011",
         "urg": 4,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "audi_a8_d5_006",
+        "title": "Отказ AdBlue и SCR-катализатора 3.0 TDI",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 5,
+        "cat": "engine"
       },
       {
         "sit_id": "bmw_x4_g02_007",
@@ -49076,13 +52085,55 @@
         "cat": "engine"
       }
     ],
+    "P204F00": [
+      {
+        "sit_id": "bmw_x3_g45_008",
+        "title": "Неисправность системы SCR/AdBlue",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 4,
+        "cat": "engine"
+      }
+    ],
     "P205B": [
+      {
+        "sit_id": "audi_a8_d5_006",
+        "title": "Отказ AdBlue и SCR-катализатора 3.0 TDI",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 5,
+        "cat": "engine"
+      },
       {
         "sit_id": "bmw_x5_g05_008",
         "title": "Проблемы системы SCR (AdBlue) на дизеле B57D30 в морозы",
         "brand": "bmw",
         "model": "x5",
         "generation": "g05_2018",
+        "urg": 4,
+        "cat": "engine"
+      }
+    ],
+    "P205B00": [
+      {
+        "sit_id": "bmw_x3_g45_008",
+        "title": "Неисправность системы SCR/AdBlue",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 4,
+        "cat": "engine"
+      }
+    ],
+    "P205C00": [
+      {
+        "sit_id": "bmw_x3_g45_008",
+        "title": "Неисправность системы SCR/AdBlue",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
         "urg": 4,
         "cat": "engine"
       }
@@ -49109,7 +52160,27 @@
         "cat": "engine"
       }
     ],
+    "P207F00": [
+      {
+        "sit_id": "bmw_x3_g45_008",
+        "title": "Неисправность системы SCR/AdBlue",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 4,
+        "cat": "engine"
+      }
+    ],
     "P2096": [
+      {
+        "sit_id": "genesis_g90_rs4_009",
+        "title": "Деградация катализаторов V6 3.5T",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 2,
+        "cat": "engine"
+      },
       {
         "sit_id": "merc_gls_x167_009",
         "title": "Неисправность электропривода крышки багажника и сидений 7-го ряда",
@@ -49118,6 +52189,17 @@
         "generation": "x167_2019",
         "urg": 2,
         "cat": "body"
+      }
+    ],
+    "P2097": [
+      {
+        "sit_id": "genesis_g90_rs4_009",
+        "title": "Деградация катализаторов V6 3.5T",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 2,
+        "cat": "engine"
       }
     ],
     "P20E8": [
@@ -49152,6 +52234,15 @@
       }
     ],
     "P20EE": [
+      {
+        "sit_id": "audi_a8_d5_006",
+        "title": "Отказ AdBlue и SCR-катализатора 3.0 TDI",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 5,
+        "cat": "engine"
+      },
       {
         "sit_id": "bmw_5_f10_006",
         "title": "Забитый сажевый фильтр (DPF) и отказ системы SCR на двигателе N57D30",
@@ -49269,6 +52360,15 @@
         "model": "rs6",
         "generation": "c8_2019",
         "urg": 3,
+        "cat": "engine"
+      },
+      {
+        "sit_id": "bmw_x3_g45_008",
+        "title": "Неисправность системы SCR/AdBlue",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 4,
         "cat": "engine"
       }
     ],
@@ -49613,6 +52713,15 @@
         "generation": "c8_2019",
         "urg": 3,
         "cat": "engine"
+      },
+      {
+        "sit_id": "bmw_x3_g45_008",
+        "title": "Неисправность системы SCR/AdBlue",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 4,
+        "cat": "engine"
       }
     ],
     "P2201": [
@@ -49653,6 +52762,15 @@
         "generation": "c8_2019",
         "urg": 3,
         "cat": "engine"
+      },
+      {
+        "sit_id": "bmw_x3_g45_008",
+        "title": "Неисправность системы SCR/AdBlue",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 4,
+        "cat": "engine"
       }
     ],
     "P2202": [
@@ -49664,6 +52782,15 @@
         "generation": "c7_2011",
         "urg": 4,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "audi_a8_d5_006",
+        "title": "Отказ AdBlue и SCR-катализатора 3.0 TDI",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 5,
+        "cat": "engine"
       },
       {
         "sit_id": "bmw_3_f30_004",
@@ -49735,6 +52862,17 @@
         "cat": "engine"
       }
     ],
+    "P2205": [
+      {
+        "sit_id": "audi_a8_d5_006",
+        "title": "Отказ AdBlue и SCR-катализатора 3.0 TDI",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 5,
+        "cat": "engine"
+      }
+    ],
     "P2260": [
       {
         "sit_id": "bmw_x3_f25_007",
@@ -49802,9 +52940,36 @@
         "generation": "rg3_2020",
         "urg": 4,
         "cat": "engine"
+      },
+      {
+        "sit_id": "genesis_g90_rs4_006",
+        "title": "Дребезг турбокомпрессоров 2.5T и 3.5T",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 2,
+        "cat": "engine"
+      },
+      {
+        "sit_id": "mercedes_sl_r232_001",
+        "title": "Стук турбокомпрессоров M177 при холодном пуске",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 3,
+        "cat": "engine"
       }
     ],
     "P2263": [
+      {
+        "sit_id": "mercedes_amg_gt_c192_004",
+        "title": "Стук вестгейта турбокомпрессоров M177",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 3,
+        "cat": "engine"
+      },
       {
         "sit_id": "volvo_xc60_su_003",
         "title": "Потеря динамики и ошибки системы PowerPulse (Дизель D5 235 л.с.)",
@@ -49824,6 +52989,17 @@
         "generation": "lc_2015",
         "urg": 5,
         "cat": "brakes"
+      }
+    ],
+    "P228C": [
+      {
+        "sit_id": "genesis_g90_rs4_007",
+        "title": "Отказ ТНВД на GDI",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 4,
+        "cat": "fuel"
       }
     ],
     "P228D": [
@@ -50490,6 +53666,15 @@
         "cat": "transmission"
       },
       {
+        "sit_id": "toyota_alphard_ah40_003",
+        "title": "Рывки 8AT Direct Shift",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
+        "urg": 3,
+        "cat": "transmission"
+      },
+      {
         "sit_id": "toyota_camry_v50_6at_jerk_cold",
         "title": "Толчки и задержки 6-ступенчатого автомата A760E при холодном пуске",
         "brand": "toyota",
@@ -50507,6 +53692,17 @@
         "model": "lx",
         "generation": "j300_2021",
         "urg": 2,
+        "cat": "transmission"
+      }
+    ],
+    "P2716": [
+      {
+        "sit_id": "mercedes_sl_r232_002",
+        "title": "Рывки 9G-TRONIC MCT",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 3,
         "cat": "transmission"
       }
     ],
@@ -50534,12 +53730,32 @@
     ],
     "P2767": [
       {
+        "sit_id": "mercedes_amg_gt_c192_002",
+        "title": "Неисправность мехатроника 9G-TRONIC MCT",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 4,
+        "cat": "transmission"
+      },
+      {
         "sit_id": "merc_c_w205_002",
         "title": "Неисправность электронной платы управления АКПП (кондуктор-пластина)",
         "brand": "mercedes",
         "model": "c_class",
         "generation": "w205_2014",
         "urg": 4,
+        "cat": "transmission"
+      }
+    ],
+    "P2769": [
+      {
+        "sit_id": "toyota_alphard_ah40_003",
+        "title": "Рывки 8AT Direct Shift",
+        "brand": "toyota",
+        "model": "alphard",
+        "generation": "ah40_2023",
+        "urg": 3,
         "cat": "transmission"
       }
     ],
@@ -51669,6 +54885,15 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "genesis_g90_rs4_003",
+        "title": "Неисправность 48V MHEV системы",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "hyundai_ioniq5_004",
         "title": "Ghost touch и зависание 12.3\" инфотейнмент системы",
         "brand": "hyundai",
@@ -52029,6 +55254,15 @@
         "cat": "brakes"
       },
       {
+        "sit_id": "mercedes_sl_r232_005",
+        "title": "Проседание активной подвески AMG ACTIVE RIDE",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 4,
+        "cat": "chassis"
+      },
+      {
         "sit_id": "merc_vclass_w447_009",
         "title": "Сбои мультимедийной системы Comand Online (зависания, чёрный экран)",
         "brand": "mercedes",
@@ -52249,6 +55483,15 @@
         "cat": "transmission"
       },
       {
+        "sit_id": "genesis_g90_rs4_002",
+        "title": "Неисправность раздаточной коробки HTRAC AWD",
+        "brand": "hyundai",
+        "model": "genesis_g90",
+        "generation": "rs4_2022",
+        "urg": 4,
+        "cat": "chassis"
+      },
+      {
         "sit_id": "jeep_compass_mp_004",
         "title": "Отказ датчика дождя и зависание UConnect 8.4A на морозе",
         "brand": "jeep",
@@ -52282,6 +55525,15 @@
         "model": "cla",
         "generation": "c117_2013",
         "urg": 5,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "mercedes_sl_r232_009",
+        "title": "Неисправность 48V MHEV системы на SL 43",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 4,
         "cat": "electrical"
       },
       {
@@ -52510,6 +55762,15 @@
         "generation": "w212_2009",
         "urg": 3,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "mercedes_sl_r232_007",
+        "title": "Неисправность системы подруливания задней оси",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 4,
+        "cat": "chassis"
       },
       {
         "sit_id": "mitsu_outlander_gf_004",
@@ -53016,6 +56277,15 @@
         "model": "gls",
         "generation": "x166_2012",
         "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "mercedes_sl_r232_009",
+        "title": "Неисправность 48V MHEV системы на SL 43",
+        "brand": "mercedes",
+        "model": "sl",
+        "generation": "r232_2021",
+        "urg": 4,
         "cat": "electrical"
       },
       {
@@ -54361,6 +57631,28 @@
         "cat": "electrical"
       }
     ],
+    "U0447": [
+      {
+        "sit_id": "mercedes_amg_gt_c192_005",
+        "title": "Неисправность ISG (интегрированный стартер-генератор)",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 5,
+        "cat": "electrical"
+      }
+    ],
+    "U0467": [
+      {
+        "sit_id": "mercedes_amg_gt_c192_001",
+        "title": "Деградация HV батареи E PERFORMANCE",
+        "brand": "mercedes",
+        "model": "amg_gt",
+        "generation": "c192_2023",
+        "urg": 4,
+        "cat": "electrical"
+      }
+    ],
     "U0515": [
       {
         "sit_id": "ford_focus_mk3_007",
@@ -54746,6 +58038,24 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "audi_a8_d5_007",
+        "title": "Отказ блока управления Matrix LED",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "audi_a8_d5_008",
+        "title": "Люфт и стук рулевой рейки EPS",
+        "brand": "audi",
+        "model": "a8",
+        "generation": "d5_2017",
+        "urg": 4,
+        "cat": "chassis"
+      },
+      {
         "sit_id": "audi_q7_4m_006",
         "title": "Зависание и черный экран MMI / Virtual Cockpit",
         "brand": "audi",
@@ -54880,6 +58190,17 @@
         "cat": "engine"
       }
     ],
+    "U112787": [
+      {
+        "sit_id": "bmw_x3_g45_001",
+        "title": "Неисправность системы мягкого гибрида 48V (BSG)",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 3,
+        "cat": "electrical"
+      }
+    ],
     "U113100": [
       {
         "sit_id": "bmw_i5_004",
@@ -54888,6 +58209,39 @@
         "model": "i5",
         "generation": "g60_2023",
         "urg": 4,
+        "cat": "electrical"
+      }
+    ],
+    "U113300": [
+      {
+        "sit_id": "bmw_x3_g45_001",
+        "title": "Неисправность системы мягкого гибрида 48V (BSG)",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 3,
+        "cat": "electrical"
+      }
+    ],
+    "U11B200": [
+      {
+        "sit_id": "bmw_x3_g45_001",
+        "title": "Неисправность системы мягкого гибрида 48V (BSG)",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 3,
+        "cat": "electrical"
+      }
+    ],
+    "U11B587": [
+      {
+        "sit_id": "bmw_x3_g45_001",
+        "title": "Неисправность системы мягкого гибрида 48V (BSG)",
+        "brand": "bmw",
+        "model": "x3",
+        "generation": "g45_2024",
+        "urg": 3,
         "cat": "electrical"
       }
     ],
