@@ -19,7 +19,8 @@
     ],
     "price_range": "35 000-180 000 руб.",
     "mileage_range": "70 000-140 000 км",
-    "content_type": "diagnostic"
+    "content_type": "full_article",
+    "full_article_path": "_articles/hyundai_santa_fe_tm_001.md"
   },
   {
     "id": "hyundai_santa_fe_tm_002",

@@ -18,7 +18,8 @@
     ],
     "price_range": "15000-150000 руб.",
     "mileage_range": "60000-150000 км",
-    "content_type": "diagnostic"
+    "content_type": "full_article",
+    "full_article_path": "_articles/nissan_qashqai_j11_cvt_overheat.md"
   },
   {
     "id": "nissan_qashqai_j11_12t_chain",
