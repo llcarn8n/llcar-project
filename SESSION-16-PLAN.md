@@ -29,6 +29,75 @@
 
 ---
 
+## Приоритет 0 — Fix 3D scene visibility на llcar.ru/v3 (БЛОКЕР, 2-4 часа)
+
+**Проблема:** при открытии https://llcar.ru/v3 3D-сцена практически не видна — на экране видны только легенды/подписи, сама сцена тёмная/прозрачная/off-screen. Это критично: первое впечатление посетителя — "сайт сломан".
+
+**Цель:** сцена должна быть читаемой, контрастной, сразу видимой при загрузке без манипуляций.
+
+### 0.1 Visual diagnosis через GLM 5V Turbo
+
+Подключить `mcp__glm-vision__analyze_design` и `mcp__glm-vision__find_visual_bugs` к production скриншоту:
+
+```bash
+# 1. Снять production скриншот
+# (через Playwright: browser_navigate → https://llcar.ru/v3, browser_take_screenshot)
+
+# 2. Прогнать через GLM 5V:
+#    - analyze_design: понять что видно, что нет, как выглядит hierarchy
+#    - find_visual_bugs: конкретные проблемы (contrast, z-index, opacity, size)
+```
+
+**Чек-лист анализа GLM:**
+- ☐ Что реально рендерится в viewport (3D canvas или пустота)
+- ☐ Контрастность легенд vs фона
+- ☐ Есть ли cyan glow / orbs / acceleration waves
+- ☐ Позиция камеры / scale / FOV
+- ☐ Opacity материалов (не прозрачные ли объекты)
+- ☐ Баги освещения (ambient/directional)
+
+### 0.2 Локальная репродукция
+
+```bash
+cd llcar-dashboard
+npm run dev
+# открыть http://localhost:5173/v3 с DevTools
+# Snapshot через Playwright: browser_evaluate для canvas dimensions
+# Network: проверить что шейдеры/текстуры грузятся (не 404)
+```
+
+Сравнить dev vs prod через скриншоты. Если dev OK но prod сломан — проблема в build/bundler (tree-shaking three.js, пропавшие assets).
+
+### 0.3 Типичные причины (проверить по порядку)
+
+1. **Canvas без размеров** — `<Canvas>` без height/width, потому рендерится 0x0
+2. **Camera far plane / position** — камера слишком далеко / близко / внутри объекта
+3. **Material transparency=true + opacity=0** после build optimize
+4. **Lighting** — нет directionalLight или intensity 0
+5. **Background color** — сцена с тёмным bg на тёмном CSS, сливается
+6. **Z-index UI** — HUD легенды перекрывают canvas
+7. **requestAnimationFrame** не стартует из-за lazy mount
+8. **Assets 404** — текстуры/glTF не в dist после build
+
+### 0.4 Fix
+
+По результатам GLM-анализа и локальной репро применить точечные правки:
+- `llcar-dashboard/src/pages/V3.tsx` / главный canvas
+- `llcar-dashboard/src/components/three/*` (AccelWaves, Scene, Lighting)
+- `llcar-dashboard/src/styles/*` — z-index / backdrop
+- `vite.config.ts` — public path / assetsInclude для .glb/.hdr
+
+### 0.5 Верификация
+
+1. `npm run build && npm run preview` — сцена видна локально
+2. Deploy на сервер (P8 частично) — сцена видна на llcar.ru/v3
+3. Повторный GLM 5V анализ production — подтвердить что читаемость OK
+4. Screenshot до/после — приложить к коммиту
+
+**Коммит:** `fix(v3): S16 P0 — restore 3D scene visibility на llcar.ru/v3 (GLM visual QA)`.
+
+---
+
 ## Приоритет 1 — Visual QA и Build (КРИТИЧНО, 2-3 часа)
 
 Прежде чем добавлять новые фичи, нужно убедиться что текущие работают визуально.
@@ -475,22 +544,27 @@ git commit -m "docs: Session 16 COMPLETE handoff"
 
 ## Порядок выполнения (3-дневный план)
 
-### День 1 (8 часов) — Критичные интеграции
-1. **P1** Visual QA + build (2 ч)
-2. **P2** DtcSearch integration (4 ч)
-3. **P3** Schema issues fix (2 ч)
+### День 1 (8 часов) — БЛОКЕР + критичные интеграции
+1. **P0** Fix 3D scene visibility на llcar.ru/v3 (2-4 ч) — **ПЕРВЫМ ДЕЛОМ**
+   - Playwright скриншот prod → GLM 5V analyze_design + find_visual_bugs
+   - Локальная репро + сравнение dev vs prod
+   - Point-fix + build + deploy + re-screenshot + GLM re-verify
+2. **P1** Visual QA + build SituationsList/QualityBadge/FullArticle (2 ч)
+3. **P2** DtcSearch integration (3 ч, если время остаётся — иначе в День 2)
 4. Коммит всё
 
 ### День 2 (8 часов) — Расширение и тесты
-5. **P4** Verifier в фоне (запустить, проверять каждые 2 ч)
-6. **P5** +30 full articles batch 11-16 (6 ч)
-7. **P7** E2E tests (2 ч)
-8. Коммит
+5. **P2** DtcSearch integration (если не сделан в День 1, 3-4 ч)
+6. **P3** Schema issues fix (2 ч)
+7. **P4** Verifier в фоне (запустить параллельно, проверять каждые 2 ч)
+8. **P7** E2E tests (2 ч) — добавить smoke-тест на `/v3` видимость canvas
+9. Коммит
 
 ### День 3 (6 часов) — Продакшн
-9. **P8** Server deploy (3 ч)
-10. **P6** YouTube (3 ч — может перенестись в S17)
-11. **P9** Memory + handoff (30 мин)
+10. **P5** +30 full articles batch 11-16 (4-6 ч, если успеваем — иначе в S17)
+11. **P8** Server deploy полный (3 ч) — включая re-deploy build с фиксом P0
+12. **P6** YouTube (опционально, может перенестись в S17)
+13. **P9** Memory + handoff (30 мин)
 
 ---
 
@@ -498,11 +572,12 @@ git commit -m "docs: Session 16 COMPLETE handoff"
 
 | Метрика | Старт | Цель |
 |---------|-------|------|
+| **llcar.ru/v3 3D scene visibility** | **сломана (легенды только)** | **читаемо, GLM 5V подтвердил** |
 | Full articles | 50 | **80** (stretch) |
 | Frontend integration | компоненты созданы | **DtcSearch + видео подключены** |
-| E2E tests | 0 | **3-5 Playwright tests** |
+| E2E tests | 0 | **3-5 Playwright tests (+ smoke /v3 canvas)** |
 | Schema validation | 51 issue | **0 issues** |
-| Server sync | не сделан | **KB + build на prod** |
+| Server sync | не сделан | **KB + build + P0 fix на prod** |
 | Verifier новых брендов | 0/7 | **7/7** |
 
 ---
@@ -511,6 +586,8 @@ git commit -m "docs: Session 16 COMPLETE handoff"
 
 | Риск | Вероятность | Митигация |
 |------|-------------|-----------|
+| **P0 fix требует переработки 3D сцены целиком** | **Средняя** | **Начать с точечного fix (lighting/camera/bg), если 2 часа не хватает — откатиться к V2 на главной и делать `/v3` как beta** |
+| **GLM 5V даст размытую диагностику** | **Средняя** | **Cross-check через Playwright DOM snapshot + console logs + network tab. GLM — гипотеза, не истина** |
 | Build ломается после интеграции новых компонентов | Средняя | TypeScript clean проверен в S15, но нужен runtime-test |
 | DtcSearch callback сложный (нужно expand ситуации) | Средняя | Упростить: просто сохранить vehicleProfile, пользователь сам откроет |
 | YouTube API квоты (10000 units/day) | Высокая | Делать по 100 запросов за batch, кэшировать результаты |
@@ -524,20 +601,30 @@ git commit -m "docs: Session 16 COMPLETE handoff"
 ```bash
 cd "C:/Users/Петр/Downloads/Маркетинговые материалы"
 
+# 0. БЛОКЕР — P0: GLM 5V анализ production /v3
+#    через Playwright MCP:
+#    mcp__playwright__browser_navigate → https://llcar.ru/v3
+#    mcp__playwright__browser_take_screenshot → screenshot.png
+#    mcp__glm-vision__find_visual_bugs(screenshot.png, "3D scene canvas visibility")
+#    mcp__glm-vision__analyze_design(screenshot.png, "what is rendered vs only legends/HUD")
+
 # 1. Состояние
 git status
 git log --oneline | head -20
 python scripts/validate_full_articles.py  # 50/50
 python scripts/validate_kb_schema.py 2>&1 | tail -3  # 51 issues
 
-# 2. Dev server
+# 2. Dev server — для P0 локальной репро
 cd llcar-dashboard
 npm run dev
-# Открыть http://localhost:5173/diagnostics
+# Открыть http://localhost:5173/v3 с DevTools (Console + Network)
+# Playwright: browser_evaluate → document.querySelector('canvas')?.getBoundingClientRect()
+#             browser_console_messages → искать three.js warnings
 
 # 3. Build test
 npm run build
 npm run preview
+# preview http://localhost:4173/v3 — сравнить с dev
 
 # 4. E2E setup (позже)
 npm install -D @playwright/test
