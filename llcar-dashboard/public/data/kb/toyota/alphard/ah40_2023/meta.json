@@ -1,0 +1,34 @@
+{
+  "model_name": "Alphard",
+  "generation": "AH40 (2023-н.в.)",
+  "body_styles": [
+    "minivan"
+  ],
+  "engines": [
+    {
+      "code": "2GR-FKS",
+      "displacement": 3456,
+      "type": "V6",
+      "power_hp": 300
+    },
+    {
+      "code": "A25A-FXS",
+      "displacement": 2487,
+      "type": "hybrid",
+      "power_hp": 190
+    },
+    {
+      "code": "A25A-FKS",
+      "displacement": 2487,
+      "type": "I4",
+      "power_hp": 177
+    }
+  ],
+  "transmissions": [
+    "8AT Direct Shift",
+    "e-CVT"
+  ],
+  "platform": "TNGA-K",
+  "production_years": "2023-н.в.",
+  "russia_relevant": true
+}

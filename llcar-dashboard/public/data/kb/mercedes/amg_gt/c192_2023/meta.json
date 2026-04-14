@@ -1,0 +1,31 @@
+{
+  "model_name": "AMG GT",
+  "generation": "C192 (2023-н.в.)",
+  "body_styles": [
+    "coupe"
+  ],
+  "engines": [
+    {
+      "code": "M177 4.0T V8 AMG",
+      "type": "V8T",
+      "power_hp_options": [
+        476,
+        585
+      ]
+    },
+    {
+      "code": "M139 2.0T AMG",
+      "type": "I4T",
+      "power_hp": 612,
+      "features": [
+        "E PERFORMANCE hybrid"
+      ]
+    }
+  ],
+  "transmissions": [
+    "9G-TRONIC MCT"
+  ],
+  "platform": "MSA, 4MATIC+ AWD, partial PHEV",
+  "production_years": "2023-н.в.",
+  "russia_relevant": true
+}

@@ -1,0 +1,25 @@
+{
+  "model_name": "Genesis G90",
+  "generation": "RS4 (2022-н.в.)",
+  "body_styles": [
+    "sedan"
+  ],
+  "engines": [
+    {
+      "code": "G4FR 2.5T-GDI",
+      "displacement": 2497,
+      "power_hp": 304
+    },
+    {
+      "code": "G6DT 3.5T V6",
+      "displacement": 3470,
+      "power_hp": 380
+    }
+  ],
+  "transmissions": [
+    "A8LR1 8AT"
+  ],
+  "platform": "M3 (mild-hybrid 48V)",
+  "production_years": "2022-н.в.",
+  "russia_relevant": true
+}

@@ -1,0 +1,41 @@
+{
+  "model_name": "A8",
+  "generation": "D5 (2017-н.в.)",
+  "body_styles": [
+    "sedan"
+  ],
+  "engines": [
+    {
+      "code": "3.0 TFSI V6",
+      "type": "V6T",
+      "power_hp_options": [
+        340,
+        450
+      ]
+    },
+    {
+      "code": "4.0 TFSI V8",
+      "type": "V8T",
+      "power_hp_options": [
+        460,
+        571
+      ]
+    },
+    {
+      "code": "3.0 TDI V6",
+      "type": "V6 diesel",
+      "power_hp": 286
+    },
+    {
+      "code": "6.0 W12 TFSI",
+      "type": "W12T",
+      "power_hp": 585
+    }
+  ],
+  "transmissions": [
+    "ZF 8HP90 Tiptronic"
+  ],
+  "platform": "MLB Evo (mild-hybrid 48V)",
+  "production_years": "2017-н.в.",
+  "russia_relevant": true
+}

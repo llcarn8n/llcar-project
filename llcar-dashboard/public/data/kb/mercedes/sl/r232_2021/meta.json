@@ -1,0 +1,28 @@
+{
+  "model_name": "SL",
+  "generation": "R232 (2021-н.в.)",
+  "body_styles": [
+    "roadster"
+  ],
+  "engines": [
+    {
+      "code": "M177 4.0T V8 AMG",
+      "type": "V8T",
+      "power_hp_options": [
+        476,
+        585
+      ]
+    },
+    {
+      "code": "M139 2.0T AMG",
+      "type": "I4T",
+      "power_hp": 443
+    }
+  ],
+  "transmissions": [
+    "9G-TRONIC MCT"
+  ],
+  "platform": "MSA (AMG), 4MATIC+ AWD",
+  "production_years": "2021-н.в.",
+  "russia_relevant": true
+}
