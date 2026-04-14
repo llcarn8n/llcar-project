@@ -1,20 +1,19 @@
 import { useRef } from 'react'
 import { useFrame } from '@react-three/fiber'
-import { Html } from '@react-three/drei'
 import * as THREE from 'three'
 import { theme } from '../../theme'
 
 interface Props {
   position: [number, number, number]
-  label: string
-  value: string
+  label?: string
+  value?: string
   severity: number // 0-1 (0=ok, 1=critical)
   color?: string
   active?: boolean
   onClick?: () => void
 }
 
-export function Hotspot({ position, label, value, severity, color, active, onClick }: Props) {
+export function Hotspot({ position, severity, color, active, onClick }: Props) {
   const meshRef = useRef<THREE.Mesh>(null)
 
   const displayColor = color ?? (severity < 0.3 ? theme.status.ok : severity < 0.7 ? theme.status.warning : theme.status.critical)
@@ -44,27 +43,6 @@ export function Hotspot({ position, label, value, severity, color, active, onCli
           <meshStandardMaterial color={displayColor} emissive={displayColor} emissiveIntensity={0.3} transparent opacity={0.25} />
         </mesh>
       )}
-      {/* Label */}
-      <Html position={[0.3, 0.2, 0]} center distanceFactor={5}>
-        <div
-          className="px-2 py-1 rounded text-xs font-mono whitespace-nowrap select-none"
-          style={{
-            backgroundColor: 'rgba(6, 18, 30, 0.85)',
-            backdropFilter: 'blur(12px)',
-            WebkitBackdropFilter: 'blur(12px)',
-            border: `1px solid ${displayColor}50`,
-            borderLeft: `3px solid ${displayColor}`,
-            clipPath: 'polygon(0 0, 100% 0, 100% calc(100% - 6px), calc(100% - 6px) 100%, 0 100%)',
-            color: displayColor,
-            boxShadow: `0 0 15px ${displayColor}30`,
-            cursor: 'pointer',
-            pointerEvents: 'auto' as const,
-          }}
-        >
-          <div className="font-bold">{label}</div>
-          <div style={{ color: 'white' }}>{value}</div>
-        </div>
-      </Html>
     </group>
   )
 }

@@ -290,53 +290,6 @@ export function Diagnostics() {
 
         <div className="scan-overlay" />
 
-        {/* ── Bottom legend: two blocks — ВИБРАЦИИ | АУДИО ── */}
-        <div style={{
-          position: 'absolute', bottom: 8, left: 10, right: 10, zIndex: 25,
-          display: 'flex', gap: 0, pointerEvents: 'auto',
-          fontFamily: "'Rajdhani', sans-serif", fontSize: '0.72rem',
-        }}>
-          {/* LEFT: Vibrations — always visible */}
-          <div style={{
-            flex: 1, display: 'flex', flexDirection: 'column', gap: 3,
-            background: 'rgba(6, 18, 30, 0.93)', backdropFilter: 'blur(10px)',
-            padding: '6px 10px', borderRadius: '6px 0 0 6px',
-            border: '1px solid rgba(0, 229, 255, 0.15)', borderRight: 'none',
-          }}>
-            <div style={{ fontSize: '0.55rem', fontFamily: "'Orbitron', sans-serif", letterSpacing: '0.12em', color: 'rgba(255,255,255,0.4)', textTransform: 'uppercase' as const, marginBottom: 1 }}>Вибрации</div>
-            <div style={{ display: 'flex', gap: 10, flexWrap: 'wrap' }}>
-              {VIBRATION_LEGEND.map(v => (
-                <span key={v.type} style={{ display: 'flex', alignItems: 'center', gap: 4, color: v.color }}>
-                  <span style={{ width: 9, height: 9, borderRadius: '50%', background: v.color, boxShadow: `0 0 6px ${v.color}` }} />
-                  {v.label}
-                </span>
-              ))}
-            </div>
-          </div>
-          {/* RIGHT: Audio zones — always visible */}
-          <div
-            onClick={() => handleHotspotClick('audio')}
-            style={{
-              flex: 1, display: 'flex', flexDirection: 'column', gap: 3, cursor: 'pointer',
-              background: 'rgba(6, 18, 30, 0.93)', backdropFilter: 'blur(10px)',
-              padding: '6px 10px', borderRadius: '0 6px 6px 0',
-              border: '1px solid rgba(0, 229, 255, 0.15)',
-            }}
-          >
-            <div style={{ fontSize: '0.55rem', fontFamily: "'Orbitron', sans-serif", letterSpacing: '0.12em', color: 'rgba(255,255,255,0.4)', textTransform: 'uppercase' as const, marginBottom: 1 }}>Аудио зоны</div>
-            <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
-              {AUDIO_LEGEND.map(a => (
-                <span key={a.label} style={{ display: 'flex', alignItems: 'center', gap: 4, color: a.color }}>
-                  <span style={{
-                    width: 9, height: 9, borderRadius: '50%', border: `2px solid ${a.color}`,
-                    boxShadow: `0 0 5px ${a.color}`, background: 'transparent',
-                  }} />
-                  {a.label}
-                </span>
-              ))}
-            </div>
-          </div>
-        </div>
         {/* ── System tab bar inside 3D viewport (top center) ── */}
         <div style={{
           position: 'absolute', top: 8, left: '50%', transform: 'translateX(-50%)',
@@ -379,6 +332,49 @@ export function Diagnostics() {
           </div>
         </div>
 
+      </div>
+
+      {/* ── Legend strip: ВИБРАЦИИ | АУДИО ЗОНЫ (normal flow, под 3D viewport) ── */}
+      <div style={{
+        display: 'flex', flexWrap: 'wrap', gap: 6, marginTop: 6,
+        fontFamily: "'Rajdhani', sans-serif", fontSize: '0.72rem',
+      }}>
+        <div style={{
+          flex: '1 1 260px', display: 'flex', flexDirection: 'column', gap: 3,
+          background: 'rgba(6, 18, 30, 0.75)', padding: '6px 10px', borderRadius: 6,
+          border: '1px solid rgba(0, 229, 255, 0.15)',
+        }}>
+          <div style={{ fontSize: '0.55rem', fontFamily: "'Orbitron', sans-serif", letterSpacing: '0.12em', color: 'rgba(255,255,255,0.4)', textTransform: 'uppercase' as const, marginBottom: 1 }}>Вибрации</div>
+          <div style={{ display: 'flex', gap: 10, flexWrap: 'wrap' }}>
+            {VIBRATION_LEGEND.map(v => (
+              <span key={v.type} style={{ display: 'flex', alignItems: 'center', gap: 4, color: v.color }}>
+                <span style={{ width: 9, height: 9, borderRadius: '50%', background: v.color, boxShadow: `0 0 6px ${v.color}` }} />
+                {v.label}
+              </span>
+            ))}
+          </div>
+        </div>
+        <div
+          onClick={() => handleHotspotClick('audio')}
+          style={{
+            flex: '1 1 260px', display: 'flex', flexDirection: 'column', gap: 3, cursor: 'pointer',
+            background: 'rgba(6, 18, 30, 0.75)', padding: '6px 10px', borderRadius: 6,
+            border: '1px solid rgba(0, 229, 255, 0.15)',
+          }}
+        >
+          <div style={{ fontSize: '0.55rem', fontFamily: "'Orbitron', sans-serif", letterSpacing: '0.12em', color: 'rgba(255,255,255,0.4)', textTransform: 'uppercase' as const, marginBottom: 1 }}>Аудио зоны</div>
+          <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
+            {AUDIO_LEGEND.map(a => (
+              <span key={a.label} style={{ display: 'flex', alignItems: 'center', gap: 4, color: a.color }}>
+                <span style={{
+                  width: 9, height: 9, borderRadius: '50%', border: `2px solid ${a.color}`,
+                  boxShadow: `0 0 5px ${a.color}`, background: 'transparent',
+                }} />
+                {a.label}
+              </span>
+            ))}
+          </div>
+        </div>
       </div>
 
       {/* ═══ DETAIL PANEL — unified pattern: summary → charts → rules ═══ */}
