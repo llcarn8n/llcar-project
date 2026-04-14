@@ -16,7 +16,8 @@
     ],
     "price_range": "10000-150000 руб.",
     "mileage_range": "30000-150000 км",
-    "content_type": "diagnostic"
+    "content_type": "full_article",
+    "full_article_path": "_articles/kia_k5_dl3_001.md"
   },
   {
     "id": "kia_k5_dl3_002",

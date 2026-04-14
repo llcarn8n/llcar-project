@@ -17,7 +17,8 @@
     ],
     "price_range": "15000-35000 руб.",
     "mileage_range": "60000-120000 км",
-    "content_type": "diagnostic"
+    "content_type": "full_article",
+    "full_article_path": "_articles/chery_tiggo8p_001.md"
   },
   {
     "id": "chery_tiggo8p_002",

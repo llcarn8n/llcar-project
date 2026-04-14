@@ -18,7 +18,8 @@
     ],
     "price_range": "15000 - 85000 руб.",
     "mileage_range": "80000 - 130000 км",
-    "content_type": "diagnostic"
+    "content_type": "full_article",
+    "full_article_path": "_articles/audi_q5_fy_001.md"
   },
   {
     "id": "audi_q5_fy_002",

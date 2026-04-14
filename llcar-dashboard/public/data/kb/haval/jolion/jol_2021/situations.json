@@ -18,7 +18,8 @@
     ],
     "price_range": "3000 - 120000 руб.",
     "mileage_range": "30000 - 90000 км",
-    "content_type": "diagnostic"
+    "content_type": "full_article",
+    "full_article_path": "_articles/haval_jolion_001.md"
   },
   {
     "id": "haval_jolion_002",

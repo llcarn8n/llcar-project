@@ -17,7 +17,8 @@
     ],
     "price_range": "15000 - 35000 руб.",
     "mileage_range": "60000 - 100000 км",
-    "content_type": "diagnostic"
+    "content_type": "full_article",
+    "full_article_path": "_articles/porsche_macan_95b_001.md"
   },
   {
     "id": "porsche_macan_95b_002",
