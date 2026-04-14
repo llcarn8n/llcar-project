@@ -1,0 +1,37 @@
+{
+  "model_name": "ET7",
+  "generation": "ET7 (2022-н.в.)",
+  "body_styles": [
+    "sedan"
+  ],
+  "engines": [
+    {
+      "code": "Front ASM 180 kW",
+      "type": "ASM",
+      "power_kw": 180
+    },
+    {
+      "code": "Rear PMSM 300 kW",
+      "type": "PMSM",
+      "power_kw": 300
+    }
+  ],
+  "transmissions": [
+    "single-speed"
+  ],
+  "platform": "NT 2.0 (Nio)",
+  "production_years": "2022-н.в.",
+  "russia_relevant": true,
+  "battery": {
+    "capacity_kwh_options": [
+      75,
+      100,
+      150
+    ],
+    "chemistry": "NCM + semi-solid state",
+    "voltage": 400,
+    "features": [
+      "Battery-as-a-Service swap"
+    ]
+  }
+}

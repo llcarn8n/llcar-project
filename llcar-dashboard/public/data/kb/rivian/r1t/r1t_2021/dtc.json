@@ -1,0 +1,268 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 37,
+  "codes": {
+    "P0AFA": {
+      "count": 2,
+      "situations": [
+        "rivian_r1t_001",
+        "rivian_r1t_007"
+      ],
+      "category": "hv_electric"
+    },
+    "U0100": {
+      "count": 2,
+      "situations": [
+        "rivian_r1t_001",
+        "rivian_r1t_009"
+      ],
+      "category": "network"
+    },
+    "U0140": {
+      "count": 2,
+      "situations": [
+        "rivian_r1t_003",
+        "rivian_r1t_010"
+      ],
+      "category": "network"
+    },
+    "P0A80": {
+      "count": 1,
+      "situations": [
+        "rivian_r1t_001"
+      ],
+      "category": "hv_electric"
+    },
+    "P0B00": {
+      "count": 1,
+      "situations": [
+        "rivian_r1t_001"
+      ],
+      "category": "hv_electric"
+    },
+    "C0550": {
+      "count": 1,
+      "situations": [
+        "rivian_r1t_002"
+      ],
+      "category": "chassis"
+    },
+    "C0565": {
+      "count": 1,
+      "situations": [
+        "rivian_r1t_002"
+      ],
+      "category": "chassis"
+    },
+    "C0580": {
+      "count": 1,
+      "situations": [
+        "rivian_r1t_002"
+      ],
+      "category": "chassis"
+    },
+    "B1000": {
+      "count": 1,
+      "situations": [
+        "rivian_r1t_002"
+      ],
+      "category": "body"
+    },
+    "P0562": {
+      "count": 1,
+      "situations": [
+        "rivian_r1t_003"
+      ],
+      "category": "engine"
+    },
+    "P0563": {
+      "count": 1,
+      "situations": [
+        "rivian_r1t_003"
+      ],
+      "category": "engine"
+    },
+    "B1318": {
+      "count": 1,
+      "situations": [
+        "rivian_r1t_003"
+      ],
+      "category": "body"
+    },
+    "P0D00": {
+      "count": 1,
+      "situations": [
+        "rivian_r1t_004"
+      ],
+      "category": "hv_electric"
+    },
+    "P0D10": {
+      "count": 1,
+      "situations": [
+        "rivian_r1t_004"
+      ],
+      "category": "hv_electric"
+    },
+    "P0BE0": {
+      "count": 1,
+      "situations": [
+        "rivian_r1t_004"
+      ],
+      "category": "hv_electric"
+    },
+    "B14A0": {
+      "count": 1,
+      "situations": [
+        "rivian_r1t_004"
+      ],
+      "category": "body"
+    },
+    "P0A3C": {
+      "count": 1,
+      "situations": [
+        "rivian_r1t_005"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A4B": {
+      "count": 1,
+      "situations": [
+        "rivian_r1t_005"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A78": {
+      "count": 1,
+      "situations": [
+        "rivian_r1t_005"
+      ],
+      "category": "hv_electric"
+    },
+    "U0101": {
+      "count": 1,
+      "situations": [
+        "rivian_r1t_005"
+      ],
+      "category": "network"
+    },
+    "P0A8C": {
+      "count": 1,
+      "situations": [
+        "rivian_r1t_006"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A81": {
+      "count": 1,
+      "situations": [
+        "rivian_r1t_006"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A82": {
+      "count": 1,
+      "situations": [
+        "rivian_r1t_006"
+      ],
+      "category": "hv_electric"
+    },
+    "P261B": {
+      "count": 1,
+      "situations": [
+        "rivian_r1t_006"
+      ],
+      "category": "engine"
+    },
+    "C0035": {
+      "count": 1,
+      "situations": [
+        "rivian_r1t_007"
+      ],
+      "category": "chassis"
+    },
+    "C0040": {
+      "count": 1,
+      "situations": [
+        "rivian_r1t_007"
+      ],
+      "category": "chassis"
+    },
+    "C0195": {
+      "count": 1,
+      "situations": [
+        "rivian_r1t_007"
+      ],
+      "category": "chassis"
+    },
+    "P0A90": {
+      "count": 1,
+      "situations": [
+        "rivian_r1t_008"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A92": {
+      "count": 1,
+      "situations": [
+        "rivian_r1t_008"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A3F": {
+      "count": 1,
+      "situations": [
+        "rivian_r1t_008"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A4A": {
+      "count": 1,
+      "situations": [
+        "rivian_r1t_008"
+      ],
+      "category": "hv_electric"
+    },
+    "U0154": {
+      "count": 1,
+      "situations": [
+        "rivian_r1t_009"
+      ],
+      "category": "network"
+    },
+    "U0170": {
+      "count": 1,
+      "situations": [
+        "rivian_r1t_009"
+      ],
+      "category": "network"
+    },
+    "B10D0": {
+      "count": 1,
+      "situations": [
+        "rivian_r1t_009"
+      ],
+      "category": "body"
+    },
+    "B1001": {
+      "count": 1,
+      "situations": [
+        "rivian_r1t_010"
+      ],
+      "category": "body"
+    },
+    "B1010": {
+      "count": 1,
+      "situations": [
+        "rivian_r1t_010"
+      ],
+      "category": "body"
+    },
+    "U0155": {
+      "count": 1,
+      "situations": [
+        "rivian_r1t_010"
+      ],
+      "category": "network"
+    }
+  }
+}

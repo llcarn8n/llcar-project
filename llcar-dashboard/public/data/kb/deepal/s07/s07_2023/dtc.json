@@ -1,0 +1,352 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 49,
+  "codes": {
+    "U0100": {
+      "count": 2,
+      "situations": [
+        "deepal_s07_001",
+        "deepal_s07_006"
+      ],
+      "category": "network"
+    },
+    "P0A0B": {
+      "count": 2,
+      "situations": [
+        "deepal_s07_001",
+        "deepal_s07_008"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A04": {
+      "count": 2,
+      "situations": [
+        "deepal_s07_002",
+        "deepal_s07_005"
+      ],
+      "category": "hv_electric"
+    },
+    "U0073": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_001"
+      ],
+      "category": "network"
+    },
+    "U0111": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_001"
+      ],
+      "category": "network"
+    },
+    "U0140": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_001"
+      ],
+      "category": "network"
+    },
+    "P0A80": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_002"
+      ],
+      "category": "hv_electric"
+    },
+    "P0AFA": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_002"
+      ],
+      "category": "hv_electric"
+    },
+    "P0B3D": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_002"
+      ],
+      "category": "hv_electric"
+    },
+    "P0AC0": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_002"
+      ],
+      "category": "hv_electric"
+    },
+    "P0171": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_003"
+      ],
+      "category": "engine"
+    },
+    "P0401": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_003"
+      ],
+      "category": "engine"
+    },
+    "P0335": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_003"
+      ],
+      "category": "engine"
+    },
+    "P0420": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_003"
+      ],
+      "category": "engine"
+    },
+    "P0230": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_003"
+      ],
+      "category": "engine"
+    },
+    "P0087": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_003"
+      ],
+      "category": "engine"
+    },
+    "P0AC4": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_004"
+      ],
+      "category": "hv_electric"
+    },
+    "P0D26": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_004"
+      ],
+      "category": "hv_electric"
+    },
+    "P0DE3": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_004"
+      ],
+      "category": "hv_electric"
+    },
+    "P0D00": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_004"
+      ],
+      "category": "hv_electric"
+    },
+    "P0AE8": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_004"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A81": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_005"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A82": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_005"
+      ],
+      "category": "hv_electric"
+    },
+    "P0B39": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_005"
+      ],
+      "category": "hv_electric"
+    },
+    "P261B": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_005"
+      ],
+      "category": "engine"
+    },
+    "P0562": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_006"
+      ],
+      "category": "engine"
+    },
+    "P0563": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_006"
+      ],
+      "category": "engine"
+    },
+    "U0001": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_006"
+      ],
+      "category": "network"
+    },
+    "B1234": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_006"
+      ],
+      "category": "body"
+    },
+    "P0A94": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_007"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A1F": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_007"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A79": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_007"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A7A": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_007"
+      ],
+      "category": "hv_electric"
+    },
+    "P0B3B": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_007"
+      ],
+      "category": "hv_electric"
+    },
+    "P0AA6": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_008"
+      ],
+      "category": "hv_electric"
+    },
+    "P0AA0": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_008"
+      ],
+      "category": "hv_electric"
+    },
+    "P0AE2": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_008"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A85": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_008"
+      ],
+      "category": "hv_electric"
+    },
+    "C1234": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_009"
+      ],
+      "category": "chassis"
+    },
+    "C0035": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_009"
+      ],
+      "category": "chassis"
+    },
+    "C0040": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_009"
+      ],
+      "category": "chassis"
+    },
+    "C0045": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_009"
+      ],
+      "category": "chassis"
+    },
+    "C0050": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_009"
+      ],
+      "category": "chassis"
+    },
+    "P0A7B": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_009"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A09": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_010"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A8D": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_010"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A10": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_010"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A11": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_010"
+      ],
+      "category": "hv_electric"
+    },
+    "P061B": {
+      "count": 1,
+      "situations": [
+        "deepal_s07_010"
+      ],
+      "category": "engine"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "model_name": "P7",
+  "generation": "P7 (2020-н.в.)",
+  "body_styles": [
+    "sedan"
+  ],
+  "engines": [
+    {
+      "code": "Rear PMSM 196 kW (RWD)",
+      "type": "PMSM",
+      "power_kw": 196
+    },
+    {
+      "code": "AWD 196+218 kW",
+      "type": "Dual PMSM",
+      "power_kw": 414
+    }
+  ],
+  "transmissions": [
+    "single-speed"
+  ],
+  "platform": "Edward (XPeng)",
+  "production_years": "2020-н.в.",
+  "russia_relevant": true,
+  "battery": {
+    "capacity_kwh_options": [
+      70.8,
+      80.9
+    ],
+    "chemistry": "NCM 811 (CATL)",
+    "voltage": 400,
+    "features": [
+      "XPilot 3.0/3.5 ADAS"
+    ]
+  }
+}

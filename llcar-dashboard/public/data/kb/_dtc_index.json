@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-04-14",
-  "total_codes": 1767,
-  "total_mappings": 6391,
+  "total_codes": 1799,
+  "total_mappings": 6530,
   "index": {
     "-": [
       {
@@ -2509,6 +2509,15 @@
         "generation": "r1s_2022",
         "urg": 3,
         "cat": "body"
+      },
+      {
+        "sit_id": "xpeng_p7_002",
+        "title": "Деградация 12V AGM батареи",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
+        "urg": 3,
+        "cat": "electrical"
       }
     ],
     "B10A1": [
@@ -2575,6 +2584,24 @@
     ],
     "B10A5": [
       {
+        "sit_id": "voyah_free_008",
+        "title": "Утечка антифриза из терморегуляции батареи",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 4,
+        "cat": "cooling"
+      },
+      {
+        "sit_id": "xpeng_p7_010",
+        "title": "Отказ моторчика выдвижной дверной ручки",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
+        "urg": 2,
+        "cat": "body"
+      },
+      {
         "sit_id": "zeekr_001_003",
         "title": "Ошибки сенсорного рулевого колеса (touch steering)",
         "brand": "zeekr",
@@ -2582,6 +2609,39 @@
         "generation": "001_2021",
         "urg": 2,
         "cat": "electrical"
+      }
+    ],
+    "B10A6": [
+      {
+        "sit_id": "xpeng_p7_010",
+        "title": "Отказ моторчика выдвижной дверной ручки",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
+        "urg": 2,
+        "cat": "body"
+      }
+    ],
+    "B10A7": [
+      {
+        "sit_id": "xpeng_p7_010",
+        "title": "Отказ моторчика выдвижной дверной ручки",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
+        "urg": 2,
+        "cat": "body"
+      }
+    ],
+    "B10A8": [
+      {
+        "sit_id": "xpeng_p7_010",
+        "title": "Отказ моторчика выдвижной дверной ручки",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
+        "urg": 2,
+        "cat": "body"
       }
     ],
     "B10AA": [
@@ -2613,6 +2673,15 @@
         "brand": "ford",
         "model": "mondeo",
         "generation": "mk5_2014",
+        "urg": 2,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "voyah_free_010",
+        "title": "Сбой калибровки ADAS",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
         "urg": 2,
         "cat": "electrical"
       }
@@ -2652,6 +2721,15 @@
         "model": "rapid",
         "generation": "nh_2020",
         "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "voyah_free_004",
+        "title": "Быстрый разряд 12V АКБ",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 4,
         "cat": "electrical"
       }
     ],
@@ -2737,6 +2815,17 @@
         "generation": "nf_2021",
         "urg": 4,
         "cat": "electrical"
+      }
+    ],
+    "B10C5": [
+      {
+        "sit_id": "xpeng_p7_009",
+        "title": "Отказ компрессора климата",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
+        "urg": 3,
+        "cat": "cooling"
       }
     ],
     "B10CD": [
@@ -3923,6 +4012,15 @@
         "generation": "xv70_2018",
         "urg": 3,
         "cat": "body"
+      },
+      {
+        "sit_id": "xpeng_p7_004",
+        "title": "Заклинивание электрозамка зарядного порта",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
+        "urg": 3,
+        "cat": "electrical"
       }
     ],
     "B1328": [
@@ -5565,6 +5663,17 @@
         "cat": "body"
       }
     ],
+    "B1C00": [
+      {
+        "sit_id": "nio_et7_003",
+        "title": "Неисправность механизма Battery-as-a-Service swap",
+        "brand": "nio",
+        "model": "et7",
+        "generation": "et7_2022",
+        "urg": 5,
+        "cat": "electrical"
+      }
+    ],
     "B1C01": [
       {
         "sit_id": "mazda_3_bp_003",
@@ -5573,6 +5682,15 @@
         "model": "3",
         "generation": "bp_2019",
         "urg": 2,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "nio_et7_007",
+        "title": "Деградация вспомогательной 12В АКБ",
+        "brand": "nio",
+        "model": "et7",
+        "generation": "et7_2022",
+        "urg": 3,
         "cat": "electrical"
       }
     ],
@@ -5637,6 +5755,15 @@
         "model": "discovery_sport",
         "generation": "l550_2014",
         "urg": 2,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "nio_et7_009",
+        "title": "Уход калибровки лидара и камер ADAS",
+        "brand": "nio",
+        "model": "et7",
+        "generation": "et7_2022",
+        "urg": 3,
         "cat": "electrical"
       }
     ],
@@ -6998,6 +7125,15 @@
         "model": "seal",
         "generation": "seal_2022",
         "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "voyah_free_010",
+        "title": "Сбой калибровки ADAS",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 2,
         "cat": "electrical"
       }
     ],
@@ -9079,6 +9215,28 @@
         "cat": "chassis"
       }
     ],
+    "C0555": [
+      {
+        "sit_id": "voyah_free_009",
+        "title": "Прерывистая работа вакуумного насоса тормозов",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 5,
+        "cat": "brakes"
+      }
+    ],
+    "C0556": [
+      {
+        "sit_id": "voyah_free_009",
+        "title": "Прерывистая работа вакуумного насоса тормозов",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 5,
+        "cat": "brakes"
+      }
+    ],
     "C0561": [
       {
         "sit_id": "genesis_g80_rg3_008",
@@ -9106,6 +9264,15 @@
         "generation": "v295_2022",
         "urg": 5,
         "cat": "brakes"
+      },
+      {
+        "sit_id": "voyah_free_009",
+        "title": "Прерывистая работа вакуумного насоса тормозов",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 5,
+        "cat": "brakes"
       }
     ],
     "C0563": [
@@ -9116,6 +9283,15 @@
         "model": "q7",
         "generation": "4m_2015",
         "urg": 4,
+        "cat": "chassis"
+      },
+      {
+        "sit_id": "voyah_free_002",
+        "title": "Отказ пневмоподвески и падение компрессора",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 5,
         "cat": "chassis"
       }
     ],
@@ -9157,6 +9333,15 @@
         "generation": "r1t_2021",
         "urg": 4,
         "cat": "chassis"
+      },
+      {
+        "sit_id": "voyah_free_009",
+        "title": "Прерывистая работа вакуумного насоса тормозов",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 5,
+        "cat": "brakes"
       }
     ],
     "C0569": [
@@ -9247,6 +9432,15 @@
         "model": "r1t",
         "generation": "r1t_2021",
         "urg": 4,
+        "cat": "chassis"
+      },
+      {
+        "sit_id": "voyah_free_002",
+        "title": "Отказ пневмоподвески и падение компрессора",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 5,
         "cat": "chassis"
       }
     ],
@@ -9451,6 +9645,15 @@
         "model": "r1s",
         "generation": "r1s_2022",
         "urg": 3,
+        "cat": "chassis"
+      },
+      {
+        "sit_id": "voyah_free_002",
+        "title": "Отказ пневмоподвески и падение компрессора",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 5,
         "cat": "chassis"
       },
       {
@@ -10306,6 +10509,37 @@
         "generation": "b8_2015",
         "urg": 5,
         "cat": "chassis"
+      },
+      {
+        "sit_id": "xpeng_p7_003",
+        "title": "Сбой калибровки радаров XPilot",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
+        "urg": 4,
+        "cat": "electrical"
+      }
+    ],
+    "C1107": [
+      {
+        "sit_id": "xpeng_p7_003",
+        "title": "Сбой калибровки радаров XPilot",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
+        "urg": 4,
+        "cat": "electrical"
+      }
+    ],
+    "C1108": [
+      {
+        "sit_id": "xpeng_p7_003",
+        "title": "Сбой калибровки радаров XPilot",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
+        "urg": 4,
+        "cat": "electrical"
       }
     ],
     "C110B": [
@@ -10809,6 +11043,15 @@
         "cat": "chassis"
       },
       {
+        "sit_id": "nio_et7_008",
+        "title": "Отказ компрессора пневмоподвески",
+        "brand": "nio",
+        "model": "et7",
+        "generation": "et7_2022",
+        "urg": 3,
+        "cat": "chassis"
+      },
+      {
         "sit_id": "nissan_murano_z52_003",
         "title": "Поломка муфты полного привода (AWD) и насоса",
         "brand": "nissan",
@@ -11288,6 +11531,15 @@
         "cat": "chassis"
       },
       {
+        "sit_id": "nio_et7_008",
+        "title": "Отказ компрессора пневмоподвески",
+        "brand": "nio",
+        "model": "et7",
+        "generation": "et7_2022",
+        "urg": 3,
+        "cat": "chassis"
+      },
+      {
         "sit_id": "nissan_x_trail_t32_emergency_brake",
         "title": "Самопроизвольное срабатывание и проблемы с электронным стояночным тормозом (EPB)",
         "brand": "nissan",
@@ -11295,6 +11547,15 @@
         "generation": "t32_2015",
         "urg": 4,
         "cat": "brakes"
+      },
+      {
+        "sit_id": "voyah_free_002",
+        "title": "Отказ пневмоподвески и падение компрессора",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 5,
+        "cat": "chassis"
       }
     ],
     "C1146": [
@@ -12649,6 +12910,15 @@
         "generation": "tc_2016",
         "urg": 5,
         "cat": "brakes"
+      },
+      {
+        "sit_id": "voyah_free_009",
+        "title": "Прерывистая работа вакуумного насоса тормозов",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 5,
+        "cat": "brakes"
       }
     ],
     "C1229": [
@@ -13017,6 +13287,17 @@
         "cat": "chassis"
       }
     ],
+    "C1255": [
+      {
+        "sit_id": "xpeng_p7_008",
+        "title": "Отказ вакуумного насоса тормозов",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
+        "urg": 5,
+        "cat": "brakes"
+      }
+    ],
     "C1256": [
       {
         "sit_id": "lexus_rx_al20_006",
@@ -13071,6 +13352,37 @@
         "generation": "xa40_2013",
         "urg": 3,
         "cat": "chassis"
+      },
+      {
+        "sit_id": "xpeng_p7_008",
+        "title": "Отказ вакуумного насоса тормозов",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
+        "urg": 5,
+        "cat": "brakes"
+      }
+    ],
+    "C1257": [
+      {
+        "sit_id": "xpeng_p7_008",
+        "title": "Отказ вакуумного насоса тормозов",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
+        "urg": 5,
+        "cat": "brakes"
+      }
+    ],
+    "C1258": [
+      {
+        "sit_id": "xpeng_p7_008",
+        "title": "Отказ вакуумного насоса тормозов",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
+        "urg": 5,
+        "cat": "brakes"
       }
     ],
     "C1259": [
@@ -15279,6 +15591,50 @@
         "cat": "chassis"
       }
     ],
+    "C1842": [
+      {
+        "sit_id": "xpeng_p7_006",
+        "title": "Утечка пневмоподвески и проседание кузова",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
+        "urg": 3,
+        "cat": "chassis"
+      }
+    ],
+    "C1845": [
+      {
+        "sit_id": "xpeng_p7_006",
+        "title": "Утечка пневмоподвески и проседание кузова",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
+        "urg": 3,
+        "cat": "chassis"
+      }
+    ],
+    "C1846": [
+      {
+        "sit_id": "xpeng_p7_006",
+        "title": "Утечка пневмоподвески и проседание кузова",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
+        "urg": 3,
+        "cat": "chassis"
+      }
+    ],
+    "C1847": [
+      {
+        "sit_id": "xpeng_p7_006",
+        "title": "Утечка пневмоподвески и проседание кузова",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
+        "urg": 3,
+        "cat": "chassis"
+      }
+    ],
     "C1860": [
       {
         "sit_id": "mercedes_eqe_009",
@@ -15648,6 +16004,15 @@
     ],
     "C1A10": [
       {
+        "sit_id": "nio_et7_008",
+        "title": "Отказ компрессора пневмоподвески",
+        "brand": "nio",
+        "model": "et7",
+        "generation": "et7_2022",
+        "urg": 3,
+        "cat": "chassis"
+      },
+      {
         "sit_id": "nissan_x_trail_t33_propark_adas_calibration",
         "title": "Ошибки ADAS после замены лобового стекла — требуется калибровка",
         "brand": "nissan",
@@ -15731,6 +16096,24 @@
         "generation": "gf_2012",
         "urg": 3,
         "cat": "brakes"
+      },
+      {
+        "sit_id": "nio_et7_008",
+        "title": "Отказ компрессора пневмоподвески",
+        "brand": "nio",
+        "model": "et7",
+        "generation": "et7_2022",
+        "urg": 3,
+        "cat": "chassis"
+      },
+      {
+        "sit_id": "voyah_free_010",
+        "title": "Сбой калибровки ADAS",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 2,
+        "cat": "electrical"
       }
     ],
     "C1A21": [
@@ -15970,6 +16353,15 @@
     ],
     "C1A77": [
       {
+        "sit_id": "nio_et7_009",
+        "title": "Уход калибровки лидара и камер ADAS",
+        "brand": "nio",
+        "model": "et7",
+        "generation": "et7_2022",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "volvo_xc60_su_009",
         "title": "Закисание задних суппортов и отказ ручника (EPB)",
         "brand": "volvo",
@@ -15995,6 +16387,17 @@
         "brand": "mercedes",
         "model": "glb",
         "generation": "x247_2019",
+        "urg": 3,
+        "cat": "electrical"
+      }
+    ],
+    "C1A78": [
+      {
+        "sit_id": "nio_et7_009",
+        "title": "Уход калибровки лидара и камер ADAS",
+        "brand": "nio",
+        "model": "et7",
+        "generation": "et7_2022",
         "urg": 3,
         "cat": "electrical"
       }
@@ -17723,6 +18126,15 @@
         "model": "touareg",
         "generation": "cr_2018",
         "urg": 5,
+        "cat": "engine"
+      },
+      {
+        "sit_id": "voyah_free_005",
+        "title": "Повышенный расход масла 1.5T EREV",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 4,
         "cat": "engine"
       }
     ],
@@ -26069,17 +26481,6 @@
         "cat": "engine"
       }
     ],
-    "P0264": [
-      {
-        "sit_id": "rivian_r1t_006",
-        "title": "Отказ насоса охлаждения",
-        "brand": "rivian",
-        "model": "r1t",
-        "generation": "r1t_2021",
-        "urg": 4,
-        "cat": "cooling"
-      }
-    ],
     "P0299": [
       {
         "sit_id": "acura_rdx_005",
@@ -26546,6 +26947,15 @@
         "brand": "volvo",
         "model": "xc90",
         "generation": "lc_2015",
+        "urg": 4,
+        "cat": "engine"
+      },
+      {
+        "sit_id": "voyah_free_005",
+        "title": "Повышенный расход масла 1.5T EREV",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
         "urg": 4,
         "cat": "engine"
       }
@@ -28271,6 +28681,15 @@
         "generation": "lc_2015",
         "urg": 5,
         "cat": "engine"
+      },
+      {
+        "sit_id": "voyah_free_005",
+        "title": "Повышенный расход масла 1.5T EREV",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 4,
+        "cat": "engine"
       }
     ],
     "P030000": [
@@ -29184,6 +29603,15 @@
         "generation": "nf_2021",
         "urg": 4,
         "cat": "engine"
+      },
+      {
+        "sit_id": "voyah_free_005",
+        "title": "Повышенный расход масла 1.5T EREV",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 4,
+        "cat": "engine"
       }
     ],
     "P030100": [
@@ -29800,6 +30228,15 @@
         "generation": "nf_2021",
         "urg": 4,
         "cat": "engine"
+      },
+      {
+        "sit_id": "voyah_free_005",
+        "title": "Повышенный расход масла 1.5T EREV",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 4,
+        "cat": "engine"
       }
     ],
     "P030200": [
@@ -30227,6 +30664,15 @@
         "generation": "nf_2021",
         "urg": 4,
         "cat": "engine"
+      },
+      {
+        "sit_id": "voyah_free_005",
+        "title": "Повышенный расход масла 1.5T EREV",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 4,
+        "cat": "engine"
       }
     ],
     "P030300": [
@@ -30607,6 +31053,15 @@
         "brand": "volkswagen",
         "model": "tiguan",
         "generation": "nf_2021",
+        "urg": 4,
+        "cat": "engine"
+      },
+      {
+        "sit_id": "voyah_free_005",
+        "title": "Повышенный расход масла 1.5T EREV",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
         "urg": 4,
         "cat": "engine"
       }
@@ -36156,6 +36611,15 @@
         "generation": "aw_2020",
         "urg": 3,
         "cat": "engine"
+      },
+      {
+        "sit_id": "voyah_free_005",
+        "title": "Повышенный расход масла 1.5T EREV",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 4,
+        "cat": "engine"
       }
     ],
     "P052400": [
@@ -36976,6 +37440,15 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "nio_et7_007",
+        "title": "Деградация вспомогательной 12В АКБ",
+        "brand": "nio",
+        "model": "et7",
+        "generation": "et7_2022",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "nissan_terrano_d10_007",
         "title": "Перетирание жгута проводки моторного отсека",
         "brand": "nissan",
@@ -37118,6 +37591,24 @@
         "generation": "nf_2021",
         "urg": 4,
         "cat": "engine"
+      },
+      {
+        "sit_id": "voyah_free_004",
+        "title": "Быстрый разряд 12V АКБ",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "xpeng_p7_002",
+        "title": "Деградация 12V AGM батареи",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
+        "urg": 3,
+        "cat": "electrical"
       }
     ],
     "P0563": [
@@ -37194,12 +37685,39 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "nio_et7_007",
+        "title": "Деградация вспомогательной 12В АКБ",
+        "brand": "nio",
+        "model": "et7",
+        "generation": "et7_2022",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "rivian_r1t_003",
         "title": "Отказ 12V АКБ",
         "brand": "rivian",
         "model": "r1t",
         "generation": "r1t_2021",
         "urg": 5,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "voyah_free_004",
+        "title": "Быстрый разряд 12V АКБ",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "xpeng_p7_002",
+        "title": "Деградация 12V AGM батареи",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
+        "urg": 3,
         "cat": "electrical"
       }
     ],
@@ -38208,6 +38726,15 @@
         "generation": "aw_2020",
         "urg": 2,
         "cat": "engine"
+      },
+      {
+        "sit_id": "xpeng_p7_009",
+        "title": "Отказ компрессора климата",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
+        "urg": 3,
+        "cat": "cooling"
       }
     ],
     "P0646": [
@@ -38217,6 +38744,15 @@
         "brand": "kia",
         "model": "ev6",
         "generation": "cv_2021",
+        "urg": 3,
+        "cat": "cooling"
+      },
+      {
+        "sit_id": "xpeng_p7_009",
+        "title": "Отказ компрессора климата",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
         "urg": 3,
         "cat": "cooling"
       }
@@ -45144,6 +45680,37 @@
         "generation": "n293_2019",
         "urg": 5,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "voyah_free_001",
+        "title": "Деградация HV батареи и ошибки BMS",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 4,
+        "cat": "electrical"
+      }
+    ],
+    "P0A06": [
+      {
+        "sit_id": "voyah_free_008",
+        "title": "Утечка антифриза из терморегуляции батареи",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 4,
+        "cat": "cooling"
+      }
+    ],
+    "P0A07": [
+      {
+        "sit_id": "voyah_free_008",
+        "title": "Утечка антифриза из терморегуляции батареи",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 4,
+        "cat": "cooling"
       }
     ],
     "P0A09": [
@@ -45173,6 +45740,33 @@
         "generation": "air_2021",
         "urg": 4,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "nio_et7_003",
+        "title": "Неисправность механизма Battery-as-a-Service swap",
+        "brand": "nio",
+        "model": "et7",
+        "generation": "et7_2022",
+        "urg": 5,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "nio_et7_010",
+        "title": "Деградация DC-зарядного порта",
+        "brand": "nio",
+        "model": "et7",
+        "generation": "et7_2022",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "voyah_free_006",
+        "title": "Перегрев DC-DC преобразователя",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 4,
+        "cat": "electrical"
       }
     ],
     "P0A0900": [
@@ -45194,6 +45788,15 @@
         "model": "y",
         "generation": "y_2021",
         "urg": 5,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "voyah_free_006",
+        "title": "Перегрев DC-DC преобразователя",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 4,
         "cat": "electrical"
       }
     ],
@@ -45253,6 +45856,26 @@
         "generation": "c192_2023",
         "urg": 5,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "xpeng_p7_009",
+        "title": "Отказ компрессора климата",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
+        "urg": 3,
+        "cat": "cooling"
+      }
+    ],
+    "P0A0D": [
+      {
+        "sit_id": "xpeng_p7_009",
+        "title": "Отказ компрессора климата",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
+        "urg": 3,
+        "cat": "cooling"
       }
     ],
     "P0A0F": [
@@ -45416,6 +46039,15 @@
         "generation": "ah40_2023",
         "urg": 5,
         "cat": "cooling"
+      },
+      {
+        "sit_id": "xpeng_p7_005",
+        "title": "Перегрев инвертора заднего мотора",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
+        "urg": 3,
+        "cat": "cooling"
       }
     ],
     "P0A1F": [
@@ -45463,6 +46095,28 @@
         "generation": "x167_2019",
         "urg": 5,
         "cat": "electrical"
+      }
+    ],
+    "P0A29": [
+      {
+        "sit_id": "voyah_free_007",
+        "title": "Гул подшипников переднего электромотора",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 3,
+        "cat": "transmission"
+      }
+    ],
+    "P0A2F": [
+      {
+        "sit_id": "voyah_free_007",
+        "title": "Гул подшипников переднего электромотора",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 3,
+        "cat": "transmission"
       }
     ],
     "P0A36": [
@@ -45523,6 +46177,17 @@
         "cat": "electrical"
       }
     ],
+    "P0A3B": [
+      {
+        "sit_id": "voyah_free_007",
+        "title": "Гул подшипников переднего электромотора",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 3,
+        "cat": "transmission"
+      }
+    ],
     "P0A3C": [
       {
         "sit_id": "audi_e_tron_gt_002",
@@ -45570,6 +46235,15 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "nio_et7_002",
+        "title": "Перегрев инвертора заднего PMSM 300 кВт",
+        "brand": "nio",
+        "model": "et7",
+        "generation": "et7_2022",
+        "urg": 4,
+        "cat": "cooling"
+      },
+      {
         "sit_id": "rivian_r1t_005",
         "title": "Отказ инвертера электромотора",
         "brand": "rivian",
@@ -45577,6 +46251,15 @@
         "generation": "r1t_2021",
         "urg": 5,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "voyah_free_007",
+        "title": "Гул подшипников переднего электромотора",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 3,
+        "cat": "transmission"
       }
     ],
     "P0A3D": [
@@ -45588,6 +46271,26 @@
         "generation": "y_2021",
         "urg": 3,
         "cat": "engine"
+      },
+      {
+        "sit_id": "nio_et7_004",
+        "title": "Износ подшипников переднего ASM 180 кВт",
+        "brand": "nio",
+        "model": "et7",
+        "generation": "et7_2022",
+        "urg": 3,
+        "cat": "electrical"
+      }
+    ],
+    "P0A3E": [
+      {
+        "sit_id": "nio_et7_004",
+        "title": "Износ подшипников переднего ASM 180 кВт",
+        "brand": "nio",
+        "model": "et7",
+        "generation": "et7_2022",
+        "urg": 3,
+        "cat": "electrical"
       }
     ],
     "P0A3F": [
@@ -45644,6 +46347,15 @@
         "generation": "v295_2022",
         "urg": 4,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "nio_et7_002",
+        "title": "Перегрев инвертора заднего PMSM 300 кВт",
+        "brand": "nio",
+        "model": "et7",
+        "generation": "et7_2022",
+        "urg": 4,
+        "cat": "cooling"
       },
       {
         "sit_id": "rivian_r1s_005",
@@ -45731,6 +46443,15 @@
         "generation": "r1t_2021",
         "urg": 3,
         "cat": "transmission"
+      },
+      {
+        "sit_id": "voyah_free_007",
+        "title": "Гул подшипников переднего электромотора",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 3,
+        "cat": "transmission"
       }
     ],
     "P0A4B": [
@@ -45762,6 +46483,15 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "nio_et7_004",
+        "title": "Износ подшипников переднего ASM 180 кВт",
+        "brand": "nio",
+        "model": "et7",
+        "generation": "et7_2022",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "rivian_r1s_004",
         "title": "Сбой терморегуляции батареи",
         "brand": "rivian",
@@ -45778,6 +46508,15 @@
         "generation": "r1t_2021",
         "urg": 5,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "xpeng_p7_005",
+        "title": "Перегрев инвертора заднего мотора",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
+        "urg": 3,
+        "cat": "cooling"
       }
     ],
     "P0A5F": [
@@ -45836,6 +46575,15 @@
         "generation": "bz4x_2022",
         "urg": 3,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "xpeng_p7_005",
+        "title": "Перегрев инвертора заднего мотора",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
+        "urg": 3,
+        "cat": "cooling"
       }
     ],
     "P0A7800": [
@@ -46209,6 +46957,15 @@
         "model": "eqc",
         "generation": "n293_2019",
         "urg": 5,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "nio_et7_001",
+        "title": "Дисбаланс ячеек HV батареи",
+        "brand": "nio",
+        "model": "et7",
+        "generation": "et7_2022",
+        "urg": 3,
         "cat": "electrical"
       },
       {
@@ -46610,6 +47367,15 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "nio_et7_001",
+        "title": "Дисбаланс ячеек HV батареи",
+        "brand": "nio",
+        "model": "et7",
+        "generation": "et7_2022",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "nissan_qashqai_j12_epower_hybrid_battery",
         "title": "Снижение запаса хода на электротяге — деградация батареи e-Power",
         "brand": "nissan",
@@ -46743,6 +47509,33 @@
         "generation": "xp170_2022",
         "urg": 3,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "voyah_free_001",
+        "title": "Деградация HV батареи и ошибки BMS",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "xpeng_p7_001",
+        "title": "Отказ насоса терморегуляции батареи",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
+        "urg": 4,
+        "cat": "cooling"
+      },
+      {
+        "sit_id": "xpeng_p7_007",
+        "title": "Разбалансировка ячеек HV батареи",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
+        "urg": 2,
+        "cat": "electrical"
       }
     ],
     "P0A8000": [
@@ -46830,11 +47623,38 @@
         "cat": "cooling"
       },
       {
+        "sit_id": "nio_et7_006",
+        "title": "Отказ насоса охлаждения батареи",
+        "brand": "nio",
+        "model": "et7",
+        "generation": "et7_2022",
+        "urg": 4,
+        "cat": "cooling"
+      },
+      {
         "sit_id": "rivian_r1t_006",
         "title": "Отказ насоса охлаждения",
         "brand": "rivian",
         "model": "r1t",
         "generation": "r1t_2021",
+        "urg": 4,
+        "cat": "cooling"
+      },
+      {
+        "sit_id": "voyah_free_008",
+        "title": "Утечка антифриза из терморегуляции батареи",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 4,
+        "cat": "cooling"
+      },
+      {
+        "sit_id": "xpeng_p7_001",
+        "title": "Отказ насоса терморегуляции батареи",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
         "urg": 4,
         "cat": "cooling"
       }
@@ -46915,11 +47735,29 @@
         "cat": "cooling"
       },
       {
+        "sit_id": "nio_et7_006",
+        "title": "Отказ насоса охлаждения батареи",
+        "brand": "nio",
+        "model": "et7",
+        "generation": "et7_2022",
+        "urg": 4,
+        "cat": "cooling"
+      },
+      {
         "sit_id": "rivian_r1t_006",
         "title": "Отказ насоса охлаждения",
         "brand": "rivian",
         "model": "r1t",
         "generation": "r1t_2021",
+        "urg": 4,
+        "cat": "cooling"
+      },
+      {
+        "sit_id": "xpeng_p7_001",
+        "title": "Отказ насоса терморегуляции батареи",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
         "urg": 4,
         "cat": "cooling"
       },
@@ -47033,6 +47871,15 @@
         "generation": "s07_2023",
         "urg": 5,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "voyah_free_008",
+        "title": "Утечка антифриза из терморегуляции батареи",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 4,
+        "cat": "cooling"
       }
     ],
     "P0A8E": [
@@ -47191,6 +48038,15 @@
     ],
     "P0A92": [
       {
+        "sit_id": "nio_et7_004",
+        "title": "Износ подшипников переднего ASM 180 кВт",
+        "brand": "nio",
+        "model": "et7",
+        "generation": "et7_2022",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "rivian_r1t_008",
         "title": "Шум и вибрации редуктора мотор-редуктора",
         "brand": "rivian",
@@ -47310,6 +48166,15 @@
         "cat": "cooling"
       },
       {
+        "sit_id": "nio_et7_002",
+        "title": "Перегрев инвертора заднего PMSM 300 кВт",
+        "brand": "nio",
+        "model": "et7",
+        "generation": "et7_2022",
+        "urg": 4,
+        "cat": "cooling"
+      },
+      {
         "sit_id": "tesla_m3_007",
         "title": "Коррозия нагревательного элемента батарейного поддона",
         "brand": "tesla",
@@ -47353,6 +48218,15 @@
         "generation": "bz4x_2022",
         "urg": 2,
         "cat": "ac"
+      },
+      {
+        "sit_id": "xpeng_p7_005",
+        "title": "Перегрев инвертора заднего мотора",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
+        "urg": 3,
+        "cat": "cooling"
       }
     ],
     "P0A94": [
@@ -47517,6 +48391,15 @@
         "generation": "w223_2020",
         "urg": 3,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "nio_et7_002",
+        "title": "Перегрев инвертора заднего PMSM 300 кВт",
+        "brand": "nio",
+        "model": "et7",
+        "generation": "et7_2022",
+        "urg": 4,
+        "cat": "cooling"
       },
       {
         "sit_id": "nissan_x_trail_t33_epower_engine_noise",
@@ -48005,6 +48888,24 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "nio_et7_003",
+        "title": "Неисправность механизма Battery-as-a-Service swap",
+        "brand": "nio",
+        "model": "et7",
+        "generation": "et7_2022",
+        "urg": 5,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "nio_et7_010",
+        "title": "Деградация DC-зарядного порта",
+        "brand": "nio",
+        "model": "et7",
+        "generation": "et7_2022",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "nissan_x_trail_t33_hv_battery_thermal",
         "title": "Снижение мощности в мороз — тепловое ограничение батареи e-Power",
         "brand": "nissan",
@@ -48021,6 +48922,17 @@
         "generation": "bz4x_2022",
         "urg": 2,
         "cat": "ac"
+      }
+    ],
+    "P0AC6": [
+      {
+        "sit_id": "voyah_free_003",
+        "title": "Отказ OBC (AC зарядное)",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 3,
+        "cat": "electrical"
       }
     ],
     "P0ADB": [
@@ -48161,6 +49073,15 @@
         "generation": "s07_2023",
         "urg": 4,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "voyah_free_003",
+        "title": "Отказ OBC (AC зарядное)",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 3,
+        "cat": "electrical"
       }
     ],
     "P0AE9": [
@@ -48212,6 +49133,26 @@
         "generation": "f83_2020",
         "urg": 5,
         "cat": "cooling"
+      },
+      {
+        "sit_id": "voyah_free_006",
+        "title": "Перегрев DC-DC преобразователя",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 4,
+        "cat": "electrical"
+      }
+    ],
+    "P0AEF": [
+      {
+        "sit_id": "voyah_free_006",
+        "title": "Перегрев DC-DC преобразователя",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 4,
+        "cat": "electrical"
       }
     ],
     "P0AF8": [
@@ -48443,6 +49384,15 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "nio_et7_001",
+        "title": "Дисбаланс ячеек HV батареи",
+        "brand": "nio",
+        "model": "et7",
+        "generation": "et7_2022",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "rivian_r1s_004",
         "title": "Сбой терморегуляции батареи",
         "brand": "rivian",
@@ -48522,6 +49472,33 @@
         "generation": "xa50_2019",
         "urg": 4,
         "cat": "transmission"
+      },
+      {
+        "sit_id": "voyah_free_001",
+        "title": "Деградация HV батареи и ошибки BMS",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "xpeng_p7_001",
+        "title": "Отказ насоса терморегуляции батареи",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
+        "urg": 4,
+        "cat": "cooling"
+      },
+      {
+        "sit_id": "xpeng_p7_007",
+        "title": "Разбалансировка ячеек HV батареи",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
+        "urg": 2,
+        "cat": "electrical"
       }
     ],
     "P0AFA00": [
@@ -48563,6 +49540,26 @@
         "model": "sl",
         "generation": "r232_2021",
         "urg": 4,
+        "cat": "electrical"
+      }
+    ],
+    "P0AFC": [
+      {
+        "sit_id": "voyah_free_001",
+        "title": "Деградация HV батареи и ошибки BMS",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "xpeng_p7_007",
+        "title": "Разбалансировка ячеек HV батареи",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
+        "urg": 2,
         "cat": "electrical"
       }
     ],
@@ -48611,6 +49608,15 @@
         "generation": "xp170_2022",
         "urg": 4,
         "cat": "cooling"
+      },
+      {
+        "sit_id": "xpeng_p7_007",
+        "title": "Разбалансировка ячеек HV батареи",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
+        "urg": 2,
+        "cat": "electrical"
       }
     ],
     "P0B20": [
@@ -48662,6 +49668,15 @@
         "generation": "r232_2021",
         "urg": 4,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "nio_et7_001",
+        "title": "Дисбаланс ячеек HV батареи",
+        "brand": "nio",
+        "model": "et7",
+        "generation": "et7_2022",
+        "urg": 3,
+        "cat": "electrical"
       }
     ],
     "P0B39": [
@@ -48684,6 +49699,15 @@
         "generation": "s07_2023",
         "urg": 3,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "nio_et7_006",
+        "title": "Отказ насоса охлаждения батареи",
+        "brand": "nio",
+        "model": "et7",
+        "generation": "et7_2022",
+        "urg": 4,
+        "cat": "cooling"
       }
     ],
     "P0B3C": [
@@ -48814,6 +49838,17 @@
         "cat": "cooling"
       }
     ],
+    "P0BC3": [
+      {
+        "sit_id": "nio_et7_006",
+        "title": "Отказ насоса охлаждения батареи",
+        "brand": "nio",
+        "model": "et7",
+        "generation": "et7_2022",
+        "urg": 4,
+        "cat": "cooling"
+      }
+    ],
     "P0BDE": [
       {
         "sit_id": "mercedes_eqe_002",
@@ -48863,6 +49898,17 @@
         "generation": "mv_2023",
         "urg": 2,
         "cat": "transmission"
+      }
+    ],
+    "P0BEC": [
+      {
+        "sit_id": "nio_et7_010",
+        "title": "Деградация DC-зарядного порта",
+        "brand": "nio",
+        "model": "et7",
+        "generation": "et7_2022",
+        "urg": 3,
+        "cat": "electrical"
       }
     ],
     "P0C73": [
@@ -49057,12 +50103,41 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "nio_et7_010",
+        "title": "Деградация DC-зарядного порта",
+        "brand": "nio",
+        "model": "et7",
+        "generation": "et7_2022",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "rivian_r1t_004",
         "title": "Перегрев зарядного порта DC",
         "brand": "rivian",
         "model": "r1t",
         "generation": "r1t_2021",
         "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "voyah_free_003",
+        "title": "Отказ OBC (AC зарядное)",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 3,
+        "cat": "electrical"
+      }
+    ],
+    "P0D02": [
+      {
+        "sit_id": "voyah_free_003",
+        "title": "Отказ OBC (AC зарядное)",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 3,
         "cat": "electrical"
       }
     ],
@@ -49292,6 +50367,17 @@
         "model": "s07",
         "generation": "s07_2023",
         "urg": 4,
+        "cat": "electrical"
+      }
+    ],
+    "P0DEF": [
+      {
+        "sit_id": "xpeng_p7_004",
+        "title": "Заклинивание электрозамка зарядного порта",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
+        "urg": 3,
         "cat": "electrical"
       }
     ],
@@ -55143,6 +56229,15 @@
         "generation": "nf_2021",
         "urg": 4,
         "cat": "engine"
+      },
+      {
+        "sit_id": "xpeng_p7_004",
+        "title": "Заклинивание электрозамка зарядного порта",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
+        "urg": 3,
+        "cat": "electrical"
       }
     ],
     "P253400": [
@@ -55152,6 +56247,17 @@
         "brand": "audi",
         "model": "rs6",
         "generation": "c8_2019",
+        "urg": 3,
+        "cat": "electrical"
+      }
+    ],
+    "P2535": [
+      {
+        "sit_id": "xpeng_p7_004",
+        "title": "Заклинивание электрозамка зарядного порта",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
         "urg": 3,
         "cat": "electrical"
       }
@@ -55226,6 +56332,15 @@
         "model": "s07",
         "generation": "s07_2023",
         "urg": 5,
+        "cat": "cooling"
+      },
+      {
+        "sit_id": "rivian_r1t_006",
+        "title": "Отказ насоса охлаждения",
+        "brand": "rivian",
+        "model": "r1t",
+        "generation": "r1t_2021",
+        "urg": 4,
         "cat": "cooling"
       }
     ],
@@ -56303,6 +57418,15 @@
         "cat": "brakes"
       },
       {
+        "sit_id": "nio_et7_005",
+        "title": "Потеря связи по CAN-шине (Banyan OS)",
+        "brand": "nio",
+        "model": "et7",
+        "generation": "et7_2022",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "peugeot_408_p54_003",
         "title": "Сбои системы BSI (Body Systems Interface)",
         "brand": "peugeot",
@@ -57070,6 +58194,24 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "nio_et7_003",
+        "title": "Неисправность механизма Battery-as-a-Service swap",
+        "brand": "nio",
+        "model": "et7",
+        "generation": "et7_2022",
+        "urg": 5,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "nio_et7_005",
+        "title": "Потеря связи по CAN-шине (Banyan OS)",
+        "brand": "nio",
+        "model": "et7",
+        "generation": "et7_2022",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "peugeot_408_p54_003",
         "title": "Сбои системы BSI (Body Systems Interface)",
         "brand": "peugeot",
@@ -57259,6 +58401,24 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "voyah_free_001",
+        "title": "Деградация HV батареи и ошибки BMS",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "xpeng_p7_002",
+        "title": "Деградация 12V AGM батареи",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "zeekr_001_002",
         "title": "Разряд 12V аккумулятора за ночь",
         "brand": "zeekr",
@@ -57396,6 +58556,15 @@
         "generation": "r1t_2021",
         "urg": 5,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "voyah_free_006",
+        "title": "Перегрев DC-DC преобразователя",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 4,
+        "cat": "electrical"
       }
     ],
     "U010100": [
@@ -57524,6 +58693,24 @@
         "model": "ev6",
         "generation": "cv_2021",
         "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "nio_et7_005",
+        "title": "Потеря связи по CAN-шине (Banyan OS)",
+        "brand": "nio",
+        "model": "et7",
+        "generation": "et7_2022",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "voyah_free_003",
+        "title": "Отказ OBC (AC зарядное)",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 3,
         "cat": "electrical"
       }
     ],
@@ -58215,6 +59402,24 @@
         "cat": "electrical"
       },
       {
+        "sit_id": "nio_et7_005",
+        "title": "Потеря связи по CAN-шине (Banyan OS)",
+        "brand": "nio",
+        "model": "et7",
+        "generation": "et7_2022",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "nio_et7_007",
+        "title": "Деградация вспомогательной 12В АКБ",
+        "brand": "nio",
+        "model": "et7",
+        "generation": "et7_2022",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "porsche_cayenne_9ya_002",
         "title": "Сбои системы PCM 6.0 — зависания и потеря связи с ECU",
         "brand": "porsche",
@@ -58366,6 +59571,24 @@
         "generation": "lc_2015",
         "urg": 3,
         "cat": "body"
+      },
+      {
+        "sit_id": "voyah_free_004",
+        "title": "Быстрый разряд 12V АКБ",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "xpeng_p7_002",
+        "title": "Деградация 12V AGM батареи",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
+        "urg": 3,
+        "cat": "electrical"
       }
     ],
     "U014000": [
@@ -58472,6 +59695,24 @@
         "model": "eqe",
         "generation": "v295_2022",
         "urg": 5,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "nio_et7_005",
+        "title": "Потеря связи по CAN-шине (Banyan OS)",
+        "brand": "nio",
+        "model": "et7",
+        "generation": "et7_2022",
+        "urg": 4,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "voyah_free_004",
+        "title": "Быстрый разряд 12V АКБ",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 4,
         "cat": "electrical"
       }
     ],
@@ -59209,6 +60450,15 @@
         "generation": "xv70_2018",
         "urg": 2,
         "cat": "body"
+      },
+      {
+        "sit_id": "voyah_free_010",
+        "title": "Сбой калибровки ADAS",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 2,
+        "cat": "electrical"
       }
     ],
     "U023F": [
@@ -59219,6 +60469,17 @@
         "model": "r1s",
         "generation": "r1s_2022",
         "urg": 3,
+        "cat": "electrical"
+      }
+    ],
+    "U0240": [
+      {
+        "sit_id": "voyah_free_010",
+        "title": "Сбой калибровки ADAS",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 2,
         "cat": "electrical"
       }
     ],
@@ -59313,6 +60574,15 @@
         "generation": "on_2019",
         "urg": 3,
         "cat": "electrical"
+      },
+      {
+        "sit_id": "voyah_free_010",
+        "title": "Сбой калибровки ADAS",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 2,
+        "cat": "electrical"
       }
     ],
     "U040062": [
@@ -59379,6 +60649,15 @@
         "model": "kuga",
         "generation": "mk2_2013",
         "urg": 4,
+        "cat": "chassis"
+      },
+      {
+        "sit_id": "voyah_free_002",
+        "title": "Отказ пневмоподвески и падение компрессора",
+        "brand": "voyah",
+        "model": "free",
+        "generation": "free_2021",
+        "urg": 5,
         "cat": "chassis"
       }
     ],
@@ -59548,6 +60827,15 @@
         "cat": "chassis"
       },
       {
+        "sit_id": "nio_et7_009",
+        "title": "Уход калибровки лидара и камер ADAS",
+        "brand": "nio",
+        "model": "et7",
+        "generation": "et7_2022",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
         "sit_id": "renault_arkana_007",
         "title": "Запотевание и сбой многофункциональной камеры (на лобовом стекле)",
         "brand": "renault",
@@ -59572,6 +60860,15 @@
         "model": "xc60",
         "generation": "su_2017",
         "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "xpeng_p7_003",
+        "title": "Сбой калибровки радаров XPilot",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
+        "urg": 4,
         "cat": "electrical"
       },
       {
@@ -59650,6 +60947,24 @@
         "model": "tiggo_8_pro",
         "generation": "t8p_2021",
         "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "nio_et7_009",
+        "title": "Уход калибровки лидара и камер ADAS",
+        "brand": "nio",
+        "model": "et7",
+        "generation": "et7_2022",
+        "urg": 3,
+        "cat": "electrical"
+      },
+      {
+        "sit_id": "xpeng_p7_003",
+        "title": "Сбой калибровки радаров XPilot",
+        "brand": "xpeng",
+        "model": "p7",
+        "generation": "p7_2020",
+        "urg": 4,
         "cat": "electrical"
       }
     ],

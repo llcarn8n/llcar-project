@@ -1,0 +1,276 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 38,
+  "codes": {
+    "P0A09": {
+      "count": 2,
+      "situations": [
+        "nio_et7_003",
+        "nio_et7_010"
+      ],
+      "category": "hv_electric"
+    },
+    "P0AC4": {
+      "count": 2,
+      "situations": [
+        "nio_et7_003",
+        "nio_et7_010"
+      ],
+      "category": "hv_electric"
+    },
+    "U0100": {
+      "count": 2,
+      "situations": [
+        "nio_et7_003",
+        "nio_et7_005"
+      ],
+      "category": "network"
+    },
+    "U0140": {
+      "count": 2,
+      "situations": [
+        "nio_et7_005",
+        "nio_et7_007"
+      ],
+      "category": "network"
+    },
+    "P0A80": {
+      "count": 1,
+      "situations": [
+        "nio_et7_001"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A7F": {
+      "count": 1,
+      "situations": [
+        "nio_et7_001"
+      ],
+      "category": "hv_electric"
+    },
+    "P0AFA": {
+      "count": 1,
+      "situations": [
+        "nio_et7_001"
+      ],
+      "category": "hv_electric"
+    },
+    "P0B38": {
+      "count": 1,
+      "situations": [
+        "nio_et7_001"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A3C": {
+      "count": 1,
+      "situations": [
+        "nio_et7_002"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A94": {
+      "count": 1,
+      "situations": [
+        "nio_et7_002"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A3F": {
+      "count": 1,
+      "situations": [
+        "nio_et7_002"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A93": {
+      "count": 1,
+      "situations": [
+        "nio_et7_002"
+      ],
+      "category": "hv_electric"
+    },
+    "B1C00": {
+      "count": 1,
+      "situations": [
+        "nio_et7_003"
+      ],
+      "category": "body"
+    },
+    "P0A92": {
+      "count": 1,
+      "situations": [
+        "nio_et7_004"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A4B": {
+      "count": 1,
+      "situations": [
+        "nio_et7_004"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A3E": {
+      "count": 1,
+      "situations": [
+        "nio_et7_004"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A3D": {
+      "count": 1,
+      "situations": [
+        "nio_et7_004"
+      ],
+      "category": "hv_electric"
+    },
+    "U0111": {
+      "count": 1,
+      "situations": [
+        "nio_et7_005"
+      ],
+      "category": "network"
+    },
+    "U0151": {
+      "count": 1,
+      "situations": [
+        "nio_et7_005"
+      ],
+      "category": "network"
+    },
+    "U0073": {
+      "count": 1,
+      "situations": [
+        "nio_et7_005"
+      ],
+      "category": "network"
+    },
+    "P0BC3": {
+      "count": 1,
+      "situations": [
+        "nio_et7_006"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A81": {
+      "count": 1,
+      "situations": [
+        "nio_et7_006"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A82": {
+      "count": 1,
+      "situations": [
+        "nio_et7_006"
+      ],
+      "category": "hv_electric"
+    },
+    "P0B3B": {
+      "count": 1,
+      "situations": [
+        "nio_et7_006"
+      ],
+      "category": "hv_electric"
+    },
+    "B1C01": {
+      "count": 1,
+      "situations": [
+        "nio_et7_007"
+      ],
+      "category": "body"
+    },
+    "P0562": {
+      "count": 1,
+      "situations": [
+        "nio_et7_007"
+      ],
+      "category": "engine"
+    },
+    "P0563": {
+      "count": 1,
+      "situations": [
+        "nio_et7_007"
+      ],
+      "category": "engine"
+    },
+    "C1A20": {
+      "count": 1,
+      "situations": [
+        "nio_et7_008"
+      ],
+      "category": "chassis"
+    },
+    "C1A10": {
+      "count": 1,
+      "situations": [
+        "nio_et7_008"
+      ],
+      "category": "chassis"
+    },
+    "C1130": {
+      "count": 1,
+      "situations": [
+        "nio_et7_008"
+      ],
+      "category": "chassis"
+    },
+    "C1145": {
+      "count": 1,
+      "situations": [
+        "nio_et7_008"
+      ],
+      "category": "chassis"
+    },
+    "C1A77": {
+      "count": 1,
+      "situations": [
+        "nio_et7_009"
+      ],
+      "category": "chassis"
+    },
+    "C1A78": {
+      "count": 1,
+      "situations": [
+        "nio_et7_009"
+      ],
+      "category": "chassis"
+    },
+    "U0415": {
+      "count": 1,
+      "situations": [
+        "nio_et7_009"
+      ],
+      "category": "network"
+    },
+    "U0418": {
+      "count": 1,
+      "situations": [
+        "nio_et7_009"
+      ],
+      "category": "network"
+    },
+    "B1D00": {
+      "count": 1,
+      "situations": [
+        "nio_et7_009"
+      ],
+      "category": "body"
+    },
+    "P0BEC": {
+      "count": 1,
+      "situations": [
+        "nio_et7_010"
+      ],
+      "category": "hv_electric"
+    },
+    "P0D00": {
+      "count": 1,
+      "situations": [
+        "nio_et7_010"
+      ],
+      "category": "hv_electric"
+    }
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "generated_at": "2026-04-14",
+  "total_codes": 41,
+  "codes": {
+    "P0AFA": {
+      "count": 2,
+      "situations": [
+        "xpeng_p7_001",
+        "xpeng_p7_007"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A80": {
+      "count": 2,
+      "situations": [
+        "xpeng_p7_001",
+        "xpeng_p7_007"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A81": {
+      "count": 1,
+      "situations": [
+        "xpeng_p7_001"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A82": {
+      "count": 1,
+      "situations": [
+        "xpeng_p7_001"
+      ],
+      "category": "hv_electric"
+    },
+    "P0562": {
+      "count": 1,
+      "situations": [
+        "xpeng_p7_002"
+      ],
+      "category": "engine"
+    },
+    "P0563": {
+      "count": 1,
+      "situations": [
+        "xpeng_p7_002"
+      ],
+      "category": "engine"
+    },
+    "U0100": {
+      "count": 1,
+      "situations": [
+        "xpeng_p7_002"
+      ],
+      "category": "network"
+    },
+    "U0140": {
+      "count": 1,
+      "situations": [
+        "xpeng_p7_002"
+      ],
+      "category": "network"
+    },
+    "B10A0": {
+      "count": 1,
+      "situations": [
+        "xpeng_p7_002"
+      ],
+      "category": "body"
+    },
+    "C1106": {
+      "count": 1,
+      "situations": [
+        "xpeng_p7_003"
+      ],
+      "category": "chassis"
+    },
+    "C1107": {
+      "count": 1,
+      "situations": [
+        "xpeng_p7_003"
+      ],
+      "category": "chassis"
+    },
+    "C1108": {
+      "count": 1,
+      "situations": [
+        "xpeng_p7_003"
+      ],
+      "category": "chassis"
+    },
+    "U0415": {
+      "count": 1,
+      "situations": [
+        "xpeng_p7_003"
+      ],
+      "category": "network"
+    },
+    "U0418": {
+      "count": 1,
+      "situations": [
+        "xpeng_p7_003"
+      ],
+      "category": "network"
+    },
+    "P2534": {
+      "count": 1,
+      "situations": [
+        "xpeng_p7_004"
+      ],
+      "category": "engine"
+    },
+    "P2535": {
+      "count": 1,
+      "situations": [
+        "xpeng_p7_004"
+      ],
+      "category": "engine"
+    },
+    "P0DEF": {
+      "count": 1,
+      "situations": [
+        "xpeng_p7_004"
+      ],
+      "category": "hv_electric"
+    },
+    "B1318": {
+      "count": 1,
+      "situations": [
+        "xpeng_p7_004"
+      ],
+      "category": "body"
+    },
+    "P0A1A": {
+      "count": 1,
+      "situations": [
+        "xpeng_p7_005"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A78": {
+      "count": 1,
+      "situations": [
+        "xpeng_p7_005"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A93": {
+      "count": 1,
+      "situations": [
+        "xpeng_p7_005"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A4B": {
+      "count": 1,
+      "situations": [
+        "xpeng_p7_005"
+      ],
+      "category": "hv_electric"
+    },
+    "C1845": {
+      "count": 1,
+      "situations": [
+        "xpeng_p7_006"
+      ],
+      "category": "chassis"
+    },
+    "C1846": {
+      "count": 1,
+      "situations": [
+        "xpeng_p7_006"
+      ],
+      "category": "chassis"
+    },
+    "C1847": {
+      "count": 1,
+      "situations": [
+        "xpeng_p7_006"
+      ],
+      "category": "chassis"
+    },
+    "C1842": {
+      "count": 1,
+      "situations": [
+        "xpeng_p7_006"
+      ],
+      "category": "chassis"
+    },
+    "P0B00": {
+      "count": 1,
+      "situations": [
+        "xpeng_p7_007"
+      ],
+      "category": "hv_electric"
+    },
+    "P0AFC": {
+      "count": 1,
+      "situations": [
+        "xpeng_p7_007"
+      ],
+      "category": "hv_electric"
+    },
+    "C1256": {
+      "count": 1,
+      "situations": [
+        "xpeng_p7_008"
+      ],
+      "category": "chassis"
+    },
+    "C1257": {
+      "count": 1,
+      "situations": [
+        "xpeng_p7_008"
+      ],
+      "category": "chassis"
+    },
+    "C1258": {
+      "count": 1,
+      "situations": [
+        "xpeng_p7_008"
+      ],
+      "category": "chassis"
+    },
+    "C1255": {
+      "count": 1,
+      "situations": [
+        "xpeng_p7_008"
+      ],
+      "category": "chassis"
+    },
+    "P0A0C": {
+      "count": 1,
+      "situations": [
+        "xpeng_p7_009"
+      ],
+      "category": "hv_electric"
+    },
+    "P0A0D": {
+      "count": 1,
+      "situations": [
+        "xpeng_p7_009"
+      ],
+      "category": "hv_electric"
+    },
+    "P0645": {
+      "count": 1,
+      "situations": [
+        "xpeng_p7_009"
+      ],
+      "category": "engine"
+    },
+    "P0646": {
+      "count": 1,
+      "situations": [
+        "xpeng_p7_009"
+      ],
+      "category": "engine"
+    },
+    "B10C5": {
+      "count": 1,
+      "situations": [
+        "xpeng_p7_009"
+      ],
+      "category": "body"
+    },
+    "B10A5": {
+      "count": 1,
+      "situations": [
+        "xpeng_p7_010"
+      ],
+      "category": "body"
+    },
+    "B10A6": {
+      "count": 1,
+      "situations": [
+        "xpeng_p7_010"
+      ],
+      "category": "body"
+    },
+    "B10A7": {
+      "count": 1,
+      "situations": [
+        "xpeng_p7_010"
+      ],
+      "category": "body"
+    },
+    "B10A8": {
+      "count": 1,
+      "situations": [
+        "xpeng_p7_010"
+      ],
+      "category": "body"
+    }
+  }
+}
