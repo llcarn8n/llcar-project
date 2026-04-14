@@ -2,17 +2,28 @@
   "generation_id": "acura_rdx_tc1_2018",
   "generation_name": "Acura RDX TC1 (III поколение)",
   "year_start": 2018,
-  "year_end": null,
-  "body_type": "compact SUV 5-seat",
+  "year_end": 2024,
+  "body_type": "SUV 5-door",
   "market": "parallel_import",
   "production": "Honda, East Liberty, Ohio, USA",
-  "facelift": 2022,
-  "platform": "Honda global compact SUV platform",
+  "facelift": 2021,
+  "platform": "Honda L platform (global SUV)",
   "engines": [
-    { "code": "K20C4", "volume": "2.0L", "type": "VTEC Turbo 16V", "fuel": "petrol", "power_hp": 272 }
+    {
+      "code": "K20C4",
+      "volume": "2.0L",
+      "type": "VTEC Turbo 4-cyl",
+      "fuel": "petrol",
+      "power_hp": 272
+    }
   ],
-  "transmissions": ["10AT (Honda 10-speed)"],
-  "drivetrains": ["FWD", "SH-AWD"],
+  "transmissions": [
+    "10AT (10R80 Honda-Ford co-dev)"
+  ],
+  "drivetrains": [
+    "FWD",
+    "SH-AWD"
+  ],
   "popularity_ru": "low",
-  "notes": "Третье поколение Acura RDX TC1. Двигатель K20C4 2.0T 272 л.с. АКПП Honda 10AT. Система SH-AWD (опция). Рестайлинг 2022. Параллельный импорт в РФ."
+  "notes": "Третье поколение Acura RDX TC1. Двигатель K20C4 2.0T турбо. АКПП 10-ступенчатый автомат 10R80 (разработка Honda/Ford). Система SH-AWD опциональна. Параллельный импорт в РФ."
 }

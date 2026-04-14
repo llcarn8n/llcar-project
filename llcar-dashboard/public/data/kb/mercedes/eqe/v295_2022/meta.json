@@ -1,0 +1,38 @@
+{
+  "model_name": "EQE",
+  "generation": "V295 (2022-н.в.)",
+  "body_styles": [
+    "sedan"
+  ],
+  "engines": [
+    {
+      "code": "EQE 350+",
+      "type": "PSM",
+      "power_kw": 215,
+      "power_hp": 292
+    },
+    {
+      "code": "EQE 500 4MATIC",
+      "type": "Dual PSM",
+      "power_kw": 300,
+      "power_hp": 408
+    },
+    {
+      "code": "EQE 53 AMG",
+      "type": "Dual PSM",
+      "power_kw": 460,
+      "power_hp": 625
+    }
+  ],
+  "transmissions": [
+    "single-speed"
+  ],
+  "platform": "EVA2",
+  "production_years": "2022-н.в.",
+  "russia_relevant": true,
+  "battery": {
+    "capacity_kwh": 90.6,
+    "chemistry": "NMC",
+    "voltage": 400
+  }
+}

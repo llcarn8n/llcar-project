@@ -1,0 +1,24 @@
+{
+  "model_name": "RS6",
+  "generation": "C8 (2019-н.в.)",
+  "body_styles": [
+    "avant"
+  ],
+  "engines": [
+    {
+      "code": "4.0 TFSI DJPB V8",
+      "displacement": 3996,
+      "power_hp": 600,
+      "features": [
+        "mild-hybrid 48V",
+        "cylinder-on-demand"
+      ]
+    }
+  ],
+  "transmissions": [
+    "ZF 8HP90 ALH5580"
+  ],
+  "platform": "MLB Evo",
+  "production_years": "2019-н.в.",
+  "russia_relevant": true
+}

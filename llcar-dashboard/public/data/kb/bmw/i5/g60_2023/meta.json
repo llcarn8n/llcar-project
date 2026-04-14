@@ -1,0 +1,32 @@
+{
+  "model_name": "i5",
+  "generation": "G60 (2023-н.в.)",
+  "body_styles": [
+    "sedan"
+  ],
+  "engines": [
+    {
+      "code": "eDrive40",
+      "type": "PMSM",
+      "power_kw": 250,
+      "power_hp": 340
+    },
+    {
+      "code": "M60 xDrive",
+      "type": "Dual PSM",
+      "power_kw": 442,
+      "power_hp": 601
+    }
+  ],
+  "transmissions": [
+    "single-speed"
+  ],
+  "platform": "CLAR (G60, 6th-gen eDrive)",
+  "production_years": "2023-н.в.",
+  "russia_relevant": true,
+  "battery": {
+    "capacity_kwh": 81.2,
+    "chemistry": "NMC",
+    "voltage": 400
+  }
+}
