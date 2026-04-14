@@ -1,0 +1,65 @@
+[
+  {
+    "sit_id": "jidu_robo_01_001",
+    "field": "platform",
+    "current": "SEA-E",
+    "corrected": "SEA (Geely Sustainable Experience Architecture)",
+    "confidence": "high",
+    "source": "Geely Holding press releases; Jidu Auto product announcements 2022-2023",
+    "reason": "Jidu ROBO-01 uses Geely SEA platform. 'SEA-E' is not a documented sub-variant. Task spec mentions SEA-M but that is also undocumented for ROBO-01. Correct umbrella is simply 'SEA'."
+  },
+  {
+    "sit_id": "jidu_robo_01_002",
+    "field": "camera_count",
+    "current": "31 камера",
+    "corrected": "12 камер (HD perception cameras)",
+    "confidence": "high",
+    "source": "Jidu launch event Oct 2022; Baidu Apollo sensor stack disclosure",
+    "reason": "ROBO-01 sensor suite: 2 LiDAR + 12 cameras + 5 mmWave radars + 12 ultrasonic + dual Nvidia Orin-X. The figure '31 cameras' is not supported by any primary source — likely confusion with total sensor count."
+  },
+  {
+    "sit_id": "jidu_robo_01_003",
+    "field": "front_motor_power",
+    "current": "150 кВт (передний)",
+    "corrected": "~200 кВт (передний PSM)",
+    "confidence": "medium",
+    "source": "Jidu spec sheet; CarNewsChina/AutoHome dual-motor variant data",
+    "reason": "Dual-motor 400 kW ROBO-01 typically has ~200 kW front + ~200 kW rear PSM (symmetric). 150/250 split is not the published configuration."
+  },
+  {
+    "sit_id": "jidu_robo_01_003",
+    "field": "platform_coolant_spec",
+    "current": "SEA-E spec",
+    "corrected": "SEA spec / Geely OEM coolant",
+    "confidence": "high",
+    "source": "Geely SEA platform documentation",
+    "reason": "Same SEA-E mislabel as #001."
+  },
+  {
+    "sit_id": "jidu_robo_01_005",
+    "field": "platform",
+    "current": "SEA-E",
+    "corrected": "SEA",
+    "confidence": "high",
+    "source": "Geely Holding",
+    "reason": "Same SEA-E mislabel as #001."
+  },
+  {
+    "sit_id": "jidu_robo_01_009",
+    "field": "rear_motor_power",
+    "current": "250 кВт (задний)",
+    "corrected": "~200 кВт (задний PSM)",
+    "confidence": "medium",
+    "source": "Jidu/Geely spec disclosures",
+    "reason": "Published dual-motor split is ~200+200 kW, not 150+250. Rear motor at 250 kW is overstated."
+  },
+  {
+    "sit_id": "jidu_robo_01_009",
+    "field": "rear_motor_rpm",
+    "current": "16000 об/мин",
+    "corrected": "до ~16000 об/мин (правдоподобно, но не подтверждено)",
+    "confidence": "low",
+    "source": "Generic PSM EV motor specs",
+    "reason": "16k rpm is plausible for modern PSM EV motors but Jidu has not publicly disclosed exact peak rpm for ROBO-01 rear motor."
+  }
+]

@@ -1,0 +1,109 @@
+{
+  "vehicle": "IM Motors (Zhiji) L7 2022",
+  "file_checked": "C:/Users/Петр/Downloads/Маркетинговые материалы/llcar-dashboard/public/data/kb/im_motors/l7/l7_2022/situations.json",
+  "context_baseline": {
+    "platform": "IM L-series (SAIC + Alibaba + Zhangjiang Hi-Tech)",
+    "drivetrain": "RWD 250 kW (340 hp) или AWD 425 kW (250 rear + 175 front, не 340 front)",
+    "battery": "90 kWh или 93 kWh NMC (CATL), liquid-cooled. 'Semi-solid' (Qilin/Zhiji 130 kWh) появилась лишь на L7 Lightyear edition 2023+, не базовый 2022",
+    "adas": "IM AD: 12 камер (не 11), 5 mmWave-радаров, 12 УЗ-датчиков, опциональный LiDAR (LR-edition 2023+, на 2022 — без LiDAR)",
+    "steering": "Опциональное steer-by-wire + rear-axle steering (RAS, до 12°), радиус разворота 10.8 м (5.4 м — это радиус по внутренней траектории/half), не 5.4 м диаметром",
+    "release": "Серия началась апрель 2022 (не июнь) после премьеры 2021"
+  },
+  "findings": [
+    {
+      "sit_id": "im_motors_l7_001",
+      "field": "qa.battery_chemistry+capacity",
+      "current": "CATL NCM semi-solid 90-120 кВт·ч",
+      "corrected": "CATL NMC liquid 90 или 93 кВт·ч (semi-solid 130 кВт·ч — только Lightyear edition 2023+, не 2022 base)",
+      "confidence": "high",
+      "source": "IM Motors press release апрель 2022; CATL semi-solid roadmap 2023",
+      "reason": "Semi-solid батарея на L7 анонсирована лишь в ноябре 2022 и пошла в Lightyear edition 2023; для 2022 MY указывать semi-solid некорректно"
+    },
+    {
+      "sit_id": "im_motors_l7_002",
+      "field": "qa.turning_radius",
+      "current": "радиус разворота 5.4 м",
+      "corrected": "радиус разворота 10.8 м (диаметр), либо 'минимальный радиус 5.4 м' (по внутренней колее) — формулировку уточнить",
+      "confidence": "medium",
+      "source": "IM L7 spec sheet 2022, Auto Home China",
+      "reason": "5.4 м — это радиус по оси, разворот 'в круге' = 10.8 м диаметра. Формулировка 'радиус 5.4 м' технически верна только для радиуса, не для диаметра разворота"
+    },
+    {
+      "sit_id": "im_motors_l7_003",
+      "field": "qa.adas_sensors",
+      "current": "лидар, 11 камер, 5 радаров, 12 УЗ датчиков",
+      "corrected": "12 камер (HD), 5 mmWave-радаров, 12 УЗ; LiDAR — опция LR-edition 2023+, в base 2022 LiDAR отсутствует",
+      "confidence": "high",
+      "source": "IM Motors official IMAD spec; CarNewsChina апрель 2022",
+      "reason": "У L7 2022 ровно 12 камер (3 фронт + боковые + задняя + surround). LiDAR появился позже"
+    },
+    {
+      "sit_id": "im_motors_l7_003",
+      "field": "qa.platform_name",
+      "current": "IM Hi4",
+      "corrected": "IMAD / IM AD Pilot (Hi4 — это технология Great Wall Hi4 AWD, не имеет отношения к IM Motors)",
+      "confidence": "high",
+      "source": "GWM Hi4 spec; IM Motors IMAD branding",
+      "reason": "Hi4 — торговая марка Great Wall Motor (DHT-PHEV/AWD). У IM используется IMAD (IM Autonomous Driving) на Nvidia Orin"
+    },
+    {
+      "sit_id": "im_motors_l7_004",
+      "field": "qa.dc_max_power",
+      "current": "DC CCS2 (до 90 кВт)",
+      "corrected": "DC до 180 кВт (стандарт GB/T, не CCS2; в Китае DC = GB/T 20234.3); 11 кВт AC (GB/T 20234.2)",
+      "confidence": "high",
+      "source": "IM L7 charging spec 2022; CnEVPost",
+      "reason": "Китайский рынок 2022 — разъём GB/T, не CCS2. Пик DC мощности L7 — около 180 кВт (400V архитектура), 90 кВт занижено"
+    },
+    {
+      "sit_id": "im_motors_l7_005",
+      "field": "qa.front_motor_power+0-100",
+      "current": "Sport-режиме передний 340 кВт ... 0-100 3.7 → 6+ сек",
+      "corrected": "передний мотор 175 кВт (не 340); общая AWD 425 кВт; 0-100 = 3.87 с (AWD Performance) — формулировка ок, но 340 кВт front неверно",
+      "confidence": "high",
+      "source": "IM L7 Dynamic/Pro/Lightyear spec; SAIC press kit",
+      "reason": "Front PMSM = 175 кВт, rear = 250 кВт, итого 425 кВт. 340 кВт спутано с лошадиными силами заднего (340 hp ≈ 250 кВт)"
+    },
+    {
+      "sit_id": "im_motors_l7_006",
+      "field": "solutions.coolant_type",
+      "current": "свежий G12+",
+      "corrected": "OAT-coolant по спецификации SAIC (обычно фиолетовый/розовый long-life, не VW G12+); для EV-контура — диэлектрический low-conductivity coolant",
+      "confidence": "medium",
+      "source": "SAIC EV service manual general practice",
+      "reason": "G12+ — спецификация VAG. Для китайских EV (SAIC/CATL) применяется собственный OAT-coolant с пониженной электропроводностью; смешивание с G12+ может быть некорректным"
+    },
+    {
+      "sit_id": "im_motors_l7_008",
+      "field": "dtc_codes (C0035/C0040/C0045/C0050)",
+      "current": "C0035, C0040, C0045, C0050",
+      "corrected": "C0035=Front LH wheel speed sensor; C0040=Front RH wheel speed; C0045=Rear LH; C0050=Rear RH — это коды датчиков ABS, не by-wire тормозов. Для by-wire правильнее C121x, C1A0x, C055x",
+      "confidence": "high",
+      "source": "SAE J2012 generic chassis DTC",
+      "reason": "Указанные коды относятся к ABS wheel speed sensors, а не к pedal travel sensor / iBooster failure. Для by-wire brake — C121F, C1A50, C055D и др."
+    },
+    {
+      "sit_id": "im_motors_l7_010",
+      "field": "qa.screen_size+os",
+      "current": "Центральный 39\" экран ... Android Automotive ... T-Box (Alibaba телематика)",
+      "corrected": "Дисплей L7 = 39 дюймов изогнутый (3 экрана: 12.3+10.5+12.3, общий = ~39\") — формулировка ок. ОС = IMOS на базе AliOS (Banma/Alibaba), НЕ Android Automotive. T-Box — стандартное название телематического блока, не привязан к Alibaba конкретно",
+      "confidence": "high",
+      "source": "IM Motors IMOS press; AliOS Banma announcement",
+      "reason": "L7 использует IMOS (Banma AliOS), не Android Automotive (AAOS — Volvo/Polestar/GM). Это важное отличие для диагностики"
+    }
+  ],
+  "summary": {
+    "total_situations": 10,
+    "issues_found": 9,
+    "high_confidence": 7,
+    "medium_confidence": 2,
+    "critical_corrections": [
+      "001: semi-solid battery → стандарт NMC liquid для 2022",
+      "003: 'IM Hi4' → IMAD (Hi4 — это GWM)",
+      "004: CCS2 → GB/T, 90 кВт → 180 кВт",
+      "005: front 340 кВт → 175 кВт",
+      "008: ABS wheel-speed DTC указаны вместо by-wire brake DTC",
+      "010: Android Automotive → IMOS/AliOS"
+    ]
+  }
+}

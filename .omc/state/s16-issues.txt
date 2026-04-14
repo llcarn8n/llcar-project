@@ -1,0 +1,364 @@
+[OK]   acura\mdx\yd3_2013\situations.json (10 situations)
+[OK]   acura\rdx\tc1_2018\situations.json (10 situations)
+[OK]   aion\y\y_2021\situations.json (10 situations)
+[OK]   alfa_romeo\giulia\952_2015\situations.json (10 situations)
+[OK]   alfa_romeo\stelvio\949_2016\situations.json (10 situations)
+[OK]   audi\a3\8v_2012\situations.json (10 situations)
+[FAIL] audi\a4\b8_2008\situations.json: 1/10 situations invalid
+[OK]   audi\a4\b9_2015\situations.json (10 situations)
+[OK]   audi\a5\8t_2007\situations.json (10 situations)
+[OK]   audi\a5\f5_2016\situations.json (10 situations)
+[OK]   audi\a6\c7_2011\situations.json (10 situations)
+[OK]   audi\a7\4g_2010\situations.json (10 situations)
+[OK]   audi\a7\4k_2017\situations.json (10 situations)
+[OK]   audi\a8\d5_2017\situations.json (9 situations)
+[OK]   audi\e_tron_gt\f83_2020\situations.json (10 situations)
+[OK]   audi\q3\8u_2011\situations.json (10 situations)
+[OK]   audi\q3\f3_2018\situations.json (10 situations)
+[OK]   audi\q4_e_tron\89_2021\situations.json (9 situations)
+[OK]   audi\q5\8r_2008\situations.json (10 situations)
+[FAIL] audi\q5\fy_2017\situations.json: 1/10 situations invalid
+[OK]   audi\q7\4m_2015\situations.json (10 situations)
+[OK]   audi\q8\4m_2018\situations.json (10 situations)
+[OK]   audi\rs6\c8_2019\situations.json (9 situations)
+[OK]   avatr\11\11_2022\situations.json (10 situations)
+[OK]   avatr\12\12_2023\situations.json (10 situations)
+[OK]   bmw\1_series\f20_2011\situations.json (10 situations)
+[OK]   bmw\2_series\f22_2013\situations.json (10 situations)
+[OK]   bmw\2_series\g42_2021\situations.json (10 situations)
+[OK]   bmw\3_series\f30_2012\situations.json (10 situations)
+[OK]   bmw\3_series\g20_2019\situations.json (10 situations)
+[OK]   bmw\4_series\f32_2013\situations.json (10 situations)
+[OK]   bmw\4_series\g22_2020\situations.json (10 situations)
+[OK]   bmw\5_series\f10_2010\situations.json (10 situations)
+[OK]   bmw\5_series\g30_2017\situations.json (10 situations)
+[FAIL] bmw\6_series\f13_2010\situations.json: 1/10 situations invalid
+[OK]   bmw\6_series\g32_2017\situations.json (10 situations)
+[OK]   bmw\7_series\g11_2015\situations.json (10 situations)
+[OK]   bmw\8_series\g14_2018\situations.json (10 situations)
+[OK]   bmw\i4\g26_2021\situations.json (10 situations)
+[FAIL] bmw\i5\g60_2023\situations.json: 1/10 situations invalid
+[OK]   bmw\i7\g70_2022\situations.json (10 situations)
+[OK]   bmw\ix\i20_2021\situations.json (10 situations)
+[OK]   bmw\ix3\g08_2020\situations.json (10 situations)
+[FAIL] bmw\x1\f48_2015\situations.json: 1/10 situations invalid
+[OK]   bmw\x2\f39_2017\situations.json (10 situations)
+[OK]   bmw\x3\f25_2010\situations.json (10 situations)
+[FAIL] bmw\x3\g01_2017\situations.json: 2/10 situations invalid
+[OK]   bmw\x3\g45_2024\situations.json (9 situations)
+[OK]   bmw\x4\g02_2018\situations.json (10 situations)
+[OK]   bmw\x5\f15_2013\situations.json (10 situations)
+[OK]   bmw\x5\g05_2018\situations.json (10 situations)
+[OK]   bmw\x6\f16_2014\situations.json (10 situations)
+[OK]   bmw\x6\g06_2019\situations.json (10 situations)
+[OK]   bmw\x7\g07_2018\situations.json (10 situations)
+[OK]   bmw\z4\g29_2018\situations.json (10 situations)
+[OK]   byd\atto_3\yuan_2021\situations.json (10 situations)
+[OK]   byd\dolphin\dolphin_2021\situations.json (10 situations)
+[OK]   byd\han\han_2020\situations.json (10 situations)
+[OK]   byd\seal\seal_2022\situations.json (10 situations)
+[OK]   byd\tang\tang_2018\situations.json (10 situations)
+[OK]   cadillac\xt5\2016\situations.json (10 situations)
+[OK]   cadillac\xt6\2019\situations.json (10 situations)
+[OK]   changan\cs35_plus\cs35p1_2018\situations.json (10 situations)
+[OK]   changan\cs75_plus\cs75p1_2019\situations.json (10 situations)
+[OK]   changan\uni_k\unik1_2021\situations.json (10 situations)
+[OK]   changan\uni_t\unit1_2020\situations.json (10 situations)
+[OK]   chery\tiggo2_pro\t2p_2021\situations.json (10 situations)
+[OK]   chery\tiggo4_pro\t1c_2021\situations.json (10 situations)
+[OK]   chery\tiggo_7_pro\t7p_2020\situations.json (10 situations)
+[OK]   chery\tiggo_8_pro\t8p_2021\situations.json (10 situations)
+[OK]   chevrolet\cruze\j400_2016\situations.json (10 situations)
+[OK]   chrysler\300c\lx2_2011\situations.json (10 situations)
+[OK]   citroen\c5\rc_2021\situations.json (5 situations)
+[OK]   citroen\c5\x7_2008\situations.json (5 situations)
+[OK]   deepal\s07\s07_2023\situations.json (10 situations)
+[OK]   dodge\challenger\lc_2008\situations.json (10 situations)
+[OK]   dodge\charger\ld_2011\situations.json (10 situations)
+[OK]   exeed\lx\lx1_2019\situations.json (10 situations)
+[OK]   exeed\txl\txl1_2020\situations.json (10 situations)
+[OK]   exeed\vx\vx1_2020\situations.json (10 situations)
+[OK]   faw_bestune\t77\t77_gen1_2018\situations.json (10 situations)
+[OK]   faw_bestune\t99\t99_gen1_2020\situations.json (10 situations)
+[OK]   fiat\500\312_2007\situations.json (10 situations)
+[OK]   fiat\ducato\x290_2014\situations.json (10 situations)
+[OK]   fiat\tipo\356_2015\situations.json (10 situations)
+[OK]   ford\focus\mk3_2011\situations.json (10 situations)
+[OK]   ford\kuga\mk2_2013\situations.json (10 situations)
+[OK]   ford\mondeo\mk5_2014\situations.json (10 situations)
+[OK]   geely\atlas\nl3_2018\situations.json (10 situations)
+[OK]   geely\coolray\sx11_2020\situations.json (10 situations)
+[OK]   geely\monjaro\kx11_2022\situations.json (10 situations)
+[OK]   geely\tugella\fy11_2020\situations.json (10 situations)
+[OK]   haval\dargo\dargo_2022\situations.json (10 situations)
+[OK]   haval\f7\f7_2019\situations.json (10 situations)
+[OK]   haval\h9\h9_2015\situations.json (10 situations)
+[OK]   haval\jolion\jol_2021\situations.json (10 situations)
+[OK]   hiphi\x\x_2021\situations.json (10 situations)
+[FAIL] honda\civic\fc_2016\situations.json: 2/10 situations invalid
+[OK]   honda\cr_v\rw_2017\situations.json (10 situations)
+[OK]   hyundai\accent\rb_2011\situations.json (10 situations)
+[OK]   hyundai\creta\gs_2014\situations.json (10 situations)
+[OK]   hyundai\creta\gs_2016\situations.json (10 situations)
+[OK]   hyundai\creta\su2_2021\situations.json (10 situations)
+[OK]   hyundai\elantra\ad_2016\situations.json (10 situations)
+[OK]   hyundai\elantra\cn7_2020\situations.json (8 situations)
+[OK]   hyundai\genesis_g70\ik_2017\situations.json (10 situations)
+[OK]   hyundai\genesis_g80\rg3_2020\situations.json (10 situations)
+[OK]   hyundai\genesis_g90\rs4_2022\situations.json (10 situations)
+[OK]   hyundai\genesis_gv70\jk_2020\situations.json (10 situations)
+[OK]   hyundai\genesis_gv80\jx_2020\situations.json (10 situations)
+[OK]   hyundai\ioniq5\ne_2021\situations.json (10 situations)
+[OK]   hyundai\ioniq6\ce_2022\situations.json (10 situations)
+[OK]   hyundai\ix35\lm_2010\situations.json (10 situations)
+[FAIL] hyundai\palisade\lx2_2019\situations.json: 1/10 situations invalid
+[OK]   hyundai\santa_fe\cm_2005\situations.json (10 situations)
+[OK]   hyundai\santa_fe\dm_2012\situations.json (10 situations)
+[OK]   hyundai\santa_fe\mx5_2023\situations.json (10 situations)
+[OK]   hyundai\santa_fe\tm_2018\situations.json (10 situations)
+[OK]   hyundai\solaris\hc_2017\situations.json (10 situations)
+[OK]   hyundai\solaris\rb_2011\situations.json (10 situations)
+[FAIL] hyundai\sonata\dn8_2019\situations.json: 1/10 situations invalid
+[OK]   hyundai\staria\us4_2021\situations.json (10 situations)
+[OK]   hyundai\tucson\nx4_2020\situations.json (10 situations)
+[OK]   hyundai\tucson\nx4_2021\situations.json (10 situations)
+[OK]   hyundai\tucson\tl_2015\situations.json (10 situations)
+[OK]   im_motors\l7\l7_2022\situations.json (10 situations)
+[OK]   infiniti\q50\v37_2013\situations.json (10 situations)
+[OK]   infiniti\qx50\j55_2017\situations.json (10 situations)
+[OK]   infiniti\qx60\l50_2013\situations.json (10 situations)
+[OK]   infiniti\qx70\s51_2013\situations.json (10 situations)
+[OK]   jac\js4\js4_gen1_2019\situations.json (10 situations)
+[OK]   jac\js6\js6_gen1_2021\situations.json (10 situations)
+[OK]   jaguar\f_pace\x761_2015\situations.json (10 situations)
+[OK]   jeep\compass\mp_2017\situations.json (10 situations)
+[OK]   jeep\grand_cherokee\wk2_2010\situations.json (10 situations)
+[OK]   jeep\grand_cherokee\wl_2021\situations.json (5 situations)
+[OK]   jeep\wrangler\jl_2018\situations.json (10 situations)
+[OK]   jetour\dashing\dashing_gen1_2022\situations.json (10 situations)
+[OK]   jetour\x70\x70_gen1_2018\situations.json (10 situations)
+[OK]   jidu\robocar_01\robo_01_2023\situations.json (10 situations)
+[OK]   kia\carnival\ka4_2020\situations.json (10 situations)
+[OK]   kia\ceed\jd_2012\situations.json (10 situations)
+[OK]   kia\cerato\bd_2018\situations.json (10 situations)
+[OK]   kia\cerato\ld_2003\situations.json (10 situations)
+[OK]   kia\cerato\td_2008\situations.json (10 situations)
+[OK]   kia\cerato\yd_2013\situations.json (8 situations)
+[OK]   kia\ev6\cv_2021\situations.json (10 situations)
+[OK]   kia\ev9\mv_2023\situations.json (10 situations)
+[OK]   kia\k5\dl3_2020\situations.json (10 situations)
+[OK]   kia\mohave\hm_2019\situations.json (10 situations)
+[OK]   kia\optima\jf_2015\situations.json (10 situations)
+[OK]   kia\rio\dc_2000\situations.json (10 situations)
+[OK]   kia\rio\fb_2017\situations.json (10 situations)
+[OK]   kia\rio\jb_2005\situations.json (10 situations)
+[OK]   kia\rio\qb_2011\situations.json (10 situations)
+[OK]   kia\seltos\sp2_2020\situations.json (10 situations)
+[OK]   kia\sorento\um_2015\situations.json (10 situations)
+[OK]   kia\soul\ps_2014\situations.json (10 situations)
+[OK]   kia\soul\sk3_2019\situations.json (10 situations)
+[OK]   kia\sportage\nq5_2022\situations.json (10 situations)
+[OK]   kia\sportage\ql_2016\situations.json (10 situations)
+[OK]   kia\sportage\sl_2010\situations.json (10 situations)
+[OK]   kia\stinger\ck_2017\situations.json (10 situations)
+[OK]   kia\telluride\on_2019\situations.json (9 situations)
+[OK]   lada\granta\2190_2018\situations.json (10 situations)
+[OK]   lada\largus\r90_2012\situations.json (10 situations)
+[OK]   lada\niva\2121_1977\situations.json (10 situations)
+[OK]   lada\vesta\gfl_2015\situations.json (10 situations)
+[FAIL] lada\xray\b2_2015\situations.json: 4/10 situations invalid
+[OK]   land_rover\discovery_sport\l550_2014\situations.json (10 situations)
+[OK]   land_rover\range_rover_sport\l494_2013\situations.json (10 situations)
+[OK]   leap_motor\c11\c11_2021\situations.json (10 situations)
+[OK]   lexus\es\xv60_2012\situations.json (10 situations)
+[OK]   lexus\es\xv70_2018\situations.json (10 situations)
+[OK]   lexus\lx\j200_2007\situations.json (10 situations)
+[OK]   lexus\lx\j300_2021\situations.json (10 situations)
+[OK]   lexus\nx\az10_2014\situations.json (10 situations)
+[OK]   lexus\rx\al20_2015\situations.json (10 situations)
+[OK]   lincoln\aviator\u611_2019\situations.json (10 situations)
+[OK]   lincoln\navigator\u554_2017\situations.json (10 situations)
+[OK]   lucid\air\air_2021\situations.json (10 situations)
+[FAIL] mazda\3\bm_2013\situations.json: 4/10 situations invalid
+[OK]   mazda\3\bp_2019\situations.json (10 situations)
+[OK]   mazda\6\gj_2012\situations.json (10 situations)
+[OK]   mazda\cx30\dm_2019\situations.json (10 situations)
+[OK]   mazda\cx5\ke_2012\situations.json (10 situations)
+[FAIL] mazda\cx5\kf_2017\situations.json: 3/10 situations invalid
+[OK]   mazda\cx50\cx50_2022\situations.json (10 situations)
+[OK]   mazda\cx9\tc_2016\situations.json (10 situations)
+[FAIL] mercedes\a_class\w177_2018\situations.json: 1/10 situations invalid
+[OK]   mercedes\amg_gt\c192_2023\situations.json (10 situations)
+[OK]   mercedes\c_class\w204_2007\situations.json (10 situations)
+[OK]   mercedes\c_class\w205_2014\situations.json (10 situations)
+[OK]   mercedes\cla\c117_2013\situations.json (10 situations)
+[OK]   mercedes\cls\w218_2011\situations.json (10 situations)
+[OK]   mercedes\cls\w257_2018\situations.json (10 situations)
+[OK]   mercedes\e_class\w212_2009\situations.json (10 situations)
+[OK]   mercedes\e_class\w213_2016\situations.json (10 situations)
+[OK]   mercedes\eqc\n293_2019\situations.json (10 situations)
+[OK]   mercedes\eqe\v295_2022\situations.json (10 situations)
+[OK]   mercedes\eqs\v297_2021\situations.json (10 situations)
+[FAIL] mercedes\g_class\w463_1990\situations.json: 1/10 situations invalid
+[OK]   mercedes\g_class\w464_2018\situations.json (10 situations)
+[OK]   mercedes\gla\h247_2020\situations.json (10 situations)
+[OK]   mercedes\glb\x247_2019\situations.json (10 situations)
+[OK]   mercedes\glc\x253_2015\situations.json (10 situations)
+[OK]   mercedes\gle\w166_2011\situations.json (10 situations)
+[OK]   mercedes\gle\w167_2019\situations.json (10 situations)
+[OK]   mercedes\gls\x166_2012\situations.json (10 situations)
+[OK]   mercedes\gls\x167_2019\situations.json (10 situations)
+[OK]   mercedes\s_class\w222_2013\situations.json (10 situations)
+[OK]   mercedes\s_class\w223_2020\situations.json (10 situations)
+[OK]   mercedes\sl\r232_2021\situations.json (10 situations)
+[OK]   mercedes\v_class\w447_2014\situations.json (10 situations)
+[OK]   mini\cooper\f56_2013\situations.json (10 situations)
+[OK]   mini\countryman\f60_2017\situations.json (10 situations)
+[OK]   mitsubishi\asx\ga_2010\situations.json (10 situations)
+[OK]   mitsubishi\lancer\cy_2007\situations.json (10 situations)
+[OK]   mitsubishi\outlander\gf_2012\situations.json (10 situations)
+[OK]   mitsubishi\pajero_sport\ks_2016\situations.json (10 situations)
+[OK]   nio\et7\et7_2022\situations.json (10 situations)
+[OK]   nissan\almera\g15_2013\situations.json (10 situations)
+[OK]   nissan\murano\z52_2014\situations.json (10 situations)
+[OK]   nissan\pathfinder\r52_2013\situations.json (10 situations)
+[OK]   nissan\qashqai\j11_2014\situations.json (10 situations)
+[OK]   nissan\qashqai\j12_2021\situations.json (10 situations)
+[OK]   nissan\teana\j32_2008\situations.json (10 situations)
+[OK]   nissan\teana\l33_2013\situations.json (10 situations)
+[OK]   nissan\terrano\d10_2014\situations.json (10 situations)
+[OK]   nissan\x_trail\t32_2015\situations.json (10 situations)
+[OK]   nissan\x_trail\t33_2022\situations.json (10 situations)
+[OK]   omoda\c5\c5_gen1_2022\situations.json (10 situations)
+[OK]   omoda\s5\s5_gen1_2023\situations.json (10 situations)
+[OK]   opel\astra_k\2015\situations.json (10 situations)
+[OK]   opel\corsa_e\2014\situations.json (10 situations)
+[OK]   opel\insignia_b\2017\situations.json (10 situations)
+[OK]   peugeot\408\p54_2022\situations.json (4 situations)
+[OK]   peugeot\408\t7_2010\situations.json (10 situations)
+[OK]   porsche\cayenne\92a_2010\situations.json (10 situations)
+[OK]   porsche\cayenne\9ya_2017\situations.json (10 situations)
+[OK]   porsche\macan\95b_2014\situations.json (10 situations)
+[FAIL] renault\arkana\rjl_2019\situations.json: 1/10 situations invalid
+[OK]   renault\duster\hm_2021\situations.json (10 situations)
+[OK]   renault\duster\hs_2015\situations.json (10 situations)
+[FAIL] renault\kaptur\hha_2016\situations.json: 3/10 situations invalid
+[FAIL] renault\koleos\hy_2007\situations.json: 1/10 situations invalid
+[FAIL] renault\koleos\hz_2016\situations.json: 1/10 situations invalid
+[OK]   renault\logan\l52_2014\situations.json (10 situations)
+[OK]   renault\logan\l8_2014\situations.json (10 situations)
+[OK]   renault\logan\l90_2004\situations.json (10 situations)
+[OK]   renault\logan\ll_2022\situations.json (10 situations)
+[OK]   renault\sandero\b52_2014\situations.json (10 situations)
+[OK]   renault\sandero\b8_2014\situations.json (10 situations)
+[OK]   renault\sandero\b90_2009\situations.json (10 situations)
+[OK]   rivian\r1s\r1s_2022\situations.json (10 situations)
+[OK]   rivian\r1t\r1t_2021\situations.json (10 situations)
+[OK]   skoda\fabia\nj_2014\situations.json (10 situations)
+[OK]   skoda\fabia\pj_2021\situations.json (10 situations)
+[FAIL] skoda\karoq\nu_2017\situations.json: 2/10 situations invalid
+[OK]   skoda\kodiaq\ns_2016\situations.json (10 situations)
+[OK]   skoda\kodiaq\ns_2017\situations.json (10 situations)
+[OK]   skoda\octavia\a8_2020\situations.json (10 situations)
+[OK]   skoda\rapid\nh_2020\situations.json (10 situations)
+[OK]   skoda\superb\3v_2015\situations.json (10 situations)
+[OK]   skoda\superb\b8_2015\situations.json (10 situations)
+[OK]   smart\forfour\w453_2014\situations.json (10 situations)
+[OK]   smart\fortwo\c453_2014\situations.json (10 situations)
+[OK]   subaru\forester\sk_2018\situations.json (10 situations)
+[OK]   subaru\outback\bs_2014\situations.json (10 situations)
+[OK]   suzuki\vitara\ly_2015\situations.json (10 situations)
+[OK]   tesla\model_3\m3_2017\situations.json (10 situations)
+[OK]   tesla\model_s\ms_2012\situations.json (10 situations)
+[OK]   tesla\model_x\mx_2015\situations.json (10 situations)
+[OK]   tesla\model_y\my_2020\situations.json (10 situations)
+[OK]   toyota\alphard\ah30_2015\situations.json (10 situations)
+[OK]   toyota\alphard\ah40_2023\situations.json (10 situations)
+[OK]   toyota\bz4x\bz4x_2022\situations.json (10 situations)
+[OK]   toyota\camry\v50_2011\situations.json (10 situations)
+[FAIL] toyota\camry\xv40_2006\situations.json: 1/10 situations invalid
+[OK]   toyota\camry\xv70_2018\situations.json (10 situations)
+[OK]   toyota\corolla\e180_2013\situations.json (10 situations)
+[OK]   toyota\corolla\e210_2019\situations.json (10 situations)
+[OK]   toyota\highlander\xu70_2019\situations.json (10 situations)
+[OK]   toyota\land_cruiser\j200_2007\situations.json (10 situations)
+[OK]   toyota\land_cruiser\j300_2021\situations.json (10 situations)
+[OK]   toyota\prado\j150_2009\situations.json (10 situations)
+[OK]   toyota\rav4\xa40_2013\situations.json (10 situations)
+[OK]   toyota\rav4\xa50_2019\situations.json (10 situations)
+[OK]   toyota\sienta\xp170_2022\situations.json (10 situations)
+[OK]   uaz\patriot\patriot_2005\situations.json (10 situations)
+[OK]   volkswagen\golf\mk7_2012\situations.json (10 situations)
+[OK]   volkswagen\passat\b8_2014\situations.json (10 situations)
+[OK]   volkswagen\passat\b8_2015\situations.json (10 situations)
+[OK]   volkswagen\polo\aw_2020\situations.json (10 situations)
+[OK]   volkswagen\polo\mk6_2020\situations.json (10 situations)
+[OK]   volkswagen\tiguan\ad1_2016\situations.json (10 situations)
+[OK]   volkswagen\tiguan\nf_2021\situations.json (10 situations)
+[OK]   volkswagen\touareg\cr_2018\situations.json (10 situations)
+[FAIL] volvo\s60\p_2018\situations.json: 4/10 situations invalid
+[OK]   volvo\s60\v_2010\situations.json (10 situations)
+[FAIL] volvo\xc40\536_2017\situations.json: 3/10 situations invalid
+[FAIL] volvo\xc60\su_2017\situations.json: 1/10 situations invalid
+[OK]   volvo\xc90\lc_2015\situations.json (10 situations)
+[OK]   voyah\free\free_2021\situations.json (10 situations)
+[OK]   xpeng\p7\p7_2020\situations.json (10 situations)
+[OK]   zeekr\001\001_2021\situations.json (10 situations)
+[OK]   zeekr\007\007_2024\situations.json (10 situations)
+[OK]   zeekr\009\009_2022\situations.json (10 situations)
+[OK]   zeekr\x\x_2023\situations.json (10 situations)
+
+--- Issue details ---
+  audi\a4\b8_2008\situations.json: [audi_a4_b8_009] invalid DTC code: 'Нет DTC кодов (диагностика на подъемнике)'
+  audi\q5\fy_2017\situations.json: [audi_q5_fy_007] invalid DTC code: '-'
+  bmw\6_series\f13_2010\situations.json: [bmw_6_f13_002] invalid DTC code: '11657619458'
+  bmw\i5\g60_2023\situations.json: [bmw_i5_009] invalid DTC code: '0x801123'
+  bmw\x1\f48_2015\situations.json: [bmw_x1_f48_009] invalid DTC code: '-'
+  bmw\x3\g01_2017\situations.json: [bmw_x3_g01_007] invalid DTC code: 'Нет DTC'
+  bmw\x3\g01_2017\situations.json: [bmw_x3_g01_007] invalid DTC code: 'Возможны случайные ошибки блоков комфорта при затеке воды'
+  bmw\x3\g01_2017\situations.json: [bmw_x3_g01_009] invalid DTC code: 'Нет DTC (механический износ)'
+  honda\civic\fc_2016\situations.json: [honda_civic_fc_007] invalid DTC code: 'Нет ошибок (механическая неисправность)'
+  honda\civic\fc_2016\situations.json: [honda_civic_fc_008] invalid DTC code: 'Нет DTC (механическая поломка)'
+  hyundai\palisade\lx2_2019\situations.json: [hyundai_palisade_010] invalid DTC code: 'None'
+  hyundai\sonata\dn8_2019\situations.json: [hyundai_sonata_dn8_010] invalid DTC code: 'B16XX'
+  lada\xray\b2_2015\situations.json: [lada_xray_002] invalid DTC code: 'P17H2'
+  lada\xray\b2_2015\situations.json: [lada_xray_004] invalid DTC code: 'Нет кодов (механическая поломка)'
+  lada\xray\b2_2015\situations.json: [lada_xray_008] invalid DTC code: 'Нет кодов (механический износ)'
+  lada\xray\b2_2015\situations.json: [lada_xray_010] invalid DTC code: 'Нет кодов (кузовная проблема)'
+  mazda\3\bm_2013\situations.json: [mazda_3_bm_004] invalid DTC code: '-'
+  mazda\3\bm_2013\situations.json: [mazda_3_bm_005] invalid DTC code: '-'
+  mazda\3\bm_2013\situations.json: [mazda_3_bm_006] invalid DTC code: '-'
+  mazda\3\bm_2013\situations.json: [mazda_3_bm_007] invalid DTC code: '-'
+  mazda\cx5\kf_2017\situations.json: [mazda_cx5_kf_005] invalid DTC code: 'Нет DTC (механическая неисправность)'
+  mazda\cx5\kf_2017\situations.json: [mazda_cx5_kf_007] invalid DTC code: 'Нет DTC'
+  mazda\cx5\kf_2017\situations.json: [mazda_cx5_kf_010] invalid DTC code: 'Нет DTC'
+  mercedes\a_class\w177_2018\situations.json: [merc_a_w177_008] invalid DTC code: '—'
+  mercedes\g_class\w463_1990\situations.json: [merc_g_w463_007] invalid DTC code: 'P4WD01'
+  mercedes\g_class\w463_1990\situations.json: [merc_g_w463_007] invalid DTC code: 'P4WD03'
+  renault\arkana\rjl_2019\situations.json: [renault_arkana_010] invalid DTC code: 'Нет DTC ошибок'
+  renault\kaptur\hha_2016\situations.json: [renault_kaptur_008] invalid DTC code: '-'
+  renault\kaptur\hha_2016\situations.json: [renault_kaptur_009] invalid DTC code: '-'
+  renault\kaptur\hha_2016\situations.json: [renault_kaptur_010] invalid DTC code: '-'
+  renault\koleos\hy_2007\situations.json: [renault_koleos_hy_002] invalid DTC code: 'AWD-001'
+  renault\koleos\hz_2016\situations.json: [renault_koleos_hz_007] invalid DTC code: 'AWD-001'
+  renault\koleos\hz_2016\situations.json: [renault_koleos_hz_007] invalid DTC code: '4WD-002'
+  skoda\karoq\nu_2017\situations.json: [skoda_karoq_nu_005] invalid DTC code: 'Нет кодов (механическая проблема)'
+  skoda\karoq\nu_2017\situations.json: [skoda_karoq_nu_008] invalid DTC code: 'Нет DTC (механический износ)'
+  toyota\camry\xv40_2006\situations.json: [toyota_camry_xv40_008] missing required field 'urg'
+  toyota\camry\xv40_2006\situations.json: [toyota_camry_xv40_008] missing required field 'solutions'
+  toyota\camry\xv40_2006\situations.json: [toyota_camry_xv40_008] urg must be int 1-5, got None
+  toyota\camry\xv40_2006\situations.json: [toyota_camry_xv40_008] solutions must be non-empty list
+  volvo\s60\p_2018\situations.json: [volvo_s60_p_003] invalid DTC code: 'HVB-001'
+  volvo\s60\p_2018\situations.json: [volvo_s60_p_003] invalid DTC code: 'BMS-002'
+  volvo\s60\p_2018\situations.json: [volvo_s60_p_005] invalid DTC code: 'PA-001'
+  volvo\s60\p_2018\situations.json: [volvo_s60_p_005] invalid DTC code: 'CA-001'
+  volvo\s60\p_2018\situations.json: [volvo_s60_p_007] invalid DTC code: 'SB-001'
+  volvo\s60\p_2018\situations.json: [volvo_s60_p_009] invalid DTC code: 'ECT-001'
+  volvo\xc40\536_2017\situations.json: [volvo_xc40_536_001] invalid DTC code: 'ECM-0001'
+  volvo\xc40\536_2017\situations.json: [volvo_xc40_536_001] invalid DTC code: 'ECM-0002'
+  volvo\xc40\536_2017\situations.json: [volvo_xc40_536_003] invalid DTC code: 'AWD-001'
+  volvo\xc40\536_2017\situations.json: [volvo_xc40_536_007] invalid DTC code: 'ABS-001'
+  volvo\xc40\536_2017\situations.json: [volvo_xc40_536_007] invalid DTC code: 'STC-001'
+  volvo\xc60\su_2017\situations.json: [volvo_xc60_su_008] invalid DTC code: 'Нет ошибок (механический износ)'
+
+Summary: 286/309 files OK, 3019/3060 situations valid, 51 issues total.

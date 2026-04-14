@@ -1,0 +1,83 @@
+[
+  {
+    "sit_id": "leap_motor_c11_001",
+    "field": "battery_pack_technology",
+    "current": "Дисбаланс в батарее CTC 78.5 или 90 кВт·ч",
+    "corrected": "C11 2021 НЕ использует CTC (Cell-to-Chassis). CTC впервые применена на Leapmotor C01 (седан, 2022). C11 2021 имеет классический модульный pack. Также 90 кВт·ч версия 2021-2022 — NMC (тройной), не LFP. LFP только на 78.5 кВт·ч стандарт.",
+    "confidence": "high",
+    "source": "Leapmotor official press release C01 launch 2022; CarNewsChina C11 specs 2021",
+    "reason": "CTC технология анонсирована Leapmotor в апреле 2022 для C01. C11 2021 имеет prismatic LFP cells (78.5 kWh) или NMC (90 kWh long range) в обычной модульной компоновке."
+  },
+  {
+    "sit_id": "leap_motor_c11_002",
+    "field": "awd_total_power",
+    "current": "Полноприводные C11 с 2 моторами (400-450 кВт суммарно)",
+    "corrected": "AWD C11 Performance: 400 кВт суммарно (front 130 kW + rear 200 kW = 330 kW peak в 2021, либо 400 kW в 2022 Performance). Цифра 450 кВт некорректна.",
+    "confidence": "high",
+    "source": "Leapmotor C11 official specifications, EV-Database",
+    "reason": "Топовая Performance AWD C11 имеет 400 кВт пиковую (двигатели 200+200 или 130+200). 450 kW не существует в этой линейке."
+  },
+  {
+    "sit_id": "leap_motor_c11_005",
+    "field": "charging_protocol",
+    "current": "несовместимость с некоторыми станциями из-за GB/T протокола (китайский рынок), не всегда корректно адаптирован в РФ",
+    "corrected": "Корректно для machин из Китая (GB/T DC коннектор). НО в РФ официальные импорты обычно с GB/T (требует адаптер для CCS2). Уточнение: пиковая мощность DC C11 — 80 kW (78.5 kWh) или 84 kW (90 kWh), не 90 кВт.",
+    "confidence": "medium",
+    "source": "Leapmotor C11 specs sheet, Chinese EV imports РФ обзоры",
+    "reason": "Заявленная пиковая DC мощность C11 2021 — 80-84 kW, не 90 kW. Деградация на медленную имеет смысл, но базовые цифры неточны."
+  },
+  {
+    "sit_id": "leap_motor_c11_006",
+    "field": "air_suspension_availability",
+    "current": "Подвеска C11, особенно в версиях с пневмоподвеской (топовые комплектации)",
+    "corrected": "C11 2021 НЕ имеет пневмоподвески ни в одной комплектации. Подвеска — McPherson спереди + многорычажная сзади со стальными пружинами и адаптивными амортизаторами CDC только на топовых трим-уровнях. Пневма появилась только на старших Leapmotor C16/C10 поздних поколений.",
+    "confidence": "high",
+    "source": "Leapmotor C11 brochure 2021, autohome.com.cn спецификации",
+    "reason": "Ни одна версия C11 2021 (Pro/Premium/Performance) не оснащена air suspension. Это фактическая ошибка."
+  },
+  {
+    "sit_id": "leap_motor_c11_006",
+    "field": "dtc_codes",
+    "current": "C0550, C0565, C0580, C0750, U0140",
+    "corrected": "C0550/C0565/C0580 — non-standard коды для подвески. Более корректно: C1A00-C1A99 (suspension control), либо OEM-specific Leapmotor коды. U0140 (Lost comm BCM) к подвеске не относится.",
+    "confidence": "medium",
+    "source": "SAE J2012 DTC standard",
+    "reason": "Указанные C0xxx коды — относятся к ABS/traction (по SAE), не к амортизаторам/пневмо. U0140 не подходит."
+  },
+  {
+    "sit_id": "leap_motor_c11_008",
+    "field": "ereev_existence_2021",
+    "current": "C11 EREV с 1.5L двигателем-генератором ~95 л.с. для зарядки батареи 18.1 кВт·ч",
+    "corrected": "C11 EREV (Range Extender) НЕ существовал в 2021 году. EREV версия C11 запущена в марте 2023. Батарея EREV C11 — 43.7 кВт·ч LFP (NOT 18.1 кВт·ч). Двигатель: 1.5L 4-cyl 1.5L Mitsubishi-derived, 70 kW (~95 л.с.). Для модельного года 2021 эта ситуация неприменима.",
+    "confidence": "high",
+    "source": "Leapmotor C11 EREV launch event March 2023, CarNewsChina, official specs",
+    "reason": "Critical error: C11 EREV не выпускался в 2021. Для file 'c11_2021/situations.json' эта ситуация некорректна. Если оставлять — батарея 43.7 кВт·ч, не 18.1."
+  },
+  {
+    "sit_id": "leap_motor_c11_008",
+    "field": "dtc_codes",
+    "current": "P0010, P0335, P0420, P0171, P0230",
+    "corrected": "P0010 — VVT (CMP actuator) — корректно для extender. P0335 — CKP sensor — корректно. P0420 — catalyst efficiency — корректно. P0171 — system lean — корректно. P0230 — fuel pump primary circuit — корректно. Все коды релевантны для 1.5L extender, но (см. выше) сам extender в 2021 модели отсутствует.",
+    "confidence": "medium",
+    "source": "SAE J2012",
+    "reason": "Коды сами по себе валидны, но контекст применения (C11 2021) — ошибочный."
+  },
+  {
+    "sit_id": "leap_motor_c11_009",
+    "field": "dtc_codes",
+    "current": "C056D, C056E, P055A, C1225, C1256",
+    "corrected": "C056D/C056E — не стандартные SAE коды для вакуумного насоса. Корректнее: C1391 (brake vacuum sensor), P0556 (brake booster vacuum sensor circuit), P056B (brake booster pressure sensor). C1225 — обычно low tire pressure (TPMS), не вакуум. C1256 — non-standard.",
+    "confidence": "medium",
+    "source": "SAE J2012-DA, OBD-II generic codes database",
+    "reason": "Несколько кодов в списке либо не существуют в стандарте, либо относятся к другим системам (TPMS вместо вакуума)."
+  },
+  {
+    "sit_id": "leap_motor_c11_010",
+    "field": "software_platform_version",
+    "current": "ПО C11 на LEAP 3.0 регулярно обновляется",
+    "corrected": "C11 2021 запущен на платформе LEAP 1.0 (LEAP architecture первого поколения). LEAP 3.0 анонсирована в 2023 для C10/C16. C11 2021 получает обновления, но это не LEAP 3.0 платформа. Возможно подразумевалась версия ПО мультимедиа Leapmotor OS, не платформа.",
+    "confidence": "high",
+    "source": "Leapmotor official platform roadmap, LEAP 3.0 announcement 2023",
+    "reason": "Терминологическая путаница: LEAP — это аппаратная платформа автомобиля. C11 2021 на LEAP 1.0/2.0, не 3.0. LEAP 3.0 вышла в 2023 году."
+  }
+]

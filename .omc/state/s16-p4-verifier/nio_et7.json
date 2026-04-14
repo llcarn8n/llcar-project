@@ -1,0 +1,20 @@
+[
+  {
+    "sit_id": "nio_et7_002",
+    "field": "title",
+    "current": "Перегрев инвертора заднего PMSM 300 кВт",
+    "corrected": "Перегрев инвертора заднего PMSM 240 кВт",
+    "confidence": "high",
+    "source": "Nio ET7 official specs (NIO press release 2021-01-09, EVDB): front 180 kW induction (ASM) + rear 240 kW PMSM = 480 kW total combined system",
+    "reason": "Заявленная мощность заднего PMSM 300 кВт некорректна. По официальным данным Nio суммарная мощность 480 кВт = 180 кВт передний ASM + 240 кВт задний PMSM. 300 кВт не соответствует ни передней, ни задней оси."
+  },
+  {
+    "sit_id": "nio_et7_002",
+    "field": "qa",
+    "current": "Перегрев инвертора заднего PMSM (255 кВт)",
+    "corrected": "Перегрев инвертора заднего PMSM (240 кВт)",
+    "confidence": "high",
+    "source": "Nio ET7 official specs (NIO 2021-01, EVSpecifications, EV Database)",
+    "reason": "Внутри одного описания указано 300 кВт (title) и 255 кВт (qa) — обе цифры не соответствуют реальным 240 кВт заднего PMSM Nio ET7."
+  }
+]

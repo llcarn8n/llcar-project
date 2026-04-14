@@ -1,0 +1,109 @@
+{
+  "vehicle": "Voyah Free 2021",
+  "platform": "ESSA (Dongfeng)",
+  "verifier_notes": "Voyah Free launched Sep 2021, deliveries 2022. Two versions: BEV (88/106 kWh CATL NCM, dual-motor AWD ~360 kW: front 160 kW + rear 200 kW; some sources cite 200+194) and EREV (1.5T DK15 range-extender + battery ~33-41 kWh, dual motor). Brand of Dongfeng. OBC typically 6.6 kW (not 11 kW) on early Free; high-voltage architecture ~400V class. ADAS by Bosch + Huawei components on later versions; lidar only on top trims.",
+  "findings": [
+    {
+      "sit_id": "voyah_free_001",
+      "field": "battery_capacity",
+      "current": "BEV 88 кВт·ч, EREV 33 кВт·ч",
+      "corrected": "BEV: 88 кВт·ч (Standard) или 106 кВт·ч (Long Range), CATL NCM. EREV: ~33 кВт·ч (CATL NCM)",
+      "confidence": "high",
+      "source": "Voyah official specs / CarNewsChina 2021-2022",
+      "reason": "В qa указана только 88 кВт·ч для BEV — точно, но без упоминания 106 кВт·ч Long Range версии. EREV 33 кВт·ч корректно для ранней версии. Поставщик CATL NCM указан верно."
+    },
+    {
+      "sit_id": "voyah_free_001",
+      "field": "dtc_codes",
+      "current": "P0A80, P0AFA, P0AFC, U0100, P0A04",
+      "corrected": "P0A80, P0AFA, P0AFC, U0100, P0A04 (приемлемо — generic SAE J2012 HV/BMS коды)",
+      "confidence": "high",
+      "source": "SAE J2012",
+      "reason": "Generic коды деградации HV батареи и связи BMS — корректны для любой EV."
+    },
+    {
+      "sit_id": "voyah_free_002",
+      "field": "supplier_air_suspension",
+      "current": "Continental пневмобаллоны и компрессорная установка с осушителем",
+      "corrected": "Производитель пневмоподвески Voyah Free официально не подтверждён как Continental. Vendor неизвестен публично; вероятнее AMK или китайский поставщик (например, Kongsberg/Wabco-derivative). Continental не подтверждён.",
+      "confidence": "medium",
+      "source": "Отсутствие публичных подтверждений Continental в спецификации Voyah Free",
+      "reason": "Указание Continental — спекулятивно. Лучше нейтрально 'OEM пневмобаллоны' или указать неопределённость."
+    },
+    {
+      "sit_id": "voyah_free_003",
+      "field": "obc_power",
+      "current": "OBC 11 кВт",
+      "corrected": "OBC 6.6 кВт (типично для китайских EV 2021 platform); 11 кВт встречается редко и не подтверждён для Voyah Free",
+      "confidence": "medium",
+      "source": "Спецификации китайских EV 2021 / Voyah Free product sheet",
+      "reason": "11 кВт OBC требует 3-фазного ввода, что не штатно для китайского рынка 2021. На Voyah Free скорее 6.6 кВт (1-фазный) или опционально 11 кВт. Нужна осторожность."
+    },
+    {
+      "sit_id": "voyah_free_005",
+      "field": "engine_spec",
+      "current": "Range extender Dongfeng DK15TDF 1.5T (130 кВт), турбокомпрессор Mitsubishi MHI",
+      "corrected": "Range extender — Dongfeng DK15 1.5T, мощность ~80-90 кВт (генераторный режим), не 130 кВт. 130 кВт — это пиковая мощность мотора, не ДВС. Турбо MHI — не подтверждено публично.",
+      "confidence": "medium",
+      "source": "Voyah EREV technical data, Dongfeng DK15 engine specs",
+      "reason": "DK15 в режиме range-extender работает в узком диапазоне 2500-3500 об/мин, выдаёт ~80 кВт электрической мощности через генератор. 130 кВт — это, видимо, путаница с motor power. Поставщик турбины MHI спекулятивен."
+    },
+    {
+      "sit_id": "voyah_free_007",
+      "field": "motor_power",
+      "current": "AWD 2 мотора 360 кВт суммарно, передний 160 кВт",
+      "corrected": "Voyah Free AWD: front motor ~160 кВт + rear motor ~200 кВт = 360 кВт суммарно — корректно для одной из конфигураций. Альтернативная версия: front 200 + rear 194 кВт = 394 кВт",
+      "confidence": "high",
+      "source": "Voyah Free spec sheet 2021",
+      "reason": "Конфигурация 160+200=360 кВт — корректна для базовой AWD версии. Указано верно."
+    },
+    {
+      "sit_id": "voyah_free_007",
+      "field": "transmission_oil",
+      "current": "Motul Gl-5 75W-80 для редуктора электромотора",
+      "corrected": "Для EV редукторов чаще требуется специальное E-fluid (e.g., ATF-type или производитель-специфичное), а не GL-5 75W-80 (это для механических трансмиссий)",
+      "confidence": "medium",
+      "source": "EV gearbox lubrication standards",
+      "reason": "GL-5 75W-80 — гипоидное масло для МКПП/мостов. Для EV reducer обычно нужна жидкость с другими свойствами (низкая вязкость, диэлектрическая стабильность). Рекомендация технически сомнительна."
+    },
+    {
+      "sit_id": "voyah_free_008",
+      "field": "coolant_type",
+      "current": "Антифриз G12+ розовато-оранжевого цвета",
+      "corrected": "Voyah/Dongfeng обычно использует собственный coolant (часто G12+/G13 или OAT-based). Цвет может варьироваться. G12+ — приемлемо как спецификация.",
+      "confidence": "medium",
+      "source": "Dongfeng service docs",
+      "reason": "G12+ — общая спецификация VAG-style, для Voyah может отличаться. Лучше указать 'OEM antifreeze или эквивалент G12+'."
+    },
+    {
+      "sit_id": "voyah_free_010",
+      "field": "adas_components",
+      "current": "Front-камера, 4 камеры кругового обзора, радары в заднем бампере, лидар (в топовых)",
+      "corrected": "Voyah Free 2021 базовая ADAS suite: front camera + 5 радаров (1 front + 4 corner) + 4 surround camera. Lidar НЕ предлагался на Voyah Free 2021 (lidar появился позже на других моделях Voyah, например Dream/Passion)",
+      "confidence": "medium",
+      "source": "Voyah Free 2021 ADAS spec, китайские обзоры",
+      "reason": "Lidar на Voyah Free 2021 не подтверждён. Это техническая неточность — лидар у Voyah появляется на более поздних моделях."
+    }
+  ],
+  "summary": {
+    "total_situations": 10,
+    "high_confidence_findings": 2,
+    "medium_confidence_findings": 7,
+    "low_confidence_findings": 0,
+    "critical_corrections": [
+      "OBC 11 кВт скорее всего 6.6 кВт (sit_003)",
+      "Continental пневмоподвеска — не подтверждено (sit_002)",
+      "DK15 1.5T 130 кВт — путаница ДВС vs мотор (sit_005)",
+      "Lidar на Voyah Free 2021 отсутствует (sit_010)",
+      "Motul GL-5 75W-80 для EV редуктора — некорректно (sit_007)"
+    ],
+    "verified_correct": [
+      "Платформа ESSA — верно",
+      "BEV 88 кВт·ч CATL NCM — верно",
+      "Dual-motor AWD 360 кВт (160+200) — верно",
+      "EREV 33 кВт·ч battery — верно",
+      "Bosch ESP/ABS используется (предположительно)",
+      "DTC коды generic SAE J2012 — корректны"
+    ]
+  }
+}

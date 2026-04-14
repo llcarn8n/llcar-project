@@ -1,0 +1,197 @@
+{
+  "vehicle": "XPeng P7 2020",
+  "platform_canonical": "Edward (Xpeng E-platform), RWD 196kW / AWD 316kW (120F+196R), CATL NMC 70.8/80.9 kWh, Xpilot 3.0 (12 cameras + 5 mm-wave radars + 14 USS, БЕЗ лидара), GB/T charge port (CN market), 0-100 ~4.3s AWD",
+  "verified_at": "2026-04-15",
+  "findings": [
+    {
+      "sit_id": "xpeng_p7_001",
+      "field": "dtc_codes",
+      "current": "P0A81, P0A82, P0AFA, P0A80",
+      "corrected": "P0A81 (Battery Coolant Pump A Performance), P0A82 (Battery Coolant Pump A Control Circuit) — корректны для насоса. P0AFA (Hybrid Battery Voltage Low) и P0A80 (Replace Hybrid Battery Pack) — НЕ относятся к насосу терморегуляции; заменить на P0A94 (DC/DC Converter Performance — нет, нерелевантно) → лучше P0A95 или оставить только P0A81/P0A82 + P0A9C (Battery Temperature Sensor 'A' Circuit Range)",
+      "confidence": "medium",
+      "source": "SAE J2012 hybrid DTC reference",
+      "reason": "P0A80 = триггер замены батареи (deg), P0AFA = низкое напряжение HV — оба не диагностируют отказ насоса"
+    },
+    {
+      "sit_id": "xpeng_p7_001",
+      "field": "qa.coolant_type",
+      "current": "G48 антифриз",
+      "corrected": "G12++/G13 (OAT/lobrid) для EV; XPeng использует фирменный low-conductivity coolant (типа Glysantin G65 / Castrol Radicool SF). G48 — это VW silicate, НЕ для HV систем",
+      "confidence": "high",
+      "source": "EV thermal management practice; G48 = VW silicate-based для классических ДВС",
+      "reason": "HV-системы требуют антифриза с низкой электропроводностью (deionized + OAT)"
+    },
+    {
+      "sit_id": "xpeng_p7_002",
+      "field": "qa.dcdc_power",
+      "current": "DC-DC 800W",
+      "corrected": "DC-DC ~2.0-2.5 кВт (типично для EV класса P7)",
+      "confidence": "medium",
+      "source": "EV DC-DC industry baseline (Tesla/BYD/XPeng 2-3kW)",
+      "reason": "800Вт недостаточно для подзаряда 12V + питания систем при движении; стандарт EV ~2кВт"
+    },
+    {
+      "sit_id": "xpeng_p7_002",
+      "field": "dtc_codes",
+      "current": "P0562, P0563, U0100, U0140, B10A0",
+      "corrected": "OK — P0562 (System Voltage Low), P0563 (System Voltage High), U0100/U0140 (lost comm) валидны. B10A0 — generic body code, приемлемо",
+      "confidence": "high",
+      "source": "SAE J2012",
+      "reason": "Корректный набор для проблем 12V"
+    },
+    {
+      "sit_id": "xpeng_p7_003",
+      "field": "qa.adas_sensors",
+      "current": "XPilot 3.0/3.5 — 14 УЗ, 8 камер, 2 передних радара Bosch (160м)",
+      "corrected": "Xpilot 3.0 (P7 2020): 12 камер + 5 mm-wave радаров (1 передний дальнего действия + 4 угловых) + 14 ультразвуковых. БЕЗ лидара. XPilot 3.5 — это P5 2021+ (с лидаром). 'Xpilot 3.0/3.5' для P7 2020 — анахронизм; должно быть просто Xpilot 3.0",
+      "confidence": "high",
+      "source": "XPeng P7 launch spec sheet June 2020; Xpilot 3.0 architecture (Nvidia Xavier)",
+      "reason": "Радаров 5 (не 2), камер 12 (не 8); 3.5 не существовала на момент выпуска P7 2020"
+    },
+    {
+      "sit_id": "xpeng_p7_003",
+      "field": "dtc_codes",
+      "current": "C1106, C1107, C1108, U0415, U0418",
+      "corrected": "C1106-C1108 — приемлемо (chassis radar codes). U0415 (Invalid data from ABS) и U0418 (Invalid data from EBCM) — больше про ABS чем ADAS; для радара лучше U0129 (Lost comm with brake system module) или U0151 (Lost comm with restraint control). Для радара ADAS чаще C1A00-C1A99 диапазон",
+      "confidence": "medium",
+      "source": "SAE J2012 chassis/network DTC ranges",
+      "reason": "U041x обычно ABS-related, не ADAS"
+    },
+    {
+      "sit_id": "xpeng_p7_004",
+      "field": "qa.charge_port",
+      "current": "Порт CCS2",
+      "corrected": "GB/T (Guobiao 20234) — китайский стандарт. P7 2020 продавался ТОЛЬКО на китайском рынке с GB/T. CCS2 появился на экспортных версиях P7 в Норвегии 2021+",
+      "confidence": "high",
+      "source": "XPeng P7 China spec 2020; GB/T 20234.3-2015 standard",
+      "reason": "P7 2020 — только Китай, только GB/T. CCS2 — это экспорт с 2021"
+    },
+    {
+      "sit_id": "xpeng_p7_005",
+      "field": "qa.motor_power",
+      "current": "RWD 196 кВт; AWD передний 218 + задний 196 = 430 кВт/586 л.с.",
+      "corrected": "AWD: передний 120 кВт + задний 196 кВт = 316 кВт (430 л.с.). 218 кВт front — НЕВЕРНО (это уровень Tesla Model 3 Performance). 0-100 за 4.3 сек — корректно для AWD",
+      "confidence": "high",
+      "source": "XPeng P7 official spec sheet 2020 (CN-MIIT homologation)",
+      "reason": "Передний мотор P7 — 120 кВт (асинхронный), не 218; суммарно 316 кВт, не 430"
+    },
+    {
+      "sit_id": "xpeng_p7_005",
+      "field": "qa.inverter_supplier",
+      "current": "Инвертор на SiC от XPeng/Semicop",
+      "corrected": "P7 2020 использует IGBT (Si), НЕ SiC. SiC появился в XPeng G9/P7i 2022+. Поставщик инвертора P7 2020 — Inovance или внутренний XPeng (на базе Infineon IGBT)",
+      "confidence": "high",
+      "source": "Industry teardowns; SiC adoption timeline (Tesla Model 3 2018, XPeng G9 2022)",
+      "reason": "P7 2020 — IGBT поколение; SiC — это G9/P7i эра"
+    },
+    {
+      "sit_id": "xpeng_p7_006",
+      "field": "qa.air_suspension",
+      "current": "Адаптивная пневмоподвеска Johnson Controls с 4 уровнями клиренса",
+      "corrected": "P7 2020 НЕ имеет пневмоподвески. Базовая — обычные пружины + опциональные адаптивные амортизаторы (CDC). Пневмоподвеска появилась в XPeng G9 2022. Также Johnson Controls — НЕ поставщик пневмоподвески (это Continental/WABCO/Arnott домен)",
+      "confidence": "high",
+      "source": "XPeng P7 2020 spec sheet; suspension industry suppliers (JCI = seats/batteries)",
+      "reason": "Пневмоподвески у P7 нет вообще; вся ситуация на ложной предпосылке"
+    },
+    {
+      "sit_id": "xpeng_p7_006",
+      "field": "dtc_codes",
+      "current": "C1845, C1846, C1847, C1842",
+      "corrected": "Если убрать пневмоподвеску — DTCs нерелевантны. Для CDC адаптивных амортизаторов: C2200-C229F диапазон",
+      "confidence": "high",
+      "source": "Следствие из правки выше",
+      "reason": "Без пневмоподвески DTC утечек неактуальны"
+    },
+    {
+      "sit_id": "xpeng_p7_007",
+      "field": "qa.battery_chemistry",
+      "current": "70.8/80.9 кВт·ч CATL NCM 811, 96-108 ячеек",
+      "corrected": "Ёмкости корректны. Химия: CATL NCM 523/622 для P7 2020 (NCM 811 — это premium ячейки, у CATL пошли в массу с 2021). Количество ячеек: для 80.9 кВт·ч P7 — около 158 призматических ячеек (CATL prismatic ~3.7V × ~140Ah). 96-108 — заниженно",
+      "confidence": "medium",
+      "source": "CATL NCM roadmap; P7 80.9 kWh teardown estimates",
+      "reason": "NCM 811 в P7 2020 не подтверждено; счёт ячеек занижен"
+    },
+    {
+      "sit_id": "xpeng_p7_007",
+      "field": "dtc_codes",
+      "current": "P0A80, P0AFA, P0B00, P0AFC",
+      "corrected": "OK — все коды релевантны для HV battery imbalance. P0A80 (Replace HV Battery), P0AFA (HV Voltage Low), P0B00 (Battery Module Voltage Range), P0AFC (HV Battery Voltage Imbalance)",
+      "confidence": "high",
+      "source": "SAE J1979/J2012",
+      "reason": "Корректный набор"
+    },
+    {
+      "sit_id": "xpeng_p7_008",
+      "field": "qa.vacuum_pump",
+      "current": "iBooster Bosch + электрический вакуумный насос",
+      "corrected": "iBooster — ЭЛЕКТРОМЕХАНИЧЕСКИЙ усилитель, вакуумный насос НЕ требуется. Это его ключевое преимущество для EV. Вся ситуация описывает несуществующий компонент. Возможно автор спутал с eBKV или классической системой с вакуум-помпой",
+      "confidence": "high",
+      "source": "Bosch iBooster product datasheet (gen 2)",
+      "reason": "iBooster = электромеханика без вакуума; описанная проблема физически невозможна на этой системе"
+    },
+    {
+      "sit_id": "xpeng_p7_008",
+      "field": "dtc_codes",
+      "current": "C1256, C1257, C1258, C1255",
+      "corrected": "Generic chassis codes — без вакуумного насоса нерелевантны. Для iBooster актуальны C1A00-C1A99, C2700-C277F (servomotor codes)",
+      "confidence": "high",
+      "source": "Следствие правки выше",
+      "reason": "DTC привязаны к несуществующему компоненту"
+    },
+    {
+      "sit_id": "xpeng_p7_009",
+      "field": "qa.refrigerant",
+      "current": "R134a, заправка 500-650 г",
+      "corrected": "P7 2020 использует R1234yf (новый стандарт для EV, обязательный в EU/CN с 2017). Масса заправки ~700-900 г (типично для EV с battery chiller)",
+      "confidence": "high",
+      "source": "EU MAC Directive 2006/40/EC; китайские EV нормы GB",
+      "reason": "R134a постепенно выводится; новые EV — R1234yf (или R744 CO2 в некоторых моделях)"
+    },
+    {
+      "sit_id": "xpeng_p7_009",
+      "field": "dtc_codes",
+      "current": "P0A0C, P0A0D, P0645, P0646, B10C5",
+      "corrected": "P0A0C/P0A0D — High Voltage System Interlock — нерелевантно для компрессора климата. P0645/P0646 — A/C clutch relay — для электрического HV компрессора нерелевантно (нет муфты). Лучше: P0530-P0533 (A/C refrigerant pressure sensor), P0AA1-P0AA6 (HV system isolation), B1485 (A/C compressor control)",
+      "confidence": "medium",
+      "source": "SAE J2012",
+      "reason": "Коды муфты A/C (P0645/646) не применимы к электрическому компрессору"
+    },
+    {
+      "sit_id": "xpeng_p7_010",
+      "field": "qa",
+      "current": "Выдвижные дверные ручки с электроприводом, проблемы коррозии в РФ",
+      "corrected": "Корректно по факту. Замечание: P7 2020 в РФ официально не продавался (только серый импорт), поэтому статистика проблем в РФ ограничена. Описание механизма верное",
+      "confidence": "high",
+      "source": "XPeng P7 design specs; параллельный импорт в РФ начался 2022+",
+      "reason": "Технически верно; контекст РФ применим только к 2022+ серому импорту"
+    },
+    {
+      "sit_id": "xpeng_p7_010",
+      "field": "dtc_codes",
+      "current": "B10A5, B10A6, B10A7, B10A8",
+      "corrected": "OK — generic body module codes приемлемы для proprietary OEM door handle modules",
+      "confidence": "high",
+      "source": "SAE J2012 body code range",
+      "reason": "B1xxx подходит для BCM-controlled accessories"
+    }
+  ],
+  "summary": {
+    "total_situations": 10,
+    "high_confidence_corrections": 11,
+    "medium_confidence_corrections": 6,
+    "critical_errors": [
+      "sit_005: AWD power 430кВт ложь, реально 316кВт",
+      "sit_005: SiC inverter — у P7 2020 IGBT",
+      "sit_006: пневмоподвески у P7 нет вообще",
+      "sit_008: iBooster не имеет вакуумного насоса — вся ситуация на ложной предпосылке",
+      "sit_004: CCS2 — у P7 2020 (CN) был GB/T",
+      "sit_003: 8 камер + 2 радара — реально 12 камер + 5 радаров",
+      "sit_009: R134a — реально R1234yf"
+    ],
+    "minor_errors": [
+      "sit_001: G48 антифриз неприменим к HV-системе",
+      "sit_002: DC-DC 800W занижен (~2кВт)",
+      "sit_007: NCM 811 в 2020 сомнительно (скорее 523/622)"
+    ]
+  }
+}

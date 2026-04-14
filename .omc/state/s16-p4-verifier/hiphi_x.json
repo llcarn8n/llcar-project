@@ -1,0 +1,92 @@
+[
+  {
+    "sit_id": "hiphi_x_002",
+    "field": "qa.lidar_count",
+    "current": "6 лидаров для NOA: передний Hesai Pandora, 2 угловых передних, 2 боковых на крыльях, 1 задний",
+    "corrected": "HiPhi X 2021 серийно НЕ оснащался 6 лидарами. Базовые комплектации использовали 5 mm-wave радаров + 12 ультразвуковых датчиков + камеры. Лидары (1-3 шт., Innovusion/RoboSense) появились на топовых HiPhi Z и поздних рестайлингах HiPhi X. Hesai Pandora не использовался в HiPhi.",
+    "confidence": "high",
+    "source": "Human Horizons press kit 2020-2021, HiPhi X spec sheet, Auto Home review",
+    "reason": "Серийный HiPhi X 2021 имел сенсорный пакет HiPhi Pilot (камеры + радары), а не lidar-based NOA. Указанная конфигурация и поставщик не соответствуют поколению."
+  },
+  {
+    "sit_id": "hiphi_x_003",
+    "field": "qa.battery_modules",
+    "current": "16 модулей по 6 ячеек, всего 96",
+    "corrected": "Батарея HiPhi X 97 кВт·ч построена на призматических ячейках CATL NCM811. Точная модульная разбивка — около 96-108 ячеек в нескольких модулях, но конфигурация '16x6=96' не подтверждается. Архитектура CTP (cell-to-pack) на части партий.",
+    "confidence": "medium",
+    "source": "CATL spec, HiPhi battery teardown reports",
+    "reason": "Конкретная разбивка 16x6 выглядит выдуманной; реальная конфигурация CATL NCM811 другая."
+  },
+  {
+    "sit_id": "hiphi_x_003",
+    "field": "qa.dc_charging",
+    "current": "деградация при частых DC 80 кВт",
+    "corrected": "HiPhi X поддерживает DC fast charging до 250 кВт (10-80% за ~22 минут). 80 кВт — заниженное значение, не соответствует спецификации авто.",
+    "confidence": "high",
+    "source": "HiPhi X official spec, Human Horizons launch presentation",
+    "reason": "Указание '80 кВт' технически некорректно для HiPhi X — это премиум EV с поддержкой 250kW HPC."
+  },
+  {
+    "sit_id": "hiphi_x_004",
+    "field": "qa.motor_power",
+    "current": "Задний мотор HiPhi X (300 кВт) работает в паре с передним (220 кВт)",
+    "corrected": "HiPhi X AWD: передний мотор ~220 кВт, задний мотор ~245 кВт (суммарно 480 кВт / 652 л.с.). Задний мотор 300 кВт — превышение реальной мощности.",
+    "confidence": "high",
+    "source": "HiPhi X official spec sheet, Human Horizons press release 2020",
+    "reason": "Спецификация задней оси завышена. Реальная мощность задней ASM ~245 кВт."
+  },
+  {
+    "sit_id": "hiphi_x_004",
+    "field": "solutions.inverter_supplier",
+    "current": "замена инвертора с мотором Mehlau",
+    "corrected": "Mehlau не является известным поставщиком моторов/инверторов для HiPhi X. Реальные поставщики e-axle: Bosch и собственная разработка Human Horizons. Название 'Mehlau' не подтверждается.",
+    "confidence": "medium",
+    "source": "Human Horizons supplier disclosures, industry teardowns",
+    "reason": "Поставщик 'Mehlau' выглядит сфабрикованным или ошибочным; вероятно, имелся в виду Bosch или собственная сборка HH."
+  },
+  {
+    "sit_id": "hiphi_x_005",
+    "field": "qa.airsuspension_supplier",
+    "current": "Компрессор Wabco (или Continental на ранних партиях)",
+    "corrected": "Wabco специализируется на коммерческой технике (грузовики, прицепы). Для HiPhi X с пневмоподвеской типичны поставщики Continental (AMK) или Arnott. Wabco для премиального легкового EV нехарактерен.",
+    "confidence": "medium",
+    "source": "Continental AMK product line, Wabco/ZF product portfolio",
+    "reason": "Wabco не делает компрессоры для премиальных пассажирских EV; Continental/AMK — основной поставщик в этом сегменте."
+  },
+  {
+    "sit_id": "hiphi_x_005",
+    "field": "dtc_codes",
+    "current": "[\"C0550\",\"C0565\",\"C0755\",\"C1115\"]",
+    "corrected": "C0550/C0565 — это коды GM-семейства (ABS module/internal). Для пневмоподвески более типичны C1A00-C1A99 или OEM-специфичные. C0755 относится к 4WD на грузовиках Ford. Коды не специфичны для HiPhi X air-suspension.",
+    "confidence": "medium",
+    "source": "SAE J2012, OBD-II generic code reference",
+    "reason": "Использованы коды из чужих платформ (GM/Ford), не подходящие для китайского EV с пневмоподвеской Continental."
+  },
+  {
+    "sit_id": "hiphi_x_006",
+    "field": "dtc_codes",
+    "current": "[\"P0A09\",\"P0A10\",\"P0A06\",\"U0100\"]",
+    "corrected": "P0A09 (DC/DC Converter Status Circuit) и P0A10 (DC/DC Converter Status Circuit Performance) — корректные коды для DC-DC. P0A06 — 'High Voltage System Interlock Circuit Low' — относится к HV interlock, а не к DC-DC. Лучше заменить на P0A1A (Generator/Motor Control Module) или P0A94 (DC/DC Converter Performance).",
+    "confidence": "high",
+    "source": "SAE J2012 hybrid/EV DTC list",
+    "reason": "P0A06 относится к HV interlock, а не к описанной проблеме недозаряда 12V от DC-DC."
+  },
+  {
+    "sit_id": "hiphi_x_010",
+    "field": "qa.battery_12v",
+    "current": "12V AGM 95 Ah, 850A",
+    "corrected": "Типичный 12V AGM в HiPhi X — около 70-80 Ah / 700-760 CCA. 95Ah/850A — это размер для крупных премиум-седанов с большим количеством ECU; для HiPhi X не подтверждено.",
+    "confidence": "low",
+    "source": "Reasoning по сегменту, отсутствие официальных спек",
+    "reason": "Точная ёмкость 12V AGM HiPhi X публично не задокументирована; 95Ah может быть завышено."
+  },
+  {
+    "sit_id": "hiphi_x_001",
+    "field": "dtc_codes",
+    "current": "[\"B1318\",\"B1342\",\"B1D56\",\"U0140\"]",
+    "corrected": "B1318 — 'Battery Voltage Low' (не относится к актуатору двери). Для NT Door (электропривод двери) более типичны B14xx-B16xx (door module), B2xxx (body actuators). B1318 в этом контексте смешан с проблемой 12V из sit_010.",
+    "confidence": "medium",
+    "source": "SAE J2012 body codes",
+    "reason": "B1318 = низкое напряжение АКБ, а не отказ door actuator. Код повторяется в sit_010 и не подходит для NT Door."
+  }
+]
