@@ -1,0 +1,901 @@
+
+================================================================================
+toyota/camry  (3033.5 KB)
+================================================================================
+COUNT: 697
+FIELDS (from rec 0): ['id', 'title', 'urgency', 'priority', 'layers', 'season', 'quickAnswer', 'models', 'source', 'reviewed_claude', 'brand', 'category', 'icon']
+ALL FIELDS (field -> count):
+  id: 697 (100%)
+  title: 697 (100%)
+  urgency: 697 (100%)
+  layers: 697 (100%)
+  quickAnswer: 697 (100%)
+  category: 697 (100%)
+  icon: 697 (100%)
+  searchQueries: 693 (99%)
+  source_type: 673 (97%)
+  facts_ru: 645 (93%)
+  sources: 645 (93%)
+  subtitle: 642 (92%)
+  universal: 636 (91%)
+  priceRange: 636 (91%)
+  canDrive: 636 (91%)
+  commonMistakes: 636 (91%)
+  facts: 636 (91%)
+  dtc_codes: 635 (91%)
+  merged_count: 620 (89%)
+  steps: 85 (12%)
+  prices: 85 (12%)
+  quickAnswer_original: 84 (12%)
+  priority: 77 (11%)
+  season: 77 (11%)
+  models: 61 (9%)
+  source: 52 (7%)
+  model: 47 (7%)
+  warning_type: 47 (7%)
+  source_file: 47 (7%)
+  desc: 19 (3%)
+  priceData: 10 (1%)
+  action_ru: 8 (1%)
+  brand: 7 (1%)
+  powertrain_filter: 5 (1%)
+  frequency: 5 (1%)
+  brand_coverage: 5 (1%)
+  mentions: 4 (1%)
+  avg_mileage_tkm: 4 (1%)
+  avg_cost_rub: 4 (1%)
+  problem_type: 4 (1%)
+  component: 4 (1%)
+  sample_sentences: 4 (1%)
+  reviewed_auto: 3 (0%)
+  title_en: 3 (0%)
+  severity: 3 (0%)
+  color: 3 (0%)
+  level1_ru: 3 (0%)
+  mentionIndex: 3 (0%)
+  reviewed_claude: 1 (0%)
+DUPLICATE IDs: 0 (sample: [])
+GEN-INDICATIVE FIELDS: ['urgency']
+MANUAL_GENERATIONS.JSON: dict
+  TOP KEYS: ['manual-camry-2001.md', 'manual-camry-2006.md', 'manual-camry-gracia.md', 'manual-camry-v40.md', 'manual-camry-vi_2023_2023.md', 'manual-camry-vista-83.md', 'manual-camry-vista-94.md', 'manual-camry-xv30.md', 'manual-camry.md', 'manual-camry_2006.md']
+  GENS: ['manual-camry-2001.md', 'manual-camry-2006.md', 'manual-camry-gracia.md', 'manual-camry-v40.md', 'manual-camry-vi_2023_2023.md', 'manual-camry-vista-83.md', 'manual-camry-vista-94.md', 'manual-camry-xv30.md', 'manual-camry.md', 'manual-camry_2006.md', 'manual-camry_2006_ru.md', 'manual-camry_v40-ii_2007_2014.md', 'manual-camry_v40.md', 'manual-iv_xv70_2017_2025.md', 'manual.md']
+CHUNK_GENERATION_MAP.JSON: dict
+  TOP KEYS sample: ['chunks-manual-camry.md', 'chunks-manual-camry_2006_ru.md', 'chunks-manual-camry_v40.md', 'chunks-manual-camry-2001.md', 'chunks-manual-camry-xv30.md']
+  SAMPLE entry [chunks-manual-camry.md]: {"generation_id": "toyota__camry__camry_viii_xv70_2017_2024_2017", "generation_name": "Camry IV (XV70) 2017-2025", "confidence": "high", "reason": "Official Toyota Motor Europe owners manual ~2020-2021 (ERA-GLONASS, Feb 2021)"}
+PER-GEN situations.json subdirs: []
+
+SAMPLE RECORD 0 (full):
+{
+  "id": "TOYOTA-SW-b67606",
+  "title": "Муфты фаз ГРМ стрекочут при запуске (RAV4 IV-V / Camry)",
+  "urgency": 2,
+  "priority": "P3",
+  "layers": [
+    "engine"
+  ],
+  "season": "winter",
+  "quickAnswer": "На двигателях 2AR-FE (2.5) и Dynamic Force муфты изменения фаз ГРМ могут застрекотать при холодном запуске. Обычно безобидно, но при усилении шума требуется замена муфт. Проблема характерна и для Camry.",
+  "models": [
+    "rav4",
+    "camry"
+  ],
+  "source": "swarm_agent:situations",
+  "reviewed_claude": true,
+  "brand": "toyota",
+  "category": "engine",
+  "icon": "❄️"
+}
+
+SAMPLE RECORD MID (348):
+{
+  "id": "rev_83b71805",
+  "title": "Быстрый разряд аккумулятора",
+  "quickAnswer": "Проблема упоминается в 6 отзывах владельцев различных марок.\n\nИз отзывов: Начну с того, что открыв двери контейнера, в котором привезли автомобиль, я обнаружил, что за полтора месяца дороги в хлам разрядился аккумулятор. Гор; Всем привет!Хочу поделиться своими личными впечатлениями от вождения данного авто.... Сей аппарат принадлежит близкому родственнику ,поэтому иногда пр\n\nРекомендация: проверить напряжение на АКБ (12.4-12.8В в покое, 13.8-14.4В на заведённом). Проверить ток утечки (норма < 50 мА).",
+  "urgency": 4,
+  "category": "electrical",
+  "layers": [
+    "electrical"
+  ],
+  "facts_ru": [
+    "АКБ: ресурс 4-6 лет; напряжение <12.4V = заряд <75%; паразитный ток >50 мА разряжает за 3-5 дней [Быстрый/разряд]",
+    "Проверка нагрузочной вилкой (300-500 руб): напряжение под нагрузкой не должно падать ниже 10.5V; ток утечки проверяется амперметром [Быстрый/разряд]"
+  ],
+  "dtc_codes": [],
+  "merged_count": 6,
+  "source_type": "reviews_mined",
+  "universal": true,
+  "searchQueries": [
+    "Быстрый разряд аккумулятора",
+    "быстрый разряд аккумулятора"
+  ],
+  "subtitle": "Проблема упоминается в 6 отзывах владельцев различных марок.",
+  "priceRange": "2000-25000 руб",
+  "sources": [
+    "Электрическая схема автомобиля (OEM)",
+    "SAE J1979: диагностические протоколы"
+  ],
+  "canDrive": "Нет — движение с данной неисправностью опасно. Рекомендуется вызвать эвакуатор или добраться до ближа
+
+GENERATION MENTIONS in title+quickAnswer: {}
+
+CONTENT LANG: cyrillic=697, CJK=1, placeholders=1, empty=0
+DTC (first 300 recs): valid=50, invalid=0, w/DTC=16, samples=['B0001', 'B0010', 'B0051', 'C0750', 'C0755', 'C0760', 'C0765', 'B0001', 'B0010', 'B0051']
+CATEGORIES: {'engine': 233, 'electrical': 80, 'general': 75, 'body': 63, 'brakes': 58, 'tires': 37, 'suspension': 34, 'drivetrain': 28, 'fuel': 23, 'cooling': 17}
+CONTENT_TYPES: {None: 697}
+MODELS FIELD POPULATED: 61/697
+  models sample: ['rav4', 'camry']
+SOURCES (top 5): {'manual_warning': 47, 'review_keyword': 3, 'swarm_agent:situations': 1, 'review_mining': 1}
+
+================================================================================
+volkswagen/passat  (2889.8 KB)
+================================================================================
+COUNT: 641
+FIELDS (from rec 0): ['id', 'title', 'title_en', 'urgency', 'priority', 'layers', 'season', 'quickAnswer', 'dtc_codes', 'models', 'repair_cost_rub', 'source', 'reviewed_claude', 'brand', 'category', 'icon']
+ALL FIELDS (field -> count):
+  id: 641 (100%)
+  title: 641 (100%)
+  urgency: 641 (100%)
+  layers: 641 (100%)
+  quickAnswer: 641 (100%)
+  category: 641 (100%)
+  icon: 641 (100%)
+  dtc_codes: 619 (97%)
+  searchQueries: 619 (97%)
+  facts_ru: 617 (96%)
+  sources: 617 (96%)
+  subtitle: 613 (96%)
+  universal: 606 (95%)
+  priceRange: 606 (95%)
+  canDrive: 606 (95%)
+  commonMistakes: 606 (95%)
+  facts: 606 (95%)
+  source_type: 596 (93%)
+  merged_count: 590 (92%)
+  steps: 85 (13%)
+  prices: 85 (13%)
+  quickAnswer_original: 84 (13%)
+  priority: 51 (8%)
+  season: 51 (8%)
+  models: 35 (5%)
+  brand: 27 (4%)
+  source: 24 (4%)
+  title_en: 22 (3%)
+  reviewed_claude: 20 (3%)
+  desc: 20 (3%)
+  repair_cost_rub: 18 (3%)
+  priceData: 16 (2%)
+  powertrain_filter: 10 (2%)
+  action_ru: 9 (1%)
+  frequency: 5 (1%)
+  brand_coverage: 5 (1%)
+  mentions: 4 (1%)
+  avg_mileage_tkm: 4 (1%)
+  avg_cost_rub: 4 (1%)
+  problem_type: 4 (1%)
+  component: 4 (1%)
+  sample_sentences: 4 (1%)
+  severity: 4 (1%)
+  color: 4 (1%)
+  level1_ru: 4 (1%)
+  mentionIndex: 4 (1%)
+  reviewed_auto: 3 (0%)
+DUPLICATE IDs: 0 (sample: [])
+GEN-INDICATIVE FIELDS: ['urgency']
+MANUAL_GENERATIONS.JSON: NOT FOUND
+CHUNK_GENERATION_MAP.JSON: NOT FOUND
+PER-GEN situations.json subdirs: []
+
+SAMPLE RECORD 0 (full):
+{
+  "id": "VW-YT-002",
+  "title": "Отказ мехатроника DSG DQ200",
+  "title_en": "DSG DQ200 Mechatronic Unit Failure",
+  "urgency": 5,
+  "priority": "P0",
+  "layers": [
+    "drivetrain"
+  ],
+  "season": "all",
+  "quickAnswer": "Рывки, дёрганье при трогании, потеря передачи - признаки отказа мехатроника DSG7 с сухим сцеплением. Коробки до 2013 года особенно проблемные. Замена масла каждые 40К км обязательна.",
+  "dtc_codes": [
+    "P0730",
+    "P0741",
+    "P2711"
+  ],
+  "models": [
+    "golf",
+    "passat",
+    "jetta",
+    "tiguan",
+    "polo"
+  ],
+  "repair_cost_rub": {
+    "min": 40000,
+    "max": 80000
+  },
+  "source": "swarm_agent:extracted",
+  "reviewed_claude": true,
+  "brand": "volkswagen",
+  "category": "drivetrain",
+  "icon": "🛢️"
+}
+
+SAMPLE RECORD MID (320):
+{
+  "id": "yt_10c0f7c3",
+  "title": "Проверка напряжения в системе безопасности",
+  "quickAnswer": "Проверка напряжения в системе безопасности (SRS/Airbag) — работа для профессионала. ВНИМАНИЕ: 1) Подушки безопасности содержат пиротехнические заряды — неосторожное обращение = непроизвольное срабатывание (ожоги, контузия). 2) НИКОГДА не проверяйте сопротивление подушки мультиметром — ток прозвонки может активировать заряд. 3) Перед любой работой с SRS: отключите АКБ, подождите 10-15 мин (разряд конденсаторов). 4) Проверка цепей SRS — только специализированным оборудованием через OBD (сканер). 5) Ошибка подушки на панели: чаще всего — разъём под сиденьем (окисление, отошёл при уборке). Стоимость диагностики SRS: 2000-5000 руб. Замена подушки: 10000-80000 руб. Ездить с ошибкой SRS — да, но подушки не сработают при ДТП.",
+  "urgency": 4,
+  "category": "electrical",
+  "layers": [
+    "electrical"
+  ],
+  "facts_ru": [
+    "Система подушек безопасности (SRS) работает от отдельной цепи с напряжением 12В и конденсатором-накопителем — при просадке напряжения ниже 9В система фиксирует ошибку и отключается.",
+    "Измерение напряжения в цепи SRS требует высокоомного мультиметра (входное сопротивление более 10 МОм) — обычный тестер может вызвать ложное срабатывание пиропатрона."
+  ],
+  "dtc_codes": [],
+  "merged_count": 1,
+  "source_type": "universal_merged",
+  "universal": true,
+  "searchQueries": [
+    "Проверка напряжения в системе безопасности",
+    "проверка напряжения системе",
+    
+
+CONTENT LANG: cyrillic=641, CJK=1, placeholders=1, empty=0
+DTC (first 300 recs): valid=66, invalid=2, w/DTC=23, samples=['P0730', 'P0741', 'P2711', 'P0016', 'P0017', 'P0341', 'P2181', 'P0300', 'P0301', 'P0302']
+CATEGORIES: {'engine': 232, 'electrical': 75, 'general': 66, 'body': 57, 'brakes': 44, 'suspension': 34, 'drivetrain': 29, 'tires': 27, 'fuel': 21, 'cooling': 17}
+CONTENT_TYPES: {None: 641}
+MODELS FIELD POPULATED: 35/641
+  models sample: ['golf', 'passat', 'jetta', 'tiguan', 'polo']
+SOURCES (top 5): {'swarm_agent:extracted': 18, 'review_mining': 3, 'review_keyword': 3}
+
+================================================================================
+hyundai/solaris  (1684.6 KB)
+================================================================================
+COUNT: 470
+FIELDS (from rec 0): ['id', 'title', 'title_en', 'urgency', 'priority', 'severity', 'color', 'layers', 'season', 'quickAnswer', 'action_ru', 'level1_ru', 'facts_ru', 'dtc_codes', 'priceData', 'sources', 'brand', 'mentionIndex', 'desc', 'category', 'models', 'icon']
+ALL FIELDS (field -> count):
+  id: 470 (100%)
+  title: 470 (100%)
+  urgency: 470 (100%)
+  layers: 470 (100%)
+  quickAnswer: 470 (100%)
+  category: 470 (100%)
+  icon: 470 (100%)
+  searchQueries: 462 (98%)
+  source_type: 448 (95%)
+  facts_ru: 406 (86%)
+  sources: 406 (86%)
+  subtitle: 404 (86%)
+  dtc_codes: 399 (85%)
+  universal: 397 (84%)
+  priceRange: 397 (84%)
+  canDrive: 397 (84%)
+  commonMistakes: 397 (84%)
+  facts: 397 (84%)
+  merged_count: 391 (83%)
+  priority: 79 (17%)
+  season: 79 (17%)
+  models: 73 (16%)
+  source: 64 (14%)
+  model: 54 (11%)
+  warning_type: 54 (11%)
+  source_file: 54 (11%)
+  quickAnswer_original: 14 (3%)
+  steps: 14 (3%)
+  prices: 14 (3%)
+  brand: 11 (2%)
+  priceData: 9 (2%)
+  title_en: 8 (2%)
+  desc: 8 (2%)
+  reviewed_claude: 7 (1%)
+  symptoms: 6 (1%)
+  repair_cost_rub: 6 (1%)
+  mileage_range_km: 6 (1%)
+  powertrain_filter: 5 (1%)
+  action_ru: 4 (1%)
+  mentions: 3 (1%)
+  avg_mileage_tkm: 3 (1%)
+  avg_cost_rub: 3 (1%)
+  problem_type: 3 (1%)
+  component: 3 (1%)
+  sample_sentences: 3 (1%)
+  severity: 2 (0%)
+  color: 2 (0%)
+  level1_ru: 2 (0%)
+  mentionIndex: 2 (0%)
+  reviewed_auto: 2 (0%)
+  frequency: 2 (0%)
+  brand_coverage: 2 (0%)
+DUPLICATE IDs: 0 (sample: [])
+GEN-INDICATIVE FIELDS: ['urgency']
+MANUAL_GENERATIONS.JSON: dict
+  TOP KEYS: ['manual-solaris-2017_н_в.md', 'manual-solaris.md', 'manual.md']
+  GENS: ['manual-solaris-2017_н_в.md', 'manual-solaris.md', 'manual.md']
+CHUNK_GENERATION_MAP.JSON: dict
+  TOP KEYS sample: ['chunks-manual-solaris.md', 'chunks-manual-solaris_2.md']
+  SAMPLE entry [chunks-manual-solaris.md]: {"generation_id": "hyundai__solaris__solaris_ii_2017_2017", "generation_name": "Solaris 2017-н.в.", "confidence": "low", "reason": "only one generation exists for this model"}
+PER-GEN situations.json subdirs: []
+
+SAMPLE RECORD 0 (full):
+{
+  "id": "HYN-001",
+  "title": "Перерасход масла на моторе 1.6",
+  "title_en": "Excessive Oil Consumption on 1.6 Engine",
+  "urgency": 4,
+  "priority": "P1",
+  "severity": "high",
+  "color": "#FF7043",
+  "layers": [
+    "engine"
+  ],
+  "season": "all",
+  "quickAnswer": "Мотор 1.6 G4LC склонен к повышенному расходу масла из-за залегания колец.",
+  "action_ru": "Проверить уровень масла и компрессию",
+  "level1_ru": "На двигателях 1.6 G4LC часто происходит залегание маслосъемных колец, что приводит к расходу до 1 литра на 1000 км. Проблема усугубляется в зимний период при коротких поездках.",
+  "facts_ru": [
+    "Расход масла достигает 1 л на 1000 км",
+    "Цена замены колец от 15 000 руб",
+    "Срок службы колец 40 000 км",
+    "Замена масла 5W-30 стоит 3500 руб",
+    "Пробег до ремонта 60 000 км"
+  ],
+  "dtc_codes": [
+    "P0520",
+    "P0521",
+    "P0522",
+    "P0523"
+  ],
+  "priceData": {
+    "items": [
+      {
+        "name": "диагностика двигателя",
+        "min": 2500,
+        "max": 4500
+      },
+      {
+        "name": "замена маслосъемных колец",
+        "min": 18000,
+        "max": 25000
+      },
+      {
+        "name": "комплект колец",
+        "min": 4500,
+        "max": 7000
+      }
+    ],
+    "disclaimer": "Цены ориентировочные на 2026 год",
+    "lastUpdated": "2026-03"
+  },
+  "sources": [
+    {
+      "name": "Drom.ru отзывы Хёндэ",
+      "url": "https://www.drom.ru/reviews/hyundai/",
+      "type": "community"
+    },
+    {
+      "name": "Zr.ru технический обзор",
+
+
+SAMPLE RECORD MID (235):
+{
+  "id": "yt_c3e4ef5b",
+  "title": "Первичная визуальная диагностика при загорании чека",
+  "quickAnswer": "Остановитесь, заглушите двигатель и визуально проверьте моторный отсек на предмет утечек жидкостей, целостности ремней и уровня масла. Для точной диагностики данной проблемы рекомендуется подключить диагностический сканер OBD-II и считать коды неисправностей. Проверьте текущие параметры двигателя: обороты холостого хода, температуру охлаждающей жидкости, давление масла, показания датчиков (ДМРВ, ДПДЗ, лямбда-зонд). Сравните полученные значения со спецификацией производителя. При обнаружении отклонений — устраните первопричину, а не симптом. Средняя стоимость диагностики — 1500-3000 руб. Не откладывайте визит в сервис: многие проблемы двигателя прогрессируют экспоненциально.",
+  "urgency": 2,
+  "category": "engine",
+  "layers": [
+    "engine"
+  ],
+  "facts_ru": [
+    "При загорании Check Engine первое действие: проверить крышку бензобака — незатянутая крышка вызывает ошибку EVAP (P0440-P0457) и горит лампа; подтяжка крышки решает проблему за 10 секунд.",
+    "Визуальный осмотр моторного отсека на предмет отключённых шлангов или разъёмов — случайное отсоединение при ТО вызывает ошибки, решаемые за 1 минуту."
+  ],
+  "dtc_codes": [],
+  "merged_count": 2,
+  "source_type": "universal_merged",
+  "universal": true,
+  "searchQueries": [
+    "Первичная визуальная диагностика при загорании чека",
+    "первичная визуальная диагностика",
+    "диагностика загорании чека"
+  ],
+  "sub
+
+GENERATION MENTIONS in title+quickAnswer: {}
+
+CONTENT LANG: cyrillic=470, CJK=0, placeholders=0, empty=0
+DTC (first 300 recs): valid=29, invalid=0, w/DTC=7, samples=['P0520', 'P0521', 'P0522', 'P0523', 'P0420', 'P0430', 'P0170', 'P0171', 'P0172', 'P0560']
+CATEGORIES: {'engine': 198, 'electrical': 65, 'suspension': 33, 'general': 31, 'tires': 24, 'drivetrain': 21, 'body': 20, 'fuel': 18, 'brakes': 18, 'cooling': 12}
+CONTENT_TYPES: {None: 470}
+MODELS FIELD POPULATED: 73/470
+  models sample: ['accent', 'creta', 'hyundai_accent', 'hyundai_creta', 'hyundai_solaris', 'solaris']
+SOURCES (top 5): {'manual_warning': 54, 'swarm_agent:situations_from_reviews': 6, 'review_mining': 2, 'review_keyword': 2}
+
+================================================================================
+bmw/3_series  (1771.9 KB)
+================================================================================
+COUNT: 464
+FIELDS (from rec 0): ['id', 'title', 'title_en', 'urgency', 'priority', 'severity', 'color', 'layers', 'season', 'quickAnswer', 'action_ru', 'level1_ru', 'facts_ru', 'dtc_codes', 'priceData', 'sources', 'brand', 'mentionIndex', 'desc', 'powertrain_filter', 'category', 'models', 'icon']
+ALL FIELDS (field -> count):
+  id: 464 (100%)
+  title: 464 (100%)
+  urgency: 464 (100%)
+  layers: 464 (100%)
+  quickAnswer: 464 (100%)
+  category: 464 (100%)
+  icon: 464 (100%)
+  sources: 462 (100%)
+  facts_ru: 452 (97%)
+  dtc_codes: 451 (97%)
+  searchQueries: 443 (95%)
+  subtitle: 441 (95%)
+  universal: 425 (92%)
+  priceRange: 425 (92%)
+  canDrive: 425 (92%)
+  commonMistakes: 425 (92%)
+  facts: 425 (92%)
+  source_type: 421 (91%)
+  merged_count: 419 (90%)
+  priority: 45 (10%)
+  season: 45 (10%)
+  models: 39 (8%)
+  priceData: 28 (6%)
+  brand: 23 (5%)
+  title_en: 21 (5%)
+  severity: 21 (5%)
+  powertrain_filter: 18 (4%)
+  desc: 17 (4%)
+  quickAnswer_original: 14 (3%)
+  steps: 14 (3%)
+  prices: 14 (3%)
+  action_ru: 13 (3%)
+  source: 12 (3%)
+  color: 11 (2%)
+  level1_ru: 11 (2%)
+  mentionIndex: 11 (2%)
+  reviewed_claude: 11 (2%)
+  symptoms: 10 (2%)
+  causes: 10 (2%)
+  repair: 10 (2%)
+  mileage_onset: 10 (2%)
+  frequency: 2 (0%)
+  brand_coverage: 2 (0%)
+  mentions: 1 (0%)
+  avg_mileage_tkm: 1 (0%)
+  avg_cost_rub: 1 (0%)
+  problem_type: 1 (0%)
+  component: 1 (0%)
+  sample_sentences: 1 (0%)
+  reviewed_auto: 1 (0%)
+DUPLICATE IDs: 0 (sample: [])
+GEN-INDICATIVE FIELDS: ['urgency']
+MANUAL_GENERATIONS.JSON: dict
+  TOP KEYS: ['manual-3_e36.md', 'manual-3_series_f30.md', 'manual-3_series_f34.md']
+  GENS: ['manual-3_e36.md', 'manual-3_series_f30.md', 'manual-3_series_f34.md']
+CHUNK_GENERATION_MAP.JSON: NOT FOUND
+PER-GEN situations.json subdirs: [('f30', 1764258), ('f34', 1764258)]
+
+SAMPLE RECORD 0 (full):
+{
+  "id": "BMW-001",
+  "title": "Потеря мощности и пропуски зажигания",
+  "title_en": "Power Loss and Misfires",
+  "urgency": 4,
+  "priority": "P1",
+  "severity": "high",
+  "color": "#FF7043",
+  "layers": [
+    "engine"
+  ],
+  "season": "all",
+  "quickAnswer": "Частая проблема форсунок и катушек на бензиновых моторах B48/B58. Требуется немедленная диагностика.",
+  "action_ru": "Замена форсунок и катушек зажигания",
+  "level1_ru": "При перегреве или старении топливных форсунок Bosch происходит нарушение распыла, что вызывает пропуски воспламенения. ЭБУ фиксирует ошибки и переводит двигатель в аварийный режим, ограничивая мощность.",
+  "facts_ru": [
+    "Средний пробег до отказа форсунок: 85 000 км",
+    "Цена новой оригинальной форсунки: 18 500 руб.",
+    "Стоимость замены 4 форсунок с работой: 42 000 руб.",
+    "Цена оригинальной катушки зажигания: 6 200 руб.",
+    "Срок службы катушек: 90 000 - 120 000 км"
+  ],
+  "dtc_codes": [
+    "P0300",
+    "P0301",
+    "P0302",
+    "P0303",
+    "P0304"
+  ],
+  "priceData": {
+    "items": [
+      {
+        "name": "Диагностика двигателя",
+        "min": 3000,
+        "max": 6000
+      },
+      {
+        "name": "Замена форсунки (работа)",
+        "min": 1500,
+        "max": 2500
+      },
+      {
+        "name": "Замена катушки зажигания",
+        "min": 2000,
+        "max": 3500
+      },
+      {
+        "name": "Оригинальная форсунка Bosch",
+        "min": 18500,
+        "max": 22000
+      },
+      {
+        "name": "Оригинальная катушка"
+
+SAMPLE RECORD MID (232):
+{
+  "id": "buni_d1c2377e",
+  "title": "При работе с электросваркой на кузове автомобиля отключите аккумуляторную батарею и отсоедините ",
+  "quickAnswer": "При работе с электросваркой на кузове автомобиля отключите аккумуляторную батарею и отсоедините колодку проводов от электронного блока управления двигателем. Электроинструмент рабочим напряжением 220 в должен быть надежно заземлен, если заземление предусмотрено его конструкцией. Заменяя тормозные колодки или сцепление, не пользуйтесь сжаты...",
+  "urgency": 4,
+  "category": "brakes",
+  "layers": [
+    "brakes"
+  ],
+  "facts_ru": [
+    "АКБ: ресурс 4-6 лет; напряжение <12.4V = заряд <75%; паразитный ток >50 мА разряжает за 3-5 дней [работе/электрос]",
+    "Проверка нагрузочной вилкой (300-500 руб): напряжение под нагрузкой не должно падать ниже 10.5V; ток утечки проверяется амперметром [работе/электрос]"
+  ],
+  "dtc_codes": [],
+  "merged_count": 3,
+  "source_type": "brand_universal",
+  "universal": true,
+  "searchQueries": [
+    "При работе с электросваркой на кузове автомобиля отключите аккумуляторную батарею и отсоедините ",
+    "работе электросваркой кузове",
+    "электросваркой кузове автомоби"
+  ],
+  "subtitle": "При работе с электросваркой на кузове автомобиля отключите аккумуляторную батарею и отсоедините колодку проводов от электронного блока управления двигателем.",
+  "priceRange": "3000-20000 руб",
+  "sources": [
+    "Руководство по тормозной системе (OEM)",
+    "ГОСТ Р 51709-2001: тормозная система"
+  ],
+  "canDr
+
+GENERATION MENTIONS in title+quickAnswer: {}
+
+CONTENT LANG: cyrillic=464, CJK=0, placeholders=0, empty=0
+DTC (first 300 recs): valid=94, invalid=7, w/DTC=29, samples=['P0300', 'P0301', 'P0302', 'P0303', 'P0304', 'P0171', 'P0174', 'P0172', 'P0401', 'P0299']
+CATEGORIES: {'engine': 201, 'electrical': 67, 'suspension': 29, 'general': 29, 'drivetrain': 24, 'tires': 21, 'body': 18, 'fuel': 17, 'brakes': 13, 'cooling': 11}
+CONTENT_TYPES: {None: 464}
+MODELS FIELD POPULATED: 39/464
+  models sample: ['3_series', 'bmw_3_series', 'bmw_5_series', 'bmw_x1', 'bmw_x3', 'bmw_x5', 'x1', 'x3', 'x5']
+SOURCES (top 5): {'swarm_agent:extracted': 10, 'review_mining': 1, 'review_keyword': 1}
+
+================================================================================
+kia/rio  (1662.1 KB)
+================================================================================
+COUNT: 449
+FIELDS (from rec 0): ['id', 'title', 'title_en', 'urgency', 'priority', 'severity', 'color', 'layers', 'season', 'quickAnswer', 'action_ru', 'level1_ru', 'facts_ru', 'dtc_codes', 'priceData', 'sources', 'brand', 'mentionIndex', 'desc', 'models', 'category', 'icon']
+ALL FIELDS (field -> count):
+  id: 449 (100%)
+  title: 449 (100%)
+  urgency: 449 (100%)
+  layers: 449 (100%)
+  quickAnswer: 449 (100%)
+  category: 449 (100%)
+  icon: 449 (100%)
+  searchQueries: 431 (96%)
+  facts_ru: 426 (95%)
+  sources: 426 (95%)
+  source_type: 420 (94%)
+  subtitle: 414 (92%)
+  dtc_codes: 407 (91%)
+  universal: 403 (90%)
+  priceRange: 403 (90%)
+  canDrive: 403 (90%)
+  commonMistakes: 403 (90%)
+  facts: 403 (90%)
+  merged_count: 397 (88%)
+  models: 46 (10%)
+  priority: 36 (8%)
+  season: 36 (8%)
+  source: 28 (6%)
+  brand: 25 (6%)
+  desc: 24 (5%)
+  action_ru: 20 (4%)
+  priceData: 20 (4%)
+  mentionIndex: 18 (4%)
+  cost: 16 (4%)
+  mileage: 16 (4%)
+  quickAnswer_original: 13 (3%)
+  steps: 13 (3%)
+  prices: 13 (3%)
+  reviewed_claude: 7 (2%)
+  mentions: 4 (1%)
+  avg_mileage_tkm: 4 (1%)
+  avg_cost_rub: 4 (1%)
+  problem_type: 4 (1%)
+  component: 4 (1%)
+  sample_sentences: 4 (1%)
+  title_en: 2 (0%)
+  severity: 2 (0%)
+  color: 2 (0%)
+  level1_ru: 2 (0%)
+  powertrain_filter: 2 (0%)
+  frequency: 2 (0%)
+  brand_coverage: 2 (0%)
+  model: 1 (0%)
+  warning_type: 1 (0%)
+  source_file: 1 (0%)
+DUPLICATE IDs: 0 (sample: [])
+GEN-INDICATIVE FIELDS: ['urgency']
+MANUAL_GENERATIONS.JSON: dict
+  TOP KEYS: ['manual-_all.md', 'manual-iii_2023_2024.md', 'manual-rio.md', 'manual-rio_2017-i_2017_2024.md', 'manual-rio_2017.md', 'manual-rio_2021-i_2017_2024.md', 'manual-rio_2021.md', 'manual-rio_iii.md', 'manual.md']
+  GENS: ['manual-_all.md', 'manual-iii_2023_2024.md', 'manual-rio.md', 'manual-rio_2017-i_2017_2024.md', 'manual-rio_2017.md', 'manual-rio_2021-i_2017_2024.md', 'manual-rio_2021.md', 'manual-rio_iii.md', 'manual.md']
+CHUNK_GENERATION_MAP.JSON: dict
+  TOP KEYS sample: ['chunks-manual-rio.md', 'chunks-manual-rio_2017.md', 'chunks-manual-rio_2021.md']
+  SAMPLE entry [chunks-manual-rio.md]: {"generation_id": null, "generation_name": null, "confidence": null, "reason": "no matching generation found"}
+PER-GEN situations.json subdirs: [('2017', 1793405), ('2021', 1699799)]
+
+SAMPLE RECORD 0 (full):
+{
+  "id": "KIA-002",
+  "title": "Ошибка датчика массового расхода воздуха",
+  "title_en": "MAF sensor error",
+  "urgency": 3,
+  "priority": "P2",
+  "severity": "medium",
+  "color": "#FFA726",
+  "layers": [
+    "engine"
+  ],
+  "season": "all",
+  "quickAnswer": "Повышенный расход топлива и плавающие обороты. Рекомендуется чистка или замена датчика ДМРВ.",
+  "action_ru": "Чистка или замена датчика ДМРВ",
+  "level1_ru": "Код P0101 сигнализирует о некорректном сигнале от датчика массового расхода воздуха. На двигателях Kia это часто происходит из-за загрязнения датчика пылью или масляным туманом. Некорректные данные приводят к нарушению смеси и увеличению расхода.",
+  "facts_ru": [
+    "Средний пробег до загрязнения ДМРВ: 40 000 - 60 000 км",
+    "Цена оригинального датчика ДМРВ: 8 000 - 12 000 руб.",
+    "Цена аналога (Bosch): 5 000 - 7 500 руб.",
+    "Стоимость чистки датчика: 1 500 - 2 500 руб.",
+    "Экономия топлива после замены: до 1.5 л/100 км"
+  ],
+  "dtc_codes": [
+    "P0101"
+  ],
+  "priceData": {
+    "items": [
+      {
+        "name": "Датчик ДМРВ (оригинал)",
+        "min": 8000,
+        "max": 12000
+      },
+      {
+        "name": "Датчик ДМРВ (аналог)",
+        "min": 5000,
+        "max": 7500
+      },
+      {
+        "name": "Услуга чистки датчика",
+        "min": 1500,
+        "max": 2500
+      }
+    ],
+    "disclaimer": "Цены ориентировочные на 2026 год",
+    "lastUpdated": "2026-03"
+  },
+  "sources": [
+    {
+      "name": "Zr.ru тесты и ремонт",
+      "url": "htt
+
+SAMPLE RECORD MID (224):
+{
+  "id": "yt_1255b965",
+  "title": "Усиление эффекта промывки",
+  "quickAnswer": "После прогона на специальном масле слейте его при температуре 60–70°C под давлением 1–2 бар, залейте мягкую промывку (например, Liqui Moly Pro-Line) и дайте двигателю поработать 10–15 минут на холостых оборотах (2000–2500 об/мин), затем замените масло и фильтр на продукт с допуском API SP/ACEA C5. Для точной диагностики данной проблемы рекомендуется подключить диагностический сканер OBD-II и считать коды неисправностей. Проверьте текущие параметры двигателя: обороты холостого хода, температуру охлаждающей жидкости, давление масла, показания датчиков (ДМРВ, ДПДЗ, лямбда-зонд). Сравните полученные значения со спецификацией производителя. При обнаружении отклонений — устраните первопричину, а не симптом. Средняя стоимость диагностики — 1500-3000 руб. Не откладывайте визит в сервис: многие проблемы двигателя прогрессируют экспоненциально.",
+  "urgency": 2,
+  "category": "engine",
+  "layers": [
+    "engine"
+  ],
+  "facts_ru": [
+    "Усиление эффекта промывки достигается двойной заменой масла: первая замена с промывкой, вторая через 500-1000 км — удаляет 90-95% отложений vs 60-70% при однократной промывке.",
+    "Стоимость двойной замены: 2 канистры масла + 2 фильтра + промывка = 5-10 тыс. руб; оправдано при покупке б/у автомобиля с неизвестной историей обслуживания."
+  ],
+  "dtc_codes": [],
+  "merged_count": 1,
+  "source_type": "universal_merged",
+  "universal": true,
+  "searchQueries": [
+    "Усиле
+
+GENERATION MENTIONS in title+quickAnswer: {}
+
+CONTENT LANG: cyrillic=449, CJK=0, placeholders=0, empty=0
+DTC (first 300 recs): valid=31, invalid=0, w/DTC=10, samples=['P0101', 'P0000', 'P0420', 'P0430', 'P0300', 'P0301', 'P0302', 'P0303', 'P0304', 'P0420']
+CATEGORIES: {'engine': 196, 'electrical': 59, 'general': 35, 'suspension': 27, 'body': 24, 'drivetrain': 19, 'tires': 19, 'fuel': 18, 'cooling': 12, 'brakes': 10}
+CONTENT_TYPES: {None: 449}
+MODELS FIELD POPULATED: 46/449
+  models sample: ['rio']
+SOURCES (top 5): {'review:chunks-reviews-rio.md': 16, 'review_mining': 6, 'swarm_agent:research_rio': 5, 'manual_warning': 1}
+
+================================================================================
+audi/a4  (1761.7 KB)
+================================================================================
+COUNT: 468
+FIELDS (from rec 0): ['id', 'title', 'subtitle', 'urgency', 'priority', 'layers', 'season', 'quickAnswer', 'searchQueries', 'facts_ru', 'sources', 'priceData', 'category', 'models', 'icon']
+ALL FIELDS (field -> count):
+  id: 468 (100%)
+  title: 468 (100%)
+  urgency: 468 (100%)
+  layers: 468 (100%)
+  quickAnswer: 468 (100%)
+  category: 468 (100%)
+  icon: 468 (100%)
+  searchQueries: 450 (96%)
+  sources: 448 (96%)
+  subtitle: 444 (95%)
+  facts_ru: 444 (95%)
+  source_type: 444 (95%)
+  dtc_codes: 440 (94%)
+  universal: 431 (92%)
+  priceRange: 431 (92%)
+  canDrive: 431 (92%)
+  commonMistakes: 431 (92%)
+  facts: 431 (92%)
+  merged_count: 425 (91%)
+  models: 37 (8%)
+  priority: 29 (6%)
+  season: 29 (6%)
+  source: 24 (5%)
+  priceData: 16 (3%)
+  cost: 14 (3%)
+  mileage: 14 (3%)
+  quickAnswer_original: 14 (3%)
+  steps: 14 (3%)
+  prices: 14 (3%)
+  reviewed_claude: 7 (1%)
+  brand: 7 (1%)
+  powertrain_filter: 7 (1%)
+  desc: 6 (1%)
+  title_en: 4 (1%)
+  severity: 4 (1%)
+  symptoms: 4 (1%)
+  causes: 4 (1%)
+  repair: 4 (1%)
+  mileage_onset: 4 (1%)
+  mentions: 3 (1%)
+  avg_mileage_tkm: 3 (1%)
+  avg_cost_rub: 3 (1%)
+  problem_type: 3 (1%)
+  component: 3 (1%)
+  sample_sentences: 3 (1%)
+  action_ru: 2 (0%)
+  frequency: 2 (0%)
+  brand_coverage: 2 (0%)
+DUPLICATE IDs: 0 (sample: [])
+GEN-INDICATIVE FIELDS: ['urgency']
+MANUAL_GENERATIONS.JSON: dict
+  TOP KEYS: ['manual-a4.md', 'manual-i_b5_1994_2001.md', 'manual-v_2023_2024.md', 'manual.md']
+  GENS: ['manual-a4.md', 'manual-i_b5_1994_2001.md', 'manual-v_2023_2024.md', 'manual.md']
+CHUNK_GENERATION_MAP.JSON: dict
+  TOP KEYS sample: ['chunks-manual-a4.md']
+  SAMPLE entry [chunks-manual-a4.md]: {"generation_id": "audi_a4__a4_i_b5_sedan_1994", "generation_name": "A4 I (B5) 1994-2001", "confidence": "high", "reason": "gen code 'A4' matches generation name"}
+PER-GEN situations.json subdirs: []
+
+SAMPLE RECORD 0 (full):
+{
+  "id": "audi_s01104",
+  "title": "Сбои в работе роботизированной коробки S tronic",
+  "subtitle": "Проблемы с мехатроником и сцеплением в A3 и A4",
+  "urgency": 4,
+  "priority": "P1",
+  "layers": [
+    "drivetrain"
+  ],
+  "season": "all",
+  "quickAnswer": "Мехатроник коробки S tronic может выйти из строя, вызывая рывки при переключении или отказ в движении. Требуется замена мехатроника и адаптация сцепления.",
+  "searchQueries": [
+    "Сбои в работе роботизированной коробки S tronic"
+  ],
+  "facts_ru": [],
+  "sources": [
+    {
+      "name": "drom.ru",
+      "url": "https://www.drom.ru/reviews/audi/",
+      "type": "reviews"
+    }
+  ],
+  "priceData": {
+    "min": 3000,
+    "max": 15000,
+    "avg": 8000,
+    "currency": "RUB"
+  },
+  "category": "drivetrain",
+  "models": [
+    "a3",
+    "a4",
+    "audi_a3",
+    "audi_a4"
+  ],
+  "icon": "⚙️"
+}
+
+SAMPLE RECORD MID (234):
+{
+  "id": "buni_b4d66a5a",
+  "title": "Следует проверить уровень тормозной жидкости, если на щитке приборов горит контрольная лампа неисп",
+  "quickAnswer": "Следует проверить уровень тормозной жидкости, если на щитке приборов горит контрольная лампа неисправности тормозной системы. 12. По громкости выхлопа определяем состояние системы выпуска отработавших газов (см. «Система выпуска отработавших газов — проверка технического состояния»). При увеличении шума необходимо осмотреть элементы системы ...",
+  "urgency": 4,
+  "category": "brakes",
+  "layers": [
+    "brakes"
+  ],
+  "facts_ru": [
+    "Осциллограф показывает форму сигнала в реальном времени: периодические сбои, невидимые для OBD2; USB-осциллограф для авто 5-15 тыс руб [Следует/проверит]",
+    "Контрольная лампа показывает только наличие сигнала, осциллограф — амплитуду, частоту, фронты; для ABS, коленвала, форсунок это критично [Следует/проверит]"
+  ],
+  "dtc_codes": [],
+  "merged_count": 3,
+  "source_type": "brand_universal",
+  "universal": true,
+  "searchQueries": [
+    "Следует проверить уровень тормозной жидкости, если на щитке приборов горит контрольная лампа неисп",
+    "следует проверить уровень",
+    "проверить уровень тормозной"
+  ],
+  "subtitle": "Следует проверить уровень тормозной жидкости, если на щитке приборов горит контрольная лампа неисправности тормозной системы.",
+  "priceRange": "3000-20000 руб",
+  "sources": [
+    "Руководство по тормозной системе (OEM)",
+    "ГОСТ Р 51709-2001: тормозная система"
+
+
+GENERATION MENTIONS in title+quickAnswer: {}
+
+CONTENT LANG: cyrillic=468, CJK=0, placeholders=0, empty=0
+DTC (first 300 recs): valid=54, invalid=2, w/DTC=14, samples=['P0171', 'P0172', 'P0730', 'P0741', 'P17BF', 'P189C', 'P0234', 'P0299', 'P0016', 'P0017']
+CATEGORIES: {'engine': 198, 'electrical': 64, 'general': 31, 'drivetrain': 28, 'suspension': 28, 'body': 22, 'tires': 21, 'fuel': 17, 'brakes': 14, 'cooling': 12}
+CONTENT_TYPES: {None: 468}
+MODELS FIELD POPULATED: 37/468
+  models sample: ['a3', 'a4', 'audi_a3', 'audi_a4']
+SOURCES (top 5): {'review:chunks-reviews-a4.md': 14, 'review_mining': 6, 'swarm_agent:extracted': 4}
+
+================================================================================
+DASHBOARD LAYOUT (llcar-dashboard/public/data/kb):
+================================================================================
+toyota/camry subdirs: ['v50_2011', 'xv40_2006', 'xv70_2018']
+  v50_2011/situations.json: count=10, first_id=toyota_camry_v50_2ar_fe_timing_chain_stretch
+  first keys: ['id', 'title', 'qa', 'urg', 'cat', 'dtc_codes', 'solutions', 'price_range', 'mileage_range', 'content_type', 'full_article_path']
+  xv40_2006/situations.json: count=10, first_id=toyota_camry_xv40_001
+  first keys: ['id', 'title', 'qa', 'urg', 'cat', 'dtc_codes', 'solutions', 'price_range', 'mileage_range', 'content_type']
+volkswagen/passat subdirs: ['b8_2014', 'b8_2015']
+  b8_2014/situations.json: count=10, first_id=vw_passat_b8_001
+  first keys: ['id', 'title', 'qa', 'urg', 'cat', 'dtc_codes', 'solutions', 'price_range', 'mileage_range', 'content_type']
+  b8_2015/situations.json: count=10, first_id=vw_passat_b8_001
+  first keys: ['id', 'title', 'qa', 'urg', 'cat', 'dtc_codes', 'solutions', 'price_range', 'mileage_range', 'content_type']
+hyundai/solaris subdirs: ['hc_2017', 'rb_2011']
+  hc_2017/situations.json: count=10, first_id=hyundai_solaris_hc_01
+  first keys: ['id', 'title', 'qa', 'urg', 'cat', 'dtc_codes', 'solutions', 'price_range', 'mileage_range', 'content_type', 'full_article_path']
+  rb_2011/situations.json: count=10, first_id=hyundai_solaris_rb_001
+  first keys: ['id', 'title', 'qa', 'urg', 'cat', 'dtc_codes', 'solutions', 'price_range', 'mileage_range', 'content_type']
+bmw/3_series subdirs: ['f30_2012', 'g20_2019']
+  f30_2012/situations.json: count=10, first_id=bmw_3_f30_001
+  first keys: ['id', 'title', 'qa', 'urg', 'cat', 'dtc_codes', 'solutions', 'price_range', 'mileage_range', 'content_type', 'full_article_path']
+  g20_2019/situations.json: count=10, first_id=bmw_3_g20_001
+  first keys: ['id', 'title', 'qa', 'urg', 'cat', 'dtc_codes', 'solutions', 'price_range', 'mileage_range', 'content_type']
+kia/rio subdirs: ['.omc', 'dc_2000', 'fb_2017', 'jb_2005', 'qb_2011']
+  dc_2000/situations.json: count=10, first_id=kia_rio_dc_001
+  first keys: ['id', 'title', 'qa', 'urg', 'cat', 'dtc_codes', 'solutions', 'price_range', 'mileage_range', 'content_type']
+audi/a4 subdirs: ['b8_2008', 'b9_2015']
+  b8_2008/situations.json: count=10, first_id=audi_a4_b8_001
+  first keys: ['id', 'title', 'qa', 'urg', 'cat', 'dtc_codes', 'solutions', 'price_range', 'mileage_range', 'content_type']
+  b9_2015/situations.json: count=10, first_id=audi_a4_b9_001
+  first keys: ['id', 'title', 'qa', 'urg', 'cat', 'dtc_codes', 'solutions', 'price_range', 'mileage_range', 'content_type']
+
+DONE.

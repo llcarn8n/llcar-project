@@ -1,0 +1,334 @@
+
+bmw/models/3_series/f30/situations.json: parent=464 sub=443 overlap=443 sub_only=0 parent_only=21
+  -> SUBSET (subdir filters parent)
+  gen-fields in sub[0]: {'generation': None, 'gen': None, 'gen_id': None, 'generation_id': None, 'year': None, 'years': None, 'model_gen': None}
+
+bmw/models/3_series/f34/situations.json: parent=464 sub=443 overlap=443 sub_only=0 parent_only=21
+  -> SUBSET (subdir filters parent)
+  gen-fields in sub[0]: {'generation': None, 'gen': None, 'gen_id': None, 'generation_id': None, 'year': None, 'years': None, 'model_gen': None}
+
+kia/models/rio/2017/situations.json: parent=449 sub=519 overlap=420 sub_only=99 parent_only=29
+  -> DIFFERENT SET
+  gen-fields in sub[0]: {'generation': None, 'gen': None, 'gen_id': None, 'generation_id': None, 'year': None, 'years': None, 'model_gen': None}
+
+kia/models/rio/2021/situations.json: parent=449 sub=447 overlap=420 sub_only=27 parent_only=29
+  -> DIFFERENT SET
+  gen-fields in sub[0]: {'generation': None, 'gen': None, 'gen_id': None, 'generation_id': None, 'year': None, 'years': None, 'model_gen': None}
+SKIP audi/models/a4/1997_2001/situations.json: sub_exists=False
+
+================================================================================
+MANUAL_GENERATIONS.JSON deep look
+================================================================================
+
+toyota/models/camry/manual_generations.json:
+{
+  "manual-camry-2001.md": {
+    "generation": "Camry I 2004-2009",
+    "generation_id": "toyota_camry_solara__camry_solara_2004_2009_2004",
+    "years": "1998-2007",
+    "language": "RU",
+    "confidence": "medium",
+    "extracted_years": [
+      1998,
+      2001,
+      2002,
+      2004,
+      2005,
+      2007
+    ],
+    "extracted_codes": null
+  },
+  "manual-camry-2006.md": {
+    "generation": "Camry I 2004-2009",
+    "generation_id": "toyota_camry_solara__camry_solara_2004_2009_2004",
+    "years": "2006",
+    "language": "EN",
+    "confidence": "medium",
+    "extracted_years": [
+      2006
+    ],
+    "extracted_codes": [
+      "F10",
+      "F12"
+    ]
+  },
+  "manual-camry-gracia.md": {
+    "generation": null,
+    "generation_id": null,
+    "years": "1996-2001",
+    "language": "RU",
+    "confidence": "low",
+    "extracted_years": [
+      1996,
+      1997,
+      1998,
+      1999,
+      2001
+    ],
+    "extracted_codes": null
+  },
+  "manual-camry-v40.md": {
+    "generation": "Camry I 2004-2009",
+    "generation_id": "toyota_camry_solara__camry_solara_2004_2009_2004",
+    "years": "2005",
+    "language": "RU",
+    "confidence": "medium",
+    "extracted_years": [
+      2005
+    ],
+    "extracted_codes": null
+  },
+  "manual-camry-vi_2023_2023.md": {
+    "generation": "Camry I 2004-2009",
+    "generation_id": "toyota_camry_solara__camry_solara_2004_2009_2004",
+    "years": "2005-2023",
+    "language": "RU",
+    "confidence": "medium",
+    "extracted_years": [
+      2005,
+      
+
+hyundai/models/solaris/manual_generations.json:
+{
+  "manual-solaris-2017_н_в.md": {
+    "generation": "Solaris 2017-н.в.",
+    "generation_id": "hyundai__solaris__solaris_ii_2017_2017",
+    "years": "2017",
+    "language": "RU",
+    "confidence": "medium",
+    "extracted_years": [
+      2017
+    ],
+    "extracted_codes": null
+  },
+  "manual-solaris.md": {
+    "generation": "Solaris 2017-н.в.",
+    "generation_id": "hyundai__solaris__solaris_ii_2017_2017",
+    "years": "2017",
+    "language": "RU",
+    "confidence": "medium",
+    "extracted_years": [
+      2017
+    ],
+    "extracted_codes": null
+  },
+  "manual.md": {
+    "generation": "Solaris 2017-н.в.",
+    "generation_id": "hyundai__solaris__solaris_ii_2017_2017",
+    "years": "2017",
+    "language": "RU",
+    "confidence": "medium",
+    "extracted_years": [
+      2017
+    ],
+    "extracted_codes": null
+  }
+}
+
+bmw/models/3_series/manual_generations.json:
+{
+  "manual-3_e36.md": {
+    "generation": "3 Series I (E36) 1990-2000",
+    "generation_id": "bmw_3_серии__3_серии_iii_e36_hatchback_1990",
+    "years": "1984-1999",
+    "language": "EN",
+    "confidence": "medium",
+    "extracted_years": [
+      1984,
+      1988,
+      1990,
+      1992,
+      1993,
+      1994,
+      1995,
+      1996,
+      1997,
+      1998,
+      1999
+    ],
+    "extracted_codes": null
+  },
+  "manual-3_series_f30.md": {
+    "generation": "3 Series III (E90) 2008-2013",
+    "generation_id": "bmw_3_серии__3_серии_v_e90e91e92e93_рестайлинг_coupe_2008",
+    "years": "2012",
+    "language": "RU",
+    "confidence": "medium",
+    "extracted_years": [
+      2012
+    ],
+    "extracted_codes": [
+      "F30"
+    ]
+  },
+  "manual-3_series_f34.md": {
+    "generation": null,
+    "generation_id": null,
+    "years": null,
+    "language": "RU",
+    "confidence": "low",
+    "extracted_years": null,
+    "extracted_codes": [
+      "F34"
+    ]
+  }
+}
+
+kia/models/rio/manual_generations.json:
+{
+  "manual-_all.md": {
+    "generation": null,
+    "generation_id": null,
+    "years": null,
+    "language": "RU",
+    "confidence": "low",
+    "extracted_years": null,
+    "extracted_codes": null
+  },
+  "manual-iii_2023_2024.md": {
+    "generation": "Rio I 2017-2024",
+    "generation_id": "kia_rio__rio_2020_2020",
+    "years": "2011-2023",
+    "language": "RU",
+    "confidence": "medium",
+    "extracted_years": [
+      2011,
+      2012,
+      2023
+    ],
+    "extracted_codes": null
+  },
+  "manual-rio.md": {
+    "generation": null,
+    "generation_id": null,
+    "years": "2011-2012",
+    "language": "RU",
+    "confidence": "low",
+    "extracted_years": [
+      2011,
+      2012
+    ],
+    "extracted_codes": null
+  },
+  "manual-rio_2017-i_2017_2024.md": {
+    "generation": "Rio I 2017-2024",
+    "generation_id": "kia_rio__rio_2020_2020",
+    "years": "2000-2017",
+    "language": "RU",
+    "confidence": "medium",
+    "extracted_years": [
+      2000,
+      2017
+    ],
+    "extracted_codes": null
+  },
+  "manual-rio_2017.md": {
+    "generation": "Rio I 2017-2024",
+    "generation_id": "kia_rio__rio_2020_2020",
+    "years": "2000-2017",
+    "language": "RU",
+    "confidence": "medium",
+    "extracted_years": [
+      2000,
+      2017
+    ],
+    "extracted_codes": null
+  },
+  "manual-rio_2021-i_2017_2024.md": {
+    "generation": "Rio I 2017-2024",
+    "generation_id": "kia_rio__rio_2020_2020",
+    "years": "2017-2021",
+    "language": "RU",
+    "confidence": "medium",
+    "extracted_
+
+audi/models/a4/manual_generations.json:
+{
+  "manual-a4.md": {
+    "generation": null,
+    "generation_id": null,
+    "years": null,
+    "language": "EN",
+    "confidence": "low",
+    "extracted_years": null,
+    "extracted_codes": null
+  },
+  "manual-i_b5_1994_2001.md": {
+    "generation": "A4 I (B5) 1994-2001",
+    "generation_id": "audi_a4__a4_i_b5_sedan_1994",
+    "years": "1994",
+    "language": "EN",
+    "confidence": "medium",
+    "extracted_years": [
+      1994
+    ],
+    "extracted_codes": null
+  },
+  "manual-v_2023_2024.md": {
+    "generation": "A4 I (B5) 1994-2001",
+    "generation_id": "audi_a4__a4_i_b5_sedan_1994",
+    "years": "1997-2023",
+    "language": "EN",
+    "confidence": "medium",
+    "extracted_years": [
+      1997,
+      2001,
+      2023
+    ],
+    "extracted_codes": null
+  },
+  "manual.md": {
+    "generation": "A4 I (B5) 1994-2001",
+    "generation_id": "audi_a4__a4_i_b5_sedan_1994",
+    "years": "1997-2001",
+    "language": "EN",
+    "confidence": "medium",
+    "extracted_years": [
+      1997,
+      2001
+    ],
+    "extracted_codes": null
+  }
+}
+
+================================================================================
+CHUNK_GENERATION_MAP.JSON deep look
+================================================================================
+
+toyota/models/camry/chunk_generation_map.json: 11 entries
+  chunks-manual-camry.md: {"generation_id": "toyota__camry__camry_viii_xv70_2017_2024_2017", "generation_name": "Camry IV (XV70) 2017-2025", "confidence": "high", "reason": "Official Toyota Motor Europe owners manual ~2020-2021 (ERA-GLONASS, Feb 2021)"}
+  chunks-manual-camry_2006_ru.md: {"generation_id": "toyota_camry_japan__camry_japan_2007_2011_2007", "generation_name": "Camry II 2007-2014", "confidence": "medium", "reason": "EN owners manual for Camry XV40 era (~2006)"}
+  chunks-manual-camry_v40.md: {"generation_id": "toyota_camry_japan__camry_japan_2007_2011_2007", "generation_name": "Camry II 2007-2014", "confidence": "high", "reason": "XV40 RU service manual, same as camry-v40"}
+  chunks-manual-camry-2001.md: {"generation_id": "toyota_camry_solara__camry_solara_2004_2009_2004", "generation_name": "Camry I 2004-2009", "confidence": "medium", "reason": "Haynes 2002-2005 (Camry/Avalon/Solara/Lexus ES300/330)"}
+  chunks-manual-camry-xv30.md: {"generation_id": "toyota_camry_solara__camry_solara_2004_2009_2004", "generation_name": "Camry I 2004-2009", "confidence": "medium", "reason": "Haynes 2002-2005, same source as camry-2001"}
+
+kia/models/rio/chunk_generation_map.json: 3 entries
+  chunks-manual-rio.md: {"generation_id": null, "generation_name": null, "confidence": null, "reason": "no matching generation found"}
+  chunks-manual-rio_2017.md: {"generation_id": "kia_rio__rio_2020_2020", "generation_name": "Rio I 2017-2024", "confidence": "medium", "reason": "year 2017 falls within gen 2017-2024"}
+  chunks-manual-rio_2021.md: {"generation_id": "kia_rio__rio_2020_2020", "generation_name": "Rio I 2017-2024", "confidence": "medium", "reason": "year 2021 falls within gen 2017-2024"}
+
+================================================================================
+INFO.JSON (gen list)
+================================================================================
+
+toyota/models/camry/info.json: keys=['brand_id', 'brand_name', 'brand_name_ru', 'model_id', 'model_name', 'body_type', 'status', 'powertrain', 'generations']
+  generations: [{"id": "toyota_camry_solara__camry_solara_2004_2009_2004", "name": "Camry I 2004-2009", "ys": 2004, "ye": 2009, "body_type": "sedan", "dimensions": {"length_mm": 4890, "width_mm": 1816, "height_mm": 1425, "wheelbase_mm": 2720, "fuel_tank_l": 70, "curb_weight_kg": 1440}, "trims": [{"name": "2.4L 5AT (159 HP)", "engine": {"type": "petrol", "aspiration": "multipoint injection", "displacement_cc": 2362, "power_hp": 159, "power_kw": 117, "torque_nm": 220, "fuel_type": "petrol"}, "transmission": {"type": "automatic", "gears": 5}, "drivetrain": "fwd", "performance": {"fuel_consumption_combined_l100km": 9.5, "fuel_consumption_city_l100km": 11.2, "fuel_consumption_highway_l100km": 7.8, "power_hp": 159, "power_kw": 117}}, {"name": "2.4L 5MT (159 HP)", "engine": {"type": "petrol", "aspiration": "mul
+
+bmw/models/3_series/info.json: keys=['brand_id', 'brand_name', 'brand_name_ru', 'model_id', 'model_name', 'body_type', 'status', 'powertrain', 'generations']
+  generations: [{"id": "bmw_3_серии__3_серии_iii_e36_hatchback_1990", "name": "3 Series I (E36) 1990-2000", "ys": 1990, "ye": 2000, "body_type": "hatchback", "dimensions": {"length_mm": 4210, "width_mm": 1700, "height_mm": 1390, "wheelbase_mm": 2700, "ground_clearance_mm": 145, "fuel_tank_l": 55, "curb_weight_kg": 1255, "doors": 5, "seats": 5}, "trims": [{"name": "1.7L 5MT (90 HP)", "engine": {"type": "diesel", "displacement_cc": 1665, "cylinders": 4, "power_hp": 90, "power_kw": 66, "torque_nm": 190, "fuel_type": "diesel"}, "transmission": {"type": "manual", "gears": 5}, "drivetrain": "rwd", "performance": {"top_speed_kmh": 175, "acceleration_0_100_s": 13.9, "fuel_consumption_combined_l100km": 6.2, "fuel_consumption_city_l100km": 8.5, "fuel_consumption_highway_l100km": 4.9}}, {"name": "1.9L 5MT (105 HP)"
+
+kia/models/rio/info.json: keys=['brand_id', 'brand_name', 'brand_name_ru', 'model_id', 'model_name', 'body_type', 'status', 'powertrain', 'generations']
+  generations: [{"id": "kia_rio__rio_2020_2020", "name": "Rio I 2017-2024", "ys": 2017, "ye": 2024, "body_type": "hatchback", "dimensions": {"length_mm": 4375, "width_mm": 1720, "height_mm": 1450, "wheelbase_mm": 2580, "ground_clearance_mm": 155, "trunk_volume_l": 480, "fuel_tank_l": 45, "curb_weight_kg": 1120, "doors": 4, "seats": 5, "trunk_volume_max_l": 325, "gross_weight_kg": 1680, "wheelbase_estimated": true, "wheelbase_mm_original_error": 3429}, "trims": [{"name": "1.4L 6AT (100 HP)", "engine": {"type": "petrol", "aspiration": "NA", "displacement_cc": 1368, "cylinders": 4, "power_hp": 100, "power_kw": 74, "torque_nm": 132, "fuel_type": "petrol"}, "transmission": {"type": "automatic", "gears": 6}, "drivetrain": "fwd", "performance": {"top_speed_kmh": 177, "acceleration_0_100_s": 12.9, "fuel_consumpt
+
+audi/models/a4/info.json: keys=['brand_id', 'brand_name', 'brand_name_ru', 'model_id', 'model_name', 'body_type', 'status', 'powertrain', 'generations']
+  generations: [{"id": "audi_a4__a4_1994_2001_1994", "name": "A4 1994-2001", "ys": 1994, "ye": 2001, "body_type": "sedan", "dimensions": {"length_mm": 4478, "width_mm": 1733, "height_mm": 1415, "wheelbase_mm": 2622, "fuel_tank_l": 62}, "trims": [{"name": "1.6L 4AT (101 HP)", "engine": {"type": "petrol", "aspiration": "multipoint injection", "displacement_cc": 1595, "cylinders": 4, "power_hp": 101, "power_kw": 74, "torque_nm": 140, "fuel_type": "petrol"}, "transmission": {"type": "automatic", "gears": 4}, "drivetrain": "fwd", "performance": {"top_speed_kmh": 185, "acceleration_0_100_s": 14.6, "fuel_consumption_combined_l100km": 9.4, "fuel_consumption_city_l100km": 12.3, "fuel_consumption_highway_l100km": 6.6}}, {"name": "1.6L 5MT (101 HP)", "engine": {"type": "petrol", "aspiration": "multipoint injection"
+
+================================================================================
+HEURISTIC: gen-tokens in title/qa
+================================================================================
+Camry 697 records, gen-token hits: {'xv30': 0, 'xv40': 0, 'xv50': 0, 'xv70': 1, 'v50': 0, 'v55': 0, 'v40': 0, 'v30': 0, 'v70': 0, 'xv10': 0, 'xv20': 0}
+Records with year mention: 147/697
+BMW 3 series 464 records, gen-token hits: {'e30': 0, 'e36': 0, 'e46': 0, 'e90': 1, 'e92': 1, 'f30': 2, 'f31': 1, 'f34': 0, 'g20': 2, 'g21': 0, 'g28': 0}
+VW Passat 641 records, gen-token hits: {'b5': 0, 'b6': 0, 'b7': 1, 'b8': 6, 'b9': 2}
+Audi A4 468 records, gen-token hits: {'b5': 0, 'b6': 1, 'b7': 0, 'b8': 3, 'b9': 1, 'b10': 0}
+DONE.
