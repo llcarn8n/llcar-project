@@ -18,7 +18,8 @@
     ],
     "price_range": "15000-25000 руб.",
     "mileage_range": "40000-80000 км",
-    "content_type": "diagnostic"
+    "content_type": "full_article",
+    "full_article_path": "_articles/renault_arkana_001.md"
   },
   {
     "id": "renault_arkana_002",

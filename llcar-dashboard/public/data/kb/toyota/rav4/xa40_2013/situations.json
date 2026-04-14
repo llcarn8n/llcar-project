@@ -19,7 +19,8 @@
     ],
     "price_range": "5000 - 80000 руб.",
     "mileage_range": "60000 - 150000 км",
-    "content_type": "diagnostic"
+    "content_type": "full_article",
+    "full_article_path": "_articles/toyota_rav4_xa40_001.md"
   },
   {
     "id": "toyota_rav4_xa40_002",

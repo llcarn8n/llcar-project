@@ -46,7 +46,8 @@
     ],
     "price_range": "8000-120000 руб",
     "mileage_range": "60000-150000 км",
-    "content_type": "diagnostic"
+    "content_type": "full_article",
+    "full_article_path": "_articles/skoda_rapid_nh_002.md"
   },
   {
     "id": "skoda_rapid_nh_003",

@@ -17,7 +17,8 @@
     ],
     "price_range": "40000 - 90000 руб.",
     "mileage_range": "60000 - 150000 км",
-    "content_type": "diagnostic"
+    "content_type": "full_article",
+    "full_article_path": "_articles/merc_c_w204_001.md"
   },
   {
     "id": "merc_c_w204_002",

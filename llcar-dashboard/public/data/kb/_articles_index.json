@@ -253,10 +253,70 @@
       "urg": 5,
       "cat": "transmission",
       "topic": "Перегрев и износ Jatco JF015E/JF017E"
+    },
+    {
+      "sit_id": "merc_c_w204_001",
+      "file": "_articles/merc_c_w204_001.md",
+      "brand": "Mercedes-Benz",
+      "model": "C-Class",
+      "generation": "III W204 (2007-2014)",
+      "length_chars": 2272,
+      "sections": 6,
+      "urg": 5,
+      "cat": "engine",
+      "topic": "Растяжение цепи ГРМ M271 EVO 1.8 Turbo"
+    },
+    {
+      "sit_id": "toyota_rav4_xa40_001",
+      "file": "_articles/toyota_rav4_xa40_001.md",
+      "brand": "Toyota",
+      "model": "RAV4",
+      "generation": "IV XA40 (2013-2018)",
+      "length_chars": 1870,
+      "sections": 6,
+      "urg": 4,
+      "cat": "engine",
+      "topic": "Valvematic 3ZR-FAE — плавающие обороты, отзыв ЭБУ"
+    },
+    {
+      "sit_id": "skoda_rapid_nh_002",
+      "file": "_articles/skoda_rapid_nh_002.md",
+      "brand": "Skoda",
+      "model": "Rapid",
+      "generation": "NH (2020+, Калуга)",
+      "length_chars": 2185,
+      "sections": 6,
+      "urg": 4,
+      "cat": "transmission",
+      "topic": "Aisin AQ250-6F (09G/TF-60SN) рывки и перегрев ATF"
+    },
+    {
+      "sit_id": "lada_vesta_gfl_001",
+      "file": "_articles/lada_vesta_gfl_001.md",
+      "brand": "Lada",
+      "model": "Vesta",
+      "generation": "GFL (2015+)",
+      "length_chars": 1952,
+      "sections": 6,
+      "urg": 5,
+      "cat": "engine",
+      "topic": "Растяжение цепи ГРМ ВАЗ-21179 1.8L CVVT"
+    },
+    {
+      "sit_id": "renault_arkana_001",
+      "file": "_articles/renault_arkana_001.md",
+      "brand": "Renault",
+      "model": "Arkana",
+      "generation": "RJL (2019+)",
+      "length_chars": 2434,
+      "sections": 6,
+      "urg": 5,
+      "cat": "engine",
+      "topic": "Разрушение катализатора H4M 1.6 и задиры ЦПГ"
     }
   ],
   "target_total": 30,
-  "completed": 20,
+  "completed": 25,
   "remaining_priority": [
     "hyundai_solaris_rb (катушки зажигания)",
     "kia_rio_fb (6AT A6GF1 рывки)",

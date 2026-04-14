@@ -17,7 +17,8 @@
     ],
     "price_range": "12000-25000 руб.",
     "mileage_range": "50000-100000 км",
-    "content_type": "diagnostic"
+    "content_type": "full_article",
+    "full_article_path": "_articles/lada_vesta_gfl_001.md"
   },
   {
     "id": "lada_vesta_gfl_002",
