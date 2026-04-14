@@ -1,0 +1,20 @@
+{
+  "generation_id": "byd_yuan_2021",
+  "generation_name": "BYD Yuan Plus / Atto 3 (2021-н.в.)",
+  "year_start": 2021,
+  "year_end": null,
+  "body_type": "crossover",
+  "market": "import",
+  "production": "BYD Auto, Чанша",
+  "facelift": null,
+  "platform": "BYD e-Platform 3.0",
+  "engines": [
+    { "code": "TZ180XSM", "type": "PMSM rear", "fuel": "electric", "power_kw": 150 }
+  ],
+  "transmissions": ["single-speed fixed-ratio"],
+  "drivetrains": ["FWD"],
+  "battery_kwh": [49.92, 60.48],
+  "battery_cells": ["BYD Blade LFP"],
+  "popularity_ru": "medium",
+  "notes": "Компактный кроссовер на e-Platform 3.0. Известен фантомным торможением ACC, зависаниями вращающегося экрана, утечкой фреона теплового насоса, скрипом обивки."
+}

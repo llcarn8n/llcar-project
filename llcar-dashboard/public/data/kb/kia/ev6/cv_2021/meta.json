@@ -1,0 +1,22 @@
+{
+  "generation_id": "kia_ev6_cv_2021",
+  "generation_name": "Kia EV6 I (CV)",
+  "year_start": 2021,
+  "year_end": null,
+  "body_type": "crossover",
+  "market": "import",
+  "production": "Kia Hwaseong",
+  "facelift": 2024,
+  "platform": "E-GMP (Electric-Global Modular Platform)",
+  "engines": [
+    { "code": "EMAD-A", "volume": "EV", "type": "Задний электромотор (RWD, Standard Range)", "fuel": "electric", "power_hp": 170 },
+    { "code": "EMAD-B", "volume": "EV", "type": "Задний электромотор (RWD, Long Range)", "fuel": "electric", "power_hp": 229 },
+    { "code": "EMAD-B+EMAF-A", "volume": "EV", "type": "Два электромотора (AWD)", "fuel": "electric", "power_hp": 325 },
+    { "code": "GT", "volume": "EV", "type": "Два электромотора GT (AWD)", "fuel": "electric", "power_hp": 585 }
+  ],
+  "transmissions": ["Single-speed reduction gear"],
+  "drivetrains": ["RWD", "AWD"],
+  "battery": { "capacity_kwh_options": [58, 77.4], "type": "Li-ion NMC (SK Innovation)", "voltage_v": 697 },
+  "popularity_ru": "medium",
+  "notes": "Первый EV Kia на платформе E-GMP. 800V архитектура — DC зарядка до 350 кВт (пик). V2L 3.6 кВт стандарт. WLTP до 528 км (RWD LR). EV6 GT — 585 л.с., 0-100 км/ч за 3.5 с. В РФ — параллельный импорт. World Car of the Year 2022."
+}

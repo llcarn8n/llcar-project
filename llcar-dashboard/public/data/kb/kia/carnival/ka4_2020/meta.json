@@ -1,0 +1,19 @@
+{
+  "generation_id": "kia_carnival_ka4_2020",
+  "generation_name": "Kia Carnival IV (KA4)",
+  "year_start": 2020,
+  "year_end": null,
+  "body_type": "minivan",
+  "market": "import",
+  "production": "Kia Gwangju / Kia Sohari",
+  "facelift": null,
+  "platform": "Kia MPV (KA4)",
+  "engines": [
+    { "code": "G6DK", "volume": "3.5L", "type": "V6 GDI Smartstream", "fuel": "petrol", "power_hp": 290 },
+    { "code": "R2.2 CRDi", "volume": "2.2L", "type": "R4 Turbo Diesel Smartstream", "fuel": "diesel", "power_hp": 202 }
+  ],
+  "transmissions": ["8AT (G6DK)", "8DCT (R2.2)"],
+  "drivetrains": ["FWD"],
+  "popularity_ru": "low",
+  "notes": "Четвёртое поколение минивэна Kia (в РФ до 2022 — Grand Carnival). До 8-9 мест. Задние сдвижные двери стандарт. Дизельная версия R2.2 CRDi основная в Корее. В РФ — параллельный импорт. Бензин G6DK популярен на ближневосточных рынках."
+}

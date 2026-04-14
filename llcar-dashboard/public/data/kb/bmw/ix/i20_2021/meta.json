@@ -1,0 +1,22 @@
+{
+  "generation_id": "bmw_ix_i20_2021",
+  "generation_name": "BMW iX I (i20)",
+  "year_start": 2021,
+  "year_end": null,
+  "body_type": "crossover",
+  "market": "import",
+  "production": "BMW Dingolfing",
+  "facelift": null,
+  "platform": "BMW CLAR EV (5th gen eDrive)",
+  "engines": [
+    { "code": "eDrive40", "volume": "EV", "type": "Задний электромотор", "fuel": "electric", "power_hp": 326 },
+    { "code": "xDrive40", "volume": "EV", "type": "Два электромотора (AWD)", "fuel": "electric", "power_hp": 326 },
+    { "code": "xDrive50", "volume": "EV", "type": "Два электромотора (AWD)", "fuel": "electric", "power_hp": 523 },
+    { "code": "M60", "volume": "EV", "type": "Два электромотора AMG (AWD)", "fuel": "electric", "power_hp": 619 }
+  ],
+  "transmissions": ["Single-speed reduction gear"],
+  "drivetrains": ["RWD", "AWD"],
+  "battery": { "capacity_kwh_options": [71, 111.5], "type": "Li-ion NMC (Samsung SDI)", "voltage_v": 400 },
+  "popularity_ru": "low",
+  "notes": "Флагманский EV BMW. Стеклянный руль, карбоновый спейсфрейм. xDrive50: 111.5 кВт·ч, WLTP 630 км, DC до 200 кВт. В РФ — параллельный импорт. Зарядка AC до 22 кВт (11 кВт стандарт)."
+}

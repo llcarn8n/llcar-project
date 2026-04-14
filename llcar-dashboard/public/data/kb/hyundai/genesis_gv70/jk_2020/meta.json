@@ -1,0 +1,19 @@
+{
+  "generation_id": "genesis_gv70_jk_2020",
+  "generation_name": "Genesis GV70 I (JK)",
+  "year_start": 2020,
+  "year_end": null,
+  "body_type": "crossover",
+  "market": "import",
+  "production": "Hyundai Ulsan",
+  "facelift": null,
+  "platform": "Genesis N Platform",
+  "engines": [
+    { "code": "G4FR", "volume": "2.5L", "type": "R4 Turbo GDI T-GDI", "fuel": "petrol", "power_hp": 300 },
+    { "code": "G4NV", "volume": "3.5L", "type": "V6 Twin Turbo GDI", "fuel": "petrol", "power_hp": 380 }
+  ],
+  "transmissions": ["8AT Hyundai/Genesis"],
+  "drivetrains": ["RWD", "AWD"],
+  "popularity_ru": "low",
+  "notes": "Компактный люксовый кроссовер Genesis. G4FR 2.5T — базовый, G4NV 3.5T — топовый. Есть версия Electrified GV70 (EV, 2022+). В РФ параллельный импорт. Адаптивная подвеска со стабилизаторами поперечной устойчивости (E-LSD опция)."
+}

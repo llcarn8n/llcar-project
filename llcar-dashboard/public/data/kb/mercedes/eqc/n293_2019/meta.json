@@ -1,0 +1,20 @@
+{
+  "generation_id": "mercedes_eqc_n293_2019",
+  "generation_name": "Mercedes EQC I (N293)",
+  "year_start": 2019,
+  "year_end": 2023,
+  "body_type": "crossover",
+  "market": "import",
+  "production": "Mercedes Bremen / BAIC Beijing",
+  "facelift": null,
+  "platform": "Mercedes MRA EV (адаптация GLC)",
+  "engines": [
+    { "code": "AM 180", "volume": "EV", "type": "Передний электромотор", "fuel": "electric", "power_hp": 167 },
+    { "code": "AM 180 x2", "volume": "EV", "type": "Два электромотора (400 4MATIC)", "fuel": "electric", "power_hp": 408 }
+  ],
+  "transmissions": ["Single-speed reduction gear (each axle)"],
+  "drivetrains": ["4MATIC AWD"],
+  "battery": { "capacity_kwh": 80, "usable_kwh": 75.5, "type": "Li-ion NMC (LG Chem)", "voltage_v": 360 },
+  "popularity_ru": "low",
+  "notes": "Первый серийный EV Mercedes-Benz. Платформа адаптирована из GLC, не нативная EV-архитектура. WLTP до 411 км. DC зарядка лишь до 110 кВт — критикуется. В РФ — единичный параллельный импорт. Снят с производства в 2023."
+}

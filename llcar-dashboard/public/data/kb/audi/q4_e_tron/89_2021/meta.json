@@ -1,0 +1,21 @@
+{
+  "generation_id": "audi_q4_e_tron_89_2021",
+  "generation_name": "Audi Q4 e-tron I (89)",
+  "year_start": 2021,
+  "year_end": null,
+  "body_type": "crossover",
+  "market": "import",
+  "production": "Audi Zwickau (VW Group MEB)",
+  "facelift": null,
+  "platform": "Volkswagen MEB (Modularer E-Antriebs-Baukasten)",
+  "engines": [
+    { "code": "APP310", "volume": "EV", "type": "Задний электромотор 35 (RWD)", "fuel": "electric", "power_hp": 170 },
+    { "code": "APP310", "volume": "EV", "type": "Задний электромотор 40 (RWD)", "fuel": "electric", "power_hp": 204 },
+    { "code": "APP310+APA100", "volume": "EV", "type": "Два электромотора 50 quattro (AWD)", "fuel": "electric", "power_hp": 299 }
+  ],
+  "transmissions": ["Single-speed reduction gear"],
+  "drivetrains": ["RWD", "quattro AWD"],
+  "battery": { "capacity_kwh_options": [52, 82], "type": "Li-ion NMC (LG/Samsung)", "voltage_v": 400 },
+  "popularity_ru": "low",
+  "notes": "Компактный EV кроссовер на платформе MEB (VW ID.4). Также выпускается Sportback (купе-кроссовер). 40 RWD WLTP до 520 км, 50 quattro до 490 км. DC зарядка до 135 кВт. В РФ — параллельный импорт. AR HUD проектор опция."
+}

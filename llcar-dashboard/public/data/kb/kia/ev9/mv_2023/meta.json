@@ -1,0 +1,21 @@
+{
+  "generation_id": "kia_ev9_mv_2023",
+  "generation_name": "Kia EV9 I (MV)",
+  "year_start": 2023,
+  "year_end": null,
+  "body_type": "crossover",
+  "market": "import",
+  "production": "Kia Hwaseong / KMMG Georgia",
+  "facelift": null,
+  "platform": "E-GMP (Electric-Global Modular Platform)",
+  "engines": [
+    { "code": "EMAD-B", "volume": "EV", "type": "Задний электромотор (RWD)", "fuel": "electric", "power_hp": 215 },
+    { "code": "EMAD-B+EMAF-A", "volume": "EV", "type": "Два электромотора (AWD)", "fuel": "electric", "power_hp": 384 },
+    { "code": "GT-line AWD", "volume": "EV", "type": "Два электромотора GT-line (AWD)", "fuel": "electric", "power_hp": 384 }
+  ],
+  "transmissions": ["Single-speed reduction gear"],
+  "drivetrains": ["RWD", "AWD"],
+  "battery": { "capacity_kwh": 99.8, "usable_kwh": 96, "type": "Li-ion NMC", "voltage_v": 697 },
+  "popularity_ru": "low",
+  "notes": "Трёхрядный электрический кроссовер до 7 мест на E-GMP. 800V — DC зарядка до 240 кВт. V2L 3.6 кВт стандарт. WLTP до 541 км (RWD). World Car of the Year 2024. В РФ — параллельный импорт. Flat floor благодаря EV-архитектуре."
+}

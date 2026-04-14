@@ -1,0 +1,19 @@
+{
+  "generation_id": "smart_forfour_w453_2014",
+  "generation_name": "Smart ForFour W453 (II поколение)",
+  "year_start": 2014,
+  "year_end": 2019,
+  "body_type": "hatchback 5-door",
+  "market": "parallel_import",
+  "production": "Renault-Nissan Alliance / Smart, Novo Mesto, Slovenia",
+  "facelift": null,
+  "platform": "Renault Twingo III (Renault-Daimler)",
+  "engines": [
+    { "code": "H5F", "volume": "0.9L", "type": "TCe 90 turbo", "fuel": "petrol", "power_hp": 90 },
+    { "code": "H4B", "volume": "1.0L", "type": "SCe 71 NA", "fuel": "petrol", "power_hp": 71 }
+  ],
+  "transmissions": ["5MT", "6DCT (EDC)"],
+  "drivetrains": ["RWD"],
+  "popularity_ru": "low",
+  "notes": "Второе поколение Smart ForFour на платформе Renault Twingo III. Совместный проект Renault-Daimler. Задний привод. Производство Словения. Редкость в РФ, параллельный импорт."
+}

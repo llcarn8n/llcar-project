@@ -1,0 +1,19 @@
+{
+  "generation_id": "hyundai_staria_us4_2021",
+  "generation_name": "Hyundai Staria I (US4)",
+  "year_start": 2021,
+  "year_end": null,
+  "body_type": "minivan",
+  "market": "import",
+  "production": "Hyundai Ulsan",
+  "facelift": null,
+  "platform": "Hyundai MPV (US4)",
+  "engines": [
+    { "code": "G6CT", "volume": "3.5L", "type": "V6 GDI Smartstream", "fuel": "petrol", "power_hp": 272 },
+    { "code": "D2.2 CRDi", "volume": "2.2L", "type": "R4 Turbo Diesel", "fuel": "diesel", "power_hp": 177 }
+  ],
+  "transmissions": ["8AT Hyundai"],
+  "drivetrains": ["FWD", "AWD"],
+  "popularity_ru": "low",
+  "notes": "Преемник Starex/H-1. Широкоформатный минивэн до 11 мест. Дизельная версия D2.2 популярна в Азии. В РФ единичный параллельный импорт. Подвеска: МакФерсон спереди, многорычажная сзади."
+}

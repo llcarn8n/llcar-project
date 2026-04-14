@@ -1,0 +1,20 @@
+{
+  "generation_id": "genesis_gv80_jx_2020",
+  "generation_name": "Genesis GV80 I (JX)",
+  "year_start": 2020,
+  "year_end": null,
+  "body_type": "crossover",
+  "market": "import",
+  "production": "Hyundai Ulsan",
+  "facelift": 2024,
+  "platform": "Genesis RWD Platform",
+  "engines": [
+    { "code": "G4FR", "volume": "2.5L", "type": "R4 Twin Scroll Turbo GDI", "fuel": "petrol", "power_hp": 300 },
+    { "code": "G6DT", "volume": "3.5L", "type": "V6 Twin Turbo GDI", "fuel": "petrol", "power_hp": 380 },
+    { "code": "D4HB", "volume": "3.0L", "type": "R6 Twin Turbo Diesel", "fuel": "diesel", "power_hp": 278 }
+  ],
+  "transmissions": ["8AT Hyundai/Genesis"],
+  "drivetrains": ["RWD", "AWD"],
+  "popularity_ru": "low",
+  "notes": "Флагманский кроссовер Genesis. G6DT V6 3.5T — топовый бензиновый вариант. Пневмоподвеска с Electronic Controlled Suspension (ECS) опция. В РФ параллельный импорт. Первый Genesis с 3-местным вторым рядом."
+}

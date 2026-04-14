@@ -1,0 +1,21 @@
+{
+  "generation_id": "tesla_m3_2017",
+  "generation_name": "Model 3 (2017-н.в.)",
+  "year_start": 2017,
+  "year_end": null,
+  "body_type": "sedan",
+  "market": "import",
+  "production": "Tesla Fremont / Gigafactory Shanghai",
+  "facelift": 2021,
+  "platform": "Tesla Model 3/Y platform",
+  "engines": [
+    { "code": "3D5", "type": "PMSM rear", "fuel": "electric", "power_kw": 239 },
+    { "code": "PMSRM", "type": "AC induction front (Performance/AWD)", "fuel": "electric", "power_kw": 190 }
+  ],
+  "transmissions": ["single-speed fixed-ratio"],
+  "drivetrains": ["RWD", "AWD"],
+  "battery_kwh": [60, 75, 82],
+  "battery_cells": ["Panasonic 2170", "LG 2170", "CATL 2170"],
+  "popularity_ru": "high",
+  "notes": "Наиболее массовая Tesla в России. Ввозится как новой, так и б/у. Частые проблемы MCU ghost touch, деградация ВВА, 12В АКБ."
+}

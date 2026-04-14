@@ -1,0 +1,18 @@
+{
+  "generation_id": "toyota_sienta_xp170_2022",
+  "generation_name": "Toyota Sienta III (XP170)",
+  "year_start": 2022,
+  "year_end": null,
+  "body_type": "minivan",
+  "market": "import",
+  "production": "Toyota Kanegasaki",
+  "facelift": null,
+  "platform": "TNGA-B",
+  "engines": [
+    { "code": "M15A-FXE", "volume": "1.5L", "type": "R4 Hybrid (5th gen THS II)", "fuel": "petrol/hybrid", "power_hp": 116 }
+  ],
+  "transmissions": ["e-CVT (5th gen THS II)"],
+  "drivetrains": ["FWD", "E-Four AWD"],
+  "popularity_ru": "low",
+  "notes": "Третье поколение компактного минивэна на TNGA-B. Только гибридная версия M15A-FXE. Продаётся в Японии и Юго-Восточной Азии. В РФ — единичный параллельный импорт."
+}

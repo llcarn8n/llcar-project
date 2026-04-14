@@ -1,0 +1,23 @@
+{
+  "generation_id": "mercedes_eqs_v297_2021",
+  "generation_name": "Mercedes EQS I (V297)",
+  "year_start": 2021,
+  "year_end": null,
+  "body_type": "sedan",
+  "market": "import",
+  "production": "Mercedes Sindelfingen (Factory 56)",
+  "facelift": null,
+  "platform": "Mercedes EVA2 (Electric Vehicle Architecture 2)",
+  "engines": [
+    { "code": "EQS 350", "volume": "EV", "type": "Задний электромотор (RWD)", "fuel": "electric", "power_hp": 292 },
+    { "code": "EQS 450+", "volume": "EV", "type": "Задний электромотор (RWD)", "fuel": "electric", "power_hp": 333 },
+    { "code": "EQS 450 4MATIC", "volume": "EV", "type": "Два электромотора (AWD)", "fuel": "electric", "power_hp": 360 },
+    { "code": "EQS 580 4MATIC", "volume": "EV", "type": "Два электромотора (AWD)", "fuel": "electric", "power_hp": 523 },
+    { "code": "AMG EQS 53", "volume": "EV", "type": "Два электромотора AMG (AWD)", "fuel": "electric", "power_hp": 761 }
+  ],
+  "transmissions": ["Single-speed reduction gear"],
+  "drivetrains": ["RWD", "4MATIC AWD"],
+  "battery": { "capacity_kwh": 107.8, "usable_kwh": 100, "type": "Li-ion NMC (Farasis/ACC)", "voltage_v": 400 },
+  "popularity_ru": "low",
+  "notes": "Флагманский EV Mercedes. Нативная EV-платформа EVA2. Cd=0.20. WLTP до 770 км (EQS 450+). DC до 200 кВт. MBUX Hyperscreen (141 см дисплей опция). Задние управляемые колёса 10° опция. В РФ — параллельный импорт."
+}

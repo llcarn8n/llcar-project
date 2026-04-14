@@ -1,0 +1,20 @@
+{
+  "generation_id": "bmw_z4_g29_2018",
+  "generation_name": "BMW Z4 III (G29)",
+  "year_start": 2018,
+  "year_end": null,
+  "body_type": "roadster",
+  "market": "import",
+  "production": "BMW Regensburg / Magna Steyr",
+  "facelift": null,
+  "platform": "BMW CLAR (совм. Toyota GR Supra J29)",
+  "engines": [
+    { "code": "B46B20M1", "volume": "2.0L", "type": "R4 TwinPower Turbo (sDrive20i)", "fuel": "petrol", "power_hp": 197 },
+    { "code": "B48B20M1", "volume": "2.0L", "type": "R4 TwinPower Turbo (sDrive30i)", "fuel": "petrol", "power_hp": 258 },
+    { "code": "B58B30M1", "volume": "3.0L", "type": "R6 TwinPower Turbo (M40i)", "fuel": "petrol", "power_hp": 340 }
+  ],
+  "transmissions": ["8AT ZF 8HP (все версии)"],
+  "drivetrains": ["RWD"],
+  "popularity_ru": "low",
+  "notes": "Третье поколение родстера BMW, совместная разработка с Toyota (GR Supra). Только кабриолет с мягкой складной крышей. M40i — наиболее спортивная версия с адаптивной подвеской M Sport. В РФ — параллельный импорт."
+}

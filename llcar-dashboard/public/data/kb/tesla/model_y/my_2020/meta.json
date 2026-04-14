@@ -1,0 +1,21 @@
+{
+  "generation_id": "tesla_my_2020",
+  "generation_name": "Model Y (2020-н.в.)",
+  "year_start": 2020,
+  "year_end": null,
+  "body_type": "crossover",
+  "market": "import",
+  "production": "Tesla Fremont / Gigafactory Shanghai / Gigafactory Berlin",
+  "facelift": 2024,
+  "platform": "Tesla Model 3/Y platform",
+  "engines": [
+    { "code": "3D5", "type": "PMSM rear", "fuel": "electric", "power_kw": 220 },
+    { "code": "PMSRM", "type": "AC induction front (AWD/Performance)", "fuel": "electric", "power_kw": 190 }
+  ],
+  "transmissions": ["single-speed fixed-ratio"],
+  "drivetrains": ["RWD", "AWD"],
+  "battery_kwh": [60, 75, 82],
+  "battery_cells": ["Panasonic 2170", "LG 2170", "CATL 2170"],
+  "popularity_ru": "high",
+  "notes": "Самый продаваемый электрокроссовер в мире. Отличается от Model 3 тепловым насосом Superbottle (с 2021), клапаном octovalve, HEPA-фильтром."
+}

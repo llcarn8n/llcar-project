@@ -1,0 +1,23 @@
+{
+  "generation_id": "bmw_i7_g70_2022",
+  "generation_name": "BMW i7 / 7 Series VII (G70)",
+  "year_start": 2022,
+  "year_end": null,
+  "body_type": "sedan",
+  "market": "import",
+  "production": "BMW Dingolfing",
+  "facelift": null,
+  "platform": "BMW CLAR EV / ICE",
+  "engines": [
+    { "code": "xDrive60", "volume": "EV", "type": "Два электромотора (AWD)", "fuel": "electric", "power_hp": 544 },
+    { "code": "M70", "volume": "EV", "type": "Два электромотора M (AWD)", "fuel": "electric", "power_hp": 659 },
+    { "code": "B48", "volume": "2.0L", "type": "R4 Turbo (740i)", "fuel": "petrol", "power_hp": 381 },
+    { "code": "B58", "volume": "3.0L", "type": "R6 Turbo (750i)", "fuel": "petrol", "power_hp": 489 },
+    { "code": "N74B66", "volume": "6.6L", "type": "V12 Turbo (M760e)", "fuel": "petrol", "power_hp": 544 }
+  ],
+  "transmissions": ["8AT ZF 8HP (ICE)", "Single-speed (EV)"],
+  "drivetrains": ["RWD", "xDrive AWD"],
+  "battery": { "capacity_kwh": 101.7, "type": "Li-ion NMC (i7 EV)", "voltage_v": 400 },
+  "popularity_ru": "low",
+  "notes": "Седьмое поколение флагмана BMW. i7 xDrive60 WLTP до 625 км. Театральная кнопка BMW Theatre Screen (31\" дисплей задних пассажиров опция). В РФ — параллельный импорт. DC зарядка до 195 кВт."
+}

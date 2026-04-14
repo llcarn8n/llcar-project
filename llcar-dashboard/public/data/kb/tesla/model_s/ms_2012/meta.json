@@ -1,0 +1,21 @@
+{
+  "generation_id": "tesla_ms_2012",
+  "generation_name": "Model S (2012-2021 pre-refresh)",
+  "year_start": 2012,
+  "year_end": 2021,
+  "body_type": "liftback",
+  "market": "import",
+  "production": "Tesla Fremont, California",
+  "facelift": 2016,
+  "platform": "Tesla Model S platform",
+  "engines": [
+    { "code": "DU-large-rear", "type": "AC induction rear", "fuel": "electric", "power_kw": 285 },
+    { "code": "DU-small-front", "type": "AC induction front (AWD)", "fuel": "electric", "power_kw": 193 }
+  ],
+  "transmissions": ["single-speed fixed-ratio"],
+  "drivetrains": ["RWD", "AWD"],
+  "battery_kwh": [60, 75, 85, 90, 100],
+  "battery_cells": ["Panasonic 18650"],
+  "popularity_ru": "medium",
+  "notes": "Первая массовая Tesla, б/у активно ввозится в РФ. Проблемы MCU1 eMMC flash, шум Drive Unit (grinding), отказы дверных ручек, пневмоподвеска."
+}

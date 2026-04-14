@@ -1,0 +1,21 @@
+{
+  "generation_id": "bmw_8_series_g14_2018",
+  "generation_name": "BMW 8 Series II (G14/G15/G16)",
+  "year_start": 2018,
+  "year_end": null,
+  "body_type": "coupe/cabriolet/gran_coupe",
+  "market": "import",
+  "production": "BMW Dingolfing",
+  "facelift": 2022,
+  "platform": "BMW CLAR",
+  "engines": [
+    { "code": "B58B30M1", "volume": "3.0L", "type": "R6 TwinPower Turbo (840i)", "fuel": "petrol", "power_hp": 340 },
+    { "code": "N63B44T3", "volume": "4.4L", "type": "V8 TwinPower Turbo (850i/M850i)", "fuel": "petrol", "power_hp": 530 },
+    { "code": "S63B44T4", "volume": "4.4L", "type": "V8 TwinPower Turbo (M8 Competition)", "fuel": "petrol", "power_hp": 625 },
+    { "code": "B57D30S1", "volume": "3.0L", "type": "R6 TwinPower Diesel (840d)", "fuel": "diesel", "power_hp": 320 }
+  ],
+  "transmissions": ["8AT ZF 8HP75"],
+  "drivetrains": ["RWD", "xDrive AWD"],
+  "popularity_ru": "low",
+  "notes": "Возрождение модели 8-й серии после 20-летнего перерыва. G14 — кабриолет, G15 — купе, G16 — Gran Coupe. M8 Competition — топ производительности N63/S63. В РФ — параллельный импорт. Интегрированная рама карбон/алюминий."
+}

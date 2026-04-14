@@ -1,0 +1,20 @@
+{
+  "generation_id": "zeekr_001_001_2021",
+  "generation_name": "ZEEKR 001 (SE/WE/YOU)",
+  "year_start": 2021,
+  "year_end": 2025,
+  "body_type": "shooting brake",
+  "market": "parallel_import",
+  "production": "Geely Auto, Ningbo, China",
+  "facelift": 2023,
+  "platform": "SEA (Sustainable Experience Architecture)",
+  "engines": [
+    { "code": "EM90/EM100", "volume": "EV", "type": "rear single / dual motor", "fuel": "electric", "power_hp": 544 },
+    { "code": "EM90", "volume": "EV", "type": "rear single motor", "fuel": "electric", "power_hp": 272 }
+  ],
+  "battery": ["100 kWh LFP", "86 kWh NMC"],
+  "transmissions": ["single-speed fixed ratio"],
+  "drivetrains": ["RWD", "AWD"],
+  "popularity_ru": "low",
+  "notes": "Первый серийный ZEEKR. Платформа SEA Geely. Батарея 86 или 100 кВт·ч. В РФ продаётся параллельным импортом. Быстрая зарядка 200 кВт DC."
+}

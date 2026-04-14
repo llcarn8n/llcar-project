@@ -1,0 +1,19 @@
+{
+  "generation_id": "smart_fortwo_c453_2014",
+  "generation_name": "Smart ForTwo C453 (III поколение)",
+  "year_start": 2014,
+  "year_end": 2019,
+  "body_type": "microcar 2-door",
+  "market": "parallel_import",
+  "production": "Smart, Hambach, France",
+  "facelift": null,
+  "platform": "Renault-Daimler shared platform",
+  "engines": [
+    { "code": "H5F", "volume": "0.9L", "type": "TCe 90 turbo", "fuel": "petrol", "power_hp": 90 },
+    { "code": "H4B", "volume": "1.0L", "type": "SCe 71 NA", "fuel": "petrol", "power_hp": 71 }
+  ],
+  "transmissions": ["5MT", "6DCT (Twinamic)"],
+  "drivetrains": ["RWD"],
+  "popularity_ru": "low",
+  "notes": "Третье поколение Smart ForTwo C453. Первый Smart с механической КПП. DCT Twinamic — 6-ступенчатый роботизированный. Двигатели Renault H5F/H4B. Завод Хамбах, Франция."
+}

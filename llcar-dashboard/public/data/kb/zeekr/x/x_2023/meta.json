@@ -1,0 +1,20 @@
+{
+  "generation_id": "zeekr_x_x_2023",
+  "generation_name": "ZEEKR X I поколение",
+  "year_start": 2023,
+  "year_end": null,
+  "body_type": "compact SUV",
+  "market": "parallel_import",
+  "production": "Geely Auto, Ningbo, China",
+  "facelift": null,
+  "platform": "SEA-M (Sustainable Experience Architecture Modular)",
+  "engines": [
+    { "code": "EM56", "volume": "EV", "type": "front single motor", "fuel": "electric", "power_hp": 200 },
+    { "code": "EM56/EM20", "volume": "EV", "type": "dual motor AWD", "fuel": "electric", "power_hp": 428 }
+  ],
+  "battery": ["66 kWh NMC"],
+  "transmissions": ["single-speed fixed ratio"],
+  "drivetrains": ["FWD", "AWD"],
+  "popularity_ru": "low",
+  "notes": "Компактный SUV ZEEKR X на модульной платформе SEA-M. Общий с Volvo EX30 кузов. Зарядка 11 кВт AC / 130 кВт DC. Параллельный импорт."
+}

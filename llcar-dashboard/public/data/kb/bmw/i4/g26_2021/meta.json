@@ -1,0 +1,21 @@
+{
+  "generation_id": "bmw_i4_g26_2021",
+  "generation_name": "BMW i4 I (G26)",
+  "year_start": 2021,
+  "year_end": null,
+  "body_type": "gran_coupe",
+  "market": "import",
+  "production": "BMW Munich",
+  "facelift": null,
+  "platform": "BMW CLAR (5th gen eDrive)",
+  "engines": [
+    { "code": "eDrive40", "volume": "EV", "type": "Задний электромотор (RWD)", "fuel": "electric", "power_hp": 340 },
+    { "code": "xDrive40", "volume": "EV", "type": "Два электромотора (AWD)", "fuel": "electric", "power_hp": 380 },
+    { "code": "M50", "volume": "EV", "type": "Два электромотора M Performance (AWD)", "fuel": "electric", "power_hp": 544 }
+  ],
+  "transmissions": ["Single-speed reduction gear"],
+  "drivetrains": ["RWD", "AWD"],
+  "battery": { "capacity_kwh": 83.9, "type": "Li-ion NMC", "voltage_v": 400 },
+  "popularity_ru": "low",
+  "notes": "Первый EV-седан BMW на базе платформы CLAR. Внешне как Gran Coupe 4-й серии. eDrive40 WLTP до 590 км. DC зарядка до 210 кВт. В РФ — параллельный импорт. Производится на одном заводе с BMW 3/4 Series."
+}

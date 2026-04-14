@@ -1,0 +1,21 @@
+{
+  "generation_id": "byd_dolphin_2021",
+  "generation_name": "BYD Dolphin (2021-н.в.)",
+  "year_start": 2021,
+  "year_end": null,
+  "body_type": "hatchback",
+  "market": "import",
+  "production": "BYD Auto, Чанша",
+  "facelift": null,
+  "platform": "BYD e-Platform 3.0 compact",
+  "engines": [
+    { "code": "TZ130XSM", "type": "PMSM front", "fuel": "electric", "power_kw": 70 },
+    { "code": "TZ70XSM-B", "type": "PMSM front (Seagull)", "fuel": "electric", "power_kw": 55 }
+  ],
+  "transmissions": ["single-speed fixed-ratio"],
+  "drivetrains": ["FWD"],
+  "battery_kwh": [30.72, 44.9],
+  "battery_cells": ["BYD Blade LFP"],
+  "popularity_ru": "low",
+  "notes": "Компактный городской электрохэтчбек. Известен отказами 12В LFP АКБ, блокировкой дверей при зарядке, шумом ветра задней правой стойки."
+}

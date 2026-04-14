@@ -1,0 +1,21 @@
+{
+  "generation_id": "tesla_mx_2015",
+  "generation_name": "Model X (2015-2021 pre-refresh)",
+  "year_start": 2015,
+  "year_end": 2021,
+  "body_type": "SUV",
+  "market": "import",
+  "production": "Tesla Fremont, California",
+  "facelift": 2016,
+  "platform": "Tesla Model S/X platform",
+  "engines": [
+    { "code": "DU-large-rear", "type": "AC induction rear", "fuel": "electric", "power_kw": 285 },
+    { "code": "DU-small-front", "type": "AC induction front", "fuel": "electric", "power_kw": 193 }
+  ],
+  "transmissions": ["single-speed fixed-ratio"],
+  "drivetrains": ["AWD"],
+  "battery_kwh": [75, 90, 100],
+  "battery_cells": ["Panasonic 18650"],
+  "popularity_ru": "low",
+  "notes": "Редкая Tesla в РФ. Характерны проблемы с дверями Falcon Wing (датчики препятствий, перекос), HVAC, шаровыми опорами передних рычагов, пневмоподвеской."
+}

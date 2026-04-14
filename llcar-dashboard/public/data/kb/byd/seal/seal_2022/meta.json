@@ -1,0 +1,21 @@
+{
+  "generation_id": "byd_seal_2022",
+  "generation_name": "BYD Seal (2022-н.в.)",
+  "year_start": 2022,
+  "year_end": null,
+  "body_type": "sedan",
+  "market": "import",
+  "production": "BYD Auto, Шэньчжэнь",
+  "facelift": null,
+  "platform": "BYD e-Platform 3.0 CTB",
+  "engines": [
+    { "code": "TZ200XSL", "type": "PMSM rear", "fuel": "electric", "power_kw": 200 },
+    { "code": "TZ150XSM", "type": "PMSM front (AWD)", "fuel": "electric", "power_kw": 150 }
+  ],
+  "transmissions": ["single-speed fixed-ratio"],
+  "drivetrains": ["RWD", "AWD"],
+  "battery_kwh": [61.44, 82.56],
+  "battery_cells": ["BYD Blade LFP"],
+  "popularity_ru": "medium",
+  "notes": "Спортивный седан на CTB-платформе (Cell-to-Body). Конструктивные проблемы: утечка охлаждающей жидкости CTB, шум переднего мотора TZ200XSL, калибровка LiDAR."
+}

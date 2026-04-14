@@ -1,0 +1,20 @@
+{
+  "generation_id": "avatr_12_12_2023",
+  "generation_name": "Avatr 12 I поколение",
+  "year_start": 2023,
+  "year_end": null,
+  "body_type": "sedan",
+  "market": "parallel_import",
+  "production": "Changan Auto, Chongqing, China",
+  "facelift": null,
+  "platform": "CHN (Changan Huawei CATL)",
+  "engines": [
+    { "code": "EM200", "volume": "EV", "type": "rear single motor", "fuel": "electric", "power_hp": 310 },
+    { "code": "EM200/EM200F", "volume": "EV", "type": "dual motor AWD", "fuel": "electric", "power_hp": 578 }
+  ],
+  "battery": ["90 kWh CATL LFP", "116 kWh CATL NMC"],
+  "transmissions": ["single-speed fixed ratio"],
+  "drivetrains": ["RWD", "AWD"],
+  "popularity_ru": "low",
+  "notes": "Седан Avatr 12 на платформе CHN (Changan+Huawei+CATL). Huawei ADS 2.0 автопилот, HarmonyOS 4. Аэродинамика Cd=0,21. Параллельный импорт в РФ."
+}

@@ -1,0 +1,18 @@
+{
+  "generation_id": "kia_telluride_on_2019",
+  "generation_name": "Kia Telluride I (ON)",
+  "year_start": 2019,
+  "year_end": null,
+  "body_type": "crossover",
+  "market": "import",
+  "production": "Kia West Point Georgia",
+  "facelift": 2023,
+  "platform": "Hyundai-Kia N Platform (BOF-like monocoque)",
+  "engines": [
+    { "code": "G6DN", "volume": "3.8L", "type": "V6 GDI Lambda II", "fuel": "petrol", "power_hp": 295 }
+  ],
+  "transmissions": ["8AT Hyundai/Kia (A8LF3)"],
+  "drivetrains": ["FWD", "AWD"],
+  "popularity_ru": "low",
+  "notes": "Трёхрядный полноразмерный кроссовер Kia для американского рынка. Единственный двигатель G6DN V6 3.8 GDI. AWD с муфтой HTRAC. В РФ — единичный параллельный импорт. Производство только на заводе в Джорджии. IIHS Top Safety Pick+ 2022."
+}

@@ -1,0 +1,21 @@
+{
+  "generation_id": "byd_han_2020",
+  "generation_name": "BYD Han EV/DM-i (2020-н.в.)",
+  "year_start": 2020,
+  "year_end": null,
+  "body_type": "sedan",
+  "market": "import",
+  "production": "BYD Auto, Шэньчжэнь",
+  "facelift": 2023,
+  "platform": "e-Platform 3.0 (EV) / DM-i (гибрид)",
+  "engines": [
+    { "code": "TZ180XSM133", "type": "PMSM rear", "fuel": "electric", "power_kw": 180 },
+    { "code": "TZ180XSM133-F", "type": "PMSM front (AWD)", "fuel": "electric", "power_kw": 160 }
+  ],
+  "transmissions": ["single-speed fixed-ratio"],
+  "drivetrains": ["RWD", "AWD"],
+  "battery_kwh": [65.7, 76.9],
+  "battery_cells": ["BYD Blade LFP"],
+  "popularity_ru": "medium",
+  "notes": "Флагманский седан BYD на Blade Battery LFP. Активно ввозится в РФ. Проблемы с охлаждающим насосом ВВА, сбои BMS, вибрация привода, зависание DiLink."
+}
