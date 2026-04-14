@@ -12,11 +12,20 @@ interface DtcSituationRef {
   cat: string
 }
 
+interface DtcTitleEntry {
+  title_ru: string
+  severity: string
+  system_id: string
+  can_drive: string
+}
+
 interface DtcIndex {
   generated_at: string
   total_codes: number
   total_mappings: number
   index: Record<string, DtcSituationRef[]>
+  titles?: Record<string, DtcTitleEntry>
+  titles_total?: number
 }
 
 interface DtcSearchProps {
@@ -212,6 +221,7 @@ export function DtcSearch({ onSelectSituation, initialCode }: DtcSearchProps) {
               >
                 {suggestions.map(code => {
                   const count = idx.index[code].length
+                  const title = idx.titles?.[code]?.title_ru
                   return (
                     <div
                       key={code}
@@ -222,14 +232,9 @@ export function DtcSearch({ onSelectSituation, initialCode }: DtcSearchProps) {
                       style={{
                         padding: '8px 12px',
                         display: 'flex',
-                        justifyContent: 'space-between',
-                        alignItems: 'center',
+                        flexDirection: 'column',
+                        gap: 2,
                         cursor: 'pointer',
-                        fontFamily: "'Orbitron', sans-serif",
-                        fontSize: 12,
-                        fontWeight: 700,
-                        color: theme.accent.cyan,
-                        letterSpacing: '0.08em',
                         borderBottom: '1px solid rgba(0,229,255,0.06)',
                       }}
                       onMouseEnter={e => {
@@ -239,16 +244,33 @@ export function DtcSearch({ onSelectSituation, initialCode }: DtcSearchProps) {
                         e.currentTarget.style.background = 'transparent'
                       }}
                     >
-                      <span>{code}</span>
-                      <span
-                        style={{
-                          fontSize: 10,
-                          color: theme.text.muted,
-                          fontWeight: 400,
-                        }}
-                      >
-                        {count} {count === 1 ? 'ситуация' : count < 5 ? 'ситуации' : 'ситуаций'}
-                      </span>
+                      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+                        <span style={{
+                          fontFamily: "'Orbitron', sans-serif",
+                          fontSize: 12,
+                          fontWeight: 700,
+                          color: theme.accent.cyan,
+                          letterSpacing: '0.08em',
+                        }}>
+                          {code}
+                        </span>
+                        <span style={{ fontSize: 10, color: theme.text.muted, fontWeight: 400 }}>
+                          {count} {count === 1 ? 'ситуация' : count < 5 ? 'ситуации' : 'ситуаций'}
+                        </span>
+                      </div>
+                      {title && (
+                        <div style={{
+                          fontFamily: "'Rajdhani', sans-serif",
+                          fontSize: 11,
+                          color: theme.text.secondary,
+                          lineHeight: 1.3,
+                          overflow: 'hidden',
+                          textOverflow: 'ellipsis',
+                          whiteSpace: 'nowrap',
+                        }}>
+                          {title}
+                        </div>
+                      )}
                     </div>
                   )
                 })}
