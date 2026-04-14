@@ -16,7 +16,8 @@
     ],
     "price_range": "30000 - 150000 руб.",
     "mileage_range": "80000 - 150000 км",
-    "content_type": "diagnostic"
+    "content_type": "full_article",
+    "full_article_path": "_articles/subaru_forester_sk_001.md"
   },
   {
     "id": "subaru_forester_sk_002",

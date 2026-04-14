@@ -17,7 +17,8 @@
     ],
     "price_range": "40000 - 85000 руб",
     "mileage_range": "60000 - 150000 км",
-    "content_type": "diagnostic"
+    "content_type": "full_article",
+    "full_article_path": "_articles/hyundai_tucson_nx4_engine_chain_stretch.md"
   },
   {
     "id": "hyundai_tucson_nx4_trans_8at_kickdown",

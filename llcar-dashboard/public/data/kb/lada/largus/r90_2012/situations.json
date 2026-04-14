@@ -16,7 +16,8 @@
     ],
     "price_range": "3000-15000 руб.",
     "mileage_range": "60000-120000 км",
-    "content_type": "diagnostic"
+    "content_type": "full_article",
+    "full_article_path": "_articles/lada_largus_r90_001.md"
   },
   {
     "id": "lada_largus_r90_002",
