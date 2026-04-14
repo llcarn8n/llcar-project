@@ -1,6 +1,25 @@
-# SESSION HANDOFF — Session 14 COMPLETE
+# SESSION HANDOFF — Session 14 EXTENDED COMPLETE
 
-## Статус: KB 51 бренд / 291 поколение / 2882 ситуации. GLM 5.1 MCP активен.
+## Статус: KB 51 бренд / 297 поколений / 2940 ситуаций / 1716 DTC кодов. GLM 5.1 MCP активен.
+
+### Расширение Session 14 (после первого завершения):
+
+**Коммит `5c79d15`** — применены фиксы verifier-агентов (6 CRITICAL + 2 WARNING):
+- Mercedes EQC 360V → 400V; ZEEKR 001 R-134a → R-1234yf
+- Hyundai Staria engine G6CT → G6DK; Genesis GV80 удалён P0420 с дизеля D4HB
+- BMW 8-Series + Z4 ZF LifeguardFluid 9 → 8 (корректная ATF для 8HP75)
+- Toyota bZ4X несуществующий P0578 → P0577
+- Toyota Sienta убран R-134a (только R-1234yf для XP170 2022+)
+
+**Коммит `266117e`** — добавлены 6 новых поколений через GLM 5.1 (58 ситуаций):
+- Toyota Alphard AH40 (2023+, hybrid + V6 + 8AT/e-CVT)
+- BMW X3 G45 (2024+, B48/B58, mild-hybrid 48V, xDrive)
+- Audi A8 D5 (2017+, 3.0/4.0 TFSI/TDI/W12, ZF 8HP90)
+- Genesis G90 RS4 (2022+, G4FR 2.5T/G6DT 3.5T, HTRAC)
+- Mercedes SL R232 (2021+, AMG M177/M139, 9G-TRONIC MCT)
+- Mercedes AMG GT C192 (2023+, E PERFORMANCE PHEV)
+
+**Коммит `7d3ebcd`** — DTC index rebuild: 1716 codes / 6167 mappings.
 
 ---
 
