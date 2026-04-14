@@ -1,11 +1,22 @@
 import { useState, useEffect, useMemo } from 'react'
 import { SituationsList } from '../components/kb/SituationsList'
+import { DtcSearch } from '../components/kb/DtcSearch'
 import { ManualViewer } from '../components/kb/ManualViewer'
 import { GlassPanel } from '../components/shared/GlassPanel'
 import { useDashboardStore } from '../stores/dashboardStore'
 import { theme } from '../theme'
 import { ICONS } from '../utils/icons'
 import { deriveKBGenPath } from '../utils/kbPath'
+
+interface DtcSituationRef {
+  sit_id: string
+  title: string
+  brand: string
+  model: string
+  generation: string
+  urg: number
+  cat: string
+}
 
 interface KbVideo {
   title: string
@@ -21,10 +32,12 @@ interface KbReview {
 }
 
 export function KnowledgeBase() {
-  const { vehicleProfile } = useDashboardStore()
+  const { vehicleProfile, setVehicleProfile } = useDashboardStore()
   const [genName, setGenName] = useState<string | null>(null)
   const [videos, setVideos] = useState<KbVideo[]>([])
   const [reviews, setReviews] = useState<KbReview[]>([])
+  const [leftTab, setLeftTab] = useState<'situations' | 'dtc'>('situations')
+  const [pendingExpandId, setPendingExpandId] = useState<string | null>(null)
 
   // Derive generation name from brands data
   useEffect(() => {
@@ -84,6 +97,47 @@ export function KnowledgeBase() {
       .catch(() => setReviews([]))
   }, [kbGenPath])
 
+  async function handleDtcSelect(ref: DtcSituationRef) {
+    const brandId = ref.brand.toLowerCase().replace(/[\s-]+/g, '_')
+    try {
+      const r = await fetch(`${import.meta.env.BASE_URL}data/brands/${brandId}.json`)
+      if (r.ok) {
+        const data = await r.json()
+        const model = data.models?.find((m: any) =>
+          m.name.toLowerCase() === ref.model.toLowerCase() ||
+          m.name.toLowerCase().includes(ref.model.toLowerCase()) ||
+          ref.model.toLowerCase().includes(m.name.toLowerCase())
+        )
+        const gen = model?.generations?.find((g: any) =>
+          g.name === ref.generation ||
+          g.name.toLowerCase().includes(ref.generation.toLowerCase()) ||
+          ref.generation.toLowerCase().includes(g.name.toLowerCase())
+        )
+        if (model && gen) {
+          setVehicleProfile({
+            brand: data.name ?? ref.brand,
+            brandId: data.id ?? brandId,
+            model: model.name,
+            generationId: gen.id,
+            year: gen.ys ?? 0,
+            engine: '',
+          })
+        }
+      }
+    } catch {
+      // edge case: brand/model lookup failed — still highlight in current list
+    }
+    setPendingExpandId(ref.sit_id)
+    setLeftTab('situations')
+  }
+
+  // Reset pending expand after the switch animation so repeated clicks work
+  useEffect(() => {
+    if (leftTab !== 'dtc') return
+    const t = setTimeout(() => setPendingExpandId(null), 500)
+    return () => clearTimeout(t)
+  }, [leftTab])
+
   /** Detect video source from URL */
   function videoSourceBadge(url: string): { label: string; color: string } {
     if (url.includes('rutube.ru')) return { label: 'RuTube', color: '#00C8AA' }
@@ -119,9 +173,48 @@ export function KnowledgeBase() {
         </GlassPanel>
       </div>
 
-      {/* Situations */}
-      <div className="col-span-12 lg:col-span-8">
-        <SituationsList brandId={vehicleProfile?.brandId} kbGenPath={kbGenPath} />
+      {/* Situations / DTC search tabs */}
+      <div className="col-span-12 lg:col-span-8" style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
+        <div style={{ display: 'flex', gap: 6 }}>
+          {([
+            { id: 'situations', label: 'Ситуации' },
+            { id: 'dtc', label: 'Поиск по DTC' },
+          ] as const).map(tab => {
+            const active = leftTab === tab.id
+            return (
+              <button
+                key={tab.id}
+                onClick={() => setLeftTab(tab.id)}
+                style={{
+                  padding: '8px 18px',
+                  fontFamily: "'Orbitron', sans-serif",
+                  fontSize: 11,
+                  fontWeight: 700,
+                  letterSpacing: '0.12em',
+                  textTransform: 'uppercase',
+                  color: active ? '#0C1220' : theme.accent.cyan,
+                  background: active ? theme.accent.cyan : 'rgba(0,229,255,0.04)',
+                  border: `1px solid ${active ? 'transparent' : 'rgba(0,229,255,0.18)'}`,
+                  borderRadius: 4,
+                  cursor: 'pointer',
+                  transition: 'all 0.2s',
+                  boxShadow: active ? `0 0 10px ${theme.accent.cyan}60` : 'none',
+                }}
+              >
+                {tab.label}
+              </button>
+            )
+          })}
+        </div>
+        {leftTab === 'situations' ? (
+          <SituationsList
+            brandId={vehicleProfile?.brandId}
+            kbGenPath={kbGenPath}
+            initialExpandedId={pendingExpandId}
+          />
+        ) : (
+          <DtcSearch onSelectSituation={handleDtcSelect} />
+        )}
       </div>
 
       {/* Right sidebar: manuals + videos + reviews + parts + stats */}

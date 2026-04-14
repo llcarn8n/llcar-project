@@ -1,4 +1,4 @@
-import { useState, useEffect, useMemo } from 'react'
+import { useState, useEffect, useMemo, useRef } from 'react'
 import { GlassPanel } from '../shared/GlassPanel'
 import { theme } from '../../theme'
 import { cachedFetch } from '../../utils/fetchCache'
@@ -64,9 +64,11 @@ interface SituationsListProps {
   brandId?: string | null
   /** KB generation path like "kia/k5/k5_i_2020" for loading generation-level situations */
   kbGenPath?: string | null
+  /** When set, expand this situation id on mount + scroll into view + pin to top */
+  initialExpandedId?: string | null
 }
 
-export function SituationsList({ brandId, kbGenPath }: SituationsListProps) {
+export function SituationsList({ brandId, kbGenPath, initialExpandedId }: SituationsListProps) {
   const [situations, setSituations] = useState<Situation[]>([])
   const [loading, setLoading] = useState(true)
   const [brandSituations, setBrandSituations] = useState<Situation[]>([])
@@ -76,6 +78,19 @@ export function SituationsList({ brandId, kbGenPath }: SituationsListProps) {
   const [showBrandOnly, setShowBrandOnly] = useState(false)
   const [showGenOnly, setShowGenOnly] = useState(false)
   const [expandedId, setExpandedId] = useState<string | null>(null)
+  const expandedRef = useRef<HTMLDivElement | null>(null)
+
+  useEffect(() => {
+    if (initialExpandedId) setExpandedId(initialExpandedId)
+  }, [initialExpandedId])
+
+  useEffect(() => {
+    if (!initialExpandedId) return
+    const t = setTimeout(() => {
+      expandedRef.current?.scrollIntoView({ behavior: 'smooth', block: 'center' })
+    }, 350)
+    return () => clearTimeout(t)
+  }, [initialExpandedId, genSituations, brandSituations, situations])
 
   useEffect(() => {
     cachedFetch<Situation[]>(`${import.meta.env.BASE_URL}data/situations-universal.json`)
@@ -165,9 +180,16 @@ export function SituationsList({ brandId, kbGenPath }: SituationsListProps) {
         if (q && !s.title.toLowerCase().includes(q) && !s.qa.toLowerCase().includes(q)) return false
         return true
       })
-      .sort((a, b) => b.urg - a.urg)
+      .sort((a, b) => {
+        // Pin requested initial-expanded situation to the top so it stays visible
+        if (initialExpandedId) {
+          if (a.id === initialExpandedId) return -1
+          if (b.id === initialExpandedId) return 1
+        }
+        return b.urg - a.urg
+      })
       .slice(0, 50)
-  }, [situations, brandSituations, genSituations, showBrandOnly, showGenOnly, search, catFilter])
+  }, [situations, brandSituations, genSituations, showBrandOnly, showGenOnly, search, catFilter, initialExpandedId])
 
   return (
     <GlassPanel>
@@ -288,6 +310,7 @@ export function SituationsList({ brandId, kbGenPath }: SituationsListProps) {
             return (
               <div
                 key={s.id}
+                ref={isExpanded && s.id === initialExpandedId ? expandedRef : undefined}
                 onClick={() => setExpandedId(isExpanded ? null : s.id)}
                 style={{
                   padding: '12px 14px',
