@@ -63,7 +63,8 @@
     ],
     "price_range": "8000-65000 руб.",
     "mileage_range": "80000-160000 км",
-    "content_type": "diagnostic"
+    "content_type": "full_article",
+    "full_article_path": "_articles/hyundai_elantra_ad_003.md"
   },
   {
     "id": "hyundai_elantra_ad_004",

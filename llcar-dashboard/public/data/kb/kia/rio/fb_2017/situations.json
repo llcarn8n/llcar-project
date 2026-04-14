@@ -47,7 +47,8 @@
     ],
     "price_range": "6000-160000 руб.",
     "mileage_range": "60000-180000 км",
-    "content_type": "diagnostic"
+    "content_type": "full_article",
+    "full_article_path": "_articles/kia_rio_fb_002.md"
   },
   {
     "id": "kia_rio_fb_003",

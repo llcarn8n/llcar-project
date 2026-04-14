@@ -15,7 +15,8 @@
     ],
     "price_range": "5000 - 45000 руб.",
     "mileage_range": "60000 - 150000 км",
-    "content_type": "diagnostic"
+    "content_type": "full_article",
+    "full_article_path": "_articles/hyundai_creta_gs_001.md"
   },
   {
     "id": "hyundai_creta_gs_002",

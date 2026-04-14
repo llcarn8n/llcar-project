@@ -41,7 +41,8 @@
     ],
     "price_range": "12000-25000 руб.",
     "mileage_range": "80000-160000 км",
-    "content_type": "diagnostic"
+    "content_type": "full_article",
+    "full_article_path": "_articles/hyundai_solaris_rb_002.md"
   },
   {
     "id": "hyundai_solaris_rb_003",
