@@ -18,7 +18,8 @@
     ],
     "price_range": "15000 - 45000 руб.",
     "mileage_range": "60000 - 120000 км",
-    "content_type": "diagnostic"
+    "content_type": "full_article",
+    "full_article_path": "_articles/bmw_5_g30_001.md"
   },
   {
     "id": "bmw_5_g30_002",

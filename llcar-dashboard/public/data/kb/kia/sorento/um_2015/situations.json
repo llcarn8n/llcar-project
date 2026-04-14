@@ -18,7 +18,8 @@
     ],
     "price_range": "15000 - 250000 руб.",
     "mileage_range": "60000 - 180000 км",
-    "content_type": "diagnostic"
+    "content_type": "full_article",
+    "full_article_path": "_articles/kia_sorento_um_001.md"
   },
   {
     "id": "kia_sorento_um_002",

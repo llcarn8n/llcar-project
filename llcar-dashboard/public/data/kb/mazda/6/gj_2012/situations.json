@@ -17,7 +17,8 @@
     ],
     "price_range": "8000 - 15000 руб.",
     "mileage_range": "40000 - 100000 км",
-    "content_type": "diagnostic"
+    "content_type": "full_article",
+    "full_article_path": "_articles/mazda_6_gj_001.md"
   },
   {
     "id": "mazda_6_gj_002",

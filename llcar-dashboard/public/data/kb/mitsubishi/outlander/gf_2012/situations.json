@@ -17,7 +17,8 @@
     ],
     "price_range": "80000 - 250000 руб.",
     "mileage_range": "100000 - 180000 км",
-    "content_type": "diagnostic"
+    "content_type": "full_article",
+    "full_article_path": "_articles/mitsu_outlander_gf_001.md"
   },
   {
     "id": "mitsu_outlander_gf_002",
