@@ -39,6 +39,30 @@
       "topic": "---"
     },
     {
+      "sit_id": "audi_q5_fy_002",
+      "file": "_articles/audi_q5_fy_002.md",
+      "brand": "audi",
+      "model": "q5",
+      "generation": "fy_2017",
+      "length_chars": 2676,
+      "sections": 0,
+      "urg": 3,
+      "cat": "chassis",
+      "topic": "---"
+    },
+    {
+      "sit_id": "audi_q7_4m_001",
+      "file": "_articles/audi_q7_4m_001.md",
+      "brand": "audi",
+      "model": "q7",
+      "generation": "4m_2015",
+      "length_chars": 2570,
+      "sections": 0,
+      "urg": 5,
+      "cat": "engine",
+      "topic": "---"
+    },
+    {
       "sit_id": "bmw_3_f30_001",
       "file": "_articles/bmw_3_f30_001.md",
       "brand": "BMW",
@@ -84,6 +108,18 @@
       "sections": 0,
       "urg": 5,
       "cat": "cooling",
+      "topic": "---"
+    },
+    {
+      "sit_id": "bmw_x3_g01_002",
+      "file": "_articles/bmw_x3_g01_002.md",
+      "brand": "bmw",
+      "model": "x3",
+      "generation": "g01_2017",
+      "length_chars": 2633,
+      "sections": 0,
+      "urg": 5,
+      "cat": "engine",
       "topic": "---"
     },
     {
@@ -243,6 +279,18 @@
       "topic": "Стук G4KN 2.5 GDI Smartstream + KSDS TSB"
     },
     {
+      "sit_id": "hyundai_santa_fe_tm_002",
+      "file": "_articles/hyundai_santa_fe_tm_002.md",
+      "brand": "hyundai",
+      "model": "santa_fe",
+      "generation": "tm_2018",
+      "length_chars": 2317,
+      "sections": 0,
+      "urg": 5,
+      "cat": "engine",
+      "topic": "---"
+    },
+    {
       "sit_id": "hyundai_solaris_hc_01",
       "file": "_articles/hyundai_solaris_hc_01.md",
       "brand": "Hyundai",
@@ -351,6 +399,18 @@
       "topic": "---"
     },
     {
+      "sit_id": "kia_sorento_mq4_001",
+      "file": "_articles/kia_sorento_mq4_001.md",
+      "brand": "",
+      "model": "",
+      "generation": "",
+      "length_chars": 2459,
+      "sections": 0,
+      "urg": 0,
+      "cat": "",
+      "topic": "---"
+    },
+    {
       "sit_id": "kia_sorento_um_001",
       "file": "_articles/kia_sorento_um_001.md",
       "brand": "kia",
@@ -435,6 +495,18 @@
       "topic": "Масложор 8AR-FTS + нагар на впускных клапанах D-4ST"
     },
     {
+      "sit_id": "lexus_rx_al30_001",
+      "file": "_articles/lexus_rx_al30_001.md",
+      "brand": "",
+      "model": "",
+      "generation": "",
+      "length_chars": 2717,
+      "sections": 0,
+      "urg": 0,
+      "cat": "",
+      "topic": "---"
+    },
+    {
       "sit_id": "mazda_6_gj_001",
       "file": "_articles/mazda_6_gj_001.md",
       "brand": "mazda",
@@ -456,6 +528,18 @@
       "sections": 0,
       "urg": 5,
       "cat": "cooling",
+      "topic": "---"
+    },
+    {
+      "sit_id": "mazda_cx5_kf_002",
+      "file": "_articles/mazda_cx5_kf_002.md",
+      "brand": "mazda",
+      "model": "cx5",
+      "generation": "kf_2017",
+      "length_chars": 2277,
+      "sections": 0,
+      "urg": 2,
+      "cat": "engine",
       "topic": "---"
     },
     {
@@ -507,6 +591,18 @@
       "topic": "---"
     },
     {
+      "sit_id": "mercedes_glc_x254_001",
+      "file": "_articles/mercedes_glc_x254_001.md",
+      "brand": "",
+      "model": "",
+      "generation": "",
+      "length_chars": 2790,
+      "sections": 0,
+      "urg": 0,
+      "cat": "",
+      "topic": "---"
+    },
+    {
       "sit_id": "mitsu_outlander_gf_001",
       "file": "_articles/mitsu_outlander_gf_001.md",
       "brand": "mitsubishi",
@@ -516,6 +612,18 @@
       "sections": 0,
       "urg": 5,
       "cat": "transmission",
+      "topic": "---"
+    },
+    {
+      "sit_id": "mitsubishi_outlander_gn_001",
+      "file": "_articles/mitsubishi_outlander_gn_001.md",
+      "brand": "",
+      "model": "",
+      "generation": "",
+      "length_chars": 2480,
+      "sections": 0,
+      "urg": 0,
+      "cat": "",
       "topic": "---"
     },
     {
@@ -541,6 +649,18 @@
       "urg": 5,
       "cat": "engine",
       "topic": "Масложор QR25DE + разрушение катализатора"
+    },
+    {
+      "sit_id": "nissan_xtrail_t33_001",
+      "file": "_articles/nissan_xtrail_t33_001.md",
+      "brand": "",
+      "model": "",
+      "generation": "",
+      "length_chars": 2761,
+      "sections": 0,
+      "urg": 0,
+      "cat": "",
+      "topic": "---"
     },
     {
       "sit_id": "porsche_cayenne_9y_001",
@@ -591,6 +711,18 @@
       "topic": "Прогорание прокладки ГБЦ K9K 1.5 dCi, эмульсия"
     },
     {
+      "sit_id": "skoda_kodiaq_ns_001",
+      "file": "_articles/skoda_kodiaq_ns_001.md",
+      "brand": "skoda",
+      "model": "kodiaq",
+      "generation": "ns_2016",
+      "length_chars": 2484,
+      "sections": 0,
+      "urg": 2,
+      "cat": "engine",
+      "topic": "---"
+    },
+    {
       "sit_id": "skoda_octavia_a8_01",
       "file": "_articles/skoda_octavia_a8_01.md",
       "brand": "Skoda",
@@ -624,6 +756,18 @@
       "sections": 0,
       "urg": 4,
       "cat": "engine",
+      "topic": "---"
+    },
+    {
+      "sit_id": "subaru_outback_bt_001",
+      "file": "_articles/subaru_outback_bt_001.md",
+      "brand": "",
+      "model": "",
+      "generation": "",
+      "length_chars": 2710,
+      "sections": 0,
+      "urg": 0,
+      "cat": "",
       "topic": "---"
     },
     {
@@ -711,6 +855,18 @@
       "topic": "Смешивание антифриза и ATF через радиатор 1GR-FE"
     },
     {
+      "sit_id": "toyota_prado_j250_001",
+      "file": "_articles/toyota_prado_j250_001.md",
+      "brand": "",
+      "model": "",
+      "generation": "",
+      "length_chars": 2614,
+      "sections": 0,
+      "urg": 0,
+      "cat": "",
+      "topic": "---"
+    },
+    {
       "sit_id": "toyota_rav4_xa40_001",
       "file": "_articles/toyota_rav4_xa40_001.md",
       "brand": "Toyota",
@@ -721,6 +877,18 @@
       "urg": 4,
       "cat": "engine",
       "topic": "Valvematic 3ZR-FAE — плавающие обороты, отзыв ЭБУ"
+    },
+    {
+      "sit_id": "toyota_rav4_xa50_001",
+      "file": "_articles/toyota_rav4_xa50_001.md",
+      "brand": "toyota",
+      "model": "rav4",
+      "generation": "xa50_2019",
+      "length_chars": 2788,
+      "sections": 0,
+      "urg": 4,
+      "cat": "transmission",
+      "topic": "---"
     },
     {
       "sit_id": "volvo_xc90_lc_001",
@@ -757,6 +925,18 @@
       "urg": 2,
       "cat": "engine",
       "topic": "Стук HLA CFNA 1.6 MPI при холодном пуске"
+    },
+    {
+      "sit_id": "vw_tiguan_ad1_001",
+      "file": "_articles/vw_tiguan_ad1_001.md",
+      "brand": "",
+      "model": "",
+      "generation": "",
+      "length_chars": 2650,
+      "sections": 0,
+      "urg": 0,
+      "cat": "",
+      "topic": "---"
     },
     {
       "sit_id": "vw_tiguan_nf_002",
