@@ -442,3 +442,368 @@ Audio signature — характерный хруст/щёлчки 300–800 Г�
 Связь с production rule `cv_joint_click`: current threshold — ay_std>2.5, dominant_amp z>2, speed between 10,40. Это ловит early-stage click при малых скоростях. **Addendum — high-speed developed wear (80–110 км/ч) с throttle-dependence** — это второй режим, не ловится current правилом. Детали в Part XI и Part XII.
 
 Brand-specifics: Renault Logan, Duster, Sandero — пыльники слабые, ресурс 60–100 тыс. км при российской эксплуатации; aftermarket Lobro / GKN — иногда короче, если дешёвый. Honda Civic, CR-V — ресурс 200+ тыс. км при OEM. Subaru — в AWD моделях задние ШРУСы изнашиваются быстрее передних из-за постоянной работы под нагрузкой.
+
+---
+
+## Part V — Аудио-корреляции
+
+### V.1. Сводная таблица частотных диапазонов по дефектам
+
+Выработанная в ходе исследования таблица сопоставления дефект → частотный диапазон → характер звука — фундамент аудио-диагностики подвески. Каждая строка опирается на verified source (peer-reviewed, SAE paper или OEM guide).
+
+| Дефект | Freq range Hz | Характер звука | Pattern | Verified source |
+|---|---|---|---|---|
+| Амортизатор — отбой (knock) | 50–3 000 | Глухой стук/thump | Impulse | [SAE 2014-01-0013 Cabin Booming Noise](https://doi.org/10.4271/2014-01-0013) |
+| Амортизатор — кавитация | 200–800 | Bulk, булькающий | Continuous | [Laba7 — shock dyno graphs](https://laba7.com/blog/how-to-read-shock-dyno-graphs-successfully/) |
+| Опорный подшипник McPherson | 500–3 000 | Скрип/хрустение | Impulse (повороты) | MATEC BulTrans 2018, Reimpell Ch.5 |
+| Шаровая опора | 100–300 | Глухой тук | Impulse | MATEC + [MOOG Tech Tips](https://www.moogparts.com/technical/bulletins/tech-tips/how-to-inspect-ball-joints-for-looseness.html) |
+| Рулевой наконечник | 100–400 | Click/стук | Impulse | [ZF Aftermarket ball joint diagnosis](https://aftermarket.zf.com/en/aftermarket-portal/for-workshops/useful-tips/suspension/diagnose-faulty-ball-joints/) |
+| Сайлентблок — emerging marker | 120–180 | Broadband rumble | Broadband | [MATEC BulTrans 2018 full PDF](https://www.matec-conferences.org/articles/matecconf/pdf/2018/93/matecconf_bultrans2018_02005.pdf) |
+| Стойка стабилизатора | 80–400 (dom 180) | Сухой стук «костями» | Impulse | Reimpell Ch.5 + CUSTDEV |
+| Пружина — пробой | 100–500 | Глухой удар | Impulse | Reimpell Ch.5 |
+| Ступичный подшипник Stage II | 500–2 000 envelope | Ringing в envelope | Harmonic (envelope) | [SKF CM5003](https://cdn.skfmediahub.skf.com/api/public/0901d1968024acef/pdf_preview_medium/0901d1968024acef_pdf_preview_medium.pdf) |
+| Ступичный подшипник Stage III+ | 300–5 000 | Tonal hum + sidebands | Harmonic + sidebands | [BK Vibro](https://www.bkvibro.com/fileadmin/mediapool/Internet/Application_Notes/detecting_faulty_rolling_element_bearings.pdf) + [Acoem 4 stages](https://acoem.us/blog/condition-monitoring/do-you-know-the-4-stages-of-bearing-failure/) |
+| ШРУС | 300–800 | Crackle/хруст | Impulse (throttle-dep) | SAE 2014-01-0914 + throttle test sources |
+| Brake DTV | Peak at 120 km/h (900 rpm wheel) | Pulsation | Harmonic | [SAE 2019-01-2110 DTV Operational](https://www.sae.org/publications/technical-papers/content/2019-01-2110/) |
+
+Эта таблица — рабочий инструмент. Когда у нас на входе доминирующая частота аудио-сигнала из `AudioTab.tsx`, мы можем сопоставить её с типами дефектов и сузить список кандидатов. Например, если dominant_freq = 180 Гц и pattern impulse — это скорее всего стойка стабилизатора или сайлентблок, но не подшипник (у подшипника в Stage II было бы envelope signature).
+
+### V.2. Классификация impulse / harmonic / broadband
+
+Понимание трёх базовых типов сигналов — ключ к правильной интерпретации спектра:
+
+**Impulse** — короткий transient длительностью меньше 50 мс с резким attack и быстрым decay. На waveform виден как острый пик. На spectrogram — это вертикальная полоса, где энергия распределена сразу на много частот, но длится недолго. В terms of statistical metrics — **Crest Factor ≥ 5** (то есть peak-to-RMS ratio высокий) и **Kurtosis ≥ 5** (тяжёлые хвосты распределения). Физические источники: любой дефект с люфтом (шаровая, наконечник, стойка стабилизатора, сайлентблок при полном разрушении), проезд неровности, hard impact.
+
+**Harmonic** — серия дискретных peaks на частотах N × f_0 (1×, 2×, 3×, ...), где f_0 — фундаментальная частота. На spectrogram — горизонтальные линии параллельно временной оси (если частота стабильна) или наклонные (если RPM меняется со скоростью). Физические источники: подшипники (BPFO/BPFI harmonics, 8–10 штук), дисбаланс колеса (1× wheel_rpm), misalignment трансмиссии (1× и 2× shaft), шестерни (gear mesh frequency), gear tooth damage (sidebands ±1× shaft вокруг gear mesh).
+
+**Broadband** — размытая энергия без чётких peaks, распределённая на широкой полосе частот. На spectrogram — равномерная «фоновая» засветка в определённой полосе. Physical sources: ранний износ резинометаллических элементов (микротрещины в резине), road noise, стёртые контактные поверхности с хаотичным профилем. Статистические метрики — **Kurtosis < 3** (близко к Gaussian), относительно низкий Crest Factor 4–5 dB, RMS в полосе частот — основная диагностическая метрика.
+
+Разграничение этих трёх типов — критично для выбора правильного диагностического алгоритма. Impulse-дефекты ловятся через time-domain метрики (kurtosis, CF). Harmonic-дефекты — через FFT с peak detection или envelope spectrum. Broadband — через energy-band-ratio (энергия в заданной полосе к общей энергии сигнала).
+
+Источники разграничения: [Dynamox FFT interpretation](https://dynamox.net/en/blog/what-is-fft-and-how-to-interpret-it-in-industrial-vibration-analysis), [NCD.io bearing fault detection](https://ncd.io/blog/bearing-fault-detection-vibration-analysis/), [SKF Spectrum Analysis](https://cdn.skfmediahub.skf.com/api/public/0901d1968024acef/pdf_preview_medium/0901d1968024acef_pdf_preview_medium.pdf), [Crystal Instruments signal analysis](https://www.crystalinstruments.com/vibration-data-collector-signal-analysis).
+
+### V.3. Speed / Load dependence — диагностическая таблица
+
+Наблюдение как симптом меняется со скоростью и нагрузкой — один из самых мощных способов локализовать дефект без инструментов.
+
+| Поведение вибрации/звука | Что означает |
+|---|---|
+| Частота ∝ скорости (линейная зависимость) | Wheel-order defect: ступичный подшипник, дисбаланс колеса, износ шины, ШРУС |
+| Частота ∝ скорости² (квадратичная) | Аэродинамика (завихрения вокруг зеркал, антенны), не механический дефект |
+| Частота константна при смене скорости | Двигатель или трансмиссия (RPM-linked), не подвеска |
+| Амплитуда растёт с нагрузкой (газ/торможение) | ШРУС (газ в повороте), сайлентблок (продольная нагрузка) |
+| Амплитуда падает с нагрузкой | Опорный подшипник (сила прижимает шарики, убирает люфт) |
+| Резонансный пик на конкретной скорости (80–120 км/ч) | Wheel imbalance, тормозной диск с DTV, вибрация трансмиссии |
+| Зависимость от угла руля | Рулевой наконечник, опорный подшипник, ШРУС (в сильной степени) |
+| Зависимость от качества покрытия | Сайлентблоки, шины, road noise |
+
+Метод диагноста — слушать эти зависимости во время тест-драйва. Стандартная последовательность: (1) отъехать на ровную прямую в спокойном городском режиме, слушать baseline; (2) плавный разгон до 60-80-100-120 км/ч — отметить, на какой скорости какие звуки появляются; (3) поворот руля ±15° на constant speed — есть ли изменение звука/вибрации; (4) торможение с 80 до 30 — вибрация на педали, в руле; (5) ускорение с полной газа + поворот — проявляется ли что-то новое; (6) подтверждение на разном покрытии — асфальт, брусчатка, плохая дорога.
+
+### V.4. Зависимость аудио от spectrogram patterns
+
+Визуальный spectrogram — 2D-представление, ось X время, ось Y частота, яркость = амплитуда. Это графический инструмент, недоступный напрямую из смартфонного микрофона без специализированного приложения, но концепция важна для понимания.
+
+**Waterfall plot** — то же что spectrogram, но в 3D-перспективе, часто используется в order tracking (анализ в зависимости от RPM). По наклону «speed lines» на spectrogram можно сразу определить — это wheel-order frequency (пропорциональна скорости колеса) или engine-order (пропорциональна RPM двигателя).
+
+**Sidebands у подшипника** — при Stage III износа BPFI генерирует harmonics с модуляцией по 1× shaft. На spectrogram это выглядит как основные horizontal lines (гармоники BPFI) плюс тонкие дополнительные lines с постоянным offset ±1× shaft — и эти sidebands двигаются пропорционально скорости вместе с main harmonics.
+
+**Chirp у ступицы** — Stage III-IV износа подшипника даёт не просто гармоники, а «chirping» effect — серия коротких impulses, растянутых во времени. На spectrogram — тонкие вертикальные штрихи, выстроенные в pattern.
+
+**Harmonic family у дисбаланса** — чистая 1× wheel_rpm, увеличивающаяся со скоростью. На spectrogram — одна жирная наклонная линия + слабые 2× и 3× гармоники.
+
+Эти pattern-based criterions позволяют диагносту, глядя на spectrogram, за 2-3 секунды понять о каком типе дефекта речь. Для automatic detection в нашем production нужен алгоритм: (1) извлечь dominant_freq во времени; (2) коррелировать её с RPM двигателя и скоростью колеса (wheel_rpm = speed / π / D); (3) если dominant_freq ∝ wheel_rpm — wheel-order; (4) если dominant_freq ∝ engine_rpm — engine-order; (5) если есть sidebands ±1× shaft и 8+ гармоник — подшипник.
+
+### V.5. Smartphone MEMS: ограничения для диагностики подвески
+
+Наш production работает с двумя сенсорами: акселерометром и микрофоном смартфона. Акселерометр — MEMS-чип, типично Bosch Sensortec BMI160 ([datasheet](https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bmi160-ds000.pdf)), BMI260 ([flyer](https://www.bosch-sensortec.com/media/boschsensortec/downloads/product_flyer/bst-bmi260-fl000.pdf)) в новых телефонах Bosch с automotive-proven gyroscope, или TDK InvenSense ICM-20689 ([newark listing](https://www.newark.com/invensense/icm-20689/mems-mod-3-axis-gyroscope-accelerometer/dp/69AC5937)). Sensitivity range ±2g до ±16g, noise density 150–180 μg/√Hz typical (у BMI260 улучшен).
+
+Микрофон смартфона — обычно MEMS condenser (AAC, Knowles, Goertek), dynamic range до 80 dB (профессиональные MEMS — 120 dB), bandwidth номинально 20 Hz – 20 kHz, но реально у большинства телефонов значительный roll-off выше 8 kHz из-за механической конструкции корпуса + algorithms шумоподавления Google/Apple.
+
+Критические ограничения для диагностики подвески:
+
+(1) **SNR в салоне** — road noise на асфальте 90 км/ч создаёт спектральный baseline -60 до -40 dB по всему диапазону 100 Hz–5 kHz. Это значит, что дефект должен создавать пик минимум на +10 dB выше baseline чтобы быть надёжно детектируемым. Тонкие сигнатуры (Stage II подшипник в envelope 500–2000 Гц) часто ниже этой границы.
+
+(2) **Placement** — смартфон на торпеде у водителя ловит в первую очередь engine noise + road noise. Подвеска (передние стойки McPherson) — в 1.5–2 м от микрофона, звуки доходят с затуханием -12 to -15 dB по сравнению с direct-mounted microphone в арке колеса. Задние узлы — ещё дальше.
+
+(3) **Bandwidth realistically 400–500 Hz после internal filtering** — важно для envelope spectrum подшипника (нужна полоса до 2000 Гц). Это ограничение отчасти обходится smart processing на сервере.
+
+Peer-reviewed валидация smartphone-MEMS для **pothole-detection и IRI road roughness** — есть и положительная ([MDPI Bridge Fundamental Frequencies study](https://www.mdpi.com/1424-8220/19/14/3143), [10.1016/j.dib.2021.107091 dataset](https://doi.org/10.1016/j.dib.2021.107091), [10.1016/j.eswa.2020.113846 ML on smartphone vibration](https://doi.org/10.1016/j.eswa.2020.113846)). Для **компонентной диагностики подвески** (шаровые, сайлентблоки, подшипники) — peer-reviewed валидации НЕТ. Это gap, который ни одна опубликованная работа не закрыла для smartphone-только input.
+
+### V.6. Audio-accel синхронизация и time-delay
+
+Сильный диагностический инструмент, доступный нам при одновременной записи с акселерометра и микрофона — cross-correlation двух сигналов с определением time lag максимума корреляции. Физика — звук проходит в воздухе со скоростью 340 м/с, вибрация в стали — на порядок быстрее (≈5000 м/с, но это меньше важно — основной путь распространения подвесочного стука в салон идёт через воздушную среду подкапотного пространства и резонансы кузова).
+
+Типичные задержки:
+- **5–10 мс** — звук из подвески (2–3 м до микрофона) → суспензия-source
+- **10–15 мс** — звук из трансмиссии (коробка, дифференциал) → не подвеска
+- **15–20 мс** — звук из выхлопа, задней части машины → exhaust
+- **>20 мс** — отражения, дальние источники
+
+Emerging rule `audio_suspension_source_validation` (Part XII rule №3): cross-correlation lag между audio impulse и AZ impulse должен быть 5–15 мс для валидного suspension-origin сигнала. Если lag > 15 мс — сигнал скорее всего не из подвески. Это filter-правило, применяемое **перед** другими suspension-rules, чтобы отсеять ложные срабатывания от engine/transmission noise.
+
+Имплементация требует точной синхронизации channels: на Android не все телефоны гарантируют ≤1 мс jitter между audio-input и IMU samples, нужен software timestamp sync (возможно через AudioRecord + SensorEventListener в одной thread, или через external trigger). Это сложность внедрения, но технически реализуемо.
+
+---
+
+## Part VI — Адаптивные системы подвески
+
+### VI.1. Контекст — что такое адаптивная подвеска
+
+Стандартный амортизатор имеет фиксированную характеристику force-velocity. В повседневной езде это компромисс: жёстче — лучше управляемость, хуже комфорт; мягче — наоборот. Адаптивные подвески снимают этот компромисс, позволяя изменять характеристику демпфирования в реальном времени в зависимости от условий: режима движения (comfort/sport/track), скорости автомобиля, движения руля, ускорения/торможения, профиля дороги (предсказание от камеры или радаром у premium).
+
+Четыре основные технологии на рынке легковых и кроссоверов (плюс Airmatic как пневматический аналог):
+
+1. **ZF Continuous Damping Control (CDC)** / SACHS CDC — ZF-группа производит более распространённые адаптивные амортизаторы для VAG (MLB Evo платформа Audi A6/A7/Q7, Porsche Cayenne 9YA), Volvo, Jaguar Land Rover, некоторые Toyota/Lexus.
+2. **GM Magnetic Ride Control (MRC) / MagneRide** — разработан Delphi Automotive, теперь BWI Group, используется GM, Ford (Mustang, Explorer ST), Ferrari (до перехода на собственные системы).
+3. **BMW Electronic Damper Control (EDC) и Dynamic Damper Control (DDC)** — BMW-собственная разработка, все 5/6/7/X-серии от F10 до G-поколения опционально, M-Performance стандартно.
+4. **Mercedes-Benz AirMatic** + **Active Body Control (ABC)** — пневматическая подвеска с адаптивным амортизатором и активным управлением кренами. E/S/G-классы, GLE/GLS.
+
+Все четыре решают похожую задачу, но делают это технологически по-разному, поэтому и диагностика у каждой своя.
+
+### VI.2. GM Magnetic Ride Control (MRC) / MagneRide
+
+**Принцип действия** — magnetorheological fluid: масло, в котором во взвешенном состоянии находятся мельчайшие ферромагнитные частицы (обычно microsize iron particles). В нейтральном состоянии жидкость имеет низкую вязкость, ведёт себя как обычное гидравлическое масло. При приложении магнитного поля частицы выстраиваются в цепочки вдоль силовых линий поля, создавая структуру, которая резко увеличивает эффективную вязкость жидкости. Изменение тока через катушку → мгновенное изменение силы демпфирования.
+
+**Конструкция демпфера** — monotube амортизатор с piston'ом, внутри которого две electromagnetic coils (одна на bump ход, другая на rebound) и два fluid passages. MR fluid заполняет рабочий цилиндр и перетекает через piston при ходе штока. Подача тока в coils регулирует viscosity в passages, меняя force-velocity характеристику. Скорость реакции — меньше 1 мс (fastest adaptive damping system на рынке).
+
+**Электрические параметры** — питание 48V от адаптивного suspension ECU. Номинальный ток катушки 0–5 A (modulation). Сопротивление катушки ~3 Ω при 20°C. Для Cadillac Seville STS (классический представитель старшего поколения MRC) bypass resistor при отключении системы — ~3 Ω 5 W ([Cadillac forums discussion](https://www.cadillacforums.com/threads/resistor-size-to-bypass-magnetic-ride-control.1135103/)).
+
+**Fault codes GM MRC (verified)** — C0575, C0580, C0585, C0590. Все относятся к сервис-функциям подвески: C0575 Service Suspension general, C0580 system issue, C0585 fluid control, C0590 general malfunction. Эти коды активируют сообщение «Service Suspension» на приборной панели и могут включить speed-limiting behavior (машина не даёт разогнаться выше 60–80 км/ч).
+
+**Диагностика**: считать через дилерский сканер (GDS2 для новых GM, Tech2 для старых) или через aftermarket OBD с доступом к enhanced GM PIDs. Check электрическое — ток в катушке при команде ECU на определённый damping level, должен соответствовать spec. Если нет тока — обрыв провода (типично перетёртый провод в гофре от удара колеса). Если ток есть но механика не реагирует — заклинило катушку внутри демпфера → замена.
+
+**Сервисные bypass модули** — ShockSims MagneRide Delete Module ([shocksims.com/pages/magneride-delete-module](https://shocksims.com/pages/magneride-delete-module)) и аналоги позволяют отключить MRC на внедорожниках или машинах, где система умерла, но замена OEM демпфера слишком дорогая (~$800-1500 per corner).
+
+**Источники**: [Wikipedia MagneRide](https://en.wikipedia.org/wiki/MagneRide), [ShockSims engineering insights — MagneRide guide](https://shocksims.com/blogs/engineering-insights/magneride-magnetic-ride-control-guide), [ShockSims — why MagneRide fails](https://shocksims.com/blogs/engineering-insights/magneride-adaptive-ride-control-failure-guide), [Delphi DS series diagnostic fault codes](https://www.delphiautoparts.com/resource-center/article/how-to-interpret-diagnostic-fault-codes-for-ds-series), [GM Authority — MRC technology](https://gmauthority.com/blog/gm/general-motors-technology/gm-chassis-suspension-technology/gm-magnetic-ride-control-technology/).
+
+### VI.3. BMW Electronic Damper Control (EDC) и Dynamic Damper Control (DDC)
+
+**Принцип действия** — внутри амортизатора двухтрубной (или monotube для более поздних generations) конструкции находится управляемый электромагнитный клапан (proportional valve). ECU подвески подаёт на клапан ток, который открывает или прикрывает bypass passage в piston'е. Открытый bypass — мягкий ход; закрытый — жёсткий. Реакция — 10–30 мс (медленнее MRC, но всё ещё практично).
+
+EDC — ранняя система (F-series), DDC — более современная (G-series) с большей функциональностью и tighter integration с Driving Experience Control. Обе работают на тех же принципах.
+
+**Электрические параметры** — ток клапана в рабочем диапазоне 0.6–1.8 A. Сопротивление катушки 4–6 Ω. Питание через EDC/DDC ECU от 12V борт-сети. Обратная связь — от датчиков хода подвески на каждом углу (obычно Hall effect sensors на рычагах) + акселерометры на кузове.
+
+**Типичные проблемы**:
+- Перетирание жгута проводов в гофре у амортизатора (Golf MQB platform VAG имеет ту же проблему). Жгут долгое время выдерживает, но после 100+ тыс. км при эксплуатации на неровных дорогах может перетереться изнутри, провоцируя intermittent faults. Диагностика: осмотреть гофру у каждого амортизатора на следы трения, при необходимости разобрать и промерить wires мультиметром.
+- Пропадание сигнала с датчика хода подвески (коррозия на разъёме, грязь).
+- Заклинивание клапана в демпфере — редко, но бывает при износе (> 200 тыс. км или при попадании абразивов через повреждённое уплотнение).
+
+**Fault codes BMW EDC/DDC**: точные DTC уникальны для каждого поколения и модели, доступны через дилерский ISTA. Public lists — [BMWFault.codes](https://bmwfault.codes/), [BMW DTCs PDF](http://www.e38.org/e32/bmw%20code%20defaut.pdf), [EndTuning BMW Codes](https://www.endtuning.com/bmwcodes.html), [XBimmers EDC malfunction thread](https://x3.xbimmers.com/forums/showthread.php?t=1299632), [BimmerFest Dynamic Drive Damping Control Malfunction](https://www.bimmerfest.com/threads/dynamic-drive-and-damping-control-malfunction.1338291/). Частые codes включают 5F30, 5F31, 5F32 (failure ECU communication), коды специфичные для каждого клапана по углу.
+
+**Критическое ограничение** — **EDC damper может быть hydraulically dead без electrical fault code**. Об этом явно пишет [Recambios BMW blog](https://www.recambiosyaccesoriosbmw.com/en/blogs/bmw-mini-and-motorrad-universe-blog/suspension-adaptativa-bmw-edc-ddc-fallos): «a damper may not leak and still be dead. And an adaptive damper may 'not show electrical failure' and still be hydraulically exhausted». То есть ECU видит что клапан откликается на команды (электрика ОК), но масло внутри демпфера потеряло свойства (деградация, внутренний байпас) — и амортизация фактически не работает. Самодиагностика это не ловит. Единственный способ подтвердить — stand test (EUSAMA, shock dyno) или внимательный test drive with technician.
+
+**Ремонт** — замена на OEM (BMW Boge/Sachs original) или OEM-equivalent (BILSTEIN B6 специально под EDC, они поддерживают protocol и modes calibration). Купить «обычный» не-адаптивный амортизатор в замену — технически возможно, но сломает Dynamic Driving Modes и calibration, машина потеряет свою функциональность.
+
+### VI.4. ZF Continuous Damping Control (CDC) / SACHS CDC
+
+**Принцип действия** — proportional valve continuously regulates damping rate, функционирует как bypass в damping hydraulics. От BMW EDC отличается deeper integration в chassis ECU stack и использованием CAN-based sensor network вместо direct wired. ZF (SACHS) — крупнейший поставщик адаптивных амортизаторов в мире, CDC используется VAG (MQB Evo, MLB Evo), Volvo, Jaguar Land Rover, некоторые Toyota, некоторые японские спорт-модели.
+
+**Электрические параметры** — специфичны для каждого OEM. В общем — ток клапана 0–2 A PWM, сопротивление ~4–8 Ω.
+
+**Sensors** — ZF системе требуется: speed (от wheel speed sensors через CAN), lateral acceleration, vertical body acceleration, suspension travel на каждом углу, steering angle, brake pressure. Все они идут на chassis control ECU, который выдаёт damping commands на amplifier и далее на катушки клапанов.
+
+**Диагностика** — ZF CDC имеет self-diagnostic capabilities, indicator lamp «CDC FAIL» на панели при электрических ошибках. Для детального чтения — Bosch KTS tester (или OEM-specific, например Xentry для Mercedes). Нормальные diagnostic nominal/actual values доступны для каждого сенсора.
+
+**Источники**: [ZF CDC product page](https://www.zf.com/products/en/cars/products_64273.html), [ZF CDC ECU](https://www.zf.com/products/en/cars/products_69696.html), [ZF CDC Service Information PDF](https://aftermarket.zf.com/app/controller/ti/download/Binary/d94e3ef9-d750-11ec-a2ea-00505690da53.pdf), [ZF replacing CDC dampers](https://aftermarket.zf.com/en/aftermarket-portal/for-workshops/useful-tips/suspension/replacing-cdc-dampers/), [ZF SACHS CDC blog post](https://aftermarket.zf.com/en/aftermarket-portal/whats-new/expert-blog/inbrief-cdc-dampers/), [ZF Damping Technology brochure PDF](https://www.zf.com/public/org/BrochureDampingTechnologybyZF_72539.pdf), [GM Authority — Continuous Damping Control technology](https://gmauthority.com/blog/gm/general-motors-technology/gm-chassis-suspension-technology/gm-continuous-damping-control-technology/).
+
+**Критическое ограничение ZF CDC** — то же что у BMW EDC: self-diagnosis **распознаёт только electrical faults, не mechanical**. Это прямо написано в ZF Service Information: «The CDC system is capable of performing self-diagnosis, but only recognizes electrical faults, not mechanical malfunctions, and when a fault occurs, the CDC indicator lamp on the dashboard lights up.» Механический износ (деградация масла, износ клапана, потеря газа) — не детектируются.
+
+### VI.5. Mercedes-Benz AirMatic и Active Body Control (ABC)
+
+**Принцип действия** — это *пневматическая* подвеска с ЭЛЕКТРОННЫМ контролем высоты и жёсткости. Вместо стальных пружин используются резиновые или резино-тканевые баллоны (air bags), заполненные воздухом под давлением. Давление в каждом баллоне регулируется через клапан от компрессорного блока. Кроме контроля высоты — intelligent damping: амортизаторы имеют электронно управляемые клапаны аналогично CDC/EDC, интегрированные в общий chassis control.
+
+ABC — более продвинутая версия AirMatic, где дополнительно есть гидравлическая помпа высокого давления (до 200 бар) с серво-клапанами, активно управляющая крутящим моментом на каждом углу в реальном времени. Это позволяет системе противодействовать кренам в поворотах ДО того как они возникают. ABC ставили на S/SL/CL-класс.
+
+**Fault codes Mercedes AirMatic/ABC (verified)**:
+- **C1521** — abnormal supply voltage height sensor или unreliable signal. Причины: повреждение датчика, плохой контакт разъёма, механическое заклинивание в подвеске.
+- **C1525** — level calibration unsuccessful / plunger travel sensor calibration failure / critical vehicle level. Суффикс -001 означает front-left corner, -002 front-right, -003 rear-left, -004 rear-right.
+Плюс множество других C15xx кодов, каждый для конкретного компонента (компрессор, клапаны, датчики).
+
+**Диагностика** — НЕ через generic OBD-II. Нужен Mercedes Xentry / DTS Monaco / Vediamo / MBCOD Box с ELM327 adapter. Коды не читаются Torque App или простыми ELM-based scanners.
+
+**Типичные проблемы**:
+- Износ уплотнения плавающего поршня в амортизаторе — медленная утечка воздуха/жидкости, провисание одного угла ночью (к утру машина просела). Ресурс — 80–120 тыс. км на OEM Airmatic.
+- Отказ компрессора — шум при запуске, машина не поднимается. Причина — износ поршневых колец компрессора или клапана.
+- Коррозия трубок и разъёмов — особенно в странах с реагентами.
+- Ошибки калибровки — после разборки подвески, замены сенсоров, неправильной замены компонентов.
+
+**Источники**: [NHTSA TSB LI32.33-P-070817 AIRMATIC](https://static.nhtsa.gov/odi/tsbs/2023/MC-10231024-0001.pdf), [BenzBits ABC DTCs PDF](http://benzbits.com/dtc/ABC-DTCs-Original.pdf), [MB Medic — AirMatic via OBD-II scanner](https://www.mercedesmedic.com/test-mercedes-airmatic-suspension-using-obd-ii-diagnostic-scanner/), [Mercedes Assistance AIRMATIC malfunction guide](https://en.mercedesassistance.com/airmatic-malfunction/), [BenzWorld — C1525-001 thread](https://www.benzworld.org/threads/abc-fault-c1525-001-critical-vehicle-level-front-left.2410481/), [auto-rubbers — Airmatic fault codes analysis](https://www.auto-rubbers.com/airmatic-fault-code-and-analysis/), [Mercedes Medic — Air Suspension Troubleshooting](https://www.mercedesmedic.com/air-suspension-troubleshooting-airmatic-visit-workshop/).
+
+### VI.6. Общее ограничение всех четырёх систем
+
+Вывод по итогам анализа: все четыре адаптивные технологии (MRC, EDC/DDC, CDC, AirMatic) имеют **одинаковое фундаментальное ограничение self-diagnosis**: OEM-диагностика распознаёт только electrical faults (обрыв, short, несоответствие сопротивления, коммуникационные ошибки), но НЕ распознаёт mechanical/hydraulic wear амортизатора. Это значит, что:
+
+1. Автомобиль может показывать «system OK» на приборке при значительно деградированном амортизаторе.
+2. Водитель доверяет самодиагностике и не замечает постепенной потери управляемости.
+3. Только external test (EUSAMA, shock dyno) или внимательный test drive с объективной оценкой подтверждает гидравлический отказ.
+
+Это является основанием для **emerging правила AD-1** `adaptive_damper_hydraulic_dead`: если EUSAMA < 30% на любом колесе И у машины заявлена адаптивная подвеска И нет electrical DTC из списка (C0575/C0580/C0585/C0590/C1521/C1525/5F3x) → вывод «hydraulic dead without electrical fault», рекомендация «замена damper, electrical test недостаточен». Детали в Part XII rule №10.
+
+---
+
+## Part VII — Brand specifics
+
+### VII.1. BMW
+
+Основные платформы и их типичные проблемы подвески:
+
+**F-series (F10 5-серия, F01/F02 7-серия, F30 3-серия, F15/F25/F20)**: EDC адаптивные амортизаторы от Boge/Sachs на опциональной комплектации, типичная проблема — перетирание жгута проводов в гофре до амортизатора после 100+ тыс. км. Ток катушки EDC в норме 0.6–1.8 A (замерять дилерским ISTA при команде на определённый уровень damping). Частая aftermarket замена — BILSTEIN B6 (EDC-compatible). 5 F10/G30 известна также проблемой задних сайлентблоков многорычажки на 150+ тыс. км.
+
+**G-series (G20 3-серия, G30 5-серия, G05 X5)**: DDC как замена EDC — похожий принцип, более glubokaya интеграция. Недорогие пластиковые верхние опоры стоек у G20 ломаются после 100 тыс. км, особенно при эксплуатации на плохих дорогах. В G-series также шаровые опоры интегрированы с рычагом (не заменяются отдельно), что увеличивает стоимость ремонта в 5-10 раз.
+
+**E-series (старые E39, E46, E60, E65, E70 X5)**: классические BMW, пневма на 7 E65/E66 — типичная возрастная проблема. Эксплуатация 15+ лет — обломы задних пружин (коррозия у нижнего витка), износ шаровых после 200 тыс. км, закисание штока задних амортизаторов.
+
+Универсальная для BMW F/G-серий — специфичный DTC диагностики через дилерский ISTA (не OBD-II public). BMW берёт $7000 за год подписки на ISTA API для независимых сервисов.
+
+### VII.2. Mercedes-Benz
+
+**W212 E-класс**: AirMatic и ABC в старших комплектациях. Айрматик — типичные утечки через уплотнение штока после 80–120 тыс. км. Передний компрессор в подкапотном пространстве, ресурс 150–200 тыс. км до износа поршневых колец.
+
+**W221/W222 S-класс**: Airmatic стандартно на всех комплектациях. Та же проблема утечек, плюс известные отказы компрессора W164 (GL-класс) и GLK X204 — компрессор был подрядный Dunlop, качество ниже OEM W221.
+
+**GLC X253**: Air Body Control (упрощённая пневматика) опционально. Более надёжная чем AirMatic, но всё ещё чувствительна к реагентам.
+
+**W211/W213 E-класс до Airmatic**: классические стальные пружины + обычные амортизаторы. Проблемы — типичные для возрастных машин, обломы задних пружин, износ сайлентблоков задней подвески.
+
+### VII.3. Volkswagen Audi Group (VAG)
+
+**MQB платформа (Golf VII/VIII, Octavia III/IV, Audi A3 8V/8Y, Seat Leon)**: передние амортизаторы Sachs/ZF (иногда Monroe) могут стучать на пробеге 60–100 тыс. км из-за износа клапанного пакета, особенно на версиях с жёсткой подвеской (R-Line, Sport). Есть официальный TPI (Technical Product Information) от VAG с заменой на модернизированные с усиленным клапаном.
+
+**MLB Evo платформа (Audi A6 C7/C8, A7, A8, Q7 4M, Porsche Cayenne 9YA, Volkswagen Touareg NF)**: адаптивные амортизаторы CDC от ZF/Sachs, подключение по LIN-шине. Перетирание проводов в жгуте — типичный дефект. Дилерский сканер VAG-COM даёт доступ к каналу 14-16 блока 1K0 или 3Q0. Aftermarket — BILSTEIN B6 как не-адаптивная замена.
+
+**Audi A4 B8/B9**: задние многорычажки — сайлентблоки изнашиваются к 100–150 тыс. км. Диагностика сложная, так как задняя многорычажка даёт комплексные симптомы.
+
+**Skoda Octavia A5 / A7**: классическая MacPherson спереди, torsion beam сзади (base) или multilink (4x4). Проблемы обычно только по расходной части — стойки стабилизатора, сайлентблоки переднего рычага.
+
+### VII.4. Toyota / Lexus
+
+**Camry XV70 (2017+)**: известный TSB по стуку передних стоек на пробеге 40–60 тыс. км. Решение — замена на модернизированные OEM с изменённым маслом. Однако aftermarket KYB Excel-G часто дают тот же результат по цене в 2-3 раза дешевле.
+
+**Lexus RX 200t/300h (Harrier в JDM)**: относительно тихая подвеска, ресурс амортизаторов 150–200 тыс. км. Проблемы — коррозия штоков после 7+ лет на реагентах (характерно для всех Toyota в северных странах).
+
+**Land Cruiser 200/300**: AVS (Adaptive Variable Suspension) — свой вариант адаптивной системы Toyota. Реле регулировки в багажнике (200) или под капотом (300) — частый дефект на LC200.
+
+**Corolla E210 и базовые Toyota**: просто механические амортизаторы Sachs/KYB, высокая надёжность, 150–200 тыс. км типично.
+
+### VII.5. Hyundai / Kia / Genesis
+
+**Solaris/Rio/i20 (бюджетные)**: стойки стабилизатора — самая частая расходная деталь, ресурс 50–80 тыс. км. Амортизаторы Mando — TSB по стуку в мороз ниже −15°C из-за загустевания масла. Рулевые рейки слабоваты, ресурс 100–150 тыс. км до замены.
+
+**Sportage/Tucson/Santa Fe**: задние сайлентблоки изнашиваются к 100+ тыс. км, плюс известные отказы задних амортизаторов раньше передних (при frequentной загрузке багажника).
+
+**Genesis G70/G80/G90**: электронно-управляемая подвеска ECS (Electronic Control Suspension) — аналог MRC, электромагнитные клапаны. Диагностика через дилерский сканер Hyundai GDS. Слабый компонент — датчики хода подвески, коррозия контактов через 80–100 тыс. км.
+
+### VII.6. Russian (Lada/UAZ/Moskvich)
+
+**Lada Vesta/Granta/Niva**: стойки стабилизатора — самая частая расходная деталь (ресурс 40–80 тыс. км), особенно при российских дорогах. Пружины KAYABA (OEM на Vesta) / SS20 — просадка 15+ мм к 100 тыс. км. Амортизаторы — OEM КАЯБА, или aftermarket KYB Excel-G / Plaza, SS20 Комфорт. Подшипники качения ступицы Kia — тот же production что у Rio / Solaris.
+
+**Niva (Lada 4x4)**: шкворни передней подвески — эксплуатационная особенность, требуют регулярного шприцевания (раз в 10 тыс. км или после каждого off-road заезда в грязь). При пропуске обслуживания — быстрый износ, клёв и стук.
+
+**UAZ (Patriot, Hunter)**: рессорная задняя подвеска, проблемы — скрипы межлистовые, смещение стремянок. Задние амортизаторы OEM обычно дешёвые, лучше сразу менять на Plaza или Tokico aftermarket. Передние — шкворневые пары (как на Ниве).
+
+**Moskvich 3 (технически JAC JS4)**: новая машина на рынке с 2022, реальной статистики отказов пока нет. По заявленным ресурсам — заявленные OEM значения 80–150 тыс. км для амортизаторов, 40–60 тыс. для стоек стабилизатора.
+
+### VII.7. Chinese (Chery/Geely/BYD/Changan)
+
+**Chery Tiggo 4/7/8**: сайлентблоки передних рычагов — частая проблема к 40–60 тыс. км. Амортизаторы имеют большой разброс качества — встречаются и хорошие, и крайне плохие экземпляры с малым ресурсом 30 тыс. км. Aftermarket запасные части — часто OEM-identical (тот же производитель, но без Chery-логотипа).
+
+**Geely Coolray/Atlas/Tugella**: стойки стабилизатора — ресурс 30–50 тыс. км, амортизаторы — 80–120 тыс. км на OEM. Geely использует в основном компоненты от своих подразделений Volvo (для премиум-моделей Coolray).
+
+**BYD Atto 3/Han/Song Plus**: пневматика на старших, адаптивная подвеска. Реальной статистики эксплуатации на российском рынке мало — машины только с 2023 массово завозятся. Ожидания — 100–150 тыс. км до серьёзных проблем, основываясь на общем качестве BYD.
+
+**Changan Uni-K, CS55, CS75**: среднее качество подвески, стойки стабилизатора и сайлентблоки — частая расходка (40–80 тыс. км).
+
+Важный caveat по китайцам — качество OEM варьируется от модели к модели и от года выпуска. Ранние (2019–2021) экспорты часто менее надёжные чем 2023+ из-за qualify improvements.
+
+### VII.8. Renault / Peugeot / Citroen / Dacia
+
+**Renault Logan/Duster/Sandero**: передние амортизаторы — ресурс 60–100 тыс. км при российской эксплуатации (был скандал с ранним износом оригинальных амортизаторов, после 30–40 тыс. км). Рекомендуется замена на KYB / Sachs aftermarket. Пыльники амортизаторов и рулевых наконечников — частый дефект из-за слабого материала.
+
+**Renault Megane/Fluence/Kaptur**: аналогично — амортизаторы слабые на OEM, рулевые наконечники изнашиваются к 80 тыс. км.
+
+**Peugeot 3008/5008/508**: задняя балка — если грузить часто (семейная машина), сайлентблоки балки изнашиваются к 100 тыс. км, требуется замена балки целиком (дорого, но процедурно) или только втулок (дешевле).
+
+**Citroen C5 (старые поколения)**: гидропневматическая подвеска Hydractive — уникальная система, требует специализированного сервиса. Утечки зелёной жидкости, износ accumulators, засорение clutch valves. Дилерский уход необходим.
+
+### VII.9. American (Ford / GM / Chrysler)
+
+**Ford Explorer (U502/U625)**: ранние 2011–2015 имели TSB по преждевременному износу наружных рулевых наконечников (30–50 тыс. км). Пятое поколение (U625, 2020+) эту проблему решили.
+
+**Ford F-150 (P552)**: амортизаторы задние ресурс 80–100 тыс. км, рессоры передние 150+ тыс. км при нормальной эксплуатации. Ford Ranger (T6, 2019+) — аналогично.
+
+**Chevrolet Tahoe/Suburban**: Magnetic Ride Control на старших комплектациях (MRC). Типичные отказы MRC — заклинивание клапана, перетирание проводки, износ по пробегу 150+ тыс. км. Замена одного corner — $800–1500. Существуют bypass модули.
+
+**GM Cadillac CT6/Escalade**: MRC с расширенной функциональностью MagneRide, 3-поколение. Высокая сложность, высокая стоимость обслуживания.
+
+**Dodge/Jeep**: стандартные MacPherson/multilink, рессоры на рамных внедорожниках. Wrangler JK/JL — рессорная подвеска, ресурс 100–150 тыс. км до провисания.
+
+---
+
+## Part VIII — Стандарты и нормативы
+
+### VIII.1. Российская нормативная база
+
+**ГОСТ 33997-2016 «Колёсные транспортные средства. Требования к безопасности в эксплуатации и методы проверки»** — действующий с 1 февраля 2018 года основной стандарт, по которому проводится техосмотр в РФ и других странах ЕАЭС. Заменил собой ГОСТ Р 51709-2001 «Автотранспортные средства. Требования безопасности к техническому состоянию и методы проверки» — последний утратил силу.
+
+Для подвески ГОСТ 33997-2016 унаследовал от предшественника количественные критерии (и часть текста был скопирован в новую редакцию): коэффициент сцепления валов роликового стенда с колёсами должен быть не ниже 0.65 для категорий M₁ (легковые) и O₁ (прицепы до 750 кг); не ниже 0.60 для категорий M₂, M₃ (автобусы), N₁, N₂, N₃ (грузовые), O₂, O₃, O₄ (прицепы >750 кг). Коэффициент сцепления определяется как отношение результирующих продольной и поперечной сил реакции опорной поверхности к магнитуде нормальной реакции.
+
+Для замен ссылок в production — везде в коде и документации следует заменить `ГОСТ Р 51709-2001` на `ГОСТ 33997-2016` с указанием даты действия (с 01.02.2018).
+
+Источники: [Legalacts — ГОСТ Р 51709-2001 полный текст](https://legalacts.ru/doc/gost-r-51709-2001-gosudarstvennyi-standart-rossiiskoi-federatsii/), [cntd.ru — ГОСТ Р 51709-2001](http://docs.cntd.ru/document/gost-r-51709-2001), [stroyinf.ru PDF ГОСТ Р 51709-2001](https://files.stroyinf.ru/Data/22/2246.pdf).
+
+Дополнительные ГОСТы, релевантные для вибрационной диагностики подвески:
+- **ГОСТ Р ИСО 10816-3-99** — Вибрация. Контроль состояния машин по результатам измерений на невращающихся частях. Часть 3: Промышленные машины номинальной мощности свыше 15 кВт. Даёт baseline уровни vibration severity, используется как основа для диагностических порогов.
+- **ГОСТ 30576-98** — Вибрация. Ручные шлифовальные машины. Методы измерения вибрационных характеристик.
+- **ГОСТ Р ИСО 13373-1-2009** — Контроль состояния и диагностика машин. Вибрационный контроль состояния машин. Часть 1: Общие методы.
+- **ГОСТ 30893.2-2002** — Основные нормы взаимозаменяемости. Общие допуски. Допуски размеров без указания индивидуальных допусков.
+- **ГОСТ Р 52302-2004** — Автотранспортные средства. Управляемость и устойчивость. Технические требования. Методы испытаний.
+
+### VIII.2. ISO 8608:2016 — классификация дорожного покрытия
+
+Международный стандарт «Mechanical vibration — Road surface profiles — Reporting of measured data» ([iso.org/standard/71202](https://www.iso.org/standard/71202.html)), текущая редакция 2016 года, заменила 1995. Описывает методологию измерения и репортинга вертикального профиля дороги через Power Spectral Density (PSD).
+
+Классы дорог A–H определяются по двум параметрам прямой на log-log plot PSD vs spatial frequency: (1) unevenness index — amplitude на референсной spatial frequency 0.1 cycle/m; (2) waviness — наклон прямой. Класс A — лучшее покрытие (amplitude ~10⁻⁶ м²/(цикл/м) на referenced frequency), класс H — бездорожье.
+
+Для нашей диагностики применимость: наибольшая ценность для suspension rules в road classes A–B (smooth, low noise floor — можно применять чувствительные emerging rules с низкими threshold). Для классов C-D — baseline правила. Для классов E–H — road noise настолько велик, что достоверно отличить дефект подвески нельзя; нужно блокировать high-confidence диагнозы или переключать в «off-road mode».
+
+Emerging rule `road_class_iso8608_normalization` (Part XII rule 12) — заявляет GPS+IMU-based classification перед любой diagnostic inference.
+
+### VIII.3. ISO 5347 серия — калибровка акселерометров
+
+Серия стандартов по методам калибровки vibration и shock pick-ups (датчиков). Не один документ, а множество частей, каждая для своего диапазона частот и амплитуд:
+
+- **ISO 5347-3:1993 — Secondary vibration calibration of rectilinear pick-ups** ([iso.org/standard/11349](https://www.iso.org/standard/11349.html)). Freq range **20 Hz – 5 000 Hz**, dynamic range **10–1 000 m/s²**. Это основной стандарт для диапазона, где работает большинство automotive measurements.
+- **ISO 5347-6:1993 — Primary vibration calibration at low frequencies**. Freq range **0.5 Hz – 20 Hz**, dynamic range **1–200 m/s²**. Применимо для body bounce (1.0–1.5 Hz) и wheel hop (10–15 Hz) — идеально подходит.
+- **ISO 5347-22:1997 — Accelerometer resonance testing** ([iso.org/standard/23783](https://www.iso.org/standard/23783.html)). Частотный диапазон 50 Hz – 200 kHz для piezoelectric, piezoresistive и variable capacitance accelerometers. Применимо для bearing envelope analysis и high-freq knock detection.
+- **ISO 5347-14:1993 — Resonance frequency testing on steel block** ([iso.org/standard/11360](https://www.iso.org/standard/11360.html)) — определение собственной резонансной частоты датчика.
+
+Практическое значение: для нашей диагностики smartphone-MEMS (BMI160/BMI260/ICM-20689) калибровка проводится производителем чипа по ISO 5347 Part 3 и Part 6. Рабочие диапазоны чипов пересекаются со всеми нашими интересами (0.5–400 Hz realistically usable). Для профессионального ступичного крепления нужен Part 22-compliant датчик (IEPE piezoelectric с natural freq > 10 kHz), но это уже не смартфон-уровень.
+
+### VIII.4. ISO 10816 / 20816 — severity baseline
+
+Серия стандартов для оценки vibration severity машин и механизмов. Обновлённая редакция 20816 заменяет 10816 постепенно:
+
+- **ISO 20816-1:2016** — General guidelines. Баsеline для измерения неvibration на non-rotating parts.
+- **ISO 20816-3** — Industrial machines nominal power above 15 kW. Пороги по zone A/B/C/D severity.
+- **ГОСТ Р ИСО 10816-1-97** — российский аналог.
+
+Эти стандарты не-автомобильные в узком смысле, но они дают общую базу для определения what is «acceptable» vs «alarm» vs «replace» vibration levels. Пересекается с тем, что мы эмпирически использовали в threshold_rules.json — особенно в части z-score-based правил.
+
+### VIII.5. SAE стандарты
+
+- **SAE J1367:2012 — Performance Test Procedure — Ball Joints** ([sae.org/standards/j1367_201210](https://www.sae.org/standards/content/j1367_201210/)): описывает procedure для impact strength, tensile load, rotation and oscillation, torque, axial end movement, и cam-out strength tests. Стандартизует приёмочное тестирование шаровых опор для OEM.
+- **SAE J193 — Ball Joint Durability Testing Standards**: fatigue testing, включая strain gauge measurements для realistic loading и reproducible lab tests.
+- **SAE J577:2023 — Vibration Test Machine and Operation** ([sae.org/standards/j577_202304](https://www.sae.org/standards/content/j577_202304/)): general procedures для vibration testing автомобильных компонентов.
+- **SAE J2380:2021 — Vibration Testing of Electric Vehicle Batteries** ([sae.org/standards/j2380_202112](https://www.sae.org/standards/content/j2380_202112/)): vibration protocols для EV battery pack, spec частот 10–2000 Hz.
+- **SAE J1939 — CAN-based communication для commercial vehicles**: используется в ECAS и EBS коммерческого транспорта.
+
+### VIII.6. DIN / EN / EUSAMA standards
+
+- **DIN 70020 Teil 2** — немецкий стандарт shock absorber methodology, исторически был основой для EUSAMA.
+- **EUSAMA Technical Recommendation** — не является official standard в строгом смысле (это industry-association recommendation), но де-факто стандарт в Европе. Определяет метод тестирования, амплитуду, частоту, шкалу оценки. Детали — в [CITA Recommendation 26](https://citainsp.org/wp-content/uploads/2023/09/CITA-REC-26-SUSPENSIONS_REV_FINAL.pdf), который является адаптацией EUSAMA для европейского техосмотра.
+- **EN 1825** — European standard для roller brake testers (не vibration-specific, но используется совместно с EUSAMA стендами в едином стенде periodic technical inspection).
+
+### VIII.7. IEC стандарты для EV
+
+- **IEC 62660-2:2018 — Secondary lithium-ion cells for propulsion of electric road vehicles. Part 2: Reliability and abuse testing** — включает vibration/shock testing protocols. Это то, к чему готовится EV battery при разработке, влияет на требования к креплению батареи и его передаче вибрации в кузов.
