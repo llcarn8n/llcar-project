@@ -1,0 +1,1837 @@
+{
+  "brand": "changan",
+  "model": "changan_uni_t",
+  "updated": "2026-03-29",
+  "codes": {
+    "B0001": {
+      "note_ru": "Код B0001 (Управление раскрытием подушки водителя (стадия 1)) на автомобилях Changan.",
+      "common_fix_ru": "Немедленно обратиться в сервис для диагностики системы SRS. Не ездить до устранения!",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "sensors",
+      "can_drive": "no_stop"
+    },
+    "B0002": {
+      "note_ru": "Код B0002 (Управление раскрытием подушки водителя (стадия 2)) на автомобилях Changan.",
+      "common_fix_ru": "Немедленно обратиться в сервис для диагностики системы SRS. Не ездить до устранения!",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "sensors",
+      "can_drive": "no_stop"
+    },
+    "B0010": {
+      "note_ru": "Код B0010 (Управление раскрытием подушки пассажира (стадия 1)) на автомобилях Changan.",
+      "common_fix_ru": "Немедленно обратиться в сервис для диагностики системы SRS. Не ездить до устранения!",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "sensors",
+      "can_drive": "no_stop"
+    },
+    "B0028": {
+      "note_ru": "Код B0028 (Right Side Airbag Deployment Control (Subfault)) на автомобилях Changan.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "note_en": "Right Side Airbag Deployment Control (Subfault)",
+      "system_id": "body",
+      "can_drive": "check"
+    },
+    "B0051": {
+      "note_ru": "Код B0051 (Датчик удара — правая сторона) на автомобилях Changan.",
+      "common_fix_ru": "Немедленно обратиться в сервис для диагностики системы SRS. Не ездить до устранения!",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "sensors",
+      "can_drive": "no_stop"
+    },
+    "B0071": {
+      "note_ru": "Код B0071 (First Row Center Seatbelt Pretensioner Deployment Control (Subfault)) на автомобилях Changan.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "low",
+      "source": "dtc_enrichment_v1",
+      "note_en": "First Row Center Seatbelt Pretensioner Deployment Control (Subfault)",
+      "system_id": "body",
+      "can_drive": "check"
+    },
+    "B0092": {
+      "note_ru": "Код B0092 (Left Side Restraints Sensor 2 (Subfault)) на автомобилях Changan.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "note_en": "Left Side Restraints Sensor 2 (Subfault)",
+      "system_id": "body",
+      "can_drive": "check"
+    },
+    "B0095": {
+      "note_ru": "Код B0095 (Right Frontal Restraints Sensor (Subfault)) на автомобилях Changan.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "note_en": "Right Frontal Restraints Sensor (Subfault)",
+      "system_id": "body",
+      "can_drive": "check"
+    },
+    "B0100": {
+      "note_ru": "Код B0100 (Электронный передний датчик 1) на автомобилях Changan.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "safety",
+      "can_drive": "no_stop"
+    },
+    "B1310": {
+      "note_ru": "Код B1310 (Цепь мотора рециркуляции HVAC) на автомобилях Changan.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "body",
+      "can_drive": "yes_safe"
+    },
+    "B1312": {
+      "note_ru": "Код B1312 (Код B1312 (специфичный для Li Auto)) на автомобилях Changan.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "body",
+      "can_drive": "yes_safe"
+    },
+    "B1317": {
+      "note_ru": "Код B1317 (Исполнительный механизм климата (B1317)) на автомобилях Changan.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "hvac",
+      "can_drive": "yes_safe"
+    },
+    "B1318": {
+      "note_ru": "Код B1318 (Исполнительный механизм климата (B1318)) на автомобилях Changan.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "hvac",
+      "can_drive": "yes_safe"
+    },
+    "B1325": {
+      "note_ru": "Код B1325 (Цепь реле вентилятора HVAC) на автомобилях Changan.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "hvac",
+      "can_drive": "yes_safe"
+    },
+    "B1381": {
+      "note_ru": "Код B1381 (Исполнительный механизм климата (B1381)) на автомобилях Changan.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "hvac",
+      "can_drive": "yes_safe"
+    },
+    "B1382": {
+      "note_ru": "Код B1382 (Исполнительный механизм климата (B1382)) на автомобилях Changan.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "hvac",
+      "can_drive": "yes_safe"
+    },
+    "B1601": {
+      "note_ru": "Код B1601 (Код B1601 (специфичный для Li Auto)) на автомобилях Changan.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "display",
+      "can_drive": "yes_safe"
+    },
+    "B1650": {
+      "note_ru": "Код B1650 (Цепь мотора передних дворников) на автомобилях Changan.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "body",
+      "can_drive": "yes_safe"
+    },
+    "B2278": {
+      "note_ru": "Код B2278 (Электроника кузова — B2 (B2278)) на автомобилях Changan.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "body",
+      "can_drive": "yes_safe"
+    },
+    "B2799": {
+      "note_ru": "Код B2799 (Электроника кузова — B2 (B2799)) на автомобилях Changan.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "body",
+      "can_drive": "yes_safe"
+    },
+    "C0020": {
+      "note_ru": "Код C0020 на Чанган (CS55, CS55 Plus, UNI-K) указывает на неисправность цепи насоса системы EPBi (электронного усилителя тормозов), часто связанную с коротким замыканием или обрывом питания.",
+      "common_fix_ru": "В России чаще всего требуется замена реле насоса или ремонт проводки (от 3 000 до 8 000 руб.), в редких случаях — замена всего блока EPBi (от 45 000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "warning"
+    },
+    "C0035": {
+      "note_ru": "Код C0035 (Цепь датчика скорости ЛП колеса) на автомобилях Changan.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brake-control",
+      "can_drive": "no_stop"
+    },
+    "C0040": {
+      "note_ru": "Код C0040 (Цепь датчика скорости ПП колеса) на автомобилях Changan.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brake-control",
+      "can_drive": "no_stop"
+    },
+    "C0045": {
+      "note_ru": "Код C0045 (Цепь датчика скорости ЛЗ колеса) на автомобилях Changan.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brake-control",
+      "can_drive": "no_stop"
+    },
+    "C0050": {
+      "note_ru": "Код C0050 (Цепь датчика скорости ПЗ колеса) на автомобилях Changan.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brake-control",
+      "can_drive": "no_stop"
+    },
+    "C0051": {
+      "note_ru": "Код C0051 (LF Wheel Speed Sensor Circuit Range/Performance (EBCM)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dtc_enrichment_v1",
+      "note_en": "LF Wheel Speed Sensor Circuit Range/Performance (EBCM)",
+      "system_id": "chassis",
+      "can_drive": "check"
+    },
+    "C0236": {
+      "note_ru": "Код C0236 (Rear Wheel Speed Signal Circuit Missing) на автомобилях Changan.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dtc_enrichment_v1",
+      "note_en": "Rear Wheel Speed Signal Circuit Missing",
+      "system_id": "chassis",
+      "can_drive": "check"
+    },
+    "C0265": {
+      "note_ru": "Код C0265 (Цепь реле EBCM) на автомобилях Changan.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "no_danger"
+    },
+    "C0267": {
+      "note_ru": "Код C0267 (Pump Motor Circuit Open/Shorted) на автомобилях Changan.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dtc_enrichment_v1",
+      "note_en": "Pump Motor Circuit Open/Shorted",
+      "system_id": "chassis",
+      "can_drive": "check"
+    },
+    "C0279": {
+      "note_ru": "Код C0279 (Powertrain Configuration Not Valid) на автомобилях Changan.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "low",
+      "source": "dtc_enrichment_v1",
+      "note_en": "Powertrain Configuration Not Valid",
+      "system_id": "chassis",
+      "can_drive": "check"
+    },
+    "C0284": {
+      "note_ru": "Код C0284 (EBCM Malfunction) на автомобилях Changan.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "low",
+      "source": "dtc_enrichment_v1",
+      "note_en": "EBCM Malfunction",
+      "system_id": "chassis",
+      "can_drive": "check"
+    },
+    "C0710": {
+      "note_ru": "Код C0710 (Датчик положения руля) на автомобилях Changan.",
+      "common_fix_ru": "Проверить датчик угла поворота руля и систему ЭУР.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_safe"
+    },
+    "C1201": {
+      "note_ru": "Код C1201 (Код C1201 (специфичный для Li Auto)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brake-control",
+      "can_drive": "yes_caution"
+    },
+    "C1241": {
+      "note_ru": "Код C1241 (Тормозная система — C1 расширенная (C1241)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_caution"
+    },
+    "C1249": {
+      "note_ru": "Код C1249 (Тормозная система — C1 расширенная (C1249)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_caution"
+    },
+    "C1252": {
+      "note_ru": "Код C1252 (Тормозная система — C1 расширенная (C1252)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_caution"
+    },
+    "C1256": {
+      "note_ru": "Код C1256 (Тормозная система — C1 расширенная (C1256)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_caution"
+    },
+    "C1278": {
+      "note_ru": "Код C1278 (Тормозная система — C1 расширенная (C1278)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_caution"
+    },
+    "C1288": {
+      "note_ru": "Код C1288 (Тормозная система — C1 расширенная (C1288)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_caution"
+    },
+    "P0011": {
+      "note_ru": "Код P0011 (Опережение фаз распредвала (Банк 1)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить систему изменения фаз газораспределения: клапан VVT/VVT-i, цепь/ремень ГРМ.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0012": {
+      "note_ru": "Код P0012 (Запаздывание фаз распредвала (Банк 1)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить систему изменения фаз газораспределения: клапан VVT/VVT-i, цепь/ремень ГРМ.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0016": {
+      "note_ru": "Код P0016 (Корреляция положения коленвала/распредвала (Банк 1)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить систему изменения фаз газораспределения: клапан VVT/VVT-i, цепь/ремень ГРМ.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0017": {
+      "note_ru": "Код P0017 (Цепь регулятора давления топлива (P0017)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить систему изменения фаз газораспределения: клапан VVT/VVT-i, цепь/ремень ГРМ.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0021": {
+      "note_ru": "Код P0021 (Система подачи топлива — цепь (P0021)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить систему изменения фаз газораспределения: клапан VVT/VVT-i, цепь/ремень ГРМ.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0022": {
+      "note_ru": "Код P0022 (Система подачи топлива — цепь (P0022)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить систему изменения фаз газораспределения: клапан VVT/VVT-i, цепь/ремень ГРМ.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0087": {
+      "note_ru": "Код P0087 (Код P0087 (специфичный для Li Auto)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить топливный фильтр, форсунки и давление в топливной системе.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "fuel",
+      "can_drive": "no_danger"
+    },
+    "P0088": {
+      "note_ru": "Код P0088 (Код P0088 (специфичный для Li Auto)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить топливный фильтр, форсунки и давление в топливной системе.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "fuel",
+      "can_drive": "no_stop"
+    },
+    "P0089": {
+      "note_ru": "Код P0089 (Система топливной подачи (P0089)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить топливный фильтр, форсунки и давление в топливной системе.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0101": {
+      "note_ru": "Код P0101 (Диапазон/производительность MAF) на автомобилях Changan.",
+      "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF/MAP), воздушный фильтр и впускной тракт.",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "intake",
+      "can_drive": "yes_caution"
+    },
+    "P0102": {
+      "note_ru": "Код P0102 (Низкий сигнал MAF) на автомобилях Changan.",
+      "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF/MAP), воздушный фильтр и впускной тракт.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "intake",
+      "can_drive": "yes_caution"
+    },
+    "P0103": {
+      "note_ru": "Код P0103 (Высокий сигнал MAF) на автомобилях Changan.",
+      "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF/MAP), воздушный фильтр и впускной тракт.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "intake",
+      "can_drive": "yes_caution"
+    },
+    "P0105": {
+      "note_ru": "Код P0105 (Цепь датчика массового расхода воздуха (P0105)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF/MAP), воздушный фильтр и впускной тракт.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0106": {
+      "note_ru": "Код P0106 (Диапазон/производительность MAP/барометр) на автомобилях Changan.",
+      "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF/MAP), воздушный фильтр и впускной тракт.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0107": {
+      "note_ru": "Код P0107 (Низкий сигнал MAP/барометр) на автомобилях Changan.",
+      "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF/MAP), воздушный фильтр и впускной тракт.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0108": {
+      "note_ru": "Код P0108 (Цепь датчика массового расхода воздуха (P0108)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF/MAP), воздушный фильтр и впускной тракт.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0110": {
+      "note_ru": "Код P0110 (Неисправность датчика температуры впускного воздуха) на автомобилях Changan.",
+      "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF/MAP), воздушный фильтр и впускной тракт.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0113": {
+      "note_ru": "Код P0113 (Цепь датчика температуры впускного воздуха (P0113)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF/MAP), воздушный фильтр и впускной тракт.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0115": {
+      "note_ru": "Код P0115 (Неисправность датчика температуры ОЖ) на автомобилях Changan.",
+      "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF/MAP), воздушный фильтр и впускной тракт.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "no_stop"
+    },
+    "P0117": {
+      "note_ru": "Код P0117 (Низкий сигнал датчика температуры ОЖ) на автомобилях Changan.",
+      "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF/MAP), воздушный фильтр и впускной тракт.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "cooling",
+      "can_drive": "no_stop"
+    },
+    "P0118": {
+      "note_ru": "Код P0118 (Высокий сигнал датчика температуры ОЖ) на автомобилях Changan.",
+      "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF/MAP), воздушный фильтр и впускной тракт.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "cooling",
+      "can_drive": "no_stop"
+    },
+    "P0120": {
+      "note_ru": "Код P0120 (Цепь датчика положения дроссельной заслонки A) на автомобилях Changan.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "no_stop"
+    },
+    "P0121": {
+      "note_ru": "Код P0121 (Диапазон/производительность TPS A) на автомобилях Changan.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "no_stop"
+    },
+    "P0122": {
+      "note_ru": "Код P0122 (Низкий сигнал TPS A) на автомобилях Changan.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "no_stop"
+    },
+    "P0123": {
+      "note_ru": "Код P0123 (Высокий сигнал TPS A) на автомобилях Changan.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "no_stop"
+    },
+    "P0128": {
+      "note_ru": "Код P0128 (Код P0128 (специфичный для Li Auto)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить термостат и систему охлаждения. Стоимость замены термостата: 3 000-10 000 руб.",
+      "frequency": "common",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "cooling",
+      "can_drive": "no_stop"
+    },
+    "P0130": {
+      "note_ru": "Код P0130 (Цепь кислородного датчика (Банк 1, Датчик 1)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0131": {
+      "note_ru": "Код P0131 (Низкое напряжение O2 (Банк 1, Датчик 1)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0132": {
+      "note_ru": "Код P0132 (Код P0132 (специфичный для Li Auto)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0133": {
+      "note_ru": "Код P0133 (Медленный отклик O2 (Банк 1, Датчик 1)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0134": {
+      "note_ru": "Код P0134 (Кислородный датчик (Банк 1) (P0134)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0135": {
+      "note_ru": "Код P0135 (Кислородный датчик (Банк 1) (P0135)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0136": {
+      "note_ru": "Код P0136 (Код P0136 (специфичный для Li Auto)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0137": {
+      "note_ru": "Код P0137 (Код P0137 (специфичный для Li Auto)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0138": {
+      "note_ru": "Код P0138 (Код P0138 (специфичный для Li Auto)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0140": {
+      "note_ru": "Код P0140 (Кислородный датчик (Банк 1) (P0140)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0141": {
+      "note_ru": "Код P0141 (Кислородный датчик (Банк 1) (P0141)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0171": {
+      "note_ru": "Код P0171 (Бедная смесь (Банк 1)) на автомобилях Changan.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0172": {
+      "note_ru": "Код P0172 (Богатая смесь (Банк 1)) на автомобилях Changan.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0174": {
+      "note_ru": "Код P0174 (Бедная смесь (Банк 2)) на автомобилях Changan.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0175": {
+      "note_ru": "Код P0175 (Богатая смесь (Банк 2)) на автомобилях Changan.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0190": {
+      "note_ru": "Код P0190 (Код P0190 (специфичный для Li Auto)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить топливный фильтр, форсунки и давление в топливной системе.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "fuel",
+      "can_drive": "no_danger"
+    },
+    "P0191": {
+      "note_ru": "Код P0191 (Код P0191 (специфичный для Li Auto)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить топливный фильтр, форсунки и давление в топливной системе.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "fuel",
+      "can_drive": "yes_caution"
+    },
+    "P0192": {
+      "note_ru": "Код P0192 (Fuel Rail Pressure Sensor Circuit Low Input) на автомобилях Changan.",
+      "common_fix_ru": "Проверить топливный фильтр, форсунки и давление в топливной системе.",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dtc_enrichment_v1",
+      "note_en": "Fuel Rail Pressure Sensor Circuit Low Input",
+      "system_id": "engine",
+      "can_drive": "check"
+    },
+    "P0193": {
+      "note_ru": "Код P0193 (Fuel Rail Pressure Sensor Circuit High Input) на автомобилях Changan.",
+      "common_fix_ru": "Проверить топливный фильтр, форсунки и давление в топливной системе.",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dtc_enrichment_v1",
+      "note_en": "Fuel Rail Pressure Sensor Circuit High Input",
+      "system_id": "engine",
+      "can_drive": "check"
+    },
+    "P0201": {
+      "note_ru": "Код P0201 (Код P0201 (специфичный для Li Auto)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить форсунки: промывка ультразвуком или замена. Стоимость: промывка 3 000-5 000 руб., замена 5 000-15 000 руб. за штуку.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "fuel",
+      "can_drive": "yes_caution"
+    },
+    "P0202": {
+      "note_ru": "Код P0202 (Код P0202 (специфичный для Li Auto)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить форсунки: промывка ультразвуком или замена. Стоимость: промывка 3 000-5 000 руб., замена 5 000-15 000 руб. за штуку.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "fuel",
+      "can_drive": "yes_caution"
+    },
+    "P0203": {
+      "note_ru": "Код P0203 (Код P0203 (специфичный для Li Auto)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить форсунки: промывка ультразвуком или замена. Стоимость: промывка 3 000-5 000 руб., замена 5 000-15 000 руб. за штуку.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "fuel",
+      "can_drive": "yes_caution"
+    },
+    "P0204": {
+      "note_ru": "Код P0204 (Код P0204 (специфичный для Li Auto)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить форсунки: промывка ультразвуком или замена. Стоимость: промывка 3 000-5 000 руб., замена 5 000-15 000 руб. за штуку.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "fuel",
+      "can_drive": "yes_caution"
+    },
+    "P0234": {
+      "note_ru": "Код P0234 (Код P0234 (специфичный для Li Auto)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить систему наддува: трубопроводы, клапан управления давлением, интеркулер.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "intake",
+      "can_drive": "yes_safe"
+    },
+    "P0299": {
+      "note_ru": "Код P0299 (Недостаточное давление наддува) на автомобилях Changan.",
+      "common_fix_ru": "Проверить систему наддува: трубопроводы, клапан управления давлением, интеркулер.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "intake",
+      "can_drive": "yes_safe"
+    },
+    "P0300": {
+      "note_ru": "Код P0300 (Обнаружены пропуски зажигания в нескольких цилиндрах) на автомобилях Changan.",
+      "common_fix_ru": "Проверить свечи зажигания и катушки зажигания. Стоимость замены: свечи 2 000-5 000 руб., катушка 3 000-8 000 руб.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ignition",
+      "can_drive": "yes_caution"
+    },
+    "P0301": {
+      "note_ru": "Код P0301 (Пропуски зажигания в цилиндре 1) на автомобилях Changan.",
+      "common_fix_ru": "Проверить свечи зажигания и катушки зажигания. Стоимость замены: свечи 2 000-5 000 руб., катушка 3 000-8 000 руб.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ignition",
+      "can_drive": "yes_caution"
+    },
+    "P0302": {
+      "note_ru": "Код P0302 (Пропуски зажигания в цилиндре 2) на автомобилях Changan.",
+      "common_fix_ru": "Проверить свечи зажигания и катушки зажигания. Стоимость замены: свечи 2 000-5 000 руб., катушка 3 000-8 000 руб.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ignition",
+      "can_drive": "yes_caution"
+    },
+    "P0303": {
+      "note_ru": "Код P0303 (Пропуски зажигания в цилиндре 3) на автомобилях Changan.",
+      "common_fix_ru": "Проверить свечи зажигания и катушки зажигания. Стоимость замены: свечи 2 000-5 000 руб., катушка 3 000-8 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ignition",
+      "can_drive": "yes_caution"
+    },
+    "P0304": {
+      "note_ru": "Код P0304 (Пропуски зажигания в цилиндре 4) на автомобилях Changan.",
+      "common_fix_ru": "Проверить свечи зажигания и катушки зажигания. Стоимость замены: свечи 2 000-5 000 руб., катушка 3 000-8 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ignition",
+      "can_drive": "yes_caution"
+    },
+    "P0325": {
+      "note_ru": "Код P0325 (Цепь датчика детонации 1 (Банк 1)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить датчик и его проводку, при необходимости - замена.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0327": {
+      "note_ru": "Код P0327 (Система зажигания (P0327)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить датчик и его проводку, при необходимости - замена.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0328": {
+      "note_ru": "Код P0328 (Система зажигания (P0328)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить датчик и его проводку, при необходимости - замена.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0335": {
+      "note_ru": "Код P0335 (Цепь датчика положения коленвала A) на автомобилях Changan.",
+      "common_fix_ru": "Проверить датчик и его проводку, при необходимости - замена.",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0336": {
+      "note_ru": "Код P0336 (Цепь датчика детонации (P0336)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить датчик и его проводку, при необходимости - замена.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0340": {
+      "note_ru": "Код P0340 (Цепь датчика положения распредвала (Банк 1)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить датчик и его проводку, при необходимости - замена.",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0341": {
+      "note_ru": "Код P0341 (Диапазон/производительность ДПРВ (Банк 1)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить датчик и его проводку, при необходимости - замена.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0345": {
+      "note_ru": "Код P0345 (Цепь датчика положения распредвала (P0345)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить датчик и его проводку, при необходимости - замена.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0351": {
+      "note_ru": "Код P0351 (Цепь катушки зажигания A) на автомобилях Changan.",
+      "common_fix_ru": "Проверить свечи зажигания и катушки зажигания. Стоимость замены: свечи 2 000-5 000 руб., катушка 3 000-8 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ignition",
+      "can_drive": "yes_safe"
+    },
+    "P0352": {
+      "note_ru": "Код P0352 (Код P0352 (специфичный для Li Auto)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить свечи зажигания и катушки зажигания. Стоимость замены: свечи 2 000-5 000 руб., катушка 3 000-8 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ignition",
+      "can_drive": "yes_safe"
+    },
+    "P0353": {
+      "note_ru": "Код P0353 (Код P0353 (специфичный для Li Auto)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить свечи зажигания и катушки зажигания. Стоимость замены: свечи 2 000-5 000 руб., катушка 3 000-8 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ignition",
+      "can_drive": "yes_safe"
+    },
+    "P0354": {
+      "note_ru": "Код P0354 (Код P0354 (специфичный для Li Auto)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить свечи зажигания и катушки зажигания. Стоимость замены: свечи 2 000-5 000 руб., катушка 3 000-8 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ignition",
+      "can_drive": "yes_safe"
+    },
+    "P0401": {
+      "note_ru": "Код P0401 (Недостаточный поток EGR) на автомобилях Changan.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0402": {
+      "note_ru": "Код P0402 (Система рециркуляции отработавших газов (EGR) (P0402)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0403": {
+      "note_ru": "Код P0403 (Система рециркуляции отработавших газов (EGR) (P0403)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0420": {
+      "note_ru": "Код P0420 (Эффективность катализатора ниже порога (Банк 1)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "exhaust",
+      "can_drive": "yes_caution"
+    },
+    "P0430": {
+      "note_ru": "Код P0430 (Эффективность катализатора ниже порога (Банк 2)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "exhaust",
+      "can_drive": "yes_caution"
+    },
+    "P0440": {
+      "note_ru": "Код P0440 (Неисправность системы улавливания паров топлива) на автомобилях Changan.",
+      "common_fix_ru": "Проверить систему улавливания паров топлива (EVAP): клапан продувки, крышку бензобака, шланги.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0441": {
+      "note_ru": "Код P0441 (Система улавливания паров топлива (EVAP) (P0441)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить систему улавливания паров топлива (EVAP): клапан продувки, крышку бензобака, шланги.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0442": {
+      "note_ru": "Код P0442 (Обнаружена малая утечка EVAP) на автомобилях Changan.",
+      "common_fix_ru": "Проверить систему улавливания паров топлива (EVAP): клапан продувки, крышку бензобака, шланги.",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0443": {
+      "note_ru": "Код P0443 (Система улавливания паров топлива (EVAP) (P0443)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить систему улавливания паров топлива (EVAP): клапан продувки, крышку бензобака, шланги.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0446": {
+      "note_ru": "Код P0446 (Производительность вентиляции EVAP) на автомобилях Changan.",
+      "common_fix_ru": "Проверить систему улавливания паров топлива (EVAP): клапан продувки, крышку бензобака, шланги.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0449": {
+      "note_ru": "Код P0449 (Система улавливания паров топлива (EVAP) (P0449)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить систему улавливания паров топлива (EVAP): клапан продувки, крышку бензобака, шланги.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0455": {
+      "note_ru": "Код P0455 (Обнаружена большая утечка EVAP) на автомобилях Changan.",
+      "common_fix_ru": "Проверить систему улавливания паров топлива (EVAP): клапан продувки, крышку бензобака, шланги.",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0456": {
+      "note_ru": "Код P0456 (Система улавливания паров топлива (EVAP) (P0456)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить систему улавливания паров топлива (EVAP): клапан продувки, крышку бензобака, шланги.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0483": {
+      "note_ru": "На Чанган (CS35, CS95, UNI-K) код P0483 указывает на неисправность цепи управления вентилятором охлаждения, часто вызванную загрязнением радиатора или отказом реле/мотора вентилятора.",
+      "common_fix_ru": "Чистка радиатора и проверка реле стоят 1500–3000 руб, замена мотора вентилятора — от 8000 до 15000 руб в зависимости от модели.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0500": {
+      "note_ru": "Код P0500 (Датчик скорости автомобиля A) на автомобилях Changan.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "drivetrain",
+      "can_drive": "yes_safe"
+    },
+    "P0501": {
+      "note_ru": "Код P0501 (Датчик скорости автомобиля (P0501)) на автомобилях Changan.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "drivetrain",
+      "can_drive": "yes_safe"
+    },
+    "P0505": {
+      "note_ru": "Код P0505 (Система управления холостым ходом) на автомобилях Changan.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0507": {
+      "note_ru": "Код P0507 (Обороты ХХ выше ожидаемых) на автомобилях Changan.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0520": {
+      "note_ru": "Код P0520 (Код P0520 (специфичный для Li Auto)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить уровень и давление масла. При необходимости - замена датчика давления масла (2 000-5 000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "pump",
+      "can_drive": "no_stop"
+    },
+    "P0521": {
+      "note_ru": "Код P0521 (Код P0521 (специфичный для Li Auto)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить уровень и давление масла. При необходимости - замена датчика давления масла (2 000-5 000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "pump",
+      "can_drive": "no_stop"
+    },
+    "P0522": {
+      "note_ru": "Код P0522 (Код P0522 (специфичный для Li Auto)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить уровень и давление масла. При необходимости - замена датчика давления масла (2 000-5 000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "pump",
+      "can_drive": "no_stop"
+    },
+    "P0523": {
+      "note_ru": "Код P0523 (Код P0523 (специфичный для Li Auto)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить уровень и давление масла. При необходимости - замена датчика давления масла (2 000-5 000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "pump",
+      "can_drive": "no_stop"
+    },
+    "P0524": {
+      "note_ru": "Код P0524 (Код P0524 (специфичный для Li Auto)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить уровень и давление масла. При необходимости - замена датчика давления масла (2 000-5 000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "filtration",
+      "can_drive": "yes_safe"
+    },
+    "P0560": {
+      "note_ru": "Код P0560 (Код P0560 (специфичный для Li Auto)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить термостат и систему охлаждения. Стоимость замены термостата: 3 000-10 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "cooling",
+      "can_drive": "yes_safe"
+    },
+    "P0562": {
+      "note_ru": "Код P0562 (Низкое напряжение бортовой сети) на автомобилях Changan.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "electrical",
+      "can_drive": "yes_safe"
+    },
+    "P0563": {
+      "note_ru": "Код P0563 (Высокое напряжение бортовой сети) на автомобилях Changan.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "electrical",
+      "can_drive": "yes_safe"
+    },
+    "P0600": {
+      "note_ru": "Код P0600 (Последовательная линия связи) на автомобилях Changan.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ev",
+      "can_drive": "yes_safe"
+    },
+    "P0601": {
+      "note_ru": "Код P0601 (Связь блоков управления (P0601)) на автомобилях Changan.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ev",
+      "can_drive": "yes_safe"
+    },
+    "P0666": {
+      "note_ru": "Код P0666 на автомобилях Changan (CS35, CS55, UNI-K) указывает на неисправность цепи управления модулем двигателя, часто связанную с проблемами в проводке или контактах самого ЭБУ, а не с внутренними ошибками процессора.",
+      "common_fix_ru": "Чаще всего помогает переподключение разъемов ЭБУ или замена поврежденного жгута проводов; стоимость диагностики и ремонта в РФ составляет от 3 000 до 12 000 рублей в зависимости от сложности доступа к блоку.",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "system_id": "ev",
+      "can_drive": "yes_safe"
+    },
+    "P0700": {
+      "note_ru": "Код P0700 (Неисправность системы управления КПП) на автомобилях Changan.",
+      "common_fix_ru": "Выполнить диагностику АКПП/вариатора. Проверить уровень и состояние масла трансмиссии.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0705": {
+      "note_ru": "Код P0705 (Цепь датчика диапазона КПП) на автомобилях Changan.",
+      "common_fix_ru": "Выполнить диагностику АКПП/вариатора. Проверить уровень и состояние масла трансмиссии.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0715": {
+      "note_ru": "Для моделей Changan (CS35, CS55, UNI-K) код P0715 часто указывает на неисправность датчика скорости входного вала (TSS) или проблемы с проводкой, что может сопровождаться рывками при переключении передач и переходом в аварийный режим.",
+      "common_fix_ru": "Чаще всего помогает замена датчика скорости входного вала (аналог или оригинал) за 3500–6000 рублей, а также проверка целостности жгута проводов и чистка контактов разъема.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0720": {
+      "note_ru": "На Чанган (CS35, CS95, UNI-K) код P0720 чаще всего указывает на неисправность датчика скорости выходного вала или проблемы с проводкой, что может привести к некорректной работе АКПП и переходу в аварийный режим.",
+      "common_fix_ru": "В 80% случаев помогает замена датчика скорости выходного вала (оригинал ~4500–6000 руб., аналог ~2000–3000 руб.) и проверка целостности жгута проводов.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0725": {
+      "note_ru": "Код P0725 (Датчик температуры трансмиссионного масла (P0725)) на автомобилях Changan.",
+      "common_fix_ru": "Выполнить диагностику АКПП/вариатора. Проверить уровень и состояние масла трансмиссии.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0730": {
+      "note_ru": "Код P0730 (Передаточное число трансмиссии (P0730)) на автомобилях Changan.",
+      "common_fix_ru": "Выполнить диагностику АКПП/вариатора. Проверить уровень и состояние масла трансмиссии.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0740": {
+      "note_ru": "Код P0740 (Передаточное число трансмиссии (P0740)) на автомобилях Changan.",
+      "common_fix_ru": "Выполнить диагностику АКПП/вариатора. Проверить уровень и состояние масла трансмиссии.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0750": {
+      "note_ru": "Код P0750 (Электромагнитный клапан трансмиссии (P0750)) на автомобилях Changan.",
+      "common_fix_ru": "Выполнить диагностику АКПП/вариатора. Проверить уровень и состояние масла трансмиссии.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0755": {
+      "note_ru": "На автомобилях Changan (UNI-K, CS55 Plus) код P0755 указывает на неисправность соленоидов переключения передач в автоматической коробке передач, что часто связано с загрязнением гидроблока или износом электромагнитных клапанов.",
+      "common_fix_ru": "Чаще всего помогает промывка гидроблока и замена соленоидов (от 15 000 до 25 000 руб.), в редких случаях требуется замена всего блока управления АКПП (от 80 000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0840": {
+      "note_ru": "На автомобилях Changan (CS35, CS55, UNI-K) код P0840 указывает на неисправность цепи датчика давления трансмиссионной жидкости, что часто сопровождается загоранием лампы Check Engine и переходом АКПП в аварийный режим.",
+      "common_fix_ru": "В 90% случаев проблема решается заменой датчика давления жидкости (около 4 500–7 000 руб.) или чисткой/заменой клапана управления давлением (12 000–18 000 руб.), так как загрязнение масла встречается чаще, чем поломка самого датчика.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "system_id": "drivetrain",
+      "can_drive": "yes_safe"
+    },
+    "P0845": {
+      "note_ru": "На автомобилях Changan (CS55 Plus, UNI-K) код P0845 указывает на неисправность цепи датчика давления трансмиссионной жидкости, что часто связано с загрязнением соленоидов или выходом из строя самого датчика в гидроблоке.",
+      "common_fix_ru": "Чаще всего помогает промывка гидроблока и замена датчика давления (оригинал ~8 500 руб., аналог ~4 500 руб.) с последующей адаптацией; полный ремонт гидроблока в Москве стоит от 25 000 до 45 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "system_id": "drivetrain",
+      "can_drive": "yes_safe"
+    },
+    "P0964": {
+      "note_ru": "Код P0964 на Чанган (UNI-K, CS55 Plus) указывает на неисправность цепи управления давлением масла в гидротрансформаторе (сolenoid A), что часто встречается на моделях с 7-ступенчатым «роботом» (7DCT) из-за засорения соленоида или падения давления в системе.",
+      "common_fix_ru": "Чаще всего помогает промывка гидроблока и замена соленоида давления масла (запчасть ~4 500 руб., работа ~3 000 руб.), полная замена гидроблока требуется редко и стоит от 25 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "system_id": "drivetrain",
+      "can_drive": "yes_safe"
+    },
+    "P0A08": {
+      "note_ru": "Код P0A08 (Цепь управления двигателем B — фаза U) на автомобилях Changan.",
+      "common_fix_ru": "Обратиться в авторизованный сервис для диагностики высоковольтной системы. Самостоятельный ремонт ОПАСЕН.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ev",
+      "can_drive": "yes_caution"
+    },
+    "P0A09": {
+      "note_ru": "Код P0A09 (Код P0A09 (специфичный для Li Auto)) на автомобилях Changan.",
+      "common_fix_ru": "Обратиться в авторизованный сервис для диагностики высоковольтной системы. Самостоятельный ремонт ОПАСЕН.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "power-electronics",
+      "can_drive": "yes_caution"
+    },
+    "P0A0D": {
+      "note_ru": "Код P0A0D (Код P0A0D (специфичный для Li Auto)) на автомобилях Changan.",
+      "common_fix_ru": "Обратиться в авторизованный сервис для диагностики высоковольтной системы. Самостоятельный ремонт ОПАСЕН.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "power-electronics",
+      "can_drive": "yes_caution"
+    },
+    "P0A0F": {
+      "note_ru": "Код P0A0F (Код P0A0F (специфичный для Li Auto)) на автомобилях Changan.",
+      "common_fix_ru": "Обратиться в авторизованный сервис для диагностики высоковольтной системы. Самостоятельный ремонт ОПАСЕН.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "power-electronics",
+      "can_drive": "yes_caution"
+    },
+    "P0A1A": {
+      "note_ru": "Код P0A1A (Цепь главного реле ВВ батареи — отрицательный) на автомобилях Changan.",
+      "common_fix_ru": "Обратиться в авторизованный сервис для диагностики высоковольтной системы. Самостоятельный ремонт ОПАСЕН.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ev",
+      "can_drive": "yes_caution"
+    },
+    "P0A1F": {
+      "note_ru": "Код P0A1F (Производительность датчика напряжения ВВ батареи A) на автомобилях Changan.",
+      "common_fix_ru": "Обратиться в авторизованный сервис для диагностики высоковольтной системы. Самостоятельный ремонт ОПАСЕН.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ev",
+      "can_drive": "yes_caution"
+    },
+    "P0A25": {
+      "note_ru": "Код P0A25 (Слишком низкая температура батареи — ограничение мощности) на автомобилях Changan.",
+      "common_fix_ru": "Обратиться в авторизованный сервис для диагностики высоковольтной системы. Самостоятельный ремонт ОПАСЕН.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ev",
+      "can_drive": "yes_caution"
+    },
+    "P0A3F": {
+      "note_ru": "Код P0A3F (Разбаланс температуры ячеек батареи — Банк 2) на автомобилях Changan.",
+      "common_fix_ru": "Обратиться в авторизованный сервис для диагностики высоковольтной системы. Самостоятельный ремонт ОПАСЕН.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ev",
+      "can_drive": "yes_caution"
+    },
+    "P0A78": {
+      "note_ru": "Код P0A78 (Высокое напряжение ВВ батареи — критическое) на автомобилях Changan.",
+      "common_fix_ru": "Обратиться в авторизованный сервис для диагностики высоковольтной системы. Самостоятельный ремонт ОПАСЕН.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ev",
+      "can_drive": "no_stop"
+    },
+    "P0A7A": {
+      "note_ru": "Код P0A7A (Деградация ВВ батареи) на автомобилях Changan.",
+      "common_fix_ru": "Обратиться в авторизованный сервис для диагностики высоковольтной системы. Самостоятельный ремонт ОПАСЕН.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ev",
+      "can_drive": "yes_caution"
+    },
+    "P0A7F": {
+      "note_ru": "Код P0A7F (Общая неисправность BMS) на автомобилях Changan.",
+      "common_fix_ru": "Обратиться в авторизованный сервис для диагностики высоковольтной системы. Самостоятельный ремонт ОПАСЕН.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ev",
+      "can_drive": "yes_caution"
+    },
+    "P0A80": {
+      "note_ru": "Код P0A80 (Код P0A80 (специфичный для Li Auto)) на автомобилях Changan.",
+      "common_fix_ru": "Обратиться в авторизованный сервис для диагностики высоковольтной системы. Самостоятельный ремонт ОПАСЕН.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "battery-management",
+      "can_drive": "no_stop"
+    },
+    "P0A93": {
+      "note_ru": "Код P0A93 (Неисправность инвертора — внутренняя ошибка) на автомобилях Changan.",
+      "common_fix_ru": "Обратиться в авторизованный сервис для диагностики высоковольтной системы. Самостоятельный ремонт ОПАСЕН.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ev",
+      "can_drive": "no_stop"
+    },
+    "P0AA6": {
+      "note_ru": "Код P0AA6 (Код P0AA6 (специфичный для Li Auto)) на автомобилях Changan.",
+      "common_fix_ru": "Обратиться в авторизованный сервис для диагностики высоковольтной системы. Самостоятельный ремонт ОПАСЕН.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "power-electronics",
+      "can_drive": "no_danger"
+    },
+    "P0AC0": {
+      "note_ru": "Код P0AC0 (Код P0AC0 (специфичный для Li Auto)) на автомобилях Changan.",
+      "common_fix_ru": "Обратиться в авторизованный сервис для диагностики высоковольтной системы. Самостоятельный ремонт ОПАСЕН.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "charging",
+      "can_drive": "yes_caution"
+    },
+    "P0AFA": {
+      "note_ru": "Код P0AFA (Код P0AFA (специфичный для Li Auto)) на автомобилях Changan.",
+      "common_fix_ru": "Обратиться в авторизованный сервис для диагностики высоковольтной системы. Самостоятельный ремонт ОПАСЕН.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "battery-management",
+      "can_drive": "no_stop"
+    },
+    "P0C73": {
+      "note_ru": "Код P0C73 (Клапан охлаждения — неисправность (EV)) на автомобилях Changan.",
+      "common_fix_ru": "Обратиться в авторизованный сервис для диагностики высоковольтной системы. Самостоятельный ремонт ОПАСЕН.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ev",
+      "can_drive": "yes_caution"
+    },
+    "P1250": {
+      "note_ru": "Код P1250 на автомобилях Changan (CS35, CS55, UNI-K) указывает на неисправность системы управления двигателем, часто связанную с датчиком положения дроссельной заслонки или проблемами с подачей топлива в условиях российского бензина.",
+      "common_fix_ru": "Чаще всего помогает чистка дроссельной заслонки и адаптация (1500–2500 руб.) или замена датчика/бензонасоса (от 4000 до 12000 руб. за деталь и работу).",
+      "frequency": "occasional",
+      "severity_override": "warning"
+    },
+    "P2096": {
+      "note_ru": "Код P2096 (Система впрыска топлива (P2096)) на автомобилях Changan.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P2097": {
+      "note_ru": "Код P2097 (Система впрыска топлива (P2097)) на автомобилях Changan.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P2187": {
+      "note_ru": "Код P2187 (Электронная дроссельная заслонка (P2087)) на автомобилях Changan.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P2188": {
+      "note_ru": "Код P2188 (Электронная дроссельная заслонка (P2088)) на автомобилях Changan.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P2195": {
+      "note_ru": "Код P2195 (Электронная дроссельная заслонка (P2095)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P2196": {
+      "note_ru": "Код P2196 (Электронная дроссельная заслонка (P2096)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P2197": {
+      "note_ru": "Код P2197 (Электронная дроссельная заслонка (P2097)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P2530": {
+      "note_ru": "Код P2530 на Чанган (CS35, CS95, UNI-K) указывает на неисправность цепи управления топливным насосом низкого давления, часто вызванную плохим контактом в разъеме или отказом реле в блоке предохранителей.",
+      "common_fix_ru": "Чаще всего помогает замена реле топливного насоса (1500–2500 руб.) или чистка контактов; полная замена насоса в сборе стоит от 12 000 до 25 000 руб. в зависимости от модели.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P2765": {
+      "note_ru": "Код P2765 в официальных мануалах Changan (CS35, CS95, UNI-K) не зафиксирован как стандартный; в базах владельцев он часто дублируется с ошибками коробки передач (P0715, P2784) или является ошибкой сканера при попытке считать расширенный код испарения (P2065).",
+      "common_fix_ru": "Владельцам Чанган в России при появлении этого кода рекомендуется сначала проверить разъемы и проводку блока управления АКПП, так как проблема чаще всего кроется в датчиках скорости или соленоидах, а не в системе улавливания топлива.",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P2784": {
+      "note_ru": "Код P2784 на Чанган (UNI-K, CS55 Plus) указывает на неисправность системы управления давлением в трансмиссии, часто связанную с датчиком давления или клапаном управления, а не с испарением топлива, как указано в общем описании OBD-II.",
+      "common_fix_ru": "Наиболее частое решение — замена датчика давления масла АКПП или чистка/замена соленоидов; стоимость работ в РФ составляет 15 000–25 000 рублей.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P2831": {
+      "note_ru": "Код P2831 для моделей Changan (CS35, CS95, UNI-K) в российской практике встречается крайне редко и часто является ошибкой интерпретации сканера или временным сбоем в модуле управления трансмиссией.",
+      "common_fix_ru": "В 95% случаев помогает полная перезагрузка ЭБУ (отключение АКБ на 15 минут) или обновление ПО дилера; замена компонентов не требуется, стоимость диагностики в РФ составляет 3000–5000 рублей.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P2836": {
+      "note_ru": "Код P2836 на Чанган (CS35, CS55, UNI-K) указывает на неисправность цепи управления муфтой полного привода (AWD clutch actuator), что часто сопровождается ошибкой P2831. Проблема характерна для моделей с 2020 года, особенно при эксплуатации в условиях слякоти и частых переключений режимов привода.",
+      "common_fix_ru": "Чаще всего требуется замена электромагнитного клапана муфты полного привода (стоимость 4 500–7 000 руб.) или перепрошивка блока управления трансмиссией (2 500–4 000 руб.). В редких случаях, при механическом заклинивании, требуется замена муфты в сборе (от 25 000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P2840": {
+      "note_ru": "Код P2840 на Чанган (CS35, CS55, UNI-K) указывает на неисправность в цепи управления муфтой полного привода или датчиком скорости раздаточной коробки, что часто сопровождается ошибкой блокировки дифференциала.",
+      "common_fix_ru": "Чаще всего помогает перепрошивка блока управления трансмиссией (стоимость 3000–5000 руб.) или замена датчика скорости раздатки (запчасть 2500–4000 руб., работа 2000 руб.).",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P3000": {
+      "note_ru": "Код P3000 (Воздушно-топливная смесь (P3000)) на автомобилях Changan.",
+      "common_fix_ru": "Обратиться в авторизованный сервис для диагностики высоковольтной системы. Самостоятельный ремонт ОПАСЕН.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P3001": {
+      "note_ru": "Код P3001 (Воздушно-топливная смесь (P3001)) на автомобилях Changan.",
+      "common_fix_ru": "Обратиться в авторизованный сервис для диагностики высоковольтной системы. Самостоятельный ремонт ОПАСЕН.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P3004": {
+      "note_ru": "Код P3004 (Воздушно-топливная смесь (P3004)) на автомобилях Changan.",
+      "common_fix_ru": "Обратиться в авторизованный сервис для диагностики высоковольтной системы. Самостоятельный ремонт ОПАСЕН.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P3009": {
+      "note_ru": "Код P3009 (Воздушно-топливная смесь (P3009)) на автомобилях Changan.",
+      "common_fix_ru": "Обратиться в авторизованный сервис для диагностики высоковольтной системы. Самостоятельный ремонт ОПАСЕН.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "U0001": {
+      "note_ru": "Код U0001 на Чанган (UNI-K, CS35 Plus) указывает на потерю связи по высокоскоростной шине CAN, часто вызванную помехами от нештатной электроники или окислением контактов в разъеме блока управления ESP.",
+      "common_fix_ru": "В 80% случаев помогает чистка контактов и проверка массы; замена модуля ESP или прошивка ПО стоят от 15 000 до 45 000 рублей.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "system_id": "ev",
+      "can_drive": "yes_caution"
+    },
+    "U0073": {
+      "note_ru": "Код U0073 (Обрыв шины связи блока управления) на автомобилях Changan.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ev",
+      "can_drive": "yes_caution"
+    },
+    "U0074": {
+      "note_ru": "Код U0074 на Чанган (CS35, CS95, UNI-K) указывает на потерю связи с модулем управления двигателем (ECM) по шине CAN, что часто связано с плохим контактом в разъеме или просадкой напряжения в бортовой сети.",
+      "common_fix_ru": "Чаще всего помогает переподключение разъемов ECM и проверка массы; при замене модуля цена составит от 45 000 до 85 000 рублей в зависимости от модели.",
+      "frequency": "occasional",
+      "severity_override": "warning"
+    },
+    "U0100": {
+      "note_ru": "На Чанган (CS35, CS95, UNI-K) код U0100 чаще всего указывает на обрыв связи по шине CAN между блоком двигателя и приборной панелью или мультимедиа, часто из-за окисления контактов в разъеме или плохой массы.",
+      "common_fix_ru": "В 80% случаев помогает чистка контактов разъема ЭБУ и проверка массы; замена ЭБУ требуется редко и стоит от 45 000 до 120 000 руб. в зависимости от модели.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "U0101": {
+      "note_ru": "Код U0101 (Потеря связи с ЭБУ КПП) на автомобилях Changan.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "U0121": {
+      "note_ru": "Код U0121 (Потеря связи с блоком ABS) на автомобилях Changan.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_caution"
+    },
+    "U0126": {
+      "note_ru": "Код U0126 (Потеря связи с датчиком угла руля) на автомобилях Changan.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_caution"
+    },
+    "U0140": {
+      "note_ru": "Код U0140 (Потеря связи с блоком управления кузовом) на автомобилях Changan.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "control-module",
+      "can_drive": "yes_caution"
+    },
+    "U0151": {
+      "note_ru": "Код U0151 (Потеря связи с блоком систем безопасности) на автомобилях Changan.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "sensors",
+      "can_drive": "yes_caution"
+    },
+    "U0155": {
+      "note_ru": "Код U0155 (Потеря связи с панелью приборов) на автомобилях Changan.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "audio",
+      "can_drive": "yes_caution"
+    },
+    "U0164": {
+      "note_ru": "Код U0164 (Потеря связи с блоком климат-контроля) на автомобилях Changan.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "display",
+      "can_drive": "yes_caution"
+    },
+    "U0168": {
+      "note_ru": "Код U0168 (Потеря связи с модулем охранной системы) на автомобилях Changan.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "adas",
+      "can_drive": "yes_caution"
+    },
+    "U0184": {
+      "note_ru": "Код U0184 (Потеря связи с мультимедиа) на автомобилях Changan.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "adas",
+      "can_drive": "yes_caution"
+    },
+    "U0293": {
+      "note_ru": "Код U0293 (Потеря связи с зарядным модулем ВВ батареи A) на автомобилях Changan.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ev",
+      "can_drive": "yes_caution"
+    },
+    "U0300": {
+      "note_ru": "Код U0300 (Код U0300 (специфичный для Li Auto)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "controller",
+      "can_drive": "yes_caution"
+    },
+    "U0305": {
+      "note_ru": "Код U0305 (Несовместимость ПО с LiDAR датчиком) на автомобилях Changan.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "adas",
+      "can_drive": "yes_caution"
+    },
+    "U0401": {
+      "note_ru": "Код U0401 (Некорректные данные от ЭБУ двигателя A) на автомобилях Changan.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "U0415": {
+      "note_ru": "Код U0415 (Некорректные данные от блока ABS) на автомобилях Changan.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_caution"
+    },
+    "U0416": {
+      "note_ru": "Код U0416 (Некорректные данные от блока динамики) на автомобилях Changan.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_caution"
+    },
+    "U1000": {
+      "note_ru": "Код U1000 (Таймаут CAN) на автомобилях Changan.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "electrical",
+      "can_drive": "yes_caution"
+    },
+    "U1001": {
+      "note_ru": "Код U1001 (Код U1001 (специфичный для Li Auto)) на автомобилях Changan.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "electrical",
+      "can_drive": "yes_caution"
+    },
+    "U3003": {
+      "note_ru": "Код U3003 на Чанган (CS35, CS95, UNI-K) указывает на критическое падение или скачок напряжения в бортовой сети, часто вызывая потерю связи с модулями EPBi. В российских условиях это чаще всего следствие разряда АКБ, плохого контакта клемм или неисправности генератора, особенно в морозы.",
+      "common_fix_ru": "В 80% случаев помогает чистка клемм и проверка напряжения генератора (диагностика 1500–2500 руб.), замена АКБ (от 6000 руб.) или ремонт проводки (от 3000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "system_id": "ev",
+      "can_drive": "yes_caution"
+    }
+  }
+}

@@ -1,0 +1,886 @@
+{
+  "brand": "honda",
+  "model": "civic",
+  "updated": "2026-03-29",
+  "codes": {
+    "B1175": {
+      "note_ru": "Код B1175 на Хонда (Accord, CR-V, Civic) указывает на неисправность цепи преднатяжителя ремня безопасности, часто возникающую из-за окисления контактов в разъеме под сиденьем или износа пиропатрона.",
+      "common_fix_ru": "Чаще всего помогает чистка разъема и проверка целостности проводки (500–1500 руб.); при подтверждении ошибки требуется замена преднатяжителя (от 8000 до 25000 руб. за деталь в зависимости от модели).",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "system_id": "sensors",
+      "can_drive": "yes_safe"
+    },
+    "B1176": {
+      "note_ru": "Код B1176 на Хонда указывает на неисправность преднатяжителя ремня безопасности, часто связанную с окислением контактов в разъеме под задним сиденьем или дефектом самого модуля.",
+      "common_fix_ru": "Чаще всего помогает чистка разъема и замена ремня безопасности в сборе (около 15 000–25 000 руб.) или перепрошивка модуля безопасности (от 3 000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "system_id": "sensors",
+      "can_drive": "yes_safe"
+    },
+    "P0630": {
+      "note_ru": "На Хонде код P0630 означает, что VIN-номер не записан в память ЭБУ (PCM/ECM), что часто случается после замены блока или сброса памяти при ремонте. Это не поломка двигателя, а ошибка конфигурации, из-за которой могут не работать иммобилайзер или некоторые сервисные функции.",
+      "common_fix_ru": "Необходимо перепрограммировать VIN-номер в ЭБУ через дилерский сканер HDS или специализированное оборудование; стоимость услуги в России составляет от 3 000 до 6 000 рублей.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "system_id": "ev",
+      "can_drive": "yes_safe"
+    },
+    "B1155": {
+      "note_ru": "Код B1155 на Honda (Accord, CR-V, Civic) указывает на неисправность цепи преднатяжителя ремня безопасности водителя, часто вызванную плохим контактом в разъеме под сиденьем или обрывом провода в гофре.",
+      "common_fix_ru": "Чаще всего помогает замена разъема или перекрутка проводов в гофре (от 1500 до 4000 руб.); полная замена преднатяжителя обойдется в 12 000–25 000 руб. в зависимости от модели.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "system_id": "sensors",
+      "can_drive": "yes_safe"
+    },
+    "B1160": {
+      "note_ru": "Код B1160 на Хонде указывает на неисправность цепи преднатяжителя ремня безопасности водителя, часто возникающую из-за окисления контактов в разъеме под сиденьем или обрыва провода в гофре.",
+      "common_fix_ru": "В 80% случаев помогает чистка разъема и замена втулки провода; полная замена преднатяжителя на оригинал стоит от 12 000 до 18 000 рублей, аналог — от 6 000 рублей.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "system_id": "sensors",
+      "can_drive": "yes_safe"
+    },
+    "P0300": {
+      "note_ru": "Код P0300 на Хонда (Accord, CR-V, Civic) указывает на пропуски зажигания сразу в нескольких цилиндрах, что часто связано с деградацией катушек зажигания или загрязнением форсунок, особенно на двигателях серии K20/K24.",
+      "common_fix_ru": "Замена комплекта катушек зажигания (аналоги Denso) стоит 15 000–25 000 руб., а чистка форсунок в сервисе — около 4 000–6 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "system_id": "ignition",
+      "can_drive": "yes_caution"
+    },
+    "P0171": {
+      "note_ru": "Для Honda (Accord, CR-V, Civic) код P0171 часто указывает на утечку вакуума в патрубках или неисправность датчика массового расхода воздуха (MAF), что критично для точной работы системы VTEC.",
+      "common_fix_ru": "Замена датчика MAF (от 3 500 руб.) или ремонт трещин в резиновых патрубках впуска (от 1 200 руб.) — наиболее частые решения на российском рынке.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0420": {
+      "note_ru": "Для Хонда код P0420 часто указывает на износ катализатора или неисправность датчика кислорода (лямбда-зонда) из-за специфики работы двигателей серии Earth Dreams.",
+      "common_fix_ru": "В 90% случаев на российских Хонда помогает замена переднего лямбда-зонда (15 000–25 000 руб.), реже требуется замена самого катализатора (от 45 000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "system_id": "exhaust",
+      "can_drive": "yes_caution"
+    },
+    "P0128": {
+      "note_ru": "Код P0128 для Honda означает, что двигатель не достигает рабочей температуры в течение заданного времени, что часто связано с заклинившим в открытом положении термостатом или неисправностью датчика температуры охлаждающей жидкости.",
+      "common_fix_ru": "Замена термостата и прокладки на оригинал или качественный аналог (например, GMB, Denso) стоит от 4 500 до 9 000 рублей с учетом работы в сервисе.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "system_id": "cooling",
+      "can_drive": "no_stop"
+    },
+    "P0299": {
+      "note_ru": "Код P0299 на российских Хондах (Accord, CR-V, Civic) встречается крайне редко и обычно указывает на утечку в системе наддува или неисправность датчика давления, а не на массовую проблему двигателя.",
+      "common_fix_ru": "Редко требует замены турбины; чаще всего помогает поиск и устранение трещин в патрубках или замена датчика MAP, что обойдется в 3000–15000 рублей.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "system_id": "intake",
+      "can_drive": "yes_safe"
+    },
+    "P0705": {
+      "note_ru": "Код P0705 на Хонде (Accord, CR-V, Civic) указывает на сбой в цепи датчика диапазона КПП (PRNDL), что часто связано с неисправностью самого датчика или окислением контактов в разъеме, расположенном на корпусе АКПП. На российских моделях это может приводить к невозможности переключения передач или включению аварийного режима (Limp Mode).",
+      "common_fix_ru": "Чаще всего помогает замена датчика диапазона КПП (около 4 500–7 000 руб.) или чистка/замена разъема (от 1 500 руб. за работу). Если проблема в проводке, потребуется диагностика жгута, что может обойтись в 3 000–5 000 руб.",
+      "frequency": "rare",
+      "severity_override": "urgent",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0700": {
+      "note_ru": "Код P0700 на Хонда (Accord, CR-V, Civic) означает, что блок управления двигателем (ECM) передал сигнал о неисправности в блок управления АКПП (TCM), но не указывает конкретную причину. Для владельцев это критический сигнал, требующий немедленного сканирования именно TCM, так как без него невозможно определить, сработала ли защита от перегрева, ошибка датчика скорости или проблема с соленоидом.",
+      "common_fix_ru": "Чаще всего помогает перепрошивка TCM (от 5 000 до 12 000 руб.) или замена неисправного соленоида/датчика скорости (запчасти + работа от 8 000 до 25 000 руб.). В редких случаях требуется замена всего блока TCM (от 35 000 руб.) или ремонт гидроблока (от 40 000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0730": {
+      "note_ru": "Код P0730 на Хонда (Accord, CR-V, Civic) указывает на несоответствие фактического передаточного числа расчетному, что часто связано с износом фрикционов или проблемами гидроблока в АКПП. В отличие от массовых ошибок, этот код редко встречается в отзывах владельцев, что говорит о его специфичности для конкретных случаев поломки.",
+      "common_fix_ru": "Чаще всего требуется замена фрикционных дисков и ремонт гидротрансформатора, либо чистка/замена соленоидов гидроблока; стоимость работ в 2024-2026 годах составит от 45 000 до 120 000 рублей в зависимости от модели и глубины ремонта.",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "C0035": {
+      "note_ru": "Код C0035 на Хонде (Accord, CR-V, Civic) указывает на обрыв цепи датчика скорости левого переднего колеса, что критично для работы ABS и системы стабилизации. В отличие от массовых ошибок, эта неисправность крайне редко встречается в отзывах владельцев и обычно связана с физическим повреждением проводки или самого датчика.",
+      "common_fix_ru": "Замена датчика скорости левого переднего колеса (оригинал Honda или качественный аналог) стоит от 3500 до 7000 рублей, плюс 1500–2500 рублей за работу по диагностике и замене.",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "system_id": "brake-control",
+      "can_drive": "no_stop"
+    },
+    "C0265": {
+      "note_ru": "Код C0265 на Хонде указывает на неисправность цепи реле модуля управления ABS (EBCM), что часто встречается на Accord и CR-V при проблемах с проводкой или самим блоком. В базе знаний владельцев этот код иногда путают с ошибками SRS, но он относится именно к тормозной системе и требует немедленной проверки напряжения.",
+      "common_fix_ru": "Чаще всего помогает замена предохранителя EBCM или ремонт окисленных контактов в разъеме блока ABS; при неисправности самого модуля замена на б/у или восстановленный блок стоит от 15 000 до 45 000 рублей.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "system_id": "brakes",
+      "can_drive": "no_danger"
+    },
+    "C0561": {
+      "note_ru": "Код C0561 крайне редок для автомобилей Honda на российском рынке и не зафиксирован в базах владельцев Accord, CR-V или Civic, что указывает на возможную ошибку сканера или специфическую прошивку.",
+      "common_fix_ru": "Поскольку проблема не является типичной для модели, стандартный ремонт не применим; рекомендуется переподключить диагностический сканер или обновить ПО модуля ABS/ESP у официального дилера (от 5 000 до 15 000 руб.).",
+      "frequency": "rare",
+      "severity_override": null
+    },
+    "B1310": {
+      "note_ru": "Код B1310 на Хонда (Accord, CR-V, Civic) указывает на неисправность цепи привода мотора заслонки рециркуляции воздуха в системе HVAC, что часто встречается на моделях 2018–2023 годов.",
+      "common_fix_ru": "Редкий код для российских владельцев, обычно требует замены мотора заслонки или ремонта проводки; стоимость запчастей и работы в 2024–2026 годах составит 15 000–25 000 рублей.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "system_id": "body",
+      "can_drive": "yes_safe"
+    },
+    "B0001": {
+      "note_ru": "Код B0001 на Honda крайне редок и обычно указывает на неисправность цепи датчика удара или модуля подушки водителя, а не на саму подушку.",
+      "common_fix_ru": "Требуется замена модуля подушки водителя или диагностика проводки в руле; стоимость работ в РФ составляет от 15 000 до 35 000 рублей.",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "system_id": "sensors",
+      "can_drive": "no_stop"
+    },
+    "U0100": {
+      "note_ru": "Код U0100 на Хонда (Accord, CR-V, Civic) указывает на потерю связи с ЭБУ двигателя по шине CAN, что часто вызвано окислением контактов в разъеме или обрывом провода в жгуте, особенно в зонах вибрации.",
+      "common_fix_ru": "В 80% случаев помогает чистка контактов разъема ЭБУ и проверка массы за 1500–3000 руб.; если проблема в жгуте, замена участка провода обойдется в 5000–12000 руб.",
+      "frequency": "rare",
+      "severity_override": "urgent",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "U0155": {
+      "note_ru": "Код U0155 на Хонда (Accord, CR-V, Civic) означает потерю связи с приборной панелью, что часто связано с неисправностью CAN-шины или плохим контактом в разъеме под рулевой колонкой.",
+      "common_fix_ru": "В России чаще всего помогает переподключение разъема или замена модуля приборной панели (от 15 000 до 45 000 руб.), так как самостоятельный ремонт редок.",
+      "frequency": "rare",
+      "severity_override": "urgent",
+      "system_id": "audio",
+      "can_drive": "yes_caution"
+    },
+    "P1106": {
+      "note_ru": "Ненормальные показания барометрического датчика давления",
+      "note_en": "BARO Sensor Circuit Range/Performance Malfunction",
+      "common_fix_ru": "Проверка и замена датчика барометрического давления (от 3000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup+engine-light-help.com"
+    },
+    "P1107": {
+      "note_ru": "Сигнал от датчика слишком слабый, компьютер получает неверные данные о давлении. Двигатель может работать с перебоями.",
+      "note_en": "BARO Circuit Low Input",
+      "common_fix_ru": "Замена датчика BARO (1500-4000 руб.) или ремонт обрыва в проводке (500-1500 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1108": {
+      "note_ru": "Сигнал от датчика слишком сильный, что указывает на неисправность датчика или проводки. Машина может работать неэффективно.",
+      "note_en": "BARO Circuit High Input",
+      "common_fix_ru": "Замена датчика BARO (1500-4000 руб.) или устранение замыкания в цепи (500-1500 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1121": {
+      "note_ru": "Положение дроссельной заслонки ниже ожидаемого -- может вызвать провалы при разгоне",
+      "note_en": "Throttle Position Lower Than Expected",
+      "common_fix_ru": "Чистка дроссельной заслонки (от 1500 руб.) или замена TPS (от 3000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup+engine-light-help.com"
+    },
+    "P1122": {
+      "note_ru": "Заслонка не закрывается полностью, двигатель может работать на повышенных оборотах. Это опасно и может привести к поломке.",
+      "note_en": "Throttle Position Higher Than Expected",
+      "common_fix_ru": "Чистка или замена дроссельной заслонки (1500-4000 руб.) или ремонт привода (3000-10000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1128": {
+      "note_ru": "Показания MAP-датчика ниже ожидаемых -- возможен подсос воздуха",
+      "note_en": "MAP Lower Than Expected",
+      "common_fix_ru": "Проверка вакуумных шлангов и MAP-датчика (от 1000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup+engine-light-help.com"
+    },
+    "P1129": {
+      "note_ru": "Давление в двигателе выше нормы, смесь слишком богатая. Повышается расход топлива и нагрузка на двигатель.",
+      "note_en": "MAP Higher Than Expected",
+      "common_fix_ru": "Замена датчика MAP (2000-5000 руб.) или устранение подсоса воздуха (1000-3000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1259": {
+      "note_ru": "Неисправность системы VTEC (задний банк) -- низкое давление масла или неисправность соленоида",
+      "note_en": "VTEC System Malfunction",
+      "common_fix_ru": "Замена фильтра VTEC, соленоида (от 3000 руб.), проверка масляного насоса.",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "dsoprea/DtcLookup+engine-light-help.com"
+    },
+    "P1297": {
+      "note_ru": "Низкий уровень сигнала детектора электрической нагрузки (ELD)",
+      "note_en": "ELD Circuit Low Input",
+      "common_fix_ru": "Замена датчика ELD в блоке предохранителей (от 2000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup+engine-light-help.com"
+    },
+    "P1298": {
+      "note_ru": "Повышенное напряжение в цепи детектора электрической нагрузки (ELD)",
+      "note_en": "ELD Circuit High Input",
+      "common_fix_ru": "Замена датчика ELD (от 2000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup+engine-light-help.com"
+    },
+    "P1300": {
+      "note_ru": "Двигатель пропускает воспламенение в разных цилиндрах, сильно трясется и теряет мощность. Ездить нельзя, можно сжечь катализатор.",
+      "note_en": "Random Misfire",
+      "common_fix_ru": "Замена свечей, катушек или форсунок (2000-10000 руб.) в зависимости от причины.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1336": {
+      "note_ru": "Проблема диапазона/производительности датчика коленвала B (CKP)",
+      "note_en": "Crankshaft Speed Fluctuation Sensor Intermittant Interruption",
+      "common_fix_ru": "Замена датчика CKP (от 2500 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup+engine-light-help.com"
+    },
+    "P1337": {
+      "note_ru": "Компьютер совсем не видит коленвал, двигатель может не завестись или сразу заглохнуть. Ездить категорически нельзя.",
+      "note_en": "Crankshaft Speed Fluctuation Sensor No Signal",
+      "common_fix_ru": "Замена датчика положения коленвала (1500-4000 руб.) или ремонт зубчатого диска (3000-10000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1359": {
+      "note_ru": "Отсоединение разъема датчика CKP/TDC -- часто из-за вибрации двигателя",
+      "note_en": "Crankshaft Position/TDC/Cylinder Position Sensor Connector Disconnection",
+      "common_fix_ru": "Проверка и фиксация разъема датчика; замена датчика (от 3000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dsoprea/DtcLookup+engine-light-help.com"
+    },
+    "P1361": {
+      "note_ru": "Периодическое прерывание сигнала датчика ВМТ (TDC)",
+      "note_en": "TDC Sensor Intermittent Interruption",
+      "common_fix_ru": "Замена датчика TDC (от 3000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup+engine-light-help.com"
+    },
+    "P1362": {
+      "note_ru": "Полное отсутствие сигнала от датчика ВМТ, двигатель не запустится или заглохнет. Машина обездвижена, нужна эвакуация.",
+      "note_en": "TDC 1 Sensor No Signal",
+      "common_fix_ru": "Замена датчика ВМТ (1500-4000 руб.) или ремонт проводки (500-1500 руб.).",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1366": {
+      "note_ru": "Компьютер иногда не видит второй датчик ВМТ, двигатель работает с перебоями. Ездить опасно, возможен внезапный останов.",
+      "note_en": "TDC 2 Sensor Intermittent",
+      "common_fix_ru": "Замена датчика ВМТ (1500-4000 руб.) или ремонт проводки (500-1500 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1367": {
+      "note_ru": "Полное отсутствие сигнала от второго датчика ВМТ, двигатель не запустится или заглохнет. Машина обездвижена, нужна эвакуация.",
+      "note_en": "TDC 2 Sensor No Signal",
+      "common_fix_ru": "Замена датчика ВМТ (1500-4000 руб.) или ремонт проводки (500-1500 руб.).",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1381": {
+      "note_ru": "Компьютер иногда не видит положение цилиндров, двигатель работает нестабильно. Есть риск внезапной остановки.",
+      "note_en": "Cylinder Position Sensor Intermittant Inturruption",
+      "common_fix_ru": "Замена датчика положения цилиндра (1500-4000 руб.) или ремонт проводки (500-1500 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1382": {
+      "note_ru": "Полное отсутствие сигнала от датчика цилиндров, двигатель не запустится или заглохнет. Машина обездвижена, нужна эвакуация.",
+      "note_en": "Cylinder Position Sensor No Signal",
+      "common_fix_ru": "Замена датчика положения цилиндра (1500-4000 руб.) или ремонт проводки (500-1500 руб.).",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1456": {
+      "note_ru": "Обнаружена утечка в системе улавливания паров топлива (бак) -- частая ошибка Honda, часто из-за крышки бака",
+      "note_en": "EVAP System Leak Detected (Fuel Tank System)",
+      "common_fix_ru": "Замена крышки бензобака (от 500 руб.) или проверка шлангов EVAP.",
+      "frequency": "common",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup+engine-light-help.com"
+    },
+    "P1457": {
+      "note_ru": "Обнаружена утечка в системе адсорбера (канистра EVAP) -- частая ошибка Honda",
+      "note_en": "EVAP Control System Leak Detected (Control Canister System)",
+      "common_fix_ru": "Замена клапана продувки адсорбера (от 2000 руб.) или замена канистры (от 5000 руб.).",
+      "frequency": "common",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup+engine-light-help.com"
+    },
+    "P1491": {
+      "note_ru": "Обнаружен недостаточный подъем клапана EGR",
+      "note_en": "EGR Valve Lift Insufficient Detected",
+      "common_fix_ru": "Чистка или замена клапана EGR (от 3000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup+engine-light-help.com"
+    },
+    "P1498": {
+      "note_ru": "Электроника не видит, где находится клапан EGR. Машина может работать нестабильно на холостых.",
+      "note_en": "Voltage Problem In EGR Valve Position Sensor Circuit",
+      "common_fix_ru": "Замена датчика положения клапана EGR или ремонт проводки (2500-6000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1508": {
+      "note_ru": "Неисправность цепи клапана холостого хода (IAC)",
+      "note_en": "Idle Air Control Valve Circuit Failure",
+      "common_fix_ru": "Замена клапана IAC (от 3000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dsoprea/DtcLookup+engine-light-help.com"
+    },
+    "P1519": {
+      "note_ru": "Неисправность цепи клапана регулировки холостого хода (IACV)",
+      "note_en": "IAC Valve Circuit Failure",
+      "common_fix_ru": "Замена IACV (от 3000 руб.) или чистка дроссельного узла.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dsoprea/DtcLookup+engine-light-help.com"
+    },
+    "P1607": {
+      "note_ru": "Внутренняя ошибка блока управления двигателем (ECM) -- требуется перепрошивка или замена",
+      "note_en": "ECM/PCM Internal Circuit Failure",
+      "common_fix_ru": "Перепрошивка ECM у дилера (от 3000 руб.) или замена блока (от 15000 руб.).",
+      "frequency": "rare",
+      "severity_override": "urgent",
+      "source": "dsoprea/DtcLookup+engine-light-help.com"
+    },
+    "P1656": {
+      "note_ru": "Автоматическая коробка передач не получает данные о скорости. Передачи могут не включаться или рывками.",
+      "note_en": "Automatic Transaxle",
+      "common_fix_ru": "Замена датчика скорости автомобиля или ремонт проводки (2000-6000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1660": {
+      "note_ru": "Неисправность линии данных АКПП/FI (связь между ECM и TCM)",
+      "note_en": "A/T FI Data Line Failure",
+      "common_fix_ru": "Проверка проводки данных АКПП (от 2000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup+engine-light-help.com"
+    },
+    "P1676": {
+      "note_ru": "Сигнал от педали газа или дросселя некорректен. Машина может дергаться при разгоне.",
+      "note_en": "FPTDR Signal Line Failure",
+      "common_fix_ru": "Замена датчика положения дроссельной заслонки или ремонт проводки (3000-7000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1678": {
+      "note_ru": "Сигнал от педали газа или дросселя некорректен. Машина может дергаться при разгоне.",
+      "note_en": "FPTDR Signal Line Failure",
+      "common_fix_ru": "Замена датчика положения дроссельной заслонки или ремонт проводки (3000-7000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1681": {
+      "note_ru": "Сигнал от педали газа слишком слабый. Машина может не набирать обороты или глохнуть.",
+      "note_en": "A/T FI Signal A Low Input",
+      "common_fix_ru": "Замена датчика положения дроссельной заслонки или ремонт проводки (3000-7000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1682": {
+      "note_ru": "Сигнал от педали газа слишком сильный. Машина может дергаться или не реагировать на педаль.",
+      "note_en": "A/T FI Signal A High Input",
+      "common_fix_ru": "Замена датчика положения дроссельной заслонки или ремонт проводки (3000-7000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1686": {
+      "note_ru": "Сигнал от педали газа слишком слабый. Машина может не набирать обороты или глохнуть.",
+      "note_en": "A/T FI Signal B Low Input",
+      "common_fix_ru": "Замена датчика положения дроссельной заслонки или ремонт проводки (3000-7000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1687": {
+      "note_ru": "Сигнал от педали газа слишком сильный. Машина может дергаться или не реагировать на педаль.",
+      "note_en": "A/T FI Signal B High Input",
+      "common_fix_ru": "Замена датчика положения дроссельной заслонки или ремонт проводки (3000-7000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1705": {
+      "note_ru": "Короткое замыкание в цепи датчика положения селектора АКПП",
+      "note_en": "Automatic Transaxle",
+      "common_fix_ru": "Замена датчика положения селектора (от 5000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dsoprea/DtcLookup+engine-light-help.com"
+    },
+    "P1706": {
+      "note_ru": "Автоматическая коробка передач не видит скорость. Передачи могут не включаться или рывками.",
+      "note_en": "Automatic Transaxle",
+      "common_fix_ru": "Замена датчика скорости автомобиля или ремонт проводки (2000-6000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1709": {
+      "note_ru": "Автоматическая коробка передач не видит скорость. Передачи могут не включаться или рывками.",
+      "note_en": "Automatic Transaxle",
+      "common_fix_ru": "Замена датчика скорости автомобиля или ремонт проводки (2000-6000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1710": {
+      "note_ru": "Автоматическая коробка передач не видит скорость. Передачи могут не включаться или рывками.",
+      "note_en": "Automatic Transaxle",
+      "common_fix_ru": "Замена датчика скорости автомобиля или ремонт проводки (2000-6000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1713": {
+      "note_ru": "Автоматическая коробка передач не видит скорость. Передачи могут не включаться или рывками.",
+      "note_en": "Automatic Transaxle",
+      "common_fix_ru": "Замена датчика скорости автомобиля или ремонт проводки (2000-6000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1738": {
+      "note_ru": "Нарушена работа гидравлической системы коробки, возможны рывки при переключении передач. Ездить опасно, возможен полный отказ АКПП.",
+      "note_en": "Automatic Transaxle",
+      "common_fix_ru": "Замена соленоидов давления в АКПП (15000-35000 руб.) или ремонт гидроблока (25000-50000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1739": {
+      "note_ru": "Проблема с блокировкой гидротрансформатора, машина может перегреваться и терять динамику. Требуется срочная диагностика.",
+      "note_en": "Automatic Transaxle",
+      "common_fix_ru": "Замена соленоида блокировки или ремонт гидротрансформатора (20000-60000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1740": {
+      "note_ru": "Давление в гидросистеме слишком низкое, коробка может не включать передачи. Риск заклинивания АКПП на ходу.",
+      "note_en": "Automatic Transaxle",
+      "common_fix_ru": "Замена соленоида давления (10000-25000 руб.) или замена масла и промывка системы (5000-10000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1753": {
+      "note_ru": "Неисправность соленоида блокировки АКПП A",
+      "note_en": "Automatic Transaxle",
+      "common_fix_ru": "Замена соленоида или ремонт АКПП (от 5000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dsoprea/DtcLookup+engine-light-help.com"
+    },
+    "P1758": {
+      "note_ru": "Проблема с управлением давлением в конкретной передаче, возможны рывки. Не критично для движения, но требует внимания.",
+      "note_en": "Automatic Transaxle",
+      "common_fix_ru": "Замена соленоида давления (10000-25000 руб.) или ремонт проводки (3000-8000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1768": {
+      "note_ru": "Нарушение работы соленоида давления, возможна блокировка коробки в аварийном режиме. Ездить нельзя.",
+      "note_en": "Automatic Transaxle",
+      "common_fix_ru": "Замена соленоида давления (15000-35000 руб.) или ремонт гидроблока (30000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1773": {
+      "note_ru": "Проблема с соленоидом давления, возможны задержки переключения. Машина едет, но с потерей эффективности.",
+      "note_en": "Automatic Transaxle",
+      "common_fix_ru": "Замена соленоида давления (12000-30000 руб.) или замена масла (5000-10000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1778": {
+      "note_ru": "Неисправность в цепи управления давлением, возможны рывки при разгоне. Требуется диагностика и ремонт.",
+      "note_en": "Automatic Transaxle",
+      "common_fix_ru": "Замена соленоида давления (10000-25000 руб.) или чистка гидроблока (15000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1786": {
+      "note_ru": "Некорректные данные о скорости, коробка может не переключать передачи. Машина может заглохнуть или не тронуться.",
+      "note_en": "Automatic Transaxle",
+      "common_fix_ru": "Замена датчика скорости или ремонт проводки (5000-15000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1790": {
+      "note_ru": "Неисправность цепи TPS в блоке АКПП (TCM)",
+      "note_en": "Automatic Transaxle",
+      "common_fix_ru": "Проверка проводки TPS к TCM (от 2000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup+engine-light-help.com"
+    },
+    "P1791": {
+      "note_ru": "Некорректные данные о температуре масла, возможны ошибки в переключении передач. Ездить можно, но с осторожностью.",
+      "note_en": "Automatic Transaxle",
+      "common_fix_ru": "Замена датчика температуры масла АКПП (3000-8000 руб.) или ремонт проводки (2000-5000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1792": {
+      "note_ru": "Некорректные данные о температуре масла, возможны ошибки в переключении передач. Ездить можно, но с осторожностью.",
+      "note_en": "Automatic Transaxle",
+      "common_fix_ru": "Замена датчика температуры масла АКПП (3000-8000 руб.) или ремонт проводки (2000-5000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1794": {
+      "note_ru": "Некорректные данные о температуре масла, возможны ошибки в переключении передач. Ездить можно, но с осторожностью.",
+      "note_en": "Automatic Transaxle",
+      "common_fix_ru": "Замена датчика температуры масла АКПП (3000-8000 руб.) или ремонт проводки (2000-5000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1149": {
+      "note_ru": "Проблема диапазона/производительности первичного кислородного датчика (A/F сенсор)",
+      "note_en": "Primary HO2S (Sensor 1) Circuit Range/Performance Problem",
+      "common_fix_ru": "Замена датчика A/F (от 6000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup+engine-light-help.com"
+    },
+    "P1162": {
+      "note_ru": "Неисправность цепи первичного кислородного датчика (банк 1, сенсор 1)",
+      "note_en": "Primary HO2S (No. 1) Circuit Malfunction",
+      "common_fix_ru": "Замена лямбда-зонда (от 5000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup+engine-light-help.com"
+    },
+    "P1163": {
+      "note_ru": "Датчик кислорода реагирует слишком медленно, смесь топлива и воздуха не оптимизирована. Повышается расход топлива.",
+      "note_en": "Primary HO2S (No. 1) Circuit Slow Response",
+      "common_fix_ru": "Замена лямбда-зонда (3000-10000 руб.) или очистка разъема (500 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1164": {
+      "note_ru": "Датчик кислорода выдает неверные данные, двигатель работает неэффективно. Повышается расход топлива и выбросы.",
+      "note_en": "Primary HO2S (No. 1) Circuit Range/Performance",
+      "common_fix_ru": "Замена лямбда-зонда (3000-10000 руб.) или очистка разъема (500 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1165": {
+      "note_ru": "Датчик кислорода выдает неверные данные, двигатель работает неэффективно. Повышается расход топлива и выбросы.",
+      "note_en": "Primary HO2S (No. 1) Circuit Range/Performance",
+      "common_fix_ru": "Замена лямбда-зонда (3000-10000 руб.) или очистка разъема (500 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1166": {
+      "note_ru": "Неисправность в цепи подогрева датчика, он не прогревается и не работает. Двигатель работает неэффективно.",
+      "note_en": "Primary HO2S (No. 1) Heater System Electrical",
+      "common_fix_ru": "Замена лямбда-зонда (3000-10000 руб.) или ремонт проводки (2000-5000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1167": {
+      "note_ru": "Неисправность в цепи подогрева датчика, он не прогревается и не работает. Двигатель работает неэффективно.",
+      "note_en": "Primary HO2S (No. 1) Heater System",
+      "common_fix_ru": "Замена лямбда-зонда (3000-10000 руб.) или ремонт проводки (2000-5000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1168": {
+      "note_ru": "Датчик показывает слишком низкое напряжение, что может привести к перерасходу топлива и нестабильной работе двигателя.",
+      "note_en": "Primary HO2S (No. 1) LABEL Low Input",
+      "common_fix_ru": "Замена переднего датчика кислорода (1500-4000 руб.) или проверка проводки (500-1500 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1169": {
+      "note_ru": "Датчик показывает слишком высокое напряжение, двигатель может работать неэффективно и потреблять больше бензина.",
+      "note_en": "Primary HO2S (No. 1) LABEL High Input",
+      "common_fix_ru": "Замена переднего датчика кислорода (1500-4000 руб.) или замена проводки (500-1500 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1253": {
+      "note_ru": "Неисправность системы VTEC -- проблема с давлением масла или соленоидом VTEC",
+      "note_en": "VTEC System Malfunction",
+      "common_fix_ru": "Замена соленоида VTEC (от 3000 руб.) или проверка давления масла.",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "dsoprea/DtcLookup+engine-light-help.com"
+    },
+    "P1257": {
+      "note_ru": "Неисправность системы VTEC (банк 2, передний) -- проблема с давлением масла",
+      "note_en": "VTEC System Malfunction",
+      "common_fix_ru": "Замена соленоида VTEC (от 3000 руб.) и проверка давления масла.",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup+engine-light-help.com"
+    },
+    "P1258": {
+      "note_ru": "Низкое давление масла или неисправность клапана VTEC, двигатель может выйти из строя при высоких нагрузках.",
+      "note_en": "VTEC System Malfunction",
+      "common_fix_ru": "Замена клапана VTEC или замена масла и фильтра (3000-7000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1459": {
+      "note_ru": "Неисправность переключателя потока продувки EVAP",
+      "note_en": "EVAP Emission Purge Flow Switch Malfunction",
+      "common_fix_ru": "Замена клапана продувки адсорбера (от 2000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "low",
+      "source": "dsoprea/DtcLookup+engine-light-help.com"
+    },
+    "P1486": {
+      "note_ru": "Двигатель не выходит на рабочую температуру или перегревается, что опасно для мотора.",
+      "note_en": "Thermostat Range/Performance Problem",
+      "common_fix_ru": "Замена термостата (2000-5000 руб.) или замена помпы (3000-7000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1509": {
+      "note_ru": "Двигатель глохнет на холостых оборотах или работает нестабильно, могут быть проблемы с запуском.",
+      "note_en": "IAC Valve Circuit Failure",
+      "common_fix_ru": "Замена клапана холостого хода (2000-5000 руб.) или чистка дроссельной заслонки (1000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1655": {
+      "note_ru": "Неисправность линии связи TMA/TMB (сигналы между ECM и TCM)",
+      "note_en": "SEAF/SEFA/TMA/TMB Signal Line Failure",
+      "common_fix_ru": "Проверка проводки между ECM и TCM (от 2000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup+engine-light-help.com"
+    },
+    "P1785": {
+      "note_ru": "Проблемы с переключением передач, коробка может застрять на одной передаче или дергаться.",
+      "note_en": "Automatic Transaxle Concerns",
+      "common_fix_ru": "Замена соленоида давления в АКПП (3000-6000 руб.) или ремонт гидроблока (15000-30000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1793": {
+      "note_ru": "Компьютер не понимает, какую передачу вы выбрали, возможны ошибки при переключении.",
+      "note_en": "Automatic Transaxle Concerns",
+      "common_fix_ru": "Замена датчика положения селектора АКПП (2000-4000 руб.) или ремонт проводки (1000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1870": {
+      "note_ru": "Износ фрикционов в коробке передач, возможны пробуксовки и сильный износ деталей.",
+      "note_en": "Automatic Transaxle Concerns",
+      "common_fix_ru": "Замена пакета фрикционов или ремонт АКПП (20000-50000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1873": {
+      "note_ru": "Проблемы с блокировкой гидротрансформатора, двигатель может глохнуть при остановке или перегреваться.",
+      "note_en": "Automatic Transaxle Concerns",
+      "common_fix_ru": "Замена соленоида блокировки гидротрансформатора (3000-6000 руб.) или ремонт АКПП (15000-30000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1879": {
+      "note_ru": "Некорректное давление в гидросистеме, возможны рывки и задержки при переключении передач.",
+      "note_en": "Automatic Transaxle Concerns",
+      "common_fix_ru": "Замена соленоида давления в АКПП (3000-6000 руб.) или ремонт гидроблока (15000-30000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1885": {
+      "note_ru": "Сбой в работе соленоида давления, коробка может работать в аварийном режиме.",
+      "note_en": "Automatic Transaxle Concerns",
+      "common_fix_ru": "Замена соленоида давления в АКПП (3000-6000 руб.) или ремонт гидроблока (15000-30000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1886": {
+      "note_ru": "Проблемы с управлением давлением в АКПП, возможны рывки и задержки при переключении.",
+      "note_en": "Automatic Transaxle Concerns",
+      "common_fix_ru": "Замена соленоида давления в АКПП (3000-6000 руб.) или ремонт гидроблока (15000-30000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1888": {
+      "note_ru": "Сбой в работе соленоида давления, коробка может работать в аварийном режиме.",
+      "note_en": "Automatic Transaxle Concerns",
+      "common_fix_ru": "Замена соленоида давления в АКПП (3000-6000 руб.) или ремонт гидроблока (15000-30000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1890": {
+      "note_ru": "Проблемы с управлением давлением в АКПП, возможны рывки и задержки при переключении.",
+      "note_en": "Automatic Transaxle Concerns",
+      "common_fix_ru": "Замена соленоида давления в АКПП (3000-6000 руб.) или ремонт гидроблока (15000-30000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1891": {
+      "note_ru": "Сбой в работе соленоида давления, коробка может работать в аварийном режиме.",
+      "note_en": "Automatic Transaxle Concerns",
+      "common_fix_ru": "Замена соленоида давления в АКПП (3000-6000 руб.) или ремонт гидроблока (15000-30000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1100": {
+      "common_fix_ru": "Замена датчика MAP (2000-5000 руб.) или проверка проводки (500-1500 руб.).",
+      "note_ru": "Двигатель не получает данные о давлении во впуске, что приводит к плохой тяге и повышенному расходу топлива.",
+      "severity_override": "high"
+    },
+    "P1009": {
+      "note_ru": "Неисправность системы изменения фаз газораспределения (VTC) -- частая проблема на Honda K-серии двигателей",
+      "common_fix_ru": "Замена сетчатого фильтра VTC (от 500 руб.), соленоида VTC (от 3000 руб.) или актуатора VTC (от 8000 руб.).",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "engine-light-help.com",
+      "note_en": "Variable Valve Timing Control (VTC) Advance Malfunction"
+    },
+    "P2646": {
+      "note_ru": "Привод коромысел 'A' (VTEC) не работает или заклинил -- частая ошибка Honda K-серии и R-серии двигателей",
+      "common_fix_ru": "Замена сборки VTEC-соленоида с маслодатчиком (от 5000 руб.), замена масла на 0W-20.",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "crvownersclub.com",
+      "note_en": "'A' Rocker Arm Actuator System Performance/Stuck Off (VTEC)",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P2647": {
+      "note_ru": "Привод коромысел 'A' (VTEC) заклинил во включенном положении",
+      "common_fix_ru": "Замена VTEC-соленоида и масляного датчика давления (от 5000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "crvownersclub.com",
+      "note_en": "'A' Rocker Arm Actuator System Stuck On (VTEC)",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P2648": {
+      "note_ru": "Низкий уровень сигнала в цепи привода коромысел 'A' (VTEC)",
+      "common_fix_ru": "Проверка проводки и замена соленоида VTEC (от 3000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "engine-light-help.com",
+      "note_en": "'A' Rocker Arm Actuator Control Circuit Low (VTEC)",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P3400": {
+      "note_ru": "Неисправность системы отключения цилиндров (VCM) банк 1 -- встречается на V6 Honda (Accord, Pilot, Odyssey)",
+      "common_fix_ru": "Замена соленоидов VCM (от 5000 руб.) или отключение системы VCM через тюнер.",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "dtcdecode.com",
+      "note_en": "Cylinder Deactivation System Bank 1 (VCM)",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P3497": {
+      "note_ru": "Неисправность системы отключения цилиндров (VCM) банк 2 -- типично для J-серии V6",
+      "common_fix_ru": "Замена соленоидов VCM (от 5000 руб.).",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "dtcdecode.com",
+      "note_en": "Cylinder Deactivation System Bank 2 (VCM)",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "U0028": {
+      "note_ru": "Ошибка шины F-CAN (потеря связи PCM) -- критическая, влияет на все системы",
+      "common_fix_ru": "Проверка CAN-шины, разъемов ECU, предохранителей (от 3000 руб.).",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "source": "hcrv.net",
+      "note_en": "F-CAN Malfunction (BUS-OFF, PCM)"
+    },
+    "U0107": {
+      "note_ru": "Потеря связи с модулем управления дроссельной заслонкой",
+      "common_fix_ru": "Проверка проводки дроссельного узла и CAN-шины (от 3000 руб.).",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "source": "dtcdecode.com",
+      "note_en": "Lost Communication with Throttle Actuator Control Module"
+    },
+    "U0122": {
+      "note_ru": "Потеря связи с модулем VSA (система стабилизации Honda)",
+      "common_fix_ru": "Проверка CAN-шины и модуля VSA (от 5000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtcdecode.com",
+      "note_en": "Lost Communication with Vehicle Dynamics Control (VSA) Module",
+      "system_id": "brakes",
+      "can_drive": "yes_caution"
+    }
+  }
+}

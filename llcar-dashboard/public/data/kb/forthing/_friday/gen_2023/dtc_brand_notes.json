@@ -1,0 +1,1027 @@
+{
+  "brand": "forthing",
+  "model": "forthing__friday",
+  "updated": "2026-03-29",
+  "codes": {
+    "P0300": {
+      "note_ru": "Для моделей Fortin (T5, T5 EVO, U Tour) код P0300 указывает на пропуски зажигания сразу в нескольких цилиндрах, что часто связано с нестабильной работой системы зажигания или подачей топлива на российском бензине.",
+      "common_fix_ru": "В 90% случаев проблема решается заменой комплекта свечей зажигания и катушек (около 15 000–25 000 руб.), реже требуется чистка форсунок или проверка датчика положения коленвала.",
+      "frequency": "rare",
+      "severity_override": "urgent",
+      "system_id": "ignition",
+      "can_drive": "yes_caution"
+    },
+    "P0171": {
+      "note_ru": "Код P0171 для двигателей Forthing (T5/T5 EVO) встречается крайне редко и обычно указывает на нештатные утечки воздуха во впускном коллекторе или неисправность датчика массового расхода воздуха (MAF), а не на типичные для марки проблемы.",
+      "common_fix_ru": "В 90% случаев помогает чистка дроссельной заслонки и замена датчика MAF (запчасть 4500–7000 руб., работа 2500 руб.), либо поиск утечки через герметизацию патрубков (от 3000 руб.).",
+      "frequency": "rare",
+      "severity_override": "info",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0420": {
+      "note_ru": "Код P0420 для Forthing крайне редок и обычно не связан с конструктивными особенностями, а указывает на естественный износ катализатора или неисправность датчиков кислорода из-за качества топлива.",
+      "common_fix_ru": "В 90% случаев помогает замена лямбда-зондов (15 000–25 000 руб.) или промывка/замена катализатора (от 45 000 руб. за б/у, от 120 000 руб. за новый оригинал).",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "system_id": "exhaust",
+      "can_drive": "yes_caution"
+    },
+    "P0128": {
+      "note_ru": "Код P0128 на Фортинг (T5, T5 EVO, U TOUR) указывает на то, что двигатель не достигает рабочей температуры в течение заданного времени, что критично для гибридной системы из-за риска перегрева электромоторов при частых коротких поездках.",
+      "common_fix_ru": "Наиболее частая причина — заклинивший термостат или неисправность датчика температуры охлаждающей жидкости; замена термостата в сервисе в России стоит от 15 000 до 25 000 рублей с учетом работы.",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "system_id": "cooling",
+      "can_drive": "no_stop"
+    },
+    "P0299": {
+      "note_ru": "Код P0299 на Forthing (T5/T5 EVO) указывает на нештатную работу турбины или утечку в системе наддува, что критично для дизельных двигателей 2.4 и 2.8. В отличие от бензиновых моделей, на Forthing это часто связано с износом турбокомпрессора или повреждением интеркулера из-за плохого качества топлива.",
+      "common_fix_ru": "Чаще всего требуется замена турбокомпрессора (от 45 000 руб. за б/у или от 120 000 руб. за новый) или ремонт системы вентиляции картера; диагностика на СТО в Москве стоит около 3 000–5 000 руб.",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "system_id": "intake",
+      "can_drive": "yes_safe"
+    },
+    "P0705": {
+      "note_ru": "Код P0705 на Forthing (T5/T5 EVO) указывает на неисправность цепи датчика диапазона КПП (PRNDL), что часто связано с плохим контактом в разъеме или отказом самого датчика на коробке передач. Владельцы редко сталкиваются с этим кодом, так как он не является типичной «болячкой» модели.",
+      "common_fix_ru": "Чаще всего помогает замена датчика диапазона КПП (аналог или оригинал) и проверка проводки; стоимость работ и запчастей в России составляет от 8 000 до 15 000 рублей.",
+      "frequency": "rare",
+      "severity_override": "urgent",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0700": {
+      "note_ru": "Код P0700 на Forthing (T5/T5 EVO) означает, что блок управления двигателем получил сигнал о сбое от блока управления АКПП, но не указывает на конкретную деталь. В российских условиях это часто связано с перегревом гидротрансформатора или проблемами с проводкой из-за коррозии в местах подключения.",
+      "common_fix_ru": "Сначала требуется диагностика сканером для получения кодов от АКПП; замена масла и фильтра в АКПП стоит от 8 000 до 15 000 руб., а ремонт проводки или замена датчиков — от 5 000 до 25 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0730": {
+      "note_ru": "Код P0730 на Forthing (T5/T5 EVO) указывает на рассинхронизацию передаточных чисел, что часто связано с износом фрикционов в гидротрансформаторе или проблемами с соленоидами АКПП Aisin, характерными для этих моделей.",
+      "common_fix_ru": "Редкий код для отзывов владельцев Forthing; ремонт обычно требует замены пакета фрикционов или ремонта гидроблока, что в 2024-2026 годах в России обойдется от 45 000 до 120 000 рублей в зависимости от глубины дефекта.",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "C0035": {
+      "note_ru": "Код C0035 на Forthing (T5/T5 EVO) указывает на неисправность цепи датчика скорости левого переднего колеса, что критично для работы ABS и ESP. В отличие от других моделей, на Forthing это часто связано с окислением контактов в разъеме датчика или повреждением проводки из-за дорожной соли и грязи.",
+      "common_fix_ru": "Чаще всего помогает чистка разъема и замена самого датчика скорости (аналог от Denso или Toyota) за 2500–4500 рублей; при повреждении проводки потребуется ремонт жгута от 3000 рублей.",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "system_id": "brake-control",
+      "can_drive": "no_stop"
+    },
+    "C0265": {
+      "note_ru": "Код C0265 (Цепь реле EBCM) на Forthing крайне редок и в базах отзывов владельцев не зафиксирован, что указывает на единичные случаи неисправности блока ABS/ESP. Проблема требует немедленной диагностики, так как может привести к отключению систем стабилизации и торможения.",
+      "common_fix_ru": "В 95% случаев требуется замена всего блока EBCM (ABS/ESP) или ремонт его внутренней цепи, так как замена отдельного реле невозможна; стоимость запчасти и работ в РФ составляет от 45 000 до 120 000 рублей.",
+      "frequency": "rare",
+      "severity_override": "urgent",
+      "system_id": "brakes",
+      "can_drive": "no_danger"
+    },
+    "C0561": {
+      "note_ru": "Код C0561 не зафиксирован в базах данных владельцев Forthing (T5, T5 EVO, U TOUR) в России, что указывает на его редкость или специфичность для других систем/моделей. Вероятно, это ложная ошибка сканера или код, не относящийся к стандартным узлам шасси Forthing.",
+      "common_fix_ru": "Поскольку код не характерен для Forthing, массового ремонта нет; рекомендуется перепроверить сканером и при необходимости сбросить ошибку через дилерский инструмент (стоимость диагностики в РФ 2024-2026: 3 000–5 000 руб.).",
+      "frequency": "rare",
+      "severity_override": null
+    },
+    "B1310": {
+      "note_ru": "Код B1310 для Fortin T5 и U Tour является крайне редким и в официальной базе данных владельцев не зафиксирован, что указывает на возможную ошибку считывания или специфический сбой электроники кузова.",
+      "common_fix_ru": "В 90% случаев требуется перепрошивка блока управления кузовом (BCM) у официального дилера, стоимость процедуры составляет от 3 000 до 5 000 рублей.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "system_id": "body",
+      "can_drive": "yes_safe"
+    },
+    "B0001": {
+      "note_ru": "Код B0001 на Forthing (T5/T5 EVO) указывает на критическую неисправность в цепи управления подушкой водителя, что часто связано с обрывом провода в рулевой колонке или отказом датчика удара.",
+      "common_fix_ru": "Редкий код для этой модели; ремонт обычно требует замены модуля подушки безопасности или перепайки контактов в руле, стоимость в РФ составляет от 15 000 до 35 000 рублей.",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "system_id": "sensors",
+      "can_drive": "no_stop"
+    },
+    "U0100": {
+      "note_ru": "Код U0100 на Forthing (T5/T5 EVO) указывает на потерю связи с ЭБУ двигателя, что часто связано с плохим контактом в разъеме или обрывом проводки из-за вибрации, а не с отказом самого блока. В отзывах владельцев на российском рынке этот код встречается крайне редко, что делает его нетипичным для данной модели.",
+      "common_fix_ru": "В 90% случаев помогает переподключение разъема ЭБУ и проверка массы, что стоит 1500–3000 рублей в сервисе; замена проводки или самого ЭБУ (если потребуется) обойдется от 25 000 до 80 000 рублей.",
+      "frequency": "rare",
+      "severity_override": "urgent",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "U0155": {
+      "note_ru": "Код U0155 на Fortin (T5, T5 EVO, U TOUR) указывает на потерю связи с приборной панелью, что часто вызывает мигание индикаторов или некорректную работу мультимедиа. В отличие от массовых случаев, в отзывах владельцев на российском рынке зафиксированных случаев именно этой ошибки не обнаружено.",
+      "common_fix_ru": "Редкая ошибка, требующая проверки CAN-шины и контактов разъема панели приборов; стоимость диагностики в 2024-2026 гг. составит 3000–5000 руб., замена модуля — от 15 000 руб.",
+      "frequency": "rare",
+      "severity_override": "urgent",
+      "system_id": "audio",
+      "can_drive": "yes_caution"
+    },
+    "P0010": {
+      "note_ru": "Неисправность цепи управления фазорегулятора впускного распредвала.",
+      "common_fix_ru": "Проверка масла, чистка или замена клапана VVT.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0011": {
+      "note_ru": "Система изменения фаз впускного распредвала работает слишком рано.",
+      "common_fix_ru": "Замена клапана VVT или ремонт цепи ГРМ.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0012": {
+      "note_ru": "Система изменения фаз впускного распредвала работает слишком поздно.",
+      "common_fix_ru": "Замена клапана VVT или проверка натяжения цепи.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0013": {
+      "note_ru": "Неисправность цепи управления фазорегулятора выпускного распредвала.",
+      "common_fix_ru": "Проверка масла, чистка или замена клапана VVT.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0014": {
+      "note_ru": "Система изменения фаз выпускного распредвала работает слишком рано.",
+      "common_fix_ru": "Замена клапана VVT или ремонт цепи ГРМ.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0016": {
+      "note_ru": "Синхронизация коленвала и распредвала цилиндра 1 нарушена.",
+      "common_fix_ru": "Проверка цепи ГРМ, натяжителя и датчиков.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0017": {
+      "note_ru": "Синхронизация коленвала и распредвала цилиндра 2 нарушена.",
+      "common_fix_ru": "Проверка цепи ГРМ, натяжителя и датчиков.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0087": {
+      "note_ru": "Давление топлива в рампе ниже допустимого.",
+      "common_fix_ru": "Замена топливного насоса или фильтра.",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "fuel",
+      "can_drive": "no_danger"
+    },
+    "P0088": {
+      "note_ru": "Давление топлива в рампе выше допустимого.",
+      "common_fix_ru": "Проверка регулятора давления и насоса.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "fuel",
+      "can_drive": "no_stop"
+    },
+    "P0101": {
+      "note_ru": "Некорректный сигнал с датчика массового расхода воздуха.",
+      "common_fix_ru": "Чистка или замена датчика ДМРВ.",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "intake",
+      "can_drive": "yes_caution"
+    },
+    "P0102": {
+      "note_ru": "Низкий сигнал датчика массового расхода воздуха на Forthing.",
+      "common_fix_ru": "Проверить проводку, очистить или заменить датчик.",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "intake",
+      "can_drive": "yes_caution"
+    },
+    "P0106": {
+      "note_ru": "Некорректный сигнал датчика абсолютного давления в коллекторе.",
+      "common_fix_ru": "Проверить вакуумные шланги и сам датчик MAP.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0107": {
+      "note_ru": "Низкий сигнал датчика абсолютного давления в коллекторе.",
+      "common_fix_ru": "Проверить проводку, заменить датчик MAP.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0108": {
+      "note_ru": "Высокий сигнал датчика абсолютного давления в коллекторе.",
+      "common_fix_ru": "Проверить вакуумную систему, заменить датчик.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0113": {
+      "note_ru": "Высокий сигнал датчика температуры всасываемого воздуха.",
+      "common_fix_ru": "Проверить контакты, заменить датчик температуры.",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0116": {
+      "note_ru": "Некорректный сигнал датчика температуры ОЖ на Forthing.",
+      "common_fix_ru": "Проверка проводки и замена датчика.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "no_stop"
+    },
+    "P0117": {
+      "note_ru": "Низкий сигнал датчика температуры ОЖ на Forthing.",
+      "common_fix_ru": "Замена датчика или ремонт цепи.",
+      "frequency": "common",
+      "severity_override": "critical",
+      "source": "llm_enrichment",
+      "system_id": "cooling",
+      "can_drive": "no_stop"
+    },
+    "P0118": {
+      "note_ru": "Высокий сигнал датчика температуры ОЖ на Forthing.",
+      "common_fix_ru": "Проверка термостата и датчика.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "llm_enrichment",
+      "system_id": "cooling",
+      "can_drive": "no_stop"
+    },
+    "P0121": {
+      "note_ru": "Некорректный сигнал педали газа на Forthing.",
+      "common_fix_ru": "Регулировка или замена дроссела.",
+      "frequency": "common",
+      "severity_override": "critical",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "no_stop"
+    },
+    "P0122": {
+      "note_ru": "Низкий сигнал педали газа на Forthing.",
+      "common_fix_ru": "Проверка контактов и датчика.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "no_stop"
+    },
+    "P0130": {
+      "note_ru": "Неисправность цепи датчика кислорода (Bank 1, Sensor 1).",
+      "common_fix_ru": "Замена датчика кислорода или ремонт проводки.",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0131": {
+      "note_ru": "Низкое напряжение сигнала датчика кислорода (Bank 1, Sensor 1).",
+      "common_fix_ru": "Проверка проводки, замена датчика или утечка вакуума.",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0132": {
+      "note_ru": "Высокое напряжение сигнала датчика кислорода (Bank 1, Sensor 1).",
+      "common_fix_ru": "Замена датчика, проверка на подсос воздуха или топливо.",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0133": {
+      "note_ru": "Медленный отклик датчика кислорода (Bank 1, Sensor 1).",
+      "common_fix_ru": "Замена датчика, очистка или проверка системы вентиляции.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0134": {
+      "note_ru": "Отсутствие активности датчика кислорода (Bank 1, Sensor 1).",
+      "common_fix_ru": "Замена датчика, проверка нагревателя или цепи.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0135": {
+      "note_ru": "Неисправность цепи нагревателя датчика кислорода (Bank 1, Sensor 1).",
+      "common_fix_ru": "Проверка проводки и замена датчика.",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0136": {
+      "note_ru": "Неисправность цепи датчика кислорода (Bank 1, Sensor 2).",
+      "common_fix_ru": "Замена датчика или ремонт проводки.",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0172": {
+      "note_ru": "Слишком богатая топливная смесь (Bank 1).",
+      "common_fix_ru": "Проверка форсунок, датчиков и вакуума.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0174": {
+      "note_ru": "Слишком бедная топливная смесь (Bank 2).",
+      "common_fix_ru": "Поиск подсоса воздуха или проверка форсунок.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0175": {
+      "note_ru": "Слишком богатая топливная смесь (Bank 2).",
+      "common_fix_ru": "Проверка системы вентиляции бака и датчиков.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0201": {
+      "note_ru": "Неисправность цепи форсунки 1-го цилиндра. Часто встречается на Forthing.",
+      "common_fix_ru": "Проверить проводку и саму форсунку.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "fuel",
+      "can_drive": "yes_caution"
+    },
+    "P0202": {
+      "note_ru": "Ошибка цепи форсунки 2-го цилиндра. Встречается на Forthing.",
+      "common_fix_ru": "Осмотреть разъемы и заменить форсунку.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "fuel",
+      "can_drive": "yes_caution"
+    },
+    "P0203": {
+      "note_ru": "Неисправность цепи форсунки 3-го цилиндра. Характерно для Forthing.",
+      "common_fix_ru": "Проверить целостность проводов и форсунку.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "fuel",
+      "can_drive": "yes_caution"
+    },
+    "P0204": {
+      "note_ru": "Ошибка цепи форсунки 4-го цилиндра. Встречается на Forthing.",
+      "common_fix_ru": "Проверить проводку и заменить форсунку.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "fuel",
+      "can_drive": "yes_caution"
+    },
+    "P0234": {
+      "note_ru": "Перегрузка по наддуву. Часто на дизельных Forthing.",
+      "common_fix_ru": "Проверить клапан перепуска и датчик давления.",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "intake",
+      "can_drive": "yes_safe"
+    },
+    "P0301": {
+      "note_ru": "Пропуск зажигания в 1-м цилиндре. Часто на Forthing T5/T5 Pro.",
+      "common_fix_ru": "Замена свечи, катушки или проверка форсунки.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "ignition",
+      "can_drive": "yes_caution"
+    },
+    "P0302": {
+      "note_ru": "Пропуск зажигания во 2-м цилиндре. Характерно для двигателей 1.5T.",
+      "common_fix_ru": "Проверка катушки зажигания и свечей 2-го цилиндра.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "ignition",
+      "can_drive": "yes_caution"
+    },
+    "P0303": {
+      "note_ru": "Пропуск зажигания в 3-м цилиндре. Встречается при плохом топливе.",
+      "common_fix_ru": "Замена свечи, проверка катушки и чистка форсунки.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "ignition",
+      "can_drive": "yes_caution"
+    },
+    "P0304": {
+      "note_ru": "Пропуск зажигания в 4-м цилиндре. Возможна проблема с проводкой.",
+      "common_fix_ru": "Замена свечи, катушки или ремонт проводки.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "ignition",
+      "can_drive": "yes_caution"
+    },
+    "P0325": {
+      "note_ru": "Неисправность датчика детонации. Влияет на работу двигателя.",
+      "common_fix_ru": "Замена датчика детонации или проверка его контактов.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0015": {
+      "note_ru": "Некорректная работа системы изменения фаз газораспределения (Впускной распредвал, блок 1). Форсинг часто требует проверки натяжения цепи ГРМ.",
+      "common_fix_ru": "Проверка и замена цепи ГРМ, ремонт гидронатяжителя, замена датчика фаз.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0020": {
+      "note_ru": "Некорректная работа системы изменения фаз газораспределения (Выпускной распредвал, блок 1).",
+      "common_fix_ru": "Проверка работы масляного клапана (VVT), замена датчика фаз, проверка давления масла.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0021": {
+      "note_ru": "Некорректная работа системы изменения фаз газораспределения (Впускной распредвал, блок 1).",
+      "common_fix_ru": "Замена клапана VVT, очистка сетки маслоприемника, проверка датчика фаз.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0022": {
+      "note_ru": "Некорректная работа системы изменения фаз газораспределения (Выпускной распредвал, блок 1).",
+      "common_fix_ru": "Замена клапана VVT, проверка проводки датчика, проверка давления масла.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0023": {
+      "note_ru": "Некорректная работа системы изменения фаз газораспределения (Впускной распредвал, блок 1).",
+      "common_fix_ru": "Замена клапана VVT, проверка датчика фаз, проверка цепи ГРМ.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0024": {
+      "note_ru": "Некорректная работа фазы распределения впускных клапанов (ряд 2)",
+      "common_fix_ru": "Проверка и замена масляного клапана фаз газораспределения (VVT), проверка уровня и качества масла, проверка цепи ГРМ",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0100": {
+      "note_ru": "Неисправность цепи датчика массового расхода воздуха (MAF)",
+      "common_fix_ru": "Проверка проводки и разъемов датчика MAF, очистка или замена датчика MAF",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "llm_enrichment_v2",
+      "system_id": "intake",
+      "can_drive": "yes_caution"
+    },
+    "P0103": {
+      "note_ru": "Высокий уровень сигнала датчика массового расхода воздуха (MAF)",
+      "common_fix_ru": "Проверка на утечку воздуха во впускном коллекторе, очистка или замена датчика MAF, проверка проводки",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "llm_enrichment_v2",
+      "system_id": "intake",
+      "can_drive": "yes_caution"
+    },
+    "P0104": {
+      "note_ru": "Некорректный диапазон сигнала датчика массового расхода воздуха (MAF)",
+      "common_fix_ru": "Проверка целостности проводки и разъемов, проверка вакуумных шлангов, замена датчика MAF",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0105": {
+      "note_ru": "Неисправность цепи датчика абсолютного давления во впускном коллекторе (MAP)",
+      "common_fix_ru": "Проверка проводки и разъемов датчика MAP, проверка вакуумных шлангов, замена датчика MAP",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0110": {
+      "note_ru": "Неисправность цепи датчика температуры воздуха на впуске (ИПВ)",
+      "common_fix_ru": "Проверка целостности проводки, контактов разъема и самого датчика ИПВ",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0111": {
+      "note_ru": "Неисправность цепи датчика температуры воздуха на впуске (некорректный сигнал)",
+      "common_fix_ru": "Замена датчика ИПВ или ремонт обрыва/замыкания в цепи",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0112": {
+      "note_ru": "Низкий сигнал датчика температуры воздуха на впуске",
+      "common_fix_ru": "Проверка на короткое замыкание на массу, замена датчика ИПВ",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0115": {
+      "note_ru": "Неисправность цепи датчика температуры охлаждающей жидкости (ДТОЖ)",
+      "common_fix_ru": "Проверка уровня и состояния антифриза, проверка проводки и датчика ДТОЖ",
+      "frequency": "common",
+      "severity_override": "critical",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "no_stop"
+    },
+    "P0119": {
+      "note_ru": "Неисправность цепи датчика температуры охлаждающей жидкости (некорректный сигнал)",
+      "common_fix_ru": "Замена датчика ДТОЖ, проверка термостата и системы охлаждения",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "no_stop"
+    },
+    "P0120": {
+      "note_ru": "Некорректный сигнал с датчика положения дроссельной заслонки (цепь)",
+      "common_fix_ru": "Проверка проводки, разъема и самого датчика; замена при необходимости",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "no_stop"
+    },
+    "P0123": {
+      "note_ru": "Высокий уровень сигнала с датчика положения дроссельной заслонки",
+      "common_fix_ru": "Проверка напряжения питания и заземления; замена датчика",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "no_stop"
+    },
+    "P0125": {
+      "note_ru": "Недостаточная температура охлаждающей жидкости для работы системы управления",
+      "common_fix_ru": "Проверка термостата, датчика температуры и системы охлаждения",
+      "frequency": "common",
+      "severity_override": "critical",
+      "source": "llm_enrichment_v2",
+      "system_id": "cooling",
+      "can_drive": "no_stop"
+    },
+    "P0126": {
+      "note_ru": "Недостаточная температура охлаждающей жидкости для работы системы управления (низкий уровень)",
+      "common_fix_ru": "Проверка термостата, датчика температуры и циркуляции антифриза",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "no_stop"
+    },
+    "P0127": {
+      "note_ru": "Высокая температура впускного воздуха",
+      "common_fix_ru": "Проверка системы охлаждения, датчика температуры впускного воздуха и воздушного потока",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "no_stop"
+    },
+    "P0137": {
+      "note_ru": "Низкое напряжение сигнала датчика кислорода (Bank 1, Sensor 2)",
+      "common_fix_ru": "Замена датчика кислорода, проверка проводки на обрыв или короткое замыкание",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "llm_enrichment_v2",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0138": {
+      "note_ru": "Высокое напряжение сигнала датчика кислорода (Bank 1, Sensor 2)",
+      "common_fix_ru": "Замена датчика кислорода, проверка на утечку вакуума или неисправность топливной системы",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "llm_enrichment_v2",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0139": {
+      "note_ru": "Медленная реакция датчика кислорода (Bank 1, Sensor 2)",
+      "common_fix_ru": "Замена датчика кислорода, проверка на загрязнение или утечку вакуума",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment_v2",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0140": {
+      "note_ru": "Отсутствие активности в цепи датчика кислорода (Bank 1, Sensor 2)",
+      "common_fix_ru": "Проверка целостности проводки, проверка нагревателя, замена датчика",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0141": {
+      "note_ru": "Неисправность цепи нагревателя датчика кислорода (Bank 1, Sensor 2)",
+      "common_fix_ru": "Проверка предохранителя, проверка сопротивления нагревателя, замена датчика",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0150": {
+      "note_ru": "Неисправность цепи датчика кислорода (Bank 2, Sensor 1)",
+      "common_fix_ru": "Проверка проводки, замена датчика кислорода",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0151": {
+      "note_ru": "Низкий сигнал цепи датчика кислорода (Bank 2, Sensor 1)",
+      "common_fix_ru": "Проверка проводки, замена датчика кислорода",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0152": {
+      "note_ru": "Высокий сигнал цепи датчика кислорода (Bank 2, Sensor 1)",
+      "common_fix_ru": "Проверка проводки, замена датчика кислорода",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0153": {
+      "note_ru": "Медленная реакция датчика кислорода (Bank 2, Sensor 1)",
+      "common_fix_ru": "Замена датчика кислорода, проверка на утечки вакуума",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0154": {
+      "note_ru": "Неисправность цепи датчика кислорода (Bank 2, Sensor 1)",
+      "common_fix_ru": "Проверка проводки, замена датчика кислорода",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0155": {
+      "note_ru": "Неисправность цепи нагревателя датчика кислорода (Bank 2, Sensor 1)",
+      "common_fix_ru": "Проверка проводки, замена датчика кислорода или предохранителя",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0156": {
+      "note_ru": "Неисправность цепи датчика кислорода (Bank 2, Sensor 1)",
+      "common_fix_ru": "Замена датчика кислорода, проверка проводки на обрыв или короткое замыкание",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0157": {
+      "note_ru": "Низкое напряжение сигнала датчика кислорода (Bank 2, Sensor 1)",
+      "common_fix_ru": "Замена датчика кислорода, проверка проводки на замыкание на массу",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0170": {
+      "note_ru": "Неисправность системы топливоподачи (Bank 2)",
+      "common_fix_ru": "Проверка вакуумных шлангов, форсунок, датчика массового расхода воздуха (ДМРВ)",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0173": {
+      "note_ru": "Система топливоподачи (Bank 2) - слишком богатая смесь",
+      "common_fix_ru": "Замена датчика кислорода, проверка давления топлива, очистка форсунок",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0176": {
+      "note_ru": "Неверный сигнал датчика состава топлива (Fuel Composition Sensor Circuit)",
+      "common_fix_ru": "Проверка проводки и разъема датчика, замена датчика, проверка ЭБУ",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0180": {
+      "note_ru": "Неисправность цепи датчика температуры топлива (Fuel Temperature Sensor Circuit)",
+      "common_fix_ru": "Проверка целостности проводки, замена датчика температуры топлива",
+      "frequency": "common",
+      "severity_override": "medium",
+      "source": "llm_enrichment_v2",
+      "note_en": "Fuel Temperature Sensor A Circuit Malfunction",
+      "system_id": "engine",
+      "can_drive": "check"
+    },
+    "P0190": {
+      "note_ru": "Неисправность цепи датчика давления топлива (Fuel Rail Pressure Sensor Circuit)",
+      "common_fix_ru": "Проверка проводки, замена датчика давления топлива, проверка насоса",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "fuel",
+      "can_drive": "no_danger"
+    },
+    "P0191": {
+      "note_ru": "Некорректный диапазон сигнала датчика давления топлива (Fuel Rail Pressure Sensor Circuit Range/Performance)",
+      "common_fix_ru": "Замена датчика давления топлива, проверка регулятора давления, проверка топливного насоса",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "fuel",
+      "can_drive": "yes_caution"
+    },
+    "P0192": {
+      "note_ru": "Низкий сигнал датчика давления топлива (Fuel Rail Pressure Sensor Circuit Low Input)",
+      "common_fix_ru": "Проверка проводки на обрыв, замена датчика давления топлива, проверка насоса",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "llm_enrichment_v2",
+      "note_en": "Fuel Rail Pressure Sensor Circuit Low Input",
+      "system_id": "engine",
+      "can_drive": "check"
+    },
+    "P0205": {
+      "note_ru": "Неисправность цепи форсунки 5-го цилиндра",
+      "common_fix_ru": "Проверка проводки, разъема и самой форсунки 5-го цилиндра",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0206": {
+      "note_ru": "Неисправность цепи форсунки 6-го цилиндра",
+      "common_fix_ru": "Проверка проводки, разъема и самой форсунки 6-го цилиндра",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0207": {
+      "note_ru": "Неисправность цепи форсунки 7-го цилиндра",
+      "common_fix_ru": "Проверка проводки, разъема и самой форсунки 7-го цилиндра",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0208": {
+      "note_ru": "Неисправность цепи форсунки 8-го цилиндра",
+      "common_fix_ru": "Проверка проводки, разъема и самой форсунки 8-го цилиндра",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0215": {
+      "note_ru": "Неисправность цепи управления отсечкой топлива (TCC)",
+      "common_fix_ru": "Проверка реле отсечки, проводки и соленоида управления",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0218": {
+      "note_ru": "Высокая температура трансмиссионной жидкости",
+      "common_fix_ru": "Проверка уровня и состояния масла, чистка радиатора, замена термостата или датчика температуры",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0220": {
+      "note_ru": "Неисправность цепи датчика положения педали акселератора (A)",
+      "common_fix_ru": "Проверка проводки и разъемов, замена датчика педали газа",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0221": {
+      "note_ru": "Некорректный сигнал датчика положения педали акселератора (A)",
+      "common_fix_ru": "Регулировка или замена датчика педали газа, проверка ЭБУ",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0222": {
+      "note_ru": "Низкий сигнал цепи датчика положения педали акселератора (A)",
+      "common_fix_ru": "Проверка цепи на обрыв, замена датчика педали газа",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0223": {
+      "note_ru": "Высокий сигнал цепи датчика положения педали акселератора (A)",
+      "common_fix_ru": "Проверка цепи на короткое замыкание, замена датчика педали газа",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0230": {
+      "note_ru": "Неисправность цепи насоса топлива (первичная)",
+      "common_fix_ru": "Проверка реле и предохранителя топливного насоса, проверка проводки и самого насоса.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0231": {
+      "note_ru": "Низкое напряжение цепи насоса топлива (первичная)",
+      "common_fix_ru": "Проверка контактов, массы и напряжения в цепи топливного насоса, замена реле.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0232": {
+      "note_ru": "Высокое напряжение цепи насоса топлива (первичная)",
+      "common_fix_ru": "Проверка на короткое замыкание в проводке, проверка регулятора давления топлива.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0243": {
+      "note_ru": "Неисправность цепи датчика наддува турбокомпрессора B (первичная)",
+      "common_fix_ru": "Проверка датчика давления наддува, целостности проводки и вакуумных шлангов.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0244": {
+      "note_ru": "Неисправность цепи датчика наддува турбокомпрессора B (высокое напряжение)",
+      "common_fix_ru": "Проверка датчика на обрыв или замыкание, проверка ЭБУ и проводки.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0245": {
+      "note_ru": "Неисправность цепи датчика давления наддува турбокомпрессора B (низкий уровень сигнала)",
+      "common_fix_ru": "Проверка проводки и разъема датчика, замена датчика",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0246": {
+      "note_ru": "Неисправность цепи датчика давления наддува турбокомпрессора B (высокий уровень сигнала)",
+      "common_fix_ru": "Проверка проводки, проверка вакуумных шлангов, замена датчика",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0305": {
+      "note_ru": "Пропуск зажигания в цилиндре 5",
+      "common_fix_ru": "Замена свечи зажигания, проверка катушки зажигания, проверка форсунки",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0306": {
+      "note_ru": "Пропуск зажигания в цилиндре 6",
+      "common_fix_ru": "Замена свечи зажигания, проверка катушки зажигания, проверка форсунки",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0307": {
+      "note_ru": "Пропуск зажигания в цилиндре 7",
+      "common_fix_ru": "Замена свечи зажигания, проверка катушки зажигания, проверка форсунки",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    }
+  }
+}

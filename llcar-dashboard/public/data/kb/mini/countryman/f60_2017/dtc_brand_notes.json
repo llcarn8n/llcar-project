@@ -1,0 +1,1027 @@
+{
+  "brand": "mini",
+  "model": "countryman",
+  "updated": "2026-03-29",
+  "codes": {
+    "P0300": {
+      "note_ru": "Для Mini Clubman/Countryman пропуски зажигания P0300 часто вызваны отказом катушек зажигания или загрязнением форсунок, особенно на двигателях с прямым впрыском.",
+      "common_fix_ru": "Замена комплекта катушек зажигания (Bosch/NGK) и чистка форсунок обходятся в 15 000–25 000 рублей; при наличии нагара может потребоваться промывка впуска.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "system_id": "ignition",
+      "can_drive": "yes_caution"
+    },
+    "P0171": {
+      "note_ru": "Для Mini Clubman/Countryman код P0171 часто указывает на подсос воздуха через трещины в патрубках впуска или неисправность датчика массового расхода воздуха (MAF), что критично для точной работы турбированных двигателей.",
+      "common_fix_ru": "Замена патрубка впуска (от 3 500 руб.) или чистка/замена датчика MAF (от 12 000 руб.) с последующей адаптацией.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0420": {
+      "note_ru": "Для Mini Clubman и Countryman код P0420 часто указывает на износ катализатора из-за использования некачественного топлива или неисправности лямбда-зондов, что критично для двигателей BMW N13/N18/N20.",
+      "common_fix_ru": "Сначала проверяют и меняют кислородные датчики (от 15 000 руб.), затем прошивают ЭБУ для сброса адаптаций; при физическом разрушении сот замена катализатора на оригинал стоит от 80 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "system_id": "exhaust",
+      "can_drive": "yes_caution"
+    },
+    "P0128": {
+      "note_ru": "Код P0128 указывает на то, что двигатель не достигает рабочей температуры за отведённое время. Обычно это связано с заклинившим в открытом положении термостатом или неисправностью датчика температуры охлаждающей жидкости.",
+      "common_fix_ru": "Наиболее частая причина -- неисправный термостат. Замена термостата и антифриза в сервисе стоит от 8 000 до 20 000 рублей в зависимости от модели.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "system_id": "cooling",
+      "can_drive": "no_stop"
+    },
+    "P0299": {
+      "note_ru": "Для Mini (Clubman/Countryman) код P0299 чаще всего указывает на неисправность актуатора перепускной заслонки турбины (wastegate) или подсос воздуха в системе наддува, что критично для двигателей BMW N13/N14.",
+      "common_fix_ru": "Частая причина — заклинивание заслонки или повреждение вакуумных шлангов; замена актуатора и проверка герметичности обойдется в 15 000–25 000 рублей.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "system_id": "intake",
+      "can_drive": "yes_safe"
+    },
+    "P0705": {
+      "note_ru": "Код P0705 на Mini (Clubman/Countryman) указывает на неисправность цепи датчика диапазона селектора АКПП, что часто связано с проблемами в блоке управления ZF или повреждением проводки к датчику на входе.",
+      "common_fix_ru": "В 90% случаев требуется замена датчика диапазона (TFS) или ремонт проводки; стоимость запчасти и работ в РФ составляет 15 000–25 000 рублей.",
+      "frequency": "rare",
+      "severity_override": "urgent",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0700": {
+      "note_ru": "Код P0700 на Mini (Clubman/Countryman) указывает на сбой в коммуникации между блоком управления двигателем и АКПП, часто сопровождающийся переходом в аварийный режим.",
+      "common_fix_ru": "Редко встречается как изолированная ошибка; чаще всего требует диагностики конкретных кодов внутри коробки (например, P0750-P0770) и замены соленоидов или прошивки ЭБУ (от 15 000 до 45 000 руб.).",
+      "frequency": "rare",
+      "severity_override": "urgent",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0730": {
+      "note_ru": "Код P0730 на Mini (Clubman/Countryman) указывает на несоответствие фактической и расчетной передаточного числа, что часто связано с проскальзыванием сцеплений в автоматической коробке Aisin или проблемами с соленоидом давления.",
+      "common_fix_ru": "Наиболее частое решение — замена масла и адаптация коробки (от 15 000 руб.), при механическом износе потребуется ремонт гидроблока или замена АКПП (от 80 000 до 250 000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "C0035": {
+      "note_ru": "Код C0035 на Mini (Clubman/Countryman) указывает на неисправность цепи датчика скорости левого переднего колеса, что часто связано с повреждением проводки или разъемом ABS в условиях российской зимы.",
+      "common_fix_ru": "Редкий код для Mini, требующий проверки целостности проводки и замены датчика ABS (от 4500 руб.) или ремонта жгута (от 8000 руб.).",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "system_id": "brake-control",
+      "can_drive": "no_stop"
+    },
+    "C0265": {
+      "note_ru": "Код C0265 (Цепь реле EBCM) на Mini Clubman/Countryman указывает на неисправность в цепи управления модулем ABS/ESP, что критично для работы тормозной системы и систем стабилизации.",
+      "common_fix_ru": "Редкий код для Mini, часто требующий замены всего блока EBCM или проверки проводки; стоимость ремонта в РФ составляет от 45 000 до 120 000 рублей в зависимости от модели и необходимости замены блока.",
+      "frequency": "rare",
+      "severity_override": "urgent",
+      "system_id": "brakes",
+      "can_drive": "no_danger"
+    },
+    "C0561": {
+      "note_ru": "Код C0561 не является стандартным OBD-II для Mini и, вероятно, относится к проприетарной системе кузова или шасси (например, модуль комфорта или центральный блок). Владельцы Mini Clubman и Countryman в России крайне редко сталкиваются с этим кодом, так как он не фигурирует в типичных базах ошибок BMW Group.",
+      "common_fix_ru": "Редкая ошибка, часто требующая перепрошивки центрального модуля (FZD) или замены датчика, что в РФ стоит от 15 000 до 45 000 рублей за диагностику и работу, плюс стоимость детали.",
+      "frequency": "rare",
+      "severity_override": null
+    },
+    "B1310": {
+      "note_ru": "Код B1310 на Mini (Clubman/Countryman) указывает на неисправность привода заслонки рециркуляции воздуха в системе климат-контроля, что часто связано с заклиниванием моторчика или обрывом тросика.",
+      "common_fix_ru": "В России чаще всего требуется замена моторчика заслонки рециркуляции (аналог или оригинал), стоимость работ и запчасти составляет 12 000–18 000 рублей.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "system_id": "body",
+      "can_drive": "yes_safe"
+    },
+    "B0001": {
+      "note_ru": "Код B0001 на Mini (Clubman/Countryman) указывает на критическую неисправность в цепи управления подушкой водителя, часто связанную с дефектом датчика удара или разъемом в рулевой колонке.",
+      "common_fix_ru": "Требуется замена модуля подушки безопасности или ремонт проводки в руле; стоимость работ в России в 2024-2026 гг. составит от 15 000 до 45 000 рублей.",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "system_id": "sensors",
+      "can_drive": "no_stop"
+    },
+    "U0100": {
+      "note_ru": "Код U0100 на Mini (Clubman/Countryman) указывает на потерю связи с двигателем по шине CAN, что часто связано с окислением контактов в разъеме или неисправностью самого модуля DME, особенно на моделях с бензиновыми турбомоторами B38/B48.",
+      "common_fix_ru": "В 90% случаев помогает чистка контактов разъема DME или замена проводки жгута (от 15 000 до 35 000 руб.), реже требуется замена блока управления (от 80 000 руб. за б/у или от 250 000 руб. за новый).",
+      "frequency": "rare",
+      "severity_override": "urgent",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "U0155": {
+      "note_ru": "Код U0155 на Mini (Clubman/Countryman) указывает на потерю связи с приборной панелью через шину CAN, что часто сопровождается миганием всех индикаторов или полным отключением спидометра.",
+      "common_fix_ru": "Редкая проблема для Mini, обычно решается перепрошивкой модуля приборов или заменой неисправного блока (от 25 000 до 45 000 руб.) в специализированных сервисах.",
+      "frequency": "rare",
+      "severity_override": "urgent",
+      "system_id": "audio",
+      "can_drive": "yes_caution"
+    },
+    "P0010": {
+      "note_ru": "Неисправность цепи управления фазорегулятора впускного распредвала.",
+      "common_fix_ru": "Проверка проводки, замена фазорегулятора или масла.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0011": {
+      "note_ru": "Впускной распредвал опережает фазу (слишком раннее открытие).",
+      "common_fix_ru": "Замена фазорегулятора, проверка натяжения цепи ГРМ.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0012": {
+      "note_ru": "Впускной распредвал отстает от фазы (слишком позднее открытие).",
+      "common_fix_ru": "Замена фазорегулятора, проверка натяжения цепи ГРМ.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0013": {
+      "note_ru": "Неисправность цепи управления фазорегулятора выпускного распредвала.",
+      "common_fix_ru": "Проверка проводки, замена фазорегулятора или масла.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0014": {
+      "note_ru": "Выпускной распредвал опережает фазу (слишком раннее открытие).",
+      "common_fix_ru": "Замена фазорегулятора, проверка натяжения цепи ГРМ.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0016": {
+      "note_ru": "Синхронизация коленвала и распредвала цилиндра 1 нарушена.",
+      "common_fix_ru": "Проверка цепи ГРМ, натяжителя и фазорегулятора.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0017": {
+      "note_ru": "Синхронизация коленвала и распредвала цилиндра 2 нарушена.",
+      "common_fix_ru": "Проверка цепи ГРМ, натяжителя и фазорегулятора.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0087": {
+      "note_ru": "Давление в топливной рампе слишком низкое.",
+      "common_fix_ru": "Замена топливного насоса или фильтра, поиск утечек.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "fuel",
+      "can_drive": "no_danger"
+    },
+    "P0088": {
+      "note_ru": "Давление в топливной рампе слишком высокое.",
+      "common_fix_ru": "Проверка регулятора давления, топливного насоса.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "fuel",
+      "can_drive": "no_stop"
+    },
+    "P0101": {
+      "note_ru": "Некорректный диапазон или производительность датчика МАР.",
+      "common_fix_ru": "Очистка или замена датчика массового расхода воздуха.",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "intake",
+      "can_drive": "yes_caution"
+    },
+    "P0102": {
+      "note_ru": "Низкий сигнал датчика массового расхода воздуха (MAF).",
+      "common_fix_ru": "Очистка или замена датчика MAF, проверка на утечки.",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "intake",
+      "can_drive": "yes_caution"
+    },
+    "P0106": {
+      "note_ru": "Некорректный диапазон сигнала датчика давления в коллекторе (MAP).",
+      "common_fix_ru": "Проверка вакуумных шлангов, замена датчика MAP.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0107": {
+      "note_ru": "Низкий сигнал датчика давления в коллекторе (MAP).",
+      "common_fix_ru": "Проверка проводки, замена датчика MAP.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0108": {
+      "note_ru": "Высокий сигнал датчика давления в коллекторе (MAP).",
+      "common_fix_ru": "Проверка проводки, замена датчика MAP.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0113": {
+      "note_ru": "Высокий сигнал датчика температуры всасываемого воздуха (IAT).",
+      "common_fix_ru": "Проверка проводки, замена датчика IAT.",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0116": {
+      "note_ru": "Некорректный сигнал датчика температуры двигателя на Mini.",
+      "common_fix_ru": "Замена датчика или проверка проводки.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "no_stop"
+    },
+    "P0117": {
+      "note_ru": "Низкий сигнал датчика температуры охлаждающей жидкости.",
+      "common_fix_ru": "Проверка датчика и термостата.",
+      "frequency": "common",
+      "severity_override": "critical",
+      "source": "llm_enrichment",
+      "system_id": "cooling",
+      "can_drive": "no_stop"
+    },
+    "P0118": {
+      "note_ru": "Высокий сигнал датчика температуры охлаждающей жидкости.",
+      "common_fix_ru": "Замена датчика или проверка цепи.",
+      "frequency": "common",
+      "severity_override": "critical",
+      "source": "llm_enrichment",
+      "system_id": "cooling",
+      "can_drive": "no_stop"
+    },
+    "P0121": {
+      "note_ru": "Некорректный сигнал дроссельной заслонки на Mini.",
+      "common_fix_ru": "Адаптация или замена дроссельной заслонки.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "no_stop"
+    },
+    "P0122": {
+      "note_ru": "Низкий сигнал датчика положения дроссельной заслонки.",
+      "common_fix_ru": "Проверка проводки и замена датчика.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "no_stop"
+    },
+    "P0130": {
+      "note_ru": "Неисправность цепи датчика кислорода (Bank 1, Sensor 1).",
+      "common_fix_ru": "Замена датчика O2 или ремонт проводки.",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0131": {
+      "note_ru": "Низкое напряжение сигнала датчика кислорода (Bank 1, Sensor 1).",
+      "common_fix_ru": "Проверка проводки, замена датчика или утечка вакуума.",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0132": {
+      "note_ru": "Высокое напряжение сигнала датчика кислорода (Bank 1, Sensor 1).",
+      "common_fix_ru": "Замена датчика, проверка на подсос воздуха или топливо.",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0133": {
+      "note_ru": "Медленный отклик датчика кислорода (Bank 1, Sensor 1).",
+      "common_fix_ru": "Замена датчика O2 или устранение загрязнения.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0134": {
+      "note_ru": "Отсутствие активности датчика кислорода (Bank 1, Sensor 1).",
+      "common_fix_ru": "Замена датчика или проверка цепи加热 элемента.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0135": {
+      "note_ru": "Неисправность нагревателя датчика кислорода (Bank 1, Sensor 1).",
+      "common_fix_ru": "Замена датчика кислорода или проверка цепи нагревателя.",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0136": {
+      "note_ru": "Неисправность цепи датчика кислорода (Bank 1, Sensor 2).",
+      "common_fix_ru": "Проверка проводки, разъема или замена датчика.",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0172": {
+      "note_ru": "Слишком богатая топливная смесь (Bank 1).",
+      "common_fix_ru": "Проверка форсунок, давления топлива или датчика массового расхода.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0174": {
+      "note_ru": "Слишком бедная топливная смесь (Bank 2).",
+      "common_fix_ru": "Поиск подсоса воздуха, проверка форсунок или топливного насоса.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0175": {
+      "note_ru": "Слишком богатая топливная смесь (Bank 2).",
+      "common_fix_ru": "Проверка форсунок, давления топлива или датчика массового расхода.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0201": {
+      "note_ru": "Неисправность цепи форсунки 1-го цилиндра Mini.",
+      "common_fix_ru": "Проверить проводку и форсунку.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "fuel",
+      "can_drive": "yes_caution"
+    },
+    "P0202": {
+      "note_ru": "Неисправность цепи форсунки 2-го цилиндра Mini.",
+      "common_fix_ru": "Проверить проводку и форсунку.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "fuel",
+      "can_drive": "yes_caution"
+    },
+    "P0203": {
+      "note_ru": "Неисправность цепи форсунки 3-го цилиндра Mini.",
+      "common_fix_ru": "Проверить проводку и форсунку.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "fuel",
+      "can_drive": "yes_caution"
+    },
+    "P0204": {
+      "note_ru": "Неисправность цепи форсунки 4-го цилиндра Mini.",
+      "common_fix_ru": "Проверить проводку и форсунку.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "fuel",
+      "can_drive": "yes_caution"
+    },
+    "P0234": {
+      "note_ru": "Перегрузка по наддуву (Turbo) на Mini.",
+      "common_fix_ru": "Проверить клапан перепуска и датчик.",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "intake",
+      "can_drive": "yes_safe"
+    },
+    "P0301": {
+      "note_ru": "Пропуск зажигания в 1-м цилиндре. Частая причина на Mini - катушка или форсунка.",
+      "common_fix_ru": "Замена катушки зажигания или форсунки 1-го цилиндра.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "ignition",
+      "can_drive": "yes_caution"
+    },
+    "P0302": {
+      "note_ru": "Пропуск зажигания во 2-м цилиндре. Часто связано с износом катушки.",
+      "common_fix_ru": "Замена катушки зажигания или проверка форсунки 2-го цилиндра.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "ignition",
+      "can_drive": "yes_caution"
+    },
+    "P0303": {
+      "note_ru": "Пропуск зажигания в 3-м цилиндре. Характерно для Mini Cooper S.",
+      "common_fix_ru": "Замена катушки зажигания или чистка форсунки 3-го цилиндра.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "ignition",
+      "can_drive": "yes_caution"
+    },
+    "P0304": {
+      "note_ru": "Пропуск зажигания в 4-м цилиндре. Часто вызван неисправной катушкой.",
+      "common_fix_ru": "Замена катушки зажигания или проверка свечей 4-го цилиндра.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "ignition",
+      "can_drive": "yes_caution"
+    },
+    "P0325": {
+      "note_ru": "Неисправность датчика детонации. Влияет на работу двигателя Mini.",
+      "common_fix_ru": "Замена датчика детонации или проверка проводки.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0015": {
+      "note_ru": "Некорректная работа системы изменения фаз газораспределения (Впускной распредвал, блок двигателя B)",
+      "common_fix_ru": "Проверка и замена масляного клапана VVT, проверка давления масла, очистка сетки маслозаборника",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0020": {
+      "note_ru": "Некорректная работа системы изменения фаз газораспределения (Впускной распредвал, блок двигателя A)",
+      "common_fix_ru": "Проверка и замена масляного клапана VVT, проверка давления масла, проверка цепи ГРМ",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0021": {
+      "note_ru": "Система изменения фаз газораспределения (Впускной распредвал, блок двигателя A) - задержка",
+      "common_fix_ru": "Замена масляного клапана VVT, проверка натяжения цепи ГРМ, замена масла и фильтра",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0022": {
+      "note_ru": "Система изменения фаз газораспределения (Впускной распредвал, блок двигателя A) - опережение",
+      "common_fix_ru": "Замена масляного клапана VVT, проверка давления масла, проверка цепи ГРМ",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0023": {
+      "note_ru": "Система изменения фаз газораспределения (Выпускной распредвал, блок двигателя A) - задержка",
+      "common_fix_ru": "Замена масляного клапана VVT, проверка давления масла, проверка цепи ГРМ",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0024": {
+      "note_ru": "Коррекция фаз газораспределения (Впускной распредвал, банк 2) - задержка",
+      "common_fix_ru": "Проверка и замена масляного клапана фазорегулятора, проверка давления масла, очистка масляных каналов",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0100": {
+      "note_ru": "Неисправность цепи датчика массового расхода воздуха (MAF)",
+      "common_fix_ru": "Проверка целостности проводки и разъемов, очистка или замена датчика MAF",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "llm_enrichment_v2",
+      "system_id": "intake",
+      "can_drive": "yes_caution"
+    },
+    "P0103": {
+      "note_ru": "Высокий уровень сигнала датчика массового расхода воздуха (MAF)",
+      "common_fix_ru": "Проверка на подсос неучтенного воздуха, очистка или замена датчика MAF, проверка проводки",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "llm_enrichment_v2",
+      "system_id": "intake",
+      "can_drive": "yes_caution"
+    },
+    "P0104": {
+      "note_ru": "Неисправность цепи датчика массового расхода воздуха (MAF) - прерывистый сигнал",
+      "common_fix_ru": "Проверка контактов разъема, замена датчика MAF, поиск обрыва в цепи",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0105": {
+      "note_ru": "Неисправность цепи датчика абсолютного давления во впускном коллекторе (MAP)",
+      "common_fix_ru": "Проверка вакуумных шлангов на герметичность, проверка проводки и разъема, замена датчика MAP",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0110": {
+      "note_ru": "Неисправность цепи датчика температуры воздуха на впуске (IAT)",
+      "common_fix_ru": "Проверка целостности проводки и разъемов, замена датчика IAT",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0111": {
+      "note_ru": "Неисправность цепи датчика температуры воздуха на впуске (IAT) - диапазон/производительность",
+      "common_fix_ru": "Замена датчика IAT, проверка сопротивления и напряжения",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0112": {
+      "note_ru": "Низкий сигнал цепи датчика температуры воздуха на впуске (IAT)",
+      "common_fix_ru": "Проверка на короткое замыкание в цепи, замена датчика IAT",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0115": {
+      "note_ru": "Неисправность цепи датчика температуры охлаждающей жидкости (ECT)",
+      "common_fix_ru": "Проверка проводки, замена датчика ECT, проверка уровня антифриза",
+      "frequency": "common",
+      "severity_override": "critical",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "no_stop"
+    },
+    "P0119": {
+      "note_ru": "Неисправность цепи датчика температуры охлаждающей жидкости (ECT) - диапазон/производительность",
+      "common_fix_ru": "Замена датчика ECT, проверка термостата, проверка проводки",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "no_stop"
+    },
+    "P0120": {
+      "note_ru": "Неисправность цепи датчика положения дроссельной заслонки (TPS)",
+      "common_fix_ru": "Проверка проводки, замена датчика TPS или адаптация дроссельной заслонки",
+      "frequency": "common",
+      "severity_override": "critical",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "no_stop"
+    },
+    "P0123": {
+      "note_ru": "Высокий сигнал цепи датчика положения дроссельной заслонки",
+      "common_fix_ru": "Замена датчика TPS, проверка на короткое замыкание в проводке",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "no_stop"
+    },
+    "P0125": {
+      "note_ru": "Недостаточная температура охлаждающей жидкости для замкнутого контура",
+      "common_fix_ru": "Замена термостата, проверка датчика температуры охлаждающей жидкости",
+      "frequency": "common",
+      "severity_override": "critical",
+      "source": "llm_enrichment_v2",
+      "system_id": "cooling",
+      "can_drive": "no_stop"
+    },
+    "P0126": {
+      "note_ru": "Недостаточная температура охлаждающей жидкости для стабильной работы",
+      "common_fix_ru": "Замена термостата, проверка системы охлаждения на перегрев или утечку",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "no_stop"
+    },
+    "P0127": {
+      "note_ru": "Высокая температура впускного воздуха",
+      "common_fix_ru": "Проверка датчика температуры впускного воздуха, осмотр на утечки или перегрев двигателя",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "no_stop"
+    },
+    "P0137": {
+      "note_ru": "Низкое напряжение цепи датчика кислорода (Bank 1, Sensor 2)",
+      "common_fix_ru": "Замена датчика кислорода, проверка проводки на обрыв или короткое замыкание",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "llm_enrichment_v2",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0138": {
+      "note_ru": "Высокое напряжение цепи датчика кислорода (Bank 1, Sensor 2)",
+      "common_fix_ru": "Замена датчика кислорода, проверка на утечку вакуума или неисправность топливной смеси",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "llm_enrichment_v2",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0139": {
+      "note_ru": "Медленный отклик датчика кислорода (Bank 1, Sensor 2)",
+      "common_fix_ru": "Замена датчика кислорода, проверка на загрязнение или утечку вакуума",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment_v2",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0140": {
+      "note_ru": "Неисправность цепи датчика кислорода (Bank 1, Sensor 3)",
+      "common_fix_ru": "Замена датчика кислорода, проверка целостности проводки и разъемов",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0141": {
+      "note_ru": "Неисправность цепи подогрева датчика кислорода (Bank 1, Sensor 3)",
+      "common_fix_ru": "Замена датчика кислорода, проверка предохранителя и цепи подогрева",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0150": {
+      "note_ru": "Неисправность цепи датчика кислорода (Bank 2, Sensor 1)",
+      "common_fix_ru": "Проверка проводки, замена датчика кислорода",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0151": {
+      "note_ru": "Низкое напряжение сигнала датчика кислорода (Bank 2, Sensor 1)",
+      "common_fix_ru": "Проверка проводки, замена датчика кислорода",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0152": {
+      "note_ru": "Высокое напряжение сигнала датчика кислорода (Bank 2, Sensor 1)",
+      "common_fix_ru": "Проверка проводки, замена датчика кислорода",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0153": {
+      "note_ru": "Медленная реакция датчика кислорода (Bank 2, Sensor 1)",
+      "common_fix_ru": "Замена датчика кислорода, проверка на утечки вакуума",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0154": {
+      "note_ru": "Неисправность цепи датчика кислорода (Bank 2, Sensor 1)",
+      "common_fix_ru": "Проверка проводки, замена датчика кислорода",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0155": {
+      "note_ru": "Неисправность цепи нагревателя датчика кислорода (Bank 2, Sensor 1).",
+      "common_fix_ru": "Замена датчика кислорода или ремонт проводки.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0156": {
+      "note_ru": "Неисправность цепи датчика кислорода (Bank 2, Sensor 2).",
+      "common_fix_ru": "Замена датчика кислорода или проверка проводки.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0157": {
+      "note_ru": "Низкое напряжение цепи датчика кислорода (Bank 2, Sensor 2).",
+      "common_fix_ru": "Замена датчика кислорода или ремонт проводки.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0170": {
+      "note_ru": "Неисправность системы топливоподачи (Bank 2).",
+      "common_fix_ru": "Проверка датчиков массового расхода воздуха, вакуумных утечек или форсунок.",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0173": {
+      "note_ru": "Неисправность системы топливоподачи (Bank 2) - слишком богатая смесь.",
+      "common_fix_ru": "Проверка датчиков кислорода, топливных форсунок или регулятора давления топлива.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0176": {
+      "note_ru": "Неисправность цепи датчика состава топлива (Fuel Composition Sensor Circuit)",
+      "common_fix_ru": "Проверка проводки и разъема датчика, замена датчика, проверка модуля управления двигателем",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0180": {
+      "note_ru": "Неисправность цепи датчика температуры топлива (Fuel Temperature Sensor Circuit)",
+      "common_fix_ru": "Проверка проводки и разъема датчика, замена датчика температуры топлива",
+      "frequency": "common",
+      "severity_override": "medium",
+      "source": "llm_enrichment_v2",
+      "note_en": "Fuel Temperature Sensor A Circuit Malfunction",
+      "system_id": "engine",
+      "can_drive": "check"
+    },
+    "P0190": {
+      "note_ru": "Неисправность цепи датчика давления топлива (Fuel Rail Pressure Sensor Circuit)",
+      "common_fix_ru": "Проверка проводки, разъема и самого датчика давления топлива",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "fuel",
+      "can_drive": "no_danger"
+    },
+    "P0191": {
+      "note_ru": "Неисправность диапазона/работы датчика давления топлива (Fuel Rail Pressure Sensor Circuit Range/Performance)",
+      "common_fix_ru": "Проверка давления топлива, замена датчика давления топлива, проверка топливного насоса",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "fuel",
+      "can_drive": "yes_caution"
+    },
+    "P0192": {
+      "note_ru": "Низкое напряжение сигнала датчика давления топлива (Fuel Rail Pressure Sensor Circuit Low Input)",
+      "common_fix_ru": "Проверка проводки на обрыв или короткое замыкание, замена датчика давления топлива",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "llm_enrichment_v2",
+      "note_en": "Fuel Rail Pressure Sensor Circuit Low Input",
+      "system_id": "engine",
+      "can_drive": "check"
+    },
+    "P0205": {
+      "note_ru": "Неисправность цепи форсунки цилиндра №5",
+      "common_fix_ru": "Проверка проводки форсунки, замена форсунки или ремонт ЭБУ",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0206": {
+      "note_ru": "Неисправность цепи форсунки цилиндра №6",
+      "common_fix_ru": "Проверка проводки форсунки, замена форсунки или ремонт ЭБУ",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0207": {
+      "note_ru": "Неисправность цепи форсунки цилиндра №7",
+      "common_fix_ru": "Проверка проводки форсунки, замена форсунки или ремонт ЭБУ",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0208": {
+      "note_ru": "Неисправность цепи форсунки цилиндра №8",
+      "common_fix_ru": "Проверка проводки форсунки, замена форсунки или ремонт ЭБУ",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0215": {
+      "note_ru": "Неисправность цепи отсечки топлива (TCC)",
+      "common_fix_ru": "Проверка реле отсечки топлива, проводки или замена соленоида",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0218": {
+      "note_ru": "Высокая температура трансмиссионной жидкости",
+      "common_fix_ru": "Проверка уровня и состояния масла, датчика температуры, радиатора и системы охлаждения",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0220": {
+      "note_ru": "Неисправность цепи датчика положения педали акселератора (A)",
+      "common_fix_ru": "Проверка проводки, разъема и самого датчика педали газа",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0221": {
+      "note_ru": "Некорректный сигнал датчика положения педали акселератора (A)",
+      "common_fix_ru": "Замена датчика педали акселератора или регулировка его положения",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0222": {
+      "note_ru": "Низкий сигнал датчика положения педали акселератора (A)",
+      "common_fix_ru": "Проверка цепи на обрыв, замыкание на массу или замена датчика",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0223": {
+      "note_ru": "Высокий сигнал датчика положения педали акселератора (A)",
+      "common_fix_ru": "Проверка цепи на замыкание на питание, замена датчика или педали",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0230": {
+      "note_ru": "Неисправность цепи насоса топлива (первичная)",
+      "common_fix_ru": "Проверка предохранителя, реле и проводки насоса топлива; замена насоса при необходимости",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0231": {
+      "note_ru": "Напряжение цепи насоса топлива (первичная) - слишком низкое",
+      "common_fix_ru": "Проверка напряжения на насосе, поиск обрыва в цепи или плохого контакта; замена реле или насоса",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0232": {
+      "note_ru": "Напряжение цепи насоса топлива (первичная) - слишком высокое",
+      "common_fix_ru": "Проверка на короткое замыкание в проводке; проверка реле управления топливным насосом",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0243": {
+      "note_ru": "Неисправность цепи турбокомпрессора (первичная)",
+      "common_fix_ru": "Проверка проводки и разъемов датчика давления наддува; проверка вакуумных шлангов",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0244": {
+      "note_ru": "Напряжение цепи турбокомпрессора (первичная) - слишком высокое",
+      "common_fix_ru": "Проверка датчика давления наддува на короткое замыкание; проверка ECM и проводки",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0245": {
+      "note_ru": "Турбокомпрессор: датчик давления наддува 'A' - низкий уровень сигнала",
+      "common_fix_ru": "Проверка проводки и разъема датчика, замена датчика давления наддува",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0246": {
+      "note_ru": "Турбокомпрессор: датчик давления наддува 'A' - высокий уровень сигнала",
+      "common_fix_ru": "Проверка проводки и разъема датчика, проверка вакуумных шлангов, замена датчика",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0305": {
+      "note_ru": "Пропуски зажигания в цилиндре 5",
+      "common_fix_ru": "Замена свечи зажигания, проверка катушки зажигания, проверка форсунки",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0306": {
+      "note_ru": "Пропуски зажигания в цилиндре 6",
+      "common_fix_ru": "Замена свечи зажигания, проверка катушки зажигания, проверка форсунки",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0307": {
+      "note_ru": "Пропуски зажигания в цилиндре 7",
+      "common_fix_ru": "Замена свечи зажигания, проверка катушки зажигания, проверка форсунки",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment_v2",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    }
+  }
+}

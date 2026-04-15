@@ -1,0 +1,1522 @@
+{
+  "brand": "cadillac",
+  "model": "cadillac_xt5",
+  "updated": "2026-03-29",
+  "codes": {
+    "B0001": {
+      "note_ru": "Код B0001 на Cadillac (Escalade, XT5, SRX) указывает на критический сбой в цепи управления подушкой водителя, часто связанный с неисправностью датчика удара или разрывом цепи в рулевой колонке. Это не типичная ошибка для данных моделей, так как в отзывах владельцев упоминаний не зафиксировано.",
+      "common_fix_ru": "Редкая неисправность, требующая диагностики мультимодулем Tech 2/3; чаще всего помогает замена модуля подушки безопасности или ремонт проводки в руле, что в РФ обойдется от 15 000 до 45 000 рублей.",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "system_id": "sensors",
+      "can_drive": "no_stop"
+    },
+    "B0002": {
+      "note_ru": "Код B0002 (Управление раскрытием подушки водителя (стадия 2)) на автомобилях Cadillac.",
+      "common_fix_ru": "Немедленно обратиться в сервис для диагностики системы SRS. Не ездить до устранения!",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "sensors",
+      "can_drive": "no_stop"
+    },
+    "B0010": {
+      "note_ru": "Код B0010 (Управление раскрытием подушки пассажира (стадия 1)) на автомобилях Cadillac.",
+      "common_fix_ru": "Немедленно обратиться в сервис для диагностики системы SRS. Не ездить до устранения!",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "sensors",
+      "can_drive": "no_stop"
+    },
+    "B0028": {
+      "note_ru": "Код B0028 (Right Side Airbag Deployment Control (Subfault)) на автомобилях Cadillac.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "note_en": "Right Side Airbag Deployment Control (Subfault)",
+      "system_id": "body",
+      "can_drive": "check"
+    },
+    "B0051": {
+      "note_ru": "Код B0051 (Датчик удара — правая сторона) на автомобилях Cadillac.",
+      "common_fix_ru": "Немедленно обратиться в сервис для диагностики системы SRS. Не ездить до устранения!",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "sensors",
+      "can_drive": "no_stop"
+    },
+    "B0071": {
+      "note_ru": "Код B0071 (First Row Center Seatbelt Pretensioner Deployment Control (Subfault)) на автомобилях Cadillac.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "low",
+      "source": "dtc_enrichment_v1",
+      "note_en": "First Row Center Seatbelt Pretensioner Deployment Control (Subfault)",
+      "system_id": "body",
+      "can_drive": "check"
+    },
+    "B0092": {
+      "note_ru": "Код B0092 (Left Side Restraints Sensor 2 (Subfault)) на автомобилях Cadillac.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "note_en": "Left Side Restraints Sensor 2 (Subfault)",
+      "system_id": "body",
+      "can_drive": "check"
+    },
+    "B0095": {
+      "note_ru": "Код B0095 (Right Frontal Restraints Sensor (Subfault)) на автомобилях Cadillac.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "note_en": "Right Frontal Restraints Sensor (Subfault)",
+      "system_id": "body",
+      "can_drive": "check"
+    },
+    "B0100": {
+      "note_ru": "Код B0100 (Электронный передний датчик 1) на автомобилях Cadillac.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "safety",
+      "can_drive": "no_stop"
+    },
+    "B1310": {
+      "note_ru": "Код B1310 на Кадиллаках (Escalade, XT5, SRX) указывает на неисправность цепи привода мотора заслонки рециркуляции воздуха в системе HVAC, что часто встречается при отказе сервопривода или обрыве проводки в блоке управления климатом.",
+      "common_fix_ru": "Ремонт обычно требует замены мотора заслонки рециркуляции (оригинал или качественный аналог) с работами по диагностике проводки; стоимость в России в 2024–2026 годах составит от 15 000 до 28 000 рублей.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "system_id": "body",
+      "can_drive": "yes_safe"
+    },
+    "B1312": {
+      "note_ru": "Код B1312 (Код B1312 (специфичный для Li Auto)) на автомобилях Cadillac.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "body",
+      "can_drive": "yes_safe"
+    },
+    "B1317": {
+      "note_ru": "Код B1317 (Исполнительный механизм климата (B1317)) на автомобилях Cadillac.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "hvac",
+      "can_drive": "yes_safe"
+    },
+    "B1318": {
+      "note_ru": "Код B1318 (Исполнительный механизм климата (B1318)) на автомобилях Cadillac.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "hvac",
+      "can_drive": "yes_safe"
+    },
+    "B1325": {
+      "note_ru": "Код B1325 (Цепь реле вентилятора HVAC) на автомобилях Cadillac.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "hvac",
+      "can_drive": "yes_safe"
+    },
+    "B1381": {
+      "note_ru": "Код B1381 (Исполнительный механизм климата (B1381)) на автомобилях Cadillac.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "hvac",
+      "can_drive": "yes_safe"
+    },
+    "B1382": {
+      "note_ru": "Код B1382 (Исполнительный механизм климата (B1382)) на автомобилях Cadillac.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "hvac",
+      "can_drive": "yes_safe"
+    },
+    "B1601": {
+      "note_ru": "Код B1601 (Код B1601 (специфичный для Li Auto)) на автомобилях Cadillac.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "display",
+      "can_drive": "yes_safe"
+    },
+    "B1650": {
+      "note_ru": "Код B1650 (Цепь мотора передних дворников) на автомобилях Cadillac.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "body",
+      "can_drive": "yes_safe"
+    },
+    "B2278": {
+      "note_ru": "Код B2278 (Электроника кузова — B2 (B2278)) на автомобилях Cadillac.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "body",
+      "can_drive": "yes_safe"
+    },
+    "B2799": {
+      "note_ru": "Код B2799 (Электроника кузова — B2 (B2799)) на автомобилях Cadillac.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "body",
+      "can_drive": "yes_safe"
+    },
+    "C0035": {
+      "note_ru": "Код C0035 на Кадиллаках (Escalade, XT5, SRX) указывает на потерю сигнала с датчика скорости левого переднего колеса, что критично для работы ABS и системы стабилизации. В отличие от массовых моделей, эта ошибка на Кадиллаках часто связана с деградацией проводки в подвеске или окислением контактов в разъеме из-за реагентов.",
+      "common_fix_ru": "Чаще всего помогает замена датчика скорости колеса (2500–4500 руб.) и чистка разъема, но при наличии коррозии требуется замена жгута проводов (до 15 000 руб.).",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "system_id": "brake-control",
+      "can_drive": "no_stop"
+    },
+    "C0040": {
+      "note_ru": "Код C0040 (Цепь датчика скорости ПП колеса) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brake-control",
+      "can_drive": "no_stop"
+    },
+    "C0045": {
+      "note_ru": "Код C0045 (Цепь датчика скорости ЛЗ колеса) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brake-control",
+      "can_drive": "no_stop"
+    },
+    "C0050": {
+      "note_ru": "Код C0050 (Цепь датчика скорости ПЗ колеса) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brake-control",
+      "can_drive": "no_stop"
+    },
+    "C0051": {
+      "note_ru": "Код C0051 (LF Wheel Speed Sensor Circuit Range/Performance (EBCM)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dtc_enrichment_v1",
+      "note_en": "LF Wheel Speed Sensor Circuit Range/Performance (EBCM)",
+      "system_id": "chassis",
+      "can_drive": "check"
+    },
+    "C0236": {
+      "note_ru": "Код C0236 (Rear Wheel Speed Signal Circuit Missing) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dtc_enrichment_v1",
+      "note_en": "Rear Wheel Speed Signal Circuit Missing",
+      "system_id": "chassis",
+      "can_drive": "check"
+    },
+    "C0265": {
+      "note_ru": "Код C0265 на Кадиллаках (Escalade, XT5, SRX) указывает на неисправность цепи питания модуля ABS (EBCM), что часто связано с плохим контактом в разъеме или обрывом проводки из-за вибрации.",
+      "common_fix_ru": "Редкая ошибка для данной марки; чаще всего помогает чистка контактов EBCM или замена предохранителя за 500–1500 руб., в худшем случае — замена модуля ABS от 45 000 руб.",
+      "frequency": "rare",
+      "severity_override": "urgent",
+      "system_id": "brakes",
+      "can_drive": "no_danger"
+    },
+    "C0267": {
+      "note_ru": "Код C0267 (Pump Motor Circuit Open/Shorted) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dtc_enrichment_v1",
+      "note_en": "Pump Motor Circuit Open/Shorted",
+      "system_id": "chassis",
+      "can_drive": "check"
+    },
+    "C0279": {
+      "note_ru": "Код C0279 (Powertrain Configuration Not Valid) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "low",
+      "source": "dtc_enrichment_v1",
+      "note_en": "Powertrain Configuration Not Valid",
+      "system_id": "chassis",
+      "can_drive": "check"
+    },
+    "C0284": {
+      "note_ru": "Код C0284 (EBCM Malfunction) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "low",
+      "source": "dtc_enrichment_v1",
+      "note_en": "EBCM Malfunction",
+      "system_id": "chassis",
+      "can_drive": "check"
+    },
+    "C0561": {
+      "note_ru": "Код C0561 не является стандартным диагностическим кодом OBD-II для систем шасси Cadillac Escalade, XT5 или SRX и, вероятно, относится к специфическому внутреннему коду модуля кузова или является ошибкой сканера.",
+      "common_fix_ru": "Поскольку упоминаний в базе владельцев нет, ремонт не требуется; рекомендуется переподключить аккумулятор или использовать дилерский сканер Tech2 для точной расшифровки.",
+      "frequency": "rare",
+      "severity_override": null
+    },
+    "C0710": {
+      "note_ru": "Код C0710 (Датчик положения руля) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить датчик угла поворота руля и систему ЭУР.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_safe"
+    },
+    "C1201": {
+      "note_ru": "Код C1201 (Код C1201 (специфичный для Li Auto)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brake-control",
+      "can_drive": "yes_caution"
+    },
+    "C1241": {
+      "note_ru": "Код C1241 (Тормозная система — C1 расширенная (C1241)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_caution"
+    },
+    "C1249": {
+      "note_ru": "Код C1249 (Тормозная система — C1 расширенная (C1249)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_caution"
+    },
+    "C1252": {
+      "note_ru": "Код C1252 (Тормозная система — C1 расширенная (C1252)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_caution"
+    },
+    "C1256": {
+      "note_ru": "Код C1256 (Тормозная система — C1 расширенная (C1256)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_caution"
+    },
+    "C1278": {
+      "note_ru": "Код C1278 (Тормозная система — C1 расширенная (C1278)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_caution"
+    },
+    "C1288": {
+      "note_ru": "Код C1288 (Тормозная система — C1 расширенная (C1288)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_caution"
+    },
+    "P0010": {
+      "note_ru": "Неисправность цепи управления фазораспределением впускного распредвала.",
+      "common_fix_ru": "Замена масляного клапана VVT или проверка давления масла.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0011": {
+      "note_ru": "Впускной распредвал опережает фазу (слишком раннее открытие).",
+      "common_fix_ru": "Замена клапана VVT, чистка сетки или замена цепи ГРМ.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0012": {
+      "note_ru": "Впускной распредвал отстает от фазы (слишком позднее открытие).",
+      "common_fix_ru": "Замена клапана VVT, проверка натяжения цепи или масла.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0013": {
+      "note_ru": "Неисправность цепи управления фазораспределением выпускного распредвала.",
+      "common_fix_ru": "Замена масляного клапана VVT или проверка давления масла.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0014": {
+      "note_ru": "Выпускной распредвал опережает фазу (слишком раннее открытие).",
+      "common_fix_ru": "Замена клапана VVT, чистка сетки или замена цепи ГРМ.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0016": {
+      "note_ru": "Синхронизация коленвала и распредвала цилиндра 1 вне диапазона.",
+      "common_fix_ru": "Проверка цепи ГРМ, натяжителя и фазорегулятора.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0017": {
+      "note_ru": "Синхронизация коленвала и распредвала цилиндра 4 вне диапазона.",
+      "common_fix_ru": "Проверка цепи ГРМ, натяжителя и фазорегулятора.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0021": {
+      "note_ru": "Код P0021 (Система подачи топлива — цепь (P0021)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить систему изменения фаз газораспределения: клапан VVT/VVT-i, цепь/ремень ГРМ.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0022": {
+      "note_ru": "Код P0022 (Система подачи топлива — цепь (P0022)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить систему изменения фаз газораспределения: клапан VVT/VVT-i, цепь/ремень ГРМ.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0087": {
+      "note_ru": "Давление в топливной рампе слишком низкое.",
+      "common_fix_ru": "Замена топливного насоса или фильтра, проверка давления.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "fuel",
+      "can_drive": "no_danger"
+    },
+    "P0088": {
+      "note_ru": "Давление в топливной рампе слишком высокое.",
+      "common_fix_ru": "Проверка регулятора давления, топливного насоса.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "fuel",
+      "can_drive": "no_stop"
+    },
+    "P0089": {
+      "note_ru": "Код P0089 (Система топливной подачи (P0089)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить топливный фильтр, форсунки и давление в топливной системе.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0101": {
+      "note_ru": "Некорректный диапазон сигнала датчика массового расхода воздуха.",
+      "common_fix_ru": "Замена датчика MAF или очистка воздушного фильтра.",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "intake",
+      "can_drive": "yes_caution"
+    },
+    "P0102": {
+      "note_ru": "Низкий сигнал датчика массового расхода воздуха на Cadillac",
+      "common_fix_ru": "Проверить МРДВ, фильтры и проводку",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "intake",
+      "can_drive": "yes_caution"
+    },
+    "P0103": {
+      "note_ru": "Код P0103 (Высокий сигнал MAF) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF/MAP), воздушный фильтр и впускной тракт.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "intake",
+      "can_drive": "yes_caution"
+    },
+    "P0105": {
+      "note_ru": "Код P0105 (Цепь датчика массового расхода воздуха (P0105)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF/MAP), воздушный фильтр и впускной тракт.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0106": {
+      "note_ru": "Некорректный сигнал датчика давления в коллекторе",
+      "common_fix_ru": "Проверить вакуумные шланги и датчик MAP",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0107": {
+      "note_ru": "Низкий сигнал датчика давления в коллекторе на Cadillac",
+      "common_fix_ru": "Заменить датчик MAP или устранить обрыв",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0108": {
+      "note_ru": "Высокий сигнал датчика давления в коллекторе",
+      "common_fix_ru": "Проверить датчик MAP и вакуумную систему",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0110": {
+      "note_ru": "Код P0110 (Неисправность датчика температуры впускного воздуха) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF/MAP), воздушный фильтр и впускной тракт.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0113": {
+      "note_ru": "Высокий сигнал датчика температуры впускного воздуха",
+      "common_fix_ru": "Заменить датчик IAT или проверить цепь",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0115": {
+      "note_ru": "Код P0115 (Неисправность датчика температуры ОЖ) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF/MAP), воздушный фильтр и впускной тракт.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "no_stop"
+    },
+    "P0116": {
+      "note_ru": "Неверный диапазон сигнала датчика температуры охлаждающей жидкости.",
+      "common_fix_ru": "Замена датчика или проверка проводки.",
+      "frequency": "common",
+      "severity_override": "critical",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "no_stop"
+    },
+    "P0117": {
+      "note_ru": "Низкий уровень сигнала датчика температуры охлаждающей жидкости.",
+      "common_fix_ru": "Проверка цепи на короткое замыкание или замена датчика.",
+      "frequency": "common",
+      "severity_override": "critical",
+      "source": "llm_enrichment",
+      "system_id": "cooling",
+      "can_drive": "no_stop"
+    },
+    "P0118": {
+      "note_ru": "Высокий уровень сигнала датчика температуры охлаждающей жидкости.",
+      "common_fix_ru": "Проверка цепи на обрыв или замена датчика.",
+      "frequency": "common",
+      "severity_override": "critical",
+      "source": "llm_enrichment",
+      "system_id": "cooling",
+      "can_drive": "no_stop"
+    },
+    "P0120": {
+      "note_ru": "Код P0120 (Цепь датчика положения дроссельной заслонки A) на автомобилях Cadillac.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "no_stop"
+    },
+    "P0121": {
+      "note_ru": "Некорректный диапазон сигнала датчика положения дроссельной заслонки.",
+      "common_fix_ru": "Адаптация дросселя, чистка или замена датчика.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "no_stop"
+    },
+    "P0122": {
+      "note_ru": "Низкий уровень сигнала датчика положения дроссельной заслонки.",
+      "common_fix_ru": "Проверка проводки, замена датчика или педали.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "no_stop"
+    },
+    "P0123": {
+      "note_ru": "Код P0123 (Высокий сигнал TPS A) на автомобилях Cadillac.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "no_stop"
+    },
+    "P0128": {
+      "note_ru": "Код P0128 указывает на то, что двигатель не достигает рабочей температуры за отведённое время. Обычно это связано с заклинившим в открытом положении термостатом или неисправностью датчика температуры охлаждающей жидкости.",
+      "common_fix_ru": "Наиболее частая причина -- неисправный термостат. Замена термостата и антифриза в сервисе стоит от 8 000 до 20 000 рублей в зависимости от модели.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "system_id": "cooling",
+      "can_drive": "no_stop"
+    },
+    "P0130": {
+      "note_ru": "Неисправность цепи датчика кислорода (Bank 1, Sensor 1).",
+      "common_fix_ru": "Замена датчика кислорода или ремонт проводки.",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0131": {
+      "note_ru": "Низкое напряжение сигнала датчика кислорода (Bank 1, Sensor 1).",
+      "common_fix_ru": "Проверка на подсос воздуха или замена датчика.",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0132": {
+      "note_ru": "Высокое напряжение сигнала датчика кислорода (Bank 1, Sensor 1).",
+      "common_fix_ru": "Замена датчика или устранение утечки топлива.",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0133": {
+      "note_ru": "Медленный отклик датчика кислорода (Bank 1, Sensor 1).",
+      "common_fix_ru": "Замена датчика или проверка системы вентиляции.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0134": {
+      "note_ru": "Отсутствие активности датчика кислорода (Bank 1, Sensor 1).",
+      "common_fix_ru": "Замена датчика или проверка цепи подогрева.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0135": {
+      "note_ru": "Неисправность цепи нагревателя датчика кислорода (Bank 1, Sensor 1).",
+      "common_fix_ru": "Замена датчика кислорода или ремонт проводки.",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0136": {
+      "note_ru": "Неисправность цепи датчика кислорода (Bank 1, Sensor 2).",
+      "common_fix_ru": "Проверка проводки и замена датчика.",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0137": {
+      "note_ru": "Код P0137 (Код P0137 (специфичный для Li Auto)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0138": {
+      "note_ru": "Код P0138 (Код P0138 (специфичный для Li Auto)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0140": {
+      "note_ru": "Код P0140 (Кислородный датчик (Банк 1) (P0140)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0141": {
+      "note_ru": "Код P0141 (Кислородный датчик (Банк 1) (P0141)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0171": {
+      "note_ru": "Для Кадиллака (Escalade, XT5, SRX) код P0171 в России часто указывает на подсос воздуха через треснувшие патрубки вакуумной системы или деградацию уплотнений форсунок, что критично для двигателей V8.",
+      "common_fix_ru": "Замена комплекта уплотнений форсунок и герметизация вакуумных патрубков стоит от 15 000 до 25 000 рублей; если проблема в датчике MAF, его чистка или замена обойдется в 8 000–12 000 рублей.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0172": {
+      "note_ru": "Система слишком богатая (Bank 1). Частая проблема на старых моделях.",
+      "common_fix_ru": "Проверка форсунок, регулятора давления топлива.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0174": {
+      "note_ru": "Система слишком бедная (Bank 2). Часто из-за подсоса воздуха.",
+      "common_fix_ru": "Поиск подсоса воздуха, проверка вакуумных шлангов.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0175": {
+      "note_ru": "Система слишком богатая (Bank 2). Возможна неисправность форсунок.",
+      "common_fix_ru": "Чистка или замена форсунок, проверка датчиков.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0190": {
+      "note_ru": "Код P0190 (Код P0190 (специфичный для Li Auto)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить топливный фильтр, форсунки и давление в топливной системе.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "fuel",
+      "can_drive": "no_danger"
+    },
+    "P0191": {
+      "note_ru": "Код P0191 (Код P0191 (специфичный для Li Auto)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить топливный фильтр, форсунки и давление в топливной системе.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "fuel",
+      "can_drive": "yes_caution"
+    },
+    "P0192": {
+      "note_ru": "Код P0192 (Fuel Rail Pressure Sensor Circuit Low Input) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить топливный фильтр, форсунки и давление в топливной системе.",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dtc_enrichment_v1",
+      "note_en": "Fuel Rail Pressure Sensor Circuit Low Input",
+      "system_id": "engine",
+      "can_drive": "check"
+    },
+    "P0193": {
+      "note_ru": "Код P0193 (Fuel Rail Pressure Sensor Circuit High Input) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить топливный фильтр, форсунки и давление в топливной системе.",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dtc_enrichment_v1",
+      "note_en": "Fuel Rail Pressure Sensor Circuit High Input",
+      "system_id": "engine",
+      "can_drive": "check"
+    },
+    "P0201": {
+      "note_ru": "Неисправность цепи форсунки цилиндра 1 на Cadillac.",
+      "common_fix_ru": "Проверить проводку и форсунку.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "fuel",
+      "can_drive": "yes_caution"
+    },
+    "P0202": {
+      "note_ru": "Неисправность цепи форсунки цилиндра 2 на Cadillac.",
+      "common_fix_ru": "Проверить проводку и форсунку.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "fuel",
+      "can_drive": "yes_caution"
+    },
+    "P0203": {
+      "note_ru": "Неисправность цепи форсунки цилиндра 3 на Cadillac.",
+      "common_fix_ru": "Проверить проводку и форсунку.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "fuel",
+      "can_drive": "yes_caution"
+    },
+    "P0204": {
+      "note_ru": "Неисправность цепи форсунки цилиндра 4 на Cadillac.",
+      "common_fix_ru": "Проверить проводку и форсунку.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "fuel",
+      "can_drive": "yes_caution"
+    },
+    "P0234": {
+      "note_ru": "Перегрузка наддувом на Cadillac (турбо/компрессор).",
+      "common_fix_ru": "Проверить клапан перепуска и датчик.",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "intake",
+      "can_drive": "yes_safe"
+    },
+    "P0299": {
+      "note_ru": "Код P0299 на Кадиллаках (XT5, Escalade) указывает на нештатное снижение давления наддува, что часто связано с утечками в системе интеркулера или неисправностью клапана перепуска (wastegate) турбины. В условиях российского климата и качества топлива это может проявляться как потеря мощности при обгонах или включение режима «Limp Home».",
+      "common_fix_ru": "Наиболее частая причина — трещины в патрубках интеркулера или заклинивание актуатора турбины; замена патрубков стоит от 15 000 до 25 000 руб., ремонт турбины — от 45 000 руб.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "system_id": "intake",
+      "can_drive": "yes_safe"
+    },
+    "P0300": {
+      "note_ru": "Код P0300 на Кадиллаках (XT5, Escalade) часто указывает на нестабильную работу системы зажигания из-за специфических проблем с катушками зажигания или свечами при использовании российского топлива.",
+      "common_fix_ru": "Замена комплекта катушек зажигания и свечей на оригинальные или качественные аналоги (NGK/Bosch) обойдется в 15 000–25 000 рублей.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "system_id": "ignition",
+      "can_drive": "yes_caution"
+    },
+    "P0301": {
+      "note_ru": "Пропуск зажигания в 1-м цилиндре. Часто на двигателях V8 Cadillac.",
+      "common_fix_ru": "Замена свечи, катушки или проверка форсунки.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "ignition",
+      "can_drive": "yes_caution"
+    },
+    "P0302": {
+      "note_ru": "Пропуск зажигания во 2-м цилиндре. Характерно для V8.",
+      "common_fix_ru": "Замена свечи зажигания или катушки зажигания.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "ignition",
+      "can_drive": "yes_caution"
+    },
+    "P0303": {
+      "note_ru": "Пропуск зажигания в 3-м цилиндре. Встречается на V8.",
+      "common_fix_ru": "Замена свечи, катушки или проверка вакуумных шлангов.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "ignition",
+      "can_drive": "yes_caution"
+    },
+    "P0304": {
+      "note_ru": "Пропуск зажигания в 4-м цилиндре. Типично для V8.",
+      "common_fix_ru": "Замена свечи, катушки или проверка форсунки.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "ignition",
+      "can_drive": "yes_caution"
+    },
+    "P0325": {
+      "note_ru": "Неисправность датчика детонации. Влияет на работу V8.",
+      "common_fix_ru": "Замена датчика детонации или проверка проводки.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0327": {
+      "note_ru": "Код P0327 (Система зажигания (P0327)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить датчик и его проводку, при необходимости - замена.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0328": {
+      "note_ru": "Код P0328 (Система зажигания (P0328)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить датчик и его проводку, при необходимости - замена.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0335": {
+      "note_ru": "Код P0335 (Цепь датчика положения коленвала A) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить датчик и его проводку, при необходимости - замена.",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0336": {
+      "note_ru": "Код P0336 (Цепь датчика детонации (P0336)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить датчик и его проводку, при необходимости - замена.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0340": {
+      "note_ru": "Код P0340 (Цепь датчика положения распредвала (Банк 1)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить датчик и его проводку, при необходимости - замена.",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0341": {
+      "note_ru": "Код P0341 (Диапазон/производительность ДПРВ (Банк 1)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить датчик и его проводку, при необходимости - замена.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0345": {
+      "note_ru": "Код P0345 (Цепь датчика положения распредвала (P0345)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить датчик и его проводку, при необходимости - замена.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0351": {
+      "note_ru": "Код P0351 (Цепь катушки зажигания A) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить свечи зажигания и катушки зажигания. Стоимость замены: свечи 2 000-5 000 руб., катушка 3 000-8 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ignition",
+      "can_drive": "yes_safe"
+    },
+    "P0352": {
+      "note_ru": "Код P0352 (Код P0352 (специфичный для Li Auto)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить свечи зажигания и катушки зажигания. Стоимость замены: свечи 2 000-5 000 руб., катушка 3 000-8 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ignition",
+      "can_drive": "yes_safe"
+    },
+    "P0353": {
+      "note_ru": "Код P0353 (Код P0353 (специфичный для Li Auto)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить свечи зажигания и катушки зажигания. Стоимость замены: свечи 2 000-5 000 руб., катушка 3 000-8 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ignition",
+      "can_drive": "yes_safe"
+    },
+    "P0354": {
+      "note_ru": "Код P0354 (Код P0354 (специфичный для Li Auto)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить свечи зажигания и катушки зажигания. Стоимость замены: свечи 2 000-5 000 руб., катушка 3 000-8 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ignition",
+      "can_drive": "yes_safe"
+    },
+    "P0401": {
+      "note_ru": "Код P0401 (Недостаточный поток EGR) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0402": {
+      "note_ru": "Код P0402 (Система рециркуляции отработавших газов (EGR) (P0402)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0403": {
+      "note_ru": "Код P0403 (Система рециркуляции отработавших газов (EGR) (P0403)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0420": {
+      "note_ru": "Для Cadillac (Escalade, XT5, SRX) код P0420 часто указывает на деградацию оригинального катализатора или неисправность лямбда-зонда после 150 тыс. км, особенно при использовании некачественного топлива в РФ.",
+      "common_fix_ru": "Чаще всего требуется замена катализатора на аналог (от 45 000 руб.) или перепрошивка ЭБУ для сброса ошибки, если датчики исправны.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "system_id": "exhaust",
+      "can_drive": "yes_caution"
+    },
+    "P0430": {
+      "note_ru": "Код P0430 (Эффективность катализатора ниже порога (Банк 2)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "exhaust",
+      "can_drive": "yes_caution"
+    },
+    "P0440": {
+      "note_ru": "Код P0440 (Неисправность системы улавливания паров топлива) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить систему улавливания паров топлива (EVAP): клапан продувки, крышку бензобака, шланги.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0441": {
+      "note_ru": "Код P0441 (Система улавливания паров топлива (EVAP) (P0441)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить систему улавливания паров топлива (EVAP): клапан продувки, крышку бензобака, шланги.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0442": {
+      "note_ru": "Код P0442 (Обнаружена малая утечка EVAP) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить систему улавливания паров топлива (EVAP): клапан продувки, крышку бензобака, шланги.",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0443": {
+      "note_ru": "Код P0443 (Система улавливания паров топлива (EVAP) (P0443)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить систему улавливания паров топлива (EVAP): клапан продувки, крышку бензобака, шланги.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0446": {
+      "note_ru": "Код P0446 (Производительность вентиляции EVAP) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить систему улавливания паров топлива (EVAP): клапан продувки, крышку бензобака, шланги.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0449": {
+      "note_ru": "Код P0449 (Система улавливания паров топлива (EVAP) (P0449)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить систему улавливания паров топлива (EVAP): клапан продувки, крышку бензобака, шланги.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0455": {
+      "note_ru": "Код P0455 (Обнаружена большая утечка EVAP) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить систему улавливания паров топлива (EVAP): клапан продувки, крышку бензобака, шланги.",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0456": {
+      "note_ru": "Код P0456 (Система улавливания паров топлива (EVAP) (P0456)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить систему улавливания паров топлива (EVAP): клапан продувки, крышку бензобака, шланги.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0500": {
+      "note_ru": "Код P0500 (Датчик скорости автомобиля A) на автомобилях Cadillac.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "drivetrain",
+      "can_drive": "yes_safe"
+    },
+    "P0501": {
+      "note_ru": "Код P0501 (Датчик скорости автомобиля (P0501)) на автомобилях Cadillac.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "drivetrain",
+      "can_drive": "yes_safe"
+    },
+    "P0505": {
+      "note_ru": "Код P0505 (Система управления холостым ходом) на автомобилях Cadillac.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0507": {
+      "note_ru": "Код P0507 (Обороты ХХ выше ожидаемых) на автомобилях Cadillac.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0520": {
+      "note_ru": "Код P0520 (Код P0520 (специфичный для Li Auto)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить уровень и давление масла. При необходимости - замена датчика давления масла (2 000-5 000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "pump",
+      "can_drive": "no_stop"
+    },
+    "P0521": {
+      "note_ru": "Код P0521 (Код P0521 (специфичный для Li Auto)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить уровень и давление масла. При необходимости - замена датчика давления масла (2 000-5 000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "pump",
+      "can_drive": "no_stop"
+    },
+    "P0522": {
+      "note_ru": "Код P0522 (Код P0522 (специфичный для Li Auto)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить уровень и давление масла. При необходимости - замена датчика давления масла (2 000-5 000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "pump",
+      "can_drive": "no_stop"
+    },
+    "P0523": {
+      "note_ru": "Код P0523 (Код P0523 (специфичный для Li Auto)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить уровень и давление масла. При необходимости - замена датчика давления масла (2 000-5 000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "pump",
+      "can_drive": "no_stop"
+    },
+    "P0524": {
+      "note_ru": "Код P0524 (Код P0524 (специфичный для Li Auto)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить уровень и давление масла. При необходимости - замена датчика давления масла (2 000-5 000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "filtration",
+      "can_drive": "yes_safe"
+    },
+    "P0600": {
+      "note_ru": "Код P0600 (Последовательная линия связи) на автомобилях Cadillac.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ev",
+      "can_drive": "yes_safe"
+    },
+    "P0601": {
+      "note_ru": "Код P0601 (Связь блоков управления (P0601)) на автомобилях Cadillac.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ev",
+      "can_drive": "yes_safe"
+    },
+    "P0700": {
+      "note_ru": "Код P0700 на Кадиллаках (Escalade, XT5, SRX) означает, что модуль управления двигателем (ECM) получил сигнал о сбое от модуля КПП (TCM), но не указывает на конкретную деталь. Это критическая ситуация, при которой автомобиль может перейти в аварийный режим (Limp Mode), блокируя переключение передач.",
+      "common_fix_ru": "В 90% случаев требуется диагностика TCM и гидроблока, так как проблема часто кроется в соленоидах или проводке; замена соленоида или ремонт гидроблока в Москве стоит от 45 000 до 120 000 рублей.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0705": {
+      "note_ru": "Код P0705 на Кадиллаках (XT5, Escalade) указывает на неисправность цепи датчика диапазона КПП, что часто связано с проблемами в блоке управления трансмиссией или окислением контактов в жгуте проводов.",
+      "common_fix_ru": "Чаще всего помогает замена датчика диапазона (12 000–18 000 ₽) или ремонт жгута, в редких случаях требуется замена блока управления (от 45 000 ₽).",
+      "frequency": "rare",
+      "severity_override": "urgent",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0715": {
+      "note_ru": "Код P0715 (Цепь датчика скорости входного вала КПП) на автомобилях Cadillac.",
+      "common_fix_ru": "Выполнить диагностику АКПП/вариатора. Проверить уровень и состояние масла трансмиссии.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0720": {
+      "note_ru": "Код P0720 (Цепь датчика скорости выходного вала КПП) на автомобилях Cadillac.",
+      "common_fix_ru": "Выполнить диагностику АКПП/вариатора. Проверить уровень и состояние масла трансмиссии.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0725": {
+      "note_ru": "Код P0725 (Датчик температуры трансмиссионного масла (P0725)) на автомобилях Cadillac.",
+      "common_fix_ru": "Выполнить диагностику АКПП/вариатора. Проверить уровень и состояние масла трансмиссии.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0730": {
+      "note_ru": "Код P0730 на Кадиллаках (Escalade, XT5, SRX) указывает на рассинхронизацию передаточных чисел, что часто связано с износом фрикционов или проблемами гидроблока в АКПП 6L80/6L90. В условиях российских дорог и качества топлива это может проявляться как рывки при переключении или переход в аварийный режим.",
+      "common_fix_ru": "Чаще всего требуется замена фрикционных дисков и ремонт гидротрансформатора, стоимость работ в Москве составляет от 80 000 до 150 000 рублей в зависимости от объема работ.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0740": {
+      "note_ru": "Код P0740 (Передаточное число трансмиссии (P0740)) на автомобилях Cadillac.",
+      "common_fix_ru": "Выполнить диагностику АКПП/вариатора. Проверить уровень и состояние масла трансмиссии.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0750": {
+      "note_ru": "Код P0750 (Электромагнитный клапан трансмиссии (P0750)) на автомобилях Cadillac.",
+      "common_fix_ru": "Выполнить диагностику АКПП/вариатора. Проверить уровень и состояние масла трансмиссии.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P2096": {
+      "note_ru": "Код P2096 (Система впрыска топлива (P2096)) на автомобилях Cadillac.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P2097": {
+      "note_ru": "Код P2097 (Система впрыска топлива (P2097)) на автомобилях Cadillac.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P2187": {
+      "note_ru": "Код P2187 (Электронная дроссельная заслонка (P2087)) на автомобилях Cadillac.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P2188": {
+      "note_ru": "Код P2188 (Электронная дроссельная заслонка (P2088)) на автомобилях Cadillac.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P2195": {
+      "note_ru": "Код P2195 (Электронная дроссельная заслонка (P2095)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P2196": {
+      "note_ru": "Код P2196 (Электронная дроссельная заслонка (P2096)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P2197": {
+      "note_ru": "Код P2197 (Электронная дроссельная заслонка (P2097)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "U0073": {
+      "note_ru": "Код U0073 (Обрыв шины связи блока управления) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ev",
+      "can_drive": "yes_caution"
+    },
+    "U0100": {
+      "note_ru": "Код U0100 на Кадиллаках (Escalade, XT5, SRX) указывает на потерю связи с двигателем по шине CAN, что часто вызвано окислением контактов в разъеме жгута под капотом или неисправностью самого модуля ECM.",
+      "common_fix_ru": "В 80% случаев помогает чистка контактов и замена разъема жгута (15 000–25 000 руб.), реже требуется замена модуля ECM (от 120 000 руб.).",
+      "frequency": "rare",
+      "severity_override": "urgent",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "U0101": {
+      "note_ru": "Код U0101 (Потеря связи с ЭБУ КПП) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "U0121": {
+      "note_ru": "Код U0121 (Потеря связи с блоком ABS) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_caution"
+    },
+    "U0126": {
+      "note_ru": "Код U0126 (Потеря связи с датчиком угла руля) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_caution"
+    },
+    "U0140": {
+      "note_ru": "Код U0140 (Потеря связи с блоком управления кузовом) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "control-module",
+      "can_drive": "yes_caution"
+    },
+    "U0151": {
+      "note_ru": "Код U0151 (Потеря связи с блоком систем безопасности) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "sensors",
+      "can_drive": "yes_caution"
+    },
+    "U0155": {
+      "note_ru": "Код U0155 на Кадиллаках (Escalade, XT5, SRX) указывает на потерю связи с приборной панелью через шину CAN, что часто сопровождается миганием индикаторов или полным отключением дисплея. В отличие от общих проблем, на российских моделях это может быть вызвано окислением контактов в разъеме панели из-за влажности или заводским дефектом модуля.",
+      "common_fix_ru": "Чаще всего помогает перепрошивка PCM или замена модуля приборной панели (б/у от 15 000 руб., новый от 80 000 руб.). Если проблема в проводке, стоимость диагностики и ремонта жгута составит около 10 000–15 000 руб.",
+      "frequency": "rare",
+      "severity_override": "urgent",
+      "system_id": "audio",
+      "can_drive": "yes_caution"
+    },
+    "U0164": {
+      "note_ru": "Код U0164 (Потеря связи с блоком климат-контроля) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "display",
+      "can_drive": "yes_caution"
+    },
+    "U0168": {
+      "note_ru": "Код U0168 (Потеря связи с модулем охранной системы) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "adas",
+      "can_drive": "yes_caution"
+    },
+    "U0184": {
+      "note_ru": "Код U0184 (Потеря связи с мультимедиа) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "adas",
+      "can_drive": "yes_caution"
+    },
+    "U0293": {
+      "note_ru": "Код U0293 (Потеря связи с зарядным модулем ВВ батареи A) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ev",
+      "can_drive": "yes_caution"
+    },
+    "U0300": {
+      "note_ru": "Код U0300 (Код U0300 (специфичный для Li Auto)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "controller",
+      "can_drive": "yes_caution"
+    },
+    "U0305": {
+      "note_ru": "Код U0305 (Несовместимость ПО с LiDAR датчиком) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "adas",
+      "can_drive": "yes_caution"
+    },
+    "U0401": {
+      "note_ru": "Код U0401 (Некорректные данные от ЭБУ двигателя A) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "U0415": {
+      "note_ru": "Код U0415 (Некорректные данные от блока ABS) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_caution"
+    },
+    "U0416": {
+      "note_ru": "Код U0416 (Некорректные данные от блока динамики) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_caution"
+    },
+    "U1000": {
+      "note_ru": "Код U1000 (Таймаут CAN) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "electrical",
+      "can_drive": "yes_caution"
+    },
+    "U1001": {
+      "note_ru": "Код U1001 (Код U1001 (специфичный для Li Auto)) на автомобилях Cadillac.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "electrical",
+      "can_drive": "yes_caution"
+    }
+  }
+}

@@ -1,0 +1,2046 @@
+{
+  "brand": "haval",
+  "model": "jolion",
+  "updated": "2026-03-29",
+  "codes": {
+    "B0001": {
+      "note_ru": "Код B0001 (Управление раскрытием подушки водителя (стадия 1)) на автомобилях Haval.",
+      "common_fix_ru": "Немедленно обратиться в сервис для диагностики системы SRS. Не ездить до устранения!",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "sensors",
+      "can_drive": "no_stop"
+    },
+    "B0002": {
+      "note_ru": "Код B0002 (Управление раскрытием подушки водителя (стадия 2)) на автомобилях Haval.",
+      "common_fix_ru": "Немедленно обратиться в сервис для диагностики системы SRS. Не ездить до устранения!",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "sensors",
+      "can_drive": "no_stop"
+    },
+    "B0010": {
+      "note_ru": "Код B0010 (Управление раскрытием подушки пассажира (стадия 1)) на автомобилях Haval.",
+      "common_fix_ru": "Немедленно обратиться в сервис для диагностики системы SRS. Не ездить до устранения!",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "sensors",
+      "can_drive": "no_stop"
+    },
+    "B0028": {
+      "note_ru": "Код B0028 (Right Side Airbag Deployment Control (Subfault)) на автомобилях Haval.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "note_en": "Right Side Airbag Deployment Control (Subfault)",
+      "system_id": "body",
+      "can_drive": "check"
+    },
+    "B0051": {
+      "note_ru": "Код B0051 (Датчик удара — правая сторона) на автомобилях Haval.",
+      "common_fix_ru": "Немедленно обратиться в сервис для диагностики системы SRS. Не ездить до устранения!",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "sensors",
+      "can_drive": "no_stop"
+    },
+    "B0071": {
+      "note_ru": "Код B0071 (First Row Center Seatbelt Pretensioner Deployment Control (Subfault)) на автомобилях Haval.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "low",
+      "source": "dtc_enrichment_v1",
+      "note_en": "First Row Center Seatbelt Pretensioner Deployment Control (Subfault)",
+      "system_id": "body",
+      "can_drive": "check"
+    },
+    "B0092": {
+      "note_ru": "Код B0092 (Left Side Restraints Sensor 2 (Subfault)) на автомобилях Haval.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "note_en": "Left Side Restraints Sensor 2 (Subfault)",
+      "system_id": "body",
+      "can_drive": "check"
+    },
+    "B0095": {
+      "note_ru": "Код B0095 (Right Frontal Restraints Sensor (Subfault)) на автомобилях Haval.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "note_en": "Right Frontal Restraints Sensor (Subfault)",
+      "system_id": "body",
+      "can_drive": "check"
+    },
+    "B0100": {
+      "note_ru": "Код B0100 (Электронный передний датчик 1) на автомобилях Haval.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "safety",
+      "can_drive": "no_stop"
+    },
+    "B1310": {
+      "note_ru": "Код B1310 (Цепь мотора рециркуляции HVAC) на автомобилях Haval.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "body",
+      "can_drive": "yes_safe"
+    },
+    "B1312": {
+      "note_ru": "Код B1312 (Код B1312 (специфичный для Li Auto)) на автомобилях Haval.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "body",
+      "can_drive": "yes_safe"
+    },
+    "B1317": {
+      "note_ru": "Код B1317 (Исполнительный механизм климата (B1317)) на автомобилях Haval.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "hvac",
+      "can_drive": "yes_safe"
+    },
+    "B1318": {
+      "note_ru": "Код B1318 (Исполнительный механизм климата (B1318)) на автомобилях Haval.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "hvac",
+      "can_drive": "yes_safe"
+    },
+    "B1325": {
+      "note_ru": "Код B1325 (Цепь реле вентилятора HVAC) на автомобилях Haval.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "hvac",
+      "can_drive": "yes_safe"
+    },
+    "B1381": {
+      "note_ru": "Код B1381 (Исполнительный механизм климата (B1381)) на автомобилях Haval.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "hvac",
+      "can_drive": "yes_safe"
+    },
+    "B1382": {
+      "note_ru": "Код B1382 (Исполнительный механизм климата (B1382)) на автомобилях Haval.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "hvac",
+      "can_drive": "yes_safe"
+    },
+    "B1601": {
+      "note_ru": "Код B1601 (Код B1601 (специфичный для Li Auto)) на автомобилях Haval.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "display",
+      "can_drive": "yes_safe"
+    },
+    "B1650": {
+      "note_ru": "Код B1650 (Цепь мотора передних дворников) на автомобилях Haval.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "body",
+      "can_drive": "yes_safe"
+    },
+    "B2278": {
+      "note_ru": "Код B2278 (Электроника кузова — B2 (B2278)) на автомобилях Haval.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "body",
+      "can_drive": "yes_safe"
+    },
+    "B2799": {
+      "note_ru": "Код B2799 (Электроника кузова — B2 (B2799)) на автомобилях Haval.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "body",
+      "can_drive": "yes_safe"
+    },
+    "C0035": {
+      "note_ru": "На Хавалах (Dargo, F7, Haval H6) код C0035 указывает на обрыв цепи или потерю сигнала с датчика скорости левого переднего колеса, что часто вызывает ложное срабатывание ABS и отключение ESP. Владельцы отмечают, что проблема может возникать из-за повреждения проводки в арке или окисления разъема датчика.",
+      "common_fix_ru": "Чаще всего помогает замена датчика скорости колеса (1 500–3 500 руб.) или ремонт проводки (от 2 000 руб. за работу + материалы). Если проблема в блоке ABS, потребуется его диагностика или замена (от 15 000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "system_id": "brake-control",
+      "can_drive": "no_stop"
+    },
+    "C0040": {
+      "note_ru": "Код C0040 на Haval (Dargo, F7) указывает на обрыв или короткое замыкание в цепи датчика скорости переднего правого колеса, что часто вызывает ложное срабатывание ABS и блокировку ESP при движении.",
+      "common_fix_ru": "Чаще всего проблема решается заменой датчика ABS (1500–2500 руб.) или восстановлением проводки до разъема (от 3000 руб.), так как на этих моделях проводка в подвеске подвержена коррозии.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "system_id": "brake-control",
+      "can_drive": "no_stop"
+    },
+    "C0045": {
+      "note_ru": "На Хавалах (Dargo, F7, H6) код C0045 указывает на потерю сигнала с датчика скорости левого переднего колеса, что часто вызывает ложное срабатывание ABS и ESP из-за плохого контакта в разъеме или повреждения проводки.",
+      "common_fix_ru": "Чаще всего помогает чистка разъема датчика или замена самого датчика (1500–3500 руб.) и проверка целостности проводки до блока ABS (работа от 2000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "system_id": "brake-control",
+      "can_drive": "no_stop"
+    },
+    "C0050": {
+      "note_ru": "Код C0050 (Цепь датчика скорости ПЗ колеса) на автомобилях Haval.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brake-control",
+      "can_drive": "no_stop"
+    },
+    "C0051": {
+      "note_ru": "Код C0051 (LF Wheel Speed Sensor Circuit Range/Performance (EBCM)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dtc_enrichment_v1",
+      "note_en": "LF Wheel Speed Sensor Circuit Range/Performance (EBCM)",
+      "system_id": "chassis",
+      "can_drive": "check"
+    },
+    "C0060": {
+      "note_ru": "Код C0060 на Haval (Dargo, F7, H6) указывает на неисправность датчика скорости вращения колеса, что часто связано с загрязнением датчика или повреждением зубчатого венца на ступице.",
+      "common_fix_ru": "В 80% случаев помогает чистка датчика и проверка целостности проводки (замена датчика стоит 2500–4500 руб., работа СТО — от 1500 руб.).",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "system_id": "brakes",
+      "can_drive": "no_stop"
+    },
+    "C0065": {
+      "note_ru": "Код C0065 на Хавалах (Dargo, F7, Haval H6) указывает на неисправность цепи датчика скорости вращения колеса, что часто связано с загрязнением датчика или обрывом проводки из-за коррозии в российских условиях.",
+      "common_fix_ru": "Чистка датчика ABS и замена поврежденного провода или самого датчика (оригинал 2500–4500 руб., аналог 1200–2000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "note_en": "Left Front ABS Solenoid #2 Circuit Malfunction",
+      "system_id": "chassis",
+      "can_drive": "check"
+    },
+    "C0070": {
+      "note_ru": "Код C0070 на Haval (Dargo, F7, H6) указывает на неисправность цепи питания или самого мотора насоса ABS, что часто встречается при скачках напряжения или окислении контактов в блоке управления.",
+      "common_fix_ru": "Чаще всего помогает замена мотора насоса ABS (18 000–25 000 руб.) или перепайка контактов в разъеме; полная замена блока ABS обойдется в 45 000–60 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "system_id": "brakes",
+      "can_drive": "no_stop"
+    },
+    "C0075": {
+      "note_ru": "Код C0075 на Haval (Dargo, F7, H6) указывает на неисправность датчика скорости вращения колеса ABS, что часто связано с загрязнением датчика или повреждением зубчатого венца на ступице.",
+      "common_fix_ru": "В 80% случаев помогает чистка датчика и проверка зазора; при повреждении венца требуется замена ступицы в сборе (от 12 000 до 25 000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "note_en": "Right Front ABS Solenoid #2 Circuit Malfunction",
+      "system_id": "chassis",
+      "can_drive": "check"
+    },
+    "C0080": {
+      "note_ru": "Код C0080 на Haval (Dargo, F7, H6) указывает на неисправность датчика скорости вращения колеса, что часто связано с загрязнением датчика или повреждением зубчатого кольца на ступице.",
+      "common_fix_ru": "В 80% случаев помогает чистка датчика и проверка целостности провода; при повреждении кольца требуется замена ступичного узла (от 12 000 до 25 000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "note_en": "Left Rear ABS Solenoid #1 Circuit Malfunction",
+      "system_id": "chassis",
+      "can_drive": "check"
+    },
+    "C0085": {
+      "note_ru": "Код C0085 на Haval (Dargo, F7, H6) указывает на неисправность цепи датчика скорости вращения колеса ABS, часто возникающую из-за окисления контактов или повреждения проводки в задних арках.",
+      "common_fix_ru": "В 80% случаев помогает чистка контактов датчика и замена самого датчика (1500–3500 руб.), реже требуется замена проводки (от 8000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "note_en": "Left Rear ABS Solenoid #2 Circuit Malfunction",
+      "system_id": "chassis",
+      "can_drive": "check"
+    },
+    "C0090": {
+      "note_ru": "Код C0090 на Haval (Dargo, F7, H6) указывает на неисправность датчика скорости вращения колеса ABS, часто возникающую из-за загрязнения датчика или повреждения проводки в пыльных условиях эксплуатации.",
+      "common_fix_ru": "Очистка датчика и проверка целостности проводки (от 1500 руб.), при необходимости замена датчика на оригинал или качественный аналог (от 2500 до 4500 руб.).",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "note_en": "Right Rear ABS Solenoid #1 Circuit Malfunction",
+      "system_id": "chassis",
+      "can_drive": "check"
+    },
+    "C0110": {
+      "note_ru": "Код C0110 на Haval (Dargo, F7, H2) указывает на неисправность цепи привода насоса ABS, что часто сопровождается миганием индикаторов ABS и EBD и потерей помощи при торможении.",
+      "common_fix_ru": "Чаще всего проблема решается заменой насоса ABS или всего блока в сборе; стоимость ремонта в России составляет от 25 000 до 65 000 рублей в зависимости от модели и наличия запчастей.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "system_id": "brakes",
+      "can_drive": "no_stop"
+    },
+    "C0236": {
+      "note_ru": "Код C0236 (Rear Wheel Speed Signal Circuit Missing) на автомобилях Haval.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dtc_enrichment_v1",
+      "note_en": "Rear Wheel Speed Signal Circuit Missing",
+      "system_id": "chassis",
+      "can_drive": "check"
+    },
+    "C0265": {
+      "note_ru": "Код C0265 (Цепь реле EBCM) на автомобилях Haval.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "no_danger"
+    },
+    "C0267": {
+      "note_ru": "Код C0267 (Pump Motor Circuit Open/Shorted) на автомобилях Haval.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dtc_enrichment_v1",
+      "note_en": "Pump Motor Circuit Open/Shorted",
+      "system_id": "chassis",
+      "can_drive": "check"
+    },
+    "C0279": {
+      "note_ru": "Код C0279 (Powertrain Configuration Not Valid) на автомобилях Haval.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "low",
+      "source": "dtc_enrichment_v1",
+      "note_en": "Powertrain Configuration Not Valid",
+      "system_id": "chassis",
+      "can_drive": "check"
+    },
+    "C0284": {
+      "note_ru": "Код C0284 (EBCM Malfunction) на автомобилях Haval.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "low",
+      "source": "dtc_enrichment_v1",
+      "note_en": "EBCM Malfunction",
+      "system_id": "chassis",
+      "can_drive": "check"
+    },
+    "C0710": {
+      "note_ru": "Код C0710 (Датчик положения руля) на автомобилях Haval.",
+      "common_fix_ru": "Проверить датчик угла поворота руля и систему ЭУР.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_safe"
+    },
+    "C1201": {
+      "note_ru": "Код C1201 (Код C1201 (специфичный для Li Auto)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brake-control",
+      "can_drive": "yes_caution"
+    },
+    "C1241": {
+      "note_ru": "Код C1241 (Тормозная система — C1 расширенная (C1241)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_caution"
+    },
+    "C1249": {
+      "note_ru": "Код C1249 (Тормозная система — C1 расширенная (C1249)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_caution"
+    },
+    "C1252": {
+      "note_ru": "Код C1252 (Тормозная система — C1 расширенная (C1252)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_caution"
+    },
+    "C1256": {
+      "note_ru": "Код C1256 (Тормозная система — C1 расширенная (C1256)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_caution"
+    },
+    "C1278": {
+      "note_ru": "Код C1278 (Тормозная система — C1 расширенная (C1278)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_caution"
+    },
+    "C1288": {
+      "note_ru": "Код C1288 (Тормозная система — C1 расширенная (C1288)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_caution"
+    },
+    "P0011": {
+      "note_ru": "Код P0011 (Опережение фаз распредвала (Банк 1)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить систему изменения фаз газораспределения: клапан VVT/VVT-i, цепь/ремень ГРМ.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0012": {
+      "note_ru": "Код P0012 (Запаздывание фаз распредвала (Банк 1)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить систему изменения фаз газораспределения: клапан VVT/VVT-i, цепь/ремень ГРМ.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0016": {
+      "note_ru": "Код P0016 (Корреляция положения коленвала/распредвала (Банк 1)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить систему изменения фаз газораспределения: клапан VVT/VVT-i, цепь/ремень ГРМ.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0021": {
+      "note_ru": "Код P0021 (Система подачи топлива — цепь (P0021)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить систему изменения фаз газораспределения: клапан VVT/VVT-i, цепь/ремень ГРМ.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0022": {
+      "note_ru": "Код P0022 (Система подачи топлива — цепь (P0022)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить систему изменения фаз газораспределения: клапан VVT/VVT-i, цепь/ремень ГРМ.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0087": {
+      "note_ru": "Код P0087 (Код P0087 (специфичный для Li Auto)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить топливный фильтр, форсунки и давление в топливной системе.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "fuel",
+      "can_drive": "no_danger"
+    },
+    "P0088": {
+      "note_ru": "Код P0088 (Код P0088 (специфичный для Li Auto)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить топливный фильтр, форсунки и давление в топливной системе.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "fuel",
+      "can_drive": "no_stop"
+    },
+    "P0089": {
+      "note_ru": "Код P0089 (Система топливной подачи (P0089)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить топливный фильтр, форсунки и давление в топливной системе.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0102": {
+      "note_ru": "Код P0102 (Низкий сигнал MAF) на автомобилях Haval.",
+      "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF/MAP), воздушный фильтр и впускной тракт.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "intake",
+      "can_drive": "yes_caution"
+    },
+    "P0103": {
+      "note_ru": "Код P0103 (Высокий сигнал MAF) на автомобилях Haval.",
+      "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF/MAP), воздушный фильтр и впускной тракт.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "intake",
+      "can_drive": "yes_caution"
+    },
+    "P0105": {
+      "note_ru": "Код P0105 (Цепь датчика массового расхода воздуха (P0105)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF/MAP), воздушный фильтр и впускной тракт.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0106": {
+      "note_ru": "Код P0106 (Диапазон/производительность MAP/барометр) на автомобилях Haval.",
+      "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF/MAP), воздушный фильтр и впускной тракт.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0107": {
+      "note_ru": "Код P0107 (Низкий сигнал MAP/барометр) на автомобилях Haval.",
+      "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF/MAP), воздушный фильтр и впускной тракт.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0108": {
+      "note_ru": "Код P0108 (Цепь датчика массового расхода воздуха (P0108)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF/MAP), воздушный фильтр и впускной тракт.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0110": {
+      "note_ru": "Код P0110 (Неисправность датчика температуры впускного воздуха) на автомобилях Haval.",
+      "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF/MAP), воздушный фильтр и впускной тракт.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0113": {
+      "note_ru": "Код P0113 (Цепь датчика температуры впускного воздуха (P0113)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF/MAP), воздушный фильтр и впускной тракт.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0115": {
+      "note_ru": "Код P0115 (Неисправность датчика температуры ОЖ) на автомобилях Haval.",
+      "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF/MAP), воздушный фильтр и впускной тракт.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "no_stop"
+    },
+    "P0117": {
+      "note_ru": "Код P0117 (Низкий сигнал датчика температуры ОЖ) на автомобилях Haval.",
+      "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF/MAP), воздушный фильтр и впускной тракт.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "cooling",
+      "can_drive": "no_stop"
+    },
+    "P0118": {
+      "note_ru": "Код P0118 (Высокий сигнал датчика температуры ОЖ) на автомобилях Haval.",
+      "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF/MAP), воздушный фильтр и впускной тракт.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "cooling",
+      "can_drive": "no_stop"
+    },
+    "P0120": {
+      "note_ru": "Код P0120 (Цепь датчика положения дроссельной заслонки A) на автомобилях Haval.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "no_stop"
+    },
+    "P0121": {
+      "note_ru": "Код P0121 (Диапазон/производительность TPS A) на автомобилях Haval.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "no_stop"
+    },
+    "P0122": {
+      "note_ru": "Код P0122 (Низкий сигнал TPS A) на автомобилях Haval.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "no_stop"
+    },
+    "P0123": {
+      "note_ru": "Код P0123 (Высокий сигнал TPS A) на автомобилях Haval.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "no_stop"
+    },
+    "P0130": {
+      "note_ru": "Код P0130 (Цепь кислородного датчика (Банк 1, Датчик 1)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0131": {
+      "note_ru": "Код P0131 (Низкое напряжение O2 (Банк 1, Датчик 1)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0132": {
+      "note_ru": "Код P0132 (Код P0132 (специфичный для Li Auto)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0133": {
+      "note_ru": "Код P0133 (Медленный отклик O2 (Банк 1, Датчик 1)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0134": {
+      "note_ru": "Код P0134 (Кислородный датчик (Банк 1) (P0134)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0135": {
+      "note_ru": "Код P0135 (Кислородный датчик (Банк 1) (P0135)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0136": {
+      "note_ru": "Код P0136 (Код P0136 (специфичный для Li Auto)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0137": {
+      "note_ru": "Код P0137 (Код P0137 (специфичный для Li Auto)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0138": {
+      "note_ru": "Код P0138 (Код P0138 (специфичный для Li Auto)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0140": {
+      "note_ru": "Код P0140 (Кислородный датчик (Банк 1) (P0140)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0141": {
+      "note_ru": "Код P0141 (Кислородный датчик (Банк 1) (P0141)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0172": {
+      "note_ru": "Код P0172 (Богатая смесь (Банк 1)) на автомобилях Haval.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0174": {
+      "note_ru": "Код P0174 (Бедная смесь (Банк 2)) на автомобилях Haval.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0175": {
+      "note_ru": "Код P0175 (Богатая смесь (Банк 2)) на автомобилях Haval.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0190": {
+      "note_ru": "Код P0190 (Код P0190 (специфичный для Li Auto)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить топливный фильтр, форсунки и давление в топливной системе.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "fuel",
+      "can_drive": "no_danger"
+    },
+    "P0191": {
+      "note_ru": "Код P0191 (Код P0191 (специфичный для Li Auto)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить топливный фильтр, форсунки и давление в топливной системе.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "fuel",
+      "can_drive": "yes_caution"
+    },
+    "P0192": {
+      "note_ru": "Код P0192 (Fuel Rail Pressure Sensor Circuit Low Input) на автомобилях Haval.",
+      "common_fix_ru": "Проверить топливный фильтр, форсунки и давление в топливной системе.",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dtc_enrichment_v1",
+      "note_en": "Fuel Rail Pressure Sensor Circuit Low Input",
+      "system_id": "engine",
+      "can_drive": "check"
+    },
+    "P0193": {
+      "note_ru": "Код P0193 (Fuel Rail Pressure Sensor Circuit High Input) на автомобилях Haval.",
+      "common_fix_ru": "Проверить топливный фильтр, форсунки и давление в топливной системе.",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dtc_enrichment_v1",
+      "note_en": "Fuel Rail Pressure Sensor Circuit High Input",
+      "system_id": "engine",
+      "can_drive": "check"
+    },
+    "P0201": {
+      "note_ru": "Код P0201 (Код P0201 (специфичный для Li Auto)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить форсунки: промывка ультразвуком или замена. Стоимость: промывка 3 000-5 000 руб., замена 5 000-15 000 руб. за штуку.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "fuel",
+      "can_drive": "yes_caution"
+    },
+    "P0202": {
+      "note_ru": "Код P0202 (Код P0202 (специфичный для Li Auto)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить форсунки: промывка ультразвуком или замена. Стоимость: промывка 3 000-5 000 руб., замена 5 000-15 000 руб. за штуку.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "fuel",
+      "can_drive": "yes_caution"
+    },
+    "P0203": {
+      "note_ru": "Код P0203 (Код P0203 (специфичный для Li Auto)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить форсунки: промывка ультразвуком или замена. Стоимость: промывка 3 000-5 000 руб., замена 5 000-15 000 руб. за штуку.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "fuel",
+      "can_drive": "yes_caution"
+    },
+    "P0204": {
+      "note_ru": "Код P0204 (Код P0204 (специфичный для Li Auto)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить форсунки: промывка ультразвуком или замена. Стоимость: промывка 3 000-5 000 руб., замена 5 000-15 000 руб. за штуку.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "fuel",
+      "can_drive": "yes_caution"
+    },
+    "P0234": {
+      "note_ru": "Код P0234 (Код P0234 (специфичный для Li Auto)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить систему наддува: трубопроводы, клапан управления давлением, интеркулер.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "intake",
+      "can_drive": "yes_safe"
+    },
+    "P0301": {
+      "note_ru": "Код P0301 (Пропуски зажигания в цилиндре 1) на автомобилях Haval.",
+      "common_fix_ru": "Проверить свечи зажигания и катушки зажигания. Стоимость замены: свечи 2 000-5 000 руб., катушка 3 000-8 000 руб.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ignition",
+      "can_drive": "yes_caution"
+    },
+    "P0302": {
+      "note_ru": "Код P0302 (Пропуски зажигания в цилиндре 2) на автомобилях Haval.",
+      "common_fix_ru": "Проверить свечи зажигания и катушки зажигания. Стоимость замены: свечи 2 000-5 000 руб., катушка 3 000-8 000 руб.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ignition",
+      "can_drive": "yes_caution"
+    },
+    "P0303": {
+      "note_ru": "Код P0303 (Пропуски зажигания в цилиндре 3) на автомобилях Haval.",
+      "common_fix_ru": "Проверить свечи зажигания и катушки зажигания. Стоимость замены: свечи 2 000-5 000 руб., катушка 3 000-8 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ignition",
+      "can_drive": "yes_caution"
+    },
+    "P0304": {
+      "note_ru": "Код P0304 (Пропуски зажигания в цилиндре 4) на автомобилях Haval.",
+      "common_fix_ru": "Проверить свечи зажигания и катушки зажигания. Стоимость замены: свечи 2 000-5 000 руб., катушка 3 000-8 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ignition",
+      "can_drive": "yes_caution"
+    },
+    "P0325": {
+      "note_ru": "Код P0325 (Цепь датчика детонации 1 (Банк 1)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить датчик и его проводку, при необходимости - замена.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0327": {
+      "note_ru": "Код P0327 (Система зажигания (P0327)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить датчик и его проводку, при необходимости - замена.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0328": {
+      "note_ru": "Код P0328 (Система зажигания (P0328)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить датчик и его проводку, при необходимости - замена.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0335": {
+      "note_ru": "Код P0335 (Цепь датчика положения коленвала A) на автомобилях Haval.",
+      "common_fix_ru": "Проверить датчик и его проводку, при необходимости - замена.",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0336": {
+      "note_ru": "Код P0336 (Цепь датчика детонации (P0336)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить датчик и его проводку, при необходимости - замена.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0340": {
+      "note_ru": "Код P0340 (Цепь датчика положения распредвала (Банк 1)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить датчик и его проводку, при необходимости - замена.",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0341": {
+      "note_ru": "Код P0341 (Диапазон/производительность ДПРВ (Банк 1)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить датчик и его проводку, при необходимости - замена.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0345": {
+      "note_ru": "Код P0345 (Цепь датчика положения распредвала (P0345)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить датчик и его проводку, при необходимости - замена.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0351": {
+      "note_ru": "Код P0351 (Цепь катушки зажигания A) на автомобилях Haval.",
+      "common_fix_ru": "Проверить свечи зажигания и катушки зажигания. Стоимость замены: свечи 2 000-5 000 руб., катушка 3 000-8 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ignition",
+      "can_drive": "yes_safe"
+    },
+    "P0352": {
+      "note_ru": "Код P0352 (Код P0352 (специфичный для Li Auto)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить свечи зажигания и катушки зажигания. Стоимость замены: свечи 2 000-5 000 руб., катушка 3 000-8 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ignition",
+      "can_drive": "yes_safe"
+    },
+    "P0353": {
+      "note_ru": "Код P0353 (Код P0353 (специфичный для Li Auto)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить свечи зажигания и катушки зажигания. Стоимость замены: свечи 2 000-5 000 руб., катушка 3 000-8 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ignition",
+      "can_drive": "yes_safe"
+    },
+    "P0354": {
+      "note_ru": "Код P0354 (Код P0354 (специфичный для Li Auto)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить свечи зажигания и катушки зажигания. Стоимость замены: свечи 2 000-5 000 руб., катушка 3 000-8 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ignition",
+      "can_drive": "yes_safe"
+    },
+    "P0401": {
+      "note_ru": "Код P0401 (Недостаточный поток EGR) на автомобилях Haval.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0402": {
+      "note_ru": "Код P0402 (Система рециркуляции отработавших газов (EGR) (P0402)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0403": {
+      "note_ru": "Код P0403 (Система рециркуляции отработавших газов (EGR) (P0403)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0430": {
+      "note_ru": "Код P0430 (Эффективность катализатора ниже порога (Банк 2)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "exhaust",
+      "can_drive": "yes_caution"
+    },
+    "P0440": {
+      "note_ru": "Код P0440 (Неисправность системы улавливания паров топлива) на автомобилях Haval.",
+      "common_fix_ru": "Проверить систему улавливания паров топлива (EVAP): клапан продувки, крышку бензобака, шланги.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0441": {
+      "note_ru": "Код P0441 (Система улавливания паров топлива (EVAP) (P0441)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить систему улавливания паров топлива (EVAP): клапан продувки, крышку бензобака, шланги.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0442": {
+      "note_ru": "Код P0442 (Обнаружена малая утечка EVAP) на автомобилях Haval.",
+      "common_fix_ru": "Проверить систему улавливания паров топлива (EVAP): клапан продувки, крышку бензобака, шланги.",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0443": {
+      "note_ru": "Код P0443 (Система улавливания паров топлива (EVAP) (P0443)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить систему улавливания паров топлива (EVAP): клапан продувки, крышку бензобака, шланги.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0446": {
+      "note_ru": "Код P0446 (Производительность вентиляции EVAP) на автомобилях Haval.",
+      "common_fix_ru": "Проверить систему улавливания паров топлива (EVAP): клапан продувки, крышку бензобака, шланги.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0449": {
+      "note_ru": "Код P0449 (Система улавливания паров топлива (EVAP) (P0449)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить систему улавливания паров топлива (EVAP): клапан продувки, крышку бензобака, шланги.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0455": {
+      "note_ru": "Код P0455 (Обнаружена большая утечка EVAP) на автомобилях Haval.",
+      "common_fix_ru": "Проверить систему улавливания паров топлива (EVAP): клапан продувки, крышку бензобака, шланги.",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0456": {
+      "note_ru": "Код P0456 (Система улавливания паров топлива (EVAP) (P0456)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить систему улавливания паров топлива (EVAP): клапан продувки, крышку бензобака, шланги.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0500": {
+      "note_ru": "Код P0500 (Датчик скорости автомобиля A) на автомобилях Haval.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "drivetrain",
+      "can_drive": "yes_safe"
+    },
+    "P0501": {
+      "note_ru": "Код P0501 (Датчик скорости автомобиля (P0501)) на автомобилях Haval.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "drivetrain",
+      "can_drive": "yes_safe"
+    },
+    "P0505": {
+      "note_ru": "Код P0505 (Система управления холостым ходом) на автомобилях Haval.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0507": {
+      "note_ru": "Код P0507 (Обороты ХХ выше ожидаемых) на автомобилях Haval.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0520": {
+      "note_ru": "Код P0520 (Код P0520 (специфичный для Li Auto)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить уровень и давление масла. При необходимости - замена датчика давления масла (2 000-5 000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "pump",
+      "can_drive": "no_stop"
+    },
+    "P0521": {
+      "note_ru": "Код P0521 (Код P0521 (специфичный для Li Auto)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить уровень и давление масла. При необходимости - замена датчика давления масла (2 000-5 000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "pump",
+      "can_drive": "no_stop"
+    },
+    "P0522": {
+      "note_ru": "Код P0522 (Код P0522 (специфичный для Li Auto)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить уровень и давление масла. При необходимости - замена датчика давления масла (2 000-5 000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "pump",
+      "can_drive": "no_stop"
+    },
+    "P0523": {
+      "note_ru": "Код P0523 (Код P0523 (специфичный для Li Auto)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить уровень и давление масла. При необходимости - замена датчика давления масла (2 000-5 000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "pump",
+      "can_drive": "no_stop"
+    },
+    "P0524": {
+      "note_ru": "Код P0524 (Код P0524 (специфичный для Li Auto)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить уровень и давление масла. При необходимости - замена датчика давления масла (2 000-5 000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "filtration",
+      "can_drive": "yes_safe"
+    },
+    "P0560": {
+      "note_ru": "Код P0560 (Код P0560 (специфичный для Li Auto)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить термостат и систему охлаждения. Стоимость замены термостата: 3 000-10 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "cooling",
+      "can_drive": "yes_safe"
+    },
+    "P0562": {
+      "note_ru": "Код P0562 (Низкое напряжение бортовой сети) на автомобилях Haval.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "electrical",
+      "can_drive": "yes_safe"
+    },
+    "P0563": {
+      "note_ru": "Код P0563 (Высокое напряжение бортовой сети) на автомобилях Haval.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "electrical",
+      "can_drive": "yes_safe"
+    },
+    "P0600": {
+      "note_ru": "Код P0600 (Последовательная линия связи) на автомобилях Haval.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ev",
+      "can_drive": "yes_safe"
+    },
+    "P0601": {
+      "note_ru": "Код P0601 (Связь блоков управления (P0601)) на автомобилях Haval.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ev",
+      "can_drive": "yes_safe"
+    },
+    "P0700": {
+      "note_ru": "Код P0700 (Неисправность системы управления КПП) на автомобилях Haval.",
+      "common_fix_ru": "Выполнить диагностику АКПП/вариатора. Проверить уровень и состояние масла трансмиссии.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0705": {
+      "note_ru": "Код P0705 (Цепь датчика диапазона КПП) на автомобилях Haval.",
+      "common_fix_ru": "Выполнить диагностику АКПП/вариатора. Проверить уровень и состояние масла трансмиссии.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0707": {
+      "note_ru": "На автомобилях Haval (Dargo, F7, H6) код P0707 указывает на низкое напряжение сигнала датчика положения селектора АКПП, что часто связано с окислением контактов в разъеме или неисправностью самого датчика на коробке Aisin.",
+      "common_fix_ru": "Чаще всего помогает чистка контактов разъема датчика (500–1500 руб.) или замена датчика положения селектора (3500–6000 руб. за деталь + 2000 руб. работа).",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0711": {
+      "note_ru": "На автомобилях Haval (Dargo, F7, H6) код P0711 указывает на некорректный диапазон сигнала датчика температуры ATF, часто вызванный окислением контактов в разъеме или выходом из строя самого термистора в корпусе клапанной группы.",
+      "common_fix_ru": "Чаще всего помогает замена датчика температуры масла (аналог или оригинал) в сборе с уплотнением: 3500–6000 руб. за деталь + 1500–2500 руб. за работу; в редких случаях требуется замена корпуса клапанной группы (от 25 000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0712": {
+      "note_ru": "На Хавалах с автоматической коробкой передач (Dargo, F7) код P0712 указывает на низкое напряжение сигнала датчика температуры масла, что часто связано с окислением контактов в разъеме или неисправностью самого датчика в корпусе клапанной группы.",
+      "common_fix_ru": "Чаще всего помогает замена датчика температуры ATF (около 3500–5500 руб.) и чистка контактов; полная замена корпуса клапанной группы требуется редко и стоит от 25 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0715": {
+      "note_ru": "Код P0715 (Цепь датчика скорости входного вала КПП) на автомобилях Haval.",
+      "common_fix_ru": "Выполнить диагностику АКПП/вариатора. Проверить уровень и состояние масла трансмиссии.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0722": {
+      "note_ru": "На автомобилях Haval (Dargo, F7, H2) код P0722 указывает на неисправность датчика скорости выходного вала АКПП, что часто связано с загрязнением магнитной пробки или обрывом проводки в условиях российских дорог.",
+      "common_fix_ru": "Чаще всего помогает чистка магнитной пробки и замена проводки датчика; стоимость работ с запчастями в 2024-2026 годах составит от 4 500 до 9 000 рублей.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0725": {
+      "note_ru": "Код P0725 (Датчик температуры трансмиссионного масла (P0725)) на автомобилях Haval.",
+      "common_fix_ru": "Выполнить диагностику АКПП/вариатора. Проверить уровень и состояние масла трансмиссии.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0730": {
+      "note_ru": "Код P0730 (Передаточное число трансмиссии (P0730)) на автомобилях Haval.",
+      "common_fix_ru": "Выполнить диагностику АКПП/вариатора. Проверить уровень и состояние масла трансмиссии.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0731": {
+      "note_ru": "На автомобилях Haval (Dargo, F7, H6) код P0731 указывает на несоответствие фактической и расчетной передаточного числа первой передачи, что часто связано с проскальзыванием фрикционов в автомате Aisin или ошибками датчиков скорости. Владельцы отмечают, что проблема может проявляться как рывки при разгоне или переход в аварийный режим (Limp Mode).",
+      "common_fix_ru": "Чаще всего помогает перепрошивка блока управления трансмиссией (стоимость 3000–6000 руб.) или замена масла и фильтров в АКПП (15000–25000 руб. с работой). В случае механического износа фрикционов потребуется капитальный ремонт коробки (от 80000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0740": {
+      "note_ru": "Код P0740 (Передаточное число трансмиссии (P0740)) на автомобилях Haval.",
+      "common_fix_ru": "Выполнить диагностику АКПП/вариатора. Проверить уровень и состояние масла трансмиссии.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0741": {
+      "note_ru": "Код P0741 на Haval (Dargo, F7, H2) указывает на некорректную работу электромагнитного клапана блокировки гидротрансформатора АКПП, что часто сопровождается рывками при разгоне или пробуксовкой.",
+      "common_fix_ru": "В 80% случаев помогает замена клапана блокировки (15 000–25 000 руб.) или прошивка TCU (10 000–15 000 руб.), полная замена коробки требуется крайне редко.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0743": {
+      "note_ru": "Код P0743 на Хавалах (Dargo, F7, H6) указывает на электрическую неисправность цепи электромагнитного клапана управления сцеплением в роботизированной коробке (DCT), что часто сопровождается рывками при переключении или переходом в аварийный режим.",
+      "common_fix_ru": "Чаще всего помогает замена неисправного соленоида сцепления (15 000–25 000 руб.) или ремонт проводки разъема, так как на Хавалах встречается окисление контактов в жгутах коробки передач.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0750": {
+      "note_ru": "На автомобилях Haval (Dargo, F7) код P0750 указывает на неисправность электромагнитного клапана переключения передач в автоматической коробке передач, что часто сопровождается рывками при переключении или переходом в аварийный режим.",
+      "common_fix_ru": "Чаще всего требуется замена клапана в сборе или ремонт гидроблока; стоимость работ и запчастей в России составляет от 15 000 до 35 000 рублей.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0A08": {
+      "note_ru": "Код P0A08 (Цепь управления двигателем B — фаза U) на автомобилях Haval.",
+      "common_fix_ru": "Обратиться в авторизованный сервис для диагностики высоковольтной системы. Самостоятельный ремонт ОПАСЕН.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ev",
+      "can_drive": "yes_caution"
+    },
+    "P0A09": {
+      "note_ru": "Код P0A09 (Код P0A09 (специфичный для Li Auto)) на автомобилях Haval.",
+      "common_fix_ru": "Обратиться в авторизованный сервис для диагностики высоковольтной системы. Самостоятельный ремонт ОПАСЕН.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "power-electronics",
+      "can_drive": "yes_caution"
+    },
+    "P0A0D": {
+      "note_ru": "Код P0A0D (Код P0A0D (специфичный для Li Auto)) на автомобилях Haval.",
+      "common_fix_ru": "Обратиться в авторизованный сервис для диагностики высоковольтной системы. Самостоятельный ремонт ОПАСЕН.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "power-electronics",
+      "can_drive": "yes_caution"
+    },
+    "P0A0F": {
+      "note_ru": "Код P0A0F (Код P0A0F (специфичный для Li Auto)) на автомобилях Haval.",
+      "common_fix_ru": "Обратиться в авторизованный сервис для диагностики высоковольтной системы. Самостоятельный ремонт ОПАСЕН.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "power-electronics",
+      "can_drive": "yes_caution"
+    },
+    "P0A1A": {
+      "note_ru": "Код P0A1A (Цепь главного реле ВВ батареи — отрицательный) на автомобилях Haval.",
+      "common_fix_ru": "Обратиться в авторизованный сервис для диагностики высоковольтной системы. Самостоятельный ремонт ОПАСЕН.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ev",
+      "can_drive": "yes_caution"
+    },
+    "P0A1F": {
+      "note_ru": "Код P0A1F (Производительность датчика напряжения ВВ батареи A) на автомобилях Haval.",
+      "common_fix_ru": "Обратиться в авторизованный сервис для диагностики высоковольтной системы. Самостоятельный ремонт ОПАСЕН.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ev",
+      "can_drive": "yes_caution"
+    },
+    "P0A25": {
+      "note_ru": "Код P0A25 (Слишком низкая температура батареи — ограничение мощности) на автомобилях Haval.",
+      "common_fix_ru": "Обратиться в авторизованный сервис для диагностики высоковольтной системы. Самостоятельный ремонт ОПАСЕН.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ev",
+      "can_drive": "yes_caution"
+    },
+    "P0A3F": {
+      "note_ru": "Код P0A3F (Разбаланс температуры ячеек батареи — Банк 2) на автомобилях Haval.",
+      "common_fix_ru": "Обратиться в авторизованный сервис для диагностики высоковольтной системы. Самостоятельный ремонт ОПАСЕН.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ev",
+      "can_drive": "yes_caution"
+    },
+    "P0A78": {
+      "note_ru": "Код P0A78 (Высокое напряжение ВВ батареи — критическое) на автомобилях Haval.",
+      "common_fix_ru": "Обратиться в авторизованный сервис для диагностики высоковольтной системы. Самостоятельный ремонт ОПАСЕН.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ev",
+      "can_drive": "no_stop"
+    },
+    "P0A7A": {
+      "note_ru": "Код P0A7A (Деградация ВВ батареи) на автомобилях Haval.",
+      "common_fix_ru": "Обратиться в авторизованный сервис для диагностики высоковольтной системы. Самостоятельный ремонт ОПАСЕН.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ev",
+      "can_drive": "yes_caution"
+    },
+    "P0A7F": {
+      "note_ru": "Код P0A7F (Общая неисправность BMS) на автомобилях Haval.",
+      "common_fix_ru": "Обратиться в авторизованный сервис для диагностики высоковольтной системы. Самостоятельный ремонт ОПАСЕН.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ev",
+      "can_drive": "yes_caution"
+    },
+    "P0A80": {
+      "note_ru": "Код P0A80 (Код P0A80 (специфичный для Li Auto)) на автомобилях Haval.",
+      "common_fix_ru": "Обратиться в авторизованный сервис для диагностики высоковольтной системы. Самостоятельный ремонт ОПАСЕН.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "battery-management",
+      "can_drive": "no_stop"
+    },
+    "P0A93": {
+      "note_ru": "Код P0A93 (Неисправность инвертора — внутренняя ошибка) на автомобилях Haval.",
+      "common_fix_ru": "Обратиться в авторизованный сервис для диагностики высоковольтной системы. Самостоятельный ремонт ОПАСЕН.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ev",
+      "can_drive": "no_stop"
+    },
+    "P0AA6": {
+      "note_ru": "Код P0AA6 (Код P0AA6 (специфичный для Li Auto)) на автомобилях Haval.",
+      "common_fix_ru": "Обратиться в авторизованный сервис для диагностики высоковольтной системы. Самостоятельный ремонт ОПАСЕН.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "power-electronics",
+      "can_drive": "no_danger"
+    },
+    "P0AC0": {
+      "note_ru": "Код P0AC0 (Код P0AC0 (специфичный для Li Auto)) на автомобилях Haval.",
+      "common_fix_ru": "Обратиться в авторизованный сервис для диагностики высоковольтной системы. Самостоятельный ремонт ОПАСЕН.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "charging",
+      "can_drive": "yes_caution"
+    },
+    "P0AFA": {
+      "note_ru": "Код P0AFA (Код P0AFA (специфичный для Li Auto)) на автомобилях Haval.",
+      "common_fix_ru": "Обратиться в авторизованный сервис для диагностики высоковольтной системы. Самостоятельный ремонт ОПАСЕН.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "battery-management",
+      "can_drive": "no_stop"
+    },
+    "P0C73": {
+      "note_ru": "Код P0C73 (Клапан охлаждения — неисправность (EV)) на автомобилях Haval.",
+      "common_fix_ru": "Обратиться в авторизованный сервис для диагностики высоковольтной системы. Самостоятельный ремонт ОПАСЕН.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ev",
+      "can_drive": "yes_caution"
+    },
+    "P1106": {
+      "common_fix_ru": "Замена датчика атмосферного давления (2000-5000 руб.) или очистка разъемов (500-1000 руб.).",
+      "note_ru": "Датчик показывает неверное давление воздуха. Двигатель работает нестабильно, может увеличиться расход топлива.",
+      "severity_override": "medium"
+    },
+    "P1107": {
+      "common_fix_ru": "Замена датчика BARO (2000-5000 руб.) или ремонт проводки (1500-3000 руб.).",
+      "note_ru": "Сигнал от датчика давления слишком слабый. Машина может глохнуть на холостых или плохо тянуть в гору.",
+      "severity_override": "medium"
+    },
+    "P1108": {
+      "common_fix_ru": "Замена датчика BARO (2000-5000 руб.) или проверка вакуумных шлангов (500-1500 руб.).",
+      "note_ru": "Сигнал от датчика слишком сильный. Двигатель может работать с перебоями, возможна потеря мощности.",
+      "severity_override": "medium"
+    },
+    "P1121": {
+      "common_fix_ru": "Замена дроссельной заслонки (8000-15000 руб.) или чистка и адаптация (1500-3000 руб.).",
+      "note_ru": "Заслонка открыта меньше, чем нужно. Машина плохо разгоняется, может глохнуть при нажатии газа.",
+      "severity_override": "medium"
+    },
+    "P1122": {
+      "common_fix_ru": "Замена дроссельной заслонки (8000-15000 руб.) или замена педали газа (5000-10000 руб.).",
+      "note_ru": "Заслонка открыта слишком сильно. Машина может резко дергаться при старте или не держать обороты.",
+      "severity_override": "medium"
+    },
+    "P1128": {
+      "common_fix_ru": "Замена датчика MAP (2000-4000 руб.) или поиск подсоса воздуха (1000-2000 руб.).",
+      "note_ru": "Давление во впуске ниже нормы. Двигатель работает неровно, может быть повышенный расход топлива.",
+      "severity_override": "medium"
+    },
+    "P1129": {
+      "common_fix_ru": "Замена датчика MAP (2000-4000 руб.) или проверка клапана EGR (3000-6000 руб.).",
+      "note_ru": "Давление во впуске выше нормы. Машина может глохнуть или работать с перебоями на холостых.",
+      "severity_override": "medium"
+    },
+    "P1259": {
+      "common_fix_ru": "Замена соленоида VTEC (3000-6000 руб.) или промывка системы (2000-4000 руб.).",
+      "note_ru": "Система изменения фаз газораспределения не работает. Двигатель теряет мощность и становится шумным.",
+      "severity_override": "high"
+    },
+    "P1297": {
+      "common_fix_ru": "Замена датчика ELD (2000-4000 руб.) или проверка цепи (1000-2000 руб.).",
+      "note_ru": "Сигнал от датчика нагрузки слишком слабый. Машина может работать неэффективно, особенно под нагрузкой.",
+      "severity_override": "medium"
+    },
+    "P1298": {
+      "common_fix_ru": "Замена датчика ELD (2000-4000 руб.) или проверка проводки (1000-2000 руб.).",
+      "note_ru": "Сигнал от датчика нагрузки слишком сильный. Двигатель может работать с перебоями или глохнуть.",
+      "severity_override": "medium"
+    },
+    "P1300": {
+      "common_fix_ru": "Замена свечей (2000-4000 руб.) и катушек (3000-6000 руб.), проверка бензонасоса (5000-10000 руб.).",
+      "note_ru": "Двигатель пропускает воспламенение в разных цилиндрах. Машина сильно трясется, дымит и теряет мощность.",
+      "severity_override": "high"
+    },
+    "P1336": {
+      "common_fix_ru": "Замена датчика коленвала (2000-4000 руб.) или замена шкива (3000-6000 руб.).",
+      "note_ru": "Датчик иногда не видит положение коленвала. Машина может глохнуть или не заводиться после остановки.",
+      "severity_override": "high"
+    },
+    "P1337": {
+      "common_fix_ru": "Замена датчика коленвала (2000-4000 руб.) и проверка зубчатого колеса (5000-10000 руб.).",
+      "note_ru": "Двигатель не видит коленвал вообще. Машина не заведется, требуется срочный ремонт.",
+      "severity_override": "critical"
+    },
+    "P1359": {
+      "common_fix_ru": "Замена датчика коленвала (2000-4000 руб.) и ремонт разъема (1000-2000 руб.).",
+      "note_ru": "Потеря контакта с датчиком положения коленвала. Машина не заведется, двигатель не будет крутиться.",
+      "severity_override": "critical"
+    },
+    "P1361": {
+      "common_fix_ru": "Замена датчика ВМТ (2000-4000 руб.) или проверка проводки (1000-2000 руб.).",
+      "note_ru": "Датчик верхнего мертвого положения работает с перебоями. Двигатель может троить или глохнуть.",
+      "severity_override": "high"
+    },
+    "P1362": {
+      "common_fix_ru": "Замена датчика ВМТ (2000-4000 руб.) и проверка цепи ГРМ (5000-10000 руб.).",
+      "note_ru": "Нет сигнала от датчика ВМТ первого цилиндра. Машина не заведется, требуется срочная диагностика.",
+      "severity_override": "critical"
+    },
+    "P17E1": {
+      "note_ru": "Масло в коробке передач перегрелось, что может привести к поломке сцепления. Ездить опасно, нужно срочно проверить систему охлаждения.",
+      "note_en": "DCT Oil Overheating (GWM-specific)",
+      "common_fix_ru": "Замена масла в DCT и промывка радиатора (4000-8000 руб.), при необходимости замена сцепления (25000-45000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "agent_research_2026-03-20"
+    },
+    "P17E2": {
+      "note_ru": "Критический перегрев масла, коробка переходит в аварийный режим. Машина может не поехать, требуется немедленная остановка.",
+      "note_en": "DCT Oil Overheating Warning Level 2 (GWM-specific)",
+      "common_fix_ru": "Срочная замена масла DCT и проверка термостата (5000-9000 руб.), замена датчиков температуры (2000-4000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "agent_research_2026-03-20"
+    },
+    "P17F0": {
+      "note_ru": "Сцепление не может правильно соединить двигатель с коробкой. Машина дергается, не разгоняется или глохнет при старте.",
+      "note_en": "Clutch Malfunction (GWM DCT)",
+      "common_fix_ru": "Замена пакета сцепления DCT (30000-50000 руб.) или ремонт гидроблока (15000-25000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "agent_research_2026-03-20"
+    },
+    "P189C": {
+      "note_ru": "Компьютер не видит давление в системе сцепления. Передачи могут включаться с трудом, возможна ошибка в переключении.",
+      "note_en": "Clutch Pressure Sensor Failure (GWM DCT)",
+      "common_fix_ru": "Замена датчика давления сцепления (3000-6000 руб.) и проверка проводки (1000-2000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "agent_research_2026-03-20"
+    },
+    "P2096": {
+      "note_ru": "Код P2096 (Система впрыска топлива (P2096)) на автомобилях Haval.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P2097": {
+      "note_ru": "Код P2097 (Система впрыска топлива (P2097)) на автомобилях Haval.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P2187": {
+      "note_ru": "Код P2187 (Электронная дроссельная заслонка (P2087)) на автомобилях Haval.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P2188": {
+      "note_ru": "Код P2188 (Электронная дроссельная заслонка (P2088)) на автомобилях Haval.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P2195": {
+      "note_ru": "Код P2195 (Электронная дроссельная заслонка (P2095)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P2196": {
+      "note_ru": "Код P2196 (Электронная дроссельная заслонка (P2096)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P2197": {
+      "note_ru": "Код P2197 (Электронная дроссельная заслонка (P2097)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P3000": {
+      "note_ru": "Код P3000 (Воздушно-топливная смесь (P3000)) на автомобилях Haval.",
+      "common_fix_ru": "Обратиться в авторизованный сервис для диагностики высоковольтной системы. Самостоятельный ремонт ОПАСЕН.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P3001": {
+      "note_ru": "Код P3001 (Воздушно-топливная смесь (P3001)) на автомобилях Haval.",
+      "common_fix_ru": "Обратиться в авторизованный сервис для диагностики высоковольтной системы. Самостоятельный ремонт ОПАСЕН.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P3004": {
+      "note_ru": "Код P3004 (Воздушно-топливная смесь (P3004)) на автомобилях Haval.",
+      "common_fix_ru": "Обратиться в авторизованный сервис для диагностики высоковольтной системы. Самостоятельный ремонт ОПАСЕН.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P3009": {
+      "note_ru": "Код P3009 (Воздушно-топливная смесь (P3009)) на автомобилях Haval.",
+      "common_fix_ru": "Обратиться в авторизованный сервис для диагностики высоковольтной системы. Самостоятельный ремонт ОПАСЕН.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "U0001": {
+      "note_ru": "На автомобилях Haval (Dargo, F7, H2) код U0001 указывает на обрыв или короткое замыкание в высокоскоростной шине CAN, что часто приводит к потере связи между блоком управления двигателем (ECM) и модулем коробки передач (TCU), вызывая ошибку скорости вращения двигателя и невозможность переключения передач.",
+      "common_fix_ru": "Чаще всего проблема решается проверкой целостности проводки и контактов в разъемах ECM/TCU (от 1500 до 4000 руб. за диагностику и пайку), реже требуется замена поврежденного участка жгута или самого модуля (от 25 000 руб. за деталь и работу).",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "system_id": "ev",
+      "can_drive": "yes_caution"
+    },
+    "U0073": {
+      "note_ru": "Код U0073 (Обрыв шины связи блока управления) на автомобилях Haval.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ev",
+      "can_drive": "yes_caution"
+    },
+    "U0100": {
+      "note_ru": "Код U0100 (Потеря связи с ЭБУ двигателя A) на автомобилях Haval.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "U0101": {
+      "note_ru": "Код U0101 (Потеря связи с ЭБУ КПП) на автомобилях Haval.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "U0126": {
+      "note_ru": "Код U0126 (Потеря связи с датчиком угла руля) на автомобилях Haval.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_caution"
+    },
+    "U0140": {
+      "note_ru": "Код U0140 (Потеря связи с блоком управления кузовом) на автомобилях Haval.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "control-module",
+      "can_drive": "yes_caution"
+    },
+    "U0151": {
+      "note_ru": "Код U0151 (Потеря связи с блоком систем безопасности) на автомобилях Haval.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "sensors",
+      "can_drive": "yes_caution"
+    },
+    "U0155": {
+      "note_ru": "Код U0155 (Потеря связи с панелью приборов) на автомобилях Haval.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "audio",
+      "can_drive": "yes_caution"
+    },
+    "U0164": {
+      "note_ru": "Код U0164 (Потеря связи с блоком климат-контроля) на автомобилях Haval.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "display",
+      "can_drive": "yes_caution"
+    },
+    "U0168": {
+      "note_ru": "Код U0168 (Потеря связи с модулем охранной системы) на автомобилях Haval.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "adas",
+      "can_drive": "yes_caution"
+    },
+    "U0184": {
+      "note_ru": "Код U0184 (Потеря связи с мультимедиа) на автомобилях Haval.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "adas",
+      "can_drive": "yes_caution"
+    },
+    "U0293": {
+      "note_ru": "Код U0293 (Потеря связи с зарядным модулем ВВ батареи A) на автомобилях Haval.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ev",
+      "can_drive": "yes_caution"
+    },
+    "U0300": {
+      "note_ru": "Код U0300 (Код U0300 (специфичный для Li Auto)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "controller",
+      "can_drive": "yes_caution"
+    },
+    "U0305": {
+      "note_ru": "Код U0305 (Несовместимость ПО с LiDAR датчиком) на автомобилях Haval.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "adas",
+      "can_drive": "yes_caution"
+    },
+    "U0401": {
+      "note_ru": "Код U0401 (Некорректные данные от ЭБУ двигателя A) на автомобилях Haval.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "U0415": {
+      "note_ru": "Код U0415 (Некорректные данные от блока ABS) на автомобилях Haval.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_caution"
+    },
+    "U0416": {
+      "note_ru": "Код U0416 (Некорректные данные от блока динамики) на автомобилях Haval.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_caution"
+    },
+    "U1000": {
+      "note_ru": "Код U1000 (Таймаут CAN) на автомобилях Haval.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "electrical",
+      "can_drive": "yes_caution"
+    },
+    "U1001": {
+      "note_ru": "Код U1001 (Код U1001 (специфичный для Li Auto)) на автомобилях Haval.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "electrical",
+      "can_drive": "yes_caution"
+    },
+    "C2122": {
+      "note_ru": "TPMS -- потеря сигнала от одного из датчиков давления шин. Слабая батарейка или неисправность датчика.",
+      "note_en": "TPMS Sensor Signal Lost",
+      "common_fix_ru": "Замена батарейки датчика или всего датчика (1500-3000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "models": [
+        "h6",
+        "jolion",
+        "f7",
+        "dargo"
+      ],
+      "source": "web_research_2026-03-26",
+      "system_id": "brakes",
+      "can_drive": "yes_caution"
+    },
+    "P0017": {
+      "note_ru": "Несоответствие фаз коленвала и распредвала (Bank 1 Sensor B). На Haval Jolion/H6 часто связано с цепью ГРМ.",
+      "note_en": "Crankshaft Position - Camshaft Position Correlation Bank 1 Sensor B",
+      "common_fix_ru": "Проверка цепи ГРМ и натяжителя (5000-8000 руб.), замена цепи (15000-25000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "models": [
+        "jolion",
+        "h6"
+      ],
+      "source": "web_research_2026-03-26",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0128": {
+      "note_ru": "Низкая температура охлаждающей жидкости. На Haval H6/F7 заклинивание термостата в открытом положении, особенно зимой.",
+      "note_en": "Coolant Thermostat Below Regulating Temperature",
+      "common_fix_ru": "Замена термостата (4000-8000 руб.) или датчика температуры ОЖ (1500-3000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "models": [
+        "h6",
+        "f7",
+        "jolion"
+      ],
+      "source": "web_research_2026-03-26",
+      "system_id": "cooling",
+      "can_drive": "no_stop"
+    },
+    "P0171": {
+      "note_ru": "Бедная топливовоздушная смесь (Bank 1). На Haval H6/Dargo/Jolion часто из-за подсоса воздуха во впускном коллекторе или загрязнения датчиков.",
+      "note_en": "System Too Lean Bank 1",
+      "common_fix_ru": "Диагностика подсоса воздуха дымогенератором (1500-3000 руб.), чистка MAF и датчиков O2.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "models": [
+        "h6",
+        "dargo",
+        "jolion"
+      ],
+      "source": "web_research_2026-03-26",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0299": {
+      "note_ru": "Недостаточное давление наддува. На Haval Jolion/F7/H6/Dargo с GW4B15A 1.5T часто связано с утечкой в патрубках интеркулера, неисправностью актуатора или засорением байпасного клапана.",
+      "note_en": "Turbocharger/Supercharger A Underboost (GWM 1.5T)",
+      "common_fix_ru": "Проверка герметичности патрубков и актуатора (1000-3000 руб.), замена актуатора (8000-15000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "models": [
+        "jolion",
+        "f7",
+        "h6",
+        "dargo"
+      ],
+      "source": "web_research_2026-03-26",
+      "system_id": "intake",
+      "can_drive": "yes_safe"
+    },
+    "P0300": {
+      "note_ru": "Множественные пропуски зажигания. На Haval с GW4B15A 1.5T часто из-за износа свечей (ресурс 15-20 тыс. км с российским топливом) или катушек.",
+      "note_en": "Random/Multiple Cylinder Misfire",
+      "common_fix_ru": "Замена комплекта свечей (2000-4000 руб.), проверка катушек зажигания.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "models": [
+        "jolion",
+        "f7",
+        "h6",
+        "dargo"
+      ],
+      "source": "web_research_2026-03-26",
+      "system_id": "ignition",
+      "can_drive": "yes_caution"
+    },
+    "P0420": {
+      "note_ru": "Низкая эффективность катализатора. На Haval Jolion/H6 после 50-80 тыс. км на российском топливе.",
+      "note_en": "Catalyst System Efficiency Below Threshold Bank 1",
+      "common_fix_ru": "Замена переднего кислородного датчика (2000-4000 руб.), замена катализатора (15000-30000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "models": [
+        "jolion",
+        "h6",
+        "f7"
+      ],
+      "source": "web_research_2026-03-26",
+      "system_id": "exhaust",
+      "can_drive": "yes_caution"
+    },
+    "P0717": {
+      "note_ru": "Нет сигнала датчика оборотов входного вала DCT. На Haval Jolion приводит к переходу коробки в аварийный режим.",
+      "note_en": "Input/Turbine Speed Sensor Circuit No Signal",
+      "common_fix_ru": "Проверка проводки датчика (1500-3000 руб.), замена датчика (3000-6000 руб.).",
+      "frequency": "rare",
+      "severity_override": "urgent",
+      "models": [
+        "jolion"
+      ],
+      "source": "web_research_2026-03-26",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0720": {
+      "note_ru": "Неисправность датчика выходного вала DCT. Износ датчика или низкий уровень масла DCTF.",
+      "note_en": "Output Speed Sensor Circuit Malfunction",
+      "common_fix_ru": "Замена датчика (3000-6000 руб.), проверка уровня масла DCT.",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "models": [
+        "jolion",
+        "f7"
+      ],
+      "source": "web_research_2026-03-26",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P2563": {
+      "note_ru": "Ошибка датчика положения турбонаддува. На Haval Jolion/F7 проблема с приводом актуатора.",
+      "note_en": "Turbocharger Boost Control Position Sensor Circuit",
+      "common_fix_ru": "Проверка электропитания актуатора (1000-2000 руб.), замена (8000-15000 руб.).",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "models": [
+        "jolion",
+        "f7"
+      ],
+      "source": "web_research_2026-03-26",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "U0121": {
+      "note_ru": "Потеря связи с блоком ABS/ESP. На Haval H6/F7/Jolion часто из-за окисления разъемов после мойки или в сырую погоду.",
+      "note_en": "Lost Communication with Anti-Lock Brake System Module",
+      "common_fix_ru": "Проверка питания блока ABS и CAN-линий (1500-3000 руб.), чистка разъемов.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "models": [
+        "h6",
+        "f7",
+        "jolion"
+      ],
+      "source": "web_research_2026-03-26",
+      "system_id": "brakes",
+      "can_drive": "yes_caution"
+    },
+    "U029E": {
+      "note_ru": "Потеря связи с модулем TPMS (контроль давления шин). На Haval Jolion/F7 часто из-за разряда батареек в датчиках после 3-5 лет.",
+      "note_en": "Lost Communication with TPMS Module",
+      "common_fix_ru": "Повторная привязка датчиков (1000-2000 руб.) или замена датчиков TPMS (3000-6000 руб. за комплект).",
+      "frequency": "occasional",
+      "severity_override": null,
+      "models": [
+        "jolion",
+        "f7",
+        "dargo"
+      ],
+      "source": "web_research_2026-03-26"
+    }
+  }
+}

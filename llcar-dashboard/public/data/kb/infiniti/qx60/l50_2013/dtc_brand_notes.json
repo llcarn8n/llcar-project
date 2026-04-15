@@ -1,0 +1,1794 @@
+{
+  "brand": "infiniti",
+  "model": "infiniti_qx60",
+  "updated": "2026-03-29",
+  "codes": {
+    "B0001": {
+      "note_ru": "Код B0001 на Infiniti (EX, FX, QX60) указывает на критическую неисправность в цепи управления подушкой водителя, часто связанную с дефектом разъемов под рулем или отказом датчика удара.",
+      "common_fix_ru": "Редкий код для Infiniti, требующий замены модуля подушки или проводки; стоимость диагностики и ремонта в РФ составляет от 15 000 до 45 000 рублей.",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "system_id": "sensors",
+      "can_drive": "no_stop"
+    },
+    "B0002": {
+      "note_ru": "Код B0002 (Управление раскрытием подушки водителя (стадия 2)) на автомобилях Infiniti.",
+      "common_fix_ru": "Немедленно обратиться в сервис для диагностики системы SRS. Не ездить до устранения!",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "sensors",
+      "can_drive": "no_stop"
+    },
+    "B0010": {
+      "note_ru": "Код B0010 (Управление раскрытием подушки пассажира (стадия 1)) на автомобилях Infiniti.",
+      "common_fix_ru": "Немедленно обратиться в сервис для диагностики системы SRS. Не ездить до устранения!",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "sensors",
+      "can_drive": "no_stop"
+    },
+    "B0028": {
+      "note_ru": "Код B0028 (Right Side Airbag Deployment Control (Subfault)) на автомобилях Infiniti.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "note_en": "Right Side Airbag Deployment Control (Subfault)",
+      "system_id": "body",
+      "can_drive": "check"
+    },
+    "B0051": {
+      "note_ru": "Код B0051 (Датчик удара — правая сторона) на автомобилях Infiniti.",
+      "common_fix_ru": "Немедленно обратиться в сервис для диагностики системы SRS. Не ездить до устранения!",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "sensors",
+      "can_drive": "no_stop"
+    },
+    "B0071": {
+      "note_ru": "Код B0071 (First Row Center Seatbelt Pretensioner Deployment Control (Subfault)) на автомобилях Infiniti.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "low",
+      "source": "dtc_enrichment_v1",
+      "note_en": "First Row Center Seatbelt Pretensioner Deployment Control (Subfault)",
+      "system_id": "body",
+      "can_drive": "check"
+    },
+    "B0092": {
+      "note_ru": "Код B0092 (Left Side Restraints Sensor 2 (Subfault)) на автомобилях Infiniti.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "note_en": "Left Side Restraints Sensor 2 (Subfault)",
+      "system_id": "body",
+      "can_drive": "check"
+    },
+    "B0095": {
+      "note_ru": "Код B0095 (Right Frontal Restraints Sensor (Subfault)) на автомобилях Infiniti.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "note_en": "Right Frontal Restraints Sensor (Subfault)",
+      "system_id": "body",
+      "can_drive": "check"
+    },
+    "B0100": {
+      "note_ru": "Код B0100 (Электронный передний датчик 1) на автомобилях Infiniti.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "safety",
+      "can_drive": "no_stop"
+    },
+    "B1310": {
+      "note_ru": "Код B1310 на Infiniti (EX, FX, QX60) указывает на сбой в цепи привода мотора заслонки рециркуляции воздуха, что часто встречается при отказе сервопривода или заклинивании механизма заслонки.",
+      "common_fix_ru": "Замена мотора заслонки рециркуляции (аналог или оригинал) стоит от 8 000 до 15 000 рублей за деталь и работу в специализированных сервисах.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "system_id": "body",
+      "can_drive": "yes_safe"
+    },
+    "B1312": {
+      "note_ru": "Код B1312 (Код B1312 (специфичный для Li Auto)) на автомобилях Infiniti.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "body",
+      "can_drive": "yes_safe"
+    },
+    "B1317": {
+      "note_ru": "Код B1317 (Исполнительный механизм климата (B1317)) на автомобилях Infiniti.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "hvac",
+      "can_drive": "yes_safe"
+    },
+    "B1318": {
+      "note_ru": "Код B1318 (Исполнительный механизм климата (B1318)) на автомобилях Infiniti.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "hvac",
+      "can_drive": "yes_safe"
+    },
+    "B1325": {
+      "note_ru": "Код B1325 (Цепь реле вентилятора HVAC) на автомобилях Infiniti.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "hvac",
+      "can_drive": "yes_safe"
+    },
+    "B1381": {
+      "note_ru": "Код B1381 (Исполнительный механизм климата (B1381)) на автомобилях Infiniti.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "hvac",
+      "can_drive": "yes_safe"
+    },
+    "B1382": {
+      "note_ru": "Код B1382 (Исполнительный механизм климата (B1382)) на автомобилях Infiniti.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "hvac",
+      "can_drive": "yes_safe"
+    },
+    "B1601": {
+      "note_ru": "Код B1601 (Код B1601 (специфичный для Li Auto)) на автомобилях Infiniti.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "display",
+      "can_drive": "yes_safe"
+    },
+    "B1650": {
+      "note_ru": "Код B1650 (Цепь мотора передних дворников) на автомобилях Infiniti.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "body",
+      "can_drive": "yes_safe"
+    },
+    "B2278": {
+      "note_ru": "Код B2278 (Электроника кузова — B2 (B2278)) на автомобилях Infiniti.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "body",
+      "can_drive": "yes_safe"
+    },
+    "B2799": {
+      "note_ru": "Код B2799 (Электроника кузова — B2 (B2799)) на автомобилях Infiniti.",
+      "common_fix_ru": "Выполнить диагностику электроники кузова. Проверить разъёмы и проводку.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "body",
+      "can_drive": "yes_safe"
+    },
+    "C0035": {
+      "note_ru": "Код C0035 на Infiniti (EX, FX, QX60) указывает на обрыв цепи датчика скорости левого переднего колеса, что часто связано с повреждением проводки в арке или окислением разъема из-за реагентов.",
+      "common_fix_ru": "В России чаще всего помогает замена датчика ABS (1500–3500 руб.) и чистка разъема; при обрыве провода ремонт жгута в арке стоит от 4000 до 8000 руб.",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "system_id": "brake-control",
+      "can_drive": "no_stop"
+    },
+    "C0040": {
+      "note_ru": "Код C0040 (Цепь датчика скорости ПП колеса) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brake-control",
+      "can_drive": "no_stop"
+    },
+    "C0045": {
+      "note_ru": "Код C0045 (Цепь датчика скорости ЛЗ колеса) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brake-control",
+      "can_drive": "no_stop"
+    },
+    "C0050": {
+      "note_ru": "Код C0050 (Цепь датчика скорости ПЗ колеса) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brake-control",
+      "can_drive": "no_stop"
+    },
+    "C0051": {
+      "note_ru": "Код C0051 (LF Wheel Speed Sensor Circuit Range/Performance (EBCM)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dtc_enrichment_v1",
+      "note_en": "LF Wheel Speed Sensor Circuit Range/Performance (EBCM)",
+      "system_id": "chassis",
+      "can_drive": "check"
+    },
+    "C0236": {
+      "note_ru": "Код C0236 (Rear Wheel Speed Signal Circuit Missing) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dtc_enrichment_v1",
+      "note_en": "Rear Wheel Speed Signal Circuit Missing",
+      "system_id": "chassis",
+      "can_drive": "check"
+    },
+    "C0265": {
+      "note_ru": "Код C0265 на Infiniti (EX, FX, QX60) указывает на неисправность цепи управления реле модуля ABS, что часто связано с внутренним отказом самого блока EBCM или плохим контактом в разъеме из-за коррозии. Это критическая ошибка, блокирующая работу ABS и системы стабилизации.",
+      "common_fix_ru": "В 90% случаев требуется замена всего блока EBCM (ABS) на б/у или восстановленный аналог, так как ремонт реле внутри блока экономически нецелесообразен; стоимость запчасти и работ в РФ составляет от 45 000 до 90 000 рублей.",
+      "frequency": "rare",
+      "severity_override": "urgent",
+      "system_id": "brakes",
+      "can_drive": "no_danger"
+    },
+    "C0267": {
+      "note_ru": "Код C0267 (Pump Motor Circuit Open/Shorted) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dtc_enrichment_v1",
+      "note_en": "Pump Motor Circuit Open/Shorted",
+      "system_id": "chassis",
+      "can_drive": "check"
+    },
+    "C0279": {
+      "note_ru": "Код C0279 (Powertrain Configuration Not Valid) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "low",
+      "source": "dtc_enrichment_v1",
+      "note_en": "Powertrain Configuration Not Valid",
+      "system_id": "chassis",
+      "can_drive": "check"
+    },
+    "C0284": {
+      "note_ru": "Код C0284 (EBCM Malfunction) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "low",
+      "source": "dtc_enrichment_v1",
+      "note_en": "EBCM Malfunction",
+      "system_id": "chassis",
+      "can_drive": "check"
+    },
+    "C0561": {
+      "note_ru": "Код C0561 не является стандартным для систем Infiniti (EX, FX, QX60) и, скорее всего, указывает на ошибку считывания или некорректную интерпретацию данных сканером, так как в официальных базах Infiniti такой код отсутствует.",
+      "common_fix_ru": "Рекомендуется перепроверить код специализированным дилерским сканером INFINITI CONSULT-III или GDS, так как частая причина — программный сбой адаптера; стоимость диагностики в Москве составляет 3 000–5 000 рублей.",
+      "frequency": "rare",
+      "severity_override": null
+    },
+    "C0710": {
+      "note_ru": "Код C0710 (Датчик положения руля) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить датчик угла поворота руля и систему ЭУР.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_safe"
+    },
+    "C1201": {
+      "note_ru": "Код C1201 (Код C1201 (специфичный для Li Auto)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brake-control",
+      "can_drive": "yes_caution"
+    },
+    "C1241": {
+      "note_ru": "Код C1241 (Тормозная система — C1 расширенная (C1241)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_caution"
+    },
+    "C1249": {
+      "note_ru": "Код C1249 (Тормозная система — C1 расширенная (C1249)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_caution"
+    },
+    "C1252": {
+      "note_ru": "Код C1252 (Тормозная система — C1 расширенная (C1252)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_caution"
+    },
+    "C1256": {
+      "note_ru": "Код C1256 (Тормозная система — C1 расширенная (C1256)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_caution"
+    },
+    "C1278": {
+      "note_ru": "Код C1278 (Тормозная система — C1 расширенная (C1278)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_caution"
+    },
+    "C1288": {
+      "note_ru": "Код C1288 (Тормозная система — C1 расширенная (C1288)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить тормозную систему: датчики ABS, гидроагрегат, проводку.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_caution"
+    },
+    "P0011": {
+      "note_ru": "Код P0011 (Опережение фаз распредвала (Банк 1)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить систему изменения фаз газораспределения: клапан VVT/VVT-i, цепь/ремень ГРМ.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0012": {
+      "note_ru": "Код P0012 (Запаздывание фаз распредвала (Банк 1)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить систему изменения фаз газораспределения: клапан VVT/VVT-i, цепь/ремень ГРМ.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0016": {
+      "note_ru": "Код P0016 (Корреляция положения коленвала/распредвала (Банк 1)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить систему изменения фаз газораспределения: клапан VVT/VVT-i, цепь/ремень ГРМ.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0017": {
+      "note_ru": "Код P0017 (Цепь регулятора давления топлива (P0017)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить систему изменения фаз газораспределения: клапан VVT/VVT-i, цепь/ремень ГРМ.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0021": {
+      "note_ru": "Код P0021 (Система подачи топлива — цепь (P0021)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить систему изменения фаз газораспределения: клапан VVT/VVT-i, цепь/ремень ГРМ.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0022": {
+      "note_ru": "Код P0022 (Система подачи топлива — цепь (P0022)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить систему изменения фаз газораспределения: клапан VVT/VVT-i, цепь/ремень ГРМ.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0087": {
+      "note_ru": "Код P0087 (Код P0087 (специфичный для Li Auto)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить топливный фильтр, форсунки и давление в топливной системе.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "fuel",
+      "can_drive": "no_danger"
+    },
+    "P0088": {
+      "note_ru": "Код P0088 (Код P0088 (специфичный для Li Auto)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить топливный фильтр, форсунки и давление в топливной системе.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "fuel",
+      "can_drive": "no_stop"
+    },
+    "P0089": {
+      "note_ru": "Код P0089 (Система топливной подачи (P0089)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить топливный фильтр, форсунки и давление в топливной системе.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0101": {
+      "note_ru": "Код P0101 (Диапазон/производительность MAF) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF/MAP), воздушный фильтр и впускной тракт.",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "intake",
+      "can_drive": "yes_caution"
+    },
+    "P0102": {
+      "note_ru": "Код P0102 (Низкий сигнал MAF) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF/MAP), воздушный фильтр и впускной тракт.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "intake",
+      "can_drive": "yes_caution"
+    },
+    "P0103": {
+      "note_ru": "Код P0103 (Высокий сигнал MAF) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF/MAP), воздушный фильтр и впускной тракт.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "intake",
+      "can_drive": "yes_caution"
+    },
+    "P0105": {
+      "note_ru": "Код P0105 (Цепь датчика массового расхода воздуха (P0105)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF/MAP), воздушный фильтр и впускной тракт.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0106": {
+      "note_ru": "Код P0106 (Диапазон/производительность MAP/барометр) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF/MAP), воздушный фильтр и впускной тракт.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0107": {
+      "note_ru": "Код P0107 (Низкий сигнал MAP/барометр) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF/MAP), воздушный фильтр и впускной тракт.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0108": {
+      "note_ru": "Код P0108 (Цепь датчика массового расхода воздуха (P0108)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF/MAP), воздушный фильтр и впускной тракт.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0110": {
+      "note_ru": "Код P0110 (Неисправность датчика температуры впускного воздуха) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF/MAP), воздушный фильтр и впускной тракт.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0113": {
+      "note_ru": "Код P0113 (Цепь датчика температуры впускного воздуха (P0113)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF/MAP), воздушный фильтр и впускной тракт.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0115": {
+      "note_ru": "Код P0115 (Неисправность датчика температуры ОЖ) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF/MAP), воздушный фильтр и впускной тракт.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "no_stop"
+    },
+    "P0117": {
+      "note_ru": "Код P0117 (Низкий сигнал датчика температуры ОЖ) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF/MAP), воздушный фильтр и впускной тракт.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "cooling",
+      "can_drive": "no_stop"
+    },
+    "P0118": {
+      "note_ru": "Код P0118 (Высокий сигнал датчика температуры ОЖ) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF/MAP), воздушный фильтр и впускной тракт.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "cooling",
+      "can_drive": "no_stop"
+    },
+    "P0120": {
+      "note_ru": "Код P0120 (Цепь датчика положения дроссельной заслонки A) на автомобилях Infiniti.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "no_stop"
+    },
+    "P0121": {
+      "note_ru": "Код P0121 (Диапазон/производительность TPS A) на автомобилях Infiniti.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "no_stop"
+    },
+    "P0122": {
+      "note_ru": "Код P0122 (Низкий сигнал TPS A) на автомобилях Infiniti.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "no_stop"
+    },
+    "P0123": {
+      "note_ru": "Код P0123 (Высокий сигнал TPS A) на автомобилях Infiniti.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "no_stop"
+    },
+    "P0128": {
+      "note_ru": "Код P0128 для систем охлаждения Infiniti (EX, FX, QX60) означает, что двигатель не достигает рабочей температуры, что часто связано с заклинившим в открытом положении термостатом или неисправностью датчика температуры охлаждающей жидкости.",
+      "common_fix_ru": "В России замена термостата на оригинал или качественный аналог (например, GMB, Denso) стоит от 4 500 до 9 000 рублей с учетом работы, что является самым частым решением.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "system_id": "cooling",
+      "can_drive": "no_stop"
+    },
+    "P0130": {
+      "note_ru": "Код P0130 (Цепь кислородного датчика (Банк 1, Датчик 1)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0131": {
+      "note_ru": "Код P0131 (Низкое напряжение O2 (Банк 1, Датчик 1)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0132": {
+      "note_ru": "Код P0132 (Код P0132 (специфичный для Li Auto)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0133": {
+      "note_ru": "Код P0133 (Медленный отклик O2 (Банк 1, Датчик 1)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0134": {
+      "note_ru": "Код P0134 (Кислородный датчик (Банк 1) (P0134)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0135": {
+      "note_ru": "Код P0135 (Кислородный датчик (Банк 1) (P0135)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0136": {
+      "note_ru": "Код P0136 (Код P0136 (специфичный для Li Auto)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0137": {
+      "note_ru": "Код P0137 (Код P0137 (специфичный для Li Auto)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0138": {
+      "note_ru": "Код P0138 (Код P0138 (специфичный для Li Auto)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0140": {
+      "note_ru": "Код P0140 (Кислородный датчик (Банк 1) (P0140)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0141": {
+      "note_ru": "Код P0141 (Кислородный датчик (Банк 1) (P0141)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0171": {
+      "note_ru": "Для двигателей Infiniti (VQ, VK, VR) код P0171 часто указывает на подсос воздуха после датчика массового расхода воздуха или загрязнение дроссельной заслонки, что критично для точной работы системы VVT-i.",
+      "common_fix_ru": "Чистка дросселя и замена прокладок впускного коллектора (от 15 000 руб.), а также проверка вакуумных патрубков и датчика MAP (от 8 000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0172": {
+      "note_ru": "Код P0172 (Богатая смесь (Банк 1)) на автомобилях Infiniti.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0174": {
+      "note_ru": "Код P0174 (Бедная смесь (Банк 2)) на автомобилях Infiniti.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0175": {
+      "note_ru": "Код P0175 (Богатая смесь (Банк 2)) на автомобилях Infiniti.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0190": {
+      "note_ru": "Код P0190 (Код P0190 (специфичный для Li Auto)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить топливный фильтр, форсунки и давление в топливной системе.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "fuel",
+      "can_drive": "no_danger"
+    },
+    "P0191": {
+      "note_ru": "Код P0191 (Код P0191 (специфичный для Li Auto)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить топливный фильтр, форсунки и давление в топливной системе.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "fuel",
+      "can_drive": "yes_caution"
+    },
+    "P0192": {
+      "note_ru": "Код P0192 (Fuel Rail Pressure Sensor Circuit Low Input) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить топливный фильтр, форсунки и давление в топливной системе.",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dtc_enrichment_v1",
+      "note_en": "Fuel Rail Pressure Sensor Circuit Low Input",
+      "system_id": "engine",
+      "can_drive": "check"
+    },
+    "P0193": {
+      "note_ru": "Код P0193 (Fuel Rail Pressure Sensor Circuit High Input) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить топливный фильтр, форсунки и давление в топливной системе.",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dtc_enrichment_v1",
+      "note_en": "Fuel Rail Pressure Sensor Circuit High Input",
+      "system_id": "engine",
+      "can_drive": "check"
+    },
+    "P0201": {
+      "note_ru": "Код P0201 (Код P0201 (специфичный для Li Auto)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить форсунки: промывка ультразвуком или замена. Стоимость: промывка 3 000-5 000 руб., замена 5 000-15 000 руб. за штуку.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "fuel",
+      "can_drive": "yes_caution"
+    },
+    "P0202": {
+      "note_ru": "Код P0202 (Код P0202 (специфичный для Li Auto)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить форсунки: промывка ультразвуком или замена. Стоимость: промывка 3 000-5 000 руб., замена 5 000-15 000 руб. за штуку.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "fuel",
+      "can_drive": "yes_caution"
+    },
+    "P0203": {
+      "note_ru": "Код P0203 (Код P0203 (специфичный для Li Auto)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить форсунки: промывка ультразвуком или замена. Стоимость: промывка 3 000-5 000 руб., замена 5 000-15 000 руб. за штуку.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "fuel",
+      "can_drive": "yes_caution"
+    },
+    "P0204": {
+      "note_ru": "Код P0204 (Код P0204 (специфичный для Li Auto)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить форсунки: промывка ультразвуком или замена. Стоимость: промывка 3 000-5 000 руб., замена 5 000-15 000 руб. за штуку.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "fuel",
+      "can_drive": "yes_caution"
+    },
+    "P0234": {
+      "note_ru": "Код P0234 (Код P0234 (специфичный для Li Auto)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить систему наддува: трубопроводы, клапан управления давлением, интеркулер.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "intake",
+      "can_drive": "yes_safe"
+    },
+    "P0299": {
+      "note_ru": "Код P0299 на Infiniti (EX, FX, QX60) указывает на недостаточное давление наддува, что часто связано с утечками в системе впуска или неисправностью турбокомпрессора, особенно на моторах VQ37VHR и VQ35HR.",
+      "common_fix_ru": "Чаще всего требуется замена прокладок впускного коллектора или ремонт турбины; стоимость диагностики и ремонта в РФ составляет от 15 000 до 85 000 рублей в зависимости от узла.",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "system_id": "intake",
+      "can_drive": "yes_safe"
+    },
+    "P0300": {
+      "note_ru": "Для двигателей Infiniti (VQ, VK, VQ35, VQ37) пропуски P0300 часто вызваны деградацией катушек зажигания или загрязнением форсунок, особенно на моделях EX и FX с пробегом свыше 100 тыс. км.",
+      "common_fix_ru": "Замена комплекта катушек зажигания (OEM Denso) и чистка форсунок обходятся в 15 000–25 000 рублей; при наличии нагара может потребоваться промывка впуска за 5 000 рублей.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "system_id": "ignition",
+      "can_drive": "yes_caution"
+    },
+    "P0301": {
+      "note_ru": "Код P0301 (Пропуски зажигания в цилиндре 1) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить свечи зажигания и катушки зажигания. Стоимость замены: свечи 2 000-5 000 руб., катушка 3 000-8 000 руб.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ignition",
+      "can_drive": "yes_caution"
+    },
+    "P0302": {
+      "note_ru": "Код P0302 (Пропуски зажигания в цилиндре 2) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить свечи зажигания и катушки зажигания. Стоимость замены: свечи 2 000-5 000 руб., катушка 3 000-8 000 руб.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ignition",
+      "can_drive": "yes_caution"
+    },
+    "P0303": {
+      "note_ru": "Код P0303 (Пропуски зажигания в цилиндре 3) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить свечи зажигания и катушки зажигания. Стоимость замены: свечи 2 000-5 000 руб., катушка 3 000-8 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ignition",
+      "can_drive": "yes_caution"
+    },
+    "P0304": {
+      "note_ru": "Код P0304 (Пропуски зажигания в цилиндре 4) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить свечи зажигания и катушки зажигания. Стоимость замены: свечи 2 000-5 000 руб., катушка 3 000-8 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ignition",
+      "can_drive": "yes_caution"
+    },
+    "P0325": {
+      "note_ru": "Код P0325 (Цепь датчика детонации 1 (Банк 1)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить датчик и его проводку, при необходимости - замена.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0327": {
+      "note_ru": "Код P0327 (Система зажигания (P0327)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить датчик и его проводку, при необходимости - замена.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0328": {
+      "note_ru": "Код P0328 (Система зажигания (P0328)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить датчик и его проводку, при необходимости - замена.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0335": {
+      "note_ru": "Код P0335 (Цепь датчика положения коленвала A) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить датчик и его проводку, при необходимости - замена.",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0336": {
+      "note_ru": "Код P0336 (Цепь датчика детонации (P0336)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить датчик и его проводку, при необходимости - замена.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0340": {
+      "note_ru": "Код P0340 (Цепь датчика положения распредвала (Банк 1)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить датчик и его проводку, при необходимости - замена.",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0341": {
+      "note_ru": "Код P0341 (Диапазон/производительность ДПРВ (Банк 1)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить датчик и его проводку, при необходимости - замена.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0345": {
+      "note_ru": "Код P0345 (Цепь датчика положения распредвала (P0345)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить датчик и его проводку, при необходимости - замена.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0351": {
+      "note_ru": "Код P0351 (Цепь катушки зажигания A) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить свечи зажигания и катушки зажигания. Стоимость замены: свечи 2 000-5 000 руб., катушка 3 000-8 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ignition",
+      "can_drive": "yes_safe"
+    },
+    "P0352": {
+      "note_ru": "Код P0352 (Код P0352 (специфичный для Li Auto)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить свечи зажигания и катушки зажигания. Стоимость замены: свечи 2 000-5 000 руб., катушка 3 000-8 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ignition",
+      "can_drive": "yes_safe"
+    },
+    "P0353": {
+      "note_ru": "Код P0353 (Код P0353 (специфичный для Li Auto)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить свечи зажигания и катушки зажигания. Стоимость замены: свечи 2 000-5 000 руб., катушка 3 000-8 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ignition",
+      "can_drive": "yes_safe"
+    },
+    "P0354": {
+      "note_ru": "Код P0354 (Код P0354 (специфичный для Li Auto)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить свечи зажигания и катушки зажигания. Стоимость замены: свечи 2 000-5 000 руб., катушка 3 000-8 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ignition",
+      "can_drive": "yes_safe"
+    },
+    "P0401": {
+      "note_ru": "Код P0401 (Недостаточный поток EGR) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0402": {
+      "note_ru": "Код P0402 (Система рециркуляции отработавших газов (EGR) (P0402)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0403": {
+      "note_ru": "Код P0403 (Система рециркуляции отработавших газов (EGR) (P0403)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0420": {
+      "note_ru": "Для двигателей Infiniti (VQ, VK, VR) код P0420 часто указывает на естественный износ катализатора или загрязнение лямбда-зондов, особенно на моделях с пробегом свыше 150 тыс. км.",
+      "common_fix_ru": "Наиболее частое решение — замена оригинального катализатора (от 45 000 до 120 000 руб.) или установка пламегасителя с перепрошивкой ЭБУ (от 15 000 до 25 000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "system_id": "exhaust",
+      "can_drive": "yes_caution"
+    },
+    "P0430": {
+      "note_ru": "Код P0430 (Эффективность катализатора ниже порога (Банк 2)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "exhaust",
+      "can_drive": "yes_caution"
+    },
+    "P0440": {
+      "note_ru": "Код P0440 (Неисправность системы улавливания паров топлива) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить систему улавливания паров топлива (EVAP): клапан продувки, крышку бензобака, шланги.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0441": {
+      "note_ru": "Код P0441 (Система улавливания паров топлива (EVAP) (P0441)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить систему улавливания паров топлива (EVAP): клапан продувки, крышку бензобака, шланги.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0442": {
+      "note_ru": "Код P0442 (Обнаружена малая утечка EVAP) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить систему улавливания паров топлива (EVAP): клапан продувки, крышку бензобака, шланги.",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0443": {
+      "note_ru": "Код P0443 (Система улавливания паров топлива (EVAP) (P0443)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить систему улавливания паров топлива (EVAP): клапан продувки, крышку бензобака, шланги.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0446": {
+      "note_ru": "Код P0446 (Производительность вентиляции EVAP) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить систему улавливания паров топлива (EVAP): клапан продувки, крышку бензобака, шланги.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0449": {
+      "note_ru": "Код P0449 (Система улавливания паров топлива (EVAP) (P0449)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить систему улавливания паров топлива (EVAP): клапан продувки, крышку бензобака, шланги.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0455": {
+      "note_ru": "Код P0455 (Обнаружена большая утечка EVAP) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить систему улавливания паров топлива (EVAP): клапан продувки, крышку бензобака, шланги.",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0456": {
+      "note_ru": "Код P0456 (Система улавливания паров топлива (EVAP) (P0456)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить систему улавливания паров топлива (EVAP): клапан продувки, крышку бензобака, шланги.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0500": {
+      "note_ru": "Код P0500 (Датчик скорости автомобиля A) на автомобилях Infiniti.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "drivetrain",
+      "can_drive": "yes_safe"
+    },
+    "P0501": {
+      "note_ru": "Код P0501 (Датчик скорости автомобиля (P0501)) на автомобилях Infiniti.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "drivetrain",
+      "can_drive": "yes_safe"
+    },
+    "P0505": {
+      "note_ru": "Код P0505 (Система управления холостым ходом) на автомобилях Infiniti.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0507": {
+      "note_ru": "Код P0507 (Обороты ХХ выше ожидаемых) на автомобилях Infiniti.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0520": {
+      "note_ru": "Код P0520 (Код P0520 (специфичный для Li Auto)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить уровень и давление масла. При необходимости - замена датчика давления масла (2 000-5 000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "pump",
+      "can_drive": "no_stop"
+    },
+    "P0521": {
+      "note_ru": "Код P0521 (Код P0521 (специфичный для Li Auto)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить уровень и давление масла. При необходимости - замена датчика давления масла (2 000-5 000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "pump",
+      "can_drive": "no_stop"
+    },
+    "P0522": {
+      "note_ru": "Код P0522 (Код P0522 (специфичный для Li Auto)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить уровень и давление масла. При необходимости - замена датчика давления масла (2 000-5 000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "pump",
+      "can_drive": "no_stop"
+    },
+    "P0523": {
+      "note_ru": "Код P0523 (Код P0523 (специфичный для Li Auto)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить уровень и давление масла. При необходимости - замена датчика давления масла (2 000-5 000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dtc_enrichment_v1",
+      "system_id": "pump",
+      "can_drive": "no_stop"
+    },
+    "P0524": {
+      "note_ru": "Код P0524 (Код P0524 (специфичный для Li Auto)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить уровень и давление масла. При необходимости - замена датчика давления масла (2 000-5 000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "filtration",
+      "can_drive": "yes_safe"
+    },
+    "P0600": {
+      "note_ru": "Код P0600 (Последовательная линия связи) на автомобилях Infiniti.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ev",
+      "can_drive": "yes_safe"
+    },
+    "P0601": {
+      "note_ru": "Код P0601 (Связь блоков управления (P0601)) на автомобилях Infiniti.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ev",
+      "can_drive": "yes_safe"
+    },
+    "P0700": {
+      "note_ru": "Код P0700 на Infiniti (EX, FX, QX60) означает, что блок управления двигателем (ECM) получил сигнал от модуля КПП о внутренней ошибке, но не конкретизировал её; это не самостоятельная поломка, а индикатор для поиска вторичных кодов.",
+      "common_fix_ru": "Редко встречается как единичный код без сопутствующих ошибок; чаще всего требуется диагностика гидроблока или соленоидов (от 15 000 руб.) и перепрошивка ЭБУ (от 8 000 руб.).",
+      "frequency": "rare",
+      "severity_override": "urgent",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0705": {
+      "note_ru": "Код P0705 на Infiniti (EX, FX, QX60) указывает на сбой в цепи датчика диапазона КПП, что часто связано с окислением контактов в разъеме или неисправностью самого датчика на коробке Jatco.",
+      "common_fix_ru": "Замена датчика диапазона передач (Jatco) стоит от 4 500 до 9 000 рублей, плюс 1 500 рублей за работу; при отсутствии ошибок после замены требуется диагностика проводки.",
+      "frequency": "rare",
+      "severity_override": "urgent",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0715": {
+      "note_ru": "Код P0715 (Цепь датчика скорости входного вала КПП) на автомобилях Infiniti.",
+      "common_fix_ru": "Выполнить диагностику АКПП/вариатора. Проверить уровень и состояние масла трансмиссии.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0720": {
+      "note_ru": "Код P0720 (Цепь датчика скорости выходного вала КПП) на автомобилях Infiniti.",
+      "common_fix_ru": "Выполнить диагностику АКПП/вариатора. Проверить уровень и состояние масла трансмиссии.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0725": {
+      "note_ru": "Код P0725 (Датчик температуры трансмиссионного масла (P0725)) на автомобилях Infiniti.",
+      "common_fix_ru": "Выполнить диагностику АКПП/вариатора. Проверить уровень и состояние масла трансмиссии.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0730": {
+      "note_ru": "Код P0730 на Infiniti (EX, FX, QX60) указывает на несоответствие фактического передаточного числа трансмиссии запрограммированному, что часто связано с проскальзыванием фрикционов или проблемами гидроблока.",
+      "common_fix_ru": "Редкий код для Infiniti, требующий глубокой диагностики: замена масла и адаптации (15–25 тыс. руб.) или ремонт гидроблока/коробки (от 80 до 250 тыс. руб.).",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0740": {
+      "note_ru": "Код P0740 (Передаточное число трансмиссии (P0740)) на автомобилях Infiniti.",
+      "common_fix_ru": "Выполнить диагностику АКПП/вариатора. Проверить уровень и состояние масла трансмиссии.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0750": {
+      "note_ru": "Код P0750 (Электромагнитный клапан трансмиссии (P0750)) на автомобилях Infiniti.",
+      "common_fix_ru": "Выполнить диагностику АКПП/вариатора. Проверить уровень и состояние масла трансмиссии.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P1100": {
+      "common_fix_ru": "Замена датчика массового расхода воздуха (MAF) (3000-8000 руб.) или чистка дросселя (1000-2000 руб.).",
+      "note_ru": "Система не может завершить самодиагностику, возможны ошибки по другим датчикам и нестабильная работа.",
+      "severity_override": "medium"
+    },
+    "P1101": {
+      "common_fix_ru": "Замена датчика MAF (3000-8000 руб.) или замена воздушного фильтра (500-1500 руб.).",
+      "note_ru": "Датчик показывает значения вне нормы, двигатель может работать с перебоями и повышенным расходом.",
+      "severity_override": "medium"
+    },
+    "P1102": {
+      "common_fix_ru": "Замена датчика MAF (3000-8000 руб.) или чистка датчика (500-1000 руб.).",
+      "note_ru": "Датчик показывает слишком низкий расход воздуха, смесь может быть переобогащена, двигатель будет «захлебываться».",
+      "severity_override": "medium"
+    },
+    "P1103": {
+      "common_fix_ru": "Замена датчика MAF (3000-8000 руб.) или проверка вакуумных утечек (1000-2000 руб.).",
+      "note_ru": "Датчик показывает слишком высокий расход воздуха, смесь будет обедненной, двигатель может троить.",
+      "severity_override": "medium"
+    },
+    "P1105": {
+      "note_ru": "Нарушена работа системы управления давлением в коллекторе, что может привести к повышенному расходу топлива.",
+      "note_en": "MAP/BARO Switch Solenoid Valve",
+      "common_fix_ru": "Замена соленоида клапана MAP/BARO (1500-4000 руб.) или проверка проводки (500-1500 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1110": {
+      "note_ru": "Двигатель теряет мощность и динамику, возможны проблемы с запуском и повышенный расход.",
+      "note_en": "Intake Valve Timing Control (Left Bank)",
+      "common_fix_ru": "Замена соленоида фазораспределения (3000-8000 руб.) или ремонт цепи (1000-3000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1120": {
+      "note_ru": "Двигатель может работать на повышенных оборотах или глохнуть, возможна потеря тяги.",
+      "note_en": "Secondary Throttle Position Sensor (STPS)",
+      "common_fix_ru": "Замена датчика положения дроссельной заслонки (2000-6000 руб.) или чистка узла (1000-2000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1125": {
+      "note_ru": "Прерывистый сигнал от датчика может вызывать рывки при разгоне и нестабильную работу.",
+      "note_en": "TPS Intermittant",
+      "common_fix_ru": "Замена датчика положения дроссельной заслонки (2000-6000 руб.) или ремонт проводки (500-1500 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1130": {
+      "note_ru": "Снижение эффективности сгорания топлива, возможны рывки и повышенный расход.",
+      "note_en": "Swirl Control Valve Control Solenoid Valve",
+      "common_fix_ru": "Замена соленоида клапана завихрения (2000-5000 руб.) или проверка вакуумной системы (500-1500 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1135": {
+      "note_ru": "Нарушена работа фаз газораспределения, двигатель теряет мощность и может работать нестабильно.",
+      "note_en": "Intake Valve Timing Control (Right Bank)",
+      "common_fix_ru": "Замена соленоида фазораспределения (3000-8000 руб.) или ремонт цепи (1000-3000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1140": {
+      "note_ru": "ЭБУ не получает точных данных о положении распредвала, что ухудшает работу двигателя.",
+      "note_en": "Intake Valve Timing Control Position Sensor (Left Bank)",
+      "common_fix_ru": "Замена датчика положения фазораспределения (3000-7000 руб.) или ремонт цепи (500-1500 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1145": {
+      "note_ru": "Датчик положения управления фаз газораспределения впускных клапанов (правый банк)",
+      "note_en": "Intake Valve Timing Control Position Sensor (Right Bank)",
+      "common_fix_ru": "Замена датчика положения фазораспределения (3000-7000 руб.) или ремонт цепи (500-1500 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1148": {
+      "note_ru": "Система управления двигателем не может точно корректировать состав смеси, возможен повышенный расход.",
+      "note_en": "Closed Loop Control (Bank 1)",
+      "common_fix_ru": "Проверка датчиков кислорода и проводки (1000-3000 руб.) или замена датчика (2000-5000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "low",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1165": {
+      "note_ru": "Нарушена работа системы управления завихрением, что может снизить эффективность двигателя.",
+      "note_en": "Swirl Control Valve Control Vacuum Check Switch",
+      "common_fix_ru": "Замена вакуумного переключателя (1500-4000 руб.) или проверка вакуумных патрубков (500-1500 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1168": {
+      "note_ru": "ЭБУ не может точно контролировать состав смеси на втором банке цилиндров, возможен повышенный расход.",
+      "note_en": "Closed Loop Control (Bank 2)",
+      "common_fix_ru": "Проверка датчиков кислорода и проводки (1000-3000 руб.) или замена датчика (2000-5000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "low",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1210": {
+      "note_ru": "Система контроля тяги отключена, автомобиль может терять устойчивость на скользкой дороге.",
+      "note_en": "Traction Control System (TCS) Signal Circuit",
+      "common_fix_ru": "Замена модуля управления двигателем (15000-40000 руб.) или ремонт проводки (1000-3000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1220": {
+      "note_ru": "Топливный насос может не работать, двигатель заглохнет и не заведется.",
+      "note_en": "Fuel Pump Control Module (FPCM)",
+      "common_fix_ru": "Замена топливного насоса или модуля управления (15000-40000 руб.) или ремонт проводки (1000-3000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1320": {
+      "note_ru": "Отсутствие искры в одном из цилиндров, двигатель троит и может не заводиться.",
+      "note_en": "Ignition Signal, Primary",
+      "common_fix_ru": "Замена катушки зажигания (2000-6000 руб.) или ремонт цепи (500-1500 руб.).",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1335": {
+      "note_ru": "Двигатель не сможет запуститься, так как ЭБУ не знает положение коленчатого вала.",
+      "note_en": "Crankshaft Position Sensor (CKPS) (Ref)",
+      "common_fix_ru": "Замена датчика положения коленвала (1500-4000 руб.) или ремонт цепи (500-1500 руб.).",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1336": {
+      "note_ru": "Двигатель не запустится или будет работать нестабильно из-за потери синхронизации.",
+      "note_en": "Crankshaft Position Sensor (CKPS) (Cog)",
+      "common_fix_ru": "Замена датчика положения коленвала (1500-4000 руб.) или ремонт цепи (500-1500 руб.).",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1400": {
+      "note_ru": "Система рециркуляции отработавших газов не работает, возможен повышенный расход и нагар.",
+      "note_en": "EGRC Solenoid Valve",
+      "common_fix_ru": "Замена соленоида EGR (2000-5000 руб.) или чистка клапана (1000-2000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1401": {
+      "note_ru": "ЭБУ не получает данные о температуре выхлопных газов, что может привести к ошибкам в работе двигателя.",
+      "note_en": "EGR Temperature Sensor",
+      "common_fix_ru": "Замена датчика температуры EGR (1500-4000 руб.) или ремонт цепи (500-1500 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1402": {
+      "note_ru": "Клапан рециркуляции заклинил в открытом положении, двигатель может работать нестабильно.",
+      "note_en": "EGR Function (Open)",
+      "common_fix_ru": "Замена клапана EGR (3000-8000 руб.) или чистка системы (1000-2000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1440": {
+      "note_ru": "В системе улавливания паров бензина обнаружена небольшая утечка, возможен запах топлива.",
+      "note_en": "EVAP Control System (Small Leak) (Positive Pressure)",
+      "common_fix_ru": "Поиск и устранение утечки в системе EVAP (500-3000 руб.) или замена клапана (1500-4000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "low",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1441": {
+      "note_ru": "Нарушена работа системы улавливания паров топлива, что может привести к повышенному расходу и запаху бензина.",
+      "note_en": "VC/V Bypass Valve",
+      "common_fix_ru": "Замена клапана обхода VC/V (3000-6000 руб.) или чистка системы продувки (1500-3000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1443": {
+      "note_ru": "Система EVAP не может проверить герметичность, что мешает диагностике утечек паров топлива.",
+      "note_en": "Canister Control Vacuum Check Switch",
+      "common_fix_ru": "Замена переключателя проверки вакуума (2000-4000 руб.) или проверка целостности вакуумных шлангов (500-1000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1444": {
+      "note_ru": "Клапан не открывается или заклинил, из-за чего пары топлива не поступают в двигатель для сгорания.",
+      "note_en": "Canister Purge Volume Control Solenoid Valve",
+      "common_fix_ru": "Замена соленоидного клапана продувки адсорбера (2500-5000 руб.) или чистка клапана (1000-2000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1445": {
+      "note_ru": "Некорректное управление потоком паров топлива, двигатель может работать нестабильно на холостых оборотах.",
+      "note_en": "Purge Volume Control/V",
+      "common_fix_ru": "Замена клапана управления объемом продувки (3000-6000 руб.) или проверка вакуумной магистрали (500-1500 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1446": {
+      "note_ru": "Клапан заклинил в закрытом положении, паров топлива не уходит, возможен перелив бензина в адсорбер.",
+      "note_en": "EVAP Canister Vent Control Valve (Close)",
+      "common_fix_ru": "Замена клапана вентиляции адсорбера (3000-6000 руб.) или замена вакуумного насоса (4000-8000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1447": {
+      "note_ru": "Компьютер не видит поток паров при продувке, система не может подтвердить исправность EVAP.",
+      "note_en": "EVAP Control System Purge Flow Monitoring",
+      "common_fix_ru": "Замена датчика потока продувки (4000-7000 руб.) или проверка герметичности адсорбера (1000-2000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1448": {
+      "note_ru": "Клапан заклинил в открытом положении, двигатель может работать на обедненной смеси, возможен перерасход топлива.",
+      "note_en": "EVAP Canister Vent Control Valve (Open)",
+      "common_fix_ru": "Замена клапана вентиляции адсорбера (3000-6000 руб.) или замена вакуумного насоса (4000-8000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1490": {
+      "note_ru": "Обнаружена неисправность в электрической цепи управления клапаном, система не может им управлять.",
+      "note_en": "Vacuum Cut Valve Bypass Valve (Circuit)",
+      "common_fix_ru": "Замена клапана обхода вакуумного отсечного клапана (2500-5000 руб.) или ремонт проводки (1000-3000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1491": {
+      "note_ru": "Клапан механически неисправен или заклинил, нарушена работа системы улавливания паров.",
+      "note_en": "Vacuum Cut Valve Bypass Valve",
+      "common_fix_ru": "Замена клапана обхода вакуумного отсечного клапана (2500-5000 руб.) или чистка клапана (1000-2000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1492": {
+      "note_ru": "Прерывистый сигнал или обрыв в цепи управления соленоидом, продувка адсорбера не работает.",
+      "note_en": "EVAP Canister Purge Control/Solenoid Valve (Circuit)",
+      "common_fix_ru": "Замена соленоида продувки адсорбера (2500-5000 руб.) или ремонт проводки до клапана (1000-3000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1493": {
+      "note_ru": "Клапан управления продувкой не реагирует на команды компьютера, система EVAP не функционирует.",
+      "note_en": "EVAP Canister Purge Control Valve/Solenoid Valve",
+      "common_fix_ru": "Замена клапана/соленоида управления продувкой (2500-5000 руб.) или замена адсорбера (5000-10000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "medium",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1605": {
+      "note_ru": "Потеря связи между блоками управления, возможны проблемы с переключением передач и работой коробки.",
+      "note_en": "A/T Diagnosis Communication Line",
+      "common_fix_ru": "Замена блока управления АКПП (15000-40000 руб.) или ремонт проводки/разъемов (2000-5000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1705": {
+      "note_ru": "Датчик передает неверные данные о положении дросселя, двигатель может не набирать обороты или глохнуть.",
+      "note_en": "Throttle Position Sensor",
+      "common_fix_ru": "Замена датчика положения дроссельной заслонки (3000-6000 руб.) или ремонт педали газа (2000-4000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1706": {
+      "note_ru": "Компьютер не понимает, включена ли передача, машина может не заводиться или не включаться в режим Drive.",
+      "note_en": "PNP Switch",
+      "common_fix_ru": "Замена переключателя PNP (2000-4000 руб.) или ремонт проводки к нему (1000-2000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1760": {
+      "note_ru": "Неисправность в гидротрансформаторе или коробке, возможны рывки при разгоне и перегрев АКПП.",
+      "note_en": "Overrun Clutch Solenoid Valve",
+      "common_fix_ru": "Замена соленоида муфты свободного хода (5000-10000 руб.) или капитальный ремонт АКПП (от 30000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "high",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P1900": {
+      "note_ru": "Вентилятор не включается, двигатель быстро перегреется и может заклинить при движении.",
+      "note_en": "Cooling Fan",
+      "common_fix_ru": "Замена вентилятора охлаждения (5000-15000 руб.) или замена реле/предохранителя (500-1500 руб.).",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "dsoprea/DtcLookup"
+    },
+    "P2096": {
+      "note_ru": "Код P2096 (Система впрыска топлива (P2096)) на автомобилях Infiniti.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P2097": {
+      "note_ru": "Код P2097 (Система впрыска топлива (P2097)) на автомобилях Infiniti.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P2187": {
+      "note_ru": "Код P2187 (Электронная дроссельная заслонка (P2087)) на автомобилях Infiniti.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P2188": {
+      "note_ru": "Код P2188 (Электронная дроссельная заслонка (P2088)) на автомобилях Infiniti.",
+      "common_fix_ru": "Выполнить компьютерную диагностику, проверить датчики и проводку. При необходимости - замена неисправного компонента.",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P2195": {
+      "note_ru": "Код P2195 (Электронная дроссельная заслонка (P2095)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P2196": {
+      "note_ru": "Код P2196 (Электронная дроссельная заслонка (P2096)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P2197": {
+      "note_ru": "Код P2197 (Электронная дроссельная заслонка (P2097)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить каталитический нейтрализатор и лямбда-зонды. Стоимость: лямбда-зонд 3 000-8 000 руб., катализатор от 15 000 руб.",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "U0073": {
+      "note_ru": "Код U0073 (Обрыв шины связи блока управления) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ev",
+      "can_drive": "yes_caution"
+    },
+    "U0100": {
+      "note_ru": "Код U0100 на Infiniti (EX, FX, QX60) указывает на потерю связи с двигателем, что часто вызвано не неисправностью самого ЭБУ, а проблемами с проводкой или плохим контактом в разъеме, особенно в условиях российской зимы.",
+      "common_fix_ru": "В 90% случаев помогает чистка контактов разъема ЭБУ и проверка массы; замена ЭБУ требуется редко и стоит от 45 000 до 120 000 рублей в зависимости от модели.",
+      "frequency": "rare",
+      "severity_override": "urgent",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "U0101": {
+      "note_ru": "Код U0101 (Потеря связи с ЭБУ КПП) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "U0121": {
+      "note_ru": "Код U0121 (Потеря связи с блоком ABS) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_caution"
+    },
+    "U0126": {
+      "note_ru": "Код U0126 (Потеря связи с датчиком угла руля) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_caution"
+    },
+    "U0140": {
+      "note_ru": "Код U0140 (Потеря связи с блоком управления кузовом) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "control-module",
+      "can_drive": "yes_caution"
+    },
+    "U0151": {
+      "note_ru": "Код U0151 (Потеря связи с блоком систем безопасности) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "sensors",
+      "can_drive": "yes_caution"
+    },
+    "U0155": {
+      "note_ru": "Код U0155 на Infiniti (EX, FX, QX60) указывает на потерю связи по шине CAN между блоком мультимедиа и приборной панелью, что часто сопровождается пропаданием спидометра или ошибок на дисплее.",
+      "common_fix_ru": "Редкая проблема для Infiniti; чаще всего помогает перепрошивка модуля мультимедиа (от 15 000 руб.) или замена разъема/проводки в районе центральной консоли (от 8 000 руб.).",
+      "frequency": "rare",
+      "severity_override": "urgent",
+      "system_id": "audio",
+      "can_drive": "yes_caution"
+    },
+    "U0164": {
+      "note_ru": "Код U0164 (Потеря связи с блоком климат-контроля) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "display",
+      "can_drive": "yes_caution"
+    },
+    "U0168": {
+      "note_ru": "Код U0168 (Потеря связи с модулем охранной системы) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "adas",
+      "can_drive": "yes_caution"
+    },
+    "U0184": {
+      "note_ru": "Код U0184 (Потеря связи с мультимедиа) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "dtc_enrichment_v1",
+      "system_id": "adas",
+      "can_drive": "yes_caution"
+    },
+    "U0293": {
+      "note_ru": "Код U0293 (Потеря связи с зарядным модулем ВВ батареи A) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "ev",
+      "can_drive": "yes_caution"
+    },
+    "U0300": {
+      "note_ru": "Код U0300 (Код U0300 (специфичный для Li Auto)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "controller",
+      "can_drive": "yes_caution"
+    },
+    "U0305": {
+      "note_ru": "Код U0305 (Несовместимость ПО с LiDAR датчиком) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "adas",
+      "can_drive": "yes_caution"
+    },
+    "U0401": {
+      "note_ru": "Код U0401 (Некорректные данные от ЭБУ двигателя A) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "U0415": {
+      "note_ru": "Код U0415 (Некорректные данные от блока ABS) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_caution"
+    },
+    "U0416": {
+      "note_ru": "Код U0416 (Некорректные данные от блока динамики) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "brakes",
+      "can_drive": "yes_caution"
+    },
+    "U1000": {
+      "note_ru": "Код U1000 (Таймаут CAN) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "electrical",
+      "can_drive": "yes_caution"
+    },
+    "U1001": {
+      "note_ru": "Код U1001 (Код U1001 (специфичный для Li Auto)) на автомобилях Infiniti.",
+      "common_fix_ru": "Проверить шину CAN: разъёмы, проводку, блоки управления. Очистить контакты.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "dtc_enrichment_v1",
+      "system_id": "electrical",
+      "can_drive": "yes_caution"
+    }
+  }
+}
