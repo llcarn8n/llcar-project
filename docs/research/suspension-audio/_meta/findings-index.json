@@ -391,6 +391,14 @@
       "verified_count": 0,
       "unknowns_count": 3,
       "synthesized": "2026-04-15T20:28:16.791834+00:00"
+    },
+    "sci-smartphone-sensor-validity": {
+      "category": "scientific-evidence",
+      "md_file": "docs/research/suspension-audio/topics/scientific-evidence/sci-smartphone-sensor-validity.md",
+      "sources_count": 5,
+      "verified_count": 0,
+      "unknowns_count": 5,
+      "synthesized": "2026-04-15T20:36:24.469473+00:00"
     }
   }
 }

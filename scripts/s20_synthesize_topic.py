@@ -173,27 +173,38 @@ def synth_scientific(parsed: dict, verify: dict, topic: dict) -> str:
     lines.append("## Key formulas")
     lines.append("")
     for f in parsed.get("key_formulas", []):
-        lines.append(f"- **{f.get('name', '')}**: `{f.get('expression', '')}` (variables: {f.get('variables', '—')}, src: {f.get('source_ref', '—')})")
+        if isinstance(f, dict):
+            lines.append(f"- **{f.get('name', '')}**: `{f.get('expression', '')}` (variables: {f.get('variables', '—')}, src: {f.get('source_ref', '—')})")
+        else:
+            lines.append(f"- {f}")
     lines.append("")
 
     lines.append("## Datasets / samples")
     lines.append("")
     for d in parsed.get("datasets_and_samples", []):
-        lines.append(f"- **{d.get('name', '')}** (N={d.get('N', '—')}, {d.get('availability', '?')}): {d.get('description', '')} — {d.get('source_ref', '')}")
+        if isinstance(d, dict):
+            lines.append(f"- **{d.get('name', '')}** (N={d.get('N', '—')}, {d.get('availability', '?')}): {d.get('description', '')} — {d.get('source_ref', '')}")
+        else:
+            lines.append(f"- {d}")
     lines.append("")
 
     vr = parsed.get("vibrostand_relevance", {}) or {}
     lines.append("## Vibrostand relevance")
     lines.append("")
     lines.append(f"- **Method applies to:** {vr.get('method_applies_to', '—')}")
-    lines.append(f"- **Validated metrics:** {', '.join(vr.get('validated_metrics') or ['—'])}")
+    metrics = vr.get("validated_metrics") or ["—"]
+    metrics_strs = [m if isinstance(m, str) else json.dumps(m, ensure_ascii=False) for m in metrics]
+    lines.append(f"- **Validated metrics:** {', '.join(metrics_strs)}")
     lines.append(f"- **Known limitations:** {vr.get('known_limitations', '—')}")
     lines.append("")
 
     lines.append("## Contradictions in literature")
     lines.append("")
     for c in parsed.get("contradictions_in_literature", []):
-        lines.append(f"- **{c.get('topic', '')}** — PoV A: {c.get('pov_a', '')}; PoV B: {c.get('pov_b', '')}; resolution: {c.get('resolution_attempts', '—')}")
+        if isinstance(c, dict):
+            lines.append(f"- **{c.get('topic', '')}** — PoV A: {c.get('pov_a', '')}; PoV B: {c.get('pov_b', '')}; resolution: {c.get('resolution_attempts', '—')}")
+        else:
+            lines.append(f"- {c}")
     lines.append("")
 
     lines.append("## Sources (peer-reviewed / standards only)")
