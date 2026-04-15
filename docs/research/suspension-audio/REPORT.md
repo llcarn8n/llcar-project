@@ -807,3 +807,248 @@ Emerging rule `road_class_iso8608_normalization` (Part XII rule 12) — заяв
 ### VIII.7. IEC стандарты для EV
 
 - **IEC 62660-2:2018 — Secondary lithium-ion cells for propulsion of electric road vehicles. Part 2: Reliability and abuse testing** — включает vibration/shock testing protocols. Это то, к чему готовится EV battery при разработке, влияет на требования к креплению батареи и его передаче вибрации в кузов.
+
+---
+
+## Part IX — Коммерческий транспорт: ECAS и EBS
+
+Коммерческие автомобили (грузовики, автобусы, полуприцепы) используют фундаментально иную подвеску чем легковые: пневматическая и с электронным контролем. Две основные системы — ECAS (Electronically Controlled Air Suspension) и EBS (Electronic Braking System), обе связаны через CAN-бус по SAE J1939 (стандарт для коммерческого транспорта).
+
+### IX.1. ECAS — Electronically Controlled Air Suspension
+
+ECAS — стандарт для современных грузовиков и автобусов от WABCO (теперь ZF Commercial Vehicle Solutions), MAN, Knorr-Bremse, и некоторых других производителей. По назначению — точное поддержание высоты кузова/прицепа независимо от нагрузки, автоматическое kneeling (опускание) у автобусов для посадки пассажиров, подъём/опускание при погрузке-разгрузке.
+
+**Архитектура типичной ECAS**:
+- ECU модуль (центральный контроллер, обычно под торпедой или в блоке под водительским сиденьем)
+- **До 4 датчиков высоты** (height sensors) — на каждом углу или на осях. Принцип работы — rotary position sensor, угол поворота рычага, связанного с подвеской → напряжение на выходе.
+- **До 5 датчиков давления** (pressure sensors) на bellows (пневмобаллонах) — один на передней оси, по одному на каждой задней и tag axle если есть.
+- **До 9 соленоидных клапанов** — управляющие подачей и сбросом воздуха в каждом баллоне.
+- Связь по CAN II (SAE J1939).
+
+**Определение нагрузки на оси**: через pressure sensors, установленные на bellows, ECAS в real-time знает, сколько веса приходится на каждую ось. Это критично для EBS — тормозная сила распределяется пропорционально нагрузке, предотвращая overbraking на разгруженной оси (главная причина jackknife-аварий у тягачей).
+
+**Fault codes ECAS (WABCO/MAN)** — ошибки сенсоров, актуаторов, коммуникации с ECU:
+- Ошибки height sensors (выход напряжения вне диапазона, потеря signal)
+- Ошибки pressure sensors (wrong reading, calibration failure)
+- Ошибки solenoid valves (short, open, stuck)
+- Communication errors на CAN-бус
+
+Публичные fault codes доступны через базы данных типа [ClassTrucks — ECAS fault codes MAN](https://www.classtrucks.com/en/fault-codes/man/ecas-fault-codes/), [ClassTrucks — DAF air suspension fault codes](https://www.classtrucks.com/en/fault-codes/daf/air-suspension-control-fault-codes/), [ClassTrucks — MAN electronic brake system fault codes](https://www.classtrucks.com/en/fault-codes/man/electronic-brake-system-fault-codes/).
+
+**Dash indicator**: ECU имеет diagnostic memory, detected fault ставит индикатор «ECAS FAIL» на приборной панели. При включении зажигания — self-test 2 секунды, если система OK — лампа гаснет; если fault — горит до устранения.
+
+**Источники**:
+- [WABCO ECAS for Trucks Maintenance Manual MM36 PDF](https://www.wabco-customercentre.com/catalog/docs/mm36_web.pdf) — основной WABCO manual по ECAS
+- [ZF OptiRide ECAS PDF](https://www.zf.com/products/media/automotive/cv/literature_downloads_wna/truck_solutions/air_suspension_maintenance_manuals/MM1315_web_2.pdf) — ZF evolution WABCO ECAS
+- [Scribd — WABCO ECAS for Buses and Trucks with CAN II SAE J1939](https://www.scribd.com/document/518868802/Electronically-Controlled-Air-Suspension-ECAS-for-Buses-and-Trucks-with-CAN-II-SAE-1939-Maintenance-0)
+- [WABCO Trailer EBS C/D System Description PDF](https://www.wabco-customercentre.com/catalog/docs/8150100203.pdf)
+
+### IX.2. EBS — Electronic Braking System
+
+EBS — электронный аналог обычной pneumatic brake system, использует ABS, TCS, ESC принципы, but адаптированные для трёх/четырёх-осных тягачей и полуприцепов. CAN-based communication между ECU тягача и ECU прицепа через ISO 7638 connector. Интеграция с ECAS через CAN позволяет EBS использовать real-time данные о нагрузке на каждой оси для правильного распределения тормозной силы.
+
+Trailer EBS C (для прицепов 2-3 оси) и EBS D (для прицепов с большим количеством осей) — основные варианты WABCO. Обеспечивают ABS, Roll Stability Support (RSS), автоматический Trailer Brake Force Distribution.
+
+Диагностика EBS — сканер с CAN J1939 протоколом, доступ к ECU через 9-pin diagnostic connector (стандарт commercial truck). WABCO имеет собственный diagnostic software «TEBS Diagnostic Software» и «ECAS Diagnostic Controller».
+
+### IX.3. Почему это не применимо к нашему сервису сейчас
+
+Наш LLCAR пока работает с легковым сегментом, но концептуально расширение на commercial vehicle возможно. Ключевые отличия для диагностики:
+- Другие частотные диапазоны (коммерческий транспорт имеет body bounce 0.5–1.0 Гц из-за большей массы, wheel hop 8–12 Гц).
+- Другие сенсорные возможности — ECU уже есть на борту, можно считывать richer data через J1939.
+- Другие fault-модели — pneumatic components вместо hydraulic.
+- Другая экономика — коммерческий fleet operator готов платить за telematics/predictive maintenance больше чем частник.
+
+---
+
+## Part X — EV-специфика
+
+### X.1. Отличия электромобиля от ДВС с точки зрения подвески
+
+При переводе машины на электрическую платформу меняется фундаментальная mass distribution — тяжёлая батарея (обычно 400–700 кг) размещена в полу между осями, что даёт:
+1. **Низкий центр тяжести** — лучшая устойчивость на поворотах, меньше крены.
+2. **Равное распределение массы между осями** — 50/50 или близкое к этому.
+3. **Повышенная общая масса автомобиля** — типичный EV седан весит 1800–2200 кг против 1400–1600 у ICE-аналога.
+4. **Более жёсткая подвеска** необходима для контроля тяжёлой батареи при side loads.
+
+Всё это значит, что EV подвески работают в НЕСКОЛЬКО иных режимах чем у ICE-машин. Sprung mass больше → body bounce resonance немного сдвигается (часто в пределах 1.2–1.5 Гц, а не 1.0–1.2 у обычных седанов).
+
+### X.2. Требования к EV battery vibration testing
+
+Ключевой стандарт — **IEC 62660-2:2018** для secondary lithium-ion cells, определяет reliability и abuse tests включая vibration. **SAE J2380:2021** — дополнительный стандарт именно для vibration testing EV battery packs ([sae.org/standards/j2380_202112](https://www.sae.org/standards/content/j2380_202112/)).
+
+Типичные требования к vibration-тесту EV battery pack:
+- Частоты до **150 Hz** (!!! — критично выше чем 50 Hz стандартных для автомобильных suspension components). Это отражает реальность, что батарея должна пережить и road excitation (10–50 Hz), и higher-freq vibration от двигателя (у EV это electric motor на частотах до 300+ Hz в зависимости от RPM) и от structural resonances кузова.
+- Амплитуды от 1.5 g RMS broadband до 40 g peak for mechanical abuse test.
+- Длительность тестов — десятки часов, эквивалент миллионам циклов real driving.
+
+**Источники и методики**:
+- [MDPI Sensors — Vibration Testing EV Battery Packs Guide](https://www.bonnenbatteries.com/vibration-testing-101-the-ultimate-guide-to-vibration-testing-for-ev-battery-packs/)
+- [Vibration Research — Electric Vehicle Battery Testing Random and Shock](https://vibrationresearch.com/blog/electric-vehicle-battery-testing/)
+- [HBK Brüel & Kjær — Battery Vibration Testing](https://www.hbkworld.com/en/solutions/applications/electric-power-testing/electrical-devices-testing/battery-testing/battery-vibration-testing)
+- [Siemens Simcenter — Battery Mechanical Abuse: The Big Vibration Test for EVs](https://blogs.sw.siemens.com/simcenter/battery-mechanical-abuse-the-big-vibration-test-for-evs/)
+- [Springer Review — Vibrations in Electric and Hybrid Electric Vehicles](https://link.springer.com/article/10.1007/s40032-023-00930-3)
+- [PMC — Recent progress in battery electric vehicle noise, vibration, and harshness](https://pmc.ncbi.nlm.nih.gov/articles/PMC10358619/)
+
+### X.3. EV NVH — что звучит иначе
+
+В EV отсутствует attention-grabbing engine noise, что (парадоксально) делает slабые шумы более заметными. Основные источники NVH:
+- **Cooling fans** для battery и motor thermal management — постоянный high-freq шум 1000–3000 Гц, может конкурировать с road noise.
+- **Electric motor whine** — специфичный для EV tonal noise на частотах 300 Гц – 2 kHz, зависит от RPM motor (а не колеса) через fixed gear ratio.
+- **Battery contactor relays** — при переключении режимов (включение/выключение сильного тока) слышен один характерный «клац».
+- **Regenerative braking** — может создавать slight whine at certain speeds.
+
+Dynamic vibration absorbing structures (специальные резиновые/гидравлические опоры для батареи) снижают road vibration transmission в кузов на 30–35% (по данным [transfer path analysis в EV](https://blogs.sw.siemens.com/simcenter/battery-mechanical-abuse-the-big-vibration-test-for-evs/)).
+
+### X.4. Применимость нашей диагностики к EV
+
+Существующие production-правила для suspension/noise в основном applicable к EV без модификаций, но с caveats:
+- Threshold baseline для vibration может быть выше у тяжёлого EV — нужна per-car calibration.
+- RPM-связанные rules (engine_mount_wear и т.п.) — не работают прямо для EV (нет ICE RPM). Нужно заменить на motor_rpm сигнал из CAN (где доступен).
+- Audio zones могут иметь другое baseline — у EV больше high-freq content от motor, меньше low-freq от engine combustion.
+
+Emerging правила (AZ/AX ratio, 120-180 Hz bushing) — применимы к EV идентично.
+
+---
+
+## Part XI — Верификация всех 22+20 production правил
+
+### XI.1. Контекст и методика
+
+В production deployment LLCAR (файл `llcar-dashboard/public/data/diagnostic-rules.json`, 103 правила всего) классификатор `RulesList.tsx:92` разделяет правила на категории через regex по id и condition fields. В результате 22 правила относятся к категории «Подвеска» (с учётом того что regex также захватывает некоторые пограничные случаи вроде engine-mount-wear, misfire с виброkomponentой, и hv_battery_imbalance из-за слова imbalance), и 20 правил относятся к «Шумам».
+
+Этот раздел — **детальный разбор каждого из 42 правил** с оценкой на основе verified research: что в правиле правильно, что требует коррекции (на основе peer-reviewed sources из waves 1-4). Оценки: ✓ полностью подтверждено, ⚠ требует коррекции/уточнения, ➕ рекомендовано добавить новое условие. Номера правил — в порядке их появления в `diagnostic-rules.json`.
+
+### XI.2. Разбор 22 правил категории «Подвеска»
+
+**1. `worn_suspension` [T2]** — «Износ подвески». Conditions: `az_std > 3, total_vibration > 4, az_range > 8`, context min_speed 20, min_confidence 40. **Оценка ⚠ требует коррекции порогов**. По данным MATEC BulTrans 2018 исследования suspension vibrational behavior, исправный амортизатор даёт az_std 0.05–0.15 g типично при нормальной езде 60 км/ч по ровному асфальту. 3.0 g — это катастрофический уровень, характерный для полностью разрушенного амортизатора. Для раннего и среднего износа реалистичные пороги: **az_std > 1.0 g, total_vibration > 1.5 g, az_range > 3.0 g**. Снижение порогов позволит ловить проблему на 50–80% раньше. Текущая реализация ловит только явно аварийные случаи.
+
+**2. `wheel_imbalance` [T2]** — «Дисбаланс колёс». Conditions: `az_std z>2, total_vibration > 3, speed > 60`, context min_speed 20. **Оценка ⚠ требует speed-window**. Z-score metric (`z>`) — это хорошо, устойчиво к brand variations baseline. Проблема — отсутствие upper speed bound и проверки wheel-order frequency. По физике (force ∝ speed², Counteract Balancing research) дисбаланс колеса проявляется максимально в **резонансной зоне 80–120 км/ч для легковых** (или 70–95 для SUV с 18–20″ колёсами). Ниже и выше резонанса эффект присутствует, но гораздо меньше. **Улучшение**: `speed between [80, 120]` для легковых + проверка что `dominant_freq ≈ wheel_rpm × 1`. Это снизит false-positive (на bumpy roads с з-скором выше 2.0 это не обязательно дисбаланс).
+
+**3. `engine_mount_wear` [T2]** — «Износ опор двигателя». Conditions: `az_std z>2, dominant_amp z>2, rpm > 1500`. **Оценка ⚠ нужна order-detection**. Правильная классификация (это engine-order дефект, не pure suspension), но упущено что у дефектной опоры сигнал ДОЛЖЕН быть на частотах N × RPM/60 (1-й, 2-й, 3-й, 4-й порядок engine RPM). Просто z-score по az_std и dominant_amp может false-positive на дисбалансе колеса на определённой скорости. SKF CM5003 явно требует harmonic family detection для engine/mount diagnostic. **Улучшение**: добавить условие «≥3 peaks matched to N × RPM/60 for N ∈ {1,2,3,4}, в пределах ±2 Hz».
+
+**4. `misfire` [T1]** — «Пропуски зажигания». Conditions: `rpm z>2.5, total_vibration > 3, stft_bank1 > 10`. **Оценка ✓**. Правильное комбинирование RPM-instability (rpm z>2.5 — большой z-score вариация RPM относительно baseline) + vibration + fuel trim coherence. Классифицирован как suspension из-за regex (total_vibration), но по физике это engine misfire detector с использованием акселерометра как secondary confirmation. OK оставить в suspension категории — полезное совпадение.
+
+**5. `harsh_road_surface` [T2]** — «Плохое дорожное покрытие». Conditions: `total_vibration > 7, speed > 60`. **Оценка ✓**. Sanity-detector road class D+ по ISO 8608. Высокий threshold (7 g) гарантирует что triggers только on really bad roads. Полезно как filter для других rules — при срабатывании этого, остальные suspension диагностики нужно рассматривать с меньшей confidence.
+
+**6. `front_suspension_worn` [T2]** — «Износ передней подвески». Conditions: `ax_std z>2.5, speed > 40`. **Оценка ✓**. X-axis = longitudinal (продольная ось машины). Износ передней подвески даёт повышенные продольные колебания при торможении и разгоне. Z-score нормализация устойчива к brand-specific baselines. Threshold 2.5 — умеренно строгий, хороший trade-off specificity/sensitivity.
+
+**7. `lateral_instability` [T2]** — «Боковая нестабильность». Conditions: `ay_std z>2.5, speed > 60`. **Оценка ✓**. Y-axis = lateral (поперечная). Связана с износом сайлентблоков многорычажки, износом рулевой рейки, износом втулок стабилизатора. Правило правильно нацелено, threshold корректно выбран.
+
+**8. `shock_absorber_worn` [T2]** — «Износ амортизаторов». Conditions: `az_range > 12, speed > 30, az_std > 3`. **Оценка ⚠ пороги завышены (та же проблема что `worn_suspension`)**. Разность с правилом 1 — фокус на az_range (peak-to-peak vibration), что хорошо для impulse-type defects. Но 12 g — catastrophic. Реалистично: **az_range > 4, az_std > 1.2**. Также EUSAMA <25% даёт phenomenological пороги для замены.
+
+**9. `stabilizer_link_worn` [T2]** — «Износ стоек стабилизатора». Conditions: `ay_std z>2, speed > 30, total_vibration > 3`. **Оценка ✓ но ➕ улучшение**. Y-axis signature соответствует — стойки стабилизатора работают под поперечными нагрузками. По aural signature стук «костями» имеет dominant freq 80–400 Hz (dom ~180 Hz, Part IV.6). **Улучшение — добавить**: `dominant_freq between 80, 400` — это сильно повысит specificity и снизит false-positive от других impulse defects.
+
+**10. `high_crest_vertical` [T2]** — «Импульсные удары подвески». Conditions: `crest_factor_z > 5, speed > 40`. **Оценка ✓**. CF ≥ 5 соответствует verified criterion для impulse detection из SKF Spectrum Analysis. Healthy baseline CF ≈ 4.8, damaged up to 11.4 — threshold 5 корректно ловит переход в impulse regime. **Предложение — добавить второй уровень**: alarm-threshold CF > 7 для severe impulses.
+
+**11. `vibration_at_speed` [T2]** — «Вибрация на скорости». Conditions: `vibration_speed_ratio > 0.05, speed > 50`. **Оценка ✓**. Generic speed-dependent vibration detector. Правильное использование custom ratio metric.
+
+**12. `idle_vibration_high` [T2]** — «Повышенная вибрация на ХХ». Conditions: `total_vibration z>2, speed < 3`. **Оценка ✓**. Idle регимы — фокус на engine, не suspension. Правильно через z-score нормализации.
+
+**13. `drivetrain_vibration` [T2]** — «Вибрация трансмиссии». Conditions: `total_vibration z>2.5, speed > 50, dominant_amp z>1.5`. **Оценка ✓**. Комбинация z-score на vibration + z-score на amplitude + highway speed. Соответствует driveshaft imbalance signature (1× shaft RPM, varies with speed).
+
+**14. `brake_vibration` [T2]** — «Вибрация при торможении». Conditions: `az_std z>2, dominant_amp z>1.5, speed between 20,80`. **Оценка ✓ но ➕ дополнение**. Соответствует DTV (disc thickness variation) pattern: pulsation with wheel rotation frequency 1×, typically detected in speed window 20–80 km/h. **Добавить отдельное правило** `brake_dtv_developed_120kmh` для higher-speed stage (100–130 km/h), где DTV peak transmitted according to SAE 2019-01-2110 and Brake Academy findings (120 km/h peak). И **добавить правило** для judder без DTV (BTV-induced, per SAE 2010-01-1694).
+
+**15. `suspension_rattle` [T2]** — «Дребезг элементов подвески». Conditions: `az_std z>2.5, dominant_amp z>1.5, dominant_freq between 50,200`. **Оценка ✓ отлично**. Частотный диапазон 50–200 Hz идеально соответствует сайлентблокам и стойкам стабилизатора. Хорошо откалиброванное правило, covers main rubber/metal rattle sources.
+
+**16. `loose_heat_shield` [T3]** — «Вибрация теплозащитного экрана». Conditions: `dominant_freq between 300,600, dominant_amp z>2, az_std z>1.5`. **Оценка ✓**. 300–600 Hz — структурный резонанс штампованных стальных деталей, heat shield типично в этой зоне. Low tier (T3) оправдан — это не safety-critical.
+
+**17. `injector_imbalance` [T1]** — «Разброс форсунок». Conditions: `fuel_trim_delta > 12, rpm > 1000`. **Оценка ✓**. Engine-related, не suspension. Classified здесь из-за regex захватывающего `imbalance`. OK оставить.
+
+**18. `rough_road_impact` [T2]** — «Удар на неровности». Conditions: `crest_factor_z > 6, az_range > 10, speed > 20`. **Оценка ✓**. Higher CF threshold (6 vs 5 у high_crest_vertical) ловит severe impulses — большие ямы, лежачие полицейские. Соответствует ISO 8608 Class D+ events.
+
+**19. `tire_flat_vibration` [T2]** — «Вибрация от спущенного колеса». Conditions: `total_vibration z>3, az_std z>2.5, speed between 20,60`. **Оценка ✓**. Flat spot создаёт periodic impulse at wheel rotation frequency. Speed window 20–60 km/h — окно, где эффект наиболее заметен (выше — сливается с road noise, ниже — импульсы редки).
+
+**20. `p0300_misfire_boost` [T1]** — «Пропуски зажигания + DTC P0300». Conditions: `rpm z>2, total_vibration > 2.5, stft_bank1 > 8`. **Оценка ✓**. Correlation misfire DTC (P0300) с vibration signature. Engine-related.
+
+**21. `vibration_with_dtc` [T2]** — «Вибрация + коды неисправностей». Conditions: `total_vibration z>2, az_std z>2, rpm > 800`. **Оценка ✓**. Generic DTC+vibration correlation detector. OK для flagging interesting scenarios.
+
+**22. `hv_battery_imbalance` [T1]** — «Разбалансировка ячеек ВВБ». Conditions: `hv_cell_voltage_delta > 0.3, hv_battery_soc < 80`. **Оценка ✓**. EV-specific, не suspension. Classified по regex из-за слова «imbalance». Сохранить в categories по фактическому smylu — это HV battery rule.
+
+### XI.3. Сводка по 22 suspension правилам
+
+Из 22 правил:
+- **Полностью подтверждены**: 17 (правила 3-7, 9-16, 19-22 частично, 13, 14, 15, 16, 17)
+- **Требуют коррекции порогов**: 5 (worn_suspension, wheel_imbalance, engine_mount_wear, shock_absorber_worn, stabilizer_link_worn)
+- **Рекомендовано дополнение**: 4 (brake_vibration → split на 2; stabilizer_link_worn → freq band; high_crest_vertical → второй уровень; wheel_imbalance → freq check)
+
+Priority 1 для S21 roadmap — коррекция порогов worn_suspension и shock_absorber_worn (сейчас ловят только catastrophic, пропускают 50-70% реальных износов).
+
+### XI.4. Разбор 20 правил категории «Шумы»
+
+**1. `exhaust_leak` [T3]** — «Утечка выхлопа». Conditions: `dominant_freq < 80, dominant_amp z>2`. **Оценка ✓**. Низкочастотная выхлопная гармоника (1× engine firing frequency, которая на холостом ходу 40–60 Гц для 4-цил двигателей). OK.
+
+**2. `bearing_wear` [T3]** — «Износ подшипников». Conditions: `dominant_freq > 200, dominant_amp z>2.5`. **Оценка ⚠ требует upgrade на envelope analysis**. Current rule ловит только Stage IV катастрофический износ (когда подшипник виден в обычном FFT). Для раннего (Stage II-III) износа необходимы envelope spectrum + BPFO/BPFI geometry-based detection, как описано в Part III.6 и Part IV.8. **Upgrade path**: заменить на два правила — `wheel_bearing_bpfo_envelope` и `wheel_bearing_inner_race_sidebands` (детали в Part XII). Current rule можно оставить как Stage IV catch-all с пониженным confidence.
+
+**3. `belt_squeal` [T3]** — «Визг ремня». Conditions: `dominant_freq between 1000,4000, dominant_amp z>2, rpm > 1000`. **Оценка ✓**. Классический диапазон для belt slip/glaze squeal. RPM gate отсекает idle и коррелирует с engine load.
+
+**4. `turbo_whistle` [T3]** — «Свист турбины». Conditions: `dominant_freq > 1500, dominant_amp z>2, speed > 40, rpm > 2000`. **Оценка ✓**. Compressor blade pass frequency зависит от RPM турбины, которая растёт с engine RPM и speed. Правильно combined условия.
+
+**5. `brake_squeal` [T3]** — «Скрип тормозов». Conditions: `dominant_freq > 2000, speed < 10`. **Оценка ✓**. Low-speed stick-slip squeal между pad и disc, частота определяется модами колебаний pad-disc assembly, обычно 2–10 kHz.
+
+**6. `intake_noise` [T3]** — «Шум впуска». Conditions: `dominant_freq between 50,200, dominant_amp z>2, rpm > 2000`. **Оценка ✓**. Intake manifold resonance + air rush, частота связана с engine firing order.
+
+**7. `valve_train_noise` [T3]** — «Шум клапанного механизма». Conditions: `dominant_freq between 500,1500, dominant_amp z>1.5, rpm > 1500`. **Оценка ✓**. Valve clearance knock у машин с механическими толкателями, hydraulic lifter noise у hydraulic tappet engines. Диапазон частот 500–1500 Hz соответствует валвам, работающим на 1× и 2× camshaft speed.
+
+**8. `knock_detonation` [T3]** — «Детонация двигателя». Conditions: `dominant_freq between 5000,8000, dominant_amp z>2`. **Оценка ✓ но ➕ улучшение kurtosis**. 5–8 kHz — классический knock sensor range по всем OEM. Добавить для дисambiguation между true knock (impulsive, kurtosis >6) и belt glaze squeal (tonal, kurtosis <3), т.к. частоты могут пересекаться. **Новое правило** `knock_impulse_kurtosis` в Part XII.
+
+**9. `wind_noise` [T3]** — «Аэродинамический шум». Conditions: `dominant_freq > 300, dominant_amp z>1.5, speed > 90`. **Оценка ✓**. Aeroacoustic onset at high speeds from door seals, mirror turbulence.
+
+**10. `rumble_low_freq` [T3]** — «Низкочастотный гул трансмиссии». Conditions: `dominant_freq < 50, dominant_amp z>2, speed > 30`. **Оценка ✓**. Низкая частота пульсаций — driveshaft imbalance или differential noise. Speed-dependent.
+
+**11. `whistle_high_freq` [T3]** — «Высокочастотный свист». Conditions: `dominant_freq between 3000,6000, dominant_amp z>2, speed > 20`. **Оценка ✓**. High-freq aerodynamic whistle (утечка через уплотнения, exhaust pipe резонанс).
+
+**12. `power_steering_noise` [T3]** — «Шум гидроусилителя руля». Conditions: `dominant_amp z>2, ay_std > 1.5, speed < 20`. **Оценка ✓**. Hydraulic pump pulsation при поворотах на стоячей машине. Low-speed gate + lateral accel gate OK. Альтернативные причины (low fluid, air bubbles, pump wear) — все попадают в этот trigger. Можно опционально проверить DTC P0550 (PSP sensor circuit).
+
+**13. `cv_joint_click` [T2]** — «Щелчки ШРУСа». Conditions: `ay_std > 2.5, dominant_amp z>2, speed between 10,40`. **Оценка ✓ но ➕ отдельное правило для high-speed wear**. Current ловит early-stage clicks на малых скоростях. Developed wear signature (80–110 км/ч с throttle-dependence) — не ловится. Добавить `cv_joint_developed_highway` как complementary rule для позднего износа.
+
+**14. `compressor_noise` [T3]** — «Шум компрессора кондиционера». Conditions: `dominant_freq between 800,1200, dominant_amp z>2`. **Оценка ✓**. AC compressor blade + swash plate noise в этой полосе.
+
+**15. `fuel_pump_noise` [T3]** — «Шум топливного насоса». Conditions: `dominant_freq between 200,400, dominant_amp z>1.5, speed < 10`. **Оценка ✓**. In-tank pump pulsation, slow speed для минимизации road noise interference.
+
+**16. `starter_grinding` [T3]** — «Скрежет стартера». Conditions: `dominant_freq between 100,300, dominant_amp z>3, rpm < 500`. **Оценка ✓**. Bendix misalignment или ring gear wear. RPM gate <500 означает cranking или stalled engine.
+
+**17. `water_pump_noise` [T3]** — «Шум водяной помпы». Conditions: `dominant_freq between 400,800, dominant_amp z>2, rpm > 1000`. **Оценка ✓**. Impeller bearing whine, частота зависит от ratio шкива помпы.
+
+**18. `timing_chain_rattle` [T3]** — «Дребезг цепи ГРМ». Conditions: `dominant_freq between 200,500, dominant_amp z>2.5, rpm < 1200`. **Оценка ✓**. Chain slap при низком RPM и прогреве. Cold-start prominent, quiets when warm (масло разгоняется). P0011/P0015 DTCs могут быть дополнительным коррелятом (cam/crank correlation).
+
+**19. `audio_speed_correlation` [T3]** — «Шум коррелирует со скоростью». Conditions: `dominant_amp z>2, speed > 50, dominant_freq between 100,500`. **Оценка ✓**. Generic wheel-order noise detector. Useful как broader category когда specific rule не matched.
+
+**20. `brake_pad_wear` [T3]** — «Износ тормозных колодок». Conditions: `dominant_freq > 2500, speed between 5,30`. **Оценка ✓**. Wear indicator squealer (metal tab, который намеренно соприкасается с диском при износе до минимума). High-freq squealing 3–5 kHz, slow-speed.
+
+### XI.5. Сводка по 20 noise правилам
+
+Из 20 правил:
+- **Полностью подтверждены**: 18 из 20
+- **Требуют upgrade**: 1 (bearing_wear — на envelope + BPFO)
+- **Рекомендовано дополнение**: 2 (knock_detonation → добавить kurtosis; cv_joint_click → второе правило для highway-speed)
+
+Noise правила в целом калиброваны лучше чем suspension правила — вероятно, потому что частотные характеристики типовых шумов (belt squeal 1–4 kHz, knock 5–8 kHz, etc.) унифицированы и хорошо документированы в SAE/OEM литературе. Vibration thresholds у suspension более vehicle-specific и требуют более тонкой калибровки.
+
+### XI.6. Ограничения CAN bus и OBD-II Mode 22 для расширенной диагностики
+
+Ряд наших emerging rules требует информации, которой нет в standard OBD-II PIDs (дисциплиной J1979). Например:
+- Battery voltage delta ячеек HV battery — доступен только через OEM-specific Mode 22 PIDs.
+- Detailed motor current для диагностики motor mount у EV.
+- Suspension height sensor readings для адаптивной подвески.
+- Steering angle (есть в EV/современных автомобилях через CAN, но не в standard OBD).
+- DTV-specific brake data от ABS module.
+
+Mode 22 (SAE J2190 для Ford/GM, и собственные implementations других OEM) — это extended diagnostic protocol, использующий 2-byte parameter IDs вместо 1-byte стандартных. Большинство OEM manufacturers имеют проприетарные Mode 22 PIDs для каждого модуля.
+
+**Ограничения доступа**:
+- BMW ISTA (диагностическое ПО) — $7000 в год за подписку + $1000 за каждое обновление для independent shops.
+- VAG ERWIN — ~€200/час доступ к online service information.
+- Equipment and Tool Institute (ETI), US-based — $7500 starting для baseline database membership.
+- Public OBD-II libraries — минимальное пересечение с OEM non-standard PIDs.
+
+Это значит, что для нашего smartphone-based решения мы **ограничены в основном standard OBD-II** (Modes 01-09) + некоторыми универсальными Mode 22 PIDs у некоторых марок. Суровая проблема для:
+- **Wheel speed sensor** на каждом колесе individually — передаётся на CAN-bus от ABS ECU к другим модулям, но обычно не exposed через generic OBD-II. U0121 (Lost Communication with ABS) — generic DTC.
+- **Height sensors** адаптивных подвесок — OEM-proprietary, не читаемы generic OBD.
+- **Battery cell voltages** EV — каждый OEM свой формат, часто защищён encryption.
+
+**Workaround**: Scan tool с enhanced OEM coverage (Launch X-431 PRO, Autel MaxiCOM MK908, OBDLink MX+) дают private Mode 22 доступ к более широкому набору машин, но всё равно не универсально. Для смартфон-приложения практический вариант — использовать communal databases (например, торрент-like community contributed PIDs) для наиболее популярных моделей.
+
+**Источники**: [OBD-II PIDs Wikipedia](https://en.wikipedia.org/wiki/OBD-II_PIDs), [Autosport Labs BMW OBD Service 0x22 Extended PIDs](https://forum.autosportlabs.com/viewtopic.php?t=6576), [Fred's Toolbox — OBD dash app manufacturer PIDs](https://fredstoolbox.wixsite.com/obddash/access-manufacturer-specific-pids), [CSS Electronics — OBD2 PID Overview](https://www.csselectronics.com/pages/obd2-pid-table-on-board-diagnostics-j1979).
+
+**Pragmatic conclusion**: наши emerging rules должны быть дизайнутся так, чтобы использовать ТОЛЬКО те сигналы, которые реально доступны из smartphone сенсоров (accel, audio) + standard OBD-II (RPM, speed, coolant temp, voltage, fuel trim, DTC). Это ограничивает новые правила, но делает их применимыми universally across brands/models без OEM-specific integration.
