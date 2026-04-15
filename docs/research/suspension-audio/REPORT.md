@@ -19,6 +19,16 @@
 | ISO 5347-6 Primary low-frequency calibration | 0.5 Hz – 20 Hz, 1–200 m/s² | iso.org/standard/11352 |
 | ISO 5347-22 Resonance testing piezo accelerometers | 50 Hz – 200 kHz | [iso.org/standard/23783](https://www.iso.org/standard/23783.html) |
 | CV joint developed-wear vibration speed | 80–110 km/h (throttle-dependent) | [GSP Latin America](https://www.gsplatinamerica.com/post/cv-axle-vibrations-acceleration-vs-cruising) |
+| **Kurtosis threshold** для детекции impulsive fault | **> 3** (Gaussian baseline = 3) | [PMC — Kurtosis Weighting Motor Bearing](https://pmc.ncbi.nlm.nih.gov/articles/PMC11174823/), [Beckhoff TF3600](https://infosys.beckhoff.com/content/1033/tf3600_tc3_condition_monitoring/1162493835.html) |
+| **Crest Factor** undamaged bearing | **4.8 dB** | Same PMC + Viking Analytics |
+| **Crest Factor** damaged bearing | **11.4 dB** (×2.4 от healthy) | Same |
+| Bearing natural frequencies (envelope domain) | **5 kHz+** (dimension-dependent) | [Dewesoft bearing envelope analysis](https://dewesoft.com/applications/bearing-envelope-analysis) |
+| Envelope ringing characteristic range | **500–2 000 Hz** | Same |
+| Inner race defect — **defining signature** | sidebands **±1× shaft speed** вокруг BPFI | [Acoem 4 Stages](https://acoem.us/blog/condition-monitoring/do-you-know-the-4-stages-of-bearing-failure/) |
+| SAE J1367:2012 — Ball Joints test standard | Performance test (impact, tensile, rotation, torque, axial, cam-out) | [sae.org/standards/j1367_201210](https://www.sae.org/standards/content/j1367_201210/) |
+| SAE J577:2023 — Vibration test machine | General vibration testing protocol | [sae.org/standards/j577_202304](https://www.sae.org/standards/content/j577_202304/) |
+| SAE 2010-01-1694 — Brake Judder DTV/BTV/BPV | Judder может быть без DTV — причина BTV | [saemobilus](https://saemobilus.sae.org/papers/study-relationship-dtv-btv-bpv-judder-type-vibration-disc-brake-systems-2010-01-1694) |
+| Adaptive damper (EDC/CDC/MagneRide) — self-diagnosis limit | распознаёт **только electrical**, hydraulic wear маскируется | [ZF CDC Service Info](https://aftermarket.zf.com/app/controller/ti/download/Binary/d94e3ef9-d750-11ec-a2ea-00505690da53.pdf) |
 | EUSAMA — амплитуда виброплатформы | **6 мм** (eccentric cam) | [ResearchGate / Beissbarth / Roboterm](https://www.researchgate.net/publication/308663056) |
 | EUSAMA — частота возбуждения | **25 Hz** стартовая, линейный спад | [Komunikacie uniza.sk](https://komunikacie.uniza.sk/pdfs/csl/2021/03/09.pdf) |
 | EUSAMA пороги | **Good 60–100% / Sufficient 40–59% / Insufficient 20–39% / Bad 0–19%** | [Beissbarth SA 640](https://www.beissbarth.com/en/products/490076-test-lanes/477159-suspension-tester-sa-640-230-v-eusama), [Roboterm](https://www.roboterm.cz/en/test-lanes/products/for-passenger-vehicles/eusama-suspension-testers/) |
