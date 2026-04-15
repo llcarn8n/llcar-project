@@ -77,53 +77,61 @@ export function DTCSearch({ onSelect, selectedCode, brandId, kbGenPath }: DTCSea
   const [showBrandOnly, setShowBrandOnly] = useState(false)
   const [expandedCode, setExpandedCode] = useState<string | null>(null)
 
-  // Load DTC index
+  // Load universal DTC catalog from kb/_dtc_index.json.titles
   useEffect(() => {
-    cachedFetch<DTCEntry[]>(`${import.meta.env.BASE_URL}data/dtc-search.json`)
-      .then((data) => {
-        setAllCodes(data)
+    cachedFetch<{ titles?: Record<string, { title_ru?: string; severity?: string; system_id?: string; can_drive?: string }> }>(
+      `${import.meta.env.BASE_URL}data/kb/_dtc_index.json`
+    )
+      .then((idx) => {
+        const titles = idx?.titles ?? {}
+        const codes: DTCEntry[] = Object.entries(titles).map(([code, meta]) => ({
+          c: code,
+          t: meta?.title_ru || '',
+          s: meta?.severity || 'medium',
+          sys: meta?.system_id || '',
+          d: meta?.can_drive || 'check',
+        }))
+        setAllCodes(codes)
         setLoading(false)
       })
       .catch(() => setLoading(false))
   }, [])
 
-  // Load brand-specific codes
+  // Load brand + model-specific codes from kb/{brand}/_dtc.json
   useEffect(() => {
-    if (!brandId) { setBrandCodes([]); return }
-    fetch(`${import.meta.env.BASE_URL}data/brands-dtc/${brandId}.json`)
-      .then(r => r.ok ? r.json() : [])
-      .then((data: Array<{ c: string; n: string; f: string }>) => {
-        setBrandCodes(data.map(d => ({
-          c: d.c,
-          t: d.n,
-          s: 'medium' as string,
-          sys: '',
-          d: 'check',
-          fix: d.f || undefined,
-        })))
-      })
-      .catch(() => setBrandCodes([]))
-  }, [brandId])
-
-  // Load generation-specific codes
-  useEffect(() => {
-    if (!kbGenPath) { setGenCodes([]); return }
-    fetch(`${import.meta.env.BASE_URL}data/kb/${kbGenPath}/dtc.json`)
+    if (!brandId) { setBrandCodes([]); setGenCodes([]); return }
+    fetch(`${import.meta.env.BASE_URL}data/kb/${brandId}/_dtc.json`)
       .then(r => r.ok ? r.json() : null)
-      .then((data: GenDTCRaw[] | null) => {
-        if (!data || !Array.isArray(data)) { setGenCodes([]); return }
-        setGenCodes(data.map(d => ({
-          c: d.code,
-          t: d.note_ru || d.note_en || '',
-          s: d.severity || 'medium',
-          sys: d.system_id || '',
-          d: d.can_drive || 'check',
-          fix: d.common_fix_ru || undefined,
-          isGeneration: true,
-        })))
+      .then((data: { brand_codes?: Record<string, GenDTCRaw>; models?: Record<string, Record<string, GenDTCRaw>> } | null) => {
+        if (!data) { setBrandCodes([]); setGenCodes([]); return }
+        const bc: DTCEntry[] = Object.entries(data.brand_codes ?? {}).map(([code, m]) => ({
+          c: code,
+          t: m?.note_ru || m?.note_en || '',
+          s: m?.severity || 'medium',
+          sys: m?.system_id || '',
+          d: m?.can_drive || 'check',
+          fix: m?.common_fix_ru || undefined,
+        }))
+        setBrandCodes(bc)
+        // Model-level: merge all models (model path ⊂ gen path, so filter by model segment of kbGenPath)
+        const modelName = kbGenPath?.split('/')[1]
+        if (modelName && data.models?.[modelName]) {
+          const gc: DTCEntry[] = Object.entries(data.models[modelName]).map(([code, m]) => ({
+            c: code,
+            t: m?.note_ru || m?.note_en || '',
+            s: m?.severity || 'medium',
+            sys: m?.system_id || '',
+            d: m?.can_drive || 'check',
+            fix: m?.common_fix_ru || undefined,
+            isGeneration: true,
+          }))
+          setGenCodes(gc)
+        } else {
+          setGenCodes([])
+        }
       })
-      .catch(() => setGenCodes([]))
-  }, [kbGenPath])
+      .catch(() => { setBrandCodes([]); setGenCodes([]) })
+  }, [brandId, kbGenPath])
 
   // Build a lookup map for generation codes (code → entry) for quick override
   const genCodesMap = useMemo(() => {

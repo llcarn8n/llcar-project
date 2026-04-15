@@ -98,6 +98,15 @@ export function KnowledgeBase() {
     return deriveKBGenPath(vehicleProfile.brandId, genName)
   }, [vehicleProfile?.brandId, genName])
 
+  // Model-level path (same as gen path but without last segment) — для файлов которые лежат
+  // один раз на модель (parts-catalog, reviews, manual_meta, images)
+  const kbModelPath = useMemo(() => {
+    if (!kbGenPath) return null
+    const parts = kbGenPath.split('/')
+    if (parts.length < 3) return null
+    return parts.slice(0, -1).join('/')
+  }, [kbGenPath])
+
   // Load videos.json for this generation
   useEffect(() => {
     if (!kbGenPath) { setVideos([]); return }
@@ -120,7 +129,7 @@ export function KnowledgeBase() {
       .catch(() => setVideos([]))
   }, [kbGenPath])
 
-  // Load reviews.json for this generation
+  // Load reviews.json at GEN-level (legacy) — new reviews.md at model-level not JSON
   useEffect(() => {
     if (!kbGenPath) { setReviews([]); return }
     fetch(`${import.meta.env.BASE_URL}data/kb/${kbGenPath}/reviews.json`)
@@ -129,23 +138,23 @@ export function KnowledgeBase() {
       .catch(() => setReviews([]))
   }, [kbGenPath])
 
-  // Load parts-catalog.json
+  // Model-level: parts-catalog.json (one per model, not per gen)
   useEffect(() => {
-    if (!kbGenPath) { setPartsCat(null); return }
-    fetch(`${import.meta.env.BASE_URL}data/kb/${kbGenPath}/parts-catalog.json`)
+    if (!kbModelPath) { setPartsCat(null); return }
+    fetch(`${import.meta.env.BASE_URL}data/kb/${kbModelPath}/parts-catalog.json`)
       .then(r => r.ok ? r.json() : null)
       .then((data: KbPartsCatalog | null) => setPartsCat(data))
       .catch(() => setPartsCat(null))
-  }, [kbGenPath])
+  }, [kbModelPath])
 
-  // Load manual_meta.json
+  // Model-level: manual_meta.json
   useEffect(() => {
-    if (!kbGenPath) { setManualMeta(null); return }
-    fetch(`${import.meta.env.BASE_URL}data/kb/${kbGenPath}/manual_meta.json`)
+    if (!kbModelPath) { setManualMeta(null); return }
+    fetch(`${import.meta.env.BASE_URL}data/kb/${kbModelPath}/manual_meta.json`)
       .then(r => r.ok ? r.json() : null)
       .then((data: KbManualMeta | null) => setManualMeta(data))
       .catch(() => setManualMeta(null))
-  }, [kbGenPath])
+  }, [kbModelPath])
 
   async function handleDtcSelect(ref: DtcSituationRef) {
     const brandId = ref.brand.toLowerCase().replace(/[\s-]+/g, '_')
