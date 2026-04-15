@@ -1,0 +1,31 @@
+{
+  "topic_slug": "sci-road-input-psd-spectra",
+  "iter": 1,
+  "verified_at": "2026-04-15T20:24:51.113243+00:00",
+  "sources": {
+    "ISO 8608:2016 — Mechanical vibration — Road surface profiles — Reporting of measured data": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "10.1080/00423110802539069": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "10.1080/00423114.2016.1158883": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "10.1016/j.ymssp.2018.12.019": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "10.1016/j.jsv.2018.10.015": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "SAE 2019-01-0160": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

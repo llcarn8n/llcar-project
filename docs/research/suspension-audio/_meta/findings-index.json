@@ -311,6 +311,70 @@
       "verified_count": 0,
       "unknowns_count": 5,
       "synthesized": "2026-04-15T20:20:39.121022+00:00"
+    },
+    "cross-check-threshold-rules": {
+      "category": "expert-practice",
+      "md_file": "docs/research/suspension-audio/topics/expert-practice/cross-check-threshold-rules.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 7,
+      "synthesized": "2026-04-15T20:21:05.629475+00:00"
+    },
+    "sci-accelerometer-placement-iso": {
+      "category": "scientific-evidence",
+      "md_file": "docs/research/suspension-audio/topics/scientific-evidence/sci-accelerometer-placement-iso.md",
+      "sources_count": 6,
+      "verified_count": 0,
+      "unknowns_count": 3,
+      "synthesized": "2026-04-15T20:21:05.741157+00:00"
+    },
+    "sci-damping-ratio-vs-wear": {
+      "category": "scientific-evidence",
+      "md_file": "docs/research/suspension-audio/topics/scientific-evidence/sci-damping-ratio-vs-wear.md",
+      "sources_count": 6,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:21:18.427457+00:00"
+    },
+    "harmonic-vs-broadband": {
+      "category": "audio-correlations",
+      "md_file": "docs/research/suspension-audio/topics/audio-correlations/harmonic-vs-broadband.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:24:51.241113+00:00"
+    },
+    "sci-ball-joint-fatigue-models": {
+      "category": "scientific-evidence",
+      "md_file": "docs/research/suspension-audio/topics/scientific-evidence/sci-ball-joint-fatigue-models.md",
+      "sources_count": 6,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:24:51.266115+00:00"
+    },
+    "sci-bushing-fatigue-lab-tests": {
+      "category": "scientific-evidence",
+      "md_file": "docs/research/suspension-audio/topics/scientific-evidence/sci-bushing-fatigue-lab-tests.md",
+      "sources_count": 6,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:24:51.283114+00:00"
+    },
+    "sci-machine-learning-suspension-diagnostic": {
+      "category": "scientific-evidence",
+      "md_file": "docs/research/suspension-audio/topics/scientific-evidence/sci-machine-learning-suspension-diagnostic.md",
+      "sources_count": 6,
+      "verified_count": 0,
+      "unknowns_count": 5,
+      "synthesized": "2026-04-15T20:24:51.304115+00:00"
+    },
+    "sci-road-input-psd-spectra": {
+      "category": "scientific-evidence",
+      "md_file": "docs/research/suspension-audio/topics/scientific-evidence/sci-road-input-psd-spectra.md",
+      "sources_count": 6,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:24:51.322123+00:00"
     }
   }
 }

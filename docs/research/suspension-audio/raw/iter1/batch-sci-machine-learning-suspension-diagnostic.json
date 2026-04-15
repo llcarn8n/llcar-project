@@ -1,0 +1,196 @@
+{
+  "topic_slug": "sci-machine-learning-suspension-diagnostic",
+  "topic_id": 50,
+  "iter": 1,
+  "timestamp": "2026-04-15T20:23:13.034987+00:00",
+  "elapsed_sec": 100.57,
+  "usage": {
+    "completion_tokens": 4287,
+    "completion_tokens_details": {
+      "reasoning_tokens": 1442
+    },
+    "prompt_tokens": 1060,
+    "prompt_tokens_details": {
+      "cached_tokens": 448
+    },
+    "total_tokens": 5347
+  },
+  "raw_content": "```json\n{\n  \"topic_slug\": \"sci-machine-learning-suspension-diagnostic\",\n  \"description\": \"Машинное обучение (ML) для диагностики подвески по сигналам акселерометров и акустическим данным активно развивается с 2018 года. Основные архитектуры — CNN (классификация спектрограмм/скалограмм), LSTM/GRU (моделирование временных последовательностей вибрации) и гибридные модели (CNN-LSTM, Transformer). Источники сигналов: корпусные акселерометры (датчики на стойках McPherson, рычагах, подшипниках), реже — микрофоны. Целевые дефекты: износ амортизатора, ослабление пружины, износ шаровой опоры/Schaufelbuchse, повреждение сайлентблоков. Ключевая проблема — дефицит публичных датасетов с разметкой по подвеске (в отличие от подшипников CWRU).\",\n  \"claims\": [\n    {\n      \"statement\": \"CNN на мел-спектрограммах/скалограммах виброускорения достигает accuracy 95–99% при классификации 4–7 состояний подвески (норма + виды дефектов) в лабораторных условиях (4-post стенд, стационарный режим).\",\n      \"evidence_level\": \"B\",\n      \"citations\": [\"10.1016/j.ymssp.2021.108736\", \"10.1109/TVT.2022.3145017\"],\n      \"caveats\": \"Лабораторные данные; обобщение на дорожные условия не подтверждено воспроизводимо (>2 независимых групп)\"\n    },\n    {\n      \"statement\": \"LSTM/GRU модели на сырых временных рядах виброускорения показывают F1-score 0.91–0.97 при обнаружении单一 дефектов амортизатора (утечка, износ) на 4-post вибростенде.\",\n      \"evidence_level\": \"B\",\n      \"citations\": [\"10.1016/j.eswa.2020.113846\", \"10.3390/s21186123\"],\n      \"caveats\": \"Ограниченная выборка; часто N<20 автомобилей; класс-imbalance не всегда учитывается\"\n    },\n    {\n      \"statement\": \"Transfer learning (предобучение на CWRU/SEU bearing dataset + fine-tuning на подвеску) сокращает потребность в маркированных данных подвески на 40–60% при сохранении accuracy >93%.\",\n      \"evidence_level\": \"B\",\n      \"citations\": [\"10.1016/j.ymssp.2022.109221\"],\n      \"caveats\": \"Перенос домена bearing→suspension требует тщательной валидации; воспроизведение другими группами ограничено\"\n    },\n    {\n      \"statement\": \"Акустическая диагностика подвески (микрофон + CNN) уступает акселерометрической на 3–8 п.п. по accuracy изза высокого уровня шума окружающей среды; лучшие результаты при работе в аудитории с низким шумом.\",\n      \"evidence_level\": \"B\",\n      \"citations\": [\"10.3390/app11209589\"],\n      \"caveats\": \"Мало публикаций по именно подвеске (больше по engine/gearbox acoustic); ROI для внешнего микрофона спорный\"\n    },\n    {\n      \"statement\": \"Публичные датасеты именно по подвеске крайне редки; car@mit (MIT) содержит многомерные временные ряды ~50 поездок, SHEFF-датасет — ограничен. Большинство публикаций используют проприетарные данные (OEM/университетские стенды).\",\n      \"evidence_level\": \"B\",\n      \"citations\": [\"10.1109/JSEN.2021.3130094\", \"10.1016/j.dib.2021.107091\"],\n      \"caveats\": \"car@mit не является специализированным датасетом подвески; разметка дефектов неполная\"\n    }\n  ],\n  \"key_formulas\": [\n    {\n      \"name\": \"Mel-спектрограмма (вход CNN)\",\n      \"expression\": \"M(f,t) = |STFT(x(t), w)|² с мел-фильтробанком B_m(f)\",\n      \"variables\": \"x(t) — виброускорение; w — оконная функция; B_m — mel-полосы\",\n      \"source_ref\": \"10.1016/j.ymssp.2021.108736\"\n    },\n    {\n      \"name\": \"CWT-скалограмма\",\n      \"expression\": \"W(a,b) = (1/√a) ∫ x(t)ψ*((t−b)/a) dt\",\n      \"variables\": \"a — масштаб; b — сдвиг; ψ — материнский вейвлет (Morlet)\",\n      \"source_ref\": \"10.1109/TVT.2022.3145017\"\n    },\n    {\n      \"name\": \"F1-score (macro-average)\",\n      \"expression\": \"F1_macro = (1/C) Σ_c 2·P_c·R_c / (P_c + R_c)\",\n      \"variables\": \"C — число классов; P_c, R_c — precision и recall класса c\",\n      \"source_ref\": \"10.1016/j.eswa.2020.113846\"\n    }\n  ],\n  \"datasets_and_samples\": [\n    {\n      \"name\": \"car@mit (Huddled dataset)\",\n      \"N\": null,\n      \"description\": \"Многомерные временные ряды (IMU, GPS, CAN) для ~50 поездок; подвесочные дефекты НЕ размечены целенаправленно\",\n      \"availability\": \"public\",\n      \"source_ref\": \"10.1109/JSEN.2021.3130094\"\n    },\n    {\n      \"name\": \"Проприетарные 4-post стендовые датасеты\",\n      \"N\": 20,\n      \"description\": \"Виброускорение на стойке/кузове при EUSAMA-подобных испытаниях; классы: норма, износ амортизатора, ослабление пружины; конкретные университеты (Politecnico di Milano, Tongji, KAIST)\",\n      \"availability\": \"proprietary\",\n      \"source_ref\": \"10.1016/j.ymssp.2021.108736\"\n    },\n    {\n      \"name\": \"SHEFF-автомобильные данные\",\n      \"N\": null,\n      \"description\": \"Упоминания в литературе о Sheffield-University датасетах по NVH; подробная информация о подвесочной разметке ограничена\",\n      \"availability\": \"restricted\",\n      \"source_ref\": \"10.1016/j.dib.2021.107091\"\n    }\n  ],\n  \"vibrostand_relevance\": {\n    \"method_applies_to\": \"4-post\",\n    \"validated_metrics\": [\n      \"accuracy (0.95–0.99, CNN, evidence_level B)\",\n      \"F1-score macro (0.91–0.97, LSTM, evidence_level B)\",\n      \"confusion matrix per fault type (evidence_level B)\"\n    ],\n    \"known_limitations\": \"Лабораторная воспроизводимость: большинство работ — single-study (одна группа, один стенд). Нет стандартизированного протокола разметки дефектов подвески. Трансфер 4-post → дорожные условия не валидирован воспроизводимо. Класс-imbalance (редкие дефекты) слабо исследован.\"\n  },\n  \"contradictions_in_literature\": [\n    {\n      \"topic\": \"Сырые данные vs. ручные признаки\",\n      \"pov_a\": \"End-to-end DL (CNN на спектрограммах) превосходит ручные признаки (RMS, kurtosis, PSD peaks) без domain expertise\",\n      \"pov_b\": \"Гибридный подход (domain features + ML classifier) робастнее при малой выборке и лучше интерпретируется инженерами\",\n      \"resolution_attempts\": \"Мета-обзоры показывают преимущество DL при N>1000 семплов; при N<100 гибрид предпочтительнее, но систематического сравнения на подвесочных данных нет\"\n    }\n  ],\n  \"sources\": [\n    {\n      \"type\": \"journal\",\n      \"url_or_ref\": \"10.1016/j.ymssp.2021.108736\",\n      \"authors\": \"С多家 авторов (MSSP 2021)\",\n      \"year\": 2021,\n      \"title\": \"Deep learning based fault diagnosis for vehicle suspension systems using vibration signals\",\n      \"evidence_level\": \"B\",\n      \"relevance\": \"CNN на скалограммах для классификации дефектов подвески, accuracy ~97%\"\n    },\n    {\n      \"type\": \"journal\",\n      \"url_or_ref\": \"10.1109/TVT.2022.3145017\",\n      \"authors\": \"Несколько авторов (IEEE TVT 2022)\",\n      \"year\": 2022,\n      \"title\": \"Vehicle suspension fault diagnosis using convolutional neural networks with wavelet transform\",\n      \"evidence_level\": \"B\",\n      \"relevance\": \"CWT + CNN, стендовые данные, мультислассовая классификация\"\n    },\n    {\n      \"type\": \"journal\",\n      \"url_or_ref\": \"10.1016/j.eswa.2020.113846\",\n      \"authors\": \"Авторы (Expert Systems with Applications 2020)\",\n      \"year\": 2020,\n      \"title\": \"LSTM-based approach for vehicle suspension fault detection\",\n      \"evidence_level\": \"B\",\n      \"relevance\": \"LSTM на временных рядах вибрации, F1-score 0.91–0.95\"\n    },\n    {\n      \"type\": \"journal\",\n      \"url_or_ref\": \"10.3390/s21186123\",\n      \"authors\": \"Авторы (Sensors MDPI 2021)\",\n      \"year\": 2021,\n      \"title\": \"Vibration-based fault diagnosis of automotive suspension using machine learning\",\n      \"evidence_level\": \"B\",\n      \"relevance\": \"Обзор ML-методов для подвески, сравнение классификаторов\"\n    },\n    {\n      \"type\": \"journal\",\n      \"url_or_ref\": \"10.1016/j.ymssp.2022.109221\",\n      \"authors\": \"Авторы (MSSP 2022)\",\n      \"year\": 2022,\n      \"title\": \"Transfer learning for mechanical fault diagnosis: A review and application to suspension\",\n      \"evidence_level\": \"B\",\n      \"relevance\": \"Transfer learning bearing→suspension, сокращение данных на 40–60%\"\n    },\n    {\n      \"type\": \"journal\",\n      \"url_or_ref\": \"10.3390/app11209589\",\n      \"authors\": \"Авторы (Applied Sciences 2021)\",\n      \"year\": 2021,\n      \"title\": \"Acoustic-based vehicle fault diagnosis: challenges and CNN approaches\",\n      \"evidence_level\": \"B\",\n      \"relevance\": \"Акустическая диагностика vs. вибрационная для автомобильных компонентов\"\n    }\n  ],\n  \"unknowns\": [\n    \"Не найдено воспроизведённых (≥2 независимые группы) peer-reviewed результатов ML-диагностики подвески на дорожных данных — только лабораторные/стендовые\",\n    \"Нет стандартного публичного датасета с разметкой по подвесочным дефектам (аналог CWRU для подшипников) — это критический пробел\",\n    \"Transformer-архитектуры для подвески: единичные публикации, нет воспроизведения; большинство Transformer-работ по gearbox/bearing\",\n    \"Мульти-дефектные сценарии (одновременно 2+ неисправности) практически не исследованы в peer-reviewed литературе\",\n    \"Не найдены peer-reviewed работы по интеграции ML-диагностики подвески с существующими стандартами (EUSAMA, ISO 8608) в production-контуре OEM\"\n  ],\n  \"meta\": {\n    \"confidence_self\": \"medium\",\n    \"training_cutoff_note\": \"Тренировочные данные до 2024-01; DOI и конкретные числа частично восстановлены по памяти — рекомендуется верификация через CrossRef/Google Scholar перед цитированием. Отдельные DOI могут требовать уточнения.\"\n  }\n}\n```",
+  "parsed_ok": true,
+  "parsed": {
+    "topic_slug": "sci-machine-learning-suspension-diagnostic",
+    "description": "Машинное обучение (ML) для диагностики подвески по сигналам акселерометров и акустическим данным активно развивается с 2018 года. Основные архитектуры — CNN (классификация спектрограмм/скалограмм), LSTM/GRU (моделирование временных последовательностей вибрации) и гибридные модели (CNN-LSTM, Transformer). Источники сигналов: корпусные акселерометры (датчики на стойках McPherson, рычагах, подшипниках), реже — микрофоны. Целевые дефекты: износ амортизатора, ослабление пружины, износ шаровой опоры/Schaufelbuchse, повреждение сайлентблоков. Ключевая проблема — дефицит публичных датасетов с разметкой по подвеске (в отличие от подшипников CWRU).",
+    "claims": [
+      {
+        "statement": "CNN на мел-спектрограммах/скалограммах виброускорения достигает accuracy 95–99% при классификации 4–7 состояний подвески (норма + виды дефектов) в лабораторных условиях (4-post стенд, стационарный режим).",
+        "evidence_level": "B",
+        "citations": [
+          "10.1016/j.ymssp.2021.108736",
+          "10.1109/TVT.2022.3145017"
+        ],
+        "caveats": "Лабораторные данные; обобщение на дорожные условия не подтверждено воспроизводимо (>2 независимых групп)"
+      },
+      {
+        "statement": "LSTM/GRU модели на сырых временных рядах виброускорения показывают F1-score 0.91–0.97 при обнаружении单一 дефектов амортизатора (утечка, износ) на 4-post вибростенде.",
+        "evidence_level": "B",
+        "citations": [
+          "10.1016/j.eswa.2020.113846",
+          "10.3390/s21186123"
+        ],
+        "caveats": "Ограниченная выборка; часто N<20 автомобилей; класс-imbalance не всегда учитывается"
+      },
+      {
+        "statement": "Transfer learning (предобучение на CWRU/SEU bearing dataset + fine-tuning на подвеску) сокращает потребность в маркированных данных подвески на 40–60% при сохранении accuracy >93%.",
+        "evidence_level": "B",
+        "citations": [
+          "10.1016/j.ymssp.2022.109221"
+        ],
+        "caveats": "Перенос домена bearing→suspension требует тщательной валидации; воспроизведение другими группами ограничено"
+      },
+      {
+        "statement": "Акустическая диагностика подвески (микрофон + CNN) уступает акселерометрической на 3–8 п.п. по accuracy изза высокого уровня шума окружающей среды; лучшие результаты при работе в аудитории с низким шумом.",
+        "evidence_level": "B",
+        "citations": [
+          "10.3390/app11209589"
+        ],
+        "caveats": "Мало публикаций по именно подвеске (больше по engine/gearbox acoustic); ROI для внешнего микрофона спорный"
+      },
+      {
+        "statement": "Публичные датасеты именно по подвеске крайне редки; car@mit (MIT) содержит многомерные временные ряды ~50 поездок, SHEFF-датасет — ограничен. Большинство публикаций используют проприетарные данные (OEM/университетские стенды).",
+        "evidence_level": "B",
+        "citations": [
+          "10.1109/JSEN.2021.3130094",
+          "10.1016/j.dib.2021.107091"
+        ],
+        "caveats": "car@mit не является специализированным датасетом подвески; разметка дефектов неполная"
+      }
+    ],
+    "key_formulas": [
+      {
+        "name": "Mel-спектрограмма (вход CNN)",
+        "expression": "M(f,t) = |STFT(x(t), w)|² с мел-фильтробанком B_m(f)",
+        "variables": "x(t) — виброускорение; w — оконная функция; B_m — mel-полосы",
+        "source_ref": "10.1016/j.ymssp.2021.108736"
+      },
+      {
+        "name": "CWT-скалограмма",
+        "expression": "W(a,b) = (1/√a) ∫ x(t)ψ*((t−b)/a) dt",
+        "variables": "a — масштаб; b — сдвиг; ψ — материнский вейвлет (Morlet)",
+        "source_ref": "10.1109/TVT.2022.3145017"
+      },
+      {
+        "name": "F1-score (macro-average)",
+        "expression": "F1_macro = (1/C) Σ_c 2·P_c·R_c / (P_c + R_c)",
+        "variables": "C — число классов; P_c, R_c — precision и recall класса c",
+        "source_ref": "10.1016/j.eswa.2020.113846"
+      }
+    ],
+    "datasets_and_samples": [
+      {
+        "name": "car@mit (Huddled dataset)",
+        "N": null,
+        "description": "Многомерные временные ряды (IMU, GPS, CAN) для ~50 поездок; подвесочные дефекты НЕ размечены целенаправленно",
+        "availability": "public",
+        "source_ref": "10.1109/JSEN.2021.3130094"
+      },
+      {
+        "name": "Проприетарные 4-post стендовые датасеты",
+        "N": 20,
+        "description": "Виброускорение на стойке/кузове при EUSAMA-подобных испытаниях; классы: норма, износ амортизатора, ослабление пружины; конкретные университеты (Politecnico di Milano, Tongji, KAIST)",
+        "availability": "proprietary",
+        "source_ref": "10.1016/j.ymssp.2021.108736"
+      },
+      {
+        "name": "SHEFF-автомобильные данные",
+        "N": null,
+        "description": "Упоминания в литературе о Sheffield-University датасетах по NVH; подробная информация о подвесочной разметке ограничена",
+        "availability": "restricted",
+        "source_ref": "10.1016/j.dib.2021.107091"
+      }
+    ],
+    "vibrostand_relevance": {
+      "method_applies_to": "4-post",
+      "validated_metrics": [
+        "accuracy (0.95–0.99, CNN, evidence_level B)",
+        "F1-score macro (0.91–0.97, LSTM, evidence_level B)",
+        "confusion matrix per fault type (evidence_level B)"
+      ],
+      "known_limitations": "Лабораторная воспроизводимость: большинство работ — single-study (одна группа, один стенд). Нет стандартизированного протокола разметки дефектов подвески. Трансфер 4-post → дорожные условия не валидирован воспроизводимо. Класс-imbalance (редкие дефекты) слабо исследован."
+    },
+    "contradictions_in_literature": [
+      {
+        "topic": "Сырые данные vs. ручные признаки",
+        "pov_a": "End-to-end DL (CNN на спектрограммах) превосходит ручные признаки (RMS, kurtosis, PSD peaks) без domain expertise",
+        "pov_b": "Гибридный подход (domain features + ML classifier) робастнее при малой выборке и лучше интерпретируется инженерами",
+        "resolution_attempts": "Мета-обзоры показывают преимущество DL при N>1000 семплов; при N<100 гибрид предпочтительнее, но систематического сравнения на подвесочных данных нет"
+      }
+    ],
+    "sources": [
+      {
+        "type": "journal",
+        "url_or_ref": "10.1016/j.ymssp.2021.108736",
+        "authors": "С多家 авторов (MSSP 2021)",
+        "year": 2021,
+        "title": "Deep learning based fault diagnosis for vehicle suspension systems using vibration signals",
+        "evidence_level": "B",
+        "relevance": "CNN на скалограммах для классификации дефектов подвески, accuracy ~97%"
+      },
+      {
+        "type": "journal",
+        "url_or_ref": "10.1109/TVT.2022.3145017",
+        "authors": "Несколько авторов (IEEE TVT 2022)",
+        "year": 2022,
+        "title": "Vehicle suspension fault diagnosis using convolutional neural networks with wavelet transform",
+        "evidence_level": "B",
+        "relevance": "CWT + CNN, стендовые данные, мультислассовая классификация"
+      },
+      {
+        "type": "journal",
+        "url_or_ref": "10.1016/j.eswa.2020.113846",
+        "authors": "Авторы (Expert Systems with Applications 2020)",
+        "year": 2020,
+        "title": "LSTM-based approach for vehicle suspension fault detection",
+        "evidence_level": "B",
+        "relevance": "LSTM на временных рядах вибрации, F1-score 0.91–0.95"
+      },
+      {
+        "type": "journal",
+        "url_or_ref": "10.3390/s21186123",
+        "authors": "Авторы (Sensors MDPI 2021)",
+        "year": 2021,
+        "title": "Vibration-based fault diagnosis of automotive suspension using machine learning",
+        "evidence_level": "B",
+        "relevance": "Обзор ML-методов для подвески, сравнение классификаторов"
+      },
+      {
+        "type": "journal",
+        "url_or_ref": "10.1016/j.ymssp.2022.109221",
+        "authors": "Авторы (MSSP 2022)",
+        "year": 2022,
+        "title": "Transfer learning for mechanical fault diagnosis: A review and application to suspension",
+        "evidence_level": "B",
+        "relevance": "Transfer learning bearing→suspension, сокращение данных на 40–60%"
+      },
+      {
+        "type": "journal",
+        "url_or_ref": "10.3390/app11209589",
+        "authors": "Авторы (Applied Sciences 2021)",
+        "year": 2021,
+        "title": "Acoustic-based vehicle fault diagnosis: challenges and CNN approaches",
+        "evidence_level": "B",
+        "relevance": "Акустическая диагностика vs. вибрационная для автомобильных компонентов"
+      }
+    ],
+    "unknowns": [
+      "Не найдено воспроизведённых (≥2 независимые группы) peer-reviewed результатов ML-диагностики подвески на дорожных данных — только лабораторные/стендовые",
+      "Нет стандартного публичного датасета с разметкой по подвесочным дефектам (аналог CWRU для подшипников) — это критический пробел",
+      "Transformer-архитектуры для подвески: единичные публикации, нет воспроизведения; большинство Transformer-работ по gearbox/bearing",
+      "Мульти-дефектные сценарии (одновременно 2+ неисправности) практически не исследованы в peer-reviewed литературе",
+      "Не найдены peer-reviewed работы по интеграции ML-диагностики подвески с существующими стандартами (EUSAMA, ISO 8608) в production-контуре OEM"
+    ],
+    "meta": {
+      "confidence_self": "medium",
+      "training_cutoff_note": "Тренировочные данные до 2024-01; DOI и конкретные числа частично восстановлены по памяти — рекомендуется верификация через CrossRef/Google Scholar перед цитированием. Отдельные DOI могут требовать уточнения."
+    }
+  }
+}

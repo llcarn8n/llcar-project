@@ -1,0 +1,31 @@
+{
+  "topic_slug": "sci-ball-joint-fatigue-models",
+  "iter": 1,
+  "verified_at": "2026-04-15T20:24:51.110240+00:00",
+  "sources": {
+    "10.1016/j.wear.2018.04.012": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "10.1016/j.triboint.2019.04.035": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "10.1016/j.triboint.2017.03.024": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "10.1016/j.ijfatigue.2016.05.033": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "SAE 2015-01-2354": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "SAE 2020-01-1432": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}
