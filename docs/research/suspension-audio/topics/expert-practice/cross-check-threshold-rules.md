@@ -88,3 +88,81 @@ Brand variations существенны: BMW (ISTA/D) использует NVH-i
 - **confidence_self:** medium-high для ISO/ГОСТ порогов и общей методологии; medium для brand-specifics (BMW/MB/Toyota); low для rules.json без уточнения единиц
 - **training_cutoff_note:** Данные актуальны на момент обучения; OEM пороги обновляются через TSB; для критических решений всегда сверяться с последней версией ISTA/WIS/ElsaWin/Service Box
 - **synthesized:** 2026-04-15T20:21:05.618163+00:00
+
+---
+
+## REAL CODE VERIFICATION (Phase 9, code-grounded)
+
+Прямое чтение `dashboard_build/diagnostic/rules/threshold_rules.json` + `dashboard_build/diagnostic/rule_engine.py`.
+
+### Реальное состояние 3 suspension rules
+
+**1. `worn_suspension` (T2):**
+```json
+{
+  "name": "worn_suspension",
+  "tier": "T2",
+  "conditions": [
+    {"fact_type": "az_std",          "operator": ">",  "threshold": 3.0, "weight": 3},
+    {"fact_type": "total_vibration", "operator": ">",  "threshold": 4.0, "weight": 2},
+    {"fact_type": "az_range",        "operator": ">",  "threshold": 8.0, "weight": 2}
+  ],
+  "context": {"min_speed": 20},
+  "min_confidence": 40,
+  "cooldown_minutes": 10080
+}
+```
+
+**2. `wheel_imbalance` (T2):**
+```json
+{
+  "conditions": [
+    {"fact_type": "az_std",          "operator": "z>", "threshold": 2.0, "weight": 3},
+    {"fact_type": "total_vibration", "operator": ">",  "threshold": 3.0, "weight": 2},
+    {"fact_type": "speed",           "operator": ">",  "threshold": 60.0, "weight": 1}
+  ],
+  "context": {"min_speed": 20}
+}
+```
+
+**3. `bearing_wear` (T3):**
+```json
+{
+  "conditions": [
+    {"fact_type": "dominant_freq", "operator": ">",  "threshold": 200.0, "weight": 2},
+    {"fact_type": "dominant_amp",  "operator": "z>", "threshold": 2.5, "weight": 3}
+  ]
+}
+```
+
+### Operator `z>` — что это
+
+Изначально подозревал баг (опечатка `>` → `z>`). На самом деле — **легитимный operator** в `rule_engine.py:337-349`:
+
+```python
+if op == "z>":
+    bl = baselines.get(regime_key, cond.fact_type)
+    z = bl.z_score(value)
+    met = z > threshold
+```
+
+Z-score сравнение против baseline данной regime (highway/idle/etc). `threshold = 2.0` ≈ "значение более 2σ над baseline".
+Это **намного более устойчиво к brand variations** чем абсолютный порог: подвеска BMW и подвеска Lada имеют разные baseline → z>2 универсально detect отклонения.
+
+### Сравнение с findings из topics/
+
+| Rule | Threshold | Findings (suspension topics) | Gap |
+|------|-----------|------------------------------|-----|
+| `worn_suspension.az_std > 3.0` | 3.0 g | shock-absorbers.md typical: 0.05-0.15 g (исправный) | **3.0 g — это очень высокий порог; реалистично 0.5-1.0 g для умеренного износа** |
+| `worn_suspension.az_range > 8.0` | 8.0 g | shock-absorbers/struts findings подтверждают range 0.05-0.8 g для исправных | **8.0 — экстремально высокий; реалистично 2-3 g** |
+| `wheel_imbalance.speed > 60` | 60 km/h | speed-dependence.md: критическая скорость 80-120 km/h для дисбаланса | **OK** |
+| `bearing_wear.dominant_freq > 200` | 200 Hz | frequency-ranges-per-defect.md: подшипник 150-400 Hz | **OK** (нижняя граница диапазона) |
+| `bearing_wear.dominant_amp z>2.5` | z>2.5 | sci-strut-wear-signature-empirical.md: RMS, Crest Factor — z-score 2-3 типично | **OK** |
+
+### Recommended changes для S21
+
+1. **`worn_suspension.az_std`: понизить порог 3.0 → 1.0 g** — текущее значение детектит только critical wear, пропускает initial degradation
+2. **`worn_suspension.az_range`: понизить порог 8.0 → 3.0 g** — аналогично
+3. **`wheel_imbalance`: добавить условие "peak at speed window"** — текущая логика не использует peak-detection, может false-positive на bumpy roads
+4. **`bearing_wear`: добавить opcode для harmonic-detection** — sidebands у BPFO/BPFI самый надёжный signature, не просто amplitude
+

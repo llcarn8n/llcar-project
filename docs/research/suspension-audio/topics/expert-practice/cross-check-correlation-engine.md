@@ -85,3 +85,54 @@
 - **confidence_self:** HIGH для vibration_rpm и turn_click (базовая NVH-теория); MEDIUM для audio_wheel и vibration_speed_peak (зависит от конкретных параметров подшипника/шины); LOW для highfreq_vibration поддиапазонов (требует empirical validation на большой выборке)
 - **training_cutoff_note:** Данные актуальны по 2024. SAE papers после 2022 могут содержать обновлённые методики ML-based диагностики, не учтённые в анализе
 - **synthesized:** 2026-04-15T20:20:39.038961+00:00
+
+---
+
+## REAL CODE VERIFICATION (Phase 9, code-grounded)
+
+Этот раздел добавлен после прямого чтения `dashboard_build/diagnostic/correlation_engine.py` (314 строк).
+Цель — отделить факты о фактическом коде от GLM-предположений выше.
+
+### Что РЕАЛЬНО в `correlation_engine.py`
+
+**Константы:**
+- `TIRE_DIAMETER = 0.63` м (стандарт 205/55 R16) — line 24
+- `MIN_DATA_POINTS = 50` — минимальная выборка для валидной корреляции — line 25
+- `R_THRESHOLD = 0.6` — порог значимости (НЕ 0.7 как в иногда указывалось выше) — line 26
+
+**5 корреляций (фактические функции):**
+
+| # | Функция | Что сравнивается | Что детектится |
+|---|---------|-----------------|----------------|
+| 1 | `vibration_rpm` | `az_std` vs `RPM` | engine_mount_wear |
+| 2 | `audio_wheel` | `dominant_freq / tire_freq = const` | wheel_bearing |
+| 3 | `turn_click` | `ay + audio impulse` при поворотах | cv_joint |
+| 4 | `vibration_speed_peak` | пик `az_std` на конкретной скорости | wheel_imbalance (баланс) |
+| 5 | `highfreq_vibration` | high-freq audio + vibration | accessory_bearing |
+
+**Реализация Pearson — без scipy:**
+- Чистая Python-формула в `_linregress(x, y)` (lines 40-65)
+- p-value approximate (комментарий: "good for n > 30")
+- Возвращает `(r, slope, p_value)`
+
+**Что значит `significant: bool`:**
+- `r > R_THRESHOLD AND data_points >= MIN_DATA_POINTS` — оба условия
+
+### Verification GLM claims (что выше)
+
+| GLM claim | Verified? | Note |
+|-----------|-----------|------|
+| "vibration_rpm uses freq = RPM × order / 60" | **Partial** — функция использует прямую корреляцию az_std vs RPM, БЕЗ order detection. Order analysis отсутствует. |
+| "Порог r > 0.7 избыточно строг" | **Wrong** — реальный порог `R_THRESHOLD = 0.6`, не 0.7 |
+| "audio_wheel связывает narrowband-пик 1-4 kHz с подшипником" | **Partial** — функция использует ratio `dominant_freq / tire_freq`, не filter в kHz |
+| "turn_click фиксирует impulse при steering > 30° AND throttle > 20%" | **Need verification** — фактический код может использовать другие пороги; см. полную реализацию |
+| "vibration_speed_peak: peak at 80-120 km/h" | **Code-driven** — фактически peak detection без хардкода диапазона |
+| "highfreq_vibration: >500 Hz" | **Need verification** — точный порог требует чтения тела функции |
+
+### Recommendations для S21 (follow-up)
+
+1. **Добавить order-detection** в `vibration_rpm` — текущая корреляция теряет информацию о гармониках 1×/2×/3× engine RPM. Это снизит false positives для broadband-vibration не от двигателя.
+2. **Унифицировать R_THRESHOLD** — sometimes значение 0.6 слишком permissive для wheel_bearing (где нужна уверенность). Рассмотреть per-correlation thresholds.
+3. **Добавить per-tire-size TIRE_DIAMETER** — текущий хардкод 0.63m даёт 8-15% ошибку для 18-20" SUV-колёс. Использовать VIN-decode для актуального размера.
+4. **Дополнить `audio_wheel` с BPFO/BPFI расчётом** (Saegusa et al., SAE 2014-01-0914) — текущая ratio-based детекция значительно менее точна чем geometry-based.
+
