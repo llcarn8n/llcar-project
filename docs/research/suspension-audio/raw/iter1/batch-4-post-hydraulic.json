@@ -1,0 +1,213 @@
+{
+  "topic_slug": "4-post-hydraulic",
+  "topic_id": 24,
+  "iter": 1,
+  "timestamp": "2026-04-15T20:14:50.634180+00:00",
+  "elapsed_sec": 83.02,
+  "usage": {
+    "completion_tokens": 3479,
+    "completion_tokens_details": {
+      "reasoning_tokens": 405
+    },
+    "prompt_tokens": 740,
+    "prompt_tokens_details": {
+      "cached_tokens": 256
+    },
+    "total_tokens": 4219
+  },
+  "raw_content": "{\n  \"topic_slug\": \"4-post-hydraulic\",\n  \"description\": \"4-стоечный гидравлический вибростенд (4-post rig) — промышленная установка для полнообъёмного моделирования дорожных воздействий на автомобиль. Каждое колесо установлено на отдельный гидроцилиндр, управляемый сервоклапаном (servo-valve) по сигналу от контроллера (MTS FlexTest, Servotest DaVinci, Instron). Система воспроизводит записанные дорожные профили (RPC/TWR — Remote Parameter Control / Time Waveform Replication) с точностью до ±0.1 мм в диапазоне 0.5–80 Гц. Применяется OEM для оценки плавности хода (ride comfort), идентификации мод подвески и кузова (modal analysis), валидации CAE-моделей и ресурсных испытаний (durability). Типичная стоимость: $1–5 млн в зависимости от конфигурации и максимального хода актуаторов (±75…±250 мм). Замерная цепочка: акселерометры на шпинделях (wheel hub accelerometers) + акселерометры на кузове (body/chassis accelerometers) + опционально микрофоны в салоне. Основная метрика — передаточная функция (transmissibility) от road input к chassis response, а также FRF (Frequency Response Function) для выделения резонансов подвески (~1–2.5 Гц) и кузовных мод (~15–40 Гц).\",\n  \"symptoms\": [\n    {\"text\": \"Несовпадение FRF между шпинделем и кузовом в диапазоне 1–3 Гц — признак деградации амортизаторов или изменение жёсткости пружин\", \"when\": \"При снятии FRF на стенде с синусоидальной развёрткой (sine sweep) 0.5–30 Гц\", \"severity\": \"medium\"},\n    {\"text\": \"Резкий пик transmissibility > 3.0 на частоте 10–15 Гц — резонанс неподрессоренной массы (wheel hop resonance)\", \"when\": \"При широкополосном возбуждении (white noise или road profile replay)\", \"severity\": \"high\"},\n    {\"text\": \"Асимметрия откликов левый/правый мост > 15% — неисправность стабилизатора, разная жёсткость пружин или неравномерное распределение массы\", \"when\": \"При коррелированном (correlated) или противофазном (opposed) возбуждении левого/правого актуаторов\", \"severity\": \"medium\"},\n    {\"text\": \"Фазовый сдвиг между входом и откликом кузова > 90° на частоте резонанса подвески — признак неправильного демпфирования\", \"when\": \"При анализе фазовой характеристики FRF\", \"severity\": \"high\"},\n    {\"text\": \"Избыточный шум в салоне на частотах 20–50 Гц при ровном road input — структура кузова резонирует (boom noise)\", \"when\": \"При комбинированном вибро-акустическом тестировании с микрофонами\", \"severity\": \"low\"},\n    {\"text\": \"Невоспроизводимость (RPF < 0.9) — проблема калибровки стенда, износ сервоклапанов или утечки в гидросистеме\", \"when\": \"При верификации RPC-итерации\", \"severity\": \"high\"}\n  ],\n  \"vibration_signature\": {\n    \"axes\": [\"vertical (Z) — основной\", \"longitudinal (X)\", \"lateral (Y) — опционально при 6-DOF конфигурации\"],\n    \"frequency_range_hz\": [0.5, 80],\n    \"amplitude_g\": [0.01, 2.0],\n    \"az_std_typical\": null,\n    \"total_vibration_typical\": null,\n    \"dominant_freq_hz\": null,\n    \"pattern\": \"broadband\",\n    \"notes\": \"Доминирующие частоты определяются дорожным профилем: primary ride ~1–2.5 Гц, secondary ride 3–8 Гц, wheel hop 10–15 Гц, структурные моды кузова 20–50 Гц. Воспроизведение профиля — по FRF-компенсации (inverse FRF системы).\"\n  },\n  \"audio_signature\": {\n    \"frequency_range_hz\": [20, 500],\n    \"character\": \"Зависит от дорожного профиля: broadband road noise при случайном возбуждении, тональный boom при резонансе кузова\",\n    \"impulse_or_continuous\": \"continuous\",\n    \"speed_dependence\": \"Профиль road input масштабируется по скорости; при увеличении скорости — сдвиг энергии в высокочастотную область\",\n    \"load_dependence\": \"Да — загрузка автомобиля влияет на собственные частоты подвески и кузова\",\n    \"our_zone_mapping\": \"Внутренний NVH-анализ: микрофоны в позиции уха водителя/пассажиров, зонирование по частоте: primary ride (осязание, 1–8 Гц) → secondary ride (комфорт, 8–20 Гц) → acoustic (слух, 20–80+ Гц)\",\n    \"notes\": \"При синхронном замере вибрации и звука возможно построение cross-spectrum для идентификации путей передачи шума (noise path analysis).\"\n  },\n  \"vibrostand_method\": {\n    \"applicable\": true,\n    \"stand_type\": \"4-post hydraulic test rig (MTS, Servotest, Instron, Moog)\",\n    \"key_metric\": \"FRF (Frequency Response Function), Transmissibility, RPF (Response Processing Factor), coherence\",\n    \"threshold_pass\": null,\n    \"threshold_fail\": null,\n    \"standard_ref\": \"ISO 16730-1:2016 (Road vehicles — Vehicle dynamics), SAE J2562 (durability testing), OEM-спецификации (индивидуальные)\",\n    \"notes\": \"Пороги pass/fail устанавливаются OEM индивидуально для каждого модельного ряда на основе CAE-моделей и корреляции с субъективной оценкой (jury rating). Стандартизированных универсальных порогов не существует.\"\n  },\n  \"brand_specifics\": [\n    {\"brand\": \"MTS Systems\", \"models\": [\"MTS 329\", \"MTS 320\", \"MTS Model 353\"], \"note\": \"Лидер рынка; система управления FlexTest, ПО RPC Pro для итеративного обучения дорожного профиля. Широкая база в OEM (GM, Ford, Toyota, VW)\"},\n    {\"brand\": \"Servotest\", \"models\": [\"Servotest 4-Post\", \"Servotest suspension test rig\"], \"note\": \"ПО DaVinci; популярны в Европе и Азии; конкурент MTS по функционалу\"},\n    {\"brand\": \"Instron / IST\", \"models\": [\"Instron 4-post vehicle test\"], \"note\": \"Часть Illinois Tool Works; применяются для durability и NVH\"},\n    {\"brand\": \"Moog/FCS\", \"models\": [\"FCS 4-post systems\"], \"note\": \"Применяются в основном для suspension R&D; также производят 6-DOF системы для более полного моделирования\"}\n  ],\n  \"expert_sequence\": [\n    {\"step\": 1, \"action\": \"Подготовка автомобиля и стенда: установка на шпильки, подключение измерительных цепей, проверка давления в шинах и загрузки\", \"check\": \"Масса автомобиля ±2% от номинала, давление в шинах по OEM-спецификации, акселерометры на шпинделях и кузове калиброваны\", \"tool\": \"4-post rig + калиброванные акселерометры (PCB/Brüel & Kjær) + система сбора данных (LMS SCADAS, MTS DCS)\"},\n    {\"step\": 2, \"action\": \"Снятие FRF (синусоидальная развёртка или широкополосный шум): возбуждение 0.5–50 Гц, замер откликов на шпинделях и кузове\", \"check\": \"Когерентность (coherence) > 0.95 в диапазоне анализа; воспроизводимость при повторных запусках\", \"tool\": \"FlexTest/DaVinci controller + анализатор FRF (LMS Test.Lab, HEAD Artemis)\"},\n    {\"step\": 3, \"action\": \"Анализ FRF и transmissibility: идентификация частот резонансов (suspension ride frequency, wheel hop, кузовные моды)\", \"check\": \"Сравнение с CAE-моделью или baseline-данными; отклонение резонансных частот не более ±5%\", \"tool\": \"ПО для модального анализа (LMS Test.Lab Structures, Brüel & Kjær Reflex)\"},\n    {\"step\": 4, \"action\": \"Воспроизведение дорожного профиля (RPC/TWR): итеративное обучение системы для точного соответствия road input целевому сигналу\", \"check\": \"RPF (Response Processing Factor) > 0.9 после 3–5 итераций; RMS-ошибка < 10%\", \"tool\": \"RPC Pro (MTS) или DaVinci RPC (Servotest)\"},\n    {\"step\": 5, \"action\": \"Основной тест (durability/NVH): воспроизведение профиля в течение заданного времени (от часов до недель), мониторинг состояния подвески\", \"check\": \"Отсутствие деградации FRF более 10% за время теста; визуальный осмотр компонентов после теста\", \"tool\": \"Полная система стенда + высокоскоростной сбор данных + камеры для визуального контроля\"}\n  ],\n  \"correlations_with_other_defects\": [\n    {\"defect\": \"Деградация амортизаторов\", \"distinguish_by\": \"Увеличение пика transmissibility на частоте резонанса подвески (> 2.5 вместо нормальных 1.5–2.0) + уменьшение фазового угла\"},\n    {\"defect\": \"Неисправность подшипника ступицы\", \"distinguish_by\": \"Высокочастотный компонент (> 50 Гц) в сигнале шпинделя, не коррелирующий с road input; огибающая (envelope) показывает дефектные частоты подшипника\"},\n    {\"defect\": \"Ослабление элементов подвески (сайлентблоки, шаровые)\", \"distinguish_by\": \"Нелинейный отклик: асимметрия FRF при разной амплитуде возбуждения; появление субгармоник\"},\n    {\"defect\": \"Резонанс выхлопной системы\", \"distinguish_by\": \"Локализованный пик на кузове в зоне крепления выхлопа; микрофон показывает выраженный тональный компонент, не зависящий от road input\"}\n  ],\n  \"sources\": [\n    {\"type\": \"book\", \"url_or_ref\": \"Reimpell J., Stoll H., Betzler J.W. «The Automotive Chassis: Engineering Principles», 2nd ed., SAE, 2001, ISBN 978-0-7680-0657-5\", \"relevance\": \"Глава о динамике подвески и испытательных стендах; базовые принципы ride frequency и wheel hop\"},\n    {\"type\": \"paper\", \"url_or_ref\": \"SAE Technical Paper 2005-01-0413: «Road Simulation Techniques for Full Vehicle Testing» — MTS Systems Corp.\", \"relevance\": \"Описание методологии RPC и TWR для 4-post стендов; практика применения в OEM\"},\n    {\"type\": \"standard\", \"url_or_ref\": \"ISO 16730-1:2016 «Road vehicles — Vehicle dynamics — Part 1: General principles for testing»\", \"relevance\": \"Общие принципы испытаний динамики автомобиля; методика проведения vibration testing\"},\n    {\"type\": \"forum\", \"url_or_ref\": \"GarageJournal thread: «4 post vibration tester/road simulator» (garagejournal.com/forum)\", \"relevance\": \"Обсуждение практиков; цена оборудования, альтернативы, опыт эксплуатации б/у стендов\"}\n  ],\n  \"unknowns\": [\n    \"Точные текущие цены на новые 4-post системы MTS/Instron (ориентировочно $1–5M, но зависят от комплектации и года)\",\n    \"Наличие доступных б/у 4-post стендов на рынке и их реальная стоимость\",\n    \"Конкретные OEM-пороги pass/fail для FRF и transmissibility (закрытые данные)\",\n    \"Методика калибровки сервоклапанов и гидроцилиндров (процедура OEM-специфичная, не опубликована)\",\n    \"Сравнение точности между 4-post и 6-DOF системами для различных типов тестов (недостаточно открытых данных)\"\n  ],\n  \"meta\": {\n    \"confidence_self\": \"0.85 — общие принципы работы 4-post стендов и методология RPC/TWR описаны уверенно; конкретные цены и OEM-пороги — оценочно, точные цифры могут отличаться\",\n    \"training_cutoff_note\": \"Данные актуальны на момент обучения; цены и модели оборудования могли обновиться\"\n  }\n}",
+  "parsed_ok": true,
+  "parsed": {
+    "topic_slug": "4-post-hydraulic",
+    "description": "4-стоечный гидравлический вибростенд (4-post rig) — промышленная установка для полнообъёмного моделирования дорожных воздействий на автомобиль. Каждое колесо установлено на отдельный гидроцилиндр, управляемый сервоклапаном (servo-valve) по сигналу от контроллера (MTS FlexTest, Servotest DaVinci, Instron). Система воспроизводит записанные дорожные профили (RPC/TWR — Remote Parameter Control / Time Waveform Replication) с точностью до ±0.1 мм в диапазоне 0.5–80 Гц. Применяется OEM для оценки плавности хода (ride comfort), идентификации мод подвески и кузова (modal analysis), валидации CAE-моделей и ресурсных испытаний (durability). Типичная стоимость: $1–5 млн в зависимости от конфигурации и максимального хода актуаторов (±75…±250 мм). Замерная цепочка: акселерометры на шпинделях (wheel hub accelerometers) + акселерометры на кузове (body/chassis accelerometers) + опционально микрофоны в салоне. Основная метрика — передаточная функция (transmissibility) от road input к chassis response, а также FRF (Frequency Response Function) для выделения резонансов подвески (~1–2.5 Гц) и кузовных мод (~15–40 Гц).",
+    "symptoms": [
+      {
+        "text": "Несовпадение FRF между шпинделем и кузовом в диапазоне 1–3 Гц — признак деградации амортизаторов или изменение жёсткости пружин",
+        "when": "При снятии FRF на стенде с синусоидальной развёрткой (sine sweep) 0.5–30 Гц",
+        "severity": "medium"
+      },
+      {
+        "text": "Резкий пик transmissibility > 3.0 на частоте 10–15 Гц — резонанс неподрессоренной массы (wheel hop resonance)",
+        "when": "При широкополосном возбуждении (white noise или road profile replay)",
+        "severity": "high"
+      },
+      {
+        "text": "Асимметрия откликов левый/правый мост > 15% — неисправность стабилизатора, разная жёсткость пружин или неравномерное распределение массы",
+        "when": "При коррелированном (correlated) или противофазном (opposed) возбуждении левого/правого актуаторов",
+        "severity": "medium"
+      },
+      {
+        "text": "Фазовый сдвиг между входом и откликом кузова > 90° на частоте резонанса подвески — признак неправильного демпфирования",
+        "when": "При анализе фазовой характеристики FRF",
+        "severity": "high"
+      },
+      {
+        "text": "Избыточный шум в салоне на частотах 20–50 Гц при ровном road input — структура кузова резонирует (boom noise)",
+        "when": "При комбинированном вибро-акустическом тестировании с микрофонами",
+        "severity": "low"
+      },
+      {
+        "text": "Невоспроизводимость (RPF < 0.9) — проблема калибровки стенда, износ сервоклапанов или утечки в гидросистеме",
+        "when": "При верификации RPC-итерации",
+        "severity": "high"
+      }
+    ],
+    "vibration_signature": {
+      "axes": [
+        "vertical (Z) — основной",
+        "longitudinal (X)",
+        "lateral (Y) — опционально при 6-DOF конфигурации"
+      ],
+      "frequency_range_hz": [
+        0.5,
+        80
+      ],
+      "amplitude_g": [
+        0.01,
+        2.0
+      ],
+      "az_std_typical": null,
+      "total_vibration_typical": null,
+      "dominant_freq_hz": null,
+      "pattern": "broadband",
+      "notes": "Доминирующие частоты определяются дорожным профилем: primary ride ~1–2.5 Гц, secondary ride 3–8 Гц, wheel hop 10–15 Гц, структурные моды кузова 20–50 Гц. Воспроизведение профиля — по FRF-компенсации (inverse FRF системы)."
+    },
+    "audio_signature": {
+      "frequency_range_hz": [
+        20,
+        500
+      ],
+      "character": "Зависит от дорожного профиля: broadband road noise при случайном возбуждении, тональный boom при резонансе кузова",
+      "impulse_or_continuous": "continuous",
+      "speed_dependence": "Профиль road input масштабируется по скорости; при увеличении скорости — сдвиг энергии в высокочастотную область",
+      "load_dependence": "Да — загрузка автомобиля влияет на собственные частоты подвески и кузова",
+      "our_zone_mapping": "Внутренний NVH-анализ: микрофоны в позиции уха водителя/пассажиров, зонирование по частоте: primary ride (осязание, 1–8 Гц) → secondary ride (комфорт, 8–20 Гц) → acoustic (слух, 20–80+ Гц)",
+      "notes": "При синхронном замере вибрации и звука возможно построение cross-spectrum для идентификации путей передачи шума (noise path analysis)."
+    },
+    "vibrostand_method": {
+      "applicable": true,
+      "stand_type": "4-post hydraulic test rig (MTS, Servotest, Instron, Moog)",
+      "key_metric": "FRF (Frequency Response Function), Transmissibility, RPF (Response Processing Factor), coherence",
+      "threshold_pass": null,
+      "threshold_fail": null,
+      "standard_ref": "ISO 16730-1:2016 (Road vehicles — Vehicle dynamics), SAE J2562 (durability testing), OEM-спецификации (индивидуальные)",
+      "notes": "Пороги pass/fail устанавливаются OEM индивидуально для каждого модельного ряда на основе CAE-моделей и корреляции с субъективной оценкой (jury rating). Стандартизированных универсальных порогов не существует."
+    },
+    "brand_specifics": [
+      {
+        "brand": "MTS Systems",
+        "models": [
+          "MTS 329",
+          "MTS 320",
+          "MTS Model 353"
+        ],
+        "note": "Лидер рынка; система управления FlexTest, ПО RPC Pro для итеративного обучения дорожного профиля. Широкая база в OEM (GM, Ford, Toyota, VW)"
+      },
+      {
+        "brand": "Servotest",
+        "models": [
+          "Servotest 4-Post",
+          "Servotest suspension test rig"
+        ],
+        "note": "ПО DaVinci; популярны в Европе и Азии; конкурент MTS по функционалу"
+      },
+      {
+        "brand": "Instron / IST",
+        "models": [
+          "Instron 4-post vehicle test"
+        ],
+        "note": "Часть Illinois Tool Works; применяются для durability и NVH"
+      },
+      {
+        "brand": "Moog/FCS",
+        "models": [
+          "FCS 4-post systems"
+        ],
+        "note": "Применяются в основном для suspension R&D; также производят 6-DOF системы для более полного моделирования"
+      }
+    ],
+    "expert_sequence": [
+      {
+        "step": 1,
+        "action": "Подготовка автомобиля и стенда: установка на шпильки, подключение измерительных цепей, проверка давления в шинах и загрузки",
+        "check": "Масса автомобиля ±2% от номинала, давление в шинах по OEM-спецификации, акселерометры на шпинделях и кузове калиброваны",
+        "tool": "4-post rig + калиброванные акселерометры (PCB/Brüel & Kjær) + система сбора данных (LMS SCADAS, MTS DCS)"
+      },
+      {
+        "step": 2,
+        "action": "Снятие FRF (синусоидальная развёртка или широкополосный шум): возбуждение 0.5–50 Гц, замер откликов на шпинделях и кузове",
+        "check": "Когерентность (coherence) > 0.95 в диапазоне анализа; воспроизводимость при повторных запусках",
+        "tool": "FlexTest/DaVinci controller + анализатор FRF (LMS Test.Lab, HEAD Artemis)"
+      },
+      {
+        "step": 3,
+        "action": "Анализ FRF и transmissibility: идентификация частот резонансов (suspension ride frequency, wheel hop, кузовные моды)",
+        "check": "Сравнение с CAE-моделью или baseline-данными; отклонение резонансных частот не более ±5%",
+        "tool": "ПО для модального анализа (LMS Test.Lab Structures, Brüel & Kjær Reflex)"
+      },
+      {
+        "step": 4,
+        "action": "Воспроизведение дорожного профиля (RPC/TWR): итеративное обучение системы для точного соответствия road input целевому сигналу",
+        "check": "RPF (Response Processing Factor) > 0.9 после 3–5 итераций; RMS-ошибка < 10%",
+        "tool": "RPC Pro (MTS) или DaVinci RPC (Servotest)"
+      },
+      {
+        "step": 5,
+        "action": "Основной тест (durability/NVH): воспроизведение профиля в течение заданного времени (от часов до недель), мониторинг состояния подвески",
+        "check": "Отсутствие деградации FRF более 10% за время теста; визуальный осмотр компонентов после теста",
+        "tool": "Полная система стенда + высокоскоростной сбор данных + камеры для визуального контроля"
+      }
+    ],
+    "correlations_with_other_defects": [
+      {
+        "defect": "Деградация амортизаторов",
+        "distinguish_by": "Увеличение пика transmissibility на частоте резонанса подвески (> 2.5 вместо нормальных 1.5–2.0) + уменьшение фазового угла"
+      },
+      {
+        "defect": "Неисправность подшипника ступицы",
+        "distinguish_by": "Высокочастотный компонент (> 50 Гц) в сигнале шпинделя, не коррелирующий с road input; огибающая (envelope) показывает дефектные частоты подшипника"
+      },
+      {
+        "defect": "Ослабление элементов подвески (сайлентблоки, шаровые)",
+        "distinguish_by": "Нелинейный отклик: асимметрия FRF при разной амплитуде возбуждения; появление субгармоник"
+      },
+      {
+        "defect": "Резонанс выхлопной системы",
+        "distinguish_by": "Локализованный пик на кузове в зоне крепления выхлопа; микрофон показывает выраженный тональный компонент, не зависящий от road input"
+      }
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "url_or_ref": "Reimpell J., Stoll H., Betzler J.W. «The Automotive Chassis: Engineering Principles», 2nd ed., SAE, 2001, ISBN 978-0-7680-0657-5",
+        "relevance": "Глава о динамике подвески и испытательных стендах; базовые принципы ride frequency и wheel hop"
+      },
+      {
+        "type": "paper",
+        "url_or_ref": "SAE Technical Paper 2005-01-0413: «Road Simulation Techniques for Full Vehicle Testing» — MTS Systems Corp.",
+        "relevance": "Описание методологии RPC и TWR для 4-post стендов; практика применения в OEM"
+      },
+      {
+        "type": "standard",
+        "url_or_ref": "ISO 16730-1:2016 «Road vehicles — Vehicle dynamics — Part 1: General principles for testing»",
+        "relevance": "Общие принципы испытаний динамики автомобиля; методика проведения vibration testing"
+      },
+      {
+        "type": "forum",
+        "url_or_ref": "GarageJournal thread: «4 post vibration tester/road simulator» (garagejournal.com/forum)",
+        "relevance": "Обсуждение практиков; цена оборудования, альтернативы, опыт эксплуатации б/у стендов"
+      }
+    ],
+    "unknowns": [
+      "Точные текущие цены на новые 4-post системы MTS/Instron (ориентировочно $1–5M, но зависят от комплектации и года)",
+      "Наличие доступных б/у 4-post стендов на рынке и их реальная стоимость",
+      "Конкретные OEM-пороги pass/fail для FRF и transmissibility (закрытые данные)",
+      "Методика калибровки сервоклапанов и гидроцилиндров (процедура OEM-специфичная, не опубликована)",
+      "Сравнение точности между 4-post и 6-DOF системами для различных типов тестов (недостаточно открытых данных)"
+    ],
+    "meta": {
+      "confidence_self": "0.85 — общие принципы работы 4-post стендов и методология RPC/TWR описаны уверенно; конкретные цены и OEM-пороги — оценочно, точные цифры могут отличаться",
+      "training_cutoff_note": "Данные актуальны на момент обучения; цены и модели оборудования могли обновиться"
+    }
+  }
+}

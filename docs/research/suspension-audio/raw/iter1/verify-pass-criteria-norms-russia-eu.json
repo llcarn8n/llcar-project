@@ -1,0 +1,23 @@
+{
+  "topic_slug": "pass-criteria-norms-russia-eu",
+  "iter": 1,
+  "verified_at": "2026-04-15T20:15:44.264493+00:00",
+  "sources": {
+    "ГОСТ Р 51709-2001 «Автотранспортные средства. Требования к техническому состоянию по условиям безопасности движения», п. 4.7.35–4.7.38": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "EUSAMA Technical Recommendation 01/2000 — Test procedure for evaluating suspension performance; European Shock Absorber Manufacturers Association": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Reimpell H., Stoll H., Betzler J. «The Automotive Chassis: Engineering Principles», 2nd ed., SAE, 2001. ISBN 978-0-7680-0657-5. Chapter 5: Suspension Testing.": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "drive2.ru/o/b/461622233066194899/ — «Диагностика подвески на вибростенде: EUSAMA, Boge, СТС», автор Autodinamic": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

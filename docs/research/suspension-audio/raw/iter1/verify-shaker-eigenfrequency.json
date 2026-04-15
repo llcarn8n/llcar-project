@@ -1,0 +1,23 @@
+{
+  "topic_slug": "shaker-eigenfrequency",
+  "iter": 1,
+  "verified_at": "2026-04-15T20:15:44.266625+00:00",
+  "sources": {
+    "Reimpell J., Stoll H., Betzler J. The Automotive Chassis: Engineering Principles. 2nd ed. SAE, 2001. ISBN 978-0-7680-0657-5. Chapter 5: Suspension Vibration.": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ISO 8608:2016 Mechanical vibration — Road surface profiles — Reporting of measured data.": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "drive2.ru/b/502183504238537025/ 'Диагностика амортизаторов на вибростенде'": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "SAE 2005-01-1543 'Suspension Parameter Effects on Vehicle Vibration Response'": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

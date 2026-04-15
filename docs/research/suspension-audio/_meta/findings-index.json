@@ -103,6 +103,110 @@
       "verified_count": 0,
       "unknowns_count": 4,
       "synthesized": "2026-04-15T20:11:16.337734+00:00"
+    },
+    "speed-dependence": {
+      "category": "audio-correlations",
+      "md_file": "docs/research/suspension-audio/topics/audio-correlations/speed-dependence.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 3,
+      "synthesized": "2026-04-15T20:15:44.437286+00:00"
+    },
+    "frequency-ranges-per-defect": {
+      "category": "audio-correlations",
+      "md_file": "docs/research/suspension-audio/topics/audio-correlations/frequency-ranges-per-defect.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:15:44.482356+00:00"
+    },
+    "knock-impulse-signatures": {
+      "category": "audio-correlations",
+      "md_file": "docs/research/suspension-audio/topics/audio-correlations/knock-impulse-signatures.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:15:44.521713+00:00"
+    },
+    "load-dependence": {
+      "category": "audio-correlations",
+      "md_file": "docs/research/suspension-audio/topics/audio-correlations/load-dependence.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:15:44.565749+00:00"
+    },
+    "spectrogram-patterns-susp": {
+      "category": "audio-correlations",
+      "md_file": "docs/research/suspension-audio/topics/audio-correlations/spectrogram-patterns-susp.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 5,
+      "synthesized": "2026-04-15T20:15:44.620965+00:00"
+    },
+    "resonance-method": {
+      "category": "vibrostand",
+      "md_file": "docs/research/suspension-audio/topics/vibrostand/resonance-method.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:15:44.664960+00:00"
+    },
+    "road-surface-artifacts": {
+      "category": "audio-correlations",
+      "md_file": "docs/research/suspension-audio/topics/audio-correlations/road-surface-artifacts.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:15:44.701768+00:00"
+    },
+    "pass-criteria-norms-russia-eu": {
+      "category": "vibrostand",
+      "md_file": "docs/research/suspension-audio/topics/vibrostand/pass-criteria-norms-russia-eu.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:15:44.787831+00:00"
+    },
+    "mic-placement-cabin-vs-arch": {
+      "category": "audio-correlations",
+      "md_file": "docs/research/suspension-audio/topics/audio-correlations/mic-placement-cabin-vs-arch.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:15:44.827061+00:00"
+    },
+    "shaker-eigenfrequency": {
+      "category": "vibrostand",
+      "md_file": "docs/research/suspension-audio/topics/vibrostand/shaker-eigenfrequency.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:15:44.861921+00:00"
+    },
+    "4-post-hydraulic": {
+      "category": "vibrostand",
+      "md_file": "docs/research/suspension-audio/topics/vibrostand/4-post-hydraulic.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 5,
+      "synthesized": "2026-04-15T20:15:44.896389+00:00"
+    },
+    "accelerometer-mounting-standards": {
+      "category": "vibrostand",
+      "md_file": "docs/research/suspension-audio/topics/vibrostand/accelerometer-mounting-standards.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:15:44.966392+00:00"
+    },
+    "toyota-honda-mazda": {
+      "category": "brands",
+      "md_file": "docs/research/suspension-audio/topics/brands/toyota-honda-mazda.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 3,
+      "synthesized": "2026-04-15T20:15:45.108026+00:00"
     }
   }
 }

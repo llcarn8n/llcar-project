@@ -1,0 +1,23 @@
+{
+  "topic_slug": "resonance-method",
+  "iter": 1,
+  "verified_at": "2026-04-15T20:15:44.263482+00:00",
+  "sources": {
+    "Reimpell J., Stoll H., Betzler J.W. «The Automotive Chassis: Engineering Principles», 2nd ed., SAE, 2001. ISBN 978-0768006575. Глава 6: Suspension Testing.": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "EUSAMA test specification; DIN 70020 Teil 2 (Fahrzeugbau; Kraftfahrzeugbau; Federung)": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Форум autoscaners.biz, тема «Вибростенды EUSAMA — методика и нормативы». Также drive2.ru, посты по тегу #вибростенд": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Гинцбург Б.А. «Динамика автомобиля», М., Машиностроение, 1975. Глава V: Колебания автомобиля.": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}
