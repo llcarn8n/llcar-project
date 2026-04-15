@@ -18,6 +18,36 @@ interface DtcSituationRef {
   cat: string
 }
 
+interface KbPart {
+  name?: string
+  article?: string
+  articul?: string
+  oem_part_number?: string
+  price?: number
+  price_rub?: number
+  category?: string
+  system?: string
+}
+
+interface KbPartsCatalog {
+  brand?: string
+  model?: string
+  total_parts?: number
+  parts_capped?: boolean
+  parts?: KbPart[]
+  systems?: Record<string, string>
+}
+
+interface KbManualMeta {
+  brand?: string
+  model?: string
+  source_path_rel?: string
+  manual_md_size?: number
+  has_dita?: boolean
+  has_pdf?: boolean
+  variants?: string[]
+}
+
 interface KbVideo {
   title: string
   url: string
@@ -38,6 +68,8 @@ export function KnowledgeBase() {
   const [reviews, setReviews] = useState<KbReview[]>([])
   const [leftTab, setLeftTab] = useState<'situations' | 'dtc'>('situations')
   const [pendingExpandId, setPendingExpandId] = useState<string | null>(null)
+  const [partsCat, setPartsCat] = useState<KbPartsCatalog | null>(null)
+  const [manualMeta, setManualMeta] = useState<KbManualMeta | null>(null)
 
   // Derive generation name from brands data
   useEffect(() => {
@@ -95,6 +127,24 @@ export function KnowledgeBase() {
       .then(r => r.ok ? r.json() : [])
       .then((data: KbReview[]) => setReviews(Array.isArray(data) ? data : []))
       .catch(() => setReviews([]))
+  }, [kbGenPath])
+
+  // Load parts-catalog.json
+  useEffect(() => {
+    if (!kbGenPath) { setPartsCat(null); return }
+    fetch(`${import.meta.env.BASE_URL}data/kb/${kbGenPath}/parts-catalog.json`)
+      .then(r => r.ok ? r.json() : null)
+      .then((data: KbPartsCatalog | null) => setPartsCat(data))
+      .catch(() => setPartsCat(null))
+  }, [kbGenPath])
+
+  // Load manual_meta.json
+  useEffect(() => {
+    if (!kbGenPath) { setManualMeta(null); return }
+    fetch(`${import.meta.env.BASE_URL}data/kb/${kbGenPath}/manual_meta.json`)
+      .then(r => r.ok ? r.json() : null)
+      .then((data: KbManualMeta | null) => setManualMeta(data))
+      .catch(() => setManualMeta(null))
   }, [kbGenPath])
 
   async function handleDtcSelect(ref: DtcSituationRef) {
@@ -380,28 +430,128 @@ export function KnowledgeBase() {
           </GlassPanel>
         )}
 
-        {/* Parts stub */}
-        <GlassPanel>
-          <div className="hud-header mb-3">Запчасти</div>
-          <div style={{
-            display: 'flex',
-            alignItems: 'center',
-            gap: 12,
-            padding: '16px 8px',
-          }}>
-            <span style={{ fontSize: 32, opacity: 0.3 }}>&#x1F527;</span>
+        {/* Parts catalog */}
+        {partsCat && Array.isArray(partsCat.parts) && partsCat.parts.length > 0 && (
+          <GlassPanel>
+            <div className="hud-header mb-3">
+              Запчасти
+              <span style={{ fontSize: 10, color: theme.text.muted, marginLeft: 8, fontWeight: 400 }}>
+                {partsCat.parts.length}{partsCat.parts_capped ? ` из ${partsCat.total_parts ?? '?'}` : ''}
+              </span>
+            </div>
+            <div style={{ display: 'flex', flexDirection: 'column', gap: 4, maxHeight: '40vh', overflowY: 'auto' }}>
+              {partsCat.parts.slice(0, 50).map((p, i) => {
+                const price = p.price ?? p.price_rub
+                const article = p.article ?? p.articul ?? p.oem_part_number
+                return (
+                  <div key={i} style={{
+                    padding: '6px 10px',
+                    borderRadius: 3,
+                    background: 'rgba(0,229,255,0.02)',
+                    border: '1px solid rgba(0,229,255,0.05)',
+                  }}>
+                    <div style={{
+                      fontFamily: "'Rajdhani', sans-serif",
+                      fontSize: 12,
+                      fontWeight: 600,
+                      color: theme.text.secondary,
+                      lineHeight: 1.3,
+                      overflow: 'hidden',
+                      textOverflow: 'ellipsis',
+                    }}>
+                      {p.name || article || 'Часть'}
+                    </div>
+                    <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginTop: 2, gap: 6 }}>
+                      {article && (
+                        <span style={{
+                          fontFamily: "'Orbitron', sans-serif",
+                          fontSize: 9,
+                          color: theme.accent.cyan,
+                          letterSpacing: '0.05em',
+                        }}>
+                          {article}
+                        </span>
+                      )}
+                      {p.category && (
+                        <span style={{
+                          fontSize: 9,
+                          fontFamily: "'Rajdhani', sans-serif",
+                          color: theme.text.muted,
+                          fontWeight: 600,
+                        }}>
+                          {p.category}
+                        </span>
+                      )}
+                      {typeof price === 'number' && price > 0 && (
+                        <span style={{
+                          fontFamily: "'Orbitron', sans-serif",
+                          fontSize: 10,
+                          color: '#FFD700',
+                          fontWeight: 700,
+                          marginLeft: 'auto',
+                        }}>
+                          {price.toLocaleString('ru-RU')} &#8381;
+                        </span>
+                      )}
+                    </div>
+                  </div>
+                )
+              })}
+            </div>
+          </GlassPanel>
+        )}
+
+        {/* Manual reference */}
+        {manualMeta && (manualMeta.manual_md_size || manualMeta.has_dita || manualMeta.has_pdf) && (
+          <GlassPanel>
+            <div className="hud-header mb-3">Мануал</div>
             <div style={{
               fontFamily: "'Rajdhani', sans-serif",
               fontSize: 12,
-              color: theme.text.muted,
-              lineHeight: 1.4,
+              color: theme.text.secondary,
+              lineHeight: 1.5,
             }}>
-              Каталог запчастей с иерархией по системам.
-              <br />
-              Раздел в разработке.
+              <div>
+                Доступен в базе: {manualMeta.manual_md_size ? `${Math.round(manualMeta.manual_md_size / 1024)} КБ` : '—'}
+              </div>
+              <div style={{ display: 'flex', gap: 6, marginTop: 6, flexWrap: 'wrap' }}>
+                {manualMeta.has_dita && (
+                  <span style={{
+                    fontFamily: "'Orbitron', sans-serif",
+                    fontSize: 9,
+                    color: theme.accent.teal,
+                    padding: '2px 6px',
+                    borderRadius: 3,
+                    background: 'rgba(0,200,180,0.08)',
+                    border: '1px solid rgba(0,200,180,0.2)',
+                    letterSpacing: '0.05em',
+                  }}>DITA</span>
+                )}
+                {manualMeta.has_pdf && (
+                  <span style={{
+                    fontFamily: "'Orbitron', sans-serif",
+                    fontSize: 9,
+                    color: theme.status.critical,
+                    padding: '2px 6px',
+                    borderRadius: 3,
+                    background: 'rgba(255,80,80,0.08)',
+                    border: '1px solid rgba(255,80,80,0.2)',
+                    letterSpacing: '0.05em',
+                  }}>PDF</span>
+                )}
+                {manualMeta.variants && manualMeta.variants.length > 0 && (
+                  <span style={{
+                    fontSize: 9,
+                    color: theme.text.muted,
+                    fontFamily: "'Rajdhani', sans-serif",
+                  }}>
+                    {manualMeta.variants.length} вариантов
+                  </span>
+                )}
+              </div>
             </div>
-          </div>
-        </GlassPanel>
+          </GlassPanel>
+        )}
 
         {/* Stats */}
         <GlassPanel>
