@@ -1,7 +1,7 @@
 import { useState, useEffect, useMemo, useRef } from 'react'
 import { GlassPanel } from '../shared/GlassPanel'
 import { theme } from '../../theme'
-import { cachedFetch } from '../../utils/fetchCache'
+// cachedFetch убран — universal ситуации временно скрыты (S19)
 import { QualityBadge } from './QualityBadge'
 import { FullArticle } from './FullArticle'
 
@@ -92,10 +92,11 @@ export function SituationsList({ brandId, kbGenPath, initialExpandedId }: Situat
     return () => clearTimeout(t)
   }, [initialExpandedId, genSituations, brandSituations, situations])
 
+  // S19: universal situations HIDDEN пока не очищены от мусора.
+  // При возврате — вернуть cachedFetch из data/situations-universal.json
   useEffect(() => {
-    cachedFetch<Situation[]>(`${import.meta.env.BASE_URL}data/situations-universal.json`)
-      .then((data) => { setSituations(data); setLoading(false) })
-      .catch(() => setLoading(false))
+    setSituations([])
+    setLoading(false)
   }, [])
 
   // Load brand-specific situations
