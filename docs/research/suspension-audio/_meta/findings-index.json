@@ -15,6 +15,38 @@
       "verified_count": 0,
       "unknowns_count": 4,
       "synthesized": "2026-04-15T20:03:15.257507+00:00"
+    },
+    "struts-mcpherson": {
+      "category": "suspension",
+      "md_file": "docs/research/suspension-audio/topics/suspension/struts-mcpherson.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 3,
+      "synthesized": "2026-04-15T20:07:54.765965+00:00"
+    },
+    "ball-joints": {
+      "category": "suspension",
+      "md_file": "docs/research/suspension-audio/topics/suspension/ball-joints.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:07:54.798870+00:00"
+    },
+    "tie-rods-ends": {
+      "category": "suspension",
+      "md_file": "docs/research/suspension-audio/topics/suspension/tie-rods-ends.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 3,
+      "synthesized": "2026-04-15T20:07:54.830948+00:00"
+    },
+    "stabilizer-bars-links": {
+      "category": "suspension",
+      "md_file": "docs/research/suspension-audio/topics/suspension/stabilizer-bars-links.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:07:54.862527+00:00"
     }
   }
 }

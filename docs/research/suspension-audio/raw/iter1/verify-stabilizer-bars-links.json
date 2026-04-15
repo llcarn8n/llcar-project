@@ -1,0 +1,23 @@
+{
+  "topic_slug": "stabilizer-bars-links",
+  "iter": 1,
+  "verified_at": "2026-04-15T20:07:54.580562+00:00",
+  "sources": {
+    "Reimpell J., Betzler J. 'The Automotive Chassis: Engineering Principles', 2nd ed., SAE, ISBN 978-0768006755, Chapter 5: Suspension Systems — Stabilizer Bar Design and NVH": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ГОСТ Р 52302-2004 'Автотранспортные средства. Управление устойчивостью. Технические требования. Методы испытаний'": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "drive2.ru — тема 'Стук в передней подвеске — как найти и устранить', множество бортжурналов по Focus/Camry/RAV4 с замерами линков": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "VAG TPI 2015845/5 — 'Knocking/creaking noise from front stabilizer bar bushes' (замена втулок + скоб на PQ35/MQB)": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

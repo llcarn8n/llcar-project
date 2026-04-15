@@ -1,0 +1,23 @@
+{
+  "topic_slug": "struts-mcpherson",
+  "iter": 1,
+  "verified_at": "2026-04-15T20:07:54.576557+00:00",
+  "sources": {
+    "SAE J2562 — Vibration Test Procedures for Automotive Suspension Systems": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Reimpell J., Stoll H., Betzler J. — The Automotive Chassis: Engineering Principles, 2nd Ed., ISBN 978-0-7680-0657-5": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Drive2.ru — отчёты: 'щелчки при повороте руля опорный подшипник' (различные бренды)": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Toyota Front Suspension Diagnosis, Pub. No. RM0000043GQ": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}
