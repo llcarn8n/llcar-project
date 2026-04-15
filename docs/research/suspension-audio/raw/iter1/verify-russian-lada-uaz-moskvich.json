@@ -1,0 +1,23 @@
+{
+  "topic_slug": "russian-lada-uaz-moskvich",
+  "iter": 1,
+  "verified_at": "2026-04-15T20:20:38.447886+00:00",
+  "sources": {
+    "drive2.ru — темы по стойкам стабилизатора Весты и шкворням Niva": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "uazbuka.ru — раздел подвески и кардана": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Гинцбург Б.Я. «Динамика автомобиля»": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ГОСТ Р ИСО 2631-1-2004": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

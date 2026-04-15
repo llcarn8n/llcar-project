@@ -1,0 +1,23 @@
+{
+  "topic_slug": "new-rules-emerging",
+  "iter": 1,
+  "verified_at": "2026-04-15T20:20:38.462379+00:00",
+  "sources": {
+    "SAE 2019-01-1546 — Vehicle Suspension Vibration Transfer Path Analysis": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "autoscaners.info — тема 'Вибростендовая диагностика подвески — наработки', 2023": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Reimpell, Stoll, Betzler — The Automotive Chassis (2nd ed), ISBN 978-076800675, Ch. 5": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ГОСТ Р ИСО 10816-3-99 — Вибрация. Контроль состояния машин по результатам измерений": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

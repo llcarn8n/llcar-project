@@ -1,0 +1,23 @@
+{
+  "topic_slug": "hyundai-kia-genesis",
+  "iter": 1,
+  "verified_at": "2026-04-15T20:20:38.395409+00:00",
+  "sources": {
+    "Hyundai TSB 19-SS-003H — Rear Trailing Arm Bushing Inspection": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "NHTSA Campaign 20V-400 — Kia Sportage Rear Suspension": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "drive2.ru/l/562183813281094475/ — Solaris стойки стабилизатора: опыт замены": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "GarageJournal forum thread 'Hyundai Kia suspension noise diagnosis'": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

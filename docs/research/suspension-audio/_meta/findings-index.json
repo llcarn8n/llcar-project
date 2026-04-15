@@ -207,6 +207,110 @@
       "verified_count": 0,
       "unknowns_count": 3,
       "synthesized": "2026-04-15T20:15:45.108026+00:00"
+    },
+    "hyundai-kia-genesis": {
+      "category": "brands",
+      "md_file": "docs/research/suspension-audio/topics/brands/hyundai-kia-genesis.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:20:38.632877+00:00"
+    },
+    "chinese-byd-geely-chery-changan": {
+      "category": "brands",
+      "md_file": "docs/research/suspension-audio/topics/brands/chinese-byd-geely-chery-changan.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 5,
+      "synthesized": "2026-04-15T20:20:38.672954+00:00"
+    },
+    "bmw-mb-audi": {
+      "category": "brands",
+      "md_file": "docs/research/suspension-audio/topics/brands/bmw-mb-audi.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 5,
+      "synthesized": "2026-04-15T20:20:38.719439+00:00"
+    },
+    "renault-peugeot-citroen": {
+      "category": "brands",
+      "md_file": "docs/research/suspension-audio/topics/brands/renault-peugeot-citroen.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 3,
+      "synthesized": "2026-04-15T20:20:38.760074+00:00"
+    },
+    "russian-lada-uaz-moskvich": {
+      "category": "brands",
+      "md_file": "docs/research/suspension-audio/topics/brands/russian-lada-uaz-moskvich.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 3,
+      "synthesized": "2026-04-15T20:20:38.804709+00:00"
+    },
+    "american-ford-gm": {
+      "category": "brands",
+      "md_file": "docs/research/suspension-audio/topics/brands/american-ford-gm.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 3,
+      "synthesized": "2026-04-15T20:20:38.843796+00:00"
+    },
+    "diagnostic-sequence-standard": {
+      "category": "expert-practice",
+      "md_file": "docs/research/suspension-audio/topics/expert-practice/diagnostic-sequence-standard.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 3,
+      "synthesized": "2026-04-15T20:20:38.886489+00:00"
+    },
+    "custdev-insights": {
+      "category": "expert-practice",
+      "md_file": "docs/research/suspension-audio/topics/expert-practice/custdev-insights.md",
+      "sources_count": 0,
+      "verified_count": 0,
+      "unknowns_count": 0,
+      "synthesized": "2026-04-15T20:20:38.963913+00:00"
+    },
+    "common-diagnostician-mistakes": {
+      "category": "expert-practice",
+      "md_file": "docs/research/suspension-audio/topics/expert-practice/common-diagnostician-mistakes.md",
+      "sources_count": 0,
+      "verified_count": 0,
+      "unknowns_count": 0,
+      "synthesized": "2026-04-15T20:20:38.991919+00:00"
+    },
+    "field-tricks-no-equipment": {
+      "category": "expert-practice",
+      "md_file": "docs/research/suspension-audio/topics/expert-practice/field-tricks-no-equipment.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 3,
+      "synthesized": "2026-04-15T20:20:39.021741+00:00"
+    },
+    "cross-check-correlation-engine": {
+      "category": "expert-practice",
+      "md_file": "docs/research/suspension-audio/topics/expert-practice/cross-check-correlation-engine.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 5,
+      "synthesized": "2026-04-15T20:20:39.055860+00:00"
+    },
+    "new-rules-emerging": {
+      "category": "expert-practice",
+      "md_file": "docs/research/suspension-audio/topics/expert-practice/new-rules-emerging.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:20:39.089886+00:00"
+    },
+    "edge-cases": {
+      "category": "expert-practice",
+      "md_file": "docs/research/suspension-audio/topics/expert-practice/edge-cases.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 5,
+      "synthesized": "2026-04-15T20:20:39.121022+00:00"
     }
   }
 }
