@@ -1,0 +1,23 @@
+{
+  "topic_slug": "shock-absorbers",
+  "iter": 1,
+  "verified_at": "2026-04-15T20:03:15.130481+00:00",
+  "sources": {
+    "Reimpell J., Betzler J. — The Automotive Chassis: Engineering Principles, 2nd Edition, ISBN 978-0768006755, Chapter 5: Suspension Dampers": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ISO 18137:2016 — Road vehicles — Test methods for suspension dampers; EUSAMA Technical Recommendation (European Shock Absorber Manufacturers Association)": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Drive2.ru — тема «Диагностика амортизаторов на стенде EUSAMA — интерпретация результатов», автор: Gvelesiani; форум autoscaners.pro — раздел «Подвеска»": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Toyota Technical Service Bulletin T-SB-0114-19 — Inspection Procedure for Shock Absorber Oil Leakage; BMW TIS SI B37 01 11 — EDC Damper Diagnosis": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

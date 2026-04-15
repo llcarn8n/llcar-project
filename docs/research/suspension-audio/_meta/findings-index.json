@@ -1,0 +1,20 @@
+{
+  "topics": {
+    "shock-absorbers": {
+      "category": "suspension",
+      "md_file": "docs/research/suspension-audio/topics/suspension/shock-absorbers.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:03:15.231929+00:00"
+    },
+    "sci-eusama-correlation-validity": {
+      "category": "scientific-evidence",
+      "md_file": "docs/research/suspension-audio/topics/scientific-evidence/sci-eusama-correlation-validity.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:03:15.257507+00:00"
+    }
+  }
+}

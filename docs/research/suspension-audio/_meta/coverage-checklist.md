@@ -56,6 +56,24 @@
 - [ ] ≥5 новых кандидатов правил для threshold_rules.json emerge из findings → `topics/expert-practice/new-rules-emerging.md`
 - [ ] Edge cases: ≥5 сценариев (зима/перегрев/коррозия/модификации) разобраны → `topics/expert-practice/edge-cases.md`
 
+## Scientific evidence (peer-reviewed only)
+
+Этот раздел строго ограничен источниками: peer-reviewed journals (DOI), SAE Technical Papers, ISO/ГОСТ/DIN, книги SAE/Springer/Elsevier (ISBN), PhD/MSc dissertations, OEM TSB. Форумы/блоги/YouTube/Wikipedia НЕ считаются.
+
+- [ ] EUSAMA — научная валидация: ≥2 peer-reviewed publications с корреляцией показателя к реальной force-velocity характеристике → `topics/scientific-evidence/sci-eusama-correlation-validity.md`
+- [ ] Damping ratio degradation: экспериментальная кривая Fd(v, km) из SAE/IMechE publication, N≥20 → `topics/scientific-evidence/sci-damping-ratio-vs-wear.md`
+- [ ] Bushing fatigue: ≥2 lab studies с cycles-to-failure + hyperelastic model references → `topics/scientific-evidence/sci-bushing-fatigue-lab-tests.md`
+- [ ] Quarter-car model: теоретическая основа + peer-reviewed validation studies → `topics/scientific-evidence/sci-resonance-theory-foundation.md`
+- [ ] ISO 5347 / 16063 / 10816: точные разделы + smartphone-sensor-vs-professional validation papers → `topics/scientific-evidence/sci-accelerometer-placement-iso.md`
+- [ ] Smartphone accelerometer validity: ≥2 IEEE/MDPI publications по SNR/bandwidth/pothole detection → `topics/scientific-evidence/sci-smartphone-sensor-validity.md`
+- [ ] ISO 8608 + real-world PSD: classification + publications with empirical PSD vs ISO classes → `topics/scientific-evidence/sci-road-input-psd-spectra.md`
+- [ ] MacPherson strut wear signatures: empirical RMS/CF/Kurtosis from peer-reviewed lab tests → `topics/scientific-evidence/sci-strut-wear-signature-empirical.md`
+- [ ] Ball joint fatigue models: Archard / contact mechanics publications, cycle counts → `topics/scientific-evidence/sci-ball-joint-fatigue-models.md`
+- [ ] ML suspension diagnostic survey 2018-2024: ≥5 papers (IEEE TVT, ESWA, JSV) с accuracy metrics → `topics/scientific-evidence/sci-machine-learning-suspension-diagnostic.md`
+- [ ] Каждый scientific finding имеет `evidence_level` ∈ {A, B, C, D}
+- [ ] Доля evidence_level A+B ≥ 60% во всех scientific topics
+- [ ] 0 findings из forums/blogs/wikipedia в scientific-evidence/ (проверяется grep)
+
 ## Meta / quality
 
 - [ ] Каждый MD-файл имеет все 10 обязательных секций template-а (description/symptoms/vibration_signature/audio_signature/vibrostand_method/brand_specifics/expert_sequence/sources/unknowns/meta)
