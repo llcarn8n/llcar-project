@@ -1,0 +1,23 @@
+{
+  "topic_slug": "adaptive-damping-mrc-amr",
+  "iter": 1,
+  "verified_at": "2026-04-15T20:11:16.023228+00:00",
+  "sources": {
+    "SAE 2005-01-0409 — Magnetorheological Fluid Damper Technology": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "GM Service Manual Cadillac CTS — Suspension → Electronic Suspension System Diagnosis (document ID 2776493)": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "drive2.ru — topic «MagneRide проблемы и решения» (Corvette Club Russia)": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ISO 8855:2011 — Road vehicles — Vehicle dynamics and road-holding ability — Vocabulary": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

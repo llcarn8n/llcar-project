@@ -1,0 +1,23 @@
+{
+  "topic_slug": "multilink-rear",
+  "iter": 1,
+  "verified_at": "2026-04-15T20:11:16.019082+00:00",
+  "sources": {
+    "Reimpell J., Stoll H., Betzler J. «The Automotive Chassis: Engineering Principles», 2nd Edition, ISBN 978-0766806215, Chapter 5: Rear Axles": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "BMW TIS (Technical Information System) — документ RA 331267 для задней подвески серии F, TPI SI B31 01 16 (стук задней подвески)": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Audi SSP (Self Study Program) 431: Rear Suspension MLB platform, TPI 401257/2038382": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "drive2.ru — темы: «Стук в задней подвеске BMW F30», «Многорычажка Audi Q5 — замена рычагов», «Вибрация задней подвески — диагностика NVH»": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

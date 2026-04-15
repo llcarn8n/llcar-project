@@ -1,0 +1,21 @@
+{
+  "topic_slug": "harmonic-vs-broadband",
+  "topic_id": 16,
+  "iter": 1,
+  "timestamp": "2026-04-15T20:10:58.056750+00:00",
+  "elapsed_sec": 2.94,
+  "usage": {
+    "completion_tokens": 8,
+    "completion_tokens_details": {
+      "reasoning_tokens": 3
+    },
+    "prompt_tokens": 756,
+    "prompt_tokens_details": {
+      "cached_tokens": 256
+    },
+    "total_tokens": 764
+  },
+  "raw_content": "null null null",
+  "parsed_ok": false,
+  "parsed": null
+}

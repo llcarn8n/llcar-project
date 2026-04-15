@@ -1,0 +1,23 @@
+{
+  "topic_slug": "air-suspension",
+  "iter": 1,
+  "verified_at": "2026-04-15T20:11:16.022211+00:00",
+  "sources": {
+    "Mercedes WIS AR32.20-P-0103A (AIRMATIC diagnosis), BMW TIS 37 00 039 (EHC diagnosis), ELSAWIN (Air Suspension guided fault finding)": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "BenzWorld.org W220 section — «AIRMATIC troubleshooting guide»; Drive2.ru пользователь AirSpring — «Диагностика пневмоподвески BMW F01»": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Reimpell, Stoll, Betzler «The Automotive Chassis: Engineering Principles» ISBN 978-0768004975, Chapter 5; SAE Paper 2004-01-1175 «Development of Air Spring Dynamic Models»": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "WABCO Diagnostic Manual 815 010 023 3; Continental/ContiTech Air Spring Catalog; Dunlop Pneumatic Suspension Service Manual": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

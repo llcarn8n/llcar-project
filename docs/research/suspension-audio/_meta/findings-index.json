@@ -47,6 +47,62 @@
       "verified_count": 0,
       "unknowns_count": 4,
       "synthesized": "2026-04-15T20:07:54.862527+00:00"
+    },
+    "coil-springs": {
+      "category": "suspension",
+      "md_file": "docs/research/suspension-audio/topics/suspension/coil-springs.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 3,
+      "synthesized": "2026-04-15T20:11:16.145868+00:00"
+    },
+    "multilink-rear": {
+      "category": "suspension",
+      "md_file": "docs/research/suspension-audio/topics/suspension/multilink-rear.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:11:16.174763+00:00"
+    },
+    "spring-seats-mounts": {
+      "category": "suspension",
+      "md_file": "docs/research/suspension-audio/topics/suspension/spring-seats-mounts.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:11:16.208336+00:00"
+    },
+    "rubber-bushings": {
+      "category": "suspension",
+      "md_file": "docs/research/suspension-audio/topics/suspension/rubber-bushings.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 3,
+      "synthesized": "2026-04-15T20:11:16.237366+00:00"
+    },
+    "air-suspension": {
+      "category": "suspension",
+      "md_file": "docs/research/suspension-audio/topics/suspension/air-suspension.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:11:16.271572+00:00"
+    },
+    "adaptive-damping-mrc-amr": {
+      "category": "suspension",
+      "md_file": "docs/research/suspension-audio/topics/suspension/adaptive-damping-mrc-amr.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:11:16.308564+00:00"
+    },
+    "leaf-springs-commercial": {
+      "category": "suspension",
+      "md_file": "docs/research/suspension-audio/topics/suspension/leaf-springs-commercial.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:11:16.337734+00:00"
     }
   }
 }

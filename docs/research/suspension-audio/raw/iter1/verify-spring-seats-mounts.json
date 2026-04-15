@@ -1,0 +1,23 @@
+{
+  "topic_slug": "spring-seats-mounts",
+  "iter": 1,
+  "verified_at": "2026-04-15T20:11:16.020175+00:00",
+  "sources": {
+    "Reimpell J., Stoll H., Betzler J. «The Automotive Chassis: Engineering Principles», 2nd Edition, SAE International, ISBN 978-0768006754, Chapter 5 — Suspension Mountings": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "drive2.ru — поиск: «трещина чашки стойки», «замена опорного подшипника»; drom.ru — «диагностика опор передних стоек»": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "SAE J2562 — Vibration Testing of Suspension Components; ГОСТ Р ИСО 2631-1 — Вибрация и удар": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "VAG SSP (Self-Study Program) 431 — Front Suspension Systems; TPI 2011566/7 — трещины чашек пружин на платформе PQ35/MQB": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}
