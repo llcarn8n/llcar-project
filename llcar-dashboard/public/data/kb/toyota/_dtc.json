@@ -42,17 +42,6 @@
       "fix_strategy": "llm_technical",
       "fix_round": 136
     },
-    "C00639": {
-      "note_ru": "Yaw Rate Sensor Component Internal Failure",
-      "note_en": "Yaw Rate Sensor Component Internal Failure",
-      "common_fix_ru": "Заменить датчик курсовой устойчивости (Yaw Rate Sensor). Проверка не требуется — внутренняя неисправность. Стоимость датчика: 9500–12500 руб, замена: 1000 руб (итого 10500–13500 руб).",
-      "frequency": "occasional",
-      "severity_override": null,
-      "source": "toyota-club.net",
-      "fix_strategy": "llm_technical",
-      "fix_round": 99,
-      "lang": "en"
-    },
     "C0200": {
       "note_ru": "Wheel sensor - FR Датчик ABS - передний правый",
       "note_en": "Wheel sensor - FR Датчик ABS - передний правый",
@@ -2670,65 +2659,6 @@
       "system_id": "engine",
       "can_drive": "yes_caution"
     },
-    "P01561": {
-      "note_ru": "O2 Sensor Circuit Bank 2 Sensor 2 Circuit Short to Ground",
-      "note_en": "O2 Sensor Circuit Bank 2 Sensor 2 Circuit Short to Ground",
-      "common_fix_ru": "Проверить проводку датчика кислорода (Bank 2, Sensor 2), особенно в зоне крепления к выхлопной системе. Заменить датчик, если обнаружено короткое замыкание. Стоимость: 2 000–4 000 руб. (датчик).",
-      "frequency": "occasional",
-      "severity_override": null,
-      "source": "toyota-club.net",
-      "fix_strategy": "llm_technical",
-      "fix_round": 119,
-      "lang": "en"
-    },
-    "P01562": {
-      "note_ru": "O2 Sensor Circuit Bank 2 Sensor 2 Signal Stuck Low",
-      "note_en": "O2 Sensor Circuit Bank 2 Sensor 2 Signal Stuck Low",
-      "common_fix_ru": "Проверить проводку и разъем датчика кислорода (Bank 2, Sensor 2). Заменить датчик (2000-4000 руб.) при обнаружении короткого замыкания или повреждения проводки.",
-      "frequency": "occasional",
-      "severity_override": null,
-      "source": "toyota-club.net",
-      "fix_strategy": "llm_technical",
-      "fix_round": 134,
-      "lang": "en"
-    },
-    "P0157": {
-      "note_ru": "Oxygen Sensor Circuit Low Voltage (Bank 2 Sensor 2)",
-      "note_en": "Oxygen Sensor Circuit Low Voltage (Bank 2 Sensor 2)",
-      "common_fix_ru": "Проверить датчик кислорода Bank 2 Sensor 2, заменить датчик (стоимость: 2500-4500 руб). Стоимость ремонта: 3000 руб.",
-      "frequency": "occasional",
-      "severity_override": "warning",
-      "source": "toyota-club.net",
-      "fix_strategy": "llm_technical",
-      "fix_round": 128,
-      "system_id": "engine",
-      "can_drive": "yes_caution",
-      "lang": "en"
-    },
-    "P0158": {
-      "note_ru": "Oxygen Sensor Circuit High Voltage (Bank 2 Sensor 2)",
-      "note_en": "Oxygen Sensor Circuit High Voltage (Bank 2 Sensor 2)",
-      "common_fix_ru": "Проверить разъем датчика кислорода (Bank 2, Sensor 2) на коррозию/повреждение. Измерить сопротивление проводки. При неисправности датчика заменить. Стоимость: 3500–4500 руб. (датчик + установка).",
-      "frequency": "occasional",
-      "severity_override": "warning",
-      "source": "toyota-club.net",
-      "fix_strategy": "llm_technical",
-      "fix_round": 113,
-      "system_id": "engine",
-      "can_drive": "yes_caution",
-      "lang": "en"
-    },
-    "P01611": {
-      "note_ru": "O2 Sensor Heater Circuit Bank 2 Sensor 2 Circuit Current Below",
-      "note_en": "O2 Sensor Heater Circuit Bank 2 Sensor 2 Circuit Current Below",
-      "common_fix_ru": "Проверить разъем и проводку датчика кислорода (Bank 2, Sensor 2), при неисправности — замена датчика. Стоимость: 2100–5300 руб.",
-      "frequency": "occasional",
-      "severity_override": null,
-      "source": "toyota-club.net",
-      "fix_strategy": "llm_technical",
-      "fix_round": 144,
-      "lang": "en"
-    },
     "P0171": {
       "note_ru": "Слишком бедная смесь, банк 1. На Toyota — частые причины: подсос воздуха, неисправный MAF, забитый топливный фильтр.",
       "severity_override": "medium",
@@ -2744,17 +2674,6 @@
       "system_id": "engine",
       "can_drive": "yes_caution"
     },
-    "P01710": {
-      "note_ru": "System Too Lean Bank 1",
-      "note_en": "System Too Lean Bank 1",
-      "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF), подсосы во впускном тракте, топливный насос. При неисправности MAF — заменить датчик (стоимость: 3500–6000 руб.).",
-      "frequency": "occasional",
-      "severity_override": null,
-      "source": "toyota-club.net",
-      "fix_strategy": "llm_technical",
-      "fix_round": 146,
-      "lang": "en"
-    },
     "P0172": {
       "note_ru": "Слишком богатая смесь, банк 1. Проверить давление топлива, форсунки, датчик кислорода.",
       "note_en": "System Too Rich (Bank 1)",
@@ -2766,41 +2685,6 @@
       "fix_round": 131,
       "system_id": "engine",
       "can_drive": "yes_caution"
-    },
-    "P01720": {
-      "note_ru": "System Too Rich Bank 1",
-      "note_en": "System Too Rich Bank 1",
-      "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF) на неисправность. Заменить MAF при обнаружении дефекта. Стоимость: 3500–6000 руб. (MAF 3000–5000 руб., работа 500–1000 руб.).",
-      "frequency": "occasional",
-      "severity_override": null,
-      "source": "toyota-club.net",
-      "fix_strategy": "llm_technical",
-      "fix_round": 132,
-      "lang": "en"
-    },
-    "P0174": {
-      "note_ru": "System Too Lean (Bank 2)",
-      "note_en": "System Too Lean (Bank 2)",
-      "common_fix_ru": "Проверить датчик кислорода (банк 2), топливные форсунки и воздушный фильтр. При засорении форсунок провести очистку. Стоимость: очистка форсунок 2500 руб., замена датчика 2000 руб.",
-      "frequency": "occasional",
-      "severity_override": "info",
-      "source": "toyota-club.net",
-      "fix_strategy": "llm_technical",
-      "fix_round": 139,
-      "system_id": "engine",
-      "can_drive": "yes_caution",
-      "lang": "en"
-    },
-    "P01740": {
-      "note_ru": "System Too Lean Bank 2",
-      "note_en": "System Too Lean Bank 2",
-      "common_fix_ru": "Причина: Слишком бедная смесь в банке 2 (утечка вакуума, неисправные форсунки) | Проверить: Вакуумные шланги, форсунки, датчики O2 | Ремонт: Устранение утечки или замена форсунок | ~2-5 тыс руб | Срочность: 3",
-      "frequency": "occasional",
-      "severity_override": null,
-      "source": "toyota-club.net",
-      "fix_strategy": "llm_structured",
-      "fix_round": 143,
-      "lang": "en"
     },
     "P0175": {
       "note_ru": "Слишком богатая смесь (Блок 2)",
@@ -5046,28 +4930,6 @@
       "fix_strategy": "llm_technical",
       "fix_round": 110
     },
-    "P13641": {
-      "note_ru": "C Camshaft Position Actuator Bank 1 Circuit Short to Ground",
-      "note_en": "C Camshaft Position Actuator Bank 1 Circuit Short to Ground",
-      "common_fix_ru": "Проверить разъем и проводку актуатора фаз газораспределения (банк 1) на короткое замыкание на массу. При обнаружении повреждения проводки заменить участок или весь провод. Если неисправен актуатор, заменить. Стоимость: актуатор 3000-6000 руб.",
-      "frequency": "occasional",
-      "severity_override": null,
-      "source": "toyota-club.net",
-      "fix_strategy": "llm_technical",
-      "fix_round": 141,
-      "lang": "en"
-    },
-    "P13662": {
-      "note_ru": "E Camshaft Position Actuator Bank 1 Signal Invalid",
-      "note_en": "E Camshaft Position Actuator Bank 1 Signal Invalid",
-      "common_fix_ru": "Проверить электрическое соединение актуатора фазорегулятора распредвала (Bank 1), проводку на обрыв. Заменить актуатор (стоимость 4500-7500 руб.). Проверить датчик положения распредвала.",
-      "frequency": "occasional",
-      "severity_override": null,
-      "source": "toyota-club.net",
-      "fix_strategy": "llm_technical",
-      "fix_round": 130,
-      "lang": "en"
-    },
     "P1400": {
       "note_ru": "Дополнительный датчик дросселя выдает неверные данные, что может привести к нестабильным оборотам холостого хода.",
       "note_en": "Sub-Throttle Position Sensor",
@@ -5075,17 +4937,6 @@
       "frequency": "occasional",
       "severity_override": "medium",
       "source": "dsoprea/DtcLookup"
-    },
-    "P14001": {
-      "note_ru": "Exhaust Gas Recirculation A Control Circuit 2 Circuit Current Below Threshold",
-      "note_en": "Exhaust Gas Recirculation A Control Circuit 2 Circuit Current Below Threshold",
-      "common_fix_ru": "Проверить цепь управления клапаном EGR (разъем, проводку на обрыв/коррозию), измерить сопротивление клапана. Если клапан неисправен (отсутствует перемещение или высокое сопротивление), заменить клапан. Стоимость: клапан 3500-5000 руб., работа 1200 руб.",
-      "frequency": "occasional",
-      "severity_override": null,
-      "source": "toyota-club.net",
-      "fix_strategy": "llm_technical",
-      "fix_round": 139,
-      "lang": "en"
     },
     "P1401": {
       "note_ru": "Проблема диапазона/работы датчика положения дроссельной заслонки (Sub-Throttle)",
@@ -5153,72 +5004,6 @@
       "fix_strategy": "llm_technical",
       "fix_round": 124
     },
-    "P14200": {
-      "note_ru": "Evaporative Emission Canister (Small Leak)",
-      "note_en": "Evaporative Emission Canister (Small Leak)",
-      "common_fix_ru": "Проверить герметичность системы EVAP: шланги, клапан адсорбера, бензобак. Очистить или заменить уплотнения. Стоимость: 1500–4000 руб.",
-      "frequency": "occasional",
-      "severity_override": null,
-      "source": "toyota-club.net",
-      "fix_strategy": "llm_technical",
-      "fix_round": 102,
-      "lang": "en"
-    },
-    "P14210": {
-      "note_ru": "Evaporative Emission Canister (Gross Leak)",
-      "note_en": "Evaporative Emission Canister (Gross Leak)",
-      "common_fix_ru": "Проверить шланги системы EVAP, клапан адсорбера, пробку бензобака на трещины/утечки. Заменить поврежденные элементы (уплотнения, шланги). Стоимость: 2500–5000 руб.",
-      "frequency": "occasional",
-      "severity_override": null,
-      "source": "toyota-club.net",
-      "fix_strategy": "llm_technical",
-      "fix_round": 102,
-      "lang": "en"
-    },
-    "P14220": {
-      "note_ru": "Evaporative Emission Fuel Tank (Small Leak)",
-      "note_en": "Evaporative Emission Fuel Tank (Small Leak)",
-      "common_fix_ru": "Проверить шланги системы паров топлива (адсорбер, крышка бензобака) на трещины/утечки. При обнаружении повреждения — замена шланга (500-1500 руб) или крышки (1000-2000 руб). Стоимость: 1000-2500 руб.",
-      "frequency": "occasional",
-      "severity_override": null,
-      "source": "toyota-club.net",
-      "fix_strategy": "llm_technical",
-      "fix_round": 126,
-      "lang": "en"
-    },
-    "P14230": {
-      "note_ru": "Evaporative Emission Fuel Tank (Gross Leak)",
-      "note_en": "Evaporative Emission Fuel Tank (Gross Leak)",
-      "common_fix_ru": "Проверить шланги системы паров топлива, клапан адсорбера и уплотнение крышки бензобака. При утечке — замена уплотнения или шланга. Стоимость: 1100–2900 руб.",
-      "frequency": "occasional",
-      "severity_override": null,
-      "source": "toyota-club.net",
-      "fix_strategy": "llm_technical",
-      "fix_round": 144,
-      "lang": "en"
-    },
-    "P14501": {
-      "note_ru": "Fuel Tank Pressure Sensor Circuit Short to Ground",
-      "note_en": "Fuel Tank Pressure Sensor Circuit Short to Ground",
-      "common_fix_ru": "Причина: Короткое замыкание цепи датчика давления топливного бака на массу | Проверить: Целостность проводки, разъемы, датчик | Ремонт: Замена датчика или устранение короткого замыкания | ~3-5 тыс руб | Срочность: 3",
-      "frequency": "occasional",
-      "severity_override": null,
-      "source": "toyota-club.net",
-      "fix_strategy": "llm_structured",
-      "fix_round": 143,
-      "lang": "en"
-    },
-    "P14502": {
-      "note_ru": "Fuel Tank Pressure Sensor Signal Stuck in Range",
-      "note_en": "Fuel Tank Pressure Sensor Signal Stuck in Range",
-      "common_fix_ru": "Проверить датчик давления топливного бака. При застревании — заменить датчик. Стоимость датчика: 2400–4200 руб., работа: 1000 руб.",
-      "frequency": "occasional",
-      "severity_override": null,
-      "source": "toyota-club.net",
-      "fix_strategy": "llm_technical",
-      "fix_round": 97,
-      "lang": "en"
-    },
     "P1500": {
       "note_ru": "Неисправность цепи сигнала стартера",
       "note_en": "Starter Signal Circuit",
@@ -5278,17 +5063,6 @@
       "source": "dsoprea/DtcLookup",
       "fix_strategy": "llm_technical",
       "fix_round": 124
-    },
-    "P1585": {
-      "note_ru": "Acceleration Sensor Circuit",
-      "note_en": "Acceleration Sensor Circuit",
-      "common_fix_ru": "Проверить датчик ускорения (Acceleration Sensor), разъем и проводку. Очистить контакты или заменить датчик. Стоимость: 2 000–3 000 руб.",
-      "frequency": "occasional",
-      "severity_override": null,
-      "source": "toyota-club.net",
-      "fix_strategy": "llm_technical",
-      "fix_round": 98,
-      "lang": "en"
     },
     "P15850": {
       "note_ru": "Сбой внутренней системы цепи датчика ускорения",
@@ -6178,124 +5952,6 @@
       "system_id": "engine",
       "can_drive": "yes_caution"
     },
-    "P22511": {
-      "note_ru": "O2 Sensor Negative Current Control Bank 1 Sensor 1 Circuit Short to Ground",
-      "note_en": "O2 Sensor Negative Current Control Bank 1 Sensor 1 Circuit Short to Ground",
-      "common_fix_ru": "Проверить проводку и разъем кислородного датчика (банк 1, датчик 1) на короткое замыкание. Заменить датчик (стоимость 2500-5000 руб.) при неисправности.",
-      "frequency": "occasional",
-      "severity_override": null,
-      "source": "toyota-club.net",
-      "fix_strategy": "llm_technical",
-      "fix_round": 103,
-      "lang": "en"
-    },
-    "P2252": {
-      "note_ru": "Oxygen Sensor Reference Ground Circuit Low (for A/F sensor) (Bank 1 Sensor 1)",
-      "note_en": "Oxygen Sensor Reference Ground Circuit Low (for A/F sensor) (Bank 1 Sensor 1)",
-      "common_fix_ru": "1) Причина: Обрыв заземления датчика кислорода (80%). 2) Проверить: Заземляющий провод и крепление. 3) Далее: Замена провода. 4) Ремонт: ~500 руб",
-      "frequency": "occasional",
-      "severity_override": "warning",
-      "source": "toyota-club.net",
-      "fix_strategy": "llm_diagnostic",
-      "fix_round": 118,
-      "system_id": "engine",
-      "can_drive": "yes_caution",
-      "lang": "en"
-    },
-    "P2253": {
-      "note_ru": "Oxygen Sensor Reference Ground Circuit High (for A/F sensor) (Bank 1 Sensor 1)",
-      "note_en": "Oxygen Sensor Reference Ground Circuit High (for A/F sensor) (Bank 1 Sensor 1)",
-      "common_fix_ru": "Проверить разъем и проводку датчика кислорода (Bank 1 Sensor 1). При замыкании на массу — заменить датчик. Стоимость: 3000–6000 руб. (замена датчика).",
-      "frequency": "occasional",
-      "severity_override": "warning",
-      "source": "toyota-club.net",
-      "fix_strategy": "llm_technical",
-      "fix_round": 145,
-      "system_id": "engine",
-      "can_drive": "yes_caution",
-      "lang": "en"
-    },
-    "P22541": {
-      "note_ru": "O2 Sensor Negative Current Control Bank 2 Sensor 1 Circuit Short to Ground",
-      "note_en": "O2 Sensor Negative Current Control Bank 2 Sensor 1 Circuit Short to Ground",
-      "common_fix_ru": "Проверить проводку датчика кислорода (Bank 2, Sensor 1) на короткое замыкание на землю. Заменить датчик (стоимость 3200-5000 руб.). Проверить разъем на коррозию.",
-      "frequency": "occasional",
-      "severity_override": null,
-      "source": "toyota-club.net",
-      "fix_strategy": "llm_technical",
-      "fix_round": 130,
-      "lang": "en"
-    },
-    "P2255": {
-      "note_ru": "Oxygen Sensor Reference Ground Circuit Low (for A/F sensor) (Bank 2 Sensor 1)",
-      "note_en": "Oxygen Sensor Reference Ground Circuit Low (for A/F sensor) (Bank 2 Sensor 1)",
-      "common_fix_ru": "Датчик давления топлива. Ломается при поломке датчика или засорении системы. Самостоятельно заменить можно за 15 минут. Стоимость детали: 1800 руб. В сервисе: 2500 руб. (деталь + диагностика). Пример: на Camry заменил на 1800 руб., а в сервисе 3200 — не советую.",
-      "frequency": "occasional",
-      "severity_override": "warning",
-      "source": "toyota-club.net",
-      "fix_strategy": "llm_creative",
-      "fix_round": 125,
-      "system_id": "engine",
-      "can_drive": "yes_caution",
-      "lang": "en"
-    },
-    "P2256": {
-      "note_ru": "Oxygen Sensor Reference Ground Circuit High (for A/F sensor) (Bank 2 Sensor 1)",
-      "note_en": "Oxygen Sensor Reference Ground Circuit High (for A/F sensor) (Bank 2 Sensor 1)",
-      "common_fix_ru": "Датчик давления турбонаддува (для дизелей Toyota). Ломается при засорении или повреждении датчика. Самостоятельно заменить можно: откручиваем старый, ставим новый. Стоимость детали: 2000 руб. В сервисе: 2500 руб. (деталь + диагностика). Реальный пример: на Hilux заменил сам за 2000 руб., а в сервисе за 3500.",
-      "frequency": "occasional",
-      "severity_override": "warning",
-      "source": "toyota-club.net",
-      "fix_strategy": "llm_creative",
-      "fix_round": 125,
-      "system_id": "engine",
-      "can_drive": "yes_caution",
-      "lang": "en"
-    },
-    "P22701": {
-      "note_ru": "A/F (O2) Sensor Signal Biased/Stuck Lean Bank 1 Sensor 2 Circuit Current Above Threshold",
-      "note_en": "A/F (O2) Sensor Signal Biased/Stuck Lean Bank 1 Sensor 2 Circuit Current Above Threshold",
-      "common_fix_ru": "Проверить кислородный датчик (банк 1, датчик 2), проводку на обрыв/короткое замыкание. При неисправности — заменить датчик. Стоимость: датчик 3000-5000 руб., замена 1000 руб. (итого 4000-6000 руб).",
-      "frequency": "occasional",
-      "severity_override": null,
-      "source": "toyota-club.net",
-      "fix_strategy": "llm_technical",
-      "fix_round": 147,
-      "lang": "en"
-    },
-    "P22711": {
-      "note_ru": "A/F (O2) Sensor Signal Biased/Stuck Rich Bank 1 Sensor 2 Circuit Current Below Threshold",
-      "note_en": "A/F (O2) Sensor Signal Biased/Stuck Rich Bank 1 Sensor 2 Circuit Current Below Threshold",
-      "common_fix_ru": "Проверить датчик кислорода (банк 1, датчик 2), проводку и разъем. Заменить датчик при обнаружении короткого замыкания. Стоимость: 4000–7000 руб.",
-      "frequency": "occasional",
-      "severity_override": null,
-      "source": "toyota-club.net",
-      "fix_strategy": "llm_technical",
-      "fix_round": 102,
-      "lang": "en"
-    },
-    "P24007": {
-      "note_ru": "Evaporative Emission System Leak Detection Pump Control Circuit Actuator Stuck On",
-      "note_en": "Evaporative Emission System Leak Detection Pump Control Circuit Actuator Stuck On",
-      "common_fix_ru": "Проверить насос утечек системы EVAP (на баке), разъем и цепь. При застревании насоса заменить. Стоимость: 4000-7000 руб. (насос + работа).",
-      "frequency": "occasional",
-      "severity_override": null,
-      "source": "toyota-club.net",
-      "fix_strategy": "llm_technical",
-      "fix_round": 104,
-      "lang": "en"
-    },
-    "P24187": {
-      "note_ru": "Evaporative Emission System Switching Valve Control Circuit Actuator Stuck On",
-      "note_en": "Evaporative Emission System Switching Valve Control Circuit Actuator Stuck On",
-      "common_fix_ru": "Проверить электромагнитный клапан системы EVAP, заменить клапан (стоимость: 1500-3000 руб). Стоимость ремонта: 2000 руб.",
-      "frequency": "occasional",
-      "severity_override": null,
-      "source": "toyota-club.net",
-      "fix_strategy": "llm_technical",
-      "fix_round": 128,
-      "lang": "en"
-    },
     "P24507": {
       "note_ru": "Клапан управления системой испарения топлива застрял в положении ВКЛ",
       "note_en": "Evaporative Emission System Switching Valve Actuator Stuck On",
@@ -7014,17 +6670,6 @@
       "fix_strategy": "llm_technical",
       "fix_round": 97
     },
-    "P31531": {
-      "note_ru": "DC/DC Converter Current Sensor Circuit Current Out of Range",
-      "note_en": "DC/DC Converter Current Sensor Circuit Current Out of Range",
-      "common_fix_ru": "Проверить датчик тока DC/DC-конвертера, разъем и проводку на обрыв/короткое замыкание. Ремонт: замена датчика тока. Стоимость: 5000-8000 руб.",
-      "frequency": "occasional",
-      "severity_override": null,
-      "source": "toyota-club.net",
-      "fix_strategy": "llm_technical",
-      "fix_round": 124,
-      "lang": "en"
-    },
     "P31900": {
       "note_ru": "Низкая мощность двигателя",
       "note_en": "Poor Engine Power",
@@ -7066,17 +6711,6 @@
       "fix_round": 113,
       "system_id": "ev",
       "can_drive": "yes_caution"
-    },
-    "U00748": {
-      "note_ru": "Control Module Communication Bus B Off Bus Off",
-      "note_en": "Control Module Communication Bus B Off Bus Off",
-      "common_fix_ru": "Ошибка коммуникации между модулями (CAN-шина). Чаще всего из-за окисления разъемов. Самостоятельно: почистите разъемы спиртом (ничего не стоит). В сервисе: диагностика 1000 руб. Если не помогло – замена модуля 8000 руб. Самостоятельно – 0 руб. Это легко исправить, не бегите в сервис!",
-      "frequency": "occasional",
-      "severity_override": null,
-      "source": "toyota-club.net",
-      "fix_strategy": "llm_creative",
-      "fix_round": 85,
-      "lang": "en"
     },
     "U0100": {
       "note_ru": "Нет связи с ЭБУ двигателя по CAN-шине. Проверить предохранители, проводку CAN-H/CAN-L.",
@@ -7431,16 +7065,6 @@
         "fix_strategy": "llm_technical",
         "fix_round": 136
       },
-      "C00639": {
-        "note_ru": "Yaw Rate Sensor Component Internal Failure",
-        "note_en": "Yaw Rate Sensor Component Internal Failure",
-        "common_fix_ru": "Заменить датчик курсовой устойчивости (Yaw Rate Sensor). Проверка не требуется — внутренняя неисправность. Стоимость датчика: 9500–12500 руб, замена: 1000 руб (итого 10500–13500 руб).",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 99
-      },
       "C0200": {
         "note_ru": "Wheel sensor - FR Датчик ABS - передний правый",
         "note_en": "Wheel sensor - FR Датчик ABS - передний правый",
@@ -10041,70 +9665,6 @@
         "system_id": "engine",
         "can_drive": "yes_caution"
       },
-      "P01561": {
-        "note_ru": "O2 Sensor Circuit Bank 2 Sensor 2 Circuit Short to Ground",
-        "note_en": "O2 Sensor Circuit Bank 2 Sensor 2 Circuit Short to Ground",
-        "common_fix_ru": "Проверить проводку датчика кислорода (Bank 2, Sensor 2), особенно в зоне крепления к выхлопной системе. Заменить датчик, если обнаружено короткое замыкание. Стоимость: 2 000–4 000 руб. (датчик).",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 119
-      },
-      "P01562": {
-        "note_ru": "O2 Sensor Circuit Bank 2 Sensor 2 Signal Stuck Low",
-        "note_en": "O2 Sensor Circuit Bank 2 Sensor 2 Signal Stuck Low",
-        "common_fix_ru": "Проверить проводку и разъем датчика кислорода (Bank 2, Sensor 2). Заменить датчик (2000-4000 руб.) при обнаружении короткого замыкания или повреждения проводки.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 134
-      },
-      "P0157": {
-        "note_ru": "Oxygen Sensor Circuit Low Voltage (Bank 2 Sensor 2)",
-        "note_en": "Oxygen Sensor Circuit Low Voltage (Bank 2 Sensor 2)",
-        "common_fix_ru": "Проверить датчик кислорода Bank 2 Sensor 2, заменить датчик (стоимость: 2500-4500 руб). Стоимость ремонта: 3000 руб.",
-        "frequency": "occasional",
-        "severity_override": "warning",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 128,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P0158": {
-        "note_ru": "Oxygen Sensor Circuit High Voltage (Bank 2 Sensor 2)",
-        "note_en": "Oxygen Sensor Circuit High Voltage (Bank 2 Sensor 2)",
-        "common_fix_ru": "Проверить разъем датчика кислорода (Bank 2, Sensor 2) на коррозию/повреждение. Измерить сопротивление проводки. При неисправности датчика заменить. Стоимость: 3500–4500 руб. (датчик + установка).",
-        "frequency": "occasional",
-        "severity_override": "warning",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 113,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P01611": {
-        "note_ru": "O2 Sensor Heater Circuit Bank 2 Sensor 2 Circuit Current Below",
-        "note_en": "O2 Sensor Heater Circuit Bank 2 Sensor 2 Circuit Current Below",
-        "common_fix_ru": "Проверить разъем и проводку датчика кислорода (Bank 2, Sensor 2), при неисправности — замена датчика. Стоимость: 2100–5300 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 144
-      },
-      "P01710": {
-        "note_ru": "System Too Lean Bank 1",
-        "note_en": "System Too Lean Bank 1",
-        "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF), подсосы во впускном тракте, топливный насос. При неисправности MAF — заменить датчик (стоимость: 3500–6000 руб.).",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 146
-      },
       "P0172": {
         "note_ru": "Слишком богатая смесь, банк 1. Проверить давление топлива, форсунки, датчик кислорода.",
         "note_en": "System Too Rich (Bank 1)",
@@ -10116,38 +9676,6 @@
         "fix_round": 131,
         "system_id": "engine",
         "can_drive": "yes_caution"
-      },
-      "P01720": {
-        "note_ru": "System Too Rich Bank 1",
-        "note_en": "System Too Rich Bank 1",
-        "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF) на неисправность. Заменить MAF при обнаружении дефекта. Стоимость: 3500–6000 руб. (MAF 3000–5000 руб., работа 500–1000 руб.).",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 132
-      },
-      "P0174": {
-        "note_ru": "System Too Lean (Bank 2)",
-        "note_en": "System Too Lean (Bank 2)",
-        "common_fix_ru": "Проверить датчик кислорода (банк 2), топливные форсунки и воздушный фильтр. При засорении форсунок провести очистку. Стоимость: очистка форсунок 2500 руб., замена датчика 2000 руб.",
-        "frequency": "occasional",
-        "severity_override": "info",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 139,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P01740": {
-        "note_ru": "System Too Lean Bank 2",
-        "note_en": "System Too Lean Bank 2",
-        "common_fix_ru": "Причина: Слишком бедная смесь в банке 2 (утечка вакуума, неисправные форсунки) | Проверить: Вакуумные шланги, форсунки, датчики O2 | Ремонт: Устранение утечки или замена форсунок | ~2-5 тыс руб | Срочность: 3",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_structured",
-        "fix_round": 143
       },
       "P0175": {
         "note_ru": "Слишком богатая смесь (Блок 2)",
@@ -12365,26 +11893,6 @@
         "fix_strategy": "llm_technical",
         "fix_round": 110
       },
-      "P13641": {
-        "note_ru": "C Camshaft Position Actuator Bank 1 Circuit Short to Ground",
-        "note_en": "C Camshaft Position Actuator Bank 1 Circuit Short to Ground",
-        "common_fix_ru": "Проверить разъем и проводку актуатора фаз газораспределения (банк 1) на короткое замыкание на массу. При обнаружении повреждения проводки заменить участок или весь провод. Если неисправен актуатор, заменить. Стоимость: актуатор 3000-6000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 141
-      },
-      "P13662": {
-        "note_ru": "E Camshaft Position Actuator Bank 1 Signal Invalid",
-        "note_en": "E Camshaft Position Actuator Bank 1 Signal Invalid",
-        "common_fix_ru": "Проверить электрическое соединение актуатора фазорегулятора распредвала (Bank 1), проводку на обрыв. Заменить актуатор (стоимость 4500-7500 руб.). Проверить датчик положения распредвала.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 130
-      },
       "P1400": {
         "note_ru": "Дополнительный датчик дросселя выдает неверные данные, что может привести к нестабильным оборотам холостого хода.",
         "note_en": "Sub-Throttle Position Sensor",
@@ -12392,16 +11900,6 @@
         "frequency": "occasional",
         "severity_override": "medium",
         "source": "dsoprea/DtcLookup"
-      },
-      "P14001": {
-        "note_ru": "Exhaust Gas Recirculation A Control Circuit 2 Circuit Current Below Threshold",
-        "note_en": "Exhaust Gas Recirculation A Control Circuit 2 Circuit Current Below Threshold",
-        "common_fix_ru": "Проверить цепь управления клапаном EGR (разъем, проводку на обрыв/коррозию), измерить сопротивление клапана. Если клапан неисправен (отсутствует перемещение или высокое сопротивление), заменить клапан. Стоимость: клапан 3500-5000 руб., работа 1200 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 139
       },
       "P1401": {
         "note_ru": "Проблема диапазона/работы датчика положения дроссельной заслонки (Sub-Throttle)",
@@ -12469,66 +11967,6 @@
         "fix_strategy": "llm_technical",
         "fix_round": 124
       },
-      "P14200": {
-        "note_ru": "Evaporative Emission Canister (Small Leak)",
-        "note_en": "Evaporative Emission Canister (Small Leak)",
-        "common_fix_ru": "Проверить герметичность системы EVAP: шланги, клапан адсорбера, бензобак. Очистить или заменить уплотнения. Стоимость: 1500–4000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 102
-      },
-      "P14210": {
-        "note_ru": "Evaporative Emission Canister (Gross Leak)",
-        "note_en": "Evaporative Emission Canister (Gross Leak)",
-        "common_fix_ru": "Проверить шланги системы EVAP, клапан адсорбера, пробку бензобака на трещины/утечки. Заменить поврежденные элементы (уплотнения, шланги). Стоимость: 2500–5000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 102
-      },
-      "P14220": {
-        "note_ru": "Evaporative Emission Fuel Tank (Small Leak)",
-        "note_en": "Evaporative Emission Fuel Tank (Small Leak)",
-        "common_fix_ru": "Проверить шланги системы паров топлива (адсорбер, крышка бензобака) на трещины/утечки. При обнаружении повреждения — замена шланга (500-1500 руб) или крышки (1000-2000 руб). Стоимость: 1000-2500 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 126
-      },
-      "P14230": {
-        "note_ru": "Evaporative Emission Fuel Tank (Gross Leak)",
-        "note_en": "Evaporative Emission Fuel Tank (Gross Leak)",
-        "common_fix_ru": "Проверить шланги системы паров топлива, клапан адсорбера и уплотнение крышки бензобака. При утечке — замена уплотнения или шланга. Стоимость: 1100–2900 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 144
-      },
-      "P14501": {
-        "note_ru": "Fuel Tank Pressure Sensor Circuit Short to Ground",
-        "note_en": "Fuel Tank Pressure Sensor Circuit Short to Ground",
-        "common_fix_ru": "Причина: Короткое замыкание цепи датчика давления топливного бака на массу | Проверить: Целостность проводки, разъемы, датчик | Ремонт: Замена датчика или устранение короткого замыкания | ~3-5 тыс руб | Срочность: 3",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_structured",
-        "fix_round": 143
-      },
-      "P14502": {
-        "note_ru": "Fuel Tank Pressure Sensor Signal Stuck in Range",
-        "note_en": "Fuel Tank Pressure Sensor Signal Stuck in Range",
-        "common_fix_ru": "Проверить датчик давления топливного бака. При застревании — заменить датчик. Стоимость датчика: 2400–4200 руб., работа: 1000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 97
-      },
       "P1500": {
         "note_ru": "Неисправность цепи сигнала стартера",
         "note_en": "Starter Signal Circuit",
@@ -12588,16 +12026,6 @@
         "source": "dsoprea/DtcLookup",
         "fix_strategy": "llm_technical",
         "fix_round": 124
-      },
-      "P1585": {
-        "note_ru": "Acceleration Sensor Circuit",
-        "note_en": "Acceleration Sensor Circuit",
-        "common_fix_ru": "Проверить датчик ускорения (Acceleration Sensor), разъем и проводку. Очистить контакты или заменить датчик. Стоимость: 2 000–3 000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 98
       },
       "P15850": {
         "note_ru": "Сбой внутренней системы цепи датчика ускорения",
@@ -13471,114 +12899,6 @@
         "system_id": "engine",
         "can_drive": "yes_caution"
       },
-      "P22511": {
-        "note_ru": "O2 Sensor Negative Current Control Bank 1 Sensor 1 Circuit Short to Ground",
-        "note_en": "O2 Sensor Negative Current Control Bank 1 Sensor 1 Circuit Short to Ground",
-        "common_fix_ru": "Проверить проводку и разъем кислородного датчика (банк 1, датчик 1) на короткое замыкание. Заменить датчик (стоимость 2500-5000 руб.) при неисправности.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 103
-      },
-      "P2252": {
-        "note_ru": "Oxygen Sensor Reference Ground Circuit Low (for A/F sensor) (Bank 1 Sensor 1)",
-        "note_en": "Oxygen Sensor Reference Ground Circuit Low (for A/F sensor) (Bank 1 Sensor 1)",
-        "common_fix_ru": "1) Причина: Обрыв заземления датчика кислорода (80%). 2) Проверить: Заземляющий провод и крепление. 3) Далее: Замена провода. 4) Ремонт: ~500 руб",
-        "frequency": "occasional",
-        "severity_override": "warning",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_diagnostic",
-        "fix_round": 118,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P2253": {
-        "note_ru": "Oxygen Sensor Reference Ground Circuit High (for A/F sensor) (Bank 1 Sensor 1)",
-        "note_en": "Oxygen Sensor Reference Ground Circuit High (for A/F sensor) (Bank 1 Sensor 1)",
-        "common_fix_ru": "Проверить разъем и проводку датчика кислорода (Bank 1 Sensor 1). При замыкании на массу — заменить датчик. Стоимость: 3000–6000 руб. (замена датчика).",
-        "frequency": "occasional",
-        "severity_override": "warning",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 145,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P22541": {
-        "note_ru": "O2 Sensor Negative Current Control Bank 2 Sensor 1 Circuit Short to Ground",
-        "note_en": "O2 Sensor Negative Current Control Bank 2 Sensor 1 Circuit Short to Ground",
-        "common_fix_ru": "Проверить проводку датчика кислорода (Bank 2, Sensor 1) на короткое замыкание на землю. Заменить датчик (стоимость 3200-5000 руб.). Проверить разъем на коррозию.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 130
-      },
-      "P2255": {
-        "note_ru": "Oxygen Sensor Reference Ground Circuit Low (for A/F sensor) (Bank 2 Sensor 1)",
-        "note_en": "Oxygen Sensor Reference Ground Circuit Low (for A/F sensor) (Bank 2 Sensor 1)",
-        "common_fix_ru": "Датчик давления топлива. Ломается при поломке датчика или засорении системы. Самостоятельно заменить можно за 15 минут. Стоимость детали: 1800 руб. В сервисе: 2500 руб. (деталь + диагностика). Пример: на Camry заменил на 1800 руб., а в сервисе 3200 — не советую.",
-        "frequency": "occasional",
-        "severity_override": "warning",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_creative",
-        "fix_round": 125,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P2256": {
-        "note_ru": "Oxygen Sensor Reference Ground Circuit High (for A/F sensor) (Bank 2 Sensor 1)",
-        "note_en": "Oxygen Sensor Reference Ground Circuit High (for A/F sensor) (Bank 2 Sensor 1)",
-        "common_fix_ru": "Датчик давления турбонаддува (для дизелей Toyota). Ломается при засорении или повреждении датчика. Самостоятельно заменить можно: откручиваем старый, ставим новый. Стоимость детали: 2000 руб. В сервисе: 2500 руб. (деталь + диагностика). Реальный пример: на Hilux заменил сам за 2000 руб., а в сервисе за 3500.",
-        "frequency": "occasional",
-        "severity_override": "warning",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_creative",
-        "fix_round": 125,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P22701": {
-        "note_ru": "A/F (O2) Sensor Signal Biased/Stuck Lean Bank 1 Sensor 2 Circuit Current Above Threshold",
-        "note_en": "A/F (O2) Sensor Signal Biased/Stuck Lean Bank 1 Sensor 2 Circuit Current Above Threshold",
-        "common_fix_ru": "Проверить кислородный датчик (банк 1, датчик 2), проводку на обрыв/короткое замыкание. При неисправности — заменить датчик. Стоимость: датчик 3000-5000 руб., замена 1000 руб. (итого 4000-6000 руб).",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 147
-      },
-      "P22711": {
-        "note_ru": "A/F (O2) Sensor Signal Biased/Stuck Rich Bank 1 Sensor 2 Circuit Current Below Threshold",
-        "note_en": "A/F (O2) Sensor Signal Biased/Stuck Rich Bank 1 Sensor 2 Circuit Current Below Threshold",
-        "common_fix_ru": "Проверить датчик кислорода (банк 1, датчик 2), проводку и разъем. Заменить датчик при обнаружении короткого замыкания. Стоимость: 4000–7000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 102
-      },
-      "P24007": {
-        "note_ru": "Evaporative Emission System Leak Detection Pump Control Circuit Actuator Stuck On",
-        "note_en": "Evaporative Emission System Leak Detection Pump Control Circuit Actuator Stuck On",
-        "common_fix_ru": "Проверить насос утечек системы EVAP (на баке), разъем и цепь. При застревании насоса заменить. Стоимость: 4000-7000 руб. (насос + работа).",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 104
-      },
-      "P24187": {
-        "note_ru": "Evaporative Emission System Switching Valve Control Circuit Actuator Stuck On",
-        "note_en": "Evaporative Emission System Switching Valve Control Circuit Actuator Stuck On",
-        "common_fix_ru": "Проверить электромагнитный клапан системы EVAP, заменить клапан (стоимость: 1500-3000 руб). Стоимость ремонта: 2000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 128
-      },
       "P24507": {
         "note_ru": "Клапан управления системой испарения топлива застрял в положении ВКЛ",
         "note_en": "Evaporative Emission System Switching Valve Actuator Stuck On",
@@ -14297,16 +13617,6 @@
         "fix_strategy": "llm_technical",
         "fix_round": 97
       },
-      "P31531": {
-        "note_ru": "DC/DC Converter Current Sensor Circuit Current Out of Range",
-        "note_en": "DC/DC Converter Current Sensor Circuit Current Out of Range",
-        "common_fix_ru": "Проверить датчик тока DC/DC-конвертера, разъем и проводку на обрыв/короткое замыкание. Ремонт: замена датчика тока. Стоимость: 5000-8000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 124
-      },
       "P31900": {
         "note_ru": "Низкая мощность двигателя",
         "note_en": "Poor Engine Power",
@@ -14348,16 +13658,6 @@
         "fix_round": 113,
         "system_id": "ev",
         "can_drive": "yes_caution"
-      },
-      "U00748": {
-        "note_ru": "Control Module Communication Bus B Off Bus Off",
-        "note_en": "Control Module Communication Bus B Off Bus Off",
-        "common_fix_ru": "Ошибка коммуникации между модулями (CAN-шина). Чаще всего из-за окисления разъемов. Самостоятельно: почистите разъемы спиртом (ничего не стоит). В сервисе: диагностика 1000 руб. Если не помогло – замена модуля 8000 руб. Самостоятельно – 0 руб. Это легко исправить, не бегите в сервис!",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_creative",
-        "fix_round": 85
       },
       "U0100": {
         "note_ru": "Нет связи с ЭБУ двигателя по CAN-шине. Проверить предохранители, проводку CAN-H/CAN-L.",
@@ -14711,16 +14011,6 @@
         "fix_strategy": "llm_technical",
         "fix_round": 136
       },
-      "C00639": {
-        "note_ru": "Yaw Rate Sensor Component Internal Failure",
-        "note_en": "Yaw Rate Sensor Component Internal Failure",
-        "common_fix_ru": "Заменить датчик курсовой устойчивости (Yaw Rate Sensor). Проверка не требуется — внутренняя неисправность. Стоимость датчика: 9500–12500 руб, замена: 1000 руб (итого 10500–13500 руб).",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 99
-      },
       "C0200": {
         "note_ru": "Wheel sensor - FR Датчик ABS - передний правый",
         "note_en": "Wheel sensor - FR Датчик ABS - передний правый",
@@ -17321,70 +16611,6 @@
         "system_id": "engine",
         "can_drive": "yes_caution"
       },
-      "P01561": {
-        "note_ru": "O2 Sensor Circuit Bank 2 Sensor 2 Circuit Short to Ground",
-        "note_en": "O2 Sensor Circuit Bank 2 Sensor 2 Circuit Short to Ground",
-        "common_fix_ru": "Проверить проводку датчика кислорода (Bank 2, Sensor 2), особенно в зоне крепления к выхлопной системе. Заменить датчик, если обнаружено короткое замыкание. Стоимость: 2 000–4 000 руб. (датчик).",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 119
-      },
-      "P01562": {
-        "note_ru": "O2 Sensor Circuit Bank 2 Sensor 2 Signal Stuck Low",
-        "note_en": "O2 Sensor Circuit Bank 2 Sensor 2 Signal Stuck Low",
-        "common_fix_ru": "Проверить проводку и разъем датчика кислорода (Bank 2, Sensor 2). Заменить датчик (2000-4000 руб.) при обнаружении короткого замыкания или повреждения проводки.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 134
-      },
-      "P0157": {
-        "note_ru": "Oxygen Sensor Circuit Low Voltage (Bank 2 Sensor 2)",
-        "note_en": "Oxygen Sensor Circuit Low Voltage (Bank 2 Sensor 2)",
-        "common_fix_ru": "Проверить датчик кислорода Bank 2 Sensor 2, заменить датчик (стоимость: 2500-4500 руб). Стоимость ремонта: 3000 руб.",
-        "frequency": "occasional",
-        "severity_override": "warning",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 128,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P0158": {
-        "note_ru": "Oxygen Sensor Circuit High Voltage (Bank 2 Sensor 2)",
-        "note_en": "Oxygen Sensor Circuit High Voltage (Bank 2 Sensor 2)",
-        "common_fix_ru": "Проверить разъем датчика кислорода (Bank 2, Sensor 2) на коррозию/повреждение. Измерить сопротивление проводки. При неисправности датчика заменить. Стоимость: 3500–4500 руб. (датчик + установка).",
-        "frequency": "occasional",
-        "severity_override": "warning",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 113,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P01611": {
-        "note_ru": "O2 Sensor Heater Circuit Bank 2 Sensor 2 Circuit Current Below",
-        "note_en": "O2 Sensor Heater Circuit Bank 2 Sensor 2 Circuit Current Below",
-        "common_fix_ru": "Проверить разъем и проводку датчика кислорода (Bank 2, Sensor 2), при неисправности — замена датчика. Стоимость: 2100–5300 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 144
-      },
-      "P01710": {
-        "note_ru": "System Too Lean Bank 1",
-        "note_en": "System Too Lean Bank 1",
-        "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF), подсосы во впускном тракте, топливный насос. При неисправности MAF — заменить датчик (стоимость: 3500–6000 руб.).",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 146
-      },
       "P0172": {
         "note_ru": "Слишком богатая смесь, банк 1. Проверить давление топлива, форсунки, датчик кислорода.",
         "note_en": "System Too Rich (Bank 1)",
@@ -17396,38 +16622,6 @@
         "fix_round": 131,
         "system_id": "engine",
         "can_drive": "yes_caution"
-      },
-      "P01720": {
-        "note_ru": "System Too Rich Bank 1",
-        "note_en": "System Too Rich Bank 1",
-        "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF) на неисправность. Заменить MAF при обнаружении дефекта. Стоимость: 3500–6000 руб. (MAF 3000–5000 руб., работа 500–1000 руб.).",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 132
-      },
-      "P0174": {
-        "note_ru": "System Too Lean (Bank 2)",
-        "note_en": "System Too Lean (Bank 2)",
-        "common_fix_ru": "Проверить датчик кислорода (банк 2), топливные форсунки и воздушный фильтр. При засорении форсунок провести очистку. Стоимость: очистка форсунок 2500 руб., замена датчика 2000 руб.",
-        "frequency": "occasional",
-        "severity_override": "info",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 139,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P01740": {
-        "note_ru": "System Too Lean Bank 2",
-        "note_en": "System Too Lean Bank 2",
-        "common_fix_ru": "Причина: Слишком бедная смесь в банке 2 (утечка вакуума, неисправные форсунки) | Проверить: Вакуумные шланги, форсунки, датчики O2 | Ремонт: Устранение утечки или замена форсунок | ~2-5 тыс руб | Срочность: 3",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_structured",
-        "fix_round": 143
       },
       "P0175": {
         "note_ru": "Слишком богатая смесь (Блок 2)",
@@ -19645,26 +18839,6 @@
         "fix_strategy": "llm_technical",
         "fix_round": 110
       },
-      "P13641": {
-        "note_ru": "C Camshaft Position Actuator Bank 1 Circuit Short to Ground",
-        "note_en": "C Camshaft Position Actuator Bank 1 Circuit Short to Ground",
-        "common_fix_ru": "Проверить разъем и проводку актуатора фаз газораспределения (банк 1) на короткое замыкание на массу. При обнаружении повреждения проводки заменить участок или весь провод. Если неисправен актуатор, заменить. Стоимость: актуатор 3000-6000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 141
-      },
-      "P13662": {
-        "note_ru": "E Camshaft Position Actuator Bank 1 Signal Invalid",
-        "note_en": "E Camshaft Position Actuator Bank 1 Signal Invalid",
-        "common_fix_ru": "Проверить электрическое соединение актуатора фазорегулятора распредвала (Bank 1), проводку на обрыв. Заменить актуатор (стоимость 4500-7500 руб.). Проверить датчик положения распредвала.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 130
-      },
       "P1400": {
         "note_ru": "Дополнительный датчик дросселя выдает неверные данные, что может привести к нестабильным оборотам холостого хода.",
         "note_en": "Sub-Throttle Position Sensor",
@@ -19672,16 +18846,6 @@
         "frequency": "occasional",
         "severity_override": "medium",
         "source": "dsoprea/DtcLookup"
-      },
-      "P14001": {
-        "note_ru": "Exhaust Gas Recirculation A Control Circuit 2 Circuit Current Below Threshold",
-        "note_en": "Exhaust Gas Recirculation A Control Circuit 2 Circuit Current Below Threshold",
-        "common_fix_ru": "Проверить цепь управления клапаном EGR (разъем, проводку на обрыв/коррозию), измерить сопротивление клапана. Если клапан неисправен (отсутствует перемещение или высокое сопротивление), заменить клапан. Стоимость: клапан 3500-5000 руб., работа 1200 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 139
       },
       "P1401": {
         "note_ru": "Проблема диапазона/работы датчика положения дроссельной заслонки (Sub-Throttle)",
@@ -19749,66 +18913,6 @@
         "fix_strategy": "llm_technical",
         "fix_round": 124
       },
-      "P14200": {
-        "note_ru": "Evaporative Emission Canister (Small Leak)",
-        "note_en": "Evaporative Emission Canister (Small Leak)",
-        "common_fix_ru": "Проверить герметичность системы EVAP: шланги, клапан адсорбера, бензобак. Очистить или заменить уплотнения. Стоимость: 1500–4000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 102
-      },
-      "P14210": {
-        "note_ru": "Evaporative Emission Canister (Gross Leak)",
-        "note_en": "Evaporative Emission Canister (Gross Leak)",
-        "common_fix_ru": "Проверить шланги системы EVAP, клапан адсорбера, пробку бензобака на трещины/утечки. Заменить поврежденные элементы (уплотнения, шланги). Стоимость: 2500–5000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 102
-      },
-      "P14220": {
-        "note_ru": "Evaporative Emission Fuel Tank (Small Leak)",
-        "note_en": "Evaporative Emission Fuel Tank (Small Leak)",
-        "common_fix_ru": "Проверить шланги системы паров топлива (адсорбер, крышка бензобака) на трещины/утечки. При обнаружении повреждения — замена шланга (500-1500 руб) или крышки (1000-2000 руб). Стоимость: 1000-2500 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 126
-      },
-      "P14230": {
-        "note_ru": "Evaporative Emission Fuel Tank (Gross Leak)",
-        "note_en": "Evaporative Emission Fuel Tank (Gross Leak)",
-        "common_fix_ru": "Проверить шланги системы паров топлива, клапан адсорбера и уплотнение крышки бензобака. При утечке — замена уплотнения или шланга. Стоимость: 1100–2900 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 144
-      },
-      "P14501": {
-        "note_ru": "Fuel Tank Pressure Sensor Circuit Short to Ground",
-        "note_en": "Fuel Tank Pressure Sensor Circuit Short to Ground",
-        "common_fix_ru": "Причина: Короткое замыкание цепи датчика давления топливного бака на массу | Проверить: Целостность проводки, разъемы, датчик | Ремонт: Замена датчика или устранение короткого замыкания | ~3-5 тыс руб | Срочность: 3",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_structured",
-        "fix_round": 143
-      },
-      "P14502": {
-        "note_ru": "Fuel Tank Pressure Sensor Signal Stuck in Range",
-        "note_en": "Fuel Tank Pressure Sensor Signal Stuck in Range",
-        "common_fix_ru": "Проверить датчик давления топливного бака. При застревании — заменить датчик. Стоимость датчика: 2400–4200 руб., работа: 1000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 97
-      },
       "P1500": {
         "note_ru": "Неисправность цепи сигнала стартера",
         "note_en": "Starter Signal Circuit",
@@ -19868,16 +18972,6 @@
         "source": "dsoprea/DtcLookup",
         "fix_strategy": "llm_technical",
         "fix_round": 124
-      },
-      "P1585": {
-        "note_ru": "Acceleration Sensor Circuit",
-        "note_en": "Acceleration Sensor Circuit",
-        "common_fix_ru": "Проверить датчик ускорения (Acceleration Sensor), разъем и проводку. Очистить контакты или заменить датчик. Стоимость: 2 000–3 000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 98
       },
       "P15850": {
         "note_ru": "Сбой внутренней системы цепи датчика ускорения",
@@ -20751,114 +19845,6 @@
         "system_id": "engine",
         "can_drive": "yes_caution"
       },
-      "P22511": {
-        "note_ru": "O2 Sensor Negative Current Control Bank 1 Sensor 1 Circuit Short to Ground",
-        "note_en": "O2 Sensor Negative Current Control Bank 1 Sensor 1 Circuit Short to Ground",
-        "common_fix_ru": "Проверить проводку и разъем кислородного датчика (банк 1, датчик 1) на короткое замыкание. Заменить датчик (стоимость 2500-5000 руб.) при неисправности.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 103
-      },
-      "P2252": {
-        "note_ru": "Oxygen Sensor Reference Ground Circuit Low (for A/F sensor) (Bank 1 Sensor 1)",
-        "note_en": "Oxygen Sensor Reference Ground Circuit Low (for A/F sensor) (Bank 1 Sensor 1)",
-        "common_fix_ru": "1) Причина: Обрыв заземления датчика кислорода (80%). 2) Проверить: Заземляющий провод и крепление. 3) Далее: Замена провода. 4) Ремонт: ~500 руб",
-        "frequency": "occasional",
-        "severity_override": "warning",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_diagnostic",
-        "fix_round": 118,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P2253": {
-        "note_ru": "Oxygen Sensor Reference Ground Circuit High (for A/F sensor) (Bank 1 Sensor 1)",
-        "note_en": "Oxygen Sensor Reference Ground Circuit High (for A/F sensor) (Bank 1 Sensor 1)",
-        "common_fix_ru": "Проверить разъем и проводку датчика кислорода (Bank 1 Sensor 1). При замыкании на массу — заменить датчик. Стоимость: 3000–6000 руб. (замена датчика).",
-        "frequency": "occasional",
-        "severity_override": "warning",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 145,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P22541": {
-        "note_ru": "O2 Sensor Negative Current Control Bank 2 Sensor 1 Circuit Short to Ground",
-        "note_en": "O2 Sensor Negative Current Control Bank 2 Sensor 1 Circuit Short to Ground",
-        "common_fix_ru": "Проверить проводку датчика кислорода (Bank 2, Sensor 1) на короткое замыкание на землю. Заменить датчик (стоимость 3200-5000 руб.). Проверить разъем на коррозию.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 130
-      },
-      "P2255": {
-        "note_ru": "Oxygen Sensor Reference Ground Circuit Low (for A/F sensor) (Bank 2 Sensor 1)",
-        "note_en": "Oxygen Sensor Reference Ground Circuit Low (for A/F sensor) (Bank 2 Sensor 1)",
-        "common_fix_ru": "Датчик давления топлива. Ломается при поломке датчика или засорении системы. Самостоятельно заменить можно за 15 минут. Стоимость детали: 1800 руб. В сервисе: 2500 руб. (деталь + диагностика). Пример: на Camry заменил на 1800 руб., а в сервисе 3200 — не советую.",
-        "frequency": "occasional",
-        "severity_override": "warning",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_creative",
-        "fix_round": 125,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P2256": {
-        "note_ru": "Oxygen Sensor Reference Ground Circuit High (for A/F sensor) (Bank 2 Sensor 1)",
-        "note_en": "Oxygen Sensor Reference Ground Circuit High (for A/F sensor) (Bank 2 Sensor 1)",
-        "common_fix_ru": "Датчик давления турбонаддува (для дизелей Toyota). Ломается при засорении или повреждении датчика. Самостоятельно заменить можно: откручиваем старый, ставим новый. Стоимость детали: 2000 руб. В сервисе: 2500 руб. (деталь + диагностика). Реальный пример: на Hilux заменил сам за 2000 руб., а в сервисе за 3500.",
-        "frequency": "occasional",
-        "severity_override": "warning",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_creative",
-        "fix_round": 125,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P22701": {
-        "note_ru": "A/F (O2) Sensor Signal Biased/Stuck Lean Bank 1 Sensor 2 Circuit Current Above Threshold",
-        "note_en": "A/F (O2) Sensor Signal Biased/Stuck Lean Bank 1 Sensor 2 Circuit Current Above Threshold",
-        "common_fix_ru": "Проверить кислородный датчик (банк 1, датчик 2), проводку на обрыв/короткое замыкание. При неисправности — заменить датчик. Стоимость: датчик 3000-5000 руб., замена 1000 руб. (итого 4000-6000 руб).",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 147
-      },
-      "P22711": {
-        "note_ru": "A/F (O2) Sensor Signal Biased/Stuck Rich Bank 1 Sensor 2 Circuit Current Below Threshold",
-        "note_en": "A/F (O2) Sensor Signal Biased/Stuck Rich Bank 1 Sensor 2 Circuit Current Below Threshold",
-        "common_fix_ru": "Проверить датчик кислорода (банк 1, датчик 2), проводку и разъем. Заменить датчик при обнаружении короткого замыкания. Стоимость: 4000–7000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 102
-      },
-      "P24007": {
-        "note_ru": "Evaporative Emission System Leak Detection Pump Control Circuit Actuator Stuck On",
-        "note_en": "Evaporative Emission System Leak Detection Pump Control Circuit Actuator Stuck On",
-        "common_fix_ru": "Проверить насос утечек системы EVAP (на баке), разъем и цепь. При застревании насоса заменить. Стоимость: 4000-7000 руб. (насос + работа).",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 104
-      },
-      "P24187": {
-        "note_ru": "Evaporative Emission System Switching Valve Control Circuit Actuator Stuck On",
-        "note_en": "Evaporative Emission System Switching Valve Control Circuit Actuator Stuck On",
-        "common_fix_ru": "Проверить электромагнитный клапан системы EVAP, заменить клапан (стоимость: 1500-3000 руб). Стоимость ремонта: 2000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 128
-      },
       "P24507": {
         "note_ru": "Клапан управления системой испарения топлива застрял в положении ВКЛ",
         "note_en": "Evaporative Emission System Switching Valve Actuator Stuck On",
@@ -21577,16 +20563,6 @@
         "fix_strategy": "llm_technical",
         "fix_round": 97
       },
-      "P31531": {
-        "note_ru": "DC/DC Converter Current Sensor Circuit Current Out of Range",
-        "note_en": "DC/DC Converter Current Sensor Circuit Current Out of Range",
-        "common_fix_ru": "Проверить датчик тока DC/DC-конвертера, разъем и проводку на обрыв/короткое замыкание. Ремонт: замена датчика тока. Стоимость: 5000-8000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 124
-      },
       "P31900": {
         "note_ru": "Низкая мощность двигателя",
         "note_en": "Poor Engine Power",
@@ -21628,16 +20604,6 @@
         "fix_round": 113,
         "system_id": "ev",
         "can_drive": "yes_caution"
-      },
-      "U00748": {
-        "note_ru": "Control Module Communication Bus B Off Bus Off",
-        "note_en": "Control Module Communication Bus B Off Bus Off",
-        "common_fix_ru": "Ошибка коммуникации между модулями (CAN-шина). Чаще всего из-за окисления разъемов. Самостоятельно: почистите разъемы спиртом (ничего не стоит). В сервисе: диагностика 1000 руб. Если не помогло – замена модуля 8000 руб. Самостоятельно – 0 руб. Это легко исправить, не бегите в сервис!",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_creative",
-        "fix_round": 85
       },
       "U0100": {
         "note_ru": "Нет связи с ЭБУ двигателя по CAN-шине. Проверить предохранители, проводку CAN-H/CAN-L.",
@@ -22067,16 +21033,6 @@
         "fix_strategy": "llm_technical",
         "fix_round": 136
       },
-      "C00639": {
-        "note_ru": "Yaw Rate Sensor Component Internal Failure",
-        "note_en": "Yaw Rate Sensor Component Internal Failure",
-        "common_fix_ru": "Заменить датчик курсовой устойчивости (Yaw Rate Sensor). Проверка не требуется — внутренняя неисправность. Стоимость датчика: 9500–12500 руб, замена: 1000 руб (итого 10500–13500 руб).",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 99
-      },
       "C0200": {
         "note_ru": "Wheel sensor - FR Датчик ABS - передний правый",
         "note_en": "Wheel sensor - FR Датчик ABS - передний правый",
@@ -24677,70 +23633,6 @@
         "system_id": "engine",
         "can_drive": "yes_caution"
       },
-      "P01561": {
-        "note_ru": "O2 Sensor Circuit Bank 2 Sensor 2 Circuit Short to Ground",
-        "note_en": "O2 Sensor Circuit Bank 2 Sensor 2 Circuit Short to Ground",
-        "common_fix_ru": "Проверить проводку датчика кислорода (Bank 2, Sensor 2), особенно в зоне крепления к выхлопной системе. Заменить датчик, если обнаружено короткое замыкание. Стоимость: 2 000–4 000 руб. (датчик).",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 119
-      },
-      "P01562": {
-        "note_ru": "O2 Sensor Circuit Bank 2 Sensor 2 Signal Stuck Low",
-        "note_en": "O2 Sensor Circuit Bank 2 Sensor 2 Signal Stuck Low",
-        "common_fix_ru": "Проверить проводку и разъем датчика кислорода (Bank 2, Sensor 2). Заменить датчик (2000-4000 руб.) при обнаружении короткого замыкания или повреждения проводки.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 134
-      },
-      "P0157": {
-        "note_ru": "Oxygen Sensor Circuit Low Voltage (Bank 2 Sensor 2)",
-        "note_en": "Oxygen Sensor Circuit Low Voltage (Bank 2 Sensor 2)",
-        "common_fix_ru": "Проверить датчик кислорода Bank 2 Sensor 2, заменить датчик (стоимость: 2500-4500 руб). Стоимость ремонта: 3000 руб.",
-        "frequency": "occasional",
-        "severity_override": "warning",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 128,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P0158": {
-        "note_ru": "Oxygen Sensor Circuit High Voltage (Bank 2 Sensor 2)",
-        "note_en": "Oxygen Sensor Circuit High Voltage (Bank 2 Sensor 2)",
-        "common_fix_ru": "Проверить разъем датчика кислорода (Bank 2, Sensor 2) на коррозию/повреждение. Измерить сопротивление проводки. При неисправности датчика заменить. Стоимость: 3500–4500 руб. (датчик + установка).",
-        "frequency": "occasional",
-        "severity_override": "warning",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 113,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P01611": {
-        "note_ru": "O2 Sensor Heater Circuit Bank 2 Sensor 2 Circuit Current Below",
-        "note_en": "O2 Sensor Heater Circuit Bank 2 Sensor 2 Circuit Current Below",
-        "common_fix_ru": "Проверить разъем и проводку датчика кислорода (Bank 2, Sensor 2), при неисправности — замена датчика. Стоимость: 2100–5300 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 144
-      },
-      "P01710": {
-        "note_ru": "System Too Lean Bank 1",
-        "note_en": "System Too Lean Bank 1",
-        "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF), подсосы во впускном тракте, топливный насос. При неисправности MAF — заменить датчик (стоимость: 3500–6000 руб.).",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 146
-      },
       "P0172": {
         "note_ru": "Слишком богатая смесь, банк 1. Проверить давление топлива, форсунки, датчик кислорода.",
         "note_en": "System Too Rich (Bank 1)",
@@ -24752,38 +23644,6 @@
         "fix_round": 131,
         "system_id": "engine",
         "can_drive": "yes_caution"
-      },
-      "P01720": {
-        "note_ru": "System Too Rich Bank 1",
-        "note_en": "System Too Rich Bank 1",
-        "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF) на неисправность. Заменить MAF при обнаружении дефекта. Стоимость: 3500–6000 руб. (MAF 3000–5000 руб., работа 500–1000 руб.).",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 132
-      },
-      "P0174": {
-        "note_ru": "System Too Lean (Bank 2)",
-        "note_en": "System Too Lean (Bank 2)",
-        "common_fix_ru": "Проверить датчик кислорода (банк 2), топливные форсунки и воздушный фильтр. При засорении форсунок провести очистку. Стоимость: очистка форсунок 2500 руб., замена датчика 2000 руб.",
-        "frequency": "occasional",
-        "severity_override": "info",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 139,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P01740": {
-        "note_ru": "System Too Lean Bank 2",
-        "note_en": "System Too Lean Bank 2",
-        "common_fix_ru": "Причина: Слишком бедная смесь в банке 2 (утечка вакуума, неисправные форсунки) | Проверить: Вакуумные шланги, форсунки, датчики O2 | Ремонт: Устранение утечки или замена форсунок | ~2-5 тыс руб | Срочность: 3",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_structured",
-        "fix_round": 143
       },
       "P0175": {
         "note_ru": "Слишком богатая смесь (Блок 2)",
@@ -27001,26 +25861,6 @@
         "fix_strategy": "llm_technical",
         "fix_round": 110
       },
-      "P13641": {
-        "note_ru": "C Camshaft Position Actuator Bank 1 Circuit Short to Ground",
-        "note_en": "C Camshaft Position Actuator Bank 1 Circuit Short to Ground",
-        "common_fix_ru": "Проверить разъем и проводку актуатора фаз газораспределения (банк 1) на короткое замыкание на массу. При обнаружении повреждения проводки заменить участок или весь провод. Если неисправен актуатор, заменить. Стоимость: актуатор 3000-6000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 141
-      },
-      "P13662": {
-        "note_ru": "E Camshaft Position Actuator Bank 1 Signal Invalid",
-        "note_en": "E Camshaft Position Actuator Bank 1 Signal Invalid",
-        "common_fix_ru": "Проверить электрическое соединение актуатора фазорегулятора распредвала (Bank 1), проводку на обрыв. Заменить актуатор (стоимость 4500-7500 руб.). Проверить датчик положения распредвала.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 130
-      },
       "P1400": {
         "note_ru": "Дополнительный датчик дросселя выдает неверные данные, что может привести к нестабильным оборотам холостого хода.",
         "note_en": "Sub-Throttle Position Sensor",
@@ -27028,16 +25868,6 @@
         "frequency": "occasional",
         "severity_override": "medium",
         "source": "dsoprea/DtcLookup"
-      },
-      "P14001": {
-        "note_ru": "Exhaust Gas Recirculation A Control Circuit 2 Circuit Current Below Threshold",
-        "note_en": "Exhaust Gas Recirculation A Control Circuit 2 Circuit Current Below Threshold",
-        "common_fix_ru": "Проверить цепь управления клапаном EGR (разъем, проводку на обрыв/коррозию), измерить сопротивление клапана. Если клапан неисправен (отсутствует перемещение или высокое сопротивление), заменить клапан. Стоимость: клапан 3500-5000 руб., работа 1200 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 139
       },
       "P1401": {
         "note_ru": "Проблема диапазона/работы датчика положения дроссельной заслонки (Sub-Throttle)",
@@ -27105,66 +25935,6 @@
         "fix_strategy": "llm_technical",
         "fix_round": 124
       },
-      "P14200": {
-        "note_ru": "Evaporative Emission Canister (Small Leak)",
-        "note_en": "Evaporative Emission Canister (Small Leak)",
-        "common_fix_ru": "Проверить герметичность системы EVAP: шланги, клапан адсорбера, бензобак. Очистить или заменить уплотнения. Стоимость: 1500–4000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 102
-      },
-      "P14210": {
-        "note_ru": "Evaporative Emission Canister (Gross Leak)",
-        "note_en": "Evaporative Emission Canister (Gross Leak)",
-        "common_fix_ru": "Проверить шланги системы EVAP, клапан адсорбера, пробку бензобака на трещины/утечки. Заменить поврежденные элементы (уплотнения, шланги). Стоимость: 2500–5000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 102
-      },
-      "P14220": {
-        "note_ru": "Evaporative Emission Fuel Tank (Small Leak)",
-        "note_en": "Evaporative Emission Fuel Tank (Small Leak)",
-        "common_fix_ru": "Проверить шланги системы паров топлива (адсорбер, крышка бензобака) на трещины/утечки. При обнаружении повреждения — замена шланга (500-1500 руб) или крышки (1000-2000 руб). Стоимость: 1000-2500 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 126
-      },
-      "P14230": {
-        "note_ru": "Evaporative Emission Fuel Tank (Gross Leak)",
-        "note_en": "Evaporative Emission Fuel Tank (Gross Leak)",
-        "common_fix_ru": "Проверить шланги системы паров топлива, клапан адсорбера и уплотнение крышки бензобака. При утечке — замена уплотнения или шланга. Стоимость: 1100–2900 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 144
-      },
-      "P14501": {
-        "note_ru": "Fuel Tank Pressure Sensor Circuit Short to Ground",
-        "note_en": "Fuel Tank Pressure Sensor Circuit Short to Ground",
-        "common_fix_ru": "Причина: Короткое замыкание цепи датчика давления топливного бака на массу | Проверить: Целостность проводки, разъемы, датчик | Ремонт: Замена датчика или устранение короткого замыкания | ~3-5 тыс руб | Срочность: 3",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_structured",
-        "fix_round": 143
-      },
-      "P14502": {
-        "note_ru": "Fuel Tank Pressure Sensor Signal Stuck in Range",
-        "note_en": "Fuel Tank Pressure Sensor Signal Stuck in Range",
-        "common_fix_ru": "Проверить датчик давления топливного бака. При застревании — заменить датчик. Стоимость датчика: 2400–4200 руб., работа: 1000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 97
-      },
       "P1500": {
         "note_ru": "Неисправность цепи сигнала стартера",
         "note_en": "Starter Signal Circuit",
@@ -27224,16 +25994,6 @@
         "source": "dsoprea/DtcLookup",
         "fix_strategy": "llm_technical",
         "fix_round": 124
-      },
-      "P1585": {
-        "note_ru": "Acceleration Sensor Circuit",
-        "note_en": "Acceleration Sensor Circuit",
-        "common_fix_ru": "Проверить датчик ускорения (Acceleration Sensor), разъем и проводку. Очистить контакты или заменить датчик. Стоимость: 2 000–3 000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 98
       },
       "P15850": {
         "note_ru": "Сбой внутренней системы цепи датчика ускорения",
@@ -28107,114 +26867,6 @@
         "system_id": "engine",
         "can_drive": "yes_caution"
       },
-      "P22511": {
-        "note_ru": "O2 Sensor Negative Current Control Bank 1 Sensor 1 Circuit Short to Ground",
-        "note_en": "O2 Sensor Negative Current Control Bank 1 Sensor 1 Circuit Short to Ground",
-        "common_fix_ru": "Проверить проводку и разъем кислородного датчика (банк 1, датчик 1) на короткое замыкание. Заменить датчик (стоимость 2500-5000 руб.) при неисправности.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 103
-      },
-      "P2252": {
-        "note_ru": "Oxygen Sensor Reference Ground Circuit Low (for A/F sensor) (Bank 1 Sensor 1)",
-        "note_en": "Oxygen Sensor Reference Ground Circuit Low (for A/F sensor) (Bank 1 Sensor 1)",
-        "common_fix_ru": "1) Причина: Обрыв заземления датчика кислорода (80%). 2) Проверить: Заземляющий провод и крепление. 3) Далее: Замена провода. 4) Ремонт: ~500 руб",
-        "frequency": "occasional",
-        "severity_override": "warning",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_diagnostic",
-        "fix_round": 118,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P2253": {
-        "note_ru": "Oxygen Sensor Reference Ground Circuit High (for A/F sensor) (Bank 1 Sensor 1)",
-        "note_en": "Oxygen Sensor Reference Ground Circuit High (for A/F sensor) (Bank 1 Sensor 1)",
-        "common_fix_ru": "Проверить разъем и проводку датчика кислорода (Bank 1 Sensor 1). При замыкании на массу — заменить датчик. Стоимость: 3000–6000 руб. (замена датчика).",
-        "frequency": "occasional",
-        "severity_override": "warning",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 145,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P22541": {
-        "note_ru": "O2 Sensor Negative Current Control Bank 2 Sensor 1 Circuit Short to Ground",
-        "note_en": "O2 Sensor Negative Current Control Bank 2 Sensor 1 Circuit Short to Ground",
-        "common_fix_ru": "Проверить проводку датчика кислорода (Bank 2, Sensor 1) на короткое замыкание на землю. Заменить датчик (стоимость 3200-5000 руб.). Проверить разъем на коррозию.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 130
-      },
-      "P2255": {
-        "note_ru": "Oxygen Sensor Reference Ground Circuit Low (for A/F sensor) (Bank 2 Sensor 1)",
-        "note_en": "Oxygen Sensor Reference Ground Circuit Low (for A/F sensor) (Bank 2 Sensor 1)",
-        "common_fix_ru": "Датчик давления топлива. Ломается при поломке датчика или засорении системы. Самостоятельно заменить можно за 15 минут. Стоимость детали: 1800 руб. В сервисе: 2500 руб. (деталь + диагностика). Пример: на Camry заменил на 1800 руб., а в сервисе 3200 — не советую.",
-        "frequency": "occasional",
-        "severity_override": "warning",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_creative",
-        "fix_round": 125,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P2256": {
-        "note_ru": "Oxygen Sensor Reference Ground Circuit High (for A/F sensor) (Bank 2 Sensor 1)",
-        "note_en": "Oxygen Sensor Reference Ground Circuit High (for A/F sensor) (Bank 2 Sensor 1)",
-        "common_fix_ru": "Датчик давления турбонаддува (для дизелей Toyota). Ломается при засорении или повреждении датчика. Самостоятельно заменить можно: откручиваем старый, ставим новый. Стоимость детали: 2000 руб. В сервисе: 2500 руб. (деталь + диагностика). Реальный пример: на Hilux заменил сам за 2000 руб., а в сервисе за 3500.",
-        "frequency": "occasional",
-        "severity_override": "warning",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_creative",
-        "fix_round": 125,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P22701": {
-        "note_ru": "A/F (O2) Sensor Signal Biased/Stuck Lean Bank 1 Sensor 2 Circuit Current Above Threshold",
-        "note_en": "A/F (O2) Sensor Signal Biased/Stuck Lean Bank 1 Sensor 2 Circuit Current Above Threshold",
-        "common_fix_ru": "Проверить кислородный датчик (банк 1, датчик 2), проводку на обрыв/короткое замыкание. При неисправности — заменить датчик. Стоимость: датчик 3000-5000 руб., замена 1000 руб. (итого 4000-6000 руб).",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 147
-      },
-      "P22711": {
-        "note_ru": "A/F (O2) Sensor Signal Biased/Stuck Rich Bank 1 Sensor 2 Circuit Current Below Threshold",
-        "note_en": "A/F (O2) Sensor Signal Biased/Stuck Rich Bank 1 Sensor 2 Circuit Current Below Threshold",
-        "common_fix_ru": "Проверить датчик кислорода (банк 1, датчик 2), проводку и разъем. Заменить датчик при обнаружении короткого замыкания. Стоимость: 4000–7000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 102
-      },
-      "P24007": {
-        "note_ru": "Evaporative Emission System Leak Detection Pump Control Circuit Actuator Stuck On",
-        "note_en": "Evaporative Emission System Leak Detection Pump Control Circuit Actuator Stuck On",
-        "common_fix_ru": "Проверить насос утечек системы EVAP (на баке), разъем и цепь. При застревании насоса заменить. Стоимость: 4000-7000 руб. (насос + работа).",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 104
-      },
-      "P24187": {
-        "note_ru": "Evaporative Emission System Switching Valve Control Circuit Actuator Stuck On",
-        "note_en": "Evaporative Emission System Switching Valve Control Circuit Actuator Stuck On",
-        "common_fix_ru": "Проверить электромагнитный клапан системы EVAP, заменить клапан (стоимость: 1500-3000 руб). Стоимость ремонта: 2000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 128
-      },
       "P24507": {
         "note_ru": "Клапан управления системой испарения топлива застрял в положении ВКЛ",
         "note_en": "Evaporative Emission System Switching Valve Actuator Stuck On",
@@ -28933,16 +27585,6 @@
         "fix_strategy": "llm_technical",
         "fix_round": 97
       },
-      "P31531": {
-        "note_ru": "DC/DC Converter Current Sensor Circuit Current Out of Range",
-        "note_en": "DC/DC Converter Current Sensor Circuit Current Out of Range",
-        "common_fix_ru": "Проверить датчик тока DC/DC-конвертера, разъем и проводку на обрыв/короткое замыкание. Ремонт: замена датчика тока. Стоимость: 5000-8000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 124
-      },
       "P31900": {
         "note_ru": "Низкая мощность двигателя",
         "note_en": "Poor Engine Power",
@@ -28984,16 +27626,6 @@
         "fix_round": 113,
         "system_id": "ev",
         "can_drive": "yes_caution"
-      },
-      "U00748": {
-        "note_ru": "Control Module Communication Bus B Off Bus Off",
-        "note_en": "Control Module Communication Bus B Off Bus Off",
-        "common_fix_ru": "Ошибка коммуникации между модулями (CAN-шина). Чаще всего из-за окисления разъемов. Самостоятельно: почистите разъемы спиртом (ничего не стоит). В сервисе: диагностика 1000 руб. Если не помогло – замена модуля 8000 руб. Самостоятельно – 0 руб. Это легко исправить, не бегите в сервис!",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_creative",
-        "fix_round": 85
       },
       "U0100": {
         "note_ru": "Нет связи с ЭБУ двигателя по CAN-шине. Проверить предохранители, проводку CAN-H/CAN-L.",
@@ -29423,16 +28055,6 @@
         "fix_strategy": "llm_technical",
         "fix_round": 136
       },
-      "C00639": {
-        "note_ru": "Yaw Rate Sensor Component Internal Failure",
-        "note_en": "Yaw Rate Sensor Component Internal Failure",
-        "common_fix_ru": "Заменить датчик курсовой устойчивости (Yaw Rate Sensor). Проверка не требуется — внутренняя неисправность. Стоимость датчика: 9500–12500 руб, замена: 1000 руб (итого 10500–13500 руб).",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 99
-      },
       "C0200": {
         "note_ru": "Wheel sensor - FR Датчик ABS - передний правый",
         "note_en": "Wheel sensor - FR Датчик ABS - передний правый",
@@ -32033,70 +30655,6 @@
         "system_id": "engine",
         "can_drive": "yes_caution"
       },
-      "P01561": {
-        "note_ru": "O2 Sensor Circuit Bank 2 Sensor 2 Circuit Short to Ground",
-        "note_en": "O2 Sensor Circuit Bank 2 Sensor 2 Circuit Short to Ground",
-        "common_fix_ru": "Проверить проводку датчика кислорода (Bank 2, Sensor 2), особенно в зоне крепления к выхлопной системе. Заменить датчик, если обнаружено короткое замыкание. Стоимость: 2 000–4 000 руб. (датчик).",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 119
-      },
-      "P01562": {
-        "note_ru": "O2 Sensor Circuit Bank 2 Sensor 2 Signal Stuck Low",
-        "note_en": "O2 Sensor Circuit Bank 2 Sensor 2 Signal Stuck Low",
-        "common_fix_ru": "Проверить проводку и разъем датчика кислорода (Bank 2, Sensor 2). Заменить датчик (2000-4000 руб.) при обнаружении короткого замыкания или повреждения проводки.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 134
-      },
-      "P0157": {
-        "note_ru": "Oxygen Sensor Circuit Low Voltage (Bank 2 Sensor 2)",
-        "note_en": "Oxygen Sensor Circuit Low Voltage (Bank 2 Sensor 2)",
-        "common_fix_ru": "Проверить датчик кислорода Bank 2 Sensor 2, заменить датчик (стоимость: 2500-4500 руб). Стоимость ремонта: 3000 руб.",
-        "frequency": "occasional",
-        "severity_override": "warning",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 128,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P0158": {
-        "note_ru": "Oxygen Sensor Circuit High Voltage (Bank 2 Sensor 2)",
-        "note_en": "Oxygen Sensor Circuit High Voltage (Bank 2 Sensor 2)",
-        "common_fix_ru": "Проверить разъем датчика кислорода (Bank 2, Sensor 2) на коррозию/повреждение. Измерить сопротивление проводки. При неисправности датчика заменить. Стоимость: 3500–4500 руб. (датчик + установка).",
-        "frequency": "occasional",
-        "severity_override": "warning",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 113,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P01611": {
-        "note_ru": "O2 Sensor Heater Circuit Bank 2 Sensor 2 Circuit Current Below",
-        "note_en": "O2 Sensor Heater Circuit Bank 2 Sensor 2 Circuit Current Below",
-        "common_fix_ru": "Проверить разъем и проводку датчика кислорода (Bank 2, Sensor 2), при неисправности — замена датчика. Стоимость: 2100–5300 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 144
-      },
-      "P01710": {
-        "note_ru": "System Too Lean Bank 1",
-        "note_en": "System Too Lean Bank 1",
-        "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF), подсосы во впускном тракте, топливный насос. При неисправности MAF — заменить датчик (стоимость: 3500–6000 руб.).",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 146
-      },
       "P0172": {
         "note_ru": "Слишком богатая смесь, банк 1. Проверить давление топлива, форсунки, датчик кислорода.",
         "note_en": "System Too Rich (Bank 1)",
@@ -32108,38 +30666,6 @@
         "fix_round": 131,
         "system_id": "engine",
         "can_drive": "yes_caution"
-      },
-      "P01720": {
-        "note_ru": "System Too Rich Bank 1",
-        "note_en": "System Too Rich Bank 1",
-        "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF) на неисправность. Заменить MAF при обнаружении дефекта. Стоимость: 3500–6000 руб. (MAF 3000–5000 руб., работа 500–1000 руб.).",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 132
-      },
-      "P0174": {
-        "note_ru": "System Too Lean (Bank 2)",
-        "note_en": "System Too Lean (Bank 2)",
-        "common_fix_ru": "Проверить датчик кислорода (банк 2), топливные форсунки и воздушный фильтр. При засорении форсунок провести очистку. Стоимость: очистка форсунок 2500 руб., замена датчика 2000 руб.",
-        "frequency": "occasional",
-        "severity_override": "info",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 139,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P01740": {
-        "note_ru": "System Too Lean Bank 2",
-        "note_en": "System Too Lean Bank 2",
-        "common_fix_ru": "Причина: Слишком бедная смесь в банке 2 (утечка вакуума, неисправные форсунки) | Проверить: Вакуумные шланги, форсунки, датчики O2 | Ремонт: Устранение утечки или замена форсунок | ~2-5 тыс руб | Срочность: 3",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_structured",
-        "fix_round": 143
       },
       "P0175": {
         "note_ru": "Слишком богатая смесь (Блок 2)",
@@ -34357,26 +32883,6 @@
         "fix_strategy": "llm_technical",
         "fix_round": 110
       },
-      "P13641": {
-        "note_ru": "C Camshaft Position Actuator Bank 1 Circuit Short to Ground",
-        "note_en": "C Camshaft Position Actuator Bank 1 Circuit Short to Ground",
-        "common_fix_ru": "Проверить разъем и проводку актуатора фаз газораспределения (банк 1) на короткое замыкание на массу. При обнаружении повреждения проводки заменить участок или весь провод. Если неисправен актуатор, заменить. Стоимость: актуатор 3000-6000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 141
-      },
-      "P13662": {
-        "note_ru": "E Camshaft Position Actuator Bank 1 Signal Invalid",
-        "note_en": "E Camshaft Position Actuator Bank 1 Signal Invalid",
-        "common_fix_ru": "Проверить электрическое соединение актуатора фазорегулятора распредвала (Bank 1), проводку на обрыв. Заменить актуатор (стоимость 4500-7500 руб.). Проверить датчик положения распредвала.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 130
-      },
       "P1400": {
         "note_ru": "Дополнительный датчик дросселя выдает неверные данные, что может привести к нестабильным оборотам холостого хода.",
         "note_en": "Sub-Throttle Position Sensor",
@@ -34384,16 +32890,6 @@
         "frequency": "occasional",
         "severity_override": "medium",
         "source": "dsoprea/DtcLookup"
-      },
-      "P14001": {
-        "note_ru": "Exhaust Gas Recirculation A Control Circuit 2 Circuit Current Below Threshold",
-        "note_en": "Exhaust Gas Recirculation A Control Circuit 2 Circuit Current Below Threshold",
-        "common_fix_ru": "Проверить цепь управления клапаном EGR (разъем, проводку на обрыв/коррозию), измерить сопротивление клапана. Если клапан неисправен (отсутствует перемещение или высокое сопротивление), заменить клапан. Стоимость: клапан 3500-5000 руб., работа 1200 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 139
       },
       "P1401": {
         "note_ru": "Проблема диапазона/работы датчика положения дроссельной заслонки (Sub-Throttle)",
@@ -34461,66 +32957,6 @@
         "fix_strategy": "llm_technical",
         "fix_round": 124
       },
-      "P14200": {
-        "note_ru": "Evaporative Emission Canister (Small Leak)",
-        "note_en": "Evaporative Emission Canister (Small Leak)",
-        "common_fix_ru": "Проверить герметичность системы EVAP: шланги, клапан адсорбера, бензобак. Очистить или заменить уплотнения. Стоимость: 1500–4000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 102
-      },
-      "P14210": {
-        "note_ru": "Evaporative Emission Canister (Gross Leak)",
-        "note_en": "Evaporative Emission Canister (Gross Leak)",
-        "common_fix_ru": "Проверить шланги системы EVAP, клапан адсорбера, пробку бензобака на трещины/утечки. Заменить поврежденные элементы (уплотнения, шланги). Стоимость: 2500–5000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 102
-      },
-      "P14220": {
-        "note_ru": "Evaporative Emission Fuel Tank (Small Leak)",
-        "note_en": "Evaporative Emission Fuel Tank (Small Leak)",
-        "common_fix_ru": "Проверить шланги системы паров топлива (адсорбер, крышка бензобака) на трещины/утечки. При обнаружении повреждения — замена шланга (500-1500 руб) или крышки (1000-2000 руб). Стоимость: 1000-2500 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 126
-      },
-      "P14230": {
-        "note_ru": "Evaporative Emission Fuel Tank (Gross Leak)",
-        "note_en": "Evaporative Emission Fuel Tank (Gross Leak)",
-        "common_fix_ru": "Проверить шланги системы паров топлива, клапан адсорбера и уплотнение крышки бензобака. При утечке — замена уплотнения или шланга. Стоимость: 1100–2900 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 144
-      },
-      "P14501": {
-        "note_ru": "Fuel Tank Pressure Sensor Circuit Short to Ground",
-        "note_en": "Fuel Tank Pressure Sensor Circuit Short to Ground",
-        "common_fix_ru": "Причина: Короткое замыкание цепи датчика давления топливного бака на массу | Проверить: Целостность проводки, разъемы, датчик | Ремонт: Замена датчика или устранение короткого замыкания | ~3-5 тыс руб | Срочность: 3",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_structured",
-        "fix_round": 143
-      },
-      "P14502": {
-        "note_ru": "Fuel Tank Pressure Sensor Signal Stuck in Range",
-        "note_en": "Fuel Tank Pressure Sensor Signal Stuck in Range",
-        "common_fix_ru": "Проверить датчик давления топливного бака. При застревании — заменить датчик. Стоимость датчика: 2400–4200 руб., работа: 1000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 97
-      },
       "P1500": {
         "note_ru": "Неисправность цепи сигнала стартера",
         "note_en": "Starter Signal Circuit",
@@ -34580,16 +33016,6 @@
         "source": "dsoprea/DtcLookup",
         "fix_strategy": "llm_technical",
         "fix_round": 124
-      },
-      "P1585": {
-        "note_ru": "Acceleration Sensor Circuit",
-        "note_en": "Acceleration Sensor Circuit",
-        "common_fix_ru": "Проверить датчик ускорения (Acceleration Sensor), разъем и проводку. Очистить контакты или заменить датчик. Стоимость: 2 000–3 000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 98
       },
       "P15850": {
         "note_ru": "Сбой внутренней системы цепи датчика ускорения",
@@ -35463,114 +33889,6 @@
         "system_id": "engine",
         "can_drive": "yes_caution"
       },
-      "P22511": {
-        "note_ru": "O2 Sensor Negative Current Control Bank 1 Sensor 1 Circuit Short to Ground",
-        "note_en": "O2 Sensor Negative Current Control Bank 1 Sensor 1 Circuit Short to Ground",
-        "common_fix_ru": "Проверить проводку и разъем кислородного датчика (банк 1, датчик 1) на короткое замыкание. Заменить датчик (стоимость 2500-5000 руб.) при неисправности.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 103
-      },
-      "P2252": {
-        "note_ru": "Oxygen Sensor Reference Ground Circuit Low (for A/F sensor) (Bank 1 Sensor 1)",
-        "note_en": "Oxygen Sensor Reference Ground Circuit Low (for A/F sensor) (Bank 1 Sensor 1)",
-        "common_fix_ru": "1) Причина: Обрыв заземления датчика кислорода (80%). 2) Проверить: Заземляющий провод и крепление. 3) Далее: Замена провода. 4) Ремонт: ~500 руб",
-        "frequency": "occasional",
-        "severity_override": "warning",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_diagnostic",
-        "fix_round": 118,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P2253": {
-        "note_ru": "Oxygen Sensor Reference Ground Circuit High (for A/F sensor) (Bank 1 Sensor 1)",
-        "note_en": "Oxygen Sensor Reference Ground Circuit High (for A/F sensor) (Bank 1 Sensor 1)",
-        "common_fix_ru": "Проверить разъем и проводку датчика кислорода (Bank 1 Sensor 1). При замыкании на массу — заменить датчик. Стоимость: 3000–6000 руб. (замена датчика).",
-        "frequency": "occasional",
-        "severity_override": "warning",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 145,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P22541": {
-        "note_ru": "O2 Sensor Negative Current Control Bank 2 Sensor 1 Circuit Short to Ground",
-        "note_en": "O2 Sensor Negative Current Control Bank 2 Sensor 1 Circuit Short to Ground",
-        "common_fix_ru": "Проверить проводку датчика кислорода (Bank 2, Sensor 1) на короткое замыкание на землю. Заменить датчик (стоимость 3200-5000 руб.). Проверить разъем на коррозию.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 130
-      },
-      "P2255": {
-        "note_ru": "Oxygen Sensor Reference Ground Circuit Low (for A/F sensor) (Bank 2 Sensor 1)",
-        "note_en": "Oxygen Sensor Reference Ground Circuit Low (for A/F sensor) (Bank 2 Sensor 1)",
-        "common_fix_ru": "Датчик давления топлива. Ломается при поломке датчика или засорении системы. Самостоятельно заменить можно за 15 минут. Стоимость детали: 1800 руб. В сервисе: 2500 руб. (деталь + диагностика). Пример: на Camry заменил на 1800 руб., а в сервисе 3200 — не советую.",
-        "frequency": "occasional",
-        "severity_override": "warning",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_creative",
-        "fix_round": 125,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P2256": {
-        "note_ru": "Oxygen Sensor Reference Ground Circuit High (for A/F sensor) (Bank 2 Sensor 1)",
-        "note_en": "Oxygen Sensor Reference Ground Circuit High (for A/F sensor) (Bank 2 Sensor 1)",
-        "common_fix_ru": "Датчик давления турбонаддува (для дизелей Toyota). Ломается при засорении или повреждении датчика. Самостоятельно заменить можно: откручиваем старый, ставим новый. Стоимость детали: 2000 руб. В сервисе: 2500 руб. (деталь + диагностика). Реальный пример: на Hilux заменил сам за 2000 руб., а в сервисе за 3500.",
-        "frequency": "occasional",
-        "severity_override": "warning",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_creative",
-        "fix_round": 125,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P22701": {
-        "note_ru": "A/F (O2) Sensor Signal Biased/Stuck Lean Bank 1 Sensor 2 Circuit Current Above Threshold",
-        "note_en": "A/F (O2) Sensor Signal Biased/Stuck Lean Bank 1 Sensor 2 Circuit Current Above Threshold",
-        "common_fix_ru": "Проверить кислородный датчик (банк 1, датчик 2), проводку на обрыв/короткое замыкание. При неисправности — заменить датчик. Стоимость: датчик 3000-5000 руб., замена 1000 руб. (итого 4000-6000 руб).",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 147
-      },
-      "P22711": {
-        "note_ru": "A/F (O2) Sensor Signal Biased/Stuck Rich Bank 1 Sensor 2 Circuit Current Below Threshold",
-        "note_en": "A/F (O2) Sensor Signal Biased/Stuck Rich Bank 1 Sensor 2 Circuit Current Below Threshold",
-        "common_fix_ru": "Проверить датчик кислорода (банк 1, датчик 2), проводку и разъем. Заменить датчик при обнаружении короткого замыкания. Стоимость: 4000–7000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 102
-      },
-      "P24007": {
-        "note_ru": "Evaporative Emission System Leak Detection Pump Control Circuit Actuator Stuck On",
-        "note_en": "Evaporative Emission System Leak Detection Pump Control Circuit Actuator Stuck On",
-        "common_fix_ru": "Проверить насос утечек системы EVAP (на баке), разъем и цепь. При застревании насоса заменить. Стоимость: 4000-7000 руб. (насос + работа).",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 104
-      },
-      "P24187": {
-        "note_ru": "Evaporative Emission System Switching Valve Control Circuit Actuator Stuck On",
-        "note_en": "Evaporative Emission System Switching Valve Control Circuit Actuator Stuck On",
-        "common_fix_ru": "Проверить электромагнитный клапан системы EVAP, заменить клапан (стоимость: 1500-3000 руб). Стоимость ремонта: 2000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 128
-      },
       "P24507": {
         "note_ru": "Клапан управления системой испарения топлива застрял в положении ВКЛ",
         "note_en": "Evaporative Emission System Switching Valve Actuator Stuck On",
@@ -36289,16 +34607,6 @@
         "fix_strategy": "llm_technical",
         "fix_round": 97
       },
-      "P31531": {
-        "note_ru": "DC/DC Converter Current Sensor Circuit Current Out of Range",
-        "note_en": "DC/DC Converter Current Sensor Circuit Current Out of Range",
-        "common_fix_ru": "Проверить датчик тока DC/DC-конвертера, разъем и проводку на обрыв/короткое замыкание. Ремонт: замена датчика тока. Стоимость: 5000-8000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 124
-      },
       "P31900": {
         "note_ru": "Низкая мощность двигателя",
         "note_en": "Poor Engine Power",
@@ -36340,16 +34648,6 @@
         "fix_round": 113,
         "system_id": "ev",
         "can_drive": "yes_caution"
-      },
-      "U00748": {
-        "note_ru": "Control Module Communication Bus B Off Bus Off",
-        "note_en": "Control Module Communication Bus B Off Bus Off",
-        "common_fix_ru": "Ошибка коммуникации между модулями (CAN-шина). Чаще всего из-за окисления разъемов. Самостоятельно: почистите разъемы спиртом (ничего не стоит). В сервисе: диагностика 1000 руб. Если не помогло – замена модуля 8000 руб. Самостоятельно – 0 руб. Это легко исправить, не бегите в сервис!",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_creative",
-        "fix_round": 85
       },
       "U0100": {
         "note_ru": "Нет связи с ЭБУ двигателя по CAN-шине. Проверить предохранители, проводку CAN-H/CAN-L.",
@@ -36703,16 +35001,6 @@
         "fix_strategy": "llm_technical",
         "fix_round": 136
       },
-      "C00639": {
-        "note_ru": "Yaw Rate Sensor Component Internal Failure",
-        "note_en": "Yaw Rate Sensor Component Internal Failure",
-        "common_fix_ru": "Заменить датчик курсовой устойчивости (Yaw Rate Sensor). Проверка не требуется — внутренняя неисправность. Стоимость датчика: 9500–12500 руб, замена: 1000 руб (итого 10500–13500 руб).",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 99
-      },
       "C0200": {
         "note_ru": "Wheel sensor - FR Датчик ABS - передний правый",
         "note_en": "Wheel sensor - FR Датчик ABS - передний правый",
@@ -39313,70 +37601,6 @@
         "system_id": "engine",
         "can_drive": "yes_caution"
       },
-      "P01561": {
-        "note_ru": "O2 Sensor Circuit Bank 2 Sensor 2 Circuit Short to Ground",
-        "note_en": "O2 Sensor Circuit Bank 2 Sensor 2 Circuit Short to Ground",
-        "common_fix_ru": "Проверить проводку датчика кислорода (Bank 2, Sensor 2), особенно в зоне крепления к выхлопной системе. Заменить датчик, если обнаружено короткое замыкание. Стоимость: 2 000–4 000 руб. (датчик).",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 119
-      },
-      "P01562": {
-        "note_ru": "O2 Sensor Circuit Bank 2 Sensor 2 Signal Stuck Low",
-        "note_en": "O2 Sensor Circuit Bank 2 Sensor 2 Signal Stuck Low",
-        "common_fix_ru": "Проверить проводку и разъем датчика кислорода (Bank 2, Sensor 2). Заменить датчик (2000-4000 руб.) при обнаружении короткого замыкания или повреждения проводки.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 134
-      },
-      "P0157": {
-        "note_ru": "Oxygen Sensor Circuit Low Voltage (Bank 2 Sensor 2)",
-        "note_en": "Oxygen Sensor Circuit Low Voltage (Bank 2 Sensor 2)",
-        "common_fix_ru": "Проверить датчик кислорода Bank 2 Sensor 2, заменить датчик (стоимость: 2500-4500 руб). Стоимость ремонта: 3000 руб.",
-        "frequency": "occasional",
-        "severity_override": "warning",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 128,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P0158": {
-        "note_ru": "Oxygen Sensor Circuit High Voltage (Bank 2 Sensor 2)",
-        "note_en": "Oxygen Sensor Circuit High Voltage (Bank 2 Sensor 2)",
-        "common_fix_ru": "Проверить разъем датчика кислорода (Bank 2, Sensor 2) на коррозию/повреждение. Измерить сопротивление проводки. При неисправности датчика заменить. Стоимость: 3500–4500 руб. (датчик + установка).",
-        "frequency": "occasional",
-        "severity_override": "warning",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 113,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P01611": {
-        "note_ru": "O2 Sensor Heater Circuit Bank 2 Sensor 2 Circuit Current Below",
-        "note_en": "O2 Sensor Heater Circuit Bank 2 Sensor 2 Circuit Current Below",
-        "common_fix_ru": "Проверить разъем и проводку датчика кислорода (Bank 2, Sensor 2), при неисправности — замена датчика. Стоимость: 2100–5300 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 144
-      },
-      "P01710": {
-        "note_ru": "System Too Lean Bank 1",
-        "note_en": "System Too Lean Bank 1",
-        "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF), подсосы во впускном тракте, топливный насос. При неисправности MAF — заменить датчик (стоимость: 3500–6000 руб.).",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 146
-      },
       "P0172": {
         "note_ru": "Слишком богатая смесь, банк 1. Проверить давление топлива, форсунки, датчик кислорода.",
         "note_en": "System Too Rich (Bank 1)",
@@ -39388,38 +37612,6 @@
         "fix_round": 131,
         "system_id": "engine",
         "can_drive": "yes_caution"
-      },
-      "P01720": {
-        "note_ru": "System Too Rich Bank 1",
-        "note_en": "System Too Rich Bank 1",
-        "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF) на неисправность. Заменить MAF при обнаружении дефекта. Стоимость: 3500–6000 руб. (MAF 3000–5000 руб., работа 500–1000 руб.).",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 132
-      },
-      "P0174": {
-        "note_ru": "System Too Lean (Bank 2)",
-        "note_en": "System Too Lean (Bank 2)",
-        "common_fix_ru": "Проверить датчик кислорода (банк 2), топливные форсунки и воздушный фильтр. При засорении форсунок провести очистку. Стоимость: очистка форсунок 2500 руб., замена датчика 2000 руб.",
-        "frequency": "occasional",
-        "severity_override": "info",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 139,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P01740": {
-        "note_ru": "System Too Lean Bank 2",
-        "note_en": "System Too Lean Bank 2",
-        "common_fix_ru": "Причина: Слишком бедная смесь в банке 2 (утечка вакуума, неисправные форсунки) | Проверить: Вакуумные шланги, форсунки, датчики O2 | Ремонт: Устранение утечки или замена форсунок | ~2-5 тыс руб | Срочность: 3",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_structured",
-        "fix_round": 143
       },
       "P0175": {
         "note_ru": "Слишком богатая смесь (Блок 2)",
@@ -41637,26 +39829,6 @@
         "fix_strategy": "llm_technical",
         "fix_round": 110
       },
-      "P13641": {
-        "note_ru": "C Camshaft Position Actuator Bank 1 Circuit Short to Ground",
-        "note_en": "C Camshaft Position Actuator Bank 1 Circuit Short to Ground",
-        "common_fix_ru": "Проверить разъем и проводку актуатора фаз газораспределения (банк 1) на короткое замыкание на массу. При обнаружении повреждения проводки заменить участок или весь провод. Если неисправен актуатор, заменить. Стоимость: актуатор 3000-6000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 141
-      },
-      "P13662": {
-        "note_ru": "E Camshaft Position Actuator Bank 1 Signal Invalid",
-        "note_en": "E Camshaft Position Actuator Bank 1 Signal Invalid",
-        "common_fix_ru": "Проверить электрическое соединение актуатора фазорегулятора распредвала (Bank 1), проводку на обрыв. Заменить актуатор (стоимость 4500-7500 руб.). Проверить датчик положения распредвала.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 130
-      },
       "P1400": {
         "note_ru": "Дополнительный датчик дросселя выдает неверные данные, что может привести к нестабильным оборотам холостого хода.",
         "note_en": "Sub-Throttle Position Sensor",
@@ -41664,16 +39836,6 @@
         "frequency": "occasional",
         "severity_override": "medium",
         "source": "dsoprea/DtcLookup"
-      },
-      "P14001": {
-        "note_ru": "Exhaust Gas Recirculation A Control Circuit 2 Circuit Current Below Threshold",
-        "note_en": "Exhaust Gas Recirculation A Control Circuit 2 Circuit Current Below Threshold",
-        "common_fix_ru": "Проверить цепь управления клапаном EGR (разъем, проводку на обрыв/коррозию), измерить сопротивление клапана. Если клапан неисправен (отсутствует перемещение или высокое сопротивление), заменить клапан. Стоимость: клапан 3500-5000 руб., работа 1200 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 139
       },
       "P1401": {
         "note_ru": "Проблема диапазона/работы датчика положения дроссельной заслонки (Sub-Throttle)",
@@ -41741,66 +39903,6 @@
         "fix_strategy": "llm_technical",
         "fix_round": 124
       },
-      "P14200": {
-        "note_ru": "Evaporative Emission Canister (Small Leak)",
-        "note_en": "Evaporative Emission Canister (Small Leak)",
-        "common_fix_ru": "Проверить герметичность системы EVAP: шланги, клапан адсорбера, бензобак. Очистить или заменить уплотнения. Стоимость: 1500–4000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 102
-      },
-      "P14210": {
-        "note_ru": "Evaporative Emission Canister (Gross Leak)",
-        "note_en": "Evaporative Emission Canister (Gross Leak)",
-        "common_fix_ru": "Проверить шланги системы EVAP, клапан адсорбера, пробку бензобака на трещины/утечки. Заменить поврежденные элементы (уплотнения, шланги). Стоимость: 2500–5000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 102
-      },
-      "P14220": {
-        "note_ru": "Evaporative Emission Fuel Tank (Small Leak)",
-        "note_en": "Evaporative Emission Fuel Tank (Small Leak)",
-        "common_fix_ru": "Проверить шланги системы паров топлива (адсорбер, крышка бензобака) на трещины/утечки. При обнаружении повреждения — замена шланга (500-1500 руб) или крышки (1000-2000 руб). Стоимость: 1000-2500 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 126
-      },
-      "P14230": {
-        "note_ru": "Evaporative Emission Fuel Tank (Gross Leak)",
-        "note_en": "Evaporative Emission Fuel Tank (Gross Leak)",
-        "common_fix_ru": "Проверить шланги системы паров топлива, клапан адсорбера и уплотнение крышки бензобака. При утечке — замена уплотнения или шланга. Стоимость: 1100–2900 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 144
-      },
-      "P14501": {
-        "note_ru": "Fuel Tank Pressure Sensor Circuit Short to Ground",
-        "note_en": "Fuel Tank Pressure Sensor Circuit Short to Ground",
-        "common_fix_ru": "Причина: Короткое замыкание цепи датчика давления топливного бака на массу | Проверить: Целостность проводки, разъемы, датчик | Ремонт: Замена датчика или устранение короткого замыкания | ~3-5 тыс руб | Срочность: 3",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_structured",
-        "fix_round": 143
-      },
-      "P14502": {
-        "note_ru": "Fuel Tank Pressure Sensor Signal Stuck in Range",
-        "note_en": "Fuel Tank Pressure Sensor Signal Stuck in Range",
-        "common_fix_ru": "Проверить датчик давления топливного бака. При застревании — заменить датчик. Стоимость датчика: 2400–4200 руб., работа: 1000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 97
-      },
       "P1500": {
         "note_ru": "Неисправность цепи сигнала стартера",
         "note_en": "Starter Signal Circuit",
@@ -41860,16 +39962,6 @@
         "source": "dsoprea/DtcLookup",
         "fix_strategy": "llm_technical",
         "fix_round": 124
-      },
-      "P1585": {
-        "note_ru": "Acceleration Sensor Circuit",
-        "note_en": "Acceleration Sensor Circuit",
-        "common_fix_ru": "Проверить датчик ускорения (Acceleration Sensor), разъем и проводку. Очистить контакты или заменить датчик. Стоимость: 2 000–3 000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 98
       },
       "P15850": {
         "note_ru": "Сбой внутренней системы цепи датчика ускорения",
@@ -42743,114 +40835,6 @@
         "system_id": "engine",
         "can_drive": "yes_caution"
       },
-      "P22511": {
-        "note_ru": "O2 Sensor Negative Current Control Bank 1 Sensor 1 Circuit Short to Ground",
-        "note_en": "O2 Sensor Negative Current Control Bank 1 Sensor 1 Circuit Short to Ground",
-        "common_fix_ru": "Проверить проводку и разъем кислородного датчика (банк 1, датчик 1) на короткое замыкание. Заменить датчик (стоимость 2500-5000 руб.) при неисправности.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 103
-      },
-      "P2252": {
-        "note_ru": "Oxygen Sensor Reference Ground Circuit Low (for A/F sensor) (Bank 1 Sensor 1)",
-        "note_en": "Oxygen Sensor Reference Ground Circuit Low (for A/F sensor) (Bank 1 Sensor 1)",
-        "common_fix_ru": "1) Причина: Обрыв заземления датчика кислорода (80%). 2) Проверить: Заземляющий провод и крепление. 3) Далее: Замена провода. 4) Ремонт: ~500 руб",
-        "frequency": "occasional",
-        "severity_override": "warning",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_diagnostic",
-        "fix_round": 118,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P2253": {
-        "note_ru": "Oxygen Sensor Reference Ground Circuit High (for A/F sensor) (Bank 1 Sensor 1)",
-        "note_en": "Oxygen Sensor Reference Ground Circuit High (for A/F sensor) (Bank 1 Sensor 1)",
-        "common_fix_ru": "Проверить разъем и проводку датчика кислорода (Bank 1 Sensor 1). При замыкании на массу — заменить датчик. Стоимость: 3000–6000 руб. (замена датчика).",
-        "frequency": "occasional",
-        "severity_override": "warning",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 145,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P22541": {
-        "note_ru": "O2 Sensor Negative Current Control Bank 2 Sensor 1 Circuit Short to Ground",
-        "note_en": "O2 Sensor Negative Current Control Bank 2 Sensor 1 Circuit Short to Ground",
-        "common_fix_ru": "Проверить проводку датчика кислорода (Bank 2, Sensor 1) на короткое замыкание на землю. Заменить датчик (стоимость 3200-5000 руб.). Проверить разъем на коррозию.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 130
-      },
-      "P2255": {
-        "note_ru": "Oxygen Sensor Reference Ground Circuit Low (for A/F sensor) (Bank 2 Sensor 1)",
-        "note_en": "Oxygen Sensor Reference Ground Circuit Low (for A/F sensor) (Bank 2 Sensor 1)",
-        "common_fix_ru": "Датчик давления топлива. Ломается при поломке датчика или засорении системы. Самостоятельно заменить можно за 15 минут. Стоимость детали: 1800 руб. В сервисе: 2500 руб. (деталь + диагностика). Пример: на Camry заменил на 1800 руб., а в сервисе 3200 — не советую.",
-        "frequency": "occasional",
-        "severity_override": "warning",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_creative",
-        "fix_round": 125,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P2256": {
-        "note_ru": "Oxygen Sensor Reference Ground Circuit High (for A/F sensor) (Bank 2 Sensor 1)",
-        "note_en": "Oxygen Sensor Reference Ground Circuit High (for A/F sensor) (Bank 2 Sensor 1)",
-        "common_fix_ru": "Датчик давления турбонаддува (для дизелей Toyota). Ломается при засорении или повреждении датчика. Самостоятельно заменить можно: откручиваем старый, ставим новый. Стоимость детали: 2000 руб. В сервисе: 2500 руб. (деталь + диагностика). Реальный пример: на Hilux заменил сам за 2000 руб., а в сервисе за 3500.",
-        "frequency": "occasional",
-        "severity_override": "warning",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_creative",
-        "fix_round": 125,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P22701": {
-        "note_ru": "A/F (O2) Sensor Signal Biased/Stuck Lean Bank 1 Sensor 2 Circuit Current Above Threshold",
-        "note_en": "A/F (O2) Sensor Signal Biased/Stuck Lean Bank 1 Sensor 2 Circuit Current Above Threshold",
-        "common_fix_ru": "Проверить кислородный датчик (банк 1, датчик 2), проводку на обрыв/короткое замыкание. При неисправности — заменить датчик. Стоимость: датчик 3000-5000 руб., замена 1000 руб. (итого 4000-6000 руб).",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 147
-      },
-      "P22711": {
-        "note_ru": "A/F (O2) Sensor Signal Biased/Stuck Rich Bank 1 Sensor 2 Circuit Current Below Threshold",
-        "note_en": "A/F (O2) Sensor Signal Biased/Stuck Rich Bank 1 Sensor 2 Circuit Current Below Threshold",
-        "common_fix_ru": "Проверить датчик кислорода (банк 1, датчик 2), проводку и разъем. Заменить датчик при обнаружении короткого замыкания. Стоимость: 4000–7000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 102
-      },
-      "P24007": {
-        "note_ru": "Evaporative Emission System Leak Detection Pump Control Circuit Actuator Stuck On",
-        "note_en": "Evaporative Emission System Leak Detection Pump Control Circuit Actuator Stuck On",
-        "common_fix_ru": "Проверить насос утечек системы EVAP (на баке), разъем и цепь. При застревании насоса заменить. Стоимость: 4000-7000 руб. (насос + работа).",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 104
-      },
-      "P24187": {
-        "note_ru": "Evaporative Emission System Switching Valve Control Circuit Actuator Stuck On",
-        "note_en": "Evaporative Emission System Switching Valve Control Circuit Actuator Stuck On",
-        "common_fix_ru": "Проверить электромагнитный клапан системы EVAP, заменить клапан (стоимость: 1500-3000 руб). Стоимость ремонта: 2000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 128
-      },
       "P24507": {
         "note_ru": "Клапан управления системой испарения топлива застрял в положении ВКЛ",
         "note_en": "Evaporative Emission System Switching Valve Actuator Stuck On",
@@ -43569,16 +41553,6 @@
         "fix_strategy": "llm_technical",
         "fix_round": 97
       },
-      "P31531": {
-        "note_ru": "DC/DC Converter Current Sensor Circuit Current Out of Range",
-        "note_en": "DC/DC Converter Current Sensor Circuit Current Out of Range",
-        "common_fix_ru": "Проверить датчик тока DC/DC-конвертера, разъем и проводку на обрыв/короткое замыкание. Ремонт: замена датчика тока. Стоимость: 5000-8000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 124
-      },
       "P31900": {
         "note_ru": "Низкая мощность двигателя",
         "note_en": "Poor Engine Power",
@@ -43620,16 +41594,6 @@
         "fix_round": 113,
         "system_id": "ev",
         "can_drive": "yes_caution"
-      },
-      "U00748": {
-        "note_ru": "Control Module Communication Bus B Off Bus Off",
-        "note_en": "Control Module Communication Bus B Off Bus Off",
-        "common_fix_ru": "Ошибка коммуникации между модулями (CAN-шина). Чаще всего из-за окисления разъемов. Самостоятельно: почистите разъемы спиртом (ничего не стоит). В сервисе: диагностика 1000 руб. Если не помогло – замена модуля 8000 руб. Самостоятельно – 0 руб. Это легко исправить, не бегите в сервис!",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_creative",
-        "fix_round": 85
       },
       "U0100": {
         "note_ru": "Нет связи с ЭБУ двигателя по CAN-шине. Проверить предохранители, проводку CAN-H/CAN-L.",
@@ -43999,16 +41963,6 @@
         "fix_strategy": "llm_technical",
         "fix_round": 136
       },
-      "C00639": {
-        "note_ru": "Yaw Rate Sensor Component Internal Failure",
-        "note_en": "Yaw Rate Sensor Component Internal Failure",
-        "common_fix_ru": "Заменить датчик курсовой устойчивости (Yaw Rate Sensor). Проверка не требуется — внутренняя неисправность. Стоимость датчика: 9500–12500 руб, замена: 1000 руб (итого 10500–13500 руб).",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 99
-      },
       "C0200": {
         "note_ru": "Wheel sensor - FR Датчик ABS - передний правый",
         "note_en": "Wheel sensor - FR Датчик ABS - передний правый",
@@ -46609,70 +44563,6 @@
         "system_id": "engine",
         "can_drive": "yes_caution"
       },
-      "P01561": {
-        "note_ru": "O2 Sensor Circuit Bank 2 Sensor 2 Circuit Short to Ground",
-        "note_en": "O2 Sensor Circuit Bank 2 Sensor 2 Circuit Short to Ground",
-        "common_fix_ru": "Проверить проводку датчика кислорода (Bank 2, Sensor 2), особенно в зоне крепления к выхлопной системе. Заменить датчик, если обнаружено короткое замыкание. Стоимость: 2 000–4 000 руб. (датчик).",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 119
-      },
-      "P01562": {
-        "note_ru": "O2 Sensor Circuit Bank 2 Sensor 2 Signal Stuck Low",
-        "note_en": "O2 Sensor Circuit Bank 2 Sensor 2 Signal Stuck Low",
-        "common_fix_ru": "Проверить проводку и разъем датчика кислорода (Bank 2, Sensor 2). Заменить датчик (2000-4000 руб.) при обнаружении короткого замыкания или повреждения проводки.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 134
-      },
-      "P0157": {
-        "note_ru": "Oxygen Sensor Circuit Low Voltage (Bank 2 Sensor 2)",
-        "note_en": "Oxygen Sensor Circuit Low Voltage (Bank 2 Sensor 2)",
-        "common_fix_ru": "Проверить датчик кислорода Bank 2 Sensor 2, заменить датчик (стоимость: 2500-4500 руб). Стоимость ремонта: 3000 руб.",
-        "frequency": "occasional",
-        "severity_override": "warning",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 128,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P0158": {
-        "note_ru": "Oxygen Sensor Circuit High Voltage (Bank 2 Sensor 2)",
-        "note_en": "Oxygen Sensor Circuit High Voltage (Bank 2 Sensor 2)",
-        "common_fix_ru": "Проверить разъем датчика кислорода (Bank 2, Sensor 2) на коррозию/повреждение. Измерить сопротивление проводки. При неисправности датчика заменить. Стоимость: 3500–4500 руб. (датчик + установка).",
-        "frequency": "occasional",
-        "severity_override": "warning",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 113,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P01611": {
-        "note_ru": "O2 Sensor Heater Circuit Bank 2 Sensor 2 Circuit Current Below",
-        "note_en": "O2 Sensor Heater Circuit Bank 2 Sensor 2 Circuit Current Below",
-        "common_fix_ru": "Проверить разъем и проводку датчика кислорода (Bank 2, Sensor 2), при неисправности — замена датчика. Стоимость: 2100–5300 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 144
-      },
-      "P01710": {
-        "note_ru": "System Too Lean Bank 1",
-        "note_en": "System Too Lean Bank 1",
-        "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF), подсосы во впускном тракте, топливный насос. При неисправности MAF — заменить датчик (стоимость: 3500–6000 руб.).",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 146
-      },
       "P0172": {
         "note_ru": "Слишком богатая смесь, банк 1. Проверить давление топлива, форсунки, датчик кислорода.",
         "note_en": "System Too Rich (Bank 1)",
@@ -46684,38 +44574,6 @@
         "fix_round": 131,
         "system_id": "engine",
         "can_drive": "yes_caution"
-      },
-      "P01720": {
-        "note_ru": "System Too Rich Bank 1",
-        "note_en": "System Too Rich Bank 1",
-        "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF) на неисправность. Заменить MAF при обнаружении дефекта. Стоимость: 3500–6000 руб. (MAF 3000–5000 руб., работа 500–1000 руб.).",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 132
-      },
-      "P0174": {
-        "note_ru": "System Too Lean (Bank 2)",
-        "note_en": "System Too Lean (Bank 2)",
-        "common_fix_ru": "Проверить датчик кислорода (банк 2), топливные форсунки и воздушный фильтр. При засорении форсунок провести очистку. Стоимость: очистка форсунок 2500 руб., замена датчика 2000 руб.",
-        "frequency": "occasional",
-        "severity_override": "info",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 139,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P01740": {
-        "note_ru": "System Too Lean Bank 2",
-        "note_en": "System Too Lean Bank 2",
-        "common_fix_ru": "Причина: Слишком бедная смесь в банке 2 (утечка вакуума, неисправные форсунки) | Проверить: Вакуумные шланги, форсунки, датчики O2 | Ремонт: Устранение утечки или замена форсунок | ~2-5 тыс руб | Срочность: 3",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_structured",
-        "fix_round": 143
       },
       "P0175": {
         "note_ru": "Слишком богатая смесь (Блок 2)",
@@ -48933,26 +46791,6 @@
         "fix_strategy": "llm_technical",
         "fix_round": 110
       },
-      "P13641": {
-        "note_ru": "C Camshaft Position Actuator Bank 1 Circuit Short to Ground",
-        "note_en": "C Camshaft Position Actuator Bank 1 Circuit Short to Ground",
-        "common_fix_ru": "Проверить разъем и проводку актуатора фаз газораспределения (банк 1) на короткое замыкание на массу. При обнаружении повреждения проводки заменить участок или весь провод. Если неисправен актуатор, заменить. Стоимость: актуатор 3000-6000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 141
-      },
-      "P13662": {
-        "note_ru": "E Camshaft Position Actuator Bank 1 Signal Invalid",
-        "note_en": "E Camshaft Position Actuator Bank 1 Signal Invalid",
-        "common_fix_ru": "Проверить электрическое соединение актуатора фазорегулятора распредвала (Bank 1), проводку на обрыв. Заменить актуатор (стоимость 4500-7500 руб.). Проверить датчик положения распредвала.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 130
-      },
       "P1400": {
         "note_ru": "Дополнительный датчик дросселя выдает неверные данные, что может привести к нестабильным оборотам холостого хода.",
         "note_en": "Sub-Throttle Position Sensor",
@@ -48960,16 +46798,6 @@
         "frequency": "occasional",
         "severity_override": "medium",
         "source": "dsoprea/DtcLookup"
-      },
-      "P14001": {
-        "note_ru": "Exhaust Gas Recirculation A Control Circuit 2 Circuit Current Below Threshold",
-        "note_en": "Exhaust Gas Recirculation A Control Circuit 2 Circuit Current Below Threshold",
-        "common_fix_ru": "Проверить цепь управления клапаном EGR (разъем, проводку на обрыв/коррозию), измерить сопротивление клапана. Если клапан неисправен (отсутствует перемещение или высокое сопротивление), заменить клапан. Стоимость: клапан 3500-5000 руб., работа 1200 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 139
       },
       "P1401": {
         "note_ru": "Проблема диапазона/работы датчика положения дроссельной заслонки (Sub-Throttle)",
@@ -49037,66 +46865,6 @@
         "fix_strategy": "llm_technical",
         "fix_round": 124
       },
-      "P14200": {
-        "note_ru": "Evaporative Emission Canister (Small Leak)",
-        "note_en": "Evaporative Emission Canister (Small Leak)",
-        "common_fix_ru": "Проверить герметичность системы EVAP: шланги, клапан адсорбера, бензобак. Очистить или заменить уплотнения. Стоимость: 1500–4000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 102
-      },
-      "P14210": {
-        "note_ru": "Evaporative Emission Canister (Gross Leak)",
-        "note_en": "Evaporative Emission Canister (Gross Leak)",
-        "common_fix_ru": "Проверить шланги системы EVAP, клапан адсорбера, пробку бензобака на трещины/утечки. Заменить поврежденные элементы (уплотнения, шланги). Стоимость: 2500–5000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 102
-      },
-      "P14220": {
-        "note_ru": "Evaporative Emission Fuel Tank (Small Leak)",
-        "note_en": "Evaporative Emission Fuel Tank (Small Leak)",
-        "common_fix_ru": "Проверить шланги системы паров топлива (адсорбер, крышка бензобака) на трещины/утечки. При обнаружении повреждения — замена шланга (500-1500 руб) или крышки (1000-2000 руб). Стоимость: 1000-2500 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 126
-      },
-      "P14230": {
-        "note_ru": "Evaporative Emission Fuel Tank (Gross Leak)",
-        "note_en": "Evaporative Emission Fuel Tank (Gross Leak)",
-        "common_fix_ru": "Проверить шланги системы паров топлива, клапан адсорбера и уплотнение крышки бензобака. При утечке — замена уплотнения или шланга. Стоимость: 1100–2900 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 144
-      },
-      "P14501": {
-        "note_ru": "Fuel Tank Pressure Sensor Circuit Short to Ground",
-        "note_en": "Fuel Tank Pressure Sensor Circuit Short to Ground",
-        "common_fix_ru": "Причина: Короткое замыкание цепи датчика давления топливного бака на массу | Проверить: Целостность проводки, разъемы, датчик | Ремонт: Замена датчика или устранение короткого замыкания | ~3-5 тыс руб | Срочность: 3",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_structured",
-        "fix_round": 143
-      },
-      "P14502": {
-        "note_ru": "Fuel Tank Pressure Sensor Signal Stuck in Range",
-        "note_en": "Fuel Tank Pressure Sensor Signal Stuck in Range",
-        "common_fix_ru": "Проверить датчик давления топливного бака. При застревании — заменить датчик. Стоимость датчика: 2400–4200 руб., работа: 1000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 97
-      },
       "P1500": {
         "note_ru": "Неисправность цепи сигнала стартера",
         "note_en": "Starter Signal Circuit",
@@ -49156,16 +46924,6 @@
         "source": "dsoprea/DtcLookup",
         "fix_strategy": "llm_technical",
         "fix_round": 124
-      },
-      "P1585": {
-        "note_ru": "Acceleration Sensor Circuit",
-        "note_en": "Acceleration Sensor Circuit",
-        "common_fix_ru": "Проверить датчик ускорения (Acceleration Sensor), разъем и проводку. Очистить контакты или заменить датчик. Стоимость: 2 000–3 000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 98
       },
       "P15850": {
         "note_ru": "Сбой внутренней системы цепи датчика ускорения",
@@ -50039,114 +47797,6 @@
         "system_id": "engine",
         "can_drive": "yes_caution"
       },
-      "P22511": {
-        "note_ru": "O2 Sensor Negative Current Control Bank 1 Sensor 1 Circuit Short to Ground",
-        "note_en": "O2 Sensor Negative Current Control Bank 1 Sensor 1 Circuit Short to Ground",
-        "common_fix_ru": "Проверить проводку и разъем кислородного датчика (банк 1, датчик 1) на короткое замыкание. Заменить датчик (стоимость 2500-5000 руб.) при неисправности.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 103
-      },
-      "P2252": {
-        "note_ru": "Oxygen Sensor Reference Ground Circuit Low (for A/F sensor) (Bank 1 Sensor 1)",
-        "note_en": "Oxygen Sensor Reference Ground Circuit Low (for A/F sensor) (Bank 1 Sensor 1)",
-        "common_fix_ru": "1) Причина: Обрыв заземления датчика кислорода (80%). 2) Проверить: Заземляющий провод и крепление. 3) Далее: Замена провода. 4) Ремонт: ~500 руб",
-        "frequency": "occasional",
-        "severity_override": "warning",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_diagnostic",
-        "fix_round": 118,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P2253": {
-        "note_ru": "Oxygen Sensor Reference Ground Circuit High (for A/F sensor) (Bank 1 Sensor 1)",
-        "note_en": "Oxygen Sensor Reference Ground Circuit High (for A/F sensor) (Bank 1 Sensor 1)",
-        "common_fix_ru": "Проверить разъем и проводку датчика кислорода (Bank 1 Sensor 1). При замыкании на массу — заменить датчик. Стоимость: 3000–6000 руб. (замена датчика).",
-        "frequency": "occasional",
-        "severity_override": "warning",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 145,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P22541": {
-        "note_ru": "O2 Sensor Negative Current Control Bank 2 Sensor 1 Circuit Short to Ground",
-        "note_en": "O2 Sensor Negative Current Control Bank 2 Sensor 1 Circuit Short to Ground",
-        "common_fix_ru": "Проверить проводку датчика кислорода (Bank 2, Sensor 1) на короткое замыкание на землю. Заменить датчик (стоимость 3200-5000 руб.). Проверить разъем на коррозию.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 130
-      },
-      "P2255": {
-        "note_ru": "Oxygen Sensor Reference Ground Circuit Low (for A/F sensor) (Bank 2 Sensor 1)",
-        "note_en": "Oxygen Sensor Reference Ground Circuit Low (for A/F sensor) (Bank 2 Sensor 1)",
-        "common_fix_ru": "Датчик давления топлива. Ломается при поломке датчика или засорении системы. Самостоятельно заменить можно за 15 минут. Стоимость детали: 1800 руб. В сервисе: 2500 руб. (деталь + диагностика). Пример: на Camry заменил на 1800 руб., а в сервисе 3200 — не советую.",
-        "frequency": "occasional",
-        "severity_override": "warning",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_creative",
-        "fix_round": 125,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P2256": {
-        "note_ru": "Oxygen Sensor Reference Ground Circuit High (for A/F sensor) (Bank 2 Sensor 1)",
-        "note_en": "Oxygen Sensor Reference Ground Circuit High (for A/F sensor) (Bank 2 Sensor 1)",
-        "common_fix_ru": "Датчик давления турбонаддува (для дизелей Toyota). Ломается при засорении или повреждении датчика. Самостоятельно заменить можно: откручиваем старый, ставим новый. Стоимость детали: 2000 руб. В сервисе: 2500 руб. (деталь + диагностика). Реальный пример: на Hilux заменил сам за 2000 руб., а в сервисе за 3500.",
-        "frequency": "occasional",
-        "severity_override": "warning",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_creative",
-        "fix_round": 125,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P22701": {
-        "note_ru": "A/F (O2) Sensor Signal Biased/Stuck Lean Bank 1 Sensor 2 Circuit Current Above Threshold",
-        "note_en": "A/F (O2) Sensor Signal Biased/Stuck Lean Bank 1 Sensor 2 Circuit Current Above Threshold",
-        "common_fix_ru": "Проверить кислородный датчик (банк 1, датчик 2), проводку на обрыв/короткое замыкание. При неисправности — заменить датчик. Стоимость: датчик 3000-5000 руб., замена 1000 руб. (итого 4000-6000 руб).",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 147
-      },
-      "P22711": {
-        "note_ru": "A/F (O2) Sensor Signal Biased/Stuck Rich Bank 1 Sensor 2 Circuit Current Below Threshold",
-        "note_en": "A/F (O2) Sensor Signal Biased/Stuck Rich Bank 1 Sensor 2 Circuit Current Below Threshold",
-        "common_fix_ru": "Проверить датчик кислорода (банк 1, датчик 2), проводку и разъем. Заменить датчик при обнаружении короткого замыкания. Стоимость: 4000–7000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 102
-      },
-      "P24007": {
-        "note_ru": "Evaporative Emission System Leak Detection Pump Control Circuit Actuator Stuck On",
-        "note_en": "Evaporative Emission System Leak Detection Pump Control Circuit Actuator Stuck On",
-        "common_fix_ru": "Проверить насос утечек системы EVAP (на баке), разъем и цепь. При застревании насоса заменить. Стоимость: 4000-7000 руб. (насос + работа).",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 104
-      },
-      "P24187": {
-        "note_ru": "Evaporative Emission System Switching Valve Control Circuit Actuator Stuck On",
-        "note_en": "Evaporative Emission System Switching Valve Control Circuit Actuator Stuck On",
-        "common_fix_ru": "Проверить электромагнитный клапан системы EVAP, заменить клапан (стоимость: 1500-3000 руб). Стоимость ремонта: 2000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 128
-      },
       "P24507": {
         "note_ru": "Клапан управления системой испарения топлива застрял в положении ВКЛ",
         "note_en": "Evaporative Emission System Switching Valve Actuator Stuck On",
@@ -50865,16 +48515,6 @@
         "fix_strategy": "llm_technical",
         "fix_round": 97
       },
-      "P31531": {
-        "note_ru": "DC/DC Converter Current Sensor Circuit Current Out of Range",
-        "note_en": "DC/DC Converter Current Sensor Circuit Current Out of Range",
-        "common_fix_ru": "Проверить датчик тока DC/DC-конвертера, разъем и проводку на обрыв/короткое замыкание. Ремонт: замена датчика тока. Стоимость: 5000-8000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 124
-      },
       "P31900": {
         "note_ru": "Низкая мощность двигателя",
         "note_en": "Poor Engine Power",
@@ -50916,16 +48556,6 @@
         "fix_round": 113,
         "system_id": "ev",
         "can_drive": "yes_caution"
-      },
-      "U00748": {
-        "note_ru": "Control Module Communication Bus B Off Bus Off",
-        "note_en": "Control Module Communication Bus B Off Bus Off",
-        "common_fix_ru": "Ошибка коммуникации между модулями (CAN-шина). Чаще всего из-за окисления разъемов. Самостоятельно: почистите разъемы спиртом (ничего не стоит). В сервисе: диагностика 1000 руб. Если не помогло – замена модуля 8000 руб. Самостоятельно – 0 руб. Это легко исправить, не бегите в сервис!",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_creative",
-        "fix_round": 85
       },
       "U0100": {
         "note_ru": "Нет связи с ЭБУ двигателя по CAN-шине. Проверить предохранители, проводку CAN-H/CAN-L.",
@@ -51279,16 +48909,6 @@
         "fix_strategy": "llm_technical",
         "fix_round": 136
       },
-      "C00639": {
-        "note_ru": "Yaw Rate Sensor Component Internal Failure",
-        "note_en": "Yaw Rate Sensor Component Internal Failure",
-        "common_fix_ru": "Заменить датчик курсовой устойчивости (Yaw Rate Sensor). Проверка не требуется — внутренняя неисправность. Стоимость датчика: 9500–12500 руб, замена: 1000 руб (итого 10500–13500 руб).",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 99
-      },
       "C0200": {
         "note_ru": "Wheel sensor - FR Датчик ABS - передний правый",
         "note_en": "Wheel sensor - FR Датчик ABS - передний правый",
@@ -53889,70 +51509,6 @@
         "system_id": "engine",
         "can_drive": "yes_caution"
       },
-      "P01561": {
-        "note_ru": "O2 Sensor Circuit Bank 2 Sensor 2 Circuit Short to Ground",
-        "note_en": "O2 Sensor Circuit Bank 2 Sensor 2 Circuit Short to Ground",
-        "common_fix_ru": "Проверить проводку датчика кислорода (Bank 2, Sensor 2), особенно в зоне крепления к выхлопной системе. Заменить датчик, если обнаружено короткое замыкание. Стоимость: 2 000–4 000 руб. (датчик).",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 119
-      },
-      "P01562": {
-        "note_ru": "O2 Sensor Circuit Bank 2 Sensor 2 Signal Stuck Low",
-        "note_en": "O2 Sensor Circuit Bank 2 Sensor 2 Signal Stuck Low",
-        "common_fix_ru": "Проверить проводку и разъем датчика кислорода (Bank 2, Sensor 2). Заменить датчик (2000-4000 руб.) при обнаружении короткого замыкания или повреждения проводки.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 134
-      },
-      "P0157": {
-        "note_ru": "Oxygen Sensor Circuit Low Voltage (Bank 2 Sensor 2)",
-        "note_en": "Oxygen Sensor Circuit Low Voltage (Bank 2 Sensor 2)",
-        "common_fix_ru": "Проверить датчик кислорода Bank 2 Sensor 2, заменить датчик (стоимость: 2500-4500 руб). Стоимость ремонта: 3000 руб.",
-        "frequency": "occasional",
-        "severity_override": "warning",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 128,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P0158": {
-        "note_ru": "Oxygen Sensor Circuit High Voltage (Bank 2 Sensor 2)",
-        "note_en": "Oxygen Sensor Circuit High Voltage (Bank 2 Sensor 2)",
-        "common_fix_ru": "Проверить разъем датчика кислорода (Bank 2, Sensor 2) на коррозию/повреждение. Измерить сопротивление проводки. При неисправности датчика заменить. Стоимость: 3500–4500 руб. (датчик + установка).",
-        "frequency": "occasional",
-        "severity_override": "warning",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 113,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P01611": {
-        "note_ru": "O2 Sensor Heater Circuit Bank 2 Sensor 2 Circuit Current Below",
-        "note_en": "O2 Sensor Heater Circuit Bank 2 Sensor 2 Circuit Current Below",
-        "common_fix_ru": "Проверить разъем и проводку датчика кислорода (Bank 2, Sensor 2), при неисправности — замена датчика. Стоимость: 2100–5300 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 144
-      },
-      "P01710": {
-        "note_ru": "System Too Lean Bank 1",
-        "note_en": "System Too Lean Bank 1",
-        "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF), подсосы во впускном тракте, топливный насос. При неисправности MAF — заменить датчик (стоимость: 3500–6000 руб.).",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 146
-      },
       "P0172": {
         "note_ru": "Слишком богатая смесь, банк 1. Проверить давление топлива, форсунки, датчик кислорода.",
         "note_en": "System Too Rich (Bank 1)",
@@ -53964,38 +51520,6 @@
         "fix_round": 131,
         "system_id": "engine",
         "can_drive": "yes_caution"
-      },
-      "P01720": {
-        "note_ru": "System Too Rich Bank 1",
-        "note_en": "System Too Rich Bank 1",
-        "common_fix_ru": "Проверить датчик массового расхода воздуха (MAF) на неисправность. Заменить MAF при обнаружении дефекта. Стоимость: 3500–6000 руб. (MAF 3000–5000 руб., работа 500–1000 руб.).",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 132
-      },
-      "P0174": {
-        "note_ru": "System Too Lean (Bank 2)",
-        "note_en": "System Too Lean (Bank 2)",
-        "common_fix_ru": "Проверить датчик кислорода (банк 2), топливные форсунки и воздушный фильтр. При засорении форсунок провести очистку. Стоимость: очистка форсунок 2500 руб., замена датчика 2000 руб.",
-        "frequency": "occasional",
-        "severity_override": "info",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 139,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P01740": {
-        "note_ru": "System Too Lean Bank 2",
-        "note_en": "System Too Lean Bank 2",
-        "common_fix_ru": "Причина: Слишком бедная смесь в банке 2 (утечка вакуума, неисправные форсунки) | Проверить: Вакуумные шланги, форсунки, датчики O2 | Ремонт: Устранение утечки или замена форсунок | ~2-5 тыс руб | Срочность: 3",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_structured",
-        "fix_round": 143
       },
       "P0175": {
         "note_ru": "Слишком богатая смесь (Блок 2)",
@@ -56213,26 +53737,6 @@
         "fix_strategy": "llm_technical",
         "fix_round": 110
       },
-      "P13641": {
-        "note_ru": "C Camshaft Position Actuator Bank 1 Circuit Short to Ground",
-        "note_en": "C Camshaft Position Actuator Bank 1 Circuit Short to Ground",
-        "common_fix_ru": "Проверить разъем и проводку актуатора фаз газораспределения (банк 1) на короткое замыкание на массу. При обнаружении повреждения проводки заменить участок или весь провод. Если неисправен актуатор, заменить. Стоимость: актуатор 3000-6000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 141
-      },
-      "P13662": {
-        "note_ru": "E Camshaft Position Actuator Bank 1 Signal Invalid",
-        "note_en": "E Camshaft Position Actuator Bank 1 Signal Invalid",
-        "common_fix_ru": "Проверить электрическое соединение актуатора фазорегулятора распредвала (Bank 1), проводку на обрыв. Заменить актуатор (стоимость 4500-7500 руб.). Проверить датчик положения распредвала.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 130
-      },
       "P1400": {
         "note_ru": "Дополнительный датчик дросселя выдает неверные данные, что может привести к нестабильным оборотам холостого хода.",
         "note_en": "Sub-Throttle Position Sensor",
@@ -56240,16 +53744,6 @@
         "frequency": "occasional",
         "severity_override": "medium",
         "source": "dsoprea/DtcLookup"
-      },
-      "P14001": {
-        "note_ru": "Exhaust Gas Recirculation A Control Circuit 2 Circuit Current Below Threshold",
-        "note_en": "Exhaust Gas Recirculation A Control Circuit 2 Circuit Current Below Threshold",
-        "common_fix_ru": "Проверить цепь управления клапаном EGR (разъем, проводку на обрыв/коррозию), измерить сопротивление клапана. Если клапан неисправен (отсутствует перемещение или высокое сопротивление), заменить клапан. Стоимость: клапан 3500-5000 руб., работа 1200 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 139
       },
       "P1401": {
         "note_ru": "Проблема диапазона/работы датчика положения дроссельной заслонки (Sub-Throttle)",
@@ -56317,66 +53811,6 @@
         "fix_strategy": "llm_technical",
         "fix_round": 124
       },
-      "P14200": {
-        "note_ru": "Evaporative Emission Canister (Small Leak)",
-        "note_en": "Evaporative Emission Canister (Small Leak)",
-        "common_fix_ru": "Проверить герметичность системы EVAP: шланги, клапан адсорбера, бензобак. Очистить или заменить уплотнения. Стоимость: 1500–4000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 102
-      },
-      "P14210": {
-        "note_ru": "Evaporative Emission Canister (Gross Leak)",
-        "note_en": "Evaporative Emission Canister (Gross Leak)",
-        "common_fix_ru": "Проверить шланги системы EVAP, клапан адсорбера, пробку бензобака на трещины/утечки. Заменить поврежденные элементы (уплотнения, шланги). Стоимость: 2500–5000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 102
-      },
-      "P14220": {
-        "note_ru": "Evaporative Emission Fuel Tank (Small Leak)",
-        "note_en": "Evaporative Emission Fuel Tank (Small Leak)",
-        "common_fix_ru": "Проверить шланги системы паров топлива (адсорбер, крышка бензобака) на трещины/утечки. При обнаружении повреждения — замена шланга (500-1500 руб) или крышки (1000-2000 руб). Стоимость: 1000-2500 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 126
-      },
-      "P14230": {
-        "note_ru": "Evaporative Emission Fuel Tank (Gross Leak)",
-        "note_en": "Evaporative Emission Fuel Tank (Gross Leak)",
-        "common_fix_ru": "Проверить шланги системы паров топлива, клапан адсорбера и уплотнение крышки бензобака. При утечке — замена уплотнения или шланга. Стоимость: 1100–2900 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 144
-      },
-      "P14501": {
-        "note_ru": "Fuel Tank Pressure Sensor Circuit Short to Ground",
-        "note_en": "Fuel Tank Pressure Sensor Circuit Short to Ground",
-        "common_fix_ru": "Причина: Короткое замыкание цепи датчика давления топливного бака на массу | Проверить: Целостность проводки, разъемы, датчик | Ремонт: Замена датчика или устранение короткого замыкания | ~3-5 тыс руб | Срочность: 3",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_structured",
-        "fix_round": 143
-      },
-      "P14502": {
-        "note_ru": "Fuel Tank Pressure Sensor Signal Stuck in Range",
-        "note_en": "Fuel Tank Pressure Sensor Signal Stuck in Range",
-        "common_fix_ru": "Проверить датчик давления топливного бака. При застревании — заменить датчик. Стоимость датчика: 2400–4200 руб., работа: 1000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 97
-      },
       "P1500": {
         "note_ru": "Неисправность цепи сигнала стартера",
         "note_en": "Starter Signal Circuit",
@@ -56436,16 +53870,6 @@
         "source": "dsoprea/DtcLookup",
         "fix_strategy": "llm_technical",
         "fix_round": 124
-      },
-      "P1585": {
-        "note_ru": "Acceleration Sensor Circuit",
-        "note_en": "Acceleration Sensor Circuit",
-        "common_fix_ru": "Проверить датчик ускорения (Acceleration Sensor), разъем и проводку. Очистить контакты или заменить датчик. Стоимость: 2 000–3 000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 98
       },
       "P15850": {
         "note_ru": "Сбой внутренней системы цепи датчика ускорения",
@@ -57319,114 +54743,6 @@
         "system_id": "engine",
         "can_drive": "yes_caution"
       },
-      "P22511": {
-        "note_ru": "O2 Sensor Negative Current Control Bank 1 Sensor 1 Circuit Short to Ground",
-        "note_en": "O2 Sensor Negative Current Control Bank 1 Sensor 1 Circuit Short to Ground",
-        "common_fix_ru": "Проверить проводку и разъем кислородного датчика (банк 1, датчик 1) на короткое замыкание. Заменить датчик (стоимость 2500-5000 руб.) при неисправности.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 103
-      },
-      "P2252": {
-        "note_ru": "Oxygen Sensor Reference Ground Circuit Low (for A/F sensor) (Bank 1 Sensor 1)",
-        "note_en": "Oxygen Sensor Reference Ground Circuit Low (for A/F sensor) (Bank 1 Sensor 1)",
-        "common_fix_ru": "1) Причина: Обрыв заземления датчика кислорода (80%). 2) Проверить: Заземляющий провод и крепление. 3) Далее: Замена провода. 4) Ремонт: ~500 руб",
-        "frequency": "occasional",
-        "severity_override": "warning",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_diagnostic",
-        "fix_round": 118,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P2253": {
-        "note_ru": "Oxygen Sensor Reference Ground Circuit High (for A/F sensor) (Bank 1 Sensor 1)",
-        "note_en": "Oxygen Sensor Reference Ground Circuit High (for A/F sensor) (Bank 1 Sensor 1)",
-        "common_fix_ru": "Проверить разъем и проводку датчика кислорода (Bank 1 Sensor 1). При замыкании на массу — заменить датчик. Стоимость: 3000–6000 руб. (замена датчика).",
-        "frequency": "occasional",
-        "severity_override": "warning",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 145,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P22541": {
-        "note_ru": "O2 Sensor Negative Current Control Bank 2 Sensor 1 Circuit Short to Ground",
-        "note_en": "O2 Sensor Negative Current Control Bank 2 Sensor 1 Circuit Short to Ground",
-        "common_fix_ru": "Проверить проводку датчика кислорода (Bank 2, Sensor 1) на короткое замыкание на землю. Заменить датчик (стоимость 3200-5000 руб.). Проверить разъем на коррозию.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 130
-      },
-      "P2255": {
-        "note_ru": "Oxygen Sensor Reference Ground Circuit Low (for A/F sensor) (Bank 2 Sensor 1)",
-        "note_en": "Oxygen Sensor Reference Ground Circuit Low (for A/F sensor) (Bank 2 Sensor 1)",
-        "common_fix_ru": "Датчик давления топлива. Ломается при поломке датчика или засорении системы. Самостоятельно заменить можно за 15 минут. Стоимость детали: 1800 руб. В сервисе: 2500 руб. (деталь + диагностика). Пример: на Camry заменил на 1800 руб., а в сервисе 3200 — не советую.",
-        "frequency": "occasional",
-        "severity_override": "warning",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_creative",
-        "fix_round": 125,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P2256": {
-        "note_ru": "Oxygen Sensor Reference Ground Circuit High (for A/F sensor) (Bank 2 Sensor 1)",
-        "note_en": "Oxygen Sensor Reference Ground Circuit High (for A/F sensor) (Bank 2 Sensor 1)",
-        "common_fix_ru": "Датчик давления турбонаддува (для дизелей Toyota). Ломается при засорении или повреждении датчика. Самостоятельно заменить можно: откручиваем старый, ставим новый. Стоимость детали: 2000 руб. В сервисе: 2500 руб. (деталь + диагностика). Реальный пример: на Hilux заменил сам за 2000 руб., а в сервисе за 3500.",
-        "frequency": "occasional",
-        "severity_override": "warning",
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_creative",
-        "fix_round": 125,
-        "system_id": "engine",
-        "can_drive": "yes_caution"
-      },
-      "P22701": {
-        "note_ru": "A/F (O2) Sensor Signal Biased/Stuck Lean Bank 1 Sensor 2 Circuit Current Above Threshold",
-        "note_en": "A/F (O2) Sensor Signal Biased/Stuck Lean Bank 1 Sensor 2 Circuit Current Above Threshold",
-        "common_fix_ru": "Проверить кислородный датчик (банк 1, датчик 2), проводку на обрыв/короткое замыкание. При неисправности — заменить датчик. Стоимость: датчик 3000-5000 руб., замена 1000 руб. (итого 4000-6000 руб).",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 147
-      },
-      "P22711": {
-        "note_ru": "A/F (O2) Sensor Signal Biased/Stuck Rich Bank 1 Sensor 2 Circuit Current Below Threshold",
-        "note_en": "A/F (O2) Sensor Signal Biased/Stuck Rich Bank 1 Sensor 2 Circuit Current Below Threshold",
-        "common_fix_ru": "Проверить датчик кислорода (банк 1, датчик 2), проводку и разъем. Заменить датчик при обнаружении короткого замыкания. Стоимость: 4000–7000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 102
-      },
-      "P24007": {
-        "note_ru": "Evaporative Emission System Leak Detection Pump Control Circuit Actuator Stuck On",
-        "note_en": "Evaporative Emission System Leak Detection Pump Control Circuit Actuator Stuck On",
-        "common_fix_ru": "Проверить насос утечек системы EVAP (на баке), разъем и цепь. При застревании насоса заменить. Стоимость: 4000-7000 руб. (насос + работа).",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 104
-      },
-      "P24187": {
-        "note_ru": "Evaporative Emission System Switching Valve Control Circuit Actuator Stuck On",
-        "note_en": "Evaporative Emission System Switching Valve Control Circuit Actuator Stuck On",
-        "common_fix_ru": "Проверить электромагнитный клапан системы EVAP, заменить клапан (стоимость: 1500-3000 руб). Стоимость ремонта: 2000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 128
-      },
       "P24507": {
         "note_ru": "Клапан управления системой испарения топлива застрял в положении ВКЛ",
         "note_en": "Evaporative Emission System Switching Valve Actuator Stuck On",
@@ -58145,16 +55461,6 @@
         "fix_strategy": "llm_technical",
         "fix_round": 97
       },
-      "P31531": {
-        "note_ru": "DC/DC Converter Current Sensor Circuit Current Out of Range",
-        "note_en": "DC/DC Converter Current Sensor Circuit Current Out of Range",
-        "common_fix_ru": "Проверить датчик тока DC/DC-конвертера, разъем и проводку на обрыв/короткое замыкание. Ремонт: замена датчика тока. Стоимость: 5000-8000 руб.",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_technical",
-        "fix_round": 124
-      },
       "P31900": {
         "note_ru": "Низкая мощность двигателя",
         "note_en": "Poor Engine Power",
@@ -58196,16 +55502,6 @@
         "fix_round": 113,
         "system_id": "ev",
         "can_drive": "yes_caution"
-      },
-      "U00748": {
-        "note_ru": "Control Module Communication Bus B Off Bus Off",
-        "note_en": "Control Module Communication Bus B Off Bus Off",
-        "common_fix_ru": "Ошибка коммуникации между модулями (CAN-шина). Чаще всего из-за окисления разъемов. Самостоятельно: почистите разъемы спиртом (ничего не стоит). В сервисе: диагностика 1000 руб. Если не помогло – замена модуля 8000 руб. Самостоятельно – 0 руб. Это легко исправить, не бегите в сервис!",
-        "frequency": "occasional",
-        "severity_override": null,
-        "source": "toyota-club.net",
-        "fix_strategy": "llm_creative",
-        "fix_round": 85
       },
       "U0100": {
         "note_ru": "Нет связи с ЭБУ двигателя по CAN-шине. Проверить предохранители, проводку CAN-H/CAN-L.",
