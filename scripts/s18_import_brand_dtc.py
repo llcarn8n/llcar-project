@@ -99,14 +99,13 @@ def main():
                 if not codes:
                     continue
                 count = len(codes) if isinstance(codes, (dict, list)) else 0
-                gens = [d for d in dst_model_dir.iterdir() if d.is_dir()]
-                for gen in gens:
-                    (gen / "dtc_brand_notes.json").write_text(
-                        json.dumps(dd, ensure_ascii=False, indent=2) + "\n",
-                        encoding="utf-8",
-                    )
-                    model_written += 1
-                    total_codes += count
+                # ONE file per model (not per gen) — avoids N-fold duplication
+                (dst_model_dir / "_model_dtc.json").write_text(
+                    json.dumps(dd, ensure_ascii=False, indent=2) + "\n",
+                    encoding="utf-8",
+                )
+                model_written += 1
+                total_codes += count
             except Exception:
                 pass
 
