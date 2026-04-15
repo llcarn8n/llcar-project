@@ -1,0 +1,14 @@
+{
+  "_description": "Mapping from D:/transfer4 brand/model IDs to llcar-dashboard KB IDs",
+  "brands": {
+    "mercedes_benz": "mercedes",
+    "li": "li_auto",
+    "faw_bestune": "bestune"
+  },
+  "models": {
+    "jaguar/f-pace": "jaguar/f_pace",
+    "honda/cr-v": "honda/cr_v",
+    "honda/jazz": "honda/fit",
+    "lexus/es250": "lexus/es"
+  }
+}

@@ -1,0 +1,253 @@
+# ETL UPT brand=toyota → toyota dry=False create_gens=False
+
+## 4runner
+    gen_1990: SKIPPED (no dashboard dir)
+    gen_2009: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=647 gens=3 written=0 added=0 skipped=1 err=-
+
+## _all
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## alphard
+    gen_2018: +646 → total 150 (written)
+  stats: src=647 gens=1 written=150 added=646 skipped=1 err=-
+
+## aristo
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## auris
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## auris_2
+    gen_2018: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=648 gens=2 written=0 added=0 skipped=1 err=-
+
+## avalon
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## avensis
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## avensis_2
+    gen_1997: SKIPPED (no dashboard dir)
+    gen_2008: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=647 gens=3 written=0 added=0 skipped=1 err=-
+
+## c_hr_2
+    gen_2016: SKIPPED (no dashboard dir)
+    gen_2020: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=645 gens=3 written=0 added=0 skipped=1 err=-
+
+## caldina
+    t240_2002: SKIPPED (no dashboard dir)
+  stats: src=651 gens=1 written=0 added=0 skipped=1 err=-
+
+## camry
+    gen_2004: +674 → total 150 (written)
+    gen_2007: +678 → total 150 (written)
+    gen_2014: SKIPPED (no dashboard dir)
+    xv70_2017: +680 → total 150 (written)
+    gen_2020: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=697 gens=6 written=450 added=2032 skipped=1 err=-
+
+## camry-2001
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## camry-2006
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## camry-gracia
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## camry-v40
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## camry-vista-83
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## camry-vista-94
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## camry-xv30
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## camry_2006_ru
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## camry_v40_ru_reocr
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## celica
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## corolla
+    gen_2013: +639 → total 150 (written)
+    e210_2018: +618 → total 150 (written)
+    gen_2022: SKIPPED (no dashboard dir)
+  stats: src=666 gens=3 written=300 added=1257 skipped=1 err=-
+
+## corolla_ax
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## corolla_fielder
+    e120_2000: SKIPPED (no dashboard dir)
+    e140_2006: SKIPPED (no dashboard dir)
+    e160_2012: SKIPPED (no dashboard dir)
+  stats: src=652 gens=3 written=0 added=0 skipped=1 err=-
+
+## corona
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## crown
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=653 gens=1 written=0 added=0 skipped=1 err=-
+
+## fortuner
+    gen_2015: SKIPPED (no dashboard dir)
+  stats: src=648 gens=1 written=0 added=0 skipped=1 err=-
+
+## harrier
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## hiace
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## highlander
+    gen_2016: SKIPPED (no dashboard dir)
+    xu70_2019: +624 → total 150 (written)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=662 gens=3 written=150 added=624 skipped=1 err=-
+
+## hilux
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## hilux_2
+    gen_2015: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=645 gens=2 written=0 added=0 skipped=1 err=-
+
+## hilux_2011
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## hilux_2011_v2_ru_reocr
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## hilux_surf
+    n185_1995: SKIPPED (no dashboard dir)
+    n215_2002: SKIPPED (no dashboard dir)
+  stats: src=652 gens=2 written=0 added=0 skipped=1 err=-
+
+## ipsum
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## land_cruiser
+    gen_2002: +645 → total 150 (written)
+    gen_2009: SKIPPED (no dashboard dir)
+    gen_2013: SKIPPED (no dashboard dir)
+    gen_2017: SKIPPED (no dashboard dir)
+    j300_2021: +640 → total 150 (written)
+    gen_2024: SKIPPED (no dashboard dir)
+    toyota_land_cruiser_70_series__land_crui: SKIPPED (no dashboard dir)
+  stats: src=685 gens=7 written=300 added=1285 skipped=1 err=-
+
+## land_cruiser_prado
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## mark_2
+    x100_1996: SKIPPED (no dashboard dir)
+    x110_2000: SKIPPED (no dashboard dir)
+  stats: src=645 gens=2 written=0 added=0 skipped=1 err=-
+
+## mark_x
+    x120_2004: SKIPPED (no dashboard dir)
+    x130_2009: SKIPPED (no dashboard dir)
+  stats: src=648 gens=2 written=0 added=0 skipped=1 err=-
+
+## noah
+    r70_2007: SKIPPED (no dashboard dir)
+    r80_2014: SKIPPED (no dashboard dir)
+  stats: src=645 gens=2 written=0 added=0 skipped=1 err=-
+
+## prado
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## prado_1996
+    toyota_prado_1996__stub: SKIPPED (no dashboard dir)
+  stats: src=658 gens=1 written=0 added=0 skipped=1 err=-
+
+## prado_2002
+    toyota_prado_2002__stub: SKIPPED (no dashboard dir)
+  stats: src=672 gens=1 written=0 added=0 skipped=1 err=-
+
+## prado_2002_2009
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## prado_2009
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## premio
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## prius
+    gen_2018: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=650 gens=2 written=0 added=0 skipped=1 err=-
+
+## prius_v2_ru_reocr
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## rav4
+    rav4_2026: SKIPPED (no dashboard dir)
+    rav4_2018: +656 → total 150 (written)
+    rav4_2023: SKIPPED (no dashboard dir)
+  stats: src=657 gens=3 written=150 added=656 skipped=1 err=-
+
+## rush
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## sequoia
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## sienna
+    gen_2018: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=645 gens=2 written=0 added=0 skipped=1 err=-
+
+## supra
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## tundra
+    gen_1999: SKIPPED (no dashboard dir)
+    gen_2006: SKIPPED (no dashboard dir)
+    gen_2013: SKIPPED (no dashboard dir)
+    gen_2021: SKIPPED (no dashboard dir)
+  stats: src=645 gens=4 written=0 added=0 skipped=1 err=-
+
+## venza
+    gen_2017: SKIPPED (no dashboard dir)
+    gen_2020: SKIPPED (no dashboard dir)
+  stats: src=645 gens=2 written=0 added=0 skipped=1 err=-
+
+## vitz
+    p90_2005: SKIPPED (no dashboard dir)
+    p130_2010: SKIPPED (no dashboard dir)
+  stats: src=650 gens=2 written=0 added=0 skipped=1 err=-
+
+## wish
+    e10_2003: SKIPPED (no dashboard dir)
+    e20_2009: SKIPPED (no dashboard dir)
+  stats: src=650 gens=2 written=0 added=0 skipped=2 err=-
+
+## yaris
+    gen_2003: SKIPPED (no dashboard dir)
+    gen_2016: SKIPPED (no dashboard dir)
+    gen_2020: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=645 gens=4 written=0 added=0 skipped=1 err=-
+
+## TOTALS: models=60 src=18300 written=1500 added=6500 skipped=29
