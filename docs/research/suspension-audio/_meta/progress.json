@@ -1,14 +1,1 @@
-{
-  "topics": {
-    "shock-absorbers": {
-      "status": "failed",
-      "updated": "2026-04-15T19:52:29.948376+00:00",
-      "note": "parsed_ok=False"
-    },
-    "sci-eusama-correlation-validity": {
-      "status": "raw_saved",
-      "updated": "2026-04-15T20:00:40.104812+00:00",
-      "note": "parsed_ok=True"
-    }
-  }
-}
+{}

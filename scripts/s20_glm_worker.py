@@ -191,12 +191,20 @@ def run(topic: dict, iter_n: int, force: bool = False) -> Path:
         hint=topic.get("prompt_hint", ""),
         origin_block=origin,
     )
-    update_progress(topic["slug"], "fetching")
+    # progress derived from raw file existence + parsed_ok; no shared-state writes from workers
     start = time.time()
     try:
         resp = ask(user_prompt, system=system, max_tokens=10000, timeout=180)
     except Exception as e:
-        update_progress(topic["slug"], "failed", str(e)[:200])
+        # write minimal failure marker to raw file so dispatcher can see what happened
+        out_path.write_text(
+            json.dumps(
+                {"topic_slug": topic["slug"], "iter": iter_n, "error": str(e)[:500], "parsed_ok": False},
+                ensure_ascii=False,
+                indent=2,
+            ),
+            encoding="utf-8",
+        )
         raise
     content = extract_content(resp)
     parsed = robust_parse(content)
@@ -213,7 +221,6 @@ def run(topic: dict, iter_n: int, force: bool = False) -> Path:
     }
     out_path.write_text(json.dumps(record, ensure_ascii=False, indent=2), encoding="utf-8")
     status = "raw_saved" if parsed else "failed"
-    update_progress(topic["slug"], status, f"parsed_ok={parsed is not None}")
     print(f"[{status}] {topic['slug']} — {record['elapsed_sec']}s, parsed={parsed is not None}")
     return out_path
 
