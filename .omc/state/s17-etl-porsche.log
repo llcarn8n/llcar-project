@@ -1,0 +1,82 @@
+# ETL UPT brand=porsche → porsche dry=False create_gens=False
+
+## 911
+    gen_1967: SKIPPED (no dashboard dir)
+    gen_1974: SKIPPED (no dashboard dir)
+    gen_1987: SKIPPED (no dashboard dir)
+    gen_1995: SKIPPED (no dashboard dir)
+    gen_2005: SKIPPED (no dashboard dir)
+    gen_2008: SKIPPED (no dashboard dir)
+    gen_2017: SKIPPED (no dashboard dir)
+    gen_2022: SKIPPED (no dashboard dir)
+  stats: src=47 gens=8 written=0 added=0 skipped=0 err=-
+
+## _all
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## boxster
+    gen_2018: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=43 gens=2 written=0 added=0 skipped=0 err=-
+
+## cayenne
+    gen_2002: SKIPPED (no dashboard dir)
+    gen_2007: +179 → total 150 (written)
+    gen_2014: +179 → total 150 (written)
+    gen_2018: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+    gen_2026: SKIPPED (no dashboard dir)
+  stats: src=181 gens=6 written=300 added=358 skipped=0 err=-
+
+## cayenne-955
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## cayenne_coupe
+    gen_2019: SKIPPED (no dashboard dir)
+  stats: src=45 gens=1 written=0 added=0 skipped=0 err=-
+
+## cayenne_coupe_e3
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## cayenne_e3
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## cayman
+    gen_2018: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=44 gens=2 written=0 added=0 skipped=0 err=-
+
+## macan
+    porsche_macan__stub: SKIPPED (no dashboard dir)
+  stats: src=43 gens=1 written=0 added=0 skipped=0 err=-
+
+## panamera
+    gen_2009: SKIPPED (no dashboard dir)
+    gen_2013: SKIPPED (no dashboard dir)
+    gen_2017: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=43 gens=4 written=0 added=0 skipped=0 err=-
+
+## porsche_911_1972_1983
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## porsche_cayenne_2002_2007
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## porsche_macan_2015_2016
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## taycan
+    gen_2005: SKIPPED (no dashboard dir)
+    gen_2008: SKIPPED (no dashboard dir)
+    gen_2017: SKIPPED (no dashboard dir)
+    gen_2019: SKIPPED (no dashboard dir)
+    gen_2022: SKIPPED (no dashboard dir)
+    gen_2024: SKIPPED (no dashboard dir)
+    gen_1995: SKIPPED (no dashboard dir)
+    gen_1987: SKIPPED (no dashboard dir)
+    gen_1974: SKIPPED (no dashboard dir)
+    gen_1967: SKIPPED (no dashboard dir)
+  stats: src=42 gens=10 written=0 added=0 skipped=0 err=-
+
+## TOTALS: models=15 src=488 written=300 added=358 skipped=0

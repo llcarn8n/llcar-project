@@ -1,0 +1,42 @@
+# ETL UPT brand=jetour → jetour dry=False create_gens=False
+
+## _all
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## _x70_plus
+    x70_2020: SKIPPED (no dashboard dir)
+  stats: src=441 gens=1 written=0 added=0 skipped=0 err=-
+
+## dashing
+    gen_2022: SKIPPED (no dashboard dir)
+  stats: src=447 gens=1 written=0 added=0 skipped=0 err=-
+
+## t1
+    t1_2025: SKIPPED (no dashboard dir)
+  stats: src=444 gens=1 written=0 added=0 skipped=0 err=-
+
+## t2
+    t2_2023: SKIPPED (no dashboard dir)
+    t2: SKIPPED (no dashboard dir)
+  stats: src=445 gens=2 written=0 added=0 skipped=0 err=-
+
+## vt9
+    vt9_2025: SKIPPED (no dashboard dir)
+  stats: src=443 gens=1 written=0 added=0 skipped=0 err=-
+
+## x50
+    x50_2024: SKIPPED (no dashboard dir)
+  stats: src=441 gens=1 written=0 added=0 skipped=0 err=-
+
+## x70
+    x70_2024: +448 → total 150 (written)
+  stats: src=448 gens=1 written=150 added=448 skipped=0 err=-
+
+## x70_2018
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## x90
+    x90_2024: SKIPPED (no dashboard dir)
+  stats: src=449 gens=1 written=0 added=0 skipped=0 err=-
+
+## TOTALS: models=10 src=3558 written=150 added=448 skipped=0

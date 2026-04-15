@@ -1,0 +1,86 @@
+# ETL UPT brand=changan → changan dry=False create_gens=False
+
+## 2023_05_26__plus_owner_manual_rus__1
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## _all
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## _alsvin
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=444 gens=1 written=0 added=0 skipped=0 err=-
+
+## _cs35_plus
+    cs35_2018: SKIPPED (no dashboard dir)
+  stats: src=444 gens=1 written=0 added=0 skipped=0 err=-
+
+## _cs55_plus
+    cs55_2019: SKIPPED (no dashboard dir)
+  stats: src=444 gens=1 written=0 added=0 skipped=0 err=-
+
+## _cs75_plus
+    c928_2024: SKIPPED (no dashboard dir)
+  stats: src=444 gens=1 written=0 added=0 skipped=0 err=-
+
+## changan__cs55_plus
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## changan_q07
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## cs35
+    cs35_2014: SKIPPED (no dashboard dir)
+    cs35_2017: SKIPPED (no dashboard dir)
+  stats: src=444 gens=2 written=0 added=0 skipped=0 err=-
+
+## cs35_plus
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## cs55
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## cs55_plus
+    cs55_2019: SKIPPED (no dashboard dir)
+  stats: src=463 gens=1 written=0 added=0 skipped=0 err=-
+
+## cs55_plus_2019
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## cs75
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## cs75_plus
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## cs95
+    cs95_2023: SKIPPED (no dashboard dir)
+  stats: src=452 gens=1 written=0 added=0 skipped=0 err=-
+
+## eado
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## han
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## qiyuan_a05
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## qiyuan_q05
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## qiyuan_q07
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## uni_k
+    gen_2021: SKIPPED (no dashboard dir)
+  stats: src=444 gens=1 written=0 added=0 skipped=0 err=-
+
+## uni_t
+    gen_2020: SKIPPED (no dashboard dir)
+  stats: src=482 gens=1 written=0 added=0 skipped=0 err=-
+
+## uni_v
+    gen_2022: SKIPPED (no dashboard dir)
+  stats: src=446 gens=1 written=0 added=0 skipped=0 err=-
+
+## TOTALS: models=24 src=4507 written=0 added=0 skipped=0

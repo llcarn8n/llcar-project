@@ -1,0 +1,56 @@
+# ETL UPT brand=subaru → subaru dry=False create_gens=False
+
+## _all
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## brz
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## forester
+    gen_2008: +698 → total 150 (written)
+    gen_2013: SKIPPED (no dashboard dir)
+    gen_2018: SKIPPED (no dashboard dir)
+    gen_2021: SKIPPED (no dashboard dir)
+  stats: src=707 gens=4 written=150 added=698 skipped=1 err=-
+
+## gle
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## impreza
+    gen_2007: SKIPPED (no dashboard dir)
+    gen_2012: SKIPPED (no dashboard dir)
+    gen_2018: SKIPPED (no dashboard dir)
+  stats: src=716 gens=3 written=0 added=0 skipped=1 err=-
+
+## impreza_v2_ru_reocr
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## legacy
+    b4_2009: SKIPPED (no dashboard dir)
+    gen_2019: SKIPPED (no dashboard dir)
+  stats: src=675 gens=2 written=0 added=0 skipped=1 err=-
+
+## legacy_outback_2012
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## legacy_outback_2017
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## outback
+    gen_2018: SKIPPED (no dashboard dir)
+    gen_2022: SKIPPED (no dashboard dir)
+    gen_2025: SKIPPED (no dashboard dir)
+  stats: src=731 gens=3 written=0 added=0 skipped=1 err=-
+
+## tribeca
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## wrx
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## xv
+    gen_2018: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=669 gens=2 written=0 added=0 skipped=1 err=-
+
+## TOTALS: models=13 src=3498 written=150 added=698 skipped=5

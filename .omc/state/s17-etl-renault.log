@@ -1,0 +1,196 @@
+# ETL UPT brand=renault → renault dry=False create_gens=False
+
+## _all
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## arkana
+    gen_2019: +416 → total 150 (written)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=417 gens=2 written=150 added=416 skipped=0 err=-
+
+## clio
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## clio_iii
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## clio_iii_2005
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## clio_symbol
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## clio_symbol_2000
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## clio_symbol_symbol
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## dacia_sandero_2008
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## duster
+    renault_duster__stub: SKIPPED (no dashboard dir)
+  stats: src=613 gens=1 written=0 added=0 skipped=1 err=-
+
+## duster-2010
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## duster_2009
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## duster_2015
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## fluence
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## k9k_1_5diesel_sm
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## k9k_diesel
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## kangoo
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## kangoo_1997
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## kangoo_2
+    gen_1997: SKIPPED (no dashboard dir)
+    gen_2001: SKIPPED (no dashboard dir)
+    gen_2008: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=613 gens=4 written=0 added=0 skipped=1 err=-
+
+## kaptur
+    gen_2020: SKIPPED (no dashboard dir)
+  stats: src=432 gens=1 written=0 added=0 skipped=0 err=-
+
+## kaptur_2016
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## kaptur_2016_d
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## koleos
+    gen_2013: +400 → total 150 (written)
+    gen_2016: SKIPPED (no dashboard dir)
+    gen_2019: SKIPPED (no dashboard dir)
+  stats: src=403 gens=3 written=150 added=400 skipped=0 err=-
+
+## laguna
+    gen_1998: SKIPPED (no dashboard dir)
+    gen_2010: SKIPPED (no dashboard dir)
+  stats: src=400 gens=2 written=0 added=0 skipped=0 err=-
+
+## laguna_ii
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## laguna_iii
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## laguna_iii_2009
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## logan
+    gen_2004: +410 → total 150 (written)
+    b0_2018: SKIPPED (no dashboard dir)
+  stats: src=412 gens=2 written=150 added=410 skipped=1 err=-
+
+## logan_ii
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## logan_ii_2014
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## logan_sandero
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## master
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=400 gens=1 written=0 added=0 skipped=0 err=-
+
+## megan_scenic_1996
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## megane
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## megane_ii
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## megane_scenic
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## megane_scenic_i
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## megane_scenic_ii
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## renault_clio_symbol_symbol_1999_2008
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## renault_laguna_2001_2005
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## renault_megane_ii_2003_2008
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## renault_megane_scenic_1999_2002
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## renault_megane_scenic_1999_2003
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## renault_safrane_1992_1996
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## renault_sandero_2_2014
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## safrane
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## sandero
+    renault_sandero__stub: SKIPPED (no dashboard dir)
+  stats: src=617 gens=1 written=0 added=0 skipped=1 err=-
+
+## sandero_2008
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## sandero_ii
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## sandero_ii_2014
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## scenic
+    gen_2000: SKIPPED (no dashboard dir)
+    gen_2009: SKIPPED (no dashboard dir)
+    gen_2013: SKIPPED (no dashboard dir)
+    gen_2020: SKIPPED (no dashboard dir)
+    gen_2024: SKIPPED (no dashboard dir)
+  stats: src=613 gens=5 written=0 added=0 skipped=1 err=-
+
+## scenic_ii
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## symbol
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## symbol_thalia
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## symbol_thalia_2008
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## twingo
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## twingo_1993
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## TOTALS: models=57 src=4920 written=450 added=1226 skipped=5

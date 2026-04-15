@@ -1,0 +1,130 @@
+# ETL UPT brand=bmw → bmw dry=False create_gens=False
+
+## 1_series
+    e81_2004: SKIPPED (no dashboard dir)
+    e82_2011: +436 → total 150 (written)
+    f40_2019: SKIPPED (no dashboard dir)
+    f70_2023: SKIPPED (no dashboard dir)
+  stats: src=443 gens=4 written=150 added=436 skipped=0 err=-
+
+## 2_series
+    gen_2013: +438 → total 150 (written)
+    gen_2021: +435 → total 150 (written)
+    f78_2024: SKIPPED (no dashboard dir)
+  stats: src=443 gens=3 written=300 added=873 skipped=0 err=-
+
+## 3_series
+    e36_1990: SKIPPED (no dashboard dir)
+    e46_2001: SKIPPED (no dashboard dir)
+    e90_2008: +387 → total 150 (written)
+    gen_2015: SKIPPED (no dashboard dir)
+    gen_2018: SKIPPED (no dashboard dir)
+    g20_2022: +385 → total 150 (written)
+  stats: src=464 gens=6 written=300 added=772 skipped=0 err=-
+
+## 4_series
+    g22_2018: +442 → total 150 (written)
+    g26_2021: SKIPPED (no dashboard dir)
+    g26_2024: SKIPPED (no dashboard dir)
+  stats: src=443 gens=3 written=150 added=442 skipped=0 err=-
+
+## 5_e28
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## 5_series
+    e39_2000: SKIPPED (no dashboard dir)
+    g60_2013: +394 → total 150 (written)
+    g31_2018: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=460 gens=4 written=150 added=394 skipped=0 err=-
+
+## 6_series
+    e63_2003: SKIPPED (no dashboard dir)
+    f06_2011: SKIPPED (no dashboard dir)
+    g32_2020: +433 → total 150 (written)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=443 gens=4 written=150 added=433 skipped=0 err=-
+
+## 7_series
+    f01_2012: +442 → total 150 (written)
+    gen_2022: SKIPPED (no dashboard dir)
+  stats: src=446 gens=2 written=150 added=442 skipped=0 err=-
+
+## 8_series
+    g15_2018: +441 → total 150 (written)
+    g16_2022: SKIPPED (no dashboard dir)
+  stats: src=443 gens=2 written=150 added=441 skipped=0 err=-
+
+## _all
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## _misc
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## i3
+    i01_2015: SKIPPED (no dashboard dir)
+    g28_2022: SKIPPED (no dashboard dir)
+  stats: src=443 gens=2 written=0 added=0 skipped=0 err=-
+
+## i4
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## ix
+    i20_2021: +444 → total 150 (written)
+    i20_2024: SKIPPED (no dashboard dir)
+    i20: SKIPPED (no dashboard dir)
+  stats: src=445 gens=3 written=150 added=444 skipped=0 err=-
+
+## ix3_2
+    g08_2020: SKIPPED (no dashboard dir)
+    g08_2021: SKIPPED (no dashboard dir)
+    na5_2025: SKIPPED (no dashboard dir)
+    ix3_2023: SKIPPED (no dashboard dir)
+    ix3_2024: SKIPPED (no dashboard dir)
+  stats: src=443 gens=5 written=0 added=0 skipped=0 err=-
+
+## x1
+    e84_2012: SKIPPED (no dashboard dir)
+    f48_2015: +456 → total 150 (written)
+    x1_2019: SKIPPED (no dashboard dir)
+    u11_2022: SKIPPED (no dashboard dir)
+  stats: src=464 gens=4 written=150 added=456 skipped=0 err=-
+
+## x2
+    f39_2017: +441 → total 150 (written)
+    u10_2023: SKIPPED (no dashboard dir)
+  stats: src=443 gens=2 written=150 added=441 skipped=0 err=-
+
+## x3
+    e83_2003: SKIPPED (no dashboard dir)
+    f25_2010: +669 → total 150 (written)
+    g01_2017: +662 → total 150 (written)
+    g01_2021: +662 → total 150 (written)
+    g48_2024: SKIPPED (no dashboard dir)
+  stats: src=679 gens=5 written=450 added=1993 skipped=0 err=-
+
+## x4
+    f26_2014: SKIPPED (no dashboard dir)
+    g02_2021: +431 → total 150 (written)
+  stats: src=443 gens=2 written=150 added=431 skipped=0 err=-
+
+## x5
+    e53_1999: SKIPPED (no dashboard dir)
+    e70_2006: SKIPPED (no dashboard dir)
+    x5_2010: +569 → total 150 (written)
+    g05_2018: +560 → total 150 (written)
+  stats: src=635 gens=4 written=300 added=1129 skipped=0 err=-
+
+## x6
+    e71_2007: SKIPPED (no dashboard dir)
+    x6_2010: SKIPPED (no dashboard dir)
+    f16_2014: +437 → total 150 (written)
+    g06_2019: +437 → total 150 (written)
+  stats: src=445 gens=4 written=300 added=874 skipped=0 err=-
+
+## x7
+    x7_2022: SKIPPED (no dashboard dir)
+    g07_2019: +443 → total 150 (written)
+  stats: src=444 gens=2 written=150 added=443 skipped=0 err=-
+
+## TOTALS: models=22 src=8469 written=3300 added=10444 skipped=0

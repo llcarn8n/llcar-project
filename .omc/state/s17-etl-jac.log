@@ -1,0 +1,33 @@
+# ETL UPT brand=jac → jac dry=False create_gens=False
+
+## _all
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## j7
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## jac_s5_ru_manual
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## js4
+    js4_2021: +441 → total 150 (written)
+    js4: SKIPPED (no dashboard dir)
+  stats: src=441 gens=2 written=150 added=441 skipped=0 err=-
+
+## js6
+    js6_2021: +453 → total 150 (written)
+    js6: SKIPPED (no dashboard dir)
+  stats: src=453 gens=2 written=150 added=453 skipped=0 err=-
+
+## s3
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## s5
+    s5: SKIPPED (no dashboard dir)
+  stats: src=434 gens=1 written=0 added=0 skipped=0 err=-
+
+## t8
+    t8: SKIPPED (no dashboard dir)
+  stats: src=448 gens=1 written=0 added=0 skipped=0 err=-
+
+## TOTALS: models=8 src=1776 written=300 added=894 skipped=0

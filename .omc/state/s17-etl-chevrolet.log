@@ -1,0 +1,105 @@
+# ETL UPT brand=chevrolet → chevrolet dry=False create_gens=False
+
+## _all
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## aveo
+    gen_2002: SKIPPED (no dashboard dir)
+    gen_2008: SKIPPED (no dashboard dir)
+    gen_2020: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=503 gens=4 written=0 added=0 skipped=0 err=-
+
+## camaro
+    gen_2016: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=434 gens=2 written=0 added=0 skipped=0 err=-
+
+## captiva
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## captiva_2009
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## cobalt
+    chevrolet_cobalt__stub: SKIPPED (no dashboard dir)
+  stats: src=438 gens=1 written=0 added=0 skipped=0 err=-
+
+## cobalt_2018
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## cruze
+    gen_2009: SKIPPED (no dashboard dir)
+    gen_2018: SKIPPED (no dashboard dir)
+  stats: src=456 gens=2 written=0 added=0 skipped=0 err=-
+
+## epica
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## equinox
+    gen_2005: SKIPPED (no dashboard dir)
+    gen_2021: SKIPPED (no dashboard dir)
+    gen_2024: SKIPPED (no dashboard dir)
+  stats: src=434 gens=3 written=0 added=0 skipped=0 err=-
+
+## lacetti
+    gen_2002: SKIPPED (no dashboard dir)
+  stats: src=439 gens=1 written=0 added=0 skipped=0 err=-
+
+## lacetti_2010
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## lanos
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## malibu
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## niva
+    chevrolet_niva__stub: SKIPPED (no dashboard dir)
+  stats: src=442 gens=1 written=0 added=0 skipped=0 err=-
+
+## niva_travel
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## orlando
+    chevrolet_orlando__stub: SKIPPED (no dashboard dir)
+  stats: src=437 gens=1 written=0 added=0 skipped=0 err=-
+
+## orlando_2011
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## rezzo
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## spark
+    gen_2013: SKIPPED (no dashboard dir)
+    gen_2018: SKIPPED (no dashboard dir)
+  stats: src=437 gens=2 written=0 added=0 skipped=0 err=-
+
+## suburban
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## tahoe
+    gen_1991: SKIPPED (no dashboard dir)
+    gen_1995: SKIPPED (no dashboard dir)
+    gen_2014: SKIPPED (no dashboard dir)
+    gen_2018: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=440 gens=5 written=0 added=0 skipped=0 err=-
+
+## tracker
+    gen_1998: SKIPPED (no dashboard dir)
+    gen_2020: SKIPPED (no dashboard dir)
+  stats: src=434 gens=2 written=0 added=0 skipped=0 err=-
+
+## trailblazer
+    gen_2005: SKIPPED (no dashboard dir)
+    gen_2019: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=440 gens=3 written=0 added=0 skipped=0 err=-
+
+## traverse
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## TOTALS: models=25 src=5334 written=0 added=0 skipped=0

@@ -1,0 +1,112 @@
+# ETL UPT brand=kia → kia dry=False create_gens=False
+
+## 2019_kia_niro
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## _all
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## all
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## carnival
+    gen_2006: SKIPPED (no dashboard dir)
+    gen_2020: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=485 gens=3 written=0 added=0 skipped=0 err=-
+
+## ceed
+    kia_ceed__stub: SKIPPED (no dashboard dir)
+  stats: src=481 gens=1 written=0 added=0 skipped=0 err=-
+
+## cerato
+    gen_2013: SKIPPED (no dashboard dir)
+    gen_2021: SKIPPED (no dashboard dir)
+  stats: src=473 gens=2 written=0 added=0 skipped=0 err=-
+
+## ev6
+    ev6: SKIPPED (no dashboard dir)
+  stats: src=421 gens=1 written=0 added=0 skipped=0 err=-
+
+## ev9
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## ev9_my24
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## k5
+    k5_2020: +480 → total 150 (written)
+    k5_2023: SKIPPED (no dashboard dir)
+  stats: src=480 gens=2 written=150 added=480 skipped=0 err=-
+
+## k8
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## magentis
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## mohave
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## niro
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## optima
+    k5_2010: +420 → total 150 (written)
+  stats: src=420 gens=1 written=150 added=420 skipped=0 err=-
+
+## optima_k5
+    k5_2010: SKIPPED (no dashboard dir)
+  stats: src=420 gens=1 written=0 added=0 skipped=0 err=-
+
+## picanto
+    gen_2007: SKIPPED (no dashboard dir)
+    gen_2015: SKIPPED (no dashboard dir)
+    gen_2020: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=420 gens=4 written=0 added=0 skipped=0 err=-
+
+## rio
+    gen_2017: +518 → total 150 (written)
+    gen_2020: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=519 gens=3 written=150 added=518 skipped=0 err=-
+
+## rio_iii
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## seltos
+    gen_2019: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=424 gens=2 written=0 added=0 skipped=0 err=-
+
+## sorento
+    gen_2017: SKIPPED (no dashboard dir)
+    gen_2020: SKIPPED (no dashboard dir)
+    gen_2024: SKIPPED (no dashboard dir)
+  stats: src=468 gens=3 written=0 added=0 skipped=0 err=-
+
+## soul
+    gen_2018: +423 → total 150 (written)
+    gen_2022: SKIPPED (no dashboard dir)
+  stats: src=423 gens=2 written=150 added=423 skipped=0 err=-
+
+## spectra
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## sportage
+    gen_2015: +470 → total 150 (written)
+    gen_2018: +468 → total 150 (written)
+    gen_2021: SKIPPED (no dashboard dir)
+    gen_2024: SKIPPED (no dashboard dir)
+  stats: src=470 gens=4 written=300 added=938 skipped=0 err=-
+
+## stinger
+    gen_2018: SKIPPED (no dashboard dir)
+    gen_2021: SKIPPED (no dashboard dir)
+  stats: src=420 gens=2 written=0 added=0 skipped=0 err=-
+
+## venga
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## TOTALS: models=26 src=6324 written=900 added=2779 skipped=0

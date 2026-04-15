@@ -1,0 +1,128 @@
+# ETL UPT brand=ford → ford dry=False create_gens=False
+
+## 2021_ford_mustang_mach_e_owners_manual_version_1_om_en_us
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## 2021_ford_mustang_mach_e_owners_manual_version_1_om_en_us_09_2020
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## _all
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## bronco_2_explorer_ranger
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## c_max
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## ecosport
+    gen_2004: SKIPPED (no dashboard dir)
+    gen_2013: SKIPPED (no dashboard dir)
+    gen_2017: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=436 gens=4 written=0 added=0 skipped=0 err=-
+
+## edge
+    gen_2006: SKIPPED (no dashboard dir)
+    gen_2015: SKIPPED (no dashboard dir)
+    gen_2018: SKIPPED (no dashboard dir)
+    gen_2021: SKIPPED (no dashboard dir)
+  stats: src=436 gens=4 written=0 added=0 skipped=0 err=-
+
+## escape
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## escape_maverick
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## escort
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## explorer
+    gen_2006: SKIPPED (no dashboard dir)
+    gen_2015: SKIPPED (no dashboard dir)
+    gen_2018: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=465 gens=4 written=0 added=0 skipped=0 err=-
+
+## f150
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## f_150
+    gen_2020: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=436 gens=2 written=0 added=0 skipped=0 err=-
+
+## fiesta
+    gen_2011: SKIPPED (no dashboard dir)
+    gen_2016: SKIPPED (no dashboard dir)
+    gen_2021: SKIPPED (no dashboard dir)
+    gen_2024: SKIPPED (no dashboard dir)
+  stats: src=450 gens=4 written=0 added=0 skipped=0 err=-
+
+## fiesta-2008
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## focus
+    gen_2008: +453 → total 150 (written)
+    gen_2011: SKIPPED (no dashboard dir)
+    gen_2018: SKIPPED (no dashboard dir)
+    gen_2021: SKIPPED (no dashboard dir)
+    gen_2024: SKIPPED (no dashboard dir)
+  stats: src=466 gens=5 written=150 added=453 skipped=0 err=-
+
+## ford_bronco_2_explorer_ranger_1983_1994
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## ford_escape_maverick_2000_2007
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## galaxy
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## kuga
+    ford_kuga__stub: SKIPPED (no dashboard dir)
+  stats: src=471 gens=1 written=0 added=0 skipped=0 err=-
+
+## maverick
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## mondeo
+    ford_mondeo__stub: SKIPPED (no dashboard dir)
+  stats: src=458 gens=1 written=0 added=0 skipped=0 err=-
+
+## mustang
+    gen_1993: SKIPPED (no dashboard dir)
+    gen_1996: SKIPPED (no dashboard dir)
+    gen_2013: SKIPPED (no dashboard dir)
+    gen_2018: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=440 gens=5 written=0 added=0 skipped=0 err=-
+
+## mustang_mach_e
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## ranger
+    gen_2021: SKIPPED (no dashboard dir)
+  stats: src=440 gens=1 written=0 added=0 skipped=1 err=-
+
+## s-max
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## s_max
+    gen_2006: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=436 gens=2 written=0 added=0 skipped=0 err=-
+
+## taurus
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## tourus_mercury_sable_1986_1994
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## transit
+    gen_2018: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=439 gens=2 written=0 added=0 skipped=0 err=-
+
+## TOTALS: models=30 src=5373 written=150 added=453 skipped=1

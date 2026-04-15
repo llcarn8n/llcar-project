@@ -3,7 +3,7 @@
   "brands": {
     "mercedes_benz": "mercedes",
     "li": "li_auto",
-    "faw_bestune": "bestune"
+    "bestune": "faw_bestune"
   },
   "models": {
     "jaguar/f-pace": "jaguar/f_pace",

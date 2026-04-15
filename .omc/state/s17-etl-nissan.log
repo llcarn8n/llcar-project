@@ -1,0 +1,158 @@
+# ETL UPT brand=nissan → nissan dry=False create_gens=False
+
+## 2023_nissan_ariya
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## _all
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## almera
+    g11_2012: +424 → total 150 (written)
+  stats: src=424 gens=1 written=150 added=424 skipped=0 err=-
+
+## altima
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## ariya
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## bluebird
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## cube
+    z12_2008: SKIPPED (no dashboard dir)
+  stats: src=421 gens=1 written=0 added=0 skipped=0 err=-
+
+## elgrand
+    e51_2002: SKIPPED (no dashboard dir)
+    e52_2010: SKIPPED (no dashboard dir)
+  stats: src=421 gens=2 written=0 added=0 skipped=0 err=-
+
+## gle
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## juke
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## kicks
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## latio_versa_almera_sunny_2011_2012_n17
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## leaf
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## leaf_2012
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## leaf_2020
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## march
+    k12_2002: SKIPPED (no dashboard dir)
+  stats: src=421 gens=1 written=0 added=0 skipped=0 err=-
+
+## maxima
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## micra
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## murano
+    gen_2015: SKIPPED (no dashboard dir)
+    z52_2019: +545 → total 150 (written)
+  stats: src=550 gens=2 written=150 added=545 skipped=0 err=-
+
+## murano-z50
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## navara
+    np300_2015: SKIPPED (no dashboard dir)
+    d23_2021: SKIPPED (no dashboard dir)
+  stats: src=423 gens=2 written=0 added=0 skipped=0 err=-
+
+## navara_v2_ru_reocr
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## note
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## pathfinder
+    gen_2016: SKIPPED (no dashboard dir)
+    r53_2021: SKIPPED (no dashboard dir)
+  stats: src=470 gens=2 written=0 added=0 skipped=1 err=-
+
+## patrol
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## primera
+    p11_1996: SKIPPED (no dashboard dir)
+    p12_2002: SKIPPED (no dashboard dir)
+  stats: src=470 gens=2 written=0 added=0 skipped=0 err=-
+
+## primera_v2_ru_reocr
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## qashqai
+    nissan_qashqai__stub: SKIPPED (no dashboard dir)
+  stats: src=502 gens=1 written=0 added=0 skipped=0 err=-
+
+## qashqai_2021
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## qashqai_j11
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## sentra
+    gen_2006: SKIPPED (no dashboard dir)
+    gen_2015: SKIPPED (no dashboard dir)
+    b18_2019: SKIPPED (no dashboard dir)
+    b18_2023: SKIPPED (no dashboard dir)
+  stats: src=421 gens=4 written=0 added=0 skipped=0 err=-
+
+## serena
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## skyline
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## sunny
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## teana
+    gen_2003: +421 → total 150 (written)
+  stats: src=421 gens=1 written=150 added=421 skipped=0 err=-
+
+## teana_j32
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## teana_l33
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## terrano
+    gen_1996: SKIPPED (no dashboard dir)
+    gen_2002: SKIPPED (no dashboard dir)
+    gen_2013: +361 → total 150 (written)
+  stats: src=427 gens=3 written=150 added=361 skipped=0 err=-
+
+## tiida
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## wingroad
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## x-trail
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## x_trail
+    nissan_x_trail__stub: SKIPPED (no dashboard dir)
+  stats: src=473 gens=1 written=0 added=0 skipped=0 err=-
+
+## x_trail_2021
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## x_trail_v2_ru_reocr
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## TOTALS: models=44 src=5844 written=600 added=1751 skipped=1

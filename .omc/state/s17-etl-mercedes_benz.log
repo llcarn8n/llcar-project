@@ -1,0 +1,163 @@
+# ETL UPT brand=mercedes_benz → mercedes dry=False create_gens=False
+
+## 190
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## 190_w201
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## _all
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## _misc
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## a_class
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## a_class_w168
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## a_class_w177
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## b_class
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## c_class
+    mercedes_benz_c_class__stub: SKIPPED (no dashboard dir)
+  stats: src=428 gens=1 written=0 added=0 skipped=0 err=-
+
+## c_class_w205
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## c_class_w206
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## cla
+    c117_2016: +424 → total 150 (written)
+    gen_2019: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=429 gens=3 written=150 added=424 skipped=0 err=-
+
+## cls
+    c218_2010: +426 → total 150 (written)
+    c257_2021: SKIPPED (no dashboard dir)
+    c218: SKIPPED (no dashboard dir)
+  stats: src=429 gens=3 written=150 added=426 skipped=0 err=-
+
+## e_class
+    mercedes_benz_e_class__stub: SKIPPED (no dashboard dir)
+  stats: src=430 gens=1 written=0 added=0 skipped=0 err=-
+
+## e_class_w211
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## e_class_w213
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## eqa
+    h243_2021: SKIPPED (no dashboard dir)
+    gen_2024: SKIPPED (no dashboard dir)
+  stats: src=428 gens=2 written=0 added=0 skipped=0 err=-
+
+## eqb
+    gen_2022: SKIPPED (no dashboard dir)
+  stats: src=428 gens=1 written=0 added=0 skipped=0 err=-
+
+## eqe
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## eqs
+    v297_2021: +425 → total 150 (written)
+    gen_2024: SKIPPED (no dashboard dir)
+    v297: SKIPPED (no dashboard dir)
+  stats: src=425 gens=3 written=150 added=425 skipped=0 err=-
+
+## g_class_w460_w463
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## gl_class
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## gla
+    h247_2020: +424 → total 150 (written)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=425 gens=2 written=150 added=424 skipped=0 err=-
+
+## glb
+    x247_2020: +425 → total 150 (written)
+    gen_2023: SKIPPED (no dashboard dir)
+    x248_2026: SKIPPED (no dashboard dir)
+  stats: src=426 gens=3 written=150 added=425 skipped=0 err=-
+
+## glc
+    x254_2020: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+    x540_2026: SKIPPED (no dashboard dir)
+    x254: SKIPPED (no dashboard dir)
+  stats: src=425 gens=4 written=0 added=0 skipped=0 err=-
+
+## glc_coupe
+    gen_2020: SKIPPED (no dashboard dir)
+    gen_2024: SKIPPED (no dashboard dir)
+  stats: src=425 gens=2 written=0 added=0 skipped=0 err=-
+
+## gle
+    w166_2015: +420 → total 150 (written)
+    gen_2020: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+    ae_mercedes_benz_gle43amg_x: SKIPPED (no dashboard dir)
+    w167: +415 → total 150 (written)
+  stats: src=425 gens=5 written=300 added=835 skipped=0 err=-
+
+## gle_coupe
+    c292_2015: SKIPPED (no dashboard dir)
+    gen_2024: SKIPPED (no dashboard dir)
+  stats: src=425 gens=2 written=0 added=0 skipped=0 err=-
+
+## glk_klasse_x204
+    x204_2008: SKIPPED (no dashboard dir)
+  stats: src=425 gens=1 written=0 added=0 skipped=0 err=-
+
+## gls
+    gen_2017: SKIPPED (no dashboard dir)
+    x167_2020: +590 → total 150 (written)
+    x167_2023: SKIPPED (no dashboard dir)
+    x167: SKIPPED (no dashboard dir)
+  stats: src=591 gens=4 written=150 added=590 skipped=0 err=-
+
+## m_class
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## ml
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## ml_w164
+    w164: SKIPPED (no dashboard dir)
+  stats: src=453 gens=1 written=0 added=0 skipped=0 err=-
+
+## s_class
+    mercedes_benz_s_class__stub: SKIPPED (no dashboard dir)
+  stats: src=427 gens=1 written=0 added=0 skipped=0 err=-
+
+## s_class_w223
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## sprinter
+    mercedes_benz_sprinter__stub: SKIPPED (no dashboard dir)
+  stats: src=430 gens=1 written=0 added=0 skipped=0 err=-
+
+## viano
+    gen_2010: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=425 gens=2 written=0 added=0 skipped=0 err=-
+
+## vito
+    mercedes_benz_vito__stub: SKIPPED (no dashboard dir)
+  stats: src=435 gens=1 written=0 added=0 skipped=1 err=-
+
+## vito_viano_w638
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## TOTALS: models=39 src=8734 written=1200 added=3549 skipped=1

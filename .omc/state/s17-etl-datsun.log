@@ -1,0 +1,32 @@
+# ETL UPT brand=datsun → datsun dry=False create_gens=True
+
+## 1000
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## 1000_v2_ru_reocr
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## _all
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## datsun_1000_1200_1972
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## mi-do
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## mi_do
+    gen_2014: +460 → total 150 (written)
+  stats: src=460 gens=1 written=150 added=460 skipped=0 err=-
+
+## on-do
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## on_do
+    gen_2014: +459 → total 150 (written)
+  stats: src=459 gens=1 written=150 added=459 skipped=0 err=-
+
+## on_do_v2_ru_reocr
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## TOTALS: models=9 src=919 written=300 added=919 skipped=0

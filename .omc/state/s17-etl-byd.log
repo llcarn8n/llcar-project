@@ -1,0 +1,118 @@
+# ETL UPT brand=byd → byd dry=False create_gens=False
+
+## 24__dmi_rus__1
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## _all
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## atto_3
+    gen_2022: SKIPPED (no dashboard dir)
+  stats: src=443 gens=1 written=0 added=0 skipped=0 err=-
+
+## byd_sealion_05
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## byd_sealion_06
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## dolphin
+    gen_2021: +452 → total 150 (written)
+    gen_2025: SKIPPED (no dashboard dir)
+  stats: src=452 gens=2 written=150 added=452 skipped=0 err=-
+
+## dolphin_2
+    gen_2021: SKIPPED (no dashboard dir)
+    gen_2025: SKIPPED (no dashboard dir)
+  stats: src=443 gens=2 written=0 added=0 skipped=0 err=-
+
+## dolphin_2021
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## dolphin_ru_2021
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## han
+    gen_2020: +444 → total 150 (written)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=444 gens=2 written=150 added=444 skipped=0 err=-
+
+## han_2
+    gen_2020: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=443 gens=2 written=0 added=0 skipped=0 err=-
+
+## han_ev
+    byd_han_ev__stub: SKIPPED (no dashboard dir)
+  stats: src=508 gens=1 written=0 added=0 skipped=0 err=-
+
+## l_dmi_manual_rus_last
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## plus_ev2023_champion_edition_user_manual
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## qin
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## sea_lion
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## seal
+    gen_2022: +471 → total 150 (written)
+  stats: src=471 gens=1 written=150 added=471 skipped=0 err=-
+
+## seal_u
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=443 gens=1 written=0 added=0 skipped=0 err=-
+
+## song
+    gen_2020: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=443 gens=2 written=0 added=0 skipped=0 err=-
+
+## song_l
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## song_l_dmi_manual_rus_last
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## song_plus
+    gen_2020: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=471 gens=2 written=0 added=0 skipped=0 err=-
+
+## song_plus_ev2023_champion_edition_user_manual
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## song_plus_pfi
+    gen_2020: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=443 gens=2 written=0 added=0 skipped=0 err=-
+
+## t03
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## tang
+    gen_2021: SKIPPED (no dashboard dir)
+  stats: src=443 gens=1 written=0 added=0 skipped=0 err=-
+
+## tang_dm_ev_en_2019
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## tang_ev
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## yuan
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## yuan_plus
+    gen_2022: SKIPPED (no dashboard dir)
+    gen_2025: SKIPPED (no dashboard dir)
+    byd__yuan_plus__yuan_plus_2022_present_0: SKIPPED (no dashboard dir)
+  stats: src=443 gens=3 written=0 added=0 skipped=0 err=-
+
+## yuan_up
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## TOTALS: models=31 src=5890 written=450 added=1367 skipped=0

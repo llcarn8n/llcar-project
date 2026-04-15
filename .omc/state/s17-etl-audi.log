@@ -1,0 +1,145 @@
+# ETL UPT brand=audi → audi dry=False create_gens=False
+
+## 100
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## _all
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## a1
+    a1_2010: SKIPPED (no dashboard dir)
+    a1_2014: SKIPPED (no dashboard dir)
+    a1_2018: SKIPPED (no dashboard dir)
+    a1_2022: SKIPPED (no dashboard dir)
+    a1_2023: SKIPPED (no dashboard dir)
+    a1_2024: SKIPPED (no dashboard dir)
+  stats: src=443 gens=9 written=0 added=0 skipped=0 err=-
+
+## a3
+    a3_1996: SKIPPED (no dashboard dir)
+    a3_2003: SKIPPED (no dashboard dir)
+    a3_2008: +442 → total 150 (written)
+    a3_2010: SKIPPED (no dashboard dir)
+    a3_2012: SKIPPED (no dashboard dir)
+    a3_2016: SKIPPED (no dashboard dir)
+    a3_2020: SKIPPED (no dashboard dir)
+    a3_2025: SKIPPED (no dashboard dir)
+    a3_2023: SKIPPED (no dashboard dir)
+    a3_2024: SKIPPED (no dashboard dir)
+  stats: src=446 gens=19 written=150 added=442 skipped=0 err=-
+
+## a4
+    a4_1994: SKIPPED (no dashboard dir)
+    a4_1999: SKIPPED (no dashboard dir)
+    a4_2000: SKIPPED (no dashboard dir)
+    a4_2010: SKIPPED (no dashboard dir)
+    a4_2011: +466 → total 150 (written)
+    a4_2018: SKIPPED (no dashboard dir)
+    a4_2019: +463 → total 150 (written)
+    a4_2023: SKIPPED (no dashboard dir)
+    a4_2024: SKIPPED (no dashboard dir)
+  stats: src=468 gens=13 written=300 added=929 skipped=0 err=-
+
+## a5
+    a5_2011: SKIPPED (no dashboard dir)
+    a5_2010: SKIPPED (no dashboard dir)
+    a5_2020: +442 → total 150 (written)
+    a5_2024: SKIPPED (no dashboard dir)
+    a5l_2025: SKIPPED (no dashboard dir)
+    a5_2023: SKIPPED (no dashboard dir)
+    b10_2025: SKIPPED (no dashboard dir)
+  stats: src=447 gens=23 written=150 added=442 skipped=0 err=-
+
+## a6
+    a6_2010: SKIPPED (no dashboard dir)
+    a6_1994: SKIPPED (no dashboard dir)
+    a6_1997: SKIPPED (no dashboard dir)
+    a6_2004: SKIPPED (no dashboard dir)
+    a6_2011: +465 → total 150 (written)
+    a6_2018: SKIPPED (no dashboard dir)
+    a6_2023: SKIPPED (no dashboard dir)
+    a6_2025: SKIPPED (no dashboard dir)
+    a6_2024: SKIPPED (no dashboard dir)
+  stats: src=470 gens=18 written=150 added=465 skipped=0 err=-
+
+## a7
+    a7_2010: +441 → total 150 (written)
+    a7_2015: +436 → total 150 (written)
+    a7_2018: SKIPPED (no dashboard dir)
+    a7l_2021: SKIPPED (no dashboard dir)
+    a7_2023: SKIPPED (no dashboard dir)
+    a7_2024: SKIPPED (no dashboard dir)
+  stats: src=442 gens=8 written=300 added=877 skipped=0 err=-
+
+## a8
+    a8_2010: SKIPPED (no dashboard dir)
+    a8_2017: +494 → total 150 (written)
+    a8_2009: SKIPPED (no dashboard dir)
+    a8_2021: SKIPPED (no dashboard dir)
+    a8_2023: SKIPPED (no dashboard dir)
+    a8_1999: SKIPPED (no dashboard dir)
+    a8l_2022: SKIPPED (no dashboard dir)
+  stats: src=595 gens=7 written=150 added=494 skipped=0 err=-
+
+## e_tron
+    gen_2018: SKIPPED (no dashboard dir)
+    gen_2020: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+    gen_2019: SKIPPED (no dashboard dir)
+  stats: src=445 gens=8 written=0 added=0 skipped=0 err=-
+
+## q2
+    q2_2016: SKIPPED (no dashboard dir)
+    q2_2020: SKIPPED (no dashboard dir)
+    q2_2023: SKIPPED (no dashboard dir)
+    q2l_2025: SKIPPED (no dashboard dir)
+    q2_2024: SKIPPED (no dashboard dir)
+  stats: src=442 gens=6 written=0 added=0 skipped=0 err=-
+
+## q3
+    q3_2026: SKIPPED (no dashboard dir)
+    q3_2014: SKIPPED (no dashboard dir)
+    q3_2015: SKIPPED (no dashboard dir)
+    q3_2025: SKIPPED (no dashboard dir)
+    q3_2024: SKIPPED (no dashboard dir)
+    q3_2023: SKIPPED (no dashboard dir)
+    f3_2018: +435 → total 150 (written)
+    q3_2016: SKIPPED (no dashboard dir)
+  stats: src=447 gens=11 written=150 added=435 skipped=0 err=-
+
+## q5
+    q5_2012: +500 → total 150 (written)
+    q5_2010: SKIPPED (no dashboard dir)
+    q5_2016: SKIPPED (no dashboard dir)
+    q5_2017: SKIPPED (no dashboard dir)
+    q5_2020: SKIPPED (no dashboard dir)
+    q5_2024: SKIPPED (no dashboard dir)
+    q5_2023: SKIPPED (no dashboard dir)
+    audi__q5_fy__fy_facelift_2020_2024_0: SKIPPED (no dashboard dir)
+  stats: src=501 gens=18 written=150 added=500 skipped=0 err=-
+
+## q7
+    q7_2009: +447 → total 150 (written)
+    q7_2010: SKIPPED (no dashboard dir)
+    q7_2015: SKIPPED (no dashboard dir)
+    q7_2019: SKIPPED (no dashboard dir)
+    q7_2023: SKIPPED (no dashboard dir)
+    q7_2024: SKIPPED (no dashboard dir)
+    audi__q7_4m__4m_facelift_2024_present_0: SKIPPED (no dashboard dir)
+  stats: src=448 gens=8 written=150 added=447 skipped=0 err=-
+
+## q8
+    q8_2018: +441 → total 150 (written)
+    q8_2020: SKIPPED (no dashboard dir)
+    q8_2023: SKIPPED (no dashboard dir)
+    q8_2024: SKIPPED (no dashboard dir)
+    audi__q8_4m8__4m8_facelift_2023_present_: SKIPPED (no dashboard dir)
+  stats: src=442 gens=10 written=150 added=441 skipped=0 err=-
+
+## tt
+    gen_1998: SKIPPED (no dashboard dir)
+    gen_2010: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=442 gens=5 written=0 added=0 skipped=0 err=-
+
+## TOTALS: models=16 src=6478 written=1800 added=5472 skipped=0

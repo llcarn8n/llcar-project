@@ -1,0 +1,12 @@
+# S17 ETL UPT — brand=toyota → toyota (dry=False)
+
+## model: camry
+    gen_2004: +531 → total 150 (written)
+    gen_2007: +530 → total 150 (written)
+    gen_2014: SKIPPED (no dashboard dir, --create-gens disabled)
+    xv70_2017: +534 → total 150 (written)
+    gen_2020: SKIPPED (no dashboard dir, --create-gens disabled)
+    gen_2023: SKIPPED (no dashboard dir, --create-gens disabled)
+  stats: src=697 gens=6 written=450 added=1595 skipped=1 err=-
+
+## TOTALS: models=1 src_sits=697 written=450 added=1595 skipped=1

@@ -1,0 +1,50 @@
+# ETL UPT brand=lada → lada dry=False create_gens=False
+
+## 2008
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## _all
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## granta
+    gen_2013: +473 → total 150 (written)
+    gen_2018: SKIPPED (no dashboard dir)
+  stats: src=473 gens=2 written=150 added=473 skipped=0 err=-
+
+## kalina
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## kalina_hatchback
+    gen_2007: SKIPPED (no dashboard dir)
+  stats: src=433 gens=1 written=0 added=0 skipped=0 err=-
+
+## largus
+    gen_2014: SKIPPED (no dashboard dir)
+    gen_2021: SKIPPED (no dashboard dir)
+  stats: src=444 gens=2 written=0 added=0 skipped=0 err=-
+
+## niva
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## niva_legend
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## niva_travel
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=440 gens=1 written=0 added=0 skipped=0 err=-
+
+## priora
+    gen_2008: SKIPPED (no dashboard dir)
+  stats: src=436 gens=1 written=0 added=0 skipped=0 err=-
+
+## vesta
+    gen_2015: SKIPPED (no dashboard dir)
+    gen_2022: SKIPPED (no dashboard dir)
+    lada__vesta_sw_cross__vesta_sw_cross_201: SKIPPED (no dashboard dir)
+  stats: src=496 gens=3 written=0 added=0 skipped=0 err=-
+
+## xray
+    gen_2016: SKIPPED (no dashboard dir)
+  stats: src=495 gens=1 written=0 added=0 skipped=0 err=-
+
+## TOTALS: models=12 src=3217 written=150 added=473 skipped=0

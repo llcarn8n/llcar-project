@@ -1,0 +1,55 @@
+# ETL UPT brand=land_rover → land_rover dry=False create_gens=False
+
+## _all
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## defender
+    gen_2020: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=447 gens=2 written=0 added=0 skipped=0 err=-
+
+## discovery
+    gen_1994: SKIPPED (no dashboard dir)
+    gen_2004: SKIPPED (no dashboard dir)
+    gen_2013: SKIPPED (no dashboard dir)
+    gen_2017: SKIPPED (no dashboard dir)
+    d250_2023: SKIPPED (no dashboard dir)
+  stats: src=470 gens=5 written=0 added=0 skipped=0 err=-
+
+## discovery_iii
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## discovery_sport
+    gen_2015: SKIPPED (no dashboard dir)
+    gen_2018: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=444 gens=3 written=0 added=0 skipped=0 err=-
+
+## evoque
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## freelander
+    gen_1998: SKIPPED (no dashboard dir)
+    gen_2003: SKIPPED (no dashboard dir)
+    gen_2009: SKIPPED (no dashboard dir)
+  stats: src=463 gens=3 written=0 added=0 skipped=0 err=-
+
+## range_rover
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## range_rover_evoque
+    gen_2011: SKIPPED (no dashboard dir)
+    gen_2015: SKIPPED (no dashboard dir)
+    gen_2018: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=575 gens=4 written=0 added=0 skipped=0 err=-
+
+## range_rover_sport
+    gen_2018: SKIPPED (no dashboard dir)
+    gen_2022: SKIPPED (no dashboard dir)
+  stats: src=449 gens=2 written=0 added=0 skipped=0 err=-
+
+## rr_sport
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## TOTALS: models=11 src=2848 written=0 added=0 skipped=0

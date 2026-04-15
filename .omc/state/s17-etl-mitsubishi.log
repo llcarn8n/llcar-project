@@ -1,0 +1,146 @@
+# ETL UPT brand=mitsubishi → mitsubishi dry=False create_gens=False
+
+## _all
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## asx
+    gen_2010: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=470 gens=2 written=0 added=0 skipped=0 err=-
+
+## colt
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## delica
+    gen_2007: SKIPPED (no dashboard dir)
+  stats: src=470 gens=1 written=0 added=0 skipped=0 err=-
+
+## eclipse_cross
+    gen_2018: SKIPPED (no dashboard dir)
+    gen_2021: SKIPPED (no dashboard dir)
+    gen_2024: SKIPPED (no dashboard dir)
+  stats: src=465 gens=3 written=0 added=0 skipped=0 err=-
+
+## fuso
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## galant
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## galant_1990
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## grandis
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## l200
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## l200_2014
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## l200_2015
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## l200_2016
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## l200_2017
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## l200_2018
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## l200_2019
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## l200_2020
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## l200_2021
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## l200_2022
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## l200_2023
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## l300_delica
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## lancer
+    gen_1994: SKIPPED (no dashboard dir)
+    gen_2003: +452 → total 150 (written)
+    gen_2007: SKIPPED (no dashboard dir)
+    gen_2025: SKIPPED (no dashboard dir)
+  stats: src=461 gens=4 written=150 added=452 skipped=0 err=-
+
+## lancer-x
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## lancer_x
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## montero
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## outlander
+    gen_2007: SKIPPED (no dashboard dir)
+    gen_2015: SKIPPED (no dashboard dir)
+    gen_2018: SKIPPED (no dashboard dir)
+    gen_2021: SKIPPED (no dashboard dir)
+    gen_2024: SKIPPED (no dashboard dir)
+  stats: src=458 gens=5 written=0 added=0 skipped=0 err=-
+
+## outlander-02
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## outlander_phev
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## outlander_phev_2014
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## pajero
+    gen_2006: SKIPPED (no dashboard dir)
+    gen_2015: SKIPPED (no dashboard dir)
+  stats: src=453 gens=2 written=0 added=0 skipped=0 err=-
+
+## pajero2
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## pajero_iv
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## pajero_pinin
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## pajero_sport
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## pajero_sport_2012
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## pajero_sport_2014
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## pajero_sport_2016
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## pajero_sport_2017
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## pajero_sport_2018
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## pajero_sport_2019
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## pajero_sport_2020
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## pajero_sport_2021
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## TOTALS: models=42 src=2777 written=150 added=452 skipped=0

@@ -1,0 +1,85 @@
+# ETL UPT brand=peugeot → peugeot dry=False create_gens=False
+
+## 106
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## 2008
+    gen_2019: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=426 gens=2 written=0 added=0 skipped=0 err=-
+
+## 205
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## 206
+    peugeot_206__stub: SKIPPED (no dashboard dir)
+  stats: src=422 gens=1 written=0 added=0 skipped=0 err=-
+
+## 206_2002
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## 207
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## 3008
+    gen_2020: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=439 gens=2 written=0 added=0 skipped=0 err=-
+
+## 306
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## 307
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## 308
+    gen_2021: SKIPPED (no dashboard dir)
+    gen_2025: SKIPPED (no dashboard dir)
+  stats: src=493 gens=2 written=0 added=0 skipped=0 err=-
+
+## 405
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## 406
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## 407
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## 408
+    gen_2014: +471 → total 150 (written)
+    gen_2022: SKIPPED (no dashboard dir)
+  stats: src=471 gens=2 written=150 added=471 skipped=0 err=-
+
+## 5008
+    gen_2020: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=422 gens=2 written=0 added=0 skipped=0 err=-
+
+## 508
+    gen_2014: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=426 gens=2 written=0 added=0 skipped=0 err=-
+
+## 605
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## 607
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## 807
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## _all
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## boxer
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## partner
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## peugeot_307_2001_2008
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## TOTALS: models=23 src=3099 written=150 added=471 skipped=0

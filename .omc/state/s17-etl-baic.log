@@ -1,0 +1,31 @@
+# ETL UPT brand=baic → baic dry=False create_gens=True
+
+## bj40
+    bj40_2019: +444 → total 150 (written)
+    bj40_2023: +436 → total 150 (written)
+  stats: src=444 gens=2 written=300 added=880 skipped=0 err=-
+
+## bj60
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## u5_plus
+    u5_2021: +439 → total 150 (written)
+  stats: src=440 gens=1 written=150 added=439 skipped=0 err=-
+
+## x35
+    x35_2019: +439 → total 150 (written)
+    x35_2023: +430 → total 150 (written)
+    x35: +430 → total 150 (written)
+  stats: src=440 gens=3 written=450 added=1299 skipped=0 err=-
+
+## x55
+    x55_2022: +444 → total 150 (written)
+    x55_2023: +441 → total 150 (written)
+  stats: src=444 gens=3 written=300 added=885 skipped=0 err=-
+
+## x7
+    x7_2020: +432 → total 150 (written)
+    x7_2024: +426 → total 150 (written)
+  stats: src=432 gens=2 written=300 added=858 skipped=0 err=-
+
+## TOTALS: models=6 src=2200 written=1500 added=4361 skipped=0

@@ -1,0 +1,119 @@
+# ETL UPT brand=honda → honda dry=False create_gens=False
+
+## _all
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## accord
+    gen_2018: SKIPPED (no dashboard dir)
+  stats: src=470 gens=1 written=0 added=0 skipped=0 err=-
+
+## accord-98
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## accord_2003
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## accord_2003_2008
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## accord_2013
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## accord_baxa_maxa_prelude_m6ha
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## airwave
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## city
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## civic
+    gen_1998: SKIPPED (no dashboard dir)
+    gen_2008: SKIPPED (no dashboard dir)
+    gen_2012: +371 → total 150 (written)
+    gen_2021: SKIPPED (no dashboard dir)
+    gen_2024: SKIPPED (no dashboard dir)
+    honda_civic_crx_del_sol__civic_crx_del_s: SKIPPED (no dashboard dir)
+  stats: src=439 gens=6 written=150 added=371 skipped=0 err=-
+
+## cr-v
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## cr_v
+    gen_2010: SKIPPED (no dashboard dir)
+    gen_2016: +506 → total 150 (written)
+    gen_2022: SKIPPED (no dashboard dir)
+  stats: src=507 gens=3 written=150 added=506 skipped=0 err=-
+
+## crosstour
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## crosstour_2010
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## crv
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## crv_2001
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## edix
+    honda_edix__stub: SKIPPED (no dashboard dir)
+  stats: src=426 gens=1 written=0 added=0 skipped=0 err=-
+
+## fit
+    gen_2007: SKIPPED (no dashboard dir)
+    gen_2013: SKIPPED (no dashboard dir)
+  stats: src=430 gens=2 written=0 added=0 skipped=0 err=-
+
+## fit_jazz
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## freed
+    gen_2008: SKIPPED (no dashboard dir)
+    gen_2016: SKIPPED (no dashboard dir)
+  stats: src=431 gens=2 written=0 added=0 skipped=0 err=-
+
+## hr_v
+    gen_2018: SKIPPED (no dashboard dir)
+    gen_2021: SKIPPED (no dashboard dir)
+    gen_2024: SKIPPED (no dashboard dir)
+  stats: src=432 gens=3 written=0 added=0 skipped=0 err=-
+
+## hrv_1999
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## jazz
+    gen_2020: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=428 gens=2 written=0 added=0 skipped=0 err=-
+
+## odyssey
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## odyssey_1999
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## pilot
+    gen_2022: SKIPPED (no dashboard dir)
+  stats: src=432 gens=1 written=0 added=0 skipped=0 err=-
+
+## pilot_2003
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## prelude
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## stepwgn
+    gen_2009: SKIPPED (no dashboard dir)
+    gen_2015: SKIPPED (no dashboard dir)
+  stats: src=453 gens=2 written=0 added=0 skipped=0 err=-
+
+## stream
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## stream_2000
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## TOTALS: models=31 src=4448 written=300 added=877 skipped=0

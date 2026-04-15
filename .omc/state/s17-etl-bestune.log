@@ -1,0 +1,18 @@
+# ETL UPT brand=bestune → faw_bestune dry=False create_gens=False
+
+## b70
+    b70_2020: SKIPPED (no dashboard dir)
+  stats: src=450 gens=1 written=0 added=0 skipped=0 err=-
+
+## bestune_t90
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## t77
+    t77_2020: +451 → total 150 (written)
+    gen_2021: SKIPPED (no dashboard dir)
+  stats: src=451 gens=2 written=150 added=451 skipped=0 err=-
+
+## t99
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## TOTALS: models=4 src=901 written=150 added=451 skipped=0

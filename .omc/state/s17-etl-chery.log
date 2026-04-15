@@ -1,0 +1,86 @@
+# ETL UPT brand=chery → chery dry=False create_gens=False
+
+## 7_m16_service_manual
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## 7_m16_service_manual_ru
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## _all
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## a13
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## arrizo_7
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## arrizo_7_m16_service_manual
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## arrizo_8
+    gen_2022: SKIPPED (no dashboard dir)
+  stats: src=446 gens=1 written=0 added=0 skipped=0 err=-
+
+## bonus
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## bonus_maintenance_and_owner_s_manual_rus
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## chery_tiggo_9
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## maintenance_and_owner_s_manual_rus
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## qq
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## qq_s11
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## tiggo7pro
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## tiggo_2
+    gen_2024: SKIPPED (no dashboard dir)
+  stats: src=442 gens=1 written=0 added=0 skipped=0 err=-
+
+## tiggo_4
+    gen_2022: SKIPPED (no dashboard dir)
+    gen_2025: SKIPPED (no dashboard dir)
+  stats: src=710 gens=2 written=0 added=0 skipped=2 err=-
+
+## tiggo_4_new
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## tiggo_4_pro
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## tiggo_7
+    gen_2016: SKIPPED (no dashboard dir)
+    gen_2020: SKIPPED (no dashboard dir)
+    gen_2024: SKIPPED (no dashboard dir)
+  stats: src=444 gens=3 written=0 added=0 skipped=0 err=-
+
+## tiggo_7_pro
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## tiggo_7_pro_max
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## tiggo_7_pro_max_restyled
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## tiggo_8
+    gen_2020: SKIPPED (no dashboard dir)
+  stats: src=463 gens=1 written=0 added=0 skipped=0 err=-
+
+## tiggo_8_pro
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## tiggo_8_pro_max
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## TOTALS: models=25 src=2505 written=0 added=0 skipped=2

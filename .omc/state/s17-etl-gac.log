@@ -1,0 +1,55 @@
+# ETL UPT brand=gac → gac dry=False create_gens=True
+
+## _all
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## aion_lx
+    gac_aion_lx__stub: +437 → total 150 (written)
+  stats: src=437 gens=1 written=150 added=437 skipped=0 err=-
+
+## aion_s
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## aion_y
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## emkoo
+    gen_2022: +439 → total 150 (written)
+    gac__emkoo__emkoo_2022_present_0: +439 → total 150 (written)
+  stats: src=442 gens=2 written=300 added=878 skipped=0 err=-
+
+## empow
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## gac_s7
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## gn8
+    gn8: +444 → total 150 (written)
+  stats: src=444 gens=1 written=150 added=444 skipped=0 err=-
+
+## gs3
+    gs3_2020: +441 → total 150 (written)
+    gs3_2023: +435 → total 150 (written)
+  stats: src=441 gens=2 written=300 added=876 skipped=0 err=-
+
+## gs4
+    gs4_2020: +440 → total 150 (written)
+  stats: src=442 gens=1 written=150 added=440 skipped=0 err=-
+
+## gs5
+    gs5_2018: +448 → total 150 (written)
+    gs5: +448 → total 150 (written)
+  stats: src=449 gens=2 written=300 added=896 skipped=0 err=-
+
+## gs8
+    gs8_2021: +450 → total 150 (written)
+  stats: src=450 gens=1 written=150 added=450 skipped=0 err=-
+
+## m8
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## s9
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## TOTALS: models=14 src=3105 written=1500 added=4421 skipped=0

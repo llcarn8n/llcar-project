@@ -1,0 +1,33 @@
+# ETL UPT brand=hongqi → hongqi dry=False create_gens=True
+
+## e-hs9
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## e_hs9
+    hs9_2020: +433 → total 150 (written)
+    hs9_2023: +436 → total 150 (written)
+  stats: src=436 gens=2 written=300 added=869 skipped=0 err=-
+
+## h5
+    h5_2020: +447 → total 150 (written)
+    h5: +441 → total 150 (written)
+  stats: src=448 gens=2 written=300 added=888 skipped=1 err=-
+
+## h9
+    h9_2020: +434 → total 150 (written)
+    h9_2023: +428 → total 150 (written)
+    h9: +428 → total 150 (written)
+  stats: src=434 gens=3 written=450 added=1290 skipped=0 err=-
+
+## hongqi_ehs9
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## hongqi_hq9
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## hs5
+    hs5_2019: +434 → total 150 (written)
+    hs5_2023: +427 → total 150 (written)
+  stats: src=435 gens=2 written=300 added=861 skipped=0 err=-
+
+## TOTALS: models=7 src=1753 written=1350 added=3908 skipped=1

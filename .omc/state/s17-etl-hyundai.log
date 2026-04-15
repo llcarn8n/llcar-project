@@ -1,0 +1,105 @@
+# ETL UPT brand=hyundai → hyundai dry=False create_gens=False
+
+## _all
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## accent
+    gen_2017: SKIPPED (no dashboard dir)
+  stats: src=431 gens=1 written=0 added=0 skipped=0 err=-
+
+## creta
+    gen_2020: +558 → total 150 (written)
+    gen_2024: SKIPPED (no dashboard dir)
+    hyundai__creta_2nd_gen__creta_2nd_gen_0: SKIPPED (no dashboard dir)
+  stats: src=558 gens=3 written=150 added=558 skipped=0 err=-
+
+## elantra
+    gen_2003: SKIPPED (no dashboard dir)
+    gen_2009: SKIPPED (no dashboard dir)
+    gen_2012: +528 → total 150 (written)
+    gen_2018: +530 → total 150 (written)
+    gen_2021: SKIPPED (no dashboard dir)
+  stats: src=537 gens=5 written=300 added=1058 skipped=0 err=-
+
+## galloper
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## getz
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## i30
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## i40
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## i40_2
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## ioniq
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## ioniq_5
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## ix35
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## kona
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## matrix
+    gen_2001: SKIPPED (no dashboard dir)
+  stats: src=405 gens=1 written=0 added=0 skipped=0 err=-
+
+## palisade
+    gen_2018: +424 → total 150 (written)
+    gen_2021: SKIPPED (no dashboard dir)
+    gen_2025: SKIPPED (no dashboard dir)
+  stats: src=425 gens=3 written=150 added=424 skipped=0 err=-
+
+## porter
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## r320lc
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## santa_fe
+    gen_2018: +510 → total 150 (written)
+    gen_2023: SKIPPED (no dashboard dir)
+    hyundai__santa_fe_tm__santa_fe_tm_0: SKIPPED (no dashboard dir)
+  stats: src=510 gens=3 written=150 added=510 skipped=0 err=-
+
+## solaris
+    gen_2017: SKIPPED (no dashboard dir)
+  stats: src=470 gens=1 written=0 added=0 skipped=0 err=-
+
+## solaris_2
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## sonata
+    gen_2019: +537 → total 150 (written)
+  stats: src=537 gens=1 written=150 added=537 skipped=0 err=-
+
+## starex
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## staria
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## staria_premium
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## tucson
+    gen_2018: +525 → total 150 (written)
+    gen_2021: +517 → total 150 (written)
+    gen_2024: SKIPPED (no dashboard dir)
+  stats: src=525 gens=3 written=300 added=1042 skipped=0 err=-
+
+## tucson-2007
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## venue
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## TOTALS: models=27 src=4398 written=1200 added=4129 skipped=0

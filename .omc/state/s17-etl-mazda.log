@@ -1,0 +1,137 @@
+# ETL UPT brand=mazda → mazda dry=False create_gens=False
+
+## 2
+    gen_2007: SKIPPED (no dashboard dir)
+    gen_2014: SKIPPED (no dashboard dir)
+    gen_2022: SKIPPED (no dashboard dir)
+  stats: src=423 gens=3 written=0 added=0 skipped=0 err=-
+
+## 323
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## 323_1998
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## 3_2003
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## 3_series
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## 6
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## 626
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## 626_1997
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## 626mx6_1989
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## 6_2002
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## _all
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## bongo
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## cx
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## cx7
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## cx_3
+    gen_2015: SKIPPED (no dashboard dir)
+    gen_2018: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=428 gens=3 written=0 added=0 skipped=0 err=-
+
+## cx_30
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## cx_5
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## cx_5_2021
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## cx_60
+    gen_2022: SKIPPED (no dashboard dir)
+  stats: src=427 gens=1 written=0 added=0 skipped=0 err=-
+
+## cx_7
+    gen_2009: SKIPPED (no dashboard dir)
+    gen_2024: SKIPPED (no dashboard dir)
+  stats: src=475 gens=2 written=0 added=0 skipped=0 err=-
+
+## cx_9
+    gen_2016: SKIPPED (no dashboard dir)
+  stats: src=423 gens=1 written=0 added=0 skipped=0 err=-
+
+## demio
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## demio_1996
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## mazda2
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## mazda3
+    mazda_mazda3__stub: SKIPPED (no dashboard dir)
+  stats: src=473 gens=1 written=0 added=0 skipped=0 err=-
+
+## mazda3_2003
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## mazda6
+    mazda_mazda6__stub: SKIPPED (no dashboard dir)
+  stats: src=431 gens=1 written=0 added=0 skipped=0 err=-
+
+## mazda6_2002
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## mazda_demio_1996_2002
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## mpv
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## mpv_1996
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## mpv_1999
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## mx5_miata
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## mx_5
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## premacy
+    mazda_premacy__stub: SKIPPED (no dashboard dir)
+  stats: src=423 gens=1 written=0 added=0 skipped=0 err=-
+
+## premacy_1999
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## tribute
+    mazda_tribute__stub: SKIPPED (no dashboard dir)
+  stats: src=423 gens=1 written=0 added=0 skipped=0 err=-
+
+## tribute_2000
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## x3
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## x7
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## TOTALS: models=40 src=3926 written=0 added=0 skipped=0

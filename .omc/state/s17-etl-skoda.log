@@ -1,0 +1,109 @@
+# ETL UPT brand=skoda → skoda dry=False create_gens=False
+
+## _all
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## fabia
+    gen_2022: SKIPPED (no dashboard dir)
+    gen_2021: +664 → total 150 (written)
+    gen_2023: SKIPPED (no dashboard dir)
+    gen_2024: SKIPPED (no dashboard dir)
+  stats: src=689 gens=5 written=150 added=664 skipped=1 err=-
+
+## fabia_2
+    gen_2021: SKIPPED (no dashboard dir)
+    gen_2024: SKIPPED (no dashboard dir)
+  stats: src=667 gens=2 written=0 added=0 skipped=1 err=-
+
+## felicia
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## karoq
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## karoq_2
+    gen_2020: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=666 gens=2 written=0 added=0 skipped=1 err=-
+
+## kodiaq
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## kodiaq_2
+    gen_2016: SKIPPED (no dashboard dir)
+    gen_2021: SKIPPED (no dashboard dir)
+    gen_2024: SKIPPED (no dashboard dir)
+  stats: src=668 gens=3 written=0 added=0 skipped=1 err=-
+
+## octavia
+    gen_2004: SKIPPED (no dashboard dir)
+  stats: src=673 gens=1 written=0 added=0 skipped=1 err=-
+
+## octavia_1996
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## octavia_3
+    gen_2005: SKIPPED (no dashboard dir)
+    gen_2017: SKIPPED (no dashboard dir)
+    gen_2020: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=669 gens=4 written=0 added=0 skipped=1 err=-
+
+## octavia_a4
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## octavia_a5
+    a5: SKIPPED (no dashboard dir)
+  stats: src=667 gens=1 written=0 added=0 skipped=1 err=-
+
+## octavia_a7
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## octavia_ii
+    gen_2004: SKIPPED (no dashboard dir)
+  stats: src=668 gens=1 written=0 added=0 skipped=1 err=-
+
+## rapid
+    gen_2011: SKIPPED (no dashboard dir)
+    gen_2017: SKIPPED (no dashboard dir)
+    gen_2020: +810 → total 150 (written)
+    gen_2024: SKIPPED (no dashboard dir)
+  stats: src=832 gens=4 written=150 added=810 skipped=2 err=-
+
+## rapid_spaceback
+    gen_2013: SKIPPED (no dashboard dir)
+  stats: src=665 gens=1 written=0 added=0 skipped=1 err=-
+
+## scala
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## scala_2
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=665 gens=1 written=0 added=0 skipped=1 err=-
+
+## superb
+    gen_2013: +695 → total 150 (written)
+    gen_2023: SKIPPED (no dashboard dir)
+    gen_2024: SKIPPED (no dashboard dir)
+    gen_2019: SKIPPED (no dashboard dir)
+  stats: src=696 gens=7 written=150 added=695 skipped=1 err=-
+
+## superb_2
+    gen_2013: SKIPPED (no dashboard dir)
+    gen_2019: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=666 gens=3 written=0 added=0 skipped=1 err=-
+
+## superb_ii
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## yeti
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## yeti_2
+    gen_2009: SKIPPED (no dashboard dir)
+    gen_2013: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=665 gens=3 written=0 added=0 skipped=1 err=-
+
+## TOTALS: models=24 src=9556 written=450 added=2169 skipped=15

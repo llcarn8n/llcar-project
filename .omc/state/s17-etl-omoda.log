@@ -1,0 +1,31 @@
+# ETL UPT brand=omoda → omoda dry=False create_gens=False
+
+## 9
+    gen_2024: SKIPPED (no dashboard dir)
+  stats: src=442 gens=1 written=0 added=0 skipped=0 err=-
+
+## _c5
+    c5_2023: SKIPPED (no dashboard dir)
+  stats: src=442 gens=1 written=0 added=0 skipped=0 err=-
+
+## c5
+    c5_2023: +454 → total 150 (written)
+  stats: src=454 gens=1 written=150 added=454 skipped=0 err=-
+
+## c7
+    c7_2025: SKIPPED (no dashboard dir)
+  stats: src=447 gens=1 written=0 added=0 skipped=0 err=-
+
+## c9
+    c9_2023: SKIPPED (no dashboard dir)
+  stats: src=442 gens=1 written=0 added=0 skipped=0 err=-
+
+## e5
+    e5: SKIPPED (no dashboard dir)
+  stats: src=444 gens=1 written=0 added=0 skipped=0 err=-
+
+## s5
+    s5_2023: +444 → total 150 (written)
+  stats: src=444 gens=1 written=150 added=444 skipped=0 err=-
+
+## TOTALS: models=7 src=3115 written=300 added=898 skipped=0

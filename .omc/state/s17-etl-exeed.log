@@ -1,0 +1,56 @@
+# ETL UPT brand=exeed → exeed dry=False create_gens=False
+
+## _all
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## es
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## exeed_et
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## exlantix_et
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## lx
+    gen_2019: +473 → total 150 (written)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=473 gens=2 written=150 added=473 skipped=0 err=-
+
+## rx
+    gen_2022: SKIPPED (no dashboard dir)
+    exeed__rx__0: SKIPPED (no dashboard dir)
+  stats: src=440 gens=2 written=0 added=0 skipped=0 err=-
+
+## sterra_es
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=436 gens=1 written=0 added=0 skipped=0 err=-
+
+## sterra_et
+    gen_2024: SKIPPED (no dashboard dir)
+  stats: src=440 gens=1 written=0 added=0 skipped=0 err=-
+
+## tx
+    exeed_tx__stub: SKIPPED (no dashboard dir)
+  stats: src=474 gens=1 written=0 added=0 skipped=0 err=-
+
+## txl
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## txl_debug
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## txtxl
+    gen_2021: SKIPPED (no dashboard dir)
+    gen_2020: SKIPPED (no dashboard dir)
+  stats: src=433 gens=2 written=0 added=0 skipped=0 err=-
+
+## vx
+    gen_2021: SKIPPED (no dashboard dir)
+  stats: src=443 gens=1 written=0 added=0 skipped=0 err=-
+
+## yaoguang
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=433 gens=1 written=0 added=0 skipped=0 err=-
+
+## TOTALS: models=14 src=3572 written=150 added=473 skipped=0

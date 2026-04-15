@@ -1,0 +1,55 @@
+# ETL UPT brand=ssangyong → ssangyong dry=False create_gens=True
+
+## _all
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## actyon
+    gen_2006: +655 → total 150 (written)
+    gen_2012: +672 → total 150 (written)
+    gen_2024: +660 → total 150 (written)
+  stats: src=691 gens=3 written=450 added=1987 skipped=2 err=-
+
+## korando
+    gen_2013: +627 → total 150 (written)
+    gen_2019: +615 → total 150 (written)
+    gen_2023: +635 → total 150 (written)
+  stats: src=656 gens=3 written=450 added=1877 skipped=1 err=-
+
+## kyron
+    gen_2005: +655 → total 150 (written)
+  stats: src=657 gens=1 written=150 added=655 skipped=2 err=-
+
+## musso
+    gen_2005: +620 → total 150 (written)
+    gen_2021: +616 → total 150 (written)
+    gen_2024: +600 → total 150 (written)
+    ssangyong__musso__musso_2018_present_0: +594 → total 150 (written)
+    ssangyong__musso_grand__musso_grand_2019: +594 → total 150 (written)
+  stats: src=649 gens=5 written=750 added=3024 skipped=1 err=-
+
+## rexton
+    gen_2017: +647 → total 150 (written)
+    gen_2021: +629 → total 150 (written)
+    gen_2024: +626 → total 150 (written)
+    ssangyong__rexton_fl__rexton_fl_2021_pre: +620 → total 150 (written)
+  stats: src=663 gens=4 written=600 added=2522 skipped=1 err=-
+
+## rexton2
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## rexton_v1_ocr
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## rexton_v2_ocr
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## rukovodstvo_po_ekspluatatsii_ssangyong_actyon_sports_actyon
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## tivoli
+    gen_2015: +629 → total 150 (written)
+    gen_2019: +629 → total 150 (written)
+    gen_2023: +619 → total 150 (written)
+  stats: src=654 gens=3 written=450 added=1877 skipped=1 err=-
+
+## TOTALS: models=11 src=3970 written=2850 added=11942 skipped=8

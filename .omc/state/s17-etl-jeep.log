@@ -1,0 +1,37 @@
+# ETL UPT brand=jeep → jeep dry=False create_gens=False
+
+## _all
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## cherokee
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## compass
+    gen_2018: SKIPPED (no dashboard dir)
+    gen_2021: SKIPPED (no dashboard dir)
+    gen_2024: SKIPPED (no dashboard dir)
+    jeep_compass__compass: SKIPPED (no dashboard dir)
+  stats: src=461 gens=4 written=0 added=0 skipped=0 err=-
+
+## grand_cherokee
+    gen_2013: +445 → total 150 (written)
+    gen_2018: SKIPPED (no dashboard dir)
+    gen_2021: SKIPPED (no dashboard dir)
+    gen_2024: SKIPPED (no dashboard dir)
+  stats: src=445 gens=4 written=150 added=445 skipped=0 err=-
+
+## renegade
+    gen_2014: SKIPPED (no dashboard dir)
+    gen_2018: SKIPPED (no dashboard dir)
+    gen_2024: SKIPPED (no dashboard dir)
+  stats: src=445 gens=3 written=0 added=0 skipped=0 err=-
+
+## tj_wrangler_1998
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## wrangler
+    gen_2018: +453 → total 150 (written)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=453 gens=2 written=150 added=453 skipped=0 err=-
+
+## TOTALS: models=7 src=1804 written=300 added=898 skipped=0

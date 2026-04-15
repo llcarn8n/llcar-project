@@ -1,0 +1,45 @@
+# ETL UPT brand=zeekr → zeekr dry=False create_gens=False
+
+## 001
+    gen_2021: +648 → total 150 (written)
+    gen_2024: SKIPPED (no dashboard dir)
+  stats: src=649 gens=2 written=150 added=648 skipped=1 err=-
+
+## 007
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=633 gens=1 written=0 added=0 skipped=1 err=-
+
+## 009
+    gen_2022: SKIPPED (no dashboard dir)
+  stats: src=641 gens=1 written=0 added=0 skipped=1 err=-
+
+## 009_user_manual_eng
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## 7gt
+    gen_2026: SKIPPED (no dashboard dir)
+    zeekr__7gt__7gt_2025_present_0: SKIPPED (no dashboard dir)
+  stats: src=637 gens=2 written=0 added=0 skipped=1 err=-
+
+## 7x
+    gen_2024: SKIPPED (no dashboard dir)
+    zeekr__7x__0: SKIPPED (no dashboard dir)
+  stats: src=629 gens=2 written=0 added=0 skipped=1 err=-
+
+## 9x
+    gen_2025: SKIPPED (no dashboard dir)
+  stats: src=629 gens=1 written=0 added=0 skipped=1 err=-
+
+## _all
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## mix
+    gen_2024: SKIPPED (no dashboard dir)
+  stats: src=629 gens=1 written=0 added=0 skipped=1 err=-
+
+## x
+    gen_2023: +632 → total 150 (written)
+    zeekr__x__0: SKIPPED (no dashboard dir)
+  stats: src=633 gens=2 written=150 added=632 skipped=1 err=-
+
+## TOTALS: models=10 src=5080 written=300 added=1280 skipped=8

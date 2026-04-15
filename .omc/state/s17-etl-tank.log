@@ -1,0 +1,21 @@
+# ETL UPT brand=tank → tank dry=False create_gens=True
+
+## 300
+    gen_2020: +819 → total 150 (written)
+    gen_2023: +774 → total 150 (written)
+  stats: src=822 gens=2 written=300 added=1593 skipped=1 err=-
+
+## 400
+    gen_2023: +664 → total 150 (written)
+  stats: src=665 gens=1 written=150 added=664 skipped=1 err=-
+
+## 500
+    gen_2022: +676 → total 150 (written)
+    gen_2025: +676 → total 150 (written)
+  stats: src=679 gens=2 written=300 added=1352 skipped=1 err=-
+
+## 700
+    gen_2024: +662 → total 150 (written)
+  stats: src=665 gens=1 written=150 added=662 skipped=1 err=-
+
+## TOTALS: models=4 src=2831 written=900 added=4271 skipped=4

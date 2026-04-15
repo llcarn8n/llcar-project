@@ -1,0 +1,33 @@
+# ETL UPT brand=kaiyi → kaiyi dry=False create_gens=True
+
+## _all
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## _x3_pro
+    x3_2023: +432 → total 150 (written)
+    x3: +432 → total 150 (written)
+  stats: src=432 gens=2 written=300 added=864 skipped=0 err=-
+
+## _x7_kunlun
+    x7_2023: +432 → total 150 (written)
+    x7: +432 → total 150 (written)
+  stats: src=432 gens=3 written=300 added=864 skipped=0 err=-
+
+## e5
+    e5_2021: +452 → total 150 (written)
+    e5: +452 → total 150 (written)
+  stats: src=452 gens=2 written=300 added=904 skipped=0 err=-
+
+## showjet
+    gen_2020: +437 → total 150 (written)
+  stats: src=437 gens=1 written=150 added=437 skipped=0 err=-
+
+## x3
+    x3_2020: +442 → total 150 (written)
+  stats: src=442 gens=1 written=150 added=442 skipped=0 err=-
+
+## x7
+    x7_2024: +439 → total 150 (written)
+  stats: src=439 gens=1 written=150 added=439 skipped=0 err=-
+
+## TOTALS: models=7 src=2634 written=1350 added=3950 skipped=0

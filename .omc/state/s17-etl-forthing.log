@@ -1,0 +1,52 @@
+# ETL UPT brand=forthing → forthing dry=False create_gens=True
+
+## 580
+    forthing_580__stub: +440 → total 150 (written)
+  stats: src=440 gens=1 written=150 added=440 skipped=0 err=-
+
+## _friday
+    forthing__friday__friday_2023_present_0: +438 → total 150 (written)
+  stats: src=438 gens=1 written=150 added=438 skipped=0 err=-
+
+## ax7
+    ax7: +438 → total 150 (written)
+  stats: src=438 gens=1 written=150 added=438 skipped=0 err=-
+
+## forthing__friday
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## friday
+    forthing__friday__friday_2023_present_0: +433 → total 150 (written)
+  stats: src=433 gens=1 written=150 added=433 skipped=0 err=-
+
+## friday_rhd
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## h30_cross
+    h30: +438 → total 150 (written)
+  stats: src=438 gens=1 written=150 added=438 skipped=0 err=-
+
+## m4
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## t5
+    t5_2022: +443 → total 150 (written)
+  stats: src=443 gens=1 written=150 added=443 skipped=0 err=-
+
+## t5_evo
+    t5_2020: +434 → total 150 (written)
+    t5_2023: +437 → total 150 (written)
+  stats: src=437 gens=2 written=300 added=871 skipped=0 err=-
+
+## t5_hev
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## t5_sx3
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## u_tour
+    gen_2024: +437 → total 150 (written)
+    forthing__u_tour__u_tour_2022_present_0: +435 → total 150 (written)
+  stats: src=437 gens=2 written=300 added=872 skipped=0 err=-
+
+## TOTALS: models=13 src=3504 written=1500 added=4373 skipped=0

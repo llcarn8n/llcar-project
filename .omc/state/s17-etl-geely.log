@@ -1,0 +1,73 @@
+# ETL UPT brand=geely → geely dry=False create_gens=False
+
+## _all
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## _cityray
+    gen_2024: SKIPPED (no dashboard dir)
+  stats: src=438 gens=1 written=0 added=0 skipped=0 err=-
+
+## atlas
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## atlas_pro
+    gen_2016: SKIPPED (no dashboard dir)
+    gen_2021: SKIPPED (no dashboard dir)
+  stats: src=503 gens=2 written=0 added=0 skipped=0 err=-
+
+## cityray
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## coolray
+    geely_coolray__stub: SKIPPED (no dashboard dir)
+  stats: src=442 gens=1 written=0 added=0 skipped=0 err=-
+
+## coolray_2019
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## emgrand
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## emgrand_ev
+    gen_2022: SKIPPED (no dashboard dir)
+    geely__emgrand_4th_gen__0: SKIPPED (no dashboard dir)
+  stats: src=440 gens=2 written=0 added=0 skipped=0 err=-
+
+## ex5
+    ex5_2024: SKIPPED (no dashboard dir)
+  stats: src=440 gens=1 written=0 added=0 skipped=0 err=-
+
+## galaxy
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## geely_galaxy_l7
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## geely_galaxy_m9
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## mk
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## monjaro
+    gen_2021: SKIPPED (no dashboard dir)
+  stats: src=458 gens=1 written=0 added=0 skipped=0 err=-
+
+## monjaro_2023_kx11
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## okavango
+    gen_2020: SKIPPED (no dashboard dir)
+  stats: src=438 gens=1 written=0 added=0 skipped=0 err=-
+
+## preface
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## tugella
+    gen_2020: SKIPPED (no dashboard dir)
+  stats: src=443 gens=1 written=0 added=0 skipped=0 err=-
+
+## x5
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## TOTALS: models=20 src=3602 written=0 added=0 skipped=0

@@ -1,0 +1,76 @@
+# ETL UPT brand=volvo → volvo dry=False create_gens=False
+
+## 240
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## 340
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## 440_460_480
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## 740_760
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## 850
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## _all
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## s40
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## s40_v40_ocr
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## s60
+    s60_2010: +660 → total 150 (written)
+    s60_2018: +659 → total 150 (written)
+  stats: src=669 gens=2 written=300 added=1319 skipped=1 err=-
+
+## s80
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## s90
+    s90_1997: SKIPPED (no dashboard dir)
+    s90_2016: SKIPPED (no dashboard dir)
+    s90_2019: SKIPPED (no dashboard dir)
+  stats: src=658 gens=3 written=0 added=0 skipped=1 err=-
+
+## v40
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## v60
+    v60_2018: SKIPPED (no dashboard dir)
+  stats: src=660 gens=1 written=0 added=0 skipped=1 err=-
+
+## v90
+    v90_1997: SKIPPED (no dashboard dir)
+    v90_2018: SKIPPED (no dashboard dir)
+  stats: src=658 gens=2 written=0 added=0 skipped=1 err=-
+
+## xc40
+    xc40_2018: SKIPPED (no dashboard dir)
+    xc40_2021: SKIPPED (no dashboard dir)
+    xc40_2024: SKIPPED (no dashboard dir)
+  stats: src=656 gens=3 written=0 added=0 skipped=1 err=-
+
+## xc60
+    xc60_2017: +662 → total 150 (written)
+    xc60_2021: SKIPPED (no dashboard dir)
+    xc60_2024: SKIPPED (no dashboard dir)
+  stats: src=663 gens=3 written=150 added=662 skipped=1 err=-
+
+## xc70
+    xc70_2007: SKIPPED (no dashboard dir)
+    xc70_2025: SKIPPED (no dashboard dir)
+  stats: src=654 gens=2 written=0 added=0 skipped=1 err=-
+
+## xc90
+    xc90_2014: +644 → total 150 (written)
+    xc90_2018: SKIPPED (no dashboard dir)
+    xc90_2023: SKIPPED (no dashboard dir)
+  stats: src=672 gens=3 written=150 added=644 skipped=1 err=-
+
+## TOTALS: models=18 src=5290 written=600 added=2625 skipped=8

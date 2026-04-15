@@ -1,0 +1,32 @@
+# ETL UPT brand=livan → livan dry=False create_gens=True
+
+## 2008
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## 7
+    gen_2023: +450 → total 150 (written)
+  stats: src=450 gens=1 written=150 added=450 skipped=0 err=-
+
+## 9
+    gen_2022: +443 → total 150 (written)
+  stats: src=443 gens=1 written=150 added=443 skipped=0 err=-
+
+## _all
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## s6_pro
+    s6_2023: +449 → total 150 (written)
+  stats: src=449 gens=1 written=150 added=449 skipped=0 err=-
+
+## solano
+    livan_solano__stub: +443 → total 150 (written)
+  stats: src=443 gens=1 written=150 added=443 skipped=0 err=-
+
+## x3_pro
+    x3_2022: +448 → total 150 (written)
+  stats: src=448 gens=1 written=150 added=448 skipped=0 err=-
+
+## x50
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## TOTALS: models=8 src=2233 written=750 added=2233 skipped=0

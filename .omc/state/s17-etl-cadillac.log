@@ -1,0 +1,44 @@
+# ETL UPT brand=cadillac → cadillac dry=False create_gens=False
+
+## ct5
+    ct5: SKIPPED (no dashboard dir)
+  stats: src=431 gens=1 written=0 added=0 skipped=0 err=-
+
+## ct6
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## cts
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## escalade
+    gen_2007: SKIPPED (no dashboard dir)
+    gen_2010: SKIPPED (no dashboard dir)
+    gen_2014: SKIPPED (no dashboard dir)
+    gen_2020: SKIPPED (no dashboard dir)
+    gen_2024: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+    gen_2022: SKIPPED (no dashboard dir)
+    gen_2006: SKIPPED (no dashboard dir)
+  stats: src=484 gens=12 written=0 added=0 skipped=0 err=-
+
+## rx
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## srx
+    gen_2009: SKIPPED (no dashboard dir)
+  stats: src=437 gens=1 written=0 added=0 skipped=0 err=-
+
+## xt4
+    xt4_2020: SKIPPED (no dashboard dir)
+    xt4_2023: SKIPPED (no dashboard dir)
+  stats: src=436 gens=2 written=0 added=0 skipped=0 err=-
+
+## xt5
+    xt5_2016: +435 → total 150 (written)
+    gen_2017: SKIPPED (no dashboard dir)
+    xt5_2018: SKIPPED (no dashboard dir)
+    gen_2020: SKIPPED (no dashboard dir)
+    xt5_2023: SKIPPED (no dashboard dir)
+  stats: src=439 gens=5 written=150 added=435 skipped=0 err=-
+
+## TOTALS: models=8 src=2227 written=150 added=435 skipped=0

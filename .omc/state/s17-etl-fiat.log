@@ -1,0 +1,66 @@
+# ETL UPT brand=fiat → fiat dry=False create_gens=False
+
+## 500
+    gen_2015: SKIPPED (no dashboard dir)
+    gen_2018: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=434 gens=3 written=0 added=0 skipped=0 err=-
+
+## _all
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## albea
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## bravo
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## coupe
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## croma
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## doblo
+    fiat_doblo__stub: SKIPPED (no dashboard dir)
+  stats: src=444 gens=1 written=0 added=0 skipped=1 err=-
+
+## ducato
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=456 gens=1 written=0 added=0 skipped=0 err=-
+
+## fiat_tipo_1988_1991
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## grande_punto
+    fiat_grande_punto__stub: SKIPPED (no dashboard dir)
+  stats: src=433 gens=1 written=0 added=0 skipped=0 err=-
+
+## grande_punto_2004
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## marea
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## ocr
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## palio
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## punto
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## stilo
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## tempra
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## tipo
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## uno
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## TOTALS: models=19 src=1767 written=0 added=0 skipped=1

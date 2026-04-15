@@ -1,0 +1,46 @@
+# ETL UPT brand=voyah → voyah dry=False create_gens=False
+
+## 6d3mmp__rukovodstvo_pol_zovatela__free
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## _all
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## courage
+    gen_2024: SKIPPED (no dashboard dir)
+  stats: src=665 gens=1 written=0 added=0 skipped=1 err=-
+
+## dream
+    gen_2022: SKIPPED (no dashboard dir)
+  stats: src=663 gens=1 written=0 added=0 skipped=1 err=-
+
+## dreamer
+    gen_2022: SKIPPED (no dashboard dir)
+    gen_2024: SKIPPED (no dashboard dir)
+  stats: src=666 gens=3 written=0 added=0 skipped=1 err=-
+
+## dreamer_2
+    gen_2022: SKIPPED (no dashboard dir)
+  stats: src=666 gens=1 written=0 added=0 skipped=1 err=-
+
+## ekgnqf_voyah_dream_s4_ekrannaa_versia_13
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## free
+    gen_2021: +677 → total 150 (written)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=678 gens=3 written=150 added=677 skipped=1 err=-
+
+## free_2
+    gen_2021: SKIPPED (no dashboard dir)
+  stats: src=661 gens=1 written=0 added=0 skipped=1 err=-
+
+## passion
+    gen_2022: SKIPPED (no dashboard dir)
+  stats: src=661 gens=1 written=0 added=0 skipped=1 err=-
+
+## taishan
+    gen_2025: SKIPPED (no dashboard dir)
+  stats: src=661 gens=1 written=0 added=0 skipped=1 err=-
+
+## TOTALS: models=11 src=5321 written=150 added=677 skipped=8

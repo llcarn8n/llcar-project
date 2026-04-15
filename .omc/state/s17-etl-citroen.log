@@ -1,0 +1,52 @@
+# ETL UPT brand=citroen → citroen dry=False create_gens=False
+
+## _all
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## berlingo
+    gen_2006: SKIPPED (no dashboard dir)
+    gen_2018: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=445 gens=3 written=0 added=0 skipped=0 err=-
+
+## c3
+    c3_2009: SKIPPED (no dashboard dir)
+    c3_2019: SKIPPED (no dashboard dir)
+    c3_2022: SKIPPED (no dashboard dir)
+    c3_2025: SKIPPED (no dashboard dir)
+  stats: src=428 gens=4 written=0 added=0 skipped=0 err=-
+
+## c3_picasso
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## c4
+    c4_2023: SKIPPED (no dashboard dir)
+  stats: src=511 gens=1 written=0 added=0 skipped=0 err=-
+
+## c5
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## c5_2008
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## c5_aircross
+    c5_2023: SKIPPED (no dashboard dir)
+  stats: src=425 gens=1 written=0 added=0 skipped=0 err=-
+
+## c5_break
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## c_crosser
+    citroen_c_crosser__stub: SKIPPED (no dashboard dir)
+  stats: src=473 gens=1 written=0 added=0 skipped=0 err=-
+
+## xsara
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## xsara_picasso
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## zx
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## TOTALS: models=13 src=2282 written=0 added=0 skipped=0

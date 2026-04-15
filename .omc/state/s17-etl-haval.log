@@ -1,0 +1,47 @@
+# ETL UPT brand=haval → haval dry=False create_gens=False
+
+## _all
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## dargo
+    gen_2021: SKIPPED (no dashboard dir)
+  stats: src=461 gens=1 written=0 added=0 skipped=0 err=-
+
+## f7
+    f7_2022: +468 → total 150 (written)
+  stats: src=468 gens=1 written=150 added=468 skipped=0 err=-
+
+## f7x
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## h2
+    h2_2016: SKIPPED (no dashboard dir)
+  stats: src=438 gens=1 written=0 added=0 skipped=0 err=-
+
+## h4
+    h4_2017: SKIPPED (no dashboard dir)
+  stats: src=439 gens=1 written=0 added=0 skipped=0 err=-
+
+## h5
+    h5_2023: SKIPPED (no dashboard dir)
+  stats: src=486 gens=1 written=0 added=0 skipped=0 err=-
+
+## h6
+    h6_2020: SKIPPED (no dashboard dir)
+    h6_2024: SKIPPED (no dashboard dir)
+  stats: src=507 gens=2 written=0 added=0 skipped=0 err=-
+
+## h9
+    h9_2024: +449 → total 150 (written)
+  stats: src=449 gens=1 written=150 added=449 skipped=0 err=-
+
+## jolion
+    gen_2021: SKIPPED (no dashboard dir)
+    gen_2024: SKIPPED (no dashboard dir)
+  stats: src=599 gens=2 written=0 added=0 skipped=1 err=-
+
+## m6
+    m6_2023: SKIPPED (no dashboard dir)
+  stats: src=438 gens=1 written=0 added=0 skipped=0 err=-
+
+## TOTALS: models=11 src=4285 written=300 added=917 skipped=1

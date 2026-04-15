@@ -1,0 +1,107 @@
+# ETL UPT brand=opel → opel dry=False create_gens=False
+
+## _all
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## antara
+    gen_2006: SKIPPED (no dashboard dir)
+  stats: src=448 gens=1 written=0 added=0 skipped=0 err=-
+
+## astra
+    gen_2011: SKIPPED (no dashboard dir)
+    gen_2024: SKIPPED (no dashboard dir)
+  stats: src=471 gens=2 written=0 added=0 skipped=0 err=-
+
+## astra_1998_2000
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## astra_gtc
+    gen_2011: SKIPPED (no dashboard dir)
+    gen_2024: SKIPPED (no dashboard dir)
+  stats: src=446 gens=2 written=0 added=0 skipped=0 err=-
+
+## astra_j
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## calibra
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## combo
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## combo_life
+    gen_2018: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=440 gens=2 written=0 added=0 skipped=0 err=-
+
+## corsa
+    opel_corsa__stub: SKIPPED (no dashboard dir)
+  stats: src=447 gens=1 written=0 added=0 skipped=1 err=-
+
+## corsa_d
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## corsa_d_2006_2010
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## frontera
+    gen_1998: SKIPPED (no dashboard dir)
+    gen_2024: SKIPPED (no dashboard dir)
+  stats: src=441 gens=2 written=0 added=0 skipped=0 err=-
+
+## grandland
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## insignia
+    gen_2020: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=444 gens=2 written=0 added=0 skipped=0 err=-
+
+## meriva
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## meriva_b
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## mokka
+    gen_2012: SKIPPED (no dashboard dir)
+    gen_2021: SKIPPED (no dashboard dir)
+    gen_2024: SKIPPED (no dashboard dir)
+  stats: src=446 gens=3 written=0 added=0 skipped=0 err=-
+
+## omega
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## omega_b
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## vectra
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## vectra_b
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## vectra_c
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## vectra_c_2002
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## vectra_hatchback
+    gen_1999: SKIPPED (no dashboard dir)
+    gen_2005: SKIPPED (no dashboard dir)
+  stats: src=440 gens=2 written=0 added=0 skipped=0 err=-
+
+## vectra_sedan
+    gen_1999: SKIPPED (no dashboard dir)
+    gen_2005: SKIPPED (no dashboard dir)
+  stats: src=440 gens=2 written=0 added=0 skipped=0 err=-
+
+## vivaro
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## zafira
+    opel_zafira__stub: SKIPPED (no dashboard dir)
+  stats: src=449 gens=1 written=0 added=0 skipped=0 err=-
+
+## TOTALS: models=28 src=4912 written=0 added=0 skipped=1

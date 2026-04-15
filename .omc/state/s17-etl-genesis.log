@@ -1,0 +1,41 @@
+# ETL UPT brand=genesis → genesis dry=False create_gens=True
+
+## _all
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## g70
+    g70_2017: +434 → total 150 (written)
+    g70_2020: +433 → total 150 (written)
+    g70_2023: +430 → total 150 (written)
+    g70: +430 → total 150 (written)
+  stats: src=437 gens=4 written=600 added=1727 skipped=0 err=-
+
+## g80
+    g80_2018: +438 → total 150 (written)
+    g80_2023: +430 → total 150 (written)
+  stats: src=438 gens=2 written=300 added=868 skipped=0 err=-
+
+## g90
+    g90_2019: +435 → total 150 (written)
+    g90_2023: +428 → total 150 (written)
+    g90: +427 → total 150 (written)
+  stats: src=436 gens=3 written=450 added=1290 skipped=0 err=-
+
+## gv60
+    gen_2021: +432 → total 150 (written)
+    gv70_2023: +430 → total 150 (written)
+    gen_2024: +430 → total 150 (written)
+    gv70_2024: +430 → total 150 (written)
+  stats: src=432 gens=6 written=600 added=1722 skipped=0 err=-
+
+## gv70
+    gv70_2021: +439 → total 150 (written)
+    gv70_2024: +435 → total 150 (written)
+  stats: src=439 gens=2 written=300 added=874 skipped=0 err=-
+
+## gv80
+    gv80_2020: +436 → total 150 (written)
+    gv80_2023: +430 → total 150 (written)
+  stats: src=436 gens=2 written=300 added=866 skipped=0 err=-
+
+## TOTALS: models=7 src=2618 written=2550 added=7347 skipped=0

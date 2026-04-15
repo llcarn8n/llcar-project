@@ -1,0 +1,203 @@
+# ETL UPT brand=volkswagen → volkswagen dry=False create_gens=False
+
+## 2023_volkswagen_id4_12
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## _all
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## _misc
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## at_volkswagen_passat_audi_095
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## beetle
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## bora
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## caddy
+    gen_2016: SKIPPED (no dashboard dir)
+    gen_2020: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=622 gens=3 written=0 added=0 skipped=1 err=-
+
+## caravelle
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## caravelle_2
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=619 gens=1 written=0 added=0 skipped=1 err=-
+
+## crafter
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=622 gens=1 written=0 added=0 skipped=1 err=-
+
+## golf
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## golf3
+    volkswagen_golf3__stub: SKIPPED (no dashboard dir)
+  stats: src=617 gens=1 written=0 added=0 skipped=1 err=-
+
+## golf_2
+    gen_2018: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=619 gens=2 written=0 added=0 skipped=1 err=-
+
+## golf_6
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## golf_demo
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## id4
+    gen_2020: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+    volkswagen__id4__e2_2020_present_0: SKIPPED (no dashboard dir)
+  stats: src=617 gens=3 written=0 added=0 skipped=1 err=-
+
+## id5
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## id6
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## jetta
+    gen_2005: SKIPPED (no dashboard dir)
+    gen_2018: SKIPPED (no dashboard dir)
+    gen_2021: SKIPPED (no dashboard dir)
+    gen_2024: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=639 gens=5 written=0 added=0 skipped=1 err=-
+
+## jetta_2
+    gen_2005: SKIPPED (no dashboard dir)
+    gen_2018: SKIPPED (no dashboard dir)
+    gen_2021: SKIPPED (no dashboard dir)
+    gen_2024: SKIPPED (no dashboard dir)
+  stats: src=617 gens=4 written=0 added=0 skipped=1 err=-
+
+## jetta_2010
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## multivan
+    gen_2003: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=619 gens=2 written=0 added=0 skipped=1 err=-
+
+## multivan_t5
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## passat
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## passat_2
+    gen_1996: SKIPPED (no dashboard dir)
+    b6_2005: SKIPPED (no dashboard dir)
+    gen_2010: SKIPPED (no dashboard dir)
+    b8_2018: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=617 gens=5 written=0 added=0 skipped=1 err=-
+
+## passat_b6
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## passat_cc
+    gen_2008: SKIPPED (no dashboard dir)
+  stats: src=617 gens=1 written=0 added=0 skipped=1 err=-
+
+## polo
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## polo_1994
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## polo_2
+    gen_2021: SKIPPED (no dashboard dir)
+    gen_2024: SKIPPED (no dashboard dir)
+  stats: src=617 gens=2 written=0 added=0 skipped=1 err=-
+
+## polo_2015
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## polo_sedan
+    volkswagen_polo_sedan__stub: SKIPPED (no dashboard dir)
+  stats: src=617 gens=1 written=0 added=0 skipped=1 err=-
+
+## polo_v2_ru_reocr
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## scirocco
+    gen_2008: SKIPPED (no dashboard dir)
+    gen_2014: SKIPPED (no dashboard dir)
+  stats: src=617 gens=2 written=0 added=0 skipped=1 err=-
+
+## sharan
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## sharan_2
+    gen_2000: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=617 gens=2 written=0 added=0 skipped=1 err=-
+
+## t_roc_2
+    gen_2022: SKIPPED (no dashboard dir)
+    gen_2026: SKIPPED (no dashboard dir)
+  stats: src=617 gens=2 written=0 added=0 skipped=1 err=-
+
+## taos
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## taos_2
+    gen_2021: SKIPPED (no dashboard dir)
+    gen_2024: SKIPPED (no dashboard dir)
+  stats: src=617 gens=2 written=0 added=0 skipped=1 err=-
+
+## teramont
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## teramont_2
+    gen_2017: SKIPPED (no dashboard dir)
+    gen_2021: SKIPPED (no dashboard dir)
+  stats: src=617 gens=2 written=0 added=0 skipped=1 err=-
+
+## tiguan
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## tiguan_2
+    gen_2011: SKIPPED (no dashboard dir)
+    gen_2016: SKIPPED (no dashboard dir)
+    gen_2020: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=617 gens=4 written=0 added=0 skipped=1 err=-
+
+## touareg
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## touareg_2
+    gen_2014: SKIPPED (no dashboard dir)
+    gen_2019: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+    volkswagen__touareg_cr__cr_facelift_2023: SKIPPED (no dashboard dir)
+  stats: src=617 gens=4 written=0 added=0 skipped=1 err=-
+
+## touran
+    gen_2006: SKIPPED (no dashboard dir)
+    gen_2015: SKIPPED (no dashboard dir)
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=617 gens=3 written=0 added=0 skipped=1 err=-
+
+## transporter
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## transporter_2
+    gen_2023: SKIPPED (no dashboard dir)
+  stats: src=617 gens=1 written=0 added=0 skipped=1 err=-
+
+## volkswagen_golf_1984_1992
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## TOTALS: models=49 src=13612 written=0 added=0 skipped=22

@@ -1,0 +1,19 @@
+# ETL UPT brand=jaecoo → jaecoo dry=False create_gens=True
+
+## _j7_phev
+    j7: +443 → total 150 (written)
+  stats: src=443 gens=1 written=150 added=443 skipped=0 err=-
+
+## j6
+    j6_2024: +443 → total 150 (written)
+  stats: src=443 gens=1 written=150 added=443 skipped=0 err=-
+
+## j7
+    j7_2023: +463 → total 150 (written)
+  stats: src=463 gens=1 written=150 added=463 skipped=0 err=-
+
+## j8
+    j8_2023: +449 → total 150 (written)
+  stats: src=449 gens=1 written=150 added=449 skipped=0 err=-
+
+## TOTALS: models=4 src=1798 written=600 added=1798 skipped=0

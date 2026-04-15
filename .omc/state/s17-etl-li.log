@@ -1,0 +1,33 @@
+# ETL UPT brand=li → li_auto dry=False create_gens=True
+
+## l7
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## l8
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## l9
+  stats: src=0 gens=0 written=0 added=0 skipped=0 err=no gens
+
+## li_i6
+    gen_2025: +440 → total 150 (written)
+  stats: src=440 gens=1 written=150 added=440 skipped=0 err=-
+
+## li_i8
+    gen_2025: +440 → total 150 (written)
+  stats: src=440 gens=1 written=150 added=440 skipped=0 err=-
+
+## li_l6
+    l6_2024: +451 → total 150 (written)
+  stats: src=451 gens=1 written=150 added=451 skipped=0 err=-
+
+## li_mega
+    gen_2024: +451 → total 150 (written)
+  stats: src=451 gens=1 written=150 added=451 skipped=0 err=-
+
+## li_one
+    gen_2019: +441 → total 150 (written)
+    gen_2021: +433 → total 150 (written)
+  stats: src=441 gens=2 written=300 added=874 skipped=0 err=-
+
+## TOTALS: models=8 src=2223 written=900 added=2656 skipped=0
