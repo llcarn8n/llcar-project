@@ -1,526 +1,476 @@
-# SESSION HANDOFF — детальный статус для S19
+# Передача сессии S19 — полный контекст проекта
 
-**Последнее обновление:** 2026-04-15 (конец мульти-сессии S16+S17+S18)
-**Ветка:** `dashboard-v3`
-**Последний коммит:** `d6ddfa8 refactor(kb): один источник DTC + model-level files collapsed`
+**Дата:** 2026-04-15
+**Ветка Git:** `dashboard-v3`
+**Последний коммит:** `a952a7d docs: уточнить — manuals + images НЕ в repo`
 
 ---
 
-## 1. Что сейчас на prod (llcar.ru/v3)
+## Часть 1. Что работает на боевом сервере
 
-Развёрнуто на `webadmin@185.55.57.145:/var/www/html/django/static/spa-v3/`. API `/api/v2/diagnose-latest/` отвечает 200.
-
-Deploy процесс: `bash scripts/deploy-v3.sh --frontend-only` (only static) + ручной tar upload для `data/kb/`:
+**Адрес:** `https://llcar.ru/v3/` — фронт, `https://185.55.57.145/api/v2/` — API.
+**SSH-доступ:** скрипты-обёртки `/tmp/llcar_ssh.sh` и `/tmp/llcar_scp.sh` (пароль `webadmin` вшит, используют SSH-ключ `~/.ssh/id_ed25519.txt`). Пример:
 ```bash
-cd llcar-dashboard/dist && tar -czf /tmp/kb_data.tar.gz data/
-/tmp/llcar_scp.sh /tmp/kb_data.tar.gz webadmin@185.55.57.145:/tmp/
-/tmp/llcar_ssh.sh "cd /var/www/html/django/static/spa-v3 && tar -xzf /tmp/kb_data.tar.gz"
+/tmp/llcar_ssh.sh "команда на сервере"
+/tmp/llcar_scp.sh <локальный_файл> webadmin@185.55.57.145:/путь/
 ```
 
-**Важно:** tar НЕ удаляет файлы, только добавляет/перезаписывает. Для удаления старого — делать `find ... -delete` через /tmp/llcar_ssh.sh ПЕРЕД extract.
+**Путь установки на сервере:** `/var/www/html/django/static/spa-v3/`. Внутри:
+- `static/` — собранные JS/CSS чанки (Vite output)
+- `data/` — вся база знаний (KB), статические JSON/MD файлы
+
+**Скрипт деплоя:** `scripts/deploy-v3.sh --frontend-only`
+- Собирает фронт (`npm run build`)
+- Загружает `dist/static/` диффом на сервер
+- **НЕ загружает `dist/data/kb/`** (это нужно делать вручную tar-ом)
+
+**Ручная загрузка данных KB:**
+```bash
+cd llcar-dashboard/dist
+tar -czf /tmp/kb.tar.gz data/
+/tmp/llcar_scp.sh /tmp/kb.tar.gz webadmin@185.55.57.145:/tmp/
+/tmp/llcar_ssh.sh "cd /var/www/html/django/static/spa-v3 && tar -xzf /tmp/kb.tar.gz"
+```
+
+**Важная ловушка:** `tar -xzf` НЕ удаляет файлы, только перезаписывает/добавляет. Если переименовал/удалил файлы локально, нужно удалить их и на сервере вручную через `/tmp/llcar_ssh.sh "find ... -delete"`.
 
 ---
 
-## 2. Текущая структура данных (что где лежит)
+## Часть 2. Где и что хранится
 
-### 2.1 Root `llcar-dashboard/public/data/`
+### 2.1 Локальный проект
+
+Корневая папка: `C:/Users/Петр/Downloads/Маркетинговые материалы/`
 
 ```
-data/
-├── situations-universal.json   # 764 universal ситуаций (один файл)
-├── brands-index.json           # список брендов для vehicle picker
-├── brands/                     # {brandId}.json — структура моделей/поколений
-├── brands-info/                # доп metadata
-├── descriptions/               # описания
-├── diagnostic-rules.json       # 110 правил диагностики
-├── manuals/                    # PDF manuals (legacy, не используется)
-├── recalls.json                # 298 отзывных кампаний
-└── kb/                         # knowledge base (main focus S17-S18)
+Маркетинговые материалы/
+├── llcar-dashboard/              Фронтенд SPA (React + Vite + TypeScript)
+│   ├── src/                      TypeScript исходники
+│   ├── public/data/              Статика для фронта (копируется в dist при build)
+│   │   ├── situations-universal.json       764 универсальные ситуации (файл один)
+│   │   ├── brands-index.json               Список брендов для UI
+│   │   ├── brands/{brand}.json             Структура моделей/поколений каждого бренда
+│   │   ├── kb/                             Основная база знаний (см. раздел 2.2)
+│   │   ├── diagnostic-rules.json           110 правил
+│   │   ├── recalls.json                    298 отзывных кампаний
+│   │   └── ... (manuals/, descriptions/, brands-info/)
+│   ├── e2e/                      Playwright тесты (5 штук, 1 проходит)
+│   ├── dist/                     Результат npm run build
+│   └── package.json
+│
+├── scripts/                      Python-скрипты для обработки KB
+├── docs/                         Документация
+├── .omc/state/                   Промежуточные состояния (verifier findings, audit logs)
+├── memory/ (нет — см. ~/.claude/projects/.../memory/)
+├── SESSION-HANDOFF.md            Этот файл
+├── S16-KB-MASTER-ROADMAP.md      Сводная карта 58 брендов
+├── VERIFIER-FINDINGS-S16-P4.md   Находки верификатора S16
+└── Context.docx                  Исходный Context (старый)
 ```
 
-### 2.2 `data/kb/` — основная KB
+Память Claude: `~/.claude/projects/C--Users------Downloads------------------------/memory/`
+- `MEMORY.md` — индекс
+- `project_session15_progress.md`, `16`, `17` — логи сессий
+
+План: `~/.claude/plans/encapsulated-wibbling-coral.md` — обновляется перед каждой крупной работой.
+
+### 2.2 Структура базы знаний `llcar-dashboard/public/data/kb/`
+
+**Текущая структура (её нужно переделать в gen-first в S19):**
 
 ```
 kb/
-├── _dtc_index.json             # 9.2 MB — universal OBD-II titles + sit_refs
-│   ├── titles: { CODE: {title_ru, severity, system_id, can_drive} }   # 35,911
-│   ├── index:  { CODE: [{sit_id, title, brand, model, generation, urg, cat}] }  # ~1,400
-│   ├── total_codes, total_mappings, titles_source: "liauto_export_v1"
+├── _dtc_index.json                 Универсальные DTC коды (9.2 MB)
+│   ├── titles: {CODE: {title_ru, severity, system_id, can_drive}}  — 35 911 кодов
+│   ├── index:  {CODE: [{sit_id, title, brand, model, generation, urg, cat}]}  — 1 447 связей
+│   └── titles_source: "liauto_export_v1" (источник — Li Auto export)
 │
-├── _articles_index.json        # 80 articles metadata
-├── _articles/*.md              # 80 full articles (1500-2500 chars каждая)
+├── _articles_index.json            Индекс 80 полных статей
+├── _articles/*.md                  80 статей (markdown, 1500-2500 символов)
 │
-├── _quality_report.json        # метаинфо
-│
-└── {brand}/                    # 58 brands + 2 meta-файла
-    ├── _brand.json             # brand metadata (name, country, tier, powertrain_types)
-    ├── _dtc.json               # NEW S18 — brand + model DTC
-    │   ├── brand_codes: { CODE: {note_ru, common_fix_ru, severity, system_id, can_drive} }
-    │   └── models: { model_name: { CODE: {...} } }
+└── {brand}/                        58 брендов (audi, bmw, byd, kia, toyota, ...)
+    ├── _brand.json                 Метаданные бренда (название, страна, tier)
+    ├── _dtc.json                   DTC коды бренда (после S18):
+    │   ├── brand_codes: {CODE: {note_ru, common_fix_ru, severity, ...}}
+    │   └── models: {модель: {CODE: {...}}}
     │
-    └── {model}/                # модели бренда
-        ├── _model.json          # model metadata
-        ├── parts-catalog.json   # запчасти (ONE per model)  ← ДОЛЖНО БЫТЬ PER-GEN в S19
-        ├── reviews.md           # обзоры (ONE per model)    ← ДОЛЖНО БЫТЬ PER-GEN в S19
-        ├── manual_meta.json     # ссылка на мануал (ONE per model) ← ДОЛЖНО БЫТЬ PER-GEN в S19
-        ├── images.json          # индекс images (ONE per model) ← ДОЛЖНО БЫТЬ PER-GEN
+    └── {model}/                    Модели бренда
+        ├── _model.json             Метаданные модели
+        ├── parts-catalog.json      Каталог запчастей (247 файлов, 47 522 записей)
+        ├── reviews.md              Отзывы (178 файлов)
+        ├── manual_meta.json        Ссылка на мануал (210 файлов)
+        ├── images.json             Индекс изображений (154 файла, 107 167 картинок)
         │
-        └── {gen}/               # поколения
-            ├── meta.json        # gen meta (сырой)
-            ├── situations.json  # gen-specific ситуации (brand/model/gen-specific only)
-            └── videos.json      # video links per gen
+        └── {gen}/                  Поколения модели
+            ├── meta.json           Метаданные поколения
+            ├── situations.json     Ситуации конкретного поколения (432 файла, 7 458 записей)
+            └── videos.json         Видео-ссылки (198 файлов, 1 123 ссылки)
 ```
 
-### 2.3 Счётчики файлов (prod)
+**Известная проблема структуры (решается в S19):**
+Файлы `parts-catalog.json`, `reviews.md`, `manual_meta.json`, `images.json` лежат на уровне МОДЕЛИ, то есть одна копия на все поколения. Это неправильно, потому что:
+- Мануал BMW 3 F30 ≠ мануал BMW 3 G20 (разные моторы, платформы, электрика)
+- Запчасти EA888 Gen3 ≠ EA888 Gen2 (разные OEM артикулы)
+- Отзывы пишутся про конкретное поколение
+- Изображения разных поколений разные
+- Видео разные
 
-**На 2026-04-15:**
-- `situations.json` (per-gen): **432 файла**, **7,458 записей**
-- `_dtc_index.json`: **1 файл** (universal titles 35,911 + sit_refs 1,447)
-- `{brand}/_dtc.json`: **58 файлов** (brand-level + per-model codes, **8,070 unique codes**)
-- `parts-catalog.json` (per-model): **247 файлов**, **47,522 parts**
-- `reviews.md` (per-model): **178 файлов**
-- `manual_meta.json` (per-model): **210 файлов**
-  - ⚠ **Сами мануалы (manual.md) НЕ в репо** — лежат в `D:/transfer4/knowledge-base/brands/{brand}/models/{model}/manual.md` (гигабайты OCR). В repo только `manual_meta.json` с ссылкой `source_path_rel`. **Импорт самих мануалов будет добавлен в следующих сессиях по запросу** (нужно: upload на prod как static assets + ManualViewer с lazy-fetch)
-- `images.json` (per-model): **154 файла**, **107,167 images indexed**
-  - ⚠ **Сами изображения НЕ в репо** — лежат в `D:/transfer4/knowledge-base/brands/{brand}/models/{model}/images/*.{jpg,png,webp}` (2625+ файлов per model, ~5-10GB total). В repo только `images.json` с mapping `[{filename, size, source_rel}]`. **Импорт самих images будет добавлен в следующих сессиях по запросу** (upload на prod CDN + ImagesPanel компонент + lazy thumbnail)
-- `videos.json` (per-gen): **198 файлов**, **1,123 video links**
-- `_articles/*.md`: **80 статей**
-- `brand` dirs: **80 total** (58 brands + 22 подпапок)
+**Целевая структура (S19):** всё выше — на уровень ПОКОЛЕНИЯ. Уровень модели — только fallback, если в источнике (`D:/transfer4`) нет разделения.
 
-### 2.4 Источник данных
+### 2.3 Внешний источник данных `D:/transfer4/knowledge-base/`
 
-`D:/transfer4/knowledge-base/` — 288GB, подготовленные данные.
-- `brands/{brand}/` — 58 брендов
-  - `manifest.json`, `hierarchy.json`, `dtc-brand.json`, `situations.json`, `sources.json`, `specs.json`
-  - `chunks/chunks-*.md` — brand-level контент
-  - `images/` — orphan images
-  - `models/{model}/`:
-    - `manual.md` — ОСНОВНОЙ мануал (MinerU OCR)
-    - `manual-{variant}.md` — варианты OCR/язык
-    - `18-dita-manual.json` — DITA структура
-    - `19-system-articles.json` — маппинг система→топики
-    - `03-hierarchy.md`
-    - `reviews.md`, `reviews-tg.md`
-    - `video.md` — сырые видео ссылки
-    - `dtc.json`, `dtc-model.json` — DTC коды
-    - `info.json` — спецификации + generations[]
-    - `parts-catalog.json`, `05-parts-catalog.md`
-    - `images/` — 2625+ изображений
-    - `pdfs/` — исходные PDF
-    - `{generation}/` — per-gen subfolder (ТОЛЬКО когда >1 gen в модели):
-      - `manual.md`, `18-dita-manual.json`, `images/`, ...
+Это отдельный диск с подготовленной базой. 288 GB. **В репозиторий не попадает.**
 
-- `_common/` — universal источники:
-  - `situations-universal.json` (764) — уже в `public/data/`
-  - `dtc-index.json` (36102 = 35911 + minor drops) — уже в `kb/_dtc_index.json.titles`
-  - `hierarchy_bev/ice/phev.json`, `recalls-database.json`, `vehicles-ru.json`, `wmi-database.json`
+```
+D:/transfer4/knowledge-base/
+├── _common/                        Универсальные данные
+│   ├── situations-universal.json   764 ситуации (уже перенесены в llcar)
+│   ├── dtc-index.json              36 102 DTC кода (уже в llcar как titles)
+│   ├── hierarchy_bev/ice/phev.json
+│   ├── recalls-database.json
+│   ├── vehicles-ru.json
+│   └── wmi-database.json
+│
+├── brands/                         58 брендов
+│   └── {brand}/
+│       ├── manifest.json, hierarchy.json, dtc-brand.json, situations.json
+│       ├── chunks/chunks-*.md      Brand-level текстовый контент
+│       ├── images/                 Orphan картинки (не привязаны к модели)
+│       └── models/
+│           └── {model}/
+│               ├── manual.md                ОСНОВНОЙ мануал (OCR из PDF)
+│               ├── manual-{variant}.md      Другие OCR/язык
+│               ├── 18-dita-manual.json      Структура DITA
+│               ├── 19-system-articles.json  Маппинг система→топики
+│               ├── reviews.md                Отзывы (drom, web)
+│               ├── reviews-tg.md             Из Telegram
+│               ├── video.md                  Сырые видео-ссылки (уже перенесены)
+│               ├── dtc.json, dtc-model.json  DTC коды модели
+│               ├── info.json                 Спецификации + generations[]
+│               ├── parts-catalog.json        Запчасти (уже импортированы, но на model-level)
+│               ├── images/                   Изображения (не импортированы)
+│               ├── pdfs/                     Исходные PDF
+│               ├── chunk_generation_map.json Маппинг файл→поколение
+│               └── {generation}/             Подпапка поколения (только если >1 поколения):
+│                   ├── manual.md             Мануал конкретного поколения
+│                   ├── 18-dita-manual.json
+│                   ├── images/
+│                   └── ...
+│
+└── export/                         Данные Li Auto (legacy, 275 MB, не импортированы)
+    ├── dtc-index.json              35 911 DTC (совпадает с _common, уже используется)
+    ├── 08-articles-full.json       102 статьи (не импортированы)
+    ├── 05-parts-catalog.md         2 577 запчастей (не импортированы)
+    ├── 07-glossary.md, 02-daily-tips.md, 06-articles.md
+    └── 13-chunk-translations.json  Переводы RU/EN/ZH
+```
 
-- `export/` — Li Auto legacy данные (35k DTC, 102 articles, 2577 parts, 9000 chunks) — большая часть не импортирована
+**Важно:**
+- **Мануалы (`manual.md`)** — НЕ в репозитории. Только `manual_meta.json` со ссылкой на путь в `D:/transfer4`. Импорт будет добавлен в следующих сессиях по запросу (нужно загрузить на prod-сервер как статику + написать компонент ManualViewer).
+- **Изображения (`images/*.{jpg,png,webp}`)** — НЕ в репозитории. Только `images.json` со списком. Импорт тоже по запросу.
+- **PDF, DITA, chunks-*.md** — НЕ используются сейчас, остаются в `D:/transfer4`.
 
 ---
 
-## 3. Что сделано в S16+S17+S18 (19 коммитов)
+## Часть 3. Что сделано (сессии S16, S17, S18)
 
-### Коммиты (`git log --oneline da826d1..HEAD`)
-```
-d6ddfa8 refactor(kb): один источник DTC + model-level files collapsed
-1ae251f fix(kb): strip cross-brand contamination (-130 records)
-5be8bb2 docs: S18 COMPLETE handoff
-99f5e0a feat(kb): S18 GLM verifier pass — 100 batches, -245 wrong records
-1ecb386 refactor(kb): один источник DTC + strip universal ситуаций из per-gen
-029625e fix(kb): dtc model notes — одна копия на модель вместо per-gen
-d0035da feat(kb): S18 import 391763 brand/model DTC notes from D:/transfer4
-6c5f87b fix(kb): S18 apply 8 medium-confidence verifier findings
-b6d2f40 fix(kb): S18 cleanup + UI render parts/manual
-e34fb1d docs: S18 P2 rich content COMPLETE — parts + reviews + manual_meta deployed
-51dc66a feat(kb): S18 P2 rich content — parts + reviews + manual_meta + images.json
-1d9396e docs: Session 17 COMPLETE handoff
-e2da19e chore(kb): rebuild _dtc_index after S17 ETL
-fae6ebc feat(kb): S17 Phase 2+3 — 14 missing brands bootstrapped + 41 expanded
-698136e feat(kb): S17 Phase 1 — ETL UPT pilot Toyota (3060→4460 sit)
-b6f9f9b docs(kb): deep analysis situations — ETL алгоритм
-d08b090 docs(kb): S16-KB-MASTER-ROADMAP — consolidation 14 audits
-6adbbc4 audit(kb): 14 агентов проверили D:/transfer4 vs llcar KB
-659a43d content(kb): P5 COMPLETE — 80/80 full articles valid (target reached)
-```
+### S16 — Фундамент базы знаний
 
-### 3.1 S16 (фундамент)
-- Schema fix — 51 issues → 0 (OBD-II mojibake cleanup)
-- DtcSearch integration в KnowledgeBase.tsx с табами + cross-tab navigation
-- Verifier 7 Round 4/5 brands (findings на диске в `.omc/state/s16-p4-verifier/*.json`)
-- 1123 video links импортированы из D:/transfer4/brands/*/models/*/video.md
-- 35911 DTC titles из `_common/dtc-index.json`
-- 80 full articles finalized (+50 в S16)
-- Playwright E2E (1/5 проходит — остальные нужен WebGL fix)
+1. **Исправлена схема:** было 51 нарушение (битые DTC коды, mojibake cyrillic), стало 0.
+2. **Поиск по DTC** — добавлен компонент `DtcSearch` в страницу `/kb` с двумя вкладками («Ситуации» и «Поиск по DTC»). Клик по коду ведёт в ситуацию.
+3. **Верификатор 7 брендов** (HiPhi, Nio, Leap, Jidu, IM, XPENG, Voyah) — 7 агентов проверили факты, нашли ошибки, сохранили в `.omc/state/s16-p4-verifier/*.json`.
+4. **Импортировано 1 123 видео-ссылки** из `D:/transfer4/brands/*/models/*/video.md` (RuTube, YouTube, VK и т.д.).
+5. **Добавлены 35 911 названий DTC кодов** с русскими переводами из Li Auto export.
+6. **80 полных статей** — завершён P5, все проходят валидацию.
+7. **Playwright E2E** — настроен, 5 тестов написано, 1 проходит (проблема с WebGL в headless Chromium для canvas-тестов).
 
-### 3.2 S17 (ETL expansion)
-- **ETL UPT algorithm** — `scripts/etl_situations_upt.py`
-  - 3-pass gen matcher: codes substring → exact → year overlap
-  - Schema transform: `quickAnswer→qa, urgency→urg, category→cat`
-  - Skip CJK/short qa/mojibake
-- **Brand mapping** — `scripts/transfer4_brand_mapping.json`
-  - `mercedes_benz→mercedes, li→li_auto, bestune→faw_bestune`
-  - Model aliases: `jaguar/f-pace→f_pace, honda/cr-v→cr_v, jazz→fit, es250→es`
-- **P1 expand** — 41 existing brands, 10→150 sit per gen
-- **P0 bootstrap** — 14 missing brands created (--create-gens):
-  - `baic, belgee, daewoo, datsun, forthing, gac, genesis, hongqi, jaecoo, kaiyi, li_auto, livan, ssangyong, tank`
-- **14-group audit** — отчёты в `.omc/state/s16-kb-audit/group{01..14}_*.md`
-- **Master roadmap** — `S16-KB-MASTER-ROADMAP.md`
+### S17 — Расширение базы ситуаций
 
-### 3.3 S18 (rich content + refactor)
-- **Rich content import:**
-  - `scripts/p2_copy_parts_catalog.py` — parts-catalog.json (cap 200/gen)
-  - `scripts/p2_copy_reviews.py` — reviews.md (cap 50KB)
-  - `scripts/p2_build_manual_meta.py` — manual_meta.json + images.json index
-- **DTC consolidation:**
-  - `scripts/s18_import_brand_dtc.py` — импорт brand/model DTC
-  - `scripts/s18_consolidate_dtc_to_one.py` — один `{brand}/_dtc.json`
-- **Cleanup:**
-  - `scripts/s18_cleanup_gen_dirs.py` — -34 дубля gen dirs + 8 renames ugly names
-  - `scripts/s18_strip_universal_from_gens.py` — -23,642 universal duplicates
-  - `scripts/s18_strip_brand_mismatch.py` — -130 cross-brand (Lada в BMW и т.п.)
-  - `scripts/s18_collapse_model_level.py` — -1,071 per-gen duplicates (parts/reviews/manual)
-- **GLM verifier pass:**
-  - `scripts/s18_extract_unique_situations.py` — 870 batch файлов (26,093 uniq sit)
-  - 5 sonnet agents × 20 batches = 100 batches verified (3000 sit проверены)
-  - `scripts/s18_apply_verifier_strip.py` — -245 wrong records
-  - Findings: `.omc/state/s18-verifier-findings/batch_{0000..0099}.json`
-- **UI updates:**
-  - `DtcSearch.tsx` — показывает русские DTC titles из `_dtc_index.json.titles`
-  - `KnowledgeBase.tsx` — parts-catalog panel + manual_meta panel
-  - `SituationsList.tsx` — `initialExpandedId` + pin-to-top sort
-  - `DTCSearch.tsx` (legacy в /dtc) — мигрирован на `_dtc_index.json` + `{brand}/_dtc.json`
+Исходная проблема: в dashboard было 3 060 ситуаций, в `D:/transfer4` — 400-700 на модель (всего ~180 000). Покрытие было 1-3%.
+
+**Что сделано:**
+1. **Написан ETL алгоритм UPT** (Universal-Plus-Targeted) — `scripts/etl_situations_upt.py`:
+   - Читает `{model}/situations.json` или `{model}/{gen}/situations.json` (что богаче)
+   - Определяет к какому поколению относится ситуация: по коду в тексте (F30, XV70) → по файлу из `chunk_generation_map.json` → по году в диапазоне `[ys..ye]` → иначе универсальная (копируется во все поколения модели)
+   - Трансформирует схему: `quickAnswer→qa`, `urgency(0-3)→urg(1-5)`, `category→cat`
+   - Пропускает CJK/мусор/слишком короткие записи
+2. **Создана карта соответствия имён** `scripts/transfer4_brand_mapping.json`:
+   ```
+   mercedes_benz → mercedes
+   li → li_auto
+   bestune → faw_bestune
+   jaguar/f-pace → jaguar/f_pace
+   honda/cr-v → honda/cr_v
+   honda/jazz → honda/fit
+   lexus/es250 → lexus/es
+   ```
+3. **Расширены 41 существующих бренд** — с 10 до 150 ситуаций на поколение.
+4. **Созданы 14 отсутствующих брендов** (P0 bootstrap):
+   `baic, belgee, daewoo, datsun, forthing, gac, genesis, hongqi, jaecoo, kaiyi, li_auto, livan, ssangyong, tank`
+5. **14-агентский аудит** — проверка D:/transfer4 vs llcar KB, сохранены отчёты в `.omc/state/s16-kb-audit/group{01..14}_*.md`.
+6. **Master roadmap** — сводная таблица 58 брендов с процентами покрытия в `S16-KB-MASTER-ROADMAP.md`.
+
+**Итог S17:** 3 060 → 36 575 ситуаций (было 12× больше), но с дубликатами universal-ситуаций.
+
+### S18 — Очистка + rich content + реструктуризация
+
+1. **Rich content** — импортированы запчасти (47 522 parts в 247 файлах), отзывы (268 reviews.md), метаданные мануалов (314 manual_meta), индексы изображений (232 images.json, 107 167 картинок).
+2. **Консолидация DTC**:
+   - Было: `{brand}/_brand_dtc.json` (58) + `{brand}/{model}/{gen}/dtc_brand_notes.json` (333, с дубликатами) + legacy `data/dtc-search.json` + `data/brands-dtc/{brand}.json`.
+   - Стало: один файл `{brand}/_dtc.json` с полями `brand_codes` и `models`. Все остальные источники удалены.
+3. **Удаление дубликатов**:
+   - **23 642 universal-ситуаций** удалены из per-gen файлов (они уже лежат в `public/data/situations-universal.json`, незачем копировать).
+   - **130 cross-brand** записей удалены (Lada упомянута в BMW и т.п.).
+   - **1 071 дубликат** parts-catalog/reviews/manual_meta (одинаковые файлы в разных поколениях) — переместили на уровень модели.
+   - **34 дубликата** целых папок поколений (одинаковые situations.json).
+4. **GLM верификатор** — 5 агентов sonnet × 20 батчей × 30 ситуаций = 3 000 проверено GLM 5.1. Итог: 1 420 OK, 361 suspect, 903 wrong. **245 wrong удалены**, 658 из 903 уже были удалены раньше (это были те самые universal-дубликаты).
+5. **8 medium-confidence правок** применены из S16 verifier (HiPhi supplier, Jidu motor power, Leap DC peak, XPENG DC-DC, и т.д.).
+6. **Очистка корявых имён** — `ssangyong__musso__musso_2018_present_0` → `gen_2018`, ещё 8 переименований, 34 удаления.
+7. **UI компоненты:**
+   - В `KnowledgeBase.tsx` добавлены панели «Запчасти» (показывает каталог) и «Мануал» (показывает статистику + badge DITA/PDF).
+   - `DtcSearch.tsx` — показывает русские названия DTC кодов.
+   - Legacy `DTCSearch.tsx` на `/dtc` — мигрирован на новый `_dtc_index.json`.
+
+**Итог S18:** 7 458 чистых ситуаций (только brand/model/gen-specific), 0 нарушений схемы, структура консолидирована.
 
 ---
 
-## 4. Что НЕ сделано — тасклист S19
+## Часть 4. Цифры сейчас
 
-### 4.1 СТРУКТУРНАЯ ПРОБЛЕМА (высший приоритет)
+| Показатель | Значение | Примечание |
+|---|---|---|
+| Ситуации (per-gen) | 7 458 | В 432 файлах situations.json, только brand/model/gen-specific |
+| Универсальные ситуации | 764 | Один файл `public/data/situations-universal.json` |
+| DTC коды (brand+model) | 8 070 уникальных | В 58 файлах `{brand}/_dtc.json` |
+| DTC universal titles | 35 911 | Русские названия OBD-II кодов, в `_dtc_index.json.titles` |
+| Parts (запчасти) | 47 522 | В 247 файлах parts-catalog.json (на уровне модели) |
+| Reviews (отзывы) | 178 файлов | В файлах reviews.md (на уровне модели) |
+| Manuals indexed | 210 | **Сами мануалы НЕ в репо**, в `D:/transfer4`. Добавление по запросу в будущих сессиях. |
+| Images indexed | 107 167 | **Сами изображения НЕ в репо**, в `D:/transfer4`. Добавление по запросу в будущих сессиях. |
+| Full articles | 80 | Markdown статьи 1500-2500 символов |
+| Video ссылки | 1 123 | RuTube/YouTube/VK ссылки |
+| Бренды (папки) | 80 | 58 брендов + подпапки variants |
+| Ошибки валидатора схемы | **0** | Всё чисто |
+| Размер KB локально | 232 MB | На диске |
+| Размер KB на prod | 232 MB | Синхронизировано |
 
-Текущее состояние смешанное: parts-catalog/reviews.md/manual_meta.json/images.json лежат на **model-level** (один на модель), хотя ДОЛЖНЫ быть **per-gen** (F30 ≠ G20 BMW 3 Series).
+---
 
-**Обоснование gen-first:**
-- BMW 3 F30 мануал ≠ G20 мануал (разные engines/platforms)
-- 2.0 TFSI EA888 Gen3 parts ≠ 1.8 TSI EA888 Gen2 parts
-- Обзоры пишутся про конкретное поколение
-- Изображения/видео — конкретное поколение
+## Часть 5. Что НЕ сделано — задачи для S19
 
-**Требует:**
-1. Переписать `p2_copy_parts_catalog.py`, `p2_copy_reviews.py`, `p2_build_manual_meta.py`:
-   - Сначала искать `{src}/models/{model}/{gen_dir}/parts-catalog.json` (если есть per-gen subfolder в D:/transfer4)
-   - Использовать `{src}/models/{model}/chunk_generation_map.json` для маппинга какой мануал к какому gen
-   - Fallback на model-level только если source не имеет gen разделения
-2. Re-extract из D:/transfer4 с gen-first priority
-3. UI cascade loader (`utils/kbCascade.ts`):
-   - Fetch gen-specific первым, model-level как fallback
-   - Badge на каждой записи: `_source: "gen"|"model"|"brand"|"universal"`
-4. Очистить текущие model-level копии после re-extract
+### 5.1 ГЛАВНАЯ задача: gen-first структура
 
-### 4.2 RENAME metadata (underscore usage)
+**Суть:** переделать так, чтобы `parts-catalog.json`, `reviews.md`, `manual_meta.json`, `images.json`, `videos.json` лежали на уровне ПОКОЛЕНИЯ, а не модели.
 
-Сейчас:
-- `{brand}/_brand.json`, `{brand}/{model}/_model.json`
-- `_dtc_index.json`, `_articles_index.json`
+**Зачем:** разные поколения одной модели — практически разные машины (разные моторы, платформы, электрика). Данные должны быть привязаны именно к поколению.
 
-Хотим: underscore только для DIRS (`_universal/`, `_articles/`).
-Файлы — без underscore:
-- `_brand.json` → `brand.json`
-- `_model.json` → `model.json`
-- `meta.json` (gen-level) → `gen.json` (с обогащением: name, ys, ye, codes, body_type)
-- `_articles_index.json` → переместить в `_universal/articles_index.json`
+**Что нужно:**
+1. Переписать три скрипта: `p2_copy_parts_catalog.py`, `p2_copy_reviews.py`, `p2_build_manual_meta.py`.
+   - Новая логика: сначала проверить есть ли в `D:/transfer4/.../models/{model}/{gen_name}/` свой файл. Если есть — копировать на уровень поколения в llcar.
+   - Если нет — копировать на уровень модели (это fallback для случаев, когда источник не разделён по поколениям).
+   - Использовать `chunk_generation_map.json` для маппинга какие файлы к какому поколению относятся.
+2. Написать `scripts/s19_gen_first_migration.py` — оркестратор:
+   - Удаляет текущие model-level parts/reviews/manual_meta/images
+   - Запускает переписанные p2_*
+   - Сверяет результат
+3. Написать `llcar-dashboard/src/utils/kbCascade.ts` — загрузчик с каскадом:
+   ```typescript
+   cascadeLoadSituations(brand, model, gen)
+   // Загружает 4 слоя параллельно:
+   // 1) kb/{brand}/{model}/{gen}/situations.json  — gen-specific
+   // 2) kb/{brand}/{model}/situations.json        — model-level
+   // 3) kb/{brand}/situations.json                — brand-level
+   // 4) kb/_universal/situations.json             — universal
+   // Дедуплицирует по id, приоритет у gen.
+   // Каждая ситуация получает badge _source: 'gen'|'model'|'brand'|'universal'
+   ```
+4. Обновить компоненты:
+   - `SituationsList.tsx` — показывать badge источника
+   - `DtcSearch.tsx`, `DTCSearch.tsx` — унифицировать через cascade
+   - `KnowledgeBase.tsx` — заменить 5 useEffect на один cascade-запрос
+
+### 5.2 Переименование метаданных
+
+Убрать подчёркивание из имён файлов (оно должно быть только у директорий типа `_universal/`, `_articles/`):
+- `{brand}/_brand.json` → `{brand}/brand.json`
+- `{brand}/{model}/_model.json` → `{brand}/{model}/model.json`
+- `{gen}/meta.json` → `{gen}/gen.json` (с обогащением: имя, годы, коды, кузов)
+- `_articles_index.json` → `_universal/articles_index.json`
 - `_dtc_index.json` → разделить на `_universal/dtc.json` (titles) + `_universal/dtc_refs.json` (index)
 
-### 4.3 UNIVERSAL directory
+### 5.3 Директория `_universal/`
 
-Создать `kb/_universal/`:
-- `_universal/situations.json` (переехать из `public/data/situations-universal.json`)
-- `_universal/dtc.json` (35,911 universal titles)
-- `_universal/dtc_refs.json` (sit_refs)
-- `_universal/articles_index.json`
+Создать `kb/_universal/` со всем универсальным:
+- `_universal/situations.json` — 764 (переехать из `public/data/situations-universal.json`)
+- `_universal/dtc.json` — 35 911 названий
+- `_universal/dtc_refs.json` — ссылки на ситуации
+- `_universal/articles_index.json` — индекс статей
 
-### 4.4 UI CASCADE LOADER
+### 5.4 Незавершённые работы
 
-Новый `llcar-dashboard/src/utils/kbCascade.ts`:
+**Верификатор GLM:** проверено 3 000 из 26 093 уникальных ситуаций. Осталось 770 батчей (≈23 000 ситуаций). Запустить ещё 20-40 агентов Sonnet.
 
-```typescript
-export type KbSource = 'gen' | 'model' | 'brand' | 'universal'
-export interface WithSource<T> { item: T; source: KbSource }
+**Suspect-записи:** 361 помечены как «подозрительные», требуют ручного review. Хранятся в `.omc/state/s18-verifier-findings/batch_*.json` в полях `status: "suspect"`.
 
-export async function cascadeLoadSituations(
-  brand: string, model: string, gen: string
-): Promise<WithSource<Situation>[]>
+**Частые паттерны ошибок** (из verifier, нужна проверка):
+- Коды P0115-P0118 приписаны к DSG/ECU/суппортам (неправильно)
+- Коды C0035-C0050 приписаны к by-wire brake (должно быть C121x/C1A0x/C055x)
+- ГУР упоминается на машинах с ЭУР (все Belgee с ЭУР)
+- Audi A5 8T Matrix LED — опция появилась позже, неправильно для 2007-2011
+- C0000 для Alfa Romeo — невалидный DTC
 
-export async function cascadeLoadDTC(
-  brand: string, model: string, gen: string
-): Promise<WithSource<DtcEntry>[]>
+**Datsun:** 4 модели созданы, но только с 10 ситуациями каждая.
+**Opel:** в dashboard есть модели (astra_k, corsa_e, insignia_b), которых НЕТ в `D:/transfer4`. Нужно либо удалить, либо найти альтернативный источник.
+**Jaecoo J7/J8:** топовые продажи в РФ 2024-2025, покрытие можно расширить.
+**Kia Telluride:** есть в dashboard, НЕТ в источнике — синтетический контент, проверить.
 
-export async function cascadeLoadManual(
-  brand: string, model: string, gen: string
-): Promise<WithSource<ManualMeta> | null>
+**OEM артикулы запчастей:** 90% пустые (source `template`). Нужен парсинг autodoc.ru / exist.ru / rockauto для заполнения. Это отдельный большой спринт.
 
-// и т.д. для parts, reviews, images, videos
-```
+**Li Auto export:** 102 статьи + 2 577 запчастей + glossary не импортированы. Отдельный спринт.
 
-Обновить компоненты:
-- `SituationsList.tsx` — показывать badge `_source` (цветовая метка)
-- `DtcSearch.tsx`, `DTCSearch.tsx` — унифицировать через cascade
-- `KnowledgeBase.tsx` — заменить 5 useEffect на 1 cascade call
+**ManualViewer:** компонент для чтения мануалов. Нужно:
+1. Загрузить сами мануалы (`manual.md` из `D:/transfer4`) на prod как static files.
+2. Написать компонент ManualViewer с lazy-fetch и рендерингом markdown с 6 секциями.
 
-### 4.5 DEFERRED / знать для S19
+**ImagesPanel:** такой же для изображений. Загрузить на prod CDN, написать компонент с lazy-thumbnails.
 
-Из S16 verifier:
-- **361 suspect records** — помечены GLM, требуют ручного ревью (файлы: `.omc/state/s18-verifier-findings/batch_*.json` → записи с `status: "suspect"`)
-- **23k sit НЕ проверены GLM** — только 3000 из 26093 прошли verifier. Оставшиеся 870-100=770 batches ещё не обработаны
-- **Suspect pattern паттерны** (часто встречается):
-  - P0115-P0118 неправильно приписаны к DSG/ECU/суппортам
-  - C0035-C0050 на by-wire brake (должны быть C121x/C1A0x/C055x)
-  - ГУР references на EPS cars (Belgee все ЭУР)
-  - AWD/вариатор/TSI/TFSI on FWD Geely-platform cars
-  - Matrix LED на неправильных поколениях Audi
+**Playwright E2E:** 1 тест из 5 проходит (brands-index). Остальные 4 (canvas, DtcSearch tab switch) падают из-за WebGL в headless Chromium. Нужно либо использовать `--use-gl=swiftshader` правильно, либо виртуальный X-server, либо Docker с нормальным GL.
 
-Из S18 rich content:
-- OEM артикулы **пустые** в 90% parts-catalog (source `template`-generated). Требуется парсинг autodoc/exist.ru/rockauto для заполнения
-- Li Auto `export/` — 35k DTC + 102 articles НЕ импортированы (отдельный sprint)
-- **Manuals не встроены в UI** — только manual_meta ref. Нужен ManualViewer с lazy-fetch `D:/transfer4/brands/*/models/*/manual.md` OR upload manuals на prod как static files
-
-Из S18 cleanup:
-- **5 ugly dir names** осталось после rename (collisions):
-  - `forthing/friday/forthing__friday__friday_2023_present_0`
-  - `forthing/_friday/` (dup parent dir!)
-  - Нужна ручная проверка
-
-Из S16 P7 Playwright:
-- 1/5 tests passes (brands-index)
-- 4/5 canvas tests fail из-за headless WebGL — нужен `--use-gl=swiftshader` working или виртуальный X
-
-Из audit reports:
-- **Datsun** coverage — 4 models ещё не полностью заполнены (только 10 sit каждая через ETL)
-- **Opel** sync error — 3 dashboard models (astra_k/corsa_e/insignia_b) НЕТ в D:/transfer4 source. Либо удалить, либо найти альтернативный source
-- **Jaecoo** — J7/J8 топовые продажи RF 2024-2025, нужно увеличить coverage из source
-- **Kia telluride** — есть в dashboard НЕТ в source (synthetic content) — проверить валидность
-
-### 4.6 UI FEATURES НЕ СДЕЛАНЫ
-
-- ManualViewer — сейчас только показывает `manual_meta.json` статистику, НЕ рендерит сам мануал
-- Parts: артикулы пустые в 90% — если заполнятся, в UI появится реальный каталог с ценами
-- Images: `images.json` создан (107k индексировано), UI **не рендерит** картинки. Нужен ImagesPanel компонент + lazy-load thumbs из D:/transfer4 (или тар на prod static)
-- DtcSearch — показывает titles, но не показывает brand/model-level `common_fix_ru` из `{brand}/_dtc.json` при выборе конкретной машины. Cascade подключить.
+**Корявые имена папок (остатки):** 5 штук после rename из-за коллизий имён. Нужна ручная проверка:
+- `forthing/friday/forthing__friday__friday_2023_present_0`
+- `forthing/_friday/` (двойная родительская папка!)
 
 ---
 
-## 5. Критичные файлы и пути
+## Часть 6. Скрипты — что где лежит
 
-### 5.1 Scripts (все в `scripts/`)
+Все в папке `scripts/`:
 
-| Скрипт | Назначение |
-|--------|------------|
-| `validate_kb_schema.py` | Валидатор (**must be 0 issues**) |
-| `validate_full_articles.py` | Валидатор статей (80/80 OK) |
-| `build_dtc_index.py` | Пересобирает `_dtc_index.json.index` из situations.json |
-| `build_dtc_per_gen.py` | **(удалён в S18)** — раньше генерил per-gen dtc.json |
-| `build_articles_index.py` | Индексатор статей |
-| `etl_situations_upt.py` | Главный ETL (S17) |
-| `transfer4_brand_mapping.json` | Brand/model naming aliases |
-| `p2_copy_parts_catalog.py` | **ПЕРЕПИСАТЬ для gen-first** |
-| `p2_copy_reviews.py` | **ПЕРЕПИСАТЬ для gen-first** |
-| `p2_build_manual_meta.py` | **ПЕРЕПИСАТЬ для gen-first** |
-| `s18_import_brand_dtc.py` | DTC brand/model import |
-| `s18_consolidate_dtc_to_one.py` | `{brand}/_dtc.json` consolidator |
-| `s18_strip_universal_from_gens.py` | Удаляет universal duplicates |
-| `s18_strip_brand_mismatch.py` | Удаляет cross-brand contamination |
-| `s18_cleanup_gen_dirs.py` | Rename ugly dirs + dedup gens |
-| `s18_collapse_model_level.py` | **(нужно revert-логика для S19)** — переместил gen→model |
-| `s18_extract_unique_situations.py` | Batch для verifier |
-| `s18_apply_verifier_strip.py` | Применяет GLM findings |
-| `import_videos_from_transfer4.py` | Videos import |
-| `merge_liauto_dtc_codes.py` | 35911 titles merge |
-| `deploy-v3.sh` | **НЕ копирует data/kb/** — нужно tar ручной |
+### Валидаторы (всегда должны проходить)
+- `validate_kb_schema.py` — схема ситуаций, **0 issues**
+- `validate_full_articles.py` — длина статей + 6 секций
 
-### 5.2 UI компоненты (все в `llcar-dashboard/src/`)
+### Сборка индексов
+- `build_dtc_index.py` — пересобирает `_dtc_index.json.index` из situations.json
+- `build_articles_index.py` — индексатор статей
+- `merge_liauto_dtc_codes.py` — merge 35 911 universal titles
 
-**Нужно переписать для cascade:**
-- `pages/KnowledgeBase.tsx` — 5 useEffect → 1 cascade
-- `components/kb/SituationsList.tsx` — add `_source` badge
-- `components/kb/DtcSearch.tsx` — унифицировать через cascade
-- `components/dtc/DTCSearch.tsx` — legacy на /dtc странице (сейчас тоже `_dtc_index.json`)
+### ETL (главные)
+- `etl_situations_upt.py` — **главный ETL S17**, UPT алгоритм
+- `transfer4_brand_mapping.json` — карта имён
 
-**Read-only (не трогать):**
-- `stores/dashboardStore.ts` — vehicle profile state (brand, brandId, model, generationId)
+### Rich content (ПЕРЕПИСАТЬ в S19 под gen-first)
+- `p2_copy_parts_catalog.py`
+- `p2_copy_reviews.py`
+- `p2_build_manual_meta.py`
+
+### S18 очистки
+- `s18_import_brand_dtc.py` — импорт brand/model DTC
+- `s18_consolidate_dtc_to_one.py` — склейка в `{brand}/_dtc.json`
+- `s18_strip_universal_from_gens.py` — удаляет universal-дубли
+- `s18_strip_brand_mismatch.py` — cross-brand очистка
+- `s18_cleanup_gen_dirs.py` — rename+dedup папок
+- `s18_collapse_model_level.py` — **будет удалён** в S19 (в S19 нужна обратная логика)
+- `s18_extract_unique_situations.py` — батчи для verifier
+- `s18_apply_verifier_strip.py` — применение находок GLM
+
+### Прочее
+- `import_videos_from_transfer4.py` — импорт видео
+- `deploy-v3.sh` — деплой (не захватывает data/kb, см. часть 1)
+- `fix_kb_schema.py` — разовая починка схемы S16
+
+---
+
+## Часть 7. UI компоненты — что где
+
+Все в `llcar-dashboard/src/`:
+
+### Страницы
+- `pages/KnowledgeBase.tsx` — основная страница `/kb`, **требует рефакторинга в S19** (5 useEffect → 1 cascade)
+- `pages/ErrorCodes.tsx` — страница `/dtc` (legacy DTCSearch)
+- `pages/Diagnostics.tsx` — главный дашборд с 3D
+
+### Компоненты KB
+- `components/kb/SituationsList.tsx` — список ситуаций, **добавить badge source в S19**
+- `components/kb/DtcSearch.tsx` — новый DTC поиск (S16)
+- `components/kb/FullArticle.tsx` — рендер статей
+- `components/kb/QualityBadge.tsx` — значок качества
+- `components/kb/ManualViewer.tsx` — заглушка, нужен real импл
+
+### Компоненты DTC (legacy)
+- `components/dtc/DTCSearch.tsx` — старый поиск на `/dtc`, уже мигрирован
+
+### Стор (не трогать)
+- `stores/dashboardStore.ts` — состояние: `vehicleProfile` (brand, brandId, model, year, engine, generationId)
+
+### Утилиты
 - `utils/kbPath.ts` — `deriveKBGenPath(brandId, genName) → 'brand/model/gen'`
-- `utils/fetchCache.ts` — кэш-обёртка для fetch
-- `components/kb/FullArticle.tsx` — рендер markdown статей (работает)
-- `components/kb/QualityBadge.tsx` — rendering
-
-### 5.3 State / memory
-
-- `.omc/state/s16-kb-audit/group{01..14}_*.md` — 14 audit reports
-- `.omc/state/s16-kb-audit/situations_deep_analysis.md` — UPT алгоритм deep analysis
-- `.omc/state/s16-p4-verifier/*.json` — S16 verifier findings (7 brands)
-- `.omc/state/s18-verifier-batches/batch_{0000..0869}.json` — 870 batches для verifier
-- `.omc/state/s18-verifier-findings/batch_{0000..0099}.json` — 100 batches обработаны (770 ещё)
-- `.omc/state/s17-etl-{brand}.log` — ETL logs per brand
-- `.omc/state/s17-etl-toyota.log` — pilot log
-- `.omc/state/s17-etl-toyota-pilot.log` — pilot log (early)
-- `memory/project_session15_progress.md`, `16`, `17` — progress logs
-- `memory/MEMORY.md` — index
-- `S16-KB-MASTER-ROADMAP.md` — 58 brands coverage table + priorities
-- `VERIFIER-FINDINGS-S16-P4.md` — S16 human-readable findings
-
-### 5.4 Brand naming mismatches (уже в map, но проверить)
-
-| D:/transfer4 | llcar-dashboard |
-|---|---|
-| `mercedes_benz` | `mercedes` |
-| `li` | `li_auto` |
-| `bestune` | `faw_bestune` |
-| `jaguar/f-pace` | `jaguar/f_pace` |
-| `honda/cr-v` | `honda/cr_v` |
-| `honda/jazz` | `honda/fit` |
-| `lexus/es250` | `lexus/es` |
+- `utils/fetchCache.ts` — кэш для fetch
+- `utils/icons.ts` — SVG иконки
 
 ---
 
-## 6. Prevent-crash rules (R1-R7)
+## Часть 8. Известные проблемы и обходы
 
-**Применены во всех сессиях — не упала ни разу после S15 crash:**
-- **R1:** findings/outputs агентов — сразу на диск, не в память
-- **R2:** макс 3 agents в батче параллельно, не мешать MCP + agents
-- **R3:** commit после каждого P-блока (не копить staged)
-- **R4:** 70% контекста → STOP + SAVE + handoff
-- **R5:** memory save после каждой Wave (не в конце)
-- **R6:** каждая Wave — закрытая точка handoff
-- **R7:** старт новой сессии читает `.omc/state/s*-progress.md` + git log + SESSION-HANDOFF.md
+1. **Windows UTF-8 в Python:** скрипты используют `sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")` на Windows, иначе падает на cp1251. Все S17+ скрипты это учитывают.
 
----
+2. **Vite base URL:** `'/static/spa-v3/'`. Все запросы с фронта идут через `${import.meta.env.BASE_URL}data/...`. Playwright config должен использовать baseURL `http://localhost:5173/static/spa-v3`.
 
-## 7. S19 задачи (детальный план)
+3. **Роутинг:** внутри приложения пути `/`, `/kb`, `/dtc`. На проде они видятся как `/v3/`, `/v3/kb`, `/v3/dtc` из-за nginx-префикса.
 
-**Полный план:** `~/.claude/plans/encapsulated-wibbling-coral.md`
+4. **Playwright и WebGL:** headless Chromium не рендерит Three.js canvas без спец флагов. Нужен `--use-gl=swiftshader` или виртуальный X.
 
-### Phase 1 — Re-extract gen-first из D:/transfer4 (2-3ч)
-1. Rewrite `p2_copy_parts_catalog.py`:
-   - Check `{src}/models/{model}/{gen_dir}/parts-catalog.json` (per-gen source)
-   - Fallback на `{src}/models/{model}/parts-catalog.json` (model-level)
-   - Write на соответствующий level в llcar
-2. Same для `p2_copy_reviews.py` и `p2_build_manual_meta.py`
-3. `scripts/s19_gen_first_migration.py` — orchestrator:
-   - Удалить все текущие model-level parts/reviews/manual_meta/images
-   - Запустить переписанные p2_*
-   - Проверить gen-level files созданы где есть source
+5. **tar не удаляет:** при `tar -xzf` на сервере старые файлы (переименованные локально) остаются. Нужно вручную удалить перед extract.
 
-### Phase 2 — Reorganize metadata (1ч)
-4. `scripts/s19_rename_metadata.py`:
-   - `{brand}/_brand.json` → `{brand}/brand.json`
-   - `{brand}/{model}/_model.json` → `{brand}/{model}/model.json`
-   - `{gen}/meta.json` → `{gen}/gen.json` (обогатить)
-5. Создать `kb/_universal/`:
-   - Переместить universal situations, dtc titles, articles index
-6. Разделить `_dtc_index.json`:
-   - titles → `_universal/dtc.json`
-   - index → `_universal/dtc_refs.json`
-7. Разделить `{brand}/_dtc.json`:
-   - brand_codes → `{brand}/dtc.json`
-   - models → `{brand}/{model}/dtc.json` (model-level) или per-gen если source дифференцирован
+6. **deploy-v3.sh не трогает data/kb:** только static/. KB грузится tar-ом вручную.
 
-### Phase 3 — UI cascade (2ч)
-8. Создать `utils/kbCascade.ts` с `cascadeLoad*` функциями
-9. Создать `types/kb.ts` с `WithSource<T>` type
-10. Обновить компоненты:
-    - SituationsList — badge source
-    - DtcSearch / DTCSearch — cascade, унификация
-    - KnowledgeBase — 1 cascade вместо 5 useEffects
-11. Validate: tsc silent, npm run build OK, E2E brands-index test passes
+7. **NPM dependency conflict:** при `npm install -D @playwright/test` нужен флаг `--legacy-peer-deps` из-за React 19.
 
-### Phase 4 — Cleanup + deploy (1ч)
-12. Удалить legacy:
-    - `/data/situations-universal.json`
-    - `/data/brands-dtc/` (уже удалено в S18)
-    - `/data/dtc-search.json` (уже удалено)
-    - Старые `_articles_index.json`, `_dtc_index.json`, `_brand.json`, `_model.json`
-13. `scripts/validate_kb_structure.py` — новый validator проверяет что файлы на правильных уровнях
-14. Build + tar + upload prod + cleanup stale files on prod
-15. Smoke test via Playwright MCP
+8. **GLM MCP ограничения:** `mcp__glm__ask` иногда возвращает thinking traces вместо готового JSON при `max_tokens < 2000` и длинном промпте. Решение: `max_tokens=2500+` и явный `system="Отвечай только JSON, никаких преамбул"`.
 
-### Phase 5 — Docs + handoff (30 мин)
-16. `docs/kb-structure.md` — документация новой структуры
-17. `memory/project_session19_progress.md`
-18. Update MEMORY.md
-19. Final commit `docs: Session 19 COMPLETE — gen-first structure`
+9. **Git reset --hard удаляет staged новые файлы:** если у тебя есть новый файл в `git add`, но не закоммиченный, `reset --hard HEAD` его удалит. Проверено на `scripts/etl_situations_upt.py` в S17 — пришлось переписывать.
 
-### Phase 6 (optional, deferred если времени нет) — Verifier continuation
-20. Запустить оставшиеся 770 verifier batches (23k sit) через 20+ агентов
-21. Apply findings → -N wrong records
-
-### Phase 7 (deferred) — ManualViewer
-22. Upload D:/transfer4 manuals на prod CDN или backend
-23. ManualViewer компонент с lazy fetch + отображение markdown
-
-### Phase 8 (deferred, sprint) — Li Auto export
-24. Импорт 102 articles из `D:/transfer4/export/08-articles-full.json`
-25. Merge 35k DTC из `D:/transfer4/export/dtc-index.json` (но это тот же источник что 35911 titles — проверить duplication)
-
-### Phase 9 (deferred, parallel) — OEM артикулы
-26. Парсинг autodoc.ru / exist.ru / rockauto для заполнения part_number в parts-catalog
+10. **Subagent context:** агенты не видят истории разговора, нужно давать полный контекст в промпте. Файлы для обмена — через диск (R1 rule).
 
 ---
 
-## 8. Quick validation commands
+## Часть 9. Правила предотвращения краха сессии (R1-R7)
 
-```bash
-# Валидатор
-python scripts/validate_kb_schema.py
-python scripts/validate_full_articles.py
+Применяются во всех сессиях после S15 (которая упала):
 
-# TypeScript
-cd llcar-dashboard && npx tsc -b
-
-# Build
-npm run build
-
-# E2E (1/5 passes сейчас)
-npm run test:e2e
-
-# Deploy
-bash scripts/deploy-v3.sh --frontend-only
-# + manual tar upload для data/kb/
-
-# API health
-curl -k https://185.55.57.145/api/v2/diagnose-latest/?client_hash=test
-```
+- **R1:** выводы/находки агентов записываются сразу на диск, не в память ассистента.
+- **R2:** максимум 3 агента в параллельном батче; не смешивать MCP (Playwright, GLM-vision) с subagents.
+- **R3:** коммит после каждого логического блока, не копить staged.
+- **R4:** при 70% контекста — STOP, сохранить состояние, сделать handoff.
+- **R5:** сохранение в память после каждой Wave, не в конце сессии.
+- **R6:** каждая Wave — закрытая точка, после которой можно начать новую сессию без потерь.
+- **R7:** старт новой сессии читает `SESSION-HANDOFF.md` + `git log` + `.omc/state/`, не полагается на контекст предыдущей.
 
 ---
 
-## 9. Критические числа/факты
-
-| Параметр | Значение |
-|---|---|
-| Total situations (per-gen) | 7,458 |
-| Universal situations | 764 (отдельный файл) |
-| Unique DTC codes (brand/model) | 8,070 |
-| Universal DTC titles | 35,911 |
-| Parts total | 47,522 |
-| Reviews files | 178 |
-| Manual refs | 210 |
-| Images indexed | 107,167 ⚠ данные в D:/transfer4, будут добавлены по запросу в следующих сессиях |
-| Manuals indexed | 210 ⚠ данные в D:/transfer4, будут добавлены по запросу в следующих сессиях |
-| Full articles | 80 |
-| Video links | 1,123 |
-| Brand dirs | 80 |
-| Schema issues | **0** |
-| KB size local | ~232 MB |
-| KB size on prod | ~232 MB |
-
----
-
-## 10. При старте S19
+## Часть 10. Как начать S19
 
 ```bash
 cd "C:/Users/Петр/Downloads/Маркетинговые материалы"
-cat SESSION-HANDOFF.md                           # этот файл
-cat ~/.claude/plans/encapsulated-wibbling-coral.md  # полный план
-git log --oneline da826d1..HEAD                   # что уже сделано
-python scripts/validate_kb_schema.py             # должно быть 0 issues
-ls -la .omc/state/s18-verifier-findings/ | wc -l  # 100 findings batches
+cat SESSION-HANDOFF.md                           # этот файл — полный контекст
+cat ~/.claude/plans/encapsulated-wibbling-coral.md  # полный план gen-first
+git log --oneline da826d1..HEAD                   # 20+ коммитов S16-S18
+python scripts/validate_kb_schema.py              # должно быть 0 issues
+ls -la .omc/state/s18-verifier-findings/ | wc -l  # 102 (100 findings + batch lock)
+ls -la .omc/state/s18-verifier-batches/ | wc -l   # 870 батчей, 100 обработаны
 ```
 
-**Первый шаг S19:** Phase 1 — переписать p2_copy_* для gen-first приоритета из D:/transfer4.
+**Первая задача S19:** переписать `p2_copy_parts_catalog.py`, `p2_copy_reviews.py`, `p2_build_manual_meta.py` — читать сначала из `{src}/models/{model}/{gen_name}/` (если есть), fallback на `{src}/models/{model}/`. Писать на соответствующий уровень (gen или model) в llcar.
+
+---
+
+## Ответ на «можно начинать новую сессию?»
+
+**Да, можно.** Всё важное сохранено на диск:
+- Код и данные — закоммичены (последний коммит `a952a7d`)
+- Promежуточные состояния — в `.omc/state/` (14 audit reports, 100 verifier findings, 770 готовых batches)
+- Память — в `~/.claude/projects/.../memory/`
+- План S19 — в `~/.claude/plans/encapsulated-wibbling-coral.md`
+- Этот handoff — исчерпывающий контекст
+
+Потерь не будет.
