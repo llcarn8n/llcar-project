@@ -1,0 +1,152 @@
+[
+  {
+    "id": "a5_yt_53a42bdc",
+    "status": "wrong",
+    "issue": "Общий совет/отзыв/фрагмент мануала — не диагностическая ситуация для конкретной модели"
+  },
+  {
+    "id": "a5_msf_engine_oil",
+    "status": "wrong",
+    "issue": "Общий совет/отзыв/фрагмент мануала — не диагностическая ситуация для конкретной модели"
+  },
+  {
+    "id": "a5_yt2_5bdc758d",
+    "status": "wrong",
+    "issue": "Общий совет/отзыв/фрагмент мануала — не диагностическая ситуация для конкретной модели"
+  },
+  {
+    "id": "audi_a6_c7_002",
+    "status": "ok",
+    "issue": ""
+  },
+  {
+    "id": "audi_a6_c7_006",
+    "status": "ok",
+    "issue": ""
+  },
+  {
+    "id": "a6_audi_rev_006_9995dc",
+    "status": "ok",
+    "issue": ""
+  },
+  {
+    "id": "a6_ar_0e8bec99",
+    "status": "ok",
+    "issue": ""
+  },
+  {
+    "id": "a6_ar_e6e05061",
+    "status": "ok",
+    "issue": ""
+  },
+  {
+    "id": "a6_ar_6a20d975",
+    "status": "ok",
+    "issue": ""
+  },
+  {
+    "id": "a6_ar_8fb0f74d",
+    "status": "ok",
+    "issue": ""
+  },
+  {
+    "id": "a6_ar_978954d0",
+    "status": "ok",
+    "issue": ""
+  },
+  {
+    "id": "a6_ar_6a052d64",
+    "status": "ok",
+    "issue": ""
+  },
+  {
+    "id": "a6_audi_prem_004",
+    "status": "ok",
+    "issue": ""
+  },
+  {
+    "id": "a6_audi_warn_314_c5fa53",
+    "status": "ok",
+    "issue": ""
+  },
+  {
+    "id": "a6_audi_warn_319_4ed8ce",
+    "status": "ok",
+    "issue": ""
+  },
+  {
+    "id": "a6_audi_warn_321_1b4d15",
+    "status": "ok",
+    "issue": ""
+  },
+  {
+    "id": "a6_audi_warn_323_3fed0b",
+    "status": "ok",
+    "issue": ""
+  },
+  {
+    "id": "a6_audi_warn_324_c8fe66",
+    "status": "ok",
+    "issue": ""
+  },
+  {
+    "id": "a6_audi_warn_329_8eecfd",
+    "status": "ok",
+    "issue": ""
+  },
+  {
+    "id": "a6_audi_warn_333_f34797",
+    "status": "ok",
+    "issue": ""
+  },
+  {
+    "id": "a6_audi_warn_334_18f3cc",
+    "status": "ok",
+    "issue": ""
+  },
+  {
+    "id": "a6_audi_warn_337_97ec67",
+    "status": "ok",
+    "issue": ""
+  },
+  {
+    "id": "a6_audi_warn_352_4a76f8",
+    "status": "ok",
+    "issue": ""
+  },
+  {
+    "id": "a6_audi_warn_354_99ae89",
+    "status": "ok",
+    "issue": ""
+  },
+  {
+    "id": "a6_audi_warn_358_f0a15e",
+    "status": "ok",
+    "issue": ""
+  },
+  {
+    "id": "a6_audi_warn_360_e87a44",
+    "status": "ok",
+    "issue": ""
+  },
+  {
+    "id": "a6_audi_rev_001_e7323c",
+    "status": "ok",
+    "issue": ""
+  },
+  {
+    "id": "a6_audi_rev_020_cd2245",
+    "status": "ok",
+    "issue": ""
+  },
+  {
+    "id": "a6_ar_4d93e3eb",
+    "status": "ok",
+    "issue": ""
+  },
+  {
+    "id": "a6_audi_s01106",
+    "status": "ok",
+    "issue": ""
+  }
+]
