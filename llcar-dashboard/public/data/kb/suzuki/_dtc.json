@@ -1,0 +1,1780 @@
+{
+  "brand_codes": {
+    "B0001": {
+      "note_ru": "Код B0001 на Suzuki (SX4, Swift, Vitara) указывает на критическую неисправность в цепи датчика удара или модуля подушки водителя, часто связанную с окислением контактов в разъеме рулевой колонки из-за влаги. Это не типичная ошибка для этих моделей, так как в отзывах владельцев упоминаний не зафиксировано.",
+      "common_fix_ru": "В 90% случаев помогает чистка контактов в разъеме подушки или замена проводки рулевого вала; полная замена модуля подушки на оригинал стоит от 18 000 до 25 000 рублей, аналог — от 8 000 рублей.",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "system_id": "sensors",
+      "can_drive": "no_stop"
+    },
+    "B1310": {
+      "note_ru": "Код B1310 (Цепь мотора рециркуляции HVAC) крайне редок для Suzuki и часто является ошибкой интерпретации сканера или ложным срабатыванием контроллера кузова, так как в официальных мануалах Suzuki этот код не является стандартным.",
+      "common_fix_ru": "В 90% случаев помогает полная перезагрузка блока управления кузовом (отключение АКБ на 15 минут) или замена датчика положения заслонки рециркуляции, что стоит от 1500 до 4500 рублей.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "system_id": "body",
+      "can_drive": "yes_safe"
+    },
+    "B1504": {
+      "note_ru": "Лампа поворотника правого: обрыв цепи. На Suzuki SX4 — перегоревшая лампа или окисление контакта.",
+      "common_fix_ru": "Замена лампы (100-500 руб.), проверка разъёма и массы.",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "faultcodes.co",
+      "system_id": "interior",
+      "can_drive": "yes_safe"
+    },
+    "C0035": {
+      "note_ru": "Код C0035 на Suzuki (SX4, Swift, Vitara) указывает на обрыв цепи или неисправность датчика скорости левого переднего колеса, что критично для работы ABS и ESP. В отличие от других марок, на Сузуки это часто связано с окислением контактов в разъеме датчика или повреждением проводки из-за реагентов.",
+      "common_fix_ru": "Чаще всего помогает замена датчика скорости ABS (аналог от Denso или оригинал) за 2500–4500 рублей и чистка разъема; при повреждении проводки ремонт жгута обойдется в 3000–6000 рублей.",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "system_id": "brake-control",
+      "can_drive": "no_stop"
+    },
+    "C0265": {
+      "note_ru": "Код C0265 (Цепь реле EBCM) на Suzuki крайне редок и обычно указывает на неисправность самого блока ABS/ESP или его питания, а не на механическую часть тормозов.",
+      "common_fix_ru": "Требуется диагностика цепи питания блока ABS и замена модуля EBCM, что в 2024-2026 годах обойдется от 45 000 до 120 000 рублей в зависимости от модели (SX4, Swift, Vitara).",
+      "frequency": "rare",
+      "severity_override": "urgent",
+      "system_id": "brakes",
+      "can_drive": "no_danger"
+    },
+    "C0561": {
+      "note_ru": "Код C0561 не является стандартным для систем Suzuki и чаще всего указывает на ошибку считывания данных с датчика ABS/ESP или сбой в модуле управления кузовом (BCM) из-за проблем с проводкой.",
+      "common_fix_ru": "В России чаще всего помогает перепрошивка модуля ABS или замена жгута проводов в районе заднего левого колеса, стоимость работ составляет от 8 000 до 15 000 рублей.",
+      "frequency": "rare",
+      "severity_override": "warning"
+    },
+    "P0010": {
+      "note_ru": "Неисправность цепи управления фазораспределением впускного распредвала.",
+      "common_fix_ru": "Проверка масла, замена клапана VVT-i, ремонт проводки.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0011": {
+      "note_ru": "Система фазораспределения впускного распредвала работает слишком рано.",
+      "common_fix_ru": "Замена клапана VVT, чистка сетки маслопровода, проверка масла.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0012": {
+      "note_ru": "Система фазораспределения впускного распредвала работает слишком поздно.",
+      "common_fix_ru": "Замена клапана VVT, проверка натяжения цепи ГРМ, масло.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0013": {
+      "note_ru": "Неисправность цепи управления фазораспределением выпускного распредвала.",
+      "common_fix_ru": "Проверка масла, замена клапана VVT, ремонт проводки.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0014": {
+      "note_ru": "Система фазораспределения выпускного распредвала работает слишком рано.",
+      "common_fix_ru": "Замена клапана VVT, чистка маслопровода, проверка масла.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0016": {
+      "note_ru": "Синхронизация коленвала и распредвала 1 не в норме.",
+      "common_fix_ru": "Проверка цепи ГРМ, натяжителя или датчиков.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0017": {
+      "note_ru": "Синхронизация коленвала и распредвала 2 не в норме.",
+      "common_fix_ru": "Проверка цепи ГРМ, натяжителя или датчиков.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "no_danger"
+    },
+    "P0031": {
+      "note_ru": "Нагреватель лямбда-зонда B1S1: низкое напряжение. На Suzuki SX4 — частая проблема.",
+      "common_fix_ru": "Замена лямбда-зонда с нагревателем (3000-6000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "faultcodes.co",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0036": {
+      "note_ru": "Нагреватель лямбда-зонда B1S2: неисправность управляющей цепи.",
+      "common_fix_ru": "Замена нижнего лямбда-зонда (2500-5000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "faultcodes.co",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0037": {
+      "note_ru": "Нагреватель лямбда-зонда B1S2: низкое напряжение.",
+      "common_fix_ru": "Замена нижнего лямбда-зонда (2500-5000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "faultcodes.co",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0087": {
+      "note_ru": "Давление топлива ниже допустимого значения.",
+      "common_fix_ru": "Проверка топливного насоса, фильтра и проводки.",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "fuel",
+      "can_drive": "no_danger"
+    },
+    "P0088": {
+      "note_ru": "Давление топлива выше допустимого значения.",
+      "common_fix_ru": "Проверка регулятора давления и топливного насоса.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "fuel",
+      "can_drive": "no_stop"
+    },
+    "P0101": {
+      "note_ru": "Некорректный сигнал датчика массового расхода воздуха.",
+      "common_fix_ru": "Чистка или замена датчика МРВ, проверка на утечки.",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "intake",
+      "can_drive": "yes_caution"
+    },
+    "P0102": {
+      "note_ru": "Низкий сигнал датчика массового расхода воздуха (MAF) на Suzuki.",
+      "common_fix_ru": "Очистить или заменить MAF, проверить вакуумные утечки.",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "intake",
+      "can_drive": "yes_caution"
+    },
+    "P0106": {
+      "note_ru": "Некорректный диапазон сигнала датчика давления в коллекторе (MAP).",
+      "common_fix_ru": "Проверить проводку, вакуумные шланги или заменить датчик MAP.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0107": {
+      "note_ru": "Низкий сигнал датчика давления в коллекторе (MAP) на Suzuki.",
+      "common_fix_ru": "Проверить вакуумный шланг, проводку или заменить датчик MAP.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0108": {
+      "note_ru": "Высокий сигнал датчика давления в коллекторе (MAP) на Suzuki.",
+      "common_fix_ru": "Проверить проводку, вакуумные шланги или заменить датчик MAP.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0110": {
+      "note_ru": "Датчик температуры впускного воздуха (IAT): неисправность цепи.",
+      "common_fix_ru": "Замена датчика IAT (1000-2500 руб.).",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "faultcodes.co",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0113": {
+      "note_ru": "Высокий сигнал датчика температуры всасываемого воздуха (IAT).",
+      "common_fix_ru": "Проверить проводку датчика IAT или заменить сам датчик.",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0116": {
+      "note_ru": "Датчик ECT: проблема диапазона/характеристик. На Suzuki — часто после перегрева или при неисправном термостате.",
+      "common_fix_ru": "Замена датчика ECT (1000-2500 руб.) и проверка термостата.",
+      "frequency": "occasional",
+      "severity_override": "critical",
+      "source": "zukiworld.com",
+      "system_id": "engine",
+      "can_drive": "no_stop"
+    },
+    "P0120": {
+      "note_ru": "Датчик положения дроссельной заслонки (TPS): неисправность цепи. На Suzuki — может вызвать аварийный режим.",
+      "common_fix_ru": "Замена TPS или дроссельного узла (3000-8000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "faultcodes.co",
+      "system_id": "engine",
+      "can_drive": "no_stop"
+    },
+    "P0128": {
+      "note_ru": "Код P0128 для Suzuki (SX4, Swift, Vitara) означает, что двигатель не достигает рабочей температуры в течение заданного времени, что часто связано с заклинившим в открытом положении термостатом.",
+      "common_fix_ru": "Наиболее частое решение — замена термостата на оригинальный или качественный аналог (например, Denso), что в России стоит от 2500 до 5000 рублей с учетом работы.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "system_id": "cooling",
+      "can_drive": "no_stop"
+    },
+    "P0130": {
+      "note_ru": "Неисправность цепи датчика кислорода (Bank 1, Sensor 1).",
+      "common_fix_ru": "Замена датчика кислорода или проверка проводки.",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0131": {
+      "note_ru": "Низкое напряжение сигнала датчика кислорода (Bank 1, Sensor 1).",
+      "common_fix_ru": "Проверка на утечку вакуума или замена датчика.",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0132": {
+      "note_ru": "Высокое напряжение сигнала датчика кислорода (Bank 1, Sensor 1).",
+      "common_fix_ru": "Проверка на загрязнение топливом или замена датчика.",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0133": {
+      "note_ru": "Медленная реакция датчика кислорода (Bank 1, Sensor 1).",
+      "common_fix_ru": "Замена датчика или устранение подсоса воздуха.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0134": {
+      "note_ru": "Отсутствие активности датчика кислорода (Bank 1, Sensor 1).",
+      "common_fix_ru": "Проверка целостности цепи или замена датчика.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0135": {
+      "note_ru": "Неисправность нагревательного элемента датчика кислорода (Bank 1, Sensor 1).",
+      "common_fix_ru": "Замена датчика кислорода или проверка цепи нагревателя.",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0136": {
+      "note_ru": "Неисправность цепи датчика кислорода (Bank 1, Sensor 2).",
+      "common_fix_ru": "Проверка проводки, разъема или замена датчика.",
+      "frequency": "common",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0137": {
+      "note_ru": "Лямбда-зонд B1S2: низкое напряжение. Индикатор проблемы с катализатором.",
+      "common_fix_ru": "Замена нижнего лямбда-зонда (2500-5000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "faultcodes.co",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0138": {
+      "note_ru": "Лямбда-зонд B1S2: высокое напряжение. Может указывать на богатую смесь или утечку выхлопа.",
+      "common_fix_ru": "Проверка на утечку выхлопа, замена лямбда-зонда (2500-5000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "faultcodes.co",
+      "system_id": "emission",
+      "can_drive": "yes_caution"
+    },
+    "P0140": {
+      "note_ru": "Лямбда-зонд B1S2: нет активности. Зонд перестал работать.",
+      "common_fix_ru": "Замена нижнего лямбда-зонда (2500-5000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "faultcodes.co",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0151": {
+      "note_ru": "Лямбда-зонд B2S1: низкое напряжение. Актуально для V6 Grand Vitara.",
+      "common_fix_ru": "Замена лямбда-зонда Bank 2 (3000-6000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "zukiworld.com",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0171": {
+      "note_ru": "Для Suzuki (SX4, Swift, Vitara) код P0171 часто указывает на подсос неучтенного воздуха через трещины в патрубках впуска или неисправность датчика массового расхода воздуха (ДМРВ), особенно на моторах K14B и K12M.",
+      "common_fix_ru": "Чаще всего помогает замена ДМРВ (1500–3500 руб.) или герметизация патрубков (500–1500 руб.), при этом диагностика на стенде стоит около 2000 рублей.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0172": {
+      "note_ru": "Слишком богатая топливная смесь (Bank 1).",
+      "common_fix_ru": "Проверка форсунок, давления топлива или датчика массового расхода воздуха.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0174": {
+      "note_ru": "Слишком бедная топливная смесь (Bank 2).",
+      "common_fix_ru": "Поиск подсоса воздуха, проверка топливной системы или датчиков.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0175": {
+      "note_ru": "Слишком богатая топливная смесь (Bank 2).",
+      "common_fix_ru": "Проверка форсунок, давления топлива или датчика массового расхода воздуха.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0201": {
+      "note_ru": "Неисправность цепи форсунки цилиндра 1.",
+      "common_fix_ru": "Проверить проводку и форсунку.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "fuel",
+      "can_drive": "yes_caution"
+    },
+    "P0202": {
+      "note_ru": "Неисправность цепи форсунки цилиндра 2.",
+      "common_fix_ru": "Проверить проводку и форсунку.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "fuel",
+      "can_drive": "yes_caution"
+    },
+    "P0203": {
+      "note_ru": "Неисправность цепи форсунки цилиндра 3.",
+      "common_fix_ru": "Проверить проводку и форсунку.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "fuel",
+      "can_drive": "yes_caution"
+    },
+    "P0204": {
+      "note_ru": "Неисправность цепи форсунки цилиндра 4.",
+      "common_fix_ru": "Проверить проводку и форсунку.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "fuel",
+      "can_drive": "yes_caution"
+    },
+    "P0234": {
+      "note_ru": "Перегрузка по наддуву (слишком высокое давление).",
+      "common_fix_ru": "Проверить клапан Wastegate и датчик.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "llm_enrichment",
+      "system_id": "intake",
+      "can_drive": "yes_safe"
+    },
+    "P0299": {
+      "note_ru": "Код P0299 на Сузуки (SX4, Swift, Vitara) с турбодвигателем K14C или K14D указывает на потерю давления наддува, часто из-за трещин в патрубках интеркулера или износа клапана перепуска (wastegate).",
+      "common_fix_ru": "Чаще всего помогает замена треснувших патрубков интеркулера (от 2500 руб.) или ремонт/замена клапана перепуска (от 4500 руб.) с последующей перепрошивкой ЭБУ.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "system_id": "intake",
+      "can_drive": "yes_safe"
+    },
+    "P0300": {
+      "note_ru": "Для Suzuki (SX4, Swift, Vitara) код P0300 часто указывает на износ катушек зажигания или загрязнение форсунок, особенно на моторах K14B и K15B при пробеге свыше 100 тыс. км.",
+      "common_fix_ru": "Замена комплекта катушек зажигания (около 8 000–12 000 руб.) и чистка форсунок (3 000–5 000 руб.) устраняют проблему в 80% случаев.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "system_id": "ignition",
+      "can_drive": "yes_caution"
+    },
+    "P0301": {
+      "note_ru": "Пропуск зажигания в 1-м цилиндре. Частая причина - свеча или катушка.",
+      "common_fix_ru": "Замена свечи зажигания или катушки зажигания.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "ignition",
+      "can_drive": "yes_caution"
+    },
+    "P0302": {
+      "note_ru": "Пропуск зажигания во 2-м цилиндре. Проверьте форсунку и катушку.",
+      "common_fix_ru": "Замена свечи, катушки или чистка форсунки.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "ignition",
+      "can_drive": "yes_caution"
+    },
+    "P0303": {
+      "note_ru": "Пропуск зажигания в 3-м цилиндре. Часто связано с неисправной катушкой.",
+      "common_fix_ru": "Замена свечи зажигания или катушки зажигания.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "ignition",
+      "can_drive": "yes_caution"
+    },
+    "P0304": {
+      "note_ru": "Пропуск зажигания в 4-м цилиндре. Проверьте проводку и катушку.",
+      "common_fix_ru": "Замена свечи, катушки или ремонт проводки.",
+      "frequency": "common",
+      "severity_override": "urgent",
+      "source": "llm_enrichment",
+      "system_id": "ignition",
+      "can_drive": "yes_caution"
+    },
+    "P0325": {
+      "note_ru": "Неисправность датчика детонации. Может вызвать потерю мощности.",
+      "common_fix_ru": "Замена датчика детонации или проверка проводки.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "llm_enrichment",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P0335": {
+      "note_ru": "Датчик положения коленвала (CKP): неисправность цепи. На Suzuki Grand Vitara — часто из-за масляного загрязнения датчика.",
+      "common_fix_ru": "Чистка или замена датчика CKP (2000-5000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "zukiworld.com",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0340": {
+      "note_ru": "Датчик положения распредвала (CMP): неисправность цепи. На Suzuki — проблема с зазором или проводкой.",
+      "common_fix_ru": "Замена датчика CMP (2000-4000 руб.), проверка зазора.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "zukiworld.com",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0400": {
+      "note_ru": "Система EGR: нарушение потока. На Suzuki Grand Vitara/SX4 — засорение клапана EGR или каналов.",
+      "common_fix_ru": "Чистка клапана EGR и каналов (3000-6000 руб.) или замена клапана (5000-10000 руб.).",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "zukiworld.com",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0420": {
+      "note_ru": "Для Suzuki (SX4, Swift, Vitara) код P0420 часто указывает на износ штатного катализатора или неисправность датчика кислорода после него, особенно на машинах с пробегом свыше 150 тыс. км.",
+      "common_fix_ru": "Наиболее частое решение — замена катализатора на аналог (от 15 000 до 25 000 руб.) или перепрошивка ЭБУ для отключения его контроля, если это допустимо по экологическому классу.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "system_id": "exhaust",
+      "can_drive": "yes_caution"
+    },
+    "P0430": {
+      "note_ru": "Катализатор Bank 2: снижение эффективности. Актуально для V6 Grand Vitara.",
+      "common_fix_ru": "Замена катализатора Bank 2 (15000-35000 руб.) или установка обманки лямбда-зонда.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "zukiworld.com",
+      "models": [
+        "grand_vitara"
+      ],
+      "system_id": "exhaust",
+      "can_drive": "yes_caution"
+    },
+    "P0440": {
+      "note_ru": "Система EVAP: общая неисправность. На Suzuki — часто неплотно закрученная крышка бензобака.",
+      "common_fix_ru": "Проверить крышку бензобака (затянуть до щелчка), замена при износе (500-1500 руб.).",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "zukiworld.com",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0442": {
+      "note_ru": "Система EVAP: обнаружена небольшая утечка. На Suzuki SX4/Vitara — износ уплотнений или трещины шлангов.",
+      "common_fix_ru": "Дымогенератором найти утечку. Замена шлангов EVAP (1000-3000 руб.).",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "suzuki-forums.com",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0443": {
+      "note_ru": "Клапан продувки адсорбера (Purge Valve): неисправность цепи.",
+      "common_fix_ru": "Замена клапана продувки (1500-3500 руб.).",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "zukiworld.com",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0450": {
+      "note_ru": "Датчик давления системы EVAP: неисправность. На Suzuki — частая ошибка при проблемах с бензобаком.",
+      "common_fix_ru": "Замена датчика давления EVAP (2000-5000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "zukiworld.com",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0455": {
+      "note_ru": "Система EVAP: обнаружена крупная утечка. Часто — незакрытая крышка бензобака или треснувший шланг.",
+      "common_fix_ru": "Проверить крышку бака, проверить все шланги EVAP на трещины.",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "suzuki-forums.com",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0456": {
+      "note_ru": "Система EVAP: обнаружена очень маленькая утечка. На Suzuki Grand Vitara — частая проблема с резиновыми шлангами EVAP.",
+      "common_fix_ru": "Дымогенератором найти микроутечку. Частая причина — протирание шланга от вибрации канистры адсорбера.",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "suzuki-forums.com",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0461": {
+      "note_ru": "Датчик уровня топлива: проблема характеристик. На Suzuki — ложные показания на приборной панели.",
+      "common_fix_ru": "Замена датчика уровня топлива в баке (3000-7000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "zukiworld.com",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0480": {
+      "note_ru": "Система управления вентилятором радиатора: неисправность. Может привести к перегреву двигателя.",
+      "common_fix_ru": "Проверка реле, предохранителя и мотора вентилятора. Замена мотора (5000-12000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "zukiworld.com",
+      "system_id": "cooling",
+      "can_drive": "yes_safe"
+    },
+    "P0500": {
+      "note_ru": "Датчик скорости автомобиля (VSS): неисправность. На Suzuki — влияет на работу спидометра и АКПП.",
+      "common_fix_ru": "Замена датчика скорости (2000-5000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "zukiworld.com",
+      "system_id": "drivetrain",
+      "can_drive": "yes_safe"
+    },
+    "P0505": {
+      "note_ru": "Система регулировки холостого хода (IAC): неисправность. На Suzuki — плавающие обороты на холостом ходу.",
+      "common_fix_ru": "Чистка или замена клапана IAC (2000-5000 руб.).",
+      "frequency": "common",
+      "severity_override": "info",
+      "source": "zukiworld.com",
+      "system_id": "engine",
+      "can_drive": "yes_safe"
+    },
+    "P0601": {
+      "note_ru": "Внутренняя ошибка контрольной суммы ЭБУ. Критичная ошибка — может потребоваться замена ЭБУ.",
+      "common_fix_ru": "Перепрошивка или замена ЭБУ (15000-50000 руб.).",
+      "frequency": "rare",
+      "severity_override": "critical",
+      "source": "zukiworld.com",
+      "system_id": "ev",
+      "can_drive": "yes_safe"
+    },
+    "P0700": {
+      "note_ru": "Код P0700 на Suzuki (SX4, Swift, Vitara) означает, что блок управления двигателем (ECM) получил сигнал о сбое от блока управления АКПП (TCM), но не указывает на конкретную деталь. На российских машинах это часто связано с окислением контактов в разъеме TCM или проблемами с проводкой из-за влаги и реагентов.",
+      "common_fix_ru": "Сначала проверьте и почистите разъемы TCM и проводку (500-1500 руб.), затем считайте коды именно из TCM. Если проблема в соленоиде или датчике скорости, замена обойдется в 8000-25000 руб. в зависимости от модели.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0705": {
+      "note_ru": "Код P0705 на Suzuki (SX4, Swift, Vitara) указывает на неисправность цепи датчика диапазона КПП, что часто связано с плохим контактом в разъеме или отказом самого датчика, особенно на моделях с автоматической коробкой Jatco.",
+      "common_fix_ru": "Чаще всего помогает замена датчика диапазона (около 3500–6000 руб.) или чистка/замена разъема (1500–2500 руб.), при этом диагностика на специализированном сервисе в РФ стоит 2000–3500 руб.",
+      "frequency": "rare",
+      "severity_override": "urgent",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0715": {
+      "note_ru": "Датчик скорости входного вала АКПП: неисправность цепи.",
+      "common_fix_ru": "Замена датчика (3000-6000 руб.).",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "source": "zukiworld.com",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0720": {
+      "note_ru": "Датчик скорости выходного вала АКПП: неисправность цепи. На Suzuki — влияет на переключение передач.",
+      "common_fix_ru": "Замена датчика скорости выходного вала (3000-6000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "zukiworld.com",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0722": {
+      "note_ru": "Датчик скорости выходного вала АКПП: нет сигнала. На Suzuki SX4 — критичный для работы АКПП.",
+      "common_fix_ru": "Замена датчика скорости (3000-6000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "faultcodes.co",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0730": {
+      "note_ru": "Код P0730 на Suzuki (SX4, Swift, Vitara) указывает на рассинхронизацию фактической и расчетной передачи, что часто связано с износом фрикционов АКПП Jatco или проблемами с соленоидами.",
+      "common_fix_ru": "Наиболее частое решение — замена масла и промывка гидроблока (от 8 000 ₽), в запущенных случаях требуется ремонт АКПП (от 45 000 ₽).",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0741": {
+      "note_ru": "Муфта блокировки гидротрансформатора: проскальзывание или залипание. На Suzuki с АКПП Aisin/Jatco — проблема соленоида.",
+      "common_fix_ru": "Замена соленоида блокировки ГДТ (5000-10000 руб.) или ремонт АКПП.",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "zukiworld.com",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0751": {
+      "note_ru": "Соленоид переключения A (№1): проскальзывание или залипание.",
+      "common_fix_ru": "Замена соленоида или промывка гидроблока АКПП (8000-20000 руб.).",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "source": "zukiworld.com",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0756": {
+      "note_ru": "Соленоид переключения B (№2): проскальзывание или залипание.",
+      "common_fix_ru": "Замена соленоида (5000-10000 руб.).",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "source": "zukiworld.com",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P0777": {
+      "note_ru": "Соленоид давления B: залипание во включённом положении. На Suzuki с АКПП — серьёзная проблема коробки.",
+      "common_fix_ru": "Ремонт гидроблока АКПП (15000-35000 руб.).",
+      "frequency": "rare",
+      "severity_override": "urgent",
+      "source": "faultcodes.co",
+      "system_id": "drivetrain",
+      "can_drive": "yes_caution"
+    },
+    "P1250": {
+      "note_ru": "Цепь нагревателя EFE: неисправность. Нагреватель впускного воздуха для холодного пуска.",
+      "common_fix_ru": "Проверка реле и проводки нагревателя, замена элемента (2000-5000 руб.).",
+      "frequency": "rare",
+      "severity_override": null,
+      "source": "engine-light-help.com"
+    },
+    "P1408": {
+      "note_ru": "Датчик дифференциального давления впускного коллектора (MDP): неисправность цепи. Специфичный для Suzuki.",
+      "common_fix_ru": "Замена датчика MDP (2000-5000 руб.), проверка вакуумных шлангов.",
+      "frequency": "occasional",
+      "severity_override": null,
+      "source": "zukiworld.com"
+    },
+    "P1410": {
+      "note_ru": "Система контроля давления в топливном баке (EVAP II): неисправность. Частый код на Suzuki SX4/Vitara.",
+      "common_fix_ru": "Проверка крышки бензобака, клапана давления бака (2000-4000 руб.).",
+      "frequency": "common",
+      "severity_override": null,
+      "source": "zukiworld.com"
+    },
+    "P1450": {
+      "note_ru": "Датчик барометрического давления: напряжение слишком высокое или слишком низкое.",
+      "common_fix_ru": "Замена датчика барометрического давления (1500-4000 руб.).",
+      "frequency": "occasional",
+      "severity_override": null,
+      "source": "zukiworld.com"
+    },
+    "P1451": {
+      "note_ru": "Датчик барометрического давления: проблема характеристик.",
+      "common_fix_ru": "Проверка проводки датчика, замена при необходимости.",
+      "frequency": "occasional",
+      "severity_override": null,
+      "source": "zukiworld.com"
+    },
+    "P1460": {
+      "note_ru": "Система управления вентилятором радиатора: неисправность. На Suzuki — проблема с реле или мотором вентилятора.",
+      "common_fix_ru": "Замена реле вентилятора (500-1500 руб.) или мотора (5000-12000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "zukiworld.com"
+    },
+    "P1500": {
+      "note_ru": "Цепь сигнала стартера: неисправность. На Suzuki SX4/Swift/Vitara — проблема с реле или контактной группой.",
+      "common_fix_ru": "Проверка реле стартера и контактной группы замка зажигания (2000-5000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "zukiworld.com"
+    },
+    "P1510": {
+      "note_ru": "Резервное питание ЭБУ: неисправность. Потеря адаптационных данных после отключения АКБ.",
+      "common_fix_ru": "Проверка предохранителей и проводки ЭБУ, при необходимости переобучение ЭБУ.",
+      "frequency": "occasional",
+      "severity_override": "info",
+      "source": "zukiworld.com"
+    },
+    "P1530": {
+      "note_ru": "Переключатель регулировки опережения зажигания: неисправность цепи. Используется при диагностике.",
+      "common_fix_ru": "Проверка тестового разъёма и проводки. Код может появляться при неправильной диагностике.",
+      "frequency": "rare",
+      "severity_override": "info",
+      "source": "zukiworld.com"
+    },
+    "P1600": {
+      "note_ru": "Связь между ЭБУ двигателя и ЭБУ АКПП: неисправность. На Suzuki — часто окисление контактов CAN-шины.",
+      "common_fix_ru": "Чистка контактов CAN-шины, проверка проводки (2000-5000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "zukiworld.com"
+    },
+    "P1700": {
+      "note_ru": "ЭБУ АКПП: ошибка сигнала датчика положения дроссельной заслонки.",
+      "common_fix_ru": "Проверка TPS и проводки к ЭБУ АКПП.",
+      "frequency": "occasional",
+      "severity_override": null,
+      "source": "zukiworld.com"
+    },
+    "P1705": {
+      "note_ru": "ЭБУ АКПП: ошибка сигнала датчика температуры охлаждающей жидкости.",
+      "common_fix_ru": "Проверка ECT и проводки к блоку АКПП.",
+      "frequency": "occasional",
+      "severity_override": null,
+      "source": "zukiworld.com"
+    },
+    "P1710": {
+      "note_ru": "Резервный сигнал датчика скорости: неисправность цепи.",
+      "common_fix_ru": "Замена датчика скорости или проверка разъёма (2000-5000 руб.).",
+      "frequency": "rare",
+      "severity_override": null,
+      "source": "engine-light-help.com"
+    },
+    "P1715": {
+      "note_ru": "Переключатель P/N (парковка/нейтраль): неисправность цепи. Может мешать запуску двигателя.",
+      "common_fix_ru": "Регулировка или замена переключателя P/N (2000-5000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "warning",
+      "source": "zukiworld.com"
+    },
+    "P1717": {
+      "note_ru": "Сигнал выбранного диапазона АКПП: неисправность цепи.",
+      "common_fix_ru": "Проверка датчика диапазона АКПП и проводки (3000-6000 руб.).",
+      "frequency": "rare",
+      "severity_override": null,
+      "source": "engine-light-help.com"
+    },
+    "P1875": {
+      "note_ru": "Переключатель 4WD Low: неисправность цепи. Актуально для Grand Vitara с полным приводом.",
+      "common_fix_ru": "Проверка переключателя раздаточной коробки и проводки (3000-8000 руб.).",
+      "frequency": "rare",
+      "severity_override": null,
+      "source": "zukiworld.com",
+      "models": [
+        "grand_vitara",
+        "vitara"
+      ]
+    },
+    "P1895": {
+      "note_ru": "Цепь снижения крутящего момента TCM-ECM: неисправность. Проблема связи между ЭБУ двигателя и АКПП.",
+      "common_fix_ru": "Проверка проводки между блоками управления, диагностика CAN-шины.",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "source": "engine-light-help.com"
+    },
+    "P2106": {
+      "note_ru": "Система управления дроссельной заслонкой: принудительное ограничение мощности. Аварийный режим.",
+      "common_fix_ru": "Диагностика всех систем — код является следствием другой ошибки. Устранить первопричину.",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "faultcodes.co",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "P2135": {
+      "note_ru": "Датчики положения дроссельной заслонки A/B: несоответствие. Критичный код — аварийный режим.",
+      "common_fix_ru": "Замена электронной дроссельной заслонки (8000-18000 руб.).",
+      "frequency": "occasional",
+      "severity_override": "urgent",
+      "source": "faultcodes.co",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "U0073": {
+      "note_ru": "Шина связи CAN A: отключена. Потеря связи между блоками управления.",
+      "common_fix_ru": "Проверка проводки CAN-шины, разъёмов блоков управления (3000-8000 руб.).",
+      "frequency": "rare",
+      "severity_override": "urgent",
+      "source": "faultcodes.co",
+      "system_id": "ev",
+      "can_drive": "yes_caution"
+    },
+    "U0100": {
+      "note_ru": "Код U0100 на Suzuki (SX4, Swift, Vitara) указывает на потерю связи с ЭБУ двигателя по шине CAN, что часто вызвано окислением контактов в разъеме или обрывом провода в жгуте из-за вибрации.",
+      "common_fix_ru": "В 90% случаев помогает чистка контактов разъема ЭБУ и проверка массы; замена ЭБУ требуется редко и стоит от 45 000 до 80 000 рублей.",
+      "frequency": "rare",
+      "severity_override": "urgent",
+      "system_id": "engine",
+      "can_drive": "yes_caution"
+    },
+    "U0155": {
+      "note_ru": "Код U0155 на Suzuki (SX4, Swift, Vitara) указывает на потерю связи с приборной панелью по шине CAN, что часто сопровождается некорректной работой мультимедиа или отказом отображения данных. В отличие от массовых ошибок, в отзывах владельцев этот конкретный код практически не встречается, что делает его редким для данной марки.",
+      "common_fix_ru": "Чаще всего проблема решается переподключением разъема панели приборов или заменой неисправного модуля; стоимость диагностики в 2024-2026 годах составит 3000–5000 руб., а замена блока приборов — от 15 000 до 45 000 руб. в зависимости от комплектации.",
+      "frequency": "rare",
+      "severity_override": "urgent",
+      "system_id": "audio",
+      "can_drive": "yes_caution"
+    },
+    "U0164": {
+      "note_ru": "Потеря связи с блоком управления HVAC (климат-контроль).",
+      "common_fix_ru": "Проверка проводки и разъёма блока климат-контроля (2000-5000 руб.).",
+      "frequency": "rare",
+      "severity_override": "warning",
+      "source": "faultcodes.co",
+      "system_id": "display",
+      "can_drive": "yes_caution"
+    }
+  },
+  "models": {
+    "vitara": {
+      "B0001": {
+        "note_ru": "Код B0001 на Suzuki (SX4, Swift, Vitara) указывает на критическую неисправность в цепи датчика удара или модуля подушки водителя, часто связанную с окислением контактов в разъеме рулевой колонки из-за влаги. Это не типичная ошибка для этих моделей, так как в отзывах владельцев упоминаний не зафиксировано.",
+        "common_fix_ru": "В 90% случаев помогает чистка контактов в разъеме подушки или замена проводки рулевого вала; полная замена модуля подушки на оригинал стоит от 18 000 до 25 000 рублей, аналог — от 8 000 рублей.",
+        "frequency": "rare",
+        "severity_override": "critical",
+        "system_id": "sensors",
+        "can_drive": "no_stop"
+      },
+      "B1310": {
+        "note_ru": "Код B1310 (Цепь мотора рециркуляции HVAC) крайне редок для Suzuki и часто является ошибкой интерпретации сканера или ложным срабатыванием контроллера кузова, так как в официальных мануалах Suzuki этот код не является стандартным.",
+        "common_fix_ru": "В 90% случаев помогает полная перезагрузка блока управления кузовом (отключение АКБ на 15 минут) или замена датчика положения заслонки рециркуляции, что стоит от 1500 до 4500 рублей.",
+        "frequency": "rare",
+        "severity_override": "info",
+        "system_id": "body",
+        "can_drive": "yes_safe"
+      },
+      "B1504": {
+        "note_ru": "Лампа поворотника правого: обрыв цепи. На Suzuki SX4 — перегоревшая лампа или окисление контакта.",
+        "common_fix_ru": "Замена лампы (100-500 руб.), проверка разъёма и массы.",
+        "frequency": "common",
+        "severity_override": "info",
+        "source": "faultcodes.co",
+        "system_id": "interior",
+        "can_drive": "yes_safe"
+      },
+      "C0035": {
+        "note_ru": "Код C0035 на Suzuki (SX4, Swift, Vitara) указывает на обрыв цепи или неисправность датчика скорости левого переднего колеса, что критично для работы ABS и ESP. В отличие от других марок, на Сузуки это часто связано с окислением контактов в разъеме датчика или повреждением проводки из-за реагентов.",
+        "common_fix_ru": "Чаще всего помогает замена датчика скорости ABS (аналог от Denso или оригинал) за 2500–4500 рублей и чистка разъема; при повреждении проводки ремонт жгута обойдется в 3000–6000 рублей.",
+        "frequency": "rare",
+        "severity_override": "critical",
+        "system_id": "brake-control",
+        "can_drive": "no_stop"
+      },
+      "C0265": {
+        "note_ru": "Код C0265 (Цепь реле EBCM) на Suzuki крайне редок и обычно указывает на неисправность самого блока ABS/ESP или его питания, а не на механическую часть тормозов.",
+        "common_fix_ru": "Требуется диагностика цепи питания блока ABS и замена модуля EBCM, что в 2024-2026 годах обойдется от 45 000 до 120 000 рублей в зависимости от модели (SX4, Swift, Vitara).",
+        "frequency": "rare",
+        "severity_override": "urgent",
+        "system_id": "brakes",
+        "can_drive": "no_danger"
+      },
+      "C0561": {
+        "note_ru": "Код C0561 не является стандартным для систем Suzuki и чаще всего указывает на ошибку считывания данных с датчика ABS/ESP или сбой в модуле управления кузовом (BCM) из-за проблем с проводкой.",
+        "common_fix_ru": "В России чаще всего помогает перепрошивка модуля ABS или замена жгута проводов в районе заднего левого колеса, стоимость работ составляет от 8 000 до 15 000 рублей.",
+        "frequency": "rare",
+        "severity_override": "warning"
+      },
+      "P0010": {
+        "note_ru": "Неисправность цепи управления фазораспределением впускного распредвала.",
+        "common_fix_ru": "Проверка масла, замена клапана VVT-i, ремонт проводки.",
+        "frequency": "common",
+        "severity_override": "urgent",
+        "source": "llm_enrichment",
+        "system_id": "engine",
+        "can_drive": "no_danger"
+      },
+      "P0011": {
+        "note_ru": "Система фазораспределения впускного распредвала работает слишком рано.",
+        "common_fix_ru": "Замена клапана VVT, чистка сетки маслопровода, проверка масла.",
+        "frequency": "common",
+        "severity_override": "urgent",
+        "source": "llm_enrichment",
+        "system_id": "engine",
+        "can_drive": "no_danger"
+      },
+      "P0012": {
+        "note_ru": "Система фазораспределения впускного распредвала работает слишком поздно.",
+        "common_fix_ru": "Замена клапана VVT, проверка натяжения цепи ГРМ, масло.",
+        "frequency": "common",
+        "severity_override": "urgent",
+        "source": "llm_enrichment",
+        "system_id": "engine",
+        "can_drive": "no_danger"
+      },
+      "P0013": {
+        "note_ru": "Неисправность цепи управления фазораспределением выпускного распредвала.",
+        "common_fix_ru": "Проверка масла, замена клапана VVT, ремонт проводки.",
+        "frequency": "occasional",
+        "severity_override": "urgent",
+        "source": "llm_enrichment",
+        "system_id": "engine",
+        "can_drive": "no_danger"
+      },
+      "P0014": {
+        "note_ru": "Система фазораспределения выпускного распредвала работает слишком рано.",
+        "common_fix_ru": "Замена клапана VVT, чистка маслопровода, проверка масла.",
+        "frequency": "occasional",
+        "severity_override": "urgent",
+        "source": "llm_enrichment",
+        "system_id": "engine",
+        "can_drive": "no_danger"
+      },
+      "P0016": {
+        "note_ru": "Синхронизация коленвала и распредвала 1 не в норме.",
+        "common_fix_ru": "Проверка цепи ГРМ, натяжителя или датчиков.",
+        "frequency": "occasional",
+        "severity_override": "urgent",
+        "source": "llm_enrichment",
+        "system_id": "engine",
+        "can_drive": "no_danger"
+      },
+      "P0017": {
+        "note_ru": "Синхронизация коленвала и распредвала 2 не в норме.",
+        "common_fix_ru": "Проверка цепи ГРМ, натяжителя или датчиков.",
+        "frequency": "occasional",
+        "severity_override": "urgent",
+        "source": "llm_enrichment",
+        "system_id": "engine",
+        "can_drive": "no_danger"
+      },
+      "P0031": {
+        "note_ru": "Нагреватель лямбда-зонда B1S1: низкое напряжение. На Suzuki SX4 — частая проблема.",
+        "common_fix_ru": "Замена лямбда-зонда с нагревателем (3000-6000 руб.).",
+        "frequency": "occasional",
+        "severity_override": "urgent",
+        "source": "faultcodes.co",
+        "system_id": "engine",
+        "can_drive": "yes_caution"
+      },
+      "P0036": {
+        "note_ru": "Нагреватель лямбда-зонда B1S2: неисправность управляющей цепи.",
+        "common_fix_ru": "Замена нижнего лямбда-зонда (2500-5000 руб.).",
+        "frequency": "occasional",
+        "severity_override": "urgent",
+        "source": "faultcodes.co",
+        "system_id": "engine",
+        "can_drive": "yes_caution"
+      },
+      "P0037": {
+        "note_ru": "Нагреватель лямбда-зонда B1S2: низкое напряжение.",
+        "common_fix_ru": "Замена нижнего лямбда-зонда (2500-5000 руб.).",
+        "frequency": "occasional",
+        "severity_override": "urgent",
+        "source": "faultcodes.co",
+        "system_id": "engine",
+        "can_drive": "yes_caution"
+      },
+      "P0087": {
+        "note_ru": "Давление топлива ниже допустимого значения.",
+        "common_fix_ru": "Проверка топливного насоса, фильтра и проводки.",
+        "frequency": "common",
+        "severity_override": "info",
+        "source": "llm_enrichment",
+        "system_id": "fuel",
+        "can_drive": "no_danger"
+      },
+      "P0088": {
+        "note_ru": "Давление топлива выше допустимого значения.",
+        "common_fix_ru": "Проверка регулятора давления и топливного насоса.",
+        "frequency": "occasional",
+        "severity_override": "info",
+        "source": "llm_enrichment",
+        "system_id": "fuel",
+        "can_drive": "no_stop"
+      },
+      "P0101": {
+        "note_ru": "Некорректный сигнал датчика массового расхода воздуха.",
+        "common_fix_ru": "Чистка или замена датчика МРВ, проверка на утечки.",
+        "frequency": "common",
+        "severity_override": "warning",
+        "source": "llm_enrichment",
+        "system_id": "intake",
+        "can_drive": "yes_caution"
+      },
+      "P0102": {
+        "note_ru": "Низкий сигнал датчика массового расхода воздуха (MAF) на Suzuki.",
+        "common_fix_ru": "Очистить или заменить MAF, проверить вакуумные утечки.",
+        "frequency": "common",
+        "severity_override": "warning",
+        "source": "llm_enrichment",
+        "system_id": "intake",
+        "can_drive": "yes_caution"
+      },
+      "P0106": {
+        "note_ru": "Некорректный диапазон сигнала датчика давления в коллекторе (MAP).",
+        "common_fix_ru": "Проверить проводку, вакуумные шланги или заменить датчик MAP.",
+        "frequency": "occasional",
+        "severity_override": "warning",
+        "source": "llm_enrichment",
+        "system_id": "engine",
+        "can_drive": "yes_caution"
+      },
+      "P0107": {
+        "note_ru": "Низкий сигнал датчика давления в коллекторе (MAP) на Suzuki.",
+        "common_fix_ru": "Проверить вакуумный шланг, проводку или заменить датчик MAP.",
+        "frequency": "occasional",
+        "severity_override": "warning",
+        "source": "llm_enrichment",
+        "system_id": "engine",
+        "can_drive": "yes_caution"
+      },
+      "P0108": {
+        "note_ru": "Высокий сигнал датчика давления в коллекторе (MAP) на Suzuki.",
+        "common_fix_ru": "Проверить проводку, вакуумные шланги или заменить датчик MAP.",
+        "frequency": "occasional",
+        "severity_override": "warning",
+        "source": "llm_enrichment",
+        "system_id": "engine",
+        "can_drive": "yes_caution"
+      },
+      "P0110": {
+        "note_ru": "Датчик температуры впускного воздуха (IAT): неисправность цепи.",
+        "common_fix_ru": "Замена датчика IAT (1000-2500 руб.).",
+        "frequency": "occasional",
+        "severity_override": "info",
+        "source": "faultcodes.co",
+        "system_id": "engine",
+        "can_drive": "yes_safe"
+      },
+      "P0113": {
+        "note_ru": "Высокий сигнал датчика температуры всасываемого воздуха (IAT).",
+        "common_fix_ru": "Проверить проводку датчика IAT или заменить сам датчик.",
+        "frequency": "common",
+        "severity_override": "info",
+        "source": "llm_enrichment",
+        "system_id": "engine",
+        "can_drive": "yes_safe"
+      },
+      "P0116": {
+        "note_ru": "Датчик ECT: проблема диапазона/характеристик. На Suzuki — часто после перегрева или при неисправном термостате.",
+        "common_fix_ru": "Замена датчика ECT (1000-2500 руб.) и проверка термостата.",
+        "frequency": "occasional",
+        "severity_override": "critical",
+        "source": "zukiworld.com",
+        "system_id": "engine",
+        "can_drive": "no_stop"
+      },
+      "P0120": {
+        "note_ru": "Датчик положения дроссельной заслонки (TPS): неисправность цепи. На Suzuki — может вызвать аварийный режим.",
+        "common_fix_ru": "Замена TPS или дроссельного узла (3000-8000 руб.).",
+        "frequency": "occasional",
+        "severity_override": "warning",
+        "source": "faultcodes.co",
+        "system_id": "engine",
+        "can_drive": "no_stop"
+      },
+      "P0128": {
+        "note_ru": "Код P0128 для Suzuki (SX4, Swift, Vitara) означает, что двигатель не достигает рабочей температуры в течение заданного времени, что часто связано с заклинившим в открытом положении термостатом.",
+        "common_fix_ru": "Наиболее частое решение — замена термостата на оригинальный или качественный аналог (например, Denso), что в России стоит от 2500 до 5000 рублей с учетом работы.",
+        "frequency": "occasional",
+        "severity_override": "warning",
+        "system_id": "cooling",
+        "can_drive": "no_stop"
+      },
+      "P0130": {
+        "note_ru": "Неисправность цепи датчика кислорода (Bank 1, Sensor 1).",
+        "common_fix_ru": "Замена датчика кислорода или проверка проводки.",
+        "frequency": "common",
+        "severity_override": "warning",
+        "source": "llm_enrichment",
+        "system_id": "emission",
+        "can_drive": "yes_caution"
+      },
+      "P0131": {
+        "note_ru": "Низкое напряжение сигнала датчика кислорода (Bank 1, Sensor 1).",
+        "common_fix_ru": "Проверка на утечку вакуума или замена датчика.",
+        "frequency": "common",
+        "severity_override": "warning",
+        "source": "llm_enrichment",
+        "system_id": "emission",
+        "can_drive": "yes_caution"
+      },
+      "P0132": {
+        "note_ru": "Высокое напряжение сигнала датчика кислорода (Bank 1, Sensor 1).",
+        "common_fix_ru": "Проверка на загрязнение топливом или замена датчика.",
+        "frequency": "common",
+        "severity_override": "warning",
+        "source": "llm_enrichment",
+        "system_id": "emission",
+        "can_drive": "yes_caution"
+      },
+      "P0133": {
+        "note_ru": "Медленная реакция датчика кислорода (Bank 1, Sensor 1).",
+        "common_fix_ru": "Замена датчика или устранение подсоса воздуха.",
+        "frequency": "occasional",
+        "severity_override": "warning",
+        "source": "llm_enrichment",
+        "system_id": "emission",
+        "can_drive": "yes_caution"
+      },
+      "P0134": {
+        "note_ru": "Отсутствие активности датчика кислорода (Bank 1, Sensor 1).",
+        "common_fix_ru": "Проверка целостности цепи или замена датчика.",
+        "frequency": "occasional",
+        "severity_override": "warning",
+        "source": "llm_enrichment",
+        "system_id": "engine",
+        "can_drive": "yes_caution"
+      },
+      "P0135": {
+        "note_ru": "Неисправность нагревательного элемента датчика кислорода (Bank 1, Sensor 1).",
+        "common_fix_ru": "Замена датчика кислорода или проверка цепи нагревателя.",
+        "frequency": "common",
+        "severity_override": "warning",
+        "source": "llm_enrichment",
+        "system_id": "engine",
+        "can_drive": "yes_caution"
+      },
+      "P0136": {
+        "note_ru": "Неисправность цепи датчика кислорода (Bank 1, Sensor 2).",
+        "common_fix_ru": "Проверка проводки, разъема или замена датчика.",
+        "frequency": "common",
+        "severity_override": "warning",
+        "source": "llm_enrichment",
+        "system_id": "emission",
+        "can_drive": "yes_caution"
+      },
+      "P0137": {
+        "note_ru": "Лямбда-зонд B1S2: низкое напряжение. Индикатор проблемы с катализатором.",
+        "common_fix_ru": "Замена нижнего лямбда-зонда (2500-5000 руб.).",
+        "frequency": "occasional",
+        "severity_override": "warning",
+        "source": "faultcodes.co",
+        "system_id": "emission",
+        "can_drive": "yes_caution"
+      },
+      "P0138": {
+        "note_ru": "Лямбда-зонд B1S2: высокое напряжение. Может указывать на богатую смесь или утечку выхлопа.",
+        "common_fix_ru": "Проверка на утечку выхлопа, замена лямбда-зонда (2500-5000 руб.).",
+        "frequency": "occasional",
+        "severity_override": "warning",
+        "source": "faultcodes.co",
+        "system_id": "emission",
+        "can_drive": "yes_caution"
+      },
+      "P0140": {
+        "note_ru": "Лямбда-зонд B1S2: нет активности. Зонд перестал работать.",
+        "common_fix_ru": "Замена нижнего лямбда-зонда (2500-5000 руб.).",
+        "frequency": "occasional",
+        "severity_override": "warning",
+        "source": "faultcodes.co",
+        "system_id": "engine",
+        "can_drive": "yes_caution"
+      },
+      "P0151": {
+        "note_ru": "Лямбда-зонд B2S1: низкое напряжение. Актуально для V6 Grand Vitara.",
+        "common_fix_ru": "Замена лямбда-зонда Bank 2 (3000-6000 руб.).",
+        "frequency": "occasional",
+        "severity_override": "warning",
+        "source": "zukiworld.com",
+        "system_id": "engine",
+        "can_drive": "yes_caution"
+      },
+      "P0171": {
+        "note_ru": "Для Suzuki (SX4, Swift, Vitara) код P0171 часто указывает на подсос неучтенного воздуха через трещины в патрубках впуска или неисправность датчика массового расхода воздуха (ДМРВ), особенно на моторах K14B и K12M.",
+        "common_fix_ru": "Чаще всего помогает замена ДМРВ (1500–3500 руб.) или герметизация патрубков (500–1500 руб.), при этом диагностика на стенде стоит около 2000 рублей.",
+        "frequency": "occasional",
+        "severity_override": "info",
+        "system_id": "engine",
+        "can_drive": "yes_caution"
+      },
+      "P0172": {
+        "note_ru": "Слишком богатая топливная смесь (Bank 1).",
+        "common_fix_ru": "Проверка форсунок, давления топлива или датчика массового расхода воздуха.",
+        "frequency": "occasional",
+        "severity_override": "info",
+        "source": "llm_enrichment",
+        "system_id": "engine",
+        "can_drive": "yes_caution"
+      },
+      "P0174": {
+        "note_ru": "Слишком бедная топливная смесь (Bank 2).",
+        "common_fix_ru": "Поиск подсоса воздуха, проверка топливной системы или датчиков.",
+        "frequency": "occasional",
+        "severity_override": "info",
+        "source": "llm_enrichment",
+        "system_id": "engine",
+        "can_drive": "yes_caution"
+      },
+      "P0175": {
+        "note_ru": "Слишком богатая топливная смесь (Bank 2).",
+        "common_fix_ru": "Проверка форсунок, давления топлива или датчика массового расхода воздуха.",
+        "frequency": "occasional",
+        "severity_override": "info",
+        "source": "llm_enrichment",
+        "system_id": "engine",
+        "can_drive": "yes_caution"
+      },
+      "P0201": {
+        "note_ru": "Неисправность цепи форсунки цилиндра 1.",
+        "common_fix_ru": "Проверить проводку и форсунку.",
+        "frequency": "occasional",
+        "severity_override": "info",
+        "source": "llm_enrichment",
+        "system_id": "fuel",
+        "can_drive": "yes_caution"
+      },
+      "P0202": {
+        "note_ru": "Неисправность цепи форсунки цилиндра 2.",
+        "common_fix_ru": "Проверить проводку и форсунку.",
+        "frequency": "occasional",
+        "severity_override": "info",
+        "source": "llm_enrichment",
+        "system_id": "fuel",
+        "can_drive": "yes_caution"
+      },
+      "P0203": {
+        "note_ru": "Неисправность цепи форсунки цилиндра 3.",
+        "common_fix_ru": "Проверить проводку и форсунку.",
+        "frequency": "occasional",
+        "severity_override": "info",
+        "source": "llm_enrichment",
+        "system_id": "fuel",
+        "can_drive": "yes_caution"
+      },
+      "P0204": {
+        "note_ru": "Неисправность цепи форсунки цилиндра 4.",
+        "common_fix_ru": "Проверить проводку и форсунку.",
+        "frequency": "occasional",
+        "severity_override": "info",
+        "source": "llm_enrichment",
+        "system_id": "fuel",
+        "can_drive": "yes_caution"
+      },
+      "P0234": {
+        "note_ru": "Перегрузка по наддуву (слишком высокое давление).",
+        "common_fix_ru": "Проверить клапан Wastegate и датчик.",
+        "frequency": "rare",
+        "severity_override": "info",
+        "source": "llm_enrichment",
+        "system_id": "intake",
+        "can_drive": "yes_safe"
+      },
+      "P0299": {
+        "note_ru": "Код P0299 на Сузуки (SX4, Swift, Vitara) с турбодвигателем K14C или K14D указывает на потерю давления наддува, часто из-за трещин в патрубках интеркулера или износа клапана перепуска (wastegate).",
+        "common_fix_ru": "Чаще всего помогает замена треснувших патрубков интеркулера (от 2500 руб.) или ремонт/замена клапана перепуска (от 4500 руб.) с последующей перепрошивкой ЭБУ.",
+        "frequency": "rare",
+        "severity_override": "info",
+        "system_id": "intake",
+        "can_drive": "yes_safe"
+      },
+      "P0300": {
+        "note_ru": "Для Suzuki (SX4, Swift, Vitara) код P0300 часто указывает на износ катушек зажигания или загрязнение форсунок, особенно на моторах K14B и K15B при пробеге свыше 100 тыс. км.",
+        "common_fix_ru": "Замена комплекта катушек зажигания (около 8 000–12 000 руб.) и чистка форсунок (3 000–5 000 руб.) устраняют проблему в 80% случаев.",
+        "frequency": "occasional",
+        "severity_override": "urgent",
+        "system_id": "ignition",
+        "can_drive": "yes_caution"
+      },
+      "P0301": {
+        "note_ru": "Пропуск зажигания в 1-м цилиндре. Частая причина - свеча или катушка.",
+        "common_fix_ru": "Замена свечи зажигания или катушки зажигания.",
+        "frequency": "common",
+        "severity_override": "urgent",
+        "source": "llm_enrichment",
+        "system_id": "ignition",
+        "can_drive": "yes_caution"
+      },
+      "P0302": {
+        "note_ru": "Пропуск зажигания во 2-м цилиндре. Проверьте форсунку и катушку.",
+        "common_fix_ru": "Замена свечи, катушки или чистка форсунки.",
+        "frequency": "common",
+        "severity_override": "urgent",
+        "source": "llm_enrichment",
+        "system_id": "ignition",
+        "can_drive": "yes_caution"
+      },
+      "P0303": {
+        "note_ru": "Пропуск зажигания в 3-м цилиндре. Часто связано с неисправной катушкой.",
+        "common_fix_ru": "Замена свечи зажигания или катушки зажигания.",
+        "frequency": "common",
+        "severity_override": "urgent",
+        "source": "llm_enrichment",
+        "system_id": "ignition",
+        "can_drive": "yes_caution"
+      },
+      "P0304": {
+        "note_ru": "Пропуск зажигания в 4-м цилиндре. Проверьте проводку и катушку.",
+        "common_fix_ru": "Замена свечи, катушки или ремонт проводки.",
+        "frequency": "common",
+        "severity_override": "urgent",
+        "source": "llm_enrichment",
+        "system_id": "ignition",
+        "can_drive": "yes_caution"
+      },
+      "P0325": {
+        "note_ru": "Неисправность датчика детонации. Может вызвать потерю мощности.",
+        "common_fix_ru": "Замена датчика детонации или проверка проводки.",
+        "frequency": "occasional",
+        "severity_override": "warning",
+        "source": "llm_enrichment",
+        "system_id": "engine",
+        "can_drive": "yes_caution"
+      },
+      "P0335": {
+        "note_ru": "Датчик положения коленвала (CKP): неисправность цепи. На Suzuki Grand Vitara — часто из-за масляного загрязнения датчика.",
+        "common_fix_ru": "Чистка или замена датчика CKP (2000-5000 руб.).",
+        "frequency": "occasional",
+        "severity_override": "warning",
+        "source": "zukiworld.com",
+        "system_id": "engine",
+        "can_drive": "yes_safe"
+      },
+      "P0340": {
+        "note_ru": "Датчик положения распредвала (CMP): неисправность цепи. На Suzuki — проблема с зазором или проводкой.",
+        "common_fix_ru": "Замена датчика CMP (2000-4000 руб.), проверка зазора.",
+        "frequency": "occasional",
+        "severity_override": "warning",
+        "source": "zukiworld.com",
+        "system_id": "engine",
+        "can_drive": "yes_safe"
+      },
+      "P0400": {
+        "note_ru": "Система EGR: нарушение потока. На Suzuki Grand Vitara/SX4 — засорение клапана EGR или каналов.",
+        "common_fix_ru": "Чистка клапана EGR и каналов (3000-6000 руб.) или замена клапана (5000-10000 руб.).",
+        "frequency": "common",
+        "severity_override": "info",
+        "source": "zukiworld.com",
+        "system_id": "engine",
+        "can_drive": "yes_safe"
+      },
+      "P0420": {
+        "note_ru": "Для Suzuki (SX4, Swift, Vitara) код P0420 часто указывает на износ штатного катализатора или неисправность датчика кислорода после него, особенно на машинах с пробегом свыше 150 тыс. км.",
+        "common_fix_ru": "Наиболее частое решение — замена катализатора на аналог (от 15 000 до 25 000 руб.) или перепрошивка ЭБУ для отключения его контроля, если это допустимо по экологическому классу.",
+        "frequency": "occasional",
+        "severity_override": "warning",
+        "system_id": "exhaust",
+        "can_drive": "yes_caution"
+      },
+      "P0440": {
+        "note_ru": "Система EVAP: общая неисправность. На Suzuki — часто неплотно закрученная крышка бензобака.",
+        "common_fix_ru": "Проверить крышку бензобака (затянуть до щелчка), замена при износе (500-1500 руб.).",
+        "frequency": "common",
+        "severity_override": "info",
+        "source": "zukiworld.com",
+        "system_id": "engine",
+        "can_drive": "yes_safe"
+      },
+      "P0442": {
+        "note_ru": "Система EVAP: обнаружена небольшая утечка. На Suzuki SX4/Vitara — износ уплотнений или трещины шлангов.",
+        "common_fix_ru": "Дымогенератором найти утечку. Замена шлангов EVAP (1000-3000 руб.).",
+        "frequency": "common",
+        "severity_override": "info",
+        "source": "suzuki-forums.com",
+        "system_id": "engine",
+        "can_drive": "yes_safe"
+      },
+      "P0443": {
+        "note_ru": "Клапан продувки адсорбера (Purge Valve): неисправность цепи.",
+        "common_fix_ru": "Замена клапана продувки (1500-3500 руб.).",
+        "frequency": "occasional",
+        "severity_override": "info",
+        "source": "zukiworld.com",
+        "system_id": "engine",
+        "can_drive": "yes_safe"
+      },
+      "P0450": {
+        "note_ru": "Датчик давления системы EVAP: неисправность. На Suzuki — частая ошибка при проблемах с бензобаком.",
+        "common_fix_ru": "Замена датчика давления EVAP (2000-5000 руб.).",
+        "frequency": "occasional",
+        "severity_override": "info",
+        "source": "zukiworld.com",
+        "system_id": "engine",
+        "can_drive": "yes_safe"
+      },
+      "P0455": {
+        "note_ru": "Система EVAP: обнаружена крупная утечка. Часто — незакрытая крышка бензобака или треснувший шланг.",
+        "common_fix_ru": "Проверить крышку бака, проверить все шланги EVAP на трещины.",
+        "frequency": "common",
+        "severity_override": "info",
+        "source": "suzuki-forums.com",
+        "system_id": "engine",
+        "can_drive": "yes_safe"
+      },
+      "P0456": {
+        "note_ru": "Система EVAP: обнаружена очень маленькая утечка. На Suzuki Grand Vitara — частая проблема с резиновыми шлангами EVAP.",
+        "common_fix_ru": "Дымогенератором найти микроутечку. Частая причина — протирание шланга от вибрации канистры адсорбера.",
+        "frequency": "common",
+        "severity_override": "info",
+        "source": "suzuki-forums.com",
+        "system_id": "engine",
+        "can_drive": "yes_safe"
+      },
+      "P0461": {
+        "note_ru": "Датчик уровня топлива: проблема характеристик. На Suzuki — ложные показания на приборной панели.",
+        "common_fix_ru": "Замена датчика уровня топлива в баке (3000-7000 руб.).",
+        "frequency": "occasional",
+        "severity_override": "info",
+        "source": "zukiworld.com",
+        "system_id": "engine",
+        "can_drive": "yes_safe"
+      },
+      "P0480": {
+        "note_ru": "Система управления вентилятором радиатора: неисправность. Может привести к перегреву двигателя.",
+        "common_fix_ru": "Проверка реле, предохранителя и мотора вентилятора. Замена мотора (5000-12000 руб.).",
+        "frequency": "occasional",
+        "severity_override": "warning",
+        "source": "zukiworld.com",
+        "system_id": "cooling",
+        "can_drive": "yes_safe"
+      },
+      "P0500": {
+        "note_ru": "Датчик скорости автомобиля (VSS): неисправность. На Suzuki — влияет на работу спидометра и АКПП.",
+        "common_fix_ru": "Замена датчика скорости (2000-5000 руб.).",
+        "frequency": "occasional",
+        "severity_override": "warning",
+        "source": "zukiworld.com",
+        "system_id": "drivetrain",
+        "can_drive": "yes_safe"
+      },
+      "P0505": {
+        "note_ru": "Система регулировки холостого хода (IAC): неисправность. На Suzuki — плавающие обороты на холостом ходу.",
+        "common_fix_ru": "Чистка или замена клапана IAC (2000-5000 руб.).",
+        "frequency": "common",
+        "severity_override": "info",
+        "source": "zukiworld.com",
+        "system_id": "engine",
+        "can_drive": "yes_safe"
+      },
+      "P0601": {
+        "note_ru": "Внутренняя ошибка контрольной суммы ЭБУ. Критичная ошибка — может потребоваться замена ЭБУ.",
+        "common_fix_ru": "Перепрошивка или замена ЭБУ (15000-50000 руб.).",
+        "frequency": "rare",
+        "severity_override": "critical",
+        "source": "zukiworld.com",
+        "system_id": "ev",
+        "can_drive": "yes_safe"
+      },
+      "P0700": {
+        "note_ru": "Код P0700 на Suzuki (SX4, Swift, Vitara) означает, что блок управления двигателем (ECM) получил сигнал о сбое от блока управления АКПП (TCM), но не указывает на конкретную деталь. На российских машинах это часто связано с окислением контактов в разъеме TCM или проблемами с проводкой из-за влаги и реагентов.",
+        "common_fix_ru": "Сначала проверьте и почистите разъемы TCM и проводку (500-1500 руб.), затем считайте коды именно из TCM. Если проблема в соленоиде или датчике скорости, замена обойдется в 8000-25000 руб. в зависимости от модели.",
+        "frequency": "occasional",
+        "severity_override": "urgent",
+        "system_id": "drivetrain",
+        "can_drive": "yes_caution"
+      },
+      "P0705": {
+        "note_ru": "Код P0705 на Suzuki (SX4, Swift, Vitara) указывает на неисправность цепи датчика диапазона КПП, что часто связано с плохим контактом в разъеме или отказом самого датчика, особенно на моделях с автоматической коробкой Jatco.",
+        "common_fix_ru": "Чаще всего помогает замена датчика диапазона (около 3500–6000 руб.) или чистка/замена разъема (1500–2500 руб.), при этом диагностика на специализированном сервисе в РФ стоит 2000–3500 руб.",
+        "frequency": "rare",
+        "severity_override": "urgent",
+        "system_id": "drivetrain",
+        "can_drive": "yes_caution"
+      },
+      "P0715": {
+        "note_ru": "Датчик скорости входного вала АКПП: неисправность цепи.",
+        "common_fix_ru": "Замена датчика (3000-6000 руб.).",
+        "frequency": "rare",
+        "severity_override": "warning",
+        "source": "zukiworld.com",
+        "system_id": "drivetrain",
+        "can_drive": "yes_caution"
+      },
+      "P0720": {
+        "note_ru": "Датчик скорости выходного вала АКПП: неисправность цепи. На Suzuki — влияет на переключение передач.",
+        "common_fix_ru": "Замена датчика скорости выходного вала (3000-6000 руб.).",
+        "frequency": "occasional",
+        "severity_override": "warning",
+        "source": "zukiworld.com",
+        "system_id": "drivetrain",
+        "can_drive": "yes_caution"
+      },
+      "P0722": {
+        "note_ru": "Датчик скорости выходного вала АКПП: нет сигнала. На Suzuki SX4 — критичный для работы АКПП.",
+        "common_fix_ru": "Замена датчика скорости (3000-6000 руб.).",
+        "frequency": "occasional",
+        "severity_override": "urgent",
+        "source": "faultcodes.co",
+        "system_id": "drivetrain",
+        "can_drive": "yes_caution"
+      },
+      "P0730": {
+        "note_ru": "Код P0730 на Suzuki (SX4, Swift, Vitara) указывает на рассинхронизацию фактической и расчетной передачи, что часто связано с износом фрикционов АКПП Jatco или проблемами с соленоидами.",
+        "common_fix_ru": "Наиболее частое решение — замена масла и промывка гидроблока (от 8 000 ₽), в запущенных случаях требуется ремонт АКПП (от 45 000 ₽).",
+        "frequency": "rare",
+        "severity_override": "warning",
+        "system_id": "drivetrain",
+        "can_drive": "yes_caution"
+      },
+      "P0741": {
+        "note_ru": "Муфта блокировки гидротрансформатора: проскальзывание или залипание. На Suzuki с АКПП Aisin/Jatco — проблема соленоида.",
+        "common_fix_ru": "Замена соленоида блокировки ГДТ (5000-10000 руб.) или ремонт АКПП.",
+        "frequency": "occasional",
+        "severity_override": "warning",
+        "source": "zukiworld.com",
+        "system_id": "drivetrain",
+        "can_drive": "yes_caution"
+      },
+      "P0751": {
+        "note_ru": "Соленоид переключения A (№1): проскальзывание или залипание.",
+        "common_fix_ru": "Замена соленоида или промывка гидроблока АКПП (8000-20000 руб.).",
+        "frequency": "rare",
+        "severity_override": "warning",
+        "source": "zukiworld.com",
+        "system_id": "drivetrain",
+        "can_drive": "yes_caution"
+      },
+      "P0756": {
+        "note_ru": "Соленоид переключения B (№2): проскальзывание или залипание.",
+        "common_fix_ru": "Замена соленоида (5000-10000 руб.).",
+        "frequency": "rare",
+        "severity_override": "warning",
+        "source": "zukiworld.com",
+        "system_id": "drivetrain",
+        "can_drive": "yes_caution"
+      },
+      "P0777": {
+        "note_ru": "Соленоид давления B: залипание во включённом положении. На Suzuki с АКПП — серьёзная проблема коробки.",
+        "common_fix_ru": "Ремонт гидроблока АКПП (15000-35000 руб.).",
+        "frequency": "rare",
+        "severity_override": "urgent",
+        "source": "faultcodes.co",
+        "system_id": "drivetrain",
+        "can_drive": "yes_caution"
+      },
+      "P1250": {
+        "note_ru": "Цепь нагревателя EFE: неисправность. Нагреватель впускного воздуха для холодного пуска.",
+        "common_fix_ru": "Проверка реле и проводки нагревателя, замена элемента (2000-5000 руб.).",
+        "frequency": "rare",
+        "severity_override": null,
+        "source": "engine-light-help.com"
+      },
+      "P1408": {
+        "note_ru": "Датчик дифференциального давления впускного коллектора (MDP): неисправность цепи. Специфичный для Suzuki.",
+        "common_fix_ru": "Замена датчика MDP (2000-5000 руб.), проверка вакуумных шлангов.",
+        "frequency": "occasional",
+        "severity_override": null,
+        "source": "zukiworld.com"
+      },
+      "P1410": {
+        "note_ru": "Система контроля давления в топливном баке (EVAP II): неисправность. Частый код на Suzuki SX4/Vitara.",
+        "common_fix_ru": "Проверка крышки бензобака, клапана давления бака (2000-4000 руб.).",
+        "frequency": "common",
+        "severity_override": null,
+        "source": "zukiworld.com"
+      },
+      "P1450": {
+        "note_ru": "Датчик барометрического давления: напряжение слишком высокое или слишком низкое.",
+        "common_fix_ru": "Замена датчика барометрического давления (1500-4000 руб.).",
+        "frequency": "occasional",
+        "severity_override": null,
+        "source": "zukiworld.com"
+      },
+      "P1451": {
+        "note_ru": "Датчик барометрического давления: проблема характеристик.",
+        "common_fix_ru": "Проверка проводки датчика, замена при необходимости.",
+        "frequency": "occasional",
+        "severity_override": null,
+        "source": "zukiworld.com"
+      },
+      "P1460": {
+        "note_ru": "Система управления вентилятором радиатора: неисправность. На Suzuki — проблема с реле или мотором вентилятора.",
+        "common_fix_ru": "Замена реле вентилятора (500-1500 руб.) или мотора (5000-12000 руб.).",
+        "frequency": "occasional",
+        "severity_override": "warning",
+        "source": "zukiworld.com"
+      },
+      "P1500": {
+        "note_ru": "Цепь сигнала стартера: неисправность. На Suzuki SX4/Swift/Vitara — проблема с реле или контактной группой.",
+        "common_fix_ru": "Проверка реле стартера и контактной группы замка зажигания (2000-5000 руб.).",
+        "frequency": "occasional",
+        "severity_override": "warning",
+        "source": "zukiworld.com"
+      },
+      "P1510": {
+        "note_ru": "Резервное питание ЭБУ: неисправность. Потеря адаптационных данных после отключения АКБ.",
+        "common_fix_ru": "Проверка предохранителей и проводки ЭБУ, при необходимости переобучение ЭБУ.",
+        "frequency": "occasional",
+        "severity_override": "info",
+        "source": "zukiworld.com"
+      },
+      "P1530": {
+        "note_ru": "Переключатель регулировки опережения зажигания: неисправность цепи. Используется при диагностике.",
+        "common_fix_ru": "Проверка тестового разъёма и проводки. Код может появляться при неправильной диагностике.",
+        "frequency": "rare",
+        "severity_override": "info",
+        "source": "zukiworld.com"
+      },
+      "P1600": {
+        "note_ru": "Связь между ЭБУ двигателя и ЭБУ АКПП: неисправность. На Suzuki — часто окисление контактов CAN-шины.",
+        "common_fix_ru": "Чистка контактов CAN-шины, проверка проводки (2000-5000 руб.).",
+        "frequency": "occasional",
+        "severity_override": "warning",
+        "source": "zukiworld.com"
+      },
+      "P1700": {
+        "note_ru": "ЭБУ АКПП: ошибка сигнала датчика положения дроссельной заслонки.",
+        "common_fix_ru": "Проверка TPS и проводки к ЭБУ АКПП.",
+        "frequency": "occasional",
+        "severity_override": null,
+        "source": "zukiworld.com"
+      },
+      "P1705": {
+        "note_ru": "ЭБУ АКПП: ошибка сигнала датчика температуры охлаждающей жидкости.",
+        "common_fix_ru": "Проверка ECT и проводки к блоку АКПП.",
+        "frequency": "occasional",
+        "severity_override": null,
+        "source": "zukiworld.com"
+      },
+      "P1710": {
+        "note_ru": "Резервный сигнал датчика скорости: неисправность цепи.",
+        "common_fix_ru": "Замена датчика скорости или проверка разъёма (2000-5000 руб.).",
+        "frequency": "rare",
+        "severity_override": null,
+        "source": "engine-light-help.com"
+      },
+      "P1715": {
+        "note_ru": "Переключатель P/N (парковка/нейтраль): неисправность цепи. Может мешать запуску двигателя.",
+        "common_fix_ru": "Регулировка или замена переключателя P/N (2000-5000 руб.).",
+        "frequency": "occasional",
+        "severity_override": "warning",
+        "source": "zukiworld.com"
+      },
+      "P1717": {
+        "note_ru": "Сигнал выбранного диапазона АКПП: неисправность цепи.",
+        "common_fix_ru": "Проверка датчика диапазона АКПП и проводки (3000-6000 руб.).",
+        "frequency": "rare",
+        "severity_override": null,
+        "source": "engine-light-help.com"
+      },
+      "P1895": {
+        "note_ru": "Цепь снижения крутящего момента TCM-ECM: неисправность. Проблема связи между ЭБУ двигателя и АКПП.",
+        "common_fix_ru": "Проверка проводки между блоками управления, диагностика CAN-шины.",
+        "frequency": "rare",
+        "severity_override": "warning",
+        "source": "engine-light-help.com"
+      },
+      "P2106": {
+        "note_ru": "Система управления дроссельной заслонкой: принудительное ограничение мощности. Аварийный режим.",
+        "common_fix_ru": "Диагностика всех систем — код является следствием другой ошибки. Устранить первопричину.",
+        "frequency": "occasional",
+        "severity_override": "urgent",
+        "source": "faultcodes.co",
+        "system_id": "engine",
+        "can_drive": "yes_caution"
+      },
+      "P2135": {
+        "note_ru": "Датчики положения дроссельной заслонки A/B: несоответствие. Критичный код — аварийный режим.",
+        "common_fix_ru": "Замена электронной дроссельной заслонки (8000-18000 руб.).",
+        "frequency": "occasional",
+        "severity_override": "urgent",
+        "source": "faultcodes.co",
+        "system_id": "engine",
+        "can_drive": "yes_caution"
+      },
+      "U0073": {
+        "note_ru": "Шина связи CAN A: отключена. Потеря связи между блоками управления.",
+        "common_fix_ru": "Проверка проводки CAN-шины, разъёмов блоков управления (3000-8000 руб.).",
+        "frequency": "rare",
+        "severity_override": "urgent",
+        "source": "faultcodes.co",
+        "system_id": "ev",
+        "can_drive": "yes_caution"
+      },
+      "U0100": {
+        "note_ru": "Код U0100 на Suzuki (SX4, Swift, Vitara) указывает на потерю связи с ЭБУ двигателя по шине CAN, что часто вызвано окислением контактов в разъеме или обрывом провода в жгуте из-за вибрации.",
+        "common_fix_ru": "В 90% случаев помогает чистка контактов разъема ЭБУ и проверка массы; замена ЭБУ требуется редко и стоит от 45 000 до 80 000 рублей.",
+        "frequency": "rare",
+        "severity_override": "urgent",
+        "system_id": "engine",
+        "can_drive": "yes_caution"
+      },
+      "U0155": {
+        "note_ru": "Код U0155 на Suzuki (SX4, Swift, Vitara) указывает на потерю связи с приборной панелью по шине CAN, что часто сопровождается некорректной работой мультимедиа или отказом отображения данных. В отличие от массовых ошибок, в отзывах владельцев этот конкретный код практически не встречается, что делает его редким для данной марки.",
+        "common_fix_ru": "Чаще всего проблема решается переподключением разъема панели приборов или заменой неисправного модуля; стоимость диагностики в 2024-2026 годах составит 3000–5000 руб., а замена блока приборов — от 15 000 до 45 000 руб. в зависимости от комплектации.",
+        "frequency": "rare",
+        "severity_override": "urgent",
+        "system_id": "audio",
+        "can_drive": "yes_caution"
+      },
+      "U0164": {
+        "note_ru": "Потеря связи с блоком управления HVAC (климат-контроль).",
+        "common_fix_ru": "Проверка проводки и разъёма блока климат-контроля (2000-5000 руб.).",
+        "frequency": "rare",
+        "severity_override": "warning",
+        "source": "faultcodes.co",
+        "system_id": "display",
+        "can_drive": "yes_caution"
+      },
+      "P1875": {
+        "note_ru": "Переключатель 4WD Low: неисправность цепи. Актуально для Grand Vitara с полным приводом.",
+        "common_fix_ru": "Проверка переключателя раздаточной коробки и проводки (3000-8000 руб.).",
+        "frequency": "rare",
+        "severity_override": null,
+        "source": "zukiworld.com",
+        "models": [
+          "grand_vitara",
+          "vitara"
+        ]
+      }
+    }
+  }
+}
