@@ -10,6 +10,15 @@
 
 | Параметр | Значение | Verified source |
 |---|---|---|
+| **ГОСТ для вибростендовой диагностики в РФ** | **ГОСТ 33997-2016** (с 01.02.2018, заменил ГОСТ Р 51709-2001) | [legalacts.ru](https://legalacts.ru/doc/gost-r-51709-2001-gosudarstvennyi-standart-rossiiskoi-federatsii/) |
+| Коэффициент сцепления вала стенда для M₁ (легковые) | **≥ 0.65** | ГОСТ Р 51709-2001 п. 4.2 (исторический) |
+| Коэффициент сцепления вала стенда для M₂-N₃ (грузовые) | **≥ 0.60** | Same |
+| Brake DTV (disc thickness variation) — порог pedal pulsation | **20 микрон** | [PowerStop](https://www.powerstop.com/resources/pulsing-vibrating-brake-pedal-dtv/), [SAE 2019-01-2110](https://www.sae.org/publications/technical-papers/content/2019-01-2110/) |
+| Brake DTV — критическая скорость vibration peak | **~900 rpm колеса ≈ 120 km/h** | [Brake Academy — Operational DTV](https://www.brakeacademy.org/post/operational-dtv-measurements) |
+| ISO 5347-3 Secondary accelerometer calibration | 20 Hz – 5 000 Hz, 10–1 000 m/s² | [iso.org/standard/11349](https://www.iso.org/standard/11349.html) |
+| ISO 5347-6 Primary low-frequency calibration | 0.5 Hz – 20 Hz, 1–200 m/s² | iso.org/standard/11352 |
+| ISO 5347-22 Resonance testing piezo accelerometers | 50 Hz – 200 kHz | [iso.org/standard/23783](https://www.iso.org/standard/23783.html) |
+| CV joint developed-wear vibration speed | 80–110 km/h (throttle-dependent) | [GSP Latin America](https://www.gsplatinamerica.com/post/cv-axle-vibrations-acceleration-vs-cruising) |
 | EUSAMA — амплитуда виброплатформы | **6 мм** (eccentric cam) | [ResearchGate / Beissbarth / Roboterm](https://www.researchgate.net/publication/308663056) |
 | EUSAMA — частота возбуждения | **25 Hz** стартовая, линейный спад | [Komunikacie uniza.sk](https://komunikacie.uniza.sk/pdfs/csl/2021/03/09.pdf) |
 | EUSAMA пороги | **Good 60–100% / Sufficient 40–59% / Insufficient 20–39% / Bad 0–19%** | [Beissbarth SA 640](https://www.beissbarth.com/en/products/490076-test-lanes/477159-suspension-tester-sa-640-230-v-eusama), [Roboterm](https://www.roboterm.cz/en/test-lanes/products/for-passenger-vehicles/eusama-suspension-testers/) |
