@@ -1,0 +1,17 @@
+{
+  "brand": "audi",
+  "model": "a6",
+  "source_path_rel": "audi/models/a6/",
+  "manual_md_size": 5133748,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-1991_1997.md",
+    "manual-7bb7ac.md",
+    "manual-a6.md",
+    "manual-i_1994_1997.md",
+    "manual-i_1994_1997_2.md",
+    "manual-vi_2023_2025.md",
+    "manual-vi_2023_2025_2.md"
+  ]
+}

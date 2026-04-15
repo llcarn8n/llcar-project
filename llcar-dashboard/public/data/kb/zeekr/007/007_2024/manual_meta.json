@@ -1,0 +1,13 @@
+{
+  "brand": "zeekr",
+  "model": "007",
+  "source_path_rel": "zeekr/models/007/",
+  "manual_md_size": 177311273,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-5ab175.md",
+    "manual-f69fa0-old.md",
+    "manual-old.md"
+  ]
+}

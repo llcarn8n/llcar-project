@@ -1,0 +1,1827 @@
+{
+  "brand": "haval",
+  "model": "f7",
+  "source": "manual_extract+template",
+  "total_parts": 982,
+  "systems": {
+    "Uncategorized": 887,
+    "Engine": 15,
+    "Fuel System": 4,
+    "Exhaust System": 5,
+    "Cooling System": 8,
+    "Transmission": 5,
+    "Brake System": 9,
+    "Suspension / Wheels": 13,
+    "Steering": 4,
+    "Electrical": 8,
+    "HVAC": 5,
+    "Body": 9,
+    "Wiper System": 4,
+    "Interior": 2,
+    "Wheels / Tires": 4
+  },
+  "parts": [
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Моторное масло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Масляный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Воздушный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Свечи зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Катушка зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень ГРМ / цепь ГРМ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень генератора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка клапанной крышки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка ГБЦ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик положения коленвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Расходомер воздуха",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Дроссельная заслонка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Форсунки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Регулятор давления топлива",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Каталитический нейтрализатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель средний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Прокладка выхлопной трубы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Антифриз",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Радиатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Вентилятор радиатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Расширительный бачок",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Крышка расширительного бачка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Патрубки системы охлаждения",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Масло АКПП / МКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Фильтр АКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Сцепление (комплект)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Выжимной подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Главный цилиндр сцепления",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозная жидкость",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Датчик ABS",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные барабанные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Стойка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Втулка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Рычаг подвески",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Сайлентблок рычага",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Шаровая опора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Ступичный подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС наружный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС внутренний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пыльник ШРУСа",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Наконечник рулевой тяги",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Рулевая тяга",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Жидкость ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Насос ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Аккумулятор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Генератор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Стартер",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фара передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фонарь задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Лампы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Предохранители",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Фильтр салонный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Компрессор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Радиатор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Осушитель кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Вентилятор отопителя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Боковое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Ветровое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Заднее стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Зеркало боковое",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Капот",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Крыло переднее",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Дверь",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётки стеклоочистителя передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётка стеклоочистителя задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Бачок омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Насос омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Коврики салона",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Педаль газа / тормоза",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Шина",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Диск колёсный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Гайка колёсная",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "C10187.... .-224",
+      "subsystem": "",
+      "part_number": "C10187",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P001200 ..3–25",
+      "subsystem": "",
+      "part_number": "P001200",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P001500 . ..3– 26",
+      "subsystem": "",
+      "part_number": "P001500",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P001600. ..3 27",
+      "subsystem": "",
+      "part_number": "P001600",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P001700 ..3–28",
+      "subsystem": "",
+      "part_number": "P001700",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P002600. ..3– 29",
+      "subsystem": "",
+      "part_number": "P002600",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P002700 ..3-30",
+      "subsystem": "",
+      "part_number": "P002700",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P003000. ..3-31",
+      "subsystem": "",
+      "part_number": "P003000",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P003100 _________________________________ ..-32",
+      "subsystem": "",
+      "part_number": "P003100",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P003200 ..3–33",
+      "subsystem": "",
+      "part_number": "P003200",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P003400. _ ..3 34",
+      "subsystem": "",
+      "part_number": "P003400",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P003500. 3335",
+      "subsystem": "",
+      "part_number": "P003500",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P003600. ..3-36",
+      "subsystem": "",
+      "part_number": "P003600",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P003700 ..3–37",
+      "subsystem": "",
+      "part_number": "P003700",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P003800 ..3–38",
+      "subsystem": "",
+      "part_number": "P003800",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P007600. ..3-39",
+      "subsystem": "",
+      "part_number": "P007600",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P007700.",
+      "subsystem": "",
+      "part_number": "P007700",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P007900 ..3–41",
+      "subsystem": "",
+      "part_number": "P007900",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P008000. ..342",
+      "subsystem": "",
+      "part_number": "P008000",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P008700 ..3–43",
+      "subsystem": "",
+      "part_number": "P008700",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P008800 ..344",
+      "subsystem": "",
+      "part_number": "P008800",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P008900. ..3–45",
+      "subsystem": "",
+      "part_number": "P008900",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P009100 ..3–46",
+      "subsystem": "",
+      "part_number": "P009100",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P009200 ..3-47",
+      "subsystem": "",
+      "part_number": "P009200",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P009700 ..3-48",
+      "subsystem": "",
+      "part_number": "P009700",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P009800 ..3-49",
+      "subsystem": "",
+      "part_number": "P009800",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P010700. ..3-1",
+      "subsystem": "",
+      "part_number": "P010700",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P010800 ..52",
+      "subsystem": "",
+      "part_number": "P010800",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P011200.. ..3-5",
+      "subsystem": "",
+      "part_number": "P011200",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P011300.. ..3–55",
+      "subsystem": "",
+      "part_number": "P011300",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P011700.. ..3–57",
+      "subsystem": "",
+      "part_number": "P011700",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P011800.. ..3-58",
+      "subsystem": "",
+      "part_number": "P011800",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P012200. ..3-0",
+      "subsystem": "",
+      "part_number": "P012200",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P012300. .62",
+      "subsystem": "",
+      "part_number": "P012300",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P013700.",
+      "subsystem": "",
+      "part_number": "P013700",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P01400",
+      "subsystem": "",
+      "part_number": "P01400",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P055800.. _______________________________ ...3109",
+      "subsystem": "",
+      "part_number": "P055800",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P056400 . .3112",
+      "subsystem": "",
+      "part_number": "P056400",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P06150.. ..3125",
+      "subsystem": "",
+      "part_number": "P06150",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P061700",
+      "subsystem": "",
+      "part_number": "P061700",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P068500. ______________________________________________________________ .3",
+      "subsystem": "",
+      "part_number": "P068500",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P07000. ___________________________________________________________ .34",
+      "subsystem": "",
+      "part_number": "P07000",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P120500139",
+      "subsystem": "",
+      "part_number": "P120500139",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P13210 … 314\\$",
+      "subsystem": "",
+      "part_number": "P13210",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P210400.. _____________________________________________________ ..349",
+      "subsystem": "",
+      "part_number": "P210400",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P210500.. _____________________________________________________________________ ..50",
+      "subsystem": "",
+      "part_number": "P210500",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P210003-12",
+      "subsystem": "",
+      "part_number": "P210003-12",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P212800. _____________________________________ ..59",
+      "subsystem": "",
+      "part_number": "P212800",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P213500. ..310",
+      "subsystem": "",
+      "part_number": "P213500",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P2137003-162",
+      "subsystem": "",
+      "part_number": "P2137003-162",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P214800. ..3163",
+      "subsystem": "",
+      "part_number": "P214800",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P214900. ___________________ ..3- 164",
+      "subsystem": "",
+      "part_number": "P214900",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P215000.. ..365",
+      "subsystem": "",
+      "part_number": "P215000",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P218200. ________________________ 16",
+      "subsystem": "",
+      "part_number": "P218200",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P222800. _________________________________ ..16",
+      "subsystem": "",
+      "part_number": "P222800",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P22290. ___________________________________________________________________ ..3169",
+      "subsystem": "",
+      "part_number": "P22290",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P2250003-170",
+      "subsystem": "",
+      "part_number": "P2250003-170",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P25500 -173",
+      "subsystem": "",
+      "part_number": "P25500",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P256600. .174",
+      "subsystem": "",
+      "part_number": "P256600",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P259900.. ..3-176",
+      "subsystem": "",
+      "part_number": "P259900",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "U016700. ..378",
+      "subsystem": "",
+      "part_number": "U016700",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P013000",
+      "subsystem": "",
+      "part_number": "P013000",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P013100",
+      "subsystem": "",
+      "part_number": "P013100",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P013200",
+      "subsystem": "",
+      "part_number": "P013200",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P013300",
+      "subsystem": "",
+      "part_number": "P013300",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P013400",
+      "subsystem": "",
+      "part_number": "P013400",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P013800",
+      "subsystem": "",
+      "part_number": "P013800",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P014000",
+      "subsystem": "",
+      "part_number": "P014000",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P017100",
+      "subsystem": "",
+      "part_number": "P017100",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P017200",
+      "subsystem": "",
+      "part_number": "P017200",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P019300",
+      "subsystem": "",
+      "part_number": "P019300",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P019200",
+      "subsystem": "",
+      "part_number": "P019200",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P022200",
+      "subsystem": "",
+      "part_number": "P022200",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P022300",
+      "subsystem": "",
+      "part_number": "P022300",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P023000",
+      "subsystem": "",
+      "part_number": "P023000",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P023400",
+      "subsystem": "",
+      "part_number": "P023400",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P023700",
+      "subsystem": "",
+      "part_number": "P023700",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P023800",
+      "subsystem": "",
+      "part_number": "P023800",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P029900",
+      "subsystem": "",
+      "part_number": "P029900",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P030000",
+      "subsystem": "",
+      "part_number": "P030000",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P032400",
+      "subsystem": "",
+      "part_number": "P032400",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P032500",
+      "subsystem": "",
+      "part_number": "P032500",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P033600",
+      "subsystem": "",
+      "part_number": "P033600",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P034000",
+      "subsystem": "",
+      "part_number": "P034000",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P034100",
+      "subsystem": "",
+      "part_number": "P034100",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P035100",
+      "subsystem": "",
+      "part_number": "P035100",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P035200",
+      "subsystem": "",
+      "part_number": "P035200",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P035300",
+      "subsystem": "",
+      "part_number": "P035300",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P035400",
+      "subsystem": "",
+      "part_number": "P035400",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P036600",
+      "subsystem": "",
+      "part_number": "P036600",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P042000",
+      "subsystem": "",
+      "part_number": "P042000",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P045800",
+      "subsystem": "",
+      "part_number": "P045800",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P045900",
+      "subsystem": "",
+      "part_number": "P045900",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P048200",
+      "subsystem": "",
+      "part_number": "P048200",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P050000",
+      "subsystem": "",
+      "part_number": "P050000",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P050400",
+      "subsystem": "",
+      "part_number": "P050400",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P050600",
+      "subsystem": "",
+      "part_number": "P050600",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P050700",
+      "subsystem": "",
+      "part_number": "P050700",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P053200",
+      "subsystem": "",
+      "part_number": "P053200",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P053300",
+      "subsystem": "",
+      "part_number": "P053300",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P055700",
+      "subsystem": "",
+      "part_number": "P055700",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P056200",
+      "subsystem": "",
+      "part_number": "P056200",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P056300",
+      "subsystem": "",
+      "part_number": "P056300",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P056500",
+      "subsystem": "",
+      "part_number": "P056500",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# P056600",
+      "subsystem": "",
+      "part_number": "P056600",
+      "source_url": "",
+      "source": "manual:chunks-manual-f7x.md"
+    }
+  ],
+  "parts_total_original": 982,
+  "parts_capped": true
+}

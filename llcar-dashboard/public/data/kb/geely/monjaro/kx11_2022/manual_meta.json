@@ -1,0 +1,13 @@
+{
+  "brand": "geely",
+  "model": "monjaro",
+  "source_path_rel": "geely/models/monjaro/",
+  "manual_md_size": 4206834,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-2021_н_в.md",
+    "manual-2021_н_в_2.md",
+    "manual-903fe2.md"
+  ]
+}

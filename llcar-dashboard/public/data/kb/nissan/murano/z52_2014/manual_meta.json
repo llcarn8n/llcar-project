@@ -1,0 +1,13 @@
+{
+  "brand": "nissan",
+  "model": "murano",
+  "source_path_rel": "nissan/models/murano/",
+  "manual_md_size": 3851286,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-2c645b.md",
+    "manual-murano-ii_z52_2019_2024.md",
+    "manual-murano-z50.md"
+  ]
+}

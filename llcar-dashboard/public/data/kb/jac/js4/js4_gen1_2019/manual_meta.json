@@ -1,0 +1,12 @@
+{
+  "brand": "jac",
+  "model": "js4",
+  "source_path_rel": "jac/models/js4/",
+  "manual_md_size": 272062403,
+  "has_dita": true,
+  "has_pdf": false,
+  "variants": [
+    "manual-1385ca.md",
+    "manual-ii.md"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "brand": "hongqi",
+  "model": "hs5",
+  "source_path_rel": "hongqi/models/hs5/",
+  "manual_md_size": 1146910,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-d9468a.md"
+  ]
+}

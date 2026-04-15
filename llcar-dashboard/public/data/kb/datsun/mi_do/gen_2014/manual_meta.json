@@ -1,0 +1,14 @@
+{
+  "brand": "datsun",
+  "model": "mi_do",
+  "source_path_rel": "datsun/models/mi_do/",
+  "manual_md_size": 68834663,
+  "has_dita": true,
+  "has_pdf": false,
+  "variants": [
+    "manual-c09a27.md",
+    "manual-mi_do-2014_н_в.md",
+    "manual-mi_do.md",
+    "manual-ru_reocr.md"
+  ]
+}

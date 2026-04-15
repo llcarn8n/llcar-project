@@ -1,0 +1,1827 @@
+{
+  "brand": "mitsubishi",
+  "model": "lancer",
+  "source": "manual_extract+template",
+  "total_parts": 1078,
+  "systems": {
+    "Uncategorized": 983,
+    "Engine": 15,
+    "Fuel System": 4,
+    "Exhaust System": 5,
+    "Cooling System": 8,
+    "Transmission": 5,
+    "Brake System": 9,
+    "Suspension / Wheels": 13,
+    "Steering": 4,
+    "Electrical": 8,
+    "HVAC": 5,
+    "Body": 9,
+    "Wiper System": 4,
+    "Interior": 2,
+    "Wheels / Tires": 4
+  },
+  "parts": [
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Моторное масло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Масляный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Воздушный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Свечи зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Катушка зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень ГРМ / цепь ГРМ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень генератора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка клапанной крышки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка ГБЦ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик положения коленвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Расходомер воздуха",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Дроссельная заслонка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Форсунки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Регулятор давления топлива",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Каталитический нейтрализатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель средний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Прокладка выхлопной трубы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Антифриз",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Радиатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Вентилятор радиатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Расширительный бачок",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Крышка расширительного бачка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Патрубки системы охлаждения",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Масло АКПП / МКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Фильтр АКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Сцепление (комплект)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Выжимной подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Главный цилиндр сцепления",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозная жидкость",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Датчик ABS",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные барабанные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Стойка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Втулка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Рычаг подвески",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Сайлентблок рычага",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Шаровая опора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Ступичный подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС наружный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС внутренний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пыльник ШРУСа",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Наконечник рулевой тяги",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Рулевая тяга",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Жидкость ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Насос ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Аккумулятор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Генератор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Стартер",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фара передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фонарь задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Лампы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Предохранители",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Фильтр салонный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Компрессор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Радиатор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Осушитель кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Вентилятор отопителя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Боковое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Ветровое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Заднее стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Зеркало боковое",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Капот",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Крыло переднее",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Дверь",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётки стеклоочистителя передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётка стеклоочистителя задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Бачок омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Насос омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Коврики салона",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Педаль газа / тормоза",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Шина",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Диск колёсный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Гайка колёсная",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "<C-15 (Vehicles with A/C)> <C-13 (Vehicles with A/C)> 12345678910 2122232425262728 11121314151617181920 29 30313233343536",
+      "subsystem": "",
+      "part_number": "12345678910",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AC311722",
+      "subsystem": "",
+      "part_number": "AC311722",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "M1001013400917",
+      "subsystem": "",
+      "part_number": "M1001013400917",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3. Connect special tool M.U.T.-III USB cable (MB991827) to V.C.I. (MB99 1824) and the personal computer.",
+      "subsystem": "",
+      "part_number": "MB991827",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4. Connect special tool M.U.T.-III main harness A (MB991910) to the V.C.I.",
+      "subsystem": "",
+      "part_number": "MB991910",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### M1001013500732",
+      "subsystem": "",
+      "part_number": "M1001013500732",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Q: Is the check result normal? YES:Intermittentmalfunction (Refer to GROUP 00-How to Use Troubleshooting/ Inspection Service Points M10010020429). NO : Go to Step 2 M1131750100051s2.",
+      "subsystem": "",
+      "part_number": "M10010020429",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Inspect by inserting a test probe from the harness side. If the connector is too small to insert a test probe (e.g. control unit connector), do not insert it forcibly. Use special tool extra fine prob",
+      "subsystem": "",
+      "part_number": "MB992006",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "(MB991219). If the test bar is inserted forcibly, it will cause a poor contact.",
+      "subsystem": "",
+      "part_number": "MB991219",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Use inspection harness (MB991219) of special tool harness set (MB991223).",
+      "subsystem": "",
+      "part_number": "MB991223",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "M1001014100403",
+      "subsystem": "",
+      "part_number": "M1001014100403",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ACB01720",
+      "subsystem": "",
+      "part_number": "ACB01720",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ACB01721",
+      "subsystem": "",
+      "part_number": "ACB01721",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "M1001005602592",
+      "subsystem": "",
+      "part_number": "M1001005602592",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AC809191AE",
+      "subsystem": "",
+      "part_number": "AC809191AE",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### M1001017600162",
+      "subsystem": "",
+      "part_number": "M1001017600162",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "M1001000906824",
+      "subsystem": "",
+      "part_number": "M1001000906824",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AC608677AB",
+      "subsystem": "",
+      "part_number": "AC608677AB",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "M1001000906835",
+      "subsystem": "",
+      "part_number": "M1001000906835",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AC801921AB",
+      "subsystem": "",
+      "part_number": "AC801921AB",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### HOW TO SHIFT LOCK FORCED RELEASE M1001018100137",
+      "subsystem": "",
+      "part_number": "M1001018100137",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "M1001012400301",
+      "subsystem": "",
+      "part_number": "M1001012400301",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AC502279AF",
+      "subsystem": "",
+      "part_number": "AC502279AF",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "M1001015200425",
+      "subsystem": "",
+      "part_number": "M1001015200425",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3. Connect special tool USB cable (MB991827) to special tool V.C.I. (MB991824) and the personal computer.",
+      "subsystem": "",
+      "part_number": "MB991824",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "M1001012100731",
+      "subsystem": "",
+      "part_number": "M1001012100731",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "M1001011701476",
+      "subsystem": "",
+      "part_number": "M1001011701476",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "M1001012500245",
+      "subsystem": "",
+      "part_number": "M1001012500245",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "M1001014300300",
+      "subsystem": "",
+      "part_number": "M1001014300300",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "M1001014400277",
+      "subsystem": "",
+      "part_number": "M1001014400277",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "M1001016500292",
+      "subsystem": "",
+      "part_number": "M1001016500292",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "M1001014200132",
+      "subsystem": "",
+      "part_number": "M1001014200132",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "2. Using Mitsubishi genuine parts cleaner (MZ100387) or equivalent, degrease the FIPG application surface carefully.",
+      "subsystem": "",
+      "part_number": "MZ100387",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "The parts installed with the FIPG can be disassembled easily without using any special method. However, in some cases, it is necessary to tear the sealant in between the mating surfaces by tapping the",
+      "subsystem": "",
+      "part_number": "MD998727",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "M1001014800123",
+      "subsystem": "",
+      "part_number": "M1001014800123",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "M1001015500136",
+      "subsystem": "",
+      "part_number": "M1001015500136",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "M1001011000344",
+      "subsystem": "",
+      "part_number": "M1001011000344",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "M1001012000466",
+      "subsystem": "",
+      "part_number": "M1001012000466",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "M1001009800934",
+      "subsystem": "",
+      "part_number": "M1001009800934",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "M1001006000887",
+      "subsystem": "",
+      "part_number": "M1001006000887",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AC801797AB",
+      "subsystem": "",
+      "part_number": "AC801797AB",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "M1112000603074",
+      "subsystem": "",
+      "part_number": "M1112000603074",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "<When the vibration frequency is measured {Special tool (MB992080) is used}: Recommendation>",
+      "subsystem": "",
+      "part_number": "MB992080",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1. Connect the Special tool microphone assembly (MB992082) to the Special tool belt tension meter (MB992081) of the Special tool belt tension meter set (MB992080).",
+      "subsystem": "",
+      "part_number": "MB992082",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1. Connect the Special tool microphone assembly (MB992082) to the Special tool belt tension meter (MB992081) of the Special tool belt tension meter set (MB992080).",
+      "subsystem": "",
+      "part_number": "MB992081",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "M1111005600011",
+      "subsystem": "",
+      "part_number": "M1111005600011",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### M1111001702829",
+      "subsystem": "",
+      "part_number": "M1111001702829",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### M1111003502865",
+      "subsystem": "",
+      "part_number": "M1111003502865",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### M1111002102068",
+      "subsystem": "",
+      "part_number": "M1111002102068",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "M1111001501930",
+      "subsystem": "",
+      "part_number": "M1111001501930",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "M1111002603754",
+      "subsystem": "",
+      "part_number": "M1111002603754",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### M1111002702457",
+      "subsystem": "",
+      "part_number": "M1111002702457",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ACB01385AB",
+      "subsystem": "",
+      "part_number": "ACB01385AB",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "To reuse the drive belt, draw an arrow indicating the rotating direction on the back of the drive belt using chalk to install the same direction. Hang special tool drive belt remover (MB992276) on the",
+      "subsystem": "",
+      "part_number": "MB992276",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Hang special tool drive belt installer (MB992858) on the vehicle components (including front sidemembers) using a cord and paper clip to prevent from falling.",
+      "subsystem": "",
+      "part_number": "MB992858",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "M1112007801352",
+      "subsystem": "",
+      "part_number": "M1112007801352",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ACA00763AB",
+      "subsystem": "",
+      "part_number": "ACA00763AB",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3. While holding the inlet camshaft hexagonal area using a wrench or a similar tool, use special tool torque wrench adapter (MB991992) to loosen the V.V.T. sprocket assembly mounting bolt.",
+      "subsystem": "",
+      "part_number": "MB991992",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AC700511AD",
+      "subsystem": "",
+      "part_number": "AC700511AD",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3. Remove special tool engine hanger (MB991928 or MB99 1895) which was installed for supporting the engine and transmission assembly when the timing chain was removed.",
+      "subsystem": "",
+      "part_number": "MB991928",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1. Screw in special tool retainer holder attachment (MB992090) to special tool valve spring compressor (MD998772), and assemble special tool retainer holder C (MB992089).",
+      "subsystem": "",
+      "part_number": "MB992090",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1. Screw in special tool retainer holder attachment (MB992090) to special tool valve spring compressor (MD998772), and assemble special tool retainer holder C (MB992089).",
+      "subsystem": "",
+      "part_number": "MD998772",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1. Screw in special tool retainer holder attachment (MB992090) to special tool valve spring compressor (MD998772), and assemble special tool retainer holder C (MB992089).",
+      "subsystem": "",
+      "part_number": "MB992089",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Use special tool valve stem seal pliers (MB992085) to nip the base of the stem seal (where the outside diameter is larger) securely, and remove it by twisting it to the left and right.",
+      "subsystem": "",
+      "part_number": "MB992085",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1. The special tool valve stem seal installer adjustable (MB992677) is composed of the components shown in the illustration.",
+      "subsystem": "",
+      "part_number": "MB992677",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3. Install special tool engine hanger (MB991928 or MB991895) which was installed for supporting the engine and transmission assembly when the timing chain was removed (Refer to ). 4. Remove the garage",
+      "subsystem": "",
+      "part_number": "MB991895",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ACA00281AC",
+      "subsystem": "",
+      "part_number": "ACA00281AC",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "M1112002900889",
+      "subsystem": "",
+      "part_number": "M1112002900889",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "M1112003104231",
+      "subsystem": "",
+      "part_number": "M1112003104231",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ACA00943AC",
+      "subsystem": "",
+      "part_number": "ACA00943AC",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1. Fix the flywheel assembly <M/T> or drive plate assembly <A/T> using special tool flywheel stopper (MD998781).",
+      "subsystem": "",
+      "part_number": "MD998781",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1. Apply a small amount of engine oil to the outer circumference of special tool crankshaft front oil seal guide (MB991993) and install it to the crankshaft. 2. Apply a small amount of engine oil to t",
+      "subsystem": "",
+      "part_number": "MB991993",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3. Using special tool differential oil seal installer (MB990699), drive the oil seal so that it is flush with the timing chain case assembly.",
+      "subsystem": "",
+      "part_number": "MB990699",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AC701002AC",
+      "subsystem": "",
+      "part_number": "AC701002AC",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ACA00782AB",
+      "subsystem": "",
+      "part_number": "ACA00782AB",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1. <When special tool engine hanger (MB991928) is used> (1) Assemble special tool engine hanger (MB991928) (Set the following parts on the base hanger). Slide bracket (HI) Foot x 4 (standard) (MB99193",
+      "subsystem": "",
+      "part_number": "MB991932",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1. <When special tool engine hanger (MB991928) is used> (1) Assemble special tool engine hanger (MB991928) (Set the following parts on the base hanger). Slide bracket (HI) Foot x 4 (standard) (MB99193",
+      "subsystem": "",
+      "part_number": "MB991930",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "(3) Install special tool engine hanger (MB991527) and special tool engine hanger balancer (MB99 1454) to the engine hanger, and set it to special tool MB991928 to support the engine and transmission a",
+      "subsystem": "",
+      "part_number": "MB991527",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1. Set special tool crankshaft adapter (MB992000) to the crankshaft, and install the crankshaft pulley centre bolt and washer.",
+      "subsystem": "",
+      "part_number": "MB992000",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "2. Remove special tools engine hanger (MB991928 or MB991895) and engine hanger plate (MB992201) which was installed for supporting the engine assembly when the transmission assembly was removed. 3. Op",
+      "subsystem": "",
+      "part_number": "MB992201",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1. Install the chain of special tool engine hanger balancer (MB991454) and special tool engine hanger (MB991527), and set the chain block. 2. After checking that all cables, hoses and wiring harness c",
+      "subsystem": "",
+      "part_number": "MB991454",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "M1355009500168",
+      "subsystem": "",
+      "part_number": "M1355009500168",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "M1355000900114 Refer to GROUP 00 − How to Use Troubleshooting/ Inspection Service Points",
+      "subsystem": "",
+      "part_number": "M1355000900114",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "M1352012001208",
+      "subsystem": "",
+      "part_number": "M1352012001208",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ACB02565",
+      "subsystem": "",
+      "part_number": "ACB02565",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "harness connector AC606869CZ",
+      "subsystem": "",
+      "part_number": "AC606869CZ",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "(1) Disconnect the ASC-ECU connector, connect special tool ASC check harness (MB991997) to the harness-side connector, and then measure the voltage at the special tool connector side. NOTE: Do not con",
+      "subsystem": "",
+      "part_number": "MB991997",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "harness connector AC606869DB",
+      "subsystem": "",
+      "part_number": "AC606869DB",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "A-58 ASC-ECU harness connector AC606869DE",
+      "subsystem": "",
+      "part_number": "AC606869DE",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Wire colour code B : Black LG : Light green G Green L : Blue W : White Y : Yellow SB : Sky blue BR : Brown O Orange GR : Grey R : Red P : Pink V : Violet PU : Purple SI Silver ACB02566",
+      "subsystem": "",
+      "part_number": "ACB02566",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "A-58 ASC-ECU harness connector AC606869FR",
+      "subsystem": "",
+      "part_number": "AC606869FR",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "A-58 ASC-ECU harness connector AC606869DG",
+      "subsystem": "",
+      "part_number": "AC606869DG",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "harness connector AC606869FS",
+      "subsystem": "",
+      "part_number": "AC606869FS",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "A-58 ASC-ECU harness connector AC606869DI",
+      "subsystem": "",
+      "part_number": "AC606869DI",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "B : Black LG : Light green G Green L : Blue W : White Y : Yellow SB : Sky blue BR Brown O Orange GR Grey R : Red P : Pink V : Violet PU : Purple SI : Silver ACB02571",
+      "subsystem": "",
+      "part_number": "ACB02571",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Wire colour code B : Black LG : Light green G : Green L : Blue W : White Y : Yellow SB Sky blue BR : Brown O : Orange GR Grey R : Red P : Pink : Violet PU : Purple SI Silver ACB02567",
+      "subsystem": "",
+      "part_number": "ACB02567",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "harness connector AC606869HT",
+      "subsystem": "",
+      "part_number": "AC606869HT",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "A-58 ASC-ECU harness connector AC606869DJ",
+      "subsystem": "",
+      "part_number": "AC606869DJ",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Wire colour code B : Black LG : Light green G : Green L : Blue W : White Y : Yellow SB : Sky blue BR : Brown O : Orange GR Grey R : Red P : Pink V : Violet PU : Purple SI Silver ACB02564",
+      "subsystem": "",
+      "part_number": "ACB02564",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Wire colour code B : Black LG Light green G Green L : Blue W : White Y : Yellow SB : Sky blue BR : Brown O : Orange GR : Grey R : Red P : Pink V : Violet PU : Purple SI : Silver ACB02569",
+      "subsystem": "",
+      "part_number": "ACB02569",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "A-58 ASC-ECU harness connector AC606869LD",
+      "subsystem": "",
+      "part_number": "AC606869LD",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "harness connector AC606869 HH",
+      "subsystem": "",
+      "part_number": "AC606869",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "A-58 ASC-ECU harness connector AC606869HG (2) Disconnect the A-58 ASC-ECU connector, connect special tool ASC check harness (MB991997) to the harness-side connector, and then measure the resistance at",
+      "subsystem": "",
+      "part_number": "AC606869HG",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Wire colour code B : Black LG : Light green G Green L : Blue W : White Y : Yellow SB : Sky blue BR : Brown O : Orange GR Grey R : Red P : Pink V : Violet PU : Purple SI Silver ACB02570",
+      "subsystem": "",
+      "part_number": "ACB02570",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "M1355001500960",
+      "subsystem": "",
+      "part_number": "M1355001500960",
+      "source_url": "",
+      "source": "manual:chunks-manual-lancer.md"
+    }
+  ],
+  "parts_total_original": 1078,
+  "parts_capped": true
+}

@@ -1,0 +1,2502 @@
+[
+  {
+    "filename": "005379cc24e8ad4e76d363b7b350198fcfd1082960f6c5cacaef3fee2a9a4de8.webp",
+    "size": 29014,
+    "source_rel": "hyundai/models/palisade/images/005379cc24e8ad4e76d363b7b350198fcfd1082960f6c5cacaef3fee2a9a4de8.webp"
+  },
+  {
+    "filename": "00603d2dcc4c9d8b4f6ae2300886fb1e4f9e4b0e88e7aa65a9ad960bda86f198.webp",
+    "size": 3198,
+    "source_rel": "hyundai/models/palisade/images/00603d2dcc4c9d8b4f6ae2300886fb1e4f9e4b0e88e7aa65a9ad960bda86f198.webp"
+  },
+  {
+    "filename": "008bf23ba3b8cf5f8cfd09a6d73962301f96304f9de6326281e10b06509d8750.webp",
+    "size": 12924,
+    "source_rel": "hyundai/models/palisade/images/008bf23ba3b8cf5f8cfd09a6d73962301f96304f9de6326281e10b06509d8750.webp"
+  },
+  {
+    "filename": "00982b62ef2a15a0aa035a98cc4f30ebe4f8cc4884d642d6b46094d6a2fc0d8d.webp",
+    "size": 4850,
+    "source_rel": "hyundai/models/palisade/images/00982b62ef2a15a0aa035a98cc4f30ebe4f8cc4884d642d6b46094d6a2fc0d8d.webp"
+  },
+  {
+    "filename": "00a1c78be08c5a4d34529a91a77c9708faffdba32d743ae4df510a9e002ea70b.webp",
+    "size": 23810,
+    "source_rel": "hyundai/models/palisade/images/00a1c78be08c5a4d34529a91a77c9708faffdba32d743ae4df510a9e002ea70b.webp"
+  },
+  {
+    "filename": "00b517e564a1e2ef90c100d539f2d7d5b7138a382e872fa685b737ad9c19976b.webp",
+    "size": 10040,
+    "source_rel": "hyundai/models/palisade/images/00b517e564a1e2ef90c100d539f2d7d5b7138a382e872fa685b737ad9c19976b.webp"
+  },
+  {
+    "filename": "00bb355314b74aa75217e4adca1f571bf0ea0fb852d7478e597dde7d6d47e7a8.webp",
+    "size": 27352,
+    "source_rel": "hyundai/models/palisade/images/00bb355314b74aa75217e4adca1f571bf0ea0fb852d7478e597dde7d6d47e7a8.webp"
+  },
+  {
+    "filename": "00ee004fbb477bfa1c636ccb4a6457a73532580bfbd1d58364bcf446f99d81a5.webp",
+    "size": 2208,
+    "source_rel": "hyundai/models/palisade/images/00ee004fbb477bfa1c636ccb4a6457a73532580bfbd1d58364bcf446f99d81a5.webp"
+  },
+  {
+    "filename": "00f841ef5dd786e6ed87fd08a990a91fe10fa0486a88f6397774734e2fcf500c.webp",
+    "size": 24704,
+    "source_rel": "hyundai/models/palisade/images/00f841ef5dd786e6ed87fd08a990a91fe10fa0486a88f6397774734e2fcf500c.webp"
+  },
+  {
+    "filename": "0166605eb937441274af2f47717a807177052600132291d9deacb4a159fb869c.webp",
+    "size": 11502,
+    "source_rel": "hyundai/models/palisade/images/0166605eb937441274af2f47717a807177052600132291d9deacb4a159fb869c.webp"
+  },
+  {
+    "filename": "016af00e0263193a85c9710c4337de2806b8cd3ea9b41e3c1fabb0dda6da4546.webp",
+    "size": 3450,
+    "source_rel": "hyundai/models/palisade/images/016af00e0263193a85c9710c4337de2806b8cd3ea9b41e3c1fabb0dda6da4546.webp"
+  },
+  {
+    "filename": "016ba1eb6a4ba5c695c70e533818d9bb910eef79dfd8e7ec5504ce155a84514d.webp",
+    "size": 9362,
+    "source_rel": "hyundai/models/palisade/images/016ba1eb6a4ba5c695c70e533818d9bb910eef79dfd8e7ec5504ce155a84514d.webp"
+  },
+  {
+    "filename": "01855c84a94d2f762787e39dc6ac0970a5052007e18f07979ff362d1cdbedb93.webp",
+    "size": 6312,
+    "source_rel": "hyundai/models/palisade/images/01855c84a94d2f762787e39dc6ac0970a5052007e18f07979ff362d1cdbedb93.webp"
+  },
+  {
+    "filename": "019c2559aee7da441abed69d9efb7eb7240c9661793ad921d9e5270be00bcfd8.webp",
+    "size": 40604,
+    "source_rel": "hyundai/models/palisade/images/019c2559aee7da441abed69d9efb7eb7240c9661793ad921d9e5270be00bcfd8.webp"
+  },
+  {
+    "filename": "01b4a55a2da6cfc2843f0903922363afa896f2d5c5561125fc363fefbcd6f2f9.webp",
+    "size": 13742,
+    "source_rel": "hyundai/models/palisade/images/01b4a55a2da6cfc2843f0903922363afa896f2d5c5561125fc363fefbcd6f2f9.webp"
+  },
+  {
+    "filename": "01bfd3cff47d68dbc12e1839ab654ced61810c6a5ab8a220e2fe43cfaaf05feb.webp",
+    "size": 14620,
+    "source_rel": "hyundai/models/palisade/images/01bfd3cff47d68dbc12e1839ab654ced61810c6a5ab8a220e2fe43cfaaf05feb.webp"
+  },
+  {
+    "filename": "01cb491adb7a0ca630af6ae8e649198fcac8aeecbd9e70a9fef6cb13c5cf4196.webp",
+    "size": 8652,
+    "source_rel": "hyundai/models/palisade/images/01cb491adb7a0ca630af6ae8e649198fcac8aeecbd9e70a9fef6cb13c5cf4196.webp"
+  },
+  {
+    "filename": "01dd06a13164a962642dd839075a2d475a5a5f2fac2afd0a69bb44290df25e6e.webp",
+    "size": 5874,
+    "source_rel": "hyundai/models/palisade/images/01dd06a13164a962642dd839075a2d475a5a5f2fac2afd0a69bb44290df25e6e.webp"
+  },
+  {
+    "filename": "01e014f79e32d17949f69ad5fdc0784695e394de8dd4db82a54fdf69c911f1ef.webp",
+    "size": 11104,
+    "source_rel": "hyundai/models/palisade/images/01e014f79e32d17949f69ad5fdc0784695e394de8dd4db82a54fdf69c911f1ef.webp"
+  },
+  {
+    "filename": "01f02c58c9239efd341601e1f642effbea938ad331c21291e8bf694c5330712d.webp",
+    "size": 6798,
+    "source_rel": "hyundai/models/palisade/images/01f02c58c9239efd341601e1f642effbea938ad331c21291e8bf694c5330712d.webp"
+  },
+  {
+    "filename": "01f13e33b23307a803ef587a4ba08bd9d99235f4c677b95e1f73a1d3e857e9eb.webp",
+    "size": 2390,
+    "source_rel": "hyundai/models/palisade/images/01f13e33b23307a803ef587a4ba08bd9d99235f4c677b95e1f73a1d3e857e9eb.webp"
+  },
+  {
+    "filename": "01fc75a7c2ee01ed20aa10c798b2bcc99cbbf4b81e67bd4211a2303b0c3783f6.webp",
+    "size": 79484,
+    "source_rel": "hyundai/models/palisade/images/01fc75a7c2ee01ed20aa10c798b2bcc99cbbf4b81e67bd4211a2303b0c3783f6.webp"
+  },
+  {
+    "filename": "02184061b63b384f223d44f26e18b4deed64443ca0e3f90b7d27d502ad86fdb8.webp",
+    "size": 96486,
+    "source_rel": "hyundai/models/palisade/images/02184061b63b384f223d44f26e18b4deed64443ca0e3f90b7d27d502ad86fdb8.webp"
+  },
+  {
+    "filename": "022251237a32c51dc88dff576c15a3d84142bbdf48d26e33915baf705d737be7.webp",
+    "size": 5322,
+    "source_rel": "hyundai/models/palisade/images/022251237a32c51dc88dff576c15a3d84142bbdf48d26e33915baf705d737be7.webp"
+  },
+  {
+    "filename": "0227a03ceb30ca2cd1f8cf4143f620c86ebf6145c8c0fc06af4eda995e469c85.webp",
+    "size": 12002,
+    "source_rel": "hyundai/models/palisade/images/0227a03ceb30ca2cd1f8cf4143f620c86ebf6145c8c0fc06af4eda995e469c85.webp"
+  },
+  {
+    "filename": "0228fa57af1c921030251d4cbfe36f616924b20234c73a627380c8ea930340f9.webp",
+    "size": 2200,
+    "source_rel": "hyundai/models/palisade/images/0228fa57af1c921030251d4cbfe36f616924b20234c73a627380c8ea930340f9.webp"
+  },
+  {
+    "filename": "022ca052daf1f0afd94b6f215946c8a23bf965596849deb006074435aaf05d0a.webp",
+    "size": 29422,
+    "source_rel": "hyundai/models/palisade/images/022ca052daf1f0afd94b6f215946c8a23bf965596849deb006074435aaf05d0a.webp"
+  },
+  {
+    "filename": "025309bd461c7351eb8522dbc6c1ccde6812ead4e8b69eda551ee1554f89fde4.webp",
+    "size": 25844,
+    "source_rel": "hyundai/models/palisade/images/025309bd461c7351eb8522dbc6c1ccde6812ead4e8b69eda551ee1554f89fde4.webp"
+  },
+  {
+    "filename": "027c9b6045aa09b4f372896e37e9c72f3dbe5d74a061bfc0656e98bd11e1124b.webp",
+    "size": 23426,
+    "source_rel": "hyundai/models/palisade/images/027c9b6045aa09b4f372896e37e9c72f3dbe5d74a061bfc0656e98bd11e1124b.webp"
+  },
+  {
+    "filename": "029312d29235a6171ef0501b19f65cde4bc8a4e0e4dd808dd9bbe6627d676ed4.webp",
+    "size": 10158,
+    "source_rel": "hyundai/models/palisade/images/029312d29235a6171ef0501b19f65cde4bc8a4e0e4dd808dd9bbe6627d676ed4.webp"
+  },
+  {
+    "filename": "02bb79edaf710aa9eae0aaf344e472e80184560853dfe04511250011a0c0436f.webp",
+    "size": 14436,
+    "source_rel": "hyundai/models/palisade/images/02bb79edaf710aa9eae0aaf344e472e80184560853dfe04511250011a0c0436f.webp"
+  },
+  {
+    "filename": "02bc71db6df8c2f8e481cd6ab154a602da4d9258d61547c3e62271d6cf9b1aab.webp",
+    "size": 10616,
+    "source_rel": "hyundai/models/palisade/images/02bc71db6df8c2f8e481cd6ab154a602da4d9258d61547c3e62271d6cf9b1aab.webp"
+  },
+  {
+    "filename": "02c9478970e5b65d720ebcd5f30d3d127c8c69544213e8b23610e558929a96d2.webp",
+    "size": 7492,
+    "source_rel": "hyundai/models/palisade/images/02c9478970e5b65d720ebcd5f30d3d127c8c69544213e8b23610e558929a96d2.webp"
+  },
+  {
+    "filename": "02d3541af22a25ea44518b77c2d03ecc1c2583f6dacb0bcb0267506efe95b448.webp",
+    "size": 27300,
+    "source_rel": "hyundai/models/palisade/images/02d3541af22a25ea44518b77c2d03ecc1c2583f6dacb0bcb0267506efe95b448.webp"
+  },
+  {
+    "filename": "02f424859b2872af81b00136d7bbd5010d83bad472d9598db75364e203486408.webp",
+    "size": 3266,
+    "source_rel": "hyundai/models/palisade/images/02f424859b2872af81b00136d7bbd5010d83bad472d9598db75364e203486408.webp"
+  },
+  {
+    "filename": "030cfff3219640d4e0198d09ffa9a7c129d4f29c83a9f3c64060a308aacf33af.webp",
+    "size": 11466,
+    "source_rel": "hyundai/models/palisade/images/030cfff3219640d4e0198d09ffa9a7c129d4f29c83a9f3c64060a308aacf33af.webp"
+  },
+  {
+    "filename": "033427c1ec50d538a822373b0b1440ec890fbd18972397bedebec669086a74b7.webp",
+    "size": 15460,
+    "source_rel": "hyundai/models/palisade/images/033427c1ec50d538a822373b0b1440ec890fbd18972397bedebec669086a74b7.webp"
+  },
+  {
+    "filename": "033e2f3ded58130f99849848274f4292e86333c9317563963ac20f67ca3dba16.webp",
+    "size": 8016,
+    "source_rel": "hyundai/models/palisade/images/033e2f3ded58130f99849848274f4292e86333c9317563963ac20f67ca3dba16.webp"
+  },
+  {
+    "filename": "0343329e6be25330e6a1969873f1a3be504505f81ac19c1a1aa7b51290b842bd.webp",
+    "size": 8246,
+    "source_rel": "hyundai/models/palisade/images/0343329e6be25330e6a1969873f1a3be504505f81ac19c1a1aa7b51290b842bd.webp"
+  },
+  {
+    "filename": "035b00a4c035d8e3e0eda480711810e2129fff116ff4b756a6172c00ca8efa74.webp",
+    "size": 9042,
+    "source_rel": "hyundai/models/palisade/images/035b00a4c035d8e3e0eda480711810e2129fff116ff4b756a6172c00ca8efa74.webp"
+  },
+  {
+    "filename": "035e1b052fe9c445f542fd6677c2a8e31ec9651a27d685023bbb00acced448fb.webp",
+    "size": 12320,
+    "source_rel": "hyundai/models/palisade/images/035e1b052fe9c445f542fd6677c2a8e31ec9651a27d685023bbb00acced448fb.webp"
+  },
+  {
+    "filename": "037904d10e5174313b10050e35afe291a1efad4af8fe9569c3ca0c56203e9424.webp",
+    "size": 7448,
+    "source_rel": "hyundai/models/palisade/images/037904d10e5174313b10050e35afe291a1efad4af8fe9569c3ca0c56203e9424.webp"
+  },
+  {
+    "filename": "037bc110b3d226cb5fd6d3053ef21fc1d141a01ac48c69bd738dafcf848eea1a.webp",
+    "size": 10768,
+    "source_rel": "hyundai/models/palisade/images/037bc110b3d226cb5fd6d3053ef21fc1d141a01ac48c69bd738dafcf848eea1a.webp"
+  },
+  {
+    "filename": "03b283eae6819b9c4abc361ed824f8c18c9c1b8859b2f2690f4e89c740ecb6fd.webp",
+    "size": 894,
+    "source_rel": "hyundai/models/palisade/images/03b283eae6819b9c4abc361ed824f8c18c9c1b8859b2f2690f4e89c740ecb6fd.webp"
+  },
+  {
+    "filename": "03cefd83fe18acb7a81bf28411dea1bce48535e7a04ee51ce7adae9d25cd5fe4.webp",
+    "size": 8652,
+    "source_rel": "hyundai/models/palisade/images/03cefd83fe18acb7a81bf28411dea1bce48535e7a04ee51ce7adae9d25cd5fe4.webp"
+  },
+  {
+    "filename": "03de367b3cd6c455ef0c8911dc345e4a05f63cdc51c341af415cc800cf81f12f.webp",
+    "size": 12076,
+    "source_rel": "hyundai/models/palisade/images/03de367b3cd6c455ef0c8911dc345e4a05f63cdc51c341af415cc800cf81f12f.webp"
+  },
+  {
+    "filename": "03eb1858ca278f9860143557a224174cb45aa725f84ed36a41794340bfcf08e9.webp",
+    "size": 9136,
+    "source_rel": "hyundai/models/palisade/images/03eb1858ca278f9860143557a224174cb45aa725f84ed36a41794340bfcf08e9.webp"
+  },
+  {
+    "filename": "03ed47661d87753b8736585a9eb7eaf032705e8d103bfd31e11640f2956572af.webp",
+    "size": 13672,
+    "source_rel": "hyundai/models/palisade/images/03ed47661d87753b8736585a9eb7eaf032705e8d103bfd31e11640f2956572af.webp"
+  },
+  {
+    "filename": "03f1c0def0c6f47d3620d99160cb37e1a36a0f2b2c66a7dacff03106abfa8c8f.webp",
+    "size": 9502,
+    "source_rel": "hyundai/models/palisade/images/03f1c0def0c6f47d3620d99160cb37e1a36a0f2b2c66a7dacff03106abfa8c8f.webp"
+  },
+  {
+    "filename": "04064d4d98f8e1d30aac5ef24237bf3bf615130a7850ea73f4f096021daa7ead.webp",
+    "size": 12216,
+    "source_rel": "hyundai/models/palisade/images/04064d4d98f8e1d30aac5ef24237bf3bf615130a7850ea73f4f096021daa7ead.webp"
+  },
+  {
+    "filename": "043b207860aec81cf77c92fa028bcc24811bc3908476d623ff8def8905b825f8.webp",
+    "size": 30018,
+    "source_rel": "hyundai/models/palisade/images/043b207860aec81cf77c92fa028bcc24811bc3908476d623ff8def8905b825f8.webp"
+  },
+  {
+    "filename": "044013a4e271e06522f6c75b99d506cce04a75e71445d3ebc843d3a30164ae56.webp",
+    "size": 108382,
+    "source_rel": "hyundai/models/palisade/images/044013a4e271e06522f6c75b99d506cce04a75e71445d3ebc843d3a30164ae56.webp"
+  },
+  {
+    "filename": "045bf78bf1b95dfb59c2777f59b29c9aa7d8631231b6b95b3745849e379e36a2.webp",
+    "size": 9814,
+    "source_rel": "hyundai/models/palisade/images/045bf78bf1b95dfb59c2777f59b29c9aa7d8631231b6b95b3745849e379e36a2.webp"
+  },
+  {
+    "filename": "046995b61a006e6c38b168a3c2c41858e96c96c9db0b02cdd628e9655f5d53a9.webp",
+    "size": 104042,
+    "source_rel": "hyundai/models/palisade/images/046995b61a006e6c38b168a3c2c41858e96c96c9db0b02cdd628e9655f5d53a9.webp"
+  },
+  {
+    "filename": "046e9f6d5e5c4e54aa756e8a7f8a5fa4abcd89fb42ad3638e14682bfb338dfea.webp",
+    "size": 8988,
+    "source_rel": "hyundai/models/palisade/images/046e9f6d5e5c4e54aa756e8a7f8a5fa4abcd89fb42ad3638e14682bfb338dfea.webp"
+  },
+  {
+    "filename": "046f2c8dbbbf33f78e809f09fb535a2bd91d201cff85ac0a07174843f3ec55c5.webp",
+    "size": 97912,
+    "source_rel": "hyundai/models/palisade/images/046f2c8dbbbf33f78e809f09fb535a2bd91d201cff85ac0a07174843f3ec55c5.webp"
+  },
+  {
+    "filename": "04a203f5c1ce1652d172bf800078d8b750d6159b24e7d01fd1e35d17f5b21582.webp",
+    "size": 22560,
+    "source_rel": "hyundai/models/palisade/images/04a203f5c1ce1652d172bf800078d8b750d6159b24e7d01fd1e35d17f5b21582.webp"
+  },
+  {
+    "filename": "04e77f6f66601c63abdd8a4022be893451e9f3e0d6c4c234409a717d113d6351.webp",
+    "size": 3062,
+    "source_rel": "hyundai/models/palisade/images/04e77f6f66601c63abdd8a4022be893451e9f3e0d6c4c234409a717d113d6351.webp"
+  },
+  {
+    "filename": "04f13c84988a2eba9ef538ef2d108a966b8c56fa15601e34a986cf493d28d343.webp",
+    "size": 3042,
+    "source_rel": "hyundai/models/palisade/images/04f13c84988a2eba9ef538ef2d108a966b8c56fa15601e34a986cf493d28d343.webp"
+  },
+  {
+    "filename": "050cb1b8c7ce3475b708ebb0416e56e40a43b05f8b585b2b2bb4ab26e511dc8e.webp",
+    "size": 13746,
+    "source_rel": "hyundai/models/palisade/images/050cb1b8c7ce3475b708ebb0416e56e40a43b05f8b585b2b2bb4ab26e511dc8e.webp"
+  },
+  {
+    "filename": "051627b8a5a00952a87994e55df16a733f7ce9897cc5b1d64f4232622749c798.webp",
+    "size": 6240,
+    "source_rel": "hyundai/models/palisade/images/051627b8a5a00952a87994e55df16a733f7ce9897cc5b1d64f4232622749c798.webp"
+  },
+  {
+    "filename": "052c38f86ffe1fd9306b378f3db3a69cbde9c7a5240f14c93b5827f396d04216.webp",
+    "size": 29416,
+    "source_rel": "hyundai/models/palisade/images/052c38f86ffe1fd9306b378f3db3a69cbde9c7a5240f14c93b5827f396d04216.webp"
+  },
+  {
+    "filename": "052c7e284aeeca4d2258c93e4cf37727c3e3e7cf7390f04818432aa548fdb410.webp",
+    "size": 12602,
+    "source_rel": "hyundai/models/palisade/images/052c7e284aeeca4d2258c93e4cf37727c3e3e7cf7390f04818432aa548fdb410.webp"
+  },
+  {
+    "filename": "053de41ba4152aae0f6e4d929b43441f7da50f16689c6a5eed979c30439d4e2c.webp",
+    "size": 13438,
+    "source_rel": "hyundai/models/palisade/images/053de41ba4152aae0f6e4d929b43441f7da50f16689c6a5eed979c30439d4e2c.webp"
+  },
+  {
+    "filename": "055e671426bc8105cf78198fb75f5b8b44572c061511e5c1997201296a4afa00.webp",
+    "size": 1778,
+    "source_rel": "hyundai/models/palisade/images/055e671426bc8105cf78198fb75f5b8b44572c061511e5c1997201296a4afa00.webp"
+  },
+  {
+    "filename": "0564a6219500eb5c7dcce99eb0f1646c3d853b2bb6cd0f8b418245799ec08011.webp",
+    "size": 7114,
+    "source_rel": "hyundai/models/palisade/images/0564a6219500eb5c7dcce99eb0f1646c3d853b2bb6cd0f8b418245799ec08011.webp"
+  },
+  {
+    "filename": "05881322c753c6f764a33935e32401ccdd1b7bf36ae997780319355096471e72.webp",
+    "size": 19216,
+    "source_rel": "hyundai/models/palisade/images/05881322c753c6f764a33935e32401ccdd1b7bf36ae997780319355096471e72.webp"
+  },
+  {
+    "filename": "059be00decd0acedea8a56c85638eaf99c5f6b36ee87e822ae2d8395144222c8.webp",
+    "size": 11670,
+    "source_rel": "hyundai/models/palisade/images/059be00decd0acedea8a56c85638eaf99c5f6b36ee87e822ae2d8395144222c8.webp"
+  },
+  {
+    "filename": "059f9617dd554202ae5259933ca9a90c54a4dcbd54dff5d17d2c8e1c38124e2b.webp",
+    "size": 556,
+    "source_rel": "hyundai/models/palisade/images/059f9617dd554202ae5259933ca9a90c54a4dcbd54dff5d17d2c8e1c38124e2b.webp"
+  },
+  {
+    "filename": "05a0b8c66f0296bc62d7ffcb47b7a1904f0f73a40c374b0bd99de17d4bd2e278.webp",
+    "size": 82508,
+    "source_rel": "hyundai/models/palisade/images/05a0b8c66f0296bc62d7ffcb47b7a1904f0f73a40c374b0bd99de17d4bd2e278.webp"
+  },
+  {
+    "filename": "05b1b8d1cf31211f46d61d239c832ca79072db4fd9198bf02d4b540822088d64.webp",
+    "size": 16170,
+    "source_rel": "hyundai/models/palisade/images/05b1b8d1cf31211f46d61d239c832ca79072db4fd9198bf02d4b540822088d64.webp"
+  },
+  {
+    "filename": "05b708a55b8482dd801fa75842c702f80466f4c5c495b51b88d698e288c70d60.webp",
+    "size": 14900,
+    "source_rel": "hyundai/models/palisade/images/05b708a55b8482dd801fa75842c702f80466f4c5c495b51b88d698e288c70d60.webp"
+  },
+  {
+    "filename": "05beff9499b05ac6cc3023336a81f7dce42277daa8d761e9c71d22cd55e95ed3.webp",
+    "size": 14280,
+    "source_rel": "hyundai/models/palisade/images/05beff9499b05ac6cc3023336a81f7dce42277daa8d761e9c71d22cd55e95ed3.webp"
+  },
+  {
+    "filename": "05c54d611c500277f4ee633f976f807207878bb59680f03fd82ede6d69240fcc.webp",
+    "size": 5036,
+    "source_rel": "hyundai/models/palisade/images/05c54d611c500277f4ee633f976f807207878bb59680f03fd82ede6d69240fcc.webp"
+  },
+  {
+    "filename": "05d00751acdaef0c7613f1143754c2d044411961622b49b95459e2b9861ab24e.webp",
+    "size": 2778,
+    "source_rel": "hyundai/models/palisade/images/05d00751acdaef0c7613f1143754c2d044411961622b49b95459e2b9861ab24e.webp"
+  },
+  {
+    "filename": "05e76d6c65fb3c9220959a705b2c44601b22eb8df0ad2242789721bfb5be3827.webp",
+    "size": 12220,
+    "source_rel": "hyundai/models/palisade/images/05e76d6c65fb3c9220959a705b2c44601b22eb8df0ad2242789721bfb5be3827.webp"
+  },
+  {
+    "filename": "05f722cdc5fcb2754848494aeac8df78ca9d0a5fa924ea79bc73cbad76b0ca0f.webp",
+    "size": 24560,
+    "source_rel": "hyundai/models/palisade/images/05f722cdc5fcb2754848494aeac8df78ca9d0a5fa924ea79bc73cbad76b0ca0f.webp"
+  },
+  {
+    "filename": "05fbbbf6f5871bd1cec7e371ae3c48dfa943d4ec9e19b9e8e44f9a58187eef6f.webp",
+    "size": 2272,
+    "source_rel": "hyundai/models/palisade/images/05fbbbf6f5871bd1cec7e371ae3c48dfa943d4ec9e19b9e8e44f9a58187eef6f.webp"
+  },
+  {
+    "filename": "05fc7a5c9ef7f7c19870f54385fbc7c2f6e52087918f2bf286f784c6f83da3d7.webp",
+    "size": 9002,
+    "source_rel": "hyundai/models/palisade/images/05fc7a5c9ef7f7c19870f54385fbc7c2f6e52087918f2bf286f784c6f83da3d7.webp"
+  },
+  {
+    "filename": "060c5521731026af2e73fd3c427717d8e6b2620efeef77f0f4a38e9f4c4f3678.webp",
+    "size": 6516,
+    "source_rel": "hyundai/models/palisade/images/060c5521731026af2e73fd3c427717d8e6b2620efeef77f0f4a38e9f4c4f3678.webp"
+  },
+  {
+    "filename": "060cb558459dfc718dbadf0a5eb4766d7363b6e6b6b504179612a69d687bc9fa.webp",
+    "size": 9572,
+    "source_rel": "hyundai/models/palisade/images/060cb558459dfc718dbadf0a5eb4766d7363b6e6b6b504179612a69d687bc9fa.webp"
+  },
+  {
+    "filename": "0631668d1ea945598ea2adced2c8414744b7d55102940f9dd892b1210786ef00.webp",
+    "size": 11708,
+    "source_rel": "hyundai/models/palisade/images/0631668d1ea945598ea2adced2c8414744b7d55102940f9dd892b1210786ef00.webp"
+  },
+  {
+    "filename": "064c289645485514947e3429e409499b02b0a78e686d915554c5cf77d1fb73e5.webp",
+    "size": 17578,
+    "source_rel": "hyundai/models/palisade/images/064c289645485514947e3429e409499b02b0a78e686d915554c5cf77d1fb73e5.webp"
+  },
+  {
+    "filename": "064e6b16aec1b0f8dbb674b9530b9ac24d38b32342c8b0a753624857a2f95620.webp",
+    "size": 14548,
+    "source_rel": "hyundai/models/palisade/images/064e6b16aec1b0f8dbb674b9530b9ac24d38b32342c8b0a753624857a2f95620.webp"
+  },
+  {
+    "filename": "06597033fac54a88083d3bd44821b05000c6894fb3882fc7b43be1d1cb5a84c2.webp",
+    "size": 13838,
+    "source_rel": "hyundai/models/palisade/images/06597033fac54a88083d3bd44821b05000c6894fb3882fc7b43be1d1cb5a84c2.webp"
+  },
+  {
+    "filename": "066ef76615fd59f4c26d2b9df0c20d81ca85bf5de74a16472c1a0a0167b9b5f5.webp",
+    "size": 1740,
+    "source_rel": "hyundai/models/palisade/images/066ef76615fd59f4c26d2b9df0c20d81ca85bf5de74a16472c1a0a0167b9b5f5.webp"
+  },
+  {
+    "filename": "06753b9ff1398bf9a23074dc29a8f2e083a6beb56ac1cca8f007ad6fae26bb55.webp",
+    "size": 4404,
+    "source_rel": "hyundai/models/palisade/images/06753b9ff1398bf9a23074dc29a8f2e083a6beb56ac1cca8f007ad6fae26bb55.webp"
+  },
+  {
+    "filename": "0678b28f474a9e63bbb169b11373efa15f38fa05117e8805c1d8c4cac0dd4b54.webp",
+    "size": 22928,
+    "source_rel": "hyundai/models/palisade/images/0678b28f474a9e63bbb169b11373efa15f38fa05117e8805c1d8c4cac0dd4b54.webp"
+  },
+  {
+    "filename": "069402b474025c2b53419fcb5b9987c7169cb3fda0f37dcfca7d71ccfa712825.webp",
+    "size": 2996,
+    "source_rel": "hyundai/models/palisade/images/069402b474025c2b53419fcb5b9987c7169cb3fda0f37dcfca7d71ccfa712825.webp"
+  },
+  {
+    "filename": "06c4512547e7e002cf058c642cc950d371fbbc035de7ad21580ce0c710df2bba.webp",
+    "size": 13356,
+    "source_rel": "hyundai/models/palisade/images/06c4512547e7e002cf058c642cc950d371fbbc035de7ad21580ce0c710df2bba.webp"
+  },
+  {
+    "filename": "06e116b4174571e9b892ff1468c86ebd6dfe7ebb0403cb9a87e75cd5a9f8ff74.webp",
+    "size": 4940,
+    "source_rel": "hyundai/models/palisade/images/06e116b4174571e9b892ff1468c86ebd6dfe7ebb0403cb9a87e75cd5a9f8ff74.webp"
+  },
+  {
+    "filename": "06e4a0504b88c19ae5a273ca8d8e4dab0210244e6586f29f45b07168ee95ce75.webp",
+    "size": 17622,
+    "source_rel": "hyundai/models/palisade/images/06e4a0504b88c19ae5a273ca8d8e4dab0210244e6586f29f45b07168ee95ce75.webp"
+  },
+  {
+    "filename": "06ed7d4a97f78cf7959882592d854a8a87c02449db8efffde411a583fde60a49.webp",
+    "size": 45982,
+    "source_rel": "hyundai/models/palisade/images/06ed7d4a97f78cf7959882592d854a8a87c02449db8efffde411a583fde60a49.webp"
+  },
+  {
+    "filename": "06ee724865295a1ddde08d47a937d7f5049fe395a2304a29be40788bcd36d61d.webp",
+    "size": 11818,
+    "source_rel": "hyundai/models/palisade/images/06ee724865295a1ddde08d47a937d7f5049fe395a2304a29be40788bcd36d61d.webp"
+  },
+  {
+    "filename": "0706828c73dfc4f0c74d8aa3b326b4fb5bf341a1cb902a12be1772420c0d2dfe.webp",
+    "size": 12496,
+    "source_rel": "hyundai/models/palisade/images/0706828c73dfc4f0c74d8aa3b326b4fb5bf341a1cb902a12be1772420c0d2dfe.webp"
+  },
+  {
+    "filename": "072a9bdf1b6eb147e7db119f319c0dd907d9fa3cbedeba822daf2df904fec1b7.webp",
+    "size": 12726,
+    "source_rel": "hyundai/models/palisade/images/072a9bdf1b6eb147e7db119f319c0dd907d9fa3cbedeba822daf2df904fec1b7.webp"
+  },
+  {
+    "filename": "07300a197e5207f7fbf861d313a94176539dba9d0d36a128c5c77228066f0296.webp",
+    "size": 13746,
+    "source_rel": "hyundai/models/palisade/images/07300a197e5207f7fbf861d313a94176539dba9d0d36a128c5c77228066f0296.webp"
+  },
+  {
+    "filename": "074c9787c77844f1de48bd0a44c856646f486883beac7d813a801ca3c1ae5a10.webp",
+    "size": 9514,
+    "source_rel": "hyundai/models/palisade/images/074c9787c77844f1de48bd0a44c856646f486883beac7d813a801ca3c1ae5a10.webp"
+  },
+  {
+    "filename": "074fa987dae405bfa8cc4af069a74c8a08a36af1b36490582fb63b68f1cfad92.webp",
+    "size": 9290,
+    "source_rel": "hyundai/models/palisade/images/074fa987dae405bfa8cc4af069a74c8a08a36af1b36490582fb63b68f1cfad92.webp"
+  },
+  {
+    "filename": "07647579c9aa32197c1cd345b12be104eace397b0de686fdc1f592d2556cc548.webp",
+    "size": 4150,
+    "source_rel": "hyundai/models/palisade/images/07647579c9aa32197c1cd345b12be104eace397b0de686fdc1f592d2556cc548.webp"
+  },
+  {
+    "filename": "076d48cc45696c5586b241538d9a14976694807e81fbb41a7924243e3b95a5b8.webp",
+    "size": 10130,
+    "source_rel": "hyundai/models/palisade/images/076d48cc45696c5586b241538d9a14976694807e81fbb41a7924243e3b95a5b8.webp"
+  },
+  {
+    "filename": "07769a4943ef87cb31fa40480a721c7be703cd869054c8ab97464584420d017c.webp",
+    "size": 91226,
+    "source_rel": "hyundai/models/palisade/images/07769a4943ef87cb31fa40480a721c7be703cd869054c8ab97464584420d017c.webp"
+  },
+  {
+    "filename": "079d17e9f4aa8e116dc857b7f295b822738a3abdc3dff9a0772522fd4227a90d.webp",
+    "size": 2066,
+    "source_rel": "hyundai/models/palisade/images/079d17e9f4aa8e116dc857b7f295b822738a3abdc3dff9a0772522fd4227a90d.webp"
+  },
+  {
+    "filename": "07ae4e14ee45fabaeec62ba0cd7fdbabde1fb623a11626dd8cc04a306ac72a19.webp",
+    "size": 11630,
+    "source_rel": "hyundai/models/palisade/images/07ae4e14ee45fabaeec62ba0cd7fdbabde1fb623a11626dd8cc04a306ac72a19.webp"
+  },
+  {
+    "filename": "07b03830f174fdebdbe14b0c1f01dc81822feb72663d64bc76f969a80088a179.webp",
+    "size": 23862,
+    "source_rel": "hyundai/models/palisade/images/07b03830f174fdebdbe14b0c1f01dc81822feb72663d64bc76f969a80088a179.webp"
+  },
+  {
+    "filename": "07b64d738fecda2c14aa6262346dbbe985c6c95c850b808c92323d79b4498cc5.webp",
+    "size": 10554,
+    "source_rel": "hyundai/models/palisade/images/07b64d738fecda2c14aa6262346dbbe985c6c95c850b808c92323d79b4498cc5.webp"
+  },
+  {
+    "filename": "07b71c0f5157e64c0d478a3c9b5b52bcd622f912b3237599831ff1e737a0b958.webp",
+    "size": 2246,
+    "source_rel": "hyundai/models/palisade/images/07b71c0f5157e64c0d478a3c9b5b52bcd622f912b3237599831ff1e737a0b958.webp"
+  },
+  {
+    "filename": "07c4950eb263e892fe8029b2f9568e088f97857bcafa7527b0ac325b60ae85d3.webp",
+    "size": 4366,
+    "source_rel": "hyundai/models/palisade/images/07c4950eb263e892fe8029b2f9568e088f97857bcafa7527b0ac325b60ae85d3.webp"
+  },
+  {
+    "filename": "07e84514079bbb4dbf870fc71edcd45afbf07372d47c28c50bcd58b0a097b6db.webp",
+    "size": 33864,
+    "source_rel": "hyundai/models/palisade/images/07e84514079bbb4dbf870fc71edcd45afbf07372d47c28c50bcd58b0a097b6db.webp"
+  },
+  {
+    "filename": "07eb8a3614c56f01758665fcfa281a0c358610a0f4239cbf5394eb3443e1fe7e.webp",
+    "size": 2526,
+    "source_rel": "hyundai/models/palisade/images/07eb8a3614c56f01758665fcfa281a0c358610a0f4239cbf5394eb3443e1fe7e.webp"
+  },
+  {
+    "filename": "07f019c35432d67f65151fd7ec8ac11bb9967c25a3586e65aa92a9ca803eef77.webp",
+    "size": 17240,
+    "source_rel": "hyundai/models/palisade/images/07f019c35432d67f65151fd7ec8ac11bb9967c25a3586e65aa92a9ca803eef77.webp"
+  },
+  {
+    "filename": "07f0e991a8f0a677a73e144c90e32c78b35cc051dd135a479600bce4c6bfb8ab.webp",
+    "size": 32404,
+    "source_rel": "hyundai/models/palisade/images/07f0e991a8f0a677a73e144c90e32c78b35cc051dd135a479600bce4c6bfb8ab.webp"
+  },
+  {
+    "filename": "081b0a0ea0299505cb02219568c213171c10d3ad6538595e5153414f666fe1ef.webp",
+    "size": 40440,
+    "source_rel": "hyundai/models/palisade/images/081b0a0ea0299505cb02219568c213171c10d3ad6538595e5153414f666fe1ef.webp"
+  },
+  {
+    "filename": "08a4a692c08cf0fc6c6f5272dd255bb76c37ce231c7877332cb1a9710500e9c3.webp",
+    "size": 12404,
+    "source_rel": "hyundai/models/palisade/images/08a4a692c08cf0fc6c6f5272dd255bb76c37ce231c7877332cb1a9710500e9c3.webp"
+  },
+  {
+    "filename": "08bbb29d7811798e5b085aea5324cc8b3bd21297fd0290c5ffec50b6d6c8e2f3.webp",
+    "size": 3022,
+    "source_rel": "hyundai/models/palisade/images/08bbb29d7811798e5b085aea5324cc8b3bd21297fd0290c5ffec50b6d6c8e2f3.webp"
+  },
+  {
+    "filename": "08bc6e3680b2c3c47fd10bb8e213b0cbf9418b6f5f701dc960eaffdf8d2bee46.webp",
+    "size": 7860,
+    "source_rel": "hyundai/models/palisade/images/08bc6e3680b2c3c47fd10bb8e213b0cbf9418b6f5f701dc960eaffdf8d2bee46.webp"
+  },
+  {
+    "filename": "08f2e865c634a4b14b4804ec3d23383db34874d18bb8b67b907a1e2aa3246d54.webp",
+    "size": 3850,
+    "source_rel": "hyundai/models/palisade/images/08f2e865c634a4b14b4804ec3d23383db34874d18bb8b67b907a1e2aa3246d54.webp"
+  },
+  {
+    "filename": "0909c43824cd6fb4646bc3d6062d5df7bce584d60766783f64769794a45f6c05.webp",
+    "size": 6658,
+    "source_rel": "hyundai/models/palisade/images/0909c43824cd6fb4646bc3d6062d5df7bce584d60766783f64769794a45f6c05.webp"
+  },
+  {
+    "filename": "090a128f4ebb9e61f794904794eefbfef44dcb3e6c139209d3304f0f22e9a1d1.webp",
+    "size": 19914,
+    "source_rel": "hyundai/models/palisade/images/090a128f4ebb9e61f794904794eefbfef44dcb3e6c139209d3304f0f22e9a1d1.webp"
+  },
+  {
+    "filename": "090d44f9a3d1378e100007acda915b294b72aacdb0a415f9ede602484c911da9.webp",
+    "size": 23574,
+    "source_rel": "hyundai/models/palisade/images/090d44f9a3d1378e100007acda915b294b72aacdb0a415f9ede602484c911da9.webp"
+  },
+  {
+    "filename": "091cd46774ad9fd26e9f0475ed2485f12890d8be80fc4275cedcb7dae4fb3e62.webp",
+    "size": 12770,
+    "source_rel": "hyundai/models/palisade/images/091cd46774ad9fd26e9f0475ed2485f12890d8be80fc4275cedcb7dae4fb3e62.webp"
+  },
+  {
+    "filename": "0920ef41194fc8b6d9738e833a66414025ae3716193f0835c3e48cf7a6eeb398.webp",
+    "size": 8248,
+    "source_rel": "hyundai/models/palisade/images/0920ef41194fc8b6d9738e833a66414025ae3716193f0835c3e48cf7a6eeb398.webp"
+  },
+  {
+    "filename": "092adf75c1d8208c0f7b2c52e48f4eaf05fea19a23b9cb34480364140adf0826.webp",
+    "size": 18232,
+    "source_rel": "hyundai/models/palisade/images/092adf75c1d8208c0f7b2c52e48f4eaf05fea19a23b9cb34480364140adf0826.webp"
+  },
+  {
+    "filename": "09421aaf902ec106e3e9f2b359a2edb1bcf37e39a861b79954d342d0cdc25c1b.webp",
+    "size": 7544,
+    "source_rel": "hyundai/models/palisade/images/09421aaf902ec106e3e9f2b359a2edb1bcf37e39a861b79954d342d0cdc25c1b.webp"
+  },
+  {
+    "filename": "09455e18c21fac50d1b57db3d43e59232034c5fb5aaac310f3a94c2604ff94a5.webp",
+    "size": 6936,
+    "source_rel": "hyundai/models/palisade/images/09455e18c21fac50d1b57db3d43e59232034c5fb5aaac310f3a94c2604ff94a5.webp"
+  },
+  {
+    "filename": "09516a12d9be446bae9e63d2821e70713b98437179f59a4df8d8d90a4585b543.webp",
+    "size": 2074,
+    "source_rel": "hyundai/models/palisade/images/09516a12d9be446bae9e63d2821e70713b98437179f59a4df8d8d90a4585b543.webp"
+  },
+  {
+    "filename": "095c2dbdd97038e27b53951d933a06b27ca57097c31231e8cfc04a32af280cb6.webp",
+    "size": 11368,
+    "source_rel": "hyundai/models/palisade/images/095c2dbdd97038e27b53951d933a06b27ca57097c31231e8cfc04a32af280cb6.webp"
+  },
+  {
+    "filename": "09651439e408a503e6b7c72379e1feaf77e22691f4b1437bedf1cafd67cf7599.webp",
+    "size": 8092,
+    "source_rel": "hyundai/models/palisade/images/09651439e408a503e6b7c72379e1feaf77e22691f4b1437bedf1cafd67cf7599.webp"
+  },
+  {
+    "filename": "09876b6f607aff2a7e81770214379a6f93a04518ccfe6c1c4d794efc3cf66151.webp",
+    "size": 9296,
+    "source_rel": "hyundai/models/palisade/images/09876b6f607aff2a7e81770214379a6f93a04518ccfe6c1c4d794efc3cf66151.webp"
+  },
+  {
+    "filename": "098fc4f19194a03d59d0869538b3e4b287239bec539a8a4adfbbf5d52cb4d85b.webp",
+    "size": 93096,
+    "source_rel": "hyundai/models/palisade/images/098fc4f19194a03d59d0869538b3e4b287239bec539a8a4adfbbf5d52cb4d85b.webp"
+  },
+  {
+    "filename": "09bb2806483c562b5232dd24697ac8bd3998c039ec30b32f8b455c2902aba2f7.webp",
+    "size": 5972,
+    "source_rel": "hyundai/models/palisade/images/09bb2806483c562b5232dd24697ac8bd3998c039ec30b32f8b455c2902aba2f7.webp"
+  },
+  {
+    "filename": "09d13dab9c27b7f3ed1d08896819e6154a0292ac1f16033433b4768a14ec4cdc.webp",
+    "size": 7214,
+    "source_rel": "hyundai/models/palisade/images/09d13dab9c27b7f3ed1d08896819e6154a0292ac1f16033433b4768a14ec4cdc.webp"
+  },
+  {
+    "filename": "09d6ea50dccbdce9c16db7d00e18ce24de95e620dbf3cefbd9874cda3550451f.webp",
+    "size": 12462,
+    "source_rel": "hyundai/models/palisade/images/09d6ea50dccbdce9c16db7d00e18ce24de95e620dbf3cefbd9874cda3550451f.webp"
+  },
+  {
+    "filename": "09d7fa516d5ca1378803bc16d03f975eae63f9f62b633cb3632c7013e1f2657f.webp",
+    "size": 12674,
+    "source_rel": "hyundai/models/palisade/images/09d7fa516d5ca1378803bc16d03f975eae63f9f62b633cb3632c7013e1f2657f.webp"
+  },
+  {
+    "filename": "09e2be19971510344067cdcb2be48b9d02ec76a4a8248e8ae0c66ca2cb1b976c.webp",
+    "size": 62302,
+    "source_rel": "hyundai/models/palisade/images/09e2be19971510344067cdcb2be48b9d02ec76a4a8248e8ae0c66ca2cb1b976c.webp"
+  },
+  {
+    "filename": "0a60e00bebd59cfb4cf6e57d0a5b2b27f6a63c1b165fb10b39d094bdabb03024.webp",
+    "size": 2272,
+    "source_rel": "hyundai/models/palisade/images/0a60e00bebd59cfb4cf6e57d0a5b2b27f6a63c1b165fb10b39d094bdabb03024.webp"
+  },
+  {
+    "filename": "0a6eaa65da46544e6c757138d9a314c482eeed128d45cee0b279ba9daade95c3.webp",
+    "size": 10774,
+    "source_rel": "hyundai/models/palisade/images/0a6eaa65da46544e6c757138d9a314c482eeed128d45cee0b279ba9daade95c3.webp"
+  },
+  {
+    "filename": "0ad767c9fb54f338be2592f6bd359416afc3a2466786be528e5a1f8391f24746.webp",
+    "size": 7774,
+    "source_rel": "hyundai/models/palisade/images/0ad767c9fb54f338be2592f6bd359416afc3a2466786be528e5a1f8391f24746.webp"
+  },
+  {
+    "filename": "0ae11727f113af26cacea2f8e1c81c112ac83fdb62600cfbef54ca958a40af32.webp",
+    "size": 8262,
+    "source_rel": "hyundai/models/palisade/images/0ae11727f113af26cacea2f8e1c81c112ac83fdb62600cfbef54ca958a40af32.webp"
+  },
+  {
+    "filename": "0af0fe4b2e7478763a43203e373a735a291120ff6c42f74809abd5858fb98b22.webp",
+    "size": 6616,
+    "source_rel": "hyundai/models/palisade/images/0af0fe4b2e7478763a43203e373a735a291120ff6c42f74809abd5858fb98b22.webp"
+  },
+  {
+    "filename": "0b06e85e0f895a6420ec088e4ae18d79fc60a27bfaeacb839042b3541762b25b.webp",
+    "size": 3364,
+    "source_rel": "hyundai/models/palisade/images/0b06e85e0f895a6420ec088e4ae18d79fc60a27bfaeacb839042b3541762b25b.webp"
+  },
+  {
+    "filename": "0b1d7ce0e4f9da1626ca51a69c5ead9cced9aaf15d7ac04672f83062393f35b8.webp",
+    "size": 9788,
+    "source_rel": "hyundai/models/palisade/images/0b1d7ce0e4f9da1626ca51a69c5ead9cced9aaf15d7ac04672f83062393f35b8.webp"
+  },
+  {
+    "filename": "0b2906dbee11d1779a0513f5162ee08d7fb262084d950c24a878574ec1c0cc9e.webp",
+    "size": 11794,
+    "source_rel": "hyundai/models/palisade/images/0b2906dbee11d1779a0513f5162ee08d7fb262084d950c24a878574ec1c0cc9e.webp"
+  },
+  {
+    "filename": "0b3036f203f74876dc77bc5c49b8ab59a2739e8de2cf585c46504acaa71f8e44.webp",
+    "size": 78518,
+    "source_rel": "hyundai/models/palisade/images/0b3036f203f74876dc77bc5c49b8ab59a2739e8de2cf585c46504acaa71f8e44.webp"
+  },
+  {
+    "filename": "0b3165012ba912772f654950e8bb0f3a99fb272ce97ed9ad9a42f6df8101a22b.webp",
+    "size": 14684,
+    "source_rel": "hyundai/models/palisade/images/0b3165012ba912772f654950e8bb0f3a99fb272ce97ed9ad9a42f6df8101a22b.webp"
+  },
+  {
+    "filename": "0b35a560712dd0080495427e28296e2be1fc5a85c53488dbf25aa6b808ddce8e.webp",
+    "size": 6164,
+    "source_rel": "hyundai/models/palisade/images/0b35a560712dd0080495427e28296e2be1fc5a85c53488dbf25aa6b808ddce8e.webp"
+  },
+  {
+    "filename": "0b60d830d58f6f1e5d54381cd6a855e87f1d197ee5817b47df9b2aae97763bb5.webp",
+    "size": 5438,
+    "source_rel": "hyundai/models/palisade/images/0b60d830d58f6f1e5d54381cd6a855e87f1d197ee5817b47df9b2aae97763bb5.webp"
+  },
+  {
+    "filename": "0b7c260b14137c603f61d7ae29a8ae274a69f517880652de70872ba999a56e61.webp",
+    "size": 6230,
+    "source_rel": "hyundai/models/palisade/images/0b7c260b14137c603f61d7ae29a8ae274a69f517880652de70872ba999a56e61.webp"
+  },
+  {
+    "filename": "0bf002fdc0d927fd0ca1f57a4e7d1c72da50465601f18375f70e0925d8700332.webp",
+    "size": 91034,
+    "source_rel": "hyundai/models/palisade/images/0bf002fdc0d927fd0ca1f57a4e7d1c72da50465601f18375f70e0925d8700332.webp"
+  },
+  {
+    "filename": "0bf19195ce610f9bbabf37b09ae02ea394c2f9724d4adaa7aca76099f22f05fe.webp",
+    "size": 17584,
+    "source_rel": "hyundai/models/palisade/images/0bf19195ce610f9bbabf37b09ae02ea394c2f9724d4adaa7aca76099f22f05fe.webp"
+  },
+  {
+    "filename": "0c0d9378af0305f664e938c83496036da6d3fd4b107eceb09698c92eedf159df.webp",
+    "size": 20768,
+    "source_rel": "hyundai/models/palisade/images/0c0d9378af0305f664e938c83496036da6d3fd4b107eceb09698c92eedf159df.webp"
+  },
+  {
+    "filename": "0c17e1f235883f08bae98f0294cfc8753b199de535f659e9a972dcae5fb5dcdf.webp",
+    "size": 13924,
+    "source_rel": "hyundai/models/palisade/images/0c17e1f235883f08bae98f0294cfc8753b199de535f659e9a972dcae5fb5dcdf.webp"
+  },
+  {
+    "filename": "0c1bd77d017c48421098c1895d862946e365b2e0dba0d8092693b56ac702b82a.webp",
+    "size": 3224,
+    "source_rel": "hyundai/models/palisade/images/0c1bd77d017c48421098c1895d862946e365b2e0dba0d8092693b56ac702b82a.webp"
+  },
+  {
+    "filename": "0c2f27fa68115c5ec19057618e9fa2bc142ee9d758404c19166a1cc71f5373a3.webp",
+    "size": 23858,
+    "source_rel": "hyundai/models/palisade/images/0c2f27fa68115c5ec19057618e9fa2bc142ee9d758404c19166a1cc71f5373a3.webp"
+  },
+  {
+    "filename": "0c438215160ea03753aa6d7255b00cbc6a3dd1b4003510f954d4c41b0dbde52a.webp",
+    "size": 5916,
+    "source_rel": "hyundai/models/palisade/images/0c438215160ea03753aa6d7255b00cbc6a3dd1b4003510f954d4c41b0dbde52a.webp"
+  },
+  {
+    "filename": "0c51e6a6208d92575965e6a7b38138e0f86f3020d84008a45dc3e47e20567402.webp",
+    "size": 16238,
+    "source_rel": "hyundai/models/palisade/images/0c51e6a6208d92575965e6a7b38138e0f86f3020d84008a45dc3e47e20567402.webp"
+  },
+  {
+    "filename": "0c5679112a842dcd8eaf73589d4cd44ac5633171ecd59470f091e501fb052721.webp",
+    "size": 8592,
+    "source_rel": "hyundai/models/palisade/images/0c5679112a842dcd8eaf73589d4cd44ac5633171ecd59470f091e501fb052721.webp"
+  },
+  {
+    "filename": "0c6151488857c00d1e103fa5b0f00b5bfea1ec13eaa94f0344365514e7cc1482.webp",
+    "size": 3774,
+    "source_rel": "hyundai/models/palisade/images/0c6151488857c00d1e103fa5b0f00b5bfea1ec13eaa94f0344365514e7cc1482.webp"
+  },
+  {
+    "filename": "0c7a41e6abbf3b722b68b26d13aa9f642c8475e0bcf61bb31c1426b65e4ea8a3.webp",
+    "size": 22742,
+    "source_rel": "hyundai/models/palisade/images/0c7a41e6abbf3b722b68b26d13aa9f642c8475e0bcf61bb31c1426b65e4ea8a3.webp"
+  },
+  {
+    "filename": "0c7c137385fd29bcc9d2f27fdc22520fffe2877f130b7f5c01994a5a64d37f42.webp",
+    "size": 12218,
+    "source_rel": "hyundai/models/palisade/images/0c7c137385fd29bcc9d2f27fdc22520fffe2877f130b7f5c01994a5a64d37f42.webp"
+  },
+  {
+    "filename": "0cab453b90175a221aa564d10b9b41487fcf5b13e1069f7ec6244e87ab6a8b8b.webp",
+    "size": 28898,
+    "source_rel": "hyundai/models/palisade/images/0cab453b90175a221aa564d10b9b41487fcf5b13e1069f7ec6244e87ab6a8b8b.webp"
+  },
+  {
+    "filename": "0cade481b0237e0425cb1221d5a17c26f44133dfd86bb2edbc5cdf87ef04a869.webp",
+    "size": 12330,
+    "source_rel": "hyundai/models/palisade/images/0cade481b0237e0425cb1221d5a17c26f44133dfd86bb2edbc5cdf87ef04a869.webp"
+  },
+  {
+    "filename": "0cee55e13009a824d42908a3a15c5e6962ab4844147014822db3c5b53a5296df.webp",
+    "size": 5564,
+    "source_rel": "hyundai/models/palisade/images/0cee55e13009a824d42908a3a15c5e6962ab4844147014822db3c5b53a5296df.webp"
+  },
+  {
+    "filename": "0cfc2a0ec2d85016929540d1d4376457a1bf343581f4b17e1458d811a1fd22b7.webp",
+    "size": 53462,
+    "source_rel": "hyundai/models/palisade/images/0cfc2a0ec2d85016929540d1d4376457a1bf343581f4b17e1458d811a1fd22b7.webp"
+  },
+  {
+    "filename": "0d359b5cd10a182259b268a73673dc07ba2e2054854f05513ddb4831991d20ab.webp",
+    "size": 51188,
+    "source_rel": "hyundai/models/palisade/images/0d359b5cd10a182259b268a73673dc07ba2e2054854f05513ddb4831991d20ab.webp"
+  },
+  {
+    "filename": "0d3ad6516c29aab6a3813f28fe0dacd131b0749d63a86fc6ae5c056891075b63.webp",
+    "size": 3682,
+    "source_rel": "hyundai/models/palisade/images/0d3ad6516c29aab6a3813f28fe0dacd131b0749d63a86fc6ae5c056891075b63.webp"
+  },
+  {
+    "filename": "0d458aae095da353a8296470c5eaeb25b643d24df55cc3332dc825e3677ab671.webp",
+    "size": 9188,
+    "source_rel": "hyundai/models/palisade/images/0d458aae095da353a8296470c5eaeb25b643d24df55cc3332dc825e3677ab671.webp"
+  },
+  {
+    "filename": "0d4ada16d502889a2ff5bfc0ff2fb6225c7b39e3160f5744573c7e20e9393d20.webp",
+    "size": 9042,
+    "source_rel": "hyundai/models/palisade/images/0d4ada16d502889a2ff5bfc0ff2fb6225c7b39e3160f5744573c7e20e9393d20.webp"
+  },
+  {
+    "filename": "0d5dafab8516a2f844f9a1e6106560bd091037662e3255936a0777fad3c9655d.webp",
+    "size": 7242,
+    "source_rel": "hyundai/models/palisade/images/0d5dafab8516a2f844f9a1e6106560bd091037662e3255936a0777fad3c9655d.webp"
+  },
+  {
+    "filename": "0d796b4f8ca8885fe16269c665d5ea28a2a7dce615d07187cf6bdc51e083d22a.webp",
+    "size": 3624,
+    "source_rel": "hyundai/models/palisade/images/0d796b4f8ca8885fe16269c665d5ea28a2a7dce615d07187cf6bdc51e083d22a.webp"
+  },
+  {
+    "filename": "0d9049ad9c6e09e6334441623f9b2b004498290801f08e68bee739ba42f2828a.webp",
+    "size": 9398,
+    "source_rel": "hyundai/models/palisade/images/0d9049ad9c6e09e6334441623f9b2b004498290801f08e68bee739ba42f2828a.webp"
+  },
+  {
+    "filename": "0db219a381de0b6fe825237d09a95819ac3840cadb81e9447ddcbb00ae151c4a.webp",
+    "size": 48296,
+    "source_rel": "hyundai/models/palisade/images/0db219a381de0b6fe825237d09a95819ac3840cadb81e9447ddcbb00ae151c4a.webp"
+  },
+  {
+    "filename": "0dc469c4af883281fbb3ce9d0b80789ec2e7355d5b75d1ef28a2456b0661a9f1.webp",
+    "size": 11108,
+    "source_rel": "hyundai/models/palisade/images/0dc469c4af883281fbb3ce9d0b80789ec2e7355d5b75d1ef28a2456b0661a9f1.webp"
+  },
+  {
+    "filename": "0de8780039ceabb898fe7e42fe3a59adbd64c27a5536a3c2e2bcab9d9a759595.webp",
+    "size": 9130,
+    "source_rel": "hyundai/models/palisade/images/0de8780039ceabb898fe7e42fe3a59adbd64c27a5536a3c2e2bcab9d9a759595.webp"
+  },
+  {
+    "filename": "0e18a8e5ee11b2ba94b2ae5d344e8c6958230620b5be3818d9162cc28d247503.webp",
+    "size": 6780,
+    "source_rel": "hyundai/models/palisade/images/0e18a8e5ee11b2ba94b2ae5d344e8c6958230620b5be3818d9162cc28d247503.webp"
+  },
+  {
+    "filename": "0e4c4d005fb7e159352c2fde11c1ba38e0f1eff40507bcef323fc879d7748138.webp",
+    "size": 67724,
+    "source_rel": "hyundai/models/palisade/images/0e4c4d005fb7e159352c2fde11c1ba38e0f1eff40507bcef323fc879d7748138.webp"
+  },
+  {
+    "filename": "0e558d381b51aff65090e64c8cfbf096438a09218839dd04c66f5d8ec22fa095.webp",
+    "size": 7956,
+    "source_rel": "hyundai/models/palisade/images/0e558d381b51aff65090e64c8cfbf096438a09218839dd04c66f5d8ec22fa095.webp"
+  },
+  {
+    "filename": "0e7bf1edaf22a63ea6d2a28893aeb09d02e1c5023af88e9abb24ef85a7d596f3.webp",
+    "size": 26988,
+    "source_rel": "hyundai/models/palisade/images/0e7bf1edaf22a63ea6d2a28893aeb09d02e1c5023af88e9abb24ef85a7d596f3.webp"
+  },
+  {
+    "filename": "0e9d2f5a9f90ae1922b551baef0d94b0bbee3af964c6682e4adf5316ca967069.webp",
+    "size": 6558,
+    "source_rel": "hyundai/models/palisade/images/0e9d2f5a9f90ae1922b551baef0d94b0bbee3af964c6682e4adf5316ca967069.webp"
+  },
+  {
+    "filename": "0eac2bb1adbe44ff43e1bf13bc786b29b7990c0a7ac7d2996aac2d440c2e3619.webp",
+    "size": 3562,
+    "source_rel": "hyundai/models/palisade/images/0eac2bb1adbe44ff43e1bf13bc786b29b7990c0a7ac7d2996aac2d440c2e3619.webp"
+  },
+  {
+    "filename": "0ec8da77c04de3dcd5003a9d6ca75146afad9a43a2eee905167d17aef09333b7.webp",
+    "size": 14764,
+    "source_rel": "hyundai/models/palisade/images/0ec8da77c04de3dcd5003a9d6ca75146afad9a43a2eee905167d17aef09333b7.webp"
+  },
+  {
+    "filename": "0ede432938a1b73bc1e149442d0c4173bcf6a87488c5b397735701521818db70.webp",
+    "size": 11440,
+    "source_rel": "hyundai/models/palisade/images/0ede432938a1b73bc1e149442d0c4173bcf6a87488c5b397735701521818db70.webp"
+  },
+  {
+    "filename": "0ef0428e3c8a31fa1fa78c48dd30be836b2676f294337f86f18d2642c10c2c55.webp",
+    "size": 3002,
+    "source_rel": "hyundai/models/palisade/images/0ef0428e3c8a31fa1fa78c48dd30be836b2676f294337f86f18d2642c10c2c55.webp"
+  },
+  {
+    "filename": "0ef66a9d08bda44db38c32ab0bce166402b3300d65ba1183280ea0e620fb5e05.webp",
+    "size": 38950,
+    "source_rel": "hyundai/models/palisade/images/0ef66a9d08bda44db38c32ab0bce166402b3300d65ba1183280ea0e620fb5e05.webp"
+  },
+  {
+    "filename": "0ef6a461022a43e21b2a9e9cada691d10decb601d30319d2b6f8987040946149.webp",
+    "size": 44042,
+    "source_rel": "hyundai/models/palisade/images/0ef6a461022a43e21b2a9e9cada691d10decb601d30319d2b6f8987040946149.webp"
+  },
+  {
+    "filename": "0ef79c0d26fd839e641424bbdaff369df4a23a72861ae4c75fddd7c13b492c78.webp",
+    "size": 20404,
+    "source_rel": "hyundai/models/palisade/images/0ef79c0d26fd839e641424bbdaff369df4a23a72861ae4c75fddd7c13b492c78.webp"
+  },
+  {
+    "filename": "0f1c4a84de4c7101ea8f0055ea2a8837a08281c1a8eb2c8c92c6245010ffc62f.webp",
+    "size": 530,
+    "source_rel": "hyundai/models/palisade/images/0f1c4a84de4c7101ea8f0055ea2a8837a08281c1a8eb2c8c92c6245010ffc62f.webp"
+  },
+  {
+    "filename": "0f1ce52825ea6bf85614cd935c3640e41e9b31fee6e530e6164cf012e9df8a81.webp",
+    "size": 23218,
+    "source_rel": "hyundai/models/palisade/images/0f1ce52825ea6bf85614cd935c3640e41e9b31fee6e530e6164cf012e9df8a81.webp"
+  },
+  {
+    "filename": "0f3714b2f136d4e0762e74557861fa9f8b16ec93d437fe3bedf577b83620c6ae.webp",
+    "size": 18764,
+    "source_rel": "hyundai/models/palisade/images/0f3714b2f136d4e0762e74557861fa9f8b16ec93d437fe3bedf577b83620c6ae.webp"
+  },
+  {
+    "filename": "0f44569022c6b25eac3ae906d97ce46dd48d3a39eb93cadce28eabb355fb16f2.webp",
+    "size": 11348,
+    "source_rel": "hyundai/models/palisade/images/0f44569022c6b25eac3ae906d97ce46dd48d3a39eb93cadce28eabb355fb16f2.webp"
+  },
+  {
+    "filename": "0f48d9636e71c9560588facbc2744be461743aa3bd83a85d1c0f6050c51fea76.webp",
+    "size": 9694,
+    "source_rel": "hyundai/models/palisade/images/0f48d9636e71c9560588facbc2744be461743aa3bd83a85d1c0f6050c51fea76.webp"
+  },
+  {
+    "filename": "0f4e9323ff0bc01b01a18abe09a54bb660691843c327d59c85d569e07d81b6fd.webp",
+    "size": 19202,
+    "source_rel": "hyundai/models/palisade/images/0f4e9323ff0bc01b01a18abe09a54bb660691843c327d59c85d569e07d81b6fd.webp"
+  },
+  {
+    "filename": "0f5061d0d925eef71211440102d1763738549199bd2e8e3782aef3b460428128.webp",
+    "size": 15394,
+    "source_rel": "hyundai/models/palisade/images/0f5061d0d925eef71211440102d1763738549199bd2e8e3782aef3b460428128.webp"
+  },
+  {
+    "filename": "0f56b693a2bf70fffdbd99a3c1c437bda9612ac4cf025ce24a576efc8f590ac8.webp",
+    "size": 8670,
+    "source_rel": "hyundai/models/palisade/images/0f56b693a2bf70fffdbd99a3c1c437bda9612ac4cf025ce24a576efc8f590ac8.webp"
+  },
+  {
+    "filename": "0f610faa68985afec8ef154546a3efb25ad4c3fb685bc4b37316e6b9e785c048.webp",
+    "size": 2590,
+    "source_rel": "hyundai/models/palisade/images/0f610faa68985afec8ef154546a3efb25ad4c3fb685bc4b37316e6b9e785c048.webp"
+  },
+  {
+    "filename": "0fd0d8989b9086484f2ba4ee767f785d7f3f6aa05f5d1d399cd11715db2aeca8.webp",
+    "size": 3150,
+    "source_rel": "hyundai/models/palisade/images/0fd0d8989b9086484f2ba4ee767f785d7f3f6aa05f5d1d399cd11715db2aeca8.webp"
+  },
+  {
+    "filename": "0fd13367083065c75d4e0a75285bd4e654501db9f2d02fa6d842cf99d809ab86.webp",
+    "size": 8464,
+    "source_rel": "hyundai/models/palisade/images/0fd13367083065c75d4e0a75285bd4e654501db9f2d02fa6d842cf99d809ab86.webp"
+  },
+  {
+    "filename": "0fd553c6c19b43aa7e4348f529cd65e11b8c3bdaab356e3df54e6dc04c33086e.webp",
+    "size": 3680,
+    "source_rel": "hyundai/models/palisade/images/0fd553c6c19b43aa7e4348f529cd65e11b8c3bdaab356e3df54e6dc04c33086e.webp"
+  },
+  {
+    "filename": "0ff164f96b0bea731a74d7b4bc08ed5cf956e8d88be4f75184e1cc8e220fed4e.webp",
+    "size": 185324,
+    "source_rel": "hyundai/models/palisade/images/0ff164f96b0bea731a74d7b4bc08ed5cf956e8d88be4f75184e1cc8e220fed4e.webp"
+  },
+  {
+    "filename": "101034f6841f0350987b8fad45454fddb99c81e51d3c15bc1fcb1f449e05ddb7.webp",
+    "size": 11642,
+    "source_rel": "hyundai/models/palisade/images/101034f6841f0350987b8fad45454fddb99c81e51d3c15bc1fcb1f449e05ddb7.webp"
+  },
+  {
+    "filename": "10195f36324b555d89caba0f54b0e78722c32576c0802a2ea66adac436377ec9.webp",
+    "size": 25962,
+    "source_rel": "hyundai/models/palisade/images/10195f36324b555d89caba0f54b0e78722c32576c0802a2ea66adac436377ec9.webp"
+  },
+  {
+    "filename": "101c530a1c4d8f9b440b438fce4ccf03cb9522c00da1dcaa53bab68bae8a4637.webp",
+    "size": 3566,
+    "source_rel": "hyundai/models/palisade/images/101c530a1c4d8f9b440b438fce4ccf03cb9522c00da1dcaa53bab68bae8a4637.webp"
+  },
+  {
+    "filename": "1029445f1eef54a8c9e85d951ff1a742d4cb12ba66b7e9b5e66cf0f57b9d75e0.webp",
+    "size": 63208,
+    "source_rel": "hyundai/models/palisade/images/1029445f1eef54a8c9e85d951ff1a742d4cb12ba66b7e9b5e66cf0f57b9d75e0.webp"
+  },
+  {
+    "filename": "1031245226a77c9dc82815126d3a6b65eba77000f8a011d2589d51d96d048eaa.webp",
+    "size": 11372,
+    "source_rel": "hyundai/models/palisade/images/1031245226a77c9dc82815126d3a6b65eba77000f8a011d2589d51d96d048eaa.webp"
+  },
+  {
+    "filename": "1066a7be977ace1e19d445fb79176b7801ebd12ac0d1243bd095f584f88bca8f.webp",
+    "size": 8410,
+    "source_rel": "hyundai/models/palisade/images/1066a7be977ace1e19d445fb79176b7801ebd12ac0d1243bd095f584f88bca8f.webp"
+  },
+  {
+    "filename": "106d417df5fb8be49724faf573905748b20058b86093f6c63213c5149b33ff2e.webp",
+    "size": 4896,
+    "source_rel": "hyundai/models/palisade/images/106d417df5fb8be49724faf573905748b20058b86093f6c63213c5149b33ff2e.webp"
+  },
+  {
+    "filename": "106e82f555fe3a34a447497c4f82a2578ca1ba871086f1f146f790ecb2839f44.webp",
+    "size": 11104,
+    "source_rel": "hyundai/models/palisade/images/106e82f555fe3a34a447497c4f82a2578ca1ba871086f1f146f790ecb2839f44.webp"
+  },
+  {
+    "filename": "10712d8bbf3f9ad1457d20df3a1fc96257dc28d7bbdae00b3eae17377415d540.webp",
+    "size": 2294,
+    "source_rel": "hyundai/models/palisade/images/10712d8bbf3f9ad1457d20df3a1fc96257dc28d7bbdae00b3eae17377415d540.webp"
+  },
+  {
+    "filename": "107550e0e202423a8df0e5f29db8fb6cceb5c2d27008f7257b794fe01d91288c.webp",
+    "size": 9530,
+    "source_rel": "hyundai/models/palisade/images/107550e0e202423a8df0e5f29db8fb6cceb5c2d27008f7257b794fe01d91288c.webp"
+  },
+  {
+    "filename": "107820da4bf6c1b9be4398bf08440169505ad385958bfa5ea6ed03ad32f422ce.webp",
+    "size": 2838,
+    "source_rel": "hyundai/models/palisade/images/107820da4bf6c1b9be4398bf08440169505ad385958bfa5ea6ed03ad32f422ce.webp"
+  },
+  {
+    "filename": "10884006aaf1c44711100e437c00c86ecf759be268d32922a3fea23b491c24d7.webp",
+    "size": 17682,
+    "source_rel": "hyundai/models/palisade/images/10884006aaf1c44711100e437c00c86ecf759be268d32922a3fea23b491c24d7.webp"
+  },
+  {
+    "filename": "10951c442fa0e645e06367c9a7ce93f52655ccd1a7363a809ac1741fe0c68082.webp",
+    "size": 28202,
+    "source_rel": "hyundai/models/palisade/images/10951c442fa0e645e06367c9a7ce93f52655ccd1a7363a809ac1741fe0c68082.webp"
+  },
+  {
+    "filename": "109a022e139ba35c65bacca280fcfdd4c22709c70d8af676cee8e0ce7b77fc5e.webp",
+    "size": 2310,
+    "source_rel": "hyundai/models/palisade/images/109a022e139ba35c65bacca280fcfdd4c22709c70d8af676cee8e0ce7b77fc5e.webp"
+  },
+  {
+    "filename": "10a56ff47695abb1b60737ab4743915b63b9ea42fa00aaa636ae1b58ad62b3bd.webp",
+    "size": 12742,
+    "source_rel": "hyundai/models/palisade/images/10a56ff47695abb1b60737ab4743915b63b9ea42fa00aaa636ae1b58ad62b3bd.webp"
+  },
+  {
+    "filename": "10ccc6b567050a0532b5bba65f5e24fd8b53545730f457f931f9cdad3a28ed19.webp",
+    "size": 10288,
+    "source_rel": "hyundai/models/palisade/images/10ccc6b567050a0532b5bba65f5e24fd8b53545730f457f931f9cdad3a28ed19.webp"
+  },
+  {
+    "filename": "10d54e1afab3bc26a2ceb7aa9bada933cf7f45046b97688f63ad7a5c039f2aee.webp",
+    "size": 13476,
+    "source_rel": "hyundai/models/palisade/images/10d54e1afab3bc26a2ceb7aa9bada933cf7f45046b97688f63ad7a5c039f2aee.webp"
+  },
+  {
+    "filename": "10f44483a2c61def788958df0aa9d83b8b52b82f67a710731988a1279c37e4f7.webp",
+    "size": 4358,
+    "source_rel": "hyundai/models/palisade/images/10f44483a2c61def788958df0aa9d83b8b52b82f67a710731988a1279c37e4f7.webp"
+  },
+  {
+    "filename": "110119349fd3eba21d89da8ea0fbe1045631144007a1bd583a27a2abb95da9cf.webp",
+    "size": 8074,
+    "source_rel": "hyundai/models/palisade/images/110119349fd3eba21d89da8ea0fbe1045631144007a1bd583a27a2abb95da9cf.webp"
+  },
+  {
+    "filename": "1102ac15ced96cd2399fe226c9449eea0c1fdeb2d0ecbe4b4175b8ac97d48758.webp",
+    "size": 13450,
+    "source_rel": "hyundai/models/palisade/images/1102ac15ced96cd2399fe226c9449eea0c1fdeb2d0ecbe4b4175b8ac97d48758.webp"
+  },
+  {
+    "filename": "110777119824ab991e971878f520a4d183d09496da229f9bca24e31398021dab.webp",
+    "size": 3504,
+    "source_rel": "hyundai/models/palisade/images/110777119824ab991e971878f520a4d183d09496da229f9bca24e31398021dab.webp"
+  },
+  {
+    "filename": "110c29e5adfe528938bad743276b2b589cec3c0c617fc41677e4db70c6f02dd1.webp",
+    "size": 34656,
+    "source_rel": "hyundai/models/palisade/images/110c29e5adfe528938bad743276b2b589cec3c0c617fc41677e4db70c6f02dd1.webp"
+  },
+  {
+    "filename": "11257482004dab0b29d8a3c9df1926d581f81a2b833aac106d0f2d8540dda41f.webp",
+    "size": 15702,
+    "source_rel": "hyundai/models/palisade/images/11257482004dab0b29d8a3c9df1926d581f81a2b833aac106d0f2d8540dda41f.webp"
+  },
+  {
+    "filename": "113168b112f22013fb9f4d4ef6857380b21edaf12d57f28140b1444fdd1dd01d.webp",
+    "size": 8422,
+    "source_rel": "hyundai/models/palisade/images/113168b112f22013fb9f4d4ef6857380b21edaf12d57f28140b1444fdd1dd01d.webp"
+  },
+  {
+    "filename": "113b428ba45412857ee849ca631f63bfe0a048c8ff1b43c2da7367cd00c04120.webp",
+    "size": 9836,
+    "source_rel": "hyundai/models/palisade/images/113b428ba45412857ee849ca631f63bfe0a048c8ff1b43c2da7367cd00c04120.webp"
+  },
+  {
+    "filename": "1154364e09f6b69d763627382943b6e3a8da5658c1ce71290d620b9008a95c3b.webp",
+    "size": 8096,
+    "source_rel": "hyundai/models/palisade/images/1154364e09f6b69d763627382943b6e3a8da5658c1ce71290d620b9008a95c3b.webp"
+  },
+  {
+    "filename": "1178ec448167c30df03b110e3f1172be613f9e6e1771551c022db15253e98796.webp",
+    "size": 1772,
+    "source_rel": "hyundai/models/palisade/images/1178ec448167c30df03b110e3f1172be613f9e6e1771551c022db15253e98796.webp"
+  },
+  {
+    "filename": "1189617114ca83c4c84aac6fa069de24918378d847be2a312e0467d24ad9a7da.webp",
+    "size": 51588,
+    "source_rel": "hyundai/models/palisade/images/1189617114ca83c4c84aac6fa069de24918378d847be2a312e0467d24ad9a7da.webp"
+  },
+  {
+    "filename": "118f83c3ee0a19600faa90cfdea5591ec89d9e7050f3ebf3355377905693b29c.webp",
+    "size": 5984,
+    "source_rel": "hyundai/models/palisade/images/118f83c3ee0a19600faa90cfdea5591ec89d9e7050f3ebf3355377905693b29c.webp"
+  },
+  {
+    "filename": "11926670dc9d3fd089598307a26dbb4799bf579f5e826ebca6dac42282c18427.webp",
+    "size": 8996,
+    "source_rel": "hyundai/models/palisade/images/11926670dc9d3fd089598307a26dbb4799bf579f5e826ebca6dac42282c18427.webp"
+  },
+  {
+    "filename": "11a507366834e33ec0780a54a1620f5019f7048862cc95a618ed9291b2d7aa7e.webp",
+    "size": 11466,
+    "source_rel": "hyundai/models/palisade/images/11a507366834e33ec0780a54a1620f5019f7048862cc95a618ed9291b2d7aa7e.webp"
+  },
+  {
+    "filename": "11c6d91faf9e4deb73a88cbf229fca7452e6df211ea7413ba48919f4b0bf3aa6.webp",
+    "size": 13756,
+    "source_rel": "hyundai/models/palisade/images/11c6d91faf9e4deb73a88cbf229fca7452e6df211ea7413ba48919f4b0bf3aa6.webp"
+  },
+  {
+    "filename": "11d4d4680dabdb9377a7c043ff0ed8034aca89b222be5d22dacb3b084e3586d7.webp",
+    "size": 4966,
+    "source_rel": "hyundai/models/palisade/images/11d4d4680dabdb9377a7c043ff0ed8034aca89b222be5d22dacb3b084e3586d7.webp"
+  },
+  {
+    "filename": "11deaf8ee9697242316b27ba0900875a9eb0062ec3c4100795cbaf07a3d7afd3.webp",
+    "size": 12602,
+    "source_rel": "hyundai/models/palisade/images/11deaf8ee9697242316b27ba0900875a9eb0062ec3c4100795cbaf07a3d7afd3.webp"
+  },
+  {
+    "filename": "11e1f24b1a63ec149dec9596c9d2afbc67cbe95a6ac49f823eccef59e864614b.webp",
+    "size": 13076,
+    "source_rel": "hyundai/models/palisade/images/11e1f24b1a63ec149dec9596c9d2afbc67cbe95a6ac49f823eccef59e864614b.webp"
+  },
+  {
+    "filename": "11f369095c92022797e9552b3bcfc9ffc9bae32009d1f485aa3a9a9ff1fef2f0.webp",
+    "size": 38416,
+    "source_rel": "hyundai/models/palisade/images/11f369095c92022797e9552b3bcfc9ffc9bae32009d1f485aa3a9a9ff1fef2f0.webp"
+  },
+  {
+    "filename": "12078de3384c1702d38c0219228db4534da8faf06f5a9efc6ad7e598e3ad2ecc.webp",
+    "size": 23352,
+    "source_rel": "hyundai/models/palisade/images/12078de3384c1702d38c0219228db4534da8faf06f5a9efc6ad7e598e3ad2ecc.webp"
+  },
+  {
+    "filename": "1207f9e325ee6839547c37cb978f7b1e57327870787d9cbcd648fd530994847a.webp",
+    "size": 4680,
+    "source_rel": "hyundai/models/palisade/images/1207f9e325ee6839547c37cb978f7b1e57327870787d9cbcd648fd530994847a.webp"
+  },
+  {
+    "filename": "121ebd47d8c2a375dad7a5b9a17b16aa100a2e7f3349ecda21ed88af38d990af.webp",
+    "size": 12884,
+    "source_rel": "hyundai/models/palisade/images/121ebd47d8c2a375dad7a5b9a17b16aa100a2e7f3349ecda21ed88af38d990af.webp"
+  },
+  {
+    "filename": "1223a69ecd9af788ea25157fc66c77f250f1e5ef4339d7a069a127359b9b47a8.webp",
+    "size": 6318,
+    "source_rel": "hyundai/models/palisade/images/1223a69ecd9af788ea25157fc66c77f250f1e5ef4339d7a069a127359b9b47a8.webp"
+  },
+  {
+    "filename": "1241999f2a374d39ce9cc26ba84c5425e1fc79a98da72bebcdba458d2eea0498.webp",
+    "size": 16544,
+    "source_rel": "hyundai/models/palisade/images/1241999f2a374d39ce9cc26ba84c5425e1fc79a98da72bebcdba458d2eea0498.webp"
+  },
+  {
+    "filename": "125db2a6552b744013a69f68d59f282368599278a22b5990138a428f376623e8.webp",
+    "size": 6660,
+    "source_rel": "hyundai/models/palisade/images/125db2a6552b744013a69f68d59f282368599278a22b5990138a428f376623e8.webp"
+  },
+  {
+    "filename": "1281aa33af0780dc60d6370cce678c47dfbfae4ab7c2214ed93dc679b866e193.webp",
+    "size": 5582,
+    "source_rel": "hyundai/models/palisade/images/1281aa33af0780dc60d6370cce678c47dfbfae4ab7c2214ed93dc679b866e193.webp"
+  },
+  {
+    "filename": "1283d5bd34b93a26478654d75572e2956eddb8ba45739a200f2210b7eec2bc89.webp",
+    "size": 11826,
+    "source_rel": "hyundai/models/palisade/images/1283d5bd34b93a26478654d75572e2956eddb8ba45739a200f2210b7eec2bc89.webp"
+  },
+  {
+    "filename": "129da545e83beb466186c457fee367155578912c33726def9dec9ba3fe3e538d.webp",
+    "size": 6350,
+    "source_rel": "hyundai/models/palisade/images/129da545e83beb466186c457fee367155578912c33726def9dec9ba3fe3e538d.webp"
+  },
+  {
+    "filename": "12a665df6d75aff2f970fcd3ec8a6678d4f4522047668cbae61c70388feb63e5.webp",
+    "size": 3834,
+    "source_rel": "hyundai/models/palisade/images/12a665df6d75aff2f970fcd3ec8a6678d4f4522047668cbae61c70388feb63e5.webp"
+  },
+  {
+    "filename": "13079ada0bb8c58faa3fe3eff6235b1c20ffac1fd58276f72ff42ba76c159754.webp",
+    "size": 10130,
+    "source_rel": "hyundai/models/palisade/images/13079ada0bb8c58faa3fe3eff6235b1c20ffac1fd58276f72ff42ba76c159754.webp"
+  },
+  {
+    "filename": "130836056e580ed84828f59dd8895453dbf5ac80c12e58a4c2ca30ae8a39840a.webp",
+    "size": 9306,
+    "source_rel": "hyundai/models/palisade/images/130836056e580ed84828f59dd8895453dbf5ac80c12e58a4c2ca30ae8a39840a.webp"
+  },
+  {
+    "filename": "13431f4bf79b30d9107ccaeaabc2e5355bea088316958d904607402d08886938.webp",
+    "size": 3776,
+    "source_rel": "hyundai/models/palisade/images/13431f4bf79b30d9107ccaeaabc2e5355bea088316958d904607402d08886938.webp"
+  },
+  {
+    "filename": "13436d5d610a98e19e15ecc09529acfe3bf3738e6377d556a15c92193ca848c9.webp",
+    "size": 8866,
+    "source_rel": "hyundai/models/palisade/images/13436d5d610a98e19e15ecc09529acfe3bf3738e6377d556a15c92193ca848c9.webp"
+  },
+  {
+    "filename": "13441c3f061b3d8f5e1e03bdd7e52d7d70ee3ae5c66189cf7a968674743e8e54.webp",
+    "size": 11826,
+    "source_rel": "hyundai/models/palisade/images/13441c3f061b3d8f5e1e03bdd7e52d7d70ee3ae5c66189cf7a968674743e8e54.webp"
+  },
+  {
+    "filename": "134da56e1c209d6cf590b3f93672359a31f18143630ac9e101346b743b31263a.webp",
+    "size": 9058,
+    "source_rel": "hyundai/models/palisade/images/134da56e1c209d6cf590b3f93672359a31f18143630ac9e101346b743b31263a.webp"
+  },
+  {
+    "filename": "134fb51046db20dd6c12393cce80e341d4b6f5e0c282f3e507a54d2c325de0fe.webp",
+    "size": 7456,
+    "source_rel": "hyundai/models/palisade/images/134fb51046db20dd6c12393cce80e341d4b6f5e0c282f3e507a54d2c325de0fe.webp"
+  },
+  {
+    "filename": "13594e70bd0317ddca0d525e695091ca69b04eac404810205d353f9f5a51a6ec.webp",
+    "size": 10224,
+    "source_rel": "hyundai/models/palisade/images/13594e70bd0317ddca0d525e695091ca69b04eac404810205d353f9f5a51a6ec.webp"
+  },
+  {
+    "filename": "136d9ae498e507750926d3583ad6a68248f3233c144dc004548eededf6538344.webp",
+    "size": 62616,
+    "source_rel": "hyundai/models/palisade/images/136d9ae498e507750926d3583ad6a68248f3233c144dc004548eededf6538344.webp"
+  },
+  {
+    "filename": "1381548ed6f703c1966c1b6d5ce9c7c8420e035351e448645755e3bd3324976b.webp",
+    "size": 9036,
+    "source_rel": "hyundai/models/palisade/images/1381548ed6f703c1966c1b6d5ce9c7c8420e035351e448645755e3bd3324976b.webp"
+  },
+  {
+    "filename": "13a86c589ab6ce5d969d7ca8638d269129e040a9a5d6b24f277ffec3ae1db51a.webp",
+    "size": 10556,
+    "source_rel": "hyundai/models/palisade/images/13a86c589ab6ce5d969d7ca8638d269129e040a9a5d6b24f277ffec3ae1db51a.webp"
+  },
+  {
+    "filename": "13c8549ed13caf1eba8c5b008b375a1a9264ce34a31755efcaa2ebd79b58ebbd.webp",
+    "size": 14500,
+    "source_rel": "hyundai/models/palisade/images/13c8549ed13caf1eba8c5b008b375a1a9264ce34a31755efcaa2ebd79b58ebbd.webp"
+  },
+  {
+    "filename": "13d5f3f069265b93c940403aba52ffb4a30e04b49fbd5a8150673bd7aee72145.webp",
+    "size": 42580,
+    "source_rel": "hyundai/models/palisade/images/13d5f3f069265b93c940403aba52ffb4a30e04b49fbd5a8150673bd7aee72145.webp"
+  },
+  {
+    "filename": "13e165cfe1536778b5fc18aff078cccfe8085a7838a0f4aaadf1ffaf387976de.webp",
+    "size": 10622,
+    "source_rel": "hyundai/models/palisade/images/13e165cfe1536778b5fc18aff078cccfe8085a7838a0f4aaadf1ffaf387976de.webp"
+  },
+  {
+    "filename": "1419b034cd7aab65f628afad8070674c1f353de21b37a371b6946a5c52d3ec2e.webp",
+    "size": 6312,
+    "source_rel": "hyundai/models/palisade/images/1419b034cd7aab65f628afad8070674c1f353de21b37a371b6946a5c52d3ec2e.webp"
+  },
+  {
+    "filename": "14263f1b7211562524a327746f1685efd0a7015afb8c6d7a36e1f831d3717a07.webp",
+    "size": 17660,
+    "source_rel": "hyundai/models/palisade/images/14263f1b7211562524a327746f1685efd0a7015afb8c6d7a36e1f831d3717a07.webp"
+  },
+  {
+    "filename": "1428139a8c7e48d9364e37326bf060be3c54f7177556cb0728e36e363a1819b3.webp",
+    "size": 10494,
+    "source_rel": "hyundai/models/palisade/images/1428139a8c7e48d9364e37326bf060be3c54f7177556cb0728e36e363a1819b3.webp"
+  },
+  {
+    "filename": "1433c91d173dcaeb91cbd0f1a07cd555a7980acd9cfad1d4d240a0d421662df0.webp",
+    "size": 13522,
+    "source_rel": "hyundai/models/palisade/images/1433c91d173dcaeb91cbd0f1a07cd555a7980acd9cfad1d4d240a0d421662df0.webp"
+  },
+  {
+    "filename": "144aea5ee77b600bff4b981dc6eeeb53fc294021eca70c71273f999d78366693.webp",
+    "size": 27506,
+    "source_rel": "hyundai/models/palisade/images/144aea5ee77b600bff4b981dc6eeeb53fc294021eca70c71273f999d78366693.webp"
+  },
+  {
+    "filename": "14526b0bd379a51701e51314e3310f49c38c761ccf5c8ba04b44db4643a0c57e.webp",
+    "size": 618,
+    "source_rel": "hyundai/models/palisade/images/14526b0bd379a51701e51314e3310f49c38c761ccf5c8ba04b44db4643a0c57e.webp"
+  },
+  {
+    "filename": "145ec38ca2e7ab41c14892b2d70a738850251239b27f6265dbe0fca9e23e867f.webp",
+    "size": 7452,
+    "source_rel": "hyundai/models/palisade/images/145ec38ca2e7ab41c14892b2d70a738850251239b27f6265dbe0fca9e23e867f.webp"
+  },
+  {
+    "filename": "146597dd056a8759883cfbd7dab341da1493dde67cf0135c20ca014879194153.webp",
+    "size": 3364,
+    "source_rel": "hyundai/models/palisade/images/146597dd056a8759883cfbd7dab341da1493dde67cf0135c20ca014879194153.webp"
+  },
+  {
+    "filename": "14797503ca8c395b70c116f0050dd1f75ee4f77191b63e972548e8ccbd4f45bf.webp",
+    "size": 3394,
+    "source_rel": "hyundai/models/palisade/images/14797503ca8c395b70c116f0050dd1f75ee4f77191b63e972548e8ccbd4f45bf.webp"
+  },
+  {
+    "filename": "148d5f3b76fa2794a59014cb358708e6f45ec1040e9fd3ae54d337c79b87274e.webp",
+    "size": 9598,
+    "source_rel": "hyundai/models/palisade/images/148d5f3b76fa2794a59014cb358708e6f45ec1040e9fd3ae54d337c79b87274e.webp"
+  },
+  {
+    "filename": "1495fcc020e0cbe514d573f33978b36d32cf65287fa8c9b1f4566fa3620f034e.webp",
+    "size": 3518,
+    "source_rel": "hyundai/models/palisade/images/1495fcc020e0cbe514d573f33978b36d32cf65287fa8c9b1f4566fa3620f034e.webp"
+  },
+  {
+    "filename": "14babe61feca83a485380b66a566c8811c1e7072b370f0f5544dae6ff205c771.webp",
+    "size": 10960,
+    "source_rel": "hyundai/models/palisade/images/14babe61feca83a485380b66a566c8811c1e7072b370f0f5544dae6ff205c771.webp"
+  },
+  {
+    "filename": "14c082f5262dc054c308098b33dec4347b1ae7f218a4726526f20a06552566e6.webp",
+    "size": 6456,
+    "source_rel": "hyundai/models/palisade/images/14c082f5262dc054c308098b33dec4347b1ae7f218a4726526f20a06552566e6.webp"
+  },
+  {
+    "filename": "14d6cdfd1c3e714529d72ea21750583aef436c24eb27330bffc96fda837e3bde.webp",
+    "size": 2626,
+    "source_rel": "hyundai/models/palisade/images/14d6cdfd1c3e714529d72ea21750583aef436c24eb27330bffc96fda837e3bde.webp"
+  },
+  {
+    "filename": "151a216f61d16dac0fb25f660b57db8c5f5d8d8d9098199d950c6d7cf8341a53.webp",
+    "size": 2726,
+    "source_rel": "hyundai/models/palisade/images/151a216f61d16dac0fb25f660b57db8c5f5d8d8d9098199d950c6d7cf8341a53.webp"
+  },
+  {
+    "filename": "151ecc85c76aac05891442ddf39d3db119cceeaffe49983292240169925ee98b.webp",
+    "size": 2964,
+    "source_rel": "hyundai/models/palisade/images/151ecc85c76aac05891442ddf39d3db119cceeaffe49983292240169925ee98b.webp"
+  },
+  {
+    "filename": "1521077f2244e1de2e395b1833db3852fc3aa598076c16bd7343ee221412f7d5.webp",
+    "size": 11772,
+    "source_rel": "hyundai/models/palisade/images/1521077f2244e1de2e395b1833db3852fc3aa598076c16bd7343ee221412f7d5.webp"
+  },
+  {
+    "filename": "1545356ce837ec366061a57f7e8e66185145256df206f32b184d96291a882c5c.webp",
+    "size": 6726,
+    "source_rel": "hyundai/models/palisade/images/1545356ce837ec366061a57f7e8e66185145256df206f32b184d96291a882c5c.webp"
+  },
+  {
+    "filename": "154bcd2291b93ae6392be41a574217adc498319a668945a7ddaea2f96f050744.webp",
+    "size": 86878,
+    "source_rel": "hyundai/models/palisade/images/154bcd2291b93ae6392be41a574217adc498319a668945a7ddaea2f96f050744.webp"
+  },
+  {
+    "filename": "154f8cdac0d5cac0691428b8621b8054cc9b8421dc1d4f8d7860cde685393ff4.webp",
+    "size": 3450,
+    "source_rel": "hyundai/models/palisade/images/154f8cdac0d5cac0691428b8621b8054cc9b8421dc1d4f8d7860cde685393ff4.webp"
+  },
+  {
+    "filename": "1554aee1f5673a5c48f1011776a44f2d1cb33e79b6cf62baf6ec86d59f3eeade.webp",
+    "size": 15356,
+    "source_rel": "hyundai/models/palisade/images/1554aee1f5673a5c48f1011776a44f2d1cb33e79b6cf62baf6ec86d59f3eeade.webp"
+  },
+  {
+    "filename": "1570ee2ceacf1195a9255e7bc0ce26a3e75be81a5512be0ae732f94070a9846b.webp",
+    "size": 14738,
+    "source_rel": "hyundai/models/palisade/images/1570ee2ceacf1195a9255e7bc0ce26a3e75be81a5512be0ae732f94070a9846b.webp"
+  },
+  {
+    "filename": "15760839a7d546f2613a5fb49ebd1371e4adde493748497d30fc7710cd8b7f0c.webp",
+    "size": 18412,
+    "source_rel": "hyundai/models/palisade/images/15760839a7d546f2613a5fb49ebd1371e4adde493748497d30fc7710cd8b7f0c.webp"
+  },
+  {
+    "filename": "15a2ecfe33620eda190767d14a46fa50772b701a95cbbab9a398c297a9985d35.webp",
+    "size": 534,
+    "source_rel": "hyundai/models/palisade/images/15a2ecfe33620eda190767d14a46fa50772b701a95cbbab9a398c297a9985d35.webp"
+  },
+  {
+    "filename": "15a3303461cf9e881fc2dd435bcc0d84d2f2dfa87318c8b26c0dae5757bfdd07.webp",
+    "size": 8566,
+    "source_rel": "hyundai/models/palisade/images/15a3303461cf9e881fc2dd435bcc0d84d2f2dfa87318c8b26c0dae5757bfdd07.webp"
+  },
+  {
+    "filename": "15a6b96f082e734e40aef26885108536056994f1ac48c7d345f8e111381e5e8c.webp",
+    "size": 4554,
+    "source_rel": "hyundai/models/palisade/images/15a6b96f082e734e40aef26885108536056994f1ac48c7d345f8e111381e5e8c.webp"
+  },
+  {
+    "filename": "15c456724b9e224c55e090457c4250842f453b93a47ddba78f29a6a56a85ebf2.webp",
+    "size": 89486,
+    "source_rel": "hyundai/models/palisade/images/15c456724b9e224c55e090457c4250842f453b93a47ddba78f29a6a56a85ebf2.webp"
+  },
+  {
+    "filename": "15c614c21aba037767e4cd16bf96af2645134cc3b45610cdbfc0f4978af897ba.webp",
+    "size": 4004,
+    "source_rel": "hyundai/models/palisade/images/15c614c21aba037767e4cd16bf96af2645134cc3b45610cdbfc0f4978af897ba.webp"
+  },
+  {
+    "filename": "15ca11bf7b8660faf78450f429ef3146e6110d4368d25b48fa248c9de2563040.webp",
+    "size": 11396,
+    "source_rel": "hyundai/models/palisade/images/15ca11bf7b8660faf78450f429ef3146e6110d4368d25b48fa248c9de2563040.webp"
+  },
+  {
+    "filename": "15d497f201edbfdc90f422c78d22c50ee39907cb14308fb52071a14f8b51b5df.webp",
+    "size": 7630,
+    "source_rel": "hyundai/models/palisade/images/15d497f201edbfdc90f422c78d22c50ee39907cb14308fb52071a14f8b51b5df.webp"
+  },
+  {
+    "filename": "15f9464f67cdfe1d439518c059b357a343dc16277d2d4cec0b5a70d5dbffa4a7.webp",
+    "size": 6196,
+    "source_rel": "hyundai/models/palisade/images/15f9464f67cdfe1d439518c059b357a343dc16277d2d4cec0b5a70d5dbffa4a7.webp"
+  },
+  {
+    "filename": "1601149c65062825a9638fa5ef6ce5fd97b81d2629c0fc3b8a871aa665310ec1.webp",
+    "size": 4842,
+    "source_rel": "hyundai/models/palisade/images/1601149c65062825a9638fa5ef6ce5fd97b81d2629c0fc3b8a871aa665310ec1.webp"
+  },
+  {
+    "filename": "16268336f34d95f2526bce56d5aa5947d9f9551fa4acfb43a084b51983ced271.webp",
+    "size": 21340,
+    "source_rel": "hyundai/models/palisade/images/16268336f34d95f2526bce56d5aa5947d9f9551fa4acfb43a084b51983ced271.webp"
+  },
+  {
+    "filename": "16304bed29322448b6518c4f181ab6be37244d1d02ca2aec12de86c110d254e0.webp",
+    "size": 3294,
+    "source_rel": "hyundai/models/palisade/images/16304bed29322448b6518c4f181ab6be37244d1d02ca2aec12de86c110d254e0.webp"
+  },
+  {
+    "filename": "16324fcbc987e52da9c6e72b9a536f3eba48b3c4ee0600e580b5935093a9bf65.webp",
+    "size": 5984,
+    "source_rel": "hyundai/models/palisade/images/16324fcbc987e52da9c6e72b9a536f3eba48b3c4ee0600e580b5935093a9bf65.webp"
+  },
+  {
+    "filename": "16b4d2486ad636b5ddebc03fd8c14bef363b973ce5fe78e613271337ecfb0dc2.webp",
+    "size": 12514,
+    "source_rel": "hyundai/models/palisade/images/16b4d2486ad636b5ddebc03fd8c14bef363b973ce5fe78e613271337ecfb0dc2.webp"
+  },
+  {
+    "filename": "16c2171101df1dc9d8d4fcde8d7d333ab94ebf00a2b41c1b3f8cb73285454a93.webp",
+    "size": 488,
+    "source_rel": "hyundai/models/palisade/images/16c2171101df1dc9d8d4fcde8d7d333ab94ebf00a2b41c1b3f8cb73285454a93.webp"
+  },
+  {
+    "filename": "170558b8e334562bfff22083db4c5a5dd0268ddf3087d51ecd80856e51996c3d.webp",
+    "size": 6272,
+    "source_rel": "hyundai/models/palisade/images/170558b8e334562bfff22083db4c5a5dd0268ddf3087d51ecd80856e51996c3d.webp"
+  },
+  {
+    "filename": "17182672bd22466a2ad9e9cd953ad5bdc7f4a654c5a9d66c655124917b3624a4.webp",
+    "size": 17048,
+    "source_rel": "hyundai/models/palisade/images/17182672bd22466a2ad9e9cd953ad5bdc7f4a654c5a9d66c655124917b3624a4.webp"
+  },
+  {
+    "filename": "174561845c72005a64068c92f29d0d9f1974ca7d547868f6700dd8f814335a0d.webp",
+    "size": 2372,
+    "source_rel": "hyundai/models/palisade/images/174561845c72005a64068c92f29d0d9f1974ca7d547868f6700dd8f814335a0d.webp"
+  },
+  {
+    "filename": "17469a2b1c85eb6c46b8f096245e8287cd2cf655bafad0e13e82c197294d4378.webp",
+    "size": 10630,
+    "source_rel": "hyundai/models/palisade/images/17469a2b1c85eb6c46b8f096245e8287cd2cf655bafad0e13e82c197294d4378.webp"
+  },
+  {
+    "filename": "1753b8ca97271908dee24dbf4aec60dea2d8685700b579129c6a87d6dd39099e.webp",
+    "size": 5232,
+    "source_rel": "hyundai/models/palisade/images/1753b8ca97271908dee24dbf4aec60dea2d8685700b579129c6a87d6dd39099e.webp"
+  },
+  {
+    "filename": "178423873898a3dfb30fdad76ea97b09974d6f2649d3c96fbd727609c97e5f5c.webp",
+    "size": 7420,
+    "source_rel": "hyundai/models/palisade/images/178423873898a3dfb30fdad76ea97b09974d6f2649d3c96fbd727609c97e5f5c.webp"
+  },
+  {
+    "filename": "17851774182ffe0677662123631c7accca140905f99cc78784f208bcdea3b5a4.webp",
+    "size": 2900,
+    "source_rel": "hyundai/models/palisade/images/17851774182ffe0677662123631c7accca140905f99cc78784f208bcdea3b5a4.webp"
+  },
+  {
+    "filename": "17a02c61d619724e55fcdf0cd428b3b4c7d2afa89848ff678b81a5236b29b9aa.webp",
+    "size": 17564,
+    "source_rel": "hyundai/models/palisade/images/17a02c61d619724e55fcdf0cd428b3b4c7d2afa89848ff678b81a5236b29b9aa.webp"
+  },
+  {
+    "filename": "17ba29c4d4700c23c3f96597bb7a010b3eb82946547387fc7ec7a0e266caba37.webp",
+    "size": 17426,
+    "source_rel": "hyundai/models/palisade/images/17ba29c4d4700c23c3f96597bb7a010b3eb82946547387fc7ec7a0e266caba37.webp"
+  },
+  {
+    "filename": "17e8dd0444590c4decd8a499ce0c2a3c0d4984ac336f59dba53fb6455ff3cb6d.webp",
+    "size": 18092,
+    "source_rel": "hyundai/models/palisade/images/17e8dd0444590c4decd8a499ce0c2a3c0d4984ac336f59dba53fb6455ff3cb6d.webp"
+  },
+  {
+    "filename": "17f7d9310c4c3c410cae7298cf7a027ee72a716180b11b360c0356d764ce85a3.webp",
+    "size": 50430,
+    "source_rel": "hyundai/models/palisade/images/17f7d9310c4c3c410cae7298cf7a027ee72a716180b11b360c0356d764ce85a3.webp"
+  },
+  {
+    "filename": "1809135d05928574c234992788ff8b1f3ba7a22e539646feaf89bffe5f85acaf.webp",
+    "size": 22094,
+    "source_rel": "hyundai/models/palisade/images/1809135d05928574c234992788ff8b1f3ba7a22e539646feaf89bffe5f85acaf.webp"
+  },
+  {
+    "filename": "182d7fe375de848f6a8e116a888ee3cd43f06507de46b849508c21f741e0176a.webp",
+    "size": 2058,
+    "source_rel": "hyundai/models/palisade/images/182d7fe375de848f6a8e116a888ee3cd43f06507de46b849508c21f741e0176a.webp"
+  },
+  {
+    "filename": "183a972fcb27fd2263e4185ace137592a58b0dea4543245b5b70e96122bebf1b.webp",
+    "size": 23402,
+    "source_rel": "hyundai/models/palisade/images/183a972fcb27fd2263e4185ace137592a58b0dea4543245b5b70e96122bebf1b.webp"
+  },
+  {
+    "filename": "183c5d8339cfe60198928fbc0bdbcc25ed29bb12e3e038beea1ee8be4602e8d5.webp",
+    "size": 4366,
+    "source_rel": "hyundai/models/palisade/images/183c5d8339cfe60198928fbc0bdbcc25ed29bb12e3e038beea1ee8be4602e8d5.webp"
+  },
+  {
+    "filename": "183ce670bb0d0715089eb095306ab6bb43b2a86338c10a08b05bf5687f8395eb.webp",
+    "size": 6634,
+    "source_rel": "hyundai/models/palisade/images/183ce670bb0d0715089eb095306ab6bb43b2a86338c10a08b05bf5687f8395eb.webp"
+  },
+  {
+    "filename": "18533a9cd42617a29be5413ab694891fe2f0109ede4a6dcfd95c8b791778381a.webp",
+    "size": 17988,
+    "source_rel": "hyundai/models/palisade/images/18533a9cd42617a29be5413ab694891fe2f0109ede4a6dcfd95c8b791778381a.webp"
+  },
+  {
+    "filename": "187965bb0393b0941320a76cb7bc5ca6ba59ab1f245b95bc1fe27afb55758471.webp",
+    "size": 31512,
+    "source_rel": "hyundai/models/palisade/images/187965bb0393b0941320a76cb7bc5ca6ba59ab1f245b95bc1fe27afb55758471.webp"
+  },
+  {
+    "filename": "189753be264f0734b7db3742b7624aa8151b9eb129b3a36f8e7cc2c294f0b0ca.webp",
+    "size": 38708,
+    "source_rel": "hyundai/models/palisade/images/189753be264f0734b7db3742b7624aa8151b9eb129b3a36f8e7cc2c294f0b0ca.webp"
+  },
+  {
+    "filename": "18bd54ffd43f34ed183a3ad75c027f1f793aa4ad2693dc2610516f926b98bb85.webp",
+    "size": 11504,
+    "source_rel": "hyundai/models/palisade/images/18bd54ffd43f34ed183a3ad75c027f1f793aa4ad2693dc2610516f926b98bb85.webp"
+  },
+  {
+    "filename": "18d10ae0b57c84fec0d32f1a51c56c191ea99b0a6a4c388a5ae460ff0c9afc1b.webp",
+    "size": 1866,
+    "source_rel": "hyundai/models/palisade/images/18d10ae0b57c84fec0d32f1a51c56c191ea99b0a6a4c388a5ae460ff0c9afc1b.webp"
+  },
+  {
+    "filename": "18db6ef26f2b178c69b447adeb8b72e56eb651a4f30574c6d76f2c33e1037097.webp",
+    "size": 40492,
+    "source_rel": "hyundai/models/palisade/images/18db6ef26f2b178c69b447adeb8b72e56eb651a4f30574c6d76f2c33e1037097.webp"
+  },
+  {
+    "filename": "18f9410d15c2b8a39f52059e6f33137694bc35b9d197c7964d91cb5697634878.webp",
+    "size": 22094,
+    "source_rel": "hyundai/models/palisade/images/18f9410d15c2b8a39f52059e6f33137694bc35b9d197c7964d91cb5697634878.webp"
+  },
+  {
+    "filename": "1909cc3bed40b8590900a99a29570477723d3b70d99777d1d5f352fde5550cac.webp",
+    "size": 28458,
+    "source_rel": "hyundai/models/palisade/images/1909cc3bed40b8590900a99a29570477723d3b70d99777d1d5f352fde5550cac.webp"
+  },
+  {
+    "filename": "1913da6b5d8c9df5c12c6713c7b96c817895f70f540cbcf114ff1ed964ccd2d8.webp",
+    "size": 26978,
+    "source_rel": "hyundai/models/palisade/images/1913da6b5d8c9df5c12c6713c7b96c817895f70f540cbcf114ff1ed964ccd2d8.webp"
+  },
+  {
+    "filename": "19675ecd6106f1803d0281c850ce4cde8c7db5f2761d5a9061992ca5d5e2d002.webp",
+    "size": 12986,
+    "source_rel": "hyundai/models/palisade/images/19675ecd6106f1803d0281c850ce4cde8c7db5f2761d5a9061992ca5d5e2d002.webp"
+  },
+  {
+    "filename": "197baabab4b8e44afa3b7e16cbe30dd166159f075d8d060dfca5ad3969c3d8c7.webp",
+    "size": 11802,
+    "source_rel": "hyundai/models/palisade/images/197baabab4b8e44afa3b7e16cbe30dd166159f075d8d060dfca5ad3969c3d8c7.webp"
+  },
+  {
+    "filename": "1982d950478baa40a78f7733754e947fc67ae6bb4a4a7b6bb64314ad17866bec.webp",
+    "size": 520,
+    "source_rel": "hyundai/models/palisade/images/1982d950478baa40a78f7733754e947fc67ae6bb4a4a7b6bb64314ad17866bec.webp"
+  },
+  {
+    "filename": "199004594c40147f315b8792782d25a103c1c99ea6a6b5a1f029f7a5ac108e8e.webp",
+    "size": 7044,
+    "source_rel": "hyundai/models/palisade/images/199004594c40147f315b8792782d25a103c1c99ea6a6b5a1f029f7a5ac108e8e.webp"
+  },
+  {
+    "filename": "19aaca4548ab2e69df56231634ae1cf8f42512c8d1fb157a4f9e543744b5bd6b.webp",
+    "size": 8388,
+    "source_rel": "hyundai/models/palisade/images/19aaca4548ab2e69df56231634ae1cf8f42512c8d1fb157a4f9e543744b5bd6b.webp"
+  },
+  {
+    "filename": "19b0d980d8e01e18a8059388b9a7bf541759121f1d42e07b7e534e7583d49dfc.webp",
+    "size": 12378,
+    "source_rel": "hyundai/models/palisade/images/19b0d980d8e01e18a8059388b9a7bf541759121f1d42e07b7e534e7583d49dfc.webp"
+  },
+  {
+    "filename": "19c6b3cad9ec06fa4b3bf671e77024d53938607e37175af6058ad0a94f7e5466.webp",
+    "size": 3420,
+    "source_rel": "hyundai/models/palisade/images/19c6b3cad9ec06fa4b3bf671e77024d53938607e37175af6058ad0a94f7e5466.webp"
+  },
+  {
+    "filename": "19c817eee6cb4ce5ac609d0933d3c5e8d4744f5a2c56cbc43a1debed195f48d6.webp",
+    "size": 9416,
+    "source_rel": "hyundai/models/palisade/images/19c817eee6cb4ce5ac609d0933d3c5e8d4744f5a2c56cbc43a1debed195f48d6.webp"
+  },
+  {
+    "filename": "19d004be5718ddf377db338be837a004782e56fa3c8dcec96243744e865029ce.webp",
+    "size": 8752,
+    "source_rel": "hyundai/models/palisade/images/19d004be5718ddf377db338be837a004782e56fa3c8dcec96243744e865029ce.webp"
+  },
+  {
+    "filename": "19f3f0ef9800a852f09f1f140b79355366f9d3db6856c97901aa269eaaf4160f.webp",
+    "size": 14190,
+    "source_rel": "hyundai/models/palisade/images/19f3f0ef9800a852f09f1f140b79355366f9d3db6856c97901aa269eaaf4160f.webp"
+  },
+  {
+    "filename": "1a09eec72fe66718fd7b2b1e1bc4fa9f53a43b9437b67fbff1d6fa0329a8808c.webp",
+    "size": 9076,
+    "source_rel": "hyundai/models/palisade/images/1a09eec72fe66718fd7b2b1e1bc4fa9f53a43b9437b67fbff1d6fa0329a8808c.webp"
+  },
+  {
+    "filename": "1a0b3e0ad10919033cd15847200f12e74cee57abaf2ddca30df56d78c98e4a86.webp",
+    "size": 5438,
+    "source_rel": "hyundai/models/palisade/images/1a0b3e0ad10919033cd15847200f12e74cee57abaf2ddca30df56d78c98e4a86.webp"
+  },
+  {
+    "filename": "1a1cd431fbe7fe6ce315509dac4b9e52259c7c4257e5b2403c6f32d7cfe32c39.webp",
+    "size": 15046,
+    "source_rel": "hyundai/models/palisade/images/1a1cd431fbe7fe6ce315509dac4b9e52259c7c4257e5b2403c6f32d7cfe32c39.webp"
+  },
+  {
+    "filename": "1a27e80d011dd9b261b1b5300ac08a4795da578e765a9424e40ab06c9f1b479d.webp",
+    "size": 4444,
+    "source_rel": "hyundai/models/palisade/images/1a27e80d011dd9b261b1b5300ac08a4795da578e765a9424e40ab06c9f1b479d.webp"
+  },
+  {
+    "filename": "1a2f30f8374a6e224e5b29d2944d172551de660f202bdd2768a2a258616f72aa.webp",
+    "size": 9078,
+    "source_rel": "hyundai/models/palisade/images/1a2f30f8374a6e224e5b29d2944d172551de660f202bdd2768a2a258616f72aa.webp"
+  },
+  {
+    "filename": "1a35c9142a8565cfecf5d0f647f8a0c5eaa0709c14192566dfc09e2a57b28cff.webp",
+    "size": 61478,
+    "source_rel": "hyundai/models/palisade/images/1a35c9142a8565cfecf5d0f647f8a0c5eaa0709c14192566dfc09e2a57b28cff.webp"
+  },
+  {
+    "filename": "1a49894c951071475187e6e164df3b5f39d4b4e64f30317b43d9023133a7efb5.webp",
+    "size": 9824,
+    "source_rel": "hyundai/models/palisade/images/1a49894c951071475187e6e164df3b5f39d4b4e64f30317b43d9023133a7efb5.webp"
+  },
+  {
+    "filename": "1a4cf8f67e4e9f99237e66e10a25f92ca0ab36e1db3d479d81e4fe84f439b66c.webp",
+    "size": 9494,
+    "source_rel": "hyundai/models/palisade/images/1a4cf8f67e4e9f99237e66e10a25f92ca0ab36e1db3d479d81e4fe84f439b66c.webp"
+  },
+  {
+    "filename": "1a5b32eaf72209dcd7dc5275c9073a568414ae136121be313443190e7039e748.webp",
+    "size": 25368,
+    "source_rel": "hyundai/models/palisade/images/1a5b32eaf72209dcd7dc5275c9073a568414ae136121be313443190e7039e748.webp"
+  },
+  {
+    "filename": "1a5e63cf9829351bd7f73e717cddda17e2249fa02f1a3327d722322bf5dd079f.webp",
+    "size": 11104,
+    "source_rel": "hyundai/models/palisade/images/1a5e63cf9829351bd7f73e717cddda17e2249fa02f1a3327d722322bf5dd079f.webp"
+  },
+  {
+    "filename": "1a6d6414c371e360431ee2d4f3a0044403c3ea275e434313681b9beba7758953.webp",
+    "size": 1912,
+    "source_rel": "hyundai/models/palisade/images/1a6d6414c371e360431ee2d4f3a0044403c3ea275e434313681b9beba7758953.webp"
+  },
+  {
+    "filename": "1a9c20bfe9bb20e7a42aba6dcf01e227562c34b5dbe9ba0604e8b203c5f89cf0.webp",
+    "size": 4622,
+    "source_rel": "hyundai/models/palisade/images/1a9c20bfe9bb20e7a42aba6dcf01e227562c34b5dbe9ba0604e8b203c5f89cf0.webp"
+  },
+  {
+    "filename": "1aaef3900c08d69f134dc8ef7bb72d34fa83238cf3c200bf75afb631c54fcd28.webp",
+    "size": 3528,
+    "source_rel": "hyundai/models/palisade/images/1aaef3900c08d69f134dc8ef7bb72d34fa83238cf3c200bf75afb631c54fcd28.webp"
+  },
+  {
+    "filename": "1abab9bc58b9514265866e02cbd80f78628688e51eaa209604de3bfda21bb724.webp",
+    "size": 4488,
+    "source_rel": "hyundai/models/palisade/images/1abab9bc58b9514265866e02cbd80f78628688e51eaa209604de3bfda21bb724.webp"
+  },
+  {
+    "filename": "1ac0184f684a160c9bd0c0f4b08ac4011bd6e40ddb8033595915c7c741086fc6.webp",
+    "size": 58160,
+    "source_rel": "hyundai/models/palisade/images/1ac0184f684a160c9bd0c0f4b08ac4011bd6e40ddb8033595915c7c741086fc6.webp"
+  },
+  {
+    "filename": "1ac5379f3f1d33216f62650917674e629ee267315809ecd1c649064efe55ea1a.webp",
+    "size": 65042,
+    "source_rel": "hyundai/models/palisade/images/1ac5379f3f1d33216f62650917674e629ee267315809ecd1c649064efe55ea1a.webp"
+  },
+  {
+    "filename": "1ae7f5f147423ef1a8e344915fdfe2befb3d4bda567000bc7d7a648121c29265.webp",
+    "size": 7986,
+    "source_rel": "hyundai/models/palisade/images/1ae7f5f147423ef1a8e344915fdfe2befb3d4bda567000bc7d7a648121c29265.webp"
+  },
+  {
+    "filename": "1b061521c9eb855078b830374b408b2c5503a7e2a6829536c2b8dfd923b94919.webp",
+    "size": 494,
+    "source_rel": "hyundai/models/palisade/images/1b061521c9eb855078b830374b408b2c5503a7e2a6829536c2b8dfd923b94919.webp"
+  },
+  {
+    "filename": "1b0bee50392e307f075664dc5f022d304d94fe1355aa97dad9b5b80c0769aada.webp",
+    "size": 12046,
+    "source_rel": "hyundai/models/palisade/images/1b0bee50392e307f075664dc5f022d304d94fe1355aa97dad9b5b80c0769aada.webp"
+  },
+  {
+    "filename": "1b1717e37e29f5eeff2b4bdace8d110b36965f1d6f7e105eae636a057d76c7cd.webp",
+    "size": 95004,
+    "source_rel": "hyundai/models/palisade/images/1b1717e37e29f5eeff2b4bdace8d110b36965f1d6f7e105eae636a057d76c7cd.webp"
+  },
+  {
+    "filename": "1b3288d7755aa7ff7f74ea9369795ce3dec8cb0bc5a590bab5546aa933594570.webp",
+    "size": 2798,
+    "source_rel": "hyundai/models/palisade/images/1b3288d7755aa7ff7f74ea9369795ce3dec8cb0bc5a590bab5546aa933594570.webp"
+  },
+  {
+    "filename": "1b3ed29acee757b33e879b176c3e81c8e86f0cdbbaa575c6ac78fa2bf2e902ac.webp",
+    "size": 13756,
+    "source_rel": "hyundai/models/palisade/images/1b3ed29acee757b33e879b176c3e81c8e86f0cdbbaa575c6ac78fa2bf2e902ac.webp"
+  },
+  {
+    "filename": "1b4bc97bb7aff6622c373bc74d681bd3ef9f4b3d2e87f306502b0b73ae089408.webp",
+    "size": 8540,
+    "source_rel": "hyundai/models/palisade/images/1b4bc97bb7aff6622c373bc74d681bd3ef9f4b3d2e87f306502b0b73ae089408.webp"
+  },
+  {
+    "filename": "1b7baf26d2542fa1f10cf5c9367523ee82ceb4adb5b02596a54acfa968b3d3e3.webp",
+    "size": 10148,
+    "source_rel": "hyundai/models/palisade/images/1b7baf26d2542fa1f10cf5c9367523ee82ceb4adb5b02596a54acfa968b3d3e3.webp"
+  },
+  {
+    "filename": "1b8130a56e87e1320b67d430a5964db13920ed25329a875535893cab6b47fd0c.webp",
+    "size": 1792,
+    "source_rel": "hyundai/models/palisade/images/1b8130a56e87e1320b67d430a5964db13920ed25329a875535893cab6b47fd0c.webp"
+  },
+  {
+    "filename": "1b879531ea3e3727217340082af73abec79c27aa6c300adf02035048b2e72ac8.webp",
+    "size": 3512,
+    "source_rel": "hyundai/models/palisade/images/1b879531ea3e3727217340082af73abec79c27aa6c300adf02035048b2e72ac8.webp"
+  },
+  {
+    "filename": "1b9809d9f3a9c8b195a8364c839e3f7d8a2f2bb6dc93cbc1a2f6d9834324e243.webp",
+    "size": 6434,
+    "source_rel": "hyundai/models/palisade/images/1b9809d9f3a9c8b195a8364c839e3f7d8a2f2bb6dc93cbc1a2f6d9834324e243.webp"
+  },
+  {
+    "filename": "1bf3eb6e4dfa571b750a10e7124be7ece4518313ba8436c0bc2cbb2dc7d7ba56.webp",
+    "size": 12520,
+    "source_rel": "hyundai/models/palisade/images/1bf3eb6e4dfa571b750a10e7124be7ece4518313ba8436c0bc2cbb2dc7d7ba56.webp"
+  },
+  {
+    "filename": "1bfa5801bc2c36b4dea897450623803b0a06852ad80d08a9aee4f5d249a0db72.webp",
+    "size": 9886,
+    "source_rel": "hyundai/models/palisade/images/1bfa5801bc2c36b4dea897450623803b0a06852ad80d08a9aee4f5d249a0db72.webp"
+  },
+  {
+    "filename": "1c048413b5f1e15db656ece18f8f3ffbc99ca4565d8b338737291890aefb1f47.webp",
+    "size": 5870,
+    "source_rel": "hyundai/models/palisade/images/1c048413b5f1e15db656ece18f8f3ffbc99ca4565d8b338737291890aefb1f47.webp"
+  },
+  {
+    "filename": "1c1433d444ceb52254c05c068d9bc01fd0ead25ca31a0247d20561fde0c05713.webp",
+    "size": 25104,
+    "source_rel": "hyundai/models/palisade/images/1c1433d444ceb52254c05c068d9bc01fd0ead25ca31a0247d20561fde0c05713.webp"
+  },
+  {
+    "filename": "1c228056737b966ab666bc44aa94f1908fd92db66f38962b1fc2d085d1fcb4f6.webp",
+    "size": 82910,
+    "source_rel": "hyundai/models/palisade/images/1c228056737b966ab666bc44aa94f1908fd92db66f38962b1fc2d085d1fcb4f6.webp"
+  },
+  {
+    "filename": "1c35181992c2d445a9b3547d788c5318cde9fd1329518ec0746805c69ecfdaa6.webp",
+    "size": 18566,
+    "source_rel": "hyundai/models/palisade/images/1c35181992c2d445a9b3547d788c5318cde9fd1329518ec0746805c69ecfdaa6.webp"
+  },
+  {
+    "filename": "1c46d58b0d2711f569e652236813aef82c4fd05e29a551cc69264e469a170be7.webp",
+    "size": 8734,
+    "source_rel": "hyundai/models/palisade/images/1c46d58b0d2711f569e652236813aef82c4fd05e29a551cc69264e469a170be7.webp"
+  },
+  {
+    "filename": "1c5013fe84766dcea40d8018e14ac698a7c9408b60adf34b5e88196daf573b42.webp",
+    "size": 10922,
+    "source_rel": "hyundai/models/palisade/images/1c5013fe84766dcea40d8018e14ac698a7c9408b60adf34b5e88196daf573b42.webp"
+  },
+  {
+    "filename": "1c6b69e3698a639e79621bcc015677ecd860cab93fcd73d7c13a00fcfa11a383.webp",
+    "size": 12590,
+    "source_rel": "hyundai/models/palisade/images/1c6b69e3698a639e79621bcc015677ecd860cab93fcd73d7c13a00fcfa11a383.webp"
+  },
+  {
+    "filename": "1c6dced934a0b56860c2062c475dce6915c404dd7c2bc8531c0f5923e35ee7ed.webp",
+    "size": 8026,
+    "source_rel": "hyundai/models/palisade/images/1c6dced934a0b56860c2062c475dce6915c404dd7c2bc8531c0f5923e35ee7ed.webp"
+  },
+  {
+    "filename": "1c74390ccf41d53b6f3f458ded2a259bed9958464073c7e2d36f772af0532451.webp",
+    "size": 14178,
+    "source_rel": "hyundai/models/palisade/images/1c74390ccf41d53b6f3f458ded2a259bed9958464073c7e2d36f772af0532451.webp"
+  },
+  {
+    "filename": "1c7e2baef34367112662e8a24308e356c333a7ddf4c4f093875a696e6d36150d.webp",
+    "size": 29376,
+    "source_rel": "hyundai/models/palisade/images/1c7e2baef34367112662e8a24308e356c333a7ddf4c4f093875a696e6d36150d.webp"
+  },
+  {
+    "filename": "1c80893c604c637a4526b4d6aca65481dd2c20ab13c43ff5c69906c394f53102.webp",
+    "size": 3064,
+    "source_rel": "hyundai/models/palisade/images/1c80893c604c637a4526b4d6aca65481dd2c20ab13c43ff5c69906c394f53102.webp"
+  },
+  {
+    "filename": "1cdad04b984715e2b41581c4ee4e6c2777fbf746aa14488f074c7204fcc0f935.webp",
+    "size": 6994,
+    "source_rel": "hyundai/models/palisade/images/1cdad04b984715e2b41581c4ee4e6c2777fbf746aa14488f074c7204fcc0f935.webp"
+  },
+  {
+    "filename": "1ce7d6338487de04f7bd88ec31e610b81a7f6b3ee91ed52141833857c9057c02.webp",
+    "size": 21134,
+    "source_rel": "hyundai/models/palisade/images/1ce7d6338487de04f7bd88ec31e610b81a7f6b3ee91ed52141833857c9057c02.webp"
+  },
+  {
+    "filename": "1cecbdbd08d5c5e43a29aa31d978fa9feba345f1bd74f705fcdadad5dbe51450.webp",
+    "size": 8150,
+    "source_rel": "hyundai/models/palisade/images/1cecbdbd08d5c5e43a29aa31d978fa9feba345f1bd74f705fcdadad5dbe51450.webp"
+  },
+  {
+    "filename": "1cf30a0c8931be00ee6fbcef82c9ef699a7e75780a72ca6ae999c751a115460e.webp",
+    "size": 7848,
+    "source_rel": "hyundai/models/palisade/images/1cf30a0c8931be00ee6fbcef82c9ef699a7e75780a72ca6ae999c751a115460e.webp"
+  },
+  {
+    "filename": "1cfcb93f856f8c414af3ad76a8882f5c539bcc7a190d1f83ac045e66cb1beb7e.webp",
+    "size": 8650,
+    "source_rel": "hyundai/models/palisade/images/1cfcb93f856f8c414af3ad76a8882f5c539bcc7a190d1f83ac045e66cb1beb7e.webp"
+  },
+  {
+    "filename": "1d06dc1b1977b689ab33383620d90f615ed5816b2e635b3e95e19da0d519db61.webp",
+    "size": 5692,
+    "source_rel": "hyundai/models/palisade/images/1d06dc1b1977b689ab33383620d90f615ed5816b2e635b3e95e19da0d519db61.webp"
+  },
+  {
+    "filename": "1d0a21fbc8e011f41c25ddbc12625e5d7ca3483721c3b2519cec087730104c3d.webp",
+    "size": 16570,
+    "source_rel": "hyundai/models/palisade/images/1d0a21fbc8e011f41c25ddbc12625e5d7ca3483721c3b2519cec087730104c3d.webp"
+  },
+  {
+    "filename": "1d166a9542f8464bc3624721bc5fbe6fee97805ba519066f7713c7680a442b9a.webp",
+    "size": 11404,
+    "source_rel": "hyundai/models/palisade/images/1d166a9542f8464bc3624721bc5fbe6fee97805ba519066f7713c7680a442b9a.webp"
+  },
+  {
+    "filename": "1d3ddbbb22823fb57fbd028150f44a9f59f15a841f9e7c33b8bd9f958876e84c.webp",
+    "size": 2818,
+    "source_rel": "hyundai/models/palisade/images/1d3ddbbb22823fb57fbd028150f44a9f59f15a841f9e7c33b8bd9f958876e84c.webp"
+  },
+  {
+    "filename": "1d415ed11ac6010fc30dd4b8ac302a4ef29948447169b886aef699248e7d8b3d.webp",
+    "size": 884,
+    "source_rel": "hyundai/models/palisade/images/1d415ed11ac6010fc30dd4b8ac302a4ef29948447169b886aef699248e7d8b3d.webp"
+  },
+  {
+    "filename": "1d6cef356b2c088185b0b41ab324cd7507fb582afece6a31e0eb768e58dcc2a0.webp",
+    "size": 8202,
+    "source_rel": "hyundai/models/palisade/images/1d6cef356b2c088185b0b41ab324cd7507fb582afece6a31e0eb768e58dcc2a0.webp"
+  },
+  {
+    "filename": "1d6e96251142c8afe85d167c86b923d154b234586ff68161d7d840d12d057b0c.webp",
+    "size": 6802,
+    "source_rel": "hyundai/models/palisade/images/1d6e96251142c8afe85d167c86b923d154b234586ff68161d7d840d12d057b0c.webp"
+  },
+  {
+    "filename": "1da0319bd77e56af3a3b4f56da60f2c0af3751b26fe895b12a5e27e6c33349d3.webp",
+    "size": 19874,
+    "source_rel": "hyundai/models/palisade/images/1da0319bd77e56af3a3b4f56da60f2c0af3751b26fe895b12a5e27e6c33349d3.webp"
+  },
+  {
+    "filename": "1db18ee6f57f79825e1731f4b0ab67d9249f5ff3cb710507c530769e5767da52.webp",
+    "size": 76028,
+    "source_rel": "hyundai/models/palisade/images/1db18ee6f57f79825e1731f4b0ab67d9249f5ff3cb710507c530769e5767da52.webp"
+  },
+  {
+    "filename": "1dd545842fc966a0312b2cc9d80370be8637eec1fc38e355b794920e89b484a0.webp",
+    "size": 3962,
+    "source_rel": "hyundai/models/palisade/images/1dd545842fc966a0312b2cc9d80370be8637eec1fc38e355b794920e89b484a0.webp"
+  },
+  {
+    "filename": "1e2934241fa6c4524fcc6ec7de5a0e0a2c5de8c7c6028d8570549c897102be8e.webp",
+    "size": 11818,
+    "source_rel": "hyundai/models/palisade/images/1e2934241fa6c4524fcc6ec7de5a0e0a2c5de8c7c6028d8570549c897102be8e.webp"
+  },
+  {
+    "filename": "1e4b35bfa605e9a6f0385936b1c2a49bdd751fc490aa5d6e40de7ea153c4b528.webp",
+    "size": 8588,
+    "source_rel": "hyundai/models/palisade/images/1e4b35bfa605e9a6f0385936b1c2a49bdd751fc490aa5d6e40de7ea153c4b528.webp"
+  },
+  {
+    "filename": "1e4f986c230643284d84d99ae9906edf5672b5b665aa92812b8403142347e46b.webp",
+    "size": 11628,
+    "source_rel": "hyundai/models/palisade/images/1e4f986c230643284d84d99ae9906edf5672b5b665aa92812b8403142347e46b.webp"
+  },
+  {
+    "filename": "1e58bf87853fa37260a17725f577fac11e2324d1df12ec1f2d78961a69528768.webp",
+    "size": 18974,
+    "source_rel": "hyundai/models/palisade/images/1e58bf87853fa37260a17725f577fac11e2324d1df12ec1f2d78961a69528768.webp"
+  },
+  {
+    "filename": "1e6db8e2329ab2cc94a25f78793a5425b475bd9c634409f133ead90f34d61690.webp",
+    "size": 13988,
+    "source_rel": "hyundai/models/palisade/images/1e6db8e2329ab2cc94a25f78793a5425b475bd9c634409f133ead90f34d61690.webp"
+  },
+  {
+    "filename": "1e7375245da858ef20d2bae5117fff2256e8969d1b5a0cc5507aa597a559036c.webp",
+    "size": 7362,
+    "source_rel": "hyundai/models/palisade/images/1e7375245da858ef20d2bae5117fff2256e8969d1b5a0cc5507aa597a559036c.webp"
+  },
+  {
+    "filename": "1e78ec12757c7907b0f0f545c72a89a938338a320c2b541ede73349d9a9a4c50.webp",
+    "size": 16538,
+    "source_rel": "hyundai/models/palisade/images/1e78ec12757c7907b0f0f545c72a89a938338a320c2b541ede73349d9a9a4c50.webp"
+  },
+  {
+    "filename": "1e91c0a4c1f913e5765b459e6bea2b59a4c47e5740a0e0f4269bba81c92163ea.webp",
+    "size": 8844,
+    "source_rel": "hyundai/models/palisade/images/1e91c0a4c1f913e5765b459e6bea2b59a4c47e5740a0e0f4269bba81c92163ea.webp"
+  },
+  {
+    "filename": "1e9232f4706b21e477cb627c7a0d68d2e18f4c9e6c83dbfedc9e4c42f9c4a212.webp",
+    "size": 13744,
+    "source_rel": "hyundai/models/palisade/images/1e9232f4706b21e477cb627c7a0d68d2e18f4c9e6c83dbfedc9e4c42f9c4a212.webp"
+  },
+  {
+    "filename": "1e94163a140d913c911a494c1033bd57f94dbb22fba2ecd90804f481115244c0.webp",
+    "size": 37700,
+    "source_rel": "hyundai/models/palisade/images/1e94163a140d913c911a494c1033bd57f94dbb22fba2ecd90804f481115244c0.webp"
+  },
+  {
+    "filename": "1eb8322e7526de358ef8402d3b96ca3fd1b4aa2a4c17f62d2ee6a96286e14326.webp",
+    "size": 2174,
+    "source_rel": "hyundai/models/palisade/images/1eb8322e7526de358ef8402d3b96ca3fd1b4aa2a4c17f62d2ee6a96286e14326.webp"
+  },
+  {
+    "filename": "1ec300684fa51343420188aa3cc5fdd894a882f8ebeea1121878eaf953021f71.webp",
+    "size": 12060,
+    "source_rel": "hyundai/models/palisade/images/1ec300684fa51343420188aa3cc5fdd894a882f8ebeea1121878eaf953021f71.webp"
+  },
+  {
+    "filename": "1ec4ab19e0ffb730c25851460c8351185f5195758f2f2dabd286475be7409c62.webp",
+    "size": 864,
+    "source_rel": "hyundai/models/palisade/images/1ec4ab19e0ffb730c25851460c8351185f5195758f2f2dabd286475be7409c62.webp"
+  },
+  {
+    "filename": "1eddbf7d569c4e9ed6f1888453135283aba8d4cc68ffca66513c19b0be79ea90.webp",
+    "size": 38950,
+    "source_rel": "hyundai/models/palisade/images/1eddbf7d569c4e9ed6f1888453135283aba8d4cc68ffca66513c19b0be79ea90.webp"
+  },
+  {
+    "filename": "1ee33eedec8e0534078f6b096dd916e1d990235ba064a813981d4d901dbaf3fb.webp",
+    "size": 22110,
+    "source_rel": "hyundai/models/palisade/images/1ee33eedec8e0534078f6b096dd916e1d990235ba064a813981d4d901dbaf3fb.webp"
+  },
+  {
+    "filename": "1efbd1f320c048758d60dc2117bd9b931ddcba87c69a95817ec617850045c70f.webp",
+    "size": 13122,
+    "source_rel": "hyundai/models/palisade/images/1efbd1f320c048758d60dc2117bd9b931ddcba87c69a95817ec617850045c70f.webp"
+  },
+  {
+    "filename": "1f105a48aefaf99f314db84ce760b58ec167a923fbbe76f461a12b34c8321df8.webp",
+    "size": 4804,
+    "source_rel": "hyundai/models/palisade/images/1f105a48aefaf99f314db84ce760b58ec167a923fbbe76f461a12b34c8321df8.webp"
+  },
+  {
+    "filename": "1f5034cf506d239cd28085130ebf43870a778b5aac46f7b05efbccb4417fb46b.webp",
+    "size": 27242,
+    "source_rel": "hyundai/models/palisade/images/1f5034cf506d239cd28085130ebf43870a778b5aac46f7b05efbccb4417fb46b.webp"
+  },
+  {
+    "filename": "1f834190d355b4e79457281777fb3183b0e9c35ef8bb8cf44c9759ef53e4301f.webp",
+    "size": 12048,
+    "source_rel": "hyundai/models/palisade/images/1f834190d355b4e79457281777fb3183b0e9c35ef8bb8cf44c9759ef53e4301f.webp"
+  },
+  {
+    "filename": "1f91019618f98d824c4ee14d33c86dd5970ead668133c2e61f4738eb067fd0b1.webp",
+    "size": 17024,
+    "source_rel": "hyundai/models/palisade/images/1f91019618f98d824c4ee14d33c86dd5970ead668133c2e61f4738eb067fd0b1.webp"
+  },
+  {
+    "filename": "1fa52c7264af5905b028c82d57cf16bf16cc913ab226907590cc4e32db3fc79e.webp",
+    "size": 14902,
+    "source_rel": "hyundai/models/palisade/images/1fa52c7264af5905b028c82d57cf16bf16cc913ab226907590cc4e32db3fc79e.webp"
+  },
+  {
+    "filename": "1fc4adf1e316503c3029d69da01f782c30467ede21d72cfd2d63ecf0f697349f.webp",
+    "size": 10530,
+    "source_rel": "hyundai/models/palisade/images/1fc4adf1e316503c3029d69da01f782c30467ede21d72cfd2d63ecf0f697349f.webp"
+  },
+  {
+    "filename": "1fce58be14999761ffd3008bfec15d7bbd709c5a9b3727332d75fee72fcbe091.webp",
+    "size": 30998,
+    "source_rel": "hyundai/models/palisade/images/1fce58be14999761ffd3008bfec15d7bbd709c5a9b3727332d75fee72fcbe091.webp"
+  },
+  {
+    "filename": "1fe3faa2a8e28042aa0b3c966ffd8f16db69135ca1c247ee3b5e3f0b2022201a.webp",
+    "size": 520,
+    "source_rel": "hyundai/models/palisade/images/1fe3faa2a8e28042aa0b3c966ffd8f16db69135ca1c247ee3b5e3f0b2022201a.webp"
+  },
+  {
+    "filename": "2035504e6e51b0d41872ccabc19815ce5aa040454fa6b0d3063ad89d2da88ada.webp",
+    "size": 9974,
+    "source_rel": "hyundai/models/palisade/images/2035504e6e51b0d41872ccabc19815ce5aa040454fa6b0d3063ad89d2da88ada.webp"
+  },
+  {
+    "filename": "20368d89fc00af3e0423ea1ac46534de8241192c7780532a6bbea3c557cb1d5d.webp",
+    "size": 10284,
+    "source_rel": "hyundai/models/palisade/images/20368d89fc00af3e0423ea1ac46534de8241192c7780532a6bbea3c557cb1d5d.webp"
+  },
+  {
+    "filename": "2037c4ee14901f844cdd360568531603e34074c465c2f09de5328381038d5b31.webp",
+    "size": 18834,
+    "source_rel": "hyundai/models/palisade/images/2037c4ee14901f844cdd360568531603e34074c465c2f09de5328381038d5b31.webp"
+  },
+  {
+    "filename": "203f5f22a1a6a63662742588b3280325d106022f3a5df3cf07308de7934ef932.webp",
+    "size": 19026,
+    "source_rel": "hyundai/models/palisade/images/203f5f22a1a6a63662742588b3280325d106022f3a5df3cf07308de7934ef932.webp"
+  },
+  {
+    "filename": "204d870c85e7d954ee93fc85dcb4c25b6cf59ad6552754ad2c41f130037f4c99.webp",
+    "size": 7206,
+    "source_rel": "hyundai/models/palisade/images/204d870c85e7d954ee93fc85dcb4c25b6cf59ad6552754ad2c41f130037f4c99.webp"
+  },
+  {
+    "filename": "20560bedc434f68e785e2135f130572953426a872abde6f289212411c41faba6.webp",
+    "size": 16144,
+    "source_rel": "hyundai/models/palisade/images/20560bedc434f68e785e2135f130572953426a872abde6f289212411c41faba6.webp"
+  },
+  {
+    "filename": "205799a50ce6ef1a3e329cded2546eeb2816f8bc88e4e0c997bc919541153d42.webp",
+    "size": 28524,
+    "source_rel": "hyundai/models/palisade/images/205799a50ce6ef1a3e329cded2546eeb2816f8bc88e4e0c997bc919541153d42.webp"
+  },
+  {
+    "filename": "205a3f332a3a1595b5df743e1b4ed96e692ec6ba053d044cbcf87b9ccfb7620c.webp",
+    "size": 10518,
+    "source_rel": "hyundai/models/palisade/images/205a3f332a3a1595b5df743e1b4ed96e692ec6ba053d044cbcf87b9ccfb7620c.webp"
+  },
+  {
+    "filename": "20841c00a15c140aec97708370e03464a9841b92350e7028230c46e6bef7b888.webp",
+    "size": 10788,
+    "source_rel": "hyundai/models/palisade/images/20841c00a15c140aec97708370e03464a9841b92350e7028230c46e6bef7b888.webp"
+  },
+  {
+    "filename": "20b1f699db81efd6daee63fe9f6d471c157cda8823b188f7c9506ca23db8c6ef.webp",
+    "size": 9244,
+    "source_rel": "hyundai/models/palisade/images/20b1f699db81efd6daee63fe9f6d471c157cda8823b188f7c9506ca23db8c6ef.webp"
+  },
+  {
+    "filename": "20bbb70370a1661041770d7160ebf30c38c3d56165a7b5ffaabdb601ee94144a.webp",
+    "size": 16448,
+    "source_rel": "hyundai/models/palisade/images/20bbb70370a1661041770d7160ebf30c38c3d56165a7b5ffaabdb601ee94144a.webp"
+  },
+  {
+    "filename": "20d26cc3175d17f515d7897d8bb0ebec08144d86e9d56ce11d7beecc90f7f0b1.webp",
+    "size": 2634,
+    "source_rel": "hyundai/models/palisade/images/20d26cc3175d17f515d7897d8bb0ebec08144d86e9d56ce11d7beecc90f7f0b1.webp"
+  },
+  {
+    "filename": "20e4402771703aeca5f2ec5ddf538c09df3d1c8f14c27395101dd2946765d6f1.webp",
+    "size": 23888,
+    "source_rel": "hyundai/models/palisade/images/20e4402771703aeca5f2ec5ddf538c09df3d1c8f14c27395101dd2946765d6f1.webp"
+  },
+  {
+    "filename": "20e5ff2d5923cd86fa333bf59be9716aeff8022796f1a1ccfa1d61e7325ed7b0.webp",
+    "size": 3626,
+    "source_rel": "hyundai/models/palisade/images/20e5ff2d5923cd86fa333bf59be9716aeff8022796f1a1ccfa1d61e7325ed7b0.webp"
+  },
+  {
+    "filename": "214e9ed18c2f768359dac8c4b0b19a9235257f4db532cbfe134ed8f25e0c73ed.webp",
+    "size": 14742,
+    "source_rel": "hyundai/models/palisade/images/214e9ed18c2f768359dac8c4b0b19a9235257f4db532cbfe134ed8f25e0c73ed.webp"
+  },
+  {
+    "filename": "218012249d7e298cf647d66f011a1bc4fb5ae3f62d1deeb8b8115c8724995c52.webp",
+    "size": 3512,
+    "source_rel": "hyundai/models/palisade/images/218012249d7e298cf647d66f011a1bc4fb5ae3f62d1deeb8b8115c8724995c52.webp"
+  },
+  {
+    "filename": "2197ecd468ed5c25998530655ef27ed98143cf13ef2d79e663d54a88e6dfb47a.webp",
+    "size": 40492,
+    "source_rel": "hyundai/models/palisade/images/2197ecd468ed5c25998530655ef27ed98143cf13ef2d79e663d54a88e6dfb47a.webp"
+  },
+  {
+    "filename": "21c996cce2e70db2785714a2ec6dbb77168e7477c4ca112b2609590512f6001f.webp",
+    "size": 6114,
+    "source_rel": "hyundai/models/palisade/images/21c996cce2e70db2785714a2ec6dbb77168e7477c4ca112b2609590512f6001f.webp"
+  },
+  {
+    "filename": "21e49528da346a8d50a27da55bcc62390a658e1764f1a9d728d268bb1910dabb.webp",
+    "size": 17978,
+    "source_rel": "hyundai/models/palisade/images/21e49528da346a8d50a27da55bcc62390a658e1764f1a9d728d268bb1910dabb.webp"
+  },
+  {
+    "filename": "21f5e99567fdf8756f935808e25534d61a9e3180abc5445dee5c7fde1991126f.webp",
+    "size": 60946,
+    "source_rel": "hyundai/models/palisade/images/21f5e99567fdf8756f935808e25534d61a9e3180abc5445dee5c7fde1991126f.webp"
+  },
+  {
+    "filename": "21feb6bf05939e5804ff0300f6ef56ed8f80d656f9fe6f659658ec6681f0440c.webp",
+    "size": 6848,
+    "source_rel": "hyundai/models/palisade/images/21feb6bf05939e5804ff0300f6ef56ed8f80d656f9fe6f659658ec6681f0440c.webp"
+  },
+  {
+    "filename": "220111c5bc311ddc5cecde84b06b1ee2be3b1978ed25b6167311ff3fd55b1701.webp",
+    "size": 8044,
+    "source_rel": "hyundai/models/palisade/images/220111c5bc311ddc5cecde84b06b1ee2be3b1978ed25b6167311ff3fd55b1701.webp"
+  },
+  {
+    "filename": "220415caf5de7e9b67fc53cb09ba8a2b34451da5b8976bfffe315c25284bef6e.webp",
+    "size": 9448,
+    "source_rel": "hyundai/models/palisade/images/220415caf5de7e9b67fc53cb09ba8a2b34451da5b8976bfffe315c25284bef6e.webp"
+  },
+  {
+    "filename": "220edd9d22678deb22543f2803db861e21cd0edfb4a4bf0dc369317c5590b394.webp",
+    "size": 21694,
+    "source_rel": "hyundai/models/palisade/images/220edd9d22678deb22543f2803db861e21cd0edfb4a4bf0dc369317c5590b394.webp"
+  },
+  {
+    "filename": "222ef5cdd00b8dd14c4b5788925114c15054cae754a5caa6b8106840fa1b813e.webp",
+    "size": 44016,
+    "source_rel": "hyundai/models/palisade/images/222ef5cdd00b8dd14c4b5788925114c15054cae754a5caa6b8106840fa1b813e.webp"
+  },
+  {
+    "filename": "225e27d92a72be791238ccb8e537941aa6d8303de4518384b1916c2ab1e92711.webp",
+    "size": 31492,
+    "source_rel": "hyundai/models/palisade/images/225e27d92a72be791238ccb8e537941aa6d8303de4518384b1916c2ab1e92711.webp"
+  },
+  {
+    "filename": "225ffb19c1bc6933a7ab083b8733a3d891be763a5f66b3337aa23dc709e8a1d1.webp",
+    "size": 6292,
+    "source_rel": "hyundai/models/palisade/images/225ffb19c1bc6933a7ab083b8733a3d891be763a5f66b3337aa23dc709e8a1d1.webp"
+  },
+  {
+    "filename": "2289ce43707277e5bbf97383b84f85e50d7cba1657efa2674884fe402e3bf93f.webp",
+    "size": 5506,
+    "source_rel": "hyundai/models/palisade/images/2289ce43707277e5bbf97383b84f85e50d7cba1657efa2674884fe402e3bf93f.webp"
+  },
+  {
+    "filename": "228a2634be9e6740ea96c4227a9bddcf7ce33c414d8dfd3ce2c85f99bd46f0bd.webp",
+    "size": 4144,
+    "source_rel": "hyundai/models/palisade/images/228a2634be9e6740ea96c4227a9bddcf7ce33c414d8dfd3ce2c85f99bd46f0bd.webp"
+  },
+  {
+    "filename": "22b119a1f1fd8f4e373051a2d0cfe286bdd14c11022cd091444af4a6632ee672.webp",
+    "size": 6904,
+    "source_rel": "hyundai/models/palisade/images/22b119a1f1fd8f4e373051a2d0cfe286bdd14c11022cd091444af4a6632ee672.webp"
+  },
+  {
+    "filename": "22bd22c4db43b46a951149f23b70ce9c4bdd9793f4659677b9bb10f34ad0af18.webp",
+    "size": 10740,
+    "source_rel": "hyundai/models/palisade/images/22bd22c4db43b46a951149f23b70ce9c4bdd9793f4659677b9bb10f34ad0af18.webp"
+  },
+  {
+    "filename": "22df5856cc7f41a9871be1afd042bcf7adbf29873bbd46628fd4c1f51cfd6e90.webp",
+    "size": 21588,
+    "source_rel": "hyundai/models/palisade/images/22df5856cc7f41a9871be1afd042bcf7adbf29873bbd46628fd4c1f51cfd6e90.webp"
+  },
+  {
+    "filename": "22ef5cc120f8e58f128efbb0200047781892a7c5fab9bdb1019335e0e8bd3627.webp",
+    "size": 13636,
+    "source_rel": "hyundai/models/palisade/images/22ef5cc120f8e58f128efbb0200047781892a7c5fab9bdb1019335e0e8bd3627.webp"
+  },
+  {
+    "filename": "22f38e934331934d25254d7de468ecc8f2d0b22ad0e6486444df7111fc661938.webp",
+    "size": 12960,
+    "source_rel": "hyundai/models/palisade/images/22f38e934331934d25254d7de468ecc8f2d0b22ad0e6486444df7111fc661938.webp"
+  },
+  {
+    "filename": "22f722001a366958e44c700d73598239b5c30c8cae8c221ecc09bbf0ca283586.webp",
+    "size": 9452,
+    "source_rel": "hyundai/models/palisade/images/22f722001a366958e44c700d73598239b5c30c8cae8c221ecc09bbf0ca283586.webp"
+  },
+  {
+    "filename": "237e1bcaf413315bb561b034c2e0cb6e98fae78c7b0f8171dbac5a20c82f06d1.webp",
+    "size": 10636,
+    "source_rel": "hyundai/models/palisade/images/237e1bcaf413315bb561b034c2e0cb6e98fae78c7b0f8171dbac5a20c82f06d1.webp"
+  },
+  {
+    "filename": "23a0648ed213508167663048f401c9001afd99058ddb16fc27cf557ee3de49ed.webp",
+    "size": 5914,
+    "source_rel": "hyundai/models/palisade/images/23a0648ed213508167663048f401c9001afd99058ddb16fc27cf557ee3de49ed.webp"
+  },
+  {
+    "filename": "23db193c47b7f8152ce85b5fc0ef1d8eaea2a1e634149f3c81adc0337a44091d.webp",
+    "size": 7612,
+    "source_rel": "hyundai/models/palisade/images/23db193c47b7f8152ce85b5fc0ef1d8eaea2a1e634149f3c81adc0337a44091d.webp"
+  },
+  {
+    "filename": "23f48182f0acd63986aef38bfea79d3ecacb9490006626e5e9b4d5e53e7397e9.webp",
+    "size": 7560,
+    "source_rel": "hyundai/models/palisade/images/23f48182f0acd63986aef38bfea79d3ecacb9490006626e5e9b4d5e53e7397e9.webp"
+  },
+  {
+    "filename": "242c05d1188432e731021d164e2c5023897780c2896f564c5eccabf3dfa05b0c.webp",
+    "size": 8636,
+    "source_rel": "hyundai/models/palisade/images/242c05d1188432e731021d164e2c5023897780c2896f564c5eccabf3dfa05b0c.webp"
+  },
+  {
+    "filename": "2433464735ebf18f1bacbe61fe0384976e19074adb710686f9261503406f58e2.webp",
+    "size": 3146,
+    "source_rel": "hyundai/models/palisade/images/2433464735ebf18f1bacbe61fe0384976e19074adb710686f9261503406f58e2.webp"
+  },
+  {
+    "filename": "243658c631cac6ad7640e43f74608329295efd9f1cfa0d0897020c5f0eeaf471.webp",
+    "size": 14448,
+    "source_rel": "hyundai/models/palisade/images/243658c631cac6ad7640e43f74608329295efd9f1cfa0d0897020c5f0eeaf471.webp"
+  },
+  {
+    "filename": "24548fae7a6af07da8ed9f9ba722cc50815451951b28fc9e249b75d8f4a44922.webp",
+    "size": 51188,
+    "source_rel": "hyundai/models/palisade/images/24548fae7a6af07da8ed9f9ba722cc50815451951b28fc9e249b75d8f4a44922.webp"
+  },
+  {
+    "filename": "2463e815e752fc04f23c341d65a6c0abdfcb0ce5fe38fb646f226b3607a9e371.webp",
+    "size": 9338,
+    "source_rel": "hyundai/models/palisade/images/2463e815e752fc04f23c341d65a6c0abdfcb0ce5fe38fb646f226b3607a9e371.webp"
+  },
+  {
+    "filename": "247176c29cb080803f7ce0094dab9aa67d7e3c764190f6443a3dd105fab7881f.webp",
+    "size": 35260,
+    "source_rel": "hyundai/models/palisade/images/247176c29cb080803f7ce0094dab9aa67d7e3c764190f6443a3dd105fab7881f.webp"
+  },
+  {
+    "filename": "2491cd86b5bb60c24704c40e2b5a59eafcf9e33b0c2ec1c55ce7cf427767974e.webp",
+    "size": 6236,
+    "source_rel": "hyundai/models/palisade/images/2491cd86b5bb60c24704c40e2b5a59eafcf9e33b0c2ec1c55ce7cf427767974e.webp"
+  },
+  {
+    "filename": "2495db5e6ab9c2e65f101f8e6b6df1c71adc8d703b882faaccb844f3a733c9af.webp",
+    "size": 3186,
+    "source_rel": "hyundai/models/palisade/images/2495db5e6ab9c2e65f101f8e6b6df1c71adc8d703b882faaccb844f3a733c9af.webp"
+  },
+  {
+    "filename": "24a6fd2d6ea85d96439e597b977dd7540563362e3b7d74007be5354fde3e1484.webp",
+    "size": 6852,
+    "source_rel": "hyundai/models/palisade/images/24a6fd2d6ea85d96439e597b977dd7540563362e3b7d74007be5354fde3e1484.webp"
+  },
+  {
+    "filename": "24a90930c826093b31758a41ce75cb7820d49cfaa82abf4daf04f8fd74a6866a.webp",
+    "size": 4500,
+    "source_rel": "hyundai/models/palisade/images/24a90930c826093b31758a41ce75cb7820d49cfaa82abf4daf04f8fd74a6866a.webp"
+  },
+  {
+    "filename": "24c530e6bcc5f116c1864e7239de53af53f63039391ab77c4432737fb7672f3f.webp",
+    "size": 6464,
+    "source_rel": "hyundai/models/palisade/images/24c530e6bcc5f116c1864e7239de53af53f63039391ab77c4432737fb7672f3f.webp"
+  },
+  {
+    "filename": "24d369d7d12d4055e62520d91f9675875aa5451aea21953ef2113b76052c84b3.webp",
+    "size": 19306,
+    "source_rel": "hyundai/models/palisade/images/24d369d7d12d4055e62520d91f9675875aa5451aea21953ef2113b76052c84b3.webp"
+  },
+  {
+    "filename": "24d92406e818be65b6468e6bc6dc9859b71ed7c3f5d7bab83da3ef2182ea863b.webp",
+    "size": 2912,
+    "source_rel": "hyundai/models/palisade/images/24d92406e818be65b6468e6bc6dc9859b71ed7c3f5d7bab83da3ef2182ea863b.webp"
+  },
+  {
+    "filename": "24e267f6b04d63e91f3288604fde88cdcb586e65329790ad39a5f754b2b2466f.webp",
+    "size": 3360,
+    "source_rel": "hyundai/models/palisade/images/24e267f6b04d63e91f3288604fde88cdcb586e65329790ad39a5f754b2b2466f.webp"
+  },
+  {
+    "filename": "24e3df9d7c5a765fede254521c52b8876c451a72f7b906a54d9e1d531e566035.webp",
+    "size": 9752,
+    "source_rel": "hyundai/models/palisade/images/24e3df9d7c5a765fede254521c52b8876c451a72f7b906a54d9e1d531e566035.webp"
+  },
+  {
+    "filename": "24e57420058e0d4e15cad650c08a932e43f221a2e3a1f6989254eb2cb7d6637a.webp",
+    "size": 13998,
+    "source_rel": "hyundai/models/palisade/images/24e57420058e0d4e15cad650c08a932e43f221a2e3a1f6989254eb2cb7d6637a.webp"
+  },
+  {
+    "filename": "24ebd8a17ec4801c36760c4c8bfc674fb0ed2a86fa670a3d6ecf3aa2be7f3928.webp",
+    "size": 76046,
+    "source_rel": "hyundai/models/palisade/images/24ebd8a17ec4801c36760c4c8bfc674fb0ed2a86fa670a3d6ecf3aa2be7f3928.webp"
+  },
+  {
+    "filename": "24fd066154bb08f394acc897f60c4916b45817cb98df7296f9ca51c351409ef2.webp",
+    "size": 10554,
+    "source_rel": "hyundai/models/palisade/images/24fd066154bb08f394acc897f60c4916b45817cb98df7296f9ca51c351409ef2.webp"
+  },
+  {
+    "filename": "2511d2c79f7f921f277981bdba0234c4f7eb5761e6988480940f0dcbe13c7fef.webp",
+    "size": 12520,
+    "source_rel": "hyundai/models/palisade/images/2511d2c79f7f921f277981bdba0234c4f7eb5761e6988480940f0dcbe13c7fef.webp"
+  },
+  {
+    "filename": "2513c8ef6c0352aa08dffc4a7f1c84c41a795eb4791004310075aa6dec579c55.webp",
+    "size": 37542,
+    "source_rel": "hyundai/models/palisade/images/2513c8ef6c0352aa08dffc4a7f1c84c41a795eb4791004310075aa6dec579c55.webp"
+  },
+  {
+    "filename": "25334548b733528f7be70e1207832c7e89e8ae1755504a80df48c5f8ff0c0d8f.webp",
+    "size": 16570,
+    "source_rel": "hyundai/models/palisade/images/25334548b733528f7be70e1207832c7e89e8ae1755504a80df48c5f8ff0c0d8f.webp"
+  },
+  {
+    "filename": "253e8d474d4b3829e42590c01a08df8fdf2c388277068da7903e3536658a798b.webp",
+    "size": 8190,
+    "source_rel": "hyundai/models/palisade/images/253e8d474d4b3829e42590c01a08df8fdf2c388277068da7903e3536658a798b.webp"
+  },
+  {
+    "filename": "2541ee679c6d87d59ebc1ee0e4362ca227c1e9b7abe960ec7a8ac0c0b4a91554.webp",
+    "size": 3502,
+    "source_rel": "hyundai/models/palisade/images/2541ee679c6d87d59ebc1ee0e4362ca227c1e9b7abe960ec7a8ac0c0b4a91554.webp"
+  },
+  {
+    "filename": "2575c99d77d4f68c61701315b17543b2a9dc877aeffd1bc44e2db5f8c4b91d31.webp",
+    "size": 17394,
+    "source_rel": "hyundai/models/palisade/images/2575c99d77d4f68c61701315b17543b2a9dc877aeffd1bc44e2db5f8c4b91d31.webp"
+  },
+  {
+    "filename": "2575f6791b1769dee23d454cce8619ef98325f719eec7213adf0d8b7f19ac4f1.webp",
+    "size": 12276,
+    "source_rel": "hyundai/models/palisade/images/2575f6791b1769dee23d454cce8619ef98325f719eec7213adf0d8b7f19ac4f1.webp"
+  },
+  {
+    "filename": "257f170d6a19ec0da65ddcd1874b037b5991caf669e2ab5d6d3ad1bda69eb4b9.webp",
+    "size": 9076,
+    "source_rel": "hyundai/models/palisade/images/257f170d6a19ec0da65ddcd1874b037b5991caf669e2ab5d6d3ad1bda69eb4b9.webp"
+  },
+  {
+    "filename": "2584b2bc53696b896bd4d62c4a1c41b895869a96bf0049205758565a0e4bd180.webp",
+    "size": 9270,
+    "source_rel": "hyundai/models/palisade/images/2584b2bc53696b896bd4d62c4a1c41b895869a96bf0049205758565a0e4bd180.webp"
+  },
+  {
+    "filename": "259293c8370716e6e0a2a23f7253b9e6c0f5843a52f26cb94e5905f04de10a5c.webp",
+    "size": 15370,
+    "source_rel": "hyundai/models/palisade/images/259293c8370716e6e0a2a23f7253b9e6c0f5843a52f26cb94e5905f04de10a5c.webp"
+  },
+  {
+    "filename": "25bbd4603d969909157642babf221de86f2d43f07d9c3ccf9b7fed8a1f0e9276.webp",
+    "size": 7362,
+    "source_rel": "hyundai/models/palisade/images/25bbd4603d969909157642babf221de86f2d43f07d9c3ccf9b7fed8a1f0e9276.webp"
+  },
+  {
+    "filename": "25dcc888d64aee24e2eef9e763e621ce33f6d1ed6bc130b49e0fc9fbc4d51e53.webp",
+    "size": 45874,
+    "source_rel": "hyundai/models/palisade/images/25dcc888d64aee24e2eef9e763e621ce33f6d1ed6bc130b49e0fc9fbc4d51e53.webp"
+  },
+  {
+    "filename": "2619ff4b78bafc5783becd7d1f8d042551a1438bc4fca1d656353a7600534d30.webp",
+    "size": 2146,
+    "source_rel": "hyundai/models/palisade/images/2619ff4b78bafc5783becd7d1f8d042551a1438bc4fca1d656353a7600534d30.webp"
+  },
+  {
+    "filename": "261d7c4e913829bad704c0943b51adc1f0489f4ffb413dafaf81e8919f04f559.webp",
+    "size": 11858,
+    "source_rel": "hyundai/models/palisade/images/261d7c4e913829bad704c0943b51adc1f0489f4ffb413dafaf81e8919f04f559.webp"
+  },
+  {
+    "filename": "264717aa1c17d372a41cb1912f23a181c5f74641ab834a9dfe00551987325489.webp",
+    "size": 7100,
+    "source_rel": "hyundai/models/palisade/images/264717aa1c17d372a41cb1912f23a181c5f74641ab834a9dfe00551987325489.webp"
+  },
+  {
+    "filename": "265c7e3428a1a1e7f2cd3a8eb0bd1fbd311f5fc8ffef7e49b1ad7952bcc9f63d.webp",
+    "size": 2446,
+    "source_rel": "hyundai/models/palisade/images/265c7e3428a1a1e7f2cd3a8eb0bd1fbd311f5fc8ffef7e49b1ad7952bcc9f63d.webp"
+  },
+  {
+    "filename": "265ee1497edf4c8369b06d0f6894304ae05136b3bb813c4a28b635eaaa81ecf6.webp",
+    "size": 15610,
+    "source_rel": "hyundai/models/palisade/images/265ee1497edf4c8369b06d0f6894304ae05136b3bb813c4a28b635eaaa81ecf6.webp"
+  },
+  {
+    "filename": "26738bd7094a10259d2a921bdb1f5c7aa1a264320199c2a53597d8d0e71b808e.webp",
+    "size": 14852,
+    "source_rel": "hyundai/models/palisade/images/26738bd7094a10259d2a921bdb1f5c7aa1a264320199c2a53597d8d0e71b808e.webp"
+  },
+  {
+    "filename": "2675aaf5b4f7a3b61ba2fbf2ed8ed9226a6ac4429b10c8f587765b338c014551.webp",
+    "size": 2110,
+    "source_rel": "hyundai/models/palisade/images/2675aaf5b4f7a3b61ba2fbf2ed8ed9226a6ac4429b10c8f587765b338c014551.webp"
+  },
+  {
+    "filename": "26786935cdf88cee67f4dd710f131b526cab97049b18ccead0f9939d4625c032.webp",
+    "size": 2272,
+    "source_rel": "hyundai/models/palisade/images/26786935cdf88cee67f4dd710f131b526cab97049b18ccead0f9939d4625c032.webp"
+  },
+  {
+    "filename": "26794b2605a5d40d2926d89259b3e358ed332c06b5a46c206571776e65b038d9.webp",
+    "size": 2316,
+    "source_rel": "hyundai/models/palisade/images/26794b2605a5d40d2926d89259b3e358ed332c06b5a46c206571776e65b038d9.webp"
+  },
+  {
+    "filename": "269678941d426338db814126a38c98b57db51a3530c492a9c4db241a6ec1b922.webp",
+    "size": 4374,
+    "source_rel": "hyundai/models/palisade/images/269678941d426338db814126a38c98b57db51a3530c492a9c4db241a6ec1b922.webp"
+  },
+  {
+    "filename": "26a2fac86a4ab9e77f5a6ab929a28fc49ee6b0af0c6220561762f17a73ffe79d.webp",
+    "size": 27012,
+    "source_rel": "hyundai/models/palisade/images/26a2fac86a4ab9e77f5a6ab929a28fc49ee6b0af0c6220561762f17a73ffe79d.webp"
+  },
+  {
+    "filename": "2706d3cdf738a45e8ccf3d1c29f8efa89d2ac14799846d9abe97fd0f02a1675b.webp",
+    "size": 15736,
+    "source_rel": "hyundai/models/palisade/images/2706d3cdf738a45e8ccf3d1c29f8efa89d2ac14799846d9abe97fd0f02a1675b.webp"
+  },
+  {
+    "filename": "274134aa2dc85a9cb1339514d6d5fc3cefa4abc4431553d3de65bd149add9a1a.webp",
+    "size": 40710,
+    "source_rel": "hyundai/models/palisade/images/274134aa2dc85a9cb1339514d6d5fc3cefa4abc4431553d3de65bd149add9a1a.webp"
+  },
+  {
+    "filename": "2753fccfed6d958e20fe5613cde2e34a9f8d5ec3e7bea6346289f9eec562801f.webp",
+    "size": 6828,
+    "source_rel": "hyundai/models/palisade/images/2753fccfed6d958e20fe5613cde2e34a9f8d5ec3e7bea6346289f9eec562801f.webp"
+  },
+  {
+    "filename": "2769feb4420ac02ad1c0dab31e1af7fefd152ee878eebe8d094b69175ccbd585.webp",
+    "size": 8070,
+    "source_rel": "hyundai/models/palisade/images/2769feb4420ac02ad1c0dab31e1af7fefd152ee878eebe8d094b69175ccbd585.webp"
+  },
+  {
+    "filename": "2773057a50136768828f32518577ec0c1889f3a8209ed08837792adf100d17f3.webp",
+    "size": 99458,
+    "source_rel": "hyundai/models/palisade/images/2773057a50136768828f32518577ec0c1889f3a8209ed08837792adf100d17f3.webp"
+  },
+  {
+    "filename": "2788698f11bd8e97745309e911cca8575a7dfae43b3be3d07061c950c982a1de.webp",
+    "size": 89486,
+    "source_rel": "hyundai/models/palisade/images/2788698f11bd8e97745309e911cca8575a7dfae43b3be3d07061c950c982a1de.webp"
+  },
+  {
+    "filename": "27a9395e7e1fea1003bee86f210df674f23d0bfc88a30ff3056b8642848afc5d.webp",
+    "size": 16330,
+    "source_rel": "hyundai/models/palisade/images/27a9395e7e1fea1003bee86f210df674f23d0bfc88a30ff3056b8642848afc5d.webp"
+  },
+  {
+    "filename": "27b05de2b257f3e14cf56785b090ebd02185f9d084ad127a3fb5962b0e36f9ef.webp",
+    "size": 3734,
+    "source_rel": "hyundai/models/palisade/images/27b05de2b257f3e14cf56785b090ebd02185f9d084ad127a3fb5962b0e36f9ef.webp"
+  },
+  {
+    "filename": "27d1185a0b8c138c2bebb0ff103e55daee7554d49c41605a4cfb260fd6d9714c.webp",
+    "size": 4680,
+    "source_rel": "hyundai/models/palisade/images/27d1185a0b8c138c2bebb0ff103e55daee7554d49c41605a4cfb260fd6d9714c.webp"
+  },
+  {
+    "filename": "27e40504be875035a2e4ccf4dd24365ff71c21bc14045dc39e9d7be1362cf550.webp",
+    "size": 3322,
+    "source_rel": "hyundai/models/palisade/images/27e40504be875035a2e4ccf4dd24365ff71c21bc14045dc39e9d7be1362cf550.webp"
+  }
+]

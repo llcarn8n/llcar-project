@@ -1,0 +1,1827 @@
+{
+  "brand": "jeep",
+  "model": "jeep_wrangler",
+  "source": "manual_extract+template",
+  "total_parts": 206,
+  "systems": {
+    "Uncategorized": 111,
+    "Engine": 15,
+    "Fuel System": 4,
+    "Exhaust System": 5,
+    "Cooling System": 8,
+    "Transmission": 5,
+    "Brake System": 9,
+    "Suspension / Wheels": 13,
+    "Steering": 4,
+    "Electrical": 8,
+    "HVAC": 5,
+    "Body": 9,
+    "Wiper System": 4,
+    "Interior": 2,
+    "Wheels / Tires": 4
+  },
+  "parts": [
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Моторное масло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Масляный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Воздушный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Свечи зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Катушка зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень ГРМ / цепь ГРМ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень генератора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка клапанной крышки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка ГБЦ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик положения коленвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Расходомер воздуха",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Дроссельная заслонка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Форсунки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Регулятор давления топлива",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Каталитический нейтрализатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель средний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Прокладка выхлопной трубы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Антифриз",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Радиатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Вентилятор радиатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Расширительный бачок",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Крышка расширительного бачка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Патрубки системы охлаждения",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Масло АКПП / МКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Фильтр АКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Сцепление (комплект)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Выжимной подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Главный цилиндр сцепления",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозная жидкость",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Датчик ABS",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные барабанные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Стойка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Втулка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Рычаг подвески",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Сайлентблок рычага",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Шаровая опора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Ступичный подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС наружный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС внутренний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пыльник ШРУСа",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Наконечник рулевой тяги",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Рулевая тяга",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Жидкость ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Насос ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Аккумулятор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Генератор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Стартер",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фара передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фонарь задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Лампы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Предохранители",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Фильтр салонный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Компрессор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Радиатор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Осушитель кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Вентилятор отопителя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Боковое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Ветровое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Заднее стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Зеркало боковое",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Капот",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Крыло переднее",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Дверь",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётки стеклоочистителя передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётка стеклоочистителя задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Бачок омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Насос омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Коврики салона",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Педаль газа / тормоза",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Шина",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Диск колёсный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Гайка колёсная",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "00T1 0 002/60003-25005*152",
+      "subsystem": "",
+      "part_number": "60003-25005",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "80\n59 0050\n100 73.7562",
+      "subsystem": "",
+      "part_number": "80590050100",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "900 1220 2362\n100",
+      "subsystem": "",
+      "part_number": "12202362100",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "910 1233 7943\n110",
+      "subsystem": "",
+      "part_number": "12337943110",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "705 0254 720 976 1900 920 1247 3525\n120",
+      "subsystem": "",
+      "part_number": "12473525120",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "718 5835 730 989 7471 930 1260 9107\n130",
+      "subsystem": "",
+      "part_number": "12609107130",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "732.1417 740 1003 3053\n940 1274 4689",
+      "subsystem": "",
+      "part_number": "10033053940",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "940 1274 4689\n140",
+      "subsystem": "",
+      "part_number": "12744689140",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "745 6999 750 1016 8635\n950 1288 0271",
+      "subsystem": "",
+      "part_number": "10168635950",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "950 1288 0271\n150",
+      "subsystem": "",
+      "part_number": "12880271150",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "759 2581 760 1030 4216\n960 1301 5852",
+      "subsystem": "",
+      "part_number": "10304216960",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "960 1301 5852\n160",
+      "subsystem": "",
+      "part_number": "13015852160",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "970 1315 1434\n170",
+      "subsystem": "",
+      "part_number": "13151434170",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "84558\n100437",
+      "subsystem": "",
+      "part_number": "84558100437",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "84199\n101155",
+      "subsystem": "",
+      "part_number": "84199101155",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "90 10 1685\n130 14 6878",
+      "subsystem": "",
+      "part_number": "90101685130",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "92 10 3944\n132 14 9138",
+      "subsystem": "",
+      "part_number": "92103944132",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "94 10 6204\n134 15 1397",
+      "subsystem": "",
+      "part_number": "94106204134",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "96 10 8464\n136 15 3657",
+      "subsystem": "",
+      "part_number": "96108464136",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "98 11 0723\n138 15 5917",
+      "subsystem": "",
+      "part_number": "98110723138",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "37 1747 82\n72 5792 122 107 9837 16 2 143 3882",
+      "subsystem": "",
+      "part_number": "82725792122",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "84\n74 3494 124 109 7539 16 4 145 1584",
+      "subsystem": "",
+      "part_number": "84743494124",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "86\n76 1197 126 111 5242 16 6 146 9287",
+      "subsystem": "",
+      "part_number": "86761197126",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "88\n77 8899 128 113 2944 16 8 148 6989",
+      "subsystem": "",
+      "part_number": "88778899128",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "92\n81 4303 132 116 8348 17 2 152 2393",
+      "subsystem": "",
+      "part_number": "92814303132",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "47 7961 94\n83 2006 134",
+      "subsystem": "",
+      "part_number": "94832006134",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "96\n84 9708 136 120 3753 176 155 7798",
+      "subsystem": "",
+      "part_number": "96849708136",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "98\n86 7410 138 122 1455 178 157 5500",
+      "subsystem": "",
+      "part_number": "98867410138",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "62\n54 8770 102",
+      "subsystem": "",
+      "part_number": "62548770102",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "24 7831 68\n60 1876 108",
+      "subsystem": "",
+      "part_number": "68601876108",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "900 1220 2362\n910 1233 7943",
+      "subsystem": "",
+      "part_number": "12202362910",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "910 1233 7943\n920 1247 3525",
+      "subsystem": "",
+      "part_number": "12337943920",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "920 1247 3525\n930 1260 9107",
+      "subsystem": "",
+      "part_number": "12473525930",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "930 1260 9107\n940 1274 4689",
+      "subsystem": "",
+      "part_number": "12609107940",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "940 1274 4689\n950 1288 0271",
+      "subsystem": "",
+      "part_number": "12744689950",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "950 1288 0271\n960 1301 5852",
+      "subsystem": "",
+      "part_number": "12880271960",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "960 1301 5852\n970 1315 1434",
+      "subsystem": "",
+      "part_number": "13015852970",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "970 1315 1434\n980 1328 7016",
+      "subsystem": "",
+      "part_number": "13151434980",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "980 1328 7016\n990 1342 2598",
+      "subsystem": "",
+      "part_number": "13287016990",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "147 5124 400 295 0248 600 442 5372 800 590 0497 1000 737 5621",
+      "subsystem": "",
+      "part_number": "04971000737",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "159 8880 410 302 4005 610 449 9129 810 597 4253 1050 774 4402",
+      "subsystem": "",
+      "part_number": "42531050774",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "162 2637 420 309 7761 620 457 2885 820 604 8009 1100 811 3183",
+      "subsystem": "",
+      "part_number": "80091100811",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "169 6393 430 317 1517 630 464 6641 830 612 1765 1150 848 1964",
+      "subsystem": "",
+      "part_number": "17651150848",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "240 1 77 0149 440 324 5273 640 472 0397 840 619 5522 1200 885 0745",
+      "subsystem": "",
+      "part_number": "55221200885",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "184 3905 450 331 9029 650 479 4154 850 626 9278 1250 921 9526",
+      "subsystem": "",
+      "part_number": "92781250921",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "260 191 7661 460 339 2786 660 486 7910 860 634 3034 1300 958 8307",
+      "subsystem": "",
+      "part_number": "30341300958",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "280 206 5174 480 354 0298 680 501 5422 880 649 0M6 1400 1032 5869\n290 213 8930 490 361 4054 690 508 9178 890 656 4302 1500 1106 3431",
+      "subsystem": "",
+      "part_number": "10325869290",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "•: 0025\n0 064\n001 1 0 002/60003 25005 152",
+      "subsystem": "",
+      "part_number": "00250064001",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "42836\n840159",
+      "subsystem": "",
+      "part_number": "42836840159",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "J 24063\n101285",
+      "subsystem": "",
+      "part_number": "24063101285",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "J 29547\n101177",
+      "subsystem": "",
+      "part_number": "29547101177",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "899 3146\n8983 501 080",
+      "subsystem": "",
+      "part_number": "31468983501",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "317 3227\n3181288",
+      "subsystem": "",
+      "part_number": "32273181288",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "J-29170\n101667",
+      "subsystem": "",
+      "part_number": "29170101667",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "J-29170\n101671",
+      "subsystem": "",
+      "part_number": "29170101671",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "J-33831\n101705",
+      "subsystem": "",
+      "part_number": "33831101705",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "M.R.280 1987-1988\n8980 010 298",
+      "subsystem": "",
+      "part_number": "19888980010",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": ".000000071\nDIMENSIONS",
+      "subsystem": "",
+      "part_number": "000000071",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "SF5363927\n84069",
+      "subsystem": "",
+      "part_number": "SF5363927",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ARO CD 912\n100750A",
+      "subsystem": "",
+      "part_number": "912100750A",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "400\n500\n600\n700",
+      "subsystem": "",
+      "part_number": "400500600",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "120\n150\n180\n220",
+      "subsystem": "",
+      "part_number": "120150180",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "220\n240\n280\n320",
+      "subsystem": "",
+      "part_number": "220240280",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "320\n360\n400\n500",
+      "subsystem": "",
+      "part_number": "320360400",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "PUR\n100730\nThe repair cost should not exceed the cost of a",
+      "subsystem": "",
+      "part_number": "PUR100730",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "APS 422\n899\n832",
+      "subsystem": "",
+      "part_number": "APS422899",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "834\n802\n832\n831",
+      "subsystem": "",
+      "part_number": "834802832",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "140 1368 390 287 649? 590 435 1616 790 582 6741",
+      "subsystem": "",
+      "part_number": "390287649",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### 270 199 1418 470 346 6542 670 494 1667 870 641 679C 1350 995 7088",
+      "subsystem": "",
+      "part_number": "870641679C",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "8,000-25,000\n840113",
+      "subsystem": "",
+      "part_number": "000840113",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "600\n900\n900\n3242409",
+      "subsystem": "",
+      "part_number": "600900900",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "600\n900\n800\n3242409",
+      "subsystem": "",
+      "part_number": "600900800",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "9 640-9 660\n244 856 245 364",
+      "subsystem": "",
+      "part_number": "660244856",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "311- 312\n001 003\n1 905-1 915",
+      "subsystem": "",
+      "part_number": "312001003",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "194\n101358\nWrangler/YJ vehicles are equipped with a dome",
+      "subsystem": "",
+      "part_number": "194101358",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "6. RETAINING NUT\n101261\nCylinder and Bearing Removal",
+      "subsystem": "",
+      "part_number": "NUT101261",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "G-103\n840402\nSTEERING l i i FiONI AXLE",
+      "subsystem": "",
+      "part_number": "103840402",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "EF 8980 010 600\n103902\nF l AMC I Jeep Corporation",
+      "subsystem": "",
+      "part_number": "600103902F",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "EF 8980 010 601\n103903\nFILING INSTRUCTIONS",
+      "subsystem": "",
+      "part_number": "601103903",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "8953 005 138\n324 0172",
+      "subsystem": "",
+      "part_number": "005138324",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### XXX500974 to reduce water and dirt contami-",
+      "subsystem": "",
+      "part_number": "XXX500974",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "998\n999\n727\nKickdown (Front) Turns*",
+      "subsystem": "",
+      "part_number": "998999727",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "212\n100\n185\n160",
+      "subsystem": "",
+      "part_number": "212100185",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "101768\n111\nm G",
+      "subsystem": "",
+      "part_number": "101768111",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "100616\n113\nJivG",
+      "subsystem": "",
+      "part_number": "100616113",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "100625\n119\nmG THROTTLE BODY FUEL INJECTION SYSTEM Til G",
+      "subsystem": "",
+      "part_number": "100625119",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "101952\n122",
+      "subsystem": "",
+      "part_number": "101952122",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "101789\n131\nSHI",
+      "subsystem": "",
+      "part_number": "101789131",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "100486\n135\nm G",
+      "subsystem": "",
+      "part_number": "100486135",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "100489\n136\nm G",
+      "subsystem": "",
+      "part_number": "100489136",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "101795\n137",
+      "subsystem": "",
+      "part_number": "101795137",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "101796\n138\nm G",
+      "subsystem": "",
+      "part_number": "101796138",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "101768\n149\nm G",
+      "subsystem": "",
+      "part_number": "101768149",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "100616\n152",
+      "subsystem": "",
+      "part_number": "100616152",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "101801\n154\n7!\\ G THROTTLE BODY FUEL INJECTION SYSTEM",
+      "subsystem": "",
+      "part_number": "101801154",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### ~Z777777777777,",
+      "subsystem": "",
+      "part_number": "Z777777777777",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "SPM0310(B)",
+      "subsystem": "",
+      "part_number": "SPM0310",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "A16270",
+      "subsystem": "",
+      "part_number": "A16270",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "A16271",
+      "subsystem": "",
+      "part_number": "A16271",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "A16272",
+      "subsystem": "",
+      "part_number": "A16272",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "A16273",
+      "subsystem": "",
+      "part_number": "A16273",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "A16274",
+      "subsystem": "",
+      "part_number": "A16274",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### K88976",
+      "subsystem": "",
+      "part_number": "K88976",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "A41322",
+      "subsystem": "",
+      "part_number": "A41322",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "J1703F",
+      "subsystem": "",
+      "part_number": "J1703F",
+      "source_url": "",
+      "source": "manual:chunks-manual-jeep_wrangler.md"
+    }
+  ],
+  "parts_total_original": 206,
+  "parts_capped": true
+}

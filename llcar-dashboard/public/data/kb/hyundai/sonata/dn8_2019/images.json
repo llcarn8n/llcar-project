@@ -1,0 +1,2502 @@
+[
+  {
+    "filename": "00ae1975466e44958e089005420b4864c8b3e252428966424ee5da1b4b5307f2.webp",
+    "size": 10886,
+    "source_rel": "hyundai/models/sonata/images/00ae1975466e44958e089005420b4864c8b3e252428966424ee5da1b4b5307f2.webp"
+  },
+  {
+    "filename": "00ca85e18c6a6239f9267968c072fad008aa2d9a83449fcf74d9a3fee8b933de.webp",
+    "size": 13452,
+    "source_rel": "hyundai/models/sonata/images/00ca85e18c6a6239f9267968c072fad008aa2d9a83449fcf74d9a3fee8b933de.webp"
+  },
+  {
+    "filename": "00d5f6124a0ac2221236493f4f4c3febb31262d730ef45fd34b7ee77e67657dc.webp",
+    "size": 9134,
+    "source_rel": "hyundai/models/sonata/images/00d5f6124a0ac2221236493f4f4c3febb31262d730ef45fd34b7ee77e67657dc.webp"
+  },
+  {
+    "filename": "013ce927ca2c6c121b7d31fd960bbb9092beea1018729bb9ff57d98e484e8f32.webp",
+    "size": 10214,
+    "source_rel": "hyundai/models/sonata/images/013ce927ca2c6c121b7d31fd960bbb9092beea1018729bb9ff57d98e484e8f32.webp"
+  },
+  {
+    "filename": "02b9ed09310c24762605dae6d8fcddba488c41f1de8c8aa77e11c814bc3e52ad.webp",
+    "size": 44824,
+    "source_rel": "hyundai/models/sonata/images/02b9ed09310c24762605dae6d8fcddba488c41f1de8c8aa77e11c814bc3e52ad.webp"
+  },
+  {
+    "filename": "03a8539aa6be818bf4846aa080a5503599473a5a9834963513cf37db8c385a21.webp",
+    "size": 10620,
+    "source_rel": "hyundai/models/sonata/images/03a8539aa6be818bf4846aa080a5503599473a5a9834963513cf37db8c385a21.webp"
+  },
+  {
+    "filename": "03aa27cd3b8dabaa4d13c4ba89212715ab3e313ec58f88b7b4f8240a264c34f5.webp",
+    "size": 10900,
+    "source_rel": "hyundai/models/sonata/images/03aa27cd3b8dabaa4d13c4ba89212715ab3e313ec58f88b7b4f8240a264c34f5.webp"
+  },
+  {
+    "filename": "03dbb203edbbb8ad09bec9b2ce8f48d4e22c2c2144f9ed43ff3898e38c6294bb.webp",
+    "size": 7328,
+    "source_rel": "hyundai/models/sonata/images/03dbb203edbbb8ad09bec9b2ce8f48d4e22c2c2144f9ed43ff3898e38c6294bb.webp"
+  },
+  {
+    "filename": "03e07fe2a7e9444e8351d704bbba94e3dd385fa71a5f25718672abf008e0a605.webp",
+    "size": 13192,
+    "source_rel": "hyundai/models/sonata/images/03e07fe2a7e9444e8351d704bbba94e3dd385fa71a5f25718672abf008e0a605.webp"
+  },
+  {
+    "filename": "03f1458e9da94d9074f2866c7b7a64e355761bafa3c71c9ed174ab33cbf45089.webp",
+    "size": 20450,
+    "source_rel": "hyundai/models/sonata/images/03f1458e9da94d9074f2866c7b7a64e355761bafa3c71c9ed174ab33cbf45089.webp"
+  },
+  {
+    "filename": "04591da0835032ce7a44d599dd79d9c723202dc27a1524a183c8a83cba6272d9.webp",
+    "size": 16572,
+    "source_rel": "hyundai/models/sonata/images/04591da0835032ce7a44d599dd79d9c723202dc27a1524a183c8a83cba6272d9.webp"
+  },
+  {
+    "filename": "04d22e165cfa61b1e6d68e9676cedafe73e97fc54cc3b66b8266115d34ef2f7f.webp",
+    "size": 10808,
+    "source_rel": "hyundai/models/sonata/images/04d22e165cfa61b1e6d68e9676cedafe73e97fc54cc3b66b8266115d34ef2f7f.webp"
+  },
+  {
+    "filename": "055ee262b30e74889251ad961ffdb4b20bc1abe8ad67c8c9c640f5075f856c99.webp",
+    "size": 546,
+    "source_rel": "hyundai/models/sonata/images/055ee262b30e74889251ad961ffdb4b20bc1abe8ad67c8c9c640f5075f856c99.webp"
+  },
+  {
+    "filename": "05d6f4a90a51d8660504246703269cd8e0a66a9234229f7950d5a0a0a41605c9.webp",
+    "size": 7766,
+    "source_rel": "hyundai/models/sonata/images/05d6f4a90a51d8660504246703269cd8e0a66a9234229f7950d5a0a0a41605c9.webp"
+  },
+  {
+    "filename": "08a8fbeba3950982c99855ec2dc31032a18f436a4f3cce7ac9d4cced561240c6.webp",
+    "size": 53176,
+    "source_rel": "hyundai/models/sonata/images/08a8fbeba3950982c99855ec2dc31032a18f436a4f3cce7ac9d4cced561240c6.webp"
+  },
+  {
+    "filename": "09423acb7873a9deb9c9a2f2a40d5dea338c5b203bff868f737979720d32ed72.webp",
+    "size": 187314,
+    "source_rel": "hyundai/models/sonata/images/09423acb7873a9deb9c9a2f2a40d5dea338c5b203bff868f737979720d32ed72.webp"
+  },
+  {
+    "filename": "0959e6b96b26e3cc5df2808e11cf4645e77791ff1559eb819a6b85f3e13b8d70.webp",
+    "size": 8240,
+    "source_rel": "hyundai/models/sonata/images/0959e6b96b26e3cc5df2808e11cf4645e77791ff1559eb819a6b85f3e13b8d70.webp"
+  },
+  {
+    "filename": "0964d78fee6babf8a40eb6f47f7d2d6bd42d4de71b4f136eea3ed1b8444a7f04.webp",
+    "size": 13446,
+    "source_rel": "hyundai/models/sonata/images/0964d78fee6babf8a40eb6f47f7d2d6bd42d4de71b4f136eea3ed1b8444a7f04.webp"
+  },
+  {
+    "filename": "0975873416581676453c41c7f841c9b62739364e7758daf8313f8063a3f326fc.webp",
+    "size": 10832,
+    "source_rel": "hyundai/models/sonata/images/0975873416581676453c41c7f841c9b62739364e7758daf8313f8063a3f326fc.webp"
+  },
+  {
+    "filename": "098c3ba260c11ca286cdcbf90159844713508cd59c1e1bb7f0b5b488b0ba1fd0.webp",
+    "size": 4816,
+    "source_rel": "hyundai/models/sonata/images/098c3ba260c11ca286cdcbf90159844713508cd59c1e1bb7f0b5b488b0ba1fd0.webp"
+  },
+  {
+    "filename": "0a119869d50aa16ab4f8fe18117b6af70a42d82a261eb9d174ae0a2b816fe03e.webp",
+    "size": 9070,
+    "source_rel": "hyundai/models/sonata/images/0a119869d50aa16ab4f8fe18117b6af70a42d82a261eb9d174ae0a2b816fe03e.webp"
+  },
+  {
+    "filename": "0a11b922bae4edd9e90081be64732e3661f9ccf72097e754596b0509352bdf06.webp",
+    "size": 1468,
+    "source_rel": "hyundai/models/sonata/images/0a11b922bae4edd9e90081be64732e3661f9ccf72097e754596b0509352bdf06.webp"
+  },
+  {
+    "filename": "0b1bf04f528a1c106cf30dc4f0bc45da47d5529991a81083feeb567629cf8530.webp",
+    "size": 14812,
+    "source_rel": "hyundai/models/sonata/images/0b1bf04f528a1c106cf30dc4f0bc45da47d5529991a81083feeb567629cf8530.webp"
+  },
+  {
+    "filename": "0b70d3d3b6186f6120cd89820d8580beb199b5234f7869f79710a5f00b698cfe.webp",
+    "size": 35560,
+    "source_rel": "hyundai/models/sonata/images/0b70d3d3b6186f6120cd89820d8580beb199b5234f7869f79710a5f00b698cfe.webp"
+  },
+  {
+    "filename": "0bed5f7288a30e87b69a028f14b7e01509ad929cbcbc73d9decbdcc5547959f9.webp",
+    "size": 2828,
+    "source_rel": "hyundai/models/sonata/images/0bed5f7288a30e87b69a028f14b7e01509ad929cbcbc73d9decbdcc5547959f9.webp"
+  },
+  {
+    "filename": "0c22038a75893122fcd18b8a0808a29db79699a09924d6018a13555fe0c3d19e.webp",
+    "size": 106558,
+    "source_rel": "hyundai/models/sonata/images/0c22038a75893122fcd18b8a0808a29db79699a09924d6018a13555fe0c3d19e.webp"
+  },
+  {
+    "filename": "0c439b334f456d11bba68c35a2d3ab83e3484ec070900607e6f2fb0c85f01e9a.webp",
+    "size": 9916,
+    "source_rel": "hyundai/models/sonata/images/0c439b334f456d11bba68c35a2d3ab83e3484ec070900607e6f2fb0c85f01e9a.webp"
+  },
+  {
+    "filename": "0e3e2a330f5f01eb62180768eca46890b390c117890e659faa606d6491a05c0a.webp",
+    "size": 221196,
+    "source_rel": "hyundai/models/sonata/images/0e3e2a330f5f01eb62180768eca46890b390c117890e659faa606d6491a05c0a.webp"
+  },
+  {
+    "filename": "0eb041fb2d379e975168fb0576101519fc4e5b234745c78769c42feee5e4e950.webp",
+    "size": 12114,
+    "source_rel": "hyundai/models/sonata/images/0eb041fb2d379e975168fb0576101519fc4e5b234745c78769c42feee5e4e950.webp"
+  },
+  {
+    "filename": "0ebacf4b1443696d95f13605e424d7119f56035d503f25de28cf9beaf7493d16.webp",
+    "size": 15568,
+    "source_rel": "hyundai/models/sonata/images/0ebacf4b1443696d95f13605e424d7119f56035d503f25de28cf9beaf7493d16.webp"
+  },
+  {
+    "filename": "0febeb9ea9bee04c5a290473c02d13eb866bb51b1f7fb056036e407937f0e444.webp",
+    "size": 10572,
+    "source_rel": "hyundai/models/sonata/images/0febeb9ea9bee04c5a290473c02d13eb866bb51b1f7fb056036e407937f0e444.webp"
+  },
+  {
+    "filename": "1054b93c4e99c89b2ad8ee9b7c063cc5a9532ce71c8501a8fb8a33cd7fe63218.webp",
+    "size": 16358,
+    "source_rel": "hyundai/models/sonata/images/1054b93c4e99c89b2ad8ee9b7c063cc5a9532ce71c8501a8fb8a33cd7fe63218.webp"
+  },
+  {
+    "filename": "10bfc42f38c0311d69810247638e440969e42dea71886d9f2ca0ecebdf1e95b3.webp",
+    "size": 9110,
+    "source_rel": "hyundai/models/sonata/images/10bfc42f38c0311d69810247638e440969e42dea71886d9f2ca0ecebdf1e95b3.webp"
+  },
+  {
+    "filename": "10c538578c123e2681a2386a83aa08afd14b07a86b9777ef4d8f03d779ed59b0.webp",
+    "size": 13316,
+    "source_rel": "hyundai/models/sonata/images/10c538578c123e2681a2386a83aa08afd14b07a86b9777ef4d8f03d779ed59b0.webp"
+  },
+  {
+    "filename": "10c5844d58178e2ce642205597d093df669f17d7a167aa7dcc3de22fb8521dba.webp",
+    "size": 30708,
+    "source_rel": "hyundai/models/sonata/images/10c5844d58178e2ce642205597d093df669f17d7a167aa7dcc3de22fb8521dba.webp"
+  },
+  {
+    "filename": "113f7a7bce64df3b37096625e9ea302b9295a0ed092cc4553dcf0848bc217a23.webp",
+    "size": 3680,
+    "source_rel": "hyundai/models/sonata/images/113f7a7bce64df3b37096625e9ea302b9295a0ed092cc4553dcf0848bc217a23.webp"
+  },
+  {
+    "filename": "116693bc3ce2fc63f6debdee6228b4080f8076c60aa1f8fc998bfa8b8505ed43.webp",
+    "size": 30004,
+    "source_rel": "hyundai/models/sonata/images/116693bc3ce2fc63f6debdee6228b4080f8076c60aa1f8fc998bfa8b8505ed43.webp"
+  },
+  {
+    "filename": "116d496d179edde5a348eaeb01be6e3f2e276c8b197238c8e6d6366876239fef.webp",
+    "size": 6984,
+    "source_rel": "hyundai/models/sonata/images/116d496d179edde5a348eaeb01be6e3f2e276c8b197238c8e6d6366876239fef.webp"
+  },
+  {
+    "filename": "11cee1ddee3ec55dedf02f806a0202d2b6ca1e127dabd2ee7dc9403c20bf2709.webp",
+    "size": 10802,
+    "source_rel": "hyundai/models/sonata/images/11cee1ddee3ec55dedf02f806a0202d2b6ca1e127dabd2ee7dc9403c20bf2709.webp"
+  },
+  {
+    "filename": "1207104f90347cfedb3fdca0d74bc3033d8691dc9e0236a0be0a15e40eb6a0d6.webp",
+    "size": 5712,
+    "source_rel": "hyundai/models/sonata/images/1207104f90347cfedb3fdca0d74bc3033d8691dc9e0236a0be0a15e40eb6a0d6.webp"
+  },
+  {
+    "filename": "123aa79d7a9012fd3c2a69d763c341e555a8bf42af8f8a474a285af27eca1c0c.webp",
+    "size": 5958,
+    "source_rel": "hyundai/models/sonata/images/123aa79d7a9012fd3c2a69d763c341e555a8bf42af8f8a474a285af27eca1c0c.webp"
+  },
+  {
+    "filename": "1257fb6ef32f83ce728772c3764345526f4a6fd870425c3c361366c081a2a3c5.webp",
+    "size": 7246,
+    "source_rel": "hyundai/models/sonata/images/1257fb6ef32f83ce728772c3764345526f4a6fd870425c3c361366c081a2a3c5.webp"
+  },
+  {
+    "filename": "12860601bf87b07929a757bd1e6e878820c62d85dd3e52e7aa4b6a01afedccaa.webp",
+    "size": 13712,
+    "source_rel": "hyundai/models/sonata/images/12860601bf87b07929a757bd1e6e878820c62d85dd3e52e7aa4b6a01afedccaa.webp"
+  },
+  {
+    "filename": "12c95dc47233df229d181f37420aa765f635c6c453eb85b5654dabd3017533df.webp",
+    "size": 10736,
+    "source_rel": "hyundai/models/sonata/images/12c95dc47233df229d181f37420aa765f635c6c453eb85b5654dabd3017533df.webp"
+  },
+  {
+    "filename": "1307a14455a776cfd2ccc2a6242967f2fbcf1d098f081c7f62417087e18b2c2b.webp",
+    "size": 12350,
+    "source_rel": "hyundai/models/sonata/images/1307a14455a776cfd2ccc2a6242967f2fbcf1d098f081c7f62417087e18b2c2b.webp"
+  },
+  {
+    "filename": "132a6e596c3cf98ad7eb9faec2610397ffa18af08f5b60f02753844f5e2763d2.webp",
+    "size": 10640,
+    "source_rel": "hyundai/models/sonata/images/132a6e596c3cf98ad7eb9faec2610397ffa18af08f5b60f02753844f5e2763d2.webp"
+  },
+  {
+    "filename": "136d3749e2459800caa368298aec18f06d125f93c7b5f0f40c90afe59bf147f2.webp",
+    "size": 10740,
+    "source_rel": "hyundai/models/sonata/images/136d3749e2459800caa368298aec18f06d125f93c7b5f0f40c90afe59bf147f2.webp"
+  },
+  {
+    "filename": "13b6dd2bdf39c0b2c1be57dadfc6ef19795d74de83e5f7f4eb80c3ef553f65a9.webp",
+    "size": 8114,
+    "source_rel": "hyundai/models/sonata/images/13b6dd2bdf39c0b2c1be57dadfc6ef19795d74de83e5f7f4eb80c3ef553f65a9.webp"
+  },
+  {
+    "filename": "143ccba98ecbc9a9354343fcf0574860c1b9c38d4489a8fd33fc02b7f7aa488a.webp",
+    "size": 15902,
+    "source_rel": "hyundai/models/sonata/images/143ccba98ecbc9a9354343fcf0574860c1b9c38d4489a8fd33fc02b7f7aa488a.webp"
+  },
+  {
+    "filename": "14b3b4e1df5be2842ff65c53bce4c650b2cf958dd66ab8ba272de32dfa051a3d.webp",
+    "size": 8720,
+    "source_rel": "hyundai/models/sonata/images/14b3b4e1df5be2842ff65c53bce4c650b2cf958dd66ab8ba272de32dfa051a3d.webp"
+  },
+  {
+    "filename": "1627ebb0177eb6cc9dde479ec2a62c090849bdaed26913b9a26402458085be93.webp",
+    "size": 28212,
+    "source_rel": "hyundai/models/sonata/images/1627ebb0177eb6cc9dde479ec2a62c090849bdaed26913b9a26402458085be93.webp"
+  },
+  {
+    "filename": "164936671bb129190422435ac08bf07788570e921a613d20fff5599d0ebc916f.webp",
+    "size": 8616,
+    "source_rel": "hyundai/models/sonata/images/164936671bb129190422435ac08bf07788570e921a613d20fff5599d0ebc916f.webp"
+  },
+  {
+    "filename": "167d2d9ddd06d36a3489d48f560f8a96765a6273ea6bfc9177423d5592a5a27f.webp",
+    "size": 7876,
+    "source_rel": "hyundai/models/sonata/images/167d2d9ddd06d36a3489d48f560f8a96765a6273ea6bfc9177423d5592a5a27f.webp"
+  },
+  {
+    "filename": "16fc14eb7061e3b9edad4d15ce450e45cae0e653b17b0b36cba4f9e85fec64b4.webp",
+    "size": 8130,
+    "source_rel": "hyundai/models/sonata/images/16fc14eb7061e3b9edad4d15ce450e45cae0e653b17b0b36cba4f9e85fec64b4.webp"
+  },
+  {
+    "filename": "1726dd7ea61566a45a0cb288d54a4076afa8b0741104929bcf6ce9f2db0d8fed.webp",
+    "size": 24152,
+    "source_rel": "hyundai/models/sonata/images/1726dd7ea61566a45a0cb288d54a4076afa8b0741104929bcf6ce9f2db0d8fed.webp"
+  },
+  {
+    "filename": "174dd91fc013046b848e7db4f6a8351bf4614ed3551281704bb182c01babd514.webp",
+    "size": 10048,
+    "source_rel": "hyundai/models/sonata/images/174dd91fc013046b848e7db4f6a8351bf4614ed3551281704bb182c01babd514.webp"
+  },
+  {
+    "filename": "1856e18c4cb2b11d9959f2a58ba0abba19528a7028f5186f1e3b50daf2637f11.webp",
+    "size": 5118,
+    "source_rel": "hyundai/models/sonata/images/1856e18c4cb2b11d9959f2a58ba0abba19528a7028f5186f1e3b50daf2637f11.webp"
+  },
+  {
+    "filename": "18e049193bd4c217245e2857418f1ca58b66ad050dca1c959b05c7c78e8e5f16.webp",
+    "size": 12136,
+    "source_rel": "hyundai/models/sonata/images/18e049193bd4c217245e2857418f1ca58b66ad050dca1c959b05c7c78e8e5f16.webp"
+  },
+  {
+    "filename": "18e449c740e104dd0226fe9569ca8b8842c3098a3b88aeb1a76ff87ce4227cdf.webp",
+    "size": 91730,
+    "source_rel": "hyundai/models/sonata/images/18e449c740e104dd0226fe9569ca8b8842c3098a3b88aeb1a76ff87ce4227cdf.webp"
+  },
+  {
+    "filename": "197038ff0c923b8159f536a7157181e0b127aa4108ce5630d065e0569f3a7569.webp",
+    "size": 11924,
+    "source_rel": "hyundai/models/sonata/images/197038ff0c923b8159f536a7157181e0b127aa4108ce5630d065e0569f3a7569.webp"
+  },
+  {
+    "filename": "1b951ab0a4508b3a7723247ce47e810ae93958ba3792523c45c00f0546bfcfa2.webp",
+    "size": 11706,
+    "source_rel": "hyundai/models/sonata/images/1b951ab0a4508b3a7723247ce47e810ae93958ba3792523c45c00f0546bfcfa2.webp"
+  },
+  {
+    "filename": "1c7dacdb1c0622b534b3ad398a9d201b7ca572f500b8f9ff76525c262ed4fc98.webp",
+    "size": 7840,
+    "source_rel": "hyundai/models/sonata/images/1c7dacdb1c0622b534b3ad398a9d201b7ca572f500b8f9ff76525c262ed4fc98.webp"
+  },
+  {
+    "filename": "1c80e1d48812d9573ec79ad18f8e03c5a121b81b5ae517241bc21a01081101db.webp",
+    "size": 11630,
+    "source_rel": "hyundai/models/sonata/images/1c80e1d48812d9573ec79ad18f8e03c5a121b81b5ae517241bc21a01081101db.webp"
+  },
+  {
+    "filename": "1c8bcf6b3a2eb9fadae7f4fc85596226db8e5dca5251e7b2ffa4abbfd80c5b4c.webp",
+    "size": 17584,
+    "source_rel": "hyundai/models/sonata/images/1c8bcf6b3a2eb9fadae7f4fc85596226db8e5dca5251e7b2ffa4abbfd80c5b4c.webp"
+  },
+  {
+    "filename": "1cb689c4e123c1f6aadea9b8bd8bd73f8c64ea4d61e464ebe8e62e747e6ed01e.webp",
+    "size": 21698,
+    "source_rel": "hyundai/models/sonata/images/1cb689c4e123c1f6aadea9b8bd8bd73f8c64ea4d61e464ebe8e62e747e6ed01e.webp"
+  },
+  {
+    "filename": "1d73650d244660fa7152b954ac73d162ea21549b4e19599b3deb01711d904700.webp",
+    "size": 9506,
+    "source_rel": "hyundai/models/sonata/images/1d73650d244660fa7152b954ac73d162ea21549b4e19599b3deb01711d904700.webp"
+  },
+  {
+    "filename": "1e0c0a9e2ddef0a25574666a0644396b4ce4b272973466dec4361087dd771ecc.webp",
+    "size": 11018,
+    "source_rel": "hyundai/models/sonata/images/1e0c0a9e2ddef0a25574666a0644396b4ce4b272973466dec4361087dd771ecc.webp"
+  },
+  {
+    "filename": "1e9477be471628e561ac74448962af09662a79141774b0be6e757ad9dd22fb10.webp",
+    "size": 114138,
+    "source_rel": "hyundai/models/sonata/images/1e9477be471628e561ac74448962af09662a79141774b0be6e757ad9dd22fb10.webp"
+  },
+  {
+    "filename": "1ee4b964a2e040da297e4594592bc4c0c5593d79cd5e8f9d532e50ef417f1b6d.webp",
+    "size": 103340,
+    "source_rel": "hyundai/models/sonata/images/1ee4b964a2e040da297e4594592bc4c0c5593d79cd5e8f9d532e50ef417f1b6d.webp"
+  },
+  {
+    "filename": "1f536b1a5337e09447b0d64dd5ffc57277134e6ec078c53dab5135e949c72f4f.webp",
+    "size": 12870,
+    "source_rel": "hyundai/models/sonata/images/1f536b1a5337e09447b0d64dd5ffc57277134e6ec078c53dab5135e949c72f4f.webp"
+  },
+  {
+    "filename": "1fc8061d1931da86a04ed5a7f467001ad9a99670cbe9364889a0e57acb542cfa.webp",
+    "size": 13440,
+    "source_rel": "hyundai/models/sonata/images/1fc8061d1931da86a04ed5a7f467001ad9a99670cbe9364889a0e57acb542cfa.webp"
+  },
+  {
+    "filename": "1fef9ba79ff5f78df3378737e07bffa0961f54174a366d75f3b09e97e0e8179a.webp",
+    "size": 7300,
+    "source_rel": "hyundai/models/sonata/images/1fef9ba79ff5f78df3378737e07bffa0961f54174a366d75f3b09e97e0e8179a.webp"
+  },
+  {
+    "filename": "207e3689882398f5cb7b316fd4ec026e0a1c49b466d5b375433c37b002c8610b.webp",
+    "size": 16368,
+    "source_rel": "hyundai/models/sonata/images/207e3689882398f5cb7b316fd4ec026e0a1c49b466d5b375433c37b002c8610b.webp"
+  },
+  {
+    "filename": "20d553c01d59fd880711ae44e73da916710275f99c7d4ce81a9184f94c596843.webp",
+    "size": 3374,
+    "source_rel": "hyundai/models/sonata/images/20d553c01d59fd880711ae44e73da916710275f99c7d4ce81a9184f94c596843.webp"
+  },
+  {
+    "filename": "20e0dbc0a07dfdc5a32a39be412c0c6de4c92cc70ba1363dc346ece93101ef85.webp",
+    "size": 4756,
+    "source_rel": "hyundai/models/sonata/images/20e0dbc0a07dfdc5a32a39be412c0c6de4c92cc70ba1363dc346ece93101ef85.webp"
+  },
+  {
+    "filename": "21beed8a7be4a71a435b4b205c982a0b8549831d3046b9e68476c104dcc687e8.webp",
+    "size": 25622,
+    "source_rel": "hyundai/models/sonata/images/21beed8a7be4a71a435b4b205c982a0b8549831d3046b9e68476c104dcc687e8.webp"
+  },
+  {
+    "filename": "2271b3634b15aacb09b84e3dc6959cbc4df03b037877ea1493422acf92774080.webp",
+    "size": 171588,
+    "source_rel": "hyundai/models/sonata/images/2271b3634b15aacb09b84e3dc6959cbc4df03b037877ea1493422acf92774080.webp"
+  },
+  {
+    "filename": "229b8e4313402b46f52d315c1393c5dfb32f7e764d5ddef6228a0d6b2eec0973.webp",
+    "size": 10258,
+    "source_rel": "hyundai/models/sonata/images/229b8e4313402b46f52d315c1393c5dfb32f7e764d5ddef6228a0d6b2eec0973.webp"
+  },
+  {
+    "filename": "23337d93de369ba28dc1102cf81fdae05836381c496d3c228c2fe240be4e4669.webp",
+    "size": 10334,
+    "source_rel": "hyundai/models/sonata/images/23337d93de369ba28dc1102cf81fdae05836381c496d3c228c2fe240be4e4669.webp"
+  },
+  {
+    "filename": "243b4333869caf98a8c6c45f557999646036351e67bf6ab0c331f3477b03eb6c.webp",
+    "size": 16058,
+    "source_rel": "hyundai/models/sonata/images/243b4333869caf98a8c6c45f557999646036351e67bf6ab0c331f3477b03eb6c.webp"
+  },
+  {
+    "filename": "24cb629ff7071189ca92f717db4ec44c98b85c545eacc697446c31eaa513f725.webp",
+    "size": 11140,
+    "source_rel": "hyundai/models/sonata/images/24cb629ff7071189ca92f717db4ec44c98b85c545eacc697446c31eaa513f725.webp"
+  },
+  {
+    "filename": "258fedce175a9fe331ff6b00cdd2bcf8c0d7aed634e3ec018fc5622c6c1e7a1a.webp",
+    "size": 14292,
+    "source_rel": "hyundai/models/sonata/images/258fedce175a9fe331ff6b00cdd2bcf8c0d7aed634e3ec018fc5622c6c1e7a1a.webp"
+  },
+  {
+    "filename": "25ee5886fe0beadc925135bc77706ebbf8444addd76ee7f3ea98c42b6444f5b7.webp",
+    "size": 8880,
+    "source_rel": "hyundai/models/sonata/images/25ee5886fe0beadc925135bc77706ebbf8444addd76ee7f3ea98c42b6444f5b7.webp"
+  },
+  {
+    "filename": "2607b5082e1997389ad232245d1050487e05ee3253c6fcf481e97abb7aa09270.webp",
+    "size": 29624,
+    "source_rel": "hyundai/models/sonata/images/2607b5082e1997389ad232245d1050487e05ee3253c6fcf481e97abb7aa09270.webp"
+  },
+  {
+    "filename": "2628533af9bf9233e8b77a49d30c09de85f67c68f23851a71d821859456dbd0b.webp",
+    "size": 10880,
+    "source_rel": "hyundai/models/sonata/images/2628533af9bf9233e8b77a49d30c09de85f67c68f23851a71d821859456dbd0b.webp"
+  },
+  {
+    "filename": "262e9907208ea3db7f107696b71f208a9208de33d9f712591fa04d67e23805f7.webp",
+    "size": 96498,
+    "source_rel": "hyundai/models/sonata/images/262e9907208ea3db7f107696b71f208a9208de33d9f712591fa04d67e23805f7.webp"
+  },
+  {
+    "filename": "27469424bd5d91896ea3869da5d1432ed7ca091c9257428bd047e77b93e93999.webp",
+    "size": 6586,
+    "source_rel": "hyundai/models/sonata/images/27469424bd5d91896ea3869da5d1432ed7ca091c9257428bd047e77b93e93999.webp"
+  },
+  {
+    "filename": "275649299bf6e304fe400d463f312a3ef4735c03612e72250a7e5bdd995e9cd7.webp",
+    "size": 23466,
+    "source_rel": "hyundai/models/sonata/images/275649299bf6e304fe400d463f312a3ef4735c03612e72250a7e5bdd995e9cd7.webp"
+  },
+  {
+    "filename": "28e17fad05382c08be545c911e1f622b1b1659cdc8391633fb0fe7522942909b.webp",
+    "size": 139546,
+    "source_rel": "hyundai/models/sonata/images/28e17fad05382c08be545c911e1f622b1b1659cdc8391633fb0fe7522942909b.webp"
+  },
+  {
+    "filename": "291c261dc3f23e73a626da8c0fb6b01e3bd68a3d5d3fcdda8d74e4327e5a7d82.webp",
+    "size": 6370,
+    "source_rel": "hyundai/models/sonata/images/291c261dc3f23e73a626da8c0fb6b01e3bd68a3d5d3fcdda8d74e4327e5a7d82.webp"
+  },
+  {
+    "filename": "296391d0b8840021307a321060bdc5104c8277a2c6e16e4f05b663d6f906b708.webp",
+    "size": 5512,
+    "source_rel": "hyundai/models/sonata/images/296391d0b8840021307a321060bdc5104c8277a2c6e16e4f05b663d6f906b708.webp"
+  },
+  {
+    "filename": "297c928e993804581b71258ea0e77b0cdf83bb92283c0bfdd19fdbd7ccecfb56.webp",
+    "size": 95766,
+    "source_rel": "hyundai/models/sonata/images/297c928e993804581b71258ea0e77b0cdf83bb92283c0bfdd19fdbd7ccecfb56.webp"
+  },
+  {
+    "filename": "2a48cc86f5ba4d0b268c89e7f6c2441b879dd40f65239021979378aa1ce37143.webp",
+    "size": 8358,
+    "source_rel": "hyundai/models/sonata/images/2a48cc86f5ba4d0b268c89e7f6c2441b879dd40f65239021979378aa1ce37143.webp"
+  },
+  {
+    "filename": "2a608217d48009ae5fb8f346e9af4b954a47ad6cf6dfbfc6b3ca67cab865a77a.webp",
+    "size": 14382,
+    "source_rel": "hyundai/models/sonata/images/2a608217d48009ae5fb8f346e9af4b954a47ad6cf6dfbfc6b3ca67cab865a77a.webp"
+  },
+  {
+    "filename": "2ac13b4de6a71af7362b7f90e40e5d3600046840626b2054a406936e5414e56e.webp",
+    "size": 5618,
+    "source_rel": "hyundai/models/sonata/images/2ac13b4de6a71af7362b7f90e40e5d3600046840626b2054a406936e5414e56e.webp"
+  },
+  {
+    "filename": "2af787088abd5b6b3ae4f5a1906516deff5d0dad0d1788f8398773521c069d90.webp",
+    "size": 262648,
+    "source_rel": "hyundai/models/sonata/images/2af787088abd5b6b3ae4f5a1906516deff5d0dad0d1788f8398773521c069d90.webp"
+  },
+  {
+    "filename": "2b43e4f2094f309b01f92ebc5be129cb5e5cb286e8d8b6d3de9dbc9f8bda3cc5.webp",
+    "size": 5810,
+    "source_rel": "hyundai/models/sonata/images/2b43e4f2094f309b01f92ebc5be129cb5e5cb286e8d8b6d3de9dbc9f8bda3cc5.webp"
+  },
+  {
+    "filename": "2c34ba119cec70daa79d169e7112354d9108b4c7595e2f886055d037d07132f4.webp",
+    "size": 10446,
+    "source_rel": "hyundai/models/sonata/images/2c34ba119cec70daa79d169e7112354d9108b4c7595e2f886055d037d07132f4.webp"
+  },
+  {
+    "filename": "2cb6b80994dc9afe9879149952e81fd6a7e7ba41387c5d5aaefb48673bd7bae0.webp",
+    "size": 3042,
+    "source_rel": "hyundai/models/sonata/images/2cb6b80994dc9afe9879149952e81fd6a7e7ba41387c5d5aaefb48673bd7bae0.webp"
+  },
+  {
+    "filename": "2d6b1c2381533e4062b4eda35f04484393fd2a6070f0d95651df58d4defff646.webp",
+    "size": 2928,
+    "source_rel": "hyundai/models/sonata/images/2d6b1c2381533e4062b4eda35f04484393fd2a6070f0d95651df58d4defff646.webp"
+  },
+  {
+    "filename": "2dbc18a62763d8f1293034d2f905fa430fba9310c91f57185c3c8990b130ac51.webp",
+    "size": 9084,
+    "source_rel": "hyundai/models/sonata/images/2dbc18a62763d8f1293034d2f905fa430fba9310c91f57185c3c8990b130ac51.webp"
+  },
+  {
+    "filename": "2dcd611aa108f38a21fc31f1eb015a2b2a6eeaebea5a912e17749d53f2c982bc.webp",
+    "size": 4934,
+    "source_rel": "hyundai/models/sonata/images/2dcd611aa108f38a21fc31f1eb015a2b2a6eeaebea5a912e17749d53f2c982bc.webp"
+  },
+  {
+    "filename": "2de784887317a75c67bbc44715ae88ff04f05105ef97b4a57c0dd72e9d3069b0.webp",
+    "size": 2776,
+    "source_rel": "hyundai/models/sonata/images/2de784887317a75c67bbc44715ae88ff04f05105ef97b4a57c0dd72e9d3069b0.webp"
+  },
+  {
+    "filename": "2e4995cec75ce613203011712b3e64e7b7d1f74306acfff2695df4be586fde29.webp",
+    "size": 7688,
+    "source_rel": "hyundai/models/sonata/images/2e4995cec75ce613203011712b3e64e7b7d1f74306acfff2695df4be586fde29.webp"
+  },
+  {
+    "filename": "2e6834339ace2b90487137c9c4127125c27e5a2f94b9f218550177d78b532607.webp",
+    "size": 15644,
+    "source_rel": "hyundai/models/sonata/images/2e6834339ace2b90487137c9c4127125c27e5a2f94b9f218550177d78b532607.webp"
+  },
+  {
+    "filename": "2f43d706b4e4db07535fa03a66dbb98cb6f37d5f5a57104955edf62ab3abe7d0.webp",
+    "size": 3748,
+    "source_rel": "hyundai/models/sonata/images/2f43d706b4e4db07535fa03a66dbb98cb6f37d5f5a57104955edf62ab3abe7d0.webp"
+  },
+  {
+    "filename": "2f6af9b7cc0fa9b2fe6e811acf7e762c98785c4cea3d07995209e05a49b42cc1.webp",
+    "size": 6114,
+    "source_rel": "hyundai/models/sonata/images/2f6af9b7cc0fa9b2fe6e811acf7e762c98785c4cea3d07995209e05a49b42cc1.webp"
+  },
+  {
+    "filename": "2f94b8540857da129a48d4dbfb99ced1c65399f4ef8b41f54c7bc57b35cb4b6f.webp",
+    "size": 11362,
+    "source_rel": "hyundai/models/sonata/images/2f94b8540857da129a48d4dbfb99ced1c65399f4ef8b41f54c7bc57b35cb4b6f.webp"
+  },
+  {
+    "filename": "3064d4e97d0be3ddbf4f4ce3b7305ffb71021bac75821a539d3c67044d6e01a5.webp",
+    "size": 8870,
+    "source_rel": "hyundai/models/sonata/images/3064d4e97d0be3ddbf4f4ce3b7305ffb71021bac75821a539d3c67044d6e01a5.webp"
+  },
+  {
+    "filename": "31a9768a21d7b2b167dfdd2763cccf29d2ae149134404fb9e997834260591ec0.webp",
+    "size": 30440,
+    "source_rel": "hyundai/models/sonata/images/31a9768a21d7b2b167dfdd2763cccf29d2ae149134404fb9e997834260591ec0.webp"
+  },
+  {
+    "filename": "3201a5995479dc914adf0ad38c1e66f0cec825fad303459d124c8705fe2492c7.webp",
+    "size": 4992,
+    "source_rel": "hyundai/models/sonata/images/3201a5995479dc914adf0ad38c1e66f0cec825fad303459d124c8705fe2492c7.webp"
+  },
+  {
+    "filename": "328ab8ee77153721cbf2f66aac9253c12b2889f90e0f29ce144a2dc118fa3295.webp",
+    "size": 16644,
+    "source_rel": "hyundai/models/sonata/images/328ab8ee77153721cbf2f66aac9253c12b2889f90e0f29ce144a2dc118fa3295.webp"
+  },
+  {
+    "filename": "32edc3d334675f8e74cf8045ae7fdd105caf1bab3f7203aa11f1c0c8484d28f0.webp",
+    "size": 11826,
+    "source_rel": "hyundai/models/sonata/images/32edc3d334675f8e74cf8045ae7fdd105caf1bab3f7203aa11f1c0c8484d28f0.webp"
+  },
+  {
+    "filename": "337968ff7b120d482c4c856b68283efc61fbf290f2046eb6c929d8f44f0de74f.webp",
+    "size": 11966,
+    "source_rel": "hyundai/models/sonata/images/337968ff7b120d482c4c856b68283efc61fbf290f2046eb6c929d8f44f0de74f.webp"
+  },
+  {
+    "filename": "337c6c3d26294cdd3f433e0a52337f28e05d46922309a69f4cb96a2ee07ba551.webp",
+    "size": 16560,
+    "source_rel": "hyundai/models/sonata/images/337c6c3d26294cdd3f433e0a52337f28e05d46922309a69f4cb96a2ee07ba551.webp"
+  },
+  {
+    "filename": "346c5befbca4375de77d0cd671f25bc973addb48cc773977e96b26d2dd174b1c.webp",
+    "size": 9076,
+    "source_rel": "hyundai/models/sonata/images/346c5befbca4375de77d0cd671f25bc973addb48cc773977e96b26d2dd174b1c.webp"
+  },
+  {
+    "filename": "34b62819a16a357fa69f25b40c9245fc8c9b8d2eb83f7173c50c15803b58a1ce.webp",
+    "size": 124048,
+    "source_rel": "hyundai/models/sonata/images/34b62819a16a357fa69f25b40c9245fc8c9b8d2eb83f7173c50c15803b58a1ce.webp"
+  },
+  {
+    "filename": "358a8d19bf8f8572570003f6734a47182b4ce340a360ebfb4c182fa05d27af8a.webp",
+    "size": 14054,
+    "source_rel": "hyundai/models/sonata/images/358a8d19bf8f8572570003f6734a47182b4ce340a360ebfb4c182fa05d27af8a.webp"
+  },
+  {
+    "filename": "35bedfe846774114495773ebc3ba320ffc46d3f15fb4693ed8c35ef255988741.webp",
+    "size": 568,
+    "source_rel": "hyundai/models/sonata/images/35bedfe846774114495773ebc3ba320ffc46d3f15fb4693ed8c35ef255988741.webp"
+  },
+  {
+    "filename": "35e74e3927ef0abf2e8ee36a6478f5f8f00961d39d8b64bdad3435bacd7c08e6.webp",
+    "size": 44700,
+    "source_rel": "hyundai/models/sonata/images/35e74e3927ef0abf2e8ee36a6478f5f8f00961d39d8b64bdad3435bacd7c08e6.webp"
+  },
+  {
+    "filename": "364bec8f5fdee83253dad3bcafd4201b454c373ce157e434139dcc010f383898.webp",
+    "size": 10664,
+    "source_rel": "hyundai/models/sonata/images/364bec8f5fdee83253dad3bcafd4201b454c373ce157e434139dcc010f383898.webp"
+  },
+  {
+    "filename": "369cc27f271d8c37e408e588e74f80a318226804cbfd8e02bacea2f3a12c960d.webp",
+    "size": 23146,
+    "source_rel": "hyundai/models/sonata/images/369cc27f271d8c37e408e588e74f80a318226804cbfd8e02bacea2f3a12c960d.webp"
+  },
+  {
+    "filename": "36c3c0fb334724aaf65a3a05b11467ab450296b1279909133ff57e1fe0191588.webp",
+    "size": 14950,
+    "source_rel": "hyundai/models/sonata/images/36c3c0fb334724aaf65a3a05b11467ab450296b1279909133ff57e1fe0191588.webp"
+  },
+  {
+    "filename": "36d203f81db08e5e8637e04438e5eaf9309e548823b3dd8e20c6d75bb34e1d2a.webp",
+    "size": 7092,
+    "source_rel": "hyundai/models/sonata/images/36d203f81db08e5e8637e04438e5eaf9309e548823b3dd8e20c6d75bb34e1d2a.webp"
+  },
+  {
+    "filename": "36f98b8336778ca4a1cb0e83a8d4e64a599a1017709cea9d175a459bb5cd5400.webp",
+    "size": 15878,
+    "source_rel": "hyundai/models/sonata/images/36f98b8336778ca4a1cb0e83a8d4e64a599a1017709cea9d175a459bb5cd5400.webp"
+  },
+  {
+    "filename": "37b5afb74fe7f4baf650a02a09fbfda3645ff10c1517122ae65502bb87cda5a5.webp",
+    "size": 11208,
+    "source_rel": "hyundai/models/sonata/images/37b5afb74fe7f4baf650a02a09fbfda3645ff10c1517122ae65502bb87cda5a5.webp"
+  },
+  {
+    "filename": "37ccb88b3a9389f7730a0434afb71ed05746215480a54e42df3b45428b98e8e9.webp",
+    "size": 7188,
+    "source_rel": "hyundai/models/sonata/images/37ccb88b3a9389f7730a0434afb71ed05746215480a54e42df3b45428b98e8e9.webp"
+  },
+  {
+    "filename": "381ccb26e8a28084331445dde8253d6286bd13d11e58fce9d75ac08b9b7a77e7.webp",
+    "size": 9258,
+    "source_rel": "hyundai/models/sonata/images/381ccb26e8a28084331445dde8253d6286bd13d11e58fce9d75ac08b9b7a77e7.webp"
+  },
+  {
+    "filename": "39cab2751189a784c82f2591908c520d59bf1494885b8f777016293a646453ba.webp",
+    "size": 74880,
+    "source_rel": "hyundai/models/sonata/images/39cab2751189a784c82f2591908c520d59bf1494885b8f777016293a646453ba.webp"
+  },
+  {
+    "filename": "3a0ccb4782430b81e044e27daa14b8c8722e6636429f4185c3f57e05b6397aeb.webp",
+    "size": 21294,
+    "source_rel": "hyundai/models/sonata/images/3a0ccb4782430b81e044e27daa14b8c8722e6636429f4185c3f57e05b6397aeb.webp"
+  },
+  {
+    "filename": "3a1cb47b13436bae359d3e14f868c89b4b5262601fa40ac6aa2c71c8d1f10d72.webp",
+    "size": 7964,
+    "source_rel": "hyundai/models/sonata/images/3a1cb47b13436bae359d3e14f868c89b4b5262601fa40ac6aa2c71c8d1f10d72.webp"
+  },
+  {
+    "filename": "3ace95d2c987f081d1c9b724195c2b7f817273aaddecc93f46e59feaf50a55d0.webp",
+    "size": 562,
+    "source_rel": "hyundai/models/sonata/images/3ace95d2c987f081d1c9b724195c2b7f817273aaddecc93f46e59feaf50a55d0.webp"
+  },
+  {
+    "filename": "3afbcacf7fbf39536664ddbcfb2577bc5ca07037e57cc7addfabca95b65cf677.webp",
+    "size": 4922,
+    "source_rel": "hyundai/models/sonata/images/3afbcacf7fbf39536664ddbcfb2577bc5ca07037e57cc7addfabca95b65cf677.webp"
+  },
+  {
+    "filename": "3beed9a951dd16eb0eb446fb3721ec21e88cb11ec512f91f0449edcad57625eb.webp",
+    "size": 90412,
+    "source_rel": "hyundai/models/sonata/images/3beed9a951dd16eb0eb446fb3721ec21e88cb11ec512f91f0449edcad57625eb.webp"
+  },
+  {
+    "filename": "3c3b001c81b2bf5f8e2f8099700a9428c4cf7c395837fea054331ccb631bc706.webp",
+    "size": 10044,
+    "source_rel": "hyundai/models/sonata/images/3c3b001c81b2bf5f8e2f8099700a9428c4cf7c395837fea054331ccb631bc706.webp"
+  },
+  {
+    "filename": "3cf2975e8d35f2d71500963d1f5624b5c4ad3288bc15261d4360617328211af3.webp",
+    "size": 7918,
+    "source_rel": "hyundai/models/sonata/images/3cf2975e8d35f2d71500963d1f5624b5c4ad3288bc15261d4360617328211af3.webp"
+  },
+  {
+    "filename": "3d34842e3e5dcfb0176c483cf7d98582c58f6eb40a3ce13a53fcef33c1db4253.webp",
+    "size": 15930,
+    "source_rel": "hyundai/models/sonata/images/3d34842e3e5dcfb0176c483cf7d98582c58f6eb40a3ce13a53fcef33c1db4253.webp"
+  },
+  {
+    "filename": "3d6889082a2c06addd18947363f6b92685ebea2769c9d6d2c495bdb9b8eefd41.webp",
+    "size": 11204,
+    "source_rel": "hyundai/models/sonata/images/3d6889082a2c06addd18947363f6b92685ebea2769c9d6d2c495bdb9b8eefd41.webp"
+  },
+  {
+    "filename": "3dca36432597f18e6c7da16fbe061a9fd3fc702cd4c59a40bbb0db4c30a914b4.webp",
+    "size": 14668,
+    "source_rel": "hyundai/models/sonata/images/3dca36432597f18e6c7da16fbe061a9fd3fc702cd4c59a40bbb0db4c30a914b4.webp"
+  },
+  {
+    "filename": "3e7ff604aef39e8a3b3b0a2a87ba94163d16d5bb8ac5feafdc2c3ae45564f018.webp",
+    "size": 10964,
+    "source_rel": "hyundai/models/sonata/images/3e7ff604aef39e8a3b3b0a2a87ba94163d16d5bb8ac5feafdc2c3ae45564f018.webp"
+  },
+  {
+    "filename": "3f32afed878ce1c27be3e02b580bd5c24d9c305d9043b1a271923f1c59abcf0a.webp",
+    "size": 12430,
+    "source_rel": "hyundai/models/sonata/images/3f32afed878ce1c27be3e02b580bd5c24d9c305d9043b1a271923f1c59abcf0a.webp"
+  },
+  {
+    "filename": "4003092dfedb85c514d7932414c6252a9bcad7b7f86088c6a73c2e1a006eac9f.webp",
+    "size": 37952,
+    "source_rel": "hyundai/models/sonata/images/4003092dfedb85c514d7932414c6252a9bcad7b7f86088c6a73c2e1a006eac9f.webp"
+  },
+  {
+    "filename": "40685b7e91524515773b9cedd4fb57b0f4861cab371551518feb60dc7f3148d2.webp",
+    "size": 7652,
+    "source_rel": "hyundai/models/sonata/images/40685b7e91524515773b9cedd4fb57b0f4861cab371551518feb60dc7f3148d2.webp"
+  },
+  {
+    "filename": "408bd4d2dcb7abb74ecbf05674d06e462904b29ac3889fca2829756917006888.webp",
+    "size": 8066,
+    "source_rel": "hyundai/models/sonata/images/408bd4d2dcb7abb74ecbf05674d06e462904b29ac3889fca2829756917006888.webp"
+  },
+  {
+    "filename": "4097c0d4e6f9392bd0bd247ec1b798f7c9a7be7b1cca2d81902a2d2760ec6ea8.webp",
+    "size": 25120,
+    "source_rel": "hyundai/models/sonata/images/4097c0d4e6f9392bd0bd247ec1b798f7c9a7be7b1cca2d81902a2d2760ec6ea8.webp"
+  },
+  {
+    "filename": "40b868d5a56bf7495e9eacc6666e2bb01173db57b21b9a21fa62022051b3309b.webp",
+    "size": 22224,
+    "source_rel": "hyundai/models/sonata/images/40b868d5a56bf7495e9eacc6666e2bb01173db57b21b9a21fa62022051b3309b.webp"
+  },
+  {
+    "filename": "40d6282e49ba325357ceb32ffc220bb7fb604274ac2396096be2f8eb05979ee7.webp",
+    "size": 102672,
+    "source_rel": "hyundai/models/sonata/images/40d6282e49ba325357ceb32ffc220bb7fb604274ac2396096be2f8eb05979ee7.webp"
+  },
+  {
+    "filename": "41415420931f0cd5fb66585200ccc3a6a5d163c136ef3711f7a407a26db7bbfa.webp",
+    "size": 11892,
+    "source_rel": "hyundai/models/sonata/images/41415420931f0cd5fb66585200ccc3a6a5d163c136ef3711f7a407a26db7bbfa.webp"
+  },
+  {
+    "filename": "4145ad361f6978bc5b11ab03f86425c8380a671ff6e49b7da05ef5c4fb72887c.webp",
+    "size": 30974,
+    "source_rel": "hyundai/models/sonata/images/4145ad361f6978bc5b11ab03f86425c8380a671ff6e49b7da05ef5c4fb72887c.webp"
+  },
+  {
+    "filename": "415579bc7a670eb63384dc5b5cf2fafb9863c6bd3dac371677f3d3ee0f2316f1.webp",
+    "size": 116182,
+    "source_rel": "hyundai/models/sonata/images/415579bc7a670eb63384dc5b5cf2fafb9863c6bd3dac371677f3d3ee0f2316f1.webp"
+  },
+  {
+    "filename": "41f4f9b7ecc065e0adbb10c412f1f524bf8086377ec1a7bde3ab2c06f3a54263.webp",
+    "size": 9756,
+    "source_rel": "hyundai/models/sonata/images/41f4f9b7ecc065e0adbb10c412f1f524bf8086377ec1a7bde3ab2c06f3a54263.webp"
+  },
+  {
+    "filename": "43a9d942d7ae867d438d8aeff59418829ce1aa1b0bb4a6ec577ff17c4438d027.webp",
+    "size": 25138,
+    "source_rel": "hyundai/models/sonata/images/43a9d942d7ae867d438d8aeff59418829ce1aa1b0bb4a6ec577ff17c4438d027.webp"
+  },
+  {
+    "filename": "44605fbf250f608264c6d1e1108ea467bdb569c016f4d7f4b421721e429f6dc8.webp",
+    "size": 17974,
+    "source_rel": "hyundai/models/sonata/images/44605fbf250f608264c6d1e1108ea467bdb569c016f4d7f4b421721e429f6dc8.webp"
+  },
+  {
+    "filename": "44a3f76dd51f311e0e29696df1ef6d52897c56834050743a98b64a3b107a0ead.webp",
+    "size": 1380,
+    "source_rel": "hyundai/models/sonata/images/44a3f76dd51f311e0e29696df1ef6d52897c56834050743a98b64a3b107a0ead.webp"
+  },
+  {
+    "filename": "455f592f71c663258bbb6570f7fb67f1eeddc9e09d67bb23b783a265c7b30d71.webp",
+    "size": 4506,
+    "source_rel": "hyundai/models/sonata/images/455f592f71c663258bbb6570f7fb67f1eeddc9e09d67bb23b783a265c7b30d71.webp"
+  },
+  {
+    "filename": "467fd8647e0fbaef1cefa21edffd523d2300622cdad356ae698f3f59a9d0c438.webp",
+    "size": 23970,
+    "source_rel": "hyundai/models/sonata/images/467fd8647e0fbaef1cefa21edffd523d2300622cdad356ae698f3f59a9d0c438.webp"
+  },
+  {
+    "filename": "4748004ecd57348633c77cee886c3c67755614d75616c235793f1c2e24d33795.webp",
+    "size": 13854,
+    "source_rel": "hyundai/models/sonata/images/4748004ecd57348633c77cee886c3c67755614d75616c235793f1c2e24d33795.webp"
+  },
+  {
+    "filename": "47ef729e53d710832a88ee6e4d4419c28b764bbf1bf9b1da7afd169918382b03.webp",
+    "size": 12162,
+    "source_rel": "hyundai/models/sonata/images/47ef729e53d710832a88ee6e4d4419c28b764bbf1bf9b1da7afd169918382b03.webp"
+  },
+  {
+    "filename": "47fb7b82623d90589f2d72463ca39df3b9c1a9d8dd8375aee9a410c17d3fa68a.webp",
+    "size": 5470,
+    "source_rel": "hyundai/models/sonata/images/47fb7b82623d90589f2d72463ca39df3b9c1a9d8dd8375aee9a410c17d3fa68a.webp"
+  },
+  {
+    "filename": "481a438396cf5e6c1214fcc3c995a6fe38676633bc92e1ec82186d00d1f4f6e3.webp",
+    "size": 95758,
+    "source_rel": "hyundai/models/sonata/images/481a438396cf5e6c1214fcc3c995a6fe38676633bc92e1ec82186d00d1f4f6e3.webp"
+  },
+  {
+    "filename": "48c702f3c03e0d7fe0dbb99ad0b0c3736736d93fc9bb9c6bfef2f4b45e28bcd3.webp",
+    "size": 150804,
+    "source_rel": "hyundai/models/sonata/images/48c702f3c03e0d7fe0dbb99ad0b0c3736736d93fc9bb9c6bfef2f4b45e28bcd3.webp"
+  },
+  {
+    "filename": "492a0602fe057d29af9b9b8a6e6a88452583e5bb144ee8010e88fa51d6f92c42.webp",
+    "size": 12910,
+    "source_rel": "hyundai/models/sonata/images/492a0602fe057d29af9b9b8a6e6a88452583e5bb144ee8010e88fa51d6f92c42.webp"
+  },
+  {
+    "filename": "498775675f7bd2d04cb03a1dd831ac10e0229330a183238699bfcc1e0d64603d.webp",
+    "size": 10788,
+    "source_rel": "hyundai/models/sonata/images/498775675f7bd2d04cb03a1dd831ac10e0229330a183238699bfcc1e0d64603d.webp"
+  },
+  {
+    "filename": "4a3855a0277874acbd7f2f908192c51954b68ea3a4490ad0c6eea76c06e161e1.webp",
+    "size": 8874,
+    "source_rel": "hyundai/models/sonata/images/4a3855a0277874acbd7f2f908192c51954b68ea3a4490ad0c6eea76c06e161e1.webp"
+  },
+  {
+    "filename": "4a5ed84eaf5f49e84383efdc0a7b32854cd4e1962c86fad4a6a621aad6eb6a25.webp",
+    "size": 7608,
+    "source_rel": "hyundai/models/sonata/images/4a5ed84eaf5f49e84383efdc0a7b32854cd4e1962c86fad4a6a621aad6eb6a25.webp"
+  },
+  {
+    "filename": "4a9de6dfc291b0676b9036b91aae79f088007ad33bef7ddd96007631872b7e20.webp",
+    "size": 9178,
+    "source_rel": "hyundai/models/sonata/images/4a9de6dfc291b0676b9036b91aae79f088007ad33bef7ddd96007631872b7e20.webp"
+  },
+  {
+    "filename": "4ad671cba3b28f324175f595adc2d4063b162bc75af02eefe7604c82497b8c9f.webp",
+    "size": 11582,
+    "source_rel": "hyundai/models/sonata/images/4ad671cba3b28f324175f595adc2d4063b162bc75af02eefe7604c82497b8c9f.webp"
+  },
+  {
+    "filename": "4b5df6887932b170876bf1bf9c1b586c269806b308c45ecf03d838aa23b403f8.webp",
+    "size": 10386,
+    "source_rel": "hyundai/models/sonata/images/4b5df6887932b170876bf1bf9c1b586c269806b308c45ecf03d838aa23b403f8.webp"
+  },
+  {
+    "filename": "4bd168a1b1a6fd6225b0e1c48d12f510f0c94a9893531668c9233c31db94e54c.webp",
+    "size": 10706,
+    "source_rel": "hyundai/models/sonata/images/4bd168a1b1a6fd6225b0e1c48d12f510f0c94a9893531668c9233c31db94e54c.webp"
+  },
+  {
+    "filename": "4caa850ad0e70cc56f13df649bc0d4473b4b29c60e1bfff6bbe765ee16025cc1.webp",
+    "size": 3720,
+    "source_rel": "hyundai/models/sonata/images/4caa850ad0e70cc56f13df649bc0d4473b4b29c60e1bfff6bbe765ee16025cc1.webp"
+  },
+  {
+    "filename": "4d016ead7be34f69617c83640282179254db0c5093851b8a78a7a4e085bf6d3e.webp",
+    "size": 44144,
+    "source_rel": "hyundai/models/sonata/images/4d016ead7be34f69617c83640282179254db0c5093851b8a78a7a4e085bf6d3e.webp"
+  },
+  {
+    "filename": "4e9912f180c73c1e9223780b75bf61d822061a568f17a1ff32015753c1b7423b.webp",
+    "size": 12366,
+    "source_rel": "hyundai/models/sonata/images/4e9912f180c73c1e9223780b75bf61d822061a568f17a1ff32015753c1b7423b.webp"
+  },
+  {
+    "filename": "4f3182e0e2cf47a42c9af3985f2bcb46e1047d95aeee08cb4e613745db5dee3b.webp",
+    "size": 82372,
+    "source_rel": "hyundai/models/sonata/images/4f3182e0e2cf47a42c9af3985f2bcb46e1047d95aeee08cb4e613745db5dee3b.webp"
+  },
+  {
+    "filename": "4f3514e2fa34658699d210f170b2bb464cf0e76386b025fd9ac3e46079439cbf.webp",
+    "size": 123198,
+    "source_rel": "hyundai/models/sonata/images/4f3514e2fa34658699d210f170b2bb464cf0e76386b025fd9ac3e46079439cbf.webp"
+  },
+  {
+    "filename": "4f3aaf8f397c9dd2a55a916140fa806ff95dc57259412e5f2da2cd15a598999a.webp",
+    "size": 4412,
+    "source_rel": "hyundai/models/sonata/images/4f3aaf8f397c9dd2a55a916140fa806ff95dc57259412e5f2da2cd15a598999a.webp"
+  },
+  {
+    "filename": "4f72f628b0d78ad166148a83ea034152a137445af0b2c8b1cb478e3b014ba933.webp",
+    "size": 11752,
+    "source_rel": "hyundai/models/sonata/images/4f72f628b0d78ad166148a83ea034152a137445af0b2c8b1cb478e3b014ba933.webp"
+  },
+  {
+    "filename": "4fe67d2e99c76ccb0a13f3cc0035a95aee42844ded91a3cdbdfebc7e46064b6c.webp",
+    "size": 21594,
+    "source_rel": "hyundai/models/sonata/images/4fe67d2e99c76ccb0a13f3cc0035a95aee42844ded91a3cdbdfebc7e46064b6c.webp"
+  },
+  {
+    "filename": "503f08656ed9a89b8ae15f0f92b21b09f01e5e54b9970c34ef6c5ec82e0f13fc.webp",
+    "size": 6426,
+    "source_rel": "hyundai/models/sonata/images/503f08656ed9a89b8ae15f0f92b21b09f01e5e54b9970c34ef6c5ec82e0f13fc.webp"
+  },
+  {
+    "filename": "50d1e212a8d035b5af9124d7b92e7a55e8336b8ed372e2dfb6c04c1c01f370de.webp",
+    "size": 12206,
+    "source_rel": "hyundai/models/sonata/images/50d1e212a8d035b5af9124d7b92e7a55e8336b8ed372e2dfb6c04c1c01f370de.webp"
+  },
+  {
+    "filename": "5131a24cba5992c978fb3daf1fc5327656fa395975bfce5b18140056ffd13631.webp",
+    "size": 24790,
+    "source_rel": "hyundai/models/sonata/images/5131a24cba5992c978fb3daf1fc5327656fa395975bfce5b18140056ffd13631.webp"
+  },
+  {
+    "filename": "52306f9df7bd65d116cde8a165795f0eb1eb05f30e7b090c30866cc0128b0311.webp",
+    "size": 7794,
+    "source_rel": "hyundai/models/sonata/images/52306f9df7bd65d116cde8a165795f0eb1eb05f30e7b090c30866cc0128b0311.webp"
+  },
+  {
+    "filename": "524898f0cc77d1eec3ec25a3e5514e0c0620750b1b6877bd71a51107c91233e1.webp",
+    "size": 11882,
+    "source_rel": "hyundai/models/sonata/images/524898f0cc77d1eec3ec25a3e5514e0c0620750b1b6877bd71a51107c91233e1.webp"
+  },
+  {
+    "filename": "52a75abc13a2e4e4547d44637a518b83b2059ad7b5bb635890c40fcad3fa790e.webp",
+    "size": 19036,
+    "source_rel": "hyundai/models/sonata/images/52a75abc13a2e4e4547d44637a518b83b2059ad7b5bb635890c40fcad3fa790e.webp"
+  },
+  {
+    "filename": "52e67c98c25c6ef6da69530e4a6c0cdab4bb5b7197cdcfd1628a469df2b48708.webp",
+    "size": 7172,
+    "source_rel": "hyundai/models/sonata/images/52e67c98c25c6ef6da69530e4a6c0cdab4bb5b7197cdcfd1628a469df2b48708.webp"
+  },
+  {
+    "filename": "53b26f13a9267a5e5df446dca3745fb2db0d9ad141f717f33aea631661e94967.webp",
+    "size": 7744,
+    "source_rel": "hyundai/models/sonata/images/53b26f13a9267a5e5df446dca3745fb2db0d9ad141f717f33aea631661e94967.webp"
+  },
+  {
+    "filename": "53d5df64bfbaac1ad248214c9bd97a02ed34a27da41472766bce799a238871dd.webp",
+    "size": 4092,
+    "source_rel": "hyundai/models/sonata/images/53d5df64bfbaac1ad248214c9bd97a02ed34a27da41472766bce799a238871dd.webp"
+  },
+  {
+    "filename": "5614b717cff15e5085e073b44cdbb2aafe7f9f2cd13729bdd7570a353995cdc8.webp",
+    "size": 82414,
+    "source_rel": "hyundai/models/sonata/images/5614b717cff15e5085e073b44cdbb2aafe7f9f2cd13729bdd7570a353995cdc8.webp"
+  },
+  {
+    "filename": "567cb03e285c9772ae4192c1f611e4873317c99553179d7ac0175c08df015076.webp",
+    "size": 10128,
+    "source_rel": "hyundai/models/sonata/images/567cb03e285c9772ae4192c1f611e4873317c99553179d7ac0175c08df015076.webp"
+  },
+  {
+    "filename": "56c350c4b8550c3d5cc02f2cf34eb11131f52b36c980181eff37c168ce8304a0.webp",
+    "size": 4736,
+    "source_rel": "hyundai/models/sonata/images/56c350c4b8550c3d5cc02f2cf34eb11131f52b36c980181eff37c168ce8304a0.webp"
+  },
+  {
+    "filename": "572db6f3dc2e8cdf17e60cded18d60f775d4a561f34d09a0cae3d70720929279.webp",
+    "size": 15888,
+    "source_rel": "hyundai/models/sonata/images/572db6f3dc2e8cdf17e60cded18d60f775d4a561f34d09a0cae3d70720929279.webp"
+  },
+  {
+    "filename": "576ce110173e794a08b7f160fbcd01dd81b2bc5c2ba976e1250b42d5cf7d314d.webp",
+    "size": 25514,
+    "source_rel": "hyundai/models/sonata/images/576ce110173e794a08b7f160fbcd01dd81b2bc5c2ba976e1250b42d5cf7d314d.webp"
+  },
+  {
+    "filename": "57bc44b9b60dc717106a0371613d227198b93786e9a038af6e516038fafcdfaa.webp",
+    "size": 7544,
+    "source_rel": "hyundai/models/sonata/images/57bc44b9b60dc717106a0371613d227198b93786e9a038af6e516038fafcdfaa.webp"
+  },
+  {
+    "filename": "57f4cda9cb0307a48a9d795d1b0f7bb9214d97ccd5e988606bacd6cf21eb05c9.webp",
+    "size": 2508,
+    "source_rel": "hyundai/models/sonata/images/57f4cda9cb0307a48a9d795d1b0f7bb9214d97ccd5e988606bacd6cf21eb05c9.webp"
+  },
+  {
+    "filename": "59017339a5c40d77edc7ea92598c25ed52a89ef2610ae3f809e9c43c2fcce410.webp",
+    "size": 11048,
+    "source_rel": "hyundai/models/sonata/images/59017339a5c40d77edc7ea92598c25ed52a89ef2610ae3f809e9c43c2fcce410.webp"
+  },
+  {
+    "filename": "5a73ebc58af4febd1c48b2eee67964085369d2393382599eb80226a1ef74163f.webp",
+    "size": 16834,
+    "source_rel": "hyundai/models/sonata/images/5a73ebc58af4febd1c48b2eee67964085369d2393382599eb80226a1ef74163f.webp"
+  },
+  {
+    "filename": "5abefe599a1db8e4e44b587961cc1bcb0dbce552abedb5e07cc943da977247b7.webp",
+    "size": 7566,
+    "source_rel": "hyundai/models/sonata/images/5abefe599a1db8e4e44b587961cc1bcb0dbce552abedb5e07cc943da977247b7.webp"
+  },
+  {
+    "filename": "5b40f163d0579f36e88d7ec6730abd8598e40605e28abbb71b166890c5ad319e.webp",
+    "size": 133866,
+    "source_rel": "hyundai/models/sonata/images/5b40f163d0579f36e88d7ec6730abd8598e40605e28abbb71b166890c5ad319e.webp"
+  },
+  {
+    "filename": "5b489509bf0cbbdfa642aba4dc8388a290227c76047ca0f8332831a4b7657811.webp",
+    "size": 68590,
+    "source_rel": "hyundai/models/sonata/images/5b489509bf0cbbdfa642aba4dc8388a290227c76047ca0f8332831a4b7657811.webp"
+  },
+  {
+    "filename": "5ba991f0505438a03716817035af1ba3d5d5b7a5a7e1de2a00e3fcc62b04163e.webp",
+    "size": 6358,
+    "source_rel": "hyundai/models/sonata/images/5ba991f0505438a03716817035af1ba3d5d5b7a5a7e1de2a00e3fcc62b04163e.webp"
+  },
+  {
+    "filename": "5bb855bf59193278bac18207264001bf71be68b26d3644fa4b403a0c9df0e37b.webp",
+    "size": 7176,
+    "source_rel": "hyundai/models/sonata/images/5bb855bf59193278bac18207264001bf71be68b26d3644fa4b403a0c9df0e37b.webp"
+  },
+  {
+    "filename": "5c2e442494c734c3ebd12549e27c4d3df692aa15b1da573dd021da34f02e8363.webp",
+    "size": 7196,
+    "source_rel": "hyundai/models/sonata/images/5c2e442494c734c3ebd12549e27c4d3df692aa15b1da573dd021da34f02e8363.webp"
+  },
+  {
+    "filename": "5c39dd45f22672a028ebf77c25b21158afb03e25ba30470df9f0933758cae900.webp",
+    "size": 26496,
+    "source_rel": "hyundai/models/sonata/images/5c39dd45f22672a028ebf77c25b21158afb03e25ba30470df9f0933758cae900.webp"
+  },
+  {
+    "filename": "5c9d612c9ef619c73735a934541e15082635ed353e12239cf67c8754c49dc2f0.webp",
+    "size": 13706,
+    "source_rel": "hyundai/models/sonata/images/5c9d612c9ef619c73735a934541e15082635ed353e12239cf67c8754c49dc2f0.webp"
+  },
+  {
+    "filename": "5d6b58929f97b5b74726441b5a6dbc369dbb1f816092ad20dd6c325e61829182.webp",
+    "size": 23118,
+    "source_rel": "hyundai/models/sonata/images/5d6b58929f97b5b74726441b5a6dbc369dbb1f816092ad20dd6c325e61829182.webp"
+  },
+  {
+    "filename": "5dc63ed22247ed4d0d4f3105e7789c563a8bd883e45efdaf874e9b21378a0407.webp",
+    "size": 11926,
+    "source_rel": "hyundai/models/sonata/images/5dc63ed22247ed4d0d4f3105e7789c563a8bd883e45efdaf874e9b21378a0407.webp"
+  },
+  {
+    "filename": "5e7b9737c5eb165b0227f2a6bbb69e5cee63390eefae29e786f82d0289bdb106.webp",
+    "size": 28296,
+    "source_rel": "hyundai/models/sonata/images/5e7b9737c5eb165b0227f2a6bbb69e5cee63390eefae29e786f82d0289bdb106.webp"
+  },
+  {
+    "filename": "5f43e286f030df7776ba92153318519ebec74101824197b9891a54dafbbf22ce.webp",
+    "size": 7370,
+    "source_rel": "hyundai/models/sonata/images/5f43e286f030df7776ba92153318519ebec74101824197b9891a54dafbbf22ce.webp"
+  },
+  {
+    "filename": "5f48e4c4a39bc78f2aa6f12c9e6359e38bcc8bd1c3e2bb4d0b09aecc22f0a834.webp",
+    "size": 840,
+    "source_rel": "hyundai/models/sonata/images/5f48e4c4a39bc78f2aa6f12c9e6359e38bcc8bd1c3e2bb4d0b09aecc22f0a834.webp"
+  },
+  {
+    "filename": "60c864ecb79ed7b5e3e6c88762976359ba10262c21d50ef969d6f5d1370b62e7.webp",
+    "size": 21856,
+    "source_rel": "hyundai/models/sonata/images/60c864ecb79ed7b5e3e6c88762976359ba10262c21d50ef969d6f5d1370b62e7.webp"
+  },
+  {
+    "filename": "610f32836076b896c35913172690e72b1abd804103ea7a2593473e4e1e93cde7.webp",
+    "size": 7176,
+    "source_rel": "hyundai/models/sonata/images/610f32836076b896c35913172690e72b1abd804103ea7a2593473e4e1e93cde7.webp"
+  },
+  {
+    "filename": "611fe84c111657506523a4d73db423e56ff214e1e588d1a3c63e8cb802d5508d.webp",
+    "size": 540,
+    "source_rel": "hyundai/models/sonata/images/611fe84c111657506523a4d73db423e56ff214e1e588d1a3c63e8cb802d5508d.webp"
+  },
+  {
+    "filename": "62ba8254f094fc04b6a9586273351b94a92d86d12438ccf829ac1b49ccf84bc3.webp",
+    "size": 11990,
+    "source_rel": "hyundai/models/sonata/images/62ba8254f094fc04b6a9586273351b94a92d86d12438ccf829ac1b49ccf84bc3.webp"
+  },
+  {
+    "filename": "635c6910103963adfc98c4b6e987050431bac38b79763f9efe51586d35e7b4b8.webp",
+    "size": 89254,
+    "source_rel": "hyundai/models/sonata/images/635c6910103963adfc98c4b6e987050431bac38b79763f9efe51586d35e7b4b8.webp"
+  },
+  {
+    "filename": "63f067f63015eb79c50c2eab4ca17d163d00a4166c52ec30ec074d99bccbd401.webp",
+    "size": 7138,
+    "source_rel": "hyundai/models/sonata/images/63f067f63015eb79c50c2eab4ca17d163d00a4166c52ec30ec074d99bccbd401.webp"
+  },
+  {
+    "filename": "64707ea1203e70cd108573b4a7fc4de0cd9aa01ded210cd499a9f0733dd4dcd0.webp",
+    "size": 10532,
+    "source_rel": "hyundai/models/sonata/images/64707ea1203e70cd108573b4a7fc4de0cd9aa01ded210cd499a9f0733dd4dcd0.webp"
+  },
+  {
+    "filename": "650b5e23c8e6b9d42a8570e53d1b9d4336b4816851b4b5cb72c01d55bf03a344.webp",
+    "size": 5458,
+    "source_rel": "hyundai/models/sonata/images/650b5e23c8e6b9d42a8570e53d1b9d4336b4816851b4b5cb72c01d55bf03a344.webp"
+  },
+  {
+    "filename": "6565d204ca759d248e60d1c792b8a140ebe478ac45db339ce892e75b6fcaa820.webp",
+    "size": 14880,
+    "source_rel": "hyundai/models/sonata/images/6565d204ca759d248e60d1c792b8a140ebe478ac45db339ce892e75b6fcaa820.webp"
+  },
+  {
+    "filename": "65e8f8feb692148c020585a5b550a11b1d1ed3e866977b66f0114c5544f0e124.webp",
+    "size": 12792,
+    "source_rel": "hyundai/models/sonata/images/65e8f8feb692148c020585a5b550a11b1d1ed3e866977b66f0114c5544f0e124.webp"
+  },
+  {
+    "filename": "65fc734c7c806f4940d429a2dd4025fea1f442ee59f532773f2c9f280eba37ac.webp",
+    "size": 21932,
+    "source_rel": "hyundai/models/sonata/images/65fc734c7c806f4940d429a2dd4025fea1f442ee59f532773f2c9f280eba37ac.webp"
+  },
+  {
+    "filename": "66084d622a7bdaf343580bbd0f819babfabdea14d27a29ab0a97d2bb481a7eb6.webp",
+    "size": 11292,
+    "source_rel": "hyundai/models/sonata/images/66084d622a7bdaf343580bbd0f819babfabdea14d27a29ab0a97d2bb481a7eb6.webp"
+  },
+  {
+    "filename": "669b8ae7bcf7edbcf175fcfcfa779090b85270724d7cbcdfa978bf3386277d79.webp",
+    "size": 2562,
+    "source_rel": "hyundai/models/sonata/images/669b8ae7bcf7edbcf175fcfcfa779090b85270724d7cbcdfa978bf3386277d79.webp"
+  },
+  {
+    "filename": "66caa1d2063290c51d8905e81f9ab941b4f96c97e52a0b3b4ad35225b211c68b.webp",
+    "size": 572,
+    "source_rel": "hyundai/models/sonata/images/66caa1d2063290c51d8905e81f9ab941b4f96c97e52a0b3b4ad35225b211c68b.webp"
+  },
+  {
+    "filename": "67974db2e667c474b349387b1fa05b0d5794d508c54595e5966c645852a44ef0.webp",
+    "size": 12176,
+    "source_rel": "hyundai/models/sonata/images/67974db2e667c474b349387b1fa05b0d5794d508c54595e5966c645852a44ef0.webp"
+  },
+  {
+    "filename": "683e73b3cd546ce9b7b133c9c8c00b14212b2825c9ab08efcceea224d3bfb3a2.webp",
+    "size": 6170,
+    "source_rel": "hyundai/models/sonata/images/683e73b3cd546ce9b7b133c9c8c00b14212b2825c9ab08efcceea224d3bfb3a2.webp"
+  },
+  {
+    "filename": "69069d8eb5b4b28c9f66243e6cf143c94ca49cfc43790fa1521eddf6c806bf98.webp",
+    "size": 2524,
+    "source_rel": "hyundai/models/sonata/images/69069d8eb5b4b28c9f66243e6cf143c94ca49cfc43790fa1521eddf6c806bf98.webp"
+  },
+  {
+    "filename": "692d77960d6b0d85539adda8525f32e9cdbf4039dcd664942e92db1c6595ca03.webp",
+    "size": 18432,
+    "source_rel": "hyundai/models/sonata/images/692d77960d6b0d85539adda8525f32e9cdbf4039dcd664942e92db1c6595ca03.webp"
+  },
+  {
+    "filename": "692f89055b623feb8ef31fe441dc573a7b58293295a61c14615683fe2370f4fb.webp",
+    "size": 7826,
+    "source_rel": "hyundai/models/sonata/images/692f89055b623feb8ef31fe441dc573a7b58293295a61c14615683fe2370f4fb.webp"
+  },
+  {
+    "filename": "6a937dee7e9b6e9b575187491c9284600a12d72b901a84d6ec4302c76d6be2c5.webp",
+    "size": 4814,
+    "source_rel": "hyundai/models/sonata/images/6a937dee7e9b6e9b575187491c9284600a12d72b901a84d6ec4302c76d6be2c5.webp"
+  },
+  {
+    "filename": "6ba6ca609a2a1619f2677197970a3abe2a599bf91e96225d254abb1df78fccd6.webp",
+    "size": 17038,
+    "source_rel": "hyundai/models/sonata/images/6ba6ca609a2a1619f2677197970a3abe2a599bf91e96225d254abb1df78fccd6.webp"
+  },
+  {
+    "filename": "6c5e5fb629da78b4e29bca814b93e16103f38612c61941a55cdbe77fa947015b.webp",
+    "size": 10650,
+    "source_rel": "hyundai/models/sonata/images/6c5e5fb629da78b4e29bca814b93e16103f38612c61941a55cdbe77fa947015b.webp"
+  },
+  {
+    "filename": "6d037f37e4c43ce3f28009bcfd16b6798ae60ae6dddbe324f940e9dafc1f8f19.webp",
+    "size": 17572,
+    "source_rel": "hyundai/models/sonata/images/6d037f37e4c43ce3f28009bcfd16b6798ae60ae6dddbe324f940e9dafc1f8f19.webp"
+  },
+  {
+    "filename": "6d28ce33c93f32971a20845e8a4c4b864013934e754e31932de726895537a79f.webp",
+    "size": 6196,
+    "source_rel": "hyundai/models/sonata/images/6d28ce33c93f32971a20845e8a4c4b864013934e754e31932de726895537a79f.webp"
+  },
+  {
+    "filename": "6d87f3b0fd3855cd311578c67dbc3058f494a93697c86aa41e6a017712b51b28.webp",
+    "size": 8188,
+    "source_rel": "hyundai/models/sonata/images/6d87f3b0fd3855cd311578c67dbc3058f494a93697c86aa41e6a017712b51b28.webp"
+  },
+  {
+    "filename": "6d9497c97e79ef52a87f9984e27b82bce9375136cbc63ae65b6a03763985e200.webp",
+    "size": 6056,
+    "source_rel": "hyundai/models/sonata/images/6d9497c97e79ef52a87f9984e27b82bce9375136cbc63ae65b6a03763985e200.webp"
+  },
+  {
+    "filename": "6e845b64cd6bbe79f455fe8d2f5728306398a635f210ce6ff592303eb6aed14b.webp",
+    "size": 103200,
+    "source_rel": "hyundai/models/sonata/images/6e845b64cd6bbe79f455fe8d2f5728306398a635f210ce6ff592303eb6aed14b.webp"
+  },
+  {
+    "filename": "6ea3d41b9cfcefb580bffa51a3b72cc323094d409cb29e368431f0aa0de8a00c.webp",
+    "size": 91730,
+    "source_rel": "hyundai/models/sonata/images/6ea3d41b9cfcefb580bffa51a3b72cc323094d409cb29e368431f0aa0de8a00c.webp"
+  },
+  {
+    "filename": "6ed0545e54d195e079dfd6100dc9c4598c8b21bd84f763888bccdc3ed7d6719b.webp",
+    "size": 690,
+    "source_rel": "hyundai/models/sonata/images/6ed0545e54d195e079dfd6100dc9c4598c8b21bd84f763888bccdc3ed7d6719b.webp"
+  },
+  {
+    "filename": "6ef1732e9d480dc999212528096c9e252b68c39f817b41aa8f1c35f65457fe96.webp",
+    "size": 12282,
+    "source_rel": "hyundai/models/sonata/images/6ef1732e9d480dc999212528096c9e252b68c39f817b41aa8f1c35f65457fe96.webp"
+  },
+  {
+    "filename": "6f39b868648033f17dce862a081e4fdd8e388f4123e6cdc9f88986e4e9945ffd.webp",
+    "size": 50014,
+    "source_rel": "hyundai/models/sonata/images/6f39b868648033f17dce862a081e4fdd8e388f4123e6cdc9f88986e4e9945ffd.webp"
+  },
+  {
+    "filename": "6f72efd4f3cc6277e7f16ee0a1d5f009e4f1b0ec8adee1f16aafc8f6f8455217.webp",
+    "size": 14418,
+    "source_rel": "hyundai/models/sonata/images/6f72efd4f3cc6277e7f16ee0a1d5f009e4f1b0ec8adee1f16aafc8f6f8455217.webp"
+  },
+  {
+    "filename": "6fbcdd64ee0b905b912b2c1edb170a7964f6260c099d92aee1db8c591609ac6e.webp",
+    "size": 10464,
+    "source_rel": "hyundai/models/sonata/images/6fbcdd64ee0b905b912b2c1edb170a7964f6260c099d92aee1db8c591609ac6e.webp"
+  },
+  {
+    "filename": "6fc30ce692f308e9d8d9eabbdd83200971b3949a7f38385ec90c61564531a8ab.webp",
+    "size": 24734,
+    "source_rel": "hyundai/models/sonata/images/6fc30ce692f308e9d8d9eabbdd83200971b3949a7f38385ec90c61564531a8ab.webp"
+  },
+  {
+    "filename": "700c4ef1625a8a1f7b397ae3f117614ab7b3ab23b167cd2e804d8de7ddaebb01.webp",
+    "size": 4490,
+    "source_rel": "hyundai/models/sonata/images/700c4ef1625a8a1f7b397ae3f117614ab7b3ab23b167cd2e804d8de7ddaebb01.webp"
+  },
+  {
+    "filename": "70a97849e8e244ec1ccb3502b643ec854bbf0b2fc46d0c86680a7beb8f5b97dd.webp",
+    "size": 14298,
+    "source_rel": "hyundai/models/sonata/images/70a97849e8e244ec1ccb3502b643ec854bbf0b2fc46d0c86680a7beb8f5b97dd.webp"
+  },
+  {
+    "filename": "70da4dcb0d8d8abf9b8c7ee1e4ef0a181f6eb9925bac7b7cb9cbb41f3eaea61b.webp",
+    "size": 27742,
+    "source_rel": "hyundai/models/sonata/images/70da4dcb0d8d8abf9b8c7ee1e4ef0a181f6eb9925bac7b7cb9cbb41f3eaea61b.webp"
+  },
+  {
+    "filename": "71338731a6ae3171c51878c58f340d96ef50a9693dd603693188cb0c42e36cbf.webp",
+    "size": 3658,
+    "source_rel": "hyundai/models/sonata/images/71338731a6ae3171c51878c58f340d96ef50a9693dd603693188cb0c42e36cbf.webp"
+  },
+  {
+    "filename": "72518a2a5f06339546bf832eb14cb5dc1a868d64bcc73a744ffb380b582aa3cf.webp",
+    "size": 4658,
+    "source_rel": "hyundai/models/sonata/images/72518a2a5f06339546bf832eb14cb5dc1a868d64bcc73a744ffb380b582aa3cf.webp"
+  },
+  {
+    "filename": "728d3fe98e5f11e0607d998c7e150d1a83045dc035b415e13b797423088b2e7d.webp",
+    "size": 8818,
+    "source_rel": "hyundai/models/sonata/images/728d3fe98e5f11e0607d998c7e150d1a83045dc035b415e13b797423088b2e7d.webp"
+  },
+  {
+    "filename": "7395b073a78e1bdd06134641e6e396cd5e7e120753931f593680ea78beebcfc7.webp",
+    "size": 26118,
+    "source_rel": "hyundai/models/sonata/images/7395b073a78e1bdd06134641e6e396cd5e7e120753931f593680ea78beebcfc7.webp"
+  },
+  {
+    "filename": "76edf0fc59cdcb3ddbba892bc5bcd312b339d905cd16df5d31c1444d43c80a6c.webp",
+    "size": 9718,
+    "source_rel": "hyundai/models/sonata/images/76edf0fc59cdcb3ddbba892bc5bcd312b339d905cd16df5d31c1444d43c80a6c.webp"
+  },
+  {
+    "filename": "77755087ce7f1e9f1d34d85e5e82700b8dc48db33650671891c5f47ce279bf9f.webp",
+    "size": 4342,
+    "source_rel": "hyundai/models/sonata/images/77755087ce7f1e9f1d34d85e5e82700b8dc48db33650671891c5f47ce279bf9f.webp"
+  },
+  {
+    "filename": "782d3f85cace64e24dc9eb86d7203b6845765fd3908898532f9acd11af85ef78.webp",
+    "size": 3966,
+    "source_rel": "hyundai/models/sonata/images/782d3f85cace64e24dc9eb86d7203b6845765fd3908898532f9acd11af85ef78.webp"
+  },
+  {
+    "filename": "786d46f88c5f3f69c7068a8d1d59eaeebd67ae663963c1ec0f1fa776e6676f90.webp",
+    "size": 12134,
+    "source_rel": "hyundai/models/sonata/images/786d46f88c5f3f69c7068a8d1d59eaeebd67ae663963c1ec0f1fa776e6676f90.webp"
+  },
+  {
+    "filename": "788922df4b3bcdf7f6c489544f9763bf0004dce2e84d77941fdfed5ee6775602.webp",
+    "size": 29054,
+    "source_rel": "hyundai/models/sonata/images/788922df4b3bcdf7f6c489544f9763bf0004dce2e84d77941fdfed5ee6775602.webp"
+  },
+  {
+    "filename": "7902c4bec18c78314d5952f9f5ea91258746b911ccdccbf773791e7ea7dd44f6.webp",
+    "size": 5378,
+    "source_rel": "hyundai/models/sonata/images/7902c4bec18c78314d5952f9f5ea91258746b911ccdccbf773791e7ea7dd44f6.webp"
+  },
+  {
+    "filename": "7963ac4835d9c3114364e56e6e6e0ad40c89f7f96a755fe2f11dae5a157ad91f.webp",
+    "size": 8722,
+    "source_rel": "hyundai/models/sonata/images/7963ac4835d9c3114364e56e6e6e0ad40c89f7f96a755fe2f11dae5a157ad91f.webp"
+  },
+  {
+    "filename": "79b0782b2fdf1662f87f4f7df7acf1e29fcefd03f5f683a31aa57307cbdceb46.webp",
+    "size": 41422,
+    "source_rel": "hyundai/models/sonata/images/79b0782b2fdf1662f87f4f7df7acf1e29fcefd03f5f683a31aa57307cbdceb46.webp"
+  },
+  {
+    "filename": "79fbdb612768f104c0cf91fb7b248ab08b78bf547b9247617b83be9f766c947e.webp",
+    "size": 10388,
+    "source_rel": "hyundai/models/sonata/images/79fbdb612768f104c0cf91fb7b248ab08b78bf547b9247617b83be9f766c947e.webp"
+  },
+  {
+    "filename": "7aa960d4c8f26a0a42b68cb644344f8763cca22cb191a469c84873459e5acd7e.webp",
+    "size": 14162,
+    "source_rel": "hyundai/models/sonata/images/7aa960d4c8f26a0a42b68cb644344f8763cca22cb191a469c84873459e5acd7e.webp"
+  },
+  {
+    "filename": "7abe7f3d84cdab9f8a31820af905b45d2c2d53405800ec0ff06a3a734f5e3940.webp",
+    "size": 5126,
+    "source_rel": "hyundai/models/sonata/images/7abe7f3d84cdab9f8a31820af905b45d2c2d53405800ec0ff06a3a734f5e3940.webp"
+  },
+  {
+    "filename": "7bcd2c2c6c65082b1670cd4e4b146c8db90be6a6e7662b4d4a38ccc838ed9a92.webp",
+    "size": 24232,
+    "source_rel": "hyundai/models/sonata/images/7bcd2c2c6c65082b1670cd4e4b146c8db90be6a6e7662b4d4a38ccc838ed9a92.webp"
+  },
+  {
+    "filename": "7cac1c4a0281eb24789ba181d116f31462a915bd3c4c9bc97d5a3b8358a4bd1b.webp",
+    "size": 18480,
+    "source_rel": "hyundai/models/sonata/images/7cac1c4a0281eb24789ba181d116f31462a915bd3c4c9bc97d5a3b8358a4bd1b.webp"
+  },
+  {
+    "filename": "7ccfb7961fa4ec10eafc2117e5e6a32ecb53f361f122ad505ed7695bd0e009f1.webp",
+    "size": 7922,
+    "source_rel": "hyundai/models/sonata/images/7ccfb7961fa4ec10eafc2117e5e6a32ecb53f361f122ad505ed7695bd0e009f1.webp"
+  },
+  {
+    "filename": "7cef80ebbae0d38615e52afecfe776403989512a0f9de1a771fcd93d0f8e5cb3.webp",
+    "size": 11656,
+    "source_rel": "hyundai/models/sonata/images/7cef80ebbae0d38615e52afecfe776403989512a0f9de1a771fcd93d0f8e5cb3.webp"
+  },
+  {
+    "filename": "7d2156035f13c18dc785fe8ab71b6ac1f9cae6542ba6464e9c64daad7dc2d672.webp",
+    "size": 12456,
+    "source_rel": "hyundai/models/sonata/images/7d2156035f13c18dc785fe8ab71b6ac1f9cae6542ba6464e9c64daad7dc2d672.webp"
+  },
+  {
+    "filename": "7e8a8f2096649f4d7cc0ae48a64f048dec4777f573aa55b20a2ab11f3e7e1c23.webp",
+    "size": 10522,
+    "source_rel": "hyundai/models/sonata/images/7e8a8f2096649f4d7cc0ae48a64f048dec4777f573aa55b20a2ab11f3e7e1c23.webp"
+  },
+  {
+    "filename": "7e960a0d1afa8aa6b91a4e375c6159000856b0ee9e22521355064b43ed2d685c.webp",
+    "size": 15986,
+    "source_rel": "hyundai/models/sonata/images/7e960a0d1afa8aa6b91a4e375c6159000856b0ee9e22521355064b43ed2d685c.webp"
+  },
+  {
+    "filename": "7ef21e21eddb3b68bc06b024a28999f702b86a9f122e3932ae73954f058fc154.webp",
+    "size": 13230,
+    "source_rel": "hyundai/models/sonata/images/7ef21e21eddb3b68bc06b024a28999f702b86a9f122e3932ae73954f058fc154.webp"
+  },
+  {
+    "filename": "7f4266e6cc2c06ff2f7b1d11d924e3c4f6f6910647287456d17da8ca78658337.webp",
+    "size": 41450,
+    "source_rel": "hyundai/models/sonata/images/7f4266e6cc2c06ff2f7b1d11d924e3c4f6f6910647287456d17da8ca78658337.webp"
+  },
+  {
+    "filename": "800a9eefd761d103ac3912b848ceb41d3082d730e21ae79679ba5534aebcd39d.webp",
+    "size": 14840,
+    "source_rel": "hyundai/models/sonata/images/800a9eefd761d103ac3912b848ceb41d3082d730e21ae79679ba5534aebcd39d.webp"
+  },
+  {
+    "filename": "80dfbed26902272884d44b3432d06f12452c6b8d9af4da813c199d52bbed4ce5.webp",
+    "size": 71878,
+    "source_rel": "hyundai/models/sonata/images/80dfbed26902272884d44b3432d06f12452c6b8d9af4da813c199d52bbed4ce5.webp"
+  },
+  {
+    "filename": "81965c958c65f9c9a659c494dcb69685f658d8f58f8c6ebfb003c39a260af36d.webp",
+    "size": 26520,
+    "source_rel": "hyundai/models/sonata/images/81965c958c65f9c9a659c494dcb69685f658d8f58f8c6ebfb003c39a260af36d.webp"
+  },
+  {
+    "filename": "81a785efd0c446fdcd5adef10dd99e9126c4192b037814f1a39d4f659cb50ca8.webp",
+    "size": 12370,
+    "source_rel": "hyundai/models/sonata/images/81a785efd0c446fdcd5adef10dd99e9126c4192b037814f1a39d4f659cb50ca8.webp"
+  },
+  {
+    "filename": "81f1ef0ab6e63c5b56f868cb1e6221a2843a7ed75160f4730732aa5c50b759e5.webp",
+    "size": 6570,
+    "source_rel": "hyundai/models/sonata/images/81f1ef0ab6e63c5b56f868cb1e6221a2843a7ed75160f4730732aa5c50b759e5.webp"
+  },
+  {
+    "filename": "828f3ca26ecd21f66efc7d1ad75a7705b7f3d591a1fc139dbfb24e4a125d5d1f.webp",
+    "size": 123702,
+    "source_rel": "hyundai/models/sonata/images/828f3ca26ecd21f66efc7d1ad75a7705b7f3d591a1fc139dbfb24e4a125d5d1f.webp"
+  },
+  {
+    "filename": "83232e663cd94ba013cd027a2b360d137dadad5be2fd8fb542233644bbdfa1bf.webp",
+    "size": 9714,
+    "source_rel": "hyundai/models/sonata/images/83232e663cd94ba013cd027a2b360d137dadad5be2fd8fb542233644bbdfa1bf.webp"
+  },
+  {
+    "filename": "83386b2b3fee5a5fe099c1311c380425ca8d7f3597263813c11574aa96a36423.webp",
+    "size": 8528,
+    "source_rel": "hyundai/models/sonata/images/83386b2b3fee5a5fe099c1311c380425ca8d7f3597263813c11574aa96a36423.webp"
+  },
+  {
+    "filename": "837d6af9b034667453c64732b52268151bbea995be1235570d435229ed6a3ca2.webp",
+    "size": 11970,
+    "source_rel": "hyundai/models/sonata/images/837d6af9b034667453c64732b52268151bbea995be1235570d435229ed6a3ca2.webp"
+  },
+  {
+    "filename": "838c1b9da49c8a3ec6549a64656200e6a2cb755865009cc864ccd27978c28abd.webp",
+    "size": 30910,
+    "source_rel": "hyundai/models/sonata/images/838c1b9da49c8a3ec6549a64656200e6a2cb755865009cc864ccd27978c28abd.webp"
+  },
+  {
+    "filename": "843a40fdff7cf69cd04c11456df2078c65794130956a09f249789815d083402c.webp",
+    "size": 6286,
+    "source_rel": "hyundai/models/sonata/images/843a40fdff7cf69cd04c11456df2078c65794130956a09f249789815d083402c.webp"
+  },
+  {
+    "filename": "847f3d5f40ee7846adf6b124a3270c4cb4e2e232a90b4dd42b82dee652ddc7c7.webp",
+    "size": 149258,
+    "source_rel": "hyundai/models/sonata/images/847f3d5f40ee7846adf6b124a3270c4cb4e2e232a90b4dd42b82dee652ddc7c7.webp"
+  },
+  {
+    "filename": "848351544bed6c17b985b4286a813435a10e3e82b916bd31095623d3098ae111.webp",
+    "size": 5902,
+    "source_rel": "hyundai/models/sonata/images/848351544bed6c17b985b4286a813435a10e3e82b916bd31095623d3098ae111.webp"
+  },
+  {
+    "filename": "84cce59445fd7fb327b2fdfa8de343aadc4888fcb0158e21deba1ede4f16ddee.webp",
+    "size": 12082,
+    "source_rel": "hyundai/models/sonata/images/84cce59445fd7fb327b2fdfa8de343aadc4888fcb0158e21deba1ede4f16ddee.webp"
+  },
+  {
+    "filename": "853f00d95c0c2c64f4a98cb7794d3e3c1393b46f095b34f605b803096a40da2c.webp",
+    "size": 10204,
+    "source_rel": "hyundai/models/sonata/images/853f00d95c0c2c64f4a98cb7794d3e3c1393b46f095b34f605b803096a40da2c.webp"
+  },
+  {
+    "filename": "858f7ff2ba4e513883d818bc118985f780d4ddf76cf87c9cc1124a4910d64acb.webp",
+    "size": 5134,
+    "source_rel": "hyundai/models/sonata/images/858f7ff2ba4e513883d818bc118985f780d4ddf76cf87c9cc1124a4910d64acb.webp"
+  },
+  {
+    "filename": "85a565125136bd7a13f4310ddbf3983031b823774404bf78c7811bb45b06ab20.webp",
+    "size": 9030,
+    "source_rel": "hyundai/models/sonata/images/85a565125136bd7a13f4310ddbf3983031b823774404bf78c7811bb45b06ab20.webp"
+  },
+  {
+    "filename": "85da3c2fa39b3b6d606975e18f8f6fa1a9b92dacc74dafe991de20e21aacb6cd.webp",
+    "size": 11646,
+    "source_rel": "hyundai/models/sonata/images/85da3c2fa39b3b6d606975e18f8f6fa1a9b92dacc74dafe991de20e21aacb6cd.webp"
+  },
+  {
+    "filename": "8725bed47491f0f00c7a69a91c10da1e1a42a19d0f812bd0b5b1270ab0ac5c9c.webp",
+    "size": 12730,
+    "source_rel": "hyundai/models/sonata/images/8725bed47491f0f00c7a69a91c10da1e1a42a19d0f812bd0b5b1270ab0ac5c9c.webp"
+  },
+  {
+    "filename": "87c6b23e45e13f7b2fe2c8c8c2ee44923e0d36afa8686739dcd590330ab7313d.webp",
+    "size": 99406,
+    "source_rel": "hyundai/models/sonata/images/87c6b23e45e13f7b2fe2c8c8c2ee44923e0d36afa8686739dcd590330ab7313d.webp"
+  },
+  {
+    "filename": "8815c7d438eb8b07eef52088b56eb2be4e99eefc5f0a68e208692d2e7974c8ce.webp",
+    "size": 9836,
+    "source_rel": "hyundai/models/sonata/images/8815c7d438eb8b07eef52088b56eb2be4e99eefc5f0a68e208692d2e7974c8ce.webp"
+  },
+  {
+    "filename": "88554311a258ccfdd3a49b8b5e0fbf8bdb15cf2fe3c0accb1ca86fd60a76f4fb.webp",
+    "size": 9564,
+    "source_rel": "hyundai/models/sonata/images/88554311a258ccfdd3a49b8b5e0fbf8bdb15cf2fe3c0accb1ca86fd60a76f4fb.webp"
+  },
+  {
+    "filename": "88f7fc17938c139f3a0617010ee640b58e7cc39c8d62316ddf1672c00788b239.webp",
+    "size": 125340,
+    "source_rel": "hyundai/models/sonata/images/88f7fc17938c139f3a0617010ee640b58e7cc39c8d62316ddf1672c00788b239.webp"
+  },
+  {
+    "filename": "892241fe6f56c628bf75a21bac6348c216963648abd44e8fde348db4a7e6f95c.webp",
+    "size": 31220,
+    "source_rel": "hyundai/models/sonata/images/892241fe6f56c628bf75a21bac6348c216963648abd44e8fde348db4a7e6f95c.webp"
+  },
+  {
+    "filename": "89a53bec567ada82d7664239c6490ea61fb119a94bec07f67d6d8bc94264b762.webp",
+    "size": 11120,
+    "source_rel": "hyundai/models/sonata/images/89a53bec567ada82d7664239c6490ea61fb119a94bec07f67d6d8bc94264b762.webp"
+  },
+  {
+    "filename": "89f76825ba784b6319a6e03fff85b5e75ca100e4e6806199afca90bfcaa25271.webp",
+    "size": 9804,
+    "source_rel": "hyundai/models/sonata/images/89f76825ba784b6319a6e03fff85b5e75ca100e4e6806199afca90bfcaa25271.webp"
+  },
+  {
+    "filename": "8a2f72cef6e11dbc8cbdfb995ab42d44de7f8460ae71d04535ecddd25d45dd71.webp",
+    "size": 7192,
+    "source_rel": "hyundai/models/sonata/images/8a2f72cef6e11dbc8cbdfb995ab42d44de7f8460ae71d04535ecddd25d45dd71.webp"
+  },
+  {
+    "filename": "8a38dbb5ea5fb1237e923ce3d89b34a298793e14e9c7fe398de715c8d8a896e7.webp",
+    "size": 17416,
+    "source_rel": "hyundai/models/sonata/images/8a38dbb5ea5fb1237e923ce3d89b34a298793e14e9c7fe398de715c8d8a896e7.webp"
+  },
+  {
+    "filename": "8a4eb0aafdd3253842b316190a4ccb66d0f23eea832ebeda7c20f94483b0fdb3.webp",
+    "size": 7356,
+    "source_rel": "hyundai/models/sonata/images/8a4eb0aafdd3253842b316190a4ccb66d0f23eea832ebeda7c20f94483b0fdb3.webp"
+  },
+  {
+    "filename": "8a98b508c77bf0a7c21f9805ef02d014068acfc2b898cf43702681302b5ee8b6.webp",
+    "size": 8454,
+    "source_rel": "hyundai/models/sonata/images/8a98b508c77bf0a7c21f9805ef02d014068acfc2b898cf43702681302b5ee8b6.webp"
+  },
+  {
+    "filename": "8ae203680f407475c912e426c8c90059f5bc1ddb5ce77001ac8db43a6bbf2164.webp",
+    "size": 6440,
+    "source_rel": "hyundai/models/sonata/images/8ae203680f407475c912e426c8c90059f5bc1ddb5ce77001ac8db43a6bbf2164.webp"
+  },
+  {
+    "filename": "8b3b4773494d7cbc876df1836146fef0a2b7e62463d5544f0d70ed5588fd4498.webp",
+    "size": 21088,
+    "source_rel": "hyundai/models/sonata/images/8b3b4773494d7cbc876df1836146fef0a2b7e62463d5544f0d70ed5588fd4498.webp"
+  },
+  {
+    "filename": "8c1529cd08e256257011626818c55bc763de6e7f0ff5321c1447b49f39721dd5.webp",
+    "size": 6896,
+    "source_rel": "hyundai/models/sonata/images/8c1529cd08e256257011626818c55bc763de6e7f0ff5321c1447b49f39721dd5.webp"
+  },
+  {
+    "filename": "8c183ec9de9a314488286f1bd551c987f137c1909d19060306124b722bbb98e2.webp",
+    "size": 9128,
+    "source_rel": "hyundai/models/sonata/images/8c183ec9de9a314488286f1bd551c987f137c1909d19060306124b722bbb98e2.webp"
+  },
+  {
+    "filename": "8c3a4451d7899092ca7b8303c2571c8936796b8429068552fefaed0610f266f7.webp",
+    "size": 9156,
+    "source_rel": "hyundai/models/sonata/images/8c3a4451d7899092ca7b8303c2571c8936796b8429068552fefaed0610f266f7.webp"
+  },
+  {
+    "filename": "8cf491c7371f019dcbd7e70c78e1e28f9fb4bea0e6547223708d9fba6dbdd24d.webp",
+    "size": 116182,
+    "source_rel": "hyundai/models/sonata/images/8cf491c7371f019dcbd7e70c78e1e28f9fb4bea0e6547223708d9fba6dbdd24d.webp"
+  },
+  {
+    "filename": "8d8a86cad4eb2e92276aa638e7fc68a00702ba32ba949f88f9b7a75ca8c1dfd7.webp",
+    "size": 20010,
+    "source_rel": "hyundai/models/sonata/images/8d8a86cad4eb2e92276aa638e7fc68a00702ba32ba949f88f9b7a75ca8c1dfd7.webp"
+  },
+  {
+    "filename": "8dd109e8fcfd1eabcff479533ebc46509f8184d8b083433cda6271ff24837534.webp",
+    "size": 7062,
+    "source_rel": "hyundai/models/sonata/images/8dd109e8fcfd1eabcff479533ebc46509f8184d8b083433cda6271ff24837534.webp"
+  },
+  {
+    "filename": "8eb4bc00c3c354ada0e7f7725860663e4280dd36743daee9b206a40a62d1c4c3.webp",
+    "size": 14318,
+    "source_rel": "hyundai/models/sonata/images/8eb4bc00c3c354ada0e7f7725860663e4280dd36743daee9b206a40a62d1c4c3.webp"
+  },
+  {
+    "filename": "8f28b8990f0aa5fa80c9d2024888ef86a125cb566a9b31655c313ab3796838b9.webp",
+    "size": 5242,
+    "source_rel": "hyundai/models/sonata/images/8f28b8990f0aa5fa80c9d2024888ef86a125cb566a9b31655c313ab3796838b9.webp"
+  },
+  {
+    "filename": "8f5e920a625276e5f6672bfaea146524b02c7ec0f0d7d7702a2cad661afba2af.webp",
+    "size": 11112,
+    "source_rel": "hyundai/models/sonata/images/8f5e920a625276e5f6672bfaea146524b02c7ec0f0d7d7702a2cad661afba2af.webp"
+  },
+  {
+    "filename": "903146e91dd9da9f9a32db8dcae627d901595086e3512af6478cc599824d029e.webp",
+    "size": 13606,
+    "source_rel": "hyundai/models/sonata/images/903146e91dd9da9f9a32db8dcae627d901595086e3512af6478cc599824d029e.webp"
+  },
+  {
+    "filename": "90b596675b434854e016430732dcf60c26b1ee021fbdee5ba8e3de8d06c9c4d1.webp",
+    "size": 15806,
+    "source_rel": "hyundai/models/sonata/images/90b596675b434854e016430732dcf60c26b1ee021fbdee5ba8e3de8d06c9c4d1.webp"
+  },
+  {
+    "filename": "91a20a54b01ae0907bb226e503ebc064c6ce57448250383a28f72a836bf2bfdb.webp",
+    "size": 8146,
+    "source_rel": "hyundai/models/sonata/images/91a20a54b01ae0907bb226e503ebc064c6ce57448250383a28f72a836bf2bfdb.webp"
+  },
+  {
+    "filename": "91b9ae21fe32cb082d74d3199b3f44bc330c083e00813b250404a88396dd82e0.webp",
+    "size": 7592,
+    "source_rel": "hyundai/models/sonata/images/91b9ae21fe32cb082d74d3199b3f44bc330c083e00813b250404a88396dd82e0.webp"
+  },
+  {
+    "filename": "91c39604f26df03501ae448acd8faf77103bf2059674ef5f945763b78610be82.webp",
+    "size": 12514,
+    "source_rel": "hyundai/models/sonata/images/91c39604f26df03501ae448acd8faf77103bf2059674ef5f945763b78610be82.webp"
+  },
+  {
+    "filename": "91eb7ba132fa2ea43654b9ca41f84f6e791c41299dda106bb25fc45eb7dc99f7.webp",
+    "size": 7316,
+    "source_rel": "hyundai/models/sonata/images/91eb7ba132fa2ea43654b9ca41f84f6e791c41299dda106bb25fc45eb7dc99f7.webp"
+  },
+  {
+    "filename": "91ec46c925e08c209b069bf5f5c2a9415759792792b48b29c013d83e3023e132.webp",
+    "size": 8858,
+    "source_rel": "hyundai/models/sonata/images/91ec46c925e08c209b069bf5f5c2a9415759792792b48b29c013d83e3023e132.webp"
+  },
+  {
+    "filename": "9283d782b0d663bf2f26f5dd74dff2e78f58cbb7cafde146ed0a14b40b688429.webp",
+    "size": 720,
+    "source_rel": "hyundai/models/sonata/images/9283d782b0d663bf2f26f5dd74dff2e78f58cbb7cafde146ed0a14b40b688429.webp"
+  },
+  {
+    "filename": "936143f37bbc13f9dfdcbc6728cf610bd254543c43974758e7da8ad96bd66826.webp",
+    "size": 7214,
+    "source_rel": "hyundai/models/sonata/images/936143f37bbc13f9dfdcbc6728cf610bd254543c43974758e7da8ad96bd66826.webp"
+  },
+  {
+    "filename": "9390cf53ecf1e6d71d7cfff2d3a17fe640a70c37b49fb29367d485314c093654.webp",
+    "size": 5226,
+    "source_rel": "hyundai/models/sonata/images/9390cf53ecf1e6d71d7cfff2d3a17fe640a70c37b49fb29367d485314c093654.webp"
+  },
+  {
+    "filename": "93e281258f54c3448a1117d91d42e74849d7fedc21da21ef82f4d05de73d3533.webp",
+    "size": 9556,
+    "source_rel": "hyundai/models/sonata/images/93e281258f54c3448a1117d91d42e74849d7fedc21da21ef82f4d05de73d3533.webp"
+  },
+  {
+    "filename": "93e7b1f780c71646c59d30a0edb7dc228a5e87e63fd393b2c2e0394cf05fd678.webp",
+    "size": 12534,
+    "source_rel": "hyundai/models/sonata/images/93e7b1f780c71646c59d30a0edb7dc228a5e87e63fd393b2c2e0394cf05fd678.webp"
+  },
+  {
+    "filename": "9401dbbe878034f718ed90878a4524ee3d5fa9dee5ba9d23b7c8e56ec9591657.webp",
+    "size": 8184,
+    "source_rel": "hyundai/models/sonata/images/9401dbbe878034f718ed90878a4524ee3d5fa9dee5ba9d23b7c8e56ec9591657.webp"
+  },
+  {
+    "filename": "94b7e7b5957a78111c9502250d72d0f1324323085583c24f9329c8d843a3b59d.webp",
+    "size": 187884,
+    "source_rel": "hyundai/models/sonata/images/94b7e7b5957a78111c9502250d72d0f1324323085583c24f9329c8d843a3b59d.webp"
+  },
+  {
+    "filename": "94caa1f618b1e724ed83c8f2c7dc0031abf327acc118bacff1ebd076d5d5a181.webp",
+    "size": 3436,
+    "source_rel": "hyundai/models/sonata/images/94caa1f618b1e724ed83c8f2c7dc0031abf327acc118bacff1ebd076d5d5a181.webp"
+  },
+  {
+    "filename": "94da8fc06cf13c32a7799b6508dac86db1a753fc4d06e1d798381b823d2e529c.webp",
+    "size": 4214,
+    "source_rel": "hyundai/models/sonata/images/94da8fc06cf13c32a7799b6508dac86db1a753fc4d06e1d798381b823d2e529c.webp"
+  },
+  {
+    "filename": "953ab6070cd6ad715f9c44f773d9a53ac04bcca4209d229e6cef5fb41ed9ca23.webp",
+    "size": 17572,
+    "source_rel": "hyundai/models/sonata/images/953ab6070cd6ad715f9c44f773d9a53ac04bcca4209d229e6cef5fb41ed9ca23.webp"
+  },
+  {
+    "filename": "953d9ea6d9065f3095fea43a605a407e76a3796c55dac60a8bb06005dcd56284.webp",
+    "size": 688,
+    "source_rel": "hyundai/models/sonata/images/953d9ea6d9065f3095fea43a605a407e76a3796c55dac60a8bb06005dcd56284.webp"
+  },
+  {
+    "filename": "9542fc480ab36741f91de7df978c6de5daf60128f17c65448bb75b11e11fb0a6.webp",
+    "size": 26540,
+    "source_rel": "hyundai/models/sonata/images/9542fc480ab36741f91de7df978c6de5daf60128f17c65448bb75b11e11fb0a6.webp"
+  },
+  {
+    "filename": "95ca7173257d543e38d1adafc96f586b867318dc29e68b5ddad9a1a0bc76de0d.webp",
+    "size": 14318,
+    "source_rel": "hyundai/models/sonata/images/95ca7173257d543e38d1adafc96f586b867318dc29e68b5ddad9a1a0bc76de0d.webp"
+  },
+  {
+    "filename": "9785afe05028c95039ee81185d4b46729e08f91de3a6f85c66cde39b6b3b1e56.webp",
+    "size": 10120,
+    "source_rel": "hyundai/models/sonata/images/9785afe05028c95039ee81185d4b46729e08f91de3a6f85c66cde39b6b3b1e56.webp"
+  },
+  {
+    "filename": "97ca78e89ccbc791590a8185ac5439618717bd1baa3b014ac75ed726f3fa4db7.webp",
+    "size": 3710,
+    "source_rel": "hyundai/models/sonata/images/97ca78e89ccbc791590a8185ac5439618717bd1baa3b014ac75ed726f3fa4db7.webp"
+  },
+  {
+    "filename": "98611f658e4f7c1abdacf4508f4f3d8fb5c4e1c1ae6d0fa0ae981d911d62f924.webp",
+    "size": 4326,
+    "source_rel": "hyundai/models/sonata/images/98611f658e4f7c1abdacf4508f4f3d8fb5c4e1c1ae6d0fa0ae981d911d62f924.webp"
+  },
+  {
+    "filename": "98926518393f31b451d66d44bee6637b3505f283bdd044bf9ca268a7ba0467ee.webp",
+    "size": 5270,
+    "source_rel": "hyundai/models/sonata/images/98926518393f31b451d66d44bee6637b3505f283bdd044bf9ca268a7ba0467ee.webp"
+  },
+  {
+    "filename": "99c6b1b675588fb2eb1422c057e0b10b4832337e8d08788e69a6a78ad6292571.webp",
+    "size": 24274,
+    "source_rel": "hyundai/models/sonata/images/99c6b1b675588fb2eb1422c057e0b10b4832337e8d08788e69a6a78ad6292571.webp"
+  },
+  {
+    "filename": "99e8a6b77ac5598c847393d060103bb2a188eb3d469fe69ac8dbef3ef70541db.webp",
+    "size": 6350,
+    "source_rel": "hyundai/models/sonata/images/99e8a6b77ac5598c847393d060103bb2a188eb3d469fe69ac8dbef3ef70541db.webp"
+  },
+  {
+    "filename": "9a0cef15ecfc2c3c35e402bfc255ffc45ab2fc1ee51c3d8c13859169a7505118.webp",
+    "size": 7754,
+    "source_rel": "hyundai/models/sonata/images/9a0cef15ecfc2c3c35e402bfc255ffc45ab2fc1ee51c3d8c13859169a7505118.webp"
+  },
+  {
+    "filename": "9a9f5eb8177668e382adcb6a75f4dc6303a8cd5b65378c22031ebc9f96e8806b.webp",
+    "size": 5560,
+    "source_rel": "hyundai/models/sonata/images/9a9f5eb8177668e382adcb6a75f4dc6303a8cd5b65378c22031ebc9f96e8806b.webp"
+  },
+  {
+    "filename": "9ab62f76bd7cefef8bbdea271bdee2bf60b1623d0fe1f6a8d41ef81c44590322.webp",
+    "size": 4590,
+    "source_rel": "hyundai/models/sonata/images/9ab62f76bd7cefef8bbdea271bdee2bf60b1623d0fe1f6a8d41ef81c44590322.webp"
+  },
+  {
+    "filename": "9bb4b542cae98563205809e7839e91836540cb1f10d749bc764ddbf391cf93ce.webp",
+    "size": 11648,
+    "source_rel": "hyundai/models/sonata/images/9bb4b542cae98563205809e7839e91836540cb1f10d749bc764ddbf391cf93ce.webp"
+  },
+  {
+    "filename": "9bdf7e38f5afb8220169bc04ecbb918bd6e32d66be0c888fb92bb6e6f41aa190.webp",
+    "size": 15550,
+    "source_rel": "hyundai/models/sonata/images/9bdf7e38f5afb8220169bc04ecbb918bd6e32d66be0c888fb92bb6e6f41aa190.webp"
+  },
+  {
+    "filename": "9bff5383b01f3a6915fd080e3b672784d2a1d114e006405af25f13e173112855.webp",
+    "size": 4308,
+    "source_rel": "hyundai/models/sonata/images/9bff5383b01f3a6915fd080e3b672784d2a1d114e006405af25f13e173112855.webp"
+  },
+  {
+    "filename": "9c5f3026683e6e6288c6bf352366671a2cc7905182bed4f68d6552174291824e.webp",
+    "size": 10494,
+    "source_rel": "hyundai/models/sonata/images/9c5f3026683e6e6288c6bf352366671a2cc7905182bed4f68d6552174291824e.webp"
+  },
+  {
+    "filename": "9d872f2813ef573b19ff6858d5304aeb4ad3d2a2c30f8524feecb82cd322717e.webp",
+    "size": 9358,
+    "source_rel": "hyundai/models/sonata/images/9d872f2813ef573b19ff6858d5304aeb4ad3d2a2c30f8524feecb82cd322717e.webp"
+  },
+  {
+    "filename": "9d8f4c3905a9bf143a5a524f7c927ddabc0684e943316a9fc6e76071785a0e87.webp",
+    "size": 14748,
+    "source_rel": "hyundai/models/sonata/images/9d8f4c3905a9bf143a5a524f7c927ddabc0684e943316a9fc6e76071785a0e87.webp"
+  },
+  {
+    "filename": "9dc64259a2c31ceb99679aaceacc66036c15806f340099bd2decc50ac8b4483f.webp",
+    "size": 8000,
+    "source_rel": "hyundai/models/sonata/images/9dc64259a2c31ceb99679aaceacc66036c15806f340099bd2decc50ac8b4483f.webp"
+  },
+  {
+    "filename": "9e768c6cd13912494c9287ad3dc0420b06998636b244d0ea34ccfa8e04a67971.webp",
+    "size": 1986,
+    "source_rel": "hyundai/models/sonata/images/9e768c6cd13912494c9287ad3dc0420b06998636b244d0ea34ccfa8e04a67971.webp"
+  },
+  {
+    "filename": "9f7d6576c9bd4e8586eabd1fe17d684ddbf70f042fa6a4f38091dff345543c23.webp",
+    "size": 14260,
+    "source_rel": "hyundai/models/sonata/images/9f7d6576c9bd4e8586eabd1fe17d684ddbf70f042fa6a4f38091dff345543c23.webp"
+  },
+  {
+    "filename": "9fbbac6e94f1477c5086730b48d106fdf95fa8480a4199b14c77a217b8993338.webp",
+    "size": 14066,
+    "source_rel": "hyundai/models/sonata/images/9fbbac6e94f1477c5086730b48d106fdf95fa8480a4199b14c77a217b8993338.webp"
+  },
+  {
+    "filename": "a096f76fede9fee82915913eacdb0a3105dca125a09473b36e41f583b959462e.webp",
+    "size": 14692,
+    "source_rel": "hyundai/models/sonata/images/a096f76fede9fee82915913eacdb0a3105dca125a09473b36e41f583b959462e.webp"
+  },
+  {
+    "filename": "a0bad76ae218319c0b0ff28ebd5b1b78b54572a4117b15db51430026c378078c.webp",
+    "size": 10378,
+    "source_rel": "hyundai/models/sonata/images/a0bad76ae218319c0b0ff28ebd5b1b78b54572a4117b15db51430026c378078c.webp"
+  },
+  {
+    "filename": "a0e9d92d2d5bf7c222ad942c1c791a5b07415cd0ad3d708bf3ebc353bc2767a7.webp",
+    "size": 6546,
+    "source_rel": "hyundai/models/sonata/images/a0e9d92d2d5bf7c222ad942c1c791a5b07415cd0ad3d708bf3ebc353bc2767a7.webp"
+  },
+  {
+    "filename": "a11c2f414e97fc7582e0f3c9e87ea06035c4ac3a6e58d151de8a642358a6155c.webp",
+    "size": 8168,
+    "source_rel": "hyundai/models/sonata/images/a11c2f414e97fc7582e0f3c9e87ea06035c4ac3a6e58d151de8a642358a6155c.webp"
+  },
+  {
+    "filename": "a1a46ed43da6b7f4b90edbed6077f8398b64faa29fb6da6df363287670e16b8d.webp",
+    "size": 34356,
+    "source_rel": "hyundai/models/sonata/images/a1a46ed43da6b7f4b90edbed6077f8398b64faa29fb6da6df363287670e16b8d.webp"
+  },
+  {
+    "filename": "a2f5fbdeea78501aa531b588811d33ee825c8fcdf1efa8e1ef9ded27bb01e560.webp",
+    "size": 25286,
+    "source_rel": "hyundai/models/sonata/images/a2f5fbdeea78501aa531b588811d33ee825c8fcdf1efa8e1ef9ded27bb01e560.webp"
+  },
+  {
+    "filename": "a39288e7f76d180ea6e23c79c4d0fc121ba6b81b5afc0c96dcb4bb1098800d0a.webp",
+    "size": 30370,
+    "source_rel": "hyundai/models/sonata/images/a39288e7f76d180ea6e23c79c4d0fc121ba6b81b5afc0c96dcb4bb1098800d0a.webp"
+  },
+  {
+    "filename": "a49f4ad308dfcc8e219a8ab33e982e3c22baaf44f309f55cc9b22a567e94c763.webp",
+    "size": 8356,
+    "source_rel": "hyundai/models/sonata/images/a49f4ad308dfcc8e219a8ab33e982e3c22baaf44f309f55cc9b22a567e94c763.webp"
+  },
+  {
+    "filename": "a4a273c5336bdac48b12a85e5469e42c057f7bba69e133c8a3c5affadd64ebee.webp",
+    "size": 8328,
+    "source_rel": "hyundai/models/sonata/images/a4a273c5336bdac48b12a85e5469e42c057f7bba69e133c8a3c5affadd64ebee.webp"
+  },
+  {
+    "filename": "a4d1f08b032a54a38324a970f46002aba627697510c55dfe7eb5fbcd3bbc3386.webp",
+    "size": 7802,
+    "source_rel": "hyundai/models/sonata/images/a4d1f08b032a54a38324a970f46002aba627697510c55dfe7eb5fbcd3bbc3386.webp"
+  },
+  {
+    "filename": "a50f64de6682ad4de0c19dc5fcb2f826f08f9f7e85ea2161331e238b967aefd9.webp",
+    "size": 11660,
+    "source_rel": "hyundai/models/sonata/images/a50f64de6682ad4de0c19dc5fcb2f826f08f9f7e85ea2161331e238b967aefd9.webp"
+  },
+  {
+    "filename": "a519a6cd9cd13f2aa0edd2ff1e209a6849333597c7767a391608385d159dfb9f.webp",
+    "size": 8660,
+    "source_rel": "hyundai/models/sonata/images/a519a6cd9cd13f2aa0edd2ff1e209a6849333597c7767a391608385d159dfb9f.webp"
+  },
+  {
+    "filename": "a65a434ddcc51fd61ba78ef21c3aceb17990c3879b46f9a237b66dbe4da13287.webp",
+    "size": 14514,
+    "source_rel": "hyundai/models/sonata/images/a65a434ddcc51fd61ba78ef21c3aceb17990c3879b46f9a237b66dbe4da13287.webp"
+  },
+  {
+    "filename": "a6891e426cc4dc4459f7c6fc43196ebd97089694e9f62a43e35184ef400a75db.webp",
+    "size": 28740,
+    "source_rel": "hyundai/models/sonata/images/a6891e426cc4dc4459f7c6fc43196ebd97089694e9f62a43e35184ef400a75db.webp"
+  },
+  {
+    "filename": "a83a923949671e9bd08b47a026029f406fbdf99d2ee0b7b1cf693104f881ce5e.webp",
+    "size": 16062,
+    "source_rel": "hyundai/models/sonata/images/a83a923949671e9bd08b47a026029f406fbdf99d2ee0b7b1cf693104f881ce5e.webp"
+  },
+  {
+    "filename": "a87269ad836b015cfb0382992a8ba5a725be9f4a3bbe20e30e9d3b230a1a988e.webp",
+    "size": 6438,
+    "source_rel": "hyundai/models/sonata/images/a87269ad836b015cfb0382992a8ba5a725be9f4a3bbe20e30e9d3b230a1a988e.webp"
+  },
+  {
+    "filename": "a8e5b15cc72c187b4e378612657b1fc22a6d0e85817ddf5d8ae5a1706b29f44f.webp",
+    "size": 11058,
+    "source_rel": "hyundai/models/sonata/images/a8e5b15cc72c187b4e378612657b1fc22a6d0e85817ddf5d8ae5a1706b29f44f.webp"
+  },
+  {
+    "filename": "a8f733f29c942a0792fb45ba0363803ab4ec0bfada29b5668c4fa4bd206a2831.webp",
+    "size": 12206,
+    "source_rel": "hyundai/models/sonata/images/a8f733f29c942a0792fb45ba0363803ab4ec0bfada29b5668c4fa4bd206a2831.webp"
+  },
+  {
+    "filename": "a9141f15ee86183d597451fefbbef2fae302106a9bc1ae08652d6a11ac2a7a7c.webp",
+    "size": 7504,
+    "source_rel": "hyundai/models/sonata/images/a9141f15ee86183d597451fefbbef2fae302106a9bc1ae08652d6a11ac2a7a7c.webp"
+  },
+  {
+    "filename": "a98e4510cf2c4c280379d6f4302b1e775d51f887d1fb0e008bc8ab6f4845ac11.webp",
+    "size": 9284,
+    "source_rel": "hyundai/models/sonata/images/a98e4510cf2c4c280379d6f4302b1e775d51f887d1fb0e008bc8ab6f4845ac11.webp"
+  },
+  {
+    "filename": "aa6cec31a34b99d3019d06fe7223a96380c7af51cbcfc16b11dc9c260f79d946.webp",
+    "size": 9798,
+    "source_rel": "hyundai/models/sonata/images/aa6cec31a34b99d3019d06fe7223a96380c7af51cbcfc16b11dc9c260f79d946.webp"
+  },
+  {
+    "filename": "aaa42e2b8adcebcdc9e06c7dad847ea02cd5ac9c010aec6f8632ce8379cfaf97.webp",
+    "size": 21164,
+    "source_rel": "hyundai/models/sonata/images/aaa42e2b8adcebcdc9e06c7dad847ea02cd5ac9c010aec6f8632ce8379cfaf97.webp"
+  },
+  {
+    "filename": "aad2984c97ee30239dbd392faef4d49c0bda11d1241542ec012cda9577b65b89.webp",
+    "size": 28012,
+    "source_rel": "hyundai/models/sonata/images/aad2984c97ee30239dbd392faef4d49c0bda11d1241542ec012cda9577b65b89.webp"
+  },
+  {
+    "filename": "aaf3f9edb63e0458e5842c2aa464376d00f550c0b84cf1473606d7cffa6f5e37.webp",
+    "size": 546,
+    "source_rel": "hyundai/models/sonata/images/aaf3f9edb63e0458e5842c2aa464376d00f550c0b84cf1473606d7cffa6f5e37.webp"
+  },
+  {
+    "filename": "ab157b222825103a9ffd3cf1a3b17fb7c34113dd957ace2299710b3e1bd402db.webp",
+    "size": 49840,
+    "source_rel": "hyundai/models/sonata/images/ab157b222825103a9ffd3cf1a3b17fb7c34113dd957ace2299710b3e1bd402db.webp"
+  },
+  {
+    "filename": "abb3db6053bd336703806579752fdf41c05f453bcf8b12bd99bdac2fba0efc6d.webp",
+    "size": 7318,
+    "source_rel": "hyundai/models/sonata/images/abb3db6053bd336703806579752fdf41c05f453bcf8b12bd99bdac2fba0efc6d.webp"
+  },
+  {
+    "filename": "ac8b9d46b0729e70f61b950ebc9ff510a83b68f9de01f3594db5e7868ae70f05.webp",
+    "size": 49754,
+    "source_rel": "hyundai/models/sonata/images/ac8b9d46b0729e70f61b950ebc9ff510a83b68f9de01f3594db5e7868ae70f05.webp"
+  },
+  {
+    "filename": "aea042d782a1340abfe863087d3b77b02505994cb3858d92dc86c9029b5db55f.webp",
+    "size": 3782,
+    "source_rel": "hyundai/models/sonata/images/aea042d782a1340abfe863087d3b77b02505994cb3858d92dc86c9029b5db55f.webp"
+  },
+  {
+    "filename": "afb3957a4b91899a7b2ff3fd07e4f4fe221b695ddac9b512df2ecca10dc1e9b0.webp",
+    "size": 22604,
+    "source_rel": "hyundai/models/sonata/images/afb3957a4b91899a7b2ff3fd07e4f4fe221b695ddac9b512df2ecca10dc1e9b0.webp"
+  },
+  {
+    "filename": "afcc2c8e105dbe77436911d7ffa0ff45538fad8a6b618733209742057470df6b.webp",
+    "size": 15046,
+    "source_rel": "hyundai/models/sonata/images/afcc2c8e105dbe77436911d7ffa0ff45538fad8a6b618733209742057470df6b.webp"
+  },
+  {
+    "filename": "b09baffa5289fdf750b76f5a0026bbcd2055119fca3163f962244ec05f916375.webp",
+    "size": 9790,
+    "source_rel": "hyundai/models/sonata/images/b09baffa5289fdf750b76f5a0026bbcd2055119fca3163f962244ec05f916375.webp"
+  },
+  {
+    "filename": "b2978064355f5ed2c97226f67d96fa877ca68d8e3d161c62b537a4fb3ca8ba28.webp",
+    "size": 6504,
+    "source_rel": "hyundai/models/sonata/images/b2978064355f5ed2c97226f67d96fa877ca68d8e3d161c62b537a4fb3ca8ba28.webp"
+  },
+  {
+    "filename": "b2f36b29ef533baec2cad140e234fa4cf15ce1d3ddf9455bbfb9a8c7f84bfae1.webp",
+    "size": 10146,
+    "source_rel": "hyundai/models/sonata/images/b2f36b29ef533baec2cad140e234fa4cf15ce1d3ddf9455bbfb9a8c7f84bfae1.webp"
+  },
+  {
+    "filename": "b35176088680e1ad8cdd8e3b1bdd898fb3caab714afb67682ba1b7ed63a14ec7.webp",
+    "size": 30876,
+    "source_rel": "hyundai/models/sonata/images/b35176088680e1ad8cdd8e3b1bdd898fb3caab714afb67682ba1b7ed63a14ec7.webp"
+  },
+  {
+    "filename": "b3543c6e507dbc1b282dd25ac9c342c3193df4621b2604d7cc965ab8b445fc30.webp",
+    "size": 4776,
+    "source_rel": "hyundai/models/sonata/images/b3543c6e507dbc1b282dd25ac9c342c3193df4621b2604d7cc965ab8b445fc30.webp"
+  },
+  {
+    "filename": "b42166aecbdff9f3ffb2d3a808b9e8dadf72341365f174d75eccb6385c3661b2.webp",
+    "size": 11654,
+    "source_rel": "hyundai/models/sonata/images/b42166aecbdff9f3ffb2d3a808b9e8dadf72341365f174d75eccb6385c3661b2.webp"
+  },
+  {
+    "filename": "b42bd5fe8833530f6e53e5f721491f6d0407946dc445c54613a82b27cb0f4300.webp",
+    "size": 10650,
+    "source_rel": "hyundai/models/sonata/images/b42bd5fe8833530f6e53e5f721491f6d0407946dc445c54613a82b27cb0f4300.webp"
+  },
+  {
+    "filename": "b4efa0ae3f714acb1585c9cc8c0f2671e489e2338fb28730dadbcf0eadecf110.webp",
+    "size": 10272,
+    "source_rel": "hyundai/models/sonata/images/b4efa0ae3f714acb1585c9cc8c0f2671e489e2338fb28730dadbcf0eadecf110.webp"
+  },
+  {
+    "filename": "b54f3111ab38df8cbe00351dd333355ee8a52add5cbcf6d5c9e1b5a91e51fab1.webp",
+    "size": 13600,
+    "source_rel": "hyundai/models/sonata/images/b54f3111ab38df8cbe00351dd333355ee8a52add5cbcf6d5c9e1b5a91e51fab1.webp"
+  },
+  {
+    "filename": "b5cb18a30125d185d31bc95cabaadb8ddaae2f1aa68c944b088ab1fd5cec7f2b.webp",
+    "size": 3090,
+    "source_rel": "hyundai/models/sonata/images/b5cb18a30125d185d31bc95cabaadb8ddaae2f1aa68c944b088ab1fd5cec7f2b.webp"
+  },
+  {
+    "filename": "b62cc7873e45823f49e36d91963483f4a749c347964b7caf12dd858ba7abfe54.webp",
+    "size": 14122,
+    "source_rel": "hyundai/models/sonata/images/b62cc7873e45823f49e36d91963483f4a749c347964b7caf12dd858ba7abfe54.webp"
+  },
+  {
+    "filename": "b62eb70db5e4b4cbac257e843533c495a011630090556acc3fd7ebf288dbff98.webp",
+    "size": 15654,
+    "source_rel": "hyundai/models/sonata/images/b62eb70db5e4b4cbac257e843533c495a011630090556acc3fd7ebf288dbff98.webp"
+  },
+  {
+    "filename": "b68129e0871db0f22038a9bbb61387600e91593d0058f83906ce3e4b1a943048.webp",
+    "size": 47566,
+    "source_rel": "hyundai/models/sonata/images/b68129e0871db0f22038a9bbb61387600e91593d0058f83906ce3e4b1a943048.webp"
+  },
+  {
+    "filename": "b74cdce5be07b22d19041269cd9fbe31ff4a5301e018c467b734dd29d403b8b0.webp",
+    "size": 15648,
+    "source_rel": "hyundai/models/sonata/images/b74cdce5be07b22d19041269cd9fbe31ff4a5301e018c467b734dd29d403b8b0.webp"
+  },
+  {
+    "filename": "b75a15da94564cdaa1dcd0aab19376bc02e7f931dad486cfd04ffb30e12c2329.webp",
+    "size": 10246,
+    "source_rel": "hyundai/models/sonata/images/b75a15da94564cdaa1dcd0aab19376bc02e7f931dad486cfd04ffb30e12c2329.webp"
+  },
+  {
+    "filename": "b83b650f204693691d7daa766bc4699f2b7acf4687ce73d2a8b6e4ba1ab3d9ab.webp",
+    "size": 12308,
+    "source_rel": "hyundai/models/sonata/images/b83b650f204693691d7daa766bc4699f2b7acf4687ce73d2a8b6e4ba1ab3d9ab.webp"
+  },
+  {
+    "filename": "b916413c2a3bc354bd9aa973e1ff3a722b08f9b49e3001dd8b8f0121169ff836.webp",
+    "size": 68590,
+    "source_rel": "hyundai/models/sonata/images/b916413c2a3bc354bd9aa973e1ff3a722b08f9b49e3001dd8b8f0121169ff836.webp"
+  },
+  {
+    "filename": "b9430e745bfc6747b77cc92f18cbf72f36578d2452d1de12c901fac0e9e87c43.webp",
+    "size": 172502,
+    "source_rel": "hyundai/models/sonata/images/b9430e745bfc6747b77cc92f18cbf72f36578d2452d1de12c901fac0e9e87c43.webp"
+  },
+  {
+    "filename": "b95a96d32ede8b307a6c6a0accdf7576da13aab517b80adcdd1ff444c86492de.webp",
+    "size": 9048,
+    "source_rel": "hyundai/models/sonata/images/b95a96d32ede8b307a6c6a0accdf7576da13aab517b80adcdd1ff444c86492de.webp"
+  },
+  {
+    "filename": "b9d2f2e7c75cf38e4115ecfe09b94df89276af56de9de77f85e99356de3265f4.webp",
+    "size": 746,
+    "source_rel": "hyundai/models/sonata/images/b9d2f2e7c75cf38e4115ecfe09b94df89276af56de9de77f85e99356de3265f4.webp"
+  },
+  {
+    "filename": "ba7b6bcf08ef4171ca30d4057ed5d07f663acee48d7ba285ae77b98821a78f1f.webp",
+    "size": 6102,
+    "source_rel": "hyundai/models/sonata/images/ba7b6bcf08ef4171ca30d4057ed5d07f663acee48d7ba285ae77b98821a78f1f.webp"
+  },
+  {
+    "filename": "ba9e5c70d03becc4d48e4b50b228f6217ef7ef141e1f9de7e8a064f0cfa26081.webp",
+    "size": 8078,
+    "source_rel": "hyundai/models/sonata/images/ba9e5c70d03becc4d48e4b50b228f6217ef7ef141e1f9de7e8a064f0cfa26081.webp"
+  },
+  {
+    "filename": "babfe9c004e79d83796e9390d68e448d9afaca52751b61aea1f0828ea277e263.webp",
+    "size": 13428,
+    "source_rel": "hyundai/models/sonata/images/babfe9c004e79d83796e9390d68e448d9afaca52751b61aea1f0828ea277e263.webp"
+  },
+  {
+    "filename": "bb51aad081a59229a693e95b083e5b07c2892ceb0fc7e12e4e5a7cec0b1fafe7.webp",
+    "size": 10866,
+    "source_rel": "hyundai/models/sonata/images/bb51aad081a59229a693e95b083e5b07c2892ceb0fc7e12e4e5a7cec0b1fafe7.webp"
+  },
+  {
+    "filename": "bbb7a6ea41baa7aa8b70d366723e4902dc850ce0deaf775372960bdbf4dbd3be.webp",
+    "size": 12060,
+    "source_rel": "hyundai/models/sonata/images/bbb7a6ea41baa7aa8b70d366723e4902dc850ce0deaf775372960bdbf4dbd3be.webp"
+  },
+  {
+    "filename": "bbc1e44fc6a089273f5716521316e07720aa871acece864a9c34bc62009935c0.webp",
+    "size": 13872,
+    "source_rel": "hyundai/models/sonata/images/bbc1e44fc6a089273f5716521316e07720aa871acece864a9c34bc62009935c0.webp"
+  },
+  {
+    "filename": "bc34db6c2a90ebc98c686d15ad3fadd7f860712b5cbbfb7e646f394f98cf8923.webp",
+    "size": 5804,
+    "source_rel": "hyundai/models/sonata/images/bc34db6c2a90ebc98c686d15ad3fadd7f860712b5cbbfb7e646f394f98cf8923.webp"
+  },
+  {
+    "filename": "bc5a9bae79f8f13ab21748586eaaf4798f129bf0cd2480d93f49dcd086e926dc.webp",
+    "size": 10252,
+    "source_rel": "hyundai/models/sonata/images/bc5a9bae79f8f13ab21748586eaaf4798f129bf0cd2480d93f49dcd086e926dc.webp"
+  },
+  {
+    "filename": "bc80657a620a899919a9bf650f047e82fb3f03a5adf0c64b01ae6e85e24b6c78.webp",
+    "size": 8058,
+    "source_rel": "hyundai/models/sonata/images/bc80657a620a899919a9bf650f047e82fb3f03a5adf0c64b01ae6e85e24b6c78.webp"
+  },
+  {
+    "filename": "bd17e3cb406fb3667e87f713139af1fa275fdf4a3c900fa883d6e89204f0c35a.webp",
+    "size": 40982,
+    "source_rel": "hyundai/models/sonata/images/bd17e3cb406fb3667e87f713139af1fa275fdf4a3c900fa883d6e89204f0c35a.webp"
+  },
+  {
+    "filename": "bd89e8b431f1f4f6f39da0e9a7ea8a90f7c1ade36078b003b6afa0cf759efbfa.webp",
+    "size": 11020,
+    "source_rel": "hyundai/models/sonata/images/bd89e8b431f1f4f6f39da0e9a7ea8a90f7c1ade36078b003b6afa0cf759efbfa.webp"
+  },
+  {
+    "filename": "bd9191f1fdccf49a6d36f1c6c25a16de43640da4def434b941d90fd2f487c047.webp",
+    "size": 32168,
+    "source_rel": "hyundai/models/sonata/images/bd9191f1fdccf49a6d36f1c6c25a16de43640da4def434b941d90fd2f487c047.webp"
+  },
+  {
+    "filename": "bd926e850e4d29338dfe74965bf2d72b6b8192360ae287175f5033e817c94b08.webp",
+    "size": 11776,
+    "source_rel": "hyundai/models/sonata/images/bd926e850e4d29338dfe74965bf2d72b6b8192360ae287175f5033e817c94b08.webp"
+  },
+  {
+    "filename": "be6a31c1b83b2fdc501d25e658ed33261b640a1b5af92bb25441f79cf8e1ebc9.webp",
+    "size": 75622,
+    "source_rel": "hyundai/models/sonata/images/be6a31c1b83b2fdc501d25e658ed33261b640a1b5af92bb25441f79cf8e1ebc9.webp"
+  },
+  {
+    "filename": "bf3fb2da69e3fc2ebf25087324717690fab8db4c66dc7231d7cd36ed548160ae.webp",
+    "size": 18430,
+    "source_rel": "hyundai/models/sonata/images/bf3fb2da69e3fc2ebf25087324717690fab8db4c66dc7231d7cd36ed548160ae.webp"
+  },
+  {
+    "filename": "c081509aaa3ad25646cea7945c813076ff746423d85c07835002cd4139a61ada.webp",
+    "size": 12428,
+    "source_rel": "hyundai/models/sonata/images/c081509aaa3ad25646cea7945c813076ff746423d85c07835002cd4139a61ada.webp"
+  },
+  {
+    "filename": "c113d4451a126189e276c667367b4bdc11f8d4aaa2b041ea642a73c6b5cf4eef.webp",
+    "size": 10148,
+    "source_rel": "hyundai/models/sonata/images/c113d4451a126189e276c667367b4bdc11f8d4aaa2b041ea642a73c6b5cf4eef.webp"
+  },
+  {
+    "filename": "c1fff381fc77a139d2a7213a01890c6848a40979c0f22d8935e878cc1ece25a9.webp",
+    "size": 28706,
+    "source_rel": "hyundai/models/sonata/images/c1fff381fc77a139d2a7213a01890c6848a40979c0f22d8935e878cc1ece25a9.webp"
+  },
+  {
+    "filename": "c291ba48fdd4bd8f15a314248d74ed7ab52c2aefd4eca735b0ea763f97f24486.webp",
+    "size": 31200,
+    "source_rel": "hyundai/models/sonata/images/c291ba48fdd4bd8f15a314248d74ed7ab52c2aefd4eca735b0ea763f97f24486.webp"
+  },
+  {
+    "filename": "c2bb21d5c7c4968cbdaf211c4039abf472a01bc639a8a4257e47e8164fc883f4.webp",
+    "size": 130760,
+    "source_rel": "hyundai/models/sonata/images/c2bb21d5c7c4968cbdaf211c4039abf472a01bc639a8a4257e47e8164fc883f4.webp"
+  },
+  {
+    "filename": "c2d641a1637b7eca57b0f83de9006b26aa4e1a9b0a655905e568ecd144f705d9.webp",
+    "size": 14756,
+    "source_rel": "hyundai/models/sonata/images/c2d641a1637b7eca57b0f83de9006b26aa4e1a9b0a655905e568ecd144f705d9.webp"
+  },
+  {
+    "filename": "c2f16d4dcc8631e7d7f7b5dccde482fb2d48aa34d9382c6cafbb46cac6a4fc2f.webp",
+    "size": 12384,
+    "source_rel": "hyundai/models/sonata/images/c2f16d4dcc8631e7d7f7b5dccde482fb2d48aa34d9382c6cafbb46cac6a4fc2f.webp"
+  },
+  {
+    "filename": "c35f568d4f43decd05d4430311eaf9d06a512a7a598a5983be64a54527e720a6.webp",
+    "size": 10918,
+    "source_rel": "hyundai/models/sonata/images/c35f568d4f43decd05d4430311eaf9d06a512a7a598a5983be64a54527e720a6.webp"
+  },
+  {
+    "filename": "c37bca6a970136f4e902123caad00b5f715ceb18bcb8d328f841091a172759b9.webp",
+    "size": 3992,
+    "source_rel": "hyundai/models/sonata/images/c37bca6a970136f4e902123caad00b5f715ceb18bcb8d328f841091a172759b9.webp"
+  },
+  {
+    "filename": "c3b9bafeddaa44848acd5cef7ad5b663bede620a0e12d180ff7a3c79f1b69c82.webp",
+    "size": 3718,
+    "source_rel": "hyundai/models/sonata/images/c3b9bafeddaa44848acd5cef7ad5b663bede620a0e12d180ff7a3c79f1b69c82.webp"
+  },
+  {
+    "filename": "c3c8a80c893d9e11cf81603e55c40b113d4c84a37719053f31148a1c6aad79a8.webp",
+    "size": 12954,
+    "source_rel": "hyundai/models/sonata/images/c3c8a80c893d9e11cf81603e55c40b113d4c84a37719053f31148a1c6aad79a8.webp"
+  },
+  {
+    "filename": "c4211713e42769c0b130a85634b27fd0305a44e2e95adc0118d626187a78cf32.webp",
+    "size": 10300,
+    "source_rel": "hyundai/models/sonata/images/c4211713e42769c0b130a85634b27fd0305a44e2e95adc0118d626187a78cf32.webp"
+  },
+  {
+    "filename": "c425b26408440d3ce2b3c23f71d37518e9d300312d25f5ca38a0d2d264650788.webp",
+    "size": 1362,
+    "source_rel": "hyundai/models/sonata/images/c425b26408440d3ce2b3c23f71d37518e9d300312d25f5ca38a0d2d264650788.webp"
+  },
+  {
+    "filename": "c490331ecc08ce361ba9aa22f94f8c57d7b6e168060072b0e37c79459f548780.webp",
+    "size": 11508,
+    "source_rel": "hyundai/models/sonata/images/c490331ecc08ce361ba9aa22f94f8c57d7b6e168060072b0e37c79459f548780.webp"
+  },
+  {
+    "filename": "c4a7a0a9f7e6ba620bfd7a2cd48d1b9e1bab943bedf55d0445bfdaf9c29c4bcf.webp",
+    "size": 7878,
+    "source_rel": "hyundai/models/sonata/images/c4a7a0a9f7e6ba620bfd7a2cd48d1b9e1bab943bedf55d0445bfdaf9c29c4bcf.webp"
+  },
+  {
+    "filename": "c4b74d2065f1cf09df2009eddc81c4b86404bb90fb74460946dca7151ba5fdbb.webp",
+    "size": 29364,
+    "source_rel": "hyundai/models/sonata/images/c4b74d2065f1cf09df2009eddc81c4b86404bb90fb74460946dca7151ba5fdbb.webp"
+  },
+  {
+    "filename": "c55576d8dd698ea375a9f9fdf71dbbaaebabaa8bf363e2f5307e0a173fbbfb9b.webp",
+    "size": 7494,
+    "source_rel": "hyundai/models/sonata/images/c55576d8dd698ea375a9f9fdf71dbbaaebabaa8bf363e2f5307e0a173fbbfb9b.webp"
+  },
+  {
+    "filename": "c592f6c134f145b7ae55c618af1a7f63260f78b24f4fc0ceb56e357b58ec862e.webp",
+    "size": 21672,
+    "source_rel": "hyundai/models/sonata/images/c592f6c134f145b7ae55c618af1a7f63260f78b24f4fc0ceb56e357b58ec862e.webp"
+  },
+  {
+    "filename": "c5f283faa38a16ee200d244c919a1b0b4c55cf21328c6195f94a3d336a38997a.webp",
+    "size": 3182,
+    "source_rel": "hyundai/models/sonata/images/c5f283faa38a16ee200d244c919a1b0b4c55cf21328c6195f94a3d336a38997a.webp"
+  },
+  {
+    "filename": "c5fe81ac794ddb3fc198c0eeeb5c7bb63960d6ec7cd9bbf359b1a7aa8226d2c3.webp",
+    "size": 16006,
+    "source_rel": "hyundai/models/sonata/images/c5fe81ac794ddb3fc198c0eeeb5c7bb63960d6ec7cd9bbf359b1a7aa8226d2c3.webp"
+  },
+  {
+    "filename": "c61ee35bd4d87ceccb4e3ab4a720f5af9d43a01490e646817d8cf7428d7ccd38.webp",
+    "size": 49180,
+    "source_rel": "hyundai/models/sonata/images/c61ee35bd4d87ceccb4e3ab4a720f5af9d43a01490e646817d8cf7428d7ccd38.webp"
+  },
+  {
+    "filename": "c63f305b2c801e780daa85fc7fcd3b9cb4e83f81552e56c6c3f000a4b438afcd.webp",
+    "size": 28296,
+    "source_rel": "hyundai/models/sonata/images/c63f305b2c801e780daa85fc7fcd3b9cb4e83f81552e56c6c3f000a4b438afcd.webp"
+  },
+  {
+    "filename": "c736bd464e3a3dd05e10c979fb1e98e81ec2a6c2548f5ca31a3542b7d0d6762f.webp",
+    "size": 10230,
+    "source_rel": "hyundai/models/sonata/images/c736bd464e3a3dd05e10c979fb1e98e81ec2a6c2548f5ca31a3542b7d0d6762f.webp"
+  },
+  {
+    "filename": "c7535358da6f8fc824a7cb0d641845365c9c2b73188ccf6453161e96978372b9.webp",
+    "size": 13438,
+    "source_rel": "hyundai/models/sonata/images/c7535358da6f8fc824a7cb0d641845365c9c2b73188ccf6453161e96978372b9.webp"
+  },
+  {
+    "filename": "c80252a03a2caa2aaf3bef81fc0aa5b1f94066113f27586ac7bad9f061075392.webp",
+    "size": 36586,
+    "source_rel": "hyundai/models/sonata/images/c80252a03a2caa2aaf3bef81fc0aa5b1f94066113f27586ac7bad9f061075392.webp"
+  },
+  {
+    "filename": "c86e4f352aa339bd85ade8a0462f1a9b2da32bd6f5ddc811a0e29c3a372c6ea3.webp",
+    "size": 8406,
+    "source_rel": "hyundai/models/sonata/images/c86e4f352aa339bd85ade8a0462f1a9b2da32bd6f5ddc811a0e29c3a372c6ea3.webp"
+  },
+  {
+    "filename": "c8e9cfb594a0476a08fc167d0a52812d38691404a89d0fa588e5dfb76462c4c9.webp",
+    "size": 12118,
+    "source_rel": "hyundai/models/sonata/images/c8e9cfb594a0476a08fc167d0a52812d38691404a89d0fa588e5dfb76462c4c9.webp"
+  },
+  {
+    "filename": "c9384c34d6319fd29f2e77b90d370d5de6841db7f42529c0f0653193b6ab81de.webp",
+    "size": 21582,
+    "source_rel": "hyundai/models/sonata/images/c9384c34d6319fd29f2e77b90d370d5de6841db7f42529c0f0653193b6ab81de.webp"
+  },
+  {
+    "filename": "c9529c3211897ce2195518791077768c04c0263b29dedd4fc5e1f13d344f9519.webp",
+    "size": 3434,
+    "source_rel": "hyundai/models/sonata/images/c9529c3211897ce2195518791077768c04c0263b29dedd4fc5e1f13d344f9519.webp"
+  },
+  {
+    "filename": "c96a7dda778fb7ba18974725caee88f7f8f0b6955d6e092f2bb50f2202dde9c9.webp",
+    "size": 5690,
+    "source_rel": "hyundai/models/sonata/images/c96a7dda778fb7ba18974725caee88f7f8f0b6955d6e092f2bb50f2202dde9c9.webp"
+  },
+  {
+    "filename": "c9ea6d90f0a454d419b2c615bcf63809f49044b852ee0e0db6a088ae838959bc.webp",
+    "size": 6410,
+    "source_rel": "hyundai/models/sonata/images/c9ea6d90f0a454d419b2c615bcf63809f49044b852ee0e0db6a088ae838959bc.webp"
+  },
+  {
+    "filename": "ca13d7c2c4da21b605c8d308c8343f3900e17564fee2527d945f731e39f1da1b.webp",
+    "size": 14730,
+    "source_rel": "hyundai/models/sonata/images/ca13d7c2c4da21b605c8d308c8343f3900e17564fee2527d945f731e39f1da1b.webp"
+  },
+  {
+    "filename": "caf10684c0e0a092e9106c00380d02e6eb7bdc0e61103015ea1ed67908d048fe.webp",
+    "size": 13544,
+    "source_rel": "hyundai/models/sonata/images/caf10684c0e0a092e9106c00380d02e6eb7bdc0e61103015ea1ed67908d048fe.webp"
+  },
+  {
+    "filename": "ceecbc76555d515de711dd85078f8aab156628cb6dce6ce4026f66e65a13f45f.webp",
+    "size": 5216,
+    "source_rel": "hyundai/models/sonata/images/ceecbc76555d515de711dd85078f8aab156628cb6dce6ce4026f66e65a13f45f.webp"
+  },
+  {
+    "filename": "cf5edab66740e82680df74533020ae68228c173eda4e21956a357113d8846b61.webp",
+    "size": 14494,
+    "source_rel": "hyundai/models/sonata/images/cf5edab66740e82680df74533020ae68228c173eda4e21956a357113d8846b61.webp"
+  },
+  {
+    "filename": "cfc3c7cee013dea0034b5c226fccf7fb6108daa50b428de6a93aa00423c49223.webp",
+    "size": 6866,
+    "source_rel": "hyundai/models/sonata/images/cfc3c7cee013dea0034b5c226fccf7fb6108daa50b428de6a93aa00423c49223.webp"
+  },
+  {
+    "filename": "d0632e12a8e53f6e74c874767979d6131436f7507e7fbb1a6ea5fe396206ef65.webp",
+    "size": 546,
+    "source_rel": "hyundai/models/sonata/images/d0632e12a8e53f6e74c874767979d6131436f7507e7fbb1a6ea5fe396206ef65.webp"
+  },
+  {
+    "filename": "d0e806652ca505c542a280c4d9291ad80dd6ab604df920743267b0541bdf0496.webp",
+    "size": 13496,
+    "source_rel": "hyundai/models/sonata/images/d0e806652ca505c542a280c4d9291ad80dd6ab604df920743267b0541bdf0496.webp"
+  },
+  {
+    "filename": "d1388c02c86df451638231ce8060d47f219ffbe173388ea8ba4391ad05c8436b.webp",
+    "size": 13626,
+    "source_rel": "hyundai/models/sonata/images/d1388c02c86df451638231ce8060d47f219ffbe173388ea8ba4391ad05c8436b.webp"
+  },
+  {
+    "filename": "d1869d0c63a500758c287114d6da3b696e2640c87355152b21fb1a1b4af45107.webp",
+    "size": 8564,
+    "source_rel": "hyundai/models/sonata/images/d1869d0c63a500758c287114d6da3b696e2640c87355152b21fb1a1b4af45107.webp"
+  },
+  {
+    "filename": "d1c6f492c340e8502c38ca0dc48bbe69545b8e15a3f9851e2b99dd3b81b1d61f.webp",
+    "size": 110724,
+    "source_rel": "hyundai/models/sonata/images/d1c6f492c340e8502c38ca0dc48bbe69545b8e15a3f9851e2b99dd3b81b1d61f.webp"
+  },
+  {
+    "filename": "d23a59c686d545f7dfe2883c1860895a29f79977e3eb0907f0fc401e3d119997.webp",
+    "size": 19566,
+    "source_rel": "hyundai/models/sonata/images/d23a59c686d545f7dfe2883c1860895a29f79977e3eb0907f0fc401e3d119997.webp"
+  },
+  {
+    "filename": "d295e1b2df7eb9b71e0fc65b0f3383beadfbe9c9e14c45222c9105db9cad1aa7.webp",
+    "size": 5566,
+    "source_rel": "hyundai/models/sonata/images/d295e1b2df7eb9b71e0fc65b0f3383beadfbe9c9e14c45222c9105db9cad1aa7.webp"
+  },
+  {
+    "filename": "d2ed0aa7d71daa689c506e49e8166ac88275a63feeb523869b92fbf3d9fe5dde.webp",
+    "size": 187884,
+    "source_rel": "hyundai/models/sonata/images/d2ed0aa7d71daa689c506e49e8166ac88275a63feeb523869b92fbf3d9fe5dde.webp"
+  },
+  {
+    "filename": "d353493928bd58be5b72ec782fab644496b6c3f4343d5d11e74c159f8dd4e168.webp",
+    "size": 28150,
+    "source_rel": "hyundai/models/sonata/images/d353493928bd58be5b72ec782fab644496b6c3f4343d5d11e74c159f8dd4e168.webp"
+  },
+  {
+    "filename": "d49b3f167becf9ffb547ade867acf6f10dcda007d56d3431bdba48afdbf5f92a.webp",
+    "size": 2312,
+    "source_rel": "hyundai/models/sonata/images/d49b3f167becf9ffb547ade867acf6f10dcda007d56d3431bdba48afdbf5f92a.webp"
+  },
+  {
+    "filename": "d4bb69b4e64469e5e89a2dcb392b73911406b6c03112569b05a3065e97e6d47d.webp",
+    "size": 8558,
+    "source_rel": "hyundai/models/sonata/images/d4bb69b4e64469e5e89a2dcb392b73911406b6c03112569b05a3065e97e6d47d.webp"
+  },
+  {
+    "filename": "d52d555c5f93ade9ee17959a5e10c17742bb34f424cb9fe1dc1c922588a0c822.webp",
+    "size": 6940,
+    "source_rel": "hyundai/models/sonata/images/d52d555c5f93ade9ee17959a5e10c17742bb34f424cb9fe1dc1c922588a0c822.webp"
+  },
+  {
+    "filename": "d590445c60531a11d24ccfcb44868d5ac81cc7ea8ac2903a838208982edefa71.webp",
+    "size": 27564,
+    "source_rel": "hyundai/models/sonata/images/d590445c60531a11d24ccfcb44868d5ac81cc7ea8ac2903a838208982edefa71.webp"
+  },
+  {
+    "filename": "d59a82a0e4e3fcbfaeb1b3ec6ea2fbfa6f363d6f63078d4088ae35508ddacd5c.webp",
+    "size": 5538,
+    "source_rel": "hyundai/models/sonata/images/d59a82a0e4e3fcbfaeb1b3ec6ea2fbfa6f363d6f63078d4088ae35508ddacd5c.webp"
+  },
+  {
+    "filename": "d5a052eb5155e43ed87bc88d10ec7cbec92184204ca87ed038162b0d3f5a313b.webp",
+    "size": 19048,
+    "source_rel": "hyundai/models/sonata/images/d5a052eb5155e43ed87bc88d10ec7cbec92184204ca87ed038162b0d3f5a313b.webp"
+  },
+  {
+    "filename": "d5b470a4cd78c1f08af1f5b5df309f11cff4c2d3313772b73c20ae0af6f2324d.webp",
+    "size": 123244,
+    "source_rel": "hyundai/models/sonata/images/d5b470a4cd78c1f08af1f5b5df309f11cff4c2d3313772b73c20ae0af6f2324d.webp"
+  },
+  {
+    "filename": "d5ef4f60ae7303480a44a78424fe12c9b7e3f31ba578df6025cdb2b71397a1e0.webp",
+    "size": 47498,
+    "source_rel": "hyundai/models/sonata/images/d5ef4f60ae7303480a44a78424fe12c9b7e3f31ba578df6025cdb2b71397a1e0.webp"
+  },
+  {
+    "filename": "d63d11a6ff1d87b46d6219242414263d528dab9cfddd9c8b697f9b2f1bae4788.webp",
+    "size": 3814,
+    "source_rel": "hyundai/models/sonata/images/d63d11a6ff1d87b46d6219242414263d528dab9cfddd9c8b697f9b2f1bae4788.webp"
+  },
+  {
+    "filename": "d64dd6f1606c6178889efeeb3f996f622722414b6a6f35b3ff880b1cd789593a.webp",
+    "size": 10628,
+    "source_rel": "hyundai/models/sonata/images/d64dd6f1606c6178889efeeb3f996f622722414b6a6f35b3ff880b1cd789593a.webp"
+  },
+  {
+    "filename": "d7460f8f977de82efaf01add443f398ef43302e6be3252ec933186148ec1257c.webp",
+    "size": 6912,
+    "source_rel": "hyundai/models/sonata/images/d7460f8f977de82efaf01add443f398ef43302e6be3252ec933186148ec1257c.webp"
+  },
+  {
+    "filename": "d78494dce8f2f9b8435e70ab3764c818f491cad38001b9b386868450c62db9a0.webp",
+    "size": 26746,
+    "source_rel": "hyundai/models/sonata/images/d78494dce8f2f9b8435e70ab3764c818f491cad38001b9b386868450c62db9a0.webp"
+  },
+  {
+    "filename": "d7b13e1e600a167aa13e1c12ad29adf92f2da7d8ce52dadf29e130a52bb9dfd2.webp",
+    "size": 12292,
+    "source_rel": "hyundai/models/sonata/images/d7b13e1e600a167aa13e1c12ad29adf92f2da7d8ce52dadf29e130a52bb9dfd2.webp"
+  },
+  {
+    "filename": "d7b87ba65767fdc840b4007d42111ed385b3833b02d7f55ca8f7d48464c58daf.webp",
+    "size": 23290,
+    "source_rel": "hyundai/models/sonata/images/d7b87ba65767fdc840b4007d42111ed385b3833b02d7f55ca8f7d48464c58daf.webp"
+  },
+  {
+    "filename": "d88eecd2fdcd43c262a6bcd37b73b2e8a1ea211c6f5749803239d2adf395fd78.webp",
+    "size": 11698,
+    "source_rel": "hyundai/models/sonata/images/d88eecd2fdcd43c262a6bcd37b73b2e8a1ea211c6f5749803239d2adf395fd78.webp"
+  },
+  {
+    "filename": "d9100ba79e7b3ab273eef2268d51b8b8db6a29a0d44d1fa94801de1ca7d53273.webp",
+    "size": 12614,
+    "source_rel": "hyundai/models/sonata/images/d9100ba79e7b3ab273eef2268d51b8b8db6a29a0d44d1fa94801de1ca7d53273.webp"
+  },
+  {
+    "filename": "d91749bc72bf5336750b983b189b66a77af7974ccc55dbdf3ae97af582fb0fac.webp",
+    "size": 4852,
+    "source_rel": "hyundai/models/sonata/images/d91749bc72bf5336750b983b189b66a77af7974ccc55dbdf3ae97af582fb0fac.webp"
+  },
+  {
+    "filename": "d93ea797ac65fdbfc3711f78f610fb8f6fd9d3d08ff8437045bcf192a89bfa93.webp",
+    "size": 4916,
+    "source_rel": "hyundai/models/sonata/images/d93ea797ac65fdbfc3711f78f610fb8f6fd9d3d08ff8437045bcf192a89bfa93.webp"
+  },
+  {
+    "filename": "d9622f873398e7ed37ff73a437ba786be2ac580cc5763f75b756705d3e0906a8.webp",
+    "size": 5462,
+    "source_rel": "hyundai/models/sonata/images/d9622f873398e7ed37ff73a437ba786be2ac580cc5763f75b756705d3e0906a8.webp"
+  },
+  {
+    "filename": "d9b2cdb729d139e9faeef310241c180ba22993a1e8f01d964fbfb453487e5fff.webp",
+    "size": 97274,
+    "source_rel": "hyundai/models/sonata/images/d9b2cdb729d139e9faeef310241c180ba22993a1e8f01d964fbfb453487e5fff.webp"
+  },
+  {
+    "filename": "da40b4cd450d4d89cda6b9034197bf4a2164da11c918937b85bb0031ad3f966c.webp",
+    "size": 9484,
+    "source_rel": "hyundai/models/sonata/images/da40b4cd450d4d89cda6b9034197bf4a2164da11c918937b85bb0031ad3f966c.webp"
+  },
+  {
+    "filename": "dae1d41c9b8d4f6026207a4b30e8586d132cabdce4ae35c162d5a9e518a3e287.webp",
+    "size": 9406,
+    "source_rel": "hyundai/models/sonata/images/dae1d41c9b8d4f6026207a4b30e8586d132cabdce4ae35c162d5a9e518a3e287.webp"
+  },
+  {
+    "filename": "db1540773e3d8fc83c6d07d17a762286d186b3ad4e56a2b311485d5b26f61a96.webp",
+    "size": 21570,
+    "source_rel": "hyundai/models/sonata/images/db1540773e3d8fc83c6d07d17a762286d186b3ad4e56a2b311485d5b26f61a96.webp"
+  },
+  {
+    "filename": "db62622f8f952e82472bb1efde8830d54e2f2c34823fc7207e5a2247d36c1ea1.webp",
+    "size": 10648,
+    "source_rel": "hyundai/models/sonata/images/db62622f8f952e82472bb1efde8830d54e2f2c34823fc7207e5a2247d36c1ea1.webp"
+  },
+  {
+    "filename": "db97b35d6edf56e5a64015644855fef028aaad19e325ebbf052036c1f4f7025b.webp",
+    "size": 139546,
+    "source_rel": "hyundai/models/sonata/images/db97b35d6edf56e5a64015644855fef028aaad19e325ebbf052036c1f4f7025b.webp"
+  },
+  {
+    "filename": "dc45e1e13c75fec6cfb7a038fe256beab06c8fb87baa8cd9e495f5ef16c531e8.webp",
+    "size": 4922,
+    "source_rel": "hyundai/models/sonata/images/dc45e1e13c75fec6cfb7a038fe256beab06c8fb87baa8cd9e495f5ef16c531e8.webp"
+  },
+  {
+    "filename": "dcd512c36ac0015cbe791d453618f826ff3eefbc12e25130f8523ce7b5d512e1.webp",
+    "size": 8888,
+    "source_rel": "hyundai/models/sonata/images/dcd512c36ac0015cbe791d453618f826ff3eefbc12e25130f8523ce7b5d512e1.webp"
+  },
+  {
+    "filename": "dd59ae1161ee2fe5968ccec59e9a6f26dce306ca32b8786c0975de89f4ec05ee.webp",
+    "size": 8904,
+    "source_rel": "hyundai/models/sonata/images/dd59ae1161ee2fe5968ccec59e9a6f26dce306ca32b8786c0975de89f4ec05ee.webp"
+  },
+  {
+    "filename": "dd71a7d2524bb624781f8a23b193f6745c741890eb4928cd61329cbd246633b6.webp",
+    "size": 15726,
+    "source_rel": "hyundai/models/sonata/images/dd71a7d2524bb624781f8a23b193f6745c741890eb4928cd61329cbd246633b6.webp"
+  },
+  {
+    "filename": "de1c6169f9f3cbcd5b0534e2f8fe451a396b3153523791fa3f5f545902587e23.webp",
+    "size": 8276,
+    "source_rel": "hyundai/models/sonata/images/de1c6169f9f3cbcd5b0534e2f8fe451a396b3153523791fa3f5f545902587e23.webp"
+  },
+  {
+    "filename": "de2171f71e440b265784031587102aabb34e6d33e28fd5982fa19d8b7fd1be7d.webp",
+    "size": 4580,
+    "source_rel": "hyundai/models/sonata/images/de2171f71e440b265784031587102aabb34e6d33e28fd5982fa19d8b7fd1be7d.webp"
+  },
+  {
+    "filename": "debc5134351698c47002551c592a15a3e25a5f658128b9e090503b5c7947a33c.webp",
+    "size": 128036,
+    "source_rel": "hyundai/models/sonata/images/debc5134351698c47002551c592a15a3e25a5f658128b9e090503b5c7947a33c.webp"
+  },
+  {
+    "filename": "ded83e52910e11a30fa54cf6c5738e631f8bf4154f6cf1e9365800b04a2d2aac.webp",
+    "size": 10462,
+    "source_rel": "hyundai/models/sonata/images/ded83e52910e11a30fa54cf6c5738e631f8bf4154f6cf1e9365800b04a2d2aac.webp"
+  },
+  {
+    "filename": "def7a79ba58ce47244c4c2e4af9e24c5693f2726b4a1e40d4f2a8b672e6e8252.webp",
+    "size": 7418,
+    "source_rel": "hyundai/models/sonata/images/def7a79ba58ce47244c4c2e4af9e24c5693f2726b4a1e40d4f2a8b672e6e8252.webp"
+  },
+  {
+    "filename": "df4fec374e69fef33fc10492cf03ee9913e5094ca54e3896a7086e3e9f934a02.webp",
+    "size": 9156,
+    "source_rel": "hyundai/models/sonata/images/df4fec374e69fef33fc10492cf03ee9913e5094ca54e3896a7086e3e9f934a02.webp"
+  },
+  {
+    "filename": "df9d1ba9e0d3cd2f6c6277fb3d921037f3b41db21829cfec526d9facd05387b5.webp",
+    "size": 31312,
+    "source_rel": "hyundai/models/sonata/images/df9d1ba9e0d3cd2f6c6277fb3d921037f3b41db21829cfec526d9facd05387b5.webp"
+  },
+  {
+    "filename": "e03cd9fd67b4cf92b1f9ddf5ea6ab4b5abf2ff7c52327c53ef2b4a5dc0186678.webp",
+    "size": 3830,
+    "source_rel": "hyundai/models/sonata/images/e03cd9fd67b4cf92b1f9ddf5ea6ab4b5abf2ff7c52327c53ef2b4a5dc0186678.webp"
+  },
+  {
+    "filename": "e04db044780d312a2ceb2f9d83e2bb3eb259277dcae2ff2adb215f16957ec620.webp",
+    "size": 13094,
+    "source_rel": "hyundai/models/sonata/images/e04db044780d312a2ceb2f9d83e2bb3eb259277dcae2ff2adb215f16957ec620.webp"
+  },
+  {
+    "filename": "e06347dda891d9ef9908c2ae9adef54b9815f70bd3e62fec56dee03db52c0c2a.webp",
+    "size": 4190,
+    "source_rel": "hyundai/models/sonata/images/e06347dda891d9ef9908c2ae9adef54b9815f70bd3e62fec56dee03db52c0c2a.webp"
+  },
+  {
+    "filename": "e1025c645fd980c5609d74e677970266572fe1c330ffdfe363fe3749881170ac.webp",
+    "size": 108406,
+    "source_rel": "hyundai/models/sonata/images/e1025c645fd980c5609d74e677970266572fe1c330ffdfe363fe3749881170ac.webp"
+  },
+  {
+    "filename": "e14a950a917e8fdf1a5c8bcda2e6b080a6b61c80992e0327cebe4170e71a5193.webp",
+    "size": 5538,
+    "source_rel": "hyundai/models/sonata/images/e14a950a917e8fdf1a5c8bcda2e6b080a6b61c80992e0327cebe4170e71a5193.webp"
+  }
+]

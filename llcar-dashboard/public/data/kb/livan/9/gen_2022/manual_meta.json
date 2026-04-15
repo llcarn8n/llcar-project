@@ -1,0 +1,12 @@
+{
+  "brand": "livan",
+  "model": "9",
+  "source_path_rel": "livan/models/9/",
+  "manual_md_size": 1581898,
+  "has_dita": true,
+  "has_pdf": false,
+  "variants": [
+    "manual-2022_н_в.md",
+    "manual-c368e6.md"
+  ]
+}

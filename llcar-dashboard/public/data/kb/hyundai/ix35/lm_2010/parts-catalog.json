@@ -1,0 +1,1827 @@
+{
+  "brand": "hyundai",
+  "model": "ix35",
+  "source": "manual_extract+template",
+  "total_parts": 478,
+  "systems": {
+    "Uncategorized": 383,
+    "Engine": 15,
+    "Fuel System": 4,
+    "Exhaust System": 5,
+    "Cooling System": 8,
+    "Transmission": 5,
+    "Brake System": 9,
+    "Suspension / Wheels": 13,
+    "Steering": 4,
+    "Electrical": 8,
+    "HVAC": 5,
+    "Body": 9,
+    "Wiper System": 4,
+    "Interior": 2,
+    "Wheels / Tires": 4
+  },
+  "parts": [
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Моторное масло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Масляный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Воздушный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Свечи зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Катушка зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень ГРМ / цепь ГРМ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень генератора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка клапанной крышки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка ГБЦ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик положения коленвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Расходомер воздуха",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Дроссельная заслонка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Форсунки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Регулятор давления топлива",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Каталитический нейтрализатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель средний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Прокладка выхлопной трубы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Антифриз",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Радиатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Вентилятор радиатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Расширительный бачок",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Крышка расширительного бачка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Патрубки системы охлаждения",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Масло АКПП / МКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Фильтр АКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Сцепление (комплект)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Выжимной подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Главный цилиндр сцепления",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозная жидкость",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Датчик ABS",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные барабанные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Стойка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Втулка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Рычаг подвески",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Сайлентблок рычага",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Шаровая опора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Ступичный подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС наружный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС внутренний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пыльник ШРУСа",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Наконечник рулевой тяги",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Рулевая тяга",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Жидкость ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Насос ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Аккумулятор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Генератор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Стартер",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фара передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фонарь задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Лампы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Предохранители",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Фильтр салонный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Компрессор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Радиатор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Осушитель кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Вентилятор отопителя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Боковое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Ветровое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Заднее стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Зеркало боковое",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Капот",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Крыло переднее",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Дверь",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётки стеклоочистителя передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётка стеклоочистителя задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Бачок омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Насос омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Коврики салона",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Педаль газа / тормоза",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Шина",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Диск колёсный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Гайка колёсная",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "96\n192\n112\n112",
+      "subsystem": "",
+      "part_number": "96192112112",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "80\n100\n120\n140",
+      "subsystem": "",
+      "part_number": "80100120140",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "90\n120\n150\n180",
+      "subsystem": "",
+      "part_number": "90120150180",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OEL013002R-2",
+      "subsystem": "",
+      "part_number": "OEL013002R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OEL039001R",
+      "subsystem": "",
+      "part_number": "OEL039001R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OEL039004/H",
+      "subsystem": "",
+      "part_number": "OEL039004",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OEL039005/H",
+      "subsystem": "",
+      "part_number": "OEL039005",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM039006/H",
+      "subsystem": "",
+      "part_number": "OLM039006",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM039303N",
+      "subsystem": "",
+      "part_number": "OLM039303N",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM039009/H",
+      "subsystem": "",
+      "part_number": "OLM039009",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OEL039012",
+      "subsystem": "",
+      "part_number": "OEL039012",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM039013R",
+      "subsystem": "",
+      "part_number": "OLM039013R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OEL039017",
+      "subsystem": "",
+      "part_number": "OEL039017",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM039019",
+      "subsystem": "",
+      "part_number": "OLM039019",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OLM039020\nEL(FL) Aust 3.QXP  7/26/2013  2:04 PM  Page 13",
+      "subsystem": "",
+      "part_number": "OLM039020",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OEL039022\nEL(FL) Aust 3.QXP  7/26/2013  2:04 PM  Page 15",
+      "subsystem": "",
+      "part_number": "OEL039022",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OEL033060R",
+      "subsystem": "",
+      "part_number": "OEL033060R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM039056L",
+      "subsystem": "",
+      "part_number": "OLM039056L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM039029L",
+      "subsystem": "",
+      "part_number": "OLM039029L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM039031",
+      "subsystem": "",
+      "part_number": "OLM039031",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OED030300/H",
+      "subsystem": "",
+      "part_number": "OED030300",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OEL033033R",
+      "subsystem": "",
+      "part_number": "OEL033033R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM039035R",
+      "subsystem": "",
+      "part_number": "OLM039035R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OLM039036N",
+      "subsystem": "",
+      "part_number": "OLM039036N",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OEL033301R",
+      "subsystem": "",
+      "part_number": "OEL033301R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OEL039037R",
+      "subsystem": "",
+      "part_number": "OEL039037R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OEL039038R",
+      "subsystem": "",
+      "part_number": "OEL039038R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OXM039055",
+      "subsystem": "",
+      "part_number": "OXM039055",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OLM032311N",
+      "subsystem": "",
+      "part_number": "OLM032311N",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM039040R/OLM039041/H/OEL033061/H/OEL039044",
+      "subsystem": "",
+      "part_number": "OLM039040R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM039040R/OLM039041/H/OEL033061/H/OEL039044",
+      "subsystem": "",
+      "part_number": "OLM039041",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM039040R/OLM039041/H/OEL033061/H/OEL039044",
+      "subsystem": "",
+      "part_number": "OEL033061",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM039040R/OLM039041/H/OEL033061/H/OEL039044",
+      "subsystem": "",
+      "part_number": "OEL039044",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OUN036087/H",
+      "subsystem": "",
+      "part_number": "OUN036087",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OEL033051R",
+      "subsystem": "",
+      "part_number": "OEL033051R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM043439",
+      "subsystem": "",
+      "part_number": "OLM043439",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM049007/H",
+      "subsystem": "",
+      "part_number": "OLM049007",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OEL043305",
+      "subsystem": "",
+      "part_number": "OEL043305",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OEL049009R",
+      "subsystem": "",
+      "part_number": "OEL049009R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM049011R",
+      "subsystem": "",
+      "part_number": "OLM049011R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM049012",
+      "subsystem": "",
+      "part_number": "OLM049012",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM043014",
+      "subsystem": "",
+      "part_number": "OLM043014",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM043015",
+      "subsystem": "",
+      "part_number": "OLM043015",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OLM049020R",
+      "subsystem": "",
+      "part_number": "OLM049020R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM049022R",
+      "subsystem": "",
+      "part_number": "OLM049022R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OLM049021R",
+      "subsystem": "",
+      "part_number": "OLM049021R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM049023R",
+      "subsystem": "",
+      "part_number": "OLM049023R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUN026013/H",
+      "subsystem": "",
+      "part_number": "OUN026013",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM049024R",
+      "subsystem": "",
+      "part_number": "OLM049024R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM049027",
+      "subsystem": "",
+      "part_number": "OLM049027",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM049025R",
+      "subsystem": "",
+      "part_number": "OLM049025R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OSA047022R",
+      "subsystem": "",
+      "part_number": "OSA047022R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### WEL-400/OLM043420",
+      "subsystem": "",
+      "part_number": "OLM043420",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM049031",
+      "subsystem": "",
+      "part_number": "OLM049031",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OXM049031",
+      "subsystem": "",
+      "part_number": "OXM049031",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM049033R",
+      "subsystem": "",
+      "part_number": "OLM049033R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OEL043300R",
+      "subsystem": "",
+      "part_number": "OEL043300R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM049034",
+      "subsystem": "",
+      "part_number": "OLM049034",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM043354",
+      "subsystem": "",
+      "part_number": "OLM043354",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OEL049035",
+      "subsystem": "",
+      "part_number": "OEL049035",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM049036L",
+      "subsystem": "",
+      "part_number": "OLM049036L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM049039R",
+      "subsystem": "",
+      "part_number": "OLM049039R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OLM049042/H",
+      "subsystem": "",
+      "part_number": "OLM049042",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM049041R",
+      "subsystem": "",
+      "part_number": "OLM049041R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OEL043702/Q",
+      "subsystem": "",
+      "part_number": "OEL043702",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OLM049052R",
+      "subsystem": "",
+      "part_number": "OLM049052R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OEL049305",
+      "subsystem": "",
+      "part_number": "OEL049305",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OEL049306",
+      "subsystem": "",
+      "part_number": "OEL049306",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OEL049312",
+      "subsystem": "",
+      "part_number": "OEL049312",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM043060",
+      "subsystem": "",
+      "part_number": "OLM043060",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OEL049127L",
+      "subsystem": "",
+      "part_number": "OEL049127L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OEL042127L",
+      "subsystem": "",
+      "part_number": "OEL042127L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OVF041049",
+      "subsystem": "",
+      "part_number": "OVF041049",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OEL043701\nEL(FL) Aust 4a.QXP  7/26/2013  2:34 PM  Page 52",
+      "subsystem": "",
+      "part_number": "OEL043701",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM043404E",
+      "subsystem": "",
+      "part_number": "OLM043404E",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OLM043405E",
+      "subsystem": "",
+      "part_number": "OLM043405E",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM043406E",
+      "subsystem": "",
+      "part_number": "OLM043406E",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM043410E",
+      "subsystem": "",
+      "part_number": "OLM043410E",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM043503N",
+      "subsystem": "",
+      "part_number": "OLM043503N",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM043408E",
+      "subsystem": "",
+      "part_number": "OLM043408E",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM043412E",
+      "subsystem": "",
+      "part_number": "OLM043412E",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM043418",
+      "subsystem": "",
+      "part_number": "OLM043418",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM043501N",
+      "subsystem": "",
+      "part_number": "OLM043501N",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM049320/OEL049325/",
+      "subsystem": "",
+      "part_number": "OLM049320",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM049320/OEL049325/",
+      "subsystem": "",
+      "part_number": "OEL049325",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OEL049326/OLM043403E",
+      "subsystem": "",
+      "part_number": "OEL049326",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OEL049326/OLM043403E",
+      "subsystem": "",
+      "part_number": "OLM043403E",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM049321/OEL049323/",
+      "subsystem": "",
+      "part_number": "OLM049321",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM049321/OEL049323/",
+      "subsystem": "",
+      "part_number": "OEL049323",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OEL049324/OLM043402E",
+      "subsystem": "",
+      "part_number": "OEL049324",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OEL049324/OLM043402E",
+      "subsystem": "",
+      "part_number": "OLM043402E",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OEL049223R",
+      "subsystem": "",
+      "part_number": "OEL049223R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM042247R",
+      "subsystem": "",
+      "part_number": "OLM042247R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OEL049082R",
+      "subsystem": "",
+      "part_number": "OEL049082R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OAM049044R-1",
+      "subsystem": "",
+      "part_number": "OAM049044R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OLM049328R",
+      "subsystem": "",
+      "part_number": "OLM049328R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OAM049045R-1",
+      "subsystem": "",
+      "part_number": "OAM049045R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OAM049043R-1",
+      "subsystem": "",
+      "part_number": "OAM049043R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OAM049046R-1",
+      "subsystem": "",
+      "part_number": "OAM049046R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLM049211R",
+      "subsystem": "",
+      "part_number": "OLM049211R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OXM049231R/OAM049903R",
+      "subsystem": "",
+      "part_number": "OXM049231R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OXM049231R/OAM049903R",
+      "subsystem": "",
+      "part_number": "OAM049903R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OXM049048R",
+      "subsystem": "",
+      "part_number": "OXM049048R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OXM049126R",
+      "subsystem": "",
+      "part_number": "OXM049126R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OXM049125R",
+      "subsystem": "",
+      "part_number": "OXM049125R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ix35.md"
+    }
+  ],
+  "parts_total_original": 478,
+  "parts_capped": true
+}

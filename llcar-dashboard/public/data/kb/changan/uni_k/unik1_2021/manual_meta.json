@@ -1,0 +1,17 @@
+{
+  "brand": "changan",
+  "model": "uni_k",
+  "source_path_rel": "changan/models/uni_k/",
+  "manual_md_size": 69072027,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-2021_н_в.md",
+    "manual-2021_н_в_2.md",
+    "manual-22119e--v2.md",
+    "manual-786151.md",
+    "manual-uni_k-v2.md",
+    "manual-uni_k.md",
+    "manual-v2.md"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "chevrolet",
+  "model": "cruze",
+  "source_path_rel": "chevrolet/models/cruze/",
+  "manual_md_size": 16115110,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-0fc388.md",
+    "manual-epica_tg.md",
+    "manual-ii_2018_2018.md",
+    "manual-malibu_tg.md"
+  ]
+}

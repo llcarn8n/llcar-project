@@ -1,0 +1,20 @@
+{
+  "brand": "nissan",
+  "model": "qashqai",
+  "source_path_rel": "nissan/models/qashqai/",
+  "manual_md_size": 0,
+  "has_dita": true,
+  "has_pdf": false,
+  "variants": [
+    "manual-465e07.md",
+    "manual-ariya.md",
+    "manual-juke.md",
+    "manual-kicks.md",
+    "manual-leaf.md",
+    "manual-leaf_2020.md",
+    "manual-qashqai-qashqai.md",
+    "manual-qashqai_2021-qashqai.md",
+    "manual-qashqai_2021.md",
+    "manual-qashqai_j11-qashqai.md"
+  ]
+}

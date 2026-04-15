@@ -1,0 +1,1339 @@
+{
+  "brand": "lexus",
+  "model": "lexus_rx",
+  "source": "manual_extract+template",
+  "total_parts": 146,
+  "systems": {
+    "Uncategorized": 51,
+    "Engine": 15,
+    "Fuel System": 4,
+    "Exhaust System": 5,
+    "Cooling System": 8,
+    "Transmission": 5,
+    "Brake System": 9,
+    "Suspension / Wheels": 13,
+    "Steering": 4,
+    "Electrical": 8,
+    "HVAC": 5,
+    "Body": 9,
+    "Wiper System": 4,
+    "Interior": 2,
+    "Wheels / Tires": 4
+  },
+  "parts": [
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "• Общий для всех автомобилей Lехиs с подключаемым пол- ным приводом типа АТС дефект - гул в задней части авто- мобиля, как правило, связанный с износом опорного под шипника в муфте АТС. Производителем",
+      "subsystem": "",
+      "part_number": "90363-95003",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Например, на моделях RX350 2009-11 гг. могла устанавли- ваться рулевая колонка с каталожным номером 45250-48240 или 45250-оеово. В данном случае ее необходимо заме- нить на 45250-48241 или 45250-0Е081",
+      "subsystem": "",
+      "part_number": "45250-48240",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Например, на моделях RX350 2009-11 гг. могла устанавли- ваться рулевая колонка с каталожным номером 45250-48240 или 45250-оеово. В данном случае ее необходимо заме- нить на 45250-48241 или 45250-0Е081",
+      "subsystem": "",
+      "part_number": "45250-48241",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "MARK 11811 1305013053 1 90119-12370",
+      "subsystem": "",
+      "part_number": "90119-12370",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "90119-12370 MAPK 13512 13050 -11821 13801 90119-12370 90119-13013070 13801 91671-80820 9 13741a-09-13741A 1375 6 -13801 13750 13741 3 13507 13711 13715 5 13711 й 13715 13734 0 13715 R -13715 13506",
+      "subsystem": "",
+      "part_number": "91671-80820",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "90109-08304 91551-60830 13562",
+      "subsystem": "",
+      "part_number": "90109-08304",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "90109-08304 91551-60830 13562",
+      "subsystem": "",
+      "part_number": "91551-60830",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "13513540C -13561 91551-80630(2) 133.5 13507 135602 cO",
+      "subsystem": "",
+      "part_number": "91551-80630",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "91671-8082023292D 91671-89618 94130-60600 31671-80820 9155180616 -91551-80616 91671-806164",
+      "subsystem": "",
+      "part_number": "91671-89618",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "91671-8082023292D 91671-89618 94130-60600 31671-80820 9155180616 -91551-80616 91671-806164",
+      "subsystem": "",
+      "part_number": "94130-60600",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "91671-8082023292D 91671-89618 94130-60600 31671-80820 9155180616 -91551-80616 91671-806164",
+      "subsystem": "",
+      "part_number": "31671-80820",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "91671-8082023292D 91671-89618 94130-60600 31671-80820 9155180616 -91551-80616 91671-806164",
+      "subsystem": "",
+      "part_number": "91551-80616",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "91671-10825(2) © ※ 3 13 153308 11401671-80616 -91551-80616 -11209 14340 11210812108- © 15340A- (NO.2) -11401M 11228 11254 \\* \\* -91671-80614 -1040-22024(431552-80616 ВЕТЕЯ ТО 3 o 11 202 121510 ※ N02 0",
+      "subsystem": "",
+      "part_number": "91671-10825",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "91671-10825(2) © ※ 3 13 153308 11401671-80616 -91551-80616 -11209 14340 11210812108- © 15340A- (NO.2) -11401M 11228 11254 \\* \\* -91671-80614 -1040-22024(431552-80616 ВЕТЕЯ ТО 3 o 11 202 121510 ※ N02 0",
+      "subsystem": "",
+      "part_number": "91671-80614",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "91671-10825(2) © ※ 3 13 153308 11401671-80616 -91551-80616 -11209 14340 11210812108- © 15340A- (NO.2) -11401M 11228 11254 \\* \\* -91671-80614 -1040-22024(431552-80616 ВЕТЕЯ ТО 3 o 11 202 121510 ※ N02 0",
+      "subsystem": "",
+      "part_number": "90430-10024",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "111597 HO2 NO2 #02 1 ' 2 HO2 122820 aa m02 11119-0 B02 -11104A 11155A o -11119a 90126-01052(29 8 8 90126-08052(6) -90126-08052131 01677 10022(2) d11126 11172 dp 111178- -90253-11021(2) 90253-11021(2-1",
+      "subsystem": "",
+      "part_number": "90126-01052",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "111597 HO2 NO2 #02 1 ' 2 HO2 122820 aa m02 11119-0 B02 -11104A 11155A o -11119a 90126-01052(29 8 8 90126-08052(6) -90126-08052131 01677 10022(2) d11126 11172 dp 111178- -90253-11021(2) 90253-11021(2-1",
+      "subsystem": "",
+      "part_number": "90126-08052",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "111597 HO2 NO2 #02 1 ' 2 HO2 122820 aa m02 11119-0 B02 -11104A 11155A o -11119a 90126-01052(29 8 8 90126-08052(6) -90126-08052131 01677 10022(2) d11126 11172 dp 111178- -90253-11021(2) 90253-11021(2-1",
+      "subsystem": "",
+      "part_number": "90253-11021",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "111597 HO2 NO2 #02 1 ' 2 HO2 122820 aa m02 11119-0 B02 -11104A 11155A o -11119a 90126-01052(29 8 8 90126-08052(6) -90126-08052131 01677 10022(2) d11126 11172 dp 111178- -90253-11021(2) 90253-11021(2-1",
+      "subsystem": "",
+      "part_number": "90250-00028",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "111597 HO2 NO2 #02 1 ' 2 HO2 122820 aa m02 11119-0 B02 -11104A 11155A o -11119a 90126-01052(29 8 8 90126-08052(6) -90126-08052131 01677 10022(2) d11126 11172 dp 111178- -90253-11021(2) 90253-11021(2-1",
+      "subsystem": "",
+      "part_number": "90126-06029",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "91552-81275(2) № детали Название детали 91512-61035 (2) 36113A Сальник правого приводного вала",
+      "subsystem": "",
+      "part_number": "91552-81275",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "91552-81275(2) № детали Название детали 91512-61035 (2) 36113A Сальник правого приводного вала",
+      "subsystem": "",
+      "part_number": "91512-61035",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "7 3611861146 90179-12025(2) 36118A . 90311-36006 2008.12- GGL15 © 36113a 361148",
+      "subsystem": "",
+      "part_number": "90179-12025",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "7 3611861146 90179-12025(2) 36118A . 90311-36006 2008.12- GGL15 © 36113a 361148",
+      "subsystem": "",
+      "part_number": "90311-36006",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "32 361116 6 Каталохный номеер Пер Модификаия 361118 № детали Название детали 0 36100A 36111B Сальник входного вала раздаточной коробки 136121C 0 2 y 90175-12025(23611G Каталожный номер Период Модифика",
+      "subsystem": "",
+      "part_number": "90175-12025",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "32 361116 6 Каталохный номеер Пер Модификаия 361118 № детали Название детали 0 36100A 36111B Сальник входного вала раздаточной коробки 136121C 0 2 y 90175-12025(23611G Каталожный номер Период Модифика",
+      "subsystem": "",
+      "part_number": "90311-55002",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "г) При помощи подъемного механизма медленно и аккуратно опустите дви- гатель из подкапотного пространства. д) Установите крюки для подъема двигателя и вывесьте двигателя. Момент затяжки. .43 Нм Примеч",
+      "subsystem": "",
+      "part_number": "12281-36020",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "г) При помощи подъемного механизма медленно и аккуратно опустите дви- гатель из подкапотного пространства. д) Установите крюки для подъема двигателя и вывесьте двигателя. Момент затяжки. .43 Нм Примеч",
+      "subsystem": "",
+      "part_number": "12282-36020",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "г) Опустите силовой агрегат с под- рамником из моторного отсека. д) Установите крюки для подъема двигателя. Момент затяжки 33 H-M Примечание: крюк №1 (12281-31120) устанавливается на переднюю головку ",
+      "subsystem": "",
+      "part_number": "12281-31120",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "- Если зазор превышает номиналь- ный, то подберите прокладку не- обходимой толщены. Толщина прокладки: №º 90564-09184. .0,3 мм №º 90564-09185. .0,6MM № 90564-09186.. .0,9MM 14 Снимите установочный 6ол",
+      "subsystem": "",
+      "part_number": "90564-09184",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "- Если зазор превышает номиналь- ный, то подберите прокладку не- обходимой толщены. Толщина прокладки: №º 90564-09184. .0,3 мм №º 90564-09185. .0,6MM № 90564-09186.. .0,9MM 14 Снимите установочный 6ол",
+      "subsystem": "",
+      "part_number": "90564-09185",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "- Если зазор превышает номиналь- ный, то подберите прокладку не- обходимой толщены. Толщина прокладки: №º 90564-09184. .0,3 мм №º 90564-09185. .0,6MM № 90564-09186.. .0,9MM 14 Снимите установочный 6ол",
+      "subsystem": "",
+      "part_number": "90564-09186",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "131504 1316408 REFERTOLLUST NO.2OF2 91671-G0825(2) 131479A",
+      "subsystem": "",
+      "part_number": "91671-G0825",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "13513540C -13561 91551-80630(2) 133.5 13507 135602 cO",
+      "subsystem": "",
+      "part_number": "13507135602",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "91671-10825(2) © ※ 3 13 153308 11401671-80616 -91551-80616 -11209 14340 11210812108- © 15340A- (NO.2) -11401M 11228 11254 \\* \\* -91671-80614 -1040-22024(431552-80616 ВЕТЕЯ ТО 3 o 11 202 121510 ※ N02 0",
+      "subsystem": "",
+      "part_number": "11210812108",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "91671-10825(2) © ※ 3 13 153308 11401671-80616 -91551-80616 -11209 14340 11210812108- © 15340A- (NO.2) -11401M 11228 11254 \\* \\* -91671-80614 -1040-22024(431552-80616 ВЕТЕЯ ТО 3 o 11 202 121510 ※ N02 0",
+      "subsystem": "",
+      "part_number": "11202121510",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1 1135-11 1115 1116 901.26:06029(2) 111228-0 11117L 0 1115 118 1110290126-08052(6) 115706C",
+      "subsystem": "",
+      "part_number": "11151116901",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "A B c 10987654321 654321 6 5 4 3 2 1 22120191817161514131211 16151413121110987 1716151413121110 9 87 30/292827 28252423 2423221 20191817 26252423221201918",
+      "subsystem": "",
+      "part_number": "10987654321",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "12111098765 4 3 21",
+      "subsystem": "",
+      "part_number": "12111098765",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "7654321 14131211098 ④",
+      "subsystem": "",
+      "part_number": "14131211098",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Разъем \"A\" Разъем \"B\" 23 22 212019 18 17 16 15 13 12 17 10 0 5 3 10 9 5 7 8 5 4 3 2 1 4039 36 36 35 34 33 32 31 30 29 28 27 26 25 24 19 18 17 18151310 12 46 45 44 43 4241 83 62 8160 55 5857 56 55 54 5",
+      "subsystem": "",
+      "part_number": "20119118117",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Разъем \"A\" Разъем \"B\" 23 22 212019 18 17 16 15 13 12 17 10 0 5 3 10 9 5 7 8 5 4 3 2 1 4039 36 36 35 34 33 32 31 30 29 28 27 26 25 24 19 18 17 18151310 12 46 45 44 43 4241 83 62 8160 55 5857 56 55 54 5",
+      "subsystem": "",
+      "part_number": "59585758554",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1 0000 23456789 √ 101121314 0 [481 493 1501 151 (521 [531 1541 [551",
+      "subsystem": "",
+      "part_number": "101121314",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "91671-10825(2) © ※ 3 13 153308 11401671-80616 -91551-80616 -11209 14340 11210812108- © 15340A- (NO.2) -11401M 11228 11254 \\* \\* -91671-80614 -1040-22024(431552-80616 ВЕТЕЯ ТО 3 o 11 202 121510 ※ N02 0",
+      "subsystem": "",
+      "part_number": "202121510",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "111597 HO2 NO2 #02 1 ' 2 HO2 122820 aa m02 11119-0 B02 -11104A 11155A o -11119a 90126-01052(29 8 8 90126-08052(6) -90126-08052131 01677 10022(2) d11126 11172 dp 111178- -90253-11021(2) 90253-11021(2-1",
+      "subsystem": "",
+      "part_number": "HO2122820",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "A B 10 112131415161718 264 128458789 □",
+      "subsystem": "",
+      "part_number": "128458789",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1211 109 878 543 21 20 19 18 17 18 15 14 19 12 110 9 8 7 6 5 4 3 21 4 3 2 4",
+      "subsystem": "",
+      "part_number": "109878543",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Разъем \"A\" Разъем \"B\" 23 22 212019 18 17 16 15 13 12 17 10 0 5 3 10 9 5 7 8 5 4 3 2 1 4039 36 36 35 34 33 32 31 30 29 28 27 26 25 24 19 18 17 18151310 12 46 45 44 43 4241 83 62 8160 55 5857 56 55 54 5",
+      "subsystem": "",
+      "part_number": "251251242",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Разъем \"A\" Разъем \"B\" 23 22 212019 18 17 16 15 13 12 17 10 0 5 3 10 9 5 7 8 5 4 3 2 1 4039 36 36 35 34 33 32 31 30 29 28 27 26 25 24 19 18 17 18151310 12 46 45 44 43 4241 83 62 8160 55 5857 56 55 54 5",
+      "subsystem": "",
+      "part_number": "119118117",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3. Извлеките старый элемент питания, отметив полярность. Установите но- вый элемент питания, соблюдая по- лярность (сторона должна быть сверху) Элемент питания. .CR1632 в) Закройте все двери и заблоки",
+      "subsystem": "",
+      "part_number": "CR1632",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "2— ширина профиля (в миллиметрах) 185 195 205 и так далее",
+      "subsystem": "",
+      "part_number": "185195205",
+      "source_url": "",
+      "source": "manual:chunks-manual-rx300.md"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Моторное масло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Масляный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Воздушный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Свечи зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Катушка зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень ГРМ / цепь ГРМ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень генератора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка клапанной крышки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка ГБЦ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик положения коленвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Расходомер воздуха",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Дроссельная заслонка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Форсунки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Регулятор давления топлива",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Каталитический нейтрализатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель средний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Прокладка выхлопной трубы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Антифриз",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Радиатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Вентилятор радиатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Расширительный бачок",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Крышка расширительного бачка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Патрубки системы охлаждения",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Масло АКПП / МКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Фильтр АКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Сцепление (комплект)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Выжимной подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Главный цилиндр сцепления",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозная жидкость",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Датчик ABS",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные барабанные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Стойка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Втулка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Рычаг подвески",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Сайлентблок рычага",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Шаровая опора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Ступичный подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС наружный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС внутренний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пыльник ШРУСа",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Наконечник рулевой тяги",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Рулевая тяга",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Жидкость ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Насос ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Аккумулятор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Генератор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Стартер",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фара передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фонарь задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Лампы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Предохранители",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Фильтр салонный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Компрессор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Радиатор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Осушитель кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Вентилятор отопителя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Боковое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Ветровое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Заднее стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Зеркало боковое",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Капот",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Крыло переднее",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Дверь",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётки стеклоочистителя передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётка стеклоочистителя задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Бачок омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Насос омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Коврики салона",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Педаль газа / тормоза",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Шина",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Диск колёсный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Гайка колёсная",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    }
+  ]
+}

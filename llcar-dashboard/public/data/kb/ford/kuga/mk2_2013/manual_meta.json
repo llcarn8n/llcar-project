@@ -1,0 +1,20 @@
+{
+  "brand": "ford",
+  "model": "kuga",
+  "source_path_rel": "ford/models/kuga/",
+  "manual_md_size": 131997298,
+  "has_dita": true,
+  "has_pdf": false,
+  "variants": [
+    "manual-13b6b1.md",
+    "manual-escape-escape.md",
+    "manual-kuga-2018_2018.md",
+    "manual-kuga-2018_2018_2.md",
+    "manual-kuga.md",
+    "manual-kuga_2.md",
+    "manual-kuga_3.md",
+    "manual-kuga_ru.md",
+    "manual-ru.md",
+    "manual-ru_2.md"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "brand": "livan",
+  "model": "s6_pro",
+  "source_path_rel": "livan/models/s6_pro/",
+  "manual_md_size": 1586084,
+  "has_dita": true,
+  "has_pdf": false,
+  "variants": [
+    "manual-2023_н_в.md"
+  ]
+}

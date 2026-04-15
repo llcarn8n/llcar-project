@@ -1,0 +1,14 @@
+{
+  "brand": "mercedes",
+  "model": "c_class",
+  "source_path_rel": "mercedes_benz/models/c_class/",
+  "manual_md_size": 0,
+  "has_dita": true,
+  "has_pdf": false,
+  "variants": [
+    "manual-190_w201.md",
+    "manual-am.md",
+    "manual-c_class_w205.md",
+    "manual-c_class_w206.md"
+  ]
+}

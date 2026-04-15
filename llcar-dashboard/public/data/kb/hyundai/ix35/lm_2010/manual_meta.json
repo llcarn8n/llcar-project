@@ -1,0 +1,11 @@
+{
+  "brand": "hyundai",
+  "model": "ix35",
+  "source_path_rel": "hyundai/models/ix35/",
+  "manual_md_size": 4057986,
+  "has_dita": true,
+  "has_pdf": false,
+  "variants": [
+    "manual-10e77a.md"
+  ]
+}

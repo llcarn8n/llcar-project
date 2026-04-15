@@ -1,0 +1,20 @@
+{
+  "brand": "belgee",
+  "model": "x50",
+  "source_path_rel": "belgee/models/x50/",
+  "manual_md_size": 49682379,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-525de4.md",
+    "manual-ru.md",
+    "manual-ru_reocr.md",
+    "manual-ru_ru--manual.md",
+    "manual-ru_ru--official.md",
+    "manual-x50-x50_2023_2026.md",
+    "manual-x50.md",
+    "manual-x50_2023_2026.md",
+    "manual-x50_2023_2026_2.md",
+    "manual-x50plus-x50plus.md"
+  ]
+}

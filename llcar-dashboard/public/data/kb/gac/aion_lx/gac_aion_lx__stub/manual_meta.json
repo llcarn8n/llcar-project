@@ -1,0 +1,18 @@
+{
+  "brand": "gac",
+  "model": "aion_lx",
+  "source_path_rel": "gac/models/aion_lx/",
+  "manual_md_size": 50278340,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-1d961c.md",
+    "manual-aion_lx-aion_lx.md",
+    "manual-aion_lx.md",
+    "manual-aion_y-aion_y.md",
+    "manual-aion_y.md",
+    "manual-db3ca7--v2.md",
+    "manual-ru_reocr.md",
+    "manual-v2.md"
+  ]
+}

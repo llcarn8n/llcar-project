@@ -1,0 +1,1438 @@
+{
+  "brand": "kia",
+  "model": "optima",
+  "source": "manual_extract+template",
+  "total_parts": 157,
+  "systems": {
+    "Uncategorized": 62,
+    "Engine": 15,
+    "Fuel System": 4,
+    "Exhaust System": 5,
+    "Cooling System": 8,
+    "Transmission": 5,
+    "Brake System": 9,
+    "Suspension / Wheels": 13,
+    "Steering": 4,
+    "Electrical": 8,
+    "HVAC": 5,
+    "Body": 9,
+    "Wiper System": 4,
+    "Interior": 2,
+    "Wheels / Tires": 4
+  },
+  "parts": [
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "22. Сиденье . ..............3-2 OTF014001L",
+      "subsystem": "",
+      "part_number": "OTF014001L",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "23. Перчаточный ящик... ...4-173 OTF014002L",
+      "subsystem": "",
+      "part_number": "OTF014002L",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OLM034310",
+      "subsystem": "",
+      "part_number": "OLM034310",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# OTF034039/OTF034040/OTF034041/OMG035053",
+      "subsystem": "",
+      "part_number": "OTF034039",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# OTF034039/OTF034040/OTF034041/OMG035053",
+      "subsystem": "",
+      "part_number": "OTF034040",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# OTF034039/OTF034040/OTF034041/OMG035053",
+      "subsystem": "",
+      "part_number": "OTF034041",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# OTF034039/OTF034040/OTF034041/OMG035053",
+      "subsystem": "",
+      "part_number": "OMG035053",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# OFD047002-A",
+      "subsystem": "",
+      "part_number": "OFD047002",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# OJC040170",
+      "subsystem": "",
+      "part_number": "OJC040170",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# OTF040021",
+      "subsystem": "",
+      "part_number": "OTF040021",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# OTF040022",
+      "subsystem": "",
+      "part_number": "OTF040022",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTF040040",
+      "subsystem": "",
+      "part_number": "OTF040040",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTF044111L/OTF044111RU",
+      "subsystem": "",
+      "part_number": "OTF044111L",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTF044112L/OTF044112RU • Если удерживать регулятор подсветки (\" \" или \" ), то яркость будет изменяться непрерывно. При достижении максимального или минимального уровня яркости подсветки подается звуко",
+      "subsystem": "",
+      "part_number": "OTF044112L",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# OTF044121L",
+      "subsystem": "",
+      "part_number": "OTF044121L",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# OTF044123L",
+      "subsystem": "",
+      "part_number": "OTF044123L",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTF044128",
+      "subsystem": "",
+      "part_number": "OTF044128",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# OTF044187L/OTF044187RU",
+      "subsystem": "",
+      "part_number": "OTF044187L",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# OTF044188L/OTF044188RU",
+      "subsystem": "",
+      "part_number": "OTF044188L",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTF044367L",
+      "subsystem": "",
+      "part_number": "OTF044367L",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTF044202L",
+      "subsystem": "",
+      "part_number": "OTF044202L",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTF044204L",
+      "subsystem": "",
+      "part_number": "OTF044204L",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTF044206L",
+      "subsystem": "",
+      "part_number": "OTF044206L",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTF044208L",
+      "subsystem": "",
+      "part_number": "OTF044208L",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTF044318L",
+      "subsystem": "",
+      "part_number": "OTF044318L",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTF054083",
+      "subsystem": "",
+      "part_number": "OTF054083",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTF054117",
+      "subsystem": "",
+      "part_number": "OTF054117",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTF054118",
+      "subsystem": "",
+      "part_number": "OTF054118",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTF054119",
+      "subsystem": "",
+      "part_number": "OTF054119",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTF054120",
+      "subsystem": "",
+      "part_number": "OTF054120",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# OTF054121",
+      "subsystem": "",
+      "part_number": "OTF054121",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OVI053131",
+      "subsystem": "",
+      "part_number": "OVI053131",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OVG079016",
+      "subsystem": "",
+      "part_number": "OVG079016",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTF074097 мм (дюймов)",
+      "subsystem": "",
+      "part_number": "OTF074097",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMD051054L",
+      "subsystem": "",
+      "part_number": "OMD051054L",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTF074038L/OTF070039/OTF070040",
+      "subsystem": "",
+      "part_number": "OTF074038L",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTF074038L/OTF070039/OTF070040",
+      "subsystem": "",
+      "part_number": "OTF070039",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTF074038L/OTF070039/OTF070040",
+      "subsystem": "",
+      "part_number": "OTF070040",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTF080003N/OYF082009/OYF081013N/OTFS082006",
+      "subsystem": "",
+      "part_number": "OTF080003N",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTF080003N/OYF082009/OYF081013N/OTFS082006",
+      "subsystem": "",
+      "part_number": "OYF082009",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTF080003N/OYF082009/OYF081013N/OTFS082006",
+      "subsystem": "",
+      "part_number": "OYF081013N",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# OFD047002-A",
+      "subsystem": "",
+      "part_number": "OFD047002-A",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "2. Замените аккумулятор на новый (CR2032). Устанавливайте аккумуляторную батарею в правильном положении.",
+      "subsystem": "",
+      "part_number": "CR2032",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTF044111L/OTF044111RU",
+      "subsystem": "",
+      "part_number": "OTF044111RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTF044112L/OTF044112RU • Если удерживать регулятор подсветки (\" \" или \" ), то яркость будет изменяться непрерывно. При достижении максимального или минимального уровня яркости подсветки подается звуко",
+      "subsystem": "",
+      "part_number": "OTF044112RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# OTF044187L/OTF044187RU",
+      "subsystem": "",
+      "part_number": "OTF044187RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# OTF044188L/OTF044188RU",
+      "subsystem": "",
+      "part_number": "OTF044188RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# OTF044367RU",
+      "subsystem": "",
+      "part_number": "OTF044367RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# OTF044204RU",
+      "subsystem": "",
+      "part_number": "OTF044204RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# OTF044206RU",
+      "subsystem": "",
+      "part_number": "OTF044206RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# OTF044208RU",
+      "subsystem": "",
+      "part_number": "OTF044208RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# OTF054117RU",
+      "subsystem": "",
+      "part_number": "OTF054117RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# OTF054118RU",
+      "subsystem": "",
+      "part_number": "OTF054118RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# OTF054119RU",
+      "subsystem": "",
+      "part_number": "OTF054119RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# OTF054120RU",
+      "subsystem": "",
+      "part_number": "OTF054120RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# OTF054131RU/OTF054104RU",
+      "subsystem": "",
+      "part_number": "OTF054131RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# OTF054131RU/OTF054104RU",
+      "subsystem": "",
+      "part_number": "OTF054104RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "се CE0678",
+      "subsystem": "",
+      "part_number": "CE0678",
+      "source_url": "",
+      "source": "manual:chunks-manual-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "⚙️ +79153104466 (заказ запчастей)",
+      "subsystem": "",
+      "part_number": "79153104466",
+      "source_url": "",
+      "source": "manual:chunks-video-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "☎️ +79001446626 (запись в сервис)",
+      "subsystem": "",
+      "part_number": "79001446626",
+      "source_url": "",
+      "source": "manual:chunks-video-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "либо 89997353880 тг/ватсап",
+      "subsystem": "",
+      "part_number": "89997353880",
+      "source_url": "",
+      "source": "manual:chunks-video-optima.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Viber: https://viber.click/79084912847",
+      "subsystem": "",
+      "part_number": "79084912847",
+      "source_url": "",
+      "source": "manual:chunks-video-optima.md"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Моторное масло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Масляный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Воздушный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Свечи зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Катушка зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень ГРМ / цепь ГРМ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень генератора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка клапанной крышки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка ГБЦ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик положения коленвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Расходомер воздуха",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Дроссельная заслонка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Форсунки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Регулятор давления топлива",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Каталитический нейтрализатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель средний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Прокладка выхлопной трубы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Антифриз",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Радиатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Вентилятор радиатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Расширительный бачок",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Крышка расширительного бачка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Патрубки системы охлаждения",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Масло АКПП / МКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Фильтр АКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Сцепление (комплект)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Выжимной подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Главный цилиндр сцепления",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозная жидкость",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Датчик ABS",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные барабанные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Стойка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Втулка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Рычаг подвески",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Сайлентблок рычага",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Шаровая опора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Ступичный подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС наружный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС внутренний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пыльник ШРУСа",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Наконечник рулевой тяги",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Рулевая тяга",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Жидкость ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Насос ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Аккумулятор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Генератор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Стартер",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фара передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фонарь задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Лампы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Предохранители",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Фильтр салонный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Компрессор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Радиатор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Осушитель кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Вентилятор отопителя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Боковое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Ветровое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Заднее стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Зеркало боковое",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Капот",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Крыло переднее",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Дверь",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётки стеклоочистителя передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётка стеклоочистителя задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Бачок омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Насос омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Коврики салона",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Педаль газа / тормоза",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Шина",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Диск колёсный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Гайка колёсная",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    }
+  ]
+}

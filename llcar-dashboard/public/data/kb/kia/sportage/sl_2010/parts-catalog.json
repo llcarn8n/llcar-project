@@ -1,0 +1,1837 @@
+{
+  "brand": "kia",
+  "model": "kia_sportage",
+  "source": "exist.ru",
+  "total_parts": 302,
+  "systems": {
+    "Body": 37,
+    "Engine": 52,
+    "Fuel System": 2,
+    "Fuel Mixture Preparation": 15,
+    "Exhaust System": 14,
+    "Cooling System": 12,
+    "Clutch System": 7,
+    "Transmission": 7,
+    "Wheel Drive": 1,
+    "Brake System": 20,
+    "Suspension / Damping": 9,
+    "Suspension / Wheels": 23,
+    "Steering": 7,
+    "Electrical": 56,
+    "Ignition System": 2,
+    "HVAC": 4,
+    "Air Conditioning": 5,
+    "Wiper System": 2,
+    "Comfort Features": 3,
+    "Interior": 1,
+    "Safety System": 1,
+    "Locks": 1,
+    "Accessories": 2,
+    "Wheels / Tires": 5,
+    "Uncategorized": 14
+  },
+  "parts": [
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Аэродефлектор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12C00000_5025",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Боковое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12C00000_1194",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Буфер",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12C00000_938",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Ветровое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12C00000_1191",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Датчик парктроника",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12C00000_2412",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Заднее стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12C00000_1192",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Задний противотуманный фонарь",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12C00000_291",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Задний фонарь",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12C00000_391",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Зажим, молдинг / защитная накладка (декоративная / защитная накладка)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12C00000_3881",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Зеркальное стекло внешнего зеркала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12C00000_1914",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Капот двигателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12C00000_531",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Кронштейн, буфер",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12C00000_939",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа габаритного освещения",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12C00000_1172",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа дальнего света",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12C00000_106",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа дополнительного фонаря торможения",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12C00000_2797",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа заднего габаритого освещения",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12C00000_115",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа задней противотуманной фары",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12C00000_113",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа накаливания, фонарь подсветки двери",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12C00000_3005",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа освещения номерного знака",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12C00000_112",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа основной фары",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12C00000_107",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа подсветки двери",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12C00000_118",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа противотуманной фары",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12C00000_108",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа сигнала торможения",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12C00000_111",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа стояночного/габаритного огня",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12C00000_1092",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа страховочного освещения двери",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12C00000_2991",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа указателя поворота",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12C00000_105",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа фары заднего хода",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12C00000_114",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа фонаря сигнала тормоза/заднего габарита",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12C00000_110",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа, противотуманные . задние фонари (противотуманный / задний подфарник)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12C00000_2992",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Облицовка / защитная накладка, ветровое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12C00000_1249",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Противотуманная фара (фара противотуманная)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12C00000_289",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Пружина газовая крышки багажника",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12C00000_219",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Ремонтный комплект кабеля, задний фонарь",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12C00000_6346",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Фара заднего хода",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12C00000_292",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Фара основная",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12C00000_259",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Фонарь освещения номерного знака",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12C00000_293",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Элемент оптики, датчик дождя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12C00000_4855",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Водяной насос + комплект зубчатого ремня",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_3096",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Датчик положения распределительного вала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_3946",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Датчик потока воздуха",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_3927",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Датчик уровня моторного масла",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_1289",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Интеркулер (охлаждение нагнетаемого воздуха)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_468",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Клапан возврата ОГ (рециркуляция отработанных газов)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_1145",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект болтов головки цилидра",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_1217",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект поршневых колец",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_444",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект прокладок ГБЦ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_319",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект прокладок двигателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_560",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект прокладок крышки ГБЦ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_979",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект прокладок стержня клапана",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_323",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект прокладок, блок-картер двигателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_150",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект ремня ГРМ (ремень грм)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_307",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Компрессор, наддув",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_2234",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Крышка, заливная горловина (маслоналивная горловина)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_597",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Маслопровод, компрессор (маслопровод (компрессор))",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_3739",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Маслосъемный колпачок",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_322",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Масляный радиатор двигателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_469",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Маховик",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_577",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Механизм свободного хода генератора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_1390",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Монтажный комплект, компрессор (нагнетатель)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_2420",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Моторное масло (двигатель)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_3224",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Натяжитель ремня поликлинового",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_541",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Натяжной ролик ремня ГРМ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_308",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Паразитный / Ведущий ролик, зубчатый ремень (направляющая зубчатого ремня / паразитный шкив)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_313",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Патрубок дроссельной заслонки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_158",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Поликлиновой ременный комплект (ремень поликлиновой)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_542",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Поршень двигателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_443",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Пробка резьбовая масляного поддона",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_593",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка водяной насоса",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_314",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка впускного коллектора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_42",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка выпуска из турбины",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_3727",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка выпуска масла (компрессор)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_3729",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка выпускного коллектора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_27",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка ГБЦ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_318",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка корпуса термостата",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_317",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка крышки ГБЦ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_321",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка масляного поддона",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_455",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка, клапан возврата ОГ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_3507",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка, компрессор (нагнетатель)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_141",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Расходомер воздуха",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_3926",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Ремень ГРМ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_306",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Ремень поликлиновой",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_305",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Ролик паразитный поликлинового ремня",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_312",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Сальник коленвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_572",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Толкатель клапана",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_1216",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Трубка нагнетаемого воздуха (нагнетатель)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_3314",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Уплотнительное кольцо резьбовой пробки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_135",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Уплотнительное кольцо, компрессор (нагнетатель)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_3743",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Фильтр воздушный двигателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_8",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Фильтр масляный двигателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=12F00000_7",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Система подачи топлива",
+      "system_en": "Fuel System",
+      "part_name": "Крышка топливного бака",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=15F00000_602",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Система подачи топлива",
+      "system_en": "Fuel System",
+      "part_name": "Фильтр топливный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=15F00000_9",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подготовка топливной смеси",
+      "system_en": "Fuel Mixture Preparation",
+      "part_name": "NOx-датчик, NOx-катализатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=16B00000_4965",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подготовка топливной смеси",
+      "system_en": "Fuel Mixture Preparation",
+      "part_name": "Датчик давления во впускном газопроводе",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=16B00000_3947",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подготовка топливной смеси",
+      "system_en": "Fuel Mixture Preparation",
+      "part_name": "Датчик давления воздуха, высотный корректор (давление воздуха / высотный корректор)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=16B00000_3925",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подготовка топливной смеси",
+      "system_en": "Fuel Mixture Preparation",
+      "part_name": "Датчик давления выхлопных газов",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=16B00000_4272",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подготовка топливной смеси",
+      "system_en": "Fuel Mixture Preparation",
+      "part_name": "Датчик давления наддува",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=16B00000_3945",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подготовка топливной смеси",
+      "system_en": "Fuel Mixture Preparation",
+      "part_name": "Датчик положения распределительного вала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=16B00000_3946",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подготовка топливной смеси",
+      "system_en": "Fuel Mixture Preparation",
+      "part_name": "Датчик потока воздуха",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=16B00000_3927",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подготовка топливной смеси",
+      "system_en": "Fuel Mixture Preparation",
+      "part_name": "Датчик температуры выхлопных газов",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=16B00000_3938",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подготовка топливной смеси",
+      "system_en": "Fuel Mixture Preparation",
+      "part_name": "Датчик частиц (твердые частицы ог)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=16B00000_4894",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подготовка топливной смеси",
+      "system_en": "Fuel Mixture Preparation",
+      "part_name": "Клапан возврата ОГ (рециркуляция отработанных газов)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=16B00000_1145",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подготовка топливной смеси",
+      "system_en": "Fuel Mixture Preparation",
+      "part_name": "Патрубок дроссельной заслонки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=16B00000_158",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подготовка топливной смеси",
+      "system_en": "Fuel Mixture Preparation",
+      "part_name": "Прокладка, клапан возврата ОГ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=16B00000_3507",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подготовка топливной смеси",
+      "system_en": "Fuel Mixture Preparation",
+      "part_name": "Расходомер воздуха",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=16B00000_3926",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подготовка топливной смеси",
+      "system_en": "Fuel Mixture Preparation",
+      "part_name": "Трубка нагнетаемого воздуха (нагнетатель)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=16B00000_3314",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подготовка топливной смеси",
+      "system_en": "Fuel Mixture Preparation",
+      "part_name": "Форсунка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=16B00000_3902",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Система выпуска",
+      "system_en": "Exhaust System",
+      "part_name": "NOx-датчик, NOx-катализатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13200000_4965",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Система выпуска",
+      "system_en": "Exhaust System",
+      "part_name": "NOx-датчик, впрыск карбамида (nox-значение (впрыск карбамида))",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13200000_4319",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Система выпуска",
+      "system_en": "Exhaust System",
+      "part_name": "Датчик давления выхлопных газов",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13200000_4272",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Система выпуска",
+      "system_en": "Exhaust System",
+      "part_name": "Датчик температуры выхлопных газов",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13200000_3938",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Система выпуска",
+      "system_en": "Exhaust System",
+      "part_name": "Датчик частиц (твердые частицы ог)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13200000_4894",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Система выпуска",
+      "system_en": "Exhaust System",
+      "part_name": "Компрессор, наддув",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13200000_2234",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Система выпуска",
+      "system_en": "Exhaust System",
+      "part_name": "Маслопровод, компрессор (маслопровод (компрессор))",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13200000_3739",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Система выпуска",
+      "system_en": "Exhaust System",
+      "part_name": "Монтажный комплект, компрессор (нагнетатель)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13200000_2420",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Система выпуска",
+      "system_en": "Exhaust System",
+      "part_name": "Мочевина",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13200000_9723",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Система выпуска",
+      "system_en": "Exhaust System",
+      "part_name": "Прокладка выхлопной трубы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13200000_138",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Система выпуска",
+      "system_en": "Exhaust System",
+      "part_name": "Прокладка, компрессор (нагнетатель)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13200000_141",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Система выпуска",
+      "system_en": "Exhaust System",
+      "part_name": "Резиновые полоски, система выпуска",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13200000_1055",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Система выпуска",
+      "system_en": "Exhaust System",
+      "part_name": "Сажевый / частичный фильтр, система выхлопа ОГ (сажа)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13200000_1256",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Система выпуска",
+      "system_en": "Exhaust System",
+      "part_name": "Трубка нагнетаемого воздуха (нагнетатель)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13200000_3314",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Антифриз",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13B00000_3356",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Вентилятор охлаждения двигателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13B00000_508",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Водяной насос + комплект зубчатого ремня",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13B00000_3096",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Крышка бачка охлаждающей жидкости",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13B00000_56",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Масляный радиатор двигателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13B00000_469",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Насос водяной охлаждения двигателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13B00000_1260",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Прокладка водяной насоса",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13B00000_314",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Прокладка корпуса термостата",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13B00000_317",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Радиатор отопителя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13B00000_467",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Радиатор охлаждения двигателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13B00000_470",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Термостат охлаждающей жидкости",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13B00000_316",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Шланг радиатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13B00000_475",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Система сцепления",
+      "system_en": "Clutch System",
+      "part_name": "Комплект сцепления",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=15C00000_479",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Система сцепления",
+      "system_en": "Clutch System",
+      "part_name": "Маховик",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=15C00000_577",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Система сцепления",
+      "system_en": "Clutch System",
+      "part_name": "Система привода сцепления",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=15C00000_3825",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Система сцепления",
+      "system_en": "Clutch System",
+      "part_name": "Тормозная жидкость",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=15C00000_3357",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Система сцепления",
+      "system_en": "Clutch System",
+      "part_name": "Центральный выключатель, система сцепления",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=15C00000_47",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Система сцепления",
+      "system_en": "Clutch System",
+      "part_name": "Цилиндр сцепления главный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=15C00000_234",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Система сцепления",
+      "system_en": "Clutch System",
+      "part_name": "Цилиндр сцепления рабочий",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=15C00000_620",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "КПП",
+      "system_en": "Transmission",
+      "part_name": "Масло АКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=16200000_3069",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "КПП",
+      "system_en": "Transmission",
+      "part_name": "Масло МКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=16200000_3225",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Привод колеса",
+      "system_en": "Wheel Drive",
+      "part_name": "ШРУС",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=14D00000_5",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Трансмиссия",
+      "system_en": "Transmission",
+      "part_name": "Масло осевого редуктора (осевой редуктор)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=17D00000_3226",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Трансмиссия",
+      "system_en": "Transmission",
+      "part_name": "Масло раздаточной коробки (раздаточная коробка)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=17D00000_3421",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Трансмиссия",
+      "system_en": "Transmission",
+      "part_name": "Опора, дифференциал",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=17D00000_4831",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Трансмиссия",
+      "system_en": "Transmission",
+      "part_name": "Сальник дифференциала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=17D00000_630",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Трансмиссия",
+      "system_en": "Transmission",
+      "part_name": "Шарнир, продольный вал",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=17D00000_1427",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Датчик положения педали тормоза",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13800000_2062",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Датчик частоты вращения колеса",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13800000_412",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Диск тормозной",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13800000_82",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Диск тормозной, экономичный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13800000_3369",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Колодки тормозные барабанные, задние, комплект",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13800000_1419",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Колодки тормозные дисковые, комплект",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13800000_402",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Комплект высокоэффективных тормозных колодок (экономичный тормоз)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13800000_3371",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Комплект направляющей гильзы (суппорт тормозной)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13800000_1165",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Комплект тормозных колодок",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13800000_70",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Комплектующие барабанных тормозных колодок",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13800000_1337",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Комплектующие дисковых тормозных колодок",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13800000_1164",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Поршень тормозного суппорта",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13800000_2248",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Прокладка поршня тормозного суппорта",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13800000_1724",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Противоскрипная пластина, тормозные колодки(задняя пластина) (тормозная колодка (обратная пластина))",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13800000_5297",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Ремкомплект тормозного суппорта",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13800000_405",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Тормозная жидкость",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13800000_3357",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Тормозной суппорт",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13800000_78",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Трос стояночной тормозной системы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13800000_124",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Цилиндр тормозной главный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13800000_258",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Шланг тормозной",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=13800000_83",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подвеска и амортизация",
+      "system_en": "Suspension / Damping",
+      "part_name": "Амортизатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=14400000_854",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подвеска и амортизация",
+      "system_en": "Suspension / Damping",
+      "part_name": "Буфер, амортизация (рессора)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=14400000_1182",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подвеска и амортизация",
+      "system_en": "Suspension / Damping",
+      "part_name": "Дополнительная рессора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=14400000_1717",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подвеска и амортизация",
+      "system_en": "Suspension / Damping",
+      "part_name": "Опора стойки амортизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=14400000_1180",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подвеска и амортизация",
+      "system_en": "Suspension / Damping",
+      "part_name": "Подшипник опоры стойки амортизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=14400000_1626",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подвеска и амортизация",
+      "system_en": "Suspension / Damping",
+      "part_name": "Пружина подвески",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=14400000_188",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подвеска и амортизация",
+      "system_en": "Suspension / Damping",
+      "part_name": "Пылезащитный комплект амортизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=14400000_919",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подвеска и амортизация",
+      "system_en": "Suspension / Damping",
+      "part_name": "Пыльник амортизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=14400000_3365",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подвеска и амортизация",
+      "system_en": "Suspension / Damping",
+      "part_name": "Ремкомплект опоры стойки амортизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=14400000_1632",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Втулка балки моста",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=14A00000_1614",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Втулка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=14A00000_331",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Гайка крепления колеса (колесо)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=14A00000_658",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Датчик частоты вращения колеса, контроль давления в шинах (контрольная система давления в шинах)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=14A00000_2232",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Диск тормозной",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=14A00000_82",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Клапан, контрольная система давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=14A00000_2229",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Кронштейн, подвеска стабилизато (втулка стабилизатора)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=14A00000_2069",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Опора стойки амортизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=14A00000_1180",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Опора шаровая",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=14A00000_2462",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Опора, стабилизатор (подшипник стабилизатора)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=14A00000_1334",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Подшипник опоры стойки амортизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=14A00000_1626",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Подшипник ступицы колеса (ступица колеса)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=14A00000_655",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Подшипник ступицы колеса, комплект",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=14A00000_654",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пылезащитный комплект амортизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=14A00000_919",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Ремкомплект опоры стойки амортизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=14A00000_1632",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Ремкомплект, датчик колеса (контр. система давления в шинах) (датчик колеса (контрольная система давления в шинах))",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=14A00000_3711",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Рычаг независимой подвески колеса",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=14A00000_273",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Сайлентблок балки моста",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=14A00000_1080",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Сайлентблок рычага подвески",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=14A00000_251",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Стойка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=14A00000_3229",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Ступица колеса",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=14A00000_653",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Тяга / стойка, подвеска колеса",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=14A00000_3230",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Шпилька колеса (колесо)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=14A00000_657",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    },
+    {
+      "system": "Рулевое управление",
+      "system_en": "Steering",
+      "part_name": "Витая пружина, подушка безопасности",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=BD400083&id=14700000_4826",
+      "source": "exist.ru:Sportage IV/1.6 CRDi 4WD*"
+    }
+  ],
+  "parts_total_original": 302,
+  "parts_capped": true
+}

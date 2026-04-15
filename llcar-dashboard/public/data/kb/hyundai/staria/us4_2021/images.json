@@ -1,0 +1,2502 @@
+[
+  {
+    "filename": "005379cc24e8ad4e76d363b7b350198fcfd1082960f6c5cacaef3fee2a9a4de8.webp",
+    "size": 29014,
+    "source_rel": "hyundai/models/staria/images/005379cc24e8ad4e76d363b7b350198fcfd1082960f6c5cacaef3fee2a9a4de8.webp"
+  },
+  {
+    "filename": "00a1c78be08c5a4d34529a91a77c9708faffdba32d743ae4df510a9e002ea70b.webp",
+    "size": 23810,
+    "source_rel": "hyundai/models/staria/images/00a1c78be08c5a4d34529a91a77c9708faffdba32d743ae4df510a9e002ea70b.webp"
+  },
+  {
+    "filename": "00b517e564a1e2ef90c100d539f2d7d5b7138a382e872fa685b737ad9c19976b.webp",
+    "size": 10040,
+    "source_rel": "hyundai/models/staria/images/00b517e564a1e2ef90c100d539f2d7d5b7138a382e872fa685b737ad9c19976b.webp"
+  },
+  {
+    "filename": "00bb355314b74aa75217e4adca1f571bf0ea0fb852d7478e597dde7d6d47e7a8.webp",
+    "size": 27352,
+    "source_rel": "hyundai/models/staria/images/00bb355314b74aa75217e4adca1f571bf0ea0fb852d7478e597dde7d6d47e7a8.webp"
+  },
+  {
+    "filename": "0166605eb937441274af2f47717a807177052600132291d9deacb4a159fb869c.webp",
+    "size": 11502,
+    "source_rel": "hyundai/models/staria/images/0166605eb937441274af2f47717a807177052600132291d9deacb4a159fb869c.webp"
+  },
+  {
+    "filename": "016af00e0263193a85c9710c4337de2806b8cd3ea9b41e3c1fabb0dda6da4546.webp",
+    "size": 3450,
+    "source_rel": "hyundai/models/staria/images/016af00e0263193a85c9710c4337de2806b8cd3ea9b41e3c1fabb0dda6da4546.webp"
+  },
+  {
+    "filename": "01cb491adb7a0ca630af6ae8e649198fcac8aeecbd9e70a9fef6cb13c5cf4196.webp",
+    "size": 8652,
+    "source_rel": "hyundai/models/staria/images/01cb491adb7a0ca630af6ae8e649198fcac8aeecbd9e70a9fef6cb13c5cf4196.webp"
+  },
+  {
+    "filename": "01dd06a13164a962642dd839075a2d475a5a5f2fac2afd0a69bb44290df25e6e.webp",
+    "size": 5874,
+    "source_rel": "hyundai/models/staria/images/01dd06a13164a962642dd839075a2d475a5a5f2fac2afd0a69bb44290df25e6e.webp"
+  },
+  {
+    "filename": "01f02c58c9239efd341601e1f642effbea938ad331c21291e8bf694c5330712d.webp",
+    "size": 6798,
+    "source_rel": "hyundai/models/staria/images/01f02c58c9239efd341601e1f642effbea938ad331c21291e8bf694c5330712d.webp"
+  },
+  {
+    "filename": "01f13e33b23307a803ef587a4ba08bd9d99235f4c677b95e1f73a1d3e857e9eb.webp",
+    "size": 2390,
+    "source_rel": "hyundai/models/staria/images/01f13e33b23307a803ef587a4ba08bd9d99235f4c677b95e1f73a1d3e857e9eb.webp"
+  },
+  {
+    "filename": "01fc75a7c2ee01ed20aa10c798b2bcc99cbbf4b81e67bd4211a2303b0c3783f6.webp",
+    "size": 79484,
+    "source_rel": "hyundai/models/staria/images/01fc75a7c2ee01ed20aa10c798b2bcc99cbbf4b81e67bd4211a2303b0c3783f6.webp"
+  },
+  {
+    "filename": "02184061b63b384f223d44f26e18b4deed64443ca0e3f90b7d27d502ad86fdb8.webp",
+    "size": 96486,
+    "source_rel": "hyundai/models/staria/images/02184061b63b384f223d44f26e18b4deed64443ca0e3f90b7d27d502ad86fdb8.webp"
+  },
+  {
+    "filename": "0227a03ceb30ca2cd1f8cf4143f620c86ebf6145c8c0fc06af4eda995e469c85.webp",
+    "size": 12002,
+    "source_rel": "hyundai/models/staria/images/0227a03ceb30ca2cd1f8cf4143f620c86ebf6145c8c0fc06af4eda995e469c85.webp"
+  },
+  {
+    "filename": "0228fa57af1c921030251d4cbfe36f616924b20234c73a627380c8ea930340f9.webp",
+    "size": 2200,
+    "source_rel": "hyundai/models/staria/images/0228fa57af1c921030251d4cbfe36f616924b20234c73a627380c8ea930340f9.webp"
+  },
+  {
+    "filename": "025309bd461c7351eb8522dbc6c1ccde6812ead4e8b69eda551ee1554f89fde4.webp",
+    "size": 25844,
+    "source_rel": "hyundai/models/staria/images/025309bd461c7351eb8522dbc6c1ccde6812ead4e8b69eda551ee1554f89fde4.webp"
+  },
+  {
+    "filename": "029312d29235a6171ef0501b19f65cde4bc8a4e0e4dd808dd9bbe6627d676ed4.webp",
+    "size": 10158,
+    "source_rel": "hyundai/models/staria/images/029312d29235a6171ef0501b19f65cde4bc8a4e0e4dd808dd9bbe6627d676ed4.webp"
+  },
+  {
+    "filename": "02d3541af22a25ea44518b77c2d03ecc1c2583f6dacb0bcb0267506efe95b448.webp",
+    "size": 27300,
+    "source_rel": "hyundai/models/staria/images/02d3541af22a25ea44518b77c2d03ecc1c2583f6dacb0bcb0267506efe95b448.webp"
+  },
+  {
+    "filename": "02f424859b2872af81b00136d7bbd5010d83bad472d9598db75364e203486408.webp",
+    "size": 3266,
+    "source_rel": "hyundai/models/staria/images/02f424859b2872af81b00136d7bbd5010d83bad472d9598db75364e203486408.webp"
+  },
+  {
+    "filename": "030cfff3219640d4e0198d09ffa9a7c129d4f29c83a9f3c64060a308aacf33af.webp",
+    "size": 11466,
+    "source_rel": "hyundai/models/staria/images/030cfff3219640d4e0198d09ffa9a7c129d4f29c83a9f3c64060a308aacf33af.webp"
+  },
+  {
+    "filename": "033e2f3ded58130f99849848274f4292e86333c9317563963ac20f67ca3dba16.webp",
+    "size": 8016,
+    "source_rel": "hyundai/models/staria/images/033e2f3ded58130f99849848274f4292e86333c9317563963ac20f67ca3dba16.webp"
+  },
+  {
+    "filename": "037904d10e5174313b10050e35afe291a1efad4af8fe9569c3ca0c56203e9424.webp",
+    "size": 7448,
+    "source_rel": "hyundai/models/staria/images/037904d10e5174313b10050e35afe291a1efad4af8fe9569c3ca0c56203e9424.webp"
+  },
+  {
+    "filename": "03cefd83fe18acb7a81bf28411dea1bce48535e7a04ee51ce7adae9d25cd5fe4.webp",
+    "size": 8652,
+    "source_rel": "hyundai/models/staria/images/03cefd83fe18acb7a81bf28411dea1bce48535e7a04ee51ce7adae9d25cd5fe4.webp"
+  },
+  {
+    "filename": "03de367b3cd6c455ef0c8911dc345e4a05f63cdc51c341af415cc800cf81f12f.webp",
+    "size": 12076,
+    "source_rel": "hyundai/models/staria/images/03de367b3cd6c455ef0c8911dc345e4a05f63cdc51c341af415cc800cf81f12f.webp"
+  },
+  {
+    "filename": "03ed47661d87753b8736585a9eb7eaf032705e8d103bfd31e11640f2956572af.webp",
+    "size": 13672,
+    "source_rel": "hyundai/models/staria/images/03ed47661d87753b8736585a9eb7eaf032705e8d103bfd31e11640f2956572af.webp"
+  },
+  {
+    "filename": "03f1c0def0c6f47d3620d99160cb37e1a36a0f2b2c66a7dacff03106abfa8c8f.webp",
+    "size": 9502,
+    "source_rel": "hyundai/models/staria/images/03f1c0def0c6f47d3620d99160cb37e1a36a0f2b2c66a7dacff03106abfa8c8f.webp"
+  },
+  {
+    "filename": "04064d4d98f8e1d30aac5ef24237bf3bf615130a7850ea73f4f096021daa7ead.webp",
+    "size": 12216,
+    "source_rel": "hyundai/models/staria/images/04064d4d98f8e1d30aac5ef24237bf3bf615130a7850ea73f4f096021daa7ead.webp"
+  },
+  {
+    "filename": "043b207860aec81cf77c92fa028bcc24811bc3908476d623ff8def8905b825f8.webp",
+    "size": 30018,
+    "source_rel": "hyundai/models/staria/images/043b207860aec81cf77c92fa028bcc24811bc3908476d623ff8def8905b825f8.webp"
+  },
+  {
+    "filename": "045bf78bf1b95dfb59c2777f59b29c9aa7d8631231b6b95b3745849e379e36a2.webp",
+    "size": 9814,
+    "source_rel": "hyundai/models/staria/images/045bf78bf1b95dfb59c2777f59b29c9aa7d8631231b6b95b3745849e379e36a2.webp"
+  },
+  {
+    "filename": "046995b61a006e6c38b168a3c2c41858e96c96c9db0b02cdd628e9655f5d53a9.webp",
+    "size": 104042,
+    "source_rel": "hyundai/models/staria/images/046995b61a006e6c38b168a3c2c41858e96c96c9db0b02cdd628e9655f5d53a9.webp"
+  },
+  {
+    "filename": "046e9f6d5e5c4e54aa756e8a7f8a5fa4abcd89fb42ad3638e14682bfb338dfea.webp",
+    "size": 8988,
+    "source_rel": "hyundai/models/staria/images/046e9f6d5e5c4e54aa756e8a7f8a5fa4abcd89fb42ad3638e14682bfb338dfea.webp"
+  },
+  {
+    "filename": "046f2c8dbbbf33f78e809f09fb535a2bd91d201cff85ac0a07174843f3ec55c5.webp",
+    "size": 97912,
+    "source_rel": "hyundai/models/staria/images/046f2c8dbbbf33f78e809f09fb535a2bd91d201cff85ac0a07174843f3ec55c5.webp"
+  },
+  {
+    "filename": "04a203f5c1ce1652d172bf800078d8b750d6159b24e7d01fd1e35d17f5b21582.webp",
+    "size": 22560,
+    "source_rel": "hyundai/models/staria/images/04a203f5c1ce1652d172bf800078d8b750d6159b24e7d01fd1e35d17f5b21582.webp"
+  },
+  {
+    "filename": "04e77f6f66601c63abdd8a4022be893451e9f3e0d6c4c234409a717d113d6351.webp",
+    "size": 3062,
+    "source_rel": "hyundai/models/staria/images/04e77f6f66601c63abdd8a4022be893451e9f3e0d6c4c234409a717d113d6351.webp"
+  },
+  {
+    "filename": "050cb1b8c7ce3475b708ebb0416e56e40a43b05f8b585b2b2bb4ab26e511dc8e.webp",
+    "size": 13746,
+    "source_rel": "hyundai/models/staria/images/050cb1b8c7ce3475b708ebb0416e56e40a43b05f8b585b2b2bb4ab26e511dc8e.webp"
+  },
+  {
+    "filename": "051627b8a5a00952a87994e55df16a733f7ce9897cc5b1d64f4232622749c798.webp",
+    "size": 6240,
+    "source_rel": "hyundai/models/staria/images/051627b8a5a00952a87994e55df16a733f7ce9897cc5b1d64f4232622749c798.webp"
+  },
+  {
+    "filename": "052c38f86ffe1fd9306b378f3db3a69cbde9c7a5240f14c93b5827f396d04216.webp",
+    "size": 29416,
+    "source_rel": "hyundai/models/staria/images/052c38f86ffe1fd9306b378f3db3a69cbde9c7a5240f14c93b5827f396d04216.webp"
+  },
+  {
+    "filename": "052c7e284aeeca4d2258c93e4cf37727c3e3e7cf7390f04818432aa548fdb410.webp",
+    "size": 12602,
+    "source_rel": "hyundai/models/staria/images/052c7e284aeeca4d2258c93e4cf37727c3e3e7cf7390f04818432aa548fdb410.webp"
+  },
+  {
+    "filename": "053de41ba4152aae0f6e4d929b43441f7da50f16689c6a5eed979c30439d4e2c.webp",
+    "size": 13438,
+    "source_rel": "hyundai/models/staria/images/053de41ba4152aae0f6e4d929b43441f7da50f16689c6a5eed979c30439d4e2c.webp"
+  },
+  {
+    "filename": "055e671426bc8105cf78198fb75f5b8b44572c061511e5c1997201296a4afa00.webp",
+    "size": 1778,
+    "source_rel": "hyundai/models/staria/images/055e671426bc8105cf78198fb75f5b8b44572c061511e5c1997201296a4afa00.webp"
+  },
+  {
+    "filename": "05881322c753c6f764a33935e32401ccdd1b7bf36ae997780319355096471e72.webp",
+    "size": 19216,
+    "source_rel": "hyundai/models/staria/images/05881322c753c6f764a33935e32401ccdd1b7bf36ae997780319355096471e72.webp"
+  },
+  {
+    "filename": "059f9617dd554202ae5259933ca9a90c54a4dcbd54dff5d17d2c8e1c38124e2b.webp",
+    "size": 556,
+    "source_rel": "hyundai/models/staria/images/059f9617dd554202ae5259933ca9a90c54a4dcbd54dff5d17d2c8e1c38124e2b.webp"
+  },
+  {
+    "filename": "05a0b8c66f0296bc62d7ffcb47b7a1904f0f73a40c374b0bd99de17d4bd2e278.webp",
+    "size": 82508,
+    "source_rel": "hyundai/models/staria/images/05a0b8c66f0296bc62d7ffcb47b7a1904f0f73a40c374b0bd99de17d4bd2e278.webp"
+  },
+  {
+    "filename": "05b1b8d1cf31211f46d61d239c832ca79072db4fd9198bf02d4b540822088d64.webp",
+    "size": 16170,
+    "source_rel": "hyundai/models/staria/images/05b1b8d1cf31211f46d61d239c832ca79072db4fd9198bf02d4b540822088d64.webp"
+  },
+  {
+    "filename": "05d00751acdaef0c7613f1143754c2d044411961622b49b95459e2b9861ab24e.webp",
+    "size": 2778,
+    "source_rel": "hyundai/models/staria/images/05d00751acdaef0c7613f1143754c2d044411961622b49b95459e2b9861ab24e.webp"
+  },
+  {
+    "filename": "05fbbbf6f5871bd1cec7e371ae3c48dfa943d4ec9e19b9e8e44f9a58187eef6f.webp",
+    "size": 2272,
+    "source_rel": "hyundai/models/staria/images/05fbbbf6f5871bd1cec7e371ae3c48dfa943d4ec9e19b9e8e44f9a58187eef6f.webp"
+  },
+  {
+    "filename": "0631668d1ea945598ea2adced2c8414744b7d55102940f9dd892b1210786ef00.webp",
+    "size": 11708,
+    "source_rel": "hyundai/models/staria/images/0631668d1ea945598ea2adced2c8414744b7d55102940f9dd892b1210786ef00.webp"
+  },
+  {
+    "filename": "066ef76615fd59f4c26d2b9df0c20d81ca85bf5de74a16472c1a0a0167b9b5f5.webp",
+    "size": 1740,
+    "source_rel": "hyundai/models/staria/images/066ef76615fd59f4c26d2b9df0c20d81ca85bf5de74a16472c1a0a0167b9b5f5.webp"
+  },
+  {
+    "filename": "069402b474025c2b53419fcb5b9987c7169cb3fda0f37dcfca7d71ccfa712825.webp",
+    "size": 2996,
+    "source_rel": "hyundai/models/staria/images/069402b474025c2b53419fcb5b9987c7169cb3fda0f37dcfca7d71ccfa712825.webp"
+  },
+  {
+    "filename": "06e4a0504b88c19ae5a273ca8d8e4dab0210244e6586f29f45b07168ee95ce75.webp",
+    "size": 17622,
+    "source_rel": "hyundai/models/staria/images/06e4a0504b88c19ae5a273ca8d8e4dab0210244e6586f29f45b07168ee95ce75.webp"
+  },
+  {
+    "filename": "06ee724865295a1ddde08d47a937d7f5049fe395a2304a29be40788bcd36d61d.webp",
+    "size": 11818,
+    "source_rel": "hyundai/models/staria/images/06ee724865295a1ddde08d47a937d7f5049fe395a2304a29be40788bcd36d61d.webp"
+  },
+  {
+    "filename": "0706828c73dfc4f0c74d8aa3b326b4fb5bf341a1cb902a12be1772420c0d2dfe.webp",
+    "size": 12496,
+    "source_rel": "hyundai/models/staria/images/0706828c73dfc4f0c74d8aa3b326b4fb5bf341a1cb902a12be1772420c0d2dfe.webp"
+  },
+  {
+    "filename": "07300a197e5207f7fbf861d313a94176539dba9d0d36a128c5c77228066f0296.webp",
+    "size": 13746,
+    "source_rel": "hyundai/models/staria/images/07300a197e5207f7fbf861d313a94176539dba9d0d36a128c5c77228066f0296.webp"
+  },
+  {
+    "filename": "074c9787c77844f1de48bd0a44c856646f486883beac7d813a801ca3c1ae5a10.webp",
+    "size": 9514,
+    "source_rel": "hyundai/models/staria/images/074c9787c77844f1de48bd0a44c856646f486883beac7d813a801ca3c1ae5a10.webp"
+  },
+  {
+    "filename": "074fa987dae405bfa8cc4af069a74c8a08a36af1b36490582fb63b68f1cfad92.webp",
+    "size": 9290,
+    "source_rel": "hyundai/models/staria/images/074fa987dae405bfa8cc4af069a74c8a08a36af1b36490582fb63b68f1cfad92.webp"
+  },
+  {
+    "filename": "07647579c9aa32197c1cd345b12be104eace397b0de686fdc1f592d2556cc548.webp",
+    "size": 4150,
+    "source_rel": "hyundai/models/staria/images/07647579c9aa32197c1cd345b12be104eace397b0de686fdc1f592d2556cc548.webp"
+  },
+  {
+    "filename": "07769a4943ef87cb31fa40480a721c7be703cd869054c8ab97464584420d017c.webp",
+    "size": 91226,
+    "source_rel": "hyundai/models/staria/images/07769a4943ef87cb31fa40480a721c7be703cd869054c8ab97464584420d017c.webp"
+  },
+  {
+    "filename": "079d17e9f4aa8e116dc857b7f295b822738a3abdc3dff9a0772522fd4227a90d.webp",
+    "size": 2066,
+    "source_rel": "hyundai/models/staria/images/079d17e9f4aa8e116dc857b7f295b822738a3abdc3dff9a0772522fd4227a90d.webp"
+  },
+  {
+    "filename": "07ae4e14ee45fabaeec62ba0cd7fdbabde1fb623a11626dd8cc04a306ac72a19.webp",
+    "size": 11630,
+    "source_rel": "hyundai/models/staria/images/07ae4e14ee45fabaeec62ba0cd7fdbabde1fb623a11626dd8cc04a306ac72a19.webp"
+  },
+  {
+    "filename": "07b03830f174fdebdbe14b0c1f01dc81822feb72663d64bc76f969a80088a179.webp",
+    "size": 23862,
+    "source_rel": "hyundai/models/staria/images/07b03830f174fdebdbe14b0c1f01dc81822feb72663d64bc76f969a80088a179.webp"
+  },
+  {
+    "filename": "07e84514079bbb4dbf870fc71edcd45afbf07372d47c28c50bcd58b0a097b6db.webp",
+    "size": 33864,
+    "source_rel": "hyundai/models/staria/images/07e84514079bbb4dbf870fc71edcd45afbf07372d47c28c50bcd58b0a097b6db.webp"
+  },
+  {
+    "filename": "07f0e991a8f0a677a73e144c90e32c78b35cc051dd135a479600bce4c6bfb8ab.webp",
+    "size": 32404,
+    "source_rel": "hyundai/models/staria/images/07f0e991a8f0a677a73e144c90e32c78b35cc051dd135a479600bce4c6bfb8ab.webp"
+  },
+  {
+    "filename": "08a4a692c08cf0fc6c6f5272dd255bb76c37ce231c7877332cb1a9710500e9c3.webp",
+    "size": 12404,
+    "source_rel": "hyundai/models/staria/images/08a4a692c08cf0fc6c6f5272dd255bb76c37ce231c7877332cb1a9710500e9c3.webp"
+  },
+  {
+    "filename": "0909c43824cd6fb4646bc3d6062d5df7bce584d60766783f64769794a45f6c05.webp",
+    "size": 6658,
+    "source_rel": "hyundai/models/staria/images/0909c43824cd6fb4646bc3d6062d5df7bce584d60766783f64769794a45f6c05.webp"
+  },
+  {
+    "filename": "090a128f4ebb9e61f794904794eefbfef44dcb3e6c139209d3304f0f22e9a1d1.webp",
+    "size": 19914,
+    "source_rel": "hyundai/models/staria/images/090a128f4ebb9e61f794904794eefbfef44dcb3e6c139209d3304f0f22e9a1d1.webp"
+  },
+  {
+    "filename": "091cd46774ad9fd26e9f0475ed2485f12890d8be80fc4275cedcb7dae4fb3e62.webp",
+    "size": 12770,
+    "source_rel": "hyundai/models/staria/images/091cd46774ad9fd26e9f0475ed2485f12890d8be80fc4275cedcb7dae4fb3e62.webp"
+  },
+  {
+    "filename": "092adf75c1d8208c0f7b2c52e48f4eaf05fea19a23b9cb34480364140adf0826.webp",
+    "size": 18232,
+    "source_rel": "hyundai/models/staria/images/092adf75c1d8208c0f7b2c52e48f4eaf05fea19a23b9cb34480364140adf0826.webp"
+  },
+  {
+    "filename": "09651439e408a503e6b7c72379e1feaf77e22691f4b1437bedf1cafd67cf7599.webp",
+    "size": 8092,
+    "source_rel": "hyundai/models/staria/images/09651439e408a503e6b7c72379e1feaf77e22691f4b1437bedf1cafd67cf7599.webp"
+  },
+  {
+    "filename": "09876b6f607aff2a7e81770214379a6f93a04518ccfe6c1c4d794efc3cf66151.webp",
+    "size": 9296,
+    "source_rel": "hyundai/models/staria/images/09876b6f607aff2a7e81770214379a6f93a04518ccfe6c1c4d794efc3cf66151.webp"
+  },
+  {
+    "filename": "09bb2806483c562b5232dd24697ac8bd3998c039ec30b32f8b455c2902aba2f7.webp",
+    "size": 5972,
+    "source_rel": "hyundai/models/staria/images/09bb2806483c562b5232dd24697ac8bd3998c039ec30b32f8b455c2902aba2f7.webp"
+  },
+  {
+    "filename": "09d6ea50dccbdce9c16db7d00e18ce24de95e620dbf3cefbd9874cda3550451f.webp",
+    "size": 12462,
+    "source_rel": "hyundai/models/staria/images/09d6ea50dccbdce9c16db7d00e18ce24de95e620dbf3cefbd9874cda3550451f.webp"
+  },
+  {
+    "filename": "09d7fa516d5ca1378803bc16d03f975eae63f9f62b633cb3632c7013e1f2657f.webp",
+    "size": 12674,
+    "source_rel": "hyundai/models/staria/images/09d7fa516d5ca1378803bc16d03f975eae63f9f62b633cb3632c7013e1f2657f.webp"
+  },
+  {
+    "filename": "09e2be19971510344067cdcb2be48b9d02ec76a4a8248e8ae0c66ca2cb1b976c.webp",
+    "size": 62302,
+    "source_rel": "hyundai/models/staria/images/09e2be19971510344067cdcb2be48b9d02ec76a4a8248e8ae0c66ca2cb1b976c.webp"
+  },
+  {
+    "filename": "0a60e00bebd59cfb4cf6e57d0a5b2b27f6a63c1b165fb10b39d094bdabb03024.webp",
+    "size": 2272,
+    "source_rel": "hyundai/models/staria/images/0a60e00bebd59cfb4cf6e57d0a5b2b27f6a63c1b165fb10b39d094bdabb03024.webp"
+  },
+  {
+    "filename": "0a6eaa65da46544e6c757138d9a314c482eeed128d45cee0b279ba9daade95c3.webp",
+    "size": 10774,
+    "source_rel": "hyundai/models/staria/images/0a6eaa65da46544e6c757138d9a314c482eeed128d45cee0b279ba9daade95c3.webp"
+  },
+  {
+    "filename": "0ae11727f113af26cacea2f8e1c81c112ac83fdb62600cfbef54ca958a40af32.webp",
+    "size": 8262,
+    "source_rel": "hyundai/models/staria/images/0ae11727f113af26cacea2f8e1c81c112ac83fdb62600cfbef54ca958a40af32.webp"
+  },
+  {
+    "filename": "0b06e85e0f895a6420ec088e4ae18d79fc60a27bfaeacb839042b3541762b25b.webp",
+    "size": 3364,
+    "source_rel": "hyundai/models/staria/images/0b06e85e0f895a6420ec088e4ae18d79fc60a27bfaeacb839042b3541762b25b.webp"
+  },
+  {
+    "filename": "0b2906dbee11d1779a0513f5162ee08d7fb262084d950c24a878574ec1c0cc9e.webp",
+    "size": 11794,
+    "source_rel": "hyundai/models/staria/images/0b2906dbee11d1779a0513f5162ee08d7fb262084d950c24a878574ec1c0cc9e.webp"
+  },
+  {
+    "filename": "0b3165012ba912772f654950e8bb0f3a99fb272ce97ed9ad9a42f6df8101a22b.webp",
+    "size": 14684,
+    "source_rel": "hyundai/models/staria/images/0b3165012ba912772f654950e8bb0f3a99fb272ce97ed9ad9a42f6df8101a22b.webp"
+  },
+  {
+    "filename": "0b60d830d58f6f1e5d54381cd6a855e87f1d197ee5817b47df9b2aae97763bb5.webp",
+    "size": 5438,
+    "source_rel": "hyundai/models/staria/images/0b60d830d58f6f1e5d54381cd6a855e87f1d197ee5817b47df9b2aae97763bb5.webp"
+  },
+  {
+    "filename": "0bf002fdc0d927fd0ca1f57a4e7d1c72da50465601f18375f70e0925d8700332.webp",
+    "size": 91034,
+    "source_rel": "hyundai/models/staria/images/0bf002fdc0d927fd0ca1f57a4e7d1c72da50465601f18375f70e0925d8700332.webp"
+  },
+  {
+    "filename": "0c17e1f235883f08bae98f0294cfc8753b199de535f659e9a972dcae5fb5dcdf.webp",
+    "size": 13924,
+    "source_rel": "hyundai/models/staria/images/0c17e1f235883f08bae98f0294cfc8753b199de535f659e9a972dcae5fb5dcdf.webp"
+  },
+  {
+    "filename": "0c2f27fa68115c5ec19057618e9fa2bc142ee9d758404c19166a1cc71f5373a3.webp",
+    "size": 23858,
+    "source_rel": "hyundai/models/staria/images/0c2f27fa68115c5ec19057618e9fa2bc142ee9d758404c19166a1cc71f5373a3.webp"
+  },
+  {
+    "filename": "0c51e6a6208d92575965e6a7b38138e0f86f3020d84008a45dc3e47e20567402.webp",
+    "size": 16238,
+    "source_rel": "hyundai/models/staria/images/0c51e6a6208d92575965e6a7b38138e0f86f3020d84008a45dc3e47e20567402.webp"
+  },
+  {
+    "filename": "0d359b5cd10a182259b268a73673dc07ba2e2054854f05513ddb4831991d20ab.webp",
+    "size": 51188,
+    "source_rel": "hyundai/models/staria/images/0d359b5cd10a182259b268a73673dc07ba2e2054854f05513ddb4831991d20ab.webp"
+  },
+  {
+    "filename": "0d458aae095da353a8296470c5eaeb25b643d24df55cc3332dc825e3677ab671.webp",
+    "size": 9188,
+    "source_rel": "hyundai/models/staria/images/0d458aae095da353a8296470c5eaeb25b643d24df55cc3332dc825e3677ab671.webp"
+  },
+  {
+    "filename": "0db219a381de0b6fe825237d09a95819ac3840cadb81e9447ddcbb00ae151c4a.webp",
+    "size": 48296,
+    "source_rel": "hyundai/models/staria/images/0db219a381de0b6fe825237d09a95819ac3840cadb81e9447ddcbb00ae151c4a.webp"
+  },
+  {
+    "filename": "0dc469c4af883281fbb3ce9d0b80789ec2e7355d5b75d1ef28a2456b0661a9f1.webp",
+    "size": 11108,
+    "source_rel": "hyundai/models/staria/images/0dc469c4af883281fbb3ce9d0b80789ec2e7355d5b75d1ef28a2456b0661a9f1.webp"
+  },
+  {
+    "filename": "0de8780039ceabb898fe7e42fe3a59adbd64c27a5536a3c2e2bcab9d9a759595.webp",
+    "size": 9130,
+    "source_rel": "hyundai/models/staria/images/0de8780039ceabb898fe7e42fe3a59adbd64c27a5536a3c2e2bcab9d9a759595.webp"
+  },
+  {
+    "filename": "0e18a8e5ee11b2ba94b2ae5d344e8c6958230620b5be3818d9162cc28d247503.webp",
+    "size": 6780,
+    "source_rel": "hyundai/models/staria/images/0e18a8e5ee11b2ba94b2ae5d344e8c6958230620b5be3818d9162cc28d247503.webp"
+  },
+  {
+    "filename": "0e558d381b51aff65090e64c8cfbf096438a09218839dd04c66f5d8ec22fa095.webp",
+    "size": 7956,
+    "source_rel": "hyundai/models/staria/images/0e558d381b51aff65090e64c8cfbf096438a09218839dd04c66f5d8ec22fa095.webp"
+  },
+  {
+    "filename": "0e9d2f5a9f90ae1922b551baef0d94b0bbee3af964c6682e4adf5316ca967069.webp",
+    "size": 6558,
+    "source_rel": "hyundai/models/staria/images/0e9d2f5a9f90ae1922b551baef0d94b0bbee3af964c6682e4adf5316ca967069.webp"
+  },
+  {
+    "filename": "0ec8da77c04de3dcd5003a9d6ca75146afad9a43a2eee905167d17aef09333b7.webp",
+    "size": 14764,
+    "source_rel": "hyundai/models/staria/images/0ec8da77c04de3dcd5003a9d6ca75146afad9a43a2eee905167d17aef09333b7.webp"
+  },
+  {
+    "filename": "0ede432938a1b73bc1e149442d0c4173bcf6a87488c5b397735701521818db70.webp",
+    "size": 11440,
+    "source_rel": "hyundai/models/staria/images/0ede432938a1b73bc1e149442d0c4173bcf6a87488c5b397735701521818db70.webp"
+  },
+  {
+    "filename": "0ef66a9d08bda44db38c32ab0bce166402b3300d65ba1183280ea0e620fb5e05.webp",
+    "size": 38950,
+    "source_rel": "hyundai/models/staria/images/0ef66a9d08bda44db38c32ab0bce166402b3300d65ba1183280ea0e620fb5e05.webp"
+  },
+  {
+    "filename": "0f1ce52825ea6bf85614cd935c3640e41e9b31fee6e530e6164cf012e9df8a81.webp",
+    "size": 23218,
+    "source_rel": "hyundai/models/staria/images/0f1ce52825ea6bf85614cd935c3640e41e9b31fee6e530e6164cf012e9df8a81.webp"
+  },
+  {
+    "filename": "0f48d9636e71c9560588facbc2744be461743aa3bd83a85d1c0f6050c51fea76.webp",
+    "size": 9694,
+    "source_rel": "hyundai/models/staria/images/0f48d9636e71c9560588facbc2744be461743aa3bd83a85d1c0f6050c51fea76.webp"
+  },
+  {
+    "filename": "0f4e9323ff0bc01b01a18abe09a54bb660691843c327d59c85d569e07d81b6fd.webp",
+    "size": 19202,
+    "source_rel": "hyundai/models/staria/images/0f4e9323ff0bc01b01a18abe09a54bb660691843c327d59c85d569e07d81b6fd.webp"
+  },
+  {
+    "filename": "0f5061d0d925eef71211440102d1763738549199bd2e8e3782aef3b460428128.webp",
+    "size": 15394,
+    "source_rel": "hyundai/models/staria/images/0f5061d0d925eef71211440102d1763738549199bd2e8e3782aef3b460428128.webp"
+  },
+  {
+    "filename": "0ff164f96b0bea731a74d7b4bc08ed5cf956e8d88be4f75184e1cc8e220fed4e.webp",
+    "size": 185324,
+    "source_rel": "hyundai/models/staria/images/0ff164f96b0bea731a74d7b4bc08ed5cf956e8d88be4f75184e1cc8e220fed4e.webp"
+  },
+  {
+    "filename": "101034f6841f0350987b8fad45454fddb99c81e51d3c15bc1fcb1f449e05ddb7.webp",
+    "size": 11642,
+    "source_rel": "hyundai/models/staria/images/101034f6841f0350987b8fad45454fddb99c81e51d3c15bc1fcb1f449e05ddb7.webp"
+  },
+  {
+    "filename": "10195f36324b555d89caba0f54b0e78722c32576c0802a2ea66adac436377ec9.webp",
+    "size": 25962,
+    "source_rel": "hyundai/models/staria/images/10195f36324b555d89caba0f54b0e78722c32576c0802a2ea66adac436377ec9.webp"
+  },
+  {
+    "filename": "1029445f1eef54a8c9e85d951ff1a742d4cb12ba66b7e9b5e66cf0f57b9d75e0.webp",
+    "size": 63208,
+    "source_rel": "hyundai/models/staria/images/1029445f1eef54a8c9e85d951ff1a742d4cb12ba66b7e9b5e66cf0f57b9d75e0.webp"
+  },
+  {
+    "filename": "1031245226a77c9dc82815126d3a6b65eba77000f8a011d2589d51d96d048eaa.webp",
+    "size": 11372,
+    "source_rel": "hyundai/models/staria/images/1031245226a77c9dc82815126d3a6b65eba77000f8a011d2589d51d96d048eaa.webp"
+  },
+  {
+    "filename": "106e82f555fe3a34a447497c4f82a2578ca1ba871086f1f146f790ecb2839f44.webp",
+    "size": 11104,
+    "source_rel": "hyundai/models/staria/images/106e82f555fe3a34a447497c4f82a2578ca1ba871086f1f146f790ecb2839f44.webp"
+  },
+  {
+    "filename": "10712d8bbf3f9ad1457d20df3a1fc96257dc28d7bbdae00b3eae17377415d540.webp",
+    "size": 2294,
+    "source_rel": "hyundai/models/staria/images/10712d8bbf3f9ad1457d20df3a1fc96257dc28d7bbdae00b3eae17377415d540.webp"
+  },
+  {
+    "filename": "107550e0e202423a8df0e5f29db8fb6cceb5c2d27008f7257b794fe01d91288c.webp",
+    "size": 9530,
+    "source_rel": "hyundai/models/staria/images/107550e0e202423a8df0e5f29db8fb6cceb5c2d27008f7257b794fe01d91288c.webp"
+  },
+  {
+    "filename": "109a022e139ba35c65bacca280fcfdd4c22709c70d8af676cee8e0ce7b77fc5e.webp",
+    "size": 2310,
+    "source_rel": "hyundai/models/staria/images/109a022e139ba35c65bacca280fcfdd4c22709c70d8af676cee8e0ce7b77fc5e.webp"
+  },
+  {
+    "filename": "10a56ff47695abb1b60737ab4743915b63b9ea42fa00aaa636ae1b58ad62b3bd.webp",
+    "size": 12742,
+    "source_rel": "hyundai/models/staria/images/10a56ff47695abb1b60737ab4743915b63b9ea42fa00aaa636ae1b58ad62b3bd.webp"
+  },
+  {
+    "filename": "10ccc6b567050a0532b5bba65f5e24fd8b53545730f457f931f9cdad3a28ed19.webp",
+    "size": 10288,
+    "source_rel": "hyundai/models/staria/images/10ccc6b567050a0532b5bba65f5e24fd8b53545730f457f931f9cdad3a28ed19.webp"
+  },
+  {
+    "filename": "10d54e1afab3bc26a2ceb7aa9bada933cf7f45046b97688f63ad7a5c039f2aee.webp",
+    "size": 13476,
+    "source_rel": "hyundai/models/staria/images/10d54e1afab3bc26a2ceb7aa9bada933cf7f45046b97688f63ad7a5c039f2aee.webp"
+  },
+  {
+    "filename": "1102ac15ced96cd2399fe226c9449eea0c1fdeb2d0ecbe4b4175b8ac97d48758.webp",
+    "size": 13450,
+    "source_rel": "hyundai/models/staria/images/1102ac15ced96cd2399fe226c9449eea0c1fdeb2d0ecbe4b4175b8ac97d48758.webp"
+  },
+  {
+    "filename": "1178ec448167c30df03b110e3f1172be613f9e6e1771551c022db15253e98796.webp",
+    "size": 1772,
+    "source_rel": "hyundai/models/staria/images/1178ec448167c30df03b110e3f1172be613f9e6e1771551c022db15253e98796.webp"
+  },
+  {
+    "filename": "1189617114ca83c4c84aac6fa069de24918378d847be2a312e0467d24ad9a7da.webp",
+    "size": 51588,
+    "source_rel": "hyundai/models/staria/images/1189617114ca83c4c84aac6fa069de24918378d847be2a312e0467d24ad9a7da.webp"
+  },
+  {
+    "filename": "11926670dc9d3fd089598307a26dbb4799bf579f5e826ebca6dac42282c18427.webp",
+    "size": 8996,
+    "source_rel": "hyundai/models/staria/images/11926670dc9d3fd089598307a26dbb4799bf579f5e826ebca6dac42282c18427.webp"
+  },
+  {
+    "filename": "11a507366834e33ec0780a54a1620f5019f7048862cc95a618ed9291b2d7aa7e.webp",
+    "size": 11466,
+    "source_rel": "hyundai/models/staria/images/11a507366834e33ec0780a54a1620f5019f7048862cc95a618ed9291b2d7aa7e.webp"
+  },
+  {
+    "filename": "11c6d91faf9e4deb73a88cbf229fca7452e6df211ea7413ba48919f4b0bf3aa6.webp",
+    "size": 13756,
+    "source_rel": "hyundai/models/staria/images/11c6d91faf9e4deb73a88cbf229fca7452e6df211ea7413ba48919f4b0bf3aa6.webp"
+  },
+  {
+    "filename": "11d4d4680dabdb9377a7c043ff0ed8034aca89b222be5d22dacb3b084e3586d7.webp",
+    "size": 4966,
+    "source_rel": "hyundai/models/staria/images/11d4d4680dabdb9377a7c043ff0ed8034aca89b222be5d22dacb3b084e3586d7.webp"
+  },
+  {
+    "filename": "11deaf8ee9697242316b27ba0900875a9eb0062ec3c4100795cbaf07a3d7afd3.webp",
+    "size": 12602,
+    "source_rel": "hyundai/models/staria/images/11deaf8ee9697242316b27ba0900875a9eb0062ec3c4100795cbaf07a3d7afd3.webp"
+  },
+  {
+    "filename": "11f369095c92022797e9552b3bcfc9ffc9bae32009d1f485aa3a9a9ff1fef2f0.webp",
+    "size": 38416,
+    "source_rel": "hyundai/models/staria/images/11f369095c92022797e9552b3bcfc9ffc9bae32009d1f485aa3a9a9ff1fef2f0.webp"
+  },
+  {
+    "filename": "12078de3384c1702d38c0219228db4534da8faf06f5a9efc6ad7e598e3ad2ecc.webp",
+    "size": 23352,
+    "source_rel": "hyundai/models/staria/images/12078de3384c1702d38c0219228db4534da8faf06f5a9efc6ad7e598e3ad2ecc.webp"
+  },
+  {
+    "filename": "121ebd47d8c2a375dad7a5b9a17b16aa100a2e7f3349ecda21ed88af38d990af.webp",
+    "size": 12884,
+    "source_rel": "hyundai/models/staria/images/121ebd47d8c2a375dad7a5b9a17b16aa100a2e7f3349ecda21ed88af38d990af.webp"
+  },
+  {
+    "filename": "1241999f2a374d39ce9cc26ba84c5425e1fc79a98da72bebcdba458d2eea0498.webp",
+    "size": 16544,
+    "source_rel": "hyundai/models/staria/images/1241999f2a374d39ce9cc26ba84c5425e1fc79a98da72bebcdba458d2eea0498.webp"
+  },
+  {
+    "filename": "1281aa33af0780dc60d6370cce678c47dfbfae4ab7c2214ed93dc679b866e193.webp",
+    "size": 5582,
+    "source_rel": "hyundai/models/staria/images/1281aa33af0780dc60d6370cce678c47dfbfae4ab7c2214ed93dc679b866e193.webp"
+  },
+  {
+    "filename": "1283d5bd34b93a26478654d75572e2956eddb8ba45739a200f2210b7eec2bc89.webp",
+    "size": 11826,
+    "source_rel": "hyundai/models/staria/images/1283d5bd34b93a26478654d75572e2956eddb8ba45739a200f2210b7eec2bc89.webp"
+  },
+  {
+    "filename": "129da545e83beb466186c457fee367155578912c33726def9dec9ba3fe3e538d.webp",
+    "size": 6350,
+    "source_rel": "hyundai/models/staria/images/129da545e83beb466186c457fee367155578912c33726def9dec9ba3fe3e538d.webp"
+  },
+  {
+    "filename": "13079ada0bb8c58faa3fe3eff6235b1c20ffac1fd58276f72ff42ba76c159754.webp",
+    "size": 10130,
+    "source_rel": "hyundai/models/staria/images/13079ada0bb8c58faa3fe3eff6235b1c20ffac1fd58276f72ff42ba76c159754.webp"
+  },
+  {
+    "filename": "130836056e580ed84828f59dd8895453dbf5ac80c12e58a4c2ca30ae8a39840a.webp",
+    "size": 9306,
+    "source_rel": "hyundai/models/staria/images/130836056e580ed84828f59dd8895453dbf5ac80c12e58a4c2ca30ae8a39840a.webp"
+  },
+  {
+    "filename": "13441c3f061b3d8f5e1e03bdd7e52d7d70ee3ae5c66189cf7a968674743e8e54.webp",
+    "size": 11826,
+    "source_rel": "hyundai/models/staria/images/13441c3f061b3d8f5e1e03bdd7e52d7d70ee3ae5c66189cf7a968674743e8e54.webp"
+  },
+  {
+    "filename": "134fb51046db20dd6c12393cce80e341d4b6f5e0c282f3e507a54d2c325de0fe.webp",
+    "size": 7456,
+    "source_rel": "hyundai/models/staria/images/134fb51046db20dd6c12393cce80e341d4b6f5e0c282f3e507a54d2c325de0fe.webp"
+  },
+  {
+    "filename": "13594e70bd0317ddca0d525e695091ca69b04eac404810205d353f9f5a51a6ec.webp",
+    "size": 10224,
+    "source_rel": "hyundai/models/staria/images/13594e70bd0317ddca0d525e695091ca69b04eac404810205d353f9f5a51a6ec.webp"
+  },
+  {
+    "filename": "136d9ae498e507750926d3583ad6a68248f3233c144dc004548eededf6538344.webp",
+    "size": 62616,
+    "source_rel": "hyundai/models/staria/images/136d9ae498e507750926d3583ad6a68248f3233c144dc004548eededf6538344.webp"
+  },
+  {
+    "filename": "13d5f3f069265b93c940403aba52ffb4a30e04b49fbd5a8150673bd7aee72145.webp",
+    "size": 42580,
+    "source_rel": "hyundai/models/staria/images/13d5f3f069265b93c940403aba52ffb4a30e04b49fbd5a8150673bd7aee72145.webp"
+  },
+  {
+    "filename": "13e165cfe1536778b5fc18aff078cccfe8085a7838a0f4aaadf1ffaf387976de.webp",
+    "size": 10622,
+    "source_rel": "hyundai/models/staria/images/13e165cfe1536778b5fc18aff078cccfe8085a7838a0f4aaadf1ffaf387976de.webp"
+  },
+  {
+    "filename": "1419b034cd7aab65f628afad8070674c1f353de21b37a371b6946a5c52d3ec2e.webp",
+    "size": 6312,
+    "source_rel": "hyundai/models/staria/images/1419b034cd7aab65f628afad8070674c1f353de21b37a371b6946a5c52d3ec2e.webp"
+  },
+  {
+    "filename": "1428139a8c7e48d9364e37326bf060be3c54f7177556cb0728e36e363a1819b3.webp",
+    "size": 10494,
+    "source_rel": "hyundai/models/staria/images/1428139a8c7e48d9364e37326bf060be3c54f7177556cb0728e36e363a1819b3.webp"
+  },
+  {
+    "filename": "145ec38ca2e7ab41c14892b2d70a738850251239b27f6265dbe0fca9e23e867f.webp",
+    "size": 7452,
+    "source_rel": "hyundai/models/staria/images/145ec38ca2e7ab41c14892b2d70a738850251239b27f6265dbe0fca9e23e867f.webp"
+  },
+  {
+    "filename": "14c082f5262dc054c308098b33dec4347b1ae7f218a4726526f20a06552566e6.webp",
+    "size": 6456,
+    "source_rel": "hyundai/models/staria/images/14c082f5262dc054c308098b33dec4347b1ae7f218a4726526f20a06552566e6.webp"
+  },
+  {
+    "filename": "1545356ce837ec366061a57f7e8e66185145256df206f32b184d96291a882c5c.webp",
+    "size": 6726,
+    "source_rel": "hyundai/models/staria/images/1545356ce837ec366061a57f7e8e66185145256df206f32b184d96291a882c5c.webp"
+  },
+  {
+    "filename": "154bcd2291b93ae6392be41a574217adc498319a668945a7ddaea2f96f050744.webp",
+    "size": 86878,
+    "source_rel": "hyundai/models/staria/images/154bcd2291b93ae6392be41a574217adc498319a668945a7ddaea2f96f050744.webp"
+  },
+  {
+    "filename": "1570ee2ceacf1195a9255e7bc0ce26a3e75be81a5512be0ae732f94070a9846b.webp",
+    "size": 14738,
+    "source_rel": "hyundai/models/staria/images/1570ee2ceacf1195a9255e7bc0ce26a3e75be81a5512be0ae732f94070a9846b.webp"
+  },
+  {
+    "filename": "15a3303461cf9e881fc2dd435bcc0d84d2f2dfa87318c8b26c0dae5757bfdd07.webp",
+    "size": 8566,
+    "source_rel": "hyundai/models/staria/images/15a3303461cf9e881fc2dd435bcc0d84d2f2dfa87318c8b26c0dae5757bfdd07.webp"
+  },
+  {
+    "filename": "15c456724b9e224c55e090457c4250842f453b93a47ddba78f29a6a56a85ebf2.webp",
+    "size": 89486,
+    "source_rel": "hyundai/models/staria/images/15c456724b9e224c55e090457c4250842f453b93a47ddba78f29a6a56a85ebf2.webp"
+  },
+  {
+    "filename": "15d497f201edbfdc90f422c78d22c50ee39907cb14308fb52071a14f8b51b5df.webp",
+    "size": 7630,
+    "source_rel": "hyundai/models/staria/images/15d497f201edbfdc90f422c78d22c50ee39907cb14308fb52071a14f8b51b5df.webp"
+  },
+  {
+    "filename": "15f9464f67cdfe1d439518c059b357a343dc16277d2d4cec0b5a70d5dbffa4a7.webp",
+    "size": 6196,
+    "source_rel": "hyundai/models/staria/images/15f9464f67cdfe1d439518c059b357a343dc16277d2d4cec0b5a70d5dbffa4a7.webp"
+  },
+  {
+    "filename": "1601149c65062825a9638fa5ef6ce5fd97b81d2629c0fc3b8a871aa665310ec1.webp",
+    "size": 4842,
+    "source_rel": "hyundai/models/staria/images/1601149c65062825a9638fa5ef6ce5fd97b81d2629c0fc3b8a871aa665310ec1.webp"
+  },
+  {
+    "filename": "16268336f34d95f2526bce56d5aa5947d9f9551fa4acfb43a084b51983ced271.webp",
+    "size": 21340,
+    "source_rel": "hyundai/models/staria/images/16268336f34d95f2526bce56d5aa5947d9f9551fa4acfb43a084b51983ced271.webp"
+  },
+  {
+    "filename": "16304bed29322448b6518c4f181ab6be37244d1d02ca2aec12de86c110d254e0.webp",
+    "size": 3294,
+    "source_rel": "hyundai/models/staria/images/16304bed29322448b6518c4f181ab6be37244d1d02ca2aec12de86c110d254e0.webp"
+  },
+  {
+    "filename": "16324fcbc987e52da9c6e72b9a536f3eba48b3c4ee0600e580b5935093a9bf65.webp",
+    "size": 5984,
+    "source_rel": "hyundai/models/staria/images/16324fcbc987e52da9c6e72b9a536f3eba48b3c4ee0600e580b5935093a9bf65.webp"
+  },
+  {
+    "filename": "16c2171101df1dc9d8d4fcde8d7d333ab94ebf00a2b41c1b3f8cb73285454a93.webp",
+    "size": 488,
+    "source_rel": "hyundai/models/staria/images/16c2171101df1dc9d8d4fcde8d7d333ab94ebf00a2b41c1b3f8cb73285454a93.webp"
+  },
+  {
+    "filename": "17182672bd22466a2ad9e9cd953ad5bdc7f4a654c5a9d66c655124917b3624a4.webp",
+    "size": 17048,
+    "source_rel": "hyundai/models/staria/images/17182672bd22466a2ad9e9cd953ad5bdc7f4a654c5a9d66c655124917b3624a4.webp"
+  },
+  {
+    "filename": "174561845c72005a64068c92f29d0d9f1974ca7d547868f6700dd8f814335a0d.webp",
+    "size": 2372,
+    "source_rel": "hyundai/models/staria/images/174561845c72005a64068c92f29d0d9f1974ca7d547868f6700dd8f814335a0d.webp"
+  },
+  {
+    "filename": "17469a2b1c85eb6c46b8f096245e8287cd2cf655bafad0e13e82c197294d4378.webp",
+    "size": 10630,
+    "source_rel": "hyundai/models/staria/images/17469a2b1c85eb6c46b8f096245e8287cd2cf655bafad0e13e82c197294d4378.webp"
+  },
+  {
+    "filename": "178423873898a3dfb30fdad76ea97b09974d6f2649d3c96fbd727609c97e5f5c.webp",
+    "size": 7420,
+    "source_rel": "hyundai/models/staria/images/178423873898a3dfb30fdad76ea97b09974d6f2649d3c96fbd727609c97e5f5c.webp"
+  },
+  {
+    "filename": "17851774182ffe0677662123631c7accca140905f99cc78784f208bcdea3b5a4.webp",
+    "size": 2900,
+    "source_rel": "hyundai/models/staria/images/17851774182ffe0677662123631c7accca140905f99cc78784f208bcdea3b5a4.webp"
+  },
+  {
+    "filename": "17a02c61d619724e55fcdf0cd428b3b4c7d2afa89848ff678b81a5236b29b9aa.webp",
+    "size": 17564,
+    "source_rel": "hyundai/models/staria/images/17a02c61d619724e55fcdf0cd428b3b4c7d2afa89848ff678b81a5236b29b9aa.webp"
+  },
+  {
+    "filename": "17ba29c4d4700c23c3f96597bb7a010b3eb82946547387fc7ec7a0e266caba37.webp",
+    "size": 17426,
+    "source_rel": "hyundai/models/staria/images/17ba29c4d4700c23c3f96597bb7a010b3eb82946547387fc7ec7a0e266caba37.webp"
+  },
+  {
+    "filename": "17e8dd0444590c4decd8a499ce0c2a3c0d4984ac336f59dba53fb6455ff3cb6d.webp",
+    "size": 18092,
+    "source_rel": "hyundai/models/staria/images/17e8dd0444590c4decd8a499ce0c2a3c0d4984ac336f59dba53fb6455ff3cb6d.webp"
+  },
+  {
+    "filename": "1809135d05928574c234992788ff8b1f3ba7a22e539646feaf89bffe5f85acaf.webp",
+    "size": 22094,
+    "source_rel": "hyundai/models/staria/images/1809135d05928574c234992788ff8b1f3ba7a22e539646feaf89bffe5f85acaf.webp"
+  },
+  {
+    "filename": "183a972fcb27fd2263e4185ace137592a58b0dea4543245b5b70e96122bebf1b.webp",
+    "size": 23402,
+    "source_rel": "hyundai/models/staria/images/183a972fcb27fd2263e4185ace137592a58b0dea4543245b5b70e96122bebf1b.webp"
+  },
+  {
+    "filename": "18533a9cd42617a29be5413ab694891fe2f0109ede4a6dcfd95c8b791778381a.webp",
+    "size": 17988,
+    "source_rel": "hyundai/models/staria/images/18533a9cd42617a29be5413ab694891fe2f0109ede4a6dcfd95c8b791778381a.webp"
+  },
+  {
+    "filename": "187965bb0393b0941320a76cb7bc5ca6ba59ab1f245b95bc1fe27afb55758471.webp",
+    "size": 31512,
+    "source_rel": "hyundai/models/staria/images/187965bb0393b0941320a76cb7bc5ca6ba59ab1f245b95bc1fe27afb55758471.webp"
+  },
+  {
+    "filename": "18d10ae0b57c84fec0d32f1a51c56c191ea99b0a6a4c388a5ae460ff0c9afc1b.webp",
+    "size": 1866,
+    "source_rel": "hyundai/models/staria/images/18d10ae0b57c84fec0d32f1a51c56c191ea99b0a6a4c388a5ae460ff0c9afc1b.webp"
+  },
+  {
+    "filename": "18db6ef26f2b178c69b447adeb8b72e56eb651a4f30574c6d76f2c33e1037097.webp",
+    "size": 40492,
+    "source_rel": "hyundai/models/staria/images/18db6ef26f2b178c69b447adeb8b72e56eb651a4f30574c6d76f2c33e1037097.webp"
+  },
+  {
+    "filename": "18f9410d15c2b8a39f52059e6f33137694bc35b9d197c7964d91cb5697634878.webp",
+    "size": 22094,
+    "source_rel": "hyundai/models/staria/images/18f9410d15c2b8a39f52059e6f33137694bc35b9d197c7964d91cb5697634878.webp"
+  },
+  {
+    "filename": "1909cc3bed40b8590900a99a29570477723d3b70d99777d1d5f352fde5550cac.webp",
+    "size": 28458,
+    "source_rel": "hyundai/models/staria/images/1909cc3bed40b8590900a99a29570477723d3b70d99777d1d5f352fde5550cac.webp"
+  },
+  {
+    "filename": "19675ecd6106f1803d0281c850ce4cde8c7db5f2761d5a9061992ca5d5e2d002.webp",
+    "size": 12986,
+    "source_rel": "hyundai/models/staria/images/19675ecd6106f1803d0281c850ce4cde8c7db5f2761d5a9061992ca5d5e2d002.webp"
+  },
+  {
+    "filename": "197baabab4b8e44afa3b7e16cbe30dd166159f075d8d060dfca5ad3969c3d8c7.webp",
+    "size": 11802,
+    "source_rel": "hyundai/models/staria/images/197baabab4b8e44afa3b7e16cbe30dd166159f075d8d060dfca5ad3969c3d8c7.webp"
+  },
+  {
+    "filename": "1982d950478baa40a78f7733754e947fc67ae6bb4a4a7b6bb64314ad17866bec.webp",
+    "size": 520,
+    "source_rel": "hyundai/models/staria/images/1982d950478baa40a78f7733754e947fc67ae6bb4a4a7b6bb64314ad17866bec.webp"
+  },
+  {
+    "filename": "19b0d980d8e01e18a8059388b9a7bf541759121f1d42e07b7e534e7583d49dfc.webp",
+    "size": 12378,
+    "source_rel": "hyundai/models/staria/images/19b0d980d8e01e18a8059388b9a7bf541759121f1d42e07b7e534e7583d49dfc.webp"
+  },
+  {
+    "filename": "19c6b3cad9ec06fa4b3bf671e77024d53938607e37175af6058ad0a94f7e5466.webp",
+    "size": 3420,
+    "source_rel": "hyundai/models/staria/images/19c6b3cad9ec06fa4b3bf671e77024d53938607e37175af6058ad0a94f7e5466.webp"
+  },
+  {
+    "filename": "19f3f0ef9800a852f09f1f140b79355366f9d3db6856c97901aa269eaaf4160f.webp",
+    "size": 14190,
+    "source_rel": "hyundai/models/staria/images/19f3f0ef9800a852f09f1f140b79355366f9d3db6856c97901aa269eaaf4160f.webp"
+  },
+  {
+    "filename": "1a09eec72fe66718fd7b2b1e1bc4fa9f53a43b9437b67fbff1d6fa0329a8808c.webp",
+    "size": 9076,
+    "source_rel": "hyundai/models/staria/images/1a09eec72fe66718fd7b2b1e1bc4fa9f53a43b9437b67fbff1d6fa0329a8808c.webp"
+  },
+  {
+    "filename": "1a0b3e0ad10919033cd15847200f12e74cee57abaf2ddca30df56d78c98e4a86.webp",
+    "size": 5438,
+    "source_rel": "hyundai/models/staria/images/1a0b3e0ad10919033cd15847200f12e74cee57abaf2ddca30df56d78c98e4a86.webp"
+  },
+  {
+    "filename": "1a2f30f8374a6e224e5b29d2944d172551de660f202bdd2768a2a258616f72aa.webp",
+    "size": 9078,
+    "source_rel": "hyundai/models/staria/images/1a2f30f8374a6e224e5b29d2944d172551de660f202bdd2768a2a258616f72aa.webp"
+  },
+  {
+    "filename": "1a4cf8f67e4e9f99237e66e10a25f92ca0ab36e1db3d479d81e4fe84f439b66c.webp",
+    "size": 9494,
+    "source_rel": "hyundai/models/staria/images/1a4cf8f67e4e9f99237e66e10a25f92ca0ab36e1db3d479d81e4fe84f439b66c.webp"
+  },
+  {
+    "filename": "1a5e63cf9829351bd7f73e717cddda17e2249fa02f1a3327d722322bf5dd079f.webp",
+    "size": 11104,
+    "source_rel": "hyundai/models/staria/images/1a5e63cf9829351bd7f73e717cddda17e2249fa02f1a3327d722322bf5dd079f.webp"
+  },
+  {
+    "filename": "1a6d6414c371e360431ee2d4f3a0044403c3ea275e434313681b9beba7758953.webp",
+    "size": 1912,
+    "source_rel": "hyundai/models/staria/images/1a6d6414c371e360431ee2d4f3a0044403c3ea275e434313681b9beba7758953.webp"
+  },
+  {
+    "filename": "1a9c20bfe9bb20e7a42aba6dcf01e227562c34b5dbe9ba0604e8b203c5f89cf0.webp",
+    "size": 4622,
+    "source_rel": "hyundai/models/staria/images/1a9c20bfe9bb20e7a42aba6dcf01e227562c34b5dbe9ba0604e8b203c5f89cf0.webp"
+  },
+  {
+    "filename": "1ac0184f684a160c9bd0c0f4b08ac4011bd6e40ddb8033595915c7c741086fc6.webp",
+    "size": 58160,
+    "source_rel": "hyundai/models/staria/images/1ac0184f684a160c9bd0c0f4b08ac4011bd6e40ddb8033595915c7c741086fc6.webp"
+  },
+  {
+    "filename": "1ae7f5f147423ef1a8e344915fdfe2befb3d4bda567000bc7d7a648121c29265.webp",
+    "size": 7986,
+    "source_rel": "hyundai/models/staria/images/1ae7f5f147423ef1a8e344915fdfe2befb3d4bda567000bc7d7a648121c29265.webp"
+  },
+  {
+    "filename": "1b0bee50392e307f075664dc5f022d304d94fe1355aa97dad9b5b80c0769aada.webp",
+    "size": 12046,
+    "source_rel": "hyundai/models/staria/images/1b0bee50392e307f075664dc5f022d304d94fe1355aa97dad9b5b80c0769aada.webp"
+  },
+  {
+    "filename": "1b1717e37e29f5eeff2b4bdace8d110b36965f1d6f7e105eae636a057d76c7cd.webp",
+    "size": 95004,
+    "source_rel": "hyundai/models/staria/images/1b1717e37e29f5eeff2b4bdace8d110b36965f1d6f7e105eae636a057d76c7cd.webp"
+  },
+  {
+    "filename": "1b3288d7755aa7ff7f74ea9369795ce3dec8cb0bc5a590bab5546aa933594570.webp",
+    "size": 2798,
+    "source_rel": "hyundai/models/staria/images/1b3288d7755aa7ff7f74ea9369795ce3dec8cb0bc5a590bab5546aa933594570.webp"
+  },
+  {
+    "filename": "1b3ed29acee757b33e879b176c3e81c8e86f0cdbbaa575c6ac78fa2bf2e902ac.webp",
+    "size": 13756,
+    "source_rel": "hyundai/models/staria/images/1b3ed29acee757b33e879b176c3e81c8e86f0cdbbaa575c6ac78fa2bf2e902ac.webp"
+  },
+  {
+    "filename": "1b4bc97bb7aff6622c373bc74d681bd3ef9f4b3d2e87f306502b0b73ae089408.webp",
+    "size": 8540,
+    "source_rel": "hyundai/models/staria/images/1b4bc97bb7aff6622c373bc74d681bd3ef9f4b3d2e87f306502b0b73ae089408.webp"
+  },
+  {
+    "filename": "1b7baf26d2542fa1f10cf5c9367523ee82ceb4adb5b02596a54acfa968b3d3e3.webp",
+    "size": 10148,
+    "source_rel": "hyundai/models/staria/images/1b7baf26d2542fa1f10cf5c9367523ee82ceb4adb5b02596a54acfa968b3d3e3.webp"
+  },
+  {
+    "filename": "1b8130a56e87e1320b67d430a5964db13920ed25329a875535893cab6b47fd0c.webp",
+    "size": 1792,
+    "source_rel": "hyundai/models/staria/images/1b8130a56e87e1320b67d430a5964db13920ed25329a875535893cab6b47fd0c.webp"
+  },
+  {
+    "filename": "1b879531ea3e3727217340082af73abec79c27aa6c300adf02035048b2e72ac8.webp",
+    "size": 3512,
+    "source_rel": "hyundai/models/staria/images/1b879531ea3e3727217340082af73abec79c27aa6c300adf02035048b2e72ac8.webp"
+  },
+  {
+    "filename": "1bf3eb6e4dfa571b750a10e7124be7ece4518313ba8436c0bc2cbb2dc7d7ba56.webp",
+    "size": 12520,
+    "source_rel": "hyundai/models/staria/images/1bf3eb6e4dfa571b750a10e7124be7ece4518313ba8436c0bc2cbb2dc7d7ba56.webp"
+  },
+  {
+    "filename": "1bfa5801bc2c36b4dea897450623803b0a06852ad80d08a9aee4f5d249a0db72.webp",
+    "size": 9886,
+    "source_rel": "hyundai/models/staria/images/1bfa5801bc2c36b4dea897450623803b0a06852ad80d08a9aee4f5d249a0db72.webp"
+  },
+  {
+    "filename": "1c048413b5f1e15db656ece18f8f3ffbc99ca4565d8b338737291890aefb1f47.webp",
+    "size": 5870,
+    "source_rel": "hyundai/models/staria/images/1c048413b5f1e15db656ece18f8f3ffbc99ca4565d8b338737291890aefb1f47.webp"
+  },
+  {
+    "filename": "1c228056737b966ab666bc44aa94f1908fd92db66f38962b1fc2d085d1fcb4f6.webp",
+    "size": 82910,
+    "source_rel": "hyundai/models/staria/images/1c228056737b966ab666bc44aa94f1908fd92db66f38962b1fc2d085d1fcb4f6.webp"
+  },
+  {
+    "filename": "1c35181992c2d445a9b3547d788c5318cde9fd1329518ec0746805c69ecfdaa6.webp",
+    "size": 18566,
+    "source_rel": "hyundai/models/staria/images/1c35181992c2d445a9b3547d788c5318cde9fd1329518ec0746805c69ecfdaa6.webp"
+  },
+  {
+    "filename": "1c46d58b0d2711f569e652236813aef82c4fd05e29a551cc69264e469a170be7.webp",
+    "size": 8734,
+    "source_rel": "hyundai/models/staria/images/1c46d58b0d2711f569e652236813aef82c4fd05e29a551cc69264e469a170be7.webp"
+  },
+  {
+    "filename": "1c6b69e3698a639e79621bcc015677ecd860cab93fcd73d7c13a00fcfa11a383.webp",
+    "size": 12590,
+    "source_rel": "hyundai/models/staria/images/1c6b69e3698a639e79621bcc015677ecd860cab93fcd73d7c13a00fcfa11a383.webp"
+  },
+  {
+    "filename": "1c74390ccf41d53b6f3f458ded2a259bed9958464073c7e2d36f772af0532451.webp",
+    "size": 14178,
+    "source_rel": "hyundai/models/staria/images/1c74390ccf41d53b6f3f458ded2a259bed9958464073c7e2d36f772af0532451.webp"
+  },
+  {
+    "filename": "1c7e2baef34367112662e8a24308e356c333a7ddf4c4f093875a696e6d36150d.webp",
+    "size": 29376,
+    "source_rel": "hyundai/models/staria/images/1c7e2baef34367112662e8a24308e356c333a7ddf4c4f093875a696e6d36150d.webp"
+  },
+  {
+    "filename": "1cdad04b984715e2b41581c4ee4e6c2777fbf746aa14488f074c7204fcc0f935.webp",
+    "size": 6994,
+    "source_rel": "hyundai/models/staria/images/1cdad04b984715e2b41581c4ee4e6c2777fbf746aa14488f074c7204fcc0f935.webp"
+  },
+  {
+    "filename": "1ce7d6338487de04f7bd88ec31e610b81a7f6b3ee91ed52141833857c9057c02.webp",
+    "size": 21134,
+    "source_rel": "hyundai/models/staria/images/1ce7d6338487de04f7bd88ec31e610b81a7f6b3ee91ed52141833857c9057c02.webp"
+  },
+  {
+    "filename": "1cecbdbd08d5c5e43a29aa31d978fa9feba345f1bd74f705fcdadad5dbe51450.webp",
+    "size": 8150,
+    "source_rel": "hyundai/models/staria/images/1cecbdbd08d5c5e43a29aa31d978fa9feba345f1bd74f705fcdadad5dbe51450.webp"
+  },
+  {
+    "filename": "1cfcb93f856f8c414af3ad76a8882f5c539bcc7a190d1f83ac045e66cb1beb7e.webp",
+    "size": 8650,
+    "source_rel": "hyundai/models/staria/images/1cfcb93f856f8c414af3ad76a8882f5c539bcc7a190d1f83ac045e66cb1beb7e.webp"
+  },
+  {
+    "filename": "1d0a21fbc8e011f41c25ddbc12625e5d7ca3483721c3b2519cec087730104c3d.webp",
+    "size": 16570,
+    "source_rel": "hyundai/models/staria/images/1d0a21fbc8e011f41c25ddbc12625e5d7ca3483721c3b2519cec087730104c3d.webp"
+  },
+  {
+    "filename": "1d3ddbbb22823fb57fbd028150f44a9f59f15a841f9e7c33b8bd9f958876e84c.webp",
+    "size": 2818,
+    "source_rel": "hyundai/models/staria/images/1d3ddbbb22823fb57fbd028150f44a9f59f15a841f9e7c33b8bd9f958876e84c.webp"
+  },
+  {
+    "filename": "1d6e96251142c8afe85d167c86b923d154b234586ff68161d7d840d12d057b0c.webp",
+    "size": 6802,
+    "source_rel": "hyundai/models/staria/images/1d6e96251142c8afe85d167c86b923d154b234586ff68161d7d840d12d057b0c.webp"
+  },
+  {
+    "filename": "1da0319bd77e56af3a3b4f56da60f2c0af3751b26fe895b12a5e27e6c33349d3.webp",
+    "size": 19874,
+    "source_rel": "hyundai/models/staria/images/1da0319bd77e56af3a3b4f56da60f2c0af3751b26fe895b12a5e27e6c33349d3.webp"
+  },
+  {
+    "filename": "1e2934241fa6c4524fcc6ec7de5a0e0a2c5de8c7c6028d8570549c897102be8e.webp",
+    "size": 11818,
+    "source_rel": "hyundai/models/staria/images/1e2934241fa6c4524fcc6ec7de5a0e0a2c5de8c7c6028d8570549c897102be8e.webp"
+  },
+  {
+    "filename": "1e4b35bfa605e9a6f0385936b1c2a49bdd751fc490aa5d6e40de7ea153c4b528.webp",
+    "size": 8588,
+    "source_rel": "hyundai/models/staria/images/1e4b35bfa605e9a6f0385936b1c2a49bdd751fc490aa5d6e40de7ea153c4b528.webp"
+  },
+  {
+    "filename": "1e6db8e2329ab2cc94a25f78793a5425b475bd9c634409f133ead90f34d61690.webp",
+    "size": 13988,
+    "source_rel": "hyundai/models/staria/images/1e6db8e2329ab2cc94a25f78793a5425b475bd9c634409f133ead90f34d61690.webp"
+  },
+  {
+    "filename": "1e7375245da858ef20d2bae5117fff2256e8969d1b5a0cc5507aa597a559036c.webp",
+    "size": 7362,
+    "source_rel": "hyundai/models/staria/images/1e7375245da858ef20d2bae5117fff2256e8969d1b5a0cc5507aa597a559036c.webp"
+  },
+  {
+    "filename": "1e91c0a4c1f913e5765b459e6bea2b59a4c47e5740a0e0f4269bba81c92163ea.webp",
+    "size": 8844,
+    "source_rel": "hyundai/models/staria/images/1e91c0a4c1f913e5765b459e6bea2b59a4c47e5740a0e0f4269bba81c92163ea.webp"
+  },
+  {
+    "filename": "1e94163a140d913c911a494c1033bd57f94dbb22fba2ecd90804f481115244c0.webp",
+    "size": 37700,
+    "source_rel": "hyundai/models/staria/images/1e94163a140d913c911a494c1033bd57f94dbb22fba2ecd90804f481115244c0.webp"
+  },
+  {
+    "filename": "1eb8322e7526de358ef8402d3b96ca3fd1b4aa2a4c17f62d2ee6a96286e14326.webp",
+    "size": 2174,
+    "source_rel": "hyundai/models/staria/images/1eb8322e7526de358ef8402d3b96ca3fd1b4aa2a4c17f62d2ee6a96286e14326.webp"
+  },
+  {
+    "filename": "1eddbf7d569c4e9ed6f1888453135283aba8d4cc68ffca66513c19b0be79ea90.webp",
+    "size": 38950,
+    "source_rel": "hyundai/models/staria/images/1eddbf7d569c4e9ed6f1888453135283aba8d4cc68ffca66513c19b0be79ea90.webp"
+  },
+  {
+    "filename": "1ee33eedec8e0534078f6b096dd916e1d990235ba064a813981d4d901dbaf3fb.webp",
+    "size": 22110,
+    "source_rel": "hyundai/models/staria/images/1ee33eedec8e0534078f6b096dd916e1d990235ba064a813981d4d901dbaf3fb.webp"
+  },
+  {
+    "filename": "1efbd1f320c048758d60dc2117bd9b931ddcba87c69a95817ec617850045c70f.webp",
+    "size": 13122,
+    "source_rel": "hyundai/models/staria/images/1efbd1f320c048758d60dc2117bd9b931ddcba87c69a95817ec617850045c70f.webp"
+  },
+  {
+    "filename": "1f5034cf506d239cd28085130ebf43870a778b5aac46f7b05efbccb4417fb46b.webp",
+    "size": 27242,
+    "source_rel": "hyundai/models/staria/images/1f5034cf506d239cd28085130ebf43870a778b5aac46f7b05efbccb4417fb46b.webp"
+  },
+  {
+    "filename": "1f834190d355b4e79457281777fb3183b0e9c35ef8bb8cf44c9759ef53e4301f.webp",
+    "size": 12048,
+    "source_rel": "hyundai/models/staria/images/1f834190d355b4e79457281777fb3183b0e9c35ef8bb8cf44c9759ef53e4301f.webp"
+  },
+  {
+    "filename": "1fce58be14999761ffd3008bfec15d7bbd709c5a9b3727332d75fee72fcbe091.webp",
+    "size": 30998,
+    "source_rel": "hyundai/models/staria/images/1fce58be14999761ffd3008bfec15d7bbd709c5a9b3727332d75fee72fcbe091.webp"
+  },
+  {
+    "filename": "1fe3faa2a8e28042aa0b3c966ffd8f16db69135ca1c247ee3b5e3f0b2022201a.webp",
+    "size": 520,
+    "source_rel": "hyundai/models/staria/images/1fe3faa2a8e28042aa0b3c966ffd8f16db69135ca1c247ee3b5e3f0b2022201a.webp"
+  },
+  {
+    "filename": "2035504e6e51b0d41872ccabc19815ce5aa040454fa6b0d3063ad89d2da88ada.webp",
+    "size": 9974,
+    "source_rel": "hyundai/models/staria/images/2035504e6e51b0d41872ccabc19815ce5aa040454fa6b0d3063ad89d2da88ada.webp"
+  },
+  {
+    "filename": "20368d89fc00af3e0423ea1ac46534de8241192c7780532a6bbea3c557cb1d5d.webp",
+    "size": 10284,
+    "source_rel": "hyundai/models/staria/images/20368d89fc00af3e0423ea1ac46534de8241192c7780532a6bbea3c557cb1d5d.webp"
+  },
+  {
+    "filename": "203f5f22a1a6a63662742588b3280325d106022f3a5df3cf07308de7934ef932.webp",
+    "size": 19026,
+    "source_rel": "hyundai/models/staria/images/203f5f22a1a6a63662742588b3280325d106022f3a5df3cf07308de7934ef932.webp"
+  },
+  {
+    "filename": "204d870c85e7d954ee93fc85dcb4c25b6cf59ad6552754ad2c41f130037f4c99.webp",
+    "size": 7206,
+    "source_rel": "hyundai/models/staria/images/204d870c85e7d954ee93fc85dcb4c25b6cf59ad6552754ad2c41f130037f4c99.webp"
+  },
+  {
+    "filename": "205799a50ce6ef1a3e329cded2546eeb2816f8bc88e4e0c997bc919541153d42.webp",
+    "size": 28524,
+    "source_rel": "hyundai/models/staria/images/205799a50ce6ef1a3e329cded2546eeb2816f8bc88e4e0c997bc919541153d42.webp"
+  },
+  {
+    "filename": "20b1f699db81efd6daee63fe9f6d471c157cda8823b188f7c9506ca23db8c6ef.webp",
+    "size": 9244,
+    "source_rel": "hyundai/models/staria/images/20b1f699db81efd6daee63fe9f6d471c157cda8823b188f7c9506ca23db8c6ef.webp"
+  },
+  {
+    "filename": "20bbb70370a1661041770d7160ebf30c38c3d56165a7b5ffaabdb601ee94144a.webp",
+    "size": 16448,
+    "source_rel": "hyundai/models/staria/images/20bbb70370a1661041770d7160ebf30c38c3d56165a7b5ffaabdb601ee94144a.webp"
+  },
+  {
+    "filename": "20d26cc3175d17f515d7897d8bb0ebec08144d86e9d56ce11d7beecc90f7f0b1.webp",
+    "size": 2634,
+    "source_rel": "hyundai/models/staria/images/20d26cc3175d17f515d7897d8bb0ebec08144d86e9d56ce11d7beecc90f7f0b1.webp"
+  },
+  {
+    "filename": "2197ecd468ed5c25998530655ef27ed98143cf13ef2d79e663d54a88e6dfb47a.webp",
+    "size": 40492,
+    "source_rel": "hyundai/models/staria/images/2197ecd468ed5c25998530655ef27ed98143cf13ef2d79e663d54a88e6dfb47a.webp"
+  },
+  {
+    "filename": "21e49528da346a8d50a27da55bcc62390a658e1764f1a9d728d268bb1910dabb.webp",
+    "size": 17978,
+    "source_rel": "hyundai/models/staria/images/21e49528da346a8d50a27da55bcc62390a658e1764f1a9d728d268bb1910dabb.webp"
+  },
+  {
+    "filename": "21f5e99567fdf8756f935808e25534d61a9e3180abc5445dee5c7fde1991126f.webp",
+    "size": 60946,
+    "source_rel": "hyundai/models/staria/images/21f5e99567fdf8756f935808e25534d61a9e3180abc5445dee5c7fde1991126f.webp"
+  },
+  {
+    "filename": "21feb6bf05939e5804ff0300f6ef56ed8f80d656f9fe6f659658ec6681f0440c.webp",
+    "size": 6848,
+    "source_rel": "hyundai/models/staria/images/21feb6bf05939e5804ff0300f6ef56ed8f80d656f9fe6f659658ec6681f0440c.webp"
+  },
+  {
+    "filename": "220111c5bc311ddc5cecde84b06b1ee2be3b1978ed25b6167311ff3fd55b1701.webp",
+    "size": 8044,
+    "source_rel": "hyundai/models/staria/images/220111c5bc311ddc5cecde84b06b1ee2be3b1978ed25b6167311ff3fd55b1701.webp"
+  },
+  {
+    "filename": "222ef5cdd00b8dd14c4b5788925114c15054cae754a5caa6b8106840fa1b813e.webp",
+    "size": 44016,
+    "source_rel": "hyundai/models/staria/images/222ef5cdd00b8dd14c4b5788925114c15054cae754a5caa6b8106840fa1b813e.webp"
+  },
+  {
+    "filename": "225e27d92a72be791238ccb8e537941aa6d8303de4518384b1916c2ab1e92711.webp",
+    "size": 31492,
+    "source_rel": "hyundai/models/staria/images/225e27d92a72be791238ccb8e537941aa6d8303de4518384b1916c2ab1e92711.webp"
+  },
+  {
+    "filename": "22f38e934331934d25254d7de468ecc8f2d0b22ad0e6486444df7111fc661938.webp",
+    "size": 12960,
+    "source_rel": "hyundai/models/staria/images/22f38e934331934d25254d7de468ecc8f2d0b22ad0e6486444df7111fc661938.webp"
+  },
+  {
+    "filename": "22f722001a366958e44c700d73598239b5c30c8cae8c221ecc09bbf0ca283586.webp",
+    "size": 9452,
+    "source_rel": "hyundai/models/staria/images/22f722001a366958e44c700d73598239b5c30c8cae8c221ecc09bbf0ca283586.webp"
+  },
+  {
+    "filename": "23db193c47b7f8152ce85b5fc0ef1d8eaea2a1e634149f3c81adc0337a44091d.webp",
+    "size": 7612,
+    "source_rel": "hyundai/models/staria/images/23db193c47b7f8152ce85b5fc0ef1d8eaea2a1e634149f3c81adc0337a44091d.webp"
+  },
+  {
+    "filename": "23f48182f0acd63986aef38bfea79d3ecacb9490006626e5e9b4d5e53e7397e9.webp",
+    "size": 7560,
+    "source_rel": "hyundai/models/staria/images/23f48182f0acd63986aef38bfea79d3ecacb9490006626e5e9b4d5e53e7397e9.webp"
+  },
+  {
+    "filename": "2433464735ebf18f1bacbe61fe0384976e19074adb710686f9261503406f58e2.webp",
+    "size": 3146,
+    "source_rel": "hyundai/models/staria/images/2433464735ebf18f1bacbe61fe0384976e19074adb710686f9261503406f58e2.webp"
+  },
+  {
+    "filename": "243658c631cac6ad7640e43f74608329295efd9f1cfa0d0897020c5f0eeaf471.webp",
+    "size": 14448,
+    "source_rel": "hyundai/models/staria/images/243658c631cac6ad7640e43f74608329295efd9f1cfa0d0897020c5f0eeaf471.webp"
+  },
+  {
+    "filename": "2491cd86b5bb60c24704c40e2b5a59eafcf9e33b0c2ec1c55ce7cf427767974e.webp",
+    "size": 6236,
+    "source_rel": "hyundai/models/staria/images/2491cd86b5bb60c24704c40e2b5a59eafcf9e33b0c2ec1c55ce7cf427767974e.webp"
+  },
+  {
+    "filename": "24e267f6b04d63e91f3288604fde88cdcb586e65329790ad39a5f754b2b2466f.webp",
+    "size": 3360,
+    "source_rel": "hyundai/models/staria/images/24e267f6b04d63e91f3288604fde88cdcb586e65329790ad39a5f754b2b2466f.webp"
+  },
+  {
+    "filename": "24e3df9d7c5a765fede254521c52b8876c451a72f7b906a54d9e1d531e566035.webp",
+    "size": 9752,
+    "source_rel": "hyundai/models/staria/images/24e3df9d7c5a765fede254521c52b8876c451a72f7b906a54d9e1d531e566035.webp"
+  },
+  {
+    "filename": "24e57420058e0d4e15cad650c08a932e43f221a2e3a1f6989254eb2cb7d6637a.webp",
+    "size": 13998,
+    "source_rel": "hyundai/models/staria/images/24e57420058e0d4e15cad650c08a932e43f221a2e3a1f6989254eb2cb7d6637a.webp"
+  },
+  {
+    "filename": "24ebd8a17ec4801c36760c4c8bfc674fb0ed2a86fa670a3d6ecf3aa2be7f3928.webp",
+    "size": 76046,
+    "source_rel": "hyundai/models/staria/images/24ebd8a17ec4801c36760c4c8bfc674fb0ed2a86fa670a3d6ecf3aa2be7f3928.webp"
+  },
+  {
+    "filename": "24fd066154bb08f394acc897f60c4916b45817cb98df7296f9ca51c351409ef2.webp",
+    "size": 10554,
+    "source_rel": "hyundai/models/staria/images/24fd066154bb08f394acc897f60c4916b45817cb98df7296f9ca51c351409ef2.webp"
+  },
+  {
+    "filename": "25334548b733528f7be70e1207832c7e89e8ae1755504a80df48c5f8ff0c0d8f.webp",
+    "size": 16570,
+    "source_rel": "hyundai/models/staria/images/25334548b733528f7be70e1207832c7e89e8ae1755504a80df48c5f8ff0c0d8f.webp"
+  },
+  {
+    "filename": "253e8d474d4b3829e42590c01a08df8fdf2c388277068da7903e3536658a798b.webp",
+    "size": 8190,
+    "source_rel": "hyundai/models/staria/images/253e8d474d4b3829e42590c01a08df8fdf2c388277068da7903e3536658a798b.webp"
+  },
+  {
+    "filename": "2575f6791b1769dee23d454cce8619ef98325f719eec7213adf0d8b7f19ac4f1.webp",
+    "size": 12276,
+    "source_rel": "hyundai/models/staria/images/2575f6791b1769dee23d454cce8619ef98325f719eec7213adf0d8b7f19ac4f1.webp"
+  },
+  {
+    "filename": "257f170d6a19ec0da65ddcd1874b037b5991caf669e2ab5d6d3ad1bda69eb4b9.webp",
+    "size": 9076,
+    "source_rel": "hyundai/models/staria/images/257f170d6a19ec0da65ddcd1874b037b5991caf669e2ab5d6d3ad1bda69eb4b9.webp"
+  },
+  {
+    "filename": "2584b2bc53696b896bd4d62c4a1c41b895869a96bf0049205758565a0e4bd180.webp",
+    "size": 9270,
+    "source_rel": "hyundai/models/staria/images/2584b2bc53696b896bd4d62c4a1c41b895869a96bf0049205758565a0e4bd180.webp"
+  },
+  {
+    "filename": "25bbd4603d969909157642babf221de86f2d43f07d9c3ccf9b7fed8a1f0e9276.webp",
+    "size": 7362,
+    "source_rel": "hyundai/models/staria/images/25bbd4603d969909157642babf221de86f2d43f07d9c3ccf9b7fed8a1f0e9276.webp"
+  },
+  {
+    "filename": "261d7c4e913829bad704c0943b51adc1f0489f4ffb413dafaf81e8919f04f559.webp",
+    "size": 11858,
+    "source_rel": "hyundai/models/staria/images/261d7c4e913829bad704c0943b51adc1f0489f4ffb413dafaf81e8919f04f559.webp"
+  },
+  {
+    "filename": "264717aa1c17d372a41cb1912f23a181c5f74641ab834a9dfe00551987325489.webp",
+    "size": 7100,
+    "source_rel": "hyundai/models/staria/images/264717aa1c17d372a41cb1912f23a181c5f74641ab834a9dfe00551987325489.webp"
+  },
+  {
+    "filename": "265ee1497edf4c8369b06d0f6894304ae05136b3bb813c4a28b635eaaa81ecf6.webp",
+    "size": 15610,
+    "source_rel": "hyundai/models/staria/images/265ee1497edf4c8369b06d0f6894304ae05136b3bb813c4a28b635eaaa81ecf6.webp"
+  },
+  {
+    "filename": "26786935cdf88cee67f4dd710f131b526cab97049b18ccead0f9939d4625c032.webp",
+    "size": 2272,
+    "source_rel": "hyundai/models/staria/images/26786935cdf88cee67f4dd710f131b526cab97049b18ccead0f9939d4625c032.webp"
+  },
+  {
+    "filename": "26794b2605a5d40d2926d89259b3e358ed332c06b5a46c206571776e65b038d9.webp",
+    "size": 2316,
+    "source_rel": "hyundai/models/staria/images/26794b2605a5d40d2926d89259b3e358ed332c06b5a46c206571776e65b038d9.webp"
+  },
+  {
+    "filename": "26a2fac86a4ab9e77f5a6ab929a28fc49ee6b0af0c6220561762f17a73ffe79d.webp",
+    "size": 27012,
+    "source_rel": "hyundai/models/staria/images/26a2fac86a4ab9e77f5a6ab929a28fc49ee6b0af0c6220561762f17a73ffe79d.webp"
+  },
+  {
+    "filename": "2706d3cdf738a45e8ccf3d1c29f8efa89d2ac14799846d9abe97fd0f02a1675b.webp",
+    "size": 15736,
+    "source_rel": "hyundai/models/staria/images/2706d3cdf738a45e8ccf3d1c29f8efa89d2ac14799846d9abe97fd0f02a1675b.webp"
+  },
+  {
+    "filename": "2753fccfed6d958e20fe5613cde2e34a9f8d5ec3e7bea6346289f9eec562801f.webp",
+    "size": 6828,
+    "source_rel": "hyundai/models/staria/images/2753fccfed6d958e20fe5613cde2e34a9f8d5ec3e7bea6346289f9eec562801f.webp"
+  },
+  {
+    "filename": "2773057a50136768828f32518577ec0c1889f3a8209ed08837792adf100d17f3.webp",
+    "size": 99458,
+    "source_rel": "hyundai/models/staria/images/2773057a50136768828f32518577ec0c1889f3a8209ed08837792adf100d17f3.webp"
+  },
+  {
+    "filename": "2788698f11bd8e97745309e911cca8575a7dfae43b3be3d07061c950c982a1de.webp",
+    "size": 89486,
+    "source_rel": "hyundai/models/staria/images/2788698f11bd8e97745309e911cca8575a7dfae43b3be3d07061c950c982a1de.webp"
+  },
+  {
+    "filename": "2856bee833e8f1d2cb1b63c0d4b88d296d1becc2ac6c80f113394d9e332d4987.webp",
+    "size": 8190,
+    "source_rel": "hyundai/models/staria/images/2856bee833e8f1d2cb1b63c0d4b88d296d1becc2ac6c80f113394d9e332d4987.webp"
+  },
+  {
+    "filename": "285eb9547d5ce3227b367248b3c3d7e4654cb3e0c7f3bf4362567f3685a64285.webp",
+    "size": 13932,
+    "source_rel": "hyundai/models/staria/images/285eb9547d5ce3227b367248b3c3d7e4654cb3e0c7f3bf4362567f3685a64285.webp"
+  },
+  {
+    "filename": "28af30ef2bf1e909251639b47181056af091cefb2dcf4f7caa1acfc385ef8d5e.webp",
+    "size": 13486,
+    "source_rel": "hyundai/models/staria/images/28af30ef2bf1e909251639b47181056af091cefb2dcf4f7caa1acfc385ef8d5e.webp"
+  },
+  {
+    "filename": "28c3408531d4ef4c725a877f071a1f03e7fb8a9898eb25a13dd9fb9840088aa3.webp",
+    "size": 12042,
+    "source_rel": "hyundai/models/staria/images/28c3408531d4ef4c725a877f071a1f03e7fb8a9898eb25a13dd9fb9840088aa3.webp"
+  },
+  {
+    "filename": "291f7ffbd97dda3a371289146932b8f4097264673a2fd4d80c7fd8d9c2844e41.webp",
+    "size": 19202,
+    "source_rel": "hyundai/models/staria/images/291f7ffbd97dda3a371289146932b8f4097264673a2fd4d80c7fd8d9c2844e41.webp"
+  },
+  {
+    "filename": "293d86d59b29ef8e869104ce422273033633387260e160738753344f1cfaa702.webp",
+    "size": 5454,
+    "source_rel": "hyundai/models/staria/images/293d86d59b29ef8e869104ce422273033633387260e160738753344f1cfaa702.webp"
+  },
+  {
+    "filename": "2948eef760b7056cd6fc90beefcdcbbfdd8d49f26e28c78e68f8f2db3039075d.webp",
+    "size": 22520,
+    "source_rel": "hyundai/models/staria/images/2948eef760b7056cd6fc90beefcdcbbfdd8d49f26e28c78e68f8f2db3039075d.webp"
+  },
+  {
+    "filename": "299078ba5d93b260fa638983424045812b9cfbf5bdf493401150b1e122e37fb2.webp",
+    "size": 21024,
+    "source_rel": "hyundai/models/staria/images/299078ba5d93b260fa638983424045812b9cfbf5bdf493401150b1e122e37fb2.webp"
+  },
+  {
+    "filename": "29f1255ba27656420f29137db6231cb7fabc463a5e6cf38b7012bdadf0262284.webp",
+    "size": 8126,
+    "source_rel": "hyundai/models/staria/images/29f1255ba27656420f29137db6231cb7fabc463a5e6cf38b7012bdadf0262284.webp"
+  },
+  {
+    "filename": "2a09ce5aea22692859eda10e04d716a9d5a50173a2e1ecc8bd953a8aface3b58.webp",
+    "size": 22210,
+    "source_rel": "hyundai/models/staria/images/2a09ce5aea22692859eda10e04d716a9d5a50173a2e1ecc8bd953a8aface3b58.webp"
+  },
+  {
+    "filename": "2a143e66894755001202c8690d9ef89e6c963ef1ecc9b8ebabf7239fb69ed45e.webp",
+    "size": 37974,
+    "source_rel": "hyundai/models/staria/images/2a143e66894755001202c8690d9ef89e6c963ef1ecc9b8ebabf7239fb69ed45e.webp"
+  },
+  {
+    "filename": "2a24bb992392097292e77faa61ce3ed93510cb5a2eb63aeaaa9fcbba11f3fd53.webp",
+    "size": 574,
+    "source_rel": "hyundai/models/staria/images/2a24bb992392097292e77faa61ce3ed93510cb5a2eb63aeaaa9fcbba11f3fd53.webp"
+  },
+  {
+    "filename": "2a723f57f453e61940c826f9f1863c881e2b7c7e05b8eaaa550af97169d29c41.webp",
+    "size": 14590,
+    "source_rel": "hyundai/models/staria/images/2a723f57f453e61940c826f9f1863c881e2b7c7e05b8eaaa550af97169d29c41.webp"
+  },
+  {
+    "filename": "2a883540038a33d6035e1d6d12afe7a4b91cad29071dfff2f8091578c64028af.webp",
+    "size": 6070,
+    "source_rel": "hyundai/models/staria/images/2a883540038a33d6035e1d6d12afe7a4b91cad29071dfff2f8091578c64028af.webp"
+  },
+  {
+    "filename": "2a89578e07a1be4b80004ef16f751a0db5b04b015c2c45ddb08506679dd0fda1.webp",
+    "size": 17288,
+    "source_rel": "hyundai/models/staria/images/2a89578e07a1be4b80004ef16f751a0db5b04b015c2c45ddb08506679dd0fda1.webp"
+  },
+  {
+    "filename": "2ac59d7b6e13b70e677f6cb6a0587ee4d50ce9303fb973cc6b5c468a0ba70ed9.webp",
+    "size": 12290,
+    "source_rel": "hyundai/models/staria/images/2ac59d7b6e13b70e677f6cb6a0587ee4d50ce9303fb973cc6b5c468a0ba70ed9.webp"
+  },
+  {
+    "filename": "2afa197aa142c4b5b7ac0b06d62f904fb0f993b62783d9df31d9506fa29a4302.webp",
+    "size": 24352,
+    "source_rel": "hyundai/models/staria/images/2afa197aa142c4b5b7ac0b06d62f904fb0f993b62783d9df31d9506fa29a4302.webp"
+  },
+  {
+    "filename": "2b6a98963f170e98c406c6c96a788ae73339c6c9a44c3e3b65b6e906a899db20.webp",
+    "size": 23196,
+    "source_rel": "hyundai/models/staria/images/2b6a98963f170e98c406c6c96a788ae73339c6c9a44c3e3b65b6e906a899db20.webp"
+  },
+  {
+    "filename": "2bd508a7213972622f1957f5f8188118530a4b884f68bc3ee0a6f6f6588eb1ed.webp",
+    "size": 6388,
+    "source_rel": "hyundai/models/staria/images/2bd508a7213972622f1957f5f8188118530a4b884f68bc3ee0a6f6f6588eb1ed.webp"
+  },
+  {
+    "filename": "2bda90015a88cd3e4642e932381439e7a0bd6fcde29f1457a4ff30be26e6061f.webp",
+    "size": 51588,
+    "source_rel": "hyundai/models/staria/images/2bda90015a88cd3e4642e932381439e7a0bd6fcde29f1457a4ff30be26e6061f.webp"
+  },
+  {
+    "filename": "2bf22c8e096b3acc29ae1e6982fff0160642be9f87cbf3df4758f18c1a4ec1f2.webp",
+    "size": 8792,
+    "source_rel": "hyundai/models/staria/images/2bf22c8e096b3acc29ae1e6982fff0160642be9f87cbf3df4758f18c1a4ec1f2.webp"
+  },
+  {
+    "filename": "2bf967e1b217b5f48f201eefcc273bb731424546e2c97fdcceaf9505bb9bd8ab.webp",
+    "size": 8810,
+    "source_rel": "hyundai/models/staria/images/2bf967e1b217b5f48f201eefcc273bb731424546e2c97fdcceaf9505bb9bd8ab.webp"
+  },
+  {
+    "filename": "2c42e0d6d498ee15a3841451b227882d76611581ae5b1b0ad716f53ae2c25892.webp",
+    "size": 1866,
+    "source_rel": "hyundai/models/staria/images/2c42e0d6d498ee15a3841451b227882d76611581ae5b1b0ad716f53ae2c25892.webp"
+  },
+  {
+    "filename": "2c43fd1b228a8c3de93b217eebce80c346869c2fb0c424b31bb7fd239d42a95d.webp",
+    "size": 496,
+    "source_rel": "hyundai/models/staria/images/2c43fd1b228a8c3de93b217eebce80c346869c2fb0c424b31bb7fd239d42a95d.webp"
+  },
+  {
+    "filename": "2c572fabd1ddf7c8b7f2d2b839b004c713431b9b6f00e183c606c4b88d9c8b82.webp",
+    "size": 13788,
+    "source_rel": "hyundai/models/staria/images/2c572fabd1ddf7c8b7f2d2b839b004c713431b9b6f00e183c606c4b88d9c8b82.webp"
+  },
+  {
+    "filename": "2ca77580d73f61581972b73b36093f381aa0338fb7b4ba23f872d6ff19afd083.webp",
+    "size": 6350,
+    "source_rel": "hyundai/models/staria/images/2ca77580d73f61581972b73b36093f381aa0338fb7b4ba23f872d6ff19afd083.webp"
+  },
+  {
+    "filename": "2cb21857d0e1921cba64d40d708fc10f7bbda935d37fa1028dbb05c48ca79711.webp",
+    "size": 9076,
+    "source_rel": "hyundai/models/staria/images/2cb21857d0e1921cba64d40d708fc10f7bbda935d37fa1028dbb05c48ca79711.webp"
+  },
+  {
+    "filename": "2cd7c5134d758f48af4e629d16682f2c0ec49ee891a5a216a86a4e1c41597f68.webp",
+    "size": 61570,
+    "source_rel": "hyundai/models/staria/images/2cd7c5134d758f48af4e629d16682f2c0ec49ee891a5a216a86a4e1c41597f68.webp"
+  },
+  {
+    "filename": "2ce0c6fb07849be4d351187fc2e7d883b2120d2c572ff7dfbe6b3fb2d853e411.webp",
+    "size": 4164,
+    "source_rel": "hyundai/models/staria/images/2ce0c6fb07849be4d351187fc2e7d883b2120d2c572ff7dfbe6b3fb2d853e411.webp"
+  },
+  {
+    "filename": "2ce964f76a1e6a7bf888ca212474f593ae78a8b1abead42deb85beb8faa33a93.webp",
+    "size": 9466,
+    "source_rel": "hyundai/models/staria/images/2ce964f76a1e6a7bf888ca212474f593ae78a8b1abead42deb85beb8faa33a93.webp"
+  },
+  {
+    "filename": "2d12ce86d299c2f4aa1aa9d52f2b7a306e2d2a53e8a4b0995f46a78ff8bd9913.webp",
+    "size": 15664,
+    "source_rel": "hyundai/models/staria/images/2d12ce86d299c2f4aa1aa9d52f2b7a306e2d2a53e8a4b0995f46a78ff8bd9913.webp"
+  },
+  {
+    "filename": "2d17167a0428e81a8d27600fb61a1f37f90b3e1352aa2d8b3785164c30bdbfa6.webp",
+    "size": 28458,
+    "source_rel": "hyundai/models/staria/images/2d17167a0428e81a8d27600fb61a1f37f90b3e1352aa2d8b3785164c30bdbfa6.webp"
+  },
+  {
+    "filename": "2d4528056dde5c805f7ba6afcc4179cfd1f34b77b654dacdf663266c3a118712.webp",
+    "size": 62278,
+    "source_rel": "hyundai/models/staria/images/2d4528056dde5c805f7ba6afcc4179cfd1f34b77b654dacdf663266c3a118712.webp"
+  },
+  {
+    "filename": "2dfb230942c81b4d22051699921c046c1466296328ee953f94bfed12d550bd8e.webp",
+    "size": 8768,
+    "source_rel": "hyundai/models/staria/images/2dfb230942c81b4d22051699921c046c1466296328ee953f94bfed12d550bd8e.webp"
+  },
+  {
+    "filename": "2e1af5adb4102912756139ef37357be05230c462d6d27b816fd1f4705fbd973d.webp",
+    "size": 25004,
+    "source_rel": "hyundai/models/staria/images/2e1af5adb4102912756139ef37357be05230c462d6d27b816fd1f4705fbd973d.webp"
+  },
+  {
+    "filename": "2e27018996d19fa4d21f73a55105fa0ab2c3fcd658b03f4a93c15cbb4d4ee5f3.webp",
+    "size": 7732,
+    "source_rel": "hyundai/models/staria/images/2e27018996d19fa4d21f73a55105fa0ab2c3fcd658b03f4a93c15cbb4d4ee5f3.webp"
+  },
+  {
+    "filename": "2ed2b28b19948925e8241793b36d8397bdd1fcd27e8e46a0800038cdb5791d92.webp",
+    "size": 3050,
+    "source_rel": "hyundai/models/staria/images/2ed2b28b19948925e8241793b36d8397bdd1fcd27e8e46a0800038cdb5791d92.webp"
+  },
+  {
+    "filename": "2f101e1c79baf4ba7671e3f1885119f69532b1e9c9bf6a72cde59de162011ec7.webp",
+    "size": 23252,
+    "source_rel": "hyundai/models/staria/images/2f101e1c79baf4ba7671e3f1885119f69532b1e9c9bf6a72cde59de162011ec7.webp"
+  },
+  {
+    "filename": "2f20a98c87546a0f199302e1b2d0b2d8707ec88291be08f208df5270ec747da8.webp",
+    "size": 6956,
+    "source_rel": "hyundai/models/staria/images/2f20a98c87546a0f199302e1b2d0b2d8707ec88291be08f208df5270ec747da8.webp"
+  },
+  {
+    "filename": "2f826cee48195ec5145f2ad6a594315fee86b625a8d4b69aff88d2424acd71c6.webp",
+    "size": 153190,
+    "source_rel": "hyundai/models/staria/images/2f826cee48195ec5145f2ad6a594315fee86b625a8d4b69aff88d2424acd71c6.webp"
+  },
+  {
+    "filename": "2f95d6f3ac160695cdcf48080546b2920a7c03850e681a322f1b0030c247d5b8.webp",
+    "size": 20104,
+    "source_rel": "hyundai/models/staria/images/2f95d6f3ac160695cdcf48080546b2920a7c03850e681a322f1b0030c247d5b8.webp"
+  },
+  {
+    "filename": "2fb3077f96f24567b7742e9e8da2d0677b5f1fa2e1f2b244e5440f2a9ac21f6a.webp",
+    "size": 5972,
+    "source_rel": "hyundai/models/staria/images/2fb3077f96f24567b7742e9e8da2d0677b5f1fa2e1f2b244e5440f2a9ac21f6a.webp"
+  },
+  {
+    "filename": "2fec26b1659622d000ba83d21767272bc1f7c059849a179ca0d51b174f056346.webp",
+    "size": 3500,
+    "source_rel": "hyundai/models/staria/images/2fec26b1659622d000ba83d21767272bc1f7c059849a179ca0d51b174f056346.webp"
+  },
+  {
+    "filename": "3022fdce2d10084cc3fea66b1673c9726c6bc572d861aa59a8871d95c8a31a3e.webp",
+    "size": 14324,
+    "source_rel": "hyundai/models/staria/images/3022fdce2d10084cc3fea66b1673c9726c6bc572d861aa59a8871d95c8a31a3e.webp"
+  },
+  {
+    "filename": "303bbbb5c47ad98c63a0c945d1523d07196f1bcbad41cdae7526152e0fee246f.webp",
+    "size": 132046,
+    "source_rel": "hyundai/models/staria/images/303bbbb5c47ad98c63a0c945d1523d07196f1bcbad41cdae7526152e0fee246f.webp"
+  },
+  {
+    "filename": "3093e075161efb08b757676912a661d8f86a49b708b27018e774210e23f78f98.webp",
+    "size": 17362,
+    "source_rel": "hyundai/models/staria/images/3093e075161efb08b757676912a661d8f86a49b708b27018e774210e23f78f98.webp"
+  },
+  {
+    "filename": "314592558e6bf99c63a2a3e8cccf5b2b765fc7585b905bdabe304eb10de0334d.webp",
+    "size": 3914,
+    "source_rel": "hyundai/models/staria/images/314592558e6bf99c63a2a3e8cccf5b2b765fc7585b905bdabe304eb10de0334d.webp"
+  },
+  {
+    "filename": "31550fd4617398d9d7e3e266014951c3d1cf95fb5ed0a615f125d0fac1227322.webp",
+    "size": 12334,
+    "source_rel": "hyundai/models/staria/images/31550fd4617398d9d7e3e266014951c3d1cf95fb5ed0a615f125d0fac1227322.webp"
+  },
+  {
+    "filename": "31a55faa29c3ccaf6d0174315e3b9eb8aa92eb32550bda19f598462d98500851.webp",
+    "size": 10816,
+    "source_rel": "hyundai/models/staria/images/31a55faa29c3ccaf6d0174315e3b9eb8aa92eb32550bda19f598462d98500851.webp"
+  },
+  {
+    "filename": "31fedf86604fc3bdfef532ee8c0b744b89a6708492b86ea594de33698a3bb756.webp",
+    "size": 1478,
+    "source_rel": "hyundai/models/staria/images/31fedf86604fc3bdfef532ee8c0b744b89a6708492b86ea594de33698a3bb756.webp"
+  },
+  {
+    "filename": "32129348334c081e247a63653f99658fef04569fa78c7d87f37f4f4e3e18c854.webp",
+    "size": 13998,
+    "source_rel": "hyundai/models/staria/images/32129348334c081e247a63653f99658fef04569fa78c7d87f37f4f4e3e18c854.webp"
+  },
+  {
+    "filename": "326e1cb9907026913a1b661e96b7e92cddab0b6a6aab0484dc6bbd7a677bad1e.webp",
+    "size": 40256,
+    "source_rel": "hyundai/models/staria/images/326e1cb9907026913a1b661e96b7e92cddab0b6a6aab0484dc6bbd7a677bad1e.webp"
+  },
+  {
+    "filename": "3276282de3ac8c3f1ec51850336204b9fbb1c6b20b84e1d34b4bbd3c2d6dac89.webp",
+    "size": 14764,
+    "source_rel": "hyundai/models/staria/images/3276282de3ac8c3f1ec51850336204b9fbb1c6b20b84e1d34b4bbd3c2d6dac89.webp"
+  },
+  {
+    "filename": "32e191ac6f0a2a5b45436125977e4bfdae3843df0e5ea3228ddd31590841c589.webp",
+    "size": 93832,
+    "source_rel": "hyundai/models/staria/images/32e191ac6f0a2a5b45436125977e4bfdae3843df0e5ea3228ddd31590841c589.webp"
+  },
+  {
+    "filename": "32e214b2c3f89b7f440fa34d80adf546134f50266f4b99f470cec96adad9e5e9.webp",
+    "size": 9514,
+    "source_rel": "hyundai/models/staria/images/32e214b2c3f89b7f440fa34d80adf546134f50266f4b99f470cec96adad9e5e9.webp"
+  },
+  {
+    "filename": "3309d3da4e3f91ab02aa93c0c208e25e611f759e014c87b4fe6c23b3cc0c8332.webp",
+    "size": 97436,
+    "source_rel": "hyundai/models/staria/images/3309d3da4e3f91ab02aa93c0c208e25e611f759e014c87b4fe6c23b3cc0c8332.webp"
+  },
+  {
+    "filename": "331828e84908601f385d8c11027edbe11ab58eb11f51c7b72b231295b5b9493b.webp",
+    "size": 12370,
+    "source_rel": "hyundai/models/staria/images/331828e84908601f385d8c11027edbe11ab58eb11f51c7b72b231295b5b9493b.webp"
+  },
+  {
+    "filename": "33209425f174e30d01610b3ab1984aaa96f72f7de7704ffa05e00d300e83d3dc.webp",
+    "size": 7366,
+    "source_rel": "hyundai/models/staria/images/33209425f174e30d01610b3ab1984aaa96f72f7de7704ffa05e00d300e83d3dc.webp"
+  },
+  {
+    "filename": "33433933961c1a79a52351605856667ee0c6739fe433865d227b69d766dbfbe5.webp",
+    "size": 66438,
+    "source_rel": "hyundai/models/staria/images/33433933961c1a79a52351605856667ee0c6739fe433865d227b69d766dbfbe5.webp"
+  },
+  {
+    "filename": "3362cf2016e629abca71294098e600b591d86aa4eab3d95e0499b6a30daad737.webp",
+    "size": 1912,
+    "source_rel": "hyundai/models/staria/images/3362cf2016e629abca71294098e600b591d86aa4eab3d95e0499b6a30daad737.webp"
+  },
+  {
+    "filename": "33634a2a2452dc50c08e8bb3bcd479bce3776a8fe1c5ab32206d6ecac77a0cd3.webp",
+    "size": 11108,
+    "source_rel": "hyundai/models/staria/images/33634a2a2452dc50c08e8bb3bcd479bce3776a8fe1c5ab32206d6ecac77a0cd3.webp"
+  },
+  {
+    "filename": "33eb0b2ac966b078f0051851756ffb14b29020c250b0875c3fcbac8beffb9a73.webp",
+    "size": 556,
+    "source_rel": "hyundai/models/staria/images/33eb0b2ac966b078f0051851756ffb14b29020c250b0875c3fcbac8beffb9a73.webp"
+  },
+  {
+    "filename": "343014723dbef5f357ec68a8293fe423401cfd4b63a01f17312c31ce9dd5d20f.webp",
+    "size": 11768,
+    "source_rel": "hyundai/models/staria/images/343014723dbef5f357ec68a8293fe423401cfd4b63a01f17312c31ce9dd5d20f.webp"
+  },
+  {
+    "filename": "3431e165f60b0c4f331d38721459ff5ed155e4dcedfc2606b0903d2213764110.webp",
+    "size": 6008,
+    "source_rel": "hyundai/models/staria/images/3431e165f60b0c4f331d38721459ff5ed155e4dcedfc2606b0903d2213764110.webp"
+  },
+  {
+    "filename": "349299df8b01f5150e319cdeead47ddea6217feeb70bb9bd5da348400e8d6e5c.webp",
+    "size": 1828,
+    "source_rel": "hyundai/models/staria/images/349299df8b01f5150e319cdeead47ddea6217feeb70bb9bd5da348400e8d6e5c.webp"
+  },
+  {
+    "filename": "349d5f4ace418ffb4261fe52905f318a236735f04b2deacd2c306ea774ab15bf.webp",
+    "size": 12158,
+    "source_rel": "hyundai/models/staria/images/349d5f4ace418ffb4261fe52905f318a236735f04b2deacd2c306ea774ab15bf.webp"
+  },
+  {
+    "filename": "34b9c5b3df835e987e0072796735fc737bf8a79c7b4277306bb600a11bf5bd73.webp",
+    "size": 18072,
+    "source_rel": "hyundai/models/staria/images/34b9c5b3df835e987e0072796735fc737bf8a79c7b4277306bb600a11bf5bd73.webp"
+  },
+  {
+    "filename": "34bb1064a65f784aa5b8d6495f1d0df9b62d3f634ce901c2b0a4c02d2e814582.webp",
+    "size": 27798,
+    "source_rel": "hyundai/models/staria/images/34bb1064a65f784aa5b8d6495f1d0df9b62d3f634ce901c2b0a4c02d2e814582.webp"
+  },
+  {
+    "filename": "351aa7c7c12e7dc392e3bbf68718839b5e76e8aa797aa5b96a5dd1cddd4de1fc.webp",
+    "size": 10224,
+    "source_rel": "hyundai/models/staria/images/351aa7c7c12e7dc392e3bbf68718839b5e76e8aa797aa5b96a5dd1cddd4de1fc.webp"
+  },
+  {
+    "filename": "351fefe3af24650419737b7c219fbb1221a21e4767aea7180e47a0aec60428bc.webp",
+    "size": 10130,
+    "source_rel": "hyundai/models/staria/images/351fefe3af24650419737b7c219fbb1221a21e4767aea7180e47a0aec60428bc.webp"
+  },
+  {
+    "filename": "352f1504fe69898aaeb4ae210cb67252a3f67213003323159c5b8a8d3fc365b0.webp",
+    "size": 26168,
+    "source_rel": "hyundai/models/staria/images/352f1504fe69898aaeb4ae210cb67252a3f67213003323159c5b8a8d3fc365b0.webp"
+  },
+  {
+    "filename": "354a3ba0b6dba3fe06e5eb8e52fd0f44a69937464ccd8235b0f8c9d0c1ef4a9e.webp",
+    "size": 9494,
+    "source_rel": "hyundai/models/staria/images/354a3ba0b6dba3fe06e5eb8e52fd0f44a69937464ccd8235b0f8c9d0c1ef4a9e.webp"
+  },
+  {
+    "filename": "3550b96134ae40fb07edadbf24098298d59a2918aa5d4fe3d3c945cb6c364c67.webp",
+    "size": 37700,
+    "source_rel": "hyundai/models/staria/images/3550b96134ae40fb07edadbf24098298d59a2918aa5d4fe3d3c945cb6c364c67.webp"
+  },
+  {
+    "filename": "35588748db7e31816a5b6e632cea5c542d79bee3deb245a3586c6c7e647a978e.webp",
+    "size": 4572,
+    "source_rel": "hyundai/models/staria/images/35588748db7e31816a5b6e632cea5c542d79bee3deb245a3586c6c7e647a978e.webp"
+  },
+  {
+    "filename": "35856ae21227619a93e6a98c0296bd158438ba567ec3bf58d8b66259a6f0a848.webp",
+    "size": 9240,
+    "source_rel": "hyundai/models/staria/images/35856ae21227619a93e6a98c0296bd158438ba567ec3bf58d8b66259a6f0a848.webp"
+  },
+  {
+    "filename": "35acba8390a709023bdb4e65c7b8254cb8591e5936ea9892527412a8d65a2887.webp",
+    "size": 5962,
+    "source_rel": "hyundai/models/staria/images/35acba8390a709023bdb4e65c7b8254cb8591e5936ea9892527412a8d65a2887.webp"
+  },
+  {
+    "filename": "35b9917af7b5a0a5ba36990b46519376162ae84f47253e0e5eef3da9d2f2b6b4.webp",
+    "size": 19914,
+    "source_rel": "hyundai/models/staria/images/35b9917af7b5a0a5ba36990b46519376162ae84f47253e0e5eef3da9d2f2b6b4.webp"
+  },
+  {
+    "filename": "35c0074f525d41c7fca7da9d931d713f344fd36962f128618fea6625f473a3d2.webp",
+    "size": 19314,
+    "source_rel": "hyundai/models/staria/images/35c0074f525d41c7fca7da9d931d713f344fd36962f128618fea6625f473a3d2.webp"
+  },
+  {
+    "filename": "35db2db6ff26afd382fbf81e2e560f3961440a377a94e1bdca778c58aacf49d4.webp",
+    "size": 8768,
+    "source_rel": "hyundai/models/staria/images/35db2db6ff26afd382fbf81e2e560f3961440a377a94e1bdca778c58aacf49d4.webp"
+  },
+  {
+    "filename": "35dbcf9fc04d7966f3d2448e9b190d2f75c42425482aca381edb0871d158eee0.webp",
+    "size": 812,
+    "source_rel": "hyundai/models/staria/images/35dbcf9fc04d7966f3d2448e9b190d2f75c42425482aca381edb0871d158eee0.webp"
+  },
+  {
+    "filename": "365da94070d8669fa97743f1419b0c1c671df3b586ca8ba3a10332a01cd0e362.webp",
+    "size": 23892,
+    "source_rel": "hyundai/models/staria/images/365da94070d8669fa97743f1419b0c1c671df3b586ca8ba3a10332a01cd0e362.webp"
+  },
+  {
+    "filename": "368f3d82e32afdc1b4a8fcd675fee5be61743f48b4fb0eec25e633e998e82c03.webp",
+    "size": 89508,
+    "source_rel": "hyundai/models/staria/images/368f3d82e32afdc1b4a8fcd675fee5be61743f48b4fb0eec25e633e998e82c03.webp"
+  },
+  {
+    "filename": "3767b59cdc5d0af1ba77dfccf834b76f1cffca58f0ad382f1fd6afd443f9090e.webp",
+    "size": 3842,
+    "source_rel": "hyundai/models/staria/images/3767b59cdc5d0af1ba77dfccf834b76f1cffca58f0ad382f1fd6afd443f9090e.webp"
+  },
+  {
+    "filename": "37aa377b9c2177ecfe84159db8443cec06a2fde03c9212055f7576c9fe5320b7.webp",
+    "size": 26168,
+    "source_rel": "hyundai/models/staria/images/37aa377b9c2177ecfe84159db8443cec06a2fde03c9212055f7576c9fe5320b7.webp"
+  },
+  {
+    "filename": "37abeb9833c1658f94b7c50af7377d0e4c1ca43bd7589fac7610ad2c93753309.webp",
+    "size": 9032,
+    "source_rel": "hyundai/models/staria/images/37abeb9833c1658f94b7c50af7377d0e4c1ca43bd7589fac7610ad2c93753309.webp"
+  },
+  {
+    "filename": "37b3ab37673de6fb240bf1b90b14ad1fdd3f216b49b67c85faa8eeb2b49caa25.webp",
+    "size": 123972,
+    "source_rel": "hyundai/models/staria/images/37b3ab37673de6fb240bf1b90b14ad1fdd3f216b49b67c85faa8eeb2b49caa25.webp"
+  },
+  {
+    "filename": "37d53d5894491831eb47b876e54b41a55a1f7f91f9aef9b312bf965cf39f50a0.webp",
+    "size": 7766,
+    "source_rel": "hyundai/models/staria/images/37d53d5894491831eb47b876e54b41a55a1f7f91f9aef9b312bf965cf39f50a0.webp"
+  },
+  {
+    "filename": "38007397ee29d055a81406875238d17b84a7cf77eaeca54b3dab67822a326ad1.webp",
+    "size": 26368,
+    "source_rel": "hyundai/models/staria/images/38007397ee29d055a81406875238d17b84a7cf77eaeca54b3dab67822a326ad1.webp"
+  },
+  {
+    "filename": "380a2a67b3759a8aca60a862a2e11ec1766cab159f49aa6b353d438f7185bf47.webp",
+    "size": 15394,
+    "source_rel": "hyundai/models/staria/images/380a2a67b3759a8aca60a862a2e11ec1766cab159f49aa6b353d438f7185bf47.webp"
+  },
+  {
+    "filename": "386ab9f33aeb5751b133343e149752959cf3f6b18486931de9d96c171fbd9707.webp",
+    "size": 6262,
+    "source_rel": "hyundai/models/staria/images/386ab9f33aeb5751b133343e149752959cf3f6b18486931de9d96c171fbd9707.webp"
+  },
+  {
+    "filename": "38e2f7356da981d555e4cf871f7f10fd7ac9be95dd5637eeab9aa0a07a2cfc4c.webp",
+    "size": 6946,
+    "source_rel": "hyundai/models/staria/images/38e2f7356da981d555e4cf871f7f10fd7ac9be95dd5637eeab9aa0a07a2cfc4c.webp"
+  },
+  {
+    "filename": "3911b1e0a90022c8924d38fe606d1e1c755afaa682fbd6048f009ee8be7cac88.webp",
+    "size": 144096,
+    "source_rel": "hyundai/models/staria/images/3911b1e0a90022c8924d38fe606d1e1c755afaa682fbd6048f009ee8be7cac88.webp"
+  },
+  {
+    "filename": "39203044d214edb2078dc76f2280576efadff4a27c1d8f7b0680aa44bb6f04d0.webp",
+    "size": 11934,
+    "source_rel": "hyundai/models/staria/images/39203044d214edb2078dc76f2280576efadff4a27c1d8f7b0680aa44bb6f04d0.webp"
+  },
+  {
+    "filename": "39300f0bca396964b069a4ee2c21cfc797e1e3648e2525cd9d73fd861a140ae1.webp",
+    "size": 6180,
+    "source_rel": "hyundai/models/staria/images/39300f0bca396964b069a4ee2c21cfc797e1e3648e2525cd9d73fd861a140ae1.webp"
+  },
+  {
+    "filename": "399bbe0f0f3b03aa24e0c93bef4edeb7963ca2a6f603dd161077eabd742eea94.webp",
+    "size": 18326,
+    "source_rel": "hyundai/models/staria/images/399bbe0f0f3b03aa24e0c93bef4edeb7963ca2a6f603dd161077eabd742eea94.webp"
+  },
+  {
+    "filename": "39e93f7b17902efc2fa51ecc5b31650eba05b210fb780891c97b139c737ecf23.webp",
+    "size": 8280,
+    "source_rel": "hyundai/models/staria/images/39e93f7b17902efc2fa51ecc5b31650eba05b210fb780891c97b139c737ecf23.webp"
+  },
+  {
+    "filename": "3a0879f05ed8816d81e8051459d6ba6d0bac18cae715e3bedfb4e074b45f21bb.webp",
+    "size": 3012,
+    "source_rel": "hyundai/models/staria/images/3a0879f05ed8816d81e8051459d6ba6d0bac18cae715e3bedfb4e074b45f21bb.webp"
+  },
+  {
+    "filename": "3a1dd09258504ba7fa5ce653203860b3439e9a18e20241ddee1067f1a1be97f6.webp",
+    "size": 11940,
+    "source_rel": "hyundai/models/staria/images/3a1dd09258504ba7fa5ce653203860b3439e9a18e20241ddee1067f1a1be97f6.webp"
+  },
+  {
+    "filename": "3ac3444ec224fdb4a02130470a401bec06ffb7517a704be59aaf606e870a8ff6.webp",
+    "size": 10946,
+    "source_rel": "hyundai/models/staria/images/3ac3444ec224fdb4a02130470a401bec06ffb7517a704be59aaf606e870a8ff6.webp"
+  },
+  {
+    "filename": "3ac3a380154ec0a3f6446d92a5b7bbf538cec273122b09829b98dbcc812dfc4a.webp",
+    "size": 31492,
+    "source_rel": "hyundai/models/staria/images/3ac3a380154ec0a3f6446d92a5b7bbf538cec273122b09829b98dbcc812dfc4a.webp"
+  },
+  {
+    "filename": "3ae057dcb1634ee8e54896afca858f28c56e6f7247db365a395916bf453b9fb2.webp",
+    "size": 9112,
+    "source_rel": "hyundai/models/staria/images/3ae057dcb1634ee8e54896afca858f28c56e6f7247db365a395916bf453b9fb2.webp"
+  },
+  {
+    "filename": "3ae67a047d57547a1044161fbdb8f755ecd345231ad425fa467d061b78465d9c.webp",
+    "size": 19516,
+    "source_rel": "hyundai/models/staria/images/3ae67a047d57547a1044161fbdb8f755ecd345231ad425fa467d061b78465d9c.webp"
+  },
+  {
+    "filename": "3aeabf265a82497ae58248eeb640d5b10249917bf98c00b472b67661ebed3484.webp",
+    "size": 10416,
+    "source_rel": "hyundai/models/staria/images/3aeabf265a82497ae58248eeb640d5b10249917bf98c00b472b67661ebed3484.webp"
+  },
+  {
+    "filename": "3aecdcccb86966b3fca97fc62b9594f679c4ae9286b3a0aaa1e2525b2c740fc6.webp",
+    "size": 38416,
+    "source_rel": "hyundai/models/staria/images/3aecdcccb86966b3fca97fc62b9594f679c4ae9286b3a0aaa1e2525b2c740fc6.webp"
+  },
+  {
+    "filename": "3b234590710e17f3ca9e833f04212c08c611291727db2745b60b61d52968d2c6.webp",
+    "size": 58692,
+    "source_rel": "hyundai/models/staria/images/3b234590710e17f3ca9e833f04212c08c611291727db2745b60b61d52968d2c6.webp"
+  },
+  {
+    "filename": "3b3c412696298d8a3ecda9c096bb9b56fedb7393ee54f31b552397679dc3d45b.webp",
+    "size": 4476,
+    "source_rel": "hyundai/models/staria/images/3b3c412696298d8a3ecda9c096bb9b56fedb7393ee54f31b552397679dc3d45b.webp"
+  },
+  {
+    "filename": "3bd9fe1205a833609f54f43115c676ae1b9452bafce7ab23c73f38115c8a7929.webp",
+    "size": 39856,
+    "source_rel": "hyundai/models/staria/images/3bd9fe1205a833609f54f43115c676ae1b9452bafce7ab23c73f38115c8a7929.webp"
+  },
+  {
+    "filename": "3c260394e3d8cdd06eb6a25aec6b26f9c9b73be71ecaea61a5023e7b7fbb30a0.webp",
+    "size": 23892,
+    "source_rel": "hyundai/models/staria/images/3c260394e3d8cdd06eb6a25aec6b26f9c9b73be71ecaea61a5023e7b7fbb30a0.webp"
+  },
+  {
+    "filename": "3c2b699b16dd40796049e86f19ef4a051c0d32762530d6983d6f5d0aa1fb11f2.webp",
+    "size": 11920,
+    "source_rel": "hyundai/models/staria/images/3c2b699b16dd40796049e86f19ef4a051c0d32762530d6983d6f5d0aa1fb11f2.webp"
+  },
+  {
+    "filename": "3c814993d1dea77eeb66720c030168e3a0566850a1d3cd59699574b56241777a.webp",
+    "size": 1598,
+    "source_rel": "hyundai/models/staria/images/3c814993d1dea77eeb66720c030168e3a0566850a1d3cd59699574b56241777a.webp"
+  },
+  {
+    "filename": "3cf23e388a947f8fe95285a16a3f711c6c96c71cb00290fc5611ffed5c838ab8.webp",
+    "size": 30972,
+    "source_rel": "hyundai/models/staria/images/3cf23e388a947f8fe95285a16a3f711c6c96c71cb00290fc5611ffed5c838ab8.webp"
+  },
+  {
+    "filename": "3cfc72915e13ad25cdfe333dde4e2861111d85ebf6a7f4834fb231a18f2cd72e.webp",
+    "size": 6822,
+    "source_rel": "hyundai/models/staria/images/3cfc72915e13ad25cdfe333dde4e2861111d85ebf6a7f4834fb231a18f2cd72e.webp"
+  },
+  {
+    "filename": "3d112661959cae74eddf4d0beeb4ceb4d0dccc0f3d80ab0fc462328b4dcf6634.webp",
+    "size": 8904,
+    "source_rel": "hyundai/models/staria/images/3d112661959cae74eddf4d0beeb4ceb4d0dccc0f3d80ab0fc462328b4dcf6634.webp"
+  },
+  {
+    "filename": "3dafe2477725c940d7043140df37f581d5901ff752fc7232820842d4606b68c8.webp",
+    "size": 4966,
+    "source_rel": "hyundai/models/staria/images/3dafe2477725c940d7043140df37f581d5901ff752fc7232820842d4606b68c8.webp"
+  },
+  {
+    "filename": "3db013c4b4d4666b4c1b5d3601dea0db87474426911209bfaf857c822d1f131d.webp",
+    "size": 27798,
+    "source_rel": "hyundai/models/staria/images/3db013c4b4d4666b4c1b5d3601dea0db87474426911209bfaf857c822d1f131d.webp"
+  },
+  {
+    "filename": "3e08526c310e93a4199a3e57f86c0b98a5460f34d065caef306589a2e58d63e3.webp",
+    "size": 3646,
+    "source_rel": "hyundai/models/staria/images/3e08526c310e93a4199a3e57f86c0b98a5460f34d065caef306589a2e58d63e3.webp"
+  },
+  {
+    "filename": "3e0b04b78ae04bad5727360e82404a370c866106bd8535a70d4bb62d74b0aac1.webp",
+    "size": 12960,
+    "source_rel": "hyundai/models/staria/images/3e0b04b78ae04bad5727360e82404a370c866106bd8535a70d4bb62d74b0aac1.webp"
+  },
+  {
+    "filename": "3e22ce552aa7c9cf48048df023bff7ac99882f559e69a3aed88bfc581a04fc37.webp",
+    "size": 10694,
+    "source_rel": "hyundai/models/staria/images/3e22ce552aa7c9cf48048df023bff7ac99882f559e69a3aed88bfc581a04fc37.webp"
+  },
+  {
+    "filename": "3e2e5bbdc9e93230357151f2f45c2bf5f0fba5c113df2740e13f2aed2b6e35db.webp",
+    "size": 18232,
+    "source_rel": "hyundai/models/staria/images/3e2e5bbdc9e93230357151f2f45c2bf5f0fba5c113df2740e13f2aed2b6e35db.webp"
+  },
+  {
+    "filename": "3e4b4a84a5941ce70689ca7b334b641afd79802da514d47085fc125637f90944.webp",
+    "size": 11880,
+    "source_rel": "hyundai/models/staria/images/3e4b4a84a5941ce70689ca7b334b641afd79802da514d47085fc125637f90944.webp"
+  },
+  {
+    "filename": "3e89b6f581f20566fd2a046df4d2197a6612c378ebf8d867772fa63d2a45d74d.webp",
+    "size": 16000,
+    "source_rel": "hyundai/models/staria/images/3e89b6f581f20566fd2a046df4d2197a6612c378ebf8d867772fa63d2a45d74d.webp"
+  },
+  {
+    "filename": "3e8e4cc3535678a305237e0a1f1883d910e1063891a45fec9ee56768097be83a.webp",
+    "size": 4572,
+    "source_rel": "hyundai/models/staria/images/3e8e4cc3535678a305237e0a1f1883d910e1063891a45fec9ee56768097be83a.webp"
+  },
+  {
+    "filename": "3e90b673a3cf4846590e744524392e1780ab8837e6591b17b6d66dbbdcd1b48f.webp",
+    "size": 8126,
+    "source_rel": "hyundai/models/staria/images/3e90b673a3cf4846590e744524392e1780ab8837e6591b17b6d66dbbdcd1b48f.webp"
+  },
+  {
+    "filename": "3e93d2c7111eed6b14ce2fc363062ef7053b35d03d05adbd91a9672c55429ae3.webp",
+    "size": 56404,
+    "source_rel": "hyundai/models/staria/images/3e93d2c7111eed6b14ce2fc363062ef7053b35d03d05adbd91a9672c55429ae3.webp"
+  },
+  {
+    "filename": "3eb56bc63edd5919cb1ab075716da65377fdab348fe08734bfd4542e1601f8ff.webp",
+    "size": 1778,
+    "source_rel": "hyundai/models/staria/images/3eb56bc63edd5919cb1ab075716da65377fdab348fe08734bfd4542e1601f8ff.webp"
+  },
+  {
+    "filename": "3ed205a05e67692ed07ff3048399e853a285ecd1a393e76d44c67fa025cb6586.webp",
+    "size": 10916,
+    "source_rel": "hyundai/models/staria/images/3ed205a05e67692ed07ff3048399e853a285ecd1a393e76d44c67fa025cb6586.webp"
+  },
+  {
+    "filename": "3f736e6848aa15673cf24e1ebff77ba845eadd5f1c16641289bc94125a45807d.webp",
+    "size": 16508,
+    "source_rel": "hyundai/models/staria/images/3f736e6848aa15673cf24e1ebff77ba845eadd5f1c16641289bc94125a45807d.webp"
+  },
+  {
+    "filename": "3fd4b4f0e55cddf41a67466c45498a776d38e390488151a8fa8499a333ed7c00.webp",
+    "size": 107246,
+    "source_rel": "hyundai/models/staria/images/3fd4b4f0e55cddf41a67466c45498a776d38e390488151a8fa8499a333ed7c00.webp"
+  },
+  {
+    "filename": "3fd7ec201056675181a6caedfc92ea1f0645733fe756939535ac55be2653639f.webp",
+    "size": 700,
+    "source_rel": "hyundai/models/staria/images/3fd7ec201056675181a6caedfc92ea1f0645733fe756939535ac55be2653639f.webp"
+  },
+  {
+    "filename": "4059b4fb0c882b9f176b03f512d1c797faa564c785c34b7d0ed8c747d683e90f.webp",
+    "size": 14584,
+    "source_rel": "hyundai/models/staria/images/4059b4fb0c882b9f176b03f512d1c797faa564c785c34b7d0ed8c747d683e90f.webp"
+  },
+  {
+    "filename": "407dc2f83556e80b6c1aade590cb5a61dbaa4ab8d15919d2e27ef47ae7fdddb8.webp",
+    "size": 7000,
+    "source_rel": "hyundai/models/staria/images/407dc2f83556e80b6c1aade590cb5a61dbaa4ab8d15919d2e27ef47ae7fdddb8.webp"
+  },
+  {
+    "filename": "408e9656d3824bb6f05068ebd97edcb9fb7e01e83f649b00afae3c22d0d6aee6.webp",
+    "size": 2930,
+    "source_rel": "hyundai/models/staria/images/408e9656d3824bb6f05068ebd97edcb9fb7e01e83f649b00afae3c22d0d6aee6.webp"
+  },
+  {
+    "filename": "40f03c74411568a8958feffc5db134e6e2075fe5eece947f1d4a2c2c702e4b5e.webp",
+    "size": 18232,
+    "source_rel": "hyundai/models/staria/images/40f03c74411568a8958feffc5db134e6e2075fe5eece947f1d4a2c2c702e4b5e.webp"
+  },
+  {
+    "filename": "4104b5298b6f0e4356422d957d7816abf19c8b9038ffb36aac13ac49241d4529.webp",
+    "size": 66902,
+    "source_rel": "hyundai/models/staria/images/4104b5298b6f0e4356422d957d7816abf19c8b9038ffb36aac13ac49241d4529.webp"
+  },
+  {
+    "filename": "418a7041ee9093a5df52f2ac683f9382ef47790e7d0981c1fe1a58440088796f.webp",
+    "size": 550,
+    "source_rel": "hyundai/models/staria/images/418a7041ee9093a5df52f2ac683f9382ef47790e7d0981c1fe1a58440088796f.webp"
+  },
+  {
+    "filename": "41a18f40c8c098fe2104ba61d5282f50fbff2d101e3bd601645136dfa32acab1.webp",
+    "size": 40492,
+    "source_rel": "hyundai/models/staria/images/41a18f40c8c098fe2104ba61d5282f50fbff2d101e3bd601645136dfa32acab1.webp"
+  },
+  {
+    "filename": "41c81560295491a36ccd97b9b85c743cef65ed0845c145d77021b8933c71f41a.webp",
+    "size": 7100,
+    "source_rel": "hyundai/models/staria/images/41c81560295491a36ccd97b9b85c743cef65ed0845c145d77021b8933c71f41a.webp"
+  },
+  {
+    "filename": "41dab6a23dae97c5bdf79dd3771ecd174cbce10a08c58da3b2cb302b3698ba8f.webp",
+    "size": 21340,
+    "source_rel": "hyundai/models/staria/images/41dab6a23dae97c5bdf79dd3771ecd174cbce10a08c58da3b2cb302b3698ba8f.webp"
+  },
+  {
+    "filename": "41f6f1375b02121448adc6ef1c38411e8999a56214c4d9a7944ef66c13fa789e.webp",
+    "size": 10994,
+    "source_rel": "hyundai/models/staria/images/41f6f1375b02121448adc6ef1c38411e8999a56214c4d9a7944ef66c13fa789e.webp"
+  },
+  {
+    "filename": "424b1079c11def76030d2f7ad506abf5ff40483fe531e6c96d8723c524c9f3ee.webp",
+    "size": 18236,
+    "source_rel": "hyundai/models/staria/images/424b1079c11def76030d2f7ad506abf5ff40483fe531e6c96d8723c524c9f3ee.webp"
+  },
+  {
+    "filename": "4274212f8331c6feacfd27eea31c7ba077855375f5dbf1e98f33a0b1aab4e704.webp",
+    "size": 556,
+    "source_rel": "hyundai/models/staria/images/4274212f8331c6feacfd27eea31c7ba077855375f5dbf1e98f33a0b1aab4e704.webp"
+  },
+  {
+    "filename": "42c1226ca77da7f97ea6f6e87d7d909bece77955207f84e6a1b83eac743f12a3.webp",
+    "size": 37530,
+    "source_rel": "hyundai/models/staria/images/42c1226ca77da7f97ea6f6e87d7d909bece77955207f84e6a1b83eac743f12a3.webp"
+  },
+  {
+    "filename": "42e5dbd3a707b6b56d3316607ea7298bfc1ad4246c6d40e23e357a837e7f7f7d.webp",
+    "size": 10048,
+    "source_rel": "hyundai/models/staria/images/42e5dbd3a707b6b56d3316607ea7298bfc1ad4246c6d40e23e357a837e7f7f7d.webp"
+  },
+  {
+    "filename": "42e7a8933797a64731e99ba7299e635be7a86c164d796eb498fc14ec82472c20.webp",
+    "size": 8652,
+    "source_rel": "hyundai/models/staria/images/42e7a8933797a64731e99ba7299e635be7a86c164d796eb498fc14ec82472c20.webp"
+  },
+  {
+    "filename": "42f7db81e9c83c4494329b15f919735d8bd0cda75d459aa30cba3e97ac308714.webp",
+    "size": 40610,
+    "source_rel": "hyundai/models/staria/images/42f7db81e9c83c4494329b15f919735d8bd0cda75d459aa30cba3e97ac308714.webp"
+  },
+  {
+    "filename": "431248e534a9ad0560a74abe0062388e012be1ffa8a842608d15f789999b6ed3.webp",
+    "size": 14112,
+    "source_rel": "hyundai/models/staria/images/431248e534a9ad0560a74abe0062388e012be1ffa8a842608d15f789999b6ed3.webp"
+  },
+  {
+    "filename": "4312b6bbdb8a719b6265fb11d8b68c20f316fe4e0dbe1ccc4bf445da8a862408.webp",
+    "size": 16784,
+    "source_rel": "hyundai/models/staria/images/4312b6bbdb8a719b6265fb11d8b68c20f316fe4e0dbe1ccc4bf445da8a862408.webp"
+  },
+  {
+    "filename": "434254251310f3ac3899485f2a2cf87801c6a317779ff9aeb4ccea31477229a3.webp",
+    "size": 6060,
+    "source_rel": "hyundai/models/staria/images/434254251310f3ac3899485f2a2cf87801c6a317779ff9aeb4ccea31477229a3.webp"
+  },
+  {
+    "filename": "4350dba76cd0218b9d9e6ac76fe439610f041f2681c8243fff66b234fc99af9d.webp",
+    "size": 18222,
+    "source_rel": "hyundai/models/staria/images/4350dba76cd0218b9d9e6ac76fe439610f041f2681c8243fff66b234fc99af9d.webp"
+  },
+  {
+    "filename": "43962d17c13ef4c4b3a0d28b447c26c0974c08b200771f0611a1b26d523897dd.webp",
+    "size": 1478,
+    "source_rel": "hyundai/models/staria/images/43962d17c13ef4c4b3a0d28b447c26c0974c08b200771f0611a1b26d523897dd.webp"
+  },
+  {
+    "filename": "439c4bdfc6bd9367938cb70a0bfb4ee69184e83729adffcb8360ac49200fa589.webp",
+    "size": 12312,
+    "source_rel": "hyundai/models/staria/images/439c4bdfc6bd9367938cb70a0bfb4ee69184e83729adffcb8360ac49200fa589.webp"
+  },
+  {
+    "filename": "43b01caa4c440ec26842703ad44e8a0bd6512f2e9f592dcfab2c5ac6811a9efb.webp",
+    "size": 62908,
+    "source_rel": "hyundai/models/staria/images/43b01caa4c440ec26842703ad44e8a0bd6512f2e9f592dcfab2c5ac6811a9efb.webp"
+  },
+  {
+    "filename": "43b9723c47fcb27f08dd9f76e25749aad40997819307e7b132dd216a66b2ca9c.webp",
+    "size": 97132,
+    "source_rel": "hyundai/models/staria/images/43b9723c47fcb27f08dd9f76e25749aad40997819307e7b132dd216a66b2ca9c.webp"
+  },
+  {
+    "filename": "43bec526d927ef696a048bd1c9e2d0dd48307cad01f8bd61b14ab2cddacbaaae.webp",
+    "size": 13852,
+    "source_rel": "hyundai/models/staria/images/43bec526d927ef696a048bd1c9e2d0dd48307cad01f8bd61b14ab2cddacbaaae.webp"
+  },
+  {
+    "filename": "43df727f92eb790092ec24065ab47889e713c0d6c3bf7f341d38cfeb0d8080b3.webp",
+    "size": 40628,
+    "source_rel": "hyundai/models/staria/images/43df727f92eb790092ec24065ab47889e713c0d6c3bf7f341d38cfeb0d8080b3.webp"
+  },
+  {
+    "filename": "43e0630f276291a73000c3ef33659afd716cb1a416674d6d187f9f1b7cd2ac86.webp",
+    "size": 16046,
+    "source_rel": "hyundai/models/staria/images/43e0630f276291a73000c3ef33659afd716cb1a416674d6d187f9f1b7cd2ac86.webp"
+  },
+  {
+    "filename": "43f747d9c4372f8176ac6dfbd759a0dc3c6e1008b3bfd3337b113852c6b78e39.webp",
+    "size": 91034,
+    "source_rel": "hyundai/models/staria/images/43f747d9c4372f8176ac6dfbd759a0dc3c6e1008b3bfd3337b113852c6b78e39.webp"
+  },
+  {
+    "filename": "44061c21ac29b10b5aaf5a350839a5edefd97ce2d385f7f81a975fc7dc3911fa.webp",
+    "size": 12462,
+    "source_rel": "hyundai/models/staria/images/44061c21ac29b10b5aaf5a350839a5edefd97ce2d385f7f81a975fc7dc3911fa.webp"
+  },
+  {
+    "filename": "4411985de9d689b0538ce093bd3e9ec06f2d5148e86ef7303d0a83b3ad0d0a14.webp",
+    "size": 5674,
+    "source_rel": "hyundai/models/staria/images/4411985de9d689b0538ce093bd3e9ec06f2d5148e86ef7303d0a83b3ad0d0a14.webp"
+  },
+  {
+    "filename": "443d041376e3afa416b0c687229774ae17a76c03a2eb2d9c2215d8aaaa34d5a4.webp",
+    "size": 1618,
+    "source_rel": "hyundai/models/staria/images/443d041376e3afa416b0c687229774ae17a76c03a2eb2d9c2215d8aaaa34d5a4.webp"
+  },
+  {
+    "filename": "4443c6b1b4f6f5092e71fe2f0a49b8b012c28e2b5f72b7d14b51774057f85964.webp",
+    "size": 6116,
+    "source_rel": "hyundai/models/staria/images/4443c6b1b4f6f5092e71fe2f0a49b8b012c28e2b5f72b7d14b51774057f85964.webp"
+  },
+  {
+    "filename": "446e06ffa4e2796680445c3b339b466a8d6394f8352ddb66f65a05ee33d3093c.webp",
+    "size": 12674,
+    "source_rel": "hyundai/models/staria/images/446e06ffa4e2796680445c3b339b466a8d6394f8352ddb66f65a05ee33d3093c.webp"
+  },
+  {
+    "filename": "44faf86718be523fe43b8b2f15b9ba30335cd64315461e95e238c3a7bee6578f.webp",
+    "size": 27404,
+    "source_rel": "hyundai/models/staria/images/44faf86718be523fe43b8b2f15b9ba30335cd64315461e95e238c3a7bee6578f.webp"
+  },
+  {
+    "filename": "4503f5037c8e43f4908e7ade13f5e3bca737a933c514599c2bb6574dd2b9799a.webp",
+    "size": 17288,
+    "source_rel": "hyundai/models/staria/images/4503f5037c8e43f4908e7ade13f5e3bca737a933c514599c2bb6574dd2b9799a.webp"
+  },
+  {
+    "filename": "45070233758102611262dfcd105eeb2fdd8b5b2c42f41e9d6a29f5df948ae0b3.webp",
+    "size": 3100,
+    "source_rel": "hyundai/models/staria/images/45070233758102611262dfcd105eeb2fdd8b5b2c42f41e9d6a29f5df948ae0b3.webp"
+  },
+  {
+    "filename": "452629afd2deacf80bb6586ff890c3a3398e34b3b7c13092a17899cde8ff0ca4.webp",
+    "size": 14682,
+    "source_rel": "hyundai/models/staria/images/452629afd2deacf80bb6586ff890c3a3398e34b3b7c13092a17899cde8ff0ca4.webp"
+  },
+  {
+    "filename": "453fef5ee00b1ed558c45f7e57fcc8a0b649c97255a73c28825a2a986475a153.webp",
+    "size": 99456,
+    "source_rel": "hyundai/models/staria/images/453fef5ee00b1ed558c45f7e57fcc8a0b649c97255a73c28825a2a986475a153.webp"
+  },
+  {
+    "filename": "45400c845fca5a52b22594be7b815341df8ee5da74c11f3a3758019c3fb6eaf6.webp",
+    "size": 18438,
+    "source_rel": "hyundai/models/staria/images/45400c845fca5a52b22594be7b815341df8ee5da74c11f3a3758019c3fb6eaf6.webp"
+  },
+  {
+    "filename": "4546e76d58721f069b628af8840d3a2f0aefce4f6ce473abb8a9ab853fcc76f3.webp",
+    "size": 18236,
+    "source_rel": "hyundai/models/staria/images/4546e76d58721f069b628af8840d3a2f0aefce4f6ce473abb8a9ab853fcc76f3.webp"
+  },
+  {
+    "filename": "454e19fb19a2868a445b96662e934dfa2ade2298ff391cf544292fdccf2494f2.webp",
+    "size": 1394,
+    "source_rel": "hyundai/models/staria/images/454e19fb19a2868a445b96662e934dfa2ade2298ff391cf544292fdccf2494f2.webp"
+  },
+  {
+    "filename": "45a9eb5b5de2a90556e8b8c22f3fffa3526ae3934fd88844124563d01277c4c4.webp",
+    "size": 87526,
+    "source_rel": "hyundai/models/staria/images/45a9eb5b5de2a90556e8b8c22f3fffa3526ae3934fd88844124563d01277c4c4.webp"
+  },
+  {
+    "filename": "45aad25b3366cb44c8c210395ff121ec282eaf3d9b45691de530759d07c6828d.webp",
+    "size": 492,
+    "source_rel": "hyundai/models/staria/images/45aad25b3366cb44c8c210395ff121ec282eaf3d9b45691de530759d07c6828d.webp"
+  },
+  {
+    "filename": "45b45b7114e1818d850e654cacaa1fbde091c012a419e43034a0312cbfaebced.webp",
+    "size": 3268,
+    "source_rel": "hyundai/models/staria/images/45b45b7114e1818d850e654cacaa1fbde091c012a419e43034a0312cbfaebced.webp"
+  },
+  {
+    "filename": "45b65f3d20dcf56db4bee0c182ebd3f61a158a2025172fb353a2c8a1ec83b559.webp",
+    "size": 13476,
+    "source_rel": "hyundai/models/staria/images/45b65f3d20dcf56db4bee0c182ebd3f61a158a2025172fb353a2c8a1ec83b559.webp"
+  },
+  {
+    "filename": "45fe085cbcd8de122dfacbdb8fd3ae95ec47f6bfbc168bdacd990c073c2a0365.webp",
+    "size": 10900,
+    "source_rel": "hyundai/models/staria/images/45fe085cbcd8de122dfacbdb8fd3ae95ec47f6bfbc168bdacd990c073c2a0365.webp"
+  },
+  {
+    "filename": "461f296a2ae125529f6de3e745db3fa679268e67a3bbd269b7d4a94d9cbc45ca.webp",
+    "size": 10782,
+    "source_rel": "hyundai/models/staria/images/461f296a2ae125529f6de3e745db3fa679268e67a3bbd269b7d4a94d9cbc45ca.webp"
+  },
+  {
+    "filename": "4620065a04eeef9b3868c40b44ebe5a047e45eafac6895a88a8106fec58b0b21.webp",
+    "size": 550,
+    "source_rel": "hyundai/models/staria/images/4620065a04eeef9b3868c40b44ebe5a047e45eafac6895a88a8106fec58b0b21.webp"
+  },
+  {
+    "filename": "46673be7525e8c5e1f53f4cf84a9b66b7c50219f0328d0f5f6a43cb991d6b4f1.webp",
+    "size": 18438,
+    "source_rel": "hyundai/models/staria/images/46673be7525e8c5e1f53f4cf84a9b66b7c50219f0328d0f5f6a43cb991d6b4f1.webp"
+  },
+  {
+    "filename": "46795040ac1db9dad208b28d5f3249a1d4ef175b0a331c83230650ac9e720855.webp",
+    "size": 2560,
+    "source_rel": "hyundai/models/staria/images/46795040ac1db9dad208b28d5f3249a1d4ef175b0a331c83230650ac9e720855.webp"
+  },
+  {
+    "filename": "46982a4d31577553917873d616a5e0b45b0c7fced67495fe84ec1c93283fe7d2.webp",
+    "size": 17332,
+    "source_rel": "hyundai/models/staria/images/46982a4d31577553917873d616a5e0b45b0c7fced67495fe84ec1c93283fe7d2.webp"
+  },
+  {
+    "filename": "46bc07fbee04d3c5367366e29becafefe8c733377a2d3e2d99fa7829765a53d5.webp",
+    "size": 6966,
+    "source_rel": "hyundai/models/staria/images/46bc07fbee04d3c5367366e29becafefe8c733377a2d3e2d99fa7829765a53d5.webp"
+  },
+  {
+    "filename": "46c33956cadd4e1f3153bfdcb33f31be99f5dbab5a099be9f771742c571e8f3f.webp",
+    "size": 18126,
+    "source_rel": "hyundai/models/staria/images/46c33956cadd4e1f3153bfdcb33f31be99f5dbab5a099be9f771742c571e8f3f.webp"
+  },
+  {
+    "filename": "46e162255af7f679f5210afe24c6fa4e40c120ca1f27d9d6e5f70e3534d92675.webp",
+    "size": 19134,
+    "source_rel": "hyundai/models/staria/images/46e162255af7f679f5210afe24c6fa4e40c120ca1f27d9d6e5f70e3534d92675.webp"
+  },
+  {
+    "filename": "47508ed29eaac64b28a2b113755533e1699b40ae06f7790d260bc7ac135a1bf8.webp",
+    "size": 5700,
+    "source_rel": "hyundai/models/staria/images/47508ed29eaac64b28a2b113755533e1699b40ae06f7790d260bc7ac135a1bf8.webp"
+  },
+  {
+    "filename": "47b3dcc6d237c96e557c9624af105c75d4ac0bf2923b55d7ac640bf44b8c77a0.webp",
+    "size": 243860,
+    "source_rel": "hyundai/models/staria/images/47b3dcc6d237c96e557c9624af105c75d4ac0bf2923b55d7ac640bf44b8c77a0.webp"
+  },
+  {
+    "filename": "47c5046e03731b85d69f48d7519526017f8cb0cbd83128e69a5594a2ce91e139.webp",
+    "size": 8220,
+    "source_rel": "hyundai/models/staria/images/47c5046e03731b85d69f48d7519526017f8cb0cbd83128e69a5594a2ce91e139.webp"
+  },
+  {
+    "filename": "47e8a6c43531f907f1717a8f60f0ec5b5137bbe955ae3ea653fc22cae331d125.webp",
+    "size": 3102,
+    "source_rel": "hyundai/models/staria/images/47e8a6c43531f907f1717a8f60f0ec5b5137bbe955ae3ea653fc22cae331d125.webp"
+  },
+  {
+    "filename": "47ed09cc8af57f2c9b2e546490c8aaebd468dac902efaf9290aed414580f3300.webp",
+    "size": 10712,
+    "source_rel": "hyundai/models/staria/images/47ed09cc8af57f2c9b2e546490c8aaebd468dac902efaf9290aed414580f3300.webp"
+  },
+  {
+    "filename": "481ffbad205759f8510824d66c2c9f723b6eb8ab1d8aad2b690e0993bcc3988c.webp",
+    "size": 10940,
+    "source_rel": "hyundai/models/staria/images/481ffbad205759f8510824d66c2c9f723b6eb8ab1d8aad2b690e0993bcc3988c.webp"
+  },
+  {
+    "filename": "48341c587306c2a9a59a5b4c7442a1cfffef5494042ce951029e8adbdb540c7e.webp",
+    "size": 10758,
+    "source_rel": "hyundai/models/staria/images/48341c587306c2a9a59a5b4c7442a1cfffef5494042ce951029e8adbdb540c7e.webp"
+  },
+  {
+    "filename": "483c16adbfd7926aad7f59eab45be05102bd10c8948eb7ff4d762044d314d47d.webp",
+    "size": 700,
+    "source_rel": "hyundai/models/staria/images/483c16adbfd7926aad7f59eab45be05102bd10c8948eb7ff4d762044d314d47d.webp"
+  },
+  {
+    "filename": "4868319b5306e019bde1949ac81544fa9272f863cf0683ac7a4d94196c63efa4.webp",
+    "size": 23892,
+    "source_rel": "hyundai/models/staria/images/4868319b5306e019bde1949ac81544fa9272f863cf0683ac7a4d94196c63efa4.webp"
+  },
+  {
+    "filename": "4876df135e2e4197f829c82106d71b3df4f98bc48783b0ad6275453b776e3ddc.webp",
+    "size": 22042,
+    "source_rel": "hyundai/models/staria/images/4876df135e2e4197f829c82106d71b3df4f98bc48783b0ad6275453b776e3ddc.webp"
+  },
+  {
+    "filename": "48a1d16813329c4c0049f072e51d85b4ebbd7fceeb9aec7dda2995f09006e212.webp",
+    "size": 82508,
+    "source_rel": "hyundai/models/staria/images/48a1d16813329c4c0049f072e51d85b4ebbd7fceeb9aec7dda2995f09006e212.webp"
+  },
+  {
+    "filename": "48ab2793bea4cc0d815a45dfeb9f6fafd249b14ff83c2ad40485d71d7783a7d6.webp",
+    "size": 10020,
+    "source_rel": "hyundai/models/staria/images/48ab2793bea4cc0d815a45dfeb9f6fafd249b14ff83c2ad40485d71d7783a7d6.webp"
+  },
+  {
+    "filename": "493a6d52556ba1c5677113e89ed88d66ecc46aaff5dbeeee54cc52edb4eeeaa9.webp",
+    "size": 12230,
+    "source_rel": "hyundai/models/staria/images/493a6d52556ba1c5677113e89ed88d66ecc46aaff5dbeeee54cc52edb4eeeaa9.webp"
+  },
+  {
+    "filename": "496025b1f038db5ff54a76dc6cbb197ed1183cbbf975369f9c4c2d9f1aa5079b.webp",
+    "size": 17252,
+    "source_rel": "hyundai/models/staria/images/496025b1f038db5ff54a76dc6cbb197ed1183cbbf975369f9c4c2d9f1aa5079b.webp"
+  },
+  {
+    "filename": "499b10c2e653a4a2087518e28e923d1828ede74a337ea525e7500cb80fdc5cd7.webp",
+    "size": 26368,
+    "source_rel": "hyundai/models/staria/images/499b10c2e653a4a2087518e28e923d1828ede74a337ea525e7500cb80fdc5cd7.webp"
+  },
+  {
+    "filename": "49ac4ab95656706934fa4f3758fb710e026ddca14a9676f10fc53360bd8695c8.webp",
+    "size": 11210,
+    "source_rel": "hyundai/models/staria/images/49ac4ab95656706934fa4f3758fb710e026ddca14a9676f10fc53360bd8695c8.webp"
+  },
+  {
+    "filename": "49d45e7240000c53a117563b3ec5bce8dfd36bf135bd700aef5dc3ab77d91650.webp",
+    "size": 36150,
+    "source_rel": "hyundai/models/staria/images/49d45e7240000c53a117563b3ec5bce8dfd36bf135bd700aef5dc3ab77d91650.webp"
+  },
+  {
+    "filename": "49fbc20b3e2ef96223cf7d3ce873f7297973b99efba445c0e7dc3e3097514c17.webp",
+    "size": 13336,
+    "source_rel": "hyundai/models/staria/images/49fbc20b3e2ef96223cf7d3ce873f7297973b99efba445c0e7dc3e3097514c17.webp"
+  },
+  {
+    "filename": "4a0f9c62c2fd6961edec8374a5e9fdc49d186d2523fd50e60d2cf7f8367c708f.webp",
+    "size": 96486,
+    "source_rel": "hyundai/models/staria/images/4a0f9c62c2fd6961edec8374a5e9fdc49d186d2523fd50e60d2cf7f8367c708f.webp"
+  },
+  {
+    "filename": "4a4376d424c9e4a264e0ce9e91cff3d5aefd24f33c4c1f883a5d9b443eadd93c.webp",
+    "size": 15162,
+    "source_rel": "hyundai/models/staria/images/4a4376d424c9e4a264e0ce9e91cff3d5aefd24f33c4c1f883a5d9b443eadd93c.webp"
+  },
+  {
+    "filename": "4a996fc22f515f6d6bf4d501dd64a5ba323044a3f4429dd605b8e04a0baff4c1.webp",
+    "size": 3356,
+    "source_rel": "hyundai/models/staria/images/4a996fc22f515f6d6bf4d501dd64a5ba323044a3f4429dd605b8e04a0baff4c1.webp"
+  },
+  {
+    "filename": "4adf605b74fa7cc3ea86a0a91dfe627f431606c4a7a5d91f09a52e0c504f2558.webp",
+    "size": 7786,
+    "source_rel": "hyundai/models/staria/images/4adf605b74fa7cc3ea86a0a91dfe627f431606c4a7a5d91f09a52e0c504f2558.webp"
+  },
+  {
+    "filename": "4af692f059cebb1c924b3d10d6f652ae1b46a6cb7abe161a27c83949464f26cf.webp",
+    "size": 97436,
+    "source_rel": "hyundai/models/staria/images/4af692f059cebb1c924b3d10d6f652ae1b46a6cb7abe161a27c83949464f26cf.webp"
+  },
+  {
+    "filename": "4b0aa00f5eaf24a0ea52b8b9b0dccbb11ed035195a68ac3be0c79e2d5ec125f7.webp",
+    "size": 13988,
+    "source_rel": "hyundai/models/staria/images/4b0aa00f5eaf24a0ea52b8b9b0dccbb11ed035195a68ac3be0c79e2d5ec125f7.webp"
+  },
+  {
+    "filename": "4b18e4093b759eb752fac473cddef0190ad752904bc03908734ec71a997977c1.webp",
+    "size": 1754,
+    "source_rel": "hyundai/models/staria/images/4b18e4093b759eb752fac473cddef0190ad752904bc03908734ec71a997977c1.webp"
+  },
+  {
+    "filename": "4b199826a6af8e85cc2f9bf21ade79cc3a3496b093c9a5abb20a2f0fb30a140a.webp",
+    "size": 12230,
+    "source_rel": "hyundai/models/staria/images/4b199826a6af8e85cc2f9bf21ade79cc3a3496b093c9a5abb20a2f0fb30a140a.webp"
+  },
+  {
+    "filename": "4b253bd510ca1890153faf19f8a4627f091d53410719660ef349efba72bc8b0e.webp",
+    "size": 8948,
+    "source_rel": "hyundai/models/staria/images/4b253bd510ca1890153faf19f8a4627f091d53410719660ef349efba72bc8b0e.webp"
+  },
+  {
+    "filename": "4b4e47beedd777c4cb2c9cd4f3a0808347b8da9942d816e4822f51e917987c30.webp",
+    "size": 10088,
+    "source_rel": "hyundai/models/staria/images/4b4e47beedd777c4cb2c9cd4f3a0808347b8da9942d816e4822f51e917987c30.webp"
+  },
+  {
+    "filename": "4b52224711d47ac801ccf5dea2ed5429b3e2b2d56f704acec711805100cb8226.webp",
+    "size": 20058,
+    "source_rel": "hyundai/models/staria/images/4b52224711d47ac801ccf5dea2ed5429b3e2b2d56f704acec711805100cb8226.webp"
+  },
+  {
+    "filename": "4b6198799427905f474f8e2fccd759f544e33f3a3bd87f1efa186ade0f7aff28.webp",
+    "size": 23190,
+    "source_rel": "hyundai/models/staria/images/4b6198799427905f474f8e2fccd759f544e33f3a3bd87f1efa186ade0f7aff28.webp"
+  },
+  {
+    "filename": "4b6721ad81b462a313e47e063e9f0e12d470f157390f8e6bc96557885c72df45.webp",
+    "size": 13592,
+    "source_rel": "hyundai/models/staria/images/4b6721ad81b462a313e47e063e9f0e12d470f157390f8e6bc96557885c72df45.webp"
+  },
+  {
+    "filename": "4b8a5873fe6bd67017600df109477138454d977ada08b76f5f35937101d06185.webp",
+    "size": 8042,
+    "source_rel": "hyundai/models/staria/images/4b8a5873fe6bd67017600df109477138454d977ada08b76f5f35937101d06185.webp"
+  },
+  {
+    "filename": "4b949ca168cacf2a32730bf33bf813dcc491449c61fec0eca7c8ce151eac78e3.webp",
+    "size": 18386,
+    "source_rel": "hyundai/models/staria/images/4b949ca168cacf2a32730bf33bf813dcc491449c61fec0eca7c8ce151eac78e3.webp"
+  },
+  {
+    "filename": "4ba9a567d47c74a08640043dabd64a3a617ab6d83c7807d31cdd720f4ec34aae.webp",
+    "size": 504,
+    "source_rel": "hyundai/models/staria/images/4ba9a567d47c74a08640043dabd64a3a617ab6d83c7807d31cdd720f4ec34aae.webp"
+  },
+  {
+    "filename": "4bd67e5e88c7bee73c26a20e5e6e48bbbf7c4db7a2d08866a3ef243db58abe60.webp",
+    "size": 10334,
+    "source_rel": "hyundai/models/staria/images/4bd67e5e88c7bee73c26a20e5e6e48bbbf7c4db7a2d08866a3ef243db58abe60.webp"
+  },
+  {
+    "filename": "4c0e39b32bcdd0129c6a0cca7239e603f4dc669f9e17e73c89ec388b0069467d.webp",
+    "size": 8542,
+    "source_rel": "hyundai/models/staria/images/4c0e39b32bcdd0129c6a0cca7239e603f4dc669f9e17e73c89ec388b0069467d.webp"
+  },
+  {
+    "filename": "4c26941e8568fc5999c1f2437c4cbbc7eee5f0e1cffa4bac429e4f5e3187b3a1.webp",
+    "size": 12336,
+    "source_rel": "hyundai/models/staria/images/4c26941e8568fc5999c1f2437c4cbbc7eee5f0e1cffa4bac429e4f5e3187b3a1.webp"
+  },
+  {
+    "filename": "4c51b7b00ed7edbefcf012bcdb0a16e7c79c15f10a81b91f3d9120f8b72c263a.webp",
+    "size": 8428,
+    "source_rel": "hyundai/models/staria/images/4c51b7b00ed7edbefcf012bcdb0a16e7c79c15f10a81b91f3d9120f8b72c263a.webp"
+  },
+  {
+    "filename": "4c71728a62fa77537c814a5e8cf47a41f16260388f0a80cf9c91ee3bf4debf81.webp",
+    "size": 7164,
+    "source_rel": "hyundai/models/staria/images/4c71728a62fa77537c814a5e8cf47a41f16260388f0a80cf9c91ee3bf4debf81.webp"
+  },
+  {
+    "filename": "4c9a378407511cc7325d868d75b9358e933f27e94f92943cd7f24cd4b3bd8c9d.webp",
+    "size": 13192,
+    "source_rel": "hyundai/models/staria/images/4c9a378407511cc7325d868d75b9358e933f27e94f92943cd7f24cd4b3bd8c9d.webp"
+  },
+  {
+    "filename": "4c9f2d33b7ae04fb12cf4d0438d9220b1d94bc648155b3a52c84c00f60874d01.webp",
+    "size": 12378,
+    "source_rel": "hyundai/models/staria/images/4c9f2d33b7ae04fb12cf4d0438d9220b1d94bc648155b3a52c84c00f60874d01.webp"
+  },
+  {
+    "filename": "4ca83885ed9781a786a748b233f6417d251520f937b0b20165bb01044c9ea32c.webp",
+    "size": 11386,
+    "source_rel": "hyundai/models/staria/images/4ca83885ed9781a786a748b233f6417d251520f937b0b20165bb01044c9ea32c.webp"
+  },
+  {
+    "filename": "4d0fbcf1b565357b459530d55cc7fb7c43fe9875873a19a2a7d8f22d8294ba9a.webp",
+    "size": 8224,
+    "source_rel": "hyundai/models/staria/images/4d0fbcf1b565357b459530d55cc7fb7c43fe9875873a19a2a7d8f22d8294ba9a.webp"
+  },
+  {
+    "filename": "4d1dfca325e28e89f5aea80436b69dc4e43492b62b0b3ffb498546bbd2e893a2.webp",
+    "size": 11794,
+    "source_rel": "hyundai/models/staria/images/4d1dfca325e28e89f5aea80436b69dc4e43492b62b0b3ffb498546bbd2e893a2.webp"
+  },
+  {
+    "filename": "4d1f9c4658ba058ed17454eae2c6b693035c6a8d15c9f4132b700321fb6421dc.webp",
+    "size": 26242,
+    "source_rel": "hyundai/models/staria/images/4d1f9c4658ba058ed17454eae2c6b693035c6a8d15c9f4132b700321fb6421dc.webp"
+  },
+  {
+    "filename": "4d28dc8e5daf29f75f30bea5a11315673eaa5921c3808dc59cc5366db9d4f717.webp",
+    "size": 16000,
+    "source_rel": "hyundai/models/staria/images/4d28dc8e5daf29f75f30bea5a11315673eaa5921c3808dc59cc5366db9d4f717.webp"
+  },
+  {
+    "filename": "4d3d89e3c1dd9be86c1b8af22887728cb2f9fff4b2f95c13e08a9739f8c0b8a7.webp",
+    "size": 16508,
+    "source_rel": "hyundai/models/staria/images/4d3d89e3c1dd9be86c1b8af22887728cb2f9fff4b2f95c13e08a9739f8c0b8a7.webp"
+  },
+  {
+    "filename": "4d5e726a71197519d58a30a13a6e7987f816f384482c9775cedf5458020feb5e.webp",
+    "size": 43560,
+    "source_rel": "hyundai/models/staria/images/4d5e726a71197519d58a30a13a6e7987f816f384482c9775cedf5458020feb5e.webp"
+  },
+  {
+    "filename": "4d7095e8f574152fb4884f310bf8481dd8a10e6a5dd94075d509d2e0d7f9f2f9.webp",
+    "size": 11122,
+    "source_rel": "hyundai/models/staria/images/4d7095e8f574152fb4884f310bf8481dd8a10e6a5dd94075d509d2e0d7f9f2f9.webp"
+  },
+  {
+    "filename": "4d97e44bc519dc5c13ab875ac5ec1a5f8a9ff4e3dfe215a6ad552b478e45e837.webp",
+    "size": 29376,
+    "source_rel": "hyundai/models/staria/images/4d97e44bc519dc5c13ab875ac5ec1a5f8a9ff4e3dfe215a6ad552b478e45e837.webp"
+  },
+  {
+    "filename": "4dc4e4994af5b75c6e1fc31f733d3b43bacb49a521baf66ca31ba910753b1d42.webp",
+    "size": 54842,
+    "source_rel": "hyundai/models/staria/images/4dc4e4994af5b75c6e1fc31f733d3b43bacb49a521baf66ca31ba910753b1d42.webp"
+  },
+  {
+    "filename": "4dc7063354f7b62ac9032795ef4e5933c41d70dcf327cd4051c5ca2caeaf70cc.webp",
+    "size": 20004,
+    "source_rel": "hyundai/models/staria/images/4dc7063354f7b62ac9032795ef4e5933c41d70dcf327cd4051c5ca2caeaf70cc.webp"
+  },
+  {
+    "filename": "4dec0c907f32b591865d160242f8b9fbdf884625f7e51efd5def9c3cb1dec5fb.webp",
+    "size": 2970,
+    "source_rel": "hyundai/models/staria/images/4dec0c907f32b591865d160242f8b9fbdf884625f7e51efd5def9c3cb1dec5fb.webp"
+  },
+  {
+    "filename": "4e0fe4e8d0f191aa5f800da99c507abe053473c324abfd3b389af442c2330ab5.webp",
+    "size": 9440,
+    "source_rel": "hyundai/models/staria/images/4e0fe4e8d0f191aa5f800da99c507abe053473c324abfd3b389af442c2330ab5.webp"
+  },
+  {
+    "filename": "4e1fb956b98be39eb0834f5d88c4efb18f74af148a686ff6b6b773df503c164b.webp",
+    "size": 56404,
+    "source_rel": "hyundai/models/staria/images/4e1fb956b98be39eb0834f5d88c4efb18f74af148a686ff6b6b773df503c164b.webp"
+  }
+]

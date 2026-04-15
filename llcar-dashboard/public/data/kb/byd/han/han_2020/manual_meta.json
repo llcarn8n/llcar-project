@@ -1,0 +1,12 @@
+{
+  "brand": "byd",
+  "model": "han",
+  "source_path_rel": "byd/models/han/",
+  "manual_md_size": 2323638,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-a0598a.md",
+    "manual-tg.md"
+  ]
+}

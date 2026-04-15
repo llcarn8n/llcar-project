@@ -1,0 +1,20 @@
+{
+  "brand": "porsche",
+  "model": "macan",
+  "source_path_rel": "porsche/models/macan/",
+  "manual_md_size": 83429912,
+  "has_dita": true,
+  "has_pdf": false,
+  "variants": [
+    "manual-06d133.md",
+    "manual-2015_2016.md",
+    "manual-b14d10.md",
+    "manual-b901057a.md",
+    "manual-b901057a_2.md",
+    "manual-e391136f.md",
+    "manual-e391136f_2.md",
+    "manual-macan.md",
+    "manual-porsche_macan.md",
+    "manual-ru--porsche_.md"
+  ]
+}

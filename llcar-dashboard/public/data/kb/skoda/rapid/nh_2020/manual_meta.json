@@ -1,0 +1,14 @@
+{
+  "brand": "skoda",
+  "model": "rapid",
+  "source_path_rel": "skoda/models/rapid/",
+  "manual_md_size": 8488466,
+  "has_dita": true,
+  "has_pdf": false,
+  "variants": [
+    "manual-aa2abb.md",
+    "manual-i_2011_н_в.md",
+    "manual-ocr.md",
+    "manual-rapid.md"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "brand": "lexus",
+  "model": "nx",
+  "source_path_rel": "lexus/models/nx/",
+  "manual_md_size": 1587992,
+  "has_dita": true,
+  "has_pdf": false,
+  "variants": [
+    "manual-931722.md"
+  ]
+}

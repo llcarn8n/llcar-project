@@ -1,0 +1,13 @@
+{
+  "brand": "uaz",
+  "model": "patriot",
+  "source_path_rel": "uaz/models/patriot/",
+  "manual_md_size": 1337460,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-2005_2012.md",
+    "manual-526645.md",
+    "manual-sgr_bukhanka.md"
+  ]
+}

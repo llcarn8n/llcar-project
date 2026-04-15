@@ -1,0 +1,13 @@
+{
+  "brand": "kia",
+  "model": "ev6",
+  "source_path_rel": "kia/models/ev6/",
+  "manual_md_size": 2429702,
+  "has_dita": true,
+  "has_pdf": false,
+  "variants": [
+    "manual-ev6.md",
+    "manual-ev6_2.md",
+    "manual-ev9.md"
+  ]
+}

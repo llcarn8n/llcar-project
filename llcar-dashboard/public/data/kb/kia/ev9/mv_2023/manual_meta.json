@@ -1,0 +1,11 @@
+{
+  "brand": "kia",
+  "model": "ev9",
+  "source_path_rel": "kia/models/ev9/",
+  "manual_md_size": 2817150,
+  "has_dita": true,
+  "has_pdf": false,
+  "variants": [
+    "manual-d12067.md"
+  ]
+}

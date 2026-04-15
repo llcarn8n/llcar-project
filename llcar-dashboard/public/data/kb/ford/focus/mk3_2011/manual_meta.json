@@ -1,0 +1,18 @@
+{
+  "brand": "ford",
+  "model": "focus",
+  "source_path_rel": "ford/models/focus/",
+  "manual_md_size": 69048277,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-00a04e.md",
+    "manual-c_max-c_max_v2.md",
+    "manual-c_max.md",
+    "manual-focus-iii_2018_2021.md",
+    "manual-focus.md",
+    "manual-focus_ru.md",
+    "manual-ru_2.md",
+    "manual-ru_reocr.md"
+  ]
+}

@@ -1,0 +1,1534 @@
+{
+  "brand": "lada",
+  "model": "lada_vesta",
+  "source": "exist.ru",
+  "total_parts": 167,
+  "systems": {
+    "Body": 11,
+    "Engine": 41,
+    "Fuel System": 2,
+    "Fuel Mixture Preparation": 5,
+    "Exhaust System": 2,
+    "Cooling System": 9,
+    "Clutch System": 5,
+    "Transmission": 8,
+    "Wheel Drive": 3,
+    "Brake System": 15,
+    "Suspension / Damping": 5,
+    "Suspension / Wheels": 13,
+    "Steering": 3,
+    "Electrical": 28,
+    "Ignition System": 4,
+    "HVAC": 2,
+    "Wiper System": 2,
+    "Interior": 1,
+    "Accessories": 1,
+    "Wheels / Tires": 1,
+    "Uncategorized": 6
+  },
+  "parts": [
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа дальнего света",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12C00000_106",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа заднего габаритого освещения",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12C00000_115",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа освещения номерного знака",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12C00000_112",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа основной фары",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12C00000_107",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа противотуманной фары",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12C00000_108",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа стояночного/габаритного огня",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12C00000_1092",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа указателя поворота",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12C00000_105",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа фары заднего хода",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12C00000_114",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа фонаря сигнала тормоза/заднего габарита",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12C00000_110",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа, противотуманные . задние фонари (противотуманный / задний подфарник)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12C00000_2992",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Пружина газовая крышки багажника",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12C00000_219",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Впускной клапан",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12F00000_1269",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Выпускной клапан",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12F00000_1270",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Датчик кислородный (Лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12F00000_3922",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Датчик положения коленвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12F00000_833",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Датчик положения распределительного вала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12F00000_3946",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Датчик температуры впускаемого воздуха",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12F00000_3939",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Датчик температуры охлаждающей жидкости",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12F00000_830",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Дистанционная шайба, коленчатый вал",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12F00000_1589",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект болтов головки цилидра",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12F00000_1217",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект вкладышей шатуна",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12F00000_6167",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект подшипников коленчатого вала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12F00000_5017",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект поршневых колец",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12F00000_444",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект прокладок ГБЦ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12F00000_319",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект прокладок стержня клапана",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12F00000_323",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект прокладок, блок-картер двигателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12F00000_150",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект уплотнительных колец, клапанная форсунка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12F00000_4948",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Маслосъемный колпачок",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12F00000_322",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Масляный насос (моторное масло)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12F00000_596",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Механизм свободного хода генератора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12F00000_1390",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Моторное масло (двигатель)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12F00000_3224",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Опора двигателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12F00000_247",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Подшипник коленвала (коленчатый вал)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12F00000_574",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Поликлиновой ременный комплект (ремень поликлиновой)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12F00000_542",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Пробка резьбовая масляного поддона",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12F00000_593",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка впускного коллектора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12F00000_42",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка выпускного коллектора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12F00000_27",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка ГБЦ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12F00000_318",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка корпуса термостата",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12F00000_317",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка крышки ГБЦ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12F00000_321",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка масляного поддона",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12F00000_455",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Регулирующий клапан, выставление распределительного вала (шестерня привода распределительного вала)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12F00000_3826",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Ремень поликлиновой",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12F00000_305",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Ролик паразитный поликлинового ремня",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12F00000_312",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Сальник коленвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12F00000_572",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Сальник распределительного вала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12F00000_757",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Уплотнительное кольцо резьбовой пробки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12F00000_135",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Уплотнительное кольцо, термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12F00000_60670",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Уплотнительный комплект, масляный насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12F00000_60649",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Фильтр воздушный двигателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12F00000_8",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Фильтр масляный двигателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12F00000_7",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Шатунный подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=12F00000_582",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Система подачи топлива",
+      "system_en": "Fuel System",
+      "part_name": "Фильтр топливный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=15F00000_9",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Система подачи топлива",
+      "system_en": "Fuel System",
+      "part_name": "Элемент системы питания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=15F00000_1382",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Подготовка топливной смеси",
+      "system_en": "Fuel Mixture Preparation",
+      "part_name": "Датчик давления во впускном газопроводе",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=16B00000_3947",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Подготовка топливной смеси",
+      "system_en": "Fuel Mixture Preparation",
+      "part_name": "Датчик кислородный (Лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=16B00000_3922",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Подготовка топливной смеси",
+      "system_en": "Fuel Mixture Preparation",
+      "part_name": "Датчик положения распределительного вала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=16B00000_3946",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Подготовка топливной смеси",
+      "system_en": "Fuel Mixture Preparation",
+      "part_name": "Датчик температуры впускаемого воздуха",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=16B00000_3939",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Подготовка топливной смеси",
+      "system_en": "Fuel Mixture Preparation",
+      "part_name": "Комплект уплотнительных колец, клапанная форсунка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=16B00000_4948",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Система выпуска",
+      "system_en": "Exhaust System",
+      "part_name": "Датчик кислородный (Лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=13200000_3922",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Система выпуска",
+      "system_en": "Exhaust System",
+      "part_name": "Предглушитель выхлопных газов",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=13200000_3435",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Антифриз",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=13B00000_3356",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Датчик температуры охлаждающей жидкости",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=13B00000_830",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Крышка бачка охлаждающей жидкости",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=13B00000_56",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Насос водяной охлаждения двигателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=13B00000_1260",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Прокладка корпуса термостата",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=13B00000_317",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Радиатор отопителя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=13B00000_467",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Радиатор охлаждения двигателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=13B00000_470",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Термостат охлаждающей жидкости",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=13B00000_316",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Уплотнительное кольцо, термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=13B00000_60670",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Система сцепления",
+      "system_en": "Clutch System",
+      "part_name": "Выжимной подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=15C00000_48",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Система сцепления",
+      "system_en": "Clutch System",
+      "part_name": "Комплект сцепления",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=15C00000_479",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Система сцепления",
+      "system_en": "Clutch System",
+      "part_name": "Тормозная жидкость",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=15C00000_3357",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Система сцепления",
+      "system_en": "Clutch System",
+      "part_name": "Центральный выключатель, система сцепления",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=15C00000_47",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Система сцепления",
+      "system_en": "Clutch System",
+      "part_name": "Цилиндр сцепления рабочий",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=15C00000_620",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "КПП",
+      "system_en": "Transmission",
+      "part_name": "Гидрофильтр АКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=16200000_416",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "КПП",
+      "system_en": "Transmission",
+      "part_name": "Комплект гидрофильтров АКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=16200000_3843",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "КПП",
+      "system_en": "Transmission",
+      "part_name": "Масло АКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=16200000_3069",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "КПП",
+      "system_en": "Transmission",
+      "part_name": "Масло МКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=16200000_3225",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "КПП",
+      "system_en": "Transmission",
+      "part_name": "Масло, бесступенчатая трансмиссия (CVT)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=16200000_8562",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "КПП",
+      "system_en": "Transmission",
+      "part_name": "Масло, полуавтоматическая коробка передач (п/а КПП) (полуавтоматическая коробка передач (кпп полуавтомат))",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=16200000_60269",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "КПП",
+      "system_en": "Transmission",
+      "part_name": "Модуль рычага управления коробки передач, Переключение перед (переключение передач)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=16200000_2764",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "КПП",
+      "system_en": "Transmission",
+      "part_name": "Опора МКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=16200000_249",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Привод колеса",
+      "system_en": "Wheel Drive",
+      "part_name": "Вал приводной",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14D00000_13",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Привод колеса",
+      "system_en": "Wheel Drive",
+      "part_name": "Пыльник приводного вала, комплект",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14D00000_194",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Привод колеса",
+      "system_en": "Wheel Drive",
+      "part_name": "ШРУС",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14D00000_5",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Датчик частоты вращения колеса",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=13800000_412",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Диск тормозной",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=13800000_82",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Колодки тормозные дисковые, комплект",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=13800000_402",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Комплект высокоэффективных тормозных колодок (экономичный тормоз)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=13800000_3371",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Комплект направляющей гильзы (суппорт тормозной)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=13800000_1165",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Комплект тормозных колодок",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=13800000_70",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Комплектующие дисковых тормозных колодок",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=13800000_1164",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Монтажный комплект тормозных колодок",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=13800000_1502",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Поршень тормозного суппорта",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=13800000_2248",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Пыльник, управление корпуса скобы тормоза",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=13800000_399",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Ремкомплект колесного тормозного цилиндра",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=13800000_278",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Ремкомплект тормозного суппорта",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=13800000_405",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Тормозная жидкость",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=13800000_3357",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Цилиндр тормозной колёсный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=13800000_277",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Шланг тормозной",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=13800000_83",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Подвеска и амортизация",
+      "system_en": "Suspension / Damping",
+      "part_name": "Амортизатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14400000_854",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Подвеска и амортизация",
+      "system_en": "Suspension / Damping",
+      "part_name": "Буфер, амортизация (рессора)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14400000_1182",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Подвеска и амортизация",
+      "system_en": "Suspension / Damping",
+      "part_name": "Опора стойки амортизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14400000_1180",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Подвеска и амортизация",
+      "system_en": "Suspension / Damping",
+      "part_name": "Пылезащитный комплект амортизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14400000_919",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Подвеска и амортизация",
+      "system_en": "Suspension / Damping",
+      "part_name": "Ремкомплект опоры стойки амортизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14400000_1632",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Датчик частоты вращения колеса, контроль давления в шинах (контрольная система давления в шинах)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14A00000_2232",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Диск тормозной",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14A00000_82",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Опора стойки амортизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14A00000_1180",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Опора шаровая",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14A00000_2462",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Опора, стабилизатор (подшипник стабилизатора)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14A00000_1334",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Поворотный кулак, подвеска колеса",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14A00000_1159",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Подшипник ступицы колеса, комплект",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14A00000_654",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пылезащитный комплект амортизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14A00000_919",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Ремкомплект опоры стойки амортизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14A00000_1632",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Рычаг независимой подвески колеса",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14A00000_273",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Сайлентблок рычага подвески",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14A00000_251",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Стойка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14A00000_3229",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Ступица колеса",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14A00000_653",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Рулевое управление",
+      "system_en": "Steering",
+      "part_name": "Наконечник поперечной рулевой тяги",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14700000_914",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Рулевое управление",
+      "system_en": "Steering",
+      "part_name": "Осевой шарнир рулевой тяги",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14700000_51",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Рулевое управление",
+      "system_en": "Steering",
+      "part_name": "Пыльник рулевого управления, комплект",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14700000_195",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Генератор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14100000_4",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Датчик давления во впускном газопроводе",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14100000_3947",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Датчик кислородный (Лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14100000_3922",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Датчик положения коленвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14100000_833",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Датчик положения распределительного вала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14100000_3946",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Датчик температуры впускаемого воздуха",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14100000_3939",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Датчик температуры охлаждающей жидкости",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14100000_830",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Датчик частоты вращения колеса",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14100000_412",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Датчик частоты вращения колеса, контроль давления в шинах (контрольная система давления в шинах)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14100000_2232",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Лампа дальнего света",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14100000_106",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Лампа заднего габаритого освещения",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14100000_115",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Лампа накаливания дневного освещения",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14100000_3853",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Лампа освещения багажника",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14100000_119",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Лампа освещения номерного знака",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14100000_112",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Лампа освещения ящика для перчаток",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14100000_3002",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Лампа основной фары",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14100000_107",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Лампа противотуманной фары",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14100000_108",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Лампа стояночного/габаритного огня",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14100000_1092",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Лампа указателя поворота",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14100000_105",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Лампа фары заднего хода",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14100000_114",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Лампа фонаря сигнала тормоза/заднего габарита",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14100000_110",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Лампа, противотуманные . задние фонари (противотуманный / задний подфарник)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14100000_2992",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Механизм свободного хода генератора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14100000_1390",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Регулятор генератора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14100000_288",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Стартер",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14100000_2",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Стартерная аккумуляторная батарея",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14100000_1",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Ступица колеса",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14100000_653",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Тяговое реле стартера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=14100000_682",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Система зажигания / накаливания",
+      "system_en": "Ignition System",
+      "part_name": "Датчик положения коленвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=13E00000_833",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Система зажигания / накаливания",
+      "system_en": "Ignition System",
+      "part_name": "Датчик положения распределительного вала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=13E00000_3946",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Система зажигания / накаливания",
+      "system_en": "Ignition System",
+      "part_name": "Катушка зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=13E00000_689",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Система зажигания / накаливания",
+      "system_en": "Ignition System",
+      "part_name": "Свеча зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=13E00000_686",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Отопление / вентиляция",
+      "system_en": "HVAC",
+      "part_name": "Радиатор отопителя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=16500000_467",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Отопление / вентиляция",
+      "system_en": "HVAC",
+      "part_name": "Фильтр салона",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=16500000_424",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Система очистки окон",
+      "system_en": "Wiper System",
+      "part_name": "Насос стеклоочистителя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=15600000_794",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Система очистки окон",
+      "system_en": "Wiper System",
+      "part_name": "Щётка стеклоочистителя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=15600000_298",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Салон, внутренняя отделка",
+      "system_en": "Interior",
+      "part_name": "Пружина газовая крышки багажника",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=17400000_219",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Комплектующие",
+      "system_en": "Accessories",
+      "part_name": "Пружина газовая крышки багажника",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=18600000_219",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "Колёса / шины",
+      "system_en": "Wheels / Tires",
+      "part_name": "Датчик частоты вращения колеса, контроль давления в шинах (контрольная система давления в шинах)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=CAF0007D&id=18900000_2232",
+      "source": "exist.ru:Vesta SW Cross/1.6 16V"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "В пульте используется элемент пита- нИя CR2032.",
+      "subsystem": "",
+      "part_number": "CR2032",
+      "source_url": "",
+      "source": "manual:chunks-manual-vesta.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Hadeitunge-Hoto Emptohlen tar alle Ben neeh Gebfeuch  eine Beietya g Fremdstolfen wie Ramt vecdaten. TACEA AJB eer hoog APNASLCEE Aarbevolen var  b RN0710/RN0700 000O0 00 3 TTOTAL(USEA, www.lubricants",
+      "subsystem": "",
+      "part_number": "RN0710",
+      "source_url": "",
+      "source": "manual:chunks-manual-vesta.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Hadeitunge-Hoto Emptohlen tar alle Ben neeh Gebfeuch  eine Beietya g Fremdstolfen wie Ramt vecdaten. TACEA AJB eer hoog APNASLCEE Aarbevolen var  b RN0710/RN0700 000O0 00 3 TTOTAL(USEA, www.lubricants",
+      "subsystem": "",
+      "part_number": "RN0700",
+      "source_url": "",
+      "source": "manual:chunks-manual-vesta.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "egKopen t neh C Bey at Frenofon yie eon ACEAALBE C APSMCE еХ RENAULT Asebevolen VOOF RNO7I0 RN0700 оФ 0> 4 осоо E TOTALUEA1 3 00402330800 T.Ludrifats EMB 92800 PUTEAUX 6762 336 1003",
+      "subsystem": "",
+      "part_number": "00402330800",
+      "source_url": "",
+      "source": "manual:chunks-manual-vesta_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Лада Веста, 2021\n1936185, Санкт-Петербург",
+      "subsystem": "",
+      "part_number": "20211936185",
+      "source_url": "",
+      "source": "manual:chunks-reviews-vesta.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Лада Веста, 2016\n6949720, Москва",
+      "subsystem": "",
+      "part_number": "20166949720",
+      "source_url": "",
+      "source": "manual:chunks-reviews-vesta.md"
+    }
+  ]
+}

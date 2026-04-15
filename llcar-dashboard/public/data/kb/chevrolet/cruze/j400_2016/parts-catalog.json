@@ -1,0 +1,1705 @@
+{
+  "brand": "chevrolet",
+  "model": "chevrolet_cruze",
+  "source": "exist.ru",
+  "total_parts": 186,
+  "systems": {
+    "Body": 3,
+    "Engine": 49,
+    "Fuel System": 1,
+    "Fuel Mixture Preparation": 4,
+    "Exhaust System": 4,
+    "Cooling System": 11,
+    "Clutch System": 2,
+    "Transmission": 5,
+    "Brake System": 12,
+    "Suspension / Damping": 6,
+    "Suspension / Wheels": 10,
+    "Steering": 3,
+    "Electrical": 5,
+    "HVAC": 3,
+    "Wiper System": 2,
+    "Comfort Features": 2,
+    "Interior": 1,
+    "Locks": 3,
+    "Accessories": 1,
+    "Wheels / Tires": 1,
+    "Uncategorized": 58
+  },
+  "parts": [
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Ветровое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12C00000_1191",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Пружина газовая крышки багажника",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12C00000_219",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Элемент оптики, датчик дождя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12C00000_4855",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Вакуумный насос, тормозная система",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_387",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Клапан воздушной тяги, нагнетатель (регулировка нагнетаемого воздуха (тяговый воздух))",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_4314",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Клапан регулирования давления нагнетателя (регулирование давление наддува)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_761",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект болтов головки цилидра",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_1217",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект прокладок водяной насоcа",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_315",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект прокладок ГБЦ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_319",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект прокладок двигателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_560",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект прокладок крышки ГБЦ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_979",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект прокладок стержня клапана",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_323",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект прокладок, блок-картер двигателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_150",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект уплотнительных колец, клапанная форсунка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_4948",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Крышка корпуса масляного фильтра",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_3323",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Маслопровод, компрессор (маслопровод (компрессор))",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_3739",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Маслосъемный колпачок",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_322",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Модуль впускной трубы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_1415",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Монтажный комплект, компрессор (нагнетатель)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_2420",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Моторное масло (двигатель)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_3224",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Натяжитель ремня поликлинового",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_541",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Натяжной ролик поликлинового  ремня",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_310",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Поликлиновой ременный комплект (ремень поликлиновой)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_542",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Пробка резьбовая масляного поддона",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_593",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка водяной насоса",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_314",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка впускного коллектора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_42",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка выпуска масла (компрессор)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_3729",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка выпускного коллектора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_27",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка ГБЦ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_318",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка крышки ГБЦ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_321",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка масляного поддона",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_455",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка масляного радиатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_131",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка термостата",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_139",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка, маслоналивная горловина",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_598",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка, натяжное приспособление цепи привода",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_2137",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка, сетчатый масляный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_134",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка, указатель уровня масла",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_2700",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Регулирующий клапан, выставление распределительного вала (шестерня привода распределительного вала)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_3826",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Ременный шкив, коленчатый вал",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_3213",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Ремень поликлиновой",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_305",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Сальник коленвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_572",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Сальник распределительного вала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_757",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Система спортивного воздушного фильтра",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_3884",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Толкатель клапана",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_1216",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Трубка нагнетаемого воздуха (нагнетатель)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_3314",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Уплотнительное кольцо резьбовой пробки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_135",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Уплотнительное кольцо, клапанная форсунка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_3891",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Уплотнительное кольцо, компрессор (нагнетатель)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_3743",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Уплотнительный комплект, масляный насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_60649",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Фильтр воздушный двигателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_8",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Фильтр масляный двигателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_7",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Шестерня привода распределительного вала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=12F00000_4106",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Система подачи топлива",
+      "system_en": "Fuel System",
+      "part_name": "Уплотнительное кольцо, топливный насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=15F00000_60680",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Подготовка топливной смеси",
+      "system_en": "Fuel Mixture Preparation",
+      "part_name": "Комплект прокладок форсунки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=16B00000_3894",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Подготовка топливной смеси",
+      "system_en": "Fuel Mixture Preparation",
+      "part_name": "Комплект уплотнительных колец, клапанная форсунка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=16B00000_4948",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Подготовка топливной смеси",
+      "system_en": "Fuel Mixture Preparation",
+      "part_name": "Трубка нагнетаемого воздуха (нагнетатель)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=16B00000_3314",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Подготовка топливной смеси",
+      "system_en": "Fuel Mixture Preparation",
+      "part_name": "Уплотнительное кольцо, клапанная форсунка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=16B00000_3891",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Система выпуска",
+      "system_en": "Exhaust System",
+      "part_name": "Маслопровод, компрессор (маслопровод (компрессор))",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=13200000_3739",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Система выпуска",
+      "system_en": "Exhaust System",
+      "part_name": "Монтажный комплект, компрессор (нагнетатель)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=13200000_2420",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Система выпуска",
+      "system_en": "Exhaust System",
+      "part_name": "Прокладка выхлопной трубы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=13200000_138",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Система выпуска",
+      "system_en": "Exhaust System",
+      "part_name": "Трубка нагнетаемого воздуха (нагнетатель)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=13200000_3314",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Антифриз",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=13B00000_3356",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Бачок расширительный охлаждающей жидкости",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=13B00000_397",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Комплект прокладок водяной насоcа",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=13B00000_315",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Крышка бачка охлаждающей жидкости",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=13B00000_56",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Прокладка водяной насоса",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=13B00000_314",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Прокладка масляного радиатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=13B00000_131",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Прокладка патрубка охлаждающей жидкости",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=13B00000_547",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Прокладка термостата",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=13B00000_139",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Прокладка, фланец охлаждающей жидкости",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=13B00000_3248",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Термостат охлаждающей жидкости",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=13B00000_316",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Шланг радиатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=13B00000_475",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Система сцепления",
+      "system_en": "Clutch System",
+      "part_name": "Тормозная жидкость",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=15C00000_3357",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Система сцепления",
+      "system_en": "Clutch System",
+      "part_name": "Центральный выключатель, система сцепления",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=15C00000_47",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "КПП",
+      "system_en": "Transmission",
+      "part_name": "Гидрофильтр АКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=16200000_416",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "КПП",
+      "system_en": "Transmission",
+      "part_name": "Комплект гидрофильтров АКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=16200000_3843",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "КПП",
+      "system_en": "Transmission",
+      "part_name": "Масло АКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=16200000_3069",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "КПП",
+      "system_en": "Transmission",
+      "part_name": "Масло МКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=16200000_3225",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "КПП",
+      "system_en": "Transmission",
+      "part_name": "Сальник вала АКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=16200000_626",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Болт, диск тормозного механизма (тормозной диск)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=13800000_54",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Вакуумный насос, тормозная система",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=13800000_387",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Выключатель фонаря сигнала торможения (фонарь сигнала торможения)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=13800000_806",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Диск тормозной",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=13800000_82",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Колодки тормозные дисковые, комплект",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=13800000_402",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Комплект направляющей гильзы (суппорт тормозной)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=13800000_1165",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Комплектующие дисковых тормозных колодок",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=13800000_1164",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Монтажный комплект тормозных колодок",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=13800000_1502",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Прокладка вакуумного насоса",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=13800000_666",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Ремкомплект тормозного суппорта",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=13800000_2513",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Тормозная жидкость",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=13800000_3357",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Уплотнительное кольцо, вакуумный насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=13800000_60681",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Подвеска и амортизация",
+      "system_en": "Suspension / Damping",
+      "part_name": "Амортизатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=14400000_854",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Подвеска и амортизация",
+      "system_en": "Suspension / Damping",
+      "part_name": "Буфер, амортизация (рессора)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=14400000_1182",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Подвеска и амортизация",
+      "system_en": "Suspension / Damping",
+      "part_name": "Опора стойки амортизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=14400000_1180",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Подвеска и амортизация",
+      "system_en": "Suspension / Damping",
+      "part_name": "Пылезащитный комплект амортизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=14400000_919",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Подвеска и амортизация",
+      "system_en": "Suspension / Damping",
+      "part_name": "Пыльник амортизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=14400000_3365",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Подвеска и амортизация",
+      "system_en": "Suspension / Damping",
+      "part_name": "Ремкомплект опоры стойки амортизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=14400000_1632",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Датчик частоты вращения колеса, контроль давления в шинах (контрольная система давления в шинах)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=14A00000_2232",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Диск тормозной",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=14A00000_82",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Опора стойки амортизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=14A00000_1180",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Подшипник ступицы колеса, комплект",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=14A00000_654",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пылезащитный комплект амортизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=14A00000_919",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Ремкомплект опоры стойки амортизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=14A00000_1632",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Рычаг независимой подвески колеса",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=14A00000_273",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Сайлентблок балки моста",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=14A00000_1080",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Сайлентблок рычага подвески",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=14A00000_251",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Стойка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=14A00000_3229",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Рулевое управление",
+      "system_en": "Steering",
+      "part_name": "Наконечник поперечной рулевой тяги",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=14700000_914",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Рулевое управление",
+      "system_en": "Steering",
+      "part_name": "Осевой шарнир рулевой тяги",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=14700000_51",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Рулевое управление",
+      "system_en": "Steering",
+      "part_name": "Пыльник, рулевое управление",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=14700000_191",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Выключатель фонаря сигнала торможения (фонарь сигнала торможения)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=14100000_806",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Датчик частоты вращения колеса, контроль давления в шинах (контрольная система давления в шинах)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=14100000_2232",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Многофункциональное реле (многофункциональный)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=14100000_4967",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Стартерная аккумуляторная батарея",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=14100000_1",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Элемент оптики, датчик дождя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=14100000_4855",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Отопление / вентиляция",
+      "system_en": "HVAC",
+      "part_name": "Вентилятор салона",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=16500000_2669",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Отопление / вентиляция",
+      "system_en": "HVAC",
+      "part_name": "Регулятор, вентилятор салона",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=16500000_4394",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Отопление / вентиляция",
+      "system_en": "HVAC",
+      "part_name": "Фильтр салона",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=16500000_424",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Система очистки окон",
+      "system_en": "Wiper System",
+      "part_name": "Крышка бачка стеклоомывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=15600000_57",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Система очистки окон",
+      "system_en": "Wiper System",
+      "part_name": "Щётка стеклоочистителя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=15600000_298",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Дополнительные удобства",
+      "system_en": "Comfort Features",
+      "part_name": "Выключатель, замок задней двери",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=16E00000_5883",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Дополнительные удобства",
+      "system_en": "Comfort Features",
+      "part_name": "Элемент оптики, датчик дождя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=16E00000_4855",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Салон, внутренняя отделка",
+      "system_en": "Interior",
+      "part_name": "Пружина газовая крышки багажника",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=17400000_219",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Замки",
+      "system_en": "Locks",
+      "part_name": "Замок двери",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=18300000_1361",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Замки",
+      "system_en": "Locks",
+      "part_name": "Замок задней двери (задняя дверь)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=18300000_1362",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Замки",
+      "system_en": "Locks",
+      "part_name": "Наружная ручка двери (дверь)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=18300000_1373",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Комплектующие",
+      "system_en": "Accessories",
+      "part_name": "Пружина газовая крышки багажника",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=18600000_219",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "Колёса / шины",
+      "system_en": "Wheels / Tires",
+      "part_name": "Датчик частоты вращения колеса, контроль давления в шинах (контрольная система давления в шинах)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=D4C0009D&id=18900000_2232",
+      "source": "exist.ru:Cruze хэтчбек II/1.4"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "541 542 538 n00e 537 000 55 550 549 548 547 O0000 546 55 559 3000OO0",
+      "subsystem": "",
+      "part_number": "55550549548",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "413 413 412 420 413 D caca 418 416 R45 414 23 411 410 1 0 西 424 25C 413 433 427 GC 412 C 413 430 432 I 431 C 412 413 413",
+      "subsystem": "",
+      "part_number": "413413412",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "413 413 412 420 413 D caca 418 416 R45 414 23 411 410 1 0 西 424 25C 413 433 427 GC 412 C 413 430 432 I 431 C 412 413 413",
+      "subsystem": "",
+      "part_number": "25C413433",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "413 413 412 420 413 D caca 418 416 R45 414 23 411 410 1 0 西 424 25C 413 433 427 GC 412 C 413 430 432 I 431 C 412 413 413",
+      "subsystem": "",
+      "part_number": "413430432I",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "413 413 412 420 413 D caca 418 416 R45 414 23 411 410 1 0 西 424 25C 413 433 427 GC 412 C 413 430 432 I 431 C 412 413 413",
+      "subsystem": "",
+      "part_number": "412413413",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "413 435 413",
+      "subsystem": "",
+      "part_number": "413435413",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "436 410 上 168 424 m 425 可 426 427 coa 428 413 433 430 429 432 431 413 413 413",
+      "subsystem": "",
+      "part_number": "428413433",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "436 410 上 168 424 m 425 可 426 427 coa 428 413 433 430 429 432 431 413 413 413",
+      "subsystem": "",
+      "part_number": "430429432",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "436 410 上 168 424 m 425 可 426 427 coa 428 413 433 430 429 432 431 413 413 413",
+      "subsystem": "",
+      "part_number": "431413413",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "523 52 517 00g 516 515 532 ！ 531 529 52 528 527 2000 528",
+      "subsystem": "",
+      "part_number": "516515532",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "541 538 539 poe0 537 50 noOe 55 550 Y 549 548 547 oO0000 546 558 30O0000",
+      "subsystem": "",
+      "part_number": "541538539",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "541 538 539 poe0 537 50 noOe 55 550 Y 549 548 547 oO0000 546 558 30O0000",
+      "subsystem": "",
+      "part_number": "549548547",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "541 542 538 n00e 537 000 55 550 549 548 547 O0000 546 55 559 3000OO0",
+      "subsystem": "",
+      "part_number": "541542538",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "541 542 538 n00e 537 000 55 550 549 548 547 O0000 546 55 559 3000OO0",
+      "subsystem": "",
+      "part_number": "550549548",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "531 527 515 o0060",
+      "subsystem": "",
+      "part_number": "531527515",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "When diagnosing a vibration concern, use the EL-38792-A Electronic Vibration Analyzer (EVA) 2. The EL38792-A Electronic Vibration Analyzer (EVA) 2 has been designed to overcome the shortcomings to the",
+      "subsystem": "",
+      "part_number": "EL38792-A",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "DTC P0601-P0604, P0606, OR P062F",
+      "subsystem": "",
+      "part_number": "P0601-P0604",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "5. Ignition ON, engine OFF, verify that DTC U0100-U02FF is not set.",
+      "subsystem": "",
+      "part_number": "U0100-U02FF",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "2. Verify DTC U0300-U0336 is not set.  If DTC U0300-U0336 is set 1. Program the device specified by the DTC descriptor. 2. Verify the DTC does not set.  If the DTC sets, replace the device specified",
+      "subsystem": "",
+      "part_number": "U0300-U0336",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "DTC U0400-U05FF",
+      "subsystem": "",
+      "part_number": "U0400-U05FF",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "DTC U1500-U15FF",
+      "subsystem": "",
+      "part_number": "U1500-U15FF",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": " If the reading does not vary with fuel level Refer to DTC P0461-P0464.  If the reading varies with fuel level",
+      "subsystem": "",
+      "part_number": "P0461-P0464",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "DTC B3109-B3113",
+      "subsystem": "",
+      "part_number": "B3109-B3113",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "DTC C1207-C1210, C1221-C1228, OR C1232-C1235",
+      "subsystem": "",
+      "part_number": "C1207-C1210",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "DTC C1207-C1210, C1221-C1228, OR C1232-C1235",
+      "subsystem": "",
+      "part_number": "C1221-C1228",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "DTC C1207-C1210, C1221-C1228, OR C1232-C1235",
+      "subsystem": "",
+      "part_number": "C1232-C1235",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "9. Tighten the NEW brake caliper bracket bolts a final pass to an additional 60 75 degrees, using the EN45059 meter.",
+      "subsystem": "",
+      "part_number": "EN45059",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4. Apply and maintain the brakes with 445 N (100 lb F) of force to the brake pedal, as indicated on the CH28662 gauge.",
+      "subsystem": "",
+      "part_number": "CH28662",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "23. While guiding the forming mandrel into the exposed end of pipe to be flared, operate the lever of the CH45405 flaring tool until the forming mandrel bottoms against the clamping dies.",
+      "subsystem": "",
+      "part_number": "CH45405",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OEM Connector: PPI0001016",
+      "subsystem": "",
+      "part_number": "PPI0001016",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "DTC P0010, P0013, OR P2088-P2091",
+      "subsystem": "",
+      "part_number": "P2088-P2091",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "DTC P0030-P0032, P0036-P0038, P0053, P0054, P0135, OR P0141",
+      "subsystem": "",
+      "part_number": "P0030-P0032",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "DTC P0030-P0032, P0036-P0038, P0053, P0054, P0135, OR P0141",
+      "subsystem": "",
+      "part_number": "P0036-P0038",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": " If Disagree Refer to DTC P0121-P0123, P0222, P0223, or P2135 (LUV) for further diagnosis.",
+      "subsystem": "",
+      "part_number": "P0121-P0123",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Barometric Pressure (BARO) Sensor. Refer to: DTC P2227-P2230 Manifold Absolute Pressure (MAP) Sensor. Refer to: DTC P0106 Turbocharger Boost Pressure Sensor. Refer to: DTC P0236  If all sensor parame",
+      "subsystem": "",
+      "part_number": "P2227-P2230",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "2. Ignition off, inspect the cooling system surge tank for the proper coolant level. Refer to Loss of Coolant , and Cooling System Draining and Filling (Static Fill) , Cooling System Draining and Fill",
+      "subsystem": "",
+      "part_number": "GE47716",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "DTCs P0030, P0053, P0101, P0102, P0103, P0106, P0107, P0108, P0131-P0135, P0201-P0204, P0300- P0304, P0411, P0442, P0455, P0458, P0496, P0506, P0507, P1248, P1249, P124A, P124B, P2147, P2148, P2150, P",
+      "subsystem": "",
+      "part_number": "P0131-P0135",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "DTCs P0030, P0053, P0101, P0102, P0103, P0106, P0107, P0108, P0131-P0135, P0201-P0204, P0300- P0304, P0411, P0442, P0455, P0458, P0496, P0506, P0507, P1248, P1249, P124A, P124B, P2147, P2148, P2150, P",
+      "subsystem": "",
+      "part_number": "P0201-P0204",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "DTC P0300-P0304",
+      "subsystem": "",
+      "part_number": "P0300-P0304",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4. Verify the scan tool Fuel Tank Pressure Sensor parameter is between 1.3-1.7 V.  If not between the 1.3-1.7 V Refer to P0452, P0453 within DTC P0451-P0454  If between the 1.3-1.7 V",
+      "subsystem": "",
+      "part_number": "P0451-P0454",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": " DTCs P0068, P0101, P0102, P0103, P0112, P0113, P0116, P0117, P0118, P0120, P0121, P0122, P0123, P0128, P0171, P0172, P0201-P0204, P0220, P0222, P0223, P0300-P0304, P0351-P0354, P0461- P0463, P0496, ",
+      "subsystem": "",
+      "part_number": "P0351-P0354",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": " DTCs P0068, P0101, P0102, P0103, P0112, P0113, P0116, P0117, P0118, P0120, P0121, P0122, P0123, P0128, P0171, P0172, P0201-P0204, P0220, P0222, P0223, P0300-P0304, P0351-P0354, P0461- P0463, P0496, ",
+      "subsystem": "",
+      "part_number": "P2066-P2068",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Perform the Diagnostic Repair Verification after completing the diagnostic procedure. Control Module References for Engine Control Module replacement, programming and setup DTC P0627-P0629",
+      "subsystem": "",
+      "part_number": "P0627-P0629",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": " DTCs P0016, P0017, P0068, P0101, P0102, P0103, P0106, P0107, P0108, P0116, P0117, P0118, P0122, P0123, P0128, P0201-P0204, P0222, P0223, P0261, P0262, P0264, P0265, P0267, P0268, P0270, P0271, P0300",
+      "subsystem": "",
+      "part_number": "P0301-P0304",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "2. Verify DTC P0033, P0034, or P0035 is not set.  If any of the DTCs are set Refer to DTC P0033-P0035  If none of the DTCs are set",
+      "subsystem": "",
+      "part_number": "P0033-P0035",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "An engine cooling system condition. Test for the following:  A thermostat with incorrect heat range. Refer to Thermostat Diagnosis (1.4L LUV)  Incorrect engine coolant level Refer to Cooling System ",
+      "subsystem": "",
+      "part_number": "P0597-P0599",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "DTCs P0068, P0101, P0102, P0103, P0106, P0107, P0108, P0116, P0117, P0118, P0120, P0122, P0123,P0128, P0171, P0172, P0174, P0175, P0201-P0208, P0220, P0222, P0223, P0261, P0262, P0264, P0265,P0267, P0",
+      "subsystem": "",
+      "part_number": "P0201-P0208",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "DTCs P0068, P0101, P0102, P0103, P0106, P0107, P0108, P0116, P0117, P0118, P0120, P0122, P0123,P0128, P0171, P0172, P0174, P0175, P0201-P0208, P0220, P0222, P0223, P0261, P0262, P0264, P0265,P0267, P0",
+      "subsystem": "",
+      "part_number": "P0300-P0308",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "DTCs P0068, P0101, P0102, P0103, P0106, P0107, P0108, P0116, P0117, P0118, P0120, P0122, P0123,P0128, P0171, P0172, P0174, P0175, P0201-P0208, P0220, P0222, P0223, P0261, P0262, P0264, P0265,P0267, P0",
+      "subsystem": "",
+      "part_number": "P0351-P0358",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3. Apply 34 kPa (10.0 in Hg) of vacuum to the B74 Manifold Absolute Pressure Sensor, with the GE23738-A Verify the scan tool MAP Sensor pressure parameter decreases between 30-38 kPa (4.4-5.5 PSI).",
+      "subsystem": "",
+      "part_number": "GE23738-A",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P0324 or P0326-Condition 1; Excessive Knock Diagnostic",
+      "subsystem": "",
+      "part_number": "P0326-",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "DTC P0685-P0687, P0689, P0690, OR P1682",
+      "subsystem": "",
+      "part_number": "P0685-P0687",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "J43600 ACR Air Conditioning Service Center",
+      "subsystem": "",
+      "part_number": "J43600",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Some connectors may be equipped with shorting bars as a safety component to prevent accidental deployment. When testing on a connector with shorting bars, the shorting bars must be disabled to ensure ",
+      "subsystem": "",
+      "part_number": "EL38125-580",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "If the wheels being painted were previously clearcoated aluminum, and a painted aluminum look is desired, using Corsican Silver WAEQ9283 for a fine \"aluminum-like\" look, or Sparkle Silver WA9967 for a",
+      "subsystem": "",
+      "part_number": "WA9967",
+      "source_url": "",
+      "source": "manual:chunks-manual-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Chevrolet Cruze, 2011\n8460643, Новосибирск",
+      "subsystem": "",
+      "part_number": "20118460643",
+      "source_url": "",
+      "source": "manual:chunks-reviews-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Chevrolet Cruze, 2009\n5657682, Барнаул",
+      "subsystem": "",
+      "part_number": "20095657682",
+      "source_url": "",
+      "source": "manual:chunks-reviews-cruze.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Лада Х-рей, 2016\n7702168, Санкт-Петербург",
+      "subsystem": "",
+      "part_number": "20167702168",
+      "source_url": "",
+      "source": "manual:chunks-reviews-cruze.md"
+    }
+  ]
+}

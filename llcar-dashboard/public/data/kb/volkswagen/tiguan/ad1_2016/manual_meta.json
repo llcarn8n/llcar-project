@@ -1,0 +1,16 @@
+{
+  "brand": "volkswagen",
+  "model": "tiguan",
+  "source_path_rel": "volkswagen/models/tiguan/",
+  "manual_md_size": 98036707,
+  "has_dita": true,
+  "has_pdf": false,
+  "variants": [
+    "manual-08377a.md",
+    "manual-ru.md",
+    "manual-ru_2.md",
+    "manual-ru_reocr.md",
+    "manual-tiguan.md",
+    "manual-tiguan_ru.md"
+  ]
+}

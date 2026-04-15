@@ -1,0 +1,15 @@
+{
+  "brand": "gac",
+  "model": "gs8",
+  "source_path_rel": "gac/models/gs8/",
+  "manual_md_size": 287830689,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-2021_2021.md",
+    "manual-2021_2021_2.md",
+    "manual-599c18.md",
+    "manual-s9-s9.md",
+    "manual-s9.md"
+  ]
+}

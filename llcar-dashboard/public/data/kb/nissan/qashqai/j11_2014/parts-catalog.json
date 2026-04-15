@@ -1,0 +1,1833 @@
+{
+  "brand": "nissan",
+  "model": "nissan_qashqai",
+  "source": "exist.ru",
+  "total_parts": 227,
+  "systems": {
+    "Body": 25,
+    "Engine": 50,
+    "Fuel System": 1,
+    "Fuel Mixture Preparation": 6,
+    "Exhaust System": 13,
+    "Cooling System": 9,
+    "Clutch System": 4,
+    "Transmission": 7,
+    "Wheel Drive": 2,
+    "Brake System": 8,
+    "Suspension / Damping": 5,
+    "Suspension / Wheels": 12,
+    "Steering": 3,
+    "Electrical": 33,
+    "Ignition System": 3,
+    "HVAC": 2,
+    "Air Conditioning": 2,
+    "Wiper System": 3,
+    "Comfort Features": 1,
+    "Wheels / Tires": 2,
+    "Uncategorized": 36
+  },
+  "parts": [
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Боковое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12C00000_1194",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Буфер",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12C00000_938",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Ветровое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12C00000_1191",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Задний фонарь",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12C00000_391",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Зажим, молдинг / защитная накладка (декоративная / защитная накладка)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12C00000_3881",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Зеркальное стекло внешнего зеркала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12C00000_1914",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа габаритного освещения",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12C00000_1172",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа дополнительного фонаря торможения",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12C00000_2797",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа заднего габаритого освещения",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12C00000_115",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа задней противотуманной фары",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12C00000_113",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа накаливания, фонарь подсветки двери",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12C00000_3005",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа освещения номерного знака",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12C00000_112",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа подсветки двери",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12C00000_118",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа сигнала торможения",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12C00000_111",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа стояночного/габаритного огня",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12C00000_1092",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа страховочного освещения двери",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12C00000_2991",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа указателя поворота",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12C00000_105",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа фары заднего хода",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12C00000_114",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа фонаря сигнала тормоза/заднего габарита",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12C00000_110",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа, противотуманные . задние фонари (противотуманный / задний подфарник)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12C00000_2992",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Наружное зеркало",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12C00000_50",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Обшивка, колесная ниша",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12C00000_1560",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Пистон, облицовка днища кузова",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12C00000_9191",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Покрытие, внешнее зеркало (наружное зеркало)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12C00000_23",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Фонарь указателя поворота",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12C00000_62",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Датчик давления масла",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_805",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Датчик положения коленвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_833",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Датчик температуры охлаждающей жидкости",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_830",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Дистанционная шайба, коленчатый вал",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_1589",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект болтов головки цилидра",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_1217",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект подшипников коленчатого вала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_5017",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект прокладок ГБЦ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_319",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект прокладок двигателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_560",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект прокладок масляного радиатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_557",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект прокладок стержня клапана",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_323",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект прокладок, блок-картер двигателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_150",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект ременных шкивов, коленчатый вал",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_4768",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект уплотнительных колец, клапанная форсунка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_4948",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект цели привода распредвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_1389",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Коромысло клапана",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_561",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Крышка корпуса масляного фильтра",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_3323",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Маслопровод, компрессор (маслопровод (компрессор))",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_3739",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Маслосъемный колпачок",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_322",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Масляный насос (моторное масло)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_596",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Маховик",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_577",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Монтажный комплект, компрессор (нагнетатель)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_2420",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Моторное масло (двигатель)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_3224",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Набор инструментов, цепь привода распредвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_8017",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Натяжитель ремня поликлинового",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_541",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Натяжитель, цепь привода (цепь привода распредвала)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_571",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Опора двигателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_247",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Планка успокоителя, цепь привода (цепь привода распредвала)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_1075",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Пробка резьбовая масляного поддона",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_593",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка водяной насоса",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_314",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка впускного коллектора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_42",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка выпускного коллектора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_27",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка ГБЦ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_318",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка корпуса термостата",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_317",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка крышки ГБЦ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_321",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка масляного насоса",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_132",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка масляного поддона",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_455",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка, компрессор (нагнетатель)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_141",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка, крышка картера рулевого механизма (крышка корпуса газораспределительного механизма)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_569",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Ременный шкив, коленчатый вал",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_3213",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Ремень поликлиновой",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_305",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Ролик паразитный поликлинового ремня",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_312",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Сальник коленвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_572",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Толкатель клапана",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_1216",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Уплотнение, регулятор фаз газораспределения (шестерня привода распределительного вала)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_9888",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Уплотнительное кольцо резьбовой пробки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_135",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Уплотнительное кольцо, компрессор (нагнетатель)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_3743",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Фильтр воздушный двигателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_8",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Фильтр масляный двигателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_7",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Центральный магнит, шестерня привода распределительного вала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_4229",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Цепь привода распредвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=12F00000_1123",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Система подачи топлива",
+      "system_en": "Fuel System",
+      "part_name": "Фильтр топливный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=15F00000_9",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Подготовка топливной смеси",
+      "system_en": "Fuel Mixture Preparation",
+      "part_name": "Датчик давления выхлопных газов",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=16B00000_4272",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Подготовка топливной смеси",
+      "system_en": "Fuel Mixture Preparation",
+      "part_name": "Датчик температуры выхлопных газов",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=16B00000_3938",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Подготовка топливной смеси",
+      "system_en": "Fuel Mixture Preparation",
+      "part_name": "Датчик температуры топлива",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=16B00000_3944",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Подготовка топливной смеси",
+      "system_en": "Fuel Mixture Preparation",
+      "part_name": "Клапанная форсунка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=16B00000_3905",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Подготовка топливной смеси",
+      "system_en": "Fuel Mixture Preparation",
+      "part_name": "Комплект прокладок форсунки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=16B00000_3894",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Подготовка топливной смеси",
+      "system_en": "Fuel Mixture Preparation",
+      "part_name": "Комплект уплотнительных колец, клапанная форсунка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=16B00000_4948",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Система выпуска",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель выхлопных газов конечный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=13200000_3437",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Система выпуска",
+      "system_en": "Exhaust System",
+      "part_name": "Датчик давления выхлопных газов",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=13200000_4272",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Система выпуска",
+      "system_en": "Exhaust System",
+      "part_name": "Датчик температуры выхлопных газов",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=13200000_3938",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Система выпуска",
+      "system_en": "Exhaust System",
+      "part_name": "Катализатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=13200000_429",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Система выпуска",
+      "system_en": "Exhaust System",
+      "part_name": "Клемма, система выпуска",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=13200000_1056",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Система выпуска",
+      "system_en": "Exhaust System",
+      "part_name": "Маслопровод, компрессор (маслопровод (компрессор))",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=13200000_3739",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Система выпуска",
+      "system_en": "Exhaust System",
+      "part_name": "Монтажный комплект, компрессор (нагнетатель)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=13200000_2420",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Система выпуска",
+      "system_en": "Exhaust System",
+      "part_name": "Прокладка выхлопной трубы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=13200000_138",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Система выпуска",
+      "system_en": "Exhaust System",
+      "part_name": "Прокладка, компрессор (нагнетатель)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=13200000_141",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Система выпуска",
+      "system_en": "Exhaust System",
+      "part_name": "Резиновые полоски, система выпуска",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=13200000_1055",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Система выпуска",
+      "system_en": "Exhaust System",
+      "part_name": "Сажевый / частичный фильтр, система выхлопа ОГ (сажа)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=13200000_1256",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Система выпуска",
+      "system_en": "Exhaust System",
+      "part_name": "Система выпуска ОГ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=13200000_26",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Система выпуска",
+      "system_en": "Exhaust System",
+      "part_name": "Средний глушитель выхлопных газов",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=13200000_3436",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Датчик температуры охлаждающей жидкости",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=13B00000_830",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Комплект прокладок масляного радиатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=13B00000_557",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Крышка бачка охлаждающей жидкости",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=13B00000_56",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Насос водяной охлаждения двигателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=13B00000_1260",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Прокладка водяной насоса",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=13B00000_314",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Прокладка корпуса термостата",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=13B00000_317",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Радиатор охлаждения двигателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=13B00000_470",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Термостат охлаждающей жидкости",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=13B00000_316",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Электродвигатель, вентилятор радиатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=13B00000_792",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Система сцепления",
+      "system_en": "Clutch System",
+      "part_name": "Комплект сцепления",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=15C00000_479",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Система сцепления",
+      "system_en": "Clutch System",
+      "part_name": "Маховик",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=15C00000_577",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Система сцепления",
+      "system_en": "Clutch System",
+      "part_name": "Тормозная жидкость",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=15C00000_3357",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Система сцепления",
+      "system_en": "Clutch System",
+      "part_name": "Центральный выключатель, система сцепления",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=15C00000_47",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "КПП",
+      "system_en": "Transmission",
+      "part_name": "Гидрофильтр АКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=16200000_416",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "КПП",
+      "system_en": "Transmission",
+      "part_name": "Масло АКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=16200000_3069",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "КПП",
+      "system_en": "Transmission",
+      "part_name": "Масло МКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=16200000_3225",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "КПП",
+      "system_en": "Transmission",
+      "part_name": "Масло, бесступенчатая трансмиссия (CVT)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=16200000_8562",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "КПП",
+      "system_en": "Transmission",
+      "part_name": "Опора АКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=16200000_248",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "КПП",
+      "system_en": "Transmission",
+      "part_name": "Опора МКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=16200000_249",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Привод колеса",
+      "system_en": "Wheel Drive",
+      "part_name": "Пыльник приводного вала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14D00000_193",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Привод колеса",
+      "system_en": "Wheel Drive",
+      "part_name": "Пыльник приводного вала, комплект",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14D00000_194",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Трансмиссия",
+      "system_en": "Transmission",
+      "part_name": "Масло раздаточной коробки (раздаточная коробка)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=17D00000_3421",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Болт, диск тормозного механизма (тормозной диск)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=13800000_54",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Выключатель фонаря сигнала торможения (фонарь сигнала торможения)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=13800000_806",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Диск тормозной",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=13800000_82",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Колодки тормозные дисковые, комплект",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=13800000_402",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Комплектующие дисковых тормозных колодок",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=13800000_1164",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Прокладка вакуумного насоса",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=13800000_666",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Тормозная жидкость",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=13800000_3357",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Цилиндр тормозной главный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=13800000_258",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Подвеска и амортизация",
+      "system_en": "Suspension / Damping",
+      "part_name": "Амортизатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14400000_854",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Подвеска и амортизация",
+      "system_en": "Suspension / Damping",
+      "part_name": "Дополнительная рессора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14400000_1717",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Подвеска и амортизация",
+      "system_en": "Suspension / Damping",
+      "part_name": "Опора стойки амортизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14400000_1180",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Подвеска и амортизация",
+      "system_en": "Suspension / Damping",
+      "part_name": "Подшипник опоры стойки амортизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14400000_1626",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Подвеска и амортизация",
+      "system_en": "Suspension / Damping",
+      "part_name": "Ремкомплект опоры стойки амортизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14400000_1632",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Болт для крепления колеса",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14A00000_2070",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Датчик частоты вращения колеса, контроль давления в шинах (контрольная система давления в шинах)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14A00000_2232",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Диск тормозной",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14A00000_82",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Опора стойки амортизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14A00000_1180",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Подшипник опоры стойки амортизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14A00000_1626",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Подшипник ступицы колеса, комплект",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14A00000_654",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Ремкомплект опоры стойки амортизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14A00000_1632",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Рычаг независимой подвески колеса",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14A00000_273",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Сайлентблок рычага подвески",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14A00000_251",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Стойка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14A00000_3229",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Ступица колеса",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14A00000_653",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Тяга / стойка, подвеска колеса",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14A00000_3230",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Рулевое управление",
+      "system_en": "Steering",
+      "part_name": "Наконечник поперечной рулевой тяги",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14700000_914",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Рулевое управление",
+      "system_en": "Steering",
+      "part_name": "Осевой шарнир рулевой тяги",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14700000_51",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Рулевое управление",
+      "system_en": "Steering",
+      "part_name": "Пыльник рулевого управления, комплект",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14700000_195",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Выключатель фонаря сигнала торможения (фонарь сигнала торможения)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14100000_806",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Выключатель, фара заднего хода",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14100000_807",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Генератор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14100000_4",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Датчик давления выхлопных газов",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14100000_4272",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Датчик положения коленвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14100000_833",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Датчик температуры выхлопных газов",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14100000_3938",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Датчик температуры охлаждающей жидкости",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14100000_830",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Датчик температуры топлива",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14100000_3944",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Датчик частоты вращения колеса, контроль давления в шинах (контрольная система давления в шинах)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14100000_2232",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Задний фонарь",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14100000_391",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Лампа oсвещения салона",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14100000_117",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Лампа габаритного освещения",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14100000_1172",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Лампа дополнительного фонаря торможения",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14100000_2797",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Лампа заднего габаритого освещения",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14100000_115",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Лампа задней противотуманной фары",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14100000_113",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Лампа накаливания дневного освещения",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14100000_3853",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Лампа освещения багажника",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14100000_119",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Лампа освещения номерного знака",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14100000_112",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Лампа освещения подкапотого пространства",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14100000_120",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Лампа освещения ящика для перчаток",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14100000_3002",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Лампа подсветки двери",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14100000_118",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Лампа сигнала торможения",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14100000_111",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Лампа стояночного/габаритного огня",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14100000_1092",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Лампа страховочного освещения двери",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14100000_2991",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Лампа указателя поворота",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14100000_105",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Лампа фары заднего хода",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14100000_114",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Лампа фонаря сигнала тормоза/заднего габарита",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14100000_110",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Лампа, лампа чтения (лампа для чтения)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14100000_3004",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Лампа, противотуманные . задние фонари (противотуманный / задний подфарник)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14100000_2992",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Наружное зеркало",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14100000_50",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Стартерная аккумуляторная батарея",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14100000_1",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Ступица колеса",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14100000_653",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Фонарь указателя поворота",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=14100000_62",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Система зажигания / накаливания",
+      "system_en": "Ignition System",
+      "part_name": "Датчик положения коленвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=13E00000_833",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Система зажигания / накаливания",
+      "system_en": "Ignition System",
+      "part_name": "Катушка зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=13E00000_689",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Система зажигания / накаливания",
+      "system_en": "Ignition System",
+      "part_name": "Свеча зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=13E00000_686",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Отопление / вентиляция",
+      "system_en": "HVAC",
+      "part_name": "Регулирующий клапан охлаждающей жидкости (охлаждающая жидкость)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=16500000_2073",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Отопление / вентиляция",
+      "system_en": "HVAC",
+      "part_name": "Фильтр салона",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=16500000_424",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Кондиционер",
+      "system_en": "Air Conditioning",
+      "part_name": "Компрессор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=16800000_447",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Кондиционер",
+      "system_en": "Air Conditioning",
+      "part_name": "Конденсатор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=16800000_448",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Система очистки окон",
+      "system_en": "Wiper System",
+      "part_name": "Двигатель стеклоочистителя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=15600000_295",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Система очистки окон",
+      "system_en": "Wiper System",
+      "part_name": "Насос стеклоочистителя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=15600000_794",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Система очистки окон",
+      "system_en": "Wiper System",
+      "part_name": "Щётка стеклоочистителя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=15600000_298",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Дополнительные удобства",
+      "system_en": "Comfort Features",
+      "part_name": "Выключатель, привод сцепления (Tempomat) (система управления сцеплением)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=16E00000_2415",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Колёса / шины",
+      "system_en": "Wheels / Tires",
+      "part_name": "Болт для крепления колеса",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=18900000_2070",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "Колёса / шины",
+      "system_en": "Wheels / Tires",
+      "part_name": "Датчик частоты вращения колеса, контроль давления в шинах (контрольная система давления в шинах)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=89C000A6&id=18900000_2232",
+      "source": "exist.ru:Qashqai III/1.3 DIG-T"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "000 <<НИССАН » VN0000000000000 0000 к kg EAC2: 006 NISSA Tyре 000000000 Colour, Trim 000 0 Model0000000 NTI416",
+      "subsystem": "",
+      "part_number": "000000000",
+      "source_url": "",
+      "source": "manual:chunks-manual-qashqai.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Dec coypn31 Appied stantand DRAFT EN301 491 V22020179 DRAFT EN.301 485-3 V211",
+      "subsystem": "",
+      "part_number": "V22020179",
+      "source_url": "",
+      "source": "manual:chunks-manual-qashqai.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "NIC3046",
+      "subsystem": "",
+      "part_number": "NIC3046",
+      "source_url": "",
+      "source": "manual:chunks-manual-qashqai.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "NIC3047",
+      "subsystem": "",
+      "part_number": "NIC3047",
+      "source_url": "",
+      "source": "manual:chunks-manual-qashqai.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "SSS0300AZ",
+      "subsystem": "",
+      "part_number": "SSS0300AZ",
+      "source_url": "",
+      "source": "manual:chunks-manual-qashqai.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Нес V A -47 Асистен NIC4015",
+      "subsystem": "",
+      "part_number": "NIC4015",
+      "source_url": "",
+      "source": "manual:chunks-manual-qashqai.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ОШИБКА: ДАТЧИК NIC2584",
+      "subsystem": "",
+      "part_number": "NIC2584",
+      "source_url": "",
+      "source": "manual:chunks-manual-qashqai.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "NIC1256Z",
+      "subsystem": "",
+      "part_number": "NIC1256Z",
+      "source_url": "",
+      "source": "manual:chunks-manual-qashqai.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "NIC1402Z",
+      "subsystem": "",
+      "part_number": "NIC1402Z",
+      "source_url": "",
+      "source": "manual:chunks-manual-qashqai.md"
+    }
+  ],
+  "parts_total_original": 227,
+  "parts_capped": true
+}

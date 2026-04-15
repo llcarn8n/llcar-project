@@ -1,0 +1,18 @@
+{
+  "brand": "kia",
+  "model": "k5",
+  "source_path_rel": "kia/models/k5/",
+  "manual_md_size": 140047180,
+  "has_dita": true,
+  "has_pdf": false,
+  "variants": [
+    "manual-9b5287.md",
+    "manual-k5-i_2020_2024.md",
+    "manual-k5-ii_2023_н_в.md",
+    "manual-k5.md",
+    "manual-k5_ru.md",
+    "manual-k8.md",
+    "manual-ru_2.md",
+    "manual-ru_reocr.md"
+  ]
+}

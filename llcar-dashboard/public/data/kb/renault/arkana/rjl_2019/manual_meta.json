@@ -1,0 +1,15 @@
+{
+  "brand": "renault",
+  "model": "arkana",
+  "source_path_rel": "renault/models/arkana/",
+  "manual_md_size": 72868877,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-4e7ac8-old.md",
+    "manual-arkana-old.md",
+    "manual-c3e92d.md",
+    "manual-old.md",
+    "manual-reocr-old.md"
+  ]
+}

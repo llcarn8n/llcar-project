@@ -1,0 +1,12 @@
+{
+  "brand": "tank",
+  "model": "500",
+  "source_path_rel": "tank/models/500/",
+  "manual_md_size": 410983059,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-622929.md",
+    "manual-ii_2025_н_в.md"
+  ]
+}

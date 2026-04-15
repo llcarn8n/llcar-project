@@ -1,0 +1,1827 @@
+{
+  "brand": "kia",
+  "model": "sorento",
+  "source": "manual_extract+template",
+  "total_parts": 215,
+  "systems": {
+    "Uncategorized": 120,
+    "Engine": 15,
+    "Fuel System": 4,
+    "Exhaust System": 5,
+    "Cooling System": 8,
+    "Transmission": 5,
+    "Brake System": 9,
+    "Suspension / Wheels": 13,
+    "Steering": 4,
+    "Electrical": 8,
+    "HVAC": 5,
+    "Body": 9,
+    "Wiper System": 4,
+    "Interior": 2,
+    "Wheels / Tires": 4
+  },
+  "parts": [
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Моторное масло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Масляный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Воздушный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Свечи зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Катушка зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень ГРМ / цепь ГРМ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень генератора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка клапанной крышки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка ГБЦ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик положения коленвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Расходомер воздуха",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Дроссельная заслонка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Форсунки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Регулятор давления топлива",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Каталитический нейтрализатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель средний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Прокладка выхлопной трубы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Антифриз",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Радиатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Вентилятор радиатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Расширительный бачок",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Крышка расширительного бачка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Патрубки системы охлаждения",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Масло АКПП / МКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Фильтр АКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Сцепление (комплект)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Выжимной подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Главный цилиндр сцепления",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозная жидкость",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Датчик ABS",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные барабанные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Стойка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Втулка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Рычаг подвески",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Сайлентблок рычага",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Шаровая опора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Ступичный подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС наружный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС внутренний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пыльник ШРУСа",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Наконечник рулевой тяги",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Рулевая тяга",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Жидкость ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Насос ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Аккумулятор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Генератор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Стартер",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фара передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фонарь задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Лампы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Предохранители",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Фильтр салонный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Компрессор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Радиатор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Осушитель кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Вентилятор отопителя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Боковое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Ветровое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Заднее стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Зеркало боковое",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Капот",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Крыло переднее",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Дверь",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётки стеклоочистителя передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётка стеклоочистителя задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Бачок омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Насос омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Коврики салона",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Педаль газа / тормоза",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Шина",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Диск колёсный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Гайка колёсная",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "65 43 21 765 43 2 1 87 6 5 4 3 2 1 201918171615141312111098 1918171615141312111098 2321201918171615161312100 3029 28/27202524 23221 2827 2625 242322 2120 3534 3323130 2928720 2524 -Разъем \"С\" -Разъем ",
+      "subsystem": "",
+      "part_number": "35343323130",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "АТАЫПЯРОРНАЯЯ DN -LM]- 8 88 J8-01 3OAFLOWER 0-00 x-36 Q2 АМОИЯ 6301 6408 000 ST 1G2 101 ACC МОДЕЛИС ДВИТЕЛЕМ G-12 x-09 807 00 i GMI Co -OM- xx -LAC1- x-2 c14 ====G15 12 m 30 2. G-14 21 K K O M (M ③1 t",
+      "subsystem": "",
+      "part_number": "63016408000",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "на 0.0ol 0 120 250 370 480 840 Расход воздуха, кгч",
+      "subsystem": "",
+      "part_number": "120250370",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "①②③ ④6l00 091020050 Вывод Назначение 1 AHTeHHa 2 Задний левый динамик(-)",
+      "subsystem": "",
+      "part_number": "091020050",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "B-1d СИСТЕМА УПРАВЛЕНИЯ ДВИГАТЕЛЕМ ЭЛЕКТРОННЫЙ БЛОК УПРАВЛЕНИЯ ДВИГАТЕЛЕМ A16 810 A28 A14 A29 A15 B3 A35 813 825 V======= = =============== = ==V ===8-01 C BRIC1 WOC1 ROC YO.C1 UOICI wc \\$==x3\\$ Схемы",
+      "subsystem": "",
+      "part_number": "A35813825V",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "9 40 TO N 1) ДИПОСТИЕСОРАМ КОМЕВИН СИЯ СПРИЕБОРОВ СИЕТАДНОИ МОДЕЛИСАКПП f \\$ @← © BАСА ПО =x-11 1x== T DN WOC UOIC YOC YBICI C(C1 LOIC RUC1 cOc1 ROCI YIBICI B-08 10B0 ↑== === == ======= = ↑ ======= ==",
+      "subsystem": "",
+      "part_number": "A19828927",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "КОМБИНАЦИЯ ПРИБОРОВ УЕТЕТО ИНДИКАТО PEROMATOO HETEATRS Схемы электрооборудования ПЕРЕДАЧИ Синал 20 819 A13 815 817 м 814 c01 ==== w X-07 GBM x-07 2Xx08 wT +x-\\$ GBiM CBm x-09 Xx-06 x2 10×29 cn x-16 0 ",
+      "subsystem": "",
+      "part_number": "A13815817",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "300 100001 q D n □ 2 U O Х-ОМ ЖГУТ ОСНОВНОЙ ПРОВОДКИ (М) - ЖГУТ ПРОВОДКИ ДВИГАТЕЛЯ (Е) В M0 1 000 0 . R aes L a \\* R n\"wo 0 . 12 \"0W V Х-О5 ЖГУТ ОСНОВНОЙ ПРОВОДКИ (М) - ЖГУТ ПРОВОДКИ ПАНЕЛИ ПРИБОРОВ (",
+      "subsystem": "",
+      "part_number": "300100001",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "масляного поддона, как показано на соответствующем рисунке. Герметик должен быть нанесен непрерывной полоской диаметром примерно 4 мм. ерметик. ..MS7140A или равнозначный Знимание: -Для предотвращения",
+      "subsystem": "",
+      "part_number": "MS7140A",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "8 88 1 CA V1 -CM1- PACE T И JB-01 10 P CM. CXEMYW 3x-36 АОЯ 4C1- JB-02 S71021G1ACC x363 -Y|M1- 109. G ↑= -LM- -L(M)- \\$1 4C s 1 GOM] C29 2x-71 ЭЛЕКТРОННЫЙ БЛОК УПРАВЛЕНИЯ ДВИГАТЕЛЕМ GOCl \\======== ===",
+      "subsystem": "",
+      "part_number": "S71021G1ACC",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "01 16.01 A CIM- ==x-36 2OAU 0 π 606 50 0 408 50 CM CXEAY ST KG2101 ACC M6 YPM1 10JB-13 M A ЦЕПЬ СЕРВОПРИВОДА 6 SMATTER V ==G-08 Y x=x=x=-=G03 JB-15 LWACI CIACI ЦАС1 UBIACI YRACI BAC ===x=x=x==x=x40 BR",
+      "subsystem": "",
+      "part_number": "KG2101",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ААТОМПАТОРНАЯЯ 0 ONON 1 -C(M] x36r 20AAIO -M 50.04 5 CM. CXEMY W ЗАМИГАНИЯ ③ 1sc-10 19X-09 c 08 00 8 36 STC2101ACC SC-10 ROIN + ↑ ==-01 13 8 МАГНИТОЛА 0 =\\$ = ======+01 Bin BR uon cor =x22 =x2\\$ Y ===",
+      "subsystem": "",
+      "part_number": "STC2101ACC",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "USE THE DESIGNATED FUSE ONLY 91990-P2640 используйте только предназначенные предохранители USE SOLO LOS FUSIBLES ESPECIFICADOS",
+      "subsystem": "",
+      "part_number": "91990-P2640",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Тип В KM/ч миль/ч 80 100 120 140 60 100 60 170- 40 120-",
+      "subsystem": "",
+      "part_number": "80100120140",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Wатиng-Fідуеет-Предупреждение-уi-Внимание-рогоЕNе DO NOT ploce o rear focing child seat on the hont seat untess POSeNger ItOg  deOCTVOtE.DEATH OR SEROUS NURY CO oc0ur. Ne helene o hdmotele ndu grenekc",
+      "subsystem": "",
+      "part_number": "OHM036053L",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Тип В KM/ч миль/ч 80 100 120 140 60 100 60 170- 40 120-",
+      "subsystem": "",
+      "part_number": "100120140",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "0JA040544",
+      "subsystem": "",
+      "part_number": "0JA040544",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "A OCK060062L",
+      "subsystem": "",
+      "part_number": "OCK060062L",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "A OCK060065L",
+      "subsystem": "",
+      "part_number": "OCK060065L",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "B 08000 B7 DIESEEL L OTM048456L",
+      "subsystem": "",
+      "part_number": "OTM048456L",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMQ4030083L",
+      "subsystem": "",
+      "part_number": "OMQ4030083L",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Сиденье второго ряда. OMQ4030091L \\* (1) Левая сторона, (2) центр, (3) правая сторона Сиденье третьего ряда (при наличии)",
+      "subsystem": "",
+      "part_number": "OMQ4030091L",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "A AIRBAG OSP21039031",
+      "subsystem": "",
+      "part_number": "OSP21039031",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "2. Замените батарейку на новую (CR2032). При замене батарейки убедитесь, что она правильно установлена.",
+      "subsystem": "",
+      "part_number": "CR2032",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMQ4040109RU",
+      "subsystem": "",
+      "part_number": "OMQ4040109RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "SE7 OMQ4040004",
+      "subsystem": "",
+      "part_number": "OMQ4040004",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMQ4041011",
+      "subsystem": "",
+      "part_number": "OMQ4041011",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMQ4041013",
+      "subsystem": "",
+      "part_number": "OMQ4041013",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ч OMQ4041014",
+      "subsystem": "",
+      "part_number": "OMQ4041014",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": ": 2 OMQ4041446 OMQ4051447L",
+      "subsystem": "",
+      "part_number": "OMQ4041446",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": ": 2 OMQ4041446 OMQ4051447L",
+      "subsystem": "",
+      "part_number": "OMQ4051447L",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMQ4040448 • Нажмите кнопку для того, чтобы сложить внешнее зеркало заднего вида. Для того, чтобы привести зеркало в рабочее положение, еще раз нажмите кнопку.",
+      "subsystem": "",
+      "part_number": "OMQ4040448",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "-20 230tmt 260 0 MPH 160 9 + ODL3049155 OMQ4AH040164",
+      "subsystem": "",
+      "part_number": "ODL3049155",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMQ4040113",
+      "subsystem": "",
+      "part_number": "OMQ4040113",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMQ4040126RU",
+      "subsystem": "",
+      "part_number": "OMQ4040126RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMQ4040138RU",
+      "subsystem": "",
+      "part_number": "OMQ4040138RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMQ4040139RU",
+      "subsystem": "",
+      "part_number": "OMQ4040139RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMQ4041139RU",
+      "subsystem": "",
+      "part_number": "OMQ4041139RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMQ4040160RU",
+      "subsystem": "",
+      "part_number": "OMQ4040160RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMQ4040135RU",
+      "subsystem": "",
+      "part_number": "OMQ4040135RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMQ4040136RU",
+      "subsystem": "",
+      "part_number": "OMQ4040136RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "120 250m F197 OMQ4040449",
+      "subsystem": "",
+      "part_number": "OMQ4040449",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMQ4041603L",
+      "subsystem": "",
+      "part_number": "OMQ4041603L",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "— 00 i #0 o o Oe OMQ4040054L",
+      "subsystem": "",
+      "part_number": "OMQ4040054L",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMQ4040555L",
+      "subsystem": "",
+      "part_number": "OMQ4040555L",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3 с OMQ4040559BR",
+      "subsystem": "",
+      "part_number": "OMQ4040559BR",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "2 ODL3049475L • Чтобы включить лампу подсветки карты, нажмите рассеиватель (1). Чтобы выключить лампу подсветки карты, снова нажмите рассеиватель (1).",
+      "subsystem": "",
+      "part_number": "ODL3049475L",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4 6 0 R-1234yf ②XXx±XXg PAG  ео т и OKA4040574N",
+      "subsystem": "",
+      "part_number": "OKA4040574N",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "V OMQ4040089 OMQ4040090",
+      "subsystem": "",
+      "part_number": "OMQ4040089",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "V OMQ4040089 OMQ4040090",
+      "subsystem": "",
+      "part_number": "OMQ4040090",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMQ4050268L",
+      "subsystem": "",
+      "part_number": "OMQ4050268L",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "KU AIRBAG OMQ4051042",
+      "subsystem": "",
+      "part_number": "OMQ4051042",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMQ4050283RU",
+      "subsystem": "",
+      "part_number": "OMQ4050283RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMQ4050031RU",
+      "subsystem": "",
+      "part_number": "OMQ4050031RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMQ4050032RU",
+      "subsystem": "",
+      "part_number": "OMQ4050032RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMQ4050056RU",
+      "subsystem": "",
+      "part_number": "OMQ4050056RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMQ4050054RU",
+      "subsystem": "",
+      "part_number": "OMQ4050054RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "LO 7 OMQ4051058",
+      "subsystem": "",
+      "part_number": "OMQ4051058",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "G OMQ4040435 •  Для отключения ISG нажмите кнопку «ISG OFF» (ISG выкл.). Загорается индикатор на кнопке выключения «ISG OFF» (Старт– стоп). Если снова нажать кнопку «ISG OFF» (ISG выкл.), ISG будет ак",
+      "subsystem": "",
+      "part_number": "OMQ4040435",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMQ4051284L",
+      "subsystem": "",
+      "part_number": "OMQ4051284L",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMQ4051286L",
+      "subsystem": "",
+      "part_number": "OMQ4051286L",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMQ4050071RU",
+      "subsystem": "",
+      "part_number": "OMQ4050071RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMQ4040504RU",
+      "subsystem": "",
+      "part_number": "OMQ4040504RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMQ4050074RU",
+      "subsystem": "",
+      "part_number": "OMQ4050074RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMQ4051338RU",
+      "subsystem": "",
+      "part_number": "OMQ4051338RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMQ4050211RU",
+      "subsystem": "",
+      "part_number": "OMQ4050211RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMQ4050073RU",
+      "subsystem": "",
+      "part_number": "OMQ4050073RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMQ4050079RU",
+      "subsystem": "",
+      "part_number": "OMQ4050079RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMQ4051155RU",
+      "subsystem": "",
+      "part_number": "OMQ4051155RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMQ4050084",
+      "subsystem": "",
+      "part_number": "OMQ4050084",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMQ4050214RU",
+      "subsystem": "",
+      "part_number": "OMQ4050214RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMQ4050293RU",
+      "subsystem": "",
+      "part_number": "OMQ4050293RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMQ4050291RU",
+      "subsystem": "",
+      "part_number": "OMQ4050291RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMQ4050230RU",
+      "subsystem": "",
+      "part_number": "OMQ4050230RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMQ4040505RU",
+      "subsystem": "",
+      "part_number": "OMQ4040505RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMQ4040506RU",
+      "subsystem": "",
+      "part_number": "OMQ4040506RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMQ4050308L",
+      "subsystem": "",
+      "part_number": "OMQ4050308L",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMQ4050304RU",
+      "subsystem": "",
+      "part_number": "OMQ4050304RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMQ4050305RU",
+      "subsystem": "",
+      "part_number": "OMQ4050305RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMQ4050117RU",
+      "subsystem": "",
+      "part_number": "OMQ4050117RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMQ4050114RU",
+      "subsystem": "",
+      "part_number": "OMQ4050114RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMQ4050116RU",
+      "subsystem": "",
+      "part_number": "OMQ4050116RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMQ4050118RU",
+      "subsystem": "",
+      "part_number": "OMQ4050118RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Дистанция 4 — Дистанция 3 — Дистанция 2 A Дистанция 1 OMQ4071117RU",
+      "subsystem": "",
+      "part_number": "OMQ4071117RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMQ4050134RU",
+      "subsystem": "",
+      "part_number": "OMQ4050134RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMQ4040508RU",
+      "subsystem": "",
+      "part_number": "OMQ4040508RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMQ4050288RU",
+      "subsystem": "",
+      "part_number": "OMQ4050288RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMQ4051142RU",
+      "subsystem": "",
+      "part_number": "OMQ4051142RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMQ4050144RU",
+      "subsystem": "",
+      "part_number": "OMQ4050144RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMQ4050157RU",
+      "subsystem": "",
+      "part_number": "OMQ4050157RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMQ4050220RU",
+      "subsystem": "",
+      "part_number": "OMQ4050220RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMQ4050292RU",
+      "subsystem": "",
+      "part_number": "OMQ4050292RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMQ4050221RU",
+      "subsystem": "",
+      "part_number": "OMQ4050221RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMQ4050314RU",
+      "subsystem": "",
+      "part_number": "OMQ4050314RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMQ4050313RU",
+      "subsystem": "",
+      "part_number": "OMQ4050313RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMQ4050315RU",
+      "subsystem": "",
+      "part_number": "OMQ4050315RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMQ4050316RU",
+      "subsystem": "",
+      "part_number": "OMQ4050316RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "communications or ISM radio wave radiated devices. OCK060094TW",
+      "subsystem": "",
+      "part_number": "OCK060094TW",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "EAC ODL3059224L",
+      "subsystem": "",
+      "part_number": "ODL3059224L",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OKA4050562",
+      "subsystem": "",
+      "part_number": "OKA4050562",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "TRC/31/7635/2020 OMQ4061057L",
+      "subsystem": "",
+      "part_number": "OMQ4061057L",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMQ4060004RU",
+      "subsystem": "",
+      "part_number": "OMQ4060004RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "г OMQ4060041L",
+      "subsystem": "",
+      "part_number": "OMQ4060041L",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "H 2 Z OMQ4061043L",
+      "subsystem": "",
+      "part_number": "OMQ4061043L",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P 9 243 OKA4060045L",
+      "subsystem": "",
+      "part_number": "OKA4060045L",
+      "source_url": "",
+      "source": "manual:chunks-manual-sorento_ru.md"
+    }
+  ],
+  "parts_total_original": 215,
+  "parts_capped": true
+}

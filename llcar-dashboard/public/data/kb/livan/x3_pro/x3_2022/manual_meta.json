@@ -1,0 +1,11 @@
+{
+  "brand": "livan",
+  "model": "x3_pro",
+  "source_path_rel": "livan/models/x3_pro/",
+  "manual_md_size": 1536478,
+  "has_dita": true,
+  "has_pdf": false,
+  "variants": [
+    "manual-2022_2024.md"
+  ]
+}

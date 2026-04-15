@@ -1,0 +1,14 @@
+{
+  "brand": "tank",
+  "model": "700",
+  "source_path_rel": "tank/models/700/",
+  "manual_md_size": 379568911,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-2024_н_в.md",
+    "manual-2024_н_в_2.md",
+    "manual-4548c3.md",
+    "manual-808413.md"
+  ]
+}

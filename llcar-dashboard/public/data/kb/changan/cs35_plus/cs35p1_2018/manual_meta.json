@@ -1,0 +1,13 @@
+{
+  "brand": "changan",
+  "model": "cs35_plus",
+  "source_path_rel": "changan/models/cs35_plus/",
+  "manual_md_size": 1474484,
+  "has_dita": true,
+  "has_pdf": false,
+  "variants": [
+    "manual-399d73.md",
+    "manual-cs35_i_cs35_2014_н_в.md",
+    "manual-cs35_i_cs35_2014_н_в_2.md"
+  ]
+}

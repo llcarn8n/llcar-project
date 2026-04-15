@@ -1,0 +1,16 @@
+{
+  "brand": "baic",
+  "model": "x55",
+  "source_path_rel": "baic/models/x55/",
+  "manual_md_size": 66350541,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-1a8df7--v2.md",
+    "manual-4867ef.md",
+    "manual-reocr.md",
+    "manual-v2.md",
+    "manual-x55-x55_2022_2026.md",
+    "manual-x55.md"
+  ]
+}

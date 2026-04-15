@@ -1,0 +1,1831 @@
+{
+  "brand": "hyundai",
+  "model": "hyundai_creta",
+  "source": "exist.ru",
+  "total_parts": 234,
+  "systems": {
+    "Body": 8,
+    "Engine": 43,
+    "Fuel System": 1,
+    "Fuel Mixture Preparation": 6,
+    "Exhaust System": 2,
+    "Cooling System": 7,
+    "Transmission": 2,
+    "Brake System": 3,
+    "Suspension / Damping": 1,
+    "Suspension / Wheels": 10,
+    "Steering": 2,
+    "Electrical": 24,
+    "Ignition System": 4,
+    "HVAC": 3,
+    "Air Conditioning": 2,
+    "Wiper System": 2,
+    "Comfort Features": 1,
+    "Wheels / Tires": 3,
+    "Uncategorized": 110
+  },
+  "parts": [
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа дальнего света",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12C00000_106",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа задней противотуманной фары",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12C00000_113",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа освещения номерного знака",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12C00000_112",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа основной фары",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12C00000_107",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа противотуманной фары",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12C00000_108",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа указателя поворота",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12C00000_105",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа фары заднего хода",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12C00000_114",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Кузов",
+      "system_en": "Body",
+      "part_name": "Лампа фонаря сигнала тормоза/заднего габарита",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12C00000_110",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Впускной клапан",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_1269",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Выпускной клапан",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_1270",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Датчик давления масла",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_805",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Датчик детонации",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_3921",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Датчик кислородный (Лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_3922",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Датчик положения коленвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_833",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Датчик положения распределительного вала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_3946",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Датчик температуры охлаждающей жидкости",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_830",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Дистанционная шайба, коленчатый вал",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_1589",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект болтов головки цилидра",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_1217",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект вкладышей шатуна",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_6167",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект подшипников коленчатого вала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_5017",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект поршневых колец",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_444",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект прокладок ГБЦ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_319",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект прокладок двигателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_560",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект прокладок крышки ГБЦ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_979",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект прокладок стержня клапана",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_323",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект прокладок, блок-картер двигателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_150",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Комплект цели привода распредвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_1389",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Маслосъемный колпачок",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_322",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Масляный насос (моторное масло)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_596",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Механизм свободного хода генератора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_1390",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Направляющая втулка клапана",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_1644",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Натяжитель, цепь привода (цепь привода распредвала)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_571",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Планка успокоителя, цепь привода (цепь привода распредвала)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_1075",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Подшипник коленвала (коленчатый вал)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_574",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Поликлиновой ременный комплект (ремень поликлиновой)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_542",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Пробка резьбовая масляного поддона",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_593",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка водяной насоса",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_314",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка впускного коллектора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_42",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка выпускного коллектора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_27",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка ГБЦ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_318",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка крышки ГБЦ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_321",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Прокладка масляного поддона",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_455",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Ременный шкив, коленчатый вал",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_3213",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Ремень поликлиновой",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_305",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Ролик паразитный поликлинового ремня",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_312",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Сальник коленвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_572",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Уплотнительное кольцо резьбовой пробки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_135",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Фильтр воздушный двигателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_8",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Фильтр масляный двигателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_7",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Цепь привода распредвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_1123",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Двигатель",
+      "system_en": "Engine",
+      "part_name": "Шатунный подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=12F00000_582",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Система подачи топлива",
+      "system_en": "Fuel System",
+      "part_name": "Фильтр топливный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=15F00000_9",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Подготовка топливной смеси",
+      "system_en": "Fuel Mixture Preparation",
+      "part_name": "Датчик давления во впускном газопроводе",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=16B00000_3947",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Подготовка топливной смеси",
+      "system_en": "Fuel Mixture Preparation",
+      "part_name": "Датчик давления воздуха, высотный корректор (давление воздуха / высотный корректор)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=16B00000_3925",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Подготовка топливной смеси",
+      "system_en": "Fuel Mixture Preparation",
+      "part_name": "Датчик детонации",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=16B00000_3921",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Подготовка топливной смеси",
+      "system_en": "Fuel Mixture Preparation",
+      "part_name": "Датчик кислородный (Лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=16B00000_3922",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Подготовка топливной смеси",
+      "system_en": "Fuel Mixture Preparation",
+      "part_name": "Датчик положения распределительного вала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=16B00000_3946",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Подготовка топливной смеси",
+      "system_en": "Fuel Mixture Preparation",
+      "part_name": "Датчик температуры топлива",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=16B00000_3944",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Система выпуска",
+      "system_en": "Exhaust System",
+      "part_name": "Датчик кислородный (Лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=13200000_3922",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Система выпуска",
+      "system_en": "Exhaust System",
+      "part_name": "Прокладка выхлопной трубы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=13200000_138",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Вентилятор охлаждения двигателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=13B00000_508",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Датчик температуры охлаждающей жидкости",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=13B00000_830",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Насос водяной охлаждения двигателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=13B00000_1260",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Прокладка водяной насоса",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=13B00000_314",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Радиатор охлаждения двигателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=13B00000_470",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Термостат охлаждающей жидкости",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=13B00000_316",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Система охлаждения",
+      "system_en": "Cooling System",
+      "part_name": "Фланец охлаждающей жидкости (циркуляция охлаждающей жидкости)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=13B00000_3219",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "КПП",
+      "system_en": "Transmission",
+      "part_name": "Гидрофильтр АКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=16200000_416",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "КПП",
+      "system_en": "Transmission",
+      "part_name": "Комплект гидрофильтров АКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=16200000_3843",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Диск тормозной",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=13800000_82",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Колодки тормозные дисковые, комплект",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=13800000_402",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Тормозная система",
+      "system_en": "Brake System",
+      "part_name": "Комплект высокоэффективных тормозных колодок (экономичный тормоз)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=13800000_3371",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Подвеска и амортизация",
+      "system_en": "Suspension / Damping",
+      "part_name": "Опора стойки амортизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=14400000_1180",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Втулка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=14A00000_331",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Гайка крепления колеса (колесо)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=14A00000_658",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Датчик частоты вращения колеса, контроль давления в шинах (контрольная система давления в шинах)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=14A00000_2232",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Диск тормозной",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=14A00000_82",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Опора стойки амортизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=14A00000_1180",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Опора шаровая",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=14A00000_2462",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Опора, стабилизатор (подшипник стабилизатора)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=14A00000_1334",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Сайлентблок рычага подвески",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=14A00000_251",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Стойка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=14A00000_3229",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Подвеска оси / система подвески / колеса",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Шпилька колеса (колесо)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=14A00000_657",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Рулевое управление",
+      "system_en": "Steering",
+      "part_name": "Наконечник поперечной рулевой тяги",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=14700000_914",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Рулевое управление",
+      "system_en": "Steering",
+      "part_name": "Пыльник рулевого управления, комплект",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=14700000_195",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Выключатель, фара заднего хода",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=14100000_807",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Генератор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=14100000_4",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Датчик давления во впускном газопроводе",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=14100000_3947",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Датчик давления воздуха, высотный корректор (давление воздуха / высотный корректор)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=14100000_3925",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Датчик детонации",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=14100000_3921",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Датчик дождя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=14100000_2275",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Датчик кислородный (Лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=14100000_3922",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Датчик положения коленвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=14100000_833",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Датчик положения распределительного вала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=14100000_3946",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Датчик температуры охлаждающей жидкости",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=14100000_830",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Датчик температуры топлива",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=14100000_3944",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Датчик уровня жидкости стеклоомывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=14100000_3641",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Датчик частоты вращения колеса, контроль давления в шинах (контрольная система давления в шинах)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=14100000_2232",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Звуковой сигнал",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=14100000_297",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Лампа дальнего света",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=14100000_106",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Лампа задней противотуманной фары",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=14100000_113",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Лампа освещения номерного знака",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=14100000_112",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Лампа основной фары",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=14100000_107",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Лампа противотуманной фары",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=14100000_108",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Лампа указателя поворота",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=14100000_105",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Лампа фары заднего хода",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=14100000_114",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Лампа фонаря сигнала тормоза/заднего габарита",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=14100000_110",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Механизм свободного хода генератора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=14100000_1390",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Электрика",
+      "system_en": "Electrical",
+      "part_name": "Стартер",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=14100000_2",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Система зажигания / накаливания",
+      "system_en": "Ignition System",
+      "part_name": "Датчик положения коленвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=13E00000_833",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Система зажигания / накаливания",
+      "system_en": "Ignition System",
+      "part_name": "Датчик положения распределительного вала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=13E00000_3946",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Система зажигания / накаливания",
+      "system_en": "Ignition System",
+      "part_name": "Катушка зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=13E00000_689",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Система зажигания / накаливания",
+      "system_en": "Ignition System",
+      "part_name": "Свеча зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=13E00000_686",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Отопление / вентиляция",
+      "system_en": "HVAC",
+      "part_name": "Вентилятор салона",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=16500000_2669",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Отопление / вентиляция",
+      "system_en": "HVAC",
+      "part_name": "Прокладка шланга отопления",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=16500000_3758",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Отопление / вентиляция",
+      "system_en": "HVAC",
+      "part_name": "Фильтр салона",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=16500000_424",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Кондиционер",
+      "system_en": "Air Conditioning",
+      "part_name": "Датчик давления кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=16800000_1360",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Кондиционер",
+      "system_en": "Air Conditioning",
+      "part_name": "Конденсатор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=16800000_448",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Система очистки окон",
+      "system_en": "Wiper System",
+      "part_name": "Насос стеклоочистителя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=15600000_794",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Система очистки окон",
+      "system_en": "Wiper System",
+      "part_name": "Щётка стеклоочистителя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=15600000_298",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Дополнительные удобства",
+      "system_en": "Comfort Features",
+      "part_name": "Датчик дождя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=16E00000_2275",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Колёса / шины",
+      "system_en": "Wheels / Tires",
+      "part_name": "Гайка крепления колеса (колесо)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=18900000_658",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Колёса / шины",
+      "system_en": "Wheels / Tires",
+      "part_name": "Датчик частоты вращения колеса, контроль давления в шинах (контрольная система давления в шинах)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=18900000_2232",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "Колёса / шины",
+      "system_en": "Wheels / Tires",
+      "part_name": "Шпилька колеса (колесо)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "https://exist.ru/Catalogs/Global/Parts?i=75100086&id=18900000_657",
+      "source": "exist.ru:Creta II/1.6"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "B FUSE A SWITCH ITO INO 91941-M0600 Gou иопользйта только преднваначаины предохранители",
+      "subsystem": "",
+      "part_number": "91941-M0600",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "технического состояния. Уход за колесами. 202020 198 Передняя подвеска.",
+      "subsystem": "",
+      "part_number": "202020198",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Name 00000000000 1 Принять 2 Отклонить",
+      "subsystem": "",
+      "part_number": "00000000000",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2016_2019.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": ". OGC034006",
+      "subsystem": "",
+      "part_number": "OGC034006",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2016_2019.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OLM034310",
+      "subsystem": "",
+      "part_number": "OLM034310",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2016_2019.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OGC044150",
+      "subsystem": "",
+      "part_number": "OGC044150",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2016_2019.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OTL045130",
+      "subsystem": "",
+      "part_number": "OTL045130",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2016_2019.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OGC044207",
+      "subsystem": "",
+      "part_number": "OGC044207",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2016_2019.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OGC044208",
+      "subsystem": "",
+      "part_number": "OGC044208",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2016_2019.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Phone 003 12:00AM MENU  Y.I Name 000000000",
+      "subsystem": "",
+      "part_number": "000000000",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2016_2019.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OGC054021",
+      "subsystem": "",
+      "part_number": "OGC054021",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2016_2019.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OGC054002",
+      "subsystem": "",
+      "part_number": "OGC054002",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2016_2019.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OGS066007",
+      "subsystem": "",
+      "part_number": "OGS066007",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2016_2019.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OHG075041",
+      "subsystem": "",
+      "part_number": "OHG075041",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2016_2019.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OTA070039",
+      "subsystem": "",
+      "part_number": "OTA070039",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2016_2019.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OGC074030",
+      "subsystem": "",
+      "part_number": "OGC074030",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2016_2019.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM048455L",
+      "subsystem": "",
+      "part_number": "OTM048455L",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2016_2019.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Тип батареи: CR2032",
+      "subsystem": "",
+      "part_number": "CR2032",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2016_2019.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "= Механическая Автоматическая коробка передач коробка передач Ред. параметры, Ред. параметры когда включен в положении сТоян. тормоз передачи Р OTL045292RU/OTL045293RU",
+      "subsystem": "",
+      "part_number": "OTL045292RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2016_2019.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "= Механическая Автоматическая коробка передач коробка передач Ред. параметры, Ред. параметры когда включен в положении сТоян. тормоз передачи Р OTL045292RU/OTL045293RU",
+      "subsystem": "",
+      "part_number": "OTL045293RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2016_2019.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Article  316 EN301489-12.1.1 N301489-173.1.1",
+      "subsystem": "",
+      "part_number": "EN301489-12",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2016_2019.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Article  316 EN301489-12.1.1 N301489-173.1.1",
+      "subsystem": "",
+      "part_number": "N301489-173",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2016_2019.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OLF054439RU",
+      "subsystem": "",
+      "part_number": "OLF054439RU",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2016_2019.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "EN ISO12100 Safety of machinery - General principles for design - Risk assessment (2010) and risk reduction",
+      "subsystem": "",
+      "part_number": "ISO12100",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2016_2019.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "EN IS012100-2/A1 Safety of machinery - Basic concepts, general principles for design, Part (2009) 2: Technical principles",
+      "subsystem": "",
+      "part_number": "IS012100-2",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2016_2019.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### се CE0678",
+      "subsystem": "",
+      "part_number": "CE0678",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2016_2019.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": ". 00S087001",
+      "subsystem": "",
+      "part_number": "00S087001",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ЭТіrпеr 23:27 Эс 23:27 . OJX1049011L/OTM040061L",
+      "subsystem": "",
+      "part_number": "OTM040061L",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OAE046453L",
+      "subsystem": "",
+      "part_number": "OAE046453L",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OAE046455L",
+      "subsystem": "",
+      "part_number": "OAE046455L",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "– OTL047258L",
+      "subsystem": "",
+      "part_number": "OTL047258L",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTL047278L",
+      "subsystem": "",
+      "part_number": "OTL047278L",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM050218N",
+      "subsystem": "",
+      "part_number": "OTM050218N",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "hot! Park with cooled down. engine On Resume drming Ф 0 OJS058137L/OJS058138L",
+      "subsystem": "",
+      "part_number": "OJS058137L",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "hot! Park with cooled down. engine On Resume drming Ф 0 OJS058137L/OJS058138L",
+      "subsystem": "",
+      "part_number": "OJS058138L",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070143N",
+      "subsystem": "",
+      "part_number": "OTM070143N",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070144N",
+      "subsystem": "",
+      "part_number": "OTM070144N",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070094L",
+      "subsystem": "",
+      "part_number": "OTM070094L",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070095N",
+      "subsystem": "",
+      "part_number": "OTM070095N",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070184N",
+      "subsystem": "",
+      "part_number": "OTM070184N",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070035L",
+      "subsystem": "",
+      "part_number": "OTM070035L",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070096N",
+      "subsystem": "",
+      "part_number": "OTM070096N",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070099N",
+      "subsystem": "",
+      "part_number": "OTM070099N",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070098N",
+      "subsystem": "",
+      "part_number": "OTM070098N",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070203L",
+      "subsystem": "",
+      "part_number": "OTM070203L",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070105L",
+      "subsystem": "",
+      "part_number": "OTM070105L",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070107L",
+      "subsystem": "",
+      "part_number": "OTM070107L",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070155",
+      "subsystem": "",
+      "part_number": "OTM070155",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070245",
+      "subsystem": "",
+      "part_number": "OTM070245",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070246",
+      "subsystem": "",
+      "part_number": "OTM070246",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070112L",
+      "subsystem": "",
+      "part_number": "OTM070112L",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070114L",
+      "subsystem": "",
+      "part_number": "OTM070114L",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070116L",
+      "subsystem": "",
+      "part_number": "OTM070116L",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070210L",
+      "subsystem": "",
+      "part_number": "OTM070210L",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OJK070203L",
+      "subsystem": "",
+      "part_number": "OJK070203L",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070213L",
+      "subsystem": "",
+      "part_number": "OTM070213L",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070215L",
+      "subsystem": "",
+      "part_number": "OTM070215L",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070214L",
+      "subsystem": "",
+      "part_number": "OTM070214L",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070217L",
+      "subsystem": "",
+      "part_number": "OTM070217L",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OJK070131",
+      "subsystem": "",
+      "part_number": "OJK070131",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070169L",
+      "subsystem": "",
+      "part_number": "OTM070169L",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070100N",
+      "subsystem": "",
+      "part_number": "OTM070100N",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070125N",
+      "subsystem": "",
+      "part_number": "OTM070125N",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070124L",
+      "subsystem": "",
+      "part_number": "OTM070124L",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070218L",
+      "subsystem": "",
+      "part_number": "OTM070218L",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070172L",
+      "subsystem": "",
+      "part_number": "OTM070172L",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OOS070034L",
+      "subsystem": "",
+      "part_number": "OOS070034L",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "130 25A 1130A 1321.5A 130 104 13 10A 135 10A 135754 10 75A 138 15A",
+      "subsystem": "",
+      "part_number": "10A135754",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OSU2019026",
+      "subsystem": "",
+      "part_number": "OSU2019026",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OSU21049013",
+      "subsystem": "",
+      "part_number": "OSU21049013",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OSU21049021",
+      "subsystem": "",
+      "part_number": "OSU21049021",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OSU21049034",
+      "subsystem": "",
+      "part_number": "OSU21049034",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ЭТіrпеr 23:27 Эс 23:27 . OJX1049011L/OTM040061L",
+      "subsystem": "",
+      "part_number": "OJX1049011L",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ЭТігner 23:27 в9 23:27 OJX1049013L/ OJX1049066L",
+      "subsystem": "",
+      "part_number": "OJX1049013L",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ЭТігner 23:27 в9 23:27 OJX1049013L/ OJX1049066L",
+      "subsystem": "",
+      "part_number": "OJX1049066L",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ЭТіmег 23:27 в9 23:27 OJX1049012L/OJX1049067L",
+      "subsystem": "",
+      "part_number": "OJX1049012L",
+      "source_url": "",
+      "source": "manual:chunks-manual-creta_2020.md"
+    }
+  ],
+  "parts_total_original": 234,
+  "parts_capped": true
+}

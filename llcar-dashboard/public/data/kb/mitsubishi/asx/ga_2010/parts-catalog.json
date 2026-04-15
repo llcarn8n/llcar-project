@@ -1,0 +1,1827 @@
+{
+  "brand": "mitsubishi",
+  "model": "asx",
+  "source": "manual_extract+template",
+  "total_parts": 1081,
+  "systems": {
+    "Uncategorized": 986,
+    "Engine": 15,
+    "Fuel System": 4,
+    "Exhaust System": 5,
+    "Cooling System": 8,
+    "Transmission": 5,
+    "Brake System": 9,
+    "Suspension / Wheels": 13,
+    "Steering": 4,
+    "Electrical": 8,
+    "HVAC": 5,
+    "Body": 9,
+    "Wiper System": 4,
+    "Interior": 2,
+    "Wheels / Tires": 4
+  },
+  "parts": [
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Моторное масло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Масляный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Воздушный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Свечи зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Катушка зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень ГРМ / цепь ГРМ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень генератора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка клапанной крышки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка ГБЦ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик положения коленвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Расходомер воздуха",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Дроссельная заслонка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Форсунки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Регулятор давления топлива",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Каталитический нейтрализатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель средний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Прокладка выхлопной трубы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Антифриз",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Радиатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Вентилятор радиатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Расширительный бачок",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Крышка расширительного бачка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Патрубки системы охлаждения",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Масло АКПП / МКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Фильтр АКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Сцепление (комплект)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Выжимной подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Главный цилиндр сцепления",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозная жидкость",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Датчик ABS",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные барабанные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Стойка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Втулка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Рычаг подвески",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Сайлентблок рычага",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Шаровая опора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Ступичный подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС наружный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС внутренний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пыльник ШРУСа",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Наконечник рулевой тяги",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Рулевая тяга",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Жидкость ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Насос ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Аккумулятор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Генератор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Стартер",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фара передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фонарь задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Лампы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Предохранители",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Фильтр салонный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Компрессор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Радиатор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Осушитель кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Вентилятор отопителя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Боковое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Ветровое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Заднее стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Зеркало боковое",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Капот",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Крыло переднее",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Дверь",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётки стеклоочистителя передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётка стеклоочистителя задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Бачок омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Насос омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Коврики салона",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Педаль газа / тормоза",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Шина",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Диск колёсный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Гайка колёсная",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Указания по безопасному обращению с отработанными маслами и информация по их утилизации 60030060015",
+      "subsystem": "",
+      "part_number": "60030060015",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG5002597",
+      "subsystem": "",
+      "part_number": "AG5002597",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG5002601",
+      "subsystem": "",
+      "part_number": "AG5002601",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AF5001454",
+      "subsystem": "",
+      "part_number": "AF5001454",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG0024390",
+      "subsystem": "",
+      "part_number": "AG0024390",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AA0035376",
+      "subsystem": "",
+      "part_number": "AA0035376",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AA0048732",
+      "subsystem": "",
+      "part_number": "AA0048732",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG0010865",
+      "subsystem": "",
+      "part_number": "AG0010865",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG0024967",
+      "subsystem": "",
+      "part_number": "AG0024967",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG0022585",
+      "subsystem": "",
+      "part_number": "AG0022585",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AA0074384",
+      "subsystem": "",
+      "part_number": "AA0074384",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG0025241",
+      "subsystem": "",
+      "part_number": "AG0025241",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG0025254",
+      "subsystem": "",
+      "part_number": "AG0025254",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG0024231",
+      "subsystem": "",
+      "part_number": "AG0024231",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG1002300",
+      "subsystem": "",
+      "part_number": "AG1002300",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG0005548",
+      "subsystem": "",
+      "part_number": "AG0005548",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG0022921",
+      "subsystem": "",
+      "part_number": "AG0022921",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG0023003",
+      "subsystem": "",
+      "part_number": "AG0023003",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG0023087",
+      "subsystem": "",
+      "part_number": "AG0023087",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AA0014302",
+      "subsystem": "",
+      "part_number": "AA0014302",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG0025140",
+      "subsystem": "",
+      "part_number": "AG0025140",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG0023768",
+      "subsystem": "",
+      "part_number": "AG0023768",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "O O AF0009484",
+      "subsystem": "",
+      "part_number": "AF0009484",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "O O AHA100605",
+      "subsystem": "",
+      "part_number": "AHA100605",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG0004714",
+      "subsystem": "",
+      "part_number": "AG0004714",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AA0042831",
+      "subsystem": "",
+      "part_number": "AA0042831",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "O O AA0082019",
+      "subsystem": "",
+      "part_number": "AA0082019",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3оDо 031106 km 9- 18 \\~10 0D0 031106 km 9 8E 10 оDо031106 km 8 12 13 AG1002401",
+      "subsystem": "",
+      "part_number": "0D0031106",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3оDо 031106 km 9- 18 \\~10 0D0 031106 km 9 8E 10 оDо031106 km 8 12 13 AG1002401",
+      "subsystem": "",
+      "part_number": "AG1002401",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG0018731",
+      "subsystem": "",
+      "part_number": "AG0018731",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG3003486",
+      "subsystem": "",
+      "part_number": "AG3003486",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ODO 031106 km",
+      "subsystem": "",
+      "part_number": "ODO031106",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AFA108810",
+      "subsystem": "",
+      "part_number": "AFA108810",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG3003343",
+      "subsystem": "",
+      "part_number": "AG3003343",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG0018702",
+      "subsystem": "",
+      "part_number": "AG0018702",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG3003356",
+      "subsystem": "",
+      "part_number": "AG3003356",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG3002535",
+      "subsystem": "",
+      "part_number": "AG3002535",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG3003763",
+      "subsystem": "",
+      "part_number": "AG3003763",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG3002564",
+      "subsystem": "",
+      "part_number": "AG3002564",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG3003431",
+      "subsystem": "",
+      "part_number": "AG3003431",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG3003444",
+      "subsystem": "",
+      "part_number": "AG3003444",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG0018786",
+      "subsystem": "",
+      "part_number": "AG0018786",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG3003398",
+      "subsystem": "",
+      "part_number": "AG3003398",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG0019972",
+      "subsystem": "",
+      "part_number": "AG0019972",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG3003460",
+      "subsystem": "",
+      "part_number": "AG3003460",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG1002414",
+      "subsystem": "",
+      "part_number": "AG1002414",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG0004596",
+      "subsystem": "",
+      "part_number": "AG0004596",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG0014645",
+      "subsystem": "",
+      "part_number": "AG0014645",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG0009546",
+      "subsystem": "",
+      "part_number": "AG0009546",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG0009285",
+      "subsystem": "",
+      "part_number": "AG0009285",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AA0064046",
+      "subsystem": "",
+      "part_number": "AA0064046",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG0002358",
+      "subsystem": "",
+      "part_number": "AG0002358",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "– O AA0064482",
+      "subsystem": "",
+      "part_number": "AA0064482",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AA0001018",
+      "subsystem": "",
+      "part_number": "AA0001018",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AA0001021",
+      "subsystem": "",
+      "part_number": "AA0001021",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG0022660",
+      "subsystem": "",
+      "part_number": "AG0022660",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AA0022398",
+      "subsystem": "",
+      "part_number": "AA0022398",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AA0022590",
+      "subsystem": "",
+      "part_number": "AA0022590",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AA0001395",
+      "subsystem": "",
+      "part_number": "AA0001395",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG0027115",
+      "subsystem": "",
+      "part_number": "AG0027115",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG0023364",
+      "subsystem": "",
+      "part_number": "AG0023364",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG3003587",
+      "subsystem": "",
+      "part_number": "AG3003587",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG0005014",
+      "subsystem": "",
+      "part_number": "AG0005014",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG0005027",
+      "subsystem": "",
+      "part_number": "AG0005027",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG0005030",
+      "subsystem": "",
+      "part_number": "AG0005030",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG3003590",
+      "subsystem": "",
+      "part_number": "AG3003590",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG3003604",
+      "subsystem": "",
+      "part_number": "AG3003604",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AA5013326",
+      "subsystem": "",
+      "part_number": "AA5013326",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AA0113377",
+      "subsystem": "",
+      "part_number": "AA0113377",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AA0113393",
+      "subsystem": "",
+      "part_number": "AA0113393",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AA1008825",
+      "subsystem": "",
+      "part_number": "AA1008825",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AA1008779",
+      "subsystem": "",
+      "part_number": "AA1008779",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG0000123",
+      "subsystem": "",
+      "part_number": "AG0000123",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AA0021001",
+      "subsystem": "",
+      "part_number": "AA0021001",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG0023579",
+      "subsystem": "",
+      "part_number": "AG0023579",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG0022237",
+      "subsystem": "",
+      "part_number": "AG0022237",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG0023582",
+      "subsystem": "",
+      "part_number": "AG0023582",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AFA108982",
+      "subsystem": "",
+      "part_number": "AFA108982",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG0024172",
+      "subsystem": "",
+      "part_number": "AG0024172",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "G 0 AF0016242",
+      "subsystem": "",
+      "part_number": "AF0016242",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AA0049508",
+      "subsystem": "",
+      "part_number": "AA0049508",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "/ AF0016271 • При заправке герметика в шину вентиль не должен располагаться в самом низу колеса, то есть он должен быть в стороне от точки контакта колеса с поверхностью. Если вентиль будет расположен",
+      "subsystem": "",
+      "part_number": "AF0016271",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AA0007645",
+      "subsystem": "",
+      "part_number": "AA0007645",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AFG100089",
+      "subsystem": "",
+      "part_number": "AFG100089",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG0022341",
+      "subsystem": "",
+      "part_number": "AG0022341",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "\\$ AF0016011",
+      "subsystem": "",
+      "part_number": "AF0016011",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG0021386",
+      "subsystem": "",
+      "part_number": "AG0021386",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG0009070",
+      "subsystem": "",
+      "part_number": "AG0009070",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AA0002552",
+      "subsystem": "",
+      "part_number": "AA0002552",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG4000150",
+      "subsystem": "",
+      "part_number": "AG4000150",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG0002765",
+      "subsystem": "",
+      "part_number": "AG0002765",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG0002749",
+      "subsystem": "",
+      "part_number": "AG0002749",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AF0016037",
+      "subsystem": "",
+      "part_number": "AF0016037",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AF0016040",
+      "subsystem": "",
+      "part_number": "AF0016040",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG0027085",
+      "subsystem": "",
+      "part_number": "AG0027085",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG0021865",
+      "subsystem": "",
+      "part_number": "AG0021865",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AF0007581",
+      "subsystem": "",
+      "part_number": "AF0007581",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG0016984",
+      "subsystem": "",
+      "part_number": "AG0016984",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AF0015971",
+      "subsystem": "",
+      "part_number": "AF0015971",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AF0016024",
+      "subsystem": "",
+      "part_number": "AF0016024",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "AG1002313",
+      "subsystem": "",
+      "part_number": "AG1002313",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E00200300963",
+      "subsystem": "",
+      "part_number": "E00200300963",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E00201300032",
+      "subsystem": "",
+      "part_number": "E00201300032",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E00300201801",
+      "subsystem": "",
+      "part_number": "E00300201801",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E00300302649",
+      "subsystem": "",
+      "part_number": "E00300302649",
+      "source_url": "",
+      "source": "manual:chunks-manual-asx_2014.md"
+    }
+  ],
+  "parts_total_original": 1081,
+  "parts_capped": true
+}

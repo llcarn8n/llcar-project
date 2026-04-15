@@ -1,0 +1,1827 @@
+{
+  "brand": "fiat",
+  "model": "500",
+  "source": "manual_extract+template",
+  "total_parts": 930,
+  "systems": {
+    "Uncategorized": 835,
+    "Engine": 15,
+    "Fuel System": 4,
+    "Exhaust System": 5,
+    "Cooling System": 8,
+    "Transmission": 5,
+    "Brake System": 9,
+    "Suspension / Wheels": 13,
+    "Steering": 4,
+    "Electrical": 8,
+    "HVAC": 5,
+    "Body": 9,
+    "Wiper System": 4,
+    "Interior": 2,
+    "Wheels / Tires": 4
+  },
+  "parts": [
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Моторное масло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Масляный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Воздушный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Свечи зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Катушка зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень ГРМ / цепь ГРМ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень генератора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка клапанной крышки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка ГБЦ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик положения коленвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Расходомер воздуха",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Дроссельная заслонка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Форсунки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Регулятор давления топлива",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Каталитический нейтрализатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель средний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Прокладка выхлопной трубы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Антифриз",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Радиатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Вентилятор радиатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Расширительный бачок",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Крышка расширительного бачка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Патрубки системы охлаждения",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Масло АКПП / МКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Фильтр АКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Сцепление (комплект)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Выжимной подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Главный цилиндр сцепления",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозная жидкость",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Датчик ABS",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные барабанные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Стойка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Втулка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Рычаг подвески",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Сайлентблок рычага",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Шаровая опора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Ступичный подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС наружный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС внутренний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пыльник ШРУСа",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Наконечник рулевой тяги",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Рулевая тяга",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Жидкость ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Насос ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Аккумулятор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Генератор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Стартер",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фара передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фонарь задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Лампы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Предохранители",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Фильтр салонный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Компрессор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Радиатор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Осушитель кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Вентилятор отопителя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Боковое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Ветровое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Заднее стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Зеркало боковое",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Капот",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Крыло переднее",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Дверь",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётки стеклоочистителя передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётка стеклоочистителя задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Бачок омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Насос омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Коврики салона",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Педаль газа / тормоза",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Шина",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Диск колёсный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Гайка колёсная",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3. Insert the Tappet Holding Lever 18607240001 (2) and remove the Tappet Lowering Lever.",
+      "subsystem": "",
+      "part_number": "18607240001",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Install Tappet Cover Centering Template 200004300 (1) on the cylinder head and cylinder head cover.",
+      "subsystem": "",
+      "part_number": "200004300",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Position the Valve Half-Cone Removing Chamber 187089000 (1) in the Removing/Refitting Valve Lever 1860644001 (5).",
+      "subsystem": "",
+      "part_number": "187089000",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4Use an arbor press and Piston Pin Extracting/Fitting Tool 200003500 (1) to remove the piston pin (2).",
+      "subsystem": "",
+      "part_number": "200003500",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Install the Timing System Driven Pulley Counter-Torque 200004200 (2) to hold the camshaft pulley and tighten the camshaft pulley bolt (1) to 20 N.m (15 ft. lbs.) plus 55° rotation.",
+      "subsystem": "",
+      "part_number": "200004200",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "13Install the Crankshaft Timing Template 200004500 1) to the crankshaft pulley.",
+      "subsystem": "",
+      "part_number": "200004500",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "BUS BAR POSTERUTTION 5 9] 2] OTA CUTC C \\$UE 85 30 CIGHTRS \\$U \\$U FUSE RELA RELAY 85 86 87 87 30 FUELPUMP RELAY 76 45 48 8 75 74 73 4 10 56 BLK GRY/ GRY/ GR REDI RED/ REDI (LEFT REAR DK BLU/ DK BLU/ ",
+      "subsystem": "",
+      "part_number": "MAE386975",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B2001-11-FRONT LEFT AUDIO SPEAKER OUTPUT - CIRCUIT SHORT TO GROUND - BASI",
+      "subsystem": "",
+      "part_number": "B2001-11",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "B2001-12-FRONT LEFT AUDIO SPEAKER OUTPUT - CIRCUIT SHORT TO BATTERY - BASE",
+      "subsystem": "",
+      "part_number": "B2001-12",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "B2001-13-FRONT LEFT AUDIO SPEAKER OUTPUT - CIRCUIT OPEN - BASE",
+      "subsystem": "",
+      "part_number": "B2001-13",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B2001-92-FRONT LEFT AUDIO SPEAKER OUTPUT - PERFORMANCE OR INCORRECTOPERATION",
+      "subsystem": "",
+      "part_number": "B2001-92",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "There are two versions of the B2002-11 DTC test. In order to select the proper test you must know if the vehicle is equipped with an Amplifier. If the vehile is",
+      "subsystem": "",
+      "part_number": "B2002-11",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "B2002-12-FRONT RIGHT AUDIO SPEAKER OUTPUT - CIRCUIT SHORT TO BATTERY - BASE",
+      "subsystem": "",
+      "part_number": "B2002-12",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "B2002-13-FRONT RIGHT AUDIO SPEAKER OUTPUT - CIRCUIT OPEN - BASE",
+      "subsystem": "",
+      "part_number": "B2002-13",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B2002-92-FRONT RIGHT AUDIO SPEAKER OUTPUT - PERFORMANCE OR INCORRECTOPERATION",
+      "subsystem": "",
+      "part_number": "B2002-92",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "There are two versions of the B2003-11 DTC test. In order to select the proper test you must know if the vehicle is equipped with an Amplifier. If the vehile is equipped with an Amplifier use the B200",
+      "subsystem": "",
+      "part_number": "B2003-11",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "There are two versions of the B2003-12 DTC test. In order to select the proper test you must know if the vehicle is equipped with an Amplifier. If the vehicle is equipped with an Amplifier use the B20",
+      "subsystem": "",
+      "part_number": "B2003-12",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "B2003-13-REAR LEFT AUDIO SPEAKER OUTPUT - CIRCUIT OPEN - BASE",
+      "subsystem": "",
+      "part_number": "B2003-13",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B2003-92-REAR LEFT AUDIO SPEAKER OUTPUT - PERFORMANCE OR INCORRECTOPERATION",
+      "subsystem": "",
+      "part_number": "B2003-92",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "There are two versions of the B2004-11 DTC test. In order to select the proper test you must know if the vehicle is equipped with an Amplifier. If the vehicle is equipped with an Amplifier use the B20",
+      "subsystem": "",
+      "part_number": "B2004-11",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "There are two versions of the B2004-12 DTC test. In order to select the proper test you must know if the vehicle is equipped with an Amplifier. If the vehile is equipped with an Amplifier use the B200",
+      "subsystem": "",
+      "part_number": "B2004-12",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "B2004-13-REAR RIGHT AUDIO SPEAKER OUTPUT - CIRCUIT OPEN - BASE",
+      "subsystem": "",
+      "part_number": "B2004-13",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B2004-92-REAR RIGHT AUDIO SPEAKER OUTPUT - PERFORMANCE OR INCORRECTOPERATION",
+      "subsystem": "",
+      "part_number": "B2004-92",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B2005-13-AUDIO ANTENNA - OPEN CIRCUIT",
+      "subsystem": "",
+      "part_number": "B2005-13",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B2005-95-AUDIO ANTENNA - WIRES SHORTED TOGETHER",
+      "subsystem": "",
+      "part_number": "B2005-95",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Using the scan tool, read the active Radio DTCs. Does the scan tool read: B1578-2B AUDIO ANTENNA- WIRES SHORTED TOGETHER as active?",
+      "subsystem": "",
+      "part_number": "B1578-2B",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B2006-49-RADIO - INTERNAL FAILURE",
+      "subsystem": "",
+      "part_number": "B2006-49",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# U0019-87-CAN B BUS - NO SIGNAL",
+      "subsystem": "",
+      "part_number": "U0019-87",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# U0019-88-CAN B BUS OFF",
+      "subsystem": "",
+      "part_number": "U0019-88",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# U1700-86-IMPLAUSIBLE DATA RECEIVED FROM BCM",
+      "subsystem": "",
+      "part_number": "U1700-86",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# U1700-87-LOST COMMUNICATION WITH BCM",
+      "subsystem": "",
+      "part_number": "U1700-87",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# U1703-86-IMPLAUSIBLE DATA RECEIVED FROM IPC",
+      "subsystem": "",
+      "part_number": "U1703-86",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# U1703-87-LOST COMMUNICATION WITH IPC",
+      "subsystem": "",
+      "part_number": "U1703-87",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# U1733-86-IMPLAUSIBLE DATA RECEIVED FROM CTM",
+      "subsystem": "",
+      "part_number": "U1733-86",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# U1733-87-LOST COMMUNICATION WITH CTM",
+      "subsystem": "",
+      "part_number": "U1733-87",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1004-01-DEVICE HALTED",
+      "subsystem": "",
+      "part_number": "B1004-01",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1005-96-INTERNAL ERROR - FLASH MEMORY ERROR",
+      "subsystem": "",
+      "part_number": "B1005-96",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1006-00-INTERNAL ERROR - BLUETOOTH CHIPSET ERROR",
+      "subsystem": "",
+      "part_number": "B1006-00",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1007-00-INTERNAL ERROR - USB UNAVAILABLE",
+      "subsystem": "",
+      "part_number": "B1007-00",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1008-13-BATTERY SUPPLY VOLTAGE - CIRCUIT OPEN",
+      "subsystem": "",
+      "part_number": "B1008-13",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# U1705-86-IMPLAUSIBLE DATA RECEIVED FROM RRM",
+      "subsystem": "",
+      "part_number": "U1705-86",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# U1705-87-LOST COMMUNICATION WITH RRM",
+      "subsystem": "",
+      "part_number": "U1705-87",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1000-44-ECU INTERNAL - DATA MEMORY FAILURE",
+      "subsystem": "",
+      "part_number": "B1000-44",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1000-45-ECU INTERNAL - PROGRAM MEMORY FAILURE",
+      "subsystem": "",
+      "part_number": "B1000-45",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1000-46-ECU INTERNAL - CALIBRATION MEMORY FAILURE",
+      "subsystem": "",
+      "part_number": "B1000-46",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1000-47-ECU INTERNAL - WATCHDOG MICRO FAILURE",
+      "subsystem": "",
+      "part_number": "B1000-47",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "B1900-01-SECURE WARNING LAMPS - GENERAL ELECTRICAL FAILURE",
+      "subsystem": "",
+      "part_number": "B1900-01",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# U1701-86-IMPLAUSIBLE DATA RECEIVED FROM PCM",
+      "subsystem": "",
+      "part_number": "U1701-86",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# U1701-87-LOST COMMUNICATION WITH PCM",
+      "subsystem": "",
+      "part_number": "U1701-87",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# U1706-86-IMPLAUSIBLE DATA RECEIVED FROM BSM",
+      "subsystem": "",
+      "part_number": "U1706-86",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# U1706-87-LOST COMMUNICATION WITH BSM",
+      "subsystem": "",
+      "part_number": "U1706-87",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# U1711-86-IMPLAUSIBLE DATA RECEIVED FROM TCM",
+      "subsystem": "",
+      "part_number": "U1711-86",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# U1711-87-LOST COMMUNICATION WITH TCM",
+      "subsystem": "",
+      "part_number": "U1711-87",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# U1724-86-IMPLAUSIBLE DATA RECEIVED FROM PAM",
+      "subsystem": "",
+      "part_number": "U1724-86",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# U1724-87-LOST COMMUNICATION WITH PAM",
+      "subsystem": "",
+      "part_number": "U1724-87",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# U1726-86-IMPLAUSIBLE DATA RECEIVED FROM ORC",
+      "subsystem": "",
+      "part_number": "U1726-86",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# U1726-87-LOST COMMUNICATION WITH ORC",
+      "subsystem": "",
+      "part_number": "U1726-87",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# U1732-86-IMPLAUSIBLE DATA RECEIVED FROM TPM",
+      "subsystem": "",
+      "part_number": "U1732-86",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# U1732-87-LOST COMMUNICATION WITH TPM",
+      "subsystem": "",
+      "part_number": "U1732-87",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# C1017-11-SENSOR POWER SHORT TO GROUND",
+      "subsystem": "",
+      "part_number": "C1017-11",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# C1018-42-INTERNAL MEMORY ERROR",
+      "subsystem": "",
+      "part_number": "C1018-42",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "The Remote Keyless Entry (RKE) transmitter is powered by a single 3-volt lithium and manganese dioxide button cell battery, which can be removed and replaced with a small screwdriver. Refer to TRANSMI",
+      "subsystem": "",
+      "part_number": "CR2032",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1000-1C-ELECTRONIC CONTROL UNIT - CIRCUIT VOLTAGE OUT OF RANGE",
+      "subsystem": "",
+      "part_number": "B1000-1C",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1002-49-GPS FAILS - INTERNAL ELECTRONIC FAILURE",
+      "subsystem": "",
+      "part_number": "B1002-49",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1003-49-GSM/GPRS - INTERNAL ELECTRONIC FAILURE",
+      "subsystem": "",
+      "part_number": "B1003-49",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1006-4A-SIM FAILURE - INCORRECT COMPONENT INSTALLED",
+      "subsystem": "",
+      "part_number": "B1006-4A",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Does the scan tool display: B1007-18-EXTERNAL BATTERY VOLTAGE - CIRCUIT VOLTAGE BELOW THRESHOLD as active?",
+      "subsystem": "",
+      "part_number": "B1007-18",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "B1007-84-EXTERNAL BATTERY VOLTAGE- SIGNAL BELOW ALLOWABLE RANGE",
+      "subsystem": "",
+      "part_number": "B1007-84",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1008-91-LOCK / UNLOCK BY SERVER - PARAMETRIC",
+      "subsystem": "",
+      "part_number": "B1008-91",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1008-93-LOCK / UNLOCK BY SERVER - NO OPERATION",
+      "subsystem": "",
+      "part_number": "B1008-93",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "B1009-1C-INTERNAL BATTERY VOLTAGE - CIRCUIT VOLTAGE OUT OF RANGE",
+      "subsystem": "",
+      "part_number": "B1009-1C",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1001-52-RKE FOB - NOT ACTIVATED",
+      "subsystem": "",
+      "part_number": "B1001-52",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1001-55-RKE FOB - KEY NOT PROGRAMMED",
+      "subsystem": "",
+      "part_number": "B1001-55",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1001-62-RKE FOB - SIGNAL COMPARE FAILURE",
+      "subsystem": "",
+      "part_number": "B1001-62",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1001-96-RKE FOB - COMPONENT INTERNAL FAILURE",
+      "subsystem": "",
+      "part_number": "B1001-96",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1002-02-IMMOBILIZER COIL - GENERAL SIGNAL FAILURE",
+      "subsystem": "",
+      "part_number": "B1002-02",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Does the scan tool display; B1002-13-IMMOBILIZER COIL - CIRCUIT OPEN?",
+      "subsystem": "",
+      "part_number": "B1002-13",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1003-09-RF MODULE - COMPONENT FAILURE",
+      "subsystem": "",
+      "part_number": "B1003-09",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1006-11-FUEL LEVEL SENSOR - CIRCUIT SHORT TO GROUND",
+      "subsystem": "",
+      "part_number": "B1006-11",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Does the scan tool display DTC: B1006-13-FUEL LEVEL SENSOR - CIRCUIT OPEN?",
+      "subsystem": "",
+      "part_number": "B1006-13",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1006-12-FUEL LEVEL SENSOR - CIRCUIT SHORT TO BATTERY",
+      "subsystem": "",
+      "part_number": "B1006-12",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1007-12-LEFT TURN LAMP - CIRCUIT SHORT TO BATTERY",
+      "subsystem": "",
+      "part_number": "B1007-12",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1007-13-LEFT TURN LAMP - CIRCUIT OPEN",
+      "subsystem": "",
+      "part_number": "B1007-13",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1007-19-LEFT TURN LAMP - OVER CURRENT",
+      "subsystem": "",
+      "part_number": "B1007-19",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1008-12-RIGHT TURN LAMP - CIRCUIT SHORT TO BATTERY",
+      "subsystem": "",
+      "part_number": "B1008-12",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1008-18-RIGHT TURN LAMP - UNDER CURRENT",
+      "subsystem": "",
+      "part_number": "B1008-18",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1008-19-RIGHT TURN LAMP - OVER CURRENT",
+      "subsystem": "",
+      "part_number": "B1008-19",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1010-67-BRAKE PEDAL SWITCHES - SIGNAL INVALID",
+      "subsystem": "",
+      "part_number": "B1010-67",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1011-12-LICENSE PLATE LAMP - CIRCUIT SHORT TO BATTERY",
+      "subsystem": "",
+      "part_number": "B1011-12",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1011-13-LICENSE PLATE LAMP - CIRCUIT OPEN",
+      "subsystem": "",
+      "part_number": "B1011-13",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1011-19-LICENSE PLATE LAMP - OVER CURRENT",
+      "subsystem": "",
+      "part_number": "B1011-19",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1014-12-LEFT STOP LAMP - CIRCUIT SHORT TO BATTERY",
+      "subsystem": "",
+      "part_number": "B1014-12",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1014-13-LEFT STOP LAMP - CIRCUIT OPEN",
+      "subsystem": "",
+      "part_number": "B1014-13",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1014-18-LEFT STOP LAMP - UNDER CURRENT",
+      "subsystem": "",
+      "part_number": "B1014-18",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1014-19-LEFT STOP LAMP - OVER CURRENT",
+      "subsystem": "",
+      "part_number": "B1014-19",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1015-12-RIGHT STOP LAMP - CIRCUIT SHORT TO BATTERY",
+      "subsystem": "",
+      "part_number": "B1015-12",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1015-13-RIGHT STOP LAMP - CIRCUIT OPEN",
+      "subsystem": "",
+      "part_number": "B1015-13",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1015-18-RIGHT STOP LAMP - UNDER CURRENT",
+      "subsystem": "",
+      "part_number": "B1015-18",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1015-19-RIGHT STOP LAMP - OVER CURRENT",
+      "subsystem": "",
+      "part_number": "B1015-19",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1017-12-REVERSE LAMP - CIRCUIT SHORT TO BATTERY",
+      "subsystem": "",
+      "part_number": "B1017-12",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1017-13-REVERSE LAMP - CIRCUIT OPEN",
+      "subsystem": "",
+      "part_number": "B1017-13",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1017-18-REVERSE LAMP - UNDER CURRENT",
+      "subsystem": "",
+      "part_number": "B1017-18",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1017-19-REVERSE LAMP - OVER CURRENT",
+      "subsystem": "",
+      "part_number": "B1017-19",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# B1019-1D-FRONT CEILING LAMP DIMMER - CIRCUIT CURRENT OUT OF RANGE",
+      "subsystem": "",
+      "part_number": "B1019-1D",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "B1020-12-FRONT WIPER LOW SPEED - CIRCUIT SHORT TO BATTERY",
+      "subsystem": "",
+      "part_number": "B1020-12",
+      "source_url": "",
+      "source": "manual:chunks-manual-500_tg.md"
+    }
+  ],
+  "parts_total_original": 930,
+  "parts_capped": true
+}

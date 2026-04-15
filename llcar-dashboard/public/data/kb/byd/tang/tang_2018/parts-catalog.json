@@ -1,0 +1,1827 @@
+{
+  "brand": "byd",
+  "model": "tang",
+  "source": "manual_extract+template",
+  "total_parts": 245,
+  "systems": {
+    "Uncategorized": 150,
+    "Engine": 15,
+    "Fuel System": 4,
+    "Exhaust System": 5,
+    "Cooling System": 8,
+    "Transmission": 5,
+    "Brake System": 9,
+    "Suspension / Wheels": 13,
+    "Steering": 4,
+    "Electrical": 8,
+    "HVAC": 5,
+    "Body": 9,
+    "Wiper System": 4,
+    "Interior": 2,
+    "Wheels / Tires": 4
+  },
+  "parts": [
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Моторное масло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Масляный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Воздушный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Свечи зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Катушка зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень ГРМ / цепь ГРМ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень генератора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка клапанной крышки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка ГБЦ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик положения коленвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Расходомер воздуха",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Дроссельная заслонка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Форсунки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Регулятор давления топлива",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Каталитический нейтрализатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель средний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Прокладка выхлопной трубы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Антифриз",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Радиатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Вентилятор радиатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Расширительный бачок",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Крышка расширительного бачка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Патрубки системы охлаждения",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Масло АКПП / МКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Фильтр АКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Сцепление (комплект)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Выжимной подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Главный цилиндр сцепления",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозная жидкость",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Датчик ABS",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные барабанные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Стойка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Втулка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Рычаг подвески",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Сайлентблок рычага",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Шаровая опора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Ступичный подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС наружный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС внутренний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пыльник ШРУСа",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Наконечник рулевой тяги",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Рулевая тяга",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Жидкость ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Насос ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Аккумулятор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Генератор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Стартер",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фара передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фонарь задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Лампы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Предохранители",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Фильтр салонный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Компрессор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Радиатор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Осушитель кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Вентилятор отопителя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Боковое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Ветровое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Заднее стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Зеркало боковое",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Капот",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Крыло переднее",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Дверь",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётки стеклоочистителя передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётка стеклоочистителя задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Бачок омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Насос омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Коврики салона",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Педаль газа / тормоза",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Шина",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Диск колёсный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Гайка колёсная",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "80\n100\n120\n140",
+      "subsystem": "",
+      "part_number": "80100120140",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "100\n120\n140\n160",
+      "subsystem": "",
+      "part_number": "100120140",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "160\n180\n200\nколичество месяцев3",
+      "subsystem": "",
+      "part_number": "160180200",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "BYD6490SBEV",
+      "subsystem": "",
+      "part_number": "BYD6490SBEV",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "d. Select “VDS2000 vehicle diagnosis system” → “Passenger car” → “EV series” → “New Tang EV 2021” → “New Tang EV 2021 General” → “ECU module” → “Integrated body controller B2 (BYD)”",
+      "subsystem": "",
+      "part_number": "VDS2000",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3.1.7.7 DTC diagnosis: P157016.  141",
+      "subsystem": "",
+      "part_number": "P157016",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3.1.7.8 DTC diagnosis: P157219, P157216,",
+      "subsystem": "",
+      "part_number": "P157219",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3.1.7.8 DTC diagnosis: P157219, P157216,",
+      "subsystem": "",
+      "part_number": "P157216",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P157217  145",
+      "subsystem": "",
+      "part_number": "P157217",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3.1.7.9 DTC diagnosis: P157616  147",
+      "subsystem": "",
+      "part_number": "P157616",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3.1.7.10 DTC diagnosis: P157617  150",
+      "subsystem": "",
+      "part_number": "P157617",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3.1.7.11 DTC diagnosis: P157897  152",
+      "subsystem": "",
+      "part_number": "P157897",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3.1.7.14 DTC diagnosis: P158798.  163",
+      "subsystem": "",
+      "part_number": "P158798",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3.1.7.16 DTC diagnosis: P151100 173",
+      "subsystem": "",
+      "part_number": "P151100",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3.1.7.17 DTC diagnosis: U011100. 178",
+      "subsystem": "",
+      "part_number": "U011100",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3.1.7.18 DTC diagnosis: U015500. 183",
+      "subsystem": "",
+      "part_number": "U015500",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3.1.7.19 DTC diagnosis: U024500. 188",
+      "subsystem": "",
+      "part_number": "U024500",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3.1.7.20 DTC diagnosis: U014087 193",
+      "subsystem": "",
+      "part_number": "U014087",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3.1.7.21 DTC diagnosis: U011181. .199",
+      "subsystem": "",
+      "part_number": "U011181",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3.4.7.9 DTC diagnosis: U011000. ..375",
+      "subsystem": "",
+      "part_number": "U011000",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3.4.7.10 DTC diagnosis: U110387 380",
+      "subsystem": "",
+      "part_number": "U110387",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3.4.7.11 DTC diagnosis: U029787,",
+      "subsystem": "",
+      "part_number": "U029787",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "U029800 385",
+      "subsystem": "",
+      "part_number": "U029800",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3.4.7.12 DTC diagnosis: U012200. 390",
+      "subsystem": "",
+      "part_number": "U012200",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3.4.7.14 DTC diagnosis: U016400. 398",
+      "subsystem": "",
+      "part_number": "U016400",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3.4.7.15 DTC diagnosis: U023487 404",
+      "subsystem": "",
+      "part_number": "U023487",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3.4.7.21 DTC diagnosis: U012187 429",
+      "subsystem": "",
+      "part_number": "U012187",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "U015229 ··············  518",
+      "subsystem": "",
+      "part_number": "U015229",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3.5.7.12 DTC diagnosis: U014187.  521",
+      "subsystem": "",
+      "part_number": "U014187",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3.5.7.16 DTC diagnosis: U015129. 533",
+      "subsystem": "",
+      "part_number": "U015129",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "PIC1700, P1C0319, P1C1719 590",
+      "subsystem": "",
+      "part_number": "PIC1700",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "U015429 597",
+      "subsystem": "",
+      "part_number": "U015429",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3.6.7.15 DTC diagnosis: U015329. 609",
+      "subsystem": "",
+      "part_number": "U015329",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3.8.6.13 DTC diagnosis: P1D9B00, B116212,",
+      "subsystem": "",
+      "part_number": "B116212",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "B116214   ·· ···· 704",
+      "subsystem": "",
+      "part_number": "B116214",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.6.7.8 DTC diagnosis: C117009 ··············· 951",
+      "subsystem": "",
+      "part_number": "C117009",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.6.7.9 DTC diagnosis: C113016, C113017, C113116, C113117, C115009, C115109, C11C100 .955",
+      "subsystem": "",
+      "part_number": "C113016",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.6.7.9 DTC diagnosis: C113016, C113017, C113116, C113117, C115009, C115109, C11C100 .955",
+      "subsystem": "",
+      "part_number": "C113017",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.6.7.9 DTC diagnosis: C113016, C113017, C113116, C113117, C115009, C115109, C11C100 .955",
+      "subsystem": "",
+      "part_number": "C113116",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.6.7.9 DTC diagnosis: C113016, C113017, C113116, C113117, C115009, C115109, C11C100 .955",
+      "subsystem": "",
+      "part_number": "C113117",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.6.7.9 DTC diagnosis: C113016, C113017, C113116, C113117, C115009, C115109, C11C100 .955",
+      "subsystem": "",
+      "part_number": "C115009",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.6.7.9 DTC diagnosis: C113016, C113017, C113116, C113117, C115009, C115109, C11C100 .955",
+      "subsystem": "",
+      "part_number": "C115109",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.6.7.10 DTC diagnosis: C11A006, C117006 957",
+      "subsystem": "",
+      "part_number": "C117006",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.6.7.11 DTC diagnosis: U007388. 959",
+      "subsystem": "",
+      "part_number": "U007388",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.6.7.12 DTC diagnosis: U012287, U041681 .962",
+      "subsystem": "",
+      "part_number": "U012287",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.6.7.12 DTC diagnosis: U012287, U041681 .962",
+      "subsystem": "",
+      "part_number": "U041681",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.6.7.15 DTC diagnosis: U300315, U300316, U300317, U300318 970",
+      "subsystem": "",
+      "part_number": "U300315",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.6.7.15 DTC diagnosis: U300315, U300316, U300317, U300318 970",
+      "subsystem": "",
+      "part_number": "U300316",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.6.7.15 DTC diagnosis: U300315, U300316, U300317, U300318 970",
+      "subsystem": "",
+      "part_number": "U300317",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.6.7.15 DTC diagnosis: U300315, U300316, U300317, U300318 970",
+      "subsystem": "",
+      "part_number": "U300318",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.6.7.16 DTC diagnosis: C116006 974",
+      "subsystem": "",
+      "part_number": "C116006",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.6.7.17 DTC diagnosis: U041664, C11B006 976",
+      "subsystem": "",
+      "part_number": "U041664",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.7.7.7 DTC diagnosis: C056364,",
+      "subsystem": "",
+      "part_number": "C056364",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.7.7.8 DTC diagnosis: C006382, C055164, C006164, U043204, U043208, C051D01, C006A01, C006202, C006102, C006A02, C006302, C006308. 1026",
+      "subsystem": "",
+      "part_number": "C006382",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.7.7.8 DTC diagnosis: C006382, C055164, C006164, U043204, U043208, C051D01, C006A01, C006202, C006102, C006A02, C006302, C006308. 1026",
+      "subsystem": "",
+      "part_number": "C055164",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.7.7.8 DTC diagnosis: C006382, C055164, C006164, U043204, U043208, C051D01, C006A01, C006202, C006102, C006A02, C006302, C006308. 1026",
+      "subsystem": "",
+      "part_number": "C006164",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.7.7.8 DTC diagnosis: C006382, C055164, C006164, U043204, U043208, C051D01, C006A01, C006202, C006102, C006A02, C006302, C006308. 1026",
+      "subsystem": "",
+      "part_number": "U043204",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.7.7.8 DTC diagnosis: C006382, C055164, C006164, U043204, U043208, C051D01, C006A01, C006202, C006102, C006A02, C006302, C006308. 1026",
+      "subsystem": "",
+      "part_number": "U043208",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.7.7.8 DTC diagnosis: C006382, C055164, C006164, U043204, U043208, C051D01, C006A01, C006202, C006102, C006A02, C006302, C006308. 1026",
+      "subsystem": "",
+      "part_number": "C006202",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.7.7.8 DTC diagnosis: C006382, C055164, C006164, U043204, U043208, C051D01, C006A01, C006202, C006102, C006A02, C006302, C006308. 1026",
+      "subsystem": "",
+      "part_number": "C006102",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.7.7.8 DTC diagnosis: C006382, C055164, C006164, U043204, U043208, C051D01, C006A01, C006202, C006102, C006A02, C006302, C006308. 1026",
+      "subsystem": "",
+      "part_number": "C006302",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.7.7.8 DTC diagnosis: C006382, C055164, C006164, U043204, U043208, C051D01, C006A01, C006202, C006102, C006A02, C006302, C006308. 1026",
+      "subsystem": "",
+      "part_number": "C006308",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.7.7.9 DTC diagnosis: C12F909, C2A1700, C05B001, C002192, C055F92, C05B000, C002100, C055E00, C055F00   1033",
+      "subsystem": "",
+      "part_number": "C002192",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.7.7.9 DTC diagnosis: C12F909, C2A1700, C05B001, C002192, C055F92, C05B000, C002100, C055E00, C055F00   1033",
+      "subsystem": "",
+      "part_number": "C002100",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.7.7.10 DTC diagnosis: U100004, U007300 1035",
+      "subsystem": "",
+      "part_number": "U100004",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.7.7.10 DTC diagnosis: U100004, U007300 1035",
+      "subsystem": "",
+      "part_number": "U007300",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.7.7.11 DTC diagnosis: U100308, U100304 1038",
+      "subsystem": "",
+      "part_number": "U100308",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.7.7.11 DTC diagnosis: U100308, U100304 1038",
+      "subsystem": "",
+      "part_number": "U100304",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.7.7.12 DTC diagnosis: U059505, U059506, U059504, U041100, U011000 ... 1043",
+      "subsystem": "",
+      "part_number": "U059505",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.7.7.12 DTC diagnosis: U059505, U059506, U059504, U041100, U011000 ... 1043",
+      "subsystem": "",
+      "part_number": "U059506",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.7.7.12 DTC diagnosis: U059505, U059506, U059504, U041100, U011000 ... 1043",
+      "subsystem": "",
+      "part_number": "U059504",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.7.7.12 DTC diagnosis: U059505, U059506, U059504, U041100, U011000 ... 1043",
+      "subsystem": "",
+      "part_number": "U041100",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.7.7.13 DTC diagnosis: U059509, U014604, U014608, U025900, U055A00   1048",
+      "subsystem": "",
+      "part_number": "U059509",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.7.7.13 DTC diagnosis: U059509, U014604, U014608, U025900, U055A00   1048",
+      "subsystem": "",
+      "part_number": "U014604",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.7.7.13 DTC diagnosis: U059509, U014604, U014608, U025900, U055A00   1048",
+      "subsystem": "",
+      "part_number": "U014608",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.7.7.13 DTC diagnosis: U059509, U014604, U014608, U025900, U055A00   1048",
+      "subsystem": "",
+      "part_number": "U025900",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.7.7.14 DTC diagnosis: C055000 1054",
+      "subsystem": "",
+      "part_number": "C055000",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.7.7.15 DTC diagnosis: C059592, C059500, C058900, C058800, C058A00 . 1056",
+      "subsystem": "",
+      "part_number": "C059592",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.7.7.15 DTC diagnosis: C059592, C059500, C058900, C058800, C058A00 . 1056",
+      "subsystem": "",
+      "part_number": "C059500",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.7.7.15 DTC diagnosis: C059592, C059500, C058900, C058800, C058A00 . 1056",
+      "subsystem": "",
+      "part_number": "C058900",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.7.7.15 DTC diagnosis: C059592, C059500, C058900, C058800, C058A00 . 1056",
+      "subsystem": "",
+      "part_number": "C058800",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.7.7.16 DTC diagnosis: C004900 1060",
+      "subsystem": "",
+      "part_number": "C004900",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.7.7.17 DTC diagnosis: C050000, C050300, C050200. 1063",
+      "subsystem": "",
+      "part_number": "C050000",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.7.7.17 DTC diagnosis: C050000, C050300, C050200. 1063",
+      "subsystem": "",
+      "part_number": "C050300",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.7.7.17 DTC diagnosis: C050000, C050300, C050200. 1063",
+      "subsystem": "",
+      "part_number": "C050200",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.7.7.18 DTC diagnosis: P056023, P056024, P056300, P056200, P056216 1068",
+      "subsystem": "",
+      "part_number": "P056023",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.7.7.18 DTC diagnosis: P056023, P056024, P056300, P056200, P056216 1068",
+      "subsystem": "",
+      "part_number": "P056024",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.7.7.18 DTC diagnosis: P056023, P056024, P056300, P056200, P056216 1068",
+      "subsystem": "",
+      "part_number": "P056300",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.7.7.18 DTC diagnosis: P056023, P056024, P056300, P056200, P056216 1068",
+      "subsystem": "",
+      "part_number": "P056200",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.7.7.18 DTC diagnosis: P056023, P056024, P056300, P056200, P056216 1068",
+      "subsystem": "",
+      "part_number": "P056216",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4.7.7.19 DTC diagnosis: C004008 1071",
+      "subsystem": "",
+      "part_number": "C004008",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "5.1.7.8 DTC diagnosis: B117A00, B117B00, B117D00, B117E00, B118600, B118800 1163",
+      "subsystem": "",
+      "part_number": "B118600",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "5.1.7.8 DTC diagnosis: B117A00, B117B00, B117D00, B117E00, B118600, B118800 1163",
+      "subsystem": "",
+      "part_number": "B118800",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "5.1.7.9 DTC diagnosis: U110187. 1169",
+      "subsystem": "",
+      "part_number": "U110187",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "5.1.7.11 DTC diagnosis: B118000, B118100, B118200, B118300, B118400, B118700, B118900-TEV 1180",
+      "subsystem": "",
+      "part_number": "B118000",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "5.1.7.11 DTC diagnosis: B118000, B118100, B118200, B118300, B118400, B118700, B118900-TEV 1180",
+      "subsystem": "",
+      "part_number": "B118100",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "5.1.7.11 DTC diagnosis: B118000, B118100, B118200, B118300, B118400, B118700, B118900-TEV 1180",
+      "subsystem": "",
+      "part_number": "B118200",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "5.1.7.11 DTC diagnosis: B118000, B118100, B118200, B118300, B118400, B118700, B118900-TEV 1180",
+      "subsystem": "",
+      "part_number": "B118300",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "5.1.7.11 DTC diagnosis: B118000, B118100, B118200, B118300, B118400, B118700, B118900-TEV 1180",
+      "subsystem": "",
+      "part_number": "B118400",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "5.1.7.11 DTC diagnosis: B118000, B118100, B118200, B118300, B118400, B118700, B118900-TEV 1180",
+      "subsystem": "",
+      "part_number": "B118700",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "5.1.7.11 DTC diagnosis: B118000, B118100, B118200, B118300, B118400, B118700, B118900-TEV 1180",
+      "subsystem": "",
+      "part_number": "B118900-TEV",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "5.1.7.15 DTC diagnosis: U018387 1202",
+      "subsystem": "",
+      "part_number": "U018387",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "5.6.7.9 DTC diagnosis: U016487 1453",
+      "subsystem": "",
+      "part_number": "U016487",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "5.7.5.7 DTC diagnosis: B227000.   1486",
+      "subsystem": "",
+      "part_number": "B227000",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "5.8.6.8 DTC diagnosis: U014687 1561",
+      "subsystem": "",
+      "part_number": "U014687",
+      "source_url": "",
+      "source": "manual:chunks-manual-tang_ev.md"
+    }
+  ],
+  "parts_total_original": 245,
+  "parts_capped": true
+}

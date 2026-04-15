@@ -1,0 +1,11 @@
+{
+  "brand": "infiniti",
+  "model": "qx70",
+  "source_path_rel": "infiniti/models/qx70/",
+  "manual_md_size": 24559790,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-2013_2017.md"
+  ]
+}

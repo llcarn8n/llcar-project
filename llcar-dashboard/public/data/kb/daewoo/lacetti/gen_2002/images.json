@@ -1,0 +1,2502 @@
+[
+  {
+    "filename": "00bc979d55dbe98915e8d4b18d2c5b4d4381f69c432afbb0aefab124370d3458.webp",
+    "size": 8312,
+    "source_rel": "daewoo/models/lacetti/images/00bc979d55dbe98915e8d4b18d2c5b4d4381f69c432afbb0aefab124370d3458.webp"
+  },
+  {
+    "filename": "00d3bfe20109c46e56b8a67b0f524b526bbd743d511178e9b8bb1fe9dcd43dd5.webp",
+    "size": 7240,
+    "source_rel": "daewoo/models/lacetti/images/00d3bfe20109c46e56b8a67b0f524b526bbd743d511178e9b8bb1fe9dcd43dd5.webp"
+  },
+  {
+    "filename": "00f70fee57652bbe4b3519d21a92cb80d208f90345a5a78f2e0341f19f353c07.webp",
+    "size": 5728,
+    "source_rel": "daewoo/models/lacetti/images/00f70fee57652bbe4b3519d21a92cb80d208f90345a5a78f2e0341f19f353c07.webp"
+  },
+  {
+    "filename": "010076542ea26520503c2097435dd05f50e23b839833959713efb3a76470243c.webp",
+    "size": 122548,
+    "source_rel": "daewoo/models/lacetti/images/010076542ea26520503c2097435dd05f50e23b839833959713efb3a76470243c.webp"
+  },
+  {
+    "filename": "0119b68d2c8771691220e4f2d975369d272306f1688977c7b77c33337ab2040a.webp",
+    "size": 6430,
+    "source_rel": "daewoo/models/lacetti/images/0119b68d2c8771691220e4f2d975369d272306f1688977c7b77c33337ab2040a.webp"
+  },
+  {
+    "filename": "014e57b5bfa2bb30c0be343c66bba37422b9f6d82e76f26f4ee46fc4e9d45758.webp",
+    "size": 8340,
+    "source_rel": "daewoo/models/lacetti/images/014e57b5bfa2bb30c0be343c66bba37422b9f6d82e76f26f4ee46fc4e9d45758.webp"
+  },
+  {
+    "filename": "0181ba795cc7cf6b018b2284ce4b7d39138b779f5d3dbc05d8542acddcdbd4ba.webp",
+    "size": 14420,
+    "source_rel": "daewoo/models/lacetti/images/0181ba795cc7cf6b018b2284ce4b7d39138b779f5d3dbc05d8542acddcdbd4ba.webp"
+  },
+  {
+    "filename": "019d661be4d3bfbcfbe2d16e4987b08ce23b80e0d31f1d5c1d53e410c88fba1c.webp",
+    "size": 13324,
+    "source_rel": "daewoo/models/lacetti/images/019d661be4d3bfbcfbe2d16e4987b08ce23b80e0d31f1d5c1d53e410c88fba1c.webp"
+  },
+  {
+    "filename": "01bc1d1e48c79ac67908bbe1f89d328f829d32158559bc2fef036f3ed241a1c2.webp",
+    "size": 8406,
+    "source_rel": "daewoo/models/lacetti/images/01bc1d1e48c79ac67908bbe1f89d328f829d32158559bc2fef036f3ed241a1c2.webp"
+  },
+  {
+    "filename": "01e488434c3a255a94b3286e570b0e47855fbc5379b70bd1d38bf361fd054d60.webp",
+    "size": 8700,
+    "source_rel": "daewoo/models/lacetti/images/01e488434c3a255a94b3286e570b0e47855fbc5379b70bd1d38bf361fd054d60.webp"
+  },
+  {
+    "filename": "0247494616c25016cdb555d6db9c9db08c3563ff83f9dc92665661bcf4c78bf6.webp",
+    "size": 10360,
+    "source_rel": "daewoo/models/lacetti/images/0247494616c25016cdb555d6db9c9db08c3563ff83f9dc92665661bcf4c78bf6.webp"
+  },
+  {
+    "filename": "034199e2c0474e833862cfdfa3febca03100b551f749d12ab4ca7018244ca9eb.webp",
+    "size": 11582,
+    "source_rel": "daewoo/models/lacetti/images/034199e2c0474e833862cfdfa3febca03100b551f749d12ab4ca7018244ca9eb.webp"
+  },
+  {
+    "filename": "0362982444ef3c4ead5eef3d12b5cfd5cf817a81bf54067e8eb3a9a224c13c49.webp",
+    "size": 11528,
+    "source_rel": "daewoo/models/lacetti/images/0362982444ef3c4ead5eef3d12b5cfd5cf817a81bf54067e8eb3a9a224c13c49.webp"
+  },
+  {
+    "filename": "0391f5d713d449083f6089e83f57ca439de6700df79894216b8ba893d0cb86f5.webp",
+    "size": 139724,
+    "source_rel": "daewoo/models/lacetti/images/0391f5d713d449083f6089e83f57ca439de6700df79894216b8ba893d0cb86f5.webp"
+  },
+  {
+    "filename": "03f9010b804361447dd161512abd295277287b61d714387eb906250c855f79f2.webp",
+    "size": 19122,
+    "source_rel": "daewoo/models/lacetti/images/03f9010b804361447dd161512abd295277287b61d714387eb906250c855f79f2.webp"
+  },
+  {
+    "filename": "043c84c9d8fe29feef94d534a1e55345a0d0a1cad7b3ff19ed59b1cbae372195.webp",
+    "size": 67364,
+    "source_rel": "daewoo/models/lacetti/images/043c84c9d8fe29feef94d534a1e55345a0d0a1cad7b3ff19ed59b1cbae372195.webp"
+  },
+  {
+    "filename": "0492a87056f9bd18c9ad07366b5b3aa1bdf04ac7bcf26a562552a4fad15f3281.webp",
+    "size": 6346,
+    "source_rel": "daewoo/models/lacetti/images/0492a87056f9bd18c9ad07366b5b3aa1bdf04ac7bcf26a562552a4fad15f3281.webp"
+  },
+  {
+    "filename": "0494eae41486c61434ceff0516a0cb3f2d2cd4c8c69e2087c26b035a50c7cc07.webp",
+    "size": 19310,
+    "source_rel": "daewoo/models/lacetti/images/0494eae41486c61434ceff0516a0cb3f2d2cd4c8c69e2087c26b035a50c7cc07.webp"
+  },
+  {
+    "filename": "04f6e27feb9d02b4318a407f167681a580f9d291cdf560cfb5602a800a3f9a84.webp",
+    "size": 11456,
+    "source_rel": "daewoo/models/lacetti/images/04f6e27feb9d02b4318a407f167681a580f9d291cdf560cfb5602a800a3f9a84.webp"
+  },
+  {
+    "filename": "05f54da2e2a83e6c32961d687780ec0e791fc6da9c4826013525f3e5008fba12.webp",
+    "size": 8778,
+    "source_rel": "daewoo/models/lacetti/images/05f54da2e2a83e6c32961d687780ec0e791fc6da9c4826013525f3e5008fba12.webp"
+  },
+  {
+    "filename": "05f8c61ea5ffb75566c4af6494637f897425fa886ef3aa47b803a9874f03d575.webp",
+    "size": 13734,
+    "source_rel": "daewoo/models/lacetti/images/05f8c61ea5ffb75566c4af6494637f897425fa886ef3aa47b803a9874f03d575.webp"
+  },
+  {
+    "filename": "0701cc0cb5a79f729c3ab489385db0a47ae0da2f44b9b4d0ef5f5ffa0a3d4df2.webp",
+    "size": 14986,
+    "source_rel": "daewoo/models/lacetti/images/0701cc0cb5a79f729c3ab489385db0a47ae0da2f44b9b4d0ef5f5ffa0a3d4df2.webp"
+  },
+  {
+    "filename": "070672ee3ded94cc28be314b8e77428f2dbefd996a81a926eca27e1f5bbacf9f.webp",
+    "size": 10322,
+    "source_rel": "daewoo/models/lacetti/images/070672ee3ded94cc28be314b8e77428f2dbefd996a81a926eca27e1f5bbacf9f.webp"
+  },
+  {
+    "filename": "0720f22de1042e046b3fc5250ea0c9bb5e7572d5f7051f464500beb4d03dbd16.webp",
+    "size": 7906,
+    "source_rel": "daewoo/models/lacetti/images/0720f22de1042e046b3fc5250ea0c9bb5e7572d5f7051f464500beb4d03dbd16.webp"
+  },
+  {
+    "filename": "07552607770e428789ba6a659535cccf64b768c13d3d7b78ed7dddfc420f1437.webp",
+    "size": 11934,
+    "source_rel": "daewoo/models/lacetti/images/07552607770e428789ba6a659535cccf64b768c13d3d7b78ed7dddfc420f1437.webp"
+  },
+  {
+    "filename": "07999d49f2c979c1339ca7f5c7c66ce622c160c3d741f4d16e9819de7e1c2e10.webp",
+    "size": 8806,
+    "source_rel": "daewoo/models/lacetti/images/07999d49f2c979c1339ca7f5c7c66ce622c160c3d741f4d16e9819de7e1c2e10.webp"
+  },
+  {
+    "filename": "07e64ecabba58fbf55e49f146c22b9bdbf1791fdc60c78d2f075acaa782ef511.webp",
+    "size": 13482,
+    "source_rel": "daewoo/models/lacetti/images/07e64ecabba58fbf55e49f146c22b9bdbf1791fdc60c78d2f075acaa782ef511.webp"
+  },
+  {
+    "filename": "080bb7c21e1a6bdfe48cd37484fe233d83d983d1e87a9523dfd4e192be0459f8.webp",
+    "size": 14850,
+    "source_rel": "daewoo/models/lacetti/images/080bb7c21e1a6bdfe48cd37484fe233d83d983d1e87a9523dfd4e192be0459f8.webp"
+  },
+  {
+    "filename": "081f6024a99bcf45022cf83e69ef6e1c322459a00c5dfabd8112936732dc0ee3.webp",
+    "size": 8820,
+    "source_rel": "daewoo/models/lacetti/images/081f6024a99bcf45022cf83e69ef6e1c322459a00c5dfabd8112936732dc0ee3.webp"
+  },
+  {
+    "filename": "083f43ba71faf56e8e3bffc110ee9b4538236fb02508106f088bb0403d87f91e.webp",
+    "size": 6178,
+    "source_rel": "daewoo/models/lacetti/images/083f43ba71faf56e8e3bffc110ee9b4538236fb02508106f088bb0403d87f91e.webp"
+  },
+  {
+    "filename": "08493567b0c5de2a37b6406f58c0bde6fbfcce8fac7875c2469f2b8104df215c.webp",
+    "size": 19556,
+    "source_rel": "daewoo/models/lacetti/images/08493567b0c5de2a37b6406f58c0bde6fbfcce8fac7875c2469f2b8104df215c.webp"
+  },
+  {
+    "filename": "09806f66aa9d85864ac681a2fe53c8167cd3dc98cbca695a226cb3aaac5d7e19.webp",
+    "size": 7398,
+    "source_rel": "daewoo/models/lacetti/images/09806f66aa9d85864ac681a2fe53c8167cd3dc98cbca695a226cb3aaac5d7e19.webp"
+  },
+  {
+    "filename": "09fd4e38a6e7e09ee4e7130e59d8ef08d29ed82e962df65ab8b36004792b9246.webp",
+    "size": 21636,
+    "source_rel": "daewoo/models/lacetti/images/09fd4e38a6e7e09ee4e7130e59d8ef08d29ed82e962df65ab8b36004792b9246.webp"
+  },
+  {
+    "filename": "0a1fe27633f4a521130fe6171db7c7edab6249631a7327de61a276f36e9d56d7.webp",
+    "size": 24380,
+    "source_rel": "daewoo/models/lacetti/images/0a1fe27633f4a521130fe6171db7c7edab6249631a7327de61a276f36e9d56d7.webp"
+  },
+  {
+    "filename": "0a36cb6ed921ae3668cc8a5095015d74cb81dc3fee0e37c2d9d325b1ad4c92a6.webp",
+    "size": 14292,
+    "source_rel": "daewoo/models/lacetti/images/0a36cb6ed921ae3668cc8a5095015d74cb81dc3fee0e37c2d9d325b1ad4c92a6.webp"
+  },
+  {
+    "filename": "0ac4b98de4e2c4fd32385ccd84e11bb8a4add378b5e6fd99278ebb0df8186a69.webp",
+    "size": 12692,
+    "source_rel": "daewoo/models/lacetti/images/0ac4b98de4e2c4fd32385ccd84e11bb8a4add378b5e6fd99278ebb0df8186a69.webp"
+  },
+  {
+    "filename": "0b4da72687a9f4bb6da15a8d56b5a1b5b823c2b89d3b467c0905f55a8d27b175.webp",
+    "size": 13506,
+    "source_rel": "daewoo/models/lacetti/images/0b4da72687a9f4bb6da15a8d56b5a1b5b823c2b89d3b467c0905f55a8d27b175.webp"
+  },
+  {
+    "filename": "0bcbde3c81304084e4a8162429a6b0ca207e65684f8de538ba1caf65934a2538.webp",
+    "size": 9828,
+    "source_rel": "daewoo/models/lacetti/images/0bcbde3c81304084e4a8162429a6b0ca207e65684f8de538ba1caf65934a2538.webp"
+  },
+  {
+    "filename": "0be0b5adb1d1bafef999c97d746ed19544a655d33f5e154024275dd176431e7e.webp",
+    "size": 9996,
+    "source_rel": "daewoo/models/lacetti/images/0be0b5adb1d1bafef999c97d746ed19544a655d33f5e154024275dd176431e7e.webp"
+  },
+  {
+    "filename": "0c31ef245ce8d6df2cd8ae772c3d47638189db10dc99035c3badd170b4dab883.webp",
+    "size": 43206,
+    "source_rel": "daewoo/models/lacetti/images/0c31ef245ce8d6df2cd8ae772c3d47638189db10dc99035c3badd170b4dab883.webp"
+  },
+  {
+    "filename": "0c90e711fc2ee54309e9b95dbe66ce0728769c84b6eff78deede86cee32ed056.webp",
+    "size": 8782,
+    "source_rel": "daewoo/models/lacetti/images/0c90e711fc2ee54309e9b95dbe66ce0728769c84b6eff78deede86cee32ed056.webp"
+  },
+  {
+    "filename": "0cb8864eecb9027436a69682a93771457ad12ec6192926ce8ed814a6ade6459a.webp",
+    "size": 9888,
+    "source_rel": "daewoo/models/lacetti/images/0cb8864eecb9027436a69682a93771457ad12ec6192926ce8ed814a6ade6459a.webp"
+  },
+  {
+    "filename": "0cf3e6d84c2f453b361c60d09f3c119cec3c243100d0a8c367ec3845f80ccf0d.webp",
+    "size": 7908,
+    "source_rel": "daewoo/models/lacetti/images/0cf3e6d84c2f453b361c60d09f3c119cec3c243100d0a8c367ec3845f80ccf0d.webp"
+  },
+  {
+    "filename": "0d2fa1882c936ed5be25bf9eb501f823876269b62376491d3a9ffb91154e498c.webp",
+    "size": 3562,
+    "source_rel": "daewoo/models/lacetti/images/0d2fa1882c936ed5be25bf9eb501f823876269b62376491d3a9ffb91154e498c.webp"
+  },
+  {
+    "filename": "0d3121a8536a3ef14641889d7f4f523f80c96806d72921b80ab063853f0a0b2b.webp",
+    "size": 7502,
+    "source_rel": "daewoo/models/lacetti/images/0d3121a8536a3ef14641889d7f4f523f80c96806d72921b80ab063853f0a0b2b.webp"
+  },
+  {
+    "filename": "0d4e0bf1d22b5b24b6d42d35de9ca88777a19d57d84bd02e3abd4b3897416819.webp",
+    "size": 26048,
+    "source_rel": "daewoo/models/lacetti/images/0d4e0bf1d22b5b24b6d42d35de9ca88777a19d57d84bd02e3abd4b3897416819.webp"
+  },
+  {
+    "filename": "0d69c63b95df7966b186a81a8af5710dc921f5d4fe70c047d8e1830731460345.webp",
+    "size": 10062,
+    "source_rel": "daewoo/models/lacetti/images/0d69c63b95df7966b186a81a8af5710dc921f5d4fe70c047d8e1830731460345.webp"
+  },
+  {
+    "filename": "0da737ebb156f5e3471741e43e7d3dbf97bcbeb19b9e3e7839cd1908b84ef8b2.webp",
+    "size": 5368,
+    "source_rel": "daewoo/models/lacetti/images/0da737ebb156f5e3471741e43e7d3dbf97bcbeb19b9e3e7839cd1908b84ef8b2.webp"
+  },
+  {
+    "filename": "0dd029cca36de3c7b83a6bfb7c2e9d7cc1bbf3ae6d9fe2294c3a38ab8680bc57.webp",
+    "size": 24190,
+    "source_rel": "daewoo/models/lacetti/images/0dd029cca36de3c7b83a6bfb7c2e9d7cc1bbf3ae6d9fe2294c3a38ab8680bc57.webp"
+  },
+  {
+    "filename": "0e25e227fd2200aed04318ebbe5fbd0c747318667096037ea3d6508e5014804b.webp",
+    "size": 11226,
+    "source_rel": "daewoo/models/lacetti/images/0e25e227fd2200aed04318ebbe5fbd0c747318667096037ea3d6508e5014804b.webp"
+  },
+  {
+    "filename": "0e76f507bb40c148bd6090e0d6d9b137da136fdc26a33d8c9c5795a133382051.webp",
+    "size": 10882,
+    "source_rel": "daewoo/models/lacetti/images/0e76f507bb40c148bd6090e0d6d9b137da136fdc26a33d8c9c5795a133382051.webp"
+  },
+  {
+    "filename": "0e79df2c648129e91e290fb8389cead2afc0b5cd4367721ca7078161a72755ad.webp",
+    "size": 13030,
+    "source_rel": "daewoo/models/lacetti/images/0e79df2c648129e91e290fb8389cead2afc0b5cd4367721ca7078161a72755ad.webp"
+  },
+  {
+    "filename": "0eb271640daecb0cfdc1cf3999677c580d8a60881dbbe5f97ef0c128f7fce0a5.webp",
+    "size": 10774,
+    "source_rel": "daewoo/models/lacetti/images/0eb271640daecb0cfdc1cf3999677c580d8a60881dbbe5f97ef0c128f7fce0a5.webp"
+  },
+  {
+    "filename": "0ece70409ecb5d6d3ad405ebf261d76c3bd81535d7c33fac200c982cd64b645c.webp",
+    "size": 14724,
+    "source_rel": "daewoo/models/lacetti/images/0ece70409ecb5d6d3ad405ebf261d76c3bd81535d7c33fac200c982cd64b645c.webp"
+  },
+  {
+    "filename": "0f09e08c35fb7559cbdeb497e223ee3518131b23508f5f4003e6f69f6dd1b88f.webp",
+    "size": 12046,
+    "source_rel": "daewoo/models/lacetti/images/0f09e08c35fb7559cbdeb497e223ee3518131b23508f5f4003e6f69f6dd1b88f.webp"
+  },
+  {
+    "filename": "0f191f39138a7f10c6b07ce326274a0680b8a94e2f27fc7c10646cb63d7b6478.webp",
+    "size": 12632,
+    "source_rel": "daewoo/models/lacetti/images/0f191f39138a7f10c6b07ce326274a0680b8a94e2f27fc7c10646cb63d7b6478.webp"
+  },
+  {
+    "filename": "0f621c80efa26f51fa6e5619dfa4e4025b1d515e7036a69362fcced3ebaa9ca3.webp",
+    "size": 137208,
+    "source_rel": "daewoo/models/lacetti/images/0f621c80efa26f51fa6e5619dfa4e4025b1d515e7036a69362fcced3ebaa9ca3.webp"
+  },
+  {
+    "filename": "0fee92f9e59953c4419b255413400ff2c169eeebcbe2a62edb4c09f64ca14577.webp",
+    "size": 18538,
+    "source_rel": "daewoo/models/lacetti/images/0fee92f9e59953c4419b255413400ff2c169eeebcbe2a62edb4c09f64ca14577.webp"
+  },
+  {
+    "filename": "0ffd0e48863effc033835668775cb24863b9d857d3eebeb2ea35ce57c59abecf.webp",
+    "size": 10402,
+    "source_rel": "daewoo/models/lacetti/images/0ffd0e48863effc033835668775cb24863b9d857d3eebeb2ea35ce57c59abecf.webp"
+  },
+  {
+    "filename": "1070e3cd43480c17ddefc8f2eac243530616ca4c5d1fe83ddb13d26a57ecd3bb.webp",
+    "size": 20154,
+    "source_rel": "daewoo/models/lacetti/images/1070e3cd43480c17ddefc8f2eac243530616ca4c5d1fe83ddb13d26a57ecd3bb.webp"
+  },
+  {
+    "filename": "10ccf237af410af8c4348a1f7bc7fee9239c5b702619e5ecf4790d4eb141f884.webp",
+    "size": 131666,
+    "source_rel": "daewoo/models/lacetti/images/10ccf237af410af8c4348a1f7bc7fee9239c5b702619e5ecf4790d4eb141f884.webp"
+  },
+  {
+    "filename": "11007b2cfd7c844cd58e7ef620927836af84d0a361a53b141eee21aef384bffd.webp",
+    "size": 19932,
+    "source_rel": "daewoo/models/lacetti/images/11007b2cfd7c844cd58e7ef620927836af84d0a361a53b141eee21aef384bffd.webp"
+  },
+  {
+    "filename": "110ec279f4808fed6bc5f56e83bb2316b5d09ccf7c4d4b7d56597cdae83d86c6.webp",
+    "size": 23744,
+    "source_rel": "daewoo/models/lacetti/images/110ec279f4808fed6bc5f56e83bb2316b5d09ccf7c4d4b7d56597cdae83d86c6.webp"
+  },
+  {
+    "filename": "112e4293e386bc0167b90aaf3e0ed543294f7bdb3878e7f29c2399357a3c1fb2.webp",
+    "size": 11280,
+    "source_rel": "daewoo/models/lacetti/images/112e4293e386bc0167b90aaf3e0ed543294f7bdb3878e7f29c2399357a3c1fb2.webp"
+  },
+  {
+    "filename": "118b73efeb73c809ad6245843f7fa39169590251a65e47c0368848ea728586a4.webp",
+    "size": 19954,
+    "source_rel": "daewoo/models/lacetti/images/118b73efeb73c809ad6245843f7fa39169590251a65e47c0368848ea728586a4.webp"
+  },
+  {
+    "filename": "119801be5dabc38b85b6ba5f2611e29c6e2112fea0d71fc1b32fb2b39478f475.webp",
+    "size": 19740,
+    "source_rel": "daewoo/models/lacetti/images/119801be5dabc38b85b6ba5f2611e29c6e2112fea0d71fc1b32fb2b39478f475.webp"
+  },
+  {
+    "filename": "11d8ccfc2a1c522f09bb295193980c62a39780b8f4327871ac7d2027f32b00cd.webp",
+    "size": 7694,
+    "source_rel": "daewoo/models/lacetti/images/11d8ccfc2a1c522f09bb295193980c62a39780b8f4327871ac7d2027f32b00cd.webp"
+  },
+  {
+    "filename": "1239333210e52b04bba312bd5f156f21de62b2adfcb4fba3e8a1a0244c37b889.webp",
+    "size": 8022,
+    "source_rel": "daewoo/models/lacetti/images/1239333210e52b04bba312bd5f156f21de62b2adfcb4fba3e8a1a0244c37b889.webp"
+  },
+  {
+    "filename": "127c9ef590564eb53386124f5ba437b8f60b14f029351a1d0e0874e0e9055012.webp",
+    "size": 62690,
+    "source_rel": "daewoo/models/lacetti/images/127c9ef590564eb53386124f5ba437b8f60b14f029351a1d0e0874e0e9055012.webp"
+  },
+  {
+    "filename": "1288353f653f376ed836fdf1139780309ea9ca2f8fefc5229caa67f945471599.webp",
+    "size": 20088,
+    "source_rel": "daewoo/models/lacetti/images/1288353f653f376ed836fdf1139780309ea9ca2f8fefc5229caa67f945471599.webp"
+  },
+  {
+    "filename": "12adbe51886425b5700b50f4b0d08962d195371e437af35a2a708aaff53d2b71.webp",
+    "size": 16044,
+    "source_rel": "daewoo/models/lacetti/images/12adbe51886425b5700b50f4b0d08962d195371e437af35a2a708aaff53d2b71.webp"
+  },
+  {
+    "filename": "12cf80fcf030a6bde456b6a0fcfb9cd973f3286822fde2df859725cdcf331859.webp",
+    "size": 19054,
+    "source_rel": "daewoo/models/lacetti/images/12cf80fcf030a6bde456b6a0fcfb9cd973f3286822fde2df859725cdcf331859.webp"
+  },
+  {
+    "filename": "132d8ccc70917b4c3c971ab4e9daa2cbc2b3845c89d9343aa5f94bf8aa056b4c.webp",
+    "size": 10964,
+    "source_rel": "daewoo/models/lacetti/images/132d8ccc70917b4c3c971ab4e9daa2cbc2b3845c89d9343aa5f94bf8aa056b4c.webp"
+  },
+  {
+    "filename": "1356e3d9645ec8de9df6ff5bf1792193ed60d1e6eeaf83acbbf134f306ec6283.webp",
+    "size": 27496,
+    "source_rel": "daewoo/models/lacetti/images/1356e3d9645ec8de9df6ff5bf1792193ed60d1e6eeaf83acbbf134f306ec6283.webp"
+  },
+  {
+    "filename": "13690cd472bc21c09c9eab3bc27c4e6824d5f3407617bf66bd90b865ba4a2976.webp",
+    "size": 6788,
+    "source_rel": "daewoo/models/lacetti/images/13690cd472bc21c09c9eab3bc27c4e6824d5f3407617bf66bd90b865ba4a2976.webp"
+  },
+  {
+    "filename": "13a4ecd6898cd7d2b962e71d91d41a52546ab151b55de952aa5fc65ab260a6d0.webp",
+    "size": 7406,
+    "source_rel": "daewoo/models/lacetti/images/13a4ecd6898cd7d2b962e71d91d41a52546ab151b55de952aa5fc65ab260a6d0.webp"
+  },
+  {
+    "filename": "13dddc00f3458ee76d3bfa8ef87b87fa127b04d42d83c2d04bb54a4281dbcc48.webp",
+    "size": 67776,
+    "source_rel": "daewoo/models/lacetti/images/13dddc00f3458ee76d3bfa8ef87b87fa127b04d42d83c2d04bb54a4281dbcc48.webp"
+  },
+  {
+    "filename": "144f5f19192c23676045aa27bc971bfb86ab794f68a8f199a6f8a5b8e20aa3b3.webp",
+    "size": 16894,
+    "source_rel": "daewoo/models/lacetti/images/144f5f19192c23676045aa27bc971bfb86ab794f68a8f199a6f8a5b8e20aa3b3.webp"
+  },
+  {
+    "filename": "14929ce7e784b373419ad2ef5146ca5806ef19df518e85c65f782b38ec4a9e7c.webp",
+    "size": 18640,
+    "source_rel": "daewoo/models/lacetti/images/14929ce7e784b373419ad2ef5146ca5806ef19df518e85c65f782b38ec4a9e7c.webp"
+  },
+  {
+    "filename": "14bbb62359b25676fbcfcef80dfe980b7b091b8d06c88dc35c4460659d8b2bc8.webp",
+    "size": 14784,
+    "source_rel": "daewoo/models/lacetti/images/14bbb62359b25676fbcfcef80dfe980b7b091b8d06c88dc35c4460659d8b2bc8.webp"
+  },
+  {
+    "filename": "14cabc8d48c07fd05a9f304e73c190d99b6efddb4f0c810220c0677c5c205db5.webp",
+    "size": 7038,
+    "source_rel": "daewoo/models/lacetti/images/14cabc8d48c07fd05a9f304e73c190d99b6efddb4f0c810220c0677c5c205db5.webp"
+  },
+  {
+    "filename": "15084d3479518b28b7c53144c251b1dca58919a806ef3063f52d859ba2983f6f.webp",
+    "size": 8190,
+    "source_rel": "daewoo/models/lacetti/images/15084d3479518b28b7c53144c251b1dca58919a806ef3063f52d859ba2983f6f.webp"
+  },
+  {
+    "filename": "1528070183102c1b46a7ac597e1560f04ef046648af56fb164118cdfd6122485.webp",
+    "size": 8220,
+    "source_rel": "daewoo/models/lacetti/images/1528070183102c1b46a7ac597e1560f04ef046648af56fb164118cdfd6122485.webp"
+  },
+  {
+    "filename": "153dbdf968ace33b3563fdf3bc706a09a0f6d9c215befbac09f8ee24a955cd76.webp",
+    "size": 8734,
+    "source_rel": "daewoo/models/lacetti/images/153dbdf968ace33b3563fdf3bc706a09a0f6d9c215befbac09f8ee24a955cd76.webp"
+  },
+  {
+    "filename": "155930442a1bf06e2f7aa5a2c5c007056b5876ffb523e6603f88ee8cac795d35.webp",
+    "size": 33970,
+    "source_rel": "daewoo/models/lacetti/images/155930442a1bf06e2f7aa5a2c5c007056b5876ffb523e6603f88ee8cac795d35.webp"
+  },
+  {
+    "filename": "156331d1dd3e5f3f8c3a5a63eb51c4223daa153f23ae6813dcd6f7a846b6e69c.webp",
+    "size": 10458,
+    "source_rel": "daewoo/models/lacetti/images/156331d1dd3e5f3f8c3a5a63eb51c4223daa153f23ae6813dcd6f7a846b6e69c.webp"
+  },
+  {
+    "filename": "156ad7fe95888dc9d2b9d439e8a8675352d682c945e0f13e94d9db303ec53518.webp",
+    "size": 7362,
+    "source_rel": "daewoo/models/lacetti/images/156ad7fe95888dc9d2b9d439e8a8675352d682c945e0f13e94d9db303ec53518.webp"
+  },
+  {
+    "filename": "1587f83a891d3f0ff19d02a24b83d1e034aac7cf8af6172cd5ad77c3f913864b.webp",
+    "size": 26842,
+    "source_rel": "daewoo/models/lacetti/images/1587f83a891d3f0ff19d02a24b83d1e034aac7cf8af6172cd5ad77c3f913864b.webp"
+  },
+  {
+    "filename": "167f1f38c67026de0d2a94191221a943042b0aaeefe51856202a6bc7e78b4f7c.webp",
+    "size": 16800,
+    "source_rel": "daewoo/models/lacetti/images/167f1f38c67026de0d2a94191221a943042b0aaeefe51856202a6bc7e78b4f7c.webp"
+  },
+  {
+    "filename": "168003d7c78d8398a7b82f66fb0f8c7ff2d40934fa75e34c9e5110a35ca63139.webp",
+    "size": 19494,
+    "source_rel": "daewoo/models/lacetti/images/168003d7c78d8398a7b82f66fb0f8c7ff2d40934fa75e34c9e5110a35ca63139.webp"
+  },
+  {
+    "filename": "1699e60bcba811faa0bcc2557c7d619741aaa47fe1a405f37bfa765be9bef147.webp",
+    "size": 8824,
+    "source_rel": "daewoo/models/lacetti/images/1699e60bcba811faa0bcc2557c7d619741aaa47fe1a405f37bfa765be9bef147.webp"
+  },
+  {
+    "filename": "16d56733f29dddc2ed866abe1bbfe3b7adecdb691de8917f32800149df021a83.webp",
+    "size": 43546,
+    "source_rel": "daewoo/models/lacetti/images/16d56733f29dddc2ed866abe1bbfe3b7adecdb691de8917f32800149df021a83.webp"
+  },
+  {
+    "filename": "16da5103945f6a3e2391011f4da772a356b8300becb09084ab303a9f7773dbc4.webp",
+    "size": 68120,
+    "source_rel": "daewoo/models/lacetti/images/16da5103945f6a3e2391011f4da772a356b8300becb09084ab303a9f7773dbc4.webp"
+  },
+  {
+    "filename": "16e731fdc73bfe886e0e60a4cba910393007378c11a272b57dc265a9f613cbda.webp",
+    "size": 14054,
+    "source_rel": "daewoo/models/lacetti/images/16e731fdc73bfe886e0e60a4cba910393007378c11a272b57dc265a9f613cbda.webp"
+  },
+  {
+    "filename": "17752f4d82e1195038e9261e4cf80c715ed510968336c9b05f66e7e07023a73a.webp",
+    "size": 4902,
+    "source_rel": "daewoo/models/lacetti/images/17752f4d82e1195038e9261e4cf80c715ed510968336c9b05f66e7e07023a73a.webp"
+  },
+  {
+    "filename": "178ad9a107c70f428c0564e74334ec96561b8927b84ef4bb04a698fc57b86dcc.webp",
+    "size": 6884,
+    "source_rel": "daewoo/models/lacetti/images/178ad9a107c70f428c0564e74334ec96561b8927b84ef4bb04a698fc57b86dcc.webp"
+  },
+  {
+    "filename": "182860a36d7567676710fdde324fcb3bc22fc7ce5591df4a109c77f33a484093.webp",
+    "size": 6238,
+    "source_rel": "daewoo/models/lacetti/images/182860a36d7567676710fdde324fcb3bc22fc7ce5591df4a109c77f33a484093.webp"
+  },
+  {
+    "filename": "18364b9de3a83b63c5bd52856403481cddf5e15767165043e3c28ac547ac2be5.webp",
+    "size": 8364,
+    "source_rel": "daewoo/models/lacetti/images/18364b9de3a83b63c5bd52856403481cddf5e15767165043e3c28ac547ac2be5.webp"
+  },
+  {
+    "filename": "1843c64403d536e48d4d1fe929b89811785dac949ec16fb18bded05b4a7e8bd5.webp",
+    "size": 18558,
+    "source_rel": "daewoo/models/lacetti/images/1843c64403d536e48d4d1fe929b89811785dac949ec16fb18bded05b4a7e8bd5.webp"
+  },
+  {
+    "filename": "1846355a4cdf9cdbbb92fb9bfc9c6b9c5f2a6991ddae1388a2ddce81fca6718d.webp",
+    "size": 130798,
+    "source_rel": "daewoo/models/lacetti/images/1846355a4cdf9cdbbb92fb9bfc9c6b9c5f2a6991ddae1388a2ddce81fca6718d.webp"
+  },
+  {
+    "filename": "1866e8a531bf0380e27faa4c546dc7c853ebd8d91fe8049957fb3a36d00132de.webp",
+    "size": 10884,
+    "source_rel": "daewoo/models/lacetti/images/1866e8a531bf0380e27faa4c546dc7c853ebd8d91fe8049957fb3a36d00132de.webp"
+  },
+  {
+    "filename": "18674d5f1abcb316db0be30f0c872056c42f0198127e7999eab017e95182122b.webp",
+    "size": 13002,
+    "source_rel": "daewoo/models/lacetti/images/18674d5f1abcb316db0be30f0c872056c42f0198127e7999eab017e95182122b.webp"
+  },
+  {
+    "filename": "188080a47f91666efd49408742b2cb886f3fc822177dbed30cbcf17227e9d2f0.webp",
+    "size": 16044,
+    "source_rel": "daewoo/models/lacetti/images/188080a47f91666efd49408742b2cb886f3fc822177dbed30cbcf17227e9d2f0.webp"
+  },
+  {
+    "filename": "18ae9bec3b2db55b97177ea2a2c5db17fc8def4765a2e10a8cd0beb3b4ae1f3e.webp",
+    "size": 47088,
+    "source_rel": "daewoo/models/lacetti/images/18ae9bec3b2db55b97177ea2a2c5db17fc8def4765a2e10a8cd0beb3b4ae1f3e.webp"
+  },
+  {
+    "filename": "18bb0f38bd382004855d38226aed846578d6c2388e706b158388a083b9006518.webp",
+    "size": 21866,
+    "source_rel": "daewoo/models/lacetti/images/18bb0f38bd382004855d38226aed846578d6c2388e706b158388a083b9006518.webp"
+  },
+  {
+    "filename": "18c798e555eba112eddf65a01d2134937209ddf64c0507f6a197c4e970cb3daa.webp",
+    "size": 8664,
+    "source_rel": "daewoo/models/lacetti/images/18c798e555eba112eddf65a01d2134937209ddf64c0507f6a197c4e970cb3daa.webp"
+  },
+  {
+    "filename": "18d0283d21aead5078923c7a625ac43eadc7704719f7da7f77fc360a1db9f8b7.webp",
+    "size": 48828,
+    "source_rel": "daewoo/models/lacetti/images/18d0283d21aead5078923c7a625ac43eadc7704719f7da7f77fc360a1db9f8b7.webp"
+  },
+  {
+    "filename": "194234860873b211c5e8333b635fa3822dcc9116f525e2584158593ae9ccbdfa.webp",
+    "size": 6770,
+    "source_rel": "daewoo/models/lacetti/images/194234860873b211c5e8333b635fa3822dcc9116f525e2584158593ae9ccbdfa.webp"
+  },
+  {
+    "filename": "19549e70bb491dfc7945b3f966d218a17235a3359999caaf9b7103571d1f2726.webp",
+    "size": 21750,
+    "source_rel": "daewoo/models/lacetti/images/19549e70bb491dfc7945b3f966d218a17235a3359999caaf9b7103571d1f2726.webp"
+  },
+  {
+    "filename": "19a7fcee8c3a1c4f436fe4df96c9ee4db55572f0537bfc40acd4f57d1f1e01c1.webp",
+    "size": 20370,
+    "source_rel": "daewoo/models/lacetti/images/19a7fcee8c3a1c4f436fe4df96c9ee4db55572f0537bfc40acd4f57d1f1e01c1.webp"
+  },
+  {
+    "filename": "19b78d44f86e1914f2ac261e29c307d72a038a3f87ced55876b56208f85d719a.webp",
+    "size": 15148,
+    "source_rel": "daewoo/models/lacetti/images/19b78d44f86e1914f2ac261e29c307d72a038a3f87ced55876b56208f85d719a.webp"
+  },
+  {
+    "filename": "19c1e739b6f7912fa564d3aa886bdcb8896df2f86b294b70be65b0ed287ef820.webp",
+    "size": 31302,
+    "source_rel": "daewoo/models/lacetti/images/19c1e739b6f7912fa564d3aa886bdcb8896df2f86b294b70be65b0ed287ef820.webp"
+  },
+  {
+    "filename": "19cb43ee47aa85d07abae647e3a843e543250a13e816982a56b381d9e14b22bc.webp",
+    "size": 17732,
+    "source_rel": "daewoo/models/lacetti/images/19cb43ee47aa85d07abae647e3a843e543250a13e816982a56b381d9e14b22bc.webp"
+  },
+  {
+    "filename": "1a26eec00bc7c4cc48335a38736b8f155fd1c9be422b085608e6f76cba0810f0.webp",
+    "size": 9954,
+    "source_rel": "daewoo/models/lacetti/images/1a26eec00bc7c4cc48335a38736b8f155fd1c9be422b085608e6f76cba0810f0.webp"
+  },
+  {
+    "filename": "1a30ec565e478317976f61311e2e4a9fc3dc16a2c08a887bcd5f0315fe81fcfc.webp",
+    "size": 10732,
+    "source_rel": "daewoo/models/lacetti/images/1a30ec565e478317976f61311e2e4a9fc3dc16a2c08a887bcd5f0315fe81fcfc.webp"
+  },
+  {
+    "filename": "1a6c76af43649328dbec08d5afee3d3850b92d471f87ef34b1579f51fb3696b8.webp",
+    "size": 15444,
+    "source_rel": "daewoo/models/lacetti/images/1a6c76af43649328dbec08d5afee3d3850b92d471f87ef34b1579f51fb3696b8.webp"
+  },
+  {
+    "filename": "1a90a96d2cad3da483ddc9652c584b8da13f2286804df8f043fa0678e1599041.webp",
+    "size": 8422,
+    "source_rel": "daewoo/models/lacetti/images/1a90a96d2cad3da483ddc9652c584b8da13f2286804df8f043fa0678e1599041.webp"
+  },
+  {
+    "filename": "1aaf34c1bf7bda98c27d04e53b145944edd2eb59e4014c483006db235f7220e1.webp",
+    "size": 10054,
+    "source_rel": "daewoo/models/lacetti/images/1aaf34c1bf7bda98c27d04e53b145944edd2eb59e4014c483006db235f7220e1.webp"
+  },
+  {
+    "filename": "1b1b4096981fcce737c80a4e7838e9ca3e9b50016d31fe7ea11ca94b31652fcf.webp",
+    "size": 9084,
+    "source_rel": "daewoo/models/lacetti/images/1b1b4096981fcce737c80a4e7838e9ca3e9b50016d31fe7ea11ca94b31652fcf.webp"
+  },
+  {
+    "filename": "1b55d01eda3a0e28c893cad2c1bebad8f68ed9673119ae5546839b2450dfde51.webp",
+    "size": 21270,
+    "source_rel": "daewoo/models/lacetti/images/1b55d01eda3a0e28c893cad2c1bebad8f68ed9673119ae5546839b2450dfde51.webp"
+  },
+  {
+    "filename": "1b673ffae760a3c0aaf792261f50b2f836ed5af8de79176df9c5e139342bf6fe.webp",
+    "size": 7616,
+    "source_rel": "daewoo/models/lacetti/images/1b673ffae760a3c0aaf792261f50b2f836ed5af8de79176df9c5e139342bf6fe.webp"
+  },
+  {
+    "filename": "1b89a1084649def4955d888e96a0d68e16131cd44fb9f37e4d67236a37a314bf.webp",
+    "size": 8184,
+    "source_rel": "daewoo/models/lacetti/images/1b89a1084649def4955d888e96a0d68e16131cd44fb9f37e4d67236a37a314bf.webp"
+  },
+  {
+    "filename": "1bb9eba8c86d93b630d6b5f830cc737f596a8676593a878b57aeb0819062d63e.webp",
+    "size": 6328,
+    "source_rel": "daewoo/models/lacetti/images/1bb9eba8c86d93b630d6b5f830cc737f596a8676593a878b57aeb0819062d63e.webp"
+  },
+  {
+    "filename": "1bcdffc204b0cb02d445a865d84d9c3a8f2c8c5dd97e9e0ada79358a7f3d4bb6.webp",
+    "size": 10898,
+    "source_rel": "daewoo/models/lacetti/images/1bcdffc204b0cb02d445a865d84d9c3a8f2c8c5dd97e9e0ada79358a7f3d4bb6.webp"
+  },
+  {
+    "filename": "1bd841445427d65045f1d7ac4aaa6dac11b8e64452a9e53a043dfea4cbd8b8ed.webp",
+    "size": 10170,
+    "source_rel": "daewoo/models/lacetti/images/1bd841445427d65045f1d7ac4aaa6dac11b8e64452a9e53a043dfea4cbd8b8ed.webp"
+  },
+  {
+    "filename": "1bdf714415de9a98cf4b4a75b7f14cbec1620682297eb462d981615522fe86e8.webp",
+    "size": 12746,
+    "source_rel": "daewoo/models/lacetti/images/1bdf714415de9a98cf4b4a75b7f14cbec1620682297eb462d981615522fe86e8.webp"
+  },
+  {
+    "filename": "1bebb781b90b5444c29a5f1473d2bc75ce672c71781af255e80b7ef94274ab65.webp",
+    "size": 14722,
+    "source_rel": "daewoo/models/lacetti/images/1bebb781b90b5444c29a5f1473d2bc75ce672c71781af255e80b7ef94274ab65.webp"
+  },
+  {
+    "filename": "1c8db784c46dba5995cd84f582a3776e4d87ee942fa544c6af44033babc6fe35.webp",
+    "size": 8850,
+    "source_rel": "daewoo/models/lacetti/images/1c8db784c46dba5995cd84f582a3776e4d87ee942fa544c6af44033babc6fe35.webp"
+  },
+  {
+    "filename": "1ca8da6eeab9d3ab627e710ef458c3d6cabc3c9ec98fc62148153924f3617b95.webp",
+    "size": 11976,
+    "source_rel": "daewoo/models/lacetti/images/1ca8da6eeab9d3ab627e710ef458c3d6cabc3c9ec98fc62148153924f3617b95.webp"
+  },
+  {
+    "filename": "1cc84c3c9d357585bdb0099d9c8258657ca958fbae601397d48a2035224cb0dc.webp",
+    "size": 13024,
+    "source_rel": "daewoo/models/lacetti/images/1cc84c3c9d357585bdb0099d9c8258657ca958fbae601397d48a2035224cb0dc.webp"
+  },
+  {
+    "filename": "1cea7303a59970ee7f13d3dbf2d2d77510d7a6ebe6e6f14c0975848bc9be6c7b.webp",
+    "size": 14910,
+    "source_rel": "daewoo/models/lacetti/images/1cea7303a59970ee7f13d3dbf2d2d77510d7a6ebe6e6f14c0975848bc9be6c7b.webp"
+  },
+  {
+    "filename": "1d1c525ec95fd27130079e87d21784d1d3afd2076ab3008dd25929aaa2b2d1ea.webp",
+    "size": 11088,
+    "source_rel": "daewoo/models/lacetti/images/1d1c525ec95fd27130079e87d21784d1d3afd2076ab3008dd25929aaa2b2d1ea.webp"
+  },
+  {
+    "filename": "1d5cd98b9958f810417cae323d2a6c0484561f657cb74cbc61a1a06fc2528883.webp",
+    "size": 7858,
+    "source_rel": "daewoo/models/lacetti/images/1d5cd98b9958f810417cae323d2a6c0484561f657cb74cbc61a1a06fc2528883.webp"
+  },
+  {
+    "filename": "1d8a5befb15d58d8ddc90a3309915887920d9d2582338a479d07859b16ea6477.webp",
+    "size": 8654,
+    "source_rel": "daewoo/models/lacetti/images/1d8a5befb15d58d8ddc90a3309915887920d9d2582338a479d07859b16ea6477.webp"
+  },
+  {
+    "filename": "1d9aa3aad9687975c6a050008e1522908102691a40648c6c99e95982d4b39530.webp",
+    "size": 3884,
+    "source_rel": "daewoo/models/lacetti/images/1d9aa3aad9687975c6a050008e1522908102691a40648c6c99e95982d4b39530.webp"
+  },
+  {
+    "filename": "1da28371a22c69a3903a2ac9ef30da63781a37bbea79b9fa36ba064f6440d745.webp",
+    "size": 3222,
+    "source_rel": "daewoo/models/lacetti/images/1da28371a22c69a3903a2ac9ef30da63781a37bbea79b9fa36ba064f6440d745.webp"
+  },
+  {
+    "filename": "1db7ea21e1acd59c9da350a1f52df42631aae3e941de9b46b3b7cbe55e4674ad.webp",
+    "size": 20376,
+    "source_rel": "daewoo/models/lacetti/images/1db7ea21e1acd59c9da350a1f52df42631aae3e941de9b46b3b7cbe55e4674ad.webp"
+  },
+  {
+    "filename": "1ded545cac2ce1e67dc3116916141f8d4ab8a485469c0e8cfe383e0f5d22cc2c.webp",
+    "size": 21440,
+    "source_rel": "daewoo/models/lacetti/images/1ded545cac2ce1e67dc3116916141f8d4ab8a485469c0e8cfe383e0f5d22cc2c.webp"
+  },
+  {
+    "filename": "1e5cc89d710296a94a9f266b66d5facf041fe59ba9fdce0aedd6067844ed14a4.webp",
+    "size": 11090,
+    "source_rel": "daewoo/models/lacetti/images/1e5cc89d710296a94a9f266b66d5facf041fe59ba9fdce0aedd6067844ed14a4.webp"
+  },
+  {
+    "filename": "1e68d12a5946fcf028cab604dd25bfb8a8487e71b0e57beec59a5d4fcd03663d.webp",
+    "size": 10092,
+    "source_rel": "daewoo/models/lacetti/images/1e68d12a5946fcf028cab604dd25bfb8a8487e71b0e57beec59a5d4fcd03663d.webp"
+  },
+  {
+    "filename": "1e6ffce88811e8633262a5069f398cf8d7a753834dffcb7954e4196d34451f45.webp",
+    "size": 13550,
+    "source_rel": "daewoo/models/lacetti/images/1e6ffce88811e8633262a5069f398cf8d7a753834dffcb7954e4196d34451f45.webp"
+  },
+  {
+    "filename": "1e7cca9f81aa2db530c451fcd269c367296b71397b8382d27cb5051e25867353.webp",
+    "size": 15128,
+    "source_rel": "daewoo/models/lacetti/images/1e7cca9f81aa2db530c451fcd269c367296b71397b8382d27cb5051e25867353.webp"
+  },
+  {
+    "filename": "1e8b3cd7de0f49041ae5ee58ae00b563d19702da14a77df01c8dcc6f44285a95.webp",
+    "size": 6364,
+    "source_rel": "daewoo/models/lacetti/images/1e8b3cd7de0f49041ae5ee58ae00b563d19702da14a77df01c8dcc6f44285a95.webp"
+  },
+  {
+    "filename": "1eb320424f57d180ac3da612403c3caa473b4a8e90d861f934ff0b7d0c38ebdf.webp",
+    "size": 14540,
+    "source_rel": "daewoo/models/lacetti/images/1eb320424f57d180ac3da612403c3caa473b4a8e90d861f934ff0b7d0c38ebdf.webp"
+  },
+  {
+    "filename": "1edac0ec7d7443b60e257e8547d5991831f0b43a95756d024eeb48c555f6c5ea.webp",
+    "size": 5994,
+    "source_rel": "daewoo/models/lacetti/images/1edac0ec7d7443b60e257e8547d5991831f0b43a95756d024eeb48c555f6c5ea.webp"
+  },
+  {
+    "filename": "1ee01c5373fa52a476ece998afea334bb7ebd8067a7b65a366fe7d5f5ea5de0e.webp",
+    "size": 6348,
+    "source_rel": "daewoo/models/lacetti/images/1ee01c5373fa52a476ece998afea334bb7ebd8067a7b65a366fe7d5f5ea5de0e.webp"
+  },
+  {
+    "filename": "1ee2d943ae98cc370b0d5010b92aa7b701c3898cf737a5107b14ae0080444e6b.webp",
+    "size": 10150,
+    "source_rel": "daewoo/models/lacetti/images/1ee2d943ae98cc370b0d5010b92aa7b701c3898cf737a5107b14ae0080444e6b.webp"
+  },
+  {
+    "filename": "1f50eb815dc11e727090d46e3d196b1c98aea34d421dea1480daf7f635401988.webp",
+    "size": 11108,
+    "source_rel": "daewoo/models/lacetti/images/1f50eb815dc11e727090d46e3d196b1c98aea34d421dea1480daf7f635401988.webp"
+  },
+  {
+    "filename": "1f538c32907f5c3f389170acaeb5300a0b69a926ee4387e76d20338ef9dab479.webp",
+    "size": 30244,
+    "source_rel": "daewoo/models/lacetti/images/1f538c32907f5c3f389170acaeb5300a0b69a926ee4387e76d20338ef9dab479.webp"
+  },
+  {
+    "filename": "1fc871416c6aa8ee6197bf6b8768b7e1309d83d5ae6a72224bc0114a93b18f23.webp",
+    "size": 19114,
+    "source_rel": "daewoo/models/lacetti/images/1fc871416c6aa8ee6197bf6b8768b7e1309d83d5ae6a72224bc0114a93b18f23.webp"
+  },
+  {
+    "filename": "207a905647494845cf38eb1da90e79de7c1123165e4c0d44237ef2b4cdcc83b8.webp",
+    "size": 7474,
+    "source_rel": "daewoo/models/lacetti/images/207a905647494845cf38eb1da90e79de7c1123165e4c0d44237ef2b4cdcc83b8.webp"
+  },
+  {
+    "filename": "20811bf3512c02ab4a3ddca365595b3dfe6a839fb8628eaf6ce3a2db835b7e7a.webp",
+    "size": 158644,
+    "source_rel": "daewoo/models/lacetti/images/20811bf3512c02ab4a3ddca365595b3dfe6a839fb8628eaf6ce3a2db835b7e7a.webp"
+  },
+  {
+    "filename": "20acaab5cebcbc066d7785ccb405b5e04c884be7961709c76368e5ee0c0baa73.webp",
+    "size": 11728,
+    "source_rel": "daewoo/models/lacetti/images/20acaab5cebcbc066d7785ccb405b5e04c884be7961709c76368e5ee0c0baa73.webp"
+  },
+  {
+    "filename": "20e94a7770dcc6f95033ac4fc1bee5d34e9fef1c2b4a96a816eff9e34fd14c3c.webp",
+    "size": 17948,
+    "source_rel": "daewoo/models/lacetti/images/20e94a7770dcc6f95033ac4fc1bee5d34e9fef1c2b4a96a816eff9e34fd14c3c.webp"
+  },
+  {
+    "filename": "20f4840d9acb39b2135d6160b0a1300cd243465272137d10cf5a1e08c5cb0c73.webp",
+    "size": 6246,
+    "source_rel": "daewoo/models/lacetti/images/20f4840d9acb39b2135d6160b0a1300cd243465272137d10cf5a1e08c5cb0c73.webp"
+  },
+  {
+    "filename": "2136f050ca9c835523a903ca4909c95b4208fc30ed2d1d52a96ccd3a65c3e995.webp",
+    "size": 14120,
+    "source_rel": "daewoo/models/lacetti/images/2136f050ca9c835523a903ca4909c95b4208fc30ed2d1d52a96ccd3a65c3e995.webp"
+  },
+  {
+    "filename": "213759b040f671eb6f168b55ae1ea60b65239fcffb8fbc003976ec5c02dd32dd.webp",
+    "size": 6462,
+    "source_rel": "daewoo/models/lacetti/images/213759b040f671eb6f168b55ae1ea60b65239fcffb8fbc003976ec5c02dd32dd.webp"
+  },
+  {
+    "filename": "213a02bf2403c26446643f4cf8c06667e5dca0e153fcdc79f3a819eca2ffe2ff.webp",
+    "size": 13218,
+    "source_rel": "daewoo/models/lacetti/images/213a02bf2403c26446643f4cf8c06667e5dca0e153fcdc79f3a819eca2ffe2ff.webp"
+  },
+  {
+    "filename": "214e1734ac32a57ad8a45d7617110935e26bbbc8dbeada4d23205b301d7755f2.webp",
+    "size": 132824,
+    "source_rel": "daewoo/models/lacetti/images/214e1734ac32a57ad8a45d7617110935e26bbbc8dbeada4d23205b301d7755f2.webp"
+  },
+  {
+    "filename": "21b6ae7bd45ff88535028ec8bc7d0f3136a6ac5fb87bc61b895315005f63220b.webp",
+    "size": 8540,
+    "source_rel": "daewoo/models/lacetti/images/21b6ae7bd45ff88535028ec8bc7d0f3136a6ac5fb87bc61b895315005f63220b.webp"
+  },
+  {
+    "filename": "225f288952635e72b3827bdf247e70f7d298c36327a47b016f6c42e94f7f7e84.webp",
+    "size": 51872,
+    "source_rel": "daewoo/models/lacetti/images/225f288952635e72b3827bdf247e70f7d298c36327a47b016f6c42e94f7f7e84.webp"
+  },
+  {
+    "filename": "227195b460f8e3354d42d87a5d11fea3fc66e38aa72771428aab4822e8623112.webp",
+    "size": 14188,
+    "source_rel": "daewoo/models/lacetti/images/227195b460f8e3354d42d87a5d11fea3fc66e38aa72771428aab4822e8623112.webp"
+  },
+  {
+    "filename": "22a6f886463423ce4cf5a09a1e418577e9112bb599ba2b4a294019ad1052e9a3.webp",
+    "size": 11744,
+    "source_rel": "daewoo/models/lacetti/images/22a6f886463423ce4cf5a09a1e418577e9112bb599ba2b4a294019ad1052e9a3.webp"
+  },
+  {
+    "filename": "22c443405253ca13319c7a2722e09c770b8c1d888e3b957accb1b3a7c660267f.webp",
+    "size": 13120,
+    "source_rel": "daewoo/models/lacetti/images/22c443405253ca13319c7a2722e09c770b8c1d888e3b957accb1b3a7c660267f.webp"
+  },
+  {
+    "filename": "233806e95045f007754f4582ab298fca116b6b19bf5acc9ff8167845d03d19d6.webp",
+    "size": 7676,
+    "source_rel": "daewoo/models/lacetti/images/233806e95045f007754f4582ab298fca116b6b19bf5acc9ff8167845d03d19d6.webp"
+  },
+  {
+    "filename": "233957266f9336766a0a308775729b424f7954949de0b7789fa80ba81736cc59.webp",
+    "size": 8788,
+    "source_rel": "daewoo/models/lacetti/images/233957266f9336766a0a308775729b424f7954949de0b7789fa80ba81736cc59.webp"
+  },
+  {
+    "filename": "2353f6fd9103e9dcd4bdacf874d14b120f605c117057211dbd005dbe7318c987.webp",
+    "size": 7744,
+    "source_rel": "daewoo/models/lacetti/images/2353f6fd9103e9dcd4bdacf874d14b120f605c117057211dbd005dbe7318c987.webp"
+  },
+  {
+    "filename": "23e47d8495625a57844996f095636b8cb87338eb1e6e0f567131cb05c17b3a84.webp",
+    "size": 3444,
+    "source_rel": "daewoo/models/lacetti/images/23e47d8495625a57844996f095636b8cb87338eb1e6e0f567131cb05c17b3a84.webp"
+  },
+  {
+    "filename": "23f5d7e92b72b6b7a5edccedda8174821c508f498c52dea49dbf593ff33fc8df.webp",
+    "size": 31636,
+    "source_rel": "daewoo/models/lacetti/images/23f5d7e92b72b6b7a5edccedda8174821c508f498c52dea49dbf593ff33fc8df.webp"
+  },
+  {
+    "filename": "241897a170c3bd8a4cd3d25992f953d7382bc559e9030cf165deaf2a77e7c73b.webp",
+    "size": 14712,
+    "source_rel": "daewoo/models/lacetti/images/241897a170c3bd8a4cd3d25992f953d7382bc559e9030cf165deaf2a77e7c73b.webp"
+  },
+  {
+    "filename": "242512dbb354e592187fa1c493a35a14bf92724e40ce770dca120d95fb362c02.webp",
+    "size": 25748,
+    "source_rel": "daewoo/models/lacetti/images/242512dbb354e592187fa1c493a35a14bf92724e40ce770dca120d95fb362c02.webp"
+  },
+  {
+    "filename": "242690ad00f14a3d93dd0aeb545d4fafe42c2f2fd0f45e37a58746f0e02446f4.webp",
+    "size": 20862,
+    "source_rel": "daewoo/models/lacetti/images/242690ad00f14a3d93dd0aeb545d4fafe42c2f2fd0f45e37a58746f0e02446f4.webp"
+  },
+  {
+    "filename": "243265f7591b2590ffb1e8dfeff17cc92c2f19066daf366ef5db2dd9c345510c.webp",
+    "size": 18776,
+    "source_rel": "daewoo/models/lacetti/images/243265f7591b2590ffb1e8dfeff17cc92c2f19066daf366ef5db2dd9c345510c.webp"
+  },
+  {
+    "filename": "2480da5462912ec8b8a45a16ed10eb62d6d99cfdde4f7c50ec027f0e3ef9be25.webp",
+    "size": 19048,
+    "source_rel": "daewoo/models/lacetti/images/2480da5462912ec8b8a45a16ed10eb62d6d99cfdde4f7c50ec027f0e3ef9be25.webp"
+  },
+  {
+    "filename": "2485fe84a8fef17e484ed4156c7c23f4d8f2414b6cb35e2a3b89d74bd8a925cf.webp",
+    "size": 14460,
+    "source_rel": "daewoo/models/lacetti/images/2485fe84a8fef17e484ed4156c7c23f4d8f2414b6cb35e2a3b89d74bd8a925cf.webp"
+  },
+  {
+    "filename": "24bc13a41ce6c00b135d3699208ad7ff78860a82d8c470e4d69d9a41742e1afd.webp",
+    "size": 6982,
+    "source_rel": "daewoo/models/lacetti/images/24bc13a41ce6c00b135d3699208ad7ff78860a82d8c470e4d69d9a41742e1afd.webp"
+  },
+  {
+    "filename": "24cbfa7486c3951c06bb1ce1b8100bb79e85189e209ffa402e9dfc6025e20d55.webp",
+    "size": 27636,
+    "source_rel": "daewoo/models/lacetti/images/24cbfa7486c3951c06bb1ce1b8100bb79e85189e209ffa402e9dfc6025e20d55.webp"
+  },
+  {
+    "filename": "251ce7b630a9f73ff2094cd4c5f1899d2894ae6f15ea86a4d20710ed8ddc22e1.webp",
+    "size": 21820,
+    "source_rel": "daewoo/models/lacetti/images/251ce7b630a9f73ff2094cd4c5f1899d2894ae6f15ea86a4d20710ed8ddc22e1.webp"
+  },
+  {
+    "filename": "2541292a344ac2f92f676246063c66336b5e90bcdb54e24c263ade71ccf0887a.webp",
+    "size": 5892,
+    "source_rel": "daewoo/models/lacetti/images/2541292a344ac2f92f676246063c66336b5e90bcdb54e24c263ade71ccf0887a.webp"
+  },
+  {
+    "filename": "254650e09c3a61ca59cfd994aea1414a84b8040ea8db60b9f782816f026dda38.webp",
+    "size": 22886,
+    "source_rel": "daewoo/models/lacetti/images/254650e09c3a61ca59cfd994aea1414a84b8040ea8db60b9f782816f026dda38.webp"
+  },
+  {
+    "filename": "25a879185c6fdf1cb959127ef633942ab2d33c01a5fb06ffa6a35a569c360385.webp",
+    "size": 31338,
+    "source_rel": "daewoo/models/lacetti/images/25a879185c6fdf1cb959127ef633942ab2d33c01a5fb06ffa6a35a569c360385.webp"
+  },
+  {
+    "filename": "2605eabb760d98ebf457e2343a8f857ea1858e477d290bf975b974ed3b063c77.webp",
+    "size": 8378,
+    "source_rel": "daewoo/models/lacetti/images/2605eabb760d98ebf457e2343a8f857ea1858e477d290bf975b974ed3b063c77.webp"
+  },
+  {
+    "filename": "2663cb2f97fc5bd3f2ac4d3d9f9e0559205ecb9ccd442457bdc11e7b2cc7fb43.webp",
+    "size": 12276,
+    "source_rel": "daewoo/models/lacetti/images/2663cb2f97fc5bd3f2ac4d3d9f9e0559205ecb9ccd442457bdc11e7b2cc7fb43.webp"
+  },
+  {
+    "filename": "267316fb72ab400d67fe8077d60c006f47f8266271f5646e0aacde664a701be4.webp",
+    "size": 6206,
+    "source_rel": "daewoo/models/lacetti/images/267316fb72ab400d67fe8077d60c006f47f8266271f5646e0aacde664a701be4.webp"
+  },
+  {
+    "filename": "268848ec4ed2807da5c8642e8bc88803a267cba3990ef8df412c076980861024.webp",
+    "size": 15472,
+    "source_rel": "daewoo/models/lacetti/images/268848ec4ed2807da5c8642e8bc88803a267cba3990ef8df412c076980861024.webp"
+  },
+  {
+    "filename": "26dadddab4a2fa18ab9c4685db4a7dc519e806c6d9779ae2e893d0ad7662b8ea.webp",
+    "size": 10568,
+    "source_rel": "daewoo/models/lacetti/images/26dadddab4a2fa18ab9c4685db4a7dc519e806c6d9779ae2e893d0ad7662b8ea.webp"
+  },
+  {
+    "filename": "26ee4c2149d5e21760f2fe0ca8975c8e2f84442e1f4f2cf926f77f79c7b42488.webp",
+    "size": 22550,
+    "source_rel": "daewoo/models/lacetti/images/26ee4c2149d5e21760f2fe0ca8975c8e2f84442e1f4f2cf926f77f79c7b42488.webp"
+  },
+  {
+    "filename": "27058cffabb5bc9c6f1c1be36ed225dfe7e1af12ad2c5bd1e7e85ed3ec60cd5a.webp",
+    "size": 8272,
+    "source_rel": "daewoo/models/lacetti/images/27058cffabb5bc9c6f1c1be36ed225dfe7e1af12ad2c5bd1e7e85ed3ec60cd5a.webp"
+  },
+  {
+    "filename": "276e28ab25986f016bcafdc78d4a53a82e05cbf857b4655b68e74dd0721027e2.webp",
+    "size": 55828,
+    "source_rel": "daewoo/models/lacetti/images/276e28ab25986f016bcafdc78d4a53a82e05cbf857b4655b68e74dd0721027e2.webp"
+  },
+  {
+    "filename": "27b4f946ec88ad0186f48c11f73632ea3fe0094d626e7ad54ea057cb03e47a8a.webp",
+    "size": 15540,
+    "source_rel": "daewoo/models/lacetti/images/27b4f946ec88ad0186f48c11f73632ea3fe0094d626e7ad54ea057cb03e47a8a.webp"
+  },
+  {
+    "filename": "28824183c03fd5175f3f644730fd8811ad429ae381bc5189534fbef1e2ea14aa.webp",
+    "size": 72118,
+    "source_rel": "daewoo/models/lacetti/images/28824183c03fd5175f3f644730fd8811ad429ae381bc5189534fbef1e2ea14aa.webp"
+  },
+  {
+    "filename": "2889722bc9c030bbbae2f4c027ef86ac5cb71d5146fd28f9c9a2ccda581f8afe.webp",
+    "size": 17956,
+    "source_rel": "daewoo/models/lacetti/images/2889722bc9c030bbbae2f4c027ef86ac5cb71d5146fd28f9c9a2ccda581f8afe.webp"
+  },
+  {
+    "filename": "288c2dbf9c1ad32c01d73b6b0611190748ddeb3c32a802df1eb7a0afd5d6a198.webp",
+    "size": 18912,
+    "source_rel": "daewoo/models/lacetti/images/288c2dbf9c1ad32c01d73b6b0611190748ddeb3c32a802df1eb7a0afd5d6a198.webp"
+  },
+  {
+    "filename": "29080dfffd63509107c1eed9f0858b370265f40712a6a2fbcb82cb279ec72b96.webp",
+    "size": 11472,
+    "source_rel": "daewoo/models/lacetti/images/29080dfffd63509107c1eed9f0858b370265f40712a6a2fbcb82cb279ec72b96.webp"
+  },
+  {
+    "filename": "2920991601b557276bff60933483a8937c61fac893e3e8886fe055e54d9f2c3f.webp",
+    "size": 9682,
+    "source_rel": "daewoo/models/lacetti/images/2920991601b557276bff60933483a8937c61fac893e3e8886fe055e54d9f2c3f.webp"
+  },
+  {
+    "filename": "294b4758be5ca2897f496a34b66d17534b01bf826ce594ff78cf74f165e3f05c.webp",
+    "size": 22882,
+    "source_rel": "daewoo/models/lacetti/images/294b4758be5ca2897f496a34b66d17534b01bf826ce594ff78cf74f165e3f05c.webp"
+  },
+  {
+    "filename": "29cd684fb8a562d3250c442c3bb7751336ae800735ca918eb1d084d0587d6966.webp",
+    "size": 20296,
+    "source_rel": "daewoo/models/lacetti/images/29cd684fb8a562d3250c442c3bb7751336ae800735ca918eb1d084d0587d6966.webp"
+  },
+  {
+    "filename": "2ad16784804cb3764ef2b36908689abef8cd3c73f0581f67d04b60a02df0f56f.webp",
+    "size": 13702,
+    "source_rel": "daewoo/models/lacetti/images/2ad16784804cb3764ef2b36908689abef8cd3c73f0581f67d04b60a02df0f56f.webp"
+  },
+  {
+    "filename": "2b0231e0864ba7c1a71d1655201e29ae534ef0dac7c415758d31f44574701794.webp",
+    "size": 14582,
+    "source_rel": "daewoo/models/lacetti/images/2b0231e0864ba7c1a71d1655201e29ae534ef0dac7c415758d31f44574701794.webp"
+  },
+  {
+    "filename": "2b2514adf71d50549229108d40c1997596eb3d66cc761ab06c7bff31d6fb186e.webp",
+    "size": 8920,
+    "source_rel": "daewoo/models/lacetti/images/2b2514adf71d50549229108d40c1997596eb3d66cc761ab06c7bff31d6fb186e.webp"
+  },
+  {
+    "filename": "2b2fd754cd89cc992aa2bb9843c5454c315b5126d4072b074c7d3aa3faac3841.webp",
+    "size": 13470,
+    "source_rel": "daewoo/models/lacetti/images/2b2fd754cd89cc992aa2bb9843c5454c315b5126d4072b074c7d3aa3faac3841.webp"
+  },
+  {
+    "filename": "2b89beec16c8103db1c07389dbf23a63f78db9901c6f059bcb872a37e4aab1fb.webp",
+    "size": 22388,
+    "source_rel": "daewoo/models/lacetti/images/2b89beec16c8103db1c07389dbf23a63f78db9901c6f059bcb872a37e4aab1fb.webp"
+  },
+  {
+    "filename": "2bb2f19962f9145c726dce40df20620284f1ac360d9de79adb4a92ef12c54c00.webp",
+    "size": 7598,
+    "source_rel": "daewoo/models/lacetti/images/2bb2f19962f9145c726dce40df20620284f1ac360d9de79adb4a92ef12c54c00.webp"
+  },
+  {
+    "filename": "2bed76c68b7b6b5e5eda16e31308fbfc31e6c7e03c6bfeb83a4bc9c376839351.webp",
+    "size": 8378,
+    "source_rel": "daewoo/models/lacetti/images/2bed76c68b7b6b5e5eda16e31308fbfc31e6c7e03c6bfeb83a4bc9c376839351.webp"
+  },
+  {
+    "filename": "2c0a19579e1ab1ffe898d11712759faf82afdf8bcd8d52f2607f5cdf1c46b83c.webp",
+    "size": 110438,
+    "source_rel": "daewoo/models/lacetti/images/2c0a19579e1ab1ffe898d11712759faf82afdf8bcd8d52f2607f5cdf1c46b83c.webp"
+  },
+  {
+    "filename": "2c34d3c963722b305de4ca625ebe32df3c88bd21dd75b80412e83223d2d3ded5.webp",
+    "size": 12232,
+    "source_rel": "daewoo/models/lacetti/images/2c34d3c963722b305de4ca625ebe32df3c88bd21dd75b80412e83223d2d3ded5.webp"
+  },
+  {
+    "filename": "2c703a1b3ed69bb914797c7de0dfad15ddde40584e6410ef8a838e0420f821dd.webp",
+    "size": 13484,
+    "source_rel": "daewoo/models/lacetti/images/2c703a1b3ed69bb914797c7de0dfad15ddde40584e6410ef8a838e0420f821dd.webp"
+  },
+  {
+    "filename": "2cb9d596b702e059773a79d7f16fa5f3dbf5b5f76259b906029ec21bfda4beaa.webp",
+    "size": 2220,
+    "source_rel": "daewoo/models/lacetti/images/2cb9d596b702e059773a79d7f16fa5f3dbf5b5f76259b906029ec21bfda4beaa.webp"
+  },
+  {
+    "filename": "2cf185c771d467a05228e7a1d589de93d1252e18965e9b8f59ecafcd9ca9deab.webp",
+    "size": 16050,
+    "source_rel": "daewoo/models/lacetti/images/2cf185c771d467a05228e7a1d589de93d1252e18965e9b8f59ecafcd9ca9deab.webp"
+  },
+  {
+    "filename": "2d20514032f390c96b9a1a303d841371ffd91dfc1209ab9cae9ae0df1004930c.webp",
+    "size": 17208,
+    "source_rel": "daewoo/models/lacetti/images/2d20514032f390c96b9a1a303d841371ffd91dfc1209ab9cae9ae0df1004930c.webp"
+  },
+  {
+    "filename": "2d707bfad0a4e31aa51050d314a1a8c2fa3bf23503c27221e70b6ce2f492a561.webp",
+    "size": 13186,
+    "source_rel": "daewoo/models/lacetti/images/2d707bfad0a4e31aa51050d314a1a8c2fa3bf23503c27221e70b6ce2f492a561.webp"
+  },
+  {
+    "filename": "2d8335387484c5f48c4e4a65ef1213276565cd6a277b2392d28fca896b2ebdb8.webp",
+    "size": 11266,
+    "source_rel": "daewoo/models/lacetti/images/2d8335387484c5f48c4e4a65ef1213276565cd6a277b2392d28fca896b2ebdb8.webp"
+  },
+  {
+    "filename": "2d984db840d871b2d2dcdc8587f5449dbfc3808eb4f62dc22d58a698758b97c8.webp",
+    "size": 13228,
+    "source_rel": "daewoo/models/lacetti/images/2d984db840d871b2d2dcdc8587f5449dbfc3808eb4f62dc22d58a698758b97c8.webp"
+  },
+  {
+    "filename": "2db965b64b9ce39fa3d42ff1db272a3439c93c97d961b26530fb006ca83a6684.webp",
+    "size": 8580,
+    "source_rel": "daewoo/models/lacetti/images/2db965b64b9ce39fa3d42ff1db272a3439c93c97d961b26530fb006ca83a6684.webp"
+  },
+  {
+    "filename": "2e40a2f02b75fc2ccbf329608339fc9011657d0021c81393e3e2576473d134dd.webp",
+    "size": 8566,
+    "source_rel": "daewoo/models/lacetti/images/2e40a2f02b75fc2ccbf329608339fc9011657d0021c81393e3e2576473d134dd.webp"
+  },
+  {
+    "filename": "2e4d261c61f9f43c6c29e48e4f528eacb38c6285495bca803801ef841ab41bcd.webp",
+    "size": 6636,
+    "source_rel": "daewoo/models/lacetti/images/2e4d261c61f9f43c6c29e48e4f528eacb38c6285495bca803801ef841ab41bcd.webp"
+  },
+  {
+    "filename": "2e6f84cf7b550c2ed1e4e0585c79b8b661a19259072fc1ffa6ed514d2f10fcf1.webp",
+    "size": 17332,
+    "source_rel": "daewoo/models/lacetti/images/2e6f84cf7b550c2ed1e4e0585c79b8b661a19259072fc1ffa6ed514d2f10fcf1.webp"
+  },
+  {
+    "filename": "2e87303477acfa8a4ae5bd42df56b771f7069e828dc5f932313693ebe73b290e.webp",
+    "size": 16488,
+    "source_rel": "daewoo/models/lacetti/images/2e87303477acfa8a4ae5bd42df56b771f7069e828dc5f932313693ebe73b290e.webp"
+  },
+  {
+    "filename": "2e8f1fbd099c8fde5231bcda70230c2c42e47977e31da30c5951dc3a2819655c.webp",
+    "size": 8360,
+    "source_rel": "daewoo/models/lacetti/images/2e8f1fbd099c8fde5231bcda70230c2c42e47977e31da30c5951dc3a2819655c.webp"
+  },
+  {
+    "filename": "2ed4dd7dfe9e3a1645093ee183b759e0d6846e189ea4e3038c2c2748c195a69e.webp",
+    "size": 104152,
+    "source_rel": "daewoo/models/lacetti/images/2ed4dd7dfe9e3a1645093ee183b759e0d6846e189ea4e3038c2c2748c195a69e.webp"
+  },
+  {
+    "filename": "2f43cfdaf1f55d37d74fe2d4d6c34261e11bdaf0af58d59ff5655e981698f875.webp",
+    "size": 12630,
+    "source_rel": "daewoo/models/lacetti/images/2f43cfdaf1f55d37d74fe2d4d6c34261e11bdaf0af58d59ff5655e981698f875.webp"
+  },
+  {
+    "filename": "2f9962dd79f9c5acf0b7f8a3e30d764b57b1d58937f4b2d52d16cad431162634.webp",
+    "size": 14190,
+    "source_rel": "daewoo/models/lacetti/images/2f9962dd79f9c5acf0b7f8a3e30d764b57b1d58937f4b2d52d16cad431162634.webp"
+  },
+  {
+    "filename": "2faa79a5a51c55a85b90fb0f9d9618730cbefe0f0696280a48c50c02447a7060.webp",
+    "size": 7616,
+    "source_rel": "daewoo/models/lacetti/images/2faa79a5a51c55a85b90fb0f9d9618730cbefe0f0696280a48c50c02447a7060.webp"
+  },
+  {
+    "filename": "2fcb2c3912c8820f5b4dc460e9863e0087092d0d5532debe977839fa68d7057c.webp",
+    "size": 14696,
+    "source_rel": "daewoo/models/lacetti/images/2fcb2c3912c8820f5b4dc460e9863e0087092d0d5532debe977839fa68d7057c.webp"
+  },
+  {
+    "filename": "2fd5f8867a06f001cfe4b98a1bf47d4ce33751c9a2f6ed1df669652d91beee2b.webp",
+    "size": 83032,
+    "source_rel": "daewoo/models/lacetti/images/2fd5f8867a06f001cfe4b98a1bf47d4ce33751c9a2f6ed1df669652d91beee2b.webp"
+  },
+  {
+    "filename": "2ff4a0da0a3944291df893a19a8a0d639f5afb87ef391df25f42c37a983fac77.webp",
+    "size": 53576,
+    "source_rel": "daewoo/models/lacetti/images/2ff4a0da0a3944291df893a19a8a0d639f5afb87ef391df25f42c37a983fac77.webp"
+  },
+  {
+    "filename": "31621f4ff19f81d73a1b216c3dc2f54fc68e2aa58e69a476c4a2c10be7fbcf5a.webp",
+    "size": 15058,
+    "source_rel": "daewoo/models/lacetti/images/31621f4ff19f81d73a1b216c3dc2f54fc68e2aa58e69a476c4a2c10be7fbcf5a.webp"
+  },
+  {
+    "filename": "317ba4219aac5aeba382826f1bc37f92f06b358a10bb0756a8d640bfbbc9cbff.webp",
+    "size": 7544,
+    "source_rel": "daewoo/models/lacetti/images/317ba4219aac5aeba382826f1bc37f92f06b358a10bb0756a8d640bfbbc9cbff.webp"
+  },
+  {
+    "filename": "317f3e539c9b45e50e5e5d96fa63cec64cf784f5f54fbc01dd6e1b2320f6d46b.webp",
+    "size": 16488,
+    "source_rel": "daewoo/models/lacetti/images/317f3e539c9b45e50e5e5d96fa63cec64cf784f5f54fbc01dd6e1b2320f6d46b.webp"
+  },
+  {
+    "filename": "31e2f43649b6a6d9f15ec3e1082e8aa35b3ad423f69d8340d1595715f1578f36.webp",
+    "size": 18886,
+    "source_rel": "daewoo/models/lacetti/images/31e2f43649b6a6d9f15ec3e1082e8aa35b3ad423f69d8340d1595715f1578f36.webp"
+  },
+  {
+    "filename": "31eff6a543fd112643190bc2a8eb034cc84e539aeb98ba9c0631ff20513533f6.webp",
+    "size": 17706,
+    "source_rel": "daewoo/models/lacetti/images/31eff6a543fd112643190bc2a8eb034cc84e539aeb98ba9c0631ff20513533f6.webp"
+  },
+  {
+    "filename": "3225104ea87a5f4eca43c6ea649dbae59ab4c193203764feaa7329a12a0ecea1.webp",
+    "size": 9486,
+    "source_rel": "daewoo/models/lacetti/images/3225104ea87a5f4eca43c6ea649dbae59ab4c193203764feaa7329a12a0ecea1.webp"
+  },
+  {
+    "filename": "325c979ad493c49d4d56486572a48436b7bc2197a47731b08de8aba3703ae5e9.webp",
+    "size": 8090,
+    "source_rel": "daewoo/models/lacetti/images/325c979ad493c49d4d56486572a48436b7bc2197a47731b08de8aba3703ae5e9.webp"
+  },
+  {
+    "filename": "32702a05028d34248f4d1a08e1a2c52fd424784f6b08423ece20fa2a5525045d.webp",
+    "size": 10220,
+    "source_rel": "daewoo/models/lacetti/images/32702a05028d34248f4d1a08e1a2c52fd424784f6b08423ece20fa2a5525045d.webp"
+  },
+  {
+    "filename": "3348c0de671922268ad8b18b64d5833c0aa0c18ba08a02e6b2298851f1b84927.webp",
+    "size": 20852,
+    "source_rel": "daewoo/models/lacetti/images/3348c0de671922268ad8b18b64d5833c0aa0c18ba08a02e6b2298851f1b84927.webp"
+  },
+  {
+    "filename": "336c4d5592d3628c2b4e157cc71d19f3d40ac91895db47ea9720fc7ba698d989.webp",
+    "size": 21618,
+    "source_rel": "daewoo/models/lacetti/images/336c4d5592d3628c2b4e157cc71d19f3d40ac91895db47ea9720fc7ba698d989.webp"
+  },
+  {
+    "filename": "346555ac9db95769d859c0cf855867cc692714b2dde2d28f07408510f4aa49db.webp",
+    "size": 15382,
+    "source_rel": "daewoo/models/lacetti/images/346555ac9db95769d859c0cf855867cc692714b2dde2d28f07408510f4aa49db.webp"
+  },
+  {
+    "filename": "34c9d08607749e4b838cbf81568c28e6038714307b3c5c0f488c2f1556a88e6d.webp",
+    "size": 11326,
+    "source_rel": "daewoo/models/lacetti/images/34c9d08607749e4b838cbf81568c28e6038714307b3c5c0f488c2f1556a88e6d.webp"
+  },
+  {
+    "filename": "350854c10fa77a2cb6afd61bca33d7e532c65f09ad3332d53ded949aa5840160.webp",
+    "size": 7420,
+    "source_rel": "daewoo/models/lacetti/images/350854c10fa77a2cb6afd61bca33d7e532c65f09ad3332d53ded949aa5840160.webp"
+  },
+  {
+    "filename": "35087bf37454d9fd1710ced2586246c12412154be1282b77bc943c51c39af0df.webp",
+    "size": 6744,
+    "source_rel": "daewoo/models/lacetti/images/35087bf37454d9fd1710ced2586246c12412154be1282b77bc943c51c39af0df.webp"
+  },
+  {
+    "filename": "35165ba256d9009a18e07dfac5445a27d8fcc538618ab4cf18499e445ab1359b.webp",
+    "size": 14668,
+    "source_rel": "daewoo/models/lacetti/images/35165ba256d9009a18e07dfac5445a27d8fcc538618ab4cf18499e445ab1359b.webp"
+  },
+  {
+    "filename": "355eb8262f93cc452d3fe0a39ce2ffc5b8cdbcbe9d91b42f95b11809231e2cf7.webp",
+    "size": 13670,
+    "source_rel": "daewoo/models/lacetti/images/355eb8262f93cc452d3fe0a39ce2ffc5b8cdbcbe9d91b42f95b11809231e2cf7.webp"
+  },
+  {
+    "filename": "3565de7e228386dc4c9d1ad201e035181cb86ddc064f77cbf8cac94af6b6b38f.webp",
+    "size": 21590,
+    "source_rel": "daewoo/models/lacetti/images/3565de7e228386dc4c9d1ad201e035181cb86ddc064f77cbf8cac94af6b6b38f.webp"
+  },
+  {
+    "filename": "3594ce7c794b6f2319a3f0e393fc1ae20271e51d1727660491dd665c4d10469f.webp",
+    "size": 86494,
+    "source_rel": "daewoo/models/lacetti/images/3594ce7c794b6f2319a3f0e393fc1ae20271e51d1727660491dd665c4d10469f.webp"
+  },
+  {
+    "filename": "35c956cf73882bd0f46877145acfb7097b48ccd1217fcd4fcc4f60d1c5d24dd3.webp",
+    "size": 8346,
+    "source_rel": "daewoo/models/lacetti/images/35c956cf73882bd0f46877145acfb7097b48ccd1217fcd4fcc4f60d1c5d24dd3.webp"
+  },
+  {
+    "filename": "360264e22b2a15c93c4686ae759de523d244f72b4cca6a597ddb5f9b3978fef0.webp",
+    "size": 8194,
+    "source_rel": "daewoo/models/lacetti/images/360264e22b2a15c93c4686ae759de523d244f72b4cca6a597ddb5f9b3978fef0.webp"
+  },
+  {
+    "filename": "36312704a738bae323fc16221452fa6bf7302b420c87a2b32c3cd126f98317ac.webp",
+    "size": 13926,
+    "source_rel": "daewoo/models/lacetti/images/36312704a738bae323fc16221452fa6bf7302b420c87a2b32c3cd126f98317ac.webp"
+  },
+  {
+    "filename": "3664049d9bbdb6b52f94988e729b7047be9e6d02ec2b0632b2913e874076b68b.webp",
+    "size": 10372,
+    "source_rel": "daewoo/models/lacetti/images/3664049d9bbdb6b52f94988e729b7047be9e6d02ec2b0632b2913e874076b68b.webp"
+  },
+  {
+    "filename": "3707ff57462340f20acc4cb01e66c48d818962b0e6d9887c150e69950f9d4406.webp",
+    "size": 5002,
+    "source_rel": "daewoo/models/lacetti/images/3707ff57462340f20acc4cb01e66c48d818962b0e6d9887c150e69950f9d4406.webp"
+  },
+  {
+    "filename": "376e539c5ffb4e1bd91837d23f113fc4a73e5224792629a3342bf5190e127861.webp",
+    "size": 28090,
+    "source_rel": "daewoo/models/lacetti/images/376e539c5ffb4e1bd91837d23f113fc4a73e5224792629a3342bf5190e127861.webp"
+  },
+  {
+    "filename": "376ef09d4f193dd6bda27d6e1d865cba9987695fb440fea65dff75fe30f0022e.webp",
+    "size": 10110,
+    "source_rel": "daewoo/models/lacetti/images/376ef09d4f193dd6bda27d6e1d865cba9987695fb440fea65dff75fe30f0022e.webp"
+  },
+  {
+    "filename": "3786f2184dcab20836f7c535f121610a5ca28173bd44a43478a4e1673df77792.webp",
+    "size": 10042,
+    "source_rel": "daewoo/models/lacetti/images/3786f2184dcab20836f7c535f121610a5ca28173bd44a43478a4e1673df77792.webp"
+  },
+  {
+    "filename": "37a2653970d29f7e765b0698cb36202e5567a428a5f7f7e4fac00277fb4ce6c1.webp",
+    "size": 8374,
+    "source_rel": "daewoo/models/lacetti/images/37a2653970d29f7e765b0698cb36202e5567a428a5f7f7e4fac00277fb4ce6c1.webp"
+  },
+  {
+    "filename": "37f7a64b294d43371618b6da4b05630b0c0a7651ea354efbcfb0ed0e09a3b953.webp",
+    "size": 11956,
+    "source_rel": "daewoo/models/lacetti/images/37f7a64b294d43371618b6da4b05630b0c0a7651ea354efbcfb0ed0e09a3b953.webp"
+  },
+  {
+    "filename": "3804caf23e10c42a8daa330a30eb820259815211d3da8e747896084f93027c86.webp",
+    "size": 11774,
+    "source_rel": "daewoo/models/lacetti/images/3804caf23e10c42a8daa330a30eb820259815211d3da8e747896084f93027c86.webp"
+  },
+  {
+    "filename": "3846cac756d0c1df56a36adead12ff1c35d4639befc465f739a35d2e8403023b.webp",
+    "size": 9738,
+    "source_rel": "daewoo/models/lacetti/images/3846cac756d0c1df56a36adead12ff1c35d4639befc465f739a35d2e8403023b.webp"
+  },
+  {
+    "filename": "386bfbe8c9ff5f7894e500fff3eb46e263cc4ce282c2a45b311fd8db9f7300c4.webp",
+    "size": 18114,
+    "source_rel": "daewoo/models/lacetti/images/386bfbe8c9ff5f7894e500fff3eb46e263cc4ce282c2a45b311fd8db9f7300c4.webp"
+  },
+  {
+    "filename": "387bff53333b5ec927694f578f1aa20b03afb252183756349eff3e39b8c5a484.webp",
+    "size": 9104,
+    "source_rel": "daewoo/models/lacetti/images/387bff53333b5ec927694f578f1aa20b03afb252183756349eff3e39b8c5a484.webp"
+  },
+  {
+    "filename": "38c447a5c3b7e66f665169bac0883ac66ddac25adb2bb65d5efb0c6a10025ff5.webp",
+    "size": 9864,
+    "source_rel": "daewoo/models/lacetti/images/38c447a5c3b7e66f665169bac0883ac66ddac25adb2bb65d5efb0c6a10025ff5.webp"
+  },
+  {
+    "filename": "38ea37e4a9029a09e67ffd698eb1dc61493d6ed7a2c92dc0cfdf823302ede642.webp",
+    "size": 92164,
+    "source_rel": "daewoo/models/lacetti/images/38ea37e4a9029a09e67ffd698eb1dc61493d6ed7a2c92dc0cfdf823302ede642.webp"
+  },
+  {
+    "filename": "38fdc6c7c195d0d5155a53c7a7a039fe6b823baeb66332736a6dad49e3e344fb.webp",
+    "size": 12490,
+    "source_rel": "daewoo/models/lacetti/images/38fdc6c7c195d0d5155a53c7a7a039fe6b823baeb66332736a6dad49e3e344fb.webp"
+  },
+  {
+    "filename": "39a1db32debfa8c7d52d7bf14795392e5cda9cd5468ae79dfa810301bfe9a04c.webp",
+    "size": 9186,
+    "source_rel": "daewoo/models/lacetti/images/39a1db32debfa8c7d52d7bf14795392e5cda9cd5468ae79dfa810301bfe9a04c.webp"
+  },
+  {
+    "filename": "39c24234b892a33dccfd290a7399ab09c418cf93b760d7631bacfd4ffd22525c.webp",
+    "size": 17570,
+    "source_rel": "daewoo/models/lacetti/images/39c24234b892a33dccfd290a7399ab09c418cf93b760d7631bacfd4ffd22525c.webp"
+  },
+  {
+    "filename": "39ff49c89d17ad576076a2406032dc4c4935005cde2ed88d222794543252d0d1.webp",
+    "size": 8702,
+    "source_rel": "daewoo/models/lacetti/images/39ff49c89d17ad576076a2406032dc4c4935005cde2ed88d222794543252d0d1.webp"
+  },
+  {
+    "filename": "3a179a8359f4dc99ea9f3f0d9086501bdb7870b89f2f86d5bd6376b41d5dcf4c.webp",
+    "size": 10674,
+    "source_rel": "daewoo/models/lacetti/images/3a179a8359f4dc99ea9f3f0d9086501bdb7870b89f2f86d5bd6376b41d5dcf4c.webp"
+  },
+  {
+    "filename": "3a2e0402ff3bf4312423d9ec707b57005dbf990a80bed4aae45a9bde3522645d.webp",
+    "size": 12470,
+    "source_rel": "daewoo/models/lacetti/images/3a2e0402ff3bf4312423d9ec707b57005dbf990a80bed4aae45a9bde3522645d.webp"
+  },
+  {
+    "filename": "3a445b6bd607987f93e00c6eb7dc95017742e9c48c4e2a745320b3a6f647a340.webp",
+    "size": 10292,
+    "source_rel": "daewoo/models/lacetti/images/3a445b6bd607987f93e00c6eb7dc95017742e9c48c4e2a745320b3a6f647a340.webp"
+  },
+  {
+    "filename": "3a78082875d14eb92d97924684fd9dec8fc2f541268408d140c420d67bb86ecb.webp",
+    "size": 10720,
+    "source_rel": "daewoo/models/lacetti/images/3a78082875d14eb92d97924684fd9dec8fc2f541268408d140c420d67bb86ecb.webp"
+  },
+  {
+    "filename": "3a813d37af5444d0367df6b59f17d0b7c3aa29f995c4afdfcb9cca1061594e96.webp",
+    "size": 4418,
+    "source_rel": "daewoo/models/lacetti/images/3a813d37af5444d0367df6b59f17d0b7c3aa29f995c4afdfcb9cca1061594e96.webp"
+  },
+  {
+    "filename": "3a991ee6c80ae2bfcb93eb04db88802154c500c11836445855b9aea21542f3f7.webp",
+    "size": 8686,
+    "source_rel": "daewoo/models/lacetti/images/3a991ee6c80ae2bfcb93eb04db88802154c500c11836445855b9aea21542f3f7.webp"
+  },
+  {
+    "filename": "3aa00eecaa2a6a55cc58770feadecafc66d722c3e494e8a58c0a29e0edfc4572.webp",
+    "size": 10378,
+    "source_rel": "daewoo/models/lacetti/images/3aa00eecaa2a6a55cc58770feadecafc66d722c3e494e8a58c0a29e0edfc4572.webp"
+  },
+  {
+    "filename": "3af73af1fa316c92926d7480129a80051350cdfddcb34018f12bb4d4797bbcc1.webp",
+    "size": 12888,
+    "source_rel": "daewoo/models/lacetti/images/3af73af1fa316c92926d7480129a80051350cdfddcb34018f12bb4d4797bbcc1.webp"
+  },
+  {
+    "filename": "3b16c63d66ec76e0b12e54761f5d39d28b644f81c9ff473dce212b31e08e1da6.webp",
+    "size": 9402,
+    "source_rel": "daewoo/models/lacetti/images/3b16c63d66ec76e0b12e54761f5d39d28b644f81c9ff473dce212b31e08e1da6.webp"
+  },
+  {
+    "filename": "3b1a0d629044bbe12efcdbe698ee796b31210564c259dcc34e0fa29d1aedb06e.webp",
+    "size": 16190,
+    "source_rel": "daewoo/models/lacetti/images/3b1a0d629044bbe12efcdbe698ee796b31210564c259dcc34e0fa29d1aedb06e.webp"
+  },
+  {
+    "filename": "3b1cea20eefe021c62e0fd65f9913f4c20f028967068ffb4cfaf0b1f7dfd151a.webp",
+    "size": 18296,
+    "source_rel": "daewoo/models/lacetti/images/3b1cea20eefe021c62e0fd65f9913f4c20f028967068ffb4cfaf0b1f7dfd151a.webp"
+  },
+  {
+    "filename": "3b61dafe9f10f1b62a27e0f12c0466bcf32e4971705795cbca3ef8168314ae89.webp",
+    "size": 12958,
+    "source_rel": "daewoo/models/lacetti/images/3b61dafe9f10f1b62a27e0f12c0466bcf32e4971705795cbca3ef8168314ae89.webp"
+  },
+  {
+    "filename": "3cd7b90878ba2658794808297593e437c4a8bd30616369f013bd8661d80d9ed2.webp",
+    "size": 8052,
+    "source_rel": "daewoo/models/lacetti/images/3cd7b90878ba2658794808297593e437c4a8bd30616369f013bd8661d80d9ed2.webp"
+  },
+  {
+    "filename": "3cd7daf0caf3ee498a746251322bee80117d4293fefa499b767be42bb0470b99.webp",
+    "size": 13240,
+    "source_rel": "daewoo/models/lacetti/images/3cd7daf0caf3ee498a746251322bee80117d4293fefa499b767be42bb0470b99.webp"
+  },
+  {
+    "filename": "3dae3616153db14500eeb75f8d731d2c70ced94f4013125244abb198f928d861.webp",
+    "size": 6308,
+    "source_rel": "daewoo/models/lacetti/images/3dae3616153db14500eeb75f8d731d2c70ced94f4013125244abb198f928d861.webp"
+  },
+  {
+    "filename": "3dd966cd343a7e06b47cb11db0eaf50df5a964dfb65343afa63069c1fef859cd.webp",
+    "size": 14902,
+    "source_rel": "daewoo/models/lacetti/images/3dd966cd343a7e06b47cb11db0eaf50df5a964dfb65343afa63069c1fef859cd.webp"
+  },
+  {
+    "filename": "3e54df3d705e437193e0a959c8682aef0bb5be4cb07cc95ebf5b5871845fff20.webp",
+    "size": 14242,
+    "source_rel": "daewoo/models/lacetti/images/3e54df3d705e437193e0a959c8682aef0bb5be4cb07cc95ebf5b5871845fff20.webp"
+  },
+  {
+    "filename": "3e6ea2e5d4d1e9d70a0e46de45f45755321970f0fa7432c03ff45d309efdd5d7.webp",
+    "size": 9788,
+    "source_rel": "daewoo/models/lacetti/images/3e6ea2e5d4d1e9d70a0e46de45f45755321970f0fa7432c03ff45d309efdd5d7.webp"
+  },
+  {
+    "filename": "3e860637d1e6a85140e17eed8118ff7aaf8246695c997078aded57e122a5f5dd.webp",
+    "size": 8636,
+    "source_rel": "daewoo/models/lacetti/images/3e860637d1e6a85140e17eed8118ff7aaf8246695c997078aded57e122a5f5dd.webp"
+  },
+  {
+    "filename": "3e92313efe876675dccf8852dbe93b041dc032f111ce21b4f5ccf720a5be2ab1.webp",
+    "size": 18598,
+    "source_rel": "daewoo/models/lacetti/images/3e92313efe876675dccf8852dbe93b041dc032f111ce21b4f5ccf720a5be2ab1.webp"
+  },
+  {
+    "filename": "3edcfbd7465b7383232cb9acc6841b99b5544370d42c2244df93d0ba5d4201ee.webp",
+    "size": 8364,
+    "source_rel": "daewoo/models/lacetti/images/3edcfbd7465b7383232cb9acc6841b99b5544370d42c2244df93d0ba5d4201ee.webp"
+  },
+  {
+    "filename": "3edd364da8678c9ee1a1b76e7919f6d18561016c126c9d9a1118ac4e51045bcc.webp",
+    "size": 16104,
+    "source_rel": "daewoo/models/lacetti/images/3edd364da8678c9ee1a1b76e7919f6d18561016c126c9d9a1118ac4e51045bcc.webp"
+  },
+  {
+    "filename": "3f596cf7a9f0e22ed7def9b4ddee277d9b55e2344cd00072afdbd74c93ad1f03.webp",
+    "size": 15044,
+    "source_rel": "daewoo/models/lacetti/images/3f596cf7a9f0e22ed7def9b4ddee277d9b55e2344cd00072afdbd74c93ad1f03.webp"
+  },
+  {
+    "filename": "3faa71c3ab923b77ab7df307e678fb400d5c37c8a63b4c6ba3ca77d959e5f777.webp",
+    "size": 12398,
+    "source_rel": "daewoo/models/lacetti/images/3faa71c3ab923b77ab7df307e678fb400d5c37c8a63b4c6ba3ca77d959e5f777.webp"
+  },
+  {
+    "filename": "40051c1f0704c4f5fc73b7fd87c929b4227fc74156d960b15e3cc275286b9617.webp",
+    "size": 10822,
+    "source_rel": "daewoo/models/lacetti/images/40051c1f0704c4f5fc73b7fd87c929b4227fc74156d960b15e3cc275286b9617.webp"
+  },
+  {
+    "filename": "40cf63c7c184e4573331fa7d31e9aa84ff890796f14dd51b56c483669dcca49e.webp",
+    "size": 15208,
+    "source_rel": "daewoo/models/lacetti/images/40cf63c7c184e4573331fa7d31e9aa84ff890796f14dd51b56c483669dcca49e.webp"
+  },
+  {
+    "filename": "410148bd35acac1565a761d9d7b148eaa02813c83b5eb53ba4e43eebc1b407a1.webp",
+    "size": 12258,
+    "source_rel": "daewoo/models/lacetti/images/410148bd35acac1565a761d9d7b148eaa02813c83b5eb53ba4e43eebc1b407a1.webp"
+  },
+  {
+    "filename": "410a8a18fbad89b925fff107012e27a49e643c86596ab61db3ffcfb967367aa7.webp",
+    "size": 7912,
+    "source_rel": "daewoo/models/lacetti/images/410a8a18fbad89b925fff107012e27a49e643c86596ab61db3ffcfb967367aa7.webp"
+  },
+  {
+    "filename": "4142fa0bf2c2f6b59f14048350cbcf062bda1152a6c4dd3ffdb53c1ffe87b92e.webp",
+    "size": 122450,
+    "source_rel": "daewoo/models/lacetti/images/4142fa0bf2c2f6b59f14048350cbcf062bda1152a6c4dd3ffdb53c1ffe87b92e.webp"
+  },
+  {
+    "filename": "4163c4110082b91b87dbd61e6481aeba960b5abf9d05db3a9e6c6ffca1802c7e.webp",
+    "size": 8648,
+    "source_rel": "daewoo/models/lacetti/images/4163c4110082b91b87dbd61e6481aeba960b5abf9d05db3a9e6c6ffca1802c7e.webp"
+  },
+  {
+    "filename": "417c6f17e838d481cae2ebcc99a419fc8264cb56930b02cf09eb73b014291c12.webp",
+    "size": 10014,
+    "source_rel": "daewoo/models/lacetti/images/417c6f17e838d481cae2ebcc99a419fc8264cb56930b02cf09eb73b014291c12.webp"
+  },
+  {
+    "filename": "41a27175e621e682ecf2ccef2cd65fb667f7e82f5b2be027070c2e7fa5fd3a11.webp",
+    "size": 9754,
+    "source_rel": "daewoo/models/lacetti/images/41a27175e621e682ecf2ccef2cd65fb667f7e82f5b2be027070c2e7fa5fd3a11.webp"
+  },
+  {
+    "filename": "41ce09fa8632e14aff257534ef870fd49b94b493724db5ecb6feb3c06b30a4a1.webp",
+    "size": 8218,
+    "source_rel": "daewoo/models/lacetti/images/41ce09fa8632e14aff257534ef870fd49b94b493724db5ecb6feb3c06b30a4a1.webp"
+  },
+  {
+    "filename": "41e921d9f8527bd3f793a0e1d30c83d491b9aeedf52cc6554ad72d05b3bd60ca.webp",
+    "size": 16666,
+    "source_rel": "daewoo/models/lacetti/images/41e921d9f8527bd3f793a0e1d30c83d491b9aeedf52cc6554ad72d05b3bd60ca.webp"
+  },
+  {
+    "filename": "425a9df1fa44be5d02c64a5c5c033e532c33fa2b9406ec4ab7aab5f682dde7fe.webp",
+    "size": 46024,
+    "source_rel": "daewoo/models/lacetti/images/425a9df1fa44be5d02c64a5c5c033e532c33fa2b9406ec4ab7aab5f682dde7fe.webp"
+  },
+  {
+    "filename": "42ae76a4388ba1e3db27f2707eb25d6400add0d3a748cf8bc4ffb029c9387eb2.webp",
+    "size": 11114,
+    "source_rel": "daewoo/models/lacetti/images/42ae76a4388ba1e3db27f2707eb25d6400add0d3a748cf8bc4ffb029c9387eb2.webp"
+  },
+  {
+    "filename": "42ba954aa95990104dd67046e9726eb7b2634bc4426614c6c83b3f56d653dead.webp",
+    "size": 9522,
+    "source_rel": "daewoo/models/lacetti/images/42ba954aa95990104dd67046e9726eb7b2634bc4426614c6c83b3f56d653dead.webp"
+  },
+  {
+    "filename": "42f42aa6d55e17be00aa8cb6f86e2cb753c7592faedf3617ecd4814b4d6f3f96.webp",
+    "size": 17316,
+    "source_rel": "daewoo/models/lacetti/images/42f42aa6d55e17be00aa8cb6f86e2cb753c7592faedf3617ecd4814b4d6f3f96.webp"
+  },
+  {
+    "filename": "43c98192a4498ec455fc534b7902daa25dceedac257a1877dd66b15aa5f821f6.webp",
+    "size": 11294,
+    "source_rel": "daewoo/models/lacetti/images/43c98192a4498ec455fc534b7902daa25dceedac257a1877dd66b15aa5f821f6.webp"
+  },
+  {
+    "filename": "441c49e389da30926f671c0fac725bde25078b0e6b9b6a6273221f8be16e9248.webp",
+    "size": 90024,
+    "source_rel": "daewoo/models/lacetti/images/441c49e389da30926f671c0fac725bde25078b0e6b9b6a6273221f8be16e9248.webp"
+  },
+  {
+    "filename": "44d6a26784a178a73ef9d88492eb8a6b5f3c4445246ffca12644f4f8608bca20.webp",
+    "size": 9892,
+    "source_rel": "daewoo/models/lacetti/images/44d6a26784a178a73ef9d88492eb8a6b5f3c4445246ffca12644f4f8608bca20.webp"
+  },
+  {
+    "filename": "4508c2c41427c4256b554056da4b197c38059520a6df679f2f4aac550895f8ec.webp",
+    "size": 6080,
+    "source_rel": "daewoo/models/lacetti/images/4508c2c41427c4256b554056da4b197c38059520a6df679f2f4aac550895f8ec.webp"
+  },
+  {
+    "filename": "450b50c77a0760b466920fc0f7ffcaad3418f12a96306b71922eb3849567eea7.webp",
+    "size": 34838,
+    "source_rel": "daewoo/models/lacetti/images/450b50c77a0760b466920fc0f7ffcaad3418f12a96306b71922eb3849567eea7.webp"
+  },
+  {
+    "filename": "452fae677757390e7f250c9233f09725b8f30da02cf8db5654e4f79866c88191.webp",
+    "size": 13316,
+    "source_rel": "daewoo/models/lacetti/images/452fae677757390e7f250c9233f09725b8f30da02cf8db5654e4f79866c88191.webp"
+  },
+  {
+    "filename": "4530f6af32d3bc5f0c4387de8f5f24a19ef4da7af988d39eca2806cbe38fbc20.webp",
+    "size": 9884,
+    "source_rel": "daewoo/models/lacetti/images/4530f6af32d3bc5f0c4387de8f5f24a19ef4da7af988d39eca2806cbe38fbc20.webp"
+  },
+  {
+    "filename": "4533d5dc42f2a848bc5d0041c129f15fdb17072bedded87559d491c4fbae0881.webp",
+    "size": 17426,
+    "source_rel": "daewoo/models/lacetti/images/4533d5dc42f2a848bc5d0041c129f15fdb17072bedded87559d491c4fbae0881.webp"
+  },
+  {
+    "filename": "45a69e3ed97a953282eca193c4f01ac53ac07a04b63044ef8932a766009f6a7d.webp",
+    "size": 15738,
+    "source_rel": "daewoo/models/lacetti/images/45a69e3ed97a953282eca193c4f01ac53ac07a04b63044ef8932a766009f6a7d.webp"
+  },
+  {
+    "filename": "45d372d16a61affb49f47c0158b19c8b1ceca08c7e9a5affc660e8ef951ed55e.webp",
+    "size": 12342,
+    "source_rel": "daewoo/models/lacetti/images/45d372d16a61affb49f47c0158b19c8b1ceca08c7e9a5affc660e8ef951ed55e.webp"
+  },
+  {
+    "filename": "45dccc2f0af328a0ebc9f939285bfa0c4f81de9171a8ec50d8276783c34e063d.webp",
+    "size": 11518,
+    "source_rel": "daewoo/models/lacetti/images/45dccc2f0af328a0ebc9f939285bfa0c4f81de9171a8ec50d8276783c34e063d.webp"
+  },
+  {
+    "filename": "464ccb128dfa7dd0d82abc82fc4d5f85e4298535a8b48909d013092ffe293551.webp",
+    "size": 16032,
+    "source_rel": "daewoo/models/lacetti/images/464ccb128dfa7dd0d82abc82fc4d5f85e4298535a8b48909d013092ffe293551.webp"
+  },
+  {
+    "filename": "47782c321b99f130809e9fdc18cea7f6ddd3dd471c22ca96ed8a4e7839aa82d0.webp",
+    "size": 201140,
+    "source_rel": "daewoo/models/lacetti/images/47782c321b99f130809e9fdc18cea7f6ddd3dd471c22ca96ed8a4e7839aa82d0.webp"
+  },
+  {
+    "filename": "47ae7058c5de58f21fbc93b7f67ebf80e0d43d22cf84092eeabbf4e6bdf3d32d.webp",
+    "size": 9476,
+    "source_rel": "daewoo/models/lacetti/images/47ae7058c5de58f21fbc93b7f67ebf80e0d43d22cf84092eeabbf4e6bdf3d32d.webp"
+  },
+  {
+    "filename": "488096177435c65cdd0d39e5a576f51898184b80be63e9a67beca0c50b6b4b78.webp",
+    "size": 10886,
+    "source_rel": "daewoo/models/lacetti/images/488096177435c65cdd0d39e5a576f51898184b80be63e9a67beca0c50b6b4b78.webp"
+  },
+  {
+    "filename": "48c42845434991430fe91a18446f141de75da04b5d33a4d35dcec258ba939bdb.webp",
+    "size": 9118,
+    "source_rel": "daewoo/models/lacetti/images/48c42845434991430fe91a18446f141de75da04b5d33a4d35dcec258ba939bdb.webp"
+  },
+  {
+    "filename": "48efb155f6c671f9d8395ea83a15161f926b8a3df13326ff748ef11b91fe6515.webp",
+    "size": 5412,
+    "source_rel": "daewoo/models/lacetti/images/48efb155f6c671f9d8395ea83a15161f926b8a3df13326ff748ef11b91fe6515.webp"
+  },
+  {
+    "filename": "496e53eb3c63013ce79930e4e2c9a2dbb8c817c401b63b18f02e82bfb23bad80.webp",
+    "size": 5000,
+    "source_rel": "daewoo/models/lacetti/images/496e53eb3c63013ce79930e4e2c9a2dbb8c817c401b63b18f02e82bfb23bad80.webp"
+  },
+  {
+    "filename": "49a24ef813b6bb8d7a104a737a18f6296efbf5e336ee972876d3226d0dfd494e.webp",
+    "size": 12158,
+    "source_rel": "daewoo/models/lacetti/images/49a24ef813b6bb8d7a104a737a18f6296efbf5e336ee972876d3226d0dfd494e.webp"
+  },
+  {
+    "filename": "49a6429b487152f4beba844f2990f62bb590475374b1945c3f78852755fd675a.webp",
+    "size": 12970,
+    "source_rel": "daewoo/models/lacetti/images/49a6429b487152f4beba844f2990f62bb590475374b1945c3f78852755fd675a.webp"
+  },
+  {
+    "filename": "49f6d6c508408d36ddd22ca60401bd3d50cf176e2f5bfc3dc907d8cf0d5fd5c8.webp",
+    "size": 14882,
+    "source_rel": "daewoo/models/lacetti/images/49f6d6c508408d36ddd22ca60401bd3d50cf176e2f5bfc3dc907d8cf0d5fd5c8.webp"
+  },
+  {
+    "filename": "4a241d226d74706d9d166e2962de2123d88dece8313e67a7dbf5d05c1f8150d5.webp",
+    "size": 18684,
+    "source_rel": "daewoo/models/lacetti/images/4a241d226d74706d9d166e2962de2123d88dece8313e67a7dbf5d05c1f8150d5.webp"
+  },
+  {
+    "filename": "4a608de11872df1cbca002f99f1afe5675afeb22d1425e198ebb9c57e36126f6.webp",
+    "size": 16752,
+    "source_rel": "daewoo/models/lacetti/images/4a608de11872df1cbca002f99f1afe5675afeb22d1425e198ebb9c57e36126f6.webp"
+  },
+  {
+    "filename": "4a665643eac9f1603ce01acb73a4f04423a19e6fad9e3de7a31da0cab16ebe3e.webp",
+    "size": 8342,
+    "source_rel": "daewoo/models/lacetti/images/4a665643eac9f1603ce01acb73a4f04423a19e6fad9e3de7a31da0cab16ebe3e.webp"
+  },
+  {
+    "filename": "4a7d33c85531149098a8195ec4a7a3e9b41921a91007325ae1497d906e960c49.webp",
+    "size": 12466,
+    "source_rel": "daewoo/models/lacetti/images/4a7d33c85531149098a8195ec4a7a3e9b41921a91007325ae1497d906e960c49.webp"
+  },
+  {
+    "filename": "4a9dde0a2be2290c91769ed20c811ea89429b12f32c7e72ad5e255b6c4271158.webp",
+    "size": 6150,
+    "source_rel": "daewoo/models/lacetti/images/4a9dde0a2be2290c91769ed20c811ea89429b12f32c7e72ad5e255b6c4271158.webp"
+  },
+  {
+    "filename": "4acae93ce817ee660170117c7d65387ffe55e90fc235a66260466bb8634cf5dc.webp",
+    "size": 8628,
+    "source_rel": "daewoo/models/lacetti/images/4acae93ce817ee660170117c7d65387ffe55e90fc235a66260466bb8634cf5dc.webp"
+  },
+  {
+    "filename": "4ae6d715f4aa2db73e81f2fcc626303bd7fd0b8ab112eff9c7ff9ee29a6598f3.webp",
+    "size": 10314,
+    "source_rel": "daewoo/models/lacetti/images/4ae6d715f4aa2db73e81f2fcc626303bd7fd0b8ab112eff9c7ff9ee29a6598f3.webp"
+  },
+  {
+    "filename": "4b480b04796f354cd0e21fe61fb5dc9f2782f57bb6d42fd3a1b1f98057ad90c9.webp",
+    "size": 19306,
+    "source_rel": "daewoo/models/lacetti/images/4b480b04796f354cd0e21fe61fb5dc9f2782f57bb6d42fd3a1b1f98057ad90c9.webp"
+  },
+  {
+    "filename": "4b890d5b1077fa128c017b46d0f4867c6aebafb02d1a0acc2c196fd9460c3a1f.webp",
+    "size": 11472,
+    "source_rel": "daewoo/models/lacetti/images/4b890d5b1077fa128c017b46d0f4867c6aebafb02d1a0acc2c196fd9460c3a1f.webp"
+  },
+  {
+    "filename": "4bf5424be4c71c2fb9e2e86147cfc746510607904e5885288f2590e031252e2c.webp",
+    "size": 7392,
+    "source_rel": "daewoo/models/lacetti/images/4bf5424be4c71c2fb9e2e86147cfc746510607904e5885288f2590e031252e2c.webp"
+  },
+  {
+    "filename": "4c2ea3e351e8068bd1ea0b9889c537837ce1e5ae0abba94587604b64c7bcfe0d.webp",
+    "size": 12118,
+    "source_rel": "daewoo/models/lacetti/images/4c2ea3e351e8068bd1ea0b9889c537837ce1e5ae0abba94587604b64c7bcfe0d.webp"
+  },
+  {
+    "filename": "4c3bd3561cf68797ae9f1a60c464bf6676c023c903ae8fb59c207932bdbfde27.webp",
+    "size": 16064,
+    "source_rel": "daewoo/models/lacetti/images/4c3bd3561cf68797ae9f1a60c464bf6676c023c903ae8fb59c207932bdbfde27.webp"
+  },
+  {
+    "filename": "4c7bfc2328c32e76ab9023e38bb2a8c4e06381150087e5bf41e41ad28934da43.webp",
+    "size": 9634,
+    "source_rel": "daewoo/models/lacetti/images/4c7bfc2328c32e76ab9023e38bb2a8c4e06381150087e5bf41e41ad28934da43.webp"
+  },
+  {
+    "filename": "4c7dbe3e4e36984001e60e3a850783b9607194e075e96a7779f26aa55ef961ef.webp",
+    "size": 8590,
+    "source_rel": "daewoo/models/lacetti/images/4c7dbe3e4e36984001e60e3a850783b9607194e075e96a7779f26aa55ef961ef.webp"
+  },
+  {
+    "filename": "4c9c1300e9461302e10bd529e7fb92cd4e70ce2c4960858958ceb611b7543cf6.webp",
+    "size": 161258,
+    "source_rel": "daewoo/models/lacetti/images/4c9c1300e9461302e10bd529e7fb92cd4e70ce2c4960858958ceb611b7543cf6.webp"
+  },
+  {
+    "filename": "4ce72fd1668ecd43b17d9a595855c8d4d539d8cac6788c18fb42088df9029333.webp",
+    "size": 10902,
+    "source_rel": "daewoo/models/lacetti/images/4ce72fd1668ecd43b17d9a595855c8d4d539d8cac6788c18fb42088df9029333.webp"
+  },
+  {
+    "filename": "4d3e9e77ab680153c4fdaac03a9516bdec8c812788fce23630b462dadd0ccdcd.webp",
+    "size": 11966,
+    "source_rel": "daewoo/models/lacetti/images/4d3e9e77ab680153c4fdaac03a9516bdec8c812788fce23630b462dadd0ccdcd.webp"
+  },
+  {
+    "filename": "4d44506485e1bb5ec8262a59929e3362d39791c381467e8a9e6bb465e7828226.webp",
+    "size": 6584,
+    "source_rel": "daewoo/models/lacetti/images/4d44506485e1bb5ec8262a59929e3362d39791c381467e8a9e6bb465e7828226.webp"
+  },
+  {
+    "filename": "4df96ca3f35877ff90fc9066832c9f36cb56c0e61ca236c54ac0872e763109ff.webp",
+    "size": 13422,
+    "source_rel": "daewoo/models/lacetti/images/4df96ca3f35877ff90fc9066832c9f36cb56c0e61ca236c54ac0872e763109ff.webp"
+  },
+  {
+    "filename": "4dfe0843260dfe820ef313bcc4bb04d20215e81dbb9b5f1a5dd01900a5a65700.webp",
+    "size": 97486,
+    "source_rel": "daewoo/models/lacetti/images/4dfe0843260dfe820ef313bcc4bb04d20215e81dbb9b5f1a5dd01900a5a65700.webp"
+  },
+  {
+    "filename": "4e31e8c6fb3b95643526894b99a9035b511fcc1d8154c2a41b3bb0086889de22.webp",
+    "size": 245814,
+    "source_rel": "daewoo/models/lacetti/images/4e31e8c6fb3b95643526894b99a9035b511fcc1d8154c2a41b3bb0086889de22.webp"
+  },
+  {
+    "filename": "4e572e83f10d1d369331a8d2a9b7a851d1c4451551fc53c484ebf2216bcd3d06.webp",
+    "size": 17540,
+    "source_rel": "daewoo/models/lacetti/images/4e572e83f10d1d369331a8d2a9b7a851d1c4451551fc53c484ebf2216bcd3d06.webp"
+  },
+  {
+    "filename": "4e7afee0d5329091004855cc0705602ade6a485638284e2dc351a65c55c908f4.webp",
+    "size": 54120,
+    "source_rel": "daewoo/models/lacetti/images/4e7afee0d5329091004855cc0705602ade6a485638284e2dc351a65c55c908f4.webp"
+  },
+  {
+    "filename": "4e858bd9f55dbef44415cba554db4f4beebc1fc436d43b540d923efa79d19e73.webp",
+    "size": 9602,
+    "source_rel": "daewoo/models/lacetti/images/4e858bd9f55dbef44415cba554db4f4beebc1fc436d43b540d923efa79d19e73.webp"
+  },
+  {
+    "filename": "4e9b6cc75b1382c42534d3ffd58642420054fc36b7c2a089b0b28bcea7995598.webp",
+    "size": 18128,
+    "source_rel": "daewoo/models/lacetti/images/4e9b6cc75b1382c42534d3ffd58642420054fc36b7c2a089b0b28bcea7995598.webp"
+  },
+  {
+    "filename": "4ed08a737a260da0fa66fc254cd92e6bccf2aa6e0efd1415c57aef36ab52477d.webp",
+    "size": 3544,
+    "source_rel": "daewoo/models/lacetti/images/4ed08a737a260da0fa66fc254cd92e6bccf2aa6e0efd1415c57aef36ab52477d.webp"
+  },
+  {
+    "filename": "4edb93f7844ee2cca4342e28a74edebfb7cd12ada005271d5fe50727f1cfa59e.webp",
+    "size": 12626,
+    "source_rel": "daewoo/models/lacetti/images/4edb93f7844ee2cca4342e28a74edebfb7cd12ada005271d5fe50727f1cfa59e.webp"
+  },
+  {
+    "filename": "4f4184000bde0de54b2729474d972b4e4877af5c114376e55950437dd8e41b36.webp",
+    "size": 10196,
+    "source_rel": "daewoo/models/lacetti/images/4f4184000bde0de54b2729474d972b4e4877af5c114376e55950437dd8e41b36.webp"
+  },
+  {
+    "filename": "4f63ba52f8fadde7c622e0b8808b11316d3346d14bbdcba48488fd399d46bf7f.webp",
+    "size": 9526,
+    "source_rel": "daewoo/models/lacetti/images/4f63ba52f8fadde7c622e0b8808b11316d3346d14bbdcba48488fd399d46bf7f.webp"
+  },
+  {
+    "filename": "4f6bb42268c092b0a49a89830bfe204d1d8bb9abe5076324d8c501aa22843cf1.webp",
+    "size": 10096,
+    "source_rel": "daewoo/models/lacetti/images/4f6bb42268c092b0a49a89830bfe204d1d8bb9abe5076324d8c501aa22843cf1.webp"
+  },
+  {
+    "filename": "4f82d504199588296cf7a6965fa47c3c2f730516035f82eae12c1436c99c5f2f.webp",
+    "size": 19318,
+    "source_rel": "daewoo/models/lacetti/images/4f82d504199588296cf7a6965fa47c3c2f730516035f82eae12c1436c99c5f2f.webp"
+  },
+  {
+    "filename": "5039974f176a53b75f1e141d6b3a31395ccce46e1bc73d50a3b531be4ed7cf10.webp",
+    "size": 12566,
+    "source_rel": "daewoo/models/lacetti/images/5039974f176a53b75f1e141d6b3a31395ccce46e1bc73d50a3b531be4ed7cf10.webp"
+  },
+  {
+    "filename": "50aa6d0c2428ff63da8191fca24b65038a04b302180ca602f8c7121d7c9c1123.webp",
+    "size": 10006,
+    "source_rel": "daewoo/models/lacetti/images/50aa6d0c2428ff63da8191fca24b65038a04b302180ca602f8c7121d7c9c1123.webp"
+  },
+  {
+    "filename": "50babaff9e23b5c21c0abbd06a6e5bc7052015c065e98fe009cfc5e91cf9dedb.webp",
+    "size": 18280,
+    "source_rel": "daewoo/models/lacetti/images/50babaff9e23b5c21c0abbd06a6e5bc7052015c065e98fe009cfc5e91cf9dedb.webp"
+  },
+  {
+    "filename": "511e4b9ead180a6088a77c3933c3944de0e731508c98b02a331881b986e02144.webp",
+    "size": 19130,
+    "source_rel": "daewoo/models/lacetti/images/511e4b9ead180a6088a77c3933c3944de0e731508c98b02a331881b986e02144.webp"
+  },
+  {
+    "filename": "516b53be7d4f2773a54e417c5b2b493a45d0776d98afb431141f9dafa615b702.webp",
+    "size": 11182,
+    "source_rel": "daewoo/models/lacetti/images/516b53be7d4f2773a54e417c5b2b493a45d0776d98afb431141f9dafa615b702.webp"
+  },
+  {
+    "filename": "521e2e58b4dc43644adb5608209256c87a74502f88a23f0e6f7d2c59318fc14e.webp",
+    "size": 17700,
+    "source_rel": "daewoo/models/lacetti/images/521e2e58b4dc43644adb5608209256c87a74502f88a23f0e6f7d2c59318fc14e.webp"
+  },
+  {
+    "filename": "522713793e71b6610e4cecf75c1fd2652e95eb9472c96a5c27e556037fe97855.webp",
+    "size": 12430,
+    "source_rel": "daewoo/models/lacetti/images/522713793e71b6610e4cecf75c1fd2652e95eb9472c96a5c27e556037fe97855.webp"
+  },
+  {
+    "filename": "522d6b038e98df6c12d7fcfeb87590f0ff155c2162250b48b015c433961fb3ae.webp",
+    "size": 11164,
+    "source_rel": "daewoo/models/lacetti/images/522d6b038e98df6c12d7fcfeb87590f0ff155c2162250b48b015c433961fb3ae.webp"
+  },
+  {
+    "filename": "5236e937279b4f5d00365acba054a8471b3d8047d1512ab1d8b203b924ac5118.webp",
+    "size": 3988,
+    "source_rel": "daewoo/models/lacetti/images/5236e937279b4f5d00365acba054a8471b3d8047d1512ab1d8b203b924ac5118.webp"
+  },
+  {
+    "filename": "523999fe25e840d36f6532887cd3e8f0ce532047d627043a77a444abb2f0d86f.webp",
+    "size": 10530,
+    "source_rel": "daewoo/models/lacetti/images/523999fe25e840d36f6532887cd3e8f0ce532047d627043a77a444abb2f0d86f.webp"
+  },
+  {
+    "filename": "52687b12aa3ad5c3b8b3053d1c5f442f641500685a6f4e5b175081464808b037.webp",
+    "size": 6346,
+    "source_rel": "daewoo/models/lacetti/images/52687b12aa3ad5c3b8b3053d1c5f442f641500685a6f4e5b175081464808b037.webp"
+  },
+  {
+    "filename": "526d507f48ec5aeb7153fd6f297ed1c5b9c6ebec2b9be1c5c08ef8b7120910c3.webp",
+    "size": 7056,
+    "source_rel": "daewoo/models/lacetti/images/526d507f48ec5aeb7153fd6f297ed1c5b9c6ebec2b9be1c5c08ef8b7120910c3.webp"
+  },
+  {
+    "filename": "526da77ae911020a902700ee6bfd5246afbc9c6a86d77fa623ee6bc78628cf73.webp",
+    "size": 6600,
+    "source_rel": "daewoo/models/lacetti/images/526da77ae911020a902700ee6bfd5246afbc9c6a86d77fa623ee6bc78628cf73.webp"
+  },
+  {
+    "filename": "52fe914258d86e9e44e86e08c1934db6872ce566e26e6d7b9da81548f97ab39c.webp",
+    "size": 14190,
+    "source_rel": "daewoo/models/lacetti/images/52fe914258d86e9e44e86e08c1934db6872ce566e26e6d7b9da81548f97ab39c.webp"
+  },
+  {
+    "filename": "53622cc3b2532e83dc95f7af3054303b06b2a5b9abdec09f106ba717cc4b79ec.webp",
+    "size": 6516,
+    "source_rel": "daewoo/models/lacetti/images/53622cc3b2532e83dc95f7af3054303b06b2a5b9abdec09f106ba717cc4b79ec.webp"
+  },
+  {
+    "filename": "537a9d45eb69ecdd3b25f0eecb1cb18bcaa59da02aab948b53fb0009a24c162d.webp",
+    "size": 72436,
+    "source_rel": "daewoo/models/lacetti/images/537a9d45eb69ecdd3b25f0eecb1cb18bcaa59da02aab948b53fb0009a24c162d.webp"
+  },
+  {
+    "filename": "538df4b2b6d2f9ac5a94ea2aa2b3c9bbb597f3a5fb067c06b1e46a48b57aad39.webp",
+    "size": 11162,
+    "source_rel": "daewoo/models/lacetti/images/538df4b2b6d2f9ac5a94ea2aa2b3c9bbb597f3a5fb067c06b1e46a48b57aad39.webp"
+  },
+  {
+    "filename": "53d8bc162715f31d9067dec69bbc59bd61e21be428b94668ac3d7bd0c9ba356d.webp",
+    "size": 13374,
+    "source_rel": "daewoo/models/lacetti/images/53d8bc162715f31d9067dec69bbc59bd61e21be428b94668ac3d7bd0c9ba356d.webp"
+  },
+  {
+    "filename": "53e86eeb7a607eade9cf3d784a4ce13b974223b0af67e799110968a387e14702.webp",
+    "size": 12576,
+    "source_rel": "daewoo/models/lacetti/images/53e86eeb7a607eade9cf3d784a4ce13b974223b0af67e799110968a387e14702.webp"
+  },
+  {
+    "filename": "543f4653b465c18cf8b0661716480331c6329d4db613297046d5939c259aa47b.webp",
+    "size": 5574,
+    "source_rel": "daewoo/models/lacetti/images/543f4653b465c18cf8b0661716480331c6329d4db613297046d5939c259aa47b.webp"
+  },
+  {
+    "filename": "54545bd80553a40972c262b89b024495752911dea7f5dc0b8c6ad12fab32a8f0.webp",
+    "size": 10270,
+    "source_rel": "daewoo/models/lacetti/images/54545bd80553a40972c262b89b024495752911dea7f5dc0b8c6ad12fab32a8f0.webp"
+  },
+  {
+    "filename": "54b4b100a52964c85a2cbb327474c113a6078bacfac4f623a3a3820025f6a2d9.webp",
+    "size": 12470,
+    "source_rel": "daewoo/models/lacetti/images/54b4b100a52964c85a2cbb327474c113a6078bacfac4f623a3a3820025f6a2d9.webp"
+  },
+  {
+    "filename": "54dcf0f816ca1f0ba0ccb2aeae5fe7db6a364ce44f948100a46962d224dc5a99.webp",
+    "size": 104160,
+    "source_rel": "daewoo/models/lacetti/images/54dcf0f816ca1f0ba0ccb2aeae5fe7db6a364ce44f948100a46962d224dc5a99.webp"
+  },
+  {
+    "filename": "54ea849381c4357033674c5dbd2b133beec635d4b89fb48358f6d7b8b45d7558.webp",
+    "size": 9462,
+    "source_rel": "daewoo/models/lacetti/images/54ea849381c4357033674c5dbd2b133beec635d4b89fb48358f6d7b8b45d7558.webp"
+  },
+  {
+    "filename": "5506e8cc232dab3b4c16630d6b1919e2937b9a08afb0fef403854e7bfb0a48b3.webp",
+    "size": 11452,
+    "source_rel": "daewoo/models/lacetti/images/5506e8cc232dab3b4c16630d6b1919e2937b9a08afb0fef403854e7bfb0a48b3.webp"
+  },
+  {
+    "filename": "5522401baf83ea1afc44bc04a0d839087e397aec0a81d8d214376bbc7918f893.webp",
+    "size": 10920,
+    "source_rel": "daewoo/models/lacetti/images/5522401baf83ea1afc44bc04a0d839087e397aec0a81d8d214376bbc7918f893.webp"
+  },
+  {
+    "filename": "555917fdd23e65faa8e054aeb6925a6527ff0551cdecf65078ac186b4a490336.webp",
+    "size": 14940,
+    "source_rel": "daewoo/models/lacetti/images/555917fdd23e65faa8e054aeb6925a6527ff0551cdecf65078ac186b4a490336.webp"
+  },
+  {
+    "filename": "55d6fa02939c504ce6abf2d63d7a9b57b2a8e114208941b16208fc50b675c862.webp",
+    "size": 6288,
+    "source_rel": "daewoo/models/lacetti/images/55d6fa02939c504ce6abf2d63d7a9b57b2a8e114208941b16208fc50b675c862.webp"
+  },
+  {
+    "filename": "55dab8170ca5910d93e4976cc0d8a6118582d5a62536ac811e25a74535d50e36.webp",
+    "size": 14356,
+    "source_rel": "daewoo/models/lacetti/images/55dab8170ca5910d93e4976cc0d8a6118582d5a62536ac811e25a74535d50e36.webp"
+  },
+  {
+    "filename": "561d9de2b262fa15c16528dca0615f50a3488f59d8a692a0dec508f6fb828429.webp",
+    "size": 9740,
+    "source_rel": "daewoo/models/lacetti/images/561d9de2b262fa15c16528dca0615f50a3488f59d8a692a0dec508f6fb828429.webp"
+  },
+  {
+    "filename": "562aecb19f21e3465d0012961f7b0ba4a5ecb56f8a725cb52bc8168206065a3d.webp",
+    "size": 66780,
+    "source_rel": "daewoo/models/lacetti/images/562aecb19f21e3465d0012961f7b0ba4a5ecb56f8a725cb52bc8168206065a3d.webp"
+  },
+  {
+    "filename": "56c86592f870f1ff25f18b7ee0a204995e9b9bb1bde8943e5889bfb68ec535e7.webp",
+    "size": 9720,
+    "source_rel": "daewoo/models/lacetti/images/56c86592f870f1ff25f18b7ee0a204995e9b9bb1bde8943e5889bfb68ec535e7.webp"
+  },
+  {
+    "filename": "5722a6b7e5355a341322fcc239659276641a84a91563582f98ceecdcb4f8ef5d.webp",
+    "size": 11718,
+    "source_rel": "daewoo/models/lacetti/images/5722a6b7e5355a341322fcc239659276641a84a91563582f98ceecdcb4f8ef5d.webp"
+  },
+  {
+    "filename": "5726c021d997a969a171a2de3261aa85e5f64d75d5510962a571ab723fda6d72.webp",
+    "size": 5108,
+    "source_rel": "daewoo/models/lacetti/images/5726c021d997a969a171a2de3261aa85e5f64d75d5510962a571ab723fda6d72.webp"
+  },
+  {
+    "filename": "574112a45392161215b0f01381ddb1c8c8ce46c1f6d1f8220551f4cf8c1a4568.webp",
+    "size": 10374,
+    "source_rel": "daewoo/models/lacetti/images/574112a45392161215b0f01381ddb1c8c8ce46c1f6d1f8220551f4cf8c1a4568.webp"
+  },
+  {
+    "filename": "5769f8d8112fd14e2c75de601b83d0d6b9aec031a9423094507d7f48980e7bd0.webp",
+    "size": 14280,
+    "source_rel": "daewoo/models/lacetti/images/5769f8d8112fd14e2c75de601b83d0d6b9aec031a9423094507d7f48980e7bd0.webp"
+  },
+  {
+    "filename": "57daf0f107978e0b1a6e5cbc5a7eafc3fcc2daa8f267d60b36c6766cf928a4f2.webp",
+    "size": 10372,
+    "source_rel": "daewoo/models/lacetti/images/57daf0f107978e0b1a6e5cbc5a7eafc3fcc2daa8f267d60b36c6766cf928a4f2.webp"
+  },
+  {
+    "filename": "583dca2924dd7a775465ef3c459a7cccc4bb8c42f620777bfb37616cc2713ff6.webp",
+    "size": 12078,
+    "source_rel": "daewoo/models/lacetti/images/583dca2924dd7a775465ef3c459a7cccc4bb8c42f620777bfb37616cc2713ff6.webp"
+  },
+  {
+    "filename": "58bc09ba3c2c209c7896f2188844688d64cfe85349084cf2fe6bb8224cb88bbe.webp",
+    "size": 5360,
+    "source_rel": "daewoo/models/lacetti/images/58bc09ba3c2c209c7896f2188844688d64cfe85349084cf2fe6bb8224cb88bbe.webp"
+  },
+  {
+    "filename": "58db9883e6e86bd83d95c348e1d1fc4f14a72ba69d3050bacf2aec9bf1fe8674.webp",
+    "size": 9174,
+    "source_rel": "daewoo/models/lacetti/images/58db9883e6e86bd83d95c348e1d1fc4f14a72ba69d3050bacf2aec9bf1fe8674.webp"
+  },
+  {
+    "filename": "5a895bc614e01cc3cb1b6d2441dc93bda848871425ea619a10b0d3d47458dfcc.webp",
+    "size": 17372,
+    "source_rel": "daewoo/models/lacetti/images/5a895bc614e01cc3cb1b6d2441dc93bda848871425ea619a10b0d3d47458dfcc.webp"
+  },
+  {
+    "filename": "5ab88e0c197c5ced2cad821b8caa08a1273ff666749bf7d59bc3f4dd04cb7568.webp",
+    "size": 11754,
+    "source_rel": "daewoo/models/lacetti/images/5ab88e0c197c5ced2cad821b8caa08a1273ff666749bf7d59bc3f4dd04cb7568.webp"
+  },
+  {
+    "filename": "5ac75a082bff8e63e36dd7e9e1974e8bf104a3bfa81c6f86bb2a580a633b4841.webp",
+    "size": 7730,
+    "source_rel": "daewoo/models/lacetti/images/5ac75a082bff8e63e36dd7e9e1974e8bf104a3bfa81c6f86bb2a580a633b4841.webp"
+  },
+  {
+    "filename": "5ada079c2c40d56418a8302b8ff92dd7c9244de6122cb018c9f33d2f0f9f0254.webp",
+    "size": 18072,
+    "source_rel": "daewoo/models/lacetti/images/5ada079c2c40d56418a8302b8ff92dd7c9244de6122cb018c9f33d2f0f9f0254.webp"
+  },
+  {
+    "filename": "5c0e1c8cc761edfd71230a51c1553dc2fcf256e82601d267e592a75264e75e9d.webp",
+    "size": 1920,
+    "source_rel": "daewoo/models/lacetti/images/5c0e1c8cc761edfd71230a51c1553dc2fcf256e82601d267e592a75264e75e9d.webp"
+  },
+  {
+    "filename": "5c89d1f89288f415a959d83f5ff49d55ca79c80a4f6d8d0747f524457ea82ce2.webp",
+    "size": 8342,
+    "source_rel": "daewoo/models/lacetti/images/5c89d1f89288f415a959d83f5ff49d55ca79c80a4f6d8d0747f524457ea82ce2.webp"
+  },
+  {
+    "filename": "5c90f6eddf17eb720ba2f9d3bb620cade9c595aeda4ddfe973f54dcb8589540c.webp",
+    "size": 91126,
+    "source_rel": "daewoo/models/lacetti/images/5c90f6eddf17eb720ba2f9d3bb620cade9c595aeda4ddfe973f54dcb8589540c.webp"
+  },
+  {
+    "filename": "5c93d564488ae00387072f8a3a6d3b710a40b40faa97a870075e95d54359aebf.webp",
+    "size": 24942,
+    "source_rel": "daewoo/models/lacetti/images/5c93d564488ae00387072f8a3a6d3b710a40b40faa97a870075e95d54359aebf.webp"
+  },
+  {
+    "filename": "5ca0ae5893bf00205d1a655ef366d50d02d64618f5030df4673029c75bf0ee44.webp",
+    "size": 22900,
+    "source_rel": "daewoo/models/lacetti/images/5ca0ae5893bf00205d1a655ef366d50d02d64618f5030df4673029c75bf0ee44.webp"
+  },
+  {
+    "filename": "5cef0fb5078c1805b4b3ef1fb2c40c0990955681f413b8afe640c55e64954ffc.webp",
+    "size": 13826,
+    "source_rel": "daewoo/models/lacetti/images/5cef0fb5078c1805b4b3ef1fb2c40c0990955681f413b8afe640c55e64954ffc.webp"
+  },
+  {
+    "filename": "5d211fd5cb3fa8cfaad49a38270f0f93664297e557b114c745211c47087b67ac.webp",
+    "size": 8398,
+    "source_rel": "daewoo/models/lacetti/images/5d211fd5cb3fa8cfaad49a38270f0f93664297e557b114c745211c47087b67ac.webp"
+  },
+  {
+    "filename": "5de469342d3b22092065822b8ed6d097cbe5d8e1867ac418b96244ebea088465.webp",
+    "size": 22918,
+    "source_rel": "daewoo/models/lacetti/images/5de469342d3b22092065822b8ed6d097cbe5d8e1867ac418b96244ebea088465.webp"
+  },
+  {
+    "filename": "5e465a768f7698b482f1a61c5ba7b50ae3c1af28cee84a348170f6f83104f060.webp",
+    "size": 12750,
+    "source_rel": "daewoo/models/lacetti/images/5e465a768f7698b482f1a61c5ba7b50ae3c1af28cee84a348170f6f83104f060.webp"
+  },
+  {
+    "filename": "5e690b83b7206ea71957cea46ddedb5ec8314ab00acc837745c0b9ecda44b2e8.webp",
+    "size": 11958,
+    "source_rel": "daewoo/models/lacetti/images/5e690b83b7206ea71957cea46ddedb5ec8314ab00acc837745c0b9ecda44b2e8.webp"
+  },
+  {
+    "filename": "5e76ad05cba76a48d2db77173f8f15934482e1b4478506c7caaa667f09340a7d.webp",
+    "size": 19808,
+    "source_rel": "daewoo/models/lacetti/images/5e76ad05cba76a48d2db77173f8f15934482e1b4478506c7caaa667f09340a7d.webp"
+  },
+  {
+    "filename": "5e89bdf15a3b7f72007d9b4855eb2cf4730c2af086bbeb36979adc73f8412613.webp",
+    "size": 8986,
+    "source_rel": "daewoo/models/lacetti/images/5e89bdf15a3b7f72007d9b4855eb2cf4730c2af086bbeb36979adc73f8412613.webp"
+  },
+  {
+    "filename": "5f0e49e068b5e9ae71878565427512e459d6ba09b4aa92b53db311abc47accb4.webp",
+    "size": 6256,
+    "source_rel": "daewoo/models/lacetti/images/5f0e49e068b5e9ae71878565427512e459d6ba09b4aa92b53db311abc47accb4.webp"
+  },
+  {
+    "filename": "5f4f51646aa599f53d22d3f9373bae442af788b76ae18f3ee44ecfd104478cdb.webp",
+    "size": 21276,
+    "source_rel": "daewoo/models/lacetti/images/5f4f51646aa599f53d22d3f9373bae442af788b76ae18f3ee44ecfd104478cdb.webp"
+  },
+  {
+    "filename": "5f56e73448ceb7be189ff3f6a818861fbbd821f4e5e54c65c174ea2b2b433531.webp",
+    "size": 10220,
+    "source_rel": "daewoo/models/lacetti/images/5f56e73448ceb7be189ff3f6a818861fbbd821f4e5e54c65c174ea2b2b433531.webp"
+  },
+  {
+    "filename": "5f781d4bb50ffafb4ae98a725f6dc6f574d0e9a808ac906f756357456bae0c2f.webp",
+    "size": 12026,
+    "source_rel": "daewoo/models/lacetti/images/5f781d4bb50ffafb4ae98a725f6dc6f574d0e9a808ac906f756357456bae0c2f.webp"
+  },
+  {
+    "filename": "5fad7653d374948aee86bc39fc202b1b91e3e6df03d6a5a543d28f117f522c19.webp",
+    "size": 9246,
+    "source_rel": "daewoo/models/lacetti/images/5fad7653d374948aee86bc39fc202b1b91e3e6df03d6a5a543d28f117f522c19.webp"
+  },
+  {
+    "filename": "6078872ec3493feb8463f5d4e2cc885b85737d6ed07104dad204fa4d953048a2.webp",
+    "size": 9090,
+    "source_rel": "daewoo/models/lacetti/images/6078872ec3493feb8463f5d4e2cc885b85737d6ed07104dad204fa4d953048a2.webp"
+  },
+  {
+    "filename": "6078cddef2d071a8ec378ad1e1f15eeb1421b6f9906092944e9899278b4822c3.webp",
+    "size": 242690,
+    "source_rel": "daewoo/models/lacetti/images/6078cddef2d071a8ec378ad1e1f15eeb1421b6f9906092944e9899278b4822c3.webp"
+  },
+  {
+    "filename": "60998450ec2db071c44d85487749f18185d123489832f39716f231edf8eae0ba.webp",
+    "size": 22128,
+    "source_rel": "daewoo/models/lacetti/images/60998450ec2db071c44d85487749f18185d123489832f39716f231edf8eae0ba.webp"
+  },
+  {
+    "filename": "60b7ba49826fb8877f2719e81eb11de624955c417c1e21bfaadbcf3a69a9a3c3.webp",
+    "size": 7356,
+    "source_rel": "daewoo/models/lacetti/images/60b7ba49826fb8877f2719e81eb11de624955c417c1e21bfaadbcf3a69a9a3c3.webp"
+  },
+  {
+    "filename": "60e86901066f92024981c650116a27eb6fd938fc1cced9fef65a838abcb4eb2a.webp",
+    "size": 10116,
+    "source_rel": "daewoo/models/lacetti/images/60e86901066f92024981c650116a27eb6fd938fc1cced9fef65a838abcb4eb2a.webp"
+  },
+  {
+    "filename": "60fccab550403d93cc4653e60bd0ea3772ff7a39d004881ef134b9d4041ce2ec.webp",
+    "size": 3868,
+    "source_rel": "daewoo/models/lacetti/images/60fccab550403d93cc4653e60bd0ea3772ff7a39d004881ef134b9d4041ce2ec.webp"
+  },
+  {
+    "filename": "610043f77915756c1117e6c8f2534c37b679144bd7330bdf15de9f1c547a9e69.webp",
+    "size": 8374,
+    "source_rel": "daewoo/models/lacetti/images/610043f77915756c1117e6c8f2534c37b679144bd7330bdf15de9f1c547a9e69.webp"
+  },
+  {
+    "filename": "6101208b71349462df61528e837f26cbdf278b51f6928c213002ffda0fc68941.webp",
+    "size": 13638,
+    "source_rel": "daewoo/models/lacetti/images/6101208b71349462df61528e837f26cbdf278b51f6928c213002ffda0fc68941.webp"
+  },
+  {
+    "filename": "611b5d18297180372d885312f0303b87e263d90182126bd682fa90197c956bdc.webp",
+    "size": 11176,
+    "source_rel": "daewoo/models/lacetti/images/611b5d18297180372d885312f0303b87e263d90182126bd682fa90197c956bdc.webp"
+  },
+  {
+    "filename": "614aab8998dc209b120418a576ba12a9a2cc1dc7118fa541e3a3f0016db26125.webp",
+    "size": 10996,
+    "source_rel": "daewoo/models/lacetti/images/614aab8998dc209b120418a576ba12a9a2cc1dc7118fa541e3a3f0016db26125.webp"
+  },
+  {
+    "filename": "616b7317a5f56c4af16a6f90a3150f3bcbd1af079fd13bf9a0dac5a85b1b25f9.webp",
+    "size": 15426,
+    "source_rel": "daewoo/models/lacetti/images/616b7317a5f56c4af16a6f90a3150f3bcbd1af079fd13bf9a0dac5a85b1b25f9.webp"
+  },
+  {
+    "filename": "61a9958aadf76d1d8feefd0bc05102f4b9e710028414d570ba169d6e21697315.webp",
+    "size": 10528,
+    "source_rel": "daewoo/models/lacetti/images/61a9958aadf76d1d8feefd0bc05102f4b9e710028414d570ba169d6e21697315.webp"
+  },
+  {
+    "filename": "6251ed440ef62d0a01390cddb1473640e15f4b687ba3085d996c8294dd3badb3.webp",
+    "size": 13904,
+    "source_rel": "daewoo/models/lacetti/images/6251ed440ef62d0a01390cddb1473640e15f4b687ba3085d996c8294dd3badb3.webp"
+  },
+  {
+    "filename": "62adf66713134dfe0e8f70aa80fd0778211ba870130090b0e9d3715f92c50145.webp",
+    "size": 10360,
+    "source_rel": "daewoo/models/lacetti/images/62adf66713134dfe0e8f70aa80fd0778211ba870130090b0e9d3715f92c50145.webp"
+  },
+  {
+    "filename": "6359490ccb3b421fc9ec3b4aedec0f0707d9eba72a4f6fdaeae425b38d65c0a0.webp",
+    "size": 22210,
+    "source_rel": "daewoo/models/lacetti/images/6359490ccb3b421fc9ec3b4aedec0f0707d9eba72a4f6fdaeae425b38d65c0a0.webp"
+  },
+  {
+    "filename": "635b7cc89bd627b7e275119361a42b4a412e9a839fae3927a48cafeddb7f2691.webp",
+    "size": 11240,
+    "source_rel": "daewoo/models/lacetti/images/635b7cc89bd627b7e275119361a42b4a412e9a839fae3927a48cafeddb7f2691.webp"
+  },
+  {
+    "filename": "636adc4db4f4b751e5234a3651d8440f3ee24cc8af4083c98f2420e6232d46c6.webp",
+    "size": 10988,
+    "source_rel": "daewoo/models/lacetti/images/636adc4db4f4b751e5234a3651d8440f3ee24cc8af4083c98f2420e6232d46c6.webp"
+  },
+  {
+    "filename": "63aa87014af350a857adb15993971a20bb4813ce5ce1b2d61241a66912d94a2a.webp",
+    "size": 8376,
+    "source_rel": "daewoo/models/lacetti/images/63aa87014af350a857adb15993971a20bb4813ce5ce1b2d61241a66912d94a2a.webp"
+  },
+  {
+    "filename": "63ac85056781b56505d7abf32cb72cbddb12d1cd48910d6cf1f2da9014561d93.webp",
+    "size": 5320,
+    "source_rel": "daewoo/models/lacetti/images/63ac85056781b56505d7abf32cb72cbddb12d1cd48910d6cf1f2da9014561d93.webp"
+  },
+  {
+    "filename": "63cb5438ca4228d03527ea61351f1452b307b8e158d3bc806dfa0276c7319836.webp",
+    "size": 11260,
+    "source_rel": "daewoo/models/lacetti/images/63cb5438ca4228d03527ea61351f1452b307b8e158d3bc806dfa0276c7319836.webp"
+  },
+  {
+    "filename": "63f00c64426fd1cd08363c21e2cd948ba7c9178ee662ae6d666646cbb388fadc.webp",
+    "size": 20210,
+    "source_rel": "daewoo/models/lacetti/images/63f00c64426fd1cd08363c21e2cd948ba7c9178ee662ae6d666646cbb388fadc.webp"
+  },
+  {
+    "filename": "63fe78ce048a75519c4e1614f08f0c4df4c3faa46216b6493c4dacc27bfb4c04.webp",
+    "size": 7092,
+    "source_rel": "daewoo/models/lacetti/images/63fe78ce048a75519c4e1614f08f0c4df4c3faa46216b6493c4dacc27bfb4c04.webp"
+  },
+  {
+    "filename": "6472e2a73f711540462fee734fd4f9e54c1bcdc13694410839611392bab665d4.webp",
+    "size": 7490,
+    "source_rel": "daewoo/models/lacetti/images/6472e2a73f711540462fee734fd4f9e54c1bcdc13694410839611392bab665d4.webp"
+  },
+  {
+    "filename": "6485733fd432915f2e0937bc627427eb06879e00689e864eaf40ec3d58254eb9.webp",
+    "size": 2966,
+    "source_rel": "daewoo/models/lacetti/images/6485733fd432915f2e0937bc627427eb06879e00689e864eaf40ec3d58254eb9.webp"
+  },
+  {
+    "filename": "649cba7c6f2c46e51e31cadb42b181efe9c50ba9dd367cb6b43c9e0536923a6d.webp",
+    "size": 8366,
+    "source_rel": "daewoo/models/lacetti/images/649cba7c6f2c46e51e31cadb42b181efe9c50ba9dd367cb6b43c9e0536923a6d.webp"
+  },
+  {
+    "filename": "652a4a3de6a660165846bfd00e1ad0ae99f4cfb9fb6d888be609bb94c2b12027.webp",
+    "size": 15448,
+    "source_rel": "daewoo/models/lacetti/images/652a4a3de6a660165846bfd00e1ad0ae99f4cfb9fb6d888be609bb94c2b12027.webp"
+  },
+  {
+    "filename": "65c976177c0637677ac5f361964a367407893cbdb274b21f216b4f1069d8c2b4.webp",
+    "size": 42086,
+    "source_rel": "daewoo/models/lacetti/images/65c976177c0637677ac5f361964a367407893cbdb274b21f216b4f1069d8c2b4.webp"
+  },
+  {
+    "filename": "65eb0f5df1b988db6058be266d3b1d420a21155dcc82a7fee49e2411bc566077.webp",
+    "size": 20006,
+    "source_rel": "daewoo/models/lacetti/images/65eb0f5df1b988db6058be266d3b1d420a21155dcc82a7fee49e2411bc566077.webp"
+  },
+  {
+    "filename": "65fc798ef0819760aa3fc9a875b4b07d0dfda20f358b0ba0b95c669df7714bcf.webp",
+    "size": 66928,
+    "source_rel": "daewoo/models/lacetti/images/65fc798ef0819760aa3fc9a875b4b07d0dfda20f358b0ba0b95c669df7714bcf.webp"
+  },
+  {
+    "filename": "664c672f1c0f46389620afa8c22ae7b24909bb7733f6781e0240137a3c89fec4.webp",
+    "size": 43586,
+    "source_rel": "daewoo/models/lacetti/images/664c672f1c0f46389620afa8c22ae7b24909bb7733f6781e0240137a3c89fec4.webp"
+  },
+  {
+    "filename": "666ace6e833db4215d829993d440de45adc5b255ae761cb13f332b755805763c.webp",
+    "size": 11384,
+    "source_rel": "daewoo/models/lacetti/images/666ace6e833db4215d829993d440de45adc5b255ae761cb13f332b755805763c.webp"
+  },
+  {
+    "filename": "66aaa4bf3294b46a5efefadaa77d1d41f9a78faf987259bdf4ee7ab7065861e3.webp",
+    "size": 39374,
+    "source_rel": "daewoo/models/lacetti/images/66aaa4bf3294b46a5efefadaa77d1d41f9a78faf987259bdf4ee7ab7065861e3.webp"
+  },
+  {
+    "filename": "66eb62ef4b4dcc981986b360903c469030a3e5b9ae8423f51a1b616f7db4665b.webp",
+    "size": 67076,
+    "source_rel": "daewoo/models/lacetti/images/66eb62ef4b4dcc981986b360903c469030a3e5b9ae8423f51a1b616f7db4665b.webp"
+  },
+  {
+    "filename": "670611948ad8db27ce147b436f4660d3420d7b1981aa2b8298379536c5808076.webp",
+    "size": 20486,
+    "source_rel": "daewoo/models/lacetti/images/670611948ad8db27ce147b436f4660d3420d7b1981aa2b8298379536c5808076.webp"
+  },
+  {
+    "filename": "6711d539ef221445fe4000c5a0d9501a11b95b63907655929650303e622ee8da.webp",
+    "size": 8482,
+    "source_rel": "daewoo/models/lacetti/images/6711d539ef221445fe4000c5a0d9501a11b95b63907655929650303e622ee8da.webp"
+  },
+  {
+    "filename": "673e3344edc200a5eafffa8f2137bd2c0ed6a0a02c02ecbe5bb3d29903c3825b.webp",
+    "size": 9080,
+    "source_rel": "daewoo/models/lacetti/images/673e3344edc200a5eafffa8f2137bd2c0ed6a0a02c02ecbe5bb3d29903c3825b.webp"
+  },
+  {
+    "filename": "67404ea17711b22e31c3fd112187f8a6e0801f3379f7ac212fb3b66ccb06df0f.webp",
+    "size": 100444,
+    "source_rel": "daewoo/models/lacetti/images/67404ea17711b22e31c3fd112187f8a6e0801f3379f7ac212fb3b66ccb06df0f.webp"
+  },
+  {
+    "filename": "675befba3cc5d606c511026778c61c34ee078be839c712dbebaed218fd0219ba.webp",
+    "size": 13788,
+    "source_rel": "daewoo/models/lacetti/images/675befba3cc5d606c511026778c61c34ee078be839c712dbebaed218fd0219ba.webp"
+  },
+  {
+    "filename": "679351a317bea1de3047e74f82316654f54a741ffe31b92e819ec14752534160.webp",
+    "size": 10420,
+    "source_rel": "daewoo/models/lacetti/images/679351a317bea1de3047e74f82316654f54a741ffe31b92e819ec14752534160.webp"
+  },
+  {
+    "filename": "67bf1bf339c8fac506b9ccb149a3ba00b325b98abdee8819622f1a7c3675cac0.webp",
+    "size": 12722,
+    "source_rel": "daewoo/models/lacetti/images/67bf1bf339c8fac506b9ccb149a3ba00b325b98abdee8819622f1a7c3675cac0.webp"
+  },
+  {
+    "filename": "6850b5587e9b0afe516dc14f1689611f1f78ca4c652c388a517d59d064971640.webp",
+    "size": 10060,
+    "source_rel": "daewoo/models/lacetti/images/6850b5587e9b0afe516dc14f1689611f1f78ca4c652c388a517d59d064971640.webp"
+  },
+  {
+    "filename": "68c7b1a4e81385301c6c45e7d6b2d0513c66792161a3ee17f6e5d950e68f9775.webp",
+    "size": 5676,
+    "source_rel": "daewoo/models/lacetti/images/68c7b1a4e81385301c6c45e7d6b2d0513c66792161a3ee17f6e5d950e68f9775.webp"
+  },
+  {
+    "filename": "693a49691af6ef6964723e1bb16129a7eabb47cf0286c239be8dce3b6d08f4ac.webp",
+    "size": 67824,
+    "source_rel": "daewoo/models/lacetti/images/693a49691af6ef6964723e1bb16129a7eabb47cf0286c239be8dce3b6d08f4ac.webp"
+  },
+  {
+    "filename": "694deefa0d288862250b81afa45354895b5bc87bb8899cf3d9e85fb499805b38.webp",
+    "size": 18994,
+    "source_rel": "daewoo/models/lacetti/images/694deefa0d288862250b81afa45354895b5bc87bb8899cf3d9e85fb499805b38.webp"
+  },
+  {
+    "filename": "69c20d04e712d52881bfff2e3255c340a115cd65ca0fb236b5f69af53347a2b3.webp",
+    "size": 13700,
+    "source_rel": "daewoo/models/lacetti/images/69c20d04e712d52881bfff2e3255c340a115cd65ca0fb236b5f69af53347a2b3.webp"
+  },
+  {
+    "filename": "69d825076269839a2aac1d39a5117f13f5f83cabccee063d77429d309f04351e.webp",
+    "size": 16974,
+    "source_rel": "daewoo/models/lacetti/images/69d825076269839a2aac1d39a5117f13f5f83cabccee063d77429d309f04351e.webp"
+  },
+  {
+    "filename": "6a44735a8eee78695da2155c93ec8b37b935f475e9cc698e453242b0c83a61c0.webp",
+    "size": 101702,
+    "source_rel": "daewoo/models/lacetti/images/6a44735a8eee78695da2155c93ec8b37b935f475e9cc698e453242b0c83a61c0.webp"
+  },
+  {
+    "filename": "6a8d007ce86543f161283888a95d3adfe66479654b6032d865dac60a36c32d4a.webp",
+    "size": 20614,
+    "source_rel": "daewoo/models/lacetti/images/6a8d007ce86543f161283888a95d3adfe66479654b6032d865dac60a36c32d4a.webp"
+  },
+  {
+    "filename": "6b70b560cec6463a0b11a9619a2f2b85a9206821e969d96ccc44148389fc94d3.webp",
+    "size": 37982,
+    "source_rel": "daewoo/models/lacetti/images/6b70b560cec6463a0b11a9619a2f2b85a9206821e969d96ccc44148389fc94d3.webp"
+  },
+  {
+    "filename": "6ba094589b63cae85191e7799c6495c3f6bd5f76379c000eebc378a85fb7e9c7.webp",
+    "size": 10474,
+    "source_rel": "daewoo/models/lacetti/images/6ba094589b63cae85191e7799c6495c3f6bd5f76379c000eebc378a85fb7e9c7.webp"
+  },
+  {
+    "filename": "6bcaa169bdd052f3c632e6ea90001c55ee6a09af1c8bc3949021c89e52c3f6cc.webp",
+    "size": 10872,
+    "source_rel": "daewoo/models/lacetti/images/6bcaa169bdd052f3c632e6ea90001c55ee6a09af1c8bc3949021c89e52c3f6cc.webp"
+  },
+  {
+    "filename": "6c282a41d1abdbdd42a42070e45b473412b0ead36d9ccfb6571729402bc2b26c.webp",
+    "size": 7364,
+    "source_rel": "daewoo/models/lacetti/images/6c282a41d1abdbdd42a42070e45b473412b0ead36d9ccfb6571729402bc2b26c.webp"
+  },
+  {
+    "filename": "6c6312a5af41c7bd48be68b48451f2c2b9544a0cf947ff52772ed4bee99d2d2e.webp",
+    "size": 19642,
+    "source_rel": "daewoo/models/lacetti/images/6c6312a5af41c7bd48be68b48451f2c2b9544a0cf947ff52772ed4bee99d2d2e.webp"
+  },
+  {
+    "filename": "6c83cee293485d758995fe2c449b996575a68ea5bed2cbf3eb606690ac8618c8.webp",
+    "size": 18578,
+    "source_rel": "daewoo/models/lacetti/images/6c83cee293485d758995fe2c449b996575a68ea5bed2cbf3eb606690ac8618c8.webp"
+  },
+  {
+    "filename": "6d5d67185b6449227035d4cf5f12daf46561662d6b48ca4cfc6cefd6980b5a52.webp",
+    "size": 9904,
+    "source_rel": "daewoo/models/lacetti/images/6d5d67185b6449227035d4cf5f12daf46561662d6b48ca4cfc6cefd6980b5a52.webp"
+  },
+  {
+    "filename": "6d81e3293d445412c2213a9b005df7db6ed03adf557a865180453c23036edb38.webp",
+    "size": 10394,
+    "source_rel": "daewoo/models/lacetti/images/6d81e3293d445412c2213a9b005df7db6ed03adf557a865180453c23036edb38.webp"
+  },
+  {
+    "filename": "6e092fd7de722ae41b2a8fffacc9d266a97b83e952d2ce11e1038f7da9a7115e.webp",
+    "size": 6980,
+    "source_rel": "daewoo/models/lacetti/images/6e092fd7de722ae41b2a8fffacc9d266a97b83e952d2ce11e1038f7da9a7115e.webp"
+  },
+  {
+    "filename": "6e5c59129a65e1ac76c3af59ac1af529b146a23a0a564aeb1a021a570ee6f0c0.webp",
+    "size": 14542,
+    "source_rel": "daewoo/models/lacetti/images/6e5c59129a65e1ac76c3af59ac1af529b146a23a0a564aeb1a021a570ee6f0c0.webp"
+  },
+  {
+    "filename": "6e5f72300260c1911936ba8ecdfd942918d67fdc96207fa5ca581ea2ff528694.webp",
+    "size": 7134,
+    "source_rel": "daewoo/models/lacetti/images/6e5f72300260c1911936ba8ecdfd942918d67fdc96207fa5ca581ea2ff528694.webp"
+  },
+  {
+    "filename": "6e7e6b9e22651302ad40bb001097a7d56f6fc94fc03eaa1af2b1284d2c5eb7b8.webp",
+    "size": 5908,
+    "source_rel": "daewoo/models/lacetti/images/6e7e6b9e22651302ad40bb001097a7d56f6fc94fc03eaa1af2b1284d2c5eb7b8.webp"
+  },
+  {
+    "filename": "6e9bac721fa25d01336c0bcff3114d2af073f0aceaa95fc4240cf5cab836f4be.webp",
+    "size": 16056,
+    "source_rel": "daewoo/models/lacetti/images/6e9bac721fa25d01336c0bcff3114d2af073f0aceaa95fc4240cf5cab836f4be.webp"
+  },
+  {
+    "filename": "6eb5932fdd2060904d67d7431e60fe7dbb49b98af008104726a3fce693dd0313.webp",
+    "size": 15544,
+    "source_rel": "daewoo/models/lacetti/images/6eb5932fdd2060904d67d7431e60fe7dbb49b98af008104726a3fce693dd0313.webp"
+  },
+  {
+    "filename": "6f038374a71a25a45fab42ba4881531437bcf3ddf1717f721af6a783f76ee90b.webp",
+    "size": 19020,
+    "source_rel": "daewoo/models/lacetti/images/6f038374a71a25a45fab42ba4881531437bcf3ddf1717f721af6a783f76ee90b.webp"
+  },
+  {
+    "filename": "6f9c8d52b48d6e2649793375397190b3444ae3dcb3b621aa43673e724ae3bbf7.webp",
+    "size": 5442,
+    "source_rel": "daewoo/models/lacetti/images/6f9c8d52b48d6e2649793375397190b3444ae3dcb3b621aa43673e724ae3bbf7.webp"
+  },
+  {
+    "filename": "6fb0839ac95241f54103dd548670af609d4da4273ef3cf78dd4e217356b77cb9.webp",
+    "size": 14470,
+    "source_rel": "daewoo/models/lacetti/images/6fb0839ac95241f54103dd548670af609d4da4273ef3cf78dd4e217356b77cb9.webp"
+  },
+  {
+    "filename": "6feaf477faf3c9a98961ee2e4361410dc7ab49d7d987538a8c650ccf378a0a6d.webp",
+    "size": 13884,
+    "source_rel": "daewoo/models/lacetti/images/6feaf477faf3c9a98961ee2e4361410dc7ab49d7d987538a8c650ccf378a0a6d.webp"
+  },
+  {
+    "filename": "70297f2ea80fdd0e92de9296c2b65a9bb91c9c9f927a6fe15038db78b595ee14.webp",
+    "size": 8058,
+    "source_rel": "daewoo/models/lacetti/images/70297f2ea80fdd0e92de9296c2b65a9bb91c9c9f927a6fe15038db78b595ee14.webp"
+  },
+  {
+    "filename": "70480585f0635736b2b4cc4970596749dafd14987bb4f8a0e5e90afd80676a52.webp",
+    "size": 7538,
+    "source_rel": "daewoo/models/lacetti/images/70480585f0635736b2b4cc4970596749dafd14987bb4f8a0e5e90afd80676a52.webp"
+  },
+  {
+    "filename": "705906578a326bd302b7d1b1b5523f5b5f8b9c53522f713f217b22901eea357d.webp",
+    "size": 8394,
+    "source_rel": "daewoo/models/lacetti/images/705906578a326bd302b7d1b1b5523f5b5f8b9c53522f713f217b22901eea357d.webp"
+  },
+  {
+    "filename": "70759a6d3b18376f793345baec241ca0de7d0edddb93121753f9e4474c242a4b.webp",
+    "size": 11906,
+    "source_rel": "daewoo/models/lacetti/images/70759a6d3b18376f793345baec241ca0de7d0edddb93121753f9e4474c242a4b.webp"
+  },
+  {
+    "filename": "707db97507e189619a626d656580124d14f0bb8661c8764051a4fdca9c649d6e.webp",
+    "size": 7908,
+    "source_rel": "daewoo/models/lacetti/images/707db97507e189619a626d656580124d14f0bb8661c8764051a4fdca9c649d6e.webp"
+  },
+  {
+    "filename": "707ddd8f8d642f815790f4fe4a9c6bba87a997ffe74598d8ea1df7df485cbe15.webp",
+    "size": 9746,
+    "source_rel": "daewoo/models/lacetti/images/707ddd8f8d642f815790f4fe4a9c6bba87a997ffe74598d8ea1df7df485cbe15.webp"
+  },
+  {
+    "filename": "713154b5493ae848309a47f1dffbd98775600507f2ec3e3c52c1bd75c3c96395.webp",
+    "size": 15340,
+    "source_rel": "daewoo/models/lacetti/images/713154b5493ae848309a47f1dffbd98775600507f2ec3e3c52c1bd75c3c96395.webp"
+  },
+  {
+    "filename": "717e57c15e64d5f36d07ad1f22c04f94e09baaab755f904ba29bd9282a65dbc2.webp",
+    "size": 16962,
+    "source_rel": "daewoo/models/lacetti/images/717e57c15e64d5f36d07ad1f22c04f94e09baaab755f904ba29bd9282a65dbc2.webp"
+  },
+  {
+    "filename": "71bbfdf4ea555492023da5e43b3e2af3c40185ed3e63d036466dab102875ff27.webp",
+    "size": 15624,
+    "source_rel": "daewoo/models/lacetti/images/71bbfdf4ea555492023da5e43b3e2af3c40185ed3e63d036466dab102875ff27.webp"
+  },
+  {
+    "filename": "71df92597956cf144bee1d429e289d26858194993d255c096b3e01f0530614cb.webp",
+    "size": 8350,
+    "source_rel": "daewoo/models/lacetti/images/71df92597956cf144bee1d429e289d26858194993d255c096b3e01f0530614cb.webp"
+  },
+  {
+    "filename": "7234bcf9bdea750688ee87c8b1bbe0977676912082162e348617df3194296e6b.webp",
+    "size": 7388,
+    "source_rel": "daewoo/models/lacetti/images/7234bcf9bdea750688ee87c8b1bbe0977676912082162e348617df3194296e6b.webp"
+  },
+  {
+    "filename": "723ffae0bf107120eb6c2b818e669e984d571533609d60e724e2650ea820ad94.webp",
+    "size": 11724,
+    "source_rel": "daewoo/models/lacetti/images/723ffae0bf107120eb6c2b818e669e984d571533609d60e724e2650ea820ad94.webp"
+  },
+  {
+    "filename": "728fcf67398b342c00e7a073f00f57c053758c39b8ddd50f15b9a9a540ccd120.webp",
+    "size": 18026,
+    "source_rel": "daewoo/models/lacetti/images/728fcf67398b342c00e7a073f00f57c053758c39b8ddd50f15b9a9a540ccd120.webp"
+  },
+  {
+    "filename": "728fd5bab8fa1f060c54f4c9de9fdf71e1df546c58b6f0fd63be403debac1c2d.webp",
+    "size": 10574,
+    "source_rel": "daewoo/models/lacetti/images/728fd5bab8fa1f060c54f4c9de9fdf71e1df546c58b6f0fd63be403debac1c2d.webp"
+  },
+  {
+    "filename": "729bd759de6f29c32ba1db778417145063e0d262dbd53d3fab2bdb77db7ce320.webp",
+    "size": 8134,
+    "source_rel": "daewoo/models/lacetti/images/729bd759de6f29c32ba1db778417145063e0d262dbd53d3fab2bdb77db7ce320.webp"
+  },
+  {
+    "filename": "72b83d3fdafeac4e14091a07afa2da6712707326d3ce444eafe0036032f4352b.webp",
+    "size": 17416,
+    "source_rel": "daewoo/models/lacetti/images/72b83d3fdafeac4e14091a07afa2da6712707326d3ce444eafe0036032f4352b.webp"
+  },
+  {
+    "filename": "72e463b56e4a60f65953ff6b4a370907578f94ed34f1a7dc46defed75ac7ea89.webp",
+    "size": 5220,
+    "source_rel": "daewoo/models/lacetti/images/72e463b56e4a60f65953ff6b4a370907578f94ed34f1a7dc46defed75ac7ea89.webp"
+  },
+  {
+    "filename": "733eaa25f285db3594386acb7dc59adbe3f91ad94b283867d8d96b104270b35c.webp",
+    "size": 6806,
+    "source_rel": "daewoo/models/lacetti/images/733eaa25f285db3594386acb7dc59adbe3f91ad94b283867d8d96b104270b35c.webp"
+  },
+  {
+    "filename": "73a35961e3924d0358063e2437ec239b9478e517dbf68b39960d13c636cdf88d.webp",
+    "size": 21406,
+    "source_rel": "daewoo/models/lacetti/images/73a35961e3924d0358063e2437ec239b9478e517dbf68b39960d13c636cdf88d.webp"
+  }
+]

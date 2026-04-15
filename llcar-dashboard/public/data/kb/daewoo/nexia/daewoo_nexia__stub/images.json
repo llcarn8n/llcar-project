@@ -1,0 +1,2502 @@
+[
+  {
+    "filename": "00168655b72f65b9ef7394276cf10a7987b84a94c34d1d866a511f31548a46a6.webp",
+    "size": 13300,
+    "source_rel": "daewoo/models/nexia/images/00168655b72f65b9ef7394276cf10a7987b84a94c34d1d866a511f31548a46a6.webp"
+  },
+  {
+    "filename": "00b05c0ca3b3541eedc671fd001e9387daaa329480192058758130efdec64161.webp",
+    "size": 19094,
+    "source_rel": "daewoo/models/nexia/images/00b05c0ca3b3541eedc671fd001e9387daaa329480192058758130efdec64161.webp"
+  },
+  {
+    "filename": "00f8c45d13a6ff665c5e5d42e9601ea00540eab071ba9ea8cde15e5bd69c92bc.webp",
+    "size": 16562,
+    "source_rel": "daewoo/models/nexia/images/00f8c45d13a6ff665c5e5d42e9601ea00540eab071ba9ea8cde15e5bd69c92bc.webp"
+  },
+  {
+    "filename": "02d13e38d0e68158632b64d461f84f354ee44ddaa2a467b748ea9dd3306947fe.webp",
+    "size": 9490,
+    "source_rel": "daewoo/models/nexia/images/02d13e38d0e68158632b64d461f84f354ee44ddaa2a467b748ea9dd3306947fe.webp"
+  },
+  {
+    "filename": "03d9b75ff65798f40798a91b6b3beafa3ee25710fad701e510dbb1cb7b1de7da.webp",
+    "size": 18490,
+    "source_rel": "daewoo/models/nexia/images/03d9b75ff65798f40798a91b6b3beafa3ee25710fad701e510dbb1cb7b1de7da.webp"
+  },
+  {
+    "filename": "042244bd5d8ccabd63d7651b23cbc7fe75d8a2bda78523499da8ae69cf0b359b.webp",
+    "size": 29082,
+    "source_rel": "daewoo/models/nexia/images/042244bd5d8ccabd63d7651b23cbc7fe75d8a2bda78523499da8ae69cf0b359b.webp"
+  },
+  {
+    "filename": "04a75150b70ff0c2886c07f21e898e03922872f0a14f049374565645ec7ae3d9.webp",
+    "size": 22992,
+    "source_rel": "daewoo/models/nexia/images/04a75150b70ff0c2886c07f21e898e03922872f0a14f049374565645ec7ae3d9.webp"
+  },
+  {
+    "filename": "04e19110ba07e90d08a762db156466e1fc5edec4401b7a1cff4e8bfa0287e10f.webp",
+    "size": 25974,
+    "source_rel": "daewoo/models/nexia/images/04e19110ba07e90d08a762db156466e1fc5edec4401b7a1cff4e8bfa0287e10f.webp"
+  },
+  {
+    "filename": "0524ca469bc6a485877b45f9b722b6edd782fd827bf5fbcd4ecaa52c3f7bcb57.webp",
+    "size": 16712,
+    "source_rel": "daewoo/models/nexia/images/0524ca469bc6a485877b45f9b722b6edd782fd827bf5fbcd4ecaa52c3f7bcb57.webp"
+  },
+  {
+    "filename": "052530dd905a91815b1c5f4443663f89da607eaeb7ed3a9f16adb098aa1b11d7.webp",
+    "size": 18758,
+    "source_rel": "daewoo/models/nexia/images/052530dd905a91815b1c5f4443663f89da607eaeb7ed3a9f16adb098aa1b11d7.webp"
+  },
+  {
+    "filename": "05d986a661428e4b67430436c1696fd2e437920e44ca1b717b960890c2f30d1d.webp",
+    "size": 21612,
+    "source_rel": "daewoo/models/nexia/images/05d986a661428e4b67430436c1696fd2e437920e44ca1b717b960890c2f30d1d.webp"
+  },
+  {
+    "filename": "05ddfb7b3a88e9662ce653963ba4fed9e14b9a6c89831062e30cc4e94a58c5ee.webp",
+    "size": 20058,
+    "source_rel": "daewoo/models/nexia/images/05ddfb7b3a88e9662ce653963ba4fed9e14b9a6c89831062e30cc4e94a58c5ee.webp"
+  },
+  {
+    "filename": "0671bfa5b0186bc59bf3d8a78a91a05ff247af4802f3f5d930c577335b3f0e3b.webp",
+    "size": 29548,
+    "source_rel": "daewoo/models/nexia/images/0671bfa5b0186bc59bf3d8a78a91a05ff247af4802f3f5d930c577335b3f0e3b.webp"
+  },
+  {
+    "filename": "0675265f326281e47f8750b634e32cd37e8593ec32ac6e5f94eb15de5f0114e2.webp",
+    "size": 26296,
+    "source_rel": "daewoo/models/nexia/images/0675265f326281e47f8750b634e32cd37e8593ec32ac6e5f94eb15de5f0114e2.webp"
+  },
+  {
+    "filename": "0697f7faac02e7a890590601cc40adba52b9835799772cd52217678d7077035b.webp",
+    "size": 20134,
+    "source_rel": "daewoo/models/nexia/images/0697f7faac02e7a890590601cc40adba52b9835799772cd52217678d7077035b.webp"
+  },
+  {
+    "filename": "06cccf1f5d97da878e934567fd76c6dc9e6f2ac6fff09c3b75dbcda1293bfa1f.webp",
+    "size": 16618,
+    "source_rel": "daewoo/models/nexia/images/06cccf1f5d97da878e934567fd76c6dc9e6f2ac6fff09c3b75dbcda1293bfa1f.webp"
+  },
+  {
+    "filename": "06d91dc4095d803f13a99f1c4895f9fa3acf7d01f3b2f48ab5dd4d860cda0198.webp",
+    "size": 72640,
+    "source_rel": "daewoo/models/nexia/images/06d91dc4095d803f13a99f1c4895f9fa3acf7d01f3b2f48ab5dd4d860cda0198.webp"
+  },
+  {
+    "filename": "0745646fd8ed6852c8caa1196e47e238b6319cd9c8918fe29ed88738a2884e04.webp",
+    "size": 22204,
+    "source_rel": "daewoo/models/nexia/images/0745646fd8ed6852c8caa1196e47e238b6319cd9c8918fe29ed88738a2884e04.webp"
+  },
+  {
+    "filename": "0770b55875aeb87209e6e8e780589cac5b355c7f6210f5a5daceea8cdf66191e.webp",
+    "size": 17518,
+    "source_rel": "daewoo/models/nexia/images/0770b55875aeb87209e6e8e780589cac5b355c7f6210f5a5daceea8cdf66191e.webp"
+  },
+  {
+    "filename": "07e0d038f6c45aaab53c69491a99113f3f5b0691d4c36668d3fe6080d8abdbcf.webp",
+    "size": 13488,
+    "source_rel": "daewoo/models/nexia/images/07e0d038f6c45aaab53c69491a99113f3f5b0691d4c36668d3fe6080d8abdbcf.webp"
+  },
+  {
+    "filename": "07f1223457c43778dd31cac63dfb30fcda5d6a2dbb3cd2aeec52e995aa5d0dd5.webp",
+    "size": 15126,
+    "source_rel": "daewoo/models/nexia/images/07f1223457c43778dd31cac63dfb30fcda5d6a2dbb3cd2aeec52e995aa5d0dd5.webp"
+  },
+  {
+    "filename": "0844ae7e8b43459b323ffc528741b1804b2668ceb77b7e05a973c0370cf74dbd.webp",
+    "size": 21052,
+    "source_rel": "daewoo/models/nexia/images/0844ae7e8b43459b323ffc528741b1804b2668ceb77b7e05a973c0370cf74dbd.webp"
+  },
+  {
+    "filename": "08b4d5e6eb8b0be52e081ac80ed295c0708e1584abeff5a5a925614b737773dc.webp",
+    "size": 18078,
+    "source_rel": "daewoo/models/nexia/images/08b4d5e6eb8b0be52e081ac80ed295c0708e1584abeff5a5a925614b737773dc.webp"
+  },
+  {
+    "filename": "092505c28eeeefdd83c54963aa3d8791edb6ff45bb2cab2a8925fcdbd1c732ad.webp",
+    "size": 23378,
+    "source_rel": "daewoo/models/nexia/images/092505c28eeeefdd83c54963aa3d8791edb6ff45bb2cab2a8925fcdbd1c732ad.webp"
+  },
+  {
+    "filename": "0929de9f73613790aaf6e8711692095ead37347b437391985be11b309ef42f16.webp",
+    "size": 18712,
+    "source_rel": "daewoo/models/nexia/images/0929de9f73613790aaf6e8711692095ead37347b437391985be11b309ef42f16.webp"
+  },
+  {
+    "filename": "0948bdeccc0d4e0c2e2e3e446ef69cc86c6627d978096e64df62ad867fe0899b.webp",
+    "size": 30920,
+    "source_rel": "daewoo/models/nexia/images/0948bdeccc0d4e0c2e2e3e446ef69cc86c6627d978096e64df62ad867fe0899b.webp"
+  },
+  {
+    "filename": "095e62176cb3a6f01b5a903f57e0c33f627dd0c86b7d7f340eb24a24b3d21a00.webp",
+    "size": 68788,
+    "source_rel": "daewoo/models/nexia/images/095e62176cb3a6f01b5a903f57e0c33f627dd0c86b7d7f340eb24a24b3d21a00.webp"
+  },
+  {
+    "filename": "0a39753375f193250edc86006c7375b957b74a0b469c9d8dda7db152071b0a8b.webp",
+    "size": 23538,
+    "source_rel": "daewoo/models/nexia/images/0a39753375f193250edc86006c7375b957b74a0b469c9d8dda7db152071b0a8b.webp"
+  },
+  {
+    "filename": "0abacd0905994081c086b6be0b4582b91e7bc2ee1fe7ca9c9b8adc9caf82f332.webp",
+    "size": 21268,
+    "source_rel": "daewoo/models/nexia/images/0abacd0905994081c086b6be0b4582b91e7bc2ee1fe7ca9c9b8adc9caf82f332.webp"
+  },
+  {
+    "filename": "0af2a4f0979fb75a9b4d0e3ea4c991792f05dcbbb55246157dfc53d4226d3652.webp",
+    "size": 104766,
+    "source_rel": "daewoo/models/nexia/images/0af2a4f0979fb75a9b4d0e3ea4c991792f05dcbbb55246157dfc53d4226d3652.webp"
+  },
+  {
+    "filename": "0b2a7c7c3865178fc4ecad537b311c2e63c3d666ef47dc6aa69da752fc87843b.webp",
+    "size": 19564,
+    "source_rel": "daewoo/models/nexia/images/0b2a7c7c3865178fc4ecad537b311c2e63c3d666ef47dc6aa69da752fc87843b.webp"
+  },
+  {
+    "filename": "0b5a06e91b41ca1b216400cbfb0cd6f4de0f6fcd6d8ec76675c5ff066d3a1be9.webp",
+    "size": 90938,
+    "source_rel": "daewoo/models/nexia/images/0b5a06e91b41ca1b216400cbfb0cd6f4de0f6fcd6d8ec76675c5ff066d3a1be9.webp"
+  },
+  {
+    "filename": "0c74782482540d9e57c602c385208de3bbf1e2f0b33ac86970fa844ee27f637d.webp",
+    "size": 20056,
+    "source_rel": "daewoo/models/nexia/images/0c74782482540d9e57c602c385208de3bbf1e2f0b33ac86970fa844ee27f637d.webp"
+  },
+  {
+    "filename": "0d6dc2caaa62f98413b43bda07ee3d29cd7ea95e085d782e1e0f44079bf038d0.webp",
+    "size": 19574,
+    "source_rel": "daewoo/models/nexia/images/0d6dc2caaa62f98413b43bda07ee3d29cd7ea95e085d782e1e0f44079bf038d0.webp"
+  },
+  {
+    "filename": "0e457666cba36eb566c7dfcde5010ad35673acc8c6e1f09ee2a1bda564d9b74a.webp",
+    "size": 15820,
+    "source_rel": "daewoo/models/nexia/images/0e457666cba36eb566c7dfcde5010ad35673acc8c6e1f09ee2a1bda564d9b74a.webp"
+  },
+  {
+    "filename": "0eb92f7d48ce9303c32ffc1baf9e17a6be1f474957c74ce5e26d5f5f1faf1693.webp",
+    "size": 15964,
+    "source_rel": "daewoo/models/nexia/images/0eb92f7d48ce9303c32ffc1baf9e17a6be1f474957c74ce5e26d5f5f1faf1693.webp"
+  },
+  {
+    "filename": "0f3f7695ace51e607d69c5a55c6df5ef3055230216ae82f62d2011c1d56067a9.webp",
+    "size": 18312,
+    "source_rel": "daewoo/models/nexia/images/0f3f7695ace51e607d69c5a55c6df5ef3055230216ae82f62d2011c1d56067a9.webp"
+  },
+  {
+    "filename": "10e8fa236820d84f2682e5ceedddeb8f874b756d9351ede9ea0439d8d3821b29.webp",
+    "size": 18648,
+    "source_rel": "daewoo/models/nexia/images/10e8fa236820d84f2682e5ceedddeb8f874b756d9351ede9ea0439d8d3821b29.webp"
+  },
+  {
+    "filename": "111092ab1bdc2ac2184322c5e7b9b19719db8223f367f79d1330e16c7a607bec.webp",
+    "size": 18372,
+    "source_rel": "daewoo/models/nexia/images/111092ab1bdc2ac2184322c5e7b9b19719db8223f367f79d1330e16c7a607bec.webp"
+  },
+  {
+    "filename": "121e27d4414391f116e37491d30f66b4eeaf33f18067957595b56a8fb58c5100.webp",
+    "size": 17516,
+    "source_rel": "daewoo/models/nexia/images/121e27d4414391f116e37491d30f66b4eeaf33f18067957595b56a8fb58c5100.webp"
+  },
+  {
+    "filename": "12e8d0e5b093161c7a1b26b1738d57d910210b796e6a8cebed4c94889e56f699.webp",
+    "size": 22334,
+    "source_rel": "daewoo/models/nexia/images/12e8d0e5b093161c7a1b26b1738d57d910210b796e6a8cebed4c94889e56f699.webp"
+  },
+  {
+    "filename": "13a481adbc069c65d535a09255b39bfae21c8bc89e830b01067ee29025ad3bc1.webp",
+    "size": 26224,
+    "source_rel": "daewoo/models/nexia/images/13a481adbc069c65d535a09255b39bfae21c8bc89e830b01067ee29025ad3bc1.webp"
+  },
+  {
+    "filename": "13afdd7c3e07f92dbedccbdf5db60c6d5ea6a229c0e373b0a983f0a23cf03092.webp",
+    "size": 13280,
+    "source_rel": "daewoo/models/nexia/images/13afdd7c3e07f92dbedccbdf5db60c6d5ea6a229c0e373b0a983f0a23cf03092.webp"
+  },
+  {
+    "filename": "14a883623ed210184fc8dde89d25319bddc054ebc731a7f23815758b5f319e28.webp",
+    "size": 122724,
+    "source_rel": "daewoo/models/nexia/images/14a883623ed210184fc8dde89d25319bddc054ebc731a7f23815758b5f319e28.webp"
+  },
+  {
+    "filename": "16f08c8d8e2b09b027212aa1c89385748097b8080dc4a3a1ba3cb93f2b74b55b.webp",
+    "size": 18308,
+    "source_rel": "daewoo/models/nexia/images/16f08c8d8e2b09b027212aa1c89385748097b8080dc4a3a1ba3cb93f2b74b55b.webp"
+  },
+  {
+    "filename": "17357132502b89e875818e7d6236526675b595cfb9767bc4874f0b4b04f87348.webp",
+    "size": 20542,
+    "source_rel": "daewoo/models/nexia/images/17357132502b89e875818e7d6236526675b595cfb9767bc4874f0b4b04f87348.webp"
+  },
+  {
+    "filename": "1739829d84044a3d638c129f03860b222d7d0b236830826710558efd6b22c475.webp",
+    "size": 16164,
+    "source_rel": "daewoo/models/nexia/images/1739829d84044a3d638c129f03860b222d7d0b236830826710558efd6b22c475.webp"
+  },
+  {
+    "filename": "1848238c5e963cf485190ba67e05f0f85d3ff99052804c31d3240f172ea7f7ec.webp",
+    "size": 14530,
+    "source_rel": "daewoo/models/nexia/images/1848238c5e963cf485190ba67e05f0f85d3ff99052804c31d3240f172ea7f7ec.webp"
+  },
+  {
+    "filename": "1874ae55af10ec6b6ec52d66dac9c612af8d216392e1a53ff934a06c4eb2f553.webp",
+    "size": 26212,
+    "source_rel": "daewoo/models/nexia/images/1874ae55af10ec6b6ec52d66dac9c612af8d216392e1a53ff934a06c4eb2f553.webp"
+  },
+  {
+    "filename": "18b43a433a70e4865882d99a492583d7118490408c59c9f1a9f4de5370936e47.webp",
+    "size": 26566,
+    "source_rel": "daewoo/models/nexia/images/18b43a433a70e4865882d99a492583d7118490408c59c9f1a9f4de5370936e47.webp"
+  },
+  {
+    "filename": "18b828e0561bf61a80e59f4338a6d6c03ac435c6f790171ef8392ba9694ed560.webp",
+    "size": 30264,
+    "source_rel": "daewoo/models/nexia/images/18b828e0561bf61a80e59f4338a6d6c03ac435c6f790171ef8392ba9694ed560.webp"
+  },
+  {
+    "filename": "18ccbe492c0fa63b58f278662608826ae4e4c0de38bfdf1ee3cb568357cd4ee4.webp",
+    "size": 18924,
+    "source_rel": "daewoo/models/nexia/images/18ccbe492c0fa63b58f278662608826ae4e4c0de38bfdf1ee3cb568357cd4ee4.webp"
+  },
+  {
+    "filename": "18ccffe31c690ed4cbcf0cd165669c3fbbf05e6caba636653f33a28b93fca0a2.webp",
+    "size": 13648,
+    "source_rel": "daewoo/models/nexia/images/18ccffe31c690ed4cbcf0cd165669c3fbbf05e6caba636653f33a28b93fca0a2.webp"
+  },
+  {
+    "filename": "18ea76405c2ad994d3184839b15f4ea16f5db09cc207f3683717549e8686c979.webp",
+    "size": 16710,
+    "source_rel": "daewoo/models/nexia/images/18ea76405c2ad994d3184839b15f4ea16f5db09cc207f3683717549e8686c979.webp"
+  },
+  {
+    "filename": "18eb1df7dc50badd4fb63279346a77c36ec9771bb8be43736b545f953d22793b.webp",
+    "size": 18800,
+    "source_rel": "daewoo/models/nexia/images/18eb1df7dc50badd4fb63279346a77c36ec9771bb8be43736b545f953d22793b.webp"
+  },
+  {
+    "filename": "198abe7ec4e8e14d9e839ba14456581d3c516eb00ad39e81d02aad12ca8e8b10.webp",
+    "size": 458,
+    "source_rel": "daewoo/models/nexia/images/198abe7ec4e8e14d9e839ba14456581d3c516eb00ad39e81d02aad12ca8e8b10.webp"
+  },
+  {
+    "filename": "1a2052371794f42fa1c9935d7cea6ada4d35c22e975983310026e4565ecc27d7.webp",
+    "size": 28454,
+    "source_rel": "daewoo/models/nexia/images/1a2052371794f42fa1c9935d7cea6ada4d35c22e975983310026e4565ecc27d7.webp"
+  },
+  {
+    "filename": "1a6c2ed95d7c4554db0d310fc4a87b13f6a8ba6c9fac73a381fe436a12489f89.webp",
+    "size": 28758,
+    "source_rel": "daewoo/models/nexia/images/1a6c2ed95d7c4554db0d310fc4a87b13f6a8ba6c9fac73a381fe436a12489f89.webp"
+  },
+  {
+    "filename": "1a807f2e6f128648cc24e6bce1f4ac6ff8765a93c70ac499fca37daa03938952.webp",
+    "size": 14832,
+    "source_rel": "daewoo/models/nexia/images/1a807f2e6f128648cc24e6bce1f4ac6ff8765a93c70ac499fca37daa03938952.webp"
+  },
+  {
+    "filename": "1ad97377937dc97d156767fac0e92e3a11254ae0736cb4a54461f5f0a6df8b7e.webp",
+    "size": 18546,
+    "source_rel": "daewoo/models/nexia/images/1ad97377937dc97d156767fac0e92e3a11254ae0736cb4a54461f5f0a6df8b7e.webp"
+  },
+  {
+    "filename": "1ae8fec4e18d543944b08936f8429e5342660caebc3c87ce6613d9dd8c467dcc.webp",
+    "size": 13396,
+    "source_rel": "daewoo/models/nexia/images/1ae8fec4e18d543944b08936f8429e5342660caebc3c87ce6613d9dd8c467dcc.webp"
+  },
+  {
+    "filename": "1b457045421ff9e48f9378c2fe367cf5ea562773c2cccbc2f96068e1e99e5c78.webp",
+    "size": 24930,
+    "source_rel": "daewoo/models/nexia/images/1b457045421ff9e48f9378c2fe367cf5ea562773c2cccbc2f96068e1e99e5c78.webp"
+  },
+  {
+    "filename": "1b7d0401c80dbd2e3c67ad37d4064c05f029932bc8fd59952aac7aab7b4c8161.webp",
+    "size": 16128,
+    "source_rel": "daewoo/models/nexia/images/1b7d0401c80dbd2e3c67ad37d4064c05f029932bc8fd59952aac7aab7b4c8161.webp"
+  },
+  {
+    "filename": "1b9072e31f3db06c982ea7b233c35866342e73490a810ff3095f3db97128447b.webp",
+    "size": 826,
+    "source_rel": "daewoo/models/nexia/images/1b9072e31f3db06c982ea7b233c35866342e73490a810ff3095f3db97128447b.webp"
+  },
+  {
+    "filename": "1bb3eb99d52e1a2a1efa7d6a40527f291cadc94f525447eb100742ac5c754f6b.webp",
+    "size": 77458,
+    "source_rel": "daewoo/models/nexia/images/1bb3eb99d52e1a2a1efa7d6a40527f291cadc94f525447eb100742ac5c754f6b.webp"
+  },
+  {
+    "filename": "1bbe75d085474257b856178e333bffdf11b36dddd64ca8a7d639b3ddd5babeae.webp",
+    "size": 24452,
+    "source_rel": "daewoo/models/nexia/images/1bbe75d085474257b856178e333bffdf11b36dddd64ca8a7d639b3ddd5babeae.webp"
+  },
+  {
+    "filename": "1beebe3fec5ec06c198442d4120901ff7428c54f03a25f7947f0b4651342ed17.webp",
+    "size": 23290,
+    "source_rel": "daewoo/models/nexia/images/1beebe3fec5ec06c198442d4120901ff7428c54f03a25f7947f0b4651342ed17.webp"
+  },
+  {
+    "filename": "1c367ffe1ad851443ca3af692bf5bdf1090dafa0377e03c88ed5a556b3890758.webp",
+    "size": 6490,
+    "source_rel": "daewoo/models/nexia/images/1c367ffe1ad851443ca3af692bf5bdf1090dafa0377e03c88ed5a556b3890758.webp"
+  },
+  {
+    "filename": "1c62fd2144d3131b16ee12980661646339d5781e296ce84325e6790dd8907238.webp",
+    "size": 117626,
+    "source_rel": "daewoo/models/nexia/images/1c62fd2144d3131b16ee12980661646339d5781e296ce84325e6790dd8907238.webp"
+  },
+  {
+    "filename": "1d7408437ed691903ad7bd78b2f615aecbbff73a84df8029a8299c77716431c0.webp",
+    "size": 13480,
+    "source_rel": "daewoo/models/nexia/images/1d7408437ed691903ad7bd78b2f615aecbbff73a84df8029a8299c77716431c0.webp"
+  },
+  {
+    "filename": "1d89b5715623194f382f21cb9acc42b892320eddeb5dde312cdaddf242edc4ab.webp",
+    "size": 35842,
+    "source_rel": "daewoo/models/nexia/images/1d89b5715623194f382f21cb9acc42b892320eddeb5dde312cdaddf242edc4ab.webp"
+  },
+  {
+    "filename": "1db771077963e1321f261be5bd6804736d6510a394d28e63daf6192ae9e185e1.webp",
+    "size": 12316,
+    "source_rel": "daewoo/models/nexia/images/1db771077963e1321f261be5bd6804736d6510a394d28e63daf6192ae9e185e1.webp"
+  },
+  {
+    "filename": "1dfe5de376b60b840bc5851c3c6ca9d577edf8645237f9569a2c0e2d1e5b53f8.webp",
+    "size": 20928,
+    "source_rel": "daewoo/models/nexia/images/1dfe5de376b60b840bc5851c3c6ca9d577edf8645237f9569a2c0e2d1e5b53f8.webp"
+  },
+  {
+    "filename": "1e02503b448a9b6599dc8d9d6a28dda233ae4b31694533042c7e3640aee4b788.webp",
+    "size": 19294,
+    "source_rel": "daewoo/models/nexia/images/1e02503b448a9b6599dc8d9d6a28dda233ae4b31694533042c7e3640aee4b788.webp"
+  },
+  {
+    "filename": "1e61ebffbbe108830af767d5a096f19e153f61f281bd4a2223a8cfbd72e5845f.webp",
+    "size": 20408,
+    "source_rel": "daewoo/models/nexia/images/1e61ebffbbe108830af767d5a096f19e153f61f281bd4a2223a8cfbd72e5845f.webp"
+  },
+  {
+    "filename": "1f3e2b4788d95348db6ff56560867cb653b457c152bcf58508f337a16eb21806.webp",
+    "size": 14836,
+    "source_rel": "daewoo/models/nexia/images/1f3e2b4788d95348db6ff56560867cb653b457c152bcf58508f337a16eb21806.webp"
+  },
+  {
+    "filename": "1fd844a6744408efecebfad7fe4db9379c30f2bf686194a0d58c336d10588fe8.webp",
+    "size": 22928,
+    "source_rel": "daewoo/models/nexia/images/1fd844a6744408efecebfad7fe4db9379c30f2bf686194a0d58c336d10588fe8.webp"
+  },
+  {
+    "filename": "2065f89b2ab2efcd617280c140570f1d8f2a915ad11f29aca8ae83cd86254ba0.webp",
+    "size": 19246,
+    "source_rel": "daewoo/models/nexia/images/2065f89b2ab2efcd617280c140570f1d8f2a915ad11f29aca8ae83cd86254ba0.webp"
+  },
+  {
+    "filename": "208d850d539b8f48ea5fe2266e12a5530748deb86347284141b695b5f39f8251.webp",
+    "size": 18856,
+    "source_rel": "daewoo/models/nexia/images/208d850d539b8f48ea5fe2266e12a5530748deb86347284141b695b5f39f8251.webp"
+  },
+  {
+    "filename": "216dcda1da17ea8358e118dc421bbdf69dc75095c6390073ed4cba4ce46f5c62.webp",
+    "size": 159318,
+    "source_rel": "daewoo/models/nexia/images/216dcda1da17ea8358e118dc421bbdf69dc75095c6390073ed4cba4ce46f5c62.webp"
+  },
+  {
+    "filename": "21746c1956aa8e9d2e61d7a9638396e26605f8dbffc4f112982065188706377c.webp",
+    "size": 14820,
+    "source_rel": "daewoo/models/nexia/images/21746c1956aa8e9d2e61d7a9638396e26605f8dbffc4f112982065188706377c.webp"
+  },
+  {
+    "filename": "21ac77ae48609191ade8d021e0ce92c68ec98f9efe33431ac7e33c49493a72c4.webp",
+    "size": 16812,
+    "source_rel": "daewoo/models/nexia/images/21ac77ae48609191ade8d021e0ce92c68ec98f9efe33431ac7e33c49493a72c4.webp"
+  },
+  {
+    "filename": "227d8aaca808fce83769fdc6eb74247fbb21c19caf66b6e04d9ad3dcd5283ac9.webp",
+    "size": 21500,
+    "source_rel": "daewoo/models/nexia/images/227d8aaca808fce83769fdc6eb74247fbb21c19caf66b6e04d9ad3dcd5283ac9.webp"
+  },
+  {
+    "filename": "2292cee05fb3c8484980f82549aad9d6ac47f0fd762bbbdf07c9b8794f6a05b4.webp",
+    "size": 18830,
+    "source_rel": "daewoo/models/nexia/images/2292cee05fb3c8484980f82549aad9d6ac47f0fd762bbbdf07c9b8794f6a05b4.webp"
+  },
+  {
+    "filename": "22a0de931410b49d07815be9dbcee01dd83f02c33c72eae22ca860da1a627842.webp",
+    "size": 14900,
+    "source_rel": "daewoo/models/nexia/images/22a0de931410b49d07815be9dbcee01dd83f02c33c72eae22ca860da1a627842.webp"
+  },
+  {
+    "filename": "23145d844144b139af65293d835271573aabd3011477deedcbf3efca75f2db15.webp",
+    "size": 13378,
+    "source_rel": "daewoo/models/nexia/images/23145d844144b139af65293d835271573aabd3011477deedcbf3efca75f2db15.webp"
+  },
+  {
+    "filename": "23283a8e0f39584563aeae9ab2a8796b1ef012a7ab5201906d33a090e7aec17b.webp",
+    "size": 22322,
+    "source_rel": "daewoo/models/nexia/images/23283a8e0f39584563aeae9ab2a8796b1ef012a7ab5201906d33a090e7aec17b.webp"
+  },
+  {
+    "filename": "23bf1e6970ead97fd35fbdcf41d495efd3d7c3e09850318a039087e8e19fc413.webp",
+    "size": 15140,
+    "source_rel": "daewoo/models/nexia/images/23bf1e6970ead97fd35fbdcf41d495efd3d7c3e09850318a039087e8e19fc413.webp"
+  },
+  {
+    "filename": "23cbab57519d8be14cbd5a11a9fccff6af34ff6f79a25547d57486ed8587f927.webp",
+    "size": 17966,
+    "source_rel": "daewoo/models/nexia/images/23cbab57519d8be14cbd5a11a9fccff6af34ff6f79a25547d57486ed8587f927.webp"
+  },
+  {
+    "filename": "2490fc970ac956aa17b501d8f1fd3df5d9eeba8cd132768ae6d1e4ede6a6043f.webp",
+    "size": 9600,
+    "source_rel": "daewoo/models/nexia/images/2490fc970ac956aa17b501d8f1fd3df5d9eeba8cd132768ae6d1e4ede6a6043f.webp"
+  },
+  {
+    "filename": "2546b03a954a0937a47db6244f81e41b654a6d308d94e171fe44096a0e5a995d.webp",
+    "size": 17216,
+    "source_rel": "daewoo/models/nexia/images/2546b03a954a0937a47db6244f81e41b654a6d308d94e171fe44096a0e5a995d.webp"
+  },
+  {
+    "filename": "26b4dc2315af5503ee9619a935bf3d13fed45a2166ef7a5a1f645330512f8f53.webp",
+    "size": 25062,
+    "source_rel": "daewoo/models/nexia/images/26b4dc2315af5503ee9619a935bf3d13fed45a2166ef7a5a1f645330512f8f53.webp"
+  },
+  {
+    "filename": "26f9ce79b4da024f8871efc882c3bffe48a039c5fd513cf432c3ed47ff2b60c9.webp",
+    "size": 36228,
+    "source_rel": "daewoo/models/nexia/images/26f9ce79b4da024f8871efc882c3bffe48a039c5fd513cf432c3ed47ff2b60c9.webp"
+  },
+  {
+    "filename": "27190715f60eb7a01eb63b424cc6ad3d1092379d9db42c8ce6b66092cd1e2990.webp",
+    "size": 17522,
+    "source_rel": "daewoo/models/nexia/images/27190715f60eb7a01eb63b424cc6ad3d1092379d9db42c8ce6b66092cd1e2990.webp"
+  },
+  {
+    "filename": "277a971538ad3c0f8bd63601864196bab22e3d9f2b50760647b010dd449a8266.webp",
+    "size": 22392,
+    "source_rel": "daewoo/models/nexia/images/277a971538ad3c0f8bd63601864196bab22e3d9f2b50760647b010dd449a8266.webp"
+  },
+  {
+    "filename": "279b02380bd3d12f6a3367992a0ef1977e0e680a49c65b71f20abac3483b92c2.webp",
+    "size": 17726,
+    "source_rel": "daewoo/models/nexia/images/279b02380bd3d12f6a3367992a0ef1977e0e680a49c65b71f20abac3483b92c2.webp"
+  },
+  {
+    "filename": "27f714ebd5c7c717e4f202148f3016527103e67e99329661b78b6d6f9f93413b.webp",
+    "size": 58102,
+    "source_rel": "daewoo/models/nexia/images/27f714ebd5c7c717e4f202148f3016527103e67e99329661b78b6d6f9f93413b.webp"
+  },
+  {
+    "filename": "283dd22a0dcad4a8f8daf451688f72e141739a72d4b06db3e9fbdb3d3941acea.webp",
+    "size": 20276,
+    "source_rel": "daewoo/models/nexia/images/283dd22a0dcad4a8f8daf451688f72e141739a72d4b06db3e9fbdb3d3941acea.webp"
+  },
+  {
+    "filename": "286c060c6c15cb148686091b47a48b1d190f75bc087fe0da94b7f3b0fbbe1437.webp",
+    "size": 14544,
+    "source_rel": "daewoo/models/nexia/images/286c060c6c15cb148686091b47a48b1d190f75bc087fe0da94b7f3b0fbbe1437.webp"
+  },
+  {
+    "filename": "28b915bc267eaafe8555d25c02d41fb7b28b36b041b0d1fcc5e8233192bc781b.webp",
+    "size": 14860,
+    "source_rel": "daewoo/models/nexia/images/28b915bc267eaafe8555d25c02d41fb7b28b36b041b0d1fcc5e8233192bc781b.webp"
+  },
+  {
+    "filename": "28f9fd960dfe73066db627e876c1f141be8744243ed0c5b27e4f6fa5c625c95b.webp",
+    "size": 103066,
+    "source_rel": "daewoo/models/nexia/images/28f9fd960dfe73066db627e876c1f141be8744243ed0c5b27e4f6fa5c625c95b.webp"
+  },
+  {
+    "filename": "29fb63835271cb9ac9eefaf95db684c66a229b66b47e153580a83dbc1b49edc3.webp",
+    "size": 29652,
+    "source_rel": "daewoo/models/nexia/images/29fb63835271cb9ac9eefaf95db684c66a229b66b47e153580a83dbc1b49edc3.webp"
+  },
+  {
+    "filename": "2a94cf15c2e79a76d3c687f58e18102d283a6f018d2d1f419aba1ba3b95a19bd.webp",
+    "size": 18208,
+    "source_rel": "daewoo/models/nexia/images/2a94cf15c2e79a76d3c687f58e18102d283a6f018d2d1f419aba1ba3b95a19bd.webp"
+  },
+  {
+    "filename": "2b465fc96186d5c924790721169c5608a238dff9d6292aaa12d554a8ee93527b.webp",
+    "size": 20486,
+    "source_rel": "daewoo/models/nexia/images/2b465fc96186d5c924790721169c5608a238dff9d6292aaa12d554a8ee93527b.webp"
+  },
+  {
+    "filename": "2b7397b323519dae6e334cd31804df9e39c075e1799d14a4c0f40a665ba3eaf6.webp",
+    "size": 9736,
+    "source_rel": "daewoo/models/nexia/images/2b7397b323519dae6e334cd31804df9e39c075e1799d14a4c0f40a665ba3eaf6.webp"
+  },
+  {
+    "filename": "2b9e2f5d3850a57d0bacef6071dbe02dae7e83929a0fbe44c6c9f1bc40980a15.webp",
+    "size": 18482,
+    "source_rel": "daewoo/models/nexia/images/2b9e2f5d3850a57d0bacef6071dbe02dae7e83929a0fbe44c6c9f1bc40980a15.webp"
+  },
+  {
+    "filename": "2ba211b71fd310aa2df5c0faa1087474918373aaea0a0514d6616f86c034b525.webp",
+    "size": 16630,
+    "source_rel": "daewoo/models/nexia/images/2ba211b71fd310aa2df5c0faa1087474918373aaea0a0514d6616f86c034b525.webp"
+  },
+  {
+    "filename": "2be153bee8523908523ccd7435674209acf4d785bf07b233958858636cd1bef6.webp",
+    "size": 22140,
+    "source_rel": "daewoo/models/nexia/images/2be153bee8523908523ccd7435674209acf4d785bf07b233958858636cd1bef6.webp"
+  },
+  {
+    "filename": "2c21c9afe4f6c0a2682db34729fe4411139e509e33920de0c4150ecaa162ec48.webp",
+    "size": 15838,
+    "source_rel": "daewoo/models/nexia/images/2c21c9afe4f6c0a2682db34729fe4411139e509e33920de0c4150ecaa162ec48.webp"
+  },
+  {
+    "filename": "2c2a48d031405eb284b14b96d16ddf45dfa118776296995506881f98a0348260.webp",
+    "size": 63316,
+    "source_rel": "daewoo/models/nexia/images/2c2a48d031405eb284b14b96d16ddf45dfa118776296995506881f98a0348260.webp"
+  },
+  {
+    "filename": "2c5f4f278f3ed8237679988e709bb451c123347e8bccd1933feb3a6e63e93d3e.webp",
+    "size": 20260,
+    "source_rel": "daewoo/models/nexia/images/2c5f4f278f3ed8237679988e709bb451c123347e8bccd1933feb3a6e63e93d3e.webp"
+  },
+  {
+    "filename": "2c7c60e7f1a7b16a1855993a0cf023606b688c6004791e2999dda71537df77ae.webp",
+    "size": 26164,
+    "source_rel": "daewoo/models/nexia/images/2c7c60e7f1a7b16a1855993a0cf023606b688c6004791e2999dda71537df77ae.webp"
+  },
+  {
+    "filename": "2cb896a2423382c1ea4e026ce13eaa4ca057b91980ad275e14d43a10f7377342.webp",
+    "size": 26320,
+    "source_rel": "daewoo/models/nexia/images/2cb896a2423382c1ea4e026ce13eaa4ca057b91980ad275e14d43a10f7377342.webp"
+  },
+  {
+    "filename": "2da1d07b55249b694ab880b6adce90e7503920c5753eec254f6d0e43785e1d49.webp",
+    "size": 27090,
+    "source_rel": "daewoo/models/nexia/images/2da1d07b55249b694ab880b6adce90e7503920c5753eec254f6d0e43785e1d49.webp"
+  },
+  {
+    "filename": "2da610324ed3323b3b8200cae830ed6d503510710da6af280613c45c362700bc.webp",
+    "size": 30968,
+    "source_rel": "daewoo/models/nexia/images/2da610324ed3323b3b8200cae830ed6d503510710da6af280613c45c362700bc.webp"
+  },
+  {
+    "filename": "2dfa9f6e9ef5e00bfd67c9cac470754238d634f84c2ca5dd00bd8c91768a1238.webp",
+    "size": 17542,
+    "source_rel": "daewoo/models/nexia/images/2dfa9f6e9ef5e00bfd67c9cac470754238d634f84c2ca5dd00bd8c91768a1238.webp"
+  },
+  {
+    "filename": "2e14801e3e4dbd4564c3e623d9cac8ab8f5edb7cfc76f0a8b0252396b4bfc705.webp",
+    "size": 20732,
+    "source_rel": "daewoo/models/nexia/images/2e14801e3e4dbd4564c3e623d9cac8ab8f5edb7cfc76f0a8b0252396b4bfc705.webp"
+  },
+  {
+    "filename": "2e8368d474316d01f55c92f1eb624fc81fc5c41137ebfa002619316f1574b9f2.webp",
+    "size": 24232,
+    "source_rel": "daewoo/models/nexia/images/2e8368d474316d01f55c92f1eb624fc81fc5c41137ebfa002619316f1574b9f2.webp"
+  },
+  {
+    "filename": "2f139e6e5194fa9327ab6402aa53b4f708ee728805c25f0ddb734471861d3308.webp",
+    "size": 29798,
+    "source_rel": "daewoo/models/nexia/images/2f139e6e5194fa9327ab6402aa53b4f708ee728805c25f0ddb734471861d3308.webp"
+  },
+  {
+    "filename": "2f14a5cd6d3c6ca968d661f57cc8444e00804808b75f16335c46f8b47bd99827.webp",
+    "size": 24382,
+    "source_rel": "daewoo/models/nexia/images/2f14a5cd6d3c6ca968d661f57cc8444e00804808b75f16335c46f8b47bd99827.webp"
+  },
+  {
+    "filename": "30644c24b93939c7bd9e0a5b33634295304e3d00431499731f2e9f6fceec6061.webp",
+    "size": 17544,
+    "source_rel": "daewoo/models/nexia/images/30644c24b93939c7bd9e0a5b33634295304e3d00431499731f2e9f6fceec6061.webp"
+  },
+  {
+    "filename": "30c11a23c1e1980397c43f552579119246f86ca6d169d64f93adeeb0b1e99d13.webp",
+    "size": 12126,
+    "source_rel": "daewoo/models/nexia/images/30c11a23c1e1980397c43f552579119246f86ca6d169d64f93adeeb0b1e99d13.webp"
+  },
+  {
+    "filename": "30fea66d2f3460736b4007dd6429bedba58a8176618501afa0a3e2d20284816e.webp",
+    "size": 17628,
+    "source_rel": "daewoo/models/nexia/images/30fea66d2f3460736b4007dd6429bedba58a8176618501afa0a3e2d20284816e.webp"
+  },
+  {
+    "filename": "31207c16d3e9e63ad6d6f17e2feff3ed6a45684e25d5e56dad03ec7e1c00dbb5.webp",
+    "size": 16018,
+    "source_rel": "daewoo/models/nexia/images/31207c16d3e9e63ad6d6f17e2feff3ed6a45684e25d5e56dad03ec7e1c00dbb5.webp"
+  },
+  {
+    "filename": "31228d29a3df60b16132916176dec345739b0ad0984822a2d7701347884a316d.webp",
+    "size": 17246,
+    "source_rel": "daewoo/models/nexia/images/31228d29a3df60b16132916176dec345739b0ad0984822a2d7701347884a316d.webp"
+  },
+  {
+    "filename": "315b97375c5808865ba8fdb42584fb8e03a28f2e28c372474126e0fe0d5c62b8.webp",
+    "size": 18996,
+    "source_rel": "daewoo/models/nexia/images/315b97375c5808865ba8fdb42584fb8e03a28f2e28c372474126e0fe0d5c62b8.webp"
+  },
+  {
+    "filename": "3187e30ccf9a9abdada6b58c1f477cd372afdf36d5c6f55daccf2d10f637c69f.webp",
+    "size": 21952,
+    "source_rel": "daewoo/models/nexia/images/3187e30ccf9a9abdada6b58c1f477cd372afdf36d5c6f55daccf2d10f637c69f.webp"
+  },
+  {
+    "filename": "319da471358f14c71a4b4999c6c4100904c860414c5de82886f1b95ac5fc07c1.webp",
+    "size": 17926,
+    "source_rel": "daewoo/models/nexia/images/319da471358f14c71a4b4999c6c4100904c860414c5de82886f1b95ac5fc07c1.webp"
+  },
+  {
+    "filename": "31f35e534f1582d9beb11d3fef1e6581d9d860c606916af9a3211018433e1a9a.webp",
+    "size": 14294,
+    "source_rel": "daewoo/models/nexia/images/31f35e534f1582d9beb11d3fef1e6581d9d860c606916af9a3211018433e1a9a.webp"
+  },
+  {
+    "filename": "32113c55e5c946a815117d5b157bad1a62b27fae165acdc445a2a9c2c7b17ad2.webp",
+    "size": 13374,
+    "source_rel": "daewoo/models/nexia/images/32113c55e5c946a815117d5b157bad1a62b27fae165acdc445a2a9c2c7b17ad2.webp"
+  },
+  {
+    "filename": "3248de6f6508f14ab8d28fdb5759798cb4e83576acfb28b66a40fb6fd3880e51.webp",
+    "size": 18314,
+    "source_rel": "daewoo/models/nexia/images/3248de6f6508f14ab8d28fdb5759798cb4e83576acfb28b66a40fb6fd3880e51.webp"
+  },
+  {
+    "filename": "331c79fe1e86c1bac510e8814681d1f66c25c346b020ad1ccf77ee4c078d400e.webp",
+    "size": 19168,
+    "source_rel": "daewoo/models/nexia/images/331c79fe1e86c1bac510e8814681d1f66c25c346b020ad1ccf77ee4c078d400e.webp"
+  },
+  {
+    "filename": "332c40bd213064536f86cef1d874e23a47b8223ce7af3a61c8bf705512c5f545.webp",
+    "size": 13744,
+    "source_rel": "daewoo/models/nexia/images/332c40bd213064536f86cef1d874e23a47b8223ce7af3a61c8bf705512c5f545.webp"
+  },
+  {
+    "filename": "346f2397f846f6bd7b2cf85159ed842635f633d3af1977d524d8b7b2b49101f7.webp",
+    "size": 19034,
+    "source_rel": "daewoo/models/nexia/images/346f2397f846f6bd7b2cf85159ed842635f633d3af1977d524d8b7b2b49101f7.webp"
+  },
+  {
+    "filename": "34f101309a89afb64bab201fc973f90c2a1691a5d30273d94543a02b1e52909e.webp",
+    "size": 108010,
+    "source_rel": "daewoo/models/nexia/images/34f101309a89afb64bab201fc973f90c2a1691a5d30273d94543a02b1e52909e.webp"
+  },
+  {
+    "filename": "350e306a841b02f28aeeb151d5ec2c6617fb3c24e05e956c2066e70acf9c4996.webp",
+    "size": 26626,
+    "source_rel": "daewoo/models/nexia/images/350e306a841b02f28aeeb151d5ec2c6617fb3c24e05e956c2066e70acf9c4996.webp"
+  },
+  {
+    "filename": "350fb12f40c38028700b03be80c3c1dd119d995ba27778707364dfaa1427fae7.webp",
+    "size": 20636,
+    "source_rel": "daewoo/models/nexia/images/350fb12f40c38028700b03be80c3c1dd119d995ba27778707364dfaa1427fae7.webp"
+  },
+  {
+    "filename": "3546ef96ebd815bb0f687799337ae2d6b009043626e28c4b28832ef21dd5d338.webp",
+    "size": 24484,
+    "source_rel": "daewoo/models/nexia/images/3546ef96ebd815bb0f687799337ae2d6b009043626e28c4b28832ef21dd5d338.webp"
+  },
+  {
+    "filename": "35530d7f083299ac9a3d33d501b67aa6da63edb0a039b771c214417b9c5af6f8.webp",
+    "size": 91610,
+    "source_rel": "daewoo/models/nexia/images/35530d7f083299ac9a3d33d501b67aa6da63edb0a039b771c214417b9c5af6f8.webp"
+  },
+  {
+    "filename": "362f37efc0863dea9be6afd5b296e5d6bb4060987ca3bd7f53cde5937b594b79.webp",
+    "size": 20794,
+    "source_rel": "daewoo/models/nexia/images/362f37efc0863dea9be6afd5b296e5d6bb4060987ca3bd7f53cde5937b594b79.webp"
+  },
+  {
+    "filename": "36d6fb425711f90b01be499192289e0e078a969ded2546f01b699c98fd06b9ce.webp",
+    "size": 31124,
+    "source_rel": "daewoo/models/nexia/images/36d6fb425711f90b01be499192289e0e078a969ded2546f01b699c98fd06b9ce.webp"
+  },
+  {
+    "filename": "36ff3585d737aa2151fdd0bbde1db4991d878c6cdd63581e5425f864db3a5989.webp",
+    "size": 18656,
+    "source_rel": "daewoo/models/nexia/images/36ff3585d737aa2151fdd0bbde1db4991d878c6cdd63581e5425f864db3a5989.webp"
+  },
+  {
+    "filename": "373f6d149502401379091c15a6682aebcd57f4bb462b9dc8b577287d95e17d32.webp",
+    "size": 23948,
+    "source_rel": "daewoo/models/nexia/images/373f6d149502401379091c15a6682aebcd57f4bb462b9dc8b577287d95e17d32.webp"
+  },
+  {
+    "filename": "3872a56b3fd9ca119b9f056ed9b3fd0d5c71fbc58670f5c87940cf5dbf68f01e.webp",
+    "size": 18476,
+    "source_rel": "daewoo/models/nexia/images/3872a56b3fd9ca119b9f056ed9b3fd0d5c71fbc58670f5c87940cf5dbf68f01e.webp"
+  },
+  {
+    "filename": "389f059889783049992484d82b69f9e0f480537d9b0aefc0731bb3975375d52b.webp",
+    "size": 17374,
+    "source_rel": "daewoo/models/nexia/images/389f059889783049992484d82b69f9e0f480537d9b0aefc0731bb3975375d52b.webp"
+  },
+  {
+    "filename": "38a835fdab89a980aea0d9a19a2e1f82da2810642527ec72e3d149eaa47666f7.webp",
+    "size": 25556,
+    "source_rel": "daewoo/models/nexia/images/38a835fdab89a980aea0d9a19a2e1f82da2810642527ec72e3d149eaa47666f7.webp"
+  },
+  {
+    "filename": "38c7fe40042af98c36d6fcf7916880976f44bccbc2675dcbf221be60afe238c2.webp",
+    "size": 22238,
+    "source_rel": "daewoo/models/nexia/images/38c7fe40042af98c36d6fcf7916880976f44bccbc2675dcbf221be60afe238c2.webp"
+  },
+  {
+    "filename": "395aa6e708cdd13f6c42fb59aacc197fdc289296157f8392278dded1983fbaf8.webp",
+    "size": 24936,
+    "source_rel": "daewoo/models/nexia/images/395aa6e708cdd13f6c42fb59aacc197fdc289296157f8392278dded1983fbaf8.webp"
+  },
+  {
+    "filename": "399e2ae6cddf6fb4493ef7048b8df0fcfb7cda200cc7c646428c0560e1daab63.webp",
+    "size": 16034,
+    "source_rel": "daewoo/models/nexia/images/399e2ae6cddf6fb4493ef7048b8df0fcfb7cda200cc7c646428c0560e1daab63.webp"
+  },
+  {
+    "filename": "39bc7b81f0a971a2f54d45aa42b5b6a9d25df87bad940fd5f4400d0cbae58a63.webp",
+    "size": 23210,
+    "source_rel": "daewoo/models/nexia/images/39bc7b81f0a971a2f54d45aa42b5b6a9d25df87bad940fd5f4400d0cbae58a63.webp"
+  },
+  {
+    "filename": "3a0f74cc0b87612e5a9828d795637094ce6356324f62d7083cffccd96b0b4d8c.webp",
+    "size": 27856,
+    "source_rel": "daewoo/models/nexia/images/3a0f74cc0b87612e5a9828d795637094ce6356324f62d7083cffccd96b0b4d8c.webp"
+  },
+  {
+    "filename": "3a258d73f02e3e7609b30b3bb7ef70680b124ee0b5bd078191427e4a13559b56.webp",
+    "size": 15914,
+    "source_rel": "daewoo/models/nexia/images/3a258d73f02e3e7609b30b3bb7ef70680b124ee0b5bd078191427e4a13559b56.webp"
+  },
+  {
+    "filename": "3ae1f99880aed543af85b8384f5f163c9a545b1156ac91dfaae5f9ca5209d0f8.webp",
+    "size": 15320,
+    "source_rel": "daewoo/models/nexia/images/3ae1f99880aed543af85b8384f5f163c9a545b1156ac91dfaae5f9ca5209d0f8.webp"
+  },
+  {
+    "filename": "3b629e74cdbb56b5bc347c6b3eea4ce6cebed42e5f41a17f072c993565d83651.webp",
+    "size": 17772,
+    "source_rel": "daewoo/models/nexia/images/3b629e74cdbb56b5bc347c6b3eea4ce6cebed42e5f41a17f072c993565d83651.webp"
+  },
+  {
+    "filename": "3bc276871c9aba830e01ed5bcb66b15861ff1f00627eef1f39ba44ab65bc0265.webp",
+    "size": 30282,
+    "source_rel": "daewoo/models/nexia/images/3bc276871c9aba830e01ed5bcb66b15861ff1f00627eef1f39ba44ab65bc0265.webp"
+  },
+  {
+    "filename": "3c751848f5eb247608c649016c0c9f24189cdb6803bf3b3af743821cd5b93774.webp",
+    "size": 21640,
+    "source_rel": "daewoo/models/nexia/images/3c751848f5eb247608c649016c0c9f24189cdb6803bf3b3af743821cd5b93774.webp"
+  },
+  {
+    "filename": "3d296b768a34234e0041024d8ca3853d253f104fbe2acb647464af1984b1fe58.webp",
+    "size": 16574,
+    "source_rel": "daewoo/models/nexia/images/3d296b768a34234e0041024d8ca3853d253f104fbe2acb647464af1984b1fe58.webp"
+  },
+  {
+    "filename": "3d755b474163f383d4286fc02e099f7ff9db37c84f08f968880a47f34a25fef7.webp",
+    "size": 19830,
+    "source_rel": "daewoo/models/nexia/images/3d755b474163f383d4286fc02e099f7ff9db37c84f08f968880a47f34a25fef7.webp"
+  },
+  {
+    "filename": "3e1e7ca5e474ea0fbd0e8e2a0a831fcc16313855b10654063b0977cba9b13002.webp",
+    "size": 1218,
+    "source_rel": "daewoo/models/nexia/images/3e1e7ca5e474ea0fbd0e8e2a0a831fcc16313855b10654063b0977cba9b13002.webp"
+  },
+  {
+    "filename": "3e445f27b0b6c3d61ee5ceca48b5c75994f21ede4b0d3ab1560fc5762f17fb1d.webp",
+    "size": 16298,
+    "source_rel": "daewoo/models/nexia/images/3e445f27b0b6c3d61ee5ceca48b5c75994f21ede4b0d3ab1560fc5762f17fb1d.webp"
+  },
+  {
+    "filename": "3e67f294ab21836e79397e312ad17c29feba8b21a39aa3ba462467291dfe4657.webp",
+    "size": 17766,
+    "source_rel": "daewoo/models/nexia/images/3e67f294ab21836e79397e312ad17c29feba8b21a39aa3ba462467291dfe4657.webp"
+  },
+  {
+    "filename": "3e6b7f640fa943e7eaf80c754003cc1cc64b64e1281eda3431dad5892716ab04.webp",
+    "size": 18068,
+    "source_rel": "daewoo/models/nexia/images/3e6b7f640fa943e7eaf80c754003cc1cc64b64e1281eda3431dad5892716ab04.webp"
+  },
+  {
+    "filename": "3f5c6a10be1970c1d4c7fcc6cb0219faecd92b79416344b68659faa71347f380.webp",
+    "size": 19320,
+    "source_rel": "daewoo/models/nexia/images/3f5c6a10be1970c1d4c7fcc6cb0219faecd92b79416344b68659faa71347f380.webp"
+  },
+  {
+    "filename": "3fbf4518f0f5c6402acba9ea14883f0425881565f3b06d0ba18ffc363095a326.webp",
+    "size": 25470,
+    "source_rel": "daewoo/models/nexia/images/3fbf4518f0f5c6402acba9ea14883f0425881565f3b06d0ba18ffc363095a326.webp"
+  },
+  {
+    "filename": "3ffdb15362f467bd77e574816c74d446cc0f7ba58a783fd7f363858f2ee4f502.webp",
+    "size": 11900,
+    "source_rel": "daewoo/models/nexia/images/3ffdb15362f467bd77e574816c74d446cc0f7ba58a783fd7f363858f2ee4f502.webp"
+  },
+  {
+    "filename": "40a1cc4479ad472bff2fbc456566bacc72da5db6acbc3e7e32118c9d099b8ee3.webp",
+    "size": 16020,
+    "source_rel": "daewoo/models/nexia/images/40a1cc4479ad472bff2fbc456566bacc72da5db6acbc3e7e32118c9d099b8ee3.webp"
+  },
+  {
+    "filename": "429a3aaf2620cf0042f7241c8c739f9603db538ab70de90c83ca5c5a6b1c96b2.webp",
+    "size": 19020,
+    "source_rel": "daewoo/models/nexia/images/429a3aaf2620cf0042f7241c8c739f9603db538ab70de90c83ca5c5a6b1c96b2.webp"
+  },
+  {
+    "filename": "429b825b3fd53e8f8b8a3871cf4930c69fbc9b650f8357cf2042ed7df5980d1a.webp",
+    "size": 20846,
+    "source_rel": "daewoo/models/nexia/images/429b825b3fd53e8f8b8a3871cf4930c69fbc9b650f8357cf2042ed7df5980d1a.webp"
+  },
+  {
+    "filename": "42b3d3063ea4526faaf44c98b82a2b8216a808e219d86c4dc1dfb0f960b2e73a.webp",
+    "size": 14528,
+    "source_rel": "daewoo/models/nexia/images/42b3d3063ea4526faaf44c98b82a2b8216a808e219d86c4dc1dfb0f960b2e73a.webp"
+  },
+  {
+    "filename": "437e1d202039e33010ff6d36b2b6576f5c95eaa5183cf99bb4cfb93e39746b16.webp",
+    "size": 19214,
+    "source_rel": "daewoo/models/nexia/images/437e1d202039e33010ff6d36b2b6576f5c95eaa5183cf99bb4cfb93e39746b16.webp"
+  },
+  {
+    "filename": "43cee2a1f49f892b7fc69377a5cffd4d38bf19d72610e74745240e25367e58fe.webp",
+    "size": 11010,
+    "source_rel": "daewoo/models/nexia/images/43cee2a1f49f892b7fc69377a5cffd4d38bf19d72610e74745240e25367e58fe.webp"
+  },
+  {
+    "filename": "43def11f93aea988046251ebbf88b9045a6b0e9956e0f1de2542a42af785b33c.webp",
+    "size": 20440,
+    "source_rel": "daewoo/models/nexia/images/43def11f93aea988046251ebbf88b9045a6b0e9956e0f1de2542a42af785b33c.webp"
+  },
+  {
+    "filename": "4414e5e72b41330e106cf2c836a033349fc72ccd87773a744bcdae737784ca8c.webp",
+    "size": 40136,
+    "source_rel": "daewoo/models/nexia/images/4414e5e72b41330e106cf2c836a033349fc72ccd87773a744bcdae737784ca8c.webp"
+  },
+  {
+    "filename": "447aacf9bb94847e06baa7e33c2bf80dadab9e61f592128dfd4dc5552e114860.webp",
+    "size": 19422,
+    "source_rel": "daewoo/models/nexia/images/447aacf9bb94847e06baa7e33c2bf80dadab9e61f592128dfd4dc5552e114860.webp"
+  },
+  {
+    "filename": "451887359ee16991be18d56fcab7ab18484ce37649db34045e41f15d3a350922.webp",
+    "size": 18072,
+    "source_rel": "daewoo/models/nexia/images/451887359ee16991be18d56fcab7ab18484ce37649db34045e41f15d3a350922.webp"
+  },
+  {
+    "filename": "453484d2d10bb4caa2b455c4a8fb2b5e12b2287568e28c89eafb1d01f7925baf.webp",
+    "size": 51544,
+    "source_rel": "daewoo/models/nexia/images/453484d2d10bb4caa2b455c4a8fb2b5e12b2287568e28c89eafb1d01f7925baf.webp"
+  },
+  {
+    "filename": "4588b0779d24b1e6f8cb096fa3a28c64195394c41190629a6b29504066af0051.webp",
+    "size": 110118,
+    "source_rel": "daewoo/models/nexia/images/4588b0779d24b1e6f8cb096fa3a28c64195394c41190629a6b29504066af0051.webp"
+  },
+  {
+    "filename": "45a52ea8491639ce4cfbef9876f9a54f802e27f13b2ba4e35b7dadadb8ad2cec.webp",
+    "size": 19660,
+    "source_rel": "daewoo/models/nexia/images/45a52ea8491639ce4cfbef9876f9a54f802e27f13b2ba4e35b7dadadb8ad2cec.webp"
+  },
+  {
+    "filename": "4706a9aae5d15b2eaa62e5d9b3e55fffc1078d5f8a3ba3b4dc557d7ae094ec79.webp",
+    "size": 18306,
+    "source_rel": "daewoo/models/nexia/images/4706a9aae5d15b2eaa62e5d9b3e55fffc1078d5f8a3ba3b4dc557d7ae094ec79.webp"
+  },
+  {
+    "filename": "4727b8be2e42b9f609f78c0e7b02dc836f8c921c7bf778b4129dd5320dd73a9e.webp",
+    "size": 13166,
+    "source_rel": "daewoo/models/nexia/images/4727b8be2e42b9f609f78c0e7b02dc836f8c921c7bf778b4129dd5320dd73a9e.webp"
+  },
+  {
+    "filename": "47bd191985ae613c6f1c1ce8e7423f16cc4b11911eb9d5d059bce5b021408b26.webp",
+    "size": 14420,
+    "source_rel": "daewoo/models/nexia/images/47bd191985ae613c6f1c1ce8e7423f16cc4b11911eb9d5d059bce5b021408b26.webp"
+  },
+  {
+    "filename": "47d0002428451c0f9cc1a8f307bb99dccb2344145fdd89996b05c50c56ea251d.webp",
+    "size": 14412,
+    "source_rel": "daewoo/models/nexia/images/47d0002428451c0f9cc1a8f307bb99dccb2344145fdd89996b05c50c56ea251d.webp"
+  },
+  {
+    "filename": "4915ac98a39ab6026ef89ce1a826cb6ad8e3252eaaba9d845d3d83cd1f3d6d11.webp",
+    "size": 38416,
+    "source_rel": "daewoo/models/nexia/images/4915ac98a39ab6026ef89ce1a826cb6ad8e3252eaaba9d845d3d83cd1f3d6d11.webp"
+  },
+  {
+    "filename": "49519b0dd2ef98fcd2b7be72cfd183d90675f01f6e3b3a9456d2b2c7ac1dff7f.webp",
+    "size": 18342,
+    "source_rel": "daewoo/models/nexia/images/49519b0dd2ef98fcd2b7be72cfd183d90675f01f6e3b3a9456d2b2c7ac1dff7f.webp"
+  },
+  {
+    "filename": "497c1c1c44f6f6c98340bc22ad2b5e7e012d119384ac03655ff90647e4b82239.webp",
+    "size": 61620,
+    "source_rel": "daewoo/models/nexia/images/497c1c1c44f6f6c98340bc22ad2b5e7e012d119384ac03655ff90647e4b82239.webp"
+  },
+  {
+    "filename": "49a3af75a3be320981984c7227fb80b3c9840a9d79805a968ad6811d3edf8f87.webp",
+    "size": 14728,
+    "source_rel": "daewoo/models/nexia/images/49a3af75a3be320981984c7227fb80b3c9840a9d79805a968ad6811d3edf8f87.webp"
+  },
+  {
+    "filename": "49ba24137296b6dab40275bad60fc64830c399206624de216d9afe5fe46cceaf.webp",
+    "size": 24118,
+    "source_rel": "daewoo/models/nexia/images/49ba24137296b6dab40275bad60fc64830c399206624de216d9afe5fe46cceaf.webp"
+  },
+  {
+    "filename": "4a19d2c0cb765a164ec324e1e9bcf109cacb6ea2618ecb9f5625e4f96df7746b.webp",
+    "size": 23144,
+    "source_rel": "daewoo/models/nexia/images/4a19d2c0cb765a164ec324e1e9bcf109cacb6ea2618ecb9f5625e4f96df7746b.webp"
+  },
+  {
+    "filename": "4aaf3319555b15728e089bd0e129c7ea2bf7432d0415f8ee0c61704e3167eb48.webp",
+    "size": 16102,
+    "source_rel": "daewoo/models/nexia/images/4aaf3319555b15728e089bd0e129c7ea2bf7432d0415f8ee0c61704e3167eb48.webp"
+  },
+  {
+    "filename": "4ad2047ac4cc842cd1f44f47acbcbbe130d1e04d2d466a1aebbf70df27c08f54.webp",
+    "size": 13232,
+    "source_rel": "daewoo/models/nexia/images/4ad2047ac4cc842cd1f44f47acbcbbe130d1e04d2d466a1aebbf70df27c08f54.webp"
+  },
+  {
+    "filename": "4ae4c05d210fc103b95b01896c34e5edda3eebd825510d3240009e91878ab349.webp",
+    "size": 36054,
+    "source_rel": "daewoo/models/nexia/images/4ae4c05d210fc103b95b01896c34e5edda3eebd825510d3240009e91878ab349.webp"
+  },
+  {
+    "filename": "4b3fc5f7a8e3b5f61b80f3059d4687576194ad0cc9fcd5d00abe57283d1f8952.webp",
+    "size": 18942,
+    "source_rel": "daewoo/models/nexia/images/4b3fc5f7a8e3b5f61b80f3059d4687576194ad0cc9fcd5d00abe57283d1f8952.webp"
+  },
+  {
+    "filename": "4bba72bd508b420bb5563ca984534a0b4f557a1678e19ed63ae18b08ec10ab5f.webp",
+    "size": 13344,
+    "source_rel": "daewoo/models/nexia/images/4bba72bd508b420bb5563ca984534a0b4f557a1678e19ed63ae18b08ec10ab5f.webp"
+  },
+  {
+    "filename": "4c15892783f90a2232cd2b6350e234981baac5f095e26564f7d3b06b47ac544c.webp",
+    "size": 16366,
+    "source_rel": "daewoo/models/nexia/images/4c15892783f90a2232cd2b6350e234981baac5f095e26564f7d3b06b47ac544c.webp"
+  },
+  {
+    "filename": "4c1599611b25e32e1180ec04e10b61108548cff9e5370607855a1c9404a4ede0.webp",
+    "size": 13866,
+    "source_rel": "daewoo/models/nexia/images/4c1599611b25e32e1180ec04e10b61108548cff9e5370607855a1c9404a4ede0.webp"
+  },
+  {
+    "filename": "4c39bd9f0b0c6b4a509e428109632f1bef296eb4efa2ff1b61b5ef1bbd7bba0e.webp",
+    "size": 97596,
+    "source_rel": "daewoo/models/nexia/images/4c39bd9f0b0c6b4a509e428109632f1bef296eb4efa2ff1b61b5ef1bbd7bba0e.webp"
+  },
+  {
+    "filename": "4c48a9220db2f677a5ac1bf740add827b25895297678147bd1492cf6cce53e1a.webp",
+    "size": 11864,
+    "source_rel": "daewoo/models/nexia/images/4c48a9220db2f677a5ac1bf740add827b25895297678147bd1492cf6cce53e1a.webp"
+  },
+  {
+    "filename": "4c8e4094594e18db766b098f6996337ebc0826513c5342556e38c283130556cd.webp",
+    "size": 20724,
+    "source_rel": "daewoo/models/nexia/images/4c8e4094594e18db766b098f6996337ebc0826513c5342556e38c283130556cd.webp"
+  },
+  {
+    "filename": "4cefdc27ccdb0bdf15e79bf063661d2676ddb79fd64aa7959f61967619630eaa.webp",
+    "size": 238,
+    "source_rel": "daewoo/models/nexia/images/4cefdc27ccdb0bdf15e79bf063661d2676ddb79fd64aa7959f61967619630eaa.webp"
+  },
+  {
+    "filename": "4d75c59d6c1f7d0fbe1d6f90246f8e8e2a07b07c8ddfe5cfbb1ff73ad78a1f7e.webp",
+    "size": 15722,
+    "source_rel": "daewoo/models/nexia/images/4d75c59d6c1f7d0fbe1d6f90246f8e8e2a07b07c8ddfe5cfbb1ff73ad78a1f7e.webp"
+  },
+  {
+    "filename": "4d8628992487d4bec5b1d4b10031ed9d2e495f3489fc7cd9ce07fbbb62ce3921.webp",
+    "size": 21120,
+    "source_rel": "daewoo/models/nexia/images/4d8628992487d4bec5b1d4b10031ed9d2e495f3489fc7cd9ce07fbbb62ce3921.webp"
+  },
+  {
+    "filename": "4da99df2e8a8c0c5890bda772f5df182fb33bd352e5955db8a29aba578be8eba.webp",
+    "size": 21386,
+    "source_rel": "daewoo/models/nexia/images/4da99df2e8a8c0c5890bda772f5df182fb33bd352e5955db8a29aba578be8eba.webp"
+  },
+  {
+    "filename": "4db384d67557855e27354cec3b05c06322a224a46966662b90788885636a3855.webp",
+    "size": 20996,
+    "source_rel": "daewoo/models/nexia/images/4db384d67557855e27354cec3b05c06322a224a46966662b90788885636a3855.webp"
+  },
+  {
+    "filename": "4dcd5accebf49a180fe624dc160d103604b370f027b574391d2e7efe406643e0.webp",
+    "size": 17416,
+    "source_rel": "daewoo/models/nexia/images/4dcd5accebf49a180fe624dc160d103604b370f027b574391d2e7efe406643e0.webp"
+  },
+  {
+    "filename": "4e78fbe4aadb00bdd1e9c24a95920c62503ca6cede3f5b30946358ce8e8e2cab.webp",
+    "size": 19214,
+    "source_rel": "daewoo/models/nexia/images/4e78fbe4aadb00bdd1e9c24a95920c62503ca6cede3f5b30946358ce8e8e2cab.webp"
+  },
+  {
+    "filename": "4ecdd407bc23c45edfbcf293ca5cfc2d8af6a93fb17daee41641cca46e0b0a36.webp",
+    "size": 18864,
+    "source_rel": "daewoo/models/nexia/images/4ecdd407bc23c45edfbcf293ca5cfc2d8af6a93fb17daee41641cca46e0b0a36.webp"
+  },
+  {
+    "filename": "4fc20bc5cdf325f59ca342a0590f3205f1396c0128847ddb831a021fdca708f3.webp",
+    "size": 18046,
+    "source_rel": "daewoo/models/nexia/images/4fc20bc5cdf325f59ca342a0590f3205f1396c0128847ddb831a021fdca708f3.webp"
+  },
+  {
+    "filename": "500bdae92af9309e84d09c19fde0182516ca75118dead7c48a72191671f285fb.webp",
+    "size": 19326,
+    "source_rel": "daewoo/models/nexia/images/500bdae92af9309e84d09c19fde0182516ca75118dead7c48a72191671f285fb.webp"
+  },
+  {
+    "filename": "5024598d7c1dc143dfc1a96efcd7f6578e93d2abeb64a8a1e9780ce1db3af70a.webp",
+    "size": 17114,
+    "source_rel": "daewoo/models/nexia/images/5024598d7c1dc143dfc1a96efcd7f6578e93d2abeb64a8a1e9780ce1db3af70a.webp"
+  },
+  {
+    "filename": "503b34a807e599fd0a6c920382a205b4433f5b2a329d9969dc5a16a3438f4d6a.webp",
+    "size": 27602,
+    "source_rel": "daewoo/models/nexia/images/503b34a807e599fd0a6c920382a205b4433f5b2a329d9969dc5a16a3438f4d6a.webp"
+  },
+  {
+    "filename": "50b82f9f77e216d728de21b2b435924fba3fe80bd3388b75e12aea7bdec0f513.webp",
+    "size": 21320,
+    "source_rel": "daewoo/models/nexia/images/50b82f9f77e216d728de21b2b435924fba3fe80bd3388b75e12aea7bdec0f513.webp"
+  },
+  {
+    "filename": "50cb60110ac6b07929cfaf584a93f8849f41a3b212eb98a00170ea53e277ac5f.webp",
+    "size": 22306,
+    "source_rel": "daewoo/models/nexia/images/50cb60110ac6b07929cfaf584a93f8849f41a3b212eb98a00170ea53e277ac5f.webp"
+  },
+  {
+    "filename": "50f983ba4db53e121f95bf0512abb0d0888b8ce04812e8f0d42b53f430d9d4e5.webp",
+    "size": 32322,
+    "source_rel": "daewoo/models/nexia/images/50f983ba4db53e121f95bf0512abb0d0888b8ce04812e8f0d42b53f430d9d4e5.webp"
+  },
+  {
+    "filename": "50fe70c17a43c04c336b28db47db695d6dcf15d6383dd929b37892e1922486ca.webp",
+    "size": 30888,
+    "source_rel": "daewoo/models/nexia/images/50fe70c17a43c04c336b28db47db695d6dcf15d6383dd929b37892e1922486ca.webp"
+  },
+  {
+    "filename": "511a28a65aa5d4006cca268f4b217b501ce0dba89b8c2b74d9ea02ad7d28db14.webp",
+    "size": 17034,
+    "source_rel": "daewoo/models/nexia/images/511a28a65aa5d4006cca268f4b217b501ce0dba89b8c2b74d9ea02ad7d28db14.webp"
+  },
+  {
+    "filename": "51405f8c0e22c0eab7f71e33f68b28aba4c748f4478fc783ec5e15bfc241b250.webp",
+    "size": 17258,
+    "source_rel": "daewoo/models/nexia/images/51405f8c0e22c0eab7f71e33f68b28aba4c748f4478fc783ec5e15bfc241b250.webp"
+  },
+  {
+    "filename": "51804f6ca542b98fdc8e33e317952d938a860a21b769d0c1c68b6dc8a94634fb.webp",
+    "size": 14668,
+    "source_rel": "daewoo/models/nexia/images/51804f6ca542b98fdc8e33e317952d938a860a21b769d0c1c68b6dc8a94634fb.webp"
+  },
+  {
+    "filename": "51ba27f3477a176790aaaa3dfb09ecd573bf3c0a0b29eeb81aef31e99b17e87e.webp",
+    "size": 18510,
+    "source_rel": "daewoo/models/nexia/images/51ba27f3477a176790aaaa3dfb09ecd573bf3c0a0b29eeb81aef31e99b17e87e.webp"
+  },
+  {
+    "filename": "51f24e1499e9eec1d8e751eb3611f0782905175a8323407134910d290ba5cb37.webp",
+    "size": 17420,
+    "source_rel": "daewoo/models/nexia/images/51f24e1499e9eec1d8e751eb3611f0782905175a8323407134910d290ba5cb37.webp"
+  },
+  {
+    "filename": "52d68ac5349a27287ebad8a0ed5bc30311b071781c6de0c779edb622fc7ea91d.webp",
+    "size": 33616,
+    "source_rel": "daewoo/models/nexia/images/52d68ac5349a27287ebad8a0ed5bc30311b071781c6de0c779edb622fc7ea91d.webp"
+  },
+  {
+    "filename": "5362fe9ea328a1a11455e198744e31f7a6ba917d9bd664abb9c992243a752ffd.webp",
+    "size": 16632,
+    "source_rel": "daewoo/models/nexia/images/5362fe9ea328a1a11455e198744e31f7a6ba917d9bd664abb9c992243a752ffd.webp"
+  },
+  {
+    "filename": "539f7ffd457c8a23137aa0407909c192718d6903e699ef08014ff059fc75a284.webp",
+    "size": 19638,
+    "source_rel": "daewoo/models/nexia/images/539f7ffd457c8a23137aa0407909c192718d6903e699ef08014ff059fc75a284.webp"
+  },
+  {
+    "filename": "542cd2cf7e3af0ca80bdee4759acaf6a4ac8cb8fe4c47462bc6bacb400f34e45.webp",
+    "size": 33476,
+    "source_rel": "daewoo/models/nexia/images/542cd2cf7e3af0ca80bdee4759acaf6a4ac8cb8fe4c47462bc6bacb400f34e45.webp"
+  },
+  {
+    "filename": "54468157909ede1c7c76e162af0a52655dfa3d9f0e170216c81a7e612b30162a.webp",
+    "size": 16576,
+    "source_rel": "daewoo/models/nexia/images/54468157909ede1c7c76e162af0a52655dfa3d9f0e170216c81a7e612b30162a.webp"
+  },
+  {
+    "filename": "548fc00ed08a4538ce683d79b1b26589330cbbafe50dc6dabc5469659ee95478.webp",
+    "size": 17968,
+    "source_rel": "daewoo/models/nexia/images/548fc00ed08a4538ce683d79b1b26589330cbbafe50dc6dabc5469659ee95478.webp"
+  },
+  {
+    "filename": "54dcbe4f3648d8f4922d6b78e10e250d169cf258dc25bfdb7033d1c3b0c5c2f5.webp",
+    "size": 19898,
+    "source_rel": "daewoo/models/nexia/images/54dcbe4f3648d8f4922d6b78e10e250d169cf258dc25bfdb7033d1c3b0c5c2f5.webp"
+  },
+  {
+    "filename": "55032311ac8a109db98be6b4e775a0d13672844208f47bc5fabe791cabc11bf0.webp",
+    "size": 17856,
+    "source_rel": "daewoo/models/nexia/images/55032311ac8a109db98be6b4e775a0d13672844208f47bc5fabe791cabc11bf0.webp"
+  },
+  {
+    "filename": "55243f32553698a6d8ada262b145963dbf1dd170eebe2868e9369470d3893ff7.webp",
+    "size": 13236,
+    "source_rel": "daewoo/models/nexia/images/55243f32553698a6d8ada262b145963dbf1dd170eebe2868e9369470d3893ff7.webp"
+  },
+  {
+    "filename": "5617d8e97a64668c7220941f68be8e2afd5dac72e0b7bd7bb1cef29b1f1a5cb6.webp",
+    "size": 23644,
+    "source_rel": "daewoo/models/nexia/images/5617d8e97a64668c7220941f68be8e2afd5dac72e0b7bd7bb1cef29b1f1a5cb6.webp"
+  },
+  {
+    "filename": "56cce90292f961576ee30ea6a893989f62bd23833b876db7f600d5b07233f7c2.webp",
+    "size": 21462,
+    "source_rel": "daewoo/models/nexia/images/56cce90292f961576ee30ea6a893989f62bd23833b876db7f600d5b07233f7c2.webp"
+  },
+  {
+    "filename": "56ded8b0903aa5812948ff497eb55c43d8e6725437a4e35de82e5cd25f2b7872.webp",
+    "size": 15618,
+    "source_rel": "daewoo/models/nexia/images/56ded8b0903aa5812948ff497eb55c43d8e6725437a4e35de82e5cd25f2b7872.webp"
+  },
+  {
+    "filename": "572387a1467fa60e18c204aec2935a15e1b72e7db044b832bf61ce2ddba3b346.webp",
+    "size": 105556,
+    "source_rel": "daewoo/models/nexia/images/572387a1467fa60e18c204aec2935a15e1b72e7db044b832bf61ce2ddba3b346.webp"
+  },
+  {
+    "filename": "57252c3795d6e74fa2ad1c939b45dd98cbc9829af4fd5d1ca43e37727f435ec1.webp",
+    "size": 15190,
+    "source_rel": "daewoo/models/nexia/images/57252c3795d6e74fa2ad1c939b45dd98cbc9829af4fd5d1ca43e37727f435ec1.webp"
+  },
+  {
+    "filename": "57fa7bafe6b309aaac0ba81b6f44688f33d4b2eabfca5e08db3875969e7f5b6b.webp",
+    "size": 18086,
+    "source_rel": "daewoo/models/nexia/images/57fa7bafe6b309aaac0ba81b6f44688f33d4b2eabfca5e08db3875969e7f5b6b.webp"
+  },
+  {
+    "filename": "580255e1d02ec6568f4a08f6c0afbe1cff3503e59f1fc9895b5f3da194ef7481.webp",
+    "size": 16090,
+    "source_rel": "daewoo/models/nexia/images/580255e1d02ec6568f4a08f6c0afbe1cff3503e59f1fc9895b5f3da194ef7481.webp"
+  },
+  {
+    "filename": "580a40861b524e90304b3e15d4710fe7b3a17fa6d1f5cd1f2a3cc9ebdbe9641d.webp",
+    "size": 26138,
+    "source_rel": "daewoo/models/nexia/images/580a40861b524e90304b3e15d4710fe7b3a17fa6d1f5cd1f2a3cc9ebdbe9641d.webp"
+  },
+  {
+    "filename": "5844ccb13330f52f6f0f892902e1da178eec7251f432aa7f69c0437b9756ba9b.webp",
+    "size": 18192,
+    "source_rel": "daewoo/models/nexia/images/5844ccb13330f52f6f0f892902e1da178eec7251f432aa7f69c0437b9756ba9b.webp"
+  },
+  {
+    "filename": "589a99e3efc935f36da584e2a4fe4a4f04645ec5dd46bb1d275b7505f30fe478.webp",
+    "size": 18064,
+    "source_rel": "daewoo/models/nexia/images/589a99e3efc935f36da584e2a4fe4a4f04645ec5dd46bb1d275b7505f30fe478.webp"
+  },
+  {
+    "filename": "58e785f8eb1974883274164581a10a5c1890a05b3f5b7b87beb3342f7ee3a725.webp",
+    "size": 26592,
+    "source_rel": "daewoo/models/nexia/images/58e785f8eb1974883274164581a10a5c1890a05b3f5b7b87beb3342f7ee3a725.webp"
+  },
+  {
+    "filename": "592c93441bdd383a58584331a5b5601ecdfbc0646781bdb83cb1476abe1a815e.webp",
+    "size": 26996,
+    "source_rel": "daewoo/models/nexia/images/592c93441bdd383a58584331a5b5601ecdfbc0646781bdb83cb1476abe1a815e.webp"
+  },
+  {
+    "filename": "59304ecc95a47804d93c2e29829a441fe83433a14e8db3fe62ff5227ed68c7cd.webp",
+    "size": 16970,
+    "source_rel": "daewoo/models/nexia/images/59304ecc95a47804d93c2e29829a441fe83433a14e8db3fe62ff5227ed68c7cd.webp"
+  },
+  {
+    "filename": "5931c968933e82d259bdf97d9c702a5d89add06bac46125e50761e39923e86ac.webp",
+    "size": 27052,
+    "source_rel": "daewoo/models/nexia/images/5931c968933e82d259bdf97d9c702a5d89add06bac46125e50761e39923e86ac.webp"
+  },
+  {
+    "filename": "5984c31e89b63cb67079b56ac337f5b0f33d9ad91ab2169c41d6e4436d03f9a1.webp",
+    "size": 13234,
+    "source_rel": "daewoo/models/nexia/images/5984c31e89b63cb67079b56ac337f5b0f33d9ad91ab2169c41d6e4436d03f9a1.webp"
+  },
+  {
+    "filename": "5a2d0632af8e323a618bea2c9e4b03e6ba567a1fefeb896fdcb2737aefe3a950.webp",
+    "size": 12676,
+    "source_rel": "daewoo/models/nexia/images/5a2d0632af8e323a618bea2c9e4b03e6ba567a1fefeb896fdcb2737aefe3a950.webp"
+  },
+  {
+    "filename": "5a69f038151349847e1f9fa64b5657b434fc1874ce2412df6e4a7b79d4704a40.webp",
+    "size": 21080,
+    "source_rel": "daewoo/models/nexia/images/5a69f038151349847e1f9fa64b5657b434fc1874ce2412df6e4a7b79d4704a40.webp"
+  },
+  {
+    "filename": "5afd0dd8c242f1c2abbf14d09bc0cc6745969b7e6af9f0bf3a569b8dc609c959.webp",
+    "size": 13430,
+    "source_rel": "daewoo/models/nexia/images/5afd0dd8c242f1c2abbf14d09bc0cc6745969b7e6af9f0bf3a569b8dc609c959.webp"
+  },
+  {
+    "filename": "5bd5ed58f56771ec04c034dd20f67d82ea1fc0594786cfd0536e3d8746826063.webp",
+    "size": 16988,
+    "source_rel": "daewoo/models/nexia/images/5bd5ed58f56771ec04c034dd20f67d82ea1fc0594786cfd0536e3d8746826063.webp"
+  },
+  {
+    "filename": "5bf1356ce2b64c0bcebbe9f247769e469246d170bd1f64abb0d3ba130b2d42db.webp",
+    "size": 20660,
+    "source_rel": "daewoo/models/nexia/images/5bf1356ce2b64c0bcebbe9f247769e469246d170bd1f64abb0d3ba130b2d42db.webp"
+  },
+  {
+    "filename": "5bf47b9047dbdecfde0bc7d602109439328364858cc9de3be6b37eef5d81ad67.webp",
+    "size": 18878,
+    "source_rel": "daewoo/models/nexia/images/5bf47b9047dbdecfde0bc7d602109439328364858cc9de3be6b37eef5d81ad67.webp"
+  },
+  {
+    "filename": "5c5f64ad4e50beb108c4d9d579ca240d4d4ce02de857125dd789b5672caf4b77.webp",
+    "size": 19696,
+    "source_rel": "daewoo/models/nexia/images/5c5f64ad4e50beb108c4d9d579ca240d4d4ce02de857125dd789b5672caf4b77.webp"
+  },
+  {
+    "filename": "5c8b4c910cbade4aadc6bd8f43c5e90eb7fd656a19aad4693772ba4c1c63a5c7.webp",
+    "size": 28160,
+    "source_rel": "daewoo/models/nexia/images/5c8b4c910cbade4aadc6bd8f43c5e90eb7fd656a19aad4693772ba4c1c63a5c7.webp"
+  },
+  {
+    "filename": "5cd40ce60763da6cb4e739a984fb8cab5a676d692c0cb8d272a1f15ff0024c7a.webp",
+    "size": 20082,
+    "source_rel": "daewoo/models/nexia/images/5cd40ce60763da6cb4e739a984fb8cab5a676d692c0cb8d272a1f15ff0024c7a.webp"
+  },
+  {
+    "filename": "5dbe00710c245ee64def106a34a96c5a8625c9512bba0b16b9db98cf240c11de.webp",
+    "size": 24824,
+    "source_rel": "daewoo/models/nexia/images/5dbe00710c245ee64def106a34a96c5a8625c9512bba0b16b9db98cf240c11de.webp"
+  },
+  {
+    "filename": "5dea2e305e3e7335bb89dcfc0c0b8190dada7cc3b7b5fc45004ad027af89b2c8.webp",
+    "size": 20966,
+    "source_rel": "daewoo/models/nexia/images/5dea2e305e3e7335bb89dcfc0c0b8190dada7cc3b7b5fc45004ad027af89b2c8.webp"
+  },
+  {
+    "filename": "5eee8a5659cadd28815e01db7cdb70e6e438600a6751cd61cf09d3d96e0f6ab8.webp",
+    "size": 16816,
+    "source_rel": "daewoo/models/nexia/images/5eee8a5659cadd28815e01db7cdb70e6e438600a6751cd61cf09d3d96e0f6ab8.webp"
+  },
+  {
+    "filename": "5f81cf2073e60f5dc847ebdb8d43fedfed5f516ea1092d5ae25405f19acddeb1.webp",
+    "size": 19776,
+    "source_rel": "daewoo/models/nexia/images/5f81cf2073e60f5dc847ebdb8d43fedfed5f516ea1092d5ae25405f19acddeb1.webp"
+  },
+  {
+    "filename": "600148fda4f7bd880cb5ba52e4af4b3f2031f0f7b378e1a0cb75cb2fd1ac9d76.webp",
+    "size": 20016,
+    "source_rel": "daewoo/models/nexia/images/600148fda4f7bd880cb5ba52e4af4b3f2031f0f7b378e1a0cb75cb2fd1ac9d76.webp"
+  },
+  {
+    "filename": "605367a422654a33bfa4054c7d6c9f125d9a5ec190728d71445bba3ad6c7cdf1.webp",
+    "size": 17754,
+    "source_rel": "daewoo/models/nexia/images/605367a422654a33bfa4054c7d6c9f125d9a5ec190728d71445bba3ad6c7cdf1.webp"
+  },
+  {
+    "filename": "60657fe04f6f4338f0213caeb2dc292e3ca7596066329d241c4d284d2b353b87.webp",
+    "size": 23816,
+    "source_rel": "daewoo/models/nexia/images/60657fe04f6f4338f0213caeb2dc292e3ca7596066329d241c4d284d2b353b87.webp"
+  },
+  {
+    "filename": "6073297c09ec7e4c9776c6fc32cdf5fac46314d3fbe89ceaac9a63772877aa7b.webp",
+    "size": 18616,
+    "source_rel": "daewoo/models/nexia/images/6073297c09ec7e4c9776c6fc32cdf5fac46314d3fbe89ceaac9a63772877aa7b.webp"
+  },
+  {
+    "filename": "6138a262f48f6207fbac33227210c58364b7bd58a27688b7a3b9386b41cef8c4.webp",
+    "size": 22372,
+    "source_rel": "daewoo/models/nexia/images/6138a262f48f6207fbac33227210c58364b7bd58a27688b7a3b9386b41cef8c4.webp"
+  },
+  {
+    "filename": "613b5f2c97e74f2975d05321368fd0f2e22e09676a5a3ffb56f4d27bbdf1eb6b.webp",
+    "size": 18216,
+    "source_rel": "daewoo/models/nexia/images/613b5f2c97e74f2975d05321368fd0f2e22e09676a5a3ffb56f4d27bbdf1eb6b.webp"
+  },
+  {
+    "filename": "635261e37da252dd124bea447dbdb98f32c522f84f23f96eb69cbde66aeeb81d.webp",
+    "size": 13804,
+    "source_rel": "daewoo/models/nexia/images/635261e37da252dd124bea447dbdb98f32c522f84f23f96eb69cbde66aeeb81d.webp"
+  },
+  {
+    "filename": "639736958d663a10abb75c4c2ccec43786a0dfea7b5682c136e6fed77d65f445.webp",
+    "size": 15474,
+    "source_rel": "daewoo/models/nexia/images/639736958d663a10abb75c4c2ccec43786a0dfea7b5682c136e6fed77d65f445.webp"
+  },
+  {
+    "filename": "648f2f07b3760cb4c44f09f9616b9e43be97666faebd90db1cc0f7dd098b23b4.webp",
+    "size": 16746,
+    "source_rel": "daewoo/models/nexia/images/648f2f07b3760cb4c44f09f9616b9e43be97666faebd90db1cc0f7dd098b23b4.webp"
+  },
+  {
+    "filename": "64fab1dd45713cdc4d0bd1bdfae014209221bb9c22c8836942fa3fd6f920ca3c.webp",
+    "size": 24082,
+    "source_rel": "daewoo/models/nexia/images/64fab1dd45713cdc4d0bd1bdfae014209221bb9c22c8836942fa3fd6f920ca3c.webp"
+  },
+  {
+    "filename": "65df93c9f472d2e9901d34d7abd8a93e118869539a39506083b409eb7a2207b2.webp",
+    "size": 21046,
+    "source_rel": "daewoo/models/nexia/images/65df93c9f472d2e9901d34d7abd8a93e118869539a39506083b409eb7a2207b2.webp"
+  },
+  {
+    "filename": "65f9b0183331af0bc5153935310e625bc5d4256ed27f1e82e8b44ba76c4d5894.webp",
+    "size": 21036,
+    "source_rel": "daewoo/models/nexia/images/65f9b0183331af0bc5153935310e625bc5d4256ed27f1e82e8b44ba76c4d5894.webp"
+  },
+  {
+    "filename": "66385f1d7d4ab259ad8636d3601c55938bf8c09ee2bb191599b46da2022ab2c9.webp",
+    "size": 17552,
+    "source_rel": "daewoo/models/nexia/images/66385f1d7d4ab259ad8636d3601c55938bf8c09ee2bb191599b46da2022ab2c9.webp"
+  },
+  {
+    "filename": "6661f47199f677f305b236fdc3445ac6d82fc171e1c53dccf7015ce9cea01660.webp",
+    "size": 21808,
+    "source_rel": "daewoo/models/nexia/images/6661f47199f677f305b236fdc3445ac6d82fc171e1c53dccf7015ce9cea01660.webp"
+  },
+  {
+    "filename": "6666a9af9a2bab3bdbe6558eb086da14caed82931fbb0b8520f71d9d3a7a3604.webp",
+    "size": 26734,
+    "source_rel": "daewoo/models/nexia/images/6666a9af9a2bab3bdbe6558eb086da14caed82931fbb0b8520f71d9d3a7a3604.webp"
+  },
+  {
+    "filename": "666a04c651cbc0b5b283168a2ed889b5e5654aeab67a7a761c3623e515fafe1c.webp",
+    "size": 16040,
+    "source_rel": "daewoo/models/nexia/images/666a04c651cbc0b5b283168a2ed889b5e5654aeab67a7a761c3623e515fafe1c.webp"
+  },
+  {
+    "filename": "666f450c8d2c8a993a1bb339d75f80be99ef3f47f9c41b52af18a5e10f43594e.webp",
+    "size": 18196,
+    "source_rel": "daewoo/models/nexia/images/666f450c8d2c8a993a1bb339d75f80be99ef3f47f9c41b52af18a5e10f43594e.webp"
+  },
+  {
+    "filename": "669c37e9584f129c28d8d4c82d72d0dc727faac8ff08a47fe23b26462b4d6a65.webp",
+    "size": 53148,
+    "source_rel": "daewoo/models/nexia/images/669c37e9584f129c28d8d4c82d72d0dc727faac8ff08a47fe23b26462b4d6a65.webp"
+  },
+  {
+    "filename": "67c5255692b11b714a7a9b02566598b4b1490ee7610bf3093b1cbd5b257bd214.webp",
+    "size": 14430,
+    "source_rel": "daewoo/models/nexia/images/67c5255692b11b714a7a9b02566598b4b1490ee7610bf3093b1cbd5b257bd214.webp"
+  },
+  {
+    "filename": "681fd4b0b6fdbcfa350b2bb45cf8c7eb06541be960f86338e6cdfdc1b26bc8d6.webp",
+    "size": 18560,
+    "source_rel": "daewoo/models/nexia/images/681fd4b0b6fdbcfa350b2bb45cf8c7eb06541be960f86338e6cdfdc1b26bc8d6.webp"
+  },
+  {
+    "filename": "6865723e3c485e5fd803e1c2470c70035028dda3054efde255a0c68aff258777.webp",
+    "size": 19960,
+    "source_rel": "daewoo/models/nexia/images/6865723e3c485e5fd803e1c2470c70035028dda3054efde255a0c68aff258777.webp"
+  },
+  {
+    "filename": "6895d48fa6f1ee39432653e383d87f2fd077c61e8cc22da3a00235096bbabc3f.webp",
+    "size": 17146,
+    "source_rel": "daewoo/models/nexia/images/6895d48fa6f1ee39432653e383d87f2fd077c61e8cc22da3a00235096bbabc3f.webp"
+  },
+  {
+    "filename": "68e20216970dba353189f23012e544bc1b10ceff846b35a0fc89613603a2b8be.webp",
+    "size": 19292,
+    "source_rel": "daewoo/models/nexia/images/68e20216970dba353189f23012e544bc1b10ceff846b35a0fc89613603a2b8be.webp"
+  },
+  {
+    "filename": "68f1a8557846821169c8dc67d5b11d75dd8e6a401e7acfc3e0f2597d74ce57ab.webp",
+    "size": 22832,
+    "source_rel": "daewoo/models/nexia/images/68f1a8557846821169c8dc67d5b11d75dd8e6a401e7acfc3e0f2597d74ce57ab.webp"
+  },
+  {
+    "filename": "695180e0931886bfc8d59cf11f5a4ed242e518e6ed42a790f404a448292c04ca.webp",
+    "size": 17640,
+    "source_rel": "daewoo/models/nexia/images/695180e0931886bfc8d59cf11f5a4ed242e518e6ed42a790f404a448292c04ca.webp"
+  },
+  {
+    "filename": "696d5a4da3139de250d71eecb8a185069378e34a8be99b3b8bddc784daa34978.webp",
+    "size": 24676,
+    "source_rel": "daewoo/models/nexia/images/696d5a4da3139de250d71eecb8a185069378e34a8be99b3b8bddc784daa34978.webp"
+  },
+  {
+    "filename": "69cc64ed5efdb8d2ee88484876649b84a9d595b4976fa9190daeb6368a0f3770.webp",
+    "size": 22230,
+    "source_rel": "daewoo/models/nexia/images/69cc64ed5efdb8d2ee88484876649b84a9d595b4976fa9190daeb6368a0f3770.webp"
+  },
+  {
+    "filename": "6a116fdedc59c99b3daf97e5f3f9b89f595c24eec03dd2fe2cd14a5ccef34667.webp",
+    "size": 17514,
+    "source_rel": "daewoo/models/nexia/images/6a116fdedc59c99b3daf97e5f3f9b89f595c24eec03dd2fe2cd14a5ccef34667.webp"
+  },
+  {
+    "filename": "6a5fdd1a24c6295920074bca37e63eb86e4821656e6f61dfc2bf78872f3e2350.webp",
+    "size": 117738,
+    "source_rel": "daewoo/models/nexia/images/6a5fdd1a24c6295920074bca37e63eb86e4821656e6f61dfc2bf78872f3e2350.webp"
+  },
+  {
+    "filename": "6b8bffbc8b0241719a98c3ac62167c8339db6870a802b2b8c4b35f0e073c3b9d.webp",
+    "size": 18140,
+    "source_rel": "daewoo/models/nexia/images/6b8bffbc8b0241719a98c3ac62167c8339db6870a802b2b8c4b35f0e073c3b9d.webp"
+  },
+  {
+    "filename": "6bb022f92afebca782ec1e320242f4ec14dcbccec61a3dcb6d02a213f26f2c56.webp",
+    "size": 9846,
+    "source_rel": "daewoo/models/nexia/images/6bb022f92afebca782ec1e320242f4ec14dcbccec61a3dcb6d02a213f26f2c56.webp"
+  },
+  {
+    "filename": "6bc6ec2508d6298e24ecf188cef3f40888e4f06a51a3af0f8017d18f8fb5746e.webp",
+    "size": 65348,
+    "source_rel": "daewoo/models/nexia/images/6bc6ec2508d6298e24ecf188cef3f40888e4f06a51a3af0f8017d18f8fb5746e.webp"
+  },
+  {
+    "filename": "6bdf6d535638b761fe90c7e22ec200f2d4d55c60dd6512ffc0060ed9aefbc741.webp",
+    "size": 17160,
+    "source_rel": "daewoo/models/nexia/images/6bdf6d535638b761fe90c7e22ec200f2d4d55c60dd6512ffc0060ed9aefbc741.webp"
+  },
+  {
+    "filename": "6c621c3f084eab8cb133eb06821150c5e337881830ba251dbe283f2780e6bdad.webp",
+    "size": 17670,
+    "source_rel": "daewoo/models/nexia/images/6c621c3f084eab8cb133eb06821150c5e337881830ba251dbe283f2780e6bdad.webp"
+  },
+  {
+    "filename": "6c724156fef2a5f6ec1bbdd26e80fd7ff8c16975d36620ebdeb013ec82e86a0c.webp",
+    "size": 23000,
+    "source_rel": "daewoo/models/nexia/images/6c724156fef2a5f6ec1bbdd26e80fd7ff8c16975d36620ebdeb013ec82e86a0c.webp"
+  },
+  {
+    "filename": "6c811146c74b900951c50cba290d7542a43b2f53232f937def84fbab37f8091a.webp",
+    "size": 31178,
+    "source_rel": "daewoo/models/nexia/images/6c811146c74b900951c50cba290d7542a43b2f53232f937def84fbab37f8091a.webp"
+  },
+  {
+    "filename": "6c938e2b5b40f17f37b570bc21578be23f51059f47c93b73613c947a2934604f.webp",
+    "size": 11508,
+    "source_rel": "daewoo/models/nexia/images/6c938e2b5b40f17f37b570bc21578be23f51059f47c93b73613c947a2934604f.webp"
+  },
+  {
+    "filename": "6d59e7f1694cfa5ac76df2866d25c4dec5541c7e1527dc141817c817887c10c4.webp",
+    "size": 19966,
+    "source_rel": "daewoo/models/nexia/images/6d59e7f1694cfa5ac76df2866d25c4dec5541c7e1527dc141817c817887c10c4.webp"
+  },
+  {
+    "filename": "6da74933b11294bdef65d5fece7f58e9fc373d80f9833a870fe93c9078d44029.webp",
+    "size": 49082,
+    "source_rel": "daewoo/models/nexia/images/6da74933b11294bdef65d5fece7f58e9fc373d80f9833a870fe93c9078d44029.webp"
+  },
+  {
+    "filename": "6e1524cf4add0fe5b87859b1260301ac359c8c6460a31a8706d1168465367201.webp",
+    "size": 93026,
+    "source_rel": "daewoo/models/nexia/images/6e1524cf4add0fe5b87859b1260301ac359c8c6460a31a8706d1168465367201.webp"
+  },
+  {
+    "filename": "6f0daa3a2091506848e03ae71013c279fb846b938f852ca26e80ae43673a8841.webp",
+    "size": 24672,
+    "source_rel": "daewoo/models/nexia/images/6f0daa3a2091506848e03ae71013c279fb846b938f852ca26e80ae43673a8841.webp"
+  },
+  {
+    "filename": "6f2d2256c05bc1ea7fca62fddcc88cc5b7cab2fa5673ecd0cf6cbee5e6ef5116.webp",
+    "size": 15090,
+    "source_rel": "daewoo/models/nexia/images/6f2d2256c05bc1ea7fca62fddcc88cc5b7cab2fa5673ecd0cf6cbee5e6ef5116.webp"
+  },
+  {
+    "filename": "6f8a2306abaab9969dcafc113ba7389d19804e6f8e6cd6bd9ff778ece1327365.webp",
+    "size": 22354,
+    "source_rel": "daewoo/models/nexia/images/6f8a2306abaab9969dcafc113ba7389d19804e6f8e6cd6bd9ff778ece1327365.webp"
+  },
+  {
+    "filename": "6f8bca390f412c148742cd4af6205caea8f68248127286ae960a2a3539101f9e.webp",
+    "size": 13200,
+    "source_rel": "daewoo/models/nexia/images/6f8bca390f412c148742cd4af6205caea8f68248127286ae960a2a3539101f9e.webp"
+  },
+  {
+    "filename": "6f9f7d5b037891fe5d0964d8d1f3830d1042bf8ea4fa076dbd988d1052ee5d5a.webp",
+    "size": 36742,
+    "source_rel": "daewoo/models/nexia/images/6f9f7d5b037891fe5d0964d8d1f3830d1042bf8ea4fa076dbd988d1052ee5d5a.webp"
+  },
+  {
+    "filename": "6facfacac86dda1c2a06b3907b4d8b6e33f5fff301dc9baa6e292da770e1c9c7.webp",
+    "size": 19988,
+    "source_rel": "daewoo/models/nexia/images/6facfacac86dda1c2a06b3907b4d8b6e33f5fff301dc9baa6e292da770e1c9c7.webp"
+  },
+  {
+    "filename": "6fb39088f05210694254cb035ccd8128e692aa8b6f212d08d5e47ca6875aeb02.webp",
+    "size": 17884,
+    "source_rel": "daewoo/models/nexia/images/6fb39088f05210694254cb035ccd8128e692aa8b6f212d08d5e47ca6875aeb02.webp"
+  },
+  {
+    "filename": "703720a9853926ceee0afa1ac359633460aece973728cb75bd2aee7740e96320.webp",
+    "size": 21316,
+    "source_rel": "daewoo/models/nexia/images/703720a9853926ceee0afa1ac359633460aece973728cb75bd2aee7740e96320.webp"
+  },
+  {
+    "filename": "708e8878923e2ded2792091bd1b22a39cdacb578ac8dabd658ebd4edcd42144a.webp",
+    "size": 27246,
+    "source_rel": "daewoo/models/nexia/images/708e8878923e2ded2792091bd1b22a39cdacb578ac8dabd658ebd4edcd42144a.webp"
+  },
+  {
+    "filename": "70b9cb0979e541c3219b895aa61046153120ef4e9309295157b21d8a5fdea563.webp",
+    "size": 24684,
+    "source_rel": "daewoo/models/nexia/images/70b9cb0979e541c3219b895aa61046153120ef4e9309295157b21d8a5fdea563.webp"
+  },
+  {
+    "filename": "70bc3b6410fab578552bba3462c41af99a7aa293b6098a0c9a890382459f4329.webp",
+    "size": 10574,
+    "source_rel": "daewoo/models/nexia/images/70bc3b6410fab578552bba3462c41af99a7aa293b6098a0c9a890382459f4329.webp"
+  },
+  {
+    "filename": "70d33022868cd551b322377e917c77276d6ab07f3c2e27df40b8c3226bff7ca6.webp",
+    "size": 18908,
+    "source_rel": "daewoo/models/nexia/images/70d33022868cd551b322377e917c77276d6ab07f3c2e27df40b8c3226bff7ca6.webp"
+  },
+  {
+    "filename": "70d994d1b38734642fd4154a7c58f0c73e3d9911eb8687fe4aeb6cea1d6376cf.webp",
+    "size": 30290,
+    "source_rel": "daewoo/models/nexia/images/70d994d1b38734642fd4154a7c58f0c73e3d9911eb8687fe4aeb6cea1d6376cf.webp"
+  },
+  {
+    "filename": "7110aef1208dde2a796a708a4b67e62135da6328f53992292968a3513e622e6e.webp",
+    "size": 19732,
+    "source_rel": "daewoo/models/nexia/images/7110aef1208dde2a796a708a4b67e62135da6328f53992292968a3513e622e6e.webp"
+  },
+  {
+    "filename": "711ff79c86ae5d0eb97b8a067ef10f8d61b7fb6331e1f912f46b8e9b3ebd8a70.webp",
+    "size": 19808,
+    "source_rel": "daewoo/models/nexia/images/711ff79c86ae5d0eb97b8a067ef10f8d61b7fb6331e1f912f46b8e9b3ebd8a70.webp"
+  },
+  {
+    "filename": "7152543840415a573a204a22fea6a117b66d7edf123250e5e248a1a13cae4d7a.webp",
+    "size": 19706,
+    "source_rel": "daewoo/models/nexia/images/7152543840415a573a204a22fea6a117b66d7edf123250e5e248a1a13cae4d7a.webp"
+  },
+  {
+    "filename": "7163ac2d4f27387f276c961af2cc0e35c99ffd57b40e2af9cb840643d74e041a.webp",
+    "size": 15166,
+    "source_rel": "daewoo/models/nexia/images/7163ac2d4f27387f276c961af2cc0e35c99ffd57b40e2af9cb840643d74e041a.webp"
+  },
+  {
+    "filename": "71e77658f24a7f3b70f771865ac331315e644e97fc913e7286c3bb3ecc1562bc.webp",
+    "size": 21868,
+    "source_rel": "daewoo/models/nexia/images/71e77658f24a7f3b70f771865ac331315e644e97fc913e7286c3bb3ecc1562bc.webp"
+  },
+  {
+    "filename": "722c1f831dc163acd7d1048dd805816b64d495b8bc3bad0c5ea02c7389d2f4eb.webp",
+    "size": 22564,
+    "source_rel": "daewoo/models/nexia/images/722c1f831dc163acd7d1048dd805816b64d495b8bc3bad0c5ea02c7389d2f4eb.webp"
+  },
+  {
+    "filename": "729c262acce4366d44858fa17a57e7e5c7adb13268cd2a542f7dde04ef7454e7.webp",
+    "size": 15468,
+    "source_rel": "daewoo/models/nexia/images/729c262acce4366d44858fa17a57e7e5c7adb13268cd2a542f7dde04ef7454e7.webp"
+  },
+  {
+    "filename": "72c5c4f3ce3cecc29628dbafa8fc667c55527db7898a777237dc17cbe98cabd6.webp",
+    "size": 22536,
+    "source_rel": "daewoo/models/nexia/images/72c5c4f3ce3cecc29628dbafa8fc667c55527db7898a777237dc17cbe98cabd6.webp"
+  },
+  {
+    "filename": "735a2395745501346b5ef0b66ca7a90ce5e6d2afe02a653a7d2251deb3af4e94.webp",
+    "size": 32680,
+    "source_rel": "daewoo/models/nexia/images/735a2395745501346b5ef0b66ca7a90ce5e6d2afe02a653a7d2251deb3af4e94.webp"
+  },
+  {
+    "filename": "73d53b1ad3cb720f62ecc564b7a89fa22d0573e006bb917acaf52df8291d9d4c.webp",
+    "size": 22694,
+    "source_rel": "daewoo/models/nexia/images/73d53b1ad3cb720f62ecc564b7a89fa22d0573e006bb917acaf52df8291d9d4c.webp"
+  },
+  {
+    "filename": "73dd71bef28445b6074a7576ec5a1a27c936b3bcc16899cbc7e1dd01fd6d77b1.webp",
+    "size": 22288,
+    "source_rel": "daewoo/models/nexia/images/73dd71bef28445b6074a7576ec5a1a27c936b3bcc16899cbc7e1dd01fd6d77b1.webp"
+  },
+  {
+    "filename": "73df84f6351c93205a5d46f818bbd4e51864cef27fcac5fb8fd5bf3847e8676a.webp",
+    "size": 24358,
+    "source_rel": "daewoo/models/nexia/images/73df84f6351c93205a5d46f818bbd4e51864cef27fcac5fb8fd5bf3847e8676a.webp"
+  },
+  {
+    "filename": "7421136d93895e2036932c647fa9189fa294608563aa74df0e8a357c93cd6a0b.webp",
+    "size": 85524,
+    "source_rel": "daewoo/models/nexia/images/7421136d93895e2036932c647fa9189fa294608563aa74df0e8a357c93cd6a0b.webp"
+  },
+  {
+    "filename": "748cc04478b62aad38d502e233d6dab6f3fde74d26120f8c3abfbc60daad917e.webp",
+    "size": 19558,
+    "source_rel": "daewoo/models/nexia/images/748cc04478b62aad38d502e233d6dab6f3fde74d26120f8c3abfbc60daad917e.webp"
+  },
+  {
+    "filename": "74cb488f75570dcd818bf4d48aa8b082fe60dfc15a2a98607774ea6f6f10ef57.webp",
+    "size": 24604,
+    "source_rel": "daewoo/models/nexia/images/74cb488f75570dcd818bf4d48aa8b082fe60dfc15a2a98607774ea6f6f10ef57.webp"
+  },
+  {
+    "filename": "757913eba2f47f21a9326e194bca358f1be0abc0bb8efc02abcabba921ca818c.webp",
+    "size": 17162,
+    "source_rel": "daewoo/models/nexia/images/757913eba2f47f21a9326e194bca358f1be0abc0bb8efc02abcabba921ca818c.webp"
+  },
+  {
+    "filename": "75a2d5ea03a53193406e2653f737ce069da7a977629f1e38c3ae07bef895c06e.webp",
+    "size": 17648,
+    "source_rel": "daewoo/models/nexia/images/75a2d5ea03a53193406e2653f737ce069da7a977629f1e38c3ae07bef895c06e.webp"
+  },
+  {
+    "filename": "760e19aec1e52afff1856dfdc75445149e56d036c4e517ef570d8f7fc58cdc8f.webp",
+    "size": 208,
+    "source_rel": "daewoo/models/nexia/images/760e19aec1e52afff1856dfdc75445149e56d036c4e517ef570d8f7fc58cdc8f.webp"
+  },
+  {
+    "filename": "767f8cfe94d227f8ebc4440ce5a51433d4fb6b30c219116d63b719973c13e767.webp",
+    "size": 93938,
+    "source_rel": "daewoo/models/nexia/images/767f8cfe94d227f8ebc4440ce5a51433d4fb6b30c219116d63b719973c13e767.webp"
+  },
+  {
+    "filename": "774ef86c51dd833608909a1d9c9ed6b4bee3713a1ed6c11778e0074ccdd6bef8.webp",
+    "size": 23790,
+    "source_rel": "daewoo/models/nexia/images/774ef86c51dd833608909a1d9c9ed6b4bee3713a1ed6c11778e0074ccdd6bef8.webp"
+  },
+  {
+    "filename": "7789deece3515663819177fbe3c4d9eebd68dfa08b886b462743520de3880d56.webp",
+    "size": 44246,
+    "source_rel": "daewoo/models/nexia/images/7789deece3515663819177fbe3c4d9eebd68dfa08b886b462743520de3880d56.webp"
+  },
+  {
+    "filename": "778e69424f6d52d79b0c0b8d0aa31819b6b8a8c01f5b45880257260f2286cbf2.webp",
+    "size": 20374,
+    "source_rel": "daewoo/models/nexia/images/778e69424f6d52d79b0c0b8d0aa31819b6b8a8c01f5b45880257260f2286cbf2.webp"
+  },
+  {
+    "filename": "77e2232c1943df7fbaceeb9993b8bcf8cf930fde1ac50105eb1da46cdeac9671.webp",
+    "size": 11006,
+    "source_rel": "daewoo/models/nexia/images/77e2232c1943df7fbaceeb9993b8bcf8cf930fde1ac50105eb1da46cdeac9671.webp"
+  },
+  {
+    "filename": "7897ed88838ebb9cd372e285556cf2c4067f945e103d4c473a9d341aca8854c4.webp",
+    "size": 11168,
+    "source_rel": "daewoo/models/nexia/images/7897ed88838ebb9cd372e285556cf2c4067f945e103d4c473a9d341aca8854c4.webp"
+  },
+  {
+    "filename": "78d87b0984334d8cd2f5f19ec38e8edea8c9974ce0c5a8684b27985c6124e438.webp",
+    "size": 118636,
+    "source_rel": "daewoo/models/nexia/images/78d87b0984334d8cd2f5f19ec38e8edea8c9974ce0c5a8684b27985c6124e438.webp"
+  },
+  {
+    "filename": "78fe11dd3e024b5318bb7196bbfaf4eb9132f615420377f595ae59f83fd4c50c.webp",
+    "size": 27258,
+    "source_rel": "daewoo/models/nexia/images/78fe11dd3e024b5318bb7196bbfaf4eb9132f615420377f595ae59f83fd4c50c.webp"
+  },
+  {
+    "filename": "7908740276abb54f6e48827ab05df56b38335f0380b7b64809821052493738de.webp",
+    "size": 17794,
+    "source_rel": "daewoo/models/nexia/images/7908740276abb54f6e48827ab05df56b38335f0380b7b64809821052493738de.webp"
+  },
+  {
+    "filename": "79796c2eb77bb546d205396e2eba0ebed9785e1f4456f7874ec29da1fad3161d.webp",
+    "size": 21060,
+    "source_rel": "daewoo/models/nexia/images/79796c2eb77bb546d205396e2eba0ebed9785e1f4456f7874ec29da1fad3161d.webp"
+  },
+  {
+    "filename": "79a8dca384948e88aa0c2dec917e48f06c7ad67bbc508c1e181bdf4ab5388b92.webp",
+    "size": 12904,
+    "source_rel": "daewoo/models/nexia/images/79a8dca384948e88aa0c2dec917e48f06c7ad67bbc508c1e181bdf4ab5388b92.webp"
+  },
+  {
+    "filename": "7a44516286d1c5bbcba13935b1d92f0d43334339aefe9fb3719fdb185861e213.webp",
+    "size": 19786,
+    "source_rel": "daewoo/models/nexia/images/7a44516286d1c5bbcba13935b1d92f0d43334339aefe9fb3719fdb185861e213.webp"
+  },
+  {
+    "filename": "7ad1a4f014890be9624390c0f7bd9d73470120b176189db1227deea73a1b5523.webp",
+    "size": 15762,
+    "source_rel": "daewoo/models/nexia/images/7ad1a4f014890be9624390c0f7bd9d73470120b176189db1227deea73a1b5523.webp"
+  },
+  {
+    "filename": "7b3c74bb3f70ad6e7af386d7d37173051aab55af26fa553f70d2b48ab6318801.webp",
+    "size": 14826,
+    "source_rel": "daewoo/models/nexia/images/7b3c74bb3f70ad6e7af386d7d37173051aab55af26fa553f70d2b48ab6318801.webp"
+  },
+  {
+    "filename": "7b9194b69fd38edcb04489ea587dfdfd6f0e41d7f11c3e806a5226e114607891.webp",
+    "size": 16254,
+    "source_rel": "daewoo/models/nexia/images/7b9194b69fd38edcb04489ea587dfdfd6f0e41d7f11c3e806a5226e114607891.webp"
+  },
+  {
+    "filename": "7bba57d296ddd17887220d649b38ad1a0c1134327d996e8ac1951b4317f15554.webp",
+    "size": 18810,
+    "source_rel": "daewoo/models/nexia/images/7bba57d296ddd17887220d649b38ad1a0c1134327d996e8ac1951b4317f15554.webp"
+  },
+  {
+    "filename": "7be60e194cda44262c884e0fc70f41cd5b8746f1a92be7f41e58e1d70dd4369c.webp",
+    "size": 122424,
+    "source_rel": "daewoo/models/nexia/images/7be60e194cda44262c884e0fc70f41cd5b8746f1a92be7f41e58e1d70dd4369c.webp"
+  },
+  {
+    "filename": "7c7d029d3a220048694ef34a657e55bf03a24c18e0614f05be135188b6fda612.webp",
+    "size": 21566,
+    "source_rel": "daewoo/models/nexia/images/7c7d029d3a220048694ef34a657e55bf03a24c18e0614f05be135188b6fda612.webp"
+  },
+  {
+    "filename": "7c87f98bf0128dcd262c8ea3c877f4691902a4d4e46cb8470440668ca18d39ec.webp",
+    "size": 15936,
+    "source_rel": "daewoo/models/nexia/images/7c87f98bf0128dcd262c8ea3c877f4691902a4d4e46cb8470440668ca18d39ec.webp"
+  },
+  {
+    "filename": "7ca0245e086176a35d496f49d2a272bb936e53dfda2857874430eba715d0124e.webp",
+    "size": 17568,
+    "source_rel": "daewoo/models/nexia/images/7ca0245e086176a35d496f49d2a272bb936e53dfda2857874430eba715d0124e.webp"
+  },
+  {
+    "filename": "7cbbab54847f70642c31b130f21599fa0c6c63e0bc61476fb6a98c058c469b62.webp",
+    "size": 12276,
+    "source_rel": "daewoo/models/nexia/images/7cbbab54847f70642c31b130f21599fa0c6c63e0bc61476fb6a98c058c469b62.webp"
+  },
+  {
+    "filename": "7d119184ed232b58eeae31f979834635a7a0b1dbfb3b75e5531e1be33805cedb.webp",
+    "size": 19110,
+    "source_rel": "daewoo/models/nexia/images/7d119184ed232b58eeae31f979834635a7a0b1dbfb3b75e5531e1be33805cedb.webp"
+  },
+  {
+    "filename": "7ebb0e8916ddd51ad36df1864533dcf356fbcf60ba28d0d923ac3f8701da522f.webp",
+    "size": 16624,
+    "source_rel": "daewoo/models/nexia/images/7ebb0e8916ddd51ad36df1864533dcf356fbcf60ba28d0d923ac3f8701da522f.webp"
+  },
+  {
+    "filename": "7f2b1681cccd6a199ca18b17ab21e45032052efea69209532722d66853d786c8.webp",
+    "size": 24158,
+    "source_rel": "daewoo/models/nexia/images/7f2b1681cccd6a199ca18b17ab21e45032052efea69209532722d66853d786c8.webp"
+  },
+  {
+    "filename": "7f721e4f7ea36dac56c996fbd0b11dc00f6b7b5678019b132f2fa6a029409151.webp",
+    "size": 19320,
+    "source_rel": "daewoo/models/nexia/images/7f721e4f7ea36dac56c996fbd0b11dc00f6b7b5678019b132f2fa6a029409151.webp"
+  },
+  {
+    "filename": "7ffb2cbea01d122ba1b7dc459194c84624204b89040cb1214b1507a7a1fda0b4.webp",
+    "size": 15734,
+    "source_rel": "daewoo/models/nexia/images/7ffb2cbea01d122ba1b7dc459194c84624204b89040cb1214b1507a7a1fda0b4.webp"
+  },
+  {
+    "filename": "80463b28076ef741d13d1177fb97bd6c23533f9870c425247f0111f81d35ba42.webp",
+    "size": 19354,
+    "source_rel": "daewoo/models/nexia/images/80463b28076ef741d13d1177fb97bd6c23533f9870c425247f0111f81d35ba42.webp"
+  },
+  {
+    "filename": "80571976d11b6ff5a11bca9e2d7225a5bd98a0823b5287ccb764c7a4984f3bb0.webp",
+    "size": 16082,
+    "source_rel": "daewoo/models/nexia/images/80571976d11b6ff5a11bca9e2d7225a5bd98a0823b5287ccb764c7a4984f3bb0.webp"
+  },
+  {
+    "filename": "808885574b42b47c23fdacb0163244df61660e9db8416e8a9f087e0c408c3ef7.webp",
+    "size": 21446,
+    "source_rel": "daewoo/models/nexia/images/808885574b42b47c23fdacb0163244df61660e9db8416e8a9f087e0c408c3ef7.webp"
+  },
+  {
+    "filename": "81334dfc3b2da62d9d139cbb5b25065e3d6aa3bcbaeb98dfe422f23416e74d20.webp",
+    "size": 16614,
+    "source_rel": "daewoo/models/nexia/images/81334dfc3b2da62d9d139cbb5b25065e3d6aa3bcbaeb98dfe422f23416e74d20.webp"
+  },
+  {
+    "filename": "820388ae60f206f63f05d8344cb07b7a472dfe68dcca5926c758f13d89a73f93.webp",
+    "size": 30766,
+    "source_rel": "daewoo/models/nexia/images/820388ae60f206f63f05d8344cb07b7a472dfe68dcca5926c758f13d89a73f93.webp"
+  },
+  {
+    "filename": "8268d214cdb908cd927a7a62586dc13488726be79e9ce8552d8ea56b064ce700.webp",
+    "size": 12552,
+    "source_rel": "daewoo/models/nexia/images/8268d214cdb908cd927a7a62586dc13488726be79e9ce8552d8ea56b064ce700.webp"
+  },
+  {
+    "filename": "82df79dd2ef4813d1aa51ce298194f5f955a0d6ef10eeb3226fc06f4c73f38e3.webp",
+    "size": 20704,
+    "source_rel": "daewoo/models/nexia/images/82df79dd2ef4813d1aa51ce298194f5f955a0d6ef10eeb3226fc06f4c73f38e3.webp"
+  },
+  {
+    "filename": "837f8546b1bc5199e0a304f4c7969402b45037bfb596e3edca9c0610047d61ae.webp",
+    "size": 25764,
+    "source_rel": "daewoo/models/nexia/images/837f8546b1bc5199e0a304f4c7969402b45037bfb596e3edca9c0610047d61ae.webp"
+  },
+  {
+    "filename": "838f8e05acf9d622bccb43fcffa93eb0d48b8de713549feb6497cf9aae84b714.webp",
+    "size": 39146,
+    "source_rel": "daewoo/models/nexia/images/838f8e05acf9d622bccb43fcffa93eb0d48b8de713549feb6497cf9aae84b714.webp"
+  },
+  {
+    "filename": "83b81b62162b212a45b9c9667dc45d4620fb961012d751483fd52cba51c1ad64.webp",
+    "size": 31202,
+    "source_rel": "daewoo/models/nexia/images/83b81b62162b212a45b9c9667dc45d4620fb961012d751483fd52cba51c1ad64.webp"
+  },
+  {
+    "filename": "84437e967c80645f5e5743039fa233d38c562213b17cd5167de40d6136c0eefd.webp",
+    "size": 28564,
+    "source_rel": "daewoo/models/nexia/images/84437e967c80645f5e5743039fa233d38c562213b17cd5167de40d6136c0eefd.webp"
+  },
+  {
+    "filename": "8469064e7fa57c17e8142aaae88da559c753db54f64de5fe3ee5b0ccbb930868.webp",
+    "size": 20824,
+    "source_rel": "daewoo/models/nexia/images/8469064e7fa57c17e8142aaae88da559c753db54f64de5fe3ee5b0ccbb930868.webp"
+  },
+  {
+    "filename": "85f76a07740a3e646784429d3a3cdd3dab9590429cd782b856fe730844659213.webp",
+    "size": 22028,
+    "source_rel": "daewoo/models/nexia/images/85f76a07740a3e646784429d3a3cdd3dab9590429cd782b856fe730844659213.webp"
+  },
+  {
+    "filename": "86359319c92ac1a39360185fd3e4ec2110b066c969bc2ed27eb2fccf0c40f522.webp",
+    "size": 16360,
+    "source_rel": "daewoo/models/nexia/images/86359319c92ac1a39360185fd3e4ec2110b066c969bc2ed27eb2fccf0c40f522.webp"
+  },
+  {
+    "filename": "86d97749920d4ba10a552b20c22b06270b57b50bb9b632c353fd0a49bbf1023a.webp",
+    "size": 18346,
+    "source_rel": "daewoo/models/nexia/images/86d97749920d4ba10a552b20c22b06270b57b50bb9b632c353fd0a49bbf1023a.webp"
+  },
+  {
+    "filename": "87618cac0771e550e1f2f549bd1c79c65524b4fc98598ab9e187d0f97f973a8e.webp",
+    "size": 17320,
+    "source_rel": "daewoo/models/nexia/images/87618cac0771e550e1f2f549bd1c79c65524b4fc98598ab9e187d0f97f973a8e.webp"
+  },
+  {
+    "filename": "87dc0506199f64f0c02d9b1f2dd73f5f5813d700bb7592cf01b37ecccd48650f.webp",
+    "size": 14750,
+    "source_rel": "daewoo/models/nexia/images/87dc0506199f64f0c02d9b1f2dd73f5f5813d700bb7592cf01b37ecccd48650f.webp"
+  },
+  {
+    "filename": "87ec2c8a299665775b3a4f5bc699014ed3541b83ee2c0a76edbab141c4f2dea2.webp",
+    "size": 19076,
+    "source_rel": "daewoo/models/nexia/images/87ec2c8a299665775b3a4f5bc699014ed3541b83ee2c0a76edbab141c4f2dea2.webp"
+  },
+  {
+    "filename": "87ff7066da249dd8dcfbe49ac25638fc33b9f05fe9289f410946bc02a20de4e7.webp",
+    "size": 31080,
+    "source_rel": "daewoo/models/nexia/images/87ff7066da249dd8dcfbe49ac25638fc33b9f05fe9289f410946bc02a20de4e7.webp"
+  },
+  {
+    "filename": "886ecb3086de4db9be1578d36f9b2535dddf0dc9695423e940ee9e8160ebf097.webp",
+    "size": 16150,
+    "source_rel": "daewoo/models/nexia/images/886ecb3086de4db9be1578d36f9b2535dddf0dc9695423e940ee9e8160ebf097.webp"
+  },
+  {
+    "filename": "88a56d10686ead6bd14cb1d5c0d4b9f111931d8b2d69ab32dfb854ae59bffad6.webp",
+    "size": 19116,
+    "source_rel": "daewoo/models/nexia/images/88a56d10686ead6bd14cb1d5c0d4b9f111931d8b2d69ab32dfb854ae59bffad6.webp"
+  },
+  {
+    "filename": "88cb54e9b8cebb40a7b729cd806e505e00b6ac00360d46f58574d36e665ab4a5.webp",
+    "size": 20070,
+    "source_rel": "daewoo/models/nexia/images/88cb54e9b8cebb40a7b729cd806e505e00b6ac00360d46f58574d36e665ab4a5.webp"
+  },
+  {
+    "filename": "88e9339da321cc60cbd834c10ebc4f5da2f6df1429153cf12946dc59cc9dd98b.webp",
+    "size": 12490,
+    "source_rel": "daewoo/models/nexia/images/88e9339da321cc60cbd834c10ebc4f5da2f6df1429153cf12946dc59cc9dd98b.webp"
+  },
+  {
+    "filename": "88f4739ea9d66d94d93e23bbf7887047a8c2de95a78c8ecb4d0cf14fa93806e1.webp",
+    "size": 14560,
+    "source_rel": "daewoo/models/nexia/images/88f4739ea9d66d94d93e23bbf7887047a8c2de95a78c8ecb4d0cf14fa93806e1.webp"
+  },
+  {
+    "filename": "892c0883507c429decfdaad9bcde40882f5c92b4d526173499ee162a45a09e08.webp",
+    "size": 23100,
+    "source_rel": "daewoo/models/nexia/images/892c0883507c429decfdaad9bcde40882f5c92b4d526173499ee162a45a09e08.webp"
+  },
+  {
+    "filename": "8a8d4cf2af8d8f2b05d20c1141b9136be1e3f2ae4827ba42754ff9c7d4debcb3.webp",
+    "size": 14144,
+    "source_rel": "daewoo/models/nexia/images/8a8d4cf2af8d8f2b05d20c1141b9136be1e3f2ae4827ba42754ff9c7d4debcb3.webp"
+  },
+  {
+    "filename": "8b2cfb3e56b32395fdca12d99a35a9d3dc0eca2a675b3fac60c263e2466416d6.webp",
+    "size": 21206,
+    "source_rel": "daewoo/models/nexia/images/8b2cfb3e56b32395fdca12d99a35a9d3dc0eca2a675b3fac60c263e2466416d6.webp"
+  },
+  {
+    "filename": "8c891940ae6b7e80710ca346b8b6822af5e93538e3894518214620da9ab5142f.webp",
+    "size": 23978,
+    "source_rel": "daewoo/models/nexia/images/8c891940ae6b7e80710ca346b8b6822af5e93538e3894518214620da9ab5142f.webp"
+  },
+  {
+    "filename": "8c8c9a77378b32aeada8aebee32a81987594612c2f1054bf8c5439ac2597024e.webp",
+    "size": 16484,
+    "source_rel": "daewoo/models/nexia/images/8c8c9a77378b32aeada8aebee32a81987594612c2f1054bf8c5439ac2597024e.webp"
+  },
+  {
+    "filename": "8c9a6bc9d54fd538b4a45164a454d646ebf9e617acb212a208963f5e138b7d6e.webp",
+    "size": 16764,
+    "source_rel": "daewoo/models/nexia/images/8c9a6bc9d54fd538b4a45164a454d646ebf9e617acb212a208963f5e138b7d6e.webp"
+  },
+  {
+    "filename": "8cd6c0d6a1dc9582cd5a72f926a03576efd046dcea2a2200e791cc97ecc06d8b.webp",
+    "size": 22646,
+    "source_rel": "daewoo/models/nexia/images/8cd6c0d6a1dc9582cd5a72f926a03576efd046dcea2a2200e791cc97ecc06d8b.webp"
+  },
+  {
+    "filename": "8d6ca67a3f4a16bd00b03d9fb7e35d1061206777e2f3032caa0ccd37f710d7c6.webp",
+    "size": 14826,
+    "source_rel": "daewoo/models/nexia/images/8d6ca67a3f4a16bd00b03d9fb7e35d1061206777e2f3032caa0ccd37f710d7c6.webp"
+  },
+  {
+    "filename": "8d6ea440c6201abdd0093f69711bcb997eda56de7bb2de9e055dcb7829e00c6e.webp",
+    "size": 26684,
+    "source_rel": "daewoo/models/nexia/images/8d6ea440c6201abdd0093f69711bcb997eda56de7bb2de9e055dcb7829e00c6e.webp"
+  },
+  {
+    "filename": "8d915dadcc3a54974bfab3cd80d1444c0b59cc4ca27c2981972d10afaa4fadac.webp",
+    "size": 14740,
+    "source_rel": "daewoo/models/nexia/images/8d915dadcc3a54974bfab3cd80d1444c0b59cc4ca27c2981972d10afaa4fadac.webp"
+  },
+  {
+    "filename": "8e6d942e5cc766bfda4e627660de17047834e0e2de4219260752775b46cf0e6b.webp",
+    "size": 13632,
+    "source_rel": "daewoo/models/nexia/images/8e6d942e5cc766bfda4e627660de17047834e0e2de4219260752775b46cf0e6b.webp"
+  },
+  {
+    "filename": "8efa8eabcc37a45360114b3a713c1a92f1bab7abff38c80f9c3a000b006de1d1.webp",
+    "size": 15728,
+    "source_rel": "daewoo/models/nexia/images/8efa8eabcc37a45360114b3a713c1a92f1bab7abff38c80f9c3a000b006de1d1.webp"
+  },
+  {
+    "filename": "8f6e97c52236bada07d50c46645f45438e7ccb5604682e654e47c03d95d98e5f.webp",
+    "size": 14610,
+    "source_rel": "daewoo/models/nexia/images/8f6e97c52236bada07d50c46645f45438e7ccb5604682e654e47c03d95d98e5f.webp"
+  },
+  {
+    "filename": "8f89cc5d05ca612a8f84f0cd4a1a0693915a40b5523b29a44cf760b7e15455f1.webp",
+    "size": 17566,
+    "source_rel": "daewoo/models/nexia/images/8f89cc5d05ca612a8f84f0cd4a1a0693915a40b5523b29a44cf760b7e15455f1.webp"
+  },
+  {
+    "filename": "8fbcc8bdfc261bf98d3ca109d1c39515a0731236653671415cf28eefb63ad83e.webp",
+    "size": 20830,
+    "source_rel": "daewoo/models/nexia/images/8fbcc8bdfc261bf98d3ca109d1c39515a0731236653671415cf28eefb63ad83e.webp"
+  },
+  {
+    "filename": "909d7f045c74a54780889dabcd161ce00ea106754b1ad4614b37da5263328a3c.webp",
+    "size": 16492,
+    "source_rel": "daewoo/models/nexia/images/909d7f045c74a54780889dabcd161ce00ea106754b1ad4614b37da5263328a3c.webp"
+  },
+  {
+    "filename": "90c26af6908fbf581faebd2815d5a8a4c1bceb8da145690ab0f4e0cda7a35321.webp",
+    "size": 18336,
+    "source_rel": "daewoo/models/nexia/images/90c26af6908fbf581faebd2815d5a8a4c1bceb8da145690ab0f4e0cda7a35321.webp"
+  },
+  {
+    "filename": "90c29c59f06cfc33e6effab8eca53c2f7408515fd23a789d8f506591396b308c.webp",
+    "size": 23340,
+    "source_rel": "daewoo/models/nexia/images/90c29c59f06cfc33e6effab8eca53c2f7408515fd23a789d8f506591396b308c.webp"
+  },
+  {
+    "filename": "913447f3c51dfd8b3287728f6aac500b2e1f868187548c40b50bbf5210fc8418.webp",
+    "size": 6242,
+    "source_rel": "daewoo/models/nexia/images/913447f3c51dfd8b3287728f6aac500b2e1f868187548c40b50bbf5210fc8418.webp"
+  },
+  {
+    "filename": "922490dc8eb214fcec9b7f7a36ff9a86afbeeabd66706a60c0e297f08246d27f.webp",
+    "size": 17494,
+    "source_rel": "daewoo/models/nexia/images/922490dc8eb214fcec9b7f7a36ff9a86afbeeabd66706a60c0e297f08246d27f.webp"
+  },
+  {
+    "filename": "922d5af5c414cf1be6b21136ce9b208baebef6085977158ea7ce72b027b657ed.webp",
+    "size": 17706,
+    "source_rel": "daewoo/models/nexia/images/922d5af5c414cf1be6b21136ce9b208baebef6085977158ea7ce72b027b657ed.webp"
+  },
+  {
+    "filename": "92793d5aca47f8966baf3bf532ced738f2c997952d2570affbcc6be38009ad41.webp",
+    "size": 16852,
+    "source_rel": "daewoo/models/nexia/images/92793d5aca47f8966baf3bf532ced738f2c997952d2570affbcc6be38009ad41.webp"
+  },
+  {
+    "filename": "92ad3de0a4731d4533e40c0b8b404db6e3de7eee19769b37b28c29009bd02d6a.webp",
+    "size": 17710,
+    "source_rel": "daewoo/models/nexia/images/92ad3de0a4731d4533e40c0b8b404db6e3de7eee19769b37b28c29009bd02d6a.webp"
+  },
+  {
+    "filename": "92fc21e9512cb61725b773e79e6bbf6bc2c62ccd5ade81976428ebfd1615fd03.webp",
+    "size": 19482,
+    "source_rel": "daewoo/models/nexia/images/92fc21e9512cb61725b773e79e6bbf6bc2c62ccd5ade81976428ebfd1615fd03.webp"
+  },
+  {
+    "filename": "9417bc103e113cec30acbb74f3e0ec32216fb16625f3b7cc368f2f8ce8739e05.webp",
+    "size": 64920,
+    "source_rel": "daewoo/models/nexia/images/9417bc103e113cec30acbb74f3e0ec32216fb16625f3b7cc368f2f8ce8739e05.webp"
+  },
+  {
+    "filename": "949b754f636560ae35e4eaf3050b352f2518ab5d8c9b822220390f2f41272883.webp",
+    "size": 24436,
+    "source_rel": "daewoo/models/nexia/images/949b754f636560ae35e4eaf3050b352f2518ab5d8c9b822220390f2f41272883.webp"
+  },
+  {
+    "filename": "95b12a9aa1cfd95c15c2287f785883f4c768d8d7cd0374b91412fb27f900a284.webp",
+    "size": 22416,
+    "source_rel": "daewoo/models/nexia/images/95b12a9aa1cfd95c15c2287f785883f4c768d8d7cd0374b91412fb27f900a284.webp"
+  },
+  {
+    "filename": "95bedb84267cc6050ebf5cf56228c4a853917c481cec2fa046b3974d4058f163.webp",
+    "size": 8362,
+    "source_rel": "daewoo/models/nexia/images/95bedb84267cc6050ebf5cf56228c4a853917c481cec2fa046b3974d4058f163.webp"
+  },
+  {
+    "filename": "961f7bd887577b5690a38dda6d57d70051ddad120fef79749e373ca6ce7f0dc3.webp",
+    "size": 17696,
+    "source_rel": "daewoo/models/nexia/images/961f7bd887577b5690a38dda6d57d70051ddad120fef79749e373ca6ce7f0dc3.webp"
+  },
+  {
+    "filename": "966bcd67ae34764fe42706d58577483cc2b65d0af673fea06685c405b5c2f1ad.webp",
+    "size": 26220,
+    "source_rel": "daewoo/models/nexia/images/966bcd67ae34764fe42706d58577483cc2b65d0af673fea06685c405b5c2f1ad.webp"
+  },
+  {
+    "filename": "96b3a432f71a9dbf8dcf496c21a7e24396b0dd33bc8625b5e2dc4d151548c0d5.webp",
+    "size": 12784,
+    "source_rel": "daewoo/models/nexia/images/96b3a432f71a9dbf8dcf496c21a7e24396b0dd33bc8625b5e2dc4d151548c0d5.webp"
+  },
+  {
+    "filename": "979b3f8edfd8807526405e008d06aa0bfc4c95cb23082dcbef3568dc62ee6c3c.webp",
+    "size": 21348,
+    "source_rel": "daewoo/models/nexia/images/979b3f8edfd8807526405e008d06aa0bfc4c95cb23082dcbef3568dc62ee6c3c.webp"
+  },
+  {
+    "filename": "97b2de030a84cfa1341d5a65e766192570ce8d9811f385566844406efee4c992.webp",
+    "size": 18812,
+    "source_rel": "daewoo/models/nexia/images/97b2de030a84cfa1341d5a65e766192570ce8d9811f385566844406efee4c992.webp"
+  },
+  {
+    "filename": "98442a3ebf9796aca916a925331777e58543ad867bb02c8e46bf4a75761eeb8f.webp",
+    "size": 30696,
+    "source_rel": "daewoo/models/nexia/images/98442a3ebf9796aca916a925331777e58543ad867bb02c8e46bf4a75761eeb8f.webp"
+  },
+  {
+    "filename": "988a845f1b889715c294ee762bbf3f94dff021b6c71e71fe7ee6d88f12bbecd2.webp",
+    "size": 19832,
+    "source_rel": "daewoo/models/nexia/images/988a845f1b889715c294ee762bbf3f94dff021b6c71e71fe7ee6d88f12bbecd2.webp"
+  },
+  {
+    "filename": "98df7463abbf6434fad0f9be46cf88aa82e16d54358fee1175abc1d189c38dcb.webp",
+    "size": 23626,
+    "source_rel": "daewoo/models/nexia/images/98df7463abbf6434fad0f9be46cf88aa82e16d54358fee1175abc1d189c38dcb.webp"
+  },
+  {
+    "filename": "98f05f75ac93553f1ade31cad7e5dae5d40cee4d736432ff3cbbd55f5c29250a.webp",
+    "size": 22996,
+    "source_rel": "daewoo/models/nexia/images/98f05f75ac93553f1ade31cad7e5dae5d40cee4d736432ff3cbbd55f5c29250a.webp"
+  },
+  {
+    "filename": "990f97517e5affbda126b008eb835f69fdc2412e7b59f72a6a4b0a69f53aa611.webp",
+    "size": 17846,
+    "source_rel": "daewoo/models/nexia/images/990f97517e5affbda126b008eb835f69fdc2412e7b59f72a6a4b0a69f53aa611.webp"
+  },
+  {
+    "filename": "9949f8593f80a1125ee851e15a626e5e0f7899a6ccf4d2bf924390e3b2bbeee7.webp",
+    "size": 15196,
+    "source_rel": "daewoo/models/nexia/images/9949f8593f80a1125ee851e15a626e5e0f7899a6ccf4d2bf924390e3b2bbeee7.webp"
+  },
+  {
+    "filename": "999ee820c6e86fc3bacb6b5bbb5ebb1d450f0894b7bc2de6bd45be106f05409e.webp",
+    "size": 23778,
+    "source_rel": "daewoo/models/nexia/images/999ee820c6e86fc3bacb6b5bbb5ebb1d450f0894b7bc2de6bd45be106f05409e.webp"
+  },
+  {
+    "filename": "99f0d906884647c2c096065a757e254c7c1170d4620d01ef62ea11bffea21b49.webp",
+    "size": 25280,
+    "source_rel": "daewoo/models/nexia/images/99f0d906884647c2c096065a757e254c7c1170d4620d01ef62ea11bffea21b49.webp"
+  },
+  {
+    "filename": "9a4ae1e56bb2b0a2a965eac94e9ad630cd6fba70c642a120ca99627a17c50c97.webp",
+    "size": 39408,
+    "source_rel": "daewoo/models/nexia/images/9a4ae1e56bb2b0a2a965eac94e9ad630cd6fba70c642a120ca99627a17c50c97.webp"
+  },
+  {
+    "filename": "9ac7ea68ac2130b6ca5c4e6175f245ac1eedc540cc9d519e5dcdf05217000f9d.webp",
+    "size": 17856,
+    "source_rel": "daewoo/models/nexia/images/9ac7ea68ac2130b6ca5c4e6175f245ac1eedc540cc9d519e5dcdf05217000f9d.webp"
+  },
+  {
+    "filename": "9b1bd0c1ad823029d3c411c4235ae57d37f60ea5835793d11a7974a9076ee841.webp",
+    "size": 16502,
+    "source_rel": "daewoo/models/nexia/images/9b1bd0c1ad823029d3c411c4235ae57d37f60ea5835793d11a7974a9076ee841.webp"
+  },
+  {
+    "filename": "9b6f665f709468a73973357cd69ad538f3924ddf782d057877ae4cb2b6e841aa.webp",
+    "size": 3476,
+    "source_rel": "daewoo/models/nexia/images/9b6f665f709468a73973357cd69ad538f3924ddf782d057877ae4cb2b6e841aa.webp"
+  },
+  {
+    "filename": "9b78f83ede8bd32b949849c2e498c505abf480c45120816ae5a811a775b2b36b.webp",
+    "size": 15564,
+    "source_rel": "daewoo/models/nexia/images/9b78f83ede8bd32b949849c2e498c505abf480c45120816ae5a811a775b2b36b.webp"
+  },
+  {
+    "filename": "9c05786cbfef6dbb2e1cf5eb5faa31b89d581fa5b4eac1fa40144f1292f10bb1.webp",
+    "size": 22890,
+    "source_rel": "daewoo/models/nexia/images/9c05786cbfef6dbb2e1cf5eb5faa31b89d581fa5b4eac1fa40144f1292f10bb1.webp"
+  },
+  {
+    "filename": "9c2c9195353875e380f7bac7d279e423198254e52ba8e496f39d8fedf73197a9.webp",
+    "size": 18186,
+    "source_rel": "daewoo/models/nexia/images/9c2c9195353875e380f7bac7d279e423198254e52ba8e496f39d8fedf73197a9.webp"
+  },
+  {
+    "filename": "9c70444b17b086eb58066f30aea1689b6de2ae5a7a80824f6ca750c902376c05.webp",
+    "size": 19030,
+    "source_rel": "daewoo/models/nexia/images/9c70444b17b086eb58066f30aea1689b6de2ae5a7a80824f6ca750c902376c05.webp"
+  },
+  {
+    "filename": "9c9324e615ca38ed502d9180a439ac915d1b872cbca93981f288c3b06882be23.webp",
+    "size": 95188,
+    "source_rel": "daewoo/models/nexia/images/9c9324e615ca38ed502d9180a439ac915d1b872cbca93981f288c3b06882be23.webp"
+  },
+  {
+    "filename": "9d86cdde78565319dc12165655003515a95240872a3ba79e3af79b82d32cb1df.webp",
+    "size": 19672,
+    "source_rel": "daewoo/models/nexia/images/9d86cdde78565319dc12165655003515a95240872a3ba79e3af79b82d32cb1df.webp"
+  },
+  {
+    "filename": "9d98922fca9940ae3bd099f0015d347267e83d1257591601e68fda6efe877f37.webp",
+    "size": 20762,
+    "source_rel": "daewoo/models/nexia/images/9d98922fca9940ae3bd099f0015d347267e83d1257591601e68fda6efe877f37.webp"
+  },
+  {
+    "filename": "9e82f03fa4946862ff341599ef5314ff5052e55abed80bdd14711e2eb1662a04.webp",
+    "size": 37916,
+    "source_rel": "daewoo/models/nexia/images/9e82f03fa4946862ff341599ef5314ff5052e55abed80bdd14711e2eb1662a04.webp"
+  },
+  {
+    "filename": "9e87f29f014abf8384c96322b42b6de71ba1bafd09eadcfccfa29fb1f3b51e01.webp",
+    "size": 29454,
+    "source_rel": "daewoo/models/nexia/images/9e87f29f014abf8384c96322b42b6de71ba1bafd09eadcfccfa29fb1f3b51e01.webp"
+  },
+  {
+    "filename": "9e89c291b18a8b2685e4706fedc9266baae9e2c54e56072e9fabc26fa55188da.webp",
+    "size": 11796,
+    "source_rel": "daewoo/models/nexia/images/9e89c291b18a8b2685e4706fedc9266baae9e2c54e56072e9fabc26fa55188da.webp"
+  },
+  {
+    "filename": "9efa1ed87c7e6554c60a05768c4f07513b09e4e1d2ec8ea68937d53de630609c.webp",
+    "size": 20758,
+    "source_rel": "daewoo/models/nexia/images/9efa1ed87c7e6554c60a05768c4f07513b09e4e1d2ec8ea68937d53de630609c.webp"
+  },
+  {
+    "filename": "9f960cf1bcd808375259f9d872c523a3662a2347aa036911ec62ecc7493f8dfa.webp",
+    "size": 15940,
+    "source_rel": "daewoo/models/nexia/images/9f960cf1bcd808375259f9d872c523a3662a2347aa036911ec62ecc7493f8dfa.webp"
+  },
+  {
+    "filename": "9fe8a68ec737026d05284ccd5790574dfcdd2f1c1a5f588a00971d7fe9d28ef7.webp",
+    "size": 13352,
+    "source_rel": "daewoo/models/nexia/images/9fe8a68ec737026d05284ccd5790574dfcdd2f1c1a5f588a00971d7fe9d28ef7.webp"
+  },
+  {
+    "filename": "a0857fd955c9ad5ccd8043798e57f83df5423eb827d46d0614a56b9eaca464ac.webp",
+    "size": 21556,
+    "source_rel": "daewoo/models/nexia/images/a0857fd955c9ad5ccd8043798e57f83df5423eb827d46d0614a56b9eaca464ac.webp"
+  },
+  {
+    "filename": "a0ee9084d46dfb1a47cddaa29ef39d383b3965ba21cb478e00e37ca245928d98.webp",
+    "size": 22772,
+    "source_rel": "daewoo/models/nexia/images/a0ee9084d46dfb1a47cddaa29ef39d383b3965ba21cb478e00e37ca245928d98.webp"
+  },
+  {
+    "filename": "a12a851e2689fbdd2aa631e9b75ef3e94a3a563afa054e0bc2a1443e4a5f2c64.webp",
+    "size": 18280,
+    "source_rel": "daewoo/models/nexia/images/a12a851e2689fbdd2aa631e9b75ef3e94a3a563afa054e0bc2a1443e4a5f2c64.webp"
+  },
+  {
+    "filename": "a164062db67e9dbef0d9d5a20294caf90524b50c9fbb374afab197e0916ed387.webp",
+    "size": 8744,
+    "source_rel": "daewoo/models/nexia/images/a164062db67e9dbef0d9d5a20294caf90524b50c9fbb374afab197e0916ed387.webp"
+  },
+  {
+    "filename": "a1773989c38001e34c10f714c7e456b1bd2d038f1b63226e31df12c101a97108.webp",
+    "size": 15512,
+    "source_rel": "daewoo/models/nexia/images/a1773989c38001e34c10f714c7e456b1bd2d038f1b63226e31df12c101a97108.webp"
+  },
+  {
+    "filename": "a2392038815e0be843ff834233f64fd4da129e927fffc174027c7eae36f5e362.webp",
+    "size": 17148,
+    "source_rel": "daewoo/models/nexia/images/a2392038815e0be843ff834233f64fd4da129e927fffc174027c7eae36f5e362.webp"
+  },
+  {
+    "filename": "a240b211b979aea1d7d41ceb1801cc8331b01a05c4d27397f9c8895460ffdd69.webp",
+    "size": 18748,
+    "source_rel": "daewoo/models/nexia/images/a240b211b979aea1d7d41ceb1801cc8331b01a05c4d27397f9c8895460ffdd69.webp"
+  },
+  {
+    "filename": "a2c166fd9f8188a505403c547c2ac3af03e10930919f1684a715b454c5fa61d6.webp",
+    "size": 18278,
+    "source_rel": "daewoo/models/nexia/images/a2c166fd9f8188a505403c547c2ac3af03e10930919f1684a715b454c5fa61d6.webp"
+  },
+  {
+    "filename": "a2c2132efcf082520db632ebb04e9eb55efc46b28448642983d5b8134d9c641b.webp",
+    "size": 17220,
+    "source_rel": "daewoo/models/nexia/images/a2c2132efcf082520db632ebb04e9eb55efc46b28448642983d5b8134d9c641b.webp"
+  },
+  {
+    "filename": "a2e1c007c8504f9a1ba3a35cf2d6c9a1b91f3ceb7f68f880526dc4b2a2947ece.webp",
+    "size": 18990,
+    "source_rel": "daewoo/models/nexia/images/a2e1c007c8504f9a1ba3a35cf2d6c9a1b91f3ceb7f68f880526dc4b2a2947ece.webp"
+  },
+  {
+    "filename": "a35cb2726aff196b7b83ee034b1282a34b23345388b5a0305b73bd2b8b745988.webp",
+    "size": 33148,
+    "source_rel": "daewoo/models/nexia/images/a35cb2726aff196b7b83ee034b1282a34b23345388b5a0305b73bd2b8b745988.webp"
+  },
+  {
+    "filename": "a4b232c5aa207949a87ce0fa0ca5f4f125f1bdb3d36ea6b4fee19664832f2d5e.webp",
+    "size": 28076,
+    "source_rel": "daewoo/models/nexia/images/a4b232c5aa207949a87ce0fa0ca5f4f125f1bdb3d36ea6b4fee19664832f2d5e.webp"
+  },
+  {
+    "filename": "a54d067eb6df2fff6e1330495191c46a7fdf95b759df4ac6d6d460e15d68c637.webp",
+    "size": 17878,
+    "source_rel": "daewoo/models/nexia/images/a54d067eb6df2fff6e1330495191c46a7fdf95b759df4ac6d6d460e15d68c637.webp"
+  },
+  {
+    "filename": "a54f53d4a2e3b198e8e625d925e12ed1b9de5f33294eb500cc0d041533ae8ce5.webp",
+    "size": 14032,
+    "source_rel": "daewoo/models/nexia/images/a54f53d4a2e3b198e8e625d925e12ed1b9de5f33294eb500cc0d041533ae8ce5.webp"
+  },
+  {
+    "filename": "a65762f37b3541aaa50d51f328428e6a9438bd92561dce0342fec3c7123dd3c0.webp",
+    "size": 24584,
+    "source_rel": "daewoo/models/nexia/images/a65762f37b3541aaa50d51f328428e6a9438bd92561dce0342fec3c7123dd3c0.webp"
+  },
+  {
+    "filename": "a6bda1b690d09b90ac5174736c39424d7e8d03882c95208fd2890b71c43f5936.webp",
+    "size": 22028,
+    "source_rel": "daewoo/models/nexia/images/a6bda1b690d09b90ac5174736c39424d7e8d03882c95208fd2890b71c43f5936.webp"
+  },
+  {
+    "filename": "a748a6e7892c0780ef44e1702fbedae8b969d91cbc4dc4062b97221ba2939009.webp",
+    "size": 13762,
+    "source_rel": "daewoo/models/nexia/images/a748a6e7892c0780ef44e1702fbedae8b969d91cbc4dc4062b97221ba2939009.webp"
+  },
+  {
+    "filename": "a78456b3775567698e30888f39c2d9831be902145a63153f8c282075b1fbc4b5.webp",
+    "size": 75184,
+    "source_rel": "daewoo/models/nexia/images/a78456b3775567698e30888f39c2d9831be902145a63153f8c282075b1fbc4b5.webp"
+  },
+  {
+    "filename": "a78ea4d8f44f320679c34f99e8735e593773edeade25e812014764e3c7728027.webp",
+    "size": 107140,
+    "source_rel": "daewoo/models/nexia/images/a78ea4d8f44f320679c34f99e8735e593773edeade25e812014764e3c7728027.webp"
+  },
+  {
+    "filename": "a7e66c530bf37692c48944085bef71bf69499f2bef1427bd68b4efa3f238d0ba.webp",
+    "size": 8170,
+    "source_rel": "daewoo/models/nexia/images/a7e66c530bf37692c48944085bef71bf69499f2bef1427bd68b4efa3f238d0ba.webp"
+  },
+  {
+    "filename": "a82995f52864547531deb71ada56d750b78ebd2ecbe98dd635448b9609bef8a7.webp",
+    "size": 18548,
+    "source_rel": "daewoo/models/nexia/images/a82995f52864547531deb71ada56d750b78ebd2ecbe98dd635448b9609bef8a7.webp"
+  },
+  {
+    "filename": "a83cb49045f89fc24618a0c25dbc9ed237bcd7f46236180898640a7d849de855.webp",
+    "size": 17910,
+    "source_rel": "daewoo/models/nexia/images/a83cb49045f89fc24618a0c25dbc9ed237bcd7f46236180898640a7d849de855.webp"
+  },
+  {
+    "filename": "a8849b2379bdc86d6bc03c290f82a7a7239e8ebce98a760e10ee9d91e4ac8424.webp",
+    "size": 14386,
+    "source_rel": "daewoo/models/nexia/images/a8849b2379bdc86d6bc03c290f82a7a7239e8ebce98a760e10ee9d91e4ac8424.webp"
+  },
+  {
+    "filename": "a9580419588eb2e565fe25780d615712e89084323acf3ce1880e2d017245ab4a.webp",
+    "size": 26202,
+    "source_rel": "daewoo/models/nexia/images/a9580419588eb2e565fe25780d615712e89084323acf3ce1880e2d017245ab4a.webp"
+  },
+  {
+    "filename": "aa3593d0c5c7ed14521c2802f07e19e5a79007953c8ffc3d505191e90566399b.webp",
+    "size": 98144,
+    "source_rel": "daewoo/models/nexia/images/aa3593d0c5c7ed14521c2802f07e19e5a79007953c8ffc3d505191e90566399b.webp"
+  },
+  {
+    "filename": "aa6df96fec84178c1f90960ba58bef6c9b473e158cf1485e6620c5c89239f99f.webp",
+    "size": 16544,
+    "source_rel": "daewoo/models/nexia/images/aa6df96fec84178c1f90960ba58bef6c9b473e158cf1485e6620c5c89239f99f.webp"
+  },
+  {
+    "filename": "aa7f7ba99054303cf75bcc907e78ddc191e5a14448ebc5ebc4dbc25b1273baa4.webp",
+    "size": 21594,
+    "source_rel": "daewoo/models/nexia/images/aa7f7ba99054303cf75bcc907e78ddc191e5a14448ebc5ebc4dbc25b1273baa4.webp"
+  },
+  {
+    "filename": "aaa2fa8a96278607bab2f9ed3fdb5890adace9dbb72a25c9f5bd00bcd36af7e2.webp",
+    "size": 25470,
+    "source_rel": "daewoo/models/nexia/images/aaa2fa8a96278607bab2f9ed3fdb5890adace9dbb72a25c9f5bd00bcd36af7e2.webp"
+  },
+  {
+    "filename": "aac372cb16d9ee12e9096be3dfcfe8f6ceca8f747660e381e2d1a698da8e7709.webp",
+    "size": 39452,
+    "source_rel": "daewoo/models/nexia/images/aac372cb16d9ee12e9096be3dfcfe8f6ceca8f747660e381e2d1a698da8e7709.webp"
+  },
+  {
+    "filename": "aadce4f510d90a78cd0fd0337caf71ffa170c5fc3c7cf9d6d3b41070a404247b.webp",
+    "size": 27786,
+    "source_rel": "daewoo/models/nexia/images/aadce4f510d90a78cd0fd0337caf71ffa170c5fc3c7cf9d6d3b41070a404247b.webp"
+  },
+  {
+    "filename": "ac66a547aba58350b469b4ccc684280de0d898a50185293cc1f41bc4dfdb188d.webp",
+    "size": 19148,
+    "source_rel": "daewoo/models/nexia/images/ac66a547aba58350b469b4ccc684280de0d898a50185293cc1f41bc4dfdb188d.webp"
+  },
+  {
+    "filename": "ac9dbaa8f344e50f9706342256a8c584217bc24cf27c120e06f75dc87c872577.webp",
+    "size": 13704,
+    "source_rel": "daewoo/models/nexia/images/ac9dbaa8f344e50f9706342256a8c584217bc24cf27c120e06f75dc87c872577.webp"
+  },
+  {
+    "filename": "aca37269beb6ec39a412cb10e5f936f088b644b89616a3c3e9dc840105fc18fe.webp",
+    "size": 15010,
+    "source_rel": "daewoo/models/nexia/images/aca37269beb6ec39a412cb10e5f936f088b644b89616a3c3e9dc840105fc18fe.webp"
+  },
+  {
+    "filename": "ad36b90281c0456e96abd69cc81c2a91ec1148974dfe8a760e8a18ccdd6ae51a.webp",
+    "size": 18424,
+    "source_rel": "daewoo/models/nexia/images/ad36b90281c0456e96abd69cc81c2a91ec1148974dfe8a760e8a18ccdd6ae51a.webp"
+  },
+  {
+    "filename": "ad89e261f96d52be845c17812818a1df8e2573f0dcacb7b93c70cfb07134f44c.webp",
+    "size": 19104,
+    "source_rel": "daewoo/models/nexia/images/ad89e261f96d52be845c17812818a1df8e2573f0dcacb7b93c70cfb07134f44c.webp"
+  },
+  {
+    "filename": "aec99a5ab57b837f76ae0b995277f44ffcdab709afe6ef4b45cef1d1437866eb.webp",
+    "size": 20030,
+    "source_rel": "daewoo/models/nexia/images/aec99a5ab57b837f76ae0b995277f44ffcdab709afe6ef4b45cef1d1437866eb.webp"
+  },
+  {
+    "filename": "af2074e5b724e4dc242aa5a25705542ca5c0521f69ea330f80c23586e882e18e.webp",
+    "size": 24906,
+    "source_rel": "daewoo/models/nexia/images/af2074e5b724e4dc242aa5a25705542ca5c0521f69ea330f80c23586e882e18e.webp"
+  },
+  {
+    "filename": "af57844a8ea7f155728606a5b4d890bc6099a32f2e6cde58fd99c812a49ccf60.webp",
+    "size": 23460,
+    "source_rel": "daewoo/models/nexia/images/af57844a8ea7f155728606a5b4d890bc6099a32f2e6cde58fd99c812a49ccf60.webp"
+  },
+  {
+    "filename": "af7f0ef03ac2fa2b220ae77c4e5058c310c04e6c96b15ffbcb7ff5017f37ea51.webp",
+    "size": 17854,
+    "source_rel": "daewoo/models/nexia/images/af7f0ef03ac2fa2b220ae77c4e5058c310c04e6c96b15ffbcb7ff5017f37ea51.webp"
+  },
+  {
+    "filename": "b0375c00d20867aa4f8b254ce1e6aa22a23c66d666a9250cdd4e579b5115e503.webp",
+    "size": 18582,
+    "source_rel": "daewoo/models/nexia/images/b0375c00d20867aa4f8b254ce1e6aa22a23c66d666a9250cdd4e579b5115e503.webp"
+  },
+  {
+    "filename": "b0788d599611023247c7934df9e3cd64b8047f891edfb4c0c70c90aed59de10a.webp",
+    "size": 43702,
+    "source_rel": "daewoo/models/nexia/images/b0788d599611023247c7934df9e3cd64b8047f891edfb4c0c70c90aed59de10a.webp"
+  },
+  {
+    "filename": "b0b6ebbb174075968c1d7a6b1cbf28dcb71b1a4866112dc957ef5d1336b93314.webp",
+    "size": 10928,
+    "source_rel": "daewoo/models/nexia/images/b0b6ebbb174075968c1d7a6b1cbf28dcb71b1a4866112dc957ef5d1336b93314.webp"
+  },
+  {
+    "filename": "b131fb1dec53da10469cafdb3811f6e06f0ca66d739add208ea27568925f8b28.webp",
+    "size": 32660,
+    "source_rel": "daewoo/models/nexia/images/b131fb1dec53da10469cafdb3811f6e06f0ca66d739add208ea27568925f8b28.webp"
+  },
+  {
+    "filename": "b148952dc3a03c9654120dc5e32428059807dbbef765aefb8bfef07afead3472.webp",
+    "size": 21718,
+    "source_rel": "daewoo/models/nexia/images/b148952dc3a03c9654120dc5e32428059807dbbef765aefb8bfef07afead3472.webp"
+  },
+  {
+    "filename": "b1efd5eb32183d7ffa6120e327efb43d3bdb9078b7825d0a21a76a8f104ec457.webp",
+    "size": 18324,
+    "source_rel": "daewoo/models/nexia/images/b1efd5eb32183d7ffa6120e327efb43d3bdb9078b7825d0a21a76a8f104ec457.webp"
+  },
+  {
+    "filename": "b2f4df2a63d91c794ffc3f6bfd5a67004f336af4cc5df297404b032f5b96ce80.webp",
+    "size": 23184,
+    "source_rel": "daewoo/models/nexia/images/b2f4df2a63d91c794ffc3f6bfd5a67004f336af4cc5df297404b032f5b96ce80.webp"
+  },
+  {
+    "filename": "b330abac3176068605676b26ef2babce6f2e225d8a05195fe69a13b1a827c258.webp",
+    "size": 19188,
+    "source_rel": "daewoo/models/nexia/images/b330abac3176068605676b26ef2babce6f2e225d8a05195fe69a13b1a827c258.webp"
+  },
+  {
+    "filename": "b38f54d7e53ebb7350991ba01745223ab6b5e70a27399d3b8ca3b40e57ddd67b.webp",
+    "size": 16520,
+    "source_rel": "daewoo/models/nexia/images/b38f54d7e53ebb7350991ba01745223ab6b5e70a27399d3b8ca3b40e57ddd67b.webp"
+  },
+  {
+    "filename": "b3e89103dedc4003b6bff7790eddffb52c62d3a6c932ab8ce228eb1fc7861c6a.webp",
+    "size": 61046,
+    "source_rel": "daewoo/models/nexia/images/b3e89103dedc4003b6bff7790eddffb52c62d3a6c932ab8ce228eb1fc7861c6a.webp"
+  },
+  {
+    "filename": "b416579d09ddb8990bf7204e2ab7a1683a79c3d1ae95a80502a2656312e0dd71.webp",
+    "size": 21352,
+    "source_rel": "daewoo/models/nexia/images/b416579d09ddb8990bf7204e2ab7a1683a79c3d1ae95a80502a2656312e0dd71.webp"
+  },
+  {
+    "filename": "b47581e132c1d2c2b14a091fed44070889e5b96fa9ad407b91b03216d438c782.webp",
+    "size": 14918,
+    "source_rel": "daewoo/models/nexia/images/b47581e132c1d2c2b14a091fed44070889e5b96fa9ad407b91b03216d438c782.webp"
+  },
+  {
+    "filename": "b47eb381bb04a9e9524136ed31fe5573ddbb601a45a47624aaa1db075704fc14.webp",
+    "size": 23534,
+    "source_rel": "daewoo/models/nexia/images/b47eb381bb04a9e9524136ed31fe5573ddbb601a45a47624aaa1db075704fc14.webp"
+  },
+  {
+    "filename": "b49b7ae7cdbe17366c193f5fb5dbe457506b692335d0dc903b3f8c09aedebcb6.webp",
+    "size": 29046,
+    "source_rel": "daewoo/models/nexia/images/b49b7ae7cdbe17366c193f5fb5dbe457506b692335d0dc903b3f8c09aedebcb6.webp"
+  },
+  {
+    "filename": "b4a1135bd214367745250866ddda84031c8ac816fcc300edbf66d816bc5eca5d.webp",
+    "size": 11078,
+    "source_rel": "daewoo/models/nexia/images/b4a1135bd214367745250866ddda84031c8ac816fcc300edbf66d816bc5eca5d.webp"
+  },
+  {
+    "filename": "b5230cc67da4b6d42a520aa7c31f1d9bd356b12688fe60f995f01c4bd1f24f04.webp",
+    "size": 12118,
+    "source_rel": "daewoo/models/nexia/images/b5230cc67da4b6d42a520aa7c31f1d9bd356b12688fe60f995f01c4bd1f24f04.webp"
+  },
+  {
+    "filename": "b56f55f565d61d0518c2848b9be0e6ed5f2b53f07e9e7dd2d529297bde0e2114.webp",
+    "size": 20230,
+    "source_rel": "daewoo/models/nexia/images/b56f55f565d61d0518c2848b9be0e6ed5f2b53f07e9e7dd2d529297bde0e2114.webp"
+  },
+  {
+    "filename": "b5d8ad6ec1b524b9d51469ac5273ec8e80e9d10a860139807ab930e61ce23382.webp",
+    "size": 16240,
+    "source_rel": "daewoo/models/nexia/images/b5d8ad6ec1b524b9d51469ac5273ec8e80e9d10a860139807ab930e61ce23382.webp"
+  },
+  {
+    "filename": "b5feb64d2c0b8dc2060b9b074254162d27f8b43f6f9fad690e34aa8e1a751480.webp",
+    "size": 107280,
+    "source_rel": "daewoo/models/nexia/images/b5feb64d2c0b8dc2060b9b074254162d27f8b43f6f9fad690e34aa8e1a751480.webp"
+  },
+  {
+    "filename": "b60fd969ca7e4a82529ba0934c9aa46c2a84e6525f8cafd3f2a5d8fd01f99e7c.webp",
+    "size": 140524,
+    "source_rel": "daewoo/models/nexia/images/b60fd969ca7e4a82529ba0934c9aa46c2a84e6525f8cafd3f2a5d8fd01f99e7c.webp"
+  },
+  {
+    "filename": "b6549240e413c03ec25f7704dce6c50f8ad84a545f00dad120629e81d00fbbeb.webp",
+    "size": 25800,
+    "source_rel": "daewoo/models/nexia/images/b6549240e413c03ec25f7704dce6c50f8ad84a545f00dad120629e81d00fbbeb.webp"
+  },
+  {
+    "filename": "b65c907f74c58153bfbef956f8d7c8eb7a0eefe3f96848b719f25c0676d02426.webp",
+    "size": 98742,
+    "source_rel": "daewoo/models/nexia/images/b65c907f74c58153bfbef956f8d7c8eb7a0eefe3f96848b719f25c0676d02426.webp"
+  },
+  {
+    "filename": "b6aa1e888c35f85a09c7232b89bb69c7cb4804bbf7316df58513afacbfc160fb.webp",
+    "size": 16932,
+    "source_rel": "daewoo/models/nexia/images/b6aa1e888c35f85a09c7232b89bb69c7cb4804bbf7316df58513afacbfc160fb.webp"
+  },
+  {
+    "filename": "b6f0d0812c17d66e8722fff5b076aee211274311d9f140790f238833e517cf48.webp",
+    "size": 24170,
+    "source_rel": "daewoo/models/nexia/images/b6f0d0812c17d66e8722fff5b076aee211274311d9f140790f238833e517cf48.webp"
+  },
+  {
+    "filename": "b6f5b2a725b9a3299c8d53343c97c1d26d66c6e01f0e83cdf5e43145f8a959f7.webp",
+    "size": 17308,
+    "source_rel": "daewoo/models/nexia/images/b6f5b2a725b9a3299c8d53343c97c1d26d66c6e01f0e83cdf5e43145f8a959f7.webp"
+  },
+  {
+    "filename": "b70803f051f2ed2b97f02c9db34b8a0f28eeca0d01b0473a6ef59011e8bcb4b6.webp",
+    "size": 23644,
+    "source_rel": "daewoo/models/nexia/images/b70803f051f2ed2b97f02c9db34b8a0f28eeca0d01b0473a6ef59011e8bcb4b6.webp"
+  }
+]

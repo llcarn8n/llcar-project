@@ -1,0 +1,1827 @@
+{
+  "brand": "mitsubishi",
+  "model": "pajero_sport",
+  "source": "manual_extract+template",
+  "total_parts": 1869,
+  "systems": {
+    "Uncategorized": 1774,
+    "Engine": 15,
+    "Fuel System": 4,
+    "Exhaust System": 5,
+    "Cooling System": 8,
+    "Transmission": 5,
+    "Brake System": 9,
+    "Suspension / Wheels": 13,
+    "Steering": 4,
+    "Electrical": 8,
+    "HVAC": 5,
+    "Body": 9,
+    "Wiper System": 4,
+    "Interior": 2,
+    "Wheels / Tires": 4
+  },
+  "parts": [
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Моторное масло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Масляный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Воздушный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Свечи зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Катушка зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень ГРМ / цепь ГРМ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень генератора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка клапанной крышки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка ГБЦ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик положения коленвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Расходомер воздуха",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Дроссельная заслонка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Форсунки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Регулятор давления топлива",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Каталитический нейтрализатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель средний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Прокладка выхлопной трубы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Антифриз",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Радиатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Вентилятор радиатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Расширительный бачок",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Крышка расширительного бачка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Патрубки системы охлаждения",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Масло АКПП / МКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Фильтр АКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Сцепление (комплект)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Выжимной подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Главный цилиндр сцепления",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозная жидкость",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Датчик ABS",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные барабанные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Стойка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Втулка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Рычаг подвески",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Сайлентблок рычага",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Шаровая опора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Ступичный подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС наружный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС внутренний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пыльник ШРУСа",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Наконечник рулевой тяги",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Рулевая тяга",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Жидкость ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Насос ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Аккумулятор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Генератор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Стартер",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фара передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фонарь задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Лампы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Предохранители",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Фильтр салонный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Компрессор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Радиатор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Осушитель кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Вентилятор отопителя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Боковое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Ветровое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Заднее стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Зеркало боковое",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Капот",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Крыло переднее",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Дверь",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётки стеклоочистителя передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётка стеклоочистителя задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Бачок омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Насос омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Коврики салона",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Педаль газа / тормоза",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Шина",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Диск колёсный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Гайка колёсная",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "032890 03126 03288 03171P 032890 03171Q 322 0 03120 REF.11-1200317 вб 2 03142 0 03168 03141 2 03289P 03289T 03291P 03125 032895 03026 03064 03291 03298Q 00 03155 0 03107P 8 03298P D 03293 03135A R 020",
+      "subsystem": "",
+      "part_number": "03125032895",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "C 30117 300303 @ 8 302880 30903029u 28020 28075P- 6 000 6 0",
+      "subsystem": "",
+      "part_number": "30117300303",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "6 То 32054 000013 елм 1 321468",
+      "subsystem": "",
+      "part_number": "32054000013",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "41016 Задняя подвеска 6 40301AL Рычаги передней подвески 33991 40398E 40301AR 839048 403980 41623 403950 3",
+      "subsystem": "",
+      "part_number": "41623403950",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "169 0 1222 1 © 8 3449 40342 403870 40326 41421 41990 40301AL 40388C X 41089 4 3 1 0 S",
+      "subsystem": "",
+      "part_number": "40342403870",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "MotorData.ru M 00 00204506799 000 10 121014151611810 120 2)122 120 12) 125.128127 128129130",
+      "subsystem": "",
+      "part_number": "00204506799",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "0 50 100 150 200 Скорость автомобиля, км/ч",
+      "subsystem": "",
+      "part_number": "50100150200",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "0 0 0 00 000 0000 0009 000 000",
+      "subsystem": "",
+      "part_number": "00000009000",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "о 0000 0 000 000 3000 0 0 0008 Частота вращения выходного вала коробки передач, об/мин 50 100 150 200 Скорость автомобиля, км/ч",
+      "subsystem": "",
+      "part_number": "00000000000",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Блокировка 0 0 0 0 0 0 0009 0002 000 Частота вращения выходного вала коробки передач, об/мин 50 100 150 200 Скорость автомобиля, км/ч",
+      "subsystem": "",
+      "part_number": "00090002000",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ПО УРАЛНЯ ИСЕНРвИ БЛОК УПРАВЛЕНИЯ 3YММЕР ЦЕПЬ ИНТЕРФЕЙСА 1S5-R 7 6 1 (8 9 6 10 P-L 10A 3 3/0(00 (00 cF 7а KTOR \\$ 5 11 0 <1 TL 1 S7Y 9 5 14 10 z 8 LG-B D- <T>B-L D- D0- <70- (78-Y KТе-в (T>B-R 5 6 1 1",
+      "subsystem": "",
+      "part_number": "00000006000",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "TOYOTA 0 57E8 ДВИГАТЕЛЬ AUTO, 150 15795 4 (CAN 11/250)] Стагус ин OK E 2119:4 (211943 889] Устройство открыто для чтения/запсИ 2119.43904СКорость обмена 38400 бик 211944817СВ с инерфейсм устновЕК [211",
+      "subsystem": "",
+      "part_number": "211943889",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "TOYOTA 0 57E8 ДВИГАТЕЛЬ AUTO, 150 15795 4 (CAN 11/250)] Стагус ин OK E 2119:4 (211943 889] Устройство открыто для чтения/запсИ 2119.43904СКорость обмена 38400 бик 211944817СВ с инерфейсм устновЕК [211",
+      "subsystem": "",
+      "part_number": "ISO157554",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "TOYOTA 0 57E8 ДВИГАТЕЛЬ AUTO, 150 15795 4 (CAN 11/250)] Стагус ин OK E 2119:4 (211943 889] Устройство открыто для чтения/запсИ 2119.43904СКорость обмена 38400 бик 211944817СВ с инерфейсм устновЕК [211",
+      "subsystem": "",
+      "part_number": "ISO157654",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Motordata client 00X EUM327 080",
+      "subsystem": "",
+      "part_number": "EUM327080",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "30284P S 3 030237 280728078 O 30364 30365 C",
+      "subsystem": "",
+      "part_number": "280728078O",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "32014R © GO м A Q © 322 322998B",
+      "subsystem": "",
+      "part_number": "322322998B",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Зубчатый шкив коленчатого вала 0 000 000000 200 20 000000 Коленчатый вал",
+      "subsystem": "",
+      "part_number": "000000000",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "MotorData.ru M 00 00204506799 000 10 121014151611810 120 2)122 120 12) 125.128127 128129130",
+      "subsystem": "",
+      "part_number": "128129130",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "0 50 100 150 200 Скорость автомобиля, км/ч",
+      "subsystem": "",
+      "part_number": "100150200",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "СИСТЕМА УПРАВЛЕНИЯ ДВИГАТЕЛЕМ 6ВЗ (ПРОДОЛЖЕНИЕ) 3 ЗАМОД МВО СРАНОТЯ 1E 21. 0 858-1302 40-207 10 1 4/в f 4 2 ЕПН b 14 ТАСО 12(0-2088 022 9(0-211 14 (C200 6209) 0,82- (-2 0 8 ).258 0.858- (R-) (6-)15 КО",
+      "subsystem": "",
+      "part_number": "102103116",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "(Модели с МКПП) -СИСТЕМА ПОДДЕРЖАНИЯ ЗАМОК ЗАЖИГАНИЯ ПЛАВКАЯ 1.25R ССЕПЕДУПРДЕНИ 3L-8 (ВЫВОД ПG1\") ВСТАВКА №3 ПОЛОВЕЕВИ АТЕ 4207 1 a (0-207 РАСРНИ ОННО АТОМАТИЧЕСКИЙ КОРРЕКТОР ФАР 4/8 7.5A6 LY 12 x СИ",
+      "subsystem": "",
+      "part_number": "104105103",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "КОМБИНАЦИЯ ПРИБОРОВ (4D5, 4М4) 2 А BCAKA ПРЕ 3L-8 СОЧНОГО ПРОБЕГА 0-207 ( J/8 10 1 (РЕЛЕ ГАБАРИТОГ 3) 10\\$ 0 G \\0 C HEUC C-0 a+ i (- А 0- \\$\\\\$ 3 2 2 a ÷ x i 13 H R 8- ET НЕТАНИ w РН (G-0) ПОДСВЕТИ EF",
+      "subsystem": "",
+      "part_number": "1F2108100",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1 А23 ОДА T ПА ОД 2 10 \\* )58-\\* 2-602 (6-0 J/B ЛО 4 2 4 1\\ 0 \\$ 1 E OBETA СИИ [0 \\$0 10n6 ИНТЕРФЕЙС ЦЕПЬПИ \\$0\\$ 0 0 + 3 Ш A 10E218549 0B (0-22044 10 КОТОКТС (-r (L-0) 7 (209 1 2 АСb : 18-0 6 (C-209)",
+      "subsystem": "",
+      "part_number": "10E218549",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "111111121 ФАРЫ (модели с ксеноновыми фарами) (ПРОДОЛЖЕНИЕ)",
+      "subsystem": "",
+      "part_number": "111111121",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ПОДСВЕТКА ДВЕРНЫХ ПРОЕМОВ ПОЛА20 Bx BW |(C21 ③\\$ 10n 2(5-2090 ЧАСЫ (R-0) (R-B) (R-8) (R-B) 17CE1 АДА EIR (R-а) (R-8) (8-Y) E-10 -- НАТЕ ОК (8-17 Кв8-ю) E-12 (8-8 E-21 (B-Y) ( ( Ton yow OFF1ON ON a OFF",
+      "subsystem": "",
+      "part_number": "C10102003",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": ". \\*8 (- \\$\\$ 8 1.258 \"1 c 1 2 КАНИЯСК 6 CED 1 АТ (8) 0 2 -СИСТЕМА ОБЛЕГЧ ЗАПУСКА [9 120 \" 1/(C1) 1/(2 22 (E2 (11) (-12 10 21 au{\\$ (RD \\\\$ . 9 16 14 АОЕСИ 4 B 4: ЛАМПЫ ОСВЕЩЕНИЯ САЛОНА 2 8 4 \\$\\\\$ а ",
+      "subsystem": "",
+      "part_number": "210053242",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ла 20 5(21 БЛОК УПРАВЛЕНИЯ СИСТЕМОЙ ЕТАСС \\$\\$ 0 НЕТАНИ 3 43 4 52 0-21024(020 10 1(22 Ko 1E210 2209 OT 1250-8 B a 8 (A-116) (A-45) A12 #820 1.258 2 2 4 ю 9 3 0 в со0 т 3 ПРОТИВОУГОННАЯ СИСТЕМА (ПРОДОЛ",
+      "subsystem": "",
+      "part_number": "85C219122",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ЭЛЕКТРОННЫЙ БЛОК УПРАВЛЕНИЯ ДВИГАТЕЛЕМ (40) (2W0) (Модели с МКпп) РАР F 94 (C:115) C11834 119(115 119(0-11 95 66 43(0116 1(-209)",
+      "subsystem": "",
+      "part_number": "C11834119",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ПО УРАЛНЯ ИСЕНРвИ БЛОК УПРАВЛЕНИЯ 3YММЕР ЦЕПЬ ИНТЕРФЕЙСА 1S5-R 7 6 1 (8 9 6 10 P-L 10A 3 3/0(00 (00 cF 7а KTOR \\$ 5 11 0 <1 TL 1 S7Y 9 5 14 10 z 8 LG-B D- <T>B-L D- D0- <70- (78-Y KТе-в (T>B-R 5 6 1 1",
+      "subsystem": "",
+      "part_number": "E20073080",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Адаптер ЕЛМЗ27 поддерживает следующие протоколы стандарта ОвDII: J1850 VРW, J1850 PWм, 1SO9141-2, ISO14230-4 (KWP2000), ISO15765-4 (CAN).",
+      "subsystem": "",
+      "part_number": "ISO14230-4",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Адаптер ЕЛМЗ27 поддерживает следующие протоколы стандарта ОвDII: J1850 VРW, J1850 PWм, 1SO9141-2, ISO14230-4 (KWP2000), ISO15765-4 (CAN).",
+      "subsystem": "",
+      "part_number": "KWP2000",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Адаптер ЕЛМЗ27 поддерживает следующие протоколы стандарта ОвDII: J1850 VРW, J1850 PWм, 1SO9141-2, ISO14230-4 (KWP2000), ISO15765-4 (CAN).",
+      "subsystem": "",
+      "part_number": "ISO15765-4",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Пронзводитель . Y0700708",
+      "subsystem": "",
+      "part_number": "Y0700708",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "TOYOTA 0 57E8 ДВИГАТЕЛЬ AUTO, 150 15795 4 (CAN 11/250)] Стагус ин OK E 2119:4 (211943 889] Устройство открыто для чтения/запсИ 2119.43904СКорость обмена 38400 бик 211944817СВ с инерфейсм устновЕК [211",
+      "subsystem": "",
+      "part_number": "EL32715",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Модуль предназначен для считывания и стирания кодов не- исправностей при подключении адаптера Емз27 к диагно- стическому разъему автомобиля, поддерживающего стандарт ОВD II. Поддерживаемые протоколы: ",
+      "subsystem": "",
+      "part_number": "ISO9141-2",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Элемент питания… CR1616",
+      "subsystem": "",
+      "part_number": "CR1616",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Примечание: рекомендуется произ- водить заливку охлаждающей жидко- сти с помощью спецприспособления для замены охлаждающей жидкости (MB991871).",
+      "subsystem": "",
+      "part_number": "MB991871",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Ґермети Mitsubishi Genuine Part N MD974421 или равнозначный",
+      "subsystem": "",
+      "part_number": "MD974421",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "032890 03126 03288 03171P 032890 03171Q 322 0 03120 REF.11-1200317 вб 2 03142 0 03168 03141 2 03289P 03289T 03291P 03125 032895 03026 03064 03291 03298Q 00 03155 0 03107P 8 03298P D 03293 03135A R 020",
+      "subsystem": "",
+      "part_number": "F00071",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "032890 03126 03288 03171P 032890 03171Q 322 0 03120 REF.11-1200317 вб 2 03142 0 03168 03141 2 03289P 03289T 03291P 03125 032895 03026 03064 03291 03298Q 00 03155 0 03107P 8 03298P D 03293 03135A R 020",
+      "subsystem": "",
+      "part_number": "ME192230",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "032890 03126 03288 03171P 032890 03171Q 322 0 03120 REF.11-1200317 вб 2 03142 0 03168 03141 2 03289P 03289T 03291P 03125 032895 03026 03064 03291 03298Q 00 03155 0 03107P 8 03298P D 03293 03135A R 020",
+      "subsystem": "",
+      "part_number": "ME191029",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "032890 03126 03288 03171P 032890 03171Q 322 0 03120 REF.11-1200317 вб 2 03142 0 03168 03141 2 03289P 03289T 03291P 03125 032895 03026 03064 03291 03298Q 00 03155 0 03107P 8 03298P D 03293 03135A R 020",
+      "subsystem": "",
+      "part_number": "ME203833",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "032890 03126 03288 03171P 032890 03171Q 322 0 03120 REF.11-1200317 вб 2 03142 0 03168 03141 2 03289P 03289T 03291P 03125 032895 03026 03064 03291 03298Q 00 03155 0 03107P 8 03298P D 03293 03135A R 020",
+      "subsystem": "",
+      "part_number": "ME200254",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "032890 03126 03288 03171P 032890 03171Q 322 0 03120 REF.11-1200317 вб 2 03142 0 03168 03141 2 03289P 03289T 03291P 03125 032895 03026 03064 03291 03298Q 00 03155 0 03107P 8 03298P D 03293 03135A R 020",
+      "subsystem": "",
+      "part_number": "ME193622",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "30288 BAB 30290 A28092TT 8 a -309030 C 28092U G с E",
+      "subsystem": "",
+      "part_number": "A28092TT",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "FR 30289T -30903U F00104 28098 F28008P J",
+      "subsystem": "",
+      "part_number": "F00104",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "FR 30289T -30903U F00104 28098 F28008P J",
+      "subsystem": "",
+      "part_number": "F28008P",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "№ детали 30382 Сальник входного Название детали Модели с МКПП Каталожныйй MR145502 R H20098 H E ACAEA A F00041",
+      "subsystem": "",
+      "part_number": "MR145502",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "№ детали 30382 Сальник входного Название детали Модели с МКПП Каталожныйй MR145502 R H20098 H E ACAEA A F00041",
+      "subsystem": "",
+      "part_number": "H20098",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "№ детали 30382 Сальник входного Название детали Модели с МКПП Каталожныйй MR145502 R H20098 H E ACAEA A F00041",
+      "subsystem": "",
+      "part_number": "F00041",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "вала Модели с АКПП MR145792",
+      "subsystem": "",
+      "part_number": "MR145792",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "30386 Сальник переднего выходного вала MD731708",
+      "subsystem": "",
+      "part_number": "MD731708",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "303 4 Сальна ад дрои MB91916 № де онльтрабонанедсани КО 105",
+      "subsystem": "",
+      "part_number": "MB91916",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "32013R Ремкомплект чехла внутреннего шарнира (DOJ) MR528709",
+      "subsystem": "",
+      "part_number": "MR528709",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "32006 Подшипник промежуточного приводного вала MB160662",
+      "subsystem": "",
+      "part_number": "MB160662",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "32033 Крышка подшипника MB160948 № детали Название детали Каталожный",
+      "subsystem": "",
+      "part_number": "MB160948",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "32034 Пыльник промежуточного приводного вала MB160946 номер",
+      "subsystem": "",
+      "part_number": "MB160946",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "32062 Сальник удлинителя картера редуктора (4М41) MB620515 32238 Сайлент-блок опоры редуктора MR992363 тот",
+      "subsystem": "",
+      "part_number": "MB620515",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "32062 Сальник удлинителя картера редуктора (4М41) MB620515 32238 Сайлент-блок опоры редуктора MR992363 тот",
+      "subsystem": "",
+      "part_number": "MR992363",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "32073AL REF.26-150 р 1 32184 J 321948 G 32179 D 0 c B 32182 J A 32194B м E D N c F 32037L B J A 321948 м K E D G с Q N 32014L B J н A 32043L P 32194B D c Q B н 32013L A DO0014 № детали Название детали",
+      "subsystem": "",
+      "part_number": "DO0014",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "41016 Демпфер (отбойник) MR418018 40301AL Верхний левый рычаг в сборе 4010A013",
+      "subsystem": "",
+      "part_number": "MR418018",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "41699 Втулка стабилизатора поперечной устойчивости MB338594 40320AL Нижний левый рычаг в сборе 4013A087",
+      "subsystem": "",
+      "part_number": "MB338594",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "41399B Передний сайлент-блок нижнего рычага MR210731 40399 Сайлент-блок нижнего рычага MR992256",
+      "subsystem": "",
+      "part_number": "MR210731",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "41399B Передний сайлент-блок нижнего рычага MR210731 40399 Сайлент-блок нижнего рычага MR992256",
+      "subsystem": "",
+      "part_number": "MR992256",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "41399C Задний сайлент-блок нижнего рычага 4113A085 40388C Регулировочный болт MN125376",
+      "subsystem": "",
+      "part_number": "MN125376",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "41991 Сайлент-блок тяги Панара MB584166 40398C Болт крепления верхнего рычага MU000509 528231 52231 - 227 8 529750 52240AL 52955 © 52240AR 00 O 0 4 2 52964B е 52220 R 6 52384 52240AL 52240AR 52964C 52",
+      "subsystem": "",
+      "part_number": "MB584166",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "41991 Сайлент-блок тяги Панара MB584166 40398C Болт крепления верхнего рычага MU000509 528231 52231 - 227 8 529750 52240AL 52955 © 52240AR 00 O 0 4 2 52964B е 52220 R 6 52384 52240AL 52240AR 52964C 52",
+      "subsystem": "",
+      "part_number": "MU000509",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "41991 Сайлент-блок тяги Панара MB584166 40398C Болт крепления верхнего рычага MU000509 528231 52231 - 227 8 529750 52240AL 52955 © 52240AR 00 O 0 4 2 52964B е 52220 R 6 52384 52240AL 52240AR 52964C 52",
+      "subsystem": "",
+      "part_number": "D00088",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Дефлекторы окон (комплект 4 шт.)... MZ330257",
+      "subsystem": "",
+      "part_number": "MZ330257",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Белый (базовый) W32 ... MZ330308",
+      "subsystem": "",
+      "part_number": "MZ330308",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Коричневый СОб ... MZ330717",
+      "subsystem": "",
+      "part_number": "MZ330717",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Белый (перламутр) W54. MZ330246",
+      "subsystem": "",
+      "part_number": "MZ330246",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Серебристый Á66. MZ330247",
+      "subsystem": "",
+      "part_number": "MZ330247",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Черный Х08... MZ330248",
+      "subsystem": "",
+      "part_number": "MZ330248",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Серый А02.. MZ330250",
+      "subsystem": "",
+      "part_number": "MZ330250",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Накладка заднего бампера (серебристая)  MZ314223",
+      "subsystem": "",
+      "part_number": "MZ314223",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Защитная пленка заднего бампера .. Z314228",
+      "subsystem": "",
+      "part_number": "Z314228",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Опоры багажника крыши (максимальная нагрузка 80 кг): стальные (черного цвета) MZ314221 алюминиевые ... MZ314193",
+      "subsystem": "",
+      "part_number": "MZ314221",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Опоры багажника крыши (максимальная нагрузка 80 кг): стальные (черного цвета) MZ314221 алюминиевые ... MZ314193",
+      "subsystem": "",
+      "part_number": "MZ314193",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Крепление для велосипеда на крыше: стальное (черного цвета) .MZ314156 алюминиевое. MZ313538",
+      "subsystem": "",
+      "part_number": "MZ314156",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Крепление для велосипеда на крыше: стальное (черного цвета) .MZ314156 алюминиевое. MZ313538",
+      "subsystem": "",
+      "part_number": "MZ313538",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Алюминиевая платформа для багажа (128х79 см) ... MZ313529",
+      "subsystem": "",
+      "part_number": "MZ313529",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Стальная платформа для багажа (75х100 см).. MZ535826",
+      "subsystem": "",
+      "part_number": "MZ535826",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Спортивные накладки педалей (алюминиевые, с противоскользящими вставками): для моделей с АкПИП. MZ313869 для моделей с МКПП MZ313618",
+      "subsystem": "",
+      "part_number": "MZ313869",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Спортивные накладки педалей (алюминиевые, с противоскользящими вставками): для моделей с АкПИП. MZ313869 для моделей с МКПП MZ313618",
+      "subsystem": "",
+      "part_number": "MZ313618",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Коврики салона: войлочные (серия \"Классик\").. MZ314715 велюровые (серия \"Комфорт\")... MZ314716 резиновые.. MZ330637",
+      "subsystem": "",
+      "part_number": "MZ314715",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Коврики салона: войлочные (серия \"Классик\").. MZ314715 велюровые (серия \"Комфорт\")... MZ314716 резиновые.. MZ330637",
+      "subsystem": "",
+      "part_number": "MZ314716",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Коврики салона: войлочные (серия \"Классик\").. MZ314715 велюровые (серия \"Комфорт\")... MZ314716 резиновые.. MZ330637",
+      "subsystem": "",
+      "part_number": "MZ330637",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Поддон багажного отделения с раздельными секциями ... .MZ330237",
+      "subsystem": "",
+      "part_number": "MZ330237",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Ковер багажного отделения (текстильный)... .MZ314227",
+      "subsystem": "",
+      "part_number": "MZ314227",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Прицепное устройство с 'фиксированным крюком... MZ314240",
+      "subsystem": "",
+      "part_number": "MZ314240",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Прицепное устройство с фланцевым крюком... MZ314241",
+      "subsystem": "",
+      "part_number": "MZ314241",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "чатого вала. Если снятие зубчатого шкива \"А\" ко- ленчатого вала затруднено, то вос- пользуйтесь специальным инстру- ментом (съемником, каталожный но- мер MD998778).",
+      "subsystem": "",
+      "part_number": "MD998778",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "тельного вала. a) Нанесите небольшое количество моторного масла на рабочую кромку сальника по всей его окружности. 6) С помощью специального инстру- мента (оправки и проставки, каталож- ные номера MD9",
+      "subsystem": "",
+      "part_number": "MD998713",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "тельного вала. a) Нанесите небольшое количество моторного масла на рабочую кромку сальника по всей его окружности. 6) С помощью специального инстру- мента (оправки и проставки, каталож- ные номера MD9",
+      "subsystem": "",
+      "part_number": "MD998777",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "б) Ослабьте болты крепления и сни- мите ось коромысел в сборе. 2. Снятие коромысел клапанов. Внимание: при разборке оси коромы- сел разложите коромысла в соот- ветствии с номером цилиндра и впу- скным",
+      "subsystem": "",
+      "part_number": "MD998719",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "MB992042).",
+      "subsystem": "",
+      "part_number": "MB992042",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Если шестерни  привода уравно- вешивающего вала установлены на корпусе масляного насоса, то во избежание повреждения сальника при установке используйте на- правляющую втулку  (каталожный номер MD98385",
+      "subsystem": "",
+      "part_number": "MD98385",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "- Сканер MUT-II: MB991824. - УSВ кабель (для подсоединения к компьютеру): МВ991827. - Главный жгут проводов (для со- единения сканера с диагностиче- ским разъемом): МВ991910. 6) Рекомендуется подсоеди",
+      "subsystem": "",
+      "part_number": "MB991824",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "- Датчики для левой головки блока цилиндров: MD998464.",
+      "subsystem": "",
+      "part_number": "MD998464",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ния моторного масла. Снимите датчик аварийного давле- ния масла с помощью специально- го инструмента (каталожный номер MB992118).",
+      "subsystem": "",
+      "part_number": "MB992118",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "шестерни ТНВД. a) Аккуратно установите ТНВД в сбо- ре в тиски. 6) Установите шестерню ТНВД на вал. в) Аналогично операции снятия, за- фиксируйте шестерню ТНВД с по- мощью стопора (каталожный номер MB9",
+      "subsystem": "",
+      "part_number": "MB992096",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "– Установите выжимной подшипник в корпус подшипника, расположен- ный в картере коробки передач. -Установите фиксаторы, подсоеди- нив вилку к выжимному подшипнику. в) Установка ведомого диска сцеп- лен",
+      "subsystem": "",
+      "part_number": "N0101011",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "- Нанесите герметик на поверхность под прокладку поддона рабочей жид- кости, как показано на рисунке. Герметик. MR166584 или эквивалентный Примечание: герметик под прокладку поддона рабочей жидкости д",
+      "subsystem": "",
+      "part_number": "MR166584",
+      "source_url": "",
+      "source": "manual:chunks-manual-pajero_sport.md"
+    }
+  ],
+  "parts_total_original": 1869,
+  "parts_capped": true
+}

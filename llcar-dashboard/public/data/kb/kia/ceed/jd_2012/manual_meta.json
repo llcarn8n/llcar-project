@@ -1,0 +1,18 @@
+{
+  "brand": "kia",
+  "model": "ceed",
+  "source_path_rel": "kia/models/ceed/",
+  "manual_md_size": 101992643,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-ceed-ceed.md",
+    "manual-ceed.md",
+    "manual-ceed_ru.md",
+    "manual-f3f0e6.md",
+    "manual-off.md",
+    "manual-ru_2.md",
+    "manual-ru_reocr.md",
+    "manual-venga.md"
+  ]
+}

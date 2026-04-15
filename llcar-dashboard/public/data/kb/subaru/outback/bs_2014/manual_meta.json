@@ -1,0 +1,14 @@
+{
+  "brand": "subaru",
+  "model": "outback",
+  "source_path_rel": "subaru/models/outback/",
+  "manual_md_size": 3867528774,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-5d31b6.md",
+    "manual-90289e.md",
+    "manual-outback-iii_2025_2026.md",
+    "manual-subaru_outback.md"
+  ]
+}

@@ -1,0 +1,1827 @@
+{
+  "brand": "changan",
+  "model": "cs35_plus",
+  "source": "manual_extract+template",
+  "total_parts": 319,
+  "systems": {
+    "Uncategorized": 224,
+    "Engine": 15,
+    "Fuel System": 4,
+    "Exhaust System": 5,
+    "Cooling System": 8,
+    "Transmission": 5,
+    "Brake System": 9,
+    "Suspension / Wheels": 13,
+    "Steering": 4,
+    "Electrical": 8,
+    "HVAC": 5,
+    "Body": 9,
+    "Wiper System": 4,
+    "Interior": 2,
+    "Wheels / Tires": 4
+  },
+  "parts": [
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Моторное масло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Масляный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Воздушный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Свечи зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Катушка зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень ГРМ / цепь ГРМ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень генератора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка клапанной крышки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка ГБЦ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик положения коленвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Расходомер воздуха",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Дроссельная заслонка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Форсунки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Регулятор давления топлива",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Каталитический нейтрализатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель средний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Прокладка выхлопной трубы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Антифриз",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Радиатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Вентилятор радиатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Расширительный бачок",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Крышка расширительного бачка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Патрубки системы охлаждения",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Масло АКПП / МКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Фильтр АКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Сцепление (комплект)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Выжимной подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Главный цилиндр сцепления",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозная жидкость",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Датчик ABS",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные барабанные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Стойка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Втулка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Рычаг подвески",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Сайлентблок рычага",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Шаровая опора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Ступичный подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС наружный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС внутренний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пыльник ШРУСа",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Наконечник рулевой тяги",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Рулевая тяга",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Жидкость ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Насос ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Аккумулятор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Генератор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Стартер",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фара передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фонарь задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Лампы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Предохранители",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Фильтр салонный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Компрессор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Радиатор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Осушитель кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Вентилятор отопителя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Боковое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Ветровое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Заднее стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Зеркало боковое",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Капот",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Крыло переднее",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Дверь",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётки стеклоочистителя передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётка стеклоочистителя задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Бачок омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Насос омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Коврики салона",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Педаль газа / тормоза",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Шина",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Диск колёсный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Гайка колёсная",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Phone 11:34 Фщц с 15311991105 10:58 Dial 1 2A8c 3 DE 134337324 10.58 х Contacts 404 5x 6м0 а с 15011811228 10:57 Settings 7 ролs 8π 9 w ААААА с о 1234567890123456789012345..10:57 \\* 0. # \\$ OFF о 88 А",
+      "subsystem": "",
+      "part_number": "15311991105",
+      "source_url": "",
+      "source": "manual:chunks-manual-2023_05_26__plus_owner_manual_rus__1.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Phone 11:34 Фщц с 15311991105 10:58 Dial 1 2A8c 3 DE 134337324 10.58 х Contacts 404 5x 6м0 а с 15011811228 10:57 Settings 7 ролs 8π 9 w ААААА с о 1234567890123456789012345..10:57 \\* 0. # \\$ OFF о 88 А",
+      "subsystem": "",
+      "part_number": "15011811228",
+      "source_url": "",
+      "source": "manual:chunks-manual-2023_05_26__plus_owner_manual_rus__1.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "0 120 140 150 ① 0 2",
+      "subsystem": "",
+      "part_number": "120140150",
+      "source_url": "",
+      "source": "manual:chunks-manual-2023_05_26__plus_owner_manual_rus__1.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Phone 11:34 Фщц с 15311991105 10:58 Dial 1 2A8c 3 DE 134337324 10.58 х Contacts 404 5x 6м0 а с 15011811228 10:57 Settings 7 ролs 8π 9 w ААААА с о 1234567890123456789012345..10:57 \\* 0. # \\$ OFF о 88 А",
+      "subsystem": "",
+      "part_number": "134337324",
+      "source_url": "",
+      "source": "manual:chunks-manual-2023_05_26__plus_owner_manual_rus__1.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "CR2032).",
+      "subsystem": "",
+      "part_number": "CR2032",
+      "source_url": "",
+      "source": "manual:chunks-manual-2023_05_26__plus_owner_manual_rus__1.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "C213019",
+      "subsystem": "",
+      "part_number": "C213019",
+      "source_url": "",
+      "source": "manual:chunks-manual-2023_05_26__plus_owner_manual_rus__1.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "A GE06001",
+      "subsystem": "",
+      "part_number": "GE06001",
+      "source_url": "",
+      "source": "manual:chunks-manual-2023_05_26__plus_owner_manual_rus__1.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "② (3, 4 ① C215001",
+      "subsystem": "",
+      "part_number": "C215001",
+      "source_url": "",
+      "source": "manual:chunks-manual-2023_05_26__plus_owner_manual_rus__1.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "O0 O GE06005",
+      "subsystem": "",
+      "part_number": "GE06005",
+      "source_url": "",
+      "source": "manual:chunks-manual-2023_05_26__plus_owner_manual_rus__1.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Put the gearshift base assembly of the harness into the installation position of the central control box, fix the assembly with four hexagon flange bolts (09103-06012-S 112), and tighten the bolts.",
+      "subsystem": "",
+      "part_number": "09103-06012",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "The combination instrument is fixed on the instrument panel frame and fixed by screws (09132-48004).",
+      "subsystem": "",
+      "part_number": "09132-48004",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Use the tie rod ball joint removal tool (contact Bosch for scattered tool purchase Wang Sijue telephone 02122188875 aftersales service telephone 8008200677) to take out the ball joint pin of left and ",
+      "subsystem": "",
+      "part_number": "02122188875",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ST159120",
+      "subsystem": "",
+      "part_number": "ST159120",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "S 203 model adopts double mechanical thermostat, in which the picture thermostat assembly II is the main thermostat, and the initial opening temperature is 82℃, which is used for the cooling system to",
+      "subsystem": "",
+      "part_number": "P012800",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1.Connect the diagnostic scanner, press the ignition switch, and read the fault code. If the P0483-71 fault code appears, it means the cooling fan is blocked.",
+      "subsystem": "",
+      "part_number": "P0483-71",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P226100",
+      "subsystem": "",
+      "part_number": "P226100",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P256500",
+      "subsystem": "",
+      "part_number": "P256500",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P024600",
+      "subsystem": "",
+      "part_number": "P024600",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P068600",
+      "subsystem": "",
+      "part_number": "P068600",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P061700",
+      "subsystem": "",
+      "part_number": "P061700",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P130100/P130500/P130800",
+      "subsystem": "",
+      "part_number": "P130100",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P130100/P130500/P130800",
+      "subsystem": "",
+      "part_number": "P130500",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P130100/P130500/P130800",
+      "subsystem": "",
+      "part_number": "P130800",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P210000/P211800/P210300/P210600",
+      "subsystem": "",
+      "part_number": "P210000",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P210000/P211800/P210300/P210600",
+      "subsystem": "",
+      "part_number": "P211800",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P210000/P211800/P210300/P210600",
+      "subsystem": "",
+      "part_number": "P210300",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P210000/P211800/P210300/P210600",
+      "subsystem": "",
+      "part_number": "P210600",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P012200/P022200",
+      "subsystem": "",
+      "part_number": "P012200",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P012200/P022200",
+      "subsystem": "",
+      "part_number": "P022200",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P045128",
+      "subsystem": "",
+      "part_number": "P045128",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P045200",
+      "subsystem": "",
+      "part_number": "P045200",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P046000",
+      "subsystem": "",
+      "part_number": "P046000",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### U067600",
+      "subsystem": "",
+      "part_number": "U067600",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P046800",
+      "subsystem": "",
+      "part_number": "P046800",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P046700",
+      "subsystem": "",
+      "part_number": "P046700",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P128500",
+      "subsystem": "",
+      "part_number": "P128500",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P001000",
+      "subsystem": "",
+      "part_number": "P001000",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### Fault Code P001300: Exhaust VVT Control Circuit Open 1. Fault triggering conditions:",
+      "subsystem": "",
+      "part_number": "P001300",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P208800",
+      "subsystem": "",
+      "part_number": "P208800",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P208900",
+      "subsystem": "",
+      "part_number": "P208900",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P209000",
+      "subsystem": "",
+      "part_number": "P209000",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P209100 Fault code P 209100: Exhaust VVT control circuit voltage too high",
+      "subsystem": "",
+      "part_number": "P209100",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P001100",
+      "subsystem": "",
+      "part_number": "P001100",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P001400",
+      "subsystem": "",
+      "part_number": "P001400",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### Fault code P011900: Excessive fluctuation of water temperature sensor signal 1. Fault triggering conditions:",
+      "subsystem": "",
+      "part_number": "P011900",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P011623",
+      "subsystem": "",
+      "part_number": "P011623",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### Fault code P011626: Coolant sensor signal stuck 1. Fault triggering conditions:",
+      "subsystem": "",
+      "part_number": "P011626",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P011800",
+      "subsystem": "",
+      "part_number": "P011800",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### Fault code P011700: Water temperature sensor signal voltage too low 1. Fault triggering conditions:",
+      "subsystem": "",
+      "part_number": "P011700",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P007000 Fault code P007000: Can communication loss of ambient temperature sensor",
+      "subsystem": "",
+      "part_number": "P007000",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### Fault code P011400: Intake pressure and temperature sensor temperature signal voltage fluctuates too much 1. Fault triggering conditions:",
+      "subsystem": "",
+      "part_number": "P011400",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### Fault code P011300: Intake pressure and temperature sensor temperature signal voltage too high 1. Fault triggering conditions:",
+      "subsystem": "",
+      "part_number": "P011300",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### Fault code P011200: Intake pressure and temperature sensor temperature signal voltage too low 1. Fault triggering conditions:",
+      "subsystem": "",
+      "part_number": "P011200",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### Fault code P011126: Intake pressure and temperature sensor temperature signal is stuck 1. Fault triggering conditions:",
+      "subsystem": "",
+      "part_number": "P011126",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P138023",
+      "subsystem": "",
+      "part_number": "P138023",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### Fault code P009900: Voltage fluctuation of supercharging pressure and temperature sensor temperature signal is too large. 1. Fault triggering conditions:",
+      "subsystem": "",
+      "part_number": "P009900",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### Fault code P009800: Boost pressure temperature sensor temperature signal voltage too high 1. Fault triggering conditions:",
+      "subsystem": "",
+      "part_number": "P009800",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### Fault code P009700: Boost pressure temperature sensor temperature signal voltage too low 1. Fault triggering conditions:",
+      "subsystem": "",
+      "part_number": "P009700",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### Fault code P009626: Boost pressure and temperature sensor temperature signal is stuck 1. Fault triggering conditions:",
+      "subsystem": "",
+      "part_number": "P009626",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P052200",
+      "subsystem": "",
+      "part_number": "P052200",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P052300",
+      "subsystem": "",
+      "part_number": "P052300",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P055800 Fault code P055800: Brake vacuum pressure sensor signal voltage too high",
+      "subsystem": "",
+      "part_number": "P055800",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P055700",
+      "subsystem": "",
+      "part_number": "P055700",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P013300",
+      "subsystem": "",
+      "part_number": "P013300",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P209700",
+      "subsystem": "",
+      "part_number": "P209700",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P209600",
+      "subsystem": "",
+      "part_number": "P209600",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P013800",
+      "subsystem": "",
+      "part_number": "P013800",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P013700",
+      "subsystem": "",
+      "part_number": "P013700",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P223200",
+      "subsystem": "",
+      "part_number": "P223200",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P013600",
+      "subsystem": "",
+      "part_number": "P013600",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P005400",
+      "subsystem": "",
+      "part_number": "P005400",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P003800",
+      "subsystem": "",
+      "part_number": "P003800",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P003700",
+      "subsystem": "",
+      "part_number": "P003700",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P003600",
+      "subsystem": "",
+      "part_number": "P003600",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P227000",
+      "subsystem": "",
+      "part_number": "P227000",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P219500",
+      "subsystem": "",
+      "part_number": "P219500",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P219600",
+      "subsystem": "",
+      "part_number": "P219600",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P005300",
+      "subsystem": "",
+      "part_number": "P005300",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P003200",
+      "subsystem": "",
+      "part_number": "P003200",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P003100",
+      "subsystem": "",
+      "part_number": "P003100",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P003000",
+      "subsystem": "",
+      "part_number": "P003000",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P225100 Fault code P 225100: Front oxygen sensor wiring open circuit",
+      "subsystem": "",
+      "part_number": "P225100",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P224300",
+      "subsystem": "",
+      "part_number": "P224300",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P013200",
+      "subsystem": "",
+      "part_number": "P013200",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P013100",
+      "subsystem": "",
+      "part_number": "P013100",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P241400",
+      "subsystem": "",
+      "part_number": "P241400",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P223713",
+      "subsystem": "",
+      "part_number": "P223713",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### Fault code P032600: Knock signal abnormal",
+      "subsystem": "",
+      "part_number": "P032600",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### Fault Code P032500: Knock Sensor Circuit Open",
+      "subsystem": "",
+      "part_number": "P032500",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P032800/P032815",
+      "subsystem": "",
+      "part_number": "P032800",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P032800/P032815",
+      "subsystem": "",
+      "part_number": "P032815",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P032700/P032714",
+      "subsystem": "",
+      "part_number": "P032700",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P032700/P032714",
+      "subsystem": "",
+      "part_number": "P032714",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### Fault Code P064500: Air Conditioner Compressor Relay Control Circuit Open 1. Fault triggering conditions:",
+      "subsystem": "",
+      "part_number": "P064500",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### Fault code P064600: A/C compressor relay control circuit voltage too low 1. Fault triggering conditions:",
+      "subsystem": "",
+      "part_number": "P064600",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P064700",
+      "subsystem": "",
+      "part_number": "P064700",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P056300",
+      "subsystem": "",
+      "part_number": "P056300",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P056200",
+      "subsystem": "",
+      "part_number": "P056200",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### Fault Code P048000: Fan Control Circuit Open",
+      "subsystem": "",
+      "part_number": "P048000",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### Fault code P069200: Fan control circuit voltage too high",
+      "subsystem": "",
+      "part_number": "P069200",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### Fault code P069100: Fan control circuit voltage too low",
+      "subsystem": "",
+      "part_number": "P069100",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### Fault code P050700: Engine idle speed too high",
+      "subsystem": "",
+      "part_number": "P050700",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### Fault code P050600: Engine idle speed too low",
+      "subsystem": "",
+      "part_number": "P050600",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P064100",
+      "subsystem": "",
+      "part_number": "P064100",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### P065100",
+      "subsystem": "",
+      "part_number": "P065100",
+      "source_url": "",
+      "source": "manual:chunks-manual-changan__cs55_plus.md"
+    }
+  ],
+  "parts_total_original": 319,
+  "parts_capped": true
+}

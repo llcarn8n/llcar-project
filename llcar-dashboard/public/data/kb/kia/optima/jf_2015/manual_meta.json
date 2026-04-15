@@ -1,0 +1,14 @@
+{
+  "brand": "kia",
+  "model": "optima",
+  "source_path_rel": "kia/models/optima/",
+  "manual_md_size": 484550613,
+  "has_dita": true,
+  "has_pdf": false,
+  "variants": [
+    "manual-57be35-old.md",
+    "manual-b79c3e.md",
+    "manual-old.md",
+    "manual-reocr-old.md"
+  ]
+}

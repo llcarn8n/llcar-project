@@ -1,0 +1,12 @@
+{
+  "brand": "kia",
+  "model": "carnival",
+  "source_path_rel": "kia/models/carnival/",
+  "manual_md_size": 1000340,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-carnival_2021.md",
+    "manual-ii_2020_н_в.md"
+  ]
+}

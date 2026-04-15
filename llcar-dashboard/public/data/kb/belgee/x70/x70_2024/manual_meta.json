@@ -1,0 +1,14 @@
+{
+  "brand": "belgee",
+  "model": "x70",
+  "source_path_rel": "belgee/models/x70/",
+  "manual_md_size": 1836972,
+  "has_dita": true,
+  "has_pdf": false,
+  "variants": [
+    "manual-b8856e.md",
+    "manual-ru_ru--manual.md",
+    "manual-x70_2024_2026.md",
+    "manual-x70_2024_2026_2.md"
+  ]
+}

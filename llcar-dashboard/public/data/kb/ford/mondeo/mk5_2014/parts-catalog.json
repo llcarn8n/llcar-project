@@ -1,0 +1,1827 @@
+{
+  "brand": "ford",
+  "model": "mondeo",
+  "source": "manual_extract+template",
+  "total_parts": 254,
+  "systems": {
+    "Uncategorized": 159,
+    "Engine": 15,
+    "Fuel System": 4,
+    "Exhaust System": 5,
+    "Cooling System": 8,
+    "Transmission": 5,
+    "Brake System": 9,
+    "Suspension / Wheels": 13,
+    "Steering": 4,
+    "Electrical": 8,
+    "HVAC": 5,
+    "Body": 9,
+    "Wiper System": 4,
+    "Interior": 2,
+    "Wheels / Tires": 4
+  },
+  "parts": [
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Моторное масло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Масляный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Воздушный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Свечи зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Катушка зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень ГРМ / цепь ГРМ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень генератора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка клапанной крышки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка ГБЦ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик положения коленвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Расходомер воздуха",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Дроссельная заслонка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Форсунки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Регулятор давления топлива",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Каталитический нейтрализатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель средний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Прокладка выхлопной трубы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Антифриз",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Радиатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Вентилятор радиатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Расширительный бачок",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Крышка расширительного бачка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Патрубки системы охлаждения",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Масло АКПП / МКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Фильтр АКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Сцепление (комплект)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Выжимной подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Главный цилиндр сцепления",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозная жидкость",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Датчик ABS",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные барабанные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Стойка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Втулка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Рычаг подвески",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Сайлентблок рычага",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Шаровая опора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Ступичный подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС наружный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС внутренний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пыльник ШРУСа",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Наконечник рулевой тяги",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Рулевая тяга",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Жидкость ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Насос ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Аккумулятор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Генератор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Стартер",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фара передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фонарь задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Лампы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Предохранители",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Фильтр салонный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Компрессор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Радиатор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Осушитель кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Вентилятор отопителя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Боковое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Ветровое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Заднее стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Зеркало боковое",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Капот",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Крыло переднее",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Дверь",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётки стеклоочистителя передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётка стеклоочистителя задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Бачок омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Насос омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Коврики салона",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Педаль газа / тормоза",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Шина",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Диск колёсный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Гайка колёсная",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Loewener OTC GmbH Industriestrasse 67 D40764 Langenfeld Germany Tel: +49 (0) 2173 928-0 Fax: +49 (0) 2173 928",
+      "subsystem": "",
+      "part_number": "D40764",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "При необходимости будут даваться  инструкции по использованию WDS, FDS2000 или диагностического тестера STAR нового поколения (NGS).",
+      "subsystem": "",
+      "part_number": "FDS2000",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "TIM0101001",
+      "subsystem": "",
+      "part_number": "TIM0101001",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "TIM0101003",
+      "subsystem": "",
+      "part_number": "TIM0101003",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "TIM0101002",
+      "subsystem": "",
+      "part_number": "TIM0101002",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "TIM0101004",
+      "subsystem": "",
+      "part_number": "TIM0101004",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "TIM0101005",
+      "subsystem": "",
+      "part_number": "TIM0101005",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "TIM0101008",
+      "subsystem": "",
+      "part_number": "TIM0101008",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "TIM0101006",
+      "subsystem": "",
+      "part_number": "TIM0101006",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "TIE0022049",
+      "subsystem": "",
+      "part_number": "TIE0022049",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "TIE0025438",
+      "subsystem": "",
+      "part_number": "TIE0025438",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "TIW0102002",
+      "subsystem": "",
+      "part_number": "TIW0102002",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "G37349 ru",
+      "subsystem": "",
+      "part_number": "G37349",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "G37354 ru",
+      "subsystem": "",
+      "part_number": "G37354",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ELE0022807",
+      "subsystem": "",
+      "part_number": "ELE0022807",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ELE0022808",
+      "subsystem": "",
+      "part_number": "ELE0022808",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "T 204-226 ELE0006049",
+      "subsystem": "",
+      "part_number": "ELE0006049",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "TIE0020047",
+      "subsystem": "",
+      "part_number": "TIE0020047",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "TIE0017001",
+      "subsystem": "",
+      "part_number": "TIE0017001",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "TIE0023025",
+      "subsystem": "",
+      "part_number": "TIE0023025",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "TIE0023728",
+      "subsystem": "",
+      "part_number": "TIE0023728",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "7.  Установите прибор для проверки сжатия 623.002.1101 с переходником GV2168 в канал свечи  подогрева.",
+      "subsystem": "",
+      "part_number": "GV2168",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "5.  Установите манометр для измерения давления масла (GV2134) с переходником манометра для измерения давления масла в канал реле давления масла и расположите его таким образом, чтобы показания можно б",
+      "subsystem": "",
+      "part_number": "GV2134",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ELE0023378",
+      "subsystem": "",
+      "part_number": "ELE0023378",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ELE0023383",
+      "subsystem": "",
+      "part_number": "ELE0023383",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ELE0023385",
+      "subsystem": "",
+      "part_number": "ELE0023385",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "G37448 ru",
+      "subsystem": "",
+      "part_number": "G37448",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ELE0023389",
+      "subsystem": "",
+      "part_number": "ELE0023389",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "303-508 ELE0017396",
+      "subsystem": "",
+      "part_number": "ELE0017396",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ELE0021762",
+      "subsystem": "",
+      "part_number": "ELE0021762",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "GA2788-A",
+      "subsystem": "",
+      "part_number": "GA2788-A",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ELV9410295",
+      "subsystem": "",
+      "part_number": "ELV9410295",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "TIE0025728",
+      "subsystem": "",
+      "part_number": "TIE0025728",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "TIE0025730",
+      "subsystem": "",
+      "part_number": "TIE0025730",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ELV2103206",
+      "subsystem": "",
+      "part_number": "ELV2103206",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "GA3792-A",
+      "subsystem": "",
+      "part_number": "GA3792-A",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "TIE0025751",
+      "subsystem": "",
+      "part_number": "TIE0025751",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ELV9610291",
+      "subsystem": "",
+      "part_number": "ELV9610291",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ELV9910291",
+      "subsystem": "",
+      "part_number": "ELV9910291",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "G37498 ru",
+      "subsystem": "",
+      "part_number": "G37498",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ELE0016593",
+      "subsystem": "",
+      "part_number": "ELE0016593",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ELE0019529",
+      "subsystem": "",
+      "part_number": "ELE0019529",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ELE0019532",
+      "subsystem": "",
+      "part_number": "ELE0019532",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ELE0019533",
+      "subsystem": "",
+      "part_number": "ELE0019533",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "TIE0015807",
+      "subsystem": "",
+      "part_number": "TIE0015807",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ELE0015429",
+      "subsystem": "",
+      "part_number": "ELE0015429",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ELE0019270",
+      "subsystem": "",
+      "part_number": "ELE0019270",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "VUE0021831",
+      "subsystem": "",
+      "part_number": "VUE0021831",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "VUE0021832",
+      "subsystem": "",
+      "part_number": "VUE0021832",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "VUE0021834",
+      "subsystem": "",
+      "part_number": "VUE0021834",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "VUE0006439",
+      "subsystem": "",
+      "part_number": "VUE0006439",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "G37543 ru",
+      "subsystem": "",
+      "part_number": "G37543",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "VUE0018539",
+      "subsystem": "",
+      "part_number": "VUE0018539",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "7 VUE0015013",
+      "subsystem": "",
+      "part_number": "VUE0015013",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "VUE0022582",
+      "subsystem": "",
+      "part_number": "VUE0022582",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "VUE0022385",
+      "subsystem": "",
+      "part_number": "VUE0022385",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "VUE0022391",
+      "subsystem": "",
+      "part_number": "VUE0022391",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "VUE0022289",
+      "subsystem": "",
+      "part_number": "VUE0022289",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "GD1245-A",
+      "subsystem": "",
+      "part_number": "GD1245-A",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "GD1247-A",
+      "subsystem": "",
+      "part_number": "GD1247-A",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "GD1249-A",
+      "subsystem": "",
+      "part_number": "GD1249-A",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "GD1250-A",
+      "subsystem": "",
+      "part_number": "GD1250-A",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "GD1251-A",
+      "subsystem": "",
+      "part_number": "GD1251-A",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### GD1894-A",
+      "subsystem": "",
+      "part_number": "GD1894-A",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ELV9810049",
+      "subsystem": "",
+      "part_number": "ELV9810049",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "GD1453-B",
+      "subsystem": "",
+      "part_number": "GD1453-B",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "GD3003-B",
+      "subsystem": "",
+      "part_number": "GD3003-B",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ELE0012134",
+      "subsystem": "",
+      "part_number": "ELE0012134",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ПРИМЕЧАНИЕ: Чтобы облегчить снятие крышки  сервоблока, установите гайку с неотъемлемой от нее шайбой N621943-S2 (используя  герметик для резьбовых соединений) на  специальный болт крышки сервоблока.",
+      "subsystem": "",
+      "part_number": "N621943-S2",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "GD3391-A",
+      "subsystem": "",
+      "part_number": "GD3391-A",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ELE0022071",
+      "subsystem": "",
+      "part_number": "ELE0022071",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "GD2805-A",
+      "subsystem": "",
+      "part_number": "GD2805-A",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "GD2806-A",
+      "subsystem": "",
+      "part_number": "GD2806-A",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "GD3841-A",
+      "subsystem": "",
+      "part_number": "GD3841-A",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "GD2852-A",
+      "subsystem": "",
+      "part_number": "GD2852-A",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "GD2833-A",
+      "subsystem": "",
+      "part_number": "GD2833-A",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "GD2842-A",
+      "subsystem": "",
+      "part_number": "GD2842-A",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "GD2844-A",
+      "subsystem": "",
+      "part_number": "GD2844-A",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "TIE0019806",
+      "subsystem": "",
+      "part_number": "TIE0019806",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "GD2837-B",
+      "subsystem": "",
+      "part_number": "GD2837-B",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ELV9010202",
+      "subsystem": "",
+      "part_number": "ELV9010202",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "GD2792-A",
+      "subsystem": "",
+      "part_number": "GD2792-A",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "GD2880-A",
+      "subsystem": "",
+      "part_number": "GD2880-A",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "GD2882-A",
+      "subsystem": "",
+      "part_number": "GD2882-A",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "GD2884-A",
+      "subsystem": "",
+      "part_number": "GD2884-A",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "GD2892-A",
+      "subsystem": "",
+      "part_number": "GD2892-A",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "GD2896-A",
+      "subsystem": "",
+      "part_number": "GD2896-A",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "m о -0 0 8 2 с 0 2 GD2899-A",
+      "subsystem": "",
+      "part_number": "GD2899-A",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ELE0012192",
+      "subsystem": "",
+      "part_number": "ELE0012192",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ELE0012194",
+      "subsystem": "",
+      "part_number": "ELE0012194",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ELV9110069",
+      "subsystem": "",
+      "part_number": "ELV9110069",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "GD2858-A",
+      "subsystem": "",
+      "part_number": "GD2858-A",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ELV9910068",
+      "subsystem": "",
+      "part_number": "ELV9910068",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ELV9010069",
+      "subsystem": "",
+      "part_number": "ELV9010069",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "GD2938-A",
+      "subsystem": "",
+      "part_number": "GD2938-A",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ELE0013756",
+      "subsystem": "",
+      "part_number": "ELE0013756",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ELE0013732",
+      "subsystem": "",
+      "part_number": "ELE0013732",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ELV9110115",
+      "subsystem": "",
+      "part_number": "ELV9110115",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ELE0013733",
+      "subsystem": "",
+      "part_number": "ELE0013733",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ELE0013734",
+      "subsystem": "",
+      "part_number": "ELE0013734",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ELE0008133",
+      "subsystem": "",
+      "part_number": "ELE0008133",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ELE0008135",
+      "subsystem": "",
+      "part_number": "ELE0008135",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ELE0022661",
+      "subsystem": "",
+      "part_number": "ELE0022661",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ELM1601026",
+      "subsystem": "",
+      "part_number": "ELM1601026",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ELV1601170",
+      "subsystem": "",
+      "part_number": "ELV1601170",
+      "source_url": "",
+      "source": "manual:chunks-manual-mondeo.md"
+    }
+  ],
+  "parts_total_original": 254,
+  "parts_capped": true
+}

@@ -1,0 +1,15 @@
+{
+  "brand": "volkswagen",
+  "model": "golf",
+  "source_path_rel": "volkswagen/models/golf/",
+  "manual_md_size": 82985803,
+  "has_dita": true,
+  "has_pdf": false,
+  "variants": [
+    "manual-1984_1992.md",
+    "manual-376b05.md",
+    "manual-golf.md",
+    "manual-golf_6.md",
+    "manual-ru_reocr.md"
+  ]
+}

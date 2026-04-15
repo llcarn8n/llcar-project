@@ -1,0 +1,2502 @@
+[
+  {
+    "filename": "0048f7f705f02ca33e67c5fe29d35675c626743f73ae009de43f82c607fff3bb.webp",
+    "size": 70948,
+    "source_rel": "renault/models/kaptur/images/0048f7f705f02ca33e67c5fe29d35675c626743f73ae009de43f82c607fff3bb.webp"
+  },
+  {
+    "filename": "00868ef11dc7fb4e95b66c95cbb6b858096ac0e3b8408ea2787a3ed0302d515f.webp",
+    "size": 47326,
+    "source_rel": "renault/models/kaptur/images/00868ef11dc7fb4e95b66c95cbb6b858096ac0e3b8408ea2787a3ed0302d515f.webp"
+  },
+  {
+    "filename": "0088863b1afe5ed3bdc6c1f2bc9eca5769fce62ee0123324b980ba310b3a7115.webp",
+    "size": 33754,
+    "source_rel": "renault/models/kaptur/images/0088863b1afe5ed3bdc6c1f2bc9eca5769fce62ee0123324b980ba310b3a7115.webp"
+  },
+  {
+    "filename": "009fdd87c71de28b174bf8f9111ce93e63dcdc212f8a918116fc7ef94c13c3ab.webp",
+    "size": 57162,
+    "source_rel": "renault/models/kaptur/images/009fdd87c71de28b174bf8f9111ce93e63dcdc212f8a918116fc7ef94c13c3ab.webp"
+  },
+  {
+    "filename": "01610c42485f64c8044499e3a8c541b49364142bbdf466559fd9d5370c3bd065.webp",
+    "size": 56050,
+    "source_rel": "renault/models/kaptur/images/01610c42485f64c8044499e3a8c541b49364142bbdf466559fd9d5370c3bd065.webp"
+  },
+  {
+    "filename": "017b9aa1a34dea1e2e5bb0a91863a8d5175abbfd23310a60c116d52f9f7bae94.webp",
+    "size": 41116,
+    "source_rel": "renault/models/kaptur/images/017b9aa1a34dea1e2e5bb0a91863a8d5175abbfd23310a60c116d52f9f7bae94.webp"
+  },
+  {
+    "filename": "017d1fa3697da99fddeb53aeb6f1be35bf18fe4a299886dffbad6b01170c0591.webp",
+    "size": 48262,
+    "source_rel": "renault/models/kaptur/images/017d1fa3697da99fddeb53aeb6f1be35bf18fe4a299886dffbad6b01170c0591.webp"
+  },
+  {
+    "filename": "02d29c1c3e57234d825c02f6a81f181749d9da69d02c515331b70ef0c487c0f9.webp",
+    "size": 45626,
+    "source_rel": "renault/models/kaptur/images/02d29c1c3e57234d825c02f6a81f181749d9da69d02c515331b70ef0c487c0f9.webp"
+  },
+  {
+    "filename": "03348b718e7c5b7cf72c65fb90e6a73fe5e6cc3e021aac7c94646493f17c4021.webp",
+    "size": 32328,
+    "source_rel": "renault/models/kaptur/images/03348b718e7c5b7cf72c65fb90e6a73fe5e6cc3e021aac7c94646493f17c4021.webp"
+  },
+  {
+    "filename": "04a05675ff8e51f09ee6ff55fa64aeda121453934777d05bee55cca119e90161.webp",
+    "size": 101600,
+    "source_rel": "renault/models/kaptur/images/04a05675ff8e51f09ee6ff55fa64aeda121453934777d05bee55cca119e90161.webp"
+  },
+  {
+    "filename": "054cab0ba1f1e0fe536fbd14caced300caaf4d5fed2e2e911885feba7e70fd81.webp",
+    "size": 27986,
+    "source_rel": "renault/models/kaptur/images/054cab0ba1f1e0fe536fbd14caced300caaf4d5fed2e2e911885feba7e70fd81.webp"
+  },
+  {
+    "filename": "059aebd760d8ad4e26f7af56d1810e69b5e53130115db36eba1cafc7d3b5dedd.webp",
+    "size": 16968,
+    "source_rel": "renault/models/kaptur/images/059aebd760d8ad4e26f7af56d1810e69b5e53130115db36eba1cafc7d3b5dedd.webp"
+  },
+  {
+    "filename": "05a57a0f9a9fbc0bc492c3bb7e910ff0d6e8990521a4d70bdedd43d420c63c25.webp",
+    "size": 52700,
+    "source_rel": "renault/models/kaptur/images/05a57a0f9a9fbc0bc492c3bb7e910ff0d6e8990521a4d70bdedd43d420c63c25.webp"
+  },
+  {
+    "filename": "05b59b05faeda39ce85deb5f7132931e6f6e0547513ddb4f5342482d519b3838.webp",
+    "size": 30574,
+    "source_rel": "renault/models/kaptur/images/05b59b05faeda39ce85deb5f7132931e6f6e0547513ddb4f5342482d519b3838.webp"
+  },
+  {
+    "filename": "05cdbdf0b60fdbb5b070ac83d84669671fbccf7764ae7f61d0f5dcd1944d6218.webp",
+    "size": 51682,
+    "source_rel": "renault/models/kaptur/images/05cdbdf0b60fdbb5b070ac83d84669671fbccf7764ae7f61d0f5dcd1944d6218.webp"
+  },
+  {
+    "filename": "05d014905e76fa52309af85397c21577edb54d8e652c94f9fd289d3ac031805f.webp",
+    "size": 54656,
+    "source_rel": "renault/models/kaptur/images/05d014905e76fa52309af85397c21577edb54d8e652c94f9fd289d3ac031805f.webp"
+  },
+  {
+    "filename": "05df2486464cea70c3318ca6620a14674515a15da9eed304cb2d57ea72b2024f.webp",
+    "size": 47162,
+    "source_rel": "renault/models/kaptur/images/05df2486464cea70c3318ca6620a14674515a15da9eed304cb2d57ea72b2024f.webp"
+  },
+  {
+    "filename": "061d0a064e2e53d621d45325d16355c8e3da8aafc66a772b292c73a7c6f15ea5.webp",
+    "size": 75604,
+    "source_rel": "renault/models/kaptur/images/061d0a064e2e53d621d45325d16355c8e3da8aafc66a772b292c73a7c6f15ea5.webp"
+  },
+  {
+    "filename": "062e62f672df63c502e792abeb6a554d9a676d9723e683cd63b49d18e38abe60.webp",
+    "size": 47292,
+    "source_rel": "renault/models/kaptur/images/062e62f672df63c502e792abeb6a554d9a676d9723e683cd63b49d18e38abe60.webp"
+  },
+  {
+    "filename": "067adfb86e2cd2f9a97f6ec97c2303ddb3e932fa019ec78e35bceca7a1305fca.webp",
+    "size": 66008,
+    "source_rel": "renault/models/kaptur/images/067adfb86e2cd2f9a97f6ec97c2303ddb3e932fa019ec78e35bceca7a1305fca.webp"
+  },
+  {
+    "filename": "0684cce7ebdd1e552da963a544e86ebc76e14c8d9c87806f3c3c0a4bf964e103.webp",
+    "size": 53328,
+    "source_rel": "renault/models/kaptur/images/0684cce7ebdd1e552da963a544e86ebc76e14c8d9c87806f3c3c0a4bf964e103.webp"
+  },
+  {
+    "filename": "06bd7110adbaedaa68d87275b6919df4c7172431649f23a65fd95a07090fc44d.webp",
+    "size": 36780,
+    "source_rel": "renault/models/kaptur/images/06bd7110adbaedaa68d87275b6919df4c7172431649f23a65fd95a07090fc44d.webp"
+  },
+  {
+    "filename": "07346f510c4ebc52e94a53a078ac9e5b35aa9177707fe0ce2dee6cf1cd89be8a.webp",
+    "size": 19954,
+    "source_rel": "renault/models/kaptur/images/07346f510c4ebc52e94a53a078ac9e5b35aa9177707fe0ce2dee6cf1cd89be8a.webp"
+  },
+  {
+    "filename": "073a42c6b23b21f77b7348cde32a61e56cae717337e4242456c8f69e5f504c9b.webp",
+    "size": 77544,
+    "source_rel": "renault/models/kaptur/images/073a42c6b23b21f77b7348cde32a61e56cae717337e4242456c8f69e5f504c9b.webp"
+  },
+  {
+    "filename": "0820b2c641527574ee8baf59f1a0e8b4735ce5a34097ae564bafdc0dfbf044a0.jpg",
+    "size": 76660,
+    "source_rel": "renault/models/kaptur/images/0820b2c641527574ee8baf59f1a0e8b4735ce5a34097ae564bafdc0dfbf044a0.jpg"
+  },
+  {
+    "filename": "086b98e3dc76e9d72c77e532f592f58c4a55b7244510cd830e866d6e30c91f0f.webp",
+    "size": 42796,
+    "source_rel": "renault/models/kaptur/images/086b98e3dc76e9d72c77e532f592f58c4a55b7244510cd830e866d6e30c91f0f.webp"
+  },
+  {
+    "filename": "08d00305443fcbf8917ba7a631758b1c84affa5d8d6138712475603ac82a0d52.webp",
+    "size": 32908,
+    "source_rel": "renault/models/kaptur/images/08d00305443fcbf8917ba7a631758b1c84affa5d8d6138712475603ac82a0d52.webp"
+  },
+  {
+    "filename": "098557b260e6ab9c1c8f51e1915e2474403796230f4491e1e166eaec31fa29a7.webp",
+    "size": 14160,
+    "source_rel": "renault/models/kaptur/images/098557b260e6ab9c1c8f51e1915e2474403796230f4491e1e166eaec31fa29a7.webp"
+  },
+  {
+    "filename": "0a180c0defa06a92fb146a3a77c58da3a40fd8940e171ed2bb563494081b333d.webp",
+    "size": 23384,
+    "source_rel": "renault/models/kaptur/images/0a180c0defa06a92fb146a3a77c58da3a40fd8940e171ed2bb563494081b333d.webp"
+  },
+  {
+    "filename": "0a3c23286f5f9d68ea871bf894890f65231b2e7036c9e3d0ba86217b061158e1.webp",
+    "size": 226194,
+    "source_rel": "renault/models/kaptur/images/0a3c23286f5f9d68ea871bf894890f65231b2e7036c9e3d0ba86217b061158e1.webp"
+  },
+  {
+    "filename": "0b3e540935ff011d74f455508f800ab3b2b91faa6ff3be0dc7e42a057f22bcc7.webp",
+    "size": 48276,
+    "source_rel": "renault/models/kaptur/images/0b3e540935ff011d74f455508f800ab3b2b91faa6ff3be0dc7e42a057f22bcc7.webp"
+  },
+  {
+    "filename": "0b623f90293744d7e3f520022d7df568a54aac3e0160cf4872cffe638ed0067c.webp",
+    "size": 44908,
+    "source_rel": "renault/models/kaptur/images/0b623f90293744d7e3f520022d7df568a54aac3e0160cf4872cffe638ed0067c.webp"
+  },
+  {
+    "filename": "0b92df24dbfff412d03c4dd7f9061db4b80ffaa18219230348f157d22e5ed654.webp",
+    "size": 41636,
+    "source_rel": "renault/models/kaptur/images/0b92df24dbfff412d03c4dd7f9061db4b80ffaa18219230348f157d22e5ed654.webp"
+  },
+  {
+    "filename": "0c86986784be14143300226aedea825da9300db8d714ff4ad83db9f59a1cc73a.webp",
+    "size": 73408,
+    "source_rel": "renault/models/kaptur/images/0c86986784be14143300226aedea825da9300db8d714ff4ad83db9f59a1cc73a.webp"
+  },
+  {
+    "filename": "0d1a046728c24af151cd697c4f56e657169d6cabbc85820ce1285f7efa55c84d.webp",
+    "size": 33710,
+    "source_rel": "renault/models/kaptur/images/0d1a046728c24af151cd697c4f56e657169d6cabbc85820ce1285f7efa55c84d.webp"
+  },
+  {
+    "filename": "0d7e759b3860c3a84e143d5766b8532144ba0630c33c8dcf80d267ec289fbcbc.webp",
+    "size": 60062,
+    "source_rel": "renault/models/kaptur/images/0d7e759b3860c3a84e143d5766b8532144ba0630c33c8dcf80d267ec289fbcbc.webp"
+  },
+  {
+    "filename": "0db25066ad6a20394071e945c982bbaa308a8ad12756545797d8b183a515cb9f.webp",
+    "size": 16260,
+    "source_rel": "renault/models/kaptur/images/0db25066ad6a20394071e945c982bbaa308a8ad12756545797d8b183a515cb9f.webp"
+  },
+  {
+    "filename": "0dfe0c5515fd957d706b3314a088833e7643a4141738922b182870157b1d9bbd.webp",
+    "size": 91296,
+    "source_rel": "renault/models/kaptur/images/0dfe0c5515fd957d706b3314a088833e7643a4141738922b182870157b1d9bbd.webp"
+  },
+  {
+    "filename": "0ea7dd26af6a3b9d8d6802322f30d8aaa6299268e3e86ac3ae2c15b599736094.webp",
+    "size": 77990,
+    "source_rel": "renault/models/kaptur/images/0ea7dd26af6a3b9d8d6802322f30d8aaa6299268e3e86ac3ae2c15b599736094.webp"
+  },
+  {
+    "filename": "0eb1ea92627f5fdb3b4b1edcf2760c61b6be189718b30a2519c420824ae43d06.webp",
+    "size": 76488,
+    "source_rel": "renault/models/kaptur/images/0eb1ea92627f5fdb3b4b1edcf2760c61b6be189718b30a2519c420824ae43d06.webp"
+  },
+  {
+    "filename": "0f1865e50e9ff7920aae1a70b7ba3829d979623695d1b532f392a90851fc93f0.webp",
+    "size": 29294,
+    "source_rel": "renault/models/kaptur/images/0f1865e50e9ff7920aae1a70b7ba3829d979623695d1b532f392a90851fc93f0.webp"
+  },
+  {
+    "filename": "0f1be770a7783a114c2a2c408bb02905130ed45d0976694378620cb8bde99115.webp",
+    "size": 52030,
+    "source_rel": "renault/models/kaptur/images/0f1be770a7783a114c2a2c408bb02905130ed45d0976694378620cb8bde99115.webp"
+  },
+  {
+    "filename": "0f5e9d2b7c33f1b704f1d953afe3c33f34cc4791fb60c5f325b3213bfa69fb3c.webp",
+    "size": 27600,
+    "source_rel": "renault/models/kaptur/images/0f5e9d2b7c33f1b704f1d953afe3c33f34cc4791fb60c5f325b3213bfa69fb3c.webp"
+  },
+  {
+    "filename": "1112a74162536bb5b75449572786dad1743502cb66b050a6d20762d5638cf8f2.webp",
+    "size": 55336,
+    "source_rel": "renault/models/kaptur/images/1112a74162536bb5b75449572786dad1743502cb66b050a6d20762d5638cf8f2.webp"
+  },
+  {
+    "filename": "1170a66c5984b48530a60eb6f461787193ec02a48efe5734965d2eea5385564e.webp",
+    "size": 57038,
+    "source_rel": "renault/models/kaptur/images/1170a66c5984b48530a60eb6f461787193ec02a48efe5734965d2eea5385564e.webp"
+  },
+  {
+    "filename": "11af5c7bfdc7906d54be07190b2b4c76db985ac43f5bf6d0e9da6834e603434a.webp",
+    "size": 70868,
+    "source_rel": "renault/models/kaptur/images/11af5c7bfdc7906d54be07190b2b4c76db985ac43f5bf6d0e9da6834e603434a.webp"
+  },
+  {
+    "filename": "11d803f35f2d8eb47a853b7b87ee3614e3580840b9cd94652273d480e3a2ba75.webp",
+    "size": 122462,
+    "source_rel": "renault/models/kaptur/images/11d803f35f2d8eb47a853b7b87ee3614e3580840b9cd94652273d480e3a2ba75.webp"
+  },
+  {
+    "filename": "120602f8e513cd7f76e566c7606170ba5a52d737c3bb095ed5848fa6ff29ba31.webp",
+    "size": 207962,
+    "source_rel": "renault/models/kaptur/images/120602f8e513cd7f76e566c7606170ba5a52d737c3bb095ed5848fa6ff29ba31.webp"
+  },
+  {
+    "filename": "124d67a7a433a8f0c0984db4cca2260b98335695ad20599b9bfc112cbbc58e97.webp",
+    "size": 56580,
+    "source_rel": "renault/models/kaptur/images/124d67a7a433a8f0c0984db4cca2260b98335695ad20599b9bfc112cbbc58e97.webp"
+  },
+  {
+    "filename": "12850984cb48c4ff793eee63656d57c979c8809b9009c2516de2c1fbec501265.webp",
+    "size": 57606,
+    "source_rel": "renault/models/kaptur/images/12850984cb48c4ff793eee63656d57c979c8809b9009c2516de2c1fbec501265.webp"
+  },
+  {
+    "filename": "12b4baeb7338fd8d296f8243a5a84da2a378ed615d749e49cd38c0e74e847bf5.webp",
+    "size": 64286,
+    "source_rel": "renault/models/kaptur/images/12b4baeb7338fd8d296f8243a5a84da2a378ed615d749e49cd38c0e74e847bf5.webp"
+  },
+  {
+    "filename": "131b8fd2808657d0665ede47e3673e8652baa2fded6a09895b528eda3369dd21.webp",
+    "size": 48688,
+    "source_rel": "renault/models/kaptur/images/131b8fd2808657d0665ede47e3673e8652baa2fded6a09895b528eda3369dd21.webp"
+  },
+  {
+    "filename": "13b95a578dda105a5ae2e3573014c750de7d68e4596cfd701d856b09a2d11477.webp",
+    "size": 54158,
+    "source_rel": "renault/models/kaptur/images/13b95a578dda105a5ae2e3573014c750de7d68e4596cfd701d856b09a2d11477.webp"
+  },
+  {
+    "filename": "13c6117ad611fb8566e9678258cbb7f35ed681c86d37eda4e837f0ae7d7ef747.webp",
+    "size": 37464,
+    "source_rel": "renault/models/kaptur/images/13c6117ad611fb8566e9678258cbb7f35ed681c86d37eda4e837f0ae7d7ef747.webp"
+  },
+  {
+    "filename": "140276fd268d3401afd044bb958ac7696b7d4cc797f2dbfb2725f4a9b6cbfbce.webp",
+    "size": 27208,
+    "source_rel": "renault/models/kaptur/images/140276fd268d3401afd044bb958ac7696b7d4cc797f2dbfb2725f4a9b6cbfbce.webp"
+  },
+  {
+    "filename": "140960586a6d4af95577e826f5e1466dcd33e6ee72c2b06e723bf24fb709704f.webp",
+    "size": 19710,
+    "source_rel": "renault/models/kaptur/images/140960586a6d4af95577e826f5e1466dcd33e6ee72c2b06e723bf24fb709704f.webp"
+  },
+  {
+    "filename": "14f6c5245742bbe8f2edda6872d5f5fb0e12dcafb1b80569e21227ad1cece14d.webp",
+    "size": 58288,
+    "source_rel": "renault/models/kaptur/images/14f6c5245742bbe8f2edda6872d5f5fb0e12dcafb1b80569e21227ad1cece14d.webp"
+  },
+  {
+    "filename": "152e6218e39345b9a00e6c2e582e1e83966615bba001936e7ac5c402866cfd40.webp",
+    "size": 30376,
+    "source_rel": "renault/models/kaptur/images/152e6218e39345b9a00e6c2e582e1e83966615bba001936e7ac5c402866cfd40.webp"
+  },
+  {
+    "filename": "1630c1c62cc05ff013e35468ab394113861554b91fdf260fe45bf218e4da4e52.webp",
+    "size": 26552,
+    "source_rel": "renault/models/kaptur/images/1630c1c62cc05ff013e35468ab394113861554b91fdf260fe45bf218e4da4e52.webp"
+  },
+  {
+    "filename": "16798367f946d95abe3cb2ebdc3ceda2cd3bafd2b9389fe40d5c274f83bf1c47.webp",
+    "size": 44754,
+    "source_rel": "renault/models/kaptur/images/16798367f946d95abe3cb2ebdc3ceda2cd3bafd2b9389fe40d5c274f83bf1c47.webp"
+  },
+  {
+    "filename": "17b89ebe5aa59f12f140735f3b35d9d27fc5cead0aac43d495982515bb0b6ac8.webp",
+    "size": 26458,
+    "source_rel": "renault/models/kaptur/images/17b89ebe5aa59f12f140735f3b35d9d27fc5cead0aac43d495982515bb0b6ac8.webp"
+  },
+  {
+    "filename": "183e084f3e955afc9e6cfa344dab12ee2a382cef412bb3fd4e3b9bdd6473f6a9.webp",
+    "size": 27444,
+    "source_rel": "renault/models/kaptur/images/183e084f3e955afc9e6cfa344dab12ee2a382cef412bb3fd4e3b9bdd6473f6a9.webp"
+  },
+  {
+    "filename": "184decb982fed4b910746a9f5f2e4577ae2a00c3485f434430ce25893b6a8b7a.webp",
+    "size": 45306,
+    "source_rel": "renault/models/kaptur/images/184decb982fed4b910746a9f5f2e4577ae2a00c3485f434430ce25893b6a8b7a.webp"
+  },
+  {
+    "filename": "1868b78905394c5d5ca703950e12253173a0f47c6c6986bac51c5ffaa3681347.webp",
+    "size": 42928,
+    "source_rel": "renault/models/kaptur/images/1868b78905394c5d5ca703950e12253173a0f47c6c6986bac51c5ffaa3681347.webp"
+  },
+  {
+    "filename": "186ebf5709dc076c47f1a331ab064007ead5a418314b174657112bf80d6292d7.jpg",
+    "size": 63053,
+    "source_rel": "renault/models/kaptur/images/186ebf5709dc076c47f1a331ab064007ead5a418314b174657112bf80d6292d7.jpg"
+  },
+  {
+    "filename": "1919b8b76f387f8a91da7c72706862bfe4f4c733152e5f5c0c60349fbe3be812.webp",
+    "size": 56870,
+    "source_rel": "renault/models/kaptur/images/1919b8b76f387f8a91da7c72706862bfe4f4c733152e5f5c0c60349fbe3be812.webp"
+  },
+  {
+    "filename": "19c8e2889939d83c735f20b6189920ec7cc8e8f040432b904ba8752ce3b4f1ca.webp",
+    "size": 56554,
+    "source_rel": "renault/models/kaptur/images/19c8e2889939d83c735f20b6189920ec7cc8e8f040432b904ba8752ce3b4f1ca.webp"
+  },
+  {
+    "filename": "1a0c2861e9e20ccd089bed90a57497e3630bca8ab94e4c790968637c25b03b02.webp",
+    "size": 18898,
+    "source_rel": "renault/models/kaptur/images/1a0c2861e9e20ccd089bed90a57497e3630bca8ab94e4c790968637c25b03b02.webp"
+  },
+  {
+    "filename": "1a87bc94c51c24485f65e6cb87a197e0ce4dffa7677176dd1ea50de5dd7c5369.webp",
+    "size": 41362,
+    "source_rel": "renault/models/kaptur/images/1a87bc94c51c24485f65e6cb87a197e0ce4dffa7677176dd1ea50de5dd7c5369.webp"
+  },
+  {
+    "filename": "1b228a276f74ef59cbb42c4d1551b2b0d008cb96ed2526039f53210740b78f7d.webp",
+    "size": 48904,
+    "source_rel": "renault/models/kaptur/images/1b228a276f74ef59cbb42c4d1551b2b0d008cb96ed2526039f53210740b78f7d.webp"
+  },
+  {
+    "filename": "1b98b48cbba33ecb5985a348774e1770fc7ff0be3c166f8d14137610578c1b7a.webp",
+    "size": 38778,
+    "source_rel": "renault/models/kaptur/images/1b98b48cbba33ecb5985a348774e1770fc7ff0be3c166f8d14137610578c1b7a.webp"
+  },
+  {
+    "filename": "1bdee3fc1782d9ab474a7d4b2189ab3e4b6381f35ee8403771c21d45c3bdc8bb.webp",
+    "size": 26588,
+    "source_rel": "renault/models/kaptur/images/1bdee3fc1782d9ab474a7d4b2189ab3e4b6381f35ee8403771c21d45c3bdc8bb.webp"
+  },
+  {
+    "filename": "1cac773dcc7d71d0c29769ff38a8f07f5492addeb700c8b9eee0c6aa4fdbcbba.webp",
+    "size": 57260,
+    "source_rel": "renault/models/kaptur/images/1cac773dcc7d71d0c29769ff38a8f07f5492addeb700c8b9eee0c6aa4fdbcbba.webp"
+  },
+  {
+    "filename": "1d2d7a8ac0b83b3a8fa99ccef6fd06553c15edb6ab1c452892c08cab7b5acd0b.webp",
+    "size": 201998,
+    "source_rel": "renault/models/kaptur/images/1d2d7a8ac0b83b3a8fa99ccef6fd06553c15edb6ab1c452892c08cab7b5acd0b.webp"
+  },
+  {
+    "filename": "1de185b36318c6fb2a3b3eb13a5040bc73b48c3ec2c5eb62bfe077283ea01f53.webp",
+    "size": 48446,
+    "source_rel": "renault/models/kaptur/images/1de185b36318c6fb2a3b3eb13a5040bc73b48c3ec2c5eb62bfe077283ea01f53.webp"
+  },
+  {
+    "filename": "1e0c2716ec325f688509a45f1c66a2f4b87b4e5472a99c76077195d7c53c6df3.webp",
+    "size": 14386,
+    "source_rel": "renault/models/kaptur/images/1e0c2716ec325f688509a45f1c66a2f4b87b4e5472a99c76077195d7c53c6df3.webp"
+  },
+  {
+    "filename": "1e1e392df0fca2bfb971c9c26cff31880907fa29f8e3bf35aa432af1025a7791.webp",
+    "size": 37014,
+    "source_rel": "renault/models/kaptur/images/1e1e392df0fca2bfb971c9c26cff31880907fa29f8e3bf35aa432af1025a7791.webp"
+  },
+  {
+    "filename": "1e8031bade96ab7a8b05ebe3e70b4cca1176b6d98bcc47994505d4a675e0b246.webp",
+    "size": 81900,
+    "source_rel": "renault/models/kaptur/images/1e8031bade96ab7a8b05ebe3e70b4cca1176b6d98bcc47994505d4a675e0b246.webp"
+  },
+  {
+    "filename": "1e8aafc396ac192a0477c359ae7c5eceb0dceab55fd4296142e0eb1c86c5c997.webp",
+    "size": 30668,
+    "source_rel": "renault/models/kaptur/images/1e8aafc396ac192a0477c359ae7c5eceb0dceab55fd4296142e0eb1c86c5c997.webp"
+  },
+  {
+    "filename": "1ea537d0ea08ce6557567dc5c09c0a2e0d9e523d37850a4f98cbf7e98000128b.webp",
+    "size": 40242,
+    "source_rel": "renault/models/kaptur/images/1ea537d0ea08ce6557567dc5c09c0a2e0d9e523d37850a4f98cbf7e98000128b.webp"
+  },
+  {
+    "filename": "1f1163582dbedc9aa204d9389686bb63a7d2a920b689d34891be63bdb95b219b.webp",
+    "size": 46556,
+    "source_rel": "renault/models/kaptur/images/1f1163582dbedc9aa204d9389686bb63a7d2a920b689d34891be63bdb95b219b.webp"
+  },
+  {
+    "filename": "1f2695a56d5663bf23f13cbf6d785fb049f4029af46d7c139549c1c24a244075.webp",
+    "size": 29118,
+    "source_rel": "renault/models/kaptur/images/1f2695a56d5663bf23f13cbf6d785fb049f4029af46d7c139549c1c24a244075.webp"
+  },
+  {
+    "filename": "1fca70ec113c71a5ae33f3434bd321fea921c8f7cabbf77936ae874a460f8f64.webp",
+    "size": 56150,
+    "source_rel": "renault/models/kaptur/images/1fca70ec113c71a5ae33f3434bd321fea921c8f7cabbf77936ae874a460f8f64.webp"
+  },
+  {
+    "filename": "1fcc24aac32f9c5344fbf30ee1a63190529790acaf6ee0c6b6bf85cbccfcad7a.webp",
+    "size": 61120,
+    "source_rel": "renault/models/kaptur/images/1fcc24aac32f9c5344fbf30ee1a63190529790acaf6ee0c6b6bf85cbccfcad7a.webp"
+  },
+  {
+    "filename": "1ff0130f0a2de012165a650cbf53f55bddae9f79c83c389e7fe9f77f649bff50.webp",
+    "size": 177314,
+    "source_rel": "renault/models/kaptur/images/1ff0130f0a2de012165a650cbf53f55bddae9f79c83c389e7fe9f77f649bff50.webp"
+  },
+  {
+    "filename": "207e940f85322101672b06e6cf68f498b5ebaad955c64d97cc1a3f07667dc44c.webp",
+    "size": 27326,
+    "source_rel": "renault/models/kaptur/images/207e940f85322101672b06e6cf68f498b5ebaad955c64d97cc1a3f07667dc44c.webp"
+  },
+  {
+    "filename": "212091ee76f0bbd260e83e2004d01d59bb04450724633e9b03effeeb9acbf84f.webp",
+    "size": 80236,
+    "source_rel": "renault/models/kaptur/images/212091ee76f0bbd260e83e2004d01d59bb04450724633e9b03effeeb9acbf84f.webp"
+  },
+  {
+    "filename": "2219be311e1f3ccb3f5148f645d20cdb39f6c1d3c800cc8050f0d5cdac7e2016.webp",
+    "size": 53182,
+    "source_rel": "renault/models/kaptur/images/2219be311e1f3ccb3f5148f645d20cdb39f6c1d3c800cc8050f0d5cdac7e2016.webp"
+  },
+  {
+    "filename": "22d334f4eb8a78707bea5643aa7d69b3da67701d782e8da90d0f5dc5a3e27f7e.webp",
+    "size": 48244,
+    "source_rel": "renault/models/kaptur/images/22d334f4eb8a78707bea5643aa7d69b3da67701d782e8da90d0f5dc5a3e27f7e.webp"
+  },
+  {
+    "filename": "2358ee121990c403c43fce9b607d8f82365a37785815a0d9bf9040ff9eed3c2f.webp",
+    "size": 39774,
+    "source_rel": "renault/models/kaptur/images/2358ee121990c403c43fce9b607d8f82365a37785815a0d9bf9040ff9eed3c2f.webp"
+  },
+  {
+    "filename": "23964a61d2d51f4ecd06ed36eafd9fa985ca377777c5caf8d2b1aaba41cd6bb8.webp",
+    "size": 59684,
+    "source_rel": "renault/models/kaptur/images/23964a61d2d51f4ecd06ed36eafd9fa985ca377777c5caf8d2b1aaba41cd6bb8.webp"
+  },
+  {
+    "filename": "2452ffbac7159a7d933614dd0f0f862f5799b43fdbb9fc7ed28b486c96f9305b.webp",
+    "size": 25630,
+    "source_rel": "renault/models/kaptur/images/2452ffbac7159a7d933614dd0f0f862f5799b43fdbb9fc7ed28b486c96f9305b.webp"
+  },
+  {
+    "filename": "250e4d00d06f7136877b6b46b95ee3244a6fb4918023ca7864829e45f5efdb73.webp",
+    "size": 34092,
+    "source_rel": "renault/models/kaptur/images/250e4d00d06f7136877b6b46b95ee3244a6fb4918023ca7864829e45f5efdb73.webp"
+  },
+  {
+    "filename": "258b23745e5b6d5fb2ef4a21b879e8414d534d9fb19c79cfcd1d21ad1c99e8d7.webp",
+    "size": 51052,
+    "source_rel": "renault/models/kaptur/images/258b23745e5b6d5fb2ef4a21b879e8414d534d9fb19c79cfcd1d21ad1c99e8d7.webp"
+  },
+  {
+    "filename": "25afb04873e8b09da41f60a21e835ff013c13fe94914e24c0743839781b82c2e.webp",
+    "size": 41376,
+    "source_rel": "renault/models/kaptur/images/25afb04873e8b09da41f60a21e835ff013c13fe94914e24c0743839781b82c2e.webp"
+  },
+  {
+    "filename": "25f809f2305351d7126c670c386cf3834f51f1a45b9eb55b330bb7b6b6c93872.webp",
+    "size": 59022,
+    "source_rel": "renault/models/kaptur/images/25f809f2305351d7126c670c386cf3834f51f1a45b9eb55b330bb7b6b6c93872.webp"
+  },
+  {
+    "filename": "26870dd543a33e4269ca1fed489df744102cf845cb1840ae057c60b615653cc4.webp",
+    "size": 54148,
+    "source_rel": "renault/models/kaptur/images/26870dd543a33e4269ca1fed489df744102cf845cb1840ae057c60b615653cc4.webp"
+  },
+  {
+    "filename": "26d99d43cf40174cb16124ffc903ef6098a52d9aa6854b102cca687df3b7010c.webp",
+    "size": 43346,
+    "source_rel": "renault/models/kaptur/images/26d99d43cf40174cb16124ffc903ef6098a52d9aa6854b102cca687df3b7010c.webp"
+  },
+  {
+    "filename": "26ec1187de06e9e2fc32e6fc0548be8909a463a4d8f33969e0a31b419f2fa0ee.webp",
+    "size": 57492,
+    "source_rel": "renault/models/kaptur/images/26ec1187de06e9e2fc32e6fc0548be8909a463a4d8f33969e0a31b419f2fa0ee.webp"
+  },
+  {
+    "filename": "27342ccd41d01860c36d5e33328e5009a208f609ca8c08ffb78eabee662dd36d.webp",
+    "size": 57992,
+    "source_rel": "renault/models/kaptur/images/27342ccd41d01860c36d5e33328e5009a208f609ca8c08ffb78eabee662dd36d.webp"
+  },
+  {
+    "filename": "27f1a7a216cb6ed777403fe92445b424dc0154b09b17ae416a4bc61d339f9853.webp",
+    "size": 47898,
+    "source_rel": "renault/models/kaptur/images/27f1a7a216cb6ed777403fe92445b424dc0154b09b17ae416a4bc61d339f9853.webp"
+  },
+  {
+    "filename": "27f8994ccfa94c90535b406d42614a9e7c6cc41eeff5517790f3d24fbe8f7c17.webp",
+    "size": 236068,
+    "source_rel": "renault/models/kaptur/images/27f8994ccfa94c90535b406d42614a9e7c6cc41eeff5517790f3d24fbe8f7c17.webp"
+  },
+  {
+    "filename": "28a3e4f0b9ff956628bfdb3755c1a2769d400786da72ba9d98fc4ebaf92a932b.webp",
+    "size": 34860,
+    "source_rel": "renault/models/kaptur/images/28a3e4f0b9ff956628bfdb3755c1a2769d400786da72ba9d98fc4ebaf92a932b.webp"
+  },
+  {
+    "filename": "28a7f5898aec34c7ec784de53dc2c8a1fcb60be6d49b9b2545d8f2a715d710c4.webp",
+    "size": 181494,
+    "source_rel": "renault/models/kaptur/images/28a7f5898aec34c7ec784de53dc2c8a1fcb60be6d49b9b2545d8f2a715d710c4.webp"
+  },
+  {
+    "filename": "28ba4aac730562e5ead30c36bb849a889ba1f63fede15e0a811c0baa6c48ac50.webp",
+    "size": 28840,
+    "source_rel": "renault/models/kaptur/images/28ba4aac730562e5ead30c36bb849a889ba1f63fede15e0a811c0baa6c48ac50.webp"
+  },
+  {
+    "filename": "28de29923854581de6de277349480a47d5fa187ce8fed8442584b22d385ff503.webp",
+    "size": 31048,
+    "source_rel": "renault/models/kaptur/images/28de29923854581de6de277349480a47d5fa187ce8fed8442584b22d385ff503.webp"
+  },
+  {
+    "filename": "294acec72a33d40285d2ac802be04bf1a5384bea51223dba6f647b47e8758e0b.webp",
+    "size": 78466,
+    "source_rel": "renault/models/kaptur/images/294acec72a33d40285d2ac802be04bf1a5384bea51223dba6f647b47e8758e0b.webp"
+  },
+  {
+    "filename": "295e7c16a6e46b53a4b6d6cb64bd26abc40779002a1661279b4030d666b502e5.webp",
+    "size": 57230,
+    "source_rel": "renault/models/kaptur/images/295e7c16a6e46b53a4b6d6cb64bd26abc40779002a1661279b4030d666b502e5.webp"
+  },
+  {
+    "filename": "29c1659e26b4cf9d55671e0b1ef6a7a77f74ee17eafee1261d45572036a5c2f3.webp",
+    "size": 38710,
+    "source_rel": "renault/models/kaptur/images/29c1659e26b4cf9d55671e0b1ef6a7a77f74ee17eafee1261d45572036a5c2f3.webp"
+  },
+  {
+    "filename": "2b536d6a137715bd25ed307f503bc93f795a7528f8acb924a810f8e9ab15eb8c.webp",
+    "size": 52276,
+    "source_rel": "renault/models/kaptur/images/2b536d6a137715bd25ed307f503bc93f795a7528f8acb924a810f8e9ab15eb8c.webp"
+  },
+  {
+    "filename": "2b6e16842cf14050d52001fa947688fb3ed13fa41121ef13e7c200ce4c3394df.webp",
+    "size": 22266,
+    "source_rel": "renault/models/kaptur/images/2b6e16842cf14050d52001fa947688fb3ed13fa41121ef13e7c200ce4c3394df.webp"
+  },
+  {
+    "filename": "2bda1bcc2d60ae5a42f8c4685be4af0def56d4969f1310b4c07aa96211dc0503.webp",
+    "size": 146972,
+    "source_rel": "renault/models/kaptur/images/2bda1bcc2d60ae5a42f8c4685be4af0def56d4969f1310b4c07aa96211dc0503.webp"
+  },
+  {
+    "filename": "2c5f41d90455fabaf04c4798fd519b28a5b15a86ce6f83542cc2869abad8167e.webp",
+    "size": 49014,
+    "source_rel": "renault/models/kaptur/images/2c5f41d90455fabaf04c4798fd519b28a5b15a86ce6f83542cc2869abad8167e.webp"
+  },
+  {
+    "filename": "2ce5545bf5e084964edba10e8d3367555367b452379567187bb29556a195db34.webp",
+    "size": 71958,
+    "source_rel": "renault/models/kaptur/images/2ce5545bf5e084964edba10e8d3367555367b452379567187bb29556a195db34.webp"
+  },
+  {
+    "filename": "2ce5b631f8c29d0997d14d8d1e941c5db6ee81276a34c658ba709bc95fba16a2.webp",
+    "size": 9904,
+    "source_rel": "renault/models/kaptur/images/2ce5b631f8c29d0997d14d8d1e941c5db6ee81276a34c658ba709bc95fba16a2.webp"
+  },
+  {
+    "filename": "2f1336a58a911bf099d2c00cc3f71e878717d7824ce9febfbcba08351b720c09.webp",
+    "size": 72424,
+    "source_rel": "renault/models/kaptur/images/2f1336a58a911bf099d2c00cc3f71e878717d7824ce9febfbcba08351b720c09.webp"
+  },
+  {
+    "filename": "2f5542c58d88ffa6cd0e844dbd9d3cde0e0e8da2feedb38ec2823dff3a88eb08.webp",
+    "size": 23938,
+    "source_rel": "renault/models/kaptur/images/2f5542c58d88ffa6cd0e844dbd9d3cde0e0e8da2feedb38ec2823dff3a88eb08.webp"
+  },
+  {
+    "filename": "2facd23a5283067ef0926f763a1dc2a8f1718377ffacf8419e7d48771eee473d.webp",
+    "size": 66008,
+    "source_rel": "renault/models/kaptur/images/2facd23a5283067ef0926f763a1dc2a8f1718377ffacf8419e7d48771eee473d.webp"
+  },
+  {
+    "filename": "2fff673f7ad99775b6ec328175b76dc765d039bbe1191130550dbfef7e24e88f.webp",
+    "size": 74106,
+    "source_rel": "renault/models/kaptur/images/2fff673f7ad99775b6ec328175b76dc765d039bbe1191130550dbfef7e24e88f.webp"
+  },
+  {
+    "filename": "305ac1705e199002b69737f39cd59683ed3f9c3587d931ee7210789d1617d58e.webp",
+    "size": 51980,
+    "source_rel": "renault/models/kaptur/images/305ac1705e199002b69737f39cd59683ed3f9c3587d931ee7210789d1617d58e.webp"
+  },
+  {
+    "filename": "30ed0be6e0655950b3481d45a834517e4e6fb70b2fbacc3fe21ac98795b2193d.webp",
+    "size": 27736,
+    "source_rel": "renault/models/kaptur/images/30ed0be6e0655950b3481d45a834517e4e6fb70b2fbacc3fe21ac98795b2193d.webp"
+  },
+  {
+    "filename": "3102d8d2852e04f96d4b16369bb4e95f02bf31eef9776f80ea584cd9c66867b0.webp",
+    "size": 84028,
+    "source_rel": "renault/models/kaptur/images/3102d8d2852e04f96d4b16369bb4e95f02bf31eef9776f80ea584cd9c66867b0.webp"
+  },
+  {
+    "filename": "31111c506ae62476e5ede2be4908433b7f56543b381bfb5cfe0664011fa40b81.webp",
+    "size": 15556,
+    "source_rel": "renault/models/kaptur/images/31111c506ae62476e5ede2be4908433b7f56543b381bfb5cfe0664011fa40b81.webp"
+  },
+  {
+    "filename": "3161debe9404ba4e423669340f00ba494d34c93dac4a88ee836c4a587697b125.webp",
+    "size": 49630,
+    "source_rel": "renault/models/kaptur/images/3161debe9404ba4e423669340f00ba494d34c93dac4a88ee836c4a587697b125.webp"
+  },
+  {
+    "filename": "31ae13e8c49473f6dfc0adc329a7d7f9edca2abad12401873ce9572b742a3351.webp",
+    "size": 35080,
+    "source_rel": "renault/models/kaptur/images/31ae13e8c49473f6dfc0adc329a7d7f9edca2abad12401873ce9572b742a3351.webp"
+  },
+  {
+    "filename": "31db65609133f3e878fcfd981399f1af3656ce05b06ad3514fe584b84b021edc.webp",
+    "size": 47084,
+    "source_rel": "renault/models/kaptur/images/31db65609133f3e878fcfd981399f1af3656ce05b06ad3514fe584b84b021edc.webp"
+  },
+  {
+    "filename": "32327aca9a7bfef879bb2e865e98aad087f81ecc01c23266380937077d0479ba.webp",
+    "size": 23662,
+    "source_rel": "renault/models/kaptur/images/32327aca9a7bfef879bb2e865e98aad087f81ecc01c23266380937077d0479ba.webp"
+  },
+  {
+    "filename": "323cdce02e6e8411728315c9264c10bf0f986a3a168241e55d2872748af90a0b.webp",
+    "size": 31632,
+    "source_rel": "renault/models/kaptur/images/323cdce02e6e8411728315c9264c10bf0f986a3a168241e55d2872748af90a0b.webp"
+  },
+  {
+    "filename": "325e143b83b94500ffc226b6588cd521033302081117166bf8c0b368ecfd5127.webp",
+    "size": 43464,
+    "source_rel": "renault/models/kaptur/images/325e143b83b94500ffc226b6588cd521033302081117166bf8c0b368ecfd5127.webp"
+  },
+  {
+    "filename": "327a94da325fe9380e3a0efe186f6189eba3de673ea2c9d70720fd337cd04039.webp",
+    "size": 45978,
+    "source_rel": "renault/models/kaptur/images/327a94da325fe9380e3a0efe186f6189eba3de673ea2c9d70720fd337cd04039.webp"
+  },
+  {
+    "filename": "328e862d9b1808b1685488ce127be53117ef24ab4130799b4daee5af3ce9b0fc.webp",
+    "size": 48842,
+    "source_rel": "renault/models/kaptur/images/328e862d9b1808b1685488ce127be53117ef24ab4130799b4daee5af3ce9b0fc.webp"
+  },
+  {
+    "filename": "32a627c1142de8dda539452aff7feaac9d40fcf374e1d663534105cd5fe42a7e.webp",
+    "size": 27920,
+    "source_rel": "renault/models/kaptur/images/32a627c1142de8dda539452aff7feaac9d40fcf374e1d663534105cd5fe42a7e.webp"
+  },
+  {
+    "filename": "33630c5cce5167ad4dc25eba89f26c1b1075edb61168d0dd8ff80e54f5476240.webp",
+    "size": 25312,
+    "source_rel": "renault/models/kaptur/images/33630c5cce5167ad4dc25eba89f26c1b1075edb61168d0dd8ff80e54f5476240.webp"
+  },
+  {
+    "filename": "33a7c2501494f7252c2cbc91936a18c67b1bbee017c5200304a5299dbac4d1ef.webp",
+    "size": 22092,
+    "source_rel": "renault/models/kaptur/images/33a7c2501494f7252c2cbc91936a18c67b1bbee017c5200304a5299dbac4d1ef.webp"
+  },
+  {
+    "filename": "33c630744984949216710d2e5b35dd24182b65c4973dee821f818244dbec4306.webp",
+    "size": 57662,
+    "source_rel": "renault/models/kaptur/images/33c630744984949216710d2e5b35dd24182b65c4973dee821f818244dbec4306.webp"
+  },
+  {
+    "filename": "35000a9a72840095114c3a45b66064fee36ec25fda199f1ee726a9a5eb49ed5b.webp",
+    "size": 80508,
+    "source_rel": "renault/models/kaptur/images/35000a9a72840095114c3a45b66064fee36ec25fda199f1ee726a9a5eb49ed5b.webp"
+  },
+  {
+    "filename": "356be87c949410b74536f627bf63ebf84009e17b680fa8ecaa09faf0a4eb9a0b.webp",
+    "size": 34954,
+    "source_rel": "renault/models/kaptur/images/356be87c949410b74536f627bf63ebf84009e17b680fa8ecaa09faf0a4eb9a0b.webp"
+  },
+  {
+    "filename": "3570e6e1e5cf7c767479fbeea9af7f2888f3f034f4390ae179c24944013a0128.webp",
+    "size": 46238,
+    "source_rel": "renault/models/kaptur/images/3570e6e1e5cf7c767479fbeea9af7f2888f3f034f4390ae179c24944013a0128.webp"
+  },
+  {
+    "filename": "35e8b4cf3de4f5a1431a1861d4a15a245da155cc2180ae6a19a7f12cabafab51.webp",
+    "size": 14722,
+    "source_rel": "renault/models/kaptur/images/35e8b4cf3de4f5a1431a1861d4a15a245da155cc2180ae6a19a7f12cabafab51.webp"
+  },
+  {
+    "filename": "361dd75da092385e1db8bc72cb65ac7c46d80dc7a61305f6070e751cac5db4fb.webp",
+    "size": 78550,
+    "source_rel": "renault/models/kaptur/images/361dd75da092385e1db8bc72cb65ac7c46d80dc7a61305f6070e751cac5db4fb.webp"
+  },
+  {
+    "filename": "362226ed6133d144f149fec579c23b82bc6d4cbd8fd3b686b38a6418f703fffb.webp",
+    "size": 19990,
+    "source_rel": "renault/models/kaptur/images/362226ed6133d144f149fec579c23b82bc6d4cbd8fd3b686b38a6418f703fffb.webp"
+  },
+  {
+    "filename": "36c2e61e3c0b2b3062c448867a3795335ea25a097e968f852caac1ebc98b9292.webp",
+    "size": 52428,
+    "source_rel": "renault/models/kaptur/images/36c2e61e3c0b2b3062c448867a3795335ea25a097e968f852caac1ebc98b9292.webp"
+  },
+  {
+    "filename": "36f94905809b4f998e7071d4679a4008950acd66ec399b6a753ab2ec957043bf.webp",
+    "size": 113754,
+    "source_rel": "renault/models/kaptur/images/36f94905809b4f998e7071d4679a4008950acd66ec399b6a753ab2ec957043bf.webp"
+  },
+  {
+    "filename": "370eaec1805d91c967bcf2bc982fc25f496574d7f4713fc0597d5d2d74bd51fb.webp",
+    "size": 71568,
+    "source_rel": "renault/models/kaptur/images/370eaec1805d91c967bcf2bc982fc25f496574d7f4713fc0597d5d2d74bd51fb.webp"
+  },
+  {
+    "filename": "373ed16604f882322469fcaec62e89dc832f9e76dc3c6b2d4174142af5a19a4c.webp",
+    "size": 32492,
+    "source_rel": "renault/models/kaptur/images/373ed16604f882322469fcaec62e89dc832f9e76dc3c6b2d4174142af5a19a4c.webp"
+  },
+  {
+    "filename": "37e1560f349a93c5a40639da6e6f9d35414c95344d362bdc896e3bd7c8d8e6b1.webp",
+    "size": 69286,
+    "source_rel": "renault/models/kaptur/images/37e1560f349a93c5a40639da6e6f9d35414c95344d362bdc896e3bd7c8d8e6b1.webp"
+  },
+  {
+    "filename": "37ec017caf11b6d7f228a8e1ae1352486b278dbc0b5d2e1c072b5198937ce0b2.webp",
+    "size": 54198,
+    "source_rel": "renault/models/kaptur/images/37ec017caf11b6d7f228a8e1ae1352486b278dbc0b5d2e1c072b5198937ce0b2.webp"
+  },
+  {
+    "filename": "37ffaa2b37f5eb81f93596034e74555dde6e0ca08e11897094cb6bed3cbf2555.webp",
+    "size": 35762,
+    "source_rel": "renault/models/kaptur/images/37ffaa2b37f5eb81f93596034e74555dde6e0ca08e11897094cb6bed3cbf2555.webp"
+  },
+  {
+    "filename": "393bc5b62370fda559e50d3481ac724e076cc11537fa15834e0db6b56d257005.webp",
+    "size": 25456,
+    "source_rel": "renault/models/kaptur/images/393bc5b62370fda559e50d3481ac724e076cc11537fa15834e0db6b56d257005.webp"
+  },
+  {
+    "filename": "393f6922af78b7e8ea99f5130838661bf9f0f7375e3fb296c717172b84827e3f.webp",
+    "size": 38476,
+    "source_rel": "renault/models/kaptur/images/393f6922af78b7e8ea99f5130838661bf9f0f7375e3fb296c717172b84827e3f.webp"
+  },
+  {
+    "filename": "39725590d772820b46793f6a9e5ef7030b16335b8804e8a8c0d6f17adb75ca51.webp",
+    "size": 67520,
+    "source_rel": "renault/models/kaptur/images/39725590d772820b46793f6a9e5ef7030b16335b8804e8a8c0d6f17adb75ca51.webp"
+  },
+  {
+    "filename": "398b7035e1134ab4df66ba9954e363c83fca15b9884f8d68f84de0acb4e8ede7.webp",
+    "size": 16896,
+    "source_rel": "renault/models/kaptur/images/398b7035e1134ab4df66ba9954e363c83fca15b9884f8d68f84de0acb4e8ede7.webp"
+  },
+  {
+    "filename": "39e77563af4823cf14a84bb956da149f8c029b790ee72c3bbfffc4c5845a0c19.webp",
+    "size": 39806,
+    "source_rel": "renault/models/kaptur/images/39e77563af4823cf14a84bb956da149f8c029b790ee72c3bbfffc4c5845a0c19.webp"
+  },
+  {
+    "filename": "3a649ecf35da6ad9ff38689d4f7810ccb750defd9a96b608109bfac1248a5766.webp",
+    "size": 21768,
+    "source_rel": "renault/models/kaptur/images/3a649ecf35da6ad9ff38689d4f7810ccb750defd9a96b608109bfac1248a5766.webp"
+  },
+  {
+    "filename": "3acdb8a6f99becd38cdeb0b91b2092cf6723158077af89b07b1c68715e027b96.webp",
+    "size": 53396,
+    "source_rel": "renault/models/kaptur/images/3acdb8a6f99becd38cdeb0b91b2092cf6723158077af89b07b1c68715e027b96.webp"
+  },
+  {
+    "filename": "3af2866daac15c742d5c0a79e86af7d70b9d00fca98b1d1c51b5b273864a6e69.webp",
+    "size": 38602,
+    "source_rel": "renault/models/kaptur/images/3af2866daac15c742d5c0a79e86af7d70b9d00fca98b1d1c51b5b273864a6e69.webp"
+  },
+  {
+    "filename": "3b71578ec7074d7152d8a666da8efb48f87628a248b7542b693e4e993dc84677.jpg",
+    "size": 109264,
+    "source_rel": "renault/models/kaptur/images/3b71578ec7074d7152d8a666da8efb48f87628a248b7542b693e4e993dc84677.jpg"
+  },
+  {
+    "filename": "3bf5e0124cb137ab2d63bcaf0887dd6c58f48a8e42321b29f796f1c0659b91e1.webp",
+    "size": 38190,
+    "source_rel": "renault/models/kaptur/images/3bf5e0124cb137ab2d63bcaf0887dd6c58f48a8e42321b29f796f1c0659b91e1.webp"
+  },
+  {
+    "filename": "3c1e06e91479e37d7891575550f5c0786e353b98a7d70c3bddde61fea09e9c5b.webp",
+    "size": 57092,
+    "source_rel": "renault/models/kaptur/images/3c1e06e91479e37d7891575550f5c0786e353b98a7d70c3bddde61fea09e9c5b.webp"
+  },
+  {
+    "filename": "3d0832d56bd49034bd9b9b89421c11734b17b589b78b7e28cab0b9bd28026455.webp",
+    "size": 61320,
+    "source_rel": "renault/models/kaptur/images/3d0832d56bd49034bd9b9b89421c11734b17b589b78b7e28cab0b9bd28026455.webp"
+  },
+  {
+    "filename": "3d3544f4b1edb08ea2736779f195ba592cf14114c2c8d94a9d62419b374830e1.webp",
+    "size": 47900,
+    "source_rel": "renault/models/kaptur/images/3d3544f4b1edb08ea2736779f195ba592cf14114c2c8d94a9d62419b374830e1.webp"
+  },
+  {
+    "filename": "3d4309035b04737ed9ad6e8002877ef2da81b1f08a919829f84dcf49d76414d8.webp",
+    "size": 55010,
+    "source_rel": "renault/models/kaptur/images/3d4309035b04737ed9ad6e8002877ef2da81b1f08a919829f84dcf49d76414d8.webp"
+  },
+  {
+    "filename": "3e2de010561642ce9bb29d69d63b9b6deea3a2b6c3e8b822ed0e691779ccf151.webp",
+    "size": 36138,
+    "source_rel": "renault/models/kaptur/images/3e2de010561642ce9bb29d69d63b9b6deea3a2b6c3e8b822ed0e691779ccf151.webp"
+  },
+  {
+    "filename": "3ea6ee32fd88a587c761ec030cb9aa0410d2234b16868f8a77e1f46a985c33be.webp",
+    "size": 21526,
+    "source_rel": "renault/models/kaptur/images/3ea6ee32fd88a587c761ec030cb9aa0410d2234b16868f8a77e1f46a985c33be.webp"
+  },
+  {
+    "filename": "3fa9d9006236ec58b1a4a72ce2b5aebd043c66da032ec75f29d3645a18ca5d6d.jpg",
+    "size": 79261,
+    "source_rel": "renault/models/kaptur/images/3fa9d9006236ec58b1a4a72ce2b5aebd043c66da032ec75f29d3645a18ca5d6d.jpg"
+  },
+  {
+    "filename": "40271b51c28a7c570411452537e9d498040ca225be3dc2d9950f258c4b2863dc.webp",
+    "size": 44242,
+    "source_rel": "renault/models/kaptur/images/40271b51c28a7c570411452537e9d498040ca225be3dc2d9950f258c4b2863dc.webp"
+  },
+  {
+    "filename": "406c990a109245e839ee37c5c47d9f2539567797dd1bdfa791579771d7f9dd8c.webp",
+    "size": 38538,
+    "source_rel": "renault/models/kaptur/images/406c990a109245e839ee37c5c47d9f2539567797dd1bdfa791579771d7f9dd8c.webp"
+  },
+  {
+    "filename": "406f9472c1d24acf5a16008e89d9f3a01d27d9c3cbe41afb9a362d0e7c5a3b84.webp",
+    "size": 43378,
+    "source_rel": "renault/models/kaptur/images/406f9472c1d24acf5a16008e89d9f3a01d27d9c3cbe41afb9a362d0e7c5a3b84.webp"
+  },
+  {
+    "filename": "40e77811ea041970623fbc6e8eaa36004df70d800b7cd4f29bdb434701ca938d.webp",
+    "size": 24854,
+    "source_rel": "renault/models/kaptur/images/40e77811ea041970623fbc6e8eaa36004df70d800b7cd4f29bdb434701ca938d.webp"
+  },
+  {
+    "filename": "41254ada3371b1084ef914e6b1ec0ce5b73abd70dab500abb2ec0b171b271760.webp",
+    "size": 71444,
+    "source_rel": "renault/models/kaptur/images/41254ada3371b1084ef914e6b1ec0ce5b73abd70dab500abb2ec0b171b271760.webp"
+  },
+  {
+    "filename": "413dcfbcd679216ae17894e69d2547a49fab3353a78e117568ef8e6664ef75d9.webp",
+    "size": 24624,
+    "source_rel": "renault/models/kaptur/images/413dcfbcd679216ae17894e69d2547a49fab3353a78e117568ef8e6664ef75d9.webp"
+  },
+  {
+    "filename": "41e491a805dd2d86160858db58a6832b9de108763528ef10226cee82fc0a9527.webp",
+    "size": 54520,
+    "source_rel": "renault/models/kaptur/images/41e491a805dd2d86160858db58a6832b9de108763528ef10226cee82fc0a9527.webp"
+  },
+  {
+    "filename": "41f6d5bf3c15cbcf59f9d7e68094b6e2c4f6bab8213f17152c7563d51f6e1f89.webp",
+    "size": 55770,
+    "source_rel": "renault/models/kaptur/images/41f6d5bf3c15cbcf59f9d7e68094b6e2c4f6bab8213f17152c7563d51f6e1f89.webp"
+  },
+  {
+    "filename": "42a7f9661ca07d402a3a6a3ea4a34532abe6c3f31f8d41172d78f238ab438ead.webp",
+    "size": 53496,
+    "source_rel": "renault/models/kaptur/images/42a7f9661ca07d402a3a6a3ea4a34532abe6c3f31f8d41172d78f238ab438ead.webp"
+  },
+  {
+    "filename": "431d2caec9265994d259d05d7e19aaf8fa0a42f1f99f58e42f0d86eefab8095d.webp",
+    "size": 39950,
+    "source_rel": "renault/models/kaptur/images/431d2caec9265994d259d05d7e19aaf8fa0a42f1f99f58e42f0d86eefab8095d.webp"
+  },
+  {
+    "filename": "4390380acaf0c8b77711e38b657258f1e60a5b92790ec8f92ce1ce3f310a607f.webp",
+    "size": 16532,
+    "source_rel": "renault/models/kaptur/images/4390380acaf0c8b77711e38b657258f1e60a5b92790ec8f92ce1ce3f310a607f.webp"
+  },
+  {
+    "filename": "43ba110d491ecd6c79585e792afb15ca284a1d28b03c14ecc46da29db97ba987.webp",
+    "size": 20686,
+    "source_rel": "renault/models/kaptur/images/43ba110d491ecd6c79585e792afb15ca284a1d28b03c14ecc46da29db97ba987.webp"
+  },
+  {
+    "filename": "440a1351b7d3f531ef77286160b316e534b0ffd0d9c08f1195e7e79cb534d7cd.webp",
+    "size": 54298,
+    "source_rel": "renault/models/kaptur/images/440a1351b7d3f531ef77286160b316e534b0ffd0d9c08f1195e7e79cb534d7cd.webp"
+  },
+  {
+    "filename": "445d5be2d21c7b7c3eb556ad87cf78cd70ce47d79be8ef8cd62ad2dcaa7e9326.webp",
+    "size": 50692,
+    "source_rel": "renault/models/kaptur/images/445d5be2d21c7b7c3eb556ad87cf78cd70ce47d79be8ef8cd62ad2dcaa7e9326.webp"
+  },
+  {
+    "filename": "4480033a626b50e0f8aba4e13d4db63e205960fc7403d081416475f494c2e733.webp",
+    "size": 29806,
+    "source_rel": "renault/models/kaptur/images/4480033a626b50e0f8aba4e13d4db63e205960fc7403d081416475f494c2e733.webp"
+  },
+  {
+    "filename": "44f6baaccf7ddcd6a0874c56d387dd4881062ecc11eac037651ed79aa20d41b6.webp",
+    "size": 25336,
+    "source_rel": "renault/models/kaptur/images/44f6baaccf7ddcd6a0874c56d387dd4881062ecc11eac037651ed79aa20d41b6.webp"
+  },
+  {
+    "filename": "459892a73c1a18ecc293563b0933450af1ae076b43245e6ebe0b8e022a53df53.webp",
+    "size": 39594,
+    "source_rel": "renault/models/kaptur/images/459892a73c1a18ecc293563b0933450af1ae076b43245e6ebe0b8e022a53df53.webp"
+  },
+  {
+    "filename": "459a74cc94a5e7745b60f738432824ccf4d821dc02c17eb2927988996fe29df1.webp",
+    "size": 61258,
+    "source_rel": "renault/models/kaptur/images/459a74cc94a5e7745b60f738432824ccf4d821dc02c17eb2927988996fe29df1.webp"
+  },
+  {
+    "filename": "45c43e59d470cc132b4aa8b831b0bbada45799f9ecc20d369ba56564b6ee6827.webp",
+    "size": 61536,
+    "source_rel": "renault/models/kaptur/images/45c43e59d470cc132b4aa8b831b0bbada45799f9ecc20d369ba56564b6ee6827.webp"
+  },
+  {
+    "filename": "45c8e808522e11e46b180ae5da4d1df39118e50bc5452a901f0a31e25d1516b4.webp",
+    "size": 47712,
+    "source_rel": "renault/models/kaptur/images/45c8e808522e11e46b180ae5da4d1df39118e50bc5452a901f0a31e25d1516b4.webp"
+  },
+  {
+    "filename": "4618eb5f05c5581b94a994eb876809809ab96ac107eea29ab4ba2b4cd86c203c.webp",
+    "size": 33616,
+    "source_rel": "renault/models/kaptur/images/4618eb5f05c5581b94a994eb876809809ab96ac107eea29ab4ba2b4cd86c203c.webp"
+  },
+  {
+    "filename": "475122021e90069e286f7706a1168b05bb018c0f607b249651f6e50201cc02fb.webp",
+    "size": 37540,
+    "source_rel": "renault/models/kaptur/images/475122021e90069e286f7706a1168b05bb018c0f607b249651f6e50201cc02fb.webp"
+  },
+  {
+    "filename": "479259e13826275b59fcb48a28ff2ab87fe62b18a12e4e18c9565f616c309c9b.webp",
+    "size": 35704,
+    "source_rel": "renault/models/kaptur/images/479259e13826275b59fcb48a28ff2ab87fe62b18a12e4e18c9565f616c309c9b.webp"
+  },
+  {
+    "filename": "485fc6c3b0107f7c66505d9b8bbb9efd9f55e539e07e4b0d8c54937b82055d86.webp",
+    "size": 31418,
+    "source_rel": "renault/models/kaptur/images/485fc6c3b0107f7c66505d9b8bbb9efd9f55e539e07e4b0d8c54937b82055d86.webp"
+  },
+  {
+    "filename": "4895f4d59f2330811d0388dd5955333d529eec56f58ffcf1fb6c209305d4b0dd.webp",
+    "size": 31536,
+    "source_rel": "renault/models/kaptur/images/4895f4d59f2330811d0388dd5955333d529eec56f58ffcf1fb6c209305d4b0dd.webp"
+  },
+  {
+    "filename": "48a86c7e22e8fda4774c5f9aa74753da6f6011641c08001d898024d6af8b40db.webp",
+    "size": 29652,
+    "source_rel": "renault/models/kaptur/images/48a86c7e22e8fda4774c5f9aa74753da6f6011641c08001d898024d6af8b40db.webp"
+  },
+  {
+    "filename": "48cd7355e9c713f5943aa3cccd231c58bdef5efe104ab0ef070c8c7cefa20562.webp",
+    "size": 56076,
+    "source_rel": "renault/models/kaptur/images/48cd7355e9c713f5943aa3cccd231c58bdef5efe104ab0ef070c8c7cefa20562.webp"
+  },
+  {
+    "filename": "492a619a0f4f6f2e5a376745a961573853471a90c316d093f1e13c8a39bdd655.webp",
+    "size": 54066,
+    "source_rel": "renault/models/kaptur/images/492a619a0f4f6f2e5a376745a961573853471a90c316d093f1e13c8a39bdd655.webp"
+  },
+  {
+    "filename": "49443fc8cf994ed8ef5096a4cfb6004b93f1a216b50fd44ffc4ac38f920b7958.webp",
+    "size": 6908,
+    "source_rel": "renault/models/kaptur/images/49443fc8cf994ed8ef5096a4cfb6004b93f1a216b50fd44ffc4ac38f920b7958.webp"
+  },
+  {
+    "filename": "498555a27d1b507fc2765946dcf07d2c675d72d1e62f0a3265e560caa28ea8e3.webp",
+    "size": 52118,
+    "source_rel": "renault/models/kaptur/images/498555a27d1b507fc2765946dcf07d2c675d72d1e62f0a3265e560caa28ea8e3.webp"
+  },
+  {
+    "filename": "4adf97d287cedd768d9f18433be41e68194cc311cc60620817cb974667666804.jpg",
+    "size": 67534,
+    "source_rel": "renault/models/kaptur/images/4adf97d287cedd768d9f18433be41e68194cc311cc60620817cb974667666804.jpg"
+  },
+  {
+    "filename": "4b3f926a1adb26b1db029fcb9dad5920a060d41828784bf1ef97640524c4a91a.jpg",
+    "size": 74246,
+    "source_rel": "renault/models/kaptur/images/4b3f926a1adb26b1db029fcb9dad5920a060d41828784bf1ef97640524c4a91a.jpg"
+  },
+  {
+    "filename": "4b57965bd6f91c36a4614dfd48da7582c4089daf7fe254e63c77095217ffe448.webp",
+    "size": 37092,
+    "source_rel": "renault/models/kaptur/images/4b57965bd6f91c36a4614dfd48da7582c4089daf7fe254e63c77095217ffe448.webp"
+  },
+  {
+    "filename": "4bf2b1c352eb7e8ef2c87172e2dbb60dfa40ac13611b34c24685c514d146f3e8.webp",
+    "size": 43956,
+    "source_rel": "renault/models/kaptur/images/4bf2b1c352eb7e8ef2c87172e2dbb60dfa40ac13611b34c24685c514d146f3e8.webp"
+  },
+  {
+    "filename": "4c9f58b889262cca8bf7a221914719cef72b07c895037a46d4b9eeda63fe8ade.webp",
+    "size": 59342,
+    "source_rel": "renault/models/kaptur/images/4c9f58b889262cca8bf7a221914719cef72b07c895037a46d4b9eeda63fe8ade.webp"
+  },
+  {
+    "filename": "4cab1c742a3094960dec8d24a7c5fc60f9fabc240a74895085feab999bb2e6cd.webp",
+    "size": 22980,
+    "source_rel": "renault/models/kaptur/images/4cab1c742a3094960dec8d24a7c5fc60f9fabc240a74895085feab999bb2e6cd.webp"
+  },
+  {
+    "filename": "4d8aaea20492e716a4edfee0e0f9f5ecd96f9fb8914af68957008c18c68cdb85.webp",
+    "size": 48068,
+    "source_rel": "renault/models/kaptur/images/4d8aaea20492e716a4edfee0e0f9f5ecd96f9fb8914af68957008c18c68cdb85.webp"
+  },
+  {
+    "filename": "4d90d57d1ee5fd7f654bcd8130bc2cb8dbbb997e95d488bef4458f14979b6402.webp",
+    "size": 54588,
+    "source_rel": "renault/models/kaptur/images/4d90d57d1ee5fd7f654bcd8130bc2cb8dbbb997e95d488bef4458f14979b6402.webp"
+  },
+  {
+    "filename": "4f2df342a88683c1167c4b45b8ba726ef5b7268404a77a62f81b9d50bb5ea971.webp",
+    "size": 42012,
+    "source_rel": "renault/models/kaptur/images/4f2df342a88683c1167c4b45b8ba726ef5b7268404a77a62f81b9d50bb5ea971.webp"
+  },
+  {
+    "filename": "4fb6ccb5c4366640287b5ae8b914e0617f56a1d3dfff6437747764019842e9a4.webp",
+    "size": 37786,
+    "source_rel": "renault/models/kaptur/images/4fb6ccb5c4366640287b5ae8b914e0617f56a1d3dfff6437747764019842e9a4.webp"
+  },
+  {
+    "filename": "50408beb3474551a88056a9fcf79322ccd53a0d51a37a24e51bbfb713698d410.webp",
+    "size": 46814,
+    "source_rel": "renault/models/kaptur/images/50408beb3474551a88056a9fcf79322ccd53a0d51a37a24e51bbfb713698d410.webp"
+  },
+  {
+    "filename": "50cdbaf7c2b771cc4e842f303f14e433e6e3c2d9d6dd74ff0172e630691cc253.webp",
+    "size": 43614,
+    "source_rel": "renault/models/kaptur/images/50cdbaf7c2b771cc4e842f303f14e433e6e3c2d9d6dd74ff0172e630691cc253.webp"
+  },
+  {
+    "filename": "512ad25c518a8dba40c46fe48b0e81c25502125c3576fc1074bd9ca849be27c1.webp",
+    "size": 29866,
+    "source_rel": "renault/models/kaptur/images/512ad25c518a8dba40c46fe48b0e81c25502125c3576fc1074bd9ca849be27c1.webp"
+  },
+  {
+    "filename": "51aea4156ccf952100f6654506b57db06e7b5e15ef7df0266878ea4481146ed1.webp",
+    "size": 33700,
+    "source_rel": "renault/models/kaptur/images/51aea4156ccf952100f6654506b57db06e7b5e15ef7df0266878ea4481146ed1.webp"
+  },
+  {
+    "filename": "51b44ee68e0f8706137646bd746e4e724345abd54c903e2867d5d1a7b1fa4303.webp",
+    "size": 47384,
+    "source_rel": "renault/models/kaptur/images/51b44ee68e0f8706137646bd746e4e724345abd54c903e2867d5d1a7b1fa4303.webp"
+  },
+  {
+    "filename": "51cae6694a296cba5c20f934fd9b616be9bb91ed7ac78676c2e9ee84088fc439.webp",
+    "size": 46082,
+    "source_rel": "renault/models/kaptur/images/51cae6694a296cba5c20f934fd9b616be9bb91ed7ac78676c2e9ee84088fc439.webp"
+  },
+  {
+    "filename": "51e0e1614dd6a66778a19221be5460d92cbf5b718732bf927e6a56a82719caab.webp",
+    "size": 55366,
+    "source_rel": "renault/models/kaptur/images/51e0e1614dd6a66778a19221be5460d92cbf5b718732bf927e6a56a82719caab.webp"
+  },
+  {
+    "filename": "52396f9b3c91a12a09fc5a16b0bfb0000e07db9ca630a3a840cd25c17457a5d8.webp",
+    "size": 66180,
+    "source_rel": "renault/models/kaptur/images/52396f9b3c91a12a09fc5a16b0bfb0000e07db9ca630a3a840cd25c17457a5d8.webp"
+  },
+  {
+    "filename": "5277963414c40b85949e26ff3877e0dc61c835c5f1050358573aa55a08103ca1.webp",
+    "size": 40386,
+    "source_rel": "renault/models/kaptur/images/5277963414c40b85949e26ff3877e0dc61c835c5f1050358573aa55a08103ca1.webp"
+  },
+  {
+    "filename": "527b66cd1e8c01f89abcf933b228ffc7dba72b19f9563f2543df3563bc5dffd3.webp",
+    "size": 46992,
+    "source_rel": "renault/models/kaptur/images/527b66cd1e8c01f89abcf933b228ffc7dba72b19f9563f2543df3563bc5dffd3.webp"
+  },
+  {
+    "filename": "527e9884556b17311f7853d7d0fd6e2c95e1b44a6bd29517678648a8b48e6313.webp",
+    "size": 15318,
+    "source_rel": "renault/models/kaptur/images/527e9884556b17311f7853d7d0fd6e2c95e1b44a6bd29517678648a8b48e6313.webp"
+  },
+  {
+    "filename": "528d0a9cdd1b206dbd5b8b909069204a534fbc73bb72e01eff521b566283c7db.webp",
+    "size": 82284,
+    "source_rel": "renault/models/kaptur/images/528d0a9cdd1b206dbd5b8b909069204a534fbc73bb72e01eff521b566283c7db.webp"
+  },
+  {
+    "filename": "53545609adc02c14d9732961d34bb62269783ec4e2f7968f5552f0fdd73bd90b.webp",
+    "size": 24626,
+    "source_rel": "renault/models/kaptur/images/53545609adc02c14d9732961d34bb62269783ec4e2f7968f5552f0fdd73bd90b.webp"
+  },
+  {
+    "filename": "537461bd5d22ebc2286efda737fe23c20cc9b61f0f541a074c02b5afb2bff761.webp",
+    "size": 18738,
+    "source_rel": "renault/models/kaptur/images/537461bd5d22ebc2286efda737fe23c20cc9b61f0f541a074c02b5afb2bff761.webp"
+  },
+  {
+    "filename": "539f33babe136db4ddbdeef3c8850d4a4c21e7b8247ca26c0a3dab60d75abb6c.webp",
+    "size": 40174,
+    "source_rel": "renault/models/kaptur/images/539f33babe136db4ddbdeef3c8850d4a4c21e7b8247ca26c0a3dab60d75abb6c.webp"
+  },
+  {
+    "filename": "53ad96bf9ac13ad4036b5bf02b2e5cf24acb47cca53a44d4ce3984d752b4bed4.webp",
+    "size": 46450,
+    "source_rel": "renault/models/kaptur/images/53ad96bf9ac13ad4036b5bf02b2e5cf24acb47cca53a44d4ce3984d752b4bed4.webp"
+  },
+  {
+    "filename": "53bda5fd13efca6dd406261413f9df1370fe593ef5cefe91ed7aaf9032cf10e3.webp",
+    "size": 53098,
+    "source_rel": "renault/models/kaptur/images/53bda5fd13efca6dd406261413f9df1370fe593ef5cefe91ed7aaf9032cf10e3.webp"
+  },
+  {
+    "filename": "53ce2caf0da1480f1db2bf6ee19b5922ff59f7f2b36824bf2fd4cb56520818fb.webp",
+    "size": 22738,
+    "source_rel": "renault/models/kaptur/images/53ce2caf0da1480f1db2bf6ee19b5922ff59f7f2b36824bf2fd4cb56520818fb.webp"
+  },
+  {
+    "filename": "54d64383b0d0d7a43f2eaf8020d89a447d7cad52d4e199cde03ad909335b3e7d.webp",
+    "size": 29914,
+    "source_rel": "renault/models/kaptur/images/54d64383b0d0d7a43f2eaf8020d89a447d7cad52d4e199cde03ad909335b3e7d.webp"
+  },
+  {
+    "filename": "5556e7d00e7660ad5cc2a26411cb67125c8d279ba9be5e2c5abd6de413c9af19.webp",
+    "size": 57446,
+    "source_rel": "renault/models/kaptur/images/5556e7d00e7660ad5cc2a26411cb67125c8d279ba9be5e2c5abd6de413c9af19.webp"
+  },
+  {
+    "filename": "5560be3a2739fd603610cbb31d5678fe9273c7dab982ed334a42c7d52e0a563e.webp",
+    "size": 16788,
+    "source_rel": "renault/models/kaptur/images/5560be3a2739fd603610cbb31d5678fe9273c7dab982ed334a42c7d52e0a563e.webp"
+  },
+  {
+    "filename": "565be39d88df442ff94a6c3fcfd1aea6c340bf9e575e2eb2d975bb506d8fb8e3.webp",
+    "size": 74752,
+    "source_rel": "renault/models/kaptur/images/565be39d88df442ff94a6c3fcfd1aea6c340bf9e575e2eb2d975bb506d8fb8e3.webp"
+  },
+  {
+    "filename": "56b7a3a26f4c282bcd0ccaae03b5d16b6c06d555f97f7a50351a8dde8aa81100.webp",
+    "size": 70010,
+    "source_rel": "renault/models/kaptur/images/56b7a3a26f4c282bcd0ccaae03b5d16b6c06d555f97f7a50351a8dde8aa81100.webp"
+  },
+  {
+    "filename": "56e649303b69f053a73e5fe4da0814c15931482535bf8b78eff154e3d50dda38.webp",
+    "size": 207834,
+    "source_rel": "renault/models/kaptur/images/56e649303b69f053a73e5fe4da0814c15931482535bf8b78eff154e3d50dda38.webp"
+  },
+  {
+    "filename": "5700ac3456b88704bff42693dc16d3c840bdc3fc0b3ed6b35c3477f732a25077.webp",
+    "size": 48224,
+    "source_rel": "renault/models/kaptur/images/5700ac3456b88704bff42693dc16d3c840bdc3fc0b3ed6b35c3477f732a25077.webp"
+  },
+  {
+    "filename": "5738ae1a458a15b5b187ca0b37f46c4d70ac239b8eb6a4e9d42d241ac5178c8f.webp",
+    "size": 52884,
+    "source_rel": "renault/models/kaptur/images/5738ae1a458a15b5b187ca0b37f46c4d70ac239b8eb6a4e9d42d241ac5178c8f.webp"
+  },
+  {
+    "filename": "57920fe224171b09888afed9d03399d01c26670c491de56004b02f4956dd32ee.webp",
+    "size": 6808,
+    "source_rel": "renault/models/kaptur/images/57920fe224171b09888afed9d03399d01c26670c491de56004b02f4956dd32ee.webp"
+  },
+  {
+    "filename": "57bd73567957829c7d5c9e9fa5d591f3aeed45a756859d9dc603575f530d39f6.webp",
+    "size": 33104,
+    "source_rel": "renault/models/kaptur/images/57bd73567957829c7d5c9e9fa5d591f3aeed45a756859d9dc603575f530d39f6.webp"
+  },
+  {
+    "filename": "58bd4f55165ecf273fb9dacc2ef284cdb9be7729456b5b3f340a78aad9758572.webp",
+    "size": 59612,
+    "source_rel": "renault/models/kaptur/images/58bd4f55165ecf273fb9dacc2ef284cdb9be7729456b5b3f340a78aad9758572.webp"
+  },
+  {
+    "filename": "58bff41252cf8a1221c9ee7d8a99ca22ca0c9754a6b006ce142fe2454829e733.webp",
+    "size": 62940,
+    "source_rel": "renault/models/kaptur/images/58bff41252cf8a1221c9ee7d8a99ca22ca0c9754a6b006ce142fe2454829e733.webp"
+  },
+  {
+    "filename": "58e072a2f84155827c45088a98654d109e5ef9471def6a6d37fc51e9ba1b7bde.webp",
+    "size": 38956,
+    "source_rel": "renault/models/kaptur/images/58e072a2f84155827c45088a98654d109e5ef9471def6a6d37fc51e9ba1b7bde.webp"
+  },
+  {
+    "filename": "58f6cf88a4feac15ae9b14c3aaded2e3bb32f2d336c7747f26167e7645c3538a.webp",
+    "size": 35618,
+    "source_rel": "renault/models/kaptur/images/58f6cf88a4feac15ae9b14c3aaded2e3bb32f2d336c7747f26167e7645c3538a.webp"
+  },
+  {
+    "filename": "5924034d25191f14c917de5ea25ea00a6ddb89d4494be4221a41e60f7a1f021e.webp",
+    "size": 57142,
+    "source_rel": "renault/models/kaptur/images/5924034d25191f14c917de5ea25ea00a6ddb89d4494be4221a41e60f7a1f021e.webp"
+  },
+  {
+    "filename": "59a97ea6c677ed98dab7c70652cc1b80002341cffdb93565a59645a530ef3f4a.webp",
+    "size": 44908,
+    "source_rel": "renault/models/kaptur/images/59a97ea6c677ed98dab7c70652cc1b80002341cffdb93565a59645a530ef3f4a.webp"
+  },
+  {
+    "filename": "5b2b894f9f0e3e5cb54e15f8e9510f025908d206105b52f14a9c02e273b33b0c.webp",
+    "size": 33212,
+    "source_rel": "renault/models/kaptur/images/5b2b894f9f0e3e5cb54e15f8e9510f025908d206105b52f14a9c02e273b33b0c.webp"
+  },
+  {
+    "filename": "5c234d1b48e37cebf6dfc1f885168359dd6792a9fb08c2c8e593250d5c3bb6e1.webp",
+    "size": 19922,
+    "source_rel": "renault/models/kaptur/images/5c234d1b48e37cebf6dfc1f885168359dd6792a9fb08c2c8e593250d5c3bb6e1.webp"
+  },
+  {
+    "filename": "5c36710bff7643ffabb9ba1b4e1dffb8eaab368086a7163d5e0ac7dc6f843676.webp",
+    "size": 27906,
+    "source_rel": "renault/models/kaptur/images/5c36710bff7643ffabb9ba1b4e1dffb8eaab368086a7163d5e0ac7dc6f843676.webp"
+  },
+  {
+    "filename": "5ce896ded6e6e1088cd09d3db6126ea65686c2d8e142ba1766f6c28599a6574e.webp",
+    "size": 46436,
+    "source_rel": "renault/models/kaptur/images/5ce896ded6e6e1088cd09d3db6126ea65686c2d8e142ba1766f6c28599a6574e.webp"
+  },
+  {
+    "filename": "5d2a0adcd8246814e07531bc17365dee02445c6c222f553fa52cab8f66f84e08.webp",
+    "size": 66310,
+    "source_rel": "renault/models/kaptur/images/5d2a0adcd8246814e07531bc17365dee02445c6c222f553fa52cab8f66f84e08.webp"
+  },
+  {
+    "filename": "5d951ada27aa70183f9bb8c687acb2339d32be291d502c02d50f1a94aea13bd2.webp",
+    "size": 54640,
+    "source_rel": "renault/models/kaptur/images/5d951ada27aa70183f9bb8c687acb2339d32be291d502c02d50f1a94aea13bd2.webp"
+  },
+  {
+    "filename": "5daa23cdf6ab4d126b549fb57b4cd7fc00ee6c1b63563376cb306002c4908261.webp",
+    "size": 54952,
+    "source_rel": "renault/models/kaptur/images/5daa23cdf6ab4d126b549fb57b4cd7fc00ee6c1b63563376cb306002c4908261.webp"
+  },
+  {
+    "filename": "5eaf779e85c243628d7c4270ddc087205c2cef262a4a9a388bdc16f8719f8fac.webp",
+    "size": 24746,
+    "source_rel": "renault/models/kaptur/images/5eaf779e85c243628d7c4270ddc087205c2cef262a4a9a388bdc16f8719f8fac.webp"
+  },
+  {
+    "filename": "5ece7c1b69444d8ae6faa0e74bf541558169fc82b5bf497bbdd90c0f97530be5.webp",
+    "size": 31262,
+    "source_rel": "renault/models/kaptur/images/5ece7c1b69444d8ae6faa0e74bf541558169fc82b5bf497bbdd90c0f97530be5.webp"
+  },
+  {
+    "filename": "5f8fdd99774f1bcf6d16b464696249e3a2c8a7ed92e50182061bffb33a83016c.webp",
+    "size": 15608,
+    "source_rel": "renault/models/kaptur/images/5f8fdd99774f1bcf6d16b464696249e3a2c8a7ed92e50182061bffb33a83016c.webp"
+  },
+  {
+    "filename": "60a012172a59523534fc7cb9d4c5b986c4ad4196cea793269a65f846f781b1c4.jpg",
+    "size": 92903,
+    "source_rel": "renault/models/kaptur/images/60a012172a59523534fc7cb9d4c5b986c4ad4196cea793269a65f846f781b1c4.jpg"
+  },
+  {
+    "filename": "6125905a45c1b529b60837c7c35ba117035e608b956f7d0b26a9b2f47c1eea05.webp",
+    "size": 46478,
+    "source_rel": "renault/models/kaptur/images/6125905a45c1b529b60837c7c35ba117035e608b956f7d0b26a9b2f47c1eea05.webp"
+  },
+  {
+    "filename": "619d2e769d9d19915b8bb7e1587e9a97ea5fec5b7f3ca6988efed204d9efe93e.jpg",
+    "size": 188846,
+    "source_rel": "renault/models/kaptur/images/619d2e769d9d19915b8bb7e1587e9a97ea5fec5b7f3ca6988efed204d9efe93e.jpg"
+  },
+  {
+    "filename": "61da2d0347d75baff3dc70db9ace57c46d07638c2697452ac6330df0b3b83dec.webp",
+    "size": 30956,
+    "source_rel": "renault/models/kaptur/images/61da2d0347d75baff3dc70db9ace57c46d07638c2697452ac6330df0b3b83dec.webp"
+  },
+  {
+    "filename": "623ebb7f71165076a63c039a0af18b542a2794c76649a6637e95e4b7f8b97fb7.webp",
+    "size": 39508,
+    "source_rel": "renault/models/kaptur/images/623ebb7f71165076a63c039a0af18b542a2794c76649a6637e95e4b7f8b97fb7.webp"
+  },
+  {
+    "filename": "624c4f51737d6837d65cdf2ffc0609e160bd90424d18d79e79da4eb04b150375.webp",
+    "size": 31796,
+    "source_rel": "renault/models/kaptur/images/624c4f51737d6837d65cdf2ffc0609e160bd90424d18d79e79da4eb04b150375.webp"
+  },
+  {
+    "filename": "6272c60b1914bc2f42dfc715fabb3a06e54ce7ae89707358a52068b1caf7f18a.webp",
+    "size": 41892,
+    "source_rel": "renault/models/kaptur/images/6272c60b1914bc2f42dfc715fabb3a06e54ce7ae89707358a52068b1caf7f18a.webp"
+  },
+  {
+    "filename": "635ae4a6f8e1002b10e7b10e4386120c73b4a06e3fa775ca8f57e877e104e3e8.webp",
+    "size": 98254,
+    "source_rel": "renault/models/kaptur/images/635ae4a6f8e1002b10e7b10e4386120c73b4a06e3fa775ca8f57e877e104e3e8.webp"
+  },
+  {
+    "filename": "6422c2c0ec22d05679e16bd97ead238c567aaad06d4bbdd715b1af61d7e22c7d.webp",
+    "size": 50178,
+    "source_rel": "renault/models/kaptur/images/6422c2c0ec22d05679e16bd97ead238c567aaad06d4bbdd715b1af61d7e22c7d.webp"
+  },
+  {
+    "filename": "644668a99dd7a4a34bdacdc3810b6642defa8849668ac46495c744aeae56d1cb.webp",
+    "size": 45250,
+    "source_rel": "renault/models/kaptur/images/644668a99dd7a4a34bdacdc3810b6642defa8849668ac46495c744aeae56d1cb.webp"
+  },
+  {
+    "filename": "6498086fe32b8907c18460d5180e99d02ba8b39534cbda2e238f7345b1147c64.webp",
+    "size": 46512,
+    "source_rel": "renault/models/kaptur/images/6498086fe32b8907c18460d5180e99d02ba8b39534cbda2e238f7345b1147c64.webp"
+  },
+  {
+    "filename": "64a32aaf4503f8254ef359389eba146b830298fc02bcecba946bd152a352e2da.webp",
+    "size": 68088,
+    "source_rel": "renault/models/kaptur/images/64a32aaf4503f8254ef359389eba146b830298fc02bcecba946bd152a352e2da.webp"
+  },
+  {
+    "filename": "64c8ae7faa8f91b51ee5d74f4d852aa10f26e879c208fabe6c1a2848bd433ebe.webp",
+    "size": 52580,
+    "source_rel": "renault/models/kaptur/images/64c8ae7faa8f91b51ee5d74f4d852aa10f26e879c208fabe6c1a2848bd433ebe.webp"
+  },
+  {
+    "filename": "653e2304f7ba9629dd770dc71aabc83549df6d6ea72aa09c226fcb2600e80932.webp",
+    "size": 53740,
+    "source_rel": "renault/models/kaptur/images/653e2304f7ba9629dd770dc71aabc83549df6d6ea72aa09c226fcb2600e80932.webp"
+  },
+  {
+    "filename": "6594a7e1b2b9734576b28e1d1a04daa0f453f28bde106c7c433f6e82e91151c8.webp",
+    "size": 36366,
+    "source_rel": "renault/models/kaptur/images/6594a7e1b2b9734576b28e1d1a04daa0f453f28bde106c7c433f6e82e91151c8.webp"
+  },
+  {
+    "filename": "65db4bbd402a525e0e57d154f124a22fd36268ba8e383b0060b2516b968ff70d.webp",
+    "size": 40836,
+    "source_rel": "renault/models/kaptur/images/65db4bbd402a525e0e57d154f124a22fd36268ba8e383b0060b2516b968ff70d.webp"
+  },
+  {
+    "filename": "65e7582145657a0ba4905b3663ac573441372cedd463279d019ee533d6ba279d.webp",
+    "size": 63706,
+    "source_rel": "renault/models/kaptur/images/65e7582145657a0ba4905b3663ac573441372cedd463279d019ee533d6ba279d.webp"
+  },
+  {
+    "filename": "65fa5cc14fdff9f8c126669bbede53275b1d09d00d85003e1fbc38473365d405.webp",
+    "size": 54722,
+    "source_rel": "renault/models/kaptur/images/65fa5cc14fdff9f8c126669bbede53275b1d09d00d85003e1fbc38473365d405.webp"
+  },
+  {
+    "filename": "6647b8ccba92e8003f405c737ba3c8c7b97f3d0dfc81925ed7ad618a0fdf70e8.webp",
+    "size": 18968,
+    "source_rel": "renault/models/kaptur/images/6647b8ccba92e8003f405c737ba3c8c7b97f3d0dfc81925ed7ad618a0fdf70e8.webp"
+  },
+  {
+    "filename": "669970e3f4ef7ecf5bd5960d78a5a859f8dcb120e6983c841c3a7afc3461e835.webp",
+    "size": 21508,
+    "source_rel": "renault/models/kaptur/images/669970e3f4ef7ecf5bd5960d78a5a859f8dcb120e6983c841c3a7afc3461e835.webp"
+  },
+  {
+    "filename": "66bcc398a25e3344118c263ff01760d3d084564e3c311b4e975afca3d7312bda.webp",
+    "size": 29372,
+    "source_rel": "renault/models/kaptur/images/66bcc398a25e3344118c263ff01760d3d084564e3c311b4e975afca3d7312bda.webp"
+  },
+  {
+    "filename": "66f276e029f525e7abd6a16ac2092d2037ff4ad60a5e932663a649ac6bfbaa64.webp",
+    "size": 69922,
+    "source_rel": "renault/models/kaptur/images/66f276e029f525e7abd6a16ac2092d2037ff4ad60a5e932663a649ac6bfbaa64.webp"
+  },
+  {
+    "filename": "670992c8dd4f4ac3a2802a3b8d7b13fc9761ef1df91a4e74dab49caad0f77d6d.webp",
+    "size": 42924,
+    "source_rel": "renault/models/kaptur/images/670992c8dd4f4ac3a2802a3b8d7b13fc9761ef1df91a4e74dab49caad0f77d6d.webp"
+  },
+  {
+    "filename": "674a09d1cb52d5b8872be101d5dc6f2a190ca2cf9f55d85170417f9cbfa0546e.webp",
+    "size": 40458,
+    "source_rel": "renault/models/kaptur/images/674a09d1cb52d5b8872be101d5dc6f2a190ca2cf9f55d85170417f9cbfa0546e.webp"
+  },
+  {
+    "filename": "67513ab3969bbe07f9e98ca415b8675344d507c0ebded2376fb33c2a3698b45a.webp",
+    "size": 43422,
+    "source_rel": "renault/models/kaptur/images/67513ab3969bbe07f9e98ca415b8675344d507c0ebded2376fb33c2a3698b45a.webp"
+  },
+  {
+    "filename": "67af23f9fcfd19f01ce77bff3052237e02fc99141c3f78207a20782b46b66341.webp",
+    "size": 164136,
+    "source_rel": "renault/models/kaptur/images/67af23f9fcfd19f01ce77bff3052237e02fc99141c3f78207a20782b46b66341.webp"
+  },
+  {
+    "filename": "684dded2b623d254d99e21dac739147e7b8ac2909275c17d191b6a15fe1708ad.webp",
+    "size": 5756,
+    "source_rel": "renault/models/kaptur/images/684dded2b623d254d99e21dac739147e7b8ac2909275c17d191b6a15fe1708ad.webp"
+  },
+  {
+    "filename": "688a31ae6efa22b6912ae5510e2db09e72a5adeae7cf94a2919a1918eee62c11.webp",
+    "size": 44232,
+    "source_rel": "renault/models/kaptur/images/688a31ae6efa22b6912ae5510e2db09e72a5adeae7cf94a2919a1918eee62c11.webp"
+  },
+  {
+    "filename": "69f9a0f3c19ac66c26837e9ec6a7e70bb5eaf8820e6a3deb0a27fe2acaa19cf5.webp",
+    "size": 168574,
+    "source_rel": "renault/models/kaptur/images/69f9a0f3c19ac66c26837e9ec6a7e70bb5eaf8820e6a3deb0a27fe2acaa19cf5.webp"
+  },
+  {
+    "filename": "6b13b53d3c5fd609805746d53d7834a16bd794e0b16cedaed09e383bbc17e755.webp",
+    "size": 44672,
+    "source_rel": "renault/models/kaptur/images/6b13b53d3c5fd609805746d53d7834a16bd794e0b16cedaed09e383bbc17e755.webp"
+  },
+  {
+    "filename": "6b238216782bb56fbf2ac2fabb98436e5a701462b60a525257294079f1319579.webp",
+    "size": 38500,
+    "source_rel": "renault/models/kaptur/images/6b238216782bb56fbf2ac2fabb98436e5a701462b60a525257294079f1319579.webp"
+  },
+  {
+    "filename": "6b3a988af65cc915db09b4846ae3003f025bda23261b57e3a7ba25dbc78cb003.webp",
+    "size": 61748,
+    "source_rel": "renault/models/kaptur/images/6b3a988af65cc915db09b4846ae3003f025bda23261b57e3a7ba25dbc78cb003.webp"
+  },
+  {
+    "filename": "6b6e1dbca6b29e1929026833ea2e2c2b5a9ea92980798193934402df4ac3edd9.webp",
+    "size": 47678,
+    "source_rel": "renault/models/kaptur/images/6b6e1dbca6b29e1929026833ea2e2c2b5a9ea92980798193934402df4ac3edd9.webp"
+  },
+  {
+    "filename": "6b7b26393b6c1da68b28411a5ad75f9082fb70ffb474fbd83c1b6f32988f60e3.webp",
+    "size": 29992,
+    "source_rel": "renault/models/kaptur/images/6b7b26393b6c1da68b28411a5ad75f9082fb70ffb474fbd83c1b6f32988f60e3.webp"
+  },
+  {
+    "filename": "6baa5e2d5983458b01e420c3632be7241bdeaa2d2ab475ef3e10bf7dbe62c8fa.webp",
+    "size": 40954,
+    "source_rel": "renault/models/kaptur/images/6baa5e2d5983458b01e420c3632be7241bdeaa2d2ab475ef3e10bf7dbe62c8fa.webp"
+  },
+  {
+    "filename": "6bc0d8419a827a50c9880b28c4f940cca011cb15555bc664e9a595ac334d3290.webp",
+    "size": 95992,
+    "source_rel": "renault/models/kaptur/images/6bc0d8419a827a50c9880b28c4f940cca011cb15555bc664e9a595ac334d3290.webp"
+  },
+  {
+    "filename": "6bc7fdf117febab20fcd97db548359b76345987a885bac9bb03bbb481d1901d1.webp",
+    "size": 47122,
+    "source_rel": "renault/models/kaptur/images/6bc7fdf117febab20fcd97db548359b76345987a885bac9bb03bbb481d1901d1.webp"
+  },
+  {
+    "filename": "6beed644308d5318b6d9ad79f0b64a600d2c744dfb92b6c251d4f3019455c865.webp",
+    "size": 146600,
+    "source_rel": "renault/models/kaptur/images/6beed644308d5318b6d9ad79f0b64a600d2c744dfb92b6c251d4f3019455c865.webp"
+  },
+  {
+    "filename": "6c1e749fb6ea234be4c356e33bc71eb37fc31b4ce50a0ed1eacd6cd9c3202f53.webp",
+    "size": 8240,
+    "source_rel": "renault/models/kaptur/images/6c1e749fb6ea234be4c356e33bc71eb37fc31b4ce50a0ed1eacd6cd9c3202f53.webp"
+  },
+  {
+    "filename": "6cd2ea8c90dadf0f641eb95142561facd2cb8dd80bee3d59e23605964e790983.webp",
+    "size": 28790,
+    "source_rel": "renault/models/kaptur/images/6cd2ea8c90dadf0f641eb95142561facd2cb8dd80bee3d59e23605964e790983.webp"
+  },
+  {
+    "filename": "6d43b1331c65c41f89a60e4925fba10764bd9d5219303b64209dc7278de732eb.webp",
+    "size": 56288,
+    "source_rel": "renault/models/kaptur/images/6d43b1331c65c41f89a60e4925fba10764bd9d5219303b64209dc7278de732eb.webp"
+  },
+  {
+    "filename": "6ddd2c106ee5ba083981a635780c20d06cab774d6ff6cdd32db2f2247dd55581.webp",
+    "size": 37114,
+    "source_rel": "renault/models/kaptur/images/6ddd2c106ee5ba083981a635780c20d06cab774d6ff6cdd32db2f2247dd55581.webp"
+  },
+  {
+    "filename": "6e5855a863fdd9776a911574ac46c94d0423f1d04b8b953ad615f3ae272504be.webp",
+    "size": 43236,
+    "source_rel": "renault/models/kaptur/images/6e5855a863fdd9776a911574ac46c94d0423f1d04b8b953ad615f3ae272504be.webp"
+  },
+  {
+    "filename": "6e73aa892fa13c55529e10c1619f5aa451c4276433c9bb944a4eaa69304d5ca8.webp",
+    "size": 27670,
+    "source_rel": "renault/models/kaptur/images/6e73aa892fa13c55529e10c1619f5aa451c4276433c9bb944a4eaa69304d5ca8.webp"
+  },
+  {
+    "filename": "6f486c56a60f4b20c6e5542511a9b70f7f17c3b01f6ae3544f91fdb0bb3a73f4.webp",
+    "size": 40646,
+    "source_rel": "renault/models/kaptur/images/6f486c56a60f4b20c6e5542511a9b70f7f17c3b01f6ae3544f91fdb0bb3a73f4.webp"
+  },
+  {
+    "filename": "6f76e2e4583c6d12b11800ed76853ab8c77477f6120f2f487f1e5c924635c28f.webp",
+    "size": 22194,
+    "source_rel": "renault/models/kaptur/images/6f76e2e4583c6d12b11800ed76853ab8c77477f6120f2f487f1e5c924635c28f.webp"
+  },
+  {
+    "filename": "6f7eab17d292f9faeac881289b8f3c31dfde79730fc5518e9b80b83c2828c88f.webp",
+    "size": 37210,
+    "source_rel": "renault/models/kaptur/images/6f7eab17d292f9faeac881289b8f3c31dfde79730fc5518e9b80b83c2828c88f.webp"
+  },
+  {
+    "filename": "6fe882af2b0d191b083f1e12b4be3c0e2dc7586446f53108ce671200830c3bbd.webp",
+    "size": 51442,
+    "source_rel": "renault/models/kaptur/images/6fe882af2b0d191b083f1e12b4be3c0e2dc7586446f53108ce671200830c3bbd.webp"
+  },
+  {
+    "filename": "6ff7739d534c86d5171b9696e72e6907e43a464161f1d64aff1dfea9ea7ae5b2.webp",
+    "size": 59734,
+    "source_rel": "renault/models/kaptur/images/6ff7739d534c86d5171b9696e72e6907e43a464161f1d64aff1dfea9ea7ae5b2.webp"
+  },
+  {
+    "filename": "70a76f6d9f276c1da991b8c86ea76df9f72ffede272df8168ec95c95cfdf8cee.webp",
+    "size": 44486,
+    "source_rel": "renault/models/kaptur/images/70a76f6d9f276c1da991b8c86ea76df9f72ffede272df8168ec95c95cfdf8cee.webp"
+  },
+  {
+    "filename": "7106746807b414efce2b954c865fe75be6900953daf871f60847981e0f5cd776.webp",
+    "size": 57900,
+    "source_rel": "renault/models/kaptur/images/7106746807b414efce2b954c865fe75be6900953daf871f60847981e0f5cd776.webp"
+  },
+  {
+    "filename": "71136023c0fe54466a48231092a14bd53f3c7f7828ac72c97924894a8880fe96.webp",
+    "size": 60104,
+    "source_rel": "renault/models/kaptur/images/71136023c0fe54466a48231092a14bd53f3c7f7828ac72c97924894a8880fe96.webp"
+  },
+  {
+    "filename": "720a525bb85aaa7b45b67ffa1af5328bb3017f0a42eb42ed1fce0c2ad8f96229.webp",
+    "size": 40508,
+    "source_rel": "renault/models/kaptur/images/720a525bb85aaa7b45b67ffa1af5328bb3017f0a42eb42ed1fce0c2ad8f96229.webp"
+  },
+  {
+    "filename": "72782f60174abaee9663f2fb88692025b43f80ae6177efc5d656b884b5fdc1af.webp",
+    "size": 47286,
+    "source_rel": "renault/models/kaptur/images/72782f60174abaee9663f2fb88692025b43f80ae6177efc5d656b884b5fdc1af.webp"
+  },
+  {
+    "filename": "7287c05a9c4683f7590ff7bee2632a3b6a3046f4f9729b2f5fa29e10b566b202.webp",
+    "size": 35498,
+    "source_rel": "renault/models/kaptur/images/7287c05a9c4683f7590ff7bee2632a3b6a3046f4f9729b2f5fa29e10b566b202.webp"
+  },
+  {
+    "filename": "754f91691fca05d2f891eef551904e12dffa68c70b5279964a6cb904b2a98d27.webp",
+    "size": 20956,
+    "source_rel": "renault/models/kaptur/images/754f91691fca05d2f891eef551904e12dffa68c70b5279964a6cb904b2a98d27.webp"
+  },
+  {
+    "filename": "76171ab4ae89ffdf48251ab58a5d5c9f614fab4ce45e26eb3dd2863bbf274a70.webp",
+    "size": 74784,
+    "source_rel": "renault/models/kaptur/images/76171ab4ae89ffdf48251ab58a5d5c9f614fab4ce45e26eb3dd2863bbf274a70.webp"
+  },
+  {
+    "filename": "7637a912d28f3cbbbba8bc1574cf3fa455409f8a7bb46f565b211606fef2c69e.webp",
+    "size": 38910,
+    "source_rel": "renault/models/kaptur/images/7637a912d28f3cbbbba8bc1574cf3fa455409f8a7bb46f565b211606fef2c69e.webp"
+  },
+  {
+    "filename": "767944bc26c1e34e479581ca3c093f044a2506ae6a057c773ea391c34228206b.webp",
+    "size": 40876,
+    "source_rel": "renault/models/kaptur/images/767944bc26c1e34e479581ca3c093f044a2506ae6a057c773ea391c34228206b.webp"
+  },
+  {
+    "filename": "7703228242de07cbbcfa06ccace4cf76d1801fdf96eed09260841ce616ff603c.webp",
+    "size": 31620,
+    "source_rel": "renault/models/kaptur/images/7703228242de07cbbcfa06ccace4cf76d1801fdf96eed09260841ce616ff603c.webp"
+  },
+  {
+    "filename": "773868697a98814d4a0519f66f4c1893bee8e54bdca9c6a2c6c2bd2883d183ec.webp",
+    "size": 48018,
+    "source_rel": "renault/models/kaptur/images/773868697a98814d4a0519f66f4c1893bee8e54bdca9c6a2c6c2bd2883d183ec.webp"
+  },
+  {
+    "filename": "7781755c9bb81d3e729a1f0164d33fe7c511623152390aebb050d43f2d26d25a.webp",
+    "size": 33434,
+    "source_rel": "renault/models/kaptur/images/7781755c9bb81d3e729a1f0164d33fe7c511623152390aebb050d43f2d26d25a.webp"
+  },
+  {
+    "filename": "7796c4e241f5a88282048bb84b2245907270f8f65b0533d1720f58e907231a37.webp",
+    "size": 56654,
+    "source_rel": "renault/models/kaptur/images/7796c4e241f5a88282048bb84b2245907270f8f65b0533d1720f58e907231a37.webp"
+  },
+  {
+    "filename": "789710560ad374192fadeb36aed78d05ef2040ee8c793fc962a0f10bd9833a63.webp",
+    "size": 44830,
+    "source_rel": "renault/models/kaptur/images/789710560ad374192fadeb36aed78d05ef2040ee8c793fc962a0f10bd9833a63.webp"
+  },
+  {
+    "filename": "78b9f5d9cfffedb547818741942794b03eaed24392d585885db185a5fd3aeb40.webp",
+    "size": 90526,
+    "source_rel": "renault/models/kaptur/images/78b9f5d9cfffedb547818741942794b03eaed24392d585885db185a5fd3aeb40.webp"
+  },
+  {
+    "filename": "78f06e584dc12d80ae6bde3a04031b33d10c993d8de0d90ed7537cfca56696cd.webp",
+    "size": 44162,
+    "source_rel": "renault/models/kaptur/images/78f06e584dc12d80ae6bde3a04031b33d10c993d8de0d90ed7537cfca56696cd.webp"
+  },
+  {
+    "filename": "7957c2720a680ce224e487b012434e455d4a08a4f12ad9f3008846c6eb7c0775.webp",
+    "size": 66744,
+    "source_rel": "renault/models/kaptur/images/7957c2720a680ce224e487b012434e455d4a08a4f12ad9f3008846c6eb7c0775.webp"
+  },
+  {
+    "filename": "797de96e375a18fcb223d88c2de01eb01fe92300f3092247f3d7892bde14b546.webp",
+    "size": 51532,
+    "source_rel": "renault/models/kaptur/images/797de96e375a18fcb223d88c2de01eb01fe92300f3092247f3d7892bde14b546.webp"
+  },
+  {
+    "filename": "7a017bccdbfca8379aae231d382794bd30c54acabd6a4a7fe88cba42687e465a.webp",
+    "size": 40052,
+    "source_rel": "renault/models/kaptur/images/7a017bccdbfca8379aae231d382794bd30c54acabd6a4a7fe88cba42687e465a.webp"
+  },
+  {
+    "filename": "7a30e6a5d538698b2b7ab9782f38238bcd6ec44e1ae6590827fd495f4db1875a.webp",
+    "size": 62706,
+    "source_rel": "renault/models/kaptur/images/7a30e6a5d538698b2b7ab9782f38238bcd6ec44e1ae6590827fd495f4db1875a.webp"
+  },
+  {
+    "filename": "7a805690ae9e8f9a5230f04d70a250a49e4080cdd3fbd437c4bc509853646acb.webp",
+    "size": 16356,
+    "source_rel": "renault/models/kaptur/images/7a805690ae9e8f9a5230f04d70a250a49e4080cdd3fbd437c4bc509853646acb.webp"
+  },
+  {
+    "filename": "7b0f8302608f505faa6e19a031e66c1d14778ec00d861d49f8e9229ce4c56418.webp",
+    "size": 23102,
+    "source_rel": "renault/models/kaptur/images/7b0f8302608f505faa6e19a031e66c1d14778ec00d861d49f8e9229ce4c56418.webp"
+  },
+  {
+    "filename": "7b5d62677669023e2a20af1a812eeab3bdcf8c1827243f82b5f2a822ed5f63cd.webp",
+    "size": 38158,
+    "source_rel": "renault/models/kaptur/images/7b5d62677669023e2a20af1a812eeab3bdcf8c1827243f82b5f2a822ed5f63cd.webp"
+  },
+  {
+    "filename": "7b9195a71d29580f8e11e84bbd12279f56b96fe915dfb3aad274716db581a4ce.webp",
+    "size": 63154,
+    "source_rel": "renault/models/kaptur/images/7b9195a71d29580f8e11e84bbd12279f56b96fe915dfb3aad274716db581a4ce.webp"
+  },
+  {
+    "filename": "7bb9ce67adb7ed210b67ba0b7517005937568f3189b4c4df06e8911d4d69eeac.webp",
+    "size": 53738,
+    "source_rel": "renault/models/kaptur/images/7bb9ce67adb7ed210b67ba0b7517005937568f3189b4c4df06e8911d4d69eeac.webp"
+  },
+  {
+    "filename": "7be8e75950307f50d7eee1139ef67a06d6d3f9fa52ed39399fcb8bb1b259c959.webp",
+    "size": 33604,
+    "source_rel": "renault/models/kaptur/images/7be8e75950307f50d7eee1139ef67a06d6d3f9fa52ed39399fcb8bb1b259c959.webp"
+  },
+  {
+    "filename": "7c3ec31dd67a64ad45a687bf3f1e7a0a3127d800b7b5cd7c88bc9a87b9ba5ac4.webp",
+    "size": 13642,
+    "source_rel": "renault/models/kaptur/images/7c3ec31dd67a64ad45a687bf3f1e7a0a3127d800b7b5cd7c88bc9a87b9ba5ac4.webp"
+  },
+  {
+    "filename": "7d25a07be748b85e84e829ccb9ee54936ea2fe719fabba01a80b932d6d0daf40.webp",
+    "size": 45756,
+    "source_rel": "renault/models/kaptur/images/7d25a07be748b85e84e829ccb9ee54936ea2fe719fabba01a80b932d6d0daf40.webp"
+  },
+  {
+    "filename": "7d46544dfb0ec7460f23e072ae2b95c3f7cbb69f1237c2e171d50cf0c117e141.webp",
+    "size": 64318,
+    "source_rel": "renault/models/kaptur/images/7d46544dfb0ec7460f23e072ae2b95c3f7cbb69f1237c2e171d50cf0c117e141.webp"
+  },
+  {
+    "filename": "7df9cf566824e561dabc32e7e366b40a58d35223d66595f7fa3699d417d68434.webp",
+    "size": 60070,
+    "source_rel": "renault/models/kaptur/images/7df9cf566824e561dabc32e7e366b40a58d35223d66595f7fa3699d417d68434.webp"
+  },
+  {
+    "filename": "7f567fe20e971d87e43b079bbe6e162c9482815fee269ba7ed998c602c9c0af5.webp",
+    "size": 15814,
+    "source_rel": "renault/models/kaptur/images/7f567fe20e971d87e43b079bbe6e162c9482815fee269ba7ed998c602c9c0af5.webp"
+  },
+  {
+    "filename": "7f63ba45edcb4a1149a7e82eab609ee1a7c138ec1e046c27d4313f6337018958.webp",
+    "size": 32366,
+    "source_rel": "renault/models/kaptur/images/7f63ba45edcb4a1149a7e82eab609ee1a7c138ec1e046c27d4313f6337018958.webp"
+  },
+  {
+    "filename": "7fc02b6bd530c75f0d6569178649eab6739615a7563b29b8b3c4699c039f5c60.webp",
+    "size": 39328,
+    "source_rel": "renault/models/kaptur/images/7fc02b6bd530c75f0d6569178649eab6739615a7563b29b8b3c4699c039f5c60.webp"
+  },
+  {
+    "filename": "7fd8c1d820e6cda6e3d33f12b42153697b9cf2793f7e987aa0e4b0b3dfcab17d.webp",
+    "size": 31094,
+    "source_rel": "renault/models/kaptur/images/7fd8c1d820e6cda6e3d33f12b42153697b9cf2793f7e987aa0e4b0b3dfcab17d.webp"
+  },
+  {
+    "filename": "80268984d7e54dce4e15a704f8123083f9487bac688b8bb36249ff56ec76252d.webp",
+    "size": 82350,
+    "source_rel": "renault/models/kaptur/images/80268984d7e54dce4e15a704f8123083f9487bac688b8bb36249ff56ec76252d.webp"
+  },
+  {
+    "filename": "80536b9000eeeecc97471358aed5672117df7817a954ef7bf8edb0972100e4f8.webp",
+    "size": 46978,
+    "source_rel": "renault/models/kaptur/images/80536b9000eeeecc97471358aed5672117df7817a954ef7bf8edb0972100e4f8.webp"
+  },
+  {
+    "filename": "805dcb3ea75b51361e6b6762a76c79d1167d1b4eb37ae68f2480b37262697223.webp",
+    "size": 39090,
+    "source_rel": "renault/models/kaptur/images/805dcb3ea75b51361e6b6762a76c79d1167d1b4eb37ae68f2480b37262697223.webp"
+  },
+  {
+    "filename": "809acb4f25be6a12bbe175377ab1b4174cc2a43f2b979cc82916fe0adea384a9.webp",
+    "size": 47792,
+    "source_rel": "renault/models/kaptur/images/809acb4f25be6a12bbe175377ab1b4174cc2a43f2b979cc82916fe0adea384a9.webp"
+  },
+  {
+    "filename": "8132a905474844ec1cb59638eb4a2ca2c4c0b5a4337d42cf1bfd1d8941e0f15b.webp",
+    "size": 41184,
+    "source_rel": "renault/models/kaptur/images/8132a905474844ec1cb59638eb4a2ca2c4c0b5a4337d42cf1bfd1d8941e0f15b.webp"
+  },
+  {
+    "filename": "81a44be8f561126b6fbe8d38a892f584eac93cc9c7a8a1be34728ad09ff9c790.webp",
+    "size": 22810,
+    "source_rel": "renault/models/kaptur/images/81a44be8f561126b6fbe8d38a892f584eac93cc9c7a8a1be34728ad09ff9c790.webp"
+  },
+  {
+    "filename": "81ab4cbb9dc4ddebc85ada308fbe6f8bed46aff6a2207d32375332b864b984e9.webp",
+    "size": 69164,
+    "source_rel": "renault/models/kaptur/images/81ab4cbb9dc4ddebc85ada308fbe6f8bed46aff6a2207d32375332b864b984e9.webp"
+  },
+  {
+    "filename": "82034ee0f5f437aabe6d4c4aa8430767e7fee535424f4605e591cfc8eff06fed.webp",
+    "size": 40180,
+    "source_rel": "renault/models/kaptur/images/82034ee0f5f437aabe6d4c4aa8430767e7fee535424f4605e591cfc8eff06fed.webp"
+  },
+  {
+    "filename": "82ecd0f00d7b39c5ae3355d7fb24f541e273cd86508e204a29226623f2c8d329.webp",
+    "size": 54580,
+    "source_rel": "renault/models/kaptur/images/82ecd0f00d7b39c5ae3355d7fb24f541e273cd86508e204a29226623f2c8d329.webp"
+  },
+  {
+    "filename": "832139d8751fd819ccbfde53fd3c28ea639c79542f7c10ed94b0567202ecb4da.webp",
+    "size": 45112,
+    "source_rel": "renault/models/kaptur/images/832139d8751fd819ccbfde53fd3c28ea639c79542f7c10ed94b0567202ecb4da.webp"
+  },
+  {
+    "filename": "838dd8a05131d25992ff9be7e4864f61972bd01b23d6f92b2747b2d7c065bb66.webp",
+    "size": 78002,
+    "source_rel": "renault/models/kaptur/images/838dd8a05131d25992ff9be7e4864f61972bd01b23d6f92b2747b2d7c065bb66.webp"
+  },
+  {
+    "filename": "841b66e797c6ac91d8f61b83dde8d0642a9ba8a49f5bea80d91c175057904b36.webp",
+    "size": 52278,
+    "source_rel": "renault/models/kaptur/images/841b66e797c6ac91d8f61b83dde8d0642a9ba8a49f5bea80d91c175057904b36.webp"
+  },
+  {
+    "filename": "84f437b010c0a4f43a76981f3755bfc0c1f2191c0842ad1c84d9421e743da020.webp",
+    "size": 28836,
+    "source_rel": "renault/models/kaptur/images/84f437b010c0a4f43a76981f3755bfc0c1f2191c0842ad1c84d9421e743da020.webp"
+  },
+  {
+    "filename": "86304bb7e8557ee245e39b3fa16092f027f419ad3427d58e929b7c75034f5a72.webp",
+    "size": 18814,
+    "source_rel": "renault/models/kaptur/images/86304bb7e8557ee245e39b3fa16092f027f419ad3427d58e929b7c75034f5a72.webp"
+  },
+  {
+    "filename": "86f6a479b44f0aa9804a8678fe035ab78039cce31b780bd9dcda41e3c5bced90.webp",
+    "size": 69330,
+    "source_rel": "renault/models/kaptur/images/86f6a479b44f0aa9804a8678fe035ab78039cce31b780bd9dcda41e3c5bced90.webp"
+  },
+  {
+    "filename": "87b58aa34fd2fc615a8c0c44e5c8b372aa73bd814559c6b3d0bfa6c0cb412f19.webp",
+    "size": 44130,
+    "source_rel": "renault/models/kaptur/images/87b58aa34fd2fc615a8c0c44e5c8b372aa73bd814559c6b3d0bfa6c0cb412f19.webp"
+  },
+  {
+    "filename": "87d904ecfb4d66d27fe86837ed745a5096e261cbabea1c44c74ef4d3c3f6eb61.webp",
+    "size": 29054,
+    "source_rel": "renault/models/kaptur/images/87d904ecfb4d66d27fe86837ed745a5096e261cbabea1c44c74ef4d3c3f6eb61.webp"
+  },
+  {
+    "filename": "8827abe775f7cd3332e124a13f0bffc2ad90873d6b412519ab23698c63994090.webp",
+    "size": 51262,
+    "source_rel": "renault/models/kaptur/images/8827abe775f7cd3332e124a13f0bffc2ad90873d6b412519ab23698c63994090.webp"
+  },
+  {
+    "filename": "88b7ae6685f49310c1984139f737cafba0cbba66ee3fcaaccba6644d9ee81f0c.webp",
+    "size": 44962,
+    "source_rel": "renault/models/kaptur/images/88b7ae6685f49310c1984139f737cafba0cbba66ee3fcaaccba6644d9ee81f0c.webp"
+  },
+  {
+    "filename": "893cc67f0ef9a24429d9db126f313127157cda2eba8356b489dbef9cb1259a8c.webp",
+    "size": 13642,
+    "source_rel": "renault/models/kaptur/images/893cc67f0ef9a24429d9db126f313127157cda2eba8356b489dbef9cb1259a8c.webp"
+  },
+  {
+    "filename": "8972bb553fd6fb771775089547eebffbeba76d059b9fe3b0f6cb1f1fd2381246.webp",
+    "size": 38604,
+    "source_rel": "renault/models/kaptur/images/8972bb553fd6fb771775089547eebffbeba76d059b9fe3b0f6cb1f1fd2381246.webp"
+  },
+  {
+    "filename": "898b1eb66c5035edaee955e81d90aba313b3819c183b4a649e7871d9e9c92b0c.webp",
+    "size": 25816,
+    "source_rel": "renault/models/kaptur/images/898b1eb66c5035edaee955e81d90aba313b3819c183b4a649e7871d9e9c92b0c.webp"
+  },
+  {
+    "filename": "8a3e81884ff714e295544fe56182e3b2026665fb6217d6c9357f8bf520fe52f8.webp",
+    "size": 28160,
+    "source_rel": "renault/models/kaptur/images/8a3e81884ff714e295544fe56182e3b2026665fb6217d6c9357f8bf520fe52f8.webp"
+  },
+  {
+    "filename": "8ab24aaad8803470a755e127d8d0a745700c977f4d6f9cfc7c619054a05a6f67.webp",
+    "size": 48318,
+    "source_rel": "renault/models/kaptur/images/8ab24aaad8803470a755e127d8d0a745700c977f4d6f9cfc7c619054a05a6f67.webp"
+  },
+  {
+    "filename": "8b9f6f2ff0f3c4e3e6dc2606c7c350647e4f9701a8d451b24cde9be17f4f210a.webp",
+    "size": 51860,
+    "source_rel": "renault/models/kaptur/images/8b9f6f2ff0f3c4e3e6dc2606c7c350647e4f9701a8d451b24cde9be17f4f210a.webp"
+  },
+  {
+    "filename": "8bed4b830db557126b357f67c6752a637e43d209295d92826fd4ad3d944cdcc1.webp",
+    "size": 34044,
+    "source_rel": "renault/models/kaptur/images/8bed4b830db557126b357f67c6752a637e43d209295d92826fd4ad3d944cdcc1.webp"
+  },
+  {
+    "filename": "8c3612876207811d54dee06072cfb024e66c59a6c88dce58dcfe68ff7f1f5450.webp",
+    "size": 49352,
+    "source_rel": "renault/models/kaptur/images/8c3612876207811d54dee06072cfb024e66c59a6c88dce58dcfe68ff7f1f5450.webp"
+  },
+  {
+    "filename": "8c521896c90b0e17f0722eed5b1c554c352f9f5d62a68b16f691e75d8fdfc15d.webp",
+    "size": 43068,
+    "source_rel": "renault/models/kaptur/images/8c521896c90b0e17f0722eed5b1c554c352f9f5d62a68b16f691e75d8fdfc15d.webp"
+  },
+  {
+    "filename": "8c6dde5c682b4d11f5417706c2b06744f157dbb1571f3a4e5bf007af15a55767.webp",
+    "size": 34092,
+    "source_rel": "renault/models/kaptur/images/8c6dde5c682b4d11f5417706c2b06744f157dbb1571f3a4e5bf007af15a55767.webp"
+  },
+  {
+    "filename": "8cb872e5d1ce9ad5377416df29111c9a0e72aeda395db763b926096616f8c831.webp",
+    "size": 49742,
+    "source_rel": "renault/models/kaptur/images/8cb872e5d1ce9ad5377416df29111c9a0e72aeda395db763b926096616f8c831.webp"
+  },
+  {
+    "filename": "8d0cf7ecc165e0089d2ba2dd3d2dd2424c659677f90f83fad9618d2aced08479.webp",
+    "size": 39064,
+    "source_rel": "renault/models/kaptur/images/8d0cf7ecc165e0089d2ba2dd3d2dd2424c659677f90f83fad9618d2aced08479.webp"
+  },
+  {
+    "filename": "8d1cf51778a31cac1f8169a5cb69cbeea3cb420fa256299f33fe9eac317c6808.webp",
+    "size": 50382,
+    "source_rel": "renault/models/kaptur/images/8d1cf51778a31cac1f8169a5cb69cbeea3cb420fa256299f33fe9eac317c6808.webp"
+  },
+  {
+    "filename": "8d8a1b14fd2a025e4c5f2e45cae7e54c39794d19c7083f978355ba6b97512153.webp",
+    "size": 42942,
+    "source_rel": "renault/models/kaptur/images/8d8a1b14fd2a025e4c5f2e45cae7e54c39794d19c7083f978355ba6b97512153.webp"
+  },
+  {
+    "filename": "8da6a3a420420363b27e1b59ac9f6b831af85880e703626dec3926baefa2e118.jpg",
+    "size": 77053,
+    "source_rel": "renault/models/kaptur/images/8da6a3a420420363b27e1b59ac9f6b831af85880e703626dec3926baefa2e118.jpg"
+  },
+  {
+    "filename": "8dc5d57901bf769dbefab474e7b82e10a588ab0e1dc761761280ba08e2f1276a.webp",
+    "size": 51410,
+    "source_rel": "renault/models/kaptur/images/8dc5d57901bf769dbefab474e7b82e10a588ab0e1dc761761280ba08e2f1276a.webp"
+  },
+  {
+    "filename": "8dd2fee70eb10a1d05d89dc2afa1d717e54766c6e001e780946f032d8abd294f.webp",
+    "size": 45492,
+    "source_rel": "renault/models/kaptur/images/8dd2fee70eb10a1d05d89dc2afa1d717e54766c6e001e780946f032d8abd294f.webp"
+  },
+  {
+    "filename": "8deb179302250a8c7a8275962882c57b60371bbb4514c7163bcf920af7705eb9.webp",
+    "size": 66160,
+    "source_rel": "renault/models/kaptur/images/8deb179302250a8c7a8275962882c57b60371bbb4514c7163bcf920af7705eb9.webp"
+  },
+  {
+    "filename": "8e3a6029095ebad796c6ae859febd3603f11a897cb3f379a23c036c39ae31037.webp",
+    "size": 39638,
+    "source_rel": "renault/models/kaptur/images/8e3a6029095ebad796c6ae859febd3603f11a897cb3f379a23c036c39ae31037.webp"
+  },
+  {
+    "filename": "8e57740d6b433e2f3123ba99b006d34458be9ec6100bf33593aabcf32d9e02d1.webp",
+    "size": 54994,
+    "source_rel": "renault/models/kaptur/images/8e57740d6b433e2f3123ba99b006d34458be9ec6100bf33593aabcf32d9e02d1.webp"
+  },
+  {
+    "filename": "8e6523835c49bd211dab30f5fd629e588de3f8542b74590b014a09424c82f6ff.webp",
+    "size": 26568,
+    "source_rel": "renault/models/kaptur/images/8e6523835c49bd211dab30f5fd629e588de3f8542b74590b014a09424c82f6ff.webp"
+  },
+  {
+    "filename": "8eeb13e91f409b87b240239fff9d65a82f9bd1758d5117a4908c649e9a1ec429.webp",
+    "size": 29770,
+    "source_rel": "renault/models/kaptur/images/8eeb13e91f409b87b240239fff9d65a82f9bd1758d5117a4908c649e9a1ec429.webp"
+  },
+  {
+    "filename": "8f9cabbf2b79c2d27c7eee468def6dfff625e08ece9feb9688d98319960b400b.webp",
+    "size": 14512,
+    "source_rel": "renault/models/kaptur/images/8f9cabbf2b79c2d27c7eee468def6dfff625e08ece9feb9688d98319960b400b.webp"
+  },
+  {
+    "filename": "8fcfaf95575a93df1a25ad88b3accb745463059162acf9a31c7c1c1f63210715.webp",
+    "size": 42310,
+    "source_rel": "renault/models/kaptur/images/8fcfaf95575a93df1a25ad88b3accb745463059162acf9a31c7c1c1f63210715.webp"
+  },
+  {
+    "filename": "909d3daa8260a56fedab544a102bf217217a960ac5d3dc8fd184d0bb5d8b2a2d.webp",
+    "size": 54428,
+    "source_rel": "renault/models/kaptur/images/909d3daa8260a56fedab544a102bf217217a960ac5d3dc8fd184d0bb5d8b2a2d.webp"
+  },
+  {
+    "filename": "9109e72cca1eb6802622604c966eccb2a6bc518f7de208e9a42844cce06558f5.webp",
+    "size": 52940,
+    "source_rel": "renault/models/kaptur/images/9109e72cca1eb6802622604c966eccb2a6bc518f7de208e9a42844cce06558f5.webp"
+  },
+  {
+    "filename": "9116928f646d66772612ecd0d41a1cb0e3bf39474ca82987b9d331c8d594c006.webp",
+    "size": 22406,
+    "source_rel": "renault/models/kaptur/images/9116928f646d66772612ecd0d41a1cb0e3bf39474ca82987b9d331c8d594c006.webp"
+  },
+  {
+    "filename": "92200a4ac92086a09bda7f8e78a5c240b167341ca70b33170c3b2cb971b67d9c.webp",
+    "size": 52488,
+    "source_rel": "renault/models/kaptur/images/92200a4ac92086a09bda7f8e78a5c240b167341ca70b33170c3b2cb971b67d9c.webp"
+  },
+  {
+    "filename": "92379ee6d2e742442164a2e5ad0c9ab6b07b5f5e235dee301da8ea7fabf30e30.webp",
+    "size": 29742,
+    "source_rel": "renault/models/kaptur/images/92379ee6d2e742442164a2e5ad0c9ab6b07b5f5e235dee301da8ea7fabf30e30.webp"
+  },
+  {
+    "filename": "92ac02a1c21e1c9bf7549ec259e1dcb5be331400c3b33de2548408e1cde88432.jpg",
+    "size": 72984,
+    "source_rel": "renault/models/kaptur/images/92ac02a1c21e1c9bf7549ec259e1dcb5be331400c3b33de2548408e1cde88432.jpg"
+  },
+  {
+    "filename": "92de99d8cfcee8e2e1d8f146209af7279e36428a1a308685fb08308c850178fb.webp",
+    "size": 47898,
+    "source_rel": "renault/models/kaptur/images/92de99d8cfcee8e2e1d8f146209af7279e36428a1a308685fb08308c850178fb.webp"
+  },
+  {
+    "filename": "931fb2b946bafcb3f85d00917928c61931b9bfc23a23ebf48729e01b59c7f375.webp",
+    "size": 47112,
+    "source_rel": "renault/models/kaptur/images/931fb2b946bafcb3f85d00917928c61931b9bfc23a23ebf48729e01b59c7f375.webp"
+  },
+  {
+    "filename": "9350d27bef40e89057ebcbf5747c9f3567e76eeea05c56acdd7acb63ac1cb62c.webp",
+    "size": 45720,
+    "source_rel": "renault/models/kaptur/images/9350d27bef40e89057ebcbf5747c9f3567e76eeea05c56acdd7acb63ac1cb62c.webp"
+  },
+  {
+    "filename": "93d0fec24f5d1677e51fabd0dd2bdf2ca1af1cbd2b52bf0da200a729b6462c14.jpg",
+    "size": 65461,
+    "source_rel": "renault/models/kaptur/images/93d0fec24f5d1677e51fabd0dd2bdf2ca1af1cbd2b52bf0da200a729b6462c14.jpg"
+  },
+  {
+    "filename": "9479cad738cc074d0a06579541eeddee6d707ee833bbeeb1c7a3d0f067d89574.webp",
+    "size": 22888,
+    "source_rel": "renault/models/kaptur/images/9479cad738cc074d0a06579541eeddee6d707ee833bbeeb1c7a3d0f067d89574.webp"
+  },
+  {
+    "filename": "95913d4a709ce99f2af38d97949039dcdbf6a560f14485da3358ba9d0c89873c.webp",
+    "size": 65090,
+    "source_rel": "renault/models/kaptur/images/95913d4a709ce99f2af38d97949039dcdbf6a560f14485da3358ba9d0c89873c.webp"
+  },
+  {
+    "filename": "9667df807369aaa873bb619b4b0d9bc17888f1acd8ebd87969a1c781ac41556c.webp",
+    "size": 44692,
+    "source_rel": "renault/models/kaptur/images/9667df807369aaa873bb619b4b0d9bc17888f1acd8ebd87969a1c781ac41556c.webp"
+  },
+  {
+    "filename": "9725f8585d45db2f5b13ab568a60237624c2c8efef06d2e8de676b368bfd74e0.webp",
+    "size": 21230,
+    "source_rel": "renault/models/kaptur/images/9725f8585d45db2f5b13ab568a60237624c2c8efef06d2e8de676b368bfd74e0.webp"
+  },
+  {
+    "filename": "978bef1ee727136a7504cb08c4190a1fe8d601cc9253f2ed3848d4d28279a651.webp",
+    "size": 25630,
+    "source_rel": "renault/models/kaptur/images/978bef1ee727136a7504cb08c4190a1fe8d601cc9253f2ed3848d4d28279a651.webp"
+  },
+  {
+    "filename": "97ad82314991bebdd5f94ba39ab54e81f67911c30904eee814ededc50ff0c904.webp",
+    "size": 85042,
+    "source_rel": "renault/models/kaptur/images/97ad82314991bebdd5f94ba39ab54e81f67911c30904eee814ededc50ff0c904.webp"
+  },
+  {
+    "filename": "97fa4582af94e94f264562022a18ae067c2fd6cfcf217f8df7ce45019b160f00.webp",
+    "size": 29698,
+    "source_rel": "renault/models/kaptur/images/97fa4582af94e94f264562022a18ae067c2fd6cfcf217f8df7ce45019b160f00.webp"
+  },
+  {
+    "filename": "991082fa1d296a6ffe53e7e77ebb6642e9e6891bc0267537cf8e6f830ad9f592.webp",
+    "size": 30898,
+    "source_rel": "renault/models/kaptur/images/991082fa1d296a6ffe53e7e77ebb6642e9e6891bc0267537cf8e6f830ad9f592.webp"
+  },
+  {
+    "filename": "9a05fec32acfee0fc0c4ad2bc40458aa967b609b9ef25a3dd4007f32fe8f1c3f.webp",
+    "size": 29358,
+    "source_rel": "renault/models/kaptur/images/9a05fec32acfee0fc0c4ad2bc40458aa967b609b9ef25a3dd4007f32fe8f1c3f.webp"
+  },
+  {
+    "filename": "9a4cccd61742fb0f68be40d9f5d47df43c3701236f494dfa01b53e0b3c92bab3.webp",
+    "size": 52714,
+    "source_rel": "renault/models/kaptur/images/9a4cccd61742fb0f68be40d9f5d47df43c3701236f494dfa01b53e0b3c92bab3.webp"
+  },
+  {
+    "filename": "9a59cddfc754b3f51cd23cb8b6da30de7ea6dc67bc50b1aff11fd3768a89420c.webp",
+    "size": 64984,
+    "source_rel": "renault/models/kaptur/images/9a59cddfc754b3f51cd23cb8b6da30de7ea6dc67bc50b1aff11fd3768a89420c.webp"
+  },
+  {
+    "filename": "9a6ac43c65e51fcc0811780e38e992abe43f8308d3856075319e100e93b4fe5c.webp",
+    "size": 79844,
+    "source_rel": "renault/models/kaptur/images/9a6ac43c65e51fcc0811780e38e992abe43f8308d3856075319e100e93b4fe5c.webp"
+  },
+  {
+    "filename": "9af10b33f6c7908adaded8ca33f5b16b306ce64a087bc46b0a95d9fc394f2676.webp",
+    "size": 65436,
+    "source_rel": "renault/models/kaptur/images/9af10b33f6c7908adaded8ca33f5b16b306ce64a087bc46b0a95d9fc394f2676.webp"
+  },
+  {
+    "filename": "9b519dc0cb45b95abfa3c4891a648616439a6f6069e9dc22c662db512a2421da.webp",
+    "size": 45756,
+    "source_rel": "renault/models/kaptur/images/9b519dc0cb45b95abfa3c4891a648616439a6f6069e9dc22c662db512a2421da.webp"
+  },
+  {
+    "filename": "9b8768e00aeb41b752d0009f1c88a9b695a34ea8a76e61a45dc63e39acf587ba.webp",
+    "size": 144126,
+    "source_rel": "renault/models/kaptur/images/9b8768e00aeb41b752d0009f1c88a9b695a34ea8a76e61a45dc63e39acf587ba.webp"
+  },
+  {
+    "filename": "9b8c633e45c2772b42a9215dc13640b14e9cd45e4244dcc403098e1f3423a37a.webp",
+    "size": 17834,
+    "source_rel": "renault/models/kaptur/images/9b8c633e45c2772b42a9215dc13640b14e9cd45e4244dcc403098e1f3423a37a.webp"
+  },
+  {
+    "filename": "9bef776a338a6656e44c825b27c87b04972ea311677edc11a0fd360101071f8c.webp",
+    "size": 55450,
+    "source_rel": "renault/models/kaptur/images/9bef776a338a6656e44c825b27c87b04972ea311677edc11a0fd360101071f8c.webp"
+  },
+  {
+    "filename": "9c61c8ebf8aa42ff4500cc3b46d4ef4eefbff3f5c947a985e2cf9ae3a7a745c8.webp",
+    "size": 43350,
+    "source_rel": "renault/models/kaptur/images/9c61c8ebf8aa42ff4500cc3b46d4ef4eefbff3f5c947a985e2cf9ae3a7a745c8.webp"
+  },
+  {
+    "filename": "9caade77c790f130cb889b4daf7ac61e216236230fee886bb8d624bea32cf7dd.webp",
+    "size": 51912,
+    "source_rel": "renault/models/kaptur/images/9caade77c790f130cb889b4daf7ac61e216236230fee886bb8d624bea32cf7dd.webp"
+  },
+  {
+    "filename": "9df7f01b548e720b2cf6c647f9108630000fbe297bc087b21c67ccd45563d279.webp",
+    "size": 43720,
+    "source_rel": "renault/models/kaptur/images/9df7f01b548e720b2cf6c647f9108630000fbe297bc087b21c67ccd45563d279.webp"
+  },
+  {
+    "filename": "9e2b73760c98535d9188a86228060999d29bd7b76a3020e3fb24629ca9f3d46d.webp",
+    "size": 57716,
+    "source_rel": "renault/models/kaptur/images/9e2b73760c98535d9188a86228060999d29bd7b76a3020e3fb24629ca9f3d46d.webp"
+  },
+  {
+    "filename": "9e531ba79416590e8e62e03be669d8632778e8963a70235c473bd2c84b11edc8.webp",
+    "size": 35790,
+    "source_rel": "renault/models/kaptur/images/9e531ba79416590e8e62e03be669d8632778e8963a70235c473bd2c84b11edc8.webp"
+  },
+  {
+    "filename": "9e74e794bd780f8de21f7175f71ad855537297dbb8e815fa1321e1a3c497aca0.webp",
+    "size": 46932,
+    "source_rel": "renault/models/kaptur/images/9e74e794bd780f8de21f7175f71ad855537297dbb8e815fa1321e1a3c497aca0.webp"
+  },
+  {
+    "filename": "9eea9147879198fc2ee853b5efecfd2c0efd34e14713dccc7d6c5b6377c27e80.webp",
+    "size": 68240,
+    "source_rel": "renault/models/kaptur/images/9eea9147879198fc2ee853b5efecfd2c0efd34e14713dccc7d6c5b6377c27e80.webp"
+  },
+  {
+    "filename": "9ef37d67c14cd1fa170d617922a9e76eeb06fb595f83888c0b5004d3fbca799b.webp",
+    "size": 53774,
+    "source_rel": "renault/models/kaptur/images/9ef37d67c14cd1fa170d617922a9e76eeb06fb595f83888c0b5004d3fbca799b.webp"
+  },
+  {
+    "filename": "9f0a5e69cbcaea6de3c4c6c04af933beef13865633531b80069b4a1ff8ba3145.webp",
+    "size": 45312,
+    "source_rel": "renault/models/kaptur/images/9f0a5e69cbcaea6de3c4c6c04af933beef13865633531b80069b4a1ff8ba3145.webp"
+  },
+  {
+    "filename": "a01c8d683e2d55372eadb37845281155c87c2ee14f5e035d17aee3aa0ca1e412.webp",
+    "size": 32068,
+    "source_rel": "renault/models/kaptur/images/a01c8d683e2d55372eadb37845281155c87c2ee14f5e035d17aee3aa0ca1e412.webp"
+  },
+  {
+    "filename": "a056f1da61d9fb7458c1b4749e415f4acf26c11229927da417b404f6da0773c7.webp",
+    "size": 47616,
+    "source_rel": "renault/models/kaptur/images/a056f1da61d9fb7458c1b4749e415f4acf26c11229927da417b404f6da0773c7.webp"
+  },
+  {
+    "filename": "a07a340caf25262fa7623b106c3ab4aea6f9a5fdbf93540a80865bdd0f1aef2e.webp",
+    "size": 35168,
+    "source_rel": "renault/models/kaptur/images/a07a340caf25262fa7623b106c3ab4aea6f9a5fdbf93540a80865bdd0f1aef2e.webp"
+  },
+  {
+    "filename": "a0ee00e57bf44cd05770be3e88ac645c7c69d9fe1ec4a706cfc37877ea73b7ad.webp",
+    "size": 74590,
+    "source_rel": "renault/models/kaptur/images/a0ee00e57bf44cd05770be3e88ac645c7c69d9fe1ec4a706cfc37877ea73b7ad.webp"
+  },
+  {
+    "filename": "a1b7a002a29915cff371b05b5e2361f082ba3214cbc16fb07ce159a6374159ee.webp",
+    "size": 26884,
+    "source_rel": "renault/models/kaptur/images/a1b7a002a29915cff371b05b5e2361f082ba3214cbc16fb07ce159a6374159ee.webp"
+  },
+  {
+    "filename": "a1f8ec00ff08a249c403ef4277d7fe9eb2a1e11c60773dc9925f84332e597a1e.webp",
+    "size": 79962,
+    "source_rel": "renault/models/kaptur/images/a1f8ec00ff08a249c403ef4277d7fe9eb2a1e11c60773dc9925f84332e597a1e.webp"
+  },
+  {
+    "filename": "a211794424d1e6baaa2f80d23bb6e32c0816dacb3c5975529564a52fdd9e3b31.webp",
+    "size": 49986,
+    "source_rel": "renault/models/kaptur/images/a211794424d1e6baaa2f80d23bb6e32c0816dacb3c5975529564a52fdd9e3b31.webp"
+  },
+  {
+    "filename": "a2ea8fbff7a1e26acb7209c7062a096ec2f3bf1a25d9dfd5324817e3fb9ef401.webp",
+    "size": 28816,
+    "source_rel": "renault/models/kaptur/images/a2ea8fbff7a1e26acb7209c7062a096ec2f3bf1a25d9dfd5324817e3fb9ef401.webp"
+  },
+  {
+    "filename": "a344ce783eeb4672f0b3406348cb0934da5c3a64decfd9b7a033fb6a9ae8a7bd.webp",
+    "size": 44312,
+    "source_rel": "renault/models/kaptur/images/a344ce783eeb4672f0b3406348cb0934da5c3a64decfd9b7a033fb6a9ae8a7bd.webp"
+  },
+  {
+    "filename": "a3a4539a3ec85506f7de7a33e756e6288a184471baddeb9db157d7dbbebaa075.webp",
+    "size": 52822,
+    "source_rel": "renault/models/kaptur/images/a3a4539a3ec85506f7de7a33e756e6288a184471baddeb9db157d7dbbebaa075.webp"
+  },
+  {
+    "filename": "a46cf24dd87268b11bb595306c01e676438ef22b17116b063ed3487635060af2.webp",
+    "size": 39564,
+    "source_rel": "renault/models/kaptur/images/a46cf24dd87268b11bb595306c01e676438ef22b17116b063ed3487635060af2.webp"
+  },
+  {
+    "filename": "a4c3b899d2b624acc6deab4e06ac421d8e3946946449e28cc234c98984e37722.webp",
+    "size": 42038,
+    "source_rel": "renault/models/kaptur/images/a4c3b899d2b624acc6deab4e06ac421d8e3946946449e28cc234c98984e37722.webp"
+  },
+  {
+    "filename": "a5c024315f4eb06f42899652cd8fdebf4f6b084ba4b9a179050e2fd3cf0eae98.webp",
+    "size": 47140,
+    "source_rel": "renault/models/kaptur/images/a5c024315f4eb06f42899652cd8fdebf4f6b084ba4b9a179050e2fd3cf0eae98.webp"
+  },
+  {
+    "filename": "a62d22ecd0fe26e02f8c4a5bd35938400a5a2f04c5ce1cac68ce7befe14ff86f.webp",
+    "size": 35744,
+    "source_rel": "renault/models/kaptur/images/a62d22ecd0fe26e02f8c4a5bd35938400a5a2f04c5ce1cac68ce7befe14ff86f.webp"
+  },
+  {
+    "filename": "a7857e9e6799ec46c3c12351a863c6e0eba9cb11676ed0556d833e38520515c9.webp",
+    "size": 31928,
+    "source_rel": "renault/models/kaptur/images/a7857e9e6799ec46c3c12351a863c6e0eba9cb11676ed0556d833e38520515c9.webp"
+  },
+  {
+    "filename": "a7a564c31ceba71a1e88f461ec4e12133d49874724c05bf456f3b4a652a08c45.webp",
+    "size": 10950,
+    "source_rel": "renault/models/kaptur/images/a7a564c31ceba71a1e88f461ec4e12133d49874724c05bf456f3b4a652a08c45.webp"
+  },
+  {
+    "filename": "a8112d2d5510a9662458f94e946403d0735a16518d66cc44d7cbf329d686842e.webp",
+    "size": 14232,
+    "source_rel": "renault/models/kaptur/images/a8112d2d5510a9662458f94e946403d0735a16518d66cc44d7cbf329d686842e.webp"
+  },
+  {
+    "filename": "a8a7ea884170913ce96eb870cc1ac133c8080a8b4c2e527ba5889e7dd3aae383.webp",
+    "size": 29610,
+    "source_rel": "renault/models/kaptur/images/a8a7ea884170913ce96eb870cc1ac133c8080a8b4c2e527ba5889e7dd3aae383.webp"
+  },
+  {
+    "filename": "a8d0376c185923100b5841eccbaaa8197a12aa2f2a009ea93cfd3664b44b3859.jpg",
+    "size": 105465,
+    "source_rel": "renault/models/kaptur/images/a8d0376c185923100b5841eccbaaa8197a12aa2f2a009ea93cfd3664b44b3859.jpg"
+  },
+  {
+    "filename": "a8db24cc662bce5831e74bcf72f258cd1629dc44fbdabdfcc5f117b383daa31d.webp",
+    "size": 37096,
+    "source_rel": "renault/models/kaptur/images/a8db24cc662bce5831e74bcf72f258cd1629dc44fbdabdfcc5f117b383daa31d.webp"
+  },
+  {
+    "filename": "a926c9d643763b3fc9d5f1011c453fc71c424a64a512d600562df0be0b61e80e.webp",
+    "size": 59450,
+    "source_rel": "renault/models/kaptur/images/a926c9d643763b3fc9d5f1011c453fc71c424a64a512d600562df0be0b61e80e.webp"
+  },
+  {
+    "filename": "aa1585dd2f86498b11c021bb1dd413850ced7661055072b249d56b2edd3d7c18.webp",
+    "size": 58582,
+    "source_rel": "renault/models/kaptur/images/aa1585dd2f86498b11c021bb1dd413850ced7661055072b249d56b2edd3d7c18.webp"
+  },
+  {
+    "filename": "aabdb504b534970d65e54b02c9feab4239a2e02d7145d57be7f908b5a5080036.webp",
+    "size": 30366,
+    "source_rel": "renault/models/kaptur/images/aabdb504b534970d65e54b02c9feab4239a2e02d7145d57be7f908b5a5080036.webp"
+  },
+  {
+    "filename": "ac43fe7bc7149af3f276465672293e9316e5be3b09e586815a88660f52c2120a.webp",
+    "size": 31622,
+    "source_rel": "renault/models/kaptur/images/ac43fe7bc7149af3f276465672293e9316e5be3b09e586815a88660f52c2120a.webp"
+  },
+  {
+    "filename": "ac6a8657a1bc1a83c433cf20802db3cc83f3703ff9f2e7998a43ea549bcf6df8.webp",
+    "size": 27938,
+    "source_rel": "renault/models/kaptur/images/ac6a8657a1bc1a83c433cf20802db3cc83f3703ff9f2e7998a43ea549bcf6df8.webp"
+  },
+  {
+    "filename": "ad043dbbeb7f6a543c50c3bae90545eb1bfa5e542eb05fab9ec2a3a627c5f045.webp",
+    "size": 60122,
+    "source_rel": "renault/models/kaptur/images/ad043dbbeb7f6a543c50c3bae90545eb1bfa5e542eb05fab9ec2a3a627c5f045.webp"
+  },
+  {
+    "filename": "ad13d12d1a751745b957c34ec3e1e351dd160bb862a50c435f8e4626961ebf9f.webp",
+    "size": 85132,
+    "source_rel": "renault/models/kaptur/images/ad13d12d1a751745b957c34ec3e1e351dd160bb862a50c435f8e4626961ebf9f.webp"
+  },
+  {
+    "filename": "ad4d6613a01eff53c28abffaf1b1ec9ea1b10b7d5bb0f59c5b84d6ab15ae9c1e.webp",
+    "size": 37682,
+    "source_rel": "renault/models/kaptur/images/ad4d6613a01eff53c28abffaf1b1ec9ea1b10b7d5bb0f59c5b84d6ab15ae9c1e.webp"
+  },
+  {
+    "filename": "ade2e258327b1eec879fa99e49df39388dfe49167e555c29f8a720bbf97405ac.webp",
+    "size": 44192,
+    "source_rel": "renault/models/kaptur/images/ade2e258327b1eec879fa99e49df39388dfe49167e555c29f8a720bbf97405ac.webp"
+  },
+  {
+    "filename": "ae04b01d2428a5fbb33ed76a266048ecfb1ff0432b28ecfdb146788c03b182ff.webp",
+    "size": 34428,
+    "source_rel": "renault/models/kaptur/images/ae04b01d2428a5fbb33ed76a266048ecfb1ff0432b28ecfdb146788c03b182ff.webp"
+  },
+  {
+    "filename": "ae43ce25339fe9e59ca354fdb2377e4f61cf33c61b9c306740f1ea7529d64af3.webp",
+    "size": 9990,
+    "source_rel": "renault/models/kaptur/images/ae43ce25339fe9e59ca354fdb2377e4f61cf33c61b9c306740f1ea7529d64af3.webp"
+  },
+  {
+    "filename": "ae7b9dc31b78ac375d949947a94183f7436e820a0abefe9800c14ed1b9ae8021.webp",
+    "size": 73518,
+    "source_rel": "renault/models/kaptur/images/ae7b9dc31b78ac375d949947a94183f7436e820a0abefe9800c14ed1b9ae8021.webp"
+  },
+  {
+    "filename": "aea2a96f0356f3667991374f2d03e86b7af10c8cfe3dd0a25b47b1e7f1f046cd.webp",
+    "size": 182372,
+    "source_rel": "renault/models/kaptur/images/aea2a96f0356f3667991374f2d03e86b7af10c8cfe3dd0a25b47b1e7f1f046cd.webp"
+  },
+  {
+    "filename": "aedeacbe05e2de739538dc502b59b855ca99d36fcd00dfb2c1eb5eae92385c81.webp",
+    "size": 32486,
+    "source_rel": "renault/models/kaptur/images/aedeacbe05e2de739538dc502b59b855ca99d36fcd00dfb2c1eb5eae92385c81.webp"
+  },
+  {
+    "filename": "afb04e20982981dea027434d96b4e1cf3a6ec4b1c0ccbe49837c2a3c2511bbd7.webp",
+    "size": 49622,
+    "source_rel": "renault/models/kaptur/images/afb04e20982981dea027434d96b4e1cf3a6ec4b1c0ccbe49837c2a3c2511bbd7.webp"
+  },
+  {
+    "filename": "b032f4de3436ed7c81d75d769c83d46ed51b0c491b3243b04efc3f745f51b9eb.webp",
+    "size": 37812,
+    "source_rel": "renault/models/kaptur/images/b032f4de3436ed7c81d75d769c83d46ed51b0c491b3243b04efc3f745f51b9eb.webp"
+  },
+  {
+    "filename": "b03fdedfaab40208f35abf26f546627a8f24513e89021fe99bd538acf99a8bc9.webp",
+    "size": 88948,
+    "source_rel": "renault/models/kaptur/images/b03fdedfaab40208f35abf26f546627a8f24513e89021fe99bd538acf99a8bc9.webp"
+  },
+  {
+    "filename": "b04b3edc83c9dac81468079c4a9009fce84192d44005f19cc64acd8e3cee4364.webp",
+    "size": 303026,
+    "source_rel": "renault/models/kaptur/images/b04b3edc83c9dac81468079c4a9009fce84192d44005f19cc64acd8e3cee4364.webp"
+  },
+  {
+    "filename": "b11612f737839045fb5df3601af87c1574f8457588714dae2e3d23db628dca86.jpg",
+    "size": 70744,
+    "source_rel": "renault/models/kaptur/images/b11612f737839045fb5df3601af87c1574f8457588714dae2e3d23db628dca86.jpg"
+  },
+  {
+    "filename": "b16b933c6da1790117435b36da764e58452b030e3ee790f59c32506d7d5a3e8f.webp",
+    "size": 20618,
+    "source_rel": "renault/models/kaptur/images/b16b933c6da1790117435b36da764e58452b030e3ee790f59c32506d7d5a3e8f.webp"
+  },
+  {
+    "filename": "b18a4fd67ffd18a7eaba9cf518cc21fdf83bc3bdb9efe45d5d963ddcc3904f57.webp",
+    "size": 26292,
+    "source_rel": "renault/models/kaptur/images/b18a4fd67ffd18a7eaba9cf518cc21fdf83bc3bdb9efe45d5d963ddcc3904f57.webp"
+  },
+  {
+    "filename": "b1bb0243f06be0074de8cadd4500a5895d39678539ee760d21fc1808b1ded018.webp",
+    "size": 221624,
+    "source_rel": "renault/models/kaptur/images/b1bb0243f06be0074de8cadd4500a5895d39678539ee760d21fc1808b1ded018.webp"
+  },
+  {
+    "filename": "b1da4673514bc4203301b2e9f5e1d239339b011b4b542de3bedac94586eea124.webp",
+    "size": 32886,
+    "source_rel": "renault/models/kaptur/images/b1da4673514bc4203301b2e9f5e1d239339b011b4b542de3bedac94586eea124.webp"
+  },
+  {
+    "filename": "b220f9c1e9c2660a567820d848d790e6655328a7ecffd0953aab612c1be3b6f1.webp",
+    "size": 36882,
+    "source_rel": "renault/models/kaptur/images/b220f9c1e9c2660a567820d848d790e6655328a7ecffd0953aab612c1be3b6f1.webp"
+  },
+  {
+    "filename": "b2514f0769cd062823b8d3d10333442b8fa64e6625157b10f4e71ac0b90deece.webp",
+    "size": 52444,
+    "source_rel": "renault/models/kaptur/images/b2514f0769cd062823b8d3d10333442b8fa64e6625157b10f4e71ac0b90deece.webp"
+  },
+  {
+    "filename": "b2640d4075333de844b930b212a6daef72b01230a9c0b4e75f6f11361d97014e.webp",
+    "size": 206880,
+    "source_rel": "renault/models/kaptur/images/b2640d4075333de844b930b212a6daef72b01230a9c0b4e75f6f11361d97014e.webp"
+  },
+  {
+    "filename": "b29fe7e90bccccc7226aa1cd1d94d8bcaeee51d4299c71443ed55ad72d551cc4.webp",
+    "size": 38322,
+    "source_rel": "renault/models/kaptur/images/b29fe7e90bccccc7226aa1cd1d94d8bcaeee51d4299c71443ed55ad72d551cc4.webp"
+  },
+  {
+    "filename": "b3c86546bdedbf11963dfdd4210d00a5efb2b4ebeff988db8ae9c99139dc5dde.webp",
+    "size": 54804,
+    "source_rel": "renault/models/kaptur/images/b3c86546bdedbf11963dfdd4210d00a5efb2b4ebeff988db8ae9c99139dc5dde.webp"
+  },
+  {
+    "filename": "b46a4aae922bda480e8e7d41e3a888746cbe7dfb8cf83da39592eace34f39e97.webp",
+    "size": 26822,
+    "source_rel": "renault/models/kaptur/images/b46a4aae922bda480e8e7d41e3a888746cbe7dfb8cf83da39592eace34f39e97.webp"
+  },
+  {
+    "filename": "b4815a331ec26900b4ce1456b346deaa9b9e014e64cc88f72b78a9e7444f06a7.webp",
+    "size": 57012,
+    "source_rel": "renault/models/kaptur/images/b4815a331ec26900b4ce1456b346deaa9b9e014e64cc88f72b78a9e7444f06a7.webp"
+  },
+  {
+    "filename": "b4e8274610ad4e2554077d6fdff1315287ca783585aacd9956fc7f38e75ec9bf.webp",
+    "size": 25296,
+    "source_rel": "renault/models/kaptur/images/b4e8274610ad4e2554077d6fdff1315287ca783585aacd9956fc7f38e75ec9bf.webp"
+  },
+  {
+    "filename": "b4e8af193b2cc6405d17307ee84fd05ab502e31b035b038fe885af540b60d495.webp",
+    "size": 5456,
+    "source_rel": "renault/models/kaptur/images/b4e8af193b2cc6405d17307ee84fd05ab502e31b035b038fe885af540b60d495.webp"
+  },
+  {
+    "filename": "b55f7ecbaa9fbfd4676c11b8770d64ecc27f8deb9a1f485af6fbdf83b62f18b8.webp",
+    "size": 37690,
+    "source_rel": "renault/models/kaptur/images/b55f7ecbaa9fbfd4676c11b8770d64ecc27f8deb9a1f485af6fbdf83b62f18b8.webp"
+  },
+  {
+    "filename": "b583cba1d6b7893c5558b75108d4dc5e2b23b1a6b20b4ece392547c6f8bb8997.webp",
+    "size": 25004,
+    "source_rel": "renault/models/kaptur/images/b583cba1d6b7893c5558b75108d4dc5e2b23b1a6b20b4ece392547c6f8bb8997.webp"
+  },
+  {
+    "filename": "b5b5ab6690126829e9621f3199d69bfa532ef88b5ec4e2a713bbf9d23c4912f1.webp",
+    "size": 55758,
+    "source_rel": "renault/models/kaptur/images/b5b5ab6690126829e9621f3199d69bfa532ef88b5ec4e2a713bbf9d23c4912f1.webp"
+  },
+  {
+    "filename": "b5bab7549d565c050ae6bcb00e6ee1ed70b6958d25f28affe0736265a7cbf9b0.webp",
+    "size": 25484,
+    "source_rel": "renault/models/kaptur/images/b5bab7549d565c050ae6bcb00e6ee1ed70b6958d25f28affe0736265a7cbf9b0.webp"
+  },
+  {
+    "filename": "b63a45cc9a370cbf36326ea30c80a0192904aecfde2b935e636de3c894d665ab.webp",
+    "size": 20108,
+    "source_rel": "renault/models/kaptur/images/b63a45cc9a370cbf36326ea30c80a0192904aecfde2b935e636de3c894d665ab.webp"
+  },
+  {
+    "filename": "b7069c4d057508b8fa44c97c1eb94f29cd4e9a077206c68a9c3706f1a73c4cee.webp",
+    "size": 51328,
+    "source_rel": "renault/models/kaptur/images/b7069c4d057508b8fa44c97c1eb94f29cd4e9a077206c68a9c3706f1a73c4cee.webp"
+  },
+  {
+    "filename": "b79c38a252eb13158d435e30b13152b73aa77857d9acce77a4741a7a3cb97790.webp",
+    "size": 51158,
+    "source_rel": "renault/models/kaptur/images/b79c38a252eb13158d435e30b13152b73aa77857d9acce77a4741a7a3cb97790.webp"
+  },
+  {
+    "filename": "b7e0301d40f9d90a35a57f8b769e4428e7fa2891418db422b7a81fba8ce973a2.webp",
+    "size": 42116,
+    "source_rel": "renault/models/kaptur/images/b7e0301d40f9d90a35a57f8b769e4428e7fa2891418db422b7a81fba8ce973a2.webp"
+  },
+  {
+    "filename": "b7eaeb9bb82efc9152315b18b347f9e3c6afef5941cc7a4c55b9ff2b473963e2.webp",
+    "size": 50418,
+    "source_rel": "renault/models/kaptur/images/b7eaeb9bb82efc9152315b18b347f9e3c6afef5941cc7a4c55b9ff2b473963e2.webp"
+  },
+  {
+    "filename": "b87b821f8053ed57ca1260b96347afbcc4bb64939e29c6f267a163027143040a.webp",
+    "size": 60520,
+    "source_rel": "renault/models/kaptur/images/b87b821f8053ed57ca1260b96347afbcc4bb64939e29c6f267a163027143040a.webp"
+  },
+  {
+    "filename": "b89d0bb70ccff7748e3435ca04ebb8cb194d9ece88dd6d0dc7dbf1f3da33e359.webp",
+    "size": 46294,
+    "source_rel": "renault/models/kaptur/images/b89d0bb70ccff7748e3435ca04ebb8cb194d9ece88dd6d0dc7dbf1f3da33e359.webp"
+  },
+  {
+    "filename": "b8aef844c68f7df1916d1849532f64fa040976ca2344cda2404c4c363f4300d8.webp",
+    "size": 40352,
+    "source_rel": "renault/models/kaptur/images/b8aef844c68f7df1916d1849532f64fa040976ca2344cda2404c4c363f4300d8.webp"
+  },
+  {
+    "filename": "b920924fbd4a485d4e9e02d02aa44531708f767a51970a263e78cf213fd1b72f.webp",
+    "size": 52650,
+    "source_rel": "renault/models/kaptur/images/b920924fbd4a485d4e9e02d02aa44531708f767a51970a263e78cf213fd1b72f.webp"
+  },
+  {
+    "filename": "b95fdf7704fe430f67ebcb2f0a67d42d52370866853a8b2d2ed427284cd7dd2d.webp",
+    "size": 44792,
+    "source_rel": "renault/models/kaptur/images/b95fdf7704fe430f67ebcb2f0a67d42d52370866853a8b2d2ed427284cd7dd2d.webp"
+  },
+  {
+    "filename": "b9ffa389d5994116658fe21d84de1f712a3d5ad07744047bc11e23d943169141.webp",
+    "size": 32376,
+    "source_rel": "renault/models/kaptur/images/b9ffa389d5994116658fe21d84de1f712a3d5ad07744047bc11e23d943169141.webp"
+  },
+  {
+    "filename": "ba0500c523178bb62b622538dc2622879e9e5dfd13b81f9a50daad432840bed0.webp",
+    "size": 58744,
+    "source_rel": "renault/models/kaptur/images/ba0500c523178bb62b622538dc2622879e9e5dfd13b81f9a50daad432840bed0.webp"
+  },
+  {
+    "filename": "ba38cdcab5924f1f5e7de85fa14e733d93e2a594b15c90bfd40bbcbebac6e922.webp",
+    "size": 72476,
+    "source_rel": "renault/models/kaptur/images/ba38cdcab5924f1f5e7de85fa14e733d93e2a594b15c90bfd40bbcbebac6e922.webp"
+  },
+  {
+    "filename": "ba62657ed13be39c05d9c94fbbb30a1c7d65bda380f6be71216352d1e94c77e8.webp",
+    "size": 40464,
+    "source_rel": "renault/models/kaptur/images/ba62657ed13be39c05d9c94fbbb30a1c7d65bda380f6be71216352d1e94c77e8.webp"
+  },
+  {
+    "filename": "ba93fb358d31c97f531f1ca121dd5599f847ca9db55dc470ee803028c482179b.webp",
+    "size": 40934,
+    "source_rel": "renault/models/kaptur/images/ba93fb358d31c97f531f1ca121dd5599f847ca9db55dc470ee803028c482179b.webp"
+  },
+  {
+    "filename": "bb29487c8160ec4f41f791c3ea86c11f912d8fc5177eb93da3502d05561ee5f6.webp",
+    "size": 65078,
+    "source_rel": "renault/models/kaptur/images/bb29487c8160ec4f41f791c3ea86c11f912d8fc5177eb93da3502d05561ee5f6.webp"
+  },
+  {
+    "filename": "bbda2f6b8a1bf45ee7c46a21d2995dffa1ff9d468494fd02e23721f158da7653.webp",
+    "size": 38176,
+    "source_rel": "renault/models/kaptur/images/bbda2f6b8a1bf45ee7c46a21d2995dffa1ff9d468494fd02e23721f158da7653.webp"
+  },
+  {
+    "filename": "bbf414ea012e601c2e5a7c9719cdf9fdd9963d379bf1046a14bb3d669388fb0a.webp",
+    "size": 47212,
+    "source_rel": "renault/models/kaptur/images/bbf414ea012e601c2e5a7c9719cdf9fdd9963d379bf1046a14bb3d669388fb0a.webp"
+  },
+  {
+    "filename": "bc3af2899dc1bbb751f0dbf620c3c5cca97ff8d8637f9c0c97a8ca27df8d35d7.webp",
+    "size": 52482,
+    "source_rel": "renault/models/kaptur/images/bc3af2899dc1bbb751f0dbf620c3c5cca97ff8d8637f9c0c97a8ca27df8d35d7.webp"
+  },
+  {
+    "filename": "bc975f2d717d07205dad90c3934947ae83e151108c1767438e7cce533b137699.webp",
+    "size": 16550,
+    "source_rel": "renault/models/kaptur/images/bc975f2d717d07205dad90c3934947ae83e151108c1767438e7cce533b137699.webp"
+  },
+  {
+    "filename": "bcd9702d386a83489f4d1ada6f79264c102796e0698523ae51764318c0a600b0.webp",
+    "size": 54434,
+    "source_rel": "renault/models/kaptur/images/bcd9702d386a83489f4d1ada6f79264c102796e0698523ae51764318c0a600b0.webp"
+  },
+  {
+    "filename": "bd30750ae4bbf3bf20da381a55361ad0f13490de3b1e9b212a41d37aee45e971.webp",
+    "size": 78540,
+    "source_rel": "renault/models/kaptur/images/bd30750ae4bbf3bf20da381a55361ad0f13490de3b1e9b212a41d37aee45e971.webp"
+  },
+  {
+    "filename": "bd6425b2a8560fccb86962b848fd98fc32afd743efad872c1b12a4cae3564dc7.webp",
+    "size": 104490,
+    "source_rel": "renault/models/kaptur/images/bd6425b2a8560fccb86962b848fd98fc32afd743efad872c1b12a4cae3564dc7.webp"
+  },
+  {
+    "filename": "bd89500c6d29614406b2fefd4a209de727b034ca365b25afc576e511cf9c36c0.webp",
+    "size": 47512,
+    "source_rel": "renault/models/kaptur/images/bd89500c6d29614406b2fefd4a209de727b034ca365b25afc576e511cf9c36c0.webp"
+  },
+  {
+    "filename": "bd8e578b416c819a5f1c0b47ab4968d1ba575c043ab6441cca5475c8bd72213a.webp",
+    "size": 47076,
+    "source_rel": "renault/models/kaptur/images/bd8e578b416c819a5f1c0b47ab4968d1ba575c043ab6441cca5475c8bd72213a.webp"
+  },
+  {
+    "filename": "bdbe476adc15f8163b8a80e7123f0d9d656e2a126e7a3b7677de68daa0395fc8.webp",
+    "size": 63316,
+    "source_rel": "renault/models/kaptur/images/bdbe476adc15f8163b8a80e7123f0d9d656e2a126e7a3b7677de68daa0395fc8.webp"
+  },
+  {
+    "filename": "be3e0ce3b201cdd93535056d7a56c5b6d7bd97f0388ab4a4dd6512fd37e6d05b.jpg",
+    "size": 63643,
+    "source_rel": "renault/models/kaptur/images/be3e0ce3b201cdd93535056d7a56c5b6d7bd97f0388ab4a4dd6512fd37e6d05b.jpg"
+  },
+  {
+    "filename": "bea370373edf87385dddc9c03b42a6d288b2c1597caa7904d31bcb496b2b67c7.webp",
+    "size": 21230,
+    "source_rel": "renault/models/kaptur/images/bea370373edf87385dddc9c03b42a6d288b2c1597caa7904d31bcb496b2b67c7.webp"
+  },
+  {
+    "filename": "bf03207ebe8fa60b9709575de751af92ea1626e4736164345d3d827bc88fd669.webp",
+    "size": 30156,
+    "source_rel": "renault/models/kaptur/images/bf03207ebe8fa60b9709575de751af92ea1626e4736164345d3d827bc88fd669.webp"
+  },
+  {
+    "filename": "bf0d70c008c1489cb065236656a0b1a7654c4d08e3247b228135418ba8fa1673.webp",
+    "size": 56376,
+    "source_rel": "renault/models/kaptur/images/bf0d70c008c1489cb065236656a0b1a7654c4d08e3247b228135418ba8fa1673.webp"
+  },
+  {
+    "filename": "bf3395a0d6f08ff1f8f8732e67f46c0846c9a50ce61f21cc498af2d2d0631c32.webp",
+    "size": 37764,
+    "source_rel": "renault/models/kaptur/images/bf3395a0d6f08ff1f8f8732e67f46c0846c9a50ce61f21cc498af2d2d0631c32.webp"
+  },
+  {
+    "filename": "bfe9a7bd7a6abd0f269d41130b7cc948397945d1562352c0c3dbae7cc21ace66.jpg",
+    "size": 52332,
+    "source_rel": "renault/models/kaptur/images/bfe9a7bd7a6abd0f269d41130b7cc948397945d1562352c0c3dbae7cc21ace66.jpg"
+  }
+]

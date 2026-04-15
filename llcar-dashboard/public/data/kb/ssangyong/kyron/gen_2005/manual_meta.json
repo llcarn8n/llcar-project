@@ -1,0 +1,14 @@
+{
+  "brand": "ssangyong",
+  "model": "kyron",
+  "source_path_rel": "ssangyong/models/kyron/",
+  "manual_md_size": 5316304,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-2005_2007.md",
+    "manual-7ba44b.md",
+    "manual-b77298.md",
+    "manual-ocr.md"
+  ]
+}

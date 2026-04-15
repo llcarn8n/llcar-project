@@ -1,0 +1,1827 @@
+{
+  "brand": "haval",
+  "model": "haval_jolion",
+  "source": "manual_extract+template",
+  "total_parts": 1405,
+  "systems": {
+    "Uncategorized": 1310,
+    "Engine": 15,
+    "Fuel System": 4,
+    "Exhaust System": 5,
+    "Cooling System": 8,
+    "Transmission": 5,
+    "Brake System": 9,
+    "Suspension / Wheels": 13,
+    "Steering": 4,
+    "Electrical": 8,
+    "HVAC": 5,
+    "Body": 9,
+    "Wiper System": 4,
+    "Interior": 2,
+    "Wheels / Tires": 4
+  },
+  "parts": [
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Моторное масло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Масляный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Воздушный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Свечи зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Катушка зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень ГРМ / цепь ГРМ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень генератора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка клапанной крышки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка ГБЦ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик положения коленвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Расходомер воздуха",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Дроссельная заслонка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Форсунки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Регулятор давления топлива",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Каталитический нейтрализатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель средний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Прокладка выхлопной трубы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Антифриз",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Радиатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Вентилятор радиатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Расширительный бачок",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Крышка расширительного бачка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Патрубки системы охлаждения",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Масло АКПП / МКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Фильтр АКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Сцепление (комплект)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Выжимной подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Главный цилиндр сцепления",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозная жидкость",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Датчик ABS",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные барабанные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Стойка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Втулка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Рычаг подвески",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Сайлентблок рычага",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Шаровая опора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Ступичный подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС наружный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС внутренний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пыльник ШРУСа",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Наконечник рулевой тяги",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Рулевая тяга",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Жидкость ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Насос ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Аккумулятор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Генератор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Стартер",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фара передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фонарь задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Лампы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Предохранители",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Фильтр салонный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Компрессор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Радиатор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Осушитель кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Вентилятор отопителя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Боковое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Ветровое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Заднее стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Зеркало боковое",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Капот",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Крыло переднее",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Дверь",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётки стеклоочистителя передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётка стеклоочистителя задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Бачок омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Насос омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Коврики салона",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Педаль газа / тормоза",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Шина",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Диск колёсный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Гайка колёсная",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P26 000 278\nP26E400 279",
+      "subsystem": "",
+      "part_number": "P26000278",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4. При помощи специального приспособления зафиксируйте маховик Код специального приспособления: CC2008020\n5. В последовательности, показанной на рисунке, снимите 6 болтов крепления маховика",
+      "subsystem": "",
+      "part_number": "CC2008020",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Специальный инструмент: CC2008010",
+      "subsystem": "",
+      "part_number": "CC2008010",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Обозначение приспособления: CC2008018",
+      "subsystem": "",
+      "part_number": "CC2008018",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Код приспособления: CC2008017",
+      "subsystem": "",
+      "part_number": "CC2008017",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Код приспособления: CC2008012",
+      "subsystem": "",
+      "part_number": "CC2008012",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "7. Снимите масляный фильтр Специальный инструмент: CC2008013\n8. Нанесите свежее моторное масло на контактные поверхности прокладки нового масляного фильтра",
+      "subsystem": "",
+      "part_number": "CC2008013",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Снятие/установка. ■ : 000000000 .40－21",
+      "subsystem": "",
+      "part_number": "000000000",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P001000 4 -41",
+      "subsystem": "",
+      "part_number": "P001000",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P001676 .4－42",
+      "subsystem": "",
+      "part_number": "P001676",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P001678 .4 -43",
+      "subsystem": "",
+      "part_number": "P001678",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P003000 : 4 -44",
+      "subsystem": "",
+      "part_number": "P003000",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P003100 1 4 45",
+      "subsystem": "",
+      "part_number": "P003100",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P003200 4 46",
+      "subsystem": "",
+      "part_number": "P003200",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P003300 4 -47",
+      "subsystem": "",
+      "part_number": "P003300",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P003400 4 48",
+      "subsystem": "",
+      "part_number": "P003400",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P003500 4－49",
+      "subsystem": "",
+      "part_number": "P003500",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P003600 4 -50",
+      "subsystem": "",
+      "part_number": "P003600",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P003700 4 -51",
+      "subsystem": "",
+      "part_number": "P003700",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P003800 : 1 4 52",
+      "subsystem": "",
+      "part_number": "P003800",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P005300 4 58",
+      "subsystem": "",
+      "part_number": "P005300",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P005400 .4 59",
+      "subsystem": "",
+      "part_number": "P005400",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P009626 4 - 60",
+      "subsystem": "",
+      "part_number": "P009626",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P009700 ··········· 4－61",
+      "subsystem": "",
+      "part_number": "P009700",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P009800 4 62",
+      "subsystem": "",
+      "part_number": "P009800",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P009900 4 -64",
+      "subsystem": "",
+      "part_number": "P009900",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P00C721/P00C722/P010621/P010622/P120000/P120100 .· 4 -66",
+      "subsystem": "",
+      "part_number": "P010621",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P00C721/P00C722/P010621/P010622/P120000/P120100 .· 4 -66",
+      "subsystem": "",
+      "part_number": "P010622",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P00C721/P00C722/P010621/P010622/P120000/P120100 .· 4 -66",
+      "subsystem": "",
+      "part_number": "P120000",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P00C721/P00C722/P010621/P010622/P120000/P120100 .· 4 -66",
+      "subsystem": "",
+      "part_number": "P120100",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P00CE23/P00CE24/P138023/P 138024   ·· . 4 68",
+      "subsystem": "",
+      "part_number": "P138023",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P01062A   4 69",
+      "subsystem": "",
+      "part_number": "P01062A",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P010700 ….· ··· 4 -70",
+      "subsystem": "",
+      "part_number": "P010700",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P010800 4 -71",
+      "subsystem": "",
+      "part_number": "P010800",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P011126 4 -72",
+      "subsystem": "",
+      "part_number": "P011126",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P011200. 4 -73",
+      "subsystem": "",
+      "part_number": "P011200",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P011300. 4－74",
+      "subsystem": "",
+      "part_number": "P011300",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P011400. . .4 -75",
+      "subsystem": "",
+      "part_number": "P011400",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P011700. 4 -76",
+      "subsystem": "",
+      "part_number": "P011700",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P011800. .· ·· 4 -77",
+      "subsystem": "",
+      "part_number": "P011800",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P011900. 4 -79",
+      "subsystem": "",
+      "part_number": "P011900",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P012100/P022100. . 4 80",
+      "subsystem": "",
+      "part_number": "P012100",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P012100/P022100. . 4 80",
+      "subsystem": "",
+      "part_number": "P022100",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P012200/P022200. … 4 82",
+      "subsystem": "",
+      "part_number": "P012200",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P012200/P022200. … 4 82",
+      "subsystem": "",
+      "part_number": "P022200",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P012300/P022300 . 4 83",
+      "subsystem": "",
+      "part_number": "P012300",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P012300/P022300 . 4 83",
+      "subsystem": "",
+      "part_number": "P022300",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P012800 4 - 84",
+      "subsystem": "",
+      "part_number": "P012800",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P013100 … …\\*\\*\\*\\*\\*… 4 -85",
+      "subsystem": "",
+      "part_number": "P013100",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P013200 ….·· 4 86",
+      "subsystem": "",
+      "part_number": "P013200",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P013300 ….· 4 -87",
+      "subsystem": "",
+      "part_number": "P013300",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P013400 · 4 -88",
+      "subsystem": "",
+      "part_number": "P013400",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P013600 · 4 90",
+      "subsystem": "",
+      "part_number": "P013600",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P013700 4 92",
+      "subsystem": "",
+      "part_number": "P013700",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P013800 4 94",
+      "subsystem": "",
+      "part_number": "P013800",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P019000 4 97",
+      "subsystem": "",
+      "part_number": "P019000",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P020100/P020200/P020300/P020400 4 - 98",
+      "subsystem": "",
+      "part_number": "P020100",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P020100/P020200/P020300/P020400 4 - 98",
+      "subsystem": "",
+      "part_number": "P020200",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P020100/P020200/P020300/P020400 4 - 98",
+      "subsystem": "",
+      "part_number": "P020300",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P020100/P020200/P020300/P020400 4 - 98",
+      "subsystem": "",
+      "part_number": "P020400",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P021900 .4 - 100",
+      "subsystem": "",
+      "part_number": "P021900",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P023400 4 - 101",
+      "subsystem": "",
+      "part_number": "P023400",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P023700 .4 - 102",
+      "subsystem": "",
+      "part_number": "P023700",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P023800 4 103",
+      "subsystem": "",
+      "part_number": "P023800",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P024300 4 104",
+      "subsystem": "",
+      "part_number": "P024300",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P024437 4 - 105",
+      "subsystem": "",
+      "part_number": "P024437",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P024477 4 106",
+      "subsystem": "",
+      "part_number": "P024477",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P024600 4 107",
+      "subsystem": "",
+      "part_number": "P024600",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P023621/P023622/P120400/P120500 4 - 108",
+      "subsystem": "",
+      "part_number": "P023621",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P023621/P023622/P120400/P120500 4 - 108",
+      "subsystem": "",
+      "part_number": "P023622",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P023621/P023622/P120400/P120500 4 - 108",
+      "subsystem": "",
+      "part_number": "P120400",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P023621/P023622/P120400/P120500 4 - 108",
+      "subsystem": "",
+      "part_number": "P120500",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P026100/P026400/P026700/P027000 : 4 -112",
+      "subsystem": "",
+      "part_number": "P026100",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P026100/P026400/P026700/P027000 : 4 -112",
+      "subsystem": "",
+      "part_number": "P026400",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P026100/P026400/P026700/P027000 : 4 -112",
+      "subsystem": "",
+      "part_number": "P026700",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P026100/P026400/P026700/P027000 : 4 -112",
+      "subsystem": "",
+      "part_number": "P027000",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P026200/P026500/P026800/P027100 .   4－113",
+      "subsystem": "",
+      "part_number": "P026200",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P026200/P026500/P026800/P027100 .   4－113",
+      "subsystem": "",
+      "part_number": "P026500",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P026200/P026500/P026800/P027100 .   4－113",
+      "subsystem": "",
+      "part_number": "P026800",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P026200/P026500/P026800/P027100 .   4－113",
+      "subsystem": "",
+      "part_number": "P027100",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P029900 4 -114",
+      "subsystem": "",
+      "part_number": "P029900",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P030000/P030100/P030200/P030300/P030400/P036300 .········ 4－119",
+      "subsystem": "",
+      "part_number": "P030000",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P030000/P030100/P030200/P030300/P030400/P036300 .········ 4－119",
+      "subsystem": "",
+      "part_number": "P030100",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P030000/P030100/P030200/P030300/P030400/P036300 .········ 4－119",
+      "subsystem": "",
+      "part_number": "P030200",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P030000/P030100/P030200/P030300/P030400/P036300 .········ 4－119",
+      "subsystem": "",
+      "part_number": "P030300",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P030000/P030100/P030200/P030300/P030400/P036300 .········ 4－119",
+      "subsystem": "",
+      "part_number": "P030400",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P030000/P030100/P030200/P030300/P030400/P036300 .········ 4－119",
+      "subsystem": "",
+      "part_number": "P036300",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P032500 .4－121",
+      "subsystem": "",
+      "part_number": "P032500",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P032600 4 - 122",
+      "subsystem": "",
+      "part_number": "P032600",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P032700/P032714 : .4 - 123",
+      "subsystem": "",
+      "part_number": "P032700",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P032700/P032714 : .4 - 123",
+      "subsystem": "",
+      "part_number": "P032714",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P032800/P032815 4 124",
+      "subsystem": "",
+      "part_number": "P032800",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P032800/P032815 4 124",
+      "subsystem": "",
+      "part_number": "P032815",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P033900/P261700. 4 125",
+      "subsystem": "",
+      "part_number": "P033900",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P033900/P261700. 4 125",
+      "subsystem": "",
+      "part_number": "P261700",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P034100 ... - 126",
+      "subsystem": "",
+      "part_number": "P034100",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P034200 4 - 127",
+      "subsystem": "",
+      "part_number": "P034200",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P034300 4 129",
+      "subsystem": "",
+      "part_number": "P034300",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P035113/P035213/P035313/P035413 4 -131",
+      "subsystem": "",
+      "part_number": "P035113",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P035113/P035213/P035313/P035413 4 -131",
+      "subsystem": "",
+      "part_number": "P035213",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P035113/P035213/P035313/P035413 4 -131",
+      "subsystem": "",
+      "part_number": "P035313",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P035113/P035213/P035313/P035413 4 -131",
+      "subsystem": "",
+      "part_number": "P035413",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P042000 …..… 4 - 132",
+      "subsystem": "",
+      "part_number": "P042000",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P044413 …·· 4 133",
+      "subsystem": "",
+      "part_number": "P044413",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "P044700 ..· 134",
+      "subsystem": "",
+      "part_number": "P044700",
+      "source_url": "",
+      "source": "manual:chunks-manual-jolion.md"
+    }
+  ],
+  "parts_total_original": 1405,
+  "parts_capped": true
+}

@@ -1,0 +1,14 @@
+{
+  "brand": "mercedes",
+  "model": "eqs",
+  "source_path_rel": "mercedes_benz/models/eqs/",
+  "manual_md_size": 0,
+  "has_dita": true,
+  "has_pdf": false,
+  "variants": [
+    "manual-34c5a7--v297.md",
+    "manual-eqe_v295.md",
+    "manual-eqs_v297.md",
+    "manual-v297.md"
+  ]
+}

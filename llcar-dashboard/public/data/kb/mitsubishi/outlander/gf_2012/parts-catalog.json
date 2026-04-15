@@ -1,0 +1,1827 @@
+{
+  "brand": "mitsubishi",
+  "model": "outlander",
+  "source": "manual_extract+template",
+  "total_parts": 2554,
+  "systems": {
+    "Uncategorized": 2459,
+    "Engine": 15,
+    "Fuel System": 4,
+    "Exhaust System": 5,
+    "Cooling System": 8,
+    "Transmission": 5,
+    "Brake System": 9,
+    "Suspension / Wheels": 13,
+    "Steering": 4,
+    "Electrical": 8,
+    "HVAC": 5,
+    "Body": 9,
+    "Wiper System": 4,
+    "Interior": 2,
+    "Wheels / Tires": 4
+  },
+  "parts": [
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Моторное масло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Масляный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Воздушный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Свечи зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Катушка зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень ГРМ / цепь ГРМ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень генератора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка клапанной крышки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка ГБЦ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик положения коленвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Расходомер воздуха",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Дроссельная заслонка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Форсунки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Регулятор давления топлива",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Каталитический нейтрализатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель средний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Прокладка выхлопной трубы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Антифриз",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Радиатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Вентилятор радиатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Расширительный бачок",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Крышка расширительного бачка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Патрубки системы охлаждения",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Масло АКПП / МКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Фильтр АКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Сцепление (комплект)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Выжимной подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Главный цилиндр сцепления",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозная жидкость",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Датчик ABS",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные барабанные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Стойка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Втулка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Рычаг подвески",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Сайлентблок рычага",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Шаровая опора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Ступичный подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС наружный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС внутренний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пыльник ШРУСа",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Наконечник рулевой тяги",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Рулевая тяга",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Жидкость ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Насос ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Аккумулятор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Генератор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Стартер",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фара передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фонарь задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Лампы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Предохранители",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Фильтр салонный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Компрессор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Радиатор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Осушитель кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Вентилятор отопителя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Боковое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Ветровое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Заднее стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Зеркало боковое",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Капот",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Крыло переднее",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Дверь",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётки стеклоочистителя передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётка стеклоочистителя задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Бачок омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Насос омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Коврики салона",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Педаль газа / тормоза",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Шина",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Диск колёсный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Гайка колёсная",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "03602L вешивающего вала (STD) левого MD040598 04210 04221- 04245A 04212- (REF. 01287 16-410 04228 (REF.11-100) 01298 6 ж 01215 E 012875- 03470- \\* 01298X 03460- A 01219 01282P 01298U 0 A 012820 01291 ",
+      "subsystem": "",
+      "part_number": "01291003411",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "02017/ 02097V S 02000A 03623R 04085 0 02093P 04082 020970 02097Z 3 -04016 03070 O 04015",
+      "subsystem": "",
+      "part_number": "04082020970",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "04150 Масляный фильтр D136466 (REF.13-550) 10196ZZ 10801 10198ZZ 10 183S- 10110 E — 10198P 10711 101939 10118 REF -0 10100 10193 8- 10198T (REF.11-100) REF.55-010① 10712 2 10199 101938х",
+      "subsystem": "",
+      "part_number": "10711101939",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "10210 10321A 10480 10288 10457 8 109938 10371A 10978 10273 10220 102718 ! 8 10978 109938 00 и 1120①\\$ 10458 10289 109910220938 12\\$ 10500R 104858 т 10456 © 10324 104498 10516C 82730 10500L а 10485B 10",
+      "subsystem": "",
+      "part_number": "10220102718",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "10210 10321A 10480 10288 10457 8 109938 10371A 10978 10273 10220 102718 ! 8 10978 109938 00 и 1120①\\$ 10458 10289 109910220938 12\\$ 10500R 104858 т 10456 © 10324 104498 10516C 82730 10500L а 10485B 10",
+      "subsystem": "",
+      "part_number": "10978109938",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "10210 10321A 10480 10288 10457 8 109938 10371A 10978 10273 10220 102718 ! 8 10978 109938 00 и 1120①\\$ 10458 10289 109910220938 12\\$ 10500R 104858 т 10456 © 10324 104498 10516C 82730 10500L а 10485B 10",
+      "subsystem": "",
+      "part_number": "10324104498",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "REF.55-010② 10188ZZ 101988 10712 8 – 10198ZZ (155) → 10 \\*982Z 10196ZB 0 10198P 10801 101935 A \" 10198s REF 10118 14-010②",
+      "subsystem": "",
+      "part_number": "10801101935",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "-Для моделей 4WД деталь под номером 32268 отсутствует. –26303 26490 26297U26984 26297U 2684 26434269695 26288P er 28297U 26119 < 26305- ③ 26996 REF23-310 ① 269765 в 26903 26297T 26469 26279 26117 2621",
+      "subsystem": "",
+      "part_number": "26434269695",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "-Для моделей 4WД деталь под номером 32268 отсутствует. –26303 26490 26297U26984 26297U 2684 26434269695 26288P er 28297U 26119 < 26305- ③ 26996 REF23-310 ① 269765 в 26903 26297T 26469 26279 26117 2621",
+      "subsystem": "",
+      "part_number": "26487269680",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "34078 34033A 34309 - 34111B 34004 D 6в А 34039 34033 COC … А 34386C 6 34388C с D 34386C \\* B O е / 34146 э е 34013 3438 34004 34106 6 34377 д 34388D 34386B 34111 00 C е @ ф о 34396C 34395B 34385B34012",
+      "subsystem": "",
+      "part_number": "34181343788",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "12 23 3 2-3 Диапазон 50 переключений 3-4 Диапазон 0,0 переключений о 1000 2000 3000 4000 5000 6000 7000 8000 Частота вращения выходного вала КПП (об/мин) 50 100 150 200 Скорость автомобиля (км/ч) Диаг",
+      "subsystem": "",
+      "part_number": "50100150200",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "23450789101121313151617181920 30 3132333435363733 60 61.62 534533758",
+      "subsystem": "",
+      "part_number": "62534533758",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "39 40.41 424344 69 70 7 727374",
+      "subsystem": "",
+      "part_number": "69707727374",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "<МОДЕЛИ С АКПП» <МОДЕЛИ С МКЛЛ» JC (3) ПЛАВКАЯ ЗСТАВКА №91 J/S (ПРЕДОХРАНИТЕЛЬ №5) JВ (ПРЕДОХРАНИТЕЛЬ №2) 1 2 2 C( 5R L-r (в-ю 25 26 28 м 16 (13е0 3 0 (н.) (H.) 5R L-г] 1 (20) 12 22 (10 јJ/B \\$15 5 8 ",
+      "subsystem": "",
+      "part_number": "15222222228",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "0 (REF. 10803 24-110 101880",
+      "subsystem": "",
+      "part_number": "110101880",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "w u a 42 580 N х : 485343334 8 S8 NE o0 5 E",
+      "subsystem": "",
+      "part_number": "485343334",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "12 23 3 2-3 Диапазон 50 переключений 3-4 Диапазон 0,0 переключений о 1000 2000 3000 4000 5000 6000 7000 8000 Частота вращения выходного вала КПП (об/мин) 50 100 150 200 Скорость автомобиля (км/ч) Диаг",
+      "subsystem": "",
+      "part_number": "100150200",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "21 22 23242526272829 151 5253 545575859",
+      "subsystem": "",
+      "part_number": "545575859",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "23450789101121313151617181920 30 3132333435363733 60 61.62 534533758",
+      "subsystem": "",
+      "part_number": "534533758",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1 <F> (-\\$ R-е 0-1 4 L255 B 7 6 R 0 E1 13 12 11 (R-G) (B-R) н Δ R : 1а 20 5 JC (3) X (3) 133 141 105 115 113 106 76 75 67 M 22 3 \\ ьмч m { R- 0-R0 0 B B ↓ 2 4 КОМАНА 0 1 4 W ≤ РИ",
+      "subsystem": "",
+      "part_number": "133141105",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1 <F> (-\\$ R-е 0-1 4 L255 B 7 6 R 0 E1 13 12 11 (R-G) (B-R) н Δ R : 1а 20 5 JC (3) X (3) 133 141 105 115 113 106 76 75 67 M 22 3 \\ ьмч m { R- 0-R0 0 B B ↓ 2 4 КОМАНА 0 1 4 W ≤ РИ",
+      "subsystem": "",
+      "part_number": "115113106",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "T 000000000",
+      "subsystem": "",
+      "part_number": "000000000",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "с с3 (202 0 020 220 100 O а DO S67X00 12 B 10 15 я 287 14 300 15 1",
+      "subsystem": "",
+      "part_number": "020220100O",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "<МОДЕЛИ С АКПП» <МОДЕЛИ С МКЛЛ» JC (3) ПЛАВКАЯ ЗСТАВКА №91 J/S (ПРЕДОХРАНИТЕЛЬ №5) JВ (ПРЕДОХРАНИТЕЛЬ №2) 1 2 2 C( 5R L-r (в-ю 25 26 28 м 16 (13е0 3 0 (н.) (H.) 5R L-г] 1 (20) 12 22 (10 јJ/B \\$15 5 8 ",
+      "subsystem": "",
+      "part_number": "222222228",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "121 134 142 K 124 141 148 14 52 31 44 E1 01 25 8 83 74 K.. 32 B е25 15 000000000001 0 - 0 28 4 34 ? 33 43 АККУМУПЯТОРНАЯ АTАЕЯ ЗАМОК ЗАЖИГАНИЯ (ВЫВОД 1G2) ЗАМОК ЗАЖИГАНИЯ (ВЫВОД1С1) 158 в <F>2L-R 2 Ф-",
+      "subsystem": "",
+      "part_number": "121134142K",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "121 134 142 K 124 141 148 14 52 31 44 E1 01 25 8 83 74 K.. 32 B е25 15 000000000001 0 - 0 28 4 34 ? 33 43 АККУМУПЯТОРНАЯ АTАЕЯ ЗАМОК ЗАЖИГАНИЯ (ВЫВОД 1G2) ЗАМОК ЗАЖИГАНИЯ (ВЫВОД1С1) 158 в <F>2L-R 2 Ф-",
+      "subsystem": "",
+      "part_number": "124141148",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "5 0 % 3 0 1 ДАТЧИК СКОРОСТИ АВТОМОБИЛЯ. ДРОССЕЛЬНОЙ ЗАСЛОНКИ: nи C15 5 WE E0 C1 E  C 02 1705 C13 233 2 12 T 2 0135 C2013 C-205) 1518: 2000000 00 2222226222 C13 4 0 554 (1 15 DRTL 15102 000500000",
+      "subsystem": "",
+      "part_number": "000500000",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "2. Серийный номер двига- AA0201--- →AA9999 теля содержит 6 знаков.",
+      "subsystem": "",
+      "part_number": "AA0201",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "2. Серийный номер двига- AA0201--- →AA9999 теля содержит 6 знаков.",
+      "subsystem": "",
+      "part_number": "AA9999",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Последовательность изме- —AB0001-- AY9999нения знаков номера представлена на рисунке: BA0001---.--→YY9999",
+      "subsystem": "",
+      "part_number": "AB0001",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Последовательность изме- —AB0001-- AY9999нения знаков номера представлена на рисунке: BA0001---.--→YY9999",
+      "subsystem": "",
+      "part_number": "BA0001",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Последовательность изме- —AB0001-- AY9999нения знаков номера представлена на рисунке: BA0001---.--→YY9999",
+      "subsystem": "",
+      "part_number": "YY9999",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Адаптер Есмз27 поддерживает следующие протоколы стандарта ОвD: J1850 VPW J1850 РWм, IS09141-2, ISO14230-4 (KWP2000), ISO15765–4 (CAN).",
+      "subsystem": "",
+      "part_number": "IS09141-2",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Адаптер Есмз27 поддерживает следующие протоколы стандарта ОвD: J1850 VPW J1850 РWм, IS09141-2, ISO14230-4 (KWP2000), ISO15765–4 (CAN).",
+      "subsystem": "",
+      "part_number": "ISO14230-4",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Адаптер Есмз27 поддерживает следующие протоколы стандарта ОвD: J1850 VPW J1850 РWм, IS09141-2, ISO14230-4 (KWP2000), ISO15765–4 (CAN).",
+      "subsystem": "",
+      "part_number": "KWP2000",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Адаптер Есмз27 поддерживает следующие протоколы стандарта ОвD: J1850 VPW J1850 РWм, IS09141-2, ISO14230-4 (KWP2000), ISO15765–4 (CAN).",
+      "subsystem": "",
+      "part_number": "ISO15765",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Модуль предназначен для считывания и стирания кодов неисправностей при подключении адаптера Ецмз27 к диагностическому разъему автомобиля, поддерживающего стандарт вД I. Поддерживаемые протоколы: 1850 ",
+      "subsystem": "",
+      "part_number": "ISO15765-4",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Теперь о запчастях. Сайлент-блоки верхних и корректирующих рычагов подвески меняются в сборе с рычагами. Верхний рычаг обойдется \\~50\\$ (каталожный номер МН100086), корректирующий - примерно в -30 (ка",
+      "subsystem": "",
+      "part_number": "MN100110",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "сигнала со стороны датчика положения распределительного вала нарушается работа систем зажигания и впрыска толлива. В данном случае двигатель запустится только тогда, когда датчик остынет и начнет функ",
+      "subsystem": "",
+      "part_number": "MR578768",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Каталожные номера: Фиксаторы передних колодок . . MR389599 Фиксаторы задних колодок MR493177",
+      "subsystem": "",
+      "part_number": "MR389599",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Каталожные номера: Фиксаторы передних колодок . . MR389599 Фиксаторы задних колодок MR493177",
+      "subsystem": "",
+      "part_number": "MR493177",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Каталожные номера механизмов стеклоподъемников: двери водителя .. MR573877 двери пассажира .. MR573878",
+      "subsystem": "",
+      "part_number": "MR573877",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Каталожные номера механизмов стеклоподъемников: двери водителя .. MR573877 двери пассажира .. MR573878",
+      "subsystem": "",
+      "part_number": "MR573878",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Элемент питания.…. .CR1616 в) Установка деталей производится в порядке обратном снятию.",
+      "subsystem": "",
+      "part_number": "CR1616",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Элемент питания . CR2032",
+      "subsystem": "",
+      "part_number": "CR2032",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Примечание: рекомендуется производить заливку охлаждающей жидкости с помощью спецприспособления для замены охлаждающей жидкости (MB991871).",
+      "subsystem": "",
+      "part_number": "MB991871",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "032850 д 03282 04044 03283 03038 03064 F00036 Каталожный",
+      "subsystem": "",
+      "part_number": "F00036",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "№ детали Название дөтали номер 03110 Ремень привода ГРМ MD326059 03152 Направляющий ролик MD156604 0315 8 Натажитель реня рио ГРМ M192",
+      "subsystem": "",
+      "part_number": "MD326059",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "№ детали Название дөтали номер 03110 Ремень привода ГРМ MD326059 03152 Направляющий ролик MD156604 0315 8 Натажитель реня рио ГРМ M192",
+      "subsystem": "",
+      "part_number": "MD156604",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "U11S7 01198T REF.15-010 01115 04903A 01108U -04807– O 01198Z201198 01198ZZ- 011962Z —01182 01198ZB01187- 0, й 01178Z2 01915 01181ZZ 01130 01221 1 01129 -01100A с i \\*④ REF 01110 18-210① 01111 01111 [0",
+      "subsystem": "",
+      "part_number": "FO0003",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "U11S7 01198T REF.15-010 01115 04903A 01108U -04807– O 01198Z201198 01198ZZ- 011962Z —01182 01198ZB01187- 0, й 01178Z2 01915 01181ZZ 01130 01221 1 01129 -01100A с i \\*④ REF 01110 18-210① 01111 01111 [0",
+      "subsystem": "",
+      "part_number": "MD34053",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "U11S7 01198T REF.15-010 01115 04903A 01108U -04807– O 01198Z201198 01198ZZ- 011962Z —01182 01198ZB01187- 0, й 01178Z2 01915 01181ZZ 01130 01221 1 01129 -01100A с i \\*④ REF 01110 18-210① 01111 01111 [0",
+      "subsystem": "",
+      "part_number": "MD18678",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "U11S7 01198T REF.15-010 01115 04903A 01108U -04807– O 01198Z201198 01198ZZ- 011962Z —01182 01198ZB01187- 0, й 01178Z2 01915 01181ZZ 01130 01221 1 01129 -01100A с i \\*④ REF 01110 18-210① 01111 01111 [0",
+      "subsystem": "",
+      "part_number": "MD30184",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "U11S7 01198T REF.15-010 01115 04903A 01108U -04807– O 01198Z201198 01198ZZ- 011962Z —01182 01198ZB01187- 0, й 01178Z2 01915 01181ZZ 01130 01221 1 01129 -01100A с i \\*④ REF 01110 18-210① 01111 01111 [0",
+      "subsystem": "",
+      "part_number": "MD372341",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "F00110",
+      "subsystem": "",
+      "part_number": "F00110",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "№ детали Название детали номер 4G63-2WD MD376986 4G63-4WD MN163000",
+      "subsystem": "",
+      "part_number": "MD376986",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "№ детали Название детали номер 4G63-2WD MD376986 4G63-4WD MN163000",
+      "subsystem": "",
+      "part_number": "MN163000",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "01300A Блок цилиндров 4G64 MD379012 4G69 MN163415 03017 Корпус заднего сальника коленчатого вала MD311550 03080 Задний сальник коленчатого вала MD359158",
+      "subsystem": "",
+      "part_number": "MD379012",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "01300A Блок цилиндров 4G64 MD379012 4G69 MN163415 03017 Корпус заднего сальника коленчатого вала MD311550 03080 Задний сальник коленчатого вала MD359158",
+      "subsystem": "",
+      "part_number": "MN163415",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "01300A Блок цилиндров 4G64 MD379012 4G69 MN163415 03017 Корпус заднего сальника коленчатого вала MD311550 03080 Задний сальник коленчатого вала MD359158",
+      "subsystem": "",
+      "part_number": "MD311550",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "01300A Блок цилиндров 4G64 MD379012 4G69 MN163415 03017 Корпус заднего сальника коленчатого вала MD311550 03080 Задний сальник коленчатого вала MD359158",
+      "subsystem": "",
+      "part_number": "MD359158",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "03601 .Передний подшипник уравновеш. вала (STD) MD040597",
+      "subsystem": "",
+      "part_number": "MD040597",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "03602R Задний подшипник уравноправого MD103722",
+      "subsystem": "",
+      "part_number": "MD103722",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "03602L вешивающего вала (STD) левого MD040598 04210 04221- 04245A 04212- (REF. 01287 16-410 04228 (REF.11-100) 01298 6 ж 01215 E 012875- 03470- \\* 01298X 03460- A 01219 01282P 01298U 0 A 012820 01291 ",
+      "subsystem": "",
+      "part_number": "MD040598",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "03602L вешивающего вала (STD) левого MD040598 04210 04221- 04245A 04212- (REF. 01287 16-410 04228 (REF.11-100) 01298 6 ж 01215 E 012875- 03470- \\* 01298X 03460- A 01219 01282P 01298U 0 A 012820 01291 ",
+      "subsystem": "",
+      "part_number": "F00045",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "01210 Прокпадка головки блока цилиндров MN163381",
+      "subsystem": "",
+      "part_number": "MN163381",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "01215 (отверстия под направляющую свечи) Уплотнение крышки головки блока цилиндров MD198128",
+      "subsystem": "",
+      "part_number": "MD198128",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "01298P Болт крепления головки блока цилиндров MD191470",
+      "subsystem": "",
+      "part_number": "MD191470",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "03130 Сальник распределительного вала MD133317 0",
+      "subsystem": "",
+      "part_number": "MD133317",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "04244 Э/м клапан управления подачей масла MN137240",
+      "subsystem": "",
+      "part_number": "MN137240",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "02017 Прокладка корпуса масляного насоса MD322521",
+      "subsystem": "",
+      "part_number": "MD322521",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "02099 Прокладка заглушки MD041021",
+      "subsystem": "",
+      "part_number": "MD041021",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "03070 Передний сальник коленчатого вала MD343563",
+      "subsystem": "",
+      "part_number": "MD343563",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "03623R Сальник уравновешивающего вала MD343565",
+      "subsystem": "",
+      "part_number": "MD343565",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "04028 Сальник шестерни масляного насоса MD365697",
+      "subsystem": "",
+      "part_number": "MD365697",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "04114 Прокладка кронштейна масляного фильтра MD322522",
+      "subsystem": "",
+      "part_number": "MD322522",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "04150 Масляный фильтр D136466 (REF.13-550) 10196ZZ 10801 10198ZZ 10 183S- 10110 E — 10198P 10711 101939 10118 REF -0 10100 10193 8- 10198T (REF.11-100) REF.55-010① 10712 2 10199 101938х",
+      "subsystem": "",
+      "part_number": "D136466",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "F00029 Каталожный",
+      "subsystem": "",
+      "part_number": "F00029",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "10110 Термостат MD315301",
+      "subsystem": "",
+      "part_number": "MD315301",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "10199 Кольцевая прокладка MD030764",
+      "subsystem": "",
+      "part_number": "MD030764",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "10801 Датчик температуры На комбинацию приборов MD091056",
+      "subsystem": "",
+      "part_number": "MD091056",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "10803 охлажд. жидкости На блок управления MD177572",
+      "subsystem": "",
+      "part_number": "MD177572",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "10210 10321A 10480 10288 10457 8 109938 10371A 10978 10273 10220 102718 ! 8 10978 109938 00 и 1120①\\$ 10458 10289 109910220938 12\\$ 10500R 104858 т 10456 © 10324 104498 10516C 82730 10500L а 10485B 10",
+      "subsystem": "",
+      "part_number": "D00087",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "10210 10321A 10480 10288 10457 8 109938 10371A 10978 10273 10220 102718 ! 8 10978 109938 00 и 1120①\\$ 10458 10289 109910220938 12\\$ 10500R 104858 т 10456 © 10324 104498 10516C 82730 10500L а 10485B 10",
+      "subsystem": "",
+      "part_number": "MR481252",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "10210 10321A 10480 10288 10457 8 109938 10371A 10978 10273 10220 102718 ! 8 10978 109938 00 и 1120①\\$ 10458 10289 109910220938 12\\$ 10500R 104858 т 10456 © 10324 104498 10516C 82730 10500L а 10485B 10",
+      "subsystem": "",
+      "part_number": "MR212315",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "10210 10321A 10480 10288 10457 8 109938 10371A 10978 10273 10220 102718 ! 8 10978 109938 00 и 1120①\\$ 10458 10289 109910220938 12\\$ 10500R 104858 т 10456 © 10324 104498 10516C 82730 10500L а 10485B 10",
+      "subsystem": "",
+      "part_number": "MR314718",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "10210 10321A 10480 10288 10457 8 109938 10371A 10978 10273 10220 102718 ! 8 10978 109938 00 и 1120①\\$ 10458 10289 109910220938 12\\$ 10500R 104858 т 10456 © 10324 104498 10516C 82730 10500L а 10485B 10",
+      "subsystem": "",
+      "part_number": "MR312898",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "02886C 02709 C 02883 02890C- —02890 02887 02886D ъ 0289 18- 02726 -02888 0289 1W- 02891X 02890S- C 02887Sъ 02891T0289 1W-- 02803а 02886D- 0 21896B 21896B 218078 5 [02702885 2 18098 [21218001 № детали ",
+      "subsystem": "",
+      "part_number": "MN100158",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "02886C 02709 C 02883 02890C- —02890 02887 02886D ъ 0289 18- 02726 -02888 0289 1W- 02891X 02890S- C 02887Sъ 02891T0289 1W-- 02803а 02886D- 0 21896B 21896B 218078 5 [02702885 2 18098 [21218001 № детали ",
+      "subsystem": "",
+      "part_number": "MN100289",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "02886C 02709 C 02883 02890C- —02890 02887 02886D ъ 0289 18- 02726 -02888 0289 1W- 02891X 02890S- C 02887Sъ 02891T0289 1W-- 02803а 02886D- 0 21896B 21896B 218078 5 [02702885 2 18098 [21218001 № детали ",
+      "subsystem": "",
+      "part_number": "MR961214",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "02886C 02709 C 02883 02890C- —02890 02887 02886D ъ 0289 18- 02726 -02888 0289 1W- 02891X 02890S- C 02887Sъ 02891T0289 1W-- 02803а 02886D- 0 21896B 21896B 218078 5 [02702885 2 18098 [21218001 № детали ",
+      "subsystem": "",
+      "part_number": "MN100335",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "02886C 02709 C 02883 02890C- —02890 02887 02886D ъ 0289 18- 02726 -02888 0289 1W- 02891X 02890S- C 02887Sъ 02891T0289 1W-- 02803а 02886D- 0 21896B 21896B 218078 5 [02702885 2 18098 [21218001 № детали ",
+      "subsystem": "",
+      "part_number": "MR961111",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "26289 Прокладка сливной пробки MN130495",
+      "subsystem": "",
+      "part_number": "MN130495",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "28020 Фильтр рабочей жидкости MD758684",
+      "subsystem": "",
+      "part_number": "MD758684",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "F00054",
+      "subsystem": "",
+      "part_number": "F00054",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "34078 34033A 34309 - 34111B 34004 D 6в А 34039 34033 COC … А 34386C 6 34388C с D 34386C \\* B O е / 34146 э е 34013 3438 34004 34106 6 34377 д 34388D 34386B 34111 00 C е @ ф о 34396C 34395B 34385B34012",
+      "subsystem": "",
+      "part_number": "DO0012A",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "№ детали Название детали Каталожныйй 34004 Подшипник коробки дифференциала MB393957",
+      "subsystem": "",
+      "part_number": "MB393957",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "34012 Подшипник (передний) ведущей шестерни MB393955 34013 Подшипник (задний) ведущей шестерни MB393956 34106 Сальник ведущей шестерни MB393929 34109 Боковой сальник корпуса редуктора MD707184",
+      "subsystem": "",
+      "part_number": "MB393955",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "34012 Подшипник (передний) ведущей шестерни MB393955 34013 Подшипник (задний) ведущей шестерни MB393956 34106 Сальник ведущей шестерни MB393929 34109 Боковой сальник корпуса редуктора MD707184",
+      "subsystem": "",
+      "part_number": "MB393956",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "34012 Подшипник (передний) ведущей шестерни MB393955 34013 Подшипник (задний) ведущей шестерни MB393956 34106 Сальник ведущей шестерни MB393929 34109 Боковой сальник корпуса редуктора MD707184",
+      "subsystem": "",
+      "part_number": "MB393929",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "34012 Подшипник (передний) ведущей шестерни MB393955 34013 Подшипник (задний) ведущей шестерни MB393956 34106 Сальник ведущей шестерни MB393929 34109 Боковой сальник корпуса редуктора MD707184",
+      "subsystem": "",
+      "part_number": "MD707184",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "34395B Прокладка заливной пробки (D=16 мм) MF660036",
+      "subsystem": "",
+      "part_number": "MF660036",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "34395C Прокладка сливной пробки (D=18,2 мм) MB001294 31 090E] 31090F 31090031092B ө 31094 в 31109 31118 е в F в 31107 31118 31119 1108F B 31098 31096F 31861 0 в« -31833B 310908 310990 31000A 31096Gо 3",
+      "subsystem": "",
+      "part_number": "MB001294",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "31031B Ремкомплект защитного чехла ШРУСа MB661705 31032B Ремкомплект ШРУСа MB661414 31107 Промежуточная опора Передняя MR953919 31109 в сборе Задняя MR953922 31810 Ремкомплект крестовины MR196899 (СТО",
+      "subsystem": "",
+      "part_number": "MB661705",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "31031B Ремкомплект защитного чехла ШРУСа MB661705 31032B Ремкомплект ШРУСа MB661414 31107 Промежуточная опора Передняя MR953919 31109 в сборе Задняя MR953922 31810 Ремкомплект крестовины MR196899 (СТО",
+      "subsystem": "",
+      "part_number": "MB661414",
+      "source_url": "",
+      "source": "manual:chunks-manual-outlander-02.md"
+    }
+  ],
+  "parts_total_original": 2554,
+  "parts_capped": true
+}

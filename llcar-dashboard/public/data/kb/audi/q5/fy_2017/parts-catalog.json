@@ -1,0 +1,1827 @@
+{
+  "brand": "audi",
+  "model": "audi_q5",
+  "source": "manual_extract+template",
+  "total_parts": 318,
+  "systems": {
+    "Uncategorized": 223,
+    "Engine": 15,
+    "Fuel System": 4,
+    "Exhaust System": 5,
+    "Cooling System": 8,
+    "Transmission": 5,
+    "Brake System": 9,
+    "Suspension / Wheels": 13,
+    "Steering": 4,
+    "Electrical": 8,
+    "HVAC": 5,
+    "Body": 9,
+    "Wiper System": 4,
+    "Interior": 2,
+    "Wheels / Tires": 4
+  },
+  "parts": [
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Моторное масло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Масляный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Воздушный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Свечи зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Катушка зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень ГРМ / цепь ГРМ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень генератора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка клапанной крышки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка ГБЦ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик положения коленвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Расходомер воздуха",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Дроссельная заслонка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Форсунки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Регулятор давления топлива",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Каталитический нейтрализатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель средний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Прокладка выхлопной трубы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Антифриз",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Радиатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Вентилятор радиатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Расширительный бачок",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Крышка расширительного бачка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Патрубки системы охлаждения",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Масло АКПП / МКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Фильтр АКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Сцепление (комплект)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Выжимной подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Главный цилиндр сцепления",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозная жидкость",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Датчик ABS",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные барабанные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Стойка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Втулка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Рычаг подвески",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Сайлентблок рычага",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Шаровая опора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Ступичный подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС наружный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС внутренний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пыльник ШРУСа",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Наконечник рулевой тяги",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Рулевая тяга",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Жидкость ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Насос ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Аккумулятор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Генератор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Стартер",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фара передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фонарь задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Лампы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Предохранители",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Фильтр салонный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Компрессор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Радиатор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Осушитель кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Вентилятор отопителя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Боковое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Ветровое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Заднее стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Зеркало боковое",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Капот",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Крыло переднее",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Дверь",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётки стеклоочистителя передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётка стеклоочистителя задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Бачок омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Насос омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Коврики салона",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Педаль газа / тормоза",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Шина",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Диск колёсный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Гайка колёсная",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "09 10 6 11 5 12 13 3 211514",
+      "subsystem": "",
+      "part_number": "12133211514",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "00000000 000 10 8",
+      "subsystem": "",
+      "part_number": "00000000000",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "STe Sr8 Датчик предупреждения о недостаточном уровне te Да жидкости, Датчик уровня жидкости в бачке N атля,леоательистля F34 Датчик предупреждения о недостаточном уровне тормозной жидкости (n G17 Датч",
+      "subsystem": "",
+      "part_number": "58159160101",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "57 300 57 30 Фара спереди справа t р 519  Блок управления бортовой сети L23 Лампа правой противотуманной фары 25 I L175 Лампа дневного режима освещения справа 05 MX2 Фара спереди справа sgn M3 Лампа п",
+      "subsystem": "",
+      "part_number": "15218217218",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "267 288 27 272 273 224 275 278 277 238 279 280 34 - до апреля 2009 года -только для а/м с ассистентом движения по полосе \\*5 Провод шины данных (шина САN) 57 50 Клавиша отключения ASR и ESP, Клавиша п",
+      "subsystem": "",
+      "part_number": "27272273224",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "281 282 20 204 285 280 287 208 200 280 291 200 283 2094 5T2 SCS Клавиша системы санкционирования доступа и пуска \\* двигателя, Центральный блок управления систем комфорта Е408Клавиша системы санкциони",
+      "subsystem": "",
+      "part_number": "20204285280",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "309 310 318 312 318 34 318 318 337 318 319 320 329 322 \\* постепенный отказ от использования \\*2 - постепенное внедрение ※ Центральный блок управления систем комфорта, Певый задний фонарь, Левый задни",
+      "subsystem": "",
+      "part_number": "34318318337",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "\\* -Точка совдинения с массой на двери/крышке 612 багажного отсека по центру -Соединение 31 в главном жгуте проводов B564 38 32 83 24 35 3 37 388 \\* 380 301 362 383 354 \\* - см. актуальную схему распо",
+      "subsystem": "",
+      "part_number": "36309370371",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "bx8 Выключатель педали сцепления, Центральный блок управления систем комфорта X 22 36- Выключатель педали сцепления F194  Выключатель педали сцепления для запуска двигателя 8477 0.35 F305 - Выключател",
+      "subsystem": "",
+      "part_number": "44415410417",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "2 Центральный блок управления систем комфорта 3оа пассажира J393 - Центральный блок управпения систем комфорта 34 J502 Блок управления контроля давления в шинах J605 Блок управления крышкидвери багажн",
+      "subsystem": "",
+      "part_number": "40441442643",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Su Датчик разрушения заднего стекла, Центральный блок управления систем комфорта, Электродвигатель запирания лючка горловины топливного бака, Нагревательный элемент заднего B- 0 0 ф Встекла Помехоодав",
+      "subsystem": "",
+      "part_number": "38454457488",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "5 Привод центрального замка двери водителя,Блок управления двери водителя F2 -Концевой выключатель двери водителя F131 Актюатор центрального замка передней левой двери F220 Привод центрального замка д",
+      "subsystem": "",
+      "part_number": "22123124125",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "127 120 129 30 131 132 139 134 135 136 637 138 138 140",
+      "subsystem": "",
+      "part_number": "30131132139",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "20 038 185 156 187 188 350 100 161 162 16 164 185 165 187 16",
+      "subsystem": "",
+      "part_number": "20038185156",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "20 038 185 156 187 188 350 100 161 162 16 164 185 165 187 16",
+      "subsystem": "",
+      "part_number": "16164185165",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Выключатель стеклоподъёмника на двери переднего пассажира, Выключатель блокировки дверей из салона, со стороны переднего пассажира, Блок управления двери переднего пассажира Е107 - Выключатель стеклоп",
+      "subsystem": "",
+      "part_number": "22233234235",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "J06 Выключатель стеклоподъёмника на задней левой двери, Выключатель запирания дверей из салона, задняя левая дверь, Блок управления левой задней 3.35 двери N \"2 E52 - Выключатель стеклоподъёмника на з",
+      "subsystem": "",
+      "part_number": "13314315318",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "J06 Выключатель стеклоподъёмника на задней левой двери, Выключатель запирания дверей из салона, задняя левая дверь, Блок управления левой задней 3.35 двери N \"2 E52 - Выключатель стеклоподъёмника на з",
+      "subsystem": "",
+      "part_number": "33334335336",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "J Выключатель стеклоподъёмника на задней правой 1 р задней двери be Выключатель стеклоподъёмника на задней правой двери 0.as c.a5 0.35 E274 Выключатель запирания дверей из салона, задняя правая дверь ",
+      "subsystem": "",
+      "part_number": "30367368309",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "J Выключатель стеклоподъёмника на задней правой 1 р задней двери be Выключатель стеклоподъёмника на задней правой двери 0.as c.a5 0.35 E274 Выключатель запирания дверей из салона, задняя правая дверь ",
+      "subsystem": "",
+      "part_number": "32283384385",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ф Исполнительный механизм 8 регулирования 2 подъёма клапана, Катушка зажигания  с выходным 2 каскадом, Катушка зажигания 2 с выходным S8e STE каскадом, Катушка зажигания 3 с выходным каскадом, Катушка",
+      "subsystem": "",
+      "part_number": "12124128128",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ф Исполнительный механизм 8 регулирования 2 подъёма клапана, Катушка зажигания  с выходным 2 каскадом, Катушка зажигания 2 с выходным S8e STE каскадом, Катушка зажигания 3 с выходным каскадом, Катушка",
+      "subsystem": "",
+      "part_number": "13031132138",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "op Вылевоатльтоп-сигналов,Блок управления 8O E455 Переключатель управления круиз-контролем ST F -Выключатель стоп-сигналов 266 Датчикуровня и тепературы масла J527  Блок управления рулевой колонки J62",
+      "subsystem": "",
+      "part_number": "28229230231",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Диагностический интерфейс шин данных 217 Блок управления автоматической коробки передач 1 J533 J623 Диагностический интерфейс шин данных Блок управления двигателя J743  Bnok Mechatronik K DSG 05 N3 0 ",
+      "subsystem": "",
+      "part_number": "24243244245",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "? Emsx ST S0 Блок управления комбинации приборов, 3 28Блоправлениякинаци прибов Диагностический интерфейс шин данных ST2 J533 Диагностический интерфейс шин данных ST2 Блок предохранителей 2 SD4 -Предо",
+      "subsystem": "",
+      "part_number": "83267266209",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "? Emsx ST S0 Блок управления комбинации приборов, 3 28Блоправлениякинаци прибов Диагностический интерфейс шин данных ST2 J533 Диагностический интерфейс шин данных ST2 Блок предохранителей 2 SD4 -Предо",
+      "subsystem": "",
+      "part_number": "23224225270",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3 Ф Ба 1 Нагревательный резистор системы вентиляции ST картера двигателя, Электромагнитный клапан левой электрогидравлической опоры двигателя, Клапан перепускной заслонки воздушного фильтра, 88 Перис ",
+      "subsystem": "",
+      "part_number": "19120125122",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Датчик положения педали акселератора, Датчик 2 8 7% 3 деня педалиакселератра,Блокуправения 79 Датчик положения педали акселератора 0 0 0:20 8 0.35 G185 - Датчик 2 положения педали акселератора © J623 ",
+      "subsystem": "",
+      "part_number": "12128120130",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Датчик положения педали акселератора, Датчик 2 8 7% 3 деня педалиакселератра,Блокуправения 79 Датчик положения педали акселератора 0 0 0:20 8 0.35 G185 - Датчик 2 положения педали акселератора © J623 ",
+      "subsystem": "",
+      "part_number": "31132180134",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "281 282 282 204 288 288 287 299 299 200 291 22 203 204 688 Тоадниясмсонаценрал H5 со ровв к \\* - только для а/м с системой SCR Датчик уровня восстановителя, Датчик температуры восстановителя, Блок упр",
+      "subsystem": "",
+      "part_number": "22203204688",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "205 28 207 2 29 30 301 302 308 36 \\* \\* 307 3 ф Датчик положения педали сцепления, Блок 8.s управления двигателя S0 \\$T2 ST 36- Выключатель педали сцепления SCo SC F194 - Выключатель педали сцепления ",
+      "subsystem": "",
+      "part_number": "30301302308",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "300 310 318 312 313 314 35 316 317 318 319 320 321 32 только для а/м без АКП см.актуальную схему электрооборудования AKΠ",
+      "subsystem": "",
+      "part_number": "35316317318",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "B= S72 50 y E ST2 533 Диагностический интерфейс шин данных ST2 -Блок предохранителей 2 05 05 SD4 - Предохранитель 4 в блоке предохранителей rtr D SD5 - Предохранитель 5 в блоке предохранителей J T20d ",
+      "subsystem": "",
+      "part_number": "26367308300",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "B= S72 50 y E ST2 533 Диагностический интерфейс шин данных ST2 -Блок предохранителей 2 05 05 SD4 - Предохранитель 4 в блоке предохранителей rtr D SD5 - Предохранитель 5 в блоке предохранителей J T20d ",
+      "subsystem": "",
+      "part_number": "37372973374",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "10. Устройство индикации переднегс блока управления индикацией и информацией -J685-. Дисплей ММІ. Различные варианты конструктивного исполнения и управления, в зависимости от варианта ММI и компл. а/м",
+      "subsystem": "",
+      "part_number": "8T1820043",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "00000000 000000000 10 18",
+      "subsystem": "",
+      "part_number": "000000000",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Клавиша режима Старт-стоп 6лава аар 519  Блок управления бортовой сети T8S Разъем, 8-контакный Т12а  Разъём, 12-контактный 17  Разъем,17-контактный, в коммутационном 0.35 0.35 0.35 3 Т32аРазе м, о ота",
+      "subsystem": "",
+      "part_number": "100101122",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ar SCH Датчик определения включенной передачи, Датчик Ма левого жиклёра омывателя, Нагревательный 03 84 резистор правого жиклёра омывателя Ф208 - Датчик определения включенной передачи 0.35 o06 G34 -Д",
+      "subsystem": "",
+      "part_number": "127128120",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ar SCH Датчик определения включенной передачи, Датчик Ма левого жиклёра омывателя, Нагревательный 03 84 резистор правого жиклёра омывателя Ф208 - Датчик определения включенной передачи 0.35 o06 G34 -Д",
+      "subsystem": "",
+      "part_number": "130131132",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ar SCH Датчик определения включенной передачи, Датчик Ма левого жиклёра омывателя, Нагревательный 03 84 резистор правого жиклёра омывателя Ф208 - Датчик определения включенной передачи 0.35 o06 G34 -Д",
+      "subsystem": "",
+      "part_number": "133134136",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ar SCH Датчик определения включенной передачи, Датчик Ма левого жиклёра омывателя, Нагревательный 03 84 резистор правого жиклёра омывателя Ф208 - Датчик определения включенной передачи 0.35 o06 G34 -Д",
+      "subsystem": "",
+      "part_number": "136127138",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "STe Sr8 Датчик предупреждения о недостаточном уровне te Да жидкости, Датчик уровня жидкости в бачке N атля,леоательистля F34 Датчик предупреждения о недостаточном уровне тормозной жидкости (n G17 Датч",
+      "subsystem": "",
+      "part_number": "141142143",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "STe Sr8 Датчик предупреждения о недостаточном уровне te Да жидкости, Датчик уровня жидкости в бачке N атля,леоательистля F34 Датчик предупреждения о недостаточном уровне тормозной жидкости (n G17 Датч",
+      "subsystem": "",
+      "part_number": "188100157",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "STe Sr8 Датчик предупреждения о недостаточном уровне te Да жидкости, Датчик уровня жидкости в бачке N атля,леоательистля F34 Датчик предупреждения о недостаточном уровне тормозной жидкости (n G17 Датч",
+      "subsystem": "",
+      "part_number": "159160101",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "STe Sr8 Датчик предупреждения о недостаточном уровне te Да жидкости, Датчик уровня жидкости в бачке N атля,леоательистля F34 Датчик предупреждения о недостаточном уровне тормозной жидкости (n G17 Датч",
+      "subsystem": "",
+      "part_number": "106167188",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "183 184 186 108 187 188 180 100 190 192 193 104 106 100 - только для а/м с дневным режимом освещения Размер сечения зависит от комплектации",
+      "subsystem": "",
+      "part_number": "183184186",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "183 184 186 108 187 188 180 100 190 192 193 104 106 100 - только для а/м с дневным режимом освещения Размер сечения зависит от комплектации",
+      "subsystem": "",
+      "part_number": "108187188",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "183 184 186 108 187 188 180 100 190 192 193 104 106 100 - только для а/м с дневным режимом освещения Размер сечения зависит от комплектации",
+      "subsystem": "",
+      "part_number": "180100190",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "183 184 186 108 187 188 180 100 190 192 193 104 106 100 - только для а/м с дневным режимом освещения Размер сечения зависит от комплектации",
+      "subsystem": "",
+      "part_number": "192193104",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "57 300 57 30 Фара спереди справа t р 519  Блок управления бортовой сети L23 Лампа правой противотуманной фары 25 I L175 Лампа дневного режима освещения справа 05 MX2 Фара спереди справа sgn M3 Лампа п",
+      "subsystem": "",
+      "part_number": "218217218",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "22820 22232 2228 нассажира \\*2 см. актуальную схему электрооборудования для подушек безопасности . \\*3 - в зависимости от комплектации Выключатель освещения вещевого ящика, Лампа V0 подсветки простран",
+      "subsystem": "",
+      "part_number": "239243241",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "22820 22232 2228 нассажира \\*2 см. актуальную схему электрооборудования для подушек безопасности . \\*3 - в зависимости от комплектации Выключатель освещения вещевого ящика, Лампа V0 подсветки простран",
+      "subsystem": "",
+      "part_number": "243224245",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "22820 22232 2228 нассажира \\*2 см. актуальную схему электрооборудования для подушек безопасности . \\*3 - в зависимости от комплектации Выключатель освещения вещевого ящика, Лампа V0 подсветки простран",
+      "subsystem": "",
+      "part_number": "245247242",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "232 255 2 27 350 259 2% 261 \\*2 203 208 265 2 S7r  8n o Блок управления адаптивного круиз-контроля J428 Блок управления адаптивного круизконтроля J519 - Блок управления бортовой сети 3 O J533 Диагност",
+      "subsystem": "",
+      "part_number": "203208265",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "267 288 27 272 273 224 275 278 277 238 279 280 34 - до апреля 2009 года -только для а/м с ассистентом движения по полосе \\*5 Провод шины данных (шина САN) 57 50 Клавиша отключения ASR и ESP, Клавиша п",
+      "subsystem": "",
+      "part_number": "272273224",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "267 288 27 272 273 224 275 278 277 238 279 280 34 - до апреля 2009 года -только для а/м с ассистентом движения по полосе \\*5 Провод шины данных (шина САN) 57 50 Клавиша отключения ASR и ESP, Клавиша п",
+      "subsystem": "",
+      "part_number": "275278277",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "267 288 27 272 273 224 275 278 277 238 279 280 34 - до апреля 2009 года -только для а/м с ассистентом движения по полосе \\*5 Провод шины данных (шина САN) 57 50 Клавиша отключения ASR и ESP, Клавиша п",
+      "subsystem": "",
+      "part_number": "238279280",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "281 282 20 204 285 280 287 208 200 280 291 200 283 2094 5T2 SCS Клавиша системы санкционирования доступа и пуска \\* двигателя, Центральный блок управления систем комфорта Е408Клавиша системы санкциони",
+      "subsystem": "",
+      "part_number": "204285280",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "281 282 20 204 285 280 287 208 200 280 291 200 283 2094 5T2 SCS Клавиша системы санкционирования доступа и пуска \\* двигателя, Центральный блок управления систем комфорта Е408Клавиша системы санкциони",
+      "subsystem": "",
+      "part_number": "287208200",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "281 282 20 204 285 280 287 208 200 280 291 200 283 2094 5T2 SCS Клавиша системы санкционирования доступа и пуска \\* двигателя, Центральный блок управления систем комфорта Е408Клавиша системы санкциони",
+      "subsystem": "",
+      "part_number": "280291200",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "\\*  \\* 2 28 x 30% 302 303 204 \\*3 см.актуальную схему электрооборудования для подогрева сидений \\*4 - Размер сечения зависит от комплектации R:20 8 Датчик касания наружной ручки передней певой двери, ",
+      "subsystem": "",
+      "part_number": "302303204",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "309 310 318 312 318 34 318 318 337 318 319 320 329 322 \\* постепенный отказ от использования \\*2 - постепенное внедрение ※ Центральный блок управления систем комфорта, Певый задний фонарь, Левый задни",
+      "subsystem": "",
+      "part_number": "309310318",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "309 310 318 312 318 34 318 318 337 318 319 320 329 322 \\* постепенный отказ от использования \\*2 - постепенное внедрение ※ Центральный блок управления систем комфорта, Певый задний фонарь, Левый задни",
+      "subsystem": "",
+      "part_number": "318318337",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "309 310 318 312 318 34 318 318 337 318 319 320 329 322 \\* постепенный отказ от использования \\*2 - постепенное внедрение ※ Центральный блок управления систем комфорта, Певый задний фонарь, Левый задни",
+      "subsystem": "",
+      "part_number": "318319320",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "\\* -Точка совдинения с массой на двери/крышке 612 багажного отсека по центру -Соединение 31 в главном жгуте проводов B564 38 32 83 24 35 3 37 388 \\* 380 301 362 383 354 \\* - см. актуальную схему распо",
+      "subsystem": "",
+      "part_number": "380301362",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "\\* -Точка совдинения с массой на двери/крышке 612 багажного отсека по центру -Соединение 31 в главном жгуте проводов B564 38 32 83 24 35 3 37 388 \\* 380 301 362 383 354 \\* - см. актуальную схему распо",
+      "subsystem": "",
+      "part_number": "309370371",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "\\* -Точка совдинения с массой на двери/крышке 612 багажного отсека по центру -Соединение 31 в главном жгуте проводов B564 38 32 83 24 35 3 37 388 \\* 380 301 362 383 354 \\* - см. актуальную схему распо",
+      "subsystem": "",
+      "part_number": "372373374",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "\\* -Точка совдинения с массой на двери/крышке 612 багажного отсека по центру -Соединение 31 в главном жгуте проводов B564 38 32 83 24 35 3 37 388 \\* 380 301 362 383 354 \\* - см. актуальную схему распо",
+      "subsystem": "",
+      "part_number": "375378377",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "2 B528 р( © рдоарасжния 379 380 381 3\\*2 X 8 3\\*6 30 392",
+      "subsystem": "",
+      "part_number": "379380381",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "bx8 Выключатель педали сцепления, Центральный блок управления систем комфорта X 22 36- Выключатель педали сцепления F194  Выключатель педали сцепления для запуска двигателя 8477 0.35 F305 - Выключател",
+      "subsystem": "",
+      "part_number": "303204306",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "bx8 Выключатель педали сцепления, Центральный блок управления систем комфорта X 22 36- Выключатель педали сцепления F194  Выключатель педали сцепления для запуска двигателя 8477 0.35 F305 - Выключател",
+      "subsystem": "",
+      "part_number": "368307308",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "bx8 Выключатель педали сцепления, Центральный блок управления систем комфорта X 22 36- Выключатель педали сцепления F194  Выключатель педали сцепления для запуска двигателя 8477 0.35 F305 - Выключател",
+      "subsystem": "",
+      "part_number": "4C0401402",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "bx8 Выключатель педали сцепления, Центральный блок управления систем комфорта X 22 36- Выключатель педали сцепления F194  Выключатель педали сцепления для запуска двигателя 8477 0.35 F305 - Выключател",
+      "subsystem": "",
+      "part_number": "403436405",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "bx8 Выключатель педали сцепления, Центральный блок управления систем комфорта X 22 36- Выключатель педали сцепления F194  Выключатель педали сцепления для запуска двигателя 8477 0.35 F305 - Выключател",
+      "subsystem": "",
+      "part_number": "407408409",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "bx8 Выключатель педали сцепления, Центральный блок управления систем комфорта X 22 36- Выключатель педали сцепления F194  Выключатель педали сцепления для запуска двигателя 8477 0.35 F305 - Выключател",
+      "subsystem": "",
+      "part_number": "410415412",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "bx8 Выключатель педали сцепления, Центральный блок управления систем комфорта X 22 36- Выключатель педали сцепления F194  Выключатель педали сцепления для запуска двигателя 8477 0.35 F305 - Выключател",
+      "subsystem": "",
+      "part_number": "415410417",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "2 Центральный блок управления систем комфорта 3оа пассажира J393 - Центральный блок управпения систем комфорта 34 J502 Блок управления контроля давления в шинах J605 Блок управления крышкидвери багажн",
+      "subsystem": "",
+      "part_number": "441442643",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "2 Центральный блок управления систем комфорта 3оа пассажира J393 - Центральный блок управпения систем комфорта 34 J502 Блок управления контроля давления в шинах J605 Блок управления крышкидвери багажн",
+      "subsystem": "",
+      "part_number": "425428447",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Su Датчик разрушения заднего стекла, Центральный блок управления систем комфорта, Электродвигатель запирания лючка горловины топливного бака, Нагревательный элемент заднего B- 0 0 ф Встекла Помехоодав",
+      "subsystem": "",
+      "part_number": "449450451",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Su Датчик разрушения заднего стекла, Центральный блок управления систем комфорта, Электродвигатель запирания лючка горловины топливного бака, Нагревательный элемент заднего B- 0 0 ф Встекла Помехоодав",
+      "subsystem": "",
+      "part_number": "483484460",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Su Датчик разрушения заднего стекла, Центральный блок управления систем комфорта, Электродвигатель запирания лючка горловины топливного бака, Нагревательный элемент заднего B- 0 0 ф Встекла Помехоодав",
+      "subsystem": "",
+      "part_number": "470471472",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Su Датчик разрушения заднего стекла, Центральный блок управления систем комфорта, Электродвигатель запирания лючка горловины топливного бака, Нагревательный элемент заднего B- 0 0 ф Встекла Помехоодав",
+      "subsystem": "",
+      "part_number": "478474415",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Jo00 Датчик касания наружной ручки передней левой р 2% 0.35 ggr 0.35 g 0.25 2 0.35 25 3 6Датик касания наружной ручки передней левой равлениядосо br y 2 276 двери G606 - Датчик касания наружной ручки ",
+      "subsystem": "",
+      "part_number": "328205206",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3 nо  я 0.35 СС8  Предохранитель 8 в блоке предохранителей 0 4 84 c SC11 - Предохранитель 11 в блоке предохранителей \\$7 \"5Cn 87 \"00 T201 -Разъём, 20-контактный = 1 2 \\* аыи e 1 \\$ \\* \\* \\* 8 \\$ 22 1 ",
+      "subsystem": "",
+      "part_number": "100101102",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3 nо  я 0.35 СС8  Предохранитель 8 в блоке предохранителей 0 4 84 c SC11 - Предохранитель 11 в блоке предохранителей \\$7 \"5Cn 87 \"00 T201 -Разъём, 20-контактный = 1 2 \\* аыи e 1 \\$ \\* \\* \\* 8 \\$ 22 1 ",
+      "subsystem": "",
+      "part_number": "100104105",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3 nо  я 0.35 СС8  Предохранитель 8 в блоке предохранителей 0 4 84 c SC11 - Предохранитель 11 в блоке предохранителей \\$7 \"5Cn 87 \"00 T201 -Разъём, 20-контактный = 1 2 \\* аыи e 1 \\$ \\* \\* \\* 8 \\$ 22 1 ",
+      "subsystem": "",
+      "part_number": "106107108",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3 nо  я 0.35 СС8  Предохранитель 8 в блоке предохранителей 0 4 84 c SC11 - Предохранитель 11 в блоке предохранителей \\$7 \"5Cn 87 \"00 T201 -Разъём, 20-контактный = 1 2 \\* аыи e 1 \\$ \\* \\* \\* 8 \\$ 22 1 ",
+      "subsystem": "",
+      "part_number": "108110183",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "5 Привод центрального замка двери водителя,Блок управления двери водителя F2 -Концевой выключатель двери водителя F131 Актюатор центрального замка передней левой двери F220 Привод центрального замка д",
+      "subsystem": "",
+      "part_number": "138154118",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "5 Привод центрального замка двери водителя,Блок управления двери водителя F2 -Концевой выключатель двери водителя F131 Актюатор центрального замка передней левой двери F220 Привод центрального замка д",
+      "subsystem": "",
+      "part_number": "123124125",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "127 120 129 30 131 132 139 134 135 136 637 138 138 140",
+      "subsystem": "",
+      "part_number": "127120129",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "127 120 129 30 131 132 139 134 135 136 637 138 138 140",
+      "subsystem": "",
+      "part_number": "131132139",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "127 120 129 30 131 132 139 134 135 136 637 138 138 140",
+      "subsystem": "",
+      "part_number": "134135136",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "127 120 129 30 131 132 139 134 135 136 637 138 138 140",
+      "subsystem": "",
+      "part_number": "637138138",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "20 038 185 156 187 188 350 100 161 162 16 164 185 165 187 16",
+      "subsystem": "",
+      "part_number": "038185156",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "20 038 185 156 187 188 350 100 161 162 16 164 185 165 187 16",
+      "subsystem": "",
+      "part_number": "187188350",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "20 038 185 156 187 188 350 100 161 162 16 164 185 165 187 16",
+      "subsystem": "",
+      "part_number": "100161162",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "20 038 185 156 187 188 350 100 161 162 16 164 185 165 187 16",
+      "subsystem": "",
+      "part_number": "164185165",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Потенциометр для регулировки положения зеркала по горизонтали со стороны водителя, Потенциометр для регулировки положения зеркала со стороны 840 водителя по вертикали, Блок управления двери водителя, ",
+      "subsystem": "",
+      "part_number": "360170371",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Потенциометр для регулировки положения зеркала по горизонтали со стороны водителя, Потенциометр для регулировки положения зеркала со стороны 840 водителя по вертикали, Блок управления двери водителя, ",
+      "subsystem": "",
+      "part_number": "172133174",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Потенциометр для регулировки положения зеркала по горизонтали со стороны водителя, Потенциометр для регулировки положения зеркала со стороны 840 водителя по вертикали, Блок управления двери водителя, ",
+      "subsystem": "",
+      "part_number": "177178179",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Потенциометр для регулировки положения зеркала по горизонтали со стороны водителя, Потенциометр для регулировки положения зеркала со стороны 840 водителя по вертикали, Блок управления двери водителя, ",
+      "subsystem": "",
+      "part_number": "180181182",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Блок управления двери водителя, Сигнальная лампа ассистента смены полосы движения в наружном зеркале со стороны водителя, Пампа повторителя указателя поворота в наружном зеркале со стороны водителя, П",
+      "subsystem": "",
+      "part_number": "105106387",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Блок управления двери переднего пассажира 387  Блок управления двери переднего нассажира ST3 Блок предохранителей 3 SF9 -Предохранитель 9 в блоке предохранителей 573 sFr 57 57 F ф 2 SF11 - Предохранит",
+      "subsystem": "",
+      "part_number": "197108199",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Блок управления двери переднего пассажира 387  Блок управления двери переднего нассажира ST3 Блок предохранителей 3 SF9 -Предохранитель 9 в блоке предохранителей 573 sFr 57 57 F ф 2 SF11 - Предохранит",
+      "subsystem": "",
+      "part_number": "200201202",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Блок управления двери переднего пассажира 387  Блок управления двери переднего нассажира ST3 Блок предохранителей 3 SF9 -Предохранитель 9 в блоке предохранителей 573 sFr 57 57 F ф 2 SF11 - Предохранит",
+      "subsystem": "",
+      "part_number": "203204205",
+      "source_url": "",
+      "source": "manual:chunks-manual-audi_q5.md"
+    }
+  ],
+  "parts_total_original": 318,
+  "parts_capped": true
+}

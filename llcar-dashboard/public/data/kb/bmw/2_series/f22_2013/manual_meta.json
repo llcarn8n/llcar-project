@@ -1,0 +1,13 @@
+{
+  "brand": "bmw",
+  "model": "2_series",
+  "source_path_rel": "bmw/models/2_series/",
+  "manual_md_size": 120042662,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-db6f17.md",
+    "manual-iii_f78_2024_2025.md",
+    "manual-iii_f78_2024_2025_2.md"
+  ]
+}

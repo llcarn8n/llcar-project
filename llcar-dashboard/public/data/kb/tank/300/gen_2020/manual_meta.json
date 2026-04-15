@@ -1,0 +1,14 @@
+{
+  "brand": "tank",
+  "model": "300",
+  "source_path_rel": "tank/models/300/",
+  "manual_md_size": 7560466,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-19bfd1.md",
+    "manual-300-ii_2023_н_в.md",
+    "manual-e6809d.md",
+    "manual-tank_300.md"
+  ]
+}

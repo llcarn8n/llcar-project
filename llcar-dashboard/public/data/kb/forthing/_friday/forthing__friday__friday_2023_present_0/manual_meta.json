@@ -1,0 +1,15 @@
+{
+  "brand": "forthing",
+  "model": "_friday",
+  "source_path_rel": "forthing/models/_friday/",
+  "manual_md_size": 961980,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-26aac2.md",
+    "manual-friday-forthing_friday.md",
+    "manual-friday-forthing_friday_2.md",
+    "manual-friday.md",
+    "manual-friday_rhd-forthing_friday_rhd.md"
+  ]
+}

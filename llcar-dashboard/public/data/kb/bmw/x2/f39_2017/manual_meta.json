@@ -1,0 +1,13 @@
+{
+  "brand": "bmw",
+  "model": "x2",
+  "source_path_rel": "bmw/models/x2/",
+  "manual_md_size": 96075244,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-f470ba.md",
+    "manual-ii_u10_2023_2026.md",
+    "manual-ii_u10_2023_2026_2.md"
+  ]
+}

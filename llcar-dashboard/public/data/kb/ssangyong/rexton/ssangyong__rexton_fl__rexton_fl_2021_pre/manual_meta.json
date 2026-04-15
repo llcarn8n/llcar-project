@@ -1,0 +1,17 @@
+{
+  "brand": "ssangyong",
+  "model": "rexton",
+  "source_path_rel": "ssangyong/models/rexton/",
+  "manual_md_size": 1493094,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-bc7e0d.md",
+    "manual-d5fa4f--v2.md",
+    "manual-ocr--v1.md",
+    "manual-ocr--v2.md",
+    "manual-rexton.md",
+    "manual-ru_reocr--v2.md",
+    "manual-v2.md"
+  ]
+}

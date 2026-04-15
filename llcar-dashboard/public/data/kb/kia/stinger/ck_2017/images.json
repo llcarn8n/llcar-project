@@ -1,0 +1,2342 @@
+[
+  {
+    "filename": "0021d8be5feea8e43248f2dd78284bc56b72a056ba2f53020cff89c4de1418ff.webp",
+    "size": 19434,
+    "source_rel": "kia/models/stinger/images/0021d8be5feea8e43248f2dd78284bc56b72a056ba2f53020cff89c4de1418ff.webp"
+  },
+  {
+    "filename": "00488086aa69ac590152eda3364a4457806bae2899840f14799a6210067d647e.webp",
+    "size": 3154,
+    "source_rel": "kia/models/stinger/images/00488086aa69ac590152eda3364a4457806bae2899840f14799a6210067d647e.webp"
+  },
+  {
+    "filename": "0068e3757d88e1eaca609934164f67f126eaed377363bae96421688e987771c1.webp",
+    "size": 13552,
+    "source_rel": "kia/models/stinger/images/0068e3757d88e1eaca609934164f67f126eaed377363bae96421688e987771c1.webp"
+  },
+  {
+    "filename": "02086cb5bbc64edc09caa838af9ed964d1a5428db5e25c3f5578fb30634aee9a.webp",
+    "size": 4504,
+    "source_rel": "kia/models/stinger/images/02086cb5bbc64edc09caa838af9ed964d1a5428db5e25c3f5578fb30634aee9a.webp"
+  },
+  {
+    "filename": "0255f4cb5586278950e8475874dd8ae2401c7c5c45cf4e2b0edf2e85fef4cf1d.webp",
+    "size": 4356,
+    "source_rel": "kia/models/stinger/images/0255f4cb5586278950e8475874dd8ae2401c7c5c45cf4e2b0edf2e85fef4cf1d.webp"
+  },
+  {
+    "filename": "035137491b2ee60b7f4b6697a9481e0d2a14b5823dc845875b60f55f0da171a1.webp",
+    "size": 23010,
+    "source_rel": "kia/models/stinger/images/035137491b2ee60b7f4b6697a9481e0d2a14b5823dc845875b60f55f0da171a1.webp"
+  },
+  {
+    "filename": "04c50dda2d244d94e8ca0b30f13e5c14751d63f81c1a8c4dd020c2fa248af55c.webp",
+    "size": 9780,
+    "source_rel": "kia/models/stinger/images/04c50dda2d244d94e8ca0b30f13e5c14751d63f81c1a8c4dd020c2fa248af55c.webp"
+  },
+  {
+    "filename": "04d39e305a91438ca385a896f085bc471543fa8793a30a5a57685158841f2e7d.webp",
+    "size": 22498,
+    "source_rel": "kia/models/stinger/images/04d39e305a91438ca385a896f085bc471543fa8793a30a5a57685158841f2e7d.webp"
+  },
+  {
+    "filename": "04e532676d0d5bd9b41efc998883725bce0fa63e7990d816b9a2c3b4e9a4ea56.webp",
+    "size": 57510,
+    "source_rel": "kia/models/stinger/images/04e532676d0d5bd9b41efc998883725bce0fa63e7990d816b9a2c3b4e9a4ea56.webp"
+  },
+  {
+    "filename": "05b927a6fe1b0e1faa9ffbf280037bcb8c7f24fb00db4f494cf10ce0ad37b1e6.webp",
+    "size": 9122,
+    "source_rel": "kia/models/stinger/images/05b927a6fe1b0e1faa9ffbf280037bcb8c7f24fb00db4f494cf10ce0ad37b1e6.webp"
+  },
+  {
+    "filename": "0600cf56482f27a712dfdb7179d1656937b5e189e6a32da6494f1c90a1ac5588.webp",
+    "size": 13956,
+    "source_rel": "kia/models/stinger/images/0600cf56482f27a712dfdb7179d1656937b5e189e6a32da6494f1c90a1ac5588.webp"
+  },
+  {
+    "filename": "06d3826af314b2cfe016ef6ce0d67f2b686bfc6664de891c07fe16e37555a931.webp",
+    "size": 3892,
+    "source_rel": "kia/models/stinger/images/06d3826af314b2cfe016ef6ce0d67f2b686bfc6664de891c07fe16e37555a931.webp"
+  },
+  {
+    "filename": "077b4e2b078f257f93cccc1080b564cc5cd09c3fdd4b4d46c62c329499fff5fd.webp",
+    "size": 5542,
+    "source_rel": "kia/models/stinger/images/077b4e2b078f257f93cccc1080b564cc5cd09c3fdd4b4d46c62c329499fff5fd.webp"
+  },
+  {
+    "filename": "085743fa2cd0f7986605ab2600a15141b77bd593055d32ed7d543b6fc68411b1.webp",
+    "size": 10346,
+    "source_rel": "kia/models/stinger/images/085743fa2cd0f7986605ab2600a15141b77bd593055d32ed7d543b6fc68411b1.webp"
+  },
+  {
+    "filename": "089e1900094d5663c96138f5bf18e49f276fe485ad60fa8feb7469bfca6b1bc2.webp",
+    "size": 13194,
+    "source_rel": "kia/models/stinger/images/089e1900094d5663c96138f5bf18e49f276fe485ad60fa8feb7469bfca6b1bc2.webp"
+  },
+  {
+    "filename": "08c7283041dc6930d457ed1c7d428c817e8bdcd6134aafae9d6297c93ea9eb2c.webp",
+    "size": 20356,
+    "source_rel": "kia/models/stinger/images/08c7283041dc6930d457ed1c7d428c817e8bdcd6134aafae9d6297c93ea9eb2c.webp"
+  },
+  {
+    "filename": "090606d17ceb75dce22dc12da794b0b5f02a8b2641e012d75e238344ec8f64ba.webp",
+    "size": 127928,
+    "source_rel": "kia/models/stinger/images/090606d17ceb75dce22dc12da794b0b5f02a8b2641e012d75e238344ec8f64ba.webp"
+  },
+  {
+    "filename": "093f7f70ceeee9b9f6fe3c7500f31199d7f228fe6b29d5e1d00c96bdc9325774.webp",
+    "size": 15254,
+    "source_rel": "kia/models/stinger/images/093f7f70ceeee9b9f6fe3c7500f31199d7f228fe6b29d5e1d00c96bdc9325774.webp"
+  },
+  {
+    "filename": "09710cbf7c0aa25a5b52caeac9d74290e9e1748af706c4e4af8002c1d8390af7.webp",
+    "size": 30380,
+    "source_rel": "kia/models/stinger/images/09710cbf7c0aa25a5b52caeac9d74290e9e1748af706c4e4af8002c1d8390af7.webp"
+  },
+  {
+    "filename": "0a6e3f3ab1db5fdf766d8bedde02575410595b4e5fa1898b79140cc848644de5.webp",
+    "size": 13018,
+    "source_rel": "kia/models/stinger/images/0a6e3f3ab1db5fdf766d8bedde02575410595b4e5fa1898b79140cc848644de5.webp"
+  },
+  {
+    "filename": "0a8e12801e6921d126a26d730cf4b4b46b0aad659e32ab76dd7c6ffaaf0b4919.webp",
+    "size": 3696,
+    "source_rel": "kia/models/stinger/images/0a8e12801e6921d126a26d730cf4b4b46b0aad659e32ab76dd7c6ffaaf0b4919.webp"
+  },
+  {
+    "filename": "0b0d4b4450327be5cab13886603fce48afe8f1d4e6b44bb6b2830e56a92ce585.webp",
+    "size": 19878,
+    "source_rel": "kia/models/stinger/images/0b0d4b4450327be5cab13886603fce48afe8f1d4e6b44bb6b2830e56a92ce585.webp"
+  },
+  {
+    "filename": "0c89c2bc8858fe5c146c90618f93af9e87031f0f6bce8a3e436b4ce7eae9684e.webp",
+    "size": 18998,
+    "source_rel": "kia/models/stinger/images/0c89c2bc8858fe5c146c90618f93af9e87031f0f6bce8a3e436b4ce7eae9684e.webp"
+  },
+  {
+    "filename": "0d6d3aff52c787643fe9f3d5163918ade3a02d5b6f4a3a7aa90dd6b84e2aeb64.webp",
+    "size": 956,
+    "source_rel": "kia/models/stinger/images/0d6d3aff52c787643fe9f3d5163918ade3a02d5b6f4a3a7aa90dd6b84e2aeb64.webp"
+  },
+  {
+    "filename": "0d852a9d249511c66f4ddb901acb689ab2332a9ae3ef7f4c8d5700144712f8fa.webp",
+    "size": 23000,
+    "source_rel": "kia/models/stinger/images/0d852a9d249511c66f4ddb901acb689ab2332a9ae3ef7f4c8d5700144712f8fa.webp"
+  },
+  {
+    "filename": "0eed38b8da4bce999d1915a8a7e9a9422c791124a242fcaf890f5b247213cb71.webp",
+    "size": 1654,
+    "source_rel": "kia/models/stinger/images/0eed38b8da4bce999d1915a8a7e9a9422c791124a242fcaf890f5b247213cb71.webp"
+  },
+  {
+    "filename": "0f0bae72ddf7584b8a1aff35975041c4294bb2793dd76da4c82ba155b9c95ce6.webp",
+    "size": 14606,
+    "source_rel": "kia/models/stinger/images/0f0bae72ddf7584b8a1aff35975041c4294bb2793dd76da4c82ba155b9c95ce6.webp"
+  },
+  {
+    "filename": "0f2c00914dca46b16916a82200f73cb41e25ed1ef61e8283f095951e364394f9.webp",
+    "size": 72762,
+    "source_rel": "kia/models/stinger/images/0f2c00914dca46b16916a82200f73cb41e25ed1ef61e8283f095951e364394f9.webp"
+  },
+  {
+    "filename": "0f31a41c9aa761ab8e07850f2991a3e6ff26f96f1d622b8e3b1c817010f93fa6.webp",
+    "size": 3414,
+    "source_rel": "kia/models/stinger/images/0f31a41c9aa761ab8e07850f2991a3e6ff26f96f1d622b8e3b1c817010f93fa6.webp"
+  },
+  {
+    "filename": "0fa8bc595da18c751b6fcdf346b08fc46f2fb39b6247127dbad72ef51acada05.webp",
+    "size": 12698,
+    "source_rel": "kia/models/stinger/images/0fa8bc595da18c751b6fcdf346b08fc46f2fb39b6247127dbad72ef51acada05.webp"
+  },
+  {
+    "filename": "0fd9302b84a616e66cb7eac67b019af669f2b924dd2212680f7967c2d525f954.webp",
+    "size": 34400,
+    "source_rel": "kia/models/stinger/images/0fd9302b84a616e66cb7eac67b019af669f2b924dd2212680f7967c2d525f954.webp"
+  },
+  {
+    "filename": "10bb5a3f0e3b90088342b6e3bf8d3028964fe498a37a5e45800fdeda61dd885f.webp",
+    "size": 34518,
+    "source_rel": "kia/models/stinger/images/10bb5a3f0e3b90088342b6e3bf8d3028964fe498a37a5e45800fdeda61dd885f.webp"
+  },
+  {
+    "filename": "10d8b31f95eb450538fea587ec6306a52b9d99ef0d706b154f572627b2ac5165.webp",
+    "size": 15680,
+    "source_rel": "kia/models/stinger/images/10d8b31f95eb450538fea587ec6306a52b9d99ef0d706b154f572627b2ac5165.webp"
+  },
+  {
+    "filename": "10fbfc19f4d64d4daa7f675aa618a78a39c605c79ee9caf7004ff2d237a1d4ac.webp",
+    "size": 5570,
+    "source_rel": "kia/models/stinger/images/10fbfc19f4d64d4daa7f675aa618a78a39c605c79ee9caf7004ff2d237a1d4ac.webp"
+  },
+  {
+    "filename": "111ce0b99b131a2865e44dc341315c54a63460f80169c72d155851261d83ef33.webp",
+    "size": 44044,
+    "source_rel": "kia/models/stinger/images/111ce0b99b131a2865e44dc341315c54a63460f80169c72d155851261d83ef33.webp"
+  },
+  {
+    "filename": "1163db0e4b117dc58ebb92822a3673fc9e2051999d1211c704e74d5ea2d4988c.webp",
+    "size": 18314,
+    "source_rel": "kia/models/stinger/images/1163db0e4b117dc58ebb92822a3673fc9e2051999d1211c704e74d5ea2d4988c.webp"
+  },
+  {
+    "filename": "118dfb72bbd19e0435cb7d828cef0f8ecd6ce8bb2eb487eb8bdd8f3195c4e667.webp",
+    "size": 13068,
+    "source_rel": "kia/models/stinger/images/118dfb72bbd19e0435cb7d828cef0f8ecd6ce8bb2eb487eb8bdd8f3195c4e667.webp"
+  },
+  {
+    "filename": "11a78484b591ee28f9ad990513e3e5eafa18bb0f8335aa1e1f0298b7e3c3f950.webp",
+    "size": 12208,
+    "source_rel": "kia/models/stinger/images/11a78484b591ee28f9ad990513e3e5eafa18bb0f8335aa1e1f0298b7e3c3f950.webp"
+  },
+  {
+    "filename": "12db00041cb860e047487af9565b925afb80340935c41b2ff69c428751ceebc7.webp",
+    "size": 11332,
+    "source_rel": "kia/models/stinger/images/12db00041cb860e047487af9565b925afb80340935c41b2ff69c428751ceebc7.webp"
+  },
+  {
+    "filename": "13cd1f013e2e965701b610bf7aa96ee510085907af6ba952b7dd0bdc6d961b1f.webp",
+    "size": 12218,
+    "source_rel": "kia/models/stinger/images/13cd1f013e2e965701b610bf7aa96ee510085907af6ba952b7dd0bdc6d961b1f.webp"
+  },
+  {
+    "filename": "13e4d07ed75e361e1135059391c0c9f2543a5f311ad5c011f23c13c702458f2b.webp",
+    "size": 27574,
+    "source_rel": "kia/models/stinger/images/13e4d07ed75e361e1135059391c0c9f2543a5f311ad5c011f23c13c702458f2b.webp"
+  },
+  {
+    "filename": "1486b8ee55fec440bccb20f28a2ddc3683bcedf5de92263210eae50679724956.webp",
+    "size": 17288,
+    "source_rel": "kia/models/stinger/images/1486b8ee55fec440bccb20f28a2ddc3683bcedf5de92263210eae50679724956.webp"
+  },
+  {
+    "filename": "1643bc0c1455821f73805c536606bbf67909db935b72d6759c4b7a5491319bec.webp",
+    "size": 4046,
+    "source_rel": "kia/models/stinger/images/1643bc0c1455821f73805c536606bbf67909db935b72d6759c4b7a5491319bec.webp"
+  },
+  {
+    "filename": "16622be8c936dddabefad551d68b8ff91b0aaba448960f89ec8ae01015f4a1cd.webp",
+    "size": 8352,
+    "source_rel": "kia/models/stinger/images/16622be8c936dddabefad551d68b8ff91b0aaba448960f89ec8ae01015f4a1cd.webp"
+  },
+  {
+    "filename": "16753657a03bac97e6c3af186bd69b30f75fd477e7f2b8b6444b6b2fe0c776f1.webp",
+    "size": 15550,
+    "source_rel": "kia/models/stinger/images/16753657a03bac97e6c3af186bd69b30f75fd477e7f2b8b6444b6b2fe0c776f1.webp"
+  },
+  {
+    "filename": "1675f15703f0eed501e256f97a5cffbced2f071b4068b32eefe90620776789a3.webp",
+    "size": 7970,
+    "source_rel": "kia/models/stinger/images/1675f15703f0eed501e256f97a5cffbced2f071b4068b32eefe90620776789a3.webp"
+  },
+  {
+    "filename": "16d5727081ada6c586ef5ab73b0850d00d6c8c3969c184613008d3599756bdcc.webp",
+    "size": 26100,
+    "source_rel": "kia/models/stinger/images/16d5727081ada6c586ef5ab73b0850d00d6c8c3969c184613008d3599756bdcc.webp"
+  },
+  {
+    "filename": "17cdbbcccecceae619a57b08a087b7112fa15f72facfb0011b412536a1da1473.webp",
+    "size": 42994,
+    "source_rel": "kia/models/stinger/images/17cdbbcccecceae619a57b08a087b7112fa15f72facfb0011b412536a1da1473.webp"
+  },
+  {
+    "filename": "17fc3d77647628a9bc66162524d25b865d6fe78c709fbcbddf75116d81f0a76a.webp",
+    "size": 9132,
+    "source_rel": "kia/models/stinger/images/17fc3d77647628a9bc66162524d25b865d6fe78c709fbcbddf75116d81f0a76a.webp"
+  },
+  {
+    "filename": "18c49795c2681765e0dbbcde18647e4fdea72653a15f9a683f11943e4b35f857.webp",
+    "size": 15470,
+    "source_rel": "kia/models/stinger/images/18c49795c2681765e0dbbcde18647e4fdea72653a15f9a683f11943e4b35f857.webp"
+  },
+  {
+    "filename": "18cbe071d371b5b8b754c2c8b12dc917dcab42e2cdf63fdbb423d0f889172f48.webp",
+    "size": 14982,
+    "source_rel": "kia/models/stinger/images/18cbe071d371b5b8b754c2c8b12dc917dcab42e2cdf63fdbb423d0f889172f48.webp"
+  },
+  {
+    "filename": "18feff5142ede7f0c32c21997f79e217ef20393130cccf4495888825991b5d96.webp",
+    "size": 25638,
+    "source_rel": "kia/models/stinger/images/18feff5142ede7f0c32c21997f79e217ef20393130cccf4495888825991b5d96.webp"
+  },
+  {
+    "filename": "1962a1bab43d0026d490b81b1cf6e873d270da3afb4db3ccda1a0a16e84a9c07.webp",
+    "size": 3486,
+    "source_rel": "kia/models/stinger/images/1962a1bab43d0026d490b81b1cf6e873d270da3afb4db3ccda1a0a16e84a9c07.webp"
+  },
+  {
+    "filename": "1a330997cf44ff4e435b7cacf62d27d15c8f660f339ac4626b66486957e89aa5.webp",
+    "size": 21794,
+    "source_rel": "kia/models/stinger/images/1a330997cf44ff4e435b7cacf62d27d15c8f660f339ac4626b66486957e89aa5.webp"
+  },
+  {
+    "filename": "1a4dff972fda225d96c61ad3bc23fa652045e28591d998f3d6c4faad332a90c9.webp",
+    "size": 11570,
+    "source_rel": "kia/models/stinger/images/1a4dff972fda225d96c61ad3bc23fa652045e28591d998f3d6c4faad332a90c9.webp"
+  },
+  {
+    "filename": "1ad2ad77af5c49612bf684a7f030397c41d4af6d5e28e5ac4edadaeaae03940d.webp",
+    "size": 5778,
+    "source_rel": "kia/models/stinger/images/1ad2ad77af5c49612bf684a7f030397c41d4af6d5e28e5ac4edadaeaae03940d.webp"
+  },
+  {
+    "filename": "1b3d5e8c074f3924ff8fcad74b79d3d0865ef66a96647c1b15e0384c6be4688d.webp",
+    "size": 15500,
+    "source_rel": "kia/models/stinger/images/1b3d5e8c074f3924ff8fcad74b79d3d0865ef66a96647c1b15e0384c6be4688d.webp"
+  },
+  {
+    "filename": "1b7ad45fcce3489b042b59690188865fa27941d278381813a99ce410ef27dac0.webp",
+    "size": 15308,
+    "source_rel": "kia/models/stinger/images/1b7ad45fcce3489b042b59690188865fa27941d278381813a99ce410ef27dac0.webp"
+  },
+  {
+    "filename": "1b7c01792311371eae218f0199deb9d34408d226b5aed051337691eaa33d9e2e.webp",
+    "size": 4486,
+    "source_rel": "kia/models/stinger/images/1b7c01792311371eae218f0199deb9d34408d226b5aed051337691eaa33d9e2e.webp"
+  },
+  {
+    "filename": "1bb94d1b35803faf82fea36517dbc9a1453519480fb0033f88446502922c6ea1.webp",
+    "size": 7744,
+    "source_rel": "kia/models/stinger/images/1bb94d1b35803faf82fea36517dbc9a1453519480fb0033f88446502922c6ea1.webp"
+  },
+  {
+    "filename": "1cac61237a12dd79b4e3c7714a6d26169bb9e08b8c7c2e517c2c4a0dee5ddd7d.webp",
+    "size": 9012,
+    "source_rel": "kia/models/stinger/images/1cac61237a12dd79b4e3c7714a6d26169bb9e08b8c7c2e517c2c4a0dee5ddd7d.webp"
+  },
+  {
+    "filename": "1cb86ba7465f2161f8c25d0a55172602594032927f1b24e9878106022f569279.webp",
+    "size": 14496,
+    "source_rel": "kia/models/stinger/images/1cb86ba7465f2161f8c25d0a55172602594032927f1b24e9878106022f569279.webp"
+  },
+  {
+    "filename": "1dc27b8a0b2541c829f424020b2a20a99f7bc24952763bb7aaa642b1958ec2cc.webp",
+    "size": 4134,
+    "source_rel": "kia/models/stinger/images/1dc27b8a0b2541c829f424020b2a20a99f7bc24952763bb7aaa642b1958ec2cc.webp"
+  },
+  {
+    "filename": "1dcd5e3d71cb4463221ff17877ab4d8023b08e38969d5803d0e4860cafc2545b.webp",
+    "size": 1564,
+    "source_rel": "kia/models/stinger/images/1dcd5e3d71cb4463221ff17877ab4d8023b08e38969d5803d0e4860cafc2545b.webp"
+  },
+  {
+    "filename": "1df5056f911ed4912e9d0c29dee83075f6564f1b19cba826bfebca73ce9653bd.webp",
+    "size": 8842,
+    "source_rel": "kia/models/stinger/images/1df5056f911ed4912e9d0c29dee83075f6564f1b19cba826bfebca73ce9653bd.webp"
+  },
+  {
+    "filename": "1df7a74e20b823ebccfef40414753665ad676a9cf974667cd72b28e9a0fc9522.webp",
+    "size": 9578,
+    "source_rel": "kia/models/stinger/images/1df7a74e20b823ebccfef40414753665ad676a9cf974667cd72b28e9a0fc9522.webp"
+  },
+  {
+    "filename": "1e0c863501cdcd11435e3a376072a8a766ffe05f52a85129a7ca35fdb8ab31e4.webp",
+    "size": 24608,
+    "source_rel": "kia/models/stinger/images/1e0c863501cdcd11435e3a376072a8a766ffe05f52a85129a7ca35fdb8ab31e4.webp"
+  },
+  {
+    "filename": "1e26b1b3c955e644e9fd2ed805078839efb9bc26c95fa1818ad6b39595f2eca7.webp",
+    "size": 616,
+    "source_rel": "kia/models/stinger/images/1e26b1b3c955e644e9fd2ed805078839efb9bc26c95fa1818ad6b39595f2eca7.webp"
+  },
+  {
+    "filename": "1efdcc5543161f84f7deae30a577501406f1d3b147722bb8f63ab6dfa0b1a5d2.webp",
+    "size": 12568,
+    "source_rel": "kia/models/stinger/images/1efdcc5543161f84f7deae30a577501406f1d3b147722bb8f63ab6dfa0b1a5d2.webp"
+  },
+  {
+    "filename": "1f4098f996992bf38fb7394fca714b4965fdd7c574ebd3043505bd9bc7e1196a.webp",
+    "size": 13476,
+    "source_rel": "kia/models/stinger/images/1f4098f996992bf38fb7394fca714b4965fdd7c574ebd3043505bd9bc7e1196a.webp"
+  },
+  {
+    "filename": "201d4b1228c8f9725c65b3561befc86f815dd42b33de90d8e80c720fd2032082.webp",
+    "size": 2644,
+    "source_rel": "kia/models/stinger/images/201d4b1228c8f9725c65b3561befc86f815dd42b33de90d8e80c720fd2032082.webp"
+  },
+  {
+    "filename": "20ba719fcdd83af5ca1fefb76b7d5838730ddcd9d5357994c4d5e0c0a0e1352a.webp",
+    "size": 10010,
+    "source_rel": "kia/models/stinger/images/20ba719fcdd83af5ca1fefb76b7d5838730ddcd9d5357994c4d5e0c0a0e1352a.webp"
+  },
+  {
+    "filename": "21f64cb747941f6c864f25583c57102fdb951cf3ee43152c545a0a73beb1897b.webp",
+    "size": 25024,
+    "source_rel": "kia/models/stinger/images/21f64cb747941f6c864f25583c57102fdb951cf3ee43152c545a0a73beb1897b.webp"
+  },
+  {
+    "filename": "238839899e03677d575f9b4e3980488764b242c571c0de512b69001137e8f325.webp",
+    "size": 18668,
+    "source_rel": "kia/models/stinger/images/238839899e03677d575f9b4e3980488764b242c571c0de512b69001137e8f325.webp"
+  },
+  {
+    "filename": "243f76f42905ba21d57c752f7870f469feb67f64aef8f93f414854811d7ebef2.webp",
+    "size": 4692,
+    "source_rel": "kia/models/stinger/images/243f76f42905ba21d57c752f7870f469feb67f64aef8f93f414854811d7ebef2.webp"
+  },
+  {
+    "filename": "25c9b643376b02f5846a368618b5f5d452040658081cfe145ee5f305d4a0b460.webp",
+    "size": 7180,
+    "source_rel": "kia/models/stinger/images/25c9b643376b02f5846a368618b5f5d452040658081cfe145ee5f305d4a0b460.webp"
+  },
+  {
+    "filename": "263c5f5b9738a06ebdaf684d0c7fe9f425147467728662b150203f753c4851c0.webp",
+    "size": 15736,
+    "source_rel": "kia/models/stinger/images/263c5f5b9738a06ebdaf684d0c7fe9f425147467728662b150203f753c4851c0.webp"
+  },
+  {
+    "filename": "26d47037a926b9e665e41200caaf5c7aedf2ed76e34329cf0d50ac761ad40bb9.webp",
+    "size": 14622,
+    "source_rel": "kia/models/stinger/images/26d47037a926b9e665e41200caaf5c7aedf2ed76e34329cf0d50ac761ad40bb9.webp"
+  },
+  {
+    "filename": "276f9c85d37cdf5e489221dd8ad91b3ce00280aad8892a57757398dd1d721434.webp",
+    "size": 3716,
+    "source_rel": "kia/models/stinger/images/276f9c85d37cdf5e489221dd8ad91b3ce00280aad8892a57757398dd1d721434.webp"
+  },
+  {
+    "filename": "277a0d1a6ce4f4ca7dc6f688483e4cbbd2f86b6169fcb91275e24e8603be31f2.webp",
+    "size": 12986,
+    "source_rel": "kia/models/stinger/images/277a0d1a6ce4f4ca7dc6f688483e4cbbd2f86b6169fcb91275e24e8603be31f2.webp"
+  },
+  {
+    "filename": "27b5ebb0ffb005fab563d186c6a50deae13b1c9561ff3e984bc98b3b2779b049.webp",
+    "size": 15544,
+    "source_rel": "kia/models/stinger/images/27b5ebb0ffb005fab563d186c6a50deae13b1c9561ff3e984bc98b3b2779b049.webp"
+  },
+  {
+    "filename": "282a9d521d13cd03dc52cd9b012e91cea0e4a419519dc90c528ebb85800d7bb1.webp",
+    "size": 8156,
+    "source_rel": "kia/models/stinger/images/282a9d521d13cd03dc52cd9b012e91cea0e4a419519dc90c528ebb85800d7bb1.webp"
+  },
+  {
+    "filename": "2841fe2f7792a339cee028523fb55162d1a0793993788ea6b5de83543709107c.webp",
+    "size": 4022,
+    "source_rel": "kia/models/stinger/images/2841fe2f7792a339cee028523fb55162d1a0793993788ea6b5de83543709107c.webp"
+  },
+  {
+    "filename": "28473501973f4773a898338126368832b9c8029fb715e651d11de2bebb1a8a83.webp",
+    "size": 7906,
+    "source_rel": "kia/models/stinger/images/28473501973f4773a898338126368832b9c8029fb715e651d11de2bebb1a8a83.webp"
+  },
+  {
+    "filename": "2872c42d8a3cc2ff64771201a7fb1cae346f900bd1360d2fe25b2b4f7fd06a0b.webp",
+    "size": 24790,
+    "source_rel": "kia/models/stinger/images/2872c42d8a3cc2ff64771201a7fb1cae346f900bd1360d2fe25b2b4f7fd06a0b.webp"
+  },
+  {
+    "filename": "28c23563b1b821e11f03129e6db55926637c68bc8722e408ff3f31a3283e7b0f.webp",
+    "size": 16560,
+    "source_rel": "kia/models/stinger/images/28c23563b1b821e11f03129e6db55926637c68bc8722e408ff3f31a3283e7b0f.webp"
+  },
+  {
+    "filename": "2a39527dfeb19c01343b7c9c6dbff9bc2afc306c70806a54cf05cac9f91eecce.webp",
+    "size": 34846,
+    "source_rel": "kia/models/stinger/images/2a39527dfeb19c01343b7c9c6dbff9bc2afc306c70806a54cf05cac9f91eecce.webp"
+  },
+  {
+    "filename": "2ae6111bcdf303f6940b32028b85f5b9eb42188df0f7a5bc24bc7bb69352f5cf.webp",
+    "size": 22606,
+    "source_rel": "kia/models/stinger/images/2ae6111bcdf303f6940b32028b85f5b9eb42188df0f7a5bc24bc7bb69352f5cf.webp"
+  },
+  {
+    "filename": "2b14a6ded2443349293210083cac9c8282b21c9b7f6553d9c8cbef2304878ccc.webp",
+    "size": 18644,
+    "source_rel": "kia/models/stinger/images/2b14a6ded2443349293210083cac9c8282b21c9b7f6553d9c8cbef2304878ccc.webp"
+  },
+  {
+    "filename": "2b4113a45bd573c268b5f2a59d41197448db4a7ccc15b876ea30125ae3283b87.webp",
+    "size": 1398,
+    "source_rel": "kia/models/stinger/images/2b4113a45bd573c268b5f2a59d41197448db4a7ccc15b876ea30125ae3283b87.webp"
+  },
+  {
+    "filename": "2be68401506f5b1e2bff68cd26c83987ef104c4d1f46c1c76f123fb16d6b0447.webp",
+    "size": 14602,
+    "source_rel": "kia/models/stinger/images/2be68401506f5b1e2bff68cd26c83987ef104c4d1f46c1c76f123fb16d6b0447.webp"
+  },
+  {
+    "filename": "2cd49113ef6fd1335dbbad3712eb78e85eebe10e64f1a474d0cf01e75ac691ea.webp",
+    "size": 6484,
+    "source_rel": "kia/models/stinger/images/2cd49113ef6fd1335dbbad3712eb78e85eebe10e64f1a474d0cf01e75ac691ea.webp"
+  },
+  {
+    "filename": "2d163aadec13e21d2cdb4d5be7543d1919170ec989d1409aebfcc8a6d5c4f2b4.webp",
+    "size": 22652,
+    "source_rel": "kia/models/stinger/images/2d163aadec13e21d2cdb4d5be7543d1919170ec989d1409aebfcc8a6d5c4f2b4.webp"
+  },
+  {
+    "filename": "2e23ebabb906bbcc6690c340da02f9937a7b1a2e4b1480f207b050d22b38198a.webp",
+    "size": 15152,
+    "source_rel": "kia/models/stinger/images/2e23ebabb906bbcc6690c340da02f9937a7b1a2e4b1480f207b050d22b38198a.webp"
+  },
+  {
+    "filename": "2fe4414670f9d834919f6427e7d644945948ef9a27fe8e0bb7b4219983e25c2c.webp",
+    "size": 17164,
+    "source_rel": "kia/models/stinger/images/2fe4414670f9d834919f6427e7d644945948ef9a27fe8e0bb7b4219983e25c2c.webp"
+  },
+  {
+    "filename": "305316e82ee21f596006b7b4925977e9f7e4beb9e894ce64052146d9cd246567.webp",
+    "size": 13984,
+    "source_rel": "kia/models/stinger/images/305316e82ee21f596006b7b4925977e9f7e4beb9e894ce64052146d9cd246567.webp"
+  },
+  {
+    "filename": "31649f79d77029e225b9038634e0603f585ec06f94aafbf718b6b92ec293b644.webp",
+    "size": 40524,
+    "source_rel": "kia/models/stinger/images/31649f79d77029e225b9038634e0603f585ec06f94aafbf718b6b92ec293b644.webp"
+  },
+  {
+    "filename": "31d42912002a035ad02c2837fe37983ae62ff7aa789fd3bade5f309757cdf753.webp",
+    "size": 8112,
+    "source_rel": "kia/models/stinger/images/31d42912002a035ad02c2837fe37983ae62ff7aa789fd3bade5f309757cdf753.webp"
+  },
+  {
+    "filename": "326becc85567343cb7ab0bea657b0b3d085e2b38450f95cce0a93ab0584c2a92.webp",
+    "size": 4166,
+    "source_rel": "kia/models/stinger/images/326becc85567343cb7ab0bea657b0b3d085e2b38450f95cce0a93ab0584c2a92.webp"
+  },
+  {
+    "filename": "32b5199ede8878b96a0b7602bd6c20b3c30693d244e26903ea1534ab1c857525.webp",
+    "size": 65956,
+    "source_rel": "kia/models/stinger/images/32b5199ede8878b96a0b7602bd6c20b3c30693d244e26903ea1534ab1c857525.webp"
+  },
+  {
+    "filename": "33120293f6238f79b63aa7e797979318a98a77bf0e599b612a12a52400ab05cc.webp",
+    "size": 9046,
+    "source_rel": "kia/models/stinger/images/33120293f6238f79b63aa7e797979318a98a77bf0e599b612a12a52400ab05cc.webp"
+  },
+  {
+    "filename": "33aaa9511ac632e4052dbb033bc237060cf7e26a0d238325118df94e33d2a2db.webp",
+    "size": 16956,
+    "source_rel": "kia/models/stinger/images/33aaa9511ac632e4052dbb033bc237060cf7e26a0d238325118df94e33d2a2db.webp"
+  },
+  {
+    "filename": "340e8e9de1f9264082e76b0568b0a45d2dca60574f3a5cc0247290bac663b2df.webp",
+    "size": 5858,
+    "source_rel": "kia/models/stinger/images/340e8e9de1f9264082e76b0568b0a45d2dca60574f3a5cc0247290bac663b2df.webp"
+  },
+  {
+    "filename": "3463d95d7e5fc1ee1d8a67fddac635365062c6b30354f3f43ea80d887fc7fc33.webp",
+    "size": 20664,
+    "source_rel": "kia/models/stinger/images/3463d95d7e5fc1ee1d8a67fddac635365062c6b30354f3f43ea80d887fc7fc33.webp"
+  },
+  {
+    "filename": "35266e43c78f3b71ddf4eaeea6d962ec605557506dfd315507a349cf00c8055d.webp",
+    "size": 12266,
+    "source_rel": "kia/models/stinger/images/35266e43c78f3b71ddf4eaeea6d962ec605557506dfd315507a349cf00c8055d.webp"
+  },
+  {
+    "filename": "3551452d8dcc9fb5a53cb5f38ae277e15b88c08a01235be970b664bb010bdc62.webp",
+    "size": 10236,
+    "source_rel": "kia/models/stinger/images/3551452d8dcc9fb5a53cb5f38ae277e15b88c08a01235be970b664bb010bdc62.webp"
+  },
+  {
+    "filename": "35aaea3d8f3676ff5f7a2d8e350b6f1c61b46005fb0c35d2cc281d1f574c41d8.webp",
+    "size": 7390,
+    "source_rel": "kia/models/stinger/images/35aaea3d8f3676ff5f7a2d8e350b6f1c61b46005fb0c35d2cc281d1f574c41d8.webp"
+  },
+  {
+    "filename": "35cf77ebf2909accb3e4d6be7edbad6a3dcade5bc945c2ba655512a092dad255.webp",
+    "size": 19966,
+    "source_rel": "kia/models/stinger/images/35cf77ebf2909accb3e4d6be7edbad6a3dcade5bc945c2ba655512a092dad255.webp"
+  },
+  {
+    "filename": "3640f0ffead4da71c224cc959e513cfca179a4e79b0e647e10d9bc41540d7663.webp",
+    "size": 21228,
+    "source_rel": "kia/models/stinger/images/3640f0ffead4da71c224cc959e513cfca179a4e79b0e647e10d9bc41540d7663.webp"
+  },
+  {
+    "filename": "37cd1ea2e26f9106ace85bcbdbe2d7cb03e9ac1d82f95c15e06c318b64cda079.webp",
+    "size": 13832,
+    "source_rel": "kia/models/stinger/images/37cd1ea2e26f9106ace85bcbdbe2d7cb03e9ac1d82f95c15e06c318b64cda079.webp"
+  },
+  {
+    "filename": "387af5fa7ddfbeaba352cf2ec2486bc0b5c958be339886e5082b71332d56ae0e.webp",
+    "size": 47226,
+    "source_rel": "kia/models/stinger/images/387af5fa7ddfbeaba352cf2ec2486bc0b5c958be339886e5082b71332d56ae0e.webp"
+  },
+  {
+    "filename": "38c9e1c2918882bfd96006f2a1f09462c509ce84f5372aff54b344a4d66eaf04.webp",
+    "size": 7914,
+    "source_rel": "kia/models/stinger/images/38c9e1c2918882bfd96006f2a1f09462c509ce84f5372aff54b344a4d66eaf04.webp"
+  },
+  {
+    "filename": "38e6a07a7254c2620aab8b5fedbb817c158552686a6ec1c64902e96c9ee914ad.webp",
+    "size": 14190,
+    "source_rel": "kia/models/stinger/images/38e6a07a7254c2620aab8b5fedbb817c158552686a6ec1c64902e96c9ee914ad.webp"
+  },
+  {
+    "filename": "39ab3265f7f613737515ad50ff948363dc359bb143ebb4b411e55ab686e2ecae.webp",
+    "size": 13704,
+    "source_rel": "kia/models/stinger/images/39ab3265f7f613737515ad50ff948363dc359bb143ebb4b411e55ab686e2ecae.webp"
+  },
+  {
+    "filename": "39df8b8f45464b09a43fb1f08d3a378437ade4e95c7923f3c0080651f2316349.webp",
+    "size": 11562,
+    "source_rel": "kia/models/stinger/images/39df8b8f45464b09a43fb1f08d3a378437ade4e95c7923f3c0080651f2316349.webp"
+  },
+  {
+    "filename": "3a560444b38f920e2addc9b3d2371014009dd72e903f3f59bf3b1c53c6a89137.webp",
+    "size": 17524,
+    "source_rel": "kia/models/stinger/images/3a560444b38f920e2addc9b3d2371014009dd72e903f3f59bf3b1c53c6a89137.webp"
+  },
+  {
+    "filename": "3ab9bafca783a060fea8db2f3c5f09668745bb2d5228d58b36d05d4c031b0a97.webp",
+    "size": 56636,
+    "source_rel": "kia/models/stinger/images/3ab9bafca783a060fea8db2f3c5f09668745bb2d5228d58b36d05d4c031b0a97.webp"
+  },
+  {
+    "filename": "3bf101595e50dc1f043246bc81d93298530fc46a4bc98c14a896d17beab408f0.webp",
+    "size": 4842,
+    "source_rel": "kia/models/stinger/images/3bf101595e50dc1f043246bc81d93298530fc46a4bc98c14a896d17beab408f0.webp"
+  },
+  {
+    "filename": "3c5d40587e916281014527f9a07d4abb3ef0822fa7765cdec2ae9967c7d422eb.webp",
+    "size": 32432,
+    "source_rel": "kia/models/stinger/images/3c5d40587e916281014527f9a07d4abb3ef0822fa7765cdec2ae9967c7d422eb.webp"
+  },
+  {
+    "filename": "3ca1cf7ddad9628d92550c975695294a5ba6222d94a1d177c40b8d55b6521c0f.webp",
+    "size": 8866,
+    "source_rel": "kia/models/stinger/images/3ca1cf7ddad9628d92550c975695294a5ba6222d94a1d177c40b8d55b6521c0f.webp"
+  },
+  {
+    "filename": "3cbe31a38232f810f20d67273eacb0aaa6077838db25c51a6706a06ec34ec03d.webp",
+    "size": 25390,
+    "source_rel": "kia/models/stinger/images/3cbe31a38232f810f20d67273eacb0aaa6077838db25c51a6706a06ec34ec03d.webp"
+  },
+  {
+    "filename": "3ce2b5ac849873fbe479521d0b8a4d3ba524e9eca08a8dd3b67b34819156fee2.webp",
+    "size": 10970,
+    "source_rel": "kia/models/stinger/images/3ce2b5ac849873fbe479521d0b8a4d3ba524e9eca08a8dd3b67b34819156fee2.webp"
+  },
+  {
+    "filename": "3d0a1c7b798a716bd8174279501131e574e764b5113d0ace9987c6f7b5ad58fb.webp",
+    "size": 27306,
+    "source_rel": "kia/models/stinger/images/3d0a1c7b798a716bd8174279501131e574e764b5113d0ace9987c6f7b5ad58fb.webp"
+  },
+  {
+    "filename": "3e222ac91bb80e41c6500319670fa411f2408be768d4a66a2cf68267af7478c1.webp",
+    "size": 20804,
+    "source_rel": "kia/models/stinger/images/3e222ac91bb80e41c6500319670fa411f2408be768d4a66a2cf68267af7478c1.webp"
+  },
+  {
+    "filename": "3f1bb45fd420413b408f8f54af45061330e14f9adbbc94dab71ad75e6912319f.webp",
+    "size": 23570,
+    "source_rel": "kia/models/stinger/images/3f1bb45fd420413b408f8f54af45061330e14f9adbbc94dab71ad75e6912319f.webp"
+  },
+  {
+    "filename": "3f2f39488d32ff097b368778e409c116a6568825a9fabc91bc6547d0dcb7ec5f.webp",
+    "size": 15754,
+    "source_rel": "kia/models/stinger/images/3f2f39488d32ff097b368778e409c116a6568825a9fabc91bc6547d0dcb7ec5f.webp"
+  },
+  {
+    "filename": "3fc184212250d9fcf45d86c6da0fb6635c6580de401895938f9ae566164529c1.webp",
+    "size": 12526,
+    "source_rel": "kia/models/stinger/images/3fc184212250d9fcf45d86c6da0fb6635c6580de401895938f9ae566164529c1.webp"
+  },
+  {
+    "filename": "41a1e0ac154c6ea760b8450f17f8f884dd232b5be4b2147b08070b6554d02dbd.webp",
+    "size": 26640,
+    "source_rel": "kia/models/stinger/images/41a1e0ac154c6ea760b8450f17f8f884dd232b5be4b2147b08070b6554d02dbd.webp"
+  },
+  {
+    "filename": "42710addc898568eb8917e6c8874c75447009b1674e2b998eb4823a6e9fb3c27.webp",
+    "size": 31484,
+    "source_rel": "kia/models/stinger/images/42710addc898568eb8917e6c8874c75447009b1674e2b998eb4823a6e9fb3c27.webp"
+  },
+  {
+    "filename": "44a46ca8b40f63359adb729d26f3ecd1bfb75d350247184a5a0d4607ac2b04a9.webp",
+    "size": 17010,
+    "source_rel": "kia/models/stinger/images/44a46ca8b40f63359adb729d26f3ecd1bfb75d350247184a5a0d4607ac2b04a9.webp"
+  },
+  {
+    "filename": "4533d6be33be5f8249e745819e2bb2ded88fd5a6ed10c158c5e5fc9cfa15fe22.webp",
+    "size": 4190,
+    "source_rel": "kia/models/stinger/images/4533d6be33be5f8249e745819e2bb2ded88fd5a6ed10c158c5e5fc9cfa15fe22.webp"
+  },
+  {
+    "filename": "453e2c3f158222f112441e9f09bb82061cdb92ac58e18149dc497857402f23d8.webp",
+    "size": 15452,
+    "source_rel": "kia/models/stinger/images/453e2c3f158222f112441e9f09bb82061cdb92ac58e18149dc497857402f23d8.webp"
+  },
+  {
+    "filename": "454ba2399569daa00d8f2f21f1910ff2b23ac1f0b39462299278ecfbc4653b18.webp",
+    "size": 21944,
+    "source_rel": "kia/models/stinger/images/454ba2399569daa00d8f2f21f1910ff2b23ac1f0b39462299278ecfbc4653b18.webp"
+  },
+  {
+    "filename": "4735af59fb63d7b35a900d01a2ff611e9656d221c510509c597571b6ac3cb5bd.webp",
+    "size": 4414,
+    "source_rel": "kia/models/stinger/images/4735af59fb63d7b35a900d01a2ff611e9656d221c510509c597571b6ac3cb5bd.webp"
+  },
+  {
+    "filename": "4860920c4a17efe3eaa5e5407373cde801d0d797ee70af327333747497a912e4.webp",
+    "size": 13226,
+    "source_rel": "kia/models/stinger/images/4860920c4a17efe3eaa5e5407373cde801d0d797ee70af327333747497a912e4.webp"
+  },
+  {
+    "filename": "496649e157cad66158d7e163cec8167a40b42afcf5d05a9593dd6b96c26929df.webp",
+    "size": 4352,
+    "source_rel": "kia/models/stinger/images/496649e157cad66158d7e163cec8167a40b42afcf5d05a9593dd6b96c26929df.webp"
+  },
+  {
+    "filename": "49734aef5073b53b50ece3ae701019e0a1918540e9c0cdb8c99cf7d892504929.webp",
+    "size": 34716,
+    "source_rel": "kia/models/stinger/images/49734aef5073b53b50ece3ae701019e0a1918540e9c0cdb8c99cf7d892504929.webp"
+  },
+  {
+    "filename": "4a35043e50ae4f1d5abb8ad1829008740baf69cb959bb68bc104eea616448f05.webp",
+    "size": 15608,
+    "source_rel": "kia/models/stinger/images/4a35043e50ae4f1d5abb8ad1829008740baf69cb959bb68bc104eea616448f05.webp"
+  },
+  {
+    "filename": "4aa20efc388049120c20ea8da2d45043eeed8ebe3a0bea0ec7c9d42efa7d4335.webp",
+    "size": 26280,
+    "source_rel": "kia/models/stinger/images/4aa20efc388049120c20ea8da2d45043eeed8ebe3a0bea0ec7c9d42efa7d4335.webp"
+  },
+  {
+    "filename": "4af3c80b64f22cddfb7c9553745eeed0158076818ca09ff7285d5a30b636e584.webp",
+    "size": 9812,
+    "source_rel": "kia/models/stinger/images/4af3c80b64f22cddfb7c9553745eeed0158076818ca09ff7285d5a30b636e584.webp"
+  },
+  {
+    "filename": "4b5eaddeb80e311e614e2edf546c1f90e5a4b98773e3fa86b14426b44505019b.webp",
+    "size": 8956,
+    "source_rel": "kia/models/stinger/images/4b5eaddeb80e311e614e2edf546c1f90e5a4b98773e3fa86b14426b44505019b.webp"
+  },
+  {
+    "filename": "4bd155dbf4cc9bb83fdea64715c5c931ad05c30f74248adbbb9faee747bde689.webp",
+    "size": 14498,
+    "source_rel": "kia/models/stinger/images/4bd155dbf4cc9bb83fdea64715c5c931ad05c30f74248adbbb9faee747bde689.webp"
+  },
+  {
+    "filename": "4c9796a3584f82e4d367ace6fcf399e32a8ff515cf9bcf56178c427813c749ed.webp",
+    "size": 19926,
+    "source_rel": "kia/models/stinger/images/4c9796a3584f82e4d367ace6fcf399e32a8ff515cf9bcf56178c427813c749ed.webp"
+  },
+  {
+    "filename": "4cd35edb34478f54b6d6710f2d8bfc56278213ed71a519c47f161c6adc75867a.webp",
+    "size": 12180,
+    "source_rel": "kia/models/stinger/images/4cd35edb34478f54b6d6710f2d8bfc56278213ed71a519c47f161c6adc75867a.webp"
+  },
+  {
+    "filename": "4d6ffbebbbc2a32dbb375fdd45287de113bfb802cdd6143766647372aa7e4b8d.webp",
+    "size": 14510,
+    "source_rel": "kia/models/stinger/images/4d6ffbebbbc2a32dbb375fdd45287de113bfb802cdd6143766647372aa7e4b8d.webp"
+  },
+  {
+    "filename": "4d8bda5ae917773c4d62e23fe9ce91bb6ff83d36cde2a36684e587929d5d8ae9.webp",
+    "size": 7916,
+    "source_rel": "kia/models/stinger/images/4d8bda5ae917773c4d62e23fe9ce91bb6ff83d36cde2a36684e587929d5d8ae9.webp"
+  },
+  {
+    "filename": "4ddd69d5735fd4e75563620bea21c4cdc3b48a94a3c61026f2de98c6eb1d2f8a.webp",
+    "size": 2842,
+    "source_rel": "kia/models/stinger/images/4ddd69d5735fd4e75563620bea21c4cdc3b48a94a3c61026f2de98c6eb1d2f8a.webp"
+  },
+  {
+    "filename": "4e03dd88c6afa235ffc58a0d300ae13295f0c0ea6ed539c1bca0e3dd815b13ad.webp",
+    "size": 5858,
+    "source_rel": "kia/models/stinger/images/4e03dd88c6afa235ffc58a0d300ae13295f0c0ea6ed539c1bca0e3dd815b13ad.webp"
+  },
+  {
+    "filename": "4e290f882d53931173bf9eddcc94be033c5481432465f33a88180da4655f9ea3.webp",
+    "size": 7802,
+    "source_rel": "kia/models/stinger/images/4e290f882d53931173bf9eddcc94be033c5481432465f33a88180da4655f9ea3.webp"
+  },
+  {
+    "filename": "4f128507b458d9215d6601db17d5a8c6a6cc738615ed3889cd70e28257d818e6.webp",
+    "size": 4316,
+    "source_rel": "kia/models/stinger/images/4f128507b458d9215d6601db17d5a8c6a6cc738615ed3889cd70e28257d818e6.webp"
+  },
+  {
+    "filename": "4f2b085bb7c56a2a84123ad943f74846acd41032207d34a9e6d9c3ac96324842.webp",
+    "size": 2194,
+    "source_rel": "kia/models/stinger/images/4f2b085bb7c56a2a84123ad943f74846acd41032207d34a9e6d9c3ac96324842.webp"
+  },
+  {
+    "filename": "4f93164d8e7f307ba6979f435dcd3c20661529ae4b5ccfb0a932267614512cb5.webp",
+    "size": 9094,
+    "source_rel": "kia/models/stinger/images/4f93164d8e7f307ba6979f435dcd3c20661529ae4b5ccfb0a932267614512cb5.webp"
+  },
+  {
+    "filename": "4fdcc964c504a063e57b7ec5931ca998dc8518f560c46b48bd790a985f3c502d.webp",
+    "size": 65902,
+    "source_rel": "kia/models/stinger/images/4fdcc964c504a063e57b7ec5931ca998dc8518f560c46b48bd790a985f3c502d.webp"
+  },
+  {
+    "filename": "5001050cd562c3e34c0245c22f26d54efcd8f76eee2c3c0630c5eb27c3f363c9.webp",
+    "size": 17608,
+    "source_rel": "kia/models/stinger/images/5001050cd562c3e34c0245c22f26d54efcd8f76eee2c3c0630c5eb27c3f363c9.webp"
+  },
+  {
+    "filename": "5028cfd64df95519d1c1da8c12aed4c05e3c3b367c223d4283480d62277f1940.webp",
+    "size": 26664,
+    "source_rel": "kia/models/stinger/images/5028cfd64df95519d1c1da8c12aed4c05e3c3b367c223d4283480d62277f1940.webp"
+  },
+  {
+    "filename": "5074d5aac56bdb39d9cb39b4e6b0caaa1446858c19f279f884602cb784c82ed7.webp",
+    "size": 16774,
+    "source_rel": "kia/models/stinger/images/5074d5aac56bdb39d9cb39b4e6b0caaa1446858c19f279f884602cb784c82ed7.webp"
+  },
+  {
+    "filename": "51a784901c3ba8dad4d35f67f87f315465d628028e2b9a694d22f7bb800805dc.webp",
+    "size": 7988,
+    "source_rel": "kia/models/stinger/images/51a784901c3ba8dad4d35f67f87f315465d628028e2b9a694d22f7bb800805dc.webp"
+  },
+  {
+    "filename": "52dab7efab3dcb3dfea4a44ca4e9c8c131a1fae96130995bb0210d40d81833cb.webp",
+    "size": 21084,
+    "source_rel": "kia/models/stinger/images/52dab7efab3dcb3dfea4a44ca4e9c8c131a1fae96130995bb0210d40d81833cb.webp"
+  },
+  {
+    "filename": "541c7e7af9744225a84b3a8f383de7927b93b3db829b6f2ed9d8d3f176b49187.webp",
+    "size": 19864,
+    "source_rel": "kia/models/stinger/images/541c7e7af9744225a84b3a8f383de7927b93b3db829b6f2ed9d8d3f176b49187.webp"
+  },
+  {
+    "filename": "54474045377cccac49b93d4325960681ed43d56daca899eb51ad212f9ccfb946.webp",
+    "size": 35024,
+    "source_rel": "kia/models/stinger/images/54474045377cccac49b93d4325960681ed43d56daca899eb51ad212f9ccfb946.webp"
+  },
+  {
+    "filename": "548d92d21cd792472cc192a17b5961220acba2badfb2c5ce051178b2faa36d28.webp",
+    "size": 20356,
+    "source_rel": "kia/models/stinger/images/548d92d21cd792472cc192a17b5961220acba2badfb2c5ce051178b2faa36d28.webp"
+  },
+  {
+    "filename": "54ed41daa728f9955f85ba7898996bea71c7d2d31c0eda2e506823e35841040a.webp",
+    "size": 20000,
+    "source_rel": "kia/models/stinger/images/54ed41daa728f9955f85ba7898996bea71c7d2d31c0eda2e506823e35841040a.webp"
+  },
+  {
+    "filename": "55a3a143db3e7070aa8bf2c8db9cff516879080ced8045de95f4714d2268923d.webp",
+    "size": 24860,
+    "source_rel": "kia/models/stinger/images/55a3a143db3e7070aa8bf2c8db9cff516879080ced8045de95f4714d2268923d.webp"
+  },
+  {
+    "filename": "55d3c2832fd80b13e0d66d2ffbd48b0c06e75146c348852ea7810ac285ae9de7.webp",
+    "size": 4156,
+    "source_rel": "kia/models/stinger/images/55d3c2832fd80b13e0d66d2ffbd48b0c06e75146c348852ea7810ac285ae9de7.webp"
+  },
+  {
+    "filename": "57adea3ebc7e7b9aeec5b1164cbbc61a22b85e47a4e19e21b0e7fc7f61edd43c.webp",
+    "size": 7982,
+    "source_rel": "kia/models/stinger/images/57adea3ebc7e7b9aeec5b1164cbbc61a22b85e47a4e19e21b0e7fc7f61edd43c.webp"
+  },
+  {
+    "filename": "58233d0d4fdf5e9059007fdf8217a555f876d25fcfd271b9664b3cc96abeab40.webp",
+    "size": 17718,
+    "source_rel": "kia/models/stinger/images/58233d0d4fdf5e9059007fdf8217a555f876d25fcfd271b9664b3cc96abeab40.webp"
+  },
+  {
+    "filename": "584c0cc41a07e2f9cee0b611e4acd68c41592f4f29135cc7de7e9f528f88551f.webp",
+    "size": 4230,
+    "source_rel": "kia/models/stinger/images/584c0cc41a07e2f9cee0b611e4acd68c41592f4f29135cc7de7e9f528f88551f.webp"
+  },
+  {
+    "filename": "5999f5d43835780bc2ba07875fe41ce75f4a80f4a8fd30c822c6fc5f8053fadc.webp",
+    "size": 12012,
+    "source_rel": "kia/models/stinger/images/5999f5d43835780bc2ba07875fe41ce75f4a80f4a8fd30c822c6fc5f8053fadc.webp"
+  },
+  {
+    "filename": "59cdb83cd263bf8be47ba8f65601ed83ab6597d8d6621a9a6160f0ac57bfd48a.webp",
+    "size": 16536,
+    "source_rel": "kia/models/stinger/images/59cdb83cd263bf8be47ba8f65601ed83ab6597d8d6621a9a6160f0ac57bfd48a.webp"
+  },
+  {
+    "filename": "5a35c6168465b36fd739735d0e7486070fa33e7b2bd4419a5ad9bbfb18d93202.webp",
+    "size": 3582,
+    "source_rel": "kia/models/stinger/images/5a35c6168465b36fd739735d0e7486070fa33e7b2bd4419a5ad9bbfb18d93202.webp"
+  },
+  {
+    "filename": "5a3a11f90c9b43f2136c69b94b2b80d17d4b0a4e43e16c5d226951db7e8692b7.webp",
+    "size": 20060,
+    "source_rel": "kia/models/stinger/images/5a3a11f90c9b43f2136c69b94b2b80d17d4b0a4e43e16c5d226951db7e8692b7.webp"
+  },
+  {
+    "filename": "5ab812b0b119ba482318495cddbdb4daf6bc074c13dda4f13e21b142f088ec19.webp",
+    "size": 10958,
+    "source_rel": "kia/models/stinger/images/5ab812b0b119ba482318495cddbdb4daf6bc074c13dda4f13e21b142f088ec19.webp"
+  },
+  {
+    "filename": "5b496131aa8171aebd53e600fe68e2a4142937ee21044a4052c05e55dd2b8485.webp",
+    "size": 7668,
+    "source_rel": "kia/models/stinger/images/5b496131aa8171aebd53e600fe68e2a4142937ee21044a4052c05e55dd2b8485.webp"
+  },
+  {
+    "filename": "5b5922c2a9078402c36c679e6d78eff168490c3c4f73619d8e20322dbcad82af.webp",
+    "size": 11106,
+    "source_rel": "kia/models/stinger/images/5b5922c2a9078402c36c679e6d78eff168490c3c4f73619d8e20322dbcad82af.webp"
+  },
+  {
+    "filename": "5b8e8e2deffcd6eddfe05295d5d2e242911ca8467556bd71d3daf7ed3b5bf784.webp",
+    "size": 3218,
+    "source_rel": "kia/models/stinger/images/5b8e8e2deffcd6eddfe05295d5d2e242911ca8467556bd71d3daf7ed3b5bf784.webp"
+  },
+  {
+    "filename": "5ba280fdd1155c4cd3ceff26d62be6ad6dddbf5ec0934ac2c1f1a7576924aa69.webp",
+    "size": 37804,
+    "source_rel": "kia/models/stinger/images/5ba280fdd1155c4cd3ceff26d62be6ad6dddbf5ec0934ac2c1f1a7576924aa69.webp"
+  },
+  {
+    "filename": "5c35c42b8c25e08c2cafce67e18ddaafb67981bd1aa3f1eca2d1673652a654d2.webp",
+    "size": 6536,
+    "source_rel": "kia/models/stinger/images/5c35c42b8c25e08c2cafce67e18ddaafb67981bd1aa3f1eca2d1673652a654d2.webp"
+  },
+  {
+    "filename": "5c58a53cb6d06366dbb56005202047de7896f29254521962fb07614f3ef81b29.webp",
+    "size": 20550,
+    "source_rel": "kia/models/stinger/images/5c58a53cb6d06366dbb56005202047de7896f29254521962fb07614f3ef81b29.webp"
+  },
+  {
+    "filename": "5c8c124594e5eb3f9d665298046067b004f37262ea74eaa1d161eb8ba32923a2.webp",
+    "size": 13894,
+    "source_rel": "kia/models/stinger/images/5c8c124594e5eb3f9d665298046067b004f37262ea74eaa1d161eb8ba32923a2.webp"
+  },
+  {
+    "filename": "5ec0c1ef0b6d8e64dc895ff50d6e25bd671bd18a694db7fd9bb93abe0776ff79.webp",
+    "size": 17560,
+    "source_rel": "kia/models/stinger/images/5ec0c1ef0b6d8e64dc895ff50d6e25bd671bd18a694db7fd9bb93abe0776ff79.webp"
+  },
+  {
+    "filename": "5f3d354800299a81b7a78796b6ce2727f8ab91bf52d886f2b3f27603bf65d220.webp",
+    "size": 11724,
+    "source_rel": "kia/models/stinger/images/5f3d354800299a81b7a78796b6ce2727f8ab91bf52d886f2b3f27603bf65d220.webp"
+  },
+  {
+    "filename": "5f6b548068864c5eb2c436af069ec04dacd3518b63aef8f779fb3dc6f34c1c86.webp",
+    "size": 9850,
+    "source_rel": "kia/models/stinger/images/5f6b548068864c5eb2c436af069ec04dacd3518b63aef8f779fb3dc6f34c1c86.webp"
+  },
+  {
+    "filename": "5f7dc2b4b1a0e4ca5a2cf93afc2e5bad5183e3c935f4c91130d65794412c2c1e.webp",
+    "size": 14656,
+    "source_rel": "kia/models/stinger/images/5f7dc2b4b1a0e4ca5a2cf93afc2e5bad5183e3c935f4c91130d65794412c2c1e.webp"
+  },
+  {
+    "filename": "5fe5ac08d7dcd4f39e993d7857117a5a84fb056b81c86f5aeb1c6534d7a5877b.webp",
+    "size": 88482,
+    "source_rel": "kia/models/stinger/images/5fe5ac08d7dcd4f39e993d7857117a5a84fb056b81c86f5aeb1c6534d7a5877b.webp"
+  },
+  {
+    "filename": "605b48e79bc3ffd9d58f58fe09e6bfa5df2bf50acdce770b1360a6ba7fe8dd29.webp",
+    "size": 48038,
+    "source_rel": "kia/models/stinger/images/605b48e79bc3ffd9d58f58fe09e6bfa5df2bf50acdce770b1360a6ba7fe8dd29.webp"
+  },
+  {
+    "filename": "60d458a3055efe88cec331869333f4bcd501f004df4852d6b8f05f745724e311.webp",
+    "size": 6778,
+    "source_rel": "kia/models/stinger/images/60d458a3055efe88cec331869333f4bcd501f004df4852d6b8f05f745724e311.webp"
+  },
+  {
+    "filename": "6144d6132cf276b1d8d8f1dfb86390b429d56015febc922b2654afd63b42d9e8.webp",
+    "size": 18234,
+    "source_rel": "kia/models/stinger/images/6144d6132cf276b1d8d8f1dfb86390b429d56015febc922b2654afd63b42d9e8.webp"
+  },
+  {
+    "filename": "62247ba85af00268a2e2b1061f8b7d85815e1a22dda06e7741cf5d262c5ed9c7.webp",
+    "size": 13888,
+    "source_rel": "kia/models/stinger/images/62247ba85af00268a2e2b1061f8b7d85815e1a22dda06e7741cf5d262c5ed9c7.webp"
+  },
+  {
+    "filename": "630fb3fc7069d09c4bbc8d43f980577d3c7af3fad49a5b348903405127655ce6.webp",
+    "size": 7350,
+    "source_rel": "kia/models/stinger/images/630fb3fc7069d09c4bbc8d43f980577d3c7af3fad49a5b348903405127655ce6.webp"
+  },
+  {
+    "filename": "636a3f0b928c4176de09897e015e4784fa1f7b593f4faf4ebf4ed8c739205f7a.webp",
+    "size": 18638,
+    "source_rel": "kia/models/stinger/images/636a3f0b928c4176de09897e015e4784fa1f7b593f4faf4ebf4ed8c739205f7a.webp"
+  },
+  {
+    "filename": "64bb8bd98ed552b4bc60e5f582ac63389947316d1e09411fdaf0e7fa7ca736bf.webp",
+    "size": 38646,
+    "source_rel": "kia/models/stinger/images/64bb8bd98ed552b4bc60e5f582ac63389947316d1e09411fdaf0e7fa7ca736bf.webp"
+  },
+  {
+    "filename": "64be7d560e6d1c6ed8d650bc793369ad6ed14e805fe2a506ad12cb5b51579d58.webp",
+    "size": 4026,
+    "source_rel": "kia/models/stinger/images/64be7d560e6d1c6ed8d650bc793369ad6ed14e805fe2a506ad12cb5b51579d58.webp"
+  },
+  {
+    "filename": "6514b0600764311387a64f133f1f2ced1685e8e8419ee742c11a32a8907ab593.webp",
+    "size": 7710,
+    "source_rel": "kia/models/stinger/images/6514b0600764311387a64f133f1f2ced1685e8e8419ee742c11a32a8907ab593.webp"
+  },
+  {
+    "filename": "65a0a56564437d9fa083e7696d0ee787b03808b6edbe03ed0eb6b393d96c29d6.webp",
+    "size": 8652,
+    "source_rel": "kia/models/stinger/images/65a0a56564437d9fa083e7696d0ee787b03808b6edbe03ed0eb6b393d96c29d6.webp"
+  },
+  {
+    "filename": "670d9b29f708d898ce54c19c4657b870f72997378df5be077fb2ce9ab357fbbd.webp",
+    "size": 4456,
+    "source_rel": "kia/models/stinger/images/670d9b29f708d898ce54c19c4657b870f72997378df5be077fb2ce9ab357fbbd.webp"
+  },
+  {
+    "filename": "671f1e00229143cd052f3b4e9f0e30d36c317a1e845860b06383e018821a73ad.webp",
+    "size": 42038,
+    "source_rel": "kia/models/stinger/images/671f1e00229143cd052f3b4e9f0e30d36c317a1e845860b06383e018821a73ad.webp"
+  },
+  {
+    "filename": "674428dd6e70599806ddeb8cf9e1dd727bb3f28b85f2e516d4f0034e090c9d39.webp",
+    "size": 125812,
+    "source_rel": "kia/models/stinger/images/674428dd6e70599806ddeb8cf9e1dd727bb3f28b85f2e516d4f0034e090c9d39.webp"
+  },
+  {
+    "filename": "684e30ca08e37b074256fa6983f0971a23a950d76f907fe3cb3467f1453f5315.webp",
+    "size": 18346,
+    "source_rel": "kia/models/stinger/images/684e30ca08e37b074256fa6983f0971a23a950d76f907fe3cb3467f1453f5315.webp"
+  },
+  {
+    "filename": "68564e105b572fda4d5ab1265c2506bc1c69dc5362c6e0fb2c219b189664fcc1.webp",
+    "size": 1482,
+    "source_rel": "kia/models/stinger/images/68564e105b572fda4d5ab1265c2506bc1c69dc5362c6e0fb2c219b189664fcc1.webp"
+  },
+  {
+    "filename": "685c0765fef18d6d07107b03e53f73309cba32540361c52fbf6934cd39249ac5.webp",
+    "size": 26662,
+    "source_rel": "kia/models/stinger/images/685c0765fef18d6d07107b03e53f73309cba32540361c52fbf6934cd39249ac5.webp"
+  },
+  {
+    "filename": "691f0e3eee99e09a28a6536e056c89ea6ce7499979c65eb434d565a8c6ada4bd.webp",
+    "size": 20850,
+    "source_rel": "kia/models/stinger/images/691f0e3eee99e09a28a6536e056c89ea6ce7499979c65eb434d565a8c6ada4bd.webp"
+  },
+  {
+    "filename": "69a4030c3ebae6354985a8ea0e5f313a84d0f9c15e50ee0f0860bcf42ec2addb.webp",
+    "size": 48358,
+    "source_rel": "kia/models/stinger/images/69a4030c3ebae6354985a8ea0e5f313a84d0f9c15e50ee0f0860bcf42ec2addb.webp"
+  },
+  {
+    "filename": "6b155fee7cb673225bff52776d5db3b9ccd2cf4b0330ac0db362b3e3ab3e7624.webp",
+    "size": 49872,
+    "source_rel": "kia/models/stinger/images/6b155fee7cb673225bff52776d5db3b9ccd2cf4b0330ac0db362b3e3ab3e7624.webp"
+  },
+  {
+    "filename": "6b3a48d3ad0ee6a4c6256060e343579a5cc2b9cadfdc72d1d6831edb9e10891a.webp",
+    "size": 15046,
+    "source_rel": "kia/models/stinger/images/6b3a48d3ad0ee6a4c6256060e343579a5cc2b9cadfdc72d1d6831edb9e10891a.webp"
+  },
+  {
+    "filename": "6bc1c2fa8d8124275db7a6cd9934f0f5501dbdb6a7b52c65f0d2b38bea974e5b.webp",
+    "size": 15180,
+    "source_rel": "kia/models/stinger/images/6bc1c2fa8d8124275db7a6cd9934f0f5501dbdb6a7b52c65f0d2b38bea974e5b.webp"
+  },
+  {
+    "filename": "6bfea27d4400de7e1db9795a5a3fbc80a03a2f4ba152daab45201d420980e64f.webp",
+    "size": 4238,
+    "source_rel": "kia/models/stinger/images/6bfea27d4400de7e1db9795a5a3fbc80a03a2f4ba152daab45201d420980e64f.webp"
+  },
+  {
+    "filename": "6c165029c54ad5cb7156201e8d45409204ebee9b6bfd50a2f595446e3f3c0fab.webp",
+    "size": 4476,
+    "source_rel": "kia/models/stinger/images/6c165029c54ad5cb7156201e8d45409204ebee9b6bfd50a2f595446e3f3c0fab.webp"
+  },
+  {
+    "filename": "6c37b4be84181a77f246217a2f35986da76b3839925a869e11064bb39754d007.webp",
+    "size": 3712,
+    "source_rel": "kia/models/stinger/images/6c37b4be84181a77f246217a2f35986da76b3839925a869e11064bb39754d007.webp"
+  },
+  {
+    "filename": "6c5290d47db2d6be2bea77e1c65b8b3ef7204028b77830263db7269a08c5273c.webp",
+    "size": 1812,
+    "source_rel": "kia/models/stinger/images/6c5290d47db2d6be2bea77e1c65b8b3ef7204028b77830263db7269a08c5273c.webp"
+  },
+  {
+    "filename": "6ca10170dc17e451ab4a94590a041afe17b3d787cc925770f83ec26af2aea657.webp",
+    "size": 4388,
+    "source_rel": "kia/models/stinger/images/6ca10170dc17e451ab4a94590a041afe17b3d787cc925770f83ec26af2aea657.webp"
+  },
+  {
+    "filename": "6cffcce96aed9569f0795613ca6248d7c15ae70d0be415387ab5de2e935afcee.webp",
+    "size": 13190,
+    "source_rel": "kia/models/stinger/images/6cffcce96aed9569f0795613ca6248d7c15ae70d0be415387ab5de2e935afcee.webp"
+  },
+  {
+    "filename": "6d1adca9f29f5c2c97d3acb511a7279fb41bc9f3ce5b020997b177cded7e0a22.webp",
+    "size": 12994,
+    "source_rel": "kia/models/stinger/images/6d1adca9f29f5c2c97d3acb511a7279fb41bc9f3ce5b020997b177cded7e0a22.webp"
+  },
+  {
+    "filename": "6e163be7d5abf82d8ab9f5bc4abedd395c0434be1e88c4076d49ba089fe88961.webp",
+    "size": 29574,
+    "source_rel": "kia/models/stinger/images/6e163be7d5abf82d8ab9f5bc4abedd395c0434be1e88c4076d49ba089fe88961.webp"
+  },
+  {
+    "filename": "6e25ed84be48e75fdf7beab1e862887190c069f8c9ab4ce770ceda81ad213c45.webp",
+    "size": 12788,
+    "source_rel": "kia/models/stinger/images/6e25ed84be48e75fdf7beab1e862887190c069f8c9ab4ce770ceda81ad213c45.webp"
+  },
+  {
+    "filename": "6ea484f31616a80b989445619c7d742b372cee0d9fdc4977251665c9ee110f88.webp",
+    "size": 13280,
+    "source_rel": "kia/models/stinger/images/6ea484f31616a80b989445619c7d742b372cee0d9fdc4977251665c9ee110f88.webp"
+  },
+  {
+    "filename": "6f0ae0b769117734c39e90dcc628747b39c092e4d00631dc1ced212c8f147ecc.webp",
+    "size": 14872,
+    "source_rel": "kia/models/stinger/images/6f0ae0b769117734c39e90dcc628747b39c092e4d00631dc1ced212c8f147ecc.webp"
+  },
+  {
+    "filename": "6fa282ce250ffece2bc445c4d244f713c795ff68ba1f0e5782d6ac32465ebdc7.webp",
+    "size": 3342,
+    "source_rel": "kia/models/stinger/images/6fa282ce250ffece2bc445c4d244f713c795ff68ba1f0e5782d6ac32465ebdc7.webp"
+  },
+  {
+    "filename": "71b85c25840a26d5a2c1cf38e7fb663257913518c7fc4e4446422660fd7628da.webp",
+    "size": 19194,
+    "source_rel": "kia/models/stinger/images/71b85c25840a26d5a2c1cf38e7fb663257913518c7fc4e4446422660fd7628da.webp"
+  },
+  {
+    "filename": "71bff6654c3c79220c4bc5679fa1b3f6b6c002fc20397305665fcbab30615ead.webp",
+    "size": 33732,
+    "source_rel": "kia/models/stinger/images/71bff6654c3c79220c4bc5679fa1b3f6b6c002fc20397305665fcbab30615ead.webp"
+  },
+  {
+    "filename": "71d364e65da0349344a9321a1bb8be475b30ce535462ff440e34c63c63e2b0ac.webp",
+    "size": 16990,
+    "source_rel": "kia/models/stinger/images/71d364e65da0349344a9321a1bb8be475b30ce535462ff440e34c63c63e2b0ac.webp"
+  },
+  {
+    "filename": "71e3aae581791c99badd60013de9211138c00ae1807d5078784a62ea41360f09.webp",
+    "size": 9122,
+    "source_rel": "kia/models/stinger/images/71e3aae581791c99badd60013de9211138c00ae1807d5078784a62ea41360f09.webp"
+  },
+  {
+    "filename": "72db191d69579e04a2540377b5dbab05a3ace3bc8fea556e82d6a8457e196ac7.webp",
+    "size": 29958,
+    "source_rel": "kia/models/stinger/images/72db191d69579e04a2540377b5dbab05a3ace3bc8fea556e82d6a8457e196ac7.webp"
+  },
+  {
+    "filename": "74992aef51fc9e9be1a6746f55159a9dd98d752a2aa3eca8fe789bbb8de60454.webp",
+    "size": 26762,
+    "source_rel": "kia/models/stinger/images/74992aef51fc9e9be1a6746f55159a9dd98d752a2aa3eca8fe789bbb8de60454.webp"
+  },
+  {
+    "filename": "74a7d85288546af16936ac5af11e4a3240a78362de939dfa74c2817566618a7d.webp",
+    "size": 3696,
+    "source_rel": "kia/models/stinger/images/74a7d85288546af16936ac5af11e4a3240a78362de939dfa74c2817566618a7d.webp"
+  },
+  {
+    "filename": "74deb26fb696b868ca8ce3f8c4e9cb485bd1a4a31a73fa5cabd7241e810d1238.webp",
+    "size": 10422,
+    "source_rel": "kia/models/stinger/images/74deb26fb696b868ca8ce3f8c4e9cb485bd1a4a31a73fa5cabd7241e810d1238.webp"
+  },
+  {
+    "filename": "75700e1cf43d99e1094279eb79a969e6aca1a7dfc9bd9f90d1b1020293b3f9a6.webp",
+    "size": 14428,
+    "source_rel": "kia/models/stinger/images/75700e1cf43d99e1094279eb79a969e6aca1a7dfc9bd9f90d1b1020293b3f9a6.webp"
+  },
+  {
+    "filename": "782044620f5c3e6865a6822d2112503ae87d53cae4418114d2d66a88490c2d98.webp",
+    "size": 27936,
+    "source_rel": "kia/models/stinger/images/782044620f5c3e6865a6822d2112503ae87d53cae4418114d2d66a88490c2d98.webp"
+  },
+  {
+    "filename": "7821834e0e84dc41755d57e8b94a2d5c5e43294365e31d9eb3e833e41ccf0f6d.webp",
+    "size": 7448,
+    "source_rel": "kia/models/stinger/images/7821834e0e84dc41755d57e8b94a2d5c5e43294365e31d9eb3e833e41ccf0f6d.webp"
+  },
+  {
+    "filename": "7857c177e1755ba17d04ea56bef991e3e224836ae18ebe7bec79e24c2529113f.webp",
+    "size": 7376,
+    "source_rel": "kia/models/stinger/images/7857c177e1755ba17d04ea56bef991e3e224836ae18ebe7bec79e24c2529113f.webp"
+  },
+  {
+    "filename": "79202f28844a607ffeb334b8bfd356bde22ad35b74e83cdb11a2df266eefbe51.webp",
+    "size": 9596,
+    "source_rel": "kia/models/stinger/images/79202f28844a607ffeb334b8bfd356bde22ad35b74e83cdb11a2df266eefbe51.webp"
+  },
+  {
+    "filename": "79269b757dca12cc23917da540756ca782ed758f41b8e67b4a9ce702d02522c2.webp",
+    "size": 20098,
+    "source_rel": "kia/models/stinger/images/79269b757dca12cc23917da540756ca782ed758f41b8e67b4a9ce702d02522c2.webp"
+  },
+  {
+    "filename": "7a540edeee5a84eedd0b2602f37dcfb19329512038c78b339089446e93044fca.webp",
+    "size": 14268,
+    "source_rel": "kia/models/stinger/images/7a540edeee5a84eedd0b2602f37dcfb19329512038c78b339089446e93044fca.webp"
+  },
+  {
+    "filename": "7d4d519887cd1bcf5be259d1e965bbd8b85cd4b28c9723bf87daf88b8af6ddff.webp",
+    "size": 8528,
+    "source_rel": "kia/models/stinger/images/7d4d519887cd1bcf5be259d1e965bbd8b85cd4b28c9723bf87daf88b8af6ddff.webp"
+  },
+  {
+    "filename": "7e61da247761b3730d9e5e9594b866d849c1bc3c3cc4bc346d36aa26ff7e449d.webp",
+    "size": 15410,
+    "source_rel": "kia/models/stinger/images/7e61da247761b3730d9e5e9594b866d849c1bc3c3cc4bc346d36aa26ff7e449d.webp"
+  },
+  {
+    "filename": "7e99cd15980edf3754625d12852a55b36f7275e135f5d051833a4c59072a20a0.webp",
+    "size": 14432,
+    "source_rel": "kia/models/stinger/images/7e99cd15980edf3754625d12852a55b36f7275e135f5d051833a4c59072a20a0.webp"
+  },
+  {
+    "filename": "7ec3db29113120fb074f65bba30e356cbb6810df637f023e1433e492ab36571c.webp",
+    "size": 6460,
+    "source_rel": "kia/models/stinger/images/7ec3db29113120fb074f65bba30e356cbb6810df637f023e1433e492ab36571c.webp"
+  },
+  {
+    "filename": "7ef6648ca227309bd4f93359ae098040f239b7f960f37aea8ea72679cfb6f503.webp",
+    "size": 15604,
+    "source_rel": "kia/models/stinger/images/7ef6648ca227309bd4f93359ae098040f239b7f960f37aea8ea72679cfb6f503.webp"
+  },
+  {
+    "filename": "7f1e13557c1b822daf149f9d8826fd493b64dbb8ee17a959fc3b389c8e63ead7.webp",
+    "size": 15958,
+    "source_rel": "kia/models/stinger/images/7f1e13557c1b822daf149f9d8826fd493b64dbb8ee17a959fc3b389c8e63ead7.webp"
+  },
+  {
+    "filename": "7fa53de666cc5466ecc925c0edbcdb694d9775f929eaa0f1f1da7ad81c92374b.webp",
+    "size": 11020,
+    "source_rel": "kia/models/stinger/images/7fa53de666cc5466ecc925c0edbcdb694d9775f929eaa0f1f1da7ad81c92374b.webp"
+  },
+  {
+    "filename": "8053c78a3a696e8ea304bafc6132711979312f211df18ed43128d5fb04092d19.webp",
+    "size": 14226,
+    "source_rel": "kia/models/stinger/images/8053c78a3a696e8ea304bafc6132711979312f211df18ed43128d5fb04092d19.webp"
+  },
+  {
+    "filename": "81f0f795df190899c2985cbf1f32419ac1ecf21db6ecb2906d8efeeec66889bf.webp",
+    "size": 22790,
+    "source_rel": "kia/models/stinger/images/81f0f795df190899c2985cbf1f32419ac1ecf21db6ecb2906d8efeeec66889bf.webp"
+  },
+  {
+    "filename": "838870655c67a2b78c05d2ba13ae7f3826cca78620c05e145c70e2664086ca9a.webp",
+    "size": 3718,
+    "source_rel": "kia/models/stinger/images/838870655c67a2b78c05d2ba13ae7f3826cca78620c05e145c70e2664086ca9a.webp"
+  },
+  {
+    "filename": "83ef7d0a252751adb3d4803fe28e68f0ed5024f53374a839e3adab75d0074976.webp",
+    "size": 14200,
+    "source_rel": "kia/models/stinger/images/83ef7d0a252751adb3d4803fe28e68f0ed5024f53374a839e3adab75d0074976.webp"
+  },
+  {
+    "filename": "858a689f5b3753638eb7050087329b5088dd4c1e2b9678e5fa3b812e496186e4.webp",
+    "size": 8864,
+    "source_rel": "kia/models/stinger/images/858a689f5b3753638eb7050087329b5088dd4c1e2b9678e5fa3b812e496186e4.webp"
+  },
+  {
+    "filename": "87a2861efe986574bdbdc1c6d6f243e20ea42631ef43ec7d87db64f5185857df.webp",
+    "size": 7382,
+    "source_rel": "kia/models/stinger/images/87a2861efe986574bdbdc1c6d6f243e20ea42631ef43ec7d87db64f5185857df.webp"
+  },
+  {
+    "filename": "87bb9235724bc40217ccf836cca63c974db00f17de34a6fc80c16ad58c9f3226.webp",
+    "size": 7100,
+    "source_rel": "kia/models/stinger/images/87bb9235724bc40217ccf836cca63c974db00f17de34a6fc80c16ad58c9f3226.webp"
+  },
+  {
+    "filename": "88020ea8766f952eb910392560a327ae5ac383d4bbb3d45d183fb0504982540f.webp",
+    "size": 15674,
+    "source_rel": "kia/models/stinger/images/88020ea8766f952eb910392560a327ae5ac383d4bbb3d45d183fb0504982540f.webp"
+  },
+  {
+    "filename": "8897b4211a558fe80202c0ad775bc458058d2a72f2742540ddaaa525ca926a16.webp",
+    "size": 16912,
+    "source_rel": "kia/models/stinger/images/8897b4211a558fe80202c0ad775bc458058d2a72f2742540ddaaa525ca926a16.webp"
+  },
+  {
+    "filename": "88e7bb338c90f2c821fdb227e8ce931f82a856d39eafb8244f01004fcb1d83e5.webp",
+    "size": 49734,
+    "source_rel": "kia/models/stinger/images/88e7bb338c90f2c821fdb227e8ce931f82a856d39eafb8244f01004fcb1d83e5.webp"
+  },
+  {
+    "filename": "896151513d07f870574984c34f16b7bec29a45a2f5401b6288b807a09723cd31.webp",
+    "size": 11942,
+    "source_rel": "kia/models/stinger/images/896151513d07f870574984c34f16b7bec29a45a2f5401b6288b807a09723cd31.webp"
+  },
+  {
+    "filename": "899365336f477802b4430d2f583c66ed23e5a651b1c646b822ce5e75ae5086f3.webp",
+    "size": 20492,
+    "source_rel": "kia/models/stinger/images/899365336f477802b4430d2f583c66ed23e5a651b1c646b822ce5e75ae5086f3.webp"
+  },
+  {
+    "filename": "8a5fe559de344e05ef4a7519c5bdc024ce708d410dc41453780302f8b82d27b1.webp",
+    "size": 11486,
+    "source_rel": "kia/models/stinger/images/8a5fe559de344e05ef4a7519c5bdc024ce708d410dc41453780302f8b82d27b1.webp"
+  },
+  {
+    "filename": "8a778e8e405a72dac9a1c50bb34cac14e4144b824d5f14ca2e75d28b8414a55a.webp",
+    "size": 7548,
+    "source_rel": "kia/models/stinger/images/8a778e8e405a72dac9a1c50bb34cac14e4144b824d5f14ca2e75d28b8414a55a.webp"
+  },
+  {
+    "filename": "8a8cd19ee6d0f72c056e6a41613abd8fc9cc01d8632feb0a0170258fcbceaf95.webp",
+    "size": 17510,
+    "source_rel": "kia/models/stinger/images/8a8cd19ee6d0f72c056e6a41613abd8fc9cc01d8632feb0a0170258fcbceaf95.webp"
+  },
+  {
+    "filename": "8c94d878b6ad7dc8a4f9549ad998d126c26eef0541a7cf799a4ae9c604036f10.webp",
+    "size": 8218,
+    "source_rel": "kia/models/stinger/images/8c94d878b6ad7dc8a4f9549ad998d126c26eef0541a7cf799a4ae9c604036f10.webp"
+  },
+  {
+    "filename": "8d41cc7018d8640f844c780428175f2f221c9dc3a826fe295be63489eb60ca4c.webp",
+    "size": 6478,
+    "source_rel": "kia/models/stinger/images/8d41cc7018d8640f844c780428175f2f221c9dc3a826fe295be63489eb60ca4c.webp"
+  },
+  {
+    "filename": "8ec453d76bb7a8bd1311336294c92ff0321012b0ed94b0d6a6fff8c33dd34e31.webp",
+    "size": 3796,
+    "source_rel": "kia/models/stinger/images/8ec453d76bb7a8bd1311336294c92ff0321012b0ed94b0d6a6fff8c33dd34e31.webp"
+  },
+  {
+    "filename": "8ef4e59c571a26dd4a4a4baf2bc17d1cec348ed557920928573b016144684efd.webp",
+    "size": 9158,
+    "source_rel": "kia/models/stinger/images/8ef4e59c571a26dd4a4a4baf2bc17d1cec348ed557920928573b016144684efd.webp"
+  },
+  {
+    "filename": "8f02b18a5ec6dbfd43625f659e1342a675a6d1d519edf6ffdc5b8c7eb1030b08.webp",
+    "size": 17306,
+    "source_rel": "kia/models/stinger/images/8f02b18a5ec6dbfd43625f659e1342a675a6d1d519edf6ffdc5b8c7eb1030b08.webp"
+  },
+  {
+    "filename": "9044305f588cfe86b71c439e98438a06fa0a1655a6031f65f2318163dc38ac04.webp",
+    "size": 22126,
+    "source_rel": "kia/models/stinger/images/9044305f588cfe86b71c439e98438a06fa0a1655a6031f65f2318163dc38ac04.webp"
+  },
+  {
+    "filename": "9096292d6a16b62b8c82e75cf4b415fa73b68fd5e7cd0041107254b03d23c165.webp",
+    "size": 26170,
+    "source_rel": "kia/models/stinger/images/9096292d6a16b62b8c82e75cf4b415fa73b68fd5e7cd0041107254b03d23c165.webp"
+  },
+  {
+    "filename": "92976369888158348f9f02cd077d142a8c941349e11fd3003421adcc98c57c1d.webp",
+    "size": 12728,
+    "source_rel": "kia/models/stinger/images/92976369888158348f9f02cd077d142a8c941349e11fd3003421adcc98c57c1d.webp"
+  },
+  {
+    "filename": "92fb2e39eb02168e89dbeaeeecf31e782e5cdb6a4c6fd9021ade04d920a38db6.webp",
+    "size": 19774,
+    "source_rel": "kia/models/stinger/images/92fb2e39eb02168e89dbeaeeecf31e782e5cdb6a4c6fd9021ade04d920a38db6.webp"
+  },
+  {
+    "filename": "9301f797561ded719e65409d02adb08fa94a6fb5cadea4fa2d7098d940a34c66.webp",
+    "size": 19004,
+    "source_rel": "kia/models/stinger/images/9301f797561ded719e65409d02adb08fa94a6fb5cadea4fa2d7098d940a34c66.webp"
+  },
+  {
+    "filename": "9376a0a11a8f1e0ac95c2fd4adc7e0ec9a5247773396cc820149a8a3b2d6d91d.webp",
+    "size": 6942,
+    "source_rel": "kia/models/stinger/images/9376a0a11a8f1e0ac95c2fd4adc7e0ec9a5247773396cc820149a8a3b2d6d91d.webp"
+  },
+  {
+    "filename": "947cb21b070a057fe2f7d761e5893d6264befe941688e877f01f279a5a4c80c6.webp",
+    "size": 42928,
+    "source_rel": "kia/models/stinger/images/947cb21b070a057fe2f7d761e5893d6264befe941688e877f01f279a5a4c80c6.webp"
+  },
+  {
+    "filename": "94fa5ecfbfe8c56d46446feb3e901287e07e9260f37c401141c81c164efcbed2.webp",
+    "size": 21580,
+    "source_rel": "kia/models/stinger/images/94fa5ecfbfe8c56d46446feb3e901287e07e9260f37c401141c81c164efcbed2.webp"
+  },
+  {
+    "filename": "9613f181319be14eec26492045596620258f17e91d9fde130a042b7a699bcffe.webp",
+    "size": 22148,
+    "source_rel": "kia/models/stinger/images/9613f181319be14eec26492045596620258f17e91d9fde130a042b7a699bcffe.webp"
+  },
+  {
+    "filename": "97091caf9804ca8b064d2388af58dcba43c91c00dc18d40a78b095582292c726.webp",
+    "size": 2492,
+    "source_rel": "kia/models/stinger/images/97091caf9804ca8b064d2388af58dcba43c91c00dc18d40a78b095582292c726.webp"
+  },
+  {
+    "filename": "9769c02037e8aa2768160821b90c80fe63d9cb8c9c48304ef486bc987e54d349.webp",
+    "size": 4066,
+    "source_rel": "kia/models/stinger/images/9769c02037e8aa2768160821b90c80fe63d9cb8c9c48304ef486bc987e54d349.webp"
+  },
+  {
+    "filename": "9769d6e73eb40f2dd4adfdd93754f7adceea6ca7f30fe546138788df911db361.webp",
+    "size": 8494,
+    "source_rel": "kia/models/stinger/images/9769d6e73eb40f2dd4adfdd93754f7adceea6ca7f30fe546138788df911db361.webp"
+  },
+  {
+    "filename": "978a23048cbf879ee71c6e63df5ef5b9fc4fb694c7ff576eae77f2d73bc2f272.webp",
+    "size": 39054,
+    "source_rel": "kia/models/stinger/images/978a23048cbf879ee71c6e63df5ef5b9fc4fb694c7ff576eae77f2d73bc2f272.webp"
+  },
+  {
+    "filename": "97e9ee39d6a874a7e806f61a9b377c0e35ee7417e37d306d8bf9c761f0b13dff.webp",
+    "size": 4490,
+    "source_rel": "kia/models/stinger/images/97e9ee39d6a874a7e806f61a9b377c0e35ee7417e37d306d8bf9c761f0b13dff.webp"
+  },
+  {
+    "filename": "990b36c0e0e21a8fb5ee660f1339292bc349f02d14145775aadc84f64a47a3f6.webp",
+    "size": 11856,
+    "source_rel": "kia/models/stinger/images/990b36c0e0e21a8fb5ee660f1339292bc349f02d14145775aadc84f64a47a3f6.webp"
+  },
+  {
+    "filename": "999e77dd051ed2102848664f4d592ce930fc1e4beab5e69fc92588a438c9967d.webp",
+    "size": 21712,
+    "source_rel": "kia/models/stinger/images/999e77dd051ed2102848664f4d592ce930fc1e4beab5e69fc92588a438c9967d.webp"
+  },
+  {
+    "filename": "99d064deedb9ef2c6602e7a1909ce02724c96c1018d9f453d5875ed9519a0cd4.webp",
+    "size": 40820,
+    "source_rel": "kia/models/stinger/images/99d064deedb9ef2c6602e7a1909ce02724c96c1018d9f453d5875ed9519a0cd4.webp"
+  },
+  {
+    "filename": "9a3a0469b869282bb3d0b0efcfeee2b86e54a1a19d1c14de38931de1b3f73ff6.webp",
+    "size": 33326,
+    "source_rel": "kia/models/stinger/images/9a3a0469b869282bb3d0b0efcfeee2b86e54a1a19d1c14de38931de1b3f73ff6.webp"
+  },
+  {
+    "filename": "9a6e0cc904a69bb19c6f396b9c3b71f3e3a722756d60d221df729be3337a020a.webp",
+    "size": 10072,
+    "source_rel": "kia/models/stinger/images/9a6e0cc904a69bb19c6f396b9c3b71f3e3a722756d60d221df729be3337a020a.webp"
+  },
+  {
+    "filename": "9abe34314b6caaa635083fc222be6371813124e58d84a5916801ecd1253e42c8.webp",
+    "size": 12672,
+    "source_rel": "kia/models/stinger/images/9abe34314b6caaa635083fc222be6371813124e58d84a5916801ecd1253e42c8.webp"
+  },
+  {
+    "filename": "9b0960a827d9ecee031c09df0f29f0b7d829d072650c44e1675f9367a9fc3dbf.webp",
+    "size": 5834,
+    "source_rel": "kia/models/stinger/images/9b0960a827d9ecee031c09df0f29f0b7d829d072650c44e1675f9367a9fc3dbf.webp"
+  },
+  {
+    "filename": "9b16da1baaf7eabea852a36a70162fd2fdc184a292f38449b40833f8cbe81e6c.webp",
+    "size": 12416,
+    "source_rel": "kia/models/stinger/images/9b16da1baaf7eabea852a36a70162fd2fdc184a292f38449b40833f8cbe81e6c.webp"
+  },
+  {
+    "filename": "9b5200b116f9f5e851085328befb558f49be1a95fe1b4bf19ed53c343048a8d4.webp",
+    "size": 3358,
+    "source_rel": "kia/models/stinger/images/9b5200b116f9f5e851085328befb558f49be1a95fe1b4bf19ed53c343048a8d4.webp"
+  },
+  {
+    "filename": "9b8243b4c5f876dd1c023651157a1383e38d06e45adbad6f3394e935e0d3a0ea.webp",
+    "size": 28092,
+    "source_rel": "kia/models/stinger/images/9b8243b4c5f876dd1c023651157a1383e38d06e45adbad6f3394e935e0d3a0ea.webp"
+  },
+  {
+    "filename": "9c321221aa628108e6e5e9f7e19c15363782149551e2bb3667f0afd20c1c5931.webp",
+    "size": 3002,
+    "source_rel": "kia/models/stinger/images/9c321221aa628108e6e5e9f7e19c15363782149551e2bb3667f0afd20c1c5931.webp"
+  },
+  {
+    "filename": "9c4522d6015d1192590bf93ee8b4439401488f493de25e06c024b259af2ad358.webp",
+    "size": 13580,
+    "source_rel": "kia/models/stinger/images/9c4522d6015d1192590bf93ee8b4439401488f493de25e06c024b259af2ad358.webp"
+  },
+  {
+    "filename": "9e02cf6b2d1bfa7cd5daf1f927571e1f44baff5f25730ec64a6f7133264d209b.webp",
+    "size": 40538,
+    "source_rel": "kia/models/stinger/images/9e02cf6b2d1bfa7cd5daf1f927571e1f44baff5f25730ec64a6f7133264d209b.webp"
+  },
+  {
+    "filename": "9e061d8586362703b33c45ca1d214872b5a37bed0b8b96eb6b27042643e07a37.webp",
+    "size": 16002,
+    "source_rel": "kia/models/stinger/images/9e061d8586362703b33c45ca1d214872b5a37bed0b8b96eb6b27042643e07a37.webp"
+  },
+  {
+    "filename": "9f24edb5f1de59abf390567ebb37817d0cecb3e2accbc7dc4a3e24bc20edcbe9.webp",
+    "size": 9456,
+    "source_rel": "kia/models/stinger/images/9f24edb5f1de59abf390567ebb37817d0cecb3e2accbc7dc4a3e24bc20edcbe9.webp"
+  },
+  {
+    "filename": "a069da1adda6160b35c1cb0de4af3d2ce6473180c4580018e3678da77e54e636.webp",
+    "size": 3850,
+    "source_rel": "kia/models/stinger/images/a069da1adda6160b35c1cb0de4af3d2ce6473180c4580018e3678da77e54e636.webp"
+  },
+  {
+    "filename": "a132be9496901063b7c749c4acdd369cda5c22a7941285ae1032d94df45e5ca2.webp",
+    "size": 16532,
+    "source_rel": "kia/models/stinger/images/a132be9496901063b7c749c4acdd369cda5c22a7941285ae1032d94df45e5ca2.webp"
+  },
+  {
+    "filename": "a1b55ebab53f5a34e1d685226661aacffc552301f3a4af432253d4625b705946.webp",
+    "size": 3946,
+    "source_rel": "kia/models/stinger/images/a1b55ebab53f5a34e1d685226661aacffc552301f3a4af432253d4625b705946.webp"
+  },
+  {
+    "filename": "a1b9bb557cdeb60c9a196983e973280127dbbc45457e5b5aba5b9b5b0414229c.webp",
+    "size": 65924,
+    "source_rel": "kia/models/stinger/images/a1b9bb557cdeb60c9a196983e973280127dbbc45457e5b5aba5b9b5b0414229c.webp"
+  },
+  {
+    "filename": "a1d8627a824b8f99beac0e53dc9d59acf95a26cef5110ef2d8c3184ca999960b.webp",
+    "size": 13288,
+    "source_rel": "kia/models/stinger/images/a1d8627a824b8f99beac0e53dc9d59acf95a26cef5110ef2d8c3184ca999960b.webp"
+  },
+  {
+    "filename": "a20c8fba5e900bebf11220cc1444d38f40d38fe0037a8aa7c2e3d097e9c5bf56.webp",
+    "size": 18586,
+    "source_rel": "kia/models/stinger/images/a20c8fba5e900bebf11220cc1444d38f40d38fe0037a8aa7c2e3d097e9c5bf56.webp"
+  },
+  {
+    "filename": "a2872708a43f6ca5942b337e94b5ac9bda1d8c35d50b402f728e54ad3a9bf9f6.webp",
+    "size": 19946,
+    "source_rel": "kia/models/stinger/images/a2872708a43f6ca5942b337e94b5ac9bda1d8c35d50b402f728e54ad3a9bf9f6.webp"
+  },
+  {
+    "filename": "a3f45d485e866c7b44581d9b76af68890ad43f74d46d40e103fd3b372dd6a3b3.webp",
+    "size": 14580,
+    "source_rel": "kia/models/stinger/images/a3f45d485e866c7b44581d9b76af68890ad43f74d46d40e103fd3b372dd6a3b3.webp"
+  },
+  {
+    "filename": "a4f12015d1d1c326b74331baec1afd0ea1dbdb3fbefff6642c93f5bebcfbea13.webp",
+    "size": 39706,
+    "source_rel": "kia/models/stinger/images/a4f12015d1d1c326b74331baec1afd0ea1dbdb3fbefff6642c93f5bebcfbea13.webp"
+  },
+  {
+    "filename": "a51616257a0419648a1c8cd01707b8ad2a56fb65accbc25da8c8872031c28643.webp",
+    "size": 10514,
+    "source_rel": "kia/models/stinger/images/a51616257a0419648a1c8cd01707b8ad2a56fb65accbc25da8c8872031c28643.webp"
+  },
+  {
+    "filename": "a5c66b019fbd88fa7092bcde0ef7c7b4343b2d07673efd685436751d9dd3a4fe.webp",
+    "size": 11312,
+    "source_rel": "kia/models/stinger/images/a5c66b019fbd88fa7092bcde0ef7c7b4343b2d07673efd685436751d9dd3a4fe.webp"
+  },
+  {
+    "filename": "a64005480afa7dfa6a4761f669115c9c775d0566e1a8d79dae03a9f4acc22225.webp",
+    "size": 22324,
+    "source_rel": "kia/models/stinger/images/a64005480afa7dfa6a4761f669115c9c775d0566e1a8d79dae03a9f4acc22225.webp"
+  },
+  {
+    "filename": "a6a39f6a93764d51849e2d164dbab796c56049e7aa0ceb86973b720715a7b153.webp",
+    "size": 4676,
+    "source_rel": "kia/models/stinger/images/a6a39f6a93764d51849e2d164dbab796c56049e7aa0ceb86973b720715a7b153.webp"
+  },
+  {
+    "filename": "a6f8aa20775e0d103b1db44daa8938e1a9d58a2dd58fc8ad7e9ce9e3b48f2065.webp",
+    "size": 19086,
+    "source_rel": "kia/models/stinger/images/a6f8aa20775e0d103b1db44daa8938e1a9d58a2dd58fc8ad7e9ce9e3b48f2065.webp"
+  },
+  {
+    "filename": "a848147639c96b649cdd99888e63f4345ff45e3402a1d7163516fbb64d84a6e9.webp",
+    "size": 22000,
+    "source_rel": "kia/models/stinger/images/a848147639c96b649cdd99888e63f4345ff45e3402a1d7163516fbb64d84a6e9.webp"
+  },
+  {
+    "filename": "a8c4a247da999062b2a3c46ac756ebe75851f05cb93de075ca2c58fa3e3bd19e.webp",
+    "size": 17658,
+    "source_rel": "kia/models/stinger/images/a8c4a247da999062b2a3c46ac756ebe75851f05cb93de075ca2c58fa3e3bd19e.webp"
+  },
+  {
+    "filename": "a94975ec2973b00f9243a29a09f680387762c5c9137b396441c90d6e1aef293e.webp",
+    "size": 16114,
+    "source_rel": "kia/models/stinger/images/a94975ec2973b00f9243a29a09f680387762c5c9137b396441c90d6e1aef293e.webp"
+  },
+  {
+    "filename": "a99064b85cb5bc9d4be0ddc4fcc07a7b622c8e961eebd92f943f52d5132aabf6.webp",
+    "size": 12892,
+    "source_rel": "kia/models/stinger/images/a99064b85cb5bc9d4be0ddc4fcc07a7b622c8e961eebd92f943f52d5132aabf6.webp"
+  },
+  {
+    "filename": "a9941e60fa0e79ed9194a812e8357679ae57ff4cff9351364356267ab7c82b4a.webp",
+    "size": 19592,
+    "source_rel": "kia/models/stinger/images/a9941e60fa0e79ed9194a812e8357679ae57ff4cff9351364356267ab7c82b4a.webp"
+  },
+  {
+    "filename": "aa2a4f0d10581f0729810248ac1ddd557fb430922a1d877b4b9f752a7d88be12.webp",
+    "size": 30240,
+    "source_rel": "kia/models/stinger/images/aa2a4f0d10581f0729810248ac1ddd557fb430922a1d877b4b9f752a7d88be12.webp"
+  },
+  {
+    "filename": "aabe30279c77edf3bf3b6e92633aa1cb93f7f41815205e5a39b1255e8c4740d8.webp",
+    "size": 14826,
+    "source_rel": "kia/models/stinger/images/aabe30279c77edf3bf3b6e92633aa1cb93f7f41815205e5a39b1255e8c4740d8.webp"
+  },
+  {
+    "filename": "aaf2eda80e3b41a7cca5aa3cafed0fe80f883fe6bdb914e528c8e3878f66af61.webp",
+    "size": 984,
+    "source_rel": "kia/models/stinger/images/aaf2eda80e3b41a7cca5aa3cafed0fe80f883fe6bdb914e528c8e3878f66af61.webp"
+  },
+  {
+    "filename": "ab4fba595e26d02909c17869fb9d58b5ff8f93303c13b863bbf1beaa0eb51345.webp",
+    "size": 4890,
+    "source_rel": "kia/models/stinger/images/ab4fba595e26d02909c17869fb9d58b5ff8f93303c13b863bbf1beaa0eb51345.webp"
+  },
+  {
+    "filename": "abb2a3ae337e2644b0148453a4f1c2ab8f54bf34d1a449a572aa15fadfc8a35b.webp",
+    "size": 9014,
+    "source_rel": "kia/models/stinger/images/abb2a3ae337e2644b0148453a4f1c2ab8f54bf34d1a449a572aa15fadfc8a35b.webp"
+  },
+  {
+    "filename": "abb48945eb42f1b240b661550d5a49bd38c04d96fc249bdb4beb0a0aab08641d.webp",
+    "size": 4726,
+    "source_rel": "kia/models/stinger/images/abb48945eb42f1b240b661550d5a49bd38c04d96fc249bdb4beb0a0aab08641d.webp"
+  },
+  {
+    "filename": "abe04dde2edbe6f9661e67394aa0f0656b4b275262cd704a724165d50a30e87d.webp",
+    "size": 18934,
+    "source_rel": "kia/models/stinger/images/abe04dde2edbe6f9661e67394aa0f0656b4b275262cd704a724165d50a30e87d.webp"
+  },
+  {
+    "filename": "abe058da9ee52709ed2266d8a2074bbb10fdfbe4009e3f15a6f3cf693c24b97f.webp",
+    "size": 13124,
+    "source_rel": "kia/models/stinger/images/abe058da9ee52709ed2266d8a2074bbb10fdfbe4009e3f15a6f3cf693c24b97f.webp"
+  },
+  {
+    "filename": "ad7eaa16be26b8122af24146a7e9f993826728bde21fe280c35465ea0eb83821.webp",
+    "size": 47660,
+    "source_rel": "kia/models/stinger/images/ad7eaa16be26b8122af24146a7e9f993826728bde21fe280c35465ea0eb83821.webp"
+  },
+  {
+    "filename": "aea064a2800a538e3298733a0a0dc78f25277a7a8a9c1b458ba2be8e7728bd79.webp",
+    "size": 20416,
+    "source_rel": "kia/models/stinger/images/aea064a2800a538e3298733a0a0dc78f25277a7a8a9c1b458ba2be8e7728bd79.webp"
+  },
+  {
+    "filename": "af2115a87b57a2ebd71745d3c4cddcac09343515f9ae9a5818e87d1fb5b0796c.webp",
+    "size": 7638,
+    "source_rel": "kia/models/stinger/images/af2115a87b57a2ebd71745d3c4cddcac09343515f9ae9a5818e87d1fb5b0796c.webp"
+  },
+  {
+    "filename": "af41e78ab9796740997ff4c6e06548a74a5dbf8cfb9cf5e06174e19166973c96.webp",
+    "size": 3308,
+    "source_rel": "kia/models/stinger/images/af41e78ab9796740997ff4c6e06548a74a5dbf8cfb9cf5e06174e19166973c96.webp"
+  },
+  {
+    "filename": "af56d348a6036788362d6b1f95a0642c810397c83d699e2b9a3588cf636fbc98.webp",
+    "size": 26942,
+    "source_rel": "kia/models/stinger/images/af56d348a6036788362d6b1f95a0642c810397c83d699e2b9a3588cf636fbc98.webp"
+  },
+  {
+    "filename": "af870a9a5c19c9234431a2bc5d43d8f0010ae910ad7ea0e982c6411415777e53.webp",
+    "size": 29544,
+    "source_rel": "kia/models/stinger/images/af870a9a5c19c9234431a2bc5d43d8f0010ae910ad7ea0e982c6411415777e53.webp"
+  },
+  {
+    "filename": "b003da92cdbf90d287afc5cda27ba7b5232f1ddc264414600023fe7372643e99.webp",
+    "size": 4174,
+    "source_rel": "kia/models/stinger/images/b003da92cdbf90d287afc5cda27ba7b5232f1ddc264414600023fe7372643e99.webp"
+  },
+  {
+    "filename": "b03915129c2a047d2720a5661c5a2a585d335baf18c8edee810df977914def5b.webp",
+    "size": 17022,
+    "source_rel": "kia/models/stinger/images/b03915129c2a047d2720a5661c5a2a585d335baf18c8edee810df977914def5b.webp"
+  },
+  {
+    "filename": "b041e5c597f4f2a89a69f19d628d6870c4ec14c949fe0e028c6977d7e1ea0441.webp",
+    "size": 7524,
+    "source_rel": "kia/models/stinger/images/b041e5c597f4f2a89a69f19d628d6870c4ec14c949fe0e028c6977d7e1ea0441.webp"
+  },
+  {
+    "filename": "b067e9cd9740d2f212151cfbd099c44a3a79e175176779cc28f4f56733f37a2e.webp",
+    "size": 7280,
+    "source_rel": "kia/models/stinger/images/b067e9cd9740d2f212151cfbd099c44a3a79e175176779cc28f4f56733f37a2e.webp"
+  },
+  {
+    "filename": "b0c77c04f4742f251281c6c12033ec9dc161734473420b473e3d40906483b55a.webp",
+    "size": 13114,
+    "source_rel": "kia/models/stinger/images/b0c77c04f4742f251281c6c12033ec9dc161734473420b473e3d40906483b55a.webp"
+  },
+  {
+    "filename": "b309e5a73dc36ed78483d4a53e66fe737902d6cd88f2e8ec91b1d8a6209a6fe1.webp",
+    "size": 21628,
+    "source_rel": "kia/models/stinger/images/b309e5a73dc36ed78483d4a53e66fe737902d6cd88f2e8ec91b1d8a6209a6fe1.webp"
+  },
+  {
+    "filename": "b34c173a33607b3fc4c74352f892d6061d330286d47af151acd01eb980d66932.webp",
+    "size": 7480,
+    "source_rel": "kia/models/stinger/images/b34c173a33607b3fc4c74352f892d6061d330286d47af151acd01eb980d66932.webp"
+  },
+  {
+    "filename": "b362c16feeb6b264b3f40104f30e44b39f7349d9ee8276ba1a70e60c014ed659.webp",
+    "size": 22380,
+    "source_rel": "kia/models/stinger/images/b362c16feeb6b264b3f40104f30e44b39f7349d9ee8276ba1a70e60c014ed659.webp"
+  },
+  {
+    "filename": "b37536944619d86b36c22db9bf3b36430678265b9169d480d66afcd69913036a.webp",
+    "size": 20288,
+    "source_rel": "kia/models/stinger/images/b37536944619d86b36c22db9bf3b36430678265b9169d480d66afcd69913036a.webp"
+  },
+  {
+    "filename": "b41bae4d333265ba585579d70f447cd8d38c36a1d866f42a0f10bd7417db5ab1.webp",
+    "size": 2904,
+    "source_rel": "kia/models/stinger/images/b41bae4d333265ba585579d70f447cd8d38c36a1d866f42a0f10bd7417db5ab1.webp"
+  },
+  {
+    "filename": "b4624f9aac1a07a92e39696fb7094f5816f3a2e1d9242c9e3bddd3918d60dda3.webp",
+    "size": 17444,
+    "source_rel": "kia/models/stinger/images/b4624f9aac1a07a92e39696fb7094f5816f3a2e1d9242c9e3bddd3918d60dda3.webp"
+  },
+  {
+    "filename": "b501b2570cade1a13f688bbac3b8fe22232ccd9769ef2e4e566d5a0c8119102e.webp",
+    "size": 8124,
+    "source_rel": "kia/models/stinger/images/b501b2570cade1a13f688bbac3b8fe22232ccd9769ef2e4e566d5a0c8119102e.webp"
+  },
+  {
+    "filename": "b55982be466b000cb54e0310398f95f26a8163feac5df250be84a8fac0ee02da.webp",
+    "size": 6844,
+    "source_rel": "kia/models/stinger/images/b55982be466b000cb54e0310398f95f26a8163feac5df250be84a8fac0ee02da.webp"
+  },
+  {
+    "filename": "b5ea99309d0b799610cb8291ac35808d73caaf4afe2236d76d8808311451a843.webp",
+    "size": 9150,
+    "source_rel": "kia/models/stinger/images/b5ea99309d0b799610cb8291ac35808d73caaf4afe2236d76d8808311451a843.webp"
+  },
+  {
+    "filename": "b5f92e385824b24da2afba22b07ba6f73e6843195ca05e4b1abb3100a424e067.webp",
+    "size": 4358,
+    "source_rel": "kia/models/stinger/images/b5f92e385824b24da2afba22b07ba6f73e6843195ca05e4b1abb3100a424e067.webp"
+  },
+  {
+    "filename": "b615d1fb85bd6e0bad1825e714dd1dcca97fbc515aa391a8ea622891b6ad45e1.webp",
+    "size": 14622,
+    "source_rel": "kia/models/stinger/images/b615d1fb85bd6e0bad1825e714dd1dcca97fbc515aa391a8ea622891b6ad45e1.webp"
+  },
+  {
+    "filename": "b63ffaf626802efbca1185f826eb18538548b7668491c606ac358c72d6b5cebc.webp",
+    "size": 4972,
+    "source_rel": "kia/models/stinger/images/b63ffaf626802efbca1185f826eb18538548b7668491c606ac358c72d6b5cebc.webp"
+  },
+  {
+    "filename": "b67edf701ea4a9355c131b3f6b919615337a087641fd256e35e17f8c644ae4f8.webp",
+    "size": 5628,
+    "source_rel": "kia/models/stinger/images/b67edf701ea4a9355c131b3f6b919615337a087641fd256e35e17f8c644ae4f8.webp"
+  },
+  {
+    "filename": "b7513cd81e99af33c64f91901a4c3a9bf3adfd511cea22046456f98c7c15a9e9.webp",
+    "size": 19388,
+    "source_rel": "kia/models/stinger/images/b7513cd81e99af33c64f91901a4c3a9bf3adfd511cea22046456f98c7c15a9e9.webp"
+  },
+  {
+    "filename": "b8cf614edfc0a5e0a0ee30369652d305f5a2673184215033389a4d864f6910c0.webp",
+    "size": 17898,
+    "source_rel": "kia/models/stinger/images/b8cf614edfc0a5e0a0ee30369652d305f5a2673184215033389a4d864f6910c0.webp"
+  },
+  {
+    "filename": "bb2f12f037c20dc77df7961f940101710a446acfd6bc9535d5292834be2aba6d.webp",
+    "size": 21120,
+    "source_rel": "kia/models/stinger/images/bb2f12f037c20dc77df7961f940101710a446acfd6bc9535d5292834be2aba6d.webp"
+  },
+  {
+    "filename": "bb6101a6b245ad6c20fa7ecb8d81d8047b48b948b237a98987995fbc739124af.webp",
+    "size": 51818,
+    "source_rel": "kia/models/stinger/images/bb6101a6b245ad6c20fa7ecb8d81d8047b48b948b237a98987995fbc739124af.webp"
+  },
+  {
+    "filename": "bc5a7b82ffa05013770d05b887e2c66e82625bc73a399220ccf37e99c01b8a43.webp",
+    "size": 13208,
+    "source_rel": "kia/models/stinger/images/bc5a7b82ffa05013770d05b887e2c66e82625bc73a399220ccf37e99c01b8a43.webp"
+  },
+  {
+    "filename": "bcead0d3464f407ce41fddd7f04bbe4da6a98e951053b1c4eb5f747037803a95.webp",
+    "size": 11586,
+    "source_rel": "kia/models/stinger/images/bcead0d3464f407ce41fddd7f04bbe4da6a98e951053b1c4eb5f747037803a95.webp"
+  },
+  {
+    "filename": "bd47a6a1ca33ec9b7b7f3bedf9986cd3b92a82510ea7923efa419f3457d4f6cb.webp",
+    "size": 7858,
+    "source_rel": "kia/models/stinger/images/bd47a6a1ca33ec9b7b7f3bedf9986cd3b92a82510ea7923efa419f3457d4f6cb.webp"
+  },
+  {
+    "filename": "bd7399e947e8da667931111ca60640c27b77d9dfa5c569fcc901c34593495923.webp",
+    "size": 8234,
+    "source_rel": "kia/models/stinger/images/bd7399e947e8da667931111ca60640c27b77d9dfa5c569fcc901c34593495923.webp"
+  },
+  {
+    "filename": "bdf04ca571a3af1624a54aead84f91d34d4228721d7b85c15c02acfedfb05357.webp",
+    "size": 61944,
+    "source_rel": "kia/models/stinger/images/bdf04ca571a3af1624a54aead84f91d34d4228721d7b85c15c02acfedfb05357.webp"
+  },
+  {
+    "filename": "be90e6dee91cf989dd98a832c28081a29de86f69027ab154e4779fbb80d80b72.webp",
+    "size": 4324,
+    "source_rel": "kia/models/stinger/images/be90e6dee91cf989dd98a832c28081a29de86f69027ab154e4779fbb80d80b72.webp"
+  },
+  {
+    "filename": "bea39f23810f98a505b3d1d94b7242825e300ebf9dc7b332a153685343ce8fc5.webp",
+    "size": 15460,
+    "source_rel": "kia/models/stinger/images/bea39f23810f98a505b3d1d94b7242825e300ebf9dc7b332a153685343ce8fc5.webp"
+  },
+  {
+    "filename": "bf67080896c46d7b3e2c45448bc717767536492135820e11d87b5c19d1a780c3.webp",
+    "size": 19742,
+    "source_rel": "kia/models/stinger/images/bf67080896c46d7b3e2c45448bc717767536492135820e11d87b5c19d1a780c3.webp"
+  },
+  {
+    "filename": "c0232a7a3a13bc8c101acbeedf1e1e11c03f242cbe82a1868e2ddbed50c4daa0.webp",
+    "size": 15634,
+    "source_rel": "kia/models/stinger/images/c0232a7a3a13bc8c101acbeedf1e1e11c03f242cbe82a1868e2ddbed50c4daa0.webp"
+  },
+  {
+    "filename": "c05606292b3991552f71078f5cc5cb3b63b93d24150c8c25bfa6e2f3fc998712.webp",
+    "size": 18990,
+    "source_rel": "kia/models/stinger/images/c05606292b3991552f71078f5cc5cb3b63b93d24150c8c25bfa6e2f3fc998712.webp"
+  },
+  {
+    "filename": "c0896d5fb0d8bd8f61b48efc8bfa4604305bf77666ad374e02e30237c57e4118.webp",
+    "size": 15294,
+    "source_rel": "kia/models/stinger/images/c0896d5fb0d8bd8f61b48efc8bfa4604305bf77666ad374e02e30237c57e4118.webp"
+  },
+  {
+    "filename": "c0f77f5b026af4cb43262d04e762664a73fb50590cda64a2a356b093befa6317.webp",
+    "size": 34606,
+    "source_rel": "kia/models/stinger/images/c0f77f5b026af4cb43262d04e762664a73fb50590cda64a2a356b093befa6317.webp"
+  },
+  {
+    "filename": "c17cf65820332f8855848add004b27eeedbf1ce5c1daeba185909774ededf681.webp",
+    "size": 48172,
+    "source_rel": "kia/models/stinger/images/c17cf65820332f8855848add004b27eeedbf1ce5c1daeba185909774ededf681.webp"
+  },
+  {
+    "filename": "c1d86a6dbff1b734eace5f749d7d03a5bfb99c931ae2c24ad1bd8d63cc2b6176.webp",
+    "size": 19306,
+    "source_rel": "kia/models/stinger/images/c1d86a6dbff1b734eace5f749d7d03a5bfb99c931ae2c24ad1bd8d63cc2b6176.webp"
+  },
+  {
+    "filename": "c373a5c0d0c2f131a9787f97c2da233409c7bea5daed992fd13db279cd9577ff.webp",
+    "size": 1158,
+    "source_rel": "kia/models/stinger/images/c373a5c0d0c2f131a9787f97c2da233409c7bea5daed992fd13db279cd9577ff.webp"
+  },
+  {
+    "filename": "c39c88b3e194cc08c7771f4728b307aa6e86370eafc148b60ff7668c758060a2.webp",
+    "size": 22566,
+    "source_rel": "kia/models/stinger/images/c39c88b3e194cc08c7771f4728b307aa6e86370eafc148b60ff7668c758060a2.webp"
+  },
+  {
+    "filename": "c416614b96d8f9aaf1b4e0c2066b281d928099a8d5d72479b33b5a0d92763ff1.webp",
+    "size": 27406,
+    "source_rel": "kia/models/stinger/images/c416614b96d8f9aaf1b4e0c2066b281d928099a8d5d72479b33b5a0d92763ff1.webp"
+  },
+  {
+    "filename": "c50e71a1610a25460dcdd558eccd35a0d951ec4c9ea48ab504c40cc851a5b334.webp",
+    "size": 17192,
+    "source_rel": "kia/models/stinger/images/c50e71a1610a25460dcdd558eccd35a0d951ec4c9ea48ab504c40cc851a5b334.webp"
+  },
+  {
+    "filename": "c57c2d5bb6f1d2086b5840054a4680bd09e7db1877f970536d633819b56b3765.webp",
+    "size": 25218,
+    "source_rel": "kia/models/stinger/images/c57c2d5bb6f1d2086b5840054a4680bd09e7db1877f970536d633819b56b3765.webp"
+  },
+  {
+    "filename": "c62e2427feb57686bfafcb4d79f245ac52477a76433903fb00451c4b30b48f37.webp",
+    "size": 4100,
+    "source_rel": "kia/models/stinger/images/c62e2427feb57686bfafcb4d79f245ac52477a76433903fb00451c4b30b48f37.webp"
+  },
+  {
+    "filename": "c647579123c819977743a95605a92ee14e0f30fc0aa1e46515556f9c6c07e640.webp",
+    "size": 27034,
+    "source_rel": "kia/models/stinger/images/c647579123c819977743a95605a92ee14e0f30fc0aa1e46515556f9c6c07e640.webp"
+  },
+  {
+    "filename": "c6568ff78f3512622966f66f0be2f6bf8cf5fe26f9480323a7abf0d37458c6a5.webp",
+    "size": 910,
+    "source_rel": "kia/models/stinger/images/c6568ff78f3512622966f66f0be2f6bf8cf5fe26f9480323a7abf0d37458c6a5.webp"
+  },
+  {
+    "filename": "c707b2a840ff37558d980c38f726809ed41b8f0a0000539b43493bfcb330cba6.webp",
+    "size": 11480,
+    "source_rel": "kia/models/stinger/images/c707b2a840ff37558d980c38f726809ed41b8f0a0000539b43493bfcb330cba6.webp"
+  },
+  {
+    "filename": "c7218ad963e85f11e4b06c92fbf5eb807171e4d1c48e478a22675216d587e613.webp",
+    "size": 15714,
+    "source_rel": "kia/models/stinger/images/c7218ad963e85f11e4b06c92fbf5eb807171e4d1c48e478a22675216d587e613.webp"
+  },
+  {
+    "filename": "c8148ea74d6ca1d54b8b7b35c48bd52735527a4d94ff207f747cd2e89a307d4b.webp",
+    "size": 45116,
+    "source_rel": "kia/models/stinger/images/c8148ea74d6ca1d54b8b7b35c48bd52735527a4d94ff207f747cd2e89a307d4b.webp"
+  },
+  {
+    "filename": "c93a9ee9bc78c4c4dede02d65560003f023d18b56a4a3e2bbbd36a907d658101.webp",
+    "size": 4302,
+    "source_rel": "kia/models/stinger/images/c93a9ee9bc78c4c4dede02d65560003f023d18b56a4a3e2bbbd36a907d658101.webp"
+  },
+  {
+    "filename": "c9a239992167bdfc3dbaf84fa1a1dd88914963da93ea30c57d97e5470f5f62a7.webp",
+    "size": 17866,
+    "source_rel": "kia/models/stinger/images/c9a239992167bdfc3dbaf84fa1a1dd88914963da93ea30c57d97e5470f5f62a7.webp"
+  },
+  {
+    "filename": "cb541506c2efccc6b97475382dc7ae1fa78808a64d49aadb41951e9d99728fc5.webp",
+    "size": 17046,
+    "source_rel": "kia/models/stinger/images/cb541506c2efccc6b97475382dc7ae1fa78808a64d49aadb41951e9d99728fc5.webp"
+  },
+  {
+    "filename": "cc8aa2d86dfe034fbb5381241ef230f6cf09fff59ee1e572d78c9a968ea942c6.webp",
+    "size": 21778,
+    "source_rel": "kia/models/stinger/images/cc8aa2d86dfe034fbb5381241ef230f6cf09fff59ee1e572d78c9a968ea942c6.webp"
+  },
+  {
+    "filename": "ccb5da3c7a2eefb3c7bdb21c442e57451334fc1b6c9b3ecc508cf0ed97970449.webp",
+    "size": 13934,
+    "source_rel": "kia/models/stinger/images/ccb5da3c7a2eefb3c7bdb21c442e57451334fc1b6c9b3ecc508cf0ed97970449.webp"
+  },
+  {
+    "filename": "ccf25f80177ca0a695d5ef0bb563659abe65213c282491fa2743a13a31323e69.webp",
+    "size": 26592,
+    "source_rel": "kia/models/stinger/images/ccf25f80177ca0a695d5ef0bb563659abe65213c282491fa2743a13a31323e69.webp"
+  },
+  {
+    "filename": "cd8850dd68cebf3fcbe8d71bcad02b92f7abde58d4dd6178e51803caf590fc61.webp",
+    "size": 13340,
+    "source_rel": "kia/models/stinger/images/cd8850dd68cebf3fcbe8d71bcad02b92f7abde58d4dd6178e51803caf590fc61.webp"
+  },
+  {
+    "filename": "cdaa2a8c2b4c5d86bdb86b015c22869983d10ee813f0bb3f1ab6a45e7525caa0.webp",
+    "size": 4282,
+    "source_rel": "kia/models/stinger/images/cdaa2a8c2b4c5d86bdb86b015c22869983d10ee813f0bb3f1ab6a45e7525caa0.webp"
+  },
+  {
+    "filename": "cdeb0515b01828fd87dde7e229b3dc2f2602561c0ecc00cf0e1ac952c0a2f6d1.webp",
+    "size": 49280,
+    "source_rel": "kia/models/stinger/images/cdeb0515b01828fd87dde7e229b3dc2f2602561c0ecc00cf0e1ac952c0a2f6d1.webp"
+  },
+  {
+    "filename": "ceb3e5cfe1696bfbd17f5bc30871f83466b6d738ae9558c22243ab01f240f25c.webp",
+    "size": 9460,
+    "source_rel": "kia/models/stinger/images/ceb3e5cfe1696bfbd17f5bc30871f83466b6d738ae9558c22243ab01f240f25c.webp"
+  },
+  {
+    "filename": "ceb7b0d33a7938e400d694bf7510a2f3f9e9f17db2688a8a749d351d85c2dd1c.webp",
+    "size": 22214,
+    "source_rel": "kia/models/stinger/images/ceb7b0d33a7938e400d694bf7510a2f3f9e9f17db2688a8a749d351d85c2dd1c.webp"
+  },
+  {
+    "filename": "ced2fe7f8526c50554379b774c372adfb0453c1362e87e802434282562c1ff7f.webp",
+    "size": 9750,
+    "source_rel": "kia/models/stinger/images/ced2fe7f8526c50554379b774c372adfb0453c1362e87e802434282562c1ff7f.webp"
+  },
+  {
+    "filename": "cf0e296155dcbaf6f8ed8f6a777185b47828c136d9c022627a36ba033a3f3a8e.webp",
+    "size": 4244,
+    "source_rel": "kia/models/stinger/images/cf0e296155dcbaf6f8ed8f6a777185b47828c136d9c022627a36ba033a3f3a8e.webp"
+  },
+  {
+    "filename": "cf41294ee9b27b9ee2295a0aaf8eb2bd854a0dc38a8caa1ee98256521e7c07b4.webp",
+    "size": 15328,
+    "source_rel": "kia/models/stinger/images/cf41294ee9b27b9ee2295a0aaf8eb2bd854a0dc38a8caa1ee98256521e7c07b4.webp"
+  },
+  {
+    "filename": "d0cae754a16442fe0bad8daf75dfc7115ee77594944613982c7c60347fee0cda.webp",
+    "size": 19708,
+    "source_rel": "kia/models/stinger/images/d0cae754a16442fe0bad8daf75dfc7115ee77594944613982c7c60347fee0cda.webp"
+  },
+  {
+    "filename": "d2475ff1332f5861f73a4208ea274338caa34dde6c8d28190b21239cfb5dbcc0.webp",
+    "size": 17472,
+    "source_rel": "kia/models/stinger/images/d2475ff1332f5861f73a4208ea274338caa34dde6c8d28190b21239cfb5dbcc0.webp"
+  },
+  {
+    "filename": "d2487f7a5ed3d9057ea58baf76dd550603dd619ac2fe54dcacb15ef03edb3333.webp",
+    "size": 13706,
+    "source_rel": "kia/models/stinger/images/d2487f7a5ed3d9057ea58baf76dd550603dd619ac2fe54dcacb15ef03edb3333.webp"
+  },
+  {
+    "filename": "d249af8ce40861cad05d635e70a0388b24e71bc7ec6e8ead7d12c76b11b47d16.webp",
+    "size": 20598,
+    "source_rel": "kia/models/stinger/images/d249af8ce40861cad05d635e70a0388b24e71bc7ec6e8ead7d12c76b11b47d16.webp"
+  },
+  {
+    "filename": "d2a33f025bd9095b02ed3c2c4ea4b92e8eaef48e672df9b5ae4201b188820c97.webp",
+    "size": 15636,
+    "source_rel": "kia/models/stinger/images/d2a33f025bd9095b02ed3c2c4ea4b92e8eaef48e672df9b5ae4201b188820c97.webp"
+  },
+  {
+    "filename": "d2ddd4fe3bb69a694550c2cb3d749ede50e3218c077be8ff93f2f983b1434359.webp",
+    "size": 16702,
+    "source_rel": "kia/models/stinger/images/d2ddd4fe3bb69a694550c2cb3d749ede50e3218c077be8ff93f2f983b1434359.webp"
+  },
+  {
+    "filename": "d3b477cfbca392f37b2ce8a7c637dfb9c445c27757286d89ac6da26e75ea9470.webp",
+    "size": 12462,
+    "source_rel": "kia/models/stinger/images/d3b477cfbca392f37b2ce8a7c637dfb9c445c27757286d89ac6da26e75ea9470.webp"
+  },
+  {
+    "filename": "d40ce4965a493376ef725205c5017defd3b0b01d901e1c2088de559f039d690d.webp",
+    "size": 8642,
+    "source_rel": "kia/models/stinger/images/d40ce4965a493376ef725205c5017defd3b0b01d901e1c2088de559f039d690d.webp"
+  },
+  {
+    "filename": "d54c59af5b288206355b0e20d82509f4b2633b62cc3b248903083e25acafd72a.webp",
+    "size": 14190,
+    "source_rel": "kia/models/stinger/images/d54c59af5b288206355b0e20d82509f4b2633b62cc3b248903083e25acafd72a.webp"
+  },
+  {
+    "filename": "d55828950addbe6e9d48cee4f0cad5c19cbb6401bd66964270414dd348341d85.webp",
+    "size": 22560,
+    "source_rel": "kia/models/stinger/images/d55828950addbe6e9d48cee4f0cad5c19cbb6401bd66964270414dd348341d85.webp"
+  },
+  {
+    "filename": "d57ac4c5af8461af0d09e1c3e08e86589de24ae346780fe1aa33be39f7c39b0d.webp",
+    "size": 11884,
+    "source_rel": "kia/models/stinger/images/d57ac4c5af8461af0d09e1c3e08e86589de24ae346780fe1aa33be39f7c39b0d.webp"
+  },
+  {
+    "filename": "d665a5afe846bb65235f18607417d46f9de7144ac10634d5b193ef581d0aa1d9.webp",
+    "size": 17152,
+    "source_rel": "kia/models/stinger/images/d665a5afe846bb65235f18607417d46f9de7144ac10634d5b193ef581d0aa1d9.webp"
+  },
+  {
+    "filename": "d6e0091ac2b3a35f65cc0ef6369f8c3f25f661de6ee16bdb4ae00d0bf0e74d59.webp",
+    "size": 3376,
+    "source_rel": "kia/models/stinger/images/d6e0091ac2b3a35f65cc0ef6369f8c3f25f661de6ee16bdb4ae00d0bf0e74d59.webp"
+  },
+  {
+    "filename": "d7026bd5886b1479afa67490dce7a71a24eea60bbcc273018aece6d9dd66d044.webp",
+    "size": 28866,
+    "source_rel": "kia/models/stinger/images/d7026bd5886b1479afa67490dce7a71a24eea60bbcc273018aece6d9dd66d044.webp"
+  },
+  {
+    "filename": "d71a854cc2f00e22159c311b9b9aaeb1889814daa90789b0cec1377969de43eb.webp",
+    "size": 17932,
+    "source_rel": "kia/models/stinger/images/d71a854cc2f00e22159c311b9b9aaeb1889814daa90789b0cec1377969de43eb.webp"
+  },
+  {
+    "filename": "d764d513d73408c468f96b395a51c9cc47266919d8dd9e3926ad84aec38043c9.webp",
+    "size": 9582,
+    "source_rel": "kia/models/stinger/images/d764d513d73408c468f96b395a51c9cc47266919d8dd9e3926ad84aec38043c9.webp"
+  },
+  {
+    "filename": "d7cb82806d3eeff8dd3dff7c64d49710da8a0ab6ccf69016a0b57cbc117442fa.webp",
+    "size": 19102,
+    "source_rel": "kia/models/stinger/images/d7cb82806d3eeff8dd3dff7c64d49710da8a0ab6ccf69016a0b57cbc117442fa.webp"
+  },
+  {
+    "filename": "da983a3ff1f6244d473d5e1002fa6adb5f1cc44c70d8c0608ac62f598ce79748.webp",
+    "size": 14340,
+    "source_rel": "kia/models/stinger/images/da983a3ff1f6244d473d5e1002fa6adb5f1cc44c70d8c0608ac62f598ce79748.webp"
+  },
+  {
+    "filename": "dac026460ebc1bbeae37dc1cbd5cfc93ce31deacb9fa06607d61f5143c9a8531.webp",
+    "size": 40204,
+    "source_rel": "kia/models/stinger/images/dac026460ebc1bbeae37dc1cbd5cfc93ce31deacb9fa06607d61f5143c9a8531.webp"
+  },
+  {
+    "filename": "db549789d57f2fce2a53c31980c197f712930289f89aedbc6c6bdf4a52bb44c6.webp",
+    "size": 13244,
+    "source_rel": "kia/models/stinger/images/db549789d57f2fce2a53c31980c197f712930289f89aedbc6c6bdf4a52bb44c6.webp"
+  },
+  {
+    "filename": "dbaddead9e8e527f655f1f44a4d28733cc2a9c0d2d45bf082ffe12b90c150c25.webp",
+    "size": 8474,
+    "source_rel": "kia/models/stinger/images/dbaddead9e8e527f655f1f44a4d28733cc2a9c0d2d45bf082ffe12b90c150c25.webp"
+  },
+  {
+    "filename": "dbb3104564ab360fda1c767575469bff920f12ec177335d1e947c6b2b1489a2b.webp",
+    "size": 4308,
+    "source_rel": "kia/models/stinger/images/dbb3104564ab360fda1c767575469bff920f12ec177335d1e947c6b2b1489a2b.webp"
+  },
+  {
+    "filename": "dc40a4ae83fa3f44547307a8aeb631accd08c0e84ca8dd96efbf435a7f9c1624.webp",
+    "size": 1248,
+    "source_rel": "kia/models/stinger/images/dc40a4ae83fa3f44547307a8aeb631accd08c0e84ca8dd96efbf435a7f9c1624.webp"
+  },
+  {
+    "filename": "dc909db9f00a16861357c8724c174682096562d22ee22af728674633313c0473.webp",
+    "size": 16604,
+    "source_rel": "kia/models/stinger/images/dc909db9f00a16861357c8724c174682096562d22ee22af728674633313c0473.webp"
+  },
+  {
+    "filename": "dcdf68f72cd613c90b194b9151d7aa35686b818260fa81f63306eee627309288.webp",
+    "size": 39168,
+    "source_rel": "kia/models/stinger/images/dcdf68f72cd613c90b194b9151d7aa35686b818260fa81f63306eee627309288.webp"
+  },
+  {
+    "filename": "dd88b6105a2325ec2f0a7a837f36e4062aa05a8ed32ad9916d4b86f8e739a604.webp",
+    "size": 15028,
+    "source_rel": "kia/models/stinger/images/dd88b6105a2325ec2f0a7a837f36e4062aa05a8ed32ad9916d4b86f8e739a604.webp"
+  },
+  {
+    "filename": "ddeeda80c16d96d331cb30212e69aa4609e4c1e1f7e1954c75aacb860cb23315.webp",
+    "size": 3844,
+    "source_rel": "kia/models/stinger/images/ddeeda80c16d96d331cb30212e69aa4609e4c1e1f7e1954c75aacb860cb23315.webp"
+  },
+  {
+    "filename": "ddfe1c159c775e67a36eaac4227e04cb7c62a469956799c1ac3702ac7b8224c4.webp",
+    "size": 8934,
+    "source_rel": "kia/models/stinger/images/ddfe1c159c775e67a36eaac4227e04cb7c62a469956799c1ac3702ac7b8224c4.webp"
+  },
+  {
+    "filename": "de16820815240b86c1210322c76d3746a16161287714446233b9e56ae5254ca4.webp",
+    "size": 20440,
+    "source_rel": "kia/models/stinger/images/de16820815240b86c1210322c76d3746a16161287714446233b9e56ae5254ca4.webp"
+  },
+  {
+    "filename": "de57c28eff5e7d55dfa9d1978debbed2f334a4e8a1527b7c1750a6d41a7862b5.webp",
+    "size": 4574,
+    "source_rel": "kia/models/stinger/images/de57c28eff5e7d55dfa9d1978debbed2f334a4e8a1527b7c1750a6d41a7862b5.webp"
+  },
+  {
+    "filename": "df5b99687112dbe0326634bdbbf996776c1d2380216045e5690714a9f1ff690d.webp",
+    "size": 5330,
+    "source_rel": "kia/models/stinger/images/df5b99687112dbe0326634bdbbf996776c1d2380216045e5690714a9f1ff690d.webp"
+  },
+  {
+    "filename": "df855eb9f78cb00c2e1c3fad46b04b6c7568447febfe4faaf75d3a9e14b21699.webp",
+    "size": 19990,
+    "source_rel": "kia/models/stinger/images/df855eb9f78cb00c2e1c3fad46b04b6c7568447febfe4faaf75d3a9e14b21699.webp"
+  },
+  {
+    "filename": "dfa88f15178da37d3206fb10e3708b14b003ae179082a482d38b32e2ec09b41e.webp",
+    "size": 3668,
+    "source_rel": "kia/models/stinger/images/dfa88f15178da37d3206fb10e3708b14b003ae179082a482d38b32e2ec09b41e.webp"
+  },
+  {
+    "filename": "e0831d7683d799360fb512cb46a13eacc8bc055c9f54fef72a37d431099d056a.webp",
+    "size": 1890,
+    "source_rel": "kia/models/stinger/images/e0831d7683d799360fb512cb46a13eacc8bc055c9f54fef72a37d431099d056a.webp"
+  },
+  {
+    "filename": "e10679a69da3098fa984c2bebc96f6f3c678b7c0b89fa33de2fbbaf1744d715e.webp",
+    "size": 6632,
+    "source_rel": "kia/models/stinger/images/e10679a69da3098fa984c2bebc96f6f3c678b7c0b89fa33de2fbbaf1744d715e.webp"
+  },
+  {
+    "filename": "e14c998f90e7153db06ac0c65bfdb2f1c31c1b3ca6c955511068052d59235a77.webp",
+    "size": 22248,
+    "source_rel": "kia/models/stinger/images/e14c998f90e7153db06ac0c65bfdb2f1c31c1b3ca6c955511068052d59235a77.webp"
+  },
+  {
+    "filename": "e1a2e9cb6cf408e23452517c8bfd0e109c87aa1a0cc9595b02c198d7126f14a7.webp",
+    "size": 14764,
+    "source_rel": "kia/models/stinger/images/e1a2e9cb6cf408e23452517c8bfd0e109c87aa1a0cc9595b02c198d7126f14a7.webp"
+  },
+  {
+    "filename": "e23b15d81a47666c540660560472291f3b59d0bdd2e16b511f64665981d2fca4.webp",
+    "size": 15406,
+    "source_rel": "kia/models/stinger/images/e23b15d81a47666c540660560472291f3b59d0bdd2e16b511f64665981d2fca4.webp"
+  },
+  {
+    "filename": "e2dfe019d9d0a79cf268b5a4f8d59c5d403b239eb1f6068a20b39f4a7b687f51.webp",
+    "size": 928,
+    "source_rel": "kia/models/stinger/images/e2dfe019d9d0a79cf268b5a4f8d59c5d403b239eb1f6068a20b39f4a7b687f51.webp"
+  },
+  {
+    "filename": "e34a2f36fbffba342566b9f6c3687c9e2256acd2baa80706ace0a86413de72fc.webp",
+    "size": 14270,
+    "source_rel": "kia/models/stinger/images/e34a2f36fbffba342566b9f6c3687c9e2256acd2baa80706ace0a86413de72fc.webp"
+  },
+  {
+    "filename": "e4cc5f7bdfcdb0413f1bd77786ef24f8c174dc91d61ef4599a4fac8fe38ec2a0.webp",
+    "size": 14082,
+    "source_rel": "kia/models/stinger/images/e4cc5f7bdfcdb0413f1bd77786ef24f8c174dc91d61ef4599a4fac8fe38ec2a0.webp"
+  },
+  {
+    "filename": "e557a806c47f0a749fe3dfaf35ac80061fe20289f4275516a22a0afd6542b33d.webp",
+    "size": 3948,
+    "source_rel": "kia/models/stinger/images/e557a806c47f0a749fe3dfaf35ac80061fe20289f4275516a22a0afd6542b33d.webp"
+  },
+  {
+    "filename": "e6218fdc1ab448f2c5590573bd0a16beefd7c1746f5f3b8217bb0fa36bde5731.webp",
+    "size": 19284,
+    "source_rel": "kia/models/stinger/images/e6218fdc1ab448f2c5590573bd0a16beefd7c1746f5f3b8217bb0fa36bde5731.webp"
+  },
+  {
+    "filename": "e659e4b0028c567f896bb98bc8561c0e4cc938fdca4b4dc78658469522a2b782.webp",
+    "size": 17136,
+    "source_rel": "kia/models/stinger/images/e659e4b0028c567f896bb98bc8561c0e4cc938fdca4b4dc78658469522a2b782.webp"
+  },
+  {
+    "filename": "e677c53518d0ca8a750fd358f4f6ae43ee073582b00c00b042c5756dc7a06908.webp",
+    "size": 1828,
+    "source_rel": "kia/models/stinger/images/e677c53518d0ca8a750fd358f4f6ae43ee073582b00c00b042c5756dc7a06908.webp"
+  },
+  {
+    "filename": "e70e5d971a855cb2a855282bedba583ac0d3bb1285208b1ffdc75fa1a5398d4c.webp",
+    "size": 13760,
+    "source_rel": "kia/models/stinger/images/e70e5d971a855cb2a855282bedba583ac0d3bb1285208b1ffdc75fa1a5398d4c.webp"
+  },
+  {
+    "filename": "e750425166267425e7d433c4e51185dc8f22f0eb2a0063649982af9c2e10b19a.webp",
+    "size": 15388,
+    "source_rel": "kia/models/stinger/images/e750425166267425e7d433c4e51185dc8f22f0eb2a0063649982af9c2e10b19a.webp"
+  },
+  {
+    "filename": "e8ea11e7d995a74fc2a5ff1b6a2c3f0ba174af03ef984ff9fa1f22400839f632.webp",
+    "size": 15382,
+    "source_rel": "kia/models/stinger/images/e8ea11e7d995a74fc2a5ff1b6a2c3f0ba174af03ef984ff9fa1f22400839f632.webp"
+  },
+  {
+    "filename": "e92c89ee71cb8989a765ddb555ecc69cc2435f1a66815b6a8f10e722333d79da.webp",
+    "size": 18340,
+    "source_rel": "kia/models/stinger/images/e92c89ee71cb8989a765ddb555ecc69cc2435f1a66815b6a8f10e722333d79da.webp"
+  },
+  {
+    "filename": "ea4ce41784a05c2f77b574e5bea5644bdb3e00ee67406a8a501d57cb105f74d5.webp",
+    "size": 16856,
+    "source_rel": "kia/models/stinger/images/ea4ce41784a05c2f77b574e5bea5644bdb3e00ee67406a8a501d57cb105f74d5.webp"
+  },
+  {
+    "filename": "eb0802cc1e13284b347b5a9328cf4cc8cadd26135a69551a5cdddaf1de5ea397.webp",
+    "size": 8568,
+    "source_rel": "kia/models/stinger/images/eb0802cc1e13284b347b5a9328cf4cc8cadd26135a69551a5cdddaf1de5ea397.webp"
+  },
+  {
+    "filename": "eb815aca16eeb7fbf3617325a007f38c3fe6b873f1a7d1465332ce3ba56a5ee3.webp",
+    "size": 9832,
+    "source_rel": "kia/models/stinger/images/eb815aca16eeb7fbf3617325a007f38c3fe6b873f1a7d1465332ce3ba56a5ee3.webp"
+  },
+  {
+    "filename": "ec3668336f6ef063d9ac1b54f7f98ac00ae9217dae83ac2dc52a1e2006686b3e.webp",
+    "size": 8380,
+    "source_rel": "kia/models/stinger/images/ec3668336f6ef063d9ac1b54f7f98ac00ae9217dae83ac2dc52a1e2006686b3e.webp"
+  },
+  {
+    "filename": "ec49591983836431717e795e0b250d07c5cf592bafb053b94c0b897693d757ed.webp",
+    "size": 13334,
+    "source_rel": "kia/models/stinger/images/ec49591983836431717e795e0b250d07c5cf592bafb053b94c0b897693d757ed.webp"
+  },
+  {
+    "filename": "ecc80ffb3acf1cc5a200ceb59c9f9174ebbdbf2466943e855432ac4e5454b2e9.webp",
+    "size": 12956,
+    "source_rel": "kia/models/stinger/images/ecc80ffb3acf1cc5a200ceb59c9f9174ebbdbf2466943e855432ac4e5454b2e9.webp"
+  },
+  {
+    "filename": "ecfb20ac01eddeabb7b1f454dfa90a547b8aff3d02f3b80a8e192ebce36e6bc3.webp",
+    "size": 4582,
+    "source_rel": "kia/models/stinger/images/ecfb20ac01eddeabb7b1f454dfa90a547b8aff3d02f3b80a8e192ebce36e6bc3.webp"
+  },
+  {
+    "filename": "ed5b7de239616669098c3a6ee5be0e30d6fed77f5943f05a6237538831e1f47c.webp",
+    "size": 18230,
+    "source_rel": "kia/models/stinger/images/ed5b7de239616669098c3a6ee5be0e30d6fed77f5943f05a6237538831e1f47c.webp"
+  },
+  {
+    "filename": "ee72362fbf8ace3ef233657ef65061b85a84c2bc49954635f83e7d4e298188e4.webp",
+    "size": 16998,
+    "source_rel": "kia/models/stinger/images/ee72362fbf8ace3ef233657ef65061b85a84c2bc49954635f83e7d4e298188e4.webp"
+  },
+  {
+    "filename": "ee90533503f5b10ad0061f690cb9c3cbe7dea8be5ccb97553c199052062f07ce.webp",
+    "size": 11138,
+    "source_rel": "kia/models/stinger/images/ee90533503f5b10ad0061f690cb9c3cbe7dea8be5ccb97553c199052062f07ce.webp"
+  },
+  {
+    "filename": "eeda855bae14a3d8fa7e36d41c5d746853893155c878ae31ce489b06acd456bf.webp",
+    "size": 13256,
+    "source_rel": "kia/models/stinger/images/eeda855bae14a3d8fa7e36d41c5d746853893155c878ae31ce489b06acd456bf.webp"
+  },
+  {
+    "filename": "ef983347adfcca38cd8f0ce0db5dafe341b97584392a751df3ec497e0ed85eff.webp",
+    "size": 7266,
+    "source_rel": "kia/models/stinger/images/ef983347adfcca38cd8f0ce0db5dafe341b97584392a751df3ec497e0ed85eff.webp"
+  },
+  {
+    "filename": "f016aa5b6df2f8edf75040a58c9cacf050771f61760dac01039bee22d17a89ea.webp",
+    "size": 8570,
+    "source_rel": "kia/models/stinger/images/f016aa5b6df2f8edf75040a58c9cacf050771f61760dac01039bee22d17a89ea.webp"
+  },
+  {
+    "filename": "f04df435cc41876ae9f64d7fac84b34d162b57855df594aa6b8db76a5b2eec04.webp",
+    "size": 30856,
+    "source_rel": "kia/models/stinger/images/f04df435cc41876ae9f64d7fac84b34d162b57855df594aa6b8db76a5b2eec04.webp"
+  },
+  {
+    "filename": "f1e794aeb4c44cb4221d730d8c059da9e2703ffc452843851664b7f438213a08.webp",
+    "size": 16740,
+    "source_rel": "kia/models/stinger/images/f1e794aeb4c44cb4221d730d8c059da9e2703ffc452843851664b7f438213a08.webp"
+  },
+  {
+    "filename": "f34749c1448bfc324394841987fdba3426d6de47cd3748ddf76c252881e32c69.webp",
+    "size": 16572,
+    "source_rel": "kia/models/stinger/images/f34749c1448bfc324394841987fdba3426d6de47cd3748ddf76c252881e32c69.webp"
+  },
+  {
+    "filename": "f34b91b75d9b4874b78d3e106300f8ab8f4f2894be701b6466bb3caf41234704.webp",
+    "size": 10464,
+    "source_rel": "kia/models/stinger/images/f34b91b75d9b4874b78d3e106300f8ab8f4f2894be701b6466bb3caf41234704.webp"
+  },
+  {
+    "filename": "f52cd7b49e00c606f710532a69b7aa93e6c7f3b2f2be1115f38c7ab25ccb3f28.webp",
+    "size": 34056,
+    "source_rel": "kia/models/stinger/images/f52cd7b49e00c606f710532a69b7aa93e6c7f3b2f2be1115f38c7ab25ccb3f28.webp"
+  },
+  {
+    "filename": "f5432ffa6823ea549942ad1fc64b4484bd836f736e14b63d394214df707da897.webp",
+    "size": 25470,
+    "source_rel": "kia/models/stinger/images/f5432ffa6823ea549942ad1fc64b4484bd836f736e14b63d394214df707da897.webp"
+  },
+  {
+    "filename": "f5842726fda212286fa3803fad5e752bd6b8822e59205d249c5b49de17fcf671.webp",
+    "size": 10412,
+    "source_rel": "kia/models/stinger/images/f5842726fda212286fa3803fad5e752bd6b8822e59205d249c5b49de17fcf671.webp"
+  },
+  {
+    "filename": "f627a0cb95845f1eedc44cb84753da08d4bb769c686d72e043f4a016dcc8be74.webp",
+    "size": 88962,
+    "source_rel": "kia/models/stinger/images/f627a0cb95845f1eedc44cb84753da08d4bb769c686d72e043f4a016dcc8be74.webp"
+  },
+  {
+    "filename": "f6c25194cd2ec2298088ee48f561ae7eed2135fd4e6f8e92820b20c941e41a67.webp",
+    "size": 42444,
+    "source_rel": "kia/models/stinger/images/f6c25194cd2ec2298088ee48f561ae7eed2135fd4e6f8e92820b20c941e41a67.webp"
+  },
+  {
+    "filename": "f7e475d08c9c9517062de1fd459b4917bd2e0d1a21c285c9fa5e6e5e291bfa60.webp",
+    "size": 19848,
+    "source_rel": "kia/models/stinger/images/f7e475d08c9c9517062de1fd459b4917bd2e0d1a21c285c9fa5e6e5e291bfa60.webp"
+  },
+  {
+    "filename": "f834a7f12571c8f7d046c2fbcf7d48343261dda188e3bac0ac297c847e9f2a56.webp",
+    "size": 2152,
+    "source_rel": "kia/models/stinger/images/f834a7f12571c8f7d046c2fbcf7d48343261dda188e3bac0ac297c847e9f2a56.webp"
+  },
+  {
+    "filename": "f88eabd2c639d1f03cda5a941c4479b669594189b173931ef0fc78504c818748.webp",
+    "size": 8296,
+    "source_rel": "kia/models/stinger/images/f88eabd2c639d1f03cda5a941c4479b669594189b173931ef0fc78504c818748.webp"
+  },
+  {
+    "filename": "f8c182fe2465eb933a4cdaa9ba78ad34e5fe85c388a4e35f68795af328fd2d76.webp",
+    "size": 34412,
+    "source_rel": "kia/models/stinger/images/f8c182fe2465eb933a4cdaa9ba78ad34e5fe85c388a4e35f68795af328fd2d76.webp"
+  },
+  {
+    "filename": "f9c7dc2509e250099ff787a35ba318b183b53b5a9b92436e25a047416e5a1b30.webp",
+    "size": 15682,
+    "source_rel": "kia/models/stinger/images/f9c7dc2509e250099ff787a35ba318b183b53b5a9b92436e25a047416e5a1b30.webp"
+  },
+  {
+    "filename": "fa1aef6e209394ca14338120f788c86a50520b4fad6ddd211055501da1f21f6f.webp",
+    "size": 3350,
+    "source_rel": "kia/models/stinger/images/fa1aef6e209394ca14338120f788c86a50520b4fad6ddd211055501da1f21f6f.webp"
+  },
+  {
+    "filename": "fa30dffa8347a8c55b0a059b3c944509c783a7a003bf6cc26f2d78ef6c282739.webp",
+    "size": 15578,
+    "source_rel": "kia/models/stinger/images/fa30dffa8347a8c55b0a059b3c944509c783a7a003bf6cc26f2d78ef6c282739.webp"
+  },
+  {
+    "filename": "fab6397817c9439ced7e6ca5c2e578a54bf3113ee42bc562fa8a93d1545195de.webp",
+    "size": 6892,
+    "source_rel": "kia/models/stinger/images/fab6397817c9439ced7e6ca5c2e578a54bf3113ee42bc562fa8a93d1545195de.webp"
+  },
+  {
+    "filename": "fbc2401c275283703d03b607a1273644099e3f40f374bf7132e5734262a6304c.webp",
+    "size": 10706,
+    "source_rel": "kia/models/stinger/images/fbc2401c275283703d03b607a1273644099e3f40f374bf7132e5734262a6304c.webp"
+  },
+  {
+    "filename": "fe8a441feea1eb3592cdc9aee52abdfc9563d5ef16c203b34ded881b06a43a5d.webp",
+    "size": 14788,
+    "source_rel": "kia/models/stinger/images/fe8a441feea1eb3592cdc9aee52abdfc9563d5ef16c203b34ded881b06a43a5d.webp"
+  },
+  {
+    "filename": "ff359507ac9161f79e680f7e3693cdd77cbcd09847c942973b6d831e9e7f17c9.webp",
+    "size": 19122,
+    "source_rel": "kia/models/stinger/images/ff359507ac9161f79e680f7e3693cdd77cbcd09847c942973b6d831e9e7f17c9.webp"
+  },
+  {
+    "filename": "ff39f85e1385c44ade9dffb4d2f7c22b2e793dac8b04f5de1733eb693cfc765d.webp",
+    "size": 15138,
+    "source_rel": "kia/models/stinger/images/ff39f85e1385c44ade9dffb4d2f7c22b2e793dac8b04f5de1733eb693cfc765d.webp"
+  },
+  {
+    "filename": "ff85994e6c8930ce24e157f44f5dc41ef3e4c432f04cd4dfdb4d84534048c2a7.webp",
+    "size": 7566,
+    "source_rel": "kia/models/stinger/images/ff85994e6c8930ce24e157f44f5dc41ef3e4c432f04cd4dfdb4d84534048c2a7.webp"
+  },
+  {
+    "filename": "ff9c44fbc9cc2d72dd91af178c6511be3d871fd73739b9591804069a8b902569.webp",
+    "size": 3186,
+    "source_rel": "kia/models/stinger/images/ff9c44fbc9cc2d72dd91af178c6511be3d871fd73739b9591804069a8b902569.webp"
+  },
+  {
+    "filename": "fffc546aecf014fb6efd15b4f47e446eeb97522b728eecb30e3b54bfaa3ebf2e.webp",
+    "size": 4358,
+    "source_rel": "kia/models/stinger/images/fffc546aecf014fb6efd15b4f47e446eeb97522b728eecb30e3b54bfaa3ebf2e.webp"
+  }
+]

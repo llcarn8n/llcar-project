@@ -1,0 +1,1827 @@
+{
+  "brand": "honda",
+  "model": "cr_v",
+  "source": "manual_extract+template",
+  "total_parts": 440,
+  "systems": {
+    "Uncategorized": 345,
+    "Engine": 15,
+    "Fuel System": 4,
+    "Exhaust System": 5,
+    "Cooling System": 8,
+    "Transmission": 5,
+    "Brake System": 9,
+    "Suspension / Wheels": 13,
+    "Steering": 4,
+    "Electrical": 8,
+    "HVAC": 5,
+    "Body": 9,
+    "Wiper System": 4,
+    "Interior": 2,
+    "Wheels / Tires": 4
+  },
+  "parts": [
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Моторное масло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Масляный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Воздушный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Свечи зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Катушка зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень ГРМ / цепь ГРМ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень генератора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка клапанной крышки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка ГБЦ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик положения коленвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Расходомер воздуха",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Дроссельная заслонка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Форсунки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Регулятор давления топлива",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Каталитический нейтрализатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель средний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Прокладка выхлопной трубы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Антифриз",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Радиатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Вентилятор радиатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Расширительный бачок",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Крышка расширительного бачка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Патрубки системы охлаждения",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Масло АКПП / МКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Фильтр АКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Сцепление (комплект)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Выжимной подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Главный цилиндр сцепления",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозная жидкость",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Датчик ABS",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные барабанные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Стойка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Втулка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Рычаг подвески",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Сайлентблок рычага",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Шаровая опора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Ступичный подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС наружный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС внутренний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пыльник ШРУСа",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Наконечник рулевой тяги",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Рулевая тяга",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Жидкость ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Насос ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Аккумулятор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Генератор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Стартер",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фара передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фонарь задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Лампы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Предохранители",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Фильтр салонный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Компрессор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Радиатор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Осушитель кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Вентилятор отопителя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Боковое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Ветровое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Заднее стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Зеркало боковое",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Капот",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Крыло переднее",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Дверь",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётки стеклоочистителя передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётка стеклоочистителя задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Бачок омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Насос омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Коврики салона",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Педаль газа / тормоза",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Шина",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Диск колёсный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Гайка колёсная",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Таблица. Выводы блока управления вариатором (продолжение). 1230507L 1011213/1518/1819202 2324/20727282930 U/0 8/10/121314/10 1234610 1718/202122/24 B(24P) 7 182 8/10112/15 C(22P) 7 n 232412528/282 101",
+      "subsystem": "",
+      "part_number": "20727282930",
+      "source_url": "",
+      "source": "manual:chunks-manual-airwave_v2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Положение в таблице. переключа переключателя OFF Проводимость 1 2 2300 3 1306 4 3406 3506 123 5 4 5 6",
+      "subsystem": "",
+      "part_number": "34063506123",
+      "source_url": "",
+      "source": "manual:chunks-manual-airwave_v2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "9концевйвючатель заа крышибагажниа. 8 - концевой выключатель задней правой двери, 12345678 910 ^2/4//78//1/1415181718 190 0",
+      "subsystem": "",
+      "part_number": "12345678910",
+      "source_url": "",
+      "source": "manual:chunks-manual-airwave_v2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "456 7 8 S 2 5 o 4 1 Модели с боковыми © подуаибезоасности 2 5 1 2 1 2 -6 27 3∞ 415 O 0 11 12 13 14 15 16 17 18 19 20- 2 3 4 5 6 7 8 9 10 \\$21 . Опция D F 208 12 0 0I МO 45 2 1 2 3 2 12 6 +3 12 205 207",
+      "subsystem": "",
+      "part_number": "16171617128",
+      "source_url": "",
+      "source": "manual:chunks-manual-airwave_v2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "20 123 1 23 4 56 2 3 4 5 123450 1204507 52 101112 13 14 15 16 17 18 20 902 903 904 дененередан 85",
+      "subsystem": "",
+      "part_number": "20902903904",
+      "source_url": "",
+      "source": "manual:chunks-manual-airwave_v2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "89 10 11 1213144 2 3 6 7 8 9 10 11 12 5 S 8 U 5 U",
+      "subsystem": "",
+      "part_number": "10111213144",
+      "source_url": "",
+      "source": "manual:chunks-manual-airwave_v2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Разъемы (Fit Aria) (72) \\$\\$ 482 Коаинеи ранем .2005 45 456 2 S 461 T 1 2 4 1 2 3 4 5 Кондициюнер с ручным управлением 2 5 6 7 16 8 462 5 123456 7 8 9 Кондионои ираненем 10111213 14 ② 23450 25 26 7891",
+      "subsystem": "",
+      "part_number": "25267891011",
+      "source_url": "",
+      "source": "manual:chunks-manual-airwave_v2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "612 614 62 1-20 Mo 34 56 \\$ 52 704 613 651 Модел без злетроприводда A n складывания зеркал 1 2 3 4 5 6 7 8 9 123 1011211415167181920 52 121",
+      "subsystem": "",
+      "part_number": "52704613651",
+      "source_url": "",
+      "source": "manual:chunks-manual-airwave_v2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Таблица. Выводы блока управления вариатором (продолжение). 1230507L 1011213/1518/1819202 2324/20727282930 U/0 8/10/121314/10 1234610 1718/202122/24 B(24P) 7 182 8/10112/15 C(22P) 7 n 232412528/282 101",
+      "subsystem": "",
+      "part_number": "232412528",
+      "source_url": "",
+      "source": "manual:chunks-manual-airwave_v2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1 2 4 5 6 8 9 13141516 417181920 22232425",
+      "subsystem": "",
+      "part_number": "417181920",
+      "source_url": "",
+      "source": "manual:chunks-manual-airwave_v2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "123456718//11//14151617181920",
+      "subsystem": "",
+      "part_number": "123456718",
+      "source_url": "",
+      "source": "manual:chunks-manual-airwave_v2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Электрооборудование кузова (Fit Aria) Электрооборудование кузваА 380 3 5 ользд Ааслодоненос Условия проверки 381 2 4 оательдри OA Ключ вставлен в замок за- жиания ay   oo Исправное состояние Возможная",
+      "subsystem": "",
+      "part_number": "242827333",
+      "source_url": "",
+      "source": "manual:chunks-manual-airwave_v2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "456 7 8 S 2 5 o 4 1 Модели с боковыми © подуаибезоасности 2 5 1 2 1 2 -6 27 3∞ 415 O 0 11 12 13 14 15 16 17 18 19 20- 2 3 4 5 6 7 8 9 10 \\$21 . Опция D F 208 12 0 0I МO 45 2 1 2 3 2 12 6 +3 12 205 207",
+      "subsystem": "",
+      "part_number": "219221224",
+      "source_url": "",
+      "source": "manual:chunks-manual-airwave_v2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "6 9 10 11 12 53 7 80 1011 1 234 56 56 2 5- 7 2345 8 9 1011 6 12 56 0 1 2 511 Модели с боковыми ③ 0 222324 515 2526 27 28 29 30 31 516 2 0 подушками безопасности 11 12 C а",
+      "subsystem": "",
+      "part_number": "222324515",
+      "source_url": "",
+      "source": "manual:chunks-manual-airwave_v2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "③ ②2 613 615 618 620 2 38 910 25 507810 : 622 5",
+      "subsystem": "",
+      "part_number": "613615618",
+      "source_url": "",
+      "source": "manual:chunks-manual-airwave_v2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "123 762 764 Кондиционер с автоматическим управлением",
+      "subsystem": "",
+      "part_number": "123762764",
+      "source_url": "",
+      "source": "manual:chunks-manual-airwave_v2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "20 123 1 23 4 56 2 3 4 5 123450 1204507 52 101112 13 14 15 16 17 18 20 902 903 904 дененередан 85",
+      "subsystem": "",
+      "part_number": "902903904",
+      "source_url": "",
+      "source": "manual:chunks-manual-airwave_v2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "складывания зеркал 704 705 345 3 45 4 345 n 2",
+      "subsystem": "",
+      "part_number": "704705345",
+      "source_url": "",
+      "source": "manual:chunks-manual-airwave_v2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "0 ЛEK Схема 11-4,5. Конлиши 6 Разъемы (Fit Aria) Ко  рани Кондиминеси анен Кодеи 478 411017800 0 1204 0 12 9 29 1011121314 15 16 7 34 7 1 -2 3 4 56 D 26 B 1516 17 Коои е раеи Кондиционер ② Кондио прав",
+      "subsystem": "",
+      "part_number": "411017800",
+      "source_url": "",
+      "source": "manual:chunks-manual-airwave_v2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "0 ЛEK Схема 11-4,5. Конлиши 6 Разъемы (Fit Aria) Ко  рани Кондиминеси анен Кодеи 478 411017800 0 1204 0 12 9 29 1011121314 15 16 7 34 7 1 -2 3 4 56 D 26 B 1516 17 Коои е раеи Кондиционер ② Кондио прав",
+      "subsystem": "",
+      "part_number": "012131415",
+      "source_url": "",
+      "source": "manual:chunks-manual-airwave_v2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "0 ЛEK Схема 11-4,5. Конлиши 6 Разъемы (Fit Aria) Ко  рани Кондиминеси анен Кодеи 478 411017800 0 1204 0 12 9 29 1011121314 15 16 7 34 7 1 -2 3 4 56 D 26 B 1516 17 Коои е раеи Кондиционер ② Кондио прав",
+      "subsystem": "",
+      "part_number": "101103105",
+      "source_url": "",
+      "source": "manual:chunks-manual-airwave_v2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "0 ЛEK Схема 11-4,5. Конлиши 6 Разъемы (Fit Aria) Ко  рани Кондиминеси анен Кодеи 478 411017800 0 1204 0 12 9 29 1011121314 15 16 7 34 7 1 -2 3 4 56 D 26 B 1516 17 Коои е раеи Кондиционер ② Кондио прав",
+      "subsystem": "",
+      "part_number": "102104106",
+      "source_url": "",
+      "source": "manual:chunks-manual-airwave_v2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "0 ЛEK Схема 11-4,5. Конлиши 6 Разъемы (Fit Aria) Ко  рани Кондиминеси анен Кодеи 478 411017800 0 1204 0 12 9 29 1011121314 15 16 7 34 7 1 -2 3 4 56 D 26 B 1516 17 Коои е раеи Кондиционер ② Кондио прав",
+      "subsystem": "",
+      "part_number": "112114116",
+      "source_url": "",
+      "source": "manual:chunks-manual-airwave_v2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "481 480 0 S Разъемы (Fit Aria) 13 5 }\\$ 135 0 1E 138 123 1213 1314 15 16 17 18 19 20 34 4 56 7 8 9 10 403 X -∞ 20 40 11 12 13 14 15 16 17 18 19 20 405 12 34 2 12 123 E1 450787512 -2 200 S 205 S 207 : ",
+      "subsystem": "",
+      "part_number": "450787512",
+      "source_url": "",
+      "source": "manual:chunks-manual-airwave_v2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "481 480 0 S Разъемы (Fit Aria) 13 5 }\\$ 135 0 1E 138 123 1213 1314 15 16 17 18 19 20 34 4 56 7 8 9 10 403 X -∞ 20 40 11 12 13 14 15 16 17 18 19 20 405 12 34 2 12 123 E1 450787512 -2 200 S 205 S 207 : ",
+      "subsystem": "",
+      "part_number": "232425204",
+      "source_url": "",
+      "source": "manual:chunks-manual-airwave_v2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "481 480 0 S Разъемы (Fit Aria) 13 5 }\\$ 135 0 1E 138 123 1213 1314 15 16 17 18 19 20 34 4 56 7 8 9 10 403 X -∞ 20 40 11 12 13 14 15 16 17 18 19 20 405 12 34 2 12 123 E1 450787512 -2 200 S 205 S 207 : ",
+      "subsystem": "",
+      "part_number": "212214218",
+      "source_url": "",
+      "source": "manual:chunks-manual-airwave_v2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "123 nn 4W 504 0 1205 171819202122242522728 11121\\$ 1 508 678910 141516 1 2 0 3 4 1234567 Кониционви раненен 45 51 513 1 234 602 ③ 606 60 610 \\$\\$ 609 611 512 687 603 605 607 701 (70 70",
+      "subsystem": "",
+      "part_number": "508678910",
+      "source_url": "",
+      "source": "manual:chunks-manual-airwave_v2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "123 nn 4W 504 0 1205 171819202122242522728 11121\\$ 1 508 678910 141516 1 2 0 3 4 1234567 Кониционви раненен 45 51 513 1 234 602 ③ 606 60 610 \\$\\$ 609 611 512 687 603 605 607 701 (70 70",
+      "subsystem": "",
+      "part_number": "609611512",
+      "source_url": "",
+      "source": "manual:chunks-manual-airwave_v2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "123 nn 4W 504 0 1205 171819202122242522728 11121\\$ 1 508 678910 141516 1 2 0 3 4 1234567 Кониционви раненен 45 51 513 1 234 602 ③ 606 60 610 \\$\\$ 609 611 512 687 603 605 607 701 (70 70",
+      "subsystem": "",
+      "part_number": "687603605",
+      "source_url": "",
+      "source": "manual:chunks-manual-airwave_v2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "612 614 62 1-20 Mo 34 56 \\$ 52 704 613 651 Модел без злетроприводда A n складывания зеркал 1 2 3 4 5 6 7 8 9 123 1011211415167181920 52 121",
+      "subsystem": "",
+      "part_number": "704613651",
+      "source_url": "",
+      "source": "manual:chunks-manual-airwave_v2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Панель управления магнитолой на рулевом колесе (Hоndа Airwave). 232525255 Управление автомобилем с вариатором. …",
+      "subsystem": "",
+      "part_number": "232525255",
+      "source_url": "",
+      "source": "manual:chunks-manual-airwave_v2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Проверка уровня и замена масла... Замена сальников заднего редуктора ... Проверка в режиме замедления при движении назад (режим 4WD). 175 176 176 177",
+      "subsystem": "",
+      "part_number": "175176176",
+      "source_url": "",
+      "source": "manual:chunks-manual-airwave_v2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Снятие и установка блока управления газоразрядной лампой.. Проверка электромагнита перекючения режима работы фары.е 37 Снятие и установка провода электромагнита переключения режима работы фары. Снятие",
+      "subsystem": "",
+      "part_number": "382382385",
+      "source_url": "",
+      "source": "manual:chunks-manual-airwave_v2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Снятие и установка блока управления газоразрядной лампой.. Проверка электромагнита перекючения режима работы фары.е 37 Снятие и установка провода электромагнита переключения режима работы фары. Снятие",
+      "subsystem": "",
+      "part_number": "393393394",
+      "source_url": "",
+      "source": "manual:chunks-manual-airwave_v2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "рулевого управления. .61 Схема 9-з.Комбинация приборов (продолжение. Схема -4,5 оинация приборов продолени Схема 9-2. Комбинация приборов. 462 463 464 Схема 9-6. Индикаторы положения селектора. 4655 С",
+      "subsystem": "",
+      "part_number": "462463464",
+      "source_url": "",
+      "source": "manual:chunks-manual-airwave_v2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "63025 280 123 Series gasoline models'77 thru 81",
+      "subsystem": "",
+      "part_number": "63025280123",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "General information         181341297\nParking",
+      "subsystem": "",
+      "part_number": "181341297",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "116LU oleo DRIVEPLATE H16977 6",
+      "subsystem": "",
+      "part_number": "H16977",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "29 Honda recommends flushing the transmission cooler and the cooler hoses and lines with solvent wheneverthe transmission is removedfromthevehicle. Useanapproved solvent, such Honda J35944-20 or equiv",
+      "subsystem": "",
+      "part_number": "J35944-20",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4. Insert the new wheel bolt (A) into the hub (B) while aligning the splined surfaces (C) on the hub hole with the wheel bolt. Adjust the measurement (D) with the washers (P/N 94101-12800 or equivalen",
+      "subsystem": "",
+      "part_number": "94101-12800",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "in other blocks, as the following: 1234-567-890 12-34-56-78-90 12345-67890 123-4567-890 1-2-3-4-5-6-7-8-9-0",
+      "subsystem": "",
+      "part_number": "12345-67890",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Carefully clean any material from the A/C condenser (A) fins with water and detergent. If deeper cleaning is required, clean the fins with Honda brite cleaner (P/N 08732-0020B). Be sure to dry the A/C",
+      "subsystem": "",
+      "part_number": "08732-0020B",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "MAF SENSOR/IAT SENSOR 5P CONNECTOR 12345 VG+ (RED/BLK) Wire side of female terminals PCM CONNECTOR B (44P) F 1 Q 1234/678 2 1012131415161718 с 21 23/25 26/282930 31323334 35 36041424344 VG+ (RED/BLK)",
+      "subsystem": "",
+      "part_number": "36041424344",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "12345 VG- (BLK/RED) Wire side of female terminals PCM CONNECTOR B (44P) 12 3 4/67 8 10/12131415161718 4 21 23/25 26/28 2930 3132 3334 35 36404424344 VG— (BLK/RED)",
+      "subsystem": "",
+      "part_number": "36404424344",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "т 1011121314151617 1819 4 202122 232425 2627/2930313233/",
+      "subsystem": "",
+      "part_number": "18194202122",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "WAN 15197208102 13 14 262834 3637 Terminal side of female terminals PCM CONNECTOR A (44P) 4 5 6 7 8 9 10/12 1314151617 1819 2021 232425 2627282931/3334 35 36 37 38 39 4042 4344 CANH (WHT)",
+      "subsystem": "",
+      "part_number": "15197208102",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "12/4567891011/131415161718 192021272830313233 CANL (RED) Wire side of female terminals Q PCM CONNECTOR A (44P) и 4 5 6 7 8 9 10/12 13141516171819 2021 2324255 E 2627 28 29/31/33 34 35 5 36 37 38 39 40",
+      "subsystem": "",
+      "part_number": "20212324255",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "K-LINE (LT BLU) 4567 9121416",
+      "subsystem": "",
+      "part_number": "45679121416",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "36 37 38 39 4042344 SG5 (BLU) @I",
+      "subsystem": "",
+      "part_number": "38394042344",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1 VTPSW (BLU/BLK) 2 Wire side of female terminals PCM CONNECTOR C (44P) 52 12 3 456 7 89 101112 13 14151617 18 19 6 202122 232425 2627/2930313233/ 3638 3940424344 VTPSW (BLU/BLK)",
+      "subsystem": "",
+      "part_number": "18196202122",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1234567 89/111213 141516171819 20 123456 123 4567 8910",
+      "subsystem": "",
+      "part_number": "20123456123",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "CONNECTOR VCC1 (YEL/RED) Vcc1 (YEL/REDD) 1 2 3 4 5 6 7 8 9 101112131415 1617 18 19 12 3 202122 232425 2627/2930313233 3638394042 4344",
+      "subsystem": "",
+      "part_number": "19123202122",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "CVT OUTPUT SHAFT PCM CONNECTOR C (44P) (DRIVE PULLEY)) SPEED SENSOR CONNECTOR @ NDN (WhT) NDN (WHT) 123 4 56 7 8 9 10111213 1415 16171819 123 202122 232425 2627/2930313233 7 3638 39404243 44 Wire side",
+      "subsystem": "",
+      "part_number": "16171819123",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "15161726272",
+      "subsystem": "",
+      "part_number": "15161726272",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "NEP (BLU) 1/з 78910121314 151617 262728 Q т —",
+      "subsystem": "",
+      "part_number": "78910121314",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "41718 232425 MOT (+)(WHT)",
+      "subsystem": "",
+      "part_number": "41718232425",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1718 4 232425 BS +B (BLU) D1",
+      "subsystem": "",
+      "part_number": "17184232425",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "SVccA (RED) 12 5 67 8 9 10/12 14 16 1718 7 232425 —",
+      "subsystem": "",
+      "part_number": "17187232425",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ABS MODULATOR-CONTROL UNIT 25P CONNECTOR WHEEL SPEED SENSOR HONDA CONNECTOR 10212 141168 9 12 1718 — 2425 Wire side of female terminals PCM CONNECTOR A (44P) DATA LINK CONNECTOR (DLC) □ 4567 10/121314",
+      "subsystem": "",
+      "part_number": "10212141168",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "DTC 16-12 FL-GND (RED) FR-GND (PNK) RL-GND (PUR) 1k3 56 8 9 1012 7 141516 1718 / 2425 RR-GND (BLU)",
+      "subsystem": "",
+      "part_number": "10127141516",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "14567891011/1415161718",
+      "subsystem": "",
+      "part_number": "14567891011",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Circuit Diagram (cont'd) IDER-HOOD BRAKE PEDAL POSITION BRAKE FLUID LEVEL SWITCH PARKING BRAKE SWITCH SERELAY BOX SWITCH 4P CONNECTOR 2P CONNECTOR 1P CONNECTOR NNECTOR C (2) — г 32 1 2 12 3 4 1 UNDER-",
+      "subsystem": "",
+      "part_number": "91114151617",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Circuit Diagram (cont'd) IDER-HOOD BRAKE PEDAL POSITION BRAKE FLUID LEVEL SWITCH PARKING BRAKE SWITCH SERELAY BOX SWITCH 4P CONNECTOR 2P CONNECTOR 1P CONNECTOR NNECTOR C (2) — г 32 1 2 12 3 4 1 UNDER-",
+      "subsystem": "",
+      "part_number": "25262272829",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "FR-GND (PNK) RL-GND (PUR) 1/3//67891011 1314 15171922122 26283 3637 RR-GND (BLU) FL-GND (RED)",
+      "subsystem": "",
+      "part_number": "15171922122",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "2022 4 24 25 2627289 4 30 31 3233 AS (WHT) Q о 1 2 45 AS (WHT) WINDSHIELD WIPER MOTOR 5P CONNECTOR Wire side of female terminals",
+      "subsystem": "",
+      "part_number": "24252627289",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "123456789/111213 1415 16 17181920",
+      "subsystem": "",
+      "part_number": "123456789",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "THROTTLE BODY 6P CONNECTOR 123456 SG3 (BLU) Wire side of female terminals PCM CONNECTOR C (44P) 123 4 5 6 789 101112 1314151617 1819 H 202122 232425 2627/2930313233 3638 394042 4344 L SG3 (BLU)",
+      "subsystem": "",
+      "part_number": "789101112",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1234567 89/111213 141516171819 20 123456 123 4567 8910",
+      "subsystem": "",
+      "part_number": "123456123",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "GRN/WHT) 1 2 3 456 7 89 10111213141516171819 123 202122 232425 2627/2930313233/ 3638 3940424344 Wire side of Terminal side of female terminals female terminals",
+      "subsystem": "",
+      "part_number": "123202122",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "202122 232425 123",
+      "subsystem": "",
+      "part_number": "232425123",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "т 367891011 1314 151719202122 2628343637",
+      "subsystem": "",
+      "part_number": "367891011",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "417182425 IG1 (YEL)\\*1 (GRY)\\*2 I",
+      "subsystem": "",
+      "part_number": "417182425",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Circuit Diagram (cont'd) IDER-HOOD BRAKE PEDAL POSITION BRAKE FLUID LEVEL SWITCH PARKING BRAKE SWITCH SERELAY BOX SWITCH 4P CONNECTOR 2P CONNECTOR 1P CONNECTOR NNECTOR C (2) — г 32 1 2 12 3 4 1 UNDER-",
+      "subsystem": "",
+      "part_number": "262272829",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "12 3/5678 910 111213 141516",
+      "subsystem": "",
+      "part_number": "910111213",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OPTIMAX Jr. A/C Leak Detection Kit TRP124893\\*",
+      "subsystem": "",
+      "part_number": "TRP124893",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "_ 2 345 691011 / 1314GA-NET GA-NETBUS+ BUS(BLU) (PNKK)",
+      "subsystem": "",
+      "part_number": "345691011",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "12345 SNA678910 1112 R3 1516 o 17 18 19 20212223242526 27 28",
+      "subsystem": "",
+      "part_number": "SNA678910",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "12345 50A678910",
+      "subsystem": "",
+      "part_number": "50A678910",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Alternator, Regulator, Battery, and Starter Tester OTC3131\\*",
+      "subsystem": "",
+      "part_number": "OTC3131",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Special Tools Required Valve Spring Compressor Attachment 07757-PJ1010A",
+      "subsystem": "",
+      "part_number": "PJ1010A",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "• A/T Pressure Adapter 07MAJ-PY40120",
+      "subsystem": "",
+      "part_number": "PY40120",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Pressure Gauge Adapter 07NAJ-P07010A",
+      "subsystem": "",
+      "part_number": "P07010A",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Special Tools Required 02 Sensor Socket Wrench Snap-on SWR2 or O2 Sensor Wrench Snap-on YA8875, commercially available",
+      "subsystem": "",
+      "part_number": "YA8875",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "NO–Repair open in the wire between PGM-FI main ra ad he floor wire harness C6514P H",
+      "subsystem": "",
+      "part_number": "C6514P",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Special Tools Required Vacuum Pump/Gauge, 0 —30 In.Hg, Snap-on YA4000A or equivalent, commercially available",
+      "subsystem": "",
+      "part_number": "YA4000A",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Special Tools Required • Adjustable Bearing Puller, 25—40 mm 07736-A01000B •Attachment, 62 x 68 mm 07746-0010500 •Driver Handle, 15 x 135L 07749-0010000",
+      "subsystem": "",
+      "part_number": "A01000B",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "• Oil Seal Driver Attachment, 64 x 72 mm 07JAD-PN00100",
+      "subsystem": "",
+      "part_number": "PN00100",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Clutch Spring Compressor Set 07LAE-PX40000",
+      "subsystem": "",
+      "part_number": "PX40000",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "•Clutch Compressor Attachment 07ZAE-PRP0100",
+      "subsystem": "",
+      "part_number": "PRP0100",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "•Oil Seal Driver Attachment, 58 mm 07JAD-PH80101",
+      "subsystem": "",
+      "part_number": "PH80101",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "•Attachment, 78 x 80 mm 07NAD-PX40100",
+      "subsystem": "",
+      "part_number": "PX40100",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Special Tools Required Support Base Attachment 07JAF-SH20400 •Oil Seal Driver, 44.5 mm 07947-SB00100 •Support Base 07965-SD90100",
+      "subsystem": "",
+      "part_number": "SH20400",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Special Tools Required Support Base Attachment 07JAF-SH20400 •Oil Seal Driver, 44.5 mm 07947-SB00100 •Support Base 07965-SD90100",
+      "subsystem": "",
+      "part_number": "SB00100",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Special Tools Required Support Base Attachment 07JAF-SH20400 •Oil Seal Driver, 44.5 mm 07947-SB00100 •Support Base 07965-SD90100",
+      "subsystem": "",
+      "part_number": "SD90100",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Oil Seal Driver, 64 mm 07GAD-PH70201",
+      "subsystem": "",
+      "part_number": "PH70201",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Special Tools Required Locknut Wrench, 43 mm 07MAA-SL0020A",
+      "subsystem": "",
+      "part_number": "SL0020A",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Bushing Base 07JAF-SH20330",
+      "subsystem": "",
+      "part_number": "SH20330",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Bearing Driver Attachment, 40 mm 07GAF-SE00200",
+      "subsystem": "",
+      "part_number": "SE00200",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "• Hub Dis/Assembly Pin, 40 mm 07GAF-SE00100",
+      "subsystem": "",
+      "part_number": "SE00100",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "GREAsE}: Honda silicone grease (P/N 08C30-B0234M)",
+      "subsystem": "",
+      "part_number": "B0234M",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Special Tools Required Brake Spring Installer 07LAF-SM40200",
+      "subsystem": "",
+      "part_number": "SM40200",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "• A/C Clutch Holder Robinair 10290 or Kent-Moore J37872, commercially available • A/C Clutch Holder Honda Tool and Equipment ACT499A, commercially available",
+      "subsystem": "",
+      "part_number": "J37872",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Honda Electrical System Analyzer (ED-18 Battery tester): Model Number INB17191840\\*",
+      "subsystem": "",
+      "part_number": "INB17191840",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4. Replace the transmitter battery (A) with a new one (CR1616), and try to lock and unlock the doors with the transmitter by pressing the lock or unlock button five or six times.",
+      "subsystem": "",
+      "part_number": "CR1616",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Special Tools Required SRS Short Canceller 070AZ-SAA0100",
+      "subsystem": "",
+      "part_number": "SAA0100",
+      "source_url": "",
+      "source": "manual:chunks-manual-civic_2006.md"
+    }
+  ],
+  "parts_total_original": 440,
+  "parts_capped": true
+}

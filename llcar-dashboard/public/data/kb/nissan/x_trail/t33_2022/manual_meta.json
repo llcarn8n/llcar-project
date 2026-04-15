@@ -1,0 +1,16 @@
+{
+  "brand": "nissan",
+  "model": "x_trail",
+  "source_path_rel": "nissan/models/x_trail/",
+  "manual_md_size": 74010906,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-a34b99.md",
+    "manual-ru_reocr--v2.md",
+    "manual-x_trail-x_trail.md",
+    "manual-x_trail.md",
+    "manual-x_trail_2021-x_trail.md",
+    "manual-x_trail_2021.md"
+  ]
+}

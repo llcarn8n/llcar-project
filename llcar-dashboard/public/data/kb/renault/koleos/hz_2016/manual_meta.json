@@ -1,0 +1,15 @@
+{
+  "brand": "renault",
+  "model": "koleos",
+  "source_path_rel": "renault/models/koleos/",
+  "manual_md_size": 93339134,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-0a01ce-old.md",
+    "manual-f3b3b6.md",
+    "manual-koleos-old.md",
+    "manual-old.md",
+    "manual-reocr-old.md"
+  ]
+}

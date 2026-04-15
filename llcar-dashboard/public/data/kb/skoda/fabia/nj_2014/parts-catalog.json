@@ -1,0 +1,1132 @@
+{
+  "brand": "skoda",
+  "model": "fabia",
+  "source": "manual_extract+template",
+  "total_parts": 123,
+  "systems": {
+    "Uncategorized": 28,
+    "Engine": 15,
+    "Fuel System": 4,
+    "Exhaust System": 5,
+    "Cooling System": 8,
+    "Transmission": 5,
+    "Brake System": 9,
+    "Suspension / Wheels": 13,
+    "Steering": 4,
+    "Electrical": 8,
+    "HVAC": 5,
+    "Body": 9,
+    "Wiper System": 4,
+    "Interior": 2,
+    "Wheels / Tires": 4
+  },
+  "parts": [
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "23 - Уплотнительное кольцо круглого се- чения, заменить 24 - 10 Hm,M6 × 45mM 25 - 50 Нм, М6 х 22 мм, прежде чем надевать, смазать фиксирующим средством -D 000 600 A2- 27 - К впускному трубопроводу 28 ",
+      "subsystem": "",
+      "part_number": "T10172",
+      "source_url": "",
+      "source": "manual:chunks-manual-fabia.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "13 - Шкив, площади прилегания шкива должны быть избавлены от масла или кон- систентной смазки, шкив следует придер- жать контропорой -т30004 (3415)- с шейка- мИ -T30004/1 (3415/1)-",
+      "subsystem": "",
+      "part_number": "T30004",
+      "source_url": "",
+      "source": "manual:chunks-manual-fabia.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Привинтить кронштейн для опоры двига- теля -Т10012- стопорной гайкой -3- и винтом -5- к блоку цилиндров. Винт (М10 х 50) следу- ет затянуть с приложением момента ок. 40 Нм. (В случае надобности следуе",
+      "subsystem": "",
+      "part_number": "T10012-",
+      "source_url": "",
+      "source": "manual:chunks-manual-fabia.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Установив приспособление -МР 1-504-на зубчатый обод, поворачивать до тех пор, по- ка оно не прикоснется к распорной втулке -T30010 (VW540/1B)-.",
+      "subsystem": "",
+      "part_number": "T30010",
+      "source_url": "",
+      "source": "manual:chunks-manual-fabia.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Освободить стопорную гайку -1- натяж- ного ролика. Повернуть эксцентр натяжного ролика торцовым гаечным ключом -Т10264- против часовой стрелки -стрелка- таким об- разом, чтобы можно было застопорить н",
+      "subsystem": "",
+      "part_number": "T10265",
+      "source_url": "",
+      "source": "manual:chunks-manual-fabia.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "14 Apply a thin, even coat of sealant (Skoda AMV 188 003, or equivalent) to the cylinder head mating face of the camshaft carrier (see illustration). Do not apply the sealant too thickly, as excess se",
+      "subsystem": "",
+      "part_number": "AMV188003",
+      "source_url": "",
+      "source": "manual:chunks-manual-skoda_fabia_2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Standard (distance/time) service interval . Multigrade engine oil, viscosity SAE 5W/40 to 20W/50, to API SG/CD LongLife (variable) service interval . Skoda LongLife engine oil (Skoda 503 00 or better)",
+      "subsystem": "",
+      "part_number": "J1703F",
+      "source_url": "",
+      "source": "manual:chunks-manual-skoda_fabia_2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "H31925",
+      "subsystem": "",
+      "part_number": "H31925",
+      "source_url": "",
+      "source": "manual:chunks-manual-skoda_fabia_2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4 On 1.4 litre OHV engines with air conditioning, an automatic tensioner is fitted to the alternator/compressor bracket on the right-hand front of the engine. The tensioner is released by inserting a ",
+      "subsystem": "",
+      "part_number": "T30022",
+      "source_url": "",
+      "source": "manual:chunks-manual-skoda_fabia_2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Note: Skoda TDC setting tools T10120 and T10121 will be required for this procedure. Alternatively, pattern setting tools may be obtained from a car accessory shop.",
+      "subsystem": "",
+      "part_number": "T10120",
+      "source_url": "",
+      "source": "manual:chunks-manual-skoda_fabia_2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Note: Skoda TDC setting tools T10120 and T10121 will be required for this procedure. Alternatively, pattern setting tools may be obtained from a car accessory shop.",
+      "subsystem": "",
+      "part_number": "T10121",
+      "source_url": "",
+      "source": "manual:chunks-manual-skoda_fabia_2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Note: Skoda TDC seting tools T10123 and T10121 will be required for this procedure. Alternatively, pattern setting tools may be obtained from a car accessory shop.",
+      "subsystem": "",
+      "part_number": "T10123",
+      "source_url": "",
+      "source": "manual:chunks-manual-skoda_fabia_2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "X VV √ и H45837",
+      "subsystem": "",
+      "part_number": "H45837",
+      "source_url": "",
+      "source": "manual:chunks-manual-skoda_fabia_2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "23 Remove the ignition coils with the power output stage. Note that Skoda technicians use a special tool (T10094) to remove the coils, however, a length of bent welding rod or similar hooked under the",
+      "subsystem": "",
+      "part_number": "T10094",
+      "source_url": "",
+      "source": "manual:chunks-manual-skoda_fabia_2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "8 The crankshaft left-hand oil seal is integral with the housing, and must be renewed as an assembly, complete with the crankshaft speed/ position sensor wheel. The sensor wheel is attached to the oil",
+      "subsystem": "",
+      "part_number": "T10017",
+      "source_url": "",
+      "source": "manual:chunks-manual-skoda_fabia_2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Note: Skoda tool (T10050) is required to lock the crankshaft sprocket in the TDC position.",
+      "subsystem": "",
+      "part_number": "T10050",
+      "source_url": "",
+      "source": "manual:chunks-manual-skoda_fabia_2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Note: There are two types of tensioner fitted; on engines manufactured up to the end of April 2001, Skoda technicians use special tool T10008 to lock the timing belt tensioner in its released position",
+      "subsystem": "",
+      "part_number": "T10008",
+      "source_url": "",
+      "source": "manual:chunks-manual-skoda_fabia_2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Note: Skoda technicians use special tool T10051 to counterhold the hub, however it is possible to fabricate a suitable alternative -see below.",
+      "subsystem": "",
+      "part_number": "T10051",
+      "source_url": "",
+      "source": "manual:chunks-manual-skoda_fabia_2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "27 Leaving the central hub retaining bolt in place, attach Skoda tool T10052 (or a similar",
+      "subsystem": "",
+      "part_number": "T10052",
+      "source_url": "",
+      "source": "manual:chunks-manual-skoda_fabia_2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "17 Skoda technicians use a slide hammer (tool No T10055) to pull the injector from the cylinder head. This is a slide hammer which engages in the side of the injector. If this tool is not available, i",
+      "subsystem": "",
+      "part_number": "T10055",
+      "source_url": "",
+      "source": "manual:chunks-manual-skoda_fabia_2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Note: Skoda locking pin T10027, or a suiable alterative, will be required for this operation.",
+      "subsystem": "",
+      "part_number": "T10027",
+      "source_url": "",
+      "source": "manual:chunks-manual-skoda_fabia_2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "B H32013 A",
+      "subsystem": "",
+      "part_number": "H32013",
+      "source_url": "",
+      "source": "manual:chunks-manual-skoda_fabia_2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "33 For non-RS models manufactured up to and including MY2004, prise out the cover, then undo the two screws and withdraw the foglight.",
+      "subsystem": "",
+      "part_number": "MY2004",
+      "source_url": "",
+      "source": "manual:chunks-manual-skoda_fabia_2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "34 For non-RS models manufactured from MY2005, prise out the cover, then undo the",
+      "subsystem": "",
+      "part_number": "MY2005",
+      "source_url": "",
+      "source": "manual:chunks-manual-skoda_fabia_2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "The radio is fitted with special side mounting spring clips, requiring the use of special removal tools, which may be supplied with the vehicle, or can be obtained from an in-car entertainment special",
+      "subsystem": "",
+      "part_number": "T30005",
+      "source_url": "",
+      "source": "manual:chunks-manual-skoda_fabia_2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1 Up to MY2002 the aerial mast can be unscrewed from the base by twisting anticlockwise. On later models, it can be folded away.",
+      "subsystem": "",
+      "part_number": "MY2002",
+      "source_url": "",
+      "source": "manual:chunks-manual-skoda_fabia_2.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Volkswagen Passat, 2007\n6808094, Москва",
+      "subsystem": "",
+      "part_number": "20076808094",
+      "source_url": "",
+      "source": "manual:chunks-reviews-fabia.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Лада Калина, 2011\n8074154, Волгоград",
+      "subsystem": "",
+      "part_number": "20118074154",
+      "source_url": "",
+      "source": "manual:chunks-reviews-fabia.md"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Моторное масло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Масляный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Воздушный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Свечи зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Катушка зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень ГРМ / цепь ГРМ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень генератора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка клапанной крышки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка ГБЦ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик положения коленвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Расходомер воздуха",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Дроссельная заслонка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Форсунки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Регулятор давления топлива",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Каталитический нейтрализатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель средний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Прокладка выхлопной трубы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Антифриз",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Радиатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Вентилятор радиатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Расширительный бачок",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Крышка расширительного бачка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Патрубки системы охлаждения",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Масло АКПП / МКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Фильтр АКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Сцепление (комплект)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Выжимной подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Главный цилиндр сцепления",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозная жидкость",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Датчик ABS",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные барабанные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Стойка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Втулка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Рычаг подвески",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Сайлентблок рычага",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Шаровая опора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Ступичный подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС наружный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС внутренний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пыльник ШРУСа",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Наконечник рулевой тяги",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Рулевая тяга",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Жидкость ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Насос ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Аккумулятор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Генератор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Стартер",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фара передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фонарь задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Лампы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Предохранители",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Фильтр салонный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Компрессор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Радиатор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Осушитель кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Вентилятор отопителя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Боковое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Ветровое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Заднее стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Зеркало боковое",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Капот",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Крыло переднее",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Дверь",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётки стеклоочистителя передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётка стеклоочистителя задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Бачок омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Насос омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Коврики салона",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Педаль газа / тормоза",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Шина",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Диск колёсный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Гайка колёсная",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    }
+  ]
+}

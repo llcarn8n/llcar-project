@@ -1,0 +1,18 @@
+{
+  "brand": "ford",
+  "model": "mondeo",
+  "source_path_rel": "ford/models/mondeo/",
+  "manual_md_size": 7392978,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-2489c1.md",
+    "manual-mondeo-2023_2023.md",
+    "manual-mondeo-2023_2023_2.md",
+    "manual-mondeo_2.md",
+    "manual-mondeo_3.md",
+    "manual-ru.md",
+    "manual-ru_2.md",
+    "manual-taurus-taurus_v2.md"
+  ]
+}

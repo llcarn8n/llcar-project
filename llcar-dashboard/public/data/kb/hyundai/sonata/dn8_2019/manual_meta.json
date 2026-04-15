@@ -1,0 +1,16 @@
+{
+  "brand": "hyundai",
+  "model": "sonata",
+  "source_path_rel": "hyundai/models/sonata/",
+  "manual_md_size": 3573754,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-2019_2023.md",
+    "manual-74441f.md",
+    "manual-i40.md",
+    "manual-i40_2.md",
+    "manual-off.md",
+    "manual-sonata.md"
+  ]
+}

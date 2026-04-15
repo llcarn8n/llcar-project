@@ -1,0 +1,17 @@
+{
+  "brand": "lexus",
+  "model": "rx",
+  "source_path_rel": "lexus/models/rx/",
+  "manual_md_size": 102973947,
+  "has_dita": true,
+  "has_pdf": false,
+  "variants": [
+    "manual-adbbb8.md",
+    "manual-ii_2008_2012.md",
+    "manual-iv_2022_2024.md",
+    "manual-ru_reocr.md",
+    "manual-rx.md",
+    "manual-rx300.md",
+    "manual-rx350.md"
+  ]
+}

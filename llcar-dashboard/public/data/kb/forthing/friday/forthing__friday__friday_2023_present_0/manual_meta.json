@@ -1,0 +1,12 @@
+{
+  "brand": "forthing",
+  "model": "friday",
+  "source_path_rel": "forthing/models/friday/",
+  "manual_md_size": 44391224,
+  "has_dita": true,
+  "has_pdf": false,
+  "variants": [
+    "manual-33dca2.md",
+    "manual-reocr.md"
+  ]
+}

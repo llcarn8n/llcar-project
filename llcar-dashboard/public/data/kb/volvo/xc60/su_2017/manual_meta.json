@@ -1,0 +1,12 @@
+{
+  "brand": "volvo",
+  "model": "xc60",
+  "source_path_rel": "volvo/models/xc60/",
+  "manual_md_size": 2348504,
+  "has_dita": true,
+  "has_pdf": false,
+  "variants": [
+    "manual-ade776.md",
+    "manual-iii_2024_2024.md"
+  ]
+}

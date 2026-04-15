@@ -1,0 +1,12 @@
+{
+  "brand": "faw_bestune",
+  "model": "t99",
+  "source_path_rel": "bestune/models/t99/",
+  "manual_md_size": 599526,
+  "has_dita": true,
+  "has_pdf": false,
+  "variants": [
+    "manual-38b4a2.md",
+    "manual-98752d.md"
+  ]
+}

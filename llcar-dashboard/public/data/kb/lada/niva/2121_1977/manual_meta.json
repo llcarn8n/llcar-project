@@ -1,0 +1,11 @@
+{
+  "brand": "lada",
+  "model": "niva",
+  "source_path_rel": "lada/models/niva/",
+  "manual_md_size": 2727428,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-e2b649.md"
+  ]
+}

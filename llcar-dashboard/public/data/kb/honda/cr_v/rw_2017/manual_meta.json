@@ -1,0 +1,19 @@
+{
+  "brand": "honda",
+  "model": "cr_v",
+  "source_path_rel": "honda/models/cr_v/",
+  "manual_md_size": 116731983,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-cr_v-iii_2022_2024.md",
+    "manual-cr_v.md",
+    "manual-crv.md",
+    "manual-e227e1.md",
+    "manual-i_2010_2011.md",
+    "manual-ii_2016_2025.md",
+    "manual-ii_2016_2025_2.md",
+    "manual-ii_2016_2025_3.md",
+    "manual-ru_reocr.md"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "brand": "exeed",
+  "model": "txl",
+  "source_path_rel": "exeed/models/txl/",
+  "manual_md_size": 0,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-tg.md"
+  ]
+}

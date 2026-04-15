@@ -1,0 +1,2502 @@
+[
+  {
+    "filename": "0045465f07c4c04fb7e4bc6c0309775a8a5b4430be6aa05191699cd5d362efd5.webp",
+    "size": 19586,
+    "source_rel": "lada/models/granta/images/0045465f07c4c04fb7e4bc6c0309775a8a5b4430be6aa05191699cd5d362efd5.webp"
+  },
+  {
+    "filename": "0049e517ca97a97f555834b32b4e50fea11fc0e5cdff090ebceecbe54bf4a902.webp",
+    "size": 28734,
+    "source_rel": "lada/models/granta/images/0049e517ca97a97f555834b32b4e50fea11fc0e5cdff090ebceecbe54bf4a902.webp"
+  },
+  {
+    "filename": "009115d418668b19a2f7ac17c60af947bd68bd18f0ca45da47b8509992b62ae3.webp",
+    "size": 15260,
+    "source_rel": "lada/models/granta/images/009115d418668b19a2f7ac17c60af947bd68bd18f0ca45da47b8509992b62ae3.webp"
+  },
+  {
+    "filename": "00acd629db59dff1715636cfa6e2df980a87be4cb694936eb07220197eb300de.webp",
+    "size": 27108,
+    "source_rel": "lada/models/granta/images/00acd629db59dff1715636cfa6e2df980a87be4cb694936eb07220197eb300de.webp"
+  },
+  {
+    "filename": "012cde676b0d168550c67362abfdff3f08a7560e5f988f05f6e384f4bf7cb523.webp",
+    "size": 12392,
+    "source_rel": "lada/models/granta/images/012cde676b0d168550c67362abfdff3f08a7560e5f988f05f6e384f4bf7cb523.webp"
+  },
+  {
+    "filename": "01439339b9058d26e975916a0723439e56943b45899af8520eec61f3d1320035.webp",
+    "size": 115630,
+    "source_rel": "lada/models/granta/images/01439339b9058d26e975916a0723439e56943b45899af8520eec61f3d1320035.webp"
+  },
+  {
+    "filename": "017cfd039abcb9388d16ef1d762d327976eaa65b49294a4f5841b9a134643d40.webp",
+    "size": 28872,
+    "source_rel": "lada/models/granta/images/017cfd039abcb9388d16ef1d762d327976eaa65b49294a4f5841b9a134643d40.webp"
+  },
+  {
+    "filename": "01ba2c48d3236679bef813806ba5f564e6da3e3ed73207e46e0faa362819a96f.webp",
+    "size": 35518,
+    "source_rel": "lada/models/granta/images/01ba2c48d3236679bef813806ba5f564e6da3e3ed73207e46e0faa362819a96f.webp"
+  },
+  {
+    "filename": "0222184600b072c449a6dc2067b274a21c1fbd27514ce08cc0be5ba03cea9026.webp",
+    "size": 18608,
+    "source_rel": "lada/models/granta/images/0222184600b072c449a6dc2067b274a21c1fbd27514ce08cc0be5ba03cea9026.webp"
+  },
+  {
+    "filename": "032cbc6a32e92739497874ceb4268aef0fdc274681e240b53299c7effffb3df9.webp",
+    "size": 28992,
+    "source_rel": "lada/models/granta/images/032cbc6a32e92739497874ceb4268aef0fdc274681e240b53299c7effffb3df9.webp"
+  },
+  {
+    "filename": "03596f02801979f7dacd11462b4911f8b3e792e0374d0e786cf9e419c9a95c05.webp",
+    "size": 8634,
+    "source_rel": "lada/models/granta/images/03596f02801979f7dacd11462b4911f8b3e792e0374d0e786cf9e419c9a95c05.webp"
+  },
+  {
+    "filename": "03de8dea91b680c0754abd60ad245b5cb1134ca3937b78ed055c0e08e2aa8722.webp",
+    "size": 6794,
+    "source_rel": "lada/models/granta/images/03de8dea91b680c0754abd60ad245b5cb1134ca3937b78ed055c0e08e2aa8722.webp"
+  },
+  {
+    "filename": "03f838a627a149fa6615396e21547ea5484991956e665594592d15514c760e15.webp",
+    "size": 11336,
+    "source_rel": "lada/models/granta/images/03f838a627a149fa6615396e21547ea5484991956e665594592d15514c760e15.webp"
+  },
+  {
+    "filename": "04235f81b48e03616659b75240897cf3edd1ee7ac6d0f2e10ad59290d4236cab.webp",
+    "size": 26762,
+    "source_rel": "lada/models/granta/images/04235f81b48e03616659b75240897cf3edd1ee7ac6d0f2e10ad59290d4236cab.webp"
+  },
+  {
+    "filename": "045b739a3ee8cd4c098fbba9cb0d3baa4b10a39a208787f138899f1fb011420e.webp",
+    "size": 23846,
+    "source_rel": "lada/models/granta/images/045b739a3ee8cd4c098fbba9cb0d3baa4b10a39a208787f138899f1fb011420e.webp"
+  },
+  {
+    "filename": "047c04883c6147444f919823aaed749dc41f8753f2f1d9303799f1bbf1496536.webp",
+    "size": 29696,
+    "source_rel": "lada/models/granta/images/047c04883c6147444f919823aaed749dc41f8753f2f1d9303799f1bbf1496536.webp"
+  },
+  {
+    "filename": "04abd9c93d14ab158b74d75851cc8e9f35bdf47d7298ddaee8a06bd483ae3abf.webp",
+    "size": 24758,
+    "source_rel": "lada/models/granta/images/04abd9c93d14ab158b74d75851cc8e9f35bdf47d7298ddaee8a06bd483ae3abf.webp"
+  },
+  {
+    "filename": "04d8dca63ecce3beb1d8f497ad5b5610ecc7d40cf5153d8044030dba959db77d.webp",
+    "size": 15610,
+    "source_rel": "lada/models/granta/images/04d8dca63ecce3beb1d8f497ad5b5610ecc7d40cf5153d8044030dba959db77d.webp"
+  },
+  {
+    "filename": "04dd4dc677d3252ea271c5fca55861f5419bbca3ef11df65023d698e5e705631.webp",
+    "size": 25176,
+    "source_rel": "lada/models/granta/images/04dd4dc677d3252ea271c5fca55861f5419bbca3ef11df65023d698e5e705631.webp"
+  },
+  {
+    "filename": "04eec58d80a0f30482b188e17d75f278519f18d631071b3e002d173d14ee519f.webp",
+    "size": 24342,
+    "source_rel": "lada/models/granta/images/04eec58d80a0f30482b188e17d75f278519f18d631071b3e002d173d14ee519f.webp"
+  },
+  {
+    "filename": "052107df638f1c683b34b668be4772966eb62e06a72dbf48cd4a059b61016e6c.webp",
+    "size": 5344,
+    "source_rel": "lada/models/granta/images/052107df638f1c683b34b668be4772966eb62e06a72dbf48cd4a059b61016e6c.webp"
+  },
+  {
+    "filename": "054a2b40d8bc2bd1dd4447610955ca66a11b7f927b8fa689fcd6d9aceb428bae.webp",
+    "size": 28082,
+    "source_rel": "lada/models/granta/images/054a2b40d8bc2bd1dd4447610955ca66a11b7f927b8fa689fcd6d9aceb428bae.webp"
+  },
+  {
+    "filename": "0573d25c1d3d3f5a5aa16015b0c19427623c0e904c19a0aa607abf6d11f34517.webp",
+    "size": 19236,
+    "source_rel": "lada/models/granta/images/0573d25c1d3d3f5a5aa16015b0c19427623c0e904c19a0aa607abf6d11f34517.webp"
+  },
+  {
+    "filename": "05b3885ef819081fd1c2def1f8214e6c81f6110fe0c77ff8094b86524bff68d0.webp",
+    "size": 24170,
+    "source_rel": "lada/models/granta/images/05b3885ef819081fd1c2def1f8214e6c81f6110fe0c77ff8094b86524bff68d0.webp"
+  },
+  {
+    "filename": "061c41cd2996f0796c0b7b637e849d507e70a416772fa730ee5eaf8178d0a418.webp",
+    "size": 26586,
+    "source_rel": "lada/models/granta/images/061c41cd2996f0796c0b7b637e849d507e70a416772fa730ee5eaf8178d0a418.webp"
+  },
+  {
+    "filename": "061f8e6c185906fbb033612b03aab81418dd018011351fbf4652975fbb8b5c84.webp",
+    "size": 28940,
+    "source_rel": "lada/models/granta/images/061f8e6c185906fbb033612b03aab81418dd018011351fbf4652975fbb8b5c84.webp"
+  },
+  {
+    "filename": "063820433cbda396831a2c18369f39a5ed083aae08af2918d41e9269c1b2f428.webp",
+    "size": 17274,
+    "source_rel": "lada/models/granta/images/063820433cbda396831a2c18369f39a5ed083aae08af2918d41e9269c1b2f428.webp"
+  },
+  {
+    "filename": "063f59e1862bd020ac4ecd5b7856ee13cfd3e9e769f94833833e3ac7afdcaeef.webp",
+    "size": 17636,
+    "source_rel": "lada/models/granta/images/063f59e1862bd020ac4ecd5b7856ee13cfd3e9e769f94833833e3ac7afdcaeef.webp"
+  },
+  {
+    "filename": "0659770843f2a7bdbcbfe454e5cf65730630ed9aa038337930789c8e1136c899.webp",
+    "size": 19156,
+    "source_rel": "lada/models/granta/images/0659770843f2a7bdbcbfe454e5cf65730630ed9aa038337930789c8e1136c899.webp"
+  },
+  {
+    "filename": "068d762d0dbcc98aecd2d1e6e825a753af9d41ce8511594e2162aa8d2a698b20.webp",
+    "size": 24814,
+    "source_rel": "lada/models/granta/images/068d762d0dbcc98aecd2d1e6e825a753af9d41ce8511594e2162aa8d2a698b20.webp"
+  },
+  {
+    "filename": "06a3e0ca65fb80139ff6515bbf4d1231b46b1f0baf7a08b680d8536267d57369.webp",
+    "size": 14546,
+    "source_rel": "lada/models/granta/images/06a3e0ca65fb80139ff6515bbf4d1231b46b1f0baf7a08b680d8536267d57369.webp"
+  },
+  {
+    "filename": "0716f6512bad316c54c51c947ab9d4ba0d77aea2e9f57c364f3b472dcf240194.webp",
+    "size": 15614,
+    "source_rel": "lada/models/granta/images/0716f6512bad316c54c51c947ab9d4ba0d77aea2e9f57c364f3b472dcf240194.webp"
+  },
+  {
+    "filename": "072b0e96f731121d714cb6a3bcbdcffdcf39b328690f6a581eebbb68ccf8663b.webp",
+    "size": 24204,
+    "source_rel": "lada/models/granta/images/072b0e96f731121d714cb6a3bcbdcffdcf39b328690f6a581eebbb68ccf8663b.webp"
+  },
+  {
+    "filename": "074dd686fda31e65e52010b1abfd67201145fe8df3021eeaa3f8ed1fc15e6897.webp",
+    "size": 14656,
+    "source_rel": "lada/models/granta/images/074dd686fda31e65e52010b1abfd67201145fe8df3021eeaa3f8ed1fc15e6897.webp"
+  },
+  {
+    "filename": "0795fda2a36f9c5cdf8dabe192a21c970124250a078c9a43bbfc7dd9da14875a.webp",
+    "size": 21706,
+    "source_rel": "lada/models/granta/images/0795fda2a36f9c5cdf8dabe192a21c970124250a078c9a43bbfc7dd9da14875a.webp"
+  },
+  {
+    "filename": "07a0c7e5a8e1d9073242345968f199ec1a0f11ce2ea2b3d709017a405fbeac06.webp",
+    "size": 29554,
+    "source_rel": "lada/models/granta/images/07a0c7e5a8e1d9073242345968f199ec1a0f11ce2ea2b3d709017a405fbeac06.webp"
+  },
+  {
+    "filename": "07a61913437a2ec8de0c6f43ce056417a10a72ab63a4677e0bf9fd61dba3a9c5.webp",
+    "size": 21490,
+    "source_rel": "lada/models/granta/images/07a61913437a2ec8de0c6f43ce056417a10a72ab63a4677e0bf9fd61dba3a9c5.webp"
+  },
+  {
+    "filename": "07ab476c690c3d04cb10efff6eb1067dc00222c2c242b26bacfacfcc72770684.webp",
+    "size": 29636,
+    "source_rel": "lada/models/granta/images/07ab476c690c3d04cb10efff6eb1067dc00222c2c242b26bacfacfcc72770684.webp"
+  },
+  {
+    "filename": "07f229c6298a617dfb7dbea59b01791e3aadf3c7a444211684ce502da1c2dbc8.webp",
+    "size": 28298,
+    "source_rel": "lada/models/granta/images/07f229c6298a617dfb7dbea59b01791e3aadf3c7a444211684ce502da1c2dbc8.webp"
+  },
+  {
+    "filename": "0800aefa470df75bdb954fd4cb95df0f6ffff56911949ca55701307ac8ec457e.webp",
+    "size": 18138,
+    "source_rel": "lada/models/granta/images/0800aefa470df75bdb954fd4cb95df0f6ffff56911949ca55701307ac8ec457e.webp"
+  },
+  {
+    "filename": "08113c39e8bceba0a4d1b0f39b0645b7659466b711e26f20da007daf80dd9c40.webp",
+    "size": 30082,
+    "source_rel": "lada/models/granta/images/08113c39e8bceba0a4d1b0f39b0645b7659466b711e26f20da007daf80dd9c40.webp"
+  },
+  {
+    "filename": "098d0200c5b1e28c86cf25193a0e8ea7b2d7a665436cbde9d80008d513565b14.webp",
+    "size": 202172,
+    "source_rel": "lada/models/granta/images/098d0200c5b1e28c86cf25193a0e8ea7b2d7a665436cbde9d80008d513565b14.webp"
+  },
+  {
+    "filename": "09b0162be19ab1e249ef1bf03d2f04cffd06bfa1b124e96119742606689440c7.webp",
+    "size": 22568,
+    "source_rel": "lada/models/granta/images/09b0162be19ab1e249ef1bf03d2f04cffd06bfa1b124e96119742606689440c7.webp"
+  },
+  {
+    "filename": "09c16c4a7ff5c31ee3ca7e05dd9b7b51b42c65b3ff5bfa1fc600367e4eaa8b65.webp",
+    "size": 19946,
+    "source_rel": "lada/models/granta/images/09c16c4a7ff5c31ee3ca7e05dd9b7b51b42c65b3ff5bfa1fc600367e4eaa8b65.webp"
+  },
+  {
+    "filename": "09d3c54de7ed2be12dc2d87c52a693531b0c25e9413395bd7f7c4b3dc74235ee.webp",
+    "size": 11996,
+    "source_rel": "lada/models/granta/images/09d3c54de7ed2be12dc2d87c52a693531b0c25e9413395bd7f7c4b3dc74235ee.webp"
+  },
+  {
+    "filename": "0a6edcc6856b72862e8d6ee7723446f16ef772fd6e152ea93cad4a2df7228263.webp",
+    "size": 29308,
+    "source_rel": "lada/models/granta/images/0a6edcc6856b72862e8d6ee7723446f16ef772fd6e152ea93cad4a2df7228263.webp"
+  },
+  {
+    "filename": "0a8177a1c31ab445a84f31b568a554936c488ace088c25252a4d97686654c302.webp",
+    "size": 22170,
+    "source_rel": "lada/models/granta/images/0a8177a1c31ab445a84f31b568a554936c488ace088c25252a4d97686654c302.webp"
+  },
+  {
+    "filename": "0ad742e8b9b8e90427950538194d095d5e4662e47c4b917a5ca5a974a8ada3bf.webp",
+    "size": 15622,
+    "source_rel": "lada/models/granta/images/0ad742e8b9b8e90427950538194d095d5e4662e47c4b917a5ca5a974a8ada3bf.webp"
+  },
+  {
+    "filename": "0af06f4aa00a274ab9db7316f9964c200fab6bd99d0c4a7402d978081c6b0049.webp",
+    "size": 8246,
+    "source_rel": "lada/models/granta/images/0af06f4aa00a274ab9db7316f9964c200fab6bd99d0c4a7402d978081c6b0049.webp"
+  },
+  {
+    "filename": "0b08b2a1d0b5004868865b159c3af3aa6ad202a76a8bb93e48f2d24480bd3d55.webp",
+    "size": 129272,
+    "source_rel": "lada/models/granta/images/0b08b2a1d0b5004868865b159c3af3aa6ad202a76a8bb93e48f2d24480bd3d55.webp"
+  },
+  {
+    "filename": "0b1197d6fb8d0fa3774ec8b9fd69f917c347d75875127598cb4ef899d844c86f.webp",
+    "size": 28038,
+    "source_rel": "lada/models/granta/images/0b1197d6fb8d0fa3774ec8b9fd69f917c347d75875127598cb4ef899d844c86f.webp"
+  },
+  {
+    "filename": "0b168c65ed04da98e38ebeabb549d3544ae3e15fb35ad386b54eff46c675b142.webp",
+    "size": 44468,
+    "source_rel": "lada/models/granta/images/0b168c65ed04da98e38ebeabb549d3544ae3e15fb35ad386b54eff46c675b142.webp"
+  },
+  {
+    "filename": "0bdf5c1e859a0c860bf0be36521337b3c9c40a385191184f72321ee4cba98819.webp",
+    "size": 23606,
+    "source_rel": "lada/models/granta/images/0bdf5c1e859a0c860bf0be36521337b3c9c40a385191184f72321ee4cba98819.webp"
+  },
+  {
+    "filename": "0c712c4c06bac89ccd2969338c253e59044606555dc978dd784b75701ca01530.webp",
+    "size": 12730,
+    "source_rel": "lada/models/granta/images/0c712c4c06bac89ccd2969338c253e59044606555dc978dd784b75701ca01530.webp"
+  },
+  {
+    "filename": "0c8117f14595b9309d2e3c0dbd8c3db08bc9a3ed53fa093c0fd71ac9a4eca94f.webp",
+    "size": 18894,
+    "source_rel": "lada/models/granta/images/0c8117f14595b9309d2e3c0dbd8c3db08bc9a3ed53fa093c0fd71ac9a4eca94f.webp"
+  },
+  {
+    "filename": "0c89e45ec44932adb4aecc8f5983ed2f0fb76364a4e74d237bffae1edda8285f.webp",
+    "size": 28078,
+    "source_rel": "lada/models/granta/images/0c89e45ec44932adb4aecc8f5983ed2f0fb76364a4e74d237bffae1edda8285f.webp"
+  },
+  {
+    "filename": "0ca702cdaec51d96d48ac47f8ba6dbd358675c2d4ab3a96b3b37eaef657724e2.webp",
+    "size": 8792,
+    "source_rel": "lada/models/granta/images/0ca702cdaec51d96d48ac47f8ba6dbd358675c2d4ab3a96b3b37eaef657724e2.webp"
+  },
+  {
+    "filename": "0cbc95f6597456972fa2973a0ba18e13c6cecd6279bad6e417e07ae88561d1a3.webp",
+    "size": 8436,
+    "source_rel": "lada/models/granta/images/0cbc95f6597456972fa2973a0ba18e13c6cecd6279bad6e417e07ae88561d1a3.webp"
+  },
+  {
+    "filename": "0cf04139db0de29a55c4599a79c6a12b5e71013bb02711bb662564f98887f7c1.webp",
+    "size": 232796,
+    "source_rel": "lada/models/granta/images/0cf04139db0de29a55c4599a79c6a12b5e71013bb02711bb662564f98887f7c1.webp"
+  },
+  {
+    "filename": "0d1433884452638323b2c2a9daf4fdb4910a8f025909daebf65d2b74f34246d3.webp",
+    "size": 13078,
+    "source_rel": "lada/models/granta/images/0d1433884452638323b2c2a9daf4fdb4910a8f025909daebf65d2b74f34246d3.webp"
+  },
+  {
+    "filename": "0d2dfc794c2b946faf0344b3b05224c11d5e7e2d0191f673e3a3c60e7ae4d163.webp",
+    "size": 25704,
+    "source_rel": "lada/models/granta/images/0d2dfc794c2b946faf0344b3b05224c11d5e7e2d0191f673e3a3c60e7ae4d163.webp"
+  },
+  {
+    "filename": "0d4915875fba5ee1f2dc43493c72042199d494f969e0e2b5d2a64c767780d6e5.webp",
+    "size": 26584,
+    "source_rel": "lada/models/granta/images/0d4915875fba5ee1f2dc43493c72042199d494f969e0e2b5d2a64c767780d6e5.webp"
+  },
+  {
+    "filename": "0d765b52eddf90cb4b1153a4e0d6438b95e262b347f99a7a7373ce953a5bd4f2.webp",
+    "size": 18880,
+    "source_rel": "lada/models/granta/images/0d765b52eddf90cb4b1153a4e0d6438b95e262b347f99a7a7373ce953a5bd4f2.webp"
+  },
+  {
+    "filename": "0dc9b69fb9c8c5503baeb14c3c741ef5e71bb71aa88010caab7afb4712dec16e.webp",
+    "size": 17796,
+    "source_rel": "lada/models/granta/images/0dc9b69fb9c8c5503baeb14c3c741ef5e71bb71aa88010caab7afb4712dec16e.webp"
+  },
+  {
+    "filename": "0e21af8fa6bf787084a4cce0714e941f5737335e7183854abb78ac43b4c53084.webp",
+    "size": 31496,
+    "source_rel": "lada/models/granta/images/0e21af8fa6bf787084a4cce0714e941f5737335e7183854abb78ac43b4c53084.webp"
+  },
+  {
+    "filename": "0e811ba7716b5607400da7e7f0625f68cf1d7ada938bbb77fed0e4efa14fac05.webp",
+    "size": 9266,
+    "source_rel": "lada/models/granta/images/0e811ba7716b5607400da7e7f0625f68cf1d7ada938bbb77fed0e4efa14fac05.webp"
+  },
+  {
+    "filename": "0ea02ba9230aaa7054fec5b94608ffc7eb35647a4b7fed02f21bf3fb7724d592.webp",
+    "size": 17816,
+    "source_rel": "lada/models/granta/images/0ea02ba9230aaa7054fec5b94608ffc7eb35647a4b7fed02f21bf3fb7724d592.webp"
+  },
+  {
+    "filename": "0ec0a164f0fb1ba25e5138658bdd7d5fe9117000bbde71e4b1317db1bd903cc3.webp",
+    "size": 18166,
+    "source_rel": "lada/models/granta/images/0ec0a164f0fb1ba25e5138658bdd7d5fe9117000bbde71e4b1317db1bd903cc3.webp"
+  },
+  {
+    "filename": "0f1621a4dbb7684ce40d6563aecf82526a64c3105db372dfea2d81dc653f8de6.webp",
+    "size": 273608,
+    "source_rel": "lada/models/granta/images/0f1621a4dbb7684ce40d6563aecf82526a64c3105db372dfea2d81dc653f8de6.webp"
+  },
+  {
+    "filename": "0f1ee207ff51d9b5ba0751be79106f621205fa4990a8f9235c99745618e0d2d5.webp",
+    "size": 10956,
+    "source_rel": "lada/models/granta/images/0f1ee207ff51d9b5ba0751be79106f621205fa4990a8f9235c99745618e0d2d5.webp"
+  },
+  {
+    "filename": "0f5170c86bedbe924f01b2472da326c3a11f2f4b3d89dbf8668fd196a2cd8e71.webp",
+    "size": 18098,
+    "source_rel": "lada/models/granta/images/0f5170c86bedbe924f01b2472da326c3a11f2f4b3d89dbf8668fd196a2cd8e71.webp"
+  },
+  {
+    "filename": "0f6342fa9246cf8c47e5871a11c7d39f4d0de989773e9dccc796ef6875575e2a.webp",
+    "size": 19478,
+    "source_rel": "lada/models/granta/images/0f6342fa9246cf8c47e5871a11c7d39f4d0de989773e9dccc796ef6875575e2a.webp"
+  },
+  {
+    "filename": "0f8771ae7c0db1d2c195693b8ada8ebaaffae1e3eb221b870333b360da3a9dda.webp",
+    "size": 25034,
+    "source_rel": "lada/models/granta/images/0f8771ae7c0db1d2c195693b8ada8ebaaffae1e3eb221b870333b360da3a9dda.webp"
+  },
+  {
+    "filename": "0fcf03414b47b39fd5821ae10c193716c779c46eda0fc2ddc6651ac11b67bfa8.webp",
+    "size": 31054,
+    "source_rel": "lada/models/granta/images/0fcf03414b47b39fd5821ae10c193716c779c46eda0fc2ddc6651ac11b67bfa8.webp"
+  },
+  {
+    "filename": "0fdef89a19d5d577a14e647cb927057802cbc2b5a619d6536a1160b11d4b980b.webp",
+    "size": 13348,
+    "source_rel": "lada/models/granta/images/0fdef89a19d5d577a14e647cb927057802cbc2b5a619d6536a1160b11d4b980b.webp"
+  },
+  {
+    "filename": "100dd55ed6470abe292383238d7ab65507fea1f7b304c78c05bd27e939c57409.webp",
+    "size": 19510,
+    "source_rel": "lada/models/granta/images/100dd55ed6470abe292383238d7ab65507fea1f7b304c78c05bd27e939c57409.webp"
+  },
+  {
+    "filename": "103f6722a983b3014d0f07592dc802c07b1c0e1dcdcf5e6acbad87f89b3e2883.webp",
+    "size": 22000,
+    "source_rel": "lada/models/granta/images/103f6722a983b3014d0f07592dc802c07b1c0e1dcdcf5e6acbad87f89b3e2883.webp"
+  },
+  {
+    "filename": "10af4bfd6f5ae036b460f9ee299d29b568b746409a5a1198a5a4ed4a53e7090a.webp",
+    "size": 29280,
+    "source_rel": "lada/models/granta/images/10af4bfd6f5ae036b460f9ee299d29b568b746409a5a1198a5a4ed4a53e7090a.webp"
+  },
+  {
+    "filename": "10dc55fb3bb311b120c525e2f311282a8e5d2d138bb59bff4b05a598666732ff.webp",
+    "size": 17970,
+    "source_rel": "lada/models/granta/images/10dc55fb3bb311b120c525e2f311282a8e5d2d138bb59bff4b05a598666732ff.webp"
+  },
+  {
+    "filename": "10fe97086ece37bdb74f9fd103084742ce265ea1f4f6d012d86bd1c51f4ad2f0.webp",
+    "size": 12940,
+    "source_rel": "lada/models/granta/images/10fe97086ece37bdb74f9fd103084742ce265ea1f4f6d012d86bd1c51f4ad2f0.webp"
+  },
+  {
+    "filename": "111eeca113c81c503ee9e1678121779c5f2ab6f2f8e32e332398a3ef1fc88ce7.webp",
+    "size": 18772,
+    "source_rel": "lada/models/granta/images/111eeca113c81c503ee9e1678121779c5f2ab6f2f8e32e332398a3ef1fc88ce7.webp"
+  },
+  {
+    "filename": "11328b5622e9f260daf992bed5d0ad7090c18e96b684085ddaa29a667dd5fefd.webp",
+    "size": 26210,
+    "source_rel": "lada/models/granta/images/11328b5622e9f260daf992bed5d0ad7090c18e96b684085ddaa29a667dd5fefd.webp"
+  },
+  {
+    "filename": "113b7a0f92fd7ce03e5acca51bf1db1176fb1a9c472ae15bda8ba27e61aa5ec4.webp",
+    "size": 23728,
+    "source_rel": "lada/models/granta/images/113b7a0f92fd7ce03e5acca51bf1db1176fb1a9c472ae15bda8ba27e61aa5ec4.webp"
+  },
+  {
+    "filename": "1141abd7a7c983183664024f99b9235ba5db05cf1c64760a2b2faeadbc963489.webp",
+    "size": 30956,
+    "source_rel": "lada/models/granta/images/1141abd7a7c983183664024f99b9235ba5db05cf1c64760a2b2faeadbc963489.webp"
+  },
+  {
+    "filename": "1163bf070f43ad1747464ef9cb2ebda726a4b2895e5cd4f07b10d53ad41c7d1a.webp",
+    "size": 21520,
+    "source_rel": "lada/models/granta/images/1163bf070f43ad1747464ef9cb2ebda726a4b2895e5cd4f07b10d53ad41c7d1a.webp"
+  },
+  {
+    "filename": "116e080712fc81230e6e6a472e94cfafb245d46eaaa0f8c445aab1700e21cb61.webp",
+    "size": 19728,
+    "source_rel": "lada/models/granta/images/116e080712fc81230e6e6a472e94cfafb245d46eaaa0f8c445aab1700e21cb61.webp"
+  },
+  {
+    "filename": "11b9805bfba34594ecf0c8fd76575a7016b79a8d1b13d705d08671be91196cea.webp",
+    "size": 31944,
+    "source_rel": "lada/models/granta/images/11b9805bfba34594ecf0c8fd76575a7016b79a8d1b13d705d08671be91196cea.webp"
+  },
+  {
+    "filename": "1208480a851639044ea0aca392d48293094ff53a8dccb72f3debd0ebd39a5c99.webp",
+    "size": 9208,
+    "source_rel": "lada/models/granta/images/1208480a851639044ea0aca392d48293094ff53a8dccb72f3debd0ebd39a5c99.webp"
+  },
+  {
+    "filename": "1209570b51c89f9461ef6784c697157db03cc701ff645f4e69fe0c42b6d35809.webp",
+    "size": 4506,
+    "source_rel": "lada/models/granta/images/1209570b51c89f9461ef6784c697157db03cc701ff645f4e69fe0c42b6d35809.webp"
+  },
+  {
+    "filename": "122f85c4ea137fd254c7854b2ab8aaa3d1b132e0f054557850ce6f62ccb88422.webp",
+    "size": 26958,
+    "source_rel": "lada/models/granta/images/122f85c4ea137fd254c7854b2ab8aaa3d1b132e0f054557850ce6f62ccb88422.webp"
+  },
+  {
+    "filename": "124eb6a06f7c4f21edd124f544c34be5935df877939e48e06b7f74bb01bad4aa.webp",
+    "size": 19566,
+    "source_rel": "lada/models/granta/images/124eb6a06f7c4f21edd124f544c34be5935df877939e48e06b7f74bb01bad4aa.webp"
+  },
+  {
+    "filename": "1265906e41925a85f058994e62c6f183e5893b8fe06c49e2e0fbba07414b19fe.webp",
+    "size": 12266,
+    "source_rel": "lada/models/granta/images/1265906e41925a85f058994e62c6f183e5893b8fe06c49e2e0fbba07414b19fe.webp"
+  },
+  {
+    "filename": "12e7a124beebcf1f547e8f542b57a0b989ded0082d739442eada754514c465f0.webp",
+    "size": 28454,
+    "source_rel": "lada/models/granta/images/12e7a124beebcf1f547e8f542b57a0b989ded0082d739442eada754514c465f0.webp"
+  },
+  {
+    "filename": "12fc51b30bb142d62c0c01bfc060cf5ab619d537f432e4f58fd02d3375cf9f76.webp",
+    "size": 36166,
+    "source_rel": "lada/models/granta/images/12fc51b30bb142d62c0c01bfc060cf5ab619d537f432e4f58fd02d3375cf9f76.webp"
+  },
+  {
+    "filename": "136361cb69b3419857b9aa31cd644883bad33e2e9125e531655bb882aa55f092.webp",
+    "size": 26746,
+    "source_rel": "lada/models/granta/images/136361cb69b3419857b9aa31cd644883bad33e2e9125e531655bb882aa55f092.webp"
+  },
+  {
+    "filename": "13a5d90c4114bf205c4d485850839097ad5acac2c1aeede98874c9dbc1d3cae0.webp",
+    "size": 21426,
+    "source_rel": "lada/models/granta/images/13a5d90c4114bf205c4d485850839097ad5acac2c1aeede98874c9dbc1d3cae0.webp"
+  },
+  {
+    "filename": "13bc1501160d40236f7576fa480081551de8255b1529d3a8817186ac438051b9.webp",
+    "size": 28846,
+    "source_rel": "lada/models/granta/images/13bc1501160d40236f7576fa480081551de8255b1529d3a8817186ac438051b9.webp"
+  },
+  {
+    "filename": "13c8a71062e02c5a67d431f2782d00aee8b17dd500a2a503db7e1307c5dec477.webp",
+    "size": 21584,
+    "source_rel": "lada/models/granta/images/13c8a71062e02c5a67d431f2782d00aee8b17dd500a2a503db7e1307c5dec477.webp"
+  },
+  {
+    "filename": "13f062dfd9cbb66cc324858ae7c23e702dbbd1c5341ed8db608da1e3ecc2fe1b.webp",
+    "size": 210978,
+    "source_rel": "lada/models/granta/images/13f062dfd9cbb66cc324858ae7c23e702dbbd1c5341ed8db608da1e3ecc2fe1b.webp"
+  },
+  {
+    "filename": "145d00b2d10daed92fe9dc7f9c50167aeaca3e2eb07cdd3733468d43493dbcad.webp",
+    "size": 94248,
+    "source_rel": "lada/models/granta/images/145d00b2d10daed92fe9dc7f9c50167aeaca3e2eb07cdd3733468d43493dbcad.webp"
+  },
+  {
+    "filename": "14bf6ac44e5f0a942ac17b7a514e08fbdb64e7de30010a844445299e2147c313.webp",
+    "size": 37352,
+    "source_rel": "lada/models/granta/images/14bf6ac44e5f0a942ac17b7a514e08fbdb64e7de30010a844445299e2147c313.webp"
+  },
+  {
+    "filename": "14c07e965b3c001163f8434ded860a939831b7dcd20ce7b274991dc41299f3d4.webp",
+    "size": 9686,
+    "source_rel": "lada/models/granta/images/14c07e965b3c001163f8434ded860a939831b7dcd20ce7b274991dc41299f3d4.webp"
+  },
+  {
+    "filename": "14cd013f3959cf8b69fe2caf8bcadb7b32bc5d8318340419aa8801a82d3d64f2.webp",
+    "size": 29410,
+    "source_rel": "lada/models/granta/images/14cd013f3959cf8b69fe2caf8bcadb7b32bc5d8318340419aa8801a82d3d64f2.webp"
+  },
+  {
+    "filename": "14ecafcc353e98fd11a4bb55dd0e9c7846f8a613a25aed9fc5fbf3c9ad6f8bcd.webp",
+    "size": 35006,
+    "source_rel": "lada/models/granta/images/14ecafcc353e98fd11a4bb55dd0e9c7846f8a613a25aed9fc5fbf3c9ad6f8bcd.webp"
+  },
+  {
+    "filename": "1511b6e06120105145d61fe06101de884da08401fa6324f3bdf0973519d6e5c6.webp",
+    "size": 10234,
+    "source_rel": "lada/models/granta/images/1511b6e06120105145d61fe06101de884da08401fa6324f3bdf0973519d6e5c6.webp"
+  },
+  {
+    "filename": "159e7d4e079d8dc444ce047432dfe4ab5376d034e3602711c0141487aab01ca0.webp",
+    "size": 23174,
+    "source_rel": "lada/models/granta/images/159e7d4e079d8dc444ce047432dfe4ab5376d034e3602711c0141487aab01ca0.webp"
+  },
+  {
+    "filename": "15b3d873ae94fc88781b94f40a98e5cc84f24396406fdda3257323481e9900e3.webp",
+    "size": 8940,
+    "source_rel": "lada/models/granta/images/15b3d873ae94fc88781b94f40a98e5cc84f24396406fdda3257323481e9900e3.webp"
+  },
+  {
+    "filename": "16c9bd53d189be821f52a13c41aac55aac5b300b5beef76ceaa2192629182852.webp",
+    "size": 15996,
+    "source_rel": "lada/models/granta/images/16c9bd53d189be821f52a13c41aac55aac5b300b5beef76ceaa2192629182852.webp"
+  },
+  {
+    "filename": "16d8bd4d23305a066a93b5794da45f797772fe4dfa2b5c06c83c1cf5c4b6ba0c.webp",
+    "size": 231688,
+    "source_rel": "lada/models/granta/images/16d8bd4d23305a066a93b5794da45f797772fe4dfa2b5c06c83c1cf5c4b6ba0c.webp"
+  },
+  {
+    "filename": "16e9593fdb6743c4b276400e936f6e0999f8e94e87ba48c4d8e29a896136cc78.webp",
+    "size": 25512,
+    "source_rel": "lada/models/granta/images/16e9593fdb6743c4b276400e936f6e0999f8e94e87ba48c4d8e29a896136cc78.webp"
+  },
+  {
+    "filename": "1739edb7a4168d2120516dc725098654542de0104debc2e57b5bfa479eacee9e.webp",
+    "size": 29746,
+    "source_rel": "lada/models/granta/images/1739edb7a4168d2120516dc725098654542de0104debc2e57b5bfa479eacee9e.webp"
+  },
+  {
+    "filename": "1748fa3f738eea74889f805c5140092ac8858aeb6d977c39e5a063bb04740711.webp",
+    "size": 12820,
+    "source_rel": "lada/models/granta/images/1748fa3f738eea74889f805c5140092ac8858aeb6d977c39e5a063bb04740711.webp"
+  },
+  {
+    "filename": "17ab947449f4014bfa0d705b1ec49ba0465ba05a74fc05731a1f6ca48ac9790b.webp",
+    "size": 11896,
+    "source_rel": "lada/models/granta/images/17ab947449f4014bfa0d705b1ec49ba0465ba05a74fc05731a1f6ca48ac9790b.webp"
+  },
+  {
+    "filename": "17dda7c8dc385b7266f63debbe0b2cf67eb87a7785e1967c9673a7c4e5cf5ad8.webp",
+    "size": 13170,
+    "source_rel": "lada/models/granta/images/17dda7c8dc385b7266f63debbe0b2cf67eb87a7785e1967c9673a7c4e5cf5ad8.webp"
+  },
+  {
+    "filename": "18d11ee9e881a84a00a19fb660123fe1eb6794511eaf341f9073174208904dd2.webp",
+    "size": 17316,
+    "source_rel": "lada/models/granta/images/18d11ee9e881a84a00a19fb660123fe1eb6794511eaf341f9073174208904dd2.webp"
+  },
+  {
+    "filename": "18e358a9284b56fd5c1e47d689f7526971b79e7cd06166bea794e412c2d7fb84.webp",
+    "size": 23584,
+    "source_rel": "lada/models/granta/images/18e358a9284b56fd5c1e47d689f7526971b79e7cd06166bea794e412c2d7fb84.webp"
+  },
+  {
+    "filename": "18fbf632136d1eee5d788affae5ad942adc3254fffcd02f4acfa86d611c8572e.webp",
+    "size": 12196,
+    "source_rel": "lada/models/granta/images/18fbf632136d1eee5d788affae5ad942adc3254fffcd02f4acfa86d611c8572e.webp"
+  },
+  {
+    "filename": "1909341f3855e96cb3eb03fa583ed7f383f2e192cce9168e1f7cdd816ad26c4c.webp",
+    "size": 18722,
+    "source_rel": "lada/models/granta/images/1909341f3855e96cb3eb03fa583ed7f383f2e192cce9168e1f7cdd816ad26c4c.webp"
+  },
+  {
+    "filename": "191d911c28828c5886296cebf68faa240be0d7596db5061540a7ad4af46ead9c.webp",
+    "size": 215880,
+    "source_rel": "lada/models/granta/images/191d911c28828c5886296cebf68faa240be0d7596db5061540a7ad4af46ead9c.webp"
+  },
+  {
+    "filename": "1932834638dff679fd56355b84da5f0952ab07b20da9c86dd8a749c838420e8f.webp",
+    "size": 26210,
+    "source_rel": "lada/models/granta/images/1932834638dff679fd56355b84da5f0952ab07b20da9c86dd8a749c838420e8f.webp"
+  },
+  {
+    "filename": "19652ce02545be9597ce59af370a8f5da771527630f58d0caa01ae53bf41ac14.webp",
+    "size": 24036,
+    "source_rel": "lada/models/granta/images/19652ce02545be9597ce59af370a8f5da771527630f58d0caa01ae53bf41ac14.webp"
+  },
+  {
+    "filename": "19680c796cb91a65fe2753f2d87c5c4400a240ca3a829b83c2d2aa48443c361f.webp",
+    "size": 16342,
+    "source_rel": "lada/models/granta/images/19680c796cb91a65fe2753f2d87c5c4400a240ca3a829b83c2d2aa48443c361f.webp"
+  },
+  {
+    "filename": "196d8dcf5486006db4366d177939c467d8264330490c77981260ea7fbafc333e.webp",
+    "size": 17338,
+    "source_rel": "lada/models/granta/images/196d8dcf5486006db4366d177939c467d8264330490c77981260ea7fbafc333e.webp"
+  },
+  {
+    "filename": "1a2a13e95b49671ae06b652c1a693b0a4d79930c9547f784e92e97329a4d47d7.webp",
+    "size": 17384,
+    "source_rel": "lada/models/granta/images/1a2a13e95b49671ae06b652c1a693b0a4d79930c9547f784e92e97329a4d47d7.webp"
+  },
+  {
+    "filename": "1a67b3167287648f47d32c8ae35c07b5345c0d139390696b5b445a79fc7c6778.webp",
+    "size": 23934,
+    "source_rel": "lada/models/granta/images/1a67b3167287648f47d32c8ae35c07b5345c0d139390696b5b445a79fc7c6778.webp"
+  },
+  {
+    "filename": "1a86568912c616e2d098358ff2fd9942211d58ccefd5c037c7e8f112a30396e4.webp",
+    "size": 24972,
+    "source_rel": "lada/models/granta/images/1a86568912c616e2d098358ff2fd9942211d58ccefd5c037c7e8f112a30396e4.webp"
+  },
+  {
+    "filename": "1b2d6a9f656c9611d0531679f895349fbcf0cf0838b843a556b9b732dd67ffac.webp",
+    "size": 30604,
+    "source_rel": "lada/models/granta/images/1b2d6a9f656c9611d0531679f895349fbcf0cf0838b843a556b9b732dd67ffac.webp"
+  },
+  {
+    "filename": "1c2aecc422ee8213864f79f06adb2b4f93cb0e734a8800d2298d646df52f8127.webp",
+    "size": 40816,
+    "source_rel": "lada/models/granta/images/1c2aecc422ee8213864f79f06adb2b4f93cb0e734a8800d2298d646df52f8127.webp"
+  },
+  {
+    "filename": "1c3093e3e0fce0ab590a8e958a52f5b81e5811bd000b84410d3b4c26e9384ca2.webp",
+    "size": 33502,
+    "source_rel": "lada/models/granta/images/1c3093e3e0fce0ab590a8e958a52f5b81e5811bd000b84410d3b4c26e9384ca2.webp"
+  },
+  {
+    "filename": "1c4667620d3207cacd573bb2b3e987793f3de460fd8cbeedac248d7683005f08.webp",
+    "size": 16330,
+    "source_rel": "lada/models/granta/images/1c4667620d3207cacd573bb2b3e987793f3de460fd8cbeedac248d7683005f08.webp"
+  },
+  {
+    "filename": "1c6d9a2aadb85423b62e8eaf5ad297d93073b444604a61b8fcd850115517dbdd.webp",
+    "size": 22032,
+    "source_rel": "lada/models/granta/images/1c6d9a2aadb85423b62e8eaf5ad297d93073b444604a61b8fcd850115517dbdd.webp"
+  },
+  {
+    "filename": "1c8d68a4c90a4ab38b990c7c3eaf9121b7a016f1037e84d6eceeba056f757317.webp",
+    "size": 32518,
+    "source_rel": "lada/models/granta/images/1c8d68a4c90a4ab38b990c7c3eaf9121b7a016f1037e84d6eceeba056f757317.webp"
+  },
+  {
+    "filename": "1ce6ac73200c77ec7caa953ed19993e8d28e5861a3530e5327a2041f08f572c0.webp",
+    "size": 28130,
+    "source_rel": "lada/models/granta/images/1ce6ac73200c77ec7caa953ed19993e8d28e5861a3530e5327a2041f08f572c0.webp"
+  },
+  {
+    "filename": "1d255d43cb809cf487dd59968536e97d44333790138e4ad79f43b073ba2d2c99.webp",
+    "size": 21106,
+    "source_rel": "lada/models/granta/images/1d255d43cb809cf487dd59968536e97d44333790138e4ad79f43b073ba2d2c99.webp"
+  },
+  {
+    "filename": "1dd8075c718b9b8ede9c422ad153cfd3bd996869680c64f8cb3d4ef25d170bf2.webp",
+    "size": 12072,
+    "source_rel": "lada/models/granta/images/1dd8075c718b9b8ede9c422ad153cfd3bd996869680c64f8cb3d4ef25d170bf2.webp"
+  },
+  {
+    "filename": "1e5cce012f89b83960b5093348e1b6a45b080baa955ae30551652e89961bdb64.webp",
+    "size": 30426,
+    "source_rel": "lada/models/granta/images/1e5cce012f89b83960b5093348e1b6a45b080baa955ae30551652e89961bdb64.webp"
+  },
+  {
+    "filename": "1e89497130f9a6a659a71bdee9ce1be4645ccce1eba7f770db5947bbeab86ec6.webp",
+    "size": 9026,
+    "source_rel": "lada/models/granta/images/1e89497130f9a6a659a71bdee9ce1be4645ccce1eba7f770db5947bbeab86ec6.webp"
+  },
+  {
+    "filename": "1e9ec2ee64d60fedae20dba7ccf94d3b80ea273fe2fbb5851ddc9e1dfeb6e2b0.webp",
+    "size": 23696,
+    "source_rel": "lada/models/granta/images/1e9ec2ee64d60fedae20dba7ccf94d3b80ea273fe2fbb5851ddc9e1dfeb6e2b0.webp"
+  },
+  {
+    "filename": "1eb843f5039c5e6ae5443297aff015e3eac8c8b6b417c8ffb43990f2f56efc70.webp",
+    "size": 6784,
+    "source_rel": "lada/models/granta/images/1eb843f5039c5e6ae5443297aff015e3eac8c8b6b417c8ffb43990f2f56efc70.webp"
+  },
+  {
+    "filename": "1ed62dca5783fd02bc164efe62ed960bd968a3adb26d55c941cba1621cc429c7.webp",
+    "size": 28022,
+    "source_rel": "lada/models/granta/images/1ed62dca5783fd02bc164efe62ed960bd968a3adb26d55c941cba1621cc429c7.webp"
+  },
+  {
+    "filename": "1ef42ba2b59e5e7f1765002f199a13891beed22c0e0edbbf9b13037d8304b823.webp",
+    "size": 21698,
+    "source_rel": "lada/models/granta/images/1ef42ba2b59e5e7f1765002f199a13891beed22c0e0edbbf9b13037d8304b823.webp"
+  },
+  {
+    "filename": "1f32e8f1d5c0d5c301c6f18c4e34534a44dba26d7e0ad7ea2721b2a011292999.webp",
+    "size": 12174,
+    "source_rel": "lada/models/granta/images/1f32e8f1d5c0d5c301c6f18c4e34534a44dba26d7e0ad7ea2721b2a011292999.webp"
+  },
+  {
+    "filename": "1f513469c04717696da93b6b34f54be7cf38c045b9eb516d6bc14f77d5ffc471.webp",
+    "size": 32354,
+    "source_rel": "lada/models/granta/images/1f513469c04717696da93b6b34f54be7cf38c045b9eb516d6bc14f77d5ffc471.webp"
+  },
+  {
+    "filename": "1f7102aae187e651011c8011a03030904d1b28edde7a34317af73abb76546475.webp",
+    "size": 25098,
+    "source_rel": "lada/models/granta/images/1f7102aae187e651011c8011a03030904d1b28edde7a34317af73abb76546475.webp"
+  },
+  {
+    "filename": "1f7c0405b1e2a1d3bc168813374b99e551767837282ddd37990c4e072a10d2be.webp",
+    "size": 30680,
+    "source_rel": "lada/models/granta/images/1f7c0405b1e2a1d3bc168813374b99e551767837282ddd37990c4e072a10d2be.webp"
+  },
+  {
+    "filename": "1fa0777dc0b03b307c153c196832f998518b72b736d536d336ef46ef84e1ff51.webp",
+    "size": 27628,
+    "source_rel": "lada/models/granta/images/1fa0777dc0b03b307c153c196832f998518b72b736d536d336ef46ef84e1ff51.webp"
+  },
+  {
+    "filename": "1fb5d593d40006019d4426c1f776aa232926c700e5deef925aff741618d7b45a.webp",
+    "size": 20496,
+    "source_rel": "lada/models/granta/images/1fb5d593d40006019d4426c1f776aa232926c700e5deef925aff741618d7b45a.webp"
+  },
+  {
+    "filename": "1fbbb03fcdcb9243c7488260ea1883a408475a13f54baef12ddb57c24d9759b5.webp",
+    "size": 24776,
+    "source_rel": "lada/models/granta/images/1fbbb03fcdcb9243c7488260ea1883a408475a13f54baef12ddb57c24d9759b5.webp"
+  },
+  {
+    "filename": "1fc2b9f199541410fe16afce29394bddde248ee81300c3e655f9122a10ac9c32.webp",
+    "size": 11024,
+    "source_rel": "lada/models/granta/images/1fc2b9f199541410fe16afce29394bddde248ee81300c3e655f9122a10ac9c32.webp"
+  },
+  {
+    "filename": "1fe12e2df129a54762c60e8a324826e0427e6ad8d67b4ac54654170605617dac.webp",
+    "size": 23942,
+    "source_rel": "lada/models/granta/images/1fe12e2df129a54762c60e8a324826e0427e6ad8d67b4ac54654170605617dac.webp"
+  },
+  {
+    "filename": "1ff163d26998a343b3e4b06461698b52906a67a74945f81faa006d028a87c989.webp",
+    "size": 25256,
+    "source_rel": "lada/models/granta/images/1ff163d26998a343b3e4b06461698b52906a67a74945f81faa006d028a87c989.webp"
+  },
+  {
+    "filename": "200bd234cc0448403eb5b4fb388e97a707629a57068256eecb7581f7bf800bd2.webp",
+    "size": 9688,
+    "source_rel": "lada/models/granta/images/200bd234cc0448403eb5b4fb388e97a707629a57068256eecb7581f7bf800bd2.webp"
+  },
+  {
+    "filename": "203c17d7f449b4bbb13ceb9de1103ec17c310db52f3155b04e14910fdcecf0a9.webp",
+    "size": 17686,
+    "source_rel": "lada/models/granta/images/203c17d7f449b4bbb13ceb9de1103ec17c310db52f3155b04e14910fdcecf0a9.webp"
+  },
+  {
+    "filename": "205aa0225adca2e473aab2c9f310148786464f4e838b5a988ffc8d599c89fd77.webp",
+    "size": 10232,
+    "source_rel": "lada/models/granta/images/205aa0225adca2e473aab2c9f310148786464f4e838b5a988ffc8d599c89fd77.webp"
+  },
+  {
+    "filename": "208e90ccbe95d1b2fb9086d1582fa733d5249b6c738536e90f89716453758206.webp",
+    "size": 91848,
+    "source_rel": "lada/models/granta/images/208e90ccbe95d1b2fb9086d1582fa733d5249b6c738536e90f89716453758206.webp"
+  },
+  {
+    "filename": "20b99aae6f398ce26ee3698a07d0939d2cbc28447dc948cd6860e73c21d1028c.webp",
+    "size": 32324,
+    "source_rel": "lada/models/granta/images/20b99aae6f398ce26ee3698a07d0939d2cbc28447dc948cd6860e73c21d1028c.webp"
+  },
+  {
+    "filename": "2105f0a72512bc9303b5e53283111824eea4a6323e224341f1cd7cd4778f9b91.webp",
+    "size": 27266,
+    "source_rel": "lada/models/granta/images/2105f0a72512bc9303b5e53283111824eea4a6323e224341f1cd7cd4778f9b91.webp"
+  },
+  {
+    "filename": "2151bae2628888658afa38394cf12a05d59d3fcae304db5039a7f672f07814a5.webp",
+    "size": 25334,
+    "source_rel": "lada/models/granta/images/2151bae2628888658afa38394cf12a05d59d3fcae304db5039a7f672f07814a5.webp"
+  },
+  {
+    "filename": "217dd4e06e38d10d3c7be4acb6bbd078e28463f21ca0b18064b7bff9aac9e1d1.webp",
+    "size": 25806,
+    "source_rel": "lada/models/granta/images/217dd4e06e38d10d3c7be4acb6bbd078e28463f21ca0b18064b7bff9aac9e1d1.webp"
+  },
+  {
+    "filename": "21e21c7b300f26c2a67d3335ae1c1fec41b83c517b451b62e4f1d305768eb5d0.webp",
+    "size": 33958,
+    "source_rel": "lada/models/granta/images/21e21c7b300f26c2a67d3335ae1c1fec41b83c517b451b62e4f1d305768eb5d0.webp"
+  },
+  {
+    "filename": "222b5fcfe0e92c1bc2cb02a3d9e030095fd613be313b024b05a99001926843e3.webp",
+    "size": 26060,
+    "source_rel": "lada/models/granta/images/222b5fcfe0e92c1bc2cb02a3d9e030095fd613be313b024b05a99001926843e3.webp"
+  },
+  {
+    "filename": "2253bf76b3757763ea0ac3bf315a10d39739852b449796ab735b37c7ce0ee69b.webp",
+    "size": 18380,
+    "source_rel": "lada/models/granta/images/2253bf76b3757763ea0ac3bf315a10d39739852b449796ab735b37c7ce0ee69b.webp"
+  },
+  {
+    "filename": "22ac52b692b4d4204608f4b3defcf7a0ee1def8aec6dbf623e8808a8fa4919ce.webp",
+    "size": 24266,
+    "source_rel": "lada/models/granta/images/22ac52b692b4d4204608f4b3defcf7a0ee1def8aec6dbf623e8808a8fa4919ce.webp"
+  },
+  {
+    "filename": "22c5e3146b331f31c2b09721192aeaab09ca8bbdafa6a35f84ed19c2cc352b7a.webp",
+    "size": 23310,
+    "source_rel": "lada/models/granta/images/22c5e3146b331f31c2b09721192aeaab09ca8bbdafa6a35f84ed19c2cc352b7a.webp"
+  },
+  {
+    "filename": "22f8d1a551576227f8d90f2b8f7b12fb0ee984084a6a9de7bfedf672a1e3aa07.webp",
+    "size": 35082,
+    "source_rel": "lada/models/granta/images/22f8d1a551576227f8d90f2b8f7b12fb0ee984084a6a9de7bfedf672a1e3aa07.webp"
+  },
+  {
+    "filename": "23dca46120d832abd6aacfef644265f53aacee772820909f67fa9f0358ac8ee4.webp",
+    "size": 9148,
+    "source_rel": "lada/models/granta/images/23dca46120d832abd6aacfef644265f53aacee772820909f67fa9f0358ac8ee4.webp"
+  },
+  {
+    "filename": "2431630041b491ba7129bfcfaf830eb49fe6c2e1d07a26ca12f96d078f714249.webp",
+    "size": 20472,
+    "source_rel": "lada/models/granta/images/2431630041b491ba7129bfcfaf830eb49fe6c2e1d07a26ca12f96d078f714249.webp"
+  },
+  {
+    "filename": "24618e78564f29047264dbac1a57a094f547abda7ab36e18f6419bf9b0d4d84f.webp",
+    "size": 55212,
+    "source_rel": "lada/models/granta/images/24618e78564f29047264dbac1a57a094f547abda7ab36e18f6419bf9b0d4d84f.webp"
+  },
+  {
+    "filename": "24b8b0e69b522e4388db753934458ad66fc3513739fc2f786f022d3c36c17f4c.webp",
+    "size": 25372,
+    "source_rel": "lada/models/granta/images/24b8b0e69b522e4388db753934458ad66fc3513739fc2f786f022d3c36c17f4c.webp"
+  },
+  {
+    "filename": "251ee38d978b3240af150bc51e39a80a1321a6f4159738c6909aa4267a7c294e.webp",
+    "size": 24032,
+    "source_rel": "lada/models/granta/images/251ee38d978b3240af150bc51e39a80a1321a6f4159738c6909aa4267a7c294e.webp"
+  },
+  {
+    "filename": "258b05f23d7e328573c6043b7551bbf1a66d8f2c877d457a2d63b89db1cb888a.webp",
+    "size": 14152,
+    "source_rel": "lada/models/granta/images/258b05f23d7e328573c6043b7551bbf1a66d8f2c877d457a2d63b89db1cb888a.webp"
+  },
+  {
+    "filename": "25b82dbb27cb99b76510adfd2069f32f1a419368586091de85f1b2a11eefb1e4.webp",
+    "size": 28450,
+    "source_rel": "lada/models/granta/images/25b82dbb27cb99b76510adfd2069f32f1a419368586091de85f1b2a11eefb1e4.webp"
+  },
+  {
+    "filename": "25de5c30aa7276fbe55b0df3144591438664e1128ee8cd4e63407864959be3f6.webp",
+    "size": 29270,
+    "source_rel": "lada/models/granta/images/25de5c30aa7276fbe55b0df3144591438664e1128ee8cd4e63407864959be3f6.webp"
+  },
+  {
+    "filename": "2616976a0492b767129a44548d1557045902787c7e8ce58078e8ff8a29a9db1d.webp",
+    "size": 16522,
+    "source_rel": "lada/models/granta/images/2616976a0492b767129a44548d1557045902787c7e8ce58078e8ff8a29a9db1d.webp"
+  },
+  {
+    "filename": "2617cfa99252228602ea8ec5a7f7e034e54730c7858251f06c11f6e1df1ef441.webp",
+    "size": 24722,
+    "source_rel": "lada/models/granta/images/2617cfa99252228602ea8ec5a7f7e034e54730c7858251f06c11f6e1df1ef441.webp"
+  },
+  {
+    "filename": "262a2cf6e70e8bd9f3e638fa6c5f008a72453f7729f3df5031e05bb08dbc3ef3.webp",
+    "size": 20424,
+    "source_rel": "lada/models/granta/images/262a2cf6e70e8bd9f3e638fa6c5f008a72453f7729f3df5031e05bb08dbc3ef3.webp"
+  },
+  {
+    "filename": "262b8c9f565cf98961a0ce78c4a27efb1486f3309c5958ed4ee2c8bfb5dec568.webp",
+    "size": 28350,
+    "source_rel": "lada/models/granta/images/262b8c9f565cf98961a0ce78c4a27efb1486f3309c5958ed4ee2c8bfb5dec568.webp"
+  },
+  {
+    "filename": "2635be259d555c94e606e5ba91d42ee431845d6e5f70c893c4e9e03e6706bd98.webp",
+    "size": 78012,
+    "source_rel": "lada/models/granta/images/2635be259d555c94e606e5ba91d42ee431845d6e5f70c893c4e9e03e6706bd98.webp"
+  },
+  {
+    "filename": "26987cd7b1ff8049ed41282d9e7216530f2fcd88e63041a331a70db6b6db8568.webp",
+    "size": 22136,
+    "source_rel": "lada/models/granta/images/26987cd7b1ff8049ed41282d9e7216530f2fcd88e63041a331a70db6b6db8568.webp"
+  },
+  {
+    "filename": "26a68b50b74d52d15cb691cbf2ed099186d106ace7e0cbb3b81d5cf3f4f88be2.webp",
+    "size": 18378,
+    "source_rel": "lada/models/granta/images/26a68b50b74d52d15cb691cbf2ed099186d106ace7e0cbb3b81d5cf3f4f88be2.webp"
+  },
+  {
+    "filename": "26a7c9adfcb9f411d3df6979f51297895a6f985ffa4a9aec3deef5be5ca0c711.webp",
+    "size": 12034,
+    "source_rel": "lada/models/granta/images/26a7c9adfcb9f411d3df6979f51297895a6f985ffa4a9aec3deef5be5ca0c711.webp"
+  },
+  {
+    "filename": "271731836eea10f8c56bef25705576cfaeac08599ac46c724ea4d0ea7e69b50b.webp",
+    "size": 7306,
+    "source_rel": "lada/models/granta/images/271731836eea10f8c56bef25705576cfaeac08599ac46c724ea4d0ea7e69b50b.webp"
+  },
+  {
+    "filename": "273eff2171771a3d145c3b47f588a1646d442e68fd395b3cf9a550752c503e08.webp",
+    "size": 17870,
+    "source_rel": "lada/models/granta/images/273eff2171771a3d145c3b47f588a1646d442e68fd395b3cf9a550752c503e08.webp"
+  },
+  {
+    "filename": "275fe0f3f38e319cbe84940efdfd38bd882370b8f57893f0702d687fbea99aff.webp",
+    "size": 26224,
+    "source_rel": "lada/models/granta/images/275fe0f3f38e319cbe84940efdfd38bd882370b8f57893f0702d687fbea99aff.webp"
+  },
+  {
+    "filename": "276eedb245200c4a8657b9b9c66b0ad7392cebc7766581135aa78e7a8225163f.webp",
+    "size": 13066,
+    "source_rel": "lada/models/granta/images/276eedb245200c4a8657b9b9c66b0ad7392cebc7766581135aa78e7a8225163f.webp"
+  },
+  {
+    "filename": "2784c100b1621d5585fa9d2c6ce3ea5bfb6ecc896cb5e1786f5e43b96f4fdc0d.webp",
+    "size": 21826,
+    "source_rel": "lada/models/granta/images/2784c100b1621d5585fa9d2c6ce3ea5bfb6ecc896cb5e1786f5e43b96f4fdc0d.webp"
+  },
+  {
+    "filename": "278ddc64e83896dcddc41c2d8d423081fb3b3a673323539f3bc8fc1b353b49ce.webp",
+    "size": 16166,
+    "source_rel": "lada/models/granta/images/278ddc64e83896dcddc41c2d8d423081fb3b3a673323539f3bc8fc1b353b49ce.webp"
+  },
+  {
+    "filename": "27a334dc112494f00a561a340110c286fadcdea8e4ae7c7a082e517976ba8280.webp",
+    "size": 22264,
+    "source_rel": "lada/models/granta/images/27a334dc112494f00a561a340110c286fadcdea8e4ae7c7a082e517976ba8280.webp"
+  },
+  {
+    "filename": "27ed452063d52e0178354f5841c7c2b4004ab5b7c8df89eaf4d16ef125126c52.webp",
+    "size": 6574,
+    "source_rel": "lada/models/granta/images/27ed452063d52e0178354f5841c7c2b4004ab5b7c8df89eaf4d16ef125126c52.webp"
+  },
+  {
+    "filename": "2807b6794c32344ae018fdeb55447fbec95dbabf52682226ae1adea3c0227be3.webp",
+    "size": 10988,
+    "source_rel": "lada/models/granta/images/2807b6794c32344ae018fdeb55447fbec95dbabf52682226ae1adea3c0227be3.webp"
+  },
+  {
+    "filename": "2836e5c80ec73a0c726a6ef60f40acb62209a80ccbbdbf2ffc33d279b563554e.webp",
+    "size": 7326,
+    "source_rel": "lada/models/granta/images/2836e5c80ec73a0c726a6ef60f40acb62209a80ccbbdbf2ffc33d279b563554e.webp"
+  },
+  {
+    "filename": "289dda1d8e82eb34175c6f2d79314cae164f61d3a2a637ca28ff413bb2fa6b11.webp",
+    "size": 21000,
+    "source_rel": "lada/models/granta/images/289dda1d8e82eb34175c6f2d79314cae164f61d3a2a637ca28ff413bb2fa6b11.webp"
+  },
+  {
+    "filename": "28a18421f36ea6e56f927a0f9e93f61edf7de9ae7b37061516c61580d5aec73e.webp",
+    "size": 16610,
+    "source_rel": "lada/models/granta/images/28a18421f36ea6e56f927a0f9e93f61edf7de9ae7b37061516c61580d5aec73e.webp"
+  },
+  {
+    "filename": "28a21afe683a9bf54a74b72135796be1c761e332b94c5c5377af85ac3bd70efa.webp",
+    "size": 33280,
+    "source_rel": "lada/models/granta/images/28a21afe683a9bf54a74b72135796be1c761e332b94c5c5377af85ac3bd70efa.webp"
+  },
+  {
+    "filename": "2926671eee73442fdaff1ea2061cd2b63514f51a6553322f849266e94d9c8e55.webp",
+    "size": 13682,
+    "source_rel": "lada/models/granta/images/2926671eee73442fdaff1ea2061cd2b63514f51a6553322f849266e94d9c8e55.webp"
+  },
+  {
+    "filename": "298bd4e213acc392929dd0f6aa3a855529ce7d9d2ca4bdeea6f4a5441744ddae.webp",
+    "size": 6784,
+    "source_rel": "lada/models/granta/images/298bd4e213acc392929dd0f6aa3a855529ce7d9d2ca4bdeea6f4a5441744ddae.webp"
+  },
+  {
+    "filename": "29d1c91e2d60ed1716e0333f966f4500c19fcabef2336952ce35ebde532843a7.webp",
+    "size": 14254,
+    "source_rel": "lada/models/granta/images/29d1c91e2d60ed1716e0333f966f4500c19fcabef2336952ce35ebde532843a7.webp"
+  },
+  {
+    "filename": "29e41ac6b07db5ae51d9732409683b570a74c2f7055a63caaead581318719dd6.webp",
+    "size": 8804,
+    "source_rel": "lada/models/granta/images/29e41ac6b07db5ae51d9732409683b570a74c2f7055a63caaead581318719dd6.webp"
+  },
+  {
+    "filename": "29fbc20a343d1b50246656b6766ab58e29268d5d2b3cdfc846a850a944df51a5.webp",
+    "size": 1342,
+    "source_rel": "lada/models/granta/images/29fbc20a343d1b50246656b6766ab58e29268d5d2b3cdfc846a850a944df51a5.webp"
+  },
+  {
+    "filename": "2a252d858585e4719cea284603e9faac0c5753e75a610ada1a4bc165d68abf32.webp",
+    "size": 19648,
+    "source_rel": "lada/models/granta/images/2a252d858585e4719cea284603e9faac0c5753e75a610ada1a4bc165d68abf32.webp"
+  },
+  {
+    "filename": "2a2c15106a11675035ca6514e0a08d01242e76cbd8469e848dc23e0997292bc8.webp",
+    "size": 14294,
+    "source_rel": "lada/models/granta/images/2a2c15106a11675035ca6514e0a08d01242e76cbd8469e848dc23e0997292bc8.webp"
+  },
+  {
+    "filename": "2a9960912de030a533f34a82253f5ae5042f7f2b0e5f2121e8f11960804c5996.webp",
+    "size": 13862,
+    "source_rel": "lada/models/granta/images/2a9960912de030a533f34a82253f5ae5042f7f2b0e5f2121e8f11960804c5996.webp"
+  },
+  {
+    "filename": "2ae0750a554b8ca8795b0de172bff9571df2686a19c36892ec19bc600fe60694.webp",
+    "size": 27368,
+    "source_rel": "lada/models/granta/images/2ae0750a554b8ca8795b0de172bff9571df2686a19c36892ec19bc600fe60694.webp"
+  },
+  {
+    "filename": "2ae562982bf4bd23791c4df090348096b0d6273ee5ecbbe2479dce6db747087a.webp",
+    "size": 14104,
+    "source_rel": "lada/models/granta/images/2ae562982bf4bd23791c4df090348096b0d6273ee5ecbbe2479dce6db747087a.webp"
+  },
+  {
+    "filename": "2b1941379787e9682a994423c9ae7b5e27e416d81810ad8f39415b8bbab26b9e.webp",
+    "size": 19578,
+    "source_rel": "lada/models/granta/images/2b1941379787e9682a994423c9ae7b5e27e416d81810ad8f39415b8bbab26b9e.webp"
+  },
+  {
+    "filename": "2b22ddba60f5206ab64163e0279e08945b322cbedadac068727512332491f799.webp",
+    "size": 12832,
+    "source_rel": "lada/models/granta/images/2b22ddba60f5206ab64163e0279e08945b322cbedadac068727512332491f799.webp"
+  },
+  {
+    "filename": "2b934e43283143b7942b7ae37e42ef4ae74a51b5a596607441e1fd59766f4e93.webp",
+    "size": 16542,
+    "source_rel": "lada/models/granta/images/2b934e43283143b7942b7ae37e42ef4ae74a51b5a596607441e1fd59766f4e93.webp"
+  },
+  {
+    "filename": "2bf5617d065e3f757adbcd56ae98176f54afbc29326d22a6fc34c105f8aa72e3.webp",
+    "size": 19504,
+    "source_rel": "lada/models/granta/images/2bf5617d065e3f757adbcd56ae98176f54afbc29326d22a6fc34c105f8aa72e3.webp"
+  },
+  {
+    "filename": "2c82a8b67c7ef0e6228b094e419691e2f0a29c55ec6842ad6424ff79868200b7.webp",
+    "size": 23488,
+    "source_rel": "lada/models/granta/images/2c82a8b67c7ef0e6228b094e419691e2f0a29c55ec6842ad6424ff79868200b7.webp"
+  },
+  {
+    "filename": "2cbaa101cd7c9c6e21173ee41d802316c44eb52596d5011410f136d7f6e5cbaf.webp",
+    "size": 7264,
+    "source_rel": "lada/models/granta/images/2cbaa101cd7c9c6e21173ee41d802316c44eb52596d5011410f136d7f6e5cbaf.webp"
+  },
+  {
+    "filename": "2e1122a3e001a7397a63ac5e10baa338f0f23be70b17dba857aa7cad98618071.webp",
+    "size": 20320,
+    "source_rel": "lada/models/granta/images/2e1122a3e001a7397a63ac5e10baa338f0f23be70b17dba857aa7cad98618071.webp"
+  },
+  {
+    "filename": "2ee7a26b872448dd4f60d0feb680b58f596a0179ae779356ab52e941f0b69810.webp",
+    "size": 3466,
+    "source_rel": "lada/models/granta/images/2ee7a26b872448dd4f60d0feb680b58f596a0179ae779356ab52e941f0b69810.webp"
+  },
+  {
+    "filename": "2eecccd5c8bf13e4f7ada29cb5dc527f5844bd80a6ee86025280320bc51aaa2e.webp",
+    "size": 15914,
+    "source_rel": "lada/models/granta/images/2eecccd5c8bf13e4f7ada29cb5dc527f5844bd80a6ee86025280320bc51aaa2e.webp"
+  },
+  {
+    "filename": "2f567d7cf40ed3d1888cce600b1fbd15b85abda519296d455e28f2cb5da40ef9.webp",
+    "size": 34130,
+    "source_rel": "lada/models/granta/images/2f567d7cf40ed3d1888cce600b1fbd15b85abda519296d455e28f2cb5da40ef9.webp"
+  },
+  {
+    "filename": "2fcad4d6671ebd69b0363a1e468bb0d81351be9c115c9f6905ff22d26d6a05c2.webp",
+    "size": 53968,
+    "source_rel": "lada/models/granta/images/2fcad4d6671ebd69b0363a1e468bb0d81351be9c115c9f6905ff22d26d6a05c2.webp"
+  },
+  {
+    "filename": "2fde94c307c9cf99e7b0ed42630948c0f1d5695c20efa2ef150360055194ef99.webp",
+    "size": 1782,
+    "source_rel": "lada/models/granta/images/2fde94c307c9cf99e7b0ed42630948c0f1d5695c20efa2ef150360055194ef99.webp"
+  },
+  {
+    "filename": "2fe31ab5c94ec7c62de28e6b5ff557f872e01e1e9da3caf775621ec4809270c8.webp",
+    "size": 15472,
+    "source_rel": "lada/models/granta/images/2fe31ab5c94ec7c62de28e6b5ff557f872e01e1e9da3caf775621ec4809270c8.webp"
+  },
+  {
+    "filename": "302fa1bb02bc5be20c72e2ee27f0a46681768910939b829ff7a0934499d53436.webp",
+    "size": 17120,
+    "source_rel": "lada/models/granta/images/302fa1bb02bc5be20c72e2ee27f0a46681768910939b829ff7a0934499d53436.webp"
+  },
+  {
+    "filename": "303ce116dbe0971aebafa0dbe62a3d55d75f469a179b3d2be14ba2286ffaadd4.webp",
+    "size": 20064,
+    "source_rel": "lada/models/granta/images/303ce116dbe0971aebafa0dbe62a3d55d75f469a179b3d2be14ba2286ffaadd4.webp"
+  },
+  {
+    "filename": "30538a372f8c85068f67e8813cfa41811def4d701bcdab845008f69fd62a785d.webp",
+    "size": 22152,
+    "source_rel": "lada/models/granta/images/30538a372f8c85068f67e8813cfa41811def4d701bcdab845008f69fd62a785d.webp"
+  },
+  {
+    "filename": "305dbba285a81e67f8aba7166a7b6f8de4664cd7c9ebcc458b9becd6ebfd1f58.webp",
+    "size": 23298,
+    "source_rel": "lada/models/granta/images/305dbba285a81e67f8aba7166a7b6f8de4664cd7c9ebcc458b9becd6ebfd1f58.webp"
+  },
+  {
+    "filename": "305e8b7600069add46275969e1aaed31a8afc744ab4b0b79390a073063d12651.webp",
+    "size": 24640,
+    "source_rel": "lada/models/granta/images/305e8b7600069add46275969e1aaed31a8afc744ab4b0b79390a073063d12651.webp"
+  },
+  {
+    "filename": "306002d6068bbf7591cf944145eb2d4b1a94928e0cee0b466b21189605f30e2a.webp",
+    "size": 15302,
+    "source_rel": "lada/models/granta/images/306002d6068bbf7591cf944145eb2d4b1a94928e0cee0b466b21189605f30e2a.webp"
+  },
+  {
+    "filename": "3075996a15d032fcd54fdad3d58a35be3df60665220aa2ac9983d3ec15a3116f.webp",
+    "size": 16790,
+    "source_rel": "lada/models/granta/images/3075996a15d032fcd54fdad3d58a35be3df60665220aa2ac9983d3ec15a3116f.webp"
+  },
+  {
+    "filename": "30879e6c3362882ddadb2f093a6319bcdded4276f98df7e70a955f49a17cc218.webp",
+    "size": 14418,
+    "source_rel": "lada/models/granta/images/30879e6c3362882ddadb2f093a6319bcdded4276f98df7e70a955f49a17cc218.webp"
+  },
+  {
+    "filename": "30bb241b6b6606a88ecae95c72d9221fe951184b2cdb33d0aaa76ff2ff7e8b3f.webp",
+    "size": 22430,
+    "source_rel": "lada/models/granta/images/30bb241b6b6606a88ecae95c72d9221fe951184b2cdb33d0aaa76ff2ff7e8b3f.webp"
+  },
+  {
+    "filename": "310a6c5c6b39d4c4086da481a3332aa3979ec73c2ec36d39724982346c042c1a.webp",
+    "size": 1292,
+    "source_rel": "lada/models/granta/images/310a6c5c6b39d4c4086da481a3332aa3979ec73c2ec36d39724982346c042c1a.webp"
+  },
+  {
+    "filename": "3125373ee1c281481f0557590e023fe4a8c3697e123e07559c27807c4bf53c12.webp",
+    "size": 30078,
+    "source_rel": "lada/models/granta/images/3125373ee1c281481f0557590e023fe4a8c3697e123e07559c27807c4bf53c12.webp"
+  },
+  {
+    "filename": "3157854cb02a8e0ae3e6aa7155616f1878f3fdf5da5b8cf4d0762728037eed12.webp",
+    "size": 20718,
+    "source_rel": "lada/models/granta/images/3157854cb02a8e0ae3e6aa7155616f1878f3fdf5da5b8cf4d0762728037eed12.webp"
+  },
+  {
+    "filename": "317bfdd5e403961d64f117864e70e2feca785de2572465000514fad0d1635e62.webp",
+    "size": 23128,
+    "source_rel": "lada/models/granta/images/317bfdd5e403961d64f117864e70e2feca785de2572465000514fad0d1635e62.webp"
+  },
+  {
+    "filename": "3193bb39c6127768883cefb41abf0704ef70095fcac8a3ffce23dced9d3e25fb.webp",
+    "size": 159892,
+    "source_rel": "lada/models/granta/images/3193bb39c6127768883cefb41abf0704ef70095fcac8a3ffce23dced9d3e25fb.webp"
+  },
+  {
+    "filename": "31c88bedb47547d207dce2466ea1f3521c73a3b6e957a9be1ddb6790b4c94905.webp",
+    "size": 10864,
+    "source_rel": "lada/models/granta/images/31c88bedb47547d207dce2466ea1f3521c73a3b6e957a9be1ddb6790b4c94905.webp"
+  },
+  {
+    "filename": "31dc891047d4294fac6dfad4705c2a640c61f368c16728154afd3a9316794d7a.webp",
+    "size": 25576,
+    "source_rel": "lada/models/granta/images/31dc891047d4294fac6dfad4705c2a640c61f368c16728154afd3a9316794d7a.webp"
+  },
+  {
+    "filename": "326088e9246cbe134143d352467c7bbf090a70d1a863f9cf165b3999165afe4b.webp",
+    "size": 17938,
+    "source_rel": "lada/models/granta/images/326088e9246cbe134143d352467c7bbf090a70d1a863f9cf165b3999165afe4b.webp"
+  },
+  {
+    "filename": "32916e0c967c2c9ccafde61b77b95b6a718715641569259dc3f8e3faf7c96157.webp",
+    "size": 27494,
+    "source_rel": "lada/models/granta/images/32916e0c967c2c9ccafde61b77b95b6a718715641569259dc3f8e3faf7c96157.webp"
+  },
+  {
+    "filename": "32c5116c9b3de446c00891ff14717ef4efa0f3e046075b8cd2ce634ba6e0732d.webp",
+    "size": 6802,
+    "source_rel": "lada/models/granta/images/32c5116c9b3de446c00891ff14717ef4efa0f3e046075b8cd2ce634ba6e0732d.webp"
+  },
+  {
+    "filename": "32c90e2c8a68f3183f7dfa780add0d54080533986489a81622aec18ccd22fca3.webp",
+    "size": 21056,
+    "source_rel": "lada/models/granta/images/32c90e2c8a68f3183f7dfa780add0d54080533986489a81622aec18ccd22fca3.webp"
+  },
+  {
+    "filename": "32ec3d19a6ab79814726837379649bbf02a0a53d1bcc01bf681b41f87d6d7f1c.webp",
+    "size": 21228,
+    "source_rel": "lada/models/granta/images/32ec3d19a6ab79814726837379649bbf02a0a53d1bcc01bf681b41f87d6d7f1c.webp"
+  },
+  {
+    "filename": "32fef670875b9dcfe5c5d81fad1de2c0ceb97f68c309080aa3d921a2df7c8539.webp",
+    "size": 13642,
+    "source_rel": "lada/models/granta/images/32fef670875b9dcfe5c5d81fad1de2c0ceb97f68c309080aa3d921a2df7c8539.webp"
+  },
+  {
+    "filename": "3316d9f6a189008d85aa8ff4444ca49d2f7ab7cfc6667c454e8305252acab4b3.webp",
+    "size": 21014,
+    "source_rel": "lada/models/granta/images/3316d9f6a189008d85aa8ff4444ca49d2f7ab7cfc6667c454e8305252acab4b3.webp"
+  },
+  {
+    "filename": "334d36697e3638391581355ce1b1b4d5749df45b5a5fa916c203a95e00760a9b.webp",
+    "size": 15954,
+    "source_rel": "lada/models/granta/images/334d36697e3638391581355ce1b1b4d5749df45b5a5fa916c203a95e00760a9b.webp"
+  },
+  {
+    "filename": "3351ed187ad77e34b6d8d799bb3aacaf3bc9b74f05df0466707abc5b6a5ed54b.webp",
+    "size": 10334,
+    "source_rel": "lada/models/granta/images/3351ed187ad77e34b6d8d799bb3aacaf3bc9b74f05df0466707abc5b6a5ed54b.webp"
+  },
+  {
+    "filename": "33550baa1550b99f77bb7eaecbfc7df9fd156a74ab25e4962564793dcb1367c1.webp",
+    "size": 23268,
+    "source_rel": "lada/models/granta/images/33550baa1550b99f77bb7eaecbfc7df9fd156a74ab25e4962564793dcb1367c1.webp"
+  },
+  {
+    "filename": "335e927a0f1ef927b36e1d9508253f4836f3a4a0bc9d67a8b1ee9af4b7bce8b9.webp",
+    "size": 4136,
+    "source_rel": "lada/models/granta/images/335e927a0f1ef927b36e1d9508253f4836f3a4a0bc9d67a8b1ee9af4b7bce8b9.webp"
+  },
+  {
+    "filename": "33ede125cf1a6e0ae699e8abe921fbc5666e3fc3c7beb210e2e369f5914e3909.webp",
+    "size": 14350,
+    "source_rel": "lada/models/granta/images/33ede125cf1a6e0ae699e8abe921fbc5666e3fc3c7beb210e2e369f5914e3909.webp"
+  },
+  {
+    "filename": "340a8b87ba6b8351b6b75cda78e77c8b833c0d787feddc049d6222fb59a1e02d.webp",
+    "size": 13086,
+    "source_rel": "lada/models/granta/images/340a8b87ba6b8351b6b75cda78e77c8b833c0d787feddc049d6222fb59a1e02d.webp"
+  },
+  {
+    "filename": "3451f17e55f6bf0a6dfa05264a96d549d6cc10f150774e7a6c66cc84ff1269b8.webp",
+    "size": 22388,
+    "source_rel": "lada/models/granta/images/3451f17e55f6bf0a6dfa05264a96d549d6cc10f150774e7a6c66cc84ff1269b8.webp"
+  },
+  {
+    "filename": "34e038efbb1e0bed3e54037b6b70ae947b32b3d4e1abbf690a8d7002f2d6b41f.webp",
+    "size": 256192,
+    "source_rel": "lada/models/granta/images/34e038efbb1e0bed3e54037b6b70ae947b32b3d4e1abbf690a8d7002f2d6b41f.webp"
+  },
+  {
+    "filename": "351b3952698677867c303f7016bb30d9e13ca6422da28aa078a16f4355fbfe21.webp",
+    "size": 53594,
+    "source_rel": "lada/models/granta/images/351b3952698677867c303f7016bb30d9e13ca6422da28aa078a16f4355fbfe21.webp"
+  },
+  {
+    "filename": "352d952beb20d40b11161943c90928abd1dbc3b9653a9ebb82d8e17bec7311d3.webp",
+    "size": 95492,
+    "source_rel": "lada/models/granta/images/352d952beb20d40b11161943c90928abd1dbc3b9653a9ebb82d8e17bec7311d3.webp"
+  },
+  {
+    "filename": "355f4762e7b977aaabb3944ec3eb9d39e0b01f332998b883180f19a553ae8962.webp",
+    "size": 84552,
+    "source_rel": "lada/models/granta/images/355f4762e7b977aaabb3944ec3eb9d39e0b01f332998b883180f19a553ae8962.webp"
+  },
+  {
+    "filename": "35a2a047e235c7d6773c755adf7870eb4b73c9878c01282f76c275bea96de934.webp",
+    "size": 23720,
+    "source_rel": "lada/models/granta/images/35a2a047e235c7d6773c755adf7870eb4b73c9878c01282f76c275bea96de934.webp"
+  },
+  {
+    "filename": "35d4faec68bc413ee03c09ca4a4e4cb8d2e20a61a018957cc6480ac684d87a42.webp",
+    "size": 21090,
+    "source_rel": "lada/models/granta/images/35d4faec68bc413ee03c09ca4a4e4cb8d2e20a61a018957cc6480ac684d87a42.webp"
+  },
+  {
+    "filename": "35fc06f1f46f736417e587b6b2e0a7e8bb8f418e56beca90164eca193f4893e6.webp",
+    "size": 18418,
+    "source_rel": "lada/models/granta/images/35fc06f1f46f736417e587b6b2e0a7e8bb8f418e56beca90164eca193f4893e6.webp"
+  },
+  {
+    "filename": "364803faf72d9f2e7724087542812daff00d6ba40ec7205fc0d63eaea9d84cc9.webp",
+    "size": 11102,
+    "source_rel": "lada/models/granta/images/364803faf72d9f2e7724087542812daff00d6ba40ec7205fc0d63eaea9d84cc9.webp"
+  },
+  {
+    "filename": "36634f0225f9adfbb4533bd860c61ed4bfbcbe1474e9bfe012d743eaec2ffa87.webp",
+    "size": 33144,
+    "source_rel": "lada/models/granta/images/36634f0225f9adfbb4533bd860c61ed4bfbcbe1474e9bfe012d743eaec2ffa87.webp"
+  },
+  {
+    "filename": "367f2e3ead5509da38186f700361c3a8ca140125e3458cbeadb6b5e7c19c2d98.webp",
+    "size": 45990,
+    "source_rel": "lada/models/granta/images/367f2e3ead5509da38186f700361c3a8ca140125e3458cbeadb6b5e7c19c2d98.webp"
+  },
+  {
+    "filename": "36a44b48180fc31a83e8621c26e9cdb53d82f2ad400f29dd9d6cc29b0a5a4600.webp",
+    "size": 29488,
+    "source_rel": "lada/models/granta/images/36a44b48180fc31a83e8621c26e9cdb53d82f2ad400f29dd9d6cc29b0a5a4600.webp"
+  },
+  {
+    "filename": "36a4e573b23c9e1a83c36d2614c78abd8248d3e4b914168056912d7fd3f58f7f.webp",
+    "size": 29090,
+    "source_rel": "lada/models/granta/images/36a4e573b23c9e1a83c36d2614c78abd8248d3e4b914168056912d7fd3f58f7f.webp"
+  },
+  {
+    "filename": "36c9f40fe53d4d11493bfa60f4a4f223a7409c2f85d541765e1d6ae590d40bfa.webp",
+    "size": 24560,
+    "source_rel": "lada/models/granta/images/36c9f40fe53d4d11493bfa60f4a4f223a7409c2f85d541765e1d6ae590d40bfa.webp"
+  },
+  {
+    "filename": "3718500fa20c319554c19c83e64b9a218d9564bd4456eaf4ea14fe100c04b6d4.webp",
+    "size": 22434,
+    "source_rel": "lada/models/granta/images/3718500fa20c319554c19c83e64b9a218d9564bd4456eaf4ea14fe100c04b6d4.webp"
+  },
+  {
+    "filename": "373e68af415a578a0b2abf644d0e0f5652601159c66d21f8f61e3c35d9b257d9.webp",
+    "size": 7442,
+    "source_rel": "lada/models/granta/images/373e68af415a578a0b2abf644d0e0f5652601159c66d21f8f61e3c35d9b257d9.webp"
+  },
+  {
+    "filename": "374fff422d81314c2f59437bf60ac311b58b5b3c4489aa751beebfb74079527f.webp",
+    "size": 96318,
+    "source_rel": "lada/models/granta/images/374fff422d81314c2f59437bf60ac311b58b5b3c4489aa751beebfb74079527f.webp"
+  },
+  {
+    "filename": "37a47c54ffbdfabf7c0b80f8ad21f93bd297b829097b9981953aa97ec382d386.webp",
+    "size": 31012,
+    "source_rel": "lada/models/granta/images/37a47c54ffbdfabf7c0b80f8ad21f93bd297b829097b9981953aa97ec382d386.webp"
+  },
+  {
+    "filename": "37bef23c20153fcf022cada1b0a0ec931dfdbbbff219c1e38c65eb17b8b82ad2.webp",
+    "size": 20044,
+    "source_rel": "lada/models/granta/images/37bef23c20153fcf022cada1b0a0ec931dfdbbbff219c1e38c65eb17b8b82ad2.webp"
+  },
+  {
+    "filename": "3847a52b4cb8b0adcd25bc8720b82ae47fd0c2e9aa7d33cb63e525b0f977a378.webp",
+    "size": 18660,
+    "source_rel": "lada/models/granta/images/3847a52b4cb8b0adcd25bc8720b82ae47fd0c2e9aa7d33cb63e525b0f977a378.webp"
+  },
+  {
+    "filename": "385e99e0648948eb03b029dbf84acde655f56bc730b222216f14cef25545d341.webp",
+    "size": 35290,
+    "source_rel": "lada/models/granta/images/385e99e0648948eb03b029dbf84acde655f56bc730b222216f14cef25545d341.webp"
+  },
+  {
+    "filename": "388fdfb1100cf2e3c5fb93e58f065badb0a3fcea039f99f5cb4668f1417726ac.webp",
+    "size": 17734,
+    "source_rel": "lada/models/granta/images/388fdfb1100cf2e3c5fb93e58f065badb0a3fcea039f99f5cb4668f1417726ac.webp"
+  },
+  {
+    "filename": "389bd761df1ad47b9c25f4494ce93ed3bf449e0f49f2bf34d8e930b63e21f205.webp",
+    "size": 32698,
+    "source_rel": "lada/models/granta/images/389bd761df1ad47b9c25f4494ce93ed3bf449e0f49f2bf34d8e930b63e21f205.webp"
+  },
+  {
+    "filename": "389dc8df5374c9ff87da600e543c398404c8bfe0003637a97a5fad2b0aa0ca56.webp",
+    "size": 14446,
+    "source_rel": "lada/models/granta/images/389dc8df5374c9ff87da600e543c398404c8bfe0003637a97a5fad2b0aa0ca56.webp"
+  },
+  {
+    "filename": "38bc110b26cd5b939fe6ad2e8f48271a68ab5cc30f0ff9b266fa709b71c1f6e8.webp",
+    "size": 24386,
+    "source_rel": "lada/models/granta/images/38bc110b26cd5b939fe6ad2e8f48271a68ab5cc30f0ff9b266fa709b71c1f6e8.webp"
+  },
+  {
+    "filename": "38e4d92fac9b47307b5e88675cf29bb8a29b9d4da201d1bbca98fc1925c11790.webp",
+    "size": 11512,
+    "source_rel": "lada/models/granta/images/38e4d92fac9b47307b5e88675cf29bb8a29b9d4da201d1bbca98fc1925c11790.webp"
+  },
+  {
+    "filename": "3909f7537e8a771f4fda76b1d79b1cbd4faedafb1a63e462cb7dfe94eab972c9.webp",
+    "size": 26444,
+    "source_rel": "lada/models/granta/images/3909f7537e8a771f4fda76b1d79b1cbd4faedafb1a63e462cb7dfe94eab972c9.webp"
+  },
+  {
+    "filename": "394a4d666c8bfd3a72fe91d7be7e737c8c9d942abb4d6b3d56297126f0a4052d.webp",
+    "size": 33766,
+    "source_rel": "lada/models/granta/images/394a4d666c8bfd3a72fe91d7be7e737c8c9d942abb4d6b3d56297126f0a4052d.webp"
+  },
+  {
+    "filename": "397eff7b6c655539c62e09b28eccf0f46b34d303bb316b48b6aa3689882c6838.webp",
+    "size": 23582,
+    "source_rel": "lada/models/granta/images/397eff7b6c655539c62e09b28eccf0f46b34d303bb316b48b6aa3689882c6838.webp"
+  },
+  {
+    "filename": "3992dcbfd1491557fda6221e6217b42584fff2a2b2139a03fdc67d12885d613c.webp",
+    "size": 154992,
+    "source_rel": "lada/models/granta/images/3992dcbfd1491557fda6221e6217b42584fff2a2b2139a03fdc67d12885d613c.webp"
+  },
+  {
+    "filename": "39f693183b006c4eead5c026a61cfe83b06141ede0e077d9eefd411ae6a78cb5.webp",
+    "size": 7986,
+    "source_rel": "lada/models/granta/images/39f693183b006c4eead5c026a61cfe83b06141ede0e077d9eefd411ae6a78cb5.webp"
+  },
+  {
+    "filename": "3a081b9ce57993bd80de6b8c9046d7ab29f220e13c716c1b103c866b7dd85a02.webp",
+    "size": 22352,
+    "source_rel": "lada/models/granta/images/3a081b9ce57993bd80de6b8c9046d7ab29f220e13c716c1b103c866b7dd85a02.webp"
+  },
+  {
+    "filename": "3a11b3c781f9c2b10bc62d1950c9c74bdb27f50277b83a02e6d9f8ad0364f39e.webp",
+    "size": 12568,
+    "source_rel": "lada/models/granta/images/3a11b3c781f9c2b10bc62d1950c9c74bdb27f50277b83a02e6d9f8ad0364f39e.webp"
+  },
+  {
+    "filename": "3a1d2406035f563f46180d9f724c3d85e1080be94907d327b02c664cd7308ae4.webp",
+    "size": 104348,
+    "source_rel": "lada/models/granta/images/3a1d2406035f563f46180d9f724c3d85e1080be94907d327b02c664cd7308ae4.webp"
+  },
+  {
+    "filename": "3a31e9c4628f9f0c5034bd93812bd4fd95333758d9413d0a67f70c21c475a93f.webp",
+    "size": 33376,
+    "source_rel": "lada/models/granta/images/3a31e9c4628f9f0c5034bd93812bd4fd95333758d9413d0a67f70c21c475a93f.webp"
+  },
+  {
+    "filename": "3a73386a4e42eb94476aa0570037ae341c5f93db874cfd78ade3b4b70c476e7f.webp",
+    "size": 25136,
+    "source_rel": "lada/models/granta/images/3a73386a4e42eb94476aa0570037ae341c5f93db874cfd78ade3b4b70c476e7f.webp"
+  },
+  {
+    "filename": "3a759de373d6c772292450e4566b2cc6da13b0f98b64d0874a44b62f5fdb54f8.webp",
+    "size": 113406,
+    "source_rel": "lada/models/granta/images/3a759de373d6c772292450e4566b2cc6da13b0f98b64d0874a44b62f5fdb54f8.webp"
+  },
+  {
+    "filename": "3a87a962143c0ef53f3729b5fc7438febed3431dfc5eea42ca086155875dbcbe.webp",
+    "size": 35856,
+    "source_rel": "lada/models/granta/images/3a87a962143c0ef53f3729b5fc7438febed3431dfc5eea42ca086155875dbcbe.webp"
+  },
+  {
+    "filename": "3af3bcf1228ea560e1f18ada5bdae05af195547c4aa9c22ebd0ceee777ec191d.webp",
+    "size": 15770,
+    "source_rel": "lada/models/granta/images/3af3bcf1228ea560e1f18ada5bdae05af195547c4aa9c22ebd0ceee777ec191d.webp"
+  },
+  {
+    "filename": "3b31373e80322101b89aee12f6f14db566877f3fdbcdddc2e0e45d62afe168a4.webp",
+    "size": 31136,
+    "source_rel": "lada/models/granta/images/3b31373e80322101b89aee12f6f14db566877f3fdbcdddc2e0e45d62afe168a4.webp"
+  },
+  {
+    "filename": "3b5fd71b6d5ad5669a1105d10b8563cc3028c4d59834fd748234b8322ad534a3.webp",
+    "size": 26076,
+    "source_rel": "lada/models/granta/images/3b5fd71b6d5ad5669a1105d10b8563cc3028c4d59834fd748234b8322ad534a3.webp"
+  },
+  {
+    "filename": "3b776ca9c7b6b6273c19ba14273b3502a80a14a255b1f5c6e9582a5eeaaf878f.webp",
+    "size": 23162,
+    "source_rel": "lada/models/granta/images/3b776ca9c7b6b6273c19ba14273b3502a80a14a255b1f5c6e9582a5eeaaf878f.webp"
+  },
+  {
+    "filename": "3ba60920e7cd212e10557bee925e9ab6d7cd35387b9a085687fa28c28ccc40de.webp",
+    "size": 14858,
+    "source_rel": "lada/models/granta/images/3ba60920e7cd212e10557bee925e9ab6d7cd35387b9a085687fa28c28ccc40de.webp"
+  },
+  {
+    "filename": "3bb5bea8a2840af2b413f7039e673001620fd507acd6bcb557cbbbec2e39e813.webp",
+    "size": 24846,
+    "source_rel": "lada/models/granta/images/3bb5bea8a2840af2b413f7039e673001620fd507acd6bcb557cbbbec2e39e813.webp"
+  },
+  {
+    "filename": "3bbe92bb8fad66b69fcd2a01d2498932bb286ffae2493939cc5c03a14b11462e.webp",
+    "size": 15442,
+    "source_rel": "lada/models/granta/images/3bbe92bb8fad66b69fcd2a01d2498932bb286ffae2493939cc5c03a14b11462e.webp"
+  },
+  {
+    "filename": "3c6c3cd6acde62a6c1b84a5886aa2d69f64699bf5d0d3b937f34cf6feee5b0c1.webp",
+    "size": 19004,
+    "source_rel": "lada/models/granta/images/3c6c3cd6acde62a6c1b84a5886aa2d69f64699bf5d0d3b937f34cf6feee5b0c1.webp"
+  },
+  {
+    "filename": "3ce784065d432bf10d524804371246a008ef7309324fb6960b59d1ef959a14bc.webp",
+    "size": 29494,
+    "source_rel": "lada/models/granta/images/3ce784065d432bf10d524804371246a008ef7309324fb6960b59d1ef959a14bc.webp"
+  },
+  {
+    "filename": "3d48dd484d384d8218cdec47e8f8b1c8ae1923b5f6b2ec41a423a037f8f51f27.webp",
+    "size": 15308,
+    "source_rel": "lada/models/granta/images/3d48dd484d384d8218cdec47e8f8b1c8ae1923b5f6b2ec41a423a037f8f51f27.webp"
+  },
+  {
+    "filename": "3de420dacad6012ce60ae8d39ad94179764addab2d581f3d9c2aa99e9981ea7c.webp",
+    "size": 15304,
+    "source_rel": "lada/models/granta/images/3de420dacad6012ce60ae8d39ad94179764addab2d581f3d9c2aa99e9981ea7c.webp"
+  },
+  {
+    "filename": "3df5fbe772f78ded6792c5684462021ee8468dfa4a1ae2048877b581b28856ea.webp",
+    "size": 30132,
+    "source_rel": "lada/models/granta/images/3df5fbe772f78ded6792c5684462021ee8468dfa4a1ae2048877b581b28856ea.webp"
+  },
+  {
+    "filename": "3e0087406be84edfa8c17467f4120914498a9bae400d120bff9b37e6e71b51d2.webp",
+    "size": 28674,
+    "source_rel": "lada/models/granta/images/3e0087406be84edfa8c17467f4120914498a9bae400d120bff9b37e6e71b51d2.webp"
+  },
+  {
+    "filename": "3e7e9c71acec4fd7eb988d13042f2a58be5b66b90071452a846b7184e0187ffd.webp",
+    "size": 12764,
+    "source_rel": "lada/models/granta/images/3e7e9c71acec4fd7eb988d13042f2a58be5b66b90071452a846b7184e0187ffd.webp"
+  },
+  {
+    "filename": "3e8593d71a3105a9fe2d088fdf269b32223a7c952a5e9c64c97fc173802186cc.webp",
+    "size": 17774,
+    "source_rel": "lada/models/granta/images/3e8593d71a3105a9fe2d088fdf269b32223a7c952a5e9c64c97fc173802186cc.webp"
+  },
+  {
+    "filename": "3ecf92f1eb379205d0d5a56cea43984cc26c4b59d71052e30c9681bd6c21ef9b.webp",
+    "size": 16162,
+    "source_rel": "lada/models/granta/images/3ecf92f1eb379205d0d5a56cea43984cc26c4b59d71052e30c9681bd6c21ef9b.webp"
+  },
+  {
+    "filename": "3f0cfc49ab29ea1975222f9af62a54c260a24f4057201d982c1b1085ccda9d74.webp",
+    "size": 13424,
+    "source_rel": "lada/models/granta/images/3f0cfc49ab29ea1975222f9af62a54c260a24f4057201d982c1b1085ccda9d74.webp"
+  },
+  {
+    "filename": "3f26540f90c882aa83b1ae2f2c43120828e982fec0c4b562adbce0af0ca5709a.webp",
+    "size": 24716,
+    "source_rel": "lada/models/granta/images/3f26540f90c882aa83b1ae2f2c43120828e982fec0c4b562adbce0af0ca5709a.webp"
+  },
+  {
+    "filename": "3f42e72d796d84f5ae6b9ed8ecb00130ea43877f82324846f440f0ad2998d17f.webp",
+    "size": 14330,
+    "source_rel": "lada/models/granta/images/3f42e72d796d84f5ae6b9ed8ecb00130ea43877f82324846f440f0ad2998d17f.webp"
+  },
+  {
+    "filename": "3f92e1a5d74eee7dc46ce83df9a1839f281d650277988281cdefd2522dee7989.webp",
+    "size": 29826,
+    "source_rel": "lada/models/granta/images/3f92e1a5d74eee7dc46ce83df9a1839f281d650277988281cdefd2522dee7989.webp"
+  },
+  {
+    "filename": "3fbe2f36e4bd30a8afe480de98a71eb2afcb0cc2df4db6e4bb8718d6f047377e.webp",
+    "size": 10152,
+    "source_rel": "lada/models/granta/images/3fbe2f36e4bd30a8afe480de98a71eb2afcb0cc2df4db6e4bb8718d6f047377e.webp"
+  },
+  {
+    "filename": "405d87cd642ef28a3a18ef0713e829b26acf44e920d3f9a1af2627e7573e2e42.webp",
+    "size": 18968,
+    "source_rel": "lada/models/granta/images/405d87cd642ef28a3a18ef0713e829b26acf44e920d3f9a1af2627e7573e2e42.webp"
+  },
+  {
+    "filename": "4064025af6b6dd638b2df3613c66a6cd2dc757abcf8ae48474833e22f0e6d4f5.webp",
+    "size": 21172,
+    "source_rel": "lada/models/granta/images/4064025af6b6dd638b2df3613c66a6cd2dc757abcf8ae48474833e22f0e6d4f5.webp"
+  },
+  {
+    "filename": "40aad216504a7388cbbef4a6bc46824547ea0f8d175f4eeee1cef5bcded20878.webp",
+    "size": 42768,
+    "source_rel": "lada/models/granta/images/40aad216504a7388cbbef4a6bc46824547ea0f8d175f4eeee1cef5bcded20878.webp"
+  },
+  {
+    "filename": "41019455f6b55a853ab78f9e64ca504f8e189ca50ec67d651db78a2006f1162f.webp",
+    "size": 29194,
+    "source_rel": "lada/models/granta/images/41019455f6b55a853ab78f9e64ca504f8e189ca50ec67d651db78a2006f1162f.webp"
+  },
+  {
+    "filename": "41801b7c42e109d1d855e11a14beeabc90d3131e7e40cde445eae0870a580109.webp",
+    "size": 17180,
+    "source_rel": "lada/models/granta/images/41801b7c42e109d1d855e11a14beeabc90d3131e7e40cde445eae0870a580109.webp"
+  },
+  {
+    "filename": "418f90fc4f5994ad08b856b415042bc52185a2167036dcc2d77e4e159c000c36.webp",
+    "size": 31686,
+    "source_rel": "lada/models/granta/images/418f90fc4f5994ad08b856b415042bc52185a2167036dcc2d77e4e159c000c36.webp"
+  },
+  {
+    "filename": "41911a07b34e0e49c397b3087afba0f941e970ef5d6ac66887f6235845aba116.webp",
+    "size": 23656,
+    "source_rel": "lada/models/granta/images/41911a07b34e0e49c397b3087afba0f941e970ef5d6ac66887f6235845aba116.webp"
+  },
+  {
+    "filename": "4199fdae839e24443b5fbb74b0055dc4e375f50f4af248ae08fe41f2d1122125.webp",
+    "size": 8776,
+    "source_rel": "lada/models/granta/images/4199fdae839e24443b5fbb74b0055dc4e375f50f4af248ae08fe41f2d1122125.webp"
+  },
+  {
+    "filename": "41ce8277f818646fa7bc15508b5d82b5f97028b130dea3b6ddb09dee2752a6dd.webp",
+    "size": 11046,
+    "source_rel": "lada/models/granta/images/41ce8277f818646fa7bc15508b5d82b5f97028b130dea3b6ddb09dee2752a6dd.webp"
+  },
+  {
+    "filename": "4232e7bc4b4945e5b2daf75fbcaaaaf66a0dd75bb350af36ba0ba01cbb835e30.webp",
+    "size": 20882,
+    "source_rel": "lada/models/granta/images/4232e7bc4b4945e5b2daf75fbcaaaaf66a0dd75bb350af36ba0ba01cbb835e30.webp"
+  },
+  {
+    "filename": "42a2c3b32dd3bf7c1b754e8cf6d41e2c8c43f41c215a0b1d655a3bced8155b9a.webp",
+    "size": 36602,
+    "source_rel": "lada/models/granta/images/42a2c3b32dd3bf7c1b754e8cf6d41e2c8c43f41c215a0b1d655a3bced8155b9a.webp"
+  },
+  {
+    "filename": "42b5c057209b6d47dff7b1400d909963ab6df004c1c0b20dc177fd980f9e789c.webp",
+    "size": 6378,
+    "source_rel": "lada/models/granta/images/42b5c057209b6d47dff7b1400d909963ab6df004c1c0b20dc177fd980f9e789c.webp"
+  },
+  {
+    "filename": "42c57747591ecbace33e52625e3bb4fe16423aadd2dfc67c05f8a4db875140bd.webp",
+    "size": 17334,
+    "source_rel": "lada/models/granta/images/42c57747591ecbace33e52625e3bb4fe16423aadd2dfc67c05f8a4db875140bd.webp"
+  },
+  {
+    "filename": "42f387ae4ae6f01d5cbf6fa20e4334ffed847c2f8df956a5627cb540341757b4.webp",
+    "size": 18272,
+    "source_rel": "lada/models/granta/images/42f387ae4ae6f01d5cbf6fa20e4334ffed847c2f8df956a5627cb540341757b4.webp"
+  },
+  {
+    "filename": "42fb0a46cd1d4126a03e8768fc377ded66ec402e2de5a70193d39575410b0bc2.webp",
+    "size": 9482,
+    "source_rel": "lada/models/granta/images/42fb0a46cd1d4126a03e8768fc377ded66ec402e2de5a70193d39575410b0bc2.webp"
+  },
+  {
+    "filename": "433ca61644fd79485bfdbb932b7c6e682492a20aeda14fb667bb133d23c1508f.webp",
+    "size": 18042,
+    "source_rel": "lada/models/granta/images/433ca61644fd79485bfdbb932b7c6e682492a20aeda14fb667bb133d23c1508f.webp"
+  },
+  {
+    "filename": "43764ad91001772ebfb81ba46b9398595cad6835e9331d034c501c6ab35dc351.webp",
+    "size": 29616,
+    "source_rel": "lada/models/granta/images/43764ad91001772ebfb81ba46b9398595cad6835e9331d034c501c6ab35dc351.webp"
+  },
+  {
+    "filename": "437a6c4fcc813bbbb21edbcf7a17f7b3137746b00c89a8ed97e8d2841b5973ea.webp",
+    "size": 10954,
+    "source_rel": "lada/models/granta/images/437a6c4fcc813bbbb21edbcf7a17f7b3137746b00c89a8ed97e8d2841b5973ea.webp"
+  },
+  {
+    "filename": "43abdfc8471e96c53c41b050bd02e7ed15f274859284d59111a597d9b77296a9.webp",
+    "size": 21698,
+    "source_rel": "lada/models/granta/images/43abdfc8471e96c53c41b050bd02e7ed15f274859284d59111a597d9b77296a9.webp"
+  },
+  {
+    "filename": "43ff760bdb36f9a8027ec92d6a55e897008c3019af36093b2ae96b65487ed8c1.webp",
+    "size": 21436,
+    "source_rel": "lada/models/granta/images/43ff760bdb36f9a8027ec92d6a55e897008c3019af36093b2ae96b65487ed8c1.webp"
+  },
+  {
+    "filename": "442594f06a7ae53676b4a87221aadf26a40ae927ff5747a9b8a37fffc2bd5478.webp",
+    "size": 23106,
+    "source_rel": "lada/models/granta/images/442594f06a7ae53676b4a87221aadf26a40ae927ff5747a9b8a37fffc2bd5478.webp"
+  },
+  {
+    "filename": "4439cf3b1ee27d4753f24d2397ac486cf5aa5403c2893d3c1ce7d35a674e9dde.webp",
+    "size": 30260,
+    "source_rel": "lada/models/granta/images/4439cf3b1ee27d4753f24d2397ac486cf5aa5403c2893d3c1ce7d35a674e9dde.webp"
+  },
+  {
+    "filename": "4445eb9f3eaf43e050fa8715e088f72995be1e3d588fbc7f1d61b7845bf85d1c.webp",
+    "size": 28236,
+    "source_rel": "lada/models/granta/images/4445eb9f3eaf43e050fa8715e088f72995be1e3d588fbc7f1d61b7845bf85d1c.webp"
+  },
+  {
+    "filename": "4482b32e54d3af3d387fee0e284b11de5607397a846c42dcf58abe73b1cf2248.webp",
+    "size": 11196,
+    "source_rel": "lada/models/granta/images/4482b32e54d3af3d387fee0e284b11de5607397a846c42dcf58abe73b1cf2248.webp"
+  },
+  {
+    "filename": "44a1dc3748627fc4f88f0dd0190e789a57e4d3176ba9af669b133084fd2682fd.webp",
+    "size": 28570,
+    "source_rel": "lada/models/granta/images/44a1dc3748627fc4f88f0dd0190e789a57e4d3176ba9af669b133084fd2682fd.webp"
+  },
+  {
+    "filename": "44b28f3be8502c81ba478f7ed525aeca6ae23db347e50f961c35c12117fb4c26.webp",
+    "size": 13268,
+    "source_rel": "lada/models/granta/images/44b28f3be8502c81ba478f7ed525aeca6ae23db347e50f961c35c12117fb4c26.webp"
+  },
+  {
+    "filename": "44b2c603fc3bd93e75ff03e8a1258da9a401532b22a24941c053bd619a659837.webp",
+    "size": 28830,
+    "source_rel": "lada/models/granta/images/44b2c603fc3bd93e75ff03e8a1258da9a401532b22a24941c053bd619a659837.webp"
+  },
+  {
+    "filename": "44cc2f7201ece399b0ab9dc5d18708338b1341e069cfec6043610d327d7e9043.webp",
+    "size": 20140,
+    "source_rel": "lada/models/granta/images/44cc2f7201ece399b0ab9dc5d18708338b1341e069cfec6043610d327d7e9043.webp"
+  },
+  {
+    "filename": "45083b200a8406ef0949227c603875abef3809fbc3ce51aa8464a5494332fa7e.webp",
+    "size": 13184,
+    "source_rel": "lada/models/granta/images/45083b200a8406ef0949227c603875abef3809fbc3ce51aa8464a5494332fa7e.webp"
+  },
+  {
+    "filename": "453b2c7143d07bdfd2f2d320639d88c4aca9366d37cfa163e3300c2872248867.webp",
+    "size": 19592,
+    "source_rel": "lada/models/granta/images/453b2c7143d07bdfd2f2d320639d88c4aca9366d37cfa163e3300c2872248867.webp"
+  },
+  {
+    "filename": "45738b58b88555237964d5c7be6635ee14016ffabfb45a289f721b01e4bd9920.webp",
+    "size": 18130,
+    "source_rel": "lada/models/granta/images/45738b58b88555237964d5c7be6635ee14016ffabfb45a289f721b01e4bd9920.webp"
+  },
+  {
+    "filename": "45a1e14be02acf5ba4a622dc6222242b97c50d509e2f9fc2183c9e5cecfb578e.webp",
+    "size": 24580,
+    "source_rel": "lada/models/granta/images/45a1e14be02acf5ba4a622dc6222242b97c50d509e2f9fc2183c9e5cecfb578e.webp"
+  },
+  {
+    "filename": "45a92b3a6e9e95952770d8ead052eb888dac7677325898b43082e78dc3457a99.webp",
+    "size": 23834,
+    "source_rel": "lada/models/granta/images/45a92b3a6e9e95952770d8ead052eb888dac7677325898b43082e78dc3457a99.webp"
+  },
+  {
+    "filename": "45c8764095d662a22d113c9e0bd3f451174fa3e271bc8c7f143705babe633738.webp",
+    "size": 20698,
+    "source_rel": "lada/models/granta/images/45c8764095d662a22d113c9e0bd3f451174fa3e271bc8c7f143705babe633738.webp"
+  },
+  {
+    "filename": "45edf29c3c961e14cb445f0b93e58b6b815660187cf7aaef9ad98b9ae8a1406a.webp",
+    "size": 15166,
+    "source_rel": "lada/models/granta/images/45edf29c3c961e14cb445f0b93e58b6b815660187cf7aaef9ad98b9ae8a1406a.webp"
+  },
+  {
+    "filename": "45fee2f6cb0865c2e6a792d9019e739c99d137407b697b0ed015532d9067491b.webp",
+    "size": 24340,
+    "source_rel": "lada/models/granta/images/45fee2f6cb0865c2e6a792d9019e739c99d137407b697b0ed015532d9067491b.webp"
+  },
+  {
+    "filename": "4643248cda9f5dac6a02e396bcfe5a8b2983b8f2cb256301efbc4a542e9cc4ab.webp",
+    "size": 18462,
+    "source_rel": "lada/models/granta/images/4643248cda9f5dac6a02e396bcfe5a8b2983b8f2cb256301efbc4a542e9cc4ab.webp"
+  },
+  {
+    "filename": "46d4e645157fbebd4f08cc2043cc4d7c05f77235274368466b5c7d719de98f02.webp",
+    "size": 29936,
+    "source_rel": "lada/models/granta/images/46d4e645157fbebd4f08cc2043cc4d7c05f77235274368466b5c7d719de98f02.webp"
+  },
+  {
+    "filename": "4711fa7704722eeb62ebada648151f39538d90afbc45b3fcd67aea2d0cb6ac12.webp",
+    "size": 12302,
+    "source_rel": "lada/models/granta/images/4711fa7704722eeb62ebada648151f39538d90afbc45b3fcd67aea2d0cb6ac12.webp"
+  },
+  {
+    "filename": "475382ca6197aff2ae08830d3857165ee19f9c6c3cc24ff096dfa9c5cde155b1.webp",
+    "size": 29882,
+    "source_rel": "lada/models/granta/images/475382ca6197aff2ae08830d3857165ee19f9c6c3cc24ff096dfa9c5cde155b1.webp"
+  },
+  {
+    "filename": "47a18cec57dc0600e4ee93194fcc64262aaaa296e0dcbe0510759a742d54a8e8.webp",
+    "size": 4906,
+    "source_rel": "lada/models/granta/images/47a18cec57dc0600e4ee93194fcc64262aaaa296e0dcbe0510759a742d54a8e8.webp"
+  },
+  {
+    "filename": "47bf71000ecb374438b7069fbffe1c76c67a2f86b860d5d1bb2fb086c675e8bb.webp",
+    "size": 12526,
+    "source_rel": "lada/models/granta/images/47bf71000ecb374438b7069fbffe1c76c67a2f86b860d5d1bb2fb086c675e8bb.webp"
+  },
+  {
+    "filename": "481c5800b8a49ede15fb450bca825b56cdfa581f3ba588e612eb4f2cd83d6863.webp",
+    "size": 31656,
+    "source_rel": "lada/models/granta/images/481c5800b8a49ede15fb450bca825b56cdfa581f3ba588e612eb4f2cd83d6863.webp"
+  },
+  {
+    "filename": "48fd5263156b8e8e15ae77e058489298d93694ba19661c4c7ce2171f3bf88137.webp",
+    "size": 15532,
+    "source_rel": "lada/models/granta/images/48fd5263156b8e8e15ae77e058489298d93694ba19661c4c7ce2171f3bf88137.webp"
+  },
+  {
+    "filename": "49155e3c2f07f7e4b0aed90081a75704c0af1f8c2fac7f790475bea0f2bcef90.webp",
+    "size": 15982,
+    "source_rel": "lada/models/granta/images/49155e3c2f07f7e4b0aed90081a75704c0af1f8c2fac7f790475bea0f2bcef90.webp"
+  },
+  {
+    "filename": "492693b7ac71d4ae99a7a1abe6878a102da8703dfc4bbe2c25948f19792f2250.webp",
+    "size": 11188,
+    "source_rel": "lada/models/granta/images/492693b7ac71d4ae99a7a1abe6878a102da8703dfc4bbe2c25948f19792f2250.webp"
+  },
+  {
+    "filename": "4991f64a679c781194404b3e07ab716718fbf74f3a5c5647c8ebbd8db1489f6c.webp",
+    "size": 20646,
+    "source_rel": "lada/models/granta/images/4991f64a679c781194404b3e07ab716718fbf74f3a5c5647c8ebbd8db1489f6c.webp"
+  },
+  {
+    "filename": "49a3094136f20cfe5ca754b966c9c44bf01c2f784d13e1eb3f147356707d83bb.webp",
+    "size": 19372,
+    "source_rel": "lada/models/granta/images/49a3094136f20cfe5ca754b966c9c44bf01c2f784d13e1eb3f147356707d83bb.webp"
+  },
+  {
+    "filename": "49a80d65a1b5ee10077075abed31091ab2cfd18565c32c2c10de16d6870905f0.webp",
+    "size": 24096,
+    "source_rel": "lada/models/granta/images/49a80d65a1b5ee10077075abed31091ab2cfd18565c32c2c10de16d6870905f0.webp"
+  },
+  {
+    "filename": "49e33e373b52a2a930f4b5ceb4447873b917670b4f52f66051e6ed6639598163.webp",
+    "size": 18514,
+    "source_rel": "lada/models/granta/images/49e33e373b52a2a930f4b5ceb4447873b917670b4f52f66051e6ed6639598163.webp"
+  },
+  {
+    "filename": "49f3aa6c954e14dd6fcef7752dce9a1064403016c7e797cab8af365441bbcf1b.webp",
+    "size": 9254,
+    "source_rel": "lada/models/granta/images/49f3aa6c954e14dd6fcef7752dce9a1064403016c7e797cab8af365441bbcf1b.webp"
+  },
+  {
+    "filename": "49f3f45e8ac12431c115976b0630c3a78cf8041999f4e4357a4b52df2a9a5cc2.webp",
+    "size": 19510,
+    "source_rel": "lada/models/granta/images/49f3f45e8ac12431c115976b0630c3a78cf8041999f4e4357a4b52df2a9a5cc2.webp"
+  },
+  {
+    "filename": "4a0f52205529f105cf313b38197b667671595625a0880953f9743796245f3788.webp",
+    "size": 12328,
+    "source_rel": "lada/models/granta/images/4a0f52205529f105cf313b38197b667671595625a0880953f9743796245f3788.webp"
+  },
+  {
+    "filename": "4a5b94adaa83f86776b2b40aeeb25d8c3e15ab3f4197b6bda06b9280ff435ab9.webp",
+    "size": 17584,
+    "source_rel": "lada/models/granta/images/4a5b94adaa83f86776b2b40aeeb25d8c3e15ab3f4197b6bda06b9280ff435ab9.webp"
+  },
+  {
+    "filename": "4a62985e7f41986c24b20940309b299fa054d967878dc3d873533ce61a4c0901.webp",
+    "size": 17028,
+    "source_rel": "lada/models/granta/images/4a62985e7f41986c24b20940309b299fa054d967878dc3d873533ce61a4c0901.webp"
+  },
+  {
+    "filename": "4ab37a7aeeb5eff4455f9453cbab386dee9d990106f6801d5e7b23dd6c84f5a5.webp",
+    "size": 19228,
+    "source_rel": "lada/models/granta/images/4ab37a7aeeb5eff4455f9453cbab386dee9d990106f6801d5e7b23dd6c84f5a5.webp"
+  },
+  {
+    "filename": "4b28307925a93e9a48c066095a7c31d8900f30d64d8d3ab05df4e5ad2f0838a5.webp",
+    "size": 18386,
+    "source_rel": "lada/models/granta/images/4b28307925a93e9a48c066095a7c31d8900f30d64d8d3ab05df4e5ad2f0838a5.webp"
+  },
+  {
+    "filename": "4b8ad6a9c0ba7864496aa43a3304fd32d7e6ab600fe62d58079c2dae6749780a.webp",
+    "size": 23482,
+    "source_rel": "lada/models/granta/images/4b8ad6a9c0ba7864496aa43a3304fd32d7e6ab600fe62d58079c2dae6749780a.webp"
+  },
+  {
+    "filename": "4bce9af2ca6b3436af14d600e885e530d95c27f6fb21b296319b3bce9a083105.webp",
+    "size": 25428,
+    "source_rel": "lada/models/granta/images/4bce9af2ca6b3436af14d600e885e530d95c27f6fb21b296319b3bce9a083105.webp"
+  },
+  {
+    "filename": "4bdc7d7e74beae89f887a2cf91bf2030ca7e2d88059d02a7cd56732c6c3a000a.webp",
+    "size": 31920,
+    "source_rel": "lada/models/granta/images/4bdc7d7e74beae89f887a2cf91bf2030ca7e2d88059d02a7cd56732c6c3a000a.webp"
+  },
+  {
+    "filename": "4c46bb6063a66ee0abdc0185aa36660702153aea1d135da2846a67969ef5bd78.webp",
+    "size": 4324,
+    "source_rel": "lada/models/granta/images/4c46bb6063a66ee0abdc0185aa36660702153aea1d135da2846a67969ef5bd78.webp"
+  },
+  {
+    "filename": "4c74d8142ed43b258974662a541cfcf27bb1195720b90c02ed130e4608665b06.webp",
+    "size": 3858,
+    "source_rel": "lada/models/granta/images/4c74d8142ed43b258974662a541cfcf27bb1195720b90c02ed130e4608665b06.webp"
+  },
+  {
+    "filename": "4c8c65918a46a01f01ea51ed755831b2b3f713a2bb918b95bef8df74468251fa.webp",
+    "size": 1244,
+    "source_rel": "lada/models/granta/images/4c8c65918a46a01f01ea51ed755831b2b3f713a2bb918b95bef8df74468251fa.webp"
+  },
+  {
+    "filename": "4cac18e16f6bac1c9c1909a8f1350c85d9b82f1f2a5d496ee94e5afce419beea.webp",
+    "size": 19102,
+    "source_rel": "lada/models/granta/images/4cac18e16f6bac1c9c1909a8f1350c85d9b82f1f2a5d496ee94e5afce419beea.webp"
+  },
+  {
+    "filename": "4d435a1ff1967f4f20c3b1f0bd26f5902119b473e051738d23e23dedf574d88d.webp",
+    "size": 52258,
+    "source_rel": "lada/models/granta/images/4d435a1ff1967f4f20c3b1f0bd26f5902119b473e051738d23e23dedf574d88d.webp"
+  },
+  {
+    "filename": "4d6c05065d20416f4e3256330239381ea11224c0bb1229e05be3720d8e7962f9.webp",
+    "size": 16234,
+    "source_rel": "lada/models/granta/images/4d6c05065d20416f4e3256330239381ea11224c0bb1229e05be3720d8e7962f9.webp"
+  },
+  {
+    "filename": "4d6d653a02527c25eb39619fcac7f69ddc7bee4018eda6f0ee4294c93b0ece8d.webp",
+    "size": 18544,
+    "source_rel": "lada/models/granta/images/4d6d653a02527c25eb39619fcac7f69ddc7bee4018eda6f0ee4294c93b0ece8d.webp"
+  },
+  {
+    "filename": "4e070502729d4a33ec6f075ae04ae2d7ac26999af66c7e27d61c723f40065a8a.webp",
+    "size": 5374,
+    "source_rel": "lada/models/granta/images/4e070502729d4a33ec6f075ae04ae2d7ac26999af66c7e27d61c723f40065a8a.webp"
+  },
+  {
+    "filename": "4e113163402fdf137ffc8495b44492a37a04934c8210095fd37d377e9dbbf748.webp",
+    "size": 56348,
+    "source_rel": "lada/models/granta/images/4e113163402fdf137ffc8495b44492a37a04934c8210095fd37d377e9dbbf748.webp"
+  },
+  {
+    "filename": "4e55923d239389e1bd0a9d8af6387f2ee6315953461a3d8226297e626164b86d.webp",
+    "size": 16526,
+    "source_rel": "lada/models/granta/images/4e55923d239389e1bd0a9d8af6387f2ee6315953461a3d8226297e626164b86d.webp"
+  },
+  {
+    "filename": "4e5635c05c61a4c84a2eb2d46274cb962e845d2b36cb17f5d9eed3432e6ac111.webp",
+    "size": 9612,
+    "source_rel": "lada/models/granta/images/4e5635c05c61a4c84a2eb2d46274cb962e845d2b36cb17f5d9eed3432e6ac111.webp"
+  },
+  {
+    "filename": "4ebe6f5a172aee78c07191706400a5c5ebcd4c4c3a7f585ddff084ede7c76732.webp",
+    "size": 29164,
+    "source_rel": "lada/models/granta/images/4ebe6f5a172aee78c07191706400a5c5ebcd4c4c3a7f585ddff084ede7c76732.webp"
+  },
+  {
+    "filename": "4ec29ebc12db57156d915b4fd4c23ec19f86f022192638b7eac6a8256fb9078a.webp",
+    "size": 31834,
+    "source_rel": "lada/models/granta/images/4ec29ebc12db57156d915b4fd4c23ec19f86f022192638b7eac6a8256fb9078a.webp"
+  },
+  {
+    "filename": "4ec736e0fb62c089a2526cc7a6eb94e4e1825e78b2e5da16acb104036cabde97.webp",
+    "size": 25188,
+    "source_rel": "lada/models/granta/images/4ec736e0fb62c089a2526cc7a6eb94e4e1825e78b2e5da16acb104036cabde97.webp"
+  },
+  {
+    "filename": "4ed470d09a48d9c5302292810517ab3bacc96b42e809dbd6fc7d9f7ed60fe11d.webp",
+    "size": 40852,
+    "source_rel": "lada/models/granta/images/4ed470d09a48d9c5302292810517ab3bacc96b42e809dbd6fc7d9f7ed60fe11d.webp"
+  },
+  {
+    "filename": "4f37c014a635f0e8d0a2209287b4cf1ec97927a0f7fd422567ddf4f1e262a180.webp",
+    "size": 8594,
+    "source_rel": "lada/models/granta/images/4f37c014a635f0e8d0a2209287b4cf1ec97927a0f7fd422567ddf4f1e262a180.webp"
+  },
+  {
+    "filename": "4f45fef753f07f56dfcdb0c889a3755de479b897ed9a20d06a556b643a124151.webp",
+    "size": 18320,
+    "source_rel": "lada/models/granta/images/4f45fef753f07f56dfcdb0c889a3755de479b897ed9a20d06a556b643a124151.webp"
+  },
+  {
+    "filename": "50669772130433f8df46e64092f5ade5f348989d2fb77f6ab8cc60a63157a39e.webp",
+    "size": 7802,
+    "source_rel": "lada/models/granta/images/50669772130433f8df46e64092f5ade5f348989d2fb77f6ab8cc60a63157a39e.webp"
+  },
+  {
+    "filename": "509d307c665b16e37fcc50b6437610554207f48e2ab911c69357657148b53581.webp",
+    "size": 22080,
+    "source_rel": "lada/models/granta/images/509d307c665b16e37fcc50b6437610554207f48e2ab911c69357657148b53581.webp"
+  },
+  {
+    "filename": "50ac0f33236f9e86ffac533c906a6346a1d76164c097f39bf897533e1f174239.webp",
+    "size": 23376,
+    "source_rel": "lada/models/granta/images/50ac0f33236f9e86ffac533c906a6346a1d76164c097f39bf897533e1f174239.webp"
+  },
+  {
+    "filename": "50d36ed54349efe76c8e8a6e1767522a74f72b01edefa4a80d6f87e8cfdd1912.webp",
+    "size": 17500,
+    "source_rel": "lada/models/granta/images/50d36ed54349efe76c8e8a6e1767522a74f72b01edefa4a80d6f87e8cfdd1912.webp"
+  },
+  {
+    "filename": "50fef1eb30fff5c1ef1f2dec6fab45185ae6082dfd1decfb86835eb1768b4bcd.webp",
+    "size": 8116,
+    "source_rel": "lada/models/granta/images/50fef1eb30fff5c1ef1f2dec6fab45185ae6082dfd1decfb86835eb1768b4bcd.webp"
+  },
+  {
+    "filename": "511a99c508688a646847375acdd3578e256b8a2cf2aec416a3052687650b0f6a.webp",
+    "size": 34704,
+    "source_rel": "lada/models/granta/images/511a99c508688a646847375acdd3578e256b8a2cf2aec416a3052687650b0f6a.webp"
+  },
+  {
+    "filename": "5129af60788cb5eaf923d289dc9922ec8036839b88deaaf4f9d1c08e458ccc47.webp",
+    "size": 24784,
+    "source_rel": "lada/models/granta/images/5129af60788cb5eaf923d289dc9922ec8036839b88deaaf4f9d1c08e458ccc47.webp"
+  },
+  {
+    "filename": "512a1ed36b9053d37325fe88af89d1cefb8b93e31840f97c1d47511cc1c0646e.webp",
+    "size": 23436,
+    "source_rel": "lada/models/granta/images/512a1ed36b9053d37325fe88af89d1cefb8b93e31840f97c1d47511cc1c0646e.webp"
+  },
+  {
+    "filename": "5156026952a38fd964b021ef9671b85b0b1e06b355e5bfcf7c92b988685b2915.webp",
+    "size": 61064,
+    "source_rel": "lada/models/granta/images/5156026952a38fd964b021ef9671b85b0b1e06b355e5bfcf7c92b988685b2915.webp"
+  },
+  {
+    "filename": "51afadd4127184751c88f41c81ae77b0d56ed2f6fb178e013300fb22cea4a6ab.webp",
+    "size": 9990,
+    "source_rel": "lada/models/granta/images/51afadd4127184751c88f41c81ae77b0d56ed2f6fb178e013300fb22cea4a6ab.webp"
+  },
+  {
+    "filename": "51b09785f36d2b9c41e36b387dfb6eb14b98937486b807770c27b2ef55db6e71.webp",
+    "size": 19966,
+    "source_rel": "lada/models/granta/images/51b09785f36d2b9c41e36b387dfb6eb14b98937486b807770c27b2ef55db6e71.webp"
+  },
+  {
+    "filename": "51c610527f5c47cb86f2617696f3e01aee95e88d76d9e1c11cf21fedd19d1f0d.webp",
+    "size": 14158,
+    "source_rel": "lada/models/granta/images/51c610527f5c47cb86f2617696f3e01aee95e88d76d9e1c11cf21fedd19d1f0d.webp"
+  },
+  {
+    "filename": "51f901470be1b7c1157b5b1222a6308033c09a14bfe196169146cba4f41c9ef0.webp",
+    "size": 16080,
+    "source_rel": "lada/models/granta/images/51f901470be1b7c1157b5b1222a6308033c09a14bfe196169146cba4f41c9ef0.webp"
+  },
+  {
+    "filename": "521016dc52fa304816bbff2015672881a6fcda28a13a160e90ef6fc4589ff99d.webp",
+    "size": 13422,
+    "source_rel": "lada/models/granta/images/521016dc52fa304816bbff2015672881a6fcda28a13a160e90ef6fc4589ff99d.webp"
+  },
+  {
+    "filename": "526a2777222f3fe5cdbb6308965378ad243e2244e6912ce561c1dba1fccdcdaa.webp",
+    "size": 22034,
+    "source_rel": "lada/models/granta/images/526a2777222f3fe5cdbb6308965378ad243e2244e6912ce561c1dba1fccdcdaa.webp"
+  },
+  {
+    "filename": "528d6eeb4a1f1215cd3a5198ab3936b88a6e2b20f7b7e07a8d4c55c272c059e4.webp",
+    "size": 34118,
+    "source_rel": "lada/models/granta/images/528d6eeb4a1f1215cd3a5198ab3936b88a6e2b20f7b7e07a8d4c55c272c059e4.webp"
+  },
+  {
+    "filename": "52951bca8c213c9a5a937c12297813ae1764c66141ee0513a664ee173d48b501.webp",
+    "size": 14592,
+    "source_rel": "lada/models/granta/images/52951bca8c213c9a5a937c12297813ae1764c66141ee0513a664ee173d48b501.webp"
+  },
+  {
+    "filename": "5320c613c98d4094bd9c9550935d178851ccfa57b79297629dee5c5465cfc7a8.webp",
+    "size": 15878,
+    "source_rel": "lada/models/granta/images/5320c613c98d4094bd9c9550935d178851ccfa57b79297629dee5c5465cfc7a8.webp"
+  },
+  {
+    "filename": "53485a7294da5fedfdbe3e0df3ba5190912e60c328f092307bc4a6d1d26d276b.webp",
+    "size": 27454,
+    "source_rel": "lada/models/granta/images/53485a7294da5fedfdbe3e0df3ba5190912e60c328f092307bc4a6d1d26d276b.webp"
+  },
+  {
+    "filename": "535530639be49e692dc5a6ae6b871b29e2c4dfa846f9a99be723b39ae85fcf8b.webp",
+    "size": 14132,
+    "source_rel": "lada/models/granta/images/535530639be49e692dc5a6ae6b871b29e2c4dfa846f9a99be723b39ae85fcf8b.webp"
+  },
+  {
+    "filename": "538f98faed1751300224a67598aef99bfb647bc650b0e1f2217a9f6bf69a4c08.webp",
+    "size": 18508,
+    "source_rel": "lada/models/granta/images/538f98faed1751300224a67598aef99bfb647bc650b0e1f2217a9f6bf69a4c08.webp"
+  },
+  {
+    "filename": "5398e79e4ba084e189a5c0537e3e3f3370083fd55478e0e5d44c5ba95df30d61.webp",
+    "size": 15580,
+    "source_rel": "lada/models/granta/images/5398e79e4ba084e189a5c0537e3e3f3370083fd55478e0e5d44c5ba95df30d61.webp"
+  },
+  {
+    "filename": "53bd3f98511914988f5d8b3e370acc2fbefa382a37d52e71507db0639438de82.webp",
+    "size": 16576,
+    "source_rel": "lada/models/granta/images/53bd3f98511914988f5d8b3e370acc2fbefa382a37d52e71507db0639438de82.webp"
+  },
+  {
+    "filename": "5463f7dbe63c7c4b553e5907d3ea825301a4f0d46d7492ef49baed5c5f21b5d2.webp",
+    "size": 10816,
+    "source_rel": "lada/models/granta/images/5463f7dbe63c7c4b553e5907d3ea825301a4f0d46d7492ef49baed5c5f21b5d2.webp"
+  },
+  {
+    "filename": "5499a64b0a00493f3de6ba5890901510548a78393ba6815c47a963eabadb156f.webp",
+    "size": 26788,
+    "source_rel": "lada/models/granta/images/5499a64b0a00493f3de6ba5890901510548a78393ba6815c47a963eabadb156f.webp"
+  },
+  {
+    "filename": "54e13cac82a0507d3fa6c55e312af48a39df882bac7b629ae19a81c9176120b2.webp",
+    "size": 12018,
+    "source_rel": "lada/models/granta/images/54e13cac82a0507d3fa6c55e312af48a39df882bac7b629ae19a81c9176120b2.webp"
+  },
+  {
+    "filename": "551b38056f070214e60db38788c378ebfb06dbc48aabdbf76f4077310f04fc56.webp",
+    "size": 22726,
+    "source_rel": "lada/models/granta/images/551b38056f070214e60db38788c378ebfb06dbc48aabdbf76f4077310f04fc56.webp"
+  },
+  {
+    "filename": "551e079c56688a5650a005c09f5b9b6d835cf68bb5cbf4a5b4e9980d2fbefe62.webp",
+    "size": 38350,
+    "source_rel": "lada/models/granta/images/551e079c56688a5650a005c09f5b9b6d835cf68bb5cbf4a5b4e9980d2fbefe62.webp"
+  },
+  {
+    "filename": "55248ef32164e6d36d598c902b6eb32ab8cdcb36fd21297ff1216db90e36aae0.webp",
+    "size": 268738,
+    "source_rel": "lada/models/granta/images/55248ef32164e6d36d598c902b6eb32ab8cdcb36fd21297ff1216db90e36aae0.webp"
+  },
+  {
+    "filename": "55264c26c0b953c281c1f1a6547b461cf0ae784d38b66e8f21d72beacfc42ec3.webp",
+    "size": 21810,
+    "source_rel": "lada/models/granta/images/55264c26c0b953c281c1f1a6547b461cf0ae784d38b66e8f21d72beacfc42ec3.webp"
+  },
+  {
+    "filename": "552ed2cd1e5c2ff34ef4df92ffc5de069e7410df9b54e1981345bc6e18c5ef2c.webp",
+    "size": 18752,
+    "source_rel": "lada/models/granta/images/552ed2cd1e5c2ff34ef4df92ffc5de069e7410df9b54e1981345bc6e18c5ef2c.webp"
+  },
+  {
+    "filename": "554a38259e40935e084bcc76a87ebdc0b7db6db8e91bfe14c0c6b50278cbd0be.webp",
+    "size": 17768,
+    "source_rel": "lada/models/granta/images/554a38259e40935e084bcc76a87ebdc0b7db6db8e91bfe14c0c6b50278cbd0be.webp"
+  },
+  {
+    "filename": "555cc4027402e5058de32d2a30e1bd3ef630fc07d3a361665632edb4c10be418.webp",
+    "size": 26814,
+    "source_rel": "lada/models/granta/images/555cc4027402e5058de32d2a30e1bd3ef630fc07d3a361665632edb4c10be418.webp"
+  },
+  {
+    "filename": "55969ccc21d5e515e5a522802149b3f808301f03f541d2cb6f330a4814f7e091.webp",
+    "size": 40510,
+    "source_rel": "lada/models/granta/images/55969ccc21d5e515e5a522802149b3f808301f03f541d2cb6f330a4814f7e091.webp"
+  },
+  {
+    "filename": "56f4ea6118d2ee3442fbbcd04cebbc8fa701734ca95b4a1f7cd1e3c762923d0f.webp",
+    "size": 18642,
+    "source_rel": "lada/models/granta/images/56f4ea6118d2ee3442fbbcd04cebbc8fa701734ca95b4a1f7cd1e3c762923d0f.webp"
+  },
+  {
+    "filename": "571691fd7e5c1c375f45a8d3433f7da66035c00b469da6e5cf4ab9e358d506ab.webp",
+    "size": 22418,
+    "source_rel": "lada/models/granta/images/571691fd7e5c1c375f45a8d3433f7da66035c00b469da6e5cf4ab9e358d506ab.webp"
+  },
+  {
+    "filename": "5781e928e8bd30b72b19a5d3c853be685534c379f751523ef6eeed31991612fb.webp",
+    "size": 22344,
+    "source_rel": "lada/models/granta/images/5781e928e8bd30b72b19a5d3c853be685534c379f751523ef6eeed31991612fb.webp"
+  },
+  {
+    "filename": "578b80d025dfde3bf7c3d2a8c6ee7da467b2d7589aa716bf4bc6e490387c7c5a.webp",
+    "size": 21348,
+    "source_rel": "lada/models/granta/images/578b80d025dfde3bf7c3d2a8c6ee7da467b2d7589aa716bf4bc6e490387c7c5a.webp"
+  },
+  {
+    "filename": "5815b7d9aaa8e77e000081abded72ad820d473fba2604681285ff5b7ce7a308f.webp",
+    "size": 26660,
+    "source_rel": "lada/models/granta/images/5815b7d9aaa8e77e000081abded72ad820d473fba2604681285ff5b7ce7a308f.webp"
+  },
+  {
+    "filename": "583a9292ebb482bd4842b74d341f5cabc076a6845e33a9c2219417322bd9923c.webp",
+    "size": 12276,
+    "source_rel": "lada/models/granta/images/583a9292ebb482bd4842b74d341f5cabc076a6845e33a9c2219417322bd9923c.webp"
+  },
+  {
+    "filename": "58ad151320f2c4d84c46582cfbd133b738733ae33bbe36bfb9da9bb60f204de4.webp",
+    "size": 116472,
+    "source_rel": "lada/models/granta/images/58ad151320f2c4d84c46582cfbd133b738733ae33bbe36bfb9da9bb60f204de4.webp"
+  },
+  {
+    "filename": "59040086c6d0f226113d2fbbfc59a0a29fa763fde0c1b4ba51009ce0ea27df3d.webp",
+    "size": 13614,
+    "source_rel": "lada/models/granta/images/59040086c6d0f226113d2fbbfc59a0a29fa763fde0c1b4ba51009ce0ea27df3d.webp"
+  },
+  {
+    "filename": "5912852a4ab7c1a33c7b4bec4615f76a4ee64a3d81f8f0c1eef9b3015d726434.webp",
+    "size": 144882,
+    "source_rel": "lada/models/granta/images/5912852a4ab7c1a33c7b4bec4615f76a4ee64a3d81f8f0c1eef9b3015d726434.webp"
+  },
+  {
+    "filename": "5923a293bb69729f18e589ebc337be22f888dd10cd35171243502e74887151b1.webp",
+    "size": 17440,
+    "source_rel": "lada/models/granta/images/5923a293bb69729f18e589ebc337be22f888dd10cd35171243502e74887151b1.webp"
+  },
+  {
+    "filename": "59b202ea5582414cb33cf2dd3b3321c1597b9bc758a087c5311498ea80070878.webp",
+    "size": 16110,
+    "source_rel": "lada/models/granta/images/59b202ea5582414cb33cf2dd3b3321c1597b9bc758a087c5311498ea80070878.webp"
+  },
+  {
+    "filename": "59bd0b935c6c721403613f6158900d5cc0bb5a4a3e01e2686a349a197f73a6f6.webp",
+    "size": 21458,
+    "source_rel": "lada/models/granta/images/59bd0b935c6c721403613f6158900d5cc0bb5a4a3e01e2686a349a197f73a6f6.webp"
+  },
+  {
+    "filename": "59f765a448289fda5d5b92216d91ff33a6cacf111f97e507563a518fd9074b68.webp",
+    "size": 11116,
+    "source_rel": "lada/models/granta/images/59f765a448289fda5d5b92216d91ff33a6cacf111f97e507563a518fd9074b68.webp"
+  },
+  {
+    "filename": "5a26f79013b6bf0a670c7453201451193e7d11f19d1b7897922af518d138536e.webp",
+    "size": 12234,
+    "source_rel": "lada/models/granta/images/5a26f79013b6bf0a670c7453201451193e7d11f19d1b7897922af518d138536e.webp"
+  },
+  {
+    "filename": "5a8d47e1071dfe53cd5d2d79351b950f66a8b47b36855efaffab8c1f5954b69c.webp",
+    "size": 29646,
+    "source_rel": "lada/models/granta/images/5a8d47e1071dfe53cd5d2d79351b950f66a8b47b36855efaffab8c1f5954b69c.webp"
+  },
+  {
+    "filename": "5ab21fa5049f386c95b4ca12fee08a230ff30b4ef9a72605fcc4f4e2aeb6659f.webp",
+    "size": 18502,
+    "source_rel": "lada/models/granta/images/5ab21fa5049f386c95b4ca12fee08a230ff30b4ef9a72605fcc4f4e2aeb6659f.webp"
+  },
+  {
+    "filename": "5ae5b713987bcd8fffda1888ee818daa790c43184cbe54c797a89d22cd14e2bc.webp",
+    "size": 1464,
+    "source_rel": "lada/models/granta/images/5ae5b713987bcd8fffda1888ee818daa790c43184cbe54c797a89d22cd14e2bc.webp"
+  },
+  {
+    "filename": "5aec748d7333462342da417e3634f3174cc7653c641ea6cd30c01e6192316210.webp",
+    "size": 12180,
+    "source_rel": "lada/models/granta/images/5aec748d7333462342da417e3634f3174cc7653c641ea6cd30c01e6192316210.webp"
+  },
+  {
+    "filename": "5aeda59e956e2fd4d058ecd742eb1e4e6e81486a97b1a6ecd99a5d94d201ba88.webp",
+    "size": 26190,
+    "source_rel": "lada/models/granta/images/5aeda59e956e2fd4d058ecd742eb1e4e6e81486a97b1a6ecd99a5d94d201ba88.webp"
+  },
+  {
+    "filename": "5b206a70eed8000c0456514fe5ed8fadfbec6509256eba44f245ee29d599100a.webp",
+    "size": 31594,
+    "source_rel": "lada/models/granta/images/5b206a70eed8000c0456514fe5ed8fadfbec6509256eba44f245ee29d599100a.webp"
+  },
+  {
+    "filename": "5b671effeee69a7b59734efbc92a591a7b747904fe571035687e14792547a1f0.webp",
+    "size": 249624,
+    "source_rel": "lada/models/granta/images/5b671effeee69a7b59734efbc92a591a7b747904fe571035687e14792547a1f0.webp"
+  },
+  {
+    "filename": "5b8630026c637c812250852075d4e5a44a29761a5aa053fc4c1e6c0f750afe47.webp",
+    "size": 19962,
+    "source_rel": "lada/models/granta/images/5b8630026c637c812250852075d4e5a44a29761a5aa053fc4c1e6c0f750afe47.webp"
+  },
+  {
+    "filename": "5bfbc479090f328cab728939402f26f937e74160d28ddffebaab09ee090ffc80.webp",
+    "size": 27622,
+    "source_rel": "lada/models/granta/images/5bfbc479090f328cab728939402f26f937e74160d28ddffebaab09ee090ffc80.webp"
+  },
+  {
+    "filename": "5c6bb732da5a36463213d066b99a4b3d99ff7cf76d96c0f0d59c044091f69ba8.webp",
+    "size": 21790,
+    "source_rel": "lada/models/granta/images/5c6bb732da5a36463213d066b99a4b3d99ff7cf76d96c0f0d59c044091f69ba8.webp"
+  },
+  {
+    "filename": "5c71191e346fcaecf6f4a23db37fa191153133f10d3bd8389c0278d091d42b7d.webp",
+    "size": 13814,
+    "source_rel": "lada/models/granta/images/5c71191e346fcaecf6f4a23db37fa191153133f10d3bd8389c0278d091d42b7d.webp"
+  },
+  {
+    "filename": "5c79cdbdbecde0047694837b7d56716d53d08ebb0450f42c3b80dccee2f28891.webp",
+    "size": 27324,
+    "source_rel": "lada/models/granta/images/5c79cdbdbecde0047694837b7d56716d53d08ebb0450f42c3b80dccee2f28891.webp"
+  },
+  {
+    "filename": "5cf0fc5b5441d73b13bb865475d456820c95df389d3b2b28e40a92686b0cdffb.webp",
+    "size": 16298,
+    "source_rel": "lada/models/granta/images/5cf0fc5b5441d73b13bb865475d456820c95df389d3b2b28e40a92686b0cdffb.webp"
+  },
+  {
+    "filename": "5d586404f6db267c9d4840cbea9398afbdc2cb0333863b23ba75363861bf1c2d.webp",
+    "size": 16664,
+    "source_rel": "lada/models/granta/images/5d586404f6db267c9d4840cbea9398afbdc2cb0333863b23ba75363861bf1c2d.webp"
+  },
+  {
+    "filename": "5d76fb5af3e7583497008a0d4aa146a4b53a360e3a2da03e8dc04414fb458188.webp",
+    "size": 15542,
+    "source_rel": "lada/models/granta/images/5d76fb5af3e7583497008a0d4aa146a4b53a360e3a2da03e8dc04414fb458188.webp"
+  },
+  {
+    "filename": "5d950bd4e9e32108d50b013ca2f12d3cd183cbbe167eb0fc748ed5ab61a86d16.webp",
+    "size": 5930,
+    "source_rel": "lada/models/granta/images/5d950bd4e9e32108d50b013ca2f12d3cd183cbbe167eb0fc748ed5ab61a86d16.webp"
+  },
+  {
+    "filename": "5dbfc3f185a1d3324cb567020daa98165102339202f63cb935ecc77e98dd1387.webp",
+    "size": 24572,
+    "source_rel": "lada/models/granta/images/5dbfc3f185a1d3324cb567020daa98165102339202f63cb935ecc77e98dd1387.webp"
+  },
+  {
+    "filename": "5de3779538b7fe5ff8e489a2baad615c095275ddc462293f4fe8f153544a0792.webp",
+    "size": 19372,
+    "source_rel": "lada/models/granta/images/5de3779538b7fe5ff8e489a2baad615c095275ddc462293f4fe8f153544a0792.webp"
+  },
+  {
+    "filename": "5e11aaac2bd7f912937e01a930d4f59225fc9bb051fd9cee978083100b3f7e8d.webp",
+    "size": 67174,
+    "source_rel": "lada/models/granta/images/5e11aaac2bd7f912937e01a930d4f59225fc9bb051fd9cee978083100b3f7e8d.webp"
+  },
+  {
+    "filename": "5e20e86bcb5c8d6d7549fb8e3100d66095db50d0b11d2591500f4798eb27fa40.webp",
+    "size": 16566,
+    "source_rel": "lada/models/granta/images/5e20e86bcb5c8d6d7549fb8e3100d66095db50d0b11d2591500f4798eb27fa40.webp"
+  },
+  {
+    "filename": "5e234ce39f2ecfe65569bc29dd77496e4fa7bf8a59ad0b96783d33bf9634c734.webp",
+    "size": 19690,
+    "source_rel": "lada/models/granta/images/5e234ce39f2ecfe65569bc29dd77496e4fa7bf8a59ad0b96783d33bf9634c734.webp"
+  },
+  {
+    "filename": "5e625e38cd19d45127ff416ee08868d836997d4b4ee179fdcf77f44779e4c457.webp",
+    "size": 15796,
+    "source_rel": "lada/models/granta/images/5e625e38cd19d45127ff416ee08868d836997d4b4ee179fdcf77f44779e4c457.webp"
+  },
+  {
+    "filename": "5e98ddb76dc2504c925feb7619fe900039375c820ab265b9911d97f537630a7a.webp",
+    "size": 29334,
+    "source_rel": "lada/models/granta/images/5e98ddb76dc2504c925feb7619fe900039375c820ab265b9911d97f537630a7a.webp"
+  },
+  {
+    "filename": "5ed76b630089dab48cc6ee1faa2ceb3d807d8a6ff089a8ed4db7c25ffaf58155.webp",
+    "size": 232834,
+    "source_rel": "lada/models/granta/images/5ed76b630089dab48cc6ee1faa2ceb3d807d8a6ff089a8ed4db7c25ffaf58155.webp"
+  },
+  {
+    "filename": "5edc0acb8bad630312dddca7ad2a2eb5025b700fe8308d24cbe574e08b635e43.webp",
+    "size": 26826,
+    "source_rel": "lada/models/granta/images/5edc0acb8bad630312dddca7ad2a2eb5025b700fe8308d24cbe574e08b635e43.webp"
+  },
+  {
+    "filename": "5ef468cf561b26f3fff853eaffabfc3fabdfe0f4eb7711e2fd705bfa7c42cfd0.webp",
+    "size": 23172,
+    "source_rel": "lada/models/granta/images/5ef468cf561b26f3fff853eaffabfc3fabdfe0f4eb7711e2fd705bfa7c42cfd0.webp"
+  },
+  {
+    "filename": "5f03eb101c471b91c46f1a8c7cf6012cacb8c24a021e162e025c140c8e676ee3.webp",
+    "size": 25226,
+    "source_rel": "lada/models/granta/images/5f03eb101c471b91c46f1a8c7cf6012cacb8c24a021e162e025c140c8e676ee3.webp"
+  },
+  {
+    "filename": "5f4396200fd384b6e524f17381ce8ae523bc64e023ef862bceaf62c381cfdf12.webp",
+    "size": 23218,
+    "source_rel": "lada/models/granta/images/5f4396200fd384b6e524f17381ce8ae523bc64e023ef862bceaf62c381cfdf12.webp"
+  },
+  {
+    "filename": "5f469b481eae02a0f541b59f662fdec4d40d3b2c806e30e806b2900324cf7fe0.webp",
+    "size": 26010,
+    "source_rel": "lada/models/granta/images/5f469b481eae02a0f541b59f662fdec4d40d3b2c806e30e806b2900324cf7fe0.webp"
+  },
+  {
+    "filename": "5fbc75d6a2f8949909bb9e78c07a2e0e7971d78d96287f9dc1145816e7801294.webp",
+    "size": 14962,
+    "source_rel": "lada/models/granta/images/5fbc75d6a2f8949909bb9e78c07a2e0e7971d78d96287f9dc1145816e7801294.webp"
+  },
+  {
+    "filename": "600a54ea2ab50febbea1e7d4b21b8998adf7369334f5de815f58a136c3ceff7a.webp",
+    "size": 13928,
+    "source_rel": "lada/models/granta/images/600a54ea2ab50febbea1e7d4b21b8998adf7369334f5de815f58a136c3ceff7a.webp"
+  },
+  {
+    "filename": "6030d9da6b79f192890c2007d687f8ea2492880c7e622efa05e8ec990d401f62.webp",
+    "size": 27962,
+    "source_rel": "lada/models/granta/images/6030d9da6b79f192890c2007d687f8ea2492880c7e622efa05e8ec990d401f62.webp"
+  },
+  {
+    "filename": "604583a8c2c7859dc743a71dd4145e8d0ab638763b52760ef55aec72c1dbea51.webp",
+    "size": 21432,
+    "source_rel": "lada/models/granta/images/604583a8c2c7859dc743a71dd4145e8d0ab638763b52760ef55aec72c1dbea51.webp"
+  },
+  {
+    "filename": "605462dbb0ffd7d96437426d5785281248c4b15746cd346850d682a6cac0913a.webp",
+    "size": 57792,
+    "source_rel": "lada/models/granta/images/605462dbb0ffd7d96437426d5785281248c4b15746cd346850d682a6cac0913a.webp"
+  },
+  {
+    "filename": "608b17aa34a69134bc64c7eb72b58095fea6b4e643c9d57f6a447fda7f8c8951.webp",
+    "size": 34318,
+    "source_rel": "lada/models/granta/images/608b17aa34a69134bc64c7eb72b58095fea6b4e643c9d57f6a447fda7f8c8951.webp"
+  },
+  {
+    "filename": "608b3cb519408b7f31a076ab6e26f995f5aa6bb5f53f82ea1fe7d7a2071fb8b6.webp",
+    "size": 1204,
+    "source_rel": "lada/models/granta/images/608b3cb519408b7f31a076ab6e26f995f5aa6bb5f53f82ea1fe7d7a2071fb8b6.webp"
+  },
+  {
+    "filename": "60b9fce41467fb556515c8e2998725b2e471740211ba707745db3c11e6aa036f.webp",
+    "size": 30464,
+    "source_rel": "lada/models/granta/images/60b9fce41467fb556515c8e2998725b2e471740211ba707745db3c11e6aa036f.webp"
+  },
+  {
+    "filename": "613d8c6ee1b765030ce8e8e577c99c07c105715c384c57d7c6adbdfec6d2ee4c.webp",
+    "size": 18094,
+    "source_rel": "lada/models/granta/images/613d8c6ee1b765030ce8e8e577c99c07c105715c384c57d7c6adbdfec6d2ee4c.webp"
+  },
+  {
+    "filename": "62112feea4a0b565529e213790e536e33a3d3f7c045573acc3a4444046aa46d3.webp",
+    "size": 19212,
+    "source_rel": "lada/models/granta/images/62112feea4a0b565529e213790e536e33a3d3f7c045573acc3a4444046aa46d3.webp"
+  },
+  {
+    "filename": "621b8ac9e8e9baf3b13eb3b98657e905f88a0fe27d00467482f77570062f9840.webp",
+    "size": 25844,
+    "source_rel": "lada/models/granta/images/621b8ac9e8e9baf3b13eb3b98657e905f88a0fe27d00467482f77570062f9840.webp"
+  },
+  {
+    "filename": "627c016d44b77e4ce35466040bdd9a186b9804a3cb9aeb6395210d6ad522c676.webp",
+    "size": 20108,
+    "source_rel": "lada/models/granta/images/627c016d44b77e4ce35466040bdd9a186b9804a3cb9aeb6395210d6ad522c676.webp"
+  },
+  {
+    "filename": "628356860ee4c2d319c77937d8ff9efd49da1c369e4a55eb2294649428d937a2.webp",
+    "size": 26572,
+    "source_rel": "lada/models/granta/images/628356860ee4c2d319c77937d8ff9efd49da1c369e4a55eb2294649428d937a2.webp"
+  },
+  {
+    "filename": "629510578a585dc3a358bf227c5b3042b8685881c65989395c234a32dfae1243.webp",
+    "size": 19302,
+    "source_rel": "lada/models/granta/images/629510578a585dc3a358bf227c5b3042b8685881c65989395c234a32dfae1243.webp"
+  },
+  {
+    "filename": "629adeaad02de7df223a47313d8551428bf8e4fe6b507a03bbd1f3d9344914c2.webp",
+    "size": 17312,
+    "source_rel": "lada/models/granta/images/629adeaad02de7df223a47313d8551428bf8e4fe6b507a03bbd1f3d9344914c2.webp"
+  },
+  {
+    "filename": "62accfff5dffc1bbb3067090bc799facbe34991754a9476b05088c1c2a374133.webp",
+    "size": 22636,
+    "source_rel": "lada/models/granta/images/62accfff5dffc1bbb3067090bc799facbe34991754a9476b05088c1c2a374133.webp"
+  },
+  {
+    "filename": "62be82e733c5e0299aa0b1e8c64c7ee11629aab138096e53f6bd698e023ecf1b.webp",
+    "size": 32410,
+    "source_rel": "lada/models/granta/images/62be82e733c5e0299aa0b1e8c64c7ee11629aab138096e53f6bd698e023ecf1b.webp"
+  },
+  {
+    "filename": "62c9cbeb93c4e5b12e56aced9c4ceba3371c39c168326ddb471ae9c4b94351f8.webp",
+    "size": 13578,
+    "source_rel": "lada/models/granta/images/62c9cbeb93c4e5b12e56aced9c4ceba3371c39c168326ddb471ae9c4b94351f8.webp"
+  },
+  {
+    "filename": "637a3a0e78b8d31d0cd0fa9b0a3de7e9be58c95f2fff2da3cf19c017265d50d2.webp",
+    "size": 29900,
+    "source_rel": "lada/models/granta/images/637a3a0e78b8d31d0cd0fa9b0a3de7e9be58c95f2fff2da3cf19c017265d50d2.webp"
+  },
+  {
+    "filename": "63df136a4d668f41a15617a327325d78cbf238cde1511e4091151bfaa5973a47.webp",
+    "size": 26244,
+    "source_rel": "lada/models/granta/images/63df136a4d668f41a15617a327325d78cbf238cde1511e4091151bfaa5973a47.webp"
+  },
+  {
+    "filename": "643170c23ade6740cec8afb8958365f5d7b344db61e57e11af5f6232d9f6168b.webp",
+    "size": 156164,
+    "source_rel": "lada/models/granta/images/643170c23ade6740cec8afb8958365f5d7b344db61e57e11af5f6232d9f6168b.webp"
+  },
+  {
+    "filename": "6431c792e430da3a771a2ef2af21f1080ee630c95220289dbbc5c74c3f77ef88.webp",
+    "size": 18084,
+    "source_rel": "lada/models/granta/images/6431c792e430da3a771a2ef2af21f1080ee630c95220289dbbc5c74c3f77ef88.webp"
+  },
+  {
+    "filename": "6434dce7f20760182f7dd0cfe3aeebf0f62bd5d54dde58e21ebf7bbc546bfb92.webp",
+    "size": 22742,
+    "source_rel": "lada/models/granta/images/6434dce7f20760182f7dd0cfe3aeebf0f62bd5d54dde58e21ebf7bbc546bfb92.webp"
+  },
+  {
+    "filename": "6482c0d7e121efb0d0dd392fce632c3d947f18cf0f77efa048b8750a7e2071ba.webp",
+    "size": 10748,
+    "source_rel": "lada/models/granta/images/6482c0d7e121efb0d0dd392fce632c3d947f18cf0f77efa048b8750a7e2071ba.webp"
+  },
+  {
+    "filename": "6599a751241b247988fd0174755d64f49d1d368c5237d7d7f987b41cd5869965.webp",
+    "size": 20798,
+    "source_rel": "lada/models/granta/images/6599a751241b247988fd0174755d64f49d1d368c5237d7d7f987b41cd5869965.webp"
+  },
+  {
+    "filename": "65c526b2d8a6d857d5e6639ff38f000e7727dd96e235c200b47934cf6e30e19c.webp",
+    "size": 5530,
+    "source_rel": "lada/models/granta/images/65c526b2d8a6d857d5e6639ff38f000e7727dd96e235c200b47934cf6e30e19c.webp"
+  },
+  {
+    "filename": "65c83f5bc1c44196afc2b4ecf6f82e60d2c2220e22c06a6f2e71bd5d45c59fde.webp",
+    "size": 8648,
+    "source_rel": "lada/models/granta/images/65c83f5bc1c44196afc2b4ecf6f82e60d2c2220e22c06a6f2e71bd5d45c59fde.webp"
+  },
+  {
+    "filename": "65e0d22cccde59777ce9ac774110eadf42152a8fe769eae82c3fa50e72af0233.webp",
+    "size": 24792,
+    "source_rel": "lada/models/granta/images/65e0d22cccde59777ce9ac774110eadf42152a8fe769eae82c3fa50e72af0233.webp"
+  },
+  {
+    "filename": "65fcd1e1af2c9ea17fd9d876f2f9fff634b58e5dd6e06a27a1c964fad91ddd6c.webp",
+    "size": 21542,
+    "source_rel": "lada/models/granta/images/65fcd1e1af2c9ea17fd9d876f2f9fff634b58e5dd6e06a27a1c964fad91ddd6c.webp"
+  },
+  {
+    "filename": "663342e20986081bd88ea0aff48f148dd37306d70a0ebe3d62f8a97747321f91.webp",
+    "size": 14546,
+    "source_rel": "lada/models/granta/images/663342e20986081bd88ea0aff48f148dd37306d70a0ebe3d62f8a97747321f91.webp"
+  },
+  {
+    "filename": "6671b6c8fdceb05f8243c07b2066f6d8e487b9ebdb2c12990f09e4bf35768f8e.webp",
+    "size": 26584,
+    "source_rel": "lada/models/granta/images/6671b6c8fdceb05f8243c07b2066f6d8e487b9ebdb2c12990f09e4bf35768f8e.webp"
+  },
+  {
+    "filename": "667888f0681dcfa93043165b7ebb2b64f359c7427ea4d54c0e5c04a955b48905.webp",
+    "size": 29172,
+    "source_rel": "lada/models/granta/images/667888f0681dcfa93043165b7ebb2b64f359c7427ea4d54c0e5c04a955b48905.webp"
+  },
+  {
+    "filename": "66965494328274f01fe402fc40b58adba0fde1b53a92390a5dc088830ff0a3ed.webp",
+    "size": 27802,
+    "source_rel": "lada/models/granta/images/66965494328274f01fe402fc40b58adba0fde1b53a92390a5dc088830ff0a3ed.webp"
+  },
+  {
+    "filename": "66a4135fee362cb272f0364a4ea70a7cb1d98685e74de293d813790b14eed35a.webp",
+    "size": 16770,
+    "source_rel": "lada/models/granta/images/66a4135fee362cb272f0364a4ea70a7cb1d98685e74de293d813790b14eed35a.webp"
+  },
+  {
+    "filename": "66f4372a80cb698efb3a44fea90adbecb800303b8d8abf77a308b0d683751f6b.webp",
+    "size": 23230,
+    "source_rel": "lada/models/granta/images/66f4372a80cb698efb3a44fea90adbecb800303b8d8abf77a308b0d683751f6b.webp"
+  },
+  {
+    "filename": "67176cd6307150bcb58b4bdbf9ae833a151c7f2053fd2704d9fb17504937f653.webp",
+    "size": 14414,
+    "source_rel": "lada/models/granta/images/67176cd6307150bcb58b4bdbf9ae833a151c7f2053fd2704d9fb17504937f653.webp"
+  },
+  {
+    "filename": "6722b4649a586f950e761e028204a5e8f4184e03d2b5d60cdae3d47af5bdbcfa.webp",
+    "size": 19076,
+    "source_rel": "lada/models/granta/images/6722b4649a586f950e761e028204a5e8f4184e03d2b5d60cdae3d47af5bdbcfa.webp"
+  },
+  {
+    "filename": "678c41ea561d63819cf3c6098b6aef3e380b27ec94852aad94f9da405c6a4882.webp",
+    "size": 24714,
+    "source_rel": "lada/models/granta/images/678c41ea561d63819cf3c6098b6aef3e380b27ec94852aad94f9da405c6a4882.webp"
+  },
+  {
+    "filename": "679bee59cadf8fb89e6a284bc1814e7e27b92a86c97e54ed21bdeaa0c61367d4.webp",
+    "size": 7864,
+    "source_rel": "lada/models/granta/images/679bee59cadf8fb89e6a284bc1814e7e27b92a86c97e54ed21bdeaa0c61367d4.webp"
+  },
+  {
+    "filename": "67a9dc907b0b3985df822571cd025cace1e4eaa3f56918b76bdf692a4d68c7a7.webp",
+    "size": 11808,
+    "source_rel": "lada/models/granta/images/67a9dc907b0b3985df822571cd025cace1e4eaa3f56918b76bdf692a4d68c7a7.webp"
+  },
+  {
+    "filename": "681a465257b6fb35159676cea7097bc7e993502e4090d32bb34fe52f321877d0.webp",
+    "size": 9570,
+    "source_rel": "lada/models/granta/images/681a465257b6fb35159676cea7097bc7e993502e4090d32bb34fe52f321877d0.webp"
+  }
+]

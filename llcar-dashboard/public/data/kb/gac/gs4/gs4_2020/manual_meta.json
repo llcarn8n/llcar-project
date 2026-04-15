@@ -1,0 +1,12 @@
+{
+  "brand": "gac",
+  "model": "gs4",
+  "source_path_rel": "gac/models/gs4/",
+  "manual_md_size": 3466966,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-2020_н_в.md",
+    "manual-tg.md"
+  ]
+}

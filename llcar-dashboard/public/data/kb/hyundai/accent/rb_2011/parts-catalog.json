@@ -1,0 +1,1519 @@
+{
+  "brand": "hyundai",
+  "model": "accent",
+  "source": "manual_extract+template",
+  "total_parts": 166,
+  "systems": {
+    "Uncategorized": 71,
+    "Engine": 15,
+    "Fuel System": 4,
+    "Exhaust System": 5,
+    "Cooling System": 8,
+    "Transmission": 5,
+    "Brake System": 9,
+    "Suspension / Wheels": 13,
+    "Steering": 4,
+    "Electrical": 8,
+    "HVAC": 5,
+    "Body": 9,
+    "Wiper System": 4,
+    "Interior": 2,
+    "Wheels / Tires": 4
+  },
+  "parts": [
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "6. Ajustar la presion del retén de aceite del arbol de levas utilizando herramientas especiales, como el Instalador del reten de aceite del arbol de levas (09221-21000). Asegurarse de aplicar aceite d",
+      "subsystem": "",
+      "part_number": "09221-21000",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "15. Retirar el montaje de la culata. Los pernos de culata deben retirarse mediante la herramienta especial, Llave de Pemo de Culata (09221- 32001, 09221-11000), en la secuencia indicada en la figura e",
+      "subsystem": "",
+      "part_number": "09221-11000",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1. Utilizando la Herramienta Especial, Compresor de Muelle de Valvula (09222-28000), Poseedor de este(09222-29000) desmontar el cierre de reten.",
+      "subsystem": "",
+      "part_number": "09222-28000",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1. Utilizando la Herramienta Especial, Compresor de Muelle de Valvula (09222-28000), Poseedor de este(09222-29000) desmontar el cierre de reten.",
+      "subsystem": "",
+      "part_number": "09222-29000",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "La guia de valvula se instala con un ajustado a presion. Utilizando un Instalador de Guia de Valvula (09221-22000) 0 herramienta adecuada, reemplazar la guia de valvula mediante el siguiente procedimi",
+      "subsystem": "",
+      "part_number": "09221-22000",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4. Utilizarla Herramienta Especial, Instalador de Retén de Aceite Delantero del Ciguenal (09216-21000), para instalar el retén o de aceite.",
+      "subsystem": "",
+      "part_number": "09216-21000",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1. Utilizar las herramientas especiales (09234-33001), para desmontar y volver a montar el pistón y la biela. 2. Colocar el suplemento adecuado en la horquilla (09235-22000) de la herramienta. Colocar",
+      "subsystem": "",
+      "part_number": "09234-33001",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1. Utilizar las herramientas especiales (09234-33001), para desmontar y volver a montar el pistón y la biela. 2. Colocar el suplemento adecuado en la horquilla (09235-22000) de la herramienta. Colocar",
+      "subsystem": "",
+      "part_number": "09235-22000",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "5. Instalar el reten de aceite en la caja trasera del reten de aceite del ciguenal. Utilizar la Herramienta Especial, Instalador Trasero del Retén de aceite del Ciguenal (09231-11000) tal como se mues",
+      "subsystem": "",
+      "part_number": "09231-11000",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "2. Utilizando la herramienta especial (09260-32000), desmontar el interruptor de la presion de aceite.",
+      "subsystem": "",
+      "part_number": "09260-32000",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1. Coloque el tornillo de ajuste hidraulico en un instrumento especial (09246-32300) tal y como se muestra en el dibujo.",
+      "subsystem": "",
+      "part_number": "09246-32300",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "15. Quitar el montaje de ia culata. Los permos de ia culata deberian quitarse utilizando la Herramienta Especial, Llave de Perno de la culata (09221-11001),en la secuencia mostrada en la ilustracion.",
+      "subsystem": "",
+      "part_number": "09221-11001",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1. Utilizando la Herramienta Especial, Compresor de Muelle de Valvula (09222-28000, 09222-28100), desmontar el cierre de retén. Despues desmontar el reten de muelle, muelle de valvula, asiento de muel",
+      "subsystem": "",
+      "part_number": "09222-28100",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3. Instalar la Herramienta Especial, Guia de Retén de Aceite Delantero del Ciguenal (09231-22100),al extremo delantero del cigueial. Aplicar el aceite de motor a ia superficie exterior de la guia de j",
+      "subsystem": "",
+      "part_number": "09231-22100",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4. Utilizarla Herramienta Especial, Instalador de Retén de Aceite Delantero del Ciguenal (09231-22000), para instalar el reten o de aceite.",
+      "subsystem": "",
+      "part_number": "09231-22000",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "2. Utilizando la herramienta especial (09234-32000), desmontar el conmutador de la presion de aceite. Para mayores detalles, referirse a los capitulos respectivos.",
+      "subsystem": "",
+      "part_number": "09234-32000",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Instale las herramientas especiales (09221-21000, 09545-28100)enel brazo de suspension trasero. 2. Estire del casquillo hacia afuera.",
+      "subsystem": "",
+      "part_number": "09545-28100",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1. Instale las herramientas especiales (09432-22000 09545-21100)enel brazo oscilante longitudinal.",
+      "subsystem": "",
+      "part_number": "09432-22000",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1. Instale las herramientas especiales (09432-22000 09545-21100)enel brazo oscilante longitudinal.",
+      "subsystem": "",
+      "part_number": "09545-21100",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4. Instale las herramientas especiales (09545-21100, 09552-31000) yel nuevocasquillo en el brazo oscilante.",
+      "subsystem": "",
+      "part_number": "09552-31000",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "10. Instale la herramienta principal (09456-21100) y el casquillo nuevo en el portador axial trasero.",
+      "subsystem": "",
+      "part_number": "09456-21100",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "8. Hacer saltar el eje impulsor fuera del cubo, utilizando la herramienta especial (09526-11001).",
+      "subsystem": "",
+      "part_number": "09526-11001",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "7. Expulsar los arosacanalados exteriores del cojinete, del cubo usando la Herramienta Especial (09517-21400).",
+      "subsystem": "",
+      "part_number": "09517-21400",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "16. Apretar el cubo al munon a 230 Nm (2.350 kg.cm, 167 Ib.pie) con la Herramienta Especial (09517-21500).",
+      "subsystem": "",
+      "part_number": "09517-21500",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "2) Medir la alineacion de ruedas usando la Herramienta Especial (09529-21000).",
+      "subsystem": "",
+      "part_number": "09529-21000",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3. Usarla herramienta especial (09431-21200), golpear el reténdeaceite del arbol motor en la transmision.",
+      "subsystem": "",
+      "part_number": "09431-21200",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "5. Desmonte el pasador de muelle utilizando la herramienta especial (09414-11000).",
+      "subsystem": "",
+      "part_number": "09414-11000",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "9. Desmonte el anillo y el cubo de sincronizador de la quinta marcha, asf como el cojinete de aguja y engranaje de la quinta marcha, con la ayuda de la herramienta especial (09455-21000).",
+      "subsystem": "",
+      "part_number": "09455-21000",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "15. Desmonte el separador y el anillo exterior del cojinete del eje de salida con la ayuda de la herramienta especial (09455-23000).",
+      "subsystem": "",
+      "part_number": "09455-23000",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "24. Desmonte el anillo exterior del cojinete del eje de salida con la ayuda de la herramienta especial (09455-32200).",
+      "subsystem": "",
+      "part_number": "09455-32200",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1. Instale el reten de aceite del eje motor con la ayuda de la herramienta especial (09431-21000).",
+      "subsystem": "",
+      "part_number": "09431-21000",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4. Instale el anillo de rodadura exterior del eje de salida con la ayuda de la herramientaespecial (09532-11500).",
+      "subsystem": "",
+      "part_number": "09532-11500",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "10. Vuelva a instalar los montajes del rail de cambio. 1) Instale los pasadores de muelle con la ayuda de la herramienta especial (09414-11100).",
+      "subsystem": "",
+      "part_number": "09414-11100",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "22. Instale el engranaje del muelle de salida con la ayuda de la herramienta especial (09432-33300).",
+      "subsystem": "",
+      "part_number": "09432-33300",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1. Desmonte el cojinete de rodillos conicos, engranaje de salida de la cuarta marcha, espaciador, engranaje de salida de la tercera marcha, montaje de engranaje de lasegundamarcha con cojinete de rodi",
+      "subsystem": "",
+      "part_number": "09432-33200",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "2. Desmonte el cojinete de rodillos c6nicos trasero con la ayuda de la herramienta especial (09433-21400).",
+      "subsystem": "",
+      "part_number": "09433-21400",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "7. Instaiar el cojinete de rodillo c6nico en ambos lados de la caja de diferencial usando laherramienta especial (09455-21100).",
+      "subsystem": "",
+      "part_number": "09455-21100",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4 Conectar el indicador especial de presion de aceite (09452-21500),y el adaptador (09452-21002) a cada lumbrera de salida de presion de aceite. Al probar la presion de marcha atras, se deberfa usar e",
+      "subsystem": "",
+      "part_number": "09452-21500",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4 Conectar el indicador especial de presion de aceite (09452-21500),y el adaptador (09452-21002) a cada lumbrera de salida de presion de aceite. Al probar la presion de marcha atras, se deberfa usar e",
+      "subsystem": "",
+      "part_number": "09452-21002",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "17. Acoplar la herramienta especial (09453-21310) al soporte central y, sujetando el mango de la herramienta, tire del soporte central directamente hacia arriba.",
+      "subsystem": "",
+      "part_number": "09453-21310",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "6) Instalarlas herramientas especiales (09454-21400,09453-33100) y un calibrador de cuadrante en la parte trasera de la caja de transmision.",
+      "subsystem": "",
+      "part_number": "09454-21400",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "6) Instalarlas herramientas especiales (09454-21400,09453-33100) y un calibrador de cuadrante en la parte trasera de la caja de transmision.",
+      "subsystem": "",
+      "part_number": "09453-33100",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "50. Acoplar arandela de empuje reusada #1, o la que haya selecclonado en paso 48 al embrague delantero usnando petrolato. 51. Instalar la herramienta especial (09452-21401) a la caja.",
+      "subsystem": "",
+      "part_number": "09452-21401",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "10. Con el soporte del eje de reacción correctamente ubicado en la caja de bomba, usando las herramientas especiales (09452-21401, 09452-21301) apretar cinco pemos a 10-12 Nm (100-120 kg. cm, 7-9 Ib. ",
+      "subsystem": "",
+      "part_number": "09452-21301",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "2. Usando la herramienta especial (09452-21200), instalar el reten de aceite a la caja de bomba. Aplicar una capa delgada de fluido de transmision al borde del retén de aceite antes de instalacion.",
+      "subsystem": "",
+      "part_number": "09452-21200",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3. Con el muelle de retomo comprimido S con la herramienta especial (09453-21000, 09453-24000), Compresor de muelle, quitar el anillo de seguro, luego el retenedor de muelle y el muelle de retorno.",
+      "subsystem": "",
+      "part_number": "09453-21000",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3. Con el muelle de retomo comprimido S con la herramienta especial (09453-21000, 09453-24000), Compresor de muelle, quitar el anillo de seguro, luego el retenedor de muelle y el muelle de retorno.",
+      "subsystem": "",
+      "part_number": "09453-24000",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4. Despues de fijar un anillo de seguro en la guia de la herramienta especial (09453-33000), instalar el retenedor. Empujar el anillo de seguro tan abajo como sea posible. Sujetar el instalador y y pr",
+      "subsystem": "",
+      "part_number": "09453-33000",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "2. Con la herramienta especial (09457-22000), saque el cojinete trasero del engranaje de transferencia conductor.",
+      "subsystem": "",
+      "part_number": "09457-22000",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1. Con la herramienta especial (09455-33000) sacar cojinete con rodillo del engranaje de transferencia conducido.",
+      "subsystem": "",
+      "part_number": "09455-33000",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "2. Quitar el cojinete de bolas con la herramienta especail (09433-21000).",
+      "subsystem": "",
+      "part_number": "09433-21000",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "22. Instalar la herramienta especial (09456-21000). Luego, despues de asegurar la placa de separacion superior y la placa intermedia con los 8 pemos de instalacion, quitar la herramienta especial.",
+      "subsystem": "",
+      "part_number": "09456-21000",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "6) Desconecte la articulacion de rotula del brazo inferior del munon utilizando la herramienta especial (09568-31000).",
+      "subsystem": "",
+      "part_number": "09568-31000",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3. Inserte la herramienta especial (09411-11000) en el disco de embrague para evitar que se caiga el disco.",
+      "subsystem": "",
+      "part_number": "09411-11000",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "7. Mientras se sujeta el eje de la herramienta especial (09414-24000) girar el manguito con una llave para sacar el pasador de muelle.",
+      "subsystem": "",
+      "part_number": "09414-24000",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4. Quitar el volante usando una herramienta especial (09561-11002).",
+      "subsystem": "",
+      "part_number": "09561-11002",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1) si es asi, bloquear la incidencia alrededor una posicion neutral e instalar una clavija (P/No.: 56357-24100) en el agujero. Yseguidamente abrir la palanca de incidencia.",
+      "subsystem": "",
+      "part_number": "56357-24100",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4. Quitar el tap6n de horquilla con Herramienta Especial (09565-21100).",
+      "subsystem": "",
+      "part_number": "09565-21100",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "10. Quitar el cojinete del pinon con Herramienta Especial (09565-21000).",
+      "subsystem": "",
+      "part_number": "09565-21000",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "11. Deberia medirse la precarga combinada del pinon (con el fuelle y la grasa) girando ei pinon a una velocidad de una revolucion cada 4-6 segundos con Herramienta Especial(09565-11100). Tambiendeberi",
+      "subsystem": "",
+      "part_number": "09565-11100",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "25. Usar las herramientas especiales (09573-21200, 09555-21000) para quitar la arandela trasera y el reten de aceite de la caja de engranaje. ADVERTENCIA Se debe tener cuidado para no danar el cilindr",
+      "subsystem": "",
+      "part_number": "09573-21200",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "25. Usar las herramientas especiales (09573-21200, 09555-21000) para quitar la arandela trasera y el reten de aceite de la caja de engranaje. ADVERTENCIA Se debe tener cuidado para no danar el cilindr",
+      "subsystem": "",
+      "part_number": "09555-21000",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4. Colocar el lado referido del cojinete de aguja en Herramienta Especial (09432-21600) e instalarlo en la caja de engranaje (hasta que la Herramienta Especial esté en contacto con la caja de en-grana",
+      "subsystem": "",
+      "part_number": "09432-21600",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "14. Aplicar el aceite especificado y usar entonces Herramienta Especial (09434-14200) para instalar el precinto en la caja del cuerpo valvula.",
+      "subsystem": "",
+      "part_number": "09434-14200",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4. Usando la herramienta especial (09222-32100), instalar el retén de aceite en el cuerpo de bomba.",
+      "subsystem": "",
+      "part_number": "09222-32100",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "5. Colocar la Herramienta Extractora del Reten de Eje (09977-33700) sobre el eje del compresor y presionar la herramienta hacia el interior de la nariz del compresor y hacia abajo contra el reten del ",
+      "subsystem": "",
+      "part_number": "09977-33700",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Empezar desde ambos terminos, quitar la moldura de cintura usando herramienta especial (09800-21000) desde puertas delanteras y traseras.",
+      "subsystem": "",
+      "part_number": "09800-21000",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "654 321 90AS0471 14 13 1210987",
+      "subsystem": "",
+      "part_number": "14131210987",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3. Retirarla rotula delbrazo inferior(O9568-34ooo) ylabarra estabilizadora del brazo inferior.",
+      "subsystem": "",
+      "part_number": "O9568-",
+      "source_url": "",
+      "source": "manual:chunks-manual-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "В такси на фирме. И так началась каждодневная эксплуатация авто. Что можно сказать, низкий клиренс,в первую же ночь решил меж колес пропустить люк, но не расщитал и загнул буксировочную петлю, посадка",
+      "subsystem": "",
+      "part_number": "60000-65000",
+      "source_url": "",
+      "source": "manual:chunks-reviews-accent.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Renault Logan, 2007\n5048395, Новосибирск",
+      "subsystem": "",
+      "part_number": "20075048395",
+      "source_url": "",
+      "source": "manual:chunks-reviews-accent.md"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Моторное масло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Масляный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Воздушный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Свечи зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Катушка зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень ГРМ / цепь ГРМ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень генератора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка клапанной крышки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка ГБЦ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик положения коленвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Расходомер воздуха",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Дроссельная заслонка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Форсунки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Регулятор давления топлива",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Каталитический нейтрализатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель средний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Прокладка выхлопной трубы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Антифриз",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Радиатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Вентилятор радиатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Расширительный бачок",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Крышка расширительного бачка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Патрубки системы охлаждения",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Масло АКПП / МКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Фильтр АКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Сцепление (комплект)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Выжимной подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Главный цилиндр сцепления",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозная жидкость",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Датчик ABS",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные барабанные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Стойка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Втулка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Рычаг подвески",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Сайлентблок рычага",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Шаровая опора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Ступичный подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС наружный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС внутренний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пыльник ШРУСа",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Наконечник рулевой тяги",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Рулевая тяга",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Жидкость ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Насос ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Аккумулятор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Генератор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Стартер",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фара передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фонарь задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Лампы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Предохранители",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Фильтр салонный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Компрессор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Радиатор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Осушитель кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Вентилятор отопителя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Боковое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Ветровое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Заднее стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Зеркало боковое",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Капот",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Крыло переднее",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Дверь",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётки стеклоочистителя передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётка стеклоочистителя задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Бачок омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Насос омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Коврики салона",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Педаль газа / тормоза",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Шина",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Диск колёсный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Гайка колёсная",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    }
+  ]
+}

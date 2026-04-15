@@ -1,0 +1,14 @@
+{
+  "brand": "daewoo",
+  "model": "nexia",
+  "source_path_rel": "daewoo/models/nexia/",
+  "manual_md_size": 17955903,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-32a845.md",
+    "manual-lanos_tg-lanos.md",
+    "manual-nexia.md",
+    "manual-nexia_2.md"
+  ]
+}

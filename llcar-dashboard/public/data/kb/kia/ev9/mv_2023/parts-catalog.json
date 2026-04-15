@@ -1,0 +1,1827 @@
+{
+  "brand": "kia",
+  "model": "ev9",
+  "source": "manual_extract+template",
+  "total_parts": 473,
+  "systems": {
+    "Uncategorized": 378,
+    "Engine": 15,
+    "Fuel System": 4,
+    "Exhaust System": 5,
+    "Cooling System": 8,
+    "Transmission": 5,
+    "Brake System": 9,
+    "Suspension / Wheels": 13,
+    "Steering": 4,
+    "Electrical": 8,
+    "HVAC": 5,
+    "Body": 9,
+    "Wiper System": 4,
+    "Interior": 2,
+    "Wheels / Tires": 4
+  },
+  "parts": [
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Моторное масло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Масляный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Воздушный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Свечи зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Катушка зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень ГРМ / цепь ГРМ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень генератора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка клапанной крышки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка ГБЦ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик положения коленвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Расходомер воздуха",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Дроссельная заслонка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Форсунки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Регулятор давления топлива",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Каталитический нейтрализатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель средний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Прокладка выхлопной трубы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Антифриз",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Радиатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Вентилятор радиатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Расширительный бачок",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Крышка расширительного бачка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Патрубки системы охлаждения",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Масло АКПП / МКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Фильтр АКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Сцепление (комплект)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Выжимной подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Главный цилиндр сцепления",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозная жидкость",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Датчик ABS",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные барабанные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Стойка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Втулка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Рычаг подвески",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Сайлентблок рычага",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Шаровая опора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Ступичный подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС наружный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС внутренний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пыльник ШРУСа",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Наконечник рулевой тяги",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Рулевая тяга",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Жидкость ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Насос ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Аккумулятор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Генератор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Стартер",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фара передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фонарь задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Лампы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Предохранители",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Фильтр салонный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Компрессор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Радиатор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Осушитель кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Вентилятор отопителя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Боковое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Ветровое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Заднее стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Зеркало боковое",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Капот",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Крыло переднее",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Дверь",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётки стеклоочистителя передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётка стеклоочистителя задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Бачок омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Насос омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Коврики салона",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Педаль газа / тормоза",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Шина",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Диск колёсный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Гайка колёсная",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "18001085005",
+      "subsystem": "",
+      "part_number": "18001085005",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMV014040R",
+      "subsystem": "",
+      "part_number": "OMV014040R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMV014059R",
+      "subsystem": "",
+      "part_number": "OMV014059R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMV014058R",
+      "subsystem": "",
+      "part_number": "OMV014058R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV014052R",
+      "subsystem": "",
+      "part_number": "OMV014052R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV013055L",
+      "subsystem": "",
+      "part_number": "OMV013055L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV013056L",
+      "subsystem": "",
+      "part_number": "OMV013056L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV013021L",
+      "subsystem": "",
+      "part_number": "OMV013021L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMV023008L",
+      "subsystem": "",
+      "part_number": "OMV023008L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMV013061L",
+      "subsystem": "",
+      "part_number": "OMV013061L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV033003L",
+      "subsystem": "",
+      "part_number": "OMV033003L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV023039L",
+      "subsystem": "",
+      "part_number": "OMV023039L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV054096L",
+      "subsystem": "",
+      "part_number": "OMV054096L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMV013024L",
+      "subsystem": "",
+      "part_number": "OMV013024L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV023009L",
+      "subsystem": "",
+      "part_number": "OMV023009L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV023011L",
+      "subsystem": "",
+      "part_number": "OMV023011L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV023006L",
+      "subsystem": "",
+      "part_number": "OMV023006L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV023038L",
+      "subsystem": "",
+      "part_number": "OMV023038L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV034004L",
+      "subsystem": "",
+      "part_number": "OMV034004L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV034006L",
+      "subsystem": "",
+      "part_number": "OMV034006L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMV034007L",
+      "subsystem": "",
+      "part_number": "OMV034007L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV043114L",
+      "subsystem": "",
+      "part_number": "OMV043114L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV044055R",
+      "subsystem": "",
+      "part_number": "OMV044055R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV044126R",
+      "subsystem": "",
+      "part_number": "OMV044126R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV044057R",
+      "subsystem": "",
+      "part_number": "OMV044057R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV023017L",
+      "subsystem": "",
+      "part_number": "OMV023017L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV024018",
+      "subsystem": "",
+      "part_number": "OMV024018",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV044095L",
+      "subsystem": "",
+      "part_number": "OMV044095L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV033011L",
+      "subsystem": "",
+      "part_number": "OMV033011L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV044067L",
+      "subsystem": "",
+      "part_number": "OMV044067L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV024117",
+      "subsystem": "",
+      "part_number": "OMV024117",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV044096L",
+      "subsystem": "",
+      "part_number": "OMV044096L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV024019R",
+      "subsystem": "",
+      "part_number": "OMV024019R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV034015L",
+      "subsystem": "",
+      "part_number": "OMV034015L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV044071L",
+      "subsystem": "",
+      "part_number": "OMV044071L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV044097L",
+      "subsystem": "",
+      "part_number": "OMV044097L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV044098L",
+      "subsystem": "",
+      "part_number": "OMV044098L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV044073L",
+      "subsystem": "",
+      "part_number": "OMV044073L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV044074L",
+      "subsystem": "",
+      "part_number": "OMV044074L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV044075L",
+      "subsystem": "",
+      "part_number": "OMV044075L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV044076L",
+      "subsystem": "",
+      "part_number": "OMV044076L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV044077L",
+      "subsystem": "",
+      "part_number": "OMV044077L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV034012L",
+      "subsystem": "",
+      "part_number": "OMV034012L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV024036",
+      "subsystem": "",
+      "part_number": "OMV024036",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV024193",
+      "subsystem": "",
+      "part_number": "OMV024193",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV034013R",
+      "subsystem": "",
+      "part_number": "OMV034013R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV044099L",
+      "subsystem": "",
+      "part_number": "OMV044099L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV044100L",
+      "subsystem": "",
+      "part_number": "OMV044100L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV043121R",
+      "subsystem": "",
+      "part_number": "OMV043121R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "129R-010015\n100~",
+      "subsystem": "",
+      "part_number": "010015100",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV024023R",
+      "subsystem": "",
+      "part_number": "OMV024023R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV024024R",
+      "subsystem": "",
+      "part_number": "OMV024024R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV043090R",
+      "subsystem": "",
+      "part_number": "OMV043090R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OSV034151L",
+      "subsystem": "",
+      "part_number": "OSV034151L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMV023025L",
+      "subsystem": "",
+      "part_number": "OMV023025L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV023026R",
+      "subsystem": "",
+      "part_number": "OMV023026R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMV023027L",
+      "subsystem": "",
+      "part_number": "OMV023027L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMV023028L",
+      "subsystem": "",
+      "part_number": "OMV023028L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV023029L",
+      "subsystem": "",
+      "part_number": "OMV023029L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV023030L",
+      "subsystem": "",
+      "part_number": "OMV023030L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV023031L",
+      "subsystem": "",
+      "part_number": "OMV023031L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMV023032L",
+      "subsystem": "",
+      "part_number": "OMV023032L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV054002L",
+      "subsystem": "",
+      "part_number": "OMV054002L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV054342R",
+      "subsystem": "",
+      "part_number": "OMV054342R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV054098R",
+      "subsystem": "",
+      "part_number": "OMV054098R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV054099R",
+      "subsystem": "",
+      "part_number": "OMV054099R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV054343R",
+      "subsystem": "",
+      "part_number": "OMV054343R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV054344R",
+      "subsystem": "",
+      "part_number": "OMV054344R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV054345R",
+      "subsystem": "",
+      "part_number": "OMV054345R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV054100R",
+      "subsystem": "",
+      "part_number": "OMV054100R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OSV034104L",
+      "subsystem": "",
+      "part_number": "OSV034104L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV054101R",
+      "subsystem": "",
+      "part_number": "OMV054101R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV053232R",
+      "subsystem": "",
+      "part_number": "OMV053232R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV053211L",
+      "subsystem": "",
+      "part_number": "OMV053211L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV053276L",
+      "subsystem": "",
+      "part_number": "OMV053276L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV054009R",
+      "subsystem": "",
+      "part_number": "OMV054009R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OSV034105L",
+      "subsystem": "",
+      "part_number": "OSV034105L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OSV034106L",
+      "subsystem": "",
+      "part_number": "OSV034106L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV034017L",
+      "subsystem": "",
+      "part_number": "OMV034017L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMV034041\nSimple operation",
+      "subsystem": "",
+      "part_number": "OMV034041",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV034042",
+      "subsystem": "",
+      "part_number": "OMV034042",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV034501",
+      "subsystem": "",
+      "part_number": "OMV034501",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV054221L",
+      "subsystem": "",
+      "part_number": "OMV054221L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV054247L",
+      "subsystem": "",
+      "part_number": "OMV054247L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV054226L",
+      "subsystem": "",
+      "part_number": "OMV054226L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV054227L",
+      "subsystem": "",
+      "part_number": "OMV054227L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMV033035L",
+      "subsystem": "",
+      "part_number": "OMV033035L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV053241L",
+      "subsystem": "",
+      "part_number": "OMV053241L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV054242R",
+      "subsystem": "",
+      "part_number": "OMV054242R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV054119R",
+      "subsystem": "",
+      "part_number": "OMV054119R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV054120R",
+      "subsystem": "",
+      "part_number": "OMV054120R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV033022L",
+      "subsystem": "",
+      "part_number": "OMV033022L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV034503",
+      "subsystem": "",
+      "part_number": "OMV034503",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMV034426",
+      "subsystem": "",
+      "part_number": "OMV034426",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV053234L",
+      "subsystem": "",
+      "part_number": "OMV053234L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV034439",
+      "subsystem": "",
+      "part_number": "OMV034439",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV053237L",
+      "subsystem": "",
+      "part_number": "OMV053237L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV034024R",
+      "subsystem": "",
+      "part_number": "OMV034024R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV033026L",
+      "subsystem": "",
+      "part_number": "OMV033026L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMV034027R",
+      "subsystem": "",
+      "part_number": "OMV034027R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV054122R",
+      "subsystem": "",
+      "part_number": "OMV054122R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV054346R",
+      "subsystem": "",
+      "part_number": "OMV054346R",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV053128L",
+      "subsystem": "",
+      "part_number": "OMV053128L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV053129L",
+      "subsystem": "",
+      "part_number": "OMV053129L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OMV053134L",
+      "subsystem": "",
+      "part_number": "OMV053134L",
+      "source_url": "",
+      "source": "manual:chunks-manual-ev9.md"
+    }
+  ],
+  "parts_total_original": 473,
+  "parts_capped": true
+}

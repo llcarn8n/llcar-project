@@ -1,0 +1,13 @@
+{
+  "brand": "exeed",
+  "model": "vx",
+  "source_path_rel": "exeed/models/vx/",
+  "manual_md_size": 290700732,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-2021_2023.md",
+    "manual-2021_2023_2.md",
+    "manual-bdd7e8.md"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "brand": "renault",
+  "model": "kaptur",
+  "source_path_rel": "renault/models/kaptur/",
+  "manual_md_size": 85789235,
+  "has_dita": true,
+  "has_pdf": false,
+  "variants": [
+    "manual-1e046b.md",
+    "manual-2016_0.md",
+    "manual-2016_1.md",
+    "manual-kaptur-2020_н_в.md",
+    "manual-kaptur.md",
+    "manual-kaptur_ru.md",
+    "manual-ru_2.md",
+    "manual-ru_reocr.md"
+  ]
+}

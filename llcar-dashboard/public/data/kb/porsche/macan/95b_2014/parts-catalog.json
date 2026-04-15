@@ -1,0 +1,1609 @@
+{
+  "brand": "porsche",
+  "model": "porsche_macan",
+  "source": "manual_extract+template",
+  "total_parts": 176,
+  "systems": {
+    "Uncategorized": 81,
+    "Engine": 15,
+    "Fuel System": 4,
+    "Exhaust System": 5,
+    "Cooling System": 8,
+    "Transmission": 5,
+    "Brake System": 9,
+    "Suspension / Wheels": 13,
+    "Steering": 4,
+    "Electrical": 8,
+    "HVAC": 5,
+    "Body": 9,
+    "Wiper System": 4,
+    "Interior": 2,
+    "Wheels / Tires": 4
+  },
+  "parts": [
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Зверніться до партнера Porsche . Відвідайте вебсайт www.homelink.com або за- телефонуйте на безкоштовну HomeLink® га- рячу лінію системи HOMELINK за номером (0)0800 046 635 465 чи (0)08000.",
+      "subsystem": "",
+      "part_number": "046635465",
+      "source_url": "",
+      "source": "manual:chunks-manual-macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "У деяких країнах вміст осаду в пальному може не відповідати вимогам. У такому випадку після консультації з партнером Porsche пальне можна використовувати з рекомендованою Porsche при- садкою, яка прод",
+      "subsystem": "",
+      "part_number": "000043209",
+      "source_url": "",
+      "source": "manual:chunks-manual-macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "IC: 7812D-315140930 (BCM Basic 315)",
+      "subsystem": "",
+      "part_number": "315140930",
+      "source_url": "",
+      "source": "manual:chunks-manual-macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "IC: 7812D-315180528 (Key Kessy)",
+      "subsystem": "",
+      "part_number": "315180528",
+      "source_url": "",
+      "source": "manual:chunks-manual-macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "201-Y09215024",
+      "subsystem": "",
+      "part_number": "Y09215024",
+      "source_url": "",
+      "source": "manual:chunks-manual-macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Панель приладів Багатофункціональний дисплей. . 171 Індикація Автомобіль та інформація. . 171175 171 Лічильник обертів. . Лічильник пробігу. . 175 Покажчик рівня пального в баку. 172 Попереджувальні т",
+      "subsystem": "",
+      "part_number": "171175171",
+      "source_url": "",
+      "source": "manual:chunks-manual-macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "<table><tr><td colspan=\"2\" rowspan=\"1\">Система контролю тиску в шинах. Електронікаколіс третього покоління</td></tr><tr><td colspan=\"2\" rowspan=\"1\">Датчик TPMS S5.05 433 МГц TSSRE4Uf</td></tr><tr><td ",
+      "subsystem": "",
+      "part_number": "FDD20199",
+      "source_url": "",
+      "source": "manual:chunks-manual-macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "# 202-YK08560751",
+      "subsystem": "",
+      "part_number": "YK08560751",
+      "source_url": "",
+      "source": "manual:chunks-manual-macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "<table><tr><td>OMAN - TRA</td></tr><tr><td>D090258</td></tr><tr><td>TRA/TA-R/1049/09</td></tr></table>",
+      "subsystem": "",
+      "part_number": "D090258",
+      "source_url": "",
+      "source": "manual:chunks-manual-macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "<table><tr><td>OMAN - TRA</td></tr><tr><td>D090024</td></tr><tr><td>TRA/TA-R/2609/15</td></tr></table>",
+      "subsystem": "",
+      "part_number": "D090024",
+      "source_url": "",
+      "source": "manual:chunks-manual-macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "<table><tr><td>OMAN - TRA</td></tr><tr><td>D90024</td></tr><tr><td>TRA/TA-R/8056/19</td></tr></table>",
+      "subsystem": "",
+      "part_number": "D90024",
+      "source_url": "",
+      "source": "manual:chunks-manual-macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "<table><tr><td>OMAN - TRA</td></tr><tr><td>D080134</td></tr><tr><td>TRA/TA-R/1049/09</td></tr></table>",
+      "subsystem": "",
+      "part_number": "D080134",
+      "source_url": "",
+      "source": "manual:chunks-manual-macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "<table><tr><td>OMAN - TRA</td></tr><tr><td>D100428</td></tr><tr><td>TRA/TA-R/3663/16</td></tr></table>",
+      "subsystem": "",
+      "part_number": "D100428",
+      "source_url": "",
+      "source": "manual:chunks-manual-macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Complies with IMDA Standards DA107206",
+      "subsystem": "",
+      "part_number": "DA107206",
+      "source_url": "",
+      "source": "manual:chunks-manual-macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "CCAN184G0010T2根據 LP0002 低功率射頻器材技術規範_章節 3.8.2: 取得審驗證明之低功率射頻器材，非經核准，公司、商號或使 用者均不得擅自變更頻率、加大功率或變更原設計之特性及功能。",
+      "subsystem": "",
+      "part_number": "LP0002",
+      "source_url": "",
+      "source": "manual:chunks-manual-macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "FCC ID: KR5315-140930 (BCM Basic) FCC ID: KR5315-180528 (Key Kessy) FCC ID: KR55WK50138 (Key Basic) FCC ID: NF3-LRR3SCU (LRR3) FCC ID: NF3-MRR1REAR (MRR1Rear) FCC ID: QIPALAS6A (MIB2+)",
+      "subsystem": "",
+      "part_number": "KR5315-",
+      "source_url": "",
+      "source": "manual:chunks-manual-macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "PAG-KEY-434-180528\n125,00 кГц",
+      "subsystem": "",
+      "part_number": "180528125",
+      "source_url": "",
+      "source": "manual:chunks-manual-macan_b901057a.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "BAW Fenix BJ1044/65 / FAW CA1041 (рем+каталог)",
+      "subsystem": "",
+      "part_number": "BJ1044",
+      "source_url": "",
+      "source": "manual:chunks-manual-macan_e391136f.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "BAW Fenix BJ1044/65 / FAW CA1041 (рем+каталог)",
+      "subsystem": "",
+      "part_number": "CA1041",
+      "source_url": "",
+      "source": "manual:chunks-manual-macan_e391136f.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Internet: www.homelink.com For RoW, telephone: (0) 0800 0466 354 65 For USA, telephone: 1-800-355-3515",
+      "subsystem": "",
+      "part_number": "08000466354",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1. Tighten fastening screws to the specified torque. Tightening torque 123456789 Nm",
+      "subsystem": "",
+      "part_number": "123456789",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "D ADD AIR WHEELCHANGE SEALING SET G00225546 Омрн",
+      "subsystem": "",
+      "part_number": "G00225546",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "HOTAT HOTAT HOTAT HOT AT HOT W/ KL 15ALL TIMES ALL TIMES ALLTIMES ALL TIMESS RELAY ENERGIZEDREAR FUSE REAR FUSE REAR FUSEOX ROW ) BOX (ROW B) ARO(RIGHTSDROA \\$30 FUSE \\$ \\$UE EUEA FUSEA ∀ 4 2 51А BRN ",
+      "subsystem": "",
+      "part_number": "BCM484547",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "2. Actuate the windscreen washer system and align spray nozzles for the windscreen washer system as required using adjusting tool T40187. → 926619 REMOVING AND INSTALLING SPRAY NOZZLE FOR WINDSCREEN W",
+      "subsystem": "",
+      "part_number": "T40187",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "21. Screw guiding rods -3- into the threaded bore. Tools used: Guiding rods T10093",
+      "subsystem": "",
+      "part_number": "T10093",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "2. Insert removal and assembly tool T10389 -1- into the rear door and pull the locking clip -2- to the rear.",
+      "subsystem": "",
+      "part_number": "T10389",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "9. A leak test must be carried out on the rear lid after applying the seam seal. To do this, follow the instructions for carrying out the leak test in the document → WE9000 WE90 Workshop campaign - Ch",
+      "subsystem": "",
+      "part_number": "WE9000",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "WM G04019 REMOVING AND INSTALLING SLIDING-ROOF PANEL (ALL MODELS) > SUBSEQUENT WORK",
+      "subsystem": "",
+      "part_number": "G04019",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "PIWis Tester I19818 with PlWiS Tester test software version 14.300 (or higher) installed. Suitable battery charger (charging current of at least 40 A), e.g. Battery charger 45A WE 1393",
+      "subsystem": "",
+      "part_number": "I19818",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "2.1.2. Release tool T40136 must be fitted on the balljoint on the push rod.",
+      "subsystem": "",
+      "part_number": "T40136",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Never use an impact bolter to loosen and tighten the brake calliper on the wheel carrier. Carry out a visual inspection on the thread for the brake calliper and blow it out carefully if necessary usin",
+      "subsystem": "",
+      "part_number": "T10439",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "2.2.2. Pull off the halfshaft flange -3- using a puller T10037 .",
+      "subsystem": "",
+      "part_number": "T10037",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "and fit it on the pressure piece T40164 .",
+      "subsystem": "",
+      "part_number": "T40164",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1.2.1. Oil the external circumference of the new sealing ring with a light coating of oil and fit it on the pressure piece T40163. 2. 2.2. Tap sealing ring in as far as it will go using pressure piece",
+      "subsystem": "",
+      "part_number": "T40163",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1 - For left longitudinal member, one adjustable foot T40093/51",
+      "subsystem": "",
+      "part_number": "T40093",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3 - Two supports T40091/50-51, engine safety device supplement T40091/54, engine safety device supplement T40091/55",
+      "subsystem": "",
+      "part_number": "T40091",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "5. Assembly sleeve T20097 must now be fitted on the crankshaft journal. → Assembly sleeve on crankshaft journal",
+      "subsystem": "",
+      "part_number": "T20097",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "The flywheel must not be tilted during removal and installation. 1. Secure the extractor Extractor T40176 on the flywheel -A- with a nut -B- .",
+      "subsystem": "",
+      "part_number": "T40176",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1. Pressure piece T10368 must be screwed on. → Pressure piece -T10368-",
+      "subsystem": "",
+      "part_number": "T10368",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": ". Pulloff sealing ring using puller hook T40274. Pulling off sealing ring",
+      "subsystem": "",
+      "part_number": "T40274",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "2. Pul in new sealing ring using pressure piece T10354 and fastening screw for pulley as far as it will go. → Pressure piece -T10354-",
+      "subsystem": "",
+      "part_number": "T10354",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4. Use counter-hold tool T10355 to turn the pully to TDC position.",
+      "subsystem": "",
+      "part_number": "T10355",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "2. 2.2. Lock the tensioning device using locking pin T10060 A.",
+      "subsystem": "",
+      "part_number": "T10060",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1. 6.1. Dial gauge adapter T10170 A must be screwed as far as it wil go into the spark plug thread.",
+      "subsystem": "",
+      "part_number": "T10170",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1.8.1. Lever T40243 must now be screwed in. -arrows",
+      "subsystem": "",
+      "part_number": "T40243",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "9. Secure the chain tensioner with staking tool T40267.",
+      "subsystem": "",
+      "part_number": "T40267",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "11. Camshaft clamp T40271 /2 must be screwed onto the cylinder head and then pushed into the toothing on the sprocket in -direction of arrow 2- .",
+      "subsystem": "",
+      "part_number": "T40271",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Use adapter T40266 to turn the intake camshaft in -direction of arrow 1- if necessary.",
+      "subsystem": "",
+      "part_number": "T40266",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1. Use assembly tool T10352 /2 to remove control valves at the left and right in -direction of arrow- .",
+      "subsystem": "",
+      "part_number": "T10352",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1.5.1. Press clamp in -direction of arrow- and lock it using locking pin T40011 .",
+      "subsystem": "",
+      "part_number": "T40011",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "2. Screw adapter -T40012- into the spark plug thread.",
+      "subsystem": "",
+      "part_number": "T40012",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "2. 14.2. Unscrew fastening screws -1…10- for cylinder head using socket-wrench insert, Polydrive T10070. Observe the sequence -1…10-.",
+      "subsystem": "",
+      "part_number": "T10070",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1. Remove oil pressure switch using articulated wrench Articulated wrench T40175. Soak up emerging oil with a cloth.",
+      "subsystem": "",
+      "part_number": "T40175",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3. Use assembly tool assembly tool T10118 to pul spring on chain tensioner in -direction of arrow- and secure with locking tool locking tool T40265.",
+      "subsystem": "",
+      "part_number": "T10118",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3. Use assembly tool assembly tool T10118 to pul spring on chain tensioner in -direction of arrow- and secure with locking tool locking tool T40265.",
+      "subsystem": "",
+      "part_number": "T40265",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### VAS5190 A Fuel extractor Nr.206:",
+      "subsystem": "",
+      "part_number": "VAS5190",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4. Open the lock -1- using wrench T10202 -3- in -direction of arrow - .",
+      "subsystem": "",
+      "part_number": "T10202",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Bit, a/f 27. Bit, al/f 27 T40218",
+      "subsystem": "",
+      "part_number": "T40218",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Supplementary set T10133/11-15",
+      "subsystem": "",
+      "part_number": "T10133",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3. 1.3. Unscrew oxygen sensor -4- using crow foot wrench Nr.189-1 or socket insert a/f 17 T10491 -5- .",
+      "subsystem": "",
+      "part_number": "T10491",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1.3.1. Puller T10530 must be inserted into the bore -1- on the ignition coil.",
+      "subsystem": "",
+      "part_number": "T10530",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "If the hall-sender rotor does come into proximity of a magnet, replace it without exception. 1. Check the condition of the new hallsender rotor using the test card T10473 tool. 1. 1.1. Hold the test c",
+      "subsystem": "",
+      "part_number": "T10473",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "NOTE: The Georgia program incorporates original U.S. EPA recommended start-up ASM2525 and ASM5015 standards for 1995 and older model year vehicles. Refer to appropriate model year range in appropriate",
+      "subsystem": "",
+      "part_number": "ASM2525",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "NOTE: The Georgia program incorporates original U.S. EPA recommended start-up ASM2525 and ASM5015 standards for 1995 and older model year vehicles. Refer to appropriate model year range in appropriate",
+      "subsystem": "",
+      "part_number": "ASM5015",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### RHODE ISLAND EMISSION STANDARDS - RI2000 TEST",
+      "subsystem": "",
+      "part_number": "RI2000",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "This leak detector additive is available from service equipment providers (e.g. Waeco). → WE1281 Air conditioning service equipment RS 2",
+      "subsystem": "",
+      "part_number": "WE1281",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1. Release air-conditioning line from evaporator to compressor -1- using release tool T40149 -2- and pull it off.",
+      "subsystem": "",
+      "part_number": "T40149",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Applies only to B markets → OX0000 OVERVIEW OF A, B AND C MARKETS .",
+      "subsystem": "",
+      "part_number": "OX0000",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1.4.1. Position ball joint puller T40010 over the joint pin and fit it on the fastening nut.",
+      "subsystem": "",
+      "part_number": "T40010",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Fig 1: Locating Support (T10149) Mounting Nut",
+      "subsystem": "",
+      "part_number": "T10149",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "2. Sleeve T10230/3 from assembly tool T10230",
+      "subsystem": "",
+      "part_number": "T10230",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Assembly fixture T10263",
+      "subsystem": "",
+      "part_number": "T10263",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Assembly fixture T40185",
+      "subsystem": "",
+      "part_number": "T40185",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Assembly fixture T40033",
+      "subsystem": "",
+      "part_number": "T40033",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "1. 2.1. Use interchangeable head T40183 for fastening screw on the chassis subframe.",
+      "subsystem": "",
+      "part_number": "T40183",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "The assembly tool T40184 as well as the pressure plate WW 401 and pressure plate WW 402 are required in order to replace the bearing.",
+      "subsystem": "",
+      "part_number": "T40184",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3. 3.3. Loosen clamping screw -1- for locking cable by about 1 turn using socket insert a/f 5 T40031. Clamping screw remains in place.",
+      "subsystem": "",
+      "part_number": "T40031",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "6. Use attachment and retaining device T40294 to secure the transmission to the workshop crane WE 1188.",
+      "subsystem": "",
+      "part_number": "T40294",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "HOT W/DME RELAY 1ENERGIZEDPLENUM PANELFUSE E-BOX7 LET SDER10A PENUM)7ATRED/GRNI•(LEFT FRONP.23 | A BREDIGRN REDENRE RERRNN 413 TRATCENTER CONSOLE) X481 OUTPUTEXTERIOR BLK/REDLIGHTS • STOP LIGHT SWITCH",
+      "subsystem": "",
+      "part_number": "OF486520",
+      "source_url": "",
+      "source": "manual:chunks-manual-porsche_macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Porsche Macan, 2015\n9178725, Санкт-Петербург",
+      "subsystem": "",
+      "part_number": "20159178725",
+      "source_url": "",
+      "source": "manual:chunks-reviews-macan.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Porsche Macan, 2016\n8323406, Санкт-Петербург",
+      "subsystem": "",
+      "part_number": "20168323406",
+      "source_url": "",
+      "source": "manual:chunks-reviews-macan.md"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Моторное масло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Масляный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Воздушный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Свечи зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Катушка зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень ГРМ / цепь ГРМ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень генератора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка клапанной крышки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка ГБЦ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик положения коленвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Расходомер воздуха",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Дроссельная заслонка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Форсунки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Регулятор давления топлива",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Каталитический нейтрализатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель средний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Прокладка выхлопной трубы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Антифриз",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Радиатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Вентилятор радиатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Расширительный бачок",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Крышка расширительного бачка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Патрубки системы охлаждения",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Масло АКПП / МКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Фильтр АКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Сцепление (комплект)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Выжимной подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Главный цилиндр сцепления",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозная жидкость",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Датчик ABS",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные барабанные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Стойка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Втулка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Рычаг подвески",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Сайлентблок рычага",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Шаровая опора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Ступичный подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС наружный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС внутренний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пыльник ШРУСа",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Наконечник рулевой тяги",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Рулевая тяга",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Жидкость ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Насос ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Аккумулятор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Генератор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Стартер",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фара передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фонарь задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Лампы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Предохранители",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Фильтр салонный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Компрессор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Радиатор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Осушитель кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Вентилятор отопителя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Боковое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Ветровое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Заднее стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Зеркало боковое",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Капот",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Крыло переднее",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Дверь",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётки стеклоочистителя передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётка стеклоочистителя задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Бачок омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Насос омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Коврики салона",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Педаль газа / тормоза",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Шина",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Диск колёсный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Гайка колёсная",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    }
+  ]
+}

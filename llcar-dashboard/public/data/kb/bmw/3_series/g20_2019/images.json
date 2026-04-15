@@ -1,0 +1,2137 @@
+[
+  {
+    "filename": "001032e877eab30354450ac8cb8e34591af53ab33aadadd5f072aa97198928a2.webp",
+    "size": 10026,
+    "source_rel": "bmw/models/3_series/images/001032e877eab30354450ac8cb8e34591af53ab33aadadd5f072aa97198928a2.webp"
+  },
+  {
+    "filename": "00ae2c02a3da2dd29f0b59bc6ceae68ec0cced1c41e8246f43f07d12b94e4eeb.webp",
+    "size": 370,
+    "source_rel": "bmw/models/3_series/images/00ae2c02a3da2dd29f0b59bc6ceae68ec0cced1c41e8246f43f07d12b94e4eeb.webp"
+  },
+  {
+    "filename": "0173f85d84da0462412543be379e91085fe25ef2bf20d0243d5a009b4181b2d1.webp",
+    "size": 10708,
+    "source_rel": "bmw/models/3_series/images/0173f85d84da0462412543be379e91085fe25ef2bf20d0243d5a009b4181b2d1.webp"
+  },
+  {
+    "filename": "0293ce42eb1928f57beb902d1f069732b131026cbaa2a8cf23f13042cb1337d3.webp",
+    "size": 294,
+    "source_rel": "bmw/models/3_series/images/0293ce42eb1928f57beb902d1f069732b131026cbaa2a8cf23f13042cb1337d3.webp"
+  },
+  {
+    "filename": "02e4f5a60154df71c9dafa6e7c677adac3de25d68e8e77505753fea1c910d921.webp",
+    "size": 11158,
+    "source_rel": "bmw/models/3_series/images/02e4f5a60154df71c9dafa6e7c677adac3de25d68e8e77505753fea1c910d921.webp"
+  },
+  {
+    "filename": "037bb4b865bd720600741e034103f59e7df2f98747e6ddfaa50ec90b6d589ff1.webp",
+    "size": 2882,
+    "source_rel": "bmw/models/3_series/images/037bb4b865bd720600741e034103f59e7df2f98747e6ddfaa50ec90b6d589ff1.webp"
+  },
+  {
+    "filename": "04876a14ee6a1a65049afa75c923e8e5343e5cd091fe847ee33d29604955413c.webp",
+    "size": 8728,
+    "source_rel": "bmw/models/3_series/images/04876a14ee6a1a65049afa75c923e8e5343e5cd091fe847ee33d29604955413c.webp"
+  },
+  {
+    "filename": "04989df30c5e21bba1e012c1c6238c81d27e0a80ced1a06db5adab6bb4afbd6b.webp",
+    "size": 7712,
+    "source_rel": "bmw/models/3_series/images/04989df30c5e21bba1e012c1c6238c81d27e0a80ced1a06db5adab6bb4afbd6b.webp"
+  },
+  {
+    "filename": "0502b933caf27ad7446d8d8f09de42dba54543b7aa9969d5e7fcb8f9db5f9e82.webp",
+    "size": 900,
+    "source_rel": "bmw/models/3_series/images/0502b933caf27ad7446d8d8f09de42dba54543b7aa9969d5e7fcb8f9db5f9e82.webp"
+  },
+  {
+    "filename": "0518f47d3202746f211493a5acdf365d89fc5b3adb10a4b17d96b1ee64d11c38.webp",
+    "size": 354,
+    "source_rel": "bmw/models/3_series/images/0518f47d3202746f211493a5acdf365d89fc5b3adb10a4b17d96b1ee64d11c38.webp"
+  },
+  {
+    "filename": "0567952cd818b8caf5d1f6005fe318eb6da41055cb6d3da66a38062c828439b5.webp",
+    "size": 8616,
+    "source_rel": "bmw/models/3_series/images/0567952cd818b8caf5d1f6005fe318eb6da41055cb6d3da66a38062c828439b5.webp"
+  },
+  {
+    "filename": "0659db42717b854c9c9e7c7778491ee10e3d3a884061f9b226ae23543b2ce7c2.webp",
+    "size": 15412,
+    "source_rel": "bmw/models/3_series/images/0659db42717b854c9c9e7c7778491ee10e3d3a884061f9b226ae23543b2ce7c2.webp"
+  },
+  {
+    "filename": "0801b04d38f48aa2499b083ab840b44f4176967e759008336625d16b4d7cae78.webp",
+    "size": 672,
+    "source_rel": "bmw/models/3_series/images/0801b04d38f48aa2499b083ab840b44f4176967e759008336625d16b4d7cae78.webp"
+  },
+  {
+    "filename": "08615f491d3de412d3f97ef9075d9d8ee2f95abc737a9c8ec73b5285dfdaaa8e.webp",
+    "size": 1078,
+    "source_rel": "bmw/models/3_series/images/08615f491d3de412d3f97ef9075d9d8ee2f95abc737a9c8ec73b5285dfdaaa8e.webp"
+  },
+  {
+    "filename": "0880ffd8dcefcca239f36fc13c5a806e46f358e0daaae8ef06f59c2b9421afcd.webp",
+    "size": 3268,
+    "source_rel": "bmw/models/3_series/images/0880ffd8dcefcca239f36fc13c5a806e46f358e0daaae8ef06f59c2b9421afcd.webp"
+  },
+  {
+    "filename": "0930ddad11ceac7311088c7f244478a50b3723f5dbeab82b49789367b0a3f51a.webp",
+    "size": 7028,
+    "source_rel": "bmw/models/3_series/images/0930ddad11ceac7311088c7f244478a50b3723f5dbeab82b49789367b0a3f51a.webp"
+  },
+  {
+    "filename": "0948500d8973de1c90d97ab67e3e73111e71d996aec69a4a8b144b41a2de4888.webp",
+    "size": 748,
+    "source_rel": "bmw/models/3_series/images/0948500d8973de1c90d97ab67e3e73111e71d996aec69a4a8b144b41a2de4888.webp"
+  },
+  {
+    "filename": "098509b1f39e09ffc19283384793133b51b031cd478fe3982610c34ae9e00675.webp",
+    "size": 7144,
+    "source_rel": "bmw/models/3_series/images/098509b1f39e09ffc19283384793133b51b031cd478fe3982610c34ae9e00675.webp"
+  },
+  {
+    "filename": "0a096386b624e998ad30169898d5ccbff032adfb5e1a524b747317599177d528.webp",
+    "size": 3018,
+    "source_rel": "bmw/models/3_series/images/0a096386b624e998ad30169898d5ccbff032adfb5e1a524b747317599177d528.webp"
+  },
+  {
+    "filename": "0a2471e39673645e78e0a0aeec391f3a59b74bea10641f40166efa95a49bb304.webp",
+    "size": 8320,
+    "source_rel": "bmw/models/3_series/images/0a2471e39673645e78e0a0aeec391f3a59b74bea10641f40166efa95a49bb304.webp"
+  },
+  {
+    "filename": "0a586032a445e46791039ea2fa1d6bf8dca94abe70b7d31e6ef719eebc91f77c.webp",
+    "size": 5644,
+    "source_rel": "bmw/models/3_series/images/0a586032a445e46791039ea2fa1d6bf8dca94abe70b7d31e6ef719eebc91f77c.webp"
+  },
+  {
+    "filename": "0a5f4fadf59672415143da20a90bb0ab88634e5e4a254aabd057a32d2bb83f25.webp",
+    "size": 848,
+    "source_rel": "bmw/models/3_series/images/0a5f4fadf59672415143da20a90bb0ab88634e5e4a254aabd057a32d2bb83f25.webp"
+  },
+  {
+    "filename": "0b37488cdcaaaa35efd953a2a0a6e2d5f2a5f35f5e16bc6e3347fa081c7493a5.webp",
+    "size": 5176,
+    "source_rel": "bmw/models/3_series/images/0b37488cdcaaaa35efd953a2a0a6e2d5f2a5f35f5e16bc6e3347fa081c7493a5.webp"
+  },
+  {
+    "filename": "0bdc63aaa5136ec5fd475888cdcd3502ce1276482879b14b1c2fbb06f040d417.webp",
+    "size": 6862,
+    "source_rel": "bmw/models/3_series/images/0bdc63aaa5136ec5fd475888cdcd3502ce1276482879b14b1c2fbb06f040d417.webp"
+  },
+  {
+    "filename": "0c2ec4d59fa749288acc4b071c870cd73be2d666f7aaba3dbfdb5b8def272421.webp",
+    "size": 604,
+    "source_rel": "bmw/models/3_series/images/0c2ec4d59fa749288acc4b071c870cd73be2d666f7aaba3dbfdb5b8def272421.webp"
+  },
+  {
+    "filename": "0ce3c7acd897a4e6e74ae3d3f79a409eb70863ea60b9b97e92c9addab4402be1.webp",
+    "size": 868,
+    "source_rel": "bmw/models/3_series/images/0ce3c7acd897a4e6e74ae3d3f79a409eb70863ea60b9b97e92c9addab4402be1.webp"
+  },
+  {
+    "filename": "0cf7c03ab7a72a03133d03766cbf9ebd4b8ef4e982a3732663336fba512d79b9.webp",
+    "size": 664,
+    "source_rel": "bmw/models/3_series/images/0cf7c03ab7a72a03133d03766cbf9ebd4b8ef4e982a3732663336fba512d79b9.webp"
+  },
+  {
+    "filename": "0d721b25c19ecc548d4d6eb332d9a63a754f911a6bc14febd24fb0827e136571.webp",
+    "size": 5766,
+    "source_rel": "bmw/models/3_series/images/0d721b25c19ecc548d4d6eb332d9a63a754f911a6bc14febd24fb0827e136571.webp"
+  },
+  {
+    "filename": "0dedfaf8576e64d5e04dd484fc216cedeffcfea146b2368b369d0ec6785f5c46.webp",
+    "size": 7312,
+    "source_rel": "bmw/models/3_series/images/0dedfaf8576e64d5e04dd484fc216cedeffcfea146b2368b369d0ec6785f5c46.webp"
+  },
+  {
+    "filename": "0eab398dadde477bfa25805e09fd7e4e267d35e388e79ec9e455c9f7670eeb4a.webp",
+    "size": 4612,
+    "source_rel": "bmw/models/3_series/images/0eab398dadde477bfa25805e09fd7e4e267d35e388e79ec9e455c9f7670eeb4a.webp"
+  },
+  {
+    "filename": "0f23785c6f14d306adf9c06e2eabcf44eb09544d5bf298f5c82183a51c8aee4a.webp",
+    "size": 502,
+    "source_rel": "bmw/models/3_series/images/0f23785c6f14d306adf9c06e2eabcf44eb09544d5bf298f5c82183a51c8aee4a.webp"
+  },
+  {
+    "filename": "0f55408c543373fb753c8a2090018d26e192366226a813987c7535cb809bf4a4.webp",
+    "size": 3718,
+    "source_rel": "bmw/models/3_series/images/0f55408c543373fb753c8a2090018d26e192366226a813987c7535cb809bf4a4.webp"
+  },
+  {
+    "filename": "103ba488741a309c9c56afc9a84bc05daf56c6b365b66b63d3b2ed883b00c1b0.webp",
+    "size": 10246,
+    "source_rel": "bmw/models/3_series/images/103ba488741a309c9c56afc9a84bc05daf56c6b365b66b63d3b2ed883b00c1b0.webp"
+  },
+  {
+    "filename": "10ad39826a62410068e5fab8e7d71ce5bfe8044da4645c3167a43ea8dbc4a04a.webp",
+    "size": 5020,
+    "source_rel": "bmw/models/3_series/images/10ad39826a62410068e5fab8e7d71ce5bfe8044da4645c3167a43ea8dbc4a04a.webp"
+  },
+  {
+    "filename": "10b64a5c8c2e76f557390273db4fef563c5ddc4862af6e70756206bf82f2aa08.webp",
+    "size": 860,
+    "source_rel": "bmw/models/3_series/images/10b64a5c8c2e76f557390273db4fef563c5ddc4862af6e70756206bf82f2aa08.webp"
+  },
+  {
+    "filename": "118701d276428c27ea9387b0588735a83933b801ba0f8e3d360bc6547ee51b26.webp",
+    "size": 8544,
+    "source_rel": "bmw/models/3_series/images/118701d276428c27ea9387b0588735a83933b801ba0f8e3d360bc6547ee51b26.webp"
+  },
+  {
+    "filename": "11ab97bfbd81c60ee4ae607d0f70ff6a501583b88338ab1144aa7773fbf44cad.webp",
+    "size": 552,
+    "source_rel": "bmw/models/3_series/images/11ab97bfbd81c60ee4ae607d0f70ff6a501583b88338ab1144aa7773fbf44cad.webp"
+  },
+  {
+    "filename": "1360062429004d82c1ad2bdc30820c61f8deeb557d1e8530c71c48d6cbf765ee.webp",
+    "size": 29038,
+    "source_rel": "bmw/models/3_series/images/1360062429004d82c1ad2bdc30820c61f8deeb557d1e8530c71c48d6cbf765ee.webp"
+  },
+  {
+    "filename": "143aab8311d77b460c6ce581f0da99d8f8ee01bd55dac335adeb04c4e45e7230.webp",
+    "size": 24570,
+    "source_rel": "bmw/models/3_series/images/143aab8311d77b460c6ce581f0da99d8f8ee01bd55dac335adeb04c4e45e7230.webp"
+  },
+  {
+    "filename": "149e64c38f80c6ce2ad9f38069480bfcffa57a875bf4a693abb3d188f5dc9fee.webp",
+    "size": 10990,
+    "source_rel": "bmw/models/3_series/images/149e64c38f80c6ce2ad9f38069480bfcffa57a875bf4a693abb3d188f5dc9fee.webp"
+  },
+  {
+    "filename": "16ac593ccc6f96de24e6875f7df72d77720807c807e7422eaee36bc4fa447eb7.webp",
+    "size": 626,
+    "source_rel": "bmw/models/3_series/images/16ac593ccc6f96de24e6875f7df72d77720807c807e7422eaee36bc4fa447eb7.webp"
+  },
+  {
+    "filename": "171640c912d0adfa8ab1f237f2989a83aef05125988213373e20af9e7cacdf06.webp",
+    "size": 12470,
+    "source_rel": "bmw/models/3_series/images/171640c912d0adfa8ab1f237f2989a83aef05125988213373e20af9e7cacdf06.webp"
+  },
+  {
+    "filename": "173346d759c78950fb4171b82932fa8b0ff556ffec76c16ff5ed199f988a747d.webp",
+    "size": 6670,
+    "source_rel": "bmw/models/3_series/images/173346d759c78950fb4171b82932fa8b0ff556ffec76c16ff5ed199f988a747d.webp"
+  },
+  {
+    "filename": "17662647916b6db36e98e420b6ad41fa5b14947e8f954e57b96bac381907c5ac.webp",
+    "size": 3578,
+    "source_rel": "bmw/models/3_series/images/17662647916b6db36e98e420b6ad41fa5b14947e8f954e57b96bac381907c5ac.webp"
+  },
+  {
+    "filename": "18166fd362cb2fc42d6f6059b2d5355e175c8e8fb09092f93f809aff19788f78.webp",
+    "size": 992,
+    "source_rel": "bmw/models/3_series/images/18166fd362cb2fc42d6f6059b2d5355e175c8e8fb09092f93f809aff19788f78.webp"
+  },
+  {
+    "filename": "1845c81b0aafab0dfec35f0435377897ec7610c1d79e113f08ba3dd6534f0cad.webp",
+    "size": 360,
+    "source_rel": "bmw/models/3_series/images/1845c81b0aafab0dfec35f0435377897ec7610c1d79e113f08ba3dd6534f0cad.webp"
+  },
+  {
+    "filename": "1858d6d02a993c9bc46b40a116b932f4eea8bcd42f0b2263b9ffa6b90b6e01da.webp",
+    "size": 12634,
+    "source_rel": "bmw/models/3_series/images/1858d6d02a993c9bc46b40a116b932f4eea8bcd42f0b2263b9ffa6b90b6e01da.webp"
+  },
+  {
+    "filename": "1885fc7fdaa635ed68540ca02cee370f8aaef089584fd79bbc785b847c1b6c44.webp",
+    "size": 6600,
+    "source_rel": "bmw/models/3_series/images/1885fc7fdaa635ed68540ca02cee370f8aaef089584fd79bbc785b847c1b6c44.webp"
+  },
+  {
+    "filename": "1923ef86b03e111a63c9ae56d754902543d489dbc0ce1e969a3d65b7813ab8da.webp",
+    "size": 638,
+    "source_rel": "bmw/models/3_series/images/1923ef86b03e111a63c9ae56d754902543d489dbc0ce1e969a3d65b7813ab8da.webp"
+  },
+  {
+    "filename": "197aa22c9291849c19f35ee47c7175c99ff751888c85e6ecff8c8a989fb244f9.webp",
+    "size": 3296,
+    "source_rel": "bmw/models/3_series/images/197aa22c9291849c19f35ee47c7175c99ff751888c85e6ecff8c8a989fb244f9.webp"
+  },
+  {
+    "filename": "1990f31ffb094fd293bf2ec1f9d258efdc0a78618e8b20b1eb39a69be45fbf31.webp",
+    "size": 7336,
+    "source_rel": "bmw/models/3_series/images/1990f31ffb094fd293bf2ec1f9d258efdc0a78618e8b20b1eb39a69be45fbf31.webp"
+  },
+  {
+    "filename": "19b4c23ef8b6141869fdf3a34dce51867f48820f4373d816cc03d6f11e58e510.webp",
+    "size": 606,
+    "source_rel": "bmw/models/3_series/images/19b4c23ef8b6141869fdf3a34dce51867f48820f4373d816cc03d6f11e58e510.webp"
+  },
+  {
+    "filename": "19ea56651c71d94a4aa7dbf505abb682b6011c58290186800c87b55715ad29cd.webp",
+    "size": 5424,
+    "source_rel": "bmw/models/3_series/images/19ea56651c71d94a4aa7dbf505abb682b6011c58290186800c87b55715ad29cd.webp"
+  },
+  {
+    "filename": "1a4de1b0473f6c3662ac8da28767ed176517d16efcbae083650f23c5bfbb3203.webp",
+    "size": 11170,
+    "source_rel": "bmw/models/3_series/images/1a4de1b0473f6c3662ac8da28767ed176517d16efcbae083650f23c5bfbb3203.webp"
+  },
+  {
+    "filename": "1a52808a6e081f071b9660b8e3e97d0221447d0efe318ac159c04b24f0841b61.webp",
+    "size": 9966,
+    "source_rel": "bmw/models/3_series/images/1a52808a6e081f071b9660b8e3e97d0221447d0efe318ac159c04b24f0841b61.webp"
+  },
+  {
+    "filename": "1aba801baf9d555e21abfc04b56747ca9f4c133d1be928fde9d384f3013b94af.webp",
+    "size": 6846,
+    "source_rel": "bmw/models/3_series/images/1aba801baf9d555e21abfc04b56747ca9f4c133d1be928fde9d384f3013b94af.webp"
+  },
+  {
+    "filename": "1ae32b585827aa90e3cfa051ed2abc936d0ba0aa98dcdd65e6ed2a65655f1904.webp",
+    "size": 9352,
+    "source_rel": "bmw/models/3_series/images/1ae32b585827aa90e3cfa051ed2abc936d0ba0aa98dcdd65e6ed2a65655f1904.webp"
+  },
+  {
+    "filename": "1bd9a97f4d777aecc911a6b895673e2b068c207c5844c1ea99b6c635be58e060.webp",
+    "size": 7722,
+    "source_rel": "bmw/models/3_series/images/1bd9a97f4d777aecc911a6b895673e2b068c207c5844c1ea99b6c635be58e060.webp"
+  },
+  {
+    "filename": "1be8acf424a289ae9b75e9161e01bd8d8f38385aa2106b5b00867e7184f6c988.webp",
+    "size": 4048,
+    "source_rel": "bmw/models/3_series/images/1be8acf424a289ae9b75e9161e01bd8d8f38385aa2106b5b00867e7184f6c988.webp"
+  },
+  {
+    "filename": "1d91014ed91392e785496baffc0869f24f9ce331a1f9169cd162611466bde23f.webp",
+    "size": 5638,
+    "source_rel": "bmw/models/3_series/images/1d91014ed91392e785496baffc0869f24f9ce331a1f9169cd162611466bde23f.webp"
+  },
+  {
+    "filename": "1ea88d3bd3b16b959b2cd51cfcef710ba86f23b5e5f027d6039584323395d007.webp",
+    "size": 7202,
+    "source_rel": "bmw/models/3_series/images/1ea88d3bd3b16b959b2cd51cfcef710ba86f23b5e5f027d6039584323395d007.webp"
+  },
+  {
+    "filename": "1f6445e6ff77da0b97058faf894b0af38277a81c5d05b22d92d8919e32903b8c.webp",
+    "size": 758,
+    "source_rel": "bmw/models/3_series/images/1f6445e6ff77da0b97058faf894b0af38277a81c5d05b22d92d8919e32903b8c.webp"
+  },
+  {
+    "filename": "2052ca5dcb4ca5dae30fde782c9a5c83c4d74fc8fbe58ebe242c29aa2d92264d.webp",
+    "size": 5470,
+    "source_rel": "bmw/models/3_series/images/2052ca5dcb4ca5dae30fde782c9a5c83c4d74fc8fbe58ebe242c29aa2d92264d.webp"
+  },
+  {
+    "filename": "2085332b4befb0f5e3a5374e9de0e35398861b3afbaecee654e4cd69bbe9ee5f.webp",
+    "size": 8386,
+    "source_rel": "bmw/models/3_series/images/2085332b4befb0f5e3a5374e9de0e35398861b3afbaecee654e4cd69bbe9ee5f.webp"
+  },
+  {
+    "filename": "20e9365dae14d46e7d0c8a14f6a5f6f81357d02a63d91aafc7b11abc1f192a10.webp",
+    "size": 700,
+    "source_rel": "bmw/models/3_series/images/20e9365dae14d46e7d0c8a14f6a5f6f81357d02a63d91aafc7b11abc1f192a10.webp"
+  },
+  {
+    "filename": "217c24797f1ad090abf6e91514edfb83a0d99a35e3cc730196bdce5bda12586f.webp",
+    "size": 10692,
+    "source_rel": "bmw/models/3_series/images/217c24797f1ad090abf6e91514edfb83a0d99a35e3cc730196bdce5bda12586f.webp"
+  },
+  {
+    "filename": "21a53f861244e8d19f0ad395574015bf340c7d93828772af8acd5291d3a42ca6.webp",
+    "size": 344,
+    "source_rel": "bmw/models/3_series/images/21a53f861244e8d19f0ad395574015bf340c7d93828772af8acd5291d3a42ca6.webp"
+  },
+  {
+    "filename": "2226635239516307a923c65a93e6df35e86da9b95fafebac1b03043c155844ce.webp",
+    "size": 5748,
+    "source_rel": "bmw/models/3_series/images/2226635239516307a923c65a93e6df35e86da9b95fafebac1b03043c155844ce.webp"
+  },
+  {
+    "filename": "234723016b9fcd13d421e4362fc0f25fc46e41727efee0be3cef319bc7daec12.webp",
+    "size": 6850,
+    "source_rel": "bmw/models/3_series/images/234723016b9fcd13d421e4362fc0f25fc46e41727efee0be3cef319bc7daec12.webp"
+  },
+  {
+    "filename": "23a7b13a2ec1de8eb8e4c6e3a51ca162ff98c0580f5c0dd3a5d20a58ef74bccc.webp",
+    "size": 11058,
+    "source_rel": "bmw/models/3_series/images/23a7b13a2ec1de8eb8e4c6e3a51ca162ff98c0580f5c0dd3a5d20a58ef74bccc.webp"
+  },
+  {
+    "filename": "248e01b194a4c4416514d9b8670c51956dcb0b00c48e6736cd6616e0d01cf088.webp",
+    "size": 7180,
+    "source_rel": "bmw/models/3_series/images/248e01b194a4c4416514d9b8670c51956dcb0b00c48e6736cd6616e0d01cf088.webp"
+  },
+  {
+    "filename": "24ab0d6aca3f07e2fc99c6d785f37d3578439b64d4d50ff728fed7b6a70f5948.webp",
+    "size": 786,
+    "source_rel": "bmw/models/3_series/images/24ab0d6aca3f07e2fc99c6d785f37d3578439b64d4d50ff728fed7b6a70f5948.webp"
+  },
+  {
+    "filename": "256ad3ece70a8d6cf332275b16ef4d90bcad09e23824fa44f220216b80db2281.webp",
+    "size": 7300,
+    "source_rel": "bmw/models/3_series/images/256ad3ece70a8d6cf332275b16ef4d90bcad09e23824fa44f220216b80db2281.webp"
+  },
+  {
+    "filename": "268e03c7502ea0455cbe3a50a09a36d1fa194448c2cbb07f0bc4d22abe883d7a.webp",
+    "size": 918,
+    "source_rel": "bmw/models/3_series/images/268e03c7502ea0455cbe3a50a09a36d1fa194448c2cbb07f0bc4d22abe883d7a.webp"
+  },
+  {
+    "filename": "269c3b8ebb2f6528948c0930ae5880657259645a90bfbcd014d0d38f94bef95a.webp",
+    "size": 1598,
+    "source_rel": "bmw/models/3_series/images/269c3b8ebb2f6528948c0930ae5880657259645a90bfbcd014d0d38f94bef95a.webp"
+  },
+  {
+    "filename": "271a19de305990dfce5129d7c897f0f2d9dbb5a422aea060536d3655d7e4a5a5.webp",
+    "size": 1056,
+    "source_rel": "bmw/models/3_series/images/271a19de305990dfce5129d7c897f0f2d9dbb5a422aea060536d3655d7e4a5a5.webp"
+  },
+  {
+    "filename": "27392cd5b3e4fa05aacf75e3637a7028fa5df949e767001006d5092f4369fe6e.webp",
+    "size": 7062,
+    "source_rel": "bmw/models/3_series/images/27392cd5b3e4fa05aacf75e3637a7028fa5df949e767001006d5092f4369fe6e.webp"
+  },
+  {
+    "filename": "2754b5236244b484e773cc56655ca3c2161007a0df75348ec1095b20d8afd02c.webp",
+    "size": 4994,
+    "source_rel": "bmw/models/3_series/images/2754b5236244b484e773cc56655ca3c2161007a0df75348ec1095b20d8afd02c.webp"
+  },
+  {
+    "filename": "27b1403dab79c4c1f034cc9af056edcb1473f7821ccb17f0ed29d2c28fc0a3a3.webp",
+    "size": 8352,
+    "source_rel": "bmw/models/3_series/images/27b1403dab79c4c1f034cc9af056edcb1473f7821ccb17f0ed29d2c28fc0a3a3.webp"
+  },
+  {
+    "filename": "27ee940b43779d3a6d6fbc065f1f225e405389b08288d4c137fefdf4bb11c98f.webp",
+    "size": 784,
+    "source_rel": "bmw/models/3_series/images/27ee940b43779d3a6d6fbc065f1f225e405389b08288d4c137fefdf4bb11c98f.webp"
+  },
+  {
+    "filename": "28b8807514cbbb5642d6f0485b1498dbc50ccf5f08c0ba42a620da0f8c83c04a.webp",
+    "size": 6594,
+    "source_rel": "bmw/models/3_series/images/28b8807514cbbb5642d6f0485b1498dbc50ccf5f08c0ba42a620da0f8c83c04a.webp"
+  },
+  {
+    "filename": "2aa80a626f8a4eca64bb80efe67fa242d762dbfea8d168c013ed0be0d14306dd.webp",
+    "size": 1272,
+    "source_rel": "bmw/models/3_series/images/2aa80a626f8a4eca64bb80efe67fa242d762dbfea8d168c013ed0be0d14306dd.webp"
+  },
+  {
+    "filename": "2d4961ca1977ac4094f4fcdcbc43a7f2a5124a88b5773369e62dd53c718f75dd.webp",
+    "size": 38874,
+    "source_rel": "bmw/models/3_series/images/2d4961ca1977ac4094f4fcdcbc43a7f2a5124a88b5773369e62dd53c718f75dd.webp"
+  },
+  {
+    "filename": "300b18e83b66ecdc18453b98a3a0e6e87888d6fcd3085108f60e4bf34515079d.webp",
+    "size": 5986,
+    "source_rel": "bmw/models/3_series/images/300b18e83b66ecdc18453b98a3a0e6e87888d6fcd3085108f60e4bf34515079d.webp"
+  },
+  {
+    "filename": "317913c6f06cdae2f044a50ebd3fc1ec38b87df8d8d7ae630f324965159031ce.webp",
+    "size": 6360,
+    "source_rel": "bmw/models/3_series/images/317913c6f06cdae2f044a50ebd3fc1ec38b87df8d8d7ae630f324965159031ce.webp"
+  },
+  {
+    "filename": "319a1decefec92582c9b1420acf208ffbbebe32435dbc0075f75b305d4d64851.webp",
+    "size": 9730,
+    "source_rel": "bmw/models/3_series/images/319a1decefec92582c9b1420acf208ffbbebe32435dbc0075f75b305d4d64851.webp"
+  },
+  {
+    "filename": "31bbf68c992e5053d22ed7b49d2df032d073723bd3df5deaca4bb869aef4f1b5.webp",
+    "size": 7102,
+    "source_rel": "bmw/models/3_series/images/31bbf68c992e5053d22ed7b49d2df032d073723bd3df5deaca4bb869aef4f1b5.webp"
+  },
+  {
+    "filename": "3234ad88a823b6c87cd33c5bcc8fc6b3a09088350bd11fbf60d350786fa6f509.webp",
+    "size": 9140,
+    "source_rel": "bmw/models/3_series/images/3234ad88a823b6c87cd33c5bcc8fc6b3a09088350bd11fbf60d350786fa6f509.webp"
+  },
+  {
+    "filename": "32d03c456891cbc95a45b898420b803ea1aaaa94714205c34be8e7579eea29f8.webp",
+    "size": 9300,
+    "source_rel": "bmw/models/3_series/images/32d03c456891cbc95a45b898420b803ea1aaaa94714205c34be8e7579eea29f8.webp"
+  },
+  {
+    "filename": "33713a8f9aaea9dd04cfcbd98224738428ff4c8a430c88212c58f4262b537458.webp",
+    "size": 8262,
+    "source_rel": "bmw/models/3_series/images/33713a8f9aaea9dd04cfcbd98224738428ff4c8a430c88212c58f4262b537458.webp"
+  },
+  {
+    "filename": "35a4f773bb51c70201983c0c3816157cf58f9abbe0869cbe504b5c92e928ee6f.webp",
+    "size": 10044,
+    "source_rel": "bmw/models/3_series/images/35a4f773bb51c70201983c0c3816157cf58f9abbe0869cbe504b5c92e928ee6f.webp"
+  },
+  {
+    "filename": "35c811c91b7fbef1120ba5ab6b5ad6ead039f4d187c76aea39e5900c99382f63.webp",
+    "size": 3462,
+    "source_rel": "bmw/models/3_series/images/35c811c91b7fbef1120ba5ab6b5ad6ead039f4d187c76aea39e5900c99382f63.webp"
+  },
+  {
+    "filename": "35f18d936ab5642c7b91bce6170d8e9df36db3405316049294dff0d175d27f26.webp",
+    "size": 370,
+    "source_rel": "bmw/models/3_series/images/35f18d936ab5642c7b91bce6170d8e9df36db3405316049294dff0d175d27f26.webp"
+  },
+  {
+    "filename": "35f76858b00ef0c7500ccb44e3864a000751cd7223956ef9457e5ff97068a772.webp",
+    "size": 612,
+    "source_rel": "bmw/models/3_series/images/35f76858b00ef0c7500ccb44e3864a000751cd7223956ef9457e5ff97068a772.webp"
+  },
+  {
+    "filename": "368fd6d0a4a671bb616beca2d68b72251b4b647ca2040ef680665660dfa4fce5.webp",
+    "size": 3852,
+    "source_rel": "bmw/models/3_series/images/368fd6d0a4a671bb616beca2d68b72251b4b647ca2040ef680665660dfa4fce5.webp"
+  },
+  {
+    "filename": "37489899dd68f333c2b84a3a61e06ab53d941650cb27cc80a2c61431631ef9c2.webp",
+    "size": 662,
+    "source_rel": "bmw/models/3_series/images/37489899dd68f333c2b84a3a61e06ab53d941650cb27cc80a2c61431631ef9c2.webp"
+  },
+  {
+    "filename": "3772891a29bcef7f37a7db5e6a62c58fa19f5078c3c2999fd185b7bb3883f97f.webp",
+    "size": 596,
+    "source_rel": "bmw/models/3_series/images/3772891a29bcef7f37a7db5e6a62c58fa19f5078c3c2999fd185b7bb3883f97f.webp"
+  },
+  {
+    "filename": "37b26bf980a3dbd14b25cb73083ac2aa6c289b6dfa6a93f43d182f3ae54c08b1.webp",
+    "size": 31536,
+    "source_rel": "bmw/models/3_series/images/37b26bf980a3dbd14b25cb73083ac2aa6c289b6dfa6a93f43d182f3ae54c08b1.webp"
+  },
+  {
+    "filename": "37d1c2cd5074891910d467db18f9d99d4379754e3e9754211f11b4a597b1bc60.webp",
+    "size": 8744,
+    "source_rel": "bmw/models/3_series/images/37d1c2cd5074891910d467db18f9d99d4379754e3e9754211f11b4a597b1bc60.webp"
+  },
+  {
+    "filename": "37e60205495e0396f894976a7d58dc826cf2e4682ce2409a2d8e48d6bd72b40c.webp",
+    "size": 7312,
+    "source_rel": "bmw/models/3_series/images/37e60205495e0396f894976a7d58dc826cf2e4682ce2409a2d8e48d6bd72b40c.webp"
+  },
+  {
+    "filename": "3956a166e44515e7b3b51f00dfc34ca5aba8d1d1bef95bcb446ee7338ce88169.webp",
+    "size": 7100,
+    "source_rel": "bmw/models/3_series/images/3956a166e44515e7b3b51f00dfc34ca5aba8d1d1bef95bcb446ee7338ce88169.webp"
+  },
+  {
+    "filename": "39b0cecc82309b07bbc57dafe803de1fcb3326d0536dc85b5bcc1556e67b7f65.webp",
+    "size": 3990,
+    "source_rel": "bmw/models/3_series/images/39b0cecc82309b07bbc57dafe803de1fcb3326d0536dc85b5bcc1556e67b7f65.webp"
+  },
+  {
+    "filename": "3a59231fc363c0b0f554871ec5e48f3b0032fa15c58985c0ab025447a26ecc37.webp",
+    "size": 9710,
+    "source_rel": "bmw/models/3_series/images/3a59231fc363c0b0f554871ec5e48f3b0032fa15c58985c0ab025447a26ecc37.webp"
+  },
+  {
+    "filename": "3ac0e80bba2dafe6991c2c82c1c2f64f4b15de4149003e2a2bf7ef46a8beea74.webp",
+    "size": 1464,
+    "source_rel": "bmw/models/3_series/images/3ac0e80bba2dafe6991c2c82c1c2f64f4b15de4149003e2a2bf7ef46a8beea74.webp"
+  },
+  {
+    "filename": "3ad4c63ff34ad8a6a3be4b15c0f436ccba176bddf33b4d717a451e3fe43c6d95.webp",
+    "size": 810,
+    "source_rel": "bmw/models/3_series/images/3ad4c63ff34ad8a6a3be4b15c0f436ccba176bddf33b4d717a451e3fe43c6d95.webp"
+  },
+  {
+    "filename": "3af14c897c4b3f66bb0eb89c56f41b3f63a371c432862686f1964e8568886a72.webp",
+    "size": 642,
+    "source_rel": "bmw/models/3_series/images/3af14c897c4b3f66bb0eb89c56f41b3f63a371c432862686f1964e8568886a72.webp"
+  },
+  {
+    "filename": "3bd286ca59e48fed9291edd08d1379dde0828c81e3cf1f07be01fb1cb99ff222.webp",
+    "size": 9728,
+    "source_rel": "bmw/models/3_series/images/3bd286ca59e48fed9291edd08d1379dde0828c81e3cf1f07be01fb1cb99ff222.webp"
+  },
+  {
+    "filename": "3c379e75575f208ceee6abff0fbb8c697a230b751f90a591f9921d637e95839e.webp",
+    "size": 1916,
+    "source_rel": "bmw/models/3_series/images/3c379e75575f208ceee6abff0fbb8c697a230b751f90a591f9921d637e95839e.webp"
+  },
+  {
+    "filename": "3ca4bcd052b5f89c65828b19d71b6d759bedbf7500578710f3f38b2d7c6a866c.webp",
+    "size": 9940,
+    "source_rel": "bmw/models/3_series/images/3ca4bcd052b5f89c65828b19d71b6d759bedbf7500578710f3f38b2d7c6a866c.webp"
+  },
+  {
+    "filename": "3cb8b0e63202bf1e37bd0c2b3434ceb81c2152d195991b93c583475c3c39e7de.webp",
+    "size": 1848,
+    "source_rel": "bmw/models/3_series/images/3cb8b0e63202bf1e37bd0c2b3434ceb81c2152d195991b93c583475c3c39e7de.webp"
+  },
+  {
+    "filename": "3cbebbbe94fee891b872e658098a19a8e4dab193b6fab61e6b3ce3a03f7150e4.webp",
+    "size": 580,
+    "source_rel": "bmw/models/3_series/images/3cbebbbe94fee891b872e658098a19a8e4dab193b6fab61e6b3ce3a03f7150e4.webp"
+  },
+  {
+    "filename": "3d29ef97f941e7cf09334d919c17148ead05a4fd138c649637063cc411ce0693.webp",
+    "size": 960,
+    "source_rel": "bmw/models/3_series/images/3d29ef97f941e7cf09334d919c17148ead05a4fd138c649637063cc411ce0693.webp"
+  },
+  {
+    "filename": "3d2b5abfd7a052e5fb17e69d7bae066328e79ac6da60ba907e4ea09615f0e40d.webp",
+    "size": 5050,
+    "source_rel": "bmw/models/3_series/images/3d2b5abfd7a052e5fb17e69d7bae066328e79ac6da60ba907e4ea09615f0e40d.webp"
+  },
+  {
+    "filename": "3dfdebaa255ff3999de7f422aecab8cd40a5c5db90d84c9f842ca6791d9d71d9.webp",
+    "size": 24560,
+    "source_rel": "bmw/models/3_series/images/3dfdebaa255ff3999de7f422aecab8cd40a5c5db90d84c9f842ca6791d9d71d9.webp"
+  },
+  {
+    "filename": "3e6984671a65b80544032a7eeea763946e051c0e04814024ea407a531563c0f1.webp",
+    "size": 5000,
+    "source_rel": "bmw/models/3_series/images/3e6984671a65b80544032a7eeea763946e051c0e04814024ea407a531563c0f1.webp"
+  },
+  {
+    "filename": "3eb2a93d32c2c64d814a26892e526d7f26b8b3c3129003194ff17b29021bacd0.webp",
+    "size": 368,
+    "source_rel": "bmw/models/3_series/images/3eb2a93d32c2c64d814a26892e526d7f26b8b3c3129003194ff17b29021bacd0.webp"
+  },
+  {
+    "filename": "3f09ff6010b9bdc506c34d5a6e6b39350947b2ae3b79a333e037ea88418f327f.webp",
+    "size": 8398,
+    "source_rel": "bmw/models/3_series/images/3f09ff6010b9bdc506c34d5a6e6b39350947b2ae3b79a333e037ea88418f327f.webp"
+  },
+  {
+    "filename": "3f6fa896b1499f1d036b328d97113487f5cf405ac6f9b8b19f154afcf1b04de8.webp",
+    "size": 3838,
+    "source_rel": "bmw/models/3_series/images/3f6fa896b1499f1d036b328d97113487f5cf405ac6f9b8b19f154afcf1b04de8.webp"
+  },
+  {
+    "filename": "3f9c4895da33f0cfd5fed5374ca7d7b8b55dccb85a75569674c04673bee35679.webp",
+    "size": 13060,
+    "source_rel": "bmw/models/3_series/images/3f9c4895da33f0cfd5fed5374ca7d7b8b55dccb85a75569674c04673bee35679.webp"
+  },
+  {
+    "filename": "3fe0bdcb406836dad0c0f38d76b730eefb496088fcf952ea2b70d60d214d6a70.webp",
+    "size": 8072,
+    "source_rel": "bmw/models/3_series/images/3fe0bdcb406836dad0c0f38d76b730eefb496088fcf952ea2b70d60d214d6a70.webp"
+  },
+  {
+    "filename": "4045766bbf3dac6d38ffab2dd613348f087d609b7e6090f546cf9f1feb9c8a71.webp",
+    "size": 10252,
+    "source_rel": "bmw/models/3_series/images/4045766bbf3dac6d38ffab2dd613348f087d609b7e6090f546cf9f1feb9c8a71.webp"
+  },
+  {
+    "filename": "433a726efd7c28db1c1bab7caeb334213d0abb6efdc5bc37080e2f95f0f97d96.webp",
+    "size": 7246,
+    "source_rel": "bmw/models/3_series/images/433a726efd7c28db1c1bab7caeb334213d0abb6efdc5bc37080e2f95f0f97d96.webp"
+  },
+  {
+    "filename": "4360c6b57032a94d7990d223bcd52ee54aa19ccb996372d871f9668fd4723c6f.webp",
+    "size": 9546,
+    "source_rel": "bmw/models/3_series/images/4360c6b57032a94d7990d223bcd52ee54aa19ccb996372d871f9668fd4723c6f.webp"
+  },
+  {
+    "filename": "4393a4e419a92a8d562424c6a624b284118cabd255ad5bc9c041b0e0aa020796.webp",
+    "size": 1574,
+    "source_rel": "bmw/models/3_series/images/4393a4e419a92a8d562424c6a624b284118cabd255ad5bc9c041b0e0aa020796.webp"
+  },
+  {
+    "filename": "43d7152e09a7a2c173f8f7b1c1dd46c75a602491f77ee4e35fedd3b86f0682a1.webp",
+    "size": 6444,
+    "source_rel": "bmw/models/3_series/images/43d7152e09a7a2c173f8f7b1c1dd46c75a602491f77ee4e35fedd3b86f0682a1.webp"
+  },
+  {
+    "filename": "440ac14a0bd35ef5e99ff1a667ff40654d9b0b57ca78735117325d04b00b4def.webp",
+    "size": 5872,
+    "source_rel": "bmw/models/3_series/images/440ac14a0bd35ef5e99ff1a667ff40654d9b0b57ca78735117325d04b00b4def.webp"
+  },
+  {
+    "filename": "447be0ecf072fbe61afb4a223be09f01fd09b6eb1b2b122b92ac0ce1db75627f.webp",
+    "size": 7726,
+    "source_rel": "bmw/models/3_series/images/447be0ecf072fbe61afb4a223be09f01fd09b6eb1b2b122b92ac0ce1db75627f.webp"
+  },
+  {
+    "filename": "448e5f933b92c2e25c43bc43b92e618b9378552088118d5c836cdade73afb9ad.webp",
+    "size": 814,
+    "source_rel": "bmw/models/3_series/images/448e5f933b92c2e25c43bc43b92e618b9378552088118d5c836cdade73afb9ad.webp"
+  },
+  {
+    "filename": "45c77261356587c046bef8d5bd9ec27ffcac646fd74007a98e3590958bde6021.webp",
+    "size": 9494,
+    "source_rel": "bmw/models/3_series/images/45c77261356587c046bef8d5bd9ec27ffcac646fd74007a98e3590958bde6021.webp"
+  },
+  {
+    "filename": "46033c0bdd4205dafdd9f61b428233b5f5519a14c0d34ad56ad48f47861fc58c.webp",
+    "size": 9722,
+    "source_rel": "bmw/models/3_series/images/46033c0bdd4205dafdd9f61b428233b5f5519a14c0d34ad56ad48f47861fc58c.webp"
+  },
+  {
+    "filename": "46035902455c3041b173644d1e60adfd2aabfa3d2807e7a7eba1ca5ff0e12641.webp",
+    "size": 5762,
+    "source_rel": "bmw/models/3_series/images/46035902455c3041b173644d1e60adfd2aabfa3d2807e7a7eba1ca5ff0e12641.webp"
+  },
+  {
+    "filename": "462f1814b9acb36f4aa7132c5a8cb24695dfb1c003907c8063e373ad56979625.webp",
+    "size": 924,
+    "source_rel": "bmw/models/3_series/images/462f1814b9acb36f4aa7132c5a8cb24695dfb1c003907c8063e373ad56979625.webp"
+  },
+  {
+    "filename": "473fdc00049709aef1ab1df5bbfe6f41845df42713362147f91b547ec0301d66.webp",
+    "size": 9518,
+    "source_rel": "bmw/models/3_series/images/473fdc00049709aef1ab1df5bbfe6f41845df42713362147f91b547ec0301d66.webp"
+  },
+  {
+    "filename": "4781aa2bb3eea9ee4a60fa7b6763c00873572139d2d2d6fe09aaeb6a8ff99a9a.webp",
+    "size": 614,
+    "source_rel": "bmw/models/3_series/images/4781aa2bb3eea9ee4a60fa7b6763c00873572139d2d2d6fe09aaeb6a8ff99a9a.webp"
+  },
+  {
+    "filename": "47c8d768186f32f77c7c272f8cf7a6d37bbd9a45604ca856975b4d36d64aedd4.webp",
+    "size": 7186,
+    "source_rel": "bmw/models/3_series/images/47c8d768186f32f77c7c272f8cf7a6d37bbd9a45604ca856975b4d36d64aedd4.webp"
+  },
+  {
+    "filename": "47f743a5998ee5b8222fb5812b94eb0fcbfffcf9786045458553d9dd1f6ecadd.webp",
+    "size": 9254,
+    "source_rel": "bmw/models/3_series/images/47f743a5998ee5b8222fb5812b94eb0fcbfffcf9786045458553d9dd1f6ecadd.webp"
+  },
+  {
+    "filename": "483a9f60514f5ed55d373b618f1b9929ab692818b3c52b03ccb0332fd95f0418.webp",
+    "size": 7810,
+    "source_rel": "bmw/models/3_series/images/483a9f60514f5ed55d373b618f1b9929ab692818b3c52b03ccb0332fd95f0418.webp"
+  },
+  {
+    "filename": "49891c06db87941ddaa1c4bcdc1a1fe0cdadca42e41e1aedb5d48f3c1ecfde4f.webp",
+    "size": 1856,
+    "source_rel": "bmw/models/3_series/images/49891c06db87941ddaa1c4bcdc1a1fe0cdadca42e41e1aedb5d48f3c1ecfde4f.webp"
+  },
+  {
+    "filename": "4a2c1ce32107f3ac8e7b50b4f8bca828975088f16f8e774ca5e178d1ac0c196d.webp",
+    "size": 366,
+    "source_rel": "bmw/models/3_series/images/4a2c1ce32107f3ac8e7b50b4f8bca828975088f16f8e774ca5e178d1ac0c196d.webp"
+  },
+  {
+    "filename": "4a55adc088de0242c1c82988431fe3cafb6c949b7ee54186481ca8d05b0001ca.webp",
+    "size": 13854,
+    "source_rel": "bmw/models/3_series/images/4a55adc088de0242c1c82988431fe3cafb6c949b7ee54186481ca8d05b0001ca.webp"
+  },
+  {
+    "filename": "4aaa32df6a77b17be6981f49856957f0f6511f653577b23179d5bac8b2f4fcb6.webp",
+    "size": 678,
+    "source_rel": "bmw/models/3_series/images/4aaa32df6a77b17be6981f49856957f0f6511f653577b23179d5bac8b2f4fcb6.webp"
+  },
+  {
+    "filename": "4b00edd9d5732e0cc3a1807e88a0f82eb4eb37bf9096481569a08de52f18e513.webp",
+    "size": 9262,
+    "source_rel": "bmw/models/3_series/images/4b00edd9d5732e0cc3a1807e88a0f82eb4eb37bf9096481569a08de52f18e513.webp"
+  },
+  {
+    "filename": "4b1e9527a3ca2ccede30869493ca77a7ae51c0f0ad7c06163b15a981d70d5763.webp",
+    "size": 7418,
+    "source_rel": "bmw/models/3_series/images/4b1e9527a3ca2ccede30869493ca77a7ae51c0f0ad7c06163b15a981d70d5763.webp"
+  },
+  {
+    "filename": "4b495e08e549ffe94020943cce67e9a3bbf4687e2f95a62f23312585b350399c.webp",
+    "size": 6098,
+    "source_rel": "bmw/models/3_series/images/4b495e08e549ffe94020943cce67e9a3bbf4687e2f95a62f23312585b350399c.webp"
+  },
+  {
+    "filename": "4bb1da574cb5315a77c90785e7b8f72555af5a518e21f71b5ac8f606c2d0b75d.webp",
+    "size": 698,
+    "source_rel": "bmw/models/3_series/images/4bb1da574cb5315a77c90785e7b8f72555af5a518e21f71b5ac8f606c2d0b75d.webp"
+  },
+  {
+    "filename": "4c64b9ac5391333d8dffb34b93a5f33cbe6bb30bcb70dfb24e7201207ab36809.webp",
+    "size": 2214,
+    "source_rel": "bmw/models/3_series/images/4c64b9ac5391333d8dffb34b93a5f33cbe6bb30bcb70dfb24e7201207ab36809.webp"
+  },
+  {
+    "filename": "4e0601aa559ccd5a463a08189476b6a01dfd8a6e1964fddb907bf0c9ed3e8364.webp",
+    "size": 4650,
+    "source_rel": "bmw/models/3_series/images/4e0601aa559ccd5a463a08189476b6a01dfd8a6e1964fddb907bf0c9ed3e8364.webp"
+  },
+  {
+    "filename": "4e8be0940c4653019c43634597da0694b2e945cb23e859c78911ea9daee0a013.webp",
+    "size": 7396,
+    "source_rel": "bmw/models/3_series/images/4e8be0940c4653019c43634597da0694b2e945cb23e859c78911ea9daee0a013.webp"
+  },
+  {
+    "filename": "4eb7082dd4dafe73af5263c1a8f97ac3fbdb78edbd44c2cd912b7c47c382a993.webp",
+    "size": 18220,
+    "source_rel": "bmw/models/3_series/images/4eb7082dd4dafe73af5263c1a8f97ac3fbdb78edbd44c2cd912b7c47c382a993.webp"
+  },
+  {
+    "filename": "4fafa6f7264d877082a5a46a8193ec91a879117026f1312ab711aaec22281124.webp",
+    "size": 368,
+    "source_rel": "bmw/models/3_series/images/4fafa6f7264d877082a5a46a8193ec91a879117026f1312ab711aaec22281124.webp"
+  },
+  {
+    "filename": "514beac1face3bc4acdf1418b15aca0752524d92822cb37abc71407502bb5879.webp",
+    "size": 8178,
+    "source_rel": "bmw/models/3_series/images/514beac1face3bc4acdf1418b15aca0752524d92822cb37abc71407502bb5879.webp"
+  },
+  {
+    "filename": "527fad0e3b6b907e060e4afa13e5ca7bc033bafe98d1068d7afa591bd21df396.webp",
+    "size": 7362,
+    "source_rel": "bmw/models/3_series/images/527fad0e3b6b907e060e4afa13e5ca7bc033bafe98d1068d7afa591bd21df396.webp"
+  },
+  {
+    "filename": "53282292d56cea82a6fb61a957f4c66f6d9b8505d1b2a2d88cf6f592b7741a3c.webp",
+    "size": 714,
+    "source_rel": "bmw/models/3_series/images/53282292d56cea82a6fb61a957f4c66f6d9b8505d1b2a2d88cf6f592b7741a3c.webp"
+  },
+  {
+    "filename": "53a54c162ef3ac31c0b20dc4c902e27837889a858239e456d4c7343946383d8e.webp",
+    "size": 524,
+    "source_rel": "bmw/models/3_series/images/53a54c162ef3ac31c0b20dc4c902e27837889a858239e456d4c7343946383d8e.webp"
+  },
+  {
+    "filename": "541d4edd7370b4d2d6bfb54ef955450542997c2c5c00eb3d495cc1d37a21748f.webp",
+    "size": 7694,
+    "source_rel": "bmw/models/3_series/images/541d4edd7370b4d2d6bfb54ef955450542997c2c5c00eb3d495cc1d37a21748f.webp"
+  },
+  {
+    "filename": "54ee30c77db207bbf581b71174b16d4ec5826e67d551d8a37844c16db56f60d3.webp",
+    "size": 7996,
+    "source_rel": "bmw/models/3_series/images/54ee30c77db207bbf581b71174b16d4ec5826e67d551d8a37844c16db56f60d3.webp"
+  },
+  {
+    "filename": "54f66bb1071bb837797a30656a01879ac62494396f47fe38a0f3c4a41dbaac30.webp",
+    "size": 8150,
+    "source_rel": "bmw/models/3_series/images/54f66bb1071bb837797a30656a01879ac62494396f47fe38a0f3c4a41dbaac30.webp"
+  },
+  {
+    "filename": "550566d339dca4f5befe89789330b7cbccf9ceb23a4c529dc2224a0bdc2a54da.webp",
+    "size": 5550,
+    "source_rel": "bmw/models/3_series/images/550566d339dca4f5befe89789330b7cbccf9ceb23a4c529dc2224a0bdc2a54da.webp"
+  },
+  {
+    "filename": "55b43ad6bfc10026709ac7851db389961a6ccd6e43e96c3c92a2933997600be6.webp",
+    "size": 7186,
+    "source_rel": "bmw/models/3_series/images/55b43ad6bfc10026709ac7851db389961a6ccd6e43e96c3c92a2933997600be6.webp"
+  },
+  {
+    "filename": "56070ec2d48e76264160cfc846308079bfd622b2855e727d24bf5c6c4bd51026.webp",
+    "size": 10572,
+    "source_rel": "bmw/models/3_series/images/56070ec2d48e76264160cfc846308079bfd622b2855e727d24bf5c6c4bd51026.webp"
+  },
+  {
+    "filename": "56343dc21aad837c94ac27fd1fc60030256fde1129c0d34f2f2729d62bd8d2ac.webp",
+    "size": 8650,
+    "source_rel": "bmw/models/3_series/images/56343dc21aad837c94ac27fd1fc60030256fde1129c0d34f2f2729d62bd8d2ac.webp"
+  },
+  {
+    "filename": "5654c8061b15759894d92913f94b8bd1dc14a7166a00b9b485e592aeeba303d9.webp",
+    "size": 182,
+    "source_rel": "bmw/models/3_series/images/5654c8061b15759894d92913f94b8bd1dc14a7166a00b9b485e592aeeba303d9.webp"
+  },
+  {
+    "filename": "567d15364da62936cca678d2be9f027826a7a4a20f5d4874f8d0ea22a5cd38bf.webp",
+    "size": 10564,
+    "source_rel": "bmw/models/3_series/images/567d15364da62936cca678d2be9f027826a7a4a20f5d4874f8d0ea22a5cd38bf.webp"
+  },
+  {
+    "filename": "570188c9f6ae4eb278640d9e41ad02b1e3f3d00b82d3bcc18325fe5ea11a5923.webp",
+    "size": 9138,
+    "source_rel": "bmw/models/3_series/images/570188c9f6ae4eb278640d9e41ad02b1e3f3d00b82d3bcc18325fe5ea11a5923.webp"
+  },
+  {
+    "filename": "58bf0c8f9eddf6b5031c4b0813359b2da0106c0f0e44232b598dd2a7ff2b0ba7.webp",
+    "size": 19434,
+    "source_rel": "bmw/models/3_series/images/58bf0c8f9eddf6b5031c4b0813359b2da0106c0f0e44232b598dd2a7ff2b0ba7.webp"
+  },
+  {
+    "filename": "5a8a371dd9225eceba48267786fc5cbad4656d6e230e21297bd8554a99d6f1f4.webp",
+    "size": 7030,
+    "source_rel": "bmw/models/3_series/images/5a8a371dd9225eceba48267786fc5cbad4656d6e230e21297bd8554a99d6f1f4.webp"
+  },
+  {
+    "filename": "5bb730e7dc570f329330cafafb1a09f447c121e76cc54828809238a33f08f839.webp",
+    "size": 6844,
+    "source_rel": "bmw/models/3_series/images/5bb730e7dc570f329330cafafb1a09f447c121e76cc54828809238a33f08f839.webp"
+  },
+  {
+    "filename": "5c90449e56d524848926dbcdfa2d340c8f6f00ab8d7930b1453f7fba81c6599f.webp",
+    "size": 10658,
+    "source_rel": "bmw/models/3_series/images/5c90449e56d524848926dbcdfa2d340c8f6f00ab8d7930b1453f7fba81c6599f.webp"
+  },
+  {
+    "filename": "5d6038b99130ec4d11e17bb57ce2ac93876bbdfa369f32f2af5e78f4519b5f73.webp",
+    "size": 404,
+    "source_rel": "bmw/models/3_series/images/5d6038b99130ec4d11e17bb57ce2ac93876bbdfa369f32f2af5e78f4519b5f73.webp"
+  },
+  {
+    "filename": "5d8204deaeb1322c0aa9b31f2bd94d0e1faf399c6a79860a31977ecabfa34562.webp",
+    "size": 34884,
+    "source_rel": "bmw/models/3_series/images/5d8204deaeb1322c0aa9b31f2bd94d0e1faf399c6a79860a31977ecabfa34562.webp"
+  },
+  {
+    "filename": "5d8c15ac40bc06e504b7484a70e91a6c96e0f9599999452091c0f811bce54d0a.webp",
+    "size": 614,
+    "source_rel": "bmw/models/3_series/images/5d8c15ac40bc06e504b7484a70e91a6c96e0f9599999452091c0f811bce54d0a.webp"
+  },
+  {
+    "filename": "60777c8b8995a90a40199a42096cdc93b3120ef0920524081929ae80774b661c.webp",
+    "size": 9630,
+    "source_rel": "bmw/models/3_series/images/60777c8b8995a90a40199a42096cdc93b3120ef0920524081929ae80774b661c.webp"
+  },
+  {
+    "filename": "60ca49a78ad10d60e1254dd176f562583332c7b091ee8f21e613dd1b761ab479.webp",
+    "size": 1442,
+    "source_rel": "bmw/models/3_series/images/60ca49a78ad10d60e1254dd176f562583332c7b091ee8f21e613dd1b761ab479.webp"
+  },
+  {
+    "filename": "615683b93828e92b35b9214ac1513736751a1e9bfc219fda50f822bdae443e32.webp",
+    "size": 9256,
+    "source_rel": "bmw/models/3_series/images/615683b93828e92b35b9214ac1513736751a1e9bfc219fda50f822bdae443e32.webp"
+  },
+  {
+    "filename": "61a5017d164700712ce2bf37308a0d0cda789ef8b44d18fcaa067f209a66a0c2.webp",
+    "size": 8974,
+    "source_rel": "bmw/models/3_series/images/61a5017d164700712ce2bf37308a0d0cda789ef8b44d18fcaa067f209a66a0c2.webp"
+  },
+  {
+    "filename": "61c5d1407ea50416e9ff7a1cb418db5468d8cfe103e5c89ae5edaccbdbabecac.webp",
+    "size": 3336,
+    "source_rel": "bmw/models/3_series/images/61c5d1407ea50416e9ff7a1cb418db5468d8cfe103e5c89ae5edaccbdbabecac.webp"
+  },
+  {
+    "filename": "6259cef3cc0d456a8fc925071bfd292f964e62bfbf06114e86ff3141fb7ac6db.webp",
+    "size": 7870,
+    "source_rel": "bmw/models/3_series/images/6259cef3cc0d456a8fc925071bfd292f964e62bfbf06114e86ff3141fb7ac6db.webp"
+  },
+  {
+    "filename": "62de423e6ff235a21a326d8587ef294446a27f0e2afd047195c13c8c5e601c7e.webp",
+    "size": 33008,
+    "source_rel": "bmw/models/3_series/images/62de423e6ff235a21a326d8587ef294446a27f0e2afd047195c13c8c5e601c7e.webp"
+  },
+  {
+    "filename": "6339444cdbc425ca48d63fe86bd09599dfa90f07dcf56d60892a330de1708ede.webp",
+    "size": 588,
+    "source_rel": "bmw/models/3_series/images/6339444cdbc425ca48d63fe86bd09599dfa90f07dcf56d60892a330de1708ede.webp"
+  },
+  {
+    "filename": "63eba61304a6e31a23845453bf731dc21929d4696969bd432411e6f2eba7437d.webp",
+    "size": 4970,
+    "source_rel": "bmw/models/3_series/images/63eba61304a6e31a23845453bf731dc21929d4696969bd432411e6f2eba7437d.webp"
+  },
+  {
+    "filename": "649723fadfaf7ce3bb419e89bc6e3f89f6d920341f6426c0319e07138465f5f8.webp",
+    "size": 9114,
+    "source_rel": "bmw/models/3_series/images/649723fadfaf7ce3bb419e89bc6e3f89f6d920341f6426c0319e07138465f5f8.webp"
+  },
+  {
+    "filename": "64c851a51b8425a41596148591f4fe2fca056b202ddee908d4048cf977c67422.webp",
+    "size": 626,
+    "source_rel": "bmw/models/3_series/images/64c851a51b8425a41596148591f4fe2fca056b202ddee908d4048cf977c67422.webp"
+  },
+  {
+    "filename": "657e4ed09563f76d07b4e18d346924c5f16fb3e88ee1d9da740b325f0ba45f06.webp",
+    "size": 7466,
+    "source_rel": "bmw/models/3_series/images/657e4ed09563f76d07b4e18d346924c5f16fb3e88ee1d9da740b325f0ba45f06.webp"
+  },
+  {
+    "filename": "65e1189c81e04d1b21f4a36b0ca9a12808728e39b87403e642a4e7287dec8761.webp",
+    "size": 11536,
+    "source_rel": "bmw/models/3_series/images/65e1189c81e04d1b21f4a36b0ca9a12808728e39b87403e642a4e7287dec8761.webp"
+  },
+  {
+    "filename": "66a759c409d76f60dae6be41107379deff71b3eb6d3493638915f52d47f5ab46.webp",
+    "size": 9552,
+    "source_rel": "bmw/models/3_series/images/66a759c409d76f60dae6be41107379deff71b3eb6d3493638915f52d47f5ab46.webp"
+  },
+  {
+    "filename": "66c4487b7759f8d948485b782e290022af6846e5a953e1fbbd4f839ecdd2f1ec.webp",
+    "size": 2246,
+    "source_rel": "bmw/models/3_series/images/66c4487b7759f8d948485b782e290022af6846e5a953e1fbbd4f839ecdd2f1ec.webp"
+  },
+  {
+    "filename": "66d0ce7d1d2d7ab37d00e9200e8f21f9d17d4a9a09fa1f187d398a71dc516e4d.webp",
+    "size": 8092,
+    "source_rel": "bmw/models/3_series/images/66d0ce7d1d2d7ab37d00e9200e8f21f9d17d4a9a09fa1f187d398a71dc516e4d.webp"
+  },
+  {
+    "filename": "674aa284ef8c5f798de226533e8d60ab6a702e6d6212a2b3d653c49c5b3d515b.webp",
+    "size": 8888,
+    "source_rel": "bmw/models/3_series/images/674aa284ef8c5f798de226533e8d60ab6a702e6d6212a2b3d653c49c5b3d515b.webp"
+  },
+  {
+    "filename": "67bf18989d66be3aba151fefa3ed84205ab15f22b2d4e859bfb402dcded66030.webp",
+    "size": 10270,
+    "source_rel": "bmw/models/3_series/images/67bf18989d66be3aba151fefa3ed84205ab15f22b2d4e859bfb402dcded66030.webp"
+  },
+  {
+    "filename": "68a12b55361457cd0638449b5d56fc8c097a49cb644456cbaa54efafe98611ce.webp",
+    "size": 5204,
+    "source_rel": "bmw/models/3_series/images/68a12b55361457cd0638449b5d56fc8c097a49cb644456cbaa54efafe98611ce.webp"
+  },
+  {
+    "filename": "69980ec80ae5efc20a2c2f79143b866ac12017325c47fdd33bc4003790273802.webp",
+    "size": 9420,
+    "source_rel": "bmw/models/3_series/images/69980ec80ae5efc20a2c2f79143b866ac12017325c47fdd33bc4003790273802.webp"
+  },
+  {
+    "filename": "69dd37bab2403bb5376659c3fa1b3f60a5e299c4a3e44602899c55a3d6a34f2b.webp",
+    "size": 7986,
+    "source_rel": "bmw/models/3_series/images/69dd37bab2403bb5376659c3fa1b3f60a5e299c4a3e44602899c55a3d6a34f2b.webp"
+  },
+  {
+    "filename": "6a21060ee8ad00d9517b72cc552163ea3d5c01dcaf45488fe4612d283d1abb7f.webp",
+    "size": 2132,
+    "source_rel": "bmw/models/3_series/images/6a21060ee8ad00d9517b72cc552163ea3d5c01dcaf45488fe4612d283d1abb7f.webp"
+  },
+  {
+    "filename": "6bfe03a724a814263f9ab79e55d9c76e457cf97e6b7ea432d1f9acc281e075d8.webp",
+    "size": 500,
+    "source_rel": "bmw/models/3_series/images/6bfe03a724a814263f9ab79e55d9c76e457cf97e6b7ea432d1f9acc281e075d8.webp"
+  },
+  {
+    "filename": "6c102f6eecef094f4bac4e41e8416b68ee477e62c8be9ca49ddf4ac5cffef6c3.webp",
+    "size": 11630,
+    "source_rel": "bmw/models/3_series/images/6c102f6eecef094f4bac4e41e8416b68ee477e62c8be9ca49ddf4ac5cffef6c3.webp"
+  },
+  {
+    "filename": "6c59a138e9691810c046c1305e18bf7a8411d3628678c1006b8173f03a94b734.webp",
+    "size": 7234,
+    "source_rel": "bmw/models/3_series/images/6c59a138e9691810c046c1305e18bf7a8411d3628678c1006b8173f03a94b734.webp"
+  },
+  {
+    "filename": "6cfb044f13a1adee9a4fca169439c7fcbe42b3f45579ce7c801d9c18153f5188.webp",
+    "size": 4764,
+    "source_rel": "bmw/models/3_series/images/6cfb044f13a1adee9a4fca169439c7fcbe42b3f45579ce7c801d9c18153f5188.webp"
+  },
+  {
+    "filename": "6d442a65a06a1692750adc09216d5567e2bc1bf1cd078c7bcffc6dd5010cdcdf.webp",
+    "size": 1614,
+    "source_rel": "bmw/models/3_series/images/6d442a65a06a1692750adc09216d5567e2bc1bf1cd078c7bcffc6dd5010cdcdf.webp"
+  },
+  {
+    "filename": "6d99073427a2ce2761527483c070432ddac473ef88cc23c712c7125f5d3fae24.webp",
+    "size": 3138,
+    "source_rel": "bmw/models/3_series/images/6d99073427a2ce2761527483c070432ddac473ef88cc23c712c7125f5d3fae24.webp"
+  },
+  {
+    "filename": "6ddc78d0f2f46da906ad66bb224c81873076b607aec3a9cc3a0514d80400fe82.webp",
+    "size": 6284,
+    "source_rel": "bmw/models/3_series/images/6ddc78d0f2f46da906ad66bb224c81873076b607aec3a9cc3a0514d80400fe82.webp"
+  },
+  {
+    "filename": "6e5897e989c3019b3d5069d22abf2c40bfd21f4eb8eca9d06fb130d2119cea53.webp",
+    "size": 8898,
+    "source_rel": "bmw/models/3_series/images/6e5897e989c3019b3d5069d22abf2c40bfd21f4eb8eca9d06fb130d2119cea53.webp"
+  },
+  {
+    "filename": "6ef35ea869e234095b2e484b5317013b85b060a06efde6fced008fe0cc72cc68.webp",
+    "size": 936,
+    "source_rel": "bmw/models/3_series/images/6ef35ea869e234095b2e484b5317013b85b060a06efde6fced008fe0cc72cc68.webp"
+  },
+  {
+    "filename": "6fc0996801e54bdd83ceed04020a33cf8c165b140d606f165f9d8a2ce41cb5bc.webp",
+    "size": 12700,
+    "source_rel": "bmw/models/3_series/images/6fc0996801e54bdd83ceed04020a33cf8c165b140d606f165f9d8a2ce41cb5bc.webp"
+  },
+  {
+    "filename": "7091f25c15488c063d4dddd6f5c6e9391ca002ee73e1e8efcd375e2ab5a95c22.webp",
+    "size": 1840,
+    "source_rel": "bmw/models/3_series/images/7091f25c15488c063d4dddd6f5c6e9391ca002ee73e1e8efcd375e2ab5a95c22.webp"
+  },
+  {
+    "filename": "730594fc76a75a97520e737c0a287518b2c1a373a84d1d69b590af470412eaa0.webp",
+    "size": 7838,
+    "source_rel": "bmw/models/3_series/images/730594fc76a75a97520e737c0a287518b2c1a373a84d1d69b590af470412eaa0.webp"
+  },
+  {
+    "filename": "732ff5b7b4a0f966ee049f7bc9dd40a2bfcf68bcbb7fb9970e08147d86c8551b.webp",
+    "size": 9996,
+    "source_rel": "bmw/models/3_series/images/732ff5b7b4a0f966ee049f7bc9dd40a2bfcf68bcbb7fb9970e08147d86c8551b.webp"
+  },
+  {
+    "filename": "7347cb106e62db39a2ee05ea6c4e3cd762bc3b591feab9dac9b621c7148f2136.webp",
+    "size": 6704,
+    "source_rel": "bmw/models/3_series/images/7347cb106e62db39a2ee05ea6c4e3cd762bc3b591feab9dac9b621c7148f2136.webp"
+  },
+  {
+    "filename": "741494b9df6937f895746e155601f9d77fbbc8a4ef5b037afaf75208abe5f32c.webp",
+    "size": 4388,
+    "source_rel": "bmw/models/3_series/images/741494b9df6937f895746e155601f9d77fbbc8a4ef5b037afaf75208abe5f32c.webp"
+  },
+  {
+    "filename": "7435a856a0729fa22d9c3b48e072ac618c4e6817914389787d063668f23ba052.webp",
+    "size": 8528,
+    "source_rel": "bmw/models/3_series/images/7435a856a0729fa22d9c3b48e072ac618c4e6817914389787d063668f23ba052.webp"
+  },
+  {
+    "filename": "74cf9539f474aa8760d15c35e7f78d07ae90960d9229024c368a5da172a32c9c.webp",
+    "size": 1712,
+    "source_rel": "bmw/models/3_series/images/74cf9539f474aa8760d15c35e7f78d07ae90960d9229024c368a5da172a32c9c.webp"
+  },
+  {
+    "filename": "753311ed18598ffab2fbf559135e9905b75d57b76740237c4bd6db7424cf417a.webp",
+    "size": 12402,
+    "source_rel": "bmw/models/3_series/images/753311ed18598ffab2fbf559135e9905b75d57b76740237c4bd6db7424cf417a.webp"
+  },
+  {
+    "filename": "7772bd405a4dffdf1d920072515bd20712292eff778ab5e8512789e042b7e77c.webp",
+    "size": 6984,
+    "source_rel": "bmw/models/3_series/images/7772bd405a4dffdf1d920072515bd20712292eff778ab5e8512789e042b7e77c.webp"
+  },
+  {
+    "filename": "78e816ea502c6fd0a68e0019ca685ab3b9c96f7dd2e851995910fdb06be86b1f.webp",
+    "size": 692,
+    "source_rel": "bmw/models/3_series/images/78e816ea502c6fd0a68e0019ca685ab3b9c96f7dd2e851995910fdb06be86b1f.webp"
+  },
+  {
+    "filename": "79aa8ce35c1527f71d20099d8550ba7f508838dfdff7f91cead7cb15b5b1a549.webp",
+    "size": 9392,
+    "source_rel": "bmw/models/3_series/images/79aa8ce35c1527f71d20099d8550ba7f508838dfdff7f91cead7cb15b5b1a549.webp"
+  },
+  {
+    "filename": "79d04a191adbffdd6d89070efe26b4596fc6892159a78389a380029233a1f7c0.webp",
+    "size": 5764,
+    "source_rel": "bmw/models/3_series/images/79d04a191adbffdd6d89070efe26b4596fc6892159a78389a380029233a1f7c0.webp"
+  },
+  {
+    "filename": "7a55e3f8de8b6de283f07ed471d77b694f639b6fdacde6c38d5832dcb8ce6255.webp",
+    "size": 9246,
+    "source_rel": "bmw/models/3_series/images/7a55e3f8de8b6de283f07ed471d77b694f639b6fdacde6c38d5832dcb8ce6255.webp"
+  },
+  {
+    "filename": "7aa33047e67257a8fb4f612d50a42c641bd9118c904aae026497e579181d1cf0.webp",
+    "size": 9706,
+    "source_rel": "bmw/models/3_series/images/7aa33047e67257a8fb4f612d50a42c641bd9118c904aae026497e579181d1cf0.webp"
+  },
+  {
+    "filename": "7c0724f6b82ef5fad81671315da004e0f52d39a6afe64d9f8a849532b4ecf118.webp",
+    "size": 10726,
+    "source_rel": "bmw/models/3_series/images/7c0724f6b82ef5fad81671315da004e0f52d39a6afe64d9f8a849532b4ecf118.webp"
+  },
+  {
+    "filename": "7c09dbc734b6188073a3954a44b097f09222169657ccb97a13abe9a673d4ae14.webp",
+    "size": 4458,
+    "source_rel": "bmw/models/3_series/images/7c09dbc734b6188073a3954a44b097f09222169657ccb97a13abe9a673d4ae14.webp"
+  },
+  {
+    "filename": "7cc17eb108158b8fdd80f6123e8c5fc7eb7da677fc63f1de0b849c409be607a2.webp",
+    "size": 5380,
+    "source_rel": "bmw/models/3_series/images/7cc17eb108158b8fdd80f6123e8c5fc7eb7da677fc63f1de0b849c409be607a2.webp"
+  },
+  {
+    "filename": "7dff2f1a1caa11ba5b0318e671ae4450a0e3d8a640b8994a0921d53f5a182d1d.webp",
+    "size": 19262,
+    "source_rel": "bmw/models/3_series/images/7dff2f1a1caa11ba5b0318e671ae4450a0e3d8a640b8994a0921d53f5a182d1d.webp"
+  },
+  {
+    "filename": "7e567cce8d3527990206b41f09c785a75ac733834a49c9a69286bc917a639b7d.webp",
+    "size": 30984,
+    "source_rel": "bmw/models/3_series/images/7e567cce8d3527990206b41f09c785a75ac733834a49c9a69286bc917a639b7d.webp"
+  },
+  {
+    "filename": "7eb48b1793386c1bdfeeddca0b8bce1eda1073003b8dc8f6458d0ef58f733a69.webp",
+    "size": 8982,
+    "source_rel": "bmw/models/3_series/images/7eb48b1793386c1bdfeeddca0b8bce1eda1073003b8dc8f6458d0ef58f733a69.webp"
+  },
+  {
+    "filename": "7f23f0a44a97eee867d5da95ab08d54b67765dfdde1fb5e20bbaf413e9bf9742.webp",
+    "size": 9180,
+    "source_rel": "bmw/models/3_series/images/7f23f0a44a97eee867d5da95ab08d54b67765dfdde1fb5e20bbaf413e9bf9742.webp"
+  },
+  {
+    "filename": "7f4da626cd8d40754815083568b78923c2cd86292825775e58ae90df09e8cdd2.webp",
+    "size": 1458,
+    "source_rel": "bmw/models/3_series/images/7f4da626cd8d40754815083568b78923c2cd86292825775e58ae90df09e8cdd2.webp"
+  },
+  {
+    "filename": "7f4f58f53f035511e395ac757c6a8dda05f01d94c210f0e7f21cb3baa8cb0c64.webp",
+    "size": 542,
+    "source_rel": "bmw/models/3_series/images/7f4f58f53f035511e395ac757c6a8dda05f01d94c210f0e7f21cb3baa8cb0c64.webp"
+  },
+  {
+    "filename": "7ffbb5a32dabf6c21b4a68591b8572ae59172e1234f5979b86bb4b068c68f84a.webp",
+    "size": 746,
+    "source_rel": "bmw/models/3_series/images/7ffbb5a32dabf6c21b4a68591b8572ae59172e1234f5979b86bb4b068c68f84a.webp"
+  },
+  {
+    "filename": "8089e2967e41d248a433e0281935ff2f2fe62d1e7328c8cb93d40e5a6965465e.webp",
+    "size": 11614,
+    "source_rel": "bmw/models/3_series/images/8089e2967e41d248a433e0281935ff2f2fe62d1e7328c8cb93d40e5a6965465e.webp"
+  },
+  {
+    "filename": "809ad2aa4f3bb8c790f65f90a14b385cf4393b479c465de663e4a27e901ed448.webp",
+    "size": 380,
+    "source_rel": "bmw/models/3_series/images/809ad2aa4f3bb8c790f65f90a14b385cf4393b479c465de663e4a27e901ed448.webp"
+  },
+  {
+    "filename": "813dcd59987a88ae53586972b850200793aa9ac2dbacce34fcf3867b097f2e27.webp",
+    "size": 4172,
+    "source_rel": "bmw/models/3_series/images/813dcd59987a88ae53586972b850200793aa9ac2dbacce34fcf3867b097f2e27.webp"
+  },
+  {
+    "filename": "81637ba80e0a29aba217d76333dc707d40f07099d89a39e753e42739e4d91499.webp",
+    "size": 7340,
+    "source_rel": "bmw/models/3_series/images/81637ba80e0a29aba217d76333dc707d40f07099d89a39e753e42739e4d91499.webp"
+  },
+  {
+    "filename": "82aa19c3c8d02879b251d81b3669e264499ff2362404b860af454386b58964aa.webp",
+    "size": 2738,
+    "source_rel": "bmw/models/3_series/images/82aa19c3c8d02879b251d81b3669e264499ff2362404b860af454386b58964aa.webp"
+  },
+  {
+    "filename": "83255df7edc7996153e4f232ce2799eaa30bf170e902a36b7bcc1391fa3098a5.webp",
+    "size": 2842,
+    "source_rel": "bmw/models/3_series/images/83255df7edc7996153e4f232ce2799eaa30bf170e902a36b7bcc1391fa3098a5.webp"
+  },
+  {
+    "filename": "839a5921fb31ce4437daa586e16416ea1771dc72759f029c25a3a79d8d529af3.webp",
+    "size": 10582,
+    "source_rel": "bmw/models/3_series/images/839a5921fb31ce4437daa586e16416ea1771dc72759f029c25a3a79d8d529af3.webp"
+  },
+  {
+    "filename": "83f449ea74bafd8060e5432838baa986a78856e85badc4ae6a918d622da2b3d8.webp",
+    "size": 7602,
+    "source_rel": "bmw/models/3_series/images/83f449ea74bafd8060e5432838baa986a78856e85badc4ae6a918d622da2b3d8.webp"
+  },
+  {
+    "filename": "841b3812828c0f162a8c168c053af532243fac1f5e9bd0f43c16d317ee5640e3.webp",
+    "size": 12460,
+    "source_rel": "bmw/models/3_series/images/841b3812828c0f162a8c168c053af532243fac1f5e9bd0f43c16d317ee5640e3.webp"
+  },
+  {
+    "filename": "84c2b0cf7601290942d0032a0a6849caf70e776fe48e52959cd5dcc66510cd9c.webp",
+    "size": 7420,
+    "source_rel": "bmw/models/3_series/images/84c2b0cf7601290942d0032a0a6849caf70e776fe48e52959cd5dcc66510cd9c.webp"
+  },
+  {
+    "filename": "84d0c943b8c297d5a4c4a30a2defd7a2884fcd6fb94c69755fdaaeeb027acd0e.webp",
+    "size": 480,
+    "source_rel": "bmw/models/3_series/images/84d0c943b8c297d5a4c4a30a2defd7a2884fcd6fb94c69755fdaaeeb027acd0e.webp"
+  },
+  {
+    "filename": "8578b54e1e9c6941b722b77a78dd4ecfac4b1e5ee7dc7e221e9d7a54756f4c87.webp",
+    "size": 704,
+    "source_rel": "bmw/models/3_series/images/8578b54e1e9c6941b722b77a78dd4ecfac4b1e5ee7dc7e221e9d7a54756f4c87.webp"
+  },
+  {
+    "filename": "876785205aa139084fb8efa37ff1a3fee74098aefe2b073ad785c2d1bc206c14.webp",
+    "size": 1658,
+    "source_rel": "bmw/models/3_series/images/876785205aa139084fb8efa37ff1a3fee74098aefe2b073ad785c2d1bc206c14.webp"
+  },
+  {
+    "filename": "8783407244c3e1e32e4640f8ef5be7118d492ce9168f90e962c901a27ba69945.webp",
+    "size": 25294,
+    "source_rel": "bmw/models/3_series/images/8783407244c3e1e32e4640f8ef5be7118d492ce9168f90e962c901a27ba69945.webp"
+  },
+  {
+    "filename": "88705685c7a89807480724a042fddbb80e86e9e380c5c5d04603b9e5f7f52952.webp",
+    "size": 7216,
+    "source_rel": "bmw/models/3_series/images/88705685c7a89807480724a042fddbb80e86e9e380c5c5d04603b9e5f7f52952.webp"
+  },
+  {
+    "filename": "89e87f700d950347a3f07925f7503d2f3a4c807f1343bed740ba50b69811d019.webp",
+    "size": 388,
+    "source_rel": "bmw/models/3_series/images/89e87f700d950347a3f07925f7503d2f3a4c807f1343bed740ba50b69811d019.webp"
+  },
+  {
+    "filename": "89f4351fc41ee2aea3855e02b5233a699dbd4a29b36db7e281cd7297c8db0c0d.webp",
+    "size": 708,
+    "source_rel": "bmw/models/3_series/images/89f4351fc41ee2aea3855e02b5233a699dbd4a29b36db7e281cd7297c8db0c0d.webp"
+  },
+  {
+    "filename": "8c4f3ce9703b3502fd2be4ef6e896a3f3d22793fd793535524c3a67fd545b384.webp",
+    "size": 6014,
+    "source_rel": "bmw/models/3_series/images/8c4f3ce9703b3502fd2be4ef6e896a3f3d22793fd793535524c3a67fd545b384.webp"
+  },
+  {
+    "filename": "8c7ca5a91fdc642e0f4c1eafdd7a3907d103b52c0c7afb5ff4333b46827b7e4f.webp",
+    "size": 370,
+    "source_rel": "bmw/models/3_series/images/8c7ca5a91fdc642e0f4c1eafdd7a3907d103b52c0c7afb5ff4333b46827b7e4f.webp"
+  },
+  {
+    "filename": "8d7aa1ffec4086eb86aae0a9796e28ac6f89b4214af5f96f8ec70d3de431a8d3.webp",
+    "size": 23838,
+    "source_rel": "bmw/models/3_series/images/8d7aa1ffec4086eb86aae0a9796e28ac6f89b4214af5f96f8ec70d3de431a8d3.webp"
+  },
+  {
+    "filename": "8df2b8fb56a1fe7b60458514d90bac1f5e4a925be0698b4122d12523df220333.webp",
+    "size": 7324,
+    "source_rel": "bmw/models/3_series/images/8df2b8fb56a1fe7b60458514d90bac1f5e4a925be0698b4122d12523df220333.webp"
+  },
+  {
+    "filename": "8e92093b4213c73cfd8df8c59440b1bb4eece52addd10025cb3bafcc9c889587.webp",
+    "size": 676,
+    "source_rel": "bmw/models/3_series/images/8e92093b4213c73cfd8df8c59440b1bb4eece52addd10025cb3bafcc9c889587.webp"
+  },
+  {
+    "filename": "8f850a2d811737d885ba6cbfcc400fae2703d80224cb8f73e99e3d8dc72936bb.webp",
+    "size": 7354,
+    "source_rel": "bmw/models/3_series/images/8f850a2d811737d885ba6cbfcc400fae2703d80224cb8f73e99e3d8dc72936bb.webp"
+  },
+  {
+    "filename": "9016185149c0fc401fab746dd2bbf7c451c28e9e38766c228c47b93c51933111.webp",
+    "size": 6010,
+    "source_rel": "bmw/models/3_series/images/9016185149c0fc401fab746dd2bbf7c451c28e9e38766c228c47b93c51933111.webp"
+  },
+  {
+    "filename": "901bde8861e25bb51e4017aa7ed054444eaaf03d78cf24f8157dd8fadff5330e.webp",
+    "size": 498,
+    "source_rel": "bmw/models/3_series/images/901bde8861e25bb51e4017aa7ed054444eaaf03d78cf24f8157dd8fadff5330e.webp"
+  },
+  {
+    "filename": "913a4193e0802e91d04a9312657a9f5401726baf7db1703395cee17333f2fbd9.webp",
+    "size": 14712,
+    "source_rel": "bmw/models/3_series/images/913a4193e0802e91d04a9312657a9f5401726baf7db1703395cee17333f2fbd9.webp"
+  },
+  {
+    "filename": "9151ad487dd3ab12b8681ed2adc285dbdf06594d50156f75ba0f07bcdc5e6135.webp",
+    "size": 872,
+    "source_rel": "bmw/models/3_series/images/9151ad487dd3ab12b8681ed2adc285dbdf06594d50156f75ba0f07bcdc5e6135.webp"
+  },
+  {
+    "filename": "91a117500dc16321a52b51e8a1cb81ba0373fa449e267a842b93aaf849661b62.webp",
+    "size": 11470,
+    "source_rel": "bmw/models/3_series/images/91a117500dc16321a52b51e8a1cb81ba0373fa449e267a842b93aaf849661b62.webp"
+  },
+  {
+    "filename": "9245923fe068bb9fa81eeced3d85bc02d5af883a7f5bcb9a9bee181ca11e307a.webp",
+    "size": 530,
+    "source_rel": "bmw/models/3_series/images/9245923fe068bb9fa81eeced3d85bc02d5af883a7f5bcb9a9bee181ca11e307a.webp"
+  },
+  {
+    "filename": "92605a1a49294929e28c9910b140b4b186b419290c4a37eca15735fd12a8099c.webp",
+    "size": 1890,
+    "source_rel": "bmw/models/3_series/images/92605a1a49294929e28c9910b140b4b186b419290c4a37eca15735fd12a8099c.webp"
+  },
+  {
+    "filename": "93060e4ee228a16ba9968b08521362dd0f0398733b16a33ee6fd7f00497f5358.webp",
+    "size": 788,
+    "source_rel": "bmw/models/3_series/images/93060e4ee228a16ba9968b08521362dd0f0398733b16a33ee6fd7f00497f5358.webp"
+  },
+  {
+    "filename": "93152707c5f7dbfa763b7db17cfec33f6800d5b57a19867bafc42898a4dd81ab.webp",
+    "size": 636,
+    "source_rel": "bmw/models/3_series/images/93152707c5f7dbfa763b7db17cfec33f6800d5b57a19867bafc42898a4dd81ab.webp"
+  },
+  {
+    "filename": "93e87c0756f98cd3f14454035a16ac865caef0193015fdfa80bcbb3791204f9f.webp",
+    "size": 738,
+    "source_rel": "bmw/models/3_series/images/93e87c0756f98cd3f14454035a16ac865caef0193015fdfa80bcbb3791204f9f.webp"
+  },
+  {
+    "filename": "94dfc13edf2c2979bdd733a3e20e717d08f3776c07266090f73804841289e3c6.webp",
+    "size": 9166,
+    "source_rel": "bmw/models/3_series/images/94dfc13edf2c2979bdd733a3e20e717d08f3776c07266090f73804841289e3c6.webp"
+  },
+  {
+    "filename": "958c0c5639a90b59606fa2e2062f33421957d5164c11f10a648461cd0ac6ea65.webp",
+    "size": 5766,
+    "source_rel": "bmw/models/3_series/images/958c0c5639a90b59606fa2e2062f33421957d5164c11f10a648461cd0ac6ea65.webp"
+  },
+  {
+    "filename": "964a70f3d26a9f53b2dc4218ff74a56309097e22df22bc2ad5539027081bf801.webp",
+    "size": 6160,
+    "source_rel": "bmw/models/3_series/images/964a70f3d26a9f53b2dc4218ff74a56309097e22df22bc2ad5539027081bf801.webp"
+  },
+  {
+    "filename": "96df92acd51a6de0aa34095838247dd1542bf6471759a1518c132ae80b7d9152.webp",
+    "size": 4576,
+    "source_rel": "bmw/models/3_series/images/96df92acd51a6de0aa34095838247dd1542bf6471759a1518c132ae80b7d9152.webp"
+  },
+  {
+    "filename": "96ecf83c95e909b77cc1b57b128728d2b0fe87c74e84ed3af1dda1104ecc2563.webp",
+    "size": 824,
+    "source_rel": "bmw/models/3_series/images/96ecf83c95e909b77cc1b57b128728d2b0fe87c74e84ed3af1dda1104ecc2563.webp"
+  },
+  {
+    "filename": "97556630ad9e543440e7cf9d5802afceab1679fd5072330d9fe47ab6b42fb10a.webp",
+    "size": 9666,
+    "source_rel": "bmw/models/3_series/images/97556630ad9e543440e7cf9d5802afceab1679fd5072330d9fe47ab6b42fb10a.webp"
+  },
+  {
+    "filename": "979ccec3bcf4474f07e1b8986b5bee062af9e8c50006d4133d85e1bf1d6a5caa.webp",
+    "size": 8776,
+    "source_rel": "bmw/models/3_series/images/979ccec3bcf4474f07e1b8986b5bee062af9e8c50006d4133d85e1bf1d6a5caa.webp"
+  },
+  {
+    "filename": "97a67a59e72c117d6166ba8df22df66c239952a70ba34b743cb1b147a01b34d1.webp",
+    "size": 514,
+    "source_rel": "bmw/models/3_series/images/97a67a59e72c117d6166ba8df22df66c239952a70ba34b743cb1b147a01b34d1.webp"
+  },
+  {
+    "filename": "97d45bb49a9ab495adcb7b7e9748896803ff5fcaa1a0de60b5366b5b47b9a658.webp",
+    "size": 3070,
+    "source_rel": "bmw/models/3_series/images/97d45bb49a9ab495adcb7b7e9748896803ff5fcaa1a0de60b5366b5b47b9a658.webp"
+  },
+  {
+    "filename": "984d8e66184f3f81b4e102d3febcae69054b4cd8c8ad90e0e22584105a3b1395.webp",
+    "size": 7550,
+    "source_rel": "bmw/models/3_series/images/984d8e66184f3f81b4e102d3febcae69054b4cd8c8ad90e0e22584105a3b1395.webp"
+  },
+  {
+    "filename": "98a336a181b17fe6e39d9ae2e6c60b0c86942eacf1f704a17fedb84fdf417da1.webp",
+    "size": 8892,
+    "source_rel": "bmw/models/3_series/images/98a336a181b17fe6e39d9ae2e6c60b0c86942eacf1f704a17fedb84fdf417da1.webp"
+  },
+  {
+    "filename": "98f265fbef2f699f00f41d1874aa7e82c69d7d5c9d03e2a4a85f97935a674495.webp",
+    "size": 6356,
+    "source_rel": "bmw/models/3_series/images/98f265fbef2f699f00f41d1874aa7e82c69d7d5c9d03e2a4a85f97935a674495.webp"
+  },
+  {
+    "filename": "9a21a2f0cf7d2e157bf5d42457243443f7619649cda9216fba3b3d9e90d51299.webp",
+    "size": 550,
+    "source_rel": "bmw/models/3_series/images/9a21a2f0cf7d2e157bf5d42457243443f7619649cda9216fba3b3d9e90d51299.webp"
+  },
+  {
+    "filename": "9b835e6f20099dd4fae23b4107b378c155579d8e65e41ae3f4b07d0857de2a58.webp",
+    "size": 7862,
+    "source_rel": "bmw/models/3_series/images/9b835e6f20099dd4fae23b4107b378c155579d8e65e41ae3f4b07d0857de2a58.webp"
+  },
+  {
+    "filename": "9bbc905b0d42335eb91337b66c5836a1a5fcdb7db291486823c4b7e209dbc108.webp",
+    "size": 5994,
+    "source_rel": "bmw/models/3_series/images/9bbc905b0d42335eb91337b66c5836a1a5fcdb7db291486823c4b7e209dbc108.webp"
+  },
+  {
+    "filename": "a0072d980ce7cd125c8b93fc5b2174a03fd7e8ba11718991744f9df0d26a5d24.webp",
+    "size": 6438,
+    "source_rel": "bmw/models/3_series/images/a0072d980ce7cd125c8b93fc5b2174a03fd7e8ba11718991744f9df0d26a5d24.webp"
+  },
+  {
+    "filename": "a019158748d19a7e2f642e190b0c08d47cdda9360ed9689cb2e32b4c26fb1d16.webp",
+    "size": 5030,
+    "source_rel": "bmw/models/3_series/images/a019158748d19a7e2f642e190b0c08d47cdda9360ed9689cb2e32b4c26fb1d16.webp"
+  },
+  {
+    "filename": "a0a1422170dc2885f6d5dfa06ae3851fb5367f9e65d26220dbe477c8a0a07b4f.webp",
+    "size": 6528,
+    "source_rel": "bmw/models/3_series/images/a0a1422170dc2885f6d5dfa06ae3851fb5367f9e65d26220dbe477c8a0a07b4f.webp"
+  },
+  {
+    "filename": "a1686ed2e05cf8a75bd8945ea634a54f819d4ea7caeffd61ac23587c7514fada.webp",
+    "size": 1040,
+    "source_rel": "bmw/models/3_series/images/a1686ed2e05cf8a75bd8945ea634a54f819d4ea7caeffd61ac23587c7514fada.webp"
+  },
+  {
+    "filename": "a1b7e2482ff1559b282bc3a82f31decc406c1c2ffdefcbd7cc08707a03b5f2c7.webp",
+    "size": 6128,
+    "source_rel": "bmw/models/3_series/images/a1b7e2482ff1559b282bc3a82f31decc406c1c2ffdefcbd7cc08707a03b5f2c7.webp"
+  },
+  {
+    "filename": "a1ebf81a4f6bda66bf06d7ee34727d91c5ddbdd2faca75239fc433a6d45987dd.webp",
+    "size": 24236,
+    "source_rel": "bmw/models/3_series/images/a1ebf81a4f6bda66bf06d7ee34727d91c5ddbdd2faca75239fc433a6d45987dd.webp"
+  },
+  {
+    "filename": "a20e87a692f672bf373a299c798b844014fc59d419cc4fa6927783f135b83b44.webp",
+    "size": 2748,
+    "source_rel": "bmw/models/3_series/images/a20e87a692f672bf373a299c798b844014fc59d419cc4fa6927783f135b83b44.webp"
+  },
+  {
+    "filename": "a2d7bc791b0042e7190ce04299d5b2974bfdf778ca274056320c29617c4ebc94.webp",
+    "size": 34324,
+    "source_rel": "bmw/models/3_series/images/a2d7bc791b0042e7190ce04299d5b2974bfdf778ca274056320c29617c4ebc94.webp"
+  },
+  {
+    "filename": "a331aa0108ef32a86820f2da3dc2331a2a117dfd8804426db6bc313d7d13d5b5.webp",
+    "size": 6908,
+    "source_rel": "bmw/models/3_series/images/a331aa0108ef32a86820f2da3dc2331a2a117dfd8804426db6bc313d7d13d5b5.webp"
+  },
+  {
+    "filename": "a3cc0d20e97724ba176a567e98b9dd670098fc840b8214df84f5a05416cda40b.webp",
+    "size": 6614,
+    "source_rel": "bmw/models/3_series/images/a3cc0d20e97724ba176a567e98b9dd670098fc840b8214df84f5a05416cda40b.webp"
+  },
+  {
+    "filename": "a44024bba34e9ef9ebf0fd3a271b7661455ee9a296a8fce5465b6afaf3b49cf7.webp",
+    "size": 6246,
+    "source_rel": "bmw/models/3_series/images/a44024bba34e9ef9ebf0fd3a271b7661455ee9a296a8fce5465b6afaf3b49cf7.webp"
+  },
+  {
+    "filename": "a49b5e93bace24ad3ea56705a62eb8211fa69ccd82ddbe69af3b6570cc323186.webp",
+    "size": 1932,
+    "source_rel": "bmw/models/3_series/images/a49b5e93bace24ad3ea56705a62eb8211fa69ccd82ddbe69af3b6570cc323186.webp"
+  },
+  {
+    "filename": "a4c0a3e76aebf08b0a76514046ff06081bc247e1e5936c8ef024b46eb802137a.webp",
+    "size": 454,
+    "source_rel": "bmw/models/3_series/images/a4c0a3e76aebf08b0a76514046ff06081bc247e1e5936c8ef024b46eb802137a.webp"
+  },
+  {
+    "filename": "a4e7df9ddae8c29df2f3707c378f35840440a414be08a139762e4d4d374d34c3.webp",
+    "size": 9194,
+    "source_rel": "bmw/models/3_series/images/a4e7df9ddae8c29df2f3707c378f35840440a414be08a139762e4d4d374d34c3.webp"
+  },
+  {
+    "filename": "a55f8ac3feb13fcabb26317cc47fc7901a24e57158226b74030db51fe45e2828.webp",
+    "size": 8406,
+    "source_rel": "bmw/models/3_series/images/a55f8ac3feb13fcabb26317cc47fc7901a24e57158226b74030db51fe45e2828.webp"
+  },
+  {
+    "filename": "a6ec26868d40a77290c157c8d5c12021fd4719a1dce192d1f5b8344bb21a71b1.webp",
+    "size": 3712,
+    "source_rel": "bmw/models/3_series/images/a6ec26868d40a77290c157c8d5c12021fd4719a1dce192d1f5b8344bb21a71b1.webp"
+  },
+  {
+    "filename": "a7e3d08ccae849ce074d7fc671afc253e867a0f40cd8852e6ef370123c0577e2.webp",
+    "size": 5882,
+    "source_rel": "bmw/models/3_series/images/a7e3d08ccae849ce074d7fc671afc253e867a0f40cd8852e6ef370123c0577e2.webp"
+  },
+  {
+    "filename": "a825946ef89aef937efa5dd852eaf5694e4ea1014c7f8f245ca2cf197d8b0dab.webp",
+    "size": 650,
+    "source_rel": "bmw/models/3_series/images/a825946ef89aef937efa5dd852eaf5694e4ea1014c7f8f245ca2cf197d8b0dab.webp"
+  },
+  {
+    "filename": "a863761c6c2e0413159e07801fbad160502b6f59904a4be3b90769a65c1b186b.webp",
+    "size": 10748,
+    "source_rel": "bmw/models/3_series/images/a863761c6c2e0413159e07801fbad160502b6f59904a4be3b90769a65c1b186b.webp"
+  },
+  {
+    "filename": "a8c1a1a0e9939cc84895457cd7c6dda04c48f0fc85230a3db27ebc255aaada92.webp",
+    "size": 370,
+    "source_rel": "bmw/models/3_series/images/a8c1a1a0e9939cc84895457cd7c6dda04c48f0fc85230a3db27ebc255aaada92.webp"
+  },
+  {
+    "filename": "a9a6b0cea9ad153ef5d2e5e4946203a2e234487d0271e022dd45ff1935fe1486.webp",
+    "size": 8856,
+    "source_rel": "bmw/models/3_series/images/a9a6b0cea9ad153ef5d2e5e4946203a2e234487d0271e022dd45ff1935fe1486.webp"
+  },
+  {
+    "filename": "a9f040213e6ae24b900d417bbf173cce17139b01c552cf197f50b6d8a138e80a.webp",
+    "size": 38448,
+    "source_rel": "bmw/models/3_series/images/a9f040213e6ae24b900d417bbf173cce17139b01c552cf197f50b6d8a138e80a.webp"
+  },
+  {
+    "filename": "aa2a22e071bc6272c644d8dd595aaaa0026e65b947fe1dfd923d3ac68ce9f802.webp",
+    "size": 4560,
+    "source_rel": "bmw/models/3_series/images/aa2a22e071bc6272c644d8dd595aaaa0026e65b947fe1dfd923d3ac68ce9f802.webp"
+  },
+  {
+    "filename": "aa70c84251e922f8ed7fbb437f359033b57a5c2b2c2bc5cf5c7a95bcf27df2c2.webp",
+    "size": 594,
+    "source_rel": "bmw/models/3_series/images/aa70c84251e922f8ed7fbb437f359033b57a5c2b2c2bc5cf5c7a95bcf27df2c2.webp"
+  },
+  {
+    "filename": "ac5365d3fe3bec78d7ccc6eba9f7fc5d43b5c770a227ca0bf06450984bae44d0.webp",
+    "size": 9978,
+    "source_rel": "bmw/models/3_series/images/ac5365d3fe3bec78d7ccc6eba9f7fc5d43b5c770a227ca0bf06450984bae44d0.webp"
+  },
+  {
+    "filename": "aded985546767840c015d13649b444ae41e9fef253336654d729ce68377d76f6.webp",
+    "size": 7864,
+    "source_rel": "bmw/models/3_series/images/aded985546767840c015d13649b444ae41e9fef253336654d729ce68377d76f6.webp"
+  },
+  {
+    "filename": "ae00e485c8bc924dd23f1632429a044b888a0d80c6eb0dccc3d84cf2b0c33774.webp",
+    "size": 4086,
+    "source_rel": "bmw/models/3_series/images/ae00e485c8bc924dd23f1632429a044b888a0d80c6eb0dccc3d84cf2b0c33774.webp"
+  },
+  {
+    "filename": "af3bebc6ed42ba4986744dabe274e706bbc992f3df48f9fff17bcf2c579dad09.webp",
+    "size": 8552,
+    "source_rel": "bmw/models/3_series/images/af3bebc6ed42ba4986744dabe274e706bbc992f3df48f9fff17bcf2c579dad09.webp"
+  },
+  {
+    "filename": "afa24f41f06c24975c556471c675a387ca864e74fb4bc4aeb1d7e573e48f5839.webp",
+    "size": 778,
+    "source_rel": "bmw/models/3_series/images/afa24f41f06c24975c556471c675a387ca864e74fb4bc4aeb1d7e573e48f5839.webp"
+  },
+  {
+    "filename": "afd249a14742e914dae5ab1454cce1d641fc868e559eca39b5b874c4e0bff0f6.webp",
+    "size": 9478,
+    "source_rel": "bmw/models/3_series/images/afd249a14742e914dae5ab1454cce1d641fc868e559eca39b5b874c4e0bff0f6.webp"
+  },
+  {
+    "filename": "afdcf1217973583dd6260d58ed3a215e1b4a9c6d86ec9fcbc8328911784fb7ff.webp",
+    "size": 524,
+    "source_rel": "bmw/models/3_series/images/afdcf1217973583dd6260d58ed3a215e1b4a9c6d86ec9fcbc8328911784fb7ff.webp"
+  },
+  {
+    "filename": "b0ee6e61004987aca25e2c5f2845107047ef37bc9d36bc3379a00d1692b8250d.webp",
+    "size": 18870,
+    "source_rel": "bmw/models/3_series/images/b0ee6e61004987aca25e2c5f2845107047ef37bc9d36bc3379a00d1692b8250d.webp"
+  },
+  {
+    "filename": "b357ae437dbe9ccbccb7e6e0093cdb559eec40de0197d54414ae6ad20c015b65.webp",
+    "size": 7568,
+    "source_rel": "bmw/models/3_series/images/b357ae437dbe9ccbccb7e6e0093cdb559eec40de0197d54414ae6ad20c015b65.webp"
+  },
+  {
+    "filename": "b3f890247cfebedc5df1798347e9628e941a7bfa7abfdc22278f9bfd2351840d.webp",
+    "size": 5424,
+    "source_rel": "bmw/models/3_series/images/b3f890247cfebedc5df1798347e9628e941a7bfa7abfdc22278f9bfd2351840d.webp"
+  },
+  {
+    "filename": "b418adf1af36472f4bb99009d6e5635f0ea760c0e3ca81fa3d7a5ec5258eb623.webp",
+    "size": 4546,
+    "source_rel": "bmw/models/3_series/images/b418adf1af36472f4bb99009d6e5635f0ea760c0e3ca81fa3d7a5ec5258eb623.webp"
+  },
+  {
+    "filename": "b5750df19142ad986fd003a6ac3eee5bce36ab16dfb50b17ddbff4e48e381183.webp",
+    "size": 378,
+    "source_rel": "bmw/models/3_series/images/b5750df19142ad986fd003a6ac3eee5bce36ab16dfb50b17ddbff4e48e381183.webp"
+  },
+  {
+    "filename": "b5c89386cd16adff0e06d8dc66fa1edc4607a6c548af8d734b65b92f985db291.webp",
+    "size": 4426,
+    "source_rel": "bmw/models/3_series/images/b5c89386cd16adff0e06d8dc66fa1edc4607a6c548af8d734b65b92f985db291.webp"
+  },
+  {
+    "filename": "b5f337242680f5b9f403cee9df8f7a8fed2bf58c542b28e33068c2fba748131b.webp",
+    "size": 764,
+    "source_rel": "bmw/models/3_series/images/b5f337242680f5b9f403cee9df8f7a8fed2bf58c542b28e33068c2fba748131b.webp"
+  },
+  {
+    "filename": "b677d4e66826efadff69c0d3717bb594cbff478933dfed49b914525f113f20f7.webp",
+    "size": 6670,
+    "source_rel": "bmw/models/3_series/images/b677d4e66826efadff69c0d3717bb594cbff478933dfed49b914525f113f20f7.webp"
+  },
+  {
+    "filename": "b883dd4a9a8464b3ed777785d832ba8ef09e611b01c50e707f37a9f7693911f9.webp",
+    "size": 6606,
+    "source_rel": "bmw/models/3_series/images/b883dd4a9a8464b3ed777785d832ba8ef09e611b01c50e707f37a9f7693911f9.webp"
+  },
+  {
+    "filename": "b8a5384044d3a52b037a3146e65ecb338935f99efeee7df9ac264f376ee94d10.webp",
+    "size": 756,
+    "source_rel": "bmw/models/3_series/images/b8a5384044d3a52b037a3146e65ecb338935f99efeee7df9ac264f376ee94d10.webp"
+  },
+  {
+    "filename": "ba7ded44475e0191af2715feaba5f42c828350b67b4ec93f51ecfab93346065e.webp",
+    "size": 7700,
+    "source_rel": "bmw/models/3_series/images/ba7ded44475e0191af2715feaba5f42c828350b67b4ec93f51ecfab93346065e.webp"
+  },
+  {
+    "filename": "ba845e06ce27d7e02cb99d9b91cb5e8e24953e4ab55cb633959a45c17067d5e4.webp",
+    "size": 7482,
+    "source_rel": "bmw/models/3_series/images/ba845e06ce27d7e02cb99d9b91cb5e8e24953e4ab55cb633959a45c17067d5e4.webp"
+  },
+  {
+    "filename": "bce6e32fc57a0af2931f6820f8e3cbe433300460b2196b3747d7b8d56ba84da6.webp",
+    "size": 8780,
+    "source_rel": "bmw/models/3_series/images/bce6e32fc57a0af2931f6820f8e3cbe433300460b2196b3747d7b8d56ba84da6.webp"
+  },
+  {
+    "filename": "bdf199045958b9d64907d49051a69599efc66ebaeee96393887a3aa37b43c8c3.webp",
+    "size": 838,
+    "source_rel": "bmw/models/3_series/images/bdf199045958b9d64907d49051a69599efc66ebaeee96393887a3aa37b43c8c3.webp"
+  },
+  {
+    "filename": "bf12429847ab18f26a01a2cf01a15919a66224b0841135297556a890554ca94e.webp",
+    "size": 912,
+    "source_rel": "bmw/models/3_series/images/bf12429847ab18f26a01a2cf01a15919a66224b0841135297556a890554ca94e.webp"
+  },
+  {
+    "filename": "bf4fc20df6abf379371f68f6312c0b44b73623177aec612f364e7eeaf1727e35.webp",
+    "size": 510,
+    "source_rel": "bmw/models/3_series/images/bf4fc20df6abf379371f68f6312c0b44b73623177aec612f364e7eeaf1727e35.webp"
+  },
+  {
+    "filename": "bf8c1f200cd96e8603d86e29fe39d92f294d0513b32b2ee7c26f5edc1f81dac5.webp",
+    "size": 1860,
+    "source_rel": "bmw/models/3_series/images/bf8c1f200cd96e8603d86e29fe39d92f294d0513b32b2ee7c26f5edc1f81dac5.webp"
+  },
+  {
+    "filename": "bfb6bb81b1971b7930df95a7b4ed023e9073d58cc5a0a39eaebfaf367c0762aa.webp",
+    "size": 9602,
+    "source_rel": "bmw/models/3_series/images/bfb6bb81b1971b7930df95a7b4ed023e9073d58cc5a0a39eaebfaf367c0762aa.webp"
+  },
+  {
+    "filename": "bfd13fdfd6e8fa1a45d87b91e780fa55476dde1f92d7474b2e7ac145e84d2487.webp",
+    "size": 4720,
+    "source_rel": "bmw/models/3_series/images/bfd13fdfd6e8fa1a45d87b91e780fa55476dde1f92d7474b2e7ac145e84d2487.webp"
+  },
+  {
+    "filename": "c083ba101ac6da8f431925cdd40eba4f39fd72b2859a8a94c72625fa90883815.webp",
+    "size": 1936,
+    "source_rel": "bmw/models/3_series/images/c083ba101ac6da8f431925cdd40eba4f39fd72b2859a8a94c72625fa90883815.webp"
+  },
+  {
+    "filename": "c0f2a8e3b27ebd0432287df71962a4c41a71d70b8a7ee016619e2d747350bcee.webp",
+    "size": 3050,
+    "source_rel": "bmw/models/3_series/images/c0f2a8e3b27ebd0432287df71962a4c41a71d70b8a7ee016619e2d747350bcee.webp"
+  },
+  {
+    "filename": "c16923e5b260740de930c91531b8116ea5880b604cf1e467dc6f2c8732d83745.webp",
+    "size": 512,
+    "source_rel": "bmw/models/3_series/images/c16923e5b260740de930c91531b8116ea5880b604cf1e467dc6f2c8732d83745.webp"
+  },
+  {
+    "filename": "c2774d67c9b563a50fffd138ed01d01167f4b8b4532d79d1f973c234019ea1f9.webp",
+    "size": 6962,
+    "source_rel": "bmw/models/3_series/images/c2774d67c9b563a50fffd138ed01d01167f4b8b4532d79d1f973c234019ea1f9.webp"
+  },
+  {
+    "filename": "c346633497d78e55728316bd9402cf4b4367564fb1eed448da7fccbf00271fe1.webp",
+    "size": 3606,
+    "source_rel": "bmw/models/3_series/images/c346633497d78e55728316bd9402cf4b4367564fb1eed448da7fccbf00271fe1.webp"
+  },
+  {
+    "filename": "c3e00319704af9cf625f5d873b68feb8d11a24deb5a1c5189eda1718d8654445.webp",
+    "size": 7726,
+    "source_rel": "bmw/models/3_series/images/c3e00319704af9cf625f5d873b68feb8d11a24deb5a1c5189eda1718d8654445.webp"
+  },
+  {
+    "filename": "c42f0848104204055bf325a2283aed148bdc453dd876facf2aa5a02699b9f0e0.webp",
+    "size": 10048,
+    "source_rel": "bmw/models/3_series/images/c42f0848104204055bf325a2283aed148bdc453dd876facf2aa5a02699b9f0e0.webp"
+  },
+  {
+    "filename": "c555541ff2d45b1fc5513a2ce02cf9b190d3bd7658c0954fad9f1eabee9704a6.webp",
+    "size": 58716,
+    "source_rel": "bmw/models/3_series/images/c555541ff2d45b1fc5513a2ce02cf9b190d3bd7658c0954fad9f1eabee9704a6.webp"
+  },
+  {
+    "filename": "c7671bb51b08a02dd97495e2652abf1d83fbbffda6163ae753463c3bd2a664e7.webp",
+    "size": 10504,
+    "source_rel": "bmw/models/3_series/images/c7671bb51b08a02dd97495e2652abf1d83fbbffda6163ae753463c3bd2a664e7.webp"
+  },
+  {
+    "filename": "c790137ae076652a2af5f3d714c5022f55dd7a99d61a51f08c671e2467649578.webp",
+    "size": 7842,
+    "source_rel": "bmw/models/3_series/images/c790137ae076652a2af5f3d714c5022f55dd7a99d61a51f08c671e2467649578.webp"
+  },
+  {
+    "filename": "c7b2b4def480119eb025f3c14bc9674a121a8940d146084016dd44db8a4cf640.webp",
+    "size": 18300,
+    "source_rel": "bmw/models/3_series/images/c7b2b4def480119eb025f3c14bc9674a121a8940d146084016dd44db8a4cf640.webp"
+  },
+  {
+    "filename": "c8321df55e0603ae440ba7f117f93a464d04ef396a56562d348c09803ebfbf45.webp",
+    "size": 6536,
+    "source_rel": "bmw/models/3_series/images/c8321df55e0603ae440ba7f117f93a464d04ef396a56562d348c09803ebfbf45.webp"
+  },
+  {
+    "filename": "c928a6593914adf44a280e22062554731a4cfe2f5dfdb0ab8f425cb298cae9d6.webp",
+    "size": 27398,
+    "source_rel": "bmw/models/3_series/images/c928a6593914adf44a280e22062554731a4cfe2f5dfdb0ab8f425cb298cae9d6.webp"
+  },
+  {
+    "filename": "ca62439928cab6674496de01e05a653b9416d22cf7310f96ced039384ed0cdc7.webp",
+    "size": 496,
+    "source_rel": "bmw/models/3_series/images/ca62439928cab6674496de01e05a653b9416d22cf7310f96ced039384ed0cdc7.webp"
+  },
+  {
+    "filename": "ca951a98799442599cd889c92d74729f616427163f485aa6448a28a4912203c2.webp",
+    "size": 10922,
+    "source_rel": "bmw/models/3_series/images/ca951a98799442599cd889c92d74729f616427163f485aa6448a28a4912203c2.webp"
+  },
+  {
+    "filename": "cae593d16890ab7690ba4b57321f85b821618051f6693df3855c8f3102795c44.webp",
+    "size": 1772,
+    "source_rel": "bmw/models/3_series/images/cae593d16890ab7690ba4b57321f85b821618051f6693df3855c8f3102795c44.webp"
+  },
+  {
+    "filename": "cc2f7ac128f71a2b07c3ce3ef36a22a1b8411cbb1adb1fbe4c38dce77a150cce.webp",
+    "size": 6438,
+    "source_rel": "bmw/models/3_series/images/cc2f7ac128f71a2b07c3ce3ef36a22a1b8411cbb1adb1fbe4c38dce77a150cce.webp"
+  },
+  {
+    "filename": "ce12ec71609252b31d9282c8f2168b689f03d0a621622c214f202591d864847e.webp",
+    "size": 12516,
+    "source_rel": "bmw/models/3_series/images/ce12ec71609252b31d9282c8f2168b689f03d0a621622c214f202591d864847e.webp"
+  },
+  {
+    "filename": "ce28ed5a2111693871b6fb40cccfdc5411582623c03945c4e0d6dd6f570c8c93.webp",
+    "size": 8596,
+    "source_rel": "bmw/models/3_series/images/ce28ed5a2111693871b6fb40cccfdc5411582623c03945c4e0d6dd6f570c8c93.webp"
+  },
+  {
+    "filename": "ce71af390fbaed96d427dacf1ad966554240240d5f3d3bb6f161d9b8862db356.webp",
+    "size": 10480,
+    "source_rel": "bmw/models/3_series/images/ce71af390fbaed96d427dacf1ad966554240240d5f3d3bb6f161d9b8862db356.webp"
+  },
+  {
+    "filename": "cece3b44cabd3afa8981126a68a112fc6b9e651c385b0ace67d2a7c66575a740.webp",
+    "size": 1414,
+    "source_rel": "bmw/models/3_series/images/cece3b44cabd3afa8981126a68a112fc6b9e651c385b0ace67d2a7c66575a740.webp"
+  },
+  {
+    "filename": "cf30453a0e56522e479b041d96b1af862e70cdad81512c65b2ebe88818ca2d75.webp",
+    "size": 6274,
+    "source_rel": "bmw/models/3_series/images/cf30453a0e56522e479b041d96b1af862e70cdad81512c65b2ebe88818ca2d75.webp"
+  },
+  {
+    "filename": "cf3bb21ab2c992dd1960cd7204d133557be09681f6279fdfc6a028b5244b8e27.webp",
+    "size": 7438,
+    "source_rel": "bmw/models/3_series/images/cf3bb21ab2c992dd1960cd7204d133557be09681f6279fdfc6a028b5244b8e27.webp"
+  },
+  {
+    "filename": "cf8a0cd46f1e0d3dec63325076ccbf5f5ccbcb09f297dd52a820d7543d202f87.webp",
+    "size": 10866,
+    "source_rel": "bmw/models/3_series/images/cf8a0cd46f1e0d3dec63325076ccbf5f5ccbcb09f297dd52a820d7543d202f87.webp"
+  },
+  {
+    "filename": "cfdb2cf3ca202bec8855c594453a6f6757bae729956c17c5cd58b60bf230cf23.webp",
+    "size": 1274,
+    "source_rel": "bmw/models/3_series/images/cfdb2cf3ca202bec8855c594453a6f6757bae729956c17c5cd58b60bf230cf23.webp"
+  },
+  {
+    "filename": "d3f5fe342ff1e2e75788f59cb29bc7650e57084937242685e5951615ad67fefe.webp",
+    "size": 8086,
+    "source_rel": "bmw/models/3_series/images/d3f5fe342ff1e2e75788f59cb29bc7650e57084937242685e5951615ad67fefe.webp"
+  },
+  {
+    "filename": "d4753e86d56c8c419f18f51a1c769eb759dca3f7117f56263c7d75044e5cd8ab.webp",
+    "size": 9424,
+    "source_rel": "bmw/models/3_series/images/d4753e86d56c8c419f18f51a1c769eb759dca3f7117f56263c7d75044e5cd8ab.webp"
+  },
+  {
+    "filename": "d49e312bf0fb69317651311f4ca966319f63d2398d19557a07ae4a3c1d0d5b67.webp",
+    "size": 5556,
+    "source_rel": "bmw/models/3_series/images/d49e312bf0fb69317651311f4ca966319f63d2398d19557a07ae4a3c1d0d5b67.webp"
+  },
+  {
+    "filename": "d4c3b6b75eacb94ab9f882d952be6bfe8bdfcc3f0bc31f602b2ce70a31c530c3.webp",
+    "size": 4212,
+    "source_rel": "bmw/models/3_series/images/d4c3b6b75eacb94ab9f882d952be6bfe8bdfcc3f0bc31f602b2ce70a31c530c3.webp"
+  },
+  {
+    "filename": "d50af5e112ac2447fa10ef1f588884b9bf56c7c4b39ed01ccdcc4633b9f1c166.webp",
+    "size": 9000,
+    "source_rel": "bmw/models/3_series/images/d50af5e112ac2447fa10ef1f588884b9bf56c7c4b39ed01ccdcc4633b9f1c166.webp"
+  },
+  {
+    "filename": "d53060b11f2d333be84d17ba51ec191ad586de4c63b695de4678f81b909978e2.webp",
+    "size": 6864,
+    "source_rel": "bmw/models/3_series/images/d53060b11f2d333be84d17ba51ec191ad586de4c63b695de4678f81b909978e2.webp"
+  },
+  {
+    "filename": "d5e8c73a3d1b445aca3fb49ab7a4c2e81490393cf46658e2c38cca0e653b4e51.webp",
+    "size": 7284,
+    "source_rel": "bmw/models/3_series/images/d5e8c73a3d1b445aca3fb49ab7a4c2e81490393cf46658e2c38cca0e653b4e51.webp"
+  },
+  {
+    "filename": "d667f1cf736547d06c7791bf2a7e89173a234ffb1d2a4d1b16709b566780b911.webp",
+    "size": 722,
+    "source_rel": "bmw/models/3_series/images/d667f1cf736547d06c7791bf2a7e89173a234ffb1d2a4d1b16709b566780b911.webp"
+  },
+  {
+    "filename": "d67678396c9f2571e8a72660c90aa6e4ebd2bbc6a070a1ac0be2d90b1f3dfa62.webp",
+    "size": 6098,
+    "source_rel": "bmw/models/3_series/images/d67678396c9f2571e8a72660c90aa6e4ebd2bbc6a070a1ac0be2d90b1f3dfa62.webp"
+  },
+  {
+    "filename": "d77afc7f8c5522b77d03fb20d326872f71d0862e38abc758be4f9ada3226d8f1.webp",
+    "size": 6640,
+    "source_rel": "bmw/models/3_series/images/d77afc7f8c5522b77d03fb20d326872f71d0862e38abc758be4f9ada3226d8f1.webp"
+  },
+  {
+    "filename": "d7f3aa52cb1fe818dce2893854aa7f33d9c0ac9264de7390abe9baa3a9f23d06.webp",
+    "size": 6520,
+    "source_rel": "bmw/models/3_series/images/d7f3aa52cb1fe818dce2893854aa7f33d9c0ac9264de7390abe9baa3a9f23d06.webp"
+  },
+  {
+    "filename": "d86093c33eaa9c9b700a901cd75c2dcc1c2d4c979ef9ed431938484fbc69242a.webp",
+    "size": 10650,
+    "source_rel": "bmw/models/3_series/images/d86093c33eaa9c9b700a901cd75c2dcc1c2d4c979ef9ed431938484fbc69242a.webp"
+  },
+  {
+    "filename": "d8690d357679c58c7a19f7b913925922f55dbd5b164a66dee0a6374a4abfca97.webp",
+    "size": 8078,
+    "source_rel": "bmw/models/3_series/images/d8690d357679c58c7a19f7b913925922f55dbd5b164a66dee0a6374a4abfca97.webp"
+  },
+  {
+    "filename": "d88bc6c5438beaf64c8fc48b1ff62b7568d7dd0ba94b965e876cf3c549d40020.webp",
+    "size": 540,
+    "source_rel": "bmw/models/3_series/images/d88bc6c5438beaf64c8fc48b1ff62b7568d7dd0ba94b965e876cf3c549d40020.webp"
+  },
+  {
+    "filename": "d92ea799ef8a886c1403b97624570e8349837dad1ffa65686805f18a2d0042f5.webp",
+    "size": 3710,
+    "source_rel": "bmw/models/3_series/images/d92ea799ef8a886c1403b97624570e8349837dad1ffa65686805f18a2d0042f5.webp"
+  },
+  {
+    "filename": "d9398bc2b3611746607471168b0cb631a596969e08bca934d7a301f195c409c3.webp",
+    "size": 6518,
+    "source_rel": "bmw/models/3_series/images/d9398bc2b3611746607471168b0cb631a596969e08bca934d7a301f195c409c3.webp"
+  },
+  {
+    "filename": "d96e9a8b44fcf235653f0996a5c3733a4fe7b8816a6f163fda9688b000f94643.webp",
+    "size": 1774,
+    "source_rel": "bmw/models/3_series/images/d96e9a8b44fcf235653f0996a5c3733a4fe7b8816a6f163fda9688b000f94643.webp"
+  },
+  {
+    "filename": "da2015ffbd8de483f94f903ecf7f6e41833c8003baef171815b9fea3d4ccd09a.webp",
+    "size": 3520,
+    "source_rel": "bmw/models/3_series/images/da2015ffbd8de483f94f903ecf7f6e41833c8003baef171815b9fea3d4ccd09a.webp"
+  },
+  {
+    "filename": "da56ac5f73031397e3830d96cdd6fd7a9b4facea11a22f698a4de724e6e94a9a.webp",
+    "size": 28624,
+    "source_rel": "bmw/models/3_series/images/da56ac5f73031397e3830d96cdd6fd7a9b4facea11a22f698a4de724e6e94a9a.webp"
+  },
+  {
+    "filename": "dab3b3c05db010897475bdbe0c70242785383ed14ddfb490a73c35be3ad3253d.webp",
+    "size": 772,
+    "source_rel": "bmw/models/3_series/images/dab3b3c05db010897475bdbe0c70242785383ed14ddfb490a73c35be3ad3253d.webp"
+  },
+  {
+    "filename": "dad2df75a6b00ae00dd7200779fb49fae1052240aa2156422ca1fad693ce02db.webp",
+    "size": 360,
+    "source_rel": "bmw/models/3_series/images/dad2df75a6b00ae00dd7200779fb49fae1052240aa2156422ca1fad693ce02db.webp"
+  },
+  {
+    "filename": "db4079014eaacef1127059df56fcaf478b2c933afaf5e7f51d87118df75cb16e.webp",
+    "size": 2628,
+    "source_rel": "bmw/models/3_series/images/db4079014eaacef1127059df56fcaf478b2c933afaf5e7f51d87118df75cb16e.webp"
+  },
+  {
+    "filename": "dd56866035ff3c80892dcc46e26d1c62c1dfdf75206ccb83fbf14a384220ca10.webp",
+    "size": 3422,
+    "source_rel": "bmw/models/3_series/images/dd56866035ff3c80892dcc46e26d1c62c1dfdf75206ccb83fbf14a384220ca10.webp"
+  },
+  {
+    "filename": "dda5bca84e80f4d7ab8ded17fd167e062dd84389aee79ef0838ddb6b896ca536.webp",
+    "size": 10170,
+    "source_rel": "bmw/models/3_series/images/dda5bca84e80f4d7ab8ded17fd167e062dd84389aee79ef0838ddb6b896ca536.webp"
+  },
+  {
+    "filename": "deeadb2e7eeba1ba3db85d8b8ee75d3327f4f8fe0e6bfe07662056f931246d54.webp",
+    "size": 500,
+    "source_rel": "bmw/models/3_series/images/deeadb2e7eeba1ba3db85d8b8ee75d3327f4f8fe0e6bfe07662056f931246d54.webp"
+  },
+  {
+    "filename": "df2df9dc144bf0c201823d12f3ea327f08f46c601b61e11782a67a57a603da6b.webp",
+    "size": 50572,
+    "source_rel": "bmw/models/3_series/images/df2df9dc144bf0c201823d12f3ea327f08f46c601b61e11782a67a57a603da6b.webp"
+  },
+  {
+    "filename": "df867f1fc54ef640823e80fdd6dff20357931b7a46a6401988d225c52b4a0375.webp",
+    "size": 1456,
+    "source_rel": "bmw/models/3_series/images/df867f1fc54ef640823e80fdd6dff20357931b7a46a6401988d225c52b4a0375.webp"
+  },
+  {
+    "filename": "dfacb3114be2dc7fb6659942c192f0d608f95b49f5f0ba5490a0e69c2c2364ab.webp",
+    "size": 3258,
+    "source_rel": "bmw/models/3_series/images/dfacb3114be2dc7fb6659942c192f0d608f95b49f5f0ba5490a0e69c2c2364ab.webp"
+  },
+  {
+    "filename": "dfeac521a531ab5744b80e3f699604218895bb7b36425d5553e8d2b73e5ca0e8.webp",
+    "size": 666,
+    "source_rel": "bmw/models/3_series/images/dfeac521a531ab5744b80e3f699604218895bb7b36425d5553e8d2b73e5ca0e8.webp"
+  },
+  {
+    "filename": "dfee377f6fae820e01e48ffaca08b82dcc57624a46b8a675a764573fd200db9d.webp",
+    "size": 590,
+    "source_rel": "bmw/models/3_series/images/dfee377f6fae820e01e48ffaca08b82dcc57624a46b8a675a764573fd200db9d.webp"
+  },
+  {
+    "filename": "e145a6804dffb95d965da755deac85422cbca271ded47ca40405589f9e4d2847.webp",
+    "size": 8764,
+    "source_rel": "bmw/models/3_series/images/e145a6804dffb95d965da755deac85422cbca271ded47ca40405589f9e4d2847.webp"
+  },
+  {
+    "filename": "e192844b2d0f7cd1ef7fb79cc24784faa4f88e6270a8cc61dace3e72a12b0687.webp",
+    "size": 11208,
+    "source_rel": "bmw/models/3_series/images/e192844b2d0f7cd1ef7fb79cc24784faa4f88e6270a8cc61dace3e72a12b0687.webp"
+  },
+  {
+    "filename": "e2558ad48e34b78dec8deb836743b850da233c37c13fb80ea760a57fae81ef66.webp",
+    "size": 6508,
+    "source_rel": "bmw/models/3_series/images/e2558ad48e34b78dec8deb836743b850da233c37c13fb80ea760a57fae81ef66.webp"
+  },
+  {
+    "filename": "e441d3cb1d141ab0c8d4d813302c26680822348db41641721eadcf713c7119e5.webp",
+    "size": 7616,
+    "source_rel": "bmw/models/3_series/images/e441d3cb1d141ab0c8d4d813302c26680822348db41641721eadcf713c7119e5.webp"
+  },
+  {
+    "filename": "e48468ae3ec924b695625c5c183e6f40441409e53596dceff2cf37fc55d4c935.webp",
+    "size": 8952,
+    "source_rel": "bmw/models/3_series/images/e48468ae3ec924b695625c5c183e6f40441409e53596dceff2cf37fc55d4c935.webp"
+  },
+  {
+    "filename": "e59155746629b949c0c5276783bf0909a4a2f20bc94cf4e467f8dff6874012ad.webp",
+    "size": 7336,
+    "source_rel": "bmw/models/3_series/images/e59155746629b949c0c5276783bf0909a4a2f20bc94cf4e467f8dff6874012ad.webp"
+  },
+  {
+    "filename": "e5bf6b246af29394d10e6219679ed451a0e8f0779282edb4ce17b751f21dd17e.webp",
+    "size": 6046,
+    "source_rel": "bmw/models/3_series/images/e5bf6b246af29394d10e6219679ed451a0e8f0779282edb4ce17b751f21dd17e.webp"
+  },
+  {
+    "filename": "e7115aba51d5af583a91c3db301db187e62d54894fc06e2789ed055850d9e7e6.webp",
+    "size": 1778,
+    "source_rel": "bmw/models/3_series/images/e7115aba51d5af583a91c3db301db187e62d54894fc06e2789ed055850d9e7e6.webp"
+  },
+  {
+    "filename": "e72628450219324e81b1ebe299918be722a205212d91709c727f627a3fcaa6ba.webp",
+    "size": 6632,
+    "source_rel": "bmw/models/3_series/images/e72628450219324e81b1ebe299918be722a205212d91709c727f627a3fcaa6ba.webp"
+  },
+  {
+    "filename": "e7494f0965df742cf059ca5d9963a8e2edcb3076730cf7f23a7374b3cb72e79c.webp",
+    "size": 6596,
+    "source_rel": "bmw/models/3_series/images/e7494f0965df742cf059ca5d9963a8e2edcb3076730cf7f23a7374b3cb72e79c.webp"
+  },
+  {
+    "filename": "e77394a2de18c3a20960547fa0e15c493a165cdaeb2f1184565ccd73500bd4a7.webp",
+    "size": 7750,
+    "source_rel": "bmw/models/3_series/images/e77394a2de18c3a20960547fa0e15c493a165cdaeb2f1184565ccd73500bd4a7.webp"
+  },
+  {
+    "filename": "e7b894df0f33bcc337e673c7c3a745e619f5561412016f52e15dde4362efda89.webp",
+    "size": 686,
+    "source_rel": "bmw/models/3_series/images/e7b894df0f33bcc337e673c7c3a745e619f5561412016f52e15dde4362efda89.webp"
+  },
+  {
+    "filename": "e93c6074cca647368b37e2d523ac9ff6e8b7e9ef96de28fd6e9c0803ccbac99f.webp",
+    "size": 5556,
+    "source_rel": "bmw/models/3_series/images/e93c6074cca647368b37e2d523ac9ff6e8b7e9ef96de28fd6e9c0803ccbac99f.webp"
+  },
+  {
+    "filename": "e96a49b8d994ee4ca969e346299263af17c98a90ce9eff8e924baa2cc433dd66.webp",
+    "size": 686,
+    "source_rel": "bmw/models/3_series/images/e96a49b8d994ee4ca969e346299263af17c98a90ce9eff8e924baa2cc433dd66.webp"
+  },
+  {
+    "filename": "eb3675ac6f36b46d02025523060f68ed23f38482246315324419013eb01bc0e4.webp",
+    "size": 794,
+    "source_rel": "bmw/models/3_series/images/eb3675ac6f36b46d02025523060f68ed23f38482246315324419013eb01bc0e4.webp"
+  },
+  {
+    "filename": "eb597a1bc5494156bceffe73a5a6cf4e21bde7bda25005e053ce638a8eb8c9b9.webp",
+    "size": 4842,
+    "source_rel": "bmw/models/3_series/images/eb597a1bc5494156bceffe73a5a6cf4e21bde7bda25005e053ce638a8eb8c9b9.webp"
+  },
+  {
+    "filename": "ee01950fc4271b20742ce024d072cc67c6e2e67bbd3dc55fd0b95c201609f43c.webp",
+    "size": 1936,
+    "source_rel": "bmw/models/3_series/images/ee01950fc4271b20742ce024d072cc67c6e2e67bbd3dc55fd0b95c201609f43c.webp"
+  },
+  {
+    "filename": "ee58403ed53d2d29e5954e03dbff20583b16b25c935305046cbdedc29b9c50ef.webp",
+    "size": 7660,
+    "source_rel": "bmw/models/3_series/images/ee58403ed53d2d29e5954e03dbff20583b16b25c935305046cbdedc29b9c50ef.webp"
+  },
+  {
+    "filename": "ee8dd8d09e2a567291e1a7df9692bc8d329d15411b8c918313582fec0f604c7a.webp",
+    "size": 7160,
+    "source_rel": "bmw/models/3_series/images/ee8dd8d09e2a567291e1a7df9692bc8d329d15411b8c918313582fec0f604c7a.webp"
+  },
+  {
+    "filename": "eeb2834632b06cbf2608572ed00fd30efc01e5f3bd6728f92baf7e677cea0b72.webp",
+    "size": 6052,
+    "source_rel": "bmw/models/3_series/images/eeb2834632b06cbf2608572ed00fd30efc01e5f3bd6728f92baf7e677cea0b72.webp"
+  },
+  {
+    "filename": "efb37752acd6cebe9d739fd459303435b67fc734c4c568434f0c195b7d9cc24d.webp",
+    "size": 11596,
+    "source_rel": "bmw/models/3_series/images/efb37752acd6cebe9d739fd459303435b67fc734c4c568434f0c195b7d9cc24d.webp"
+  },
+  {
+    "filename": "f0ef52e21ff3eb019ae968c8fa307cb29f5267bd851061e380495ed8fe9624bc.webp",
+    "size": 6388,
+    "source_rel": "bmw/models/3_series/images/f0ef52e21ff3eb019ae968c8fa307cb29f5267bd851061e380495ed8fe9624bc.webp"
+  },
+  {
+    "filename": "f23ef072e56b24127f10221582722de4435155e42ef30fb130945668e3f7813a.webp",
+    "size": 7252,
+    "source_rel": "bmw/models/3_series/images/f23ef072e56b24127f10221582722de4435155e42ef30fb130945668e3f7813a.webp"
+  },
+  {
+    "filename": "f3cc05ec25a56a60b786ecd7203797aedc79a16d1568cf9495098c5aca2f2e46.webp",
+    "size": 7490,
+    "source_rel": "bmw/models/3_series/images/f3cc05ec25a56a60b786ecd7203797aedc79a16d1568cf9495098c5aca2f2e46.webp"
+  },
+  {
+    "filename": "f4f53871e312206561eb55caa40fb6353529c90b3784e62c8807ce1339078a33.webp",
+    "size": 9448,
+    "source_rel": "bmw/models/3_series/images/f4f53871e312206561eb55caa40fb6353529c90b3784e62c8807ce1339078a33.webp"
+  },
+  {
+    "filename": "f527327a31ecd9aee117476890bbda3f71cdaa00d8195db281c42a9408986779.webp",
+    "size": 1240,
+    "source_rel": "bmw/models/3_series/images/f527327a31ecd9aee117476890bbda3f71cdaa00d8195db281c42a9408986779.webp"
+  },
+  {
+    "filename": "f54bec03805d8adfe0f86ce7a1f0f980d2b50420a4f659a23ed7bbf8bcaffa82.webp",
+    "size": 6878,
+    "source_rel": "bmw/models/3_series/images/f54bec03805d8adfe0f86ce7a1f0f980d2b50420a4f659a23ed7bbf8bcaffa82.webp"
+  },
+  {
+    "filename": "f54c40d23f9abb5c9f1cd6002dc5f4573f6182b0870ebbd727c3b444c949fd3d.webp",
+    "size": 750,
+    "source_rel": "bmw/models/3_series/images/f54c40d23f9abb5c9f1cd6002dc5f4573f6182b0870ebbd727c3b444c949fd3d.webp"
+  },
+  {
+    "filename": "f558fd6b2072e257c5ff29832357274ffee70439d5035317aa6fa23c47d3ca0f.webp",
+    "size": 7034,
+    "source_rel": "bmw/models/3_series/images/f558fd6b2072e257c5ff29832357274ffee70439d5035317aa6fa23c47d3ca0f.webp"
+  },
+  {
+    "filename": "f6cc8ba3cf5ddc3423d8924d7344da5a367498c6d9ff39bfa9a61fe78cf0c29a.webp",
+    "size": 660,
+    "source_rel": "bmw/models/3_series/images/f6cc8ba3cf5ddc3423d8924d7344da5a367498c6d9ff39bfa9a61fe78cf0c29a.webp"
+  },
+  {
+    "filename": "f850d84aaa6ed675e945e384815ad4fa37ec066ec7bce24f583d7d6d2a5923f2.webp",
+    "size": 5330,
+    "source_rel": "bmw/models/3_series/images/f850d84aaa6ed675e945e384815ad4fa37ec066ec7bce24f583d7d6d2a5923f2.webp"
+  },
+  {
+    "filename": "f9a720d2b8b34df5451c3ae60c58a44fb1c2bb965e891b197a305e1108a4f0fe.webp",
+    "size": 7762,
+    "source_rel": "bmw/models/3_series/images/f9a720d2b8b34df5451c3ae60c58a44fb1c2bb965e891b197a305e1108a4f0fe.webp"
+  },
+  {
+    "filename": "f9c533d277bb44e54fdc2384f57883b449983a26baa34042fced34f598fed0d0.webp",
+    "size": 9024,
+    "source_rel": "bmw/models/3_series/images/f9c533d277bb44e54fdc2384f57883b449983a26baa34042fced34f598fed0d0.webp"
+  },
+  {
+    "filename": "f9c8997d41e0dd90474093a9ec23ebff343e379d5f0f9bde751127ff9f516829.webp",
+    "size": 958,
+    "source_rel": "bmw/models/3_series/images/f9c8997d41e0dd90474093a9ec23ebff343e379d5f0f9bde751127ff9f516829.webp"
+  },
+  {
+    "filename": "fa9844d454cdbc94b5257d5d5f2e7e1d414158b70bbb5e61945bcf799b8a65bf.webp",
+    "size": 8874,
+    "source_rel": "bmw/models/3_series/images/fa9844d454cdbc94b5257d5d5f2e7e1d414158b70bbb5e61945bcf799b8a65bf.webp"
+  },
+  {
+    "filename": "fb5ca0043e81a56bda1a2cd9160b89dcfe7b3825e20b748de5c36915ab648b5a.webp",
+    "size": 25870,
+    "source_rel": "bmw/models/3_series/images/fb5ca0043e81a56bda1a2cd9160b89dcfe7b3825e20b748de5c36915ab648b5a.webp"
+  },
+  {
+    "filename": "fb724d85d337a01776f91ab3910a315840ffadc8db5ed2bd86920d66a25f515e.webp",
+    "size": 518,
+    "source_rel": "bmw/models/3_series/images/fb724d85d337a01776f91ab3910a315840ffadc8db5ed2bd86920d66a25f515e.webp"
+  },
+  {
+    "filename": "fb7c10939030c8e5e00c4d6cf5a0e586fad2e0dd71df0eced7a4e8529b52a58e.webp",
+    "size": 736,
+    "source_rel": "bmw/models/3_series/images/fb7c10939030c8e5e00c4d6cf5a0e586fad2e0dd71df0eced7a4e8529b52a58e.webp"
+  },
+  {
+    "filename": "fba1724d7f2f2e9d5084a8a9dd642d4d8d324264fe73670de132e00ed978c719.webp",
+    "size": 27940,
+    "source_rel": "bmw/models/3_series/images/fba1724d7f2f2e9d5084a8a9dd642d4d8d324264fe73670de132e00ed978c719.webp"
+  },
+  {
+    "filename": "fbbd6da6c0d9d49156275cb76811116823353985b73554c08bb785fe5cfd9d34.webp",
+    "size": 8900,
+    "source_rel": "bmw/models/3_series/images/fbbd6da6c0d9d49156275cb76811116823353985b73554c08bb785fe5cfd9d34.webp"
+  },
+  {
+    "filename": "fbc71b5dc55dbb0f3f7e40aaaad671def2444c776649151861c145eb4941f52d.webp",
+    "size": 7716,
+    "source_rel": "bmw/models/3_series/images/fbc71b5dc55dbb0f3f7e40aaaad671def2444c776649151861c145eb4941f52d.webp"
+  },
+  {
+    "filename": "fd0183faa85c1e7ef4ee556e80c4a20886ccc6bab51896a95af307733625833c.webp",
+    "size": 7286,
+    "source_rel": "bmw/models/3_series/images/fd0183faa85c1e7ef4ee556e80c4a20886ccc6bab51896a95af307733625833c.webp"
+  },
+  {
+    "filename": "fd4c4a6fe80a4b1ed18584441ca818abd74ec1d20214a9d015d1ead611899b58.webp",
+    "size": 8308,
+    "source_rel": "bmw/models/3_series/images/fd4c4a6fe80a4b1ed18584441ca818abd74ec1d20214a9d015d1ead611899b58.webp"
+  },
+  {
+    "filename": "fd83e076071584067c1fe2742699d6a13e561471cea782be251e99a174161e79.webp",
+    "size": 8004,
+    "source_rel": "bmw/models/3_series/images/fd83e076071584067c1fe2742699d6a13e561471cea782be251e99a174161e79.webp"
+  },
+  {
+    "filename": "fea2fa1f6619c8a0a18ed4a0c9a8937adb0dd597f96a856cf72fbdee793850de.webp",
+    "size": 3552,
+    "source_rel": "bmw/models/3_series/images/fea2fa1f6619c8a0a18ed4a0c9a8937adb0dd597f96a856cf72fbdee793850de.webp"
+  },
+  {
+    "filename": "fec59cdc12a1158091458cce89377de40acf5dd4c3b2a9d846b2babdc7ca7895.webp",
+    "size": 7492,
+    "source_rel": "bmw/models/3_series/images/fec59cdc12a1158091458cce89377de40acf5dd4c3b2a9d846b2babdc7ca7895.webp"
+  },
+  {
+    "filename": "ff43e119a0bba5ab9e9acace2033f41fe1a60df0f217a0bf8d47d1315e2441b1.webp",
+    "size": 7796,
+    "source_rel": "bmw/models/3_series/images/ff43e119a0bba5ab9e9acace2033f41fe1a60df0f217a0bf8d47d1315e2441b1.webp"
+  }
+]

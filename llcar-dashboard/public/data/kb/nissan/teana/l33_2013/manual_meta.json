@@ -1,0 +1,15 @@
+{
+  "brand": "nissan",
+  "model": "teana",
+  "source_path_rel": "nissan/models/teana/",
+  "manual_md_size": 852101088,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-altima_tg.md",
+    "manual-db3963.md",
+    "manual-maxima_tg.md",
+    "manual-teana.md",
+    "manual-teana_l33.md"
+  ]
+}

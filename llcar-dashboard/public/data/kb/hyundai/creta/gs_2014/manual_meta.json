@@ -1,0 +1,20 @@
+{
+  "brand": "hyundai",
+  "model": "creta",
+  "source_path_rel": "hyundai/models/creta/",
+  "manual_md_size": 108703058,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-2016_2019.md",
+    "manual-6efee7.md",
+    "manual-creta-iii.md",
+    "manual-creta.md",
+    "manual-creta_2016_2019.md",
+    "manual-i_2020_2024.md",
+    "manual-kona.md",
+    "manual-ru.md",
+    "manual-ru_2.md",
+    "manual-ru_reocr.md"
+  ]
+}

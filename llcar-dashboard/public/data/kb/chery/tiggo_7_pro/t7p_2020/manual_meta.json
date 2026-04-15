@@ -1,0 +1,11 @@
+{
+  "brand": "chery",
+  "model": "tiggo_7_pro",
+  "source_path_rel": "chery/models/tiggo_7_pro/",
+  "manual_md_size": 11260160,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-3825d7.md"
+  ]
+}

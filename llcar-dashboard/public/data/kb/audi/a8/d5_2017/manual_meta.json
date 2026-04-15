@@ -1,0 +1,14 @@
+{
+  "brand": "audi",
+  "model": "a8",
+  "source_path_rel": "audi/models/a8/",
+  "manual_md_size": 659564282,
+  "has_dita": true,
+  "has_pdf": false,
+  "variants": [
+    "manual-6093a2.md",
+    "manual-a8.md",
+    "manual-iv_a8l_2021_2023.md",
+    "manual-iv_a8l_2021_2023_2.md"
+  ]
+}

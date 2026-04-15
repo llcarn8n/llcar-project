@@ -1,0 +1,20 @@
+{
+  "brand": "mitsubishi",
+  "model": "outlander",
+  "source_path_rel": "mitsubishi/models/outlander/",
+  "manual_md_size": 8749578,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-c9fd86.md",
+    "manual-l200_2014-l200.md",
+    "manual-l200_2015-l200.md",
+    "manual-l200_2016-l200.md",
+    "manual-l200_2017-l200.md",
+    "manual-l200_2018-l200.md",
+    "manual-l200_2019-l200.md",
+    "manual-l200_2020-l200.md",
+    "manual-l200_2021-l200.md",
+    "manual-l200_2022-l200.md"
+  ]
+}

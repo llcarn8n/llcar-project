@@ -1,0 +1,15 @@
+{
+  "brand": "omoda",
+  "model": "c5",
+  "source_path_rel": "omoda/models/c5/",
+  "manual_md_size": 29799704,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-03a307.md",
+    "manual-a5f2f1--en.md",
+    "manual-bd90fa.md",
+    "manual-en.md",
+    "manual-reocr.md"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "brand": "bmw",
+  "model": "x3",
+  "source_path_rel": "bmw/models/x3/",
+  "manual_md_size": 44711640,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-i_e83_2003_2006.md",
+    "manual-x3_e83-e83.md",
+    "manual-x3_e83.md",
+    "manual-x3_f25-f25.md",
+    "manual-x3_f25.md"
+  ]
+}

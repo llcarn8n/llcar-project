@@ -1,0 +1,13 @@
+{
+  "brand": "haval",
+  "model": "jolion",
+  "source_path_rel": "haval/models/jolion/",
+  "manual_md_size": 10671502,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-41dca6.md",
+    "manual-ii_2024_н_в.md",
+    "manual-ii_2024_н_в_2.md"
+  ]
+}

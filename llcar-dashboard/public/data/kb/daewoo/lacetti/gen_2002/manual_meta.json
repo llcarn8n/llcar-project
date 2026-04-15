@@ -1,0 +1,18 @@
+{
+  "brand": "daewoo",
+  "model": "lacetti",
+  "source_path_rel": "daewoo/models/lacetti/",
+  "manual_md_size": 759830889,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-2002_2009.md",
+    "manual-2002_2009_2.md",
+    "manual-712233.md",
+    "manual-b86d45--v2.md",
+    "manual-kalos_tg-kalos.md",
+    "manual-kalos_tg.md",
+    "manual-lacetti.md",
+    "manual-v2.md"
+  ]
+}

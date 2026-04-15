@@ -1,0 +1,1483 @@
+{
+  "brand": "land_rover",
+  "model": "discovery_sport",
+  "source": "manual_extract+template",
+  "total_parts": 162,
+  "systems": {
+    "Uncategorized": 67,
+    "Engine": 15,
+    "Fuel System": 4,
+    "Exhaust System": 5,
+    "Cooling System": 8,
+    "Transmission": 5,
+    "Brake System": 9,
+    "Suspension / Wheels": 13,
+    "Steering": 4,
+    "Electrical": 8,
+    "HVAC": 5,
+    "Body": 9,
+    "Wiper System": 4,
+    "Interior": 2,
+    "Wheels / Tires": 4
+  },
+  "parts": [
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Вы можете также связаться со службой технической поддержки поставщика по телефону 0 0800 0466 354 65. Звонок по этому номеру бесплатный в пределах Европы. Код страны вводить не требуется (при звонке с",
+      "subsystem": "",
+      "part_number": "08000466354",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3. Установите новый и ранее не использовавшийся элемент питания CR2032 (можно приобрести у дилера/в авторизованной мастерской Land Rover) положительным (+) полюсом вверх.",
+      "subsystem": "",
+      "part_number": "CR2032",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E149763",
+      "subsystem": "",
+      "part_number": "E149763",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E149765",
+      "subsystem": "",
+      "part_number": "E149765",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E149768",
+      "subsystem": "",
+      "part_number": "E149768",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E149769",
+      "subsystem": "",
+      "part_number": "E149769",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E149770",
+      "subsystem": "",
+      "part_number": "E149770",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E140967",
+      "subsystem": "",
+      "part_number": "E140967",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E151118",
+      "subsystem": "",
+      "part_number": "E151118",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E145193",
+      "subsystem": "",
+      "part_number": "E145193",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E150793",
+      "subsystem": "",
+      "part_number": "E150793",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E142744",
+      "subsystem": "",
+      "part_number": "E142744",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E150532",
+      "subsystem": "",
+      "part_number": "E150532",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E152291",
+      "subsystem": "",
+      "part_number": "E152291",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E150831",
+      "subsystem": "",
+      "part_number": "E150831",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E152297",
+      "subsystem": "",
+      "part_number": "E152297",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E150833",
+      "subsystem": "",
+      "part_number": "E150833",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E150863",
+      "subsystem": "",
+      "part_number": "E150863",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E153796",
+      "subsystem": "",
+      "part_number": "E153796",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E150832",
+      "subsystem": "",
+      "part_number": "E150832",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E144902",
+      "subsystem": "",
+      "part_number": "E144902",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E150871",
+      "subsystem": "",
+      "part_number": "E150871",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E150873",
+      "subsystem": "",
+      "part_number": "E150873",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "/ E152610",
+      "subsystem": "",
+      "part_number": "E152610",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E153348",
+      "subsystem": "",
+      "part_number": "E153348",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E151877",
+      "subsystem": "",
+      "part_number": "E151877",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E150087",
+      "subsystem": "",
+      "part_number": "E150087",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E150131",
+      "subsystem": "",
+      "part_number": "E150131",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E153044",
+      "subsystem": "",
+      "part_number": "E153044",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E149960",
+      "subsystem": "",
+      "part_number": "E149960",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E153094",
+      "subsystem": "",
+      "part_number": "E153094",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E149959",
+      "subsystem": "",
+      "part_number": "E149959",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E153606",
+      "subsystem": "",
+      "part_number": "E153606",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E139164",
+      "subsystem": "",
+      "part_number": "E139164",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E150019",
+      "subsystem": "",
+      "part_number": "E150019",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E151119",
+      "subsystem": "",
+      "part_number": "E151119",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E134952",
+      "subsystem": "",
+      "part_number": "E134952",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E150928",
+      "subsystem": "",
+      "part_number": "E150928",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E135227 DDOLBY PRO LOGIC IIZ",
+      "subsystem": "",
+      "part_number": "E135227",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E145345",
+      "subsystem": "",
+      "part_number": "E145345",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E145346 0 DOLBY PRO LOGIC IIx",
+      "subsystem": "",
+      "part_number": "E145346",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "dts Digital Surround E132541",
+      "subsystem": "",
+      "part_number": "E132541",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E132539",
+      "subsystem": "",
+      "part_number": "E132539",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E132542",
+      "subsystem": "",
+      "part_number": "E132542",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E132540",
+      "subsystem": "",
+      "part_number": "E132540",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E132543",
+      "subsystem": "",
+      "part_number": "E132543",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E132544",
+      "subsystem": "",
+      "part_number": "E132544",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E149957",
+      "subsystem": "",
+      "part_number": "E149957",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E151973",
+      "subsystem": "",
+      "part_number": "E151973",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E151176",
+      "subsystem": "",
+      "part_number": "E151176",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E141042",
+      "subsystem": "",
+      "part_number": "E141042",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E150936",
+      "subsystem": "",
+      "part_number": "E150936",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E153266",
+      "subsystem": "",
+      "part_number": "E153266",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E134358",
+      "subsystem": "",
+      "part_number": "E134358",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E151131",
+      "subsystem": "",
+      "part_number": "E151131",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E151046",
+      "subsystem": "",
+      "part_number": "E151046",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E151051",
+      "subsystem": "",
+      "part_number": "E151051",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E151038",
+      "subsystem": "",
+      "part_number": "E151038",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E132659",
+      "subsystem": "",
+      "part_number": "E132659",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E151133",
+      "subsystem": "",
+      "part_number": "E151133",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E151913",
+      "subsystem": "",
+      "part_number": "E151913",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E132513",
+      "subsystem": "",
+      "part_number": "E132513",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E132675",
+      "subsystem": "",
+      "part_number": "E132675",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E151143",
+      "subsystem": "",
+      "part_number": "E151143",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E151144",
+      "subsystem": "",
+      "part_number": "E151144",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E153138",
+      "subsystem": "",
+      "part_number": "E153138",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "E150838",
+      "subsystem": "",
+      "part_number": "E150838",
+      "source_url": "",
+      "source": "manual:chunks-manual-rr_sport.md"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Моторное масло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Масляный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Воздушный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Свечи зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Катушка зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень ГРМ / цепь ГРМ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень генератора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка клапанной крышки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка ГБЦ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик положения коленвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Расходомер воздуха",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Дроссельная заслонка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Форсунки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Регулятор давления топлива",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Каталитический нейтрализатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель средний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Прокладка выхлопной трубы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Антифриз",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Радиатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Вентилятор радиатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Расширительный бачок",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Крышка расширительного бачка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Патрубки системы охлаждения",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Масло АКПП / МКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Фильтр АКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Сцепление (комплект)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Выжимной подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Главный цилиндр сцепления",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозная жидкость",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Датчик ABS",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные барабанные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Стойка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Втулка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Рычаг подвески",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Сайлентблок рычага",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Шаровая опора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Ступичный подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС наружный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС внутренний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пыльник ШРУСа",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Наконечник рулевой тяги",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Рулевая тяга",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Жидкость ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Насос ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Аккумулятор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Генератор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Стартер",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фара передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фонарь задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Лампы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Предохранители",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Фильтр салонный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Компрессор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Радиатор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Осушитель кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Вентилятор отопителя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Боковое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Ветровое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Заднее стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Зеркало боковое",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Капот",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Крыло переднее",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Дверь",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётки стеклоочистителя передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётка стеклоочистителя задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Бачок омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Насос омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Коврики салона",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Педаль газа / тормоза",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Шина",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Диск колёсный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Гайка колёсная",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    }
+  ]
+}

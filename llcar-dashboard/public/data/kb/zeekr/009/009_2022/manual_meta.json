@@ -1,0 +1,17 @@
+{
+  "brand": "zeekr",
+  "model": "009",
+  "source_path_rel": "zeekr/models/009/",
+  "manual_md_size": 114402,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-009-2022_н_в.md",
+    "manual-009-2022_н_в_2.md",
+    "manual-009-2022_н_в_3.md",
+    "manual-009.md",
+    "manual-b14c4e.md",
+    "manual-b4637c.md",
+    "manual-zeekr_009.md"
+  ]
+}

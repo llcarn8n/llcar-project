@@ -1,0 +1,16 @@
+{
+  "brand": "skoda",
+  "model": "octavia",
+  "source_path_rel": "skoda/models/octavia/",
+  "manual_md_size": 66086676,
+  "has_dita": true,
+  "has_pdf": false,
+  "variants": [
+    "manual-fca483.md",
+    "manual-octavia.md",
+    "manual-octavia_1996.md",
+    "manual-octavia_a5.md",
+    "manual-octavia_a5_ru.md",
+    "manual-ru_reocr.md"
+  ]
+}

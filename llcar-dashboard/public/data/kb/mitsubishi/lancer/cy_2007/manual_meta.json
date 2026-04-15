@@ -1,0 +1,20 @@
+{
+  "brand": "mitsubishi",
+  "model": "lancer",
+  "source_path_rel": "mitsubishi/models/lancer/",
+  "manual_md_size": 1040991186,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-8277c3.md",
+    "manual-f20bbb-old.md",
+    "manual-galant-old.md",
+    "manual-lancer-iv_2025_2026-old.md",
+    "manual-lancer-x-old.md",
+    "manual-lancer_2014-iii_2007_2015-old.md",
+    "manual-lancer_2014-old.md",
+    "manual-lancer_2015-iii_2007_2015-old.md",
+    "manual-lancer_2015-old.md",
+    "manual-lancer_x-iv_2025_2026-old.md"
+  ]
+}

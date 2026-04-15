@@ -1,0 +1,12 @@
+{
+  "brand": "genesis",
+  "model": "g70",
+  "source_path_rel": "genesis/models/g70/",
+  "manual_md_size": 2139550,
+  "has_dita": true,
+  "has_pdf": false,
+  "variants": [
+    "manual-a56449.md",
+    "manual-iv_g70.md"
+  ]
+}

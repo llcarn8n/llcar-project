@@ -1,0 +1,1699 @@
+{
+  "brand": "hyundai",
+  "model": "palisade",
+  "source": "manual_extract+template",
+  "total_parts": 186,
+  "systems": {
+    "Uncategorized": 91,
+    "Engine": 15,
+    "Fuel System": 4,
+    "Exhaust System": 5,
+    "Cooling System": 8,
+    "Transmission": 5,
+    "Brake System": 9,
+    "Suspension / Wheels": 13,
+    "Steering": 4,
+    "Electrical": 8,
+    "HVAC": 5,
+    "Body": 9,
+    "Wiper System": 4,
+    "Interior": 2,
+    "Wheels / Tires": 4
+  },
+  "parts": [
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Я EE THE LESGNATED FUEE AND RELAY ONY + USE SOLD LES FUEBLES Y RELEVACURES ESPEOFICACOS используйте только предназначенные предохранители и реле BAR CODE 8 × 91956-58040 5 о ∞ 0 O HRT К FUAP 08 4 BO 0",
+      "subsystem": "",
+      "part_number": "91956-58040",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "kiwa Attestation of Conformity Cartifcate No according to Mechinery direotive (200642EC) CA18P2083 NO Owner of Certificate SAMKI IND. CO., LTD. #22.Hy-OL B-Ou Uan,Kor Manufacturer SAMKI IND. CO, LTD. ",
+      "subsystem": "",
+      "part_number": "02233870101",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "kiwa Attestation of Conformity Cartifcate No according to Mechinery direotive (200642EC) CA18P2083 NO Owner of Certificate SAMKI IND. CO., LTD. #22.Hy-OL B-Ou Uan,Kor Manufacturer SAMKI IND. CO, LTD. ",
+      "subsystem": "",
+      "part_number": "82230870105",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM038094L",
+      "subsystem": "",
+      "part_number": "OTM038094L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTL035068",
+      "subsystem": "",
+      "part_number": "OTL035068",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM048424L",
+      "subsystem": "",
+      "part_number": "OTM048424L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM048165L",
+      "subsystem": "",
+      "part_number": "OTM048165L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Тип A Тип C 0R D N D OIK047141 OLX2049133N",
+      "subsystem": "",
+      "part_number": "OIK047141",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "③Timer 17:42h 17:42n Hold[OK]: Reset Hold[OK]: Reset OIK047174L/OIK047175L",
+      "subsystem": "",
+      "part_number": "OIK047174L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "③Timer 17:42h 17:42n Hold[OK]: Reset Hold[OK]: Reset OIK047174L/OIK047175L",
+      "subsystem": "",
+      "part_number": "OIK047175L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3Timer 23:27h . 23:27③ Hold[OK]: Reset Hold[OK]: Reset OIK047176L/OIK047177L",
+      "subsystem": "",
+      "part_number": "OIK047176L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3Timer 23:27h . 23:27③ Hold[OK]: Reset Hold[OK]: Reset OIK047176L/OIK047177L",
+      "subsystem": "",
+      "part_number": "OIK047177L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM048446L/OTLE045161/OTM048447L/OTLE045508",
+      "subsystem": "",
+      "part_number": "OTM048446L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM048446L/OTLE045161/OTM048447L/OTLE045508",
+      "subsystem": "",
+      "part_number": "OTM048447L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Тип А OTM048453L",
+      "subsystem": "",
+      "part_number": "OTM048453L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070218L",
+      "subsystem": "",
+      "part_number": "OTM070218L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070172L",
+      "subsystem": "",
+      "part_number": "OTM070172L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070215L",
+      "subsystem": "",
+      "part_number": "OTM070215L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070214L",
+      "subsystem": "",
+      "part_number": "OTM070214L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070216L",
+      "subsystem": "",
+      "part_number": "OTM070216L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070217L",
+      "subsystem": "",
+      "part_number": "OTM070217L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM048437L",
+      "subsystem": "",
+      "part_number": "OTM048437L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OTM070093N/OTM070095N",
+      "subsystem": "",
+      "part_number": "OTM070093N",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OTM070093N/OTM070095N",
+      "subsystem": "",
+      "part_number": "OTM070095N",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070099N",
+      "subsystem": "",
+      "part_number": "OTM070099N",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070100N/OTM070100L",
+      "subsystem": "",
+      "part_number": "OTM070100N",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070100N/OTM070100L",
+      "subsystem": "",
+      "part_number": "OTM070100L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "000000000",
+      "subsystem": "",
+      "part_number": "000000000",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070125N",
+      "subsystem": "",
+      "part_number": "OTM070125N",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Safet asas iocedbled. disabled. Radar blocked OTM070124N/OTM070124L",
+      "subsystem": "",
+      "part_number": "OTM070124N",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Safet asas iocedbled. disabled. Radar blocked OTM070124N/OTM070124L",
+      "subsystem": "",
+      "part_number": "OTM070124L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070184N",
+      "subsystem": "",
+      "part_number": "OTM070184N",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070035N / OTM070035L",
+      "subsystem": "",
+      "part_number": "OTM070035N",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070035N / OTM070035L",
+      "subsystem": "",
+      "part_number": "OTM070035L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Система выключена отовность/отключено Driver Attention Driver Attention System Off Standby Last break Last break 00:06 OIK057129L/OTM058162L",
+      "subsystem": "",
+      "part_number": "OIK057129L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Система выключена отовность/отключено Driver Attention Driver Attention System Off Standby Last break Last break 00:06 OIK057129L/OTM058162L",
+      "subsystem": "",
+      "part_number": "OTM058162L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Low High Low High Last break 00:25 Last break 03:27 OIK057130L/OLX2071065N",
+      "subsystem": "",
+      "part_number": "OIK057130L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070042N / OTM070042L",
+      "subsystem": "",
+      "part_number": "OTM070042N",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070042N / OTM070042L",
+      "subsystem": "",
+      "part_number": "OTM070042L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Slow Slow OTM070142N /OTM070142L",
+      "subsystem": "",
+      "part_number": "OTM070142N",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Slow Slow OTM070142N /OTM070142L",
+      "subsystem": "",
+      "part_number": "OTM070142L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "00S067043",
+      "subsystem": "",
+      "part_number": "00S067043",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "A RON/ROZ 91+ 00 (R+M)/2, AKI 87+ ② E5 (E10) L OTM048455L",
+      "subsystem": "",
+      "part_number": "OTM048455L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "DIESEL U OTM048456L",
+      "subsystem": "",
+      "part_number": "OTM048456L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "QLX2039033L",
+      "subsystem": "",
+      "part_number": "QLX2039033L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Д D 321 654 U A B 8 OLX2039105N",
+      "subsystem": "",
+      "part_number": "OLX2039105N",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Тип батарейки: CR2032 Замена батарейки:",
+      "subsystem": "",
+      "part_number": "CR2032",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Открытие капота - OLX2049033L",
+      "subsystem": "",
+      "part_number": "OLX2049033L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Тип A Тип C 0R D N D OIK047141 OLX2049133N",
+      "subsystem": "",
+      "part_number": "OLX2049133N",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Тип B Всплывающий индикатор D переключения (при наличии) Всплывающий индикатор появляется на комбинации приборов на 2 с и отображает текущее положение рычага переключения передач_ дри переключении диа",
+      "subsystem": "",
+      "part_number": "OLX2049145",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "260 60kn/h 250m 8 9FM 999.9 OLX2048405L",
+      "subsystem": "",
+      "part_number": "OLX2048405L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OLX2041433L/OLX2041434L",
+      "subsystem": "",
+      "part_number": "OLX2041433L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OLX2041433L/OLX2041434L",
+      "subsystem": "",
+      "part_number": "OLX2041434L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OLX2049410L",
+      "subsystem": "",
+      "part_number": "OLX2049410L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OLX2049304L",
+      "subsystem": "",
+      "part_number": "OLX2049304L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OLX2048318",
+      "subsystem": "",
+      "part_number": "OLX2048318",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "0 OLX2048075L",
+      "subsystem": "",
+      "part_number": "OLX2048075L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "п 4 OLX2048092",
+      "subsystem": "",
+      "part_number": "OLX2048092",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OLX2058003",
+      "subsystem": "",
+      "part_number": "OLX2058003",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OLX2058022/OLX2058023",
+      "subsystem": "",
+      "part_number": "OLX2058022",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OLX2058022/OLX2058023",
+      "subsystem": "",
+      "part_number": "OLX2058023",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OLX2051145AU",
+      "subsystem": "",
+      "part_number": "OLX2051145AU",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OLX2058093L [1]: задний угловой радар",
+      "subsystem": "",
+      "part_number": "OLX2058093L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OJX1079057",
+      "subsystem": "",
+      "part_number": "OJX1079057",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OLX2051061N / OLX2051060N",
+      "subsystem": "",
+      "part_number": "OLX2051061N",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OLX2051061N / OLX2051060N",
+      "subsystem": "",
+      "part_number": "OLX2051060N",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OLX2058058L / OLX2058059L",
+      "subsystem": "",
+      "part_number": "OLX2058058L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OLX2058058L / OLX2058059L",
+      "subsystem": "",
+      "part_number": "OLX2058059L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Low High Low High Last break 00:25 Last break 03:27 OIK057130L/OLX2071065N",
+      "subsystem": "",
+      "part_number": "OLX2071065N",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OLX2058049 / OLX2058050",
+      "subsystem": "",
+      "part_number": "OLX2058049",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OLX2058049 / OLX2058050",
+      "subsystem": "",
+      "part_number": "OLX2058050",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OJX1079080L / OJX1079220L",
+      "subsystem": "",
+      "part_number": "OJX1079080L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OJX1079080L / OJX1079220L",
+      "subsystem": "",
+      "part_number": "OJX1079220L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OJX1079076L / OJX1079219L",
+      "subsystem": "",
+      "part_number": "OJX1079076L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OJX1079076L / OJX1079219L",
+      "subsystem": "",
+      "part_number": "OJX1079219L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OLX2058054L",
+      "subsystem": "",
+      "part_number": "OLX2058054L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OJX1079091L/OJX1079223L",
+      "subsystem": "",
+      "part_number": "OJX1079091L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OJX1079091L/OJX1079223L",
+      "subsystem": "",
+      "part_number": "OJX1079223L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OJX1079090L / OJX1079223L",
+      "subsystem": "",
+      "part_number": "OJX1079090L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OMAN - TRA TRA/TA-R/3957/17 D08013 OANATEL015",
+      "subsystem": "",
+      "part_number": "D08013",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ER53878/117 Dealer No:",
+      "subsystem": "",
+      "part_number": "ER53878",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "DA44932/15 OANATEL016",
+      "subsystem": "",
+      "part_number": "DA44932",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OLX2068001",
+      "subsystem": "",
+      "part_number": "OLX2068001",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OLX2068004L",
+      "subsystem": "",
+      "part_number": "OLX2068004L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "A OLX2068011L",
+      "subsystem": "",
+      "part_number": "OLX2068011L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OLX2078010",
+      "subsystem": "",
+      "part_number": "OLX2078010",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Пример \\* dape oenun r сочй SW OT FTE AHOFOO EOLSOME ACOW PCT MCU IANDU / OMFSBL-DIN 68Ah (20HR) ССА 6004 124 RC 113mn (SAE/EN) OLX2078049L",
+      "subsystem": "",
+      "part_number": "OLX2078049L",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OLX2078036",
+      "subsystem": "",
+      "part_number": "OLX2078036",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "4 2 X OLX2078039",
+      "subsystem": "",
+      "part_number": "OLX2078039",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": ".. 410 OLX2088003",
+      "subsystem": "",
+      "part_number": "OLX2088003",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "CE0678",
+      "subsystem": "",
+      "part_number": "CE0678",
+      "source_url": "",
+      "source": "manual:chunks-manual-palisade.md"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Моторное масло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Масляный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Воздушный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Свечи зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Катушка зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень ГРМ / цепь ГРМ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень генератора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка клапанной крышки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка ГБЦ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик положения коленвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Расходомер воздуха",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Дроссельная заслонка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Форсунки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Регулятор давления топлива",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Каталитический нейтрализатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель средний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Прокладка выхлопной трубы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Антифриз",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Радиатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Вентилятор радиатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Расширительный бачок",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Крышка расширительного бачка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Патрубки системы охлаждения",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Масло АКПП / МКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Фильтр АКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Сцепление (комплект)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Выжимной подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Главный цилиндр сцепления",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозная жидкость",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Датчик ABS",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные барабанные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Стойка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Втулка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Рычаг подвески",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Сайлентблок рычага",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Шаровая опора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Ступичный подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС наружный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС внутренний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пыльник ШРУСа",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Наконечник рулевой тяги",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Рулевая тяга",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Жидкость ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Насос ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Аккумулятор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Генератор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Стартер",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фара передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фонарь задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Лампы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Предохранители",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Фильтр салонный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Компрессор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Радиатор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Осушитель кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Вентилятор отопителя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Боковое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Ветровое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Заднее стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Зеркало боковое",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Капот",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Крыло переднее",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Дверь",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётки стеклоочистителя передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётка стеклоочистителя задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Бачок омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Насос омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Коврики салона",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Педаль газа / тормоза",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Шина",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Диск колёсный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Гайка колёсная",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    }
+  ]
+}

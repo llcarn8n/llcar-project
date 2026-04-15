@@ -1,0 +1,17 @@
+{
+  "brand": "bmw",
+  "model": "5_series",
+  "source_path_rel": "bmw/models/5_series/",
+  "manual_md_size": 0,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-5604fd15.md",
+    "manual-5_e28-5_e28.md",
+    "manual-5_e39.md",
+    "manual-5_series.md",
+    "manual-5_series_e28-e28_v2.md",
+    "manual-5_series_f10-f10.md",
+    "manual-5_series_f10.md"
+  ]
+}

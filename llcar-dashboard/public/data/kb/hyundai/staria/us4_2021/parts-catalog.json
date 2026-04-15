@@ -1,0 +1,1827 @@
+{
+  "brand": "hyundai",
+  "model": "staria",
+  "source": "manual_extract+template",
+  "total_parts": 297,
+  "systems": {
+    "Uncategorized": 202,
+    "Engine": 15,
+    "Fuel System": 4,
+    "Exhaust System": 5,
+    "Cooling System": 8,
+    "Transmission": 5,
+    "Brake System": 9,
+    "Suspension / Wheels": 13,
+    "Steering": 4,
+    "Electrical": 8,
+    "HVAC": 5,
+    "Body": 9,
+    "Wiper System": 4,
+    "Interior": 2,
+    "Wheels / Tires": 4
+  },
+  "parts": [
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Моторное масло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Масляный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Воздушный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Свечи зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Катушка зажигания",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень ГРМ / цепь ГРМ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Ремень генератора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка клапанной крышки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Прокладка ГБЦ",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Датчик положения коленвала",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Расходомер воздуха",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Engine",
+      "system_en": "Engine",
+      "part_name": "Дроссельная заслонка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный фильтр",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Топливный насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Форсунки",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Fuel System",
+      "system_en": "Fuel System",
+      "part_name": "Регулятор давления топлива",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Каталитический нейтрализатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Глушитель средний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Прокладка выхлопной трубы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Exhaust System",
+      "system_en": "Exhaust System",
+      "part_name": "Датчик кислорода (лямбда-зонд)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Антифриз",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Радиатор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Термостат",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Водяной насос",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Вентилятор радиатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Расширительный бачок",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Крышка расширительного бачка",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Cooling System",
+      "system_en": "Cooling System",
+      "part_name": "Патрубки системы охлаждения",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Масло АКПП / МКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Фильтр АКПП",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Сцепление (комплект)",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Выжимной подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Transmission",
+      "system_en": "Transmission",
+      "part_name": "Главный цилиндр сцепления",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозной диск задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозная жидкость",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Суппорт тормозной задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Датчик ABS",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Brake System",
+      "system_en": "Brake System",
+      "part_name": "Тормозные барабанные колодки задние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Амортизатор задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пружина подвески задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Стойка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Втулка стабилизатора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Рычаг подвески",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Сайлентблок рычага",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Шаровая опора",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Ступичный подшипник",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС наружный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "ШРУС внутренний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Suspension / Wheels",
+      "system_en": "Suspension / Wheels",
+      "part_name": "Пыльник ШРУСа",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Наконечник рулевой тяги",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Рулевая тяга",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Жидкость ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Steering",
+      "system_en": "Steering",
+      "part_name": "Насос ГУР",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Аккумулятор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Генератор",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Стартер",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фара передняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Фонарь задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Лампы",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Предохранители",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Electrical",
+      "system_en": "Electrical",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Фильтр салонный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Компрессор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Радиатор кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Осушитель кондиционера",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "HVAC",
+      "system_en": "HVAC",
+      "part_name": "Вентилятор отопителя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Боковое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Ветровое стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Заднее стекло",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Зеркало боковое",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер передний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Бампер задний",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Капот",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Крыло переднее",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Body",
+      "system_en": "Body",
+      "part_name": "Дверь",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётки стеклоочистителя передние",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Щётка стеклоочистителя задняя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Бачок омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wiper System",
+      "system_en": "Wiper System",
+      "part_name": "Насос омывателя",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Коврики салона",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Interior",
+      "system_en": "Interior",
+      "part_name": "Педаль газа / тормоза",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Шина",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Диск колёсный",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Гайка колёсная",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "Wheels / Tires",
+      "system_en": "Wheels / Tires",
+      "part_name": "Датчик давления в шинах",
+      "subsystem": "",
+      "part_number": "",
+      "source_url": "",
+      "source": "template"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "EPB 2 1 60 80 1012050 6 D 3 5 2 6 40 180 6 20 210 7 0 km/h 240 0 x1000rpm 8 5 59624 4 123457. 0 10 20 30 12.5 km/L 8 5",
+      "subsystem": "",
+      "part_number": "60801012050",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Name 00000000000 Принять 2 Отклонить",
+      "subsystem": "",
+      "part_number": "00000000000",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM048456L",
+      "subsystem": "",
+      "part_number": "OTM048456L",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM048455L",
+      "subsystem": "",
+      "part_number": "OTM048455L",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OHI038169L",
+      "subsystem": "",
+      "part_number": "OHI038169L",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OHI038170L",
+      "subsystem": "",
+      "part_number": "OHI038170L",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM040010",
+      "subsystem": "",
+      "part_number": "OTM040010",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM040010L",
+      "subsystem": "",
+      "part_number": "OTM040010L",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM040012",
+      "subsystem": "",
+      "part_number": "OTM040012",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM040012L",
+      "subsystem": "",
+      "part_number": "OTM040012L",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM040013",
+      "subsystem": "",
+      "part_number": "OTM040013",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OIG059097L",
+      "subsystem": "",
+      "part_number": "OIG059097L",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "30 10 20 30 3 10 20 30 OTM040063L OTM040064L",
+      "subsystem": "",
+      "part_number": "OTM040063L",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "30 10 20 30 3 10 20 30 OTM040063L OTM040064L",
+      "subsystem": "",
+      "part_number": "OTM040064L",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ТипА Тип B Since Refuelling Since Refuelling ①Trip 256.4 km 0 е 256.4km ② Avg. 12.61/10m 2 Р 12.6 1/100km 3 3 0 10 20 30 0 10 20 30 OTM040065L OTM040066L",
+      "subsystem": "",
+      "part_number": "OTM040065L",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ТипА Тип B Since Refuelling Since Refuelling ①Trip 256.4 km 0 е 256.4km ② Avg. 12.61/10m 2 Р 12.6 1/100km 3 3 0 10 20 30 0 10 20 30 OTM040065L OTM040066L",
+      "subsystem": "",
+      "part_number": "OTM040066L",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ТипА Тип В Accumulated info Accumulated info ① Trip 256.4 km 0 256.4 km ② Avg. 12.61/00m 2 8 12.6 L/100kkm 3 3 0 10 20 30 0 10 20 30 OTM040067L OTM040068L",
+      "subsystem": "",
+      "part_number": "OTM040067L",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ТипА Тип В Accumulated info Accumulated info ① Trip 256.4 km 0 256.4 km ② Avg. 12.61/00m 2 8 12.6 L/100kkm 3 3 0 10 20 30 0 10 20 30 OTM040067L OTM040068L",
+      "subsystem": "",
+      "part_number": "OTM040068L",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3Timer 23:27h 30 23:27 n OJX1049011L OTM040061L",
+      "subsystem": "",
+      "part_number": "OTM040061L",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OAE056172L",
+      "subsystem": "",
+      "part_number": "OAE056172L",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OIK060065L",
+      "subsystem": "",
+      "part_number": "OIK060065L",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070140N",
+      "subsystem": "",
+      "part_number": "OTM070140N",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070093N",
+      "subsystem": "",
+      "part_number": "OTM070093N",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "### OTM070090N",
+      "subsystem": "",
+      "part_number": "OTM070090N",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070202N",
+      "subsystem": "",
+      "part_number": "OTM070202N",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070097N",
+      "subsystem": "",
+      "part_number": "OTM070097N",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070098N",
+      "subsystem": "",
+      "part_number": "OTM070098N",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070096N Тип В",
+      "subsystem": "",
+      "part_number": "OTM070096N",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OOS070043L",
+      "subsystem": "",
+      "part_number": "OOS070043L",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "00000000 A B A о 000000000 [1]: задний угловой радар Смотрите точное расположение датчика обнаружения на иллюстрации выше.",
+      "subsystem": "",
+      "part_number": "000000000",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OTM070125N",
+      "subsystem": "",
+      "part_number": "OTM070125N",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "212V 4 RC 190min (SAE/EN)) OHI078083L",
+      "subsystem": "",
+      "part_number": "OHI078083L",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OHI078082L",
+      "subsystem": "",
+      "part_number": "OHI078082L",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "0 TYO-3 amoon 8- Tron C 2 x 25A 10A 10A 75A 7.5A 75A 104 15A 75A 75A 91990–0G020 1 arroon E C 4 20A annoon 1OA 75A 15A 2 anoon 10A 75A 104 75A usno 52 104 25A 10A 1OA 104 15A 7.5A 7SA 0 0 amoon a 7 2 ",
+      "subsystem": "",
+      "part_number": "20A204204",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "0 TYO-3 amoon 8- Tron C 2 x 25A 10A 10A 75A 7.5A 75A 104 15A 75A 75A 91990–0G020 1 arroon E C 4 20A annoon 1OA 75A 15A 2 anoon 10A 75A 104 75A usno 52 104 25A 10A 1OA 104 15A 7.5A 7SA 0 0 amoon a 7 2 ",
+      "subsystem": "",
+      "part_number": "30A304304",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OIK090113L",
+      "subsystem": "",
+      "part_number": "OIK090113L",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OIK090114L",
+      "subsystem": "",
+      "part_number": "OIK090114L",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4011001",
+      "subsystem": "",
+      "part_number": "OUS4011001",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4011002",
+      "subsystem": "",
+      "part_number": "OUS4011002",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4011003",
+      "subsystem": "",
+      "part_number": "OUS4011003",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4011003R",
+      "subsystem": "",
+      "part_number": "OUS4011003R",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4011004L",
+      "subsystem": "",
+      "part_number": "OUS4011004L",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4011004R",
+      "subsystem": "",
+      "part_number": "OUS4011004R",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4011005",
+      "subsystem": "",
+      "part_number": "OUS4011005",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4091001",
+      "subsystem": "",
+      "part_number": "OUS4091001",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4091002",
+      "subsystem": "",
+      "part_number": "OUS4091002",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "CE CE0678",
+      "subsystem": "",
+      "part_number": "CE0678",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4031004",
+      "subsystem": "",
+      "part_number": "OUS4031004",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4031004R",
+      "subsystem": "",
+      "part_number": "OUS4031004R",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4031003",
+      "subsystem": "",
+      "part_number": "OUS4031003",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4031003R",
+      "subsystem": "",
+      "part_number": "OUS4031003R",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4031001L",
+      "subsystem": "",
+      "part_number": "OUS4031001L",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4031001R",
+      "subsystem": "",
+      "part_number": "OUS4031001R",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4031002",
+      "subsystem": "",
+      "part_number": "OUS4031002",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4031002R",
+      "subsystem": "",
+      "part_number": "OUS4031002R",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4031130L",
+      "subsystem": "",
+      "part_number": "OUS4031130L",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4031130R",
+      "subsystem": "",
+      "part_number": "OUS4031130R",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4031097",
+      "subsystem": "",
+      "part_number": "OUS4031097",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4031128L",
+      "subsystem": "",
+      "part_number": "OUS4031128L",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4031129L",
+      "subsystem": "",
+      "part_number": "OUS4031129L",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4031061",
+      "subsystem": "",
+      "part_number": "OUS4031061",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4031062",
+      "subsystem": "",
+      "part_number": "OUS4031062",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4031055",
+      "subsystem": "",
+      "part_number": "OUS4031055",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4031065",
+      "subsystem": "",
+      "part_number": "OUS4031065",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4031066L",
+      "subsystem": "",
+      "part_number": "OUS4031066L",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4031066R",
+      "subsystem": "",
+      "part_number": "OUS4031066R",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4031074/OUS4031075/OUS4031076/OUS4031077",
+      "subsystem": "",
+      "part_number": "OUS4031074",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4031074/OUS4031075/OUS4031076/OUS4031077",
+      "subsystem": "",
+      "part_number": "OUS4031075",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4031074/OUS4031075/OUS4031076/OUS4031077",
+      "subsystem": "",
+      "part_number": "OUS4031076",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4031074/OUS4031075/OUS4031076/OUS4031077",
+      "subsystem": "",
+      "part_number": "OUS4031077",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4041001",
+      "subsystem": "",
+      "part_number": "OUS4041001",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4041044L/OUS4041019L",
+      "subsystem": "",
+      "part_number": "OUS4041044L",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4041044L/OUS4041019L",
+      "subsystem": "",
+      "part_number": "OUS4041019L",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4041035L",
+      "subsystem": "",
+      "part_number": "OUS4041035L",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4041004",
+      "subsystem": "",
+      "part_number": "OUS4041004",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4041004L",
+      "subsystem": "",
+      "part_number": "OUS4041004L",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4041005",
+      "subsystem": "",
+      "part_number": "OUS4041005",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4041005L",
+      "subsystem": "",
+      "part_number": "OUS4041005L",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4041006",
+      "subsystem": "",
+      "part_number": "OUS4041006",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4041007",
+      "subsystem": "",
+      "part_number": "OUS4041007",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ODN8049020",
+      "subsystem": "",
+      "part_number": "ODN8049020",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4041011",
+      "subsystem": "",
+      "part_number": "OUS4041011",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OCN7060149",
+      "subsystem": "",
+      "part_number": "OCN7060149",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4071056L",
+      "subsystem": "",
+      "part_number": "OUS4071056L",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4041012",
+      "subsystem": "",
+      "part_number": "OUS4041012",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3Timer 23:27h 30 23:27 n OJX1049011L OTM040061L",
+      "subsystem": "",
+      "part_number": "OJX1049011L",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Timer 23:27h ③0 23:27h OJX1049013L OJX1049066L",
+      "subsystem": "",
+      "part_number": "OJX1049013L",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Timer 23:27h ③0 23:27h OJX1049013L OJX1049066L",
+      "subsystem": "",
+      "part_number": "OJX1049066L",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3Timer 23:27h ③0 23:27 h OJX1049012L OJX1049067L",
+      "subsystem": "",
+      "part_number": "OJX1049012L",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "3Timer 23:27h ③0 23:27 h OJX1049012L OJX1049067L",
+      "subsystem": "",
+      "part_number": "OJX1049067L",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4041021L",
+      "subsystem": "",
+      "part_number": "OUS4041021L",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4041022L",
+      "subsystem": "",
+      "part_number": "OUS4041022L",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "Тип батарейки: CR2032",
+      "subsystem": "",
+      "part_number": "CR2032",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4051051",
+      "subsystem": "",
+      "part_number": "OUS4051051",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4051051R",
+      "subsystem": "",
+      "part_number": "OUS4051051R",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "9 OCN7050082",
+      "subsystem": "",
+      "part_number": "OCN7050082",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4051290",
+      "subsystem": "",
+      "part_number": "OUS4051290",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "− OUS4051216 C OUS4051217",
+      "subsystem": "",
+      "part_number": "OUS4051216",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "− OUS4051216 C OUS4051217",
+      "subsystem": "",
+      "part_number": "OUS4051217",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "ONX4050042",
+      "subsystem": "",
+      "part_number": "ONX4050042",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4051100/OUS4051147L",
+      "subsystem": "",
+      "part_number": "OUS4051100",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4051100/OUS4051147L",
+      "subsystem": "",
+      "part_number": "OUS4051147L",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4051100R",
+      "subsystem": "",
+      "part_number": "OUS4051100R",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4051101",
+      "subsystem": "",
+      "part_number": "OUS4051101",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    },
+    {
+      "system": "",
+      "system_en": "",
+      "part_name": "OUS4051105R",
+      "subsystem": "",
+      "part_number": "OUS4051105R",
+      "source_url": "",
+      "source": "manual:chunks-manual-staria.md"
+    }
+  ],
+  "parts_total_original": 297,
+  "parts_capped": true
+}

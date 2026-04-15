@@ -1,0 +1,12 @@
+{
+  "brand": "honda",
+  "model": "civic",
+  "source_path_rel": "honda/models/civic/",
+  "manual_md_size": 1290630,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-civic.md",
+    "manual-i_1998_2001.md"
+  ]
+}

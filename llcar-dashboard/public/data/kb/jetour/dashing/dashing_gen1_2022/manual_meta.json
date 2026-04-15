@@ -1,0 +1,12 @@
+{
+  "brand": "jetour",
+  "model": "dashing",
+  "source_path_rel": "jetour/models/dashing/",
+  "manual_md_size": 1803654,
+  "has_dita": true,
+  "has_pdf": false,
+  "variants": [
+    "manual-2022_н_в.md",
+    "manual-f09ef6.md"
+  ]
+}

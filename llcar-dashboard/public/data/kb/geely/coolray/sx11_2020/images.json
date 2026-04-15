@@ -1,0 +1,2502 @@
+[
+  {
+    "filename": "00045738a906d165e814449f969ed1b414a50790338a6ad8e0afcdafde02c28a.webp",
+    "size": 4502,
+    "source_rel": "geely/models/coolray/images/00045738a906d165e814449f969ed1b414a50790338a6ad8e0afcdafde02c28a.webp"
+  },
+  {
+    "filename": "0010bf13b7541a97218b4ca85e4a6dde2b0d6bc41200d01a9e11b8eacbd90292.webp",
+    "size": 714,
+    "source_rel": "geely/models/coolray/images/0010bf13b7541a97218b4ca85e4a6dde2b0d6bc41200d01a9e11b8eacbd90292.webp"
+  },
+  {
+    "filename": "0013eb47e7f86237f8ad77544ac0ba2a7f762969530d5e1c81c2df413071ab59.webp",
+    "size": 2078,
+    "source_rel": "geely/models/coolray/images/0013eb47e7f86237f8ad77544ac0ba2a7f762969530d5e1c81c2df413071ab59.webp"
+  },
+  {
+    "filename": "00259e66f9bf276e57aeec86831ec178349a7be0729faacee12fa0f0ed1b1684.webp",
+    "size": 3110,
+    "source_rel": "geely/models/coolray/images/00259e66f9bf276e57aeec86831ec178349a7be0729faacee12fa0f0ed1b1684.webp"
+  },
+  {
+    "filename": "002677f96ccec59b1d5cebaf9920087f16ae072f272958f9f26d2d424708c05d.webp",
+    "size": 4558,
+    "source_rel": "geely/models/coolray/images/002677f96ccec59b1d5cebaf9920087f16ae072f272958f9f26d2d424708c05d.webp"
+  },
+  {
+    "filename": "002d86183e7554b35ceb95942174d614ff75527a508869c34ee358923ed25060.webp",
+    "size": 18160,
+    "source_rel": "geely/models/coolray/images/002d86183e7554b35ceb95942174d614ff75527a508869c34ee358923ed25060.webp"
+  },
+  {
+    "filename": "00313c315e70d68608558332a72d4a71f1db3527103642c6d848fc92f8d6d3ed.webp",
+    "size": 57462,
+    "source_rel": "geely/models/coolray/images/00313c315e70d68608558332a72d4a71f1db3527103642c6d848fc92f8d6d3ed.webp"
+  },
+  {
+    "filename": "00344cd66016b771d4903400901ead5892581dbf57029fc47490143f61a8a2f3.webp",
+    "size": 9754,
+    "source_rel": "geely/models/coolray/images/00344cd66016b771d4903400901ead5892581dbf57029fc47490143f61a8a2f3.webp"
+  },
+  {
+    "filename": "0038ae0c08315c8cbd51e3d2d0e86831d28e2ba2f935a3fa6790955e6df72558.webp",
+    "size": 2832,
+    "source_rel": "geely/models/coolray/images/0038ae0c08315c8cbd51e3d2d0e86831d28e2ba2f935a3fa6790955e6df72558.webp"
+  },
+  {
+    "filename": "003b238331c80fbd5bf3be07fc672fd39ee307f285c174cdabef08f11a5d9ab1.webp",
+    "size": 141128,
+    "source_rel": "geely/models/coolray/images/003b238331c80fbd5bf3be07fc672fd39ee307f285c174cdabef08f11a5d9ab1.webp"
+  },
+  {
+    "filename": "003f2e3d83009a9a51a87e100556f30f93d73c49dcfd38315bd06915c768f376.webp",
+    "size": 14810,
+    "source_rel": "geely/models/coolray/images/003f2e3d83009a9a51a87e100556f30f93d73c49dcfd38315bd06915c768f376.webp"
+  },
+  {
+    "filename": "00574030b5fdd575377e065681538006b4164535ae1e4030f0ff2a9fe54475be.webp",
+    "size": 28214,
+    "source_rel": "geely/models/coolray/images/00574030b5fdd575377e065681538006b4164535ae1e4030f0ff2a9fe54475be.webp"
+  },
+  {
+    "filename": "0076d2384cc69b85feec611fffcdaef91c46a04aad0c050b4dc865e443a3f30c.webp",
+    "size": 82948,
+    "source_rel": "geely/models/coolray/images/0076d2384cc69b85feec611fffcdaef91c46a04aad0c050b4dc865e443a3f30c.webp"
+  },
+  {
+    "filename": "0089150daaabd3a665950992a4ae962837f0bea4144e948fb1626163d06c778e.webp",
+    "size": 83076,
+    "source_rel": "geely/models/coolray/images/0089150daaabd3a665950992a4ae962837f0bea4144e948fb1626163d06c778e.webp"
+  },
+  {
+    "filename": "008e42268b14f5cd38fb74318325e76d7bd6220cac548f15dcb0f66e4ca1e3c8.webp",
+    "size": 20382,
+    "source_rel": "geely/models/coolray/images/008e42268b14f5cd38fb74318325e76d7bd6220cac548f15dcb0f66e4ca1e3c8.webp"
+  },
+  {
+    "filename": "00944892da325c2ff8c06f60a7ae71ae4c8c7a28995cce4a0fa827100ca40bde.webp",
+    "size": 37642,
+    "source_rel": "geely/models/coolray/images/00944892da325c2ff8c06f60a7ae71ae4c8c7a28995cce4a0fa827100ca40bde.webp"
+  },
+  {
+    "filename": "00967563ea9ad0bab2ec90c4fb1c973b21d0f7cb1bc76f36efb7419b19d91af9.webp",
+    "size": 61874,
+    "source_rel": "geely/models/coolray/images/00967563ea9ad0bab2ec90c4fb1c973b21d0f7cb1bc76f36efb7419b19d91af9.webp"
+  },
+  {
+    "filename": "0096e644bb1be63d82ee51751cb64692366940171664a93cf83ed971a7128961.webp",
+    "size": 32148,
+    "source_rel": "geely/models/coolray/images/0096e644bb1be63d82ee51751cb64692366940171664a93cf83ed971a7128961.webp"
+  },
+  {
+    "filename": "00a281d8cfd05ca383f306b7bc88d2577e6f65bf5a3c6f053358776071b53fb2.webp",
+    "size": 3226,
+    "source_rel": "geely/models/coolray/images/00a281d8cfd05ca383f306b7bc88d2577e6f65bf5a3c6f053358776071b53fb2.webp"
+  },
+  {
+    "filename": "00ab61df998ae715efdf5cc6d96b31eb4d42669392f06a4502614adb8b8bfd3c.webp",
+    "size": 15478,
+    "source_rel": "geely/models/coolray/images/00ab61df998ae715efdf5cc6d96b31eb4d42669392f06a4502614adb8b8bfd3c.webp"
+  },
+  {
+    "filename": "00b089386fe2a6a807d381d8dc4b9304b9ca8b21df94c52199a64f5ba4e62c8a.webp",
+    "size": 28830,
+    "source_rel": "geely/models/coolray/images/00b089386fe2a6a807d381d8dc4b9304b9ca8b21df94c52199a64f5ba4e62c8a.webp"
+  },
+  {
+    "filename": "00b1d846e959b66d8e2e9b53e45d2d388f4beaa9d77efe2163c7e28285c8646f.webp",
+    "size": 112944,
+    "source_rel": "geely/models/coolray/images/00b1d846e959b66d8e2e9b53e45d2d388f4beaa9d77efe2163c7e28285c8646f.webp"
+  },
+  {
+    "filename": "00b99277efedf58d34edd65dcc4ed22491dd8dc680e6126f7021ea2502ed4f3e.webp",
+    "size": 13708,
+    "source_rel": "geely/models/coolray/images/00b99277efedf58d34edd65dcc4ed22491dd8dc680e6126f7021ea2502ed4f3e.webp"
+  },
+  {
+    "filename": "00be207f032ba505735a839ff08203af5dd27be17daae21ccc4a1ef8841a2042.webp",
+    "size": 3916,
+    "source_rel": "geely/models/coolray/images/00be207f032ba505735a839ff08203af5dd27be17daae21ccc4a1ef8841a2042.webp"
+  },
+  {
+    "filename": "00c29cff9e4bf01997928ed8832cbb22762db4aaa856d595ce85a5f0748c147e.webp",
+    "size": 2294,
+    "source_rel": "geely/models/coolray/images/00c29cff9e4bf01997928ed8832cbb22762db4aaa856d595ce85a5f0748c147e.webp"
+  },
+  {
+    "filename": "00d8b3b3c5d59bdae81816a82d39ccc8f9a9f4da5a3d739babf6df1634dd2c90.webp",
+    "size": 50974,
+    "source_rel": "geely/models/coolray/images/00d8b3b3c5d59bdae81816a82d39ccc8f9a9f4da5a3d739babf6df1634dd2c90.webp"
+  },
+  {
+    "filename": "00dba848bfd4e11a9edb5e7c1c4e1c2fb658d2a9cc317d7e3f58896407ece83a.webp",
+    "size": 19338,
+    "source_rel": "geely/models/coolray/images/00dba848bfd4e11a9edb5e7c1c4e1c2fb658d2a9cc317d7e3f58896407ece83a.webp"
+  },
+  {
+    "filename": "00e037ef046c38631ec6244e31aed894c888c3c5be883c13d5e1e09daccd7639.webp",
+    "size": 103374,
+    "source_rel": "geely/models/coolray/images/00e037ef046c38631ec6244e31aed894c888c3c5be883c13d5e1e09daccd7639.webp"
+  },
+  {
+    "filename": "00ed4e02074f0a7f8a212595c22a940ed11a7b1df77f052e122f37142cd2e5ff.webp",
+    "size": 10778,
+    "source_rel": "geely/models/coolray/images/00ed4e02074f0a7f8a212595c22a940ed11a7b1df77f052e122f37142cd2e5ff.webp"
+  },
+  {
+    "filename": "010294b070305a2d8c77f8d3b137ab331949539684ac7b90f0931fea1813c273.webp",
+    "size": 51150,
+    "source_rel": "geely/models/coolray/images/010294b070305a2d8c77f8d3b137ab331949539684ac7b90f0931fea1813c273.webp"
+  },
+  {
+    "filename": "010386101db90d4e0c9899e96b48eda8205fa43da2365a4cb1740a829a347989.webp",
+    "size": 2044,
+    "source_rel": "geely/models/coolray/images/010386101db90d4e0c9899e96b48eda8205fa43da2365a4cb1740a829a347989.webp"
+  },
+  {
+    "filename": "012f184d5ead2ab9c8839bc66e824237b99eb8dfb8633822630818b2d1da247a.webp",
+    "size": 128394,
+    "source_rel": "geely/models/coolray/images/012f184d5ead2ab9c8839bc66e824237b99eb8dfb8633822630818b2d1da247a.webp"
+  },
+  {
+    "filename": "0133d25041353766bb716f8ab6aed63c48659bde4841a2991c200713ee34e9cc.webp",
+    "size": 10852,
+    "source_rel": "geely/models/coolray/images/0133d25041353766bb716f8ab6aed63c48659bde4841a2991c200713ee34e9cc.webp"
+  },
+  {
+    "filename": "01447365c2fa6d35d213ed09aa2125e0253754f5226e6c3ff66b81f944df4210.webp",
+    "size": 38768,
+    "source_rel": "geely/models/coolray/images/01447365c2fa6d35d213ed09aa2125e0253754f5226e6c3ff66b81f944df4210.webp"
+  },
+  {
+    "filename": "014e478ad27ac529237ab12956bfff39feabb1ebb8b99b3cb2b1d485ffdcbfc4.webp",
+    "size": 23770,
+    "source_rel": "geely/models/coolray/images/014e478ad27ac529237ab12956bfff39feabb1ebb8b99b3cb2b1d485ffdcbfc4.webp"
+  },
+  {
+    "filename": "01580fa3595c9873a32d84f67db616971ad72c5cee2239724dd4373e55992a70.webp",
+    "size": 30396,
+    "source_rel": "geely/models/coolray/images/01580fa3595c9873a32d84f67db616971ad72c5cee2239724dd4373e55992a70.webp"
+  },
+  {
+    "filename": "0163f0b4a20bdd370c09d09159290b58b47ebd6c9135efde9e00fe270f451303.webp",
+    "size": 33006,
+    "source_rel": "geely/models/coolray/images/0163f0b4a20bdd370c09d09159290b58b47ebd6c9135efde9e00fe270f451303.webp"
+  },
+  {
+    "filename": "0164fd5c9a1a2601a1ba69165dc6c1ac8ee26a9eaf1153bc693c6408ce0ac0c6.webp",
+    "size": 3472,
+    "source_rel": "geely/models/coolray/images/0164fd5c9a1a2601a1ba69165dc6c1ac8ee26a9eaf1153bc693c6408ce0ac0c6.webp"
+  },
+  {
+    "filename": "016903f7e7cddfcd71404e595f2de532b16a1df8f0c96f27587f0caf3a17fc16.webp",
+    "size": 106570,
+    "source_rel": "geely/models/coolray/images/016903f7e7cddfcd71404e595f2de532b16a1df8f0c96f27587f0caf3a17fc16.webp"
+  },
+  {
+    "filename": "016fb59bd31297f13bb183dfe77ceead2c53926e40c0940724c568b08d52e024.webp",
+    "size": 13772,
+    "source_rel": "geely/models/coolray/images/016fb59bd31297f13bb183dfe77ceead2c53926e40c0940724c568b08d52e024.webp"
+  },
+  {
+    "filename": "016fda3dafb9e75b1c0d80d4ff1ba504b6ce7173a8cd1e15bd0134bd275c426c.webp",
+    "size": 3458,
+    "source_rel": "geely/models/coolray/images/016fda3dafb9e75b1c0d80d4ff1ba504b6ce7173a8cd1e15bd0134bd275c426c.webp"
+  },
+  {
+    "filename": "018c2913ca52cde02652fde897a2fe6b8ce7e44d1881b61e7d068922c356a9c8.webp",
+    "size": 34358,
+    "source_rel": "geely/models/coolray/images/018c2913ca52cde02652fde897a2fe6b8ce7e44d1881b61e7d068922c356a9c8.webp"
+  },
+  {
+    "filename": "01926dda4beaffaa4de38117536388cc917f0ae07a947617a6a7a6b33b943a31.webp",
+    "size": 9774,
+    "source_rel": "geely/models/coolray/images/01926dda4beaffaa4de38117536388cc917f0ae07a947617a6a7a6b33b943a31.webp"
+  },
+  {
+    "filename": "019696d3453b0bc2333665c059bde2a5be7de66b8162d75ff81fdaacbea66254.webp",
+    "size": 30200,
+    "source_rel": "geely/models/coolray/images/019696d3453b0bc2333665c059bde2a5be7de66b8162d75ff81fdaacbea66254.webp"
+  },
+  {
+    "filename": "01cc1954984cb7ea5bd2aea32ccdb4a4bc879b333d245cc9fcbdb09518257eba.webp",
+    "size": 58186,
+    "source_rel": "geely/models/coolray/images/01cc1954984cb7ea5bd2aea32ccdb4a4bc879b333d245cc9fcbdb09518257eba.webp"
+  },
+  {
+    "filename": "01cda36b360633441387aac48faa172cc9a1a182556a924aeadda799670ebaad.webp",
+    "size": 112598,
+    "source_rel": "geely/models/coolray/images/01cda36b360633441387aac48faa172cc9a1a182556a924aeadda799670ebaad.webp"
+  },
+  {
+    "filename": "01d107c3b3d53156b5d2d748581b7d431d5c18a313937b338cc5c2ad48e5a73c.webp",
+    "size": 9408,
+    "source_rel": "geely/models/coolray/images/01d107c3b3d53156b5d2d748581b7d431d5c18a313937b338cc5c2ad48e5a73c.webp"
+  },
+  {
+    "filename": "01dd92488874f00655149aca6f5044a27636c6c99fb9021b9b4a790c57419e6e.webp",
+    "size": 37396,
+    "source_rel": "geely/models/coolray/images/01dd92488874f00655149aca6f5044a27636c6c99fb9021b9b4a790c57419e6e.webp"
+  },
+  {
+    "filename": "01ecf73d389578cfb08300dbb23159a744e103de09ba282aa697bce53b11948f.webp",
+    "size": 7356,
+    "source_rel": "geely/models/coolray/images/01ecf73d389578cfb08300dbb23159a744e103de09ba282aa697bce53b11948f.webp"
+  },
+  {
+    "filename": "01f2f1b853b3acf8f884f9d9ddd6d43e745032bb36218b036afe11601c91b7c8.webp",
+    "size": 69688,
+    "source_rel": "geely/models/coolray/images/01f2f1b853b3acf8f884f9d9ddd6d43e745032bb36218b036afe11601c91b7c8.webp"
+  },
+  {
+    "filename": "01f7d372c95b68bfb31f541862e2149ead84ea331a226ce2479dd769db3153ef.webp",
+    "size": 2534,
+    "source_rel": "geely/models/coolray/images/01f7d372c95b68bfb31f541862e2149ead84ea331a226ce2479dd769db3153ef.webp"
+  },
+  {
+    "filename": "0206f0d9a019da98e4ee4e7f90c5be459b44bb853fe4177709266b2b8de75964.webp",
+    "size": 112204,
+    "source_rel": "geely/models/coolray/images/0206f0d9a019da98e4ee4e7f90c5be459b44bb853fe4177709266b2b8de75964.webp"
+  },
+  {
+    "filename": "0208c4b7ed126fd4290383a6331e403b0247dff622fbb8b5af14c45659f16dd5.webp",
+    "size": 17614,
+    "source_rel": "geely/models/coolray/images/0208c4b7ed126fd4290383a6331e403b0247dff622fbb8b5af14c45659f16dd5.webp"
+  },
+  {
+    "filename": "020fedfd41edec372313e829c580a2710bc6cfdea1481de69c38dc432a910d26.webp",
+    "size": 4094,
+    "source_rel": "geely/models/coolray/images/020fedfd41edec372313e829c580a2710bc6cfdea1481de69c38dc432a910d26.webp"
+  },
+  {
+    "filename": "021155c197b0e48d75b58f1517839822f9d9ed069eb6f1b7c420700be10fa07a.webp",
+    "size": 99154,
+    "source_rel": "geely/models/coolray/images/021155c197b0e48d75b58f1517839822f9d9ed069eb6f1b7c420700be10fa07a.webp"
+  },
+  {
+    "filename": "0212b1a687c6d68a62217fa3ab45680bb94bb580f359558cc25254714276adbc.webp",
+    "size": 4490,
+    "source_rel": "geely/models/coolray/images/0212b1a687c6d68a62217fa3ab45680bb94bb580f359558cc25254714276adbc.webp"
+  },
+  {
+    "filename": "021a598aff99914c478045eab398be8f37e38096b571a2fc3c3dbd91f465c10f.webp",
+    "size": 82446,
+    "source_rel": "geely/models/coolray/images/021a598aff99914c478045eab398be8f37e38096b571a2fc3c3dbd91f465c10f.webp"
+  },
+  {
+    "filename": "0226038d23fdb388bedb5b03d5198dcb7c022e4e46d1b148fbc2006618f7d73d.webp",
+    "size": 75846,
+    "source_rel": "geely/models/coolray/images/0226038d23fdb388bedb5b03d5198dcb7c022e4e46d1b148fbc2006618f7d73d.webp"
+  },
+  {
+    "filename": "022c2ff5b469d4a64f49ca84ef83f0d513d976533bc7b620f54519da82f8828c.webp",
+    "size": 38598,
+    "source_rel": "geely/models/coolray/images/022c2ff5b469d4a64f49ca84ef83f0d513d976533bc7b620f54519da82f8828c.webp"
+  },
+  {
+    "filename": "02314e4345fbaa5db40a31d10286ec55cfa25be2f928779989840476ec320719.webp",
+    "size": 194920,
+    "source_rel": "geely/models/coolray/images/02314e4345fbaa5db40a31d10286ec55cfa25be2f928779989840476ec320719.webp"
+  },
+  {
+    "filename": "0239dafee9ae03666a498c784f72d406892d48c2170052e4b180d92f6db1423f.webp",
+    "size": 1456,
+    "source_rel": "geely/models/coolray/images/0239dafee9ae03666a498c784f72d406892d48c2170052e4b180d92f6db1423f.webp"
+  },
+  {
+    "filename": "023e8ebb8fa1f529cbd61ffd45cfce407309c7945c2ca36543efcdb66711042d.webp",
+    "size": 96480,
+    "source_rel": "geely/models/coolray/images/023e8ebb8fa1f529cbd61ffd45cfce407309c7945c2ca36543efcdb66711042d.webp"
+  },
+  {
+    "filename": "0251095f9b5eea3ec7e5806523b267b20023a14646c21cfb043b47f9904094e6.webp",
+    "size": 3382,
+    "source_rel": "geely/models/coolray/images/0251095f9b5eea3ec7e5806523b267b20023a14646c21cfb043b47f9904094e6.webp"
+  },
+  {
+    "filename": "02515f6288e918f613e1c38301f2d4bbda18d7acf837e4239e6e95894ff7af20.webp",
+    "size": 4172,
+    "source_rel": "geely/models/coolray/images/02515f6288e918f613e1c38301f2d4bbda18d7acf837e4239e6e95894ff7af20.webp"
+  },
+  {
+    "filename": "0257c3544e259b5663573f334487f89258b3d9a74f1860ec0b40b544c4df23db.webp",
+    "size": 2820,
+    "source_rel": "geely/models/coolray/images/0257c3544e259b5663573f334487f89258b3d9a74f1860ec0b40b544c4df23db.webp"
+  },
+  {
+    "filename": "025c618fd0e5b0aaebf370cdff21d3afd40fee44a79f59aeeab5a763c35f4a68.webp",
+    "size": 16486,
+    "source_rel": "geely/models/coolray/images/025c618fd0e5b0aaebf370cdff21d3afd40fee44a79f59aeeab5a763c35f4a68.webp"
+  },
+  {
+    "filename": "0268a8d4ec3eca753b91e0e9c25b20adb92342276a2d53f7c17f0d277b4fc1b7.webp",
+    "size": 94136,
+    "source_rel": "geely/models/coolray/images/0268a8d4ec3eca753b91e0e9c25b20adb92342276a2d53f7c17f0d277b4fc1b7.webp"
+  },
+  {
+    "filename": "027501f7a1356ceacfe3a01c1d1e2b9874ba2c34eee1459455e56628223bc26c.webp",
+    "size": 42126,
+    "source_rel": "geely/models/coolray/images/027501f7a1356ceacfe3a01c1d1e2b9874ba2c34eee1459455e56628223bc26c.webp"
+  },
+  {
+    "filename": "027769ccb1691091ba31483376a6e7b4cf9366e5ecfe76f326f7b2fd34106300.webp",
+    "size": 33364,
+    "source_rel": "geely/models/coolray/images/027769ccb1691091ba31483376a6e7b4cf9366e5ecfe76f326f7b2fd34106300.webp"
+  },
+  {
+    "filename": "027af2365b16bc52bf28893e482c8ff327f6df8f192000e9e648daf2de743030.webp",
+    "size": 156694,
+    "source_rel": "geely/models/coolray/images/027af2365b16bc52bf28893e482c8ff327f6df8f192000e9e648daf2de743030.webp"
+  },
+  {
+    "filename": "02858ff29c2fa296bde2d63bbb66aa6d89bacba6e6d3e926a27efd76f9375ac8.webp",
+    "size": 130862,
+    "source_rel": "geely/models/coolray/images/02858ff29c2fa296bde2d63bbb66aa6d89bacba6e6d3e926a27efd76f9375ac8.webp"
+  },
+  {
+    "filename": "028942e865af177a71c7440c9649e00d09e3eed167ec692b12bf1f11dc0c703e.webp",
+    "size": 102814,
+    "source_rel": "geely/models/coolray/images/028942e865af177a71c7440c9649e00d09e3eed167ec692b12bf1f11dc0c703e.webp"
+  },
+  {
+    "filename": "028a2198d5260a4a445ec59cdb1c4b29a1d5eaa0de7dfef9737425ad4bd99f14.webp",
+    "size": 29042,
+    "source_rel": "geely/models/coolray/images/028a2198d5260a4a445ec59cdb1c4b29a1d5eaa0de7dfef9737425ad4bd99f14.webp"
+  },
+  {
+    "filename": "028bdc3ebed164b876c36fe94a7e17c29be4ed292eb1c5a247aa121521c01e3d.webp",
+    "size": 31166,
+    "source_rel": "geely/models/coolray/images/028bdc3ebed164b876c36fe94a7e17c29be4ed292eb1c5a247aa121521c01e3d.webp"
+  },
+  {
+    "filename": "02c0da332f960753ec75e584f6b890c3f65071b5566972fcad126c197f826486.webp",
+    "size": 12878,
+    "source_rel": "geely/models/coolray/images/02c0da332f960753ec75e584f6b890c3f65071b5566972fcad126c197f826486.webp"
+  },
+  {
+    "filename": "02c8523a7877854e8b8bccef1cd05982e66f0ee8b934c780c264777868082d65.webp",
+    "size": 16890,
+    "source_rel": "geely/models/coolray/images/02c8523a7877854e8b8bccef1cd05982e66f0ee8b934c780c264777868082d65.webp"
+  },
+  {
+    "filename": "02cbb7b9458edce044051d0db6a01839bf6cf7cdb556f5031309a22d61c1d6c1.webp",
+    "size": 62758,
+    "source_rel": "geely/models/coolray/images/02cbb7b9458edce044051d0db6a01839bf6cf7cdb556f5031309a22d61c1d6c1.webp"
+  },
+  {
+    "filename": "02d441f6128e6079a2aa57e4c82256d34a7aba8db02057bde8c22b096bfb5cba.webp",
+    "size": 23836,
+    "source_rel": "geely/models/coolray/images/02d441f6128e6079a2aa57e4c82256d34a7aba8db02057bde8c22b096bfb5cba.webp"
+  },
+  {
+    "filename": "02da31352bd707ae6defce50a5846120da7eaca1cdf43f33bca425f7250929f2.webp",
+    "size": 2086,
+    "source_rel": "geely/models/coolray/images/02da31352bd707ae6defce50a5846120da7eaca1cdf43f33bca425f7250929f2.webp"
+  },
+  {
+    "filename": "02f035a0a39751d551b4664217c65068224fbd56e806320e9ff419f550982c84.webp",
+    "size": 3426,
+    "source_rel": "geely/models/coolray/images/02f035a0a39751d551b4664217c65068224fbd56e806320e9ff419f550982c84.webp"
+  },
+  {
+    "filename": "02f48dac3e5e1bb5c9c2ed4a0b4063b2dbfe6a69dbf04b937baf420ba3181ac2.webp",
+    "size": 1482,
+    "source_rel": "geely/models/coolray/images/02f48dac3e5e1bb5c9c2ed4a0b4063b2dbfe6a69dbf04b937baf420ba3181ac2.webp"
+  },
+  {
+    "filename": "0302ea8c42096cdaa5bc68e716fac9319830b9fc602907f66c6ecb00de845e2b.webp",
+    "size": 2778,
+    "source_rel": "geely/models/coolray/images/0302ea8c42096cdaa5bc68e716fac9319830b9fc602907f66c6ecb00de845e2b.webp"
+  },
+  {
+    "filename": "030ad3b4e49a634c370cb8f5ae33fc940af88f33add80adce30b8ad87954cacc.webp",
+    "size": 51152,
+    "source_rel": "geely/models/coolray/images/030ad3b4e49a634c370cb8f5ae33fc940af88f33add80adce30b8ad87954cacc.webp"
+  },
+  {
+    "filename": "030bbd4cf103150c52de53d24d92daac1db7cf921a8af41105050349501169c0.webp",
+    "size": 24290,
+    "source_rel": "geely/models/coolray/images/030bbd4cf103150c52de53d24d92daac1db7cf921a8af41105050349501169c0.webp"
+  },
+  {
+    "filename": "03120bfa5ea18badf10cb30c81f129f9496a5662639e3b717dbe0f2a64eceef5.webp",
+    "size": 41584,
+    "source_rel": "geely/models/coolray/images/03120bfa5ea18badf10cb30c81f129f9496a5662639e3b717dbe0f2a64eceef5.webp"
+  },
+  {
+    "filename": "031fe3fc03cbfc1b8b52783082a93fffacd5bdce71c476a234b01c51c23c3ed7.webp",
+    "size": 23444,
+    "source_rel": "geely/models/coolray/images/031fe3fc03cbfc1b8b52783082a93fffacd5bdce71c476a234b01c51c23c3ed7.webp"
+  },
+  {
+    "filename": "032a5dc21e72654584cc1beb696cddea69b699dbff387a6d6bdfbecfe24c8e6b.webp",
+    "size": 15324,
+    "source_rel": "geely/models/coolray/images/032a5dc21e72654584cc1beb696cddea69b699dbff387a6d6bdfbecfe24c8e6b.webp"
+  },
+  {
+    "filename": "034aa919eb1f255fea645f884fd36850300ac908a088b85a1eaedfd86c85d64a.webp",
+    "size": 58312,
+    "source_rel": "geely/models/coolray/images/034aa919eb1f255fea645f884fd36850300ac908a088b85a1eaedfd86c85d64a.webp"
+  },
+  {
+    "filename": "035a98760c9e650d83054e85e0ffa67086b4cc46bb774fc1007167a4ec42d83d.webp",
+    "size": 29376,
+    "source_rel": "geely/models/coolray/images/035a98760c9e650d83054e85e0ffa67086b4cc46bb774fc1007167a4ec42d83d.webp"
+  },
+  {
+    "filename": "036008db5a7c3b03b6bdb7e044c3648046dfedd9b09de052a481e0ea4a17ae07.webp",
+    "size": 8164,
+    "source_rel": "geely/models/coolray/images/036008db5a7c3b03b6bdb7e044c3648046dfedd9b09de052a481e0ea4a17ae07.webp"
+  },
+  {
+    "filename": "0365c7a33d86be33f88320361ae9115ca6549924d10ef2aceef7b233ab67e6d0.webp",
+    "size": 39864,
+    "source_rel": "geely/models/coolray/images/0365c7a33d86be33f88320361ae9115ca6549924d10ef2aceef7b233ab67e6d0.webp"
+  },
+  {
+    "filename": "0385fd81350cb307f8003f44704aefdbf47afe68cac7f9f70780be25622f3653.webp",
+    "size": 9496,
+    "source_rel": "geely/models/coolray/images/0385fd81350cb307f8003f44704aefdbf47afe68cac7f9f70780be25622f3653.webp"
+  },
+  {
+    "filename": "038dad6c1fb29e6852d6579948bb4365276e2be366f99e22088d1259b6bf5ee6.webp",
+    "size": 44040,
+    "source_rel": "geely/models/coolray/images/038dad6c1fb29e6852d6579948bb4365276e2be366f99e22088d1259b6bf5ee6.webp"
+  },
+  {
+    "filename": "0396fbdfaa532abde5c106b22280baf88f6c9ac438e287a6081a5f46773bd434.webp",
+    "size": 3342,
+    "source_rel": "geely/models/coolray/images/0396fbdfaa532abde5c106b22280baf88f6c9ac438e287a6081a5f46773bd434.webp"
+  },
+  {
+    "filename": "03a51fa3c0102b413bdd9e6e8f2fe4c7572318d62dd5be25a6fc6ba581035a30.webp",
+    "size": 21220,
+    "source_rel": "geely/models/coolray/images/03a51fa3c0102b413bdd9e6e8f2fe4c7572318d62dd5be25a6fc6ba581035a30.webp"
+  },
+  {
+    "filename": "03b78178484a9a6347356de3070c14fb8c0c7da98586152755c97f13d1b2f315.webp",
+    "size": 19262,
+    "source_rel": "geely/models/coolray/images/03b78178484a9a6347356de3070c14fb8c0c7da98586152755c97f13d1b2f315.webp"
+  },
+  {
+    "filename": "03bf1fad03faa2c5315191c1c5a3342d1c2e79858819712a27c798024fc34130.webp",
+    "size": 4036,
+    "source_rel": "geely/models/coolray/images/03bf1fad03faa2c5315191c1c5a3342d1c2e79858819712a27c798024fc34130.webp"
+  },
+  {
+    "filename": "03c0541cd97168c436e4abdbd2d3f1f59d988f3324ba3ba2c599bedcdd53e9c8.webp",
+    "size": 2758,
+    "source_rel": "geely/models/coolray/images/03c0541cd97168c436e4abdbd2d3f1f59d988f3324ba3ba2c599bedcdd53e9c8.webp"
+  },
+  {
+    "filename": "03c149890a36f718d384ef7235e1087d429a28a37fb1c6f5bb7b460ac69ff3c0.webp",
+    "size": 3972,
+    "source_rel": "geely/models/coolray/images/03c149890a36f718d384ef7235e1087d429a28a37fb1c6f5bb7b460ac69ff3c0.webp"
+  },
+  {
+    "filename": "03c2440d8235472bac1ab4427b8580c81a10b6dad4aba6d0bb8bd4372beb42b4.webp",
+    "size": 4042,
+    "source_rel": "geely/models/coolray/images/03c2440d8235472bac1ab4427b8580c81a10b6dad4aba6d0bb8bd4372beb42b4.webp"
+  },
+  {
+    "filename": "04176b677d62f0d06009f65c02f487de9f4cc1ba0c1ac6f10c812f2e90d53ee0.webp",
+    "size": 99178,
+    "source_rel": "geely/models/coolray/images/04176b677d62f0d06009f65c02f487de9f4cc1ba0c1ac6f10c812f2e90d53ee0.webp"
+  },
+  {
+    "filename": "0419d62bf5f24d02b325f540b7d11165ed981561807d387e70881b654b606898.webp",
+    "size": 1294,
+    "source_rel": "geely/models/coolray/images/0419d62bf5f24d02b325f540b7d11165ed981561807d387e70881b654b606898.webp"
+  },
+  {
+    "filename": "041fcc2dc08532b14c988edf59991d3271d4b809482ace0be9fc6e833ec1e334.webp",
+    "size": 33940,
+    "source_rel": "geely/models/coolray/images/041fcc2dc08532b14c988edf59991d3271d4b809482ace0be9fc6e833ec1e334.webp"
+  },
+  {
+    "filename": "042089db28260d321a52d2551e0831ac0f6da8254eb032b965d8f1f84476fac0.webp",
+    "size": 4282,
+    "source_rel": "geely/models/coolray/images/042089db28260d321a52d2551e0831ac0f6da8254eb032b965d8f1f84476fac0.webp"
+  },
+  {
+    "filename": "04261f6135445d39cb9fe4b7fada6fbbf68d02bc37028ee6d17083cd4977d994.webp",
+    "size": 1458,
+    "source_rel": "geely/models/coolray/images/04261f6135445d39cb9fe4b7fada6fbbf68d02bc37028ee6d17083cd4977d994.webp"
+  },
+  {
+    "filename": "042fc5500e67d6146644d2c29fc39021850bf19ae7240f5bfaaaf777a56f922b.webp",
+    "size": 12402,
+    "source_rel": "geely/models/coolray/images/042fc5500e67d6146644d2c29fc39021850bf19ae7240f5bfaaaf777a56f922b.webp"
+  },
+  {
+    "filename": "0430799905a0000eafdfb19c38daef0d2b20cff39b8660761d6d539cbda164cf.webp",
+    "size": 1010,
+    "source_rel": "geely/models/coolray/images/0430799905a0000eafdfb19c38daef0d2b20cff39b8660761d6d539cbda164cf.webp"
+  },
+  {
+    "filename": "043fc3bcb8b9debf95ab7257935e7dfe9a66ad000521fa3552d2293f4abc8627.webp",
+    "size": 32448,
+    "source_rel": "geely/models/coolray/images/043fc3bcb8b9debf95ab7257935e7dfe9a66ad000521fa3552d2293f4abc8627.webp"
+  },
+  {
+    "filename": "045740beb9946b1efe12129fad8de96b7328b43fcfde0f0368375814e30adcc1.webp",
+    "size": 2508,
+    "source_rel": "geely/models/coolray/images/045740beb9946b1efe12129fad8de96b7328b43fcfde0f0368375814e30adcc1.webp"
+  },
+  {
+    "filename": "045c3739fa0028f7be06033a092193c1186c4852676b3b979639c9bcaa1bdc17.webp",
+    "size": 93838,
+    "source_rel": "geely/models/coolray/images/045c3739fa0028f7be06033a092193c1186c4852676b3b979639c9bcaa1bdc17.webp"
+  },
+  {
+    "filename": "046238e0d0c107bfb4f37a89388dc6d33ef0fd96ba7fc4b46daa7300c440279b.webp",
+    "size": 5906,
+    "source_rel": "geely/models/coolray/images/046238e0d0c107bfb4f37a89388dc6d33ef0fd96ba7fc4b46daa7300c440279b.webp"
+  },
+  {
+    "filename": "0464f61f63905ad39fb0a04f5c8bc84bac379732a60ed67e7893948c16c51a6c.webp",
+    "size": 57910,
+    "source_rel": "geely/models/coolray/images/0464f61f63905ad39fb0a04f5c8bc84bac379732a60ed67e7893948c16c51a6c.webp"
+  },
+  {
+    "filename": "046a5ed598a0736d15fab7124a92a9b14b5358ed5496ccfec2259cdaef7711a9.webp",
+    "size": 53652,
+    "source_rel": "geely/models/coolray/images/046a5ed598a0736d15fab7124a92a9b14b5358ed5496ccfec2259cdaef7711a9.webp"
+  },
+  {
+    "filename": "04765df122ad9c2e5a92e89f2db5068e8fdbe7750b60a4c1d1027bf351da8d6b.webp",
+    "size": 5568,
+    "source_rel": "geely/models/coolray/images/04765df122ad9c2e5a92e89f2db5068e8fdbe7750b60a4c1d1027bf351da8d6b.webp"
+  },
+  {
+    "filename": "04847b2e7809e0117f03cedf6ec1cd510eed7daa9d5cd2c1042a7b244fe14e98.webp",
+    "size": 20998,
+    "source_rel": "geely/models/coolray/images/04847b2e7809e0117f03cedf6ec1cd510eed7daa9d5cd2c1042a7b244fe14e98.webp"
+  },
+  {
+    "filename": "048a21dbe06b231cbef7b32b996add6bb201e8c2386faca4e3d2ca48e5226e70.webp",
+    "size": 36904,
+    "source_rel": "geely/models/coolray/images/048a21dbe06b231cbef7b32b996add6bb201e8c2386faca4e3d2ca48e5226e70.webp"
+  },
+  {
+    "filename": "048a4b0bbd5d449f58582a04a4388fcc4c0dcc80d9b504a3ab5ab891f6b05f0c.webp",
+    "size": 17518,
+    "source_rel": "geely/models/coolray/images/048a4b0bbd5d449f58582a04a4388fcc4c0dcc80d9b504a3ab5ab891f6b05f0c.webp"
+  },
+  {
+    "filename": "0496ad9e80843c03361fd93a2fcf549214dfd94c95e5e3579202b32696431aa6.webp",
+    "size": 67746,
+    "source_rel": "geely/models/coolray/images/0496ad9e80843c03361fd93a2fcf549214dfd94c95e5e3579202b32696431aa6.webp"
+  },
+  {
+    "filename": "0496cf7b69035f669148415cbefb489762d891596f13667aaac1abeca60a2b27.webp",
+    "size": 129522,
+    "source_rel": "geely/models/coolray/images/0496cf7b69035f669148415cbefb489762d891596f13667aaac1abeca60a2b27.webp"
+  },
+  {
+    "filename": "04c006111da9d0f13553ead5b2ea73d174fefb946bdc71b25db62b403c8776c0.webp",
+    "size": 2074,
+    "source_rel": "geely/models/coolray/images/04c006111da9d0f13553ead5b2ea73d174fefb946bdc71b25db62b403c8776c0.webp"
+  },
+  {
+    "filename": "04c1e163f77c646634ae65686bf15596dd4977a30ba5fd953a7bbcbdd6b50566.webp",
+    "size": 143686,
+    "source_rel": "geely/models/coolray/images/04c1e163f77c646634ae65686bf15596dd4977a30ba5fd953a7bbcbdd6b50566.webp"
+  },
+  {
+    "filename": "04d016e87d855cef90995c908fe12dafa9fe8cc39df42cf1fe6ee12b375ab608.webp",
+    "size": 99020,
+    "source_rel": "geely/models/coolray/images/04d016e87d855cef90995c908fe12dafa9fe8cc39df42cf1fe6ee12b375ab608.webp"
+  },
+  {
+    "filename": "04ed363da92162b29096a1edf205a67decafe33f8e3afea473ca89d49c56f4f8.webp",
+    "size": 4690,
+    "source_rel": "geely/models/coolray/images/04ed363da92162b29096a1edf205a67decafe33f8e3afea473ca89d49c56f4f8.webp"
+  },
+  {
+    "filename": "0500ab5fafaa9fb3a5a2b196c84b59cf4ebc9ac12ee940da5a6e25e71f4a0f57.webp",
+    "size": 3010,
+    "source_rel": "geely/models/coolray/images/0500ab5fafaa9fb3a5a2b196c84b59cf4ebc9ac12ee940da5a6e25e71f4a0f57.webp"
+  },
+  {
+    "filename": "05204b8aefada370315fc76c81dc362b846769b05c8b887577b19ba1fd816174.webp",
+    "size": 2302,
+    "source_rel": "geely/models/coolray/images/05204b8aefada370315fc76c81dc362b846769b05c8b887577b19ba1fd816174.webp"
+  },
+  {
+    "filename": "0526e590f814cf19a1d262ac617789187aa500e7dcae5efd98e0022ba162048d.webp",
+    "size": 8144,
+    "source_rel": "geely/models/coolray/images/0526e590f814cf19a1d262ac617789187aa500e7dcae5efd98e0022ba162048d.webp"
+  },
+  {
+    "filename": "0536427e590a1fb5eaa1dd2b3d5b2c3bbce1b86c27f24c53bd97f812d94dc1c2.webp",
+    "size": 102532,
+    "source_rel": "geely/models/coolray/images/0536427e590a1fb5eaa1dd2b3d5b2c3bbce1b86c27f24c53bd97f812d94dc1c2.webp"
+  },
+  {
+    "filename": "053af873fc7b09c60d2547952467f6b17249429d0a2196451bf9b8b1288662cb.webp",
+    "size": 38600,
+    "source_rel": "geely/models/coolray/images/053af873fc7b09c60d2547952467f6b17249429d0a2196451bf9b8b1288662cb.webp"
+  },
+  {
+    "filename": "053ededcc2d1d3c84c8adf1429a9f339d7b83f0104e75b639b68947a0da5e819.webp",
+    "size": 4294,
+    "source_rel": "geely/models/coolray/images/053ededcc2d1d3c84c8adf1429a9f339d7b83f0104e75b639b68947a0da5e819.webp"
+  },
+  {
+    "filename": "0545434f4395e6f0bd581fa86f31394a7f93297a4fc2392239b0a248f1b16604.webp",
+    "size": 15132,
+    "source_rel": "geely/models/coolray/images/0545434f4395e6f0bd581fa86f31394a7f93297a4fc2392239b0a248f1b16604.webp"
+  },
+  {
+    "filename": "0547e09b8e8e3ecbf66cf5431d7b124bae0fc946b0c419ee6d9267fe09cef790.webp",
+    "size": 5682,
+    "source_rel": "geely/models/coolray/images/0547e09b8e8e3ecbf66cf5431d7b124bae0fc946b0c419ee6d9267fe09cef790.webp"
+  },
+  {
+    "filename": "054e30f8279157ac483bbe1f51f1246726b677802ec30be6f2236162faa1a53e.webp",
+    "size": 41030,
+    "source_rel": "geely/models/coolray/images/054e30f8279157ac483bbe1f51f1246726b677802ec30be6f2236162faa1a53e.webp"
+  },
+  {
+    "filename": "0551be1c6055cac7bfce2f778fbbc80a87e50753c756c2fc3e25ccdaf62559ef.webp",
+    "size": 1934,
+    "source_rel": "geely/models/coolray/images/0551be1c6055cac7bfce2f778fbbc80a87e50753c756c2fc3e25ccdaf62559ef.webp"
+  },
+  {
+    "filename": "055b4734f60d826697c693a7c8aa94662313e89f61ed2a6758f98a82f6d626e4.webp",
+    "size": 16958,
+    "source_rel": "geely/models/coolray/images/055b4734f60d826697c693a7c8aa94662313e89f61ed2a6758f98a82f6d626e4.webp"
+  },
+  {
+    "filename": "0568e386d96d3c4d8b985ae3f5a6d5028dfe184adfedae2abc3b1a25d0265a17.webp",
+    "size": 75042,
+    "source_rel": "geely/models/coolray/images/0568e386d96d3c4d8b985ae3f5a6d5028dfe184adfedae2abc3b1a25d0265a17.webp"
+  },
+  {
+    "filename": "0575631f44170ec7e1f7a50f3871346a93fefa860c054c88952a35753fe43dbe.webp",
+    "size": 9750,
+    "source_rel": "geely/models/coolray/images/0575631f44170ec7e1f7a50f3871346a93fefa860c054c88952a35753fe43dbe.webp"
+  },
+  {
+    "filename": "05880ff31df2a1ee60d9757e3bb678c53f5939a13508110d002d8485f1ed7ebd.webp",
+    "size": 13766,
+    "source_rel": "geely/models/coolray/images/05880ff31df2a1ee60d9757e3bb678c53f5939a13508110d002d8485f1ed7ebd.webp"
+  },
+  {
+    "filename": "058eb0435c42c1f82f58f1970cb4f7a4c9e212eda31f1815ea18221711e7bbef.webp",
+    "size": 3088,
+    "source_rel": "geely/models/coolray/images/058eb0435c42c1f82f58f1970cb4f7a4c9e212eda31f1815ea18221711e7bbef.webp"
+  },
+  {
+    "filename": "059236d6e3afdd0d6bcdc050933b94862c81a96630b86d56fa85fba380bce600.webp",
+    "size": 31890,
+    "source_rel": "geely/models/coolray/images/059236d6e3afdd0d6bcdc050933b94862c81a96630b86d56fa85fba380bce600.webp"
+  },
+  {
+    "filename": "05a37b1b309dbb20a22c40f6a296d2e4a750761d80db0e878bd24ad4b9491442.webp",
+    "size": 3754,
+    "source_rel": "geely/models/coolray/images/05a37b1b309dbb20a22c40f6a296d2e4a750761d80db0e878bd24ad4b9491442.webp"
+  },
+  {
+    "filename": "05ad02f05a8808fe6dd1688ac49c74bac202401324a42579ea8905e5aec8328e.webp",
+    "size": 46816,
+    "source_rel": "geely/models/coolray/images/05ad02f05a8808fe6dd1688ac49c74bac202401324a42579ea8905e5aec8328e.webp"
+  },
+  {
+    "filename": "05b9fea9ae4989ac9fb502b25c2c2ee8272012cba37e0e4958432bae7316004a.webp",
+    "size": 5568,
+    "source_rel": "geely/models/coolray/images/05b9fea9ae4989ac9fb502b25c2c2ee8272012cba37e0e4958432bae7316004a.webp"
+  },
+  {
+    "filename": "05bf28a077626b6f9e30192c1c91f5e9d09649092eddd99d4141bd3ab071b782.webp",
+    "size": 5860,
+    "source_rel": "geely/models/coolray/images/05bf28a077626b6f9e30192c1c91f5e9d09649092eddd99d4141bd3ab071b782.webp"
+  },
+  {
+    "filename": "05d50d3431133bae61a46bf34c28791d990a13d8c5f7222e67ddd659aaf6b158.webp",
+    "size": 8568,
+    "source_rel": "geely/models/coolray/images/05d50d3431133bae61a46bf34c28791d990a13d8c5f7222e67ddd659aaf6b158.webp"
+  },
+  {
+    "filename": "05d5545cfb52465d553cf65294bea2444098ebed531972211af2712f8da115e6.webp",
+    "size": 46498,
+    "source_rel": "geely/models/coolray/images/05d5545cfb52465d553cf65294bea2444098ebed531972211af2712f8da115e6.webp"
+  },
+  {
+    "filename": "05d80150882ab744c60f056ed17b3e9e9868f5169d5c61102ab9b9e1b259bcd9.webp",
+    "size": 844,
+    "source_rel": "geely/models/coolray/images/05d80150882ab744c60f056ed17b3e9e9868f5169d5c61102ab9b9e1b259bcd9.webp"
+  },
+  {
+    "filename": "05f3e6ad003c13354c060158b7008a17b858c453d4cd0958fb75cd1ee776655d.webp",
+    "size": 3112,
+    "source_rel": "geely/models/coolray/images/05f3e6ad003c13354c060158b7008a17b858c453d4cd0958fb75cd1ee776655d.webp"
+  },
+  {
+    "filename": "05f9a50827da743557e3ee524825c4e7d22b489c1e1de736cd923891606b9f72.webp",
+    "size": 7496,
+    "source_rel": "geely/models/coolray/images/05f9a50827da743557e3ee524825c4e7d22b489c1e1de736cd923891606b9f72.webp"
+  },
+  {
+    "filename": "05fb8c411239acc214e3661ae9675a03ccbd04f3cd440f2ae475081a8a3eef61.webp",
+    "size": 1950,
+    "source_rel": "geely/models/coolray/images/05fb8c411239acc214e3661ae9675a03ccbd04f3cd440f2ae475081a8a3eef61.webp"
+  },
+  {
+    "filename": "05fd82666706cf38c91b497e1f5c529c32aae581c00ad09ac9b618d43313d492.webp",
+    "size": 10260,
+    "source_rel": "geely/models/coolray/images/05fd82666706cf38c91b497e1f5c529c32aae581c00ad09ac9b618d43313d492.webp"
+  },
+  {
+    "filename": "05fe38e5d006461a8e8285fd5a71e082673d83110bca9360c9681c58a2abee68.webp",
+    "size": 26976,
+    "source_rel": "geely/models/coolray/images/05fe38e5d006461a8e8285fd5a71e082673d83110bca9360c9681c58a2abee68.webp"
+  },
+  {
+    "filename": "0603ff0d5d812aa8eca2babe04d8dbdebcf8c0ebd66f79ffd50178aa80166224.webp",
+    "size": 51236,
+    "source_rel": "geely/models/coolray/images/0603ff0d5d812aa8eca2babe04d8dbdebcf8c0ebd66f79ffd50178aa80166224.webp"
+  },
+  {
+    "filename": "0605c80956a48811bfae3581f20de875f4b8b225d87c719afb8ccf0681789c92.webp",
+    "size": 8624,
+    "source_rel": "geely/models/coolray/images/0605c80956a48811bfae3581f20de875f4b8b225d87c719afb8ccf0681789c92.webp"
+  },
+  {
+    "filename": "0608e7eb49576e635f3d2f6e520bb65cd656b08abd153134f490e8d459674dd3.webp",
+    "size": 9078,
+    "source_rel": "geely/models/coolray/images/0608e7eb49576e635f3d2f6e520bb65cd656b08abd153134f490e8d459674dd3.webp"
+  },
+  {
+    "filename": "060fb7290b2042b3d9313d640ebc9724231d09536d1313d4888b70cff34f5ceb.webp",
+    "size": 132094,
+    "source_rel": "geely/models/coolray/images/060fb7290b2042b3d9313d640ebc9724231d09536d1313d4888b70cff34f5ceb.webp"
+  },
+  {
+    "filename": "06132aeae62f012c1e26a4ca78e7a487f341610065a3c8903b31193629eab491.webp",
+    "size": 16314,
+    "source_rel": "geely/models/coolray/images/06132aeae62f012c1e26a4ca78e7a487f341610065a3c8903b31193629eab491.webp"
+  },
+  {
+    "filename": "06200d815a8d477fc2e52d0d620ed18ca095d213687a825f3e5178d35fc2748d.webp",
+    "size": 81170,
+    "source_rel": "geely/models/coolray/images/06200d815a8d477fc2e52d0d620ed18ca095d213687a825f3e5178d35fc2748d.webp"
+  },
+  {
+    "filename": "062bc193d77f846c4ca3fb26c5f744b024ea3e17b93b3276e66ed5a04eadaa45.webp",
+    "size": 4820,
+    "source_rel": "geely/models/coolray/images/062bc193d77f846c4ca3fb26c5f744b024ea3e17b93b3276e66ed5a04eadaa45.webp"
+  },
+  {
+    "filename": "06470e38c15c5ad7ed163ea55a0caefc7ae9a47bd6aa34e2ceb1a9ef993f4764.webp",
+    "size": 86780,
+    "source_rel": "geely/models/coolray/images/06470e38c15c5ad7ed163ea55a0caefc7ae9a47bd6aa34e2ceb1a9ef993f4764.webp"
+  },
+  {
+    "filename": "064c96376b382f340582dff496a8cb9bb647b1b18afb4fd56345f50f89e731d0.webp",
+    "size": 5518,
+    "source_rel": "geely/models/coolray/images/064c96376b382f340582dff496a8cb9bb647b1b18afb4fd56345f50f89e731d0.webp"
+  },
+  {
+    "filename": "06551432bdbd04466e3c8fcbada4e84b0fb903d462a5c75711786b9227669b25.webp",
+    "size": 96146,
+    "source_rel": "geely/models/coolray/images/06551432bdbd04466e3c8fcbada4e84b0fb903d462a5c75711786b9227669b25.webp"
+  },
+  {
+    "filename": "067942a702328e9df093f70e19366f995471e0d1e4ff270988ace4ed9524eea1.webp",
+    "size": 1468,
+    "source_rel": "geely/models/coolray/images/067942a702328e9df093f70e19366f995471e0d1e4ff270988ace4ed9524eea1.webp"
+  },
+  {
+    "filename": "068ee823968ac67281e74ad9ca208ada2753d9c0281a7a3e6fcbfcd36d52375c.webp",
+    "size": 4872,
+    "source_rel": "geely/models/coolray/images/068ee823968ac67281e74ad9ca208ada2753d9c0281a7a3e6fcbfcd36d52375c.webp"
+  },
+  {
+    "filename": "0697de03fad4f4ca20198b6c14f47d6d8e32750c6d42a026526bf10952dd683e.webp",
+    "size": 3500,
+    "source_rel": "geely/models/coolray/images/0697de03fad4f4ca20198b6c14f47d6d8e32750c6d42a026526bf10952dd683e.webp"
+  },
+  {
+    "filename": "069ab4c674ce52b2b57675663125fb066cc491f6633b6c8c84f1d6a58e53d536.webp",
+    "size": 58964,
+    "source_rel": "geely/models/coolray/images/069ab4c674ce52b2b57675663125fb066cc491f6633b6c8c84f1d6a58e53d536.webp"
+  },
+  {
+    "filename": "06bb1a68c410924747b10a71af9683426e8c0e31029834b4c0573198d6ed90ff.webp",
+    "size": 52096,
+    "source_rel": "geely/models/coolray/images/06bb1a68c410924747b10a71af9683426e8c0e31029834b4c0573198d6ed90ff.webp"
+  },
+  {
+    "filename": "06c13bced39bdc13af68783a2087ee4bb1464a9aa90a444824a675da87bbae61.webp",
+    "size": 13474,
+    "source_rel": "geely/models/coolray/images/06c13bced39bdc13af68783a2087ee4bb1464a9aa90a444824a675da87bbae61.webp"
+  },
+  {
+    "filename": "06c1d677959e84fefd90078e8153c975949d0b704593565d373c56340944748c.webp",
+    "size": 2794,
+    "source_rel": "geely/models/coolray/images/06c1d677959e84fefd90078e8153c975949d0b704593565d373c56340944748c.webp"
+  },
+  {
+    "filename": "06d71dec57b31774e0f3dad4ab142a6722bfeaf0dbf5e128019133d92621d573.webp",
+    "size": 152842,
+    "source_rel": "geely/models/coolray/images/06d71dec57b31774e0f3dad4ab142a6722bfeaf0dbf5e128019133d92621d573.webp"
+  },
+  {
+    "filename": "06e399a611c30481345f7ba9d5ebb091fa58ec70ac357eb432fed07b072e92df.webp",
+    "size": 55618,
+    "source_rel": "geely/models/coolray/images/06e399a611c30481345f7ba9d5ebb091fa58ec70ac357eb432fed07b072e92df.webp"
+  },
+  {
+    "filename": "06f194024a2f5d8c6406109a779dd13befd98fba4df4faf5c06c6f93c67e199b.webp",
+    "size": 3146,
+    "source_rel": "geely/models/coolray/images/06f194024a2f5d8c6406109a779dd13befd98fba4df4faf5c06c6f93c67e199b.webp"
+  },
+  {
+    "filename": "06f1cb56055d99390a66700f64d6c16240cbe86e005dc1df90e3701576c36161.webp",
+    "size": 2068,
+    "source_rel": "geely/models/coolray/images/06f1cb56055d99390a66700f64d6c16240cbe86e005dc1df90e3701576c36161.webp"
+  },
+  {
+    "filename": "06fc9b14b513be57c56c1704a1751e8c0a802e819b95748ed1fccb3f27de7614.webp",
+    "size": 10210,
+    "source_rel": "geely/models/coolray/images/06fc9b14b513be57c56c1704a1751e8c0a802e819b95748ed1fccb3f27de7614.webp"
+  },
+  {
+    "filename": "0710932236854b95dfb24b20e2b785d01790979751784a9b1a7a94bc88fe2125.webp",
+    "size": 2382,
+    "source_rel": "geely/models/coolray/images/0710932236854b95dfb24b20e2b785d01790979751784a9b1a7a94bc88fe2125.webp"
+  },
+  {
+    "filename": "07179d0735b2e756e21647d1d6d38b26d928ba50154659f222c5f18374bd7e5e.webp",
+    "size": 4794,
+    "source_rel": "geely/models/coolray/images/07179d0735b2e756e21647d1d6d38b26d928ba50154659f222c5f18374bd7e5e.webp"
+  },
+  {
+    "filename": "071a274f382b56e374b97238fa917c16e2c7c9af027ee3f4b4b88f16305cdb22.webp",
+    "size": 13094,
+    "source_rel": "geely/models/coolray/images/071a274f382b56e374b97238fa917c16e2c7c9af027ee3f4b4b88f16305cdb22.webp"
+  },
+  {
+    "filename": "0722831ffb1276ac31d862e1e9e45adc3fe6b2d4804a1f746a65c023ef2a9f05.webp",
+    "size": 7288,
+    "source_rel": "geely/models/coolray/images/0722831ffb1276ac31d862e1e9e45adc3fe6b2d4804a1f746a65c023ef2a9f05.webp"
+  },
+  {
+    "filename": "07259157f2fb129973a81e9de6e6b039c4ad2780ebb5493f65cc575357613b2a.webp",
+    "size": 31944,
+    "source_rel": "geely/models/coolray/images/07259157f2fb129973a81e9de6e6b039c4ad2780ebb5493f65cc575357613b2a.webp"
+  },
+  {
+    "filename": "07297c28cfc14b9d4c98a7948133238c02fc3b741bf570844ef1385096c27a0b.webp",
+    "size": 72824,
+    "source_rel": "geely/models/coolray/images/07297c28cfc14b9d4c98a7948133238c02fc3b741bf570844ef1385096c27a0b.webp"
+  },
+  {
+    "filename": "072d47ca06540ae3ba1759a7bd128dac93430e8bcefe77e82e5e56fac04de6e2.webp",
+    "size": 36828,
+    "source_rel": "geely/models/coolray/images/072d47ca06540ae3ba1759a7bd128dac93430e8bcefe77e82e5e56fac04de6e2.webp"
+  },
+  {
+    "filename": "07305d011b664fa7c8e92843f84008a337de44e2c45ae869896ef59473bdf6d6.webp",
+    "size": 9152,
+    "source_rel": "geely/models/coolray/images/07305d011b664fa7c8e92843f84008a337de44e2c45ae869896ef59473bdf6d6.webp"
+  },
+  {
+    "filename": "0744d87d44edfa39afb0db94bf9e2e97e71a316c69eae3019d6b9c7703045f9a.webp",
+    "size": 1874,
+    "source_rel": "geely/models/coolray/images/0744d87d44edfa39afb0db94bf9e2e97e71a316c69eae3019d6b9c7703045f9a.webp"
+  },
+  {
+    "filename": "074662c9962a59d9ca019ab376f68412bba7e27eea3a2d359e39d7c123c5b101.webp",
+    "size": 42840,
+    "source_rel": "geely/models/coolray/images/074662c9962a59d9ca019ab376f68412bba7e27eea3a2d359e39d7c123c5b101.webp"
+  },
+  {
+    "filename": "075203e5d64eaa38cbef8df84229ed91fe6c2f796ef85cedbb8658bb6bea75c7.webp",
+    "size": 17778,
+    "source_rel": "geely/models/coolray/images/075203e5d64eaa38cbef8df84229ed91fe6c2f796ef85cedbb8658bb6bea75c7.webp"
+  },
+  {
+    "filename": "075f5eb08515cade8a2d4e3cd8176447cd5b287f67ede4bdf9b0d0dd4321d4d1.webp",
+    "size": 15506,
+    "source_rel": "geely/models/coolray/images/075f5eb08515cade8a2d4e3cd8176447cd5b287f67ede4bdf9b0d0dd4321d4d1.webp"
+  },
+  {
+    "filename": "0763d99e4e019a7d25a9c3da8db89ccf829254ca5687edba1e793e6a4fe53833.webp",
+    "size": 3226,
+    "source_rel": "geely/models/coolray/images/0763d99e4e019a7d25a9c3da8db89ccf829254ca5687edba1e793e6a4fe53833.webp"
+  },
+  {
+    "filename": "0766f1f40ed9a760c079d3c588f21e47e83e1ba37f677efaaab51d7e1a206a31.webp",
+    "size": 69346,
+    "source_rel": "geely/models/coolray/images/0766f1f40ed9a760c079d3c588f21e47e83e1ba37f677efaaab51d7e1a206a31.webp"
+  },
+  {
+    "filename": "076808efb64f9a36278b1c6e93578a058a7d536c7b0f0299d74db633ad27314f.webp",
+    "size": 71960,
+    "source_rel": "geely/models/coolray/images/076808efb64f9a36278b1c6e93578a058a7d536c7b0f0299d74db633ad27314f.webp"
+  },
+  {
+    "filename": "0771888928b88995b7ff8fb2da54814d46ed720e743e2ca067250dfa33cb29e4.webp",
+    "size": 36220,
+    "source_rel": "geely/models/coolray/images/0771888928b88995b7ff8fb2da54814d46ed720e743e2ca067250dfa33cb29e4.webp"
+  },
+  {
+    "filename": "0798fe5b2e076cfe4ee081c7d2487d73b3746037df34c80048fb90f26a81bac1.webp",
+    "size": 7398,
+    "source_rel": "geely/models/coolray/images/0798fe5b2e076cfe4ee081c7d2487d73b3746037df34c80048fb90f26a81bac1.webp"
+  },
+  {
+    "filename": "07a0d8c8d98c0302fc4ef20dfe5ac3cae41c0bef9e0381f24d189c9a3c706ab6.webp",
+    "size": 3010,
+    "source_rel": "geely/models/coolray/images/07a0d8c8d98c0302fc4ef20dfe5ac3cae41c0bef9e0381f24d189c9a3c706ab6.webp"
+  },
+  {
+    "filename": "07c6aca9201b4202f493aa5709102860ac27d5b45827e1878b809420f0820298.webp",
+    "size": 75674,
+    "source_rel": "geely/models/coolray/images/07c6aca9201b4202f493aa5709102860ac27d5b45827e1878b809420f0820298.webp"
+  },
+  {
+    "filename": "07da73f7c7cedc7558f32829cdc15ba1ec72f4bcead191f58990e4341e43aba7.webp",
+    "size": 21096,
+    "source_rel": "geely/models/coolray/images/07da73f7c7cedc7558f32829cdc15ba1ec72f4bcead191f58990e4341e43aba7.webp"
+  },
+  {
+    "filename": "07dccacf742af8c1ecec2ec3d4ef4552e94d4b917664f3ba1040cb0744af99cd.webp",
+    "size": 13714,
+    "source_rel": "geely/models/coolray/images/07dccacf742af8c1ecec2ec3d4ef4552e94d4b917664f3ba1040cb0744af99cd.webp"
+  },
+  {
+    "filename": "07ef9ba8bd71a269ed8e2beda2c0fc3a3c423024928a54cc35d849a4b95a1949.webp",
+    "size": 4568,
+    "source_rel": "geely/models/coolray/images/07ef9ba8bd71a269ed8e2beda2c0fc3a3c423024928a54cc35d849a4b95a1949.webp"
+  },
+  {
+    "filename": "080ebb4a073454fdbea36ab243ce5be115e9d67e8cd449f5b2c2dd27cf9bd71b.webp",
+    "size": 5822,
+    "source_rel": "geely/models/coolray/images/080ebb4a073454fdbea36ab243ce5be115e9d67e8cd449f5b2c2dd27cf9bd71b.webp"
+  },
+  {
+    "filename": "0827e3a68d1a393a5bce222acf8122953cbf95db5ebe2ae4183944c856df52b4.webp",
+    "size": 37672,
+    "source_rel": "geely/models/coolray/images/0827e3a68d1a393a5bce222acf8122953cbf95db5ebe2ae4183944c856df52b4.webp"
+  },
+  {
+    "filename": "082e61c18a5f72881c47935cea40c741a9041fec5b0237caa8b3075e0ab9e517.webp",
+    "size": 84768,
+    "source_rel": "geely/models/coolray/images/082e61c18a5f72881c47935cea40c741a9041fec5b0237caa8b3075e0ab9e517.webp"
+  },
+  {
+    "filename": "0846ca776dab7f2cbca2ae0a071ac745719f478e64f21bba20b1b15bb9a79950.webp",
+    "size": 4096,
+    "source_rel": "geely/models/coolray/images/0846ca776dab7f2cbca2ae0a071ac745719f478e64f21bba20b1b15bb9a79950.webp"
+  },
+  {
+    "filename": "085d9063eeb4ef3be2af62e7320013a2c83684dc26345d58b5cf6eda6949287d.webp",
+    "size": 38234,
+    "source_rel": "geely/models/coolray/images/085d9063eeb4ef3be2af62e7320013a2c83684dc26345d58b5cf6eda6949287d.webp"
+  },
+  {
+    "filename": "0876aaf941831511161f71a691e4e85a211010bed571d918e3186283efae711d.webp",
+    "size": 25738,
+    "source_rel": "geely/models/coolray/images/0876aaf941831511161f71a691e4e85a211010bed571d918e3186283efae711d.webp"
+  },
+  {
+    "filename": "087c048347d5c723ca07ecab52f952618e12d3cd62cc54f9d33020eea3b63fc7.webp",
+    "size": 101670,
+    "source_rel": "geely/models/coolray/images/087c048347d5c723ca07ecab52f952618e12d3cd62cc54f9d33020eea3b63fc7.webp"
+  },
+  {
+    "filename": "087e939dfc4ea762b9cd441a5c7a5162f6e6e1a2453f431b46e453abdf6a47a8.webp",
+    "size": 12828,
+    "source_rel": "geely/models/coolray/images/087e939dfc4ea762b9cd441a5c7a5162f6e6e1a2453f431b46e453abdf6a47a8.webp"
+  },
+  {
+    "filename": "08890dfbef2b4ea36616c83d0a426612fa5251a2944adbfbc41317ebd8c09da9.webp",
+    "size": 3532,
+    "source_rel": "geely/models/coolray/images/08890dfbef2b4ea36616c83d0a426612fa5251a2944adbfbc41317ebd8c09da9.webp"
+  },
+  {
+    "filename": "089773bec3ee2989ceb6c7ba3ebbaf0591dea7dd3957eaca34d5ece9f6778da2.webp",
+    "size": 20184,
+    "source_rel": "geely/models/coolray/images/089773bec3ee2989ceb6c7ba3ebbaf0591dea7dd3957eaca34d5ece9f6778da2.webp"
+  },
+  {
+    "filename": "0897dc9838ea41c91247cd5ecb7576f83a80e264837070e82d45e0409a3dd9f1.webp",
+    "size": 17406,
+    "source_rel": "geely/models/coolray/images/0897dc9838ea41c91247cd5ecb7576f83a80e264837070e82d45e0409a3dd9f1.webp"
+  },
+  {
+    "filename": "089db321e8bfab2ab7f1522379bbc81e665c0cda04c91585c390e3fd6baa5714.webp",
+    "size": 9040,
+    "source_rel": "geely/models/coolray/images/089db321e8bfab2ab7f1522379bbc81e665c0cda04c91585c390e3fd6baa5714.webp"
+  },
+  {
+    "filename": "08ad3188b17a17751944acea69f357c129f24d75caaa535cf9416f876ff16e85.webp",
+    "size": 28442,
+    "source_rel": "geely/models/coolray/images/08ad3188b17a17751944acea69f357c129f24d75caaa535cf9416f876ff16e85.webp"
+  },
+  {
+    "filename": "08bb04e5a08640d23a6dd5247ffae46138b4a70af8af5b0ead4f85d0f3e6cd77.webp",
+    "size": 3556,
+    "source_rel": "geely/models/coolray/images/08bb04e5a08640d23a6dd5247ffae46138b4a70af8af5b0ead4f85d0f3e6cd77.webp"
+  },
+  {
+    "filename": "08bb71c7e39903492eaf8a7ff28e0a3e1430ce70eb1420ebb9add81782a739d7.webp",
+    "size": 5946,
+    "source_rel": "geely/models/coolray/images/08bb71c7e39903492eaf8a7ff28e0a3e1430ce70eb1420ebb9add81782a739d7.webp"
+  },
+  {
+    "filename": "08bd3d4f68a90d2016f914006f49127cf87cb3fff31043c1d7bfb7777fff5cf7.webp",
+    "size": 21118,
+    "source_rel": "geely/models/coolray/images/08bd3d4f68a90d2016f914006f49127cf87cb3fff31043c1d7bfb7777fff5cf7.webp"
+  },
+  {
+    "filename": "08c07fcf27d8f426a6e746942f5c60429b0861d7063f3b9df75a6eb83402075d.webp",
+    "size": 18250,
+    "source_rel": "geely/models/coolray/images/08c07fcf27d8f426a6e746942f5c60429b0861d7063f3b9df75a6eb83402075d.webp"
+  },
+  {
+    "filename": "08c09f273a46cb9c18ce38520f4354194b7740d2ae8825b7b9ae607e87ac1555.webp",
+    "size": 80640,
+    "source_rel": "geely/models/coolray/images/08c09f273a46cb9c18ce38520f4354194b7740d2ae8825b7b9ae607e87ac1555.webp"
+  },
+  {
+    "filename": "08ce629f748cb628877d62eccdd5bd6dcf7f6cc77a5a9b923179bb75a875b687.webp",
+    "size": 49746,
+    "source_rel": "geely/models/coolray/images/08ce629f748cb628877d62eccdd5bd6dcf7f6cc77a5a9b923179bb75a875b687.webp"
+  },
+  {
+    "filename": "08d3fb6e82d4752eaf0985cbf25ae02eb9af026b3282d1b64652790f37aeef45.webp",
+    "size": 23042,
+    "source_rel": "geely/models/coolray/images/08d3fb6e82d4752eaf0985cbf25ae02eb9af026b3282d1b64652790f37aeef45.webp"
+  },
+  {
+    "filename": "08ea431e663acd6341c68d79e4d3cbe7cb4ebd8422bf26b347fddea2415fd129.webp",
+    "size": 2010,
+    "source_rel": "geely/models/coolray/images/08ea431e663acd6341c68d79e4d3cbe7cb4ebd8422bf26b347fddea2415fd129.webp"
+  },
+  {
+    "filename": "08eb828c01ea832bcfeceffd269f41d17dc980261a55cd6c43f5d39c60bbe07d.webp",
+    "size": 17480,
+    "source_rel": "geely/models/coolray/images/08eb828c01ea832bcfeceffd269f41d17dc980261a55cd6c43f5d39c60bbe07d.webp"
+  },
+  {
+    "filename": "08ed004999a826f2119080a5a9499be7fbf128f5a7d6ab4ebcae98c6b4ce509b.webp",
+    "size": 64428,
+    "source_rel": "geely/models/coolray/images/08ed004999a826f2119080a5a9499be7fbf128f5a7d6ab4ebcae98c6b4ce509b.webp"
+  },
+  {
+    "filename": "090403e1c3dba3decfe8e4402de6f38c786b42fd7342608dc556a5fd9975062f.webp",
+    "size": 38608,
+    "source_rel": "geely/models/coolray/images/090403e1c3dba3decfe8e4402de6f38c786b42fd7342608dc556a5fd9975062f.webp"
+  },
+  {
+    "filename": "0907ce560d8ba403a1a49181eba09d661fe40e74d36c715d2180d6f0425992b5.webp",
+    "size": 1916,
+    "source_rel": "geely/models/coolray/images/0907ce560d8ba403a1a49181eba09d661fe40e74d36c715d2180d6f0425992b5.webp"
+  },
+  {
+    "filename": "090c0dba8202d03789518063ada6b0bacf374409fbca5a468c81eefe0a08ddc5.webp",
+    "size": 56574,
+    "source_rel": "geely/models/coolray/images/090c0dba8202d03789518063ada6b0bacf374409fbca5a468c81eefe0a08ddc5.webp"
+  },
+  {
+    "filename": "090dba3bebeb526b1b1e62ad42488f0bf7345cf7cd654e3c8da3ff0d6a008543.webp",
+    "size": 86020,
+    "source_rel": "geely/models/coolray/images/090dba3bebeb526b1b1e62ad42488f0bf7345cf7cd654e3c8da3ff0d6a008543.webp"
+  },
+  {
+    "filename": "091981b551eb13d610a1a4f68da22c19d3bcd27e37b283b89d15691c8d7c0698.webp",
+    "size": 5632,
+    "source_rel": "geely/models/coolray/images/091981b551eb13d610a1a4f68da22c19d3bcd27e37b283b89d15691c8d7c0698.webp"
+  },
+  {
+    "filename": "091e11dd575b4d326792fe4fbfbb61015601614f3dcb1125a741456a9a0e1d62.webp",
+    "size": 61662,
+    "source_rel": "geely/models/coolray/images/091e11dd575b4d326792fe4fbfbb61015601614f3dcb1125a741456a9a0e1d62.webp"
+  },
+  {
+    "filename": "092221713558eea9ee39aefd77164d6fa7058f9548391984e12eeda5648485b3.webp",
+    "size": 11964,
+    "source_rel": "geely/models/coolray/images/092221713558eea9ee39aefd77164d6fa7058f9548391984e12eeda5648485b3.webp"
+  },
+  {
+    "filename": "0925a89b4be4bdd40b5cded04964eb2546e8528c2c747f4bf863d51d3f226c86.webp",
+    "size": 2472,
+    "source_rel": "geely/models/coolray/images/0925a89b4be4bdd40b5cded04964eb2546e8528c2c747f4bf863d51d3f226c86.webp"
+  },
+  {
+    "filename": "092cd3de729cd5fc86fd4b5eaac62d2a7990683dd749b5f9944de815c573bb6c.webp",
+    "size": 2864,
+    "source_rel": "geely/models/coolray/images/092cd3de729cd5fc86fd4b5eaac62d2a7990683dd749b5f9944de815c573bb6c.webp"
+  },
+  {
+    "filename": "09328ba0540d3cda05c12d0d68254386ab6a2d2502a7633c34bd5b714493a489.webp",
+    "size": 1412,
+    "source_rel": "geely/models/coolray/images/09328ba0540d3cda05c12d0d68254386ab6a2d2502a7633c34bd5b714493a489.webp"
+  },
+  {
+    "filename": "0938479b9b07aeb2da8fc0651bec5da1ac54033d27662614f30968b5ebe357cf.webp",
+    "size": 1834,
+    "source_rel": "geely/models/coolray/images/0938479b9b07aeb2da8fc0651bec5da1ac54033d27662614f30968b5ebe357cf.webp"
+  },
+  {
+    "filename": "0941a6d893c3dd33ce99c224c17df3e8c3b8fb734a85ff6a8b2805b779f5ea03.webp",
+    "size": 42714,
+    "source_rel": "geely/models/coolray/images/0941a6d893c3dd33ce99c224c17df3e8c3b8fb734a85ff6a8b2805b779f5ea03.webp"
+  },
+  {
+    "filename": "09454d8d6f86e1f73f4d99e108bbd8a65be61058d09516c537c8c62d22b60126.webp",
+    "size": 4004,
+    "source_rel": "geely/models/coolray/images/09454d8d6f86e1f73f4d99e108bbd8a65be61058d09516c537c8c62d22b60126.webp"
+  },
+  {
+    "filename": "0945c550267757576ec57fe54afad59304bcb92c44477b7655aa46b46baf1534.webp",
+    "size": 2490,
+    "source_rel": "geely/models/coolray/images/0945c550267757576ec57fe54afad59304bcb92c44477b7655aa46b46baf1534.webp"
+  },
+  {
+    "filename": "0946f034cd87dead0f27049015023f9724be13f861558fdcaa7d7f58744ca3b2.webp",
+    "size": 109146,
+    "source_rel": "geely/models/coolray/images/0946f034cd87dead0f27049015023f9724be13f861558fdcaa7d7f58744ca3b2.webp"
+  },
+  {
+    "filename": "095299ec2970e068291a0dac5e958b2a5ff08aa0f53dcd5047d56a7b5206f1e8.webp",
+    "size": 31316,
+    "source_rel": "geely/models/coolray/images/095299ec2970e068291a0dac5e958b2a5ff08aa0f53dcd5047d56a7b5206f1e8.webp"
+  },
+  {
+    "filename": "0956b149ebafd57b445ab584f96ea9c16dcfb5d75515822a214fc4d9a0a49420.webp",
+    "size": 1308,
+    "source_rel": "geely/models/coolray/images/0956b149ebafd57b445ab584f96ea9c16dcfb5d75515822a214fc4d9a0a49420.webp"
+  },
+  {
+    "filename": "095febcac5e6455421cecf4522537334c511280b8b1a983d7551c6db635b1f2e.webp",
+    "size": 9608,
+    "source_rel": "geely/models/coolray/images/095febcac5e6455421cecf4522537334c511280b8b1a983d7551c6db635b1f2e.webp"
+  },
+  {
+    "filename": "09611e12227eb8a655515ad7c2cd0631f8a49a75bc47b8dc114239924222f3aa.webp",
+    "size": 3420,
+    "source_rel": "geely/models/coolray/images/09611e12227eb8a655515ad7c2cd0631f8a49a75bc47b8dc114239924222f3aa.webp"
+  },
+  {
+    "filename": "096a0190922eeb8a30a552fec1296923439ee4217142e30d2bc33351388c712a.webp",
+    "size": 1876,
+    "source_rel": "geely/models/coolray/images/096a0190922eeb8a30a552fec1296923439ee4217142e30d2bc33351388c712a.webp"
+  },
+  {
+    "filename": "0970162168a51e877c7d6b780be517ca90a14ef94471dad23c16175885dd5a51.webp",
+    "size": 110366,
+    "source_rel": "geely/models/coolray/images/0970162168a51e877c7d6b780be517ca90a14ef94471dad23c16175885dd5a51.webp"
+  },
+  {
+    "filename": "0981558ca272665a21694f25cdbf37a1b70866cea32bd8e55c0384ba3f18c016.webp",
+    "size": 1824,
+    "source_rel": "geely/models/coolray/images/0981558ca272665a21694f25cdbf37a1b70866cea32bd8e55c0384ba3f18c016.webp"
+  },
+  {
+    "filename": "09871aa666d9d78d05780b12a95b5fcddbfcbe78ea478c6b17f74a917050b7c4.webp",
+    "size": 61898,
+    "source_rel": "geely/models/coolray/images/09871aa666d9d78d05780b12a95b5fcddbfcbe78ea478c6b17f74a917050b7c4.webp"
+  },
+  {
+    "filename": "098acc9af470231b402ccbd410818bca3b4cd41e8262a3322cc24accb51770d0.webp",
+    "size": 22136,
+    "source_rel": "geely/models/coolray/images/098acc9af470231b402ccbd410818bca3b4cd41e8262a3322cc24accb51770d0.webp"
+  },
+  {
+    "filename": "0991dd239923546de0ff8b165d479da518fa353a2d4c1c9af0852e36e603aba7.webp",
+    "size": 7522,
+    "source_rel": "geely/models/coolray/images/0991dd239923546de0ff8b165d479da518fa353a2d4c1c9af0852e36e603aba7.webp"
+  },
+  {
+    "filename": "099c46edc2de330dd77f9ac326eda8183e6150ec53e9e4a5e6b4cbebf0f6a329.webp",
+    "size": 2164,
+    "source_rel": "geely/models/coolray/images/099c46edc2de330dd77f9ac326eda8183e6150ec53e9e4a5e6b4cbebf0f6a329.webp"
+  },
+  {
+    "filename": "09a0eba9da8d0c5efbfa63ccc7d327aa65593e22a9d93ea567d5292079225acd.webp",
+    "size": 15358,
+    "source_rel": "geely/models/coolray/images/09a0eba9da8d0c5efbfa63ccc7d327aa65593e22a9d93ea567d5292079225acd.webp"
+  },
+  {
+    "filename": "09a14f1cac9db608c9b14d0cab51c4d3a5b8159f2f3c0ba993b1f4957eca67d4.webp",
+    "size": 6208,
+    "source_rel": "geely/models/coolray/images/09a14f1cac9db608c9b14d0cab51c4d3a5b8159f2f3c0ba993b1f4957eca67d4.webp"
+  },
+  {
+    "filename": "09a903b643b9cdaa1fe81e506af1697c0b7b7203ecb8dee606fba4bc78fdc143.webp",
+    "size": 14050,
+    "source_rel": "geely/models/coolray/images/09a903b643b9cdaa1fe81e506af1697c0b7b7203ecb8dee606fba4bc78fdc143.webp"
+  },
+  {
+    "filename": "09ae2dbc28423e5af07b22a2220077fdaddf701972fc63b97f54cd74321fcfe1.webp",
+    "size": 4038,
+    "source_rel": "geely/models/coolray/images/09ae2dbc28423e5af07b22a2220077fdaddf701972fc63b97f54cd74321fcfe1.webp"
+  },
+  {
+    "filename": "09c90f6bde154261b50238b74191a27e55d4cb3455d7ecce52a7f90ae9943f91.webp",
+    "size": 36404,
+    "source_rel": "geely/models/coolray/images/09c90f6bde154261b50238b74191a27e55d4cb3455d7ecce52a7f90ae9943f91.webp"
+  },
+  {
+    "filename": "09ca98af27e95da3e8d55bd74b6ed70f8437bab2d2d9926aaa2d405b1c88b535.webp",
+    "size": 62908,
+    "source_rel": "geely/models/coolray/images/09ca98af27e95da3e8d55bd74b6ed70f8437bab2d2d9926aaa2d405b1c88b535.webp"
+  },
+  {
+    "filename": "09e0b0fdc8925a774e40185af3b13ef3f30bd330bb2a101b592893f157380ad9.webp",
+    "size": 18686,
+    "source_rel": "geely/models/coolray/images/09e0b0fdc8925a774e40185af3b13ef3f30bd330bb2a101b592893f157380ad9.webp"
+  },
+  {
+    "filename": "09ed63b2e2b33cba3f723f4356551eacfaba6b6932ce1d44ec0bf8bec09a82ec.webp",
+    "size": 4716,
+    "source_rel": "geely/models/coolray/images/09ed63b2e2b33cba3f723f4356551eacfaba6b6932ce1d44ec0bf8bec09a82ec.webp"
+  },
+  {
+    "filename": "0a08220a32c4b9b73d44238299df7992722d096aeb90ef46dcdd315e15828662.webp",
+    "size": 21724,
+    "source_rel": "geely/models/coolray/images/0a08220a32c4b9b73d44238299df7992722d096aeb90ef46dcdd315e15828662.webp"
+  },
+  {
+    "filename": "0a08b94a1b2f75be297119542e9f6e23ee7e9febf02a6c5fdab11f6d154ef17d.webp",
+    "size": 38838,
+    "source_rel": "geely/models/coolray/images/0a08b94a1b2f75be297119542e9f6e23ee7e9febf02a6c5fdab11f6d154ef17d.webp"
+  },
+  {
+    "filename": "0a128f5dff8b66c043b0bfb40e6a0bc1a32c6eeac75f1711b60d5fa84348d870.webp",
+    "size": 40406,
+    "source_rel": "geely/models/coolray/images/0a128f5dff8b66c043b0bfb40e6a0bc1a32c6eeac75f1711b60d5fa84348d870.webp"
+  },
+  {
+    "filename": "0a1ae3365f09b795095b1a222779092287d4dc7750f9497aa5e4c25de8b53fe3.webp",
+    "size": 47042,
+    "source_rel": "geely/models/coolray/images/0a1ae3365f09b795095b1a222779092287d4dc7750f9497aa5e4c25de8b53fe3.webp"
+  },
+  {
+    "filename": "0a2e428bc7561a2a55479e7a76220348c232112918f14054a239b4f3a17dd873.webp",
+    "size": 3592,
+    "source_rel": "geely/models/coolray/images/0a2e428bc7561a2a55479e7a76220348c232112918f14054a239b4f3a17dd873.webp"
+  },
+  {
+    "filename": "0a33296bfb6f01fbe83518b835cf58cdd9c79d6bed000d82484b64d9b594135f.webp",
+    "size": 17746,
+    "source_rel": "geely/models/coolray/images/0a33296bfb6f01fbe83518b835cf58cdd9c79d6bed000d82484b64d9b594135f.webp"
+  },
+  {
+    "filename": "0a3c95dad259f84fca01bbb65dd61d84d2a21a88e612e49c341012902bb403e0.webp",
+    "size": 76726,
+    "source_rel": "geely/models/coolray/images/0a3c95dad259f84fca01bbb65dd61d84d2a21a88e612e49c341012902bb403e0.webp"
+  },
+  {
+    "filename": "0a3cf434167385c1a277f8ac246d808c587446abdf34ce3ff99ec7e8530d0675.webp",
+    "size": 79122,
+    "source_rel": "geely/models/coolray/images/0a3cf434167385c1a277f8ac246d808c587446abdf34ce3ff99ec7e8530d0675.webp"
+  },
+  {
+    "filename": "0a483df34625a3616bc3b85a91a9b7b42fd54f22a961e2911bf01ae0bac7df5e.webp",
+    "size": 36162,
+    "source_rel": "geely/models/coolray/images/0a483df34625a3616bc3b85a91a9b7b42fd54f22a961e2911bf01ae0bac7df5e.webp"
+  },
+  {
+    "filename": "0a5a02f36b4dcc4a71fd813b37bffae47016654447f559247812a06238c4d40a.webp",
+    "size": 16268,
+    "source_rel": "geely/models/coolray/images/0a5a02f36b4dcc4a71fd813b37bffae47016654447f559247812a06238c4d40a.webp"
+  },
+  {
+    "filename": "0a5aa99060bdf02392a59d8a30a07df014c3b49613bf5aa685cd47f9c8f51f70.webp",
+    "size": 2022,
+    "source_rel": "geely/models/coolray/images/0a5aa99060bdf02392a59d8a30a07df014c3b49613bf5aa685cd47f9c8f51f70.webp"
+  },
+  {
+    "filename": "0a68f7c771a0ce3fa501201b77d412951d372cfbe7619ae0306beca8f7a069a3.webp",
+    "size": 14924,
+    "source_rel": "geely/models/coolray/images/0a68f7c771a0ce3fa501201b77d412951d372cfbe7619ae0306beca8f7a069a3.webp"
+  },
+  {
+    "filename": "0a719fd3e99b3ca569a849adbe2e8e4adac5790dceddcf2c598a3a0e9a8f314b.webp",
+    "size": 3626,
+    "source_rel": "geely/models/coolray/images/0a719fd3e99b3ca569a849adbe2e8e4adac5790dceddcf2c598a3a0e9a8f314b.webp"
+  },
+  {
+    "filename": "0a7585d7940e4b5d69c6f16a1e7bfb10b7b0d1addaae077e394503bcfc8702be.webp",
+    "size": 14178,
+    "source_rel": "geely/models/coolray/images/0a7585d7940e4b5d69c6f16a1e7bfb10b7b0d1addaae077e394503bcfc8702be.webp"
+  },
+  {
+    "filename": "0a7a70e8a6d37ec299451ff8389e9a642a367ecd45f2d1d47d7c207b1837fa94.webp",
+    "size": 29590,
+    "source_rel": "geely/models/coolray/images/0a7a70e8a6d37ec299451ff8389e9a642a367ecd45f2d1d47d7c207b1837fa94.webp"
+  },
+  {
+    "filename": "0a7e062a0dbf858008cd2ebdda87f8a449eba83c6430be1d8f88866f5628a001.webp",
+    "size": 129584,
+    "source_rel": "geely/models/coolray/images/0a7e062a0dbf858008cd2ebdda87f8a449eba83c6430be1d8f88866f5628a001.webp"
+  },
+  {
+    "filename": "0a7f435e4fe941f3a3c31e55e50638ed7be1f434bc9f1cf759d76ca3bfbe407c.webp",
+    "size": 97592,
+    "source_rel": "geely/models/coolray/images/0a7f435e4fe941f3a3c31e55e50638ed7be1f434bc9f1cf759d76ca3bfbe407c.webp"
+  },
+  {
+    "filename": "0a85b36cd6b7a5009f24c79ae7de87923c2c28382f0e49aa1970d5d7319a836b.webp",
+    "size": 3584,
+    "source_rel": "geely/models/coolray/images/0a85b36cd6b7a5009f24c79ae7de87923c2c28382f0e49aa1970d5d7319a836b.webp"
+  },
+  {
+    "filename": "0a87b08e2a9814ffc503068ef2817754e439ba8302a6afd475643af636362b32.webp",
+    "size": 1176,
+    "source_rel": "geely/models/coolray/images/0a87b08e2a9814ffc503068ef2817754e439ba8302a6afd475643af636362b32.webp"
+  },
+  {
+    "filename": "0a91bcf7a18b01b66444a94c9c7ce87b3ca456b93a29c99104baff2cfe4d9cca.webp",
+    "size": 5248,
+    "source_rel": "geely/models/coolray/images/0a91bcf7a18b01b66444a94c9c7ce87b3ca456b93a29c99104baff2cfe4d9cca.webp"
+  },
+  {
+    "filename": "0a91fea646201c7189be41e4f49337815a709869174a39361ad840730b605bb7.webp",
+    "size": 3792,
+    "source_rel": "geely/models/coolray/images/0a91fea646201c7189be41e4f49337815a709869174a39361ad840730b605bb7.webp"
+  },
+  {
+    "filename": "0aab913db155e86ac54478f4ea878afe3f057903d17ef447f5b98bc5189fdcf3.webp",
+    "size": 61642,
+    "source_rel": "geely/models/coolray/images/0aab913db155e86ac54478f4ea878afe3f057903d17ef447f5b98bc5189fdcf3.webp"
+  },
+  {
+    "filename": "0aabcca2d7a7d80b9c182bc532a67326edf1c254cb097d20651fde88dbd0bd83.webp",
+    "size": 65344,
+    "source_rel": "geely/models/coolray/images/0aabcca2d7a7d80b9c182bc532a67326edf1c254cb097d20651fde88dbd0bd83.webp"
+  },
+  {
+    "filename": "0ab5012735e3355aecdafe2d67f03436afcd8e47f567ccb5c5fe95e769949adb.webp",
+    "size": 13204,
+    "source_rel": "geely/models/coolray/images/0ab5012735e3355aecdafe2d67f03436afcd8e47f567ccb5c5fe95e769949adb.webp"
+  },
+  {
+    "filename": "0ab8224fa9ee86e7728b6e51c4360db979e616aabcd1770890ac0cab60c2c2ea.webp",
+    "size": 63044,
+    "source_rel": "geely/models/coolray/images/0ab8224fa9ee86e7728b6e51c4360db979e616aabcd1770890ac0cab60c2c2ea.webp"
+  },
+  {
+    "filename": "0ac4011af317a48510aa9db0b02e180f0fda79c0086d2d5dcaf8d30d6391de65.webp",
+    "size": 5136,
+    "source_rel": "geely/models/coolray/images/0ac4011af317a48510aa9db0b02e180f0fda79c0086d2d5dcaf8d30d6391de65.webp"
+  },
+  {
+    "filename": "0ad363064e67c99d4391918930623a79d7599eb1f792555242640eaf3b4c4e34.webp",
+    "size": 83594,
+    "source_rel": "geely/models/coolray/images/0ad363064e67c99d4391918930623a79d7599eb1f792555242640eaf3b4c4e34.webp"
+  },
+  {
+    "filename": "0ad55a4b3a8bac5f3de5592c6b1f79f0c35e6d90015f0a0be08527cfe8d5c964.webp",
+    "size": 16684,
+    "source_rel": "geely/models/coolray/images/0ad55a4b3a8bac5f3de5592c6b1f79f0c35e6d90015f0a0be08527cfe8d5c964.webp"
+  },
+  {
+    "filename": "0adac819bd83b604035537776359fe801d7fbc49a1e421fb67cff3a1daeeaf4a.webp",
+    "size": 4104,
+    "source_rel": "geely/models/coolray/images/0adac819bd83b604035537776359fe801d7fbc49a1e421fb67cff3a1daeeaf4a.webp"
+  },
+  {
+    "filename": "0ae4f6d9b51d294c28851224bc1161731b0cc28a16cee57fc3841c446048418d.webp",
+    "size": 28834,
+    "source_rel": "geely/models/coolray/images/0ae4f6d9b51d294c28851224bc1161731b0cc28a16cee57fc3841c446048418d.webp"
+  },
+  {
+    "filename": "0aeae6638c73be0f0f3549352e8011d9e41d815a28253b4411cd14a810e89bcd.webp",
+    "size": 55812,
+    "source_rel": "geely/models/coolray/images/0aeae6638c73be0f0f3549352e8011d9e41d815a28253b4411cd14a810e89bcd.webp"
+  },
+  {
+    "filename": "0aee7f9592fdea9baf36a1943851e8dc112bbc5b43e9dc6805a5de86c8a972cb.webp",
+    "size": 32566,
+    "source_rel": "geely/models/coolray/images/0aee7f9592fdea9baf36a1943851e8dc112bbc5b43e9dc6805a5de86c8a972cb.webp"
+  },
+  {
+    "filename": "0af7dc79ed033bf48df9e6720bba56341eb6fafd95e7835869856f37a1902323.webp",
+    "size": 14324,
+    "source_rel": "geely/models/coolray/images/0af7dc79ed033bf48df9e6720bba56341eb6fafd95e7835869856f37a1902323.webp"
+  },
+  {
+    "filename": "0afa2238d6deb18bc49c507d00f5e50e7bd8212d163226f6a4c74f669b9f1b7f.webp",
+    "size": 2858,
+    "source_rel": "geely/models/coolray/images/0afa2238d6deb18bc49c507d00f5e50e7bd8212d163226f6a4c74f669b9f1b7f.webp"
+  },
+  {
+    "filename": "0afeea17fb9cf24969e9fe73f6aeca01a13803b223ea8f4686f8c6e40273aa17.webp",
+    "size": 6542,
+    "source_rel": "geely/models/coolray/images/0afeea17fb9cf24969e9fe73f6aeca01a13803b223ea8f4686f8c6e40273aa17.webp"
+  },
+  {
+    "filename": "0b0001dc1239fb92661f83b7183abcbdb06d2474f95e97b4a450d26e98d55f3b.webp",
+    "size": 25278,
+    "source_rel": "geely/models/coolray/images/0b0001dc1239fb92661f83b7183abcbdb06d2474f95e97b4a450d26e98d55f3b.webp"
+  },
+  {
+    "filename": "0b00fdf4fba8e75a3b7e5ded4fe645248915d259dce735769d48c2eac1b9efdd.webp",
+    "size": 26148,
+    "source_rel": "geely/models/coolray/images/0b00fdf4fba8e75a3b7e5ded4fe645248915d259dce735769d48c2eac1b9efdd.webp"
+  },
+  {
+    "filename": "0b078036d47b39efd4a28ed743a096dd12f229aade36e880cf859fe1c1e3b45d.webp",
+    "size": 3732,
+    "source_rel": "geely/models/coolray/images/0b078036d47b39efd4a28ed743a096dd12f229aade36e880cf859fe1c1e3b45d.webp"
+  },
+  {
+    "filename": "0b1f6fda63f66bb4d1a4324f8fd7de2aeec612c93a3c18170f8829e7e62885d7.webp",
+    "size": 122466,
+    "source_rel": "geely/models/coolray/images/0b1f6fda63f66bb4d1a4324f8fd7de2aeec612c93a3c18170f8829e7e62885d7.webp"
+  },
+  {
+    "filename": "0b2144fdb9a15b3c65376e92487e98e94d0d12a519f5b68316760f6c4947be04.webp",
+    "size": 28994,
+    "source_rel": "geely/models/coolray/images/0b2144fdb9a15b3c65376e92487e98e94d0d12a519f5b68316760f6c4947be04.webp"
+  },
+  {
+    "filename": "0b24bcb741bc06e731c6fd59f445b595f10b2ccd2cdbf102a54ef1262f8817dd.webp",
+    "size": 4690,
+    "source_rel": "geely/models/coolray/images/0b24bcb741bc06e731c6fd59f445b595f10b2ccd2cdbf102a54ef1262f8817dd.webp"
+  },
+  {
+    "filename": "0b27e256f1a61f6f10e3ce2ccd6887d3c8e8efea3c9499643171f46965fb9a69.webp",
+    "size": 1934,
+    "source_rel": "geely/models/coolray/images/0b27e256f1a61f6f10e3ce2ccd6887d3c8e8efea3c9499643171f46965fb9a69.webp"
+  },
+  {
+    "filename": "0b334f74c3c69474359c889b4b75df26e824e4579eb55a9e497ebf87d7021f55.webp",
+    "size": 69202,
+    "source_rel": "geely/models/coolray/images/0b334f74c3c69474359c889b4b75df26e824e4579eb55a9e497ebf87d7021f55.webp"
+  },
+  {
+    "filename": "0b33547dabd22585912f0669a573a074e6df7c2dbc047bf83df11a442c735bbd.webp",
+    "size": 20842,
+    "source_rel": "geely/models/coolray/images/0b33547dabd22585912f0669a573a074e6df7c2dbc047bf83df11a442c735bbd.webp"
+  },
+  {
+    "filename": "0b355fbb954a5f031c6f91bbab128819fc6d217606a77045b3adb96177c93c98.webp",
+    "size": 97982,
+    "source_rel": "geely/models/coolray/images/0b355fbb954a5f031c6f91bbab128819fc6d217606a77045b3adb96177c93c98.webp"
+  },
+  {
+    "filename": "0b4835ce9bed84b92801c7d3f0c03d9e5237accf941ac5cc753235a7772917ad.webp",
+    "size": 71310,
+    "source_rel": "geely/models/coolray/images/0b4835ce9bed84b92801c7d3f0c03d9e5237accf941ac5cc753235a7772917ad.webp"
+  },
+  {
+    "filename": "0b48bf4ab7fd9099a6d8b6853126e06e0be7ff26b4386ec8cc7a329791e5e45d.webp",
+    "size": 48118,
+    "source_rel": "geely/models/coolray/images/0b48bf4ab7fd9099a6d8b6853126e06e0be7ff26b4386ec8cc7a329791e5e45d.webp"
+  },
+  {
+    "filename": "0b4b9638e6705fd6eeedc322981061020d003dd401c936dbb5ab172bed6a7591.webp",
+    "size": 36258,
+    "source_rel": "geely/models/coolray/images/0b4b9638e6705fd6eeedc322981061020d003dd401c936dbb5ab172bed6a7591.webp"
+  },
+  {
+    "filename": "0b55fffdf5f34f6358bff0ae4ebffe539116888e92ab6dcc2a78e2f2e609261b.webp",
+    "size": 3504,
+    "source_rel": "geely/models/coolray/images/0b55fffdf5f34f6358bff0ae4ebffe539116888e92ab6dcc2a78e2f2e609261b.webp"
+  },
+  {
+    "filename": "0b61ec39a6bdec0d97826edda9c4358d6ef7194a4978af424155fe0190b80326.webp",
+    "size": 1340,
+    "source_rel": "geely/models/coolray/images/0b61ec39a6bdec0d97826edda9c4358d6ef7194a4978af424155fe0190b80326.webp"
+  },
+  {
+    "filename": "0b7b4feca8b2b41f5498941038b5aeeb10a33a9ff977996acd99d4aba4d2d4f3.webp",
+    "size": 132726,
+    "source_rel": "geely/models/coolray/images/0b7b4feca8b2b41f5498941038b5aeeb10a33a9ff977996acd99d4aba4d2d4f3.webp"
+  },
+  {
+    "filename": "0b7bb3f9fabeffe701276500edb7c2ddaf0462b9c063931d047281e8aecd8afd.webp",
+    "size": 22872,
+    "source_rel": "geely/models/coolray/images/0b7bb3f9fabeffe701276500edb7c2ddaf0462b9c063931d047281e8aecd8afd.webp"
+  },
+  {
+    "filename": "0b812329d1e0e551e66a0cb73315ad158437d07cb503cd420a8b967152ee8c46.webp",
+    "size": 3330,
+    "source_rel": "geely/models/coolray/images/0b812329d1e0e551e66a0cb73315ad158437d07cb503cd420a8b967152ee8c46.webp"
+  },
+  {
+    "filename": "0b8473a17eca06f9f3baeb549ea29ea0836384ed0b0c7d6c59cf91f98775c798.webp",
+    "size": 155574,
+    "source_rel": "geely/models/coolray/images/0b8473a17eca06f9f3baeb549ea29ea0836384ed0b0c7d6c59cf91f98775c798.webp"
+  },
+  {
+    "filename": "0b89b7ee2b44b83894341076856222791847a3a2a586639748013ce3b6263df0.webp",
+    "size": 99524,
+    "source_rel": "geely/models/coolray/images/0b89b7ee2b44b83894341076856222791847a3a2a586639748013ce3b6263df0.webp"
+  },
+  {
+    "filename": "0b8fbed16503c46fbc91b639d1483aa1c73d733ae1684774db9043f4b14476f4.webp",
+    "size": 57150,
+    "source_rel": "geely/models/coolray/images/0b8fbed16503c46fbc91b639d1483aa1c73d733ae1684774db9043f4b14476f4.webp"
+  },
+  {
+    "filename": "0b9078cf10053389facc4f955e08452a6b7d34f08f06372fdea5e5a139e90226.webp",
+    "size": 11566,
+    "source_rel": "geely/models/coolray/images/0b9078cf10053389facc4f955e08452a6b7d34f08f06372fdea5e5a139e90226.webp"
+  },
+  {
+    "filename": "0ba4156ac7a2043f342c0411027e25907017f9e59180f9d8fd19d490861a0c45.webp",
+    "size": 3928,
+    "source_rel": "geely/models/coolray/images/0ba4156ac7a2043f342c0411027e25907017f9e59180f9d8fd19d490861a0c45.webp"
+  },
+  {
+    "filename": "0ba6a799cf04ec458ca22f3c4ec41c3080b75354a1db5362725f92d9f8f0fef8.webp",
+    "size": 12052,
+    "source_rel": "geely/models/coolray/images/0ba6a799cf04ec458ca22f3c4ec41c3080b75354a1db5362725f92d9f8f0fef8.webp"
+  },
+  {
+    "filename": "0ba8acab5bf9b791c2e9a7bdcd8e22c4bde001d135ec24ae728b004a82abe5ee.webp",
+    "size": 49444,
+    "source_rel": "geely/models/coolray/images/0ba8acab5bf9b791c2e9a7bdcd8e22c4bde001d135ec24ae728b004a82abe5ee.webp"
+  },
+  {
+    "filename": "0bba279e0100a86160aa4cc2cdcbf2a4c58c8c4452312671606ce18eea27f7e6.webp",
+    "size": 2708,
+    "source_rel": "geely/models/coolray/images/0bba279e0100a86160aa4cc2cdcbf2a4c58c8c4452312671606ce18eea27f7e6.webp"
+  },
+  {
+    "filename": "0bbe9991576314ddb8798661a8ef5d622b4c955b4fe0076cd829052e62ed2f5f.webp",
+    "size": 64264,
+    "source_rel": "geely/models/coolray/images/0bbe9991576314ddb8798661a8ef5d622b4c955b4fe0076cd829052e62ed2f5f.webp"
+  },
+  {
+    "filename": "0bc47a7426d60d94f63310b69cfa339bce037d71a0f5a4bb2c3d05849a377d71.webp",
+    "size": 88104,
+    "source_rel": "geely/models/coolray/images/0bc47a7426d60d94f63310b69cfa339bce037d71a0f5a4bb2c3d05849a377d71.webp"
+  },
+  {
+    "filename": "0bce4886e7acc8f27593dc6afafbd1236ed8fa86a43f412df0a7140d709d2422.webp",
+    "size": 25532,
+    "source_rel": "geely/models/coolray/images/0bce4886e7acc8f27593dc6afafbd1236ed8fa86a43f412df0a7140d709d2422.webp"
+  },
+  {
+    "filename": "0bd441d08270c48db4879f32c32cc2171b6b6913fa1609421b6c4656a2baf6ec.webp",
+    "size": 14914,
+    "source_rel": "geely/models/coolray/images/0bd441d08270c48db4879f32c32cc2171b6b6913fa1609421b6c4656a2baf6ec.webp"
+  },
+  {
+    "filename": "0bdf6f3b85044137b34d0b8c72fa9b8d2a163366016f72cbf1a66b95b7923490.webp",
+    "size": 1070,
+    "source_rel": "geely/models/coolray/images/0bdf6f3b85044137b34d0b8c72fa9b8d2a163366016f72cbf1a66b95b7923490.webp"
+  },
+  {
+    "filename": "0be4cd09c8ec7635ab029f120304fc527d50d954bf3b34a39e0cd1a5a846d5f1.webp",
+    "size": 2168,
+    "source_rel": "geely/models/coolray/images/0be4cd09c8ec7635ab029f120304fc527d50d954bf3b34a39e0cd1a5a846d5f1.webp"
+  },
+  {
+    "filename": "0bf052f4c1091367de501df8d58551b2aee6c2084e140012ddb25636d2880254.webp",
+    "size": 10202,
+    "source_rel": "geely/models/coolray/images/0bf052f4c1091367de501df8d58551b2aee6c2084e140012ddb25636d2880254.webp"
+  },
+  {
+    "filename": "0bf42ad661538b6d42ca6af3d665e493a728a73027d551f93e2c421e08abba3c.webp",
+    "size": 32136,
+    "source_rel": "geely/models/coolray/images/0bf42ad661538b6d42ca6af3d665e493a728a73027d551f93e2c421e08abba3c.webp"
+  },
+  {
+    "filename": "0bf77ea1336e56e447af1fdab222b83327cfac54d69ea3138c1b15bf0721c903.webp",
+    "size": 109122,
+    "source_rel": "geely/models/coolray/images/0bf77ea1336e56e447af1fdab222b83327cfac54d69ea3138c1b15bf0721c903.webp"
+  },
+  {
+    "filename": "0bfff09d6620453246f5dcd139b51bc1f7d40586f5bdfabf6eb2f8fb59ab1b17.webp",
+    "size": 123600,
+    "source_rel": "geely/models/coolray/images/0bfff09d6620453246f5dcd139b51bc1f7d40586f5bdfabf6eb2f8fb59ab1b17.webp"
+  },
+  {
+    "filename": "0c1dfa384c90af563460b5364e76deeebffcaa3885b86db41e17c9793147cad2.webp",
+    "size": 53322,
+    "source_rel": "geely/models/coolray/images/0c1dfa384c90af563460b5364e76deeebffcaa3885b86db41e17c9793147cad2.webp"
+  },
+  {
+    "filename": "0c2c17e1149cf74f4d5294f1a4f5dcbea47b05b397ccaa609c3be6a585bb09e0.webp",
+    "size": 12732,
+    "source_rel": "geely/models/coolray/images/0c2c17e1149cf74f4d5294f1a4f5dcbea47b05b397ccaa609c3be6a585bb09e0.webp"
+  },
+  {
+    "filename": "0c2d2b659d0c714d238f262539fa74581d99c3ed403bb89a7548ec140dcae6f0.webp",
+    "size": 12976,
+    "source_rel": "geely/models/coolray/images/0c2d2b659d0c714d238f262539fa74581d99c3ed403bb89a7548ec140dcae6f0.webp"
+  },
+  {
+    "filename": "0c2ee3f3fb571ec7b3dcc32a5bee77535be2c012b57a62b0a6ed64a275d50c20.webp",
+    "size": 2302,
+    "source_rel": "geely/models/coolray/images/0c2ee3f3fb571ec7b3dcc32a5bee77535be2c012b57a62b0a6ed64a275d50c20.webp"
+  },
+  {
+    "filename": "0c37aea7fa8cf787f4ed9241b6eb2b450d0b239d8b01025d0089a90574f2478a.webp",
+    "size": 23182,
+    "source_rel": "geely/models/coolray/images/0c37aea7fa8cf787f4ed9241b6eb2b450d0b239d8b01025d0089a90574f2478a.webp"
+  },
+  {
+    "filename": "0c3ba59c73ebd3d5136549170920c67df0356661fcd60b42e7e3600bb05ef4d0.webp",
+    "size": 29520,
+    "source_rel": "geely/models/coolray/images/0c3ba59c73ebd3d5136549170920c67df0356661fcd60b42e7e3600bb05ef4d0.webp"
+  },
+  {
+    "filename": "0c42eed1c1fc06fe6570234c9e221e186d3c9ec2f36895acab5b4e335d562cb9.webp",
+    "size": 44272,
+    "source_rel": "geely/models/coolray/images/0c42eed1c1fc06fe6570234c9e221e186d3c9ec2f36895acab5b4e335d562cb9.webp"
+  },
+  {
+    "filename": "0c4dbdd6fbac5eaaa1509bbb2952e5f1113b73707196fb63d9612e5f74dd0245.webp",
+    "size": 2284,
+    "source_rel": "geely/models/coolray/images/0c4dbdd6fbac5eaaa1509bbb2952e5f1113b73707196fb63d9612e5f74dd0245.webp"
+  },
+  {
+    "filename": "0c4f76233911973a7f55774a3862b633d67ff5625b4ba9ad976b2048dbbd64a4.webp",
+    "size": 2894,
+    "source_rel": "geely/models/coolray/images/0c4f76233911973a7f55774a3862b633d67ff5625b4ba9ad976b2048dbbd64a4.webp"
+  },
+  {
+    "filename": "0c58fa023460a7457303df260402013e5672cdfb00d438fe050c600aa92b98c6.webp",
+    "size": 29966,
+    "source_rel": "geely/models/coolray/images/0c58fa023460a7457303df260402013e5672cdfb00d438fe050c600aa92b98c6.webp"
+  },
+  {
+    "filename": "0c5ae7df42f7ff9ecf56e85af449a3b7c47b90c664a79887fa14ae5cd4fc8fcf.webp",
+    "size": 3456,
+    "source_rel": "geely/models/coolray/images/0c5ae7df42f7ff9ecf56e85af449a3b7c47b90c664a79887fa14ae5cd4fc8fcf.webp"
+  },
+  {
+    "filename": "0c6af13f7e690cb5def5e4d1f48defc5b8c2c57337c751f2902d48fa708b342c.webp",
+    "size": 2716,
+    "source_rel": "geely/models/coolray/images/0c6af13f7e690cb5def5e4d1f48defc5b8c2c57337c751f2902d48fa708b342c.webp"
+  },
+  {
+    "filename": "0c7211864318be0628ef022cc590b41712e7f2b1f0969a4210f4895a17f83c89.webp",
+    "size": 10930,
+    "source_rel": "geely/models/coolray/images/0c7211864318be0628ef022cc590b41712e7f2b1f0969a4210f4895a17f83c89.webp"
+  },
+  {
+    "filename": "0c817529d0b437395eea24142d230cd15d33245d107696ed58bc9e6c198121c4.webp",
+    "size": 12760,
+    "source_rel": "geely/models/coolray/images/0c817529d0b437395eea24142d230cd15d33245d107696ed58bc9e6c198121c4.webp"
+  },
+  {
+    "filename": "0c8deb673e8db912066c97c5bc779f8165211adba1e4dd173eede8813e3f094b.webp",
+    "size": 33494,
+    "source_rel": "geely/models/coolray/images/0c8deb673e8db912066c97c5bc779f8165211adba1e4dd173eede8813e3f094b.webp"
+  },
+  {
+    "filename": "0c8f8e64791014c78d04e2c22959363fa55dbc84a3dc77c11ab584360a670728.webp",
+    "size": 2044,
+    "source_rel": "geely/models/coolray/images/0c8f8e64791014c78d04e2c22959363fa55dbc84a3dc77c11ab584360a670728.webp"
+  },
+  {
+    "filename": "0c8fb0e18b146befe380f4a27d6927792f2cbf056a8c22c919eaa9518c494777.webp",
+    "size": 118688,
+    "source_rel": "geely/models/coolray/images/0c8fb0e18b146befe380f4a27d6927792f2cbf056a8c22c919eaa9518c494777.webp"
+  },
+  {
+    "filename": "0c98502e8e5e1fa01b7e5e23219c156139971a70be4f8417fb1c3b2f8d9d2c03.webp",
+    "size": 15798,
+    "source_rel": "geely/models/coolray/images/0c98502e8e5e1fa01b7e5e23219c156139971a70be4f8417fb1c3b2f8d9d2c03.webp"
+  },
+  {
+    "filename": "0c9a980a7e656c0417a854eb4f75963ccaa330471691426253d8bca7b751fee7.webp",
+    "size": 91724,
+    "source_rel": "geely/models/coolray/images/0c9a980a7e656c0417a854eb4f75963ccaa330471691426253d8bca7b751fee7.webp"
+  },
+  {
+    "filename": "0ca2d261df8d27d6f2298b6c9b85580604317432b77e0d3807e7dc966b54cd5c.webp",
+    "size": 804,
+    "source_rel": "geely/models/coolray/images/0ca2d261df8d27d6f2298b6c9b85580604317432b77e0d3807e7dc966b54cd5c.webp"
+  },
+  {
+    "filename": "0cc9376912e36b3c4b171a6d1579d3be9ef44acf3adaf8021aec45f4f317396c.webp",
+    "size": 28156,
+    "source_rel": "geely/models/coolray/images/0cc9376912e36b3c4b171a6d1579d3be9ef44acf3adaf8021aec45f4f317396c.webp"
+  },
+  {
+    "filename": "0cec8ec3458aa3cbd461c553b643656d17d12ab000bb05bc4a28420ce7537cb7.webp",
+    "size": 27230,
+    "source_rel": "geely/models/coolray/images/0cec8ec3458aa3cbd461c553b643656d17d12ab000bb05bc4a28420ce7537cb7.webp"
+  },
+  {
+    "filename": "0d0a90256917192ad1402840caa315c4de93f6e09e1a8d72872ffa0d5588c0c9.webp",
+    "size": 2054,
+    "source_rel": "geely/models/coolray/images/0d0a90256917192ad1402840caa315c4de93f6e09e1a8d72872ffa0d5588c0c9.webp"
+  },
+  {
+    "filename": "0d0d8cd29ebb3b66cd4f5b54e553e8cac9daa8bce9b7230b9f84aea52f22bfa3.webp",
+    "size": 12028,
+    "source_rel": "geely/models/coolray/images/0d0d8cd29ebb3b66cd4f5b54e553e8cac9daa8bce9b7230b9f84aea52f22bfa3.webp"
+  },
+  {
+    "filename": "0d25cd65887d4002a53ba2255e075a44265a492580b33c02094aecef6296d6c9.webp",
+    "size": 5982,
+    "source_rel": "geely/models/coolray/images/0d25cd65887d4002a53ba2255e075a44265a492580b33c02094aecef6296d6c9.webp"
+  },
+  {
+    "filename": "0d311dc77a82497f846e22cf92db9d8ceeacc7406564458d1a5be49f16a25412.webp",
+    "size": 1518,
+    "source_rel": "geely/models/coolray/images/0d311dc77a82497f846e22cf92db9d8ceeacc7406564458d1a5be49f16a25412.webp"
+  },
+  {
+    "filename": "0d347a1271b4e21483dbe6be4e81774ec063837708881be79f06ee676a170637.webp",
+    "size": 43746,
+    "source_rel": "geely/models/coolray/images/0d347a1271b4e21483dbe6be4e81774ec063837708881be79f06ee676a170637.webp"
+  },
+  {
+    "filename": "0d498569c700034369f7fca296ce69ee4415a48cc6ed352dcaee91de7c81fa23.webp",
+    "size": 1832,
+    "source_rel": "geely/models/coolray/images/0d498569c700034369f7fca296ce69ee4415a48cc6ed352dcaee91de7c81fa23.webp"
+  },
+  {
+    "filename": "0d5332082875f3f1d10c79453a490596945733e10d31c104aeb91434e12d9e87.webp",
+    "size": 2090,
+    "source_rel": "geely/models/coolray/images/0d5332082875f3f1d10c79453a490596945733e10d31c104aeb91434e12d9e87.webp"
+  },
+  {
+    "filename": "0d5431717e211247921ddf68e9319b84b05c40909763e0e787a0df8e94757e12.webp",
+    "size": 14564,
+    "source_rel": "geely/models/coolray/images/0d5431717e211247921ddf68e9319b84b05c40909763e0e787a0df8e94757e12.webp"
+  },
+  {
+    "filename": "0d632629bdc0d6d49340c1231c2bbe38b5ab9ee3d8ae85cc0debd5d0cc755bc7.webp",
+    "size": 46806,
+    "source_rel": "geely/models/coolray/images/0d632629bdc0d6d49340c1231c2bbe38b5ab9ee3d8ae85cc0debd5d0cc755bc7.webp"
+  },
+  {
+    "filename": "0d70a7c7a1279f055cccde16724c1e2aab7a1d294559402ae5f9cb653d176f04.webp",
+    "size": 2556,
+    "source_rel": "geely/models/coolray/images/0d70a7c7a1279f055cccde16724c1e2aab7a1d294559402ae5f9cb653d176f04.webp"
+  },
+  {
+    "filename": "0d75cd2b762a1db18e040c2a9e5af7e247cd32215f4e0883fbbef535ed7ca576.webp",
+    "size": 92518,
+    "source_rel": "geely/models/coolray/images/0d75cd2b762a1db18e040c2a9e5af7e247cd32215f4e0883fbbef535ed7ca576.webp"
+  },
+  {
+    "filename": "0d784fe248f2d1a828b65eaa817c0f7a511f78b45d12b952fe545babdc6a81cd.webp",
+    "size": 16396,
+    "source_rel": "geely/models/coolray/images/0d784fe248f2d1a828b65eaa817c0f7a511f78b45d12b952fe545babdc6a81cd.webp"
+  },
+  {
+    "filename": "0d7d0c16971ba36d7c332b390f143e4524cf8b9916a04fe2cb482b13c8078251.webp",
+    "size": 14232,
+    "source_rel": "geely/models/coolray/images/0d7d0c16971ba36d7c332b390f143e4524cf8b9916a04fe2cb482b13c8078251.webp"
+  },
+  {
+    "filename": "0d803120937d61ebdebea2329450efc03c92f8bc48de20c8fd9cc99484a4ac4d.webp",
+    "size": 3946,
+    "source_rel": "geely/models/coolray/images/0d803120937d61ebdebea2329450efc03c92f8bc48de20c8fd9cc99484a4ac4d.webp"
+  },
+  {
+    "filename": "0d850830fe568b043045efb85ff34f0be8ac5e4cc04f0db2023d0cccc9580080.webp",
+    "size": 111306,
+    "source_rel": "geely/models/coolray/images/0d850830fe568b043045efb85ff34f0be8ac5e4cc04f0db2023d0cccc9580080.webp"
+  },
+  {
+    "filename": "0d881a79c0d1c1dc2004d343365e4affd7350cc932c26d711fb235c02afd8128.webp",
+    "size": 5916,
+    "source_rel": "geely/models/coolray/images/0d881a79c0d1c1dc2004d343365e4affd7350cc932c26d711fb235c02afd8128.webp"
+  },
+  {
+    "filename": "0d886efa6267509574e1fb11ed711067009c54d1c97a5cbd16ff99d82e88d9f4.webp",
+    "size": 26612,
+    "source_rel": "geely/models/coolray/images/0d886efa6267509574e1fb11ed711067009c54d1c97a5cbd16ff99d82e88d9f4.webp"
+  },
+  {
+    "filename": "0da0c0ca8f8173eed2994684683a8f659b7051579e6618338bf8c70c9bc47695.webp",
+    "size": 94416,
+    "source_rel": "geely/models/coolray/images/0da0c0ca8f8173eed2994684683a8f659b7051579e6618338bf8c70c9bc47695.webp"
+  },
+  {
+    "filename": "0dab627308d3bbe1d79f692d64729393817b47daf730497f01d22d5be6b8fff6.webp",
+    "size": 24262,
+    "source_rel": "geely/models/coolray/images/0dab627308d3bbe1d79f692d64729393817b47daf730497f01d22d5be6b8fff6.webp"
+  },
+  {
+    "filename": "0dac09e5e20acf51a0672ae97cd6aed09af06d15cf8a030aa3b7d095e49293e1.webp",
+    "size": 12570,
+    "source_rel": "geely/models/coolray/images/0dac09e5e20acf51a0672ae97cd6aed09af06d15cf8a030aa3b7d095e49293e1.webp"
+  },
+  {
+    "filename": "0dacf24ee81d6e6e89ae8d05c7c28dc9af37056fdd2d4f329f7e9fd1065400f2.webp",
+    "size": 35204,
+    "source_rel": "geely/models/coolray/images/0dacf24ee81d6e6e89ae8d05c7c28dc9af37056fdd2d4f329f7e9fd1065400f2.webp"
+  },
+  {
+    "filename": "0dad7c56340e42d8cdc106f4ed4cd8a84b75e4ea59ac4bd79cebf7f067eda075.webp",
+    "size": 22928,
+    "source_rel": "geely/models/coolray/images/0dad7c56340e42d8cdc106f4ed4cd8a84b75e4ea59ac4bd79cebf7f067eda075.webp"
+  },
+  {
+    "filename": "0db5aeda9059913bdb1d460a78410522b92340af7881fcca02fe6994f2930be3.webp",
+    "size": 14504,
+    "source_rel": "geely/models/coolray/images/0db5aeda9059913bdb1d460a78410522b92340af7881fcca02fe6994f2930be3.webp"
+  },
+  {
+    "filename": "0dbb8eb0c999b4f27aaf3c14ca2291e51b866397fe4dc3eac2d9b2a92c2e7aee.webp",
+    "size": 3138,
+    "source_rel": "geely/models/coolray/images/0dbb8eb0c999b4f27aaf3c14ca2291e51b866397fe4dc3eac2d9b2a92c2e7aee.webp"
+  },
+  {
+    "filename": "0dcb02e02f9494195a1517dfe61fe9ad35c12fea4f83c4fb2699f3d1aaeb424e.webp",
+    "size": 250926,
+    "source_rel": "geely/models/coolray/images/0dcb02e02f9494195a1517dfe61fe9ad35c12fea4f83c4fb2699f3d1aaeb424e.webp"
+  },
+  {
+    "filename": "0dd683be3ef0dcee39d20ed57914bd7d4fb2aeacda6761e07cc61ba6d9e69f81.webp",
+    "size": 8814,
+    "source_rel": "geely/models/coolray/images/0dd683be3ef0dcee39d20ed57914bd7d4fb2aeacda6761e07cc61ba6d9e69f81.webp"
+  },
+  {
+    "filename": "0de26c4e5059633b5fa9eea0e7354966734c141633ecd82d9dffa902ca5d1544.webp",
+    "size": 28020,
+    "source_rel": "geely/models/coolray/images/0de26c4e5059633b5fa9eea0e7354966734c141633ecd82d9dffa902ca5d1544.webp"
+  },
+  {
+    "filename": "0df48af930dbd218b1efca4ddd0a8027f231a2ae31dcd3ec5993be8934158917.webp",
+    "size": 19714,
+    "source_rel": "geely/models/coolray/images/0df48af930dbd218b1efca4ddd0a8027f231a2ae31dcd3ec5993be8934158917.webp"
+  },
+  {
+    "filename": "0e034fc9432f6e2872bfe75f69ba71afb170719538b68f746106e10d7afcc35a.webp",
+    "size": 59554,
+    "source_rel": "geely/models/coolray/images/0e034fc9432f6e2872bfe75f69ba71afb170719538b68f746106e10d7afcc35a.webp"
+  },
+  {
+    "filename": "0e08c53d0e9a175a5a8a0d0b30cbe24142923e6757d91a9e4120e747d20338b2.webp",
+    "size": 20800,
+    "source_rel": "geely/models/coolray/images/0e08c53d0e9a175a5a8a0d0b30cbe24142923e6757d91a9e4120e747d20338b2.webp"
+  },
+  {
+    "filename": "0e14784447c379f01e040ec794dbb0b6801e5d142ddc597acdc957972a240da1.webp",
+    "size": 6394,
+    "source_rel": "geely/models/coolray/images/0e14784447c379f01e040ec794dbb0b6801e5d142ddc597acdc957972a240da1.webp"
+  },
+  {
+    "filename": "0e1b06f00acb345e70c2c40527efac1cb5807bbcc26260f1e37d5cde6ed806a5.webp",
+    "size": 56110,
+    "source_rel": "geely/models/coolray/images/0e1b06f00acb345e70c2c40527efac1cb5807bbcc26260f1e37d5cde6ed806a5.webp"
+  },
+  {
+    "filename": "0e4905f3ed694d7edfd667541c3b13e4e0ecc2e5de71d847788b520174ff1c51.webp",
+    "size": 4390,
+    "source_rel": "geely/models/coolray/images/0e4905f3ed694d7edfd667541c3b13e4e0ecc2e5de71d847788b520174ff1c51.webp"
+  },
+  {
+    "filename": "0e4bbf22057a572bdcb556ee2832084bf1e0b76cc8200e2268fa7a6cfc51b972.webp",
+    "size": 1378,
+    "source_rel": "geely/models/coolray/images/0e4bbf22057a572bdcb556ee2832084bf1e0b76cc8200e2268fa7a6cfc51b972.webp"
+  },
+  {
+    "filename": "0e4fa301bbbcbe485b597b5d0186cc3b8626f7a51af40f406c01056be89b0947.webp",
+    "size": 70184,
+    "source_rel": "geely/models/coolray/images/0e4fa301bbbcbe485b597b5d0186cc3b8626f7a51af40f406c01056be89b0947.webp"
+  },
+  {
+    "filename": "0e5175317f7833cbfdfa7264250c6a40456224dd2ca7fe078546430c09a53399.webp",
+    "size": 98326,
+    "source_rel": "geely/models/coolray/images/0e5175317f7833cbfdfa7264250c6a40456224dd2ca7fe078546430c09a53399.webp"
+  },
+  {
+    "filename": "0e584db6a804b8b36dfba8a0d57bc1408401b68a009d7be7d0125b719bed5369.webp",
+    "size": 77956,
+    "source_rel": "geely/models/coolray/images/0e584db6a804b8b36dfba8a0d57bc1408401b68a009d7be7d0125b719bed5369.webp"
+  },
+  {
+    "filename": "0e5965582e35986e242da42fcbf0f2e991e6095e3b53ff9e790566d79122527f.webp",
+    "size": 42542,
+    "source_rel": "geely/models/coolray/images/0e5965582e35986e242da42fcbf0f2e991e6095e3b53ff9e790566d79122527f.webp"
+  },
+  {
+    "filename": "0e6d64c79d5b5cd9c442864151b4ab5ddf1ee9735f3cd3f70ba68a7302c0e740.webp",
+    "size": 22688,
+    "source_rel": "geely/models/coolray/images/0e6d64c79d5b5cd9c442864151b4ab5ddf1ee9735f3cd3f70ba68a7302c0e740.webp"
+  },
+  {
+    "filename": "0e722e0403de257d86dc8d07b67d864bd44fb7a6cf350397ab171c2700da3e68.webp",
+    "size": 4012,
+    "source_rel": "geely/models/coolray/images/0e722e0403de257d86dc8d07b67d864bd44fb7a6cf350397ab171c2700da3e68.webp"
+  },
+  {
+    "filename": "0e83700a6ae42a7253522a148511d1324857ed2238bf5e60b0ef35a025239c45.webp",
+    "size": 60670,
+    "source_rel": "geely/models/coolray/images/0e83700a6ae42a7253522a148511d1324857ed2238bf5e60b0ef35a025239c45.webp"
+  },
+  {
+    "filename": "0e91ea36f0069272625ed541e29e709443d2279c164e82aa2b5d0bd044d3bece.webp",
+    "size": 164770,
+    "source_rel": "geely/models/coolray/images/0e91ea36f0069272625ed541e29e709443d2279c164e82aa2b5d0bd044d3bece.webp"
+  },
+  {
+    "filename": "0e94b4c751b03279f1d1337dac516e0344d437c5bc6e34b0d147b11adeb42e74.webp",
+    "size": 13256,
+    "source_rel": "geely/models/coolray/images/0e94b4c751b03279f1d1337dac516e0344d437c5bc6e34b0d147b11adeb42e74.webp"
+  },
+  {
+    "filename": "0e9ea150c141d45775cc404da00259e458a300ac34e9d9bc79e4a5e704bd4b4e.webp",
+    "size": 37934,
+    "source_rel": "geely/models/coolray/images/0e9ea150c141d45775cc404da00259e458a300ac34e9d9bc79e4a5e704bd4b4e.webp"
+  },
+  {
+    "filename": "0ea63b06b41f7dbd34bdcdc6a40860e872f6f4099d99917ce5ff4092204e1bbb.webp",
+    "size": 78862,
+    "source_rel": "geely/models/coolray/images/0ea63b06b41f7dbd34bdcdc6a40860e872f6f4099d99917ce5ff4092204e1bbb.webp"
+  },
+  {
+    "filename": "0ea74443ff1a6c34170c1f8f682dbb9fdc653381fc8e8f14d8d48ae9531df6c0.webp",
+    "size": 27934,
+    "source_rel": "geely/models/coolray/images/0ea74443ff1a6c34170c1f8f682dbb9fdc653381fc8e8f14d8d48ae9531df6c0.webp"
+  },
+  {
+    "filename": "0ea94073ceca0039066784fdc68cf0027d3ddc19d8bb05b4480d9d422d7246f8.webp",
+    "size": 2166,
+    "source_rel": "geely/models/coolray/images/0ea94073ceca0039066784fdc68cf0027d3ddc19d8bb05b4480d9d422d7246f8.webp"
+  },
+  {
+    "filename": "0ebdb0edcd5eebf4f735ac74108613bbcf7ea1777b0aba25f4481c0f18050ac3.webp",
+    "size": 4042,
+    "source_rel": "geely/models/coolray/images/0ebdb0edcd5eebf4f735ac74108613bbcf7ea1777b0aba25f4481c0f18050ac3.webp"
+  },
+  {
+    "filename": "0ecc8362c818566fa3c0067050a7cdbf627bc635f972c544513963b04768e3bd.webp",
+    "size": 2250,
+    "source_rel": "geely/models/coolray/images/0ecc8362c818566fa3c0067050a7cdbf627bc635f972c544513963b04768e3bd.webp"
+  },
+  {
+    "filename": "0ef0d4876f5a44ebafdefbc29112788432ebe49c0d84906ba0ab70acda22a9bd.webp",
+    "size": 9530,
+    "source_rel": "geely/models/coolray/images/0ef0d4876f5a44ebafdefbc29112788432ebe49c0d84906ba0ab70acda22a9bd.webp"
+  },
+  {
+    "filename": "0ef12f902138346f8bdb7f479d49b25fc1e9b897e3804313800ef9033589d83a.webp",
+    "size": 2544,
+    "source_rel": "geely/models/coolray/images/0ef12f902138346f8bdb7f479d49b25fc1e9b897e3804313800ef9033589d83a.webp"
+  },
+  {
+    "filename": "0ef65836b5fba3c5e9134f537ba65e672170746eb08b68dd19070dafc839480b.webp",
+    "size": 22780,
+    "source_rel": "geely/models/coolray/images/0ef65836b5fba3c5e9134f537ba65e672170746eb08b68dd19070dafc839480b.webp"
+  },
+  {
+    "filename": "0efed02f24808d3cbbade3389ac17782b78ceec19588ba522df485aaba6d6123.webp",
+    "size": 61566,
+    "source_rel": "geely/models/coolray/images/0efed02f24808d3cbbade3389ac17782b78ceec19588ba522df485aaba6d6123.webp"
+  },
+  {
+    "filename": "0f027c63b653c3b1d24092ea89bded0ad0efe5bda989e5987d097ab3fbba12d2.webp",
+    "size": 33428,
+    "source_rel": "geely/models/coolray/images/0f027c63b653c3b1d24092ea89bded0ad0efe5bda989e5987d097ab3fbba12d2.webp"
+  },
+  {
+    "filename": "0f03b8ab98bd48f64515bef9f2e2975f14f9cf6c3f2d00251fadc2cb92e1c149.webp",
+    "size": 35056,
+    "source_rel": "geely/models/coolray/images/0f03b8ab98bd48f64515bef9f2e2975f14f9cf6c3f2d00251fadc2cb92e1c149.webp"
+  },
+  {
+    "filename": "0f0c6aa39f7741d089ca7e288b18798c6aaa52b0047c91d57fec0ae1e465f1eb.webp",
+    "size": 8872,
+    "source_rel": "geely/models/coolray/images/0f0c6aa39f7741d089ca7e288b18798c6aaa52b0047c91d57fec0ae1e465f1eb.webp"
+  },
+  {
+    "filename": "0f1c98a10611f1ed831136196117a92f537f94bb668515b5d48cbdbfa66368ea.webp",
+    "size": 5444,
+    "source_rel": "geely/models/coolray/images/0f1c98a10611f1ed831136196117a92f537f94bb668515b5d48cbdbfa66368ea.webp"
+  },
+  {
+    "filename": "0f22322fb0b97443b9874d54122c6ade7db7a40200d3705907d8e391b7ff7f5b.webp",
+    "size": 14428,
+    "source_rel": "geely/models/coolray/images/0f22322fb0b97443b9874d54122c6ade7db7a40200d3705907d8e391b7ff7f5b.webp"
+  },
+  {
+    "filename": "0f4f3a6906c10a9ceaea679b9de689fdd488adfe5550e6bdd63b5880c5de6849.webp",
+    "size": 6702,
+    "source_rel": "geely/models/coolray/images/0f4f3a6906c10a9ceaea679b9de689fdd488adfe5550e6bdd63b5880c5de6849.webp"
+  },
+  {
+    "filename": "0f575393010cccdee43eb18a7dcd1279c65230c8d64ddbcbb505760ea0ab9e77.webp",
+    "size": 804,
+    "source_rel": "geely/models/coolray/images/0f575393010cccdee43eb18a7dcd1279c65230c8d64ddbcbb505760ea0ab9e77.webp"
+  },
+  {
+    "filename": "0f699aa0c2942d6b9d0c629df3b76624f085385795e49e80985e4d1ba4b3f2be.webp",
+    "size": 23878,
+    "source_rel": "geely/models/coolray/images/0f699aa0c2942d6b9d0c629df3b76624f085385795e49e80985e4d1ba4b3f2be.webp"
+  },
+  {
+    "filename": "0f71a0d4c7ac4f1db6677c64d5c8cdbe440892dd757652c8870bd5f9132f3e50.webp",
+    "size": 1362,
+    "source_rel": "geely/models/coolray/images/0f71a0d4c7ac4f1db6677c64d5c8cdbe440892dd757652c8870bd5f9132f3e50.webp"
+  },
+  {
+    "filename": "0f766e891f909f6f22553c35631c72af74d05ecc83d15eebc3a8f0a501b53b09.webp",
+    "size": 2102,
+    "source_rel": "geely/models/coolray/images/0f766e891f909f6f22553c35631c72af74d05ecc83d15eebc3a8f0a501b53b09.webp"
+  },
+  {
+    "filename": "0f7daf2a930e26e5a38f2620f79901882b82152f7069eec9e42375cc2283d26c.webp",
+    "size": 23956,
+    "source_rel": "geely/models/coolray/images/0f7daf2a930e26e5a38f2620f79901882b82152f7069eec9e42375cc2283d26c.webp"
+  },
+  {
+    "filename": "0f84e246813580e28e081850dccdc2a33329f8fe9c20ee2e7da5f8180fccf0d4.webp",
+    "size": 17628,
+    "source_rel": "geely/models/coolray/images/0f84e246813580e28e081850dccdc2a33329f8fe9c20ee2e7da5f8180fccf0d4.webp"
+  },
+  {
+    "filename": "0f89212080bde84e93f26addffc2dc2e7fd55d2f8acd002ad4cb6dffe940fc68.webp",
+    "size": 9142,
+    "source_rel": "geely/models/coolray/images/0f89212080bde84e93f26addffc2dc2e7fd55d2f8acd002ad4cb6dffe940fc68.webp"
+  },
+  {
+    "filename": "0f9d7dcd7c905c65a780ce8cbdc4c9f2ec87eae41592b2a1d79ce45a6ce83024.webp",
+    "size": 10202,
+    "source_rel": "geely/models/coolray/images/0f9d7dcd7c905c65a780ce8cbdc4c9f2ec87eae41592b2a1d79ce45a6ce83024.webp"
+  },
+  {
+    "filename": "0fa164ba379574aefeb2c13b02064b5b807d7f9c0f98d7ae33fbd524052e1ab7.webp",
+    "size": 96008,
+    "source_rel": "geely/models/coolray/images/0fa164ba379574aefeb2c13b02064b5b807d7f9c0f98d7ae33fbd524052e1ab7.webp"
+  },
+  {
+    "filename": "0fa9094d9d096eff741d176857bf56e165cc6f87d429312c09ad149072453096.webp",
+    "size": 3698,
+    "source_rel": "geely/models/coolray/images/0fa9094d9d096eff741d176857bf56e165cc6f87d429312c09ad149072453096.webp"
+  },
+  {
+    "filename": "0faf1496b726d1b5ae0f82a7504d37938e019dcdf14545320f96d4317e7570c3.webp",
+    "size": 3116,
+    "source_rel": "geely/models/coolray/images/0faf1496b726d1b5ae0f82a7504d37938e019dcdf14545320f96d4317e7570c3.webp"
+  },
+  {
+    "filename": "0fb3fbc470f3e8ff95b852ed0da3b566407232ad96590512b9f0198dd96b46e7.webp",
+    "size": 9028,
+    "source_rel": "geely/models/coolray/images/0fb3fbc470f3e8ff95b852ed0da3b566407232ad96590512b9f0198dd96b46e7.webp"
+  },
+  {
+    "filename": "0fb8cd9dc1ad29ce1e621cf13b19bb3d0682d1afb93a02d9cad511ce90d1c3af.webp",
+    "size": 1800,
+    "source_rel": "geely/models/coolray/images/0fb8cd9dc1ad29ce1e621cf13b19bb3d0682d1afb93a02d9cad511ce90d1c3af.webp"
+  },
+  {
+    "filename": "0fbd7cee93144d1c0f18b3242a789547e0d625a0494239c7beaf73e2a4e1455a.webp",
+    "size": 16958,
+    "source_rel": "geely/models/coolray/images/0fbd7cee93144d1c0f18b3242a789547e0d625a0494239c7beaf73e2a4e1455a.webp"
+  },
+  {
+    "filename": "0fc573b33c0d67ba02e194f264cf42577f984971dd5dd7c305bbd9f36ad9f9f4.webp",
+    "size": 15944,
+    "source_rel": "geely/models/coolray/images/0fc573b33c0d67ba02e194f264cf42577f984971dd5dd7c305bbd9f36ad9f9f4.webp"
+  },
+  {
+    "filename": "0fcb22fa9a5b946b3557d60317c96503345e5ba0648d8388f932afbfab6b8ee6.webp",
+    "size": 7618,
+    "source_rel": "geely/models/coolray/images/0fcb22fa9a5b946b3557d60317c96503345e5ba0648d8388f932afbfab6b8ee6.webp"
+  },
+  {
+    "filename": "0fd57c9fdb8661a3fa363213cfd9616501935a7b6b0fd8bce37cf8dbfd189fb1.webp",
+    "size": 13650,
+    "source_rel": "geely/models/coolray/images/0fd57c9fdb8661a3fa363213cfd9616501935a7b6b0fd8bce37cf8dbfd189fb1.webp"
+  },
+  {
+    "filename": "0fd9e45eac65ab139a0c8b74c4e2032b264e7295a6288ffe897f102bd3682973.webp",
+    "size": 126162,
+    "source_rel": "geely/models/coolray/images/0fd9e45eac65ab139a0c8b74c4e2032b264e7295a6288ffe897f102bd3682973.webp"
+  },
+  {
+    "filename": "0fe62f5cdeda1883ce6ffb85c2905501553392b1105c988fdbeb508578543573.webp",
+    "size": 40210,
+    "source_rel": "geely/models/coolray/images/0fe62f5cdeda1883ce6ffb85c2905501553392b1105c988fdbeb508578543573.webp"
+  },
+  {
+    "filename": "0ff3ba5294cacad5159bc62964bdeabfdc9ad5c3921dc4458dd4c80568947992.webp",
+    "size": 41368,
+    "source_rel": "geely/models/coolray/images/0ff3ba5294cacad5159bc62964bdeabfdc9ad5c3921dc4458dd4c80568947992.webp"
+  },
+  {
+    "filename": "1004563e2863a4a0f45cd0ce7cf9f93f065fb1ff92814772c551c5bae16dbb82.webp",
+    "size": 2048,
+    "source_rel": "geely/models/coolray/images/1004563e2863a4a0f45cd0ce7cf9f93f065fb1ff92814772c551c5bae16dbb82.webp"
+  },
+  {
+    "filename": "100df26297b2eef223206269dfd331ba7caa7d1a7cf20fadf56b9ef2cbd76592.webp",
+    "size": 13648,
+    "source_rel": "geely/models/coolray/images/100df26297b2eef223206269dfd331ba7caa7d1a7cf20fadf56b9ef2cbd76592.webp"
+  },
+  {
+    "filename": "1025d12c88ec3762d994cd3f9d7744c952928b97a55b5fd26d54f9abd6ab7f8e.webp",
+    "size": 7402,
+    "source_rel": "geely/models/coolray/images/1025d12c88ec3762d994cd3f9d7744c952928b97a55b5fd26d54f9abd6ab7f8e.webp"
+  },
+  {
+    "filename": "10267a442d01b2064a51780d0026e5c097f313ff5177c6155f22ee973e8ed78d.webp",
+    "size": 31124,
+    "source_rel": "geely/models/coolray/images/10267a442d01b2064a51780d0026e5c097f313ff5177c6155f22ee973e8ed78d.webp"
+  },
+  {
+    "filename": "102f507d449ba92373159967bb9b911305116159ecd60503e0acc827dcc1e55c.webp",
+    "size": 2058,
+    "source_rel": "geely/models/coolray/images/102f507d449ba92373159967bb9b911305116159ecd60503e0acc827dcc1e55c.webp"
+  },
+  {
+    "filename": "10424ca0f0d92f97ab834aee79e36a468d78fed049c66c2c5cbbbc74eec74c49.webp",
+    "size": 1038,
+    "source_rel": "geely/models/coolray/images/10424ca0f0d92f97ab834aee79e36a468d78fed049c66c2c5cbbbc74eec74c49.webp"
+  },
+  {
+    "filename": "1042a10d84f558461bf3e7e3d4214aeb85e997216cffe0b47daeb746fb36d9ea.webp",
+    "size": 1322,
+    "source_rel": "geely/models/coolray/images/1042a10d84f558461bf3e7e3d4214aeb85e997216cffe0b47daeb746fb36d9ea.webp"
+  },
+  {
+    "filename": "1045483523da04aaa63047e452487fd46d4e8267eeba08f32a4b5501883f099d.webp",
+    "size": 76168,
+    "source_rel": "geely/models/coolray/images/1045483523da04aaa63047e452487fd46d4e8267eeba08f32a4b5501883f099d.webp"
+  },
+  {
+    "filename": "1049ea7205c49e6b1f696bdfc508e34906995665cf204ebdda02b23e72b405ea.webp",
+    "size": 72260,
+    "source_rel": "geely/models/coolray/images/1049ea7205c49e6b1f696bdfc508e34906995665cf204ebdda02b23e72b405ea.webp"
+  },
+  {
+    "filename": "104dce402159749593478448110adca92cc5a764ad5348e1748bfccf18b3e8f0.webp",
+    "size": 1966,
+    "source_rel": "geely/models/coolray/images/104dce402159749593478448110adca92cc5a764ad5348e1748bfccf18b3e8f0.webp"
+  },
+  {
+    "filename": "1050dddb74aded6217db308806e406483c57babba4088679c5372e54ef208caa.webp",
+    "size": 5464,
+    "source_rel": "geely/models/coolray/images/1050dddb74aded6217db308806e406483c57babba4088679c5372e54ef208caa.webp"
+  },
+  {
+    "filename": "105f9f69a61bc4aa1ab8a5f12797c1c7d442b289ab002ab0bd28652d4719ced4.webp",
+    "size": 3782,
+    "source_rel": "geely/models/coolray/images/105f9f69a61bc4aa1ab8a5f12797c1c7d442b289ab002ab0bd28652d4719ced4.webp"
+  },
+  {
+    "filename": "1061081665131b755fdc0d61fc284d31a1d51e2573fba24d8b1fa581dc89c5f0.webp",
+    "size": 56826,
+    "source_rel": "geely/models/coolray/images/1061081665131b755fdc0d61fc284d31a1d51e2573fba24d8b1fa581dc89c5f0.webp"
+  },
+  {
+    "filename": "106315a66da3f33df302637dead7d71ae0a6ff63607844adcb370069c92ae3ca.webp",
+    "size": 28800,
+    "source_rel": "geely/models/coolray/images/106315a66da3f33df302637dead7d71ae0a6ff63607844adcb370069c92ae3ca.webp"
+  },
+  {
+    "filename": "106b1df956393cd4c17366dc7df23080bff3feb0a0edb3f75501d5f6eb388e48.webp",
+    "size": 2162,
+    "source_rel": "geely/models/coolray/images/106b1df956393cd4c17366dc7df23080bff3feb0a0edb3f75501d5f6eb388e48.webp"
+  },
+  {
+    "filename": "10733f2b3bdf9564f76ef3cc9906c5d317cc2daccb9451d7cfd3942e87783f33.webp",
+    "size": 1410,
+    "source_rel": "geely/models/coolray/images/10733f2b3bdf9564f76ef3cc9906c5d317cc2daccb9451d7cfd3942e87783f33.webp"
+  },
+  {
+    "filename": "10738e91bb09bde5db19861212ae17258a1022f5d9d326ef5e0cd80f2ee3b8cc.webp",
+    "size": 3112,
+    "source_rel": "geely/models/coolray/images/10738e91bb09bde5db19861212ae17258a1022f5d9d326ef5e0cd80f2ee3b8cc.webp"
+  },
+  {
+    "filename": "1083c159b3ba138dbeeef8654c9bc6bea6c033825bc067eacb2644afeaedbd31.webp",
+    "size": 13540,
+    "source_rel": "geely/models/coolray/images/1083c159b3ba138dbeeef8654c9bc6bea6c033825bc067eacb2644afeaedbd31.webp"
+  },
+  {
+    "filename": "1090d40bdc6f8ffadbf24b30c8ff2a47ced68f1fe99834dc19810316fd6693b6.webp",
+    "size": 2560,
+    "source_rel": "geely/models/coolray/images/1090d40bdc6f8ffadbf24b30c8ff2a47ced68f1fe99834dc19810316fd6693b6.webp"
+  },
+  {
+    "filename": "10ab8caac8475c4f3a233d9ceda30b06fb3f637fe3cc77795354457e7600de91.webp",
+    "size": 14268,
+    "source_rel": "geely/models/coolray/images/10ab8caac8475c4f3a233d9ceda30b06fb3f637fe3cc77795354457e7600de91.webp"
+  },
+  {
+    "filename": "10b40f506682e799d833a101d243bcc4aabd0b9a53be2c72534108985e66f96e.webp",
+    "size": 7214,
+    "source_rel": "geely/models/coolray/images/10b40f506682e799d833a101d243bcc4aabd0b9a53be2c72534108985e66f96e.webp"
+  },
+  {
+    "filename": "10b45ebc0c9d953078092e0bc4db9a9a711766b6618893a6668c09919f0fe2c5.webp",
+    "size": 984,
+    "source_rel": "geely/models/coolray/images/10b45ebc0c9d953078092e0bc4db9a9a711766b6618893a6668c09919f0fe2c5.webp"
+  },
+  {
+    "filename": "10b60e872a778b20c2daba06d2d04dd49579793f6840df48461f9d6e9a9f3785.webp",
+    "size": 4250,
+    "source_rel": "geely/models/coolray/images/10b60e872a778b20c2daba06d2d04dd49579793f6840df48461f9d6e9a9f3785.webp"
+  },
+  {
+    "filename": "10b97c3f90340c676da4419ca8aae6a66b3bce57b5a104599dce7286f6ef64c1.webp",
+    "size": 41172,
+    "source_rel": "geely/models/coolray/images/10b97c3f90340c676da4419ca8aae6a66b3bce57b5a104599dce7286f6ef64c1.webp"
+  },
+  {
+    "filename": "10bfd6d280e710fbecf3822acf766ca3eb9ee9f7ca45281d08b0086b566f2179.webp",
+    "size": 16406,
+    "source_rel": "geely/models/coolray/images/10bfd6d280e710fbecf3822acf766ca3eb9ee9f7ca45281d08b0086b566f2179.webp"
+  },
+  {
+    "filename": "10ce91f69cfd3553b2bd8f1e852b8ee36091d4357cd1bb040bda0fb85fd28159.webp",
+    "size": 3128,
+    "source_rel": "geely/models/coolray/images/10ce91f69cfd3553b2bd8f1e852b8ee36091d4357cd1bb040bda0fb85fd28159.webp"
+  },
+  {
+    "filename": "10d618041f4c0ef1cd089d7041870fe29d38cc46e849fa51b019aa6f907993b5.webp",
+    "size": 35628,
+    "source_rel": "geely/models/coolray/images/10d618041f4c0ef1cd089d7041870fe29d38cc46e849fa51b019aa6f907993b5.webp"
+  },
+  {
+    "filename": "10f13ef351457485c8437a2672e246e92cf7622db349ce8b0f563f3827a8ffc0.webp",
+    "size": 81914,
+    "source_rel": "geely/models/coolray/images/10f13ef351457485c8437a2672e246e92cf7622db349ce8b0f563f3827a8ffc0.webp"
+  },
+  {
+    "filename": "10f2872d2cb42d9b733fd806b6e47d5c550cb9c585daada2dc323b8a652bda33.webp",
+    "size": 45578,
+    "source_rel": "geely/models/coolray/images/10f2872d2cb42d9b733fd806b6e47d5c550cb9c585daada2dc323b8a652bda33.webp"
+  },
+  {
+    "filename": "10f9622bcf7b811e1b8db4350bdd3fbee23fc7ba55af35bfcd7c8c4fd404b0db.webp",
+    "size": 5812,
+    "source_rel": "geely/models/coolray/images/10f9622bcf7b811e1b8db4350bdd3fbee23fc7ba55af35bfcd7c8c4fd404b0db.webp"
+  },
+  {
+    "filename": "111ccce5a85de9f240d1a1a45a803656bef269b6719e8f7a6379af2c0a2936af.webp",
+    "size": 165820,
+    "source_rel": "geely/models/coolray/images/111ccce5a85de9f240d1a1a45a803656bef269b6719e8f7a6379af2c0a2936af.webp"
+  },
+  {
+    "filename": "112ba96c8fabf5963500db1b41e36af1a252eae79f16740c5ea10d58a31ec124.webp",
+    "size": 10788,
+    "source_rel": "geely/models/coolray/images/112ba96c8fabf5963500db1b41e36af1a252eae79f16740c5ea10d58a31ec124.webp"
+  },
+  {
+    "filename": "11523da8cdb11bb61328979b6e27d17f9467ed421befa758f6a43e57932a2a1d.webp",
+    "size": 9106,
+    "source_rel": "geely/models/coolray/images/11523da8cdb11bb61328979b6e27d17f9467ed421befa758f6a43e57932a2a1d.webp"
+  },
+  {
+    "filename": "1154fe85dc18e9179e703263236708466088141a5ee7b9ff8a8b385f7abbec5c.webp",
+    "size": 20402,
+    "source_rel": "geely/models/coolray/images/1154fe85dc18e9179e703263236708466088141a5ee7b9ff8a8b385f7abbec5c.webp"
+  },
+  {
+    "filename": "1164245dabbc6f95723966de67db2cfc7dc0c4f895fa64040b2dc9760a5ab1af.webp",
+    "size": 60256,
+    "source_rel": "geely/models/coolray/images/1164245dabbc6f95723966de67db2cfc7dc0c4f895fa64040b2dc9760a5ab1af.webp"
+  },
+  {
+    "filename": "1168f36a615d566fb32a67c13315c2ca80a788648fe8019a789ce12153e3508e.webp",
+    "size": 11860,
+    "source_rel": "geely/models/coolray/images/1168f36a615d566fb32a67c13315c2ca80a788648fe8019a789ce12153e3508e.webp"
+  },
+  {
+    "filename": "116f864be87a8aa0acfa562e30fae4be47c7e0cfa1160a839107084c1c6480e1.webp",
+    "size": 152196,
+    "source_rel": "geely/models/coolray/images/116f864be87a8aa0acfa562e30fae4be47c7e0cfa1160a839107084c1c6480e1.webp"
+  },
+  {
+    "filename": "117562e917b4c0eb2dd92decd4211d61fb7a5478a5754a0560c9c92164db536a.webp",
+    "size": 3634,
+    "source_rel": "geely/models/coolray/images/117562e917b4c0eb2dd92decd4211d61fb7a5478a5754a0560c9c92164db536a.webp"
+  },
+  {
+    "filename": "11835d9011773c60f5145bb342fe9fc7547e11af99b495dd4843d2326d2d390c.webp",
+    "size": 12408,
+    "source_rel": "geely/models/coolray/images/11835d9011773c60f5145bb342fe9fc7547e11af99b495dd4843d2326d2d390c.webp"
+  },
+  {
+    "filename": "11863d97140e57fab4082418264051435586436a8c9445f2019d6ca533030767.webp",
+    "size": 8812,
+    "source_rel": "geely/models/coolray/images/11863d97140e57fab4082418264051435586436a8c9445f2019d6ca533030767.webp"
+  },
+  {
+    "filename": "118a840870f4aba3237179669a7e1852c188322741b7602c04610d73647e5f01.webp",
+    "size": 32936,
+    "source_rel": "geely/models/coolray/images/118a840870f4aba3237179669a7e1852c188322741b7602c04610d73647e5f01.webp"
+  },
+  {
+    "filename": "118ca05d198a3a415092a7e1141da4a4f009a2aac70218faccc9db9ef39d4c73.webp",
+    "size": 102518,
+    "source_rel": "geely/models/coolray/images/118ca05d198a3a415092a7e1141da4a4f009a2aac70218faccc9db9ef39d4c73.webp"
+  },
+  {
+    "filename": "11942ddf2927fa2667a0f1e5a874965151f45d472c15d26a5f0dd552514e28a2.webp",
+    "size": 9638,
+    "source_rel": "geely/models/coolray/images/11942ddf2927fa2667a0f1e5a874965151f45d472c15d26a5f0dd552514e28a2.webp"
+  },
+  {
+    "filename": "119745eb5825149c18819e6068315d304620d8e24feff19e1032448c4d368322.webp",
+    "size": 7442,
+    "source_rel": "geely/models/coolray/images/119745eb5825149c18819e6068315d304620d8e24feff19e1032448c4d368322.webp"
+  },
+  {
+    "filename": "119ac441d65463aa05d2b8ce52d7be5cee43a5b877109c2057929b6f7cb58079.webp",
+    "size": 12082,
+    "source_rel": "geely/models/coolray/images/119ac441d65463aa05d2b8ce52d7be5cee43a5b877109c2057929b6f7cb58079.webp"
+  },
+  {
+    "filename": "11a578aeffc1cac6bd5ac3a1c72d56e477c059a622d45ed7bd05d279fdedc401.webp",
+    "size": 4284,
+    "source_rel": "geely/models/coolray/images/11a578aeffc1cac6bd5ac3a1c72d56e477c059a622d45ed7bd05d279fdedc401.webp"
+  },
+  {
+    "filename": "11bb7d32c7787ccf7b2ba44431d7db9a2b65d57977dc4b1a72ef491dae252093.webp",
+    "size": 13754,
+    "source_rel": "geely/models/coolray/images/11bb7d32c7787ccf7b2ba44431d7db9a2b65d57977dc4b1a72ef491dae252093.webp"
+  },
+  {
+    "filename": "11c59f7cf4cd08c334a96b095f75ae59dfac9c65a77bc27fffadea1496d9c309.webp",
+    "size": 30760,
+    "source_rel": "geely/models/coolray/images/11c59f7cf4cd08c334a96b095f75ae59dfac9c65a77bc27fffadea1496d9c309.webp"
+  },
+  {
+    "filename": "11cc6669198e17cab99568d8cc521d0171e92cd455f7ff5e482ca36cb8ddb91e.webp",
+    "size": 39694,
+    "source_rel": "geely/models/coolray/images/11cc6669198e17cab99568d8cc521d0171e92cd455f7ff5e482ca36cb8ddb91e.webp"
+  },
+  {
+    "filename": "11d0aeb773e38c315913b491c078d50b0bf03bfe6aa01c192a29863c8c365d63.webp",
+    "size": 9170,
+    "source_rel": "geely/models/coolray/images/11d0aeb773e38c315913b491c078d50b0bf03bfe6aa01c192a29863c8c365d63.webp"
+  },
+  {
+    "filename": "11d338595444ccff524035c7e7f041294f56fef0213f2406b3f7de8e74ea0f0d.webp",
+    "size": 1842,
+    "source_rel": "geely/models/coolray/images/11d338595444ccff524035c7e7f041294f56fef0213f2406b3f7de8e74ea0f0d.webp"
+  },
+  {
+    "filename": "11e0aaa88ee7c0d864dd0701f92352c767385a937c9193ba4c7f44679f1d824b.webp",
+    "size": 50868,
+    "source_rel": "geely/models/coolray/images/11e0aaa88ee7c0d864dd0701f92352c767385a937c9193ba4c7f44679f1d824b.webp"
+  },
+  {
+    "filename": "11e2f0e376ba2f67406248da04a91875fbabac45c6f89c8d81e7ce51896ff6a3.webp",
+    "size": 53522,
+    "source_rel": "geely/models/coolray/images/11e2f0e376ba2f67406248da04a91875fbabac45c6f89c8d81e7ce51896ff6a3.webp"
+  },
+  {
+    "filename": "11e42cc66993b0893f900f3c33de832f809d4b47018ebe68ed286fc8c3645aa8.webp",
+    "size": 70620,
+    "source_rel": "geely/models/coolray/images/11e42cc66993b0893f900f3c33de832f809d4b47018ebe68ed286fc8c3645aa8.webp"
+  },
+  {
+    "filename": "11f41c19c373d9fed4fe1f431efbb2de1a90b00596488a276ea6cd2c309d68b4.webp",
+    "size": 9224,
+    "source_rel": "geely/models/coolray/images/11f41c19c373d9fed4fe1f431efbb2de1a90b00596488a276ea6cd2c309d68b4.webp"
+  },
+  {
+    "filename": "11f962b641c043707d1d9f723226c36924a6a677ee1da2ec20cf0ac5a9eb0261.webp",
+    "size": 20516,
+    "source_rel": "geely/models/coolray/images/11f962b641c043707d1d9f723226c36924a6a677ee1da2ec20cf0ac5a9eb0261.webp"
+  },
+  {
+    "filename": "12186248524cd70eba1daa17db087d120a63da9eea36d9685a0f1533cd6c1697.webp",
+    "size": 3018,
+    "source_rel": "geely/models/coolray/images/12186248524cd70eba1daa17db087d120a63da9eea36d9685a0f1533cd6c1697.webp"
+  },
+  {
+    "filename": "121cdccaa77135ea994bb9819ff801f6a77b058cdb93be4c478d4c2dccc1a740.webp",
+    "size": 2452,
+    "source_rel": "geely/models/coolray/images/121cdccaa77135ea994bb9819ff801f6a77b058cdb93be4c478d4c2dccc1a740.webp"
+  },
+  {
+    "filename": "12288926d63fce0ef5d1b0118602e07f814b2f072885526ffc916f893ed5f6da.webp",
+    "size": 97434,
+    "source_rel": "geely/models/coolray/images/12288926d63fce0ef5d1b0118602e07f814b2f072885526ffc916f893ed5f6da.webp"
+  },
+  {
+    "filename": "1229ca9bdc6e8a9902c947ef0229c83d86d1f791fd6ee2d0387ee3a32a5e561d.webp",
+    "size": 95912,
+    "source_rel": "geely/models/coolray/images/1229ca9bdc6e8a9902c947ef0229c83d86d1f791fd6ee2d0387ee3a32a5e561d.webp"
+  },
+  {
+    "filename": "122f44e39e72e412508a4ea58192ad4d27a569a65bef97067c81f5453771960e.webp",
+    "size": 21748,
+    "source_rel": "geely/models/coolray/images/122f44e39e72e412508a4ea58192ad4d27a569a65bef97067c81f5453771960e.webp"
+  },
+  {
+    "filename": "1245325d487469a69fedff505dfd93dd4eea2df9c9692deb37f358edfecbc50e.webp",
+    "size": 3142,
+    "source_rel": "geely/models/coolray/images/1245325d487469a69fedff505dfd93dd4eea2df9c9692deb37f358edfecbc50e.webp"
+  },
+  {
+    "filename": "1248978e9693614c9103d9806e7d3e1f0e503eea8c076da25ecf4f35e85e9af1.webp",
+    "size": 1324,
+    "source_rel": "geely/models/coolray/images/1248978e9693614c9103d9806e7d3e1f0e503eea8c076da25ecf4f35e85e9af1.webp"
+  },
+  {
+    "filename": "124d8fb9c1949e4bf05e9533a77dc9daec4679f7c8f0527eaa210b4defa17539.webp",
+    "size": 7128,
+    "source_rel": "geely/models/coolray/images/124d8fb9c1949e4bf05e9533a77dc9daec4679f7c8f0527eaa210b4defa17539.webp"
+  },
+  {
+    "filename": "125ec100a7cefaa86617d62453373b11b35d50aefe5d90c1ff28b4e345434156.webp",
+    "size": 167390,
+    "source_rel": "geely/models/coolray/images/125ec100a7cefaa86617d62453373b11b35d50aefe5d90c1ff28b4e345434156.webp"
+  },
+  {
+    "filename": "126a759dd2796468d35061da45f34dd3ad27b52b45ce93fafc1db4de97673ee5.webp",
+    "size": 2414,
+    "source_rel": "geely/models/coolray/images/126a759dd2796468d35061da45f34dd3ad27b52b45ce93fafc1db4de97673ee5.webp"
+  },
+  {
+    "filename": "126d737ca6ae26f295c8aa5bdd2c44e41616d13d758a311872f8ee542e99b544.webp",
+    "size": 3584,
+    "source_rel": "geely/models/coolray/images/126d737ca6ae26f295c8aa5bdd2c44e41616d13d758a311872f8ee542e99b544.webp"
+  },
+  {
+    "filename": "12728ea0abb71d911e18be791101050760c99907b04c6b8a05edef6de8739484.webp",
+    "size": 2058,
+    "source_rel": "geely/models/coolray/images/12728ea0abb71d911e18be791101050760c99907b04c6b8a05edef6de8739484.webp"
+  },
+  {
+    "filename": "128dc9781eb621b7f9b1e58146d4d92e5e491638a4c2f984e4ae1a5afcd98851.webp",
+    "size": 38620,
+    "source_rel": "geely/models/coolray/images/128dc9781eb621b7f9b1e58146d4d92e5e491638a4c2f984e4ae1a5afcd98851.webp"
+  },
+  {
+    "filename": "128f3e8a5a8490d6e8a12a8043adbc239adddff1ec15f7005460ac858cffe2e4.webp",
+    "size": 56378,
+    "source_rel": "geely/models/coolray/images/128f3e8a5a8490d6e8a12a8043adbc239adddff1ec15f7005460ac858cffe2e4.webp"
+  },
+  {
+    "filename": "12a1135c04ab16ad8b3e138e6c225bddb2482ab1bb409f43499f420fbd3f3896.webp",
+    "size": 31874,
+    "source_rel": "geely/models/coolray/images/12a1135c04ab16ad8b3e138e6c225bddb2482ab1bb409f43499f420fbd3f3896.webp"
+  },
+  {
+    "filename": "12a1aac3a4d97bcc26f80521d8b5c2270c3a2a6100cc6584635fd087c2f656a7.webp",
+    "size": 49688,
+    "source_rel": "geely/models/coolray/images/12a1aac3a4d97bcc26f80521d8b5c2270c3a2a6100cc6584635fd087c2f656a7.webp"
+  },
+  {
+    "filename": "12b00ce7a065ee55105888f3da20a3ff8310355c328f45374b0794a8ac95ed75.webp",
+    "size": 74270,
+    "source_rel": "geely/models/coolray/images/12b00ce7a065ee55105888f3da20a3ff8310355c328f45374b0794a8ac95ed75.webp"
+  },
+  {
+    "filename": "12c0fe5e78d1684257d93ac5d72704113960251b5fe4d15fc21eb026f0f26133.webp",
+    "size": 7970,
+    "source_rel": "geely/models/coolray/images/12c0fe5e78d1684257d93ac5d72704113960251b5fe4d15fc21eb026f0f26133.webp"
+  },
+  {
+    "filename": "12c520f12460e6c0ad273174214e3a04d0a03e3ef67ea6b99873fe0b0e6182ef.webp",
+    "size": 986,
+    "source_rel": "geely/models/coolray/images/12c520f12460e6c0ad273174214e3a04d0a03e3ef67ea6b99873fe0b0e6182ef.webp"
+  },
+  {
+    "filename": "12c686f6837f4ddb50bbacfce985383547672618088fe3da47ad68c8f0342d3b.webp",
+    "size": 95138,
+    "source_rel": "geely/models/coolray/images/12c686f6837f4ddb50bbacfce985383547672618088fe3da47ad68c8f0342d3b.webp"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "brand": "byd",
+  "model": "seal",
+  "source_path_rel": "byd/models/seal/",
+  "manual_md_size": 1572590,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-2022_2023.md",
+    "manual-2022_2023_2.md",
+    "manual-23f0f8.md",
+    "manual-24__dmi_rus__1-24__dmi_rus__1.md",
+    "manual-24__dmi_rus__1.md",
+    "manual-l_dmi_manual_rus_last-l_dmi_manual_rus_last.md",
+    "manual-l_dmi_manual_rus_last.md",
+    "manual-qin_tg-qin.md",
+    "manual-qin_tg.md",
+    "manual-sea_lion_tg-sea_lion.md"
+  ]
+}

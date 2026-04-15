@@ -1,0 +1,13 @@
+{
+  "brand": "lexus",
+  "model": "lx",
+  "source_path_rel": "lexus/models/lx/",
+  "manual_md_size": 792773776,
+  "has_dita": true,
+  "has_pdf": false,
+  "variants": [
+    "manual-146eb8.md",
+    "manual-iv_2024_2024.md",
+    "manual-lx.md"
+  ]
+}

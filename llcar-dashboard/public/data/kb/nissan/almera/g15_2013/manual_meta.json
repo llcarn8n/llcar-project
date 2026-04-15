@@ -1,0 +1,14 @@
+{
+  "brand": "nissan",
+  "model": "almera",
+  "source_path_rel": "nissan/models/almera/",
+  "manual_md_size": 110291858,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-almera-g11_2012_2018.md",
+    "manual-almera.md",
+    "manual-d59431.md",
+    "manual-ru_reocr.md"
+  ]
+}

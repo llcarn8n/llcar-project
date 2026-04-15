@@ -1,0 +1,14 @@
+{
+  "brand": "changan",
+  "model": "uni_t",
+  "source_path_rel": "changan/models/uni_t/",
+  "manual_md_size": 362033929,
+  "has_dita": true,
+  "has_pdf": true,
+  "variants": [
+    "manual-2020_н_в.md",
+    "manual-2020_н_в_2.md",
+    "manual-365ed8.md",
+    "manual-uni_t.md"
+  ]
+}
