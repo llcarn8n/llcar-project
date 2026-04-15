@@ -80,7 +80,9 @@ kb/
 - `parts-catalog.json` (per-model): **247 файлов**, **47,522 parts**
 - `reviews.md` (per-model): **178 файлов**
 - `manual_meta.json` (per-model): **210 файлов**
+  - ⚠ **Сами мануалы (manual.md) НЕ в репо** — лежат в `D:/transfer4/knowledge-base/brands/{brand}/models/{model}/manual.md` (гигабайты OCR). В repo только `manual_meta.json` с ссылкой `source_path_rel`. **Импорт самих мануалов будет добавлен в следующих сессиях по запросу** (нужно: upload на prod как static assets + ManualViewer с lazy-fetch)
 - `images.json` (per-model): **154 файла**, **107,167 images indexed**
+  - ⚠ **Сами изображения НЕ в репо** — лежат в `D:/transfer4/knowledge-base/brands/{brand}/models/{model}/images/*.{jpg,png,webp}` (2625+ файлов per model, ~5-10GB total). В repo только `images.json` с mapping `[{filename, size, source_rel}]`. **Импорт самих images будет добавлен в следующих сессиях по запросу** (upload на prod CDN + ImagesPanel компонент + lazy thumbnail)
 - `videos.json` (per-gen): **198 файлов**, **1,123 video links**
 - `_articles/*.md`: **80 статей**
 - `brand` dirs: **80 total** (58 brands + 22 подпапок)
@@ -499,7 +501,8 @@ curl -k https://185.55.57.145/api/v2/diagnose-latest/?client_hash=test
 | Parts total | 47,522 |
 | Reviews files | 178 |
 | Manual refs | 210 |
-| Images indexed | 107,167 |
+| Images indexed | 107,167 ⚠ данные в D:/transfer4, будут добавлены по запросу в следующих сессиях |
+| Manuals indexed | 210 ⚠ данные в D:/transfer4, будут добавлены по запросу в следующих сессиях |
 | Full articles | 80 |
 | Video links | 1,123 |
 | Brand dirs | 80 |
