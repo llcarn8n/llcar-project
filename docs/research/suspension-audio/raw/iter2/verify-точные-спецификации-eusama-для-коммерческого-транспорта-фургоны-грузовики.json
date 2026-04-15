@@ -1,0 +1,23 @@
+{
+  "topic_slug": "точные-спецификации-eusama-для-коммерческого-транспорта-фургоны-грузовики",
+  "iter": 2,
+  "verified_at": "2026-04-15T20:41:20.057337+00:00",
+  "sources": {
+    "drive2.ru — topic: 'EUSAMA тестирование коммерческого транспорта'": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Hofmann Megaplan — Operating Instructions, Technical Data EUSAMA testing machines": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ISO 8608:2016 — Mechanical vibration — Road surface profiles — Reporting of measured data": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Reimpell J., Stoll H., Betzler J. — The Automotive Chassis: Engineering Principles, ISBN 978-0-7506-5054-0, Chapter: Suspension Testing": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

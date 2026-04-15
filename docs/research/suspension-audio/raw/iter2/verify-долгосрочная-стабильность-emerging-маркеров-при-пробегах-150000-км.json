@@ -1,0 +1,23 @@
+{
+  "topic_slug": "долгосрочная-стабильность-emerging-маркеров-при-пробегах-150000-км",
+  "iter": 2,
+  "verified_at": "2026-04-15T20:41:20.044302+00:00",
+  "sources": {
+    "Reimpell J., Stoll H., Betzler J. «The Automotive Chassis: Engineering Principles», 2nd ed., ISBN 978-0-7680-0657-5, Chapter 9: Vibration Damping": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ISO 20816-3:2020 «Mechanical vibration — Measurement and evaluation of machine vibration — Part 3: Industrial machines», Section 7: Evaluation criteria for different machine types": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Drive2.ru, тема «Диагностика подвески на вибростенде: мифы и реальность», пользователь vibroexpert (дата обращения: 2024)": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "SAE Technical Paper 2017-01-1878 «Prognostics and Health Management of Automotive Suspension Systems Using Vibration Signatures», D. Siegel et al.": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

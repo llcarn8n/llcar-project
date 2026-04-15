@@ -1,0 +1,23 @@
+{
+  "topic_slug": "наличие-доступных-бу-4-post-стендов-на-рынке-и-их-реальная-стоимость",
+  "iter": 2,
+  "verified_at": "2026-04-15T20:41:20.047338+00:00",
+  "sources": {
+    "avito.ru — поиск '4-стоечный подъёмник', 'вибростенд б/у'": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "drive2.ru/o/b/485432251517752337/ — обсуждения выбора подъёмного оборудования": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "equiptrade.ru, stanki.ru — торговые площадки гаражного оборудования": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Hunter Engineering WA Series Manual ( hunter.com ) — спецификации виброплатформ": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

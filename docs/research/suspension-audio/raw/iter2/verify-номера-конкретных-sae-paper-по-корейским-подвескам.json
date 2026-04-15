@@ -1,0 +1,19 @@
+{
+  "topic_slug": "номера-конкретных-sae-paper-по-корейским-подвескам",
+  "iter": 2,
+  "verified_at": "2026-04-15T20:41:20.049338+00:00",
+  "sources": {
+    "SAE Int. J. Passeng. Cars - Mech. Syst.": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ISSN 1229-9138": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ISSN 1738-494X": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

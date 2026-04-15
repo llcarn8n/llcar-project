@@ -1,0 +1,23 @@
+{
+  "topic_slug": "статистика-распределения-частоты-обломов-по-маркам-и-пробегам",
+  "iter": 2,
+  "verified_at": "2026-04-15T20:41:20.056339+00:00",
+  "sources": {
+    "TÜV Report 2023/2024 — ежегодный отчёт по надёжности автомобилей": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Reimpell J., Stoll H., Betzler J. «The Automotive Chassis: Engineering Principles», ISBN 978-0768006575, SAE International": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "drive2.ru — множественные отчёты по обломам пружин и рычагов с указанием пробегов (поиск: «облом пружины», «трещина рычага»)": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ISO 16750-3:2012 Road vehicles — Environmental conditions and testing for electrical and electronic equipment — Part 3: Mechanical loads": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

@@ -399,6 +399,166 @@
       "verified_count": 0,
       "unknowns_count": 5,
       "synthesized": "2026-04-15T20:36:24.469473+00:00"
+    },
+    "isoгост-нормативы-допустимого-биения-привалочной-поверхности-ступицы-после-корро": {
+      "category": "scientific-evidence",
+      "md_file": "docs/research/suspension-audio/topics/scientific-evidence/isoгост-нормативы-допустимого-биения-привалочной-поверхности-ступицы-после-корро.md",
+      "sources_count": 6,
+      "verified_count": 0,
+      "unknowns_count": 3,
+      "synthesized": "2026-04-15T20:41:20.165688+00:00"
+    },
+    "sae-paper-по-корреляции-виброакустических-параметров-и-износа-шаровых-возможно-с": {
+      "category": "scientific-evidence",
+      "md_file": "docs/research/suspension-audio/topics/scientific-evidence/sae-paper-по-корреляции-виброакустических-параметров-и-износа-шаровых-возможно-с.md",
+      "sources_count": 3,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:41:20.194658+00:00"
+    },
+    "версии-прошивок-и-алгоритмы-различных-поколений-стендов-bogehofmann": {
+      "category": "vibrostand",
+      "md_file": "docs/research/suspension-audio/topics/vibrostand/версии-прошивок-и-алгоритмы-различных-поколений-стендов-bogehofmann.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:41:20.220045+00:00"
+    },
+    "влияние-адаптивныхпневматических-подвесок-на-корректность-метода-eusama": {
+      "category": "vibrostand",
+      "md_file": "docs/research/suspension-audio/topics/vibrostand/влияние-адаптивныхпневматических-подвесок-на-корректность-метода-eusama.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:41:20.244899+00:00"
+    },
+    "гост-спецификации-для-вибродиагностики-bushing-degradation-не-уверен-какие-именн": {
+      "category": "scientific-evidence",
+      "md_file": "docs/research/suspension-audio/topics/scientific-evidence/гост-спецификации-для-вибродиагностики-bushing-degradation-не-уверен-какие-именн.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 3,
+      "synthesized": "2026-04-15T20:41:20.262342+00:00"
+    },
+    "долгосрочная-стабильность-emerging-маркеров-при-пробегах-150000-км": {
+      "category": "suspension",
+      "md_file": "docs/research/suspension-audio/topics/suspension/долгосрочная-стабильность-emerging-маркеров-при-пробегах-150000-км.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 5,
+      "synthesized": "2026-04-15T20:41:20.281334+00:00"
+    },
+    "заводские-допуски-на-затяжку-втулок-стабилизатора-cr-v-разных-поколений": {
+      "category": "suspension",
+      "md_file": "docs/research/suspension-audio/topics/suspension/заводские-допуски-на-затяжку-втулок-стабилизатора-cr-v-разных-поколений.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:41:20.309381+00:00"
+    },
+    "конкретные-oem-пороги-passfail-для-frf-и-transmissibility-закрытые-данные": {
+      "category": "suspension",
+      "md_file": "docs/research/suspension-audio/topics/suspension/конкретные-oem-пороги-passfail-для-frf-и-transmissibility-закрытые-данные.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 5,
+      "synthesized": "2026-04-15T20:41:20.345209+00:00"
+    },
+    "наличие-гост-на-вибростендовую-диагностику-подвески-в-рф-возможно-существует-отр": {
+      "category": "scientific-evidence",
+      "md_file": "docs/research/suspension-audio/topics/scientific-evidence/наличие-гост-на-вибростендовую-диагностику-подвески-в-рф-возможно-существует-отр.md",
+      "sources_count": 3,
+      "verified_count": 0,
+      "unknowns_count": 3,
+      "synthesized": "2026-04-15T20:41:20.388252+00:00"
+    },
+    "наличие-доступных-бу-4-post-стендов-на-рынке-и-их-реальная-стоимость": {
+      "category": "vibrostand",
+      "md_file": "docs/research/suspension-audio/topics/vibrostand/наличие-доступных-бу-4-post-стендов-на-рынке-и-их-реальная-стоимость.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:41:20.432117+00:00"
+    },
+    "номера-sae-papers-по-конкретным-nvh-исследованиям-audi-mlb-evo-suspension": {
+      "category": "scientific-evidence",
+      "md_file": "docs/research/suspension-audio/topics/scientific-evidence/номера-sae-papers-по-конкретным-nvh-исследованиям-audi-mlb-evo-suspension.md",
+      "sources_count": 3,
+      "verified_count": 0,
+      "unknowns_count": 3,
+      "synthesized": "2026-04-15T20:41:20.473521+00:00"
+    },
+    "номера-конкретных-sae-paper-по-корейским-подвескам": {
+      "category": "scientific-evidence",
+      "md_file": "docs/research/suspension-audio/topics/scientific-evidence/номера-конкретных-sae-paper-по-корейским-подвескам.md",
+      "sources_count": 3,
+      "verified_count": 0,
+      "unknowns_count": 3,
+      "synthesized": "2026-04-15T20:41:20.502527+00:00"
+    },
+    "нормативы-допустимого-количества-колебаний-при-раскачке-по-iso-для-разных-классо": {
+      "category": "scientific-evidence",
+      "md_file": "docs/research/suspension-audio/topics/scientific-evidence/нормативы-допустимого-количества-колебаний-при-раскачке-по-iso-для-разных-классо.md",
+      "sources_count": 6,
+      "verified_count": 0,
+      "unknowns_count": 3,
+      "synthesized": "2026-04-15T20:41:20.545463+00:00"
+    },
+    "пороги-wheel_imbalance-в-rulesjson-граммы-ммс-виброскорости-g-ускорение": {
+      "category": "vibrostand",
+      "md_file": "docs/research/suspension-audio/topics/vibrostand/пороги-wheel_imbalance-в-rulesjson-граммы-ммс-виброскорости-g-ускорение.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:41:20.568200+00:00"
+    },
+    "стандартизированные-пороги-вибрации-компрессора-isoгост-для-диагностики-на-автом": {
+      "category": "scientific-evidence",
+      "md_file": "docs/research/suspension-audio/topics/scientific-evidence/стандартизированные-пороги-вибрации-компрессора-isoгост-для-диагностики-на-автом.md",
+      "sources_count": 6,
+      "verified_count": 0,
+      "unknowns_count": 3,
+      "synthesized": "2026-04-15T20:41:20.604770+00:00"
+    },
+    "статистика-отказов-амортизаторов-genesis-ecs-по-годам-выпуска": {
+      "category": "suspension",
+      "md_file": "docs/research/suspension-audio/topics/suspension/статистика-отказов-амортизаторов-genesis-ecs-по-годам-выпуска.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:41:20.645769+00:00"
+    },
+    "статистика-отказов-восстановленных-ступичных-узлов-по-брендам-и-регионам": {
+      "category": "suspension",
+      "md_file": "docs/research/suspension-audio/topics/suspension/статистика-отказов-восстановленных-ступичных-узлов-по-брендам-и-регионам.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 5,
+      "synthesized": "2026-04-15T20:41:20.695400+00:00"
+    },
+    "статистика-отказов-подвески-москвич-3-jac-js4-модель-слишком-новая": {
+      "category": "suspension",
+      "md_file": "docs/research/suspension-audio/topics/suspension/статистика-отказов-подвески-москвич-3-jac-js4-модель-слишком-новая.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 6,
+      "synthesized": "2026-04-15T20:41:20.747713+00:00"
+    },
+    "статистика-распределения-частоты-обломов-по-маркам-и-пробегам": {
+      "category": "audio-correlations",
+      "md_file": "docs/research/suspension-audio/topics/audio-correlations/статистика-распределения-частоты-обломов-по-маркам-и-пробегам.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 5,
+      "synthesized": "2026-04-15T20:41:20.788604+00:00"
+    },
+    "точные-спецификации-eusama-для-коммерческого-транспорта-фургоны-грузовики": {
+      "category": "vibrostand",
+      "md_file": "docs/research/suspension-audio/topics/vibrostand/точные-спецификации-eusama-для-коммерческого-транспорта-фургоны-грузовики.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 6,
+      "synthesized": "2026-04-15T20:41:20.818582+00:00"
     }
   }
 }

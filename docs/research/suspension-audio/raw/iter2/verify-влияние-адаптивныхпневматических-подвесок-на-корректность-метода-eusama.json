@@ -1,0 +1,23 @@
+{
+  "topic_slug": "влияние-адаптивныхпневматических-подвесок-на-корректность-метода-eusama",
+  "iter": 2,
+  "verified_at": "2026-04-15T20:41:20.041300+00:00",
+  "sources": {
+    "Reimpell J., Stoll H., Betzler J. «The Automotive Chassis: Engineering Principles», 2nd Edition, ISBN 978-0-7680-0657-5, Chapter 5 — Suspension Testing": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "drive2.ru — тема «Вибростенд и пневмоподвеска — корректность результатов», многочисленные обсуждения владельцев Mercedes AIRMATIC и BMW EDC": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "SAE J2562 — «Vehicle Suspension Testing Methods» (частичная релевантность); ISO 8608 — профиль дорожного покрытия как основа для возбуждения": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Mercedes-Benz XENTRY Diagnostic — WIS document GF32.00-p-3001M «Testing Shock Absorbers on Vehicles with AIRMATIC»; BMW ISTA — SI 31 01 07 «Checking EDC Shock Absorbers»": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

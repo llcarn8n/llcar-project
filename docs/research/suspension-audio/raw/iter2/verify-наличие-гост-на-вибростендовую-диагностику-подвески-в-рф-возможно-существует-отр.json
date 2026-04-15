@@ -1,0 +1,19 @@
+{
+  "topic_slug": "наличие-гост-на-вибростендовую-диагностику-подвески-в-рф-возможно-существует-отр",
+  "iter": 2,
+  "verified_at": "2026-04-15T20:41:20.047338+00:00",
+  "sources": {
+    "ГОСТ Р ИСО 2631-1-2004": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ISO 8608:2016": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ГОСТ Р 51709-2001": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

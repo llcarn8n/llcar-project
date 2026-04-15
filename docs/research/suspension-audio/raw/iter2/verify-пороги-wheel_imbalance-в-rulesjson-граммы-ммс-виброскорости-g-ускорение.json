@@ -1,0 +1,23 @@
+{
+  "topic_slug": "пороги-wheel_imbalance-в-rulesjson-граммы-ммс-виброскорости-g-ускорение",
+  "iter": 2,
+  "verified_at": "2026-04-15T20:41:20.051336+00:00",
+  "sources": {
+    "ISO 1940-1:2003 Mechanical vibration — Balance quality requirements for rotors in a constant (rigid) state. Part 1: Specification and verification of balance tolerances": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "VAG TPI 2014846/5 — Vibration in steering wheel / wheels balancing specifications (ElsaWin)": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Reimpell J., Stoll H., Betzler J.W. — The Automotive Chassis: Engineering Principles, 2nd Edition (Butterworth-Heinemann, ISBN 978-0-7680-0657-3), Chapter 5: Wheel Balancing": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Форум autoscaners.info, раздел «Вибростендовая диагностика», тема «Пороги дисбаланса в rules.xml/rules.json различных стендов» (примерно 2019–2023)": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}
