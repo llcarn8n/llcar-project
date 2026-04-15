@@ -1,0 +1,31 @@
+{
+  "topic_slug": "sci-strut-wear-signature-empirical",
+  "iter": 1,
+  "verified_at": "2026-04-15T20:28:16.583689+00:00",
+  "sources": {
+    "10.1016/j.ymssp.2018.10.056": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "10.1155/2019/4523607": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "10.3390/s20061806": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "SAE 2007-01-2374": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ISO 18431-1:2005": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "10.1109/JSEN.2021.3068215": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

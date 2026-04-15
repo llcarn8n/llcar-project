@@ -1,0 +1,31 @@
+{
+  "topic_slug": "sci-resonance-theory-foundation",
+  "iter": 1,
+  "verified_at": "2026-04-15T20:28:16.628062+00:00",
+  "sources": {
+    "ISBN 978-0-7680-6317-4": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ISBN 978-9810229119": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ISBN 978-1-4614-1432-2": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "SAE 850652": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "DOI: 10.1080/00423114.2016.1251598": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "DOI: 10.1016/j.ymssp.2018.12.007": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

@@ -375,6 +375,22 @@
       "verified_count": 0,
       "unknowns_count": 4,
       "synthesized": "2026-04-15T20:24:51.322123+00:00"
+    },
+    "sci-strut-wear-signature-empirical": {
+      "category": "scientific-evidence",
+      "md_file": "docs/research/suspension-audio/topics/scientific-evidence/sci-strut-wear-signature-empirical.md",
+      "sources_count": 6,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:28:16.768838+00:00"
+    },
+    "sci-resonance-theory-foundation": {
+      "category": "scientific-evidence",
+      "md_file": "docs/research/suspension-audio/topics/scientific-evidence/sci-resonance-theory-foundation.md",
+      "sources_count": 6,
+      "verified_count": 0,
+      "unknowns_count": 3,
+      "synthesized": "2026-04-15T20:28:16.791834+00:00"
     }
   }
 }
