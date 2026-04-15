@@ -1,6 +1,6 @@
-# SESSION HANDOFF — Session 17 COMPLETE
+# SESSION HANDOFF — Sessions 17+18 COMPLETE
 
-## Статус: KB **80 brand dirs / 425 generation files / 36,575 ситуаций / 0 schema issues / 80 articles / 35911 DTC titles / 1123 videos**.
+## Статус: KB **80 brand dirs / 425 gen files / 36,575 ситуаций / 362 parts-catalog / 268 reviews / 314 manual_meta / 232 images indexes (107167 imgs) / 80 articles / 35911 DTC titles / 1123 videos / 0 schema issues**.
 
 Prod `llcar.ru/v3/` + `llcar.ru/v3/kb` — **live**, API 200. KB data extracted на prod (tar+untar).
 
@@ -38,14 +38,13 @@ b6f9f9b docs(kb): deep analysis situations — ETL алгоритм
 44747f3 content(kb): +35911 DTC titles from Li Auto universal index
 ```
 
-## Оставшееся на S18
+## S18 Rich Content — COMPLETED ✓
+- `scripts/p2_copy_parts_catalog.py` → 366 parts-catalog.json, 47522 parts (cap 200/gen)
+- `scripts/p2_copy_reviews.py` → 268 reviews.md (cap 50KB, 148 truncated)
+- `scripts/p2_build_manual_meta.py` → 314 manual_meta.json + 232 images.json (107167 images indexed)
+- Deploy: tar+untar на prod — parts 362 files, manual_meta 314 files, 80 brand dirs
 
-### P2 Rich Content (не начато)
-- `parts-catalog.json` per gen (500-1000 files, ~50-100MB)
-- `reviews.md` per gen (lightweight)
-- `images.json` per gen (index, не сами images) 
-- `manual_meta.json` с ссылкой на D:/transfer4 source (NOT bulk import — 100MB manuals)
-- ManualViewer enhancement для lazy-load
+## Оставшееся на S19
 
 ### Dir cleanup (косметика)
 - ugly dir names после P0: `ssangyong__musso__musso_2018_present_0` — переименовать через rename_ugly_dirs.py
