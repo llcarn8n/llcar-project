@@ -221,3 +221,10 @@ git log dashboard-v3 --since='2026-04-01' \
 - `stat feature_extractor.py api_views.py urls.py` → все свежие (2026-04-16 UTC) ✅
 - Canary-проверка в `scripts/deploy-v3.sh` (Step 6) — добавлена в S23 доработку, ловит false-positive 200 если gunicorn держит старый код в памяти
 - `@reboot` cron у `webadmin` — добавлен для антихрупкости после перезагрузки сервера (восстанавливает `gunicorn --reload` без sudo)
+
+### Доработка 2026-04-17 вечер — cooldown-тесты
+
+- `dashboard_build/tests/test_rule_engine.py` — пофикшены `test_cooldown_suppresses_rule` и `test_cooldown_in_run_all`. Были помечены как «pre-existing 5 deselected» в отчёте, но это был скрытый bit-rot: хардкод-даты `2026-04-01/07` вышли за пределы `COOLDOWN_DAYS=7` после 2026-04-14, плюс отсутствовал `from datetime import datetime, timedelta, timezone` на уровне модуля.
+- Фикс: относительные даты через `now - timedelta(days=6/3)` + import. Коммит `c885456`.
+- **Регрессия: 731 passed / 731** (вместо 729/731 + 2 fail).
+- Cron для S3 валидации: `dashboard_build/diagnostic/scripts/shadow_promotion_check.py` (100 строк) — раз в сутки проходит по 8 shadow-правилам, логирует `promotion_ready` и CLI-команду для ручного промоушна. Запись в `/var/log/llcar/shadow_promotion_check.log`.
