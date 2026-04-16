@@ -28,6 +28,7 @@ TIRE_DIAMETER = 0.63
 
 def extract_features(
     packet: NormalizedPacket,
+    tire_diameter: float = TIRE_DIAMETER,
 ) -> Dict[str, Optional[Union[float, bool, str, int]]]:
     """Extract all derived features from a normalized packet.
 
@@ -125,7 +126,7 @@ def extract_features(
 
         # If no engine match, try wheel harmonics: speed/(3.6*pi*d) * harmonic, 1-12
         if f["virtual_freq_source"] is None and speed is not None and speed > 5:
-            tire_freq = speed / (3.6 * math.pi * TIRE_DIAMETER)
+            tire_freq = speed / (3.6 * math.pi * tire_diameter)
             for harmonic in range(1, 13):
                 expected = tire_freq * harmonic
                 if abs(dom_freq - expected) < 5.0:
@@ -140,7 +141,7 @@ def extract_features(
     # 1. Vibration freq ratio: dominant_freq / wheel_rotation_freq
     f["vibration_freq_ratio"] = None
     if dom_freq is not None and speed is not None and speed > 5:
-        tire_freq_val = speed / (3.6 * math.pi * TIRE_DIAMETER)
+        tire_freq_val = speed / (3.6 * math.pi * tire_diameter)
         if tire_freq_val > 0.1:
             f["vibration_freq_ratio"] = round(dom_freq / tire_freq_val, 3)
 
@@ -185,7 +186,7 @@ def extract_features(
     # Typical BPFO ~ 4x wheel_rps for standard 6-8 ball bearings
     f["bpfo_harmonic_matches"] = 0
     if speed is not None and speed > 20 and packet.audio_peaks:
-        _wheel_rps = speed / (3.6 * math.pi * TIRE_DIAMETER)
+        _wheel_rps = speed / (3.6 * math.pi * tire_diameter)
         _bpfo = 4.0 * _wheel_rps
         if _bpfo > 1.0:
             _bm = 0

@@ -108,7 +108,9 @@ class DiagnosticPipeline:
         self._previous_regime = packet.regime
 
         # Step 2: Extract features
-        features: Dict[str, Any] = extract_features(packet)
+        features: Dict[str, Any] = extract_features(
+            packet, tire_diameter=self._profile.tire_diameter,
+        )
 
         # Step 3: Collect baseline features (numeric features + key OBD values)
         baseline_features: Dict[str, Any] = {}
