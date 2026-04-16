@@ -180,7 +180,7 @@ class TestHealthyVehicle:
         )
         baselines = _make_baselines_store()
 
-        results = engine.run_all([], features, baselines, packet.regime, packet)
+        results = engine.run_all([], features, baselines, packet.regime, packet)["results"]
         for r in results:
             assert r["confidence"] < 40, (
                 f"Rule '{r['name']}' has confidence {r['confidence']} on healthy vehicle"
@@ -207,7 +207,7 @@ class TestWornSuspension:
         )
         baselines = _make_baselines_store()
 
-        results = engine.run_all([], features, baselines, packet.regime, packet)
+        results = engine.run_all([], features, baselines, packet.regime, packet)["results"]
         susp = next(r for r in results if r["name"] == "worn_suspension")
         assert susp["confidence"] > 60, f"Expected >60, got {susp['confidence']}"
         assert susp["status"] == "likely"
@@ -224,7 +224,7 @@ class TestEngineOverheating:
         features = _make_features()
         baselines = _make_baselines_store()
 
-        results = engine.run_all([], features, baselines, packet.regime, packet)
+        results = engine.run_all([], features, baselines, packet.regime, packet)["results"]
         overheat = next(r for r in results if r["name"] == "engine_overheating")
         assert overheat["confidence"] > 60
         assert overheat["status"] == "likely"
@@ -241,7 +241,7 @@ class TestAlternatorFailure:
         features = _make_features()
         baselines = _make_baselines_store()
 
-        results = engine.run_all([], features, baselines, packet.regime, packet)
+        results = engine.run_all([], features, baselines, packet.regime, packet)["results"]
         alt = next(r for r in results if r["name"] == "alternator_failure")
         assert alt["confidence"] >= 40, f"Expected >=40, got {alt['confidence']}"
         assert alt["status"] in ("possible", "likely")
@@ -265,7 +265,7 @@ class TestMultipleRules:
         )
         baselines = _make_baselines_store()
 
-        results = engine.run_all([], features, baselines, packet.regime, packet)
+        results = engine.run_all([], features, baselines, packet.regime, packet)["results"]
         fired = [r for r in results if r["confidence"] >= 40]
         # Should fire: engine_overheating, alternator_failure, low_battery,
         # possibly worn_suspension, high_idle
@@ -284,7 +284,7 @@ class TestMultipleRules:
         features = _make_features()
         baselines = _make_baselines_store()
 
-        results = engine.run_all([], features, baselines, packet.regime, packet)
+        results = engine.run_all([], features, baselines, packet.regime, packet)["results"]
         confidences = [r["confidence"] for r in results]
         assert confidences == sorted(confidences, reverse=True)
 
@@ -302,7 +302,7 @@ class TestEdgeCases:
         features = {}
         baselines = BaselineStore()
 
-        results = engine.run_all([], features, baselines, DrivingRegime.UNKNOWN, packet)
+        results = engine.run_all([], features, baselines, DrivingRegime.UNKNOWN, packet)["results"]
         for r in results:
             assert r["confidence"] == 0, (
                 f"Rule '{r['name']}' has confidence {r['confidence']} with no data"
@@ -315,7 +315,7 @@ class TestEdgeCases:
         features = _make_features()
         baselines = _make_baselines_store()
 
-        results = engine.run_all([], features, baselines, packet.regime, packet)
+        results = engine.run_all([], features, baselines, packet.regime, packet)["results"]
         # Only oil_pressure_low remains as a true placeholder (empty conditions).
         # PHEV rules (battery_temp_high, soc_critical, range_extender_overwork,
         # motor_overheat) now have real conditions and are no longer placeholders.
@@ -357,7 +357,7 @@ class TestEdgeCases:
         )
         baselines = _make_baselines_store()
 
-        results = engine.run_all([], features, baselines, packet.regime, packet)
+        results = engine.run_all([], features, baselines, packet.regime, packet)["results"]
         for r in results:
             assert 0 <= r["confidence"] <= 100, (
                 f"Rule '{r['name']}' confidence {r['confidence']} out of [0, 100]"
@@ -509,7 +509,7 @@ class TestCooldownEnforcement:
             [], features, baselines, packet.regime, packet,
             escalation_manager=esc,
             client_hash="client1",
-        )
+        )["results"]
         overheat = next(r for r in results if r["name"] == "engine_overheating")
         assert overheat["confidence"] == 0
 

@@ -35,6 +35,9 @@ _NUMERIC_FEATURE_KEYS = (
     "ltft_abs",
     "fuel_trim_delta",
     "vibration_speed_ratio",
+    "vibration_freq_ratio",
+    "vertical_lateral_ratio",
+    "audio_energy_band_120_180",
 )
 
 
@@ -216,13 +219,15 @@ class DiagnosticPipeline:
             pipeline_result["facts"] = facts
 
         # Step 4: Rule engine evaluation
-        rule_results = self._rule_engine.run_all(
+        rule_output = self._rule_engine.run_all(
             facts=facts,
             features=features,
             baselines=self.baselines,
             regime=packet.regime,
             packet=packet,
         )
+        rule_results = rule_output["results"]
+        shadow_results = rule_output.get("shadow_results", [])
 
         # GAP-P2: Regime stability filter — during regime transitions, data is
         # unreliable. Reduce confidence by 50% for all rule results when regime
@@ -243,7 +248,12 @@ class DiagnosticPipeline:
                 else:
                     rr["status"] = "clear"
 
-        # Step 4: Build diagnosis report
+        # Shadow rules — log for calibration, never show to user
+        if shadow_results and db_cursor is not None and client_hash is not None:
+            from .db_writers import write_shadow_log
+            write_shadow_log(db_cursor, client_hash, shadow_results, features)
+
+        # Step 4: Build diagnosis report (production rules only)
         report = self._diagnosis_builder.build_report(
             pipeline_result=pipeline_result,
             rule_results=rule_results,

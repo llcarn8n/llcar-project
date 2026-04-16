@@ -115,10 +115,27 @@ class NormalizedPacket:
     az_min: Optional[float] = None
     az_max: Optional[float] = None
 
+    # --- Accelerometer shape coefficients (QTP compression) ---
+    ax_shape1: Optional[float] = None
+    ax_shape2: Optional[float] = None
+    ax_shape3: Optional[float] = None
+    ax_shape4: Optional[float] = None
+    ay_shape1: Optional[float] = None
+    ay_shape2: Optional[float] = None
+    ay_shape3: Optional[float] = None
+    ay_shape4: Optional[float] = None
+    az_shape1: Optional[float] = None
+    az_shape2: Optional[float] = None
+    az_shape3: Optional[float] = None
+    az_shape4: Optional[float] = None
+
     # --- Audio fields ---
     dominant_freq: Optional[float] = None
     dominant_amp: Optional[float] = None
     audio_quality: Optional[float] = None
+
+    # --- Additional audio FFT peaks (top 1-10, each = (freq_hz, amplitude)) ---
+    audio_peaks: List[Tuple[Optional[float], Optional[float]]] = field(default_factory=list)
 
     # --- Computed ---
     regime: DrivingRegime = DrivingRegime.UNKNOWN
@@ -157,6 +174,12 @@ _ACCEL_FIELDS = (
 )
 
 _AUDIO_FIELDS = ("dominant_freq", "dominant_amp", "audio_quality")
+
+_ACCEL_SHAPE_FIELDS = (
+    "ax_shape1", "ax_shape2", "ax_shape3", "ax_shape4",
+    "ay_shape1", "ay_shape2", "ay_shape3", "ay_shape4",
+    "az_shape1", "az_shape2", "az_shape3", "az_shape4",
+)
 
 
 # ---------------------------------------------------------------------------
@@ -302,6 +325,35 @@ def normalize_packet(
         else:
             accel_vals[f] = None
 
+    # Shape coefficients — pass through like accel fields
+    shape_vals: Dict[str, Optional[float]] = {}
+    for f in _ACCEL_SHAPE_FIELDS:
+        val = raw.get(f)
+        if val is not None:
+            try:
+                shape_vals[f] = float(val)
+            except (TypeError, ValueError):
+                shape_vals[f] = None
+        else:
+            shape_vals[f] = None
+
+    # Additional audio FFT peaks (1-10)
+    audio_peaks: List[Tuple[Optional[float], Optional[float]]] = []
+    audio_peaks.append((dominant_freq, dominant_amp))  # peak 1 = dominant
+    for i in range(2, 11):
+        fv = raw.get(f"freq_{i}")
+        av = raw.get(f"amp_{i}")
+        try:
+            fv = float(fv) if fv is not None else None
+        except (TypeError, ValueError):
+            fv = None
+        try:
+            av = float(av) if av is not None else None
+        except (TypeError, ValueError):
+            av = None
+        if fv is not None or av is not None:
+            audio_peaks.append((fv, av))
+
     # Computed fields
     regime = _classify_regime(speed, accel_vals.get("ax_avg"), accel_vals.get("ay_avg"))
 
@@ -345,9 +397,22 @@ def normalize_packet(
         az_std=accel_vals.get("az_std"),
         az_min=accel_vals.get("az_min"),
         az_max=accel_vals.get("az_max"),
+        ax_shape1=shape_vals.get("ax_shape1"),
+        ax_shape2=shape_vals.get("ax_shape2"),
+        ax_shape3=shape_vals.get("ax_shape3"),
+        ax_shape4=shape_vals.get("ax_shape4"),
+        ay_shape1=shape_vals.get("ay_shape1"),
+        ay_shape2=shape_vals.get("ay_shape2"),
+        ay_shape3=shape_vals.get("ay_shape3"),
+        ay_shape4=shape_vals.get("ay_shape4"),
+        az_shape1=shape_vals.get("az_shape1"),
+        az_shape2=shape_vals.get("az_shape2"),
+        az_shape3=shape_vals.get("az_shape3"),
+        az_shape4=shape_vals.get("az_shape4"),
         dominant_freq=dominant_freq,
         dominant_amp=dominant_amp,
         audio_quality=audio_quality,
+        audio_peaks=audio_peaks,
         regime=regime,
         engine_context=engine_context,
         tier=tier,
