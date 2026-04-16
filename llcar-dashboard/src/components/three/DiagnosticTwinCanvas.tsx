@@ -31,10 +31,10 @@ interface DiagnosticTwinCanvasProps {
 }
 
 const HOTSPOTS: { key: string; label: string; position: [number, number, number]; color: string }[] = [
-  { key: 'engine',     label: 'Двигатель', position: [0, 0.5, 1.8],     color: '#4ade80' },  // front — engine bay
-  { key: 'suspension', label: 'Подвеска',  position: [0, -0.4, 0.5],    color: '#00e5ff' },  // low — road/carpet level
-  { key: 'electrical', label: 'Электрика', position: [0.7, 0.9, 1.5],   color: '#a78bfa' },  // front right — headlights/fuse area
-  { key: 'audio',      label: 'Аудио',     position: [-1.2, 0.6, 1.3],  color: '#f97316' },  // near left front bearing audio zone
+  { key: 'engine',     label: 'Двигатель', position: [0, 0.5, 1.8],     color: '#FF9F1C' },  // amber — primary diagnostic accent
+  { key: 'suspension', label: 'Подвеска',  position: [0, -0.4, 0.5],    color: '#3b9eff' },  // blue — data/telemetry
+  { key: 'electrical', label: 'Электрика', position: [0.7, 0.9, 1.5],   color: '#a78bfa' },  // violet — kept for semantic distinction
+  { key: 'audio',      label: 'Аудио',     position: [-1.2, 0.6, 1.3],  color: '#f97316' },  // orange — NVH audio domain
 ]
 
 // 6 NVH audio zones — spread to ALL sides of the car for visual separation
@@ -43,7 +43,7 @@ const HOTSPOTS: { key: string; label: string; position: [number, number, number]
 const AUDIO_ZONES = [
   { key: 'road',    pos: [0.8, -0.5, 1.8] as [number, number, number],   color: '#60a5fa', minFreq: 0,    maxFreq: 80,    label: 'Дорога <80Гц',      waveSpeed: 0.3, maxRadius: 1.4 },  // blue — front RIGHT tire
   { key: 'engine',  pos: [0, 0.2, 2.0] as [number, number, number],      color: '#4ade80', minFreq: 80,   maxFreq: 150,   label: 'Двигатель 80–150Гц', waveSpeed: 0.5, maxRadius: 1.6 },  // green — FRONT engine bay
-  { key: 'trans',   pos: [-0.8, -0.4, 0] as [number, number, number],    color: '#22d3ee', minFreq: 150,  maxFreq: 300,   label: 'Трансмиссия 150–300Гц', waveSpeed: 0.4, maxRadius: 1.2 },  // cyan — LEFT underside
+  { key: 'trans',   pos: [-0.8, -0.4, 0] as [number, number, number],    color: '#3b9eff', minFreq: 150,  maxFreq: 300,   label: 'Трансмиссия 150–300Гц', waveSpeed: 0.4, maxRadius: 1.2 },  // blue — LEFT underside (telemetry data color)
   { key: 'acc',     pos: [-1.3, 0.3, 1.4] as [number, number, number],   color: '#f59e0b', minFreq: 300,  maxFreq: 600,   label: 'Навесное 300–600Гц', waveSpeed: 0.6, maxRadius: 1.0 },  // amber — LEFT side of engine bay
   { key: 'bearing', pos: [1.4, -0.2, -0.8] as [number, number, number],  color: '#f97316', minFreq: 600,  maxFreq: 2000,  label: 'Подшипники 0.6–2кГц', waveSpeed: 0.7, maxRadius: 0.9 },  // orange — RIGHT rear quarter (clearly separated)
   { key: 'hf',      pos: [0.8, 1.0, -1.5] as [number, number, number],   color: '#ef4444', minFreq: 2000, maxFreq: 99999, label: 'ВЧ шум >2кГц',      waveSpeed: 0.9, maxRadius: 0.7 },  // red — rear RIGHT, above trunk (visible from default camera angle)
@@ -237,6 +237,66 @@ function CarBouncer({ activeSystem, groupRef }: {
   )
 }
 
+// ── LUMEN HUD signature: dotted orbital rings + horizon bloom ──
+function OrbitalRings() {
+  const ringsRef = useRef<THREE.Group>(null)
+
+  useFrame(({ clock }) => {
+    if (ringsRef.current) {
+      // Very slow rotation — one full turn per 120s
+      ringsRef.current.rotation.y = clock.elapsedTime * (Math.PI * 2) / 120
+    }
+  })
+
+  // Dotted circle: ring of small spheres in XZ plane
+  const makeDottedRing = (radius: number, count: number, opacity: number) => {
+    const dots: React.ReactNode[] = []
+    for (let i = 0; i < count; i++) {
+      const angle = (i / count) * Math.PI * 2
+      const x = Math.cos(angle) * radius
+      const z = Math.sin(angle) * radius
+      dots.push(
+        <mesh key={i} position={[x, -0.5, z]}>
+          <sphereGeometry args={[0.015, 6, 4]} />
+          <meshBasicMaterial
+            color="#f0f0fa"
+            transparent
+            opacity={opacity}
+            blending={THREE.AdditiveBlending}
+            depthWrite={false}
+          />
+        </mesh>
+      )
+    }
+    return dots
+  }
+
+  return (
+    <group ref={ringsRef}>
+      {makeDottedRing(3.2, 64, 0.25)}
+      {makeDottedRing(4.2, 80, 0.14)}
+      {makeDottedRing(5.6, 96, 0.07)}
+    </group>
+  )
+}
+
+function HorizonBloom() {
+  // Flat plane below car with radial amber gradient — evokes luxury-auto HUD horizon
+  return (
+    <mesh position={[0, -0.52, 0]} rotation={[-Math.PI / 2, 0, 0]}>
+      <circleGeometry args={[4.5, 64]} />
+      <meshBasicMaterial
+        color="#FF9F1C"
+        transparent
+        opacity={0.09}
+        blending={THREE.AdditiveBlending}
+        depthWrite={false}
+        side={THREE.DoubleSide}
+      />
+    </mesh>
+  )
+}
+
 function SceneContent({
   systems, activeSystem, onHotspotClick, accelData, audioData,
 }: DiagnosticTwinCanvasProps) {
@@ -255,6 +315,8 @@ function SceneContent({
   return (
     <>
       <SceneSetup />
+      <HorizonBloom />
+      <OrbitalRings />
       <CarBouncer activeSystem={activeSystem} groupRef={carGroupRef} />
       <AccelWaves
         accelData={accelData ?? null}

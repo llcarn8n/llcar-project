@@ -32,7 +32,7 @@ function ParticleField() {
       <bufferGeometry>
         <bufferAttribute attach="attributes-position" args={[positions, 3]} />
       </bufferGeometry>
-      <pointsMaterial size={0.05} color="#22d3ee" transparent opacity={0.5} sizeAttenuation blending={THREE.AdditiveBlending} depthWrite={false} />
+      <pointsMaterial size={0.04} color="#f0f0fa" transparent opacity={0.28} sizeAttenuation blending={THREE.AdditiveBlending} depthWrite={false} />
     </points>
   )
 }
@@ -98,8 +98,8 @@ export function SceneSetup() {
       <hemisphereLight args={['#cce0ff', '#060b14', 0.3]} />
       <directionalLight position={[5, 8, 5]} intensity={0.8} />
       <directionalLight position={[-4, 3, -4]} intensity={0.25} />
-      <pointLight position={[0, -1, -4]} color="#22d3ee" intensity={0.3} />
-      <pointLight position={[0, 5, 0]} color="#22d3ee" intensity={0.1} />
+      <pointLight position={[0, -1, -4]} color="#FF9F1C" intensity={0.25} />
+      <pointLight position={[0, 5, 0]} color="#3b9eff" intensity={0.12} />
       <ParticleField />
       <HoloGrid />
       <GroundPlane />

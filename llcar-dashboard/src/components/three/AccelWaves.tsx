@@ -59,9 +59,9 @@ function RoadStrip() {
   }), [])
 
   const lineMaterial = useMemo(() => new THREE.MeshBasicMaterial({
-    color: '#00e5ff',
+    color: '#f0f0fa',
     transparent: true,
-    opacity: 0.12,
+    opacity: 0.14,
     side: THREE.DoubleSide,
     depthWrite: false,
   }), [])
@@ -133,13 +133,13 @@ function ObstacleMesh({ type }: { type: ObsType }) {
     return g
   }, [type])
 
-  // Colors matching legend: Яма cyan, Бугор green, Торможение red, Колея amber, Стык purple
-  const color = (type === 'pothole_l' || type === 'pothole_r') ? '#00e5ff'
+  // Colors matching VIBRATION_LEGEND in Diagnostics.tsx: Яма blue, Бугор green, Торможение red, Колея amber, Стык violet
+  const color = (type === 'pothole_l' || type === 'pothole_r') ? '#3b9eff'
     : type === 'bump' ? '#4ade80'
     : type === 'brake' ? '#ff4444'
     : type === 'rut' ? '#f59e0b'
     : type === 'joint' ? '#a78bfa'
-    : '#00b8d4'
+    : '#3b9eff'
 
   if (type === 'brake') {
     return (
