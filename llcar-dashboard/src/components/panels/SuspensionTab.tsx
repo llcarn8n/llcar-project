@@ -63,7 +63,7 @@ function DetailCharts({ accelData, chartAxesRef, chartCorridorRef }: {
               padding: '6px 8px',
               background: 'rgba(240,240,250,0.03)',
               borderRadius: 4,
-              border: '1px solid rgba(0,229,255,0.06)',
+              border: '1px solid var(--border-frost)',
             }}>
               Три линии — тряска по каждой оси за период наблюдения.
               <span style={{ color: '#ef4444' }}> Красная (X)</span> — боковые крены в поворотах и на колее.
@@ -84,7 +84,7 @@ function DetailCharts({ accelData, chartAxesRef, chartCorridorRef }: {
               padding: '6px 8px',
               background: 'rgba(240,240,250,0.03)',
               borderRadius: 4,
-              border: '1px solid rgba(0,229,255,0.06)',
+              border: '1px solid var(--border-frost)',
             }}>
               Синяя линия — текущая вертикальная вибрация (ямы, кочки, лежачие полицейские).
               Пунктир — минимум и максимум за период.

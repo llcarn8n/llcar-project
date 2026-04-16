@@ -216,7 +216,7 @@ function LoadingSkeleton() {
           style={{
             height: 60,
             borderRadius: 4,
-            background: 'rgba(0,229,255,0.04)',
+            background: 'rgba(59,158,255,0.05)',
             animation: 'pulse-critical 2s ease-in-out infinite',
           }}
         />
@@ -257,7 +257,7 @@ function KnowledgeBaseSection() {
         <span style={{ fontSize: 14, opacity: 0.7 }}>{'\u{1F697}'}</span>
         <span
           style={{
-            fontFamily: "'Rajdhani', sans-serif",
+            fontFamily: 'var(--f-body)',
             fontSize: 12,
             fontWeight: 600,
             color: theme.accent.teal,
@@ -271,7 +271,7 @@ function KnowledgeBaseSection() {
       {/* Section subtitle */}
       <div
         style={{
-          fontFamily: "'Rajdhani', sans-serif",
+          fontFamily: 'var(--f-body)',
           fontSize: 11,
           color: theme.text.secondary,
           marginBottom: 8,
@@ -312,7 +312,7 @@ function KnowledgeBaseSection() {
               </span>
               <span
                 style={{
-                  fontFamily: "'Rajdhani', sans-serif",
+                  fontFamily: 'var(--f-body)',
                   fontSize: 11,
                   color: theme.text.secondary,
                   lineHeight: 1.4,
@@ -337,11 +337,11 @@ function KnowledgeBaseSection() {
             marginTop: 10,
             padding: '4px 8px',
             borderRadius: 3,
-            background: 'rgba(0,229,255,0.04)',
-            border: '1px solid rgba(0,229,255,0.12)',
+            background: 'rgba(59,158,255,0.05)',
+            border: '1px solid var(--border-frost)',
             cursor: 'pointer',
             transition: 'all 0.3s',
-            fontFamily: "'Rajdhani', sans-serif",
+            fontFamily: 'var(--f-body)',
             fontSize: 11,
             fontWeight: 600,
             color: theme.accent.cyan,
@@ -376,7 +376,7 @@ export function SidebarContent({ clientHash, timeRange }: SidebarContentProps) {
         style={{
           padding: '12px',
           color: theme.status.critical,
-          fontFamily: "'Rajdhani', sans-serif",
+          fontFamily: 'var(--f-body)',
           fontSize: 13,
           border: `1px solid ${theme.status.critical}30`,
           borderRadius: 4,
@@ -418,9 +418,9 @@ export function SidebarContent({ clientHash, timeRange }: SidebarContentProps) {
                   padding: '8px 10px',
                   borderRadius: 3,
                   background: hasData
-                    ? 'rgba(0,229,255,0.04)'
+                    ? 'rgba(59,158,255,0.05)'
                     : 'rgba(255,255,255,0.02)',
-                  border: `1px solid ${hasData ? 'rgba(0,229,255,0.15)' : 'rgba(255,255,255,0.05)'}`,
+                  border: `1px solid ${hasData ? 'var(--border-frost)' : 'rgba(255,255,255,0.05)'}`,
                   transition: 'all 0.3s ease',
                 }}
               >
@@ -445,7 +445,7 @@ export function SidebarContent({ clientHash, timeRange }: SidebarContentProps) {
                   />
                   <span
                     style={{
-                      fontFamily: "'Rajdhani', sans-serif",
+                      fontFamily: 'var(--f-body)',
                       fontSize: 11,
                       fontWeight: 600,
                       color: hasData ? theme.text.primary : theme.text.muted,
@@ -460,7 +460,7 @@ export function SidebarContent({ clientHash, timeRange }: SidebarContentProps) {
                 {/* ECU ID + data points */}
                 <div
                   style={{
-                    fontFamily: "'Share Tech Mono', monospace",
+                    fontFamily: 'var(--f-mono)',
                     fontSize: 9,
                     color: theme.text.muted,
                     marginBottom: hasData ? 6 : 0,
@@ -526,7 +526,7 @@ export function SidebarContent({ clientHash, timeRange }: SidebarContentProps) {
                 />
                 <span
                   style={{
-                    fontFamily: "'Share Tech Mono', monospace",
+                    fontFamily: 'var(--f-mono)',
                     fontSize: 12,
                     color: theme.status.critical,
                     letterSpacing: '0.05em',
@@ -560,7 +560,7 @@ export function SidebarContent({ clientHash, timeRange }: SidebarContentProps) {
             />
             <span
               style={{
-                fontFamily: "'Rajdhani', sans-serif",
+                fontFamily: 'var(--f-body)',
                 fontSize: 12,
                 fontWeight: 600,
                 color: theme.status.ok,
@@ -577,7 +577,7 @@ export function SidebarContent({ clientHash, timeRange }: SidebarContentProps) {
           <div
             style={{
               marginTop: 8,
-              fontFamily: "'Share Tech Mono', monospace",
+              fontFamily: 'var(--f-mono)',
               fontSize: 9,
               color: theme.text.muted,
               letterSpacing: '0.05em',
@@ -622,7 +622,7 @@ export function SidebarContent({ clientHash, timeRange }: SidebarContentProps) {
                   />
                   <span
                     style={{
-                      fontFamily: "'Rajdhani', sans-serif",
+                      fontFamily: 'var(--f-body)',
                       fontSize: 11,
                       color: theme.text.secondary,
                       lineHeight: 1.4,
@@ -662,7 +662,7 @@ export function SidebarContent({ clientHash, timeRange }: SidebarContentProps) {
                   >
                     <span
                       style={{
-                        fontFamily: "'Rajdhani', sans-serif",
+                        fontFamily: 'var(--f-body)',
                         fontSize: 10,
                         color: theme.text.muted,
                         letterSpacing: '0.1em',
@@ -697,13 +697,13 @@ export function SidebarContent({ clientHash, timeRange }: SidebarContentProps) {
                         <span
                           key={i}
                           style={{
-                            fontFamily: "'Share Tech Mono', monospace",
+                            fontFamily: 'var(--f-mono)',
                             fontSize: 10,
-                            color: i === last5.length - 1 ? theme.accent.cyan : theme.text.muted,
+                            color: i === last5.length - 1 ? 'var(--c-blue)' : theme.text.muted,
                             padding: '1px 4px',
                             borderRadius: 2,
                             background: i === last5.length - 1
-                              ? 'rgba(0,229,255,0.1)'
+                              ? 'rgba(59,158,255,0.12)'
                               : 'transparent',
                           }}
                         >

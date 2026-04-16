@@ -58,12 +58,23 @@ export function MainLayout({ children }: { children: ReactNode }) {
         ))}
       </div>
       {/* Header */}
-      <header className="flex flex-wrap items-center justify-between px-3 md:px-6 py-2 md:py-3 border-b border-white/5 gap-1">
+      <header
+        className="flex flex-wrap items-center justify-between px-3 md:px-6 py-2 md:py-3 gap-1"
+        style={{ borderBottom: '1px solid var(--border-frost)' }}
+      >
         <div className="flex items-center gap-2 md:gap-4">
           <div className="flex flex-col">
             <div className="flex items-center gap-2 md:gap-3">
               <Logo size="md" showWordmark withOrbit />
-              <span className="text-xs text-white/25 font-mono hidden lg:inline" style={{ letterSpacing: '0.2em' }}>LONG LIFE CAR</span>
+              <span
+                className="text-xs hidden lg:inline"
+                style={{
+                  color: 'var(--c-text-faint)',
+                  fontFamily: 'var(--f-mono)',
+                  letterSpacing: '0.24em',
+                  textTransform: 'uppercase',
+                }}
+              >LONG LIFE CAR</span>
             </div>
             {/* EKG pulse — UNDER logo */}
             <div className="header-pulse hidden md:block" style={{ marginTop: -4, marginLeft: 2 }}>
@@ -99,15 +110,16 @@ export function MainLayout({ children }: { children: ReactNode }) {
               onClick={() => { resetVehicle(); navigate('/') }}
               style={{
                 padding: '4px 10px',
-                fontFamily: "'Rajdhani', sans-serif",
+                fontFamily: 'var(--f-body)',
                 fontSize: 11,
-                fontWeight: 700,
-                color: theme.accent.orange,
-                background: 'rgba(255,140,0,0.08)',
-                border: '1px solid rgba(255,140,0,0.25)',
+                fontWeight: 600,
+                color: 'var(--c-amber)',
+                background: 'var(--c-amber-bloom)',
+                border: '1px solid rgba(255,159,28,0.28)',
                 borderRadius: 4,
                 cursor: 'pointer',
-                letterSpacing: '0.05em',
+                letterSpacing: '0.14em',
+                textTransform: 'uppercase',
                 transition: 'all 0.3s',
                 whiteSpace: 'nowrap',
               }}
@@ -139,13 +151,13 @@ export function MainLayout({ children }: { children: ReactNode }) {
               onChange={(e) => setClient(e.target.value)}
               style={{
                 fontSize: 10,
-                fontFamily: 'monospace',
-                color: theme.accent.teal,
+                fontFamily: 'var(--f-mono)',
+                color: 'var(--c-blue)',
                 backgroundColor: 'rgba(6,15,25,0.9)',
                 padding: '2px 6px',
                 borderRadius: 4,
-                letterSpacing: '0.05em',
-                border: '1px solid rgba(0,229,255,0.2)',
+                letterSpacing: '0.08em',
+                border: '1px solid var(--border-frost)',
                 cursor: 'pointer',
                 outline: 'none',
               }}
@@ -187,11 +199,27 @@ export function MainLayout({ children }: { children: ReactNode }) {
       {/* Sidebar */}
       {sidebarOpen && (
         <aside
-          className="fixed top-0 right-0 h-full w-[85vw] md:w-80 glass-panel border-l border-cyan-500/10 z-50 p-4 md:p-6 overflow-y-auto"
-          style={{ position: 'fixed', borderRadius: 0, backdropFilter: 'blur(20px) saturate(180%)', WebkitBackdropFilter: 'blur(20px) saturate(180%)', background: 'rgba(5,10,15,0.95)' }}
+          className="fixed top-0 right-0 h-full w-[85vw] md:w-80 glass-panel z-50 p-4 md:p-6 overflow-y-auto"
+          style={{
+            position: 'fixed',
+            borderRadius: 0,
+            borderLeft: '1px solid var(--border-frost)',
+            backdropFilter: 'blur(20px) saturate(180%)',
+            WebkitBackdropFilter: 'blur(20px) saturate(180%)',
+            background: 'rgba(5,10,15,0.95)',
+          }}
         >
           <div className="flex justify-between items-center mb-6">
-            <span className="font-mono text-sm uppercase tracking-wider" style={{ color: theme.accent.cyan }}>
+            <span
+              style={{
+                fontFamily: 'var(--f-body)',
+                fontSize: 11,
+                fontWeight: 600,
+                color: 'var(--c-amber)',
+                letterSpacing: '0.18em',
+                textTransform: 'uppercase',
+              }}
+            >
               {'\u041F\u0430\u043D\u0435\u043B\u0438'}
             </span>
             <button onClick={toggleSidebar} className="text-white/40 hover:text-white text-lg">{'\u2715'}</button>
@@ -200,7 +228,7 @@ export function MainLayout({ children }: { children: ReactNode }) {
 
           {/* Vehicle profile edit button */}
           {vehicleProfile && (
-            <div style={{ marginTop: 16, paddingTop: 12, borderTop: '1px solid rgba(0,229,255,0.1)', display: 'flex', flexDirection: 'column', gap: 8 }}>
+            <div style={{ marginTop: 16, paddingTop: 12, borderTop: '1px solid var(--border-frost)', display: 'flex', flexDirection: 'column', gap: 8 }}>
               <button
                 onClick={() => { openVehicleSetup(); toggleSidebar(); }}
                 style={{
@@ -210,11 +238,11 @@ export function MainLayout({ children }: { children: ReactNode }) {
                   gap: 10,
                   padding: '10px 12px',
                   borderRadius: 4,
-                  background: 'rgba(0,229,255,0.04)',
-                  border: '1px solid rgba(0,229,255,0.12)',
+                  background: 'rgba(59,158,255,0.05)',
+                  border: '1px solid var(--border-frost)',
                   cursor: 'pointer',
                   transition: 'all 0.3s',
-                  fontFamily: "'Rajdhani', sans-serif",
+                  fontFamily: 'var(--f-body)',
                   fontSize: 12,
                   color: 'var(--text-secondary)',
                   letterSpacing: '0.05em',
@@ -240,11 +268,11 @@ export function MainLayout({ children }: { children: ReactNode }) {
                   gap: 10,
                   padding: '10px 12px',
                   borderRadius: 4,
-                  background: 'rgba(0,229,255,0.04)',
-                  border: '1px solid rgba(0,229,255,0.12)',
+                  background: 'rgba(59,158,255,0.05)',
+                  border: '1px solid var(--border-frost)',
                   cursor: 'pointer',
                   transition: 'all 0.3s',
-                  fontFamily: "'Rajdhani', sans-serif",
+                  fontFamily: 'var(--f-body)',
                   fontSize: 12,
                   color: 'var(--text-secondary)',
                   letterSpacing: '0.05em',

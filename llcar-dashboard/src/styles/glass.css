@@ -382,7 +382,7 @@ body::after {
   background: var(--tab-active-bg);
   border-color: var(--tab-active-border);
   color: var(--tab-active-text);
-  box-shadow: 0 0 15px #00e5ff26, inset 0 0 10px #00e5ff0d;
+  box-shadow: 0 0 16px rgba(255,159,28,0.22), inset 0 0 10px rgba(255,159,28,0.08);
 }
 
 /* Nav buttons with cut corners */
@@ -411,7 +411,20 @@ body::after {
   background: var(--nav-active-bg);
   border-color: var(--nav-active-border);
   color: var(--nav-active-text);
-  box-shadow: 0 0 12px #00e6761a;
+  box-shadow: 0 0 14px rgba(255,159,28,0.2);
+  position: relative;
+}
+
+.nav-btn.active::after {
+  content: '';
+  position: absolute;
+  left: 14%;
+  right: 14%;
+  bottom: -1px;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--c-amber), transparent);
+  box-shadow: 0 0 8px rgba(255,159,28,0.55);
+  pointer-events: none;
 }
 
 /* ── 8. Holographic / 3D Viewport ── */
