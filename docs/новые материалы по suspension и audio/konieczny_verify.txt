@@ -1,0 +1,357 @@
+Article citation info:                                                                                                                     1
+
+Konieczny L, Filipczyk J. Analysis of the possibility of using the phase angle in the Eusama method as an additional diagnostic parameter
+
+in the assessment of the technical condition of the vehicle suspension system. Diagnostyka. 2022;23(4):2022414.
+
+http://dx.doi.org/10.29354/diag/156917.
+
+1DIAGNOSTYKA, 2022, Vol. 23, No. 4                                    e-ISSN 2449-5220
+                                                          DOI: 10.29354/diag/156917
+
+ANALYSIS OF THE POSSIBILITY OF USING THE PHASE ANGLE IN THE EUSAMA
+METHOD AS AN ADDITIONAL DIAGNOSTIC PARAMETER IN THE ASSESSMENT
+
+    OF THE TECHNICAL CONDITION OF THE VEHICLE SUSPENSION SYSTEM
+
+                        Lukasz KONIECZNY * , Jan FILIPCZYK
+
+Silesian University of Technology, Faculty of Transport and Aviation Engineering, Poland
+                  * Corresponding author, e-mail: lukasz.konieczny@polsl.pl
+
+                                                            Summary
+    Vehicle suspension system diagnostics is essential to both operation and maintenance of automotive
+vehicles. Diagnostic methods should provide signals that in-service defects have occurred as early as possible
+and make it possible to identify such defects in an unambiguous manner. Among the most popular oscillatory
+methods used to examine the technical condition of suspension systems, the EUSAMA method, developed by
+the European Shock Absorbers Manufacturers Association, has enjoyed particularly wide application, and it
+consists in establishing the ratio between the minimum value of the wheel adhesion force within the band of
+resonance of unsprung masses and the static wheel load value, expressed in per cent. Technical condition
+classification is based on comparing the values of what is commonly referred to as the EUSAMA coefficient
+(percentage ratio of a minimum wheel load force to a tangential vehicle wheel load on a test stand plate) for
+two wheels of a single axle. Such a test stand typically features only a load force sensor integrated with the test
+plate. The modification proposed by the authors involves installing an additional test plate displacement sensor
+at the test stand. When performed simultaneously, measurements of the load force affecting the plate and of
+its displacement make it possible to determine the phase angle between the relevant signals and to analyse the
+possibility of using the phase angle as an additional source of information about the technical condition of the
+vehicle suspension system.
+
+                        Keywords: EUSAMA method, shock absorbers, damping characteristics, phase angle
+
+1. INTRODUCTION                                           condition of elastic elements and on the mechanical
+                                                          damage suffered by shock absorbers, provided that it
+    The operation of a vehicle entails progressing        is visible. It is doubtless that the technical condition
+wear and tear of its components, consequently             of shock absorbers affects the vehicle behaviour and
+leading to gradual deterioration of its technical         the safety of the vehicle use [1, 2, 5, 6, 8, 19-21, 23,
+condition. With regard to systems such as brakes,         27-29].
+suspension, chassis, etc., the deterioration of
+technical condition is imperceptible to drivers over a        Defective shock absorbers increase braking
+relatively long period of use. In most cases, users fail  distances and ­ with the ABS or ESP systems on
+to notice this deterioration phenomenon as a              board ­ can prevent these systems from functioning
+consequence of wear and tear processes.                   properly, particularly under unfavourable road
+                                                          conditions (uneven road surface, curved track,
+    Diagnostics of the technical condition of             braking, and acceleration). Two kinds of criteria are
+suspension systems in the course of the operation         applied to assess technical condition: the threshold
+and maintenance of automotive vehicles is extremely       value criterion for a given diagnostic parameter, e.g.
+important. The diagnostic methods in use should           the value of the braking efficiency index, and the
+enable unambiguous identification and signal the          criterion of the difference between the diagnostic
+occurrence of in-service defects as early as possible.    parameter value and the values assumed as
+Organoleptic diagnostic testing of suspension             acceptable for a given group of vehicles
+systems involves visual inspection of the technical
+condition of individual components as well as of the          Researchers at the Faculty of Transport and
+connections between them, the purpose of which is         Aviation Engineering of the Silesian University of
+to identify cracks and permanent deformations of the      Technology conduct regular studies pertaining to the
+suspension system components, and to verify that          assessment of the technical condition of vehicles
+these connections are reliable. Preliminary visual        involved in road traffic, while problems such as the
+inspection also provides information on the               assessment methodology and technical tests, as well
+                                                          as the effect of technical condition on the occurrence
+
+© 2022 by the Authors. Licensee Polish Society of Technical Diagnostics (Warsaw. Poland). This article is an open
+  access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license
+  http://creativecommons.org/licenses/by/4.0/).
+5  DIAGNOSTYKA, Vol. 23, No. 4 (2022)
+
+   Konieczny L, Filipczyk J.: Analysis of the possibility of using the phase angle in the Eusama method as an ...
+
+and course of road incidents are also explored. In the      the additional spring support, it is also possible to
+years 1996­1997, comparative studies were                   estimate load force by computational means and to
+conducted to investigate the possibility of assessing       establish adhesion expressed in per cent. Adhesion
+the technical condition of suspension systems using         (road grip) is determined by measuring the
+different types of control devices, and these included      maximum value of the vibration amplitude within
+tests of 1,075 vehiclesa). Between 1998 and 2020,           the resonance band and of the static load of the axle
+the technical condition tests performed there               subject to testing according to an algorithm specified
+involved 4,461 passenger cars (category M1) and             by a given test stand manufacturer. The resultant
+448 commercial vehicles (category N1), covering             value is interpreted as that of adhesion (in operating
+both operational safety and their environmental             instructions, this value is defined as a coefficient of
+impact. These tests were based on an extended               vibration damping in per cent). The EUSAMA
+methodology aligned with the guidelines established         method, developed by the European Shock
+for periodic mandatory technical inspections, and           Absorbers Manufacturers Association, consists in
+comprised braking deceleration measurements and             determining the percentage proportion between the
+road tests for steering characteristics and straight-       value of a minimum wheel adhesion force within the
+line driving behaviour of vehicles. The test results        resonance band and the value of a static wheel load.
+revealed that 31% of the defects found in the M1            Damping efficiency is determined by the EUSAMA
+category cars during the extended diagnostic tests          WE index expressed in per cent [12, 13, 15-18, 22,
+were related to the suspension system.                      24-26].
+
+    Among the numerous popular vibration testing            2. MODIFICATION OF THE EUSAMA TEST
+methods applicable to shock absorbers installed in              STAND
+passenger cars, the forced vibration method (BOGE)
+or the EUSAMA method and their derivatives are                  The EUSAMA test stand was modified by
+used most frequently (Fig. 1). [3, 4, 7, 9-11, 14, 30].     expanding the required standard measurement of the
+                                                            wheel load force acting on the test stand plate with
+        Fig. 1. Kinematic diagrams of the methods           an additional measurement of the excitation plate
+        engaged to induce plate vibrations in shock         displacement as well as by altering the controls of
+      absorber testing stands by the forced vibration       the test stand power supply. The control system of
+                                                            the electric motor which delivers propulsion to the
+                           method [8]                       test stand plate features an inverter enabling control
+                                                            of the excitation parameters, including mainly the
+    Both methods make use of mechanical harmonic            run-up and run-down times of the test stand (linear
+vertical vibration exciters, causing the car wheel to       run-up time adjustment). Additionally, an
+vibrate as it rests on a drive-on plate of the test stand.  accelerometer was fixed to the test stand plate to
+The frequency of the forced vibrations is higher than       measure the acceleration of the excitation plate for
+the resonant frequency of the unsprung mass, and it         comparative purposes.
+comes to ca. 24 Hz. The vibration excitation cycle
+comprises three stages, two of which consist in             3. TEST OBJECT
+accelerating the stand to a frequency higher than the
+resonant frequency of the suspension system,                    The results discussed in this paper were obtained
+followed by the suspension system excitation at a           in an experiment which consisted in recording
+constant frequency for a few seconds. In the final          displacements of the test stand's excitation plate
+stage, after the exciter has been turned off, vibration     using the Megatron RC-20-50 potentiometric sensor
+decay begins as a result of the damping of the shock        (linear potentiometer with a measurement range of
+absorber, the suspension system components, and             50 mm), a strain gauge operating within a range of
+the tyre. As soon as the vibration frequency of the         0­1,000 kg with a 0­10 mA current output, and an
+system reaches the resonant frequency of the                ICP piezoelectric accelerometer fixed to the test
+suspension system, the vibration amplitude                  stand plate. Data were recorded using the Krypton
+increases, and its value indicates the technical            3STG data logger. The synchronous sampling rate
+condition of the shock absorber. Damping                    was 20 kHz, and the resolution was 24 bits. The tests
+effectiveness is determined by analysing the                were conducted on a WV Golf fitted with standard
+vibrations in the function of time (under the BOGE          tyres. The test stand has been shown in Figure 2.
+method), or in the function of the wheel load against
+the base (under the EUSAMA method). According                   The recording proceeded in the following stages:
+to the modified BOGE method, implemented in                 acceleration, operation at a constant excitation
+MAHA-branded instruments (FWT 1), on account of             frequency, and vibration extinguishing. The
+                                                            excitation was adjusted by means of an inverter
+                                                            controlling the test stand motor operation.
+
+                                                                The following diagram (Figure 2) illustrates the
+                                                            time courses of the signals recorded for the dynamic
+                                                            loading, displacement, and acceleration of the test
+                                                            stand plate. The linear frequency increase during the
+DIAGNOSTYKA, Vol. 23, No. 4 (2022)                                                                              5
+
+Konieczny L, Filipczyk J.: Analysis of the possibility of using the phase angle in the Eusama method as an ...
+
+run-up and run-down of the test stand, set at 10
+seconds, was controlled by the inverter adjusting the
+power supply parameters of the engine driving the
+test stand. Thus set, this time corresponds to
+measurements conducted under the typical
+conditions for which the EUSAMA index was
+established at free run-down of the test stand.
+
+          Fig. 2. Test vehicle on the test stand and         Fig. 5. Time courses of the recorded excitation
+            elements of the measurement system                               plate displacements
+
+     Fig. 3. Time courses of the signals recorded for      Having analysed the displacement signal, one
+           the vibration test (dynamic load, plate     can observe that contact measurement of the relative
+              displacement, plate acceleration)        displacement depends on the effect of the wheel load
+                                                       on the plate. As the excitation frequency increases,
+    The load and displacement values recorded          the relative peak-to-peak amplitude decreases from
+during the dynamic test were as follows: minimum       static values close to 6 mm to a value of 4 mm at the
+load ­ 3,062 N, peak-to-peak dynamic load              maximum excitation frequency (approx. 21 Hz).
+difference ­ 2,056 N, peak-to-peak displacements ­     However, the amplitude value does not affect the
+7.89 mm.                                               determination of the phase angle where the zero
+                                                       crossing points of both signals, i.e. those of
+                                                       displacement and force, are analysed.
+
+                                                       4. PHASE ANGLE DETERMINATION
+                                                           ALGORITHM
+
+                                                           In order to determine the shift of the phase angle
+                                                       of the signals of plate displacement x (mm) and
+                                                       dynamic force F (N) acting on the plate,
+                                                       mathematical signal processing procedures were
+                                                       conducted. In the first iteration, constant components
+                                                       (offsets) were removed for the signal of
+                                                       displacement and mass.
+
+Fig. 4. Time courses of the mass changes                    Fig. 6. Removing the offset for the displacement
+ recorded at the excitation station plate                                            signal
+
+                                                           In the next step, tapering filtration was applied to
+                                                       the displacement and mass signals.
+
+                                                           Then, a frequency and angle determination
+                                                       algorithm defined for an analogue pulse counter was
+                                                       applied (the displacement and force signals were
+                                                       treated as analogue counters, the trigger was defined
+                                                       at the signal's zero crossing point, and behaviours of
+5  DIAGNOSTYKA, Vol. 23, No. 4 (2022)
+
+   Konieczny L, Filipczyk J.: Analysis of the possibility of using the phase angle in the Eusama method as an ...
+
+the 0­360° phase were determined for each test plate    suspension systems in automotive vehicles. The
+displacement oscillation).                              diagnostic parameter can be the value of the phase
+                                                        angle increment in the function of the excitation
+    Fig. 7. Removing the offset for the dynamic load    frequency within the range of the resonant frequency
+                              signal                    of the unsprung masses. However, there is a certain
+                                                        limitation to the method proposed, namely the
+     Fig. 8. Determining parameters for an analogue     relatively low resolution of the phase angle
+             counter ­ trigger and 0­360° phase         determination on a small number of oscillations
+                                                        within the resonance band. This problem can be
+    The subsequent operation made it possible to        solved by increasing the duration of the vibration
+determine the angular difference for the signal of      test, including the time for which the system vibrates
+displacement x relative to the signal of force F.       with resonant frequency.
+
+      Fig. 9. Frequency change profile: excitation ­    Author contributions: research concept and design, L.K.,
+     red; envelope of the wheel load on the test stand  J.F; Data Collection and assembly, L.K.; Data analysis
+                                                        and interpretation, L.K.; Writing the article, J.F.; Critical
+        plate ­ blue; phase angle change profile for    revision of the article, J.F.; Final approval of the article,
+           displacement and force signals ­ green       J.F.
+
+5. CONCLUSIONS                                          Declaration of competing interest: The authors declare
+    The mathematical algorithm proposed for signal      that they have no known competing financial interests or
+                                                        personal relationships that could have appeared to
+processing, enabling determination of the function of   influence the work reported in this paper.
+change of the phase angle as well as of the frequency
+of excitation and dynamic wheel load, makes it          REFERENCES
+possible to obtain complementary diagnostic
+information about the technical condition of            1. Borkowski W, Konopka S, Prochowski L. Dynamika
+                                                            maszyn roboczych. WNT, Warszawa 1996.
+
+                                                        2. Chodkowski AD. Badania modelowe pojazdów
+                                                            gsienicowych i kolowych. WKiL, Warszawa 1982.
+
+                                                        3. Czop P, Slawik D, Wlodarczyk TH, Wojtyczka M,
+                                                            Wszolek G. Six Sigma methodology applied to
+                                                            minimizing damping lag in hydraulic shock absorbers.
+                                                            Journal of Achievements in Materials and
+                                                            Manufacturing Engineering. 2011;49(2): 243-250.
+
+                                                        4. Czop P, Slawik D. A high-frequency first-principle
+                                                            model of a shock absorber and servo-hydraulic tester.
+                                                            Mechanical Systems and Signal Processing.
+                                                            2011;25(6):1937-1955.
+
+                                                        5. Dixon JC. The shock absorber. Society of Automotive
+                                                            Engineers Inc. Warrendale, PA, 1999.
+
+                                                        6. Gajek A, Juda Z. Czujniki. Wydawnictwo
+                                                            Komunikacji i Lcznoci Warszawa 2008.
+
+                                                        7. Gardulski J, Konieczny L, Burdzik R. Diagnostyka
+                                                            stanu technicznego amortyzatora zabudowanego w
+                                                            pojedzie samochodowym z wykorzystaniem STFT.
+                                                            Diagnostyka. 2005;33:25­28.
+
+                                                        8. Gillespie TD. Fundamentals of vehicle dynamics. SAE
+                                                            International. 1992.
+
+                                                        9. Gnilka J, Myk A. Experimental identification and
+                                                            selection of dynamic properties of a high-speed
+                                                            tracked vehicle suspension system. Eksploatacja i
+                                                            Niezawodnosc ­ Maintenance and Reliability 2017;
+                                                            19(1):108­113.
+                                                            http://dx.doi.org/10.17531/ein.2017.1.15.
+
+                                                        10. Gobbi M, Mastinu G, Pennati M. Indoor testing of
+                                                            road vehicle suspensions. 2008;43(2):173-184.
+                                                            http://dx.doi.org/10.1007/s11012-008-9119-5.
+
+                                                        11. Hryciów Z, Rybak P, Gieleta R. The influence of
+                                                            temperature on the damping characteristic of hydraulic
+                                                            shock absorbers. Eksploatacja i Niezawodnosc ­
+                                                            Maintenance and Reliability. 2021;23(2):346­351.
+                                                            http://doi.org/10.17531/ein.2021.2.14.
+
+                                                        12. Klapka M, Mazurek I, Machacek O, Kubik M.
+                                                            Twilight of the EUSAMA diagnostic methodology.
+                                                            Meccanica. 2017;52(9):2023-2034.
+                                                            http://dx.doi.org/10.1007/s11012-016-0566-0.
+DIAGNOSTYKA, Vol. 23, No. 4 (2022)                                                                                   5
+
+Konieczny L, Filipczyk J.: Analysis of the possibility of using the phase angle in the Eusama method as an ...
+
+13. Konieczny L, Burdzik R, Lazarz B. Application of the       28. Mamala J, Graba M, Bieniek A, Pranowski K,
+    vibration test in the evaluation of the technical              Augustynowicz A, mieja M. Study of energy
+    condition of shock absorbers built into the vehicle.           consumption of a hybrid vehicle in real-world
+    Vibroengineering. Journal of Vibroengineering. 2013;           conditions. Eksploatacja i Niezawodnosc ­
+    15(4):2068-2074.                                               Maintenance and Reliability. 2021;23(4):636­645.
+                                                                   http://doi.org/10.17531/ein.2021.4.6.
+14. Konieczny L, Burdzik R. Comparison of
+    characteristics of the components used in mechanical       29. Bielaczyc P, Kozak M, Merkisz J. Effects of fuel
+    and non-conventional automotive suspensions. Solid             properties on exhaust emissions from the latest light-
+    State Phenomena. 2104;21026-31.                                duty DI diesel engine. SAE Technical Paper 2003-01-
+     https://doi.org/10.4028/www.scientific.net/SSP.210.26.        1882. 2003 https://doi.org/10.4271/2003-01-1882.
+
+15. Kupiec J, lski G. Bldy w ocenie zdolnoci                   30. Markuszewski D, Wdolowski M, Gorzym M, Bielak
+    tlumienia amortyzatorów przy badaniu z                         M. Concept of a composite frame of a martian vehicle.
+    wykorzystaniem wskanika EUSAMA. Diagnostyka.                   Advances in Science and Technology Research
+    2004;30(II):301-304.                                           Journal. 2021;15(4):222-230.
+
+16. Lozia Z. Diagnostyka samochodowa. Laboratorium.            31. Bielaczyc P, Merkisz J, Pielecha J. A Method of
+    Oficyna Wydawnicza Politechniki Warszawskiej,                  Reducing the exhaust emissions from DI diesel
+    Warszawa 2007.                                                 engines by the introduction of a fuel cut off system
+                                                                   during cold start. SAE Technical Paper 2001-01-3283.
+17. Lozia Z. The use of a linear quarter-car model to              2001. https://doi.org/10.4271/2001-01-3283.
+    optimize the damping in a passive automotive
+    suspension system - a follow-on from many authors'         32. Wdolowski M, Pankiewicz J, Markuszewski D.
+    works of the recent 40 years. The Archives of                  Application for analysis of the multiple coherence
+    Automotive Engineering - Archiwum Motoryzacji.                 function in diagnostic signal separation processes.
+    106;71(1):39-71.                                               Vibrations in Physical Systems. 2020;31(3):2020324.
+                                                                   https://doi.org/10.21008/j.0860-6897.2020.3.24.
+18. Lozia, Z, Zdanowicz, P. Simulation assessment of the
+    impact of inertia of the vibration plate of a diagnostic   Received 2022-09-14
+    suspension tester on results of the EUSAMA test of         Accepted 2022-11-25
+    shock absorbers mounted in a vehicle. Book Series          Available online 2022-11-28
+    IOP Conference Series-Materials Science and
+    Engineering. 2018;421:022018.                                                           Lukasz     KONIECZNY,
+    http://dx.doi.org/10.1088/1757-899X/421/2/022018.
+                                                                                            Silesian University of
+19. Wierzbicki S. Diagnosing microprocessor controlled
+    systems. Polska Akademia Nauk, Teka Komisji                                             Technology, Faculty of
+    Motoryzacji i Energetyki Rolnictwa, Tom VI, Lublin.
+    2000: 183-188.                                                                          Transport and Aviation
+
+20. Pankiewicz J, Deuszkiewicz P, Dziurd J, Zawisza M.                                      Engineering ­ employed at the
+    Modeling of powertrain system dynamic behavior
+    with torsional vibration damper. Advanced Materials                                     Department of Road Transport;
+    Research. 2014:586-591.
+     https://doi.org/10.4028/www.scientific.net/AMR.1036.586.                               research fields: vibroacoustics,
+
+21. Reski A.: Budowa Samochodów: Uklady hamulcowe                                           signal analysis, machinery and
+    i kierownicze oraz zawieszenia. Oficyna Wydawnicza
+    Politechniki Warszawskiej. Warszawa 2004.                                               equipment  diagnostics,
+
+22. Staczyk TL. Analysis of possibilities for using phase                                   automotive vehicle testing,
+    angle as a diagnostic parameter in shock absorber
+    examinations. The Archives of Transport. 2004;                                          simulation and real-life testing
+    XVI(2):33÷50.
+                                                               of the dynamics of suspension systems in automotive
+23. Warczek J, Burdzik R, Peru G. The method for
+    identification of damping coefficient of the trucks        vehicles, unconventional vehicle suspension systems.
+    suspension. Key Engineering Materials. 2014;588:
+    281-289.                                                   Member of the Polish Society of Technical
+     https://doi.org/10.4028/www.scientific.net/KEM.588.281.
+                                                               Diagnostics and the Polish Scientific and Technical
+24. Zdanowicz P. Comparative assessment of vertical
+    vibrations of a vehicle on the road and during the         Maintenance Society.
+    EUSAMA test. Book Series IOP Conference Series-
+    Materials Science and Engineering. 2018;421:                                            Jan FILIPCZYK, Silesian
+    022045, http://dx.doi.org/I10.1088/1757-                                                University of Technology,
+    899X/421/2/022045.                                                                      Faculty of Transport and
+                                                                                            Aviation Engineering ­
+25. Zdanowicz P. Ocena moliwoci zwikszenia                                                  employed at the Department of
+    wiarygodnoci kocowych wyników testu EUSAMA.                                             Road Transport; research
+    Proceedings of the Institute of Vehicles Warsaw                                         fields: automotive vehicle
+    University of Technology. 2014;100(4):47­56.                                            maintenance facilities and
+                                                                                            equipment, road traffic safety,
+26. Zdanowicz P. Ocena wplywu cech dyssypatywnych                                           automotive vehicle testing.
+    zawieszenia samochodu na rezultaty diagnostycznych
+    bada amortyzatorów. Prace Naukowe Politechniki
+    Warszawskiej. 2016;112:431­440.
+
+27. Niziski S, Wierzbicki S. Zintegrowany system
+    informatyczny sterowania pojazdów. Diagnostyka.
+    2004; 30:47-52.
+

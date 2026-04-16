@@ -1,0 +1,421 @@
+B178                         Mechanical Engineering in Transport             REVIEW ARTICLE
+
+DIAGNOSTICS OF THE ON-VEHICLE SHOCK ABSORBER
+TESTING
+
+Marek Guzek, Piotr Zdanowicz*
+
+Faculty of Transport, Warsaw University of Technology, Warsaw, Poland
+
+*E-mail of corresponding author: piotr.zdanowicz@pw.edu.pl
+
+Resume                                                                       Article info
+The practical problems that usually come up during the on-vehicle testing    Received 17 September 2020
+of motor car shock absorbers have been discussed. Results of example tests   Accepted 6 November 2020
+carried out to the EUSAMA standard procedure were compared to the test       Online 8 April 2021
+results obtained with using newer methods, i.e. the phase angle method and
+half power bandwidth method (HPBM). The issue of incompatibility of the      Keywords:
+typical excitation applied by diagnostic suspension testers with one that    EUSAMA test,
+often occurs in the road conditions has also been raised. It has also been   phase angle method,
+shown that the wear of shock absorbers may affect the value of braking       half power bandwidth method,
+deceleration of cars with ABS (anti-lock braking system) when moving on      experimental tests,
+uneven ground.                                                               simulation tests
+The main objective of the work was to assess usefulness and reliability of
+various diagnostic methods intended for the on-vehicle testing of car shock
+absorbers.
+
+                                                                                                 ISSN 1335-4205 (print version)
+      Available online: https://doi.org/10.26552/com.C.2021.3.B178-B186 ISSN 2585-7878 (online version)
+
+1 Introduction                                              in the road conditions has also been addressed (see also
+                                                            [7]). It has been shown as well that the shock absorbers
+     The technical condition of automotive shock            wear may affect the process of braking a car with the
+absorbers is essential for vehicle motion safety and        ABS when moving on uneven ground, which has been
+occupants' comfort. With development of the damping         highlighted by e.g. the authors of [5].
+components of suspension systems, newer and better
+methods of diagnosing such parts are continuously           2 Evaluation of the suspension system damping
+sought. The "on-vehicle" tests are particularly useful           impact on the final results of the rig testing
+thanks to their low costs and short duration time.               of shock absorbers by various methods
+Predominantly, "forced vibration tests" are used for this
+purpose [1-2]. At present, efforts are made in Europe            Usefulness and reliability of the diagnostic methods
+to adopt an identical (standard) vibration excitation       under consideration, used for the on-vehicle testing of
+method for all the shock absorber testers. As one of        motor car shock absorbers, was assessed on the grounds
+the peculiarities of such a method, the stroke of the       of measurement results obtained with using a prototype
+tester vibration plate is to be constant, equal to e.g.     tester TUZ1/E. A short description of the performed
+6 mm, as it is in the case of the EUSAMA machines           tests is presented in Table 1. In every test, a sinusoidal
+[1-7]. Unfortunately, such testers, which are the most      input was applied with a constant amplitude of 3mm
+popular, suffer from a major drawback: the final test       and a frequency declining from about 25 Hz to zero at
+result strongly depends on the tire inflation pressure,     a rate of 1 Hz/s; the outputs recorded were time histories
+sprung mass, sliding friction in the suspension system,     of the vertical force under the tester vibration plate
+test conditions, and tester characteristics [1-2, 4, 6-8].  and of the vertical displacement and acceleration of the
+                                                            plate (necessary to eliminate the distorting impact of
+     In consideration of the above, the authors decided     the inertial force of this exciter component, see also [6]).
+to verify the reliability and usefulness of the phase       All the tests were carried out for the rear suspension
+angle method [8] and the half power bandwidth method        system of an Opel Astra II (G) Van, in which the viscous
+(HPBM) [4] in relation to the classic EUSAMA test,          damping was changed stepwise by applying 8 known
+the newer methods are based upon. This was the main         damping levels , varying between 0.131 and 0.511 (see
+objective of this work. At this opportunity, the issue      Table 2). Such tests were repeated twice, with the tire
+of incompatibility of the typical excitation applied by
+diagnostic suspension testers with one that often occurs
+
+© 2021 UNIVERSITY OF ZILINA                                       COMMUNICATIONS 23 (3) B178-B186
+DIAGNOSTICS OF THE ON-VEHICLE SHOCK ABSORBER TESTING                                                              B179
+
+Table 1 Description of performed tests                                                             HPBM
+
+specification                 EUSAMA                                     method
+                                                                 phase angle method
+                                                        TUZ-1/E and Opel Astra II (G) Van
+
+  tester and
+research object
+
+     excitation               for all tests: amplitude 3 mm, initial frequency 25 Hz, range 25 Hz0; decrease 1 Hz/s
+
+measurement and       · vertical tire-plate force N(t)  · vertical plate                       · vertical plate displacement
+    processing                                             displacement x(t)                      x(t)
+                      · vertical plate acceleration
+     diagnostic          a(t) to correction plate       · vertical tire-plate                  · vertical tire-plate force N(t)
+    parameter            inertia effect on vertical        force N(t)
+                         force N(t)                                                            · transformation to the
+                                                        · vertical plate acceleration a(t) to     frequency domain N(), x()
+                                                           correction plate inertia effect on     (by FFT); determination of
+                                                           vertical force N(t)                    frequency response function:
+                                                                                                  H()=N()/x()
+                                                        · frequency based on periods / half-
+                                                           periods x(t)
+
+                                                        minimum difference value:
+
+                         EUSAMA indicator:                          Umin = 180° - max           dimensionless dumping level
+                         WE=Nmin/Nstatic·100%                                                  i based on frequency response
+                                                        where: max is maximum value of phase
+                                                          angle between x and N in the inter-           function H()
+                                                                       resonance area
+
+Table 2 Tested car and tests' conditions
+
+vehicle:                                      C-class car Opel Astra II (G) Van, car mass 1090kg,
+                              "quarter" car sprung mass: 160kg, "quarter" car unsprung mass: 35kg
+
+tested vehicle part:                                        rear suspension
+
+variable:                     dimensionless damping levels , 8 cases at range of 0.131 ÷ 0.511
+
+the variable damping level was achieved by using (by replacing the original) a shock absorber with a variable damping
+                                                                 characteristics
+
+           car state case:                              tire pressure p [MPa]                  sliding friction Ats1 [N]
+                                                                  0.21                                      40
+· nominal
+
+· reduced tire pressure                                     0.1                                    40
+
+· increased sliding friction                                0.21                                   250
+
+inflation pressure being reduced from nominal 0.21 MPa · The EUSAMA indicator value vs suspension
+
+to 0.1 MPa and the sliding friction in the suspension             damping curves have degressive shapes.
+
+system being raised from 40 N (nominal value) to 250 N · For the car, with nominal sliding friction and
+
+(value obtained by additional sliding friction damper in          standard tire inflation pressure, the diagnostic
+
+the suspension system; this situation may correspond              parameter changed here in a very narrow range
+
+to other cases of suspension design solutions, where the          (from 0 to about 20%).
+
+level of sliding friction in the suspension may be higher · The growth of the sliding friction in the suspension
+
+e.g. in suspensions with MacPherson struts or leaf                system by 210 N could cause here the final test
+
+springs); all the other vehicle parameters remained at            results to be overestimated by as much as 20
+
+their nominal levels.                                             percentage points.
+
+In result of an analysis of results of the EUSAMA · The reduction of the tire inflation pressure from
+
+test (Figure 1), which were determined from the normal            0.21 MPa to 0.1 MPa could cause a considerable
+
+reaction at the tire-exciter contact point (instead of the        overestimation of the EUSAMA indicator value
+
+force measured under the vibration plate, see also [6]),          (even by more than 30 percentage points in this
+
+with the main test phase being extended to 25 s, the              case).
+
+following has been found:                                         The obtained tire pressure effect qualitatively
+
+VOLUME 23                                                                                      COMMUNICATIONS 3/2021
+B180                                                            GUZEK, ZDANOWICZ
+
+ Figure 1 Example results of diagnostic testing of the rear suspension system of an Opel Astra II (G) Van with using the
+  EUSAMA method, for various levels of viscous damping in the shock absorber, at a nominal and reduced tire inflation
+pressure (p = 0.21 MPa and p = 0.1 MPa, respectively) and a nominal and raised sliding friction in the suspension system
+
+                                                   (Ats1 = 40 N and Ats1 = 250 N, respectively)
+
+confirms results known from the literature (see e.g. [1,             0.21 MPa to 0.1 MPa did not cause in this case
+8]). The distorting effect of the sliding friction on the test       any considerable changes in the final test results
+result was presented in [2, 7], as well.                             (Figure 3).
+                                                                · Increase of the sliding friction in the suspension
+     As mentioned in the introduction, the weaknesses                system for 210 N caused here the final test results to
+of the EUSAMA method mentioned above are the source                  be overestimated by as much as 0.7 rad (Figure 3).
+of search for the new methods. One of them is the phase         · During the test, the frequency drops to zero.
+angle method proposed in [8]. The evaluation criterion is            However, assessment of the phase angle in the low-
+the phase angle U between the input excitation (plate                frequency area (here below 5÷7 Hz, see Figure 2),
+displacement) and the response in the form of a force in             due to the highly distorted signals in this frequency
+the tire-plate contact. Results of analogous tests for this          range, turned out to be impossible to perform under
+method are shown in Figures 2 and 3. Figure 2 shows                  the real measurement conditions (presence of the
+an example of histories of the phase angle value as                  higher frequency components, as well as slack and
+a function of frequency for the test with a nominal shock            friction in the system, resulted in local extremes,
+absorber in very good condition ( c = 0.28). Figure 3                e.g. double maxima, minima, or transitions through
+shows the criteria values for the assessment of the shock            the mean value level; as a result, it was not
+absorber wear - the minima Umin of the phase angle for               possible to determine the characteristic points on
+different levels of damping in the tested rear suspension.           the waveforms and to determine the phase angle).
+                                                                     Summing up, this method shows significant
+     When usefulness of the phase angle method was              advantages over the classic EUSAMA test (slight
+assessed, the following was observed:                           influence of tire pressure - see also [1, 8]), but
+· At high values of the viscous damping and sliding             unfortunately, influence of the sliding friction on the
+                                                                test result remains. It has also been shown that there
+     friction in the suspension system, a minimum of the        may be situations when determination of the diagnostic
+     phase shift angle between the excitation and the           parameter value may be impossible (e.g. with very high
+     tire-exciter contact force may be hardly noticeable        and low suspension damping).
+     or it does not exist at all (Figure 2).                         The third considered method is the method proposed
+· The minimum phase shift angle value vs suspension             in [4] - the half power bandwidth method (HPBM). Here,
+     damping curves have the degressive shapes                  too, analysis is performed in the frequency domain. The
+     (Figure 3).                                                diagnostic parameter is the dimensionless damping
+· For the car with nominal sliding friction and                 coefficient  determined based on the spectral function
+     standard tire inflation pressure, the diagnostic           of the force response in the plate-tire contact in relation
+     parameter changed here in quite a wide range (from
+     0.4 rad to about 1.2 rad, see Figure 3).
+· Reduction of the tire inflation pressure from
+
+COMMUNICATIONS 3/2021                                           VOLUME 23
+DIAGNOSTICS OF THE ON-VEHICLE SHOCK ABSORBER TESTING                                                   B181
+
+Figure 2 Example results of diagnostic testing of the rear suspension system of an Opel Astra II (G) Van by the phase angle
+             method, for a shock absorber in a very good condition, at a nominal and reduced tire inflation pressure
+                        (p = 0.21 MPa and p = 0.1 MPa, respectively) and a nominal and raised sliding friction
+                                    in the suspension system (Ats1 = 40 N and Ats1 = 250 N, respectively)
+
+Figure 3 Example results of diagnostic testing of the rear suspension system of an Opel Astra II (G) Van by the phase angle
+    method, for various levels of viscous damping in the shock absorber, at a nominal and reduced tire inflation pressure
+       (p = 0.21 MPa and p = 0.1 MPa, respectively) and a nominal and raised sliding friction in the suspension system
+                                                     (Ats1 = 40 N and Ats1 = 250 N, respectively)
+
+to the plate displacement. In the presented research,   of the shock absorber under test, except for excessive
+
+evaluation of the dimensionless damping coefficient     damping level (i.e. if  < 0.25).
+
+using the HPBM method, the force signal recorded · For the high damping levels ( > 0.25), the final
+
+on the test rig was used (without eliminating the       results were markedly underestimated.
+
+distorting impact of the force of inertia of the tester · The HPBM proved in this case to be rather insensitive
+
+vibration plate). Based on appropriate measurements     to variations in the tire inflation pressure.
+
+and calculations, the following was ascertained in this · Increase of the sliding friction in the suspension
+
+case (see Figure 4):                                    system for 210 N caused here the final test results to
+
+· Parameter  quite well describes the actual condition  be clearly overestimated (even by more than 20 %).
+
+VOLUME 23                                               COMMUNICATIONS 3/2021
+B182                                                           GUZEK, ZDANOWICZ
+
+Figure 4 Example results of diagnostic testing of the rear suspension system of an Opel Astra II (G) Van by the half power
+  bandwidth method (HPBM), for various levels of viscous damping in the shock absorber, at a nominal and reduced tire
+           inflation pressure (p = 0.21 MPa and p = 0.1 MPa, respectively) and a nominal and raised sliding friction
+                                   in the suspension system (Ats1 = 40 N and Ats1 = 250 N, respectively)
+
+     Summing up, based on the results shown, in                changed for the dimensionless coefficient of damping  to
+the case of the HPBM method, we can talk about                 vary from 0 to 0.5 in steps of 0.02 and the tire damping
+a slight influence of the tire pressure (see also [4]) and     adopted was based on literature data.
+a significant influence of sliding friction. In addition, the
+method gave good results only in a narrow range of the              Figure 6 shows results of a series of simulations in
+viscous damping low levels.                                    which the excitation was applied in a form analogous to
+                                                               the EUSAMA test. These are the obtained maximum
+3 Comparison, by simulation, of selected                       and minimum values of viscous damping forces as
+     operating parameters of the motor car                     a function of the EUSAMA indicator value (denoted here
+     suspension system in a typical diagnostic                 by "WE"). Due to the low amplitude (3 mm) and moderate
+     test and in road conditions                               frequency (10÷20 Hz) of excitation, at which the final
+                                                               test results are determined, rather low suspension
+     To depict the differences in the vehicle suspension       deflection rates are obtained in the EUSAMA test,
+system functioning in a diagnostic test and real road          even if the shock absorbers under tests are worn out
+operation conditions, simulation test results were used.       very badly. This situation occurs especially when the
+This work was done on a front "quarter" of the Isuzu           sliding friction in the suspension is sufficiently high.
+D-max motor vehicle. Although the two transverse               During such a diagnostic test, the maximum absolute
+arms were provided in the front suspension system of           values of the viscous damping force (meant as the force
+this vehicle, the system was characterized by relatively       reduced to the vertical axis in the "quarter-car" model)
+strong sliding friction force (Ats1 = 158 N), typical for      very seldom exceed 500 N, even if the shock absorber
+passenger cars with MacPherson struts.                         condition is very good. One has to be aware of the fact
+                                                               that in the conditions where the EUSAMA test result
+     In the simulations, a non-linear, experimentally          is good, i.e. the EUSAMA indicator value is higher than
+verified "quarter-car" model was used (see Figure 5),          40 %, the amplitude of the viscous damping force only
+where the sliding friction in the suspension system            slightly exceeds the value of the force of sliding friction
+and smoothing properties of the tires and also tire            Fts1min/max in the suspension system. If, however, the
+separation from the ground ("lift-off") were taken into        half-cycle average values are used then the value of
+account (mathematical model - see also [2, 7]). Most of        the viscous damping force amplitude may turn out
+the model parameters had been previously identified in         to be markedly lower than the value of the sliding
+rig tests (main parameters - see Table 3). Only the shock      friction force. Hence, a statement may be made that the
+absorber and tire damping were described in a linear           final result of the diagnostic EUSAMA shock absorber
+form. The viscous damping in the suspension system was         testing depends to a considerable degree on the frictional
+                                                               resistance in the suspension system (see also [7]).
+
+COMMUNICATIONS 3/2021                                          VOLUME 23
+DIAGNOSTICS OF THE ON-VEHICLE SHOCK ABSORBER TESTING                                 B183
+
+Figure 5 Nonlinear "quarter-car" model with dry friction in the suspension system: a) general structure; b) system of forces;
+Fs1 - elasticity force in the suspension system; Fs2 - elasticity force in the tire; Ft1 - viscous damping force in the suspension
+system; Ft2 - damping force in the tire; Fts1 - sliding friction force in the suspension system; m1 - sprung mass; m1g - weight
+ of the sprung parts; m2 - unsprung mass; m2g - weight of the unsprung parts; q - input displacement; z1 - coordinate of the
+centre of the sprung mass; z2 - coordinate of the centre of the unsprung mass; 1 - vertical axis of the system attached to the
+
+                                sprung mass; 2 - vertical axis of the system attached to the unsprung mass
+
+Table 3 Model and simulation parameters                  Isuzu D-Max, mass: 3011 kg
+                 vehicle:                                       front suspension
+
+         tested vehicle part:
+
+               masses:                                                    m1 = 578 kg, m2 = 69.5 kg
+suspension and tire parameters:    nonlinear characteristics of spring elements, nonlinear characteristics of sliding friction,
+                                 linear tire damping characteristic, for the presented test the linear shock-absorber damping
+              variable:
+                                          characteristic was assumed; values and characteristics identified on real car
+
+                                              dimensionless damping levels , at range of 0 ÷ 0.5 (c = 0 ÷ 4531 Ns/m)
+
+simulation condition:            car velocity: 25 m/s (90 km/h), excitation (road irregularities): EUSAMA tester sinusoidal
+                                                                    signal or C class road by ISO [9]
+
+                                               (taking into account the smoothing properties of the vehicle tires)
+
+simulation model code:                                   Matlab-Simulink
+
+     Figure 7 shows the simulation results for the       parameters (  0.3), the sliding friction resistance made
+vehicle motion at a speed of 90 km/h on an average road  here merely about 10% of the viscous damping force in
+(pavement category C, according to [9]). For the same    the suspension system and did not have any significant
+vehicle, the suspension deflection rates will be much    impact on the energy dissipation process of the vertical
+higher. In such suspension system operation conditions,  vehicle vibration. It can also be clearly seen that for
+the peak-to-valley values of the viscous damping forces  the simulation of vehicle motion on an average road
+in the shock absorber markedly increase (linearly, in    (pavement category C), the damping force generated by
+rough terms) with growing relative damping in the        a nominal shock absorber would be three times as strong
+suspension system. For the nominal values of vehicle     as that generated in the EUSAMA test (see also [7]).
+
+VOLUME 23                                                                 COMMUNICATIONS 3/2021
+B184                   GUZEK, ZDANOWICZ
+
+Figure 6 Example extrema of the viscous damping forces (Ft1min and Ft1max) and sliding friction forces (Fts1min and Fts1max)
+   in the suspension system for various values of the EUSAMA indicator (results of simulation tests with changes in the
+                technical condition of the shock absorber in the front "quarter" of the Isuzu D-max motor vehicle)
+
+Figure 7 Comparison of the example extrema of the viscous damping forces (Ft1min and Ft1max) and sliding friction forces
+      (Fts1min and Fts1max) in the vehicle suspension system at various values of the dimensionless damping coefficient
+
+   in the suspension system (results of a simulation of the EUSAMA test and a test of vertical vibration of the vehicle
+              on an average road (C pavement category) for the front "quarter" of the Isuzu D-max motor vehicle)
+
+COMMUNICATIONS 3/2021  VOLUME 23
+DIAGNOSTICS OF THE ON-VEHICLE SHOCK ABSORBER TESTING         B185
+
+db avg. [m/s2]
+
+Figure 8 Comparison of the average braking deceleration values recorded during the tests of an Opel Agila car on a test
+track section representing a double-track uneven tramway crossing, with various levels of the viscous damping in the car
+
+                                   suspension system (FR - front right; RL - rear left; RR - rear right)
+
+4 Experimental evaluation of the impact of                        (FR) and rear left (RL) wheel suspension system;
+     shock absorber wear on vehicle braking                  · vehicle with no viscous damping in the front right
+     deceleration
+                                                                  (FR), rear left (RL), and rear right (RR) wheel
+     Since the literature data (e.g. those provided in [5])       suspension system.
+show a marked impact of the shock absorber condition              When analyzing the measurement results presented
+on the course of the vehicle braking process, a decision     in Figure 8, one can notice a moderate impact of the
+was made to re-verify this information. With this end in     viscous damping in the vehicle suspension system on the
+view, 16 experimental tests were carried out on an Opel      vehicle braking deceleration value. For the vehicle with
+Agila 1.2 Twinport car provided with ABS (car mass ca.       3 shock absorbers damaged, the braking deceleration
+1175 kg).                                                    obtained was lower by about 0.5 m/s2 to 1 m/s2 in
+                                                             comparison to that obtained by the vehicle in its nominal
+     The tests of vehicle braking from an initial speed of   condition.
+about 50 km/h were carried out on a test track section
+representing a double-track tramway crossing with rails      5 Recapitulation and conclusions
+protruding about 20 mm above the road surface. The dry
+road pavement was made of concrete slabs, which were              The conducted research confirmed the information
+unevenly laid and, in consequence, additional vibration      mentioned in the literature about the disruptive
+typical for crossings of this kind was excited.              influence of the tire pressure [1, 8] and sliding friction
+                                                             [2, 7] on results of the standard diagnostic tests using
+     The tests were carried out by a decelerometer           the EUSAMA method. The presented results also
+CL-170 and with recording the braking deceleration and       show that the other analyzed methods (the phase
+brake pedal force. This force deliberately exceeded the      angle method, HPBM) are less sensitive to the above-
+acceptable maximum so that the driver had a limited          mentioned disturbances (in particular, lower influence
+control over the course of the braking process. The          of tire pressure), but also have their drawbacks. Among
+instrument readings, subject to the final assessment,        the diagnostic shock absorber testing methods discussed
+were the average braking deceleration values,                herein, the most promising one seems to be the phase
+determined for the main phase of the braking process.        angle method. On the other hand, the poorest opinion is
+Every test was repeated three times, and 4 tests were        deserved by the half power bandwidth method (HPBM),
+carried out within each test series, during which the        which intrinsically may only be used for estimation of
+following vehicle options were examined:                     the dimensionless damping coefficient in linear systems
+· vehicle in its nominal condition;                          with one degree of freedom and with a low energy
+· vehicle with no viscous damping in the front right         dissipation level. For the reliability and, simultaneously,
+
+     (FR) wheel suspension system;
+· vehicle with no viscous damping in the front right
+
+VOLUME 23                                                    COMMUNICATIONS 3/2021
+B186                                                       GUZEK, ZDANOWICZ
+
+usefulness of the EUSAMA test to be raised, this           in the suspension system can, so to say, "substitute"
+method needs improving. A modification has already         for the viscous damping during the diagnostic shock
+been proposed by one of the co-authors of this study,      absorber test (making the test result satisfactory), it will
+but it cannot be disclosed at present because of a patent  definitely be insufficient to disperse the vertical vehicle
+application planned.                                       vibration on a road.
+
+     In all the methods, there is a problem because             The degree of shock absorber wear may have an
+the excitation applied on a diagnostic test stand is       impact on the course of the vehicle braking process,
+incompatible with the one that often occurs in the real    especially when the vehicle is provided with an ABS and
+vehicle operation conditions. While the sliding friction   is moving on an uneven ground.
+
+References
+
+[1] STANCZYK, T. L., JURECKI, R. Comparative analysis of testing methods of hydraulic shock absorbers / Analiza
+     porownawcza metod badania amortyzatorow hydraulicznych (in Polish). Zeszyty Naukowe Instytutu Pojazdow /
+     Proceedings of the Institute of Vehicles [online]. 2014, 4(100), p. 25-45 [accessed 2020-08-07]. ISSN 1642-347X.
+     Available from: http://www.zeszyty.simr.pw.edu.pl/artykuly/zn4(100)2014/025_045.pdf
+
+[2] ZDANOWICZ, P. Assessment of the condition of vehicle's shock absorbers with taking into account the dry
+     friction in the suspension system / Ocena stanu amortyzatorow pojazdu z uwzglednieniem tarcia suchego
+     w zawieszeniu (in Polish). Doctoral dissertation. Warsaw: Warsaw University of Technology, Faculty of Transport,
+     2012.
+
+[3] Recommendation for a performance test specification of an `on-car' vehicle suspension testing system. Publication
+     TS 02 76. Nottingham: European Shock Absorber Manufacturers Association, 1976.
+
+[4] CALVO, J. A., DIAZ, V., SAN ROMAN, J. L. Establishing inspection criteria to verify the dynamic behaviour
+     of the vehicle suspension system by a platform vibrating test bench. International Journal of Vehicle Design
+     [online]. 2005, 38(4), p. 290-306 [accessed 2020-08-07]. ISSN 0143-3369. Available from: https://doi.org/10.1504/
+     IJVD.2005.007623
+
+[5] CALVO, J. A., DIAZ, V., SAN ROMAN, J. L., GARCIA POZUELO, D. Influence of shock absorber wearing on
+     vehicle brake performance. International Journal of Automotive Technology [online]. 2008, 9(4), p. 467-472
+     [accessed 2020-08-07]. ISSN 1229-9138. Available from: https://doi.org/10.1007/s12239-008-0056-z
+
+[6] LOZIA, Z., ZDANOWICZ, P. Simulation assessment of the impact of inertia of the vibration plate of a diagnostic
+     suspension tester on results of the EUSAMA test of shock absorbers mounted in a vehicle. IOP Conference Series:
+     Materials Science and Engineering [online]. 2018, 421(2) [accessed 2020-08-07]. ISSN 1757-899X. Available from:
+     https://iopscience.iop.org/article/10.1088/1757-899X/421/2/022018/pdf
+
+[7] ZDANOWICZ, P. Comparative assessment of vertical vibrations of a vehicle on the road and during the EUSAMA
+     test. IOP Conference Series: Materials Science and Engineering [online]. 2018, 421(2) [accessed 2020-08-07].
+     ISSN 1757-899X. Available from: https://iopscience.iop.org/article/10.1088/1757-899X/421/2/022045/pdf
+
+[8] TSYMBEROV, A. An improved non-intrusive automotive suspension testing apparatus with means to
+     determine the condition of the dampers. SAE Technical Paper [online]. 1996, 960735 [accessed 2020-08-07].
+     ISSN 0148-7191. Available from: https://doi.org/10.4271/960735
+
+[9] 1995 ISO 8608 Mechanical vibration. Road surface profiles. Reporting of measured data.
+
+COMMUNICATIONS 3/2021                                      VOLUME 23
+
