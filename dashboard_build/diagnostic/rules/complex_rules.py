@@ -703,6 +703,58 @@ def rule_combined_drivetrain_stress(
 
 
 # ---------------------------------------------------------------------------
+# S21: Adaptive damper hydraulic dead (DTC-based detection)
+# ---------------------------------------------------------------------------
+
+_ADAPTIVE_SUSPENSION_DTCS = frozenset({
+    "C0575", "C0580", "C0585", "C0590",  # generic adaptive damper
+    "C1521", "C1525",                      # BMW EDC
+    "C1730", "C1731", "C1732", "C1733",    # common CDC/MagneRide
+})
+
+
+def rule_adaptive_damper_dead(
+    features: dict, packet, baselines, regime,
+) -> Optional[dict]:
+    """Adaptive damper hydraulically dead without electrical fault.
+
+    Detects vehicles with adaptive suspension DTCs + elevated vibration,
+    suggesting hydraulic wear masked by passing electrical self-diagnosis.
+    """
+    dtc_codes = getattr(packet, "dtc_codes", [])
+    if not dtc_codes:
+        return None
+
+    matching = [d for d in dtc_codes if d in _ADAPTIVE_SUSPENSION_DTCS]
+    if not matching:
+        return None
+
+    conditions_met = 1
+    conditions_total = 3
+
+    az_std = getattr(packet, "az_std", None)
+    if az_std is not None and float(az_std) > 1.5:
+        conditions_met += 1
+
+    az_range = features.get("az_range")
+    if az_range is not None and float(az_range) > 6.0:
+        conditions_met += 1
+
+    confidence = 30.0 + conditions_met * 15.0
+
+    return _make_result(
+        name="adaptive_damper_hydraulic_dead",
+        display="Отказ адаптивного амортизатора",
+        tier="T2",
+        confidence=confidence,
+        conditions_met=conditions_met,
+        conditions_total=conditions_total,
+        details={"matching_dtcs": matching},
+        dtc_codes=matching,
+    )
+
+
+# ---------------------------------------------------------------------------
 # Exports
 # ---------------------------------------------------------------------------
 
@@ -714,4 +766,5 @@ ALL_RULES = [
     rule_speed_vibration_resonance,
     rule_phev_battery_degradation,
     rule_combined_drivetrain_stress,
+    rule_adaptive_damper_dead,
 ]

@@ -61,21 +61,30 @@ def run_correlations(cursor, client_hash: str, minutes: int = 1440) -> dict:
     # 2. Read audio windows
     if ph == '?':
         cursor.execute("""
-            SELECT time, freq_1, amp_1, quality
+            SELECT time, freq_1, amp_1, freq_2, amp_2, freq_3, amp_3,
+                   freq_4, amp_4, freq_5, amp_5, freq_6, amp_6,
+                   freq_7, amp_7, freq_8, amp_8, freq_9, amp_9,
+                   freq_10, amp_10, quality
             FROM audio_windows
             WHERE client_hash = ?
             ORDER BY time DESC LIMIT 5000
         """, (client_hash,))
     else:
         cursor.execute("""
-            SELECT time, freq_1, amp_1, quality
+            SELECT time, freq_1, amp_1, freq_2, amp_2, freq_3, amp_3,
+                   freq_4, amp_4, freq_5, amp_5, freq_6, amp_6,
+                   freq_7, amp_7, freq_8, amp_8, freq_9, amp_9,
+                   freq_10, amp_10, quality
             FROM audio_windows
             WHERE client_hash = %s
               AND time > NOW() - INTERVAL '%s minutes'
             ORDER BY time DESC LIMIT 5000
         """, [client_hash, minutes])
 
-    audio_cols = ['time', 'freq_1', 'amp_1', 'quality']
+    audio_cols = ['time', 'freq_1', 'amp_1', 'freq_2', 'amp_2', 'freq_3', 'amp_3',
+                  'freq_4', 'amp_4', 'freq_5', 'amp_5', 'freq_6', 'amp_6',
+                  'freq_7', 'amp_7', 'freq_8', 'amp_8', 'freq_9', 'amp_9',
+                  'freq_10', 'amp_10', 'quality']
     audio_rows = [dict(zip(audio_cols, row)) for row in cursor.fetchall()]
 
     # 3. Read OBD data
