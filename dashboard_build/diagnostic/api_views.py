@@ -1,10 +1,12 @@
 """API views for the diagnostic engine.
 
-Four endpoints:
-  POST /api/v2/diagnose/          — run full diagnostic pipeline on data packets
-  GET  /api/v2/diagnose-latest/   — diagnose using latest server-side data from DB
-  POST /api/v2/feedback/          — log user feedback on a diagnosis
-  GET  /api/v2/history/           — retrieve diagnostic history (placeholder)
+Endpoints:
+  POST /api/v2/diagnose/             — run full diagnostic pipeline on data packets
+  GET  /api/v2/diagnose-latest/      — diagnose using latest server-side data from DB
+  POST /api/v2/feedback/             — log user feedback on a diagnosis
+  GET  /api/v2/history/              — retrieve diagnostic history (placeholder)
+  GET  /api/v2/correlations/         — latest correlation results for a client
+  GET  /api/diagnostics/shadow-metrics/ — S3 shadow↔EUSAMA validation metrics
 
 Designed to work both inside Django and standalone (for testing without Django).
 """
@@ -725,3 +727,288 @@ def correlations_view(request: Any) -> JsonResponse:
             return JsonResponse(results, safe=False, status=200)
     except Exception:
         return JsonResponse([], safe=False, status=200)
+
+
+# ---------------------------------------------------------------------------
+# GET /api/diagnostics/shadow-metrics/
+# ---------------------------------------------------------------------------
+
+@csrf_exempt
+def shadow_metrics_view(request: Any) -> JsonResponse:
+    """S3 validation: метрики shadow-правила против EUSAMA ground truth.
+
+    Query params:
+        rule_name     (required): имя shadow-правила
+        window_days   (optional, default 30): окно анализа
+        min_we        (optional, default 40.0): порог EUSAMA W_E для "pass"
+        parent_rule   (optional): production-правило для расчёта time lead
+
+    Returns:
+        {
+          "rule_name": str,
+          "window_days": int,
+          "trigger_count": int,
+          "unique_clients": int,
+          "mean_confidence": float,
+          "pairs_with_eusama": int,
+          "pearson_r": float | null,
+          "mean_eusama_we": float | null,
+          "precision_vs_eusama": float | null,     # TP / (TP+FP), цель ≥0.6
+          "clean_cohort_fpr": float | null,        # цель <0.15
+          "median_lead_days": float | null,        # vs parent_rule, цель ≥7
+          "promotion_ready": bool                  # все 3 критерия выполнены
+        }
+    """
+    if request.method != "GET":
+        return JsonResponse({"error": "Method not allowed"}, status=405)
+
+    rule_name = None
+    window_days = 30
+    min_we = 40.0
+    parent_rule = None
+    if hasattr(request, "GET") and request.GET is not None:
+        rule_name = request.GET.get("rule_name")
+        try:
+            window_days = int(request.GET.get("window_days") or 30)
+        except (TypeError, ValueError):
+            window_days = 30
+        try:
+            min_we = float(request.GET.get("min_we") or 40.0)
+        except (TypeError, ValueError):
+            min_we = 40.0
+        parent_rule = request.GET.get("parent_rule")
+
+    if not rule_name:
+        return JsonResponse({"error": "rule_name required"}, status=400)
+
+    # Дефолтный пустой ответ (используется при ошибках или отсутствии данных)
+    empty_response: Dict[str, Any] = {
+        "rule_name": rule_name,
+        "window_days": window_days,
+        "trigger_count": 0,
+        "unique_clients": 0,
+        "mean_confidence": None,
+        "pairs_with_eusama": 0,
+        "pearson_r": None,
+        "mean_eusama_we": None,
+        "precision_vs_eusama": None,
+        "clean_cohort_fpr": None,
+        "median_lead_days": None,
+        "promotion_ready": False,
+    }
+
+    try:
+        from .db import get_cursor
+    except Exception:
+        return JsonResponse(empty_response, status=200)
+
+    try:
+        with get_cursor() as cursor:
+            metrics = _compute_shadow_metrics(
+                cursor, rule_name, window_days, min_we, parent_rule
+            )
+            response = {**empty_response, **metrics}
+            response["promotion_ready"] = (
+                (response.get("precision_vs_eusama") or 0) >= 0.6
+                and (response.get("clean_cohort_fpr") or 1) < 0.15
+                and (
+                    parent_rule is None
+                    or (response.get("median_lead_days") or 0) >= 7
+                )
+            )
+            return JsonResponse(response, status=200)
+    except Exception as e:                            # pragma: no cover
+        logger.exception("shadow_metrics_view failed: %s", e)
+        return JsonResponse(empty_response, status=200)
+
+
+def _compute_shadow_metrics(
+    cursor: Any,
+    rule_name: str,
+    window_days: int,
+    min_we: float,
+    parent_rule: Optional[str],
+) -> Dict[str, Any]:
+    """Вычисляет shadow-метрики через cursor.
+
+    Детектирует PostgreSQL vs SQLite по module-name (как в correlations_view).
+    SQLite используется в тестах и не поддерживает INTERVAL / corr / percentile,
+    поэтому корреляция и медиана считаются в Python.
+    """
+    module_name = type(cursor).__module__
+    is_pg = "sqlite" not in module_name
+    ph = "%s" if is_pg else "?"
+
+    metrics: Dict[str, Any] = {}
+
+    # [1] Триггер-статистика
+    if is_pg:
+        cursor.execute(
+            f"""
+            SELECT COUNT(*), COUNT(DISTINCT client_hash), AVG(confidence)
+            FROM shadow_rule_log
+            WHERE rule_name = {ph}
+              AND time > NOW() - INTERVAL '{window_days} days'
+            """,
+            (rule_name,),
+        )
+    else:
+        cursor.execute(
+            f"""
+            SELECT COUNT(*), COUNT(DISTINCT client_hash), AVG(confidence)
+            FROM shadow_rule_log
+            WHERE rule_name = {ph}
+            """,
+            (rule_name,),
+        )
+    row = cursor.fetchone() or (0, 0, None)
+    metrics["trigger_count"] = int(row[0] or 0)
+    metrics["unique_clients"] = int(row[1] or 0)
+    metrics["mean_confidence"] = (
+        float(row[2]) if row[2] is not None else None
+    )
+
+    if metrics["trigger_count"] == 0:
+        return metrics
+
+    # [2] Pairs: shadow_max_conf × eusama_min_we (per client_hash)
+    cursor.execute(
+        f"""
+        SELECT client_hash, MAX(confidence)
+        FROM shadow_rule_log
+        WHERE rule_name = {ph}
+        GROUP BY client_hash
+        """,
+        (rule_name,),
+    )
+    shadow_by_client = {r[0]: float(r[1] or 0) for r in cursor.fetchall()}
+
+    cursor.execute(
+        """
+        SELECT client_hash,
+               front_left, front_right, rear_left, rear_right
+        FROM eusama_tests
+        """
+    )
+    eusama_rows = cursor.fetchall()
+    # Для каждого клиента — минимальное WE среди 4 колёс и список всех тестов
+    eusama_by_client: Dict[str, list] = {}
+    for r in eusama_rows:
+        ch = r[0]
+        we_values = [x for x in r[1:5] if x is not None]
+        if not we_values:
+            continue
+        eusama_by_client.setdefault(ch, []).append(min(we_values))
+
+    pairs = []
+    for ch, conf in shadow_by_client.items():
+        eu_mins = eusama_by_client.get(ch)
+        if not eu_mins:
+            continue
+        pairs.append((conf, min(eu_mins)))  # худший EUSAMA за всё время
+
+    metrics["pairs_with_eusama"] = len(pairs)
+
+    if pairs:
+        xs = [p[0] for p in pairs]
+        ys = [p[1] for p in pairs]
+        metrics["pearson_r"] = _pearson_r(xs, ys)
+        metrics["mean_eusama_we"] = sum(ys) / len(ys)
+
+        # [3] Precision vs EUSAMA ground truth
+        tp = sum(1 for _, we in pairs if we < min_we)
+        fp = sum(1 for _, we in pairs if we >= min_we)
+        denom = tp + fp
+        metrics["precision_vs_eusama"] = tp / denom if denom > 0 else None
+
+    # [4] FPR в «чистом» автопарке (min_we по ВСЕМ тестам клиента ≥ порога)
+    clean_clients = {
+        ch for ch, mins in eusama_by_client.items() if min(mins) >= min_we
+    }
+    fired_clean = sum(
+        1 for ch in clean_clients if ch in shadow_by_client
+    )
+    if clean_clients:
+        metrics["clean_cohort_fpr"] = fired_clean / len(clean_clients)
+
+    # [5] Time lead vs parent_rule (требует diagnosis_results table)
+    if parent_rule:
+        try:
+            cursor.execute(
+                f"""
+                SELECT client_hash, MIN(time)
+                FROM shadow_rule_log
+                WHERE rule_name = {ph}
+                GROUP BY client_hash
+                """,
+                (rule_name,),
+            )
+            shadow_first = {r[0]: r[1] for r in cursor.fetchall()}
+
+            cursor.execute(
+                f"""
+                SELECT client_hash, MIN(time)
+                FROM diagnosis_results
+                WHERE rule_name = {ph}
+                GROUP BY client_hash
+                """,
+                (parent_rule,),
+            )
+            prod_first = {r[0]: r[1] for r in cursor.fetchall()}
+
+            leads: list = []
+            for ch, shadow_t in shadow_first.items():
+                prod_t = prod_first.get(ch)
+                if prod_t and shadow_t and prod_t > shadow_t:
+                    days = _iso_days_between(shadow_t, prod_t)
+                    if days is not None:
+                        leads.append(days)
+
+            if leads:
+                leads.sort()
+                mid = len(leads) // 2
+                metrics["median_lead_days"] = (
+                    leads[mid]
+                    if len(leads) % 2 == 1
+                    else (leads[mid - 1] + leads[mid]) / 2
+                )
+        except Exception:
+            pass  # parent_rule/diagnosis_results может не существовать
+
+    return metrics
+
+
+def _pearson_r(xs: list, ys: list) -> Optional[float]:
+    """Pearson correlation. Returns None if undefined."""
+    n = len(xs)
+    if n < 2:
+        return None
+    mx = sum(xs) / n
+    my = sum(ys) / n
+    num = sum((x - mx) * (y - my) for x, y in zip(xs, ys))
+    dx2 = sum((x - mx) ** 2 for x in xs)
+    dy2 = sum((y - my) ** 2 for y in ys)
+    if dx2 == 0 or dy2 == 0:
+        return None
+    return num / (dx2 * dy2) ** 0.5
+
+
+def _iso_days_between(start: Any, end: Any) -> Optional[float]:
+    """Days between two ISO-8601 timestamp strings or datetime objects."""
+    from datetime import datetime
+
+    def _parse(t: Any) -> Optional[datetime]:
+        if isinstance(t, datetime):
+            return t
+        if isinstance(t, str):
+            try:
+                return datetime.fromisoformat(t.replace("Z", "+00:00"))
+            except ValueError:
+                return None
+        return None
+
+    s = _parse(start)
+    e = _parse(end)
+    if s is None or e is None:
+        return None
+    return (e - s).total_seconds() / 86400.0
