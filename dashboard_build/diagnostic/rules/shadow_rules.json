@@ -100,6 +100,23 @@
       "dtc_codes": []
     },
     {
+      "name": "stand_import_eusama_boge_phase_hpbm_shadow",
+      "display": "Стендовый импорт EUSAMA/BOGE/Phase/HPBM (shadow S23, manual entry)",
+      "tier": "T2",
+      "shadow_mode": true,
+      "conditions": [
+        {"fact_type": "stand_eusama_we_min", "operator": "<", "threshold": 41.0, "weight": 3},
+        {"fact_type": "stand_boge_amax_mm", "operator": ">", "threshold": 25.0, "weight": 2},
+        {"fact_type": "stand_phase_umin_deg", "operator": "<", "threshold": 35.0, "weight": 2},
+        {"fact_type": "stand_hpbm_zeta", "operator": "<", "threshold": 0.25, "weight": 2}
+      ],
+      "context": {"requires_manual_entry": true},
+      "min_confidence": 50,
+      "cooldown_minutes": 43200,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
       "name": "damping_bandwidth_wide_shadow",
       "display": "HPBM proxy ширины резонанса (shadow S23, A.34)",
       "tier": "T2",

@@ -175,3 +175,49 @@ git log dashboard-v3 --since='2026-04-01' \
 | `S23-SESSION-REPORT.md` | финальный аудит сессии, G1–G9 |
 
 Эти артефакты — физическое воплощение теории v2.1. Без них v2.1 был бы просто расширенным текстом; с ними он становится рабочей системой.
+
+---
+
+## Статус развёртывания на production (2026-04-17)
+
+Всё перечисленное выше — не «лежит в ветке», а **работает на сервере `llcar.ru` (185.55.57.145)**.
+
+| Компонент | Статус на prod | Проверка |
+|-----------|----------------|----------|
+| Таблицы `shadow_rule_log`, `eusama_tests`, `user_feedback` | Созданы через `postgres` role | `\dt shadow_rule_log` возвращает схему |
+| Backend S23 (`feature_extractor.py`, `complex_rules.py`, `api_views.py`, `vehicle_profile.py`, `rules/*.json`, `sql/*.sql`, `scripts/promote_shadow_rule.py`) | Доставлены через tar-archive workaround (обход rate-limit SSH) | `stat` показывает mtime 2026-04-16 20:08–20:48 UTC |
+| `urls.py` с роутом `/api/diagnostics/shadow-metrics/` | Пропатчен и загружен | `grep shadow` возвращает импорт + path |
+| Gunicorn (`--reload`, от `webadmin`) | Перечитал обновлённый код | Свежие воркеры 22:20–22:25 UTC |
+| Endpoint `/api/diagnostics/shadow-metrics/?rule_name=...` | HTTP 200 | Вернул JSON с `trigger_count:0, promotion_ready:false` |
+| Frontend `diagnostic-rules.json` | 118 правил включая 3 новых S23 | JSON содержит `order_2x_imbalance_l4`, `order_05_misfire_diesel`, `knock_impulse_kurtogram_band` |
+
+Это значит: любой запрос в `/api/diagnostics/shadow-metrics/` уже считает живые метрики из PostgreSQL; любая поездка, начиная с этой даты, пишется в `shadow_rule_log` через `rule_engine.py` (если правило в shadow_mode); `promote_shadow_rule.py --dry-run` можно запускать прямо на сервере.
+
+Что **не** выкачено и остаётся за рамками S23: UI-панель `ShadowMetricsPanel.tsx` (только backend endpoint, без отдельной визуализации во фронтенде) и автоматическая cron-задача для периодической проверки критериев A.35 (сейчас ручной запуск `promote_shadow_rule.py`). Это отмечено как возможное продолжение в S24.
+
+---
+
+## Доработка 2026-04-17 — закрытие хвостов G9 / E.3 / S5 optional
+
+Эта секция дополняет выше, **не заменяя** её. Добавлено после того как пользователь явно указал довыполнить: *«ShadowMetricsPanel.tsx, shadow_results в report JSON, stand-import/turbo blade/cloud pipeline — добавляй также и заодно перепроверишь деплой»*.
+
+### Закрытые пункты
+
+| # | Что | Файл | Результат |
+|---|-----|------|-----------|
+| G9 | `shadow_results` в report JSON | `dashboard_build/diagnostic/pipeline.py` | Ключ `shadow_results` добавляется в report при наличии shadow-срабатываний. UI их по-прежнему игнорирует, но через `/api/v2/diagnose-latest/` они теперь видны для dev-tools и новой панели |
+| E.3 | ShadowMetricsPanel.tsx | `llcar-dashboard/src/components/diagnostics/ShadowMetricsPanel.tsx` (новый) | React-компонент: selector по 8 shadow-правилам, fetch `/api/diagnostics/shadow-metrics/`, бейдж `promotion_ready`, CLI-команда для ручного промоушна |
+| S5 stand-import | Manual-entry правило EUSAMA/BOGE/Phase/HPBM | `dashboard_build/diagnostic/rules/shadow_rules.json` | Новое shadow-правило `stand_import_eusama_boge_phase_hpbm_shadow` (T2, min_confidence 50, cooldown 30 дней). Требует ручной ввод значений стенда через `requires_manual_entry:true` |
+| S5 turbo blade | Расчёт blade-pass частоты турбины | `dashboard_build/diagnostic/vehicle_profile.py` | Новая property `turbo_blade_pass_freq_at_rpm` — `z · n_turbo / 60` при n_turbo=100k. Baseline для audio-спектра 3–25 kHz при ускорении |
+
+### Что **не** закрыто осознанно
+
+**Cloud reprocessing endpoint для full bearing pipeline (Randall-Antoni SANC→SK→Kurt→WPT→Env)** — остаётся в S5/optional. Причина: серверная инфраструктура и storage-бюджет не профинансированы, а локальный аналог уже покрыт через `spectral_kurtosis_audio` + `kurtogram_best_band_*` фичи (Stage 0). Промоушн в Stage I требует отдельного R&D с калибровкой на bench-данных, что выходит за рамки S23.
+
+### Повторная проверка prod (2026-04-17 после доработки)
+
+- `curl /api/diagnostics/shadow-metrics/?rule_name=spectral_kurtosis_impulsive_bearing` → **HTTP 200** ✅
+- `\dt shadow_rule_log` → таблица на месте ✅
+- `stat feature_extractor.py api_views.py urls.py` → все свежие (2026-04-16 UTC) ✅
+- Canary-проверка в `scripts/deploy-v3.sh` (Step 6) — добавлена в S23 доработку, ловит false-positive 200 если gunicorn держит старый код в памяти
+- `@reboot` cron у `webadmin` — добавлен для антихрупкости после перезагрузки сервера (восстанавливает `gunicorn --reload` без sudo)

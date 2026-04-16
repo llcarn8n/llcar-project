@@ -264,6 +264,10 @@ class DiagnosticPipeline:
             from .db_writers import write_shadow_log
             write_shadow_log(db_cursor, client_hash, shadow_results, features)
 
+        # S23 G9: expose shadow_results в report для dev/валидации (не отображается UI,
+        # доступно через /api/v2/diagnose-latest/ для ShadowMetricsPanel и аналитики).
+        _shadow_attach = shadow_results
+
         # Step 4: Build diagnosis report (production rules only)
         report = self._diagnosis_builder.build_report(
             pipeline_result=pipeline_result,
@@ -306,6 +310,13 @@ class DiagnosticPipeline:
                 db_cursor, client_hash, report, features, regime_str,
                 history=history,
             )
+
+        # S23 G9: attach shadow_results (production UI скрывает, но доступно через API).
+        if _shadow_attach:
+            report["shadow_results"] = [
+                {k: v for k, v in sr.items() if k != "features_snapshot"}
+                for sr in _shadow_attach
+            ]
 
         return report
 

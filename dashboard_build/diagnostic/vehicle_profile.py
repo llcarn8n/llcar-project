@@ -73,6 +73,18 @@ class VehicleProfile:
     # ------------------------------------------------------------------
 
     @property
+    def turbo_blade_pass_freq_at_rpm(self) -> Optional[float]:
+        """Blade-pass частота турбины при n_turbo ≈ 100 000 об/мин (номинал для малой GT).
+
+        f_blade = z · n_turbo / 60. Без реальных оборотов турбины возвращает номинал
+        z · 1667 Гц (n_turbo=100k). Используется как baseline для audio-спектра в
+        диапазоне 3–25 kHz при ускорении. Подробнее — A.31.
+        """
+        if self.turbo_blade_count is None or self.turbo_blade_count <= 0:
+            return None
+        return round(self.turbo_blade_count * 100000.0 / 60.0, 1)
+
+    @property
     def knock_expected_freq_from_bore(self) -> Optional[float]:
         """Ожидаемая частота первой окружной (1,0) моды детонации [Hz].
 

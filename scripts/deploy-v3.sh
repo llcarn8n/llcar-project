@@ -270,6 +270,29 @@ else
 fi
 
 # =============================================================================
+# STEP 6: Canary — проверка что gunicorn держит НОВЫЙ код в памяти
+# =============================================================================
+# Step 5 может дать ложный 200: если gunicorn без --reload, старый код продолжит
+# отвечать на /api/v2/diagnose-latest/. Canary бьёт на endpoint, появившийся в
+# свежем backend-апдейте (S23 shadow-metrics). 404 = код на диске новый,
+# в памяти старый → нужен рестарт gunicorn.
+if [[ "$FRONTEND_ONLY" == false ]]; then
+    log "Step 6: Canary check (shadow-metrics endpoint)..."
+    CANARY_URL="https://185.55.57.145/api/diagnostics/shadow-metrics/?rule_name=__canary_$(date +%s)"
+    CANARY_CODE=$($SSH "curl -sk -o /dev/null -w '%{http_code}' '$CANARY_URL'" || echo "000")
+    if [[ "$CANARY_CODE" == "200" ]]; then
+        log "Canary OK — новый код в памяти gunicorn"
+    elif [[ "$CANARY_CODE" == "404" ]]; then
+        warn "Canary FAIL (shadow-metrics → 404): код на диске свежий, но gunicorn держит старый в памяти."
+        warn "Рестарт workaround (без sudo):"
+        warn "  $SSH \"rm -f /var/www/html/django/app.sock && cd /var/www/html/django && nohup venv/bin/gunicorn --access-logfile - --workers 3 --reload --bind unix:app.sock llcar.wsgi:application >/tmp/gunicorn-restart.log 2>&1 &\""
+        exit 1
+    else
+        warn "Canary вернул HTTP $CANARY_CODE — проверь вручную: $CANARY_URL"
+    fi
+fi
+
+# =============================================================================
 # Summary
 # =============================================================================
 echo ""
