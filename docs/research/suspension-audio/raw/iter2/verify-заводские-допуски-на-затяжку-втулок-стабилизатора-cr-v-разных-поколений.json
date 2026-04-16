@@ -1,0 +1,23 @@
+{
+  "topic_slug": "заводские-допуски-на-затяжку-втулок-стабилизатора-cr-v-разных-поколений",
+  "iter": 2,
+  "verified_at": "2026-04-15T20:41:20.045322+00:00",
+  "sources": {
+    "Honda CR-V 2002-2006 Service Manual (P/N 61S2003), Section 18 (Suspension), стр. 18-35": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Honda CR-V 2007-2011 Service Manual (P/N 61SR000), Section 18 (Suspension)": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "drive2.ru — тема «Замена втулок стабилизатора CR-V RD4 — моменты и нюансы»": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "crvownersclub.com — thread «Sway bar bushing torque specs all generations»": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

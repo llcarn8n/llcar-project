@@ -1,0 +1,23 @@
+{
+  "topic_slug": "leaf-springs-commercial",
+  "iter": 1,
+  "verified_at": "2026-04-15T20:11:16.024258+00:00",
+  "sources": {
+    "Равкин В.М. «Рессоры автомобилестроения» ISBN 978-5-903238-12-3": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "drive2.ru, тема «Скрип рессор УАЗ Патриот — решение проблемы», многочисленные отчёты": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "УАЗ, Руководство по ремонту УАЗ-3163 Патриот, раздел «Задняя подвеска», проверка рессор": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ГОСТ Р 52302-2004 «Транспортные средства. Управляемость и устойчивость. Технические требования. Методы испытаний»": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

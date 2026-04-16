@@ -1,0 +1,211 @@
+{
+  "_meta": {
+    "generated": "2026-04-16",
+    "source": "S20 research waves 1-4 + production-rules-crosscheck.md",
+    "branch": "research-suspension-audio",
+    "schema_compatible_with": "llcar-dashboard/public/data/diagnostic-rules.json (structure: {rules: [{id, title, conditions, tier, dtc, type}]})",
+    "integration": "Append rules array to threshold_rules.json (skipping those already marked replaces_existing — remove the older version first)",
+    "total_new_rules": 17,
+    "replaces_existing_count": 6,
+    "fully_new_count": 11
+  },
+  "rules": [
+    {
+      "id": "eusama_test_gate",
+      "title": "EUSAMA pre-test conditions gate",
+      "conditions": "tire_pressure_all_wheels_spec_ok = true, shock_absorbers_warmed_up = true, ambient_temp > 10, vehicle_load_within_spec = true",
+      "tier": "T3",
+      "dtc": [],
+      "type": "rule",
+      "_category": "gate",
+      "_source": "https://www.researchgate.net/publication/271835810_Testing_the_influence_of_car_load_and_pressure_in_tyres_on_the_value_of_damping_of_shock_absorbers_specified_with_the_use_of_the_Eusama_method — tire pressure uncontrolled → +40% EV error",
+      "_action": "Blocks EUSAMA-based downstream rules if preconditions fail"
+    },
+    {
+      "id": "road_class_iso8608_normalization",
+      "title": "ISO 8608 road class filter",
+      "conditions": "iso8608_road_class <= B",
+      "tier": "T3",
+      "dtc": [],
+      "type": "rule",
+      "_category": "gate",
+      "_source": "https://www.iso.org/standard/71202.html — PSD-based classification A-H",
+      "_action": "Enables emerging rules at class A-B (low noise floor). Blocks high-confidence diagnoses at class D+."
+    },
+    {
+      "id": "audio_suspension_source_validation",
+      "title": "Audio-accel time-lag validates suspension origin",
+      "conditions": "audio_accel_lag_ms between 5,15, az_std > 1.0",
+      "tier": "T3",
+      "dtc": [],
+      "type": "rule",
+      "_category": "gate",
+      "_source": "Physics: sound speed 340 m/s, suspension-to-cabin ≈ 2-3 m → 6-9 ms normal. Transmission ≈ 15-20 ms.",
+      "_action": "Filter: excludes transmission/engine noise from suspension diagnostics"
+    },
+    {
+      "id": "shock_absorber_early_wear_corrected",
+      "title": "Износ амортизатора — ранняя стадия (corrected thresholds)",
+      "conditions": "az_std > 1.0, az_range > 3.0, damping_decrement_cycles > 2.5, speed > 40",
+      "tier": "T2",
+      "dtc": [],
+      "type": "rule",
+      "_category": "upgrade",
+      "_replaces": "worn_suspension (current thresholds 3.0/4.0/8.0 catch only catastrophic)",
+      "_source": "https://www.matec-conferences.org/articles/matecconf/pdf/2018/93/matecconf_bultrans2018_02005.pdf — baseline healthy az_std 0.05-0.15g, https://www.mdpi.com/2076-3417/14/1/127 — durability 500K km data"
+    },
+    {
+      "id": "wheel_imbalance_speed_resonance",
+      "title": "Дисбаланс колёс — резонансный диапазон 80-120 km/h",
+      "conditions": "az_std z> 2, total_vibration > 3, speed between 80,120, vibration_freq_equals_wheel_rpm_1x = true",
+      "tier": "T2",
+      "dtc": [],
+      "type": "rule",
+      "_category": "upgrade",
+      "_replaces": "wheel_imbalance (no upper speed bound, no freq check)",
+      "_source": "https://counteractbalancing.com/2023/07/17/understanding-tire-vibrations-at-highway-speeds/ — force ∝ speed², resonance 55-75 mph",
+      "_suv_variant": "speed between 70,95"
+    },
+    {
+      "id": "engine_mount_harmonic_order",
+      "title": "Износ опор двигателя — order-detection (harmonics 1×/2×/3×/4× RPM)",
+      "conditions": "rpm_harmonic_matches >= 3, rpm > 1500, az_std z> 2",
+      "tier": "T2",
+      "dtc": [],
+      "type": "rule",
+      "_category": "upgrade",
+      "_replaces": "engine_mount_wear (no harmonic detection)",
+      "_source": "https://cdn.skfmediahub.skf.com/api/public/0901d1968024acef/pdf_preview_medium/0901d1968024acef_pdf_preview_medium.pdf — SKF CM5003, harmonic family detection",
+      "_physics": "Дефектная опора → engine firing harmonics проходят в кузов без damping. Match ≥3 harmonics filters out dynamic false-positives."
+    },
+    {
+      "id": "wheel_bearing_bpfo_envelope",
+      "title": "Ступичный подшипник — BPFO через envelope spectrum",
+      "conditions": "envelope_bpfo_harmonic_matches >= 5, envelope_amplitude_threshold_exceeded = true",
+      "tier": "T2",
+      "dtc": [],
+      "type": "rule",
+      "_category": "upgrade",
+      "_replaces": "bearing_wear (ловит только Stage IV)",
+      "_formula": "BPFO = (N/2) × (1 - Bd/Pd × cos α) × wheel_rpm/60",
+      "_source": "https://www.sae.org/publications/technical-papers/content/2014-01-0914/ , https://cdn.skfmediahub.skf.com/api/public/0901d1968024acef/pdf_preview_medium/0901d1968024acef_pdf_preview_medium.pdf , https://www.bkvibro.com/fileadmin/mediapool/Internet/Application_Notes/detecting_faulty_rolling_element_bearings.pdf",
+      "_requires": "Bearing geometry from OEM spec (N, Bd, Pd, α) or SKF database"
+    },
+    {
+      "id": "knock_impulse_kurtosis",
+      "title": "Детонация двигателя — kurtosis + короткий impulse",
+      "conditions": "audio_kurtosis > 6, dominant_freq between 5000,8000, impulse_duration_ms < 10",
+      "tier": "T1",
+      "dtc": ["P0324", "P0325", "P0326", "P0327", "P0328"],
+      "type": "rule",
+      "_category": "upgrade",
+      "_replaces": "knock_detonation (без kurtosis — не различает от glaze squeal)",
+      "_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11174823/ , https://dynamox.net/en/blog/what-is-fft-and-how-to-interpret-it-in-industrial-vibration-analysis",
+      "_physics": "True knock = impulse <10ms + kurtosis >6. Glaze squeal = tonal continuous, kurtosis <3."
+    },
+    {
+      "id": "brake_dtv_developed_120kmh",
+      "title": "Brake DTV развитый — peak at 120 km/h (900 rpm wheel)",
+      "conditions": "az_std z> 2, speed between 100,130, brake_applied = true",
+      "tier": "T2",
+      "dtc": [],
+      "type": "rule",
+      "_category": "upgrade_complement",
+      "_complements": "brake_vibration (20-80 km/h window) — новое правило ловит high-speed stage",
+      "_source": "https://www.sae.org/publications/technical-papers/content/2019-01-2110/ , https://www.powerstop.com/resources/pulsing-vibrating-brake-pedal-dtv/ , https://www.brakeacademy.org/post/operational-dtv-measurements",
+      "_physics": "DTV 20μm → pedal pulsation threshold. Peak transmitted at 900 rpm wheel = 120 km/h."
+    },
+    {
+      "id": "ball_joint_early_wear",
+      "title": "Шаровая опора — ранний износ (AZ/AX ratio)",
+      "conditions": "vertical_lateral_ratio > 1.8, speed between 60,80, az_std < 0.5, iso8608_road_class <= B",
+      "tier": "T2",
+      "dtc": [],
+      "type": "rule",
+      "_category": "new",
+      "_source": "https://www.moogparts.com/technical/bulletins/tech-tips/how-to-inspect-ball-joints-for-looseness.html , https://www.matec-conferences.org/articles/matecconf/pdf/2018/93/matecconf_bultrans2018_02005.pdf , SAE J1367:2012",
+      "_physics": "Люфт шаровой → preferential vertical impulses (Z-axis). AX stays baseline, ratio grows above 1.8. Correlates с axial play ≥1.5 mm ДО pry-test detection."
+    },
+    {
+      "id": "ball_joint_measured_play",
+      "title": "Шаровая — измеренный люфт превышает допуск",
+      "conditions": "measured_axial_play_mm > 3.2",
+      "tier": "T1",
+      "dtc": [],
+      "type": "rule",
+      "_category": "new",
+      "_source": "https://www.moogparts.com/technical/bulletins/tech-tips/how-to-inspect-ball-joints-for-looseness.html , https://www.brakeandfrontend.com/measuring-ball-joint-wear/",
+      "_requires": "Manual input from dial indicator or pry test",
+      "_action": "Immediate replacement — safety-critical"
+    },
+    {
+      "id": "bushing_wear_120_180hz",
+      "title": "Износ сайлентблоков (полоса 120-180 Hz)",
+      "conditions": "audio_energy_band_120_180hz_ratio > 0.15, speed between 40,60",
+      "tier": "T2",
+      "dtc": [],
+      "type": "rule",
+      "_category": "new",
+      "_source": "https://www.matec-conferences.org/articles/matecconf/pdf/2018/93/matecconf_bultrans2018_02005.pdf — suspension vibration 50-200 Hz, эмпирический маркер 120-180 Hz",
+      "_brand_variations": "VAG MQB: 120-180 Hz; Kia/Hyundai: 80-140 Hz (смещена); Toyota TNGA: baseline AZ/AX выше"
+    },
+    {
+      "id": "wheel_bearing_inner_race_sidebands",
+      "title": "Ступичный подшипник — внутреннее кольцо (sidebands ±1× shaft)",
+      "conditions": "envelope_bpfi_harmonic_matches >= 5, sideband_1x_shaft_detected = true",
+      "tier": "T2",
+      "dtc": [],
+      "type": "rule",
+      "_category": "new",
+      "_source": "https://acoem.us/blog/condition-monitoring/do-you-know-the-4-stages-of-bearing-failure/ , https://www.mdpi.com/1424-8220/23/9/4338",
+      "_physics": "Inner race дефект: 8-10 BPFI harmonics, каждая с sidebands ±1× shaft speed. Defining signature — outer race такого не даёт."
+    },
+    {
+      "id": "crest_factor_bearing_alarm",
+      "title": "Подшипник — Crest Factor alarm",
+      "conditions": "crest_factor_z > 7",
+      "tier": "T2",
+      "dtc": [],
+      "type": "rule",
+      "_category": "new",
+      "_source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11174823/ , https://infosys.beckhoff.com/content/1033/tf3600_tc3_condition_monitoring/1162493835.html",
+      "_thresholds": "baseline healthy 4.8 dB, damaged 11.4 dB, alarm midpoint 7 dB",
+      "_complements": "high_crest_vertical (threshold 5 = warning; 7 = alarm)"
+    },
+    {
+      "id": "adaptive_damper_hydraulic_dead",
+      "title": "Адаптивный амортизатор — гидравлически мёртв БЕЗ electrical fault",
+      "conditions": "eusama_percent < 30, has_adaptive_dtc = false, has_adaptive_suspension = true",
+      "tier": "T2",
+      "dtc": [],
+      "type": "rule",
+      "_category": "new",
+      "_applicable_systems": ["EDC BMW", "CDC ZF", "MagneRide GM", "AirMatic MB"],
+      "_excluded_dtc": ["C0575", "C0580", "C0585", "C0590", "C1521", "C1525"],
+      "_source": "https://aftermarket.zf.com/app/controller/ti/download/Binary/d94e3ef9-d750-11ec-a2ea-00505690da53.pdf , https://www.recambiosyaccesoriosbmw.com/en/blogs/bmw-mini-and-motorrad-universe-blog/suspension-adaptativa-bmw-edc-ddc-fallos",
+      "_physics": "Electrical self-diagnosis не ловит hydraulic wear (масло потеряло свойства, газ ушёл, клапан изношен). Катушка ещё работает, амортизатор уже нет."
+    },
+    {
+      "id": "brake_judder_btv_zero_dtv",
+      "title": "Brake Judder через BTV (без DTV)",
+      "conditions": "steering_wheel_lateral_accel_rms > 0.5, dtv_measured_micron < 15, brake_pressure_bar between 30,50",
+      "tier": "T2",
+      "dtc": [],
+      "type": "rule",
+      "_category": "new",
+      "_source": "https://saemobilus.sae.org/papers/study-relationship-dtv-btv-bpv-judder-type-vibration-disc-brake-systems-2010-01-1694",
+      "_physics": "BTV (Brake Torque Variation) — pad-disc friction coefficient нестабилен, slip-and-catch. Даёт judder без thickness variation."
+    },
+    {
+      "id": "strut_mount_bearing_turn",
+      "title": "Опорный подшипник стойки — скрип при повороте",
+      "conditions": "audio_energy_band_500_3000hz_during_turn > 0.3, steering_angle_abs > 30, speed < 10",
+      "tier": "T2",
+      "dtc": [],
+      "type": "rule",
+      "_category": "new",
+      "_source": "https://zautoservice.com/blog/the-noises-bad-struts-make-diagnosis-and-fixes/ , https://www.youcanic.com/symptoms-bad-strut-mount/ , https://www.monroe.com/technical-resources/tech-tips/diagnosing-noise-with-new-shock-struts.html",
+      "_diagnostic_test": "Clock-to-clock turn at standstill"
+    }
+  ]
+}

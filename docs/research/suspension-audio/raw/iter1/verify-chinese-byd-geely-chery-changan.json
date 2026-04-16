@@ -1,0 +1,23 @@
+{
+  "topic_slug": "chinese-byd-geely-chery-changan",
+  "iter": 1,
+  "verified_at": "2026-04-15T20:20:38.397414+00:00",
+  "sources": {
+    "drive2.ru — отзывы владельцев Chery Tiggo 7 Pro, Tiggo 8 Pro по тегу 'подвеска'": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "drom.ru — раздел отзывов Geely Coolray/Atlas": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "GarageJournal forum — 'Chinese car suspension quality' threads": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Reimpell J., Stoll H., Betzler J. 'The Automotive Chassis: Engineering Principles', ISBN 978-076800675, Butterworth-Heinemann": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

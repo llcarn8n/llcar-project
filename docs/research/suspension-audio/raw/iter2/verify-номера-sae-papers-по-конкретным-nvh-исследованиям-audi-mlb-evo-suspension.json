@@ -1,0 +1,19 @@
+{
+  "topic_slug": "номера-sae-papers-по-конкретным-nvh-исследованиям-audi-mlb-evo-suspension",
+  "iter": 2,
+  "verified_at": "2026-04-15T20:41:20.048340+00:00",
+  "sources": {
+    "10.4271/2014-01-0013": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "10.4271/2017-01-1856": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "SAE 2022-01-0710": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

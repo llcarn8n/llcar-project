@@ -133,6 +133,7 @@ class DiagnosticRule:
     situation_id: Optional[str] = None
     dtc_codes: List[str] = field(default_factory=list)
     context: Optional[RuleContext] = None
+    shadow_mode: bool = False
 
 
 # ---------------------------------------------------------------------------
@@ -168,12 +169,17 @@ class RuleEngine:
         json_path = _RULES_DIR / "threshold_rules.json"
         if json_path.exists():
             self.load_json_rules(json_path)
+        # Shadow rules — evaluated but not surfaced to user
+        shadow_path = _RULES_DIR / "shadow_rules.json"
+        if shadow_path.exists():
+            self.load_json_rules(shadow_path, force_shadow=True)
 
-    def load_json_rules(self, path: Union[str, Path]) -> None:
+    def load_json_rules(self, path: Union[str, Path], force_shadow: bool = False) -> None:
         """Load rules from a JSON file and append to self.rules.
 
         Args:
             path: Path to a JSON file with ``{"rules": [...]}`` structure.
+            force_shadow: If True, all loaded rules get shadow_mode=True.
         """
         path = Path(path)
         with open(path, "r", encoding="utf-8") as f:
@@ -210,6 +216,7 @@ class RuleEngine:
                 situation_id=rd.get("situation_id"),
                 dtc_codes=rd.get("dtc_codes", []),
                 context=rule_context,
+                shadow_mode=force_shadow or rd.get("shadow_mode", False),
             )
             self.rules.append(rule)
 
@@ -542,8 +549,8 @@ class RuleEngine:
         packet: NormalizedPacket,
         escalation_manager: Optional[Any] = None,
         client_hash: Optional[str] = None,
-    ) -> List[Dict[str, Any]]:
-        """Evaluate all loaded rules, return results sorted by confidence desc.
+    ) -> Dict[str, List[Dict[str, Any]]]:
+        """Evaluate all loaded rules, return production and shadow results.
 
         Args:
             facts:      List of Fact objects.
@@ -558,25 +565,32 @@ class RuleEngine:
             client_hash: Optional client identifier used with escalation_manager.
 
         Returns:
-            List of result dicts, sorted by confidence descending.
+            Dict with "results" (production) and "shadow_results" lists,
+            each sorted by confidence descending.
         """
-        results = []
+        all_results = []
         for rule in self.rules:
             result = self.evaluate_rule(
                 rule, facts, features, baselines, regime, packet,
                 escalation_manager=escalation_manager,
                 client_hash=client_hash,
             )
-            results.append(result)
+            all_results.append(result)
 
         # Run Python rules (complex logic beyond JSON thresholds)
         python_results = self._run_python_rules(
             facts, features, baselines, regime, packet,
         )
-        results.extend(python_results)
+        for pr in python_results:
+            pr.setdefault("shadow_mode", False)
+        all_results.extend(python_results)
 
-        results.sort(key=lambda r: r["confidence"], reverse=True)
-        return results
+        production = [r for r in all_results if not r.get("shadow_mode", False)]
+        shadow = [r for r in all_results if r.get("shadow_mode", False)]
+
+        production.sort(key=lambda r: r["confidence"], reverse=True)
+        shadow.sort(key=lambda r: r["confidence"], reverse=True)
+        return {"results": production, "shadow_results": shadow}
 
     # ------------------------------------------------------------------
     # Helpers
@@ -609,4 +623,5 @@ class RuleEngine:
             "conditions_total": conditions_total,
             "situation_id": rule.situation_id,
             "dtc_codes": rule.dtc_codes,
+            "shadow_mode": rule.shadow_mode,
         }

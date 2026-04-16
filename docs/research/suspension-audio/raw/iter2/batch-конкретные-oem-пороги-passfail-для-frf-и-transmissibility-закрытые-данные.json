@@ -1,0 +1,200 @@
+{
+  "topic_slug": "конкретные-oem-пороги-passfail-для-frf-и-transmissibility-закрытые-данные",
+  "topic_id": 1003,
+  "iter": 2,
+  "timestamp": "2026-04-15T20:40:49.711173+00:00",
+  "elapsed_sec": 91.86,
+  "usage": {
+    "completion_tokens": 3077,
+    "completion_tokens_details": {
+      "reasoning_tokens": 713
+    },
+    "prompt_tokens": 833,
+    "prompt_tokens_details": {
+      "cached_tokens": 256
+    },
+    "total_tokens": 3910
+  },
+  "raw_content": "{\n  \"topic_slug\": \"конкретные-oem-пороги-passfail-для-frf-и-transmissibility-закрытые-данные\",\n  \"description\": \"Конкретные числовые пороги pass/fail для FRF (Frequency Response Function) и transmissibility в подвеске являются строго проприетарными данными OEM. Производители (VAG, BMW, Toyota, Hyundai-Kia) фиксируют эти thresholds во внутренних стандартах NVH, недоступных публично. Например, BMW имеет систему ISTA-NVH с эталонными FRF-кривыми, VAG использует ODIS с интегрированными вибропрофилями, а Hyundai-Kia применяет HI-DS с заложенными допусками по transmissibility. Частично эти данные можно извлечь через reverse-engineering дилерского ПО или из leaked engineering documents.\\n\\nВ открытых источниках доступны лишь общие принципы: для легковых автомобилей transmissibility от ступицы к кузову на резонансе подвески (10-15 Гц) обычно не должна превышать 2.5-3.5 при критическом затухании 15-25%, а FRF-пики выше эталонных на +6 dB (фактор 2x по амплитуде) типично считаются fail-критерием. Эти значения коррелируют с ISO 2631-1 (комфорт) и SAE J670e (терминология динамики), но конкретные пороги по моделям остаются закрытыми.\",\n  \"symptoms\": [\n    {\"text\": \"Отсутствие доступа к OEM-базе эталонных FRF-кривых для конкретной модели\", \"when\": \"Диагностика на вибростенде вне дилерского центра\", \"severity\": \"high\"},\n    {\"text\": \"Невозможность определить pass/fail без дилерского сканера\", \"when\": \"Сравнение измеренной transmissibility с порогом\", \"severity\": \"high\"},\n    {\"text\": \"Расхождение результатов независимого стенда и OEM-критериев\", \"when\": \"Гарантийный спор по вибрации кузова\", \"severity\": \"medium\"},\n    {\"text\": \"Отсутствие документированных допусков в TSB и service manuals\", \"when\": \"Поиск пороговых значений в ElsaWin/EWAnet\", \"severity\": \"medium\"}\n  ],\n  \"vibration_signature\": {\n    \"axes\": [\"vertical (Z)\"],\n    \"frequency_range_hz\": [0.5, 80],\n    \"amplitude_g\": [0.01, 0.5],\n    \"az_std_typical\": null,\n    \"total_vibration_typical\": null,\n    \"dominant_freq_hz\": 12,\n    \"pattern\": \"resonance\",\n    \"notes\": \"Transmissibility измеряется как отношение ускорения кузова к ускорению ступицы; пик на частоте резонанса подвески (10-15 Гц для передней, 12-18 Гц для задней)\"\n  },\n  \"audio_signature\": {\n    \"frequency_range_hz\": [20, 500],\n    \"character\": \"Гул/дрон при резонансе\",\n    \"impulse_or_continuous\": \"continuous\",\n    \"speed_dependence\": \"Ярко выраженная зависимость от скорости (резонанс на 60-90 км/ч)\",\n    \"load_dependence\": \"Изменение резонансной частоты при загрузке\",\n    \"our_zone_mapping\": \"Зоны C-D (кузовная вибрация), зона E (подвеска)\",\n    \"notes\": \"Акустический отклон от FRF-аномалий коррелирует с structural-borne noise через механизм transmissibility\"\n  },\n  \"vibrostand_method\": {\n    \"applicable\": true,\n    \"stand_type\": \"Многокомпонентный вибростенд с IMT/возбуждением подвески\",\n    \"key_metric\": \"Transmissibility (ступица→кузов) и FRF-амплитуда на резонансе\",\n    \"threshold_pass\": \"<2.5 на резонансе (типичный ориентир, не OEM-специфичный)\",\n    \"threshold_fail\": \">3.5 на резонансе ИЛИ отклонение +6 dB от эталона (типичный ориентир)\",\n    \"standard_ref\": \"ISO 2631-1 (общая рамка), OEM-внутренние стандарты недоступны\",\n    \"notes\": \"Конкретные пороги зашиты в дилерское ПО (ISTA, ODIS, GTS, Techstream) и не публикуются\"\n  },\n  \"brand_specifics\": [\n    {\"brand\": \"BMW\", \"models\": [\"F-series\", \"G-series\"], \"note\": \"ISTA-NVH содержит эталонные FRF; пороги доступны только через ISTA-P/ISTA Next с дилерской авторизацией\"},\n    {\"brand\": \"VAG (VW/Audi/Skoda)\", \"models\": [\"MQB\", \"MLB\", \"PQ35\"], \"note\": \"ODIS интегрирован с вибропрофилями; ElsaWin/EWAnet не содержит числовых порогов, только описательные TSB\"},\n    {\"brand\": \"Toyota/Lexus\", \"models\": [\"TNGA\", \"K-platform\"], \"note\": \"Techstream + вибростендовые карты; пороги transmissibility доступны через TIS только дилерам\"},\n    {\"brand\": \"Hyundai-Kia\", \"models\": [\"K2\", \"K5\", \"N-platform\"], \"note\": \"HI-DS содержит NVH-эталоны; корейские OEM наиболее закрыты в части NVH-данных\"}\n  ],\n  \"expert_sequence\": [\n    {\"step\": 1, \"action\": \"Запросить у OEM через дилерский портал NVH-эталоны для конкретного VIN\", \"check\": \"Наличие доступа к ISTA/ODIS/GTS с NVH-модулем\", \"tool\": \"Дилерский сканер + онлайн-доступ к инженерной базе\"},\n    {\"step\": 2, \"action\": \"Измерить FRF и transmissibility на вибростенде\", \"check\": \"Сравнить с обобщёнными ориентирами (transmissibility <2.5 на резонансе)\", \"tool\": \"Вибростенд + мультисканер NVH (Vibrasens, CSS, Unipoint)\"},\n    {\"step\": 3, \"action\": \"Проконтролировать TSB и сервисные бюллетени на предмет числовых допусков\", \"check\": \"Наличие количественных критериев в TSB (редко)\", \"tool\": \"Alldata, Mitchell, ElsaWin, TIS\"},\n    {\"step\": 4, \"action\": \"При отсутствии OEM-порогов — собрать базу измерений от заведомо исправных автомобилей той же модели\", \"check\": \"Статистическая значимость выборки (≥5-10 автомобилей)\", \"tool\": \"Собственная база FRF-кривых + Excel/MATLAB\"},\n    {\"step\": 5, \"action\": \"Использовать comparative analysis с эталонным автомобилем\", \"check\": \"Отклонение FRF-амплитуды более +6 dB от эталона — вероятный дефект\", \"tool\": \"Двухканальный анализатор NVH + образцовый автомобиль\"}\n  ],\n  \"correlations_with_other_defects\": [\n    {\"defect\": \"Износ амортизатора (потеря демпфирования)\", \"distinguish_by\": \"Увеличение transmissibility на резонансе (>3.0) при сохранении резонансной частоты\"},\n    {\"defect\": \"Износ сайлентблоков (повышенная жёсткость)\", \"distinguish_by\": \"Сдвиг резонансной частоты вверх + увеличение transmissibility на высоких частотах (>30 Гц)\"},\n    {\"defect\": \"Дефект опоры амортизатора\", \"distinguish_by\": \"Локальное увеличение FRF на частоте 40-80 Гц (резонанс опоры)\"}\n  ],\n  \"sources\": [\n    {\"type\": \"Standard\", \"url_or_ref\": \"ISO 2631-1:1997 Mechanical vibration and shock — Evaluation of human exposure to whole-body vibration\", \"relevance\": \"Общая рамка для допустимых уровней вибрации, но не содержит OEM-порогов для подвески\"},\n    {\"type\": \"SAE Paper\", \"url_or_ref\": \"SAE 2005-01-1504 'Application of Transfer Path Analysis to Automotive Suspension Systems'\", \"relevance\": \"Описывает методологию FRF/TPA для подвески без конкретных OEM-порогов\"},\n    {\"type\": \"Forum\", \"url_or_ref\": \"drive2.ru — тема 'Вибростендовая диагностика подвески', multiple threads\", \"relevance\": \"Практический опыт диагностов по интерпретации FRF без доступа к OEM-базам\"},\n    {\"type\": \"Book\", \"url_or_ref\": \"Reimpell, Stoll, Betzler 'The Automotive Chassis: Engineering Principles' ISBN 978-0768006755\", \"relevance\": \"Глава 7 — NVH подвески, общие принципы transmissibility без OEM-порогов\"}\n  ],\n  \"unknowns\": [\n    \"Конкретные числовые пороги transmissibility для VAG MQB (публично недоступны, встроены в ODIS)\",\n    \"Пороги FRF-амплитуды для BMW G-серии (требуют ISTA-NVH дилерского уровня)\",\n    \"Допуски по transmissibility для Hyundai-Kia N-platform (HI-DS proprietary)\",\n    \"Методика извлечения эталонных FRF из дилерского ПО (reverse engineering деталей неизвестен)\",\n    \"Существование leaked engineering specifications с OEM-порогами (вероятно существуют, но не索引ированы публично)\"\n  ],\n  \"meta\": {\n    \"confidence_self\": \"medium — общие принципы FRF/transmissibility хорошо известны, но конкретные OEM-пороги действительно проприетарны и недоступны для верификации\",\n    \"training_cutoff_note\": \"Нет доступа к дилерским системам (ISTA, ODIS, GTS) для подтверждения текущих порогов; информация основана на открытых источниках и практическом опыте до 2024\"\n  }\n}",
+  "parsed_ok": true,
+  "parsed": {
+    "topic_slug": "конкретные-oem-пороги-passfail-для-frf-и-transmissibility-закрытые-данные",
+    "description": "Конкретные числовые пороги pass/fail для FRF (Frequency Response Function) и transmissibility в подвеске являются строго проприетарными данными OEM. Производители (VAG, BMW, Toyota, Hyundai-Kia) фиксируют эти thresholds во внутренних стандартах NVH, недоступных публично. Например, BMW имеет систему ISTA-NVH с эталонными FRF-кривыми, VAG использует ODIS с интегрированными вибропрофилями, а Hyundai-Kia применяет HI-DS с заложенными допусками по transmissibility. Частично эти данные можно извлечь через reverse-engineering дилерского ПО или из leaked engineering documents.\n\nВ открытых источниках доступны лишь общие принципы: для легковых автомобилей transmissibility от ступицы к кузову на резонансе подвески (10-15 Гц) обычно не должна превышать 2.5-3.5 при критическом затухании 15-25%, а FRF-пики выше эталонных на +6 dB (фактор 2x по амплитуде) типично считаются fail-критерием. Эти значения коррелируют с ISO 2631-1 (комфорт) и SAE J670e (терминология динамики), но конкретные пороги по моделям остаются закрытыми.",
+    "symptoms": [
+      {
+        "text": "Отсутствие доступа к OEM-базе эталонных FRF-кривых для конкретной модели",
+        "when": "Диагностика на вибростенде вне дилерского центра",
+        "severity": "high"
+      },
+      {
+        "text": "Невозможность определить pass/fail без дилерского сканера",
+        "when": "Сравнение измеренной transmissibility с порогом",
+        "severity": "high"
+      },
+      {
+        "text": "Расхождение результатов независимого стенда и OEM-критериев",
+        "when": "Гарантийный спор по вибрации кузова",
+        "severity": "medium"
+      },
+      {
+        "text": "Отсутствие документированных допусков в TSB и service manuals",
+        "when": "Поиск пороговых значений в ElsaWin/EWAnet",
+        "severity": "medium"
+      }
+    ],
+    "vibration_signature": {
+      "axes": [
+        "vertical (Z)"
+      ],
+      "frequency_range_hz": [
+        0.5,
+        80
+      ],
+      "amplitude_g": [
+        0.01,
+        0.5
+      ],
+      "az_std_typical": null,
+      "total_vibration_typical": null,
+      "dominant_freq_hz": 12,
+      "pattern": "resonance",
+      "notes": "Transmissibility измеряется как отношение ускорения кузова к ускорению ступицы; пик на частоте резонанса подвески (10-15 Гц для передней, 12-18 Гц для задней)"
+    },
+    "audio_signature": {
+      "frequency_range_hz": [
+        20,
+        500
+      ],
+      "character": "Гул/дрон при резонансе",
+      "impulse_or_continuous": "continuous",
+      "speed_dependence": "Ярко выраженная зависимость от скорости (резонанс на 60-90 км/ч)",
+      "load_dependence": "Изменение резонансной частоты при загрузке",
+      "our_zone_mapping": "Зоны C-D (кузовная вибрация), зона E (подвеска)",
+      "notes": "Акустический отклон от FRF-аномалий коррелирует с structural-borne noise через механизм transmissibility"
+    },
+    "vibrostand_method": {
+      "applicable": true,
+      "stand_type": "Многокомпонентный вибростенд с IMT/возбуждением подвески",
+      "key_metric": "Transmissibility (ступица→кузов) и FRF-амплитуда на резонансе",
+      "threshold_pass": "<2.5 на резонансе (типичный ориентир, не OEM-специфичный)",
+      "threshold_fail": ">3.5 на резонансе ИЛИ отклонение +6 dB от эталона (типичный ориентир)",
+      "standard_ref": "ISO 2631-1 (общая рамка), OEM-внутренние стандарты недоступны",
+      "notes": "Конкретные пороги зашиты в дилерское ПО (ISTA, ODIS, GTS, Techstream) и не публикуются"
+    },
+    "brand_specifics": [
+      {
+        "brand": "BMW",
+        "models": [
+          "F-series",
+          "G-series"
+        ],
+        "note": "ISTA-NVH содержит эталонные FRF; пороги доступны только через ISTA-P/ISTA Next с дилерской авторизацией"
+      },
+      {
+        "brand": "VAG (VW/Audi/Skoda)",
+        "models": [
+          "MQB",
+          "MLB",
+          "PQ35"
+        ],
+        "note": "ODIS интегрирован с вибропрофилями; ElsaWin/EWAnet не содержит числовых порогов, только описательные TSB"
+      },
+      {
+        "brand": "Toyota/Lexus",
+        "models": [
+          "TNGA",
+          "K-platform"
+        ],
+        "note": "Techstream + вибростендовые карты; пороги transmissibility доступны через TIS только дилерам"
+      },
+      {
+        "brand": "Hyundai-Kia",
+        "models": [
+          "K2",
+          "K5",
+          "N-platform"
+        ],
+        "note": "HI-DS содержит NVH-эталоны; корейские OEM наиболее закрыты в части NVH-данных"
+      }
+    ],
+    "expert_sequence": [
+      {
+        "step": 1,
+        "action": "Запросить у OEM через дилерский портал NVH-эталоны для конкретного VIN",
+        "check": "Наличие доступа к ISTA/ODIS/GTS с NVH-модулем",
+        "tool": "Дилерский сканер + онлайн-доступ к инженерной базе"
+      },
+      {
+        "step": 2,
+        "action": "Измерить FRF и transmissibility на вибростенде",
+        "check": "Сравнить с обобщёнными ориентирами (transmissibility <2.5 на резонансе)",
+        "tool": "Вибростенд + мультисканер NVH (Vibrasens, CSS, Unipoint)"
+      },
+      {
+        "step": 3,
+        "action": "Проконтролировать TSB и сервисные бюллетени на предмет числовых допусков",
+        "check": "Наличие количественных критериев в TSB (редко)",
+        "tool": "Alldata, Mitchell, ElsaWin, TIS"
+      },
+      {
+        "step": 4,
+        "action": "При отсутствии OEM-порогов — собрать базу измерений от заведомо исправных автомобилей той же модели",
+        "check": "Статистическая значимость выборки (≥5-10 автомобилей)",
+        "tool": "Собственная база FRF-кривых + Excel/MATLAB"
+      },
+      {
+        "step": 5,
+        "action": "Использовать comparative analysis с эталонным автомобилем",
+        "check": "Отклонение FRF-амплитуды более +6 dB от эталона — вероятный дефект",
+        "tool": "Двухканальный анализатор NVH + образцовый автомобиль"
+      }
+    ],
+    "correlations_with_other_defects": [
+      {
+        "defect": "Износ амортизатора (потеря демпфирования)",
+        "distinguish_by": "Увеличение transmissibility на резонансе (>3.0) при сохранении резонансной частоты"
+      },
+      {
+        "defect": "Износ сайлентблоков (повышенная жёсткость)",
+        "distinguish_by": "Сдвиг резонансной частоты вверх + увеличение transmissibility на высоких частотах (>30 Гц)"
+      },
+      {
+        "defect": "Дефект опоры амортизатора",
+        "distinguish_by": "Локальное увеличение FRF на частоте 40-80 Гц (резонанс опоры)"
+      }
+    ],
+    "sources": [
+      {
+        "type": "Standard",
+        "url_or_ref": "ISO 2631-1:1997 Mechanical vibration and shock — Evaluation of human exposure to whole-body vibration",
+        "relevance": "Общая рамка для допустимых уровней вибрации, но не содержит OEM-порогов для подвески"
+      },
+      {
+        "type": "SAE Paper",
+        "url_or_ref": "SAE 2005-01-1504 'Application of Transfer Path Analysis to Automotive Suspension Systems'",
+        "relevance": "Описывает методологию FRF/TPA для подвески без конкретных OEM-порогов"
+      },
+      {
+        "type": "Forum",
+        "url_or_ref": "drive2.ru — тема 'Вибростендовая диагностика подвески', multiple threads",
+        "relevance": "Практический опыт диагностов по интерпретации FRF без доступа к OEM-базам"
+      },
+      {
+        "type": "Book",
+        "url_or_ref": "Reimpell, Stoll, Betzler 'The Automotive Chassis: Engineering Principles' ISBN 978-0768006755",
+        "relevance": "Глава 7 — NVH подвески, общие принципы transmissibility без OEM-порогов"
+      }
+    ],
+    "unknowns": [
+      "Конкретные числовые пороги transmissibility для VAG MQB (публично недоступны, встроены в ODIS)",
+      "Пороги FRF-амплитуды для BMW G-серии (требуют ISTA-NVH дилерского уровня)",
+      "Допуски по transmissibility для Hyundai-Kia N-platform (HI-DS proprietary)",
+      "Методика извлечения эталонных FRF из дилерского ПО (reverse engineering деталей неизвестен)",
+      "Существование leaked engineering specifications с OEM-порогами (вероятно существуют, но не索引ированы публично)"
+    ],
+    "meta": {
+      "confidence_self": "medium — общие принципы FRF/transmissibility хорошо известны, но конкретные OEM-пороги действительно проприетарны и недоступны для верификации",
+      "training_cutoff_note": "Нет доступа к дилерским системам (ISTA, ODIS, GTS) для подтверждения текущих порогов; информация основана на открытых источниках и практическом опыте до 2024"
+    }
+  }
+}

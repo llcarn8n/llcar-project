@@ -28,6 +28,7 @@ TIRE_DIAMETER = 0.63
 
 def extract_features(
     packet: NormalizedPacket,
+    tire_diameter: float = TIRE_DIAMETER,
 ) -> Dict[str, Optional[Union[float, bool, str, int]]]:
     """Extract all derived features from a normalized packet.
 
@@ -125,12 +126,95 @@ def extract_features(
 
         # If no engine match, try wheel harmonics: speed/(3.6*pi*d) * harmonic, 1-12
         if f["virtual_freq_source"] is None and speed is not None and speed > 5:
-            tire_freq = speed / (3.6 * math.pi * TIRE_DIAMETER)
+            tire_freq = speed / (3.6 * math.pi * tire_diameter)
             for harmonic in range(1, 13):
                 expected = tire_freq * harmonic
                 if abs(dom_freq - expected) < 5.0:
                     f["virtual_freq_source"] = "wheel"
                     f["virtual_freq_order"] = harmonic
                     break
+
+    # ------------------------------------------------------------------
+    # S21: suspension / audio diagnostic features
+    # ------------------------------------------------------------------
+
+    # 1. Vibration freq ratio: dominant_freq / wheel_rotation_freq
+    f["vibration_freq_ratio"] = None
+    if dom_freq is not None and speed is not None and speed > 5:
+        tire_freq_val = speed / (3.6 * math.pi * tire_diameter)
+        if tire_freq_val > 0.1:
+            f["vibration_freq_ratio"] = round(dom_freq / tire_freq_val, 3)
+
+    # 2. Engine harmonic match (bool as float)
+    f["engine_harmonic_match"] = (
+        1.0 if f["virtual_freq_source"] == "engine" else 0.0
+    )
+
+    # 3. RPM harmonic matches: count FFT peaks matching engine harmonics 1-4x
+    f["rpm_harmonic_matches"] = 0
+    if rpm is not None and rpm > 0 and packet.audio_peaks:
+        engine_base = rpm / 60.0
+        _matched = 0
+        for _fv, _av in packet.audio_peaks:
+            if _fv is None or _av is None or _av <= 0:
+                continue
+            for _order in range(1, 5):
+                if abs(_fv - engine_base * _order) < 2.0:
+                    _matched += 1
+                    break
+        f["rpm_harmonic_matches"] = _matched
+
+    # 4. Vertical / lateral ratio (ball joint wear signature)
+    _az = getattr(packet, "az_std", None)
+    _ax = getattr(packet, "ax_std", None)
+    if _az is not None and _ax is not None and _ax > 0.01:
+        f["vertical_lateral_ratio"] = round(_az / _ax, 3)
+    else:
+        f["vertical_lateral_ratio"] = None
+
+    # 5. Audio energy in 120-180 Hz band (bushing wear signature)
+    f["audio_energy_band_120_180"] = None
+    if packet.audio_peaks:
+        _total = sum(a for _, a in packet.audio_peaks if a is not None and a > 0)
+        _band = sum(a for fr, a in packet.audio_peaks
+                    if fr is not None and a is not None and a > 0
+                    and 120 <= fr <= 180)
+        if _total > 0:
+            f["audio_energy_band_120_180"] = round(_band / _total, 3)
+
+    # 6. BPFO harmonic matches (wheel bearing signature)
+    # Typical BPFO ~ 4x wheel_rps for standard 6-8 ball bearings
+    f["bpfo_harmonic_matches"] = 0
+    if speed is not None and speed > 20 and packet.audio_peaks:
+        _wheel_rps = speed / (3.6 * math.pi * tire_diameter)
+        _bpfo = 4.0 * _wheel_rps
+        if _bpfo > 1.0:
+            _bm = 0
+            for _fv, _av in packet.audio_peaks:
+                if _fv is None or _av is None or _av <= 0:
+                    continue
+                for _h in range(1, 8):
+                    if abs(_fv - _bpfo * _h) < 3.0:
+                        _bm += 1
+                        break
+            f["bpfo_harmonic_matches"] = _bm
+
+    # 7. Percussive energy in 5-8 kHz band (knock/detonation signature)
+    # percussive peaks = impacts/knocks separated from harmonic content
+    f["percussive_energy_5k_8k"] = None
+    f["percussive_peak_count_5k_8k"] = 0
+    if packet.audio_percussive:
+        _total_perc = sum(abs(a) for _, a in packet.audio_percussive
+                         if a is not None and a > -9000)
+        _band_perc = 0.0
+        _band_count = 0
+        for _pf, _pa in packet.audio_percussive:
+            if _pf is not None and _pa is not None and _pa > -9000:
+                if 5000 <= _pf <= 8000:
+                    _band_perc += abs(_pa)
+                    _band_count += 1
+        if _total_perc > 0:
+            f["percussive_energy_5k_8k"] = round(_band_perc / _total_perc, 3)
+        f["percussive_peak_count_5k_8k"] = _band_count
 
     return f

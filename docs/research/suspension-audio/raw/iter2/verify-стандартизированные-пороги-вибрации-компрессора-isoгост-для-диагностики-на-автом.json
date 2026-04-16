@@ -1,0 +1,31 @@
+{
+  "topic_slug": "стандартизированные-пороги-вибрации-компрессора-isoгост-для-диагностики-на-автом",
+  "iter": 2,
+  "verified_at": "2026-04-15T20:41:20.052337+00:00",
+  "sources": {
+    "ISO 10816-3:2009": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ISO 20816-1:2016": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "SAE 2005-01-2534": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "SAE 2019-01-1548": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "DOI:10.1016/j.ymssp.2018.09.042": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ГОСТ ISO 10816-3-2018": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

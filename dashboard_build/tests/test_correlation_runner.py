@@ -29,7 +29,13 @@ def _setup_sensor_tables(db: MockDB):
     c.execute("""CREATE TABLE IF NOT EXISTS audio_windows (
         time TEXT NOT NULL,
         client_hash TEXT NOT NULL,
-        freq_1 REAL, amp_1 REAL, quality REAL
+        freq_1 REAL, amp_1 REAL,
+        freq_2 REAL, amp_2 REAL, freq_3 REAL, amp_3 REAL,
+        freq_4 REAL, amp_4 REAL, freq_5 REAL, amp_5 REAL,
+        freq_6 REAL, amp_6 REAL, freq_7 REAL, amp_7 REAL,
+        freq_8 REAL, amp_8 REAL, freq_9 REAL, amp_9 REAL,
+        freq_10 REAL, amp_10 REAL,
+        quality REAL
     )""")
 
     c.execute("""CREATE TABLE IF NOT EXISTS ecu_7e8 (

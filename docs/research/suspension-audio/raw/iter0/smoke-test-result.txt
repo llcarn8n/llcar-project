@@ -1,0 +1,1 @@
+Phase 0 smoke test confirmed GLM MCP connectivity and response structure. Full raw output preserved separately; key findings in glm-prompt-template.md Runtime config section.

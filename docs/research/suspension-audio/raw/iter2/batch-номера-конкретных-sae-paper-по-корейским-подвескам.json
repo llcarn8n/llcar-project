@@ -1,0 +1,113 @@
+{
+  "topic_slug": "номера-конкретных-sae-paper-по-корейским-подвескам",
+  "topic_id": 1071,
+  "iter": 2,
+  "timestamp": "2026-04-15T20:36:46.567015+00:00",
+  "elapsed_sec": 56.24,
+  "usage": {
+    "completion_tokens": 1968,
+    "completion_tokens_details": {
+      "reasoning_tokens": 611
+    },
+    "prompt_tokens": 1058,
+    "prompt_tokens_details": {
+      "cached_tokens": 448
+    },
+    "total_tokens": 3026
+  },
+  "raw_content": "{\n  \"topic_slug\": \"номера-конкретных-sae-paper-по-корейским-подвескам\",\n  \"description\": \"Корейские автопроизводители (Hyundai Motor Group — Hyundai, Kia, Genesis) активно публикуют SAE Technical Papers по разработке и оптимизации подвесок. Основные темы: MacPherson strut, multi-link задняя подвеска, полунезависимая подвеска с скручиваемой балкой (twist-beam), адаптивные подвески и NVH-оптимизация. Поиск конкретных номеров затруднён закрытостью корпоративных баз данных Hyundai/Kia и тем, что многие публикации идут через корейские журналы (KSAE, Int. J. Automotive Technology) вне системы SAE numbering.\",\n  \"claims\": [\n    {\n      \"statement\": \"Hyundai Motor Company публикует SAE papers по suspension NVH, но большинство доступных работ корейских авторов по подвескам выходит в Int. J. Automotive Technology (IJAТ) и Journal of Mechanical Science and Technology (JMST), а не как SAE Technical Papers\",\n      \"evidence_level\": \"D\",\n      \"citations\": [\"IJAT ISSN 1229-9138\", \"JMST ISSN 1738-494X\"],\n      \"caveats\": \"Отсутствие единого каталога SAE-номеров именно для «корейских подвесок»; многие работы корейских инженеров выходят под эгидой KSAE\"\n    },\n    {\n      \"statement\": \"Примеры SAE-публикаций с участием корейских OEM: SAE 2006-01-1080 (Kinematic analysis of multi-link suspension), SAE 2011-01-0756 (suspension bushing design), но точная привязка к «Hyundai/Kia» в названиях часто отсутствует\",\n      \"evidence_level\": \"D\",\n      \"citations\": [\"SAE 2006-01-1080\", \"SAE 2011-01-0756\"],\n      \"caveats\": \"Номера указаны по памяти; для верификации необходим прямой доступ к SAE Mobilus database\"\n    },\n    {\n      \"statement\": \"SAE International Journal of Passenger Cars — Mechanical Systems публикует работы корейских исследователей по подвескам, но indexing по OEM-принадлежности не предусмотрен\",\n      \"evidence_level\": \"A\",\n      \"citations\": [\"SAE Int. J. Passeng. Cars - Mech. Syst., ISSN 1946-3996\"],\n      \"caveats\": \"Требуется ручной поиск по авторам и аффилиациям с Hyundai Motor, Kia, Seoul National University, KAIST\"\n    }\n  ],\n  \"key_formulas\": [],\n  \"datasets_and_samples\": [\n    {\n      \"name\": \"SAE Mobilus Technical Paper Database\",\n      \"N\": null,\n      \"description\": \"Полная база SAE Technical Papers; для поиска корейских подвесок необходимы ключевые слова: 'suspension' + 'Hyundai'/'Kia'/'Korea'\",\n      \"availability\": \"restricted\",\n      \"source_ref\": \"https://www.sae.org/publications/technical-papers\"\n    }\n  ],\n  \"vibrostand_relevance\": {\n    \"method_applies_to\": \"general\",\n    \"validated_metrics\": [],\n    \"known_limitations\": \"SAE papers по корейским подвескам редко содержат полные вибростендовые протоколы; данные NVH-тестов преимущественно внутренние\"\n  },\n  \"contradictions_in_literature\": [\n    {\n      \"topic\": \"Доступность SAE-номеров для корейских OEM подвесок\",\n      \"pov_a\": \"Корейские OEM активно публикуются в SAE\",\n      \"pov_b\": \"Большинство исследований корейских подвесок выходит в IJAT/JMST/KSAE, а не в SAE Technical Papers\",\n      \"resolution_attempts\": \"Необходим систематический поиск по SAE Mobilus с фильтрацией по affiliation\"\n    }\n  ],\n  \"sources\": [\n    {\n      \"type\": \"sae\",\n      \"url_or_ref\": \"SAE Int. J. Passeng. Cars - Mech. Syst.\",\n      \"authors\": \"Various Korean authors\",\n      \"year\": null,\n      \"title\": \"Journal series содержащая работы корейских исследователей подвесок\",\n      \"evidence_level\": \"A\",\n      \"relevance\": \"Источник для поиска конкретных номеров\"\n    },\n    {\n      \"type\": \"journal\",\n      \"url_or_ref\": \"ISSN 1229-9138\",\n      \"authors\": \"Various\",\n      \"year\": null,\n      \"title\": \"International Journal of Automotive Technology (IJAT)\",\n      \"evidence_level\": \"A\",\n      \"relevance\": \"Основной рецензируемый журнал для корейских авторов по automotive suspension\"\n    },\n    {\n      \"type\": \"journal\",\n      \"url_or_ref\": \"ISSN 1738-494X\",\n      \"authors\": \"Various\",\n      \"year\": null,\n      \"title\": \"Journal of Mechanical Science and Technology (JMST)\",\n      \"evidence_level\": \"A\",\n      \"relevance\": \"Второй по значимости журнал для корейских публикаций по подвескам\"\n    }\n  ],\n  \"unknowns\": [\n    \"Не нашёл peer-reviewed каталог конкретных SAE paper номеров, относящихся именно к корейским (Hyundai/Kia) подвескам — требуется прямой поиск в SAE Mobilus\",\n    \"Отсутствует систематический обзор SAE-публикаций корейских OEM по suspension NVH\",\n    \"Многие работы Hyundai Motor Group публикуются через KSAE (Korean Society of Automotive Engineers) и могут не иметь SAE numbering\"\n  ],\n  \"meta\": {\n    \"confidence_self\": \"low\",\n    \"training_cutoff_note\": \"Конкретные SAE-номера требуют верификации в SAE Mobilus; указанные номера приблизительны\"\n  }\n}",
+  "parsed_ok": true,
+  "parsed": {
+    "topic_slug": "номера-конкретных-sae-paper-по-корейским-подвескам",
+    "description": "Корейские автопроизводители (Hyundai Motor Group — Hyundai, Kia, Genesis) активно публикуют SAE Technical Papers по разработке и оптимизации подвесок. Основные темы: MacPherson strut, multi-link задняя подвеска, полунезависимая подвеска с скручиваемой балкой (twist-beam), адаптивные подвески и NVH-оптимизация. Поиск конкретных номеров затруднён закрытостью корпоративных баз данных Hyundai/Kia и тем, что многие публикации идут через корейские журналы (KSAE, Int. J. Automotive Technology) вне системы SAE numbering.",
+    "claims": [
+      {
+        "statement": "Hyundai Motor Company публикует SAE papers по suspension NVH, но большинство доступных работ корейских авторов по подвескам выходит в Int. J. Automotive Technology (IJAТ) и Journal of Mechanical Science and Technology (JMST), а не как SAE Technical Papers",
+        "evidence_level": "D",
+        "citations": [
+          "IJAT ISSN 1229-9138",
+          "JMST ISSN 1738-494X"
+        ],
+        "caveats": "Отсутствие единого каталога SAE-номеров именно для «корейских подвесок»; многие работы корейских инженеров выходят под эгидой KSAE"
+      },
+      {
+        "statement": "Примеры SAE-публикаций с участием корейских OEM: SAE 2006-01-1080 (Kinematic analysis of multi-link suspension), SAE 2011-01-0756 (suspension bushing design), но точная привязка к «Hyundai/Kia» в названиях часто отсутствует",
+        "evidence_level": "D",
+        "citations": [
+          "SAE 2006-01-1080",
+          "SAE 2011-01-0756"
+        ],
+        "caveats": "Номера указаны по памяти; для верификации необходим прямой доступ к SAE Mobilus database"
+      },
+      {
+        "statement": "SAE International Journal of Passenger Cars — Mechanical Systems публикует работы корейских исследователей по подвескам, но indexing по OEM-принадлежности не предусмотрен",
+        "evidence_level": "A",
+        "citations": [
+          "SAE Int. J. Passeng. Cars - Mech. Syst., ISSN 1946-3996"
+        ],
+        "caveats": "Требуется ручной поиск по авторам и аффилиациям с Hyundai Motor, Kia, Seoul National University, KAIST"
+      }
+    ],
+    "key_formulas": [],
+    "datasets_and_samples": [
+      {
+        "name": "SAE Mobilus Technical Paper Database",
+        "N": null,
+        "description": "Полная база SAE Technical Papers; для поиска корейских подвесок необходимы ключевые слова: 'suspension' + 'Hyundai'/'Kia'/'Korea'",
+        "availability": "restricted",
+        "source_ref": "https://www.sae.org/publications/technical-papers"
+      }
+    ],
+    "vibrostand_relevance": {
+      "method_applies_to": "general",
+      "validated_metrics": [],
+      "known_limitations": "SAE papers по корейским подвескам редко содержат полные вибростендовые протоколы; данные NVH-тестов преимущественно внутренние"
+    },
+    "contradictions_in_literature": [
+      {
+        "topic": "Доступность SAE-номеров для корейских OEM подвесок",
+        "pov_a": "Корейские OEM активно публикуются в SAE",
+        "pov_b": "Большинство исследований корейских подвесок выходит в IJAT/JMST/KSAE, а не в SAE Technical Papers",
+        "resolution_attempts": "Необходим систематический поиск по SAE Mobilus с фильтрацией по affiliation"
+      }
+    ],
+    "sources": [
+      {
+        "type": "sae",
+        "url_or_ref": "SAE Int. J. Passeng. Cars - Mech. Syst.",
+        "authors": "Various Korean authors",
+        "year": null,
+        "title": "Journal series содержащая работы корейских исследователей подвесок",
+        "evidence_level": "A",
+        "relevance": "Источник для поиска конкретных номеров"
+      },
+      {
+        "type": "journal",
+        "url_or_ref": "ISSN 1229-9138",
+        "authors": "Various",
+        "year": null,
+        "title": "International Journal of Automotive Technology (IJAT)",
+        "evidence_level": "A",
+        "relevance": "Основной рецензируемый журнал для корейских авторов по automotive suspension"
+      },
+      {
+        "type": "journal",
+        "url_or_ref": "ISSN 1738-494X",
+        "authors": "Various",
+        "year": null,
+        "title": "Journal of Mechanical Science and Technology (JMST)",
+        "evidence_level": "A",
+        "relevance": "Второй по значимости журнал для корейских публикаций по подвескам"
+      }
+    ],
+    "unknowns": [
+      "Не нашёл peer-reviewed каталог конкретных SAE paper номеров, относящихся именно к корейским (Hyundai/Kia) подвескам — требуется прямой поиск в SAE Mobilus",
+      "Отсутствует систематический обзор SAE-публикаций корейских OEM по suspension NVH",
+      "Многие работы Hyundai Motor Group публикуются через KSAE (Korean Society of Automotive Engineers) и могут не иметь SAE numbering"
+    ],
+    "meta": {
+      "confidence_self": "low",
+      "training_cutoff_note": "Конкретные SAE-номера требуют верификации в SAE Mobilus; указанные номера приблизительны"
+    }
+  }
+}

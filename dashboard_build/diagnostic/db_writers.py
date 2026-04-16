@@ -383,6 +383,36 @@ def resolve_cleared_dtcs(cursor, client_hash: str, active_codes: list) -> int:
     return resolved_count
 
 
+def write_shadow_log(
+    cursor,
+    client_hash: str,
+    shadow_results: List[Dict[str, Any]],
+    features: Dict[str, Any],
+    timestamp: Optional[str] = None,
+) -> int:
+    """Write shadow rule results for calibration analysis. Returns rows written."""
+    ph = _placeholder(cursor)
+    ts = timestamp or _now_iso()
+    features_json = json.dumps(
+        {k: v for k, v in features.items() if v is not None}, default=str
+    )
+    count = 0
+    for r in shadow_results:
+        if r.get("confidence", 0) <= 0:
+            continue
+        cursor.execute(
+            f"""INSERT INTO shadow_rule_log
+                (time, client_hash, rule_name, confidence,
+                 conditions_met, conditions_total, features_snapshot)
+                VALUES ({ph}, {ph}, {ph}, {ph}, {ph}, {ph}, {ph})""",
+            (ts, client_hash, r["name"], r["confidence"],
+             r.get("conditions_met", 0), r.get("conditions_total", 0),
+             features_json),
+        )
+        count += 1
+    return count
+
+
 def write_feedback(
     cursor,
     client_hash: str,

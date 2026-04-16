@@ -91,11 +91,12 @@ class CorrelationEngine:
         self.tire_diameter = tire_diameter
 
     def analyze_trip(self, windows: List[dict]) -> List[CorrelationResult]:
-        """Run all 5 correlations. Returns only significant results."""
+        """Run all 7 correlations. Returns only significant results."""
         results = []
 
         for method in (self._vibration_rpm, self._audio_wheel, self._turn_click,
-                       self._vibration_speed_peak, self._highfreq_vibration):
+                       self._vibration_speed_peak, self._highfreq_vibration,
+                       self._audio_accel_source, self._road_roughness_psd):
             result = method(windows)
             if result is not None and result.significant:
                 results.append(result)
@@ -288,6 +289,97 @@ class CorrelationEngine:
             data_points=len(filtered),
             regime="all",
             diagnosis_hint="accessory_bearing",
+            significant=sig,
+        )
+
+    def _audio_accel_source(self, windows: List[dict]) -> Optional[CorrelationResult]:
+        """Correlation 6: audio amp vs az_std → suspension source validation.
+
+        High correlation (r > 0.6) means audio and vibration peaks coincide
+        in the same time windows → sound originates from suspension.
+        Low correlation → sound from engine/transmission/external source.
+        """
+        x, y = [], []  # x=az_std, y=dominant_amp
+        for w in windows:
+            az = w.get("az_std")
+            amp = w.get("dominant_amp")
+            speed = w.get("speed")
+            if (az is not None and amp is not None
+                    and speed is not None and speed > 20):
+                x.append(az)
+                y.append(amp)
+
+        if len(x) < MIN_DATA_POINTS:
+            return None
+
+        r, slope, p = _linregress(x, y)
+        sig = abs(r) > R_THRESHOLD and len(x) >= MIN_DATA_POINTS
+
+        return CorrelationResult(
+            correlation_type="audio_accel_source",
+            r_value=r, slope=slope, p_value=p,
+            data_points=len(x), regime="all",
+            diagnosis_hint="suspension_audio_source",
+            significant=sig,
+        )
+
+    def _road_roughness_psd(self, windows: List[dict]) -> Optional[CorrelationResult]:
+        """Correlation 7: road roughness from az time series → ISO 8608 proxy.
+
+        Compute variance of az_avg across sliding windows (PSD proxy).
+        Classify road: A (smooth) if var < 0.01, B if < 0.05, C if < 0.2, D+ (rough).
+        Significant when enough data and road is class C+ (rough enough to affect diagnostics).
+        """
+        az_series = []
+        for w in windows:
+            az = w.get("az_avg")
+            speed = w.get("speed")
+            if az is not None and speed is not None and speed > 20:
+                az_series.append(az)
+
+        if len(az_series) < MIN_DATA_POINTS:
+            return None
+
+        # Compute PSD proxy: variance of az_avg
+        mean_az = sum(az_series) / len(az_series)
+        variance = sum((v - mean_az) ** 2 for v in az_series) / len(az_series)
+
+        # Sliding window variance (32 samples ≈ 16 sec at 2 Hz) for spectral content
+        window_size = min(32, len(az_series) // 4)
+        if window_size < 8:
+            window_size = 8
+        variances = []
+        for i in range(len(az_series) - window_size):
+            chunk = az_series[i:i + window_size]
+            m = sum(chunk) / len(chunk)
+            v = sum((x - m) ** 2 for x in chunk) / len(chunk)
+            variances.append(v)
+
+        mean_psd = sum(variances) / len(variances) if variances else variance
+
+        # ISO 8608 proxy classification
+        # Class A: mean_psd < 0.01 (smooth highway)
+        # Class B: < 0.05 (good road)
+        # Class C: < 0.2 (average)
+        # Class D+: >= 0.2 (rough)
+        if mean_psd < 0.05:
+            road_class = "B"
+            sig = False  # smooth road — no diagnostic impact
+        elif mean_psd < 0.2:
+            road_class = "C"
+            sig = True
+        else:
+            road_class = "D"
+            sig = True
+
+        return CorrelationResult(
+            correlation_type="road_roughness_psd",
+            r_value=mean_psd,  # store PSD value as r_value
+            slope=0.0,
+            p_value=0.0,
+            data_points=len(az_series),
+            regime="all",
+            diagnosis_hint=f"road_class_{road_class}",
             significant=sig,
         )
 

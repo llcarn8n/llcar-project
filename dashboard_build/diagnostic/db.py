@@ -157,6 +157,28 @@ class MockDB:
             description_ru TEXT
         )""")
 
+        c.execute("""CREATE TABLE IF NOT EXISTS shadow_rule_log (
+            time TEXT NOT NULL,
+            client_hash TEXT NOT NULL,
+            rule_name TEXT NOT NULL,
+            confidence REAL,
+            conditions_met INTEGER,
+            conditions_total INTEGER,
+            features_snapshot TEXT
+        )""")
+
+        c.execute("""CREATE TABLE IF NOT EXISTS eusama_tests (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            client_hash TEXT NOT NULL,
+            time TEXT NOT NULL,
+            front_left REAL,
+            front_right REAL,
+            rear_left REAL,
+            rear_right REAL,
+            pass_threshold REAL DEFAULT 40.0,
+            notes TEXT
+        )""")
+
         self.conn.commit()
 
     @contextlib.contextmanager

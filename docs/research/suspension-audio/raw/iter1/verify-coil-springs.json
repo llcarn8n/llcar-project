@@ -1,0 +1,23 @@
+{
+  "topic_slug": "coil-springs",
+  "iter": 1,
+  "verified_at": "2026-04-15T20:11:16.018054+00:00",
+  "sources": {
+    "Reimpell J., Stoll H., Betzler J. «The Automotive Chassis: Engineering Principles», 2nd ed., SAE, ISBN 978-0-7680-0657-5": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Гинцбург Б.Е. «Динамика автомобиля», М.: Машиностроение, 1987": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "drive2.ru — кейсы «облом пружины», «просела пружина» по различным маркам": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ГОСТ 13764-86 «Пружины винтовые цилиндрические... Классы прочности»": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "topic_slug": "sci-damping-ratio-vs-wear",
+  "iter": 1,
+  "verified_at": "2026-04-15T20:20:38.466373+00:00",
+  "sources": {
+    "10.4271/2005-01-1712": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "10.1243/09544070JAUT0170": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "10.1016/j.ymssp.2005.12.002": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ISBN:978-0-7680-0951-3": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "10.1016/j.ymssp.2010.07.014": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ISO 8727:1988": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

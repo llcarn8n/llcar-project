@@ -1,0 +1,23 @@
+{
+  "topic_slug": "ball-joints",
+  "iter": 1,
+  "verified_at": "2026-04-15T20:07:54.577551+00:00",
+  "sources": {
+    "Reimpell J., Stoll H., Betzler J. «The Automotive Chassis: Engineering Principles». ISBN 978-0768006575, Chapter 5: Suspension Systems": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Гинцбург Л.Л. «Динамика автомобиля». М.: Машиностроение, ISBN неизвестен": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "drive2.ru, поиск по тегу 'шаровая опора диагностика', темы с отчётами по замене и проверке": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ГОСТ 27718-88 «Шарниры шаровые автомобилей. Общие технические требования»": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "topic_slug": "нормативы-допустимого-количества-колебаний-при-раскачке-по-iso-для-разных-классо",
+  "iter": 2,
+  "verified_at": "2026-04-15T20:41:20.050337+00:00",
+  "sources": {
+    "ISO 2631-1:2021": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ISBN 978-1-4614-2443-9": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ISBN 978-1560911999 (SAE R-114)": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "10.1016/j.ymssp.2019.106532": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ISO 8608:2016": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "SAE 2019-01-1546": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

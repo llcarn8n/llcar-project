@@ -1,0 +1,23 @@
+{
+  "topic_slug": "cross-check-correlation-engine",
+  "iter": 1,
+  "verified_at": "2026-04-15T20:20:38.460377+00:00",
+  "sources": {
+    "Reimpell J., Stoll H., Betzler J. «The Automotive Chassis: Engineering Principles», 2nd ed., ISBN 978-0768006755, Chapters 8 (Vibration) and 14 (Driveshafts)": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Saegusa T. et al., «Diagnostic Method for Wheel Bearing Wear Using Vibration and Acoustic Analysis», SAE 2014-01-0914": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ISO 10816-3:2009 «Mechanical vibration — Evaluation of machine vibration by measurements on non-rotating parts», Part 3": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "drive2.ru/b/503788281273497412/ (topic: «Диагностика подшипника по звуку и вибрации — сравнение методик»), autoscaners.info/topic/1456 (topic: «NVH-анализ на вибростенде: практический опыт»)": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

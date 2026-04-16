@@ -415,7 +415,7 @@ class TestRuleEngineIntegration:
         features = _make_features(ltft_abs=15.0)
         baselines = _make_baselines_store()
 
-        results = engine.run_all([], features, baselines, packet.regime, packet)
+        results = engine.run_all([], features, baselines, packet.regime, packet)["results"]
         names = [r["name"] for r in results]
         # fuel_bank_cross should appear (both banks > 5%)
         assert "fuel_bank_cross" in names
@@ -431,7 +431,7 @@ class TestRuleEngineIntegration:
         features = _make_features(ltft_abs=20.0)
         baselines = _make_baselines_store()
 
-        results = engine.run_all([], features, baselines, packet.regime, packet)
+        results = engine.run_all([], features, baselines, packet.regime, packet)["results"]
         confidences = [r["confidence"] for r in results]
         assert confidences == sorted(confidences, reverse=True)
 
@@ -443,7 +443,8 @@ class TestRuleEngineIntegration:
         baselines = BaselineStore()
 
         # Should not raise
-        results = engine.run_all([], features, baselines, DrivingRegime.UNKNOWN, packet)
+        output = engine.run_all([], features, baselines, DrivingRegime.UNKNOWN, packet)
+        results = output["results"]
         assert isinstance(results, list)
 
 
@@ -476,8 +477,8 @@ class TestResultFormat:
         assert _confidence_to_status(20.0) == "unlikely"
         assert _confidence_to_status(0.0) == "clear"
 
-    def test_all_rules_list_has_seven_entries(self):
-        """ALL_RULES contains exactly 7 rule functions."""
-        assert len(ALL_RULES) == 7
+    def test_all_rules_list_has_expected_entries(self):
+        """ALL_RULES contains expected number of rule functions."""
+        assert len(ALL_RULES) == 8
         for fn in ALL_RULES:
             assert callable(fn)

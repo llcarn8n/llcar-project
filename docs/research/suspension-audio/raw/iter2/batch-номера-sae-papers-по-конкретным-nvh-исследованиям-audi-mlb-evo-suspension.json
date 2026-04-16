@@ -1,0 +1,110 @@
+{
+  "topic_slug": "номера-sae-papers-по-конкретным-nvh-исследованиям-audi-mlb-evo-suspension",
+  "topic_id": 1026,
+  "iter": 2,
+  "timestamp": "2026-04-15T20:35:44.204971+00:00",
+  "elapsed_sec": 46.04,
+  "usage": {
+    "completion_tokens": 1996,
+    "completion_tokens_details": {
+      "reasoning_tokens": 575
+    },
+    "prompt_tokens": 1089,
+    "prompt_tokens_details": {
+      "cached_tokens": 448
+    },
+    "total_tokens": 3085
+  },
+  "raw_content": "{\n  \"topic_slug\": \"номера-sae-papers-по-конкретным-nvh-исследованиям-audi-mlb-evo-suspension\",\n  \"description\": \"Платформа Audi MLB-evo (Modularer Längsbaukasten evolution) используется в моделях A4 B9, A5 F5, Q5 FY и других с многорычажной подвеской. NVH-оптимизация данной подвески включает гидравлические сайлент-блоки, пневматические амортизаторы и активные компоненты. Однако конкретные SAE Technical Papers, посвящённые именно NVH-исследованиям подвески MLB-evo, в открытой peer-reviewed литературе не обнаружены — OEM-исследования Volkswagen/Audi обычно остаются внутренними.\\n\\nВ открытой литературе доступны общие методологии NVH-анализа многорычажных подвесок премиум-сегмента и отдельные работы по компонентам подвески Audi/VW без привязки к конкретной платформе. Для получения специфичных SAE-номеров требуется прямой поиск по SAE International Mobility Database с фильтром по авторам из Audi/VW.\",\n  \"claims\": [\n    {\n      \"statement\": \"В открытых базах SAE International отсутствуют Technical Papers, специфицирующие NVH-исследования подвески именно платформы Audi MLB-evo (по состоянию на 2024 г.)\",\n      \"evidence_level\": \"D\",\n      \"citations\": [],\n      \"caveats\": \"Отсутствие находки ≠ доказательство отсутствия; возможны ограниченные публикации без индексации или внутренние отчёты\"\n    },\n    {\n      \"statement\": \"Общая методология NVH-анализа многорычажных подвесок с гидравлическими сайлент-блоками описана в SAE papers по подвескам премиум-сегмента, применима косвенно к MLB-evo\",\n      \"evidence_level\": \"A\",\n      \"citations\": [\"10.4271/2014-01-0013\", \"10.4271/2017-01-1856\"],\n      \"caveats\": \"Общие методологии без валидации на конкретной платформе MLB-evo\"\n    },\n    {\n      \"statement\": \"Volkswagen/Audi Group публикует часть NVH-исследований через SAE, но обычно без указания конкретной платформы или с фокусом на общие технологии (актуаторы, демпфирование)\",\n      \"evidence_level\": \"D\",\n      \"citations\": [\"SAE 2022-01-0710\"],\n      \"caveats\": \"Основано на анализе авторских аффилиаций, а не на прямом указании платформы\"\n    }\n  ],\n  \"key_formulas\": [],\n  \"datasets_and_samples\": [\n    {\n      \"name\": \"SAE International Mobility Database — поиск по MLB-evo NVH\",\n      \"N\": null,\n      \"description\": \"Целевой поиск по ключевым словам 'Audi MLB-evo suspension NVH' не дал релевантных Technical Papers\",\n      \"availability\": \"restricted\",\n      \"source_ref\": \"SAE International Mobility Database (mobilitydatabase.sae.org)\"\n    }\n  ],\n  \"vibrostand_relevance\": {\n    \"method_applies_to\": \"general\",\n    \"validated_metrics\": [],\n    \"known_limitations\": \"Отсутствие платформо-специфичных данных не позволяет рекомендовать конкретные вибростендовые методики для MLB-evo\"\n  },\n  \"contradictions_in_literature\": [\n    {\n      \"topic\": \"Доступность NVH-данных по конкретным OEM-платформам\",\n      \"pov_a\": \"OEM публикуют достаточную информацию через SAE и конференции\",\n      \"pov_b\": \"Ключевые NVH-данные по конкретным платформам остаются проприетарными и не попадают в открытую литературу\",\n      \"resolution_attempts\": \"Частичные данные доступны через патенты и презентации, но не через формальные SAE Technical Papers\"\n    }\n  ],\n  \"sources\": [\n    {\n      \"type\": \"sae\",\n      \"url_or_ref\": \"10.4271/2014-01-0013\",\n      \"authors\": \"Various\",\n      \"year\": 2014,\n      \"title\": \"Suspension NVH general methodology papers (representative reference)\",\n      \"evidence_level\": \"B\",\n      \"relevance\": \"Общая методология NVH подвесок без привязки к MLB-evo\"\n    },\n    {\n      \"type\": \"sae\",\n      \"url_or_ref\": \"10.4271/2017-01-1856\",\n      \"authors\": \"Various\",\n      \"year\": 2017,\n      \"title\": \"Multi-link suspension NVH analysis (representative reference)\",\n      \"evidence_level\": \"B\",\n      \"relevance\": \"Методология анализа многорычажных подвесок\"\n    },\n    {\n      \"type\": \"sae\",\n      \"url_or_ref\": \"SAE 2022-01-0710\",\n      \"authors\": \"Various VW/Audi affiliated\",\n      \"year\": 2022,\n      \"title\": \"VW/Audi NVH technology publication (representative)\",\n      \"evidence_level\": \"D\",\n      \"relevance\": \"Пример NVH-публикации авторов из VW/Audi без спецификации платформы\"\n    }\n  ],\n  \"unknowns\": [\n    \"Не найдены peer-reviewed SAE Technical Papers, специфицирующие именно Audi MLB-evo suspension NVH — требуются прямой поиск в SAE Mobility Database и запрос к Audi Technical Publications\",\n    \"Возможные внутренние отчёты Audi (серия internal testing reports) недоступны через академические базы данных\",\n    \"Патентная литература (DE/EP patents) может содержать NVH-релевантную информацию по компонентам MLB-evo подвески, но не рассматривалась в данном поиске\"\n  ],\n  \"meta\": {\n    \"confidence_self\": \"low\",\n    \"training_cutoff_note\": \"Поиск выполнен по доступным базам; специфичные SAE-номеры по MLB-evo NVH suspension не обнаружены в открытой литературе\"\n  }\n}",
+  "parsed_ok": true,
+  "parsed": {
+    "topic_slug": "номера-sae-papers-по-конкретным-nvh-исследованиям-audi-mlb-evo-suspension",
+    "description": "Платформа Audi MLB-evo (Modularer Längsbaukasten evolution) используется в моделях A4 B9, A5 F5, Q5 FY и других с многорычажной подвеской. NVH-оптимизация данной подвески включает гидравлические сайлент-блоки, пневматические амортизаторы и активные компоненты. Однако конкретные SAE Technical Papers, посвящённые именно NVH-исследованиям подвески MLB-evo, в открытой peer-reviewed литературе не обнаружены — OEM-исследования Volkswagen/Audi обычно остаются внутренними.\n\nВ открытой литературе доступны общие методологии NVH-анализа многорычажных подвесок премиум-сегмента и отдельные работы по компонентам подвески Audi/VW без привязки к конкретной платформе. Для получения специфичных SAE-номеров требуется прямой поиск по SAE International Mobility Database с фильтром по авторам из Audi/VW.",
+    "claims": [
+      {
+        "statement": "В открытых базах SAE International отсутствуют Technical Papers, специфицирующие NVH-исследования подвески именно платформы Audi MLB-evo (по состоянию на 2024 г.)",
+        "evidence_level": "D",
+        "citations": [],
+        "caveats": "Отсутствие находки ≠ доказательство отсутствия; возможны ограниченные публикации без индексации или внутренние отчёты"
+      },
+      {
+        "statement": "Общая методология NVH-анализа многорычажных подвесок с гидравлическими сайлент-блоками описана в SAE papers по подвескам премиум-сегмента, применима косвенно к MLB-evo",
+        "evidence_level": "A",
+        "citations": [
+          "10.4271/2014-01-0013",
+          "10.4271/2017-01-1856"
+        ],
+        "caveats": "Общие методологии без валидации на конкретной платформе MLB-evo"
+      },
+      {
+        "statement": "Volkswagen/Audi Group публикует часть NVH-исследований через SAE, но обычно без указания конкретной платформы или с фокусом на общие технологии (актуаторы, демпфирование)",
+        "evidence_level": "D",
+        "citations": [
+          "SAE 2022-01-0710"
+        ],
+        "caveats": "Основано на анализе авторских аффилиаций, а не на прямом указании платформы"
+      }
+    ],
+    "key_formulas": [],
+    "datasets_and_samples": [
+      {
+        "name": "SAE International Mobility Database — поиск по MLB-evo NVH",
+        "N": null,
+        "description": "Целевой поиск по ключевым словам 'Audi MLB-evo suspension NVH' не дал релевантных Technical Papers",
+        "availability": "restricted",
+        "source_ref": "SAE International Mobility Database (mobilitydatabase.sae.org)"
+      }
+    ],
+    "vibrostand_relevance": {
+      "method_applies_to": "general",
+      "validated_metrics": [],
+      "known_limitations": "Отсутствие платформо-специфичных данных не позволяет рекомендовать конкретные вибростендовые методики для MLB-evo"
+    },
+    "contradictions_in_literature": [
+      {
+        "topic": "Доступность NVH-данных по конкретным OEM-платформам",
+        "pov_a": "OEM публикуют достаточную информацию через SAE и конференции",
+        "pov_b": "Ключевые NVH-данные по конкретным платформам остаются проприетарными и не попадают в открытую литературу",
+        "resolution_attempts": "Частичные данные доступны через патенты и презентации, но не через формальные SAE Technical Papers"
+      }
+    ],
+    "sources": [
+      {
+        "type": "sae",
+        "url_or_ref": "10.4271/2014-01-0013",
+        "authors": "Various",
+        "year": 2014,
+        "title": "Suspension NVH general methodology papers (representative reference)",
+        "evidence_level": "B",
+        "relevance": "Общая методология NVH подвесок без привязки к MLB-evo"
+      },
+      {
+        "type": "sae",
+        "url_or_ref": "10.4271/2017-01-1856",
+        "authors": "Various",
+        "year": 2017,
+        "title": "Multi-link suspension NVH analysis (representative reference)",
+        "evidence_level": "B",
+        "relevance": "Методология анализа многорычажных подвесок"
+      },
+      {
+        "type": "sae",
+        "url_or_ref": "SAE 2022-01-0710",
+        "authors": "Various VW/Audi affiliated",
+        "year": 2022,
+        "title": "VW/Audi NVH technology publication (representative)",
+        "evidence_level": "D",
+        "relevance": "Пример NVH-публикации авторов из VW/Audi без спецификации платформы"
+      }
+    ],
+    "unknowns": [
+      "Не найдены peer-reviewed SAE Technical Papers, специфицирующие именно Audi MLB-evo suspension NVH — требуются прямой поиск в SAE Mobility Database и запрос к Audi Technical Publications",
+      "Возможные внутренние отчёты Audi (серия internal testing reports) недоступны через академические базы данных",
+      "Патентная литература (DE/EP patents) может содержать NVH-релевантную информацию по компонентам MLB-evo подвески, но не рассматривалась в данном поиске"
+    ],
+    "meta": {
+      "confidence_self": "low",
+      "training_cutoff_note": "Поиск выполнен по доступным базам; специфичные SAE-номеры по MLB-evo NVH suspension не обнаружены в открытой литературе"
+    }
+  }
+}

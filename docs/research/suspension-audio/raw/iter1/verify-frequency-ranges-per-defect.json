@@ -1,0 +1,23 @@
+{
+  "topic_slug": "frequency-ranges-per-defect",
+  "iter": 1,
+  "verified_at": "2026-04-15T20:15:44.257492+00:00",
+  "sources": {
+    "SAE J1074 — Engine Sound Level Measurement Procedure (методика акустических измерений, адаптируется для подвески)": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ISO 10816-3:2009 — Mechanical vibration. Evaluation of machine vibration by measurements on non-rotating parts": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Reimpell J., Stoll H., Betzler J.W. The Automotive Chassis: Engineering Principles. ISBN 978-0-7680-0657-5. Chapter 8: Vibration and Noise": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "autoscaners.info — тема 'NVH-диагностика подвески'; drive2.ru — отчёты по Chassis Ear и частотам дефектов": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

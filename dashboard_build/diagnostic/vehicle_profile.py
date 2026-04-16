@@ -28,6 +28,7 @@ class VehicleProfile:
     engine_type: str = "ice"
     mileage_km: int = 0
     platform: Optional[str] = None
+    tire_diameter: float = 0.63  # meters, default 205/55 R16
     modifications: Dict[str, Any] = field(default_factory=dict)
 
     # ------------------------------------------------------------------

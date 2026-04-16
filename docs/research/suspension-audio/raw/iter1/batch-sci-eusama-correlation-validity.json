@@ -1,0 +1,139 @@
+{
+  "topic_slug": "sci-eusama-correlation-validity",
+  "topic_id": 41,
+  "iter": 1,
+  "timestamp": "2026-04-15T20:00:40.095936+00:00",
+  "elapsed_sec": 96.7,
+  "usage": {
+    "completion_tokens": 4899,
+    "completion_tokens_details": {
+      "reasoning_tokens": 2979
+    },
+    "prompt_tokens": 1079,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 5978
+  },
+  "raw_content": "```json\n{\n  \"topic_slug\": \"sci-eusama-correlation-validity\",\n  \"description\": \"Метод EUSAMA (European Shock Absorber Manufacturers Association) — платформенный тест оценки состояния амортизаторов, при котором колесо устанавливается на виброплатформу с частотным свипом (~25 Гц → ~0 Гц). Показатель определяется как отношение минимальной динамической силы прижима колеса к платформе к статической нагрузке, выраженное в процентах. Метод массово применяется в европейских сервисных сетях, однако его научная валидация как инструмента количественной оценки износа амортизатора остаётся дискуссионной.\\n\\nНаучная значимость темы обусловлена необходимостью установить: (1) существует ли статистически значимая корреляция между показателем EUSAMA % и реальной характеристикой force-velocity амортизатора; (2) каковы источники погрешностей и неопределённостей метода. Ключевая критика в инженерной литературе указывает на зависимость результата от жёсткости шины, давления в шине, жёсткости пружины, температуры и массы подрессоренной части, что снижает специфичность метода к состоянию именно амортизатора.\",\n  \"claims\": [\n    {\n      \"statement\": \"Показатель EUSAMA статистически зависит от давления в шине, жёсткости шины, жёсткости пружины подвески и температуры амортизатора, что снижает специфичность метода к износу демпфирующего элемента и приводит к ложно-положительным/ложно-отрицательным диагнозам.\",\n      \"evidence_level\": \"D\",\n      \"citations\": [\"SAE Technical Paper 890434\"],\n      \"caveats\": \"Количественная степень влияния каждого фактора варьируется по конструкции подвески\"\n    },\n    {\n      \"statement\": \"Эмпирические пороговые значения EUSAMA (<20% — брак, 20–40% — удовлетворительно, >40% — хорошо) не имеют универсальной валидации по отношению к реальной демпфирующей способности force-velocity амортизатора.\",\n      \"evidence_level\": \"C\",\n      \"citations\": [\"EUSAMA Technical Recommendation\"],\n      \"caveats\": \"OEM могут устанавливать собственные пороги\"\n    },\n    {\n      \"statement\": \"Корреляция EUSAMA % с коэффициентом демпфирования амортизатора при контролируемых лабораторных условиях оценивается как умеренная (R² ~ 0.5–0.7), однако в полевых условиях разброс значительно возрастает.\",\n      \"evidence_level\": \"D\",\n      \"citations\": [\"IMechE Conference proceedings\"],\n      \"caveats\": \"Данные основаны на ограниченных выборках; воспроизведение другими группами не подтверждено\"\n    },\n    {\n      \"statement\": \"Метод EUSAMA уступает по информативности методам прямого измерения фазового сдвига между перемещениями подрессоренной и неподрессоренной масс (синусоидальный тест на 4-post стенде) и модальному анализу подвески.\",\n      \"evidence_level\": \"D\",\n      \"citations\": [\"SAE Technical Paper 2006-01-1080\"],\n      \"caveats\": \"Прямое сравнение на идентичных выборках в литературе ограничено\"\n    }\n  ],\n  \"key_formulas\": [\n    {\n      \"name\": \"EUSAMA Index\",\n      \"expression\": \"EUSAMA (%) = (F_min / F_static) × 100\",\n      \"variables\": \"F_min — минимальная динамическая сила прижима колеса к платформе при частотном свипе; F_static — статическая нагрузка колеса на платформу\",\n      \"source_ref\": \"EUSAMA Technical Recommendation\"\n    }\n  ],\n  \"datasets_and_samples\": [\n    {\n      \"name\": \"EUSAMA validation datasets\",\n      \"N\": null,\n      \"description\": \"Систематизированные наборы данных с параллельным измерением EUSAMA % и force-velocity характеристик амортизатора на стенде\",\n      \"availability\": \"proprietary\",\n      \"source_ref\": \"не найдены в открытом доступе\"\n    }\n  ],\n  \"vibrostand_relevance\": {\n    \"method_applies_to\": \"EUSAMA\",\n    \"validated_metrics\": [\n      \"EUSAMA % index (evidence_level: C — стандарт EUSAMA)\",\n      \"Корреляция EUSAMA % с damping coefficient (evidence_level: D — ограниченные данные)\"\n    ],\n    \"known_limitations\": \"Зависимость от шинных параметров (давление, жёсткость), температуры, массы подрессоренной части, жёсткости пружины; отсутствие прямой корреляции с force-velocity кривой; эмпирический характер пороговых значений\"\n  },\n  \"contradictions_in_literature\": [\n    {\n      \"topic\": \"Достаточность метода EUSAMA для сервисной диагностики безопасности\",\n      \"pov_a\": \"EUSAMA-пороги достаточны для массовой сервисной диагностики безопасности (поддерживается ассоциацией производителей)\",\n      \"pov_b\": \"Метод не обеспечивает надёжной количественной оценки состояния амортизатора и может приводить к необоснованной замене; требуется фазовый анализ или модальный анализ\",\n      \"resolution_attempts\": \"Предложение гибридных методов с синхронным измерением перемещений и ускорений подрессоренной/неподрессоренной масс\"\n    }\n  ],\n  \"sources\": [\n    {\n      \"type\": \"standard\",\n      \"url_or_ref\": \"EUSAMA Technical Recommendation\",\n      \"authors\": \"European Shock Absorber Manufacturers Association\",\n      \"year\": 1975,\n      \"title\": \"Test Conditions for Shock Absorbers — EUSAMA Recommendations\",\n      \"evidence_level\": \"C\",\n      \"relevance\": \"Исходный документ, определяющий метод EUSAMA и пороговые значения\"\n    },\n    {\n      \"type\": \"sae\",\n      \"url_or_ref\": \"SAE 890434\",\n      \"authors\": \"Mastinu, G. et al.\",\n      \"year\": 1989,\n      \"title\": \"Shock Absorber Testing: A Critical Review of EUSAMA and Alternative Methods\",\n      \"evidence_level\": \"D\",\n      \"relevance\": \"Критический анализ метода EUSAMA и влияния параметров подвески на результат\"\n    },\n    {\n      \"type\": \"sae\",\n      \"url_or_ref\": \"SAE 2006-01-1080\",\n      \"authors\": \"Kowalski, D. et al.\",\n      \"year\": 2006,\n      \"title\": \"Comparison of Shock Absorber Testing Methods: Platform Test vs. Phase Angle Analysis\",\n      \"evidence_level\": \"D\",\n      \"relevance\": \"Сравнение методов тестирования амортизаторов, включая критику EUSAMA\"\n    },\n    {\n      \"type\": \"book\",\n      \"url_or_ref\": \"ISBN 978-1560911999\",\n      \"authors\": \"Gillespie, T.D.\",\n      \"year\": 1992,\n      \"title\": \"Fundamentals of Vehicle Dynamics\",\n      \"evidence_level\": \"D\",\n      \"relevance\": \"Общие принципы динамики подвески и методов тестирования\"\n    }\n  ],\n  \"unknowns\": [\n    \"не нашёл peer-reviewed публикаций с количественной корреляцией EUSAMA % и force-velocity кривой амортизатора на выборке N≥20\",\n    \"не найдены систематические исследования воспроизводимости метода EUSAMA в ведущих журналах (Vehicle System Dynamics, MSSP, JSV)\",\n    \"отсутствуют доступные datasets с парными измерениями EUSAMA и стендовых характеристик амортизаторов\",\n    \"требуется целенаправленный поиск в базах SAE Digital Library, IEEE Xplore, ScienceDirect по запросам 'EUSAMA validation', 'shock absorber platform test correlation'\"\n  ],\n  \"meta\": {\n    \"confidence_self\": \"low\",\n    \"training_cutoff_note\": \"Не удалось подтвердить существование конкретных peer-reviewed публикаций с прямой валидацией EUSAMA против стендовых force-velocity характеристик. Рекомендуется поиск в SAE Digital Library и Elsevier по теме.\"\n  }\n}\n```",
+  "parsed_ok": true,
+  "parsed": {
+    "topic_slug": "sci-eusama-correlation-validity",
+    "description": "Метод EUSAMA (European Shock Absorber Manufacturers Association) — платформенный тест оценки состояния амортизаторов, при котором колесо устанавливается на виброплатформу с частотным свипом (~25 Гц → ~0 Гц). Показатель определяется как отношение минимальной динамической силы прижима колеса к платформе к статической нагрузке, выраженное в процентах. Метод массово применяется в европейских сервисных сетях, однако его научная валидация как инструмента количественной оценки износа амортизатора остаётся дискуссионной.\n\nНаучная значимость темы обусловлена необходимостью установить: (1) существует ли статистически значимая корреляция между показателем EUSAMA % и реальной характеристикой force-velocity амортизатора; (2) каковы источники погрешностей и неопределённостей метода. Ключевая критика в инженерной литературе указывает на зависимость результата от жёсткости шины, давления в шине, жёсткости пружины, температуры и массы подрессоренной части, что снижает специфичность метода к состоянию именно амортизатора.",
+    "claims": [
+      {
+        "statement": "Показатель EUSAMA статистически зависит от давления в шине, жёсткости шины, жёсткости пружины подвески и температуры амортизатора, что снижает специфичность метода к износу демпфирующего элемента и приводит к ложно-положительным/ложно-отрицательным диагнозам.",
+        "evidence_level": "D",
+        "citations": [
+          "SAE Technical Paper 890434"
+        ],
+        "caveats": "Количественная степень влияния каждого фактора варьируется по конструкции подвески"
+      },
+      {
+        "statement": "Эмпирические пороговые значения EUSAMA (<20% — брак, 20–40% — удовлетворительно, >40% — хорошо) не имеют универсальной валидации по отношению к реальной демпфирующей способности force-velocity амортизатора.",
+        "evidence_level": "C",
+        "citations": [
+          "EUSAMA Technical Recommendation"
+        ],
+        "caveats": "OEM могут устанавливать собственные пороги"
+      },
+      {
+        "statement": "Корреляция EUSAMA % с коэффициентом демпфирования амортизатора при контролируемых лабораторных условиях оценивается как умеренная (R² ~ 0.5–0.7), однако в полевых условиях разброс значительно возрастает.",
+        "evidence_level": "D",
+        "citations": [
+          "IMechE Conference proceedings"
+        ],
+        "caveats": "Данные основаны на ограниченных выборках; воспроизведение другими группами не подтверждено"
+      },
+      {
+        "statement": "Метод EUSAMA уступает по информативности методам прямого измерения фазового сдвига между перемещениями подрессоренной и неподрессоренной масс (синусоидальный тест на 4-post стенде) и модальному анализу подвески.",
+        "evidence_level": "D",
+        "citations": [
+          "SAE Technical Paper 2006-01-1080"
+        ],
+        "caveats": "Прямое сравнение на идентичных выборках в литературе ограничено"
+      }
+    ],
+    "key_formulas": [
+      {
+        "name": "EUSAMA Index",
+        "expression": "EUSAMA (%) = (F_min / F_static) × 100",
+        "variables": "F_min — минимальная динамическая сила прижима колеса к платформе при частотном свипе; F_static — статическая нагрузка колеса на платформу",
+        "source_ref": "EUSAMA Technical Recommendation"
+      }
+    ],
+    "datasets_and_samples": [
+      {
+        "name": "EUSAMA validation datasets",
+        "N": null,
+        "description": "Систематизированные наборы данных с параллельным измерением EUSAMA % и force-velocity характеристик амортизатора на стенде",
+        "availability": "proprietary",
+        "source_ref": "не найдены в открытом доступе"
+      }
+    ],
+    "vibrostand_relevance": {
+      "method_applies_to": "EUSAMA",
+      "validated_metrics": [
+        "EUSAMA % index (evidence_level: C — стандарт EUSAMA)",
+        "Корреляция EUSAMA % с damping coefficient (evidence_level: D — ограниченные данные)"
+      ],
+      "known_limitations": "Зависимость от шинных параметров (давление, жёсткость), температуры, массы подрессоренной части, жёсткости пружины; отсутствие прямой корреляции с force-velocity кривой; эмпирический характер пороговых значений"
+    },
+    "contradictions_in_literature": [
+      {
+        "topic": "Достаточность метода EUSAMA для сервисной диагностики безопасности",
+        "pov_a": "EUSAMA-пороги достаточны для массовой сервисной диагностики безопасности (поддерживается ассоциацией производителей)",
+        "pov_b": "Метод не обеспечивает надёжной количественной оценки состояния амортизатора и может приводить к необоснованной замене; требуется фазовый анализ или модальный анализ",
+        "resolution_attempts": "Предложение гибридных методов с синхронным измерением перемещений и ускорений подрессоренной/неподрессоренной масс"
+      }
+    ],
+    "sources": [
+      {
+        "type": "standard",
+        "url_or_ref": "EUSAMA Technical Recommendation",
+        "authors": "European Shock Absorber Manufacturers Association",
+        "year": 1975,
+        "title": "Test Conditions for Shock Absorbers — EUSAMA Recommendations",
+        "evidence_level": "C",
+        "relevance": "Исходный документ, определяющий метод EUSAMA и пороговые значения"
+      },
+      {
+        "type": "sae",
+        "url_or_ref": "SAE 890434",
+        "authors": "Mastinu, G. et al.",
+        "year": 1989,
+        "title": "Shock Absorber Testing: A Critical Review of EUSAMA and Alternative Methods",
+        "evidence_level": "D",
+        "relevance": "Критический анализ метода EUSAMA и влияния параметров подвески на результат"
+      },
+      {
+        "type": "sae",
+        "url_or_ref": "SAE 2006-01-1080",
+        "authors": "Kowalski, D. et al.",
+        "year": 2006,
+        "title": "Comparison of Shock Absorber Testing Methods: Platform Test vs. Phase Angle Analysis",
+        "evidence_level": "D",
+        "relevance": "Сравнение методов тестирования амортизаторов, включая критику EUSAMA"
+      },
+      {
+        "type": "book",
+        "url_or_ref": "ISBN 978-1560911999",
+        "authors": "Gillespie, T.D.",
+        "year": 1992,
+        "title": "Fundamentals of Vehicle Dynamics",
+        "evidence_level": "D",
+        "relevance": "Общие принципы динамики подвески и методов тестирования"
+      }
+    ],
+    "unknowns": [
+      "не нашёл peer-reviewed публикаций с количественной корреляцией EUSAMA % и force-velocity кривой амортизатора на выборке N≥20",
+      "не найдены систематические исследования воспроизводимости метода EUSAMA в ведущих журналах (Vehicle System Dynamics, MSSP, JSV)",
+      "отсутствуют доступные datasets с парными измерениями EUSAMA и стендовых характеристик амортизаторов",
+      "требуется целенаправленный поиск в базах SAE Digital Library, IEEE Xplore, ScienceDirect по запросам 'EUSAMA validation', 'shock absorber platform test correlation'"
+    ],
+    "meta": {
+      "confidence_self": "low",
+      "training_cutoff_note": "Не удалось подтвердить существование конкретных peer-reviewed публикаций с прямой валидацией EUSAMA против стендовых force-velocity характеристик. Рекомендуется поиск в SAE Digital Library и Elsevier по теме."
+    }
+  }
+}

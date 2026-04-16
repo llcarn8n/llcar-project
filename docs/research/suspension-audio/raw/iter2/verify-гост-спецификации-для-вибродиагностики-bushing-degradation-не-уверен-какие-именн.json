@@ -1,0 +1,23 @@
+{
+  "topic_slug": "гост-спецификации-для-вибродиагностики-bushing-degradation-не-уверен-какие-именн",
+  "iter": 2,
+  "verified_at": "2026-04-15T20:41:20.042302+00:00",
+  "sources": {
+    "ГОСТ ИСО 10816-1-97": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ГОСТ 30576-98": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ГОСТ Р ИСО 13373-1-2009": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ГОСТ 28988-91": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

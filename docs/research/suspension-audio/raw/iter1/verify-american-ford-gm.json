@@ -1,0 +1,23 @@
+{
+  "topic_slug": "american-ford-gm",
+  "iter": 1,
+  "verified_at": "2026-04-15T20:20:38.449942+00:00",
+  "sources": {
+    "Ford TSB 19-2299 (Explorer Steering Noise), TSB 20-2221": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "GM PIP5244A (Tahoe/Yukon Front Strut Noise), PI1354A (Magnetic Ride)": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Reimpell J., Stoll H., Betzler J. 'The Automotive Chassis: Engineering Principles', ISBN 978-076800675-5, Chapter 5: Suspension": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "BobIsTheOilGuy forums — 'Ford Explorer Steering Issues', 'GM Magnetic Ride Control failures'": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "topic_slug": "diagnostic-sequence-standard",
+  "iter": 1,
+  "verified_at": "2026-04-15T20:20:38.451961+00:00",
+  "sources": {
+    "Гинцбург Б.А. «Динамика автомобиля» — Л., Машиностроение, 1972": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Reimpell J., Stoll H., Betzler J.W. «The Automotive Chassis: Engineering Principles» (2nd ed.), ISBN 978-0-7680-0657-5, SAE International, 2001": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ISO 13373-1:2002 — Condition monitoring and diagnostics of machines — Vibration condition monitoring — Part 1: General procedures": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Форум autoscaners.info, тема «Диагностика подвески на вибростенде: методология и практика»": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

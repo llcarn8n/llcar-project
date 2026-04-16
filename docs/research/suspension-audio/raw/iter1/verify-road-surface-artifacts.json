@@ -1,0 +1,23 @@
+{
+  "topic_slug": "road-surface-artifacts",
+  "iter": 1,
+  "verified_at": "2026-04-15T20:15:44.264493+00:00",
+  "sources": {
+    "ISO 10844:2014 — Specification of test tracks for measuring noise emitted by road vehicles and their tyres": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "SAE 2013-01-1909 — 'Tire/Road Noise Characterization Using Source Path Contribution'": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "BMW AG, Diagnostic Manual 'Acoustic Troubleshooting in Chassis', SI M51 01 19 (E70/E71)": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Drive2.ru: тема «NVH-диагностика подвески — методология и кейсы», пользователь NVHexpert (2020–2023)": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

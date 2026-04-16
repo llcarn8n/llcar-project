@@ -1,0 +1,31 @@
+{
+  "topic_slug": "sci-bushing-fatigue-lab-tests",
+  "iter": 1,
+  "verified_at": "2026-04-15T20:24:51.111245+00:00",
+  "sources": {
+    "DOI:10.1016/S0142-1123(02)00037-2": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "DOI:10.1098/rspa.1972.0026": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "DOI:10.1016/j.ijfatigue.2005.08.005": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ISO 4664-1:2011": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ASTM D4482-11(2019)": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ISBN:978-3-319-69926-1": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

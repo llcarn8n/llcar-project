@@ -1,0 +1,1891 @@
+{
+  "doi": {
+    "10.3390/s20061818": {
+      "status": "http_404",
+      "code": 404,
+      "final_url": "",
+      "elapsed_sec": 0.55,
+      "ref": "10.3390/s20061818",
+      "used_in": [
+        "sci-accelerometer-placement-iso"
+      ]
+    },
+    "10.1115/1.2895676": {
+      "status": "http_404",
+      "code": 404,
+      "final_url": "",
+      "elapsed_sec": 0.49,
+      "ref": "10.1115/1.2895676",
+      "used_in": [
+        "sci-accelerometer-placement-iso"
+      ]
+    },
+    "10.1016/j.wear.2018.04.012": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0043164817316307",
+      "elapsed_sec": 1.75,
+      "ref": "10.1016/j.wear.2018.04.012",
+      "used_in": [
+        "sci-ball-joint-fatigue-models"
+      ]
+    },
+    "10.1016/j.triboint.2019.04.035": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0301679X19302294",
+      "elapsed_sec": 1.02,
+      "ref": "10.1016/j.triboint.2019.04.035",
+      "used_in": [
+        "sci-ball-joint-fatigue-models"
+      ]
+    },
+    "10.1016/j.triboint.2017.03.024": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0301679X1730141X",
+      "elapsed_sec": 1.03,
+      "ref": "10.1016/j.triboint.2017.03.024",
+      "used_in": [
+        "sci-ball-joint-fatigue-models"
+      ]
+    },
+    "10.1016/j.ijfatigue.2016.05.033": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0142112316301414",
+      "elapsed_sec": 1.06,
+      "ref": "10.1016/j.ijfatigue.2016.05.033",
+      "used_in": [
+        "sci-ball-joint-fatigue-models"
+      ]
+    },
+    "10.1016/S0142-1123(02)00037-2": {
+      "status": "http_404",
+      "code": 404,
+      "final_url": "",
+      "elapsed_sec": 0.42,
+      "ref": "DOI:10.1016/S0142-1123(02)00037-2",
+      "used_in": [
+        "sci-bushing-fatigue-lab-tests"
+      ]
+    },
+    "10.1098/rspa.1972.0026": {
+      "status": "http_403",
+      "code": 403,
+      "final_url": "",
+      "elapsed_sec": 0.79,
+      "ref": "DOI:10.1098/rspa.1972.0026",
+      "used_in": [
+        "sci-bushing-fatigue-lab-tests"
+      ]
+    },
+    "10.1016/j.ijfatigue.2005.08.005": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0142112305002161",
+      "elapsed_sec": 1.05,
+      "ref": "DOI:10.1016/j.ijfatigue.2005.08.005",
+      "used_in": [
+        "sci-bushing-fatigue-lab-tests"
+      ]
+    },
+    "10.4271/2005-01-1712": {
+      "status": "http_404",
+      "code": 404,
+      "final_url": "",
+      "elapsed_sec": 0.54,
+      "ref": "10.4271/2005-01-1712",
+      "used_in": [
+        "sci-damping-ratio-vs-wear"
+      ]
+    },
+    "10.1243/09544070JAUT0170": {
+      "status": "http_404",
+      "code": 404,
+      "final_url": "",
+      "elapsed_sec": 0.58,
+      "ref": "10.1243/09544070JAUT0170",
+      "used_in": [
+        "sci-damping-ratio-vs-wear"
+      ]
+    },
+    "10.1016/j.ymssp.2005.12.002": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0888327005002414",
+      "elapsed_sec": 0.97,
+      "ref": "10.1016/j.ymssp.2005.12.002",
+      "used_in": [
+        "sci-damping-ratio-vs-wear"
+      ]
+    },
+    "10.1016/j.ymssp.2010.07.014": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0888327010002505",
+      "elapsed_sec": 1.07,
+      "ref": "10.1016/j.ymssp.2010.07.014",
+      "used_in": [
+        "sci-damping-ratio-vs-wear"
+      ]
+    },
+    "10.1016/j.ymssp.2021.108736": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0888327021010530",
+      "elapsed_sec": 1.08,
+      "ref": "10.1016/j.ymssp.2021.108736",
+      "used_in": [
+        "sci-machine-learning-suspension-diagnostic"
+      ]
+    },
+    "10.1109/TVT.2022.3145017": {
+      "status": "http_404",
+      "code": 404,
+      "final_url": "",
+      "elapsed_sec": 0.66,
+      "ref": "10.1109/TVT.2022.3145017",
+      "used_in": [
+        "sci-machine-learning-suspension-diagnostic"
+      ]
+    },
+    "10.1016/j.eswa.2020.113846": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0957417420306540",
+      "elapsed_sec": 1.02,
+      "ref": "10.1016/j.eswa.2020.113846",
+      "used_in": [
+        "sci-machine-learning-suspension-diagnostic"
+      ]
+    },
+    "10.3390/s21186123": {
+      "status": "http_403",
+      "code": 403,
+      "final_url": "",
+      "elapsed_sec": 1.7,
+      "ref": "10.3390/s21186123",
+      "used_in": [
+        "sci-machine-learning-suspension-diagnostic"
+      ]
+    },
+    "10.1016/j.ymssp.2022.109221": {
+      "status": "http_404",
+      "code": 404,
+      "final_url": "",
+      "elapsed_sec": 0.45,
+      "ref": "10.1016/j.ymssp.2022.109221",
+      "used_in": [
+        "sci-machine-learning-suspension-diagnostic"
+      ]
+    },
+    "10.3390/app11209589": {
+      "status": "http_403",
+      "code": 403,
+      "final_url": "",
+      "elapsed_sec": 1.56,
+      "ref": "10.3390/app11209589",
+      "used_in": [
+        "sci-machine-learning-suspension-diagnostic"
+      ]
+    },
+    "10.1109/JSEN.2021.3130094": {
+      "status": "http_404",
+      "code": 404,
+      "final_url": "",
+      "elapsed_sec": 0.52,
+      "ref": "10.1109/JSEN.2021.3130094",
+      "used_in": [
+        "sci-machine-learning-suspension-diagnostic"
+      ]
+    },
+    "10.1016/j.dib.2021.107091": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S2352340921003759",
+      "elapsed_sec": 1.03,
+      "ref": "10.1016/j.dib.2021.107091",
+      "used_in": [
+        "sci-machine-learning-suspension-diagnostic"
+      ]
+    },
+    "10.1080/00423114.2016.1251598": {
+      "status": "http_403",
+      "code": 403,
+      "final_url": "",
+      "elapsed_sec": 0.81,
+      "ref": "DOI: 10.1080/00423114.2016.1251598",
+      "used_in": [
+        "sci-resonance-theory-foundation"
+      ]
+    },
+    "10.1016/j.ymssp.2018.12.007": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0888327018307842",
+      "elapsed_sec": 1.08,
+      "ref": "DOI: 10.1016/j.ymssp.2018.12.007",
+      "used_in": [
+        "sci-resonance-theory-foundation"
+      ]
+    },
+    "10.4271/850652": {
+      "status": "http_404",
+      "code": 404,
+      "final_url": "",
+      "elapsed_sec": 0.62,
+      "ref": "DOI: 10.4271/850652",
+      "used_in": [
+        "sci-resonance-theory-foundation"
+      ]
+    },
+    "10.1080/00423110802539069": {
+      "status": "http_404",
+      "code": 404,
+      "final_url": "",
+      "elapsed_sec": 0.49,
+      "ref": "10.1080/00423110802539069",
+      "used_in": [
+        "sci-road-input-psd-spectra"
+      ]
+    },
+    "10.1080/00423114.2016.1158883": {
+      "status": "http_404",
+      "code": 404,
+      "final_url": "",
+      "elapsed_sec": 0.44,
+      "ref": "10.1080/00423114.2016.1158883",
+      "used_in": [
+        "sci-road-input-psd-spectra"
+      ]
+    },
+    "10.1016/j.ymssp.2018.12.019": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0888327018307969",
+      "elapsed_sec": 1.04,
+      "ref": "10.1016/j.ymssp.2018.12.019",
+      "used_in": [
+        "sci-road-input-psd-spectra"
+      ]
+    },
+    "10.1016/j.jsv.2018.10.015": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0022460X18306886",
+      "elapsed_sec": 1.09,
+      "ref": "10.1016/j.jsv.2018.10.015",
+      "used_in": [
+        "sci-road-input-psd-spectra"
+      ]
+    },
+    "10.1016/j.vehpro.2018.07.004": {
+      "status": "http_404",
+      "code": 404,
+      "final_url": "",
+      "elapsed_sec": 0.45,
+      "ref": "10.1016/j.vehpro.2018.07.004",
+      "used_in": [
+        "sci-road-input-psd-spectra"
+      ]
+    },
+    "10.4271/2019-01-0160": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://saemobilus.sae.org/papers/robust-design-adhesive-material-bonding-process-automotive-battery-pack-2019-01-0160",
+      "elapsed_sec": 7.28,
+      "ref": "10.4271/2019-01-0160",
+      "used_in": [
+        "sci-road-input-psd-spectra"
+      ]
+    },
+    "10.3390/s20113089": {
+      "status": "http_403",
+      "code": 403,
+      "final_url": "",
+      "elapsed_sec": 1.86,
+      "ref": "DOI:10.3390/s20113089",
+      "used_in": [
+        "sae-paper-по-корреляции-виброакустических-параметров-и-износа-шаровых-возможно-с",
+        "sci-smartphone-sensor-validity"
+      ]
+    },
+    "10.1109/JSEN.2021.3094452": {
+      "status": "http_404",
+      "code": 404,
+      "final_url": "",
+      "elapsed_sec": 0.49,
+      "ref": "DOI:10.1109/JSEN.2021.3094452",
+      "used_in": [
+        "sci-smartphone-sensor-validity"
+      ]
+    },
+    "10.1109/ACCESS.2020.3021234": {
+      "status": "http_404",
+      "code": 404,
+      "final_url": "",
+      "elapsed_sec": 0.44,
+      "ref": "DOI:10.1109/ACCESS.2020.3021234",
+      "used_in": [
+        "sci-smartphone-sensor-validity"
+      ]
+    },
+    "10.1016/j.ymssp.2018.10.056": {
+      "status": "http_404",
+      "code": 404,
+      "final_url": "",
+      "elapsed_sec": 0.52,
+      "ref": "10.1016/j.ymssp.2018.10.056",
+      "used_in": [
+        "sci-strut-wear-signature-empirical"
+      ]
+    },
+    "10.1155/2019/4523607": {
+      "status": "http_404",
+      "code": 404,
+      "final_url": "",
+      "elapsed_sec": 0.51,
+      "ref": "10.1155/2019/4523607",
+      "used_in": [
+        "sci-strut-wear-signature-empirical"
+      ]
+    },
+    "10.3390/s20061806": {
+      "status": "http_404",
+      "code": 404,
+      "final_url": "",
+      "elapsed_sec": 0.59,
+      "ref": "10.3390/s20061806",
+      "used_in": [
+        "sci-strut-wear-signature-empirical"
+      ]
+    },
+    "10.1109/JSEN.2021.3068215": {
+      "status": "http_404",
+      "code": 404,
+      "final_url": "",
+      "elapsed_sec": 0.46,
+      "ref": "10.1109/JSEN.2021.3068215",
+      "used_in": [
+        "sci-strut-wear-signature-empirical"
+      ]
+    },
+    "10.1016/j.ymssp.2019.106582": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0888327019308039",
+      "elapsed_sec": 1.1,
+      "ref": "DOI:10.1016/j.ymssp.2019.106582",
+      "used_in": [
+        "sae-paper-по-корреляции-виброакустических-параметров-и-износа-шаровых-возможно-с"
+      ]
+    },
+    "10.4271/2014-01-0013": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://saemobilus.sae.org/papers/application-development-challenges-dynamic-damper-cabin-booming-noise-elimination-2014-01-0013",
+      "elapsed_sec": 2.3,
+      "ref": "10.4271/2014-01-0013",
+      "used_in": [
+        "номера-sae-papers-по-конкретным-nvh-исследованиям-audi-mlb-evo-suspension"
+      ]
+    },
+    "10.4271/2017-01-1856": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://saemobilus.sae.org/papers/combination-analysis-operational-tpa-cae-technique-obtaining-high-contributing-vibration-mode-2017-01-1856",
+      "elapsed_sec": 2.81,
+      "ref": "10.4271/2017-01-1856",
+      "used_in": [
+        "номера-sae-papers-по-конкретным-nvh-исследованиям-audi-mlb-evo-suspension"
+      ]
+    },
+    "10.1016/j.ymssp.2019.106532": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0888327019307538",
+      "elapsed_sec": 1.02,
+      "ref": "10.1016/j.ymssp.2019.106532",
+      "used_in": [
+        "нормативы-допустимого-количества-колебаний-при-раскачке-по-iso-для-разных-классо"
+      ]
+    },
+    "10.1007/978-1-4614-2443-9": {
+      "status": "http_404",
+      "code": 404,
+      "final_url": "",
+      "elapsed_sec": 0.55,
+      "ref": "10.1007/978-1-4614-2443-9 (Rajamani 2012)",
+      "used_in": [
+        "нормативы-допустимого-количества-колебаний-при-раскачке-по-iso-для-разных-классо"
+      ]
+    },
+    "10.1016/j.ymssp.2018.09.042": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0888327018306551",
+      "elapsed_sec": 1.04,
+      "ref": "DOI:10.1016/j.ymssp.2018.09.042",
+      "used_in": [
+        "стандартизированные-пороги-вибрации-компрессора-isoгост-для-диагностики-на-автом"
+      ]
+    },
+    "10.4271/2005-01-2534": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://saemobilus.sae.org/papers/critical-speed-vibrations-induced-unstable-gyroscopic-moment-2005-01-2534",
+      "elapsed_sec": 4.89,
+      "ref": "DOI:10.4271/2005-01-2534",
+      "used_in": [
+        "стандартизированные-пороги-вибрации-компрессора-isoгост-для-диагностики-на-автом"
+      ]
+    }
+  },
+  "sae": {
+    "2005-01-0413": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.sae.org/publications/technical-papers/content/2005-01-0413/",
+      "elapsed_sec": 1.02,
+      "ref": "SAE Technical Paper 2005-01-0413: «Road Simulation Techniques for Full Vehicle Testing» — MTS Systems Corp.",
+      "used_in": [
+        "4-post-hydraulic"
+      ]
+    },
+    "2005-01-0409": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.sae.org/publications/technical-papers/content/2005-01-0409/",
+      "elapsed_sec": 0.31,
+      "ref": "SAE 2005-01-0409 — Magnetorheological Fluid Damper Technology",
+      "used_in": [
+        "adaptive-damping-mrc-amr"
+      ]
+    },
+    "2004-01-1175": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.sae.org/publications/technical-papers/content/2004-01-1175/",
+      "elapsed_sec": 0.33,
+      "ref": "Reimpell, Stoll, Betzler «The Automotive Chassis: Engineering Principles» ISBN 978-0768004975, Chapter 5; SAE Paper 2004-01-1175 «Development of Air Spring Dynamic Models»",
+      "used_in": [
+        "air-suspension"
+      ]
+    },
+    "2014-01-0914": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.sae.org/publications/technical-papers/content/2014-01-0914/",
+      "elapsed_sec": 0.34,
+      "ref": "Saegusa T. et al., «Diagnostic Method for Wheel Bearing Wear Using Vibration and Acoustic Analysis», SAE 2014-01-0914",
+      "used_in": [
+        "cross-check-correlation-engine"
+      ]
+    },
+    "2005-01-2542": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.sae.org/publications/technical-papers/content/2005-01-2542/",
+      "elapsed_sec": 0.3,
+      "ref": "SAE 2005-01-2542 'Correlation of Subjective and Objective NVH'; SAE J1982 'Wheel Balance — Measurement Procedure'",
+      "used_in": [
+        "cross-check-threshold-rules"
+      ]
+    },
+    "2005-01-2307": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.sae.org/publications/technical-papers/content/2005-01-2307/",
+      "elapsed_sec": 0.3,
+      "ref": "SAE 2005-01-2307 — Effect of Suspension Bushing Stiffness on NVH Performance",
+      "used_in": [
+        "edge-cases"
+      ]
+    },
+    "2005-01-2548": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.sae.org/publications/technical-papers/content/2005-01-2548/",
+      "elapsed_sec": 0.33,
+      "ref": "SAE 2005-01-2548 'Bearing Damage Detection Using Vibration Analysis'",
+      "used_in": [
+        "harmonic-vs-broadband"
+      ]
+    },
+    "2019-01-1556": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.sae.org/publications/technical-papers/content/2019-01-1556/",
+      "elapsed_sec": 0.34,
+      "ref": "SAE Technical Paper 2019-01-1556 «NVH Diagnosis of Suspension Knock Noises Using Accelerometer and Acoustic Correlation», M. Yamamoto, K. Ito, 2019",
+      "used_in": [
+        "knock-impulse-signatures"
+      ]
+    },
+    "2019-01-1546": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.sae.org/publications/technical-papers/content/2019-01-1546/",
+      "elapsed_sec": 0.31,
+      "ref": "SAE 2019-01-1546",
+      "used_in": [
+        "нормативы-допустимого-количества-колебаний-при-раскачке-по-iso-для-разных-классо"
+      ]
+    },
+    "2013-01-1909": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.sae.org/publications/technical-papers/content/2013-01-1909/",
+      "elapsed_sec": 0.29,
+      "ref": "SAE 2013-01-1909 — 'Tire/Road Noise Characterization Using Source Path Contribution'",
+      "used_in": [
+        "road-surface-artifacts"
+      ]
+    },
+    "2005-01-2360": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.sae.org/publications/technical-papers/content/2005-01-2360/",
+      "elapsed_sec": 0.31,
+      "ref": "SAE Paper 2005-01-2360 «Bushings and Mounts: Design, Materials, and Durability Testing»",
+      "used_in": [
+        "rubber-bushings"
+      ]
+    },
+    "2015-01-2354": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.sae.org/publications/technical-papers/content/2015-01-2354/",
+      "elapsed_sec": 0.32,
+      "ref": "SAE 2015-01-2354",
+      "used_in": [
+        "sci-ball-joint-fatigue-models"
+      ]
+    },
+    "2020-01-1432": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.sae.org/publications/technical-papers/content/2020-01-1432/",
+      "elapsed_sec": 0.3,
+      "ref": "SAE 2020-01-1432",
+      "used_in": [
+        "sci-ball-joint-fatigue-models"
+      ]
+    },
+    "890434": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.sae.org/publications/technical-papers/content/890434/",
+      "elapsed_sec": 0.31,
+      "ref": "SAE Technical Paper 890434",
+      "used_in": [
+        "sci-eusama-correlation-validity"
+      ]
+    },
+    "2006-01-1080": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.sae.org/publications/technical-papers/content/2006-01-1080/",
+      "elapsed_sec": 0.31,
+      "ref": "SAE Technical Paper 2006-01-1080",
+      "used_in": [
+        "sci-eusama-correlation-validity"
+      ]
+    },
+    "850652": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.sae.org/publications/technical-papers/content/850652/",
+      "elapsed_sec": 0.31,
+      "ref": "SAE 850652",
+      "used_in": [
+        "sci-resonance-theory-foundation"
+      ]
+    },
+    "2019-01-0160": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.sae.org/publications/technical-papers/content/2019-01-0160/",
+      "elapsed_sec": 0.31,
+      "ref": "SAE 2019-01-0160",
+      "used_in": [
+        "sci-road-input-psd-spectra"
+      ]
+    },
+    "2021-01-1095": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.sae.org/publications/technical-papers/content/2021-01-1095/",
+      "elapsed_sec": 0.32,
+      "ref": "SAE 2021-01-1095",
+      "used_in": [
+        "sci-smartphone-sensor-validity"
+      ]
+    },
+    "2007-01-2374": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.sae.org/publications/technical-papers/content/2007-01-2374/",
+      "elapsed_sec": 0.32,
+      "ref": "SAE 2007-01-2374",
+      "used_in": [
+        "sci-strut-wear-signature-empirical"
+      ]
+    },
+    "2005-01-1543": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.sae.org/publications/technical-papers/content/2005-01-1543/",
+      "elapsed_sec": 0.33,
+      "ref": "SAE 2005-01-1543 'Suspension Parameter Effects on Vehicle Vibration Response'",
+      "used_in": [
+        "shaker-eigenfrequency"
+      ]
+    },
+    "2005-01-2525": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.sae.org/publications/technical-papers/content/2005-01-2525/",
+      "elapsed_sec": 0.31,
+      "ref": "SAE Technical Paper 2005-01-2525 «Wheel Bearing Noise and Vibration — Diagnostics and Root Cause Analysis», https://www.sae.org/publications/technical-papers/content/2005-01-2525/",
+      "used_in": [
+        "speed-dependence"
+      ]
+    },
+    "2005-01-1549": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.sae.org/publications/technical-papers/content/2005-01-1549/",
+      "elapsed_sec": 0.31,
+      "ref": "SAE 2005-01-1549",
+      "used_in": [
+        "isoгост-нормативы-допустимого-биения-привалочной-поверхности-ступицы-после-корро"
+      ]
+    },
+    "2017-01-1878": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.sae.org/publications/technical-papers/content/2017-01-1878/",
+      "elapsed_sec": 0.34,
+      "ref": "SAE Technical Paper 2017-01-1878 «Prognostics and Health Management of Automotive Suspension Systems Using Vibration Signatures», D. Siegel et al.",
+      "used_in": [
+        "долгосрочная-стабильность-emerging-маркеров-при-пробегах-150000-км"
+      ]
+    },
+    "2005-01-1504": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.sae.org/publications/technical-papers/content/2005-01-1504/",
+      "elapsed_sec": 0.29,
+      "ref": "SAE 2005-01-1504 'Application of Transfer Path Analysis to Automotive Suspension Systems'",
+      "used_in": [
+        "конкретные-oem-пороги-passfail-для-frf-и-transmissibility-закрытые-данные"
+      ]
+    },
+    "2022-01-0710": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.sae.org/publications/technical-papers/content/2022-01-0710/",
+      "elapsed_sec": 0.3,
+      "ref": "SAE 2022-01-0710",
+      "used_in": [
+        "номера-sae-papers-по-конкретным-nvh-исследованиям-audi-mlb-evo-suspension"
+      ]
+    },
+    "2011-01-0756": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.sae.org/publications/technical-papers/content/2011-01-0756/",
+      "elapsed_sec": 0.3,
+      "ref": "SAE 2011-01-0756",
+      "used_in": [
+        "номера-конкретных-sae-paper-по-корейским-подвескам"
+      ]
+    },
+    "2005-01-2534": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.sae.org/publications/technical-papers/content/2005-01-2534/",
+      "elapsed_sec": 0.33,
+      "ref": "SAE 2005-01-2534",
+      "used_in": [
+        "стандартизированные-пороги-вибрации-компрессора-isoгост-для-диагностики-на-автом"
+      ]
+    },
+    "2019-01-1548": {
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.sae.org/publications/technical-papers/content/2019-01-1548/",
+      "elapsed_sec": 0.31,
+      "ref": "SAE 2019-01-1548",
+      "used_in": [
+        "стандартизированные-пороги-вибрации-компрессора-isoгост-для-диагностики-на-автом"
+      ]
+    }
+  },
+  "url": {},
+  "other_unverifiable": {
+    "Reimpell J., Stoll H., Betzler J.W. «The Automotive Chassis: Engineering Principles», 2nd ed., SAE, 2001, ISBN 978-0-7680-0657-5": {
+      "used_in": [
+        "4-post-hydraulic"
+      ]
+    },
+    "ISO 16730-1:2016 «Road vehicles — Vehicle dynamics — Part 1: General principles for testing»": {
+      "used_in": [
+        "4-post-hydraulic"
+      ]
+    },
+    "GarageJournal thread: «4 post vibration tester/road simulator» (garagejournal.com/forum)": {
+      "used_in": [
+        "4-post-hydraulic"
+      ]
+    },
+    "ISO 5348:1998 Mechanical vibration — Mechanical mounting of accelerometers": {
+      "used_in": [
+        "accelerometer-mounting-standards"
+      ]
+    },
+    "Brüel & Kjær, 'Mounting Techniques for Accelerometers' (Application Note BO-0772)": {
+      "used_in": [
+        "accelerometer-mounting-standards"
+      ]
+    },
+    "Reimpell, Stoll, Betzler — The Automotive Chassis: Engineering Principles (2nd ed., SAE, ISBN 978-0-7680-0653-5), Chapter 9: NVH": {
+      "used_in": [
+        "accelerometer-mounting-standards"
+      ]
+    },
+    "GarageJournal — topic 'Accelerometer mounting: stud vs magnetic vs adhesive' (поиск по форуму)": {
+      "used_in": [
+        "accelerometer-mounting-standards"
+      ]
+    },
+    "GM Service Manual Cadillac CTS — Suspension → Electronic Suspension System Diagnosis (document ID 2776493)": {
+      "used_in": [
+        "adaptive-damping-mrc-amr"
+      ]
+    },
+    "drive2.ru — topic «MagneRide проблемы и решения» (Corvette Club Russia)": {
+      "used_in": [
+        "adaptive-damping-mrc-amr"
+      ]
+    },
+    "ISO 8855:2011 — Road vehicles — Vehicle dynamics and road-holding ability — Vocabulary": {
+      "used_in": [
+        "adaptive-damping-mrc-amr"
+      ]
+    },
+    "Mercedes WIS AR32.20-P-0103A (AIRMATIC diagnosis), BMW TIS 37 00 039 (EHC diagnosis), ELSAWIN (Air Suspension guided fault finding)": {
+      "used_in": [
+        "air-suspension"
+      ]
+    },
+    "BenzWorld.org W220 section — «AIRMATIC troubleshooting guide»; Drive2.ru пользователь AirSpring — «Диагностика пневмоподвески BMW F01»": {
+      "used_in": [
+        "air-suspension"
+      ]
+    },
+    "WABCO Diagnostic Manual 815 010 023 3; Continental/ContiTech Air Spring Catalog; Dunlop Pneumatic Suspension Service Manual": {
+      "used_in": [
+        "air-suspension"
+      ]
+    },
+    "Ford TSB 19-2299 (Explorer Steering Noise), TSB 20-2221": {
+      "used_in": [
+        "american-ford-gm"
+      ]
+    },
+    "GM PIP5244A (Tahoe/Yukon Front Strut Noise), PI1354A (Magnetic Ride)": {
+      "used_in": [
+        "american-ford-gm"
+      ]
+    },
+    "Reimpell J., Stoll H., Betzler J. 'The Automotive Chassis: Engineering Principles', ISBN 978-076800675-5, Chapter 5: Suspension": {
+      "used_in": [
+        "american-ford-gm"
+      ]
+    },
+    "BobIsTheOilGuy forums — 'Ford Explorer Steering Issues', 'GM Magnetic Ride Control failures'": {
+      "used_in": [
+        "american-ford-gm"
+      ]
+    },
+    "Reimpell J., Stoll H., Betzler J. «The Automotive Chassis: Engineering Principles». ISBN 978-0768006575, Chapter 5: Suspension Systems": {
+      "used_in": [
+        "ball-joints"
+      ]
+    },
+    "Гинцбург Л.Л. «Динамика автомобиля». М.: Машиностроение, ISBN неизвестен": {
+      "used_in": [
+        "ball-joints"
+      ]
+    },
+    "drive2.ru, поиск по тегу 'шаровая опора диагностика', темы с отчётами по замене и проверке": {
+      "used_in": [
+        "ball-joints"
+      ]
+    },
+    "ГОСТ 27718-88 «Шарниры шаровые автомобилей. Общие технические требования»": {
+      "used_in": [
+        "ball-joints"
+      ]
+    },
+    "BMW AG — Suspension Technical Training Manual (TIS 31 01 06); MB W220 Airmatic Introduction (WIS GF07.20-P-2001-01A)": {
+      "used_in": [
+        "bmw-mb-audi"
+      ]
+    },
+    "Reimpell J., Stoll H., Betzler J. — The Automotive Chassis: Engineering Principles, 2nd Edition (ISBN 978-0768006575), Chapter 5: Suspension Systems": {
+      "used_in": [
+        "bmw-mb-audi"
+      ]
+    },
+    "BenzWorld.org W220 S-Class Forum — 'Airmatic Failure Comprehensive Guide' + Arnott vs OEM comparison threads; Drive2.ru — отчёты по замене сайлентблоков Audi Q7 4M, BMW F10": {
+      "used_in": [
+        "bmw-mb-audi"
+      ]
+    },
+    "ISO 18431-1:2005 — Mechanical vibration and shock — Signal processing; ISO 13373-1 — Condition monitoring and diagnostics of machines": {
+      "used_in": [
+        "bmw-mb-audi"
+      ]
+    },
+    "drive2.ru — отзывы владельцев Chery Tiggo 7 Pro, Tiggo 8 Pro по тегу 'подвеска'": {
+      "used_in": [
+        "chinese-byd-geely-chery-changan"
+      ]
+    },
+    "drom.ru — раздел отзывов Geely Coolray/Atlas": {
+      "used_in": [
+        "chinese-byd-geely-chery-changan"
+      ]
+    },
+    "GarageJournal forum — 'Chinese car suspension quality' threads": {
+      "used_in": [
+        "chinese-byd-geely-chery-changan"
+      ]
+    },
+    "Reimpell J., Stoll H., Betzler J. 'The Automotive Chassis: Engineering Principles', ISBN 978-076800675, Butterworth-Heinemann": {
+      "used_in": [
+        "chinese-byd-geely-chery-changan"
+      ]
+    },
+    "Reimpell J., Stoll H., Betzler J. «The Automotive Chassis: Engineering Principles», 2nd ed., SAE, ISBN 978-0-7680-0657-5": {
+      "used_in": [
+        "coil-springs"
+      ]
+    },
+    "Гинцбург Б.Е. «Динамика автомобиля», М.: Машиностроение, 1987": {
+      "used_in": [
+        "coil-springs"
+      ]
+    },
+    "drive2.ru — кейсы «облом пружины», «просела пружина» по различным маркам": {
+      "used_in": [
+        "coil-springs"
+      ]
+    },
+    "ГОСТ 13764-86 «Пружины винтовые цилиндрические... Классы прочности»": {
+      "used_in": [
+        "coil-springs"
+      ]
+    },
+    "Reimpell J., Stoll H., Betzler J. «The Automotive Chassis: Engineering Principles», 2nd ed., ISBN 978-0768006755, Chapters 8 (Vibration) and 14 (Driveshafts)": {
+      "used_in": [
+        "cross-check-correlation-engine"
+      ]
+    },
+    "ISO 10816-3:2009 «Mechanical vibration — Evaluation of machine vibration by measurements on non-rotating parts», Part 3": {
+      "used_in": [
+        "cross-check-correlation-engine"
+      ]
+    },
+    "drive2.ru/b/503788281273497412/ (topic: «Диагностика подшипника по звуку и вибрации — сравнение методик»), autoscaners.info/topic/1456 (topic: «NVH-анализ на вибростенде: практический опыт»)": {
+      "used_in": [
+        "cross-check-correlation-engine"
+      ]
+    },
+    "ISO 2631-1:1997 Mechanical vibration and shock — Evaluation of human exposure to whole-body vibration — Part 1: General requirements": {
+      "used_in": [
+        "cross-check-threshold-rules"
+      ]
+    },
+    "ГОСТ Р ИСО 2631-1-2004 Вибрация и удар. Измерение общей вибрации и оценка её воздействия на человека. Часть 1. Общие требования.": {
+      "used_in": [
+        "cross-check-threshold-rules"
+      ]
+    },
+    "Reimpell J., Betzler J., Stoll H. 'The Automotive Chassis: Engineering Principles' 2nd ed., SAE, ISBN 978-0-7680-0657-5, Chapter 5: Suspension Vibration": {
+      "used_in": [
+        "cross-check-threshold-rules"
+      ]
+    },
+    "Гинцбург Б.А. «Динамика автомобиля» — Л., Машиностроение, 1972": {
+      "used_in": [
+        "diagnostic-sequence-standard"
+      ]
+    },
+    "Reimpell J., Stoll H., Betzler J.W. «The Automotive Chassis: Engineering Principles» (2nd ed.), ISBN 978-0-7680-0657-5, SAE International, 2001": {
+      "used_in": [
+        "diagnostic-sequence-standard"
+      ]
+    },
+    "ISO 13373-1:2002 — Condition monitoring and diagnostics of machines — Vibration condition monitoring — Part 1: General procedures": {
+      "used_in": [
+        "diagnostic-sequence-standard"
+      ]
+    },
+    "Форум autoscaners.info, тема «Диагностика подвески на вибростенде: методология и практика»": {
+      "used_in": [
+        "diagnostic-sequence-standard"
+      ]
+    },
+    "Reimpell, Stoll, Betzler — The Automotive Chassis (2nd Ed), ISBN 978-0768006754, Chapter 5: Suspension Parameters": {
+      "used_in": [
+        "edge-cases"
+      ]
+    },
+    "GarageJournal — topic 'Death Wobble Diagnosis and Fix', forum.garagejournal.com": {
+      "used_in": [
+        "edge-cases"
+      ]
+    },
+    "Toyota TSB 0062-16 — Propeller Shaft Vibration After Suspension Lift": {
+      "used_in": [
+        "edge-cases"
+      ]
+    },
+    "Reimpell J., Stoll H., Betzler J.W. «The Automotive Chassis: Engineering Principles», 2nd ed., SAE, ISBN 978-0-7680-0657-5, Chapter 6: Suspension Testing": {
+      "used_in": [
+        "field-tricks-no-equipment"
+      ]
+    },
+    "drive2.ru/b/484672735826125345 — «Диагностика подвески: 10 способов без стенда» (пост с обсуждением полевых методов)": {
+      "used_in": [
+        "field-tricks-no-equipment"
+      ]
+    },
+    "ГОСТ 25178-82 «Автомобили грузовые. Методы измерения люфтов рулевого управления и подвески»": {
+      "used_in": [
+        "field-tricks-no-equipment"
+      ]
+    },
+    "GarageJournal, thread «Steering & Suspension Diagnosis Without a Rack» (форум GarageJournal.com, раздел Automotive Tools)": {
+      "used_in": [
+        "field-tricks-no-equipment"
+      ]
+    },
+    "SAE J1074 — Engine Sound Level Measurement Procedure (методика акустических измерений, адаптируется для подвески)": {
+      "used_in": [
+        "frequency-ranges-per-defect"
+      ]
+    },
+    "ISO 10816-3:2009 — Mechanical vibration. Evaluation of machine vibration by measurements on non-rotating parts": {
+      "used_in": [
+        "frequency-ranges-per-defect"
+      ]
+    },
+    "Reimpell J., Stoll H., Betzler J.W. The Automotive Chassis: Engineering Principles. ISBN 978-0-7680-0657-5. Chapter 8: Vibration and Noise": {
+      "used_in": [
+        "frequency-ranges-per-defect"
+      ]
+    },
+    "autoscaners.info — тема 'NVH-диагностика подвески'; drive2.ru — отчёты по Chassis Ear и частотам дефектов": {
+      "used_in": [
+        "frequency-ranges-per-defect"
+      ]
+    },
+    "ISO 13373-1:2002 Condition monitoring and diagnostics of machines — Vibration condition monitoring": {
+      "used_in": [
+        "harmonic-vs-broadband"
+      ]
+    },
+    "Reimpell J., Stoll H., Betzler J. 'The Automotive Chassis: Engineering Principles', ISBN 978-0-7680-0657-5, Chapter 5": {
+      "used_in": [
+        "harmonic-vs-broadband"
+      ]
+    },
+    "drive2.ru/b/503786204068851428/ (topic 'Диагностика подшипников по спектру вибрации')": {
+      "used_in": [
+        "harmonic-vs-broadband"
+      ]
+    },
+    "Hyundai TSB 19-SS-003H — Rear Trailing Arm Bushing Inspection": {
+      "used_in": [
+        "hyundai-kia-genesis"
+      ]
+    },
+    "NHTSA Campaign 20V-400 — Kia Sportage Rear Suspension": {
+      "used_in": [
+        "hyundai-kia-genesis"
+      ]
+    },
+    "drive2.ru/l/562183813281094475/ — Solaris стойки стабилизатора: опыт замены": {
+      "used_in": [
+        "hyundai-kia-genesis"
+      ]
+    },
+    "GarageJournal forum thread 'Hyundai Kia suspension noise diagnosis'": {
+      "used_in": [
+        "hyundai-kia-genesis"
+      ]
+    },
+    "Reimpell J., Stoll H., Betzler J. «The Automotive Chassis: Engineering Principles» 2nd ed., SAE, 2001, ISBN 978-0-7680-0657-5, Chapter 5: Suspension Vibrations": {
+      "used_in": [
+        "knock-impulse-signatures"
+      ]
+    },
+    "ISO 16730-3:2017 «Vehicle dynamics — Suspension test procedures»": {
+      "used_in": [
+        "knock-impulse-signatures"
+      ]
+    },
+    "drive2.ru, topic: «Диагностика подвески по звуку — шаровая или стабилизатор?», пользователь TIGRA-EXPERT, 2020": {
+      "used_in": [
+        "knock-impulse-signatures"
+      ]
+    },
+    "Равкин В.М. «Рессоры автомобилестроения» ISBN 978-5-903238-12-3": {
+      "used_in": [
+        "leaf-springs-commercial"
+      ]
+    },
+    "drive2.ru, тема «Скрип рессор УАЗ Патриот — решение проблемы», многочисленные отчёты": {
+      "used_in": [
+        "leaf-springs-commercial"
+      ]
+    },
+    "УАЗ, Руководство по ремонту УАЗ-3163 Патриот, раздел «Задняя подвеска», проверка рессор": {
+      "used_in": [
+        "leaf-springs-commercial"
+      ]
+    },
+    "ГОСТ Р 52302-2004 «Транспортные средства. Управляемость и устойчивость. Технические требования. Методы испытаний»": {
+      "used_in": [
+        "leaf-springs-commercial"
+      ]
+    },
+    "Reimpell J., Stoll H., Betzler J. «The Automotive Chassis: Engineering Principles», 2nd ed., SAE, ISBN 978-0-7680-0642-6, Chapter 5: Suspension Vibrations": {
+      "used_in": [
+        "load-dependence"
+      ]
+    },
+    "Гинцбург Б.А. «Динамика автомобиля», М.: Машиностроение, раздел «Колебания подрессоренной массы»": {
+      "used_in": [
+        "load-dependence"
+      ]
+    },
+    "drive2.ru, тема: «Как отличить подшипник от сайлентблока», многократно обсуждалось в сообществах марок (VAG Club, Toyota Camry Club)": {
+      "used_in": [
+        "load-dependence"
+      ]
+    },
+    "ISO 2631-1:1997 «Mechanical vibration and shock — Evaluation of human exposure to whole-body vibration»": {
+      "used_in": [
+        "load-dependence"
+      ]
+    },
+    "Reimpell J., Stoll H., Betzler J. — The Automotive Chassis: Engineering Principles, 2nd ed., SAE ISBN 978-0-7680-0657-5, Chapter 12: Vehicle Vibration and Noise": {
+      "used_in": [
+        "mic-placement-cabin-vs-arch"
+      ]
+    },
+    "ISO 362-1:2015 — Measurement of noise emitted by accelerating road vehicles": {
+      "used_in": [
+        "mic-placement-cabin-vs-arch"
+      ]
+    },
+    "drive2.ru — topic «Запись шума подшипника телефоном в арке» + комментарии диагностов": {
+      "used_in": [
+        "mic-placement-cabin-vs-arch"
+      ]
+    },
+    "GarageJournal forum — thread «NVH diagnostics with smartphone: mic placement tips»": {
+      "used_in": [
+        "mic-placement-cabin-vs-arch"
+      ]
+    },
+    "Reimpell J., Stoll H., Betzler J. «The Automotive Chassis: Engineering Principles», 2nd Edition, ISBN 978-0766806215, Chapter 5: Rear Axles": {
+      "used_in": [
+        "multilink-rear"
+      ]
+    },
+    "BMW TIS (Technical Information System) — документ RA 331267 для задней подвески серии F, TPI SI B31 01 16 (стук задней подвески)": {
+      "used_in": [
+        "multilink-rear"
+      ]
+    },
+    "Audi SSP (Self Study Program) 431: Rear Suspension MLB platform, TPI 401257/2038382": {
+      "used_in": [
+        "multilink-rear"
+      ]
+    },
+    "drive2.ru — темы: «Стук в задней подвеске BMW F30», «Многорычажка Audi Q5 — замена рычагов», «Вибрация задней подвески — диагностика NVH»": {
+      "used_in": [
+        "multilink-rear"
+      ]
+    },
+    "autoscaners.info — тема 'Вибростендовая диагностика подвески — наработки', 2023": {
+      "used_in": [
+        "new-rules-emerging"
+      ]
+    },
+    "Reimpell, Stoll, Betzler — The Automotive Chassis (2nd ed), ISBN 978-076800675, Ch. 5": {
+      "used_in": [
+        "new-rules-emerging"
+      ]
+    },
+    "ГОСТ Р ИСО 10816-3-99 — Вибрация. Контроль состояния машин по результатам измерений": {
+      "used_in": [
+        "new-rules-emerging"
+      ]
+    },
+    "ГОСТ Р 51709-2001 «Автотранспортные средства. Требования к техническому состоянию по условиям безопасности движения», п. 4.7.35–4.7.38": {
+      "used_in": [
+        "pass-criteria-norms-russia-eu"
+      ]
+    },
+    "EUSAMA Technical Recommendation 01/2000 — Test procedure for evaluating suspension performance; European Shock Absorber Manufacturers Association": {
+      "used_in": [
+        "pass-criteria-norms-russia-eu"
+      ]
+    },
+    "Reimpell H., Stoll H., Betzler J. «The Automotive Chassis: Engineering Principles», 2nd ed., SAE, 2001. ISBN 978-0-7680-0657-5. Chapter 5: Suspension Testing.": {
+      "used_in": [
+        "pass-criteria-norms-russia-eu"
+      ]
+    },
+    "drive2.ru/o/b/461622233066194899/ — «Диагностика подвески на вибростенде: EUSAMA, Boge, СТС», автор Autodinamic": {
+      "used_in": [
+        "pass-criteria-norms-russia-eu"
+      ]
+    },
+    "Peugeot Service Box — Rear Axle Repair Procedure 3008 T9 (Document 4025J)": {
+      "used_in": [
+        "renault-peugeot-citroen"
+      ]
+    },
+    "drive2.ru — «Задняя балка Peugeot 3008: игольчатые подшипники» (множество отчётов с фото)": {
+      "used_in": [
+        "renault-peugeot-citroen"
+      ]
+    },
+    "drom.ru — «Сайлент-блоки передних рычагов Duster — проблема или нет?» (рейтинг заменителей)": {
+      "used_in": [
+        "renault-peugeot-citroen"
+      ]
+    },
+    "Reimpell J., Stoll H., Betzler J.W. — «The Automotive Chassis: Engineering Principles», ISBN 978-0-7680-0657-5, Chapter 5 (Suspension)": {
+      "used_in": [
+        "renault-peugeot-citroen"
+      ]
+    },
+    "Reimpell J., Stoll H., Betzler J.W. «The Automotive Chassis: Engineering Principles», 2nd ed., SAE, 2001. ISBN 978-0768006575. Глава 6: Suspension Testing.": {
+      "used_in": [
+        "resonance-method"
+      ]
+    },
+    "EUSAMA test specification; DIN 70020 Teil 2 (Fahrzeugbau; Kraftfahrzeugbau; Federung)": {
+      "used_in": [
+        "resonance-method"
+      ]
+    },
+    "Форум autoscaners.biz, тема «Вибростенды EUSAMA — методика и нормативы». Также drive2.ru, посты по тегу #вибростенд": {
+      "used_in": [
+        "resonance-method"
+      ]
+    },
+    "Гинцбург Б.А. «Динамика автомобиля», М., Машиностроение, 1975. Глава V: Колебания автомобиля.": {
+      "used_in": [
+        "resonance-method"
+      ]
+    },
+    "ISO 10844:2014 — Specification of test tracks for measuring noise emitted by road vehicles and their tyres": {
+      "used_in": [
+        "road-surface-artifacts"
+      ]
+    },
+    "BMW AG, Diagnostic Manual 'Acoustic Troubleshooting in Chassis', SI M51 01 19 (E70/E71)": {
+      "used_in": [
+        "road-surface-artifacts"
+      ]
+    },
+    "Drive2.ru: тема «NVH-диагностика подвески — методология и кейсы», пользователь NVHexpert (2020–2023)": {
+      "used_in": [
+        "road-surface-artifacts"
+      ]
+    },
+    "Reimpell J., Stoll H., Betzler J. «The Automotive Chassis: Engineering Principles», ISBN 978-0-7680-0657-5, Chapter 5": {
+      "used_in": [
+        "rubber-bushings"
+      ]
+    },
+    "ГОСТ 33186-2014 «Шарниры резинометаллические для автомобилей. Общие технические требования»": {
+      "used_in": [
+        "rubber-bushings"
+      ]
+    },
+    "drive2.ru/b/501838683317828654/ «Диагностика сайлентблоков передних рычагов — практический опыт»": {
+      "used_in": [
+        "rubber-bushings"
+      ]
+    },
+    "drive2.ru — темы по стойкам стабилизатора Весты и шкворням Niva": {
+      "used_in": [
+        "russian-lada-uaz-moskvich"
+      ]
+    },
+    "uazbuka.ru — раздел подвески и кардана": {
+      "used_in": [
+        "russian-lada-uaz-moskvich"
+      ]
+    },
+    "Гинцбург Б.Я. «Динамика автомобиля»": {
+      "used_in": [
+        "russian-lada-uaz-moskvich"
+      ]
+    },
+    "ГОСТ Р ИСО 2631-1-2004": {
+      "used_in": [
+        "russian-lada-uaz-moskvich",
+        "наличие-гост-на-вибростендовую-диагностику-подвески-в-рф-возможно-существует-отр"
+      ]
+    },
+    "ISO 16063-1:2005": {
+      "used_in": [
+        "sci-accelerometer-placement-iso"
+      ]
+    },
+    "ISO 16063-21:2003": {
+      "used_in": [
+        "sci-accelerometer-placement-iso"
+      ]
+    },
+    "ISO 10816-3:2009": {
+      "used_in": [
+        "sci-accelerometer-placement-iso",
+        "стандартизированные-пороги-вибрации-компрессора-isoгост-для-диагностики-на-автом"
+      ]
+    },
+    "ISO 5347-22:1997": {
+      "used_in": [
+        "sci-accelerometer-placement-iso"
+      ]
+    },
+    "ISBN: 978-0-07-181094-0": {
+      "used_in": [
+        "sci-accelerometer-placement-iso"
+      ]
+    },
+    "ISO 4664-1:2011": {
+      "used_in": [
+        "sci-bushing-fatigue-lab-tests"
+      ]
+    },
+    "ASTM D4482-11(2019)": {
+      "used_in": [
+        "sci-bushing-fatigue-lab-tests"
+      ]
+    },
+    "ISBN:978-3-319-69926-1": {
+      "used_in": [
+        "sci-bushing-fatigue-lab-tests"
+      ]
+    },
+    "ISBN:978-0-470-01906-8": {
+      "used_in": [
+        "sci-bushing-fatigue-lab-tests"
+      ]
+    },
+    "ISBN:978-0-7680-0951-3": {
+      "used_in": [
+        "sci-damping-ratio-vs-wear"
+      ]
+    },
+    "ISO 8727:1988": {
+      "used_in": [
+        "sci-damping-ratio-vs-wear"
+      ]
+    },
+    "EUSAMA Technical Recommendation": {
+      "used_in": [
+        "sci-eusama-correlation-validity"
+      ]
+    },
+    "ISBN 978-1560911999": {
+      "used_in": [
+        "sci-eusama-correlation-validity"
+      ]
+    },
+    "IMechE Conference proceedings": {
+      "used_in": [
+        "sci-eusama-correlation-validity"
+      ]
+    },
+    "ISBN 978-0-7680-6317-4": {
+      "used_in": [
+        "sci-resonance-theory-foundation"
+      ]
+    },
+    "ISBN 978-9810229119": {
+      "used_in": [
+        "sci-resonance-theory-foundation"
+      ]
+    },
+    "ISBN 978-1-4614-1432-2": {
+      "used_in": [
+        "sci-resonance-theory-foundation"
+      ]
+    },
+    "ISO 8608:2016 — Mechanical vibration — Road surface profiles — Reporting of measured data": {
+      "used_in": [
+        "sci-road-input-psd-spectra",
+        "точные-спецификации-eusama-для-коммерческого-транспорта-фургоны-грузовики"
+      ]
+    },
+    "ISO 8608:2016": {
+      "used_in": [
+        "sci-road-input-psd-spectra",
+        "наличие-гост-на-вибростендовую-диагностику-подвески-в-рф-возможно-существует-отр",
+        "нормативы-допустимого-количества-колебаний-при-раскачке-по-iso-для-разных-классо"
+      ]
+    },
+    "ISO 2631-1:1997": {
+      "used_in": [
+        "sci-smartphone-sensor-validity"
+      ]
+    },
+    "ISO 18431-1:2005": {
+      "used_in": [
+        "sci-strut-wear-signature-empirical"
+      ]
+    },
+    "Reimpell J., Stoll H., Betzler J. The Automotive Chassis: Engineering Principles. 2nd ed. SAE, 2001. ISBN 978-0-7680-0657-5. Chapter 5: Suspension Vibration.": {
+      "used_in": [
+        "shaker-eigenfrequency"
+      ]
+    },
+    "ISO 8608:2016 Mechanical vibration — Road surface profiles — Reporting of measured data.": {
+      "used_in": [
+        "shaker-eigenfrequency"
+      ]
+    },
+    "drive2.ru/b/502183504238537025/ 'Диагностика амортизаторов на вибростенде'": {
+      "used_in": [
+        "shaker-eigenfrequency"
+      ]
+    },
+    "Reimpell J., Betzler J. — The Automotive Chassis: Engineering Principles, 2nd Edition, ISBN 978-0768006755, Chapter 5: Suspension Dampers": {
+      "used_in": [
+        "shock-absorbers"
+      ]
+    },
+    "ISO 18137:2016 — Road vehicles — Test methods for suspension dampers; EUSAMA Technical Recommendation (European Shock Absorber Manufacturers Association)": {
+      "used_in": [
+        "shock-absorbers"
+      ]
+    },
+    "Drive2.ru — тема «Диагностика амортизаторов на стенде EUSAMA — интерпретация результатов», автор: Gvelesiani; форум autoscaners.pro — раздел «Подвеска»": {
+      "used_in": [
+        "shock-absorbers"
+      ]
+    },
+    "Toyota Technical Service Bulletin T-SB-0114-19 — Inspection Procedure for Shock Absorber Oil Leakage; BMW TIS SI B37 01 11 — EDC Damper Diagnosis": {
+      "used_in": [
+        "shock-absorbers"
+      ]
+    },
+    "Гинцбург Б.Я. «Динамика автомобиля» — М.: Машиностроение, ISBN 978-5-217-01424-3": {
+      "used_in": [
+        "spectrogram-patterns-susp"
+      ]
+    },
+    "ISO 13373-1:2002 Condition monitoring and diagnostics of machines — Vibration condition monitoring — Part 1: General procedures": {
+      "used_in": [
+        "spectrogram-patterns-susp"
+      ]
+    },
+    "SAE J2903 — Wheel Bearing Noise and Vibration Test Procedure (2017)": {
+      "used_in": [
+        "spectrogram-patterns-susp"
+      ]
+    },
+    "Reimpell J., Stoll H., Betzler J. «The Automotive Chassis: Engineering Principles» — Butterworth-Heinemann, ISBN 978-0-7506-5054-0": {
+      "used_in": [
+        "spectrogram-patterns-susp"
+      ]
+    },
+    "Reimpell J., Stoll H., Betzler J. «The Automotive Chassis: Engineering Principles», 2nd Edition, ISBN 978-0-7680-0650-4, Chapter 8: Suspension Vibration": {
+      "used_in": [
+        "speed-dependence"
+      ]
+    },
+    "ISO 10816-3:2009 «Mechanical vibration — Evaluation of machine vibration by measurements on non-rotating parts», Table B.1 — vibration severity for different machine classes": {
+      "used_in": [
+        "speed-dependence"
+      ]
+    },
+    "drive2.ru — сообщество «Диагностика и ремонт подвески», тема «Гул в районе колеса — диагностика подшипника по скорости» (множество кейсов с waterfall-спектрограммами)": {
+      "used_in": [
+        "speed-dependence"
+      ]
+    },
+    "Reimpell J., Stoll H., Betzler J. «The Automotive Chassis: Engineering Principles», 2nd Edition, SAE International, ISBN 978-0768006754, Chapter 5 — Suspension Mountings": {
+      "used_in": [
+        "spring-seats-mounts"
+      ]
+    },
+    "drive2.ru — поиск: «трещина чашки стойки», «замена опорного подшипника»; drom.ru — «диагностика опор передних стоек»": {
+      "used_in": [
+        "spring-seats-mounts"
+      ]
+    },
+    "SAE J2562 — Vibration Testing of Suspension Components; ГОСТ Р ИСО 2631-1 — Вибрация и удар": {
+      "used_in": [
+        "spring-seats-mounts"
+      ]
+    },
+    "VAG SSP (Self-Study Program) 431 — Front Suspension Systems; TPI 2011566/7 — трещины чашек пружин на платформе PQ35/MQB": {
+      "used_in": [
+        "spring-seats-mounts"
+      ]
+    },
+    "Reimpell J., Betzler J. 'The Automotive Chassis: Engineering Principles', 2nd ed., SAE, ISBN 978-0768006755, Chapter 5: Suspension Systems — Stabilizer Bar Design and NVH": {
+      "used_in": [
+        "stabilizer-bars-links"
+      ]
+    },
+    "ГОСТ Р 52302-2004 'Автотранспортные средства. Управление устойчивостью. Технические требования. Методы испытаний'": {
+      "used_in": [
+        "stabilizer-bars-links"
+      ]
+    },
+    "drive2.ru — тема 'Стук в передней подвеске — как найти и устранить', множество бортжурналов по Focus/Camry/RAV4 с замерами линков": {
+      "used_in": [
+        "stabilizer-bars-links"
+      ]
+    },
+    "VAG TPI 2015845/5 — 'Knocking/creaking noise from front stabilizer bar bushes' (замена втулок + скоб на PQ35/MQB)": {
+      "used_in": [
+        "stabilizer-bars-links"
+      ]
+    },
+    "SAE J2562 — Vibration Test Procedures for Automotive Suspension Systems": {
+      "used_in": [
+        "struts-mcpherson"
+      ]
+    },
+    "Reimpell J., Stoll H., Betzler J. — The Automotive Chassis: Engineering Principles, 2nd Ed., ISBN 978-0-7680-0657-5": {
+      "used_in": [
+        "struts-mcpherson"
+      ]
+    },
+    "Drive2.ru — отчёты: 'щелчки при повороте руля опорный подшипник' (различные бренды)": {
+      "used_in": [
+        "struts-mcpherson"
+      ]
+    },
+    "Toyota Front Suspension Diagnosis, Pub. No. RM0000043GQ": {
+      "used_in": [
+        "struts-mcpherson"
+      ]
+    },
+    "Reimpell J., Stoll H., Betzler J. «The Automotive Chassis: Engineering Principles», 2nd edition, SAE, ISBN 978-0-7680-0657-5, Chapter 5: Steering Systems": {
+      "used_in": [
+        "tie-rods-ends"
+      ]
+    },
+    "VW Self-Study Program SSP 48K5/V5: «Power Steering Systems — Diagnosis and Repair», page 23-27": {
+      "used_in": [
+        "tie-rods-ends"
+      ]
+    },
+    "drive2.ru, тема «Стук в рулевом управлении — как найти причину», блог simbozin, 2021": {
+      "used_in": [
+        "tie-rods-ends"
+      ]
+    },
+    "ГОСТ Р 52302-2004 «Автотранспортные средства. Управляемость и устойчивость. Технические требования. Методы испытаний», п. 5.3": {
+      "used_in": [
+        "tie-rods-ends"
+      ]
+    },
+    "Toyota T-SB-0183-19 (Strut Upper Bearing Noise)": {
+      "used_in": [
+        "toyota-honda-mazda"
+      ]
+    },
+    "drive2.ru/l/5415307/ — Toyota Camry XV70 стук стоек (topic)": {
+      "used_in": [
+        "toyota-honda-mazda"
+      ]
+    },
+    "drive2.ru/l/5059238/ — Honda CR-V стук стабилизатора": {
+      "used_in": [
+        "toyota-honda-mazda"
+      ]
+    },
+    "Reimpell, Stoll, Betzler — The Automotive Chassis (ISBN 978-0768006575), Chapter 5: Suspension Damping": {
+      "used_in": [
+        "toyota-honda-mazda"
+      ]
+    },
+    "ISO 1101:2017": {
+      "used_in": [
+        "isoгост-нормативы-допустимого-биения-привалочной-поверхности-ступицы-после-корро"
+      ]
+    },
+    "ISO 2768-2:1989": {
+      "used_in": [
+        "isoгост-нормативы-допустимого-биения-привалочной-поверхности-ступицы-после-корро"
+      ]
+    },
+    "ГОСТ 30893.2-2002": {
+      "used_in": [
+        "isoгост-нормативы-допустимого-биения-привалочной-поверхности-ступицы-после-корро"
+      ]
+    },
+    "ISO 286-1:2010": {
+      "used_in": [
+        "isoгост-нормативы-допустимого-биения-привалочной-поверхности-ступицы-после-корро"
+      ]
+    },
+    "ISO 286-2:2010": {
+      "used_in": [
+        "isoгост-нормативы-допустимого-биения-привалочной-поверхности-ступицы-после-корро"
+      ]
+    },
+    "ISO 20816-1:2016": {
+      "used_in": [
+        "sae-paper-по-корреляции-виброакустических-параметров-и-износа-шаровых-возможно-с",
+        "стандартизированные-пороги-вибрации-компрессора-isoгост-для-диагностики-на-автом"
+      ]
+    },
+    "Reimpell J., Stoll H., Betzler J.W. «The Automotive Chassis: Engineering Principles», ISBN 978-0-7506-5054-0": {
+      "used_in": [
+        "версии-прошивок-и-алгоритмы-различных-поколений-стендов-bogehofmann"
+      ]
+    },
+    "GarageJournal, тема «Boge Dynovis software versions», forum.garagejournal.com": {
+      "used_in": [
+        "версии-прошивок-и-алгоритмы-различных-поколений-стендов-bogehofmann"
+      ]
+    },
+    "Corghi/Boge DYNOVIS Service Manual, документ №COR-DYNOVIS-SM-2018": {
+      "used_in": [
+        "версии-прошивок-и-алгоритмы-различных-поколений-стендов-bogehofmann"
+      ]
+    },
+    "EUSAMA Recommendations for Suspension Testing (manufacturer document, не ISO)": {
+      "used_in": [
+        "версии-прошивок-и-алгоритмы-различных-поколений-стендов-bogehofmann"
+      ]
+    },
+    "Reimpell J., Stoll H., Betzler J. «The Automotive Chassis: Engineering Principles», 2nd Edition, ISBN 978-0-7680-0657-5, Chapter 5 — Suspension Testing": {
+      "used_in": [
+        "влияние-адаптивныхпневматических-подвесок-на-корректность-метода-eusama"
+      ]
+    },
+    "drive2.ru — тема «Вибростенд и пневмоподвеска — корректность результатов», многочисленные обсуждения владельцев Mercedes AIRMATIC и BMW EDC": {
+      "used_in": [
+        "влияние-адаптивныхпневматических-подвесок-на-корректность-метода-eusama"
+      ]
+    },
+    "SAE J2562 — «Vehicle Suspension Testing Methods» (частичная релевантность); ISO 8608 — профиль дорожного покрытия как основа для возбуждения": {
+      "used_in": [
+        "влияние-адаптивныхпневматических-подвесок-на-корректность-метода-eusama"
+      ]
+    },
+    "Mercedes-Benz XENTRY Diagnostic — WIS document GF32.00-p-3001M «Testing Shock Absorbers on Vehicles with AIRMATIC»; BMW ISTA — SI 31 01 07 «Checking EDC Shock Absorbers»": {
+      "used_in": [
+        "влияние-адаптивныхпневматических-подвесок-на-корректность-метода-eusama"
+      ]
+    },
+    "ГОСТ ИСО 10816-1-97": {
+      "used_in": [
+        "гост-спецификации-для-вибродиагностики-bushing-degradation-не-уверен-какие-именн"
+      ]
+    },
+    "ГОСТ 30576-98": {
+      "used_in": [
+        "гост-спецификации-для-вибродиагностики-bushing-degradation-не-уверен-какие-именн"
+      ]
+    },
+    "ГОСТ Р ИСО 13373-1-2009": {
+      "used_in": [
+        "гост-спецификации-для-вибродиагностики-bushing-degradation-не-уверен-какие-именн"
+      ]
+    },
+    "ГОСТ 28988-91": {
+      "used_in": [
+        "гост-спецификации-для-вибродиагностики-bushing-degradation-не-уверен-какие-именн"
+      ]
+    },
+    "ГОСТ Р ИСО 13373-2-2009": {
+      "used_in": [
+        "гост-спецификации-для-вибродиагностики-bushing-degradation-не-уверен-какие-именн"
+      ]
+    },
+    "Reimpell J., Stoll H., Betzler J. «The Automotive Chassis: Engineering Principles», 2nd ed., ISBN 978-0-7680-0657-5, Chapter 9: Vibration Damping": {
+      "used_in": [
+        "долгосрочная-стабильность-emerging-маркеров-при-пробегах-150000-км"
+      ]
+    },
+    "ISO 20816-3:2020 «Mechanical vibration — Measurement and evaluation of machine vibration — Part 3: Industrial machines», Section 7: Evaluation criteria for different machine types": {
+      "used_in": [
+        "долгосрочная-стабильность-emerging-маркеров-при-пробегах-150000-км"
+      ]
+    },
+    "Drive2.ru, тема «Диагностика подвески на вибростенде: мифы и реальность», пользователь vibroexpert (дата обращения: 2024)": {
+      "used_in": [
+        "долгосрочная-стабильность-emerging-маркеров-при-пробегах-150000-км"
+      ]
+    },
+    "Honda CR-V 2002-2006 Service Manual (P/N 61S2003), Section 18 (Suspension), стр. 18-35": {
+      "used_in": [
+        "заводские-допуски-на-затяжку-втулок-стабилизатора-cr-v-разных-поколений"
+      ]
+    },
+    "Honda CR-V 2007-2011 Service Manual (P/N 61SR000), Section 18 (Suspension)": {
+      "used_in": [
+        "заводские-допуски-на-затяжку-втулок-стабилизатора-cr-v-разных-поколений"
+      ]
+    },
+    "drive2.ru — тема «Замена втулок стабилизатора CR-V RD4 — моменты и нюансы»": {
+      "used_in": [
+        "заводские-допуски-на-затяжку-втулок-стабилизатора-cr-v-разных-поколений"
+      ]
+    },
+    "crvownersclub.com — thread «Sway bar bushing torque specs all generations»": {
+      "used_in": [
+        "заводские-допуски-на-затяжку-втулок-стабилизатора-cr-v-разных-поколений"
+      ]
+    },
+    "ISO 2631-1:1997 Mechanical vibration and shock — Evaluation of human exposure to whole-body vibration": {
+      "used_in": [
+        "конкретные-oem-пороги-passfail-для-frf-и-transmissibility-закрытые-данные"
+      ]
+    },
+    "drive2.ru — тема 'Вибростендовая диагностика подвески', multiple threads": {
+      "used_in": [
+        "конкретные-oem-пороги-passfail-для-frf-и-transmissibility-закрытые-данные"
+      ]
+    },
+    "Reimpell, Stoll, Betzler 'The Automotive Chassis: Engineering Principles' ISBN 978-0768006755": {
+      "used_in": [
+        "конкретные-oem-пороги-passfail-для-frf-и-transmissibility-закрытые-данные"
+      ]
+    },
+    "ГОСТ Р 51709-2001": {
+      "used_in": [
+        "наличие-гост-на-вибростендовую-диагностику-подвески-в-рф-возможно-существует-отр"
+      ]
+    },
+    "ISO 2631-1:1997/Amd 1:2010": {
+      "used_in": [
+        "наличие-гост-на-вибростендовую-диагностику-подвески-в-рф-возможно-существует-отр"
+      ]
+    },
+    "avito.ru — поиск '4-стоечный подъёмник', 'вибростенд б/у'": {
+      "used_in": [
+        "наличие-доступных-бу-4-post-стендов-на-рынке-и-их-реальная-стоимость"
+      ]
+    },
+    "drive2.ru/o/b/485432251517752337/ — обсуждения выбора подъёмного оборудования": {
+      "used_in": [
+        "наличие-доступных-бу-4-post-стендов-на-рынке-и-их-реальная-стоимость"
+      ]
+    },
+    "equiptrade.ru, stanki.ru — торговые площадки гаражного оборудования": {
+      "used_in": [
+        "наличие-доступных-бу-4-post-стендов-на-рынке-и-их-реальная-стоимость"
+      ]
+    },
+    "Hunter Engineering WA Series Manual ( hunter.com ) — спецификации виброплатформ": {
+      "used_in": [
+        "наличие-доступных-бу-4-post-стендов-на-рынке-и-их-реальная-стоимость"
+      ]
+    },
+    "SAE Int. J. Passeng. Cars - Mech. Syst.": {
+      "used_in": [
+        "номера-конкретных-sae-paper-по-корейским-подвескам"
+      ]
+    },
+    "ISSN 1229-9138": {
+      "used_in": [
+        "номера-конкретных-sae-paper-по-корейским-подвескам"
+      ]
+    },
+    "ISSN 1738-494X": {
+      "used_in": [
+        "номера-конкретных-sae-paper-по-корейским-подвескам"
+      ]
+    },
+    "IJAT ISSN 1229-9138": {
+      "used_in": [
+        "номера-конкретных-sae-paper-по-корейским-подвескам"
+      ]
+    },
+    "JMST ISSN 1738-494X": {
+      "used_in": [
+        "номера-конкретных-sae-paper-по-корейским-подвескам"
+      ]
+    },
+    "SAE Int. J. Passeng. Cars - Mech. Syst., ISSN 1946-3996": {
+      "used_in": [
+        "номера-конкретных-sae-paper-по-корейским-подвескам"
+      ]
+    },
+    "ISO 2631-1:2021": {
+      "used_in": [
+        "нормативы-допустимого-количества-колебаний-при-раскачке-по-iso-для-разных-классо"
+      ]
+    },
+    "ISBN 978-1-4614-2443-9": {
+      "used_in": [
+        "нормативы-допустимого-количества-колебаний-при-раскачке-по-iso-для-разных-классо"
+      ]
+    },
+    "ISBN 978-1560911999 (SAE R-114)": {
+      "used_in": [
+        "нормативы-допустимого-количества-колебаний-при-раскачке-по-iso-для-разных-классо"
+      ]
+    },
+    "SAE R-114 (Gillespie 1992, ISBN 978-1560911999)": {
+      "used_in": [
+        "нормативы-допустимого-количества-колебаний-при-раскачке-по-iso-для-разных-классо"
+      ]
+    },
+    "EUSAMA Recommendation 10/01": {
+      "used_in": [
+        "нормативы-допустимого-количества-колебаний-при-раскачке-по-iso-для-разных-классо"
+      ]
+    },
+    "ISO 8855:2011": {
+      "used_in": [
+        "нормативы-допустимого-количества-колебаний-при-раскачке-по-iso-для-разных-классо"
+      ]
+    },
+    "ISO 1940-1:2003 Mechanical vibration — Balance quality requirements for rotors in a constant (rigid) state. Part 1: Specification and verification of balance tolerances": {
+      "used_in": [
+        "пороги-wheel_imbalance-в-rulesjson-граммы-ммс-виброскорости-g-ускорение"
+      ]
+    },
+    "VAG TPI 2014846/5 — Vibration in steering wheel / wheels balancing specifications (ElsaWin)": {
+      "used_in": [
+        "пороги-wheel_imbalance-в-rulesjson-граммы-ммс-виброскорости-g-ускорение"
+      ]
+    },
+    "Reimpell J., Stoll H., Betzler J.W. — The Automotive Chassis: Engineering Principles, 2nd Edition (Butterworth-Heinemann, ISBN 978-0-7680-0657-3), Chapter 5: Wheel Balancing": {
+      "used_in": [
+        "пороги-wheel_imbalance-в-rulesjson-граммы-ммс-виброскорости-g-ускорение"
+      ]
+    },
+    "Форум autoscaners.info, раздел «Вибростендовая диагностика», тема «Пороги дисбаланса в rules.xml/rules.json различных стендов» (примерно 2019–2023)": {
+      "used_in": [
+        "пороги-wheel_imbalance-в-rulesjson-граммы-ммс-виброскорости-g-ускорение"
+      ]
+    },
+    "ГОСТ ISO 10816-3-2018": {
+      "used_in": [
+        "стандартизированные-пороги-вибрации-компрессора-isoгост-для-диагностики-на-автом"
+      ]
+    },
+    "Hyundai TSB 18-SS-001H — ECS Strut Assembly Replacement": {
+      "used_in": [
+        "статистика-отказов-амортизаторов-genesis-ecs-по-годам-выпуска"
+      ]
+    },
+    "Genesis G80 (DH) Service Manual, Suspension System — Section SS, 2018": {
+      "used_in": [
+        "статистика-отказов-амортизаторов-genesis-ecs-по-годам-выпуска"
+      ]
+    },
+    "Genesis Owners Forum — topic 'ECS Strut Failure 2018 G80' (genesisowners.com)": {
+      "used_in": [
+        "статистика-отказов-амортизаторов-genesis-ecs-по-годам-выпуска"
+      ]
+    },
+    "drive2.ru — блог 'Genesis Club', тема 'Проблемы ECS на G80'": {
+      "used_in": [
+        "статистика-отказов-амортизаторов-genesis-ecs-по-годам-выпуска"
+      ]
+    },
+    "drive2.ru — поиск «восстановленный ступичный подшипник», «отказ ступицы»": {
+      "used_in": [
+        "статистика-отказов-восстановленных-ступичных-узлов-по-брендам-и-регионам"
+      ]
+    },
+    "autoscaners.biz — раздел диагностики подвески": {
+      "used_in": [
+        "статистика-отказов-восстановленных-ступичных-узлов-по-брендам-и-регионам"
+      ]
+    },
+    "ISO 15242 — Rolling bearings — Measuring methods for vibration": {
+      "used_in": [
+        "статистика-отказов-восстановленных-ступичных-узлов-по-брендам-и-регионам"
+      ]
+    },
+    "Reimpell, Stoll, Betzler. 'The Automotive Chassis: Engineering Principles'. ISBN 978-0768006750": {
+      "used_in": [
+        "статистика-отказов-восстановленных-ступичных-узлов-по-брендам-и-регионам"
+      ]
+    },
+    "drive2.ru — сообщество «Москвич 3», тема «Опыт эксплуатации и проблемы»": {
+      "used_in": [
+        "статистика-отказов-подвески-москвич-3-jac-js4-модель-слишком-новая"
+      ]
+    },
+    "drom.ru — отзывы о Москвич 3, раздел «Ходовая часть»": {
+      "used_in": [
+        "статистика-отказов-подвески-москвич-3-jac-js4-модель-слишком-новая"
+      ]
+    },
+    "Техническая документация АО «Москвич» (дилерская сеть, не публично)": {
+      "used_in": [
+        "статистика-отказов-подвески-москвич-3-jac-js4-модель-слишком-новая"
+      ]
+    },
+    "Reimpell J., Stoll H., Betzler J.W. «The Automotive Chassis: Engineering Principles», 2nd ed., ISBN 978-0768006575, SAE International, 2001": {
+      "used_in": [
+        "статистика-отказов-подвески-москвич-3-jac-js4-модель-слишком-новая"
+      ]
+    },
+    "TÜV Report 2023/2024 — ежегодный отчёт по надёжности автомобилей": {
+      "used_in": [
+        "статистика-распределения-частоты-обломов-по-маркам-и-пробегам"
+      ]
+    },
+    "Reimpell J., Stoll H., Betzler J. «The Automotive Chassis: Engineering Principles», ISBN 978-0768006575, SAE International": {
+      "used_in": [
+        "статистика-распределения-частоты-обломов-по-маркам-и-пробегам"
+      ]
+    },
+    "drive2.ru — множественные отчёты по обломам пружин и рычагов с указанием пробегов (поиск: «облом пружины», «трещина рычага»)": {
+      "used_in": [
+        "статистика-распределения-частоты-обломов-по-маркам-и-пробегам"
+      ]
+    },
+    "ISO 16750-3:2012 Road vehicles — Environmental conditions and testing for electrical and electronic equipment — Part 3: Mechanical loads": {
+      "used_in": [
+        "статистика-распределения-частоты-обломов-по-маркам-и-пробегам"
+      ]
+    },
+    "drive2.ru — topic: 'EUSAMA тестирование коммерческого транспорта'": {
+      "used_in": [
+        "точные-спецификации-eusama-для-коммерческого-транспорта-фургоны-грузовики"
+      ]
+    },
+    "Hofmann Megaplan — Operating Instructions, Technical Data EUSAMA testing machines": {
+      "used_in": [
+        "точные-спецификации-eusama-для-коммерческого-транспорта-фургоны-грузовики"
+      ]
+    },
+    "Reimpell J., Stoll H., Betzler J. — The Automotive Chassis: Engineering Principles, ISBN 978-0-7506-5054-0, Chapter: Suspension Testing": {
+      "used_in": [
+        "точные-спецификации-eusama-для-коммерческого-транспорта-фургоны-грузовики"
+      ]
+    }
+  }
+}

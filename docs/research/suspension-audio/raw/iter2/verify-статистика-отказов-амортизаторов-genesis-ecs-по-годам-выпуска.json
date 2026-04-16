@@ -1,0 +1,23 @@
+{
+  "topic_slug": "статистика-отказов-амортизаторов-genesis-ecs-по-годам-выпуска",
+  "iter": 2,
+  "verified_at": "2026-04-15T20:41:20.052337+00:00",
+  "sources": {
+    "Hyundai TSB 18-SS-001H — ECS Strut Assembly Replacement": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Genesis G80 (DH) Service Manual, Suspension System — Section SS, 2018": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Genesis Owners Forum — topic 'ECS Strut Failure 2018 G80' (genesisowners.com)": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "drive2.ru — блог 'Genesis Club', тема 'Проблемы ECS на G80'": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

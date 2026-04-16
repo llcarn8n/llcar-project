@@ -1,0 +1,564 @@
+{
+  "topics": {
+    "shock-absorbers": {
+      "category": "suspension",
+      "md_file": "docs/research/suspension-audio/topics/suspension/shock-absorbers.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:03:15.231929+00:00"
+    },
+    "sci-eusama-correlation-validity": {
+      "category": "scientific-evidence",
+      "md_file": "docs/research/suspension-audio/topics/scientific-evidence/sci-eusama-correlation-validity.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:03:15.257507+00:00"
+    },
+    "struts-mcpherson": {
+      "category": "suspension",
+      "md_file": "docs/research/suspension-audio/topics/suspension/struts-mcpherson.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 3,
+      "synthesized": "2026-04-15T20:07:54.765965+00:00"
+    },
+    "ball-joints": {
+      "category": "suspension",
+      "md_file": "docs/research/suspension-audio/topics/suspension/ball-joints.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:07:54.798870+00:00"
+    },
+    "tie-rods-ends": {
+      "category": "suspension",
+      "md_file": "docs/research/suspension-audio/topics/suspension/tie-rods-ends.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 3,
+      "synthesized": "2026-04-15T20:07:54.830948+00:00"
+    },
+    "stabilizer-bars-links": {
+      "category": "suspension",
+      "md_file": "docs/research/suspension-audio/topics/suspension/stabilizer-bars-links.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:07:54.862527+00:00"
+    },
+    "coil-springs": {
+      "category": "suspension",
+      "md_file": "docs/research/suspension-audio/topics/suspension/coil-springs.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 3,
+      "synthesized": "2026-04-15T20:11:16.145868+00:00"
+    },
+    "multilink-rear": {
+      "category": "suspension",
+      "md_file": "docs/research/suspension-audio/topics/suspension/multilink-rear.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:11:16.174763+00:00"
+    },
+    "spring-seats-mounts": {
+      "category": "suspension",
+      "md_file": "docs/research/suspension-audio/topics/suspension/spring-seats-mounts.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:11:16.208336+00:00"
+    },
+    "rubber-bushings": {
+      "category": "suspension",
+      "md_file": "docs/research/suspension-audio/topics/suspension/rubber-bushings.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 3,
+      "synthesized": "2026-04-15T20:11:16.237366+00:00"
+    },
+    "air-suspension": {
+      "category": "suspension",
+      "md_file": "docs/research/suspension-audio/topics/suspension/air-suspension.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:11:16.271572+00:00"
+    },
+    "adaptive-damping-mrc-amr": {
+      "category": "suspension",
+      "md_file": "docs/research/suspension-audio/topics/suspension/adaptive-damping-mrc-amr.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:11:16.308564+00:00"
+    },
+    "leaf-springs-commercial": {
+      "category": "suspension",
+      "md_file": "docs/research/suspension-audio/topics/suspension/leaf-springs-commercial.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:11:16.337734+00:00"
+    },
+    "speed-dependence": {
+      "category": "audio-correlations",
+      "md_file": "docs/research/suspension-audio/topics/audio-correlations/speed-dependence.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 3,
+      "synthesized": "2026-04-15T20:15:44.437286+00:00"
+    },
+    "frequency-ranges-per-defect": {
+      "category": "audio-correlations",
+      "md_file": "docs/research/suspension-audio/topics/audio-correlations/frequency-ranges-per-defect.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:15:44.482356+00:00"
+    },
+    "knock-impulse-signatures": {
+      "category": "audio-correlations",
+      "md_file": "docs/research/suspension-audio/topics/audio-correlations/knock-impulse-signatures.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:15:44.521713+00:00"
+    },
+    "load-dependence": {
+      "category": "audio-correlations",
+      "md_file": "docs/research/suspension-audio/topics/audio-correlations/load-dependence.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:15:44.565749+00:00"
+    },
+    "spectrogram-patterns-susp": {
+      "category": "audio-correlations",
+      "md_file": "docs/research/suspension-audio/topics/audio-correlations/spectrogram-patterns-susp.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 5,
+      "synthesized": "2026-04-15T20:15:44.620965+00:00"
+    },
+    "resonance-method": {
+      "category": "vibrostand",
+      "md_file": "docs/research/suspension-audio/topics/vibrostand/resonance-method.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:15:44.664960+00:00"
+    },
+    "road-surface-artifacts": {
+      "category": "audio-correlations",
+      "md_file": "docs/research/suspension-audio/topics/audio-correlations/road-surface-artifacts.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:15:44.701768+00:00"
+    },
+    "pass-criteria-norms-russia-eu": {
+      "category": "vibrostand",
+      "md_file": "docs/research/suspension-audio/topics/vibrostand/pass-criteria-norms-russia-eu.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:15:44.787831+00:00"
+    },
+    "mic-placement-cabin-vs-arch": {
+      "category": "audio-correlations",
+      "md_file": "docs/research/suspension-audio/topics/audio-correlations/mic-placement-cabin-vs-arch.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:15:44.827061+00:00"
+    },
+    "shaker-eigenfrequency": {
+      "category": "vibrostand",
+      "md_file": "docs/research/suspension-audio/topics/vibrostand/shaker-eigenfrequency.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:15:44.861921+00:00"
+    },
+    "4-post-hydraulic": {
+      "category": "vibrostand",
+      "md_file": "docs/research/suspension-audio/topics/vibrostand/4-post-hydraulic.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 5,
+      "synthesized": "2026-04-15T20:15:44.896389+00:00"
+    },
+    "accelerometer-mounting-standards": {
+      "category": "vibrostand",
+      "md_file": "docs/research/suspension-audio/topics/vibrostand/accelerometer-mounting-standards.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:15:44.966392+00:00"
+    },
+    "toyota-honda-mazda": {
+      "category": "brands",
+      "md_file": "docs/research/suspension-audio/topics/brands/toyota-honda-mazda.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 3,
+      "synthesized": "2026-04-15T20:15:45.108026+00:00"
+    },
+    "hyundai-kia-genesis": {
+      "category": "brands",
+      "md_file": "docs/research/suspension-audio/topics/brands/hyundai-kia-genesis.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:20:38.632877+00:00"
+    },
+    "chinese-byd-geely-chery-changan": {
+      "category": "brands",
+      "md_file": "docs/research/suspension-audio/topics/brands/chinese-byd-geely-chery-changan.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 5,
+      "synthesized": "2026-04-15T20:20:38.672954+00:00"
+    },
+    "bmw-mb-audi": {
+      "category": "brands",
+      "md_file": "docs/research/suspension-audio/topics/brands/bmw-mb-audi.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 5,
+      "synthesized": "2026-04-15T20:20:38.719439+00:00"
+    },
+    "renault-peugeot-citroen": {
+      "category": "brands",
+      "md_file": "docs/research/suspension-audio/topics/brands/renault-peugeot-citroen.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 3,
+      "synthesized": "2026-04-15T20:20:38.760074+00:00"
+    },
+    "russian-lada-uaz-moskvich": {
+      "category": "brands",
+      "md_file": "docs/research/suspension-audio/topics/brands/russian-lada-uaz-moskvich.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 3,
+      "synthesized": "2026-04-15T20:20:38.804709+00:00"
+    },
+    "american-ford-gm": {
+      "category": "brands",
+      "md_file": "docs/research/suspension-audio/topics/brands/american-ford-gm.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 3,
+      "synthesized": "2026-04-15T20:20:38.843796+00:00"
+    },
+    "diagnostic-sequence-standard": {
+      "category": "expert-practice",
+      "md_file": "docs/research/suspension-audio/topics/expert-practice/diagnostic-sequence-standard.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 3,
+      "synthesized": "2026-04-15T20:20:38.886489+00:00"
+    },
+    "custdev-insights": {
+      "category": "expert-practice",
+      "md_file": "docs/research/suspension-audio/topics/expert-practice/custdev-insights.md",
+      "sources_count": 0,
+      "verified_count": 0,
+      "unknowns_count": 0,
+      "synthesized": "2026-04-15T20:20:38.963913+00:00"
+    },
+    "common-diagnostician-mistakes": {
+      "category": "expert-practice",
+      "md_file": "docs/research/suspension-audio/topics/expert-practice/common-diagnostician-mistakes.md",
+      "sources_count": 0,
+      "verified_count": 0,
+      "unknowns_count": 0,
+      "synthesized": "2026-04-15T20:20:38.991919+00:00"
+    },
+    "field-tricks-no-equipment": {
+      "category": "expert-practice",
+      "md_file": "docs/research/suspension-audio/topics/expert-practice/field-tricks-no-equipment.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 3,
+      "synthesized": "2026-04-15T20:20:39.021741+00:00"
+    },
+    "cross-check-correlation-engine": {
+      "category": "expert-practice",
+      "md_file": "docs/research/suspension-audio/topics/expert-practice/cross-check-correlation-engine.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 5,
+      "synthesized": "2026-04-15T20:20:39.055860+00:00"
+    },
+    "new-rules-emerging": {
+      "category": "expert-practice",
+      "md_file": "docs/research/suspension-audio/topics/expert-practice/new-rules-emerging.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:20:39.089886+00:00"
+    },
+    "edge-cases": {
+      "category": "expert-practice",
+      "md_file": "docs/research/suspension-audio/topics/expert-practice/edge-cases.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 5,
+      "synthesized": "2026-04-15T20:20:39.121022+00:00"
+    },
+    "cross-check-threshold-rules": {
+      "category": "expert-practice",
+      "md_file": "docs/research/suspension-audio/topics/expert-practice/cross-check-threshold-rules.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 7,
+      "synthesized": "2026-04-15T20:21:05.629475+00:00"
+    },
+    "sci-accelerometer-placement-iso": {
+      "category": "scientific-evidence",
+      "md_file": "docs/research/suspension-audio/topics/scientific-evidence/sci-accelerometer-placement-iso.md",
+      "sources_count": 6,
+      "verified_count": 0,
+      "unknowns_count": 3,
+      "synthesized": "2026-04-15T20:21:05.741157+00:00"
+    },
+    "sci-damping-ratio-vs-wear": {
+      "category": "scientific-evidence",
+      "md_file": "docs/research/suspension-audio/topics/scientific-evidence/sci-damping-ratio-vs-wear.md",
+      "sources_count": 6,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:21:18.427457+00:00"
+    },
+    "harmonic-vs-broadband": {
+      "category": "audio-correlations",
+      "md_file": "docs/research/suspension-audio/topics/audio-correlations/harmonic-vs-broadband.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:24:51.241113+00:00"
+    },
+    "sci-ball-joint-fatigue-models": {
+      "category": "scientific-evidence",
+      "md_file": "docs/research/suspension-audio/topics/scientific-evidence/sci-ball-joint-fatigue-models.md",
+      "sources_count": 6,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:24:51.266115+00:00"
+    },
+    "sci-bushing-fatigue-lab-tests": {
+      "category": "scientific-evidence",
+      "md_file": "docs/research/suspension-audio/topics/scientific-evidence/sci-bushing-fatigue-lab-tests.md",
+      "sources_count": 6,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:24:51.283114+00:00"
+    },
+    "sci-machine-learning-suspension-diagnostic": {
+      "category": "scientific-evidence",
+      "md_file": "docs/research/suspension-audio/topics/scientific-evidence/sci-machine-learning-suspension-diagnostic.md",
+      "sources_count": 6,
+      "verified_count": 0,
+      "unknowns_count": 5,
+      "synthesized": "2026-04-15T20:24:51.304115+00:00"
+    },
+    "sci-road-input-psd-spectra": {
+      "category": "scientific-evidence",
+      "md_file": "docs/research/suspension-audio/topics/scientific-evidence/sci-road-input-psd-spectra.md",
+      "sources_count": 6,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:24:51.322123+00:00"
+    },
+    "sci-strut-wear-signature-empirical": {
+      "category": "scientific-evidence",
+      "md_file": "docs/research/suspension-audio/topics/scientific-evidence/sci-strut-wear-signature-empirical.md",
+      "sources_count": 6,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:28:16.768838+00:00"
+    },
+    "sci-resonance-theory-foundation": {
+      "category": "scientific-evidence",
+      "md_file": "docs/research/suspension-audio/topics/scientific-evidence/sci-resonance-theory-foundation.md",
+      "sources_count": 6,
+      "verified_count": 0,
+      "unknowns_count": 3,
+      "synthesized": "2026-04-15T20:28:16.791834+00:00"
+    },
+    "sci-smartphone-sensor-validity": {
+      "category": "scientific-evidence",
+      "md_file": "docs/research/suspension-audio/topics/scientific-evidence/sci-smartphone-sensor-validity.md",
+      "sources_count": 5,
+      "verified_count": 0,
+      "unknowns_count": 5,
+      "synthesized": "2026-04-15T20:36:24.469473+00:00"
+    },
+    "isoгост-нормативы-допустимого-биения-привалочной-поверхности-ступицы-после-корро": {
+      "category": "scientific-evidence",
+      "md_file": "docs/research/suspension-audio/topics/scientific-evidence/isoгост-нормативы-допустимого-биения-привалочной-поверхности-ступицы-после-корро.md",
+      "sources_count": 6,
+      "verified_count": 0,
+      "unknowns_count": 3,
+      "synthesized": "2026-04-15T20:41:20.165688+00:00"
+    },
+    "sae-paper-по-корреляции-виброакустических-параметров-и-износа-шаровых-возможно-с": {
+      "category": "scientific-evidence",
+      "md_file": "docs/research/suspension-audio/topics/scientific-evidence/sae-paper-по-корреляции-виброакустических-параметров-и-износа-шаровых-возможно-с.md",
+      "sources_count": 3,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:41:20.194658+00:00"
+    },
+    "версии-прошивок-и-алгоритмы-различных-поколений-стендов-bogehofmann": {
+      "category": "vibrostand",
+      "md_file": "docs/research/suspension-audio/topics/vibrostand/версии-прошивок-и-алгоритмы-различных-поколений-стендов-bogehofmann.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:41:20.220045+00:00"
+    },
+    "влияние-адаптивныхпневматических-подвесок-на-корректность-метода-eusama": {
+      "category": "vibrostand",
+      "md_file": "docs/research/suspension-audio/topics/vibrostand/влияние-адаптивныхпневматических-подвесок-на-корректность-метода-eusama.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:41:20.244899+00:00"
+    },
+    "гост-спецификации-для-вибродиагностики-bushing-degradation-не-уверен-какие-именн": {
+      "category": "scientific-evidence",
+      "md_file": "docs/research/suspension-audio/topics/scientific-evidence/гост-спецификации-для-вибродиагностики-bushing-degradation-не-уверен-какие-именн.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 3,
+      "synthesized": "2026-04-15T20:41:20.262342+00:00"
+    },
+    "долгосрочная-стабильность-emerging-маркеров-при-пробегах-150000-км": {
+      "category": "suspension",
+      "md_file": "docs/research/suspension-audio/topics/suspension/долгосрочная-стабильность-emerging-маркеров-при-пробегах-150000-км.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 5,
+      "synthesized": "2026-04-15T20:41:20.281334+00:00"
+    },
+    "заводские-допуски-на-затяжку-втулок-стабилизатора-cr-v-разных-поколений": {
+      "category": "suspension",
+      "md_file": "docs/research/suspension-audio/topics/suspension/заводские-допуски-на-затяжку-втулок-стабилизатора-cr-v-разных-поколений.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:41:20.309381+00:00"
+    },
+    "конкретные-oem-пороги-passfail-для-frf-и-transmissibility-закрытые-данные": {
+      "category": "suspension",
+      "md_file": "docs/research/suspension-audio/topics/suspension/конкретные-oem-пороги-passfail-для-frf-и-transmissibility-закрытые-данные.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 5,
+      "synthesized": "2026-04-15T20:41:20.345209+00:00"
+    },
+    "наличие-гост-на-вибростендовую-диагностику-подвески-в-рф-возможно-существует-отр": {
+      "category": "scientific-evidence",
+      "md_file": "docs/research/suspension-audio/topics/scientific-evidence/наличие-гост-на-вибростендовую-диагностику-подвески-в-рф-возможно-существует-отр.md",
+      "sources_count": 3,
+      "verified_count": 0,
+      "unknowns_count": 3,
+      "synthesized": "2026-04-15T20:41:20.388252+00:00"
+    },
+    "наличие-доступных-бу-4-post-стендов-на-рынке-и-их-реальная-стоимость": {
+      "category": "vibrostand",
+      "md_file": "docs/research/suspension-audio/topics/vibrostand/наличие-доступных-бу-4-post-стендов-на-рынке-и-их-реальная-стоимость.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:41:20.432117+00:00"
+    },
+    "номера-sae-papers-по-конкретным-nvh-исследованиям-audi-mlb-evo-suspension": {
+      "category": "scientific-evidence",
+      "md_file": "docs/research/suspension-audio/topics/scientific-evidence/номера-sae-papers-по-конкретным-nvh-исследованиям-audi-mlb-evo-suspension.md",
+      "sources_count": 3,
+      "verified_count": 0,
+      "unknowns_count": 3,
+      "synthesized": "2026-04-15T20:41:20.473521+00:00"
+    },
+    "номера-конкретных-sae-paper-по-корейским-подвескам": {
+      "category": "scientific-evidence",
+      "md_file": "docs/research/suspension-audio/topics/scientific-evidence/номера-конкретных-sae-paper-по-корейским-подвескам.md",
+      "sources_count": 3,
+      "verified_count": 0,
+      "unknowns_count": 3,
+      "synthesized": "2026-04-15T20:41:20.502527+00:00"
+    },
+    "нормативы-допустимого-количества-колебаний-при-раскачке-по-iso-для-разных-классо": {
+      "category": "scientific-evidence",
+      "md_file": "docs/research/suspension-audio/topics/scientific-evidence/нормативы-допустимого-количества-колебаний-при-раскачке-по-iso-для-разных-классо.md",
+      "sources_count": 6,
+      "verified_count": 0,
+      "unknowns_count": 3,
+      "synthesized": "2026-04-15T20:41:20.545463+00:00"
+    },
+    "пороги-wheel_imbalance-в-rulesjson-граммы-ммс-виброскорости-g-ускорение": {
+      "category": "vibrostand",
+      "md_file": "docs/research/suspension-audio/topics/vibrostand/пороги-wheel_imbalance-в-rulesjson-граммы-ммс-виброскорости-g-ускорение.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:41:20.568200+00:00"
+    },
+    "стандартизированные-пороги-вибрации-компрессора-isoгост-для-диагностики-на-автом": {
+      "category": "scientific-evidence",
+      "md_file": "docs/research/suspension-audio/topics/scientific-evidence/стандартизированные-пороги-вибрации-компрессора-isoгост-для-диагностики-на-автом.md",
+      "sources_count": 6,
+      "verified_count": 0,
+      "unknowns_count": 3,
+      "synthesized": "2026-04-15T20:41:20.604770+00:00"
+    },
+    "статистика-отказов-амортизаторов-genesis-ecs-по-годам-выпуска": {
+      "category": "suspension",
+      "md_file": "docs/research/suspension-audio/topics/suspension/статистика-отказов-амортизаторов-genesis-ecs-по-годам-выпуска.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 4,
+      "synthesized": "2026-04-15T20:41:20.645769+00:00"
+    },
+    "статистика-отказов-восстановленных-ступичных-узлов-по-брендам-и-регионам": {
+      "category": "suspension",
+      "md_file": "docs/research/suspension-audio/topics/suspension/статистика-отказов-восстановленных-ступичных-узлов-по-брендам-и-регионам.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 5,
+      "synthesized": "2026-04-15T20:41:20.695400+00:00"
+    },
+    "статистика-отказов-подвески-москвич-3-jac-js4-модель-слишком-новая": {
+      "category": "suspension",
+      "md_file": "docs/research/suspension-audio/topics/suspension/статистика-отказов-подвески-москвич-3-jac-js4-модель-слишком-новая.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 6,
+      "synthesized": "2026-04-15T20:41:20.747713+00:00"
+    },
+    "статистика-распределения-частоты-обломов-по-маркам-и-пробегам": {
+      "category": "audio-correlations",
+      "md_file": "docs/research/suspension-audio/topics/audio-correlations/статистика-распределения-частоты-обломов-по-маркам-и-пробегам.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 5,
+      "synthesized": "2026-04-15T20:41:20.788604+00:00"
+    },
+    "точные-спецификации-eusama-для-коммерческого-транспорта-фургоны-грузовики": {
+      "category": "vibrostand",
+      "md_file": "docs/research/suspension-audio/topics/vibrostand/точные-спецификации-eusama-для-коммерческого-транспорта-фургоны-грузовики.md",
+      "sources_count": 4,
+      "verified_count": 0,
+      "unknowns_count": 6,
+      "synthesized": "2026-04-15T20:41:20.818582+00:00"
+    }
+  }
+}

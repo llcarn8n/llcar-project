@@ -1,0 +1,23 @@
+{
+  "topic_slug": "bmw-mb-audi",
+  "iter": 1,
+  "verified_at": "2026-04-15T20:20:38.399413+00:00",
+  "sources": {
+    "BMW AG — Suspension Technical Training Manual (TIS 31 01 06); MB W220 Airmatic Introduction (WIS GF07.20-P-2001-01A)": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Reimpell J., Stoll H., Betzler J. — The Automotive Chassis: Engineering Principles, 2nd Edition (ISBN 978-0768006575), Chapter 5: Suspension Systems": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "BenzWorld.org W220 S-Class Forum — 'Airmatic Failure Comprehensive Guide' + Arnott vs OEM comparison threads; Drive2.ru — отчёты по замене сайлентблоков Audi Q7 4M, BMW F10": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ISO 18431-1:2005 — Mechanical vibration and shock — Signal processing; ISO 13373-1 — Condition monitoring and diagnostics of machines": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

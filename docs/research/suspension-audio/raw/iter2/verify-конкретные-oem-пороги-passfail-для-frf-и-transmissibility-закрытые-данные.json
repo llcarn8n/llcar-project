@@ -1,0 +1,23 @@
+{
+  "topic_slug": "конкретные-oem-пороги-passfail-для-frf-и-transmissibility-закрытые-данные",
+  "iter": 2,
+  "verified_at": "2026-04-15T20:41:20.046340+00:00",
+  "sources": {
+    "ISO 2631-1:1997 Mechanical vibration and shock — Evaluation of human exposure to whole-body vibration": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "SAE 2005-01-1504 'Application of Transfer Path Analysis to Automotive Suspension Systems'": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "drive2.ru — тема 'Вибростендовая диагностика подвески', multiple threads": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Reimpell, Stoll, Betzler 'The Automotive Chassis: Engineering Principles' ISBN 978-0768006755": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

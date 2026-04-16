@@ -1,0 +1,23 @@
+{
+  "topic_slug": "spectrogram-patterns-susp",
+  "iter": 1,
+  "verified_at": "2026-04-15T20:15:44.262455+00:00",
+  "sources": {
+    "Гинцбург Б.Я. «Динамика автомобиля» — М.: Машиностроение, ISBN 978-5-217-01424-3": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ISO 13373-1:2002 Condition monitoring and diagnostics of machines — Vibration condition monitoring — Part 1: General procedures": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "SAE J2903 — Wheel Bearing Noise and Vibration Test Procedure (2017)": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Reimpell J., Stoll H., Betzler J. «The Automotive Chassis: Engineering Principles» — Butterworth-Heinemann, ISBN 978-0-7506-5054-0": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

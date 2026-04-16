@@ -1,0 +1,31 @@
+{
+  "topic_slug": "sci-machine-learning-suspension-diagnostic",
+  "iter": 1,
+  "verified_at": "2026-04-15T20:24:51.112244+00:00",
+  "sources": {
+    "10.1016/j.ymssp.2021.108736": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "10.1109/TVT.2022.3145017": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "10.1016/j.eswa.2020.113846": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "10.3390/s21186123": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "10.1016/j.ymssp.2022.109221": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "10.3390/app11209589": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

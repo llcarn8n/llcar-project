@@ -1,0 +1,23 @@
+{
+  "topic_slug": "sci-eusama-correlation-validity",
+  "iter": 1,
+  "verified_at": "2026-04-15T20:03:15.132482+00:00",
+  "sources": {
+    "EUSAMA Technical Recommendation": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "SAE 890434": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "SAE 2006-01-1080": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ISBN 978-1560911999": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

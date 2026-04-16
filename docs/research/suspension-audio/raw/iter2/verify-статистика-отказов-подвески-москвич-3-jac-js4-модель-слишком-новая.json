@@ -1,0 +1,23 @@
+{
+  "topic_slug": "статистика-отказов-подвески-москвич-3-jac-js4-модель-слишком-новая",
+  "iter": 2,
+  "verified_at": "2026-04-15T20:41:20.055342+00:00",
+  "sources": {
+    "drive2.ru — сообщество «Москвич 3», тема «Опыт эксплуатации и проблемы»": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "drom.ru — отзывы о Москвич 3, раздел «Ходовая часть»": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Техническая документация АО «Москвич» (дилерская сеть, не публично)": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Reimpell J., Stoll H., Betzler J.W. «The Automotive Chassis: Engineering Principles», 2nd ed., ISBN 978-0768006575, SAE International, 2001": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

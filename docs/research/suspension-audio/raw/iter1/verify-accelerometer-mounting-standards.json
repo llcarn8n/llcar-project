@@ -1,0 +1,23 @@
+{
+  "topic_slug": "accelerometer-mounting-standards",
+  "iter": 1,
+  "verified_at": "2026-04-15T20:15:44.268790+00:00",
+  "sources": {
+    "ISO 5348:1998 Mechanical vibration — Mechanical mounting of accelerometers": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Brüel & Kjær, 'Mounting Techniques for Accelerometers' (Application Note BO-0772)": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Reimpell, Stoll, Betzler — The Automotive Chassis: Engineering Principles (2nd ed., SAE, ISBN 978-0-7680-0653-5), Chapter 9: NVH": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "GarageJournal — topic 'Accelerometer mounting: stud vs magnetic vs adhesive' (поиск по форуму)": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

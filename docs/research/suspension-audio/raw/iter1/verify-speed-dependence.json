@@ -1,0 +1,23 @@
+{
+  "topic_slug": "speed-dependence",
+  "iter": 1,
+  "verified_at": "2026-04-15T20:15:44.255493+00:00",
+  "sources": {
+    "Reimpell J., Stoll H., Betzler J. «The Automotive Chassis: Engineering Principles», 2nd Edition, ISBN 978-0-7680-0650-4, Chapter 8: Suspension Vibration": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ISO 10816-3:2009 «Mechanical vibration — Evaluation of machine vibration by measurements on non-rotating parts», Table B.1 — vibration severity for different machine classes": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "drive2.ru — сообщество «Диагностика и ремонт подвески», тема «Гул в районе колеса — диагностика подшипника по скорости» (множество кейсов с waterfall-спектрограммами)": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "SAE Technical Paper 2005-01-2525 «Wheel Bearing Noise and Vibration — Diagnostics and Root Cause Analysis», https://www.sae.org/publications/technical-papers/content/2005-01-2525/": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

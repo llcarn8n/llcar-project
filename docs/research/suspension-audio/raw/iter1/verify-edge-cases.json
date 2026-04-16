@@ -1,0 +1,23 @@
+{
+  "topic_slug": "edge-cases",
+  "iter": 1,
+  "verified_at": "2026-04-15T20:20:38.464384+00:00",
+  "sources": {
+    "SAE 2005-01-2307 — Effect of Suspension Bushing Stiffness on NVH Performance": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Reimpell, Stoll, Betzler — The Automotive Chassis (2nd Ed), ISBN 978-0768006754, Chapter 5: Suspension Parameters": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "GarageJournal — topic 'Death Wobble Diagnosis and Fix', forum.garagejournal.com": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Toyota TSB 0062-16 — Propeller Shaft Vibration After Suspension Lift": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

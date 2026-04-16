@@ -1,0 +1,23 @@
+{
+  "topic_slug": "версии-прошивок-и-алгоритмы-различных-поколений-стендов-bogehofmann",
+  "iter": 2,
+  "verified_at": "2026-04-15T20:41:20.039279+00:00",
+  "sources": {
+    "Reimpell J., Stoll H., Betzler J.W. «The Automotive Chassis: Engineering Principles», ISBN 978-0-7506-5054-0": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "GarageJournal, тема «Boge Dynovis software versions», forum.garagejournal.com": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Corghi/Boge DYNOVIS Service Manual, документ №COR-DYNOVIS-SM-2018": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "EUSAMA Recommendations for Suspension Testing (manufacturer document, не ISO)": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

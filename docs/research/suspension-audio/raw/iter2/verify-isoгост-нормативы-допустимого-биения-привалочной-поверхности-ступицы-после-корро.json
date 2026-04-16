@@ -1,0 +1,31 @@
+{
+  "topic_slug": "isoгост-нормативы-допустимого-биения-привалочной-поверхности-ступицы-после-корро",
+  "iter": 2,
+  "verified_at": "2026-04-15T20:41:20.035415+00:00",
+  "sources": {
+    "ISO 1101:2017": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ISO 2768-2:1989": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ГОСТ 30893.2-2002": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "SAE 2005-01-1549": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ISO 286-1:2010": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ISO 286-2:2010": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

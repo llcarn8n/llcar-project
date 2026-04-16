@@ -1,0 +1,23 @@
+{
+  "topic_slug": "статистика-отказов-восстановленных-ступичных-узлов-по-брендам-и-регионам",
+  "iter": 2,
+  "verified_at": "2026-04-15T20:41:20.053335+00:00",
+  "sources": {
+    "drive2.ru — поиск «восстановленный ступичный подшипник», «отказ ступицы»": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "autoscaners.biz — раздел диагностики подвески": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ISO 15242 — Rolling bearings — Measuring methods for vibration": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "Reimpell, Stoll, Betzler. 'The Automotive Chassis: Engineering Principles'. ISBN 978-0768006750": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}

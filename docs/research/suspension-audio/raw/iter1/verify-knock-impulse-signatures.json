@@ -1,0 +1,23 @@
+{
+  "topic_slug": "knock-impulse-signatures",
+  "iter": 1,
+  "verified_at": "2026-04-15T20:15:44.259760+00:00",
+  "sources": {
+    "Reimpell J., Stoll H., Betzler J. «The Automotive Chassis: Engineering Principles» 2nd ed., SAE, 2001, ISBN 978-0-7680-0657-5, Chapter 5: Suspension Vibrations": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "ISO 16730-3:2017 «Vehicle dynamics — Suspension test procedures»": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "drive2.ru, topic: «Диагностика подвески по звуку — шаровая или стабилизатор?», пользователь TIGRA-EXPERT, 2020": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    },
+    "SAE Technical Paper 2019-01-1556 «NVH Diagnosis of Suspension Knock Noises Using Accelerometer and Acoustic Correlation», M. Yamamoto, K. Ito, 2019": {
+      "status": "ref",
+      "note": "non-URL reference (ISBN/DOI/standard)"
+    }
+  }
+}
