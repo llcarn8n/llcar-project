@@ -232,3 +232,39 @@ class TestSerialization:
         row = original.to_db_row()
         restored = VehicleProfile.from_db_row(row)
         assert restored == original
+
+
+class TestDraperKnockFreqFromBore:
+    """S23 A.31: f_{1,0} = 1.841 · c / (π · B), c=1000 м/с, Draper 1938.
+
+    Верификация против Brecq 2003 (SAE 2003-01-1915) и Di Gaeta 2018
+    (Applied Energy): отклонение ≤±50 Hz допустимо.
+    """
+
+    def test_none_if_bore_unknown(self):
+        vp = VehicleProfile(client_hash="h", brand="X", model="Y", year=2020)
+        assert vp.knock_expected_freq_from_bore is None
+
+    def test_bore_72mm_vw_1_4_tsi(self):
+        vp = VehicleProfile(
+            client_hash="h", brand="VW", model="Golf", year=2020, bore_mm=72
+        )
+        assert vp.knock_expected_freq_from_bore == pytest.approx(8139.0, abs=50)
+
+    def test_bore_86mm_bmw_n20(self):
+        vp = VehicleProfile(
+            client_hash="h", brand="BMW", model="320i", year=2018, bore_mm=86
+        )
+        assert vp.knock_expected_freq_from_bore == pytest.approx(6814.0, abs=50)
+
+    def test_bore_100mm_porsche_flat_six(self):
+        vp = VehicleProfile(
+            client_hash="h", brand="Porsche", model="991", year=2019, bore_mm=100
+        )
+        assert vp.knock_expected_freq_from_bore == pytest.approx(5860.0, abs=50)
+
+    def test_bore_zero_or_negative_returns_none(self):
+        vp = VehicleProfile(
+            client_hash="h", brand="X", model="Y", year=2020, bore_mm=0
+        )
+        assert vp.knock_expected_freq_from_bore is None

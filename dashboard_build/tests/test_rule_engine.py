@@ -534,3 +534,72 @@ class TestCooldownEnforcement:
         )
         # Should still fire despite the error
         assert result["confidence"] > 0
+
+
+class TestShadowRulesIsolation:
+    """S23 regression: shadow-правила не попадают в production output.
+
+    Любой пакет, срабатывающий по shadow-правилам (SK/order/phase/HPBM),
+    должен фиксироваться только в shadow_results, не в results.
+    """
+
+    _S23_SHADOW_NAMES = frozenset({
+        "spectral_kurtosis_impulsive_bearing",
+        "order_tracking_mount_wear_shadow",
+        "phase_lag_shift_shadow",
+        "damping_bandwidth_wide_shadow",
+        "shock_absorber_early_wear_corrected",
+        "shock_absorber_worn_corrected",
+        "stabilizer_link_worn_freq",
+    })
+
+    def test_shadow_rules_never_in_production_output(self):
+        engine = RuleEngine()
+        # Максимально "звонкий" пакет: все shadow-триггеры одновременно.
+        packet = _make_packet(
+            rpm=2400.0, speed=60.0,
+            az_std=4.0, ax_std=2.0,
+            audio_peaks=[(40.0, 0.9), (80.0, 1.2), (120.0, 0.8), (10.0, 0.6)],
+            audio_percussive=[(3000.0, 1.5), (3100.0, 1.3), (2900.0, 1.1),
+                              (500.0, 0.02), (600.0, 0.02)],
+            regime=DrivingRegime.CITY,
+            tier="T2",
+        )
+        features = _make_features(
+            spectral_kurtosis_audio=5.0,
+            rpm_order_matches=3,
+            order_2x_amp=1.2,
+            ax_az_phase_proxy=0.1,
+            hpbm_bandwidth_ratio=0.6,
+            hpbm_applicable=True,
+            wheel_hop_peak_freq=11.0,
+            az_std=4.0, az_range=12.0,
+            crest_factor_z=4.5,
+            total_vibration=5.0,
+            ay_std=2.0,
+            dominant_freq=150.0,
+        )
+        baselines = _make_baselines_store()
+        out = engine.run_all(
+            [], features, baselines, packet.regime, packet,
+        )
+        prod_names = {r["name"] for r in out["results"]}
+        shadow_names = {r["name"] for r in out["shadow_results"]}
+
+        # Ни одно shadow-имя не должно оказаться в production results
+        leaked = self._S23_SHADOW_NAMES & prod_names
+        assert leaked == set(), (
+            f"Shadow rules leaked into production: {leaked}"
+        )
+        # Все results имеют shadow_mode=False
+        assert all(r.get("shadow_mode") is False for r in out["results"])
+        # Все shadow_results имеют shadow_mode=True
+        assert all(r.get("shadow_mode") is True for r in out["shadow_results"])
+
+    def test_shadow_file_loads_all_seven_rules(self):
+        engine = RuleEngine()
+        shadow_named = {
+            r.name for r in engine.rules
+            if r.shadow_mode and r.name in self._S23_SHADOW_NAMES
+        }
+        assert shadow_named == self._S23_SHADOW_NAMES
