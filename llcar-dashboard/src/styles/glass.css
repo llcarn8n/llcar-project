@@ -967,11 +967,12 @@ header {
   width: 100%;
   height: calc(100vh - 260px);
   min-height: 400px;
-  background: #071420;
-  border: 1px solid var(--border-glow);
-  border-radius: 12px;
+  background: radial-gradient(ellipse 100% 60% at 50% 100%, rgba(255,159,28,0.06) 0%, transparent 60%), var(--c-void);
+  border: 1px solid var(--border-frost);
+  border-radius: var(--r-card);
   overflow: hidden;
   margin-top: 12px;
+  box-shadow: var(--shadow-panel);
 }
 
 .diag-viewport-full .scan-overlay {
@@ -981,8 +982,8 @@ header {
     0deg,
     transparent,
     transparent 2px,
-    rgba(0, 229, 255, 0.02) 2px,
-    rgba(0, 229, 255, 0.02) 4px
+    rgba(240, 240, 250, 0.018) 2px,
+    rgba(240, 240, 250, 0.018) 4px
   );
   pointer-events: none;
   z-index: 10;
@@ -1017,51 +1018,54 @@ header {
 
 /* Semi-transparent glass for overlays */
 .diag-overlay-panel {
-  background: rgba(17, 17, 22, 0.85);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
-  border: 1px solid var(--border-glow);
-  border-radius: 8px;
-  padding: 10px 12px;
+  background: rgba(5, 7, 13, 0.78);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border: 1px solid var(--border-frost);
+  border-radius: var(--r-card);
+  padding: 12px 14px;
+  box-shadow: var(--ring-shadow);
 }
 
 /* System tab bar for diagnostics page */
 .system-tab-bar {
   display: flex;
   gap: 2px;
-  padding: 2px 4px;
+  padding: 3px 5px;
   margin: 0;
-  background: rgba(6, 18, 30, 0.88);
-  backdrop-filter: blur(10px);
-  -webkit-backdrop-filter: blur(10px);
-  border: 1px solid rgba(0, 229, 255, 0.15);
-  border-radius: 8px;
+  background: rgba(5, 7, 13, 0.78);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid var(--border-frost);
+  border-radius: var(--r-pill);
 }
 
 .system-tab {
   font-family: var(--f-section);
-  font-size: 0.55rem;
-  letter-spacing: 0.1em;
+  font-size: 0.68rem;
+  letter-spacing: 0.14em;
   text-transform: uppercase;
-  padding: 5px 12px;
-  color: var(--nav-text);
-  border: none;
-  border-radius: 6px;
+  font-weight: 600;
+  padding: 7px 16px;
+  color: var(--c-text-muted);
+  border: 1px solid transparent;
+  border-radius: var(--r-pill);
   cursor: pointer;
-  transition: all 0.2s;
+  transition: all 0.25s ease;
   background: transparent;
+  position: relative;
 }
 
 .system-tab:hover {
-  color: var(--nav-hover-text);
-  background: var(--nav-hover-bg);
+  color: var(--c-text);
+  background: rgba(240, 240, 250, 0.05);
 }
 
 .system-tab.active {
-  color: #fff;
-  background: rgba(0, 229, 255, 0.15);
-  background: linear-gradient(135deg, rgba(0, 229, 255, 0.1), transparent);
-  text-shadow: 0 0 8px rgba(0, 229, 255, 0.4);
+  color: var(--c-amber);
+  background: rgba(255, 159, 28, 0.08);
+  border-color: rgba(255, 159, 28, 0.35);
+  text-shadow: 0 0 12px rgba(255, 159, 28, 0.45);
 }
 
 /* ── 25. V3 Diagnostics: Mobile Responsive ── */

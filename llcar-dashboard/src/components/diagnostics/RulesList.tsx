@@ -155,18 +155,18 @@ export function RulesList({ filterSystem }: { filterSystem?: string } = {}) {
       {/* Header with stats */}
       <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 12 }}>
         <div className="hud-header" style={{ margin: 0 }}>Правила проверки</div>
-        <div style={{ display: 'flex', gap: 12, fontFamily: "'Rajdhani', sans-serif", fontSize: 11, color: theme.text.muted }}>
-          <span><strong style={{ color: theme.accent.cyan, fontFamily: "'Share Tech Mono', monospace" }}>{totalRules}</strong> правил</span>
-          <span><strong style={{ color: theme.status.critical, fontFamily: "'Share Tech Mono', monospace" }}>{t1Count}</strong> критических</span>
-          <span><strong style={{ color: theme.accent.teal, fontFamily: "'Share Tech Mono', monospace" }}>{systemCount}</strong> систем</span>
+        <div style={{ display: 'flex', gap: 12, fontFamily: 'var(--f-body)', fontSize: 11, color: theme.text.muted }}>
+          <span><strong style={{ color: theme.accent.cyan, fontFamily: 'var(--f-mono)' }}>{totalRules}</strong> правил</span>
+          <span><strong style={{ color: theme.status.critical, fontFamily: 'var(--f-mono)' }}>{t1Count}</strong> критических</span>
+          <span><strong style={{ color: theme.accent.teal, fontFamily: 'var(--f-mono)' }}>{systemCount}</strong> систем</span>
         </div>
       </div>
 
       {/* Subtitle */}
       <div style={{
-        fontFamily: "'Rajdhani', sans-serif", fontSize: 12, color: theme.text.muted,
+        fontFamily: 'var(--f-body)', fontSize: 12, color: theme.text.muted,
         lineHeight: 1.5, marginBottom: 16, paddingBottom: 12,
-        borderBottom: '1px solid rgba(0,229,255,0.08)',
+        borderBottom: '1px solid var(--border-frost)',
       }}>
         LLCAR автоматически проверяет {totalRules} параметров вашего автомобиля при каждом сканировании.
         Каждое правило основано на инженерных нормах и данных от производителей.
@@ -190,29 +190,29 @@ export function RulesList({ filterSystem }: { filterSystem?: string } = {}) {
                   display: 'flex', alignItems: 'center', gap: 10, padding: '12px 14px',
                   borderRadius: 6, cursor: 'pointer', transition: 'all 0.25s',
                   background: isOpen
-                    ? 'linear-gradient(135deg, rgba(100,255,218,0.1), rgba(0,229,255,0.05))'
-                    : 'linear-gradient(135deg, rgba(0,229,255,0.04), transparent)',
-                  border: `1px solid ${isOpen ? 'rgba(100,255,218,0.2)' : 'rgba(0,229,255,0.08)'}`,
-                  boxShadow: isOpen ? '0 0 12px rgba(100,255,218,0.08)' : 'none',
+                    ? 'linear-gradient(135deg, rgba(255,159,28,0.10), rgba(255,159,28,0.03))'
+                    : 'linear-gradient(135deg, rgba(240,240,250,0.03), transparent)',
+                  border: `1px solid ${isOpen ? 'rgba(255,159,28,0.30)' : 'var(--border-frost)'}`,
+                  boxShadow: isOpen ? '0 0 14px rgba(255,159,28,0.10)' : 'none',
                 }}
               >
                 <span style={{
                   fontSize: 28, width: 44, height: 44, display: 'flex', alignItems: 'center', justifyContent: 'center',
-                  background: 'rgba(0,229,255,0.08)', borderRadius: 6, border: '1px solid rgba(0,229,255,0.12)',
+                  background: 'rgba(240,240,250,0.04)', borderRadius: 8, border: '1px solid var(--border-frost)',
                 }}>{icon}</span>
                 <div style={{ flex: 1 }}>
-                  <div style={{ fontFamily: "'Rajdhani', sans-serif", fontSize: 14, fontWeight: 700, color: theme.text.secondary }}>
+                  <div style={{ fontFamily: 'var(--f-body)', fontSize: 14, fontWeight: 700, color: theme.text.secondary }}>
                     {system}
                   </div>
-                  <div style={{ fontFamily: "'Rajdhani', sans-serif", fontSize: 11, color: theme.text.muted }}>
+                  <div style={{ fontFamily: 'var(--f-body)', fontSize: 11, color: theme.text.muted }}>
                     {rules.length} правил проверки
                   </div>
                 </div>
                 {/* Tier mini-badges */}
                 <div style={{ display: 'flex', gap: 4 }}>
-                  {t1 > 0 && <span style={{ fontSize: 9, fontFamily: "'Share Tech Mono', monospace", color: theme.status.critical, padding: '1px 5px', borderRadius: 2, background: `${theme.status.critical}15`, border: `1px solid ${theme.status.critical}25` }}>{t1}</span>}
-                  {t2 > 0 && <span style={{ fontSize: 9, fontFamily: "'Share Tech Mono', monospace", color: theme.status.warning, padding: '1px 5px', borderRadius: 2, background: `${theme.status.warning}15`, border: `1px solid ${theme.status.warning}25` }}>{t2}</span>}
-                  {t3 > 0 && <span style={{ fontSize: 9, fontFamily: "'Share Tech Mono', monospace", color: theme.accent.cyan, padding: '1px 5px', borderRadius: 2, background: 'rgba(0,229,255,0.06)', border: '1px solid rgba(0,229,255,0.12)' }}>{t3}</span>}
+                  {t1 > 0 && <span style={{ fontSize: 9, fontFamily: 'var(--f-mono)', color: theme.status.critical, padding: '1px 5px', borderRadius: 2, background: `${theme.status.critical}15`, border: `1px solid ${theme.status.critical}25` }}>{t1}</span>}
+                  {t2 > 0 && <span style={{ fontSize: 9, fontFamily: 'var(--f-mono)', color: theme.status.warning, padding: '1px 5px', borderRadius: 2, background: `${theme.status.warning}15`, border: `1px solid ${theme.status.warning}25` }}>{t2}</span>}
+                  {t3 > 0 && <span style={{ fontSize: 9, fontFamily: 'var(--f-mono)', color: 'var(--c-blue)', padding: '1px 5px', borderRadius: 2, background: 'rgba(59,158,255,0.08)', border: '1px solid rgba(59,158,255,0.25)' }}>{t3}</span>}
                 </div>
                 <span style={{ fontSize: 12, color: theme.text.muted, transition: 'transform 0.3s', transform: isOpen ? 'rotate(90deg)' : 'rotate(0)' }}>▶</span>
               </div>
@@ -247,12 +247,12 @@ export function RulesList({ filterSystem }: { filterSystem?: string } = {}) {
                         <div style={{ display: 'flex', alignItems: 'flex-start', gap: 8 }}>
                           <span style={{ fontSize: 14, lineHeight: '18px' }}>{tier.icon}</span>
                           <div style={{ flex: 1 }}>
-                            <div style={{ fontFamily: "'Rajdhani', sans-serif", fontSize: 13, fontWeight: 700, color: theme.text.primary }}>
+                            <div style={{ fontFamily: 'var(--f-body)', fontSize: 13, fontWeight: 700, color: theme.text.primary }}>
                               {r.title}
                             </div>
                           </div>
                           <span style={{
-                            fontSize: 8, fontFamily: "'Orbitron', sans-serif", fontWeight: 700,
+                            fontSize: 8, fontFamily: 'var(--f-section)', fontWeight: 700,
                             color: tier.color, padding: '2px 6px', borderRadius: 2, whiteSpace: 'nowrap',
                             background: `${tier.color}12`, border: `1px solid ${tier.color}25`,
                           }}>
@@ -262,7 +262,7 @@ export function RulesList({ filterSystem }: { filterSystem?: string } = {}) {
 
                         {/* WHY — always visible, 1-2 sentences */}
                         <div style={{
-                          fontFamily: "'Rajdhani', sans-serif", fontSize: 12, color: theme.text.muted,
+                          fontFamily: 'var(--f-body)', fontSize: 12, color: theme.text.muted,
                           marginTop: 4, lineHeight: 1.5, paddingLeft: 22,
                         }}>
                           {why}
@@ -273,15 +273,15 @@ export function RulesList({ filterSystem }: { filterSystem?: string } = {}) {
                           <div style={{ marginTop: 10, paddingLeft: 22 }}>
                             {/* HOW: conditions */}
                             <div style={{
-                              fontSize: 11, fontFamily: "'Rajdhani', sans-serif", fontWeight: 600,
+                              fontSize: 11, fontFamily: 'var(--f-body)', fontWeight: 600,
                               color: theme.accent.teal, marginBottom: 4, letterSpacing: '0.03em',
                             }}>
                               Как проверяем:
                             </div>
                             {conditions.map((c, i) => (
                               <div key={i} style={{
-                                fontFamily: "'Rajdhani', sans-serif", fontSize: 12, color: theme.text.secondary,
-                                padding: '2px 0 2px 12px', borderLeft: `2px solid rgba(0,229,255,0.15)`,
+                                fontFamily: 'var(--f-body)', fontSize: 12, color: theme.text.secondary,
+                                padding: '2px 0 2px 12px', borderLeft: `2px solid var(--border-frost)`,
                                 marginBottom: 2,
                               }}>
                                 {c}
@@ -290,9 +290,9 @@ export function RulesList({ filterSystem }: { filterSystem?: string } = {}) {
 
                             {/* Formula for trust */}
                             <div style={{
-                              fontFamily: "'Share Tech Mono', monospace", fontSize: 10, color: 'rgba(0,229,255,0.5)',
+                              fontFamily: 'var(--f-mono)', fontSize: 10, color: 'rgba(240,240,250,0.5)',
                               marginTop: 6, padding: '3px 8px', borderRadius: 3,
-                              background: 'rgba(0,229,255,0.03)', border: '1px solid rgba(0,229,255,0.06)',
+                              background: 'rgba(240,240,250,0.03)', border: '1px solid var(--border-frost)',
                             }}>
                               {r.conditions}
                             </div>
@@ -314,8 +314,8 @@ export function RulesList({ filterSystem }: { filterSystem?: string } = {}) {
                               if (parsed.length === 0) return null
 
                               return (
-                                <div style={{ margin: '8px 0', padding: '6px 8px', background: 'rgba(0,229,255,0.03)', borderRadius: 4, border: '1px solid rgba(0,229,255,0.08)' }}>
-                                  <div style={{ fontSize: 9, color: 'rgba(255,255,255,0.4)', marginBottom: 4, fontFamily: "'Rajdhani', sans-serif", textTransform: 'uppercase', letterSpacing: '0.08em' }}>Параметры</div>
+                                <div style={{ margin: '8px 0', padding: '6px 8px', background: 'rgba(240,240,250,0.03)', borderRadius: 4, border: '1px solid var(--border-frost)' }}>
+                                  <div style={{ fontSize: 9, color: 'rgba(255,255,255,0.4)', marginBottom: 4, fontFamily: 'var(--f-body)', textTransform: 'uppercase', letterSpacing: '0.08em' }}>Параметры</div>
                                   {parsed.map(({ param, value }) => {
                                     const norm = PARAM_NORMS[param]
                                     const label = PARAM_LABELS[param] || param
@@ -323,14 +323,14 @@ export function RulesList({ filterSystem }: { filterSystem?: string } = {}) {
                                     const pct = Math.max(0, Math.min(100, ((value - norm.min) / (norm.max - norm.min)) * 100))
                                     return (
                                       <div key={param} style={{ display: 'flex', alignItems: 'center', gap: 6, marginBottom: 3 }}>
-                                        <span style={{ fontSize: 9, color: 'rgba(255,255,255,0.5)', width: 90, flexShrink: 0, fontFamily: "'Rajdhani', sans-serif" }}>{label}</span>
+                                        <span style={{ fontSize: 9, color: 'rgba(255,255,255,0.5)', width: 90, flexShrink: 0, fontFamily: 'var(--f-body)' }}>{label}</span>
                                         <div style={{ flex: 1, height: 6, background: 'rgba(255,255,255,0.06)', borderRadius: 3, position: 'relative', overflow: 'hidden' }}>
                                           {/* Green zone */}
                                           <div style={{ position: 'absolute', left: 0, top: 0, bottom: 0, width: '100%', background: 'linear-gradient(90deg, rgba(255,23,68,0.2) 0%, rgba(0,230,118,0.2) 20%, rgba(0,230,118,0.2) 80%, rgba(255,23,68,0.2) 100%)', borderRadius: 3 }} />
                                           {/* Value marker */}
                                           <div style={{ position: 'absolute', left: `${pct}%`, top: -1, width: 2, height: 8, background: color, borderRadius: 1, boxShadow: `0 0 4px ${color}` }} />
                                         </div>
-                                        <span style={{ fontSize: 9, color, fontFamily: "'Share Tech Mono', monospace", width: 50, textAlign: 'right', flexShrink: 0 }}>{value}{norm.unit ? ` ${norm.unit}` : ''}</span>
+                                        <span style={{ fontSize: 9, color, fontFamily: 'var(--f-mono)', width: 50, textAlign: 'right', flexShrink: 0 }}>{value}{norm.unit ? ` ${norm.unit}` : ''}</span>
                                       </div>
                                     )
                                   })}
@@ -340,13 +340,13 @@ export function RulesList({ filterSystem }: { filterSystem?: string } = {}) {
 
                             {/* WHAT TO DO */}
                             <div style={{
-                              fontSize: 11, fontFamily: "'Rajdhani', sans-serif", fontWeight: 600,
+                              fontSize: 11, fontFamily: 'var(--f-body)', fontWeight: 600,
                               color: tier.color, marginTop: 10, marginBottom: 4,
                             }}>
                               Что делать:
                             </div>
                             <div style={{
-                              fontFamily: "'Rajdhani', sans-serif", fontSize: 12, color: theme.text.secondary,
+                              fontFamily: 'var(--f-body)', fontSize: 12, color: theme.text.secondary,
                               lineHeight: 1.5, padding: '6px 10px', borderRadius: 4,
                               background: `${tier.color}08`, border: `1px solid ${tier.color}12`,
                             }}>
@@ -356,10 +356,10 @@ export function RulesList({ filterSystem }: { filterSystem?: string } = {}) {
                             {/* DTC codes */}
                             {r.dtc.length > 0 && (
                               <div style={{ display: 'flex', gap: 4, flexWrap: 'wrap', marginTop: 8, alignItems: 'center' }}>
-                                <span style={{ fontSize: 10, color: theme.text.muted, fontFamily: "'Rajdhani', sans-serif" }}>Связанные DTC:</span>
+                                <span style={{ fontSize: 10, color: theme.text.muted, fontFamily: 'var(--f-body)' }}>Связанные DTC:</span>
                                 {r.dtc.map(code => (
                                   <span key={code} style={{
-                                    fontFamily: "'Orbitron', sans-serif", fontSize: 8, fontWeight: 700,
+                                    fontFamily: 'var(--f-section)', fontSize: 8, fontWeight: 700,
                                     color: theme.status.warning, padding: '2px 5px', borderRadius: 2,
                                     background: `${theme.status.warning}10`, border: `1px solid ${theme.status.warning}20`,
                                   }}>{code}</span>

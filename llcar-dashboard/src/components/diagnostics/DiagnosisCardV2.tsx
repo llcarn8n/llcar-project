@@ -27,7 +27,7 @@ function EvidenceScales({ diag }: { diag: Diagnosis }) {
         style={{
           background: 'transparent', border: 'none', cursor: 'pointer',
           display: 'flex', alignItems: 'center', gap: 4, padding: '2px 0',
-          color: theme.text.muted, fontSize: 9, fontFamily: "'Orbitron', sans-serif",
+          color: theme.text.muted, fontSize: 9, fontFamily: 'var(--f-section)',
           letterSpacing: '0.08em',
         }}
       >
@@ -63,7 +63,7 @@ function EvidenceScales({ diag }: { diag: Diagnosis }) {
               <div key={param} style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
                 {/* Parameter label */}
                 <div style={{
-                  width: 100, minWidth: 100, fontSize: 10, fontFamily: "'Rajdhani', sans-serif",
+                  width: 100, minWidth: 100, fontSize: 10, fontFamily: 'var(--f-body)',
                   fontWeight: 600, color: theme.text.secondary, textAlign: 'right',
                   whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis',
                 }}>
@@ -216,7 +216,7 @@ function FreezeFramePanel({ frame }: { frame: FreezeFrame }) {
         style={{
           background: 'transparent', border: 'none', cursor: 'pointer',
           display: 'flex', alignItems: 'center', gap: 4, padding: '2px 0',
-          color: theme.accent.teal, fontSize: 9, fontFamily: "'Orbitron', sans-serif",
+          color: theme.accent.teal, fontSize: 9, fontFamily: 'var(--f-section)',
           letterSpacing: '0.08em',
         }}
       >
@@ -233,14 +233,14 @@ function FreezeFramePanel({ frame }: { frame: FreezeFrame }) {
       {expanded && (
         <div style={{
           marginTop: 6, padding: '8px 10px', borderRadius: 3,
-          background: 'rgba(0, 229, 255, 0.04)',
-          border: '1px solid rgba(0, 229, 255, 0.12)',
+          background: 'rgba(240, 240, 250, 0.03)',
+          border: '1px solid var(--border-frost)',
           backdropFilter: 'blur(6px)',
         }}>
           {/* Timestamp */}
           {frame.timestamp && (
             <div style={{
-              fontSize: 9, fontFamily: "'Rajdhani', sans-serif",
+              fontSize: 9, fontFamily: 'var(--f-body)',
               color: theme.text.muted, marginBottom: 6,
               letterSpacing: '0.02em',
             }}>
@@ -263,7 +263,7 @@ function FreezeFramePanel({ frame }: { frame: FreezeFrame }) {
                   alignItems: 'baseline', padding: '1px 0',
                 }}>
                   <span style={{
-                    fontSize: 10, fontFamily: "'Rajdhani', sans-serif",
+                    fontSize: 10, fontFamily: 'var(--f-body)',
                     fontWeight: 600, color: theme.text.muted,
                   }}>
                     {label}
@@ -286,7 +286,7 @@ function FreezeFramePanel({ frame }: { frame: FreezeFrame }) {
                 alignItems: 'baseline', padding: '1px 0',
               }}>
                 <span style={{
-                  fontSize: 10, fontFamily: "'Rajdhani', sans-serif",
+                  fontSize: 10, fontFamily: 'var(--f-body)',
                   fontWeight: 600, color: theme.text.muted,
                 }}>
                   Погода
@@ -327,7 +327,7 @@ const STATUS_COLORS: Record<string, string> = {
   likely: '#FF1744',
   possible: '#FFAB00',
   unlikely: 'rgba(255,255,255,0.3)',
-  clear: '#00E5FF',
+  clear: '#3b9eff',
 }
 
 const STATUS_LABELS: Record<string, string> = {
@@ -360,13 +360,13 @@ export function DiagnosisCardV2({ report, loading, onFeedback, clientHash, compa
 
           <div style={{ textAlign: 'center' }}>
             <div style={{
-              fontSize: 13, fontFamily: "'Rajdhani', sans-serif", fontWeight: 600,
+              fontSize: 13, fontFamily: 'var(--f-body)', fontWeight: 600,
               color: theme.text.secondary, letterSpacing: '0.03em', marginBottom: 4,
             }}>
               Ожидание данных
             </div>
             <div style={{
-              fontSize: 10, fontFamily: "'Rajdhani', sans-serif",
+              fontSize: 10, fontFamily: 'var(--f-body)',
               color: theme.text.muted, lineHeight: 1.4,
             }}>
               Данные появятся после начала движения.
@@ -391,7 +391,7 @@ export function DiagnosisCardV2({ report, loading, onFeedback, clientHash, compa
                   boxShadow: `0 0 4px ${ok ? theme.status.ok : theme.status.warning}`,
                 }} />
                 <span style={{
-                  fontSize: 9, fontFamily: "'Orbitron', sans-serif",
+                  fontSize: 9, fontFamily: 'var(--f-section)',
                   color: theme.text.muted, letterSpacing: '0.05em',
                 }}>
                   {label}
@@ -438,19 +438,19 @@ export function DiagnosisCardV2({ report, loading, onFeedback, clientHash, compa
                         backgroundColor: ok ? theme.status.ok : 'rgba(255,255,255,0.15)',
                         boxShadow: ok ? `0 0 5px ${theme.status.ok}` : 'none',
                       }} />
-                      <span style={{ fontSize: 8, fontFamily: "'Orbitron', sans-serif", color: ok ? theme.text.secondary : 'rgba(255,255,255,0.2)', letterSpacing: '0.08em' }}>{label}</span>
+                      <span style={{ fontSize: 8, fontFamily: 'var(--f-section)', color: ok ? theme.text.secondary : 'rgba(255,255,255,0.2)', letterSpacing: '0.08em' }}>{label}</span>
                     </div>
                   ))}
                 </div>
               )}
               <ShareButton report={report} clientHash={clientHash || ''} />
               <button onClick={(e) => { e.stopPropagation(); exportReport(report, clientHash || '') }}
-                style={{ padding: '3px 8px', fontSize: 9, fontFamily: "'Orbitron', sans-serif", color: theme.text.muted, background: 'transparent', border: `1px solid ${theme.text.muted}30`, borderRadius: 2, cursor: 'pointer', letterSpacing: '0.1em' }}
+                style={{ padding: '3px 8px', fontSize: 9, fontFamily: 'var(--f-section)', color: theme.text.muted, background: 'transparent', border: `1px solid ${theme.text.muted}30`, borderRadius: 2, cursor: 'pointer', letterSpacing: '0.1em' }}
                 title="Скачать PDF отчёт">PDF</button>
               <div style={{
                 display: 'flex', alignItems: 'center', gap: 6, padding: '3px 10px', borderRadius: 2,
                 color: driveConfig.color, background: `${driveConfig.color}12`, border: `1px solid ${driveConfig.color}40`,
-                fontSize: 11, fontFamily: "'Orbitron', sans-serif", fontWeight: 600, letterSpacing: '0.1em',
+                fontSize: 11, fontFamily: 'var(--f-section)', fontWeight: 600, letterSpacing: '0.1em',
                 boxShadow: `0 0 8px ${driveConfig.color}30`,
                 animation: report.can_drive === 'stop' ? 'pulse-critical 2s ease-in-out infinite' : 'none',
               }}>
@@ -466,10 +466,10 @@ export function DiagnosisCardV2({ report, loading, onFeedback, clientHash, compa
               marginBottom: 12, padding: '8px 12px', borderRadius: 2,
               background: `${theme.status.warning}08`, border: `1px solid ${theme.status.warning}20`,
             }}>
-              <div style={{ fontSize: 10, color: theme.status.warning, fontFamily: "'Orbitron', sans-serif", letterSpacing: '0.1em', marginBottom: 4 }}>ПОТЕРИ ТОПЛИВА</div>
+              <div style={{ fontSize: 10, color: theme.status.warning, fontFamily: 'var(--f-section)', letterSpacing: '0.1em', marginBottom: 4 }}>ПОТЕРИ ТОПЛИВА</div>
               <div style={{ display: 'flex', justifyContent: 'space-between' }}>
-                <span style={{ fontSize: 13, fontFamily: "'Rajdhani', sans-serif", color: theme.text.secondary }}>{report.fuel_loss.monthly_rub.toLocaleString('ru-RU')} \u20BD/мес</span>
-                <span style={{ fontSize: 13, fontFamily: "'Rajdhani', sans-serif", color: theme.text.muted }}>{report.fuel_loss.yearly_rub.toLocaleString('ru-RU')} \u20BD/год</span>
+                <span style={{ fontSize: 13, fontFamily: 'var(--f-body)', color: theme.text.secondary }}>{report.fuel_loss.monthly_rub.toLocaleString('ru-RU')} \u20BD/мес</span>
+                <span style={{ fontSize: 13, fontFamily: 'var(--f-body)', color: theme.text.muted }}>{report.fuel_loss.yearly_rub.toLocaleString('ru-RU')} \u20BD/год</span>
               </div>
             </div>
           )}
@@ -495,13 +495,13 @@ export function DiagnosisCardV2({ report, loading, onFeedback, clientHash, compa
                 {/* Name + status + confidence */}
                 <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 6 }}>
                   <RobotTooltip text={diag.explanation || 'Робот анализирует...'}>
-                    <span style={{ fontSize: 14, fontFamily: "'Rajdhani', sans-serif", fontWeight: 600, color: theme.text.primary }}>
+                    <span style={{ fontSize: 14, fontFamily: 'var(--f-body)', fontWeight: 600, color: theme.text.primary }}>
                       {diag.display}
                     </span>
                   </RobotTooltip>
                   <div style={{ display: 'flex', alignItems: 'center', gap: 6 }}>
                     <span style={{
-                      fontSize: 9, fontFamily: "'Orbitron', sans-serif", fontWeight: 600,
+                      fontSize: 9, fontFamily: 'var(--f-section)', fontWeight: 600,
                       color, padding: '2px 6px', border: `1px solid ${color}40`, borderRadius: 2,
                       background: `${color}10`, letterSpacing: '0.1em',
                     }}>
@@ -515,7 +515,7 @@ export function DiagnosisCardV2({ report, loading, onFeedback, clientHash, compa
 
                 {/* Explanation */}
                 {diag.explanation && (
-                  <div style={{ fontSize: 11, color: theme.text.secondary, fontFamily: "'Rajdhani', sans-serif", marginBottom: 6, lineHeight: 1.4 }}>
+                  <div style={{ fontSize: 11, color: theme.text.secondary, fontFamily: 'var(--f-body)', marginBottom: 6, lineHeight: 1.4 }}>
                     {diag.explanation}
                   </div>
                 )}
@@ -529,11 +529,11 @@ export function DiagnosisCardV2({ report, loading, onFeedback, clientHash, compa
                 {/* Repair roadmap */}
                 {diag.repair_roadmap && diag.repair_roadmap.length > 0 && (
                   <div style={{ marginBottom: 6 }}>
-                    <div style={{ fontSize: 9, color: theme.text.muted, fontFamily: "'Orbitron', sans-serif", letterSpacing: '0.1em', marginBottom: 4 }}>
+                    <div style={{ fontSize: 9, color: theme.text.muted, fontFamily: 'var(--f-section)', letterSpacing: '0.1em', marginBottom: 4 }}>
                       МАРШРУТ РЕМОНТА
                     </div>
                     {diag.repair_roadmap.map((step, i) => (
-                      <div key={i} style={{ fontSize: 10, color: theme.text.secondary, fontFamily: "'Rajdhani', sans-serif", paddingLeft: 8, marginBottom: 2 }}>
+                      <div key={i} style={{ fontSize: 10, color: theme.text.secondary, fontFamily: 'var(--f-body)', paddingLeft: 8, marginBottom: 2 }}>
                         {i + 1}. {step}
                       </div>
                     ))}
@@ -542,7 +542,7 @@ export function DiagnosisCardV2({ report, loading, onFeedback, clientHash, compa
 
                 {/* Price range */}
                 {diag.price_range && (
-                  <div style={{ fontSize: 10, color: theme.text.muted, fontFamily: "'Rajdhani', sans-serif", marginBottom: 6 }}>
+                  <div style={{ fontSize: 10, color: theme.text.muted, fontFamily: 'var(--f-body)', marginBottom: 6 }}>
                     Ориентировочно: {diag.price_range}
                   </div>
                 )}
@@ -557,7 +557,7 @@ export function DiagnosisCardV2({ report, loading, onFeedback, clientHash, compa
           })}
         </div>
       ) : (
-        <div style={{ textAlign: 'center', padding: '16px 0', color: theme.status.ok, fontSize: 13, fontFamily: "'Rajdhani', sans-serif" }}>
+        <div style={{ textAlign: 'center', padding: '16px 0', color: theme.status.ok, fontSize: 13, fontFamily: 'var(--f-body)' }}>
           {'\u2713'} Проблем не обнаружено
         </div>
       )}
@@ -565,13 +565,13 @@ export function DiagnosisCardV2({ report, loading, onFeedback, clientHash, compa
       {/* Baseline status — hidden in compact mode (StatusStrip shows it) */}
       {!compact && (
         <div style={{
-          marginTop: 10, paddingTop: 8, borderTop: '1px solid rgba(0,229,255,0.1)',
+          marginTop: 10, paddingTop: 8, borderTop: '1px solid var(--border-frost)',
           display: 'flex', justifyContent: 'space-between', alignItems: 'center',
         }}>
-          <span style={{ fontSize: 9, fontFamily: "'Orbitron', sans-serif", color: theme.text.muted, letterSpacing: '0.1em' }}>
+          <span style={{ fontSize: 9, fontFamily: 'var(--f-section)', color: theme.text.muted, letterSpacing: '0.1em' }}>
             {report.baseline_status.ready ? 'BASELINE READY' : `CALIBRATING ${report.baseline_status.total_samples}/${report.baseline_status.samples_needed}`}
           </span>
-          <span style={{ fontSize: 9, fontFamily: "'Orbitron', sans-serif", color: theme.text.muted, letterSpacing: '0.1em' }}>
+          <span style={{ fontSize: 9, fontFamily: 'var(--f-section)', color: theme.text.muted, letterSpacing: '0.1em' }}>
             {report.rule_version.toUpperCase()}
           </span>
         </div>

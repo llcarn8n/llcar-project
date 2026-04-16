@@ -40,22 +40,22 @@ export function OBDSetup() {
               gap: 12,
               padding: '10px 12px',
               borderRadius: 4,
-              background: 'rgba(0,229,255,0.02)',
-              border: '1px solid rgba(0,229,255,0.06)',
+              background: 'rgba(240,240,250,0.02)',
+              border: '1px solid var(--border-frost)',
             }}>
               <div style={{
-                width: 32, height: 32, borderRadius: 6,
+                width: 32, height: 32, borderRadius: 8,
                 display: 'flex', alignItems: 'center', justifyContent: 'center',
                 fontSize: 16,
-                background: 'rgba(0,229,255,0.06)',
-                border: '1px solid rgba(0,229,255,0.12)',
+                background: 'rgba(255,159,28,0.06)',
+                border: '1px solid rgba(255,159,28,0.20)',
                 flexShrink: 0,
               }}>
                 {step.icon}
               </div>
               <div>
                 <div style={{
-                  fontFamily: "'Rajdhani', sans-serif",
+                  fontFamily: 'var(--f-body)',
                   fontSize: 13,
                   fontWeight: 700,
                   color: theme.text.secondary,
@@ -63,7 +63,7 @@ export function OBDSetup() {
                   {i + 1}. {step.title}
                 </div>
                 <div style={{
-                  fontFamily: "'Rajdhani', sans-serif",
+                  fontFamily: 'var(--f-body)',
                   fontSize: 11,
                   color: theme.text.muted,
                 }}>

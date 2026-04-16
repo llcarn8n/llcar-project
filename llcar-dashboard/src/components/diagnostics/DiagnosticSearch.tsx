@@ -69,18 +69,18 @@ export function DiagnosticSearch() {
         onChange={e => setQuery(e.target.value)}
         style={{
           width: '100%', padding: '12px 16px', marginBottom: 10,
-          fontFamily: "'Rajdhani', sans-serif", fontSize: 15, fontWeight: 600,
-          color: '#ffffff', background: '#0f1923',
-          border: '2px solid rgba(0,229,255,0.2)', borderRadius: 4, outline: 'none',
-          transition: 'border-color 0.3s',
+          fontFamily: 'var(--f-body)', fontSize: 15, fontWeight: 500,
+          color: 'var(--c-text)', background: 'rgba(5,7,13,0.65)',
+          border: '1px solid var(--border-frost)', borderRadius: 'var(--r-card)', outline: 'none',
+          transition: 'border-color 0.3s, box-shadow 0.3s',
         }}
-        onFocus={e => e.target.style.borderColor = '#00E5FF'}
-        onBlur={e => e.target.style.borderColor = 'rgba(0,229,255,0.2)'}
+        onFocus={e => { e.target.style.borderColor = 'var(--c-amber)'; e.target.style.boxShadow = '0 0 0 3px rgba(255,159,28,0.15)' }}
+        onBlur={e => { e.target.style.borderColor = 'var(--border-frost)'; e.target.style.boxShadow = 'none' }}
       />
 
       {results.length > 0 && (
         <div style={{ maxHeight: '40vh', overflowY: 'auto', display: 'flex', flexDirection: 'column', gap: 4 }}>
-          <div style={{ fontSize: 10, color: theme.text.muted, fontFamily: "'Rajdhani', sans-serif", marginBottom: 4 }}>
+          <div style={{ fontSize: 10, color: theme.text.muted, fontFamily: 'var(--f-body)', marginBottom: 4 }}>
             {results.length} результатов
           </div>
           {results.map((r, i) => {
@@ -88,21 +88,21 @@ export function DiagnosticSearch() {
             return (
               <div key={`${r.type}-${r.id}-${i}`} style={{
                 padding: '8px 12px', borderRadius: 4,
-                background: 'rgba(0,229,255,0.02)', border: '1px solid rgba(0,229,255,0.06)',
+                background: 'rgba(240,240,250,0.02)', border: '1px solid var(--border-frost)',
                 display: 'flex', alignItems: 'flex-start', gap: 10,
               }}>
                 <span style={{
-                  fontSize: 9, fontFamily: "'Orbitron', sans-serif", fontWeight: 700,
+                  fontSize: 9, fontFamily: 'var(--f-section)', fontWeight: 700,
                   color: typeInfo.color, padding: '2px 6px', borderRadius: 2,
                   background: `${typeInfo.color}10`, border: `1px solid ${typeInfo.color}20`,
                   flexShrink: 0, marginTop: 2,
                 }}>{typeInfo.label}</span>
                 <div style={{ flex: 1 }}>
-                  <div style={{ fontFamily: "'Rajdhani', sans-serif", fontSize: 13, fontWeight: 700, color: theme.text.secondary }}>
+                  <div style={{ fontFamily: 'var(--f-body)', fontSize: 13, fontWeight: 700, color: theme.text.secondary }}>
                     {r.title}
                   </div>
                   {r.preview && (
-                    <div style={{ fontFamily: "'Rajdhani', sans-serif", fontSize: 11, color: theme.text.muted, lineHeight: 1.3, marginTop: 2 }}>
+                    <div style={{ fontFamily: 'var(--f-body)', fontSize: 11, color: theme.text.muted, lineHeight: 1.3, marginTop: 2 }}>
                       {r.preview}
                     </div>
                   )}
@@ -114,7 +114,7 @@ export function DiagnosticSearch() {
       )}
 
       {query.length >= 2 && results.length === 0 && (
-        <div style={{ padding: 16, textAlign: 'center', fontFamily: "'Rajdhani', sans-serif", fontSize: 13, color: theme.text.muted }}>
+        <div style={{ padding: 16, textAlign: 'center', fontFamily: 'var(--f-body)', fontSize: 13, color: theme.text.muted }}>
           Ничего не найдено по запросу "{query}"
         </div>
       )}

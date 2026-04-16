@@ -28,7 +28,7 @@ function voltColor(v: number): string {
   return '#ff1744'
 }
 
-function MiniSparkline({ data, color = '#00e5ff', width = 80, height = 20 }: { data: number[]; color?: string; width?: number; height?: number }) {
+function MiniSparkline({ data, color = '#3b9eff', width = 80, height = 20 }: { data: number[]; color?: string; width?: number; height?: number }) {
   if (data.length < 2) return null
   const max = Math.max(...data, 1)
   const min = Math.min(...data, 0)
@@ -54,18 +54,18 @@ export function CanvasOverlayHUD({ pids }: CanvasOverlayHUDProps) {
 
   const cardStyle: React.CSSProperties = {
     pointerEvents: 'auto',
-    background: 'rgba(6,18,30,0.85)',
-    backdropFilter: 'blur(8px)',
-    WebkitBackdropFilter: 'blur(8px)',
-    border: '1px solid rgba(0,229,255,0.15)',
-    borderRadius: 4,
-    padding: '4px 8px',
-    minWidth: 70,
+    background: 'rgba(5,7,13,0.78)',
+    backdropFilter: 'blur(10px)',
+    WebkitBackdropFilter: 'blur(10px)',
+    border: '1px solid var(--border-frost)',
+    borderRadius: 10,
+    padding: '5px 9px',
+    minWidth: 72,
   }
 
   const labelStyle: React.CSSProperties = {
     fontSize: 8,
-    fontFamily: "'Rajdhani', sans-serif",
+    fontFamily: 'var(--f-body)',
     color: 'rgba(255,255,255,0.4)',
     textTransform: 'uppercase' as const,
     letterSpacing: '0.08em',
@@ -75,7 +75,7 @@ export function CanvasOverlayHUD({ pids }: CanvasOverlayHUDProps) {
 
   const valueStyle = (color: string): React.CSSProperties => ({
     fontSize: 14,
-    fontFamily: "'Share Tech Mono', monospace",
+    fontFamily: 'var(--f-mono)',
     color,
     lineHeight: 1.2,
     textShadow: `0 0 6px ${color}40`,
@@ -95,8 +95,8 @@ export function CanvasOverlayHUD({ pids }: CanvasOverlayHUDProps) {
       {/* RPM + sparkline */}
       {latest.rpm != null && <div style={cardStyle}>
         <div style={labelStyle}>RPM</div>
-        <div style={valueStyle('#00e5ff')}>{Math.round(latest.rpm)}</div>
-        <MiniSparkline data={rpmHistory} color="#00e5ff" width={70} height={16} />
+        <div style={valueStyle('#FF9F1C')}>{Math.round(latest.rpm)}</div>
+        <MiniSparkline data={rpmHistory} color="#FF9F1C" width={70} height={16} />
       </div>}
 
       {/* Coolant Temp */}
@@ -123,12 +123,12 @@ export function CanvasOverlayHUD({ pids }: CanvasOverlayHUDProps) {
             <div style={{
               width: `${Math.min(100, latest.throttle)}%`,
               height: '100%',
-              background: 'linear-gradient(90deg, #00e5ff, #64ffda)',
+              background: 'linear-gradient(90deg, #3b9eff, #FF9F1C)',
               borderRadius: 3,
               transition: 'width 0.3s',
             }} />
           </div>
-          <span style={{ fontSize: 10, fontFamily: "'Share Tech Mono', monospace", color: '#00e5ff', minWidth: 28, textAlign: 'right' }}>
+          <span style={{ fontSize: 10, fontFamily: 'var(--f-mono)', color: '#FF9F1C', minWidth: 28, textAlign: 'right' }}>
             {Math.round(latest.throttle)}%
           </span>
         </div>

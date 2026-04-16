@@ -40,7 +40,7 @@ const AUDIO_LEGEND = [
 ]
 
 const VIBRATION_LEGEND = [
-  { color: '#00e5ff', label: '⬇ Яма', type: 'pothole' },
+  { color: '#3b9eff', label: '⬇ Яма', type: 'pothole' },
   { color: '#4ade80', label: '⬆ Бугор', type: 'bump' },
   { color: '#ff4444', label: '⏹ Торможение', type: 'brake' },
   { color: '#f59e0b', label: '↔ Колея', type: 'rut' },
@@ -237,7 +237,7 @@ export function Diagnostics() {
 
         {/* 3D Canvas */}
         <Suspense fallback={
-          <div className="flex items-center justify-center" style={{ height: '100%', color: 'rgba(0,229,255,0.5)', fontSize: 12, fontFamily: 'monospace' }}>
+          <div className="flex items-center justify-center" style={{ height: '100%', color: 'var(--c-amber)', fontSize: 12, fontFamily: 'var(--f-mono)' }}>
             Загрузка 3D модели...
           </div>
         }>
@@ -256,22 +256,22 @@ export function Diagnostics() {
         <div className="diag-overlay-right">
           <div className="diag-overlay-panel" style={{ cursor: 'pointer' }} onClick={() => setDiagExpanded(!diagExpanded)}>
             <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: diagExpanded ? 8 : 0 }}>
-              <span style={{ fontFamily: "'Orbitron', sans-serif", fontSize: '0.55rem', letterSpacing: '0.12em', textTransform: 'uppercase' as const, color: theme.accent.cyan }}>ДИАГНОЗЫ</span>
-              <span style={{ fontSize: 10, color: theme.accent.cyan }}>{diagExpanded ? '▾' : '▸'}</span>
+              <span style={{ fontFamily: 'var(--f-section)', fontSize: '0.62rem', letterSpacing: '0.18em', fontWeight: 600, textTransform: 'uppercase' as const, color: 'var(--c-amber)' }}>Диагнозы</span>
+              <span style={{ fontSize: 10, color: 'var(--c-amber)' }}>{diagExpanded ? '▾' : '▸'}</span>
             </div>
             {/* Brief: top diagnosis */}
             {!diagExpanded && v2Report?.diagnoses?.[0] && (
               <div style={{ marginTop: 4 }}>
-                <div style={{ fontSize: 12, fontWeight: 600, color: theme.text.primary, fontFamily: "'Rajdhani', sans-serif" }}>
+                <div style={{ fontSize: 12, fontWeight: 600, color: theme.text.primary, fontFamily: 'var(--f-body)' }}>
                   {v2Report.diagnoses[0].display}
                 </div>
-                <div style={{ fontSize: 10, color: theme.text.muted, fontFamily: "'Rajdhani', sans-serif" }}>
+                <div style={{ fontSize: 10, color: theme.text.muted, fontFamily: 'var(--f-body)' }}>
                   {v2Report.diagnoses[0].status} · {Math.round(v2Report.diagnoses[0].confidence * 100)}%
                 </div>
               </div>
             )}
             {!diagExpanded && !v2Report?.diagnoses?.[0] && diagnostics?.[0] && (
-              <div style={{ marginTop: 4, fontSize: 12, color: theme.text.primary, fontFamily: "'Rajdhani', sans-serif" }}>
+              <div style={{ marginTop: 4, fontSize: 12, color: theme.text.primary, fontFamily: 'var(--f-body)' }}>
                 {diagnostics[0].rule || 'Нет диагнозов'}
               </div>
             )}
@@ -303,16 +303,18 @@ export function Diagnostics() {
                 key={p.val}
                 onClick={() => setTimeRange(p.val)}
                 style={{
-                  fontFamily: "'Orbitron', sans-serif",
-                  fontSize: 9,
-                  padding: '2px 10px',
-                  borderRadius: 4,
-                  border: timeRange === p.val ? '1px solid rgba(0,229,255,0.4)' : '1px solid rgba(255,255,255,0.1)',
-                  background: timeRange === p.val ? 'rgba(0,229,255,0.15)' : 'rgba(255,255,255,0.04)',
-                  color: timeRange === p.val ? '#00e5ff' : 'rgba(255,255,255,0.5)',
+                  fontFamily: 'var(--f-section)',
+                  fontSize: 10,
+                  fontWeight: 600,
+                  padding: '3px 12px',
+                  borderRadius: 'var(--r-pill)',
+                  border: timeRange === p.val ? '1px solid rgba(255,159,28,0.35)' : '1px solid var(--border-frost)',
+                  background: timeRange === p.val ? 'rgba(255,159,28,0.10)' : 'rgba(240,240,250,0.03)',
+                  color: timeRange === p.val ? 'var(--c-amber)' : 'var(--c-text-muted)',
                   cursor: 'pointer',
-                  transition: 'all 0.2s',
-                  letterSpacing: '0.05em',
+                  transition: 'all 0.25s ease',
+                  letterSpacing: '0.12em',
+                  textTransform: 'uppercase' as const,
                 }}
               >
                 {p.label}
@@ -320,7 +322,7 @@ export function Diagnostics() {
             ))}
           </div>
           <div style={{
-            fontSize: 9, fontFamily: "'Share Tech Mono', monospace",
+            fontSize: 9, fontFamily: 'var(--f-mono)',
             color: 'rgba(255,255,255,0.3)', letterSpacing: '0.05em', marginTop: 2,
           }}>
             {(() => {
@@ -337,14 +339,14 @@ export function Diagnostics() {
       {/* ── Legend strip: ВИБРАЦИИ | АУДИО ЗОНЫ (normal flow, под 3D viewport) ── */}
       <div style={{
         display: 'flex', flexWrap: 'wrap', gap: 6, marginTop: 6,
-        fontFamily: "'Rajdhani', sans-serif", fontSize: '0.72rem',
+        fontFamily: 'var(--f-body)', fontSize: '0.72rem',
       }}>
         <div style={{
           flex: '1 1 260px', display: 'flex', flexDirection: 'column', gap: 3,
-          background: 'rgba(6, 18, 30, 0.75)', padding: '6px 10px', borderRadius: 6,
-          border: '1px solid rgba(0, 229, 255, 0.15)',
+          background: 'rgba(5, 7, 13, 0.72)', padding: '8px 12px', borderRadius: 'var(--r-card)',
+          border: '1px solid var(--border-frost)',
         }}>
-          <div style={{ fontSize: '0.55rem', fontFamily: "'Orbitron', sans-serif", letterSpacing: '0.12em', color: 'rgba(255,255,255,0.4)', textTransform: 'uppercase' as const, marginBottom: 1 }}>Вибрации</div>
+          <div style={{ fontSize: '0.55rem', fontFamily: 'var(--f-section)', letterSpacing: '0.12em', color: 'rgba(255,255,255,0.4)', textTransform: 'uppercase' as const, marginBottom: 1 }}>Вибрации</div>
           <div style={{ display: 'flex', gap: 10, flexWrap: 'wrap' }}>
             {VIBRATION_LEGEND.map(v => (
               <span key={v.type} style={{ display: 'flex', alignItems: 'center', gap: 4, color: v.color }}>
@@ -358,11 +360,11 @@ export function Diagnostics() {
           onClick={() => handleHotspotClick('audio')}
           style={{
             flex: '1 1 260px', display: 'flex', flexDirection: 'column', gap: 3, cursor: 'pointer',
-            background: 'rgba(6, 18, 30, 0.75)', padding: '6px 10px', borderRadius: 6,
-            border: '1px solid rgba(0, 229, 255, 0.15)',
+            background: 'rgba(5, 7, 13, 0.72)', padding: '8px 12px', borderRadius: 'var(--r-card)',
+            border: '1px solid var(--border-frost)',
           }}
         >
-          <div style={{ fontSize: '0.55rem', fontFamily: "'Orbitron', sans-serif", letterSpacing: '0.12em', color: 'rgba(255,255,255,0.4)', textTransform: 'uppercase' as const, marginBottom: 1 }}>Аудио зоны</div>
+          <div style={{ fontSize: '0.55rem', fontFamily: 'var(--f-section)', letterSpacing: '0.12em', color: 'rgba(255,255,255,0.4)', textTransform: 'uppercase' as const, marginBottom: 1 }}>Аудио зоны</div>
           <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
             {AUDIO_LEGEND.map(a => (
               <span key={a.label} style={{ display: 'flex', alignItems: 'center', gap: 4, color: a.color }}>
@@ -419,7 +421,7 @@ export function Diagnostics() {
                 {v2Report.escalations && v2Report.escalations.length > 0 && (
                   <div className="glass-panel" style={{ padding: '10px 14px', cursor: 'pointer' }} onClick={() => setOpenInsight(openInsight === 'esc' ? null : 'esc')}>
                     <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-                      <span style={{ fontSize: 12, fontFamily: "'Rajdhani', sans-serif", fontWeight: 600, color: theme.text.primary }}>📈 История диагнозов</span>
+                      <span style={{ fontSize: 12, fontFamily: 'var(--f-body)', fontWeight: 600, color: theme.text.primary }}>📈 История диагнозов</span>
                       <span style={{ fontSize: 10, color: theme.accent.cyan }}>{openInsight === 'esc' ? '▾' : '▸'}</span>
                     </div>
                     {openInsight === 'esc' && <div style={{ marginTop: 8 }} onClick={e => e.stopPropagation()}><EscalationTimeline escalations={v2Report.escalations} /></div>}
@@ -427,14 +429,14 @@ export function Diagnostics() {
                 )}
                 <div className="glass-panel" style={{ padding: '10px 14px', cursor: 'pointer' }} onClick={() => setOpenInsight(openInsight === 'corr' ? null : 'corr')}>
                   <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-                    <span style={{ fontSize: 12, fontFamily: "'Rajdhani', sans-serif", fontWeight: 600, color: theme.text.primary }}>🔗 Корреляции</span>
+                    <span style={{ fontSize: 12, fontFamily: 'var(--f-body)', fontWeight: 600, color: theme.text.primary }}>🔗 Корреляции</span>
                     <span style={{ fontSize: 10, color: theme.accent.cyan }}>{openInsight === 'corr' ? '▾' : '▸'}</span>
                   </div>
                   {openInsight === 'corr' && <div style={{ marginTop: 8 }} onClick={e => e.stopPropagation()}><CorrelationPanel clientHash={clientHash} /></div>}
                 </div>
                 <div className="glass-panel" style={{ padding: '10px 14px', cursor: 'pointer' }} onClick={() => setOpenInsight(openInsight === 'recall' ? null : 'recall')}>
                   <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-                    <span style={{ fontSize: 12, fontFamily: "'Rajdhani', sans-serif", fontWeight: 600, color: theme.text.primary }}>📋 Отзывные</span>
+                    <span style={{ fontSize: 12, fontFamily: 'var(--f-body)', fontWeight: 600, color: theme.text.primary }}>📋 Отзывные</span>
                     <span style={{ fontSize: 10, color: theme.accent.cyan }}>{openInsight === 'recall' ? '▾' : '▸'}</span>
                   </div>
                   {openInsight === 'recall' && <div style={{ marginTop: 8 }} onClick={e => e.stopPropagation()}><RecallsPanel recalls={v2Report.recalls || []} /></div>}
@@ -468,7 +470,7 @@ export function Diagnostics() {
             <div className="col-span-12 lg:col-span-12">
               <Suspense fallback={
                 <GlassPanel style={{ height: 'min(400px, 50vh)' }}>
-                  <div className="flex items-center justify-center" style={{ height: 200, color: 'rgba(0,229,255,0.5)', fontSize: 12, fontFamily: 'monospace' }}>Loading 3D...</div>
+                  <div className="flex items-center justify-center" style={{ height: 200, color: 'var(--c-amber)', fontSize: 12, fontFamily: 'var(--f-mono)' }}>Loading 3D...</div>
                 </GlassPanel>
               }>
                 <SmartSphere data={accelData} />

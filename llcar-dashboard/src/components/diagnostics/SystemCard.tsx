@@ -39,7 +39,7 @@ export function SystemCard({ name, icon, score, sparkline, oldScore, trend, comp
       >
         <span style={{ fontSize: 15 }}>{icon}</span>
         <div style={{ flex: 1 }}>
-          <div style={{ fontSize: 10, color: theme.text.muted, fontFamily: "'Rajdhani', sans-serif", lineHeight: 1 }}>
+          <div style={{ fontSize: 10, color: theme.text.muted, fontFamily: 'var(--f-body)', lineHeight: 1 }}>
             {name}
           </div>
           {/* Mini sparkline */}
@@ -56,18 +56,18 @@ export function SystemCard({ name, icon, score, sparkline, oldScore, trend, comp
         </div>
         <div style={{ textAlign: 'right' }}>
           <div style={{
-            fontSize: 18, fontWeight: 700, fontFamily: "'Share Tech Mono', monospace",
+            fontSize: 18, fontWeight: 700, fontFamily: 'var(--f-mono)',
             color, textShadow: `0 0 6px ${color}44`, lineHeight: 1,
           }}>
             {score}
           </div>
           {trendArrow && (
-            <div style={{ fontSize: 9, color: trendColor, fontFamily: "'Rajdhani', sans-serif", display: 'flex', alignItems: 'center', justifyContent: 'flex-end' }}>
+            <div style={{ fontSize: 9, color: trendColor, fontFamily: 'var(--f-body)', display: 'flex', alignItems: 'center', justifyContent: 'flex-end' }}>
               {trendArrow} {diff != null && oldScore != null ? `${diff > 0 ? '+' : ''}${diff}` : ''}
               {degradationRate != null && Math.abs(degradationRate) > 0.1 && (
                 <span style={{
                   fontSize: 9,
-                  fontFamily: "'Share Tech Mono', monospace",
+                  fontFamily: 'var(--f-mono)',
                   color: degradationRate < -0.5 ? '#ff1744' : degradationRate > 0.5 ? '#00e676' : 'rgba(255,255,255,0.35)',
                   marginLeft: 2,
                 }}>
@@ -102,11 +102,11 @@ export function SystemCard({ name, icon, score, sparkline, oldScore, trend, comp
         transition: 'all 0.2s',
       }}
     >
-      <div style={{ fontSize: 11, color: theme.text.muted, fontFamily: "'Rajdhani', sans-serif", marginBottom: 2 }}>
+      <div style={{ fontSize: 11, color: theme.text.muted, fontFamily: 'var(--f-body)', marginBottom: 2 }}>
         {icon} {name}
       </div>
       <div style={{
-        fontSize: 28, fontWeight: 700, fontFamily: "'Share Tech Mono', monospace",
+        fontSize: 28, fontWeight: 700, fontFamily: 'var(--f-mono)',
         color, textShadow: `0 0 8px ${color}44`,
       }}>
         {score}
@@ -128,14 +128,14 @@ export function SystemCard({ name, icon, score, sparkline, oldScore, trend, comp
       {/* Diff */}
       {diff != null && oldScore != null && (
         <div style={{
-          fontSize: 10, fontWeight: 600, fontFamily: "'Rajdhani', sans-serif",
+          fontSize: 10, fontWeight: 600, fontFamily: 'var(--f-body)',
           color: diff > 0 ? theme.status.ok : diff < 0 ? theme.status.critical : theme.text.muted,
         }}>
           {trend || (diff > 0 ? '↑' : diff < 0 ? '↓' : '→')} {oldScore} → {score}
         </div>
       )}
       {diff == null && trend && (
-        <div style={{ fontSize: 10, color: theme.text.muted, fontFamily: "'Rajdhani', sans-serif" }}>
+        <div style={{ fontSize: 10, color: theme.text.muted, fontFamily: 'var(--f-body)' }}>
           {trend} стабильно
         </div>
       )}
