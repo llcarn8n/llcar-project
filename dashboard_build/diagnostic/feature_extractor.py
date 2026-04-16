@@ -199,4 +199,22 @@ def extract_features(
                         break
             f["bpfo_harmonic_matches"] = _bm
 
+    # 7. Percussive energy in 5-8 kHz band (knock/detonation signature)
+    # percussive peaks = impacts/knocks separated from harmonic content
+    f["percussive_energy_5k_8k"] = None
+    f["percussive_peak_count_5k_8k"] = 0
+    if packet.audio_percussive:
+        _total_perc = sum(abs(a) for _, a in packet.audio_percussive
+                         if a is not None and a > -9000)
+        _band_perc = 0.0
+        _band_count = 0
+        for _pf, _pa in packet.audio_percussive:
+            if _pf is not None and _pa is not None and _pa > -9000:
+                if 5000 <= _pf <= 8000:
+                    _band_perc += abs(_pa)
+                    _band_count += 1
+        if _total_perc > 0:
+            f["percussive_energy_5k_8k"] = round(_band_perc / _total_perc, 3)
+        f["percussive_peak_count_5k_8k"] = _band_count
+
     return f

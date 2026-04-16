@@ -754,6 +754,20 @@
       "dtc_codes": ["P0324"]
     },
     {
+      "name": "knock_impulse_percussive",
+      "display": "Детонация двигателя (ударные пики 5-8 кГц)",
+      "tier": "T1",
+      "conditions": [
+        {"fact_type": "percussive_energy_5k_8k", "operator": ">", "threshold": 0.3, "weight": 3},
+        {"fact_type": "percussive_peak_count_5k_8k", "operator": ">=", "threshold": 2, "weight": 2},
+        {"fact_type": "dominant_freq", "operator": "between", "threshold": [5000, 8000], "weight": 2}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": ["P0324", "P0325", "P0326", "P0327", "P0328"]
+    },
+    {
       "name": "wind_noise",
       "display": "Аэродинамический шум",
       "tier": "T3",

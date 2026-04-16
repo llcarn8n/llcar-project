@@ -137,6 +137,9 @@ class NormalizedPacket:
     # --- Additional audio FFT peaks (top 1-10, each = (freq_hz, amplitude)) ---
     audio_peaks: List[Tuple[Optional[float], Optional[float]]] = field(default_factory=list)
 
+    # --- Percussive audio peaks (impacts, knocks — freq_hz, amplitude) ---
+    audio_percussive: List[Tuple[Optional[float], Optional[float]]] = field(default_factory=list)
+
     # --- Computed ---
     regime: DrivingRegime = DrivingRegime.UNKNOWN
     engine_context: EngineContext = field(default_factory=EngineContext)
@@ -367,6 +370,22 @@ def normalize_packet(
     )
     tier = _detect_tier(raw)
 
+    # Percussive audio peaks (impacts/knocks — from peak_N_offset/peak_N_amp)
+    audio_percussive: List[Tuple[Optional[float], Optional[float]]] = []
+    for i in range(1, 11):
+        pf = raw.get(f"peak_{i}_offset")
+        pa = raw.get(f"peak_{i}_amp")
+        try:
+            pf = float(pf) if pf is not None else None
+        except (TypeError, ValueError):
+            pf = None
+        try:
+            pa = float(pa) if pa is not None else None
+        except (TypeError, ValueError):
+            pa = None
+        if pf is not None or pa is not None:
+            audio_percussive.append((pf, pa))
+
     # GAP-P2: Regime stability — False when regime just changed
     regime_stable = True
     if previous_regime is not None and previous_regime != regime:
@@ -413,6 +432,7 @@ def normalize_packet(
         dominant_amp=dominant_amp,
         audio_quality=audio_quality,
         audio_peaks=audio_peaks,
+        audio_percussive=audio_percussive,
         regime=regime,
         engine_context=engine_context,
         tier=tier,

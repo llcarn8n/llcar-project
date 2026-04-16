@@ -235,12 +235,18 @@ def diagnose_latest_view(request: Any) -> JsonResponse:
 
             accel_row = cursor.fetchone()
 
-            # 3. Get latest audio window (+ FFT peaks 2-10 for S21)
+            # 3. Get latest audio window (harmonic + percussive peaks for S21)
             cursor.execute("""
                 SELECT freq_1, amp_1, freq_2, amp_2, freq_3, amp_3,
                        freq_4, amp_4, freq_5, amp_5, freq_6, amp_6,
                        freq_7, amp_7, freq_8, amp_8, freq_9, amp_9,
-                       freq_10, amp_10, quality
+                       freq_10, amp_10,
+                       peak_1_offset, peak_1_amp, peak_2_offset, peak_2_amp,
+                       peak_3_offset, peak_3_amp, peak_4_offset, peak_4_amp,
+                       peak_5_offset, peak_5_amp, peak_6_offset, peak_6_amp,
+                       peak_7_offset, peak_7_amp, peak_8_offset, peak_8_amp,
+                       peak_9_offset, peak_9_amp, peak_10_offset, peak_10_amp,
+                       quality
                 FROM audio_windows
                 WHERE client_hash = %s
                   AND time > NOW() - INTERVAL '%s minutes'
@@ -275,17 +281,22 @@ def diagnose_latest_view(request: Any) -> JsonResponse:
 
             audio_data: Dict[str, Any] = {}
             if audio_row:
-                # freq_1..freq_10, amp_1..amp_10, quality = 21 columns
+                # 20 harmonic + 20 percussive + quality = 41 columns
                 audio_data = {
                     "dominant_freq": audio_row[0],
                     "dominant_amp": audio_row[1],
-                    "audio_quality": audio_row[20],
+                    "audio_quality": audio_row[40],
                 }
-                # FFT peaks 2-10 for S21 features
+                # Harmonic FFT peaks 2-10
                 for i in range(2, 11):
-                    idx = (i - 1) * 2  # freq_2 at [2], amp_2 at [3], etc.
+                    idx = (i - 1) * 2
                     audio_data[f"freq_{i}"] = audio_row[idx]
                     audio_data[f"amp_{i}"] = audio_row[idx + 1]
+                # Percussive peaks 1-10 (offset=20..39)
+                for i in range(1, 11):
+                    idx = 20 + (i - 1) * 2
+                    audio_data[f"peak_{i}_offset"] = audio_row[idx]
+                    audio_data[f"peak_{i}_amp"] = audio_row[idx + 1]
 
             # Check if we have any data at all
             if not obd_rows and not accel_data and not audio_data:
