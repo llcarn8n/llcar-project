@@ -143,7 +143,7 @@
 - Draper by bore (B=None/72/86/100/0): ✅
 - Order rules (L4 balance / diesel 0.5 / kurtogram): 13 тестов ✅
 - Shadow metrics (Pearson, days, empty flow, full flow, HTTP layer, promotion CLI): 21 тест ✅
-- **Итого: 726 passed, 5 deselected** (pre-existing cooldown)
+- **Итого: 731 passed / 731** ✅ (cooldown-тесты пофикшены — относительные даты + missing `from datetime import` на уровне модуля, коммит `c885456`)
 
 **Fact-checks (grep по RULES-REFERENCE.md v2.1):**
 - `"Draper 1933"` → **0 совпадений** ✅
