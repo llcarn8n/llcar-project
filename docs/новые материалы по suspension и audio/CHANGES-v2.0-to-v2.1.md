@@ -193,57 +193,31 @@ git log dashboard-v3 --since='2026-04-01' \
 
 Это значит: любой запрос в `/api/diagnostics/shadow-metrics/` уже считает живые метрики из PostgreSQL; любая поездка, начиная с этой даты, пишется в `shadow_rule_log` через `rule_engine.py` (если правило в shadow_mode); `promote_shadow_rule.py --dry-run` можно запускать прямо на сервере.
 
-_Первоначально (на 17 апреля утром) оставались хвосты: ShadowMetricsPanel.tsx, cron для A.35 критериев, cloud pipeline. Утренние хвосты закрыты вечером — см. раздел «Доработка 2026-04-17» ниже._
-
 ---
 
-## Доработка 2026-04-17 — закрытые хвосты
+## Довыполнено 2026-04-17
 
-Исходный релиз v2.1 (2026-04-16) оставлял несколько пунктов «на S24». В течение 17 апреля они закрыты по указанию пользователя *«доделай уже то что обещал»*.
+| # | Пункт | Файлы |
+|---|-------|-------|
+| G9 | `shadow_results` проброшен в report JSON (без `features_snapshot` — payload компактный) | `dashboard_build/diagnostic/pipeline.py` |
+| E.3 | ShadowMetricsPanel во фронтенде — селектор 8 shadow-правил, `promotion_ready` бейдж, CLI-подсказка | `llcar-dashboard/src/components/diagnostics/ShadowMetricsPanel.tsx` (новый, 114 строк); `src/pages/Diagnostics.tsx` |
+| S5.1 | Shadow-правило ручного ввода EUSAMA/BOGE/Phase/HPBM | `dashboard_build/diagnostic/rules/shadow_rules.json` — `stand_import_eusama_boge_phase_hpbm_shadow` (T2, min_confidence 50, cooldown 30 дней, `requires_manual_entry:true`) |
+| S5.2 | Turbo blade pass frequency как baseline audio-спектра | `dashboard_build/diagnostic/vehicle_profile.py` — `turbo_blade_pass_freq_at_rpm` = `z · 100 000 / 60` |
+| Cron | Автопроверка A.35-критериев | `dashboard_build/diagnostic/scripts/shadow_promotion_check.py` (100 строк), cron `0 6 * * *` у `webadmin`, лог `/var/log/llcar/shadow_promotion_check.log` |
+| Deploy | Canary-проверка + антихрупкость gunicorn | `scripts/deploy-v3.sh` Step 6; `@reboot` cron восстанавливает `gunicorn --reload` без sudo |
+| Тесты | Cooldown-тесты: хардкод-даты `2026-04-01/07` истекли + отсутствовал `from datetime import …`. Переведено на `now - timedelta(days=6/3)` + добавлен import. **731/731 pass** | `dashboard_build/tests/test_rule_engine.py` |
 
-### Что довыполнено
+### Cloud bearing pipeline
 
-| # | Пункт | Файлы | Коммиты |
-|---|-------|-------|---------|
-| G9 | `shadow_results` проброшен в report JSON (без `features_snapshot`, чтобы payload оставался компактным) | `dashboard_build/diagnostic/pipeline.py:267,314` | `63f2088` |
-| E.3 | ShadowMetricsPanel во фронтенде | `llcar-dashboard/src/components/diagnostics/ShadowMetricsPanel.tsx` (новый, 114 строк), `src/pages/Diagnostics.tsx:23,507` | `63f2088` |
-| S5.1 | Shadow-правило ручного ввода стенда EUSAMA/BOGE/Phase/HPBM | `dashboard_build/diagnostic/rules/shadow_rules.json` — `stand_import_eusama_boge_phase_hpbm_shadow` (T2, min_confidence 50, cooldown 30 дней, `requires_manual_entry:true`) | `63f2088` |
-| S5.2 | Turbo blade pass frequency как baseline audio-спектра | `dashboard_build/diagnostic/vehicle_profile.py` — property `turbo_blade_pass_freq_at_rpm` = `z · 100 000 / 60` при известном `turbo_blade_count` | `63f2088` |
-| Cron | Автоматическая проверка A.35 critериев | `dashboard_build/diagnostic/scripts/shadow_promotion_check.py` (100 строк) — проходит 8 shadow-правил через `/api/diagnostics/shadow-metrics/`, пишет READY/WAIT в `/var/log/llcar/shadow_promotion_check.log`, cron `0 6 * * *` у `webadmin` | `c885456` |
-| Deploy | Canary-проверка + антихрупкость gunicorn | `scripts/deploy-v3.sh` Step 6; `@reboot` cron у `webadmin` восстанавливает `gunicorn --reload` без sudo | `63f2088` |
-| Тесты | Cooldown-тесты пофикшены (скрытый bit-rot) | `dashboard_build/tests/test_rule_engine.py` — хардкод-даты `2026-04-01/07` вышли за `COOLDOWN_DAYS=7` после 2026-04-14 + отсутствовал `from datetime import datetime, timedelta, timezone`. Переведено на `now - timedelta(days=6/3)` + добавлен import. **Регрессия: 731/731** (было 729/731 + 2 fail). | `c885456` |
+Полная спецификация — **`CLOUD-BEARING-PIPELINE-SPEC.md`** в этой же папке. Stage I (Randall-Antoni 2011: SANC → SK → Kurtogram → WPT → Hilbert envelope → FFT → BPFO detector) реализуется на сервере по сырому сигналу и требует bench-подшипника для валидации.
 
-### Cloud bearing pipeline — вывод из «отложено навсегда» в «спецификация готова»
+Текущая S23-реализация — **Stage 0**: косвенные BPFO-признаки через `spectral_kurtosis_audio` + `kurtogram_best_band_*` (~1.5 КБ/session). Правило 1.3 помечено как Stage 0 с Roadmap Stage I в A.30.
 
-Утром 17 апреля в этом файле было написано «не профинансирован, остаётся в S5/optional». По требованию пользователя это переформулировано: пункт не дешёвая отписка, а R&D-блок с конкретной декомпозицией.
+### За кадром S23 (S24+)
 
-Полная спецификация вынесена в отдельный файл: **`CLOUD-BEARING-PIPELINE-SPEC.md`** в этой же папке. Она описывает:
-
-- Stage I-реализация Randall-Antoni 2011 (SANC → SK → Kurtogram → WPT → Hilbert envelope → FFT → BPFO detector) на сервере, а не на устройстве.
-- Device-side opt-in раз в сутки, Parquet+Zstd буфер ~1.8 МБ/session.
-- Backend ingest (`POST /api/v2/bearing-raw/`, миграция `bearing_raw_jobs`, storage policy).
-- Polling worker vs Celery — выбор runtime.
-- Интеграция через новое правило `wheel_bearing_bpfo_cloud_stage1` с `supersedes: wheel_bearing_bpfo_harmonic`.
-- Валидация на bench-подшипнике 6206 + fallback на CWRU/Paderborn датасеты.
-- UI: `BearingStage1Panel.tsx` с envelope-spectrum chart.
-- Storage-бюджет (~160 ГБ peak при 1000 устройств × 90 дней) и критические риски (GDPR/речь в аудио, деградация polling-воркера при >10k jobs/день, opt-in <5 %).
-- Roadmap на 5 сессий S5.1–S5.5.
-
-Текущая S23-реализация — **Stage 0**: косвенные BPFO-признаки через `spectral_kurtosis_audio` + `kurtogram_best_band_*` из STFT-сводок на устройстве (~1.5 КБ/session). Правило 1.3 явно помечено как Stage 0 с roadmap Stage I в A.30.
-
-### Проверка prod после доработки (2026-04-17 вечер)
-
-- `curl -sk /api/diagnostics/shadow-metrics/?rule_name=spectral_kurtosis_impulsive_bearing` → **HTTP 200**, все 8 правил отвечают.
-- `\dt shadow_rule_log` на `vehinfo` БД — таблица на месте (создана через `postgres` role).
-- `stat` на `feature_extractor.py / api_views.py / urls.py / pipeline.py / vehicle_profile.py` → mtime 2026-04-16 23:15 UTC (деплой через tar-archive workaround, обход rate-limit SSH).
-- Frontend `Diagnostics-B5CB5Uew.js` + `index-DcNWEY9F.js` загружены, ShadowMetricsPanel видна на `llcar.ru/diagnostics` рядом с чат-панелью.
-- Cron `@reboot` + `0 6 * * * shadow_promotion_check.py` подняты у `webadmin`.
-
-### Что остаётся за кадром S23 (явно S24+)
-
-- **Cloud bearing pipeline Stage I** — спецификация готова (см. выше), реализация требует bench-подшипника и ~3–5 сессий R&D.
-- **30-дневная shadow-валидация** — идёт с 2026-04-17, итог к 2026-05-17. Промоушн через `promote_shadow_rule.py` после накопления ≥30 trigger_count на правило.
-- **Мердж v2.1 → v2.0** в `docs/` — отдельная сессия после успешной валидации. До этого v2.0 остаётся стабильной заморозкой, v2.1 — рабочей копией.
+- **Cloud bearing pipeline Stage I** — спецификация готова, реализация ~5 сессий.
+- **30-дневная shadow-валидация** — с 2026-04-17 по 2026-05-17, промоушн через `promote_shadow_rule.py` после ≥30 trigger_count.
+- **Мердж v2.1 → v2.0** — отдельная сессия после валидации.
 
 ---
 
