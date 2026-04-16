@@ -3,6 +3,7 @@ import { useLocation, useNavigate } from 'react-router-dom'
 import { useDashboardStore } from '../stores/dashboardStore'
 import { useApiData } from '../hooks/useApiData'
 import { SidebarContent } from '../components/sidebar/SidebarContent'
+import { Logo } from '../components/Logo'
 import { theme } from '../theme'
 
 const tabs = [
@@ -32,17 +33,17 @@ export function MainLayout({ children }: { children: ReactNode }) {
       <div style={{ position: 'fixed', inset: 0, zIndex: 0, pointerEvents: 'none', overflow: 'hidden' }}>
         <div style={{
           position: 'absolute', top: '15%', left: '10%', width: 600, height: 600, borderRadius: '50%',
-          background: 'radial-gradient(circle, rgba(0,229,255,0.12) 0%, transparent 60%)',
+          background: 'radial-gradient(circle, rgba(255,159,28,0.10) 0%, transparent 60%)',
           filter: 'blur(80px)', animation: 'breathe1 12s ease-in-out infinite',
         }} />
         <div style={{
           position: 'absolute', bottom: '5%', right: '5%', width: 500, height: 500, borderRadius: '50%',
-          background: 'radial-gradient(circle, rgba(255,140,0,0.06) 0%, transparent 60%)',
+          background: 'radial-gradient(circle, rgba(59,158,255,0.08) 0%, transparent 60%)',
           filter: 'blur(70px)', animation: 'breathe2 18s ease-in-out infinite',
         }} />
         <div style={{
           position: 'absolute', top: '60%', left: '60%', width: 350, height: 350, borderRadius: '50%',
-          background: 'radial-gradient(circle, rgba(138,43,226,0.05) 0%, transparent 60%)',
+          background: 'radial-gradient(circle, rgba(255,159,28,0.05) 0%, transparent 60%)',
           filter: 'blur(60px)', animation: 'breathe1 22s ease-in-out infinite reverse',
         }} />
       </div>
@@ -61,23 +62,13 @@ export function MainLayout({ children }: { children: ReactNode }) {
         <div className="flex items-center gap-2 md:gap-4">
           <div className="flex flex-col">
             <div className="flex items-center gap-2 md:gap-3">
-              <img
-                src={`${import.meta.env.BASE_URL}llcar-logo.png`}
-                alt="LLCAR"
-                className="h-8 w-8 md:h-10 md:w-10 logo-pulse"
-                style={{
-                  filter: 'brightness(2.0) drop-shadow(0 0 10px rgba(0,229,255,0.8)) drop-shadow(0 0 20px rgba(0,229,255,0.5))',
-                }}
-              />
-              <span className="logo-text text-base md:text-lg tracking-widest">
-                LLCAR<span style={{ opacity: 0.25, marginLeft: -2 }}>E</span>
-              </span>
-              <span className="text-xs text-white/20 font-mono hidden lg:inline" style={{ letterSpacing: '0.2em' }}>LONG LIFE CAR</span>
+              <Logo size="md" showWordmark withOrbit />
+              <span className="text-xs text-white/25 font-mono hidden lg:inline" style={{ letterSpacing: '0.2em' }}>LONG LIFE CAR</span>
             </div>
             {/* EKG pulse — UNDER logo */}
             <div className="header-pulse hidden md:block" style={{ marginTop: -4, marginLeft: 2 }}>
               <svg viewBox="0 0 320 32" className="header-pulse-svg">
-                <path className="pulse-path" style={{ '--pulse-color': '#00E5FF' } as React.CSSProperties}
+                <path className="pulse-path" style={{ '--pulse-color': '#FF9F1C' } as React.CSSProperties}
                   d="M0,16 L20,16 L25,16 L30,4 L35,28 L40,10 L45,22 L50,16 L70,16 L80,16 L85,16 L90,4 L95,28 L100,10 L105,22 L110,16 L130,16 L140,16 L145,16 L150,4 L155,28 L160,10 L165,22 L170,16 L190,16 L200,16 L205,16 L210,4 L215,28 L220,10 L225,22 L230,16 L250,16 L260,16 L265,16 L270,4 L275,28 L280,10 L285,22 L290,16 L320,16"
                 />
               </svg>

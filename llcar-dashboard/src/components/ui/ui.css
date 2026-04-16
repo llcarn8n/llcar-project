@@ -1,0 +1,124 @@
+/* ── LUMEN HUD primitives — Card / Button / StatusDot ── */
+
+/* ============ Card ============ */
+.lumen-card {
+  position: relative;
+  background: var(--c-surface);
+  border: 1px solid var(--border-frost);
+  border-radius: var(--r-card);
+  padding: 20px 24px;
+  box-shadow: var(--shadow-panel);
+  color: var(--c-text);
+  overflow: hidden;
+  isolation: isolate;
+}
+.lumen-card--amber { border-color: rgba(255,159,28,0.35); }
+.lumen-card--blue  { border-color: rgba(59,158,255,0.35); }
+.lumen-card--bloom::before {
+  content: '';
+  position: absolute;
+  inset: -30% -10% -50% -10%;
+  background: var(--bloom-amber);
+  pointer-events: none;
+  z-index: -1;
+  opacity: 0.85;
+}
+.lumen-card--bloom.lumen-card--blue::before { background: var(--bloom-blue); }
+
+.lumen-card__label {
+  font-family: var(--f-body);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--c-text-muted);
+  margin-bottom: 10px;
+  display: block;
+}
+
+/* ============ Button ============ */
+.lumen-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5em;
+  border-radius: var(--r-pill);
+  border: 1px solid transparent;
+  font-family: var(--f-section);
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  white-space: nowrap;
+  line-height: 1;
+  user-select: none;
+}
+.lumen-btn--sm { padding: 6px 14px; font-size: 11px; }
+.lumen-btn--md { padding: 9px 20px; font-size: 12px; }
+.lumen-btn--lg { padding: 12px 26px; font-size: 13px; }
+
+.lumen-btn--primary {
+  background: linear-gradient(180deg, var(--c-amber-soft) 0%, var(--c-amber) 100%);
+  color: #0a0a0a;
+  box-shadow: 0 0 20px rgba(255,159,28,0.35), inset 0 1px 0 rgba(255,255,255,0.35);
+}
+.lumen-btn--primary:hover {
+  box-shadow: 0 0 28px rgba(255,159,28,0.55), inset 0 1px 0 rgba(255,255,255,0.5);
+  transform: translateY(-1px);
+}
+
+.lumen-btn--ghost {
+  background: var(--btn-ghost-bg);
+  border-color: var(--btn-ghost-border);
+  color: var(--c-text);
+}
+.lumen-btn--ghost:hover {
+  background: rgba(240,240,250,0.18);
+  border-color: var(--c-text);
+}
+
+.lumen-btn--secondary {
+  background: transparent;
+  border-color: var(--border-frost);
+  color: var(--c-text-muted);
+}
+.lumen-btn--secondary:hover {
+  color: var(--c-text);
+  border-color: rgba(255,159,28,0.45);
+  background: rgba(255,159,28,0.05);
+}
+
+.lumen-btn:disabled,
+.lumen-btn[aria-disabled="true"] {
+  opacity: 0.45;
+  cursor: not-allowed;
+  transform: none !important;
+  box-shadow: none;
+}
+
+/* ============ StatusDot ============ */
+.lumen-dot {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  --dot-color: var(--c-ok);
+  background: var(--dot-color);
+  box-shadow:
+    0 0 6px var(--dot-color),
+    0 0 14px color-mix(in srgb, var(--dot-color) 60%, transparent);
+}
+.lumen-dot--ok       { --dot-color: var(--c-ok); }
+.lumen-dot--warn     { --dot-color: var(--c-warn); }
+.lumen-dot--critical { --dot-color: var(--c-critical); }
+.lumen-dot--idle     { --dot-color: var(--c-text-faint); box-shadow: none; }
+
+.lumen-dot--pulse {
+  animation: lumenDotPulse 2s ease-in-out infinite;
+}
+@keyframes lumenDotPulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50%      { opacity: 0.55; transform: scale(0.85); }
+}
