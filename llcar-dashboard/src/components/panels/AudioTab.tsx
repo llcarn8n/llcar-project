@@ -12,7 +12,7 @@ interface AudioTabProps {
 const ZONES = [
   { name: 'Низкий гул (дорога)', color: '#60a5fa', min: 0, max: 80 },
   { name: 'Гул двигателя', color: '#4ade80', min: 80, max: 150 },
-  { name: 'Трансмиссия', color: '#22d3ee', min: 150, max: 300 },
+  { name: 'Трансмиссия', color: '#3b9eff', min: 150, max: 300 },
   { name: 'Навесное оборудование', color: '#f59e0b', min: 300, max: 600 },
   { name: 'Подшипники / клапаны', color: '#f97316', min: 600, max: 2000 },
   { name: 'Высокочаст. шум', color: '#ef4444', min: 2000, max: 99999 },
@@ -120,7 +120,7 @@ export function AudioTab({ data }: AudioTabProps) {
       tooltip: {
         trigger: 'axis',
         backgroundColor: '#111116',
-        borderColor: 'rgba(0,229,255,0.15)',
+        borderColor: 'rgba(214,235,253,0.19)',
         textStyle: { color: '#c0c0cc', fontSize: 11 },
       },
       legend: {
@@ -174,7 +174,7 @@ export function AudioTab({ data }: AudioTabProps) {
       tooltip: {
         trigger: 'axis',
         backgroundColor: '#111116',
-        borderColor: 'rgba(0,229,255,0.15)',
+        borderColor: 'rgba(214,235,253,0.19)',
         textStyle: { color: '#c0c0cc', fontSize: 11 },
       },
       grid: { left: 50, right: 20, top: 30, bottom: 25 },
@@ -206,11 +206,11 @@ export function AudioTab({ data }: AudioTabProps) {
         {
           name: 'Качество', type: 'line' as const, symbol: 'none', sampling: 'lttb',
           data: qualData,
-          lineStyle: { width: 2, color: '#22d3ee', shadowColor: 'rgba(34,211,238,0.3)', shadowBlur: 8 },
+          lineStyle: { width: 2, color: '#FF9F1C', shadowColor: 'rgba(255,159,28,0.3)', shadowBlur: 8 },
           areaStyle: {
             color: new echarts.graphic.LinearGradient(0, 0, 0, 1, [
-              { offset: 0, color: 'rgba(34,211,238,0.15)' },
-              { offset: 1, color: 'rgba(34,211,238,0)' },
+              { offset: 0, color: 'rgba(255,159,28,0.15)' },
+              { offset: 1, color: 'rgba(255,159,28,0)' },
             ]),
           },
         },
@@ -226,7 +226,7 @@ export function AudioTab({ data }: AudioTabProps) {
     return (
       <GlassPanel>
         <div className="hud-header mb-3">Аудио анализ</div>
-        <div style={{ textAlign: 'center', padding: '40px 0', color: theme.text.muted, fontFamily: "'Rajdhani', sans-serif", fontSize: 14 }}>
+        <div style={{ textAlign: 'center', padding: '40px 0', color: theme.text.muted, fontFamily: "var(--f-body)", fontSize: 14 }}>
           Нет данных аудио. Подключите OBD-адаптер и начните поездку.
         </div>
       </GlassPanel>
@@ -240,16 +240,16 @@ export function AudioTab({ data }: AudioTabProps) {
         <div style={{ display: 'flex', alignItems: 'center', gap: 16 }}>
           <div style={{ fontSize: 36 }}>{statusIcon}</div>
           <div style={{ flex: 1 }}>
-            <div style={{ fontSize: 18, fontWeight: 700, color: statusColor, fontFamily: "'Rajdhani', sans-serif" }}>
+            <div style={{ fontSize: 18, fontWeight: 700, color: statusColor, fontFamily: "var(--f-body)" }}>
               {statusTitle}
             </div>
-            <div style={{ fontSize: 12, color: theme.text.muted, marginTop: 4, lineHeight: 1.5, fontFamily: "'Rajdhani', sans-serif" }}>
+            <div style={{ fontSize: 12, color: theme.text.muted, marginTop: 4, lineHeight: 1.5, fontFamily: "var(--f-body)" }}>
               {statusDesc}
             </div>
           </div>
           <div style={{ textAlign: 'center' }}>
             <div style={{ fontSize: 9, textTransform: 'uppercase', letterSpacing: 1, color: theme.text.muted }}>Качество записи</div>
-            <div style={{ fontSize: 28, fontWeight: 700, fontVariantNumeric: 'tabular-nums', color: qualityColor(avgQual), fontFamily: "'Share Tech Mono', monospace" }}>
+            <div style={{ fontSize: 28, fontWeight: 700, fontVariantNumeric: 'tabular-nums', color: qualityColor(avgQual), fontFamily: "var(--f-mono)" }}>
               {avgQual}
             </div>
             <div style={{ fontSize: 10, color: theme.text.muted }}>из 100</div>
@@ -276,8 +276,8 @@ export function AudioTab({ data }: AudioTabProps) {
             {zoneBars.map(z => (
               <div key={z.name} style={{ marginBottom: 10 }}>
                 <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'baseline', marginBottom: 3 }}>
-                  <span style={{ fontSize: 12, color: z.color, fontWeight: 600, fontFamily: "'Rajdhani', sans-serif" }}>{z.name}</span>
-                  <span style={{ fontSize: 9, color: theme.text.muted, fontFamily: "'Share Tech Mono', monospace" }}>
+                  <span style={{ fontSize: 12, color: z.color, fontWeight: 600, fontFamily: "var(--f-body)" }}>{z.name}</span>
+                  <span style={{ fontSize: 9, color: theme.text.muted, fontFamily: "var(--f-mono)" }}>
                     {z.freqList.sort((a, b) => a - b).join(', ')} Гц
                   </span>
                 </div>
@@ -289,7 +289,7 @@ export function AudioTab({ data }: AudioTabProps) {
                     boxShadow: `0 0 10px ${z.color}25`,
                     display: 'flex', alignItems: 'center', justifyContent: 'flex-end', paddingRight: 8,
                   }}>
-                    <span style={{ fontSize: 10, color: '#fff', fontWeight: 700, fontFamily: "'Share Tech Mono', monospace", textShadow: '0 1px 3px rgba(0,0,0,0.5)' }}>
+                    <span style={{ fontSize: 10, color: '#fff', fontWeight: 700, fontFamily: "var(--f-mono)", textShadow: '0 1px 3px rgba(0,0,0,0.5)' }}>
                       {Math.round(z.sum)}
                     </span>
                   </div>
@@ -306,7 +306,7 @@ export function AudioTab({ data }: AudioTabProps) {
       {/* Объяснения зон */}
       <GlassPanel>
         <div className="hud-header mb-2">Что означают зоны</div>
-        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 8, fontFamily: "'Rajdhani', sans-serif", fontSize: 12, color: theme.text.muted, lineHeight: 1.5 }}>
+        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 8, fontFamily: "var(--f-body)", fontSize: 12, color: theme.text.muted, lineHeight: 1.5 }}>
           <div><span style={{ color: '#60a5fa', fontWeight: 600 }}>Дорога (&lt;100 Гц)</span> — шум покрытия, колёс, аэродинамики. Норма для любого авто.</div>
           <div><span style={{ color: '#4ade80', fontWeight: 600 }}>Двигатель (100–300 Гц)</span> — рабочий гул мотора. Рост = износ опор, выхлопа.</div>
           <div><span style={{ color: '#f59e0b', fontWeight: 600 }}>Навесное (300–1000 Гц)</span> — генератор, компрессор, помпа. Свист = ремень или подшипник.</div>

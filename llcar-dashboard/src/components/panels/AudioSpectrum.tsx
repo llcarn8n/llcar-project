@@ -15,11 +15,12 @@ interface AudioSpectrumProps {
   compact?: boolean
 }
 
+// Severity-based palette: blue = норма, amber/soft-amber = внимание, red = критично
 const ZONES = [
-  { name: 'Дорога <100Гц',    key: 'road',    color: '#00E5FF', test: (f: number) => f < 100 },
-  { name: 'Двигатель 100-300Гц', key: 'engine', color: '#7C4DFF', test: (f: number) => f >= 100 && f < 300 },
-  { name: 'Оборудование 300-1кГц', key: 'acc', color: '#FFAB00', test: (f: number) => f >= 300 && f <= 1000 },
-  { name: 'ВЧ шум >1кГц',     key: 'hf',      color: '#FF4081', test: (f: number) => f > 1000 },
+  { name: 'Дорога <100Гц',    key: 'road',    color: '#3b9eff', test: (f: number) => f < 100 },
+  { name: 'Двигатель 100-300Гц', key: 'engine', color: '#FF9F1C', test: (f: number) => f >= 100 && f < 300 },
+  { name: 'Оборудование 300-1кГц', key: 'acc', color: '#FFB84D', test: (f: number) => f >= 300 && f <= 1000 },
+  { name: 'ВЧ шум >1кГц',     key: 'hf',      color: '#ff2047', test: (f: number) => f > 1000 },
 ] as const
 
 function groupByZone(sample: AudioSample): number[] {
@@ -183,25 +184,25 @@ export function AudioSpectrum({ data, compact = false }: AudioSpectrumProps) {
     tooltip: {
       trigger: 'axis' as const,
       backgroundColor: 'rgba(10, 17, 24, 0.95)',
-      borderColor: 'rgba(0, 229, 255, 0.3)',
+      borderColor: 'rgba(214,235,253,0.19)',
       borderWidth: 1,
-      textStyle: { color: '#fff', fontFamily: "'Share Tech Mono', monospace", fontSize: 11 },
+      textStyle: { color: '#f0f0fa', fontFamily: "var(--f-mono)", fontSize: 11 },
     },
     legend: {
       show: !compact,
       top: 6, left: 50,
-      textStyle: { color: theme.text.secondary, fontFamily: "'Share Tech Mono', monospace", fontSize: 10 },
+      textStyle: { color: theme.text.secondary, fontFamily: "var(--f-mono)", fontSize: 10 },
       itemWidth: 12, itemHeight: 8, itemGap: 10,
     },
     xAxis: {
       type: 'category' as const,
       data: timelineData!.timestamps,
       boundaryGap: false,
-      axisLine: { lineStyle: { color: 'rgba(0,229,255,0.2)' } },
+      axisLine: { lineStyle: { color: 'rgba(214,235,253,0.19)' } },
       axisTick: { show: false },
       axisLabel: {
         color: theme.text.secondary,
-        fontFamily: "'Share Tech Mono', monospace",
+        fontFamily: "var(--f-mono)",
         fontSize: 9,
         interval: Math.max(0, Math.floor(data.length / 6) - 1),
         rotate: data.length > 20 ? 45 : 0,
@@ -213,8 +214,8 @@ export function AudioSpectrum({ data, compact = false }: AudioSpectrumProps) {
       max: yMax,
       axisLine: { show: false },
       axisTick: { show: false },
-      axisLabel: { color: theme.text.secondary, fontFamily: "'Share Tech Mono', monospace", fontSize: 9 },
-      splitLine: { lineStyle: { color: 'rgba(0,229,255,0.1)', type: 'dashed' as const } },
+      axisLabel: { color: theme.text.secondary, fontFamily: "var(--f-mono)", fontSize: 9 },
+      splitLine: { lineStyle: { color: 'rgba(240,240,250,0.08)', type: 'dashed' as const } },
     },
     series: timelineData!.zoneSeries.map((s, idx) => {
       if (idx === 0 && timelineData!.weatherAreas.length > 0) {
@@ -232,7 +233,7 @@ export function AudioSpectrum({ data, compact = false }: AudioSpectrumProps) {
               show: true,
               position: 'insideTop' as const,
               fontSize: 9,
-              fontFamily: "'Share Tech Mono', monospace",
+              fontFamily: "var(--f-mono)",
               color: 'rgba(66, 165, 245, 0.6)',
               formatter: () => 'RAIN',
             },

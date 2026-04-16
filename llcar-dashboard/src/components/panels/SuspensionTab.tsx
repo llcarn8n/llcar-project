@@ -32,12 +32,12 @@ function DetailCharts({ accelData, chartAxesRef, chartCorridorRef }: {
         style={{
           width: '100%',
           padding: '10px 16px',
-          fontFamily: "'Rajdhani', sans-serif",
+          fontFamily: "var(--f-body)",
           fontSize: 13,
           fontWeight: 700,
-          color: open ? '#0C1220' : 'var(--accent-cyan)',
-          background: open ? 'var(--accent-cyan)' : 'rgba(0,229,255,0.06)',
-          border: `1px solid ${open ? 'transparent' : 'rgba(0,229,255,0.2)'}`,
+          color: open ? '#0C1220' : 'var(--c-amber)',
+          background: open ? 'var(--c-amber)' : 'var(--border-frost)',
+          border: `1px solid ${open ? 'transparent' : 'rgba(214,235,253,0.19)'}`,
           borderRadius: 6,
           cursor: 'pointer',
           transition: 'all 0.3s',
@@ -58,10 +58,10 @@ function DetailCharts({ accelData, chartAxesRef, chartCorridorRef }: {
             <div className="hud-header" style={{ marginBottom: 4 }}>Вибрация по осям</div>
             <div style={{
               fontSize: 10, color: 'rgba(255,255,255,0.45)',
-              fontFamily: "'Rajdhani', sans-serif",
+              fontFamily: "var(--f-body)",
               lineHeight: 1.5, marginBottom: 8,
               padding: '6px 8px',
-              background: 'rgba(0,229,255,0.03)',
+              background: 'rgba(240,240,250,0.03)',
               borderRadius: 4,
               border: '1px solid rgba(0,229,255,0.06)',
             }}>
@@ -79,10 +79,10 @@ function DetailCharts({ accelData, chartAxesRef, chartCorridorRef }: {
             <div className="hud-header" style={{ marginBottom: 4 }}>Вертикальная ось Z — коридор ям</div>
             <div style={{
               fontSize: 10, color: 'rgba(255,255,255,0.45)',
-              fontFamily: "'Rajdhani', sans-serif",
+              fontFamily: "var(--f-body)",
               lineHeight: 1.5, marginBottom: 8,
               padding: '6px 8px',
-              background: 'rgba(0,229,255,0.03)',
+              background: 'rgba(240,240,250,0.03)',
               borderRadius: 4,
               border: '1px solid rgba(0,229,255,0.06)',
             }}>
@@ -97,7 +97,7 @@ function DetailCharts({ accelData, chartAxesRef, chartCorridorRef }: {
                 position: 'absolute', bottom: 20, left: 0, right: 0,
                 display: 'flex', alignItems: 'center', justifyContent: 'center',
                 color: 'rgba(255,255,255,0.3)', fontSize: 11,
-                fontFamily: "'Share Tech Mono', monospace",
+                fontFamily: "var(--f-mono)",
               }}>
                 Нет данных min/max для этого периода
               </div>
@@ -211,7 +211,7 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
           const d = p.data
           const idx = Math.round(d[4] || 0)
           const timeStr = idx >= 0 && idx < times.length ? times[idx] : '--'
-          return `<span style="color:#00E5FF;font-weight:600;">Время: ${timeStr}</span><br>`
+          return `<span style="color:#FF9F1C;font-weight:600;">Время: ${timeStr}</span><br>`
             + `X бок: <b>${d[0]?.toFixed(2) ?? '--'}</b> m/s²<br>`
             + `Y прод: <b>${d[1]?.toFixed(2) ?? '--'}</b> m/s²<br>`
             + `Z верт: <b>${d[2]?.toFixed(2) ?? '--'}</b> m/s²<br>`
@@ -229,9 +229,9 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
           min: Math.max(0, p5 - range * 0.1),
           max: (p95 + range * 0.1) || 1,
           inRange: {
-            color: ['#00E5FF', '#22d3ee', '#4ade80', '#f59e0b', '#ef4444'],
+            color: ['#3b9eff', '#4ade80', '#FF9F1C', '#ff2047'],
           },
-          textStyle: { color: 'rgba(255,255,255,0.5)', fontFamily: "'Share Tech Mono', monospace", fontSize: 9 },
+          textStyle: { color: 'rgba(255,255,255,0.5)', fontFamily: "var(--f-mono)", fontSize: 9 },
           right: 10,
           top: 10,
           text: ['\u26A0 Тряска', '\u2713 Норма'],
@@ -261,11 +261,11 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
           main: { intensity: 1.2, shadow: false },
           ambient: { intensity: 0.3 },
         },
-        axisLine: { lineStyle: { color: 'rgba(0,229,255,0.3)' } },
-        axisTick: { lineStyle: { color: 'rgba(0,229,255,0.2)' } },
-        axisLabel: { color: 'rgba(255,255,255,0.5)', fontFamily: "'Share Tech Mono', monospace", fontSize: 10 },
-        splitLine: { lineStyle: { color: 'rgba(0,229,255,0.08)' } },
-        axisPointer: { lineStyle: { color: 'rgba(0,229,255,0.5)' } },
+        axisLine: { lineStyle: { color: 'rgba(240,240,250,0.3)' } },
+        axisTick: { lineStyle: { color: 'rgba(214,235,253,0.19)' } },
+        axisLabel: { color: 'rgba(255,255,255,0.5)', fontFamily: "var(--f-mono)", fontSize: 10 },
+        splitLine: { lineStyle: { color: 'rgba(240,240,250,0.08)' } },
+        axisPointer: { lineStyle: { color: 'rgba(255,159,28,0.5)' } },
       },
       xAxis3D: { name: 'X (бок)', type: 'value' as const, nameTextStyle: { color: '#ef4444', fontSize: 10 } },
       yAxis3D: { name: 'Y (прод)', type: 'value' as const, nameTextStyle: { color: '#4ade80', fontSize: 10 } },
@@ -287,7 +287,7 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
           data: trajectoryData.map(d => [d[0], d[1], d[2]]),
           lineStyle: {
             width: 1.5,
-            color: 'rgba(0,229,255,0.3)',
+            color: 'rgba(240,240,250,0.3)',
             opacity: 0.5,
           },
         },
@@ -336,24 +336,24 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
       tooltip: {
         trigger: 'axis' as const,
         backgroundColor: 'rgba(10, 17, 24, 0.95)',
-        borderColor: 'rgba(0, 229, 255, 0.3)',
+        borderColor: 'rgba(214,235,253,0.19)',
         borderWidth: 1,
-        textStyle: { color: '#fff', fontFamily: "'Share Tech Mono', monospace", fontSize: 11 },
+        textStyle: { color: '#fff', fontFamily: "var(--f-mono)", fontSize: 11 },
       },
       legend: {
         top: 4, left: 50,
-        textStyle: { color: 'rgba(255,255,255,0.6)', fontFamily: "'Share Tech Mono', monospace", fontSize: 10 },
+        textStyle: { color: 'rgba(255,255,255,0.6)', fontFamily: "var(--f-mono)", fontSize: 10 },
         itemWidth: 12, itemHeight: 8,
       },
       xAxis: {
         type: 'category' as const,
         data: timestamps,
         boundaryGap: false,
-        axisLine: { lineStyle: { color: 'rgba(0,229,255,0.2)' } },
+        axisLine: { lineStyle: { color: 'rgba(214,235,253,0.19)' } },
         axisTick: { show: false },
         axisLabel: {
           color: 'rgba(255,255,255,0.4)',
-          fontFamily: "'Share Tech Mono', monospace",
+          fontFamily: "var(--f-mono)",
           fontSize: 9,
           interval: Math.max(0, Math.floor(accelData.length / 8) - 1),
         },
@@ -362,8 +362,8 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
         type: 'value' as const,
         axisLine: { show: false },
         axisTick: { show: false },
-        axisLabel: { color: 'rgba(255,255,255,0.4)', fontFamily: "'Share Tech Mono', monospace", fontSize: 9 },
-        splitLine: { lineStyle: { color: 'rgba(0,229,255,0.08)', type: 'dashed' as const } },
+        axisLabel: { color: 'rgba(255,255,255,0.4)', fontFamily: "var(--f-mono)", fontSize: 9 },
+        splitLine: { lineStyle: { color: 'rgba(240,240,250,0.08)', type: 'dashed' as const } },
       },
       series: [
         {
@@ -443,24 +443,24 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
       tooltip: {
         trigger: 'axis' as const,
         backgroundColor: 'rgba(10, 17, 24, 0.95)',
-        borderColor: 'rgba(0, 229, 255, 0.3)',
+        borderColor: 'rgba(214,235,253,0.19)',
         borderWidth: 1,
-        textStyle: { color: '#fff', fontFamily: "'Share Tech Mono', monospace", fontSize: 11 },
+        textStyle: { color: '#fff', fontFamily: "var(--f-mono)", fontSize: 11 },
       },
       legend: {
         top: 4, left: 50,
-        textStyle: { color: 'rgba(255,255,255,0.6)', fontFamily: "'Share Tech Mono', monospace", fontSize: 10 },
+        textStyle: { color: 'rgba(255,255,255,0.6)', fontFamily: "var(--f-mono)", fontSize: 10 },
         itemWidth: 12, itemHeight: 8,
       },
       xAxis: {
         type: 'category' as const,
         data: timestamps,
         boundaryGap: false,
-        axisLine: { lineStyle: { color: 'rgba(0,229,255,0.2)' } },
+        axisLine: { lineStyle: { color: 'rgba(214,235,253,0.19)' } },
         axisTick: { show: false },
         axisLabel: {
           color: 'rgba(255,255,255,0.4)',
-          fontFamily: "'Share Tech Mono', monospace",
+          fontFamily: "var(--f-mono)",
           fontSize: 9,
           interval: Math.max(0, Math.floor(accelData.length / 8) - 1),
         },
@@ -469,8 +469,8 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
         type: 'value' as const,
         axisLine: { show: false },
         axisTick: { show: false },
-        axisLabel: { color: 'rgba(255,255,255,0.4)', fontFamily: "'Share Tech Mono', monospace", fontSize: 9 },
-        splitLine: { lineStyle: { color: 'rgba(0,229,255,0.08)', type: 'dashed' as const } },
+        axisLabel: { color: 'rgba(255,255,255,0.4)', fontFamily: "var(--f-mono)", fontSize: 9 },
+        splitLine: { lineStyle: { color: 'rgba(240,240,250,0.08)', type: 'dashed' as const } },
       },
       series: [
         {
@@ -528,7 +528,7 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
         <div style={{
           display: 'flex', alignItems: 'center', justifyContent: 'center',
           height: 300, color: theme.text.muted, fontSize: 12,
-          fontFamily: "'Share Tech Mono', monospace",
+          fontFamily: "var(--f-mono)",
         }}>
           Нет данных
         </div>
@@ -554,7 +554,7 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
           <div style={{ flex: 1 }}>
             <div style={{
               fontSize: 16, fontWeight: 700,
-              fontFamily: "'Rajdhani', sans-serif",
+              fontFamily: "var(--f-body)",
               color: statusColor,
               textShadow: `0 0 10px ${statusColor}60`,
             }}>
@@ -562,7 +562,7 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
             </div>
             <div style={{
               fontSize: 11, color: 'rgba(255,255,255,0.6)',
-              fontFamily: "'Share Tech Mono', monospace",
+              fontFamily: "var(--f-mono)",
               marginTop: 2,
             }}>
               {statusDesc}
@@ -570,7 +570,7 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
             {dominantAxis && (
               <div style={{
                 fontSize: 10, color: 'rgba(255,255,255,0.4)',
-                fontFamily: "'Share Tech Mono', monospace",
+                fontFamily: "var(--f-mono)",
                 marginTop: 4,
               }}>
                 Доминирующая ось: {dominantAxis}
@@ -580,7 +580,7 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
           <div style={{ textAlign: 'right' }}>
             <div style={{
               fontSize: 28, fontWeight: 700,
-              fontFamily: "'Orbitron', monospace",
+              fontFamily: "var(--f-display)",
               color: statusColor,
               textShadow: `0 0 15px ${statusColor}80`,
             }}>
@@ -588,7 +588,7 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
             </div>
             <div style={{
               fontSize: 9, color: 'rgba(255,255,255,0.4)',
-              fontFamily: "'Share Tech Mono', monospace",
+              fontFamily: "var(--f-mono)",
               letterSpacing: '0.1em',
             }}>
               RMS m/s2
@@ -606,7 +606,7 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
               <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 8 }}>
                 <span style={{
                   fontSize: 11, fontWeight: 700,
-                  fontFamily: "'Orbitron', monospace",
+                  fontFamily: "var(--f-display)",
                   color: card.color,
                   background: `${card.color}15`,
                   padding: '2px 6px',
@@ -617,14 +617,14 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
                 <div>
                   <div style={{
                     fontSize: 12, fontWeight: 600,
-                    fontFamily: "'Rajdhani', sans-serif",
+                    fontFamily: "var(--f-body)",
                     color: theme.text.primary,
                   }}>
                     {card.label}
                   </div>
                   <div style={{
                     fontSize: 10,
-                    fontFamily: "'Share Tech Mono', monospace",
+                    fontFamily: "var(--f-mono)",
                     color: 'rgba(255,255,255,0.4)',
                   }}>
                     {card.sublabel}
@@ -633,7 +633,7 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
               </div>
               <div style={{
                 fontSize: 22, fontWeight: 700,
-                fontFamily: "'Orbitron', monospace",
+                fontFamily: "var(--f-display)",
                 color: card.color,
                 textShadow: `0 0 10px ${card.color}60`,
                 marginBottom: 6,
@@ -675,14 +675,14 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
           maxWidth: 220,
           padding: '8px 10px',
           background: 'rgba(6, 15, 25, 0.85)',
-          border: '1px solid rgba(0,229,255,0.15)',
+          border: '1px solid var(--border-frost)',
           borderRadius: 6,
           pointerEvents: 'none',
         }}>
           <div style={{
             fontSize: 10, fontWeight: 700,
-            fontFamily: "'Rajdhani', sans-serif",
-            color: 'var(--accent-cyan)',
+            fontFamily: "var(--f-body)",
+            color: 'var(--c-amber)',
             marginBottom: 4,
             letterSpacing: '0.05em',
           }}>
@@ -690,7 +690,7 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
           </div>
           <div style={{
             fontSize: 9, lineHeight: 1.5,
-            fontFamily: "'Share Tech Mono', monospace",
+            fontFamily: "var(--f-mono)",
             color: 'rgba(255,255,255,0.5)',
           }}>
             Каждая точка — замер вибрации по 3 осям.
