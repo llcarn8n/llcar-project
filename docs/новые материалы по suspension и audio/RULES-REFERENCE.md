@@ -1,6 +1,8 @@
 # Технический справочник диагностических правил LLCAR v3
 
-**Версия:** 2.0 | **Дата:** 2026-04-16 | **Правил:** 115 production + 3 shadow + 8 complex + 7 корреляций
+**Версия:** 2.1 (expanded) | **Дата:** 2026-04-16 | **Правил:** 115 production + 7 shadow + 11 complex + 7 корреляций
+
+> **Статус v2.1:** рабочая копия расширения по S23. Родитель — `docs/RULES-REFERENCE.md` v2.0 (4100 строк, сохранён неизменным). Отличия от v2.0 перечислены в `CHANGES-v2.0-to-v2.1.md` в этом же каталоге. Приложения **A.26–A.35** (Spectral Kurtosis, Order Tracking, Cyclostationary, Wavelet, Randall-Antoni Pipeline, Engine Order Spectrum + Draper, BOGE, Phase Angle, HPBM, Shadow-promotion matrix) добавлены полностью; правила 1.3 и 1.15 дополнены перекрёстными ссылками на A.30 и A.31 соответственно; A.8 расширен численным примером SKF 6206; B.1 пополнен 19 DOI; B.2 — 9 стандартов; B.3 — 6 книг.
 
 ## Параметры системы
 
@@ -171,6 +173,15 @@ bpfo_harmonic_matches = count(matched peaks)
 **Контекст:** min_speed 30 | **Tier:** T2+T3 | **Confidence:** min 50 | **Cooldown:** 7 дней
 
 **Данные:** T3 (10 FFT-пиков). D из `VehicleProfile.tire_diameter`. Точность зависит от D: ±8-15% ошибки для SUV если профиль не задан и используется fallback 0.63 м.
+
+**Roadmap Stage I (полный pipeline Randall-Antoni 2011):**
+Текущая реализация через 10 дискретных FFT-пиков ловит только Stage II–III (развитый дефект). Для детекции Stage I (ранний подповерхностный питтинг) требуется полный pipeline Randall-Antoni — см. **A.30 Full Bearing Pipeline**:
+```
+raw audio → SANC (Self-Adaptive Noise Cancellation) → Spectral Kurtosis (A.26)
+          → Fast Kurtogram argmax(SK(f)) → WPT band-pass к optimal band
+          → Hilbert envelope (A.9) → FFT envelope → BPFO/BPFI линии
+```
+Shadow-правило 6.4 (`spectral_kurtosis_impulsive_bearing`) — Stage 0 роадмапа (только SK gate, без SANC и WPT). Cloud reprocessing endpoint (Stage II) планируется в S5.
 
 **Теоретический контекст:**
 - *Envelope analysis (идеальная, не реализована):* Hilbert envelope → FFT даёт чистые BPFO-линии. Наш метод — proxy через 10 дискретных FFT-пиков.
@@ -723,6 +734,14 @@ az_std ≈ a_w × k    (k ∈ [0.85, 1.3] зависит от типа доро�
 **Что детектирует:** Детонация двигателя через ударные (перкуссивные) пики в полосе 5-8 кГц.
 
 **Физика:** Детонация = аномальное горение со скоростью >1000 м/с. Создаёт ударную волну в камере сгорания с характерной частотой 5-8 кГц (зависит от bore diameter) и длительностью <10 мс. В отличие от визга тормозов (тональный, kurtosis<3), детонация — импульсная (kurtosis>6).
+
+Характерная частота детонации определяется первой окружной модой Helmholtz-резонатора камеры сгорания по формуле **Draper 1938** (см. **A.31 Engine Order Spectrum + Draper detonation formula**):
+```
+f_(1,0) = ρ_(1,0) · c / (π · B),     ρ_(1,0) = 1.841
+```
+где c — скорость звука в продуктах сгорания (≈1000 м/с при T≈2500 K), B — bore diameter в метрах. Для B=86 мм (типичный бензиновый L4 2.0 л): f_(1,0) ≈ 6.8 кГц — попадает точно в середину диапазона 5–8 кГц. Таблица f_(1,0) для B=72/80/86/92/100/108 мм приведена в A.31.
+
+Roadmap: Shadow-правило 6.8 / будущее production-правило `knock_impulse_kurtogram_band` заменяет фиксированную полосу 5–8 кГц динамической через `knock_expected_freq_from_bore` (VIN → bore → Draper) ± 1.5 кГц.
 
 Мобильное приложение разделяет аудио на harmonic (freq_1..10) и percussive (peak_1..10) компоненты. Детонация попадает в percussive канал.
 
@@ -2707,8 +2726,49 @@ FTF  = (f_r/2)·(1 − (Bd/Pd)·cos α)      [Гц]  — сепаратор
   ≥3 гармоники → Stage III (развитый дефект, alert)
 ```
 
+**Численный пример — SKF 6206 (ступичный подшипник VW Polo, Hyundai Solaris):**
+
+Геометрия: Z=9 шариков, d=9.5 мм, Dp=46 мм, α=0° (радиальный подшипник).
+Упрощение cos 0° = 1, Bd/Pd = 9.5/46 = 0.2065.
+
+```
+При f_r = 10 Гц (колесо вращается 10 об/с, ~73 км/ч для R15):
+
+  BPFO = (9/2) · 10 · (1 − 0.2065·1)
+       = 4.5 · 10 · 0.7935
+       = 35.71 Гц
+
+  BPFI = (9/2) · 10 · (1 + 0.2065·1)
+       = 4.5 · 10 · 1.2065
+       = 54.29 Гц
+
+  BSF  = (46/(2·9.5)) · 10 · (1 − 0.2065²)
+       = 2.421 · 10 · 0.9573
+       = 23.18 Гц
+
+  FTF  = (10/2) · (1 − 0.2065·1)
+       = 5 · 0.7935
+       = 3.97 Гц
+
+Сумма BPFO + BPFI = 90 Гц = 9 · f_r = Z · f_r (проверка корректности).
+```
+
+**Диагностические гармоники для 6206 при f_r=10 Гц:**
+```
+H1 BPFO = 35.71 Гц   ← базовая линия наружного кольца
+H2 BPFO = 71.42 Гц
+H3 BPFO = 107.13 Гц  ← минимум для алерта Stage III
+H4 BPFO = 142.84 Гц
+H5 BPFO = 178.55 Гц
+
+Модулирующая оболочка BPFI может давать боковые полосы вокруг BPFO:
+  BPFO ± FTF, BPFO ± f_r → дополнительный маркер развитой стадии
+```
+
+Порог правила 1.3: bpfo_harmonic_matches ≥ 3 с допуском ±3 Гц на H1-H5 BPFO. Для 6206 при 73 км/ч окно поиска в 10 FFT-пиках: [32.7–38.7], [68.4–74.4], [104.1–110.1], [139.8–145.8], [175.6–181.6] Гц.
+
 **Применение в LLCAR:**
-bpfo_harmonic_matches — подсчёт гармоник BPFO в 10 FFT-пиках аудио. Расчёт через speed (OBD) и оценочный D_wheel из VIN. Подтверждение ≥3 совпадений → правило 1.3 (wheel_bearing_bpfo_harmonics). Для точной геометрии (известный Z, d, Dp — например, SKF 6206: Z=9, d=9.5 мм, Dp=46 мм) см. численный пример в A.30 (Full Bearing Pipeline Randall & Antoni 2011).
+bpfo_harmonic_matches — подсчёт гармоник BPFO в 10 FFT-пиках аудио. Расчёт через speed (OBD) и оценочный D_wheel из VIN. Подтверждение ≥3 совпадений → правило 1.3 (wheel_bearing_bpfo_harmonics). Для Stage I (одна гармоника в fuzzy-полосе, амплитуда меньше шума) — roadmap Randall-Antoni pipeline A.30 (SANC → SK → Kurtogram → WPT → Hilbert envelope → FFT).
 
 **Ограничения:**
 - Без точной геометрии подшипника BPFO_est имеет погрешность ±10–15%
@@ -4167,17 +4227,32 @@ in a closed cylindrical chamber. NACA Technical Report. DOI: 10.2514/8.590
 верная публикация 1938 года (NACA No. 493).
 ```
 
-**Численные примеры — таблица частоты детонации по bore (Draper 1-я (1,0) мода):**
+**Численные примеры — полная матрица частоты детонации Draper:**
 
 ```
-Bore B [мм]   c [м/с]    f_{1,0} [Гц]    Реальные двигатели
-72            1000       8144            VW 1.4 TSI (EA211), бензин даун-сайз
-80            1000       7329            BMW B38 1.5 3cyl, Peugeot 1.2 PureTech
-86            1000       6817            BMW N20/B48 2.0 (TwinPower), Mercedes M274
-92            1000       6374            Mercedes M271, Toyota 2.7L 2TR-FE
-100           1000       5864            Porsche 4.0 flat-six, Chevrolet LS 5.3L
+Матрица f_{1,0} [Гц] = 1.841 · c / (π · B/1000), ρ=1.841:
 
-При переменной c(T) — правильная полоса детонации:
+                c=900 м/с     c=1000 м/с    c=1100 м/с
+Bore B [мм]    (нач. горения) (пик давления)(после пика)
+─────────────────────────────────────────────────────────
+72             7329           8144           8959
+76             6944           7716           8488
+80             6596           7329           8062
+86             6136           6817           7499
+92             5736           6374           7011
+100            5278           5864           6450
+108            4887           5430           5973
+
+Реальные двигатели:
+  B=72 мм   VW 1.4 TSI (EA211), Hyundai 1.4 Kappa — бензин даун-сайз
+  B=76 мм   Renault H4B/H5H 0.9/1.3 турбо, Opel A14NET
+  B=80 мм   BMW B38 1.5 I3, Peugeot 1.2 PureTech, Toyota 2NR-FE
+  B=86 мм   BMW N20/B48 2.0 (TwinPower), Mercedes M274, VAG EA888
+  B=92 мм   Mercedes M271, Toyota 2TR-FE 2.7L, Nissan VQ35DE (V6)
+  B=100 мм  Porsche 4.0 flat-six N/A, Chevrolet LS 5.3L V8
+  B=108 мм  Dodge Hemi 6.4L V8, Ford 6.2L Boss V8
+
+При переменной c(T) — полоса детонации:
   Start of combustion, T=1500 K: c ≈ 780 м/с → f_{1,0}(B=86) = 5320 Гц
   Peak pressure, T=2500 K: c ≈ 1000 м/с → f_{1,0}(B=86) = 6817 Гц
   End of combustion, T=2000 K: c ≈ 895 м/с → f_{1,0}(B=86) = 6100 Гц
@@ -4450,6 +4525,124 @@ Shadow-правило 6.7 (damping_bandwidth_wide_shadow) использует `
 - Hryciów Z. et al. (2021). The influence of shock absorber wear on vehicle dynamic properties — bandwidth analysis. *Eksploatacja i Niezawodność / Maintenance and Reliability*, 23(2):274–282. DOI:10.17531/ein.2021.2.14
 - Gobbi M. et al. (2008). Optimal design of complex mechanical systems — quarter-car suspension case. *Meccanica*, 43(6):649–664. DOI:10.1007/s11012-008-9119-5
 - Dixon J.C. (2007). *The Shock Absorber Handbook*. 2nd ed. SAE International / Wiley. ISBN 978-0-470-51020-9
+
+---
+
+### A.35 Матрица критериев промоушна shadow → production
+
+Shadow-правила (раздел 6 Правил + новые 6.4–6.7) запускаются параллельно production-конвейеру, но их срабатывания НЕ попадают в итоговый отчёт пользователя. Вместо этого они логируются в таблицу `shadow_rule_log` для пост-анализа. Промоушн shadow → production — управляемое решение на основе объективной валидации против ground-truth (EUSAMA WE, механическое подтверждение, DTC). Скрипт `promote_shadow_rule.py` реализует автоматизированный чек: флаг `shadow_mode: true` в JSON / Python снимается только если все три метрики проходят пороги.
+
+**Математическая основа метрик:**
+
+```
+Triggering statistics (окно W = window_days):
+  trigger_count   = COUNT(*)      шадоу-срабатываний в окне
+  unique_clients  = COUNT(DISTINCT client_hash)
+  mean_confidence = AVG(confidence)
+
+Precision vs EUSAMA ground truth (за тот же W):
+  TP = shadow сработало AND min(WE четырёх колёс) < min_we_threshold
+  FP = shadow сработало AND min(WE) >= min_we_threshold
+  precision_vs_eusama = TP / (TP + FP)
+  Порог промоушна: precision ≥ 0.6
+
+False Positive Rate на «чистом» автопарке:
+  clean_cohort = клиенты с min(WE) >= min_we_threshold (нет проблем)
+  fired_clean  = subset clean_cohort, у которых shadow всё же сработало
+  clean_cohort_fpr = COUNT(fired_clean) / COUNT(clean_cohort)
+  Порог промоушна: FPR < 0.15
+
+Pearson correlation shadow_confidence ↔ EUSAMA WE:
+  pairs = (max(confidence) для клиента, min(WE) для клиента)
+  pearson_r = cov(conf, WE) / (σ_conf · σ_WE)
+  Цель: pearson_r ≤ −0.5  (negative — conf растёт, WE падает)
+
+Time lead над parent rule:
+  lead_days(client) = first_time(parent_prod_rule) − first_time(shadow_rule)
+  median_lead_days = median(lead_days) по всем клиентам с обоими триггерами
+  Порог промоушна: median ≥ 7 дней (только если указан --parent-rule)
+```
+
+**Матрица порогов (применяется в `meets_promotion_criteria()`):**
+
+| Метрика                    | Порог     | Обязательность                | Обоснование |
+|----------------------------|-----------|-------------------------------|-------------|
+| precision_vs_eusama        | ≥ 0.6     | ВСЕГДА                        | При precision=0.5 правило эквивалентно случайному срабатыванию; 0.6 — минимум для клинически полезного теста (Fawcett 2006). |
+| clean_cohort_fpr           | < 0.15    | ВСЕГДА                        | >15% ложных тревог на здоровом автопарке убивает доверие пользователей; 15% — отраслевой порог для early-warning систем. |
+| median_lead_days           | ≥ 7       | ЕСЛИ parent_rule указан       | Shadow-правило должно давать реальное упреждение перед существующим production-правилом. <7 дней — не даёт времени на plan-ahead обслуживание. |
+| pearson_r (с WE)           | ≤ −0.5    | РЕКОМЕНДУЕТСЯ (non-blocking)  | Физическая корректность: высокий confidence должен коррелировать с плохим EUSAMA. Если |r|<0.3 — возможна ошибка в features. |
+| trigger_count (мин. объём) | ≥ 30      | РЕКОМЕНДУЕТСЯ                 | Статистическая значимость: при n<30 доверительный интервал precision слишком широк (±0.15 при binomial). |
+| unique_clients             | ≥ 15      | РЕКОМЕНДУЕТСЯ                 | Избежать bias от одного автомобиля с частыми поездками. |
+
+**Пример реального прогона (shadow 6.4 spectral_kurtosis_impulsive_bearing, 30 дней):**
+
+```
+[metrics]
+  trigger_count        : 47
+  unique_clients       : 18
+  mean_confidence      : 68.3
+  pairs_with_eusama    : 12
+  precision_vs_eusama  : 0.67
+  clean_cohort_fpr     : 0.12
+  pearson_r            : -0.58
+  median_lead_days     : 9.5
+
+Проверка критериев:
+  ✓ precision 0.67 ≥ 0.6
+  ✓ FPR 0.12 < 0.15
+  ✓ lead_days 9.5 ≥ 7 (parent_rule=wheel_bearing_bpfo_harmonic)
+  ✓ pearson_r -0.58 ≤ -0.5 (доп. гарантия физики)
+  ✓ trigger_count 47 ≥ 30
+  ✓ unique_clients 18 ≥ 15
+
+→ Правило готово к промоушну. Запуск:
+  python -m diagnostic.scripts.promote_shadow_rule \
+      --rule-name spectral_kurtosis_impulsive_bearing \
+      --parent-rule wheel_bearing_bpfo_harmonic \
+      --window-days 30
+```
+
+**Деградационный сценарий (shadow 6.6 phase_lag_shift_shadow, не прошёл):**
+
+```
+[metrics]
+  trigger_count        : 22
+  precision_vs_eusama  : 0.45
+  clean_cohort_fpr     : 0.18
+  pearson_r            : -0.21
+  median_lead_days     : 4.0
+
+[FAIL] Правило не готово к промоушну:
+  - precision_vs_eusama=0.45 < 0.6 (target)
+  - clean_cohort_fpr=0.18 >= 0.15 (target <0.15)
+  - median_lead_days=4.0 < 7 (target ≥7)
+
+Диагноз: слабая корреляция (r=-0.21) указывает на проблему в фиче
+ax_az_phase_proxy — возможно, недостаточная синхронизация каналов
+ax/az или неправильный лаг. Требуется пересмотр feature_extractor,
+повторная shadow-валидация, только затем повторный promote.
+```
+
+**Применение в LLCAR:**
+Промоушн запускается вручную раз в 30 дней через CI job (GitHub Actions → SSH на prod). Dry-run режим (`--dry-run`) показывает что будет изменено в `threshold_rules.json` / `complex_rules.py` без записи. Force-режим (`--force`) обходит метрики — только в случае экстренного hotfix, не использовать в CI. Каждый промоушн вносится в ветку PR с требованием code-review и прохождения `pytest tests/test_rule_engine.py test_shadow_rules_do_not_affect_production_output`.
+
+**Ограничения:**
+- Метрики EUSAMA требуют наличия `eusama_tests` записей за тот же `client_hash` в окне W — если клиент не делал ТО на стенде, pair не строится.
+- Pearson r неустойчив при pairs < 10; `_pearson_r()` возвращает None если std=0 или n<2.
+- Time lead применим только для shadow-правил с явным parent (6.4→1.3, 6.5→1.2). Для 6.6/6.7 (новые методы без прямого предшественника) порог отключается через `requires_lead=False`.
+- Механическое ground truth (DTC / ремонтные работы) пока не автоматизировано — только косвенно через EUSAMA.
+
+**Правила:** 6.4–6.7 (текущие shadow), будущее: 6.8 `knock_impulse_kurtogram_band` при накоплении данных. Все production-правила раздела 1 прошедшие промоушн отмечаются датой в commit-сообщении.
+
+**Связанный код:**
+- `diagnostic/api_views.py:_compute_shadow_metrics` — вычисление метрик (21 unit-тест)
+- `diagnostic/scripts/promote_shadow_rule.py:meets_promotion_criteria` — логика порогов
+- `diagnostic/sql/shadow_vs_eusama.sql` — 6 SQL-шаблонов для ручного анализа (PG + SQLite)
+- `/api/diagnostics/shadow-metrics/?rule_name=X&window_days=30&min_we=40.0` — HTTP endpoint
+
+**Источники:**
+- Fawcett T. (2006). An introduction to ROC analysis. *Pattern Recognition Letters*, 27(8):861–874. DOI:10.1016/j.patrec.2005.10.010 (precision/recall для early-warning)
+- Saito T., Rehmsmeier M. (2015). The precision-recall plot is more informative than the ROC plot when evaluating binary classifiers on imbalanced datasets. *PLoS ONE*, 10(3):e0118432. DOI:10.1371/journal.pone.0118432
 
 ---
 
