@@ -217,4 +217,40 @@ def extract_features(
             f["percussive_energy_5k_8k"] = round(_band_perc / _total_perc, 3)
         f["percussive_peak_count_5k_8k"] = _band_count
 
+    # ------------------------------------------------------------------
+    # S21 Research: advanced diagnostic features
+    # ------------------------------------------------------------------
+
+    # 8. Wheel hop FFT peak detection (10-12 Hz normal, 7-8 Hz = low tire pressure)
+    f["wheel_hop_peak_freq"] = None
+    f["wheel_hop_peak_shifted"] = 0.0
+    if packet.audio_peaks:
+        # Find strongest peak in 5-15 Hz range (wheel hop zone)
+        _best_wh_freq = None
+        _best_wh_amp = 0.0
+        for _fv, _av in packet.audio_peaks:
+            if _fv is not None and _av is not None and 5 <= _fv <= 15:
+                if _av > _best_wh_amp:
+                    _best_wh_amp = _av
+                    _best_wh_freq = _fv
+        if _best_wh_freq is not None:
+            f["wheel_hop_peak_freq"] = round(_best_wh_freq, 1)
+            # Shifted = 1.0 if peak is in 5-9 Hz (below normal 10-12 Hz)
+            f["wheel_hop_peak_shifted"] = 1.0 if _best_wh_freq < 9.0 else 0.0
+
+    # 9. Aquaplaning indicators: ay spike + loss of wheel hop peak
+    f["ay_spike_ratio"] = None
+    _ay_std_val = getattr(packet, "ay_std", None)
+    _az_std_val = getattr(packet, "az_std", None)
+    if _ay_std_val is not None and _az_std_val is not None and _az_std_val > 0.01:
+        f["ay_spike_ratio"] = round(_ay_std_val / _az_std_val, 3)
+
+    # 10. az_peak absolute (for ISO 2631 critical safety)
+    _az_max = getattr(packet, "az_max", None)
+    _az_min = getattr(packet, "az_min", None)
+    if _az_max is not None and _az_min is not None:
+        f["az_peak_abs"] = round(max(abs(_az_max), abs(_az_min)), 3)
+    else:
+        f["az_peak_abs"] = None
+
     return f

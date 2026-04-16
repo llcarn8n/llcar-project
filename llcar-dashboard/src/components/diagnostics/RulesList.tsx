@@ -89,7 +89,7 @@ const SYS_ICON: Record<string, string> = {
 
 function classifySystem(r: Rule): string {
   const id = r.id; const c = r.conditions
-  if (/suspension|wheel|shock|strut|bushing|stabilizer|imbalance|lateral|tire_flat|crest|rough_road|vibration_at_speed|ball_joint|damper|bearing/.test(id) || /az_|vibration/.test(c)) return 'Подвеска'
+  if (/suspension|wheel|shock|strut|bushing|stabilizer|imbalance|lateral|tire_flat|crest|rough_road|vibration_at_speed|ball_joint|damper|bearing|tire_pressure|aquaplaning|comfort_degraded|critical_safety|energy_decay|instability/.test(id) || /az_|vibration/.test(c)) return 'Подвеска'
   if (/engine|misfire|knock|overheating|oil|idle|stalling|overrev|mount|egr|turbo|catalytic|warmup|throttle|intake_vacuum|maf_reading/.test(id) || /RPM|rpm|throttle|maf/.test(c)) return 'Двигатель'
   if (/battery|alternator|starter|wiring|fuse|voltage|charging|inverter|hv_battery|soc_critical/.test(id) || /voltage|BATT/.test(c)) return 'Электрика'
   if (/fuel|injector|pump|lambda|vacuum|lean|rich|p0171|p0172|stft|evap|p0442|o2_sensor/.test(id) || /LTFT|ltft|STFT|stft/.test(c)) return 'Топливо'
