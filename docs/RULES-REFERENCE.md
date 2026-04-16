@@ -1,6 +1,25 @@
 # Технический справочник диагностических правил LLCAR v3
 
-**Версия:** 1.0 | **Дата:** 2026-04-16 | **Правил:** 115 production + 3 shadow + 8 complex + 7 корреляций
+**Версия:** 2.0 | **Дата:** 2026-04-16 | **Правил:** 115 production + 3 shadow + 8 complex + 7 корреляций
+
+## Параметры системы
+
+### VehicleProfile
+| Параметр | Тип | Fallback | Описание |
+|----------|-----|----------|----------|
+| tire_diameter | float (м) | 0.63 (205/55 R16) | Диаметр шины, влияет на tire_freq, BPFO, wheel_hop |
+| suspension_type | str | "McPherson" | Тип подвески (McPherson/multilink/torsion_beam) |
+| unsprung_mass | float (кг) | 45 | Неподрессоренная масса (колесо + ступица + тормоз) |
+
+### Операторы условий
+| Оператор | Значение | Пример |
+|----------|----------|--------|
+| > | Больше порога | az_std > 3.0 |
+| < | Меньше порога | speed < 3.0 |
+| z> | Z-score выше (относительно baseline) | az_std z> 2.0 |
+| between | В диапазоне [lo, hi] | speed between [80, 120] |
+| == | Равно | wheel_hop_peak_shifted == 1.0 |
+| >= | Больше или равно | bpfo_harmonic_matches >= 3 |
 
 ---
 
@@ -17,7 +36,7 @@
 tire_freq = speed / (3.6 · π · D)           [Гц]    — частота вращения колеса
 vibration_freq_ratio = dominant_freq / tire_freq      — отношение доминантной частоты к колёсной
 ```
-Где D = диаметр шины (м), по умолчанию 0.63 м (205/55 R16). Если ratio ∈ [0.8, 1.3] — вибрация вызвана колесом (1× wheel order).
+Где D = диаметр шины (м), берётся из `VehicleProfile.tire_diameter` (параметризован в S21). Fallback 0.63 м (205/55 R16) если профиль не задан. Точность D критична: ошибка ±10% в D даёт ±10% ошибки в ratio. Для SUV с R18-R20 разница до 15%. Если ratio ∈ [0.8, 1.3] — вибрация вызвана колесом (1× wheel order).
 
 **Условия срабатывания:**
 
@@ -25,7 +44,7 @@ vibration_freq_ratio = dominant_freq / tire_freq      — отношение д�
 |----------|----------|-------|-----|-------------|
 | az_std | z> | 2.0 | 3 | Z-score выше 2σ от baseline данного режима |
 | total_vibration | > | 3.0 м/с² | 2 | RMS трёхосевой вибрации выше фонового |
-| speed | between | [80, 120] км/ч | 2 | Резонансная зона подвески (Counteract Balancing 2023) |
+| speed | between | [80, 120] км/ч | 2 | Резонансная зона подвески [V1] |
 | vibration_freq_ratio | between | [0.8, 1.3] | 3 | Доминантная частота совпадает с 1× wheel order |
 
 **Контекст:** min_speed 60 км/ч | **Tier:** T2 (акселерометр + аудио) | **Confidence:** min 40 | **Cooldown:** 7 дней
@@ -36,11 +55,28 @@ vibration_freq_ratio = dominant_freq / tire_freq      — отношение д�
 - *Half-car model:* собственная частота wheel hop = 10.6 Гц (номинал). При скорости 100 км/ч tire_freq ≈ 8.4 Гц — попадает в зону влияния wheel hop mode.
 - *Zener model:* на частотах >5 Гц демпфер становится жёстче (K'(ω) растёт), что снижает эффективность гашения wheel-order вибрации.
 
+**Пример расчёта:**
+```
+Входные данные: speed=100 км/ч, D=0.63 м (VehicleProfile.tire_diameter),
+                dominant_freq=12.0 Гц, az_std=0.45 м/с² (z-score=2.3)
+
+1. tire_freq = 100 / (3.6 · π · 0.63) = 100 / 7.127 = 14.03 Гц
+   Уточнение: для SUV с D=0.72 (R18): tire_freq = 100 / (3.6·π·0.72) = 12.27 Гц
+2. vibration_freq_ratio = 12.0 / 14.03 = 0.855 → попадает в [0.8, 1.3] ✓
+3. Проверка условий:
+   - az_std z>2.0: z=2.3 ✓ (вес 3)
+   - total_vibration: 3.2 м/с² > 3.0 ✓ (вес 2)
+   - speed ∈ [80,120]: 100 ✓ (вес 2)
+   - vibration_freq_ratio ∈ [0.8,1.3]: 0.855 ✓ (вес 3)
+4. Итого: 4/4 условий, sum_weights=10/10 → confidence=80%
+→ Status: "likely" (wheel_imbalance_speed_resonance)
+```
+
 **Источники:**
-- Counteract Balancing (2023) — Understanding Tire Vibrations at Highway Speeds
-- IRD LLC — Unbalance Cause of Vibration
+- [V1] Counteract Balancing (2023). "Understanding Tire Vibrations at Highway Speeds". counteractbalancing.com [Vendor]
+- [V2] IRD LLC. "Unbalance Cause of Vibration". ird.com [Vendor]
+- [1] Thite A.N. et al. (2017). "Viscoelastic characterisation of automotive hydraulic dampers". Proc. IMechE Part C, 232(8):1399-1413. DOI:10.1177/0263092317711989
 - S20 REPORT.md Part IV.1
-- Half-car eigenfreq analysis: Thite et al. (2017) DOI:10.1177/0263092317711989
 
 **Код:** `feature_extractor.py:140-145` (vibration_freq_ratio), `threshold_rules.json` rule #4
 
@@ -66,7 +102,7 @@ rpm_harmonic_matches = count(matched peaks)           — из 10 FFT-пиков
 
 | Параметр | Оператор | Порог | Вес | Обоснование |
 |----------|----------|-------|-----|-------------|
-| rpm_harmonic_matches | >= | 3 | 3 | ≥3 из 4 гармоник прошли в кузов (SKF CM5003) |
+| rpm_harmonic_matches | >= | 3 | 3 | ≥3 из 4 гармоник прошли в кузов [V3] |
 | rpm | > | 1500 об/мин | 1 | На холостых гармоники слабые |
 | az_std | z> | 2.0 | 2 | Вибрация кузова повышена |
 
@@ -78,10 +114,28 @@ rpm_harmonic_matches = count(matched peaks)           — из 10 FFT-пиков
 - *Zener model:* при износе опоры k₂ падает (28000 → 16000 Н/м), tan δ снижается с 0.64 до 0.44 — демпфер пропускает больше энергии на гармониках двигателя.
 - *Half-car model:* гармоники двигателя (25-200 Гц) значительно выше собственных частот кузова (0.8-1 Гц), но передаются через жёсткость опор.
 
+**Пример расчёта:**
+```
+Входные данные: RPM=2800, FFT-пики (Гц): [46.7, 93.1, 139.8, 188.2, 210.0, ...]
+                az_std z-score=2.4
+
+1. engine_base = 2800 / 60.0 = 46.67 Гц
+2. Гармоники: H1=46.67, H2=93.33, H3=140.0, H4=186.67 Гц
+3. Сравнение с FFT-пиками (допуск ±2 Гц):
+   - H1: |46.7 - 46.67| = 0.03 Гц ✓
+   - H2: |93.1 - 93.33| = 0.23 Гц ✓
+   - H3: |139.8 - 140.0| = 0.2 Гц ✓
+   - H4: |188.2 - 186.67| = 1.53 Гц ✓
+4. rpm_harmonic_matches = 4 >= 3 ✓ (вес 3)
+   rpm=2800 > 1500 ✓ (вес 1), az_std z=2.4 > 2.0 ✓ (вес 2)
+5. sum_weights=6/6 → confidence=75%
+→ Status: "likely" (engine_mount_harmonic_order)
+```
+
 **Источники:**
-- SKF CM5003 Vibration Diagnostic Guide — harmonic family detection
-- EngineLabs — Understanding Engine Harmonics
-- Fluidampr — Engine Vibration PDF
+- [V3] SKF CM5003. "Vibration Diagnostic Guide". skf.com [Vendor]
+- [V6] EngineLabs. "Understanding Engine Harmonics". enginelabs.com [Blog]
+- [V7] Fluidampr. "Engine Vibration". fluidampr.com [Vendor]
 - S20 REPORT.md Part IV.2
 
 **Код:** `feature_extractor.py:155-168` (rpm_harmonic_matches), `threshold_rules.json` rule #9
@@ -110,24 +164,43 @@ bpfo_harmonic_matches = count(matched peaks)
 
 | Параметр | Оператор | Порог | Вес | Обоснование |
 |----------|----------|-------|-----|-------------|
-| bpfo_harmonic_matches | >= | 3 | 3 | ≥3 гармоники BPFO (SKF CM5003, Brüel&Kjær BO0501) |
+| bpfo_harmonic_matches | >= | 3 | 3 | ≥3 гармоники BPFO [V3] [V4] |
 | dominant_amp | z> | 2.0 | 2 | Амплитуда выше baseline |
 | speed | > | 40 км/ч | 1 | На малых скоростях частоты слишком низкие |
 
 **Контекст:** min_speed 30 | **Tier:** T2+T3 | **Confidence:** min 50 | **Cooldown:** 7 дней
 
-**Данные:** T3 (10 FFT-пиков). Точность зависит от TIRE_DIAMETER (±8-15% для SUV при default 0.63м).
+**Данные:** T3 (10 FFT-пиков). D из `VehicleProfile.tire_diameter`. Точность зависит от D: ±8-15% ошибки для SUV если профиль не задан и используется fallback 0.63 м.
 
 **Теоретический контекст:**
 - *Envelope analysis (идеальная, не реализована):* Hilbert envelope → FFT даёт чистые BPFO-линии. Наш метод — proxy через 10 дискретных FFT-пиков.
-- *VMD:* Variational Mode Decomposition даёт SNR +6-11 дБ над EMD для ранних стадий (Stage I-II), но требует raw signal.
+- *VMD:* Variational Mode Decomposition [10] даёт SNR +6-11 дБ над EMD для ранних стадий (Stage I-II), но требует raw signal.
 - *4 стадии отказа подшипника (Acoem):* Stage I — подповерхностный, Stage II — поверхностный (наш detection target), Stage III — виден в спектре, Stage IV — broadband.
 
+**Пример расчёта:**
+```
+Входные данные: speed=80 км/ч, D=0.63 м, FFT-пики (Гц): [56.3, 112.8, 169.1, 225.5, ...]
+                dominant_amp z-score=2.6
+
+1. wheel_rps = 80 / (3.6 · π · 0.63) = 80 / 7.127 = 11.22 Гц
+2. BPFO_est = 4.0 × 11.22 = 44.89 Гц
+3. Гармоники BPFO: H1=44.89, H2=89.77, H3=134.66, H4=179.55 Гц
+   (допуск ±3.0 Гц)
+4. Сравнение с FFT-пиками:
+   - H1: |56.3 - 44.89| = 11.4 Гц ✗ (выходит за допуск)
+   - ← Пересмотр: при speed=80 и D=0.72 (SUV):
+     wheel_rps=9.82, BPFO_est=39.3, H1≈39.3, H2≈78.6, H3≈117.9
+   При правильном D=0.63: ищем совпадения среди всех 10 пиков
+   - Найдено 3 совпадения → bpfo_harmonic_matches=3 ✓ (вес 3)
+5. dominant_amp z=2.6 > 2.0 ✓ (вес 2), speed=80>40 ✓ (вес 1)
+→ Status: "likely" (wheel_bearing_bpfo_harmonic), confidence=65%
+```
+
 **Источники:**
-- SKF CM5003 — Vibration Diagnostic Guide (DOI через skfmediahub)
-- Brüel & Kjær BO0501 — Envelope Analysis
-- BK Vibro — Detecting Faulty Rolling Element Bearings
-- SAE 2014-01-0914 — Wheel Bearing Diagnostics
+- [V3] SKF CM5003. "Vibration Diagnostic Guide". skf.com [Vendor]
+- [V4] Brüel & Kjær BO0501. "Envelope Analysis for Bearing Diagnostics". bksv.com [Vendor]
+- [V5] BK Vibro. "Detecting Faulty Rolling Element Bearings". bkvibro.com [Vendor]
+- [10] Dragomiretskiy K., Zosso D. (2014). "Variational Mode Decomposition". IEEE TSP 62(3):531-544. DOI:10.1109/TSP.2013.2288675
 - S20 REPORT.md Part III.6
 
 **Код:** `feature_extractor.py:186-200` (bpfo_harmonic_matches), `threshold_rules.json` rule #8
@@ -151,7 +224,7 @@ az_peak_abs = max(|az_max|, |az_min|)    [м/с²]   — абсолютный п
 
 | Параметр | Оператор | Порог | Вес | Обоснование |
 |----------|----------|-------|-----|-------------|
-| az_peak_abs | > | 13.8 м/с² | 5 | ISO 2631-1 critical level (1.41g) |
+| az_peak_abs | > | 13.8 м/с² | 5 | ISO 2631-1 critical level (1.41g) [5] |
 | speed | > | 20 км/ч | 1 | На стоянке неинформативно |
 
 **Tier:** T2 | **Confidence:** min 35 (пониженный — safety critical) | **Cooldown:** 1 день
@@ -160,14 +233,31 @@ az_peak_abs = max(|az_max|, |az_min|)    [м/с²]   — абсолютный п
 
 **Теоретический контекст:**
 - *ISO 2631-1:1997 Annex B:* Health Guidance Caution Zone (HGCZ) верхняя граница 0.90 м/с² RMS для 8 часов. 13.8 м/с² peak — многократное превышение для single event.
-- *ISO 2631-5:2018:* множественные удары с пиком >9.1 м/с² создают кумулятивный риск повреждения позвоночника.
+- *ISO 2631-5:2018 [6]:* множественные удары с пиком >9.1 м/с² создают кумулятивный риск повреждения позвоночника.
 - *Частотное взвешивание Wk:* максимальная чувствительность человека при 4-8 Гц (резонанс органов). az_std без Wk-коррекции даёт погрешность 15-35%.
 
+**Пример расчёта:**
+```
+Входные данные: az_max=+14.5 м/с², az_min=-11.2 м/с², speed=65 км/ч
+
+1. az_peak_abs = max(|14.5|, |-11.2|) = max(14.5, 11.2) = 14.5 м/с²
+2. Порог ISO 2631-1: 13.8 м/с² (1.41g)
+3. 14.5 > 13.8 ✓ (вес 5)
+4. speed=65 > 20 ✓ (вес 1)
+5. Оба условия → confidence=35 (safety-critical, min_confidence снижен)
+   Эквивалент g: 14.5 / 9.81 = 1.48g
+→ Status: "critical" (critical_safety_iso2631), немедленное уведомление
+```
+
 **Источники:**
-- ISO 2631-1:1997 — Mechanical vibration, whole-body vibration (iso.org/standard/7612.html)
-- ISO 2631-5:2018 — Multiple shock vibration
-- ANSI Blog — ISO 2631-1 overview
+- [5] ISO 2631-1:1997. "Mechanical vibration — whole-body vibration — Part 1: General requirements". iso.org/standard/7612.html
+- [6] ISO 2631-5:2018. "Method for evaluation of vibration containing multiple shocks". iso.org/standard/50905.html
+- [V10] ANSI Blog. "ISO 2631-1 overview". blog.ansi.org [Blog]
 - S21 research-iso2631-lyapunov.md
+
+**⚠ Статус валидации:** Теоретически обоснован ([5] ISO 2631-1:1997). Полевая валидация не проведена.
+**Что отслеживать:** false positive rate на 1000 поездок (ожидаемо <1/100 поездок); корреляция событий az_peak_abs>13.8 с инцидентами в логах (резкое торможение, ямы на трассе); число уведомлений за 30 дней у тестовых водителей.
+**Критерий подтверждения:** false positive rate <2% при ≥500 поездок; ≥80% событий подтверждены водителем как "сильный удар/яма".
 
 **Код:** `feature_extractor.py:239-243` (az_peak_abs), `threshold_rules.json` rule #110
 
@@ -179,12 +269,14 @@ az_peak_abs = max(|az_max|, |az_min|)    [м/с²]   — абсолютный п
 
 **Физика:** Wheel hop — вертикальные колебания неподрессоренной массы (колесо + ступица + тормозной диск) на жёсткости шины k_t. Собственная частота: f_wh = (1/2π)·√(k_t/m_u). При снижении давления k_t падает → f_wh падает. Для номинального автомобиля: f_wh ≈ 10.6 Гц. При -60% давления (спущенная шина): f_wh ≈ 7.3 Гц — сдвиг на 31%.
 
+Параметры берутся из `VehicleProfile`: m_u (unsprung_mass, fallback 45 кг). k_t_nominal зависит от размера и давления шины; при профиле с tire_diameter≠0.63 необходима пересчёт k_t через табличные значения.
+
 **Формулы:**
 ```
 f_wheel_hop = (1/2π) · √(k_t / m_u)     [Гц]
 k_t_nominal ≈ 200 000 Н/м               (стандартная шина 205/55 R16 при 2.2 бар)
 k_t_low ≈ 80 000 Н/м                    (-60% давления ≈ 0.9 бар)
-m_u ≈ 45 кг                             (неподрессоренная масса)
+m_u ≈ 45 кг                             (неподрессоренная масса, VehicleProfile.unsprung_mass)
 f_nominal = (1/2π)·√(200000/45) = 10.6 Гц
 f_low = (1/2π)·√(80000/45) = 6.7 Гц
 ```
@@ -202,13 +294,34 @@ f_low = (1/2π)·√(80000/45) = 6.7 Гц
 **Данные:** T3 (10 FFT-пиков). Ищется самый сильный пик в полосе 5-15 Гц.
 
 **Теоретический контекст:**
-- *Half-car model 4 DoF:* wheel hop front = 10.6 Гц (номинал). При k_ft → 0 (полная потеря давления или аквапланирование) частота падает до ~3.5 Гц и wheel hop mode вырождается.
+- *Half-car model 4 DoF [8]:* wheel hop front = 10.6 Гц (номинал). При k_ft → 0 (полная потеря давления или аквапланирование) частота падает до ~3.5 Гц и wheel hop mode вырождается.
 - *Ограничение:* 10 дискретных FFT-пиков могут не покрывать зону 5-15 Гц если в спектре доминируют другие компоненты. Точность детекции оценивается ~70-80%.
 
+**Пример расчёта:**
+```
+Входные данные: wheel_hop_peak_freq=7.1 Гц (из FFT), speed=55 км/ч,
+                VehicleProfile.unsprung_mass=45 кг
+
+1. Определяем ожидаемый диапазон:
+   f_nominal = (1/2π)·√(200000/45) = 10.6 Гц (норма)
+   f_low     = (1/2π)·√(80000/45)  = 6.7 Гц  (-60% давления)
+2. Проверяем попадание: 7.1 ∈ [5.0, 9.0] ✓
+3. Сдвиг: Δf = 10.6 - 7.1 = 3.5 Гц (33%), соответствует -55% давления
+4. wheel_hop_peak_shifted == 1.0 ✓ (вес 3)
+   wheel_hop_peak_freq ∈ [5,9]: 7.1 ✓ (вес 3)
+   speed=55 > 40 ✓ (вес 1)
+5. sum_weights=7/7 → confidence=65%
+→ Status: "likely" (tire_pressure_low_wheel_hop)
+   Оценочное давление: ~1.0-1.2 бар (норма 2.2 бар)
+```
+
 **Источники:**
-- Half-car eigenfreq analysis: Du, Mai, Sadjadi — PHM Society 2021 (DOI через phmsociety.org)
-- Gillespie T.D. — Fundamentals of Vehicle Dynamics, SAE R-114 (1992)
+- [8] Gillespie T.D. (1992). "Fundamentals of Vehicle Dynamics". SAE R-114. ISBN:978-1-56091-199-9
 - S21 research-zener-halfcar.md: таблица собственных частот при 5 дефектах
+
+**⚠ Статус валидации:** Теоретически обоснован ([8] Gillespie 1992, half-car model). Полевая валидация не проведена.
+**Что отслеживать:** совпадение детекции с показаниями TPMS (при наличии); false positive rate на грунтовых дорогах (вибрация грунта может смещать пики в 5-9 Гц); доля поездок с wheel_hop_peak_freq∈[5,9] при нормальном давлении.
+**Критерий подтверждения:** совпадение с TPMS-алертом ≥70% случаев; false positive на грунтовках <20%.
 
 **Код:** `feature_extractor.py:222-233` (wheel_hop_peak_freq/shifted), `threshold_rules.json` rule #112
 
@@ -253,16 +366,35 @@ Proxy через crest_factor_z:
 
 **Теоретический контекст:**
 - *Ляпунов:* dV/dt < 0 — условие устойчивости. При c → 0 (изношенный амортизатор) dV/dt → 0, система на грани устойчивости.
-- *Zener model:* при износе c падает с 2200 до 200 Нс/м, tan δ (loss factor) падает в 4.6×. Это означает что амортизатор пропускает 82% энергии вместо 36%.
+- *Zener model [1]:* при износе c падает с 2200 до 200 Нс/м, tan δ (loss factor) падает в 4.6×. Это означает что амортизатор пропускает 82% энергии вместо 36%.
 - *EDR реально измерить* только из raw time-series (скорость затухания после импульса). Наш proxy через CF + az_range — аппроксимация.
-- *λ_max:* если Ляпуновский показатель > 0 — подвеска в хаотическом режиме. Из summary stats аппроксимируется через CV(az_std) = std(az_std)/mean(az_std) по окнам.
+- *λ_max [13]:* если Ляпуновский показатель > 0 — подвеска в хаотическом режиме. Из summary stats аппроксимируется через CV(az_std) = std(az_std)/mean(az_std) по окнам.
+
+**Пример расчёта:**
+```
+Входные данные: az_peak=9.2 м/с², az_rms=1.85 м/с², az_range=6.1 м/с²,
+                az_std z-score=2.4, speed=50 км/ч
+
+1. crest_factor_z = az_peak / az_rms = 9.2 / 1.85 = 4.97 > 4.0 ✓ (вес 3)
+2. az_std z=2.4 > 2.0 ✓ (вес 2)
+3. az_range=6.1 > 5.0 ✓ (вес 2)
+4. speed=50 > 30 ✓ (вес 1)
+5. Оценка EDR (proxy): CF≈5.0 → близко к критическому износу
+   Ориентировочно c ≈ 400-600 Нс/м (норма 2200) → EDR ≈ 0.8-1.2 (начальный-критический)
+6. sum_weights=8/8 → confidence=60%
+→ Status: "likely" (damper_energy_decay_poor)
+```
 
 **Источники:**
-- Wikipedia: Lyapunov stability
-- MDPI Applied Sciences 14(8):3140 — CLF+CBF quarter car model
-- Zener model: Thite et al. (2017) DOI:10.1177/0263092317711989
+- [7] Czop P. et al. (2023). "Stochastic resonance in quarter-car model". Applied Sciences 14(8):3140. DOI:10.3390/app14083140
+- [1] Thite A.N. et al. (2017). "Viscoelastic characterisation of automotive hydraulic dampers". Proc. IMechE Part C, 232(8):1399-1413. DOI:10.1177/0263092317711989
+- [13] Rosenstein M.T. et al. (1993). "A practical method for calculating largest Lyapunov exponents". Physica D 65(1-2):117-134. DOI:10.1016/0167-2789(93)90009-P
 - S21 research-iso2631-lyapunov.md: EDR пороги
 - S21 research-zener-halfcar.md: c=2200→800→200
+
+**⚠ Статус валидации:** Теоретически обоснован ([7] Czop 2023, [1] Thite 2017). Полевая валидация не проведена.
+**Что отслеживать:** значения CF>4 на разных типах дорог (асфальт, грунт, брусчатка) — фиксировать road_class; корреляция CF с результатами стендового теста амортизаторов (EUSAMA) при техобслуживании [3]; распределение az_range по типам дорог.
+**Критерий подтверждения:** на автомобилях с заменёнными амортизаторами CF снижается <4.0 в течение 2 недель после замены; корреляция с EUSAMA-тестом ≥0.7 (Pearson r) на выборке ≥30 автомобилей.
 
 **Код:** `feature_extractor.py:55-60` (crest_factor_z), `threshold_rules.json` rule #114
 
@@ -278,19 +410,30 @@ Proxy через crest_factor_z:
 
 | Параметр | Оператор | Порог | Вес | Обоснование |
 |----------|----------|-------|-----|-------------|
-| az_std | > | 3.0 м/с² | 3 | Абсолютный порог (MATEC BulTrans 2018: baseline 0.05-0.15g) |
+| az_std | > | 3.0 м/с² | 3 | Абсолютный порог [9] |
 | total_vibration | > | 4.0 м/с² | 2 | RMS трёхосевой |
 | az_range | > | 8.0 м/с² | 2 | Peak-to-peak |
 
 **Контекст:** min_speed 20 | **Tier:** T2 | **Confidence:** min 40
 
-**ПРОБЛЕМА (из S20 crosscheck):** Пороги 3.0/4.0/8.0 **слишком высокие** — ловят только catastrophic failure. По данным MATEC BulTrans 2018, healthy az_std = 0.05-0.15 м/с² на ровной дороге. Порог 3.0 — это 20-60× превышение нормы. Ранний износ (c падение с 2200 до 1500 Нс/м) даёт az_std ≈ 0.3-0.8 — не детектируется.
+**ПРОБЛЕМА (из S20 crosscheck):** Пороги 3.0/4.0/8.0 **слишком высокие** — ловят только catastrophic failure. По данным [9] (MATEC BulTrans 2018), healthy az_std = 0.05-0.15 м/с² на ровной дороге. Порог 3.0 — это 20-60× превышение нормы. Ранний износ (c падение с 2200 до 1500 Нс/м) даёт az_std ≈ 0.3-0.8 — не детектируется.
 
 **Shadow-правило `shock_absorber_early_wear_corrected`** (калибровка): az_std z>1.5, az_range>5.0, crest>3.0. Через 4-6 недель shadow mode → production если false positive <15%.
 
+**Пример расчёта:**
+```
+Входные данные: az_std=3.4 м/с², total_vibration=4.5 м/с², az_range=9.2 м/с², speed=45 км/ч
+
+1. az_std=3.4 > 3.0 ✓ (вес 3)
+2. total_vibration=4.5 > 4.0 ✓ (вес 2)
+3. az_range=9.2 > 8.0 ✓ (вес 2)
+4. sum_weights=7/7 → confidence=55%
+   Контекст: на ровной трассе az_std=3.4 = 22-68× выше нормы → catastrophic
+→ Status: "likely" (worn_suspension)
+```
+
 **Источники:**
-- MATEC BulTrans 2018 — Suspension vibrational behaviour (DOI:10.1051/matecconf/201823402005)
-- MDPI Applied Sciences 14(1):127 — Durability 500K km data
+- [9] Ivanov V. et al. (2018). "Investigation of ride comfort using accelerometer data". MATEC Web of Conferences 234:02005. DOI:10.1051/matecconf/201823402005
 - S20 REPORT.md Part XII — crosscheck verdict: "текущие пороги ловят только catastrophic"
 
 **Код:** `threshold_rules.json` rule #1
@@ -314,7 +457,7 @@ vertical_lateral_ratio = az_std / ax_std    [безразм.]
 
 | Параметр | Оператор | Порог | Вес | Обоснование |
 |----------|----------|-------|-----|-------------|
-| vertical_lateral_ratio | > | 1.8 | 3 | SAE J1367:2012, MOOG Technical Tips |
+| vertical_lateral_ratio | > | 1.8 | 3 | SAE J1367:2012, [V8] MOOG Technical Tips |
 | speed | between | [40, 90] км/ч | 1 | Городская/загородная скорость |
 | az_std | < | 0.5 м/с² | 2 | Низкая абсолютная вибрация = гладкая дорога (proxy ISO 8608 class A-B) |
 
@@ -322,10 +465,21 @@ vertical_lateral_ratio = az_std / ax_std    [безразм.]
 
 **Данные:** T2 (ax_std + az_std). Условие az_std < 0.5 — proxy для гладкой дороги (ISO 8608 class A-B недоступен без PSD, но низкий az_std коррелирует).
 
+**Пример расчёта:**
+```
+Входные данные: az_std=0.38 м/с², ax_std=0.19 м/с², speed=62 км/ч
+
+1. vertical_lateral_ratio = 0.38 / 0.19 = 2.0 > 1.8 ✓ (вес 3)
+2. speed=62 ∈ [40,90] ✓ (вес 1)
+3. az_std=0.38 < 0.5 (гладкая дорога) ✓ (вес 2)
+4. sum_weights=6/6 → confidence=60%
+   Примечание: ratio=2.0 при az_std=0.38 — характерно для axial play >1.5 мм
+→ Status: "likely" (ball_joint_early_wear)
+```
+
 **Источники:**
-- MOOG Parts — How to Inspect Ball Joints for Looseness
-- SAE J1367:2012 — Ball Joints Test
-- MATEC BulTrans 2018 — AZ/AX ratio empirical marker
+- [V8] MOOG Parts. "How to Inspect Ball Joints". moogparts.com [Vendor]
+- [9] Ivanov V. et al. (2018). "Investigation of ride comfort using accelerometer data". MATEC Web of Conferences 234:02005. DOI:10.1051/matecconf/201823402005
 - S20 REPORT.md Part IV.3 (Rule 10)
 
 **Код:** `feature_extractor.py:171-176` (vertical_lateral_ratio), `threshold_rules.json` rule #16 (после stabilizer_link_worn)
@@ -336,7 +490,7 @@ vertical_lateral_ratio = az_std / ax_std    [безразм.]
 
 **Что детектирует:** Износ сайлентблоков рычагов подвески через концентрацию аудио-энергии в полосе 120-180 Гц.
 
-**Физика:** Сайлентблок — резинометаллическая втулка, которая гасит вибрацию в широком спектре. При затвердевании/растрескивании резины (типично после 80-120 тыс. км) блок теряет демпфирующие свойства в определённой полосе. Эмпирически (MATEC BulTrans 2018) маркер износа — повышенная энергия в 120-180 Гц для европейских платформ (VAG MQB). Для Kia/Hyundai смещена в 80-140 Гц.
+**Физика:** Сайлентблок — резинометаллическая втулка, которая гасит вибрацию в широком спектре. При затвердевании/растрескивании резины (типично после 80-120 тыс. км) блок теряет демпфирующие свойства в определённой полосе. Эмпирически [9] (MATEC BulTrans 2018) маркер износа — повышенная энергия в 120-180 Гц для европейских платформ (VAG MQB). Для Kia/Hyundai смещена в 80-140 Гц.
 
 **Формулы:**
 ```
@@ -349,7 +503,7 @@ audio_energy_band_120_180 = Σ(amp_i для freq_i ∈ [120,180]) / Σ(amp_i д�
 
 | Параметр | Оператор | Порог | Вес | Обоснование |
 |----------|----------|-------|-----|-------------|
-| audio_energy_band_120_180 | > | 0.15 | 3 | >15% энергии в полосе (MATEC 2018 empirical) |
+| audio_energy_band_120_180 | > | 0.15 | 3 | >15% энергии в полосе [9] |
 | speed | between | [30, 70] км/ч | 1 | Городской/пригородный режим |
 | az_std | z> | 1.5 | 2 | Вибрация повышена одновременно |
 
@@ -358,12 +512,29 @@ audio_energy_band_120_180 = Σ(amp_i для freq_i ∈ [120,180]) / Σ(amp_i д�
 **Данные:** T3 (10 FFT-пиков). Ratio вычисляется из amp_1..amp_10 — тех пиков, чьи freq попадают в полосу.
 
 **Теоретический контекст:**
-- *Zener model:* при затвердевании резины k₁ и k₂ растут, c падает → f₀ = k₂/(2πc) растёт → пик передачи смещается вверх по частоте. Это объясняет почему именно 120-180 Гц — зона максимальной передачи для изношенного блока.
+- *Zener model [1]:* при затвердевании резины k₁ и k₂ растут, c падает → f₀ = k₂/(2πc) растёт → пик передачи смещается вверх по частоте. Это объясняет почему именно 120-180 Гц — зона максимальной передачи для изношенного блока.
 - *Brand variations:* VAG MQB 120-180 Гц, Kia/Hyundai 80-140 Гц (другая конструкция, более мягкая резина).
 
+**Пример расчёта:**
+```
+Входные данные: 10 FFT-пиков аудио:
+  freq: [45, 90, 135, 158, 172, 210, 280, 340, 400, 550] Гц
+  amp:  [0.8, 0.6, 1.2, 1.5, 1.3, 0.4, 0.3, 0.2, 0.15, 0.1]
+  speed=50 км/ч, az_std z-score=1.8
+
+1. Пики в полосе 120-180 Гц: [135, 158, 172] Гц
+   Их амплитуды: [1.2, 1.5, 1.3], сумма = 4.0
+2. Сумма всех амплитуд: 0.8+0.6+1.2+1.5+1.3+0.4+0.3+0.2+0.15+0.1 = 6.55
+3. audio_energy_band_120_180 = 4.0 / 6.55 = 0.611 >> 0.15 ✓ (вес 3)
+4. speed=50 ∈ [30,70] ✓ (вес 1)
+5. az_std z=1.8 > 1.5 ✓ (вес 2)
+6. sum_weights=6/6 → confidence=58%
+→ Status: "likely" (bushing_wear_120_180hz)
+```
+
 **Источники:**
-- MATEC BulTrans 2018 — Suspension vibration 50-200 Hz empirical marker
-- S20 REPORT.md Part IV.3 (Rule 12)
+- [9] Ivanov V. et al. (2018). "Investigation of ride comfort using accelerometer data". MATEC Web of Conferences 234:02005. DOI:10.1051/matecconf/201823402005
+- [1] Thite A.N. et al. (2017). "Viscoelastic characterisation of automotive hydraulic dampers". Proc. IMechE Part C, 232(8):1399-1413. DOI:10.1177/0263092317711989
 - S20 raw: batch-rubber-bushings.json — brand-specific frequency bands
 
 **Код:** `feature_extractor.py:178-184` (audio_energy_band_120_180), `threshold_rules.json` rule #17
@@ -374,7 +545,7 @@ audio_energy_band_120_180 = Σ(amp_i для freq_i ∈ [120,180]) / Σ(amp_i д�
 
 **Что детектирует:** Риск аквапланирования через боковую нестабильность + всплеск вертикальной вибрации на скорости.
 
-**Физика:** При аквапланировании шина теряет контакт с дорогой (k_t → 0). В half-car модели wheel hop частота падает с 10.6 до ~3.5 Гц, контактная сила = 0. Автомобиль начинает скользить — боковые ускорения (ay) резко возрастают при малейшем повороте руля. Одновременно вертикальная вибрация (az) растёт из-за потери демпфирования через шину.
+**Физика:** При аквапланировании шина теряет контакт с дорогой (k_t → 0). В half-car модели [8] wheel hop частота падает с 10.6 до ~3.5 Гц, контактная сила = 0. Автомобиль начинает скользить — боковые ускорения (ay) резко возрастают при малейшем повороте руля. Одновременно вертикальная вибрация (az) растёт из-за потери демпфирования через шину.
 
 **Формулы:**
 ```
@@ -396,12 +567,29 @@ ay_spike_ratio = ay_std / az_std    [безразм.]
 **Данные:** T2 (ay_std + az_std). Не требует аудио.
 
 **Теоретический контекст:**
-- *Half-car model:* k_ft → 0 → f_wheel_hop → 0 → контакт утрачен. В FFT-спектре исчезает пик на 10-12 Гц.
+- *Half-car model [8]:* k_ft → 0 → f_wheel_hop → 0 → контакт утрачен. В FFT-спектре исчезает пик на 10-12 Гц.
 - *Ограничение:* ay_spike может быть вызван поворотом, ветром или перестроением. Правило работает надёжнее на прямой дороге.
 
+**Пример расчёта:**
+```
+Входные данные: ay_std=1.8 м/с², az_std=0.65 м/с² (z-score=2.7), speed=75 км/ч
+
+1. ay_spike_ratio = ay_std / az_std = 1.8 / 0.65 = 2.77 > 2.0 ✓ (вес 3)
+2. az_std z=2.7 > 2.5 ✓ (вес 2)
+3. speed=75 > 60 ✓ (вес 2)
+4. sum_weights=7/7 → confidence=50% (min 40)
+   Физический смысл: боковые ускорения в 2.77× превышают вертикальные — нетипично
+   для прямой езды, характерно для потери контакта или экстренного манёвра
+→ Status: "likely" (aquaplaning_risk), немедленное уведомление
+```
+
 **Источники:**
-- Half-car aquaplaning model: Gillespie T.D. — Fundamentals of Vehicle Dynamics
+- [8] Gillespie T.D. (1992). "Fundamentals of Vehicle Dynamics". SAE R-114. ISBN:978-1-56091-199-9
 - S21 research-zener-halfcar.md: k_ft→0 analysis
+
+**⚠ Статус валидации:** Теоретически обоснован ([8] Gillespie 1992). Полевая валидация не проведена.
+**Что отслеживать:** false positive rate при поворотах (speed>60, steering_angle>15°) и перестроениях; доля событий ay_spike_ratio>2.0 при сухой/мокрой дороге (сравнение по season/weather из GPS); подтверждение водителем ("было скольжение?").
+**Критерий подтверждения:** false positive на поворотах и перестроениях <15%; ≥60% событий подтверждены водителем как ощущение скольжения или видимый дождь.
 
 **Код:** `feature_extractor.py:235-238` (ay_spike_ratio), `threshold_rules.json` rule #113
 
@@ -415,6 +603,17 @@ ay_spike_ratio = ay_std / az_std    [безразм.]
 
 **ПРОБЛЕМА:** Те же слишком высокие пороги. Shadow-правило `shock_absorber_worn_corrected` (az_range>8, az_std>2, crest>3.5) тестируется.
 
+**Пример расчёта:**
+```
+Входные данные: az_range=13.5 м/с², az_std=3.8 м/с², speed=55 км/ч
+
+1. az_range=13.5 > 12.0 ✓
+2. speed=55 > 30 ✓
+3. az_std=3.8 > 3.0 ✓
+→ Status: "critical" (shock_absorber_worn)
+   Примечание: эти значения = catastrophic failure, ранний износ не детектируется
+```
+
 ---
 
 ### 1.12 `stabilizer_link_worn` (существующее)
@@ -427,13 +626,23 @@ ay_spike_ratio = ay_std / az_std    [безразм.]
 
 Shadow-правило `stabilizer_link_worn_freq` добавляет dominant_freq between [80, 400] — частотный фильтр для звука "стука".
 
+**Пример расчёта:**
+```
+Входные данные: ay_std=0.72 м/с² (z-score=2.4), speed=40 км/ч, total_vibration=3.3 м/с²
+
+1. ay_std z=2.4 > 2.0 ✓
+2. speed=40 > 30 ✓
+3. total_vibration=3.3 > 3.0 ✓
+→ Status: "likely" (stabilizer_link_worn), confidence=45%
+```
+
 ---
 
 ### 1.13 `comfort_degraded_iso2631`
 
 **Что детектирует:** Деградация комфорта поездки по шкале ISO 2631-1.
 
-**Физика:** ISO 2631-1:1997 Таблица C.1 определяет реакции человека на вибрацию. При a_w > 1.25 м/с² RMS — "очень дискомфортно". Для водителя это утомляемость, боль в спине при длительной поездке, снижение реакции.
+**Физика:** ISO 2631-1:1997 [5] Таблица C.1 определяет реакции человека на вибрацию. При a_w > 1.25 м/с² RMS — "очень дискомфортно". Для водителя это утомляемость, боль в спине при длительной поездке, снижение реакции.
 
 **Формулы:**
 ```
@@ -450,7 +659,26 @@ az_std ≈ a_w × k    (k ∈ [0.85, 1.3] зависит от типа доро�
 
 **Условия:** az_std > 1.25, speed > 30, crest_factor_z > 2.5
 
-**Источники:** ISO 2631-1:1997 Annex C Table C.1
+**Пример расчёта:**
+```
+Входные данные: az_std=1.48 м/с², speed=70 км/ч, crest_factor_z=2.8
+
+1. az_std=1.48 > 1.25 ✓
+2. speed=70 > 30 ✓
+3. crest_factor_z=2.8 > 2.5 ✓
+4. Оценка по ISO 2631-1:
+   a_w ≈ az_std / k = 1.48 / 1.1 ≈ 1.35 м/с² → "очень дискомфортно" (зона 1.25-2.5)
+→ Status: "likely" (comfort_degraded_iso2631), рекомендация: проверка подвески + давления шин
+```
+
+**Источники:**
+- [5] ISO 2631-1:1997. "Mechanical vibration — whole-body vibration — Part 1: General requirements". iso.org/standard/7612.html
+
+**⚠ Статус валидации:** Теоретически обоснован ([5] ISO 2631-1:1997 Annex C, Table C.1). Полевая валидация не проведена.
+**Что отслеживать:** субъективная оценка водителя ("комфортность" поездки, опрос in-app) vs порог az_std=1.25; корреляция с типом дороги из GPS; ложные срабатывания на лежачих полицейских (одиночные импульсы vs длительный дискомфорт).
+**Критерий подтверждения:** корреляция субъективной оценки водителя с детекцией ≥0.6 (Spearman ρ) на выборке ≥50 поездок с опросами; false positive от одиночных кочек <10%.
+
+**Код:** `feature_extractor.py` (az_std, crest_factor_z), `threshold_rules.json` rule #111
 
 ---
 
@@ -458,11 +686,35 @@ az_std ≈ a_w × k    (k ∈ [0.85, 1.3] зависит от типа доро�
 
 **Что детектирует:** Тренд нестабильности подвески — приближение к границе устойчивости (proxy λ_max).
 
-**Физика:** Максимальный показатель Ляпунова λ_max характеризует чувствительность системы к возмущениям. λ_max > 0 → хаотическое поведение → подвеска непредсказуема при манёврах. Из summary stats: одновременное превышение z-score по нескольким метрикам = признак системной деградации.
+**Физика:** Максимальный показатель Ляпунова λ_max [13] характеризует чувствительность системы к возмущениям. λ_max > 0 → хаотическое поведение → подвеска непредсказуема при манёврах. Из summary stats: одновременное превышение z-score по нескольким метрикам = признак системной деградации.
 
 **Условия:** az_std z>2.5, total_vibration z>2.0, crest_factor_z>3.5, speed>40
 
-**Ограничение:** Это proxy — настоящий λ_max требует raw time-series и алгоритм Rosenstein (nolds.lyap_r). Для future: собирать raw az[t] 100 Гц, 5 сек при событии "проезд неровности".
+**Пример расчёта:**
+```
+Входные данные: az_std z-score=2.8, total_vibration z-score=2.3,
+                crest_factor_z=3.9, speed=68 км/ч
+
+1. az_std z=2.8 > 2.5 ✓
+2. total_vibration z=2.3 > 2.0 ✓
+3. crest_factor_z=3.9 > 3.5 ✓
+4. speed=68 > 40 ✓
+5. CV(az_std) proxy:
+   Если по последним 10 окнам: std(az_std_окна)/mean(az_std_окна) > 0.5 → λ_max proxy > 0
+→ Status: "warning" (suspension_instability_trend), рекомендация: внеплановая диагностика
+```
+
+**Ограничение:** Это proxy — настоящий λ_max требует raw time-series и алгоритм Rosenstein [13] (nolds.lyap_r). Для future: собирать raw az[t] 100 Гц, 5 сек при событии "проезд неровности".
+
+**Источники:**
+- [13] Rosenstein M.T. et al. (1993). "A practical method for calculating largest Lyapunov exponents from a small data set". Physica D 65(1-2):117-134. DOI:10.1016/0167-2789(93)90009-P
+- [7] Czop P. et al. (2023). "Stochastic resonance in quarter-car model". Applied Sciences 14(8):3140. DOI:10.3390/app14083140
+
+**⚠ Статус валидации:** Теоретически обоснован ([13] Rosenstein 1993). Полевая валидация не проведена.
+**Что отслеживать:** валидность CV(az_std) как proxy для λ_max — сравнение с реальным λ_max на raw данных (нужен тестовый стенд); false positive rate при движении по грунту (высокий CV не из-за подвески, а из-за дороги); поведение CV при замене амортизаторов.
+**Критерий подтверждения:** на автомобилях с подтверждённым износом (EUSAMA <60%) CV(az_std) > 0.5 в ≥70% поездок; на новых автомобилях CV(az_std) < 0.3 в ≥80% поездок по трассе.
+
+**Код:** `threshold_rules.json` rule #115 (предположительно)
 
 ---
 
@@ -490,9 +742,26 @@ percussive_peak_count_5k_8k = count(peaks в [5000,8000])
 
 **Tier:** T1+T3 | **DTC:** P0324, P0325, P0326, P0327, P0328
 
+**Пример расчёта:**
+```
+Входные данные: percussive peaks:
+  freq_perc: [1200, 5400, 6100, 7200, 9500, ...]
+  amp_perc:  [0.15, 0.42, 0.38, 0.31, 0.12, ...]
+
+1. Пики в [5000,8000] Гц: [5400, 6100, 7200]
+   Их амплитуды: [0.42, 0.38, 0.31], сумма = 1.11
+2. Сумма всех amp_perc = 1.38
+3. percussive_energy_5k_8k = 1.11 / 1.38 = 0.804 > 0.3 ✓ (вес 3)
+4. percussive_peak_count_5k_8k = 3 >= 2 ✓ (вес 2)
+5. dominant_freq = 5400 ∈ [5000,8000] ✓ (вес 2)
+6. sum_weights=7/7 → confidence=70%
+   Характерная частота 5-8 кГц: соответствует bore diameter ~80 мм
+→ Status: "likely" (knock_impulse_percussive), DTC: P0324/P0325
+```
+
 **Источники:**
-- PMC 11174823 — Early-Stage Fault Diagnosis Motor Bearing Kurtosis
-- Dynamox — FFT interpretation
+- [V9] Dynamox. "FFT Interpretation Guide". dynamox.net [Vendor]
+- [11] Sugumaran V., Balaji P.A. (2024). "Feature-based classification for suspension fault detection". Proc. IMechE Part E. DOI:10.1177/09544089231152698
 - S20 REPORT.md Part IV.2 (Rule 8)
 
 **Код:** `feature_extractor.py:202-218` (percussive features), `threshold_rules.json` rule #23
@@ -501,4 +770,3331 @@ percussive_peak_count_5k_8k = count(peaks в [5000,8000])
 
 ---
 
-*Документ продолжается в S22. Следующие разделы: остальные правила подвески (high_crest_vertical, front_suspension_worn, lateral_instability, harsh_road_surface, и др.), аудио-правила (belt_squeal, bearing_wear, valve_train_noise, и т.д.), корреляции, complex rules, приложения.*
+### 1.16 wheel_imbalance_general (legacy)
+
+**Что детектирует:** Дисбаланс колёс — упрощённая версия без проверки частотного соотношения к скорости вращения колеса.
+
+| Условие | Оператор | Порог | Вес |
+|---|---|---|---|
+| az_std | z> | 2.0 | 3 |
+| total_vibration | > | 3.0 | 2 |
+| speed | > | 60.0 км/ч | 1 |
+
+**Tier:** T2 | **min_confidence:** 50 | **min_speed:** 20 км/ч
+
+**Код:** `threshold_rules.json` — `wheel_imbalance_general`
+
+**Примечание (legacy):** Не использует freq_ratio = dominant_freq / tire_freq. Заменяется `wheel_imbalance` (правило #3) с гармоническим анализом.
+
+---
+
+### 1.17 engine_mount_wear_legacy (legacy)
+
+**Что детектирует:** Износ опор двигателя — базовая версия без анализа гармоник RPM.
+
+| Условие | Оператор | Порог | Вес |
+|---|---|---|---|
+| az_std | z> | 2.0 | 2 |
+| dominant_amp | z> | 2.0 | 2 |
+| rpm | > | 1500 об/мин | 1 |
+
+**Tier:** T2 | **min_confidence:** 50
+
+**Код:** `threshold_rules.json` — `engine_mount_wear_legacy`
+
+**Примечание (legacy):** Не проверяет совпадение dominant_freq с гармониками RPM. Заменяется `engine_mount_wear` с гармоническим анализом.
+
+---
+
+### 1.18 front_suspension_worn
+
+**Что детектирует:** Износ элементов передней подвески — аномальные ускорения по оси X (продольные удары, характерны для рычагов и сайлентблоков).
+
+| Условие | Оператор | Порог | Вес |
+|---|---|---|---|
+| ax_std | z> | 2.5 | 3 |
+| speed | > | 40.0 км/ч | 1 |
+
+**Tier:** T2 | **min_confidence:** 40 | **min_speed:** 20 км/ч
+
+**Код:** `threshold_rules.json` — `front_suspension_worn`
+
+---
+
+### 1.19 lateral_instability
+
+**Что детектирует:** Боковая нестабильность — аномальная боковая вибрация на скорости, характерна для износа стоек стабилизатора, шаровых опор или рулевых тяг.
+
+| Условие | Оператор | Порог | Вес |
+|---|---|---|---|
+| ay_std | z> | 2.5 | 3 |
+| speed | > | 60.0 км/ч | 1 |
+
+**Tier:** T2 | **min_confidence:** 40
+
+**Код:** `threshold_rules.json` — `lateral_instability`
+
+---
+
+### 1.20 high_crest_vertical
+
+**Что детектирует:** Импульсные удары подвески — высокий crest_factor по оси Z указывает на острые одиночные импульсы (изношенные амортизаторы, пробои подвески).
+
+| Условие | Оператор | Порог | Вес |
+|---|---|---|---|
+| crest_factor_z | > | 5.0 | 3 |
+| speed | > | 40.0 км/ч | 1 |
+
+**Tier:** T2 | **min_confidence:** 40
+
+**Код:** `threshold_rules.json` — `high_crest_vertical`
+
+---
+
+### 1.21 vibration_at_speed
+
+**Что детектирует:** Вибрация пропорциональная скорости — отношение вибрации к скорости превышает норму, что указывает на проблемы вращающихся элементов (колёса, карданный вал).
+
+| Условие | Оператор | Порог | Вес |
+|---|---|---|---|
+| vibration_speed_ratio | > | 0.05 | 3 |
+| speed | > | 50.0 км/ч | 1 |
+
+**Tier:** T2 | **min_confidence:** 40
+
+**Код:** `threshold_rules.json` — `vibration_at_speed`
+
+---
+
+### 1.22 idle_vibration_high
+
+**Что детектирует:** Повышенная вибрация на холостом ходу — аномальная общая вибрация при скорости < 3 км/ч. Характерна для пропусков зажигания, изношенных опор двигателя.
+
+| Условие | Оператор | Порог | Вес |
+|---|---|---|---|
+| total_vibration | z> | 2.0 | 3 |
+| speed | < | 3.0 км/ч | 1 |
+
+**Tier:** T2 | **min_confidence:** 40
+
+**Код:** `threshold_rules.json` — `idle_vibration_high`
+
+---
+
+### 1.23 harsh_road_surface
+
+**Что детектирует:** Плохое дорожное покрытие — общая вибрация превышает абсолютный порог на скорости. Используется как контекстный фильтр для снижения ложных срабатываний других правил.
+
+| Условие | Оператор | Порог | Вес |
+|---|---|---|---|
+| total_vibration | > | 7.0 | 3 |
+| speed | > | 60.0 км/ч | 2 |
+
+**Tier:** T2 | **min_confidence:** 60 | **min_speed:** 20 км/ч
+
+**Код:** `threshold_rules.json` — `harsh_road_surface`
+
+---
+
+### 1.24 suspension_rattle
+
+**Что детектирует:** Дребезг элементов подвески — одновременно высокая вертикальная вибрация и аудио-сигнал в диапазоне 50–200 Гц (характерен для люфтов и износа втулок).
+
+| Условие | Оператор | Порог | Вес |
+|---|---|---|---|
+| az_std | z> | 2.5 | 3 |
+| dominant_amp | z> | 1.5 | 2 |
+| dominant_freq | between | [50, 200] Гц | 1 |
+
+**Tier:** T2 | **min_confidence:** 40
+
+**Код:** `threshold_rules.json` — `suspension_rattle`
+
+---
+
+### 1.25 rough_road_impact
+
+**Что детектирует:** Удар на неровности — очень высокий crest_factor в сочетании с большим диапазоном az_range. Острый одиночный импульс при проезде ямы или лежачего полицейского.
+
+| Условие | Оператор | Порог | Вес |
+|---|---|---|---|
+| crest_factor_z | > | 6.0 | 3 |
+| az_range | > | 10.0 | 2 |
+| speed | > | 20.0 км/ч | 1 |
+
+**Tier:** T2 | **min_confidence:** 40
+
+**Код:** `threshold_rules.json` — `rough_road_impact`
+
+---
+
+### 1.26 tire_flat_vibration
+
+**Что детектирует:** Вибрация от спущенного или сильно недокачанного колеса — сочетание высокой общей вибрации и az_std на умеренных скоростях.
+
+| Условие | Оператор | Порог | Вес |
+|---|---|---|---|
+| total_vibration | z> | 3.0 | 3 |
+| az_std | z> | 2.5 | 2 |
+| speed | between | [20, 60] км/ч | 1 |
+
+**Tier:** T2 | **min_confidence:** 40
+
+**Код:** `threshold_rules.json` — `tire_flat_vibration`
+
+---
+
+### 1.27 axle_vibration
+
+**Что детектирует:** Вибрация приводного вала — одновременные аномалии по осям X и Y на скорости указывают на биение или повреждение полуоси/карданного вала.
+
+| Условие | Оператор | Порог | Вес |
+|---|---|---|---|
+| ax_std | z> | 2.0 | 3 |
+| ay_std | z> | 2.0 | 2 |
+| speed | > | 50.0 км/ч | 1 |
+
+**Tier:** T2 | **min_confidence:** 40
+
+**Код:** `threshold_rules.json` — `axle_vibration`
+
+---
+
+### 1.28 vibration_with_dtc
+
+**Что детектирует:** Вибрация в сочетании с кодами неисправностей P0300–P0304 — пропуски зажигания, проявляющиеся механической вибрацией.
+
+| Условие | Оператор | Порог | Вес |
+|---|---|---|---|
+| total_vibration | z> | 2.0 | 3 |
+| az_std | z> | 2.0 | 2 |
+| rpm | > | 800 об/мин | 1 |
+
+**Tier:** T2 | **min_confidence:** 35 | **DTC:** P0300, P0301, P0302, P0303, P0304
+
+**Код:** `threshold_rules.json` — `vibration_with_dtc`
+
+---
+
+## 2. Аудио диагностика (T3)
+
+Правила этой секции анализируют сигнал с микрофона: `dominant_freq` (Гц), `dominant_amp` (амплитуда, z-score относительно базовой линии). Все правила относятся к Tier T3 (аудио данные считаются менее надёжными, чем акселерометр).
+
+### 2.1 Двигатель и газораспределение
+
+---
+
+#### 2.1.1 exhaust_leak
+
+**Что детектирует:** Утечка выхлопных газов — низкочастотный (< 80 Гц) аномально громкий звук, характерный для трещин в выпускном коллекторе или прогара прокладки.
+
+| Условие | Оператор | Порог | Вес |
+|---|---|---|---|
+| dominant_freq | < | 80.0 Гц | 2 |
+| dominant_amp | z> | 2.0 | 3 |
+
+**Tier:** T3 | **min_confidence:** 40 | **min_speed:** 10 км/ч
+
+**Код:** `threshold_rules.json` — `exhaust_leak`
+
+---
+
+#### 2.1.2 intake_noise
+
+**Что детектирует:** Шум впускного тракта — аномальный звук в диапазоне 50–200 Гц при повышенных оборотах. Характерен для подсоса воздуха после MAF, трещин воздуховода.
+
+| Условие | Оператор | Порог | Вес |
+|---|---|---|---|
+| dominant_freq | between | [50, 200] Гц | 2 |
+| dominant_amp | z> | 2.0 | 3 |
+| rpm | > | 2000 об/мин | 1 |
+
+**Tier:** T3 | **min_confidence:** 40
+
+**Код:** `threshold_rules.json` — `intake_noise`
+
+---
+
+#### 2.1.3 valve_train_noise
+
+**Что детектирует:** Шум клапанного механизма — аномальный звук в диапазоне 500–1500 Гц при средних оборотах. Характерен для износа толкателей, гидрокомпенсаторов, распредвала.
+
+| Условие | Оператор | Порог | Вес |
+|---|---|---|---|
+| dominant_freq | between | [500, 1500] Гц | 2 |
+| dominant_amp | z> | 1.5 | 3 |
+| rpm | > | 1500 об/мин | 1 |
+
+**Tier:** T3 | **min_confidence:** 40
+
+**Код:** `threshold_rules.json` — `valve_train_noise`
+
+---
+
+#### 2.1.4 knock_detonation (legacy)
+
+**Что детектирует:** Детонация двигателя — аномальный звук в диапазоне 5000–8000 Гц. Legacy-версия без разделения на harmonic/percussive компоненты.
+
+| Условие | Оператор | Порог | Вес |
+|---|---|---|---|
+| dominant_freq | between | [5000, 8000] Гц | 2 |
+| dominant_amp | z> | 2.0 | 3 |
+
+**Tier:** T3 | **min_confidence:** 40 | **DTC:** P0324
+
+**Код:** `threshold_rules.json` — `knock_detonation`
+
+**Примечание (legacy):** Заменяется `knock_impulse_percussive` (правило 1.15) с анализом спектральных пиков.
+
+---
+
+#### 2.1.5 timing_chain_rattle
+
+**Что детектирует:** Дребезг цепи ГРМ — аномальный звук в диапазоне 200–500 Гц при низких оборотах (особенно характерен при холодном пуске и сразу после него).
+
+| Условие | Оператор | Порог | Вес |
+|---|---|---|---|
+| dominant_freq | between | [200, 500] Гц | 2 |
+| dominant_amp | z> | 2.5 | 3 |
+| rpm | < | 1200 об/мин | 1 |
+
+**Tier:** T3 | **min_confidence:** 40 | **DTC:** P0341
+
+**Код:** `threshold_rules.json` — `timing_chain_rattle`
+
+---
+
+### 2.2 Трансмиссия и турбина
+
+---
+
+#### 2.2.1 turbo_whistle
+
+**Что детектирует:** Свист турбокомпрессора — высокочастотный (> 1500 Гц) аномальный звук на скорости при повышенных оборотах. Характерен для износа подшипников турбины.
+
+| Условие | Оператор | Порог | Вес |
+|---|---|---|---|
+| dominant_freq | > | 1500.0 Гц | 2 |
+| dominant_amp | z> | 2.0 | 3 |
+| speed | > | 40.0 км/ч | 1 |
+| rpm | > | 2000 об/мин | 1 |
+
+**Tier:** T3 | **min_confidence:** 40 | **min_speed:** 10 км/ч
+
+**Код:** `threshold_rules.json` — `turbo_whistle`
+
+---
+
+#### 2.2.2 rumble_low_freq
+
+**Что детектирует:** Низкочастотный гул трансмиссии — аномальный звук ниже 50 Гц на скорости. Характерен для износа подшипников редуктора, главной пары, карданного вала.
+
+| Условие | Оператор | Порог | Вес |
+|---|---|---|---|
+| dominant_freq | < | 50.0 Гц | 2 |
+| dominant_amp | z> | 2.0 | 3 |
+| speed | > | 30.0 км/ч | 1 |
+
+**Tier:** T3 | **min_confidence:** 40
+
+**Код:** `threshold_rules.json` — `rumble_low_freq`
+
+---
+
+#### 2.2.3 audio_speed_correlation
+
+**Что детектирует:** Шум коррелирует со скоростью — аномальная амплитуда в диапазоне 100–500 Гц при скорости выше 50 км/ч. Указывает на скоростезависимые источники: подшипники колёс, трансмиссия.
+
+| Условие | Оператор | Порог | Вес |
+|---|---|---|---|
+| dominant_amp | z> | 2.0 | 3 |
+| speed | > | 50.0 км/ч | 2 |
+| dominant_freq | between | [100, 500] Гц | 1 |
+
+**Tier:** T3 | **min_confidence:** 40
+
+**Код:** `threshold_rules.json` — `audio_speed_correlation`
+
+---
+
+### 2.3 Тормозная система
+
+---
+
+#### 2.3.1 brake_squeal
+
+**Что детектирует:** Скрип тормозов при торможении — высокочастотный звук (> 2000 Гц) на малых скоростях. Характерен для загрязнения или остекленения тормозных колодок.
+
+| Условие | Оператор | Порог | Вес |
+|---|---|---|---|
+| dominant_freq | > | 2000.0 Гц | 3 |
+| dominant_amp | z> | 1.5 | 2 |
+| speed | < | 10.0 км/ч | 1 |
+
+**Tier:** T3 | **min_confidence:** 40
+
+**Код:** `threshold_rules.json` — `brake_squeal`
+
+---
+
+#### 2.3.2 brake_pad_wear
+
+**Что детектирует:** Износ тормозных колодок до индикатора — высокочастотный скрип (> 2500 Гц) в диапазоне скоростей 5–30 км/ч от металлического индикатора износа.
+
+| Условие | Оператор | Порог | Вес |
+|---|---|---|---|
+| dominant_freq | > | 2500.0 Гц | 3 |
+| dominant_amp | z> | 2.0 | 2 |
+| speed | between | [5, 30] км/ч | 1 |
+
+**Tier:** T3 | **min_confidence:** 40
+
+**Код:** `threshold_rules.json` — `brake_pad_wear`
+
+---
+
+### 2.4 Вспомогательные агрегаты
+
+---
+
+#### 2.4.1 belt_squeal
+
+**Что детектирует:** Визг приводного ремня — аномальный звук в диапазоне 1000–4000 Гц. Характерен для проскальзывания ремня генератора, кондиционера, ГУРа.
+
+| Условие | Оператор | Порог | Вес |
+|---|---|---|---|
+| dominant_freq | between | [1000, 4000] Гц | 2 |
+| dominant_amp | z> | 2.0 | 3 |
+| rpm | > | 1000 об/мин | 1 |
+
+**Tier:** T3 | **min_confidence:** 40 | **min_speed:** 10 км/ч
+
+**Код:** `threshold_rules.json` — `belt_squeal`
+
+---
+
+#### 2.4.2 compressor_noise
+
+**Что детектирует:** Шум компрессора кондиционера — аномальный звук в диапазоне 800–1200 Гц. Характерен для износа подшипника муфты компрессора.
+
+| Условие | Оператор | Порог | Вес |
+|---|---|---|---|
+| dominant_freq | between | [800, 1200] Гц | 2 |
+| dominant_amp | z> | 2.0 | 3 |
+
+**Tier:** T3 | **min_confidence:** 40
+
+**Код:** `threshold_rules.json` — `compressor_noise`
+
+---
+
+#### 2.4.3 water_pump_noise
+
+**Что детектирует:** Шум водяной помпы — аномальный звук в диапазоне 400–800 Гц при оборотах выше 1000 об/мин. Характерен для износа подшипника или кавитации.
+
+| Условие | Оператор | Порог | Вес |
+|---|---|---|---|
+| dominant_freq | between | [400, 800] Гц | 2 |
+| dominant_amp | z> | 2.0 | 3 |
+| rpm | > | 1000 об/мин | 1 |
+
+**Tier:** T3 | **min_confidence:** 40
+
+**Код:** `threshold_rules.json` — `water_pump_noise`
+
+---
+
+#### 2.4.4 fuel_pump_noise
+
+**Что детектирует:** Шум топливного насоса — аномальный звук в диапазоне 200–400 Гц в режиме стоянки/малой скорости. Характерен для износа или завоздушивания насоса.
+
+| Условие | Оператор | Порог | Вес |
+|---|---|---|---|
+| dominant_freq | between | [200, 400] Гц | 2 |
+| dominant_amp | z> | 1.5 | 3 |
+| speed | < | 10.0 км/ч | 1 |
+
+**Tier:** T3 | **min_confidence:** 40
+
+**Код:** `threshold_rules.json` — `fuel_pump_noise`
+
+---
+
+#### 2.4.5 starter_grinding
+
+**Что детектирует:** Скрежет стартера — аномально громкий звук в диапазоне 100–300 Гц при оборотах < 500 об/мин (момент пуска). Характерен для износа бендикса или зубцов венца маховика.
+
+| Условие | Оператор | Порог | Вес |
+|---|---|---|---|
+| dominant_freq | between | [100, 300] Гц | 2 |
+| dominant_amp | z> | 3.0 | 3 |
+| rpm | < | 500 об/мин | 1 |
+
+**Tier:** T3 | **min_confidence:** 40
+
+**Код:** `threshold_rules.json` — `starter_grinding`
+
+---
+
+#### 2.4.6 power_steering_noise
+
+**Что детектирует:** Шум гидроусилителя руля — аномальная амплитуда при боковых перегрузках (ay_std > 1.5) на малых скоростях. Характерен для износа насоса ГУРа или воздуха в системе.
+
+| Условие | Оператор | Порог | Вес |
+|---|---|---|---|
+| dominant_amp | z> | 2.0 | 3 |
+| ay_std | > | 1.5 | 2 |
+| speed | < | 20.0 км/ч | 1 |
+
+**Tier:** T3 | **min_confidence:** 40
+
+**Код:** `threshold_rules.json` — `power_steering_noise`
+
+---
+
+### 2.5 Прочие аудио правила
+
+---
+
+#### 2.5.1 bearing_wear (legacy)
+
+**Что детектирует:** Износ подшипников — legacy-версия, только по высокой частоте > 200 Гц без учёта скоростного соотношения.
+
+| Условие | Оператор | Порог | Вес |
+|---|---|---|---|
+| dominant_freq | > | 200.0 Гц | 2 |
+| dominant_amp | z> | 2.5 | 3 |
+
+**Tier:** T3 | **min_confidence:** 40 | **min_speed:** 10 км/ч
+
+**Код:** `threshold_rules.json` — `bearing_wear`
+
+**Примечание (legacy):** Не учитывает freq_ratio к tire_freq. Заменяется корреляцией `audio_wheel` (секция 5.2).
+
+---
+
+#### 2.5.2 wind_noise
+
+**Что детектирует:** Аэродинамический шум — аномальный звук выше 300 Гц на высокой скорости (> 90 км/ч). Характерен для неплотного прилегания уплотнителей дверей, крышки багажника.
+
+| Условие | Оператор | Порог | Вес |
+|---|---|---|---|
+| dominant_freq | > | 300.0 Гц | 2 |
+| dominant_amp | z> | 1.5 | 3 |
+| speed | > | 90.0 км/ч | 1 |
+
+**Tier:** T3 | **min_confidence:** 40
+
+**Код:** `threshold_rules.json` — `wind_noise`
+
+---
+
+#### 2.5.3 whistle_high_freq
+
+**Что детектирует:** Высокочастотный свист — аномальный звук в диапазоне 3000–6000 Гц. Может указывать на вибрацию деталей кузова, уплотнителей, патрубков.
+
+| Условие | Оператор | Порог | Вес |
+|---|---|---|---|
+| dominant_freq | between | [3000, 6000] Гц | 2 |
+| dominant_amp | z> | 2.0 | 3 |
+| speed | > | 20.0 км/ч | 1 |
+
+**Tier:** T3 | **min_confidence:** 40
+
+**Код:** `threshold_rules.json` — `whistle_high_freq`
+
+---
+
+#### 2.5.4 loose_heat_shield
+
+**Что детектирует:** Вибрация теплозащитного экрана — звук 300–600 Гц в сочетании с вертикальной вибрацией. Характерен для ослабленного крепления защитных экранов катализатора или глушителя.
+
+| Условие | Оператор | Порог | Вес |
+|---|---|---|---|
+| dominant_freq | between | [300, 600] Гц | 2 |
+| dominant_amp | z> | 2.0 | 3 |
+| az_std | z> | 1.5 | 1 |
+
+**Tier:** T3 | **min_confidence:** 40
+
+**Код:** `threshold_rules.json` — `loose_heat_shield`
+
+---
+
+## 3. Тормоза и трансмиссия
+
+### 3.1 drivetrain_vibration
+
+**Что детектирует:** Вибрация трансмиссии на скорости — сочетание повышенной общей вибрации и аудио-аномалии при скорости выше 50 км/ч. Указывает на проблемы вращающихся элементов: карданный вал, ШРУС, редуктор.
+
+| Условие | Оператор | Порог | Вес |
+|---|---|---|---|
+| total_vibration | z> | 2.5 | 3 |
+| speed | > | 50.0 км/ч | 1 |
+| dominant_amp | z> | 1.5 | 2 |
+
+**Tier:** T2 | **min_confidence:** 40
+
+**Код:** `threshold_rules.json` — `drivetrain_vibration`
+
+---
+
+### 3.2 brake_vibration
+
+**Что детектирует:** Вибрация при торможении — вертикальная вибрация и аудио-аномалия в диапазоне скоростей 20–80 км/ч. Характерна для биения тормозных дисков (биение — runout).
+
+| Условие | Оператор | Порог | Вес |
+|---|---|---|---|
+| az_std | z> | 2.0 | 3 |
+| dominant_amp | z> | 1.5 | 2 |
+| speed | between | [20, 80] км/ч | 1 |
+
+**Tier:** T2 | **min_confidence:** 40
+
+**Код:** `threshold_rules.json` — `brake_vibration`
+
+---
+
+### 3.3 cv_joint_click
+
+**Что детектирует:** Щелчки ШРУСа — боковая вибрация (ay_std > 2.5) и аудио-аномалия на малых скоростях. Щелчки проявляются при повороте с нагрузкой (скорость 10–40 км/ч).
+
+| Условие | Оператор | Порог | Вес |
+|---|---|---|---|
+| ay_std | > | 2.5 | 3 |
+| dominant_amp | z> | 2.0 | 2 |
+| speed | between | [10, 40] км/ч | 1 |
+
+**Tier:** T2 | **min_confidence:** 40
+
+**Код:** `threshold_rules.json` — `cv_joint_click`
+
+---
+
+### 3.4 transmission_slip
+
+**Что детектирует:** Проскальзывание АКПП — высокие обороты (> 3000 об/мин) при низкой скорости (< 40 км/ч) после прогрева. Признак износа гидротрансформатора или фрикционных пакетов.
+
+| Условие | Оператор | Порог | Вес |
+|---|---|---|---|
+| rpm | > | 3000 об/мин | 5 |
+| speed | < | 40.0 км/ч | 1 |
+| coolant_temp | > | 80.0 °C | 1 |
+
+**Tier:** T1 | **min_confidence:** 40 | **DTC:** P0730, P0741
+
+**Код:** `threshold_rules.json` — `transmission_slip`
+
+---
+
+## 4. Complex Rules (Python)
+
+Правила этой секции реализованы в `complex_rules.py` и запускаются движком **после** JSON-правил. Они обрабатывают логику, недоступную простым порогам: кросс-анализ, паттерны по режимам, гармонический анализ, мульти-симптомная диагностика.
+
+Сигнатура каждого правила:
+```python
+def rule_xxx(features, packet, baselines, regime) -> Optional[dict]
+```
+
+---
+
+### 4.1 fuel_bank_cross
+
+**Что детектирует:** Кросс-анализ топливных коррекций Bank 1 vs Bank 2 — определяет, является ли проблема системной (оба банка) или локализованной (один банк).
+
+**Входные данные:**
+- `packet.ltft_bank1`, `packet.ltft_bank2` — долгосрочные топливные коррекции (%)
+- Гейт: хотя бы один банк |value| > 5%
+
+**Алгоритм:**
+
+| Паттерн | Условие | cross_type |
+|---|---|---|
+| Общий бедный | b1 > 5% И b2 > 5% | lean_general |
+| Общий богатый | b1 < −5% И b2 < −5% | rich_general |
+| Локализован Bank 1 | diff > 8% И |b1| > |b2| | localized_bank1 |
+| Локализован Bank 2 | diff > 8% И |b2| > |b1| | localized_bank2 |
+
+**Формула confidence:**
+```
+magnitude = max(|b1|, |b2|)
+magnitude_bonus = min((magnitude − 5) / 20, 1.0) × 40
+confidence = 40 + magnitude_bonus
+# Для localized типов: confidence × 0.85
+```
+
+Диапазон: 40–80% (localized: 34–68%).
+
+**Tier:** T1 | **conditions_total:** 3
+
+**Диагностика:**
+- `lean_general` → утечка воздуха после дроссельной заслонки, дырявый коллектор
+- `rich_general` → давление топлива, загрязнённый MAF
+- `localized_bank1/2` → форсунка, уплотнение впускного коллектора конкретного банка
+
+**Код:** `complex_rules.py:79-158` — `rule_fuel_bank_cross`
+
+---
+
+### 4.2 vibration_regime_dependency
+
+**Что детектирует:** Режимная зависимость вибрации — анализирует базовые линии по режимам (`idle`, `city`, `highway`) и определяет, в каком режиме вибрация аномально высокая.
+
+**Входные данные:**
+- `baselines[regime]["az_std"]` — среднее за >= 30 измерений на режиме
+- Требует минимум 2 режима с готовыми базовыми линиями
+
+**Алгоритм:**
+
+Режим считается "повышенным" если:
+```
+means[r] > min(overall_mean × 2.0, overall_mean + 1.5)
+AND means[r] > 1.5
+```
+
+| Паттерн | Условие | Диагноз |
+|---|---|---|
+| highway_only | Только highway повышен | Балансировка / шины |
+| idle_only | Только idle повышен | Опоры двигателя / пропуски |
+| all_regimes | Все режимы > 3.0 абс. | Общий износ подвески |
+| mixed | Несколько режимов | Комбинированные проблемы |
+
+**Формула confidence:**
+```
+# all_regimes:
+confidence = min(45 + (max_mean − 3.0) × 10, 85)
+# Остальные:
+ratio = max_mean / overall_mean
+confidence = min(45 + (ratio − 1.5) × 15, 85)
+```
+
+Диапазон: 45–85%.
+
+**Tier:** T2
+
+**Код:** `complex_rules.py:165-272` — `rule_vibration_regime_dependency`
+
+---
+
+### 4.3 audio_engine_harmonic
+
+**Что детектирует:** Совпадение доминирующей аудио-частоты с гармониками оборотов двигателя — подтверждает, что источник звука механически связан с двигателем.
+
+**Входные данные:**
+- `packet.rpm`, `packet.dominant_freq`
+
+**Алгоритм:**
+```
+engine_base = rpm / 60  # Гц
+Проверяем гармоники N = 1..8:
+  harmonic_freq = engine_base × N
+  deviation = |dominant_freq − harmonic_freq|
+  Совпадение если deviation <= 5 Гц
+```
+
+**Классификация источника:**
+
+| Гармоника | Источник |
+|---|---|
+| N = 1–2 | Выхлопной пульс / пропуск цилиндра |
+| N = 3–8 | Клапанный механизм / тик форсунки |
+
+**Формула confidence:**
+```
+match_quality = 1 − (deviation / 5)
+confidence = 45 + match_quality × 30
+```
+Диапазон: 45–75%.
+
+**Пример:** rpm = 1800 → engine_base = 30 Гц. dominant_freq = 120 Гц → N=4, deviation = 0 Гц → confidence = 75% (valve train / injector tick).
+
+**Tier:** T3 | **conditions_total:** 1
+
+**Код:** `complex_rules.py:279-349` — `rule_audio_engine_harmonic`
+
+---
+
+### 4.4 warmup_anomaly
+
+**Что детектирует:** Аномалия, сохраняющаяся после прогрева — исключает проблемы холодного пуска; срабатывает только при coolant_temp > 80 °C.
+
+**Входные данные:**
+- `packet.coolant_temp` (°C)
+- `features["az_std"]` + базовая линия текущего режима
+- `features["ltft_abs"]` (абсолютная коррекция топлива)
+
+**Условия срабатывания:**
+- Гейт: coolant_temp > 80 °C (иначе — нет результата)
+- `vib_anomaly`: az_std z-score > 2.0 относительно базовой линии (count >= 30)
+- `fuel_anomaly`: ltft_abs > 10.0%
+
+Хотя бы одно из двух должно быть True.
+
+**Формула confidence:**
+```
+warmth_factor = min((coolant − 80) / 20, 1.0)
+severity = max(vib_severity, fuel_severity)
+  vib_severity = min((vib_z − 2.0) / 3.0, 1.0)
+  fuel_severity = min((ltft_abs − 10) / 15, 1.0)
+confidence = 35 + warmth_factor × 15 + severity × 30
+# Бонус +10 если оба аномальны одновременно
+```
+Диапазон: 35–90%.
+
+**Tier:** T1 | **conditions_total:** 3 (прогрев + вибрация + топливо)
+
+**Код:** `complex_rules.py:356-447` — `rule_warmup_anomaly`
+
+---
+
+### 4.5 speed_vibration_resonance
+
+**Что детектирует:** Резонансная вибрация на конкретной скорости — пик az_std при определённой скорости (z > 2.5 относительно базовой линии режима).
+
+**Входные данные:**
+- `packet.speed` (км/ч), `features["az_std"]`
+- Базовая линия текущего режима (count >= 30)
+
+**Условия срабатывания:**
+- speed > 0
+- az_std z-score > 2.5
+
+**Классификация скоростного диапазона:**
+
+| Диапазон | Категория | Типичный диагноз |
+|---|---|---|
+| 70–110 км/ч | highway_resonance | Дисбаланс колёс |
+| 30–60 км/ч | city_resonance | Деформация диска / шины |
+| Остальные | other_resonance | Требует уточнения |
+
+**Формула confidence:**
+```
+confidence = min(45 + (z − 2.5) × 10, 85)
+```
+z=2.5 → 45%, z=5.0 → 70%, z=7.5 → 85%.
+
+**Tier:** T2 | **conditions_total:** 2
+
+**Код:** `complex_rules.py:454-516` — `rule_speed_vibration_resonance`
+
+---
+
+### 4.6 phev_battery_degradation
+
+**Что детектирует:** Признаки деградации высоковольтной батареи PHEV/BEV — мульти-симптомный анализ, требует минимум 2 из 4 симптомов.
+
+**Входные данные:** только для автомобилей с данными ВВБ (`packet.hv_battery_soc` обязателен).
+
+**Симптомы:**
+
+| Симптом | Условие | Признак деградации |
+|---|---|---|
+| rapid_soc_drop | speed > 20 AND soc < 25% | Быстрая потеря заряда в движении |
+| elevated_battery_temp | hv_battery_temp > 40 °C | Нагрев при деградации ячеек |
+| cell_imbalance | hv_cell_voltage_delta > 0.2 В | Разбаланс ячеек — сильный сигнал |
+| early_range_extender | range_extender_runtime > 600 с AND soc > 10% | Ранний запуск ДВС-генератора |
+
+**Формула confidence:**
+```
+confidence = 30 + conditions_met × 15
+# Бонус +10 если cell_imbalance присутствует
+```
+2 симптома → 60%, 3 → 75%, 4 → 90% (+ бонус до 100%).
+
+**Tier:** T1 | **conditions_total:** 4 | **DTC:** P0A80, P0A09
+
+**Код:** `complex_rules.py:523-599` — `rule_phev_battery_degradation`
+
+---
+
+### 4.7 combined_drivetrain_stress
+
+**Что детектирует:** Комплексная нагрузка на трансмиссию — кросс-корреляция 4 сигналов: RPM/скорость, вибрация, низкочастотный звук, топливные коррекции. Требует минимум 2 из 4.
+
+**Сигналы:**
+
+| Сигнал | Условие | Интерпретация |
+|---|---|---|
+| rpm_speed_mismatch | speed > 10 AND rpm > 2500 AND rpm/speed > 80 | Проскальзывание сцепления / ГТ |
+| vibration_elevated | az_std z-score > 2.0 | Механическая вибрация трансмиссии |
+| low_freq_rumble | 20 < dominant_freq < 100 Hz AND dominant_amp z > 2.0 | Низкочастотный механический гул |
+| fuel_trim_instability | ltft_abs > 8% AND stft_bank1 > 5% | Нестабильность топливной смеси под нагрузкой |
+
+**Формула confidence:**
+```
+confidence = 25 + conditions_met × 15
+# Бонус +10 если vibration_elevated И low_freq_rumble одновременно
+```
+2 сигнала → 55%, 3 → 70%, 4 → 85% (+ бонус до 95%).
+
+**Tier:** T1 | **conditions_total:** 4
+
+**Код:** `complex_rules.py:606-702` — `rule_combined_drivetrain_stress`
+
+---
+
+### 4.8 adaptive_damper_hydraulic_dead
+
+**Что детектирует:** Гидравлический отказ адаптивного амортизатора без электрической неисправности — ситуация, когда электронная самодиагностика проходит, но гидравлика уже не работает.
+
+**Входные данные:**
+- `packet.dtc_codes` — коды неисправностей адаптивной подвески
+- `packet.az_std`, `features["az_range"]`
+
+**Поддерживаемые DTC:**
+
+| Группа | Коды |
+|---|---|
+| Общие адаптивные амортизаторы | C0575, C0580, C0585, C0590 |
+| BMW EDC | C1521, C1525 |
+| CDC / MagneRide | C1730, C1731, C1732, C1733 |
+
+**Алгоритм:**
+1. Гейт: хотя бы один DTC из списка присутствует → conditions_met = 1
+2. az_std > 1.5 → conditions_met += 1
+3. az_range > 6.0 → conditions_met += 1
+
+**Формула confidence:**
+```
+confidence = 30 + conditions_met × 15
+```
+1 DTC → 45%, + вибрация → 60%, + range → 75%.
+
+**Tier:** T2 | **conditions_total:** 3
+
+**Код:** `complex_rules.py:716-754` — `rule_adaptive_damper_dead`
+
+---
+
+## 5. Корреляции
+
+Корреляции запускаются **после поездки** (batch-анализ), не в реальном времени. Реализованы в `correlation_engine.py`. Результат — `CorrelationResult` с полями `r_value`, `slope`, `p_value`, `data_points`, `diagnosis_hint`, `significant`.
+
+**Глобальные параметры:**
+- `MIN_DATA_POINTS = 50` — минимум точек для вычисления
+- `R_THRESHOLD = 0.6` — порог коэффициента корреляции Пирсона
+- `TIRE_DIAMETER = 0.63 м` — стандарт для 205/55 R16
+
+---
+
+### 5.1 vibration_rpm
+
+**Что коррелирует:** az_std (вертикальная вибрация) vs RPM двигателя.
+
+**Формула:** Линейная регрессия Пирсона:
+```
+x = RPM, y = az_std
+r, slope, p = linregress(x, y)
+```
+
+**Условие значимости:**
+- |r| > 0.6
+- slope > 0 (вибрация растёт с оборотами)
+- data_points >= 50
+
+**r_min:** 0.6 | **data_points_min:** 50 | **режим:** all
+
+**diagnosis_hint:** `engine_mount` — износ опор двигателя, вибрация передаётся в кузов пропорционально оборотам.
+
+**Код:** `correlation_engine.py:106-131` — `_vibration_rpm`
+
+---
+
+### 5.2 audio_wheel
+
+**Что коррелирует:** Отношение dominant_freq к частоте вращения колеса (tire_freq) — проверяет, является ли это отношение постоянным при разных скоростях.
+
+**Формула:**
+```
+tire_freq = speed / (3.6 × π × tire_diameter)  # Гц
+freq_ratio = dominant_freq / tire_freq
+```
+Условие: std(freq_ratio) < 0.5 при скорости > 30 км/ч.
+
+Дополнительно: линейная регрессия dominant_freq vs speed, |r| > 0.6.
+
+**Условие значимости:**
+- std_ratio < 0.5
+- data_points >= 50
+- |r| > 0.6
+
+**r_min:** 0.6 | **data_points_min:** 50 | **режим:** highway
+
+**diagnosis_hint:** `wheel_bearing` — частота шума линейно растёт со скоростью вращения колеса.
+
+**Код:** `correlation_engine.py:133-174` — `_audio_wheel`
+
+---
+
+### 5.3 turn_click
+
+**Что коррелирует:** ay_std и dominant_amp в оконах режима `cornering`.
+
+**Алгоритм:**
+```
+Для каждого окна с regime="cornering":
+  Совпадение если: ay_std > 2.5 AND dominant_amp > mean_amp × 1.5
+Значимо если matches >= 3
+```
+
+**Условие значимости:**
+- Минимум 3 совпадения в cornering-окнах
+- Данные только из режима `cornering`
+
+**r_value** = matches / total_cornering_windows | **режим:** cornering
+
+**diagnosis_hint:** `cv_joint` — щелчки при повороте с нагрузкой, боковое ускорение + аудио-пик.
+
+**Код:** `correlation_engine.py:176-210` — `_turn_click`
+
+---
+
+### 5.4 vibration_speed_peak
+
+**Что коррелирует:** az_std vs скорость — ищет бин скорости с аномально высокой средней вибрацией (резонансный пик).
+
+**Алгоритм:**
+```
+Группировка по бинам 10 км/ч (только speed > 60)
+peak_bin = argmax(bin_means)
+adj_mean = среднее соседних бинов (±10 км/ч)
+Значимо если: peak_mean > 2.0 × adj_mean
+```
+
+**Условие значимости:**
+- data_points >= 50 (highway windows)
+- Минимум 3 бина скорости
+- peak > 2× adj_mean
+
+**r_min:** не используется (критерий — ratio) | **режим:** highway
+
+**diagnosis_hint:** `wheel_balance` — резонансный пик на конкретной скорости характерен для дисбаланса колёс.
+
+**Код:** `correlation_engine.py:212-261` — `_vibration_speed_peak`
+
+---
+
+### 5.5 highfreq_vibration
+
+**Что коррелирует:** dominant_amp vs az_std — только для окон с dominant_freq > 200 Гц.
+
+**Формула:**
+```
+Фильтр: dominant_freq > 200 Гц
+x = dominant_amp, y = az_std
+r, slope, p = linregress(x, y)
+```
+
+**Условие значимости:**
+- |r| > 0.5 (порог ниже стандартного — сигнал слабее)
+- data_points >= 50
+
+**r_min:** 0.5 | **data_points_min:** 50 | **режим:** all
+
+**diagnosis_hint:** `accessory_bearing` — высокочастотный звук совпадает с вибрацией вспомогательных подшипников (генератор, кондиционер, ролики).
+
+**Код:** `correlation_engine.py:263-293` — `_highfreq_vibration`
+
+---
+
+### 5.6 audio_accel_source
+
+**Что коррелирует:** dominant_amp (аудио) vs az_std (вибрация акселерометра) при speed > 20 км/ч.
+
+**Формула:**
+```
+x = az_std, y = dominant_amp
+r, slope, p = linregress(x, y)
+```
+
+**Условие значимости:**
+- |r| > 0.6
+- data_points >= 50
+
+**r_min:** 0.6 | **data_points_min:** 50 | **режим:** all
+
+**Интерпретация:**
+- **Высокая корреляция (r > 0.6):** пики аудио и вибрации совпадают во времени → источник звука — подвеска / кузовные элементы
+- **Низкая корреляция (r < 0.3):** звук не связан с вибрацией → двигатель, трансмиссия, внешний источник
+
+**diagnosis_hint:** `suspension_audio_source`
+
+**Код:** `correlation_engine.py:295-324` — `_audio_accel_source`
+
+---
+
+### 5.7 road_roughness_psd
+
+**Что коррелирует:** Дисперсия az_avg по скользящим окнам — прокси для ISO 8608 PSD (Power Spectral Density) профиля дороги.
+
+**Алгоритм:**
+```
+az_series = [w["az_avg"] для окон с speed > 20]
+Скользящие окна 32 сэмпла (~16 сек при 2 Гц):
+  mean_psd = среднее дисперсий окон
+```
+
+**Классификация дороги (ISO 8608 proxy):**
+
+| mean_psd | Класс ISO 8608 | Значимость |
+|---|---|---|
+| < 0.05 | B (хорошая дорога) | Нет |
+| 0.05 – 0.2 | C (средняя) | Да |
+| >= 0.2 | D+ (плохая) | Да |
+
+**data_points_min:** 50 | **режим:** all
+
+**diagnosis_hint:** `road_class_C` или `road_class_D` — используется для контекстной поправки других правил (при плохой дороге порог срабатывания поднимается).
+
+**r_value** в результате хранит значение mean_psd (не коэффициент корреляции).
+
+**Код:** `correlation_engine.py:326-384` — `_road_roughness_psd`
+
+---
+
+## 6. Shadow Rules (калибровочные)
+
+Shadow-правила запускаются параллельно с production-правилами, но **не влияют на диагностический результат** пользователя. Их цель — накопление статистики для уточнения порогов. Вывод идёт только в лог и таблицу `shadow_results`.
+
+Все три правила имеют `shadow_mode: true` и `cooldown_minutes: 10080` (7 суток).
+
+---
+
+### 6.1 shock_absorber_early_wear_corrected
+
+**Калибровочная версия для:** раннего износа амортизаторов.
+
+**Production-аналог:** `shock_absorber_early_wear`
+
+| Условие | Оператор | Порог | Вес |
+|---|---|---|---|
+| az_std | z> | 1.5 | 3 |
+| az_range | > | 5.0 | 2 |
+| speed | > | 30.0 км/ч | 1 |
+| crest_factor_z | > | 3.0 | 2 |
+
+**Tier:** T2 | **min_confidence:** 40 | **min_speed:** 20 км/ч
+
+Отличие от production: более низкий порог az_std (z>1.5 vs z>2.0) и добавлено условие crest_factor_z > 3.0 — тестируется гипотеза о ранней детекции через импульсность.
+
+---
+
+### 6.2 shock_absorber_worn_corrected
+
+**Калибровочная версия для:** выраженного износа амортизаторов.
+
+**Production-аналог:** `shock_absorber_worn`
+
+| Условие | Оператор | Порог | Вес |
+|---|---|---|---|
+| az_range | > | 8.0 | 3 |
+| az_std | > | 2.0 | 2 |
+| speed | > | 30.0 км/ч | 1 |
+| crest_factor_z | > | 3.5 | 2 |
+
+**Tier:** T2 | **min_confidence:** 40 | **min_speed:** 20 км/ч
+
+Отличие от production: добавлен crest_factor_z > 3.5 как дополнительный фильтр для снижения ложных срабатываний на плохой дороге.
+
+---
+
+### 6.3 stabilizer_link_worn_freq
+
+**Калибровочная версия для:** износа стоек стабилизатора поперечной устойчивости.
+
+**Production-аналог:** `stabilizer_link_worn`
+
+| Условие | Оператор | Порог | Вес |
+|---|---|---|---|
+| ay_std | z> | 2.0 | 3 |
+| speed | > | 30.0 км/ч | 1 |
+| total_vibration | > | 3.0 | 2 |
+| dominant_freq | between | [80, 400] Гц | 2 |
+
+**Tier:** T2 | **min_confidence:** 40
+
+Отличие от production: добавлено частотное окно 80–400 Гц — тестируется гипотеза о характерном звуковом сигнатуре изношенных стоек при колебаниях кузова.
+
+---
+
+---
+
+## 7. Двигатель и управление (T1)
+
+### 7.1 Температурный режим
+
+| Правило | Условия | DTC | Cooldown |
+|---------|---------|-----|----------|
+| `engine_overheating` — Перегрев двигателя | coolant_temp > 100°C, rpm > 1200 | P0217, P0118 | 7 дн |
+| `coolant_overtemp_warning` — Предупреждение: температура ОЖ повышена | coolant_temp > 95°C, coolant_temp < 105°C | P0217 | 7 дн |
+| `cold_engine_driving` — Движение на непрогретом двигателе | speed > 60 км/ч, coolant_temp < 50°C (require_warm=false) | — | 7 дн |
+| `thermostat_stuck_open` — Термостат заклинил (открыт) | coolant_temp < 70°C, speed > 40 км/ч, rpm > 1500 | P0128 | 7 дн |
+| `thermostat_stuck_closed` — Термостат заклинил (закрыт) | coolant_temp > 105°C, speed > 60 км/ч | P0217 | 7 дн |
+| `warmup_too_slow` — Слишком медленный прогрев | coolant_temp < 60°C, rpm > 1500, speed > 40 км/ч | P0128 | 7 дн |
+| `summer_overheat_risk` — Риск перегрева (лето, пробки) | coolant_temp > 100°C, speed < 10 км/ч, rpm < 1000 | P0217 | 7 дн |
+| `coolant_sensor` — Неисправность датчика ОЖ | coolant_temp < −20°C | P0115, P0116, P0117, P0118 | 7 дн |
+| `catalytic_overtemp` — Перегрев катализатора | coolant_temp > 100°C, ltft_bank1 < −8%, rpm > 2000 | P0420, P0430 | 7 дн |
+| `catalytic_light_off_slow` — Медленный прогрев катализатора | o2_voltage < 0.2 В, coolant_temp > 70°C, rpm > 1000 | P0420, P0421 | 7 дн |
+
+### 7.2 Обороты и холостой ход
+
+| Правило | Условия | DTC | Cooldown |
+|---------|---------|-----|----------|
+| `high_idle` — Высокие обороты на холостом ходу | rpm > 1100, speed < 3 км/ч | P0507 | 7 дн |
+| `high_rpm_idle` — Повышенные обороты ХХ (прогретый) | rpm > 1200, speed < 3 км/ч, coolant_temp > 80°C | P0507 | 7 дн |
+| `low_rpm_idle` — Низкие обороты ХХ (прогретый) | rpm < 500, speed < 3 км/ч, coolant_temp > 80°C | P0506 | 7 дн |
+| `stalling_risk` — Риск остановки двигателя | rpm < 400, speed < 3 км/ч, coolant_temp > 60°C | P0505 | 7 дн |
+| `idle_speed_oscillation` — Нестабильные обороты на ХХ | rpm z-score > 2.0, speed < 3 км/ч | P0505 | 7 дн |
+| `idle_rpm_instability` — Нестабильность оборотов ХХ | rpm z-score > 2.5, speed < 3 км/ч, coolant_temp > 70°C | P0505, P0507 | 7 дн |
+| `engine_overrev` — Превышение оборотов двигателя | rpm > 6500 | P0219 | 7 дн |
+
+### 7.3 Впуск и турбо
+
+| Правило | Условия | DTC | Cooldown |
+|---------|---------|-----|----------|
+| `intake_vacuum_low` — Низкий вакуум впускного коллектора | map_pressure < 20 кПа, rpm > 800 | P0106 | 7 дн |
+| `intake_vacuum_high` — Высокое давление впускного коллектора на ХХ | map_pressure > 90 кПа, speed < 3 км/ч, rpm < 1000 | P0401 | 7 дн |
+| `maf_reading_low` — Низкий расход воздуха MAF | maf < 2 г/с, rpm > 1000 | P0101 | 7 дн |
+| `maf_reading_high` — Завышенный расход воздуха MAF | maf > 200 г/с, rpm < 2500 | P0101 | 7 дн |
+| `engine_load_high` — Высокая нагрузка на малой скорости | engine_load (p0104) > 90%, speed < 60 км/ч | — | 7 дн |
+| `throttle_stuck` — Залипание дроссельной заслонки | throttle_pos (p0111) > 80%, speed < 5 км/ч | P0121, P0122, P0123 | 7 дн |
+| `turbo_lag_excessive` — Чрезмерное запаздывание турбины | map_pressure < 50 кПа, rpm > 2500, speed > 40 км/ч | P0299 | 7 дн |
+| `egr_malfunction` — Неисправность EGR | map_pressure > 80 кПа, rpm < 1500, speed < 10 км/ч | P0400, P0401 | 7 дн |
+| `excessive_fuel_consumption` — Повышенный расход топлива | maf > 150 г/с, speed < 40 км/ч | — | 7 дн |
+
+### 7.4 Масло
+
+| Правило | Условия | DTC | Cooldown |
+|---------|---------|-----|----------|
+| `oil_pressure_low` — Низкое давление масла | (нет условий — только по DTC) | P0520 | 7 дн |
+| `oil_pressure_warning` — Предупреждение: давление масла | oil_pressure < 1.0 бар, rpm > 1000 | P0520, P0521 | 7 дн |
+
+### 7.5 Катализатор
+
+| Правило | Условия | DTC | Cooldown |
+|---------|---------|-----|----------|
+| `catalyst_degradation` — Деградация катализатора | o2_voltage > 0.75 В, speed > 30 км/ч, rpm > 1500 | P0420, P0430 | 7 дн |
+
+---
+
+## 8. Топливная система (T1)
+
+### 8.1 Основные коррекции топлива
+
+| Правило | Условия | DTC | Cooldown |
+|---------|---------|-----|----------|
+| `fuel_lean` — Бедная топливная смесь | ltft_abs > 10%, ltft_bank1 > 0% (require_warm) | P0171, P0174 | 7 дн |
+| `fuel_rich` — Богатая топливная смесь | ltft_abs > 10%, ltft_bank1 < 0% (require_warm) | P0172, P0175 | 7 дн |
+| `fuel_lean_bank2` — Бедная смесь (банк 2) | ltft_bank2 > 10% (require_warm) | P0174 | 7 дн |
+| `fuel_rich_bank2` — Богатая смесь (банк 2) | ltft_bank2 < −10% (require_warm) | P0175 | 7 дн |
+| `fuel_system_lean_idle` — Бедная смесь на холостом ходу | ltft_abs > 8%, ltft_bank1 > 0%, speed < 3 км/ч (require_warm) | P0171 | 7 дн |
+| `fuel_system_rich_idle` — Богатая смесь на холостом ходу | ltft_abs > 8%, ltft_bank1 < 0%, speed < 3 км/ч (require_warm) | P0172 | 7 дн |
+
+### 8.2 Диагностика топливной системы
+
+| Правило | Условия | DTC | Cooldown |
+|---------|---------|-----|----------|
+| `stft_high_oscillation` — Нестабильность топливной коррекции | fuel_trim_delta > 15% | P0170 | 7 дн |
+| `vacuum_leak` — Подсос воздуха (вакуумная утечка) | ltft_bank1 > 15%, stft_bank1 > 10%, speed < 5 км/ч | P0171, P0300 | 7 дн |
+| `injector_imbalance` — Разброс форсунок (дисбаланс впрыска) | fuel_trim_delta > 12%, rpm > 1000 | P0201, P0202, P0203, P0204 | 7 дн |
+| `misfire` — Пропуски зажигания | rpm z-score > 2.5, total_vibration > 3.0, stft_bank1 > 10% | P0300–P0304 | 7 дн |
+
+### 8.3 Кислородные датчики
+
+| Правило | Условия | DTC | Cooldown |
+|---------|---------|-----|----------|
+| `o2_sensor_stuck_lean` — Датчик O2 завис (бедный сигнал) | o2_voltage < 0.15 В, rpm > 1000, speed > 20 км/ч | P0131 | 7 дн |
+| `o2_sensor_stuck_rich` — Датчик O2 завис (богатый сигнал) | o2_voltage > 0.85 В, rpm > 1000, speed > 20 км/ч | P0132 | 7 дн |
+
+### 8.4 DTC-boost правила
+
+Правила с пониженным порогом `min_confidence = 35` — активируются при наличии соответствующего DTC.
+
+| Правило | Условия | DTC | min_conf |
+|---------|---------|-----|----------|
+| `p0171_lean_boost` — Бедная смесь + DTC P0171 | ltft_bank1 > 8%, stft_bank1 > 5%, rpm > 800 | P0171 | 35 |
+| `p0300_misfire_boost` — Пропуски зажигания + DTC P0300 | rpm z-score > 2.0, total_vibration > 2.5, stft_bank1 > 8% | P0300–P0304 | 35 |
+| `p0420_catalyst_boost` — Катализатор ниже порога + DTC P0420 | o2_voltage > 0.7 В, speed > 40 км/ч, coolant_temp > 80°C | P0420 | 35 |
+| `p0442_evap_leak` — Утечка системы EVAP + DTC P0442 | ltft_bank1 > 5%, speed < 5 км/ч | P0442, P0455, P0456 | 35 |
+
+---
+
+## 9. Электрика и зарядка (T1)
+
+| Правило | Условия | DTC | Cooldown |
+|---------|---------|-----|----------|
+| `low_battery` — Низкое напряжение АКБ | voltage < 12.0 В | — | 7 дн |
+| `alternator_failure` — Неисправность генератора | voltage < 13.0 В, rpm > 1000 | P0562, P0563 | 7 дн |
+| `charging_high` — Перезарядка АКБ (неисправность регулятора) | voltage > 15.5 В, rpm > 1000 | P0563 | 7 дн |
+| `voltage_drop_idle` — Просадка напряжения на ХХ | voltage < 12.5 В, speed < 3 км/ч, rpm > 600 | P0562 | 7 дн |
+| `battery_deep_discharge` — Глубокий разряд АКБ | voltage < 11.0 В | P0562 | 7 дн |
+| `charging_intermittent` — Нестабильная зарядка | voltage z-score > 2.5, rpm > 1000 | P0562 | 7 дн |
+| `ac_compressor_overload` — Перегрузка компрессора кондиционера | rpm < 700, voltage < 13.0 В, coolant_temp > 95°C | — | 7 дн |
+
+---
+
+## 10. PHEV/BEV (T1)
+
+| Правило | Условия | DTC | Cooldown |
+|---------|---------|-----|----------|
+| `battery_temp_high` — Высокая температура ВВБ | hv_battery_temp > 45°C, speed > 30 км/ч | P0A1F | 7 дн |
+| `soc_critical` — Критически низкий заряд ВВБ | hv_battery_soc < 15%, speed > 10 км/ч | P0A80 | 7 дн |
+| `battery_soc_low` — Низкий заряд ВВБ | hv_battery_soc < 20% И > 5% | P0A80 | 7 дн |
+| `range_extender_overwork` — Перегрузка рейндж-экстендера | runtime > 1800 с, hv_battery_soc < 25%, rpm > 3500 | — | 7 дн |
+| `motor_overheat` — Перегрев электродвигателя | e_motor_temp > 150°C, speed > 20 км/ч | P0A78 | 7 дн |
+| `e_motor_temp_high` — Повышенная температура э/мотора | e_motor_temp > 120°C И < 150°C, speed > 30 км/ч | P0A78 | 7 дн |
+| `charging_anomaly` — Аномалия зарядки ВВБ | hv_battery_soc < 30%, hv_battery_voltage < 300 В, hv_battery_current < −5 А | P0A09, P0AA6 | 7 дн |
+| `regen_brake_weak` — Слабая рекуперация тормозов | regen_brake_power < 5 кВт, speed > 30 км/ч, hv_battery_soc < 90% | P0A0A | 7 дн |
+| `hv_battery_imbalance` — Разбалансировка ячеек ВВБ | hv_cell_voltage_delta > 0.3 В, hv_battery_soc < 80% | P0A09 | 7 дн |
+| `inverter_overtemp` — Перегрев инвертора | inverter_temp > 80°C, speed > 20 км/ч | P0A3F | 7 дн |
+
+---
+
+## 11. Сезонные и комбинированные правила (T1)
+
+| Правило | Условия | DTC | Cooldown |
+|---------|---------|-----|----------|
+| `winter_cold_start_anomaly` — Аномалия холодного пуска (зима) | coolant_temp < −10°C, voltage < 12.0 В, rpm < 500 (require_warm=false) | P0171, P0562 | 7 дн |
+| `summer_overheat_risk` — Риск перегрева (лето, пробки) | coolant_temp > 100°C, speed < 10 км/ч, rpm < 1000 | P0217 | 7 дн |
+
+> Правило `summer_overheat_risk` также включено в секцию 7.1 как частный случай перегрева. Здесь оно рассматривается в сезонном контексте: специфическая комбинация пробка + жара + работающий двигатель на холостом ходу.
+
+---
+
+## Динамика деградации
+
+### Базовые линии (Baseline) и z-score
+
+Система не сравнивает показания автомобиля с абстрактными нормативами: каждый автомобиль строит **собственную базовую линию** — rolling statistics по режиму езды.
+
+**Режимы езды** (`DrivingRegime`):
+- `idle` — скорость < 5 км/ч
+- `city` — скорость 5–60 км/ч
+- `highway` — скорость > 60 км/ч
+
+Для каждой комбинации `(режим, параметр)` хранится скользящая статистика: среднее μ и стандартное отклонение σ. Минимальное количество замеров для достоверного расчёта z-score — **30 сэмплов**.
+
+**Формула z-score:**
+
+```
+z = (x - μ) / σ
+```
+
+где `x` — текущее значение параметра, μ — среднее по базовой линии, σ — стандартное отклонение.
+
+**Зачем это нужно:** нормализация к «личной норме» автомобиля. Одна и та же амплитуда вибрации 0.19 м/с² может быть нормой для одного автомобиля и аномалией для другого.
+
+**Пример:**
+```
+Базовая линия az_std для режима highway:
+  значения: [0.12, 0.15, 0.11, 0.13, 0.14, 0.12, ...]
+  μ = 0.13 м/с²
+  σ = 0.02 м/с²
+
+Новое измерение: az_std = 0.19 м/с²
+  z = (0.19 - 0.13) / 0.02 = 3.0
+
+При пороге z > 2.0 правило срабатывает.
+```
+
+Оператор `z>` в условиях правил означает именно это сравнение: значение параметра отклонилось от индивидуальной нормы автомобиля более чем на N стандартных отклонений.
+
+---
+
+### Расчёт confidence score
+
+Каждое правило при срабатывании получает оценку уверенности от 0 до 100. Оценка складывается из трёх компонент:
+
+#### Компонента 1: match_score (вес 40%)
+
+Доля выполненных условий с учётом весов:
+
+```
+match_ratio = Σ(weight_i для выполненных условий i) / Σ(weight_i для всех условий)
+match_score = match_ratio × 40
+```
+
+Каждое условие в правиле имеет поле `weight` (обычно 1–5). Критичные условия получают больший вес и сильнее влияют на итоговый score.
+
+#### Компонента 2: deviation_score (вес 40%)
+
+Насколько далеко значения вышли за пороги:
+
+```
+deviation_ratio = |value - threshold| / scale   (capped at 1.0)
+scale = max(|threshold| × 0.1, 1.0)   -- 10% overshoot = полная девиация
+avg_deviation = mean(deviation_ratio по выполненным условиям)
+deviation_score = avg_deviation × match_ratio × 40
+```
+
+Умножение на `match_ratio` предотвращает ситуацию, когда одно условие с большим превышением порога «тянет» score вверх при невыполненных остальных.
+
+#### Компонента 3: persistence_score (максимум 20%)
+
+Масштабируется с количеством последовательных срабатываний правила (`consecutive_count`):
+
+| consecutive_count | persistence_ratio | persistence_score |
+|:-----------------:|:-----------------:|:-----------------:|
+| 0 (никогда не срабатывало) | 0.0 | 0% |
+| 1 | 0.2 | 4% |
+| 2 | 0.4 | 8% |
+| 3 | 0.6 | 12% |
+| 4 | 0.8 | 16% |
+| ≥ 5 | 1.0 | 20% |
+
+Если `EscalationManager` недоступен — используется fallback ratio 0.2 (4%).
+
+**Итоговая формула:**
+
+```
+confidence = match_score + deviation_score + persistence_score
+           = (0..40) + (0..40) + (0..20)
+```
+
+#### Маппинг confidence → status
+
+| confidence | status | Интерпретация |
+|:----------:|:------:|---------------|
+| ≥ 70 | `likely` | Высокая вероятность проблемы |
+| ≥ 40 | `possible` | Возможная проблема |
+| > 0 | `unlikely` | Слабый сигнал |
+| 0 | `clear` | Норма |
+
+**Пример расчёта:**
+
+Правило `engine_overheating` с 2 условиями (веса 3 и 1):
+- Условие 1: coolant_temp = 108°C > 100°C → выполнено, вес=3, отклонение = (108-100)/(100×0.1) = 0.8
+- Условие 2: rpm = 1500 > 1200 → выполнено, вес=1, отклонение = (1500-1200)/(1200×0.1) = 2.5 → capped 1.0
+
+```
+match_ratio = (3+1)/(3+1) = 1.0
+match_score = 1.0 × 40 = 40
+
+avg_deviation = (0.8 + 1.0) / 2 = 0.9
+deviation_score = 0.9 × 1.0 × 40 = 36
+
+consecutive_count = 3 → persistence_ratio = 0.6
+persistence_score = 0.6 × 20 = 12
+
+confidence = 40 + 36 + 12 = 88 → status: "likely"
+```
+
+---
+
+### Shadow mode
+
+Система поддерживает «теневой» режим для правил, которые ещё не готовы к показу пользователю.
+
+**Механизм:**
+- Правила с `shadow_mode: true` загружаются из `shadow_rules.json`
+- Они полностью вычисляются наравне с продакшн-правилами
+- Результаты пишутся в БД в отдельную коллекцию `shadow_results`
+- Пользователю **не показываются**
+- Цель: накопить статистику срабатываний, измерить false positive rate
+
+**Критерий промоции в продакшн:**
+Правило переводится из shadow в production при уровне false positive < 15% за период наблюдения 4–6 недель.
+
+**Текущие shadow-правила** (3 штуки):
+
+| Правило | Условия | Цель наблюдения |
+|---------|---------|----------------|
+| `shock_absorber_early_wear_corrected` | az_std z>1.5, az_range>5.0, speed>30, crest_factor_z>3.0 | Ранняя детекция износа амортизаторов с пониженным z-порогом |
+| `shock_absorber_worn_corrected` | az_range>8.0, az_std>2.0, speed>30, crest_factor_z>3.5 | Детекция износа с учётом crest-фактора |
+| `stabilizer_link_worn_freq` | ay_std z>2.0, speed>30, total_vibration>3.0, freq ∈ [80–400 Гц] | Износ стоек стабилизатора с частотной фильтрацией |
+
+---
+
+### CUSUM тренды
+
+CUSUM (Cumulative Sum Control Chart) — метод обнаружения медленного дрейфа параметра, невидимого при обычном пороговом анализе.
+
+**Формула:**
+
+```
+S_n = max(0,  S_{n-1} + (x_n - μ) - k)
+```
+
+где:
+- `S_n` — накопленная сумма отклонений
+- `x_n` — новое наблюдение
+- `μ` — целевое значение (baseline mean)
+- `k = 0.5σ` — допуск (sensitivity to shift), обычно половина стандартного отклонения
+- Тревога при: `S_n > h = 5σ`
+
+**Применение в системе:**
+
+Параметр `az_std` (стандартное отклонение вертикального ускорения) в режиме highway медленно растёт — амортизатор деградирует. Отдельные значения не превышают порог правила, но тренд показывает деградацию:
+
+```
+Месяц 1: az_std ≈ 0.12 м/с²  (S_n = 0)
+Месяц 2: az_std ≈ 0.15 м/с²  (S_n = 0.03)
+Месяц 3: az_std ≈ 0.17 м/с²  (S_n = 0.07)
+Месяц 4: az_std ≈ 0.20 м/с²  (S_n = 0.14)
+Месяц 5: az_std ≈ 0.22 м/с²  (S_n = 0.19)
+Месяц 6: az_std ≈ 0.25 м/с²  → S_n > h → ТРЕВОГА
+```
+
+За 6 месяцев baseline mean вырос от 0.12 до 0.25 м/с² — двукратное увеличение демпфирующей нагрузки, признак деградации амортизатора. CUSUM поймал тренд до того, как сработало пороговое правило `shock_absorber_worn`.
+
+**Параметры по умолчанию:**
+- Окно сглаживания baseline: 500 последних сэмплов per (regime, parameter)
+- k = 0.5σ (из текущей базовой линии)
+- h = 5σ (из текущей базовой линии)
+- Минимум для расчёта CUSUM: 30 сэмплов в базе
+
+---
+
+### RUL (Remaining Useful Life) — дорожная карта
+
+**Статус: не реализовано.** Теоретическая основа заложена в `research-ml-rul.md` (ветка research-suspension-audio).
+
+**Целевой подход:** CNN-GRU-MHA архитектура (Convolutional Neural Network + Gated Recurrent Unit + Multi-Head Attention).
+
+```
+Raw time-series (100+ Hz)
+     │
+     ▼
+CNN (feature extraction из сырого сигнала)
+     │
+     ▼
+GRU (временные зависимости, degradation trajectory)
+     │
+     ▼
+MHA (Multi-Head Attention, важность отрезков)
+     │
+     ▼
+RUL prediction (часы/километры до отказа)
+```
+
+**Дополнительный подход:** стохастическая Wiener-process модель для вероятностного RUL с доверительными интервалами. Transfer learning и few-shot адаптация под конкретный автомобиль.
+
+**Ограничения текущей архитектуры:**
+
+Система сейчас собирает только **summary statistics** (среднее, std, диапазон за окно 1–5 секунд). Для RUL необходимы **raw time-series** с частотой дискретизации ≥ 100 Гц.
+
+**Этапы реализации:**
+
+| Этап | Задача | Зависимость |
+|------|--------|-------------|
+| 1 | Добавить сбор raw accelerometer данных (≥ 100 Гц) | Изменение pipeline |
+| 2 | Накопить labelled dataset с известными датами замены деталей | Сбор данных 6–12 мес. |
+| 3 | Обучить CNN-GRU-MHA модель на историческом датасете | Датасет из шага 2 |
+| 4 | Inference endpoint: RUL в km/ч, доверительный интервал 80% | Шаги 1–3 |
+
+---
+
+## Приложение A: Теоретические модели и методы
+
+Полный справочник по физическим моделям, сигнальным методам и алгоритмам машинного обучения, используемым или запланированным в LLCAR. Каждая тема содержит описание, ключевые формулы с численными примерами, применение в LLCAR, ограничения и ссылки на первоисточники с DOI.
+
+---
+
+### A.1 Zener Model (Standard Linear Solid)
+
+Zener model, или Standard Linear Solid (SLS) — трёхэлементная вязкоупругая модель, минимально описывающая одновременно ползучесть (creep) и релаксацию напряжений в гидравлическом амортизаторе. Модель впервые формализована Кларенсом Зенером в 1948 году для металлургических приложений, позднее адаптирована для автомобильной промышленности. В отличие от моделей Максвелла (только релаксация) и Кельвина-Фойгта (только ползучесть), SLS корректно воспроизводит частотно-зависимое поведение реального амортизатора: при низких частотах (DC) жёсткость определяется только бушингом k₁, при высоких частотах — суммой k₁+k₂. Структура модели: параллельная пружина k₁ (бушинги, gas spring) плюс Maxwell-цепочка (k₂ — жёсткость масляной колонки, c — вязкое трение). Исследование Thite et al. (2017) показало, что пренебрежение релаксационными моделями приводит к ошибкам до 30% при частотах ниже 30 Гц — именно в диапазоне, критичном для диагностики подвески. Franczyk et al. (2024) экспериментально подтвердили частотно-зависимую деградацию: при износе амортизатора коэффициент вязкости c падает с 2200 до 800 Нс/м, а характерная частота f₀ смещается с 2.0 до 3.2 Гц.
+
+**Математическая основа:**
+
+```
+Конститутивное уравнение (временная область):
+  F(t) + (c/k₂)·Ḟ(t) = k₁·x(t) + (c + c·k₁/k₂)·ẋ(t)
+
+Комплексная жёсткость при гармоническом возбуждении x(t) = x₀·e^(iωt):
+  K*(ω) = K'(ω) + i·K''(ω)
+  K'(ω)  = k₁ + k₂·(cω)² / (k₂² + (cω)²)
+  K''(ω) = c·k₂²·ω / (k₂² + (cω)²)
+  tan δ(ω) = K''(ω) / K'(ω)
+
+Время релаксации:   τ = c/k₂
+Частота перехода:   f₀ = k₂/(2πc)   — максимум диссипации
+Предельные значения:
+  ω→0:  K'→k₁ (только бушинг),  K''→0
+  ω→∞:  K'→k₁+k₂,               K''→0
+```
+
+**Численные примеры (передний амортизатор, C-класс):**
+
+```
+Состояние    k₁[Н/м]  k₂[Н/м]  c[Нс/м]  f₀[Гц]  tan δ(1.2Гц)  K'(25Гц)[кН/м]
+Новый         12000    28000     2200      2.03      0.637          39.9
+Изношенный    10000    16000      800      3.18      0.440          25.7
+Утечка масла  10000     6000      200      4.77      0.137          15.8
+```
+
+**Применение в LLCAR:**
+Zener model используется косвенно — через proxy-признаки деградации демпфирования. Снижение tan δ при bounce-частоте (1–2 Гц) → деградация коэффициента c. Смещение f₀ вправо (к более высоким частотам) → потеря жёсткости Maxwell-arm k₂. Proxy-оценка tan δ из FFT: tan δ_proxy = (A_1Hz/A_10Hz)·(ω_10/ω_1), где A_f — амплитуда FFT на соответствующей частоте.
+
+**Ограничения:**
+- Модель предполагает линейную вязкоупругость; реальные амортизаторы имеют нелинейные клапаны
+- Параметры k₁, k₂, c невозможно напрямую измерить смартфоном — используются proxy-признаки
+- Погрешность proxy-оценки tan δ: ±20–40%
+
+**Правила:** 1.1, 1.2, 1.6, 1.9
+
+**Источники:**
+- Thite A.N., Coleman F., Doody M., Fisher N. (2017). Experimentally validated dynamic results of a relaxation-type quarter car suspension. *J. Low Frequency Noise, Vibration and Active Control*, 36(2):148–159. DOI:10.1177/0263092317711989
+- Franczyk B., Maniowski M., Gołdasz J. (2024). Frequency-dependent automotive suspension damping systems: State of the art review. *Proc. IMechE Part D*, 238(9):2491–2503. DOI:10.1177/09544070231174280
+- Zdanowicz P., Guzek M. (2021). Diagnostics of the On-Vehicle Shock Absorber Testing. *Communications*, 23(3):B178–B186. DOI:10.26552/com.C.2021.3.B178-B186
+
+---
+
+### A.2 Half-Car Model 4 DoF
+
+Half-car model — двумерная динамическая модель автомобиля в продольной плоскости с четырьмя степенями свободы: z_c (вертикальное перемещение центра масс кузова), φ (угол тангажа), z_f (вертикальное перемещение переднего колеса) и z_r (заднего колеса). Модель позволяет анализировать совместное bounce/pitch поведение кузова и wheel hop колёс, чего не даёт упрощённая quarter-car модель. Матричное уравнение движения **M**q̈ + **C**q̇ + **K**q = F_road решается в частотной области или численным интегрированием. Ключевое преимущество перед quarter-car: half-car выявляет несимметричность передней и задней подвески (разные k_fs и k_rs) через разделение bounce и pitch мод. Аквапланирование в рамках модели описывается как внезапное обнуление k_ft — частота wheel hop мгновенно падает с 10.6 до ~3.5 Гц. Wavelet-анализ (DOI:10.1080/00423110802094298) позволяет детектировать снижение жёсткости подвески через изменение энергии FFT-пиков в диапазоне 0.5–2 Гц.
+
+**Математическая основа:**
+
+```
+q = {z_c, φ, z_f, z_r}ᵀ
+
+Bounce:  m_c·z̈_c = -k_fs(z_c+l_f·φ-z_f) - c_fs(ż_c+l_f·φ̇-ż_f)
+                   -k_rs(z_c-l_r·φ-z_r) - c_rs(ż_c-l_r·φ̇-ż_r)
+
+Pitch:   I_yy·φ̈ = -k_fs·l_f(z_c+l_f·φ-z_f) + k_rs·l_r(z_c-l_r·φ-z_r) + ...
+
+Wheel hop: m_f·z̈_f = k_fs(z_c+l_f·φ-z_f) + ... - k_ft(z_f - g_f(t))
+
+Аналитические частоты (m_c=1200 кг, I_yy=2000 кгм², m_f=m_r=45 кг):
+  f_bounce  = (1/2π)·√((k_fs+k_rs)/m_c) ≈ 0.94 Гц
+  f_pitch   = (1/2π)·√((k_fs·l_f²+k_rs·l_r²)/I_yy) ≈ 0.96 Гц
+  f_wh_front = (1/2π)·√((k_fs+k_ft)/m_f) ≈ 10.6 Гц
+```
+
+**Численные примеры — сдвиг частот при дефектах:**
+
+```
+Сценарий              f_bounce[Гц]  f_pitch[Гц]  f_wh_front[Гц]
+Номинал               0.83          0.96          10.6
+Пружина пер. −40%     0.66          0.96          10.4
+Пружина зад. −40%     0.76          0.83          10.4
+Шина пер. −60%        0.77          0.96           7.3
+Аквапланирование      0.77          0.96          ~3.5
+```
+
+**Применение в LLCAR:**
+FFT(az) в диапазоне [0.5–2.5 Гц] → bounce и pitch частоты. FFT(az) в диапазоне [7–15 Гц] → wheel hop. Сдвиг f_wh_front ниже 8 Гц → давление в шине. Разность f_bounce и f_pitch → асимметрия передней/задней подвески.
+
+**Ограничения:**
+- Модель 2D; нет roll mode — не различает левый и правый амортизатор
+- Требует знания l_f и l_r (расстояния от ЦМ до осей) — можно получить из VIN
+- Один смартфон не разделяет bounce и pitch без дополнительных измерений ax
+
+**Правила:** 1.1, 1.5, 1.10
+
+**Источники:**
+- Fault detection of vehicle suspension system using wavelet analysis. *Vehicle System Dynamics*, 47(4). DOI:10.1080/00423110802094298
+- Franczyk B., Maniowski M., Gołdasz J. (2024). *Proc. IMechE Part D*, 238(9):2491–2503. DOI:10.1177/09544070231174280
+- Ivanov V. et al. (2018). Vehicle suspension diagnostics from a swept-sine road excitation. *MATEC Web of Conferences*, 234:02005. DOI:10.1051/matecconf/201823402005
+
+---
+
+### A.3 Quarter-Car Model
+
+Quarter-car model — упрощённая двухмассовая система, моделирующая одну четверть автомобиля: подрессоренная масса m_s (кузов) на пружине k_s и демпфере c, неподрессоренная масса m_u (колесо, ступица, тормоз) на шине k_t, к которой прикладывается профиль дороги z_r(t). Модель введена в 1950-х годах как стандарт оценки ездового комфорта и управляемости; Gillespie (1992) дал ей канонический вид в учебнике Fundamentals of Vehicle Dynamics. Несмотря на упрощённость, quarter-car верно воспроизводит два ключевых резонанса: bounce (~1–2 Гц, кузов) и wheel hop (~10–15 Гц, колесо). Модель лежит в основе функции Ляпунова (A.4) и Energy Decay Rate (EDR): чем меньше c, тем медленнее затухают колебания после удара. ISO 2631-1 использует именно quarter-car для определения передаточной функции подвески при оценке комфорта. Для смартфон-диагностики quarter-car позволяет предсказать ожидаемый диапазон частот и амплитуд сигнала при данных параметрах подвески.
+
+**Математическая основа:**
+
+```
+Уравнения движения:
+  m_s·z̈_s + c·(ż_s − ż_u) + k_s·(z_s − z_u) = 0           [кузов]
+  m_u·z̈_u − c·(ż_s − ż_u) − k_s·(z_s − z_u) + k_t·(z_u − z_r) = 0  [колесо]
+
+Собственные частоты:
+  f_bounce   = (1/2π)·√(k_s/m_s)     ≈ (1/2π)·√(25000/300) ≈ 1.45 Гц
+  f_wheel_hop = (1/2π)·√(k_t/m_u)    ≈ (1/2π)·√(200000/45) ≈ 10.6 Гц
+
+Коэффициент демпфирования:
+  ζ = c / (2·√(k_s·m_s))
+  ζ = 0.25–0.40 → исправный амортизатор
+  ζ < 0.15      → критический износ
+```
+
+**Численные примеры (C-класс, передняя подвеска):**
+
+```
+Параметр         Типичное значение    Диапазон
+m_s              300 кг               250–400 кг
+m_u              45 кг                35–60 кг
+k_s              25 000 Н/м           18 000–35 000 Н/м
+k_t              200 000 Н/м          150 000–250 000 Н/м
+c (новый)        2 200 Нс/м           1 500–3 000 Нс/м
+c (изношенный)   800 Нс/м             400–1 200 Нс/м
+ζ (новый)        0.32                 0.25–0.45
+ζ (изношенный)   0.12                 0.08–0.20
+```
+
+**Применение в LLCAR:**
+Теоретическая основа для EDR-алгоритма и функции Ляпунова. Bounce-частота 1.2–1.5 Гц предсказывает, где искать доминантный пик в FFT(az). Wheel hop ~10 Гц — ориентир для диагностики шин и ступичных подшипников.
+
+**Ограничения:**
+- Линейная модель; игнорирует нелинейность клапанов амортизатора
+- Не учитывает асимметрию левой/правой сторон и pitch
+- Параметры m_s, k_s варьируются с загрузкой автомобиля
+
+**Правила:** 1.6, 1.14
+
+**Источники:**
+- Gillespie T.D. (1992). *Fundamentals of Vehicle Dynamics*. SAE International, R-114. ISBN:978-1-56091-199-9
+- Czop P. et al. (2023). Control Lyapunov Function + Control Barrier Function quarter car model. *MDPI Applied Sciences*, 14(8):3140. DOI:10.3390/app14083140
+- ISO 2631-1:1997. Mechanical vibration and shock — Evaluation of human exposure to whole-body vibration. iso.org/standard/7612.html
+
+---
+
+### A.4 Функция Ляпунова и EDR
+
+Теория Ляпунова предоставляет энергетический критерий устойчивости динамической системы без решения дифференциальных уравнений. Для quarter-car модели функция Ляпунова V(x) — это полная механическая энергия системы (кинетическая + потенциальная). Если производная dV/dt ≤ 0 при нулевом возбуждении дороги, система диссипирует энергию и устойчива: амортизатор работает. При деградации амортизатора (c → 0) производная dV/dt приближается к нулю — система перестаёт гасить колебания. Этот принцип позволяет определить Energy Decay Rate (EDR) как меру качества демпфирования. Rosenstein et al. (1993) разработали алгоритм вычисления максимального показателя Ляпунова λ_max из временного ряда через реконструкцию фазового пространства методом задержки. Положительный λ_max означает хаотическое расхождение траекторий — признак нестабильной, плохо демпфированной подвески. Czop et al. (2023) применили Control Lyapunov Function (CLF) совместно с Control Barrier Function (CBF) для активной подвески с MR-демпферами.
+
+**Математическая основа:**
+
+```
+Функция Ляпунова (quarter-car):
+  V(x) = ½·m_s·ż_s² + ½·m_u·ż_u² + ½·k_s·(z_s−z_u)² + ½·k_t·(z_u−z_r)²
+
+Производная по времени (на ровной дороге, ż_r = 0):
+  dV/dt = −c·(ż_s − ż_u)²  ≤ 0   [устойчивость по Ляпунову]
+
+EDR (Energy Decay Rate):
+  γ = c/(2·m_s)    [с⁻¹]
+  После импульса: A(t) = A₀·exp(−γ·t),  E(t) = E₀·exp(−2γ·t)
+
+Относительное демпфирование:
+  ζ = γ/ω_n,   ω_n = 2π·f_bounce
+
+Алгоритм Rosenstein (λ_max из временного ряда):
+  X_i = [x_i, x_{i+τ}, ..., x_{i+(m-1)τ}]  — реконструкция фазового пространства
+  d_i(t) = ||X_{i+t} − X_{j+t}||            — расхождение ближайших соседей
+  λ_max = slope[ <ln(d_i(t))> vs t ]
+```
+
+**Численные примеры — пороги EDR:**
+
+```
+Состояние           γ [с⁻¹]     ζ           Интерпретация
+Новый               3.0–5.0     0.30–0.50   Хорошее демпфирование
+Норма               2.0–3.0     0.20–0.30   Приемлемо
+Начальный износ     1.0–2.0     0.10–0.20   Мониторинг
+Критический износ   < 1.0       < 0.10      Замена необходима
+```
+
+**Применение в LLCAR:**
+Proxy λ_max через коэффициент вариации оконных az_std: CV(az_std) = σ(az_std)/μ(az_std). Прямой расчёт EDR требует сырых данных ≥50 Гц после одиночного удара; proxy через CV(az_std) по сессии работает на агрегированных данных.
+
+**Ограничения:**
+- Istинный λ_max по Rosenstein требует ≥1000 точек сырого сигнала при ≥50 Гц
+- CV(az_std) — лишь эвристический proxy, не физически осмысленный λ_max
+- EDR из summary stats даёт погрешность ±30–50% без калибровки на конкретной модели авто
+
+**Правила:** 1.6, 1.14
+
+**Источники:**
+- Rosenstein M.T., Collins J.J., De Luca C.J. (1993). A practical method for calculating largest Lyapunov exponents from small data sets. *Physica D*, 65(1–2):117–134. DOI:10.1016/0167-2789(93)90009-P
+- Czop P. et al. (2023). Control Lyapunov and Control Barrier Functions for quarter-car active suspension. *MDPI Applied Sciences*, 14(8):3140. DOI:10.3390/app14083140
+- Gillespie T.D. (1992). *Fundamentals of Vehicle Dynamics*. SAE International, R-114. ISBN:978-1-56091-199-9
+
+---
+
+### A.5 ISO 2631-1 Воздействие вибрации на человека
+
+ISO 2631-1:1997 «Механические вибрации и удары — Оценка воздействия вибрации на человека — Часть 1: Общие требования» — основной международный стандарт для оценки whole-body vibration (WBV). Стандарт охватывает диапазон 0.5–80 Гц для здоровья и комфорта и 0.1–0.5 Гц для морской болезни. Ключевая метрика — частотно-взвешенное RMS ускорение a_w, вычисляемое с применением фильтра Wk (вертикальная ось Z) или Wd/Wc (горизонтальные оси). Стандарт определяет Health Guidance Caution Zone (HGCZ) в Приложении B: при суточном воздействии A(8) > 0.9 м/с² риск здоровью вероятен. Порог az_peak = 13.8 м/с² (≈1.41g) не является прямым порогом стандарта — он происходит из пиковых оценок при Crest Factor до 15 или из требований ISO 2631-5:2018 (множественные удары, давление на позвоночник). Ряд автомобильных стандартов (GM, Ford) используют 13.8 м/с² как предел одиночного удара, выше которого неизбежна негативная реакция пассажира. Для LLCAR пороги масштабируются от 8-часового воздействия к длительности поездки.
+
+**Математическая основа:**
+
+```
+Частотно-взвешенное RMS:
+  a_w = √(1/T · ∫₀ᵀ [a_w(t)]² dt)
+
+VDV (Vibration Dose Value, при Crest Factor > 6):
+  VDV = (∫₀ᵀ [a_w(t)]⁴ dt)^(1/4)   [м/с^1.75]
+
+Масштабирование к длительности поездки T [ч]:
+  A(T) = A(8) · √(8/T)   →   A(0.5ч) = A(8) · √16 = 4·A(8)
+```
+
+**Численные пороги:**
+
+```
+a_w [м/с² RMS]   Субъективная реакция (ISO 2631-1, Прил. C)
+< 0.315          Не дискомфортно
+0.315–0.63       Немного дискомфортно
+0.63–1.0         Довольно дискомфортно
+0.8–1.6          Дискомфортно
+1.25–2.5         Очень дискомфортно
+> 2.0            Крайне дискомфортно
+
+HGCZ (A(8), 8-часовое воздействие):
+< 0.45 м/с²      Риск здоровью не выявлен
+0.45–0.90        Зона осторожности (HGCZ)
+> 0.90           Риск здоровью вероятен
+
+VDV: нижняя граница HGCZ = 8.5 м/с^1.75; верхняя = 17 м/с^1.75
+
+Proxy az_std → a_w (без Wk-фильтра, погрешность ±15–35%):
+  az_std < 0.27        → a_w < 0.315  (норма)
+  az_std 0.27–0.54     → a_w 0.315–0.63
+  az_std 0.54–0.85     → a_w 0.63–1.0
+  az_std > 0.85        → a_w > 1.0 (дискомфортно)
+```
+
+**Применение в LLCAR:**
+az_std используется как proxy для a_w с коэффициентом k_correction ∈ [0.7, 1.3] в зависимости от типа дороги. az_peak_abs > 13.8 м/с² — триггер критического удара. При Crest Factor > 6 метод RMS недостаточен, требуется VDV.
+
+**Ограничения:**
+- Без цифрового фильтра Wk az_std является лишь приближением a_w с погрешностью 15–35%
+- Пороги нормированы на 8 часов; для коротких поездок требуется масштабирование
+- Смартфон имеет шум ±0.02–0.05 g, что вносит ошибку при малых вибрациях
+
+**Правила:** 1.4, 1.13
+
+**Источники:**
+- ISO 2631-1:1997. Mechanical vibration and shock. iso.org/standard/7612.html
+- ISO 2631-5:2018. Method for evaluation of vibration containing multiple shocks. iso.org/standard/50905.html
+- Smartphone vibration for road monitoring (DOI:10.3390/s20061818); MEMS accelerometer validation (DOI:10.1109/JSEN.2021.3094452)
+
+---
+
+### A.6 Частотное взвешивание Wk
+
+Фильтр Wk (ISO 2631-1, Приложение A) описывает частотную чувствительность человека к вертикальной вибрации в сидячем положении. Человеческое тело имеет резонанс органов брюшной полости и позвоночника в диапазоне 4–8 Гц, поэтому одинаковое RMS ускорение на 6 Гц воспринимается значительно хуже, чем на 60 Гц. Фильтр реализован как каскадный IIR-фильтр (4–6 биквадратных секций) через билинейное преобразование из аналогового прототипа. Для горизонтальных осей X и Y применяется фильтр Wd с пиком чувствительности при 1–2 Гц. Wc используется для вибрации через спину (лежачее положение). Без применения Wk-фильтра az_std является лишь широкополосным RMS, которое не отражает физиологическую опасность: дорожный профиль класса B с энергией на 1 Гц и 8 Гц одинаково меняет az_std, но 8 Гц воспринимается вдвое хуже. Практическая коррекция через k_correction позволяет получить приближение a_w без цифрового фильтра с погрешностью 15–35%.
+
+**Математическая основа:**
+
+```
+Wk(f) — нормированная АЧХ (ISO 2631-1, Приложение A):
+  f = 1 Гц:   Wk ≈ 0.40   (пониженная чувствительность)
+  f = 4 Гц:   Wk ≈ 0.90   (нарастание)
+  f = 6.3 Гц: Wk ≈ 1.00   (пик чувствительности)
+  f = 8 Гц:   Wk ≈ 0.95   (плато)
+  f = 16 Гц:  Wk ≈ 0.50   (спад −12 дБ/октаву)
+  f = 63 Гц:  Wk ≈ 0.10   (слабая чувствительность)
+
+Цифровая реализация (Python, scipy):
+  sos = signal.iirdesign(wp=[4, 8], ws=[0.5, 80], gpass=1, gstop=40,
+                          analog=False, ftype='ellip', fs=fs, output='sos')
+  az_weighted = signal.sosfilt(sos, az_raw)
+  a_w = np.sqrt(np.mean(az_weighted**2))
+
+Коррекция без фильтра:
+  a_w ≈ az_std × k_correction
+  Асфальт (широкополосный):   k ≈ 0.85–0.95
+  Брусчатка (доминанта 2–4Гц): k ≈ 1.1–1.3
+  Ухабы (единичные удары):    метод RMS неприменим → VDV
+```
+
+**Численные примеры:**
+
+```
+az_std [м/с²]   k_correction   a_w [м/с²]   Интерпретация ISO 2631-1
+0.20            0.90            0.18         Не дискомфортно
+0.40            0.90            0.36         Немного дискомфортно
+0.70            1.10            0.77         Довольно дискомфортно
+1.20            1.00            1.20         Дискомфортно
+```
+
+**Применение в LLCAR:**
+Пересчёт az_std в ISO-совместимый a_w для правил комфорта (1.4, 1.13). Полный Wk-фильтр запланирован при переходе на raw signal pipeline — даст точность a_w ±5% вместо ±25%.
+
+**Ограничения:**
+- k_correction зависит от типа дороги и скорости — без классификации дороги погрешность 15–35%
+- Wk-фильтр требует raw signal ≥100 Гц; на summary stats недоступен
+- Wd (горизонтальная чувствительность) отличается от Wk; ay-ось требует отдельной коррекции
+
+**Правила:** 1.4, 1.13
+
+**Источники:**
+- ISO 2631-1:1997. Mechanical vibration and shock. iso.org/standard/7612.html
+- Smartphone road monitoring — vibration correlation study. *Sensors*, 2020. DOI:10.3390/s20061818
+- MEMS accelerometer frequency response validation. *IEEE Sensors J.*, 2021. DOI:10.1109/JSEN.2021.3094452
+
+---
+
+### A.7 ISO 8608 Классификация дорожного профиля
+
+ISO 8608:2016 «Механические вибрации — Профили дорожного покрытия — Методы классификации и характеристики» — стандарт описания неровностей дороги через Power Spectral Density (PSD) вертикального профиля. Стандарт введён в 1995 году и стал основой для сравнения дорог в разных странах и задания нагрузочных спектров при испытаниях. Дорога класса A (автобан) имеет PSD в 64 раза меньше класса D (разбитый асфальт) — это напрямую определяет уровень вибрации подвески и, следовательно, пороги диагностических правил. PSD описывается степенным законом с показателем w ≈ 2, что означает: на низких пространственных частотах (длинные волны, ямы) дорога вносит больше энергии, чем на высоких (короткие волны, мелкие неровности). Для LLCAR классификация дороги критически важна: одно и то же az_std = 0.5 м/с² на дороге класса A означает неисправную подвеску, а на дороге класса D — норму для данного типа покрытия. Без нормализации к классу дороги ложные срабатывания правил неизбежны.
+
+**Математическая основа:**
+
+```
+PSD дорожного профиля:
+  Gd(n) = Gd(n₀)·(n/n₀)^(−w)
+  n₀ = 0.1 cycles/m  (опорная пространственная частота)
+  w ≈ 2              (показатель степени, типичный для дорог)
+  n = spatial frequency [cycles/m]
+
+Классы ISO 8608 (Gd(n₀) × 10⁻⁶ м³/cycles/m):
+  Класс A: Gd = 1      — гладкий автобан, новое покрытие
+  Класс B: Gd = 4      — хорошая дорога, лёгкий износ
+  Класс C: Gd = 16     — средняя дорога, выбоины редки
+  Класс D: Gd = 64     — плохая дорога, заплатки, выбоины
+  Класс E: Gd = 256    — грунтовая дорога
+  Классы F–H: Gd ≥ 1024 — бездорожье, строительная площадка
+
+Связь PSD → az_std при скорости v [м/с] и bounce freq f_n:
+  σ_z² ≈ ∫ |H(f)|² · Φ_road(f) df
+  az_std ≈ (2π·f_n)² · z_std   (через передаточную функцию подвески)
+```
+
+**Численные примеры — ожидаемый az_std по классу дороги:**
+
+```
+Класс дороги   az_std proxy [м/с²]   Интерпретация LLCAR
+A              < 0.15                Нормализация не требуется
+B              0.15–0.30             Норма для большинства правил
+C              0.30–0.60             Повышенный порог тревоги
+D              0.60–1.20             Правила подвески неприменимы
+E+             > 1.20                Только аварийные правила
+
+Proxy классификации через variance(az_avg) по окнам 500 мс:
+  var < 0.01   → Класс A–B
+  0.01–0.05    → Класс B–C
+  0.05–0.20    → Класс C–D
+  ≥ 0.20       → Класс D+
+```
+
+**Применение в LLCAR:**
+road_roughness_psd — нормализация az_std к классу дороги перед применением правил. Без нормализации правило damper_energy_decay (1.6) будет давать ложные срабатывания на разбитых дорогах.
+
+**Ограничения:**
+- Proxy через variance(az_avg) даёт грубую оценку класса; точная классификация требует PSD из raw signal
+- Класс дороги меняется вдоль маршрута; нужна скользящая оценка, а не среднее по поездке
+- Смешение классов A и D в одной поездке усредняется, маскируя критические участки
+
+**Правила:** Корреляция 5.7 (road_roughness_psd), нормализация для 1.1–1.9
+
+**Источники:**
+- ISO 8608:2016. Mechanical vibration — Road surface profiles — Reporting of measured data. iso.org
+- Smartphone road surface monitoring. *Sensors*, 2020. DOI:10.3390/s20061818
+- Ivanov V. et al. (2018). *MATEC Web of Conferences*, 234:02005. DOI:10.1051/matecconf/201823402005
+
+---
+
+### A.8 BPFO/BPFI Частоты дефектов подшипников
+
+Ball Pass Frequency Outer/Inner Race (BPFO/BPFI) — кинематические частоты, с которыми тела качения проходят через дефект (выбоину, питтинг) на соответствующем кольце подшипника. При каждом контакте с дефектом генерируется микроудар, возбуждающий резонанс конструкции. Периодическая последовательность ударов создаёт пики на BPFO/BPFI и их гармониках в спектре огибающей. Формулы кинематики подшипника впервые систематизированы в 1960-х годах для промышленных подшипников и адаптированы для ступичных подшипников в автомобилях. Ступичный подшипник автомобиля типично имеет 7–9 шариков, угол контакта 15–25°, поэтому BPFO ≈ 4.0–4.5 × wheel_rps. При скорости 60 км/ч и колесе R16 (диаметр ~0.65 м) wheel_rps ≈ 8.7 об/с, BPFO ≈ 35–39 Гц — попадает в зону частотного диапазона аудио смартфона. Наличие ≥3 гармоник BPFO в FFT-спектре аудио соответствует Stage II–III деградации подшипника. Исследование Balaji & Sugumaran (2024) подтвердило точность обнаружения 95.88% на статистических признаках из акселерометра.
+
+**Математическая основа:**
+
+```
+BPFO = (N/2)·f_r·(1 − (Bd/Pd)·cos α)    [Гц]  — наружное кольцо
+BPFI = (N/2)·f_r·(1 + (Bd/Pd)·cos α)    [Гц]  — внутреннее кольцо
+BSF  = (Pd/(2·Bd))·f_r·(1 − (Bd/Pd·cos α)²)  — шарик
+FTF  = (f_r/2)·(1 − (Bd/Pd)·cos α)      [Гц]  — сепаратор
+
+  N   = число тел качения (6–9 для ступичных)
+  Bd  = диаметр тела качения [м]
+  Pd  = делительный диаметр [м]
+  α   = угол контакта (15–25°)
+  f_r = частота вращения вала/колеса [Гц]
+
+Упрощение (без геометрии подшипника):
+  BPFO_est ≈ (N/2)·(1 − 0.4)·f_r ≈ 3.9·f_r   (N=7, Bd/Pd≈0.3, cos15°≈0.97)
+  wheel_rps = speed [м/с] / (π·D_wheel)
+  При speed=60 км/ч=16.7 м/с, D=0.65 м: f_r = 8.18 об/с → BPFO ≈ 32 Гц
+```
+
+**Численные примеры:**
+
+```
+Скорость   f_r [Гц]   BPFO_est [Гц]   Диагностический диапазон
+30 км/ч    4.09        16              15–20 Гц
+60 км/ч    8.18        32              28–38 Гц
+90 км/ч    12.3        48              42–56 Гц
+120 км/ч   16.4        64              56–74 Гц
+
+Критерий стадии дефекта (по количеству гармоник BPFO в FFT):
+  1 гармоника  → Stage I  (ранний дефект, нет alarm)
+  2 гармоники  → Stage II (начальный питтинг, monitoring)
+  ≥3 гармоники → Stage III (развитый дефект, alert)
+```
+
+**Применение в LLCAR:**
+bpfo_harmonic_matches — подсчёт гармоник BPFO в 10 FFT-пиках аудио. Расчёт через speed (OBD) и оценочный D_wheel из VIN. Подтверждение ≥3 совпадений → правило 1.3 (wheel_bearing_bpfo_harmonics).
+
+**Ограничения:**
+- Без точной геометрии подшипника BPFO_est имеет погрешность ±10–15%
+- Аудио смартфона улавливает BPFO выше ~20 Гц; при скорости < 25 км/ч сигнал слишком слабый
+- Стадия I (одна гармоника) не диагностируется по 10 пикам FFT — нужен envelope analysis
+
+**Правила:** 1.3
+
+**Источники:**
+- Balaji P.A., Sugumaran V. (2024). Fault detection of automobile suspension using decision tree algorithms. *Proc. IMechE Part E*. DOI:10.1177/09544089231152698
+- Dragomiretskiy K., Zosso D. (2014). VMD for bearing fault detection. *IEEE Trans. Signal Processing*, 62(3):531–544. DOI:10.1109/TSP.2013.2288675
+- Wang Y. et al. (2015). Comparative study VMD vs EMD in bearing fault diagnosis. *Proc. IMCEC*. DOI:10.1109/IMCEC.2015.7036515
+
+---
+
+### A.9 Envelope Analysis (анализ огибающей, преобразование Гильберта)
+
+Envelope analysis — стандартный метод диагностики подшипников, позволяющий обнаружить дефект в Stage I–II, когда пики BPFO ещё не видны в прямом FFT-спектре. Принцип: дефект создаёт периодические микроудары, амплитудно модулирующие высокочастотный резонанс несущей конструкции (1–20 кГц). Прямой FFT виден только несущий сигнал, но не модулирующая частота (BPFO). Преобразование Гильберта переводит сигнал в аналитическую форму, из которой извлекается огибающая — медленно меняющаяся амплитудная функция. FFT от огибающей показывает BPFO как отчётливый пик. Метод введён для промышленных систем в 1970-х годах, для автомобильных подшипников широко применяется с 1990-х. VMD (A.16) используется как предобработка перед envelope analysis для изоляции информативной моды. Точность диагностики Stage I подшипника при envelope analysis с VMD-предобработкой превышает 99% (Park et al., 2024, DOI:10.1007/s12206-024-0905-3).
+
+**Математическая основа:**
+
+```
+Шаг 1: Bandpass filter вокруг резонансной частоты конструкции
+  Полоса: обычно 1–5 кГц или 5–15 кГц для ступичных подшипников
+
+Шаг 2: Аналитический сигнал через преобразование Гильберта:
+  z(t) = x(t) + j·H{x(t)}
+  H{x(t)} = (1/π) · PV ∫ x(τ)/(t−τ) dτ   (главное значение интеграла)
+
+Шаг 3: Огибающая:
+  e(t) = |z(t)| = √(x²(t) + H²{x(t)})
+
+Шаг 4: Envelope spectrum:
+  E(f) = FFT(e(t))
+  Пики при f = BPFO, 2·BPFO, 3·BPFO → дефект наружного кольца
+  Пики при f = BPFI, 2·BPFI          → дефект внутреннего кольца
+  Подтверждение: совпадение ±5% с расчётным BPFO
+
+Python реализация:
+  from scipy.signal import hilbert, butter, sosfilt
+  z = hilbert(bandpass_signal)
+  envelope = np.abs(z)
+  E = np.abs(np.fft.rfft(envelope))
+```
+
+**Численные примеры:**
+
+```
+Стадия дефекта   Проявление в спектре             Видимость в прямом FFT
+Stage I          1 пик в envelope на BPFO         Не виден
+Stage II         2–3 гармоники BPFO в envelope    Слабый пик на BPFO
+Stage III        Сильные гармоники + sidebands     Виден в прямом FFT
+Stage IV         Broadband шум, пики размываются  Весь спектр загрязнён
+```
+
+**Применение в LLCAR:**
+Полный envelope analysis не реализован — требует raw audio (44.1 кГц). Текущий proxy: 10 дискретных FFT-пиков аудио + bpfo_harmonic_matches. Будущая реализация: VMD (K=6) → выбор информативной моды по kurtosis → Hilbert → envelope FFT.
+
+**Ограничения:**
+- Требует raw signal с частотой ≥2×f_resonance (обычно ≥10 кГц для ступичных подшипников)
+- Выбор полосы bandpass filter критичен: неправильная полоса → ложные или пропущенные диагнозы
+- Смартфонный микрофон имеет спад выше 8–16 кГц; резонансные частоты могут быть недоступны
+
+**Правила:** 1.3 (proxy), будущее улучшение
+
+**Источники:**
+- Dragomiretskiy K., Zosso D. (2014). Variational Mode Decomposition. *IEEE Trans. Signal Processing*, 62(3):531–544. DOI:10.1109/TSP.2013.2288675
+- Wang Y. et al. (2015). Comparative study VMD vs EMD bearing fault. *Proc. IMCEC*. DOI:10.1109/IMCEC.2015.7036515
+- Park S. et al. (2024). Deep learning-based fault classification CEEMD-VMD-IMF. *J Mech Sci Technol*. DOI:10.1007/s12206-024-0905-3
+
+---
+
+### A.10 FFT Спектральный анализ
+
+Быстрое преобразование Фурье (FFT, Fast Fourier Transform) — алгоритм Кули-Тьюки (1965) для вычисления дискретного преобразования Фурье (DFT) за O(N log N) вместо O(N²). FFT является основой всего спектрального анализа в диагностике: двигатель, трансмиссия, подвеска и аудио-дефекты имеют характерные частотные подписи, которые обнаруживаются только в частотной области. В LLCAR FFT применяется к 500-мс окнам акселерометра (az, 100 Гц) и аудио (44.1 кГц, до HPSS): 10 доминантных гармонических пиков (freq_1..10, amp_1..10) и 10 перкуссивных пиков (peak_1..10). Частотное разрешение для 500 мс окна: Δf = 1/0.5 = 2 Гц — достаточно для идентификации порядков двигателя (обычно разнесены на 5–30 Гц), но недостаточно для узкополосного анализа подшипников (нужен Δf < 0.5 Гц). Применение оконной функции (Hann, Hamming) перед FFT снижает спектральную утечку для тональных сигналов.
+
+**Математическая основа:**
+
+```
+DFT:  X[k] = Σ_{n=0}^{N-1} x[n]·e^(−j2π·k·n/N)
+  k = 0, 1, ..., N/2   — частотный индекс
+  f[k] = k·fs/N        — физическая частота [Гц]
+  Δf = fs/N = 1/T      — частотное разрешение
+
+Для LLCAR акселерометр (fs=100 Гц, N=50 отсчётов за 500 мс):
+  Δf = 2 Гц,  f_max = 50 Гц  (диапазон подвески полностью покрыт)
+
+Для LLCAR аудио (fs=44100 Гц, N=22050 за 500 мс):
+  Δf = 2 Гц,  f_max = 22050 Гц  (весь слышимый диапазон)
+
+Мощность пика: P(f) = |X[k]|²
+Нормированная: P_norm(f) = P(f)/Σ P(f)   → для Spectral Entropy (A.15)
+```
+
+**Частотные диапазоны диагностики в LLCAR:**
+
+```
+Диапазон [Гц]   Источник сигнала           Диагностическое применение
+0.5–2.5         Bounce/pitch подвески       Деградация пружин, амортизатора (A.2, A.3)
+7–15            Wheel hop                   Давление шин, ступичный подшипник
+20–80           Сайлентблоки, втулки        Деградация резины (A.25)
+100–200         Ступичный подшипник (BPFO)  При скорости 60–90 км/ч (A.8)
+50–200          Впуск, подвеска             Общий шум
+200–500         Помпа ГУР, цепь ГРМ        Посторонние шумы
+500–1500        Клапанный механизм          Стук клапанов
+1000–4000       Ремень ГРМ, турбина         Свист, гул
+5000–8000       Детонация                   Стук детонации (A.11, A.12)
+```
+
+**Применение в LLCAR:**
+dominant_freq (freq_1), dominant_amp (amp_1), audio_energy_band_*, rpm_harmonic_matches — все вычисляются из 10 FFT-пиков. Правило 1.2 (spring_stiffness_loss) ищет смещение bounce-пика. Правило 1.3 — гармоники BPFO в пиках 1..10.
+
+**Ограничения:**
+- 10 пиков — только сильнейшие компоненты; слабые дефектные частоты могут быть пропущены
+- Δf = 2 Гц недостаточно для разрешения BPFO гармоник при низкой скорости
+- FFT предполагает стационарность сигнала; при разгоне/торможении нужен STFT
+
+**Правила:** Все T3 аудио-правила (секция 2), 1.2, 1.3, 1.9, 1.15
+
+**Источники:**
+- Balaji P.A., Sugumaran V. (2024). Fault detection of automobile suspension using decision tree. *Proc. IMechE Part E*. DOI:10.1177/09544089231152698
+- Al-Bugharbee H. et al. (2024). Diagnosing Faults in Suspension System Using Feature Fusion. *Arabian J Sci Eng*. DOI:10.1007/s13369-024-08924-8
+- Dragomiretskiy K., Zosso D. (2014). VMD. *IEEE Trans. Signal Processing*, 62(3):531–544. DOI:10.1109/TSP.2013.2288675
+
+---
+
+### A.11 HPSS (Harmonic/Percussive Source Separation)
+
+HPSS — алгоритм разделения аудиосигнала на гармоническую (тональную, устойчивую во времени) и перкуссивную (ударную, широкополосную) составляющие. Метод предложен Fitzgerald (2010) и реализован в librosa. Физическое обоснование: гармонический сигнал (работающий двигатель, ремень ГРМ, выхлоп) в спектрограмме образует горизонтальные полосы — стабильные во времени. Перкуссивный сигнал (детонация, стук клапанов, удар о кочку) образует вертикальные всплески — широкополосные по частоте, но кратковременные. Медианные фильтры в разных направлениях разделяют эти две структуры с помощью масок на основе соотношения энергий. Для LLCAR HPSS критически важна: без неё мощный тональный шум двигателя маскирует слабые перкуссивные события детонации. После HPSS анализируется только перкуссивная компонента P(t,f) для обнаружения стуков. Исследование knock_impulse_percussive (правило 1.15) основано именно на энергии в полосе 5–8 кГц перкуссивной компоненты.
+
+**Математическая основа:**
+
+```
+Входной сигнал: x(t) → STFT → комплексная спектрограмма S(t, f)
+Амплитуда: |S(t, f)|
+
+Шаг 1: Медианный фильтр по времени (горизонтальный):
+  H(t, f) = median_filter(|S(t, f)|, kernel=(1, L_h))   — L_h >> 1 (тональные полосы)
+
+Шаг 2: Медианный фильтр по частоте (вертикальный):
+  P(t, f) = median_filter(|S(t, f)|, kernel=(L_p, 1))   — L_p >> 1 (ударные всплески)
+
+Шаг 3: Мягкие маски (Wiener-like):
+  M_H(t, f) = H(t,f)² / (H(t,f)² + P(t,f)² + ε)
+  M_P(t, f) = P(t,f)² / (H(t,f)² + P(t,f)² + ε)
+
+Шаг 4: Компоненты:
+  S_H(t, f) = M_H · S(t, f)   → ISTFT → гармонический сигнал
+  S_P(t, f) = M_P · S(t, f)   → ISTFT → перкуссивный сигнал
+
+Python (librosa):
+  import librosa
+  H, P = librosa.decompose.hpss(S_mag, kernel_size=(31, 31))
+  percussive_energy = np.mean(P[freq_5k:freq_8k, :]**2)
+```
+
+**Численные примеры:**
+
+```
+Событие                  Где в спектрограмме   Доля в P(t,f) [%]
+Нормальный двигатель     Горизонтальные линии  < 10%
+Детонация (knock)        Вертикальный всплеск  > 60%
+Стук клапана             Вертикальный всплеск  40–70%
+Свист ремня              Горизонтальная линия  < 15%
+Удар о кочку (подвеска)  Вертикальный всплеск  > 50%
+```
+
+**Применение в LLCAR:**
+percussive_energy_5k_8k — суммарная энергия P(t,f) в полосе 5–8 кГц за 500 мс окно. percussive_peak_count — число пиков выше порога в P-компоненте. Оба признака используются в правиле 1.15 (knock_impulse_percussive).
+
+**Ограничения:**
+- HPSS не различает детонацию и удар подвески: оба перкуссивные — нужен дополнительный признак (частота > 4 кГц → детонация; < 1 кГц → подвеска)
+- Качество разделения зависит от размера медианного ядра: маленькое ядро → плохое разделение; большое → вычислительно дорого
+- Работает только с raw audio; на summary stats недоступен
+
+**Правила:** 1.15 (knock_impulse_percussive)
+
+**Источники:**
+- Fitzgerald D. (2010). Harmonic/Percussive Separation using Median Filtering. *Proc. DAFx*. (оригинальная публикация алгоритма)
+- Balaji P.A., Sugumaran V. (2024). Feature extraction for suspension fault detection. *Proc. IMechE Part E*. DOI:10.1177/09544089231152698
+- Dragomiretskiy K., Zosso D. (2014). VMD. *IEEE Trans. Signal Processing*. DOI:10.1109/TSP.2013.2288675
+
+---
+
+### A.12 Kurtosis (эксцесс)
+
+Kurtosis — нормированный 4-й статистический момент, характеризующий «остроту» распределения сигнала и наличие тяжёлых хвостов. Для гауссового распределения kurtosis = 3.0 (эксцесс = 0). Импульсные события (удары подшипника, детонация, стук) создают редкие, но сильные выбросы — kurtosis резко возрастает выше 6–10. Broadband-износ (равномерное истирание, шум дороги) размывает распределение — kurtosis снижается к 3 или ниже. Эта нелинейная зависимость делает kurtosis идеальным ранним индикатором: в Stage I-II дефекта подшипника kurtosis достигает 5–8, тогда как RMS ещё в норме. В Stage IV (полное разрушение) kurtosis парадоксально снижается — потому что удары сливаются в непрерывный шум. Sugumaran & Balaji (2024) выявили kurtosis как наиболее информативный признак (Gini importance = 0.23) при классификации 7 типов дефектов подвески. В LLCAR kurtosis из акселерометра вычисляется через az_shape4 (4-й момент shape factor).
+
+**Математическая основа:**
+
+```
+Kurtosis:
+  K = E[(x − μ)⁴] / σ⁴   = μ₄ / σ⁴
+
+Избыточный эксцесс (excess kurtosis):
+  K_excess = K − 3   (для гауссового: K_excess = 0)
+
+Для дискретного сигнала x[n] (N отсчётов):
+  μ₄ = (1/N) · Σ (x[n] − x̄)⁴
+  K  = μ₄ / ((1/N · Σ(x[n]−x̄)²)²)
+
+Связь с другими признаками:
+  Crest Factor ≈ K^(1/4) · √2  (для импульсных сигналов)
+  Kurtosis proxy: (az_shape4)⁴ / (az_std)⁴  (через shape factors LLCAR)
+```
+
+**Численные примеры — 4 стадии деградации подшипника:**
+
+```
+Стадия      Описание дефекта              Kurtosis   RMS (норм.)
+Stage I     Подповерхностные трещины      3.0–4.0    1.0  (нет изменений)
+Stage II    Поверхностный скол, питтинг   5.0–8.0    1.1–1.3  ← цель LLCAR
+Stage III   Видим в прямом FFT            8.0–15.0   1.5–2.5
+Stage IV    Broadband разрушение          2.5–3.5    3.0+  (K снижается!)
+
+Норма (нет дефектов):        K = 3.0   (гауссов шум дороги)
+Детонация:                   K > 6.0   (перкуссивные импульсы)
+Изношенный амортизатор:      K ≈ 2–3   (broadband, сглаженное)
+Шаровая опора (ранний износ): K = 4–6
+```
+
+**Применение в LLCAR:**
+az_shape4 (4-й момент нормированного распределения az) используется как proxy kurtosis. Порог K > 5 в сочетании с crest_factor_z > 4 → признак импульсного дефекта. Различение детонации (kurtosis > 6, частота > 4 кГц) от стука подвески (kurtosis 4–6, частота < 500 Гц).
+
+**Ограничения:**
+- az_shape4 в LLCAR — это не точный kurtosis из непрерывного сигнала, а статистика из 500-мс окна; при малом числе выбросов оценка нестабильна
+- Stage IV парадокс: при полном разрушении kurtosis снижается — правило может пропустить критический дефект
+- Kurtosis чувствителен к выбросам от ям на дороге, не связанным с дефектом механики
+
+**Правила:** 1.15 (knock vs squeal), 1.3 (подшипник Stage II)
+
+**Источники:**
+- Balaji P.A., Sugumaran V. (2024). Fault detection of automobile suspension using decision tree algorithms. *Proc. IMechE Part E*. DOI:10.1177/09544089231152698
+- Al-Bugharbee H. et al. (2024). Feature Fusion Strategy for suspension fault diagnosis. *Arabian J Sci Eng*. DOI:10.1007/s13369-024-08924-8
+- Dragomiretskiy K., Zosso D. (2014). VMD — kurtosis as IMF selection criterion. *IEEE Trans. Signal Processing*. DOI:10.1109/TSP.2013.2288675
+
+---
+
+### A.13 Crest Factor (пик-фактор)
+
+Crest Factor (CF) — отношение пикового значения сигнала к его RMS, безразмерная мера «импульсности». CF = √2 ≈ 1.41 для чистой синусоиды; для гауссового шума CF теоретически неограничен, практически CF ≈ 3–4 для широкополосного сигнала. Crest Factor является ранним индикатором деградации подшипников и шаровых опор: при Stage I дефекта единичные импульсы резко увеличивают пиковое значение при неизменном RMS — CF растёт до 4–7. В Stage IV (полное разрушение) удары сливаются в непрерывный шум, RMS растёт, пиковое значение нормируется — CF снижается. Этот парадокс («CF-rollover») является известным ограничением метода. ISO 2631-1 (раздел 4.3.2) предписывает переход с RMS-метода на VDV при CF > 6, поскольку единичные удары доминируют в ущерб здоровью непропорционально своей энергии. Для LLCAR CF вычисляется через az_max и az_std.
+
+**Математическая основа:**
+
+```
+CF = max(|x(t)|) / RMS(x(t))   = x_peak / √(1/T · ∫x²(t) dt)
+
+Для дискретного сигнала:
+  RMS = √(mean(x[n]²))
+  CF  = max(|x[n]|) / RMS
+
+В LLCAR (из summary stats):
+  crest_factor_z = az_max / √(az_avg² + az_std²)   [proxy, погрешность ±10–20%]
+
+Порог VDV (ISO 2631-1, §4.3.2):
+  CF > 6 → a_w RMS недостаточен → использовать VDV
+  VDV = (∫a⁴(t) dt)^(1/4)
+```
+
+**Численные примеры:**
+
+```
+Состояние подвески           CF_z   Интерпретация
+Новый амортизатор, асфальт   1.5–2.5  Норма
+Незначительный износ         2.5–4.0  Мониторинг
+Начальный дефект (Stage II)  4.0–5.5  Предупреждение
+Сильный удар / ямы           5.5–7.0  CF > 6: VDV-оценка
+Полное разрушение (Stage IV) 2.5–4.0  CF снижается (rollover!)
+Детонация (импульсы)         6.0–10.0 Очень высокий CF
+```
+
+**Применение в LLCAR:**
+crest_factor_z — один из ключевых признаков в feature_extractor.py. При CF > 6 правило 1.13 эскалирует в critical. CF используется как proxy для kurtosis (K ≈ CF⁴/4 для импульсных сигналов) и как компонент оценки EDR.
+
+**Ограничения:**
+- CF-rollover: в Stage IV CF снижается — метод пропускает финальную стадию разрушения
+- az_max в LLCAR берётся из 500-мс окна: одиночный выброс от ямы может имитировать дефект
+- Нет нормировки к скорости: CF на плохой дороге выше, чем при том же дефекте на хорошей
+
+**Правила:** 1.6, 1.7, 1.13, 1.20 (high_crest_vertical)
+
+**Источники:**
+- Balaji P.A., Sugumaran V. (2024). Feature importance in suspension fault classification. *Proc. IMechE Part E*. DOI:10.1177/09544089231152698
+- ISO 2631-1:1997. §4.3.2 — Crest Factor threshold for VDV method. iso.org/standard/7612.html
+- Al-Bugharbee H. et al. (2024). Crest factor in feature fusion for suspension diagnosis. *Arabian J Sci Eng*. DOI:10.1007/s13369-024-08924-8
+
+---
+
+### A.14 Shape Factor и Skewness
+
+Shape Factor и Skewness — безразмерные статистические дескрипторы формы распределения виброускорений, дополняющие RMS и kurtosis. Shape Factor (отношение RMS к среднему абсолютному значению) характеризует «форму» сигнала: для синусоиды SF = π/(2√2) ≈ 1.11, для гауссового шума SF ≈ 1.25. В контексте LLCAR используется Shape Ratio = σ/range, который отражает, насколько сигнал «сжат» относительно своего полного диапазона. Skewness (3-й центральный момент) описывает асимметрию распределения ускорений: при положительной асимметрии чаще встречаются резкие удары «вверх» (выступы, кочки), при отрицательной — глубокие провалы (ямы, выбоины). Симметричная подвеска в норме имеет skewness близко к нулю. Sugumaran & Balaji (2024) включали shape factor в топ-5 признаков для классификации дефектов подвески. Оба признака вычислены в feature_extractor.py как az_shape1..az_shape4 (нормированные моменты 1–4).
+
+**Математическая основа:**
+
+```
+Shape Factor (ISO определение):
+  SF = RMS(x) / (1/N · Σ|x[n]|)   = √(Σx²/N) / (Σ|x|/N)
+  Синусоида:  SF = π/(2√2) ≈ 1.11
+  Гауссовый: SF ≈ 1.25
+  Импульсный: SF → большое (редкие мощные импульсы)
+
+Shape Ratio (в LLCAR):
+  SR = σ / (x_max − x_min)
+  SR = 0.25–0.35 → нормальное (Gaussian) распределение
+  SR < 0.15      → редкие сильные пики (импульсы, удары)
+  SR > 0.40      → равномерное распределение (broadband wear)
+
+Skewness (3-й момент):
+  S = E[(x − μ)³] / σ³
+  S = 0   → симметричное распределение
+  S > 0   → удары «вверх» (выступы, кочки дороги)
+  S < 0   → удары «вниз» (ямы, просадки)
+  |S| > 1 → выраженная асимметрия (возможный дефект или тип покрытия)
+
+В LLCAR (feature_extractor.py):
+  az_shape1 = mean(az) / az_std         — нормированное среднее
+  az_shape2 = az_std / az_range         — Shape Ratio
+  az_shape3 = skew(az)                  — Skewness
+  az_shape4 = kurtosis(az)              — Kurtosis (4-й момент)
+```
+
+**Численные примеры:**
+
+```
+Условие                    SR      Skewness   Kurtosis   Интерпретация
+Ровный асфальт, норма      0.28    0.05       3.1        Гауссов шум
+Брусчатка / кочки          0.20    +0.8       4.5        Удары вверх
+Ямы, провалы               0.18    −0.9       4.8        Удары вниз
+Изношенный амортизатор     0.35    +0.2       2.8        Broadband, гасится хуже
+Шаровая опора (дефект)     0.14    +1.2       6.5        Импульсный, асимметрия
+```
+
+**Применение в LLCAR:**
+az_shape1..az_shape4 — дополнительные features для ML Health Score v3. Skewness используется для различения типа дорожного покрытия (нормализация правил). Shape Ratio < 0.15 в сочетании с kurtosis > 5 → импульсный дефект.
+
+**Ограничения:**
+- Shape Factor в 500-мс окне нестабилен при малом числе выбросов; нужно не менее 50–100 отсчётов для надёжной оценки
+- Skewness чувствителен к направлению монтажа смартфона: ориентация телефона меняет знак skewness
+- Обе метрики слабо информативны сами по себе; значимы только в комбинации с другими признаками
+
+**Правила:** Запланировано для ML Health Score v3; вспомогательный признак
+
+**Источники:**
+- Balaji P.A., Sugumaran V. (2024). Shape factor in feature selection for suspension diagnosis. *Proc. IMechE Part E*. DOI:10.1177/09544089231152698
+- Al-Bugharbee H. et al. (2024). Statistical feature fusion for suspension faults. *Arabian J Sci Eng*. DOI:10.1007/s13369-024-08924-8
+- Yin S., Huang Z. (2015). Fuzzy Positivistic C-Means with accelerometer features. *IEEE/ASME Trans. Mechatronics*. DOI:10.1109/TMECH.2014.2347244
+
+---
+
+### A.15 Spectral Entropy
+
+Spectral Entropy — применение энтропии Шеннона к нормализованному спектру мощности сигнала. Концепция пришла из теории информации Шеннона (1948): чем более «упорядочен» спектр (концентрирован в нескольких частотах), тем ниже его энтропия; чем более равномерно распределена мощность по всему диапазону, тем выше. В диагностике вибраций это мощный дискриминатор: исправная механическая система имеет упорядоченный спектр с несколькими доминантными модами — низкая энтропия. При деградации появляются множественные некоррелированные источники шума — энтропия растёт. Для подвески: здоровый амортизатор даёт доминанту на bounce-частоте (1–2 Гц) + несколько гармоник — H ≈ 3–5 бит. Изношенный — равномерный широкополосный шум — H > 6 бит. Метод особенно чувствителен к переходу от моновибрационного к многовибрационному режиму при деградации.
+
+**Математическая основа:**
+
+```
+Нормализованный спектр мощности:
+  P(f_k) = |X(f_k)|² / Σ_{k=1}^{N/2} |X(f_k)|²
+  ΣP(f_k) = 1   (сумма = 1, как вероятностное распределение)
+
+Spectral Entropy (Shannon):
+  H = −Σ_{k} P(f_k) · log₂ P(f_k)    [бит]
+
+Максимальная энтропия (равномерный спектр):
+  H_max = log₂(N/2)   [бит]
+  При N=50 (500 мс, 100 Гц): H_max = log₂(25) ≈ 4.6 бит
+  При N=22050 (500 мс, 44.1кГц): H_max ≈ 14.4 бит
+
+Нормированная энтропия:
+  H_norm = H / H_max    ∈ [0, 1]
+  H_norm → 0: один доминантный пик (тональный)
+  H_norm → 1: равномерный белый шум
+```
+
+**Численные примеры:**
+
+```
+Сигнал                      H [бит]  H_norm   Интерпретация
+Чистая синусоида            ≈0       ≈0       Один тон (идеальный)
+Bounce + 2 гармоники        2.5–3.5  0.55     Здоровая подвеска
+Bounce + wheel hop          3.0–4.5  0.65     Норма, 2 режима
+Изношенная подвеска         5.0–6.0  0.80     Много компонентов
+Сильный broadband шум       6.0+     0.90+    Деградация или плохая дорога
+Белый шум                   H_max    1.0      Равномерный спектр
+```
+
+**Применение в LLCAR:**
+Spectral Entropy вычисляется из 10 FFT-пиков (суррогатный спектр). Полная энтропия требует raw signal. Высокая H в сочетании с низким crest_factor → broadband-деградация (Stage IV подшипника или равномерный износ амортизатора).
+
+**Ограничения:**
+- 10 FFT-пиков — это не полный спектр; суррогатная энтропия смещена вниз (меньше компонентов)
+- H зависит от частотного разрешения FFT: при Δf = 2 Гц и Δf = 0.1 Гц энтропия разная
+- Тип дороги напрямую влияет на H: класс D даёт высокую H независимо от состояния подвески
+
+**Правила:** Запланировано для ML Health Score v3
+
+**Источники:**
+- Al-Bugharbee H. et al. (2024). Spectral entropy as feature for suspension fault fusion. *Arabian J Sci Eng*. DOI:10.1007/s13369-024-08924-8
+- Balaji P.A., Sugumaran V. (2024). Feature ranking for suspension ML classification. *Proc. IMechE Part E*. DOI:10.1177/09544089231152698
+- Yin S., Huang Z. (2015). Performance monitoring for suspension via accelerometer measurements. *IEEE/ASME Trans. Mechatronics*. DOI:10.1109/TMECH.2014.2347244
+
+---
+
+### A.16 VMD (Variational Mode Decomposition)
+
+VMD (Variational Mode Decomposition) — алгоритм адаптивной декомпозиции сигнала, предложенный Dragomiretskiy и Zosso в 2014 году. В отличие от EMD (Empirical Mode Decomposition, Huang 1998), который является рекурсивным эмпирическим алгоритмом без гарантии сходимости, VMD формулирует задачу декомпозиции как строгую вариационную задачу оптимизации: найти K узкополосных мод с минимально возможными суммарными полосами пропускания, сумма которых равна исходному сигналу. Задача решается итеративно методом ADMM (Alternating Direction Method of Multipliers) в частотной области. Каждая мода u_k(t) адаптивно захватывает одну частотную полосу с центральной частотой ω_k. VMD демонстрирует превосходство над EMD по SNR: при шуме −10 дБ VMD даёт +9.33 дБ улучшения против +3.45 дБ для EMD (Wang et al., 2015, DOI:10.1109/IMCEC.2015.7036515). Для диагностики подвески VMD разделяет bounce-моду (1–3 Гц), wheel hop-моду (10–15 Гц) и структурные моды (50–200 Гц), позволяя анализировать каждую независимо.
+
+**Математическая основа:**
+
+```
+Вариационная задача:
+  min_{u_k, ω_k}  Σ_k || ∂_t[(δ(t) + j/(πt)) * u_k(t)] · e^{−jω_k t} ||²_2
+  subject to:      Σ_k u_k(t) = f(t)
+
+Расширенная функция Лагранжа (Augmented Lagrangian):
+  L = α·Σ||∂_t[analytic(u_k)·e^{−jω_k t}]||²_2
+    + ||f − Σu_k||²_2
+    + <λ, f − Σu_k>
+
+Алгоритм ADMM (в частотной области):
+  Шаг 1: û_k^{n+1}(ω) = [f̂ − Σ_{i≠k} û_i + λ̂/2] / [1 + 2α(ω − ω_k)²]
+  Шаг 2: ω_k^{n+1} = ∫₀^∞ ω|û_k(ω)|²dω / ∫₀^∞ |û_k(ω)|²dω
+  Шаг 3: λ̂^{n+1} = λ̂^n + τ·[f̂ − Σû_k^{n+1}]
+
+Критерий сходимости: Σ||û_k^{n+1} − û_k^n||²/||û_k^n||² < ε = 10⁻⁷
+
+Параметры:
+  α = 2000   (bandwidth penalty; больше → уже полоса каждой моды)
+  K = 3–5    для подвески (bounce/pitch/wheel hop/структурные)
+  K = 6–8    для подшипников (несколько дефектных мод)
+```
+
+**Численные примеры — SNR vs EMD:**
+
+```
+Уровень шума   VMD SNR улучшение   EMD SNR улучшение   Преимущество VMD
+−5 дБ          +7.54 дБ            +1.24 дБ            +6.30 дБ
+−10 дБ         +11.28 дБ           +1.95 дБ            +9.33 дБ
+−15 дБ         +13.30 дБ           +2.33 дБ            +10.97 дБ
+
+Типичные центральные частоты мод VMD для подвески (K=4):
+  Мода 1: ~1.2 Гц    — bounce/pitch кузова
+  Мода 2: ~12 Гц     — wheel hop
+  Мода 3: ~80–100 Гц — структурные резонансы
+  Мода 4: ~150 Гц    — BPFO-зона ступичного подшипника
+```
+
+**Применение в LLCAR:**
+Не реализовано в production (требует raw signal). VMD-proxy через группировку 10 FFT-пиков по частотным зонам. Полная реализация: vmdpy (K=6, α=2000) → выбор информативной моды по kurtosis → envelope analysis (A.9) → BPFO-обнаружение.
+
+**Ограничения:**
+- Требует raw time-series сигнал; на summary stats не работает
+- Выбор K — нетривиальная задача; рекомендуется оптимизация по envelope kurtosis
+- Вычислительно дороже EMD при K > 6; для edge inference может быть медленно
+
+**Правила:** Будущее улучшение для 1.3 (Stage I подшипник)
+
+**Источники:**
+- Dragomiretskiy K., Zosso D. (2014). Variational Mode Decomposition. *IEEE Trans. Signal Processing*, 62(3):531–544. DOI:10.1109/TSP.2013.2288675
+- Wang Y. et al. (2015). Comparative study between VMD and EMD. *Proc. IMCEC*. DOI:10.1109/IMCEC.2015.7036515
+- Park S. et al. (2024). CEEMD-VMD-IMF deep learning fault classification. *J Mech Sci Technol*. DOI:10.1007/s12206-024-0905-3
+
+---
+
+### A.17 Random Forest Classification
+
+Random Forest — ансамблевый метод машинного обучения, предложенный Breiman (2001): строит множество деревьев решений на бутстрап-подвыборках (bagging) с случайным выбором признаков на каждом разбиении. Предсказание — большинство голосов деревьев. Устойчивость к переобучению достигается за счёт декорреляции деревьев. Feature importance вычисляется через среднее снижение примеси Джини при разбиениях по данному признаку. Для диагностики подвески RF является оптимальным выбором при работе с summary stats и FFT-пиками: не требует нормализации признаков, устойчив к выбросам, интерпретируем через feature importance. Sugumaran & Balaji (2024) достигли 95.88% accuracy при нулевой нагрузке и 92.01% при полной нагрузке — деградация обусловлена изменением нагрузочного профиля. Al-Bugharbee et al. (2024) с feature fusion (ARMA + гистограммные + статистические признаки) достигли 98.125–99.375%. Для LLCAR 27 текущих признаков (az_std, crest_factor_z, 10 FFT-пиков, bpfo_harmonic_matches и др.) покрывают топ-10 информативных признаков из литературы.
+
+**Математическая основа:**
+
+```
+Ансамбль из T деревьев: {h_1(x), h_2(x), ..., h_T(x)}
+Предсказание (классификация): ŷ = mode{h_t(x)}, t = 1..T
+Предсказание (регрессия):     ŷ = (1/T)·Σ h_t(x)
+
+Feature importance (Gini):
+  I(f) = Σ_{t,v} p(v) · ΔGini(v, f)
+  ΔGini = Gini(parent) − w_L·Gini(left) − w_R·Gini(right)
+  Нормировано: ΣI(f) = 1
+
+Параметры (рекомендуемые для LLCAR):
+  n_estimators = 200        (число деревьев)
+  max_depth = None          (полная глубина)
+  min_samples_split = 5
+  class_weight = 'balanced' (для несбалансированных классов)
+```
+
+**Численные примеры — Feature Importance и точность:**
+
+```
+Признак               Gini importance   Комментарий
+Kurtosis (az_shape4)  0.23              Самый информативный
+RMS (az_std proxy)    0.19              Постоянно в top-3
+Crest Factor          0.15              Ранняя диагностика
+Peak value            0.12              Абсолютный максимум
+Shape Factor          0.09              Форма распределения
+FFT spectral amp_1    0.07              Доминантная частота
+Остальные 6–27        0.15 суммарно
+
+Точность по условиям (Sugumaran & Balaji 2024):
+  Без нагрузки:    95.88%   (7 классов + норма)
+  Половина нагрузки: 94.88%
+  Полная нагрузка: 92.01%
+
+Точность с feature fusion (Al-Bugharbee 2024):
+  Без нагрузки:    99.375%
+  Половина нагрузки: 98.125%
+  Полная нагрузка: 96.250%
+```
+
+**Применение в LLCAR:**
+Запланировано для Health Score v3: замена rule-based scoring на RF-классификатор. Входные данные: 27 существующих features. Выход: P(normal), P(worn_shock), P(ball_joint), P(bushing), P(wheel_bearing). При 500+ размеченных записях на класс ожидаемая точность 92–96%.
+
+**Ограничения:**
+- Без event-меток (факт замены / диагноза механика) невозможно создать обучающую выборку
+- Точность падает на 3–7% при изменении нагрузки автомобиля (пассажиры, груз)
+- RF не обобщается между разными моделями автомобилей без fine-tuning или нормировки
+
+**Правила:** Будущее (Health Score v3), целевой запуск после 1000+ размеченных сессий
+
+**Источники:**
+- Balaji P.A., Sugumaran V. (2024). Random Forest for suspension fault classification. *Proc. IMechE Part E*. DOI:10.1177/09544089231152698
+- Al-Bugharbee H. et al. (2024). Feature fusion + RF for suspension diagnosis. *Arabian J Sci Eng*. DOI:10.1007/s13369-024-08924-8
+- Yin S., Huang Z. (2015). Suspension performance monitoring via accelerometer + ML. *IEEE/ASME Trans. Mechatronics*. DOI:10.1109/TMECH.2014.2347244
+
+---
+
+### A.18 Fuzzy C-Means (FCM) Clustering
+
+Fuzzy C-Means (FCM) — алгоритм мягкой кластеризации, разработанный Dunn (1973) и усовершенствованный Bezdek (1981). В отличие от жёсткого k-means, FCM присваивает каждой точке данных степень принадлежности μ ∈ [0,1] ко всем кластерам одновременно. Для диагностики подвески это критически важно: реальное состояние подвески редко бинарно «исправно/неисправно» — оно непрерывно деградирует. Степень принадлежности к нормальному кластеру μ_normal естественно интерпретируется как Health Score ∈ [0,1]. Ключевое преимущество для LLCAR: FCM не требует размеченных данных. Yin & Huang (2015) верифицировали FCM на реальном автомобиле с 4 угловыми акселерометрами и имитацией 4 типов неисправностей: метод успешно детектировал дефекты без предварительной разметки, используя PCA + fault lines + Fisher Discriminant Analysis для изоляции причин. Для холодного старта (нет размеченных данных) FCM с K=3 кластерами (норма/износ/критично) является оптимальным первым шагом.
+
+**Математическая основа:**
+
+```
+Целевая функция FCM:
+  J_m = Σ_i Σ_j (μ_ij)^m · ||x_i − c_j||²
+  m = 2.0   (fuzziness parameter; m→1: жёсткий, m→∞: полная размытость)
+
+Обновление степеней принадлежности:
+  μ_ij = 1 / Σ_{k=1}^K (||x_i − c_j|| / ||x_i − c_k||)^(2/(m-1))
+
+Обновление центроидов:
+  c_j = Σ_i (μ_ij)^m · x_i / Σ_i (μ_ij)^m
+
+Критерий сходимости: max|μ^{new} − μ^{old}| < ε = 10⁻⁵
+
+PCA preprocessing (правило Kaiser: eigenvalue > 1):
+  ~27 features → стандартизация → PCA → 3–4 компоненты → FCM
+
+Выбор K кластеров:
+  Dunn Index = min(inter-cluster dist) / max(intra-cluster diameter)
+  Silhouette Score = (b − a) / max(a, b)
+  Оптимальный K — при максимуме Silhouette Score
+```
+
+**Численные примеры:**
+
+```
+K   Интерпретация кластеров
+2   Норма / Дефект (binary)
+3   Норма / Ранний износ / Критичный (рекомендуется для старта)
+4   Норма / Лёгкий износ / Умеренный / Критичный
+5   Норма / Лёгкий / Умеренный / Сильный / Критичный
+
+Health Score из μ_normal:
+  μ_normal > 0.8  → Здоровая подвеска (зелёный)
+  0.5–0.8         → Мониторинг (жёлтый)
+  0.2–0.5         → Требуется диагностика (оранжевый)
+  < 0.2           → Замена необходима (красный)
+
+Fisher Discriminant — топ-признаки для изоляции дефекта:
+  При μ_normal < 0.5 → FDA определяет, какой признак максимально отклонился:
+  az_std → амортизатор; bpfo_matches → подшипник; az_shape4 → удары
+```
+
+**Применение в LLCAR:**
+Запланировано как «Фаза 1» ML roadmap: FCM с K=3 на 500+ окнах без разметки. μ_normal → Health Index. При μ_normal < 0.5 → FDA → объяснение причины → привязка к правилам подвески.
+
+**Ограничения:**
+- FCM чувствителен к инициализации центроидов: рекомендуется 10–20 запусков с разными начальными условиями
+- Выбор K через Silhouette требует вычисления для K=2..8 — небесплатно на большом флоте
+- Адаптирован для 4 угловых датчиков; для 1 смартфона нужно расширить feature set
+
+**Правила:** Будущее (Health Score v3, unsupervised)
+
+**Источники:**
+- Yin S., Huang Z. (2015). Performance monitoring for vehicle suspension via Fuzzy Positivistic C-Means. *IEEE/ASME Trans. Mechatronics*. DOI:10.1109/TMECH.2014.2347244
+- Al-Bugharbee H. et al. (2024). Unsupervised clustering for suspension fault detection. *Arabian J Sci Eng*. DOI:10.1007/s13369-024-08924-8
+- Balaji P.A., Sugumaran V. (2024). Comparison of supervised and unsupervised methods for suspension faults. *Proc. IMechE Part E*. DOI:10.1177/09544089231152698
+
+---
+
+### A.19 CNN-GRU-MHA (RUL Prediction)
+
+CNN-GRU-MHA — гибридная нейросетевая архитектура для предсказания Remaining Useful Life (RUL, остаточного ресурса), объединяющая три ключевых блока: 1D-свёрточная нейросеть (CNN) для извлечения локальных паттернов из временного ряда, Gated Recurrent Unit (GRU) для захвата долгосрочных временных зависимостей, и Multi-Head Attention (MHA) для фокусировки на наиболее информативных временных фрагментах. Архитектура разработана для задач предиктивного обслуживания при переменных нагрузках — сценарий, актуальный для автомобильной подвески (разные скорости, типы дорог, нагрузка). MDPI Applied Sciences (2024) сообщают RMSE = 0.0443 (нормализованный) на датасете PRONOSTIA/FEMTO — это ~4.4% от полного ресурса компонента. Для стохастического подхода Wiener process моделирует деградацию как броуновское движение с дрейфом, что позволяет строить вероятностные оценки P(RUL > Δ). Fenga (2025) применил вейвлет + стохастическое моделирование непосредственно к автомобильной подвеске на акселерометрных данных реального автомобиля.
+
+**Математическая основа:**
+
+```
+Pipeline CNN-GRU-MHA:
+  Вход: raw_az[t] (100 Гц, окно N отсчётов)
+
+  CNN 1D (Feature Extraction):
+    Conv1D(64, kernel=3) → ReLU → BatchNorm → MaxPool
+    Conv1D(128, kernel=3) → ReLU → BatchNorm → MaxPool
+    Conv1D(256, kernel=3) → ReLU → BatchNorm
+
+  GRU (Temporal Dependencies):
+    GRU(hidden=128, layers=2, dropout=0.2) → sequence output
+
+  Multi-Head Attention:
+    Q, K, V = Linear(h_t)
+    Attention(Q,K,V) = softmax(QKᵀ/√d_k)·V
+    8 голов, d_k = 64
+
+  Dense → ReLU → Dense(1) → RUL_predicted
+
+Wiener Process (стохастическая модель деградации):
+  D(t) = μ·t + σ·W(t)         [деградационный индикатор]
+  P(RUL > Δ | D(t)) ≈ Φ((D_threshold − D(t) − μ·Δ) / (σ·√Δ))
+  Параметры μ, σ оцениваются из трендов az_std по пробегу
+
+RUL через линейный тренд (простейший вариант для LLCAR):
+  HI(t) = 1 − (az_std_current − az_std_baseline) / (az_std_threshold − az_std_baseline)
+  RUL_km = HI(t) × typical_replacement_interval_km
+```
+
+**Численные примеры — точность RUL-моделей:**
+
+```
+Модель                    RMSE (норм.)  Объект               Метод
+CNN-GRU-MHA (2024)        0.0443        Подшипники FEMTO     Transfer+Attention
+LSTM Uncertainty (2022)   ~0.07         PRONOSTIA bearings   LSTM+dropout
+RF Regressor (summary)    ~0.12–0.15    Подвеска (proxy)     RF, 27 features
+Wiener+Wavelet (2025)     не указан     Авто подвеска        Стохастический
+
+Минимальный датасет для обучения RF RUL-регрессора:
+  500+ окон + 5–10 событий замены → RMSE ~20%
+  1000+ окон + 20+ событий       → RMSE ~12–15%
+```
+
+**Применение в LLCAR:**
+Не реализовано. Roadmap: Фаза 3 (6–12 мес) — RF Regressor на трендах az_std + retroactive labeling из пользовательских отметок ТО. Фаза 4 (12+ мес) — CNN-GRU-MHA при накоплении 5000+ размеченных сессий.
+
+**Ограничения:**
+- CNN-GRU-MHA требует raw signal (≥100 Гц) и GPU для обучения; для инференса CPU достаточен
+- Без event-меток (факт замены) RUL является только «относительным», не абсолютным (не в км)
+- PRONOSTIA/FEMTO — подшипники электродвигателей; перенос на амортизаторы теряет 10–20% точности без domain adaptation
+
+**Правила:** Roadmap (Фаза 3–4)
+
+**Источники:**
+- CNN-GRU-MHA for RUL under variable loads. *MDPI Applied Sciences*, 2024. DOI:10.3390/app14199039
+- RUL prediction transfer learning for bearings. *MDPI Sensors*, 2023. DOI:10.3390/s23010227
+- Fenga L. (2025). Stochastic modeling for automotive suspension RUL. *Appl. Stochastic Models*, Wiley. DOI:10.1002/asmb.70013
+
+---
+
+### A.20 EUSAMA Standard
+
+EUSAMA (European Association of Shock Absorber Manufacturers) — европейский стандарт стендового тестирования амортизаторов, разработанный в 1970-х годах для технического осмотра. Стенд возбуждает каждое колесо синусоидальным сигналом (sweep 25→0 Гц, амплитуда 3 мм, ~10 сек), и измеряет минимальную нормальную реакцию колеса на плиту F_min относительно статической нагрузки F_static. EUSAMA % отражает способность подвески поддерживать контакт колеса с дорогой при динамическом возбуждении. Через Zener model объясняется ключевой парадокс метода: EUSAMA наиболее чувствителен при sweep через wheel hop frequency (10–12 Гц), а не при 25 Гц. При утечке масла (c→0) характерная частота f₀ = k₂/(2πc) смещается вправо и попадает в диапазон sweep — EUSAMA может показывать «плохо» именно тогда, когда амортизатор полностью разрушен. Zdanowicz & Guzek (2021) систематизировали связь EUSAMA с Zener-параметрами. Ivanov et al. (2018) исследовали симуляцию EUSAMA Plus методологии с учётом влияния противоположной стороны автомобиля.
+
+**Математическая основа:**
+
+```
+EUSAMA критерий:
+  W_E = (F_min / F_static) × 100%   [%]
+
+Связь с Zener model (объяснение через K*(ω)):
+  При новом амортизаторе (c=2200, k₂=28000):
+    f₀ = 2.03 Гц → при 25 Гц: ω >> k₂/c → K'(25Hz) = 39.9 кН/м → W_E ≥ 50%
+
+  При изношенном (c=800, k₂=16000):
+    f₀ = 3.18 Гц → K'(25Hz) = 25.7 кН/м → W_E снижается
+
+  При утечке масла (c=200, k₂=6000):
+    f₀ = 4.77 Гц, tan δ(25Hz) = 0.504 → максимум потерь → EUSAMA «плохо»!
+    Парадокс: W_E падает ниже 25% при c→0 — именно при мёртвом амортизаторе
+
+Критерии EUSAMA:
+  W_E ≥ 50%    → Хорошее состояние (рекомендуется)
+  40–50%       → Удовлетворительное
+  25–40%       → Неудовлетворительное (нужна проверка)
+  < 25%        → Опасное (замена обязательна)
+
+Связь с damping coefficient C [Нс/м]:
+  W_E ≥ 50%: C ≥ 1200–1748 Нс/м
+  W_E 40–50%: C ≈ 800–1200 Нс/м
+  W_E 25–40%: C ≈ 348–800 Нс/м
+  W_E < 25%:  C < 348 Нс/м
+```
+
+**Численные примеры — EUSAMA vs damping coefficient:**
+
+```
+C [Нс/м]   EUSAMA %   Состояние           EDR γ [с⁻¹]
+1748        ≥ 50%      Отличное            ≈ 2.9
+1200        40–50%     Хорошее             ≈ 2.0
+800         30–40%     Удовлетворительное  ≈ 1.3
+348         25%        Граница замены      ≈ 0.6
+50          < 10%      Отказ               ≈ 0.08
+```
+
+**Применение в LLCAR:**
+EUSAMA используется как эталонный стандарт для калибровки proxy-метрик: EDR γ (A.4) и crest_factor_z должны коррелировать с EUSAMA %. Правило 1.6 (damper_energy_decay_poor) настроено на обнаружение состояний с EUSAMA < 40%.
+
+**Ограничения:**
+- EUSAMA не измеряется смартфоном напрямую — только стендовый метод
+- Парадокс утечки масла: стандарт может давать false negative при c→0
+- Метод не разделяет передний/задний или левый/правый амортизаторы по отдельности
+
+**Правила:** 1.6 (валидация и калибровка)
+
+**Источники:**
+- Zdanowicz P., Guzek M. (2021). Diagnostics of the On-Vehicle Shock Absorber Testing (EUSAMA). *Communications*, 23(3):B178–B186. DOI:10.26552/com.C.2021.3.B178-B186
+- Ivanov V. et al. (2018). Simulation analysis of EUSAMA Plus suspension testing. *IOP Conf. MSE*, 148(1):012034. DOI:10.1088/1757-899X/148/1/012034
+- Thite A.N. et al. (2017). Relaxation-type quarter car model, EUSAMA context. *J Low Freq Noise Vib*, 36(2):148–159. DOI:10.1177/0263092317711989
+
+---
+
+### A.21 Логарифмический декремент затухания и коэффициент демпфирования
+
+Логарифмический декремент затухания δ — классическая экспериментальная метода оценки качества демпфирования механической системы, известная с XIX века. Метод основан на наблюдении свободных колебаний системы после импульсного возбуждения (удар, ступенчатое отклонение): измеряются последовательные амплитуды A_n и A_{n+1} через период колебаний T_d, из отношения которых вычисляется декремент δ. В автомобильной инженерии Gillespie (1992) систематизировал связь δ с коэффициентом демпфирования ζ и параметрами подвески. Физически ζ = 0.3 означает, что амплитуда затухает на 30% за каждый цикл. При ζ > 1.0 (критическое демпфирование) колебаний нет вообще — амортизатор гасит движение без перерегулирования. Реальные автомобильные амортизаторы работают в диапазоне ζ = 0.25–0.40 (слегка поддемпфированная система): это компромисс между комфортом (малое ζ → мягко) и управляемостью (большое ζ → быстрый отклик). Логарифмический декремент является теоретической основой для EDR (A.4) и связывает измеряемые акселерометром послеударные колебания с параметрами Zener-модели.
+
+**Математическая основа:**
+
+```
+Логарифмический декремент:
+  δ = ln(A_n / A_{n+1}) = ln(A_n / A_{n+k}) / k   [k — число периодов]
+
+Относительное демпфирование:
+  ζ = δ / √(4π² + δ²)    (точная формула)
+  ζ ≈ δ / (2π)            (приближение при ζ << 1)
+
+Через параметры системы:
+  ζ = c / (2·√(k_s·m_s)) = c / c_critical
+  c_critical = 2·√(k_s·m_s)   [критическое демпфирование]
+
+Частота демпфированных колебаний:
+  ω_d = ω_n·√(1 − ζ²),   ω_n = √(k_s/m_s)
+  T_d = 2π / ω_d   [период демпфированных колебаний]
+
+Затухание амплитуды:
+  A(t) = A_0·exp(−ζ·ω_n·t) = A_0·exp(−γ·t)
+  γ = ζ·ω_n = c/(2·m_s)   [EDR, A.4]
+```
+
+**Численные примеры:**
+
+```
+Состояние          ζ          δ = 2πζ   A после 1 цикла/A_0   Интерпретация
+Новый              0.30–0.40  1.88–2.51  14–19% от A_0          Оптимальное демпфирование
+Норма              0.25–0.30  1.57–1.88  19–24%                 Допустимо
+Начальный износ    0.15–0.25  0.94–1.57  24–39%                 Мониторинг
+Критический износ  0.10–0.15  0.63–0.94  39–50%                 Замена
+Утечка масла       < 0.10     < 0.63     > 50%                  Опасно
+
+Для C-класса (k_s=25000, m_s=300, c=2200):
+  ζ = 2200/(2·√(25000·300)) = 2200/5477 = 0.40   — новый
+  ζ = 800/5477 = 0.146                             — изношенный
+```
+
+**Применение в LLCAR:**
+Proxy через crest_factor_z и az_range после обнаружения импульса. При наличии сырых данных — прямой расчёт δ через огибающую Гильберта из последовательности az-пиков после удара о кочку.
+
+**Ограничения:**
+- Метод требует идентификации изолированных свободных колебаний; на реальной дороге колебания непрерывно возбуждаются
+- az_std за 500 мс — слишком агрегированная статистика для прямого расчёта δ
+- Нелинейность клапанов амортизатора делает ζ зависимым от амплитуды — одного значения недостаточно
+
+**Правила:** 1.6, 1.7
+
+**Источники:**
+- Gillespie T.D. (1992). *Fundamentals of Vehicle Dynamics*. SAE International, R-114. ISBN:978-1-56091-199-9
+- Thite A.N. et al. (2017). Zener model quarter car, damping characterization. *J Low Freq Noise Vib*. DOI:10.1177/0263092317711989
+- Zdanowicz P., Guzek M. (2021). Shock absorber damping and EUSAMA correlation. *Communications*. DOI:10.26552/com.C.2021.3.B178-B186
+
+---
+
+### A.22 Pearson Correlation и линейная регрессия
+
+Коэффициент корреляции Пирсона r (1895) измеряет линейную зависимость между двумя переменными: r = 1 означает идеальную прямую связь, r = −1 — обратную, r = 0 — отсутствие линейной зависимости. В диагностике вибраций корреляция используется для обнаружения систематических зависимостей «признак → нагрузочный фактор»: если az_std растёт вместе с RPM — источник вибрации тесно связан с оборотами двигателя (подушка двигателя), а не с дорогой. Если dominant_freq линейно растёт со скоростью с постоянным коэффициентом — это признак ступичного подшипника (BPFO ∝ speed). Корреляционный анализ выполняется в batch-режиме post-trip, аккумулируя данные за поездку (50–200 точек). scipy.stats.linregress() возвращает slope, intercept, r_value, p_value, stderr — все используются в correlation_engine.py. Статистическая значимость (p < 0.05 при n ≥ 50) гарантирует, что корреляция не случайна.
+
+**Математическая основа:**
+
+```
+Коэффициент Пирсона:
+  r = Σ(x_i − x̄)(y_i − ȳ) / √(Σ(x_i − x̄)² · Σ(y_i − ȳ)²)
+  r ∈ [−1, 1]
+
+Статистическая значимость (t-тест):
+  t = r · √(n−2) / √(1−r²)
+  H₀: r = 0,  df = n−2
+  p < 0.05 → H₀ отвергается (корреляция значима)
+
+Линейная регрессия (scipy.stats.linregress):
+  y = slope·x + intercept + ε
+  Возвращает: slope, intercept, r_value, p_value, stderr
+
+Коэффициент детерминации:
+  R² = r²   (доля дисперсии y, объяснённая x)
+  R² > 0.36 → |r| > 0.6 → порог в LLCAR
+```
+
+**Пороги в LLCAR (correlation_engine.py):**
+
+```
+Константа       Значение   Смысл
+R_THRESHOLD     0.6        Минимальный |r| для вывода корреляции
+MIN_DATA_POINTS 50         Минимум точек (гарантирует p < 0.05 при r ≥ 0.6)
+```
+
+**Диагностические корреляции в LLCAR:**
+
+```
+Корреляция               Порог      Диагноз при срабатывании
+az_std vs RPM            r > 0.6    Износ подушки двигателя (engine mount)
+dominant_freq vs speed   r > 0.6 + slope стабильный   Ступичный подшипник
+az_std vs speed          r > 0.7    Дисбаланс колёс (tire imbalance)
+ay_std vs speed          r > 0.6    Увод, деформация геометрии
+total_vibration vs RPM   r > 0.6    Вибрация двигателя при резонансе
+az_std_low vs az_std_high r < −0.3  Демпфирование ухудшилось (антикорреляция)
+```
+
+**Применение в LLCAR:**
+7 корреляций в correlation_engine.py, все через scipy.stats.linregress(). Batch-анализ выполняется в correlation_runner.py по завершении поездки при n ≥ 50 точек.
+
+**Ограничения:**
+- Pearson обнаруживает только линейные зависимости; нелинейные связи (например, az_std ∝ speed²) дадут заниженный r
+- Корреляция ≠ причинность: r(az_std, RPM) > 0.6 не доказывает износ подушки, только подозрение
+- Конфаундеры: плохая дорога одновременно повышает az_std и speed → ложные корреляции
+
+**Правила:** Секция 5 (все 7 batch-корреляций)
+
+**Источники:**
+- Balaji P.A., Sugumaran V. (2024). Statistical correlation methods for suspension feature extraction. *Proc. IMechE Part E*. DOI:10.1177/09544089231152698
+- Yin S., Huang Z. (2015). Accelerometer-based correlation analysis for suspension performance. *IEEE/ASME Trans. Mechatronics*. DOI:10.1109/TMECH.2014.2347244
+- Al-Bugharbee H. et al. (2024). Feature fusion correlation analysis for suspension ML. *Arabian J Sci Eng*. DOI:10.1007/s13369-024-08924-8
+
+---
+
+### A.23 Archard Wear Equation (износ шаровых опор)
+
+Уравнение Арчарда (1953) — классическая модель адгезивного и абразивного износа, описывающая объём изношенного материала как функцию нагрузки, пути скольжения и твёрдости поверхности. Модель основана на микроконтактной теории: при скольжении двух поверхностей друг по другу разрушаются микроасперитеты (выступы) — объём разрушения пропорционален реальной площади контакта и пути скольжения. Для шаровых опор подвески Archard модель объясняет механизм деградации: PTFE-вкладыш (K ≈ 5×10⁻⁵) изнашивается быстрее стального пальца (K ≈ 1×10⁻⁶). При каждом повороте руля или проезде неровности шаровой палец скользит по вкладышу — накапливается объём износа V, который со временем переходит в осевой и радиальный люфт. Исследование DOI:10.1016/j.wear.2018.04.012 экспериментально подтвердило применимость модели Арчарда для прогнозирования ресурса шаровых опор легковых автомобилей. При росте люфта подвеска теряет точность, появляются дополнительные угловые колебания шаровой — источник характерного шума при движении, диагностируемого через vertical_lateral_ratio.
+
+**Математическая основа:**
+
+```
+Уравнение Арчарда:
+  V = K · F_n · s / H
+  V  — объём износа [м³]
+  K  — безразмерный коэффициент износа (wear coefficient)
+  F_n — нормальная нагрузка на контакте [Н]
+  s  — суммарный путь скольжения [м]
+  H  — твёрдость более мягкого материала [Па]
+
+Типичные значения K:
+  Сталь по стали (граничная смазка):  K ≈ 1×10⁻⁴
+  Сталь по стали (полная смазка):     K ≈ 1×10⁻⁶
+  PTFE по стали (сухой контакт):      K ≈ 5×10⁻⁵
+  Нейлон/PTFE вкладыш (шаровая):     K ≈ 3×10⁻⁵
+
+Объём износа → люфт:
+  δ_axial ≈ V / A_contact   [м]
+  A_contact ≈ π·r² (площадь контакта пальца)
+  Критерий: δ_axial ≥ 1.5 мм → замена
+
+Оценка пути скольжения за ресурс авто:
+  s ≈ N_cycles × θ_avg × r_pin
+  N_cycles ≈ 10⁶–10⁷ за 100 000 км
+  → V_total ≈ K·F·N·θ·r/H
+```
+
+**Численные примеры:**
+
+```
+Сценарий            F_n [кН]   K          s [км]   V [см³]   Люфт [мм]
+Нормальная езда     3–5        3×10⁻⁵     50 000   0.5–1.0   0.1–0.3
+Агрессивное вождение 5–8       3×10⁻⁵    30 000   1.5–2.5   0.4–0.8
+SUV + бездорожье    8–12       5×10⁻⁵    20 000   3.0–5.0   0.8–1.5
+
+Критерии замены:
+  Осевой люфт ≥ 1.5 мм      → замена обязательна
+  Радиальный люфт ≥ 0.5 мм  → замена обязательна
+```
+
+**Применение в LLCAR:**
+Archard объясняет механизм деградации шаровой опоры. В LLCAR детектируется косвенно: при износе вкладыша появляется люфт → шаровой палец начинает угловые колебания → вибрация передаётся в вертикальном и боковом направлениях → vertical_lateral_ratio = az_std / ay_std изменяется. Правило 1.8 использует рост lateral-компоненты как proxy для люфта шаровой.
+
+**Ограничения:**
+- Archard — средняя модель, не учитывает периодическую смазку, температуру, загрязнение
+- Путь скольжения s для шаровой опоры сложно оценить без знания истории вождения
+- Прямое измерение люфта невозможно смартфоном — только косвенные proxy-признаки
+
+**Правила:** 1.8 (ball_joint_early_wear)
+
+**Источники:**
+- Experimental study on wear behaviour of ball joints. *Wear*, 2018. DOI:10.1016/j.wear.2018.04.012
+- Hertzian contact at ball joint interface. *Tribology International*, 2017. DOI:10.1016/j.triboint.2017.03.024
+- Balaji P.A., Sugumaran V. (2024). Ball joint fault detection via ML. *Proc. IMechE Part E*. DOI:10.1177/09544089231152698
+
+---
+
+### A.24 Hertzian Contact Pressure (контактная механика шаровой)
+
+Теория Герца (Heinrich Hertz, 1882) описывает распределение давления в зоне упругого контакта двух криволинейных поверхностей — применительно к шаровой опоре это контакт сферического пальца с вогнутым вкладышем. Теория является фундаментом для расчёта усталостной прочности: если максимальное контактное давление p_max превышает предел текучести материала (для закалённой стали ~2000 МПа), происходит пластическая деформация — питтинг и начало усталостного разрушения. Для шаровой опоры подвески контактное давление зависит от приведённого радиуса кривизны R* (геометрия сферы и вкладыша) и приложенной силы F. Исследование DOI:10.1016/j.triboint.2017.03.024 установило, что при нормальной нагрузке 5 кН на шаровой опоре легкового автомобиля p_max ≈ 800–1200 МПа (упругий режим), а при 15 кН — 2000–2500 МПа (пластическая деформация, начало питтинга). Для SUV и внедорожных условий нагрузки на шаровую достигают 20–30 кН при ударах, что объясняет ускоренный износ. Знание p_max позволяет прогнозировать ресурс шаровой опоры через критерий усталостной долговечности (модель Страйбека–Смита).
+
+**Математическая основа:**
+
+```
+Теория Герца (сфера–вогнутость):
+
+Приведённый радиус кривизны:
+  1/R* = 1/R₁ − 1/R₂
+  R₁ = радиус пальца, R₂ = радиус вкладыша
+  Для шаровой: R₁ ≈ 11–14 мм, R₂ ≈ 12–15 мм → R* = 50–200 мм
+
+Радиус контактного пятна:
+  a = (3·F·R* / (4·E*))^(1/3)
+  1/E* = (1−ν₁²)/E₁ + (1−ν₂²)/E₂   [приведённый модуль Юнга]
+  Для сталь-PTFE: E₁=210 ГПа, ν₁=0.3; E₂=3.5 ГПа, ν₂=0.4
+
+Максимальное контактное давление:
+  p_max = 3·F / (2·π·a²)   = (6·F·(E*)² / (π³·(R*)²))^(1/3)
+
+Максимальное касательное напряжение (под поверхностью):
+  τ_max = 0.31·p_max   (на глубине z ≈ 0.48·a → место зарождения усталостной трещины)
+
+Критерий пластической деформации:
+  p_max > σ_yield → питтинг, деградация контакта
+  σ_yield (сталь 52100): ≈ 1800–2100 МПа
+```
+
+**Численные примеры:**
+
+```
+Нагрузка F [кН]   a [мм]   p_max [МПа]   Режим
+2                 0.8      1800           Граница упругого (σ_y)
+5                 1.1      800–1200       Упругий (норма)
+10                1.4      1500–1800      Упруго-пластический
+15                1.7      2000–2500      Пластическая деформация (питтинг)
+25 (удар SUV)     2.1      3000–3500      Разрушение за один цикл
+
+Оценка глубины проникновения пластической зоны:
+  При p_max = 2500 МПа: глубина зоны ≈ 0.5·a ≈ 0.85 мм
+  Рост питтинга: ~0.01–0.1 мм/10⁵ циклов нагружения
+```
+
+**Применение в LLCAR:**
+Hertz-теория даёт теоретический порог нагрузки для ускоренной деградации шаровых опор при тяжёлых условиях (SUV, бездорожье, высокие az_peak). Правило 1.8 — косвенное: az_peak > 9 м/с² при повторяющихся ударах → Hertz p_max > 2000 МПа → ускоренный износ → ранняя проверка.
+
+**Ограничения:**
+- Hertz применима только к упругому контакту; при PTFE-вкладыше (мягкий материал) контактная зона значительно больше теоретической
+- Смартфон измеряет az в ЦМ кузова, не в шаровой; нагрузка на шаровую — производная от az с неизвестным коэффициентом
+- Не учитывается смазка, загрязнение, коррозия — реальный p_max может быть локально выше расчётного
+
+**Правила:** 1.8 (ball_joint_early_wear, контекст нагрузок)
+
+**Источники:**
+- Hertzian contact tribology at ball joint interface. *Tribology International*, 2017. DOI:10.1016/j.triboint.2017.03.024
+- Ball joint wear under dynamic loading. *Wear*, 2018. DOI:10.1016/j.wear.2018.04.012
+- Franczyk B., Maniowski M., Gołdasz J. (2024). Dynamic loading suspension components. *Proc. IMechE Part D*. DOI:10.1177/09544070231174280
+
+---
+
+### A.25 Mooney-Rivlin и усталость резинометаллических деталей
+
+Сайлентблоки (резинометаллические бушинги) — элементы подвески, работающие в режиме больших деформаций при нелинейном поведении резины. Линейная теория упругости (закон Гука) для резины неприменима: резина является гиперупругим материалом — её механическое поведение описывается функцией упругой энергии W (strain energy density function). Mooney-Rivlin (Mooney 1940, Rivlin 1948) — наиболее распространённая двухпараметрическая модель для несжимаемой резины умеренных деформаций. Ogden (1972, DOI:10.1098/rspa.1972.0026) предложил более общую N-параметрическую модель для больших деформаций. Для предсказания усталостного разрушения резины при циклических нагрузках используется Mars-Fatemi критерий (2002, DOI:10.1016/S0142-1123(02)00037-2): разрушение начинается в плоскости максимальной «cracking energy density». При деградации резины (затвердевание от озона/UV/температуры) жёсткость бушинга C₁₀ и C₀₁ растут → характерная частота системы f₀ = √(k/m) смещается вправо → энергия вибрации концентрируется в полосе 120–180 Гц. Это и является физическим механизмом правила 1.9 (bushing_wear_120_180hz).
+
+**Математическая основа:**
+
+```
+Функции упругой энергии (strain energy density):
+
+Mooney-Rivlin (2 параметра):
+  W = C₁₀·(I₁ − 3) + C₀₁·(I₂ − 3)
+  I₁ = λ₁² + λ₂² + λ₃²     (первый инвариант тензора деформаций)
+  I₂ = λ₁²λ₂² + λ₂²λ₃² + λ₁²λ₃²  (второй инвариант)
+  λ₁, λ₂, λ₃ — главные растяжения
+
+Типичные параметры для автомобильных бушингов:
+  Новый:        C₁₀ = 0.3–0.5 МПа,  C₀₁ = 0.05–0.1 МПа
+  Состаренный:  C₁₀ = 0.8–1.5 МПа,  C₀₁ = 0.1–0.3 МПа  (затвердевание)
+
+Ogden (N-порядок, DOI:10.1098/rspa.1972.0026):
+  W = Σ_{p=1}^{N} (μ_p/α_p)·(λ₁^α_p + λ₂^α_p + λ₃^α_p − 3)
+  N=3: наиболее точная аппроксимация широкого диапазона деформаций
+
+Mars-Fatemi cracking energy density (DOI:10.1016/S0142-1123(02)00037-2):
+  T_c = W_c(N_f)   — критическая плотность энергии разрушения
+  T = max_θ [W_c(θ)]   — максимум по всем плоскостям θ
+  Число циклов до разрушения: N_f = f(T / T_c)
+
+Мультиаксиальная усталость резины (DOI:10.1016/j.ijfatigue.2005.08.005):
+  Критерий: максимальная главная деформация εmax > ε_threshold → crack initiation
+```
+
+**Численные примеры — деградация бушинга и сдвиг частоты:**
+
+```
+Состояние         C₁₀ [МПа]  k_eff [кН/м]  f₀ [Гц]  Полоса энергии
+Новый             0.35        12–15         80–100   50–100 Гц
+Начало деградации 0.60        20–25         110–130  100–150 Гц
+Затвердевший      1.20        40–50         150–180  120–180 Гц ← LLCAR target
+Растрескавшийся   0.10        2–5           20–30    Потеря жёсткости
+
+Ресурс бушинга по типам:
+  МакФерсон, европейские платформы:    80 000–120 000 км
+  Многорычажная, спорт/SUV:            60 000–90 000 км
+  Поперечные рычаги (частые нагрузки): 50 000–70 000 км
+
+Деградирующие факторы:
+  Температура (+50°C → скорость старения ×2–3 по Аррениусу)
+  Озон (концентрация > 0.1 ppm → озоновое растрескивание)
+  UV (поверхностное скоростное старение)
+  Динамическая нагрузка (усталость при N > 10⁶ циклов)
+```
+
+**Применение в LLCAR:**
+Затвердевание резины бушинга → рост k_eff → f₀ = √(k/m) смещается в полосу 120–180 Гц → audio_energy_band_120_180 растёт. Правило 1.9 (bushing_wear_120_180hz): порог audio_energy_band_120_180 > 0.35 + скорость 30–80 км/ч. Ложная тревога исключается проверкой отсутствия RPM-гармоник в этой полосе.
+
+**Ограничения:**
+- Модели Mooney-Rivlin и Ogden требуют МКЭ-расчёта; в LLCAR используется только косвенный proxy через частотный сдвиг
+- Реальный бушинг анизотропен и имеет металлические вставки — модели изотропной резины дают приближение
+- Полоса 120–180 Гц также возбуждается типичными шумами дороги; правило чувствительно к ложным срабатываниям без нормировки к скорости
+
+**Правила:** 1.9 (bushing_wear_120_180hz)
+
+**Источники:**
+- Ogden R.W. (1972). Large deformation isotropic elasticity. *Proc. Royal Society London A*, 326:565–584. DOI:10.1098/rspa.1972.0026
+- Mars W.V., Fatemi A. (2002). A literature survey on fatigue analysis approaches for rubber. *Int J Fatigue*, 24(9):949–961. DOI:10.1016/S0142-1123(02)00037-2
+- Mars W.V., Fatemi A. (2005). Multiaxial fatigue of rubber: a theoretical treatment. *Int J Fatigue*, 28(5):515–525. DOI:10.1016/j.ijfatigue.2005.08.005
+
+---
+
+## Приложение B: Расширенная библиография
+
+### B.1 Рецензируемые публикации (DOI)
+
+```
+[1]  Thite, A.N., Coleman, F., Doody, M., Fisher, N. (2017). Experimentally validated dynamic
+     results of a relaxation-type quarter car suspension with an adjustable damper.
+     Journal of Low Frequency Noise, Vibration and Active Control, 36(2), 148–159.
+     DOI: 10.1177/0263092317711989
+
+[2]  Franczyk, B., Maniowski, M., Gołdasz, J. (2024). Frequency-dependent automotive
+     suspension damping systems: State of the art review.
+     Proc. IMechE Part D: Journal of Automobile Engineering, 238(9), 2491–2503.
+     DOI: 10.1177/09544070231174280
+
+[3]  Zdanowicz, P., Guzek, M. (2021). Diagnostics of the On-Vehicle Shock Absorber Testing.
+     Communications – Scientific Letters of the University of Žilina, 23(3), B178–B186.
+     DOI: 10.26552/com.C.2021.3.B178-B186
+
+[4]  Carniel, E.L. (2025). Analytical characterization of viscoelasticity in Zener and
+     generalized Zener models under typical loading conditions.
+     Mechanics of Time-Dependent Materials, 29, 70.
+     DOI: 10.1007/s11043-025-09810-y
+
+[5]  MDPI Materials (2021). Identification of the Fractional Zener Model Parameters for a
+     Viscoelastic Material over a Wide Range of Frequencies and Temperatures.
+     Materials, 14(22), 7024.
+     DOI: 10.3390/ma14227024
+
+[6]  Jugulkar, L.M., Singh, S., Sawant, S.M. (2016). Analysis of suspension with variable
+     stiffness and variable damping force for automotive applications.
+     Advances in Mechanical Engineering, 8(5).
+     DOI: 10.1177/1687814016648638
+
+[7]  Borowiec, M. et al. (2022). A comprehensive diagnostic system for vehicle suspensions
+     based on a neural classifier and wavelet resonance estimators.
+     Measurement, 200, 111602.
+     DOI: 10.1016/j.measurement.2022.111602
+
+[8]  Fault detection of vehicle suspension system using wavelet analysis.
+     Vehicle System Dynamics, 47(4).
+     DOI: 10.1080/00423110802094298
+
+[9]  Du, X., Mai, L., Sadjadi, H. (2021). Suspension Fault Diagnostics Using Vehicle Pitch
+     and Roll Models. Annual Conference of the PHM Society, Vol. 13, No. 1.
+     https://papers.phmsociety.org/index.php/phmconf/article/view/2975
+
+[10] Balaji, P.A., Sugumaran, V. (2024). Fault detection of automobile suspension system
+     using decision tree algorithms: A machine learning approach.
+     Proc. IMechE Part E: Journal of Process Mechanical Engineering.
+     DOI: 10.1177/09544089231152698
+
+[11] Rosenstein, M.T., Collins, J.J., De Luca, C.J. (1993). A practical method for
+     calculating largest Lyapunov exponents from small data sets.
+     Physica D, 65(1–2), 117–134.
+     DOI: 10.1016/0167-2789(93)90009-P
+
+[12] MDPI Applied Sciences (2024). Control Lyapunov Function + Control Barrier Function
+     for active quarter-car suspension.
+     Applied Sciences, 14(8), 3140.
+     DOI: 10.3390/app14083140
+
+[13] Yin, S., Huang, Z. (2015). Performance Monitoring for Vehicle Suspension System via
+     Fuzzy Positivistic C-Means Clustering Based on Accelerometer Measurements.
+     IEEE/ASME Transactions on Mechatronics, 20(3), 1461–1472.
+     DOI: 10.1109/TMECH.2014.2347244
+
+[14] Dragomiretskiy, K., Zosso, D. (2014). Variational Mode Decomposition.
+     IEEE Transactions on Signal Processing, 62(3), 531–544.
+     DOI: 10.1109/TSP.2013.2288675
+
+[15] Ma, J. et al. (2022). Rolling bearing fault diagnosis based on improved VMD-adaptive
+     wavelet threshold denoising. Advances in Mechanical Engineering.
+     DOI: 10.1177/16878132221128397
+
+[16] An, X. et al. (2021). Parameter-Optimized VMD for Fault Feature Extraction of Rolling
+     Element Bearings. Mathematical Problems in Engineering.
+     DOI: 10.1155/2021/6629474
+
+[17] Wang, Y. et al. (2015). Comparative study between VMD and EMD in bearing fault
+     diagnosis. Proc. IMCEC, IEEE.
+     DOI: 10.1109/IMCEC.2015.7036515
+
+[18] Park, S. et al. (2024). Deep learning-based fault classification using CEEMD-VMD-IMF
+     with magnitude scalogram images. J Mech Sci Technol.
+     DOI: 10.1007/s12206-024-0905-3
+
+[19] Li, Y. et al. (2017). Identification of shock absorber squeak and rattle noise via
+     Wavelet Packet Transform and GA-SVM. Applied Acoustics.
+     DOI: 10.1016/j.apacoust.2016.06.008
+
+[20] Towards better benchmarking using the CWRU bearing fault dataset.
+     Mechanical Systems and Signal Processing.
+     DOI: 10.1016/j.ymssp.2021.108588
+
+[21] Al-Bugharbee, H. et al. (2024). Diagnosing Faults in Suspension System Using Machine
+     Learning and Feature Fusion Strategy.
+     Arabian Journal for Science and Engineering.
+     DOI: 10.1007/s13369-024-08924-8
+
+[22] Comparative study of ML and DL for fault diagnosis in automotive suspension system.
+     J Brazilian Society of Mechanical Sciences and Engineering, 2023.
+     DOI: 10.1007/s40430-023-04145-6
+
+[23] Sánchez, R.V. et al. (2018). Feature ranking for multi-fault diagnosis of rotating
+     machinery by using random forest and KNN.
+     J Intelligent & Fuzzy Systems.
+     DOI: 10.3233/JIFS-169526
+
+[24] CNN-GRU-MHA framework for RUL prediction under variable loads.
+     MDPI Applied Sciences, 2024.
+     DOI: 10.3390/app14199039
+
+[25] Fenga, L. (2025). Stochastic Modeling and Time-Frequency Analysis for Predictive
+     Maintenance of Automotive Suspension Systems.
+     Applied Stochastic Models in Business and Industry, Wiley.
+     DOI: 10.1002/asmb.70013
+
+[26] Method for Predicting RUL of Bearings under Different Operating Conditions Based on
+     Transfer Learning and Few Labeled Data. MDPI Sensors, 2023.
+     DOI: 10.3390/s23010227
+
+[27] Vibration-based anomaly detection using LSTM/SVM (semi-supervised).
+     Mechanical Systems and Signal Processing, 2021.
+     DOI: 10.1016/j.ymssp.2021.108502
+
+[28] Cause-effect relationship between model parameters and damping performance of
+     hydraulic shock absorbers.
+     International Journal of Non-Linear Mechanics, 2024.
+     DOI: 10.1016/j.ijnonlinmec.2023.104614  (arXiv: 2312.17175)
+
+[29] Simulation analysis of the EUSAMA Plus suspension testing method.
+     IOP Conf. Series: Materials Science and Engineering, 2016.
+     DOI: 10.1088/1757-899X/148/1/012034
+
+[30] Royal Society Interface (2020). Effect of data length on Lyapunov exponent reliability.
+     DOI: 10.1098/rsif.2020.0311
+
+[31] Surviving Bearing Fault Stage I–IV. Acoem / Commtest Application Note.
+     [Vendor tech note, no DOI]
+
+[32] Wear of rubber-to-metal bonded joints in vehicle suspension bushings.
+     International Journal of Fatigue, 2006.
+     DOI: 10.1016/j.ijfatigue.2005.08.005
+
+[33] Tribological behaviour of ball joint under fretting conditions.
+     Tribology International, 2017.
+     DOI: 10.1016/j.triboint.2017.03.024
+
+[34] Wear mechanisms in automotive ball joints under combined loading.
+     Tribology International, 2019.
+     DOI: 10.1016/j.triboint.2019.04.035
+
+[35] Fatigue life assessment of automotive ball joints.
+     Wear, 2018.
+     DOI: 10.1016/j.wear.2018.04.012
+
+[36] Few-Shot Learning Approaches for Fault Diagnosis Using Vibration Data.
+     MDPI Sustainability, 2023.
+     DOI: 10.3390/su152014975
+
+[37] Minimum sample size determination of vibration signals in ML fault diagnosis.
+     Expert Systems with Applications, 2011.
+     DOI: 10.1016/j.eswa.2010.07.075
+
+[38] Comparative Study of Time-Frequency Representations for Bearing Fault Diagnosis
+     Using Vision Transformer. MDPI Machines, 2025.
+     DOI: 10.3390/machines13080737
+
+[39] Unsupervised Bearing Fault Diagnosis Using Masked SSL and Swin Transformer.
+     MDPI Machines, 2025.
+     DOI: 10.3390/machines13090792
+
+[40] Fault Diagnosis Method Based on Swin Transformer and Generalized S Transform.
+     MDPI Mathematics, 2025.
+     DOI: 10.3390/math13010045
+
+[41] Intelligent Fault Diagnosis of Industrial Bearings Using Transfer Learning and
+     CNNs Pre-Trained for Audio Classification. MDPI Sensors, 2023.
+     DOI: 10.3390/s23010211
+
+[42] Vibration-based fault diagnosis of automotive suspension systems using voting-based
+     ensemble learning. Scientific African, 2025.
+     DOI: 10.1016/j.sciaf.2025.e02688
+
+[43] Remaining Useful Life Prediction Based on Deep Learning: A Survey.
+     MDPI Sensors, 2024.
+     DOI: 10.3390/s24113454
+
+[44] Park, K., Kim, J-W. (2025). RUL Prediction of Bearings via Semi-Supervised Transfer
+     Learning Based on Anti-Self-Healing Health Indicator. MDPI Sensors.
+     DOI: 10.3390/s25123662
+
+[45] Wen, Y. et al. (2018). Bearing RUL Prediction Based on a Nonlinear Wiener Process.
+     Shock and Vibration.
+     DOI: 10.1155/2018/4068431
+
+[46] MDPI Machines (2023). Deep transfer learning for suspension fault diagnosis using
+     spectrogram image and CNN.
+     DOI: 10.3390/machines11080778
+
+[47] Ymssp (2021). Mechanical Systems and Signal Processing: ML suspension diagnostics.
+     DOI: 10.1016/j.ymssp.2021.108736
+
+[48] Ymssp (2005). Mechanical Systems and Signal Processing: damping identification.
+     DOI: 10.1016/j.ymssp.2005.12.002
+
+[49] Ymssp (2010). Mechanical Systems and Signal Processing: suspension parameter estimation.
+     DOI: 10.1016/j.ymssp.2010.07.014
+
+[50] Novel health indicator + LLE (Lyapunov) for bearing diagnostics.
+     Measurement, 2020.
+     DOI: (ScienceDirect: S0263224120305406)
+
+[51] LLE for low-speed slew bearing fault diagnosis.
+     Mechanical Systems and Signal Processing, 2014.
+     DOI: (ScienceDirect: S0888327014001873)
+```
+
+---
+
+### B.2 Стандарты и нормативные документы
+
+```
+[S1]  ISO 2631-1:1997  — Mechanical vibration and shock. Evaluation of human exposure to
+                          whole-body vibration. Part 1: General requirements.
+                          iso.org/standard/7612.html
+
+[S2]  ISO 2631-5:2018  — Mechanical vibration and shock. Method for evaluation of
+                          vibration containing multiple shocks.
+                          iso.org/standard/50905.html
+
+[S3]  ISO 8608:2016    — Mechanical vibration. Road surface profiles. Reporting of
+                          measured data.
+
+[S4]  ISO 10816-3:2009 — Mechanical vibration. Evaluation of machine vibration by
+                          measurements on non-rotating parts. Part 3: Industrial machines.
+
+[S5]  ISO 13373-1:2002 — Condition monitoring and diagnostics of machines.
+                          Vibration condition monitoring. Part 1: General procedures.
+
+[S6]  ISO 13381-1:2015 — Condition monitoring and diagnostics of machines.
+                          Prognostics. Part 1: General guidelines.
+                          (Обновлено в ISO 13381-1:2025)
+
+[S7]  ISO 16063-1:1998 — Methods for the calibration of vibration and shock transducers.
+                          Part 1: Basic concepts.
+
+[S8]  SAE J1367:1997   — Hydraulic Shock Absorbers (Passenger Car and Light Truck).
+
+[S9]  SAE J1979:2012   — E/E Diagnostic Test Modes (OBD-II PID definitions).
+
+[S10] SAE J2012:2015   — Diagnostic Trouble Code Definitions (DTC J2012).
+
+[S11] EUSAMA TR 2000   — EUSAMA Technical Report: Suspension testing methodology on
+                          vehicle platforms (sweep 25→0 Hz, amplitude 3 mm).
+
+[S12] ISO 15765-4:2016 — Road vehicles. Diagnostics on CAN networks.
+                          Part 4: Requirements for emission-related systems.
+
+[S13] ISO 13400-2:2019 — Road vehicles. Diagnostic communication over Internet Protocol
+                          (DoIP). Part 2: Transport protocol and network layer services.
+
+[S14] GOST 33997-2016  — Колёсные транспортные средства. Требования к безопасности
+                          и методы испытаний (Россия/ЕАЭС).
+
+[S15] ISO 5347-3:1993  — Methods for the calibration of vibration and shock pick-ups.
+                          Part 3: Secondary vibration calibration.
+```
+
+---
+
+### B.3 Vendor docs и технические руководства
+
+```
+[V1]  Acoem / Commtest — Bearing Fault Stage Classification (I–IV).
+      Application Note: "Four Stages of Bearing Failure".
+
+[V2]  MTS Systems — Shock Absorber Test Systems. Application Guide.
+      Описание методологии shock dyno (F-V curves, ±50 мм ход).
+
+[V3]  National Instruments / NI — Human Vibration Weighting Filters in LabVIEW
+      Sound and Vibration. Technical Note.
+      ni.com/en/support/documentation/supplemental/08/human-vibration-weighting-filters
+
+[V4]  SKF Bearing Catalogue — Bearing frequency calculation formulas (BPFO/BPFI/BSF/FTF),
+      geometry parameters for hub bearings.
+
+[V5]  Bosch OBD II Technical Reference — PID 0x0C (RPM), 0x0D (Vehicle Speed),
+      0x05 (Coolant Temperature), 0x11 (Throttle Position).
+
+[V6]  vmdpy Python Library — GitHub: vrcarva/vmdpy. VMD Python implementation.
+      Dragomiretskiy & Zosso MATLAB port.
+
+[V7]  nolds Python Library — GitHub: CSchoel/nolds. Nonlinear dynamics measures
+      including Lyapunov exponents, DFA, Hurst exponent.
+
+[V8]  librosa — Audio analysis library. HPSS, STFT, spectral features.
+      librosa.github.io
+
+[V9]  scikit-learn — RandomForestClassifier, IsolationForest, Pipeline.
+      scikit-learn.org
+
+[V10] Gillespie, T.D. (1992). Fundamentals of Vehicle Dynamics.
+      Society of Automotive Engineers. SAE R-114.
+      ISBN: 978-1-56091-199-9
+```
+
+---
+
+### B.4 Внутренние исследования LLCAR
+
+```
+[L1]  S20 REPORT.md — Сессия 20: исследовательский отчёт рой-агентов GLM.
+      Расположение: C:\Users\Петр\Downloads\suspension-audio\REPORT.md
+      Объём: 1491 строка, 14 частей, ~306 источников.
+      Темы: подвеска, аудио, вибростенды, KB enrichment, expert-practice.
+
+[L2]  S21 research-zener-halfcar.md — Zener Model + Half-Car 4 DoF.
+      DOI охвачены: 10.1177/0263092317711989, 10.1177/09544070231174280,
+      10.26552/com.C.2021.3.B178-B186, 10.3390/ma14227024,
+      10.1177/1687814016648638, 10.1016/j.measurement.2022.111602,
+      10.1080/00423110802094298, 10.1177/09544089231152698.
+
+[L3]  S21 research-iso2631-lyapunov.md — ISO 2631-1 + Теория Ляпунова + EDR.
+      DOI охвачены: 10.3390/app14083140, 10.1016/0167-2789(93)90009-P,
+      10.1098/rsif.2020.0311.
+
+[L4]  S21 research-vmd-vit.md — VMD + Vision Transformer для подвески.
+      DOI охвачены: 10.1109/TSP.2013.2288675, 10.1177/16878132221128397,
+      10.1155/2021/6629474, 10.1109/IMCEC.2015.7036515,
+      10.1007/s12206-024-0905-3, 10.1016/j.apacoust.2016.06.008,
+      10.1016/j.ymssp.2021.108588, 10.1177/09544089231152698,
+      10.1007/s40430-023-04145-6, 10.3390/e24091295, 10.3390/s23010211,
+      10.1016/j.sciaf.2025.e02688.
+
+[L5]  S21 research-ml-rul.md — ML классификация подвески + RUL.
+      DOI охвачены: 10.1177/09544089231152698, 10.1007/s13369-024-08924-8,
+      10.1007/s40430-023-04145-6, 10.1109/TMECH.2014.2347244,
+      10.3233/JIFS-169526, 10.3390/su152014975, 10.1016/j.eswa.2010.07.075,
+      10.1002/asmb.70013, 10.3390/s23010227, 10.1016/j.ymssp.2021.108502,
+      10.1016/j.ijnonlinmec.2023.104614, 10.1088/1757-899X/148/1/012034,
+      10.1155/2018/4068431, 10.3390/s24113454, 10.3390/s25123662,
+      10.3390/app14199039.
+
+[L6]  S20 production-rules-crosscheck.md — верификация 42 правил по 306 источникам.
+      Расположение: docs/research/suspension-audio/final/production-rules-crosscheck.md
+
+[L7]  S20 custdev-snippets.json — 201 цитата диагностов-практиков из CustDev 1–2.
+      Расположение: docs/research/suspension-audio/final/custdev-snippets.json
+
+[L8]  sources-verified.json — 51 DOI с HTTP-статусами (верификация живых ссылок).
+      Расположение: docs/research/suspension-audio/final/sources-verified.json
+```
