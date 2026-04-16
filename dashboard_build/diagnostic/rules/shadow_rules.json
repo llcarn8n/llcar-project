@@ -49,6 +49,73 @@
       "cooldown_minutes": 10080,
       "situation_id": null,
       "dtc_codes": []
+    },
+    {
+      "name": "spectral_kurtosis_impulsive_bearing",
+      "display": "SK-индикатор импульсного подшипника (shadow S23, A.26)",
+      "tier": "T3",
+      "shadow_mode": true,
+      "conditions": [
+        {"fact_type": "spectral_kurtosis_audio", "operator": ">", "threshold": 3.0, "weight": 3},
+        {"fact_type": "bpfo_harmonic_matches", "operator": ">=", "threshold": 1, "weight": 2},
+        {"fact_type": "speed", "operator": ">", "threshold": 40.0, "weight": 1}
+      ],
+      "context": {"min_speed": 40},
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "order_tracking_mount_wear_shadow",
+      "display": "Опоры двигателя (order-based shadow S23, A.27)",
+      "tier": "T3",
+      "shadow_mode": true,
+      "conditions": [
+        {"fact_type": "rpm_order_matches", "operator": ">=", "threshold": 3, "weight": 3},
+        {"fact_type": "order_2x_amp", "operator": "z>", "threshold": 2.0, "weight": 2},
+        {"fact_type": "rpm", "operator": ">", "threshold": 1500.0, "weight": 1}
+      ],
+      "context": {"min_speed": 10},
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "phase_lag_shift_shadow",
+      "display": "Phase Angle proxy демпфирования (shadow S23, A.33)",
+      "tier": "T2",
+      "shadow_mode": true,
+      "conditions": [
+        {"fact_type": "ax_az_phase_proxy", "operator": "between", "threshold": [-0.3, 0.3], "weight": 3},
+        {"fact_type": "az_std", "operator": "z>", "threshold": 1.5, "weight": 2},
+        {"fact_type": "crest_factor_z", "operator": ">", "threshold": 3.5, "weight": 2},
+        {"fact_type": "speed", "operator": ">", "threshold": 40.0, "weight": 1}
+      ],
+      "context": {"min_speed": 40},
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "damping_bandwidth_wide_shadow",
+      "display": "HPBM proxy ширины резонанса (shadow S23, A.34)",
+      "tier": "T2",
+      "shadow_mode": true,
+      "conditions": [
+        {"fact_type": "hpbm_applicable", "operator": "==", "threshold": true, "weight": 1},
+        {"fact_type": "hpbm_bandwidth_ratio", "operator": ">", "threshold": 0.5, "weight": 3},
+        {"fact_type": "wheel_hop_peak_freq", "operator": "between", "threshold": [9, 14], "weight": 2},
+        {"fact_type": "az_std", "operator": "z>", "threshold": 1.2, "weight": 2},
+        {"fact_type": "speed", "operator": ">", "threshold": 40.0, "weight": 1}
+      ],
+      "context": {"min_speed": 40},
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
     }
   ]
 }

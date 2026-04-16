@@ -1,6 +1,7 @@
 """VehicleProfile — dataclass with LTFT correction coefficients and KB resolution path."""
 from __future__ import annotations
 
+import math
 from dataclasses import dataclass, field, asdict
 from typing import Any, Dict, List, Optional
 
@@ -9,6 +10,12 @@ _JAPANESE_BRANDS = frozenset({
     "toyota", "honda", "mazda", "subaru", "nissan",
     "mitsubishi", "suzuki", "lexus", "infiniti", "acura",
 })
+
+# Draper 1938 (DOI:10.2514/8.590) — первая окружная (1,0) мода детонации.
+# f_{1,0} = ρ · c / (π · B), где ρ=1.841 — первый корень J'_1(ρ)=0,
+# c — скорость звука в газах сгорания при T≈2500 K ≈ 1000 м/с.
+_DRAPER_RHO_1_0 = 1.841
+_DRAPER_C_DEFAULT = 1000.0  # м/с
 
 
 @dataclass
@@ -30,6 +37,11 @@ class VehicleProfile:
     platform: Optional[str] = None
     tire_diameter: float = 0.63  # meters, default 205/55 R16
     modifications: Dict[str, Any] = field(default_factory=dict)
+
+    # --- S23: engine geometry for knock/order diagnostics (A.31) ---
+    bore_mm: Optional[int] = None          # диаметр цилиндра, мм
+    cylinder_count: Optional[int] = None    # L3/L4/L5/L6/V6/V8/V10/V12
+    turbo_blade_count: Optional[int] = None # число лопаток турбины (z), 10–14 типично
 
     # ------------------------------------------------------------------
     # LTFT correction properties
@@ -55,6 +67,29 @@ class VehicleProfile:
         if self.brand.lower() in _JAPANESE_BRANDS:
             return 0.7
         return 1.0
+
+    # ------------------------------------------------------------------
+    # S23: knock frequency from bore (Draper 1938 формула, A.31)
+    # ------------------------------------------------------------------
+
+    @property
+    def knock_expected_freq_from_bore(self) -> Optional[float]:
+        """Ожидаемая частота первой окружной (1,0) моды детонации [Hz].
+
+        f_{1,0} = ρ · c / (π · B), где ρ=1.841 (J'_1(ρ)=0), c≈1000 м/с.
+        Draper C.S. (1938) NACA Technical Report 493, DOI:10.2514/8.590.
+
+        Возвращает None, если bore_mm неизвестен (fallback: 5–8 kHz в правиле 1.15).
+
+        Примеры:
+            bore=72 мм → f≈8144 Гц (VW 1.4 TSI)
+            bore=86 мм → f≈6817 Гц (BMW N20/B48 2.0)
+            bore=100 мм → f≈5864 Гц (Porsche 4.0 flat-six)
+        """
+        if self.bore_mm is None or self.bore_mm <= 0:
+            return None
+        bore_m = self.bore_mm / 1000.0
+        return round(_DRAPER_RHO_1_0 * _DRAPER_C_DEFAULT / (math.pi * bore_m), 1)
 
     # ------------------------------------------------------------------
     # Knowledge-base resolution path

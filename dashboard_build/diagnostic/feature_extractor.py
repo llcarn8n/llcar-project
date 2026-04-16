@@ -253,4 +253,134 @@ def extract_features(
     else:
         f["az_peak_abs"] = None
 
+    # ------------------------------------------------------------------
+    # S23 Research: advanced vibration / order / SK / HPBM features
+    # (proxies — полный анализ требует raw audio, см. A.26–A.34)
+    # ------------------------------------------------------------------
+
+    # 11. Spectral Kurtosis proxy (A.26)
+    # Полный SK = ⟨|X(t,f)|⁴⟩/⟨|X(t,f)|²⟩² − 2 по STFT. Здесь proxy по percussive peaks:
+    # тяжесть хвостов амплитудного распределения ⇒ импульсность.
+    f["spectral_kurtosis_audio"] = None
+    if packet.audio_percussive:
+        _perc_amps = [
+            abs(_a) for _, _a in packet.audio_percussive
+            if _a is not None and _a > -9000 and _a != 0
+        ]
+        if len(_perc_amps) >= 4:
+            _n = len(_perc_amps)
+            _m2 = sum(_a * _a for _a in _perc_amps) / _n
+            _m4 = sum(_a ** 4 for _a in _perc_amps) / _n
+            if _m2 > 1e-9:
+                _sk_proxy = _m4 / (_m2 * _m2) - 2.0
+                f["spectral_kurtosis_audio"] = round(_sk_proxy, 3)
+
+    # 12. Kurtogram best band proxy (A.26)
+    # Разбиваем audio-полосу на 5 поддиапазонов, вычисляем SK для каждого,
+    # возвращаем полосу с максимальным SK.
+    f["kurtogram_best_band_low"] = None
+    f["kurtogram_best_band_high"] = None
+    f["kurtogram_best_sk"] = None
+    if packet.audio_peaks or packet.audio_percussive:
+        _bands = [(0, 500), (500, 2000), (2000, 5000), (5000, 10000), (10000, 22050)]
+        _all_peaks = []
+        for _fv, _av in (packet.audio_peaks or []):
+            if _fv is not None and _av is not None and _av > 0:
+                _all_peaks.append((_fv, _av))
+        for _fv, _av in (packet.audio_percussive or []):
+            if _fv is not None and _av is not None and _av > -9000 and _av != 0:
+                _all_peaks.append((_fv, abs(_av)))
+        _best_sk = None
+        _best_band = None
+        for _lo, _hi in _bands:
+            _in_band = [_a for _f, _a in _all_peaks if _lo <= _f < _hi]
+            if len(_in_band) >= 3:
+                _n = len(_in_band)
+                _m2 = sum(_a * _a for _a in _in_band) / _n
+                _m4 = sum(_a ** 4 for _a in _in_band) / _n
+                if _m2 > 1e-9:
+                    _sk = _m4 / (_m2 * _m2) - 2.0
+                    if _best_sk is None or _sk > _best_sk:
+                        _best_sk = _sk
+                        _best_band = (_lo, _hi)
+        if _best_band is not None:
+            f["kurtogram_best_band_low"] = _best_band[0]
+            f["kurtogram_best_band_high"] = _best_band[1]
+            f["kurtogram_best_sk"] = round(_best_sk, 3)
+
+    # 13. RPM order matches (A.27 Order Tracking)
+    # Счётчик audio_peaks, чьи безразмерные порядки попадают в {0.5,1.0,2.0,3.0,4.0} ±0.05.
+    # Инвариантно к RPM → устойчивее чем rpm_harmonic_matches в Гц.
+    f["rpm_order_matches"] = 0
+    f["order_1x_amp"] = None
+    f["order_2x_amp"] = None
+    f["order_05_amp"] = None
+    if rpm is not None and rpm > 800 and packet.audio_peaks:
+        _engine_base = rpm / 60.0
+        if _engine_base > 0.5:
+            _targets = (0.5, 1.0, 2.0, 3.0, 4.0)
+            _matched = 0
+            _order_amps = {0.5: None, 1.0: None, 2.0: None}
+            for _fv, _av in packet.audio_peaks:
+                if _fv is None or _av is None or _av <= 0:
+                    continue
+                _order = _fv / _engine_base
+                for _t in _targets:
+                    if abs(_order - _t) < 0.05:
+                        _matched += 1
+                        if _t in _order_amps:
+                            _cur = _order_amps[_t]
+                            if _cur is None or _av > _cur:
+                                _order_amps[_t] = _av
+                        break
+            f["rpm_order_matches"] = _matched
+            if _order_amps[1.0] is not None:
+                f["order_1x_amp"] = round(_order_amps[1.0], 4)
+            if _order_amps[2.0] is not None:
+                f["order_2x_amp"] = round(_order_amps[2.0], 4)
+            if _order_amps[0.5] is not None:
+                f["order_05_amp"] = round(_order_amps[0.5], 4)
+
+    # 14. ax_az phase proxy (A.33 Phase Angle)
+    # Полный фазовый сдвиг между стендом и кузовом недоступен без синхронного
+    # tacho-сигнала. Proxy: корреляция std(ax) и std(az) через нормированное
+    # отношение — при плохом демпфировании продольные и вертикальные колебания
+    # десинхронизируются → их соотношение становится близко к 1 (полная связь)
+    # или дрейфует к 0 (развязка). |ax_az_phase_proxy| < 0.3 = слабая синхронизация.
+    f["ax_az_phase_proxy"] = None
+    if _ax is not None and _az is not None:
+        _denom = math.sqrt(_ax * _ax + _az * _az)
+        if _denom > 0.01:
+            _proxy = (_az - _ax) / _denom
+            f["ax_az_phase_proxy"] = round(_proxy, 3)
+
+    # 15. HPBM bandwidth ratio (A.34)
+    # Ширина пика wheel_hop (9-14 Гц) на уровне -3 дБ от пика, делённая на f_peak.
+    # hpbm_applicable=true только при явном пике (>= 2× выше соседей).
+    f["hpbm_bandwidth_ratio"] = None
+    f["hpbm_applicable"] = False
+    if packet.audio_peaks:
+        # Собираем пики в резонансной зоне wheel_hop 7-20 Hz
+        _wh_peaks = [
+            (_fv, _av) for _fv, _av in packet.audio_peaks
+            if _fv is not None and _av is not None and 7 <= _fv <= 20 and _av > 0
+        ]
+        if _wh_peaks:
+            _wh_peaks.sort(key=lambda p: -p[1])
+            _peak_f, _peak_a = _wh_peaks[0]
+            _half_power_threshold = _peak_a / math.sqrt(2.0)
+            # Границы −3 дБ: минимальная и максимальная частота среди пиков выше уровня
+            _above_half = [_fv for _fv, _av in _wh_peaks if _av >= _half_power_threshold]
+            if len(_above_half) >= 2 and _peak_f > 0.1:
+                _f_low = min(_above_half)
+                _f_high = max(_above_half)
+                _bandwidth = _f_high - _f_low
+                f["hpbm_bandwidth_ratio"] = round(_bandwidth / _peak_f, 3)
+                # applicable: 2× доминирующий пик над следующим + явный wheel hop диапазон
+                _second_a = _wh_peaks[1][1] if len(_wh_peaks) > 1 else 0.0
+                _symmetric = abs(_peak_f - (_f_low + _f_high) / 2.0) / _peak_f < 0.15
+                f["hpbm_applicable"] = bool(
+                    _peak_a > 2.0 * _second_a and _symmetric and 9.0 <= _peak_f <= 14.0
+                )
+
     return f
