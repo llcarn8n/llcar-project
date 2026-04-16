@@ -599,6 +599,36 @@
       "dtc_codes": []
     },
     {
+      "name": "ball_joint_early_wear",
+      "display": "Ранний износ шаровых опор",
+      "tier": "T2",
+      "conditions": [
+        {"fact_type": "vertical_lateral_ratio", "operator": ">", "threshold": 1.8, "weight": 3},
+        {"fact_type": "speed", "operator": "between", "threshold": [40, 90], "weight": 1},
+        {"fact_type": "az_std", "operator": "<", "threshold": 0.5, "weight": 2}
+      ],
+      "context": {"min_speed": 20},
+      "min_confidence": 50,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "bushing_wear_120_180hz",
+      "display": "Износ сайлентблоков (120-180 Гц)",
+      "tier": "T2",
+      "conditions": [
+        {"fact_type": "audio_energy_band_120_180", "operator": ">", "threshold": 0.15, "weight": 3},
+        {"fact_type": "speed", "operator": "between", "threshold": [30, 70], "weight": 1},
+        {"fact_type": "az_std", "operator": "z>", "threshold": 1.5, "weight": 2}
+      ],
+      "context": {"min_speed": 20},
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
       "name": "high_crest_vertical",
       "display": "Импульсные удары подвески",
       "tier": "T2",

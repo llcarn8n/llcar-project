@@ -1,3 +1,54 @@
 {
-  "rules": []
+  "rules": [
+    {
+      "name": "shock_absorber_early_wear_corrected",
+      "display": "Ранний износ амортизаторов (калибровка)",
+      "tier": "T2",
+      "shadow_mode": true,
+      "conditions": [
+        {"fact_type": "az_std", "operator": "z>", "threshold": 1.5, "weight": 3},
+        {"fact_type": "az_range", "operator": ">", "threshold": 5.0, "weight": 2},
+        {"fact_type": "speed", "operator": ">", "threshold": 30.0, "weight": 1},
+        {"fact_type": "crest_factor_z", "operator": ">", "threshold": 3.0, "weight": 2}
+      ],
+      "context": {"min_speed": 20},
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "shock_absorber_worn_corrected",
+      "display": "Износ амортизаторов (калибровка)",
+      "tier": "T2",
+      "shadow_mode": true,
+      "conditions": [
+        {"fact_type": "az_range", "operator": ">", "threshold": 8.0, "weight": 3},
+        {"fact_type": "az_std", "operator": ">", "threshold": 2.0, "weight": 2},
+        {"fact_type": "speed", "operator": ">", "threshold": 30.0, "weight": 1},
+        {"fact_type": "crest_factor_z", "operator": ">", "threshold": 3.5, "weight": 2}
+      ],
+      "context": {"min_speed": 20},
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    },
+    {
+      "name": "stabilizer_link_worn_freq",
+      "display": "Износ стоек стабилизатора (с частотой)",
+      "tier": "T2",
+      "shadow_mode": true,
+      "conditions": [
+        {"fact_type": "ay_std", "operator": "z>", "threshold": 2.0, "weight": 3},
+        {"fact_type": "speed", "operator": ">", "threshold": 30.0, "weight": 1},
+        {"fact_type": "total_vibration", "operator": ">", "threshold": 3.0, "weight": 2},
+        {"fact_type": "dominant_freq", "operator": "between", "threshold": [80, 400], "weight": 2}
+      ],
+      "min_confidence": 40,
+      "cooldown_minutes": 10080,
+      "situation_id": null,
+      "dtc_codes": []
+    }
+  ]
 }
