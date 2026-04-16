@@ -12,6 +12,7 @@ Tests verify:
 from __future__ import annotations
 
 import math
+from datetime import datetime, timedelta, timezone
 import pytest
 from unittest.mock import MagicMock
 
@@ -426,12 +427,18 @@ class TestCooldownEnforcement:
         engine = RuleEngine()
         esc = EscalationManager()
 
+        # Use dates relative to now so test stays within 7-day cooldown regardless
+        # of when it runs (prevents time-dependent flakiness).
+        now = datetime.now(timezone.utc)
+        trigger_iso = (now - timedelta(days=6)).isoformat()
+        dismiss_iso = (now - timedelta(days=3)).isoformat()
+
         # Trigger and then dismiss
-        esc.update("client1", "engine_overheating", 80, "2026-04-01T00:00:00+00:00")
-        esc.dismiss("client1", "engine_overheating", "2026-04-07T00:00:00+00:00")
+        esc.update("client1", "engine_overheating", 80, trigger_iso)
+        esc.dismiss("client1", "engine_overheating", dismiss_iso)
 
         # Verify it's in cooldown (within 7 days)
-        assert esc.is_in_cooldown("client1", "engine_overheating", "2026-04-08T00:00:00+00:00")
+        assert esc.is_in_cooldown("client1", "engine_overheating", now.isoformat())
 
         packet = _make_packet(coolant_temp=108, rpm=1500, regime=DrivingRegime.CITY)
         features = _make_features()
@@ -500,8 +507,11 @@ class TestCooldownEnforcement:
         engine = RuleEngine()
         esc = EscalationManager()
 
-        esc.update("client1", "engine_overheating", 80, "2026-04-01T00:00:00+00:00")
-        esc.dismiss("client1", "engine_overheating", "2026-04-07T00:00:00+00:00")
+        # Relative dates — keeps dismissal within 7-day cooldown regardless of
+        # run date (wall-clock dependency in is_in_cooldown).
+        now = datetime.now(timezone.utc)
+        esc.update("client1", "engine_overheating", 80, (now - timedelta(days=6)).isoformat())
+        esc.dismiss("client1", "engine_overheating", (now - timedelta(days=3)).isoformat())
 
         packet = _make_packet(coolant_temp=108, rpm=1500, regime=DrivingRegime.CITY)
         features = _make_features()
