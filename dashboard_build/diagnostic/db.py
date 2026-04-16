@@ -167,6 +167,18 @@ class MockDB:
             features_snapshot TEXT
         )""")
 
+        c.execute("""CREATE TABLE IF NOT EXISTS eusama_tests (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            client_hash TEXT NOT NULL,
+            time TEXT NOT NULL,
+            front_left REAL,
+            front_right REAL,
+            rear_left REAL,
+            rear_right REAL,
+            pass_threshold REAL DEFAULT 40.0,
+            notes TEXT
+        )""")
+
         self.conn.commit()
 
     @contextlib.contextmanager
