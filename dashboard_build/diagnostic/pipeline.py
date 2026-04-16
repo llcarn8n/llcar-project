@@ -112,6 +112,15 @@ class DiagnosticPipeline:
             packet, tire_diameter=self._profile.tire_diameter,
         )
 
+        # S23: inject VehicleProfile metadata для order/knock правил
+        # (cylinder_count/fuel_type/bore_mm/knock_expected_freq_from_bore)
+        features["cylinder_count"] = self._profile.cylinder_count
+        features["fuel_type"] = self._profile.modifications.get("fuel_type")
+        features["bore_mm"] = self._profile.bore_mm
+        features["knock_expected_freq_from_bore"] = (
+            self._profile.knock_expected_freq_from_bore
+        )
+
         # Step 3: Collect baseline features (numeric features + key OBD values)
         baseline_features: Dict[str, Any] = {}
 

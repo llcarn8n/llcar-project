@@ -47,6 +47,7 @@ def _make_result(
     min_confidence: int = 40,
     situation_id: Optional[str] = None,
     dtc_codes: Optional[List[str]] = None,
+    shadow_mode: bool = False,
 ) -> Dict[str, Any]:
     """Build a standardized result dict matching RuleEngine output format."""
     confidence = round(min(max(confidence, 0.0), 100.0), 1)
@@ -61,6 +62,7 @@ def _make_result(
         "min_confidence": min_confidence,
         "situation_id": situation_id,
         "dtc_codes": dtc_codes or [],
+        "shadow_mode": shadow_mode,
         "details": details,
     }
 
@@ -755,6 +757,208 @@ def rule_adaptive_damper_dead(
 
 
 # ---------------------------------------------------------------------------
+# S23 Session 4: Order-based rules + Draper-driven knock band
+# ---------------------------------------------------------------------------
+
+def rule_order_2x_imbalance_l4(
+    features: Dict[str, Any],
+    packet: Any,
+    baselines: Any,
+    regime: Any,
+) -> Optional[Dict[str, Any]]:
+    """Отказ балансирных валов Lanchester на L4 двигателе (shadow).
+
+    Физика: 4-цилиндровый рядный двигатель имеет вторичные силы инерции
+    на 2× RPM, которые компенсируются парой балансирных валов Lanchester.
+    При их износе/отказе 2-й порядок резко возрастает при нормальном
+    1-м порядке (без общей разбалансировки кривошипа).
+
+    Условия (T2, shadow-режим 14 дней):
+      - cylinder_count == 4 (обязательно)
+      - order_2x_amp z-score > 2.5 (по baseline на idle regime)
+      - order_1x_amp в пределах baseline (не растёт вместе с 2x)
+
+    Источник: A.31 Engine Order Spectrum, Lanchester 1911 US Patent 986,829.
+    """
+    cyl = features.get("cylinder_count")
+    if cyl != 4:
+        return None
+
+    order_2x = features.get("order_2x_amp")
+    order_1x = features.get("order_1x_amp")
+    if order_2x is None or order_1x is None:
+        return None
+
+    # Baseline сравнение по idle regime (balance shaft issues заметнее на холостом)
+    regime_key = _regime_key(regime)
+    bl_2x = baselines.get(regime_key, "order_2x_amp") if baselines else None
+    bl_1x = baselines.get(regime_key, "order_1x_amp") if baselines else None
+
+    if bl_2x is None or bl_2x.count < 20:
+        return None  # недостаточно baseline
+
+    z_2x = (order_2x - bl_2x.mean) / max(bl_2x.std, 1e-6)
+    if z_2x < 2.5:
+        return None
+
+    # 1× должен быть около baseline (±1σ), иначе это общий imbalance, не Lanchester
+    conditions_met = 2  # cyl==4 + z_2x>2.5 уже выполнены
+    conditions_total = 3
+    if bl_1x is not None and bl_1x.count >= 20:
+        z_1x = abs((order_1x - bl_1x.mean) / max(bl_1x.std, 1e-6))
+        if z_1x < 1.0:
+            conditions_met += 1
+
+    confidence = 30.0 + conditions_met * 15.0
+    return _make_result(
+        name="order_2x_imbalance_l4",
+        display="Износ балансирных валов Lanchester (L4)",
+        tier="T2",
+        confidence=confidence,
+        conditions_met=conditions_met,
+        conditions_total=conditions_total,
+        shadow_mode=True,
+        details={
+            "cylinder_count": cyl,
+            "order_2x_amp": order_2x,
+            "order_2x_z": round(z_2x, 2),
+            "order_1x_amp": order_1x,
+        },
+    )
+
+
+def rule_order_05_misfire_diesel(
+    features: Dict[str, Any],
+    packet: Any,
+    baselines: Any,
+    regime: Any,
+) -> Optional[Dict[str, Any]]:
+    """Подсказка о misfire на дизеле по 0.5-порядку без DTC (shadow).
+
+    Физика: цикл 4-тактного двигателя = 2 оборота коленвала, поэтому
+    полуоборотные процессы (пропуски вспышек, ГРМ) проявляются на
+    порядке 0.5. Карбоновые дизели часто не ставят DTC P03xx при
+    лёгком misfire — индикатор по 0.5-order даёт упреждение.
+
+    Условия (T3, shadow):
+      - fuel_type == "diesel" (обязательно)
+      - order_05_amp > order_2x_amp · 0.3 (относительный рост полгармоники)
+      - rpm > 1500 (нагрузочный режим, где misfire заметнее)
+
+    Источник: A.28 Cyclostationary Modelling + Carlucci 2006 (качественно).
+    """
+    if features.get("fuel_type") != "diesel":
+        return None
+
+    order_05 = features.get("order_05_amp")
+    order_2x = features.get("order_2x_amp")
+    rpm = getattr(packet, "rpm", None)
+    if order_05 is None or order_2x is None or rpm is None:
+        return None
+    if order_2x <= 0 or rpm <= 1500:
+        return None
+
+    ratio = order_05 / order_2x
+    if ratio <= 0.30:
+        return None
+
+    conditions_met = 3  # fuel, rpm, ratio
+    conditions_total = 3
+    # Градация: 0.3-0.5 → 45, 0.5-0.8 → 60, >0.8 → 75
+    if ratio >= 0.8:
+        confidence = 75.0
+    elif ratio >= 0.5:
+        confidence = 60.0
+    else:
+        confidence = 45.0
+
+    return _make_result(
+        name="order_05_misfire_diesel",
+        display="Пропуски вспышек дизеля (0.5-order, shadow)",
+        tier="T3",
+        confidence=confidence,
+        conditions_met=conditions_met,
+        conditions_total=conditions_total,
+        shadow_mode=True,
+        details={
+            "order_05_amp": order_05,
+            "order_2x_amp": order_2x,
+            "ratio_05_to_2x": round(ratio, 3),
+            "rpm": rpm,
+        },
+    )
+
+
+def rule_knock_impulse_kurtogram_band(
+    features: Dict[str, Any],
+    packet: Any,
+    baselines: Any,
+    regime: Any,
+) -> Optional[Dict[str, Any]]:
+    """Детонация в частотной полосе Draper (kurtogram + bore).
+
+    Заменяет fixed 5-8 kHz в правиле 1.15 (legacy): kurtogram выбирает
+    полосу с максимальной импульсностью, сверяется с ожидаемой частотой
+    первой окружной (1,0) моды f_{1,0} = 1.841·c/(π·B) (Draper 1938).
+
+    Условия (T2, production):
+      - bore_mm известен → knock_expected_freq_from_bore рассчитан
+      - kurtogram_best_sk > 3.0 (явная импульсность)
+      - kurtogram_best_band содержит ожидаемую частоту ±20% (окно моды)
+      - rpm > 2000 (нагрузка, где детонация вероятна)
+
+    Источник: A.31 Draper 1938 DOI:10.2514/8.590 + A.26 SK/Kurtogram.
+    """
+    f_expected = features.get("knock_expected_freq_from_bore")
+    if f_expected is None:
+        return None
+
+    best_sk = features.get("kurtogram_best_sk")
+    band_low = features.get("kurtogram_best_band_low")
+    band_high = features.get("kurtogram_best_band_high")
+    rpm = getattr(packet, "rpm", None)
+    if best_sk is None or band_low is None or band_high is None:
+        return None
+    if rpm is None or rpm <= 2000:
+        return None
+
+    conditions_met = 1  # bore известен
+    conditions_total = 4
+
+    if best_sk > 3.0:
+        conditions_met += 1
+
+    # Попадает ли ожидаемая частота в выбранную Kurtogram-ом полосу (±20%)
+    tolerance = f_expected * 0.20
+    in_band = (band_low - tolerance) <= f_expected <= (band_high + tolerance)
+    if in_band:
+        conditions_met += 1
+
+    if rpm > 2000:
+        conditions_met += 1  # rpm уже прошёл гейт, счётчик для видимости
+
+    if conditions_met < 3:
+        return None
+
+    confidence = 25.0 + conditions_met * 15.0
+    return _make_result(
+        name="knock_impulse_kurtogram_band",
+        display="Детонация в полосе Draper (kurtogram)",
+        tier="T2",
+        confidence=confidence,
+        conditions_met=conditions_met,
+        conditions_total=conditions_total,
+        details={
+            "knock_expected_freq_hz": f_expected,
+            "kurtogram_band": [band_low, band_high],
+            "kurtogram_best_sk": best_sk,
+            "in_expected_band": in_band,
+            "rpm": rpm,
+        },
+    )
+
+
+# ---------------------------------------------------------------------------
 # Exports
 # ---------------------------------------------------------------------------
 
@@ -767,4 +971,8 @@ ALL_RULES = [
     rule_phev_battery_degradation,
     rule_combined_drivetrain_stress,
     rule_adaptive_damper_dead,
+    # S23 Session 4
+    rule_order_2x_imbalance_l4,
+    rule_order_05_misfire_diesel,
+    rule_knock_impulse_kurtogram_band,
 ]

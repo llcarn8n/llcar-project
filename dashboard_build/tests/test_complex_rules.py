@@ -24,6 +24,9 @@ from diagnostic.rules.complex_rules import (
     rule_audio_engine_harmonic,
     rule_warmup_anomaly,
     rule_speed_vibration_resonance,
+    rule_order_2x_imbalance_l4,
+    rule_order_05_misfire_diesel,
+    rule_knock_impulse_kurtogram_band,
     _confidence_to_status,
 )
 
@@ -479,6 +482,173 @@ class TestResultFormat:
 
     def test_all_rules_list_has_expected_entries(self):
         """ALL_RULES contains expected number of rule functions."""
-        assert len(ALL_RULES) == 8
+        # S23 Session 4: +3 order-based rules
+        assert len(ALL_RULES) == 11
         for fn in ALL_RULES:
             assert callable(fn)
+
+
+# ---------------------------------------------------------------------------
+# S23 Session 4: Order-based rules
+# ---------------------------------------------------------------------------
+
+def _make_order_baselines() -> BaselineStore:
+    """Baseline store с 40 образцами order_1x/2x на холостом ходу."""
+    store = BaselineStore()
+    random.seed(17)
+    for _ in range(40):
+        store.update("idle", {
+            "order_1x_amp": 0.3 + random.gauss(0, 0.05),
+            "order_2x_amp": 0.5 + random.gauss(0, 0.08),
+        })
+    return store
+
+
+class TestOrder2xImbalanceL4:
+    def test_ignores_non_l4(self):
+        pkt = _make_packet()
+        features = _make_features(
+            cylinder_count=6, order_2x_amp=1.5, order_1x_amp=0.3,
+        )
+        bl = _make_order_baselines()
+        assert rule_order_2x_imbalance_l4(features, pkt, bl, DrivingRegime.IDLE) is None
+
+    def test_fires_on_high_2x_with_normal_1x(self):
+        pkt = _make_packet()
+        # order_2x=1.5 против baseline mean≈0.5 σ≈0.08 ⇒ z≈12 >> 2.5
+        # order_1x=0.3 внутри baseline (mean=0.3 σ=0.05) ⇒ z≈0
+        features = _make_features(
+            cylinder_count=4, order_2x_amp=1.5, order_1x_amp=0.3,
+        )
+        bl = _make_order_baselines()
+        result = rule_order_2x_imbalance_l4(features, pkt, bl, DrivingRegime.IDLE)
+        assert result is not None
+        assert result["name"] == "order_2x_imbalance_l4"
+        assert result["shadow_mode"] is True
+        assert result["conditions_met"] == 3
+        assert result["confidence"] >= 70
+
+    def test_skips_if_general_imbalance(self):
+        pkt = _make_packet()
+        # 1× и 2× растут вместе ⇒ общая разбалансировка, НЕ Lanchester
+        features = _make_features(
+            cylinder_count=4, order_2x_amp=1.5, order_1x_amp=1.2,
+        )
+        bl = _make_order_baselines()
+        result = rule_order_2x_imbalance_l4(features, pkt, bl, DrivingRegime.IDLE)
+        # 2× z-score всё ещё > 2.5, но 1× тоже далеко от baseline
+        # ⇒ conditions_met=2 (не учитываем 3-е условие)
+        assert result is not None
+        assert result["conditions_met"] == 2
+
+    def test_none_if_baseline_too_small(self):
+        pkt = _make_packet()
+        features = _make_features(
+            cylinder_count=4, order_2x_amp=1.5, order_1x_amp=0.3,
+        )
+        bl = BaselineStore()  # пустой
+        assert rule_order_2x_imbalance_l4(features, pkt, bl, DrivingRegime.IDLE) is None
+
+
+class TestOrder05MisfireDiesel:
+    def test_ignores_non_diesel(self):
+        pkt = _make_packet(rpm=2000.0)
+        features = _make_features(
+            fuel_type="petrol", order_05_amp=0.5, order_2x_amp=1.0,
+        )
+        bl = BaselineStore()
+        assert rule_order_05_misfire_diesel(features, pkt, bl, DrivingRegime.CITY) is None
+
+    def test_fires_on_high_ratio(self):
+        pkt = _make_packet(rpm=2000.0)
+        # ratio = 0.4 / 1.0 = 0.4 > 0.3 ⇒ fires (45%)
+        features = _make_features(
+            fuel_type="diesel", order_05_amp=0.4, order_2x_amp=1.0,
+        )
+        bl = BaselineStore()
+        result = rule_order_05_misfire_diesel(features, pkt, bl, DrivingRegime.CITY)
+        assert result is not None
+        assert result["shadow_mode"] is True
+        assert result["confidence"] == 45.0
+        assert result["details"]["ratio_05_to_2x"] == 0.4
+
+    def test_higher_ratio_higher_confidence(self):
+        pkt = _make_packet(rpm=2000.0)
+        features = _make_features(
+            fuel_type="diesel", order_05_amp=1.0, order_2x_amp=1.0,
+        )
+        bl = BaselineStore()
+        result = rule_order_05_misfire_diesel(features, pkt, bl, DrivingRegime.CITY)
+        assert result["confidence"] == 75.0  # ratio=1.0 >= 0.8
+
+    def test_skips_below_threshold(self):
+        pkt = _make_packet(rpm=2000.0)
+        features = _make_features(
+            fuel_type="diesel", order_05_amp=0.1, order_2x_amp=1.0,
+        )
+        bl = BaselineStore()
+        assert rule_order_05_misfire_diesel(features, pkt, bl, DrivingRegime.CITY) is None
+
+    def test_skips_below_rpm_gate(self):
+        pkt = _make_packet(rpm=1000.0)
+        features = _make_features(
+            fuel_type="diesel", order_05_amp=0.5, order_2x_amp=1.0,
+        )
+        bl = BaselineStore()
+        assert rule_order_05_misfire_diesel(features, pkt, bl, DrivingRegime.IDLE) is None
+
+
+class TestKnockImpulseKurtogramBand:
+    def test_none_without_bore(self):
+        pkt = _make_packet(rpm=3000.0)
+        features = _make_features(
+            knock_expected_freq_from_bore=None,
+            kurtogram_best_sk=5.0,
+            kurtogram_best_band_low=5000,
+            kurtogram_best_band_high=10000,
+        )
+        bl = BaselineStore()
+        assert rule_knock_impulse_kurtogram_band(features, pkt, bl, DrivingRegime.HIGHWAY) is None
+
+    def test_fires_when_band_brackets_expected(self):
+        pkt = _make_packet(rpm=3000.0)
+        # BMW N20 B=86мм ⇒ expected 6814 Hz, попадает в [5000, 10000]
+        features = _make_features(
+            knock_expected_freq_from_bore=6814.0,
+            kurtogram_best_sk=5.0,
+            kurtogram_best_band_low=5000,
+            kurtogram_best_band_high=10000,
+        )
+        bl = BaselineStore()
+        result = rule_knock_impulse_kurtogram_band(features, pkt, bl, DrivingRegime.HIGHWAY)
+        assert result is not None
+        assert result["name"] == "knock_impulse_kurtogram_band"
+        assert result["shadow_mode"] is False  # production
+        assert result["details"]["in_expected_band"] is True
+        assert result["conditions_met"] == 4
+
+    def test_skips_when_band_off_expected(self):
+        pkt = _make_packet(rpm=3000.0)
+        # expected 6814 Hz, но band [0, 500] — не попадает
+        features = _make_features(
+            knock_expected_freq_from_bore=6814.0,
+            kurtogram_best_sk=5.0,
+            kurtogram_best_band_low=0,
+            kurtogram_best_band_high=500,
+        )
+        bl = BaselineStore()
+        result = rule_knock_impulse_kurtogram_band(features, pkt, bl, DrivingRegime.HIGHWAY)
+        # conditions_met = bore(1) + SK(1) + rpm(1) = 3, in_band=False
+        assert result is not None
+        assert result["details"]["in_expected_band"] is False
+
+    def test_skips_below_rpm_gate(self):
+        pkt = _make_packet(rpm=1500.0)
+        features = _make_features(
+            knock_expected_freq_from_bore=6814.0,
+            kurtogram_best_sk=5.0,
+            kurtogram_best_band_low=5000,
+            kurtogram_best_band_high=10000,
+        )
+        bl = BaselineStore()
+        assert rule_knock_impulse_kurtogram_band(features, pkt, bl, DrivingRegime.CITY) is None
