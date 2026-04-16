@@ -154,8 +154,10 @@ class TestJSONLoading:
         names = {r.name for r in engine.rules}
         expected = {
             "worn_suspension", "engine_overheating", "alternator_failure",
-            "wheel_imbalance", "exhaust_leak", "bearing_wear",
-            "engine_mount_wear", "fuel_lean", "fuel_rich",
+            "wheel_imbalance_speed_resonance", "wheel_imbalance_general",
+            "exhaust_leak", "bearing_wear", "wheel_bearing_bpfo_harmonic",
+            "engine_mount_harmonic_order", "engine_mount_wear_legacy",
+            "fuel_lean", "fuel_rich",
             "low_battery", "high_idle", "coolant_sensor",
             "oil_pressure_low", "catalyst_degradation", "misfire",
         }
