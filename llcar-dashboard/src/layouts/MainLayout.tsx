@@ -82,63 +82,78 @@ export function MainLayout({ children }: { children: ReactNode }) {
           })}
         </nav>
 
-        <div className="flex items-center gap-2 md:gap-4">
-          {/* Change vehicle button */}
+        <div className="flex items-end gap-5 self-end" style={{ marginBottom: -6 }}>
           {vehicleProfile && (
             <button
               onClick={() => { resetVehicle(); navigate('/') }}
               style={{
-                padding: '4px 10px',
-                fontFamily: 'var(--f-body)',
-                fontSize: 11,
-                fontWeight: 600,
-                color: 'var(--c-amber)',
-                background: 'var(--c-amber-bloom)',
-                border: '1px solid rgba(255,159,28,0.28)',
-                borderRadius: 4,
+                display: 'flex',
+                flexDirection: 'column',
+                alignItems: 'flex-start',
+                gap: 4,
+                padding: 0,
+                background: 'transparent',
+                border: 'none',
                 cursor: 'pointer',
-                letterSpacing: '0.14em',
-                textTransform: 'uppercase',
-                transition: 'all 0.3s',
                 whiteSpace: 'nowrap',
               }}
               title="Сменить автомобиль"
             >
-              {vehicleProfile.brand} {vehicleProfile.model} ✕
+              <span style={{
+                fontSize: 9,
+                fontFamily: 'var(--f-body)',
+                fontWeight: 600,
+                color: '#C8B48E',
+                textTransform: 'uppercase',
+                letterSpacing: '0.24em',
+                lineHeight: 1,
+                textShadow: '0 0 6px rgba(200,180,142,0.25)',
+              }}>АВТО ✕</span>
+              <span style={{
+                fontSize: 13,
+                fontFamily: 'var(--f-mono)',
+                fontWeight: 600,
+                color: 'var(--c-spectral)',
+                letterSpacing: '0.08em',
+                lineHeight: 1,
+              }}>
+                {vehicleProfile.brand} {vehicleProfile.model}
+              </span>
             </button>
           )}
-          {/* Connection status + vehicle badge — hidden on mobile */}
-          <div className="hidden md:flex items-center gap-3" style={{ opacity: 0.6 }}>
-            <div className="flex items-center gap-1.5">
-              <span
-                style={{
-                  width: 6,
-                  height: 6,
-                  borderRadius: '50%',
-                  backgroundColor: isOnline ? theme.status.ok : theme.text.muted,
-                  display: 'inline-block',
-                  boxShadow: isOnline ? `0 0 6px ${theme.status.ok}` : 'none',
-                  animation: isOnline ? 'pulse-dot 2s ease-in-out infinite' : 'none',
-                }}
-              />
-              <span style={{ fontSize: 10, color: theme.text.secondary, letterSpacing: '0.05em' }}>
-                {isOnline ? 'Онлайн' : 'Офлайн'}
-              </span>
-            </div>
+          <div className="hidden md:flex" style={{
+            flexDirection: 'column',
+            alignItems: 'flex-start',
+            gap: 4,
+          }}>
+            <span style={{
+              fontSize: 9,
+              fontFamily: 'var(--f-body)',
+              fontWeight: 600,
+              color: '#C8B48E',
+              textTransform: 'uppercase',
+              letterSpacing: '0.24em',
+              lineHeight: 1,
+              textShadow: '0 0 6px rgba(200,180,142,0.25)',
+            }}>КЛИЕНТ</span>
             <select
               value={clientHash}
               onChange={(e) => setClient(e.target.value)}
               style={{
-                fontSize: 10,
+                fontSize: 13,
                 fontFamily: 'var(--f-mono)',
-                color: 'var(--c-blue)',
-                backgroundColor: 'rgba(6,15,25,0.9)',
-                padding: '2px 6px',
-                borderRadius: 4,
+                fontWeight: 600,
+                color: 'var(--c-spectral)',
+                background: 'transparent',
+                border: 'none',
+                padding: 0,
                 letterSpacing: '0.08em',
-                border: '1px solid var(--border-frost)',
+                lineHeight: 1,
                 cursor: 'pointer',
                 outline: 'none',
+                appearance: 'none',
+                WebkitAppearance: 'none',
+                MozAppearance: 'none',
               }}
             >
               <option value="">Все клиенты</option>
@@ -149,7 +164,6 @@ export function MainLayout({ children }: { children: ReactNode }) {
               <option value="b79831a1b4c80fc7549998661e820bef">b79831</option>
             </select>
           </div>
-
         </div>
       </header>
 
