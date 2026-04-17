@@ -28,6 +28,7 @@ function CarBouncer({ activeSystem, groupRef }: {
   const suspRefLocal = useRef<THREE.Object3D | null>(null)
   const wheelPivots = useRef<Map<WheelCorner, THREE.Group>>(new Map())
   const pivotOrigY = useRef<Map<WheelCorner, number>>(new Map())
+  const pivotAxle = useRef<Map<WheelCorner, 'x' | 'y' | 'z'>>(new Map())
   const origY = useRef<Map<THREE.Object3D, number>>(new Map())
   const wheelRotation = useRef(0)
 
@@ -35,6 +36,7 @@ function CarBouncer({ activeSystem, groupRef }: {
     suspRefLocal.current = susp
     origY.current.clear()
     pivotOrigY.current.clear()
+    pivotAxle.current.clear()
     for (const pv of wheelPivots.current.values()) pv.parent?.remove(pv)
     wheelPivots.current.clear()
 
@@ -53,6 +55,14 @@ function CarBouncer({ activeSystem, groupRef }: {
       const box = new THREE.Box3()
       for (const m of pivotSources) box.expandByObject(m)
       const worldCenter = box.getCenter(new THREE.Vector3())
+      const size = box.getSize(new THREE.Vector3())
+
+      // Axle = thinnest bbox dimension (tire is a flat cylinder).
+      // Some rear wheels in the Blender export have axle along Z instead of X —
+      // detect per-wheel so spin doesn't tilt them.
+      const axle: 'x' | 'y' | 'z' =
+        size.x <= size.y && size.x <= size.z ? 'x'
+        : size.z <= size.y ? 'z' : 'y'
 
       const pivot = new THREE.Group()
       pivot.name = `wheelPivot_${corner}`
@@ -63,6 +73,7 @@ function CarBouncer({ activeSystem, groupRef }: {
 
       wheelPivots.current.set(corner, pivot)
       pivotOrigY.current.set(corner, pivot.position.y)
+      pivotAxle.current.set(corner, axle)
     }
     if (susp) origY.current.set(susp, susp.position.y)
   }, [groupRef])
@@ -82,7 +93,9 @@ function CarBouncer({ activeSystem, groupRef }: {
       const key = CORNER_KEY[corner]
       const oy = pivotOrigY.current.get(corner) ?? pivot.position.y
       pivot.position.y = oy + wheelBounceRef[key]
-      pivot.rotation.x = wheelRotation.current
+      const axle = pivotAxle.current.get(corner) ?? 'x'
+      pivot.rotation.set(0, 0, 0)
+      pivot.rotation[axle] = wheelRotation.current
     }
 
     const susp = suspRefLocal.current
