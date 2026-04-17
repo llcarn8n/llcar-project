@@ -156,26 +156,11 @@ export function Diagnostics() {
     return Math.max(0, Math.min(100, Math.round(raw)))
   }
 
-  const systemsMap = useMemo(() => {
-    const scoreOr = (k: SystemKey) => getScore(k) ?? 100
-    return {
-      suspension: { score: scoreOr('suspension'), severity: 1 - scoreOr('suspension') / 100 },
-      engine:     { score: scoreOr('engine'),     severity: 1 - scoreOr('engine') / 100 },
-      electrical: { score: scoreOr('electrical'), severity: 1 - scoreOr('electrical') / 100 },
-      audio:      { score: scoreOr('audio'),      severity: 1 - scoreOr('audio') / 100 },
-    }
-  // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [useV2Api, v2Report, systems])
-
   const overallScoreRaw = useV2Api && v2Report ? v2Report.health_scores.overall : (anomaly?.overall_score ?? 0)
   const overallScore = typeof overallScoreRaw === 'number' && Number.isFinite(overallScoreRaw) && overallScoreRaw >= 0
     ? Math.max(0, Math.min(100, Math.round(overallScoreRaw)))
     : 0
   const statusLabel = statusFromScore(overallScore)
-
-  const handleHotspotClick = (system: string) => {
-    setActiveSystem(prev => prev === system ? null : (system as SystemKey))
-  }
 
   const PanelFull = (
     <NebulaPanel coolHalo="bl" warmHalo="tr" style={{ position: 'relative', overflow: 'hidden', height: 'calc(100vh - 96px)', borderRadius: 0, minHeight: 560 }}>
@@ -186,9 +171,7 @@ export function Diagnostics() {
         </div>
       }>
         <DiagnosticTwinCanvas
-          systems={systemsMap}
           activeSystem={activeSystem}
-          onHotspotClick={handleHotspotClick}
           accelData={accelData.length > 0 ? accelData[accelData.length - 1] : null}
         />
       </Suspense>

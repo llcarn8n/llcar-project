@@ -4,32 +4,12 @@ import { Canvas, useFrame } from '@react-three/fiber'
 import { EffectComposer, Bloom, Vignette } from '@react-three/postprocessing'
 import { SceneSetup } from './SceneSetup'
 import { CarWireframe, type WheelRefs, type WheelCorner } from './CarWireframe'
-import { Hotspot } from './Hotspot'
 import { AccelWaves, type AccelSample, type WheelBounce } from './AccelWaves'
 
-interface SystemInfo {
-  score: number
-  severity: number
-}
-
 interface DiagnosticTwinCanvasProps {
-  systems: {
-    suspension: SystemInfo
-    engine: SystemInfo
-    electrical: SystemInfo
-    audio: SystemInfo
-  }
   activeSystem: string | null
-  onHotspotClick: (system: string) => void
   accelData?: AccelSample | null
 }
-
-const HOTSPOTS: { key: string; label: string; position: [number, number, number]; color: string }[] = [
-  { key: 'engine',     label: 'Двигатель', position: [0, 0.5, 1.8],     color: '#FF9F1C' },  // amber — primary diagnostic accent
-  { key: 'suspension', label: 'Подвеска',  position: [0, -0.4, 0.5],    color: '#3b9eff' },  // blue — data/telemetry
-  { key: 'electrical', label: 'Электрика', position: [0.7, 0.9, 1.5],   color: '#a78bfa' },  // violet — kept for semantic distinction
-  { key: 'audio',      label: 'Аудио',     position: [-1.2, 0.6, 1.3],  color: '#f97316' },  // orange — NVH audio domain
-]
 
 // Shared bounce ref — written by AccelWaves, read by CarBouncer
 const bounceRef = { y: 0, roll: 0, pitch: 0 }
@@ -142,7 +122,7 @@ function HorizonBloom() {
 }
 
 function SceneContent({
-  systems, activeSystem, onHotspotClick, accelData,
+  activeSystem, accelData,
 }: DiagnosticTwinCanvasProps) {
   const carGroupRef = useRef<THREE.Group>(null)
 
@@ -166,21 +146,6 @@ function SceneContent({
         visible={true}
         onBounce={handleBounce}
       />
-      {HOTSPOTS.map(hs => {
-        const sys = systems[hs.key as keyof typeof systems]
-        return (
-          <Hotspot
-            key={hs.key}
-            position={hs.position}
-            label={hs.label}
-            value={`${sys.score}`}
-            severity={sys.severity}
-            color={hs.color}
-            active={activeSystem === hs.key}
-            onClick={() => onHotspotClick(hs.key)}
-          />
-        )
-      })}
     </>
   )
 }
