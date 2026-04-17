@@ -66,8 +66,12 @@ function CarBouncer({ activeSystem, groupRef }: {
       const meshes = refs[corner]
       if (meshes.length === 0) continue
 
+      // Pivot = center of TIRE only (шина is symmetric around axle).
+      // Using full bbox pulls pivot below axle (brake/caliper) → wheel swings below ground.
+      const tires = meshes.filter(m => (m.name ?? '').toLowerCase().includes('шина'))
+      const pivotSources = tires.length > 0 ? tires : meshes
       const box = new THREE.Box3()
-      for (const m of meshes) box.expandByObject(m)
+      for (const m of pivotSources) box.expandByObject(m)
       const worldCenter = box.getCenter(new THREE.Vector3())
 
       const pivot = new THREE.Group()
