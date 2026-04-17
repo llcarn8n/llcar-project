@@ -24,15 +24,6 @@ interface AccelWavesProps {
 
 const SCROLL_SPEED = 0.5
 const LOOP_LENGTH = 36
-const MAX_WAVE_HEIGHT = 0.2
-
-const WAVE_COLOR = 0x00e5ff
-
-// Axle wave strips (front and rear, full width)
-const AXLES: { name: string; pos: [number, number, number] }[] = [
-  { name: 'front', pos: [0, -0.52, 1.2] },
-  { name: 'rear',  pos: [0, -0.52, -1.2] },
-]
 
 // All vibration types
 type ObsType = 'pothole_l' | 'pothole_r' | 'bump' | 'rut' | 'brake' | 'joint'
@@ -51,17 +42,17 @@ const OBSTACLES: { type: ObsType; baseZ: number; x: number; label: string; sub: 
 
 function RoadStrip() {
   const roadMaterial = useMemo(() => new THREE.MeshBasicMaterial({
-    color: '#0a1525',
+    color: '#26203A',
     transparent: true,
-    opacity: 0.6,
+    opacity: 0.82,
     side: THREE.DoubleSide,
     depthWrite: false,
   }), [])
 
   const lineMaterial = useMemo(() => new THREE.MeshBasicMaterial({
-    color: '#f0f0fa',
+    color: '#EFF2F7',
     transparent: true,
-    opacity: 0.14,
+    opacity: 0.22,
     side: THREE.DoubleSide,
     depthWrite: false,
   }), [])
@@ -92,150 +83,153 @@ function RoadStrip() {
   )
 }
 
-// ── Obstacle mesh ──
+// ── Obstacle mesh — real 3D geometry with Y-displacement ──
+// Потхолы = реальная впадина (dark floor ниже дороги + torus rim),
+// bumps = реальная выпуклость (half-dome выше дороги),
+// joints = поперечный ridge (тонкий box над дорогой).
+// Родительский group помещает obstacle в y=-0.52 (road surface), поэтому
+// локальный Y=0 = плоскость дороги, -Y = провал, +Y = выпуклость.
+
+const VOID_CENTER = '#0A0A16'    // дно ямы — тёмный провал
+const BUMP_MID    = '#3A2D52'    // тело бугра — nebula graphite
+const RIM_COLOR   = '#EFF2F7'    // spectral край — яркий контур
 
 function ObstacleMesh({ type }: { type: ObsType }) {
-  const geo = useMemo(() => {
-    if (type === 'pothole_l' || type === 'pothole_r') {
-      const g = new THREE.SphereGeometry(0.3, 16, 8, 0, Math.PI * 2, 0, Math.PI / 2)
-      g.scale(1, -0.4, 1.2)
-      return g
-    }
-    if (type === 'bump') {
-      const g = new THREE.SphereGeometry(0.2, 16, 8, 0, Math.PI * 2, 0, Math.PI / 2)
-      g.scale(2.5, 0.35, 0.6)
-      return g
-    }
-    if (type === 'brake') {
-      // Skid marks — long gradient planes
-      const g = new THREE.PlaneGeometry(0.1, 2.5, 1, 10)
-      g.rotateX(-Math.PI / 2)
-      // Gradient opacity via vertex colors: fade in from front to back
-      const colors = new Float32Array(g.attributes.position.count * 3)
-      for (let i = 0; i < g.attributes.position.count; i++) {
-        const z = g.attributes.position.getZ(i)
-        const fade = THREE.MathUtils.clamp((z + 1.25) / 2.5, 0, 1) // 0 at front → 1 at back
-        colors[i * 3] = fade * 0.8     // R
-        colors[i * 3 + 1] = fade * 0.1 // G
-        colors[i * 3 + 2] = fade * 0.1 // B
-      }
-      g.setAttribute('color', new THREE.BufferAttribute(colors, 3))
-      return g
-    }
-    if (type === 'joint') {
-      // Road joint — thin line across road
-      const g = new THREE.BoxGeometry(2.2, 0.06, 0.06)
-      return g
-    }
-    // rut
-    const g = new THREE.CylinderGeometry(0.08, 0.12, 2.0, 8, 1, true)
-    g.rotateZ(Math.PI / 2)
-    return g
-  }, [type])
-
-  // Colors matching VIBRATION_LEGEND in Diagnostics.tsx: Яма blue, Бугор green, Торможение red, Колея amber, Стык violet
-  const color = (type === 'pothole_l' || type === 'pothole_r') ? '#3b9eff'
-    : type === 'bump' ? '#4ade80'
-    : type === 'brake' ? '#ff4444'
-    : type === 'rut' ? '#f59e0b'
-    : type === 'joint' ? '#a78bfa'
-    : '#3b9eff'
-
-  if (type === 'brake') {
+  if (type === 'pothole_l' || type === 'pothole_r') {
+    // Яма: дно 4см ниже дороги + скошенные стенки (cone open) + spectral rim
     return (
-      <>
-        {/* Left skid mark */}
-        <mesh geometry={geo} position={[-0.25, 0.002, 0]}>
-          <meshBasicMaterial color="#ff4444" transparent opacity={0.25} vertexColors side={THREE.DoubleSide} blending={THREE.AdditiveBlending} depthWrite={false} />
+      <group>
+        {/* Дно ямы — тёмный диск на Y=-0.045 (ниже дороги) */}
+        <mesh position={[0, -0.045, 0]} rotation={[-Math.PI / 2, 0, 0]} scale={[1.2, 0.8, 1]}>
+          <circleGeometry args={[0.30, 40]} />
+          <meshStandardMaterial color={VOID_CENTER} roughness={0.98} metalness={0.0} />
         </mesh>
-        {/* Right skid mark */}
-        <mesh geometry={geo} position={[0.25, 0.002, 0]}>
-          <meshBasicMaterial color="#ff4444" transparent opacity={0.25} vertexColors side={THREE.DoubleSide} blending={THREE.AdditiveBlending} depthWrite={false} />
+        {/* Скошенные стенки ямы: открытый конус, шире снизу не нужен — уже перевёрнут */}
+        <mesh position={[0, -0.02, 0]} scale={[1.2, 1, 0.8]}>
+          <cylinderGeometry args={[0.34, 0.30, 0.045, 40, 1, true]} />
+          <meshStandardMaterial color="#14102A" roughness={0.9} metalness={0.1} side={THREE.DoubleSide} />
         </mesh>
-        {/* Red glow zone */}
-        <mesh rotation={[-Math.PI / 2, 0, 0]} position={[0, 0.003, 0]}>
-          <circleGeometry args={[0.6, 16]} />
-          <meshBasicMaterial color="#ff2200" transparent opacity={0.06} blending={THREE.AdditiveBlending} depthWrite={false} />
+        {/* Яркий spectral rim — TorusGeometry на road level */}
+        <mesh position={[0, 0.004, 0]} rotation={[-Math.PI / 2, 0, 0]} scale={[1.2, 0.8, 1]}>
+          <torusGeometry args={[0.34, 0.012, 8, 48]} />
+          <meshBasicMaterial color={RIM_COLOR} transparent opacity={0.9} />
         </mesh>
-        {/* Smoke particles */}
-      </>
+        {/* Мягкий outer halo */}
+        <mesh position={[0, 0.002, 0]} rotation={[-Math.PI / 2, 0, 0]} scale={[1.2, 0.8, 1]}>
+          <ringGeometry args={[0.36, 0.48, 40]} />
+          <meshBasicMaterial color={RIM_COLOR} transparent opacity={0.08} blending={THREE.AdditiveBlending} side={THREE.DoubleSide} depthWrite={false} />
+        </mesh>
+      </group>
     )
   }
 
+  if (type === 'bump') {
+    // Лежачий полицейский: реальный half-dome, вытянутый поперёк дороги (по X),
+    // приподнят на 0.08 над road. Spectral rim по периметру основания.
+    return (
+      <group>
+        {/* Основной купол — half-sphere scaled flat + elongated */}
+        <mesh position={[0, 0, 0]} scale={[1.6, 0.45, 0.6]}>
+          <sphereGeometry args={[0.38, 40, 20, 0, Math.PI * 2, 0, Math.PI / 2]} />
+          <meshStandardMaterial color={BUMP_MID} roughness={0.55} metalness={0.35} />
+        </mesh>
+        {/* Spectral highlight по rim купола */}
+        <mesh position={[0, 0.005, 0]} rotation={[-Math.PI / 2, 0, 0]} scale={[1.6, 0.6, 1]}>
+          <torusGeometry args={[0.38, 0.010, 8, 48]} />
+          <meshBasicMaterial color={RIM_COLOR} transparent opacity={0.85} />
+        </mesh>
+        {/* Тонкая spectral полоса сверху купола — hi-contrast */}
+        <mesh position={[0, 0.175, 0]} scale={[1.4, 1, 1]}>
+          <boxGeometry args={[0.45, 0.004, 0.08]} />
+          <meshBasicMaterial color={RIM_COLOR} transparent opacity={0.6} />
+        </mesh>
+      </group>
+    )
+  }
+
+  if (type === 'joint') {
+    // Стык дороги: тонкий поперечный ridge — раскалённый шов
+    return (
+      <group>
+        <mesh position={[0, 0.01, 0]}>
+          <boxGeometry args={[2.4, 0.018, 0.05]} />
+          <meshStandardMaterial color="#2A2540" roughness={0.7} metalness={0.5} />
+        </mesh>
+        {/* Spectral highlight по верхнему ребру */}
+        <mesh position={[0, 0.020, 0]}>
+          <boxGeometry args={[2.4, 0.003, 0.06]} />
+          <meshBasicMaterial color={RIM_COLOR} transparent opacity={0.85} />
+        </mesh>
+      </group>
+    )
+  }
+
+  if (type === 'brake') {
+    // Зона торможения: широкая тень + два tire-mark'а (занижены в дорогу на 1мм)
+    return (
+      <group>
+        {/* Pulse zone ореол */}
+        <mesh position={[0, 0.002, 0]} rotation={[-Math.PI / 2, 0, 0]}>
+          <circleGeometry args={[0.65, 32]} />
+          <meshBasicMaterial color={RIM_COLOR} transparent opacity={0.05} blending={THREE.AdditiveBlending} depthWrite={false} />
+        </mesh>
+        {/* Left tire mark — шина смялась, тёмный след */}
+        <mesh position={[-0.28, 0.003, 0]} rotation={[-Math.PI / 2, 0, 0]} renderOrder={3}>
+          <planeGeometry args={[0.10, 2.0]} />
+          <meshBasicMaterial color={VOID_CENTER} transparent opacity={0.78} depthWrite={false} />
+        </mesh>
+        {/* Right tire mark */}
+        <mesh position={[0.28, 0.003, 0]} rotation={[-Math.PI / 2, 0, 0]} renderOrder={3}>
+          <planeGeometry args={[0.10, 2.0]} />
+          <meshBasicMaterial color={VOID_CENTER} transparent opacity={0.78} depthWrite={false} />
+        </mesh>
+        {/* Spectral hairline по краям следов */}
+        <mesh position={[-0.28, 0.004, 0]} rotation={[-Math.PI / 2, 0, 0]}>
+          <ringGeometry args={[0, 0, 1]} />
+        </mesh>
+      </group>
+    )
+  }
+
+  // rut = реальная колея: две продольные впадины (2см ниже дороги)
   return (
-    <>
-      <mesh geometry={geo}>
-        <meshBasicMaterial color={color} transparent opacity={0.2} side={THREE.DoubleSide} blending={THREE.AdditiveBlending} depthWrite={false} wireframe />
+    <group>
+      {/* Левая колея — dark floor depression */}
+      <mesh position={[-0.38, -0.020, 0]} rotation={[-Math.PI / 2, 0, 0]}>
+        <planeGeometry args={[0.12, 1.8]} />
+        <meshStandardMaterial color={VOID_CENTER} roughness={0.95} metalness={0.05} />
       </mesh>
-      <mesh geometry={geo}>
-        <meshBasicMaterial color={color} transparent opacity={0.08} side={THREE.DoubleSide} blending={THREE.AdditiveBlending} depthWrite={false} />
+      {/* Правая колея */}
+      <mesh position={[0.38, -0.020, 0]} rotation={[-Math.PI / 2, 0, 0]}>
+        <planeGeometry args={[0.12, 1.8]} />
+        <meshStandardMaterial color={VOID_CENTER} roughness={0.95} metalness={0.05} />
       </mesh>
-    </>
+      {/* Скошенные стенки каждой колеи (тонкие боковые walls) */}
+      <mesh position={[-0.315, -0.010, 0]}>
+        <boxGeometry args={[0.008, 0.020, 1.8]} />
+        <meshBasicMaterial color={RIM_COLOR} transparent opacity={0.40} />
+      </mesh>
+      <mesh position={[-0.445, -0.010, 0]}>
+        <boxGeometry args={[0.008, 0.020, 1.8]} />
+        <meshBasicMaterial color={RIM_COLOR} transparent opacity={0.40} />
+      </mesh>
+      <mesh position={[0.315, -0.010, 0]}>
+        <boxGeometry args={[0.008, 0.020, 1.8]} />
+        <meshBasicMaterial color={RIM_COLOR} transparent opacity={0.40} />
+      </mesh>
+      <mesh position={[0.445, -0.010, 0]}>
+        <boxGeometry args={[0.008, 0.020, 1.8]} />
+        <meshBasicMaterial color={RIM_COLOR} transparent opacity={0.40} />
+      </mesh>
+    </group>
   )
 }
 
-
-// ── Wheel wave plane ──
-
-function AxleWave({ pos, axleRef }: {
-  pos: [number, number, number]
-  axleRef: React.MutableRefObject<THREE.Mesh | null>
-}) {
-  const geo = useMemo(() => {
-    // Full-width strip under axle (wider than car, short depth)
-    const g = new THREE.PlaneGeometry(2.2, 0.8, 20, 8)
-    g.rotateX(-Math.PI / 2)
-    g.userData.origPositions = new Float32Array(g.attributes.position.array)
-    return g
-  }, [])
-
-  const waveMaterial = useMemo(() => new THREE.MeshBasicMaterial({
-    color: WAVE_COLOR,
-    transparent: true,
-    opacity: 0.4,
-    side: THREE.DoubleSide,
-    blending: THREE.AdditiveBlending,
-    depthWrite: false,
-  }), [])
-
-  useEffect(() => { return () => { waveMaterial.dispose() } }, [waveMaterial])
-
-  return <mesh ref={axleRef} position={pos} geometry={geo} material={waveMaterial} />
-}
-
-// ── Z-wave plane ──
-
-function ZWave({ waveRef }: { waveRef: React.MutableRefObject<THREE.Mesh | null> }) {
-  const geo = useMemo(() => {
-    const g = new THREE.PlaneGeometry(2.5, 4.0, 32, 40)
-    g.rotateX(-Math.PI / 2)
-    g.userData.origPositions = new Float32Array(g.attributes.position.array)
-    return g
-  }, [])
-
-  const zWaveMaterial = useMemo(() => new THREE.MeshBasicMaterial({
-    color: WAVE_COLOR,
-    transparent: true,
-    opacity: 0.25,
-    side: THREE.DoubleSide,
-    blending: THREE.AdditiveBlending,
-    depthWrite: false,
-  }), [])
-
-  useEffect(() => { return () => { zWaveMaterial.dispose() } }, [zWaveMaterial])
-
-  return <mesh ref={waveRef} position={[0, -0.53, 0]} geometry={geo} material={zWaveMaterial} />
-}
 
 // ── Main component ──
 
 export function AccelWaves({ accelData, visible = true, onBounce }: AccelWavesProps) {
   void accelData // reserved for real data integration
-  const axleRefs = [
-    useRef<THREE.Mesh>(null), // front
-    useRef<THREE.Mesh>(null), // rear
-  ]
-  const zWaveRef = useRef<THREE.Mesh>(null)
   const obstacleRefs = useRef<THREE.Group[]>([])
   const currentBounce = useRef({ y: 0, roll: 0, pitch: 0 })
   const currentWheels = useRef<WheelBounce>({ fl: 0, fr: 0, rl: 0, rr: 0 })
@@ -293,48 +287,42 @@ export function AccelWaves({ accelData, visible = true, onBounce }: AccelWavesPr
 
         if (obs.type === 'pothole_l') {
           const damped = anyHit * Math.exp(-anyHit * 0.5)
-          targetBounceY -= 0.12 * damped
-          targetBounceRoll += 0.07 * anyHit
-          targetPitch += 0.05 * pitchPhase
-          // Left wheels drop hard, right barely affected
-          wFL -= 0.18 * frontHit; wRL -= 0.18 * rearHit
-          wFR -= 0.03 * frontHit; wRR -= 0.03 * rearHit
+          targetBounceY -= 0.05 * damped
+          targetBounceRoll += 0.04 * anyHit
+          targetPitch += 0.025 * pitchPhase
+          // Wheel drops into hole (clips visually with road)
+          wFL -= 0.07 * frontHit; wRL -= 0.07 * rearHit
+          wFR -= 0.015 * frontHit; wRR -= 0.015 * rearHit
         } else if (obs.type === 'pothole_r') {
           const damped = anyHit * Math.exp(-anyHit * 0.5)
-          targetBounceY -= 0.12 * damped
-          targetBounceRoll -= 0.07 * anyHit
-          targetPitch += 0.05 * pitchPhase
-          // Right wheels drop hard, left barely affected
-          wFR -= 0.18 * frontHit; wRR -= 0.18 * rearHit
-          wFL -= 0.03 * frontHit; wRL -= 0.03 * rearHit
+          targetBounceY -= 0.05 * damped
+          targetBounceRoll -= 0.04 * anyHit
+          targetPitch += 0.025 * pitchPhase
+          wFR -= 0.07 * frontHit; wRR -= 0.07 * rearHit
+          wFL -= 0.015 * frontHit; wRL -= 0.015 * rearHit
         } else if (obs.type === 'bump') {
           const smooth = Math.sin(anyHit * Math.PI)
-          targetBounceY += 0.10 * smooth
-          targetPitch -= 0.06 * pitchPhase
-          // All wheels rise simultaneously
-          wFL += 0.14 * frontHit; wFR += 0.14 * frontHit
-          wRL += 0.14 * rearHit; wRR += 0.14 * rearHit
+          targetBounceY += 0.05 * smooth
+          targetPitch -= 0.03 * pitchPhase
+          wFL += 0.06 * frontHit; wFR += 0.06 * frontHit
+          wRL += 0.06 * rearHit; wRR += 0.06 * rearHit
         } else if (obs.type === 'rut') {
-          targetBounceRoll += 0.07 * anyHit * Math.sin(t * 6)
-          targetBounceY -= 0.02 * anyHit
-          // Left/right alternate
-          const lat = Math.sin(t * 6) * anyHit * 0.1
+          targetBounceRoll += 0.035 * anyHit * Math.sin(t * 6)
+          targetBounceY -= 0.008 * anyHit
+          const lat = Math.sin(t * 6) * anyHit * 0.04
           wFL -= lat * frontHit; wFR += lat * frontHit
           wRL -= lat * rearHit; wRR += lat * rearHit
         } else if (obs.type === 'brake') {
+          // Physically correct: body dives, front suspension compresses (wheels stay).
           const brakeRamp = 1 - Math.exp(-anyHit * 3)
-          targetPitch += 0.05 * brakeRamp  // subtle nose dive
-          targetBounceY -= 0.02 * brakeRamp
-          // Front compressed, rear unloaded
-          wFL -= 0.12 * brakeRamp; wFR -= 0.12 * brakeRamp
-          wRL += 0.06 * brakeRamp; wRR += 0.06 * brakeRamp
+          targetPitch += 0.025 * brakeRamp
+          targetBounceY -= 0.012 * brakeRamp
         } else if (obs.type === 'joint') {
           const impulse = anyHit * anyHit
-          targetBounceY += 0.08 * impulse
-          targetPitch -= 0.03 * pitchPhase
-          // All wheels spike equally
-          wFL += 0.12 * frontHit; wFR += 0.12 * frontHit
-          wRL += 0.12 * rearHit; wRR += 0.12 * rearHit
+          targetBounceY += 0.035 * impulse
+          targetPitch -= 0.015 * pitchPhase
+          wFL += 0.05 * frontHit; wFR += 0.05 * frontHit
+          wRL += 0.05 * rearHit; wRR += 0.05 * rearHit
         }
       }
     })
@@ -360,109 +348,21 @@ export function AccelWaves({ accelData, visible = true, onBounce }: AccelWavesPr
       { ...cw },
     )
 
-    // ── Waves: road roughness baseline + amplified on impact ──
-    // Z-wave (ground carpet): roughness + deformation AT each obstacle position
-    const zMesh = zWaveRef.current
-    if (zMesh) {
-      const zGeo = zMesh.geometry
-      const zPos = zGeo.attributes.position.array as Float32Array
-      const zOrig = zGeo.userData.origPositions as Float32Array
-
-      // Collect obstacle positions for carpet deformation
-      const obsPositions: { z: number; x: number; strength: number; type: ObsType }[] = []
-      OBSTACLES.forEach((obs, i) => {
-        const group = obstacleRefs.current[i]
-        if (!group) return
-        obsPositions.push({ z: group.position.z, x: obs.x, strength: 1, type: obs.type })
-      })
-
-      for (let j = 0; j < zPos.length; j += 3) {
-        const vx = zOrig[j], vz = zOrig[j + 2]
-
-        // Road roughness baseline — always alive, multiple harmonics
-        const scroll = roadOffset.current * 3 // tie to road movement
-        let h = 0.025 * Math.sin(vx * 4 + scroll * 1.2 + t * 0.8)         // slow lateral wave
-             + 0.020 * Math.sin(vz * 6 + scroll * 2.0 + t * 1.5)          // faster longitudinal ripple
-             + 0.012 * Math.sin(vx * 9 + vz * 7 + t * 2.0)               // fine grain texture
-             + 0.008 * Math.sin((vx + vz) * 12 + t * 3.0) * Math.cos(vx * 3 - t * 0.5) // shimmer
-
-        // Add deformation centered on EACH obstacle's current position
-        for (const obs of obsPositions) {
-          const dx = vx - obs.x
-          const dz = vz - obs.z
-          const dist = Math.sqrt(dx * dx + dz * dz)
-
-          if (dist < 2.5) {
-            const falloff = Math.exp(-dist * 1.5)
-            if (obs.type === 'pothole_l' || obs.type === 'pothole_r') {
-              h -= 0.12 * falloff  // deep dip
-            } else if (obs.type === 'bump') {
-              h += 0.10 * falloff  // strong rise
-            } else if (obs.type === 'rut') {
-              h -= 0.06 * falloff * Math.sin(dx * 8)  // deep grooves
-            } else if (obs.type === 'brake') {
-              h -= 0.04 * falloff  // weight transfer dip
-            } else if (obs.type === 'joint') {
-              h += 0.08 * falloff * (dist < 0.4 ? 1 : 0)  // sharp ridge
-            }
-          }
-        }
-
-        zPos[j + 1] = h
-      }
-      ;(zMesh.material as THREE.MeshBasicMaterial).opacity = 0.3
-      zGeo.attributes.position.needsUpdate = true
-    }
-
-    // Axle waves: concentric circles under wheels, stronger on hit
-    AXLES.forEach((_axle, i) => {
-      const mesh = axleRefs[i].current
-      if (!mesh) return
-      const geo = mesh.geometry
-      const posArr = geo.attributes.position.array as Float32Array
-      const origArr = geo.userData.origPositions as Float32Array
-
-      const axleImpact = i === 0
-        ? Math.abs(currentBounce.current.y) + Math.abs(currentBounce.current.pitch)
-        : Math.abs(currentBounce.current.y) + Math.abs(currentBounce.current.pitch) * 0.7
-
-      // Visible circles under wheels + amplified on hit
-      const baseAmp = 0.025
-      const hitAmp = Math.min(axleImpact * 1.5, MAX_WAVE_HEIGHT)
-
-      for (let j = 0; j < posArr.length; j += 3) {
-        const ox = origArr[j], oz = origArr[j + 2]
-        const dist = Math.sqrt(ox ** 2 + oz ** 2)
-        const damping = Math.exp(-dist * 2.5)
-        // Baseline: gentle concentric rings (slow pulse)
-        const base = baseAmp * damping * Math.sin(dist * 12 + t * 0.5)
-        // Hit: frozen concentric deformation
-        const hit = hitAmp * damping * Math.sin(dist * 10)
-        posArr[j + 1] = base + hit
-      }
-      ;(mesh.material as THREE.MeshBasicMaterial).opacity = 0.25 + Math.min(axleImpact * 4, 0.45)
-      geo.attributes.position.needsUpdate = true
-    })
   })
 
   if (!visible) return null
 
+  // Nebula HUD: road + obstacles в monochrome spectral (без cyan waves / red skids).
+  // Z-wave carpet и axle-ring cyan waves удалены — они ломали палитру.
+  // Physic onBounce продолжает работать от obstacle-positions в useFrame.
   return (
     <group>
       <RoadStrip />
-
-      {/* Scrolling obstacles */}
       {OBSTACLES.map((obs, i) => (
         <group key={obs.type + i} ref={setObstacleRef(i)} position={[obs.x, -0.52, obs.baseZ]}>
           <ObstacleMesh type={obs.type} />
         </group>
       ))}
-
-      {/* Axle wave strips (front + rear) */}
-      {AXLES.map((a, i) => (
-        <AxleWave key={a.name} pos={a.pos} axleRef={axleRefs[i]} />
-      ))}
-      <ZWave waveRef={zWaveRef} />
     </group>
   )
 }
