@@ -7,6 +7,8 @@ export type MaterialCategory =
   | 'body'
   | 'chrome'
   | 'tire'
+  | 'rim'
+  | 'brake'
   | 'interior'
   | 'engine'
   | 'light'
@@ -29,11 +31,17 @@ export function classifyMaterial(name: string): MaterialCategory {
   // Chrome: Li7_chrome, Li7_chromegidro
   if (n.includes('chrome')) return 'chrome'
 
+  // Brake discs/calipers
+  if (n.includes('brake') || n.includes('тормоз') || n.includes('tormoz')) return 'brake'
+
   // Engine: etk800 (29 uses), sbr_emotor, Li7_engine, Li7_EV
   if (n.includes('etk800') || n.includes('emotor') || n === 'li7_engine' || n === 'li7_ev') return 'engine'
 
-  // Tires + wheels/rims/disks
-  if (n.includes('tire') || n.includes('rezink') || n.includes('disk') || n.includes('wheel') || n.includes('koleso') || n.includes('колесо') || n.includes('rim')) return 'tire'
+  // Rubber tires → black
+  if (n.includes('tire') || n.includes('rezink') || n.includes('шина')) return 'tire'
+
+  // Rims/disks → dark grey
+  if (n.includes('disk') || n.includes('wheel') || n.includes('koleso') || n.includes('колесо') || n.includes('rim')) return 'rim'
 
   // Interior: koja (leather), sidenie (seats), torpedka (dashboard), potolok (ceiling)
   if (n.includes('koja') || n.includes('sidenie') || n.includes('torpedka') ||
@@ -85,10 +93,14 @@ export function classifyByNode(nodeName: string): MaterialCategory | null {
       n.includes('четвертные') || n.includes('лючок') || n.includes('рамка_номера') ||
       n.includes('молдинг') || n.includes('накладка')) return 'body'
 
-  // Wheels (tires, rims, disks, brakes — все колёсные части → tire)
-  if (n.includes('колесо') || n.includes('колёсо') || n.includes('диск') ||
-      n.includes('шина') || n.includes('тормоз') || n.includes('brake') ||
-      n.includes('суппорт') || n.includes('каллипер')) return 'tire'
+  // Brakes — gold
+  if (n.includes('тормоз') || n.includes('brake') || n.includes('суппорт') || n.includes('каллипер')) return 'brake'
+
+  // Rubber tires — black
+  if (n.includes('шина')) return 'tire'
+
+  // Rims/disks — dark grey
+  if (n.includes('колесо') || n.includes('колёсо') || n.includes('диск')) return 'rim'
 
   // Mirrors (housing = body)
   if (n.includes('зеркало') && !n.includes('зеркальный')) return 'body'
@@ -111,6 +123,8 @@ export const CATEGORY_SYSTEM_MAP: Record<MaterialCategory, DiagSystem> = {
   body: null,
   chrome: null,
   tire: 'suspension',
+  rim: 'suspension',
+  brake: 'suspension',
   interior: 'audio',
   engine: 'engine',
   light: 'electrical',
@@ -139,10 +153,13 @@ interface MatDef {
 // Никаких wireframe, никаких indigo/amber primary fill.
 // Severity/accent приходит через glow-halo, не через material color.
 const SPECTRAL = '#EFF2F7'
-// Cherry metallic body + factory clearcoat + beige interior. Wheels → original tire (#0a1220 + blue glow).
+// Cherry metallic body + factory clearcoat + black tires + dark rims + gold brakes + beige interior.
 const GRAPHITE = '#7C1830'          // body paint — deep cherry (вишнёвый)
 const BODY_SHADOW = '#4A0E1A'       // emissive tint in shadow for metallic depth
-const BLUE = '#3b9eff'              // telemetry/tire emissive glow
+const TIRE_BLACK = '#1A1A1E'        // rubber tires — dark grey/black, no emissive
+const RIM_GREY = '#3A3A44'          // rims/disks — dark grey
+const BRAKE_GOLD = '#D4A54A'        // brake discs/calipers — Brembo-style gold
+const BRAKE_GOLD_DEEP = '#7A5F1F'
 const INTERIOR_BEIGE = '#DFCFAD'    // salon — light warm beige
 const CRITICAL = '#FF4A4A'
 
@@ -178,13 +195,31 @@ const BASE_DEFS: Record<MaterialCategory, MatDef> = {
     roughness: 0.15,
   },
   tire: {
-    color: '#0a1220',
+    color: TIRE_BLACK,
     wireframe: false,
-    opacity: 0.85,
-    emissive: BLUE,
-    emissiveIntensity: 0.08,
+    opacity: 1.0,
+    emissive: '#000000',
+    emissiveIntensity: 0.0,
     metalness: 0.0,
-    roughness: 0.9,
+    roughness: 0.95,
+  },
+  rim: {
+    color: RIM_GREY,
+    wireframe: false,
+    opacity: 1.0,
+    emissive: '#000000',
+    emissiveIntensity: 0.0,
+    metalness: 0.75,
+    roughness: 0.28,
+  },
+  brake: {
+    color: BRAKE_GOLD,
+    wireframe: false,
+    opacity: 1.0,
+    emissive: BRAKE_GOLD_DEEP,
+    emissiveIntensity: 0.35,
+    metalness: 0.65,
+    roughness: 0.35,
   },
   interior: {
     color: INTERIOR_BEIGE,

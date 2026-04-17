@@ -13,6 +13,7 @@ import { AnomalyTimeline } from '../components/panels/AnomalyTimeline'
 import type { HistoryPoint } from '../components/panels/AnomalyTimeline'
 import { GlassPanel } from '../components/shared/GlassPanel'
 import { useApiData } from '../hooks/useApiData'
+import { useIsMobile } from '../hooks/useIsMobile'
 import { useDashboardStore } from '../stores/dashboardStore'
 import { theme } from '../theme'
 import { useDiagnosticV2 } from '../hooks/useDiagnosticV2'
@@ -150,9 +151,10 @@ export function Diagnostics() {
     ? Math.max(0, Math.min(100, Math.round(overallScoreRaw)))
     : 0
   const statusLabel = statusFromScore(overallScore)
+  const isMobile = useIsMobile()
 
   const PanelFull = (
-    <NebulaPanel coolHalo="bl" warmHalo="tr" style={{ position: 'relative', overflow: 'hidden', height: 'calc(100vh - 96px)', borderRadius: 0, minHeight: 560 }}>
+    <NebulaPanel coolHalo="bl" warmHalo="tr" style={{ position: 'relative', overflow: 'hidden', height: isMobile ? 460 : 'calc(100vh - 96px)', borderRadius: 0, minHeight: isMobile ? 380 : 560 }}>
       {/* 3D canvas */}
       <Suspense fallback={
         <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', height: '100%', color: 'var(--c-spectral-muted)', fontSize: 11, fontFamily: 'var(--f-mono)', letterSpacing: '0.18em' }}>
@@ -165,73 +167,111 @@ export function Diagnostics() {
         />
       </Suspense>
 
-      {/* Bottom telemetry ribbon */}
-      <LiveTelemetryRibbon pids={apiData?.pids} />
+      {/* Bottom telemetry ribbon (desktop only) */}
+      {!isMobile && <LiveTelemetryRibbon pids={apiData?.pids} />}
 
       {/* Part hover tooltip */}
       <PartTooltip />
 
-      {/* Rule detail drawer */}
-      <Suspense fallback={null}>
-        <RuleDetailDrawer />
-      </Suspense>
+      {/* Rule detail drawer (desktop only) */}
+      {!isMobile && (
+        <Suspense fallback={null}>
+          <RuleDetailDrawer />
+        </Suspense>
+      )}
 
-      {/* Top time-strip */}
-      <StatusBar
-        timeRange={timeRange}
-        setTimeRange={setTimeRange}
-        canDrive={v2Report?.can_drive}
-        vehicleProfile={vehicleProfile}
-        onResetVehicle={resetVehicle}
-        isOnline={(apiData?.pids?.length ?? 0) > 0}
-      />
+      {/* Top time-strip (desktop only — на мобиле в под-канвас стэк) */}
+      {!isMobile && (
+        <StatusBar
+          timeRange={timeRange}
+          setTimeRange={setTimeRange}
+          canDrive={v2Report?.can_drive}
+          vehicleProfile={vehicleProfile}
+          onResetVehicle={resetVehicle}
+          isOnline={(apiData?.pids?.length ?? 0) > 0}
+        />
+      )}
 
-      {/* System tabs top-center */}
-      <SystemScoreCards
-        overallScore={overallScore}
-        getScore={getScore}
-        sparklines={sparklines}
-        activeSystem={activeSystem}
-        setActiveSystem={setActiveSystem}
-      />
+      {/* System tabs top-center (desktop only) */}
+      {!isMobile && (
+        <SystemScoreCards
+          overallScore={overallScore}
+          getScore={getScore}
+          sparklines={sparklines}
+          activeSystem={activeSystem}
+          setActiveSystem={setActiveSystem}
+        />
+      )}
 
-      {/* HEALTH SCORE — left overlay */}
-      <div className="lumen-health-hud" style={{
-        position: 'absolute', top: 56, left: 18, zIndex: 15,
-        display: 'flex', flexDirection: 'column', gap: 10,
-        pointerEvents: 'none',
-        width: 220,
-      }}>
-        <span style={microLabel}>{statusLabel}</span>
-        <span style={{
-          fontFamily: 'var(--f-display)',
-          fontSize: 108,
-          fontWeight: 100,
-          lineHeight: 1,
-          letterSpacing: '-0.05em',
-          color: '#F2E4C2',
-          textShadow: '0 0 24px rgba(200,180,142,0.40), 0 0 6px rgba(200,180,142,0.30)',
-          fontVariantNumeric: 'tabular-nums',
-        }}>{overallScore}</span>
-        <span style={microLabel}>HEALTH SCORE</span>
-        <div style={{ marginTop: 4 }}>
-          <span style={microLabel}>24Ч</span>
+      {/* HEALTH SCORE — left overlay (desktop only) */}
+      {!isMobile && (
+        <div className="lumen-health-hud" style={{
+          position: 'absolute', top: 56, left: 18, zIndex: 15,
+          display: 'flex', flexDirection: 'column', gap: 10,
+          pointerEvents: 'none',
+          width: 220,
+        }}>
+          <span style={microLabel}>{statusLabel}</span>
+          <span style={{
+            fontFamily: 'var(--f-display)',
+            fontSize: 108,
+            fontWeight: 100,
+            lineHeight: 1,
+            letterSpacing: '-0.05em',
+            color: '#F2E4C2',
+            textShadow: '0 0 24px rgba(200,180,142,0.40), 0 0 6px rgba(200,180,142,0.30)',
+            fontVariantNumeric: 'tabular-nums',
+          }}>{overallScore}</span>
+          <span style={microLabel}>HEALTH SCORE</span>
           <div style={{ marginTop: 4 }}>
-            <MiniSparkline data={sparklines.overall} width={200} height={24} fill />
+            <span style={microLabel}>24Ч</span>
+            <div style={{ marginTop: 4 }}>
+              <MiniSparkline data={sparklines.overall} width={200} height={24} fill />
+            </div>
           </div>
         </div>
-      </div>
+      )}
 
-      {/* SkyOrb — LEFT, just to the right of HEALTH SCORE column (HS column: left 18, width 220 → right edge ~238; orb at left 250) */}
-      <div className="lumen-sky-orb" style={{
-        position: 'absolute', top: 64, left: 250, zIndex: 15,
-        pointerEvents: 'auto',
-      }}>
-        <SkyOrb />
-      </div>
+      {/* SkyOrb (desktop only) */}
+      {!isMobile && (
+        <div className="lumen-sky-orb" style={{
+          position: 'absolute', top: 64, left: 250, zIndex: 15,
+          pointerEvents: 'auto',
+        }}>
+          <SkyOrb />
+        </div>
+      )}
 
-      {/* Right diagnoses feed */}
-      <ActiveDiagnosesFeed report={v2Report} onOpenRule={openRuleDrawer} />
+      {/* Right diagnoses feed (desktop only) */}
+      {!isMobile && <ActiveDiagnosesFeed report={v2Report} onOpenRule={openRuleDrawer} />}
+
+      {/* MOBILE: компактная подпись health + system tabs над канвасом */}
+      {isMobile && (
+        <div style={{
+          position: 'absolute', top: 8, left: 8, right: 8, zIndex: 15,
+          display: 'flex', alignItems: 'center', justifyContent: 'space-between',
+          padding: '6px 10px',
+          background: 'rgba(10,11,22,0.55)',
+          border: '1px solid var(--c-spectral-divider)',
+          borderRadius: 6,
+          backdropFilter: 'blur(6px)',
+          pointerEvents: 'none',
+        }}>
+          <div style={{ display: 'flex', flexDirection: 'column', gap: 2 }}>
+            <span style={{ ...microLabel, fontSize: 8 }}>{statusLabel}</span>
+            <span style={{
+              fontFamily: 'var(--f-display)', fontSize: 28, fontWeight: 200,
+              lineHeight: 1, color: '#F2E4C2',
+              textShadow: '0 0 12px rgba(200,180,142,0.40)',
+              fontVariantNumeric: 'tabular-nums',
+            }}>{overallScore}</span>
+          </div>
+          <div style={{ display: 'flex', flexDirection: 'column', gap: 2, alignItems: 'flex-end' }}>
+            <span style={{ ...microLabel, fontSize: 8 }}>HEALTH · 24Ч</span>
+            <MiniSparkline data={sparklines.overall} width={100} height={20} fill />
+          </div>
+        </div>
+      )}
     </NebulaPanel>
   )
 
