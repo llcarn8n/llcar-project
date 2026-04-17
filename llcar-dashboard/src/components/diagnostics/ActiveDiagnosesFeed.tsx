@@ -1,38 +1,30 @@
-import { useMemo, useState, type CSSProperties } from 'react'
+import type { CSSProperties } from 'react'
 import { DataDot, type DataDotSeverity } from '../ui/DataDot'
-import { GhostButton } from '../ui/GhostButton'
-import rulesCatalog from '../../data/rulesCatalog.json'
-import type { RuleSpec } from '../../types/rules'
 
-const microLabel: CSSProperties = {
-  fontFamily: 'var(--f-body)',
-  fontSize: 9,
-  fontWeight: 600,
-  color: '#E6D4A8',
-  letterSpacing: '0.24em',
+const sectionHeaderWrap: CSSProperties = {
+  position: 'relative',
+  paddingBottom: 6,
+  display: 'block',
+}
+const sectionHeaderText: CSSProperties = {
+  fontFamily: 'var(--f-display)',
+  fontSize: 10,
+  fontWeight: 700,
+  color: '#F2E4C2',
+  letterSpacing: '0.28em',
   textTransform: 'uppercase',
-  textShadow: '0 0 10px rgba(200,180,142,0.35), 0 0 2px rgba(200,180,142,0.25)',
+  textShadow: '0 0 10px rgba(210,188,148,0.45), 0 0 2px rgba(210,188,148,0.25)',
+  display: 'inline-block',
 }
-
-const hairlineInput: CSSProperties = {
-  width: '100%',
-  padding: '4px 6px',
-  background: 'transparent',
-  border: 'none',
-  borderBottom: '1px solid var(--c-spectral-divider)',
-  color: 'var(--c-spectral)',
-  fontFamily: 'var(--f-body)',
-  fontSize: 11,
-  outline: 'none',
-  boxSizing: 'border-box',
-  transition: 'border-color 160ms var(--ease-hud)',
-}
-
-const hairlineSelect: CSSProperties = {
-  ...hairlineInput,
-  fontFamily: 'var(--f-mono)',
-  cursor: 'pointer',
-  appearance: 'auto',
+const sectionHeaderUnderline: CSSProperties = {
+  position: 'absolute',
+  left: '50%',
+  transform: 'translateX(-50%)',
+  bottom: 0,
+  width: '80%',
+  height: 1,
+  background: 'linear-gradient(90deg, transparent 0%, rgba(210,188,148,0.7) 50%, transparent 100%)',
+  boxShadow: '0 0 6px rgba(210,188,148,0.5)',
 }
 
 interface Diagnosis {
@@ -57,49 +49,29 @@ interface Props {
 
 export function ActiveDiagnosesFeed({ report, onOpenRule }: Props) {
   const diagnoses = report?.diagnoses ?? []
-  const rules = rulesCatalog as RuleSpec[]
-
-  const [query, setQuery] = useState('')
-  const [selected, setSelected] = useState<string>(rules[0]?.rule_name ?? 'shock_absorber_worn')
-  const [inputFocus, setInputFocus] = useState<'q' | 's' | null>(null)
-
-  const filtered = useMemo(() => {
-    const q = query.trim().toLowerCase()
-    if (!q) return rules
-    return rules.filter(
-      r =>
-        r.rule_name.toLowerCase().includes(q) ||
-        (r.display ?? '').toLowerCase().includes(q) ||
-        (r.section ?? '').toLowerCase().includes(q),
-    )
-  }, [rules, query])
-
-  const selectedRule = useMemo(() => rules.find(r => r.rule_name === selected), [rules, selected])
-  const selectedLabel =
-    selectedRule?.display && selectedRule.display !== selectedRule.rule_name
-      ? selectedRule.display
-      : selected
-
-  const focusBorderColor = (isFocused: boolean): CSSProperties =>
-    isFocused ? { borderBottomColor: 'var(--c-indigo)' } : {}
 
   return (
     <div
       className="lumen-diag-feed"
       style={{
         position: 'absolute',
-        top: 56,
-        right: 18,
+        top: 320,
+        left: 8,
         bottom: 100,
-        width: 300,
+        width: 170,
         display: 'flex',
         flexDirection: 'column',
+        alignItems: 'center',
+        textAlign: 'center',
         gap: 10,
         zIndex: 15,
       }}
-      data-hud-right-column
+      data-hud-left-column
     >
-      <span style={microLabel}>ДИАГНОЗЫ · {diagnoses.length}</span>
+      <div style={sectionHeaderWrap}>
+        <span style={sectionHeaderText}>Диагнозы · {diagnoses.length}</span>
+        <div style={sectionHeaderUnderline} />
+      </div>
 
       <div
         style={{
@@ -109,17 +81,19 @@ export function ActiveDiagnosesFeed({ report, onOpenRule }: Props) {
           minHeight: 0,
           flex: '0 1 auto',
           maxHeight: 344,
-          borderTop: '1px solid var(--c-spectral-divider)',
+          paddingTop: 4,
         }}
       >
         {diagnoses.length === 0 && (
           <div
             style={{
-              padding: '8px 2px',
+              padding: '10px 12px',
               fontSize: 11,
               color: 'var(--c-spectral-faint)',
               fontFamily: 'var(--f-body)',
-              borderBottom: '1px solid var(--c-spectral-divider)',
+              background: 'rgba(239,242,247,0.02)',
+              border: '1px dashed rgba(210,188,148,0.18)',
+              borderRadius: 3,
             }}
           >
             Нет активных диагнозов.
@@ -143,24 +117,29 @@ export function ActiveDiagnosesFeed({ report, onOpenRule }: Props) {
               style={{
                 display: 'flex',
                 flexDirection: 'column',
+                alignItems: 'center',
+                textAlign: 'center',
                 gap: 6,
                 position: 'relative',
-                padding: '8px 2px',
+                padding: '10px 2px 10px 2px',
                 borderBottom: '1px solid var(--c-spectral-divider)',
                 cursor: clickable ? 'pointer' : 'default',
+                transition: 'background 160ms var(--ease-hud)',
+                width: '100%',
               }}
             >
-              <div style={{ display: 'flex', alignItems: 'flex-start', gap: 8 }}>
+              <div style={{ display: 'flex', alignItems: 'flex-start', justifyContent: 'center', gap: 8 }}>
                 <DataDot severity={sev} size={6} style={{ marginTop: 4 }} />
-                <div style={{ flex: 1, minWidth: 0 }}>
+                <div style={{ minWidth: 0 }}>
                   <div
                     style={{
-                      fontSize: 11,
-                      fontFamily: 'var(--f-body)',
-                      color: 'var(--c-spectral)',
+                      fontSize: 12,
+                      fontFamily: 'var(--f-display)',
+                      color: '#B8BEC7',
                       fontWeight: 500,
-                      lineHeight: 1.3,
-                      marginBottom: 2,
+                      letterSpacing: '0.04em',
+                      lineHeight: 1.35,
+                      marginBottom: 3,
                     }}
                   >
                     {d.display || ruleName || 'Диагноз'}
@@ -219,56 +198,6 @@ export function ActiveDiagnosesFeed({ report, onOpenRule }: Props) {
             </div>
           )
         })}
-      </div>
-
-      <span style={microLabel}>ПРАВИЛА ДИАГНОСТИКИ · {filtered.length}</span>
-
-      <div
-        style={{
-          display: 'flex',
-          flexDirection: 'column',
-          gap: 8,
-          paddingTop: 6,
-          borderTop: '1px solid var(--c-spectral-divider)',
-        }}
-        data-hud-rule-picker
-      >
-        <input
-          type="text"
-          value={query}
-          onChange={e => setQuery(e.target.value)}
-          onFocus={() => setInputFocus('q')}
-          onBlur={() => setInputFocus(null)}
-          placeholder="поиск…"
-          style={{ ...hairlineInput, ...focusBorderColor(inputFocus === 'q') }}
-        />
-        <select
-          value={selected}
-          onChange={e => setSelected(e.target.value)}
-          onFocus={() => setInputFocus('s')}
-          onBlur={() => setInputFocus(null)}
-          style={{ ...hairlineSelect, ...focusBorderColor(inputFocus === 's') }}
-        >
-          {filtered.map(r => {
-            const hasRu = r.display && r.display !== r.rule_name
-            const label = hasRu ? r.display : r.rule_name
-            return (
-              <option key={r.rule_name} value={r.rule_name}>
-                [{r.section ?? '?'}] {r.tier ?? '—'} · {label}
-              </option>
-            )
-          })}
-        </select>
-        <GhostButton
-          variant="rect"
-          size="sm"
-          onClick={() => onOpenRule(selected)}
-          title={selectedLabel}
-          data-dev-open-rule
-          style={{ width: '100%', padding: '6px 12px' }}
-        >
-          Открыть
-        </GhostButton>
       </div>
     </div>
   )

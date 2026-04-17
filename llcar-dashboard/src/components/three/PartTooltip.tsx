@@ -8,10 +8,10 @@ const TOOLTIP_WIDTH = 260
 const TOOLTIP_GAP = 16
 
 const CATEGORY_COLOR: Record<PartCategory, string> = {
-  suspension: '#6B5AE0', // indigo
+  suspension: '#D4A54A', // warm brake-gold — подвеска/подрамники/тормоза
   engine:     '#C8B48E', // champagne
-  electrical: '#8AB4F8', // cool blue
-  audio:      '#F7A76E', // warm
+  electrical: '#E4D4B2', // warm cream (было cool blue — не вписывалось)
+  audio:      '#F7A76E', // warm amber
   body:       '#B09A7A', // soft champagne
   light:      '#EFF2F7', // spectral
   interior:   '#B09A7A',

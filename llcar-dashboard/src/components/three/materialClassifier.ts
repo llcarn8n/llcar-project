@@ -74,18 +74,22 @@ export function classifyByNode(nodeName: string): MaterialCategory | null {
       n.includes('фонарь') || n.includes('фонар') ||
       n.includes('дхо') || n.includes('ходовой_огон') || n.includes('дневные_ходовые') ||
       n.includes('подсветк') || n.includes('заглушка_фонар') || n.includes('повторитель') ||
-      n.includes('стоп')) return 'light'
+      n.includes('стоп') ||
+      n.includes('световой') || n.includes('световая') || n.includes('светополос') ||
+      n.includes('led') || n.includes('лед_') || n.includes('диод') ||
+      n.includes('rear_light') || n.includes('tail') || n.includes('taillight') ||
+      n.includes('задний_свет') || n.includes('задняя_светов') ||
+      n.includes('неон')) return 'light'
 
   // Interior — BEFORE body, catches "Кузов_(интерьер)#2_—_*" and all cabin trim
   if (n.includes('(интерьер)') || n.includes('руль') ||
       n.includes('сиденье') || n.includes('сиденья') || n.includes('подушка') ||
       n.includes('приборн') || n.includes('бардачок') || n.includes('подрулев') ||
       n.includes('козырёк') || n.includes('козырек') || n.includes('дверная_карта') ||
-      n.includes('обивка') || n.includes('обшивка') || n.includes('торпед') ||
+      n.includes('обивка') || n.includes('торпед') ||
       n.includes('потолок') || n.includes('ковролин') || n.includes('подлокотник') ||
       n.includes('консоль') || n.includes('лепесток') || n.includes('экран_приборов') ||
-      n.includes('обод') || n.includes('спиц') || n.includes('стойка') ||
-      n.includes('салонное') || n.includes('салон') || n.includes('сигнал')) return 'interior'
+      n.includes('салонное') || n.includes('салон')) return 'interior'
 
   // Doors, body panels, bumpers, hood, roof, fenders — EXTERIOR cherry paint
   if (n.includes('дверь') || n.includes('кузов') || n.includes('капот') || n.includes('крыша') ||

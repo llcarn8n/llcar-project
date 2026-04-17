@@ -8,7 +8,20 @@ export default defineConfig(({ command }) => ({
   server: {
     proxy: {
       '/api': 'https://llcar.ru'
-    }
+    },
+    watch: {
+      ignored: [
+        '**/.omc/**',
+        '**/.claude/**',
+        '**/.playwright-mcp/**',
+        '**/dashboard_build/**',
+        '**/__pycache__/**',
+        '**/docs/**',
+        '**/*.pyc',
+        '**/node_modules/**',
+        '**/dist/**',
+      ],
+    },
   },
   build: {
     outDir: 'dist',

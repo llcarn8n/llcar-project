@@ -19,9 +19,8 @@
   isolation: isolate;
 }
 
-/* Logo PNG: уже без фона (llcar-logo-transparent.png, scripts/strip-logo-bg.py).
-   Постоянный "hover-glow" по умолчанию — пользователь подтвердил, что именно такой
-   amped spectral+indigo halo читается как правильный дефолт. */
+/* Logo PNG: solar warm glow — голд-амбер halo вместо индиго.
+   Apple-style объём: верхний highlight + глубокая тень + ambient sunrise glow. */
 .llcar-logo-img {
   position: relative;
   width: 100%;
@@ -31,16 +30,16 @@
   z-index: 2;
   background: transparent;
   filter:
-    brightness(2.05)
-    contrast(1.35)
-    drop-shadow(0 0 22px rgba(239,242,247,0.92))
-    drop-shadow(0 0 44px rgba(107,90,224,0.72))
-    drop-shadow(0 0 82px rgba(107,90,224,0.34));
+    brightness(1.45)
+    contrast(1.15)
+    drop-shadow(0 0 10px rgba(255,239,180,0.45))
+    drop-shadow(0 0 22px rgba(232,184,110,0.32))
+    drop-shadow(0 0 48px rgba(200,148,70,0.18));
   animation: llcarLogoBreath 4.2s ease-in-out infinite;
   transition: filter 0.35s ease;
 }
 
-/* Conic shimmer sweep — spectral + indigo, monochrome nebula only. */
+/* Conic shimmer sweep — warm gold + sunrise cream. */
 .llcar-logo-sheen {
   position: absolute;
   inset: -14%;
@@ -49,25 +48,25 @@
   background: conic-gradient(
     from 0deg,
     transparent 0deg,
-    rgba(239,242,247,0.40) 40deg,
-    rgba(107,90,224,0.35) 120deg,
-    rgba(239,242,247,0.22) 200deg,
-    rgba(107,90,224,0.18) 280deg,
+    rgba(255,239,180,0.22) 40deg,
+    rgba(232,184,110,0.18) 120deg,
+    rgba(255,214,150,0.14) 200deg,
+    rgba(200,148,70,0.10) 280deg,
     transparent 360deg
   );
   mix-blend-mode: screen;
-  filter: blur(5px);
-  opacity: 1;
-  animation: llcarSheenSpin 4s linear infinite;
+  filter: blur(6px);
+  opacity: 0.75;
+  animation: llcarSheenSpin 5s linear infinite;
   z-index: 1;
 }
 
-/* Orbital ring — spectral + indigo dashed, nebula palette. */
+/* Orbital ring — warm gold dashed. */
 .llcar-logo-orbit {
   position: absolute;
   inset: -26%;
   border-radius: 50%;
-  border: 1px dashed rgba(239,242,247,0.28);
+  border: 1px dashed rgba(255,214,120,0.32);
   opacity: 0.55;
   pointer-events: none;
   animation: llcarOrbitSpin 140s linear infinite;
@@ -78,25 +77,29 @@
   position: absolute;
   inset: 14%;
   border-radius: 50%;
-  border: 1px dotted rgba(107,90,224,0.32);
+  border: 1px dotted rgba(242,184,70,0.38);
   animation: llcarOrbitSpin 200s linear infinite reverse;
 }
 
-/* Hover — пушим glow ещё чуть выше, но даже default уже на "hover-level". */
+/* Hover — усиливаем solar halo. */
 .llcar-logo-wrap:hover .llcar-logo-img {
   filter:
-    brightness(2.05)
-    contrast(1.35)
-    drop-shadow(0 0 22px rgba(239,242,247,0.92))
-    drop-shadow(0 0 44px rgba(107,90,224,0.72))
-    drop-shadow(0 0 82px rgba(107,90,224,0.34));
+    brightness(1.60)
+    contrast(1.20)
+    drop-shadow(0 0 14px rgba(255,239,180,0.60))
+    drop-shadow(0 0 30px rgba(232,184,110,0.45))
+    drop-shadow(0 0 60px rgba(200,148,70,0.25));
 }
 .llcar-logo-wrap:hover .llcar-logo-sheen {
-  animation-duration: 3s;
-  opacity: 1;
+  animation-duration: 3.5s;
+  opacity: 0.9;
 }
 
-/* Wordmark: nebula gradient spectral → indigo → spectral, with 3D volumetric shadow. */
+/* Wordmark: warm gold gradient cream → gold → amber, Apple-depth volumetric shadow stack.
+   Layer1 (top highlight) — cream 1px up for rim-light на буквах.
+   Layer2 (body shadow) — тёплый тёмный амбер 2px для weight.
+   Layer3 (deep bed) — почти-чёрный 4px blur для depth.
+   Layer4 (ambient) — солнечный halo 10-18px. */
 .llcar-logo-wordmark {
   font-family: var(--f-display);
   font-weight: 800;
@@ -104,24 +107,34 @@
   letter-spacing: 0.22em;
   line-height: 1;
   background: linear-gradient(
+    180deg,
+    rgba(248,244,232,1.00) 0%,
+    rgba(232,218,188,0.96) 40%,
+    rgba(210,188,148,0.94) 75%,
+    rgba(178,152,112,0.90) 100%
+  ),
+  linear-gradient(
     90deg,
-    rgba(239,242,247,0.98) 0%,
-    rgba(239,242,247,0.75) 28%,
-    rgba(107,90,224,0.95) 50%,
-    rgba(239,242,247,0.75) 72%,
-    rgba(239,242,247,0.98) 100%
+    rgba(240,232,212,0.96) 0%,
+    rgba(228,212,178,0.88) 28%,
+    rgba(215,195,152,1.00) 50%,
+    rgba(228,212,178,0.88) 72%,
+    rgba(240,232,212,0.96) 100%
   );
-  background-size: 220% 100%;
+  background-size: 100% 100%, 220% 100%;
+  background-blend-mode: multiply;
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
   color: transparent;
-  animation: llcarWordmarkShimmer 9s linear infinite;
+  animation: llcarWordmarkShimmer 11s linear infinite;
   white-space: nowrap;
   filter:
-    drop-shadow(0 1px 0 rgba(239,242,247,0.35))
-    drop-shadow(0 2px 0 rgba(20,21,42,0.85))
-    drop-shadow(0 0 10px rgba(107,90,224,0.35));
+    drop-shadow(0 1px 0 rgba(248,244,232,0.45))
+    drop-shadow(0 2px 0 rgba(50,38,22,0.65))
+    drop-shadow(0 3px 5px rgba(0,0,0,0.45))
+    drop-shadow(0 0 10px rgba(210,188,148,0.28))
+    drop-shadow(0 0 22px rgba(178,152,112,0.15));
 }
 .llcar-logo-wrap.sm .llcar-logo-wordmark { font-size: 1.1rem; letter-spacing: 0.20em; }
 .llcar-logo-wrap.lg .llcar-logo-wordmark { font-size: 1.5rem; letter-spacing: 0.22em; }

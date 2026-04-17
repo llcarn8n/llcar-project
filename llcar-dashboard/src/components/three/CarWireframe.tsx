@@ -13,8 +13,8 @@ import { resolvePartByNode } from '../../data/partCatalog'
 import { useDashboardStore } from '../../stores/dashboardStore'
 import type { PartSpec } from '../../types/rules'
 
-const HOVER_EMISSIVE_COLOR = new THREE.Color('#6B5AE0')
-const HOVER_EMISSIVE_INTENSITY = 0.35
+const HOVER_EMISSIVE_COLOR = new THREE.Color('#D4A54A')
+const HOVER_EMISSIVE_INTENSITY = 0.42
 
 // Pool of hover-state materials keyed by category, so we don't create a new
 // MeshStandardMaterial on every hover event.
@@ -128,6 +128,23 @@ export function CarWireframe({ activeSystem = null, onWheelRefs }: CarWireframeP
       console.group('🛞 Wheel/Suspension nodes in GLB:')
       wheelNodes.forEach(n => console.log(n))
       console.groupEnd()
+    }
+    // Debug hook: expose full node list for body/light discovery
+    if (typeof window !== 'undefined') {
+      (window as any).__dumpBodyNodes = (filter?: string) => {
+        const out: { name: string; cat: string }[] = []
+        scene.traverse((c) => {
+          if (c instanceof THREE.Mesh && c.name) {
+            const cc = map.get(c.name) ?? 'other'
+            if (!filter || c.name.toLowerCase().includes(filter.toLowerCase())) {
+              out.push({ name: c.name, cat: cc })
+            }
+          }
+        })
+        console.table(out)
+        return out
+      }
+      console.log('[CarWireframe] дебаг: вызови __dumpBodyNodes("фон") / __dumpBodyNodes("стоп") / __dumpBodyNodes() для полного списка')
     }
     return map
   }, [scene])

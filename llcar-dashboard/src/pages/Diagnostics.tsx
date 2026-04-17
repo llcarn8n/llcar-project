@@ -1,5 +1,6 @@
 import { Suspense, lazy, useState, useMemo } from 'react'
 import { ActiveDiagnosesFeed } from '../components/diagnostics/ActiveDiagnosesFeed'
+import { RulesPicker } from '../components/diagnostics/RulesPicker'
 import { StatusBar } from '../components/diagnostics/StatusBar'
 import { SystemScoreCards } from '../components/diagnostics/SystemScoreCards'
 import { LiveTelemetryRibbon } from '../components/diagnostics/LiveTelemetryRibbon'
@@ -43,9 +44,16 @@ const RuleDetailDrawer = lazy(() => import('../components/diagnostics/RuleDetail
 type SystemKey = 'suspension' | 'engine' | 'electrical' | 'audio'
 
 function statusFromScore(score: number): string {
-  if (score >= 80) return 'NORMAL'
-  if (score >= 60) return 'DEGRADED'
-  return 'CRITICAL'
+  if (score >= 80) return 'НОРМА'
+  if (score >= 60) return 'УХУДШЕНО'
+  return 'КРИТИЧНО'
+}
+
+function timeRangeLabel(minutes: number): string {
+  if (minutes <= 60) return '1Ч'
+  if (minutes <= 1440) return '24Ч'
+  if (minutes <= 10080) return '7Д'
+  return '30Д'
 }
 
 const microLabel: React.CSSProperties = {
@@ -138,11 +146,19 @@ export function Diagnostics() {
     }
   }, [v2History])
 
-  // getScore with clamp [0,100] — защита от -1 sentinel из старого API
+  // getScore with clamp [0,100] — защита от -1 sentinel из старого API.
+  // Для electrical/audio 0 трактуется как «нет данных» когда нет OBD/микрофона —
+  // бэкенд не умеет отличать «нулевое здоровье» от «не замеряли».
   const getScore = (key: SystemKey): number | null => {
     const v2Score = useV2Api && v2Report ? v2Report.health_scores[key] : null
     const raw = v2Score ?? systems[key]?.score
     if (typeof raw !== 'number' || !Number.isFinite(raw) || raw < 0) return null
+    if (raw === 0) {
+      const ds = v2Report?.data_source
+      if (key === 'electrical' && ds && !ds.has_obd) return null
+      if (key === 'audio' && ds && !ds.has_audio) return null
+      if (key === 'electrical' || key === 'audio') return null
+    }
     return Math.max(0, Math.min(100, Math.round(raw)))
   }
 
@@ -206,10 +222,11 @@ export function Diagnostics() {
       {/* HEALTH SCORE — left overlay (desktop only) */}
       {!isMobile && (
         <div className="lumen-health-hud" style={{
-          position: 'absolute', top: 56, left: 18, zIndex: 15,
+          position: 'absolute', top: 56, left: 8, zIndex: 15,
           display: 'flex', flexDirection: 'column', gap: 10,
+          alignItems: 'center', textAlign: 'center',
           pointerEvents: 'none',
-          width: 220,
+          width: 170,
         }}>
           <span style={microLabel}>{statusLabel}</span>
           <span style={{
@@ -222,11 +239,11 @@ export function Diagnostics() {
             textShadow: '0 0 24px rgba(200,180,142,0.40), 0 0 6px rgba(200,180,142,0.30)',
             fontVariantNumeric: 'tabular-nums',
           }}>{overallScore}</span>
-          <span style={microLabel}>HEALTH SCORE</span>
-          <div style={{ marginTop: 4 }}>
-            <span style={microLabel}>24Ч</span>
+          <span style={microLabel}>ЗДОРОВЬЕ</span>
+          <div style={{ marginTop: 4, display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+            <span style={microLabel}>{timeRangeLabel(timeRange)}</span>
             <div style={{ marginTop: 4 }}>
-              <MiniSparkline data={sparklines.overall} width={200} height={24} fill />
+              <MiniSparkline data={sparklines.overall} width={150} height={24} fill />
             </div>
           </div>
         </div>
@@ -235,7 +252,7 @@ export function Diagnostics() {
       {/* SkyOrb (desktop only) */}
       {!isMobile && (
         <div className="lumen-sky-orb" style={{
-          position: 'absolute', top: 64, left: 250, zIndex: 15,
+          position: 'absolute', top: 64, right: 18, zIndex: 15,
           pointerEvents: 'auto',
         }}>
           <SkyOrb />
@@ -244,6 +261,9 @@ export function Diagnostics() {
 
       {/* Right diagnoses feed (desktop only) */}
       {!isMobile && <ActiveDiagnosesFeed report={v2Report} onOpenRule={openRuleDrawer} />}
+
+      {/* Rules picker — bottom-right corner (desktop only) */}
+      {!isMobile && <RulesPicker onOpenRule={openRuleDrawer} />}
 
       {/* MOBILE: компактная подпись health + system tabs над канвасом */}
       {isMobile && (
@@ -267,7 +287,7 @@ export function Diagnostics() {
             }}>{overallScore}</span>
           </div>
           <div style={{ display: 'flex', flexDirection: 'column', gap: 2, alignItems: 'flex-end' }}>
-            <span style={{ ...microLabel, fontSize: 8 }}>HEALTH · 24Ч</span>
+            <span style={{ ...microLabel, fontSize: 8 }}>ЗДОРОВЬЕ · {timeRangeLabel(timeRange)}</span>
             <MiniSparkline data={sparklines.overall} width={100} height={20} fill />
           </div>
         </div>

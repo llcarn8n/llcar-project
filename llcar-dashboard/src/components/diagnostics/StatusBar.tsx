@@ -1,13 +1,53 @@
 import { useNavigate } from 'react-router-dom'
-import { GhostButton } from '../ui/GhostButton'
 import { theme } from '../../theme'
 
 const TIME_PILLS = [
-  { label: '1ч',  val: 60 },
-  { label: '24ч', val: 1440 },
-  { label: '7д',  val: 10080 },
-  { label: '30д', val: 43200 },
+  { label: '1Ч',  val: 60 },
+  { label: '24Ч', val: 1440 },
+  { label: '7Д',  val: 10080 },
+  { label: '30Д', val: 43200 },
 ]
+
+interface TimePillProps {
+  label: string
+  active: boolean
+  onClick: () => void
+}
+
+function TimePill({ label, active, onClick }: TimePillProps) {
+  return (
+    <button
+      onClick={onClick}
+      data-active={active ? 'true' : 'false'}
+      style={{
+        padding: '4px 8px',
+        background: 'transparent',
+        border: 'none',
+        color: active ? 'rgba(239,242,247,0.95)' : 'rgba(239,242,247,0.45)',
+        fontFamily: 'var(--f-display)',
+        fontSize: 10,
+        fontWeight: 700,
+        letterSpacing: '0.16em',
+        lineHeight: 1,
+        cursor: 'pointer',
+        textShadow: 'none',
+        transition: 'color 160ms var(--ease-hud), text-shadow 160ms var(--ease-hud)',
+      }}
+      onMouseEnter={e => {
+        if (!active) {
+          e.currentTarget.style.color = 'rgba(239,242,247,0.95)'
+        }
+      }}
+      onMouseLeave={e => {
+        if (!active) {
+          e.currentTarget.style.color = 'rgba(239,242,247,0.45)'
+        }
+      }}
+    >
+      {label}
+    </button>
+  )
+}
 
 export type CanDriveState = 'safe' | 'caution' | 'stop' | null | undefined
 
@@ -25,6 +65,39 @@ export interface StatusBarProps {
   isOnline: boolean
 }
 
+interface StatusSegmentProps {
+  label: string
+  withDivider?: boolean
+  children: React.ReactNode
+}
+
+function StatusSegment({ label, withDivider, children }: StatusSegmentProps) {
+  return (
+    <div style={{
+      display: 'flex',
+      flexDirection: 'column',
+      alignItems: 'flex-start',
+      gap: 4,
+      padding: '0 10px',
+      borderLeft: withDivider ? 'none' : 'none',
+    }}>
+      <span style={{
+        fontSize: 10,
+        fontFamily: 'var(--f-display)',
+        fontWeight: 700,
+        color: 'rgba(239,242,247,0.45)',
+        textTransform: 'uppercase',
+        letterSpacing: '0.16em',
+        lineHeight: 1,
+        whiteSpace: 'nowrap',
+      }}>{label}</span>
+      <div style={{ display: 'flex', alignItems: 'center', lineHeight: 1 }}>
+        {children}
+      </div>
+    </div>
+  )
+}
+
 export function StatusBar({
   timeRange,
   setTimeRange,
@@ -36,9 +109,9 @@ export function StatusBar({
   const navigate = useNavigate()
 
   const driveMap = {
-    safe: { label: 'МОЖНО ЕХАТЬ', color: '#6BE08F' },
-    caution: { label: 'ОСТОРОЖНО', color: '#E0B46B' },
-    stop: { label: 'СТОП', color: '#E06B6B' },
+    safe: { label: 'МОЖНО ЕХАТЬ', color: '#6BE08F', hint: 'Ехать безопасно' },
+    caution: { label: 'ОСТОРОЖНО', color: '#E0B46B', hint: 'Есть замечания — ехать можно, но следить' },
+    stop: { label: 'СТОП', color: '#E06B6B', hint: 'Обнаружены критичные диагнозы — ехать не рекомендуется' },
   } as const
 
   return (
@@ -61,28 +134,28 @@ export function StatusBar({
       <div style={{ display: 'flex', alignItems: 'center', gap: 12, pointerEvents: 'auto', flexWrap: 'nowrap' }}>
         <div style={{ display: 'flex', gap: 4, flexWrap: 'nowrap' }}>
           {TIME_PILLS.map(p => (
-            <GhostButton
+            <TimePill
               key={p.val}
+              label={p.label}
               active={timeRange === p.val}
               onClick={() => setTimeRange(p.val)}
-              variant="pill"
-              size="sm"
-              style={{ padding: '3px 10px', fontSize: 10, flex: '0 0 auto' }}
-            >
-              {p.label}
-            </GhostButton>
+            />
           ))}
         </div>
 
         {canDrive && (() => {
           const drive = driveMap[canDrive]
           return (
-            <span style={{
-              display: 'inline-flex', alignItems: 'center', gap: 6,
-              fontFamily: 'var(--f-body)', fontSize: 9, fontWeight: 600,
-              letterSpacing: '0.22em', textTransform: 'uppercase',
-              color: drive.color,
-            }}>
+            <span
+              title={drive.hint}
+              style={{
+                display: 'inline-flex', alignItems: 'center', gap: 6,
+                fontFamily: 'var(--f-body)', fontSize: 9, fontWeight: 600,
+                letterSpacing: '0.22em', textTransform: 'uppercase',
+                color: drive.color,
+                cursor: 'help',
+              }}
+            >
               <span style={{
                 width: 6, height: 6, borderRadius: '50%',
                 background: drive.color,
@@ -90,6 +163,15 @@ export function StatusBar({
                 animation: canDrive === 'stop' ? 'canDrivePulse 1.4s ease-in-out infinite' : 'none',
               }} />
               {drive.label}
+              <span style={{
+                fontSize: 11, fontWeight: 500,
+                color: 'rgba(184,190,199,0.7)',
+                textTransform: 'none',
+                letterSpacing: '0.02em',
+                marginLeft: 6,
+              }}>
+                — {drive.hint.toLowerCase()}
+              </span>
             </span>
           )
         })()}
@@ -101,55 +183,90 @@ export function StatusBar({
         `}</style>
       </div>
 
-      <div style={{ display: 'flex', alignItems: 'center', gap: 12, pointerEvents: 'auto' }}>
+      <div
+        style={{
+          display: 'flex',
+          alignItems: 'stretch',
+          pointerEvents: 'auto',
+        }}
+      >
         {vehicleProfile && (
-          <button
-            onClick={() => { onResetVehicle(); navigate('/') }}
-            style={{
-              background: 'transparent',
-              border: 'none',
-              padding: 0,
-              cursor: 'pointer',
-              fontSize: 11,
+          <StatusSegment label="АВТО">
+            <button
+              onClick={() => { onResetVehicle(); navigate('/') }}
+              style={{
+                background: 'transparent',
+                border: 'none',
+                padding: 0,
+                cursor: 'pointer',
+                fontSize: 10,
+                fontFamily: 'var(--f-mono)',
+                fontWeight: 500,
+                color: 'var(--c-spectral-muted)',
+                letterSpacing: '0.08em',
+                lineHeight: 1,
+                whiteSpace: 'nowrap',
+                display: 'inline-flex',
+                alignItems: 'center',
+                gap: 4,
+                opacity: 0.85,
+              }}
+              title="Сменить автомобиль"
+              onMouseEnter={e => { e.currentTarget.style.color = 'var(--c-spectral)'; e.currentTarget.style.opacity = '1' }}
+              onMouseLeave={e => { e.currentTarget.style.color = 'var(--c-spectral-muted)'; e.currentTarget.style.opacity = '0.85' }}
+            >
+              {vehicleProfile.brand} {vehicleProfile.model}
+              <span style={{
+                fontSize: 8,
+                color: 'var(--c-spectral-faint)',
+                lineHeight: 1,
+              }}>{'\u2715'}</span>
+            </button>
+          </StatusSegment>
+        )}
+
+        <StatusSegment label="СТАТУС" withDivider={!!vehicleProfile}>
+          <div style={{ display: 'inline-flex', alignItems: 'center', gap: 5, lineHeight: 1 }}>
+            <span style={{
+              width: 4, height: 4, borderRadius: '50%',
+              backgroundColor: isOnline ? theme.status.ok : theme.text.muted,
+              boxShadow: isOnline ? `0 0 4px ${theme.status.ok}` : 'none',
+              animation: isOnline ? 'pulse-dot 2s ease-in-out infinite' : 'none',
+            }} />
+            <span style={{
+              fontSize: 9,
               fontFamily: 'var(--f-mono)',
-              fontWeight: 600,
-              color: 'var(--c-spectral)',
+              fontWeight: 500,
+              color: 'var(--c-spectral-muted)',
               letterSpacing: '0.14em',
               textTransform: 'uppercase',
               lineHeight: 1,
-              whiteSpace: 'nowrap',
-            }}
-            title="Сменить автомобиль"
-          >
-            {vehicleProfile.brand} {vehicleProfile.model} <span style={{ color: 'var(--c-spectral-faint)', marginLeft: 4 }}>✕</span>
-          </button>
-        )}
+            }}>{isOnline ? 'Онлайн' : 'Офлайн'}</span>
+          </div>
+        </StatusSegment>
 
-        <div style={{ display: 'flex', alignItems: 'center', gap: 6 }}>
+        <StatusSegment label="ПЕРИОД" withDivider>
           <span style={{
-            width: 6, height: 6, borderRadius: '50%',
-            backgroundColor: isOnline ? theme.status.ok : theme.text.muted,
-            boxShadow: isOnline ? `0 0 6px ${theme.status.ok}` : 'none',
-            animation: isOnline ? 'pulse-dot 2s ease-in-out infinite' : 'none',
-          }} />
-          <span style={{
-            fontSize: 9, fontFamily: 'var(--f-body)',
-            color: 'var(--c-spectral-faint)',
-            letterSpacing: '0.22em', textTransform: 'uppercase',
-          }}>{isOnline ? 'Онлайн' : 'Офлайн'}</span>
-        </div>
-
-        <div style={{
-          fontSize: 9, fontFamily: 'var(--f-mono)',
-          color: 'var(--c-spectral-faint)', letterSpacing: '0.12em',
-        }}>
-          {(() => {
-            const now = new Date()
-            const from = new Date(now.getTime() - timeRange * 60 * 1000)
-            const fmt = (d: Date) => `${d.getDate().toString().padStart(2, '0')}.${(d.getMonth() + 1).toString().padStart(2, '0')} ${d.getHours().toString().padStart(2, '0')}:${d.getMinutes().toString().padStart(2, '0')}`
-            return `${fmt(from)} — ${fmt(now)}`
-          })()}
-        </div>
+            fontSize: 9,
+            fontFamily: 'var(--f-mono)',
+            fontWeight: 400,
+            color: 'var(--c-spectral-muted)',
+            letterSpacing: '0.06em',
+            lineHeight: 1,
+            whiteSpace: 'nowrap',
+            fontVariantNumeric: 'tabular-nums',
+          }}>
+            {(() => {
+              const now = new Date()
+              const from = new Date(now.getTime() - timeRange * 60 * 1000)
+              const pad = (n: number) => n.toString().padStart(2, '0')
+              const fmtTime = (d: Date) => `${pad(d.getHours())}:${pad(d.getMinutes())}`
+              const fmtDate = (d: Date) => `${pad(d.getDate())}.${pad(d.getMonth() + 1)}`
+              const fmt = timeRange <= 1440 ? fmtTime : fmtDate
+              return `${fmt(from)} — ${fmt(now)}`
+            })()}
+          </span>
+        </StatusSegment>
       </div>
     </div>
   )

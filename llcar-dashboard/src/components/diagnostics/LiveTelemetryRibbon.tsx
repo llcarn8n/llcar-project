@@ -72,8 +72,11 @@ function MetricCell({ cell }: { cell: Cell }) {
         fontWeight: 600,
         color: '#C8B48E',
         textTransform: 'uppercase',
-        letterSpacing: '0.24em',
+        letterSpacing: '0.14em',
         lineHeight: 1,
+        whiteSpace: 'nowrap',
+        overflow: 'hidden',
+        textOverflow: 'ellipsis',
         textShadow: '0 0 6px rgba(200,180,142,0.25)',
       }}>{cell.label}</span>
       <div style={{ display: 'flex', alignItems: 'flex-end', gap: 6 }}>
@@ -127,13 +130,13 @@ export function LiveTelemetryRibbon({ pids }: LiveTelemetryRibbonProps) {
   const latestLtft = firstDefined(window.slice().reverse().map(p => p.ltft))
 
   const cells: Cell[] = [
-    { label: 'RPM', value: latestRpm != null ? Math.round(latestRpm).toString() : null, series: rpmSeries },
-    { label: 'СКОР', value: latestSpeed != null ? Math.round(latestSpeed).toString() : null, series: speedSeries, unit: 'км/ч' },
-    { label: 'Т ОЖ', value: latestCoolant != null ? latestCoolant.toFixed(0) : null, series: coolantSeries, unit: '°' },
-    { label: 'НАПР', value: latestVolt != null ? latestVolt.toFixed(1) : null, series: voltSeries, unit: 'В' },
-    { label: 'ГАЗ', value: latestThrottle != null ? Math.round(latestThrottle).toString() : null, series: throttleSeries, unit: '%' },
-    { label: 'НАГР', value: latestLoad != null ? Math.round(latestLoad).toString() : null, series: loadSeries, unit: '%' },
-    { label: 'LTFT', value: latestLtft != null ? latestLtft.toFixed(1) : null, series: ltftSeries, unit: '%' },
+    { label: 'ОБОРОТЫ', value: latestRpm != null ? Math.round(latestRpm).toString() : null, series: rpmSeries },
+    { label: 'СКОРОСТЬ', value: latestSpeed != null ? Math.round(latestSpeed).toString() : null, series: speedSeries, unit: 'км/ч' },
+    { label: 'ТЕМП. ОЖ', value: latestCoolant != null ? latestCoolant.toFixed(0) : null, series: coolantSeries, unit: '°' },
+    { label: 'НАПРЯЖЕНИЕ', value: latestVolt != null ? latestVolt.toFixed(1) : null, series: voltSeries, unit: 'В' },
+    { label: 'ДРОССЕЛЬ', value: latestThrottle != null ? Math.round(latestThrottle).toString() : null, series: throttleSeries, unit: '%' },
+    { label: 'НАГРУЗКА', value: latestLoad != null ? Math.round(latestLoad).toString() : null, series: loadSeries, unit: '%' },
+    { label: 'КОРР. ТОПЛ.', value: latestLtft != null ? latestLtft.toFixed(1) : null, series: ltftSeries, unit: '%' },
   ]
 
   return (

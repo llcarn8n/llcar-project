@@ -1,21 +1,31 @@
-import type { ReactNode } from 'react'
+import { useMemo, type ReactNode } from 'react'
 import { useLocation, useNavigate } from 'react-router-dom'
 import { useDashboardStore } from '../stores/dashboardStore'
 import { SidebarContent } from '../components/sidebar/SidebarContent'
 import { Logo } from '../components/Logo'
 
 const tabs = [
-  { path: '/', label: 'Диагностика', icon: '\u2B21' },
-  { path: '/kb', label: 'База знаний', icon: '\u{1F4DA}' },
-  { path: '/dtc', label: 'Ошибки', icon: '\u26A0' },
-  { path: '/resources', label: 'Ресурсы', icon: '\u{1F517}' },
-  { path: '/pricing', label: 'Тарифы', icon: '\u{1F48E}' },
+  { path: '/', label: 'Диагностика' },
+  { path: '/kb', label: 'База знаний' },
+  { path: '/dtc', label: 'Ошибки' },
+  { path: '/resources', label: 'Ресурсы' },
+  { path: '/pricing', label: 'Тарифы' },
 ]
 
 export function MainLayout({ children }: { children: ReactNode }) {
   const location = useLocation()
   const navigate = useNavigate()
   const { sidebarOpen, toggleSidebar, clientHash, setClient, timeRange, vehicleProfile, openVehicleSetup, openConnectionWizard } = useDashboardStore()
+
+  const particles = useMemo(
+    () =>
+      Array.from({ length: 10 }).map((_, i) => ({
+        left: `${(i * 10) + Math.random() * 5}%`,
+        animationDelay: `${i * 2}s`,
+        animationDuration: `${18 + i * 2}s`,
+      })),
+    [],
+  )
 
   return (
     <div className="min-h-screen overflow-x-hidden" style={{ backgroundColor: 'var(--bg-primary)' }}>
@@ -39,12 +49,8 @@ export function MainLayout({ children }: { children: ReactNode }) {
       </div>
       {/* Floating particles */}
       <div className="particles-container">
-        {Array.from({ length: 10 }).map((_, i) => (
-          <div key={i} className="particle" style={{
-            left: `${(i * 10) + Math.random() * 5}%`,
-            animationDelay: `${i * 2}s`,
-            animationDuration: `${18 + i * 2}s`,
-          }} />
+        {particles.map((p, i) => (
+          <div key={i} className="particle" style={p} />
         ))}
       </div>
       {/* Header */}
@@ -52,11 +58,11 @@ export function MainLayout({ children }: { children: ReactNode }) {
         className="flex flex-wrap items-center justify-between px-3 md:px-6 py-2 md:py-3 gap-1"
         style={{ borderBottom: '1px solid var(--border-frost)' }}
       >
-        <div className="flex items-center gap-2 md:gap-4">
+        <div className="flex items-center gap-2 md:gap-4 flex-1 min-w-0">
           <Logo size="md" showWordmark withOrbit subtitle="LONG LIFE CAR" />
         </div>
 
-        <nav className="flex gap-1 flex-shrink min-w-0 overflow-x-auto">
+        <nav className="flex gap-2 flex-shrink-0 items-center justify-center" style={{ overflow: 'visible' }}>
           {tabs.map(t => {
             const isActive = location.pathname === t.path || (t.path === '/' && location.pathname === '/diagnostics')
             return (
@@ -65,56 +71,48 @@ export function MainLayout({ children }: { children: ReactNode }) {
                 onClick={() => navigate(t.path)}
                 className={`nav-btn ${isActive ? 'active' : ''}`}
               >
-                <span className="mr-1">{t.icon}</span>
                 <span className="hidden sm:inline">{t.label}</span>
               </button>
             )
           })}
         </nav>
 
-        <div className="flex items-end gap-5 self-end" style={{ marginBottom: -6 }}>
+        <div className="flex-1 flex justify-end items-center min-w-0">
           <div className="hidden md:flex" style={{
-            flexDirection: 'column',
-            alignItems: 'flex-start',
-            gap: 4,
+            position: 'relative',
+            alignItems: 'center',
           }}>
-            <span style={{
-              fontSize: 9,
-              fontFamily: 'var(--f-body)',
-              fontWeight: 600,
-              color: '#C8B48E',
-              textTransform: 'uppercase',
-              letterSpacing: '0.24em',
-              lineHeight: 1,
-              textShadow: '0 0 6px rgba(200,180,142,0.25)',
-            }}>КЛИЕНТ</span>
             <select
               value={clientHash}
               onChange={(e) => setClient(e.target.value)}
+              className="nav-btn"
               style={{
-                fontSize: 13,
-                fontFamily: 'var(--f-mono)',
-                fontWeight: 600,
-                color: 'var(--c-spectral)',
                 background: 'transparent',
-                border: 'none',
-                padding: 0,
-                letterSpacing: '0.08em',
-                lineHeight: 1,
                 cursor: 'pointer',
                 outline: 'none',
                 appearance: 'none',
                 WebkitAppearance: 'none',
                 MozAppearance: 'none',
+                paddingRight: 26,
               }}
             >
-              <option value="">Все клиенты</option>
-              <option value="b5f2f64851802f4859a3ffe3eda4b2d5">b5f2f6 (свежий)</option>
-              <option value="362f5a4a5f95127723509e28c392850f">362f5a</option>
-              <option value="1bba31ec949a958d87c46c41ef765c7e">1bba31</option>
-              <option value="5ce91d1aa578ca17f22c0c2afc009abc">5ce91d</option>
-              <option value="b79831a1b4c80fc7549998661e820bef">b79831</option>
+              <option value="">Клиент · все</option>
+              <option value="b5f2f64851802f4859a3ffe3eda4b2d5">Клиент · b5f2f6 (свежий)</option>
+              <option value="362f5a4a5f95127723509e28c392850f">Клиент · 362f5a</option>
+              <option value="1bba31ec949a958d87c46c41ef765c7e">Клиент · 1bba31</option>
+              <option value="5ce91d1aa578ca17f22c0c2afc009abc">Клиент · 5ce91d</option>
+              <option value="b79831a1b4c80fc7549998661e820bef">Клиент · b79831</option>
             </select>
+            <span style={{
+              position: 'absolute',
+              right: 10,
+              top: '50%',
+              transform: 'translateY(-55%)',
+              fontSize: 8,
+              color: 'rgba(239,242,247,0.45)',
+              pointerEvents: 'none',
+              letterSpacing: 0,
+            }}>{'\u25BE'}</span>
           </div>
         </div>
       </header>
