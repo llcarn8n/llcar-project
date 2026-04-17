@@ -63,28 +63,7 @@ export function MainLayout({ children }: { children: ReactNode }) {
         style={{ borderBottom: '1px solid var(--border-frost)' }}
       >
         <div className="flex items-center gap-2 md:gap-4">
-          <div className="flex flex-col">
-            <div className="flex items-center gap-2 md:gap-3">
-              <Logo size="md" showWordmark withOrbit />
-              <span
-                className="text-xs hidden lg:inline"
-                style={{
-                  color: 'var(--c-text-faint)',
-                  fontFamily: 'var(--f-mono)',
-                  letterSpacing: '0.24em',
-                  textTransform: 'uppercase',
-                }}
-              >LONG LIFE CAR</span>
-            </div>
-            {/* EKG pulse — UNDER logo */}
-            <div className="header-pulse hidden md:block" style={{ marginTop: -4, marginLeft: 2 }}>
-              <svg viewBox="0 0 320 32" className="header-pulse-svg">
-                <path className="pulse-path" style={{ '--pulse-color': '#FF9F1C' } as React.CSSProperties}
-                  d="M0,16 L20,16 L25,16 L30,4 L35,28 L40,10 L45,22 L50,16 L70,16 L80,16 L85,16 L90,4 L95,28 L100,10 L105,22 L110,16 L130,16 L140,16 L145,16 L150,4 L155,28 L160,10 L165,22 L170,16 L190,16 L200,16 L205,16 L210,4 L215,28 L220,10 L225,22 L230,16 L250,16 L260,16 L265,16 L270,4 L275,28 L280,10 L285,22 L290,16 L320,16"
-                />
-              </svg>
-            </div>
-          </div>
+          <Logo size="md" showWordmark withOrbit subtitle="LONG LIFE CAR" />
         </div>
 
         <nav className="flex gap-1 flex-shrink min-w-0 overflow-x-auto">
@@ -171,20 +150,6 @@ export function MainLayout({ children }: { children: ReactNode }) {
             </select>
           </div>
 
-          <button
-            onClick={toggleTheme}
-            className="theme-toggle"
-            title={isDarkMode ? 'Light mode' : 'Dark mode'}
-          >
-            {isDarkMode ? '\u2600' : '\u263E'}
-          </button>
-
-          <button
-            onClick={toggleSidebar}
-            className={`font-mono text-xl px-3 py-2 min-w-[44px] min-h-[44px] flex items-center justify-center ${isDarkMode ? 'text-white/40 hover:text-white/70' : 'text-gray-500 hover:text-gray-700'}`}
-          >
-            {sidebarOpen ? '\u2715' : '\u2630'}
-          </button>
         </div>
       </header>
 
