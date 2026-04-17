@@ -31,6 +31,8 @@ function CarBouncer({ activeSystem, groupRef }: {
   const pivotAxle = useRef<Map<WheelCorner, 'x' | 'y' | 'z'>>(new Map())
   const origY = useRef<Map<THREE.Object3D, number>>(new Map())
   const wheelRotation = useRef(0)
+  // Base Y чтобы низ шины лежал ровно на плоскости дороги (-0.52). Авто-калибровка после загрузки мешей.
+  const baseCarY = useRef(-0.15)
 
   const handleWheelRefs = useCallback((refs: WheelRefs, susp: THREE.Object3D | null) => {
     suspRefLocal.current = susp
@@ -43,6 +45,19 @@ function CarBouncer({ activeSystem, groupRef }: {
     const parent = groupRef.current
     if (!parent) return
     parent.updateMatrixWorld(true)
+
+    // Замер самой низкой точки шин в мире ДО перепарентинга в pivot.
+    const globalTireBox = new THREE.Box3()
+    let hasTire = false
+    for (const corner of Object.keys(refs) as WheelCorner[]) {
+      const tires = refs[corner].filter(m => (m.name ?? '').toLowerCase().includes('шина'))
+      for (const m of tires) { globalTireBox.expandByObject(m); hasTire = true }
+    }
+    if (hasTire) {
+      // Хотим: minTireWorldY = -0.52 (уровень дороги). Car Y сейчас = parent.position.y.
+      // delta = -0.52 - minTireWorldY, новая base = parent.position.y + delta.
+      baseCarY.current = parent.position.y + (-0.52 - globalTireBox.min.y)
+    }
 
     for (const corner of Object.keys(refs) as WheelCorner[]) {
       const meshes = refs[corner]
@@ -81,7 +96,7 @@ function CarBouncer({ activeSystem, groupRef }: {
   useFrame((_, delta) => {
     if (!groupRef.current) return
 
-    groupRef.current.position.y = -0.15 + bounceRef.y
+    groupRef.current.position.y = baseCarY.current + bounceRef.y
     groupRef.current.rotation.z = bounceRef.roll
     groupRef.current.rotation.x = bounceRef.pitch
 
@@ -117,23 +132,6 @@ function CarBouncer({ activeSystem, groupRef }: {
   )
 }
 
-function HorizonBloom() {
-  // Flat plane below car with radial amber gradient — evokes luxury-auto HUD horizon
-  return (
-    <mesh position={[0, -0.52, 0]} rotation={[-Math.PI / 2, 0, 0]}>
-      <circleGeometry args={[4.5, 64]} />
-      <meshBasicMaterial
-        color="#FF9F1C"
-        transparent
-        opacity={0.09}
-        blending={THREE.AdditiveBlending}
-        depthWrite={false}
-        side={THREE.DoubleSide}
-      />
-    </mesh>
-  )
-}
-
 function SceneContent({
   activeSystem, accelData,
 }: DiagnosticTwinCanvasProps) {
@@ -152,7 +150,6 @@ function SceneContent({
   return (
     <>
       <SceneSetup />
-      <HorizonBloom />
       <CarBouncer activeSystem={activeSystem} groupRef={carGroupRef} />
       <AccelWaves
         accelData={accelData ?? null}

@@ -43,18 +43,14 @@ const OBSTACLES: { type: ObsType; baseZ: number; x: number; label: string; sub: 
 function RoadStrip() {
   const roadMaterial = useMemo(() => new THREE.MeshBasicMaterial({
     color: '#26203A',
-    transparent: true,
-    opacity: 0.82,
     side: THREE.DoubleSide,
-    depthWrite: false,
   }), [])
 
   const lineMaterial = useMemo(() => new THREE.MeshBasicMaterial({
     color: '#EFF2F7',
     transparent: true,
-    opacity: 0.22,
+    opacity: 0.35,
     side: THREE.DoubleSide,
-    depthWrite: false,
   }), [])
 
   useEffect(() => {
