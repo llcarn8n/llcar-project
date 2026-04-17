@@ -107,8 +107,15 @@ export function CarWireframe({ activeSystem = null, onWheelRefs }: CarWireframeP
         const matCat = classifyMaterial(matName)
         // Material beats node when material clearly says interior/light but node says body.
         // Fixes inner door panels inside "Дверь_задняя_*_N" (split sub-meshes with koja/torpedka material).
+        // НО: для чистых экстерьерных панелей (багажник/капот/крыша/крыло/бампер/порог) node ВСЕГДА побеждает,
+        // иначе суб-меши с koja-материалом красятся бежевым и получаются «двухцветные» панели сзади сверху.
+        const nl0 = nodeName.toLowerCase()
+        const isHardExterior = nl0.includes('багажник') || nl0.includes('капот') ||
+          nl0.includes('крыша') || nl0.includes('крыло') || nl0.includes('бампер') ||
+          nl0.includes('порог') || nl0.includes('четвертные') || nl0.includes('лючок') ||
+          nl0.includes('молдинг') || nl0.includes('накладка')
         let cat: MaterialCategory
-        if ((matCat === 'interior' || matCat === 'light') && nodeCat === 'body') {
+        if ((matCat === 'interior' || matCat === 'light') && nodeCat === 'body' && !isHardExterior) {
           cat = matCat
         } else {
           cat = nodeCat ?? matCat
