@@ -1,4 +1,4 @@
-import { Suspense, useState, useEffect, useRef, useMemo, useCallback } from 'react'
+import { Suspense, useState, useEffect, useRef, useCallback } from 'react'
 import * as THREE from 'three'
 import { Canvas, useFrame } from '@react-three/fiber'
 import { EffectComposer, Bloom, Vignette } from '@react-three/postprocessing'

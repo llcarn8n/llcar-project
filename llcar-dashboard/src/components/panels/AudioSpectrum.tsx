@@ -15,12 +15,12 @@ interface AudioSpectrumProps {
   compact?: boolean
 }
 
-// Severity-based palette: blue = норма, amber/soft-amber = внимание, red = критично
+// Monochrome nebula palette: spectral → indigo gradient, red ONLY for critical HF noise
 const ZONES = [
-  { name: 'Дорога <100Гц',    key: 'road',    color: '#3b9eff', test: (f: number) => f < 100 },
-  { name: 'Двигатель 100-300Гц', key: 'engine', color: '#FF9F1C', test: (f: number) => f >= 100 && f < 300 },
-  { name: 'Оборудование 300-1кГц', key: 'acc', color: '#FFB84D', test: (f: number) => f >= 300 && f <= 1000 },
-  { name: 'ВЧ шум >1кГц',     key: 'hf',      color: '#ff2047', test: (f: number) => f > 1000 },
+  { name: 'Дорога <100Гц',    key: 'road',    color: '#EFF2F7', test: (f: number) => f < 100 },
+  { name: 'Двигатель 100-300Гц', key: 'engine', color: '#C8BFF0', test: (f: number) => f >= 100 && f < 300 },
+  { name: 'Оборудование 300-1кГц', key: 'acc', color: '#8A7AD8', test: (f: number) => f >= 300 && f <= 1000 },
+  { name: 'ВЧ шум >1кГц',     key: 'hf',      color: '#FF4A4A', test: (f: number) => f > 1000 },
 ] as const
 
 function groupByZone(sample: AudioSample): number[] {

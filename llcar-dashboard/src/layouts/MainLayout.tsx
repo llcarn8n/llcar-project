@@ -1,10 +1,8 @@
 import type { ReactNode } from 'react'
 import { useLocation, useNavigate } from 'react-router-dom'
 import { useDashboardStore } from '../stores/dashboardStore'
-import { useApiData } from '../hooks/useApiData'
 import { SidebarContent } from '../components/sidebar/SidebarContent'
 import { Logo } from '../components/Logo'
-import { theme } from '../theme'
 
 const tabs = [
   { path: '/', label: 'Диагностика', icon: '\u2B21' },
@@ -17,15 +15,7 @@ const tabs = [
 export function MainLayout({ children }: { children: ReactNode }) {
   const location = useLocation()
   const navigate = useNavigate()
-  const { sidebarOpen, toggleSidebar, clientHash, setClient, timeRange, isDarkMode, toggleTheme, vehicleProfile, openVehicleSetup, openConnectionWizard, resetVehicle } = useDashboardStore()
-
-  const { data: recentData } = useApiData<any[]>({
-    endpoint: '/api/data/',
-    params: { client: clientHash, minutes: 5, limit: 1 },
-    refreshInterval: 60_000,
-  })
-
-  const isOnline = Array.isArray(recentData) && recentData.length > 0
+  const { sidebarOpen, toggleSidebar, clientHash, setClient, timeRange, vehicleProfile, openVehicleSetup, openConnectionWizard } = useDashboardStore()
 
   return (
     <div className="min-h-screen overflow-x-hidden" style={{ backgroundColor: 'var(--bg-primary)' }}>
@@ -83,44 +73,6 @@ export function MainLayout({ children }: { children: ReactNode }) {
         </nav>
 
         <div className="flex items-end gap-5 self-end" style={{ marginBottom: -6 }}>
-          {vehicleProfile && (
-            <button
-              onClick={() => { resetVehicle(); navigate('/') }}
-              style={{
-                display: 'flex',
-                flexDirection: 'column',
-                alignItems: 'flex-start',
-                gap: 4,
-                padding: 0,
-                background: 'transparent',
-                border: 'none',
-                cursor: 'pointer',
-                whiteSpace: 'nowrap',
-              }}
-              title="Сменить автомобиль"
-            >
-              <span style={{
-                fontSize: 9,
-                fontFamily: 'var(--f-body)',
-                fontWeight: 600,
-                color: '#C8B48E',
-                textTransform: 'uppercase',
-                letterSpacing: '0.24em',
-                lineHeight: 1,
-                textShadow: '0 0 6px rgba(200,180,142,0.25)',
-              }}>АВТО ✕</span>
-              <span style={{
-                fontSize: 13,
-                fontFamily: 'var(--f-mono)',
-                fontWeight: 600,
-                color: 'var(--c-spectral)',
-                letterSpacing: '0.08em',
-                lineHeight: 1,
-              }}>
-                {vehicleProfile.brand} {vehicleProfile.model}
-              </span>
-            </button>
-          )}
           <div className="hidden md:flex" style={{
             flexDirection: 'column',
             alignItems: 'flex-start',

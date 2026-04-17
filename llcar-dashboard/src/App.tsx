@@ -1,5 +1,5 @@
 import { lazy, Suspense } from 'react'
-import { Routes, Route, Navigate } from 'react-router-dom'
+import { Routes, Route, Navigate, useLocation } from 'react-router-dom'
 import { MainLayout } from './layouts/MainLayout'
 import { ThemeProvider } from './components/shared/ThemeProvider'
 import { useDashboardStore } from './stores/dashboardStore'
@@ -16,6 +16,9 @@ const ErrorCodes = lazy(() => import('./pages/ErrorCodes').then(m => ({ default:
 const Diagnostics = lazy(() => import('./pages/Diagnostics').then(m => ({ default: m.Diagnostics })))
 const Resources = lazy(() => import('./pages/Resources').then(m => ({ default: m.Resources })))
 const Pricing = lazy(() => import('./pages/Pricing').then(m => ({ default: m.Pricing })))
+const NebulaDemo = lazy(() => import('./pages/NebulaDemo').then(m => ({ default: m.NebulaDemo })))
+const UnderwaterDemo = lazy(() => import('./pages/UnderwaterDemo').then(m => ({ default: m.UnderwaterDemo })))
+const DiagUnderwaterFullDemo = lazy(() => import('./pages/DiagUnderwaterFullDemo').then(m => ({ default: m.DiagUnderwaterFullDemo })))
 
 function PageLoader() {
   return (
@@ -44,6 +47,37 @@ function App() {
     showConnectionWizard,
     closeConnectionWizard,
   } = useDashboardStore()
+
+  const location = useLocation()
+
+  // Изолированные demo-роуты — минуют лэндинг и MainLayout
+  if (location.pathname === '/nebula-demo') {
+    return (
+      <ThemeProvider>
+        <Suspense fallback={<PageLoader />}>
+          <NebulaDemo />
+        </Suspense>
+      </ThemeProvider>
+    )
+  }
+  if (location.pathname === '/underwater-demo') {
+    return (
+      <ThemeProvider>
+        <Suspense fallback={<PageLoader />}>
+          <UnderwaterDemo />
+        </Suspense>
+      </ThemeProvider>
+    )
+  }
+  if (location.pathname === '/diag-underwater-full') {
+    return (
+      <ThemeProvider>
+        <Suspense fallback={<PageLoader />}>
+          <DiagUnderwaterFullDemo />
+        </Suspense>
+      </ThemeProvider>
+    )
+  }
 
   // No vehicle and no general mode → show landing
   const needsLanding = !vehicleProfile && mode !== 'general'

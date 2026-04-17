@@ -1,5 +1,8 @@
 import { Suspense, lazy, useState, useMemo } from 'react'
 import { ActiveDiagnosesFeed } from '../components/diagnostics/ActiveDiagnosesFeed'
+import { StatusBar } from '../components/diagnostics/StatusBar'
+import { SystemScoreCards } from '../components/diagnostics/SystemScoreCards'
+import { LiveTelemetryRibbon } from '../components/diagnostics/LiveTelemetryRibbon'
 
 const DiagnosticTwinCanvas = lazy(() => import('../components/three/DiagnosticTwinCanvas'))
 const SmartSphere = lazy(() => import('../components/three/SmartSphere').then(m => ({ default: m.SmartSphere })))
@@ -24,12 +27,10 @@ import { RulesList } from '../components/diagnostics/RulesList'
 import { DiagnosticSearch } from '../components/diagnostics/DiagnosticSearch'
 import { SuspensionTab } from '../components/panels/SuspensionTab'
 import { AudioTab } from '../components/panels/AudioTab'
-import { CanvasOverlayHUD } from '../components/diagnostics/CanvasOverlayHUD'
 import PartTooltip from '../components/three/PartTooltip'
 
 // V3 LUMEN primitives
 import { NebulaPanel } from '../components/ui/NebulaPanel'
-import { GhostButton } from '../components/ui/GhostButton'
 import { MiniSparkline } from '../components/ui/MiniSparkline'
 import { SkyOrb } from '../components/ui/SkyOrb'
 
@@ -39,20 +40,6 @@ const PseudoOrderPlot = lazy(() => import('../components/panels/PseudoOrderPlot'
 const RuleDetailDrawer = lazy(() => import('../components/diagnostics/RuleDetailDrawer'))
 
 type SystemKey = 'suspension' | 'engine' | 'electrical' | 'audio'
-
-const SYSTEMS: { key: SystemKey; name: string; short: string }[] = [
-  { key: 'suspension', name: 'Подвеска',  short: 'ПОДВ' },
-  { key: 'engine',     name: 'Двигатель', short: 'ДВС'  },
-  { key: 'electrical', name: 'Электрика', short: 'ЭЛЕК' },
-  { key: 'audio',      name: 'Аудио',     short: 'АУД'  },
-]
-
-const TIME_PILLS = [
-  { label: '1ч',  val: 60 },
-  { label: '24ч', val: 1440 },
-  { label: '7д',  val: 10080 },
-  { label: '30д', val: 43200 },
-]
 
 function statusFromScore(score: number): string {
   if (score >= 80) return 'NORMAL'
@@ -77,6 +64,8 @@ export function Diagnostics() {
   const expertMode = useDashboardStore(s => s.expertMode)
   const useV2Api = useDashboardStore(s => s.useV2Api)
   const openRuleDrawer = useDashboardStore(s => s.openRuleDrawer)
+  const vehicleProfile = useDashboardStore(s => s.vehicleProfile)
+  const resetVehicle = useDashboardStore(s => s.resetVehicle)
   const { report: v2Report, history: v2History, loading: v2Loading, error: _v2Error, sendFeedback, fetchLatest } = useDiagnosticV2(clientHash, timeRange)
   const [manualLoading, setManualLoading] = useState(false)
   const [activeSystem, setActiveSystem] = useState<SystemKey | null>(null)
@@ -177,7 +166,7 @@ export function Diagnostics() {
       </Suspense>
 
       {/* Bottom telemetry ribbon */}
-      <CanvasOverlayHUD pids={apiData?.pids} />
+      <LiveTelemetryRibbon pids={apiData?.pids} />
 
       {/* Part hover tooltip */}
       <PartTooltip />
@@ -187,166 +176,24 @@ export function Diagnostics() {
         <RuleDetailDrawer />
       </Suspense>
 
-      {/* Top time-strip: time-pills + can_drive on LEFT, vehicle/online/date on RIGHT */}
-      <div className="lumen-time-strip" style={{
-        position: 'absolute', top: 0, left: 0, right: 0, zIndex: 10,
-        display: 'flex', alignItems: 'center', justifyContent: 'space-between',
-        padding: '8px 14px',
-        borderBottom: '1px solid var(--c-spectral-divider)',
-        pointerEvents: 'none',
-      }}>
-        <div style={{ display: 'flex', alignItems: 'center', gap: 12, pointerEvents: 'auto', flexWrap: 'nowrap' }}>
-          {/* Time-pills — single row, no wrap */}
-          <div style={{ display: 'flex', gap: 4, flexWrap: 'nowrap' }}>
-            {TIME_PILLS.map(p => (
-              <GhostButton
-                key={p.val}
-                active={timeRange === p.val}
-                onClick={() => setTimeRange(p.val)}
-                variant="pill"
-                size="sm"
-                style={{ padding: '3px 10px', fontSize: 10, flex: '0 0 auto' }}
-              >
-                {p.label}
-              </GhostButton>
-            ))}
-          </div>
-
-          {/* can_drive pill */}
-          {v2Report?.can_drive && (() => {
-            const driveMap = {
-              safe: { label: 'МОЖНО ЕХАТЬ', color: '#6BE08F' },
-              caution: { label: 'ОСТОРОЖНО', color: '#E0B46B' },
-              stop: { label: 'СТОП', color: '#E06B6B' },
-            } as const
-            const drive = driveMap[v2Report.can_drive]
-            return (
-              <span style={{
-                display: 'inline-flex', alignItems: 'center', gap: 6,
-                fontFamily: 'var(--f-body)', fontSize: 9, fontWeight: 600,
-                letterSpacing: '0.22em', textTransform: 'uppercase',
-                color: drive.color,
-              }}>
-                <span style={{
-                  width: 6, height: 6, borderRadius: '50%',
-                  background: drive.color,
-                  boxShadow: `0 0 6px ${drive.color}`,
-                  animation: v2Report.can_drive === 'stop' ? 'canDrivePulse 1.4s ease-in-out infinite' : 'none',
-                }} />
-                {drive.label}
-              </span>
-            )
-          })()}
-          <style>{`
-            @keyframes canDrivePulse {
-              0%, 100% { box-shadow: 0 0 6px currentColor; opacity: 1; }
-              50% { box-shadow: 0 0 12px currentColor; opacity: 0.7; }
-            }
-          `}</style>
-        </div>
-
-        {/* Right cluster: date readout + online indicator */}
-        <div style={{ display: 'flex', alignItems: 'center', gap: 12, pointerEvents: 'auto' }}>
-          {(() => {
-            const isOnline = (apiData?.pids?.length ?? 0) > 0
-            return (
-              <div style={{ display: 'flex', alignItems: 'center', gap: 6 }}>
-                <span style={{
-                  width: 6, height: 6, borderRadius: '50%',
-                  backgroundColor: isOnline ? theme.status.ok : theme.text.muted,
-                  boxShadow: isOnline ? `0 0 6px ${theme.status.ok}` : 'none',
-                  animation: isOnline ? 'pulse-dot 2s ease-in-out infinite' : 'none',
-                }} />
-                <span style={{
-                  fontSize: 9, fontFamily: 'var(--f-body)',
-                  color: 'var(--c-spectral-faint)',
-                  letterSpacing: '0.22em', textTransform: 'uppercase',
-                }}>{isOnline ? 'Онлайн' : 'Офлайн'}</span>
-              </div>
-            )
-          })()}
-          <div style={{
-            fontSize: 9, fontFamily: 'var(--f-mono)',
-            color: 'var(--c-spectral-faint)', letterSpacing: '0.12em',
-          }}>
-            {(() => {
-              const now = new Date()
-              const from = new Date(now.getTime() - timeRange * 60 * 1000)
-              const fmt = (d: Date) => `${d.getDate().toString().padStart(2, '0')}.${(d.getMonth() + 1).toString().padStart(2, '0')} ${d.getHours().toString().padStart(2, '0')}:${d.getMinutes().toString().padStart(2, '0')}`
-              return `${fmt(from)} — ${fmt(now)}`
-            })()}
-          </div>
-        </div>
-      </div>
+      {/* Top time-strip */}
+      <StatusBar
+        timeRange={timeRange}
+        setTimeRange={setTimeRange}
+        canDrive={v2Report?.can_drive}
+        vehicleProfile={vehicleProfile}
+        onResetVehicle={resetVehicle}
+        isOnline={(apiData?.pids?.length ?? 0) > 0}
+      />
 
       {/* System tabs top-center */}
-      <div className="lumen-system-tabs" style={{
-        position: 'absolute',
-        top: 44,
-        left: '50%',
-        transform: 'translateX(-50%)',
-        zIndex: 20,
-        display: 'flex',
-        background: 'transparent',
-      }}>
-        {([
-          { key: null as SystemKey | null, label: 'ОБЗОР', value: overallScore as number | null, series: sparklines.overall },
-          ...SYSTEMS.map(s => ({ key: s.key as SystemKey | null, label: s.short, value: getScore(s.key), series: sparklines[s.key] })),
-        ]).map((t, i) => {
-          const active = activeSystem === t.key
-          return (
-            <button
-              key={t.label}
-              onClick={() => setActiveSystem(t.key)}
-              style={{
-                position: 'relative',
-                minWidth: 118,
-                padding: '10px 18px 12px',
-                border: 'none',
-                borderLeft: i === 0 ? 'none' : '1px solid rgba(200,180,142,0.22)',
-                cursor: 'pointer',
-                textAlign: 'left',
-                display: 'flex',
-                flexDirection: 'column',
-                justifyContent: 'center',
-                gap: 5,
-                background: active ? 'rgba(200,180,142,0.10)' : 'transparent',
-                boxShadow: active
-                  ? 'inset 0 -2px 0 0 #E6D4A8, 0 0 22px rgba(200,180,142,0.18)'
-                  : 'none',
-                transition: 'background 160ms var(--ease-hud), box-shadow 160ms var(--ease-hud)',
-              }}
-              onMouseEnter={e => { if (!active) e.currentTarget.style.background = 'rgba(200,180,142,0.05)' }}
-              onMouseLeave={e => { if (!active) e.currentTarget.style.background = 'transparent' }}
-            >
-              <span style={{
-                fontSize: 9,
-                fontFamily: 'var(--f-body)',
-                fontWeight: 700,
-                color: active ? '#F8ECC8' : '#E6D4A8',
-                textTransform: 'uppercase',
-                letterSpacing: '0.26em',
-                lineHeight: 1,
-                textShadow: active
-                  ? '0 0 12px rgba(230,212,168,0.7), 0 0 4px rgba(230,212,168,0.4)'
-                  : '0 0 6px rgba(230,212,168,0.35)',
-              }}>{t.label}</span>
-              <div style={{ display: 'flex', alignItems: 'flex-end', gap: 6 }}>
-                <span style={{
-                  fontSize: 16,
-                  fontFamily: 'var(--f-mono)',
-                  fontWeight: 400,
-                  color: t.value == null ? 'var(--c-spectral-muted)' : (active ? '#FFFFFF' : '#EFF2F7'),
-                  lineHeight: 1,
-                  fontVariantNumeric: 'tabular-nums',
-                  textShadow: active ? '0 0 10px rgba(239,242,247,0.45)' : '0 0 4px rgba(239,242,247,0.20)',
-                }}>{t.value == null ? '—' : t.value}</span>
-                <MiniSparkline data={t.series} width={44} height={12} />
-              </div>
-            </button>
-          )
-        })}
-      </div>
+      <SystemScoreCards
+        overallScore={overallScore}
+        getScore={getScore}
+        sparklines={sparklines}
+        activeSystem={activeSystem}
+        setActiveSystem={setActiveSystem}
+      />
 
       {/* HEALTH SCORE — left overlay */}
       <div className="lumen-health-hud" style={{

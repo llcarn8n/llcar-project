@@ -150,7 +150,7 @@ export function AccelChart3D({ data, compact = true }: AccelChart3DProps) {
           const timeStr = idx >= 0 && idx < times.length
             ? new Date(times[idx]).toLocaleTimeString('ru-RU', { hour: '2-digit', minute: '2-digit', second: '2-digit' })
             : '--'
-          return `<span style="color:#FF9F1C;font-weight:600;">Время: ${timeStr}</span><br>`
+          return `<span style="color:#6B5AE0;font-weight:600;">Время: ${timeStr}</span><br>`
             + `X бок.: <b>${d[0]?.toFixed(2) ?? '--'}</b> м/с²<br>`
             + `Y прод.: <b>${d[1]?.toFixed(2) ?? '--'}</b> м/с²<br>`
             + `Z верт.: <b>${d[2]?.toFixed(2) ?? '--'}</b> м/с²<br>`
@@ -162,7 +162,7 @@ export function AccelChart3D({ data, compact = true }: AccelChart3DProps) {
         min: 0,
         max: maxVib,
         dimension: 3,
-        inRange: { color: ['#3b9eff', '#4ade80', '#FF9F1C', '#ff2047'] },
+        inRange: { color: ['#EFF2F7', '#C8BFF0', '#8A7AD8', '#6B5AE0', '#FF4A4A'] },
         textStyle: { color: '#aaa', fontFamily: "var(--f-mono)", fontSize: 10 },
         right: 10,
         top: 10,

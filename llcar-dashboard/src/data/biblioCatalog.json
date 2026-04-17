@@ -1,0 +1,633 @@
+[
+  {
+    "id": "1",
+    "citation": "Thite, A.N., Coleman, F., Doody, M., Fisher, N. (2017). Experimentally validated dynamic results of a relaxation-type quarter car suspension with an adjustable damper. Journal of Low Frequency Noise, Vibration and Active Control, 36(2), 148–159. DOI: 10.1177/0263092317711989",
+    "doi": "10.1177/0263092317711989",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "2",
+    "citation": "Franczyk, B., Maniowski, M., Gołdasz, J. (2024). Frequency-dependent automotive suspension damping systems: State of the art review. Proc. IMechE Part D: Journal of Automobile Engineering, 238(9), 2491–2503. DOI: 10.1177/09544070231174280",
+    "doi": "10.1177/09544070231174280",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "3",
+    "citation": "Zdanowicz, P., Guzek, M. (2021). Diagnostics of the On-Vehicle Shock Absorber Testing. Communications – Scientific Letters of the University of Žilina, 23(3), B178–B186. DOI: 10.26552/com.C.2021.3.B178-B186",
+    "doi": "10.26552/com.C.2021.3.B178-B186",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "4",
+    "citation": "Carniel, E.L. (2025). Analytical characterization of viscoelasticity in Zener and generalized Zener models under typical loading conditions. Mechanics of Time-Dependent Materials, 29, 70. DOI: 10.1007/s11043-025-09810-y",
+    "doi": "10.1007/s11043-025-09810-y",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "5",
+    "citation": "MDPI Materials (2021). Identification of the Fractional Zener Model Parameters for a Viscoelastic Material over a Wide Range of Frequencies and Temperatures. Materials, 14(22), 7024. DOI: 10.3390/ma14227024",
+    "doi": "10.3390/ma14227024",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "6",
+    "citation": "Jugulkar, L.M., Singh, S., Sawant, S.M. (2016). Analysis of suspension with variable stiffness and variable damping force for automotive applications. Advances in Mechanical Engineering, 8(5). DOI: 10.1177/1687814016648638",
+    "doi": "10.1177/1687814016648638",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "7",
+    "citation": "Borowiec, M. et al. (2022). A comprehensive diagnostic system for vehicle suspensions based on a neural classifier and wavelet resonance estimators. Measurement, 200, 111602. DOI: 10.1016/j.measurement.2022.111602",
+    "doi": "10.1016/j.measurement.2022.111602",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "8",
+    "citation": "Fault detection of vehicle suspension system using wavelet analysis. Vehicle System Dynamics, 47(4). DOI: 10.1080/00423110802094298",
+    "doi": "10.1080/00423110802094298",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "9",
+    "citation": "Du, X., Mai, L., Sadjadi, H. (2021). Suspension Fault Diagnostics Using Vehicle Pitch and Roll Models. Annual Conference of the PHM Society, Vol. 13, No. 1. https://papers.phmsociety.org/index.php/phmconf/article/view/2975",
+    "url": "https://papers.phmsociety.org/index.php/phmconf/article/view/2975",
+    "type": "other"
+  },
+  {
+    "id": "10",
+    "citation": "Balaji, P.A., Sugumaran, V. (2024). Fault detection of automobile suspension system using decision tree algorithms: A machine learning approach. Proc. IMechE Part E: Journal of Process Mechanical Engineering. DOI: 10.1177/09544089231152698",
+    "doi": "10.1177/09544089231152698",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "11",
+    "citation": "Rosenstein, M.T., Collins, J.J., De Luca, C.J. (1993). A practical method for calculating largest Lyapunov exponents from small data sets. Physica D, 65(1–2), 117–134. DOI: 10.1016/0167-2789(93)90009-P",
+    "doi": "10.1016/0167-2789(93)90009-P",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "12",
+    "citation": "MDPI Applied Sciences (2024). Control Lyapunov Function + Control Barrier Function for active quarter-car suspension. Applied Sciences, 14(8), 3140. DOI: 10.3390/app14083140",
+    "doi": "10.3390/app14083140",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "13",
+    "citation": "Yin, S., Huang, Z. (2015). Performance Monitoring for Vehicle Suspension System via Fuzzy Positivistic C-Means Clustering Based on Accelerometer Measurements. IEEE/ASME Transactions on Mechatronics, 20(3), 1461–1472. DOI: 10.1109/TMECH.2014.2347244",
+    "doi": "10.1109/TMECH.2014.2347244",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "14",
+    "citation": "Dragomiretskiy, K., Zosso, D. (2014). Variational Mode Decomposition. IEEE Transactions on Signal Processing, 62(3), 531–544. DOI: 10.1109/TSP.2013.2288675",
+    "doi": "10.1109/TSP.2013.2288675",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "15",
+    "citation": "Ma, J. et al. (2022). Rolling bearing fault diagnosis based on improved VMD-adaptive wavelet threshold denoising. Advances in Mechanical Engineering. DOI: 10.1177/16878132221128397",
+    "doi": "10.1177/16878132221128397",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "16",
+    "citation": "An, X. et al. (2021). Parameter-Optimized VMD for Fault Feature Extraction of Rolling Element Bearings. Mathematical Problems in Engineering. DOI: 10.1155/2021/6629474",
+    "doi": "10.1155/2021/6629474",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "17",
+    "citation": "Wang, Y. et al. (2015). Comparative study between VMD and EMD in bearing fault diagnosis. Proc. IMCEC, IEEE. DOI: 10.1109/IMCEC.2015.7036515",
+    "doi": "10.1109/IMCEC.2015.7036515",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "18",
+    "citation": "Park, S. et al. (2024). Deep learning-based fault classification using CEEMD-VMD-IMF with magnitude scalogram images. J Mech Sci Technol. DOI: 10.1007/s12206-024-0905-3",
+    "doi": "10.1007/s12206-024-0905-3",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "19",
+    "citation": "Li, Y. et al. (2017). Identification of shock absorber squeak and rattle noise via Wavelet Packet Transform and GA-SVM. Applied Acoustics. DOI: 10.1016/j.apacoust.2016.06.008",
+    "doi": "10.1016/j.apacoust.2016.06.008",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "20",
+    "citation": "Towards better benchmarking using the CWRU bearing fault dataset. Mechanical Systems and Signal Processing. DOI: 10.1016/j.ymssp.2021.108588",
+    "doi": "10.1016/j.ymssp.2021.108588",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "21",
+    "citation": "Al-Bugharbee, H. et al. (2024). Diagnosing Faults in Suspension System Using Machine Learning and Feature Fusion Strategy. Arabian Journal for Science and Engineering. DOI: 10.1007/s13369-024-08924-8",
+    "doi": "10.1007/s13369-024-08924-8",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "22",
+    "citation": "Comparative study of ML and DL for fault diagnosis in automotive suspension system. J Brazilian Society of Mechanical Sciences and Engineering, 2023. DOI: 10.1007/s40430-023-04145-6",
+    "doi": "10.1007/s40430-023-04145-6",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "23",
+    "citation": "Sánchez, R.V. et al. (2018). Feature ranking for multi-fault diagnosis of rotating machinery by using random forest and KNN. J Intelligent & Fuzzy Systems. DOI: 10.3233/JIFS-169526",
+    "doi": "10.3233/JIFS-169526",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "24",
+    "citation": "CNN-GRU-MHA framework for RUL prediction under variable loads. MDPI Applied Sciences, 2024. DOI: 10.3390/app14199039",
+    "doi": "10.3390/app14199039",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "25",
+    "citation": "Fenga, L. (2025). Stochastic Modeling and Time-Frequency Analysis for Predictive Maintenance of Automotive Suspension Systems. Applied Stochastic Models in Business and Industry, Wiley. DOI: 10.1002/asmb.70013",
+    "doi": "10.1002/asmb.70013",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "26",
+    "citation": "Method for Predicting RUL of Bearings under Different Operating Conditions Based on Transfer Learning and Few Labeled Data. MDPI Sensors, 2023. DOI: 10.3390/s23010227",
+    "doi": "10.3390/s23010227",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "27",
+    "citation": "Vibration-based anomaly detection using LSTM/SVM (semi-supervised). Mechanical Systems and Signal Processing, 2021. DOI: 10.1016/j.ymssp.2021.108502",
+    "doi": "10.1016/j.ymssp.2021.108502",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "28",
+    "citation": "Cause-effect relationship between model parameters and damping performance of hydraulic shock absorbers. International Journal of Non-Linear Mechanics, 2024. DOI: 10.1016/j.ijnonlinmec.2023.104614 (arXiv: 2312.17175)",
+    "doi": "10.1016/j.ijnonlinmec.2023.104614",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "29",
+    "citation": "Simulation analysis of the EUSAMA Plus suspension testing method. IOP Conf. Series: Materials Science and Engineering, 2016. DOI: 10.1088/1757-899X/148/1/012034",
+    "doi": "10.1088/1757-899X/148/1/012034",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "30",
+    "citation": "Royal Society Interface (2020). Effect of data length on Lyapunov exponent reliability. DOI: 10.1098/rsif.2020.0311",
+    "doi": "10.1098/rsif.2020.0311",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "31",
+    "citation": "Surviving Bearing Fault Stage I–IV. Acoem / Commtest Application Note.",
+    "type": "other"
+  },
+  {
+    "id": "32",
+    "citation": "Wear of rubber-to-metal bonded joints in vehicle suspension bushings. International Journal of Fatigue, 2006. DOI: 10.1016/j.ijfatigue.2005.08.005",
+    "doi": "10.1016/j.ijfatigue.2005.08.005",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "33",
+    "citation": "Tribological behaviour of ball joint under fretting conditions. Tribology International, 2017. DOI: 10.1016/j.triboint.2017.03.024",
+    "doi": "10.1016/j.triboint.2017.03.024",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "34",
+    "citation": "Wear mechanisms in automotive ball joints under combined loading. Tribology International, 2019. DOI: 10.1016/j.triboint.2019.04.035",
+    "doi": "10.1016/j.triboint.2019.04.035",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "35",
+    "citation": "Fatigue life assessment of automotive ball joints. Wear, 2018. DOI: 10.1016/j.wear.2018.04.012",
+    "doi": "10.1016/j.wear.2018.04.012",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "36",
+    "citation": "Few-Shot Learning Approaches for Fault Diagnosis Using Vibration Data. MDPI Sustainability, 2023. DOI: 10.3390/su152014975",
+    "doi": "10.3390/su152014975",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "37",
+    "citation": "Minimum sample size determination of vibration signals in ML fault diagnosis. Expert Systems with Applications, 2011. DOI: 10.1016/j.eswa.2010.07.075",
+    "doi": "10.1016/j.eswa.2010.07.075",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "38",
+    "citation": "Comparative Study of Time-Frequency Representations for Bearing Fault Diagnosis Using Vision Transformer. MDPI Machines, 2025. DOI: 10.3390/machines13080737",
+    "doi": "10.3390/machines13080737",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "39",
+    "citation": "Unsupervised Bearing Fault Diagnosis Using Masked SSL and Swin Transformer. MDPI Machines, 2025. DOI: 10.3390/machines13090792",
+    "doi": "10.3390/machines13090792",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "40",
+    "citation": "Fault Diagnosis Method Based on Swin Transformer and Generalized S Transform. MDPI Mathematics, 2025. DOI: 10.3390/math13010045",
+    "doi": "10.3390/math13010045",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "41",
+    "citation": "Intelligent Fault Diagnosis of Industrial Bearings Using Transfer Learning and CNNs Pre-Trained for Audio Classification. MDPI Sensors, 2023. DOI: 10.3390/s23010211",
+    "doi": "10.3390/s23010211",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "42",
+    "citation": "Vibration-based fault diagnosis of automotive suspension systems using voting-based ensemble learning. Scientific African, 2025. DOI: 10.1016/j.sciaf.2025.e02688",
+    "doi": "10.1016/j.sciaf.2025.e02688",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "43",
+    "citation": "Remaining Useful Life Prediction Based on Deep Learning: A Survey. MDPI Sensors, 2024. DOI: 10.3390/s24113454",
+    "doi": "10.3390/s24113454",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "44",
+    "citation": "Park, K., Kim, J-W. (2025). RUL Prediction of Bearings via Semi-Supervised Transfer Learning Based on Anti-Self-Healing Health Indicator. MDPI Sensors. DOI: 10.3390/s25123662",
+    "doi": "10.3390/s25123662",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "45",
+    "citation": "Wen, Y. et al. (2018). Bearing RUL Prediction Based on a Nonlinear Wiener Process. Shock and Vibration. DOI: 10.1155/2018/4068431",
+    "doi": "10.1155/2018/4068431",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "46",
+    "citation": "MDPI Machines (2023). Deep transfer learning for suspension fault diagnosis using spectrogram image and CNN. DOI: 10.3390/machines11080778",
+    "doi": "10.3390/machines11080778",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "47",
+    "citation": "Ymssp (2021). Mechanical Systems and Signal Processing: ML suspension diagnostics. DOI: 10.1016/j.ymssp.2021.108736",
+    "doi": "10.1016/j.ymssp.2021.108736",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "48",
+    "citation": "Ymssp (2005). Mechanical Systems and Signal Processing: damping identification. DOI: 10.1016/j.ymssp.2005.12.002",
+    "doi": "10.1016/j.ymssp.2005.12.002",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "49",
+    "citation": "Ymssp (2010). Mechanical Systems and Signal Processing: suspension parameter estimation. DOI: 10.1016/j.ymssp.2010.07.014",
+    "doi": "10.1016/j.ymssp.2010.07.014",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "50",
+    "citation": "Novel health indicator + LLE (Lyapunov) for bearing diagnostics. Measurement, 2020. DOI: (ScienceDirect: S0263224120305406)",
+    "type": "other"
+  },
+  {
+    "id": "51",
+    "citation": "LLE for low-speed slew bearing fault diagnosis. Mechanical Systems and Signal Processing, 2014. DOI: (ScienceDirect: S0888327014001873)",
+    "type": "other"
+  },
+  {
+    "id": "52",
+    "citation": "Konieczny L., Filipczyk J. (2022). Technical condition diagnostics of vehicle shock absorbers using MAHA FWT-2 test bench. Diagnostyka, 23(4):2022415. DOI: 10.29354/diag/156917 Используется в: A.32 (BOGE/MAHA FWT), обзор альтернатив EUSAMA.",
+    "doi": "10.29354/diag/156917",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "53",
+    "citation": "Klapka M. et al. (2017). Twilight of the EUSAMA diagnostic methodology. Meccanica, 52(1–2):265–278. DOI: 10.1007/s11012-016-0566-0 Используется в: A.20 (EUSAMA ограничения), A.32 (BOGE сравнение), A.33 (Phase Angle vs EUSAMA).",
+    "doi": "10.1007/s11012-016-0566-0",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "54",
+    "citation": "Calvo J.A. et al. (2005). An experimental method to study the dynamic response of shock absorbers. International Journal of Vehicle Design, 38(2/3):172–188. DOI: 10.1504/IJVD.2005.007623 Используется в: A.34 (Half-Power Bandwidth Method, первоисточник порогов ζ).",
+    "doi": "10.1504/IJVD.2005.007623",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "55",
+    "citation": "Tsymberov A. (1996). An improved non-intrusive automotive suspension testing apparatus with means to determine the condition of the dampers. SAE Technical Paper 960735. DOI: 10.4271/960735 Используется в: A.33 (Phase Angle Method, первоисточник порогов U_min). ПРИМЕЧАНИЕ: пороги U_min — это Tsymberov 1996, а НЕ Konieczny 2022.",
+    "doi": "10.4271/960735",
+    "type": "standard"
+  },
+  {
+    "id": "56",
+    "citation": "Fyfe K.R., Munck E.D.S. (1997). Analysis of computed order tracking. Mechanical Systems and Signal Processing, 11(2):187–205. DOI: 10.1006/mssp.1996.0056 Используется в: A.27 (Computed Order Tracking, первоисточник алгоритма).",
+    "doi": "10.1006/mssp.1996.0056",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "57",
+    "citation": "Antoni J. (2006). The spectral kurtosis: a useful tool for characterising non-stationary signals. Mechanical Systems and Signal Processing, 20(2):282–307. DOI: 10.1016/j.ymssp.2004.09.001 Используется в: A.26 (SK определение), A.30 (full bearing pipeline).",
+    "doi": "10.1016/j.ymssp.2004.09.001",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "58",
+    "citation": "Antoni J. (2007). Fast computation of the kurtogram for the detection of transient faults. Mechanical Systems and Signal Processing, 21(1):108–124. DOI: 10.1016/j.ymssp.2005.12.002 Используется в: A.26 (Fast Kurtogram алгоритм), правило 6.4 shadow.",
+    "doi": "10.1016/j.ymssp.2005.12.002",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "59",
+    "citation": "Randall R.B., Antoni J. (2011). Rolling element bearing diagnostics — A tutorial. Mechanical Systems and Signal Processing, 25(2):485–520. DOI: 10.1016/j.ymssp.2010.07.017 Используется в: A.30 (full bearing pipeline — основная ссылка), A.26, A.27.",
+    "doi": "10.1016/j.ymssp.2010.07.017",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "60",
+    "citation": "Carlucci A.P., Chiara F.F., Laforgia D. (2006). Vibration-based combustion monitoring in a common-rail diesel engine. Journal of Sound and Vibration, 295(1–2):141–164. DOI: 10.1016/j.jsv.2005.12.054 Используется в: A.28 (cyclostationary, misfire O=0.5 — только качественно).",
+    "doi": "10.1016/j.jsv.2005.12.054",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "61",
+    "citation": "Peng Z.K., Chu F.L. (2004). Application of the wavelet transform in machine condition monitoring and fault diagnostics. Mechanical Systems and Signal Processing, 18(2):199–221. DOI: 10.1016/S0888-3270(03)00075-X Используется в: A.29 (wavelet обзор).",
+    "doi": "10.1016/S0888-3270(03)00075-X",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "62",
+    "citation": "Hryciów Z. et al. (2021). The influence of shock absorber wear on vehicle dynamic properties. Eksploatacja i Niezawodność, 23(2):274–282. DOI: 10.17531/ein.2021.2.14 Используется в: A.34 (HPBM асимметрия пика при нелинейном demping).",
+    "doi": "10.17531/ein.2021.2.14",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "63",
+    "citation": "Draper C.S. (1938). Physical effects of detonation in a closed cylindrical chamber. NACA Technical Report No. 493. DOI: 10.2514/8.590 Используется в: A.31 (формула частоты детонации, ρ=1.841). ПРИМЕЧАНИЕ: корректный год — 1938 (в некоторых источниках ошибочно 1933).",
+    "doi": "10.2514/8.590",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "64",
+    "citation": "Antoni J. et al. (2004). Cyclostationary modelling of rotating machine vibration signals. Mechanical Systems and Signal Processing, 18(6):1285–1314. DOI: 10.1016/S0888-3270(03)00088-8 Используется в: A.27 (COT), A.28 (cyclostationary framework, первоисточник).",
+    "doi": "10.1016/S0888-3270(03)00088-8",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "65",
+    "citation": "Gobbi M. et al. (2008). Optimal design of complex mechanical systems with applications to vehicle engineering — quarter-car case. Meccanica, 43(6):649–664. DOI: 10.1007/s11012-008-9119-5 Используется в: A.34 (HPBM валидация).",
+    "doi": "10.1007/s11012-008-9119-5",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "66",
+    "citation": "Brecq G. et al. (2003). A new indicator for knock detection in gas SI engines. SAE Technical Paper 2003-01-1915. DOI: 10.4271/2003-01-1915 Используется в: A.31 (верификация Draper формулы, (1,0) мода ρ=1.841).",
+    "doi": "10.4271/2003-01-1915",
+    "type": "standard"
+  },
+  {
+    "id": "67",
+    "citation": "Di Gaeta A. et al. (2018). A new physics-based model of engine knock for advanced spark-timing control. Applied Energy, 221:1–11. DOI: 10.1016/j.apenergy.2018.03.100 Используется в: A.31 (современное подтверждение Draper при переменной c(T)).",
+    "doi": "10.1016/j.apenergy.2018.03.100",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "68",
+    "citation": "Daubechies I. (1988). Orthonormal bases of compactly supported wavelets. Communications on Pure and Applied Mathematics, 41(7):909–996. DOI: 10.1002/cpa.3160410705 Используется в: A.29 (DWT ортогональные базисы).",
+    "doi": "10.1002/cpa.3160410705",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "69",
+    "citation": "Mallat S. (1989). A theory for multiresolution signal decomposition: the wavelet representation. IEEE Trans. PAMI, 11(7):674–693. DOI: 10.1109/34.192463 Используется в: A.29 (пирамидальный DWT, QMF).",
+    "doi": "10.1109/34.192463",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "70",
+    "citation": "Ho D., Randall R.B. (2000). Optimisation of bearing diagnostic techniques using simulated and actual bearing fault signals (SANC). Mechanical Systems and Signal Processing, 14(5):763–788. DOI: 10.1006/mssp.2000.1304 Используется в: A.30 (SANC — шаг 1 full bearing pipeline).",
+    "doi": "10.1006/mssp.2000.1304",
+    "type": "peer-reviewed"
+  },
+  {
+    "id": "S1",
+    "citation": "ISO 2631-1:1997 — Mechanical vibration and shock. Evaluation of human exposure to whole-body vibration. Part 1: General requirements. iso.org/standard/7612.html",
+    "type": "standard"
+  },
+  {
+    "id": "S2",
+    "citation": "ISO 2631-5:2018 — Mechanical vibration and shock. Method for evaluation of vibration containing multiple shocks. iso.org/standard/50905.html",
+    "type": "standard"
+  },
+  {
+    "id": "S3",
+    "citation": "ISO 8608:2016 — Mechanical vibration. Road surface profiles. Reporting of measured data.",
+    "type": "standard"
+  },
+  {
+    "id": "S4",
+    "citation": "ISO 10816-3:2009 — Mechanical vibration. Evaluation of machine vibration by measurements on non-rotating parts. Part 3: Industrial machines.",
+    "type": "standard"
+  },
+  {
+    "id": "S5",
+    "citation": "ISO 13373-1:2002 — Condition monitoring and diagnostics of machines. Vibration condition monitoring. Part 1: General procedures.",
+    "type": "standard"
+  },
+  {
+    "id": "S6",
+    "citation": "ISO 13381-1:2015 — Condition monitoring and diagnostics of machines. Prognostics. Part 1: General guidelines. (Обновлено в ISO 13381-1:2025)",
+    "type": "standard"
+  },
+  {
+    "id": "S7",
+    "citation": "ISO 16063-1:1998 — Methods for the calibration of vibration and shock transducers. Part 1: Basic concepts.",
+    "type": "standard"
+  },
+  {
+    "id": "S8",
+    "citation": "SAE J1367:1997 — Hydraulic Shock Absorbers (Passenger Car and Light Truck).",
+    "type": "standard"
+  },
+  {
+    "id": "S9",
+    "citation": "SAE J1979:2012 — E/E Diagnostic Test Modes (OBD-II PID definitions).",
+    "type": "standard"
+  },
+  {
+    "id": "S10",
+    "citation": "SAE J2012:2015 — Diagnostic Trouble Code Definitions (DTC J2012).",
+    "type": "standard"
+  },
+  {
+    "id": "S11",
+    "citation": "EUSAMA TR 2000 — EUSAMA Technical Report: Suspension testing methodology on vehicle platforms (sweep 25→0 Hz, amplitude 3 mm).",
+    "type": "standard"
+  },
+  {
+    "id": "S12",
+    "citation": "ISO 15765-4:2016 — Road vehicles. Diagnostics on CAN networks. Part 4: Requirements for emission-related systems.",
+    "type": "standard"
+  },
+  {
+    "id": "S13",
+    "citation": "ISO 13400-2:2019 — Road vehicles. Diagnostic communication over Internet Protocol (DoIP). Part 2: Transport protocol and network layer services.",
+    "type": "standard"
+  },
+  {
+    "id": "S14",
+    "citation": "GOST 33997-2016 — Колёсные транспортные средства. Требования к безопасности и методы испытаний (Россия/ЕАЭС).",
+    "type": "standard"
+  },
+  {
+    "id": "S15",
+    "citation": "ISO 5347-3:1993 — Methods for the calibration of vibration and shock pick-ups. Part 3: Secondary vibration calibration.",
+    "type": "standard"
+  },
+  {
+    "id": "S16",
+    "citation": "ISO 20816-3:2022 — Mechanical vibration. Measurement and evaluation of machine vibration. Part 3: Industrial machinery with nominal power above 15 kW. (Заменяет ISO 10816-3:2009 [S4]). Используется в: диагностика вращающихся узлов (подшипники, роторы турбо) — обновлённая альтернатива S4.",
+    "type": "standard"
+  },
+  {
+    "id": "S17",
+    "citation": "ISO 21940-11:2016 — Mechanical vibration. Rotor balancing. Part 11: Procedures and tolerances for rotors with rigid behaviour. (Заменяет ISO 1940-1:2003). Используется в: A.27 Order Tracking (балансировочные пороги на порядке O=1), будущее правило wheel_balance_OBD.",
+    "type": "standard"
+  },
+  {
+    "id": "S18",
+    "citation": "ISO 13373-3:2015 — Condition monitoring and diagnostics of machines. Vibration condition monitoring. Part 3: Guidelines for vibration diagnosis. Используется в: A.9 Envelope Analysis, A.30 bearing pipeline.",
+    "type": "standard"
+  },
+  {
+    "id": "S19",
+    "citation": "ISO 15242-1:2015 — Rolling bearings. Measuring methods for vibration. Part 1: Fundamentals. Используется в: A.8 BPFO/BPFI, A.30 full bearing pipeline.",
+    "type": "standard"
+  },
+  {
+    "id": "S20",
+    "citation": "ISO 18431-1:2005 — Mechanical vibration and shock. Signal processing. Part 1: General introduction. Используется в: A.10 FFT, A.26 Spectral Kurtosis, A.29 Wavelet.",
+    "type": "standard"
+  },
+  {
+    "id": "S21",
+    "citation": "VDI 3832:2013 — Measurement of structure-borne sound of rolling element bearings in machines and plants for evaluation of condition. Используется в: A.9 Envelope Analysis, A.30 bearing pipeline (немецкий аналог ISO 13373-3).",
+    "type": "standard"
+  },
+  {
+    "id": "S22",
+    "citation": "Directive 2014/45/EU — Periodic roadworthiness tests for motor vehicles and their trailers. Official Journal L 127, 29.4.2014, p. 51. Используется в: A.20 EUSAMA, A.32 BOGE/MAHA FWT, A.33 Phase Angle — нормативная база для стендовых методов ТО в ЕС.",
+    "type": "standard"
+  },
+  {
+    "id": "S23",
+    "citation": "SAE J670:2008 — Vehicle Dynamics Terminology. Используется в: A.2 Half-Car, A.3 Quarter-Car — стандарт терминологии (wheel hop, heave, pitch, roll).",
+    "type": "standard"
+  },
+  {
+    "id": "S24",
+    "citation": "EUSAMA TS-02/76 — EUSAMA Technical Specification 02/76: Recommendations for the testing of the suspension dampers on vehicles (первоисточник 1976 г., sweep 25→0 Hz, амплитуда 3 мм, W_E метрика). Используется в: A.20 EUSAMA (оригинальная методология, переиздан как EUSAMA TR 2000 [S11]). ПРИМЕЧАНИЕ: конкретные пороги W_E ≥ 61% / 41% / 21% НЕ присутствуют в TS-02/76 1976 г. — это vendor consensus MAHA/Hofmann/Boge (подтверждено Guzek 2021).",
+    "type": "standard"
+  },
+  {
+    "id": "V1",
+    "citation": "Acoem / Commtest — Bearing Fault Stage Classification (I–IV). Application Note: \"Four Stages of Bearing Failure\".",
+    "type": "vendor-doc"
+  },
+  {
+    "id": "V2",
+    "citation": "MTS Systems — Shock Absorber Test Systems. Application Guide. Описание методологии shock dyno (F-V curves, ±50 мм ход).",
+    "type": "vendor-doc"
+  },
+  {
+    "id": "V3",
+    "citation": "National Instruments / NI — Human Vibration Weighting Filters in LabVIEW Sound and Vibration. Technical Note. ni.com/en/support/documentation/supplemental/08/human-vibration-weighting-filters",
+    "type": "vendor-doc"
+  },
+  {
+    "id": "V4",
+    "citation": "SKF Bearing Catalogue — Bearing frequency calculation formulas (BPFO/BPFI/BSF/FTF), geometry parameters for hub bearings.",
+    "type": "vendor-doc"
+  },
+  {
+    "id": "V5",
+    "citation": "Bosch OBD II Technical Reference — PID 0x0C (RPM), 0x0D (Vehicle Speed), 0x05 (Coolant Temperature), 0x11 (Throttle Position).",
+    "type": "vendor-doc"
+  },
+  {
+    "id": "V6",
+    "citation": "vmdpy Python Library — GitHub: vrcarva/vmdpy. VMD Python implementation. Dragomiretskiy & Zosso MATLAB port.",
+    "type": "vendor-doc"
+  },
+  {
+    "id": "V7",
+    "citation": "nolds Python Library — GitHub: CSchoel/nolds. Nonlinear dynamics measures including Lyapunov exponents, DFA, Hurst exponent.",
+    "type": "vendor-doc"
+  },
+  {
+    "id": "V8",
+    "citation": "librosa — Audio analysis library. HPSS, STFT, spectral features. librosa.github.io",
+    "type": "vendor-doc"
+  },
+  {
+    "id": "V9",
+    "citation": "scikit-learn — RandomForestClassifier, IsolationForest, Pipeline. scikit-learn.org",
+    "type": "vendor-doc"
+  },
+  {
+    "id": "V10",
+    "citation": "Gillespie, T.D. (1992). Fundamentals of Vehicle Dynamics. Society of Automotive Engineers. SAE R-114. ISBN: 978-1-56091-199-9",
+    "type": "standard"
+  },
+  {
+    "id": "L1",
+    "citation": "S20 REPORT.md — Сессия 20: исследовательский отчёт рой-агентов GLM. Расположение: C:\\Users\\Петр\\Downloads\\suspension-audio\\REPORT.md Объём: 1491 строка, 14 частей, ~306 источников. Темы: подвеска, аудио, вибростенды, KB enrichment, expert-practice.",
+    "type": "internal"
+  },
+  {
+    "id": "L2",
+    "citation": "S21 research-zener-halfcar.md — Zener Model + Half-Car 4 DoF. DOI охвачены: 10.1177/0263092317711989, 10.1177/09544070231174280, 10.26552/com.C.2021.3.B178-B186, 10.3390/ma14227024, 10.1177/1687814016648638, 10.1016/j.measurement.2022.111602, 10.1080/00423110802094298, 10.1177/09544089231152698.",
+    "doi": "10.1177/0263092317711989",
+    "type": "internal"
+  },
+  {
+    "id": "L3",
+    "citation": "S21 research-iso2631-lyapunov.md — ISO 2631-1 + Теория Ляпунова + EDR. DOI охвачены: 10.3390/app14083140, 10.1016/0167-2789(93)90009-P, 10.1098/rsif.2020.0311.",
+    "doi": "10.3390/app14083140",
+    "type": "standard"
+  },
+  {
+    "id": "L4",
+    "citation": "S21 research-vmd-vit.md — VMD + Vision Transformer для подвески. DOI охвачены: 10.1109/TSP.2013.2288675, 10.1177/16878132221128397, 10.1155/2021/6629474, 10.1109/IMCEC.2015.7036515, 10.1007/s12206-024-0905-3, 10.1016/j.apacoust.2016.06.008, 10.1016/j.ymssp.2021.108588, 10.1177/09544089231152698, 10.1007/s40430-023-04145-6, 10.3390/e24091295, 10.3390/s23010211, 10.1016/j.sciaf.2025.e02688.",
+    "doi": "10.1109/TSP.2013.2288675",
+    "type": "internal"
+  },
+  {
+    "id": "L5",
+    "citation": "S21 research-ml-rul.md — ML классификация подвески + RUL. DOI охвачены: 10.1177/09544089231152698, 10.1007/s13369-024-08924-8, 10.1007/s40430-023-04145-6, 10.1109/TMECH.2014.2347244, 10.3233/JIFS-169526, 10.3390/su152014975, 10.1016/j.eswa.2010.07.075, 10.1002/asmb.70013, 10.3390/s23010227, 10.1016/j.ymssp.2021.108502, 10.1016/j.ijnonlinmec.2023.104614, 10.1088/1757-899X/148/1/012034, 10.1155/2018/4068431, 10.3390/s24113454, 10.3390/s25123662, 10.3390/app14199039.",
+    "doi": "10.1177/09544089231152698",
+    "type": "internal"
+  },
+  {
+    "id": "L6",
+    "citation": "S20 production-rules-crosscheck.md — верификация 42 правил по 306 источникам. Расположение: docs/research/suspension-audio/final/production-rules-crosscheck.md",
+    "type": "internal"
+  },
+  {
+    "id": "L7",
+    "citation": "S20 custdev-snippets.json — 201 цитата диагностов-практиков из CustDev 1–2. Расположение: docs/research/suspension-audio/final/custdev-snippets.json",
+    "type": "internal"
+  },
+  {
+    "id": "L8",
+    "citation": "sources-verified.json — 51 DOI с HTTP-статусами (верификация живых ссылок). Расположение: docs/research/suspension-audio/final/sources-verified.json",
+    "type": "internal"
+  }
+]

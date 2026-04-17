@@ -59,22 +59,36 @@ export function classifyByNode(nodeName: string): MaterialCategory | null {
   // Glass / windows
   if (n.includes('стекло') || n.includes('стёкло') || n.includes('люк') || n.includes('зеркальный_элемент')) return 'glass'
 
-  // Doors, body panels, bumpers, hood, roof, fenders
+  // Lights — BEFORE body, catches tail-light strip inside "Кузов#2_—_*"
+  if (n.includes('фара_п') || n.includes('фара_з') || n.includes('линза') ||
+      n.includes('модуль_дальнего') || n.includes('модуль_ближнего') ||
+      n.includes('поворотник') || n.includes('противотуманк') ||
+      n.includes('фонарь') || n.includes('фонар') ||
+      n.includes('дхо') || n.includes('ходовой_огон') || n.includes('дневные_ходовые') ||
+      n.includes('подсветк') || n.includes('заглушка_фонар') || n.includes('повторитель') ||
+      n.includes('стоп')) return 'light'
+
+  // Interior — BEFORE body, catches "Кузов_(интерьер)#2_—_*" and all cabin trim
+  if (n.includes('(интерьер)') || n.includes('руль') ||
+      n.includes('сиденье') || n.includes('сиденья') || n.includes('подушка') ||
+      n.includes('приборн') || n.includes('бардачок') || n.includes('подрулев') ||
+      n.includes('козырёк') || n.includes('козырек') || n.includes('дверная_карта') ||
+      n.includes('обивка') || n.includes('обшивка') || n.includes('торпед') ||
+      n.includes('потолок') || n.includes('ковролин') || n.includes('подлокотник') ||
+      n.includes('консоль') || n.includes('лепесток') || n.includes('экран_приборов') ||
+      n.includes('обод') || n.includes('спиц') || n.includes('стойка') ||
+      n.includes('салонное') || n.includes('салон') || n.includes('сигнал')) return 'interior'
+
+  // Doors, body panels, bumpers, hood, roof, fenders — EXTERIOR cherry paint
   if (n.includes('дверь') || n.includes('кузов') || n.includes('капот') || n.includes('крыша') ||
       n.includes('бампер') || n.includes('крыло') || n.includes('багажник') || n.includes('порог') ||
       n.includes('четвертные') || n.includes('лючок') || n.includes('рамка_номера') ||
-      n.includes('молдинг') || n.includes('накладка') || n.includes('обшивка')) return 'body'
+      n.includes('молдинг') || n.includes('накладка')) return 'body'
 
-  // Door cards are part of body visually (same opacity as doors)
-  if (n.includes('дверная_карта')) return 'body'
-
-  // Interior (seats, steering, dashboard internals)
-  if (n.includes('сиденье') || n.includes('сиденья') || n.includes('руль') || n.includes('приборная') ||
-      n.includes('бардачок') || n.includes('подрулевой') ||
-      n.includes('козырёк') || n.includes('козырек')) return 'interior'
-
-  // Wheels
-  if (n.includes('колесо') || n.includes('колёсо')) return 'tire'
+  // Wheels (tires, rims, disks, brakes — все колёсные части → tire)
+  if (n.includes('колесо') || n.includes('колёсо') || n.includes('диск') ||
+      n.includes('шина') || n.includes('тормоз') || n.includes('brake') ||
+      n.includes('суппорт') || n.includes('каллипер')) return 'tire'
 
   // Mirrors (housing = body)
   if (n.includes('зеркало') && !n.includes('зеркальный')) return 'body'
@@ -82,13 +96,10 @@ export function classifyByNode(nodeName: string): MaterialCategory | null {
   // Door handles
   if (n.includes('ручка_двери')) return 'chrome'
 
-  // Engine / drivetrain
+  // Engine / drivetrain / HV system
   if (n.includes('мотор') || n.includes('двигатель') || n.includes('проводка') ||
       n.includes('батарея') || n.includes('полуось') || n.includes('пневмоподвеска') ||
-      n.includes('тормоз')) return 'engine'
-
-  // Tires
-  if (n.includes('шина')) return 'tire'
+      n.includes('электромотор') || n.includes('инвертор')) return 'engine'
 
   return null // fallback to material-based classification
 }
@@ -119,42 +130,52 @@ interface MatDef {
   physical?: boolean // use MeshPhysicalMaterial
   transmission?: number
   thickness?: number
+  clearcoat?: number
+  clearcoatRoughness?: number
 }
 
-// LUMEN HUD palette: spectral #f0f0fa base + amber #FF9F1C (engine/light) + blue #3b9eff (telemetry)
-// Base wireframe is neutral; hue carries diagnostic-system semantics
-const SPECTRAL = '#f0f0fa'
-const SPECTRAL_DIM = '#b8b8d0'
-const AMBER = '#FF9F1C'
-const BLUE = '#3b9eff'
+// MONOCHROME NEBULA palette (plan v4 §CarSolid):
+// весь кузов = dark graphite #181824 MeshStandardMaterial roughness 0.45 metalness 0.55
+// Никаких wireframe, никаких indigo/amber primary fill.
+// Severity/accent приходит через glow-halo, не через material color.
+const SPECTRAL = '#EFF2F7'
+// Cherry metallic body + factory clearcoat + beige interior. Wheels → original tire (#0a1220 + blue glow).
+const GRAPHITE = '#7C1830'          // body paint — deep cherry (вишнёвый)
+const BODY_SHADOW = '#4A0E1A'       // emissive tint in shadow for metallic depth
+const BLUE = '#3b9eff'              // telemetry/tire emissive glow
+const INTERIOR_BEIGE = '#DFCFAD'    // salon — light warm beige
+const CRITICAL = '#FF4A4A'
 
 const BASE_DEFS: Record<MaterialCategory, MatDef> = {
   glass: {
     color: SPECTRAL,
     wireframe: false,
     opacity: 0.12,
-    emissive: SPECTRAL_DIM,
-    emissiveIntensity: 0.05,
-    metalness: 0.0,
-    roughness: 0.0,
+    emissive: SPECTRAL,
+    emissiveIntensity: 0.03,
+    metalness: 0.1,
+    roughness: 0.05,
   },
   body: {
-    color: SPECTRAL,
+    color: GRAPHITE,
     wireframe: false,
-    opacity: 0.85,
-    emissive: SPECTRAL_DIM,
-    emissiveIntensity: 0.18,
-    metalness: 0.5,
-    roughness: 0.4,
+    opacity: 1.0,
+    emissive: BODY_SHADOW,
+    emissiveIntensity: 0.06,
+    metalness: 0.82,
+    roughness: 0.22,
+    physical: true,
+    clearcoat: 1.0,
+    clearcoatRoughness: 0.06,
   },
   chrome: {
     color: SPECTRAL,
     wireframe: false,
-    opacity: 0.75,
-    emissive: SPECTRAL_DIM,
-    emissiveIntensity: 0.35,
-    metalness: 0.9,
-    roughness: 0.1,
+    opacity: 1.0,
+    emissive: '#000000',
+    emissiveIntensity: 0.0,
+    metalness: 0.95,
+    roughness: 0.15,
   },
   tire: {
     color: '#0a1220',
@@ -166,42 +187,46 @@ const BASE_DEFS: Record<MaterialCategory, MatDef> = {
     roughness: 0.9,
   },
   interior: {
-    color: BLUE,
+    color: INTERIOR_BEIGE,
     wireframe: false,
-    opacity: 0.55,
-    emissive: BLUE,
-    emissiveIntensity: 0.25,
-    metalness: 0.0,
-    roughness: 0.8,
+    opacity: 1.0,
+    emissive: '#000000',
+    emissiveIntensity: 0.0,
+    metalness: 0.15,
+    roughness: 0.7,
   },
   engine: {
-    color: AMBER,
-    wireframe: true,
-    opacity: 0.82,
-    emissive: AMBER,
-    emissiveIntensity: 0.6,
-    metalness: 0.3,
-    roughness: 0.4,
+    color: GRAPHITE,
+    wireframe: false,
+    opacity: 1.0,
+    emissive: '#000000',
+    emissiveIntensity: 0.0,
+    metalness: 0.55,
+    roughness: 0.45,
   },
   light: {
-    color: AMBER,
-    wireframe: false,
-    opacity: 0.7,
-    emissive: AMBER,
-    emissiveIntensity: 0.7,
-    metalness: 0.1,
-    roughness: 0.3,
-  },
-  other: {
     color: SPECTRAL,
     wireframe: false,
-    opacity: 0.45,
-    emissive: SPECTRAL_DIM,
-    emissiveIntensity: 0.15,
-    metalness: 0.0,
+    opacity: 0.95,
+    emissive: SPECTRAL,
+    emissiveIntensity: 0.6,
+    metalness: 0.1,
+    roughness: 0.25,
+  },
+  other: {
+    color: GRAPHITE,
+    wireframe: false,
+    opacity: 1.0,
+    emissive: '#000000',
+    emissiveIntensity: 0.0,
+    metalness: 0.4,
     roughness: 0.5,
   },
 }
+
+// Критическая подсветка сохраняется через severity в будущем —
+// сейчас body/engine/chrome остаются нейтральными graphite/spectral.
+void CRITICAL
 
 // ── Material state variants ──
 
@@ -230,6 +255,8 @@ function buildMaterial(def: MatDef, state: MatState): THREE.Material {
       roughness: def.roughness,
       transmission: def.transmission ?? 0,
       thickness: def.thickness ?? 0,
+      clearcoat: def.clearcoat ?? 0,
+      clearcoatRoughness: def.clearcoatRoughness ?? 0,
       side: THREE.DoubleSide,
     })
   }

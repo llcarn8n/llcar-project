@@ -211,7 +211,7 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
           const d = p.data
           const idx = Math.round(d[4] || 0)
           const timeStr = idx >= 0 && idx < times.length ? times[idx] : '--'
-          return `<span style="color:#FF9F1C;font-weight:600;">Время: ${timeStr}</span><br>`
+          return `<span style="color:#6B5AE0;font-weight:600;">Время: ${timeStr}</span><br>`
             + `X бок: <b>${d[0]?.toFixed(2) ?? '--'}</b> m/s²<br>`
             + `Y прод: <b>${d[1]?.toFixed(2) ?? '--'}</b> m/s²<br>`
             + `Z верт: <b>${d[2]?.toFixed(2) ?? '--'}</b> m/s²<br>`
@@ -229,7 +229,7 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
           min: Math.max(0, p5 - range * 0.1),
           max: (p95 + range * 0.1) || 1,
           inRange: {
-            color: ['#3b9eff', '#4ade80', '#FF9F1C', '#ff2047'],
+            color: ['#EFF2F7', '#C8BFF0', '#8A7AD8', '#6B5AE0', '#FF4A4A'],
           },
           textStyle: { color: 'rgba(255,255,255,0.5)', fontFamily: "var(--f-mono)", fontSize: 9 },
           right: 10,

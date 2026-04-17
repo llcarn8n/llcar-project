@@ -1,4 +1,5 @@
 import { create } from 'zustand'
+import type { PartSpec } from '../types/rules'
 
 interface VehicleProfile {
   brand: string
@@ -7,6 +8,17 @@ interface VehicleProfile {
   year: number
   engine: string
   generationId: string | null
+}
+
+export interface HoveredPartState {
+  nodeName: string
+  partSpec: PartSpec | null
+  screenX: number
+  screenY: number
+}
+
+export interface ActiveRuleDrawerState {
+  ruleName: string
 }
 
 export type UserTier = 'free' | 'single' | 'monthly' | 'annual'
@@ -39,6 +51,10 @@ interface DashboardState {
   // Monetization
   userTier: UserTierState
 
+  // Diagnostic twin interactions (tooltip + rule drawer)
+  hoveredPart: HoveredPartState | null
+  activeRuleDrawer: ActiveRuleDrawerState | null
+
   // Actions
   setMode: (mode: DashboardState['mode']) => void
   toggleSidebar: () => void
@@ -57,6 +73,10 @@ interface DashboardState {
   closeConnectionWizard: () => void
   setUserTier: (tier: UserTier) => void
   markFreeReportUsed: (vehicleKey: string) => void
+  setHoveredPart: (hp: HoveredPartState) => void
+  clearHoveredPart: () => void
+  openRuleDrawer: (ruleName: string) => void
+  closeRuleDrawer: () => void
 }
 
 function loadVehicleProfile(): VehicleProfile | null {
@@ -125,6 +145,8 @@ export const useDashboardStore = create<DashboardState>((set, get) => ({
   connectionDone: loadConnectionDone(),
   showConnectionWizard: false,
   userTier: loadUserTier(),
+  hoveredPart: null,
+  activeRuleDrawer: null,
 
   setMode: (mode) => {
     localStorage.setItem('llcar-mode', mode)
@@ -161,6 +183,10 @@ export const useDashboardStore = create<DashboardState>((set, get) => ({
     saveUserTier(newState)
     set({ userTier: newState })
   },
+  setHoveredPart: (hp) => set({ hoveredPart: hp }),
+  clearHoveredPart: () => set({ hoveredPart: null }),
+  openRuleDrawer: (ruleName) => set({ activeRuleDrawer: { ruleName } }),
+  closeRuleDrawer: () => set({ activeRuleDrawer: null }),
 }))
 
 export function useHasAccess(): boolean {

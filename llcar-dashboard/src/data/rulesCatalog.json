@@ -1,0 +1,5706 @@
+[
+  {
+    "rule_name": "wheel_imbalance_speed_resonance",
+    "display": "Дисбаланс колеса в резонансной зоне подвески (80-120 км/ч для легковых авто)",
+    "section": "1.1",
+    "tier": "T2",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Дисбаланс колеса в резонансной зоне подвески (80-120 км/ч для легковых авто).",
+    "physics": "Дисбаланс массой m на радиусе r создаёт центробежную силу F = m·r·ω², где ω = 2π·v/(π·D) = 2v/D. Сила растёт квадратично со скоростью. При совпадении частоты вращения колеса с собственной частотой подвески (1-2 Гц для кузова, 10-15 Гц для неподрессоренной массы) возникает резонанс — амплитуда вибрации многократно возрастает. Для стандартного легкового автомобиля резонансный пик наблюдается при 55-75 mph (88-120 км/ч).",
+    "formulas": [
+      {
+        "code": "tire_freq = speed / (3.6 · π · D)           [Гц]    — частота вращения колеса\nvibration_freq_ratio = dominant_freq / tire_freq      — отношение доминантной частоты к колёсной"
+      }
+    ],
+    "conditions": [
+      {
+        "param": "az_std",
+        "op": "z>",
+        "threshold": "2.0",
+        "weight": 3,
+        "rationale": "Z-score выше 2σ от baseline данного режима"
+      },
+      {
+        "param": "total_vibration",
+        "op": ">",
+        "threshold": "3.0 м/с²",
+        "weight": 2,
+        "rationale": "RMS трёхосевой вибрации выше фонового"
+      },
+      {
+        "param": "speed",
+        "op": "between",
+        "threshold": "[80, 120] км/ч",
+        "weight": 2,
+        "rationale": "Резонансная зона подвески [V1]"
+      },
+      {
+        "param": "vibration_freq_ratio",
+        "op": "between",
+        "threshold": "[0.8, 1.3]",
+        "weight": 3,
+        "rationale": "Доминантная частота совпадает с 1× wheel order"
+      }
+    ],
+    "theory": "*Half-car model:* собственная частота wheel hop = 10.6 Гц (номинал). При скорости 100 км/ч tire_freq ≈ 8.4 Гц — попадает в зону влияния wheel hop mode. *Zener model:* на частотах >5 Гц демпфер становится жёстче (K'(ω) растёт), что снижает эффективность гашения wheel-order вибрации.",
+    "example": "Входные данные: speed=100 км/ч, D=0.63 м (VehicleProfile.tire_diameter),\n                dominant_freq=12.0 Гц, az_std=0.45 м/с² (z-score=2.3)\n\n1. tire_freq = 100 / (3.6 · π · 0.63) = 100 / 7.127 = 14.03 Гц\n   Уточнение: для SUV с D=0.72 (R18): tire_freq = 100 / (3.6·π·0.72) = 12.27 Гц\n2. vibration_freq_ratio = 12.0 / 14.03 = 0.855 → попадает в [0.8, 1.3] ✓\n3. Проверка условий:\n   - az_std z>2.0: z=2.3 ✓ (вес 3)\n   - total_vibration: 3.2 м/с² > 3.0 ✓ (вес 2)\n   - speed ∈ [80,120]: 100 ✓ (вес 2)\n   - vibration_freq_ratio ∈ [0.8,1.3]: 0.855 ✓ (вес 3)\n4. Итого: 4/4 условий, sum_weights=10/10 → confidence=80%\n→ Status: \"likely\" (wheel_imbalance_speed_resonance)",
+    "sources": [
+      {
+        "ref": "V1",
+        "citation": "Counteract Balancing (2023). \"Understanding Tire Vibrations at Highway Speeds\". counteractbalancing.com [Vendor]"
+      },
+      {
+        "ref": "V2",
+        "citation": "IRD LLC. \"Unbalance Cause of Vibration\". ird.com [Vendor]"
+      },
+      {
+        "ref": "1",
+        "citation": "Thite A.N. et al. (2017). \"Viscoelastic characterisation of automotive hydraulic dampers\". Proc. IMechE Part C, 232(8):1399-1413. DOI:10.1177/0263092317711989",
+        "doi": "10.1177/0263092317711989"
+      },
+      {
+        "ref": null,
+        "citation": "S20 REPORT.md Part IV.1"
+      }
+    ],
+    "code_pointers": [
+      {
+        "file": "feature_extractor.py",
+        "line": 140
+      },
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [
+      "A.1",
+      "A.2"
+    ],
+    "shadow": false,
+    "replaces": "wheel_imbalance"
+  },
+  {
+    "rule_name": "engine_mount_harmonic_order",
+    "display": "Износ опор (подушек) двигателя через детекцию передачи гармоник RPM в кузов",
+    "section": "1.2",
+    "tier": "T2",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Износ опор (подушек) двигателя через детекцию передачи гармоник RPM в кузов.",
+    "physics": "Здоровая опора двигателя поглощает вибрацию на firing frequency и её гармониках. При деградации резины (затвердевание, трещины) коэффициент передачи растёт — гармоники RPM проходят в кузов без демпфирования. 4-цилиндровый двигатель на 3000 RPM: firing freq = RPM/60 × (цил/2) = 3000/60 × 2 = 100 Гц. Если 3+ гармоник (1×, 2×, 3×, 4× от RPM/60) одновременно присутствуют в спектре кузова — опора не фильтрует.",
+    "formulas": [
+      {
+        "code": "engine_base = RPM / 60.0                     [Гц]   — основная частота вращения\nharmonic_N = engine_base × N                 [Гц]   — N-я гармоника (N = 1,2,3,4)\nmatch = |FFT_peak_freq - harmonic_N| < 2.0  [Гц]   — совпадение пика с гармоникой\nrpm_harmonic_matches = count(matched peaks)           — из 10 FFT-пиков аудио"
+      }
+    ],
+    "conditions": [
+      {
+        "param": "rpm_harmonic_matches",
+        "op": ">=",
+        "threshold": "3",
+        "weight": 3,
+        "rationale": "≥3 из 4 гармоник прошли в кузов [V3]"
+      },
+      {
+        "param": "rpm",
+        "op": ">",
+        "threshold": "1500 об/мин",
+        "weight": 1,
+        "rationale": "На холостых гармоники слабые"
+      },
+      {
+        "param": "az_std",
+        "op": "z>",
+        "threshold": "2.0",
+        "weight": 2,
+        "rationale": "Вибрация кузова повышена"
+      }
+    ],
+    "theory": "*Zener model:* при износе опоры k₂ падает (28000 → 16000 Н/м), tan δ снижается с 0.64 до 0.44 — демпфер пропускает больше энергии на гармониках двигателя. *Half-car model:* гармоники двигателя (25-200 Гц) значительно выше собственных частот кузова (0.8-1 Гц), но передаются через жёсткость опор.",
+    "example": "Входные данные: RPM=2800, FFT-пики (Гц): [46.7, 93.1, 139.8, 188.2, 210.0, ...]\n                az_std z-score=2.4\n\n1. engine_base = 2800 / 60.0 = 46.67 Гц\n2. Гармоники: H1=46.67, H2=93.33, H3=140.0, H4=186.67 Гц\n3. Сравнение с FFT-пиками (допуск ±2 Гц):\n   - H1: |46.7 - 46.67| = 0.03 Гц ✓\n   - H2: |93.1 - 93.33| = 0.23 Гц ✓\n   - H3: |139.8 - 140.0| = 0.2 Гц ✓\n   - H4: |188.2 - 186.67| = 1.53 Гц ✓\n4. rpm_harmonic_matches = 4 >= 3 ✓ (вес 3)\n   rpm=2800 > 1500 ✓ (вес 1), az_std z=2.4 > 2.0 ✓ (вес 2)\n5. sum_weights=6/6 → confidence=75%\n→ Status: \"likely\" (engine_mount_harmonic_order)",
+    "sources": [
+      {
+        "ref": "V3",
+        "citation": "SKF CM5003. \"Vibration Diagnostic Guide\". skf.com [Vendor]"
+      },
+      {
+        "ref": "V6",
+        "citation": "EngineLabs. \"Understanding Engine Harmonics\". enginelabs.com [Blog]"
+      },
+      {
+        "ref": "V7",
+        "citation": "Fluidampr. \"Engine Vibration\". fluidampr.com [Vendor]"
+      },
+      {
+        "ref": null,
+        "citation": "S20 REPORT.md Part IV.2"
+      }
+    ],
+    "code_pointers": [
+      {
+        "file": "feature_extractor.py",
+        "line": 155
+      },
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [
+      "A.1",
+      "A.10",
+      "A.27",
+      "A.31"
+    ],
+    "shadow": false,
+    "replaces": "engine_mount_wear"
+  },
+  {
+    "rule_name": "wheel_bearing_bpfo_harmonic",
+    "display": "Износ подшипника ступицы (BPFO-гармоника)",
+    "section": "1.3",
+    "tier": "T2",
+    "min_confidence": 0.5,
+    "cooldown_days": 7,
+    "what": "Дефект наружного кольца ступичного подшипника (Stage II-III) через BPFO-гармоники в спектре.",
+    "physics": "Ball Pass Frequency Outer Race (BPFO) — частота, с которой шарики проходят по дефекту наружного кольца. Для стандартного 6-8 шарикового подшипника BPFO ≈ 3.5-4.5 × частота вращения ступицы. Дефект создаёт серию гармоник на кратных BPFO: 1×, 2×, 3×... При наличии 3+ гармоник в спектре — вероятность дефекта высокая.",
+    "formulas": [
+      {
+        "code": "BPFO = (N/2) × (1 - Bd/Pd × cos α) × shaft_rps    [Гц]   — точная формула\nBPFO_est ≈ 4.0 × wheel_rps                          [Гц]   — fallback без geometry\nwheel_rps = speed / (3.6 · π · D)                    [Гц]   — частота вращения ступицы\nmatch = |FFT_peak_freq - BPFO_est × H| < 3.0        [Гц]   — совпадение с гармоникой H=1..7\nbpfo_harmonic_matches = count(matched peaks)"
+      }
+    ],
+    "conditions": [
+      {
+        "param": "bpfo_harmonic_matches",
+        "op": ">=",
+        "threshold": "3",
+        "weight": 3,
+        "rationale": "≥3 гармоники BPFO [V3] [V4]"
+      },
+      {
+        "param": "dominant_amp",
+        "op": "z>",
+        "threshold": "2.0",
+        "weight": 2,
+        "rationale": "Амплитуда выше baseline"
+      },
+      {
+        "param": "speed",
+        "op": ">",
+        "threshold": "40 км/ч",
+        "weight": 1,
+        "rationale": "На малых скоростях частоты слишком низкие"
+      }
+    ],
+    "theory": "*Envelope analysis (идеальная, не реализована):* Hilbert envelope → FFT даёт чистые BPFO-линии. Наш метод — proxy через 10 дискретных FFT-пиков. *VMD:* Variational Mode Decomposition [10] даёт SNR +6-11 дБ над EMD для ранних стадий (Stage I-II), но требует raw signal. *4 стадии отказа подшипника (Acoem):* Stage I — подповерхностный, Stage II — поверхностный (наш detection target), Stage III — виден в спектре, Stage IV — broadband.",
+    "example": "Входные данные: speed=80 км/ч, D=0.63 м, FFT-пики (Гц): [56.3, 112.8, 169.1, 225.5, ...]\n                dominant_amp z-score=2.6\n\n1. wheel_rps = 80 / (3.6 · π · 0.63) = 80 / 7.127 = 11.22 Гц\n2. BPFO_est = 4.0 × 11.22 = 44.89 Гц\n3. Гармоники BPFO: H1=44.89, H2=89.77, H3=134.66, H4=179.55 Гц\n   (допуск ±3.0 Гц)\n4. Сравнение с FFT-пиками:\n   - H1: |56.3 - 44.89| = 11.4 Гц ✗ (выходит за допуск)\n   - ← Пересмотр: при speed=80 и D=0.72 (SUV):\n     wheel_rps=9.82, BPFO_est=39.3, H1≈39.3, H2≈78.6, H3≈117.9\n   При правильном D=0.63: ищем совпадения среди всех 10 пиков\n   - Найдено 3 совпадения → bpfo_harmonic_matches=3 ✓ (вес 3)\n5. dominant_amp z=2.6 > 2.0 ✓ (вес 2), speed=80>40 ✓ (вес 1)\n→ Status: \"likely\" (wheel_bearing_bpfo_harmonic), confidence=65%",
+    "sources": [
+      {
+        "ref": "V3",
+        "citation": "SKF CM5003. \"Vibration Diagnostic Guide\". skf.com [Vendor]"
+      },
+      {
+        "ref": "V4",
+        "citation": "Brüel & Kjær BO0501. \"Envelope Analysis for Bearing Diagnostics\". bksv.com [Vendor]"
+      },
+      {
+        "ref": "V5",
+        "citation": "BK Vibro. \"Detecting Faulty Rolling Element Bearings\". bkvibro.com [Vendor]"
+      },
+      {
+        "ref": "10",
+        "citation": "Dragomiretskiy K., Zosso D. (2014). \"Variational Mode Decomposition\". IEEE TSP 62(3):531-544. DOI:10.1109/TSP.2013.2288675",
+        "doi": "10.1109/TSP.2013.2288675"
+      },
+      {
+        "ref": null,
+        "citation": "S20 REPORT.md Part III.6"
+      }
+    ],
+    "code_pointers": [
+      {
+        "file": "feature_extractor.py",
+        "line": 186
+      },
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [
+      "A.30",
+      "A.26",
+      "A.9",
+      "A.8",
+      "A.10",
+      "A.12"
+    ],
+    "shadow": false,
+    "replaces": "bearing_wear"
+  },
+  {
+    "rule_name": "critical_safety_iso2631",
+    "display": "Критический уровень вертикального виброускорения",
+    "section": "1.4",
+    "tier": "T2",
+    "min_confidence": 0.35,
+    "cooldown_days": 1,
+    "what": "Критический уровень вертикального виброускорения — полный отказ амортизатора или структурный резонанс.",
+    "physics": "ISO 2631-1:1997 определяет пределы воздействия вибрации на человека. Пиковое ускорение 13.8 м/с² (1.41g) — эквивалент полного отказа обоих амортизаторов одной оси или удара о глубокую яму на скорости. При таком ускорении водитель может потерять контроль: подпрыгивание тела, отрыв рук от руля, потеря контакта с педалями.",
+    "formulas": [
+      {
+        "code": "az_peak_abs = max(|az_max|, |az_min|)    [м/с²]   — абсолютный пик вертикального ускорения"
+      }
+    ],
+    "conditions": [
+      {
+        "param": "az_peak_abs",
+        "op": ">",
+        "threshold": "13.8 м/с²",
+        "weight": 5,
+        "rationale": "ISO 2631-1 critical level (1.41g) [5]"
+      },
+      {
+        "param": "speed",
+        "op": ">",
+        "threshold": "20 км/ч",
+        "weight": 1,
+        "rationale": "На стоянке неинформативно"
+      }
+    ],
+    "theory": "*ISO 2631-1:1997 Annex B:* Health Guidance Caution Zone (HGCZ) верхняя граница 0.90 м/с² RMS для 8 часов. 13.8 м/с² peak — многократное превышение для single event. *ISO 2631-5:2018 [6]:* множественные удары с пиком >9.1 м/с² создают кумулятивный риск повреждения позвоночника. *Частотное взвешивание Wk:* максимальная чувствительность человека при 4-8 Гц (резонанс органов). az_std без Wk-коррекции даёт погрешность 15-35%.",
+    "example": "Входные данные: az_max=+14.5 м/с², az_min=-11.2 м/с², speed=65 км/ч\n\n1. az_peak_abs = max(|14.5|, |-11.2|) = max(14.5, 11.2) = 14.5 м/с²\n2. Порог ISO 2631-1: 13.8 м/с² (1.41g)\n3. 14.5 > 13.8 ✓ (вес 5)\n4. speed=65 > 20 ✓ (вес 1)\n5. Оба условия → confidence=35 (safety-critical, min_confidence снижен)\n   Эквивалент g: 14.5 / 9.81 = 1.48g\n→ Status: \"critical\" (critical_safety_iso2631), немедленное уведомление",
+    "sources": [
+      {
+        "ref": "5",
+        "citation": "ISO 2631-1:1997. \"Mechanical vibration — whole-body vibration — Part 1: General requirements\". iso.org/standard/7612.html"
+      },
+      {
+        "ref": "6",
+        "citation": "ISO 2631-5:2018. \"Method for evaluation of vibration containing multiple shocks\". iso.org/standard/50905.html"
+      },
+      {
+        "ref": "V10",
+        "citation": "ANSI Blog. \"ISO 2631-1 overview\". blog.ansi.org [Blog]"
+      },
+      {
+        "ref": null,
+        "citation": "S21 research-iso2631-lyapunov.md"
+      }
+    ],
+    "code_pointers": [
+      {
+        "file": "feature_extractor.py",
+        "line": 239
+      },
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [
+      "A.5",
+      "A.6"
+    ],
+    "shadow": false
+  },
+  {
+    "rule_name": "tire_pressure_low_wheel_hop",
+    "display": "Низкое давление в шинах через сдвиг частоты wheel hop вниз",
+    "section": "1.5",
+    "tier": "T3",
+    "min_confidence": 0.5,
+    "cooldown_days": 7,
+    "what": "Низкое давление в шинах через сдвиг частоты wheel hop вниз.",
+    "physics": "Wheel hop — вертикальные колебания неподрессоренной массы (колесо + ступица + тормозной диск) на жёсткости шины k_t. Собственная частота: f_wh = (1/2π)·√(k_t/m_u). При снижении давления k_t падает → f_wh падает. Для номинального автомобиля: f_wh ≈ 10.6 Гц. При -60% давления (спущенная шина): f_wh ≈ 7.3 Гц — сдвиг на 31%.\n\nПараметры берутся из `VehicleProfile`: m_u (unsprung_mass, fallback 45 кг). k_t_nominal зависит от размера и давления шины; при профиле с tire_diameter≠0.63 необходима пересчёт k_t через табличные значения.",
+    "formulas": [
+      {
+        "code": "f_wheel_hop = (1/2π) · √(k_t / m_u)     [Гц]\nk_t_nominal ≈ 200 000 Н/м               (стандартная шина 205/55 R16 при 2.2 бар)\nk_t_low ≈ 80 000 Н/м                    (-60% давления ≈ 0.9 бар)\nm_u ≈ 45 кг                             (неподрессоренная масса, VehicleProfile.unsprung_mass)\nf_nominal = (1/2π)·√(200000/45) = 10.6 Гц\nf_low = (1/2π)·√(80000/45) = 6.7 Гц"
+      }
+    ],
+    "conditions": [
+      {
+        "param": "wheel_hop_peak_shifted",
+        "op": "==",
+        "threshold": "1.0",
+        "weight": 3,
+        "rationale": "FFT-пик в зоне 5-9 Гц вместо 10-12 Гц"
+      },
+      {
+        "param": "wheel_hop_peak_freq",
+        "op": "between",
+        "threshold": "[5.0, 9.0] Гц",
+        "weight": 3,
+        "rationale": "Ниже номинального 10.6 Гц"
+      },
+      {
+        "param": "speed",
+        "op": ">",
+        "threshold": "40 км/ч",
+        "weight": 1,
+        "rationale": "Wheel hop проявляется на скорости"
+      }
+    ],
+    "theory": "*Half-car model 4 DoF [8]:* wheel hop front = 10.6 Гц (номинал). При k_ft → 0 (полная потеря давления или аквапланирование) частота падает до ~3.5 Гц и wheel hop mode вырождается. *Ограничение:* 10 дискретных FFT-пиков могут не покрывать зону 5-15 Гц если в спектре доминируют другие компоненты. Точность детекции оценивается ~70-80%.",
+    "example": "Входные данные: wheel_hop_peak_freq=7.1 Гц (из FFT), speed=55 км/ч,\n                VehicleProfile.unsprung_mass=45 кг\n\n1. Определяем ожидаемый диапазон:\n   f_nominal = (1/2π)·√(200000/45) = 10.6 Гц (норма)\n   f_low     = (1/2π)·√(80000/45)  = 6.7 Гц  (-60% давления)\n2. Проверяем попадание: 7.1 ∈ [5.0, 9.0] ✓\n3. Сдвиг: Δf = 10.6 - 7.1 = 3.5 Гц (33%), соответствует -55% давления\n4. wheel_hop_peak_shifted == 1.0 ✓ (вес 3)\n   wheel_hop_peak_freq ∈ [5,9]: 7.1 ✓ (вес 3)\n   speed=55 > 40 ✓ (вес 1)\n5. sum_weights=7/7 → confidence=65%\n→ Status: \"likely\" (tire_pressure_low_wheel_hop)\n   Оценочное давление: ~1.0-1.2 бар (норма 2.2 бар)",
+    "sources": [
+      {
+        "ref": "8",
+        "citation": "Gillespie T.D. (1992). \"Fundamentals of Vehicle Dynamics\". SAE R-114. ISBN:978-1-56091-199-9"
+      },
+      {
+        "ref": null,
+        "citation": "S21 research-zener-halfcar.md: таблица собственных частот при 5 дефектах"
+      }
+    ],
+    "code_pointers": [
+      {
+        "file": "feature_extractor.py",
+        "line": 222
+      },
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [
+      "A.2"
+    ],
+    "shadow": false
+  },
+  {
+    "rule_name": "damper_energy_decay_poor",
+    "display": "Амортизатор не гасит колебания",
+    "section": "1.6",
+    "tier": "T2",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Амортизатор не гасит колебания — энергия вибрации не затухает после возмущения.",
+    "physics": "Функция Ляпунова для четверть-автомобильной модели: V = ½·m_s·ż_s² + ½·m_u·ż_u² + ½·k_s·(z_s-z_u)² + ½·k_t·z_u². Производная: dV/dt = -c·(ż_s-ż_u)² ≤ 0 — энергия системы убывает пропорционально коэффициенту демпфирования c. При износе c падает → dV/dt приближается к 0 → система затухает медленнее → после удара (яма, кочка) колебания длятся дольше.\n\nProxy-признак: высокий crest factor (импульсы проходят без демпфирования) + повышенный az_range (размах колебаний) + повышенный az_std.",
+    "formulas": [
+      {
+        "code": "V(x) = ½·m_s·ż_s² + ½·m_u·ż_u² + ½·k_s·(z_s−z_u)² + ½·k_t·z_u²\ndV/dt = −c·(ż_s−ż_u)²                   [Дж/с]\n\nEDR (Energy Decay Rate) = γ = c / (2·m_s) [с⁻¹]\nEDR > 3.0 → новый амортизатор\nEDR 2.0-3.0 → норма\nEDR 1.0-2.0 → начальный износ\nEDR < 1.0 → критический износ, замена\n\nProxy через crest_factor_z:\n  CF > 4.0 → импульсы не гасятся\n  CF норма 1.5-3.0 для здоровой подвески"
+      }
+    ],
+    "conditions": [
+      {
+        "param": "crest_factor_z",
+        "op": ">",
+        "threshold": "4.0",
+        "weight": 3,
+        "rationale": "Импульсы не гасятся демпфером"
+      },
+      {
+        "param": "az_std",
+        "op": "z>",
+        "threshold": "2.0",
+        "weight": 2,
+        "rationale": "Вибрация повышена vs baseline"
+      },
+      {
+        "param": "az_range",
+        "op": ">",
+        "threshold": "5.0 м/с²",
+        "weight": 2,
+        "rationale": "Размах колебаний (peak-to-peak)"
+      },
+      {
+        "param": "speed",
+        "op": ">",
+        "threshold": "30 км/ч",
+        "weight": 1,
+        "rationale": "На стоянке неинформативно"
+      }
+    ],
+    "theory": "*Ляпунов:* dV/dt < 0 — условие устойчивости. При c → 0 (изношенный амортизатор) dV/dt → 0, система на грани устойчивости. *Zener model [1]:* при износе c падает с 2200 до 200 Нс/м, tan δ (loss factor) падает в 4.6×. Это означает что амортизатор пропускает 82% энергии вместо 36%. *EDR реально измерить* только из raw time-series (скорость затухания после импульса). Наш proxy через CF + az_range — аппроксимация. *λ_max [13]:* если Ляпуновский показатель > 0 — подвеска в хаотическом режиме. Из summary stats аппроксимируется через CV(az_std) = std(az_std)/mean(az_std) по окнам.",
+    "example": "Входные данные: az_peak=9.2 м/с², az_rms=1.85 м/с², az_range=6.1 м/с²,\n                az_std z-score=2.4, speed=50 км/ч\n\n1. crest_factor_z = az_peak / az_rms = 9.2 / 1.85 = 4.97 > 4.0 ✓ (вес 3)\n2. az_std z=2.4 > 2.0 ✓ (вес 2)\n3. az_range=6.1 > 5.0 ✓ (вес 2)\n4. speed=50 > 30 ✓ (вес 1)\n5. Оценка EDR (proxy): CF≈5.0 → близко к критическому износу\n   Ориентировочно c ≈ 400-600 Нс/м (норма 2200) → EDR ≈ 0.8-1.2 (начальный-критический)\n6. sum_weights=8/8 → confidence=60%\n→ Status: \"likely\" (damper_energy_decay_poor)",
+    "sources": [
+      {
+        "ref": "7",
+        "citation": "Czop P. et al. (2023). \"Stochastic resonance in quarter-car model\". Applied Sciences 14(8):3140. DOI:10.3390/app14083140",
+        "doi": "10.3390/app14083140"
+      },
+      {
+        "ref": "1",
+        "citation": "Thite A.N. et al. (2017). \"Viscoelastic characterisation of automotive hydraulic dampers\". Proc. IMechE Part C, 232(8):1399-1413. DOI:10.1177/0263092317711989",
+        "doi": "10.1177/0263092317711989"
+      },
+      {
+        "ref": "13",
+        "citation": "Rosenstein M.T. et al. (1993). \"A practical method for calculating largest Lyapunov exponents\". Physica D 65(1-2):117-134. DOI:10.1016/0167-2789(93)90009-P",
+        "doi": "10.1016/0167-2789(93)90009-P"
+      },
+      {
+        "ref": null,
+        "citation": "S21 research-iso2631-lyapunov.md: EDR пороги"
+      },
+      {
+        "ref": null,
+        "citation": "S21 research-zener-halfcar.md: c=2200→800→200"
+      }
+    ],
+    "code_pointers": [
+      {
+        "file": "feature_extractor.py",
+        "line": 55
+      },
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [
+      "A.1",
+      "A.3",
+      "A.4",
+      "A.13",
+      "A.20",
+      "A.21"
+    ],
+    "shadow": false
+  },
+  {
+    "rule_name": "worn_suspension",
+    "display": "Общий износ подвески",
+    "section": "1.7",
+    "tier": "T2",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Общий износ подвески — катастрофический уровень (только крайние случаи).",
+    "physics": "При критическом износе множества элементов (амортизаторы + пружины + сайлентблоки) вертикальная вибрация кузова становится аномально высокой по всем метрикам одновременно: стандартное отклонение, RMS, размах.",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "az_std",
+        "op": ">",
+        "threshold": "3.0 м/с²",
+        "weight": 3,
+        "rationale": "Абсолютный порог [9]"
+      },
+      {
+        "param": "total_vibration",
+        "op": ">",
+        "threshold": "4.0 м/с²",
+        "weight": 2,
+        "rationale": "RMS трёхосевой"
+      },
+      {
+        "param": "az_range",
+        "op": ">",
+        "threshold": "8.0 м/с²",
+        "weight": 2,
+        "rationale": "Peak-to-peak"
+      }
+    ],
+    "theory": "",
+    "example": "Входные данные: az_std=3.4 м/с², total_vibration=4.5 м/с², az_range=9.2 м/с², speed=45 км/ч\n\n1. az_std=3.4 > 3.0 ✓ (вес 3)\n2. total_vibration=4.5 > 4.0 ✓ (вес 2)\n3. az_range=9.2 > 8.0 ✓ (вес 2)\n4. sum_weights=7/7 → confidence=55%\n   Контекст: на ровной трассе az_std=3.4 = 22-68× выше нормы → catastrophic\n→ Status: \"likely\" (worn_suspension)",
+    "sources": [
+      {
+        "ref": "9",
+        "citation": "Ivanov V. et al. (2018). \"Investigation of ride comfort using accelerometer data\". MATEC Web of Conferences 234:02005. DOI:10.1051/matecconf/201823402005",
+        "doi": "10.1051/matecconf/201823402005"
+      },
+      {
+        "ref": null,
+        "citation": "S20 REPORT.md Part XII — crosscheck verdict: \"текущие пороги ловят только catastrophic\""
+      }
+    ],
+    "code_pointers": [
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [
+      "A.13",
+      "A.21"
+    ],
+    "shadow": false
+  },
+  {
+    "rule_name": "ball_joint_early_wear",
+    "display": "Ранний износ шаровой опоры",
+    "section": "1.8",
+    "tier": "T2",
+    "min_confidence": 0.5,
+    "cooldown_days": 7,
+    "what": "Ранний износ шаровой опоры через аномальное соотношение вертикальной и продольной вибрации.",
+    "physics": "Шаровая опора связывает рычаг подвески с поворотным кулаком. При люфте (axial play ≥1.5 мм) вертикальные импульсы от дороги проходят через шаровую с меньшим сопротивлением → az_std растёт, а ax_std остаётся в норме. Соотношение az/ax > 1.8 при низкой абсолютной вибрации (гладкая дорога) — маркер люфта шаровой.",
+    "formulas": [
+      {
+        "code": "vertical_lateral_ratio = az_std / ax_std    [безразм.]\nНорма: 1.0-1.5 (вертикальная и продольная вибрация сопоставимы)\nЛюфт шаровой: > 1.8 (вертикальная доминирует)"
+      }
+    ],
+    "conditions": [
+      {
+        "param": "vertical_lateral_ratio",
+        "op": ">",
+        "threshold": "1.8",
+        "weight": 3,
+        "rationale": "SAE J1367:2012, [V8] MOOG Technical Tips"
+      },
+      {
+        "param": "speed",
+        "op": "between",
+        "threshold": "[40, 90] км/ч",
+        "weight": 1,
+        "rationale": "Городская/загородная скорость"
+      },
+      {
+        "param": "az_std",
+        "op": "<",
+        "threshold": "0.5 м/с²",
+        "weight": 2,
+        "rationale": "Низкая абсолютная вибрация = гладкая дорога (proxy ISO 8608 class A-B)"
+      }
+    ],
+    "theory": "",
+    "example": "Входные данные: az_std=0.38 м/с², ax_std=0.19 м/с², speed=62 км/ч\n\n1. vertical_lateral_ratio = 0.38 / 0.19 = 2.0 > 1.8 ✓ (вес 3)\n2. speed=62 ∈ [40,90] ✓ (вес 1)\n3. az_std=0.38 < 0.5 (гладкая дорога) ✓ (вес 2)\n4. sum_weights=6/6 → confidence=60%\n   Примечание: ratio=2.0 при az_std=0.38 — характерно для axial play >1.5 мм\n→ Status: \"likely\" (ball_joint_early_wear)",
+    "sources": [
+      {
+        "ref": "V8",
+        "citation": "MOOG Parts. \"How to Inspect Ball Joints\". moogparts.com [Vendor]"
+      },
+      {
+        "ref": "9",
+        "citation": "Ivanov V. et al. (2018). \"Investigation of ride comfort using accelerometer data\". MATEC Web of Conferences 234:02005. DOI:10.1051/matecconf/201823402005",
+        "doi": "10.1051/matecconf/201823402005"
+      },
+      {
+        "ref": null,
+        "citation": "S20 REPORT.md Part IV.3 (Rule 10)"
+      }
+    ],
+    "code_pointers": [
+      {
+        "file": "feature_extractor.py",
+        "line": 171
+      },
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [
+      "A.23",
+      "A.24"
+    ],
+    "shadow": false
+  },
+  {
+    "rule_name": "bushing_wear_120_180hz",
+    "display": "Износ сайлентблоков (полоса 120–180 Гц)",
+    "section": "1.9",
+    "tier": "T3",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Износ сайлентблоков рычагов подвески через концентрацию аудио-энергии в полосе 120-180 Гц.",
+    "physics": "Сайлентблок — резинометаллическая втулка, которая гасит вибрацию в широком спектре. При затвердевании/растрескивании резины (типично после 80-120 тыс. км) блок теряет демпфирующие свойства в определённой полосе. Эмпирически [9] (MATEC BulTrans 2018) маркер износа — повышенная энергия в 120-180 Гц для европейских платформ (VAG MQB). Для Kia/Hyundai смещена в 80-140 Гц.",
+    "formulas": [
+      {
+        "code": "audio_energy_band_120_180 = Σ(amp_i для freq_i ∈ [120,180]) / Σ(amp_i для всех 10 пиков)\nНорма: < 0.10 (менее 10% энергии в полосе)\nИзнос: > 0.15 (>15% энергии концентрируется)"
+      }
+    ],
+    "conditions": [
+      {
+        "param": "audio_energy_band_120_180",
+        "op": ">",
+        "threshold": "0.15",
+        "weight": 3,
+        "rationale": ">15% энергии в полосе [9]"
+      },
+      {
+        "param": "speed",
+        "op": "between",
+        "threshold": "[30, 70] км/ч",
+        "weight": 1,
+        "rationale": "Городской/пригородный режим"
+      },
+      {
+        "param": "az_std",
+        "op": "z>",
+        "threshold": "1.5",
+        "weight": 2,
+        "rationale": "Вибрация повышена одновременно"
+      }
+    ],
+    "theory": "*Zener model [1]:* при затвердевании резины k₁ и k₂ растут, c падает → f₀ = k₂/(2πc) растёт → пик передачи смещается вверх по частоте. Это объясняет почему именно 120-180 Гц — зона максимальной передачи для изношенного блока. *Brand variations:* VAG MQB 120-180 Гц, Kia/Hyundai 80-140 Гц (другая конструкция, более мягкая резина).",
+    "example": "Входные данные: 10 FFT-пиков аудио:\n  freq: [45, 90, 135, 158, 172, 210, 280, 340, 400, 550] Гц\n  amp:  [0.8, 0.6, 1.2, 1.5, 1.3, 0.4, 0.3, 0.2, 0.15, 0.1]\n  speed=50 км/ч, az_std z-score=1.8\n\n1. Пики в полосе 120-180 Гц: [135, 158, 172] Гц\n   Их амплитуды: [1.2, 1.5, 1.3], сумма = 4.0\n2. Сумма всех амплитуд: 0.8+0.6+1.2+1.5+1.3+0.4+0.3+0.2+0.15+0.1 = 6.55\n3. audio_energy_band_120_180 = 4.0 / 6.55 = 0.611 >> 0.15 ✓ (вес 3)\n4. speed=50 ∈ [30,70] ✓ (вес 1)\n5. az_std z=1.8 > 1.5 ✓ (вес 2)\n6. sum_weights=6/6 → confidence=58%\n→ Status: \"likely\" (bushing_wear_120_180hz)",
+    "sources": [
+      {
+        "ref": "9",
+        "citation": "Ivanov V. et al. (2018). \"Investigation of ride comfort using accelerometer data\". MATEC Web of Conferences 234:02005. DOI:10.1051/matecconf/201823402005",
+        "doi": "10.1051/matecconf/201823402005"
+      },
+      {
+        "ref": "1",
+        "citation": "Thite A.N. et al. (2017). \"Viscoelastic characterisation of automotive hydraulic dampers\". Proc. IMechE Part C, 232(8):1399-1413. DOI:10.1177/0263092317711989",
+        "doi": "10.1177/0263092317711989"
+      },
+      {
+        "ref": null,
+        "citation": "S20 raw: batch-rubber-bushings.json — brand-specific frequency bands"
+      }
+    ],
+    "code_pointers": [
+      {
+        "file": "feature_extractor.py",
+        "line": 178
+      },
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [
+      "A.1",
+      "A.10",
+      "A.25"
+    ],
+    "shadow": false
+  },
+  {
+    "rule_name": "aquaplaning_risk",
+    "display": "Риск аквапланирования",
+    "section": "1.10",
+    "tier": "T2",
+    "min_confidence": 0.4,
+    "cooldown_days": 1,
+    "what": "Риск аквапланирования через боковую нестабильность + всплеск вертикальной вибрации на скорости.",
+    "physics": "При аквапланировании шина теряет контакт с дорогой (k_t → 0). В half-car модели [8] wheel hop частота падает с 10.6 до ~3.5 Гц, контактная сила = 0. Автомобиль начинает скользить — боковые ускорения (ay) резко возрастают при малейшем повороте руля. Одновременно вертикальная вибрация (az) растёт из-за потери демпфирования через шину.",
+    "formulas": [
+      {
+        "code": "ay_spike_ratio = ay_std / az_std    [безразм.]\nНорма при прямолинейном движении: 0.3-0.8\nАквапланирование: > 2.0 (ay доминирует над az)"
+      }
+    ],
+    "conditions": [
+      {
+        "param": "ay_spike_ratio",
+        "op": ">",
+        "threshold": "2.0",
+        "weight": 3,
+        "rationale": "Боковое ускорение доминирует (потеря контакта)"
+      },
+      {
+        "param": "az_std",
+        "op": "z>",
+        "threshold": "2.5",
+        "weight": 2,
+        "rationale": "Вертикальная вибрация повышена"
+      },
+      {
+        "param": "speed",
+        "op": ">",
+        "threshold": "60 км/ч",
+        "weight": 2,
+        "rationale": "Аквапланирование на скорости >60 км/ч"
+      }
+    ],
+    "theory": "*Half-car model [8]:* k_ft → 0 → f_wheel_hop → 0 → контакт утрачен. В FFT-спектре исчезает пик на 10-12 Гц. *Ограничение:* ay_spike может быть вызван поворотом, ветром или перестроением. Правило работает надёжнее на прямой дороге.",
+    "example": "Входные данные: ay_std=1.8 м/с², az_std=0.65 м/с² (z-score=2.7), speed=75 км/ч\n\n1. ay_spike_ratio = ay_std / az_std = 1.8 / 0.65 = 2.77 > 2.0 ✓ (вес 3)\n2. az_std z=2.7 > 2.5 ✓ (вес 2)\n3. speed=75 > 60 ✓ (вес 2)\n4. sum_weights=7/7 → confidence=50% (min 40)\n   Физический смысл: боковые ускорения в 2.77× превышают вертикальные — нетипично\n   для прямой езды, характерно для потери контакта или экстренного манёвра\n→ Status: \"likely\" (aquaplaning_risk), немедленное уведомление",
+    "sources": [
+      {
+        "ref": "8",
+        "citation": "Gillespie T.D. (1992). \"Fundamentals of Vehicle Dynamics\". SAE R-114. ISBN:978-1-56091-199-9"
+      },
+      {
+        "ref": null,
+        "citation": "S21 research-zener-halfcar.md: k_ft→0 analysis"
+      }
+    ],
+    "code_pointers": [
+      {
+        "file": "feature_extractor.py",
+        "line": 235
+      },
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [
+      "A.2"
+    ],
+    "shadow": false
+  },
+  {
+    "rule_name": "shock_absorber_worn",
+    "display": "Износ амортизаторов",
+    "section": "1.11",
+    "tier": "T2",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Износ амортизаторов — только катастрофический уровень (аналогично worn_suspension).",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "az_range",
+        "op": ">",
+        "threshold": "12.0",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": ">",
+        "threshold": "30",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "az_std",
+        "op": ">",
+        "threshold": "3.0",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "Входные данные: az_range=13.5 м/с², az_std=3.8 м/с², speed=55 км/ч\n\n1. az_range=13.5 > 12.0 ✓\n2. speed=55 > 30 ✓\n3. az_std=3.8 > 3.0 ✓\n→ Status: \"critical\" (shock_absorber_worn)\n   Примечание: эти значения = catastrophic failure, ранний износ не детектируется",
+    "sources": [],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "stabilizer_link_worn",
+    "display": "Износ стоек стабилизатора поперечной устойчивости",
+    "section": "1.12",
+    "tier": "T2",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Износ стоек стабилизатора поперечной устойчивости.",
+    "physics": "Стойки стабилизатора связывают корпус со стабилизатором. При износе шаровых наконечников появляется \"clunk\" звук при проезде неровностей, повышенная боковая вибрация (ay_std).",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "ay_std",
+        "op": "z>",
+        "threshold": "2",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": ">",
+        "threshold": "30",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "total_vibration",
+        "op": ">",
+        "threshold": "3",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "Входные данные: ay_std=0.72 м/с² (z-score=2.4), speed=40 км/ч, total_vibration=3.3 м/с²\n\n1. ay_std z=2.4 > 2.0 ✓\n2. speed=40 > 30 ✓\n3. total_vibration=3.3 > 3.0 ✓\n→ Status: \"likely\" (stabilizer_link_worn), confidence=45%",
+    "sources": [],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "comfort_degraded_iso2631",
+    "display": "Деградация комфорта поездки по шкале ISO 2631-1",
+    "section": "1.13",
+    "tier": "T2",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Деградация комфорта поездки по шкале ISO 2631-1.",
+    "physics": "ISO 2631-1:1997 [5] Таблица C.1 определяет реакции человека на вибрацию. При a_w > 1.25 м/с² RMS — \"очень дискомфортно\". Для водителя это утомляемость, боль в спине при длительной поездке, снижение реакции.",
+    "formulas": [
+      {
+        "code": "Шкала ISO 2631-1 (a_w взвешенное RMS):\n  < 0.315 м/с²    — не дискомфортно\n  0.315-0.63       — немного дискомфортно\n  0.63-1.0         — довольно дискомфортно\n  0.8-1.6          — дискомфортно\n  1.25-2.5         — очень дискомфортно\n  > 2.0            — крайне дискомфортно\n\naz_std ≈ a_w × k    (k ∈ [0.85, 1.3] зависит от типа дороги)"
+      }
+    ],
+    "conditions": [
+      {
+        "param": "az_std",
+        "op": ">",
+        "threshold": "1.25",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": ">",
+        "threshold": "30",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "crest_factor_z",
+        "op": ">",
+        "threshold": "2.5",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "Входные данные: az_std=1.48 м/с², speed=70 км/ч, crest_factor_z=2.8\n\n1. az_std=1.48 > 1.25 ✓\n2. speed=70 > 30 ✓\n3. crest_factor_z=2.8 > 2.5 ✓\n4. Оценка по ISO 2631-1:\n   a_w ≈ az_std / k = 1.48 / 1.1 ≈ 1.35 м/с² → \"очень дискомфортно\" (зона 1.25-2.5)\n→ Status: \"likely\" (comfort_degraded_iso2631), рекомендация: проверка подвески + давления шин",
+    "sources": [
+      {
+        "ref": "5",
+        "citation": "ISO 2631-1:1997. \"Mechanical vibration — whole-body vibration — Part 1: General requirements\". iso.org/standard/7612.html"
+      }
+    ],
+    "code_pointers": [
+      {
+        "file": "feature_extractor.py",
+        "line": 0
+      },
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [
+      "A.5",
+      "A.6",
+      "A.13"
+    ],
+    "shadow": false
+  },
+  {
+    "rule_name": "suspension_instability_trend",
+    "display": "Тренд нестабильности подвески",
+    "section": "1.14",
+    "tier": "T2",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Тренд нестабильности подвески — приближение к границе устойчивости (proxy λ_max).",
+    "physics": "Максимальный показатель Ляпунова λ_max [13] характеризует чувствительность системы к возмущениям. λ_max > 0 → хаотическое поведение → подвеска непредсказуема при манёврах. Из summary stats: одновременное превышение z-score по нескольким метрикам = признак системной деградации.",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "az_std",
+        "op": "z>",
+        "threshold": "2.5",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "total_vibration",
+        "op": "z>",
+        "threshold": "2.0",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "crest_factor_",
+        "op": "z>",
+        "threshold": "3.5",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": ">",
+        "threshold": "40",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "Входные данные: az_std z-score=2.8, total_vibration z-score=2.3,\n                crest_factor_z=3.9, speed=68 км/ч\n\n1. az_std z=2.8 > 2.5 ✓\n2. total_vibration z=2.3 > 2.0 ✓\n3. crest_factor_z=3.9 > 3.5 ✓\n4. speed=68 > 40 ✓\n5. CV(az_std) proxy:\n   Если по последним 10 окнам: std(az_std_окна)/mean(az_std_окна) > 0.5 → λ_max proxy > 0\n→ Status: \"warning\" (suspension_instability_trend), рекомендация: внеплановая диагностика",
+    "sources": [
+      {
+        "ref": "13",
+        "citation": "Rosenstein M.T. et al. (1993). \"A practical method for calculating largest Lyapunov exponents from a small data set\". Physica D 65(1-2):117-134. DOI:10.1016/0167-2789(93)90009-P",
+        "doi": "10.1016/0167-2789(93)90009-P"
+      },
+      {
+        "ref": "7",
+        "citation": "Czop P. et al. (2023). \"Stochastic resonance in quarter-car model\". Applied Sciences 14(8):3140. DOI:10.3390/app14083140",
+        "doi": "10.3390/app14083140"
+      }
+    ],
+    "code_pointers": [
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [
+      "A.3",
+      "A.4"
+    ],
+    "shadow": false
+  },
+  {
+    "rule_name": "knock_impulse_percussive",
+    "display": "Детонация двигателя через ударные (перкуссивные) пики в полосе 5-8 кГц",
+    "section": "1.15",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Детонация двигателя через ударные (перкуссивные) пики в полосе 5-8 кГц.",
+    "physics": "Детонация = аномальное горение со скоростью >1000 м/с. Создаёт ударную волну в камере сгорания с характерной частотой 5-8 кГц (зависит от bore diameter) и длительностью <10 мс. В отличие от визга тормозов (тональный, kurtosis<3), детонация — импульсная (kurtosis>6).\n\nХарактерная частота детонации определяется первой окружной модой Helmholtz-резонатора камеры сгорания по формуле **Draper 1938** (см. **A.31 Engine Order Spectrum + Draper detonation formula**):",
+    "formulas": [
+      {
+        "code": "percussive_energy_5k_8k = Σ|amp_perc_i| для freq_perc_i ∈ [5000,8000] / Σ|amp_perc_i| всех\npercussive_peak_count_5k_8k = count(peaks в [5000,8000])"
+      }
+    ],
+    "conditions": [
+      {
+        "param": "percussive_energy_5k_8k",
+        "op": ">",
+        "threshold": "0.3",
+        "weight": 3,
+        "rationale": ""
+      },
+      {
+        "param": "percussive_peak_count_5k_8k",
+        "op": ">=",
+        "threshold": "2",
+        "weight": 2,
+        "rationale": ""
+      },
+      {
+        "param": "dominant_freq",
+        "op": "between",
+        "threshold": "[5000, 8000]",
+        "weight": 2,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "Входные данные: percussive peaks:\n  freq_perc: [1200, 5400, 6100, 7200, 9500, ...]\n  amp_perc:  [0.15, 0.42, 0.38, 0.31, 0.12, ...]\n\n1. Пики в [5000,8000] Гц: [5400, 6100, 7200]\n   Их амплитуды: [0.42, 0.38, 0.31], сумма = 1.11\n2. Сумма всех amp_perc = 1.38\n3. percussive_energy_5k_8k = 1.11 / 1.38 = 0.804 > 0.3 ✓ (вес 3)\n4. percussive_peak_count_5k_8k = 3 >= 2 ✓ (вес 2)\n5. dominant_freq = 5400 ∈ [5000,8000] ✓ (вес 2)\n6. sum_weights=7/7 → confidence=70%\n   Характерная частота 5-8 кГц: соответствует bore diameter ~80 мм\n→ Status: \"likely\" (knock_impulse_percussive), DTC: P0324/P0325",
+    "sources": [
+      {
+        "ref": "V9",
+        "citation": "Dynamox. \"FFT Interpretation Guide\". dynamox.net [Vendor]"
+      },
+      {
+        "ref": "11",
+        "citation": "Sugumaran V., Balaji P.A. (2024). \"Feature-based classification for suspension fault detection\". Proc. IMechE Part E. DOI:10.1177/09544089231152698",
+        "doi": "10.1177/09544089231152698"
+      },
+      {
+        "ref": null,
+        "citation": "S20 REPORT.md Part IV.2 (Rule 8)"
+      }
+    ],
+    "code_pointers": [
+      {
+        "file": "feature_extractor.py",
+        "line": 202
+      },
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [
+      "A.31",
+      "A.10",
+      "A.11",
+      "A.12"
+    ],
+    "shadow": false,
+    "replaces": "knock_detonation"
+  },
+  {
+    "rule_name": "wheel_imbalance_general",
+    "display": "Дисбаланс колёс",
+    "section": "1.16",
+    "tier": "T2",
+    "min_confidence": 0.5,
+    "cooldown_days": 7,
+    "what": "Дисбаланс колёс — упрощённая версия без проверки частотного соотношения к скорости вращения колеса.",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "az_std",
+        "op": "z>",
+        "threshold": "2.0",
+        "weight": 3,
+        "rationale": ""
+      },
+      {
+        "param": "total_vibration",
+        "op": ">",
+        "threshold": "3.0",
+        "weight": 2,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": ">",
+        "threshold": "60.0 км/ч",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "engine_mount_wear_legacy",
+    "display": "Износ опор двигателя",
+    "section": "1.17",
+    "tier": "T2",
+    "min_confidence": 0.5,
+    "cooldown_days": 7,
+    "what": "Износ опор двигателя — базовая версия без анализа гармоник RPM.",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "az_std",
+        "op": "z>",
+        "threshold": "2.0",
+        "weight": 2,
+        "rationale": ""
+      },
+      {
+        "param": "dominant_amp",
+        "op": "z>",
+        "threshold": "2.0",
+        "weight": 2,
+        "rationale": ""
+      },
+      {
+        "param": "rpm",
+        "op": ">",
+        "threshold": "1500 об/мин",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "front_suspension_worn",
+    "display": "Износ элементов передней подвески",
+    "section": "1.18",
+    "tier": "T2",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Износ элементов передней подвески — аномальные ускорения по оси X (продольные удары, характерны для рычагов и сайлентблоков).",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "ax_std",
+        "op": "z>",
+        "threshold": "2.5",
+        "weight": 3,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": ">",
+        "threshold": "40.0 км/ч",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "lateral_instability",
+    "display": "Боковая нестабильность",
+    "section": "1.19",
+    "tier": "T2",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Боковая нестабильность — аномальная боковая вибрация на скорости, характерна для износа стоек стабилизатора, шаровых опор или рулевых тяг.",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "ay_std",
+        "op": "z>",
+        "threshold": "2.5",
+        "weight": 3,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": ">",
+        "threshold": "60.0 км/ч",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "high_crest_vertical",
+    "display": "Импульсные удары подвески",
+    "section": "1.20",
+    "tier": "T2",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Импульсные удары подвески — высокий crest_factor по оси Z указывает на острые одиночные импульсы (изношенные амортизаторы, пробои подвески).",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "crest_factor_z",
+        "op": ">",
+        "threshold": "5.0",
+        "weight": 3,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": ">",
+        "threshold": "40.0 км/ч",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [
+      "A.13"
+    ],
+    "shadow": false
+  },
+  {
+    "rule_name": "vibration_at_speed",
+    "display": "Вибрация пропорциональная скорости",
+    "section": "1.21",
+    "tier": "T2",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Вибрация пропорциональная скорости — отношение вибрации к скорости превышает норму, что указывает на проблемы вращающихся элементов (колёса, карданный вал).",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "vibration_speed_ratio",
+        "op": ">",
+        "threshold": "0.05",
+        "weight": 3,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": ">",
+        "threshold": "50.0 км/ч",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "idle_vibration_high",
+    "display": "Повышенная вибрация на холостом ходу",
+    "section": "1.22",
+    "tier": "T2",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Повышенная вибрация на холостом ходу — аномальная общая вибрация при скорости < 3 км/ч. Характерна для пропусков зажигания, изношенных опор двигателя.",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "total_vibration",
+        "op": "z>",
+        "threshold": "2.0",
+        "weight": 3,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": "<",
+        "threshold": "3.0 км/ч",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "harsh_road_surface",
+    "display": "Плохое дорожное покрытие",
+    "section": "1.23",
+    "tier": "T2",
+    "min_confidence": 0.6,
+    "cooldown_days": 7,
+    "what": "Плохое дорожное покрытие — общая вибрация превышает абсолютный порог на скорости. Используется как контекстный фильтр для снижения ложных срабатываний других правил.",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "total_vibration",
+        "op": ">",
+        "threshold": "7.0",
+        "weight": 3,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": ">",
+        "threshold": "60.0 км/ч",
+        "weight": 2,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "suspension_rattle",
+    "display": "Дребезг элементов подвески",
+    "section": "1.24",
+    "tier": "T2",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Дребезг элементов подвески — одновременно высокая вертикальная вибрация и аудио-сигнал в диапазоне 50–200 Гц (характерен для люфтов и износа втулок).",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "az_std",
+        "op": "z>",
+        "threshold": "2.5",
+        "weight": 3,
+        "rationale": ""
+      },
+      {
+        "param": "dominant_amp",
+        "op": "z>",
+        "threshold": "1.5",
+        "weight": 2,
+        "rationale": ""
+      },
+      {
+        "param": "dominant_freq",
+        "op": "between",
+        "threshold": "[50, 200] Гц",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "rough_road_impact",
+    "display": "Удар на неровности",
+    "section": "1.25",
+    "tier": "T2",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Удар на неровности — очень высокий crest_factor в сочетании с большим диапазоном az_range. Острый одиночный импульс при проезде ямы или лежачего полицейского.",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "crest_factor_z",
+        "op": ">",
+        "threshold": "6.0",
+        "weight": 3,
+        "rationale": ""
+      },
+      {
+        "param": "az_range",
+        "op": ">",
+        "threshold": "10.0",
+        "weight": 2,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": ">",
+        "threshold": "20.0 км/ч",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "tire_flat_vibration",
+    "display": "Вибрация от спущенного или сильно недокачанного колеса",
+    "section": "1.26",
+    "tier": "T2",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Вибрация от спущенного или сильно недокачанного колеса — сочетание высокой общей вибрации и az_std на умеренных скоростях.",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "total_vibration",
+        "op": "z>",
+        "threshold": "3.0",
+        "weight": 3,
+        "rationale": ""
+      },
+      {
+        "param": "az_std",
+        "op": "z>",
+        "threshold": "2.5",
+        "weight": 2,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": "between",
+        "threshold": "[20, 60] км/ч",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "axle_vibration",
+    "display": "Вибрация приводного вала",
+    "section": "1.27",
+    "tier": "T2",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Вибрация приводного вала — одновременные аномалии по осям X и Y на скорости указывают на биение или повреждение полуоси/карданного вала.",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "ax_std",
+        "op": "z>",
+        "threshold": "2.0",
+        "weight": 3,
+        "rationale": ""
+      },
+      {
+        "param": "ay_std",
+        "op": "z>",
+        "threshold": "2.0",
+        "weight": 2,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": ">",
+        "threshold": "50.0 км/ч",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "vibration_with_dtc",
+    "display": "Вибрация в сочетании с кодами неисправностей P0300–P0304",
+    "section": "1.28",
+    "tier": "T2",
+    "min_confidence": 0.35,
+    "cooldown_days": 7,
+    "what": "Вибрация в сочетании с кодами неисправностей P0300–P0304 — пропуски зажигания, проявляющиеся механической вибрацией.",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "total_vibration",
+        "op": "z>",
+        "threshold": "2.0",
+        "weight": 3,
+        "rationale": ""
+      },
+      {
+        "param": "az_std",
+        "op": "z>",
+        "threshold": "2.0",
+        "weight": 2,
+        "rationale": ""
+      },
+      {
+        "param": "rpm",
+        "op": ">",
+        "threshold": "800 об/мин",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "exhaust_leak",
+    "display": "Утечка выхлопных газов",
+    "section": "2.1.1",
+    "tier": "T3",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Утечка выхлопных газов — низкочастотный (< 80 Гц) аномально громкий звук, характерный для трещин в выпускном коллекторе или прогара прокладки.",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "dominant_freq",
+        "op": "<",
+        "threshold": "80.0 Гц",
+        "weight": 2,
+        "rationale": ""
+      },
+      {
+        "param": "dominant_amp",
+        "op": "z>",
+        "threshold": "2.0",
+        "weight": 3,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "intake_noise",
+    "display": "Шум впускного тракта",
+    "section": "2.1.2",
+    "tier": "T3",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Шум впускного тракта — аномальный звук в диапазоне 50–200 Гц при повышенных оборотах. Характерен для подсоса воздуха после MAF, трещин воздуховода.",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "dominant_freq",
+        "op": "between",
+        "threshold": "[50, 200] Гц",
+        "weight": 2,
+        "rationale": ""
+      },
+      {
+        "param": "dominant_amp",
+        "op": "z>",
+        "threshold": "2.0",
+        "weight": 3,
+        "rationale": ""
+      },
+      {
+        "param": "rpm",
+        "op": ">",
+        "threshold": "2000 об/мин",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "valve_train_noise",
+    "display": "Шум клапанного механизма",
+    "section": "2.1.3",
+    "tier": "T3",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Шум клапанного механизма — аномальный звук в диапазоне 500–1500 Гц при средних оборотах. Характерен для износа толкателей, гидрокомпенсаторов, распредвала.",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "dominant_freq",
+        "op": "between",
+        "threshold": "[500, 1500] Гц",
+        "weight": 2,
+        "rationale": ""
+      },
+      {
+        "param": "dominant_amp",
+        "op": "z>",
+        "threshold": "1.5",
+        "weight": 3,
+        "rationale": ""
+      },
+      {
+        "param": "rpm",
+        "op": ">",
+        "threshold": "1500 об/мин",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "knock_detonation",
+    "display": "Детонация двигателя",
+    "section": "2.1.4",
+    "tier": "T3",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Детонация двигателя — аномальный звук в диапазоне 5000–8000 Гц. Legacy-версия без разделения на harmonic/percussive компоненты.",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "dominant_freq",
+        "op": "between",
+        "threshold": "[5000, 8000] Гц",
+        "weight": 2,
+        "rationale": ""
+      },
+      {
+        "param": "dominant_amp",
+        "op": "z>",
+        "threshold": "2.0",
+        "weight": 3,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "timing_chain_rattle",
+    "display": "Дребезг цепи ГРМ",
+    "section": "2.1.5",
+    "tier": "T3",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Дребезг цепи ГРМ — аномальный звук в диапазоне 200–500 Гц при низких оборотах (особенно характерен при холодном пуске и сразу после него).",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "dominant_freq",
+        "op": "between",
+        "threshold": "[200, 500] Гц",
+        "weight": 2,
+        "rationale": ""
+      },
+      {
+        "param": "dominant_amp",
+        "op": "z>",
+        "threshold": "2.5",
+        "weight": 3,
+        "rationale": ""
+      },
+      {
+        "param": "rpm",
+        "op": "<",
+        "threshold": "1200 об/мин",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "turbo_whistle",
+    "display": "Свист турбокомпрессора",
+    "section": "2.2.1",
+    "tier": "T3",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Свист турбокомпрессора — высокочастотный (> 1500 Гц) аномальный звук на скорости при повышенных оборотах. Характерен для износа подшипников турбины.",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "dominant_freq",
+        "op": ">",
+        "threshold": "1500.0 Гц",
+        "weight": 2,
+        "rationale": ""
+      },
+      {
+        "param": "dominant_amp",
+        "op": "z>",
+        "threshold": "2.0",
+        "weight": 3,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": ">",
+        "threshold": "40.0 км/ч",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "rpm",
+        "op": ">",
+        "threshold": "2000 об/мин",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "rumble_low_freq",
+    "display": "Низкочастотный гул трансмиссии",
+    "section": "2.2.2",
+    "tier": "T3",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Низкочастотный гул трансмиссии — аномальный звук ниже 50 Гц на скорости. Характерен для износа подшипников редуктора, главной пары, карданного вала.",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "dominant_freq",
+        "op": "<",
+        "threshold": "50.0 Гц",
+        "weight": 2,
+        "rationale": ""
+      },
+      {
+        "param": "dominant_amp",
+        "op": "z>",
+        "threshold": "2.0",
+        "weight": 3,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": ">",
+        "threshold": "30.0 км/ч",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "audio_speed_correlation",
+    "display": "Шум коррелирует со скоростью",
+    "section": "2.2.3",
+    "tier": "T3",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Шум коррелирует со скоростью — аномальная амплитуда в диапазоне 100–500 Гц при скорости выше 50 км/ч. Указывает на скоростезависимые источники: подшипники колёс, трансмиссия.",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "dominant_amp",
+        "op": "z>",
+        "threshold": "2.0",
+        "weight": 3,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": ">",
+        "threshold": "50.0 км/ч",
+        "weight": 2,
+        "rationale": ""
+      },
+      {
+        "param": "dominant_freq",
+        "op": "between",
+        "threshold": "[100, 500] Гц",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "brake_squeal",
+    "display": "Скрип тормозов при торможении",
+    "section": "2.3.1",
+    "tier": "T3",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Скрип тормозов при торможении — высокочастотный звук (> 2000 Гц) на малых скоростях. Характерен для загрязнения или остекленения тормозных колодок.",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "dominant_freq",
+        "op": ">",
+        "threshold": "2000.0 Гц",
+        "weight": 3,
+        "rationale": ""
+      },
+      {
+        "param": "dominant_amp",
+        "op": "z>",
+        "threshold": "1.5",
+        "weight": 2,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": "<",
+        "threshold": "10.0 км/ч",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "brake_pad_wear",
+    "display": "Износ тормозных колодок до индикатора",
+    "section": "2.3.2",
+    "tier": "T3",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Износ тормозных колодок до индикатора — высокочастотный скрип (> 2500 Гц) в диапазоне скоростей 5–30 км/ч от металлического индикатора износа.",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "dominant_freq",
+        "op": ">",
+        "threshold": "2500.0 Гц",
+        "weight": 3,
+        "rationale": ""
+      },
+      {
+        "param": "dominant_amp",
+        "op": "z>",
+        "threshold": "2.0",
+        "weight": 2,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": "between",
+        "threshold": "[5, 30] км/ч",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "belt_squeal",
+    "display": "Визг приводного ремня",
+    "section": "2.4.1",
+    "tier": "T3",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Визг приводного ремня — аномальный звук в диапазоне 1000–4000 Гц. Характерен для проскальзывания ремня генератора, кондиционера, ГУРа.",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "dominant_freq",
+        "op": "between",
+        "threshold": "[1000, 4000] Гц",
+        "weight": 2,
+        "rationale": ""
+      },
+      {
+        "param": "dominant_amp",
+        "op": "z>",
+        "threshold": "2.0",
+        "weight": 3,
+        "rationale": ""
+      },
+      {
+        "param": "rpm",
+        "op": ">",
+        "threshold": "1000 об/мин",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "compressor_noise",
+    "display": "Шум компрессора кондиционера",
+    "section": "2.4.2",
+    "tier": "T3",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Шум компрессора кондиционера — аномальный звук в диапазоне 800–1200 Гц. Характерен для износа подшипника муфты компрессора.",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "dominant_freq",
+        "op": "between",
+        "threshold": "[800, 1200] Гц",
+        "weight": 2,
+        "rationale": ""
+      },
+      {
+        "param": "dominant_amp",
+        "op": "z>",
+        "threshold": "2.0",
+        "weight": 3,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "water_pump_noise",
+    "display": "Шум водяной помпы",
+    "section": "2.4.3",
+    "tier": "T3",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Шум водяной помпы — аномальный звук в диапазоне 400–800 Гц при оборотах выше 1000 об/мин. Характерен для износа подшипника или кавитации.",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "dominant_freq",
+        "op": "between",
+        "threshold": "[400, 800] Гц",
+        "weight": 2,
+        "rationale": ""
+      },
+      {
+        "param": "dominant_amp",
+        "op": "z>",
+        "threshold": "2.0",
+        "weight": 3,
+        "rationale": ""
+      },
+      {
+        "param": "rpm",
+        "op": ">",
+        "threshold": "1000 об/мин",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "fuel_pump_noise",
+    "display": "Шум топливного насоса",
+    "section": "2.4.4",
+    "tier": "T3",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Шум топливного насоса — аномальный звук в диапазоне 200–400 Гц в режиме стоянки/малой скорости. Характерен для износа или завоздушивания насоса.",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "dominant_freq",
+        "op": "between",
+        "threshold": "[200, 400] Гц",
+        "weight": 2,
+        "rationale": ""
+      },
+      {
+        "param": "dominant_amp",
+        "op": "z>",
+        "threshold": "1.5",
+        "weight": 3,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": "<",
+        "threshold": "10.0 км/ч",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "starter_grinding",
+    "display": "Скрежет стартера",
+    "section": "2.4.5",
+    "tier": "T3",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Скрежет стартера — аномально громкий звук в диапазоне 100–300 Гц при оборотах < 500 об/мин (момент пуска). Характерен для износа бендикса или зубцов венца маховика.",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "dominant_freq",
+        "op": "between",
+        "threshold": "[100, 300] Гц",
+        "weight": 2,
+        "rationale": ""
+      },
+      {
+        "param": "dominant_amp",
+        "op": "z>",
+        "threshold": "3.0",
+        "weight": 3,
+        "rationale": ""
+      },
+      {
+        "param": "rpm",
+        "op": "<",
+        "threshold": "500 об/мин",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "power_steering_noise",
+    "display": "Шум гидроусилителя руля",
+    "section": "2.4.6",
+    "tier": "T3",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Шум гидроусилителя руля — аномальная амплитуда при боковых перегрузках (ay_std > 1.5) на малых скоростях. Характерен для износа насоса ГУРа или воздуха в системе.",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "dominant_amp",
+        "op": "z>",
+        "threshold": "2.0",
+        "weight": 3,
+        "rationale": ""
+      },
+      {
+        "param": "ay_std",
+        "op": ">",
+        "threshold": "1.5",
+        "weight": 2,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": "<",
+        "threshold": "20.0 км/ч",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "bearing_wear",
+    "display": "Износ подшипников",
+    "section": "2.5.1",
+    "tier": "T3",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Износ подшипников — legacy-версия, только по высокой частоте > 200 Гц без учёта скоростного соотношения.",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "dominant_freq",
+        "op": ">",
+        "threshold": "200.0 Гц",
+        "weight": 2,
+        "rationale": ""
+      },
+      {
+        "param": "dominant_amp",
+        "op": "z>",
+        "threshold": "2.5",
+        "weight": 3,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "wind_noise",
+    "display": "Аэродинамический шум",
+    "section": "2.5.2",
+    "tier": "T3",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Аэродинамический шум — аномальный звук выше 300 Гц на высокой скорости (> 90 км/ч). Характерен для неплотного прилегания уплотнителей дверей, крышки багажника.",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "dominant_freq",
+        "op": ">",
+        "threshold": "300.0 Гц",
+        "weight": 2,
+        "rationale": ""
+      },
+      {
+        "param": "dominant_amp",
+        "op": "z>",
+        "threshold": "1.5",
+        "weight": 3,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": ">",
+        "threshold": "90.0 км/ч",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "whistle_high_freq",
+    "display": "Высокочастотный свист",
+    "section": "2.5.3",
+    "tier": "T3",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Высокочастотный свист — аномальный звук в диапазоне 3000–6000 Гц. Может указывать на вибрацию деталей кузова, уплотнителей, патрубков.",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "dominant_freq",
+        "op": "between",
+        "threshold": "[3000, 6000] Гц",
+        "weight": 2,
+        "rationale": ""
+      },
+      {
+        "param": "dominant_amp",
+        "op": "z>",
+        "threshold": "2.0",
+        "weight": 3,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": ">",
+        "threshold": "20.0 км/ч",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "loose_heat_shield",
+    "display": "Вибрация теплозащитного экрана",
+    "section": "2.5.4",
+    "tier": "T3",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Вибрация теплозащитного экрана — звук 300–600 Гц в сочетании с вертикальной вибрацией. Характерен для ослабленного крепления защитных экранов катализатора или глушителя.",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "dominant_freq",
+        "op": "between",
+        "threshold": "[300, 600] Гц",
+        "weight": 2,
+        "rationale": ""
+      },
+      {
+        "param": "dominant_amp",
+        "op": "z>",
+        "threshold": "2.0",
+        "weight": 3,
+        "rationale": ""
+      },
+      {
+        "param": "az_std",
+        "op": "z>",
+        "threshold": "1.5",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "drivetrain_vibration",
+    "display": "Вибрация трансмиссии на скорости",
+    "section": "3.1",
+    "tier": "T2",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Вибрация трансмиссии на скорости — сочетание повышенной общей вибрации и аудио-аномалии при скорости выше 50 км/ч. Указывает на проблемы вращающихся элементов: карданный вал, ШРУС, редуктор.",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "total_vibration",
+        "op": "z>",
+        "threshold": "2.5",
+        "weight": 3,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": ">",
+        "threshold": "50.0 км/ч",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "dominant_amp",
+        "op": "z>",
+        "threshold": "1.5",
+        "weight": 2,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "brake_vibration",
+    "display": "Вибрация при торможении",
+    "section": "3.2",
+    "tier": "T2",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Вибрация при торможении — вертикальная вибрация и аудио-аномалия в диапазоне скоростей 20–80 км/ч. Характерна для биения тормозных дисков (биение — runout).",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "az_std",
+        "op": "z>",
+        "threshold": "2.0",
+        "weight": 3,
+        "rationale": ""
+      },
+      {
+        "param": "dominant_amp",
+        "op": "z>",
+        "threshold": "1.5",
+        "weight": 2,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": "between",
+        "threshold": "[20, 80] км/ч",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "cv_joint_click",
+    "display": "Щелчки ШРУСа",
+    "section": "3.3",
+    "tier": "T2",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Щелчки ШРУСа — боковая вибрация (ay_std > 2.5) и аудио-аномалия на малых скоростях. Щелчки проявляются при повороте с нагрузкой (скорость 10–40 км/ч).",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "ay_std",
+        "op": ">",
+        "threshold": "2.5",
+        "weight": 3,
+        "rationale": ""
+      },
+      {
+        "param": "dominant_amp",
+        "op": "z>",
+        "threshold": "2.0",
+        "weight": 2,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": "between",
+        "threshold": "[10, 40] км/ч",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "transmission_slip",
+    "display": "Проскальзывание АКПП",
+    "section": "3.4",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Проскальзывание АКПП — высокие обороты (> 3000 об/мин) при низкой скорости (< 40 км/ч) после прогрева. Признак износа гидротрансформатора или фрикционных пакетов.",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "rpm",
+        "op": ">",
+        "threshold": "3000 об/мин",
+        "weight": 5,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": "<",
+        "threshold": "40.0 км/ч",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "coolant_temp",
+        "op": ">",
+        "threshold": "80.0 °C",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "threshold_rules.json",
+        "line": 0
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "fuel_bank_cross",
+    "display": "Кросс-анализ топливных коррекций Bank 1 vs Bank 2",
+    "section": "4.1",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Кросс-анализ топливных коррекций Bank 1 vs Bank 2 — определяет, является ли проблема системной (оба банка) или локализованной (один банк).",
+    "physics": "",
+    "formulas": [],
+    "conditions": [],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "complex_rules.py",
+        "line": 79
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "vibration_regime_dependency",
+    "display": "Режимная зависимость вибрации",
+    "section": "4.2",
+    "tier": "T2",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Режимная зависимость вибрации — анализирует базовые линии по режимам (`idle`, `city`, `highway`) и определяет, в каком режиме вибрация аномально высокая.",
+    "physics": "",
+    "formulas": [],
+    "conditions": [],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "complex_rules.py",
+        "line": 165
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "audio_engine_harmonic",
+    "display": "Совпадение доминирующей аудио-частоты с гармониками оборотов двигателя",
+    "section": "4.3",
+    "tier": "T3",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Совпадение доминирующей аудио-частоты с гармониками оборотов двигателя — подтверждает, что источник звука механически связан с двигателем.",
+    "physics": "",
+    "formulas": [],
+    "conditions": [],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "complex_rules.py",
+        "line": 279
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "warmup_anomaly",
+    "display": "Аномалия, сохраняющаяся после прогрева",
+    "section": "4.4",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Аномалия, сохраняющаяся после прогрева — исключает проблемы холодного пуска; срабатывает только при coolant_temp > 80 °C.",
+    "physics": "",
+    "formulas": [],
+    "conditions": [],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "complex_rules.py",
+        "line": 356
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "speed_vibration_resonance",
+    "display": "Резонансная вибрация на конкретной скорости",
+    "section": "4.5",
+    "tier": "T2",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Резонансная вибрация на конкретной скорости — пик az_std при определённой скорости (z > 2.5 относительно базовой линии режима).",
+    "physics": "",
+    "formulas": [],
+    "conditions": [],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "complex_rules.py",
+        "line": 454
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "phev_battery_degradation",
+    "display": "Признаки деградации высоковольтной батареи PHEV/BEV",
+    "section": "4.6",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Признаки деградации высоковольтной батареи PHEV/BEV — мульти-симптомный анализ, требует минимум 2 из 4 симптомов.",
+    "physics": "",
+    "formulas": [],
+    "conditions": [],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "complex_rules.py",
+        "line": 523
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "combined_drivetrain_stress",
+    "display": "Комплексная нагрузка на трансмиссию",
+    "section": "4.7",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Комплексная нагрузка на трансмиссию — кросс-корреляция 4 сигналов: RPM/скорость, вибрация, низкочастотный звук, топливные коррекции. Требует минимум 2 из 4.",
+    "physics": "",
+    "formulas": [],
+    "conditions": [],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "complex_rules.py",
+        "line": 606
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "adaptive_damper_hydraulic_dead",
+    "display": "Гидравлический отказ адаптивного амортизатора без электрической неисправности",
+    "section": "4.8",
+    "tier": "T2",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Гидравлический отказ адаптивного амортизатора без электрической неисправности — ситуация, когда электронная самодиагностика проходит, но гидравлика уже не работает.",
+    "physics": "",
+    "formulas": [],
+    "conditions": [],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "complex_rules.py",
+        "line": 716
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "vibration_rpm",
+    "display": "Корреляция вибрации с оборотами двигателя",
+    "section": "5.1",
+    "tier": "T2",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "",
+    "physics": "",
+    "formulas": [],
+    "conditions": [],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "correlation_engine.py",
+        "line": 106
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "audio_wheel",
+    "display": "Корреляция аудио с угловой скоростью колеса",
+    "section": "5.2",
+    "tier": "T2",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "",
+    "physics": "",
+    "formulas": [],
+    "conditions": [],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "correlation_engine.py",
+        "line": 133
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "turn_click",
+    "display": "Щелчок ШРУСа при повороте",
+    "section": "5.3",
+    "tier": "T2",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "",
+    "physics": "",
+    "formulas": [],
+    "conditions": [],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "correlation_engine.py",
+        "line": 176
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "vibration_speed_peak",
+    "display": "Пик вибрации на определённой скорости",
+    "section": "5.4",
+    "tier": "T2",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "",
+    "physics": "",
+    "formulas": [],
+    "conditions": [],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "correlation_engine.py",
+        "line": 212
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "highfreq_vibration",
+    "display": "Высокочастотная вибрация",
+    "section": "5.5",
+    "tier": "T2",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "",
+    "physics": "",
+    "formulas": [],
+    "conditions": [],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "correlation_engine.py",
+        "line": 263
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "audio_accel_source",
+    "display": "Идентификация источника: аудио vs вибрация",
+    "section": "5.6",
+    "tier": "T2",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "",
+    "physics": "",
+    "formulas": [],
+    "conditions": [],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "correlation_engine.py",
+        "line": 295
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "road_roughness_psd",
+    "display": "Оценка шероховатости дороги (PSD)",
+    "section": "5.7",
+    "tier": "T2",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "",
+    "physics": "",
+    "formulas": [],
+    "conditions": [],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [
+      {
+        "file": "correlation_engine.py",
+        "line": 326
+      }
+    ],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "shock_absorber_early_wear_corrected",
+    "display": "Ранний износ амортизатора (уточнённое)",
+    "section": "6.1",
+    "tier": "T2",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "az_std",
+        "op": "z>",
+        "threshold": "1.5",
+        "weight": 3,
+        "rationale": ""
+      },
+      {
+        "param": "az_range",
+        "op": ">",
+        "threshold": "5.0",
+        "weight": 2,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": ">",
+        "threshold": "30.0 км/ч",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "crest_factor_z",
+        "op": ">",
+        "threshold": "3.0",
+        "weight": 2,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": true
+  },
+  {
+    "rule_name": "shock_absorber_worn_corrected",
+    "display": "Износ амортизатора (уточнённое)",
+    "section": "6.2",
+    "tier": "T2",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "az_range",
+        "op": ">",
+        "threshold": "8.0",
+        "weight": 3,
+        "rationale": ""
+      },
+      {
+        "param": "az_std",
+        "op": ">",
+        "threshold": "2.0",
+        "weight": 2,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": ">",
+        "threshold": "30.0 км/ч",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "crest_factor_z",
+        "op": ">",
+        "threshold": "3.5",
+        "weight": 2,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": true
+  },
+  {
+    "rule_name": "stabilizer_link_worn_freq",
+    "display": "Износ стойки стабилизатора (по частоте)",
+    "section": "6.3",
+    "tier": "T2",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "ay_std",
+        "op": "z>",
+        "threshold": "2.0",
+        "weight": 3,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": ">",
+        "threshold": "30.0 км/ч",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "total_vibration",
+        "op": ">",
+        "threshold": "3.0",
+        "weight": 2,
+        "rationale": ""
+      },
+      {
+        "param": "dominant_freq",
+        "op": "between",
+        "threshold": "[80, 400] Гц",
+        "weight": 2,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": true
+  },
+  {
+    "rule_name": "DTC",
+    "display": "boost правила",
+    "section": "8.4",
+    "tier": "T2",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "",
+    "physics": "",
+    "formulas": [],
+    "conditions": [],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "engine_overheating",
+    "display": "Перегрев двигателя",
+    "section": "7.1",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Перегрев двигателя",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "coolant_temp",
+        "op": ">",
+        "threshold": "100",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "rpm",
+        "op": ">",
+        "threshold": "1200",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0217"
+      },
+      {
+        "ref": "DTC",
+        "citation": "P0118"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "coolant_overtemp_warning",
+    "display": "Предупреждение: температура ОЖ повышена",
+    "section": "7.1",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Предупреждение: температура ОЖ повышена",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "coolant_temp",
+        "op": ">",
+        "threshold": "95",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "coolant_temp",
+        "op": "<",
+        "threshold": "105",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0217"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "cold_engine_driving",
+    "display": "Движение на непрогретом двигателе",
+    "section": "7.1",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Движение на непрогретом двигателе",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "speed",
+        "op": ">",
+        "threshold": "60 км/ч",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "coolant_temp",
+        "op": "<",
+        "threshold": "50",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "thermostat_stuck_open",
+    "display": "Термостат заклинил (открыт)",
+    "section": "7.1",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Термостат заклинил (открыт)",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "coolant_temp",
+        "op": "<",
+        "threshold": "70",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": ">",
+        "threshold": "40 км/ч",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "rpm",
+        "op": ">",
+        "threshold": "1500",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0128"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "thermostat_stuck_closed",
+    "display": "Термостат заклинил (закрыт)",
+    "section": "7.1",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Термостат заклинил (закрыт)",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "coolant_temp",
+        "op": ">",
+        "threshold": "105",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": ">",
+        "threshold": "60 км/ч",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0217"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "warmup_too_slow",
+    "display": "Слишком медленный прогрев",
+    "section": "7.1",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Слишком медленный прогрев",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "coolant_temp",
+        "op": "<",
+        "threshold": "60",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "rpm",
+        "op": ">",
+        "threshold": "1500",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": ">",
+        "threshold": "40 км/ч",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0128"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "summer_overheat_risk",
+    "display": "Риск перегрева (лето, пробки)",
+    "section": "7.1",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Риск перегрева (лето, пробки)",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "coolant_temp",
+        "op": ">",
+        "threshold": "100",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": "<",
+        "threshold": "10 км/ч",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "rpm",
+        "op": "<",
+        "threshold": "1000",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0217"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "coolant_sensor",
+    "display": "Неисправность датчика ОЖ",
+    "section": "7.1",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Неисправность датчика ОЖ",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "coolant_temp",
+        "op": "<",
+        "threshold": "−20",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0115"
+      },
+      {
+        "ref": "DTC",
+        "citation": "P0116"
+      },
+      {
+        "ref": "DTC",
+        "citation": "P0117"
+      },
+      {
+        "ref": "DTC",
+        "citation": "P0118"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "catalytic_overtemp",
+    "display": "Перегрев катализатора",
+    "section": "7.1",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Перегрев катализатора",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "coolant_temp",
+        "op": ">",
+        "threshold": "100",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "ltft_bank1",
+        "op": "<",
+        "threshold": "−8%",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "rpm",
+        "op": ">",
+        "threshold": "2000",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0420"
+      },
+      {
+        "ref": "DTC",
+        "citation": "P0430"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "catalytic_light_off_slow",
+    "display": "Медленный прогрев катализатора",
+    "section": "7.1",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Медленный прогрев катализатора",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "o2_voltage",
+        "op": "<",
+        "threshold": "0.2 В",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "coolant_temp",
+        "op": ">",
+        "threshold": "70",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "rpm",
+        "op": ">",
+        "threshold": "1000",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0420"
+      },
+      {
+        "ref": "DTC",
+        "citation": "P0421"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "high_idle",
+    "display": "Высокие обороты на холостом ходу",
+    "section": "7.2",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Высокие обороты на холостом ходу",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "rpm",
+        "op": ">",
+        "threshold": "1100",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": "<",
+        "threshold": "3 км/ч",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0507"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "high_rpm_idle",
+    "display": "Повышенные обороты ХХ (прогретый)",
+    "section": "7.2",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Повышенные обороты ХХ (прогретый)",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "rpm",
+        "op": ">",
+        "threshold": "1200",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": "<",
+        "threshold": "3 км/ч",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "coolant_temp",
+        "op": ">",
+        "threshold": "80",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0507"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "low_rpm_idle",
+    "display": "Низкие обороты ХХ (прогретый)",
+    "section": "7.2",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Низкие обороты ХХ (прогретый)",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "rpm",
+        "op": "<",
+        "threshold": "500",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": "<",
+        "threshold": "3 км/ч",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "coolant_temp",
+        "op": ">",
+        "threshold": "80",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0506"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "stalling_risk",
+    "display": "Риск остановки двигателя",
+    "section": "7.2",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Риск остановки двигателя",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "rpm",
+        "op": "<",
+        "threshold": "400",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": "<",
+        "threshold": "3 км/ч",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "coolant_temp",
+        "op": ">",
+        "threshold": "60",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0505"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "idle_speed_oscillation",
+    "display": "Нестабильные обороты на ХХ",
+    "section": "7.2",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Нестабильные обороты на ХХ",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "rpm",
+        "op": "z>>",
+        "threshold": "2.0",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": "<",
+        "threshold": "3 км/ч",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0505"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "idle_rpm_instability",
+    "display": "Нестабильность оборотов ХХ",
+    "section": "7.2",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Нестабильность оборотов ХХ",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "rpm",
+        "op": "z>>",
+        "threshold": "2.5",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": "<",
+        "threshold": "3 км/ч",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "coolant_temp",
+        "op": ">",
+        "threshold": "70",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0505"
+      },
+      {
+        "ref": "DTC",
+        "citation": "P0507"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "engine_overrev",
+    "display": "Превышение оборотов двигателя",
+    "section": "7.2",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Превышение оборотов двигателя",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "rpm",
+        "op": ">",
+        "threshold": "6500",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0219"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "intake_vacuum_low",
+    "display": "Низкий вакуум впускного коллектора",
+    "section": "7.3",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Низкий вакуум впускного коллектора",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "map_pressure",
+        "op": "<",
+        "threshold": "20 кПа",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "rpm",
+        "op": ">",
+        "threshold": "800",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0106"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "intake_vacuum_high",
+    "display": "Высокое давление впускного коллектора на ХХ",
+    "section": "7.3",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Высокое давление впускного коллектора на ХХ",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "map_pressure",
+        "op": ">",
+        "threshold": "90 кПа",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": "<",
+        "threshold": "3 км/ч",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "rpm",
+        "op": "<",
+        "threshold": "1000",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0401"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "maf_reading_low",
+    "display": "Низкий расход воздуха MAF",
+    "section": "7.3",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Низкий расход воздуха MAF",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "maf",
+        "op": "<",
+        "threshold": "2 г/с",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "rpm",
+        "op": ">",
+        "threshold": "1000",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0101"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "maf_reading_high",
+    "display": "Завышенный расход воздуха MAF",
+    "section": "7.3",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Завышенный расход воздуха MAF",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "maf",
+        "op": ">",
+        "threshold": "200 г/с",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "rpm",
+        "op": "<",
+        "threshold": "2500",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0101"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "engine_load_high",
+    "display": "Высокая нагрузка на малой скорости",
+    "section": "7.3",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Высокая нагрузка на малой скорости",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "eng",
+        "op": "in",
+        "threshold": "e_load  > 90%",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": "<",
+        "threshold": "60 км/ч",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "throttle_stuck",
+    "display": "Залипание дроссельной заслонки",
+    "section": "7.3",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Залипание дроссельной заслонки",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "throttle_pos",
+        "op": ">",
+        "threshold": "80%",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": "<",
+        "threshold": "5 км/ч",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0121"
+      },
+      {
+        "ref": "DTC",
+        "citation": "P0122"
+      },
+      {
+        "ref": "DTC",
+        "citation": "P0123"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "turbo_lag_excessive",
+    "display": "Чрезмерное запаздывание турбины",
+    "section": "7.3",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Чрезмерное запаздывание турбины",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "map_pressure",
+        "op": "<",
+        "threshold": "50 кПа",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "rpm",
+        "op": ">",
+        "threshold": "2500",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": ">",
+        "threshold": "40 км/ч",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0299"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "egr_malfunction",
+    "display": "Неисправность EGR",
+    "section": "7.3",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Неисправность EGR",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "map_pressure",
+        "op": ">",
+        "threshold": "80 кПа",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "rpm",
+        "op": "<",
+        "threshold": "1500",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": "<",
+        "threshold": "10 км/ч",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0400"
+      },
+      {
+        "ref": "DTC",
+        "citation": "P0401"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "excessive_fuel_consumption",
+    "display": "Повышенный расход топлива",
+    "section": "7.3",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Повышенный расход топлива",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "maf",
+        "op": ">",
+        "threshold": "150 г/с",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": "<",
+        "threshold": "40 км/ч",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "oil_pressure_low",
+    "display": "Низкое давление масла",
+    "section": "7.4",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Низкое давление масла",
+    "physics": "",
+    "formulas": [],
+    "conditions": [],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0520"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "oil_pressure_warning",
+    "display": "Предупреждение: давление масла",
+    "section": "7.4",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Предупреждение: давление масла",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "oil_pressure",
+        "op": "<",
+        "threshold": "1.0 бар",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "rpm",
+        "op": ">",
+        "threshold": "1000",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0520"
+      },
+      {
+        "ref": "DTC",
+        "citation": "P0521"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "catalyst_degradation",
+    "display": "Деградация катализатора",
+    "section": "7.5",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Деградация катализатора",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "o2_voltage",
+        "op": ">",
+        "threshold": "0.75 В",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": ">",
+        "threshold": "30 км/ч",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "rpm",
+        "op": ">",
+        "threshold": "1500",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0420"
+      },
+      {
+        "ref": "DTC",
+        "citation": "P0430"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "fuel_lean",
+    "display": "Бедная топливная смесь",
+    "section": "8.1",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Бедная топливная смесь",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "ltft_abs",
+        "op": ">",
+        "threshold": "10%",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "ltft_bank1",
+        "op": ">",
+        "threshold": "0%",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0171"
+      },
+      {
+        "ref": "DTC",
+        "citation": "P0174"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "fuel_rich",
+    "display": "Богатая топливная смесь",
+    "section": "8.1",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Богатая топливная смесь",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "ltft_abs",
+        "op": ">",
+        "threshold": "10%",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "ltft_bank1",
+        "op": "<",
+        "threshold": "0%",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0172"
+      },
+      {
+        "ref": "DTC",
+        "citation": "P0175"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "fuel_lean_bank2",
+    "display": "Бедная смесь (банк 2)",
+    "section": "8.1",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Бедная смесь (банк 2)",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "ltft_bank2",
+        "op": ">",
+        "threshold": "10%",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0174"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "fuel_rich_bank2",
+    "display": "Богатая смесь (банк 2)",
+    "section": "8.1",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Богатая смесь (банк 2)",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "ltft_bank2",
+        "op": "<",
+        "threshold": "−10%",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0175"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "fuel_system_lean_idle",
+    "display": "Бедная смесь на холостом ходу",
+    "section": "8.1",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Бедная смесь на холостом ходу",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "ltft_abs",
+        "op": ">",
+        "threshold": "8%",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "ltft_bank1",
+        "op": ">",
+        "threshold": "0%",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": "<",
+        "threshold": "3 км/ч",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0171"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "fuel_system_rich_idle",
+    "display": "Богатая смесь на холостом ходу",
+    "section": "8.1",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Богатая смесь на холостом ходу",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "ltft_abs",
+        "op": ">",
+        "threshold": "8%",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "ltft_bank1",
+        "op": "<",
+        "threshold": "0%",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": "<",
+        "threshold": "3 км/ч",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0172"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "stft_high_oscillation",
+    "display": "Нестабильность топливной коррекции",
+    "section": "8.2",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Нестабильность топливной коррекции",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "fuel_trim_delta",
+        "op": ">",
+        "threshold": "15%",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0170"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "vacuum_leak",
+    "display": "Подсос воздуха (вакуумная утечка)",
+    "section": "8.2",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Подсос воздуха (вакуумная утечка)",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "ltft_bank1",
+        "op": ">",
+        "threshold": "15%",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "stft_bank1",
+        "op": ">",
+        "threshold": "10%",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": "<",
+        "threshold": "5 км/ч",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0171"
+      },
+      {
+        "ref": "DTC",
+        "citation": "P0300"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "injector_imbalance",
+    "display": "Разброс форсунок (дисбаланс впрыска)",
+    "section": "8.2",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Разброс форсунок (дисбаланс впрыска)",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "fuel_trim_delta",
+        "op": ">",
+        "threshold": "12%",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "rpm",
+        "op": ">",
+        "threshold": "1000",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0201"
+      },
+      {
+        "ref": "DTC",
+        "citation": "P0202"
+      },
+      {
+        "ref": "DTC",
+        "citation": "P0203"
+      },
+      {
+        "ref": "DTC",
+        "citation": "P0204"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "misfire",
+    "display": "Пропуски зажигания",
+    "section": "8.2",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Пропуски зажигания",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "rpm",
+        "op": "z>>",
+        "threshold": "2.5",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "total_vibration",
+        "op": ">",
+        "threshold": "3.0",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "stft_bank1",
+        "op": ">",
+        "threshold": "10%",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0300"
+      },
+      {
+        "ref": "DTC",
+        "citation": "P0304"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "o2_sensor_stuck_lean",
+    "display": "Датчик O2 завис (бедный сигнал)",
+    "section": "8.3",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Датчик O2 завис (бедный сигнал)",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "o2_voltage",
+        "op": "<",
+        "threshold": "0.15 В",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "rpm",
+        "op": ">",
+        "threshold": "1000",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": ">",
+        "threshold": "20 км/ч",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0131"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "o2_sensor_stuck_rich",
+    "display": "Датчик O2 завис (богатый сигнал)",
+    "section": "8.3",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Датчик O2 завис (богатый сигнал)",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "o2_voltage",
+        "op": ">",
+        "threshold": "0.85 В",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "rpm",
+        "op": ">",
+        "threshold": "1000",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": ">",
+        "threshold": "20 км/ч",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0132"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "p0171_lean_boost",
+    "display": "Бедная смесь + DTC P0171",
+    "section": "8.4",
+    "tier": "T1",
+    "min_confidence": 0.35,
+    "cooldown_days": 7,
+    "what": "Бедная смесь + DTC P0171",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "ltft_bank1",
+        "op": ">",
+        "threshold": "8%",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "stft_bank1",
+        "op": ">",
+        "threshold": "5%",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "rpm",
+        "op": ">",
+        "threshold": "800",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0171"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "p0300_misfire_boost",
+    "display": "Пропуски зажигания + DTC P0300",
+    "section": "8.4",
+    "tier": "T1",
+    "min_confidence": 0.35,
+    "cooldown_days": 7,
+    "what": "Пропуски зажигания + DTC P0300",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "rpm",
+        "op": "z>>",
+        "threshold": "2.0",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "total_vibration",
+        "op": ">",
+        "threshold": "2.5",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "stft_bank1",
+        "op": ">",
+        "threshold": "8%",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0300"
+      },
+      {
+        "ref": "DTC",
+        "citation": "P0304"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "p0420_catalyst_boost",
+    "display": "Катализатор ниже порога + DTC P0420",
+    "section": "8.4",
+    "tier": "T1",
+    "min_confidence": 0.35,
+    "cooldown_days": 7,
+    "what": "Катализатор ниже порога + DTC P0420",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "o2_voltage",
+        "op": ">",
+        "threshold": "0.7 В",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": ">",
+        "threshold": "40 км/ч",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "coolant_temp",
+        "op": ">",
+        "threshold": "80",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0420"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "p0442_evap_leak",
+    "display": "Утечка системы EVAP + DTC P0442",
+    "section": "8.4",
+    "tier": "T1",
+    "min_confidence": 0.35,
+    "cooldown_days": 7,
+    "what": "Утечка системы EVAP + DTC P0442",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "ltft_bank1",
+        "op": ">",
+        "threshold": "5%",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": "<",
+        "threshold": "5 км/ч",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0442"
+      },
+      {
+        "ref": "DTC",
+        "citation": "P0455"
+      },
+      {
+        "ref": "DTC",
+        "citation": "P0456"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "low_battery",
+    "display": "Низкое напряжение АКБ",
+    "section": "9",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Низкое напряжение АКБ",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "voltage",
+        "op": "<",
+        "threshold": "12.0 В",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "alternator_failure",
+    "display": "Неисправность генератора",
+    "section": "9",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Неисправность генератора",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "voltage",
+        "op": "<",
+        "threshold": "13.0 В",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "rpm",
+        "op": ">",
+        "threshold": "1000",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0562"
+      },
+      {
+        "ref": "DTC",
+        "citation": "P0563"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "charging_high",
+    "display": "Перезарядка АКБ (неисправность регулятора)",
+    "section": "9",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Перезарядка АКБ (неисправность регулятора)",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "voltage",
+        "op": ">",
+        "threshold": "15.5 В",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "rpm",
+        "op": ">",
+        "threshold": "1000",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0563"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "voltage_drop_idle",
+    "display": "Просадка напряжения на ХХ",
+    "section": "9",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Просадка напряжения на ХХ",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "voltage",
+        "op": "<",
+        "threshold": "12.5 В",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": "<",
+        "threshold": "3 км/ч",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "rpm",
+        "op": ">",
+        "threshold": "600",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0562"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "battery_deep_discharge",
+    "display": "Глубокий разряд АКБ",
+    "section": "9",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Глубокий разряд АКБ",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "voltage",
+        "op": "<",
+        "threshold": "11.0 В",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0562"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "charging_intermittent",
+    "display": "Нестабильная зарядка",
+    "section": "9",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Нестабильная зарядка",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "voltage",
+        "op": "z>>",
+        "threshold": "2.5",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "rpm",
+        "op": ">",
+        "threshold": "1000",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0562"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "ac_compressor_overload",
+    "display": "Перегрузка компрессора кондиционера",
+    "section": "9",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Перегрузка компрессора кондиционера",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "rpm",
+        "op": "<",
+        "threshold": "700",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "voltage",
+        "op": "<",
+        "threshold": "13.0 В",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "coolant_temp",
+        "op": ">",
+        "threshold": "95",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "battery_temp_high",
+    "display": "Высокая температура ВВБ",
+    "section": "10",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Высокая температура ВВБ",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "hv_battery_temp",
+        "op": ">",
+        "threshold": "45",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": ">",
+        "threshold": "30 км/ч",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0A1F"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "soc_critical",
+    "display": "Критически низкий заряд ВВБ",
+    "section": "10",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Критически низкий заряд ВВБ",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "hv_battery_soc",
+        "op": "<",
+        "threshold": "15%",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": ">",
+        "threshold": "10 км/ч",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0A80"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "battery_soc_low",
+    "display": "Низкий заряд ВВБ",
+    "section": "10",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Низкий заряд ВВБ",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "hv_battery_soc",
+        "op": "<",
+        "threshold": "20%",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0A80"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "range_extender_overwork",
+    "display": "Перегрузка рейндж-экстендера",
+    "section": "10",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Перегрузка рейндж-экстендера",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "runtime",
+        "op": ">",
+        "threshold": "1800 с",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "hv_battery_soc",
+        "op": "<",
+        "threshold": "25%",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "rpm",
+        "op": ">",
+        "threshold": "3500",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "motor_overheat",
+    "display": "Перегрев электродвигателя",
+    "section": "10",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Перегрев электродвигателя",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "e_motor_temp",
+        "op": ">",
+        "threshold": "150",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": ">",
+        "threshold": "20 км/ч",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0A78"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "e_motor_temp_high",
+    "display": "Повышенная температура э/мотора",
+    "section": "10",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Повышенная температура э/мотора",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "e_motor_temp",
+        "op": ">",
+        "threshold": "120",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": ">",
+        "threshold": "30 км/ч",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0A78"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "charging_anomaly",
+    "display": "Аномалия зарядки ВВБ",
+    "section": "10",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Аномалия зарядки ВВБ",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "hv_battery_soc",
+        "op": "<",
+        "threshold": "30%",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "hv_battery_voltage",
+        "op": "<",
+        "threshold": "300 В",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "hv_battery_current",
+        "op": "<",
+        "threshold": "−5 А",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0A09"
+      },
+      {
+        "ref": "DTC",
+        "citation": "P0AA6"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "regen_brake_weak",
+    "display": "Слабая рекуперация тормозов",
+    "section": "10",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Слабая рекуперация тормозов",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "regen_brake_power",
+        "op": "<",
+        "threshold": "5 кВт",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": ">",
+        "threshold": "30 км/ч",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "hv_battery_soc",
+        "op": "<",
+        "threshold": "90%",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0A0A"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "hv_battery_imbalance",
+    "display": "Разбалансировка ячеек ВВБ",
+    "section": "10",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Разбалансировка ячеек ВВБ",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "hv_cell_voltage_delta",
+        "op": ">",
+        "threshold": "0.3 В",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "hv_battery_soc",
+        "op": "<",
+        "threshold": "80%",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0A09"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "inverter_overtemp",
+    "display": "Перегрев инвертора",
+    "section": "10",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Перегрев инвертора",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "inverter_temp",
+        "op": ">",
+        "threshold": "80",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "speed",
+        "op": ">",
+        "threshold": "20 км/ч",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0A3F"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  },
+  {
+    "rule_name": "winter_cold_start_anomaly",
+    "display": "Аномалия холодного пуска (зима)",
+    "section": "11",
+    "tier": "T1",
+    "min_confidence": 0.4,
+    "cooldown_days": 7,
+    "what": "Аномалия холодного пуска (зима)",
+    "physics": "",
+    "formulas": [],
+    "conditions": [
+      {
+        "param": "coolant_temp",
+        "op": "<",
+        "threshold": "−10",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "voltage",
+        "op": "<",
+        "threshold": "12.0 В",
+        "weight": 1,
+        "rationale": ""
+      },
+      {
+        "param": "rpm",
+        "op": "<",
+        "threshold": "500",
+        "weight": 1,
+        "rationale": ""
+      }
+    ],
+    "theory": "",
+    "example": "",
+    "sources": [
+      {
+        "ref": "DTC",
+        "citation": "P0171"
+      },
+      {
+        "ref": "DTC",
+        "citation": "P0562"
+      }
+    ],
+    "code_pointers": [],
+    "appendices_used": [],
+    "shadow": false
+  }
+]

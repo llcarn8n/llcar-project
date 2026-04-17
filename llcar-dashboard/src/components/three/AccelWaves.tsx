@@ -42,7 +42,7 @@ const OBSTACLES: { type: ObsType; baseZ: number; x: number; label: string; sub: 
 
 function RoadStrip() {
   const roadMaterial = useMemo(() => new THREE.MeshBasicMaterial({
-    color: '#26203A',
+    color: '#22242A',
     side: THREE.DoubleSide,
   }), [])
 
@@ -86,8 +86,8 @@ function RoadStrip() {
 // Родительский group помещает obstacle в y=-0.52 (road surface), поэтому
 // локальный Y=0 = плоскость дороги, -Y = провал, +Y = выпуклость.
 
-const VOID_CENTER = '#0A0A16'    // дно ямы — тёмный провал
-const BUMP_MID    = '#3A2D52'    // тело бугра — nebula graphite
+const VOID_CENTER = '#0A0A0C'    // дно ямы — чёрный провал
+const BUMP_MID    = '#1A1A1E'    // тело бугра — асфальт-чёрный
 const RIM_COLOR   = '#EFF2F7'    // spectral край — яркий контур
 
 function ObstacleMesh({ type }: { type: ObsType }) {
@@ -103,7 +103,7 @@ function ObstacleMesh({ type }: { type: ObsType }) {
         {/* Скошенные стенки ямы: открытый конус, шире снизу не нужен — уже перевёрнут */}
         <mesh position={[0, -0.02, 0]} scale={[1.2, 1, 0.8]}>
           <cylinderGeometry args={[0.34, 0.30, 0.045, 40, 1, true]} />
-          <meshStandardMaterial color="#14102A" roughness={0.9} metalness={0.1} side={THREE.DoubleSide} />
+          <meshStandardMaterial color="#141416" roughness={0.9} metalness={0.1} side={THREE.DoubleSide} />
         </mesh>
         {/* Яркий spectral rim — TorusGeometry на road level */}
         <mesh position={[0, 0.004, 0]} rotation={[-Math.PI / 2, 0, 0]} scale={[1.2, 0.8, 1]}>
@@ -149,7 +149,7 @@ function ObstacleMesh({ type }: { type: ObsType }) {
       <group>
         <mesh position={[0, 0.01, 0]}>
           <boxGeometry args={[2.4, 0.018, 0.05]} />
-          <meshStandardMaterial color="#2A2540" roughness={0.7} metalness={0.5} />
+          <meshStandardMaterial color="#1F2126" roughness={0.7} metalness={0.5} />
         </mesh>
         {/* Spectral highlight по верхнему ребру */}
         <mesh position={[0, 0.020, 0]}>
@@ -283,54 +283,54 @@ export function AccelWaves({ accelData, visible = true, onBounce }: AccelWavesPr
 
         if (obs.type === 'pothole_l') {
           const damped = anyHit * Math.exp(-anyHit * 0.5)
-          targetBounceY -= 0.05 * damped
-          targetBounceRoll += 0.04 * anyHit
-          targetPitch += 0.025 * pitchPhase
+          targetBounceY -= 0.10 * damped
+          targetBounceRoll += 0.075 * anyHit
+          targetPitch += 0.048 * pitchPhase
           // Wheel drops into hole (clips visually with road)
-          wFL -= 0.07 * frontHit; wRL -= 0.07 * rearHit
-          wFR -= 0.015 * frontHit; wRR -= 0.015 * rearHit
+          wFL -= 0.13 * frontHit; wRL -= 0.13 * rearHit
+          wFR -= 0.030 * frontHit; wRR -= 0.030 * rearHit
         } else if (obs.type === 'pothole_r') {
           const damped = anyHit * Math.exp(-anyHit * 0.5)
-          targetBounceY -= 0.05 * damped
-          targetBounceRoll -= 0.04 * anyHit
-          targetPitch += 0.025 * pitchPhase
-          wFR -= 0.07 * frontHit; wRR -= 0.07 * rearHit
-          wFL -= 0.015 * frontHit; wRL -= 0.015 * rearHit
+          targetBounceY -= 0.10 * damped
+          targetBounceRoll -= 0.075 * anyHit
+          targetPitch += 0.048 * pitchPhase
+          wFR -= 0.13 * frontHit; wRR -= 0.13 * rearHit
+          wFL -= 0.030 * frontHit; wRL -= 0.030 * rearHit
         } else if (obs.type === 'bump') {
           const smooth = Math.sin(anyHit * Math.PI)
-          targetBounceY += 0.05 * smooth
-          targetPitch -= 0.03 * pitchPhase
-          wFL += 0.06 * frontHit; wFR += 0.06 * frontHit
-          wRL += 0.06 * rearHit; wRR += 0.06 * rearHit
+          targetBounceY += 0.10 * smooth
+          targetPitch -= 0.058 * pitchPhase
+          wFL += 0.115 * frontHit; wFR += 0.115 * frontHit
+          wRL += 0.115 * rearHit; wRR += 0.115 * rearHit
         } else if (obs.type === 'rut') {
-          targetBounceRoll += 0.035 * anyHit * Math.sin(t * 6)
-          targetBounceY -= 0.008 * anyHit
-          const lat = Math.sin(t * 6) * anyHit * 0.04
+          targetBounceRoll += 0.068 * anyHit * Math.sin(t * 6)
+          targetBounceY -= 0.015 * anyHit
+          const lat = Math.sin(t * 6) * anyHit * 0.075
           wFL -= lat * frontHit; wFR += lat * frontHit
           wRL -= lat * rearHit; wRR += lat * rearHit
         } else if (obs.type === 'brake') {
           // Physically correct: body dives, front suspension compresses (wheels stay).
           const brakeRamp = 1 - Math.exp(-anyHit * 3)
-          targetPitch += 0.025 * brakeRamp
-          targetBounceY -= 0.012 * brakeRamp
+          targetPitch += 0.048 * brakeRamp
+          targetBounceY -= 0.024 * brakeRamp
         } else if (obs.type === 'joint') {
           const impulse = anyHit * anyHit
-          targetBounceY += 0.035 * impulse
-          targetPitch -= 0.015 * pitchPhase
-          wFL += 0.05 * frontHit; wFR += 0.05 * frontHit
-          wRL += 0.05 * rearHit; wRR += 0.05 * rearHit
+          targetBounceY += 0.068 * impulse
+          targetPitch -= 0.028 * pitchPhase
+          wFL += 0.095 * frontHit; wFR += 0.095 * frontHit
+          wRL += 0.095 * rearHit; wRR += 0.095 * rearHit
         }
       }
     })
 
-    // Lerp body bounce (slow — body follows with delay)
-    const BODY_LERP = 0.15
+    // Lerp body bounce (slightly snappier for more visible reaction)
+    const BODY_LERP = 0.22
     currentBounce.current.y = THREE.MathUtils.lerp(currentBounce.current.y, targetBounceY, BODY_LERP)
     currentBounce.current.roll = THREE.MathUtils.lerp(currentBounce.current.roll, targetBounceRoll, BODY_LERP)
     currentBounce.current.pitch = THREE.MathUtils.lerp(currentBounce.current.pitch, targetPitch, BODY_LERP)
 
     // Lerp wheel bounce (fast — wheels respond immediately)
-    const WHEEL_LERP = 0.55
+    const WHEEL_LERP = 0.68
     const cw = currentWheels.current
     cw.fl = THREE.MathUtils.lerp(cw.fl, wFL, WHEEL_LERP)
     cw.fr = THREE.MathUtils.lerp(cw.fr, wFR, WHEEL_LERP)

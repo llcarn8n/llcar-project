@@ -1,5 +1,6 @@
-import { useMemo, useEffect } from 'react'
+import { useMemo, useEffect, useRef, useCallback } from 'react'
 import { useGLTF } from '@react-three/drei'
+import type { ThreeEvent } from '@react-three/fiber'
 import * as THREE from 'three'
 import {
   classifyMaterial,
@@ -8,6 +9,68 @@ import {
   getHoloMaterial,
   type MaterialCategory,
 } from './materialClassifier'
+import { resolvePartByNode } from '../../data/partCatalog'
+import { useDashboardStore } from '../../stores/dashboardStore'
+import type { PartSpec } from '../../types/rules'
+
+const HOVER_EMISSIVE_COLOR = new THREE.Color('#6B5AE0')
+const HOVER_EMISSIVE_INTENSITY = 0.35
+
+// Pool of hover-state materials keyed by category, so we don't create a new
+// MeshStandardMaterial on every hover event.
+const hoverMaterialPool = new Map<MaterialCategory, THREE.Material>()
+
+function getHoverMaterialForCategory(category: MaterialCategory): THREE.Material {
+  const cached = hoverMaterialPool.get(category)
+  if (cached) return cached
+  const base = getHoloMaterial(category, 'default')
+  const clone = base.clone()
+  const std = clone as THREE.MeshStandardMaterial
+  if ('emissive' in std && std.emissive instanceof THREE.Color) {
+    std.emissive = HOVER_EMISSIVE_COLOR.clone()
+    std.emissiveIntensity = HOVER_EMISSIVE_INTENSITY
+  }
+  hoverMaterialPool.set(category, clone)
+  return clone
+}
+
+function findPartSpecInAncestors(obj: THREE.Object3D | null): {
+  spec: PartSpec
+  node: THREE.Object3D
+} | null {
+  let current: THREE.Object3D | null = obj
+  while (current) {
+    const spec = (current.userData?.partSpec ?? null) as PartSpec | null
+    if (spec) return { spec, node: current }
+    current = current.parent
+  }
+  return null
+}
+
+function findMeshInAncestors(obj: THREE.Object3D | null): THREE.Mesh | null {
+  let current: THREE.Object3D | null = obj
+  while (current) {
+    if (current instanceof THREE.Mesh) return current
+    current = current.parent
+  }
+  return null
+}
+
+// Multi-layer hit-test: outer meshes (body, hood) often occlude inner parts
+// (engine, battery, HV wiring). Walk intersections sorted by distance and pick
+// the first one that resolves to a PartSpec in its ancestry.
+function pickPartFromIntersections(
+  intersections: ThreeEvent<PointerEvent>['intersections'],
+): { spec: PartSpec; node: THREE.Object3D; mesh: THREE.Mesh } | null {
+  for (const hit of intersections) {
+    const found = findPartSpecInAncestors(hit.object)
+    if (!found) continue
+    const mesh = findMeshInAncestors(hit.object)
+    if (!mesh) continue
+    return { spec: found.spec, node: found.node, mesh }
+  }
+  return null
+}
 
 // Wheel assembly node name patterns per corner
 const WHEEL_CORNERS = ['ПЛ', 'ПП', 'ЗЛ', 'ЗП'] as const
@@ -21,6 +84,13 @@ interface CarWireframeProps {
 
 export function CarWireframe({ activeSystem = null, onWheelRefs }: CarWireframeProps) {
   const { scene } = useGLTF(`${import.meta.env.BASE_URL}models/car.glb`)
+  const setHoveredPart = useDashboardStore((s) => s.setHoveredPart)
+  const clearHoveredPart = useDashboardStore((s) => s.clearHoveredPart)
+
+  // Remember the non-hover material for any mesh we've applied a hover clone to,
+  // so we can restore it on pointer-out. Keyed by mesh uuid to avoid name clashes.
+  const origMaterials = useRef<Map<string, THREE.Material | THREE.Material[]>>(new Map())
+  const currentlyHovered = useRef<THREE.Mesh | null>(null)
 
   // Step 1: classify on ORIGINAL scene (material names are intact here)
   const classMap = useMemo(() => {
@@ -33,7 +103,16 @@ export function CarWireframe({ activeSystem = null, onWheelRefs }: CarWireframeP
             ? child.material[0]?.name
             : child.material?.name) || ''
         const nodeName = child.name || ''
-        const cat = classifyByNode(nodeName) ?? classifyMaterial(matName)
+        const nodeCat = classifyByNode(nodeName)
+        const matCat = classifyMaterial(matName)
+        // Material beats node when material clearly says interior/light but node says body.
+        // Fixes inner door panels inside "Дверь_задняя_*_N" (split sub-meshes with koja/torpedka material).
+        let cat: MaterialCategory
+        if ((matCat === 'interior' || matCat === 'light') && nodeCat === 'body') {
+          cat = matCat
+        } else {
+          cat = nodeCat ?? matCat
+        }
         map.set(nodeName, cat)
         // Discovery: log wheel/suspension/brake nodes
         const nl = nodeName.toLowerCase()
@@ -59,8 +138,17 @@ export function CarWireframe({ activeSystem = null, onWheelRefs }: CarWireframeP
     const catCount: Record<string, number> = {}
     const wRefs: WheelRefs = { ПЛ: [], ПП: [], ЗЛ: [], ЗП: [] }
     let sRef: THREE.Object3D | null = null
+    let totalNamedNodes = 0
+    let partSpecMatches = 0
 
     clone.traverse((child) => {
+      // Attach partSpec to any named object (groups can carry spec too).
+      if (child.name) {
+        totalNamedNodes++
+        const spec = resolvePartByNode(child.name)
+        child.userData.partSpec = spec ?? null
+        if (spec) partSpecMatches++
+      }
       if (child instanceof THREE.Mesh) {
         const nodeName = child.name || ''
         const category = classMap.get(nodeName) || 'other'
@@ -85,6 +173,7 @@ export function CarWireframe({ activeSystem = null, onWheelRefs }: CarWireframeP
       }
     })
     console.table(catCount)
+    console.log(`[CarWireframe] partSpec coverage: ${partSpecMatches} / ${totalNamedNodes} named nodes`)
     return { clonedScene: clone, wheelRefs: wRefs, suspRef: sRef }
   }, [scene, classMap])
 
@@ -104,8 +193,71 @@ export function CarWireframe({ activeSystem = null, onWheelRefs }: CarWireframeP
     })
   }, [activeSystem, clonedScene])
 
+  const applyHoverMaterial = useCallback((mesh: THREE.Mesh) => {
+    if (currentlyHovered.current === mesh) return
+    // Restore previous hover mesh first.
+    if (currentlyHovered.current) {
+      const prev = currentlyHovered.current
+      const saved = origMaterials.current.get(prev.uuid)
+      if (saved) prev.material = saved
+      origMaterials.current.delete(prev.uuid)
+    }
+    const category = (mesh.userData.materialCategory as MaterialCategory | undefined) ?? 'other'
+    if (!origMaterials.current.has(mesh.uuid)) {
+      origMaterials.current.set(mesh.uuid, mesh.material)
+    }
+    mesh.material = getHoverMaterialForCategory(category)
+    currentlyHovered.current = mesh
+  }, [])
+
+  const restoreHoverMaterial = useCallback(() => {
+    const prev = currentlyHovered.current
+    if (!prev) return
+    const saved = origMaterials.current.get(prev.uuid)
+    if (saved) prev.material = saved
+    origMaterials.current.delete(prev.uuid)
+    currentlyHovered.current = null
+  }, [])
+
+  const handlePointerOver = useCallback((event: ThreeEvent<PointerEvent>) => {
+    const picked = pickPartFromIntersections(event.intersections)
+    if (!picked) return
+    event.stopPropagation()
+    applyHoverMaterial(picked.mesh)
+    setHoveredPart({
+      nodeName: picked.node.name || picked.mesh.name || 'unknown',
+      partSpec: picked.spec,
+      screenX: event.clientX,
+      screenY: event.clientY,
+    })
+  }, [applyHoverMaterial, setHoveredPart])
+
+  const handlePointerMove = useCallback((event: ThreeEvent<PointerEvent>) => {
+    const picked = pickPartFromIntersections(event.intersections)
+    if (!picked) return
+    // Do not stopPropagation on Move to allow OrbitControls panning etc.
+    applyHoverMaterial(picked.mesh)
+    setHoveredPart({
+      nodeName: picked.node.name || picked.mesh.name || 'unknown',
+      partSpec: picked.spec,
+      screenX: event.clientX,
+      screenY: event.clientY,
+    })
+  }, [applyHoverMaterial, setHoveredPart])
+
+  const handlePointerOut = useCallback((_event: ThreeEvent<PointerEvent>) => {
+    restoreHoverMaterial()
+    clearHoveredPart()
+  }, [restoreHoverMaterial, clearHoveredPart])
+
   return (
-    <group scale={[1, 1, 1]} position={[0, -0.5, 0]}>
+    <group
+      scale={[1, 1, 1]}
+      position={[0, -0.5, 0]}
+      onPointerOver={handlePointerOver}
+      onPointerMove={handlePointerMove}
+      onPointerOut={handlePointerOut}
+    >
       <primitive object={clonedScene} />
     </group>
   )

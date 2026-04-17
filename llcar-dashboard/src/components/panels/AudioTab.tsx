@@ -206,11 +206,11 @@ export function AudioTab({ data }: AudioTabProps) {
         {
           name: 'Качество', type: 'line' as const, symbol: 'none', sampling: 'lttb',
           data: qualData,
-          lineStyle: { width: 2, color: '#FF9F1C', shadowColor: 'rgba(255,159,28,0.3)', shadowBlur: 8 },
+          lineStyle: { width: 2, color: '#6B5AE0', shadowColor: 'rgba(107,90,224,0.35)', shadowBlur: 8 },
           areaStyle: {
             color: new echarts.graphic.LinearGradient(0, 0, 0, 1, [
-              { offset: 0, color: 'rgba(255,159,28,0.15)' },
-              { offset: 1, color: 'rgba(255,159,28,0)' },
+              { offset: 0, color: 'rgba(107,90,224,0.18)' },
+              { offset: 1, color: 'rgba(107,90,224,0)' },
             ]),
           },
         },
