@@ -1,4 +1,5 @@
 import { Suspense, lazy, useState, useMemo } from 'react'
+import { ActiveDiagnosesFeed } from '../components/diagnostics/ActiveDiagnosesFeed'
 
 const DiagnosticTwinCanvas = lazy(() => import('../components/three/DiagnosticTwinCanvas'))
 const SmartSphere = lazy(() => import('../components/three/SmartSphere').then(m => ({ default: m.SmartSphere })))
@@ -23,47 +24,51 @@ import { RulesList } from '../components/diagnostics/RulesList'
 import { DiagnosticSearch } from '../components/diagnostics/DiagnosticSearch'
 import { SuspensionTab } from '../components/panels/SuspensionTab'
 import { AudioTab } from '../components/panels/AudioTab'
-import { StatusStrip } from '../components/diagnostics/StatusStrip'
-import { SystemCard } from '../components/diagnostics/SystemCard'
-import { SystemTabBar } from '../components/diagnostics/SystemTabBar'
-import { HealthScorePanel } from '../components/diagnostics/HealthScorePanel'
 import { CanvasOverlayHUD } from '../components/diagnostics/CanvasOverlayHUD'
+import PartTooltip from '../components/three/PartTooltip'
 
-// Legend data for 3D viewport overlay (matches DiagnosticTwinCanvas AUDIO_ZONES)
-const AUDIO_LEGEND = [
-  { color: '#60a5fa', label: 'Дорога <80Гц' },
-  { color: '#4ade80', label: 'Двигатель 80–150Гц' },
-  { color: '#22d3ee', label: 'Трансмиссия 150–300Гц' },
-  { color: '#f59e0b', label: 'Навесное 300–600Гц' },
-  { color: '#f97316', label: 'Подшипники 0.6–2кГц' },
-  { color: '#ef4444', label: 'ВЧ шум >2кГц' },
-]
-
-const VIBRATION_LEGEND = [
-  { color: '#3b9eff', label: '⬇ Яма', type: 'pothole' },
-  { color: '#4ade80', label: '⬆ Бугор', type: 'bump' },
-  { color: '#ff4444', label: '⏹ Торможение', type: 'brake' },
-  { color: '#f59e0b', label: '↔ Колея', type: 'rut' },
-  { color: '#a78bfa', label: '▬ Стык', type: 'joint' },
-]
+// V3 LUMEN primitives
+import { NebulaPanel } from '../components/ui/NebulaPanel'
+import { GhostButton } from '../components/ui/GhostButton'
+import { MiniSparkline } from '../components/ui/MiniSparkline'
+import { SkyOrb } from '../components/ui/SkyOrb'
 
 const CoherenceMap = lazy(() => import('../components/panels/CoherenceMap').then(m => ({ default: m.CoherenceMap })))
 const CUSUMChart = lazy(() => import('../components/panels/CUSUMChart').then(m => ({ default: m.CUSUMChart })))
 const PseudoOrderPlot = lazy(() => import('../components/panels/PseudoOrderPlot').then(m => ({ default: m.PseudoOrderPlot })))
+const RuleDetailDrawer = lazy(() => import('../components/diagnostics/RuleDetailDrawer'))
 
-const SYSTEMS = [
-  { key: 'suspension' as const, name: 'Подвеска', icon: '🛞' },
-  { key: 'engine' as const, name: 'Двигатель', icon: '⚙' },
-  { key: 'electrical' as const, name: 'Электрика', icon: '⚡' },
-  { key: 'audio' as const, name: 'Аудио', icon: '🔊' },
+type SystemKey = 'suspension' | 'engine' | 'electrical' | 'audio'
+
+const SYSTEMS: { key: SystemKey; name: string; short: string }[] = [
+  { key: 'suspension', name: 'Подвеска',  short: 'ПОДВ' },
+  { key: 'engine',     name: 'Двигатель', short: 'ДВС'  },
+  { key: 'electrical', name: 'Электрика', short: 'ЭЛЕК' },
+  { key: 'audio',      name: 'Аудио',     short: 'АУД'  },
 ]
 
 const TIME_PILLS = [
-  { label: '1ч', val: 60 },
+  { label: '1ч',  val: 60 },
   { label: '24ч', val: 1440 },
-  { label: '7д', val: 10080 },
+  { label: '7д',  val: 10080 },
   { label: '30д', val: 43200 },
 ]
+
+function statusFromScore(score: number): string {
+  if (score >= 80) return 'NORMAL'
+  if (score >= 60) return 'DEGRADED'
+  return 'CRITICAL'
+}
+
+const microLabel: React.CSSProperties = {
+  fontFamily: 'var(--f-body)',
+  fontSize: 9,
+  fontWeight: 600,
+  color: '#E6D4A8',
+  letterSpacing: '0.24em',
+  textTransform: 'uppercase',
+  textShadow: '0 0 10px rgba(200,180,142,0.35), 0 0 2px rgba(200,180,142,0.25)',
+}
 
 export function Diagnostics() {
   const clientHash = useDashboardStore(s => s.clientHash)
@@ -71,13 +76,11 @@ export function Diagnostics() {
   const setTimeRange = useDashboardStore(s => s.setTimeRange)
   const expertMode = useDashboardStore(s => s.expertMode)
   const useV2Api = useDashboardStore(s => s.useV2Api)
+  const openRuleDrawer = useDashboardStore(s => s.openRuleDrawer)
   const { report: v2Report, history: v2History, loading: v2Loading, error: _v2Error, sendFeedback, fetchLatest } = useDiagnosticV2(clientHash, timeRange)
   const [manualLoading, setManualLoading] = useState(false)
-  const [activeSystem, setActiveSystem] = useState<string | null>('suspension')
-
-  // Insight collapse state
+  const [activeSystem, setActiveSystem] = useState<SystemKey | null>(null)
   const [openInsight, setOpenInsight] = useState<string | null>(null)
-  const [diagExpanded, setDiagExpanded] = useState(false)
 
   const v2HistoryAdapted = useMemo<HistoryPoint[]>(() => {
     if (!v2History || v2History.length === 0) return []
@@ -102,6 +105,8 @@ export function Diagnostics() {
     await fetchLatest()
     setManualLoading(false)
   }
+  void handleRunDiagnostic
+  void manualLoading
 
   const { data: anomaly } = useApiData<any>({
     endpoint: '/api/anomaly/',
@@ -122,208 +127,164 @@ export function Diagnostics() {
   })
 
   const regime = anomaly?.regime ?? 'unknown'
-  const hasData = (apiData?.accel?.length ?? 0) > 0 || (apiData?.audio?.length ?? 0) > 0
   const systems = anomaly?.systems ?? {}
   const diagnostics = anomaly?.diagnostics ?? []
   const degradation = anomaly?.degradation
 
   const accelData = apiData?.accel ?? []
   const audioData = apiData?.audio ?? []
-  const lastAccel = accelData[accelData.length - 1] ?? {}
-  const totalVib = Math.sqrt(
-    (lastAccel.x_std || 0) ** 2 + (lastAccel.y_std || 0) ** 2 + (lastAccel.z_std || 0) ** 2
-  )
-  void totalVib // used in systemsMap severity calc
 
-  // Build sparkline data from v2History
+  // Sparklines
   const sparklines = useMemo(() => {
-    if (!v2History || v2History.length === 0) return { suspension: [], engine: [], electrical: [], audio: [] }
+    const empty = { suspension: [] as number[], engine: [] as number[], electrical: [] as number[], audio: [] as number[], overall: [] as number[] }
+    if (!v2History || v2History.length === 0) return empty
     const last7 = v2History.slice(-7)
     return {
       suspension: last7.map(h => h.suspension_score),
       engine: last7.map(h => h.engine_score),
       electrical: last7.map(h => h.electrical_score),
       audio: last7.map(h => h.audio_score),
+      overall: last7.map(h => h.overall_score),
     }
   }, [v2History])
 
-  // Old scores for diff
-  const oldScores = useMemo(() => {
-    if (!v2History || v2History.length < 2) return null
-    const first = v2History[0]
-    return { suspension: first.suspension_score, engine: first.engine_score, electrical: first.electrical_score, audio: first.audio_score }
-  }, [v2History])
-
-  const degradationRates = useMemo(() => {
-    if (!v2History || v2History.length < 2) return {} as Record<string, number>
-    const first = v2History[0]
-    const last = v2History[v2History.length - 1]
-    const msSpan = new Date(last.time).getTime() - new Date(first.time).getTime()
-    const days = msSpan / (1000 * 60 * 60 * 24)
-    if (days < 0.01) return {} as Record<string, number>
-    return {
-      suspension: (last.suspension_score - first.suspension_score) / days,
-      engine: (last.engine_score - first.engine_score) / days,
-      electrical: (last.electrical_score - first.electrical_score) / days,
-      audio: (last.audio_score - first.audio_score) / days,
-    }
-  }, [v2History])
-
-  // Systems map for 3D hotspots
-  const systemsMap = useMemo(() => {
-    const getScore = (key: string) => {
-      const v2Score = useV2Api && v2Report ? v2Report.health_scores[key as keyof typeof v2Report.health_scores] : null
-      return v2Score ?? (systems[key]?.score ?? 80)
-    }
-    return {
-      suspension: { score: getScore('suspension'), severity: 1 - getScore('suspension') / 100 },
-      engine: { score: getScore('engine'), severity: 1 - getScore('engine') / 100 },
-      electrical: { score: getScore('electrical'), severity: 1 - getScore('electrical') / 100 },
-      audio: { score: getScore('audio'), severity: 1 - getScore('audio') / 100 },
-    }
-  }, [useV2Api, v2Report, systems])
-
-  const overallScore = useV2Api && v2Report ? v2Report.health_scores.overall : (anomaly?.overall_score ?? 0)
-
-  const handleHotspotClick = (system: string) => {
-    setActiveSystem(prev => prev === system ? null : system)
+  // getScore with clamp [0,100] — защита от -1 sentinel из старого API
+  const getScore = (key: SystemKey): number | null => {
+    const v2Score = useV2Api && v2Report ? v2Report.health_scores[key] : null
+    const raw = v2Score ?? systems[key]?.score
+    if (typeof raw !== 'number' || !Number.isFinite(raw) || raw < 0) return null
+    return Math.max(0, Math.min(100, Math.round(raw)))
   }
 
-  return (
-    <div className="relative">
-      <OnboardingTour />
+  const systemsMap = useMemo(() => {
+    const scoreOr = (k: SystemKey) => getScore(k) ?? 100
+    return {
+      suspension: { score: scoreOr('suspension'), severity: 1 - scoreOr('suspension') / 100 },
+      engine:     { score: scoreOr('engine'),     severity: 1 - scoreOr('engine') / 100 },
+      electrical: { score: scoreOr('electrical'), severity: 1 - scoreOr('electrical') / 100 },
+      audio:      { score: scoreOr('audio'),      severity: 1 - scoreOr('audio') / 100 },
+    }
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [useV2Api, v2Report, systems])
 
-      {/* ═══ ROW 0: STATUS STRIP ═══ */}
-      {useV2Api && (
-        <div className="mt-8">
-          <StatusStrip
-            report={v2Report}
-            hasData={hasData}
-            loading={v2Loading || manualLoading}
-            clientHash={clientHash}
-            onRunDiagnostic={handleRunDiagnostic}
-          />
+  const overallScoreRaw = useV2Api && v2Report ? v2Report.health_scores.overall : (anomaly?.overall_score ?? 0)
+  const overallScore = typeof overallScoreRaw === 'number' && Number.isFinite(overallScoreRaw) && overallScoreRaw >= 0
+    ? Math.max(0, Math.min(100, Math.round(overallScoreRaw)))
+    : 0
+  const statusLabel = statusFromScore(overallScore)
+
+  const handleHotspotClick = (system: string) => {
+    setActiveSystem(prev => prev === system ? null : (system as SystemKey))
+  }
+
+  const PanelFull = (
+    <NebulaPanel coolHalo="bl" warmHalo="tr" style={{ position: 'relative', overflow: 'hidden', height: 'calc(100vh - 96px)', borderRadius: 0, minHeight: 560 }}>
+      {/* 3D canvas */}
+      <Suspense fallback={
+        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', height: '100%', color: 'var(--c-spectral-muted)', fontSize: 11, fontFamily: 'var(--f-mono)', letterSpacing: '0.18em' }}>
+          LOADING 3D...
         </div>
-      )}
+      }>
+        <DiagnosticTwinCanvas
+          systems={systemsMap}
+          activeSystem={activeSystem}
+          onHotspotClick={handleHotspotClick}
+          accelData={accelData.length > 0 ? accelData[accelData.length - 1] : null}
+        />
+      </Suspense>
 
-      {/* ═══ FULL-WIDTH 3D VIEWPORT ═══ */}
-      <div className="diag-viewport-full">
-        {/* Left overlay: Health Score + System Cards */}
-        <div className="diag-overlay-left">
-          <div className="diag-overlay-panel">
-            <HealthScorePanel overall={overallScore} loading={v2Loading} />
-          </div>
-          {SYSTEMS.map(sys => {
-            const v2Score = useV2Api && v2Report ? v2Report.health_scores[sys.key] : null
-            const score = v2Score ?? (systems[sys.key]?.score ?? 0)
-            const trend = useV2Api && v2Report ? v2Report.health_trends[sys.key] : undefined
-            return (
-              <div key={sys.key} className="diag-overlay-panel" style={{ padding: '6px 10px' }}>
-                <SystemCard
-                  compact
-                  name={sys.name}
-                  icon={sys.icon}
-                  score={score}
-                  sparkline={sparklines[sys.key]}
-                  oldScore={oldScores?.[sys.key]}
-                  trend={trend}
-                  onClick={() => handleHotspotClick(sys.key)}
-                  degradationRate={degradationRates[sys.key]}
-                />
-              </div>
-            )
-          })}
-        </div>
+      {/* Bottom telemetry ribbon */}
+      <CanvasOverlayHUD pids={apiData?.pids} />
 
-        {/* 3D Canvas */}
-        <Suspense fallback={
-          <div className="flex items-center justify-center" style={{ height: '100%', color: 'var(--c-amber)', fontSize: 12, fontFamily: 'var(--f-mono)' }}>
-            Загрузка 3D модели...
-          </div>
-        }>
-          <DiagnosticTwinCanvas
-            systems={systemsMap}
-            activeSystem={activeSystem}
-            onHotspotClick={handleHotspotClick}
-            accelData={accelData.length > 0 ? accelData[accelData.length - 1] : null}
-            audioData={audioData}
-          />
-        </Suspense>
+      {/* Part hover tooltip */}
+      <PartTooltip />
 
-        <CanvasOverlayHUD pids={apiData?.pids} />
+      {/* Rule detail drawer */}
+      <Suspense fallback={null}>
+        <RuleDetailDrawer />
+      </Suspense>
 
-        {/* Right overlay: Compact Diagnosis (collapsible) */}
-        <div className="diag-overlay-right">
-          <div className="diag-overlay-panel" style={{ cursor: 'pointer' }} onClick={() => setDiagExpanded(!diagExpanded)}>
-            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: diagExpanded ? 8 : 0 }}>
-              <span style={{ fontFamily: 'var(--f-section)', fontSize: '0.62rem', letterSpacing: '0.18em', fontWeight: 600, textTransform: 'uppercase' as const, color: 'var(--c-amber)' }}>Диагнозы</span>
-              <span style={{ fontSize: 10, color: 'var(--c-amber)' }}>{diagExpanded ? '▾' : '▸'}</span>
-            </div>
-            {/* Brief: top diagnosis */}
-            {!diagExpanded && v2Report?.diagnoses?.[0] && (
-              <div style={{ marginTop: 4 }}>
-                <div style={{ fontSize: 12, fontWeight: 600, color: theme.text.primary, fontFamily: 'var(--f-body)' }}>
-                  {v2Report.diagnoses[0].display}
-                </div>
-                <div style={{ fontSize: 10, color: theme.text.muted, fontFamily: 'var(--f-body)' }}>
-                  {v2Report.diagnoses[0].status} · {Math.round(v2Report.diagnoses[0].confidence * 100)}%
-                </div>
-              </div>
-            )}
-            {!diagExpanded && !v2Report?.diagnoses?.[0] && diagnostics?.[0] && (
-              <div style={{ marginTop: 4, fontSize: 12, color: theme.text.primary, fontFamily: 'var(--f-body)' }}>
-                {diagnostics[0].rule || 'Нет диагнозов'}
-              </div>
-            )}
-          </div>
-          {/* Expanded: full diagnosis card */}
-          {diagExpanded && (
-            <div className="diag-overlay-panel" style={{ marginTop: 6 }} onClick={e => e.stopPropagation()}>
-              {useV2Api ? (
-                <DiagnosisCardV2 report={v2Report} loading={v2Loading} onFeedback={sendFeedback} clientHash={clientHash} compact />
-              ) : (
-                <DiagnosisCard diagnostics={diagnostics} degradation={degradation} regime={regime} />
-              )}
-            </div>
-          )}
-        </div>
-
-        <div className="scan-overlay" />
-
-        {/* ── System tab bar inside 3D viewport (top center) ── */}
-        <div style={{
-          position: 'absolute', top: 8, left: '50%', transform: 'translateX(-50%)',
-          zIndex: 25, pointerEvents: 'auto', display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 2,
-        }}>
-          <SystemTabBar active={activeSystem} onChange={setActiveSystem} />
-          {/* Period pills + date range under tabs */}
-          <div style={{ display: 'flex', gap: 4, marginTop: 4 }}>
+      {/* Top time-strip: time-pills + can_drive on LEFT, vehicle/online/date on RIGHT */}
+      <div className="lumen-time-strip" style={{
+        position: 'absolute', top: 0, left: 0, right: 0, zIndex: 10,
+        display: 'flex', alignItems: 'center', justifyContent: 'space-between',
+        padding: '8px 14px',
+        borderBottom: '1px solid var(--c-spectral-divider)',
+        pointerEvents: 'none',
+      }}>
+        <div style={{ display: 'flex', alignItems: 'center', gap: 12, pointerEvents: 'auto', flexWrap: 'nowrap' }}>
+          {/* Time-pills — single row, no wrap */}
+          <div style={{ display: 'flex', gap: 4, flexWrap: 'nowrap' }}>
             {TIME_PILLS.map(p => (
-              <button
+              <GhostButton
                 key={p.val}
+                active={timeRange === p.val}
                 onClick={() => setTimeRange(p.val)}
-                style={{
-                  fontFamily: 'var(--f-section)',
-                  fontSize: 10,
-                  fontWeight: 600,
-                  padding: '3px 12px',
-                  borderRadius: 'var(--r-pill)',
-                  border: timeRange === p.val ? '1px solid rgba(255,159,28,0.35)' : '1px solid var(--border-frost)',
-                  background: timeRange === p.val ? 'rgba(255,159,28,0.10)' : 'rgba(240,240,250,0.03)',
-                  color: timeRange === p.val ? 'var(--c-amber)' : 'var(--c-text-muted)',
-                  cursor: 'pointer',
-                  transition: 'all 0.25s ease',
-                  letterSpacing: '0.12em',
-                  textTransform: 'uppercase' as const,
-                }}
+                variant="pill"
+                size="sm"
+                style={{ padding: '3px 10px', fontSize: 10, flex: '0 0 auto' }}
               >
                 {p.label}
-              </button>
+              </GhostButton>
             ))}
           </div>
+
+          {/* can_drive pill */}
+          {v2Report?.can_drive && (() => {
+            const driveMap = {
+              safe: { label: 'МОЖНО ЕХАТЬ', color: '#6BE08F' },
+              caution: { label: 'ОСТОРОЖНО', color: '#E0B46B' },
+              stop: { label: 'СТОП', color: '#E06B6B' },
+            } as const
+            const drive = driveMap[v2Report.can_drive]
+            return (
+              <span style={{
+                display: 'inline-flex', alignItems: 'center', gap: 6,
+                fontFamily: 'var(--f-body)', fontSize: 9, fontWeight: 600,
+                letterSpacing: '0.22em', textTransform: 'uppercase',
+                color: drive.color,
+              }}>
+                <span style={{
+                  width: 6, height: 6, borderRadius: '50%',
+                  background: drive.color,
+                  boxShadow: `0 0 6px ${drive.color}`,
+                  animation: v2Report.can_drive === 'stop' ? 'canDrivePulse 1.4s ease-in-out infinite' : 'none',
+                }} />
+                {drive.label}
+              </span>
+            )
+          })()}
+          <style>{`
+            @keyframes canDrivePulse {
+              0%, 100% { box-shadow: 0 0 6px currentColor; opacity: 1; }
+              50% { box-shadow: 0 0 12px currentColor; opacity: 0.7; }
+            }
+          `}</style>
+        </div>
+
+        {/* Right cluster: date readout + online indicator */}
+        <div style={{ display: 'flex', alignItems: 'center', gap: 12, pointerEvents: 'auto' }}>
+          {(() => {
+            const isOnline = (apiData?.pids?.length ?? 0) > 0
+            return (
+              <div style={{ display: 'flex', alignItems: 'center', gap: 6 }}>
+                <span style={{
+                  width: 6, height: 6, borderRadius: '50%',
+                  backgroundColor: isOnline ? theme.status.ok : theme.text.muted,
+                  boxShadow: isOnline ? `0 0 6px ${theme.status.ok}` : 'none',
+                  animation: isOnline ? 'pulse-dot 2s ease-in-out infinite' : 'none',
+                }} />
+                <span style={{
+                  fontSize: 9, fontFamily: 'var(--f-body)',
+                  color: 'var(--c-spectral-faint)',
+                  letterSpacing: '0.22em', textTransform: 'uppercase',
+                }}>{isOnline ? 'Онлайн' : 'Офлайн'}</span>
+              </div>
+            )
+          })()}
           <div style={{
             fontSize: 9, fontFamily: 'var(--f-mono)',
-            color: 'rgba(255,255,255,0.3)', letterSpacing: '0.05em', marginTop: 2,
+            color: 'var(--c-spectral-faint)', letterSpacing: '0.12em',
           }}>
             {(() => {
               const now = new Date()
@@ -333,66 +294,132 @@ export function Diagnostics() {
             })()}
           </div>
         </div>
-
       </div>
 
-      {/* ── Legend strip: ВИБРАЦИИ | АУДИО ЗОНЫ (normal flow, под 3D viewport) ── */}
-      <div style={{
-        display: 'flex', flexWrap: 'wrap', gap: 6, marginTop: 6,
-        fontFamily: 'var(--f-body)', fontSize: '0.72rem',
+      {/* System tabs top-center */}
+      <div className="lumen-system-tabs" style={{
+        position: 'absolute',
+        top: 44,
+        left: '50%',
+        transform: 'translateX(-50%)',
+        zIndex: 20,
+        display: 'flex',
+        background: 'transparent',
       }}>
-        <div style={{
-          flex: '1 1 260px', display: 'flex', flexDirection: 'column', gap: 3,
-          background: 'rgba(5, 7, 13, 0.72)', padding: '8px 12px', borderRadius: 'var(--r-card)',
-          border: '1px solid var(--border-frost)',
-        }}>
-          <div style={{ fontSize: '0.55rem', fontFamily: 'var(--f-section)', letterSpacing: '0.12em', color: 'rgba(255,255,255,0.4)', textTransform: 'uppercase' as const, marginBottom: 1 }}>Вибрации</div>
-          <div style={{ display: 'flex', gap: 10, flexWrap: 'wrap' }}>
-            {VIBRATION_LEGEND.map(v => (
-              <span key={v.type} style={{ display: 'flex', alignItems: 'center', gap: 4, color: v.color }}>
-                <span style={{ width: 9, height: 9, borderRadius: '50%', background: v.color, boxShadow: `0 0 6px ${v.color}` }} />
-                {v.label}
-              </span>
-            ))}
-          </div>
-        </div>
-        <div
-          onClick={() => handleHotspotClick('audio')}
-          style={{
-            flex: '1 1 260px', display: 'flex', flexDirection: 'column', gap: 3, cursor: 'pointer',
-            background: 'rgba(5, 7, 13, 0.72)', padding: '8px 12px', borderRadius: 'var(--r-card)',
-            border: '1px solid var(--border-frost)',
-          }}
-        >
-          <div style={{ fontSize: '0.55rem', fontFamily: 'var(--f-section)', letterSpacing: '0.12em', color: 'rgba(255,255,255,0.4)', textTransform: 'uppercase' as const, marginBottom: 1 }}>Аудио зоны</div>
-          <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
-            {AUDIO_LEGEND.map(a => (
-              <span key={a.label} style={{ display: 'flex', alignItems: 'center', gap: 4, color: a.color }}>
+        {([
+          { key: null as SystemKey | null, label: 'ОБЗОР', value: overallScore as number | null, series: sparklines.overall },
+          ...SYSTEMS.map(s => ({ key: s.key as SystemKey | null, label: s.short, value: getScore(s.key), series: sparklines[s.key] })),
+        ]).map((t, i) => {
+          const active = activeSystem === t.key
+          return (
+            <button
+              key={t.label}
+              onClick={() => setActiveSystem(t.key)}
+              style={{
+                position: 'relative',
+                minWidth: 118,
+                padding: '10px 18px 12px',
+                border: 'none',
+                borderLeft: i === 0 ? 'none' : '1px solid rgba(200,180,142,0.22)',
+                cursor: 'pointer',
+                textAlign: 'left',
+                display: 'flex',
+                flexDirection: 'column',
+                justifyContent: 'center',
+                gap: 5,
+                background: active ? 'rgba(200,180,142,0.10)' : 'transparent',
+                boxShadow: active
+                  ? 'inset 0 -2px 0 0 #E6D4A8, 0 0 22px rgba(200,180,142,0.18)'
+                  : 'none',
+                transition: 'background 160ms var(--ease-hud), box-shadow 160ms var(--ease-hud)',
+              }}
+              onMouseEnter={e => { if (!active) e.currentTarget.style.background = 'rgba(200,180,142,0.05)' }}
+              onMouseLeave={e => { if (!active) e.currentTarget.style.background = 'transparent' }}
+            >
+              <span style={{
+                fontSize: 9,
+                fontFamily: 'var(--f-body)',
+                fontWeight: 700,
+                color: active ? '#F8ECC8' : '#E6D4A8',
+                textTransform: 'uppercase',
+                letterSpacing: '0.26em',
+                lineHeight: 1,
+                textShadow: active
+                  ? '0 0 12px rgba(230,212,168,0.7), 0 0 4px rgba(230,212,168,0.4)'
+                  : '0 0 6px rgba(230,212,168,0.35)',
+              }}>{t.label}</span>
+              <div style={{ display: 'flex', alignItems: 'flex-end', gap: 6 }}>
                 <span style={{
-                  width: 9, height: 9, borderRadius: '50%', border: `2px solid ${a.color}`,
-                  boxShadow: `0 0 5px ${a.color}`, background: 'transparent',
-                }} />
-                {a.label}
-              </span>
-            ))}
+                  fontSize: 16,
+                  fontFamily: 'var(--f-mono)',
+                  fontWeight: 400,
+                  color: t.value == null ? 'var(--c-spectral-muted)' : (active ? '#FFFFFF' : '#EFF2F7'),
+                  lineHeight: 1,
+                  fontVariantNumeric: 'tabular-nums',
+                  textShadow: active ? '0 0 10px rgba(239,242,247,0.45)' : '0 0 4px rgba(239,242,247,0.20)',
+                }}>{t.value == null ? '—' : t.value}</span>
+                <MiniSparkline data={t.series} width={44} height={12} />
+              </div>
+            </button>
+          )
+        })}
+      </div>
+
+      {/* HEALTH SCORE — left overlay */}
+      <div className="lumen-health-hud" style={{
+        position: 'absolute', top: 56, left: 18, zIndex: 15,
+        display: 'flex', flexDirection: 'column', gap: 10,
+        pointerEvents: 'none',
+        width: 220,
+      }}>
+        <span style={microLabel}>{statusLabel}</span>
+        <span style={{
+          fontFamily: 'var(--f-display)',
+          fontSize: 108,
+          fontWeight: 100,
+          lineHeight: 1,
+          letterSpacing: '-0.05em',
+          color: '#F2E4C2',
+          textShadow: '0 0 24px rgba(200,180,142,0.40), 0 0 6px rgba(200,180,142,0.30)',
+          fontVariantNumeric: 'tabular-nums',
+        }}>{overallScore}</span>
+        <span style={microLabel}>HEALTH SCORE</span>
+        <div style={{ marginTop: 4 }}>
+          <span style={microLabel}>24Ч</span>
+          <div style={{ marginTop: 4 }}>
+            <MiniSparkline data={sparklines.overall} width={200} height={24} fill />
           </div>
         </div>
       </div>
 
-      {/* ═══ DETAIL PANEL — unified pattern: summary → charts → rules ═══ */}
-      <div className="grid grid-cols-12 gap-3 mt-3">
+      {/* SkyOrb — LEFT, just to the right of HEALTH SCORE column (HS column: left 18, width 220 → right edge ~238; orb at left 250) */}
+      <div className="lumen-sky-orb" style={{
+        position: 'absolute', top: 64, left: 250, zIndex: 15,
+        pointerEvents: 'auto',
+      }}>
+        <SkyOrb />
+      </div>
 
-        {/* ── Обзор (default) — clean vertical stack ── */}
+      {/* Right diagnoses feed */}
+      <ActiveDiagnosesFeed report={v2Report} onOpenRule={openRuleDrawer} />
+    </NebulaPanel>
+  )
+
+  return (
+    <div className="relative" style={{ margin: '-1rem -1rem 0' }}>
+      <OnboardingTour />
+
+      {PanelFull}
+
+      <div className="grid grid-cols-12 gap-3" style={{ padding: '1rem' }}>
         {activeSystem === null && (
           <>
-            {/* Row 0: Vehicle info (moved from deleted /vehicle route) */}
             <div className="col-span-12">
               <Suspense fallback={null}>
                 <VehicleInfo />
               </Suspense>
             </div>
 
-            {/* Row 1: Diagnosis card full-width */}
             <div className="col-span-12">
               {useV2Api ? (
                 <DiagnosisCardV2 report={v2Report} loading={v2Loading} onFeedback={sendFeedback} clientHash={clientHash} />
@@ -401,7 +428,6 @@ export function Diagnostics() {
               )}
             </div>
 
-            {/* Row 2: Baseline + Health Timeline side by side */}
             <div className="col-span-12 lg:col-span-5">
               {useV2Api && v2Report?.baseline_status && (
                 <BaselineStatus
@@ -415,13 +441,12 @@ export function Diagnostics() {
               <AnomalyTimeline history={useV2Api ? v2HistoryAdapted : (historyData?.history ?? [])} />
             </div>
 
-            {/* Row 3: Insights (collapsible) */}
             {useV2Api && v2Report && (
               <div className="col-span-12 grid grid-cols-1 md:grid-cols-3 gap-3">
                 {v2Report.escalations && v2Report.escalations.length > 0 && (
                   <div className="glass-panel" style={{ padding: '10px 14px', cursor: 'pointer' }} onClick={() => setOpenInsight(openInsight === 'esc' ? null : 'esc')}>
                     <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-                      <span style={{ fontSize: 12, fontFamily: 'var(--f-body)', fontWeight: 600, color: theme.text.primary }}>📈 История диагнозов</span>
+                      <span style={{ fontSize: 12, fontFamily: 'var(--f-body)', fontWeight: 600, color: theme.text.primary }}>История диагнозов</span>
                       <span style={{ fontSize: 10, color: theme.accent.cyan }}>{openInsight === 'esc' ? '▾' : '▸'}</span>
                     </div>
                     {openInsight === 'esc' && <div style={{ marginTop: 8 }} onClick={e => e.stopPropagation()}><EscalationTimeline escalations={v2Report.escalations} /></div>}
@@ -429,14 +454,14 @@ export function Diagnostics() {
                 )}
                 <div className="glass-panel" style={{ padding: '10px 14px', cursor: 'pointer' }} onClick={() => setOpenInsight(openInsight === 'corr' ? null : 'corr')}>
                   <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-                    <span style={{ fontSize: 12, fontFamily: 'var(--f-body)', fontWeight: 600, color: theme.text.primary }}>🔗 Корреляции</span>
+                    <span style={{ fontSize: 12, fontFamily: 'var(--f-body)', fontWeight: 600, color: theme.text.primary }}>Корреляции</span>
                     <span style={{ fontSize: 10, color: theme.accent.cyan }}>{openInsight === 'corr' ? '▾' : '▸'}</span>
                   </div>
                   {openInsight === 'corr' && <div style={{ marginTop: 8 }} onClick={e => e.stopPropagation()}><CorrelationPanel clientHash={clientHash} /></div>}
                 </div>
                 <div className="glass-panel" style={{ padding: '10px 14px', cursor: 'pointer' }} onClick={() => setOpenInsight(openInsight === 'recall' ? null : 'recall')}>
                   <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-                    <span style={{ fontSize: 12, fontFamily: 'var(--f-body)', fontWeight: 600, color: theme.text.primary }}>📋 Отзывные</span>
+                    <span style={{ fontSize: 12, fontFamily: 'var(--f-body)', fontWeight: 600, color: theme.text.primary }}>Отзывные</span>
                     <span style={{ fontSize: 10, color: theme.accent.cyan }}>{openInsight === 'recall' ? '▾' : '▸'}</span>
                   </div>
                   {openInsight === 'recall' && <div style={{ marginTop: 8 }} onClick={e => e.stopPropagation()}><RecallsPanel recalls={v2Report.recalls || []} /></div>}
@@ -444,7 +469,6 @@ export function Diagnostics() {
               </div>
             )}
 
-            {/* Row 4: Search + Rules */}
             <div className="col-span-12 lg:col-span-4">
               <DiagnosticSearch />
             </div>
@@ -452,21 +476,17 @@ export function Diagnostics() {
               <RulesList />
             </div>
 
-            {/* Row 5: Chat */}
             <div className="col-span-12">
               <ChatPanel />
             </div>
           </>
         )}
 
-        {/* ── Подвеска: summary card full-width → SmartSphere + Scatter side by side → Rules ── */}
         {activeSystem === 'suspension' && (
           <>
-            {/* Summary: status card full width */}
             <div className="col-span-12">
               <SuspensionTab accelData={accelData} />
             </div>
-            {/* 3D SmartSphere */}
             <div className="col-span-12 lg:col-span-12">
               <Suspense fallback={
                 <GlassPanel style={{ height: 'min(400px, 50vh)' }}>
@@ -476,14 +496,12 @@ export function Diagnostics() {
                 <SmartSphere data={accelData} />
               </Suspense>
             </div>
-            {/* Rules */}
             <div className="col-span-12">
               <RulesList filterSystem="Подвеска" />
             </div>
           </>
         )}
 
-        {/* ── Двигатель: diagnosis full-width → rules ── */}
         {activeSystem === 'engine' && (
           <>
             <div className="col-span-12">
@@ -499,7 +517,6 @@ export function Diagnostics() {
           </>
         )}
 
-        {/* ── Электрика: diagnosis full-width → rules ── */}
         {activeSystem === 'electrical' && (
           <>
             <div className="col-span-12">
@@ -515,7 +532,6 @@ export function Diagnostics() {
           </>
         )}
 
-        {/* ── Аудио: AudioTab summary full-width → spectrum below → rules ── */}
         {activeSystem === 'audio' && (
           <>
             <div className="col-span-12">
@@ -530,7 +546,6 @@ export function Diagnostics() {
           </>
         )}
 
-        {/* ═══ EXPERT PANELS ═══ */}
         {expertMode && (
           <div className="col-span-12 grid grid-cols-12 gap-3">
             <div className="col-span-6 lg:col-span-4">
