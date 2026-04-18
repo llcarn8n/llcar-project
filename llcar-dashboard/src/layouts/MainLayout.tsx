@@ -231,6 +231,41 @@ export function MainLayout({ children }: { children: ReactNode }) {
                   </div>
                 </div>
               </button>
+              <button
+                onClick={() => {
+                  localStorage.removeItem('llcar-onboarding-v3-done')
+                  toggleSidebar()
+                  navigate('/diagnostics')
+                  setTimeout(() => { window.location.reload() }, 50)
+                }}
+                style={{
+                  width: '100%',
+                  display: 'flex',
+                  alignItems: 'center',
+                  gap: 10,
+                  padding: '10px 12px',
+                  borderRadius: 4,
+                  background: 'rgba(230,212,168,0.05)',
+                  border: '1px solid var(--c-champagne-border)',
+                  cursor: 'pointer',
+                  transition: 'all 0.3s',
+                  fontFamily: 'var(--f-body)',
+                  fontSize: 12,
+                  color: 'var(--text-secondary)',
+                  letterSpacing: '0.05em',
+                  textAlign: 'left',
+                }}
+              >
+                <span style={{ fontSize: 16, opacity: 0.6 }}>{'\u{1F916}'}</span>
+                <div style={{ flex: 1 }}>
+                  <div style={{ fontWeight: 600, marginBottom: 2 }}>
+                    Пройти тур заново
+                  </div>
+                  <div style={{ fontSize: 10, color: 'var(--text-muted)', letterSpacing: '0.1em', textTransform: 'uppercase' }}>
+                    5 шагов · знакомство
+                  </div>
+                </div>
+              </button>
             </div>
           )}
         </aside>

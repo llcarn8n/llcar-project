@@ -1,5 +1,4 @@
 import { useState, useEffect } from 'react'
-import { theme } from '../../theme'
 import robotDefault from '../../assets/robot-default.jpg'
 import robotThumbsup from '../../assets/robot-thumbsup.jpg'
 import robotShield from '../../assets/robot-shield.jpg'
@@ -87,14 +86,14 @@ export function OnboardingTour() {
       animation: 'fadeIn 0.3s ease',
     }}>
       <div style={{
-        background: 'rgba(12,18,32,0.95)',
-        border: `1px solid ${theme.accent.cyan}30`,
+        background: 'rgba(10,10,14,0.95)',
+        border: '1px solid rgba(230,212,168,0.3)',
         borderRadius: 12,
         padding: '32px 28px 24px',
         maxWidth: 400,
         width: '90%',
         textAlign: 'center',
-        boxShadow: `0 0 40px ${theme.accent.cyan}15, 0 20px 60px rgba(0,0,0,0.5)`,
+        boxShadow: '0 0 40px rgba(230,212,168,0.15), 0 20px 60px rgba(0,0,0,0.6)',
         position: 'relative',
       }}>
         <img
@@ -104,24 +103,25 @@ export function OnboardingTour() {
             width: 100, height: 100,
             objectFit: 'contain',
             marginBottom: 16,
-            filter: 'drop-shadow(0 4px 12px rgba(0,229,255,0.3))',
+            filter: 'drop-shadow(0 4px 12px rgba(230,212,168,0.4))',
             animation: step === STEPS.length - 1 ? 'bounce 0.6s ease' : undefined,
           }}
         />
 
         <div style={{
-          fontSize: 18, fontFamily: "'Orbitron', sans-serif", fontWeight: 700,
-          color: theme.accent.cyan,
+          fontSize: 18, fontFamily: 'var(--f-display)', fontWeight: 700,
+          color: 'var(--c-champagne)',
           letterSpacing: '0.1em',
           marginBottom: 8,
-          textShadow: `0 0 10px ${theme.accent.cyan}40`,
+          textShadow: '0 0 14px rgba(230,212,168,0.4)',
         }}>
           {current.title}
         </div>
 
         <div style={{
-          fontSize: 14, fontFamily: "'Rajdhani', sans-serif",
-          color: theme.text.secondary,
+          fontSize: 14, fontFamily: 'var(--f-body)',
+          color: '#FFFFFF',
+          opacity: 0.85,
           lineHeight: 1.5,
           marginBottom: 24,
         }}>
@@ -132,8 +132,8 @@ export function OnboardingTour() {
           {STEPS.map((_, i) => (
             <div key={i} style={{
               width: 8, height: 8, borderRadius: '50%',
-              background: i === step ? theme.accent.cyan : `${theme.accent.cyan}25`,
-              boxShadow: i === step ? `0 0 6px ${theme.accent.cyan}` : 'none',
+              background: i === step ? 'var(--c-champagne)' : 'rgba(230,212,168,0.25)',
+              boxShadow: i === step ? '0 0 8px rgba(230,212,168,0.8)' : 'none',
               transition: 'all 0.3s',
             }} />
           ))}
@@ -145,9 +145,9 @@ export function OnboardingTour() {
               onClick={() => setStep(step - 1)}
               style={{
                 padding: '8px 20px', fontSize: 12,
-                fontFamily: "'Rajdhani', sans-serif", fontWeight: 600,
-                color: theme.text.muted, background: 'transparent',
-                border: `1px solid ${theme.text.muted}30`,
+                fontFamily: 'var(--f-body)', fontWeight: 600,
+                color: '#FFFFFF', opacity: 0.7, background: 'transparent',
+                border: '1px solid rgba(255,255,255,0.2)',
                 borderRadius: 4, cursor: 'pointer',
               }}
             >
@@ -158,12 +158,13 @@ export function OnboardingTour() {
             onClick={handleNext}
             style={{
               padding: '8px 24px', fontSize: 12,
-              fontFamily: "'Rajdhani', sans-serif", fontWeight: 600,
-              color: '#0C1220',
-              background: `linear-gradient(135deg, ${theme.accent.cyan}, ${theme.accent.teal})`,
+              fontFamily: 'var(--f-display)', fontWeight: 700,
+              letterSpacing: '0.1em',
+              textTransform: 'uppercase',
+              color: '#050505',
+              background: 'linear-gradient(135deg, #F2E4C2 0%, #E6D4A8 50%, #C89446 100%)',
               border: 'none', borderRadius: 4, cursor: 'pointer',
-              boxShadow: `0 0 12px ${theme.accent.cyan}40`,
-              letterSpacing: '0.05em',
+              boxShadow: '0 0 16px rgba(230,212,168,0.5), 0 4px 14px rgba(200,148,70,0.25)',
             }}
           >
             {isLast ? 'Поехали!' : 'Далее'}
@@ -175,10 +176,11 @@ export function OnboardingTour() {
             onClick={handleSkip}
             style={{
               marginTop: 12, fontSize: 10,
-              fontFamily: "'Orbitron', sans-serif",
-              color: theme.text.muted, background: 'none',
+              fontFamily: 'var(--f-display)',
+              color: '#FFFFFF', opacity: 0.55,
+              background: 'none',
               border: 'none', cursor: 'pointer',
-              letterSpacing: '0.1em',
+              letterSpacing: '0.16em',
             }}
           >
             ПРОПУСТИТЬ

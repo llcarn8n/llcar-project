@@ -1,6 +1,7 @@
 import { useState, useEffect, useMemo, useRef } from 'react'
 import { GlassPanel } from '../shared/GlassPanel'
 import { theme } from '../../theme'
+import { useIsMobile } from '../../hooks/useIsMobile'
 // cachedFetch убран — universal ситуации временно скрыты (S19)
 import { QualityBadge } from './QualityBadge'
 import { FullArticle } from './FullArticle'
@@ -57,7 +58,7 @@ const CATEGORY_MAP: Record<string, { label: string; icon: string; color: string 
 function urgencyColor(urg: number): string {
   if (urg >= 8) return theme.status.critical
   if (urg >= 5) return theme.status.warning
-  return theme.accent.cyan
+  return 'var(--c-champagne)'
 }
 
 interface SituationsListProps {
@@ -78,7 +79,12 @@ export function SituationsList({ brandId, kbGenPath, initialExpandedId }: Situat
   const [showBrandOnly, setShowBrandOnly] = useState(false)
   const [showGenOnly, setShowGenOnly] = useState(false)
   const [expandedId, setExpandedId] = useState<string | null>(null)
+  const [visibleCount, setVisibleCount] = useState(30)
+  const isMobile = useIsMobile()
   const expandedRef = useRef<HTMLDivElement | null>(null)
+
+  // Reset visible count when filters change
+  useEffect(() => { setVisibleCount(30) }, [search, catFilter, showBrandOnly, showGenOnly])
 
   useEffect(() => {
     if (initialExpandedId) setExpandedId(initialExpandedId)
@@ -189,8 +195,9 @@ export function SituationsList({ brandId, kbGenPath, initialExpandedId }: Situat
         }
         return b.urg - a.urg
       })
-      .slice(0, 50)
   }, [situations, brandSituations, genSituations, showBrandOnly, showGenOnly, search, catFilter, initialExpandedId])
+
+  const visibleList = useMemo(() => filtered.slice(0, visibleCount), [filtered, visibleCount])
 
   return (
     <GlassPanel>
@@ -215,12 +222,12 @@ export function SituationsList({ brandId, kbGenPath, initialExpandedId }: Situat
           style={{
             flex: '1 1 200px',
             padding: '10px 14px',
-            fontFamily: "'Rajdhani', sans-serif",
+            fontFamily: 'var(--f-body)',
             fontSize: 14,
             fontWeight: 600,
             color: 'var(--text-primary)',
-            background: 'rgba(0,229,255,0.04)',
-            border: '1px solid rgba(0,229,255,0.15)',
+            background: 'rgba(230,212,168,0.05)',
+            border: '1px solid rgba(230,212,168,0.22)',
             borderRadius: 4,
             outline: 'none',
           }}
@@ -230,12 +237,12 @@ export function SituationsList({ brandId, kbGenPath, initialExpandedId }: Situat
           onChange={e => setCatFilter(e.target.value)}
           style={{
             padding: '10px 12px',
-            fontFamily: "'Rajdhani', sans-serif",
+            fontFamily: 'var(--f-body)',
             fontSize: 13,
             fontWeight: 600,
             color: 'var(--text-secondary)',
-            background: 'rgba(0,229,255,0.04)',
-            border: '1px solid rgba(0,229,255,0.15)',
+            background: 'rgba(230,212,168,0.05)',
+            border: '1px solid rgba(230,212,168,0.22)',
             borderRadius: 4,
             outline: 'none',
             cursor: 'pointer',
@@ -252,7 +259,7 @@ export function SituationsList({ brandId, kbGenPath, initialExpandedId }: Situat
             onClick={() => { setShowGenOnly(!showGenOnly); if (!showGenOnly) setShowBrandOnly(false) }}
             style={{
               padding: '10px 14px',
-              fontFamily: "'Rajdhani', sans-serif",
+              fontFamily: 'var(--f-body)',
               fontSize: 12,
               fontWeight: 700,
               color: showGenOnly ? '#0C1220' : theme.accent.teal,
@@ -272,7 +279,7 @@ export function SituationsList({ brandId, kbGenPath, initialExpandedId }: Situat
             onClick={() => { setShowBrandOnly(!showBrandOnly); if (!showBrandOnly) setShowGenOnly(false) }}
             style={{
               padding: '10px 14px',
-              fontFamily: "'Rajdhani', sans-serif",
+              fontFamily: 'var(--f-body)',
               fontSize: 12,
               fontWeight: 700,
               color: showBrandOnly ? '#0C1220' : '#FF8C00',
@@ -290,21 +297,26 @@ export function SituationsList({ brandId, kbGenPath, initialExpandedId }: Situat
       </div>
 
       {loading && (
-        <div style={{ textAlign: 'center', padding: 24, fontFamily: "'Orbitron', sans-serif", fontSize: 12, color: theme.accent.cyan, letterSpacing: '0.15em' }}>
+        <div style={{ textAlign: 'center', padding: 24, fontFamily: 'var(--f-display)', fontSize: 12, color: 'var(--c-champagne)', letterSpacing: '0.15em' }}>
           LOADING...
         </div>
       )}
 
       {/* Situations list */}
       {!loading && (
-        <div style={{ display: 'flex', flexDirection: 'column', gap: 6, maxHeight: '65vh', overflowY: 'auto' }}>
+        <div style={{
+          display: 'flex',
+          flexDirection: 'column',
+          gap: 6,
+          ...(isMobile ? { maxHeight: '60vh', overflowY: 'auto' } : {}),
+        }}>
           {filtered.length === 0 && (
-            <div style={{ padding: 20, textAlign: 'center', fontFamily: "'Rajdhani', sans-serif", fontSize: 13, color: theme.text.muted }}>
+            <div style={{ padding: 20, textAlign: 'center', fontFamily: 'var(--f-body)', fontSize: 13, color: '#FFFFFF', opacity: 0.6 }}>
               Ничего не найдено
             </div>
           )}
 
-          {filtered.map(s => {
+          {visibleList.map(s => {
             const catInfo = CATEGORY_MAP[s.cat]
             const isExpanded = expandedId === s.id
             const isGen = s._level === 'generation'
@@ -317,11 +329,11 @@ export function SituationsList({ brandId, kbGenPath, initialExpandedId }: Situat
                   padding: '12px 14px',
                   borderRadius: 4,
                   background: isGen
-                    ? 'rgba(0,200,180,0.06)'
-                    : isExpanded ? 'rgba(0,229,255,0.05)' : 'rgba(0,229,255,0.02)',
+                    ? 'rgba(230,212,168,0.08)'
+                    : isExpanded ? 'rgba(230,212,168,0.06)' : 'rgba(230,212,168,0.025)',
                   border: `1px solid ${isGen
-                    ? 'rgba(0,200,180,0.18)'
-                    : isExpanded ? 'rgba(0,229,255,0.15)' : 'rgba(0,229,255,0.06)'}`,
+                    ? 'rgba(230,212,168,0.3)'
+                    : isExpanded ? 'rgba(230,212,168,0.22)' : 'rgba(230,212,168,0.1)'}`,
                   cursor: 'pointer',
                   transition: 'all 0.2s',
                 }}
@@ -352,7 +364,7 @@ export function SituationsList({ brandId, kbGenPath, initialExpandedId }: Situat
                   {/* Title + generation badge */}
                   <div style={{
                     flex: 1,
-                    fontFamily: "'Rajdhani', sans-serif",
+                    fontFamily: 'var(--f-body)',
                     fontSize: 13,
                     fontWeight: 600,
                     color: theme.text.secondary,
@@ -365,7 +377,7 @@ export function SituationsList({ brandId, kbGenPath, initialExpandedId }: Situat
                     <span>{s.title}</span>
                     {isGen && (
                       <span style={{
-                        fontFamily: "'Rajdhani', sans-serif",
+                        fontFamily: 'var(--f-body)',
                         fontSize: 9,
                         fontWeight: 700,
                         color: theme.accent.teal,
@@ -392,7 +404,7 @@ export function SituationsList({ brandId, kbGenPath, initialExpandedId }: Situat
 
                   {/* Urgency number */}
                   <span style={{
-                    fontFamily: "'Orbitron', sans-serif",
+                    fontFamily: 'var(--f-display)',
                     fontSize: 10,
                     fontWeight: 700,
                     color: urgencyColor(s.urg),
@@ -417,7 +429,7 @@ export function SituationsList({ brandId, kbGenPath, initialExpandedId }: Situat
                         </div>
                       ) : (
                         <div style={{
-                          fontFamily: "'Rajdhani', sans-serif",
+                          fontFamily: 'var(--f-body)',
                           fontSize: 12,
                           color: theme.text.muted,
                           lineHeight: 1.5,
@@ -430,7 +442,7 @@ export function SituationsList({ brandId, kbGenPath, initialExpandedId }: Situat
                       {/* Generation-level detailed explanation */}
                       {isGen && s.level1_ru && (
                         <div style={{
-                          fontFamily: "'Rajdhani', sans-serif",
+                          fontFamily: 'var(--f-body)',
                           fontSize: 12,
                           color: theme.text.secondary,
                           lineHeight: 1.6,
@@ -450,7 +462,7 @@ export function SituationsList({ brandId, kbGenPath, initialExpandedId }: Situat
                         <div style={{ marginBottom: 10 }}>
                           {s.facts_ru.map((fact, i) => (
                             <div key={i} style={{
-                              fontFamily: "'Rajdhani', sans-serif",
+                              fontFamily: 'var(--f-body)',
                               fontSize: 11,
                               color: theme.text.muted,
                               lineHeight: 1.5,
@@ -474,7 +486,7 @@ export function SituationsList({ brandId, kbGenPath, initialExpandedId }: Situat
                           borderRadius: 4,
                         }}>
                           <div style={{
-                            fontFamily: "'Rajdhani', sans-serif",
+                            fontFamily: 'var(--f-body)',
                             fontSize: 10,
                             fontWeight: 700,
                             color: '#FF8C00',
@@ -487,7 +499,7 @@ export function SituationsList({ brandId, kbGenPath, initialExpandedId }: Situat
                             <div key={i} style={{
                               display: 'flex',
                               justifyContent: 'space-between',
-                              fontFamily: "'Rajdhani', sans-serif",
+                              fontFamily: 'var(--f-body)',
                               fontSize: 11,
                               color: theme.text.muted,
                               padding: '2px 0',
@@ -505,14 +517,14 @@ export function SituationsList({ brandId, kbGenPath, initialExpandedId }: Situat
                         <div style={{ display: 'flex', gap: 6, flexWrap: 'wrap' }}>
                           {dtcList.map(code => (
                             <span key={code} style={{
-                              fontFamily: "'Orbitron', sans-serif",
+                              fontFamily: 'var(--f-display)',
                               fontSize: 9,
                               fontWeight: 700,
-                              color: theme.accent.cyan,
+                              color: 'var(--c-champagne)',
                               padding: '2px 6px',
                               borderRadius: 2,
-                              background: `${theme.accent.cyan}10`,
-                              border: `1px solid ${theme.accent.cyan}20`,
+                              background: 'rgba(230,212,168,0.08)',
+                              border: '1px solid rgba(230,212,168,0.25)',
                               letterSpacing: '0.08em',
                             }}>
                               {code}
@@ -526,12 +538,12 @@ export function SituationsList({ brandId, kbGenPath, initialExpandedId }: Situat
                           {layers.map(l => (
                             <span key={l} style={{
                               fontSize: 9,
-                              fontFamily: "'Rajdhani', sans-serif",
+                              fontFamily: 'var(--f-body)',
                               fontWeight: 600,
                               color: theme.text.muted,
                               padding: '1px 5px',
                               borderRadius: 2,
-                              background: 'rgba(0,229,255,0.04)',
+                              background: 'rgba(230,212,168,0.05)',
                               letterSpacing: '0.03em',
                             }}>
                               {CATEGORY_MAP[l]?.label || l}
@@ -545,14 +557,14 @@ export function SituationsList({ brandId, kbGenPath, initialExpandedId }: Situat
                         <div style={{
                           marginTop: 6,
                           display: 'inline-block',
-                          fontFamily: "'Rajdhani', sans-serif",
+                          fontFamily: 'var(--f-body)',
                           fontSize: 9,
                           fontWeight: 700,
                           color: s.season === 'winter' ? '#80D8FF' : s.season === 'summer' ? '#FFD54F' : theme.text.muted,
                           padding: '2px 8px',
                           borderRadius: 3,
-                          background: s.season === 'winter' ? 'rgba(128,216,255,0.08)' : s.season === 'summer' ? 'rgba(255,213,79,0.08)' : 'rgba(0,229,255,0.04)',
-                          border: `1px solid ${s.season === 'winter' ? 'rgba(128,216,255,0.2)' : s.season === 'summer' ? 'rgba(255,213,79,0.2)' : 'rgba(0,229,255,0.1)'}`,
+                          background: s.season === 'winter' ? 'rgba(128,216,255,0.08)' : s.season === 'summer' ? 'rgba(255,213,79,0.08)' : 'rgba(230,212,168,0.05)',
+                          border: `1px solid ${s.season === 'winter' ? 'rgba(128,216,255,0.2)' : s.season === 'summer' ? 'rgba(255,213,79,0.2)' : 'rgba(230,212,168,0.2)'}`,
                           letterSpacing: '0.05em',
                         }}>
                           {s.season === 'winter' ? '\u2744 ЗИМНИЙ ПЕРИОД' : s.season === 'summer' ? '\u2600 ЛЕТНИЙ ПЕРИОД' : s.season.toUpperCase()}
@@ -564,6 +576,46 @@ export function SituationsList({ brandId, kbGenPath, initialExpandedId }: Situat
               </div>
             )
           })}
+
+          {filtered.length > visibleCount && (
+            <div style={{ display: 'flex', justifyContent: 'center', gap: 10, marginTop: 10 }}>
+              <button
+                onClick={() => setVisibleCount(v => v + 30)}
+                style={{
+                  padding: '10px 18px',
+                  fontFamily: 'var(--f-display)',
+                  fontSize: 12,
+                  fontWeight: 700,
+                  letterSpacing: '0.14em',
+                  textTransform: 'uppercase',
+                  color: 'var(--c-champagne)',
+                  background: 'rgba(230,212,168,0.06)',
+                  border: '1px solid var(--c-champagne-border)',
+                  borderRadius: 4,
+                  cursor: 'pointer',
+                }}
+              >
+                Показать ещё ({Math.min(30, filtered.length - visibleCount)})
+              </button>
+              <button
+                onClick={() => setVisibleCount(filtered.length)}
+                style={{
+                  padding: '10px 18px',
+                  fontFamily: 'var(--f-body)',
+                  fontSize: 12,
+                  fontWeight: 600,
+                  color: '#FFFFFF',
+                  opacity: 0.8,
+                  background: 'transparent',
+                  border: '1px solid rgba(230,212,168,0.2)',
+                  borderRadius: 4,
+                  cursor: 'pointer',
+                }}
+              >
+                Показать все ({filtered.length})
+              </button>
+            </div>
+          )}
         </div>
       )}
     </GlassPanel>

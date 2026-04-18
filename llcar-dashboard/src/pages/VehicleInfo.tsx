@@ -77,7 +77,7 @@ export function VehicleInfo() {
   const { vehicleProfile, mode } = useDashboardStore()
   const [brandData, setBrandData] = useState<BrandData | null>(null)
   const [modelDesc, setModelDesc] = useState<string | null>(null)
-  const [videoTitles, setVideoTitles] = useState<string[]>([])
+  const [videoItems, setVideoItems] = useState<{ title: string; url?: string }[]>([])
   const [loading, setLoading] = useState(false)
 
   // KB generation-level data
@@ -121,7 +121,12 @@ export function VehicleInfo() {
           const info = descs[modelId]
           setModelDesc(info?.desc || null)
         }
-        if (vids?.titles) setVideoTitles(vids.titles.slice(0, 10))
+        if (vids?.titles) {
+          const titles: string[] = Array.isArray(vids.titles) ? vids.titles : []
+          const links: string[] = Array.isArray(vids.links) ? vids.links : []
+          const items = titles.slice(0, 10).map((t, i) => ({ title: t, url: links[i] }))
+          setVideoItems(items)
+        }
       })
       .catch(() => {})
       .finally(() => setLoading(false))
@@ -341,13 +346,13 @@ export function VehicleInfo() {
       )}
 
       {/* Video topics */}
-      {videoTitles.length > 0 && (
+      {videoItems.length > 0 && (
         <div className="col-span-12">
           <GlassPanel>
             <div className="hud-header mb-3">Видео по модели</div>
             <div style={{ display: 'flex', flexWrap: 'wrap', gap: 6 }}>
-              {videoTitles.map((t, i) => (
-                <div key={i} style={{
+              {videoItems.map((it, i) => {
+                const base: React.CSSProperties = {
                   padding: '6px 12px',
                   borderRadius: 4,
                   background: 'var(--c-champagne-faint)',
@@ -356,10 +361,33 @@ export function VehicleInfo() {
                   fontSize: 12,
                   fontWeight: 600,
                   color: 'var(--c-graphite)',
-                }}>
-                  &#x1F3AC; {t}
-                </div>
-              ))}
+                  textDecoration: 'none',
+                  display: 'inline-block',
+                }
+                const body = <>&#x1F3AC; {it.title}</>
+                if (it.url) {
+                  return (
+                    <a
+                      key={i}
+                      href={it.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      style={{ ...base, cursor: 'pointer' }}
+                      onMouseEnter={e => {
+                        e.currentTarget.style.borderColor = 'var(--c-champagne)'
+                        e.currentTarget.style.background = 'var(--c-champagne-soft)'
+                      }}
+                      onMouseLeave={e => {
+                        e.currentTarget.style.borderColor = 'var(--c-champagne-border)'
+                        e.currentTarget.style.background = 'var(--c-champagne-faint)'
+                      }}
+                    >
+                      {body}
+                    </a>
+                  )
+                }
+                return <div key={i} style={base}>{body}</div>
+              })}
             </div>
           </GlassPanel>
         </div>

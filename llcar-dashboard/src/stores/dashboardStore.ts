@@ -161,6 +161,8 @@ export const useDashboardStore = create<DashboardState>((set, get) => ({
   toggleTheme: () => set((s) => ({ isDarkMode: !s.isDarkMode })),
   setVehicleProfile: (profile) => {
     localStorage.setItem('llcar-vehicle-profile', JSON.stringify(profile))
+    // новый профиль — показываем онбординг-тур снова
+    localStorage.removeItem('llcar-onboarding-v3-done')
     set({ vehicleProfile: profile, showVehicleSetup: false, mode: 'vehicle' })
   },
   openVehicleSetup: () => set({ showVehicleSetup: true }),
@@ -168,6 +170,7 @@ export const useDashboardStore = create<DashboardState>((set, get) => ({
   resetVehicle: () => {
     localStorage.removeItem('llcar-vehicle-profile')
     localStorage.removeItem('llcar-mode')
+    localStorage.removeItem('llcar-onboarding-v3-done')
     set({ vehicleProfile: null, mode: 'vehicle' })
   },
   setConnectionDone: (done) => set({ connectionDone: done }),

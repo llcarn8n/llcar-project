@@ -44,7 +44,7 @@ const labelStyle: React.CSSProperties = {
 
 export function VehicleSelect() {
   const navigate = useNavigate()
-  const { setVehicleProfile, setMode } = useDashboardStore()
+  const { setVehicleProfile, setMode, openConnectionWizard, connectionDone } = useDashboardStore()
 
   const [brands, setBrands] = useState<BrandIndex[]>([])
   const [brandData, setBrandData] = useState<BrandFull | null>(null)
@@ -86,7 +86,11 @@ export function VehicleSelect() {
       generationId: selectedGen.id,
     })
     navigate('/vehicle')
-  }, [brandData, selectedModel, selectedGen, engine, setVehicleProfile, navigate])
+    // Для первого входа — автопоказ мастера подключения OBD-II
+    if (!connectionDone) {
+      setTimeout(() => openConnectionWizard(), 500)
+    }
+  }, [brandData, selectedModel, selectedGen, engine, setVehicleProfile, navigate, connectionDone, openConnectionWizard])
 
   const handleGeneral = useCallback(() => {
     setMode('general')
