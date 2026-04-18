@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useMemo } from 'react'
 import { GlassPanel } from '../components/shared/GlassPanel'
 import { SpecCards } from '../components/vehicle/SpecCards'
 import { useDashboardStore } from '../stores/dashboardStore'
@@ -172,23 +172,47 @@ export function VehicleInfo() {
     Promise.all([loadMeta, loadSit, loadVid, loadRev]).then(([meta, sits, vids, revs]) => {
       setKbMeta(meta || null)
       if (Array.isArray(sits)) {
-        // Sort by urgency descending, take top 5
         const sorted = [...sits].sort((a, b) => (b.urgency || 0) - (a.urgency || 0))
-        setKbSituations(sorted.slice(0, 5))
+        setKbSituations(sorted)
       } else {
         setKbSituations([])
       }
-      setKbVideos(Array.isArray(vids) ? vids.slice(0, 6) : [])
-      // Reviews: skip first item if it's a header chunk
+      setKbVideos(Array.isArray(vids) ? vids : [])
       if (Array.isArray(revs)) {
         const filtered = revs.filter((r: KBReview) => r.source && r.quotes && r.quotes.length > 0)
-        setKbReviews(filtered.slice(0, 2))
+        setKbReviews(filtered)
       } else {
         setKbReviews([])
       }
       setKbLoading(false)
     })
   }, [vehicleProfile, generation?.name])
+
+  // ─── Situations filter state ───
+  const [sitQuery, setSitQuery] = useState('')
+  const [sitCategory, setSitCategory] = useState<string>('all')
+  const [sitMinUrgency, setSitMinUrgency] = useState<number>(0)
+  const [sitLimit, setSitLimit] = useState<number>(10)
+
+  const sitCategories = useMemo(() => {
+    const set = new Set<string>()
+    kbSituations.forEach(s => { if (s.category) set.add(s.category) })
+    return Array.from(set).sort()
+  }, [kbSituations])
+
+  const filteredSituations = useMemo(() => {
+    const q = sitQuery.trim().toLowerCase()
+    return kbSituations.filter(s => {
+      if (sitCategory !== 'all' && s.category !== sitCategory) return false
+      if ((s.urgency || 0) < sitMinUrgency) return false
+      if (q && !(s.title?.toLowerCase().includes(q) || s.quickAnswer?.toLowerCase().includes(q))) return false
+      return true
+    })
+  }, [kbSituations, sitQuery, sitCategory, sitMinUrgency])
+
+  // ─── Videos / Reviews expand state ───
+  const [videosExpanded, setVideosExpanded] = useState(false)
+  const [reviewsExpanded, setReviewsExpanded] = useState(false)
 
   // General mode — no vehicle selected
   if (mode === 'general' && !vehicleProfile) {
@@ -549,13 +573,103 @@ export function VehicleInfo() {
         </div>
       )}
 
-      {/* KB Situations — top 5 by urgency */}
+      {/* KB Situations — all, with filters */}
       {kbSituations.length > 0 && (
         <div className="col-span-12">
           <GlassPanel>
-            <div className="hud-header mb-3">Типичные проблемы</div>
+            <div className="hud-header mb-3">
+              Типичные проблемы ({filteredSituations.length}
+              {filteredSituations.length !== kbSituations.length ? ` из ${kbSituations.length}` : ''})
+            </div>
+
+            {/* Filter bar */}
+            <div style={{
+              display: 'flex',
+              flexWrap: 'wrap',
+              gap: 8,
+              marginBottom: 12,
+              alignItems: 'center',
+            }}>
+              <input
+                type="text"
+                placeholder="Поиск по названию и описанию..."
+                value={sitQuery}
+                onChange={e => { setSitQuery(e.target.value); setSitLimit(10) }}
+                style={{
+                  flex: '1 1 220px',
+                  minWidth: 180,
+                  padding: '8px 12px',
+                  fontFamily: 'var(--f-body)',
+                  fontSize: 13,
+                  color: '#FFFFFF',
+                  background: 'rgba(10,10,12,0.7)',
+                  border: '1px solid rgba(230,212,168,0.22)',
+                  borderRadius: 4,
+                  outline: 'none',
+                }}
+              />
+              <select
+                value={sitCategory}
+                onChange={e => { setSitCategory(e.target.value); setSitLimit(10) }}
+                style={{
+                  padding: '8px 12px',
+                  fontFamily: 'var(--f-body)',
+                  fontSize: 13,
+                  color: '#FFFFFF',
+                  background: 'rgba(10,10,12,0.85)',
+                  border: '1px solid rgba(230,212,168,0.22)',
+                  borderRadius: 4,
+                  outline: 'none',
+                  cursor: 'pointer',
+                }}
+              >
+                <option value="all">Все категории</option>
+                {sitCategories.map(c => (
+                  <option key={c} value={c}>{c}</option>
+                ))}
+              </select>
+              <select
+                value={sitMinUrgency}
+                onChange={e => { setSitMinUrgency(Number(e.target.value)); setSitLimit(10) }}
+                style={{
+                  padding: '8px 12px',
+                  fontFamily: 'var(--f-body)',
+                  fontSize: 13,
+                  color: '#FFFFFF',
+                  background: 'rgba(10,10,12,0.85)',
+                  border: '1px solid rgba(230,212,168,0.22)',
+                  borderRadius: 4,
+                  outline: 'none',
+                  cursor: 'pointer',
+                }}
+              >
+                <option value={0}>Любая важность</option>
+                <option value={2}>Важность ≥ 2</option>
+                <option value={3}>Важность ≥ 3</option>
+                <option value={4}>Только критичные (≥ 4)</option>
+              </select>
+              {(sitQuery || sitCategory !== 'all' || sitMinUrgency > 0) && (
+                <button
+                  onClick={() => { setSitQuery(''); setSitCategory('all'); setSitMinUrgency(0); setSitLimit(10) }}
+                  style={{
+                    padding: '8px 12px',
+                    fontFamily: 'var(--f-body)',
+                    fontSize: 12,
+                    fontWeight: 600,
+                    color: 'var(--c-champagne)',
+                    background: 'transparent',
+                    border: '1px solid rgba(230,212,168,0.25)',
+                    borderRadius: 4,
+                    cursor: 'pointer',
+                  }}
+                >
+                  Сбросить
+                </button>
+              )}
+            </div>
+
             <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
-              {kbSituations.map((sit) => (
+              {filteredSituations.slice(0, sitLimit).map((sit) => (
                 <div key={sit.id} style={{
                   display: 'flex',
                   alignItems: 'flex-start',
@@ -629,6 +743,59 @@ export function VehicleInfo() {
                   </span>
                 </div>
               ))}
+
+              {filteredSituations.length === 0 && (
+                <div style={{
+                  padding: '20px 14px',
+                  textAlign: 'center',
+                  fontFamily: 'var(--f-body)',
+                  fontSize: 13,
+                  color: '#FFFFFF',
+                  opacity: 0.55,
+                }}>
+                  По текущим фильтрам ничего не найдено.
+                </div>
+              )}
+
+              {filteredSituations.length > sitLimit && (
+                <div style={{ display: 'flex', justifyContent: 'center', gap: 10, marginTop: 4 }}>
+                  <button
+                    onClick={() => setSitLimit(l => l + 20)}
+                    style={{
+                      padding: '10px 18px',
+                      fontFamily: 'var(--f-display)',
+                      fontSize: 12,
+                      fontWeight: 700,
+                      letterSpacing: '0.12em',
+                      textTransform: 'uppercase',
+                      color: 'var(--c-champagne)',
+                      background: 'rgba(230,212,168,0.06)',
+                      border: '1px solid var(--c-champagne-border)',
+                      borderRadius: 4,
+                      cursor: 'pointer',
+                    }}
+                  >
+                    Показать ещё ({filteredSituations.length - sitLimit})
+                  </button>
+                  <button
+                    onClick={() => setSitLimit(filteredSituations.length)}
+                    style={{
+                      padding: '10px 18px',
+                      fontFamily: 'var(--f-body)',
+                      fontSize: 12,
+                      fontWeight: 600,
+                      color: '#FFFFFF',
+                      opacity: 0.75,
+                      background: 'transparent',
+                      border: '1px solid rgba(230,212,168,0.2)',
+                      borderRadius: 4,
+                      cursor: 'pointer',
+                    }}
+                  >
+                    Показать все
+                  </button>
+                </div>
+              )}
             </div>
           </GlassPanel>
         </div>
@@ -638,9 +805,9 @@ export function VehicleInfo() {
       {kbVideos.length > 0 && (
         <div className="col-span-12">
           <GlassPanel>
-            <div className="hud-header mb-3">Видео из базы знаний</div>
+            <div className="hud-header mb-3">Видео из базы знаний ({kbVideos.length})</div>
             <div style={{ display: 'flex', flexDirection: 'column', gap: 6 }}>
-              {kbVideos.map((vid, i) => (
+              {(videosExpanded ? kbVideos : kbVideos.slice(0, 6)).map((vid, i) => (
                 <a
                   key={i}
                   href={vid.url}
@@ -686,6 +853,29 @@ export function VehicleInfo() {
                   </div>
                 </a>
               ))}
+
+              {kbVideos.length > 6 && (
+                <div style={{ display: 'flex', justifyContent: 'center', marginTop: 6 }}>
+                  <button
+                    onClick={() => setVideosExpanded(v => !v)}
+                    style={{
+                      padding: '8px 16px',
+                      fontFamily: 'var(--f-display)',
+                      fontSize: 12,
+                      fontWeight: 700,
+                      letterSpacing: '0.12em',
+                      textTransform: 'uppercase',
+                      color: 'var(--c-champagne)',
+                      background: 'rgba(230,212,168,0.06)',
+                      border: '1px solid var(--c-champagne-border)',
+                      borderRadius: 4,
+                      cursor: 'pointer',
+                    }}
+                  >
+                    {videosExpanded ? 'Свернуть' : `Показать все (${kbVideos.length})`}
+                  </button>
+                </div>
+              )}
             </div>
           </GlassPanel>
         </div>
@@ -695,9 +885,9 @@ export function VehicleInfo() {
       {kbReviews.length > 0 && (
         <div className="col-span-12">
           <GlassPanel>
-            <div className="hud-header mb-3">Отзывы владельцев</div>
+            <div className="hud-header mb-3">Отзывы владельцев ({kbReviews.length})</div>
             <div style={{ display: 'flex', flexDirection: 'column', gap: 10 }}>
-              {kbReviews.map((rev, i) => (
+              {(reviewsExpanded ? kbReviews : kbReviews.slice(0, 2)).map((rev, i) => (
                 <div key={i} style={{
                   padding: '10px 14px',
                   borderRadius: 6,
@@ -747,6 +937,29 @@ export function VehicleInfo() {
                   )}
                 </div>
               ))}
+
+              {kbReviews.length > 2 && (
+                <div style={{ display: 'flex', justifyContent: 'center', marginTop: 6 }}>
+                  <button
+                    onClick={() => setReviewsExpanded(v => !v)}
+                    style={{
+                      padding: '8px 16px',
+                      fontFamily: 'var(--f-display)',
+                      fontSize: 12,
+                      fontWeight: 700,
+                      letterSpacing: '0.12em',
+                      textTransform: 'uppercase',
+                      color: 'var(--c-champagne)',
+                      background: 'rgba(230,212,168,0.06)',
+                      border: '1px solid var(--c-champagne-border)',
+                      borderRadius: 4,
+                      cursor: 'pointer',
+                    }}
+                  >
+                    {reviewsExpanded ? 'Свернуть' : `Показать все (${kbReviews.length})`}
+                  </button>
+                </div>
+              )}
             </div>
           </GlassPanel>
         </div>

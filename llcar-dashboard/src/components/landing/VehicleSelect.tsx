@@ -1,7 +1,6 @@
 import { useState, useEffect, useCallback } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { useDashboardStore } from '../../stores/dashboardStore'
-import { theme } from '../../theme'
 
 interface BrandIndex { id: string; name: string; name_ru: string; country: string; models: number }
 interface Generation { id: string; name: string; ys: number; ye: number }
@@ -19,16 +18,28 @@ const ENGINE_OPTIONS = [
 const selectStyle: React.CSSProperties = {
   width: '100%',
   padding: '10px 12px',
-  fontFamily: "'Rajdhani', sans-serif",
+  fontFamily: 'var(--f-body)',
   fontSize: 14,
   fontWeight: 600,
-  color: '#ffffff',
-  background: '#0f1923',
-  border: '1px solid rgba(0,229,255,0.2)',
+  color: '#FFFFFF',
+  background: 'rgba(10,10,12,0.85)',
+  border: '1px solid rgba(230,212,168,0.25)',
   borderRadius: 4,
   outline: 'none',
   letterSpacing: '0.03em',
   cursor: 'pointer',
+}
+
+const labelStyle: React.CSSProperties = {
+  fontSize: 11,
+  color: '#FFFFFF',
+  opacity: 0.65,
+  fontFamily: 'var(--f-body)',
+  letterSpacing: '0.06em',
+  display: 'block',
+  marginBottom: 4,
+  textTransform: 'uppercase',
+  fontWeight: 600,
 }
 
 export function VehicleSelect() {
@@ -42,7 +53,6 @@ export function VehicleSelect() {
   const [genId, setGenId] = useState('')
   const [engine, setEngine] = useState('gasoline')
 
-  // Load brands index
   useEffect(() => {
     fetch(`${import.meta.env.BASE_URL}data/brands-index.json`)
       .then(r => r.json())
@@ -50,7 +60,6 @@ export function VehicleSelect() {
       .catch(() => {})
   }, [])
 
-  // Load brand data when brand selected
   useEffect(() => {
     if (!brandId) { setBrandData(null); return }
     fetch(`${import.meta.env.BASE_URL}data/brands/${brandId}.json`)
@@ -59,7 +68,6 @@ export function VehicleSelect() {
       .catch(() => setBrandData(null))
   }, [brandId])
 
-  // Reset cascading selects
   useEffect(() => { setModelId(''); setGenId('') }, [brandId])
   useEffect(() => { setGenId('') }, [modelId])
 
@@ -93,20 +101,20 @@ export function VehicleSelect() {
     }}>
       {/* Title */}
       <div style={{
-        fontFamily: "'Orbitron', sans-serif",
+        fontFamily: 'var(--f-display)',
         fontSize: 13,
         fontWeight: 700,
-        letterSpacing: '0.12em',
-        color: theme.accent.cyan,
-        textShadow: `0 0 10px ${theme.accent.cyan}40`,
-        textTransform: 'uppercase' as const,
+        letterSpacing: '0.14em',
+        color: 'var(--c-champagne)',
+        textShadow: '0 0 14px rgba(230,212,168,0.35)',
+        textTransform: 'uppercase',
       }}>
         Выберите автомобиль
       </div>
 
       {/* Brand */}
       <div>
-        <label style={{ fontSize: 11, color: theme.text.muted, fontFamily: "'Rajdhani', sans-serif", letterSpacing: '0.05em', display: 'block', marginBottom: 4 }}>
+        <label style={labelStyle}>
           Марка ({brands.length})
         </label>
         <select style={selectStyle} value={brandId} onChange={e => setBrandId(e.target.value)}>
@@ -120,7 +128,7 @@ export function VehicleSelect() {
       {/* Model */}
       {brandData && (
         <div>
-          <label style={{ fontSize: 11, color: theme.text.muted, fontFamily: "'Rajdhani', sans-serif", letterSpacing: '0.05em', display: 'block', marginBottom: 4 }}>
+          <label style={labelStyle}>
             Модель
           </label>
           <select style={selectStyle} value={modelId} onChange={e => setModelId(e.target.value)}>
@@ -135,7 +143,7 @@ export function VehicleSelect() {
       {/* Generation */}
       {selectedModel && (
         <div>
-          <label style={{ fontSize: 11, color: theme.text.muted, fontFamily: "'Rajdhani', sans-serif", letterSpacing: '0.05em', display: 'block', marginBottom: 4 }}>
+          <label style={labelStyle}>
             Поколение
           </label>
           <select style={selectStyle} value={genId} onChange={e => setGenId(e.target.value)}>
@@ -150,7 +158,7 @@ export function VehicleSelect() {
       {/* Engine */}
       {genId && (
         <div>
-          <label style={{ fontSize: 11, color: theme.text.muted, fontFamily: "'Rajdhani', sans-serif", letterSpacing: '0.05em', display: 'block', marginBottom: 4 }}>
+          <label style={labelStyle}>
             Тип двигателя
           </label>
           <select style={selectStyle} value={engine} onChange={e => setEngine(e.target.value)}>
@@ -167,19 +175,21 @@ export function VehicleSelect() {
         disabled={!canConfirm}
         style={{
           padding: '12px 24px',
-          fontFamily: "'Orbitron', sans-serif",
+          fontFamily: 'var(--f-display)',
           fontSize: 13,
           fontWeight: 700,
-          letterSpacing: '0.12em',
-          textTransform: 'uppercase' as const,
-          color: canConfirm ? '#0C1220' : theme.text.muted,
+          letterSpacing: '0.14em',
+          textTransform: 'uppercase',
+          color: canConfirm ? '#050505' : 'rgba(255,255,255,0.35)',
           background: canConfirm
-            ? `linear-gradient(135deg, ${theme.accent.cyan}, ${theme.accent.teal})`
-            : 'rgba(0,229,255,0.05)',
-          border: 'none',
+            ? 'linear-gradient(135deg, #F2E4C2 0%, #E6D4A8 50%, #C89446 100%)'
+            : 'rgba(230,212,168,0.06)',
+          border: canConfirm ? 'none' : '1px solid rgba(230,212,168,0.12)',
           borderRadius: 4,
           cursor: canConfirm ? 'pointer' : 'default',
-          boxShadow: canConfirm ? `0 0 20px ${theme.accent.cyan}40` : 'none',
+          boxShadow: canConfirm
+            ? '0 0 24px rgba(230,212,168,0.4), 0 4px 16px rgba(200,148,70,0.25)'
+            : 'none',
           transition: 'all 0.3s',
           marginTop: 4,
         }}
@@ -192,13 +202,14 @@ export function VehicleSelect() {
         onClick={handleGeneral}
         style={{
           padding: '8px 16px',
-          fontFamily: "'Rajdhani', sans-serif",
+          fontFamily: 'var(--f-body)',
           fontSize: 12,
           fontWeight: 600,
           letterSpacing: '0.05em',
-          color: theme.text.muted,
+          color: '#FFFFFF',
+          opacity: 0.7,
           background: 'transparent',
-          border: `1px solid rgba(0,229,255,0.15)`,
+          border: '1px solid rgba(230,212,168,0.2)',
           borderRadius: 4,
           cursor: 'pointer',
           transition: 'all 0.3s',

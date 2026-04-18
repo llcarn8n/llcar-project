@@ -1,5 +1,4 @@
 import { GlassPanel } from '../shared/GlassPanel'
-import { theme } from '../../theme'
 
 interface Dimensions {
   length_mm?: number
@@ -36,44 +35,54 @@ function SpecCard({ label, value, unit, icon }: { label: string; value: string |
       alignItems: 'center',
       padding: '20px 14px 16px',
       borderRadius: 6,
-      background: 'linear-gradient(135deg, rgba(0,229,255,0.06) 0%, rgba(0,20,40,0.8) 100%)',
-      border: '1px solid rgba(0,229,255,0.2)',
+      background: 'linear-gradient(135deg, rgba(230,212,168,0.06) 0%, rgba(10,10,12,0.82) 100%)',
+      border: '1px solid rgba(230,212,168,0.22)',
       gap: 8,
       minWidth: 110,
       position: 'relative',
       overflow: 'hidden',
-      boxShadow: '0 4px 20px rgba(0,0,0,0.3), inset 0 1px 0 rgba(255,255,255,0.06), 0 0 15px rgba(0,229,255,0.05)',
+      boxShadow: '0 4px 20px rgba(0,0,0,0.35), inset 0 1px 0 rgba(255,239,180,0.08), 0 0 18px rgba(230,212,168,0.05)',
       transition: 'all 0.3s',
     }}>
-      {/* Top glow line */}
+      {/* Top glow line — champagne */}
       <div style={{
         position: 'absolute',
         top: 0, left: '20%', right: '20%',
         height: 1,
-        background: 'linear-gradient(90deg, transparent, rgba(0,229,255,0.5), transparent)',
+        background: 'linear-gradient(90deg, transparent, rgba(230,212,168,0.55), transparent)',
       }} />
       <span style={{
         fontSize: 22,
-        filter: 'drop-shadow(0 0 6px rgba(0,229,255,0.4))',
+        filter: 'drop-shadow(0 0 6px rgba(230,212,168,0.45))',
       }}>{icon}</span>
       <div style={{
-        fontFamily: "'Share Tech Mono', 'Orbitron', monospace",
+        fontFamily: 'var(--f-mono)',
         fontSize: 22,
         fontWeight: 700,
-        color: '#00E5FF',
-        textShadow: '0 0 10px rgba(0,229,255,0.8), 0 0 20px rgba(0,229,255,0.4), 0 0 40px rgba(0,229,255,0.2)',
-        letterSpacing: '0.08em',
+        color: 'var(--c-champagne)',
+        textShadow: '0 0 10px rgba(230,212,168,0.55), 0 0 22px rgba(232,184,110,0.3), 0 0 40px rgba(200,148,70,0.18)',
+        letterSpacing: '0.06em',
         lineHeight: 1,
       }}>
-        {value}{unit && <span style={{ fontSize: 10, opacity: 0.5, marginLeft: 3, fontFamily: "'Rajdhani', sans-serif" }}>{unit}</span>}
+        {value}
+        {unit && (
+          <span style={{
+            fontSize: 10,
+            opacity: 0.55,
+            marginLeft: 3,
+            fontFamily: 'var(--f-body)',
+            color: '#FFFFFF',
+          }}>{unit}</span>
+        )}
       </div>
       <div style={{
-        fontFamily: "'Rajdhani', sans-serif",
+        fontFamily: 'var(--f-body)',
         fontSize: 11,
         fontWeight: 600,
-        color: 'rgba(255,255,255,0.5)',
+        color: '#FFFFFF',
+        opacity: 0.6,
         letterSpacing: '0.08em',
-        textTransform: 'uppercase' as const,
+        textTransform: 'uppercase',
         textAlign: 'center',
       }}>
         {label}
@@ -137,7 +146,7 @@ export function SpecCards({ dimensions, trims }: SpecCardsProps) {
               width: '100%',
               borderCollapse: 'separate',
               borderSpacing: '0 3px',
-              fontFamily: "'Rajdhani', sans-serif",
+              fontFamily: 'var(--f-body)',
               fontSize: 12,
             }}>
               <thead>
@@ -146,13 +155,14 @@ export function SpecCards({ dimensions, trims }: SpecCardsProps) {
                     <th key={h} style={{
                       padding: '10px 12px',
                       textAlign: 'left',
-                      color: 'rgba(0,229,255,0.6)',
-                      fontWeight: 600,
+                      color: 'var(--c-champagne)',
+                      fontWeight: 700,
                       fontSize: 10,
                       letterSpacing: '0.12em',
-                      textTransform: 'uppercase' as const,
-                      borderBottom: '2px solid rgba(0,229,255,0.2)',
-                      background: 'linear-gradient(90deg, rgba(0,229,255,0.06) 0%, transparent 100%)',
+                      textTransform: 'uppercase',
+                      borderBottom: '2px solid rgba(230,212,168,0.22)',
+                      background: 'linear-gradient(90deg, rgba(230,212,168,0.06) 0%, transparent 100%)',
+                      fontFamily: 'var(--f-display)',
                     }}>{h}</th>
                   ))}
                 </tr>
@@ -160,22 +170,24 @@ export function SpecCards({ dimensions, trims }: SpecCardsProps) {
               <tbody>
                 {trims.map((t, i) => (
                   <tr key={i} className="trim-row" style={{
-                    background: i % 2 === 0 ? 'rgba(0,20,40,0.4)' : 'rgba(0,229,255,0.02)',
+                    background: i % 2 === 0 ? 'rgba(10,10,12,0.55)' : 'rgba(230,212,168,0.03)',
                     transition: 'all 0.2s',
                     cursor: 'pointer',
                     position: 'relative',
                   }}>
-                    <td style={{ padding: '8px 10px', color: theme.text.secondary, fontWeight: 600 }}>{t.name}</td>
-                    <td style={{ padding: '8px 10px', color: theme.accent.cyan }}>{t.engine?.power_hp ? `${t.engine.power_hp} л.с.` : '—'}</td>
-                    <td style={{ padding: '8px 10px', color: theme.text.secondary }}>{t.engine?.torque_nm ? `${t.engine.torque_nm} Нм` : '—'}</td>
-                    <td style={{ padding: '8px 10px', color: theme.text.secondary }}>
+                    <td style={{ padding: '8px 10px', color: '#FFFFFF', fontWeight: 600 }}>{t.name}</td>
+                    <td style={{ padding: '8px 10px', color: 'var(--c-champagne)', fontWeight: 600 }}>
+                      {t.engine?.power_hp ? `${t.engine.power_hp} л.с.` : '—'}
+                    </td>
+                    <td style={{ padding: '8px 10px', color: '#FFFFFF' }}>{t.engine?.torque_nm ? `${t.engine.torque_nm} Нм` : '—'}</td>
+                    <td style={{ padding: '8px 10px', color: '#FFFFFF' }}>
                       {t.transmission ? `${t.transmission.type === 'automatic' ? 'АКПП' : t.transmission.type === 'manual' ? 'МКПП' : t.transmission.type === 'cvt' ? 'CVT' : t.transmission.type === 'robot' ? 'Робот' : t.transmission.type} ${t.transmission.gears || ''}` : '—'}
                     </td>
-                    <td style={{ padding: '8px 10px', color: theme.text.secondary }}>
+                    <td style={{ padding: '8px 10px', color: '#FFFFFF' }}>
                       {t.drivetrain === 'fwd' ? 'Передний' : t.drivetrain === 'rwd' ? 'Задний' : t.drivetrain === 'awd' ? 'Полный' : t.drivetrain || '—'}
                     </td>
-                    <td style={{ padding: '8px 10px', color: theme.text.secondary }}>{t.performance?.acceleration_0_100_s ? `${t.performance.acceleration_0_100_s}с` : '—'}</td>
-                    <td style={{ padding: '8px 10px', color: theme.text.secondary }}>{t.performance?.fuel_combined_l ? `${t.performance.fuel_combined_l}л` : '—'}</td>
+                    <td style={{ padding: '8px 10px', color: '#FFFFFF' }}>{t.performance?.acceleration_0_100_s ? `${t.performance.acceleration_0_100_s}с` : '—'}</td>
+                    <td style={{ padding: '8px 10px', color: '#FFFFFF' }}>{t.performance?.fuel_combined_l ? `${t.performance.fuel_combined_l}л` : '—'}</td>
                   </tr>
                 ))}
               </tbody>
