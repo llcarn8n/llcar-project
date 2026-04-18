@@ -123,7 +123,7 @@ if [[ "$BACKEND_ONLY" == false ]]; then
     fi
 
     # Upload favicon, icons, logo if they exist
-    for asset in favicon.svg icons.svg llcar-logo.png; do
+    for asset in favicon.svg icons.svg llcar-logo.png llcar-logo-transparent.png; do
         if [[ -f "$DIST_DIR/$asset" ]]; then
             $SCP "$DIST_DIR/$asset" "$REMOTE_HOST:$REMOTE_SPA/$asset"
         fi
