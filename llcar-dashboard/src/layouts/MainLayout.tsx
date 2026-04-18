@@ -60,6 +60,28 @@ export function MainLayout({ children }: { children: ReactNode }) {
         style={{ borderBottom: '1px solid var(--border-frost)' }}
       >
         <div className="flex items-center gap-2 md:gap-4 flex-1 min-w-0">
+          {(() => {
+            const hour = new Date().getHours()
+            const isDay = hour >= 6 && hour < 20
+            const src = `${B}images/icons/${isDay ? 'sun' : 'moon'}.jpg`
+            const glow = isDay
+              ? 'drop-shadow(0 0 12px rgba(230,212,168,0.55)) drop-shadow(0 0 24px rgba(230,212,168,0.25))'
+              : 'drop-shadow(0 0 12px rgba(138,159,194,0.55)) drop-shadow(0 0 24px rgba(138,159,194,0.25))'
+            return (
+              <img
+                src={src}
+                alt={isDay ? 'День' : 'Ночь'}
+                title={isDay ? 'Дневной режим' : 'Ночной режим'}
+                style={{
+                  width: 44, height: 44,
+                  objectFit: 'contain',
+                  mixBlendMode: 'screen',
+                  filter: glow,
+                  flexShrink: 0,
+                }}
+              />
+            )
+          })()}
           <Logo size="md" showWordmark withOrbit subtitle="LONG LIFE CAR" />
         </div>
 
