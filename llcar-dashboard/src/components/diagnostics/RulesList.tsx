@@ -168,7 +168,18 @@ export function RulesList({ filterSystem }: { filterSystem?: string } = {}) {
         lineHeight: 1.5, marginBottom: 16, paddingBottom: 12,
         borderBottom: '1px solid var(--border-frost)',
       }}>
-        LLCAR автоматически проверяет {totalRules} параметров вашего автомобиля при каждом сканировании.
+        LLCAR автоматически проверяет {totalRules} параметров при сканировании {(() => {
+          const gen: Record<string, string> = {
+            'Подвеска': 'подвески',
+            'Двигатель': 'двигателя',
+            'Электрика': 'электрики',
+            'Шумы': 'аудио',
+            'Топливо': 'топливной системы',
+            'Охлаждение': 'системы охлаждения',
+            'Трансмиссия': 'трансмиссии',
+          }
+          return filterSystem ? (gen[filterSystem] || filterSystem.toLowerCase()) : 'вашего автомобиля'
+        })()}.
         Каждое правило основано на инженерных нормах и данных от производителей.
       </div>
 

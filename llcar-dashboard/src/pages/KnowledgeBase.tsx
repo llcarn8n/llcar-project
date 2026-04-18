@@ -686,7 +686,7 @@ export function KnowledgeBase() {
         {/* Stats */}
         <GlassPanel>
           <div className="hud-header mb-3">Статистика KB</div>
-          <div style={{ display: 'flex', flexWrap: 'wrap', gap: 16, justifyContent: 'space-around' }}>
+          <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
             {[
               { label: 'Универсальных ситуаций', value: '764' },
               { label: 'Полных мануалов', value: '333' },
@@ -694,23 +694,19 @@ export function KnowledgeBase() {
               { label: 'Отзывных кампаний', value: '298' },
             ].map(({ label, value }) => (
               <div key={label} style={{
-                display: 'flex', flexDirection: 'column', alignItems: 'center',
-                gap: 4, minWidth: 120, padding: '4px 8px',
+                display: 'flex', alignItems: 'baseline', gap: 10,
+                fontFamily: 'var(--f-body)', fontSize: 13, lineHeight: 1.3,
+                textAlign: 'left',
               }}>
                 <span style={{
-                  fontFamily: 'var(--f-display)',
-                  fontSize: 22,
-                  fontWeight: 700,
+                  fontFamily: 'var(--f-mono)',
                   color: 'var(--c-champagne)',
-                  textShadow: '0 0 10px rgba(230,212,168,0.35)',
-                  lineHeight: 1,
+                  fontWeight: 700,
+                  minWidth: 44,
                 }}>
                   {value}
                 </span>
-                <span style={{
-                  fontFamily: 'var(--f-body)', fontSize: 11,
-                  color: '#FFFFFF', textAlign: 'center', opacity: 0.85,
-                }}>
+                <span style={{ color: '#FFFFFF' }}>
                   {label}
                 </span>
               </div>
