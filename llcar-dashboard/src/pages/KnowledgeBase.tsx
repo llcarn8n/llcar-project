@@ -252,8 +252,11 @@ export function KnowledgeBase() {
           >
             <div style={{ textAlign: 'left', flex: 1 }}>
               <div className="hud-header">Общая информация о вашем автомобиле</div>
-              <div style={{ fontSize: 11, color: '#FFFFFF', fontFamily: 'var(--f-body)', marginTop: 4, opacity: 0.8 }}>
-                Паспорт VIN, двигатель, даты обслуживания, история владения.
+              <div style={{ fontSize: 11, color: '#FFFFFF', fontFamily: 'var(--f-body)', marginTop: 4, opacity: 0.85, lineHeight: 1.5 }}>
+                Полный паспорт вашей машины: VIN и его расшифровка, комплектация,
+                объём и тип двигателя, трансмиссия, год выпуска и поколение, дата
+                последнего ТО. Данные берём из профиля авто (который вы ввели при
+                подключении) + из каталога моделей (10 000+ комплектаций).
               </div>
             </div>
             <span style={{
@@ -286,8 +289,13 @@ export function KnowledgeBase() {
           >
             <div style={{ textAlign: 'left', flex: 1 }}>
               <div className="hud-header">Отзывные кампании</div>
-              <div style={{ fontSize: 11, color: '#FFFFFF', fontFamily: 'var(--f-body)', marginTop: 4, opacity: 0.8 }}>
-                Заводские дефекты, которые производитель устраняет бесплатно. 298 кампаний по 91 бренду.
+              <div style={{ fontSize: 11, color: '#FFFFFF', fontFamily: 'var(--f-body)', marginTop: 4, opacity: 0.85, lineHeight: 1.5 }}>
+                Официально признанные производителем заводские дефекты, которые
+                дилер обязан устранить <strong>бесплатно</strong> — даже если
+                гарантия закончилась. Собираем ежедневно с сайта Росстандарта
+                (gost.ru), NHTSA (США) и сервисных бюллетеней OEM. Сейчас в базе
+                <strong> 298 кампаний</strong> по <strong>91 бренду</strong>.
+                Ищите вашу машину по бренду, модели, году или описанию.
               </div>
             </div>
             <span style={{
@@ -323,8 +331,15 @@ export function KnowledgeBase() {
           >
             <div style={{ textAlign: 'left', flex: 1 }}>
               <div className="hud-header">Ситуации и поиск по DTC</div>
-              <div style={{ fontSize: 11, color: '#FFFFFF', fontFamily: 'var(--f-body)', marginTop: 4, opacity: 0.8 }}>
-                Реальные случаи для вашей модели + справочник кодов неисправностей (OBD-II).
+              <div style={{ fontSize: 11, color: '#FFFFFF', fontFamily: 'var(--f-body)', marginTop: 4, opacity: 0.85, lineHeight: 1.5 }}>
+                Два справочника в одном: (1) <strong>Ситуации</strong> — подборка
+                реальных случаев именно для вашей модели и поколения с объяснением
+                «что значит / причина / что делать / во сколько обойдётся». База
+                из <strong>764 универсальных</strong> и <strong>58 брендовых</strong>
+                ситуаций собрана из автофорумов, FAQ и сервисных мануалов.
+                (2) <strong>Поиск по DTC</strong> — справочник стандартных кодов
+                неисправностей OBD-II (P-коды): расшифровка, срочность,
+                привязка к ситуациям на вашей машине.
               </div>
             </div>
             <span style={{
@@ -671,7 +686,7 @@ export function KnowledgeBase() {
         {/* Stats */}
         <GlassPanel>
           <div className="hud-header mb-3">Статистика KB</div>
-          <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
+          <div style={{ display: 'flex', flexWrap: 'wrap', gap: 16, justifyContent: 'space-around' }}>
             {[
               { label: 'Универсальных ситуаций', value: '764' },
               { label: 'Полных мануалов', value: '333' },
@@ -679,21 +694,24 @@ export function KnowledgeBase() {
               { label: 'Отзывных кампаний', value: '298' },
             ].map(({ label, value }) => (
               <div key={label} style={{
-                display: 'flex',
-                justifyContent: 'space-between',
-                alignItems: 'center',
-                padding: '6px 0',
-                borderBottom: '1px solid rgba(0,229,255,0.05)',
+                display: 'flex', flexDirection: 'column', alignItems: 'center',
+                gap: 4, minWidth: 120, padding: '4px 8px',
               }}>
-                <span style={{ fontFamily: "'Rajdhani', sans-serif", fontSize: 12, color: theme.text.muted }}>{label}</span>
                 <span style={{
-                  fontFamily: "'Orbitron', sans-serif",
-                  fontSize: 14,
+                  fontFamily: 'var(--f-display)',
+                  fontSize: 22,
                   fontWeight: 700,
-                  color: theme.accent.cyan,
-                  textShadow: `0 0 8px ${theme.accent.cyan}30`,
+                  color: 'var(--c-champagne)',
+                  textShadow: '0 0 10px rgba(230,212,168,0.35)',
+                  lineHeight: 1,
                 }}>
                   {value}
+                </span>
+                <span style={{
+                  fontFamily: 'var(--f-body)', fontSize: 11,
+                  color: '#FFFFFF', textAlign: 'center', opacity: 0.85,
+                }}>
+                  {label}
                 </span>
               </div>
             ))}
