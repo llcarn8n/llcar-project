@@ -166,7 +166,7 @@ export function Resources() {
       <div className="col-span-12">
         <GlassPanel>
           <div style={{ display: 'flex', alignItems: 'center', gap: 16 }}>
-            <img src={ICONS.knowledgeBase} alt="" style={{ width: 56, height: 56, objectFit: 'contain', filter: 'drop-shadow(0 2px 10px rgba(0,229,255,0.3))' }} />
+            <img src={ICONS.knowledgeBase} alt="" style={{ width: 56, height: 56, objectFit: 'contain', mixBlendMode: 'screen', filter: 'drop-shadow(0 2px 10px rgba(230,212,168,0.4))' }} />
             <div>
               <div className="hud-header" style={{ marginBottom: 4 }}>Полезные источники</div>
               <div style={{ fontFamily: "'Rajdhani', sans-serif", fontSize: 13, color: theme.text.muted, lineHeight: 1.4 }}>

@@ -216,7 +216,7 @@ export function KnowledgeBase() {
       <div className="col-span-12">
         <GlassPanel>
           <div style={{ display: 'flex', alignItems: 'center', gap: 16 }}>
-            <img src={ICONS.knowledgeBase} alt="" style={{ width: 56, height: 56, objectFit: 'contain', filter: 'drop-shadow(0 2px 10px rgba(0,229,255,0.3))' }} />
+            <img src={ICONS.knowledgeBase} alt="" style={{ width: 56, height: 56, objectFit: 'contain', mixBlendMode: 'screen', filter: 'drop-shadow(0 2px 10px rgba(230,212,168,0.4))' }} />
             <div>
               <div className="hud-header" style={{ marginBottom: 4 }}>База знаний</div>
               <div style={{
@@ -272,6 +272,26 @@ export function KnowledgeBase() {
               <VehicleInfo />
             </Suspense>
           )}
+        </GlassPanel>
+      </div>
+
+      {/* Статистика KB — полная ширина, горизонтально */}
+      <div className="col-span-12">
+        <GlassPanel>
+          <div className="hud-header mb-3">Статистика KB</div>
+          <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px 36px', fontFamily: 'var(--f-body)', fontSize: 13, lineHeight: 1.3, justifyContent: 'flex-start' }}>
+            {[
+              { label: 'Универсальных ситуаций', value: '764' },
+              { label: 'Полных мануалов', value: '333' },
+              { label: 'Брендов с ситуациями', value: '58' },
+              { label: 'Отзывных кампаний', value: '298' },
+            ].map(({ label, value }) => (
+              <span key={label} style={{ display: 'inline-flex', alignItems: 'baseline', gap: 8 }}>
+                <strong style={{ fontFamily: 'var(--f-mono)', color: 'var(--c-champagne)', fontWeight: 700 }}>{value}</strong>
+                <span style={{ color: '#FFFFFF' }}>{label}</span>
+              </span>
+            ))}
+          </div>
         </GlassPanel>
       </div>
 
@@ -397,15 +417,17 @@ export function KnowledgeBase() {
         </GlassPanel>
       </div>
 
-      {/* Right sidebar: manuals + videos + reviews + parts + stats */}
-      <div className="col-span-12 lg:col-span-4 flex flex-col gap-3">
-        {/* Manuals viewer */}
+      {/* Руководства — под Ситуациями, в левой колонке */}
+      <div className="col-span-12 lg:col-span-8">
         <ManualViewer
           brandId={vehicleProfile?.brandId || null}
           modelName={vehicleProfile?.model || null}
           kbGenPath={kbGenPath || undefined}
         />
+      </div>
 
+      {/* Right sidebar: videos + reviews + parts */}
+      <div className="col-span-12 lg:col-span-4 flex flex-col gap-3">
         {/* Videos section — generation KB */}
         {videos.length > 0 && (
           <GlassPanel>
@@ -683,23 +705,6 @@ export function KnowledgeBase() {
           </GlassPanel>
         )}
 
-        {/* Stats */}
-        <GlassPanel>
-          <div className="hud-header mb-3">Статистика KB</div>
-          <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px 24px', fontFamily: 'var(--f-body)', fontSize: 13, lineHeight: 1.3 }}>
-            {[
-              { label: 'Универсальных ситуаций', value: '764' },
-              { label: 'Полных мануалов', value: '333' },
-              { label: 'Брендов с ситуациями', value: '58' },
-              { label: 'Отзывных кампаний', value: '298' },
-            ].map(({ label, value }) => (
-              <span key={label} style={{ display: 'inline-flex', alignItems: 'baseline', gap: 8 }}>
-                <strong style={{ fontFamily: 'var(--f-mono)', color: 'var(--c-champagne)', fontWeight: 700 }}>{value}</strong>
-                <span style={{ color: '#FFFFFF' }}>{label}</span>
-              </span>
-            ))}
-          </div>
-        </GlassPanel>
       </div>
     </div>
   )
