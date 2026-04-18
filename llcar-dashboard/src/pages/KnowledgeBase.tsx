@@ -216,7 +216,7 @@ export function KnowledgeBase() {
       <div className="col-span-12">
         <GlassPanel>
           <div style={{ display: 'flex', alignItems: 'center', gap: 16 }}>
-            <img src={ICONS.knowledgeBase} alt="" style={{ width: 56, height: 56, objectFit: 'contain', mixBlendMode: 'screen', filter: 'drop-shadow(0 2px 10px rgba(230,212,168,0.4))' }} />
+            <img src={ICONS.knowledgeBase} alt="" style={{ width: 56, height: 56, objectFit: 'contain', mixBlendMode: 'screen', filter: 'brightness(1.45) contrast(1.15) saturate(1.2) drop-shadow(0 0 10px rgba(255,239,180,0.55)) drop-shadow(0 0 22px rgba(232,184,110,0.4)) drop-shadow(0 0 48px rgba(200,148,70,0.2))' }} />
             <div>
               <div className="hud-header" style={{ marginBottom: 4 }}>База знаний</div>
               <div style={{
