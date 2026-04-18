@@ -3,6 +3,7 @@ import { useLocation, useNavigate } from 'react-router-dom'
 import { useDashboardStore } from '../stores/dashboardStore'
 import { SidebarContent } from '../components/sidebar/SidebarContent'
 import { Logo } from '../components/Logo'
+import { ChatBubble } from '../components/chat/ChatBubble'
 
 const B = import.meta.env.BASE_URL
 const tabs = [
@@ -234,6 +235,9 @@ export function MainLayout({ children }: { children: ReactNode }) {
           )}
         </aside>
       )}
+
+      {/* Floating AI-чат — доступен из любой вкладки */}
+      <ChatBubble />
     </div>
   )
 }

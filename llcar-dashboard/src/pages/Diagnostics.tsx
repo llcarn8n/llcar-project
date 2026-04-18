@@ -23,7 +23,6 @@ import { EscalationTimeline } from '../components/panels/EscalationTimeline'
 import { CorrelationPanel } from '../components/panels/CorrelationPanel'
 import { OnboardingTour } from '../components/onboarding/OnboardingTour'
 import { BaselineStatus } from '../components/panels/BaselineStatus'
-import { ChatPanel } from '../components/chat/ChatPanel'
 import { RulesList } from '../components/diagnostics/RulesList'
 import { DiagnosticSearch } from '../components/diagnostics/DiagnosticSearch'
 import { SuspensionTab } from '../components/panels/SuspensionTab'
@@ -344,9 +343,6 @@ export function Diagnostics() {
       )}
       <div className="col-span-12">
         <DiagnosticSearch />
-      </div>
-      <div className="col-span-12">
-        <ChatPanel />
       </div>
     </>
   )

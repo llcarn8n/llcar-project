@@ -298,6 +298,10 @@ body::after {
     right: auto !important;
     bottom: auto !important;
   }
+  /* SmartSphere / 3D-холсты под скроллом — ограничиваем высоту на мобиле */
+  .road-underlay canvas { max-height: 36vh !important; }
+  /* Плотность: уменьшаем отступы glass-panel и gap сетки */
+  .road-underlay .grid { gap: 6px !important; }
 }
 
 /* ── Подложка: чистый void, как у 3D сцены без halos ── */
@@ -310,7 +314,8 @@ body::after {
    Переопределяем CSS-переменные в scope .road-underlay — компоненты, использующие
    var(--text-primary/secondary/muted), автоматически становятся белыми.
    Инлайн hex-цвета (severity badges red/orange/green) остаются нетронутыми. */
-.road-underlay {
+.road-underlay,
+main.p-4 {
   --text-primary: #FFFFFF;
   --text-secondary: #FFFFFF;
   --text-muted: #FFFFFF;
@@ -320,7 +325,13 @@ body::after {
 .road-underlay h1,
 .road-underlay h2,
 .road-underlay h3,
-.road-underlay h4 {
+.road-underlay h4,
+main.p-4 .hud-header,
+main.p-4 .hud-header *,
+main.p-4 h1,
+main.p-4 h2,
+main.p-4 h3,
+main.p-4 h4 {
   color: var(--c-champagne) !important;
 }
 /* Заголовки карточек и секций, заданные inline-стилем (fontWeight + крупный размер) — champagne */
@@ -332,7 +343,16 @@ body::after {
 .road-underlay [style*="fontWeight: 700"][style*="fontSize: 20"],
 .road-underlay [style*="fontWeight: 600"][style*="fontSize: 14"],
 .road-underlay [style*="fontWeight: 600"][style*="fontSize: 15"],
-.road-underlay [style*="fontWeight: 600"][style*="fontSize: 16"] {
+.road-underlay [style*="fontWeight: 600"][style*="fontSize: 16"],
+main.p-4 [style*="fontWeight: 700"][style*="fontSize: 13"],
+main.p-4 [style*="fontWeight: 700"][style*="fontSize: 14"],
+main.p-4 [style*="fontWeight: 700"][style*="fontSize: 15"],
+main.p-4 [style*="fontWeight: 700"][style*="fontSize: 16"],
+main.p-4 [style*="fontWeight: 700"][style*="fontSize: 18"],
+main.p-4 [style*="fontWeight: 700"][style*="fontSize: 20"],
+main.p-4 [style*="fontWeight: 600"][style*="fontSize: 14"],
+main.p-4 [style*="fontWeight: 600"][style*="fontSize: 15"],
+main.p-4 [style*="fontWeight: 600"][style*="fontSize: 16"] {
   color: var(--c-champagne) !important;
 }
 
