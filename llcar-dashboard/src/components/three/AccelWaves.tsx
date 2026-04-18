@@ -150,28 +150,58 @@ const RIM_COLOR   = '#EFF2F7'    // spectral край — яркий конту�
 
 function ObstacleMesh({ type }: { type: ObsType }) {
   if (type === 'pothole_l' || type === 'pothole_r') {
-    // Яма: дно 4см ниже дороги + скошенные стенки (cone open) + spectral rim
+    // Яма: разбитый асфальт с неровным периметром, глубокой тёмной впадиной,
+    // скошенными стенками и трещинами вокруг — без неоновых rim'ов.
     return (
       <group>
-        {/* Дно ямы — тёмный диск на Y=-0.045 (ниже дороги) */}
-        <mesh position={[0, -0.045, 0]} rotation={[-Math.PI / 2, 0, 0]} scale={[1.2, 0.8, 1]}>
-          <circleGeometry args={[0.30, 40]} />
-          <meshStandardMaterial color={VOID_CENTER} roughness={0.98} metalness={0.0} />
+        {/* Глубокое дно — почти чёрное, 10см ниже дороги */}
+        <mesh position={[0, -0.10, 0]} rotation={[-Math.PI / 2, 0, 0]} scale={[1.2, 0.8, 1]}>
+          <circleGeometry args={[0.28, 48]} />
+          <meshStandardMaterial color="#050607" roughness={1.0} metalness={0.0} />
         </mesh>
-        {/* Скошенные стенки ямы: открытый конус, шире снизу не нужен — уже перевёрнут */}
-        <mesh position={[0, -0.02, 0]} scale={[1.2, 1, 0.8]}>
-          <cylinderGeometry args={[0.34, 0.30, 0.045, 40, 1, true]} />
-          <meshStandardMaterial color="#141416" roughness={0.9} metalness={0.1} side={THREE.DoubleSide} />
+        {/* Скошенные стенки (truncated cone) — переход от тёмно-серого (вверх) к чёрному (вниз) */}
+        <mesh position={[0, -0.05, 0]} scale={[1.2, 1, 0.8]}>
+          <cylinderGeometry args={[0.34, 0.28, 0.10, 48, 1, true]} />
+          <meshStandardMaterial color="#0B0C0E" roughness={0.95} metalness={0.05} side={THREE.DoubleSide} />
         </mesh>
-        {/* Яркий spectral rim — TorusGeometry на road level */}
-        <mesh position={[0, 0.004, 0]} rotation={[-Math.PI / 2, 0, 0]} scale={[1.2, 0.8, 1]}>
-          <torusGeometry args={[0.34, 0.012, 8, 48]} />
-          <meshBasicMaterial color={RIM_COLOR} transparent opacity={0.9} />
-        </mesh>
-        {/* Мягкий outer halo */}
-        <mesh position={[0, 0.002, 0]} rotation={[-Math.PI / 2, 0, 0]} scale={[1.2, 0.8, 1]}>
-          <ringGeometry args={[0.36, 0.48, 40]} />
-          <meshBasicMaterial color={RIM_COLOR} transparent opacity={0.08} blending={THREE.AdditiveBlending} side={THREE.DoubleSide} depthWrite={false} />
+        {/* Рваный rim — 6 плоских тёмно-серых патчей вокруг периметра (имитация отколотого асфальта) */}
+        {Array.from({ length: 8 }).map((_, i) => {
+          const a = (i / 8) * Math.PI * 2
+          const r = 0.34 + (i % 2 === 0 ? 0.025 : 0.008)
+          const sx = 0.14 + (i % 3 === 0 ? 0.04 : 0)
+          const sz = 0.08 + (i % 2 === 1 ? 0.03 : 0)
+          return (
+            <mesh
+              key={i}
+              position={[Math.cos(a) * r * 1.2, 0.002, Math.sin(a) * r * 0.8]}
+              rotation={[-Math.PI / 2, 0, a + Math.PI / 2]}
+              scale={[sx, sz, 1]}
+            >
+              <circleGeometry args={[0.12, 12]} />
+              <meshStandardMaterial color="#1A1B1D" roughness={0.98} metalness={0.0} />
+            </mesh>
+          )
+        })}
+        {/* Трещины-лучи от центра ямы — 5 тонких тёмных полос */}
+        {Array.from({ length: 5 }).map((_, i) => {
+          const a = (i / 5) * Math.PI * 2 + 0.3
+          const len = 0.18 + (i % 2 === 0 ? 0.08 : 0)
+          const w = 0.008 + (i % 3) * 0.002
+          return (
+            <mesh
+              key={`crack-${i}`}
+              position={[Math.cos(a) * (0.36 + len / 2) * 1.2, 0.003, Math.sin(a) * (0.36 + len / 2) * 0.8]}
+              rotation={[-Math.PI / 2, 0, a + Math.PI / 2]}
+            >
+              <planeGeometry args={[w, len]} />
+              <meshStandardMaterial color="#07080A" roughness={1.0} metalness={0.0} />
+            </mesh>
+          )
+        })}
+        {/* Мягкая ambient-тень вокруг ямы — имитация AO (без additive, чтобы не светилась) */}
+        <mesh position={[0, 0.001, 0]} rotation={[-Math.PI / 2, 0, 0]} scale={[1.2, 0.8, 1]}>
+          <ringGeometry args={[0.33, 0.50, 48]} />
+          <meshBasicMaterial color="#050607" transparent opacity={0.35} side={THREE.DoubleSide} depthWrite={false} />
         </mesh>
       </group>
     )
