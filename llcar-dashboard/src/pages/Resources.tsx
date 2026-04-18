@@ -40,11 +40,11 @@ const RESOURCES: Resource[] = [
 ]
 
 const CATEGORY_INFO: Record<string, { label: string; icon: string; color: string }> = {
-  forum: { label: 'Форумы', icon: '\u{1F4AC}', color: theme.accent.cyan },
-  video: { label: 'Видео', icon: '\u{1F3AC}', color: theme.status.ok },
-  tool: { label: 'Инструменты', icon: '\u{1F6E0}', color: theme.accent.teal },
-  manufacturer: { label: 'Производители', icon: '\u{1F3ED}', color: theme.status.warning },
-  recall: { label: 'Отзывные кампании', icon: '\u26A0', color: theme.status.critical },
+  forum: { label: 'Форумы', icon: '\u{1F4AC}', color: 'var(--c-champagne)' },
+  video: { label: 'Видео', icon: '\u{1F3AC}', color: 'var(--c-champagne)' },
+  tool: { label: 'Инструменты', icon: '\u{1F6E0}', color: 'var(--c-champagne)' },
+  manufacturer: { label: 'Производители', icon: '\u{1F3ED}', color: 'var(--c-champagne)' },
+  recall: { label: 'Отзывные кампании', icon: '\u26A0', color: 'var(--c-champagne)' },
 }
 
 interface RecallCampaign {
@@ -190,7 +190,7 @@ export function Resources() {
               fontSize: 12,
               fontWeight: 700,
               color: !catFilter ? '#0C1220' : theme.text.muted,
-              background: !catFilter ? `linear-gradient(135deg, ${theme.accent.cyan}, ${theme.accent.teal})` : 'rgba(230,212,168,0.04)',
+              background: !catFilter ? 'var(--c-champagne)' : 'rgba(230,212,168,0.04)',
               border: `1px solid ${!catFilter ? 'transparent' : 'rgba(230,212,168,0.15)'}`,
               cursor: 'pointer',
               letterSpacing: '0.05em',
