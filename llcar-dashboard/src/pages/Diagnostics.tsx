@@ -265,15 +265,16 @@ export function Diagnostics() {
         </div>
       )}
 
-      {/* SkyOrb (desktop only) */}
-      {!isMobile && (
-        <div className="lumen-sky-orb" style={{
-          position: 'absolute', top: 64, right: 18, zIndex: 15,
-          pointerEvents: 'auto',
-        }}>
-          <SkyOrb />
-        </div>
-      )}
+      {/* SkyOrb — погода + солнце/луна, desktop right-top, mobile right-top компактный */}
+      <div className="lumen-sky-orb" style={{
+        position: 'absolute',
+        top: isMobile ? 6 : 64,
+        right: isMobile ? 8 : 18,
+        zIndex: 15,
+        pointerEvents: 'auto',
+      }}>
+        <SkyOrb />
+      </div>
 
       {/* Right diagnoses feed (desktop only) */}
       {!isMobile && <ActiveDiagnosesFeed report={v2ReportDebounced} onOpenRule={openRuleDrawer} activeCount={debouncedActive} flickeringCount={debouncedFlicker} />}
