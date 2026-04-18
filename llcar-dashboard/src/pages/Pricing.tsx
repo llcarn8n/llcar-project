@@ -70,7 +70,7 @@ const tiers = [
     period: '/мес',
     features: ['Безлимитные полные отчёты', 'История диагностики', 'Тренды и динамика', 'Приоритетная поддержка'],
     cta: 'ОФОРМИТЬ ПОДПИСКУ',
-    borderColor: 'rgba(0,229,255,0.3)',
+    borderColor: 'rgba(230,212,168,0.3)',
     accentColor: theme.accent.cyan,
     badge: null,
     popular: true,
@@ -129,12 +129,12 @@ export function Pricing() {
           <h1
             className="hud-header"
             style={{
-              fontFamily: "'Orbitron', sans-serif",
+              fontFamily: "var(--f-display)",
               fontSize: 'clamp(20px, 4vw, 32px)',
               fontWeight: 700,
               letterSpacing: '0.2em',
               color: theme.accent.cyan,
-              textShadow: `0 0 24px rgba(0,229,255,0.5)`,
+              textShadow: `0 0 24px rgba(230,212,168,0.5)`,
               margin: 0,
             }}
           >
@@ -142,7 +142,7 @@ export function Pricing() {
           </h1>
           <p
             style={{
-              fontFamily: "'Rajdhani', sans-serif",
+              fontFamily: "var(--f-body)",
               fontSize: 'clamp(16px, 2.5vw, 22px)',
               fontWeight: 500,
               color: theme.text.secondary,
@@ -154,7 +154,7 @@ export function Pricing() {
           </p>
           <p
             style={{
-              fontFamily: "'Share Tech Mono', monospace",
+              fontFamily: "var(--f-mono)",
               fontSize: 13,
               color: theme.accent.teal,
               letterSpacing: '0.1em',
@@ -181,7 +181,7 @@ export function Pricing() {
             <div style={{ textAlign: 'center', flex: '1 1 200px', minWidth: 180 }}>
               <div
                 style={{
-                  fontFamily: "'Rajdhani', sans-serif",
+                  fontFamily: "var(--f-body)",
                   fontSize: 12,
                   fontWeight: 600,
                   letterSpacing: '0.15em',
@@ -194,7 +194,7 @@ export function Pricing() {
               </div>
               <div
                 style={{
-                  fontFamily: "'Share Tech Mono', monospace",
+                  fontFamily: "var(--f-mono)",
                   fontSize: 'clamp(24px, 4vw, 36px)',
                   fontWeight: 700,
                   color: theme.accent.orange,
@@ -208,16 +208,16 @@ export function Pricing() {
             {/* Divider */}
             <div
               style={{
-                fontFamily: "'Orbitron', sans-serif",
+                fontFamily: "var(--f-display)",
                 fontSize: 'clamp(10px, 1.5vw, 14px)',
                 fontWeight: 700,
                 letterSpacing: '0.2em',
                 color: theme.accent.cyan,
-                textShadow: `0 0 12px rgba(0,229,255,0.5)`,
+                textShadow: `0 0 12px rgba(230,212,168,0.5)`,
                 padding: '8px 16px',
-                border: `1px solid rgba(0,229,255,0.2)`,
+                border: `1px solid rgba(230,212,168,0.2)`,
                 borderRadius: 6,
-                background: 'rgba(0,229,255,0.05)',
+                background: 'rgba(230,212,168,0.05)',
               }}
             >
               В 10 РАЗ ДЕШЕВЛЕ
@@ -227,7 +227,7 @@ export function Pricing() {
             <div style={{ textAlign: 'center', flex: '1 1 200px', minWidth: 180 }}>
               <div
                 style={{
-                  fontFamily: "'Rajdhani', sans-serif",
+                  fontFamily: "var(--f-body)",
                   fontSize: 12,
                   fontWeight: 600,
                   letterSpacing: '0.15em',
@@ -240,11 +240,11 @@ export function Pricing() {
               </div>
               <div
                 style={{
-                  fontFamily: "'Share Tech Mono', monospace",
+                  fontFamily: "var(--f-mono)",
                   fontSize: 'clamp(24px, 4vw, 36px)',
                   fontWeight: 700,
                   color: theme.accent.cyan,
-                  textShadow: `0 0 16px rgba(0,229,255,0.4)`,
+                  textShadow: `0 0 16px rgba(230,212,168,0.4)`,
                 }}
               >
                 349 руб.
@@ -273,7 +273,7 @@ export function Pricing() {
                 borderStyle: 'solid',
                 position: 'relative',
                 transform: tier.popular ? 'scale(1.03)' : undefined,
-                boxShadow: tier.popular ? `0 0 32px rgba(0,229,255,0.15), 0 0 60px rgba(0,229,255,0.05)` : undefined,
+                boxShadow: tier.popular ? `0 0 32px rgba(230,212,168,0.15), 0 0 60px rgba(230,212,168,0.05)` : undefined,
                 display: 'flex',
                 flexDirection: 'column',
               }}
@@ -286,7 +286,7 @@ export function Pricing() {
                     top: -12,
                     left: '50%',
                     transform: 'translateX(-50%)',
-                    fontFamily: "'Orbitron', sans-serif",
+                    fontFamily: "var(--f-display)",
                     fontSize: 9,
                     fontWeight: 700,
                     letterSpacing: '0.2em',
@@ -309,7 +309,7 @@ export function Pricing() {
                     top: -12,
                     left: '50%',
                     transform: 'translateX(-50%)',
-                    fontFamily: "'Orbitron', sans-serif",
+                    fontFamily: "var(--f-display)",
                     fontSize: 8,
                     fontWeight: 700,
                     letterSpacing: '0.15em',
@@ -329,7 +329,7 @@ export function Pricing() {
                 <div style={{ fontSize: 28, marginBottom: 8 }}>{tier.icon}</div>
                 <div
                   style={{
-                    fontFamily: "'Orbitron', sans-serif",
+                    fontFamily: "var(--f-display)",
                     fontSize: 14,
                     fontWeight: 700,
                     letterSpacing: '0.15em',
@@ -342,7 +342,7 @@ export function Pricing() {
                 </div>
                 <div
                   style={{
-                    fontFamily: "'Rajdhani', sans-serif",
+                    fontFamily: "var(--f-body)",
                     fontSize: 12,
                     color: theme.text.muted,
                   }}
@@ -356,7 +356,7 @@ export function Pricing() {
                 {tier.id === 'annual' && (
                   <div
                     style={{
-                      fontFamily: "'Share Tech Mono', monospace",
+                      fontFamily: "var(--f-mono)",
                       fontSize: 14,
                       color: theme.text.muted,
                       textDecoration: 'line-through',
@@ -369,7 +369,7 @@ export function Pricing() {
                 <span
                   className="stat-value"
                   style={{
-                    fontFamily: "'Share Tech Mono', monospace",
+                    fontFamily: "var(--f-mono)",
                     fontSize: 28,
                     fontWeight: 700,
                     color: tier.accentColor,
@@ -381,7 +381,7 @@ export function Pricing() {
                 {tier.period && (
                   <span
                     style={{
-                      fontFamily: "'Share Tech Mono', monospace",
+                      fontFamily: "var(--f-mono)",
                       fontSize: 14,
                       color: theme.text.muted,
                       marginLeft: 2,
@@ -405,7 +405,7 @@ export function Pricing() {
                   <li
                     key={i}
                     style={{
-                      fontFamily: "'Rajdhani', sans-serif",
+                      fontFamily: "var(--f-body)",
                       fontSize: 13,
                       color: theme.text.secondary,
                       padding: '6px 0',
@@ -426,7 +426,7 @@ export function Pricing() {
                 onClick={() => handleCta(tier.id)}
                 style={{
                   width: '100%',
-                  fontFamily: "'Orbitron', sans-serif",
+                  fontFamily: "var(--f-display)",
                   fontSize: 11,
                   fontWeight: 700,
                   letterSpacing: '0.15em',
@@ -438,7 +438,7 @@ export function Pricing() {
                   borderRadius: 6,
                   padding: '12px 16px',
                   cursor: 'pointer',
-                  boxShadow: tier.popular ? '0 0 16px rgba(0,229,255,0.3)' : 'none',
+                  boxShadow: tier.popular ? '0 0 16px rgba(230,212,168,0.3)' : 'none',
                   transition: 'all 0.3s',
                 }}
               >
@@ -455,12 +455,12 @@ export function Pricing() {
           <h2
             className="hud-header"
             style={{
-              fontFamily: "'Orbitron', sans-serif",
+              fontFamily: "var(--f-display)",
               fontSize: 16,
               fontWeight: 600,
               letterSpacing: '0.15em',
               color: theme.accent.cyan,
-              textShadow: `0 0 12px rgba(0,229,255,0.4)`,
+              textShadow: `0 0 12px rgba(230,212,168,0.4)`,
               marginBottom: 24,
               textAlign: 'center',
             }}
@@ -474,7 +474,7 @@ export function Pricing() {
                 <div
                   key={i}
                   style={{
-                    borderBottom: '1px solid rgba(0,229,255,0.08)',
+                    borderBottom: '1px solid rgba(230,212,168,0.08)',
                     marginBottom: 4,
                   }}
                 >
@@ -495,7 +495,7 @@ export function Pricing() {
                   >
                     <span
                       style={{
-                        fontFamily: "'Rajdhani', sans-serif",
+                        fontFamily: "var(--f-body)",
                         fontSize: 14,
                         fontWeight: 600,
                         color: theme.text.primary,
@@ -506,7 +506,7 @@ export function Pricing() {
                     </span>
                     <span
                       style={{
-                        fontFamily: "'Share Tech Mono', monospace",
+                        fontFamily: "var(--f-mono)",
                         fontSize: 16,
                         color: theme.accent.cyan,
                         transform: isOpen ? 'rotate(45deg)' : 'none',
@@ -520,7 +520,7 @@ export function Pricing() {
                   {isOpen && (
                     <div
                       style={{
-                        fontFamily: "'Rajdhani', sans-serif",
+                        fontFamily: "var(--f-body)",
                         fontSize: 13,
                         color: theme.text.secondary,
                         lineHeight: 1.6,
@@ -542,12 +542,12 @@ export function Pricing() {
         <GlassPanel style={{ textAlign: 'center', padding: '40px 24px' }}>
           <h2
             style={{
-              fontFamily: "'Orbitron', sans-serif",
+              fontFamily: "var(--f-display)",
               fontSize: 'clamp(16px, 3vw, 24px)',
               fontWeight: 700,
               letterSpacing: '0.15em',
               color: theme.accent.cyan,
-              textShadow: `0 0 20px rgba(0,229,255,0.5)`,
+              textShadow: `0 0 20px rgba(230,212,168,0.5)`,
               margin: '0 0 20px',
             }}
           >
@@ -556,7 +556,7 @@ export function Pricing() {
           <button
             onClick={() => navigate('/')}
             style={{
-              fontFamily: "'Orbitron', sans-serif",
+              fontFamily: "var(--f-display)",
               fontSize: 13,
               fontWeight: 700,
               letterSpacing: '0.15em',
@@ -566,7 +566,7 @@ export function Pricing() {
               borderRadius: 8,
               padding: '14px 40px',
               cursor: 'pointer',
-              boxShadow: '0 0 16px rgba(0,229,255,0.3)',
+              boxShadow: '0 0 16px rgba(230,212,168,0.3)',
               transition: 'all 0.3s',
             }}
           >
@@ -581,7 +581,7 @@ export function Pricing() {
           <button
             onClick={() => setUserTier('monthly')}
             style={{
-              fontFamily: "'Share Tech Mono', monospace",
+              fontFamily: "var(--f-mono)",
               fontSize: 10,
               color: theme.text.muted,
               background: 'rgba(255,255,255,0.03)',
@@ -619,7 +619,7 @@ export function Pricing() {
               width: '90vw',
               padding: '32px 28px',
               textAlign: 'center',
-              borderColor: 'rgba(0,229,255,0.2)',
+              borderColor: 'rgba(230,212,168,0.2)',
               borderWidth: 1,
               borderStyle: 'solid',
             }}
@@ -629,7 +629,7 @@ export function Pricing() {
                 <div style={{ fontSize: 36, marginBottom: 12 }}>{'\u2705'}</div>
                 <div
                   style={{
-                    fontFamily: "'Orbitron', sans-serif",
+                    fontFamily: "var(--f-display)",
                     fontSize: 14,
                     fontWeight: 600,
                     letterSpacing: '0.1em',
@@ -641,7 +641,7 @@ export function Pricing() {
                 </div>
                 <p
                   style={{
-                    fontFamily: "'Rajdhani', sans-serif",
+                    fontFamily: "var(--f-body)",
                     fontSize: 14,
                     color: theme.text.secondary,
                     marginBottom: 20,
@@ -652,11 +652,11 @@ export function Pricing() {
                 <button
                   onClick={() => setEmailForm(s => ({ ...s, open: false }))}
                   style={{
-                    fontFamily: "'Rajdhani', sans-serif",
+                    fontFamily: "var(--f-body)",
                     fontSize: 13,
                     color: theme.text.secondary,
                     background: 'none',
-                    border: `1px solid rgba(0,229,255,0.2)`,
+                    border: `1px solid rgba(230,212,168,0.2)`,
                     borderRadius: 6,
                     padding: '8px 24px',
                     cursor: 'pointer',
@@ -669,12 +669,12 @@ export function Pricing() {
               <>
                 <div
                   style={{
-                    fontFamily: "'Orbitron', sans-serif",
+                    fontFamily: "var(--f-display)",
                     fontSize: 14,
                     fontWeight: 600,
                     letterSpacing: '0.1em',
                     color: theme.accent.cyan,
-                    textShadow: `0 0 12px rgba(0,229,255,0.4)`,
+                    textShadow: `0 0 12px rgba(230,212,168,0.4)`,
                     marginBottom: 12,
                   }}
                 >
@@ -682,7 +682,7 @@ export function Pricing() {
                 </div>
                 <p
                   style={{
-                    fontFamily: "'Rajdhani', sans-serif",
+                    fontFamily: "var(--f-body)",
                     fontSize: 14,
                     color: theme.text.secondary,
                     marginBottom: 20,
@@ -700,11 +700,11 @@ export function Pricing() {
                     onKeyDown={e => e.key === 'Enter' && handleEmailSubmit()}
                     style={{
                       flex: 1,
-                      fontFamily: "'Share Tech Mono', monospace",
+                      fontFamily: "var(--f-mono)",
                       fontSize: 13,
                       color: theme.text.primary,
-                      background: 'rgba(0,229,255,0.04)',
-                      border: '1px solid rgba(0,229,255,0.15)',
+                      background: 'rgba(230,212,168,0.04)',
+                      border: '1px solid rgba(230,212,168,0.15)',
                       borderRadius: 6,
                       padding: '10px 14px',
                       outline: 'none',
@@ -714,7 +714,7 @@ export function Pricing() {
                   <button
                     onClick={(e) => { e.stopPropagation(); handleEmailSubmit() }}
                     style={{
-                      fontFamily: "'Orbitron', sans-serif",
+                      fontFamily: "var(--f-display)",
                       fontSize: 10,
                       fontWeight: 700,
                       letterSpacing: '0.1em',
@@ -724,7 +724,7 @@ export function Pricing() {
                       borderRadius: 6,
                       padding: '10px 20px',
                       cursor: 'pointer',
-                      boxShadow: '0 0 16px rgba(0,229,255,0.3)',
+                      boxShadow: '0 0 16px rgba(230,212,168,0.3)',
                       whiteSpace: 'nowrap',
                     }}
                   >
@@ -734,7 +734,7 @@ export function Pricing() {
                 <button
                   onClick={() => setEmailForm(s => ({ ...s, open: false }))}
                   style={{
-                    fontFamily: "'Rajdhani', sans-serif",
+                    fontFamily: "var(--f-body)",
                     fontSize: 12,
                     color: theme.text.muted,
                     background: 'none',

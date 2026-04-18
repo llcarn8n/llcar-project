@@ -154,15 +154,21 @@ function ObstacleMesh({ type }: { type: ObsType }) {
     // скошенными стенками и трещинами вокруг — без неоновых rim'ов.
     return (
       <group>
-        {/* Глубокое дно — почти чёрное, 10см ниже дороги */}
-        <mesh position={[0, -0.10, 0]} rotation={[-Math.PI / 2, 0, 0]} scale={[1.2, 0.8, 1]}>
-          <circleGeometry args={[0.28, 48]} />
-          <meshStandardMaterial color="#050607" roughness={1.0} metalness={0.0} />
+        {/* Глубокое дно — 22см ниже дороги, визуально ощутимо */}
+        <mesh position={[0, -0.22, 0]} rotation={[-Math.PI / 2, 0, 0]} scale={[1.2, 0.8, 1]}>
+          <circleGeometry args={[0.24, 48]} />
+          <meshStandardMaterial color="#030304" roughness={1.0} metalness={0.0} />
         </mesh>
-        {/* Скошенные стенки (truncated cone) — переход от тёмно-серого (вверх) к чёрному (вниз) */}
-        <mesh position={[0, -0.05, 0]} scale={[1.2, 1, 0.8]}>
-          <cylinderGeometry args={[0.34, 0.28, 0.10, 48, 1, true]} />
-          <meshStandardMaterial color="#0B0C0E" roughness={0.95} metalness={0.05} side={THREE.DoubleSide} />
+        {/* Скошенные стенки — длинный truncated cone, лёгкий градиент через vertexColors выглядел бы
+            лучше, но для простоты берём тёмно-серый среднего тона */}
+        <mesh position={[0, -0.11, 0]} scale={[1.2, 1, 0.8]}>
+          <cylinderGeometry args={[0.34, 0.24, 0.22, 48, 1, true]} />
+          <meshStandardMaterial color="#0D0E11" roughness={0.95} metalness={0.05} side={THREE.DoubleSide} />
+        </mesh>
+        {/* Ещё один слой стенок внутри — чуть светлее у верха, даёт читаемый край */}
+        <mesh position={[0, -0.04, 0]} scale={[1.2, 1, 0.8]}>
+          <cylinderGeometry args={[0.335, 0.30, 0.08, 48, 1, true]} />
+          <meshStandardMaterial color="#181A1E" roughness={0.9} metalness={0.08} side={THREE.DoubleSide} />
         </mesh>
         {/* Рваный rim — 6 плоских тёмно-серых патчей вокруг периметра (имитация отколотого асфальта) */}
         {Array.from({ length: 8 }).map((_, i) => {

@@ -92,18 +92,18 @@ function RecallsSearch({ brand }: { brand: string | null; model: string | null }
         onChange={e => setSearch(e.target.value)}
         style={{
           width: '100%', padding: '10px 14px', marginBottom: 12,
-          fontFamily: "'Rajdhani', sans-serif", fontSize: 14, fontWeight: 600,
+          fontFamily: "var(--f-body)", fontSize: 14, fontWeight: 600,
           color: '#ffffff', background: '#0f1923',
-          border: '1px solid rgba(0,229,255,0.15)', borderRadius: 4, outline: 'none',
+          border: '1px solid rgba(230,212,168,0.15)', borderRadius: 4, outline: 'none',
         }}
       />
 
       {loading ? (
-        <div style={{ textAlign: 'center', padding: 16, fontFamily: "'Orbitron', sans-serif", fontSize: 12, color: theme.accent.cyan }}>LOADING...</div>
+        <div style={{ textAlign: 'center', padding: 16, fontFamily: "var(--f-display)", fontSize: 12, color: theme.accent.cyan }}>LOADING...</div>
       ) : (
         <div style={{ display: 'flex', flexDirection: 'column', gap: 6, maxHeight: '50vh', overflowY: 'auto' }}>
           {filtered.length === 0 && (
-            <div style={{ padding: 16, fontFamily: "'Rajdhani', sans-serif", fontSize: 13, color: theme.text.muted, textAlign: 'center' }}>
+            <div style={{ padding: 16, fontFamily: "var(--f-body)", fontSize: 13, color: theme.text.muted, textAlign: 'center' }}>
               {brand ? `Нет отзывных кампаний для ${brand}` : 'Введите запрос или выберите автомобиль'}
             </div>
           )}
@@ -115,27 +115,27 @@ function RecallsSearch({ brand }: { brand: string | null; model: string | null }
             }}>
               <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', gap: 12 }}>
                 <div style={{ flex: 1 }}>
-                  <div style={{ fontFamily: "'Rajdhani', sans-serif", fontSize: 13, fontWeight: 700, color: theme.text.secondary, marginBottom: 4 }}>
+                  <div style={{ fontFamily: "var(--f-body)", fontSize: 13, fontWeight: 700, color: theme.text.secondary, marginBottom: 4 }}>
                     {r.title}
                   </div>
-                  <div style={{ fontFamily: "'Rajdhani', sans-serif", fontSize: 11, color: theme.text.muted, lineHeight: 1.4, marginBottom: 6 }}>
+                  <div style={{ fontFamily: "var(--f-body)", fontSize: 11, color: theme.text.muted, lineHeight: 1.4, marginBottom: 6 }}>
                     {r.desc}
                   </div>
                   <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
                     {r.models.slice(0, 5).map(m => (
                       <span key={m} style={{
                         fontSize: 9, padding: '2px 6px', borderRadius: 2,
-                        background: 'rgba(0,229,255,0.06)', border: '1px solid rgba(0,229,255,0.12)',
-                        fontFamily: "'Rajdhani', sans-serif", fontWeight: 600, color: theme.accent.cyan,
+                        background: 'rgba(230,212,168,0.06)', border: '1px solid rgba(230,212,168,0.12)',
+                        fontFamily: "var(--f-body)", fontWeight: 600, color: theme.accent.cyan,
                       }}>{m}</span>
                     ))}
                   </div>
                 </div>
                 <div style={{ textAlign: 'right', flexShrink: 0 }}>
-                  <div style={{ fontFamily: "'Orbitron', sans-serif", fontSize: 12, fontWeight: 700, color: theme.status.critical }}>
+                  <div style={{ fontFamily: "var(--f-display)", fontSize: 12, fontWeight: 700, color: theme.status.critical }}>
                     {r.count.toLocaleString()}
                   </div>
-                  <div style={{ fontFamily: "'Rajdhani', sans-serif", fontSize: 9, color: theme.text.muted }}>авто</div>
+                  <div style={{ fontFamily: "var(--f-body)", fontSize: 9, color: theme.text.muted }}>авто</div>
                   <div style={{ fontFamily: 'monospace', fontSize: 9, color: theme.text.muted, marginTop: 4 }}>{r.date}</div>
                 </div>
               </div>
@@ -169,7 +169,7 @@ export function Resources() {
             <img src={ICONS.knowledgeBase} alt="" style={{ width: 56, height: 56, objectFit: 'contain', mixBlendMode: 'screen', filter: 'drop-shadow(0 2px 10px rgba(230,212,168,0.4))' }} />
             <div>
               <div className="hud-header" style={{ marginBottom: 4 }}>Полезные источники</div>
-              <div style={{ fontFamily: "'Rajdhani', sans-serif", fontSize: 13, color: theme.text.muted, lineHeight: 1.4 }}>
+              <div style={{ fontFamily: "var(--f-body)", fontSize: 13, color: theme.text.muted, lineHeight: 1.4 }}>
                 Форумы, видео, инструменты диагностики и отзывные кампании
                 {vehicleProfile && ` для ${vehicleProfile.brand} ${vehicleProfile.model}`}
               </div>
@@ -186,12 +186,12 @@ export function Resources() {
             style={{
               padding: '6px 14px',
               borderRadius: 4,
-              fontFamily: "'Rajdhani', sans-serif",
+              fontFamily: "var(--f-body)",
               fontSize: 12,
               fontWeight: 700,
               color: !catFilter ? '#0C1220' : theme.text.muted,
-              background: !catFilter ? `linear-gradient(135deg, ${theme.accent.cyan}, ${theme.accent.teal})` : 'rgba(0,229,255,0.04)',
-              border: `1px solid ${!catFilter ? 'transparent' : 'rgba(0,229,255,0.15)'}`,
+              background: !catFilter ? `linear-gradient(135deg, ${theme.accent.cyan}, ${theme.accent.teal})` : 'rgba(230,212,168,0.04)',
+              border: `1px solid ${!catFilter ? 'transparent' : 'rgba(230,212,168,0.15)'}`,
               cursor: 'pointer',
               letterSpacing: '0.05em',
               transition: 'all 0.2s',
@@ -210,7 +210,7 @@ export function Resources() {
                 style={{
                   padding: '6px 14px',
                   borderRadius: 4,
-                  fontFamily: "'Rajdhani', sans-serif",
+                  fontFamily: "var(--f-body)",
                   fontSize: 12,
                   fontWeight: 700,
                   color: active ? '#0C1220' : info.color,
@@ -260,7 +260,7 @@ export function Resources() {
                     </span>
                     <div style={{ flex: 1 }}>
                       <div style={{
-                        fontFamily: "'Rajdhani', sans-serif",
+                        fontFamily: "var(--f-body)",
                         fontSize: 15,
                         fontWeight: 700,
                         color: theme.text.primary,
@@ -279,7 +279,7 @@ export function Resources() {
                         </span>
                       </div>
                       <div style={{
-                        fontFamily: "'Rajdhani', sans-serif",
+                        fontFamily: "var(--f-body)",
                         fontSize: 12,
                         color: theme.text.muted,
                         lineHeight: 1.4,
