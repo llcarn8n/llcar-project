@@ -311,6 +311,46 @@ export function Diagnostics() {
     </NebulaPanel>
   )
 
+  // Общий блок диагностики — добавляется во все системные табы (suspension/engine/electrical/audio)
+  // под их специфичным контентом. Ничего из Обзора не теряется.
+  const commonBlock = (
+    <>
+      <div className="col-span-12">
+        {useV2Api ? (
+          <DiagnosisCardV2 report={v2Report} loading={v2Loading} onFeedback={sendFeedback} clientHash={clientHash} />
+        ) : (
+          <DiagnosisCard diagnostics={diagnostics} degradation={degradation} regime={regime} />
+        )}
+      </div>
+      {useV2Api && v2Report?.baseline_status && (
+        <div className="col-span-12 lg:col-span-5">
+          <BaselineStatus
+            ready={v2Report.baseline_status.ready}
+            totalSamples={v2Report.baseline_status.total_samples}
+            samplesNeeded={v2Report.baseline_status.samples_needed}
+          />
+        </div>
+      )}
+      <div className={useV2Api && v2Report?.baseline_status ? 'col-span-12 lg:col-span-7' : 'col-span-12'}>
+        <AnomalyTimeline history={useV2Api ? v2HistoryAdapted : (historyData?.history ?? [])} />
+      </div>
+      <div className="col-span-12">
+        <CorrelationPanel clientHash={clientHash} />
+      </div>
+      {useV2Api && v2Report?.escalations && v2Report.escalations.length > 0 && (
+        <div className="col-span-12">
+          <EscalationTimeline escalations={v2Report.escalations} />
+        </div>
+      )}
+      <div className="col-span-12">
+        <DiagnosticSearch />
+      </div>
+      <div className="col-span-12">
+        <ChatPanel />
+      </div>
+    </>
+  )
+
   return (
     <div className="relative" style={{ margin: '-1rem -1rem 0' }}>
       <OnboardingTour />
@@ -508,51 +548,28 @@ export function Diagnostics() {
                 <SmartSphere data={accelData} />
               </Suspense>
             </div>
-            {useV2Api && v2Report?.baseline_status && (
-              <div className="col-span-12 lg:col-span-5">
-                <BaselineStatus
-                  ready={v2Report.baseline_status.ready}
-                  totalSamples={v2Report.baseline_status.total_samples}
-                  samplesNeeded={v2Report.baseline_status.samples_needed}
-                />
-              </div>
-            )}
-            <div className="col-span-12 lg:col-span-7">
-              <CorrelationPanel clientHash={clientHash} />
-            </div>
             <div className="col-span-12">
               <RulesList filterSystem="Подвеска" />
             </div>
+            {commonBlock}
           </>
         )}
 
         {activeSystem === 'engine' && (
           <>
             <div className="col-span-12">
-              {useV2Api ? (
-                <DiagnosisCardV2 report={v2Report} loading={v2Loading} onFeedback={sendFeedback} clientHash={clientHash} />
-              ) : (
-                <DiagnosisCard diagnostics={diagnostics} degradation={degradation} regime={regime} />
-              )}
-            </div>
-            <div className="col-span-12">
               <RulesList filterSystem="Двигатель" />
             </div>
+            {commonBlock}
           </>
         )}
 
         {activeSystem === 'electrical' && (
           <>
             <div className="col-span-12">
-              {useV2Api ? (
-                <DiagnosisCardV2 report={v2Report} loading={v2Loading} onFeedback={sendFeedback} clientHash={clientHash} />
-              ) : (
-                <DiagnosisCard diagnostics={diagnostics} degradation={degradation} regime={regime} />
-              )}
-            </div>
-            <div className="col-span-12">
               <RulesList filterSystem="Электрика" />
             </div>
+            {commonBlock}
           </>
         )}
 
@@ -567,6 +584,7 @@ export function Diagnostics() {
             <div className="col-span-12">
               <RulesList filterSystem="Шумы" />
             </div>
+            {commonBlock}
           </>
         )}
 
