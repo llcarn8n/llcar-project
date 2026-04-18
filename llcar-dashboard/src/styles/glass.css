@@ -943,9 +943,12 @@ html, body, .app-root-scroll { scrollbar-width: thin; scrollbar-color: rgba(230,
   /* Сдвигаем nav к правой части шапки, чтобы не липнуть к логотипу */
   header nav {
     margin-left: auto !important;
-    margin-right: 8px !important;
+    margin-right: 0 !important;
     gap: 4px !important;
   }
+  /* На мобиле скрываем правую пустую колонку (client-dropdown там тоже скрыт)
+     — иначе flex-1 отъедает место и nav сидит в центре */
+  header > div:last-child { display: none !important; }
   /* Ровные и центрированные иконки на мобилке + подсветка */
   header nav .nav-btn img {
     width: 24px !important;
