@@ -71,7 +71,7 @@ export function MainLayout({ children }: { children: ReactNode }) {
                 onClick={() => navigate(t.path)}
                 className={`nav-btn ${isActive ? 'active' : ''}`}
               >
-                <span className="hidden sm:inline">{t.label}</span>
+                <span>{t.label}</span>
               </button>
             )
           })}

@@ -73,6 +73,7 @@ export function KnowledgeBase() {
   const [pendingExpandId, setPendingExpandId] = useState<string | null>(null)
   const [partsCat, setPartsCat] = useState<KbPartsCatalog | null>(null)
   const [manualMeta, setManualMeta] = useState<KbManualMeta | null>(null)
+  const [vehicleInfoOpen, setVehicleInfoOpen] = useState(false)
 
   // Derive generation name from brands data
   useEffect(() => {
@@ -235,13 +236,32 @@ export function KnowledgeBase() {
         </GlassPanel>
       </div>
 
-      {/* Общая информация о вашем автомобиле (перенесено из Diagnostics) */}
+      {/* Общая информация о вашем автомобиле — сворачиваемая секция */}
       <div className="col-span-12">
         <GlassPanel>
-          <div className="hud-header" style={{ marginBottom: 10 }}>Общая информация о вашем автомобиле</div>
-          <Suspense fallback={null}>
-            <VehicleInfo />
-          </Suspense>
+          <button
+            type="button"
+            onClick={() => setVehicleInfoOpen(v => !v)}
+            style={{
+              width: '100%', display: 'flex', justifyContent: 'space-between', alignItems: 'center',
+              background: 'transparent', border: 'none', cursor: 'pointer', padding: 0,
+              marginBottom: vehicleInfoOpen ? 10 : 0,
+            }}
+          >
+            <span className="hud-header">Общая информация о вашем автомобиле</span>
+            <span style={{
+              fontFamily: 'var(--f-display)', fontSize: 10, letterSpacing: '0.1em',
+              color: 'var(--c-champagne)', padding: '4px 10px',
+              border: '1px solid rgba(230,212,168,0.25)', borderRadius: 2,
+            }}>
+              {vehicleInfoOpen ? 'СВЕРНУТЬ ▲' : 'РАСКРЫТЬ ▼'}
+            </span>
+          </button>
+          {vehicleInfoOpen && (
+            <Suspense fallback={null}>
+              <VehicleInfo />
+            </Suspense>
+          )}
         </GlassPanel>
       </div>
 
