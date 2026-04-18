@@ -6,7 +6,6 @@ import { useDashboardStore } from './stores/dashboardStore'
 import { VehicleSetup } from './components/onboarding/VehicleSetup'
 import { ConnectionWizard } from './components/onboarding/ConnectionWizard'
 import { GlassPanel } from './components/shared/GlassPanel'
-import { theme } from './theme'
 
 // Lazy-loaded pages
 const Landing = lazy(() => import('./pages/Landing').then(m => ({ default: m.Landing })))
@@ -25,11 +24,11 @@ function PageLoader() {
     <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', minHeight: '60vh' }}>
       <GlassPanel style={{ padding: '32px 48px', textAlign: 'center' }}>
         <div style={{
-          fontFamily: "'Orbitron', sans-serif",
+          fontFamily: 'var(--f-display)',
           fontSize: 14,
           letterSpacing: '0.15em',
-          color: theme.accent.cyan,
-          textShadow: `0 0 12px ${theme.accent.cyan}60`,
+          color: 'var(--c-champagne)',
+          textShadow: '0 0 14px rgba(230,212,168,0.55)',
         }}>
           LOADING...
         </div>
@@ -49,6 +48,17 @@ function App() {
   } = useDashboardStore()
 
   const location = useLocation()
+
+  // /welcome — всегда показывает Landing, даже если профиль уже сохранён
+  if (location.pathname === '/welcome') {
+    return (
+      <ThemeProvider>
+        <Suspense fallback={<PageLoader />}>
+          <Landing />
+        </Suspense>
+      </ThemeProvider>
+    )
+  }
 
   // Изолированные demo-роуты — минуют лэндинг и MainLayout
   if (location.pathname === '/nebula-demo') {

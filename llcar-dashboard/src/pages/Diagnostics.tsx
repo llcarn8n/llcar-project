@@ -80,6 +80,7 @@ export function Diagnostics() {
   const [manualLoading, setManualLoading] = useState(false)
   const [activeSystem, setActiveSystem] = useState<SystemKey | null>('suspension')
   const [openInsight, setOpenInsight] = useState<string | null>(null)
+  const [mobileDiagExpanded, setMobileDiagExpanded] = useState(false)
 
   const v2HistoryAdapted = useMemo<HistoryPoint[]>(() => {
     if (!v2History || v2History.length === 0) return []
@@ -436,7 +437,10 @@ export function Diagnostics() {
             Диагнозы · {debouncedActive ?? v2ReportDebounced?.diagnoses?.length}
           </div>
           <div style={{ display: 'flex', flexDirection: 'column', gap: 6 }}>
-            {v2ReportDebounced?.diagnoses?.slice(0, 5).map((d, i) => {
+            {(mobileDiagExpanded
+              ? v2ReportDebounced?.diagnoses
+              : v2ReportDebounced?.diagnoses?.slice(0, 5)
+            )?.map((d, i) => {
               const conf = Math.round((d.confidence ?? 0) > 1 ? (d.confidence ?? 0) : (d.confidence ?? 0) * 100)
               const sevColor = conf >= 70 ? '#FF4A4A' : conf >= 40 ? '#E0B46B' : '#6BE08F'
               const ruleName = d.rule_name
@@ -466,6 +470,31 @@ export function Diagnostics() {
                 </div>
               )
             })}
+
+            {(v2ReportDebounced?.diagnoses?.length ?? 0) > 5 && (
+              <button
+                onClick={() => setMobileDiagExpanded(v => !v)}
+                style={{
+                  marginTop: 4,
+                  padding: '8px 12px',
+                  fontFamily: 'var(--f-display)',
+                  fontSize: 10,
+                  fontWeight: 700,
+                  letterSpacing: '0.2em',
+                  textTransform: 'uppercase',
+                  color: 'var(--c-champagne)',
+                  background: 'rgba(230,212,168,0.06)',
+                  border: '1px solid rgba(230,212,168,0.25)',
+                  borderRadius: 4,
+                  cursor: 'pointer',
+                  alignSelf: 'center',
+                }}
+              >
+                {mobileDiagExpanded
+                  ? 'Свернуть'
+                  : `Показать все (${v2ReportDebounced?.diagnoses?.length})`}
+              </button>
+            )}
           </div>
         </div>
       )}
