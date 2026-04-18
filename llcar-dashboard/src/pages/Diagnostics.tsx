@@ -245,16 +245,47 @@ export function Diagnostics() {
           width: 170,
         }}>
           <span style={microLabel}>{statusLabel}</span>
-          <span style={{
-            fontFamily: 'var(--f-display)',
-            fontSize: 108,
-            fontWeight: 100,
-            lineHeight: 1,
-            letterSpacing: '-0.05em',
-            color: '#F2E4C2',
-            textShadow: '0 0 24px rgba(200,180,142,0.40), 0 0 6px rgba(200,180,142,0.30)',
-            fontVariantNumeric: 'tabular-nums',
-          }}>{overallScore}</span>
+          <div style={{ display: 'flex', alignItems: 'center', gap: 10, justifyContent: 'center' }}>
+            <span style={{
+              fontFamily: 'var(--f-display)',
+              fontSize: 108,
+              fontWeight: 100,
+              lineHeight: 1,
+              letterSpacing: '-0.05em',
+              color: '#F2E4C2',
+              textShadow: '0 0 24px rgba(200,180,142,0.40), 0 0 6px rgba(200,180,142,0.30)',
+              fontVariantNumeric: 'tabular-nums',
+            }}>{overallScore}</span>
+            {(() => {
+              const hour = new Date().getHours()
+              const isDay = hour >= 6 && hour < 20
+              const base = `${import.meta.env.BASE_URL}images/icons/${isDay ? 'sun' : 'moon'}`
+              const glow = isDay
+                ? 'drop-shadow(0 0 14px rgba(230,212,168,0.6)) drop-shadow(0 0 28px rgba(230,212,168,0.3))'
+                : 'drop-shadow(0 0 14px rgba(170,190,225,0.55)) drop-shadow(0 0 28px rgba(170,190,225,0.28))'
+              return (
+                <video
+                  key={isDay ? 'day' : 'night'}
+                  src={`${base}.mp4`}
+                  poster={`${base}.jpg`}
+                  autoPlay
+                  loop
+                  muted
+                  playsInline
+                  preload="auto"
+                  title={isDay ? 'Дневной режим' : 'Ночной режим'}
+                  style={{
+                    width: 84, height: 84,
+                    objectFit: 'contain',
+                    mixBlendMode: 'screen',
+                    filter: glow,
+                    flexShrink: 0,
+                    pointerEvents: 'none',
+                  }}
+                />
+              )
+            })()}
+          </div>
           <span style={microLabel}>ЗДОРОВЬЕ</span>
           <div style={{ marginTop: 4, display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
             <span style={microLabel}>{timeRangeLabel(timeRange)}</span>
