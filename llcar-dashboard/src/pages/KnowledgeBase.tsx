@@ -74,6 +74,8 @@ export function KnowledgeBase() {
   const [partsCat, setPartsCat] = useState<KbPartsCatalog | null>(null)
   const [manualMeta, setManualMeta] = useState<KbManualMeta | null>(null)
   const [vehicleInfoOpen, setVehicleInfoOpen] = useState(false)
+  const [recallsOpen, setRecallsOpen] = useState(false)
+  const [situationsOpen, setSituationsOpen] = useState(false)
 
   // Derive generation name from brands data
   useEffect(() => {
@@ -243,16 +245,21 @@ export function KnowledgeBase() {
             type="button"
             onClick={() => setVehicleInfoOpen(v => !v)}
             style={{
-              width: '100%', display: 'flex', justifyContent: 'space-between', alignItems: 'center',
+              width: '100%', display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start',
               background: 'transparent', border: 'none', cursor: 'pointer', padding: 0,
-              marginBottom: vehicleInfoOpen ? 10 : 0,
+              marginBottom: vehicleInfoOpen ? 10 : 0, gap: 12,
             }}
           >
-            <span className="hud-header">Общая информация о вашем автомобиле</span>
+            <div style={{ textAlign: 'left', flex: 1 }}>
+              <div className="hud-header">Общая информация о вашем автомобиле</div>
+              <div style={{ fontSize: 11, color: '#FFFFFF', fontFamily: 'var(--f-body)', marginTop: 4, opacity: 0.8 }}>
+                Паспорт VIN, двигатель, даты обслуживания, история владения.
+              </div>
+            </div>
             <span style={{
               fontFamily: 'var(--f-display)', fontSize: 10, letterSpacing: '0.1em',
               color: 'var(--c-champagne)', padding: '4px 10px',
-              border: '1px solid rgba(230,212,168,0.25)', borderRadius: 2,
+              border: '1px solid rgba(230,212,168,0.25)', borderRadius: 2, flexShrink: 0,
             }}>
               {vehicleInfoOpen ? 'СВЕРНУТЬ ▲' : 'РАСКРЫТЬ ▼'}
             </span>
@@ -265,56 +272,114 @@ export function KnowledgeBase() {
         </GlassPanel>
       </div>
 
-      {/* Отзывные кампании — полный справочник с поиском */}
+      {/* Отзывные кампании — свёрнуто по умолчанию */}
       <div className="col-span-12">
-        <RecallsBrowser
-          vehicleBrand={vehicleProfile?.brand}
-          vehicleModel={vehicleProfile?.model}
-        />
+        <GlassPanel>
+          <button
+            type="button"
+            onClick={() => setRecallsOpen(v => !v)}
+            style={{
+              width: '100%', display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start',
+              background: 'transparent', border: 'none', cursor: 'pointer', padding: 0,
+              marginBottom: recallsOpen ? 10 : 0, gap: 12,
+            }}
+          >
+            <div style={{ textAlign: 'left', flex: 1 }}>
+              <div className="hud-header">Отзывные кампании</div>
+              <div style={{ fontSize: 11, color: '#FFFFFF', fontFamily: 'var(--f-body)', marginTop: 4, opacity: 0.8 }}>
+                Заводские дефекты, которые производитель устраняет бесплатно. 298 кампаний по 91 бренду.
+              </div>
+            </div>
+            <span style={{
+              fontFamily: 'var(--f-display)', fontSize: 10, letterSpacing: '0.1em',
+              color: 'var(--c-champagne)', padding: '4px 10px',
+              border: '1px solid rgba(230,212,168,0.25)', borderRadius: 2, flexShrink: 0,
+            }}>
+              {recallsOpen ? 'СВЕРНУТЬ ▲' : 'РАСКРЫТЬ ▼'}
+            </span>
+          </button>
+          {recallsOpen && (
+            <div style={{ marginTop: 4 }}>
+              <RecallsBrowser
+                vehicleBrand={vehicleProfile?.brand}
+                vehicleModel={vehicleProfile?.model}
+              />
+            </div>
+          )}
+        </GlassPanel>
       </div>
 
-      {/* Situations / DTC search tabs */}
-      <div className="col-span-12 lg:col-span-8" style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
-        <div style={{ display: 'flex', gap: 6 }}>
-          {([
-            { id: 'situations', label: 'Ситуации' },
-            { id: 'dtc', label: 'Поиск по DTC' },
-          ] as const).map(tab => {
-            const active = leftTab === tab.id
-            return (
-              <button
-                key={tab.id}
-                onClick={() => setLeftTab(tab.id)}
-                style={{
-                  padding: '8px 18px',
-                  fontFamily: "'Orbitron', sans-serif",
-                  fontSize: 11,
-                  fontWeight: 700,
-                  letterSpacing: '0.12em',
-                  textTransform: 'uppercase',
-                  color: active ? '#0C1220' : theme.accent.cyan,
-                  background: active ? theme.accent.cyan : 'rgba(0,229,255,0.04)',
-                  border: `1px solid ${active ? 'transparent' : 'rgba(0,229,255,0.18)'}`,
-                  borderRadius: 4,
-                  cursor: 'pointer',
-                  transition: 'all 0.2s',
-                  boxShadow: active ? `0 0 10px ${theme.accent.cyan}60` : 'none',
-                }}
-              >
-                {tab.label}
-              </button>
-            )
-          })}
-        </div>
-        {leftTab === 'situations' ? (
-          <SituationsList
-            brandId={vehicleProfile?.brandId}
-            kbGenPath={kbGenPath}
-            initialExpandedId={pendingExpandId}
-          />
-        ) : (
-          <DtcSearch onSelectSituation={handleDtcSelect} />
-        )}
+      {/* Ситуации / DTC — свёрнуто по умолчанию */}
+      <div className="col-span-12 lg:col-span-8">
+        <GlassPanel>
+          <button
+            type="button"
+            onClick={() => setSituationsOpen(v => !v)}
+            style={{
+              width: '100%', display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start',
+              background: 'transparent', border: 'none', cursor: 'pointer', padding: 0,
+              marginBottom: situationsOpen ? 10 : 0, gap: 12,
+            }}
+          >
+            <div style={{ textAlign: 'left', flex: 1 }}>
+              <div className="hud-header">Ситуации и поиск по DTC</div>
+              <div style={{ fontSize: 11, color: '#FFFFFF', fontFamily: 'var(--f-body)', marginTop: 4, opacity: 0.8 }}>
+                Реальные случаи для вашей модели + справочник кодов неисправностей (OBD-II).
+              </div>
+            </div>
+            <span style={{
+              fontFamily: 'var(--f-display)', fontSize: 10, letterSpacing: '0.1em',
+              color: 'var(--c-champagne)', padding: '4px 10px',
+              border: '1px solid rgba(230,212,168,0.25)', borderRadius: 2, flexShrink: 0,
+            }}>
+              {situationsOpen ? 'СВЕРНУТЬ ▲' : 'РАСКРЫТЬ ▼'}
+            </span>
+          </button>
+          {situationsOpen && (
+            <div style={{ marginTop: 4, display: 'flex', flexDirection: 'column', gap: 8 }}>
+              <div style={{ display: 'flex', gap: 6 }}>
+                {([
+                  { id: 'situations', label: 'Ситуации' },
+                  { id: 'dtc', label: 'Поиск по DTC' },
+                ] as const).map(tab => {
+                  const active = leftTab === tab.id
+                  return (
+                    <button
+                      key={tab.id}
+                      onClick={() => setLeftTab(tab.id)}
+                      style={{
+                        padding: '8px 18px',
+                        fontFamily: "'Orbitron', sans-serif",
+                        fontSize: 11,
+                        fontWeight: 700,
+                        letterSpacing: '0.12em',
+                        textTransform: 'uppercase',
+                        color: active ? '#0C1220' : theme.accent.cyan,
+                        background: active ? theme.accent.cyan : 'rgba(0,229,255,0.04)',
+                        border: `1px solid ${active ? 'transparent' : 'rgba(0,229,255,0.18)'}`,
+                        borderRadius: 4,
+                        cursor: 'pointer',
+                        transition: 'all 0.2s',
+                        boxShadow: active ? `0 0 10px ${theme.accent.cyan}60` : 'none',
+                      }}
+                    >
+                      {tab.label}
+                    </button>
+                  )
+                })}
+              </div>
+              {leftTab === 'situations' ? (
+                <SituationsList
+                  brandId={vehicleProfile?.brandId}
+                  kbGenPath={kbGenPath}
+                  initialExpandedId={pendingExpandId}
+                />
+              ) : (
+                <DtcSearch onSelectSituation={handleDtcSelect} />
+              )}
+            </div>
+          )}
+        </GlassPanel>
       </div>
 
       {/* Right sidebar: manuals + videos + reviews + parts + stats */}

@@ -4,12 +4,13 @@ import { useDashboardStore } from '../stores/dashboardStore'
 import { SidebarContent } from '../components/sidebar/SidebarContent'
 import { Logo } from '../components/Logo'
 
+const B = import.meta.env.BASE_URL
 const tabs = [
-  { path: '/', label: 'Диагностика' },
-  { path: '/kb', label: 'База знаний' },
-  { path: '/dtc', label: 'Ошибки' },
-  { path: '/resources', label: 'Ресурсы' },
-  { path: '/pricing', label: 'Тарифы' },
+  { path: '/', label: 'Диагностика', icon: `${B}images/icons/nav-diagnostics.jpg` },
+  { path: '/kb', label: 'База знаний', icon: `${B}images/icons/nav-kb.jpg` },
+  { path: '/dtc', label: 'Ошибки', icon: `${B}images/icons/nav-errors.jpg` },
+  { path: '/resources', label: 'Ресурсы', icon: `${B}images/icons/nav-resources.jpg` },
+  { path: '/pricing', label: 'Тарифы', icon: `${B}images/icons/nav-pricing.jpg` },
 ]
 
 export function MainLayout({ children }: { children: ReactNode }) {
@@ -70,8 +71,19 @@ export function MainLayout({ children }: { children: ReactNode }) {
                 key={t.path}
                 onClick={() => navigate(t.path)}
                 className={`nav-btn ${isActive ? 'active' : ''}`}
+                title={t.label}
+                aria-label={t.label}
               >
-                <span>{t.label}</span>
+                <img
+                  src={t.icon}
+                  alt={t.label}
+                  className="sm:hidden"
+                  style={{
+                    width: 22, height: 22, display: 'block', margin: '0 auto',
+                    objectFit: 'contain',
+                  }}
+                />
+                <span className="hidden sm:inline">{t.label}</span>
               </button>
             )
           })}
