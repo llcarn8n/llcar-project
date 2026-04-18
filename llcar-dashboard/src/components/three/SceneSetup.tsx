@@ -3,8 +3,8 @@ import { OrbitControls } from '@react-three/drei'
 export function SceneSetup() {
   return (
     <>
-      {/* Void fog — совпадает с CSS --c-void #14152A (раньше был #07080F, фон выглядел мёртвым) */}
-      <fog attach="fog" args={['#14152A', 14, 32]} />
+      {/* Void fog — совпадает с CSS --c-void #050505 (pure near-black, без синевы) */}
+      <fog attach="fog" args={['#050505', 14, 32]} />
 
       {/* 3-light rig: spectral доминирует + warm/cool kickers как ambient glow, НЕ как заливка */}
       <ambientLight intensity={0.68} color="#EFF2F7" />
@@ -26,7 +26,7 @@ export function SceneSetup() {
         enableDamping
         dampingFactor={0.05}
         minDistance={3}
-        maxDistance={12}
+        maxDistance={32}
         maxPolarAngle={Math.PI / 2 + 0.3}
         target={[0, 0.3, 0]}
       />

@@ -35,8 +35,8 @@ function DetailCharts({ accelData, chartAxesRef, chartCorridorRef }: {
           fontFamily: "var(--f-body)",
           fontSize: 13,
           fontWeight: 700,
-          color: open ? '#0C1220' : 'var(--c-amber)',
-          background: open ? 'var(--c-amber)' : 'var(--border-frost)',
+          color: open ? '#0C1220' : 'var(--c-champagne)',
+          background: open ? 'var(--c-champagne)' : 'var(--border-frost)',
           border: `1px solid ${open ? 'transparent' : 'rgba(214,235,253,0.19)'}`,
           borderRadius: 6,
           cursor: 'pointer',
@@ -54,10 +54,10 @@ function DetailCharts({ accelData, chartAxesRef, chartCorridorRef }: {
       {open && (
         <div className="suspension-detail-grid" style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 12 }}>
           {/* Vibration by axes */}
-          <GlassPanel style={{ background: 'rgba(6, 15, 25, 0.5)' }}>
+          <GlassPanel style={{ background: 'transparent' }}>
             <div className="hud-header" style={{ marginBottom: 4 }}>Вибрация по осям</div>
             <div style={{
-              fontSize: 10, color: 'rgba(255,255,255,0.45)',
+              fontSize: 10, color: '#FFFFFF',
               fontFamily: "var(--f-body)",
               lineHeight: 1.5, marginBottom: 8,
               padding: '6px 8px',
@@ -75,10 +75,10 @@ function DetailCharts({ accelData, chartAxesRef, chartCorridorRef }: {
           </GlassPanel>
 
           {/* Z corridor */}
-          <GlassPanel style={{ background: 'rgba(6, 15, 25, 0.5)', position: 'relative' }}>
+          <GlassPanel style={{ background: 'transparent', position: 'relative' }}>
             <div className="hud-header" style={{ marginBottom: 4 }}>Вертикальная ось Z — коридор ям</div>
             <div style={{
-              fontSize: 10, color: 'rgba(255,255,255,0.45)',
+              fontSize: 10, color: '#FFFFFF',
               fontFamily: "var(--f-body)",
               lineHeight: 1.5, marginBottom: 8,
               padding: '6px 8px',
@@ -342,7 +342,7 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
       },
       legend: {
         top: 4, left: 50,
-        textStyle: { color: 'rgba(255,255,255,0.6)', fontFamily: "var(--f-mono)", fontSize: 10 },
+        textStyle: { color: '#FFFFFF', fontFamily: "var(--f-mono)", fontSize: 10 },
         itemWidth: 12, itemHeight: 8,
       },
       xAxis: {
@@ -352,7 +352,7 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
         axisLine: { lineStyle: { color: 'rgba(214,235,253,0.19)' } },
         axisTick: { show: false },
         axisLabel: {
-          color: 'rgba(255,255,255,0.4)',
+          color: '#FFFFFF',
           fontFamily: "var(--f-mono)",
           fontSize: 9,
           interval: Math.max(0, Math.floor(accelData.length / 8) - 1),
@@ -362,7 +362,7 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
         type: 'value' as const,
         axisLine: { show: false },
         axisTick: { show: false },
-        axisLabel: { color: 'rgba(255,255,255,0.4)', fontFamily: "var(--f-mono)", fontSize: 9 },
+        axisLabel: { color: '#FFFFFF', fontFamily: "var(--f-mono)", fontSize: 9 },
         splitLine: { lineStyle: { color: 'rgba(240,240,250,0.08)', type: 'dashed' as const } },
       },
       series: [
@@ -449,7 +449,7 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
       },
       legend: {
         top: 4, left: 50,
-        textStyle: { color: 'rgba(255,255,255,0.6)', fontFamily: "var(--f-mono)", fontSize: 10 },
+        textStyle: { color: '#FFFFFF', fontFamily: "var(--f-mono)", fontSize: 10 },
         itemWidth: 12, itemHeight: 8,
       },
       xAxis: {
@@ -459,7 +459,7 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
         axisLine: { lineStyle: { color: 'rgba(214,235,253,0.19)' } },
         axisTick: { show: false },
         axisLabel: {
-          color: 'rgba(255,255,255,0.4)',
+          color: '#FFFFFF',
           fontFamily: "var(--f-mono)",
           fontSize: 9,
           interval: Math.max(0, Math.floor(accelData.length / 8) - 1),
@@ -469,7 +469,7 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
         type: 'value' as const,
         axisLine: { show: false },
         axisTick: { show: false },
-        axisLabel: { color: 'rgba(255,255,255,0.4)', fontFamily: "var(--f-mono)", fontSize: 9 },
+        axisLabel: { color: '#FFFFFF', fontFamily: "var(--f-mono)", fontSize: 9 },
         splitLine: { lineStyle: { color: 'rgba(240,240,250,0.08)', type: 'dashed' as const } },
       },
       series: [
@@ -547,7 +547,7 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
       {/* 1. Status Card */}
       <GlassPanel style={{
         borderLeft: `3px solid ${statusColor}`,
-        background: 'rgba(6, 15, 25, 0.7)',
+        background: 'transparent',
       }}>
         <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
           <span style={{ fontSize: 28 }}>{statusIcon}</span>
@@ -561,7 +561,7 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
               {statusTitle}
             </div>
             <div style={{
-              fontSize: 11, color: 'rgba(255,255,255,0.6)',
+              fontSize: 11, color: '#FFFFFF',
               fontFamily: "var(--f-mono)",
               marginTop: 2,
             }}>
@@ -569,7 +569,7 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
             </div>
             {dominantAxis && (
               <div style={{
-                fontSize: 10, color: 'rgba(255,255,255,0.4)',
+                fontSize: 10, color: '#FFFFFF',
                 fontFamily: "var(--f-mono)",
                 marginTop: 4,
               }}>
@@ -587,7 +587,7 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
               {totalVib.toFixed(1)}
             </div>
             <div style={{
-              fontSize: 9, color: 'rgba(255,255,255,0.4)',
+              fontSize: 9, color: '#FFFFFF',
               fontFamily: "var(--f-mono)",
               letterSpacing: '0.1em',
             }}>
@@ -602,7 +602,7 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
         {STAT_CARDS.map(card => {
           const pct = Math.min(card.value / 5 * 100, 100)
           return (
-            <GlassPanel key={card.axis} style={{ background: 'rgba(6, 15, 25, 0.5)' }}>
+            <GlassPanel key={card.axis} style={{ background: 'transparent' }}>
               <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 8 }}>
                 <span style={{
                   fontSize: 11, fontWeight: 700,
@@ -625,7 +625,7 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
                   <div style={{
                     fontSize: 10,
                     fontFamily: "var(--f-mono)",
-                    color: 'rgba(255,255,255,0.4)',
+                    color: '#FFFFFF',
                   }}>
                     {card.sublabel}
                   </div>
@@ -639,7 +639,7 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
                 marginBottom: 6,
               }}>
                 {card.value.toFixed(2)}
-                <span style={{ fontSize: 10, color: 'rgba(255,255,255,0.4)', marginLeft: 4 }}>m/s2</span>
+                <span style={{ fontSize: 10, color: '#FFFFFF', marginLeft: 4 }}>m/s2</span>
               </div>
               {/* Progress bar */}
               <div style={{
@@ -661,7 +661,7 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
       </div>
 
       {/* 3. 3D Scatter Plot */}
-      <GlassPanel style={{ position: 'relative', background: 'rgba(6, 15, 25, 0.6)' }}>
+      <GlassPanel style={{ position: 'relative', background: 'transparent' }}>
         <div className="hud-header" style={{ marginBottom: 4 }}>3D-Траектория вибрации</div>
         <div
           ref={chart3dRef}
@@ -674,7 +674,7 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
           right: 16,
           maxWidth: 220,
           padding: '8px 10px',
-          background: 'rgba(6, 15, 25, 0.85)',
+          background: 'transparent',
           border: '1px solid var(--border-frost)',
           borderRadius: 6,
           pointerEvents: 'none',
@@ -682,7 +682,7 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
           <div style={{
             fontSize: 10, fontWeight: 700,
             fontFamily: "var(--f-body)",
-            color: 'var(--c-amber)',
+            color: 'var(--c-champagne)',
             marginBottom: 4,
             letterSpacing: '0.05em',
           }}>
@@ -691,7 +691,7 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
           <div style={{
             fontSize: 9, lineHeight: 1.5,
             fontFamily: "var(--f-mono)",
-            color: 'rgba(255,255,255,0.5)',
+            color: '#FFFFFF',
           }}>
             Каждая точка — замер вибрации по 3 осям.
             Цвет: зелёный = норма, красный = высокая.

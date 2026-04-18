@@ -265,11 +265,11 @@ export function SmartSphere({ data }: { data: AccelSample[] }) {
         ].map(a => (
           <div key={a.n} className="flex items-center gap-1.5 mb-1">
             <div style={{ width: 6, height: 6, borderRadius: 1, background: a.c, boxShadow: `0 0 4px ${a.c}` }} />
-            <span className="text-[9px]" style={{ color: 'rgba(255,255,255,0.5)' }}>{a.n}</span>
-            <span className="text-[8px]" style={{ color: 'rgba(255,255,255,0.25)' }}>{a.d}</span>
+            <span className="text-[9px]" style={{ color: '#FFFFFF' }}>{a.n}</span>
+            <span className="text-[8px]" style={{ color: '#FFFFFF' }}>{a.d}</span>
           </div>
         ))}
-        <div className="text-[7px] mt-1 pt-1" style={{ color: 'rgba(255,255,255,0.12)', borderTop: '1px solid rgba(255,255,255,0.05)' }}>
+        <div className="text-[7px] mt-1 pt-1" style={{ color: '#FFFFFF', borderTop: '1px solid rgba(255,255,255,0.15)' }}>
           Линия = история | Коридор = min-max | Столб = сейчас
         </div>
       </div>

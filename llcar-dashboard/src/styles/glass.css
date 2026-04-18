@@ -6,7 +6,7 @@
 /* ── 1. Theme Variables: Dark Mode ── */
 :root {
   /* ── LUMEN HUD — new tokens ── */
-  --c-void: #05070D;
+  --c-void: #050505;
   --c-void-pure: #000000;
   --c-surface: rgba(255,255,255,0.03);
   --c-surface-elev: rgba(255,255,255,0.05);
@@ -113,6 +113,36 @@
   --pulse-stroke: var(--c-amber);
   --critical-color: var(--c-critical);
   --critical-shadow: 0 0 10px rgba(255,32,71,0.8), 0 0 20px rgba(255,32,71,0.5);
+
+  /* ── Spectral text palette (использовалась в theme.ts / MiniSparkline / DataDot как undefined) ── */
+  --c-spectral: #EFF2F7;
+  --c-spectral-muted: #B8BEC7;
+  --c-spectral-faint: rgba(184,190,199,0.55);
+  --c-spectral-divider: rgba(184,190,199,0.18);
+  --c-spectral-ghost: rgba(184,190,199,0.30);
+  --c-indigo: #6B5AE0;
+  --c-indigo-soft: rgba(107,90,224,0.18);
+
+  /* ── Aerospace palette (Блок F — единый стиль 9 разделов) ── */
+  --c-cherry: #7C1830;
+  --c-cherry-deep: #5A0D22;
+  --c-cherry-glow: rgba(124,24,48,0.40);
+  --c-beige: #DFCFAD;
+  --c-champagne: #E6D4A8;
+  --c-champagne-hi: #F2E4C2;
+  --c-champagne-soft: rgba(230,212,168,0.14);
+  --c-champagne-faint: rgba(230,212,168,0.06);
+  --c-champagne-border: rgba(230,212,168,0.35);
+  --c-graphite: #B8BEC7;
+  --c-graphite-muted: rgba(184,190,199,0.70);
+  --c-graphite-faint: rgba(184,190,199,0.45);
+  --c-graphite-divider: rgba(184,190,199,0.18);
+  /* Granite = road-asphalt color из 3D сцены (AccelWaves), затемнён чтобы не выделялся */
+  --c-granite: #0E1016;
+  --c-granite-soft: #0A0C12;
+  --c-li7: #D4AF37;
+  --c-li7-glow: rgba(212,175,55,0.32);
+  --ease-hud: cubic-bezier(.2,.8,.2,1);
 }
 
 /* ── 1b. Theme Variables: Light Mode ── */
@@ -217,56 +247,98 @@ body::after {
   inset: 0;
 }
 
-/* ── 3. Glass Panel ── */
+/* ── 3. Glass Panel — granite (road) background, no borders/brackets ── */
 .glass-panel {
-  --glass-blur: blur(20px) saturate(180%);
-  background: linear-gradient(135deg, var(--bg-panel) 0%, var(--bg-panel-end) 100%);
-  -webkit-backdrop-filter: var(--glass-blur);
-  backdrop-filter: var(--glass-blur);
-  border: 1px solid var(--border-glow);
-  border-top: 1px solid var(--glass-border-top);
-  border-left: 2px solid var(--border-accent);
-  box-shadow: var(--glass-shadow);
+  background: transparent;
   color: var(--panel-text);
-  border-radius: 4px;
-  transition: all .3s;
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
   position: relative;
+  transition: background .3s;
 }
 
 .glass-panel:hover {
-  border-color: var(--border-hover);
-  box-shadow: var(--glass-shadow-hover);
-  transform: translateY(-1px);
+  background: transparent;
+  box-shadow: none;
+  transform: none;
 }
 
 .glass-panel::before,
 .glass-panel::after {
-  content: '';
-  border: 2px solid var(--border-corner);
-  pointer-events: none;
-  width: 12px;
-  height: 12px;
-  transition: border-color .3s;
-  position: absolute;
+  content: none;
 }
 
-.glass-panel::before {
-  border-bottom: none;
-  border-right: none;
-  top: -1px;
-  left: -2px;
+/* ── Mobile: единый размер шрифта во всей детальной секции + под-сценовых блоках ── */
+@media (max-width: 767px) {
+  .road-underlay { padding: 8px !important; }
+  .road-underlay .glass-panel { padding: 8px !important; }
+  /* Заголовки секций единые 10px */
+  .road-underlay .hud-header,
+  .road-underlay .lumen-rules-picker > div:first-child span,
+  .road-underlay h1, .road-underlay h2, .road-underlay h3 {
+    font-size: 10px !important;
+    padding-left: 6px !important;
+  }
+  /* Всё остальное унифицировано 11px */
+  .road-underlay *:not(.hud-header):not(h1):not(h2):not(h3) {
+    font-size: 11px !important;
+    line-height: 1.35 !important;
+  }
+  /* Метрики и значения (24–36px на десктопе) → 16px на мобиле */
+  .road-underlay [style*="fontSize: 28"],
+  .road-underlay [style*="fontSize: 36"],
+  .road-underlay [style*="fontSize: 22"] {
+    font-size: 16px !important;
+  }
+  /* RulesPicker: на мобиле убираем absolute-positioning */
+  .lumen-rules-picker {
+    position: static !important;
+    width: 100% !important;
+    right: auto !important;
+    bottom: auto !important;
+  }
 }
 
-.glass-panel::after {
-  border-top: none;
-  border-left: none;
-  bottom: -1px;
-  right: -1px;
+/* ── Подложка: чистый void, как у 3D сцены без halos ── */
+.road-underlay {
+  position: relative;
+  background: var(--c-void);
 }
 
-.glass-panel:hover::before,
-.glass-panel:hover::after {
-  border-color: var(--c-amber);
+/* ── Унификация цвета текста под скроллом: весь body-текст белый, заголовки champagne ──
+   Переопределяем CSS-переменные в scope .road-underlay — компоненты, использующие
+   var(--text-primary/secondary/muted), автоматически становятся белыми.
+   Инлайн hex-цвета (severity badges red/orange/green) остаются нетронутыми. */
+.road-underlay {
+  --text-primary: #FFFFFF;
+  --text-secondary: #FFFFFF;
+  --text-muted: #FFFFFF;
+}
+.road-underlay .hud-header,
+.road-underlay .hud-header *,
+.road-underlay h1,
+.road-underlay h2,
+.road-underlay h3,
+.road-underlay h4 {
+  color: var(--c-champagne) !important;
+}
+/* Заголовки карточек и секций, заданные inline-стилем (fontWeight + крупный размер) — champagne */
+.road-underlay [style*="fontWeight: 700"][style*="fontSize: 13"],
+.road-underlay [style*="fontWeight: 700"][style*="fontSize: 14"],
+.road-underlay [style*="fontWeight: 700"][style*="fontSize: 15"],
+.road-underlay [style*="fontWeight: 700"][style*="fontSize: 16"],
+.road-underlay [style*="fontWeight: 700"][style*="fontSize: 18"],
+.road-underlay [style*="fontWeight: 700"][style*="fontSize: 20"],
+.road-underlay [style*="fontWeight: 600"][style*="fontSize: 14"],
+.road-underlay [style*="fontWeight: 600"][style*="fontSize: 15"],
+.road-underlay [style*="fontWeight: 600"][style*="fontSize: 16"] {
+  color: var(--c-champagne) !important;
+}
+
+.road-underlay > * {
+  position: relative;
+  z-index: 1;
 }
 
 /* ── 4. Typography ── */
@@ -537,11 +609,12 @@ header {
   border-bottom-color: var(--header-border);
 }
 
-/* ── 16. Scrollbar ── */
-::-webkit-scrollbar       { width: 6px; }
-::-webkit-scrollbar-track  { background: var(--scrollbar-bg); }
-::-webkit-scrollbar-thumb  { background: var(--scrollbar-thumb); border-radius: 3px; }
-::-webkit-scrollbar-thumb:hover { background: var(--scrollbar-thumb-hover); }
+/* ── 16. Scrollbar — золотистый (champagne) ── */
+::-webkit-scrollbar       { width: 6px; height: 6px; }
+::-webkit-scrollbar-track  { background: transparent; }
+::-webkit-scrollbar-thumb  { background: rgba(230,212,168,0.45); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: rgba(230,212,168,0.75); }
+html, body, .app-root-scroll { scrollbar-width: thin; scrollbar-color: rgba(230,212,168,0.45) transparent; }
 
 /* ── 17. Theme Toggle Button ── */
 .theme-toggle {
@@ -781,6 +854,11 @@ header {
 @keyframes pulse-dot {
   0%, 100% { opacity: 1; box-shadow: 0 0 6px var(--status-ok); }
   50%      { opacity: .5; box-shadow: 0 0 10px var(--status-ok); }
+}
+
+@keyframes lumen-severity-pulse {
+  0%, 100% { transform: scale(1);    opacity: 1; }
+  50%      { transform: scale(1.4);  opacity: 0.55; }
 }
 
 @keyframes breathe1 {

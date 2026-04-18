@@ -201,7 +201,7 @@ export function RulesList({ filterSystem }: { filterSystem?: string } = {}) {
                   background: 'rgba(240,240,250,0.04)', borderRadius: 8, border: '1px solid var(--border-frost)',
                 }}>{icon}</span>
                 <div style={{ flex: 1 }}>
-                  <div style={{ fontFamily: 'var(--f-body)', fontSize: 14, fontWeight: 700, color: theme.text.secondary }}>
+                  <div style={{ fontFamily: 'var(--f-body)', fontSize: 14, fontWeight: 700, color: 'var(--c-champagne)' }}>
                     {system}
                   </div>
                   <div style={{ fontFamily: 'var(--f-body)', fontSize: 11, color: theme.text.muted }}>

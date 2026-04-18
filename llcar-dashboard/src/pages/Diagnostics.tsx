@@ -7,7 +7,6 @@ import { LiveTelemetryRibbon } from '../components/diagnostics/LiveTelemetryRibb
 
 const DiagnosticTwinCanvas = lazy(() => import('../components/three/DiagnosticTwinCanvas'))
 const SmartSphere = lazy(() => import('../components/three/SmartSphere').then(m => ({ default: m.SmartSphere })))
-const VehicleInfo = lazy(() => import('./VehicleInfo').then(m => ({ default: m.VehicleInfo })))
 import { AudioSpectrum } from '../components/panels/AudioSpectrum'
 import { DiagnosisCard } from '../components/panels/DiagnosisCard'
 import { AnomalyTimeline } from '../components/panels/AnomalyTimeline'
@@ -18,8 +17,8 @@ import { useIsMobile } from '../hooks/useIsMobile'
 import { useDashboardStore } from '../stores/dashboardStore'
 import { theme } from '../theme'
 import { useDiagnosticV2 } from '../hooks/useDiagnosticV2'
+import { useDebouncedDiagnoses } from '../hooks/useDebouncedDiagnoses'
 import { DiagnosisCardV2 } from '../components/diagnostics/DiagnosisCardV2'
-import { RecallsPanel } from '../components/panels/RecallsPanel'
 import { EscalationTimeline } from '../components/panels/EscalationTimeline'
 import { CorrelationPanel } from '../components/panels/CorrelationPanel'
 import { OnboardingTour } from '../components/onboarding/OnboardingTour'
@@ -76,8 +75,10 @@ export function Diagnostics() {
   const vehicleProfile = useDashboardStore(s => s.vehicleProfile)
   const resetVehicle = useDashboardStore(s => s.resetVehicle)
   const { report: v2Report, history: v2History, loading: v2Loading, error: _v2Error, sendFeedback, fetchLatest } = useDiagnosticV2(clientHash, timeRange)
+  const { diagnoses: debouncedDiagnoses, activeCount: debouncedActive, flickeringCount: debouncedFlicker } = useDebouncedDiagnoses(v2Report?.diagnoses)
+  const v2ReportDebounced = v2Report ? { ...v2Report, diagnoses: debouncedDiagnoses } : null
   const [manualLoading, setManualLoading] = useState(false)
-  const [activeSystem, setActiveSystem] = useState<SystemKey | null>(null)
+  const [activeSystem, setActiveSystem] = useState<SystemKey | null>('suspension')
   const [openInsight, setOpenInsight] = useState<string | null>(null)
 
   const v2HistoryAdapted = useMemo<HistoryPoint[]>(() => {
@@ -132,19 +133,34 @@ export function Diagnostics() {
   const accelData = apiData?.accel ?? []
   const audioData = apiData?.audio ?? []
 
-  // Sparklines
+  // Sparklines — данные от сервера. Backend шлёт 1000 точек, фильтруем по timeRange (минуты),
+  // затем downsample до ~40 точек для читаемой кривой.
   const sparklines = useMemo(() => {
     const empty = { suspension: [] as number[], engine: [] as number[], electrical: [] as number[], audio: [] as number[], overall: [] as number[] }
     if (!v2History || v2History.length === 0) return empty
-    const last7 = v2History.slice(-7)
+
+    // Entries отсортированы по убыванию времени (first = новейший). Берём те, что в пределах timeRange.
+    const now = Date.now()
+    const cutoff = now - timeRange * 60 * 1000
+    const inRange = v2History.filter(h => {
+      const t = h.time ? new Date(h.time).getTime() : 0
+      return t >= cutoff
+    })
+    const src = inRange.length >= 2 ? inRange : v2History.slice(0, 60) // fallback: последний час если timeRange узкий
+    // Восходящий порядок по времени
+    const ordered = [...src].sort((a, b) => new Date(a.time).getTime() - new Date(b.time).getTime())
+    // Downsample до 40 точек
+    const target = 40
+    const step = Math.max(1, Math.floor(ordered.length / target))
+    const sampled = ordered.filter((_, i) => i % step === 0).slice(-target)
     return {
-      suspension: last7.map(h => h.suspension_score),
-      engine: last7.map(h => h.engine_score),
-      electrical: last7.map(h => h.electrical_score),
-      audio: last7.map(h => h.audio_score),
-      overall: last7.map(h => h.overall_score),
+      suspension: sampled.map(h => h.suspension_score),
+      engine: sampled.map(h => h.engine_score),
+      electrical: sampled.map(h => h.electrical_score),
+      audio: sampled.map(h => h.audio_score),
+      overall: sampled.map(h => h.overall_score),
     }
-  }, [v2History])
+  }, [v2History, timeRange])
 
   // getScore with clamp [0,100] — защита от -1 sentinel из старого API.
   // Для electrical/audio 0 трактуется как «нет данных» когда нет OBD/микрофона —
@@ -243,7 +259,7 @@ export function Diagnostics() {
           <div style={{ marginTop: 4, display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
             <span style={microLabel}>{timeRangeLabel(timeRange)}</span>
             <div style={{ marginTop: 4 }}>
-              <MiniSparkline data={sparklines.overall} width={150} height={24} fill />
+              <MiniSparkline data={sparklines.overall} width={90} height={20} fill strokeWidth={1} />
             </div>
           </div>
         </div>
@@ -260,9 +276,9 @@ export function Diagnostics() {
       )}
 
       {/* Right diagnoses feed (desktop only) */}
-      {!isMobile && <ActiveDiagnosesFeed report={v2Report} onOpenRule={openRuleDrawer} />}
+      {!isMobile && <ActiveDiagnosesFeed report={v2ReportDebounced} onOpenRule={openRuleDrawer} activeCount={debouncedActive} flickeringCount={debouncedFlicker} />}
 
-      {/* Rules picker — bottom-right corner (desktop only) */}
+      {/* Rules picker — bottom-right только на десктопе (на мобиле рендерим отдельно под сценой) */}
       {!isMobile && <RulesPicker onOpenRule={openRuleDrawer} />}
 
       {/* MOBILE: компактная подпись health + system tabs над канвасом */}
@@ -288,7 +304,7 @@ export function Diagnostics() {
           </div>
           <div style={{ display: 'flex', flexDirection: 'column', gap: 2, alignItems: 'flex-end' }}>
             <span style={{ ...microLabel, fontSize: 8 }}>ЗДОРОВЬЕ · {timeRangeLabel(timeRange)}</span>
-            <MiniSparkline data={sparklines.overall} width={100} height={20} fill />
+            <MiniSparkline data={sparklines.overall} width={100} height={20} fill strokeWidth={1} />
           </div>
         </div>
       )}
@@ -301,15 +317,128 @@ export function Diagnostics() {
 
       {PanelFull}
 
-      <div className="grid grid-cols-12 gap-3" style={{ padding: '1rem' }}>
+      {/* MOBILE: горизонтальная лента табов систем + диагнозы */}
+      {isMobile && (
+        <div style={{
+          display: 'flex',
+          gap: 8,
+          overflowX: 'auto',
+          padding: '10px 12px',
+          scrollbarWidth: 'none',
+          background: 'var(--c-void)',
+          borderBottom: '1px solid rgba(230,212,168,0.12)',
+        }}>
+          {(['suspension', 'engine', 'electrical', 'audio'] as SystemKey[]).map((key) => {
+            const label = { suspension: 'ПОДВЕСКА', engine: 'ДВИГАТЕЛЬ', electrical: 'ЭЛЕКТРИКА', audio: 'АУДИО' }[key]
+            const val = getScore(key)
+            const active = activeSystem === key
+            const dotColor = val == null ? 'rgba(184,190,199,0.35)'
+              : val >= 80 ? '#6BE08F'
+              : val >= 50 ? '#E0B46B'
+              : '#FF4A4A'
+            return (
+              <button
+                key={key}
+                onClick={() => setActiveSystem(key)}
+                style={{
+                  flexShrink: 0,
+                  minWidth: 96,
+                  padding: '8px 12px',
+                  border: 'none',
+                  borderRadius: 4,
+                  background: active ? 'rgba(200,180,142,0.14)' : 'transparent',
+                  boxShadow: active ? 'inset 2px 0 0 0 #E6D4A8' : 'none',
+                  cursor: 'pointer',
+                  textAlign: 'left',
+                  display: 'flex',
+                  flexDirection: 'column',
+                  gap: 4,
+                }}
+              >
+                <span style={{
+                  display: 'inline-flex', alignItems: 'center', gap: 4,
+                  fontSize: 7, fontFamily: 'var(--f-body)', fontWeight: 700,
+                  color: active ? '#F8ECC8' : '#E6D4A8',
+                  textTransform: 'uppercase', letterSpacing: '0.14em',
+                }}>
+                  <span aria-hidden style={{
+                    width: 5, height: 5, borderRadius: '50%',
+                    background: dotColor,
+                    boxShadow: `0 0 3px ${dotColor}`,
+                    flexShrink: 0,
+                  }} />
+                  {label}
+                </span>
+                <span style={{
+                  fontSize: 14, fontFamily: 'var(--f-mono)', fontWeight: 400,
+                  color: val == null ? 'var(--c-spectral-muted)' : (active ? '#FFFFFF' : '#EFF2F7'),
+                  lineHeight: 1, fontVariantNumeric: 'tabular-nums',
+                }}>{val == null ? '—' : val}</span>
+              </button>
+            )
+          })}
+        </div>
+      )}
+
+      {/* MOBILE: компактная панель диагнозов */}
+      {isMobile && (v2ReportDebounced?.diagnoses?.length ?? 0) > 0 && (
+        <div style={{
+          padding: '10px 12px',
+          background: 'var(--c-void)',
+          borderBottom: '1px solid rgba(230,212,168,0.12)',
+        }}>
+          <div style={{
+            fontSize: 8, fontFamily: 'var(--f-display)', fontWeight: 700,
+            color: '#F2E4C2', letterSpacing: '0.28em', textTransform: 'uppercase',
+            marginBottom: 6,
+          }}>
+            Диагнозы · {debouncedActive ?? v2ReportDebounced?.diagnoses?.length}
+          </div>
+          <div style={{ display: 'flex', flexDirection: 'column', gap: 6 }}>
+            {v2ReportDebounced?.diagnoses?.slice(0, 5).map((d, i) => {
+              const conf = Math.round((d.confidence ?? 0) > 1 ? (d.confidence ?? 0) : (d.confidence ?? 0) * 100)
+              const sevColor = conf >= 70 ? '#FF4A4A' : conf >= 40 ? '#E0B46B' : '#6BE08F'
+              const ruleName = d.rule_name
+              return (
+                <div key={i}
+                  onClick={() => ruleName && openRuleDrawer(ruleName)}
+                  style={{
+                    display: 'flex', alignItems: 'flex-start', gap: 8,
+                    padding: '6px 0',
+                    borderBottom: '1px solid var(--c-spectral-divider)',
+                    cursor: ruleName ? 'pointer' : 'default',
+                  }}>
+                  <span style={{
+                    width: 6, height: 6, borderRadius: '50%',
+                    background: sevColor,
+                    marginTop: 6, flexShrink: 0,
+                    boxShadow: `0 0 4px ${sevColor}`,
+                  }} />
+                  <div style={{ flex: 1, minWidth: 0 }}>
+                    <div style={{ fontSize: 10, fontFamily: 'var(--f-display)', color: '#B8BEC7', lineHeight: 1.3 }}>
+                      {d.display || ruleName || 'Диагноз'}
+                    </div>
+                    <div style={{ fontSize: 8, fontFamily: 'var(--f-mono)', color: 'var(--c-spectral-faint)', letterSpacing: '0.06em' }}>
+                      {d.status ?? ''} {d.status ? '·' : ''} {conf}%
+                    </div>
+                  </div>
+                </div>
+              )
+            })}
+          </div>
+        </div>
+      )}
+
+      {/* MOBILE: RulesPicker после диагнозов */}
+      {isMobile && (
+        <div style={{ padding: '10px 12px', background: 'var(--c-void)', borderBottom: '1px solid rgba(230,212,168,0.12)' }}>
+          <RulesPicker onOpenRule={openRuleDrawer} />
+        </div>
+      )}
+
+      <div className="road-underlay grid grid-cols-12 gap-3" style={{ padding: '1rem' }}>
         {activeSystem === null && (
           <>
-            <div className="col-span-12">
-              <Suspense fallback={null}>
-                <VehicleInfo />
-              </Suspense>
-            </div>
-
             <div className="col-span-12">
               {useV2Api ? (
                 <DiagnosisCardV2 report={v2Report} loading={v2Loading} onFeedback={sendFeedback} clientHash={clientHash} />
@@ -349,13 +478,6 @@ export function Diagnostics() {
                   </div>
                   {openInsight === 'corr' && <div style={{ marginTop: 8 }} onClick={e => e.stopPropagation()}><CorrelationPanel clientHash={clientHash} /></div>}
                 </div>
-                <div className="glass-panel" style={{ padding: '10px 14px', cursor: 'pointer' }} onClick={() => setOpenInsight(openInsight === 'recall' ? null : 'recall')}>
-                  <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-                    <span style={{ fontSize: 12, fontFamily: 'var(--f-body)', fontWeight: 600, color: theme.text.primary }}>Отзывные</span>
-                    <span style={{ fontSize: 10, color: theme.accent.cyan }}>{openInsight === 'recall' ? '▾' : '▸'}</span>
-                  </div>
-                  {openInsight === 'recall' && <div style={{ marginTop: 8 }} onClick={e => e.stopPropagation()}><RecallsPanel recalls={v2Report.recalls || []} /></div>}
-                </div>
               </div>
             )}
 
@@ -385,6 +507,18 @@ export function Diagnostics() {
               }>
                 <SmartSphere data={accelData} />
               </Suspense>
+            </div>
+            {useV2Api && v2Report?.baseline_status && (
+              <div className="col-span-12 lg:col-span-5">
+                <BaselineStatus
+                  ready={v2Report.baseline_status.ready}
+                  totalSamples={v2Report.baseline_status.total_samples}
+                  samplesNeeded={v2Report.baseline_status.samples_needed}
+                />
+              </div>
+            )}
+            <div className="col-span-12 lg:col-span-7">
+              <CorrelationPanel clientHash={clientHash} />
             </div>
             <div className="col-span-12">
               <RulesList filterSystem="Подвеска" />
