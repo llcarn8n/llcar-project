@@ -523,10 +523,6 @@ export function Diagnostics() {
             <div className="col-span-12 lg:col-span-8">
               <RulesList />
             </div>
-
-            <div className="col-span-12">
-              <ChatPanel />
-            </div>
           </>
         )}
 
