@@ -265,10 +265,10 @@ export function Diagnostics() {
         </div>
       )}
 
-      {/* SkyOrb (desktop only) — слева сверху */}
+      {/* SkyOrb (desktop only) */}
       {!isMobile && (
         <div className="lumen-sky-orb" style={{
-          position: 'absolute', top: 64, left: 210, zIndex: 15,
+          position: 'absolute', top: 64, right: 18, zIndex: 15,
           pointerEvents: 'auto',
         }}>
           <SkyOrb />
