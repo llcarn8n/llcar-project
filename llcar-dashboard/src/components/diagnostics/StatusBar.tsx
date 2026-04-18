@@ -85,7 +85,7 @@ function StatusSegment({ label, withDivider, children }: StatusSegmentProps) {
         fontSize: 10,
         fontFamily: 'var(--f-display)',
         fontWeight: 700,
-        color: 'rgba(239,242,247,0.45)',
+        color: 'var(--c-champagne)',
         textTransform: 'uppercase',
         letterSpacing: '0.16em',
         lineHeight: 1,
@@ -165,7 +165,7 @@ export function StatusBar({
               {drive.label}
               <span style={{
                 fontSize: 11, fontWeight: 500,
-                color: 'rgba(184,190,199,0.7)',
+                color: '#FFFFFF',
                 textTransform: 'none',
                 letterSpacing: '0.02em',
                 marginLeft: 6,
@@ -202,18 +202,18 @@ export function StatusBar({
                 fontSize: 10,
                 fontFamily: 'var(--f-mono)',
                 fontWeight: 500,
-                color: 'var(--c-spectral-muted)',
+                color: '#FFFFFF',
                 letterSpacing: '0.08em',
                 lineHeight: 1,
                 whiteSpace: 'nowrap',
                 display: 'inline-flex',
                 alignItems: 'center',
                 gap: 4,
-                opacity: 0.85,
+                opacity: 0.9,
               }}
               title="Сменить автомобиль"
-              onMouseEnter={e => { e.currentTarget.style.color = 'var(--c-spectral)'; e.currentTarget.style.opacity = '1' }}
-              onMouseLeave={e => { e.currentTarget.style.color = 'var(--c-spectral-muted)'; e.currentTarget.style.opacity = '0.85' }}
+              onMouseEnter={e => { e.currentTarget.style.color = 'var(--c-champagne)'; e.currentTarget.style.opacity = '1' }}
+              onMouseLeave={e => { e.currentTarget.style.color = '#FFFFFF'; e.currentTarget.style.opacity = '0.9' }}
             >
               {vehicleProfile.brand} {vehicleProfile.model}
               <span style={{
@@ -237,7 +237,7 @@ export function StatusBar({
               fontSize: 9,
               fontFamily: 'var(--f-mono)',
               fontWeight: 500,
-              color: 'var(--c-spectral-muted)',
+              color: '#FFFFFF',
               letterSpacing: '0.14em',
               textTransform: 'uppercase',
               lineHeight: 1,
@@ -250,7 +250,7 @@ export function StatusBar({
             fontSize: 9,
             fontFamily: 'var(--f-mono)',
             fontWeight: 400,
-            color: 'var(--c-spectral-muted)',
+            color: '#FFFFFF',
             letterSpacing: '0.06em',
             lineHeight: 1,
             whiteSpace: 'nowrap',
