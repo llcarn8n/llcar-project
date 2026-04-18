@@ -112,10 +112,13 @@ export function classifyByNode(nodeName: string): MaterialCategory | null {
   // Door handles
   if (n.includes('ручка_двери')) return 'chrome'
 
-  // Engine / drivetrain / HV system
+  // Engine / drivetrain / chassis / HV system
   if (n.includes('мотор') || n.includes('двигатель') || n.includes('проводка') ||
       n.includes('батарея') || n.includes('полуось') || n.includes('пневмоподвеска') ||
-      n.includes('электромотор') || n.includes('инвертор')) return 'engine'
+      n.includes('электромотор') || n.includes('инвертор') ||
+      n.includes('стабилизатор') || n.includes('подрамник') || n.includes('рычаг') ||
+      n.includes('картер') || n.includes('редуктор') || n.includes('выхлоп') ||
+      n.includes('коллектор') || n.includes('радиатор')) return 'engine'
 
   return null // fallback to material-based classification
 }
@@ -235,13 +238,13 @@ const BASE_DEFS: Record<MaterialCategory, MatDef> = {
     roughness: 0.7,
   },
   engine: {
-    color: GRAPHITE,
+    color: INTERIOR_BEIGE,
     wireframe: false,
     opacity: 1.0,
     emissive: '#000000',
     emissiveIntensity: 0.0,
-    metalness: 0.55,
-    roughness: 0.45,
+    metalness: 0.15,
+    roughness: 0.7,
   },
   light: {
     color: SPECTRAL,
@@ -309,6 +312,7 @@ function buildMaterial(def: MatDef, state: MatState): THREE.Material {
     emissiveIntensity,
     metalness: def.metalness,
     roughness: def.roughness,
+    side: THREE.DoubleSide,
   })
 }
 

@@ -20,7 +20,7 @@ export function FeedbackButtons({ ruleName: _ruleName, onFeedback }: FeedbackBut
   if (sent) {
     return (
       <div style={{
-        fontSize: 10, fontFamily: "'Rajdhani', sans-serif", color: theme.accent.cyan,
+        fontSize: 10, fontFamily: "var(--f-body)", color: theme.accent.cyan,
         padding: '4px 8px', textAlign: 'center',
         background: `${theme.accent.cyan}08`, border: `1px solid ${theme.accent.cyan}20`, borderRadius: 2,
       }}>
@@ -35,7 +35,7 @@ export function FeedbackButtons({ ruleName: _ruleName, onFeedback }: FeedbackBut
         onClick={() => handleClick('confirmed')}
         disabled={sending}
         style={{
-          flex: 1, padding: '4px 8px', fontSize: 10, fontFamily: "'Rajdhani', sans-serif",
+          flex: 1, padding: '4px 8px', fontSize: 10, fontFamily: "var(--f-body)",
           fontWeight: 600, letterSpacing: '0.05em', cursor: 'pointer',
           color: theme.status.ok, background: `${theme.status.ok}10`,
           border: `1px solid ${theme.status.ok}30`, borderRadius: 2,
@@ -48,7 +48,7 @@ export function FeedbackButtons({ ruleName: _ruleName, onFeedback }: FeedbackBut
         onClick={() => handleClick('dismissed')}
         disabled={sending}
         style={{
-          flex: 1, padding: '4px 8px', fontSize: 10, fontFamily: "'Rajdhani', sans-serif",
+          flex: 1, padding: '4px 8px', fontSize: 10, fontFamily: "var(--f-body)",
           fontWeight: 600, letterSpacing: '0.05em', cursor: 'pointer',
           color: theme.status.warning, background: `${theme.status.warning}10`,
           border: `1px solid ${theme.status.warning}30`, borderRadius: 2,

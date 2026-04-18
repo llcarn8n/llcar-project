@@ -20,13 +20,13 @@ export function NextSteps({ steps }: NextStepsProps) {
             <span style={{
               width: 20, height: 20, borderRadius: '50%', flexShrink: 0,
               display: 'flex', alignItems: 'center', justifyContent: 'center',
-              fontSize: 10, fontFamily: "'Orbitron', sans-serif", fontWeight: 600,
+              fontSize: 10, fontFamily: "var(--f-display)", fontWeight: 600,
               color: theme.accent.cyan, border: `1px solid ${theme.accent.cyan}30`,
               background: `${theme.accent.cyan}08`,
             }}>
               {i + 1}
             </span>
-            <span style={{ fontSize: 12, fontFamily: "'Rajdhani', sans-serif", color: theme.text.secondary, lineHeight: 1.4 }}>
+            <span style={{ fontSize: 12, fontFamily: "var(--f-body)", color: theme.text.secondary, lineHeight: 1.4 }}>
               {step}
             </span>
           </div>

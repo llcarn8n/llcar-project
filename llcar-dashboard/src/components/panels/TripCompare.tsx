@@ -36,10 +36,10 @@ export function TripCompare({ history }: TripCompareProps) {
 
       {/* Date headers */}
       <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: 10, padding: '0 4px' }}>
-        <span style={{ fontSize: 9, fontFamily: "'Orbitron', sans-serif", color: theme.text.muted, letterSpacing: '0.1em' }}>
+        <span style={{ fontSize: 9, fontFamily: "var(--f-display)", color: theme.text.muted, letterSpacing: '0.1em' }}>
           {oldDate}
         </span>
-        <span style={{ fontSize: 9, fontFamily: "'Orbitron', sans-serif", color: theme.accent.cyan, letterSpacing: '0.1em' }}>
+        <span style={{ fontSize: 9, fontFamily: "var(--f-display)", color: theme.accent.cyan, letterSpacing: '0.1em' }}>
           {newDate}
         </span>
       </div>
@@ -56,7 +56,7 @@ export function TripCompare({ history }: TripCompareProps) {
           return (
             <div key={key} style={{ display: 'flex', alignItems: 'center', gap: 6 }}>
               {/* Label */}
-              <span style={{ width: 65, fontSize: 10, fontFamily: "'Rajdhani', sans-serif", color: theme.text.secondary }}>
+              <span style={{ width: 65, fontSize: 10, fontFamily: "var(--f-body)", color: theme.text.secondary }}>
                 {label}
               </span>
 
@@ -93,7 +93,7 @@ export function TripCompare({ history }: TripCompareProps) {
       {/* Summary */}
       <div style={{
         marginTop: 8, paddingTop: 6, borderTop: '1px solid rgba(0,229,255,0.08)',
-        fontSize: 9, fontFamily: "'Orbitron', sans-serif", color: theme.text.muted,
+        fontSize: 9, fontFamily: "var(--f-display)", color: theme.text.muted,
         textAlign: 'center', letterSpacing: '0.1em',
       }}>
         {history.length} ЗАМЕРОВ ЗА ПЕРИОД

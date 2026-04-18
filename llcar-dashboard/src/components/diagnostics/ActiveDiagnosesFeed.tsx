@@ -27,15 +27,27 @@ const sectionHeaderUnderline: CSSProperties = {
   boxShadow: '0 0 6px rgba(210,188,148,0.5)',
 }
 
+interface EvidenceObj {
+  type?: string
+  severity?: string
+  value?: string | number
+  confidence?: number
+  details?: string
+}
+
+type EvidenceItem = string | EvidenceObj
+
 interface Diagnosis {
   rule?: string
   rule_name?: string
   display?: string
   status?: string
   confidence?: number
-  evidence?: string[]
+  evidence?: EvidenceItem[]
   repair_roadmap?: string[]
   price_range?: string
+  _flickering?: boolean
+  _missedSnapshots?: number
 }
 
 interface Report {
@@ -45,31 +57,40 @@ interface Report {
 interface Props {
   report: Report | null | undefined
   onOpenRule: (ruleName: string) => void
+  activeCount?: number
+  flickeringCount?: number
 }
 
-export function ActiveDiagnosesFeed({ report, onOpenRule }: Props) {
+export function ActiveDiagnosesFeed({ report, onOpenRule, activeCount, flickeringCount }: Props) {
   const diagnoses = report?.diagnoses ?? []
+  const headerCount = activeCount !== undefined && flickeringCount !== undefined
+    ? (flickeringCount > 0 ? `${activeCount} активно · ${flickeringCount} мерцают` : `${activeCount} активно`)
+    : `${diagnoses.length}`
 
   return (
     <div
       className="lumen-diag-feed"
       style={{
         position: 'absolute',
-        top: 320,
-        left: 8,
-        bottom: 100,
-        width: 170,
+        top: 200,
+        right: 8,
+        bottom: 440,
+        width: 340,
         display: 'flex',
         flexDirection: 'column',
-        alignItems: 'center',
-        textAlign: 'center',
+        alignItems: 'stretch',
+        textAlign: 'left',
         gap: 10,
         zIndex: 15,
+        padding: '14px 12px',
+        background: 'transparent',
+        border: 'none',
+        backdropFilter: 'none',
       }}
-      data-hud-left-column
+      data-hud-right-column
     >
       <div style={sectionHeaderWrap}>
-        <span style={sectionHeaderText}>Диагнозы · {diagnoses.length}</span>
+        <span style={sectionHeaderText}>Диагнозы · {headerCount}</span>
         <div style={sectionHeaderUnderline} />
       </div>
 
@@ -77,10 +98,10 @@ export function ActiveDiagnosesFeed({ report, onOpenRule }: Props) {
         style={{
           display: 'flex',
           flexDirection: 'column',
+          gap: 4,
           overflowY: 'auto',
           minHeight: 0,
-          flex: '0 1 auto',
-          maxHeight: 344,
+          flex: '1 1 auto',
           paddingTop: 4,
         }}
       >
@@ -99,7 +120,7 @@ export function ActiveDiagnosesFeed({ report, onOpenRule }: Props) {
             Нет активных диагнозов.
           </div>
         )}
-        {diagnoses.slice(0, 4).map((d, i) => {
+        {diagnoses.map((d, i) => {
           const confRaw = d.confidence ?? 0
           const confNorm = confRaw > 1 ? confRaw : confRaw * 100
           const conf = Math.max(0, Math.min(100, Math.round(confNorm)))
@@ -113,24 +134,25 @@ export function ActiveDiagnosesFeed({ report, onOpenRule }: Props) {
               role={clickable ? 'button' : undefined}
               tabIndex={clickable ? 0 : undefined}
               onKeyDown={clickable ? (e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); onOpenRule(ruleName!) } } : undefined}
-              title={clickable ? 'Открыть детали правила' : undefined}
               style={{
                 display: 'flex',
                 flexDirection: 'column',
-                alignItems: 'center',
-                textAlign: 'center',
-                gap: 6,
+                alignItems: 'stretch',
+                textAlign: 'left',
+                gap: 3,
                 position: 'relative',
-                padding: '10px 2px 10px 2px',
+                padding: '6px 4px 6px 4px',
                 borderBottom: '1px solid var(--c-spectral-divider)',
                 cursor: clickable ? 'pointer' : 'default',
-                transition: 'background 160ms var(--ease-hud)',
+                transition: 'background 160ms var(--ease-hud), opacity 200ms var(--ease-hud)',
                 width: '100%',
+                opacity: d._flickering ? 0.45 : 1,
               }}
+              title={clickable ? (d._flickering ? 'Диагноз мерцает — пропущено ' + d._missedSnapshots + ' снимка(-ов). Клик — детали.' : 'Открыть детали правила') : undefined}
             >
-              <div style={{ display: 'flex', alignItems: 'flex-start', justifyContent: 'center', gap: 8 }}>
-                <DataDot severity={sev} size={6} style={{ marginTop: 4 }} />
-                <div style={{ minWidth: 0 }}>
+              <div style={{ display: 'flex', alignItems: 'flex-start', justifyContent: 'flex-start', gap: 8 }}>
+                <DataDot severity={sev} size={6} style={{ marginTop: 4, flexShrink: 0 }} />
+                <div style={{ minWidth: 0, flex: 1 }}>
                   <div
                     style={{
                       fontSize: 12,
@@ -154,44 +176,6 @@ export function ActiveDiagnosesFeed({ report, onOpenRule }: Props) {
                   >
                     {d.status ?? ''} {d.status ? '·' : ''} {conf}%
                   </div>
-                  {Array.isArray(d.evidence) && d.evidence.length > 0 && (
-                    <div style={{
-                      marginTop: 4,
-                      fontSize: 10,
-                      fontFamily: 'var(--f-body)',
-                      color: 'var(--c-spectral-faint)',
-                      lineHeight: 1.35,
-                    }}>
-                      {d.evidence.slice(0, 2).map((e, k) => (
-                        <div key={k} style={{ marginBottom: 1 }}>· {e}</div>
-                      ))}
-                    </div>
-                  )}
-                  {Array.isArray(d.repair_roadmap) && d.repair_roadmap.length > 0 && (
-                    <div style={{
-                      marginTop: 4,
-                      display: 'flex',
-                      alignItems: 'baseline',
-                      gap: 6,
-                      fontSize: 10,
-                      fontFamily: 'var(--f-body)',
-                      lineHeight: 1.3,
-                    }}>
-                      <span style={{
-                        fontSize: 8, fontWeight: 600, color: '#E6D4A8',
-                        letterSpacing: '0.18em', textTransform: 'uppercase',
-                      }}>Ремонт</span>
-                      <span style={{ color: 'var(--c-spectral-muted)', flex: 1, minWidth: 0 }}>
-                        {d.repair_roadmap[0]}
-                      </span>
-                      {d.price_range && (
-                        <span style={{
-                          fontFamily: 'var(--f-mono)', fontSize: 9,
-                          color: 'var(--c-spectral)', whiteSpace: 'nowrap',
-                        }}>{d.price_range}</span>
-                      )}
-                    </div>
-                  )}
                 </div>
               </div>
 

@@ -18,7 +18,7 @@ interface DTCFull {
 const CAN_DRIVE_MAP: Record<string, { text: string; color: string; icon: string }> = {
   no_stop: { text: 'Остановитесь! Движение опасно.', color: theme.status.critical, icon: '\u{1F6D1}' },
   caution: { text: 'Двигайтесь осторожно, избегайте нагрузок.', color: theme.status.warning, icon: '\u26A0' },
-  check: { text: 'Проверьте при первой возможности.', color: theme.accent.cyan, icon: '\u{1F50D}' },
+  check: { text: 'Проверьте при первой возможности.', color: 'var(--c-champagne)', icon: '\u{1F50D}' },
   ok: { text: 'Можно продолжать движение.', color: theme.status.ok, icon: '\u2705' },
 }
 
@@ -85,32 +85,32 @@ export function ErrorCodes() {
         {selectedCode && (
           <GlassPanel style={{ marginBottom: 12 }}>
             <div className="hud-header mb-3">
-              <span style={{ color: theme.accent.cyan }}>{selectedCode}</span>
+              <span style={{ color: 'var(--c-champagne)' }}>{selectedCode}</span>
             </div>
 
             {/* Category */}
             <div style={{
               padding: '8px 12px',
               borderRadius: 4,
-              background: 'rgba(0,229,255,0.03)',
-              border: '1px solid rgba(0,229,255,0.08)',
+              background: 'var(--c-champagne-faint)',
+              border: '1px solid var(--c-champagne-border)',
               marginBottom: 12,
             }}>
               <div style={{
-                fontFamily: "'Rajdhani', sans-serif",
+                fontFamily: 'var(--f-body)',
                 fontSize: 12,
                 fontWeight: 600,
-                color: theme.text.muted,
+                color: 'var(--c-graphite-muted)',
                 letterSpacing: '0.05em',
                 marginBottom: 2,
               }}>
                 Категория
               </div>
               <div style={{
-                fontFamily: "'Rajdhani', sans-serif",
+                fontFamily: 'var(--f-body)',
                 fontSize: 14,
                 fontWeight: 600,
-                color: theme.text.secondary,
+                color: 'var(--c-graphite)',
               }}>
                 {getDTCCategory(selectedCode)}
               </div>
@@ -135,17 +135,17 @@ export function ErrorCodes() {
                   <span style={{ fontSize: 24 }}>{drive.icon}</span>
                   <div>
                     <div style={{
-                      fontFamily: "'Rajdhani', sans-serif",
+                      fontFamily: 'var(--f-body)',
                       fontSize: 11,
                       fontWeight: 600,
-                      color: theme.text.muted,
+                      color: 'var(--c-graphite-muted)',
                       letterSpacing: '0.05em',
                       textTransform: 'uppercase' as const,
                     }}>
                       Можно ли ехать?
                     </div>
                     <div style={{
-                      fontFamily: "'Rajdhani', sans-serif",
+                      fontFamily: 'var(--f-body)',
                       fontSize: 14,
                       fontWeight: 700,
                       color: drive.color,
@@ -162,13 +162,13 @@ export function ErrorCodes() {
               <div style={{
                 padding: '8px 12px',
                 borderRadius: 4,
-                background: 'rgba(0,229,255,0.02)',
-                border: '1px solid rgba(0,229,255,0.06)',
-                fontFamily: "'Rajdhani', sans-serif",
+                background: 'var(--c-champagne-faint)',
+                border: '1px solid var(--c-graphite-divider)',
+                fontFamily: 'var(--f-body)',
                 fontSize: 12,
-                color: theme.text.muted,
+                color: 'var(--c-graphite-muted)',
               }}>
-                Для <strong style={{ color: theme.text.secondary }}>{vehicleProfile.brand} {vehicleProfile.model}</strong> могут
+                Для <strong style={{ color: 'var(--c-graphite)' }}>{vehicleProfile.brand} {vehicleProfile.model}</strong> могут
                 быть дополнительные рекомендации — раздел пополняется.
               </div>
             )}
@@ -179,9 +179,9 @@ export function ErrorCodes() {
         <GlassPanel>
           <div className="hud-header mb-3">Несколько кодов сразу</div>
           <div style={{
-            fontFamily: "'Rajdhani', sans-serif",
+            fontFamily: 'var(--f-body)',
             fontSize: 12,
-            color: theme.text.muted,
+            color: 'var(--c-graphite-muted)',
             marginBottom: 8,
             lineHeight: 1.4,
           }}>
@@ -196,12 +196,12 @@ export function ErrorCodes() {
               style={{
                 flex: 1,
                 padding: '10px 14px',
-                fontFamily: "'Orbitron', sans-serif",
+                fontFamily: 'var(--f-display)',
                 fontSize: 13,
                 fontWeight: 600,
-                color: 'var(--text-primary)',
-                background: 'rgba(0,229,255,0.04)',
-                border: '1px solid rgba(0,229,255,0.15)',
+                color: 'var(--c-graphite)',
+                background: 'var(--c-champagne-soft)',
+                border: '1px solid var(--c-champagne-border)',
                 borderRadius: 4,
                 outline: 'none',
                 letterSpacing: '0.1em',
@@ -215,12 +215,12 @@ export function ErrorCodes() {
               }}
               style={{
                 padding: '10px 20px',
-                fontFamily: "'Orbitron', sans-serif",
+                fontFamily: 'var(--f-display)',
                 fontSize: 11,
                 fontWeight: 700,
                 letterSpacing: '0.1em',
-                color: '#0C1220',
-                background: `linear-gradient(135deg, ${theme.accent.cyan}, ${theme.accent.teal})`,
+                color: 'var(--c-void)',
+                background: 'linear-gradient(135deg, var(--c-champagne), var(--c-champagne-hi))',
                 border: 'none',
                 borderRadius: 4,
                 cursor: 'pointer',
@@ -240,14 +240,14 @@ export function ErrorCodes() {
               gap: 12,
               padding: '16px 12px',
               borderRadius: 4,
-              background: 'rgba(0,229,255,0.02)',
-              border: '1px solid rgba(0,229,255,0.06)',
+              background: 'var(--c-champagne-faint)',
+              border: '1px solid var(--c-graphite-divider)',
             }}>
               <span style={{ fontSize: 36, opacity: 0.4 }}>&#x1F4CA;</span>
               <div style={{
-                fontFamily: "'Rajdhani', sans-serif",
+                fontFamily: 'var(--f-body)',
                 fontSize: 12,
-                color: theme.text.muted,
+                color: 'var(--c-graphite-muted)',
                 lineHeight: 1.4,
               }}>
                 Мульти-DTC анализ с привязкой к ситуациям — скоро.

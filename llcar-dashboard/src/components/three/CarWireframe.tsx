@@ -9,6 +9,7 @@ import {
   getHoloMaterial,
   type MaterialCategory,
 } from './materialClassifier'
+import { headlightOrigin } from './AccelWaves'
 import { resolvePartByNode } from '../../data/partCatalog'
 import { useDashboardStore } from '../../stores/dashboardStore'
 import type { PartSpec } from '../../types/rules'
@@ -57,19 +58,30 @@ function findMeshInAncestors(obj: THREE.Object3D | null): THREE.Mesh | null {
 }
 
 // Multi-layer hit-test: outer meshes (body, hood) often occlude inner parts
-// (engine, battery, HV wiring). Walk intersections sorted by distance and pick
-// the first one that resolves to a PartSpec in its ancestry.
+// (engine, battery, HV wiring). Walk intersections and prefer deeper non-body
+// hits (engine/interior/chassis) over the first body hit, so hover reveals
+// parts behind the hood/body.
 function pickPartFromIntersections(
   intersections: ThreeEvent<PointerEvent>['intersections'],
 ): { spec: PartSpec; node: THREE.Object3D; mesh: THREE.Mesh } | null {
+  let firstBody: { spec: PartSpec; node: THREE.Object3D; mesh: THREE.Mesh } | null = null
+  const debug: { name: string; cat: string; hasSpec: boolean }[] = []
   for (const hit of intersections) {
-    const found = findPartSpecInAncestors(hit.object)
-    if (!found) continue
     const mesh = findMeshInAncestors(hit.object)
-    if (!mesh) continue
+    const cat = (mesh?.userData?.materialCategory as string | undefined) ?? '—'
+    const found = findPartSpecInAncestors(hit.object)
+    debug.push({ name: hit.object.name || mesh?.name || '?', cat, hasSpec: !!found })
+    if (!found || !mesh) continue
+    // Body/chrome/glass layers — запомним как fallback, но ищем что-то глубже
+    if (cat === 'body' || cat === 'chrome' || cat === 'glass') {
+      if (!firstBody) firstBody = { spec: found.spec, node: found.node, mesh }
+      continue
+    }
+    if (typeof window !== 'undefined') (window as any).__lastHover = debug
     return { spec: found.spec, node: found.node, mesh }
   }
-  return null
+  if (typeof window !== 'undefined') (window as any).__lastHover = debug
+  return firstBody
 }
 
 // Wheel assembly node name patterns per corner
@@ -165,6 +177,7 @@ export function CarWireframe({ activeSystem = null, onWheelRefs }: CarWireframeP
     let totalNamedNodes = 0
     let partSpecMatches = 0
 
+    const drlMeshes: THREE.Mesh[] = []
     clone.traverse((child) => {
       // Attach partSpec to any named object (groups can carry spec too).
       if (child.name) {
@@ -194,8 +207,49 @@ export function CarWireframe({ activeSystem = null, onWheelRefs }: CarWireframeP
         }
         // Suspension ref
         if (nl.includes('пневмоподвеска')) sRef = child
+        // Headlight DRL meshes ("Кузов#2_—_Дневные_ходовые_*") — источник света на дорогу
+        if (nl.includes('дневные_ходовые') || nl.includes('дхо') || nl.includes('ходовой_огон')) {
+          drlMeshes.push(child)
+        }
       }
     })
+
+    // Compute left/right DRL world positions after mount (parent chain needs world matrix)
+    if (drlMeshes.length > 0) {
+      queueMicrotask(() => {
+        const globalBox = new THREE.Box3()
+        const leftMeshes: THREE.Mesh[] = []
+        const rightMeshes: THREE.Mesh[] = []
+        for (const m of drlMeshes) {
+          m.updateWorldMatrix(true, false)
+          const b = new THREE.Box3().setFromObject(m)
+          const c = b.getCenter(new THREE.Vector3())
+          if (c.x < 0) leftMeshes.push(m); else rightMeshes.push(m)
+          globalBox.expandByObject(m)
+        }
+        const computeCenter = (list: THREE.Mesh[]): THREE.Vector3 | null => {
+          if (list.length === 0) return null
+          const box = new THREE.Box3()
+          for (const m of list) box.expandByObject(m)
+          return box.getCenter(new THREE.Vector3())
+        }
+        const leftC = computeCenter(leftMeshes)
+        const rightC = computeCenter(rightMeshes)
+        if (leftC && rightC) {
+          headlightOrigin.left.copy(leftC)
+          headlightOrigin.right.copy(rightC)
+          headlightOrigin.ready = true
+        } else if (drlMeshes.length > 0) {
+          // Fallback: use global bbox split by median X
+          const center = globalBox.getCenter(new THREE.Vector3())
+          const min = globalBox.min
+          const max = globalBox.max
+          headlightOrigin.left.set(min.x + (center.x - min.x) / 2, center.y, max.z)
+          headlightOrigin.right.set(center.x + (max.x - center.x) / 2, center.y, max.z)
+          headlightOrigin.ready = true
+        }
+      })
+    }
     console.table(catCount)
     console.log(`[CarWireframe] partSpec coverage: ${partSpecMatches} / ${totalNamedNodes} named nodes`)
     return { clonedScene: clone, wheelRefs: wRefs, suspRef: sRef }

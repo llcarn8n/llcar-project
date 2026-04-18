@@ -123,10 +123,12 @@ export function useDiagnosticV2(clientHash: string, timeRange: number = 10080) {
   // Fetch history
   const fetchHistory = useCallback(async (period = '7d') => {
     try {
-      const res = await fetch(`/api/v2/history/?client_hash=${clientHash}&period=${period}`)
+      // Backend expects ?client_hash= (param name matters, days/minutes ignored — returns full 1000pt history)
+      const days = period === '1h' || period === '24h' ? 1 : period === '30d' ? 30 : 7
+      const res = await fetch(`/api/v2/history/?client_hash=${clientHash}&days=${days}`)
       if (res.ok) {
         const data = await res.json()
-        setHistory(data)
+        setHistory(Array.isArray(data) ? data : [])
       }
     } catch {
       // silent fail

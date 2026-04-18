@@ -24,7 +24,7 @@ export function HealthTrends({ history, trends }: HealthTrendsProps) {
           {emptySystems.map(({ label, color }) => (
             <div key={label} style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
               <span style={{
-                width: 70, fontSize: 11, fontFamily: "'Rajdhani', sans-serif",
+                width: 70, fontSize: 11, fontFamily: "var(--f-body)",
                 color: `${theme.text.muted}80`, letterSpacing: '0.03em',
               }}>
                 {label}
@@ -55,7 +55,7 @@ export function HealthTrends({ history, trends }: HealthTrendsProps) {
         </div>
         <div style={{
           marginTop: 8, textAlign: 'center', fontSize: 9,
-          fontFamily: "'Orbitron', sans-serif", color: `${theme.text.muted}80`, letterSpacing: '0.1em',
+          fontFamily: "var(--f-display)", color: `${theme.text.muted}80`, letterSpacing: '0.1em',
         }}>
           ОЖИДАНИЕ ДАННЫХ
         </div>
@@ -89,7 +89,7 @@ export function HealthTrends({ history, trends }: HealthTrendsProps) {
             <div key={key} style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
               {/* Label */}
               <span style={{
-                width: 70, fontSize: 11, fontFamily: "'Rajdhani', sans-serif",
+                width: 70, fontSize: 11, fontFamily: "var(--f-body)",
                 color: theme.text.secondary, letterSpacing: '0.03em'
               }}>
                 {label}
@@ -133,7 +133,7 @@ export function HealthTrends({ history, trends }: HealthTrendsProps) {
       {/* Data count */}
       <div style={{
         marginTop: 8, textAlign: 'right', fontSize: 9,
-        fontFamily: "'Orbitron', sans-serif", color: theme.text.muted, letterSpacing: '0.1em'
+        fontFamily: "var(--f-display)", color: theme.text.muted, letterSpacing: '0.1em'
       }}>
         {history.length} ЗАМЕРОВ
       </div>

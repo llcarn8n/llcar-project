@@ -127,7 +127,7 @@ export function AudioSpectrum({ data, compact = false }: AudioSpectrumProps) {
     return (
       <GlassPanel>
         <div className="hud-header mb-2">NVH Спектр</div>
-        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', height: compact ? 180 : 260, color: theme.text.muted, fontSize: 12 }}>
+        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', height: compact ? 180 : 260, color: '#FFFFFF', fontSize: 12 }}>
           Нет аудио данных
         </div>
       </GlassPanel>
@@ -141,8 +141,8 @@ export function AudioSpectrum({ data, compact = false }: AudioSpectrumProps) {
       <GlassPanel>
         <div className="hud-header mb-2">NVH Спектр</div>
         <div className="flex items-center gap-2 mb-4">
-          <span className="text-[10px] font-mono" style={{ color: theme.text.muted }}>{data.length} замеров</span>
-          <span className="text-[10px]" style={{ color: theme.text.muted }}>|</span>
+          <span className="text-[10px] font-mono" style={{ color: '#FFFFFF' }}>{data.length} замеров</span>
+          <span className="text-[10px]" style={{ color: '#FFFFFF' }}>|</span>
           <QualityBadge quality={quality} label={qLabel} />
         </div>
 
@@ -155,7 +155,7 @@ export function AudioSpectrum({ data, compact = false }: AudioSpectrumProps) {
               <div key={zone.key}>
                 <div className="flex items-center justify-between mb-1">
                   <span className="text-xs font-medium" style={{ color: zone.color }}>{zone.name}</span>
-                  <span className="text-xs font-mono" style={{ color: theme.text.secondary }}>{val}</span>
+                  <span className="text-xs font-mono" style={{ color: '#FFFFFF' }}>{val}</span>
                 </div>
                 <div className="relative h-4 rounded overflow-hidden" style={{ background: 'rgba(255,255,255,0.03)' }}>
                   <div className="absolute inset-y-0 left-0 rounded transition-all duration-700" style={{
@@ -169,7 +169,7 @@ export function AudioSpectrum({ data, compact = false }: AudioSpectrumProps) {
           })}
         </div>
 
-        <div className="mt-4 text-[9px] px-1" style={{ color: 'rgba(255,255,255,0.2)' }}>
+        <div className="mt-4 text-[9px] px-1" style={{ color: '#FFFFFF' }}>
           Средняя амплитуда по зонам. Мало данных — график появится при &gt;20 замерах.
         </div>
       </GlassPanel>
@@ -191,7 +191,7 @@ export function AudioSpectrum({ data, compact = false }: AudioSpectrumProps) {
     legend: {
       show: !compact,
       top: 6, left: 50,
-      textStyle: { color: theme.text.secondary, fontFamily: "var(--f-mono)", fontSize: 10 },
+      textStyle: { color: '#FFFFFF', fontFamily: "var(--f-mono)", fontSize: 10 },
       itemWidth: 12, itemHeight: 8, itemGap: 10,
     },
     xAxis: {
@@ -201,7 +201,7 @@ export function AudioSpectrum({ data, compact = false }: AudioSpectrumProps) {
       axisLine: { lineStyle: { color: 'rgba(214,235,253,0.19)' } },
       axisTick: { show: false },
       axisLabel: {
-        color: theme.text.secondary,
+        color: '#FFFFFF',
         fontFamily: "var(--f-mono)",
         fontSize: 9,
         interval: Math.max(0, Math.floor(data.length / 6) - 1),
@@ -214,7 +214,7 @@ export function AudioSpectrum({ data, compact = false }: AudioSpectrumProps) {
       max: yMax,
       axisLine: { show: false },
       axisTick: { show: false },
-      axisLabel: { color: theme.text.secondary, fontFamily: "var(--f-mono)", fontSize: 9 },
+      axisLabel: { color: '#FFFFFF', fontFamily: "var(--f-mono)", fontSize: 9 },
       splitLine: { lineStyle: { color: 'rgba(240,240,250,0.08)', type: 'dashed' as const } },
     },
     series: timelineData!.zoneSeries.map((s, idx) => {
@@ -250,8 +250,8 @@ export function AudioSpectrum({ data, compact = false }: AudioSpectrumProps) {
       <div style={{ position: 'relative' }}>
         <div className="hud-header mb-1">NVH Спектр</div>
         <div className="flex items-center gap-2 mb-1">
-          <span className="text-[10px] font-mono" style={{ color: theme.text.muted }}>{data.length} замеров</span>
-          <span className="text-[10px]" style={{ color: theme.text.muted }}>|</span>
+          <span className="text-[10px] font-mono" style={{ color: '#FFFFFF' }}>{data.length} замеров</span>
+          <span className="text-[10px]" style={{ color: '#FFFFFF' }}>|</span>
           <QualityBadge quality={quality} label={qLabel} />
         </div>
         <ReactECharts option={chartOption} style={{ height: compact ? 160 : 300, width: '100%' }} opts={{ renderer: 'canvas' }} notMerge />

@@ -103,7 +103,7 @@ function StatusBadge({ status }: { status: DiagnosticResult['status'] }) {
         display: 'inline-block',
         padding: '2px 8px',
         fontSize: 9,
-        fontFamily: "'Orbitron', sans-serif",
+        fontFamily: "var(--f-display)",
         fontWeight: 600,
         letterSpacing: '0.1em',
         color,
@@ -153,7 +153,7 @@ function CusumDot({ alarm, label }: { alarm: boolean; label: string }) {
       <span
         style={{
           fontSize: 9,
-          fontFamily: "'Rajdhani', sans-serif",
+          fontFamily: "var(--f-body)",
           color: theme.text.secondary,
           letterSpacing: '0.05em',
         }}
@@ -181,7 +181,7 @@ export function DiagnosisCard({ diagnostics, degradation, regime }: DiagnosisCar
             justifyContent: 'center',
             height: 80,
             color: theme.text.muted,
-            fontFamily: "'Rajdhani', sans-serif",
+            fontFamily: "var(--f-body)",
             fontSize: 13,
             letterSpacing: '0.1em',
           }}
@@ -215,7 +215,7 @@ export function DiagnosisCard({ diagnostics, degradation, regime }: DiagnosisCar
           <span
             style={{
               fontSize: 9,
-              fontFamily: "'Orbitron', sans-serif",
+              fontFamily: "var(--f-display)",
               color: theme.accent.cyan,
               letterSpacing: '0.15em',
               opacity: 0.6,
@@ -251,7 +251,7 @@ export function DiagnosisCard({ diagnostics, degradation, regime }: DiagnosisCar
         >
           <span
             style={{
-              fontFamily: "'Rajdhani', sans-serif",
+              fontFamily: "var(--f-body)",
               fontSize: 16,
               fontWeight: 600,
               color: theme.text.primary,
@@ -287,7 +287,7 @@ export function DiagnosisCard({ diagnostics, degradation, regime }: DiagnosisCar
             style={{
               marginTop: 6,
               fontSize: 10,
-              fontFamily: "'Rajdhani', sans-serif",
+              fontFamily: "var(--f-body)",
               color: theme.text.muted,
               letterSpacing: '0.05em',
             }}
@@ -306,7 +306,7 @@ export function DiagnosisCard({ diagnostics, degradation, regime }: DiagnosisCar
           <div
             style={{
               fontSize: 9,
-              fontFamily: "'Orbitron', sans-serif",
+              fontFamily: "var(--f-display)",
               color: theme.text.muted,
               letterSpacing: '0.15em',
               marginBottom: 8,
@@ -343,7 +343,7 @@ export function DiagnosisCard({ diagnostics, degradation, regime }: DiagnosisCar
                   {/* Label */}
                   <span
                     style={{
-                      fontFamily: "'Rajdhani', sans-serif",
+                      fontFamily: "var(--f-body)",
                       fontSize: 12,
                       color: theme.text.secondary,
                       letterSpacing: '0.03em',
@@ -388,7 +388,7 @@ export function DiagnosisCard({ diagnostics, degradation, regime }: DiagnosisCar
           <div
             style={{
               fontSize: 9,
-              fontFamily: "'Orbitron', sans-serif",
+              fontFamily: "var(--f-display)",
               color: theme.text.muted,
               letterSpacing: '0.15em',
               marginBottom: 8,
@@ -443,7 +443,7 @@ export function DiagnosisCard({ diagnostics, degradation, regime }: DiagnosisCar
                 marginTop: 8,
                 padding: '4px 8px',
                 fontSize: 10,
-                fontFamily: "'Rajdhani', sans-serif",
+                fontFamily: "var(--f-body)",
                 fontWeight: 600,
                 color: theme.status.critical,
                 background: `${theme.status.critical}10`,

@@ -226,7 +226,7 @@ export function AudioTab({ data }: AudioTabProps) {
     return (
       <GlassPanel>
         <div className="hud-header mb-3">Аудио анализ</div>
-        <div style={{ textAlign: 'center', padding: '40px 0', color: theme.text.muted, fontFamily: "var(--f-body)", fontSize: 14 }}>
+        <div style={{ textAlign: 'center', padding: '40px 0', color: '#FFFFFF', fontFamily: "var(--f-body)", fontSize: 14 }}>
           Нет данных аудио. Подключите OBD-адаптер и начните поездку.
         </div>
       </GlassPanel>
@@ -243,16 +243,16 @@ export function AudioTab({ data }: AudioTabProps) {
             <div style={{ fontSize: 18, fontWeight: 700, color: statusColor, fontFamily: "var(--f-body)" }}>
               {statusTitle}
             </div>
-            <div style={{ fontSize: 12, color: theme.text.muted, marginTop: 4, lineHeight: 1.5, fontFamily: "var(--f-body)" }}>
+            <div style={{ fontSize: 12, color: '#FFFFFF', marginTop: 4, lineHeight: 1.5, fontFamily: "var(--f-body)" }}>
               {statusDesc}
             </div>
           </div>
           <div style={{ textAlign: 'center' }}>
-            <div style={{ fontSize: 9, textTransform: 'uppercase', letterSpacing: 1, color: theme.text.muted }}>Качество записи</div>
+            <div style={{ fontSize: 9, textTransform: 'uppercase', letterSpacing: 1, color: '#FFFFFF' }}>Качество записи</div>
             <div style={{ fontSize: 28, fontWeight: 700, fontVariantNumeric: 'tabular-nums', color: qualityColor(avgQual), fontFamily: "var(--f-mono)" }}>
               {avgQual}
             </div>
-            <div style={{ fontSize: 10, color: theme.text.muted }}>из 100</div>
+            <div style={{ fontSize: 10, color: '#FFFFFF' }}>из 100</div>
           </div>
         </div>
       </GlassPanel>
@@ -277,7 +277,7 @@ export function AudioTab({ data }: AudioTabProps) {
               <div key={z.name} style={{ marginBottom: 10 }}>
                 <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'baseline', marginBottom: 3 }}>
                   <span style={{ fontSize: 12, color: z.color, fontWeight: 600, fontFamily: "var(--f-body)" }}>{z.name}</span>
-                  <span style={{ fontSize: 9, color: theme.text.muted, fontFamily: "var(--f-mono)" }}>
+                  <span style={{ fontSize: 9, color: '#FFFFFF', fontFamily: "var(--f-mono)" }}>
                     {z.freqList.sort((a, b) => a - b).join(', ')} Гц
                   </span>
                 </div>
@@ -297,7 +297,7 @@ export function AudioTab({ data }: AudioTabProps) {
               </div>
             ))}
             {zoneBars.length === 0 && (
-              <div style={{ color: theme.text.muted, fontSize: 12, textAlign: 'center', padding: 20 }}>Нет частотных данных</div>
+              <div style={{ color: '#FFFFFF', fontSize: 12, textAlign: 'center', padding: 20 }}>Нет частотных данных</div>
             )}
           </div>
         </GlassPanel>
@@ -306,7 +306,7 @@ export function AudioTab({ data }: AudioTabProps) {
       {/* Объяснения зон */}
       <GlassPanel>
         <div className="hud-header mb-2">Что означают зоны</div>
-        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 8, fontFamily: "var(--f-body)", fontSize: 12, color: theme.text.muted, lineHeight: 1.5 }}>
+        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 8, fontFamily: "var(--f-body)", fontSize: 12, color: '#FFFFFF', lineHeight: 1.5 }}>
           <div><span style={{ color: '#60a5fa', fontWeight: 600 }}>Дорога (&lt;100 Гц)</span> — шум покрытия, колёс, аэродинамики. Норма для любого авто.</div>
           <div><span style={{ color: '#4ade80', fontWeight: 600 }}>Двигатель (100–300 Гц)</span> — рабочий гул мотора. Рост = износ опор, выхлопа.</div>
           <div><span style={{ color: '#f59e0b', fontWeight: 600 }}>Навесное (300–1000 Гц)</span> — генератор, компрессор, помпа. Свист = ремень или подшипник.</div>

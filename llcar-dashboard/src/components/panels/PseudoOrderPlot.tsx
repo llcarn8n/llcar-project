@@ -131,7 +131,7 @@ export function PseudoOrderPlot({ accel, pids }: PseudoOrderPlotProps) {
           justifyContent: 'center',
           height: 160,
           color: theme.text.secondary,
-          fontFamily: "'Orbitron', sans-serif",
+          fontFamily: "var(--f-display)",
           fontSize: 12,
           letterSpacing: 2,
         }}>
@@ -169,7 +169,7 @@ export function PseudoOrderPlot({ accel, pids }: PseudoOrderPlotProps) {
           show: rpm === o.resonanceRpms[0],
           formatter: o.label,
           fontSize: 9,
-          fontFamily: "'Share Tech Mono', monospace",
+          fontFamily: "var(--f-mono)",
           color: harmonicColors[oi].replace('0.25', '0.7'),
           position: 'insideEndTop' as const,
         },
@@ -223,7 +223,7 @@ export function PseudoOrderPlot({ accel, pids }: PseudoOrderPlotProps) {
       backgroundColor: 'rgba(10, 17, 24, 0.95)',
       borderColor: 'rgba(0, 229, 255, 0.3)',
       borderWidth: 1,
-      textStyle: { color: '#fff', fontFamily: "'Share Tech Mono', monospace", fontSize: 11 },
+      textStyle: { color: '#fff', fontFamily: "var(--f-mono)", fontSize: 11 },
       formatter(params: any) {
         const [rpm, vib] = params.value
         return (
@@ -237,7 +237,7 @@ export function PseudoOrderPlot({ accel, pids }: PseudoOrderPlotProps) {
     legend: {
       top: 6,
       right: 10,
-      textStyle: { color: theme.text.secondary, fontFamily: "'Share Tech Mono', monospace", fontSize: 10 },
+      textStyle: { color: theme.text.secondary, fontFamily: "var(--f-mono)", fontSize: 10 },
       itemWidth: 10,
       itemHeight: 10,
     },
@@ -247,7 +247,7 @@ export function PseudoOrderPlot({ accel, pids }: PseudoOrderPlotProps) {
       nameLocation: 'center' as const,
       nameGap: 26,
       nameTextStyle: {
-        fontFamily: "'Orbitron', sans-serif",
+        fontFamily: "var(--f-display)",
         fontSize: 10,
         color: theme.text.secondary,
         letterSpacing: 2,
@@ -258,7 +258,7 @@ export function PseudoOrderPlot({ accel, pids }: PseudoOrderPlotProps) {
       axisTick: { show: false },
       axisLabel: {
         color: theme.text.secondary,
-        fontFamily: "'Share Tech Mono', monospace",
+        fontFamily: "var(--f-mono)",
         fontSize: 9,
       },
       splitLine: { lineStyle: { color: 'rgba(0,229,255,0.06)', type: 'dashed' as const } },
@@ -269,7 +269,7 @@ export function PseudoOrderPlot({ accel, pids }: PseudoOrderPlotProps) {
       nameLocation: 'center' as const,
       nameGap: 42,
       nameTextStyle: {
-        fontFamily: "'Orbitron', sans-serif",
+        fontFamily: "var(--f-display)",
         fontSize: 10,
         color: theme.text.secondary,
       },
@@ -279,7 +279,7 @@ export function PseudoOrderPlot({ accel, pids }: PseudoOrderPlotProps) {
       axisTick: { show: false },
       axisLabel: {
         color: theme.text.secondary,
-        fontFamily: "'Share Tech Mono', monospace",
+        fontFamily: "var(--f-mono)",
         fontSize: 9,
       },
       splitLine: { lineStyle: { color: 'rgba(0,229,255,0.08)', type: 'dashed' as const } },
@@ -293,7 +293,7 @@ export function PseudoOrderPlot({ accel, pids }: PseudoOrderPlotProps) {
         PSEUDO ORDER PLOT
       </div>
       <div style={{
-        fontFamily: "'Share Tech Mono', monospace",
+        fontFamily: "var(--f-mono)",
         fontSize: 10,
         color: theme.text.muted,
         marginBottom: 4,

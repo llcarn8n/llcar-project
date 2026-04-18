@@ -38,6 +38,62 @@ const OBSTACLES: { type: ObsType; baseZ: number; x: number; label: string; sub: 
 ]
 
 
+// Shared headlight origin — CarWireframe пишет сюда мировые позиции DRL-мэшей
+// ("Кузов#2_—_Дневные_ходовые_"), HeadlightGlow использует их для позиционирования лучей.
+export const headlightOrigin = {
+  left:  new THREE.Vector3(-0.52, 0.32, 1.9),
+  right: new THREE.Vector3( 0.52, 0.32, 1.9),
+  ready: false,
+}
+
+// ── Headlight glow on road (первый вариант — радиальные пятна) ──
+
+function createHeadlightTexture(): THREE.CanvasTexture {
+  const size = 256
+  const canvas = document.createElement('canvas')
+  canvas.width = size; canvas.height = size
+  const ctx = canvas.getContext('2d')!
+  const grad = ctx.createRadialGradient(size / 2, size / 2, 0, size / 2, size / 2, size / 2)
+  grad.addColorStop(0.00, 'rgba(255,248,220,0.95)')
+  grad.addColorStop(0.35, 'rgba(255,240,200,0.55)')
+  grad.addColorStop(0.65, 'rgba(245,220,170,0.18)')
+  grad.addColorStop(1.00, 'rgba(200,170,120,0)')
+  ctx.fillStyle = grad
+  ctx.fillRect(0, 0, size, size)
+  const tex = new THREE.CanvasTexture(canvas)
+  tex.colorSpace = THREE.SRGBColorSpace
+  return tex
+}
+
+function HeadlightGlow() {
+  const tex = useMemo(() => createHeadlightTexture(), [])
+  const material = useMemo(() => new THREE.MeshBasicMaterial({
+    map: tex,
+    transparent: true,
+    blending: THREE.AdditiveBlending,
+    depthWrite: false,
+    side: THREE.DoubleSide,
+  }), [tex])
+
+  useEffect(() => {
+    return () => { tex.dispose(); material.dispose() }
+  }, [tex, material])
+
+  return (
+    <group position={[0, 0.005, 0]} renderOrder={2}>
+      <mesh position={[-0.48, 0, 3.0]} rotation={[-Math.PI / 2, 0, 0]} scale={[1.1, 2.6, 1]} material={material}>
+        <planeGeometry args={[1, 1]} />
+      </mesh>
+      <mesh position={[0.48, 0, 3.0]} rotation={[-Math.PI / 2, 0, 0]} scale={[1.1, 2.6, 1]} material={material}>
+        <planeGeometry args={[1, 1]} />
+      </mesh>
+      <mesh position={[0, 0, 2.7]} rotation={[-Math.PI / 2, 0, 0]} scale={[1.6, 2.0, 1]} material={material}>
+        <planeGeometry args={[1, 1]} />
+      </mesh>
+    </group>
+  )
+}
+
 // ── Road strip ──
 
 function RoadStrip() {
@@ -75,6 +131,8 @@ function RoadStrip() {
       <mesh rotation={[-Math.PI / 2, 0, 0]} position={[0, 0.001, 0]} material={lineMaterial}>
         <planeGeometry args={[0.02, 24]} />
       </mesh>
+      {/* Headlights beam glow on road */}
+      <HeadlightGlow />
     </group>
   )
 }

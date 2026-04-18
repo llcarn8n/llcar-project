@@ -2,7 +2,6 @@ import { useState, useEffect } from 'react'
 import { GlassPanel } from '../components/shared/GlassPanel'
 import { SpecCards } from '../components/vehicle/SpecCards'
 import { useDashboardStore } from '../stores/dashboardStore'
-import { theme } from '../theme'
 
 interface Generation {
   id: string
@@ -91,12 +90,21 @@ export function VehicleInfo() {
   // Load brand data + model description + videos
   useEffect(() => {
     if (!vehicleProfile) return
-    const brandId = vehicleProfile.brandId || vehicleProfile.brand.toLowerCase().replace(/\s+/g, '_')
+    const rawBrandId = vehicleProfile.brandId || vehicleProfile.brand.toLowerCase().replace(/\s+/g, '_')
+    // Map alternative brand-ids to actual filenames in public/data/brands/
+    const BRAND_FILE_ALIAS: Record<string, string> = {
+      'li-auto': 'li', 'li_auto': 'li',
+      'mercedes-benz': 'mercedes', 'mercedes_benz': 'mercedes',
+      'faw-bestune': 'bestune', 'faw_bestune': 'bestune',
+      'land-rover': 'land_rover',
+    }
+    const brandId = BRAND_FILE_ALIAS[rawBrandId] || rawBrandId
     const modelId = vehicleProfile.model.toLowerCase().replace(/\s+/g, '_')
     setLoading(true)
 
     const loadSpecs = fetch(`${import.meta.env.BASE_URL}data/brands/${brandId}.json`)
       .then(r => r.ok ? r.json() : null)
+      .catch(() => null)
 
     const loadDesc = fetch(`${import.meta.env.BASE_URL}data/brands-info/${brandId}.json`)
       .then(r => r.ok ? r.json() : null)
@@ -106,15 +114,17 @@ export function VehicleInfo() {
       .then(r => r.ok ? r.json() : null)
       .catch(() => null)
 
-    Promise.all([loadSpecs, loadDesc, loadVideos]).then(([specs, descs, vids]) => {
-      setBrandData(specs)
-      if (descs) {
-        const info = descs[modelId]
-        setModelDesc(info?.desc || null)
-      }
-      if (vids?.titles) setVideoTitles(vids.titles.slice(0, 10))
-      setLoading(false)
-    })
+    Promise.all([loadSpecs, loadDesc, loadVideos])
+      .then(([specs, descs, vids]) => {
+        setBrandData(specs)
+        if (descs) {
+          const info = descs[modelId]
+          setModelDesc(info?.desc || null)
+        }
+        if (vids?.titles) setVideoTitles(vids.titles.slice(0, 10))
+      })
+      .catch(() => {})
+      .finally(() => setLoading(false))
   }, [vehicleProfile])
 
   // Find matching model and generation
@@ -135,7 +145,15 @@ export function VehicleInfo() {
       setKbReviews([])
       return
     }
-    const brandId = vehicleProfile.brandId || vehicleProfile.brand.toLowerCase().replace(/\s+/g, '_')
+    const rawBrandId = vehicleProfile.brandId || vehicleProfile.brand.toLowerCase().replace(/\s+/g, '_')
+    // Map alternative brand-ids to actual filenames in public/data/brands/
+    const BRAND_FILE_ALIAS: Record<string, string> = {
+      'li-auto': 'li', 'li_auto': 'li',
+      'mercedes-benz': 'mercedes', 'mercedes_benz': 'mercedes',
+      'faw-bestune': 'bestune', 'faw_bestune': 'bestune',
+      'land-rover': 'land_rover',
+    }
+    const brandId = BRAND_FILE_ALIAS[rawBrandId] || rawBrandId
     const kbPath = deriveKBGenPath(brandId, generation.name)
     if (!kbPath) return
 
@@ -185,21 +203,21 @@ export function VehicleInfo() {
               gap: 24,
               padding: '32px 24px',
             }}>
-              <img src={ICONS.spaceRover} alt="" style={{ width: 64, height: 64, objectFit: 'contain', filter: 'drop-shadow(0 2px 10px rgba(0,229,255,0.3))' }} />
+              <img src={ICONS.spaceRover} alt="" style={{ width: 64, height: 64, objectFit: 'contain', filter: 'drop-shadow(0 2px 10px var(--c-champagne-border))' }} />
               <div>
                 <div style={{
-                  fontFamily: "'Rajdhani', sans-serif",
+                  fontFamily: 'var(--f-body)',
                   fontSize: 16,
                   fontWeight: 600,
-                  color: theme.text.secondary,
+                  color: 'var(--c-graphite)',
                   marginBottom: 8,
                 }}>
                   Выберите автомобиль для просмотра характеристик
                 </div>
                 <div style={{
-                  fontFamily: "'Rajdhani', sans-serif",
+                  fontFamily: 'var(--f-body)',
                   fontSize: 13,
-                  color: theme.text.muted,
+                  color: 'var(--c-graphite-muted)',
                   lineHeight: 1.5,
                 }}>
                   В нашей базе 58 марок, 999 моделей и 1919 поколений с полными техническими характеристиками.
@@ -229,8 +247,8 @@ export function VehicleInfo() {
               width: 64,
               height: 64,
               borderRadius: 8,
-              background: `linear-gradient(135deg, ${theme.accent.cyan}15, ${theme.accent.teal}10)`,
-              border: `1px solid ${theme.accent.cyan}20`,
+              background: 'linear-gradient(135deg, var(--c-champagne-soft), var(--c-champagne-faint))',
+              border: '1px solid var(--c-champagne-border)',
               display: 'flex',
               alignItems: 'center',
               justifyContent: 'center',
@@ -241,22 +259,22 @@ export function VehicleInfo() {
             </div>
             <div>
               <h1 style={{
-                fontFamily: "'Orbitron', sans-serif",
+                fontFamily: 'var(--f-display)',
                 fontSize: 20,
                 fontWeight: 700,
                 letterSpacing: '0.1em',
-                color: theme.text.primary,
+                color: 'var(--c-graphite)',
                 margin: 0,
-                textShadow: `0 0 16px ${theme.accent.cyan}30`,
+                textShadow: '0 0 16px var(--c-cherry-glow)',
               }}>
                 {title}
               </h1>
               {subtitle && (
                 <div style={{
-                  fontFamily: "'Rajdhani', sans-serif",
+                  fontFamily: 'var(--f-body)',
                   fontSize: 14,
                   fontWeight: 600,
-                  color: theme.accent.teal,
+                  color: 'var(--c-champagne-hi)',
                   marginTop: 4,
                   letterSpacing: '0.05em',
                 }}>
@@ -265,9 +283,9 @@ export function VehicleInfo() {
               )}
               {brandData && (
                 <div style={{
-                  fontFamily: "'Rajdhani', sans-serif",
+                  fontFamily: 'var(--f-body)',
                   fontSize: 11,
-                  color: theme.text.muted,
+                  color: 'var(--c-graphite-muted)',
                   marginTop: 2,
                   letterSpacing: '0.05em',
                 }}>
@@ -285,10 +303,10 @@ export function VehicleInfo() {
           <GlassPanel>
             <div className="hud-header mb-3">Народная репутация</div>
             <div style={{
-              fontFamily: "'Rajdhani', sans-serif",
+              fontFamily: 'var(--f-body)',
               fontSize: 14,
               fontWeight: 500,
-              color: theme.text.secondary,
+              color: 'var(--c-graphite)',
               lineHeight: 1.7,
               padding: '4px 0',
             }}>
@@ -308,12 +326,12 @@ export function VehicleInfo() {
                 <div key={i} style={{
                   padding: '6px 12px',
                   borderRadius: 4,
-                  background: 'rgba(0,229,255,0.03)',
-                  border: '1px solid rgba(0,229,255,0.1)',
-                  fontFamily: "'Rajdhani', sans-serif",
+                  background: 'var(--c-champagne-faint)',
+                  border: '1px solid var(--c-champagne-border)',
+                  fontFamily: 'var(--f-body)',
                   fontSize: 12,
                   fontWeight: 600,
-                  color: theme.text.secondary,
+                  color: 'var(--c-graphite)',
                 }}>
                   &#x1F3AC; {t}
                 </div>
@@ -330,9 +348,9 @@ export function VehicleInfo() {
             <div style={{
               textAlign: 'center',
               padding: 32,
-              fontFamily: "'Orbitron', sans-serif",
+              fontFamily: 'var(--f-display)',
               fontSize: 12,
-              color: theme.accent.cyan,
+              color: 'var(--c-champagne)',
               letterSpacing: '0.15em',
             }}>
               LOADING...
@@ -352,11 +370,11 @@ export function VehicleInfo() {
               gap: 20,
               padding: '24px 16px',
             }}>
-              <img src={ICONS.spaceRover} alt="" style={{ width: 64, height: 64, objectFit: 'contain', filter: 'drop-shadow(0 2px 10px rgba(0,229,255,0.3))' }} />
+              <img src={ICONS.spaceRover} alt="" style={{ width: 64, height: 64, objectFit: 'contain', filter: 'drop-shadow(0 2px 10px var(--c-champagne-border))' }} />
               <div style={{
-                fontFamily: "'Rajdhani', sans-serif",
+                fontFamily: 'var(--f-body)',
                 fontSize: 14,
-                color: theme.text.muted,
+                color: 'var(--c-graphite-muted)',
                 lineHeight: 1.5,
               }}>
                 Спецификации для этого поколения пока не загружены.
@@ -375,9 +393,9 @@ export function VehicleInfo() {
             <div style={{
               textAlign: 'center',
               padding: 24,
-              fontFamily: "'Orbitron', sans-serif",
+              fontFamily: 'var(--f-display)',
               fontSize: 11,
-              color: theme.accent.cyan,
+              color: 'var(--c-champagne)',
               letterSpacing: '0.15em',
             }}>
               ЗАГРУЗКА БАЗЫ ЗНАНИЙ...
@@ -401,36 +419,36 @@ export function VehicleInfo() {
                 <span style={{
                   padding: '4px 10px',
                   borderRadius: 4,
-                  background: 'rgba(0,229,255,0.06)',
-                  border: '1px solid rgba(0,229,255,0.15)',
-                  fontFamily: "'Rajdhani', sans-serif",
+                  background: 'var(--c-champagne-soft)',
+                  border: '1px solid var(--c-champagne-border)',
+                  fontFamily: 'var(--f-body)',
                   fontSize: 12,
                   fontWeight: 600,
-                  color: theme.accent.cyan,
+                  color: 'var(--c-champagne)',
                 }}>
                   {kbMeta.year_start}–{kbMeta.year_end || 'н.в.'}
                 </span>
                 <span style={{
                   padding: '4px 10px',
                   borderRadius: 4,
-                  background: 'rgba(0,229,255,0.06)',
-                  border: '1px solid rgba(0,229,255,0.15)',
-                  fontFamily: "'Rajdhani', sans-serif",
+                  background: 'var(--c-champagne-soft)',
+                  border: '1px solid var(--c-champagne-border)',
+                  fontFamily: 'var(--f-body)',
                   fontSize: 12,
                   fontWeight: 600,
-                  color: theme.text.secondary,
+                  color: 'var(--c-graphite)',
                 }}>
                   {kbMeta.body_type}
                 </span>
                 <span style={{
                   padding: '4px 10px',
                   borderRadius: 4,
-                  background: 'rgba(0,229,255,0.06)',
-                  border: '1px solid rgba(0,229,255,0.15)',
-                  fontFamily: "'Rajdhani', sans-serif",
+                  background: 'var(--c-champagne-soft)',
+                  border: '1px solid var(--c-champagne-border)',
+                  fontFamily: 'var(--f-body)',
                   fontSize: 12,
                   fontWeight: 600,
-                  color: theme.text.secondary,
+                  color: 'var(--c-graphite)',
                 }}>
                   {kbMeta.trims_count} комплектаций
                 </span>
@@ -438,10 +456,10 @@ export function VehicleInfo() {
               {/* Engines */}
               <div>
                 <div style={{
-                  fontFamily: "'Rajdhani', sans-serif",
+                  fontFamily: 'var(--f-body)',
                   fontSize: 11,
                   fontWeight: 700,
-                  color: theme.text.muted,
+                  color: 'var(--c-graphite-muted)',
                   textTransform: 'uppercase',
                   letterSpacing: '0.1em',
                   marginBottom: 4,
@@ -453,12 +471,12 @@ export function VehicleInfo() {
                     <span key={i} style={{
                       padding: '3px 8px',
                       borderRadius: 3,
-                      background: 'rgba(0,229,255,0.03)',
-                      border: '1px solid rgba(0,229,255,0.08)',
-                      fontFamily: "'Rajdhani', sans-serif",
+                      background: 'var(--c-champagne-faint)',
+                      border: '1px solid var(--c-champagne-border)',
+                      fontFamily: 'var(--f-body)',
                       fontSize: 11,
                       fontWeight: 600,
-                      color: theme.text.secondary,
+                      color: 'var(--c-graphite)',
                     }}>
                       {eng}
                     </span>
@@ -469,10 +487,10 @@ export function VehicleInfo() {
               <div style={{ display: 'flex', gap: 24, flexWrap: 'wrap' }}>
                 <div>
                   <div style={{
-                    fontFamily: "'Rajdhani', sans-serif",
+                    fontFamily: 'var(--f-body)',
                     fontSize: 11,
                     fontWeight: 700,
-                    color: theme.text.muted,
+                    color: 'var(--c-graphite-muted)',
                     textTransform: 'uppercase',
                     letterSpacing: '0.1em',
                     marginBottom: 4,
@@ -484,12 +502,12 @@ export function VehicleInfo() {
                       <span key={i} style={{
                         padding: '3px 8px',
                         borderRadius: 3,
-                        background: 'rgba(0,229,255,0.03)',
-                        border: '1px solid rgba(0,229,255,0.08)',
-                        fontFamily: "'Rajdhani', sans-serif",
+                        background: 'var(--c-champagne-faint)',
+                        border: '1px solid var(--c-champagne-border)',
+                        fontFamily: 'var(--f-body)',
                         fontSize: 11,
                         fontWeight: 600,
-                        color: theme.text.secondary,
+                        color: 'var(--c-graphite)',
                       }}>
                         {t}
                       </span>
@@ -498,10 +516,10 @@ export function VehicleInfo() {
                 </div>
                 <div>
                   <div style={{
-                    fontFamily: "'Rajdhani', sans-serif",
+                    fontFamily: 'var(--f-body)',
                     fontSize: 11,
                     fontWeight: 700,
-                    color: theme.text.muted,
+                    color: 'var(--c-graphite-muted)',
                     textTransform: 'uppercase',
                     letterSpacing: '0.1em',
                     marginBottom: 4,
@@ -513,12 +531,12 @@ export function VehicleInfo() {
                       <span key={i} style={{
                         padding: '3px 8px',
                         borderRadius: 3,
-                        background: 'rgba(0,229,255,0.03)',
-                        border: '1px solid rgba(0,229,255,0.08)',
-                        fontFamily: "'Rajdhani', sans-serif",
+                        background: 'var(--c-champagne-faint)',
+                        border: '1px solid var(--c-champagne-border)',
+                        fontFamily: 'var(--f-body)',
                         fontSize: 11,
                         fontWeight: 600,
-                        color: theme.text.secondary,
+                        color: 'var(--c-graphite)',
                       }}>
                         {d.toUpperCase()}
                       </span>
@@ -544,8 +562,8 @@ export function VehicleInfo() {
                   gap: 10,
                   padding: '8px 12px',
                   borderRadius: 6,
-                  background: 'rgba(0,229,255,0.02)',
-                  border: '1px solid rgba(0,229,255,0.08)',
+                  background: 'var(--c-champagne-faint)',
+                  border: '1px solid var(--c-champagne-border)',
                 }}>
                   {/* Urgency badge */}
                   <span style={{
@@ -556,34 +574,34 @@ export function VehicleInfo() {
                     width: 28,
                     height: 28,
                     borderRadius: 6,
-                    fontFamily: "'Orbitron', sans-serif",
+                    fontFamily: 'var(--f-display)',
                     fontSize: 11,
                     fontWeight: 700,
                     background: sit.urgency >= 4
-                      ? 'rgba(255,140,0,0.15)'
+                      ? 'var(--c-li7-glow)'
                       : sit.urgency >= 2
-                        ? 'rgba(0,229,255,0.1)'
-                        : 'rgba(255,255,255,0.05)',
-                    border: `1px solid ${sit.urgency >= 4 ? theme.accent.orange : theme.accent.cyan}30`,
-                    color: sit.urgency >= 4 ? theme.accent.orange : theme.accent.cyan,
+                        ? 'var(--c-champagne-soft)'
+                        : 'var(--c-champagne-faint)',
+                    border: `1px solid ${sit.urgency >= 4 ? 'var(--c-li7)' : 'var(--c-champagne-border)'}`,
+                    color: sit.urgency >= 4 ? 'var(--c-li7)' : 'var(--c-champagne)',
                   }}>
                     {sit.urgency}
                   </span>
                   <div style={{ flex: 1, minWidth: 0 }}>
                     <div style={{
-                      fontFamily: "'Rajdhani', sans-serif",
+                      fontFamily: 'var(--f-body)',
                       fontSize: 13,
                       fontWeight: 700,
-                      color: theme.text.primary,
+                      color: 'var(--c-graphite)',
                       marginBottom: 2,
                     }}>
                       {sit.title}
                     </div>
                     <div style={{
-                      fontFamily: "'Rajdhani', sans-serif",
+                      fontFamily: 'var(--f-body)',
                       fontSize: 11,
                       fontWeight: 500,
-                      color: theme.text.muted,
+                      color: 'var(--c-graphite-muted)',
                       lineHeight: 1.4,
                       overflow: 'hidden',
                       textOverflow: 'ellipsis',
@@ -599,11 +617,11 @@ export function VehicleInfo() {
                     flexShrink: 0,
                     padding: '2px 8px',
                     borderRadius: 3,
-                    background: 'rgba(0,229,255,0.05)',
-                    fontFamily: "'Rajdhani', sans-serif",
+                    background: 'var(--c-champagne-soft)',
+                    fontFamily: 'var(--f-body)',
                     fontSize: 10,
                     fontWeight: 600,
-                    color: theme.text.muted,
+                    color: 'var(--c-graphite-muted)',
                     textTransform: 'uppercase',
                     letterSpacing: '0.05em',
                   }}>
@@ -634,21 +652,21 @@ export function VehicleInfo() {
                     gap: 10,
                     padding: '8px 12px',
                     borderRadius: 6,
-                    background: 'rgba(0,229,255,0.02)',
-                    border: '1px solid rgba(0,229,255,0.08)',
+                    background: 'var(--c-champagne-faint)',
+                    border: '1px solid var(--c-champagne-border)',
                     textDecoration: 'none',
                     transition: 'border-color 0.2s',
                   }}
-                  onMouseEnter={(e) => (e.currentTarget.style.borderColor = 'rgba(0,229,255,0.25)')}
-                  onMouseLeave={(e) => (e.currentTarget.style.borderColor = 'rgba(0,229,255,0.08)')}
+                  onMouseEnter={(e) => (e.currentTarget.style.borderColor = 'var(--c-champagne)')}
+                  onMouseLeave={(e) => (e.currentTarget.style.borderColor = 'var(--c-champagne-border)')}
                 >
                   <span style={{ fontSize: 16, flexShrink: 0 }}>&#x25B6;</span>
                   <div style={{ flex: 1, minWidth: 0 }}>
                     <div style={{
-                      fontFamily: "'Rajdhani', sans-serif",
+                      fontFamily: 'var(--f-body)',
                       fontSize: 13,
                       fontWeight: 600,
-                      color: theme.accent.cyan,
+                      color: 'var(--c-champagne)',
                       overflow: 'hidden',
                       textOverflow: 'ellipsis',
                       whiteSpace: 'nowrap',
@@ -657,9 +675,9 @@ export function VehicleInfo() {
                     </div>
                     {(vid.channel || vid.duration) && (
                       <div style={{
-                        fontFamily: "'Rajdhani', sans-serif",
+                        fontFamily: 'var(--f-body)',
                         fontSize: 11,
-                        color: theme.text.muted,
+                        color: 'var(--c-graphite-muted)',
                         marginTop: 1,
                       }}>
                         {vid.channel}{vid.channel && vid.duration ? ' · ' : ''}{vid.duration}
@@ -683,8 +701,8 @@ export function VehicleInfo() {
                 <div key={i} style={{
                   padding: '10px 14px',
                   borderRadius: 6,
-                  background: 'rgba(0,229,255,0.02)',
-                  border: '1px solid rgba(0,229,255,0.08)',
+                  background: 'var(--c-champagne-faint)',
+                  border: '1px solid var(--c-champagne-border)',
                 }}>
                   {rev.source && (
                     <a
@@ -692,10 +710,10 @@ export function VehicleInfo() {
                       target="_blank"
                       rel="noopener noreferrer"
                       style={{
-                        fontFamily: "'Rajdhani', sans-serif",
+                        fontFamily: 'var(--f-body)',
                         fontSize: 13,
                         fontWeight: 700,
-                        color: theme.accent.cyan,
+                        color: 'var(--c-champagne)',
                         textDecoration: 'none',
                         display: 'block',
                         marginBottom: 6,
@@ -714,12 +732,12 @@ export function VehicleInfo() {
                         <span key={qi} style={{
                           padding: '3px 8px',
                           borderRadius: 3,
-                          background: 'rgba(255,140,0,0.05)',
-                          border: '1px solid rgba(255,140,0,0.1)',
-                          fontFamily: "'Rajdhani', sans-serif",
+                          background: 'var(--c-champagne-faint)',
+                          border: '1px solid var(--c-champagne-border)',
+                          fontFamily: 'var(--f-body)',
                           fontSize: 11,
                           fontWeight: 500,
-                          color: theme.text.secondary,
+                          color: 'var(--c-graphite)',
                           fontStyle: 'italic',
                         }}>
                           &laquo;{q}&raquo;

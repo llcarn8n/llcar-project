@@ -179,7 +179,7 @@ export function CoherenceMap({ accel, audio }: CoherenceMapProps) {
           justifyContent: 'center',
           height: 160,
           color: theme.text.secondary,
-          fontFamily: "'Orbitron', sans-serif",
+          fontFamily: "var(--f-display)",
           fontSize: 12,
           letterSpacing: 2,
         }}>
@@ -209,7 +209,7 @@ export function CoherenceMap({ accel, audio }: CoherenceMapProps) {
       borderWidth: 1,
       textStyle: {
         color: '#fff',
-        fontFamily: "'Share Tech Mono', monospace",
+        fontFamily: "var(--f-mono)",
         fontSize: 11,
       },
       formatter(params: { value: [number, number, number] }) {
@@ -234,7 +234,7 @@ export function CoherenceMap({ accel, audio }: CoherenceMapProps) {
       axisTick: { show: false },
       axisLabel: {
         color: theme.text.secondary,
-        fontFamily: "'Share Tech Mono', monospace",
+        fontFamily: "var(--f-mono)",
         fontSize: 9,
         interval: 0,
         rotate: 0,
@@ -248,7 +248,7 @@ export function CoherenceMap({ accel, audio }: CoherenceMapProps) {
       axisTick: { show: false },
       axisLabel: {
         color: theme.accent.cyan,
-        fontFamily: "'Orbitron', sans-serif",
+        fontFamily: "var(--f-display)",
         fontSize: 11,
         fontWeight: 'bold' as const,
       },
@@ -282,7 +282,7 @@ export function CoherenceMap({ accel, audio }: CoherenceMapProps) {
         label: {
           show: true,
           fontSize: 9,
-          fontFamily: "'Share Tech Mono', monospace",
+          fontFamily: "var(--f-mono)",
           formatter(params: { value: [number, number, number] }) {
             const val = params.value[2]
             // Dim cells with low correlation
@@ -338,7 +338,7 @@ export function CoherenceMap({ accel, audio }: CoherenceMapProps) {
                 transition: 'background-color 0.4s ease, box-shadow 0.4s ease',
               }} />
               <span style={{
-                fontFamily: "'Share Tech Mono', monospace",
+                fontFamily: "var(--f-mono)",
                 fontSize: 10,
                 color: theme.text.secondary,
                 letterSpacing: 1,

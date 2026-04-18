@@ -114,7 +114,7 @@ function GaugeSVG({ value, max, size, label }: { value: number; max: number; siz
       <text x={cx} y={cy - 2} textAnchor="middle" dominantBaseline="middle" fill="var(--text-primary, #fff)" fontSize={size * 0.2}
         fontFamily="Consolas, 'Lucida Console', monospace" fontWeight="bold">{value}</text>
       {label && <text x={cx} y={cy + size * 0.12} textAnchor="middle" fill={COLORS.textDim} fontSize="10"
-        fontFamily="'Orbitron', sans-serif" letterSpacing="2">{label}</text>}
+        fontFamily="var(--f-display)" letterSpacing="2">{label}</text>}
     </svg>
   )
 }
@@ -147,7 +147,7 @@ export function RPMPanel({ value }: { value: number }) {
           <GaugeSVG value={value} max={8000} size={120} label="об/мин" />
         </div>
         <div style={{ flex: 1, paddingLeft: 8, display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
-          <div style={{ fontSize: 11, color: COLORS.text, letterSpacing: 2, fontFamily: "'Orbitron', sans-serif", marginBottom: 4 }}>ОБОРОТЫ</div>
+          <div style={{ fontSize: 11, color: COLORS.text, letterSpacing: 2, fontFamily: "var(--f-display)", marginBottom: 4 }}>ОБОРОТЫ</div>
           <div style={{ fontSize: 34, color: COLORS.text, fontFamily: "Consolas, monospace", fontWeight: 'bold', lineHeight: 1 }}>{value}</div>
           <div style={{ fontSize: 9, color: COLORS.textDim, fontFamily: "Consolas, monospace", marginTop: 2 }}>об/мин</div>
           <div style={{ marginTop: 8, opacity: 0.8 }}><Sparkline /></div>
@@ -169,9 +169,9 @@ export function SpeedPanel({ value }: { value: number }) {
           <Equalizer active={Math.round((value / 200) * 18)} />
         </div>
         <div style={{ flex: 1, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
-          <div style={{ fontSize: 10, color: COLORS.accent, letterSpacing: 3, fontWeight: 'bold', textShadow: `0 0 10px ${COLORS.accent}`, fontFamily: "'Orbitron', sans-serif" }}>СКОРОСТЬ</div>
+          <div style={{ fontSize: 10, color: COLORS.accent, letterSpacing: 3, fontWeight: 'bold', textShadow: `0 0 10px ${COLORS.accent}`, fontFamily: "var(--f-display)" }}>СКОРОСТЬ</div>
           <div style={{ fontSize: 48, color: COLORS.text, fontFamily: "Consolas, monospace", fontWeight: 'bold', lineHeight: 1 }}>{value}</div>
-          <div style={{ fontSize: 12, color: COLORS.textDim, fontFamily: "'Orbitron', sans-serif", letterSpacing: 1 }}>км/ч</div>
+          <div style={{ fontSize: 12, color: COLORS.textDim, fontFamily: "var(--f-display)", letterSpacing: 1 }}>км/ч</div>
         </div>
       </div>
     </Panel>
@@ -187,7 +187,7 @@ export function CoolantVoltagePanel({ coolant }: { coolant: number; voltage?: nu
           <GaugeSVG value={coolant} max={120} size={120} label="°C" />
         </div>
         <div style={{ flex: 1, paddingLeft: 8, display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
-          <div style={{ fontSize: 11, color: COLORS.text, letterSpacing: 2, fontFamily: "'Orbitron', sans-serif", marginBottom: 4 }}>ТЕМП. ОЖ</div>
+          <div style={{ fontSize: 11, color: COLORS.text, letterSpacing: 2, fontFamily: "var(--f-display)", marginBottom: 4 }}>ТЕМП. ОЖ</div>
           <div style={{ display: 'flex', alignItems: 'baseline', gap: 6 }}>
             <span style={{ fontSize: 34, color: coolColor, fontFamily: "Consolas, monospace", fontWeight: 'bold', lineHeight: 1, textShadow: `0 0 10px ${coolColor}44` }}>{coolant}</span>
             <span style={{ fontSize: 14, color: COLORS.textDim }}>°C</span>
@@ -225,7 +225,7 @@ export function VibrationPanel({ value, onClick }: { value: number; onClick?: ()
           <style>{`@keyframes vibBar { from { transform: scaleY(0.6); } to { transform: scaleY(1.4); } }`}</style>
         </div>
         <div style={{ flex: 1, paddingLeft: 10, display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
-          <div style={{ fontSize: 10, color: COLORS.text, letterSpacing: 2, fontFamily: "'Orbitron', sans-serif", marginBottom: 4 }}>ВИБРАЦИЯ</div>
+          <div style={{ fontSize: 10, color: COLORS.text, letterSpacing: 2, fontFamily: "var(--f-display)", marginBottom: 4 }}>ВИБРАЦИЯ</div>
           <div style={{ fontSize: 34, color, fontFamily: "Consolas, monospace", fontWeight: 'bold', lineHeight: 1, textShadow: `0 0 10px ${color}44` }}>
             {value.toFixed(1)}
           </div>

@@ -181,7 +181,7 @@ function ArcGauge({ term, config }: { term: CusumTerm; config: GaugeConfig }) {
           textAnchor="middle"
           fill={color}
           fontSize="13"
-          fontFamily="'Share Tech Mono', Consolas, monospace"
+          fontFamily="var(--f-mono)"
           fontWeight="bold"
         >
           {value.toFixed(1)}
@@ -191,7 +191,7 @@ function ArcGauge({ term, config }: { term: CusumTerm; config: GaugeConfig }) {
       {/* Label */}
       <div
         style={{
-          fontFamily: "'Orbitron', sans-serif",
+          fontFamily: "var(--f-display)",
           fontSize: 8,
           fontWeight: 600,
           letterSpacing: '0.15em',
@@ -204,7 +204,7 @@ function ArcGauge({ term, config }: { term: CusumTerm; config: GaugeConfig }) {
       </div>
       <div
         style={{
-          fontFamily: "'Rajdhani', sans-serif",
+          fontFamily: "var(--f-body)",
           fontSize: 10,
           color: theme.text.muted,
           letterSpacing: '0.05em',
@@ -266,7 +266,7 @@ function TrendIndicator({ trend }: { trend: number }) {
       </span>
       <span
         style={{
-          fontFamily: "'Rajdhani', sans-serif",
+          fontFamily: "var(--f-body)",
           fontSize: 13,
           color: theme.text.secondary,
           letterSpacing: '0.03em',
@@ -298,7 +298,7 @@ function DegradationBanner({ detected }: { detected: boolean }) {
         style={{
           padding: '6px 12px',
           fontSize: 11,
-          fontFamily: "'Orbitron', sans-serif",
+          fontFamily: "var(--f-display)",
           fontWeight: 600,
           letterSpacing: '0.15em',
           color: theme.status.critical,
@@ -320,7 +320,7 @@ function DegradationBanner({ detected }: { detected: boolean }) {
       style={{
         padding: '6px 12px',
         fontSize: 11,
-        fontFamily: "'Orbitron', sans-serif",
+        fontFamily: "var(--f-display)",
         fontWeight: 600,
         letterSpacing: '0.15em',
         color: theme.status.ok,
@@ -353,7 +353,7 @@ export function CUSUMChart({ degradation }: CUSUMChartProps) {
             justifyContent: 'center',
             height: 120,
             color: theme.text.muted,
-            fontFamily: "'Rajdhani', sans-serif",
+            fontFamily: "var(--f-body)",
             fontSize: 13,
             letterSpacing: '0.1em',
           }}

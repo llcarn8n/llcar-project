@@ -20,7 +20,7 @@ export function FuelLossWidget({ fuelLoss }: FuelLossProps) {
         }}>
           {fuelLoss.monthly_rub.toLocaleString('ru-RU')} ₽
         </div>
-        <div style={{ fontSize: 11, fontFamily: "'Rajdhani', sans-serif", color: theme.text.muted, letterSpacing: '0.05em' }}>
+        <div style={{ fontSize: 11, fontFamily: "var(--f-body)", color: theme.text.muted, letterSpacing: '0.05em' }}>
           в месяц
         </div>
         <div style={{
@@ -31,7 +31,7 @@ export function FuelLossWidget({ fuelLoss }: FuelLossProps) {
             <div style={{ fontSize: 16, fontFamily: "Consolas, monospace", fontWeight: 'bold', color: theme.status.critical }}>
               {fuelLoss.yearly_rub.toLocaleString('ru-RU')} ₽
             </div>
-            <div style={{ fontSize: 9, fontFamily: "'Orbitron', sans-serif", color: theme.text.muted, letterSpacing: '0.1em' }}>
+            <div style={{ fontSize: 9, fontFamily: "var(--f-display)", color: theme.text.muted, letterSpacing: '0.1em' }}>
               В ГОД
             </div>
           </div>

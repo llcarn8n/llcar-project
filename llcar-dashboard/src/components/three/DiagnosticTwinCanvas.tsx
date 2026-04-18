@@ -72,12 +72,11 @@ function CarBouncer({ activeSystem, groupRef }: {
       const worldCenter = box.getCenter(new THREE.Vector3())
       const size = box.getSize(new THREE.Vector3())
 
-      // Axle = thinnest bbox dimension (tire is a flat cylinder).
-      // Some rear wheels in the Blender export have axle along Z instead of X —
-      // detect per-wheel so spin doesn't tilt them.
-      const axle: 'x' | 'y' | 'z' =
-        size.x <= size.y && size.x <= size.z ? 'x'
-        : size.z <= size.y ? 'z' : 'y'
+      // Car wheels spin around lateral axis → в world всегда X.
+      // Если bbox-detection путается на некоторых колёсах (mixed sub-mesh sizes),
+      // жёстко задаём X — стандарт автомобильной геометрии.
+      void size
+      const axle: 'x' | 'y' | 'z' = 'x'
 
       const pivot = new THREE.Group()
       pivot.name = `wheelPivot_${corner}`
@@ -167,7 +166,12 @@ export default function DiagnosticTwinCanvas(props: DiagnosticTwinCanvasProps) {
   }, [])
 
   return (
-    <Canvas camera={{ position: [5, 2.5, 5], fov: 38 }} style={{ background: 'transparent' }}>
+    <Canvas
+      camera={isMobile
+        ? { position: [8.0, 2.7, 3.8], fov: 44 }
+        : { position: [5.9, 2.0, 2.6], fov: 36 }}
+      style={{ background: 'transparent' }}
+    >
       <Suspense fallback={null}>
         <SceneContent {...props} />
       </Suspense>

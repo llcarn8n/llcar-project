@@ -28,7 +28,7 @@ export function MainLayout({ children }: { children: ReactNode }) {
   )
 
   return (
-    <div className="min-h-screen overflow-x-hidden" style={{ backgroundColor: 'var(--bg-primary)' }}>
+    <div className="min-h-screen overflow-x-hidden app-root-scroll" style={{ backgroundColor: 'var(--bg-primary)' }}>
       {/* Breathing background orbs */}
       <div style={{ position: 'fixed', inset: 0, zIndex: 0, pointerEvents: 'none', overflow: 'hidden' }}>
         <div style={{
