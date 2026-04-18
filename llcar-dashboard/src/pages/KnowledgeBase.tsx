@@ -1,8 +1,11 @@
-import { useState, useEffect, useMemo } from 'react'
+import { useState, useEffect, useMemo, Suspense, lazy } from 'react'
 import { SituationsList } from '../components/kb/SituationsList'
 import { DtcSearch } from '../components/kb/DtcSearch'
 import { ManualViewer } from '../components/kb/ManualViewer'
 import { GlassPanel } from '../components/shared/GlassPanel'
+import { RecallsBrowser } from '../components/panels/RecallsBrowser'
+
+const VehicleInfo = lazy(() => import('./VehicleInfo').then(m => ({ default: m.VehicleInfo })))
 import { useDashboardStore } from '../stores/dashboardStore'
 import { theme } from '../theme'
 import { ICONS } from '../utils/icons'
@@ -230,6 +233,24 @@ export function KnowledgeBase() {
             </div>
           </div>
         </GlassPanel>
+      </div>
+
+      {/* Общая информация о вашем автомобиле (перенесено из Diagnostics) */}
+      <div className="col-span-12">
+        <GlassPanel>
+          <div className="hud-header" style={{ marginBottom: 10 }}>Общая информация о вашем автомобиле</div>
+          <Suspense fallback={null}>
+            <VehicleInfo />
+          </Suspense>
+        </GlassPanel>
+      </div>
+
+      {/* Отзывные кампании — полный справочник с поиском */}
+      <div className="col-span-12">
+        <RecallsBrowser
+          vehicleBrand={vehicleProfile?.brand}
+          vehicleModel={vehicleProfile?.model}
+        />
       </div>
 
       {/* Situations / DTC search tabs */}

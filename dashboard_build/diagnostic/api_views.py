@@ -1012,3 +1012,148 @@ def _iso_days_between(start: Any, end: Any) -> Optional[float]:
     if s is None or e is None:
         return None
     return (e - s).total_seconds() / 86400.0
+
+
+# ---------------------------------------------------------------------------
+# GET /api/v2/recalls-search/
+# ---------------------------------------------------------------------------
+
+_SEVERITY_ORDER = {"critical": 0, "high": 1, "medium": 2, "low": 3}
+
+
+def _date_neg(date_str: str) -> str:
+    """Return a string that sorts newer dates before older (ISO dates only)."""
+    if not date_str:
+        return "\uffff"  # пустая дата → в самый конец
+    # Инвертируем посимвольно: '9' → '0', '0' → '9' для ISO YYYY-MM-DD
+    return "".join(chr(ord('9') - (ord(c) - ord('0'))) if c.isdigit() else c for c in date_str)
+
+
+@csrf_exempt
+def recalls_search_view(request: Any) -> JsonResponse:
+    """GET /api/v2/recalls-search/ — поиск по локальной базе отзывных кампаний.
+
+    Query params:
+        q          (optional) подстрока по title_ru / description_ru / models / brand
+        brand      (optional) точный slug бренда ("toyota", "bmw" и т.д.)
+        severity   (optional) critical | high | medium | low
+        limit      (optional, default 100)
+        offset     (optional, default 0)
+
+    Returns:
+        {
+          total: int,
+          returned: int,
+          offset: int,
+          limit: int,
+          campaigns: [...],
+          brands: [{slug, name, country, count}]  // агрегат всех (до фильтра)
+        }
+    """
+    if request.method != "GET":
+        return JsonResponse({"error": "Method not allowed"}, status=405)
+
+    q = ""
+    brand_filter = ""
+    severity_filter = ""
+    limit = 100
+    offset = 0
+    if hasattr(request, "GET") and request.GET is not None:
+        q = (request.GET.get("q") or "").strip().lower()
+        brand_filter = (request.GET.get("brand") or "").strip().lower()
+        severity_filter = (request.GET.get("severity") or "").strip().lower()
+        try:
+            limit = max(1, min(500, int(request.GET.get("limit") or 100)))
+        except (TypeError, ValueError):
+            limit = 100
+        try:
+            offset = max(0, int(request.GET.get("offset") or 0))
+        except (TypeError, ValueError):
+            offset = 0
+
+    try:
+        from .recalls_checker import _load_recalls_db, _DEFAULT_DB_PATH
+        campaigns, brands = _load_recalls_db(_DEFAULT_DB_PATH)
+    except Exception:
+        return JsonResponse({
+            "total": 0, "returned": 0, "offset": 0, "limit": limit,
+            "campaigns": [], "brands": [],
+        }, status=200)
+
+    # Фильтрация
+    filtered = []
+    for c in campaigns:
+        if brand_filter and c.get("brand", "").lower() != brand_filter:
+            continue
+        if severity_filter and c.get("severity", "medium").lower() != severity_filter:
+            continue
+        if q:
+            haystack_parts = [
+                c.get("brand", ""),
+                c.get("title_ru", ""),
+                c.get("description_ru", ""),
+                c.get("system", ""),
+                c.get("id", ""),
+            ]
+            haystack_parts.extend(c.get("models", []) or [])
+            haystack = " ".join(str(x) for x in haystack_parts).lower()
+            if q not in haystack:
+                continue
+        filtered.append(c)
+
+    # Сортировка: severity asc (critical first), затем date desc
+    def _sort_key(x: Dict[str, Any]):
+        return (
+            _SEVERITY_ORDER.get(x.get("severity", "medium"), 2),
+            _date_neg(x.get("date", "")),
+        )
+    filtered.sort(key=_sort_key)
+
+    total = len(filtered)
+    page = filtered[offset:offset + limit]
+
+    # Сериализация
+    def _serialize(c: Dict[str, Any]) -> Dict[str, Any]:
+        return {
+            "id": c.get("id", ""),
+            "brand": c.get("brand", ""),
+            "title_ru": c.get("title_ru", ""),
+            "description_ru": c.get("description_ru", ""),
+            "severity": c.get("severity", "medium"),
+            "system": c.get("system", ""),
+            "date": c.get("date", ""),
+            "years": c.get("years", ""),
+            "models": c.get("models", []) or [],
+            "source": c.get("source", ""),
+            "source_url": c.get("source_url", ""),
+            "count": c.get("count", 0),
+        }
+
+    campaigns_out = [_serialize(c) for c in page]
+
+    # Агрегат по брендам (по всей БД, не после фильтра — чтобы селект оставался стабильным)
+    brand_counts: Dict[str, int] = {}
+    for c in campaigns:
+        b = c.get("brand", "")
+        if not b:
+            continue
+        brand_counts[b] = brand_counts.get(b, 0) + 1
+
+    brands_out = []
+    for slug, meta in brands.items():
+        brands_out.append({
+            "slug": slug,
+            "name": meta.get("name", slug),
+            "country": meta.get("country", ""),
+            "count": brand_counts.get(slug, 0),
+        })
+    brands_out.sort(key=lambda b: (-b["count"], b["name"]))
+
+    return JsonResponse({
+        "total": total,
+        "returned": len(campaigns_out),
+        "offset": offset,
+        "limit": limit,
+        "campaigns": campaigns_out,
+        "brands": brands_out,
+    }, status=200)
