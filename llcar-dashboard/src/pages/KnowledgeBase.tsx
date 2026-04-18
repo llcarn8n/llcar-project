@@ -686,30 +686,17 @@ export function KnowledgeBase() {
         {/* Stats */}
         <GlassPanel>
           <div className="hud-header mb-3">Статистика KB</div>
-          <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
+          <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px 24px', fontFamily: 'var(--f-body)', fontSize: 13, lineHeight: 1.3 }}>
             {[
               { label: 'Универсальных ситуаций', value: '764' },
               { label: 'Полных мануалов', value: '333' },
               { label: 'Брендов с ситуациями', value: '58' },
               { label: 'Отзывных кампаний', value: '298' },
             ].map(({ label, value }) => (
-              <div key={label} style={{
-                display: 'flex', alignItems: 'baseline', gap: 10,
-                fontFamily: 'var(--f-body)', fontSize: 13, lineHeight: 1.3,
-                textAlign: 'left',
-              }}>
-                <span style={{
-                  fontFamily: 'var(--f-mono)',
-                  color: 'var(--c-champagne)',
-                  fontWeight: 700,
-                  minWidth: 44,
-                }}>
-                  {value}
-                </span>
-                <span style={{ color: '#FFFFFF' }}>
-                  {label}
-                </span>
-              </div>
+              <span key={label} style={{ display: 'inline-flex', alignItems: 'baseline', gap: 8 }}>
+                <strong style={{ fontFamily: 'var(--f-mono)', color: 'var(--c-champagne)', fontWeight: 700 }}>{value}</strong>
+                <span style={{ color: '#FFFFFF' }}>{label}</span>
+              </span>
             ))}
           </div>
         </GlassPanel>
