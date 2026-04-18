@@ -80,70 +80,81 @@ export function SkyOrb() {
   const isDay = hour >= 7 && hour < 20
   const isDusk = (hour >= 6 && hour < 7) || (hour >= 19 && hour < 20)
 
-  const B = import.meta.env.BASE_URL
-  const mediaBase = `${B}images/icons/${isDay ? 'sun' : 'moon'}`
-  const label = isDusk ? (hour < 12 ? 'DAWN' : 'DUSK') : isDay ? 'DAY' : 'NIGHT'
-  const weatherHint = weather ? weatherIcon(weather.code, isDay) : ''
+  const sunCore = '#FFE8B0'
+  const sunGlow = 'rgba(230,200,120,0.55)'
+  const sunRim = 'rgba(200,160,80,0.35)'
+  const moonCore = '#E8EEF8'
+  const moonGlow = 'rgba(160,170,220,0.45)'
+  const moonRim = 'rgba(107,90,224,0.45)'
+  const duskCore = '#F4C89A'
+  const duskGlow = 'rgba(220,140,100,0.5)'
+  const duskRim = 'rgba(150,90,180,0.45)'
 
-  // Glow radius — днём champagne «солнце заливает сцену», ночью холоднее и слабее
-  const sceneGlowFilter = isDay
-    ? 'drop-shadow(0 0 24px rgba(255,224,168,0.55)) drop-shadow(0 0 80px rgba(255,200,130,0.35)) drop-shadow(0 0 160px rgba(255,180,110,0.25))'
-    : 'drop-shadow(0 0 16px rgba(170,190,225,0.45)) drop-shadow(0 0 50px rgba(130,150,210,0.25))'
+  const core = isDusk ? duskCore : isDay ? sunCore : moonCore
+  const glow = isDusk ? duskGlow : isDay ? sunGlow : moonGlow
+  const rim = isDusk ? duskRim : isDay ? sunRim : moonRim
+
+  const ringOpacity = isDay ? 0.35 : 0.5
+  const icon = weather ? weatherIcon(weather.code, isDay) : (isDay ? '\u2600' : '\u263E')
+  const label = isDusk ? (hour < 12 ? 'DAWN' : 'DUSK') : isDay ? 'DAY' : 'NIGHT'
 
   return (
     <div
-      title={weather ? `${weather.temp}\u00B0C \u2022 ${label} ${weatherHint}` : label}
+      title={weather ? `${weather.temp}\u00B0C \u2022 ${label}` : label}
       style={{
         display: 'inline-flex',
         alignItems: 'center',
-        gap: 10,
+        gap: 8,
         flexShrink: 0,
         cursor: 'help',
       }}
     >
-      {/* Scene-wide glow halo — льёт свет на 3D сцену из правого верхнего угла */}
-      {isDay && (
+      <div
+        style={{
+          position: 'relative',
+          width: 54,
+          height: 54,
+          borderRadius: '50%',
+          background: `radial-gradient(circle at 35% 30%, ${core} 0%, ${glow} 45%, transparent 75%)`,
+          boxShadow: `0 0 24px ${glow}, 0 0 48px ${rim}, inset 0 0 12px rgba(255,255,255,0.25)`,
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+        }}
+      >
         <div
-          aria-hidden
           style={{
             position: 'absolute',
-            top: -80, right: -80,
-            width: 600, height: 600,
+            inset: -5,
             borderRadius: '50%',
-            background: 'radial-gradient(circle at 50% 50%, rgba(255,220,160,0.18) 0%, rgba(255,200,130,0.10) 25%, rgba(255,180,110,0.04) 50%, transparent 70%)',
-            pointerEvents: 'none',
-            zIndex: -1,
-            mixBlendMode: 'screen',
+            border: `1px solid ${rim}`,
+            opacity: ringOpacity,
           }}
         />
-      )}
-      <video
-        key={isDay ? 'day' : 'night'}
-        src={`${mediaBase}.mp4`}
-        poster={`${mediaBase}.jpg`}
-        autoPlay
-        loop
-        muted
-        playsInline
-        preload="auto"
-        style={{
-          width: 72,
-          height: 72,
-          objectFit: 'contain',
-          mixBlendMode: 'screen',
-          filter: sceneGlowFilter,
-          flexShrink: 0,
-          pointerEvents: 'none',
-        }}
-      />
+        {!isDay && (
+          <div
+            style={{
+              position: 'absolute',
+              top: 3,
+              right: 8,
+              width: 8,
+              height: 8,
+              borderRadius: '50%',
+              background: 'rgba(20,20,35,0.55)',
+              filter: 'blur(1.5px)',
+            }}
+          />
+        )}
+        <span style={{ fontSize: 18, filter: 'drop-shadow(0 0 2px rgba(0,0,0,0.6))' }}>{icon}</span>
+      </div>
       <span
         style={{
           fontFamily: 'var(--f-mono)',
-          fontSize: 20,
+          fontSize: 18,
           fontWeight: 600,
           color: 'var(--c-spectral)',
           letterSpacing: '0.02em',
-          textShadow: '0 0 10px rgba(239,242,247,0.4)',
+          textShadow: '0 0 10px rgba(239,242,247,0.35)',
           fontVariantNumeric: 'tabular-nums',
           lineHeight: 1,
         }}
