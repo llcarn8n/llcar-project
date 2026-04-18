@@ -265,11 +265,11 @@ export function Diagnostics() {
         </div>
       )}
 
-      {/* SkyOrb — погода + солнце/луна, desktop right-top, mobile right-top компактный */}
+      {/* SkyOrb — погода + солнце/луна, desktop right-top, mobile ниже health panel */}
       <div className="lumen-sky-orb" style={{
         position: 'absolute',
-        top: isMobile ? 6 : 64,
-        right: isMobile ? 8 : 18,
+        top: isMobile ? 68 : 64,
+        right: isMobile ? 10 : 18,
         zIndex: 15,
         pointerEvents: 'auto',
       }}>
