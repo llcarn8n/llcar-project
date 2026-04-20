@@ -151,26 +151,6 @@ export function CarWireframe({ activeSystem = null, onWheelRefs, onSystemCentroi
       wheelNodes.forEach(n => console.log(n))
       console.groupEnd()
     }
-    // Debug hook: expose full node list + partSpec info for discovery
-    if (typeof window !== 'undefined') {
-      (window as any).__dumpBodyNodes = (filter?: string) => {
-        const out: { name: string; cat: string; spec: string | null }[] = []
-        scene.traverse((c) => {
-          if (c instanceof THREE.Mesh && c.name) {
-            const cc = map.get(c.name) ?? 'other'
-            const specName = (c.userData?.partSpec as PartSpec | null)?.display ?? null
-            if (!filter || c.name.toLowerCase().includes(filter.toLowerCase())) {
-              out.push({ name: c.name, cat: cc, spec: specName })
-            }
-          }
-        })
-        console.table(out)
-        return out
-      }
-      // Прямой доступ к сцене для быстрой диагностики.
-      ;(window as any).__scene = scene
-      console.log('[CarWireframe] дебаг: __dumpBodyNodes(filter?) → [{name,cat,spec}]; __scene = THREE.Scene')
-    }
     return map
   }, [scene])
 
@@ -258,6 +238,26 @@ export function CarWireframe({ activeSystem = null, onWheelRefs, onSystemCentroi
     }
     console.table(catCount)
     console.log(`[CarWireframe] partSpec coverage: ${partSpecMatches} / ${totalNamedNodes} named nodes`)
+
+    // Debug hook на clonedScene (где userData заполнено): для диагностики hover
+    if (typeof window !== 'undefined') {
+      ;(window as any).__scene = clone
+      ;(window as any).__dumpBodyNodes = (filter?: string) => {
+        const out: { name: string; cat: string; spec: string | null }[] = []
+        clone.traverse((c) => {
+          if (c instanceof THREE.Mesh && c.name) {
+            const cc = (c.userData?.materialCategory as string | undefined) ?? 'other'
+            const specName = (c.userData?.partSpec as PartSpec | null)?.display ?? null
+            if (!filter || c.name.toLowerCase().includes(filter.toLowerCase())) {
+              out.push({ name: c.name, cat: cc, spec: specName })
+            }
+          }
+        })
+        console.table(out)
+        return out
+      }
+      console.log('[CarWireframe] дебаг: __dumpBodyNodes(filter?) → [{name,cat,spec}]; __scene = THREE.Scene (clone)')
+    }
 
     // Centroid per diagnostic system — для размещения severity halo
     const boxes: Partial<Record<Exclude<DiagSystem, null>, THREE.Box3>> = {}
