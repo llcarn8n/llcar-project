@@ -119,6 +119,10 @@ export function RulesList({ filterSystem }: { filterSystem?: string } = {}) {
   const [expandedId, setExpandedId] = useState<string | null>(null)
   const [openSystem, setOpenSystem] = useState<string | null>(null)
   const [hoveredRule, setHoveredRule] = useState<string | null>(null)
+  // По умолчанию все 3 типа включены. Пользователь может отключить любой
+  // тап по пилюле — остаются только правила выбранных типов. Хотя бы один
+  // тип должен быть активен; если все выключены — автоматически включаем всё.
+  const [tiers, setTiers] = useState<Record<string, boolean>>({ T1: true, T2: true, T3: true })
 
   useEffect(() => {
     cachedFetch(`${import.meta.env.BASE_URL}data/diagnostic-rules.json`)
@@ -126,11 +130,20 @@ export function RulesList({ filterSystem }: { filterSystem?: string } = {}) {
       .catch(() => {})
   }, [])
 
+  const toggleTier = (t: 'T1' | 'T2' | 'T3') => {
+    setTiers(prev => {
+      const next = { ...prev, [t]: !prev[t] }
+      if (!next.T1 && !next.T2 && !next.T3) return { T1: true, T2: true, T3: true }
+      return next
+    })
+  }
+
   const groups = useMemo(() => {
     if (!data) return []
-    const filtered = filterSystem
+    const bySystem = filterSystem
       ? data.rules.filter(r => classifySystem(r) === filterSystem)
       : data.rules
+    const filtered = bySystem.filter(r => tiers[r.tier] !== false)
     const g: Record<string, Rule[]> = {}
     for (const r of filtered) {
       const sys = classifySystem(r)
@@ -139,13 +152,22 @@ export function RulesList({ filterSystem }: { filterSystem?: string } = {}) {
     }
     // Sort: by count descending
     return Object.entries(g).sort((a, b) => b[1].length - a[1].length)
-  }, [data, filterSystem])
+  }, [data, filterSystem, tiers])
 
   if (!data) return null
 
-  const allRules = filterSystem
+  const systemScope = filterSystem
     ? data.rules.filter(r => classifySystem(r) === filterSystem)
     : data.rules
+  // Счётчики считаем по всем правилам текущей системы, не учитывая toggle'ы —
+  // это ответ на вопрос "сколько правил вообще тут есть", tiers управляют показом.
+  const totalInSystem = systemScope.length
+  const tierCounts = {
+    T1: systemScope.filter(r => r.tier === 'T1').length,
+    T2: systemScope.filter(r => r.tier === 'T2').length,
+    T3: systemScope.filter(r => r.tier === 'T3').length,
+  }
+  const allRules = systemScope.filter(r => tiers[r.tier] !== false)
   const totalRules = allRules.length
   const t1Count = allRules.filter(r => r.tier === 'T1').length
   const systemCount = groups.length
@@ -153,13 +175,57 @@ export function RulesList({ filterSystem }: { filterSystem?: string } = {}) {
   return (
     <GlassPanel>
       {/* Header with stats */}
-      <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 12 }}>
+      <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 12, flexWrap: 'wrap', gap: 8 }}>
         <div className="hud-header" style={{ margin: 0 }}>Правила проверки</div>
         <div style={{ display: 'flex', gap: 12, fontFamily: 'var(--f-body)', fontSize: 11, color: theme.text.muted }}>
-          <span><strong style={{ color: theme.accent.cyan, fontFamily: 'var(--f-mono)' }}>{totalRules}</strong> правил</span>
+          <span><strong style={{ color: theme.accent.cyan, fontFamily: 'var(--f-mono)' }}>{totalRules}</strong> из {totalInSystem}</span>
           <span><strong style={{ color: theme.status.critical, fontFamily: 'var(--f-mono)' }}>{t1Count}</strong> критических</span>
           <span><strong style={{ color: theme.accent.teal, fontFamily: 'var(--f-mono)' }}>{systemCount}</strong> систем</span>
         </div>
+      </div>
+
+      {/* Tier filter — пилюли-переключатели для T1/T2/T3 */}
+      <div style={{ display: 'flex', gap: 6, flexWrap: 'wrap', marginBottom: 12 }}>
+        {(['T1', 'T2', 'T3'] as const).map(key => {
+          const cfg = TIER[key]
+          const active = tiers[key] !== false
+          const count = tierCounts[key]
+          return (
+            <button
+              key={key}
+              type="button"
+              onClick={() => toggleTier(key)}
+              aria-pressed={active}
+              title={active ? `Скрыть «${cfg.label}»` : `Показать «${cfg.label}»`}
+              style={{
+                display: 'inline-flex', alignItems: 'center', gap: 6,
+                padding: '8px 12px', minHeight: 36,
+                fontFamily: 'var(--f-body)', fontSize: 12, fontWeight: 700,
+                letterSpacing: '0.04em',
+                color: active ? cfg.color : 'rgba(239,242,247,0.45)',
+                background: active ? `${cfg.color}12` : 'rgba(239,242,247,0.03)',
+                border: `1px solid ${active ? `${cfg.color}55` : 'rgba(239,242,247,0.12)'}`,
+                borderRadius: 4,
+                cursor: 'pointer',
+                opacity: count === 0 ? 0.45 : 1,
+                touchAction: 'manipulation',
+                WebkitTapHighlightColor: 'rgba(230,212,168,0.18)',
+              }}
+            >
+              <span aria-hidden style={{
+                width: 8, height: 8, borderRadius: '50%',
+                background: active ? cfg.color : 'transparent',
+                border: `1.5px solid ${cfg.color}`,
+                boxShadow: active ? `0 0 6px ${cfg.color}` : 'none',
+                flexShrink: 0,
+              }} />
+              <span>{cfg.label}</span>
+              <span style={{ color: active ? cfg.color : 'rgba(239,242,247,0.35)', fontFamily: 'var(--f-mono)', fontSize: 10 }}>
+                {count}
+              </span>
+            </button>
+          )
+        })}
       </div>
 
       {/* Subtitle */}
