@@ -369,7 +369,7 @@ export function DTCSearch({ onSelect, selectedCode, brandId, kbGenPath }: DTCSea
                 <button
                   onClick={() => {
                     onSelect(entry.c)
-                    if (hasFix) toggleExpand(entry.c)
+                    toggleExpand(entry.c)
                   }}
                   style={{
                     display: 'flex',
@@ -472,7 +472,24 @@ export function DTCSearch({ onSelect, selectedCode, brandId, kbGenPath }: DTCSea
                   )}
                 </button>
 
-                {/* Expanded fix recommendation */}
+                {/* Expanded — показ рекомендации или сообщения */}
+                {isExpanded && !hasFix && (
+                  <div style={{
+                    margin: '2px 0 4px 0',
+                    padding: '10px 14px 10px 18px',
+                    borderRadius: '0 0 4px 4px',
+                    background: 'rgba(230,212,168,0.04)',
+                    borderLeft: '3px solid var(--c-champagne-border)',
+                    fontFamily: 'var(--f-body)',
+                    fontSize: 12,
+                    color: '#FFFFFF',
+                    opacity: 0.7,
+                    lineHeight: 1.5,
+                  }}>
+                    Для этого кода подробной рекомендации пока нет в базе.
+                    Нажмите на код, чтобы увидеть связанные ситуации в правой панели.
+                  </div>
+                )}
                 {isExpanded && hasFix && (
                   <div style={{
                     margin: '2px 0 4px 0',
