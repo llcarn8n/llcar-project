@@ -8,24 +8,45 @@ import { ICONS } from '../utils/icons'
 interface Resource {
   name: string
   url: string
+  /** URL с плейсхолдером {q} для deep-link'а поиска по «бренд модель». Если
+   *  у пользователя не выбрано авто — fallback на обычный url. */
+  searchPattern?: string
   desc: string
   category: 'forum' | 'video' | 'tool' | 'manufacturer' | 'recall'
   brands?: string[] // empty = universal
 }
 
 const RESOURCES: Resource[] = [
-  // Forums
-  { name: 'Drive2.ru', url: 'https://www.drive2.ru', desc: 'Крупнейшее автосообщество России: бортжурналы, отзывы, запчасти', category: 'forum' },
-  { name: 'Drom.ru', url: 'https://www.drom.ru', desc: 'Отзывы владельцев, каталог авто, форум по маркам', category: 'forum' },
-  { name: 'Forum.auto.ru', url: 'https://forum.auto.ru', desc: 'Форумы по маркам и моделям, технические обсуждения', category: 'forum' },
+  // Forums — deep-link в поиск по «бренд модель»
+  { name: 'Drive2.ru', url: 'https://www.drive2.ru',
+    searchPattern: 'https://www.drive2.ru/l/?q={q}',
+    desc: 'Крупнейшее автосообщество России: бортжурналы, отзывы, запчасти', category: 'forum' },
+  { name: 'Drom.ru', url: 'https://www.drom.ru',
+    searchPattern: 'https://www.drom.ru/search/?keyword={q}',
+    desc: 'Отзывы владельцев, каталог авто, форум по маркам', category: 'forum' },
+  { name: 'Forum.auto.ru', url: 'https://forum.auto.ru',
+    searchPattern: 'https://forum.auto.ru/search/?query={q}',
+    desc: 'Форумы по маркам и моделям, технические обсуждения', category: 'forum' },
 
-  // Video
-  { name: 'АвтоТехЛаб', url: 'https://youtube.com/@autotechlab', desc: 'Диагностика и ремонт: осциллограммы, анализ DTC, практика', category: 'video' },
-  { name: 'Garage54', url: 'https://youtube.com/@Garage54', desc: 'Автомобильные эксперименты и тесты', category: 'video' },
-  { name: 'АвтоВАЗ Техно', url: 'https://youtube.com/@AutoVAZTechno', desc: 'Ремонт и обслуживание российских авто', category: 'video' },
+  // Video — поиск внутри канала по марке
+  { name: 'АвтоТехЛаб', url: 'https://www.youtube.com/@autotechlab',
+    searchPattern: 'https://www.youtube.com/@autotechlab/search?query={q}',
+    desc: 'Диагностика и ремонт: осциллограммы, анализ DTC, практика', category: 'video' },
+  { name: 'Garage54', url: 'https://www.youtube.com/@Garage54',
+    searchPattern: 'https://www.youtube.com/@Garage54/search?query={q}',
+    desc: 'Автомобильные эксперименты и тесты', category: 'video' },
+  { name: 'АвтоВАЗ Техно', url: 'https://www.youtube.com/@AutoVAZTechno',
+    searchPattern: 'https://www.youtube.com/@AutoVAZTechno/search?query={q}',
+    desc: 'Ремонт и обслуживание российских авто', category: 'video' },
+  // Общий YouTube-поиск — когда вообще ничего своего не знаем
+  { name: 'YouTube — общий поиск', url: 'https://www.youtube.com',
+    searchPattern: 'https://www.youtube.com/results?search_query={q}+диагностика',
+    desc: 'Поиск роликов про диагностику именно вашего авто', category: 'video' },
 
-  // Tools
-  { name: 'OBD Codes Lookup', url: 'https://www.obd-codes.com', desc: 'Международная база кодов ошибок OBD-II (англ.)', category: 'tool' },
+  // Tools — общие базы, search по коду DTC
+  { name: 'OBD Codes Lookup', url: 'https://www.obd-codes.com',
+    searchPattern: 'https://www.obd-codes.com/search?q={q}',
+    desc: 'Международная база кодов ошибок OBD-II (англ.)', category: 'tool' },
   { name: 'ELM327 — гид по адаптерам', url: 'https://www.elm327.com', desc: 'Как выбрать OBD-II адаптер, совместимость', category: 'tool' },
 
   // Manufacturers
@@ -177,6 +198,16 @@ export function Resources() {
     })
   }, [catFilter])
 
+  // Преобразуем общий url в deep-link «бренд модель», если у юзера есть профиль
+  // и у ресурса есть searchPattern. Иначе — обычный url ведёт на главную.
+  const resolveUrl = (r: Resource): string => {
+    if (!r.searchPattern) return r.url
+    if (!vehicleProfile?.brand) return r.url
+    const query = [vehicleProfile.brand, vehicleProfile.model].filter(Boolean).join(' ').trim()
+    if (!query) return r.url
+    return r.searchPattern.replace('{q}', encodeURIComponent(query))
+  }
+
   const categories = Object.keys(CATEGORY_INFO)
 
   return (
@@ -259,10 +290,13 @@ export function Resources() {
             return (
               <a
                 key={r.name}
-                href={r.url}
+                href={resolveUrl(r)}
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{ textDecoration: 'none' }}
+                title={vehicleProfile?.brand && r.searchPattern
+                  ? `Поиск «${vehicleProfile.brand} ${vehicleProfile.model ?? ''}» на ${r.name}`
+                  : r.name}
               >
                 <GlassPanel style={{
                   height: '100%',
