@@ -796,13 +796,20 @@ export const partCatalog: PartSpec[] = [
   },
 ]
 
+// Нормализуем имя узла: lowercase + убираем пробелы/подчёркивания/тире.
+// Blender-экспорт использует пробелы ("Шина ПЛ"), glTF-экспорт — подчёркивания.
+// Сравниваем «сжатые» строки, чтобы оба варианта матчились одинаково.
+export function normalizeNodeName(s: string): string {
+  return s.toLowerCase().replace(/[\s_\-]+/g, '')
+}
+
 // Resolve PartSpec for a given node name (from car.glb).
-// Case-insensitive substring match across all pattern entries.
+// Case-insensitive substring match, нечувствительный к разделителям (пробел/_/-).
 export function resolvePartByNode(nodeName: string): PartSpec | null {
-  const n = nodeName.toLowerCase()
+  const n = normalizeNodeName(nodeName)
   for (const spec of partCatalog) {
     for (const pattern of spec.nodeNames) {
-      if (n.includes(pattern)) return spec
+      if (n.includes(normalizeNodeName(pattern))) return spec
     }
   }
   return null

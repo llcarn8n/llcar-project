@@ -12,7 +12,7 @@ import {
 } from './materialClassifier'
 import type { SystemCentroids } from './SeverityHalos'
 import { headlightOrigin } from './AccelWaves'
-import { resolvePartByNode } from '../../data/partCatalog'
+import { resolvePartByNode, normalizeNodeName } from '../../data/partCatalog'
 import { useDashboardStore } from '../../stores/dashboardStore'
 import type { PartSpec } from '../../types/rules'
 
@@ -197,21 +197,21 @@ export function CarWireframe({ activeSystem = null, onWheelRefs, onSystemCentroi
         child.material = getHoloMaterial(category, 'default')
         catCount[category] = (catCount[category] || 0) + 1
 
-        // Collect wheel assembly refs per corner
-        // GLB export uses underscores: Шина_ПЛ, Колесо_ПП_—_Обшивка, Тормоз_ЗЛ
-        const nl = nodeName.toLowerCase()
+        // Collect wheel assembly refs per corner.
+        // Нормализуем имена — GLB может содержать "Шина ПЛ" (Blender) или "Шина_ПЛ" (glTF export).
+        const nl = normalizeNodeName(nodeName)
         for (const corner of WHEEL_CORNERS) {
-          const cl = corner.toLowerCase()
-          if (nl.includes(`шина_${cl}`) || nl.includes(`тормоз_${cl}`) ||
-              nl.includes(`колесо_${cl}`)) {
+          const cl = normalizeNodeName(corner)
+          if (nl.includes(`шина${cl}`) || nl.includes(`тормоз${cl}`) ||
+              nl.includes(`колесо${cl}`)) {
             wRefs[corner].push(child)
             break
           }
         }
         // Suspension ref
         if (nl.includes('пневмоподвеска')) sRef = child
-        // Headlight DRL meshes ("Кузов#2_—_Дневные_ходовые_*") — источник света на дорогу
-        if (nl.includes('дневные_ходовые') || nl.includes('дхо') || nl.includes('ходовой_огон')) {
+        // Headlight DRL meshes ("Кузов#2 — Дневные ходовые *") — источник света на дорогу
+        if (nl.includes('дневныеходовые') || nl.includes('дхо') || nl.includes('ходовойогон')) {
           drlMeshes.push(child)
         }
       }
