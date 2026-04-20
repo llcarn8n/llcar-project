@@ -8,7 +8,7 @@ import type { PartSpec } from '../types/rules'
 export const partCatalog: PartSpec[] = [
   // ── Шины (tires) ──
   {
-    nodeNames: ['шина_пл'],
+    nodeNames: ['шина пл', 'колесо пл', 'дверь передняя левая 3'],
     display: 'Шина передняя левая',
     category: 'suspension',
     corner: 'fl',
@@ -22,7 +22,7 @@ export const partCatalog: PartSpec[] = [
     relatedRules: ['tire_pressure_low_wheel_hop', 'wheel_imbalance_speed_resonance', 'aquaplaning_risk'],
   },
   {
-    nodeNames: ['шина_пп'],
+    nodeNames: ['шина пп', 'колесо пп', 'дверь передняя правая 3'],
     display: 'Шина передняя правая',
     category: 'suspension',
     corner: 'fr',
@@ -36,7 +36,7 @@ export const partCatalog: PartSpec[] = [
     relatedRules: ['tire_pressure_low_wheel_hop', 'wheel_imbalance_speed_resonance', 'aquaplaning_risk'],
   },
   {
-    nodeNames: ['шина_зл'],
+    nodeNames: ['шина зл', 'колесо зл', 'дверь задняя левая 3'],
     display: 'Шина задняя левая',
     category: 'suspension',
     corner: 'rl',
@@ -50,7 +50,7 @@ export const partCatalog: PartSpec[] = [
     relatedRules: ['tire_pressure_low_wheel_hop', 'wheel_imbalance_speed_resonance', 'aquaplaning_risk'],
   },
   {
-    nodeNames: ['шина_зп'],
+    nodeNames: ['шина зп', 'колесо зп', 'дверь задняя правая 3'],
     display: 'Шина задняя правая',
     category: 'suspension',
     corner: 'rr',
@@ -547,9 +547,11 @@ export const partCatalog: PartSpec[] = [
     relatedRules: ['low_battery', 'battery_deep_discharge', 'voltage_drop_idle'],
   },
 
-  // ── Аудио (динамики/микрофоны в салоне) ──
+  // ── Аудио (динамики в дверных картах) ──
+  // В GLB динамики зашиты в суб-меш `_6` каждой двери (напр. "Дверь_передняя_правая_6").
+  // После normalizeNodeName все разделители убираются: "дверьпередняялевая6" и т.д.
   {
-    nodeNames: ['динамик_пл', 'speaker_fl'],
+    nodeNames: ['дверь передняя левая 6', 'динамик_пл', 'speaker_fl'],
     display: 'Динамик передний левый',
     category: 'audio',
     corner: 'fl',
@@ -560,7 +562,7 @@ export const partCatalog: PartSpec[] = [
     relatedRules: ['brake_squeal', 'belt_squeal', 'whistle_high_freq'],
   },
   {
-    nodeNames: ['динамик_пп', 'speaker_fr'],
+    nodeNames: ['дверь передняя правая 6', 'динамик_пп', 'speaker_fr'],
     display: 'Динамик передний правый',
     category: 'audio',
     corner: 'fr',
@@ -571,7 +573,7 @@ export const partCatalog: PartSpec[] = [
     relatedRules: ['brake_squeal', 'belt_squeal', 'whistle_high_freq'],
   },
   {
-    nodeNames: ['динамик_зл', 'speaker_rl'],
+    nodeNames: ['дверь задняя левая 6', 'динамик_зл', 'speaker_rl'],
     display: 'Динамик задний левый',
     category: 'audio',
     corner: 'rl',
@@ -582,7 +584,7 @@ export const partCatalog: PartSpec[] = [
     relatedRules: ['wind_noise', 'whistle_high_freq'],
   },
   {
-    nodeNames: ['динамик_зп', 'speaker_rr'],
+    nodeNames: ['дверь задняя правая 6', 'динамик_зп', 'speaker_rr'],
     display: 'Динамик задний правый',
     category: 'audio',
     corner: 'rr',
@@ -796,11 +798,11 @@ export const partCatalog: PartSpec[] = [
   },
 ]
 
-// Нормализуем имя узла: lowercase + убираем пробелы/подчёркивания/тире.
-// Blender-экспорт использует пробелы ("Шина ПЛ"), glTF-экспорт — подчёркивания.
-// Сравниваем «сжатые» строки, чтобы оба варианта матчились одинаково.
+// Нормализуем имя узла: lowercase + убираем пробелы/подчёркивания/любые тире
+// (включая em-dash — и en-dash –, которые Blender активно использует в именах
+// типа "Колесо ПЛ — Резиновая накладка"). Без этого substring-match падает.
 export function normalizeNodeName(s: string): string {
-  return s.toLowerCase().replace(/[\s_\-]+/g, '')
+  return s.toLowerCase().replace(/[\s_\-\u2010-\u2015]+/g, '')
 }
 
 // Resolve PartSpec for a given node name (from car.glb).
