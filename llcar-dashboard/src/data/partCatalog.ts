@@ -6,62 +6,42 @@ import type { PartSpec } from '../types/rules'
 // Russian corner codes: ПЛ=FL, ПП=FR, ЗЛ=RL, ЗП=RR.
 
 export const partCatalog: PartSpec[] = [
-  // ── Шины (tires) ──
+  // ── Шины (все 4) ──
+  // В текущей GLB узлы Шина_ПЛ/ПП/ЗЛ/ЗП и Колесо_*_Резиновая_накладка шарят
+  // геометрию — hover на любой подсвечивает все 4. Один агрегированный spec.
   {
-    nodeNames: ['шина пл', 'колесо пл резиновая накладка', 'дверь передняя левая 3'],
-    display: 'Шина передняя левая',
+    nodeNames: [
+      'шина пл', 'шина пп', 'шина зл', 'шина зп',
+      'колесо пл резиновая накладка', 'колесо пп резиновая накладка',
+      'колесо зл резиновая накладка', 'колесо зп резиновая накладка',
+    ],
+    display: 'Шины (все 4)',
     category: 'suspension',
-    corner: 'fl',
     params: [
-      { label: 'Давление', key: 'pressure_fl', unit: 'psi', precision: 1 },
-      { label: 'AZ_STD', key: 'az_std_fl', unit: 'm/s²', precision: 2 },
+      { label: 'Давление ПЛ', key: 'pressure_fl', unit: 'psi', precision: 1 },
+      { label: 'Давление ПП', key: 'pressure_fr', unit: 'psi', precision: 1 },
+      { label: 'Давление ЗЛ', key: 'pressure_rl', unit: 'psi', precision: 1 },
+      { label: 'Давление ЗП', key: 'pressure_rr', unit: 'psi', precision: 1 },
       { label: 'Wheel-hop', key: 'wheel_hop_peak_freq', unit: 'Гц', precision: 1 },
       { label: 'Δ к rps', key: 'wheel_hop_peak_shifted', unit: 'Гц', precision: 1 },
       { label: 'BPFO матчи', key: 'bpfo_harmonic_matches', precision: 0 },
     ],
     relatedRules: ['tire_pressure_low_wheel_hop', 'wheel_imbalance_speed_resonance', 'aquaplaning_risk'],
   },
+  // ── Диски колёсные (все 4) ──
+  // Отдельные меши в GLB: Колесо_*_Отделка (rim) + Колесо_*_Обшивка (rim).
   {
-    nodeNames: ['шина пп', 'колесо пп резиновая накладка', 'дверь передняя правая 3'],
-    display: 'Шина передняя правая',
+    nodeNames: [
+      'колесо пл отделка', 'колесо пп отделка', 'колесо зл отделка', 'колесо зп отделка',
+      'колесо пл обшивка', 'колесо пп обшивка', 'колесо зл обшивка', 'колесо зп обшивка',
+    ],
+    display: 'Диски колёсные (все 4)',
     category: 'suspension',
-    corner: 'fr',
     params: [
-      { label: 'Давление', key: 'pressure_fr', unit: 'psi', precision: 1 },
-      { label: 'AZ_STD', key: 'az_std_fr', unit: 'm/s²', precision: 2 },
       { label: 'Wheel-hop', key: 'wheel_hop_peak_freq', unit: 'Гц', precision: 1 },
       { label: 'Δ к rps', key: 'wheel_hop_peak_shifted', unit: 'Гц', precision: 1 },
-      { label: 'BPFO матчи', key: 'bpfo_harmonic_matches', precision: 0 },
     ],
-    relatedRules: ['tire_pressure_low_wheel_hop', 'wheel_imbalance_speed_resonance', 'aquaplaning_risk'],
-  },
-  {
-    nodeNames: ['шина зл', 'колесо зл резиновая накладка', 'дверь задняя левая 3'],
-    display: 'Шина задняя левая',
-    category: 'suspension',
-    corner: 'rl',
-    params: [
-      { label: 'Давление', key: 'pressure_rl', unit: 'psi', precision: 1 },
-      { label: 'AZ_STD', key: 'az_std_rl', unit: 'm/s²', precision: 2 },
-      { label: 'Wheel-hop', key: 'wheel_hop_peak_freq', unit: 'Гц', precision: 1 },
-      { label: 'Δ к rps', key: 'wheel_hop_peak_shifted', unit: 'Гц', precision: 1 },
-      { label: 'BPFO матчи', key: 'bpfo_harmonic_matches', precision: 0 },
-    ],
-    relatedRules: ['tire_pressure_low_wheel_hop', 'wheel_imbalance_speed_resonance', 'aquaplaning_risk'],
-  },
-  {
-    nodeNames: ['шина зп', 'колесо зп резиновая накладка', 'дверь задняя правая 3'],
-    display: 'Шина задняя правая',
-    category: 'suspension',
-    corner: 'rr',
-    params: [
-      { label: 'Давление', key: 'pressure_rr', unit: 'psi', precision: 1 },
-      { label: 'AZ_STD', key: 'az_std_rr', unit: 'm/s²', precision: 2 },
-      { label: 'Wheel-hop', key: 'wheel_hop_peak_freq', unit: 'Гц', precision: 1 },
-      { label: 'Δ к rps', key: 'wheel_hop_peak_shifted', unit: 'Гц', precision: 1 },
-      { label: 'BPFO матчи', key: 'bpfo_harmonic_matches', precision: 0 },
-    ],
-    relatedRules: ['tire_pressure_low_wheel_hop', 'wheel_imbalance_speed_resonance', 'aquaplaning_risk'],
+    relatedRules: ['wheel_imbalance_speed_resonance'],
   },
 
   // ── Тормоза ──
@@ -212,48 +192,19 @@ export const partCatalog: PartSpec[] = [
     relatedRules: ['shock_absorber_worn', 'damper_energy_decay_poor', 'worn_suspension'],
   },
 
-  // ── Пружины ──
+  // ── Пружины (все 4) ──
+  // В GLB только общие узлы: "Пружина_задняя_(шир)#2" и "Пружина_задняя#2".
+  // Hover подсвечивает все 4 — один агрегированный spec.
   {
-    nodeNames: ['пружина_пл'],
-    display: 'Пружина передняя левая',
+    nodeNames: ['пружина задняя (шир)', 'пружина задняя', 'пружина_пл', 'пружина_пп', 'пружина_зл', 'пружина_зп'],
+    display: 'Пружины (все 4)',
     category: 'suspension',
-    corner: 'fl',
     params: [
       { label: 'Ride height', key: 'ride_height', unit: 'mm', precision: 0 },
-      { label: 'AZ_STD', key: 'az_std_fl', unit: 'm/s²', precision: 2 },
-    ],
-    relatedRules: ['worn_suspension', 'suspension_instability_trend'],
-  },
-  {
-    nodeNames: ['пружина_пп'],
-    display: 'Пружина передняя правая',
-    category: 'suspension',
-    corner: 'fr',
-    params: [
-      { label: 'Ride height', key: 'ride_height', unit: 'mm', precision: 0 },
-      { label: 'AZ_STD', key: 'az_std_fr', unit: 'm/s²', precision: 2 },
-    ],
-    relatedRules: ['worn_suspension', 'suspension_instability_trend'],
-  },
-  {
-    nodeNames: ['пружина_зл'],
-    display: 'Пружина задняя левая',
-    category: 'suspension',
-    corner: 'rl',
-    params: [
-      { label: 'Ride height', key: 'ride_height', unit: 'mm', precision: 0 },
-      { label: 'AZ_STD', key: 'az_std_rl', unit: 'm/s²', precision: 2 },
-    ],
-    relatedRules: ['worn_suspension', 'suspension_instability_trend'],
-  },
-  {
-    nodeNames: ['пружина_зп'],
-    display: 'Пружина задняя правая',
-    category: 'suspension',
-    corner: 'rr',
-    params: [
-      { label: 'Ride height', key: 'ride_height', unit: 'mm', precision: 0 },
-      { label: 'AZ_STD', key: 'az_std_rr', unit: 'm/s²', precision: 2 },
+      { label: 'AZ_STD ПЛ', key: 'az_std_fl', unit: 'm/s²', precision: 2 },
+      { label: 'AZ_STD ПП', key: 'az_std_fr', unit: 'm/s²', precision: 2 },
+      { label: 'AZ_STD ЗЛ', key: 'az_std_rl', unit: 'm/s²', precision: 2 },
+      { label: 'AZ_STD ЗП', key: 'az_std_rr', unit: 'm/s²', precision: 2 },
     ],
     relatedRules: ['worn_suspension', 'suspension_instability_trend'],
   },
@@ -461,23 +412,14 @@ export const partCatalog: PartSpec[] = [
   },
 
   // ── Пневмоподвеска ──
+  // В GLB один общий узел "Пневмоподвеска#2" — не разделён на перед/зад.
   {
-    nodeNames: ['пневмоподвеска_передняя', 'пневмоподвеска_п'],
-    display: 'Пневмоподвеска передняя',
+    nodeNames: ['пневмоподвеска'],
+    display: 'Пневмоподвеска',
     category: 'suspension',
     params: [
       { label: 'Ride height', key: 'ride_height', unit: 'mm', precision: 0 },
-      { label: 'AZ_STD', key: 'ay_std', unit: 'm/s²', precision: 2 },
-    ],
-    relatedRules: ['worn_suspension', 'adaptive_damper_hydraulic_dead'],
-  },
-  {
-    nodeNames: ['пневмоподвеска_задняя', 'пневмоподвеска_з'],
-    display: 'Пневмоподвеска задняя',
-    category: 'suspension',
-    params: [
-      { label: 'Ride height', key: 'ride_height', unit: 'mm', precision: 0 },
-      { label: 'AZ_STD', key: 'ay_std', unit: 'm/s²', precision: 2 },
+      { label: 'AY_STD', key: 'ay_std', unit: 'm/s²', precision: 2 },
     ],
     relatedRules: ['worn_suspension', 'adaptive_damper_hydraulic_dead'],
   },
@@ -583,52 +525,24 @@ export const partCatalog: PartSpec[] = [
     relatedRules: ['low_battery', 'battery_deep_discharge', 'voltage_drop_idle'],
   },
 
-  // ── Аудио (динамики в дверных картах) ──
-  // В GLB динамики зашиты в суб-меш `_6` каждой двери (напр. "Дверь_передняя_правая_6").
-  // После normalizeNodeName все разделители убираются: "дверьпередняялевая6" и т.д.
+  // ── Динамики (все 4) ──
+  // В GLB общий узел "Кузов (интерьер)#2 — Сетка динамика" + дверные primitives
+  // "_6" (в Three.js multi-primitive разложении). Один агрегированный spec.
   {
-    nodeNames: ['дверь передняя левая 6', 'динамик_пл', 'speaker_fl'],
-    display: 'Динамик передний левый',
+    nodeNames: [
+      'сетка динамика',
+      'дверь передняя левая 6', 'дверь передняя правая 6',
+      'дверь задняя левая 6', 'дверь задняя правая 6',
+      'динамик_пл', 'динамик_пп', 'динамик_зл', 'динамик_зп',
+      'speaker_fl', 'speaker_fr', 'speaker_rl', 'speaker_rr',
+    ],
+    display: 'Динамики (все 4)',
     category: 'audio',
-    corner: 'fl',
     params: [
       { label: 'Dominant freq', key: 'dominant_freq', unit: 'Hz', precision: 0 },
       { label: 'Dominant amp', key: 'dominant_amp', unit: '', precision: 2 },
     ],
-    relatedRules: ['brake_squeal', 'belt_squeal', 'whistle_high_freq'],
-  },
-  {
-    nodeNames: ['дверь передняя правая 6', 'динамик_пп', 'speaker_fr'],
-    display: 'Динамик передний правый',
-    category: 'audio',
-    corner: 'fr',
-    params: [
-      { label: 'Dominant freq', key: 'dominant_freq', unit: 'Hz', precision: 0 },
-      { label: 'Dominant amp', key: 'dominant_amp', unit: '', precision: 2 },
-    ],
-    relatedRules: ['brake_squeal', 'belt_squeal', 'whistle_high_freq'],
-  },
-  {
-    nodeNames: ['дверь задняя левая 6', 'динамик_зл', 'speaker_rl'],
-    display: 'Динамик задний левый',
-    category: 'audio',
-    corner: 'rl',
-    params: [
-      { label: 'Dominant freq', key: 'dominant_freq', unit: 'Hz', precision: 0 },
-      { label: 'Dominant amp', key: 'dominant_amp', unit: '', precision: 2 },
-    ],
-    relatedRules: ['wind_noise', 'whistle_high_freq'],
-  },
-  {
-    nodeNames: ['дверь задняя правая 6', 'динамик_зп', 'speaker_rr'],
-    display: 'Динамик задний правый',
-    category: 'audio',
-    corner: 'rr',
-    params: [
-      { label: 'Dominant freq', key: 'dominant_freq', unit: 'Hz', precision: 0 },
-      { label: 'Dominant amp', key: 'dominant_amp', unit: '', precision: 2 },
-    ],
-    relatedRules: ['wind_noise', 'whistle_high_freq'],
+    relatedRules: ['brake_squeal', 'belt_squeal', 'whistle_high_freq', 'wind_noise'],
   },
 
   // ── Свет ──
