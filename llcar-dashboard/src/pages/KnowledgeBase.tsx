@@ -684,26 +684,26 @@ export function KnowledgeBase() {
             </div>
           </GlassPanel>
         )}
+      </div>
 
-        {/* Статистика KB — в конце страницы */}
-        <div className="col-span-12">
-          <GlassPanel>
-            <div className="hud-header mb-3">Статистика KB</div>
-            <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px 36px', fontFamily: 'var(--f-body)', fontSize: 13, lineHeight: 1.3, justifyContent: 'flex-start' }}>
-              {[
-                { label: 'Универсальных ситуаций', value: '764' },
-                { label: 'Полных мануалов', value: '333' },
-                { label: 'Брендов с ситуациями', value: '58' },
-                { label: 'Отзывных кампаний', value: '298' },
-              ].map(({ label, value }) => (
-                <span key={label} style={{ display: 'inline-flex', alignItems: 'baseline', gap: 8 }}>
-                  <strong style={{ fontFamily: 'var(--f-mono)', color: 'var(--c-champagne)', fontWeight: 700 }}>{value}</strong>
-                  <span style={{ color: '#FFFFFF' }}>{label}</span>
-                </span>
-              ))}
-            </div>
-          </GlassPanel>
-        </div>
+      {/* Статистика KB — в конце страницы, полная ширина */}
+      <div className="col-span-12">
+        <GlassPanel>
+          <div className="hud-header mb-3">Статистика KB</div>
+          <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px 36px', fontFamily: 'var(--f-body)', fontSize: 13, lineHeight: 1.3, justifyContent: 'flex-start' }}>
+            {[
+              { label: 'Универсальных ситуаций', value: '764' },
+              { label: 'Полных мануалов', value: '333' },
+              { label: 'Брендов с ситуациями', value: '58' },
+              { label: 'Отзывных кампаний', value: '298' },
+            ].map(({ label, value }) => (
+              <span key={label} style={{ display: 'inline-flex', alignItems: 'baseline', gap: 8 }}>
+                <strong style={{ fontFamily: 'var(--f-mono)', color: 'var(--c-champagne)', fontWeight: 700 }}>{value}</strong>
+                <span style={{ color: '#FFFFFF' }}>{label}</span>
+              </span>
+            ))}
+          </div>
+        </GlassPanel>
       </div>
     </div>
   )
