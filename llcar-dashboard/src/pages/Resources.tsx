@@ -1,5 +1,6 @@
 import { useState, useMemo, useEffect } from 'react'
 import { GlassPanel } from '../components/shared/GlassPanel'
+import { ErrorBoundary } from '../components/shared/ErrorBoundary'
 import { useDashboardStore } from '../stores/dashboardStore'
 import { theme } from '../theme'
 import { ICONS } from '../utils/icons'
@@ -58,21 +59,39 @@ function RecallsSearch({ brand }: { brand: string | null; model: string | null }
   const [search, setSearch] = useState('')
 
   useEffect(() => {
-    fetch(`${import.meta.env.BASE_URL}data/recalls.json`)
-      .then(r => r.json())
-      .then((d: RecallCampaign[]) => { setRecalls(d); setLoading(false) })
-      .catch(() => setLoading(false))
+    let cancelled = false
+    const base = (import.meta.env.BASE_URL || '/') as string
+    fetch(`${base}data/recalls.json`)
+      .then(r => {
+        if (!r.ok) throw new Error(`HTTP ${r.status}`)
+        return r.json()
+      })
+      .then((d: unknown) => {
+        if (cancelled) return
+        // Гарантируем массив — иначе .filter ниже упадёт и вся страница рухнет в SyntaxError/TypeError.
+        setRecalls(Array.isArray(d) ? (d as RecallCampaign[]) : [])
+        setLoading(false)
+      })
+      .catch((e) => {
+        if (cancelled) return
+        // eslint-disable-next-line no-console
+        console.error('[Resources] recalls.json load error:', e)
+        setRecalls([])
+        setLoading(false)
+      })
+    return () => { cancelled = true }
   }, [])
 
   const filtered = useMemo(() => {
-    let results = recalls
+    // Двойная защита — на случай, если в json попали некорректные записи без brand/models/title
+    let results = recalls.filter(r => r && typeof r.title === 'string' && typeof r.brand === 'string' && Array.isArray(r.models))
     if (brand) results = results.filter(r => r.brand === brand)
     if (search) {
       const q = search.toLowerCase()
       results = results.filter(r =>
         r.title.toLowerCase().includes(q) ||
-        r.models.some(m => m.toLowerCase().includes(q)) ||
-        r.brand.includes(q)
+        r.models.some(m => typeof m === 'string' && m.toLowerCase().includes(q)) ||
+        r.brand.toLowerCase().includes(q)
       )
     }
     return results.slice(0, 30)
@@ -296,9 +315,11 @@ export function Resources() {
         </div>
       </div>
 
-      {/* Recalls search */}
+      {/* Recalls search — огорожен ErrorBoundary'ем чтобы сбой fetch/парсинга не крашил всю страницу */}
       <div className="col-span-12">
-        <RecallsSearch brand={vehicleProfile?.brandId || null} model={vehicleProfile?.model || null} />
+        <ErrorBoundary label="RecallsSearch">
+          <RecallsSearch brand={vehicleProfile?.brandId || null} model={vehicleProfile?.model || null} />
+        </ErrorBoundary>
       </div>
     </div>
   )
