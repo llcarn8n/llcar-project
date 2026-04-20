@@ -197,6 +197,12 @@ export function Diagnostics() {
         <DiagnosticTwinCanvas
           activeSystem={activeSystem}
           accelData={accelData.length > 0 ? accelData[accelData.length - 1] : null}
+          speedKmh={(() => {
+            const p = apiData?.pids
+            if (!p || p.length === 0) return null
+            const last = p[p.length - 1]
+            return typeof last?.speed === 'number' ? last.speed : null
+          })()}
         />
       </Suspense>
 

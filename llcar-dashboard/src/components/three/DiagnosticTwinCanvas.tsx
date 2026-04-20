@@ -9,7 +9,12 @@ import { AccelWaves, type AccelSample, type WheelBounce } from './AccelWaves'
 interface DiagnosticTwinCanvasProps {
   activeSystem: string | null
   accelData?: AccelSample | null
+  speedKmh?: number | null
 }
+
+// Визуальный радиус шины GLB (~0.33 м) и верхний кап для читабельности
+const WHEEL_RADIUS_M = 0.33
+const VISUAL_OMEGA_MAX = 15
 
 // Shared bounce ref — written by AccelWaves, read by CarBouncer
 const bounceRef = { y: 0, roll: 0, pitch: 0 }
@@ -19,6 +24,9 @@ const wheelBounceRef: WheelBounce = { fl: 0, fr: 0, rl: 0, rr: 0 }
 const CORNER_KEY: Record<WheelCorner, keyof WheelBounce> = {
   'ПЛ': 'fl', 'ПП': 'fr', 'ЗЛ': 'rl', 'ЗП': 'rr',
 }
+
+// Shared speed ref — parent пишет при каждом ре-рендере, useFrame читает без re-render
+const speedRef = { kmh: 0 }
 
 // Applies bounce to car body + per-wheel pivoted spin (no React re-renders)
 function CarBouncer({ activeSystem, groupRef }: {
@@ -101,7 +109,13 @@ function CarBouncer({ activeSystem, groupRef }: {
 
     const brakeAmount = Math.abs(bounceRef.pitch) / 0.05
     const spinSpeed = Math.max(1 - brakeAmount * 0.9, 0.1)
-    wheelRotation.current += delta * 3.0 * spinSpeed
+    // Если есть реальная скорость — используем её как ω = v/R (cap для визуальной читабельности).
+    // Нет данных → idle-анимация (3.0 rad/s), чтобы сцена не выглядела мёртвой на пустом клиенте.
+    const kmh = speedRef.kmh
+    const omega = kmh > 0
+      ? Math.min((kmh / 3.6) / WHEEL_RADIUS_M, VISUAL_OMEGA_MAX)
+      : 3.0
+    wheelRotation.current += delta * omega * spinSpeed
 
     for (const [corner, pivot] of wheelPivots.current) {
       const key = CORNER_KEY[corner]
@@ -132,9 +146,11 @@ function CarBouncer({ activeSystem, groupRef }: {
 }
 
 function SceneContent({
-  activeSystem, accelData,
+  activeSystem, accelData, speedKmh,
 }: DiagnosticTwinCanvasProps) {
   const carGroupRef = useRef<THREE.Group>(null)
+  // Синхронизируем в shared ref перед каждым кадром, чтобы useFrame читал актуальное
+  speedRef.kmh = typeof speedKmh === 'number' && Number.isFinite(speedKmh) ? speedKmh : 0
 
   const handleBounce = useCallback((y: number, roll: number, pitch: number, wheels: WheelBounce) => {
     bounceRef.y = y
