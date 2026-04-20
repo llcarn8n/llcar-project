@@ -65,6 +65,24 @@ export const partCatalog: PartSpec[] = [
   },
 
   // ── Тормоза ──
+  // В текущей GLB узлы "Тормоз_ПЛ/ПП/ЗЛ/ЗП" шарят геометрию — hover на любой
+  // подсвечивает все 4. Сначала ловим общим spec'ом (все 4 колодки + audio),
+  // отдельные угловые specs ниже — fallback для будущих моделей с разделением.
+  {
+    nodeNames: ['тормоз пл', 'тормоз пп', 'тормоз зл', 'тормоз зп'],
+    display: 'Тормоза (все 4)',
+    category: 'suspension',
+    params: [
+      { label: 'Износ ПЛ', key: 'brake_pad_wear_fl', unit: '%', precision: 0 },
+      { label: 'Износ ПП', key: 'brake_pad_wear_fr', unit: '%', precision: 0 },
+      { label: 'Износ ЗЛ', key: 'brake_pad_wear_rl', unit: '%', precision: 0 },
+      { label: 'Износ ЗП', key: 'brake_pad_wear_rr', unit: '%', precision: 0 },
+      { label: 'Audio 1-4 kHz', key: 'audio_1_4khz', unit: 'dB', precision: 1 },
+      { label: 'Свист 5-8k', key: 'percussive_energy_5k_8k', precision: 2 },
+      { label: 'Пиков 5-8k', key: 'percussive_peak_count_5k_8k', precision: 0 },
+    ],
+    relatedRules: ['brake_squeal', 'brake_pad_wear', 'brake_vibration'],
+  },
   {
     nodeNames: ['тормоз_пл'],
     display: 'Тормоз передний левый',
