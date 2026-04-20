@@ -148,29 +148,92 @@ const VOID_CENTER = '#0A0A0C'    // дно ямы — чёрный провал
 const BUMP_MID    = '#1A1A1E'    // тело бугра — асфальт-чёрный
 const RIM_COLOR   = '#EFF2F7'    // spectral край — яркий контур
 
+// Canvas-текстура с радиальным градиентом: светлее по внешнему ободу,
+// полный чёрный в центре. Это даёт зрителю ощущение глубины ямы
+// даже когда камера смотрит под небольшим углом.
+let _potholeFloorTexture: THREE.CanvasTexture | null = null
+function getPotholeFloorTexture(): THREE.CanvasTexture {
+  if (_potholeFloorTexture) return _potholeFloorTexture
+  const size = 256
+  const canvas = document.createElement('canvas')
+  canvas.width = size
+  canvas.height = size
+  const ctx = canvas.getContext('2d')
+  if (ctx) {
+    const cx = size / 2
+    const cy = size / 2
+    const grad = ctx.createRadialGradient(cx, cy, size * 0.02, cx, cy, size * 0.5)
+    grad.addColorStop(0, '#000000')
+    grad.addColorStop(0.35, '#030304')
+    grad.addColorStop(0.75, '#0b0c0e')
+    grad.addColorStop(1, '#1f2024')
+    ctx.fillStyle = grad
+    ctx.fillRect(0, 0, size, size)
+  }
+  const tex = new THREE.CanvasTexture(canvas)
+  tex.anisotropy = 4
+  _potholeFloorTexture = tex
+  return tex
+}
+
+// Градиент на стенках: у верха — светло-серый освещённый асфальт,
+// у основания — чернота. Линейная текстура (UV.v от 0 сверху до 1 снизу).
+let _potholeWallTexture: THREE.CanvasTexture | null = null
+function getPotholeWallTexture(): THREE.CanvasTexture {
+  if (_potholeWallTexture) return _potholeWallTexture
+  const w = 4
+  const h = 128
+  const canvas = document.createElement('canvas')
+  canvas.width = w
+  canvas.height = h
+  const ctx = canvas.getContext('2d')
+  if (ctx) {
+    const grad = ctx.createLinearGradient(0, 0, 0, h)
+    grad.addColorStop(0, '#3a3b3f')       // подсвеченный край сверху
+    grad.addColorStop(0.18, '#1a1b1d')
+    grad.addColorStop(0.6, '#08090b')
+    grad.addColorStop(1, '#010102')       // абсолютная чернота у дна
+    ctx.fillStyle = grad
+    ctx.fillRect(0, 0, w, h)
+  }
+  const tex = new THREE.CanvasTexture(canvas)
+  tex.wrapS = THREE.RepeatWrapping
+  tex.wrapT = THREE.ClampToEdgeWrapping
+  tex.anisotropy = 4
+  _potholeWallTexture = tex
+  return tex
+}
+
 function ObstacleMesh({ type }: { type: ObsType }) {
   if (type === 'pothole_l' || type === 'pothole_r') {
     // Яма: разбитый асфальт с неровным периметром, глубокой тёмной впадиной,
-    // скошенными стенками и трещинами вокруг — без неоновых rim'ов.
+    // стенками с градиентной текстурой (светлее у края, чёрно у дна)
+    // и трещинами вокруг. Глубина 30см, читается под любым углом камеры.
+    const floorTex = getPotholeFloorTexture()
+    const wallTex = getPotholeWallTexture()
     return (
       <group>
-        {/* Глубокое дно — 22см ниже дороги, визуально ощутимо */}
-        <mesh position={[0, -0.22, 0]} rotation={[-Math.PI / 2, 0, 0]} scale={[1.2, 0.8, 1]}>
-          <circleGeometry args={[0.24, 48]} />
-          <meshStandardMaterial color="#030304" roughness={1.0} metalness={0.0} />
+        {/* Дно — 30см ниже дороги, с радиальным градиентом (чернее к центру) */}
+        <mesh position={[0, -0.30, 0]} rotation={[-Math.PI / 2, 0, 0]} scale={[1.2, 0.8, 1]}>
+          <circleGeometry args={[0.24, 64]} />
+          <meshStandardMaterial map={floorTex} color="#000000" roughness={1.0} metalness={0.0} />
         </mesh>
-        {/* Скошенные стенки — длинный truncated cone, лёгкий градиент через vertexColors выглядел бы
-            лучше, но для простоты берём тёмно-серый среднего тона */}
-        <mesh position={[0, -0.11, 0]} scale={[1.2, 1, 0.8]}>
-          <cylinderGeometry args={[0.34, 0.24, 0.22, 48, 1, true]} />
-          <meshStandardMaterial color="#0D0E11" roughness={0.95} metalness={0.05} side={THREE.DoubleSide} />
+        {/* Дополнительный очень тёмный диск в самом центре — усиление «провала» */}
+        <mesh position={[0, -0.299, 0]} rotation={[-Math.PI / 2, 0, 0]} scale={[1.2, 0.8, 1]}>
+          <circleGeometry args={[0.12, 32]} />
+          <meshBasicMaterial color="#000000" transparent opacity={0.85} />
         </mesh>
-        {/* Ещё один слой стенок внутри — чуть светлее у верха, даёт читаемый край */}
-        <mesh position={[0, -0.04, 0]} scale={[1.2, 1, 0.8]}>
-          <cylinderGeometry args={[0.335, 0.30, 0.08, 48, 1, true]} />
-          <meshStandardMaterial color="#181A1E" roughness={0.9} metalness={0.08} side={THREE.DoubleSide} />
+        {/* Скошенные стенки — truncated cone, 30см высотой, с градиент-текстурой */}
+        <mesh position={[0, -0.15, 0]} scale={[1.2, 1, 0.8]}>
+          <cylinderGeometry args={[0.36, 0.22, 0.30, 64, 1, true]} />
+          <meshStandardMaterial map={wallTex} color="#ffffff" roughness={0.95} metalness={0.05} side={THREE.BackSide} />
         </mesh>
-        {/* Рваный rim — 6 плоских тёмно-серых патчей вокруг периметра (имитация отколотого асфальта) */}
+        {/* Тонкая светлая подсветка по верхнему краю — hint of light catching rim */}
+        <mesh position={[0, -0.002, 0]} rotation={[-Math.PI / 2, 0, 0]} scale={[1.2, 0.8, 1]}>
+          <ringGeometry args={[0.355, 0.370, 64]} />
+          <meshBasicMaterial color="#2a2b2e" transparent opacity={0.75} side={THREE.DoubleSide} depthWrite={false} />
+        </mesh>
+        {/* Рваный rim — 8 плоских тёмно-серых патчей вокруг периметра (имитация отколотого асфальта) */}
         {Array.from({ length: 8 }).map((_, i) => {
           const a = (i / 8) * Math.PI * 2
           const r = 0.34 + (i % 2 === 0 ? 0.025 : 0.008)
@@ -204,10 +267,15 @@ function ObstacleMesh({ type }: { type: ObsType }) {
             </mesh>
           )
         })}
-        {/* Мягкая ambient-тень вокруг ямы — имитация AO (без additive, чтобы не светилась) */}
+        {/* Глубокая AO-тень вокруг — шире и темнее, усиливает read-ability ямы */}
         <mesh position={[0, 0.001, 0]} rotation={[-Math.PI / 2, 0, 0]} scale={[1.2, 0.8, 1]}>
-          <ringGeometry args={[0.33, 0.50, 48]} />
-          <meshBasicMaterial color="#050607" transparent opacity={0.35} side={THREE.DoubleSide} depthWrite={false} />
+          <ringGeometry args={[0.33, 0.58, 48]} />
+          <meshBasicMaterial color="#040506" transparent opacity={0.55} side={THREE.DoubleSide} depthWrite={false} />
+        </mesh>
+        {/* Внутренний затемняющий ободок поверх стенок */}
+        <mesh position={[0, -0.002, 0]} rotation={[-Math.PI / 2, 0, 0]} scale={[1.2, 0.8, 1]}>
+          <ringGeometry args={[0.24, 0.355, 48]} />
+          <meshBasicMaterial color="#000000" transparent opacity={0.35} side={THREE.DoubleSide} depthWrite={false} />
         </mesh>
       </group>
     )
