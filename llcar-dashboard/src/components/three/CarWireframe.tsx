@@ -151,22 +151,25 @@ export function CarWireframe({ activeSystem = null, onWheelRefs, onSystemCentroi
       wheelNodes.forEach(n => console.log(n))
       console.groupEnd()
     }
-    // Debug hook: expose full node list for body/light discovery
+    // Debug hook: expose full node list + partSpec info for discovery
     if (typeof window !== 'undefined') {
       (window as any).__dumpBodyNodes = (filter?: string) => {
-        const out: { name: string; cat: string }[] = []
+        const out: { name: string; cat: string; spec: string | null }[] = []
         scene.traverse((c) => {
           if (c instanceof THREE.Mesh && c.name) {
             const cc = map.get(c.name) ?? 'other'
+            const specName = (c.userData?.partSpec as PartSpec | null)?.display ?? null
             if (!filter || c.name.toLowerCase().includes(filter.toLowerCase())) {
-              out.push({ name: c.name, cat: cc })
+              out.push({ name: c.name, cat: cc, spec: specName })
             }
           }
         })
         console.table(out)
         return out
       }
-      console.log('[CarWireframe] дебаг: вызови __dumpBodyNodes("фон") / __dumpBodyNodes("стоп") / __dumpBodyNodes() для полного списка')
+      // Прямой доступ к сцене для быстрой диагностики.
+      ;(window as any).__scene = scene
+      console.log('[CarWireframe] дебаг: __dumpBodyNodes(filter?) → [{name,cat,spec}]; __scene = THREE.Scene')
     }
     return map
   }, [scene])

@@ -484,7 +484,7 @@ export const partCatalog: PartSpec[] = [
 
   // ── Батарея ──
   {
-    nodeNames: ['батарея_высоковольтная', 'батарея_hv', 'ввб'],
+    nodeNames: ['батарея вн', 'батарея_высоковольтная', 'батарея_hv', 'ввб'],
     display: 'Батарея высоковольтная',
     category: 'engine',
     params: [
@@ -494,8 +494,19 @@ export const partCatalog: PartSpec[] = [
     ],
     relatedRules: ['soc_critical', 'hv_battery_imbalance', 'battery_temp_high', 'charging_anomaly'],
   },
+  // ── Радиатор (охлаждение) ──
   {
-    nodeNames: ['контур_охлаждения_батареи', 'охлаждение_батареи'],
+    nodeNames: ['радиатор'],
+    display: 'Радиатор',
+    category: 'engine',
+    params: [
+      { label: 'Coolant temp', key: 'coolant_temp', unit: '°C', precision: 0 },
+      { label: 'Fan speed', key: 'cooling_fan_speed', unit: '%', precision: 0 },
+    ],
+    relatedRules: ['coolant_temp_high', 'cooling_system_fault', 'overheat_warning'],
+  },
+  {
+    nodeNames: ['контур_охлаждения_батареи', 'охлаждение_батареи', 'охлаждение батареи'],
     display: 'Контур охлаждения батареи',
     category: 'engine',
     params: [
