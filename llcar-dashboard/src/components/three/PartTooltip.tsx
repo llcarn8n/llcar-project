@@ -120,18 +120,21 @@ export default function PartTooltip() {
     : hoveredPart.screenX + TOOLTIP_GAP
   const top = hoveredPart.screenY + TOOLTIP_GAP
 
-  // На мобиле тултип превращается в fixed-sheet в верхней части экрана.
-  // Hover-based позиционирование возле пальца на touch-устройстве бесполезно:
-  // палец перекрывает сам tooltip, а click-события без hover не повторяются.
+  // На мобиле тултип крепится к низу 3D-канваса (внутри NebulaPanel,
+  // position: relative) — под машиной есть пустое пространство, которое
+  // не перекрывает саму модель. Верхнее позиционирование закрывало авто,
+  // нижнее — вписывается в «тень под машиной» и оставляет видимость сцены.
   const mobileStyle: React.CSSProperties = {
-    position: 'fixed',
-    top: 60,
-    left: 8,
-    right: 8,
+    position: 'absolute',
+    bottom: 6,
+    left: 6,
+    right: 6,
     width: 'auto',
     maxWidth: 'none',
+    maxHeight: 170,
+    overflowY: 'auto',
     pointerEvents: 'auto',
-    zIndex: 1050,
+    zIndex: 25,
   }
   const desktopStyle: React.CSSProperties = {
     position: 'fixed',

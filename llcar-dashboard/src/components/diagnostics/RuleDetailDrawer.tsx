@@ -1,8 +1,10 @@
 import { useCallback, useEffect, useMemo, useState } from 'react'
+import { createPortal } from 'react-dom'
 import rulesCatalog from '../../data/rulesCatalog.json'
 import type { RuleSpec, RuleCondition } from '../../types/rules'
 import { useDashboardStore } from '../../stores/dashboardStore'
 import { useLatestTelemetry } from '../../hooks/useLatestTelemetry'
+import { useIsMobile } from '../../hooks/useIsMobile'
 import { evaluateCondition, type EvaluatedCondition } from '../../utils/conditionResolver'
 import './RuleDetailDrawer.css'
 
@@ -452,6 +454,7 @@ export default function RuleDetailDrawer() {
   const activeRuleDrawer = useDashboardStore((s) => s.activeRuleDrawer)
   const closeRuleDrawer = useDashboardStore((s) => s.closeRuleDrawer)
   const clientHash = useDashboardStore((s) => s.clientHash)
+  const isMobile = useIsMobile()
 
   const ruleName = activeRuleDrawer?.ruleName ?? null
 
@@ -518,8 +521,15 @@ export default function RuleDetailDrawer() {
 
   if (!ruleName) return null
 
+  // Portal на мобиле: drawer должен рендериться вне NebulaPanel (у которого
+  // overflow: hidden + backdropFilter → становится containing-block для
+  // position: fixed и обрезает bottom-sheet по границам 460px канваса).
+  // На десктопе drawer анкерится в панель (inline render) — как и раньше.
+  const wrap = (node: React.ReactNode): React.ReactNode =>
+    isMobile && typeof document !== 'undefined' ? createPortal(node, document.body) : node
+
   if (!rule) {
-    return (
+    return wrap(
       <>
         <div className="rdd-overlay" onClick={closeRuleDrawer} />
         <div className="rdd-sheet" role="dialog" aria-modal="true">
@@ -540,7 +550,7 @@ export default function RuleDetailDrawer() {
     )
   }
 
-  return (
+  return wrap(
     <>
       <div className="rdd-overlay" onClick={closeRuleDrawer} />
       <div className="rdd-sheet" role="dialog" aria-modal="true" aria-label={rule.display || rule.rule_name}>
@@ -622,3 +632,4 @@ export default function RuleDetailDrawer() {
     </>
   )
 }
+
