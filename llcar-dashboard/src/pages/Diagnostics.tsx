@@ -30,6 +30,7 @@ import { DiagnosticSearch } from '../components/diagnostics/DiagnosticSearch'
 import { SuspensionTab } from '../components/panels/SuspensionTab'
 import { AudioTab } from '../components/panels/AudioTab'
 import PartTooltip from '../components/three/PartTooltip'
+import { MobilePartPicker } from '../components/three/MobilePartPicker'
 
 // V3 LUMEN primitives
 import { NebulaPanel } from '../components/ui/NebulaPanel'
@@ -214,12 +215,10 @@ export function Diagnostics() {
       {/* Part hover tooltip */}
       <PartTooltip />
 
-      {/* Rule detail drawer (desktop only) */}
-      {!isMobile && (
-        <Suspense fallback={null}>
-          <RuleDetailDrawer />
-        </Suspense>
-      )}
+      {/* Rule detail drawer — desktop panel-anchored, mobile bottom-sheet */}
+      <Suspense fallback={null}>
+        <RuleDetailDrawer />
+      </Suspense>
 
       {/* Top time-strip (desktop only — на мобиле в под-канвас стэк) */}
       {!isMobile && (
@@ -385,6 +384,83 @@ export function Diagnostics() {
 
       {PanelFull}
 
+      {/* MOBILE: time-pills (интервал графика здоровья) + can_drive */}
+      {isMobile && (() => {
+        const TIME_PILLS = [
+          { label: '1Ч', val: 60 },
+          { label: '24Ч', val: 1440 },
+          { label: '7Д', val: 10080 },
+          { label: '30Д', val: 43200 },
+        ]
+        const driveMap = {
+          safe:    { label: 'МОЖНО ЕХАТЬ', color: '#6BE08F', hint: 'Ехать безопасно' },
+          caution: { label: 'ОСТОРОЖНО',   color: '#E0B46B', hint: 'Есть замечания — следи за параметрами' },
+          stop:    { label: 'СТОП',         color: '#E06B6B', hint: 'Критичные диагнозы — ехать не рекомендуется' },
+        } as const
+        const drive = v2Report?.can_drive ? driveMap[v2Report.can_drive as keyof typeof driveMap] : null
+        return (
+          <div
+            style={{
+              display: 'flex', flexDirection: 'column', gap: 6,
+              padding: '10px 12px',
+              background: 'var(--c-void)',
+              borderBottom: '1px solid rgba(230,212,168,0.12)',
+            }}
+          >
+            <div style={{ display: 'flex', gap: 4, justifyContent: 'center' }}>
+              {TIME_PILLS.map(p => {
+                const active = timeRange === p.val
+                return (
+                  <button
+                    key={p.val}
+                    onClick={() => setTimeRange(p.val)}
+                    style={{
+                      flex: 1,
+                      minHeight: 44,
+                      padding: '10px 8px',
+                      fontFamily: 'var(--f-display)',
+                      fontSize: 11,
+                      fontWeight: 700,
+                      letterSpacing: '0.18em',
+                      color: active ? '#F2E4C2' : 'rgba(239,242,247,0.55)',
+                      background: active ? 'rgba(200,180,142,0.16)' : 'rgba(10,11,22,0.45)',
+                      border: active ? '1px solid rgba(230,212,168,0.55)' : '1px solid rgba(230,212,168,0.14)',
+                      borderRadius: 4,
+                      cursor: 'pointer',
+                      textShadow: active ? '0 0 8px rgba(230,212,168,0.45)' : 'none',
+                    }}
+                  >
+                    {p.label}
+                  </button>
+                )
+              })}
+            </div>
+            {drive && (
+              <div style={{
+                display: 'inline-flex', alignItems: 'center', gap: 6,
+                padding: '6px 10px',
+                background: 'rgba(10,11,22,0.6)',
+                border: `1px solid ${drive.color}44`,
+                borderRadius: 4,
+                fontFamily: 'var(--f-body)', fontSize: 10, fontWeight: 600,
+                letterSpacing: '0.14em', textTransform: 'uppercase',
+                color: drive.color,
+                wordBreak: 'break-word',
+              }}>
+                <span style={{ width: 6, height: 6, borderRadius: '50%', background: drive.color, boxShadow: `0 0 6px ${drive.color}`, flexShrink: 0 }} />
+                <span>{drive.label}</span>
+                <span style={{ color: '#B8BEC7', fontWeight: 400, textTransform: 'none', letterSpacing: '0.02em', fontSize: 10 }}>
+                  · {drive.hint}
+                </span>
+              </div>
+            )}
+          </div>
+        )
+      })()}
+
+      {/* MOBILE: навигатор по 3D-деталям (заменяет hover на touch) */}
+      {isMobile && <MobilePartPicker />}
+
       {/* MOBILE: горизонтальная лента табов систем + диагнозы */}
       {isMobile && (
         <div style={{
@@ -473,11 +549,15 @@ export function Diagnostics() {
               return (
                 <div key={i}
                   onClick={() => ruleName && openRuleDrawer(ruleName)}
+                  role={ruleName ? 'button' : undefined}
+                  tabIndex={ruleName ? 0 : undefined}
                   style={{
-                    display: 'flex', alignItems: 'flex-start', gap: 8,
-                    padding: '6px 0',
+                    display: 'flex', alignItems: 'center', gap: 10,
+                    minHeight: 48,
+                    padding: '10px 8px',
                     borderBottom: '1px solid var(--c-spectral-divider)',
                     cursor: ruleName ? 'pointer' : 'default',
+                    WebkitTapHighlightColor: 'rgba(230,212,168,0.18)',
                   }}>
                   <span style={{
                     width: 6, height: 6, borderRadius: '50%',

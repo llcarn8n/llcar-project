@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from 'react'
 import { useDashboardStore } from '../../stores/dashboardStore'
 import { useLatestTelemetry } from '../../hooks/useLatestTelemetry'
+import { useIsMobile } from '../../hooks/useIsMobile'
 import { resolvePartValue } from '../../utils/partDataResolver'
 import type { PartCategory } from '../../types/rules'
 
@@ -28,7 +29,9 @@ function formatValue(value: number | string | null, precision?: number): string 
 
 export default function PartTooltip() {
   const hoveredPart = useDashboardStore((s) => s.hoveredPart)
+  const clearHoveredPart = useDashboardStore((s) => s.clearHoveredPart)
   const telemetry = useLatestTelemetry()
+  const isMobile = useIsMobile()
   const [viewportWidth, setViewportWidth] = useState<number>(
     typeof window !== 'undefined' ? window.innerWidth : 1440,
   )
@@ -117,18 +120,35 @@ export default function PartTooltip() {
     : hoveredPart.screenX + TOOLTIP_GAP
   const top = hoveredPart.screenY + TOOLTIP_GAP
 
+  // На мобиле тултип превращается в fixed-sheet в верхней части экрана.
+  // Hover-based позиционирование возле пальца на touch-устройстве бесполезно:
+  // палец перекрывает сам tooltip, а click-события без hover не повторяются.
+  const mobileStyle: React.CSSProperties = {
+    position: 'fixed',
+    top: 60,
+    left: 8,
+    right: 8,
+    width: 'auto',
+    maxWidth: 'none',
+    pointerEvents: 'auto',
+    zIndex: 1050,
+  }
+  const desktopStyle: React.CSSProperties = {
+    position: 'fixed',
+    top,
+    left,
+    width: TOOLTIP_WIDTH,
+    maxWidth: TOOLTIP_WIDTH,
+    pointerEvents: 'none',
+    zIndex: 40,
+  }
+
   return (
     <div
       key={hoveredPart.nodeName}
       style={{
-        position: 'fixed',
-        top,
-        left,
-        width: TOOLTIP_WIDTH,
-        maxWidth: TOOLTIP_WIDTH,
-        pointerEvents: 'none',
-        zIndex: 40,
-        background: 'rgba(10, 12, 22, 0.88)',
+        ...(isMobile ? mobileStyle : desktopStyle),
+        background: 'rgba(10, 12, 22, 0.92)',
         backdropFilter: 'blur(10px)',
         WebkitBackdropFilter: 'blur(10px)',
         border: '1px solid var(--c-spectral-divider)',
@@ -157,16 +177,49 @@ export default function PartTooltip() {
       <div style={{ padding: '10px 12px 12px' }}>
         <div
           style={{
-            fontSize: 13,
-            fontFamily: 'var(--f-mono, ui-monospace, SFMono-Regular, monospace)',
-            color: '#EFF2F7',
-            textTransform: 'uppercase',
-            letterSpacing: '0.08em',
-            lineHeight: 1.25,
-            fontWeight: 600,
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'space-between',
+            gap: 8,
           }}
         >
-          {displayName}
+          <div
+            style={{
+              fontSize: 13,
+              fontFamily: 'var(--f-mono, ui-monospace, SFMono-Regular, monospace)',
+              color: '#EFF2F7',
+              textTransform: 'uppercase',
+              letterSpacing: '0.08em',
+              lineHeight: 1.25,
+              fontWeight: 600,
+              flex: 1,
+              minWidth: 0,
+            }}
+          >
+            {displayName}
+          </div>
+          {isMobile && (
+            <button
+              type="button"
+              onClick={clearHoveredPart}
+              aria-label="Закрыть"
+              style={{
+                flexShrink: 0,
+                width: 32,
+                height: 32,
+                fontSize: 16,
+                lineHeight: 1,
+                color: 'rgba(239,242,247,0.75)',
+                background: 'transparent',
+                border: '1px solid rgba(239,242,247,0.18)',
+                borderRadius: 4,
+                cursor: 'pointer',
+                touchAction: 'manipulation',
+              }}
+            >
+              ✕
+            </button>
+          )}
         </div>
         {rows.length > 0 && (
           <div

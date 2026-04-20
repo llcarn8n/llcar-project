@@ -1,4 +1,5 @@
 import { OrbitControls } from '@react-three/drei'
+import { TOUCH } from 'three'
 
 export function SceneSetup() {
   return (
@@ -30,6 +31,9 @@ export function SceneSetup() {
         maxDistance={32}
         maxPolarAngle={Math.PI / 2 + 0.3}
         target={[0, 0.3, 0]}
+        /* Touch: one-finger rotate, two-finger pinch-zoom. Без pan —
+           исключает конфликт со скроллом страницы. */
+        touches={{ ONE: TOUCH.ROTATE, TWO: TOUCH.DOLLY_ROTATE }}
       />
     </>
   )

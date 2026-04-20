@@ -473,9 +473,45 @@
 }
 
 @media (max-width: 768px) {
-  .rdd-header { padding: 14px 16px 10px; }
-  .rdd-tabs { padding: 0 10px; }
-  .rdd-body { padding: 14px 16px; }
-  .rdd-footer { padding: 0 16px; }
-  .rdd-tab { padding: 10px 10px; font-size: 11px; }
+  /* Drawer becomes full-viewport bottom-sheet on mobile.
+     Escape the parent NebulaPanel (position: relative) by using fixed,
+     so the sheet is anchored to the viewport instead of the 3D panel. */
+  .rdd-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 1100;
+  }
+  .rdd-sheet {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: auto;
+    bottom: 0;
+    width: 100vw;
+    height: min(88vh, calc(100vh - 48px));
+    z-index: 1101;
+    padding: 10px 14px 14px;
+    border-radius: 16px 16px 0 0;
+    clip-path: none;
+    border: 1px solid rgba(210, 188, 148, 0.55);
+    border-bottom: none;
+    animation: rdd-slide-up 240ms cubic-bezier(0.22, 1, 0.36, 1);
+  }
+  /* Drag-handle at the top of the sheet */
+  .rdd-sheet::before {
+    content: '';
+    display: block;
+    width: 40px;
+    height: 4px;
+    border-radius: 2px;
+    background: rgba(210, 188, 148, 0.45);
+    margin: 2px auto 8px;
+    flex-shrink: 0;
+  }
+  .rdd-header { padding: 10px 4px 10px; }
+  .rdd-tabs { padding: 0 4px; }
+  .rdd-body { padding: 14px 4px; }
+  .rdd-footer { padding: 0 4px; height: 52px; }
+  .rdd-tab { padding: 10px 10px; font-size: 11px; min-height: 44px; }
+  .rdd-close { width: 36px; height: 36px; }
 }
