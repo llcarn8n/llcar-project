@@ -116,13 +116,22 @@ export function resolvePartValue(
     return null
   }
 
-  // Not yet surfaced by this frontend — null keeps tooltip clean.
-  // (Большинство — требуют P3: per-corner IMU, HV CAN-парсер, extended VIN PIDs.)
-  if (key === 'motor_temp') return null
-  if (key === 'motor_power_kw') return null
-  if (key === 'hv_voltage') return null
-  if (key === 'soc_percent') return null
-  if (key === 'cell_delta') return null
+  // ── EV / HV — scaffold готов, значения появятся когда backend
+  //    активирует can_parser.py (см. project_p3_backend_evpids_urgent.md).
+  //    Сейчас pids.* не содержат этих полей → возвращаем null гладко.
+  if (key === 'motor_temp' || key === 'e_motor_temp') {
+    return (pids as any)?.e_motor_temp ?? (pids as any)?.motor_temp ?? null
+  }
+  if (key === 'motor_power_kw') return (pids as any)?.motor_power_kw ?? null
+  if (key === 'hv_voltage' || key === 'hv_battery_voltage') return (pids as any)?.hv_battery_voltage ?? null
+  if (key === 'hv_battery_current') return (pids as any)?.hv_battery_current ?? null
+  if (key === 'soc_percent' || key === 'hv_battery_soc') return (pids as any)?.hv_battery_soc ?? null
+  if (key === 'hv_battery_temp') return (pids as any)?.hv_battery_temp ?? null
+  if (key === 'cell_delta' || key === 'hv_cell_voltage_delta') return (pids as any)?.hv_cell_voltage_delta ?? null
+  if (key === 'inverter_temp') return (pids as any)?.inverter_temp ?? null
+  if (key === 'regen_brake_power') return (pids as any)?.regen_brake_power ?? null
+
+  // Требуют P3 (физический IMU / confidence из backend) — null пока.
   if (key === 'ride_height') return null
   if (key === 'inverter_overtemp_conf') return null
   if (key === 'stabilizer_link_worn_conf') return null
