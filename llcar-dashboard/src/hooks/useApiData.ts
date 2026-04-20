@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback } from 'react'
+import { useState, useEffect, useCallback, useMemo, useRef } from 'react'
 
 interface UseApiDataOptions {
   endpoint: string
@@ -11,29 +11,72 @@ export function useApiData<T = any>({ endpoint, params, refreshInterval = 0 }: U
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
 
+  // Stable key so callback only rebuilds when param values actually change.
+  const paramsKey = useMemo(() => JSON.stringify(params ?? {}), [params])
+
+  const abortRef = useRef<AbortController | null>(null)
+
   const fetchData = useCallback(async () => {
+    if (abortRef.current) abortRef.current.abort()
+    const ctrl = new AbortController()
+    abortRef.current = ctrl
     try {
       const url = new URL(endpoint, window.location.origin)
       if (params) {
         Object.entries(params).forEach(([k, v]) => url.searchParams.set(k, String(v)))
       }
-      const res = await fetch(url.toString())
+      const res = await fetch(url.toString(), { signal: ctrl.signal })
       if (!res.ok) throw new Error(`HTTP ${res.status}`)
       const json = await res.json()
-      setData(json)
-      setError(null)
+      if (!ctrl.signal.aborted) {
+        setData(json)
+        setError(null)
+      }
     } catch (e: any) {
-      setError(e.message)
+      if (e?.name === 'AbortError') return
+      if (!ctrl.signal.aborted) setError(e?.message ?? 'fetch error')
     } finally {
-      setLoading(false)
+      if (!ctrl.signal.aborted) setLoading(false)
     }
-  }, [endpoint, JSON.stringify(params)])
+    // eslint-disable-next-line react-hooks/exhaustive-deps -- params captured via paramsKey
+  }, [endpoint, paramsKey])
 
   useEffect(() => {
     fetchData()
-    if (refreshInterval > 0) {
-      const timer = setInterval(fetchData, refreshInterval)
-      return () => clearInterval(timer)
+    if (refreshInterval <= 0) {
+      return () => {
+        if (abortRef.current) abortRef.current.abort()
+      }
+    }
+
+    let timer: number | null = null
+    const start = () => {
+      if (timer !== null) return
+      timer = window.setInterval(fetchData, refreshInterval)
+    }
+    const stop = () => {
+      if (timer !== null) {
+        clearInterval(timer)
+        timer = null
+      }
+    }
+    const onVisibility = () => {
+      if (document.visibilityState === 'hidden') {
+        stop()
+      } else {
+        // Tab re-focused: refetch once + resume polling.
+        fetchData()
+        start()
+      }
+    }
+
+    if (document.visibilityState !== 'hidden') start()
+    document.addEventListener('visibilitychange', onVisibility)
+
+    return () => {
+      stop()
+      document.removeEventListener('visibilitychange', onVisibility)
+      if (abortRef.current) abortRef.current.abort()
     }
   }, [fetchData, refreshInterval])
 
