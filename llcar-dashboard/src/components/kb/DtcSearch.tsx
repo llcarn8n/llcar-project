@@ -140,7 +140,7 @@ export function DtcSearch({ onSelectSituation, initialCode }: DtcSearchProps) {
           style={{
             padding: 16,
             textAlign: 'center',
-            fontFamily: "'Orbitron', sans-serif",
+            fontFamily: 'var(--f-display), sans-serif',
             fontSize: 11,
             color: theme.accent.cyan,
             letterSpacing: '0.15em',
@@ -154,7 +154,7 @@ export function DtcSearch({ onSelectSituation, initialCode }: DtcSearchProps) {
         <div
           style={{
             padding: 12,
-            fontFamily: "'Rajdhani', sans-serif",
+            fontFamily: 'var(--f-body), sans-serif',
             fontSize: 12,
             color: theme.status.critical,
           }}
@@ -190,7 +190,7 @@ export function DtcSearch({ onSelectSituation, initialCode }: DtcSearchProps) {
               style={{
                 width: '100%',
                 padding: '10px 14px',
-                fontFamily: "'Orbitron', sans-serif",
+                fontFamily: 'var(--f-display), sans-serif',
                 fontSize: 13,
                 fontWeight: 700,
                 color: 'var(--text-primary)',
@@ -246,7 +246,7 @@ export function DtcSearch({ onSelectSituation, initialCode }: DtcSearchProps) {
                     >
                       <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
                         <span style={{
-                          fontFamily: "'Orbitron', sans-serif",
+                          fontFamily: 'var(--f-display), sans-serif',
                           fontSize: 12,
                           fontWeight: 700,
                           color: theme.accent.cyan,
@@ -260,7 +260,7 @@ export function DtcSearch({ onSelectSituation, initialCode }: DtcSearchProps) {
                       </div>
                       {title && (
                         <div style={{
-                          fontFamily: "'Rajdhani', sans-serif",
+                          fontFamily: 'var(--f-body), sans-serif',
                           fontSize: 11,
                           color: theme.text.secondary,
                           lineHeight: 1.3,
@@ -293,7 +293,7 @@ export function DtcSearch({ onSelectSituation, initialCode }: DtcSearchProps) {
                 onChange={e => setCatFilter(e.target.value)}
                 style={{
                   padding: '8px 10px',
-                  fontFamily: "'Rajdhani', sans-serif",
+                  fontFamily: 'var(--f-body), sans-serif',
                   fontSize: 12,
                   fontWeight: 600,
                   color: 'var(--text-secondary)',
@@ -314,7 +314,7 @@ export function DtcSearch({ onSelectSituation, initialCode }: DtcSearchProps) {
                 onChange={e => setBrandFilter(e.target.value)}
                 style={{
                   padding: '8px 10px',
-                  fontFamily: "'Rajdhani', sans-serif",
+                  fontFamily: 'var(--f-body), sans-serif',
                   fontSize: 12,
                   fontWeight: 600,
                   color: 'var(--text-secondary)',
@@ -338,7 +338,7 @@ export function DtcSearch({ onSelectSituation, initialCode }: DtcSearchProps) {
             <div>
               <div
                 style={{
-                  fontFamily: "'Rajdhani', sans-serif",
+                  fontFamily: 'var(--f-body), sans-serif',
                   fontSize: 11,
                   color: theme.text.muted,
                   marginBottom: 8,
@@ -348,7 +348,7 @@ export function DtcSearch({ onSelectSituation, initialCode }: DtcSearchProps) {
                 {filteredSituations.length} из {currentSituations.length} ситуаций для{' '}
                 <span
                   style={{
-                    fontFamily: "'Orbitron', sans-serif",
+                    fontFamily: 'var(--f-display), sans-serif',
                     color: theme.accent.cyan,
                     fontWeight: 700,
                     letterSpacing: '0.08em',
@@ -371,7 +371,7 @@ export function DtcSearch({ onSelectSituation, initialCode }: DtcSearchProps) {
                     style={{
                       padding: 16,
                       textAlign: 'center',
-                      fontFamily: "'Rajdhani', sans-serif",
+                      fontFamily: 'var(--f-body), sans-serif',
                       fontSize: 12,
                       color: theme.text.muted,
                     }}
@@ -418,7 +418,7 @@ export function DtcSearch({ onSelectSituation, initialCode }: DtcSearchProps) {
                     <div style={{ flex: 1, minWidth: 0 }}>
                       <div
                         style={{
-                          fontFamily: "'Rajdhani', sans-serif",
+                          fontFamily: 'var(--f-body), sans-serif',
                           fontSize: 12,
                           fontWeight: 600,
                           color: theme.text.primary,
@@ -432,7 +432,7 @@ export function DtcSearch({ onSelectSituation, initialCode }: DtcSearchProps) {
                       </div>
                       <div
                         style={{
-                          fontFamily: "'Orbitron', sans-serif",
+                          fontFamily: 'var(--f-display), sans-serif',
                           fontSize: 9,
                           color: theme.text.muted,
                           letterSpacing: '0.06em',
@@ -444,7 +444,7 @@ export function DtcSearch({ onSelectSituation, initialCode }: DtcSearchProps) {
                     </div>
                     <span
                       style={{
-                        fontFamily: "'Orbitron', sans-serif",
+                        fontFamily: 'var(--f-display), sans-serif',
                         fontSize: 10,
                         fontWeight: 700,
                         color: urgencyColor(s.urg),
@@ -464,7 +464,7 @@ export function DtcSearch({ onSelectSituation, initialCode }: DtcSearchProps) {
             <div
               style={{
                 padding: 12,
-                fontFamily: "'Rajdhani', sans-serif",
+                fontFamily: 'var(--f-body), sans-serif',
                 fontSize: 12,
                 color: theme.text.muted,
                 fontStyle: 'italic',

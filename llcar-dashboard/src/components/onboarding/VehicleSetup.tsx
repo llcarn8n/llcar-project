@@ -105,7 +105,7 @@ const formPanelStyle: React.CSSProperties = {
 const inputBaseStyle: React.CSSProperties = {
   width: '100%',
   padding: '10px 0',
-  fontFamily: "'Rajdhani', sans-serif",
+  fontFamily: 'var(--f-body), sans-serif',
   fontSize: 16,
   fontWeight: 500,
   color: 'var(--text-primary)',
@@ -131,7 +131,7 @@ const selectStyle: React.CSSProperties = {
 const btnPrimaryStyle: React.CSSProperties = {
   padding: '10px 28px',
   fontSize: 13,
-  fontFamily: "'Rajdhani', sans-serif",
+  fontFamily: 'var(--f-body), sans-serif',
   fontWeight: 700,
   color: '#0C1220',
   background: 'linear-gradient(135deg, var(--accent-cyan), var(--accent-teal))',
@@ -147,7 +147,7 @@ const btnPrimaryStyle: React.CSSProperties = {
 const btnSecondaryStyle: React.CSSProperties = {
   padding: '10px 20px',
   fontSize: 12,
-  fontFamily: "'Rajdhani', sans-serif",
+  fontFamily: 'var(--f-body), sans-serif',
   fontWeight: 600,
   color: 'var(--text-muted)',
   background: 'transparent',
@@ -164,7 +164,7 @@ function ProgressBar({ current, total }: { current: number; total: number }) {
   return (
     <div style={{ display: 'flex', alignItems: 'center', gap: 10, marginBottom: 4 }}>
       <span style={{
-        fontFamily: "'Orbitron', sans-serif",
+        fontFamily: 'var(--f-display), sans-serif',
         fontSize: 10,
         letterSpacing: '0.15em',
         color: 'var(--accent-cyan)',
@@ -212,7 +212,7 @@ function SummaryCard({ profile, onConfirm, onEdit }: {
   return (
     <div style={{ display: 'flex', flexDirection: 'column', gap: 20 }}>
       <div style={{
-        fontFamily: "'Orbitron', sans-serif",
+        fontFamily: 'var(--f-display), sans-serif',
         fontSize: 14,
         fontWeight: 700,
         color: 'var(--accent-cyan)',
@@ -232,7 +232,7 @@ function SummaryCard({ profile, onConfirm, onEdit }: {
             borderBottom: '1px solid var(--border-glow)',
           }}>
             <span style={{
-              fontFamily: "'Rajdhani', sans-serif",
+              fontFamily: 'var(--f-body), sans-serif',
               fontSize: 12,
               color: 'var(--text-muted)',
               letterSpacing: '0.1em',
@@ -384,7 +384,7 @@ export function VehicleSetup({ asModal = false, onComplete }: VehicleSetupProps)
 
         <div>
           <div style={{
-            fontFamily: "'Orbitron', sans-serif",
+            fontFamily: 'var(--f-display), sans-serif',
             fontSize: 14,
             fontWeight: 700,
             color: 'var(--accent-cyan)',
@@ -395,7 +395,7 @@ export function VehicleSetup({ asModal = false, onComplete }: VehicleSetupProps)
             {s.title}
           </div>
           <div style={{
-            fontFamily: "'Rajdhani', sans-serif",
+            fontFamily: 'var(--f-body), sans-serif',
             fontSize: 12,
             color: 'var(--text-muted)',
             letterSpacing: '0.05em',
@@ -497,7 +497,7 @@ export function VehicleSetup({ asModal = false, onComplete }: VehicleSetupProps)
           }}
         />
         <div style={{
-          fontFamily: "'Orbitron', sans-serif",
+          fontFamily: 'var(--f-display), sans-serif',
           fontSize: 11,
           fontWeight: 700,
           letterSpacing: '0.15em',
@@ -509,7 +509,7 @@ export function VehicleSetup({ asModal = false, onComplete }: VehicleSetupProps)
           LLCAR
         </div>
         <div style={{
-          fontFamily: "'Rajdhani', sans-serif",
+          fontFamily: 'var(--f-body), sans-serif',
           fontSize: 10,
           color: 'var(--text-muted)',
           textAlign: 'center',
@@ -557,7 +557,7 @@ export function VehicleSetup({ asModal = false, onComplete }: VehicleSetupProps)
             color: 'var(--text-muted)',
             cursor: 'pointer',
             fontSize: 14,
-            fontFamily: "'Rajdhani', sans-serif",
+            fontFamily: 'var(--f-body), sans-serif',
             transition: 'all 0.3s',
           }}
           aria-label="Close"

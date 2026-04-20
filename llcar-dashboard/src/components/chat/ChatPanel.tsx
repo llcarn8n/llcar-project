@@ -15,7 +15,7 @@ export function ChatPanel() {
         <img src={ICONS.aiChat} alt="" style={{ width: 72, height: 72, objectFit: 'contain', flexShrink: 0, filter: 'drop-shadow(0 4px 16px rgba(0,229,255,0.3))' }} />
         <div style={{ display: 'flex', flexDirection: 'column', gap: 10 }}>
           <div style={{
-            fontFamily: "'Rajdhani', sans-serif",
+            fontFamily: 'var(--f-body), sans-serif',
             fontSize: 15,
             fontWeight: 600,
             color: theme.text.secondary,
@@ -23,7 +23,7 @@ export function ChatPanel() {
             Скоро здесь появится умный помощник
           </div>
           <div style={{
-            fontFamily: "'Rajdhani', sans-serif",
+            fontFamily: 'var(--f-body), sans-serif',
             fontSize: 12,
             color: theme.text.muted,
             lineHeight: 1.5,
@@ -40,7 +40,7 @@ export function ChatPanel() {
             borderRadius: 4,
             background: `${theme.accent.cyan}08`,
             border: `1px solid ${theme.accent.cyan}20`,
-            fontFamily: "'Orbitron', sans-serif",
+            fontFamily: 'var(--f-display), sans-serif',
             fontSize: 10,
             fontWeight: 700,
             color: theme.accent.cyan,

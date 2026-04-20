@@ -109,7 +109,7 @@ export function Dashboard() {
             }}>
               {healthDelta !== null && (
                 <span style={{
-                  fontFamily: "'Share Tech Mono', monospace",
+                  fontFamily: 'var(--f-mono), monospace',
                   fontSize: 13,
                   fontWeight: 'bold',
                   color: healthDelta > 0
@@ -144,7 +144,7 @@ export function Dashboard() {
           )}
           {!isOffline && (healthDelta !== null || overallTrend) && (
             <div style={{
-              fontFamily: "'Share Tech Mono', monospace",
+              fontFamily: 'var(--f-mono), monospace',
               fontSize: 9,
               color: 'var(--text-muted)',
               textAlign: 'center',
@@ -261,12 +261,12 @@ export function Dashboard() {
                   }}>
                     <span style={{ fontSize: 16 }}>{sys.icon}</span>
                     <div style={{ flex: 1 }}>
-                      <div style={{ fontSize: 11, fontFamily: "'Rajdhani', sans-serif", fontWeight: 600, color: theme.text.primary }}>
+                      <div style={{ fontSize: 11, fontFamily: 'var(--f-body), sans-serif', fontWeight: 600, color: theme.text.primary }}>
                         {sys.name}
                       </div>
                       <div style={{ display: 'flex', alignItems: 'center', gap: 4, marginTop: 2 }}>
                         <span style={{ fontSize: 12, fontWeight: 'bold', color: stColor }}>{checkIcon}</span>
-                        <span style={{ fontSize: 10, fontFamily: "'Rajdhani', sans-serif", color: stColor, fontWeight: 600 }}>
+                        <span style={{ fontSize: 10, fontFamily: 'var(--f-body), sans-serif', color: stColor, fontWeight: 600 }}>
                           {stLabel}
                         </span>
                         <span style={{ fontSize: 10, fontFamily: 'Consolas, monospace', color: stColor, marginLeft: 'auto' }}>
@@ -317,7 +317,7 @@ export function Dashboard() {
                   className="px-2 py-0.5 rounded transition-all"
                   style={{
                     fontSize: 10,
-                    fontFamily: "'Orbitron', monospace",
+                    fontFamily: 'var(--f-display), monospace',
                     letterSpacing: '0.05em',
                     background: timeRange === t.val ? 'rgba(0,229,255,0.15)' : 'transparent',
                     border: timeRange === t.val ? '1px solid rgba(0,229,255,0.4)' : '1px solid transparent',

@@ -92,7 +92,7 @@ function renderInline(md: string): JSX.Element[] {
           <code
             key={`c${idx}-${key++}`}
             style={{
-              fontFamily: "'Orbitron', monospace",
+              fontFamily: 'var(--f-display), monospace',
               fontSize: '0.92em',
               color: theme.accent.cyan,
               background: 'rgba(0,229,255,0.08)',
@@ -114,7 +114,7 @@ function renderInline(md: string): JSX.Element[] {
       <p
         key={`p${idx}`}
         style={{
-          fontFamily: "'Rajdhani', sans-serif",
+          fontFamily: 'var(--f-body), sans-serif',
           fontSize: 13,
           color: theme.text.secondary,
           lineHeight: 1.65,
@@ -190,7 +190,7 @@ export function FullArticle({ articlePath, expandAll = false }: FullArticleProps
         style={{
           padding: 24,
           textAlign: 'center',
-          fontFamily: "'Orbitron', sans-serif",
+          fontFamily: 'var(--f-display), sans-serif',
           fontSize: 12,
           color: theme.accent.cyan,
           letterSpacing: '0.15em',
@@ -206,7 +206,7 @@ export function FullArticle({ articlePath, expandAll = false }: FullArticleProps
       <div
         style={{
           padding: 16,
-          fontFamily: "'Rajdhani', sans-serif",
+          fontFamily: 'var(--f-body), sans-serif',
           fontSize: 13,
           color: theme.status.critical,
           border: `1px solid ${theme.status.critical}40`,
@@ -224,7 +224,7 @@ export function FullArticle({ articlePath, expandAll = false }: FullArticleProps
       <div
         style={{
           padding: 16,
-          fontFamily: "'Rajdhani', sans-serif",
+          fontFamily: 'var(--f-body), sans-serif',
           fontSize: 13,
           color: theme.text.muted,
         }}
@@ -251,7 +251,7 @@ export function FullArticle({ articlePath, expandAll = false }: FullArticleProps
           {fm.title && (
             <div
               style={{
-                fontFamily: "'Rajdhani', sans-serif",
+                fontFamily: 'var(--f-body), sans-serif',
                 fontSize: 15,
                 fontWeight: 700,
                 color: theme.text.primary,
@@ -264,7 +264,7 @@ export function FullArticle({ articlePath, expandAll = false }: FullArticleProps
           )}
           <div
             style={{
-              fontFamily: "'Orbitron', sans-serif",
+              fontFamily: 'var(--f-display), sans-serif',
               fontSize: 10,
               color: theme.text.muted,
               letterSpacing: '0.08em',
@@ -309,7 +309,7 @@ export function FullArticle({ articlePath, expandAll = false }: FullArticleProps
                   background: 'transparent',
                   border: 'none',
                   cursor: 'pointer',
-                  fontFamily: "'Rajdhani', sans-serif",
+                  fontFamily: 'var(--f-body), sans-serif',
                   fontSize: 13,
                   fontWeight: 700,
                   color: theme.text.primary,
@@ -324,7 +324,7 @@ export function FullArticle({ articlePath, expandAll = false }: FullArticleProps
                 <span
                   aria-hidden
                   style={{
-                    fontFamily: "'Orbitron', sans-serif",
+                    fontFamily: 'var(--f-display), sans-serif',
                     fontSize: 11,
                     color: theme.accent.cyan,
                     transform: isOpen ? 'rotate(90deg)' : 'rotate(0)',

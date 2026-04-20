@@ -241,7 +241,7 @@ export function DTCSearch({ onSelect, selectedCode, brandId, kbGenPath }: DTCSea
           style={{
             flex: '1 1 250px',
             padding: '12px 16px',
-            fontFamily: "'Rajdhani', sans-serif",
+            fontFamily: 'var(--f-body), sans-serif',
             fontSize: 15,
             fontWeight: 600,
             color: '#ffffff',
@@ -262,7 +262,7 @@ export function DTCSearch({ onSelect, selectedCode, brandId, kbGenPath }: DTCSea
           onChange={e => setSeverityFilter(e.target.value)}
           style={{
             padding: '10px 12px',
-            fontFamily: "'Rajdhani', sans-serif",
+            fontFamily: 'var(--f-body), sans-serif',
             fontSize: 13,
             fontWeight: 600,
             color: '#c0c8d4',
@@ -294,7 +294,7 @@ export function DTCSearch({ onSelect, selectedCode, brandId, kbGenPath }: DTCSea
                 style={{
                   padding: '6px 12px',
                   borderRadius: 4,
-                  fontFamily: "'Rajdhani', sans-serif",
+                  fontFamily: 'var(--f-body), sans-serif',
                   fontSize: 11,
                   fontWeight: 700,
                   color: active ? '#0C1220' : tab.color,
@@ -317,7 +317,7 @@ export function DTCSearch({ onSelect, selectedCode, brandId, kbGenPath }: DTCSea
               style={{
                 padding: '6px 12px',
                 borderRadius: 4,
-                fontFamily: "'Rajdhani', sans-serif",
+                fontFamily: 'var(--f-body), sans-serif',
                 fontSize: 11,
                 fontWeight: 700,
                 color: showBrandOnly ? '#0C1220' : theme.status.warning,
@@ -339,7 +339,7 @@ export function DTCSearch({ onSelect, selectedCode, brandId, kbGenPath }: DTCSea
       {loading && (
         <div style={{
           textAlign: 'center', padding: 24,
-          fontFamily: "'Orbitron', sans-serif",
+          fontFamily: 'var(--f-display), sans-serif',
           fontSize: 12, color: theme.accent.cyan,
           letterSpacing: '0.15em',
         }}>
@@ -351,7 +351,7 @@ export function DTCSearch({ onSelect, selectedCode, brandId, kbGenPath }: DTCSea
       {!loading && results.length > 0 && (
         <div style={{ display: 'flex', flexDirection: 'column', gap: 4, maxHeight: '60vh', overflowY: 'auto' }}>
           <div style={{
-            fontSize: 10, color: theme.text.muted, fontFamily: "'Rajdhani', sans-serif",
+            fontSize: 10, color: theme.text.muted, fontFamily: 'var(--f-body), sans-serif',
             letterSpacing: '0.05em', marginBottom: 4,
           }}>
             {results.length === 100 ? '100+ результатов' : `${results.length} результатов`}
@@ -388,7 +388,7 @@ export function DTCSearch({ onSelect, selectedCode, brandId, kbGenPath }: DTCSea
                 >
                   {/* Code */}
                   <div style={{
-                    fontFamily: "'Orbitron', sans-serif",
+                    fontFamily: 'var(--f-display), sans-serif',
                     fontSize: 13,
                     fontWeight: 700,
                     color: sevColor,
@@ -402,7 +402,7 @@ export function DTCSearch({ onSelect, selectedCode, brandId, kbGenPath }: DTCSea
                   {/* Title */}
                   <div style={{
                     flex: 1,
-                    fontFamily: "'Rajdhani', sans-serif",
+                    fontFamily: 'var(--f-body), sans-serif',
                     fontSize: 13,
                     fontWeight: 500,
                     color: theme.text.secondary,
@@ -418,7 +418,7 @@ export function DTCSearch({ onSelect, selectedCode, brandId, kbGenPath }: DTCSea
                   {entry.isGeneration && (
                     <span style={{
                       fontSize: 8,
-                      fontFamily: "'Rajdhani', sans-serif",
+                      fontFamily: 'var(--f-body), sans-serif',
                       fontWeight: 700,
                       color: theme.accent.teal,
                       padding: '2px 5px',
@@ -438,7 +438,7 @@ export function DTCSearch({ onSelect, selectedCode, brandId, kbGenPath }: DTCSea
                   {entry.sys && (
                     <span style={{
                       fontSize: 9,
-                      fontFamily: "'Rajdhani', sans-serif",
+                      fontFamily: 'var(--f-body), sans-serif',
                       fontWeight: 600,
                       color: theme.text.muted,
                       padding: '2px 6px',
@@ -456,7 +456,7 @@ export function DTCSearch({ onSelect, selectedCode, brandId, kbGenPath }: DTCSea
                   {driveInfo && (
                     <span style={{
                       fontSize: 9,
-                      fontFamily: "'Rajdhani', sans-serif",
+                      fontFamily: 'var(--f-body), sans-serif',
                       fontWeight: 700,
                       color: driveInfo.color,
                       padding: '2px 6px',
@@ -501,7 +501,7 @@ export function DTCSearch({ onSelect, selectedCode, brandId, kbGenPath }: DTCSea
                     borderRight: `1px solid ${theme.accent.teal}10`,
                   }}>
                     <div style={{
-                      fontFamily: "'Rajdhani', sans-serif",
+                      fontFamily: 'var(--f-body), sans-serif',
                       fontSize: 10,
                       fontWeight: 700,
                       color: theme.accent.teal,
@@ -512,7 +512,7 @@ export function DTCSearch({ onSelect, selectedCode, brandId, kbGenPath }: DTCSea
                       Рекомендация по исправлению
                     </div>
                     <div style={{
-                      fontFamily: "'Rajdhani', sans-serif",
+                      fontFamily: 'var(--f-body), sans-serif',
                       fontSize: 13,
                       fontWeight: 500,
                       color: theme.accent.teal,
@@ -538,7 +538,7 @@ export function DTCSearch({ onSelect, selectedCode, brandId, kbGenPath }: DTCSea
         }}>
           <span style={{ fontSize: 40, opacity: 0.4 }}>&#x1F50D;</span>
           <div style={{
-            fontFamily: "'Rajdhani', sans-serif",
+            fontFamily: 'var(--f-body), sans-serif',
             fontSize: 14,
             color: theme.text.muted,
           }}>
@@ -558,7 +558,7 @@ export function DTCSearch({ onSelect, selectedCode, brandId, kbGenPath }: DTCSea
         }}>
           <span style={{ fontSize: 44, opacity: 0.4 }}>&#x26A0;</span>
           <div style={{
-            fontFamily: "'Rajdhani', sans-serif",
+            fontFamily: 'var(--f-body), sans-serif',
             fontSize: 13,
             color: theme.text.muted,
             lineHeight: 1.5,

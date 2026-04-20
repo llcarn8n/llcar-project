@@ -254,7 +254,7 @@ function renderMarkdownContent(content: string): JSX.Element {
             opacity: 0.7,
           }}>&#x25CF;</span>
           <span style={{
-            fontFamily: "'Rajdhani', sans-serif",
+            fontFamily: 'var(--f-body), sans-serif',
             fontSize: 13,
             color: theme.text.secondary,
             lineHeight: 1.5,
@@ -277,7 +277,7 @@ function renderMarkdownContent(content: string): JSX.Element {
           paddingLeft: 8,
         }}>
           <span style={{
-            fontFamily: "'Orbitron', sans-serif",
+            fontFamily: 'var(--f-display), sans-serif',
             fontSize: 9,
             color: theme.accent.cyan,
             minWidth: 16,
@@ -289,7 +289,7 @@ function renderMarkdownContent(content: string): JSX.Element {
             {numMatch[1]}.
           </span>
           <span style={{
-            fontFamily: "'Rajdhani', sans-serif",
+            fontFamily: 'var(--f-body), sans-serif',
             fontSize: 13,
             color: theme.text.secondary,
             lineHeight: 1.5,
@@ -316,7 +316,7 @@ function renderMarkdownContent(content: string): JSX.Element {
     // Regular paragraph
     elements.push(
       <div key={`p-${lineIdx}`} style={{
-        fontFamily: "'Rajdhani', sans-serif",
+        fontFamily: 'var(--f-body), sans-serif',
         fontSize: 13,
         color: theme.text.secondary,
         lineHeight: 1.6,
@@ -424,7 +424,7 @@ export function ManualViewer({ brandId, modelName, kbGenPath }: ManualViewerProp
         <div style={{
           textAlign: 'center',
           padding: 24,
-          fontFamily: "'Orbitron', sans-serif",
+          fontFamily: 'var(--f-display), sans-serif',
           fontSize: 12,
           color: theme.accent.cyan,
           letterSpacing: '0.15em',
@@ -443,7 +443,7 @@ export function ManualViewer({ brandId, modelName, kbGenPath }: ManualViewerProp
         <div style={{ display: 'flex', alignItems: 'center', gap: 12, padding: '16px 8px' }}>
           <span style={{ fontSize: 32, opacity: 0.3 }}>&#x1F4D6;</span>
           <div style={{
-            fontFamily: "'Rajdhani', sans-serif",
+            fontFamily: 'var(--f-body), sans-serif',
             fontSize: 12,
             color: theme.text.muted,
             lineHeight: 1.4,
@@ -489,7 +489,7 @@ export function ManualViewer({ brandId, modelName, kbGenPath }: ManualViewerProp
                 <span style={{ fontSize: 18 }}>{section.icon}</span>
                 <div style={{ flex: 1 }}>
                   <div style={{
-                    fontFamily: "'Rajdhani', sans-serif",
+                    fontFamily: 'var(--f-body), sans-serif',
                     fontSize: 13,
                     fontWeight: 700,
                     color: theme.text.secondary,
@@ -497,7 +497,7 @@ export function ManualViewer({ brandId, modelName, kbGenPath }: ManualViewerProp
                     {section.title.ru}
                   </div>
                   <div style={{
-                    fontFamily: "'Rajdhani', sans-serif",
+                    fontFamily: 'var(--f-body), sans-serif',
                     fontSize: 10,
                     color: theme.text.muted,
                   }}>
@@ -548,7 +548,7 @@ export function ManualViewer({ brandId, modelName, kbGenPath }: ManualViewerProp
                             boxShadow: isTopicExpanded ? `0 0 6px ${theme.accent.cyan}` : 'none',
                           }} />
                           <span style={{
-                            fontFamily: "'Rajdhani', sans-serif",
+                            fontFamily: 'var(--f-body), sans-serif',
                             fontSize: 12,
                             fontWeight: 500,
                             color: isTopicExpanded ? theme.text.primary : theme.text.secondary,
@@ -568,7 +568,7 @@ export function ManualViewer({ brandId, modelName, kbGenPath }: ManualViewerProp
                             marginLeft: 22,
                             padding: '8px 12px',
                             borderLeft: '2px solid rgba(0,229,255,0.15)',
-                            fontFamily: "'Rajdhani', sans-serif",
+                            fontFamily: 'var(--f-body), sans-serif',
                             fontSize: 12,
                             color: theme.text.muted,
                             lineHeight: 1.6,
@@ -609,7 +609,7 @@ export function ManualViewer({ brandId, modelName, kbGenPath }: ManualViewerProp
               border: '1px solid rgba(0,229,255,0.15)',
               background: 'rgba(0,0,0,0.2)',
               color: theme.text.primary,
-              fontFamily: "'Rajdhani', sans-serif",
+              fontFamily: 'var(--f-body), sans-serif',
               fontSize: 13,
               outline: 'none',
               transition: 'border-color 0.2s',
@@ -635,14 +635,14 @@ export function ManualViewer({ brandId, modelName, kbGenPath }: ManualViewerProp
           padding: '4px 4px',
         }}>
           <span style={{
-            fontFamily: "'Rajdhani', sans-serif",
+            fontFamily: 'var(--f-body), sans-serif',
             fontSize: 11,
             color: theme.text.muted,
           }}>
             {filteredMdSections.length} из {mdSections.length} секций
           </span>
           <span style={{
-            fontFamily: "'Orbitron', sans-serif",
+            fontFamily: 'var(--f-display), sans-serif',
             fontSize: 10,
             color: theme.accent.cyan,
             opacity: 0.6,
@@ -657,7 +657,7 @@ export function ManualViewer({ brandId, modelName, kbGenPath }: ManualViewerProp
             <div style={{
               textAlign: 'center',
               padding: 20,
-              fontFamily: "'Rajdhani', sans-serif",
+              fontFamily: 'var(--f-body), sans-serif',
               fontSize: 12,
               color: theme.text.muted,
             }}>
@@ -696,7 +696,7 @@ export function ManualViewer({ brandId, modelName, kbGenPath }: ManualViewerProp
                   }}>&#x25B6;</span>
                   <div style={{ flex: 1 }}>
                     <div style={{
-                      fontFamily: "'Rajdhani', sans-serif",
+                      fontFamily: 'var(--f-body), sans-serif',
                       fontSize: section.level === 1 ? 14 : section.level === 2 ? 13 : 12,
                       fontWeight: section.level === 1 ? 700 : 600,
                       color: section.level === 1 ? theme.text.primary : theme.text.secondary,
@@ -761,7 +761,7 @@ export function ManualViewer({ brandId, modelName, kbGenPath }: ManualViewerProp
               onClick={() => setViewMode('dita')}
               style={{
                 padding: '4px 10px',
-                fontFamily: "'Orbitron', sans-serif",
+                fontFamily: 'var(--f-display), sans-serif',
                 fontSize: 9,
                 letterSpacing: '0.05em',
                 border: 'none',
@@ -777,7 +777,7 @@ export function ManualViewer({ brandId, modelName, kbGenPath }: ManualViewerProp
               onClick={() => setViewMode('md')}
               style={{
                 padding: '4px 10px',
-                fontFamily: "'Orbitron', sans-serif",
+                fontFamily: 'var(--f-display), sans-serif',
                 fontSize: 9,
                 letterSpacing: '0.05em',
                 border: 'none',

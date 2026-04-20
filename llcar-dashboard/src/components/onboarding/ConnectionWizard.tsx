@@ -136,7 +136,7 @@ const formPanelStyle: React.CSSProperties = {
 const btnPrimaryStyle: React.CSSProperties = {
   padding: '10px 28px',
   fontSize: 13,
-  fontFamily: "'Rajdhani', sans-serif",
+  fontFamily: 'var(--f-body), sans-serif',
   fontWeight: 700,
   color: '#0C1220',
   background: 'linear-gradient(135deg, var(--accent-cyan), var(--accent-teal))',
@@ -152,7 +152,7 @@ const btnPrimaryStyle: React.CSSProperties = {
 const btnSecondaryStyle: React.CSSProperties = {
   padding: '10px 20px',
   fontSize: 12,
-  fontFamily: "'Rajdhani', sans-serif",
+  fontFamily: 'var(--f-body), sans-serif',
   fontWeight: 600,
   color: 'var(--text-muted)',
   background: 'transparent',
@@ -169,7 +169,7 @@ function ProgressBar({ current, total }: { current: number; total: number }) {
   return (
     <div style={{ display: 'flex', alignItems: 'center', gap: 10, marginBottom: 4 }}>
       <span style={{
-        fontFamily: "'Orbitron', sans-serif",
+        fontFamily: 'var(--f-display), sans-serif',
         fontSize: 10,
         letterSpacing: '0.15em',
         color: 'var(--accent-cyan)',
@@ -237,7 +237,7 @@ function StepContent({ step, stepIndex, totalSteps }: {
         </div>
         <div>
           <div style={{
-            fontFamily: "'Orbitron', sans-serif",
+            fontFamily: 'var(--f-display), sans-serif',
             fontSize: 13,
             fontWeight: 700,
             color: 'var(--accent-cyan)',
@@ -252,7 +252,7 @@ function StepContent({ step, stepIndex, totalSteps }: {
 
       {/* Description */}
       <div style={{
-        fontFamily: "'Rajdhani', sans-serif",
+        fontFamily: 'var(--f-body), sans-serif',
         fontSize: 14,
         fontWeight: 500,
         color: 'var(--text-secondary)',
@@ -304,7 +304,7 @@ function StepContent({ step, stepIndex, totalSteps }: {
                 {'\u25C6'}
               </span>
               <span style={{
-                fontFamily: "'Rajdhani', sans-serif",
+                fontFamily: 'var(--f-body), sans-serif',
                 fontSize: 13,
                 color: 'var(--text-secondary)',
                 letterSpacing: '0.02em',
@@ -332,7 +332,7 @@ function StepContent({ step, stepIndex, totalSteps }: {
             {'\u26A0'}
           </span>
           <span style={{
-            fontFamily: "'Rajdhani', sans-serif",
+            fontFamily: 'var(--f-body), sans-serif',
             fontSize: 12,
             fontWeight: 600,
             color: 'var(--status-warning, #FFB300)',
@@ -404,7 +404,7 @@ export function ConnectionWizard({ asModal = false, onComplete }: ConnectionWiza
           }}
         />
         <div style={{
-          fontFamily: "'Orbitron', sans-serif",
+          fontFamily: 'var(--f-display), sans-serif',
           fontSize: 11,
           fontWeight: 700,
           letterSpacing: '0.15em',
@@ -416,7 +416,7 @@ export function ConnectionWizard({ asModal = false, onComplete }: ConnectionWiza
           LLCAR
         </div>
         <div style={{
-          fontFamily: "'Rajdhani', sans-serif",
+          fontFamily: 'var(--f-body), sans-serif',
           fontSize: 10,
           color: 'var(--text-muted)',
           textAlign: 'center',
@@ -483,7 +483,7 @@ export function ConnectionWizard({ asModal = false, onComplete }: ConnectionWiza
             color: 'var(--text-muted)',
             cursor: 'pointer',
             fontSize: 14,
-            fontFamily: "'Rajdhani', sans-serif",
+            fontFamily: 'var(--f-body), sans-serif',
             transition: 'all 0.3s',
           }}
           aria-label="Close"

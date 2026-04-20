@@ -140,8 +140,8 @@ function TempDisplay({ value, color }: { value: number; color: string }) {
       textAlign: 'center' as const,
       pointerEvents: 'none' as const,
     }}>
-      <div style={{ fontFamily: "'Orbitron', sans-serif", fontSize: 8, color: `${color}88`, letterSpacing: '0.15em', marginBottom: 3 }}>ТЕМП. ОЖ</div>
-      <div style={{ fontFamily: "'Share Tech Mono', monospace", fontSize: 22, color: '#fff', textShadow: `0 0 8px ${color}88`, lineHeight: 1 }}>{value}<span style={{ fontSize: 11, color: `${color}88` }}>°C</span></div>
+      <div style={{ fontFamily: 'var(--f-display), sans-serif', fontSize: 8, color: `${color}88`, letterSpacing: '0.15em', marginBottom: 3 }}>ТЕМП. ОЖ</div>
+      <div style={{ fontFamily: 'var(--f-mono), monospace', fontSize: 22, color: '#fff', textShadow: `0 0 8px ${color}88`, lineHeight: 1 }}>{value}<span style={{ fontSize: 11, color: `${color}88` }}>°C</span></div>
     </div>
   )
 }
@@ -253,7 +253,7 @@ function MiniAccelCloud({ position, vibration, severity, onClick }: {
       {/* Value label */}
       <Html position={[0, -0.5, 0]} center distanceFactor={10} zIndexRange={[1, 0]}>
         <div style={{
-          fontFamily: "'Share Tech Mono', monospace",
+          fontFamily: 'var(--f-mono), monospace',
           fontSize: 14,
           color: color,
           textShadow: `0 0 6px ${color}88`,
@@ -271,7 +271,7 @@ function MiniAccelCloud({ position, vibration, severity, onClick }: {
         onMouseEnter={(e) => { (e.target as HTMLElement).style.borderColor = `${color}88`; (e.target as HTMLElement).style.boxShadow = `0 0 16px ${color}44` }}
         onMouseLeave={(e) => { (e.target as HTMLElement).style.borderColor = `${color}33`; (e.target as HTMLElement).style.boxShadow = 'none' }}
         >
-          <div style={{ fontSize: 9, color: `${color}88`, letterSpacing: '0.15em', fontFamily: "'Orbitron', sans-serif" }}>ВИБРАЦИЯ</div>
+          <div style={{ fontSize: 9, color: `${color}88`, letterSpacing: '0.15em', fontFamily: 'var(--f-display), sans-serif' }}>ВИБРАЦИЯ</div>
           <div>{vibration.toFixed(1)} <span style={{ fontSize: 10, opacity: 0.6 }}>m/s²</span></div>
           <div style={{ fontSize: 7, color: `${color}55`, marginTop: 2 }}>нажмите для деталей</div>
         </div>

@@ -26,7 +26,7 @@ export function StatusPills({ systems }: { systems: SubsystemStatus[] }) {
             display: 'flex', alignItems: 'center', gap: 6,
             padding: '4px 10px', borderRadius: 20,
             background: `${color}12`, border: `1px solid ${color}33`,
-            fontSize: 10, fontFamily: "'Rajdhani', sans-serif", fontWeight: 600,
+            fontSize: 10, fontFamily: 'var(--f-body), sans-serif', fontWeight: 600,
             color, letterSpacing: '0.05em', textTransform: 'uppercase' as const,
           }}>
             {/* LED dot */}

@@ -57,7 +57,7 @@ export function QualityBadge(props: QualityBadgeProps) {
         display: 'inline-flex',
         alignItems: 'center',
         gap: 4,
-        fontFamily: "'Orbitron', sans-serif",
+        fontFamily: 'var(--f-display), sans-serif',
         fontSize,
         fontWeight: 700,
         color: style.color,

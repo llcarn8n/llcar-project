@@ -66,7 +66,7 @@ export function PaywallOverlay({
         {/* Lock icon */}
         <div
           style={{
-            fontFamily: "'Orbitron', sans-serif",
+            fontFamily: 'var(--f-display), sans-serif',
             fontSize: compact ? 14 : 18,
             fontWeight: 600,
             letterSpacing: '0.1em',
@@ -85,7 +85,7 @@ export function PaywallOverlay({
             navigate('/pricing')
           }}
           style={{
-            fontFamily: "'Orbitron', sans-serif",
+            fontFamily: 'var(--f-display), sans-serif',
             fontSize: compact ? 10 : 12,
             fontWeight: 600,
             letterSpacing: '0.1em',
@@ -108,7 +108,7 @@ export function PaywallOverlay({
           <button
             onClick={() => navigate('/pricing')}
             style={{
-              fontFamily: "'Rajdhani', sans-serif",
+              fontFamily: 'var(--f-body), sans-serif',
               fontSize: 12,
               color: theme.text.secondary,
               background: 'none',

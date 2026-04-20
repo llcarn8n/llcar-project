@@ -124,7 +124,7 @@ export function ShareButton({ report, clientHash }: ShareButtonProps) {
         style={{
           padding: '3px 8px',
           fontSize: 9,
-          fontFamily: "'Orbitron', sans-serif",
+          fontFamily: 'var(--f-display), sans-serif',
           color: theme.text.muted,
           background: 'transparent',
           border: `1px solid ${theme.text.muted}30`,
@@ -187,7 +187,7 @@ export function ShareButton({ report, clientHash }: ShareButtonProps) {
                 border: 'none',
                 color: theme.text.secondary,
                 fontSize: 12,
-                fontFamily: "'Rajdhani', sans-serif",
+                fontFamily: 'var(--f-body), sans-serif',
                 fontWeight: 500,
                 cursor: 'pointer',
                 textAlign: 'left',

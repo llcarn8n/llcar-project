@@ -38,7 +38,7 @@ export function RobotTooltip({ text, children }: RobotTooltipProps) {
             padding: '8px 12px',
             maxWidth: 220,
             fontSize: 11,
-            fontFamily: "'Rajdhani', sans-serif",
+            fontFamily: 'var(--f-body), sans-serif',
             color: theme.text.secondary,
             lineHeight: 1.4,
             boxShadow: `0 4px 16px rgba(0,0,0,0.4), 0 0 12px ${theme.accent.cyan}10`,

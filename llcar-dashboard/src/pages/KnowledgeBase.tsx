@@ -220,7 +220,7 @@ export function KnowledgeBase() {
             <div>
               <div className="hud-header" style={{ marginBottom: 4 }}>База знаний</div>
               <div style={{
-                fontFamily: "'Rajdhani', sans-serif",
+                fontFamily: 'var(--f-body), sans-serif',
                 fontSize: 13,
                 color: theme.text.muted,
                 lineHeight: 1.4,
@@ -364,7 +364,7 @@ export function KnowledgeBase() {
                       onClick={() => setLeftTab(tab.id)}
                       style={{
                         padding: '8px 18px',
-                        fontFamily: "'Orbitron', sans-serif",
+                        fontFamily: 'var(--f-display), sans-serif',
                         fontSize: 11,
                         fontWeight: 700,
                         letterSpacing: '0.12em',
@@ -454,7 +454,7 @@ export function KnowledgeBase() {
                     {/* Title + meta */}
                     <div style={{ flex: 1, minWidth: 0 }}>
                       <div style={{
-                        fontFamily: "'Rajdhani', sans-serif",
+                        fontFamily: 'var(--f-body), sans-serif',
                         fontSize: 12,
                         fontWeight: 600,
                         color: theme.text.secondary,
@@ -467,7 +467,7 @@ export function KnowledgeBase() {
                       </div>
                       {(v.channel || v.duration) && (
                         <div style={{
-                          fontFamily: "'Rajdhani', sans-serif",
+                          fontFamily: 'var(--f-body), sans-serif',
                           fontSize: 10,
                           color: theme.text.muted,
                           marginTop: 2,
@@ -479,7 +479,7 @@ export function KnowledgeBase() {
 
                     {/* Source badge */}
                     <span style={{
-                      fontFamily: "'Orbitron', sans-serif",
+                      fontFamily: 'var(--f-display), sans-serif',
                       fontSize: 8,
                       fontWeight: 700,
                       color: source.color,
@@ -513,7 +513,7 @@ export function KnowledgeBase() {
                   border: '1px solid rgba(0,229,255,0.06)',
                 }}>
                   <div style={{
-                    fontFamily: "'Rajdhani', sans-serif",
+                    fontFamily: 'var(--f-body), sans-serif',
                     fontSize: 12,
                     fontWeight: 700,
                     color: theme.text.secondary,
@@ -525,7 +525,7 @@ export function KnowledgeBase() {
 
                   {r.quotes && r.quotes.length > 0 && (
                     <div style={{
-                      fontFamily: "'Rajdhani', sans-serif",
+                      fontFamily: 'var(--f-body), sans-serif',
                       fontSize: 11,
                       color: theme.text.muted,
                       lineHeight: 1.5,
@@ -544,7 +544,7 @@ export function KnowledgeBase() {
                       target="_blank"
                       rel="noopener noreferrer"
                       style={{
-                        fontFamily: "'Orbitron', sans-serif",
+                        fontFamily: 'var(--f-display), sans-serif',
                         fontSize: 8,
                         fontWeight: 700,
                         color: theme.accent.cyan,
@@ -583,7 +583,7 @@ export function KnowledgeBase() {
                     border: '1px solid rgba(0,229,255,0.05)',
                   }}>
                     <div style={{
-                      fontFamily: "'Rajdhani', sans-serif",
+                      fontFamily: 'var(--f-body), sans-serif',
                       fontSize: 12,
                       fontWeight: 600,
                       color: theme.text.secondary,
@@ -596,7 +596,7 @@ export function KnowledgeBase() {
                     <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginTop: 2, gap: 6 }}>
                       {article && (
                         <span style={{
-                          fontFamily: "'Orbitron', sans-serif",
+                          fontFamily: 'var(--f-display), sans-serif',
                           fontSize: 9,
                           color: theme.accent.cyan,
                           letterSpacing: '0.05em',
@@ -607,7 +607,7 @@ export function KnowledgeBase() {
                       {p.category && (
                         <span style={{
                           fontSize: 9,
-                          fontFamily: "'Rajdhani', sans-serif",
+                          fontFamily: 'var(--f-body), sans-serif',
                           color: theme.text.muted,
                           fontWeight: 600,
                         }}>
@@ -616,7 +616,7 @@ export function KnowledgeBase() {
                       )}
                       {typeof price === 'number' && price > 0 && (
                         <span style={{
-                          fontFamily: "'Orbitron', sans-serif",
+                          fontFamily: 'var(--f-display), sans-serif',
                           fontSize: 10,
                           color: '#FFD700',
                           fontWeight: 700,
@@ -638,7 +638,7 @@ export function KnowledgeBase() {
           <GlassPanel>
             <div className="hud-header mb-3">Мануал</div>
             <div style={{
-              fontFamily: "'Rajdhani', sans-serif",
+              fontFamily: 'var(--f-body), sans-serif',
               fontSize: 12,
               color: theme.text.secondary,
               lineHeight: 1.5,
@@ -649,7 +649,7 @@ export function KnowledgeBase() {
               <div style={{ display: 'flex', gap: 6, marginTop: 6, flexWrap: 'wrap' }}>
                 {manualMeta.has_dita && (
                   <span style={{
-                    fontFamily: "'Orbitron', sans-serif",
+                    fontFamily: 'var(--f-display), sans-serif',
                     fontSize: 9,
                     color: theme.accent.teal,
                     padding: '2px 6px',
@@ -661,7 +661,7 @@ export function KnowledgeBase() {
                 )}
                 {manualMeta.has_pdf && (
                   <span style={{
-                    fontFamily: "'Orbitron', sans-serif",
+                    fontFamily: 'var(--f-display), sans-serif',
                     fontSize: 9,
                     color: theme.status.critical,
                     padding: '2px 6px',
@@ -675,7 +675,7 @@ export function KnowledgeBase() {
                   <span style={{
                     fontSize: 9,
                     color: theme.text.muted,
-                    fontFamily: "'Rajdhani', sans-serif",
+                    fontFamily: 'var(--f-body), sans-serif',
                   }}>
                     {manualMeta.variants.length} вариантов
                   </span>
