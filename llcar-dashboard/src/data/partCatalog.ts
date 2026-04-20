@@ -8,7 +8,7 @@ import type { PartSpec } from '../types/rules'
 export const partCatalog: PartSpec[] = [
   // ── Шины (tires) ──
   {
-    nodeNames: ['шина пл', 'колесо пл', 'дверь передняя левая 3'],
+    nodeNames: ['шина пл', 'колесо пл резиновая накладка', 'дверь передняя левая 3'],
     display: 'Шина передняя левая',
     category: 'suspension',
     corner: 'fl',
@@ -22,7 +22,7 @@ export const partCatalog: PartSpec[] = [
     relatedRules: ['tire_pressure_low_wheel_hop', 'wheel_imbalance_speed_resonance', 'aquaplaning_risk'],
   },
   {
-    nodeNames: ['шина пп', 'колесо пп', 'дверь передняя правая 3'],
+    nodeNames: ['шина пп', 'колесо пп резиновая накладка', 'дверь передняя правая 3'],
     display: 'Шина передняя правая',
     category: 'suspension',
     corner: 'fr',
@@ -36,7 +36,7 @@ export const partCatalog: PartSpec[] = [
     relatedRules: ['tire_pressure_low_wheel_hop', 'wheel_imbalance_speed_resonance', 'aquaplaning_risk'],
   },
   {
-    nodeNames: ['шина зл', 'колесо зл', 'дверь задняя левая 3'],
+    nodeNames: ['шина зл', 'колесо зл резиновая накладка', 'дверь задняя левая 3'],
     display: 'Шина задняя левая',
     category: 'suspension',
     corner: 'rl',
@@ -50,7 +50,7 @@ export const partCatalog: PartSpec[] = [
     relatedRules: ['tire_pressure_low_wheel_hop', 'wheel_imbalance_speed_resonance', 'aquaplaning_risk'],
   },
   {
-    nodeNames: ['шина зп', 'колесо зп', 'дверь задняя правая 3'],
+    nodeNames: ['шина зп', 'колесо зп резиновая накладка', 'дверь задняя правая 3'],
     display: 'Шина задняя правая',
     category: 'suspension',
     corner: 'rr',
@@ -172,6 +172,24 @@ export const partCatalog: PartSpec[] = [
       { label: 'Размах AZ', key: 'az_range', unit: 'm/s²', precision: 2 },
       { label: 'Crest factor', key: 'crest_factor_z', precision: 2 },
       { label: 'Confidence', key: 'shock_absorber_worn_conf_rr', unit: '%', precision: 0 },
+    ],
+    relatedRules: ['shock_absorber_worn', 'damper_energy_decay_poor', 'worn_suspension'],
+  },
+  // Общий узел GLB "Амортизатор_З_(шир)#2" / "Амортизатор_задний#2" представляет
+  // СРАЗУ все 4 амортизатора (мешы не разделены по углам). На hover показываем
+  // агрегированный tooltip со всеми 4 AZ_STD + Crest по углам.
+  {
+    nodeNames: ['амортизатор з (шир)', 'амортизатор задний'],
+    display: 'Амортизаторы (все 4)',
+    category: 'suspension',
+    params: [
+      { label: 'AZ_STD ПЛ', key: 'az_std_fl', unit: 'm/s²', precision: 2 },
+      { label: 'AZ_STD ПП', key: 'az_std_fr', unit: 'm/s²', precision: 2 },
+      { label: 'AZ_STD ЗЛ', key: 'az_std_rl', unit: 'm/s²', precision: 2 },
+      { label: 'AZ_STD ЗП', key: 'az_std_rr', unit: 'm/s²', precision: 2 },
+      { label: 'Пик AZ', key: 'az_peak_abs', unit: 'm/s²', precision: 2 },
+      { label: 'Размах AZ', key: 'az_range', unit: 'm/s²', precision: 2 },
+      { label: 'Crest factor', key: 'crest_factor_z', precision: 2 },
     ],
     relatedRules: ['shock_absorber_worn', 'damper_energy_decay_poor', 'worn_suspension'],
   },
