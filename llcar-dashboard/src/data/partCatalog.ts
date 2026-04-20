@@ -713,50 +713,6 @@ export const partCatalog: PartSpec[] = [
   },
 
   // ── Колёсные диски / обшивки (fall-through для Колесо_*_—_Обшивка/Отделка) ──
-  {
-    nodeNames: ['колесо_пл'],
-    display: 'Колёсный диск ПЛ',
-    category: 'suspension',
-    corner: 'fl',
-    params: [
-      { label: 'AZ_STD', key: 'az_std_fl', unit: 'm/s²', precision: 2 },
-      { label: 'Давление', key: 'pressure_fl', unit: 'psi', precision: 1 },
-    ],
-    relatedRules: ['wheel_imbalance_speed_resonance', 'tire_pressure_low_wheel_hop'],
-  },
-  {
-    nodeNames: ['колесо_пп'],
-    display: 'Колёсный диск ПП',
-    category: 'suspension',
-    corner: 'fr',
-    params: [
-      { label: 'AZ_STD', key: 'az_std_fr', unit: 'm/s²', precision: 2 },
-      { label: 'Давление', key: 'pressure_fr', unit: 'psi', precision: 1 },
-    ],
-    relatedRules: ['wheel_imbalance_speed_resonance', 'tire_pressure_low_wheel_hop'],
-  },
-  {
-    nodeNames: ['колесо_зл'],
-    display: 'Колёсный диск ЗЛ',
-    category: 'suspension',
-    corner: 'rl',
-    params: [
-      { label: 'AZ_STD', key: 'az_std_rl', unit: 'm/s²', precision: 2 },
-      { label: 'Давление', key: 'pressure_rl', unit: 'psi', precision: 1 },
-    ],
-    relatedRules: ['wheel_imbalance_speed_resonance', 'tire_pressure_low_wheel_hop'],
-  },
-  {
-    nodeNames: ['колесо_зп'],
-    display: 'Колёсный диск ЗП',
-    category: 'suspension',
-    corner: 'rr',
-    params: [
-      { label: 'AZ_STD', key: 'az_std_rr', unit: 'm/s²', precision: 2 },
-      { label: 'Давление', key: 'pressure_rr', unit: 'psi', precision: 1 },
-    ],
-    relatedRules: ['wheel_imbalance_speed_resonance', 'tire_pressure_low_wheel_hop'],
-  },
 ]
 
 // Нормализуем имя узла: lowercase + убираем пробелы/подчёркивания/любые тире
