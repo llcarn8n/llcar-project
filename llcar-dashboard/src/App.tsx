@@ -1,5 +1,5 @@
 import { lazy, Suspense } from 'react'
-import { Routes, Route, Navigate, useLocation } from 'react-router-dom'
+import { Routes, Route, Navigate, useLocation, useNavigate } from 'react-router-dom'
 import { MainLayout } from './layouts/MainLayout'
 import { ThemeProvider } from './components/shared/ThemeProvider'
 import { useDashboardStore } from './stores/dashboardStore'
@@ -48,6 +48,7 @@ function App() {
   } = useDashboardStore()
 
   const location = useLocation()
+  const navigate = useNavigate()
 
   // /welcome — всегда показывает Landing, даже если профиль уже сохранён
   if (location.pathname === '/welcome') {
@@ -118,9 +119,18 @@ function App() {
       {showVehicleSetup && (
         <VehicleSetup asModal onComplete={() => closeVehicleSetup()} />
       )}
-      {/* Connection wizard modal (from sidebar) */}
+      {/* Connection wizard modal — открывается с сайдбара, /welcome и /pricing */}
       {showConnectionWizard && (
-        <ConnectionWizard asModal onComplete={() => closeConnectionWizard()} />
+        <ConnectionWizard
+          asModal
+          onComplete={() => {
+            closeConnectionWizard()
+            // Если юзер стартовал онбординг с /pricing — после завершения сразу на диагностику.
+            if (location.pathname === '/pricing') {
+              navigate('/')
+            }
+          }}
+        />
       )}
     </ThemeProvider>
   )

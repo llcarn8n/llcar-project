@@ -94,6 +94,7 @@ const tiers = [
 export function Pricing() {
   const navigate = useNavigate()
   const setUserTier = useDashboardStore(s => s.setUserTier)
+  const openConnectionWizard = useDashboardStore(s => s.openConnectionWizard)
   const [expandedFaq, setExpandedFaq] = useState<number | null>(null)
   const [emailForm, setEmailForm] = useState<{ open: boolean; tier: string; email: string; submitted: boolean }>({
     open: false,
@@ -101,6 +102,7 @@ export function Pricing() {
     email: '',
     submitted: false,
   })
+  void navigate
 
   useEffect(() => {
     trackEvent('pricing_page_view')
@@ -109,7 +111,9 @@ export function Pricing() {
   const handleCta = (tierId: string) => {
     trackEvent('pricing_cta_click', { tier: tierId })
     if (tierId === 'free') {
-      navigate('/')
+      // FREE тариф → OBD-онбординг (5-шаговая инструкция подключения сканера),
+      // а не прямой переход на /v3/diagnostics. ConnectionWizard.onComplete сам переведёт на /.
+      openConnectionWizard()
       return
     }
     setEmailForm({ open: true, tier: tierId, email: '', submitted: false })
@@ -554,7 +558,7 @@ export function Pricing() {
             ГОТОВЫ ПРОВЕРИТЬ?
           </h2>
           <button
-            onClick={() => navigate('/')}
+            onClick={() => { trackEvent('pricing_cta_click', { tier: 'bottom-cta' }); openConnectionWizard() }}
             style={{
               fontFamily: "var(--f-display)",
               fontSize: 13,
@@ -568,6 +572,7 @@ export function Pricing() {
               cursor: 'pointer',
               boxShadow: '0 0 16px rgba(230,212,168,0.3)',
               transition: 'all 0.3s',
+              minHeight: 48,
             }}
           >
             НАЧАТЬ ДИАГНОСТИКУ
