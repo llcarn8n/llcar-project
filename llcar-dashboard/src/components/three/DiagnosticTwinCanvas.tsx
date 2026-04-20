@@ -59,44 +59,57 @@ const DEFAULT_CAM_POS_MOBILE = new THREE.Vector3(8.0, 2.7, 3.8)
 const DEFAULT_TARGET = new THREE.Vector3(0, 0, 0)
 
 // Плавный перелёт камеры к системе активного диагноза.
-// Когда activeRuleDrawer открыт → ищем подходящую систему, летим к её centroid.
-// При закрытии (null) — возвращаемся в default orbit.
+// Работает только во время активного «перелёта»; по достижении цели отпускает
+// OrbitControls, чтобы пользователь мог свободно крутить/зумить компонент.
+// При закрытии drawer / смене системы — начинается новый перелёт.
 function CameraAutopilot({ centroids, isMobile }: {
   centroids: SystemCentroids
   isMobile: boolean
 }) {
   const { camera } = useThree()
+  const controls = useThree((s) => s.controls) as unknown as
+    | { target: THREE.Vector3; enabled: boolean; update: () => void }
+    | null
   const activeRuleDrawer = useDashboardStore((s) => s.activeRuleDrawer)
   const targetPos = useRef(new THREE.Vector3().copy(isMobile ? DEFAULT_CAM_POS_MOBILE : DEFAULT_CAM_POS_DESKTOP))
-  const targetLook = useRef(new THREE.Vector3().copy(DEFAULT_TARGET))
-  const tmpLook = useRef(new THREE.Vector3())
+  const targetLook = useRef(new THREE.Vector3(0, 0.3, 0))
+  const isPiloting = useRef(false)
 
   useEffect(() => {
     const system = ruleNameToSystem(activeRuleDrawer?.ruleName ?? null)
     const defaultPos = isMobile ? DEFAULT_CAM_POS_MOBILE : DEFAULT_CAM_POS_DESKTOP
     if (!system || !centroids[system]) {
-      targetPos.current.copy(defaultPos)
-      targetLook.current.copy(DEFAULT_TARGET)
+      // Drawer закрыт или правило не матчится — ничего не трогаем, отпускаем контроль
+      isPiloting.current = false
+      if (controls) controls.enabled = true
       return
     }
     // Halos рендерятся со смещением [0,-0.5,0], учитываем для lookAt
     const centroid = centroids[system]!.clone()
     centroid.y += -0.5
     targetLook.current.copy(centroid)
-    // Камеру ставим чуть в стороне от centroid — 3м по направлению из defaultPos
+    // Камеру ставим в стороне от centroid — 3.2м по направлению из defaultPos
     const offset = defaultPos.clone().sub(DEFAULT_TARGET).normalize().multiplyScalar(3.2)
     targetPos.current.copy(centroid).add(offset)
-  }, [activeRuleDrawer, centroids, isMobile])
+    isPiloting.current = true
+    if (controls) controls.enabled = false
+  }, [activeRuleDrawer, centroids, isMobile, controls])
 
   useFrame((_, delta) => {
+    if (!isPiloting.current) return
     const lerpAmount = Math.min(1, delta * 3.5)
     camera.position.lerp(targetPos.current, lerpAmount)
-    tmpLook.current.lerp(targetLook.current, lerpAmount)
-    // Первый кадр tmpLook = (0,0,0), нужно явно инициализировать к target
-    if (tmpLook.current.lengthSq() < 0.0001 && targetLook.current.lengthSq() > 0.0001) {
-      tmpLook.current.copy(targetLook.current)
+    if (controls) {
+      controls.target.lerp(targetLook.current, lerpAmount)
+      controls.update()
+    } else {
+      camera.lookAt(targetLook.current)
     }
-    camera.lookAt(tmpLook.current)
+    // По достижении цели отпускаем контроль — пользователь уточнит обзор сам
+    if (camera.position.distanceTo(targetPos.current) < 0.05) {
+      isPiloting.current = false
+      if (controls) controls.enabled = true
+    }
   })
 
   return null

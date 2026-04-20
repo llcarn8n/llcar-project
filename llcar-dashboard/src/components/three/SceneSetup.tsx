@@ -19,6 +19,7 @@ export function SceneSetup() {
       <pointLight position={[0, 1.2, 0]} color="#6B5AE0" intensity={0.22} distance={8} decay={2} />
 
       <OrbitControls
+        makeDefault
         enablePan={false}
         enableZoom={true}
         enableRotate={true}
