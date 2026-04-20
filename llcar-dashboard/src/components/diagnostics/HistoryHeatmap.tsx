@@ -137,12 +137,27 @@ export function HistoryHeatmap({ history, height = 220 }: HistoryHeatmapProps) {
     )
   }
 
+  // Natural width per column so ECharts won't squeeze ~30 точек into 360px на мобиле
+  // и пользователь может горизонтально свайпать таймлайн.
+  const minWidth = Math.max(360, xLabels.length * 36 + 120)
+
   return (
-    <ReactECharts
-      option={option}
-      style={{ height, width: '100%' }}
-      notMerge={true}
-      lazyUpdate={true}
-    />
+    <div
+      style={{
+        width: '100%',
+        overflowX: 'auto',
+        overflowY: 'hidden',
+        touchAction: 'pan-x pan-y',
+        WebkitOverflowScrolling: 'touch',
+        overscrollBehaviorX: 'contain',
+      }}
+    >
+      <ReactECharts
+        option={option}
+        style={{ height, width: '100%', minWidth }}
+        notMerge={true}
+        lazyUpdate={true}
+      />
+    </div>
   )
 }
