@@ -422,7 +422,11 @@ export const partCatalog: PartSpec[] = [
     params: [
       { label: 'RPM', key: 'rpm', unit: 'об/мин', precision: 0 },
       { label: 'Coolant', key: 'coolant_temp', unit: '°C', precision: 0 },
+      { label: 'Нагрузка', key: 'engine_load', unit: '%', precision: 0 },
+      { label: 'Дроссель', key: 'throttle_pos', unit: '%', precision: 0 },
       { label: 'LTFT B1', key: 'ltft_bank1', unit: '%', precision: 1 },
+      { label: 'STFT B1', key: 'stft_bank1', unit: '%', precision: 1 },
+      { label: 'ΔLTFT-STFT', key: 'fuel_trim_delta', unit: '%', precision: 1 },
     ],
     relatedRules: ['misfire', 'knock_detonation', 'engine_overheating', 'idle_vibration_high'],
   },

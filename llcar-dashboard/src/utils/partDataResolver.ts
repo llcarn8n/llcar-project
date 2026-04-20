@@ -48,12 +48,57 @@ export function resolvePartValue(
   }
 
   // OBD PIDs exposed by /api/data/
-  if (key === 'rpm') return pids?.p010c ?? null
-  if (key === 'coolant_temp') return pids?.p0142 ?? null
-  if (key === 'ltft_bank1') return pids?.p06 ?? null
-  if (key === 'voltage_12v') return pids?.p0142_v ?? pids?.voltage ?? null
+  // Backend currently returns flat field names (rpm/coolant/voltage/engine_load/throttle/ltft/stft)
+  // on the overview-tab response; legacy OBD-codes (p010c/p0142/p06) are kept as fallback for
+  // older endpoints.
+  const pidRpm = pids?.rpm ?? pids?.p010c
+  const pidCoolant = pids?.coolant ?? pids?.p0142
+  const pidLtft = pids?.ltft ?? pids?.p06
+  const pidStft = pids?.stft
+  // Voltage в сыром виде бэк шлёт в миливольтах (e.g. 13804 mV); normalize когда >50.
+  const rawV = pids?.voltage ?? pids?.p0142_v
+  const pidVoltage = typeof rawV === 'number' ? (rawV > 50 ? rawV / 1000 : rawV) : undefined
+  const pidEngineLoad = pids?.engine_load
+  const pidThrottle = pids?.throttle
+
+  if (key === 'rpm') return pidRpm ?? null
+  if (key === 'coolant_temp') return pidCoolant ?? null
+  if (key === 'ltft_bank1') return pidLtft ?? null
+  if (key === 'voltage_12v') return pidVoltage ?? null
+  if (key === 'engine_load') return pidEngineLoad ?? null
+  if (key === 'throttle_pos' || key === 'throttle') return pidThrottle ?? null
+  if (key === 'stft_bank1') return pidStft ?? null
+  if (key === 'ltft_abs') return typeof pidLtft === 'number' ? Math.abs(pidLtft) : null
+  if (key === 'fuel_trim_delta') {
+    return (typeof pidLtft === 'number' && typeof pidStft === 'number') ? pidLtft - pidStft : null
+  }
+  // Поля, которые бэк может слать по VIN / extended PIDs — пробуем напрямую, null если нет.
+  if (key === 'maf') return (pids as any)?.maf ?? null
+  if (key === 'map_pressure') return (pids as any)?.map_pressure ?? (pids as any)?.map ?? null
+  if (key === 'oil_pressure') return (pids as any)?.oil_pressure ?? null
+  if (key === 'o2_voltage') return (pids as any)?.o2_voltage ?? null
+  if (key === 'runtime') return (pids as any)?.runtime ?? null
+  if (key === 'ltft_bank2') return (pids as any)?.ltft_bank2 ?? null
+
+  // Freeze-frame fallback — берём snapshot из последнего диагноза, если он есть,
+  // когда live PIDs недоступны. Это даёт tooltip «что было на момент срабатывания».
+  if (key === 'freeze_rpm' || key === 'freeze_speed' || key === 'freeze_coolant' ||
+      key === 'freeze_engine_load' || key === 'freeze_throttle' || key === 'freeze_voltage' ||
+      key === 'freeze_ltft' || key === 'freeze_stft' || key === 'freeze_outdoor_temp' ||
+      key === 'freeze_weather') {
+    if (!report || !Array.isArray(report.diagnoses)) return null
+    for (const d of report.diagnoses) {
+      const f = (d as { freeze_frame?: Record<string, unknown> }).freeze_frame
+      if (!f) continue
+      const sub = key.replace(/^freeze_/, '')
+      const val = (f as any)[sub]
+      if (typeof val === 'number' || typeof val === 'string') return val
+    }
+    return null
+  }
 
   // Not yet surfaced by this frontend — null keeps tooltip clean.
+  // (Большинство — требуют P3: per-corner IMU, HV CAN-парсер, extended VIN PIDs.)
   if (key === 'motor_temp') return null
   if (key === 'motor_power_kw') return null
   if (key === 'hv_voltage') return null
@@ -64,9 +109,6 @@ export function resolvePartValue(
   if (key === 'stabilizer_link_worn_conf') return null
   if (key === 'ball_joint_early_wear_conf') return null
   if (key === 'cv_joint_click_amp') return null
-  if (key === 'wheel_bearing_bpfo_harmonic') return null
-  if (key === 'bushing_wear_120_180hz') return null
-  if (key === 'audio_speed_ratio') return null
   if (/^shock_absorber_worn_conf_/.test(key)) return null
 
   if (key === 'ay_std') {
