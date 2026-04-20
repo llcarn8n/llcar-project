@@ -39,8 +39,13 @@ export default function PartTooltip() {
     return () => window.removeEventListener('resize', onResize)
   }, [])
 
-  const { rows, pendingLabels } = useMemo(() => {
-    const empty = { rows: [] as Array<{ label: string; value: string; unit?: string }>, pendingLabels: [] as string[] }
+  const { rows, pendingLabels, freezeSnapshot } = useMemo(() => {
+    type FreezeRow = { label: string; value: string; unit?: string }
+    const empty = {
+      rows: [] as Array<{ label: string; value: string; unit?: string }>,
+      pendingLabels: [] as string[],
+      freezeSnapshot: null as { ruleName: string; rows: FreezeRow[] } | null,
+    }
     if (!hoveredPart || !hoveredPart.partSpec) return empty
     const spec = hoveredPart.partSpec
     if (!Array.isArray(spec.params) || spec.params.length === 0) return empty
@@ -55,7 +60,48 @@ export default function PartTooltip() {
       }
       liveRows.push({ label: p.label, value: formatted, unit: p.unit })
     }
-    return { rows: liveRows, pendingLabels: pending }
+
+    // Freeze-frame snapshot — find first active diagnosis whose rule_name
+    // matches one of spec.relatedRules AND has a freeze_frame attached.
+    let freezeSnapshot: { ruleName: string; rows: FreezeRow[] } | null = null
+    const related = Array.isArray(spec.relatedRules) ? spec.relatedRules : []
+    const diagnoses = telemetry.report?.diagnoses ?? []
+    if (related.length > 0 && diagnoses.length > 0) {
+      for (const d of diagnoses) {
+        const ruleName = (d as { rule_name?: string; rule?: string }).rule_name
+          ?? (d as { rule?: string }).rule
+          ?? ''
+        if (!ruleName || !related.includes(ruleName)) continue
+        const ff = (d as { freeze_frame?: Record<string, unknown> }).freeze_frame
+        if (!ff || typeof ff !== 'object') continue
+        const rows: FreezeRow[] = []
+        const pushNum = (label: string, val: unknown, unit?: string, precision = 1) => {
+          if (typeof val !== 'number' || !Number.isFinite(val)) return
+          rows.push({ label, value: val.toFixed(precision), unit })
+        }
+        const pushStr = (label: string, val: unknown) => {
+          if (typeof val !== 'string' || !val) return
+          rows.push({ label, value: val })
+        }
+        const ffo = ff as Record<string, unknown>
+        pushNum('RPM', ffo.rpm, 'об/мин', 0)
+        pushNum('Скорость', ffo.speed, 'км/ч', 0)
+        pushNum('Coolant', ffo.coolant_temp, '°C', 0)
+        pushNum('Нагрузка', ffo.engine_load, '%', 0)
+        pushNum('Дроссель', ffo.throttle, '%', 0)
+        pushNum('Напряж.', ffo.voltage, 'В', 1)
+        pushNum('LTFT', ffo.ltft, '%', 1)
+        pushNum('STFT', ffo.stft, '%', 1)
+        pushNum('T° улицы', ffo.outdoor_temp, '°C', 0)
+        pushStr('Погода', ffo.weather)
+        if (rows.length > 0) {
+          freezeSnapshot = { ruleName: (d as { display?: string }).display || ruleName, rows }
+          break
+        }
+      }
+    }
+
+    return { rows: liveRows, pendingLabels: pending, freezeSnapshot }
   }, [hoveredPart, telemetry])
 
   if (!hoveredPart || !hoveredPart.partSpec) return null
@@ -163,6 +209,51 @@ export default function PartTooltip() {
                 </span>
               </div>
             ))}
+          </div>
+        )}
+        {freezeSnapshot && (
+          <div
+            style={{
+              marginTop: rows.length > 0 ? 10 : 10,
+              paddingTop: 8,
+              borderTop: '1px solid rgba(239,242,247,0.08)',
+              fontSize: 10,
+              lineHeight: 1.45,
+            }}
+          >
+            <div style={{
+              color: 'rgba(230,212,168,0.85)',
+              textTransform: 'uppercase',
+              letterSpacing: '0.1em',
+              fontSize: 9,
+              marginBottom: 6,
+            }}>
+              ● При срабатывании: <span style={{ color: '#EFF2F7', textTransform: 'none', letterSpacing: 0 }}>{freezeSnapshot.ruleName}</span>
+            </div>
+            <div style={{
+              display: 'grid',
+              gridTemplateColumns: '1fr 1fr',
+              columnGap: 12,
+              rowGap: 3,
+            }}>
+              {freezeSnapshot.rows.map((r, i) => (
+                <div key={i} style={{
+                  display: 'flex',
+                  justifyContent: 'space-between',
+                  alignItems: 'baseline',
+                  gap: 6,
+                  fontSize: 10,
+                }}>
+                  <span style={{ color: 'rgba(239,242,247,0.5)' }}>{r.label}</span>
+                  <span style={{ color: '#EFF2F7', fontVariantNumeric: 'tabular-nums' }}>
+                    {r.value}
+                    {r.unit ? (
+                      <span style={{ marginLeft: 3, color: 'rgba(200,180,142,0.7)', fontSize: 9 }}>{r.unit}</span>
+                    ) : null}
+                  </span>
+                </div>
+              ))}
+            </div>
           </div>
         )}
         {pendingLabels.length > 0 && (
