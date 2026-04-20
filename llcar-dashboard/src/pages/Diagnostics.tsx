@@ -24,6 +24,7 @@ import { CorrelationPanel } from '../components/panels/CorrelationPanel'
 import { OnboardingTour } from '../components/onboarding/OnboardingTour'
 import { BaselineStatus } from '../components/panels/BaselineStatus'
 import { ChatPanel } from '../components/chat/ChatPanel'
+import { HistoryHeatmap } from '../components/diagnostics/HistoryHeatmap'
 import { RulesList } from '../components/diagnostics/RulesList'
 import { DiagnosticSearch } from '../components/diagnostics/DiagnosticSearch'
 import { SuspensionTab } from '../components/panels/SuspensionTab'
@@ -349,6 +350,24 @@ export function Diagnostics() {
       {useV2Api && v2Report?.escalations && v2Report.escalations.length > 0 && (
         <div className="col-span-12">
           <EscalationTimeline escalations={v2Report.escalations} />
+        </div>
+      )}
+      {useV2Api && (
+        <div className="col-span-12">
+          <GlassPanel>
+            <div className="hud-header mb-3">История поломок — тепловая карта</div>
+            <div style={{
+              color: 'rgba(184,190,199,0.7)',
+              fontFamily: 'var(--f-body)',
+              fontSize: 11,
+              lineHeight: 1.5,
+              marginBottom: 8,
+            }}>
+              По горизонтали — шаги истории от раннего к недавнему; по вертикали — 4 системы.
+              Тёмно-красные ячейки — критика, оранжевые — внимание, бежевые — лёгкая деградация, зелёные — норма.
+            </div>
+            <HistoryHeatmap history={v2History} />
+          </GlassPanel>
         </div>
       )}
       <div className="col-span-12">
