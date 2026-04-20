@@ -203,6 +203,7 @@ export function Diagnostics() {
             const last = p[p.length - 1]
             return typeof last?.speed === 'number' ? last.speed : null
           })()}
+          healthScores={v2Report?.health_scores ?? null}
         />
       </Suspense>
 

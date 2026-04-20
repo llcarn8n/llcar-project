@@ -5,11 +5,13 @@ import { EffectComposer, Bloom, Vignette } from '@react-three/postprocessing'
 import { SceneSetup } from './SceneSetup'
 import { CarWireframe, type WheelRefs, type WheelCorner } from './CarWireframe'
 import { AccelWaves, type AccelSample, type WheelBounce } from './AccelWaves'
+import { SeverityHalos, type SystemCentroids, type HealthScores } from './SeverityHalos'
 
 interface DiagnosticTwinCanvasProps {
   activeSystem: string | null
   accelData?: AccelSample | null
   speedKmh?: number | null
+  healthScores?: HealthScores | null
 }
 
 // Визуальный радиус шины GLB (~0.33 м) и верхний кап для читабельности
@@ -29,9 +31,10 @@ const CORNER_KEY: Record<WheelCorner, keyof WheelBounce> = {
 const speedRef = { kmh: 0 }
 
 // Applies bounce to car body + per-wheel pivoted spin (no React re-renders)
-function CarBouncer({ activeSystem, groupRef }: {
+function CarBouncer({ activeSystem, groupRef, onSystemCentroids }: {
   activeSystem: string | null
   groupRef: React.RefObject<THREE.Group | null>
+  onSystemCentroids?: (c: SystemCentroids) => void
 }) {
   const suspRefLocal = useRef<THREE.Object3D | null>(null)
   const wheelPivots = useRef<Map<WheelCorner, THREE.Group>>(new Map())
@@ -140,15 +143,20 @@ function CarBouncer({ activeSystem, groupRef }: {
 
   return (
     <group ref={groupRef}>
-      <CarWireframe activeSystem={activeSystem} onWheelRefs={handleWheelRefs} />
+      <CarWireframe
+        activeSystem={activeSystem}
+        onWheelRefs={handleWheelRefs}
+        onSystemCentroids={onSystemCentroids}
+      />
     </group>
   )
 }
 
 function SceneContent({
-  activeSystem, accelData, speedKmh,
+  activeSystem, accelData, speedKmh, healthScores,
 }: DiagnosticTwinCanvasProps) {
   const carGroupRef = useRef<THREE.Group>(null)
+  const [centroids, setCentroids] = useState<SystemCentroids>({})
   // Синхронизируем в shared ref перед каждым кадром, чтобы useFrame читал актуальное
   speedRef.kmh = typeof speedKmh === 'number' && Number.isFinite(speedKmh) ? speedKmh : 0
 
@@ -165,7 +173,17 @@ function SceneContent({
   return (
     <>
       <SceneSetup />
-      <CarBouncer activeSystem={activeSystem} groupRef={carGroupRef} />
+      <CarBouncer
+        activeSystem={activeSystem}
+        groupRef={carGroupRef}
+        onSystemCentroids={setCentroids}
+      />
+      {/* Halos — сиблинг CarWireframe'а внутри группы CarBouncer'а,
+          чтобы наследовать bounce/roll/pitch. Offset [0,-0.5,0] повторяет
+          position primitive-группы внутри CarWireframe. */}
+      <group position={[0, -0.5, 0]}>
+        <SeverityHalos centroids={centroids} healthScores={healthScores ?? null} />
+      </group>
       <AccelWaves
         accelData={accelData ?? null}
         visible={true}

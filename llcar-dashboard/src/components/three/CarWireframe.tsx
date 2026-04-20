@@ -8,7 +8,9 @@ import {
   CATEGORY_SYSTEM_MAP,
   getHoloMaterial,
   type MaterialCategory,
+  type DiagSystem,
 } from './materialClassifier'
+import type { SystemCentroids } from './SeverityHalos'
 import { headlightOrigin } from './AccelWaves'
 import { resolvePartByNode } from '../../data/partCatalog'
 import { useDashboardStore } from '../../stores/dashboardStore'
@@ -92,9 +94,10 @@ export type WheelRefs = Record<WheelCorner, THREE.Object3D[]>
 interface CarWireframeProps {
   activeSystem?: string | null
   onWheelRefs?: (refs: WheelRefs, suspRef: THREE.Object3D | null) => void
+  onSystemCentroids?: (centroids: SystemCentroids) => void
 }
 
-export function CarWireframe({ activeSystem = null, onWheelRefs }: CarWireframeProps) {
+export function CarWireframe({ activeSystem = null, onWheelRefs, onSystemCentroids }: CarWireframeProps) {
   const { scene } = useGLTF(`${import.meta.env.BASE_URL}models/car.glb`)
   const setHoveredPart = useDashboardStore((s) => s.setHoveredPart)
   const clearHoveredPart = useDashboardStore((s) => s.clearHoveredPart)
@@ -169,7 +172,7 @@ export function CarWireframe({ activeSystem = null, onWheelRefs }: CarWireframeP
   }, [scene])
 
   // Step 2: clone, apply materials, and collect wheel refs
-  const { clonedScene, wheelRefs, suspRef } = useMemo(() => {
+  const { clonedScene, wheelRefs, suspRef, systemCentroids } = useMemo(() => {
     const clone = scene.clone(true)
     const catCount: Record<string, number> = {}
     const wRefs: WheelRefs = { ПЛ: [], ПП: [], ЗЛ: [], ЗП: [] }
@@ -252,13 +255,36 @@ export function CarWireframe({ activeSystem = null, onWheelRefs }: CarWireframeP
     }
     console.table(catCount)
     console.log(`[CarWireframe] partSpec coverage: ${partSpecMatches} / ${totalNamedNodes} named nodes`)
-    return { clonedScene: clone, wheelRefs: wRefs, suspRef: sRef }
+
+    // Centroid per diagnostic system — для размещения severity halo
+    const boxes: Partial<Record<Exclude<DiagSystem, null>, THREE.Box3>> = {}
+    clone.traverse((child) => {
+      if (!(child instanceof THREE.Mesh)) return
+      const sys = child.userData.diagSystem as DiagSystem
+      if (!sys) return
+      const box = boxes[sys] ?? new THREE.Box3()
+      box.expandByObject(child)
+      boxes[sys] = box
+    })
+    const centroids: SystemCentroids = {}
+    for (const key of Object.keys(boxes) as Array<Exclude<DiagSystem, null>>) {
+      const b = boxes[key]
+      if (!b || b.isEmpty()) continue
+      centroids[key] = b.getCenter(new THREE.Vector3())
+    }
+
+    return { clonedScene: clone, wheelRefs: wRefs, suspRef: sRef, systemCentroids: centroids }
   }, [scene, classMap])
 
   // Pass wheel refs to parent
   useEffect(() => {
     onWheelRefs?.(wheelRefs, suspRef)
   }, [wheelRefs, suspRef, onWheelRefs])
+
+  // Pass system centroids to parent (для размещения severity halo)
+  useEffect(() => {
+    onSystemCentroids?.(systemCentroids)
+  }, [systemCentroids, onSystemCentroids])
 
   useEffect(() => {
     clonedScene.traverse((child) => {
