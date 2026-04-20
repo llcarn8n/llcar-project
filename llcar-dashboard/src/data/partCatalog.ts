@@ -15,6 +15,9 @@ export const partCatalog: PartSpec[] = [
     params: [
       { label: 'Давление', key: 'pressure_fl', unit: 'psi', precision: 1 },
       { label: 'AZ_STD', key: 'az_std_fl', unit: 'm/s²', precision: 2 },
+      { label: 'Wheel-hop', key: 'wheel_hop_peak_freq', unit: 'Гц', precision: 1 },
+      { label: 'Δ к rps', key: 'wheel_hop_peak_shifted', unit: 'Гц', precision: 1 },
+      { label: 'BPFO матчи', key: 'bpfo_harmonic_matches', precision: 0 },
     ],
     relatedRules: ['tire_pressure_low_wheel_hop', 'wheel_imbalance_speed_resonance', 'aquaplaning_risk'],
   },
@@ -26,6 +29,9 @@ export const partCatalog: PartSpec[] = [
     params: [
       { label: 'Давление', key: 'pressure_fr', unit: 'psi', precision: 1 },
       { label: 'AZ_STD', key: 'az_std_fr', unit: 'm/s²', precision: 2 },
+      { label: 'Wheel-hop', key: 'wheel_hop_peak_freq', unit: 'Гц', precision: 1 },
+      { label: 'Δ к rps', key: 'wheel_hop_peak_shifted', unit: 'Гц', precision: 1 },
+      { label: 'BPFO матчи', key: 'bpfo_harmonic_matches', precision: 0 },
     ],
     relatedRules: ['tire_pressure_low_wheel_hop', 'wheel_imbalance_speed_resonance', 'aquaplaning_risk'],
   },
@@ -37,6 +43,9 @@ export const partCatalog: PartSpec[] = [
     params: [
       { label: 'Давление', key: 'pressure_rl', unit: 'psi', precision: 1 },
       { label: 'AZ_STD', key: 'az_std_rl', unit: 'm/s²', precision: 2 },
+      { label: 'Wheel-hop', key: 'wheel_hop_peak_freq', unit: 'Гц', precision: 1 },
+      { label: 'Δ к rps', key: 'wheel_hop_peak_shifted', unit: 'Гц', precision: 1 },
+      { label: 'BPFO матчи', key: 'bpfo_harmonic_matches', precision: 0 },
     ],
     relatedRules: ['tire_pressure_low_wheel_hop', 'wheel_imbalance_speed_resonance', 'aquaplaning_risk'],
   },
@@ -48,6 +57,9 @@ export const partCatalog: PartSpec[] = [
     params: [
       { label: 'Давление', key: 'pressure_rr', unit: 'psi', precision: 1 },
       { label: 'AZ_STD', key: 'az_std_rr', unit: 'm/s²', precision: 2 },
+      { label: 'Wheel-hop', key: 'wheel_hop_peak_freq', unit: 'Гц', precision: 1 },
+      { label: 'Δ к rps', key: 'wheel_hop_peak_shifted', unit: 'Гц', precision: 1 },
+      { label: 'BPFO матчи', key: 'bpfo_harmonic_matches', precision: 0 },
     ],
     relatedRules: ['tire_pressure_low_wheel_hop', 'wheel_imbalance_speed_resonance', 'aquaplaning_risk'],
   },
@@ -61,6 +73,8 @@ export const partCatalog: PartSpec[] = [
     params: [
       { label: 'Износ колодки', key: 'brake_pad_wear_fl', unit: '%', precision: 0 },
       { label: 'Audio 1-4 kHz', key: 'audio_1_4khz', unit: 'dB', precision: 1 },
+      { label: 'Свист 5-8k', key: 'percussive_energy_5k_8k', precision: 2 },
+      { label: 'Пиков 5-8k', key: 'percussive_peak_count_5k_8k', precision: 0 },
     ],
     relatedRules: ['brake_squeal', 'brake_pad_wear', 'brake_vibration'],
   },
@@ -72,6 +86,8 @@ export const partCatalog: PartSpec[] = [
     params: [
       { label: 'Износ колодки', key: 'brake_pad_wear_fr', unit: '%', precision: 0 },
       { label: 'Audio 1-4 kHz', key: 'audio_1_4khz', unit: 'dB', precision: 1 },
+      { label: 'Свист 5-8k', key: 'percussive_energy_5k_8k', precision: 2 },
+      { label: 'Пиков 5-8k', key: 'percussive_peak_count_5k_8k', precision: 0 },
     ],
     relatedRules: ['brake_squeal', 'brake_pad_wear', 'brake_vibration'],
   },
@@ -83,6 +99,8 @@ export const partCatalog: PartSpec[] = [
     params: [
       { label: 'Износ колодки', key: 'brake_pad_wear_rl', unit: '%', precision: 0 },
       { label: 'Audio 1-4 kHz', key: 'audio_1_4khz', unit: 'dB', precision: 1 },
+      { label: 'Свист 5-8k', key: 'percussive_energy_5k_8k', precision: 2 },
+      { label: 'Пиков 5-8k', key: 'percussive_peak_count_5k_8k', precision: 0 },
     ],
     relatedRules: ['brake_squeal', 'brake_pad_wear', 'brake_vibration'],
   },
@@ -94,6 +112,8 @@ export const partCatalog: PartSpec[] = [
     params: [
       { label: 'Износ колодки', key: 'brake_pad_wear_rr', unit: '%', precision: 0 },
       { label: 'Audio 1-4 kHz', key: 'audio_1_4khz', unit: 'dB', precision: 1 },
+      { label: 'Свист 5-8k', key: 'percussive_energy_5k_8k', precision: 2 },
+      { label: 'Пиков 5-8k', key: 'percussive_peak_count_5k_8k', precision: 0 },
     ],
     relatedRules: ['brake_squeal', 'brake_pad_wear', 'brake_vibration'],
   },
@@ -120,6 +140,9 @@ export const partCatalog: PartSpec[] = [
     corner: 'fr',
     params: [
       { label: 'AZ_STD', key: 'az_std_fr', unit: 'm/s²', precision: 2 },
+      { label: 'Пик AZ', key: 'az_peak_abs', unit: 'm/s²', precision: 2 },
+      { label: 'Размах AZ', key: 'az_range', unit: 'm/s²', precision: 2 },
+      { label: 'Crest factor', key: 'crest_factor_z', precision: 2 },
       { label: 'Confidence', key: 'shock_absorber_worn_conf_fr', unit: '%', precision: 0 },
     ],
     relatedRules: ['shock_absorber_worn', 'damper_energy_decay_poor', 'worn_suspension'],
@@ -131,6 +154,9 @@ export const partCatalog: PartSpec[] = [
     corner: 'rl',
     params: [
       { label: 'AZ_STD', key: 'az_std_rl', unit: 'm/s²', precision: 2 },
+      { label: 'Пик AZ', key: 'az_peak_abs', unit: 'm/s²', precision: 2 },
+      { label: 'Размах AZ', key: 'az_range', unit: 'm/s²', precision: 2 },
+      { label: 'Crest factor', key: 'crest_factor_z', precision: 2 },
       { label: 'Confidence', key: 'shock_absorber_worn_conf_rl', unit: '%', precision: 0 },
     ],
     relatedRules: ['shock_absorber_worn', 'damper_energy_decay_poor', 'worn_suspension'],
@@ -142,6 +168,9 @@ export const partCatalog: PartSpec[] = [
     corner: 'rr',
     params: [
       { label: 'AZ_STD', key: 'az_std_rr', unit: 'm/s²', precision: 2 },
+      { label: 'Пик AZ', key: 'az_peak_abs', unit: 'm/s²', precision: 2 },
+      { label: 'Размах AZ', key: 'az_range', unit: 'm/s²', precision: 2 },
+      { label: 'Crest factor', key: 'crest_factor_z', precision: 2 },
       { label: 'Confidence', key: 'shock_absorber_worn_conf_rr', unit: '%', precision: 0 },
     ],
     relatedRules: ['shock_absorber_worn', 'damper_energy_decay_poor', 'worn_suspension'],
@@ -430,6 +459,7 @@ export const partCatalog: PartSpec[] = [
       { label: 'LTFT B1', key: 'ltft_bank1', unit: '%', precision: 1 },
       { label: 'STFT B1', key: 'stft_bank1', unit: '%', precision: 1 },
       { label: 'ΔLTFT-STFT', key: 'fuel_trim_delta', unit: '%', precision: 1 },
+      { label: 'RPM-гармоники', key: 'rpm_harmonic_matches', precision: 0 },
     ],
     relatedRules: ['misfire', 'knock_detonation', 'engine_overheating', 'idle_vibration_high'],
   },
