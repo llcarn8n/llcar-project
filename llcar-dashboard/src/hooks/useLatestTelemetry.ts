@@ -2,6 +2,8 @@ import { useMemo } from 'react'
 import { useApiData } from './useApiData'
 import { useDiagnosticV2, type DiagnosticReport } from './useDiagnosticV2'
 import { useDashboardStore } from '../stores/dashboardStore'
+import { computeAudioMetrics, type AudioMetrics } from '../utils/audioAnalysis'
+import { computeVibrationMetrics, type VibrationMetrics } from '../utils/vibrationAnalysis'
 
 export interface AccelSample {
   az_std?: number
@@ -25,6 +27,8 @@ export interface LatestTelemetry {
   audio: AudioSample[] | null
   pids: Record<string, number> | null
   report: DiagnosticReport | null
+  audioMetrics: AudioMetrics | null
+  vibrationMetrics: VibrationMetrics | null
   ts: number
 }
 
@@ -48,11 +52,22 @@ export function useLatestTelemetry(): LatestTelemetry {
   return useMemo<LatestTelemetry>(() => {
     const accelSeries = data?.accel ?? []
     const lastAccel = accelSeries.length > 0 ? accelSeries[accelSeries.length - 1] : null
+    const audio = data?.audio ?? null
+    const pids = data?.pids ?? null
+    const lastAudio = audio && audio.length > 0 ? audio[audio.length - 1] : null
+    const speedKmh = typeof pids?.speed === 'number'
+      ? pids.speed
+      : (typeof lastAccel?.speed === 'number' ? lastAccel.speed : null)
+    const rpm = typeof pids?.rpm === 'number' ? pids.rpm : null
+    const audioMetrics = lastAudio ? computeAudioMetrics(lastAudio, { speedKmh, rpm }) : null
+    const vibrationMetrics = computeVibrationMetrics(accelSeries, { speedKmh })
     return {
       accel: lastAccel,
-      audio: data?.audio ?? null,
-      pids: data?.pids ?? null,
+      audio,
+      pids,
       report: report ?? null,
+      audioMetrics,
+      vibrationMetrics,
       ts: Date.now(),
     }
   }, [data, report])

@@ -8,7 +8,26 @@ export function resolvePartValue(
   key: string,
   telemetry: LatestTelemetry,
 ): number | string | null {
-  const { accel, audio, pids, report } = telemetry
+  const { accel, audio, pids, report, audioMetrics, vibrationMetrics } = telemetry
+
+  // ── Computed audio metrics (P1) ──
+  if (key === 'audio_energy_band_120_180' || key === 'bushing_wear_120_180hz') {
+    return audioMetrics?.energyBand120_180 ?? null
+  }
+  if (key === 'percussive_energy_5k_8k') return audioMetrics?.percussiveEnergy5k8k ?? null
+  if (key === 'percussive_peak_count_5k_8k') return audioMetrics?.percussivePeakCount5k8k ?? null
+  if (key === 'bpfo_harmonic_matches' || key === 'wheel_bearing_bpfo_harmonic') {
+    return audioMetrics?.bpfoHarmonicMatches ?? null
+  }
+  if (key === 'audio_speed_ratio') return audioMetrics?.audioSpeedRatio ?? null
+  if (key === 'rpm_harmonic_matches') return audioMetrics?.rpmHarmonicMatches ?? null
+
+  // ── Computed vibration metrics (P2) ──
+  if (key === 'az_peak_abs') return vibrationMetrics?.azPeakAbs ?? null
+  if (key === 'az_range') return vibrationMetrics?.azRange ?? null
+  if (key === 'crest_factor_z') return vibrationMetrics?.crestFactorZ ?? null
+  if (key === 'wheel_hop_peak_freq') return vibrationMetrics?.wheelHopPeakFreq ?? null
+  if (key === 'wheel_hop_peak_shifted') return vibrationMetrics?.wheelHopPeakShifted ?? null
 
   // Tire pressure is not emitted by current backend; placeholder.
   if (/^pressure_(fl|fr|rl|rr)$/.test(key)) return null

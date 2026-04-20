@@ -106,6 +106,9 @@ export const partCatalog: PartSpec[] = [
     corner: 'fl',
     params: [
       { label: 'AZ_STD', key: 'az_std_fl', unit: 'm/s²', precision: 2 },
+      { label: 'Пик AZ', key: 'az_peak_abs', unit: 'm/s²', precision: 2 },
+      { label: 'Размах AZ', key: 'az_range', unit: 'm/s²', precision: 2 },
+      { label: 'Crest factor', key: 'crest_factor_z', precision: 2 },
       { label: 'Confidence', key: 'shock_absorber_worn_conf_fl', unit: '%', precision: 0 },
     ],
     relatedRules: ['shock_absorber_worn', 'damper_energy_decay_poor', 'worn_suspension'],
