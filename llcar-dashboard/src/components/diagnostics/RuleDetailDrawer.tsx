@@ -6,10 +6,11 @@ import { useLatestTelemetry } from '../../hooks/useLatestTelemetry'
 import { evaluateCondition, type EvaluatedCondition } from '../../utils/conditionResolver'
 import './RuleDetailDrawer.css'
 
-type TabKey = 'overview' | 'conditions' | 'formulas' | 'example' | 'theory' | 'sources'
+type TabKey = 'overview' | 'comparison' | 'conditions' | 'formulas' | 'example' | 'theory' | 'sources'
 
 const TABS: { key: TabKey; label: string }[] = [
   { key: 'overview',   label: 'Обзор' },
+  { key: 'comparison', label: 'Сравнение' },
   { key: 'conditions', label: 'Условия' },
   { key: 'formulas',   label: 'Формулы' },
   { key: 'example',    label: 'Пример' },
@@ -85,6 +86,109 @@ function OverviewTab({ rule }: { rule: RuleSpec }) {
           <div className="rdd-prose-muted">{rule.physics}</div>
         </div>
       )}
+    </div>
+  )
+}
+
+/* ──────────────────────────────────────────────
+   Tab: Comparison — сравнение с базой (пороги vs твоё значение)
+   ────────────────────────────────────────────── */
+
+function parseRangeFromThreshold(op: string, threshold: string): { lo: number; hi: number } | null {
+  const nums = threshold.match(/-?\d+(?:[.,]\d+)?/g)
+  if (!nums || nums.length === 0) return null
+  const parsed = nums.map((s) => Number(s.replace(',', '.')))
+  const o = (op || '').toLowerCase()
+  if (o === 'between') {
+    if (parsed.length < 2) return null
+    return { lo: parsed[0], hi: parsed[1] }
+  }
+  // Single-value op: показываем ±50% коридор вокруг порога как визуальная шкала.
+  const v = parsed[0]
+  const delta = Math.max(Math.abs(v) * 0.5, 1)
+  return { lo: v - delta, hi: v + delta }
+}
+
+function ComparisonTab({ evaluated }: { evaluated: EvaluatedCondition[] }) {
+  if (evaluated.length === 0) {
+    return (
+      <div className="rdd-prose-muted">
+        Условия для сравнения отсутствуют в этом правиле.
+      </div>
+    )
+  }
+
+  return (
+    <div style={{ display: 'flex', flexDirection: 'column', gap: 16 }}>
+      <div className="rdd-prose-muted" style={{ fontSize: 12 }}>
+        На каждой шкале: <b>зелёный</b> — норма, <b>бежевый</b> — внимание, <b>красный</b> — критика.
+        Маркер показывает, где находится твой текущий замер относительно порогов правила.
+      </div>
+      {evaluated.map((c, i) => {
+        const range = parseRangeFromThreshold(c.op, c.threshold)
+        const numericValue = typeof c.value === 'number' && Number.isFinite(c.value) ? c.value : null
+        let markerPct: number | null = null
+        if (range && numericValue !== null) {
+          const width = range.hi - range.lo
+          if (width > 0) {
+            const pct = ((numericValue - range.lo) / width) * 100
+            markerPct = Math.max(0, Math.min(100, pct))
+          }
+        }
+        const unit = extractUnit(c.threshold)
+        const valueLabel = numericValue !== null
+          ? `${formatValue(numericValue)}${unit ? ' ' + unit : ''}`
+          : (c.value === null || c.value === undefined ? 'нет данных' : String(c.value))
+
+        return (
+          <div key={`${c.param}-${i}`} style={{ display: 'flex', flexDirection: 'column', gap: 6 }}>
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'baseline', gap: 12 }}>
+              <div style={{ fontFamily: 'var(--f-display)', fontSize: 12, fontWeight: 600, color: '#E6D4A8' }}>
+                {c.param}
+              </div>
+              <div style={{ fontFamily: 'var(--f-mono)', fontSize: 11, color: c.passed ? '#FF4A4A' : '#6BE08F' }}>
+                {c.passed ? 'сработало' : 'норма'}
+              </div>
+            </div>
+
+            {/* Gradient bar: green → champagne → red, с маркером текущего значения */}
+            <div style={{
+              position: 'relative',
+              height: 10,
+              borderRadius: 3,
+              background: 'linear-gradient(90deg, rgba(107,224,143,0.55) 0%, rgba(230,212,168,0.55) 55%, rgba(255,74,74,0.75) 100%)',
+              border: '1px solid rgba(230,212,168,0.2)',
+              overflow: 'hidden',
+            }}>
+              {markerPct !== null && (
+                <div style={{
+                  position: 'absolute',
+                  top: -3,
+                  bottom: -3,
+                  left: `calc(${markerPct}% - 2px)`,
+                  width: 4,
+                  background: '#EFF2F7',
+                  borderRadius: 2,
+                  boxShadow: '0 0 6px rgba(239,242,247,0.9), 0 0 2px rgba(255,255,255,0.9)',
+                }} aria-label={`Текущее значение ${valueLabel}`} />
+              )}
+            </div>
+
+            {/* Numbers row: lo / value / hi */}
+            <div style={{ display: 'flex', justifyContent: 'space-between', fontFamily: 'var(--f-mono)', fontSize: 10, color: 'rgba(184,190,199,0.7)' }}>
+              <span>{range ? `${formatValue(range.lo)}${unit ? ' ' + unit : ''}` : ''}</span>
+              <span style={{ color: '#EFF2F7', fontWeight: 600 }}>твоё: {valueLabel}</span>
+              <span>{range ? `${formatValue(range.hi)}${unit ? ' ' + unit : ''}` : ''}</span>
+            </div>
+
+            {c.rationale && (
+              <div style={{ fontSize: 11, color: 'rgba(184,190,199,0.7)', fontFamily: 'var(--f-body)', lineHeight: 1.45 }}>
+                {c.rationale}
+              </div>
+            )}
+          </div>
+        )
+      })}
     </div>
   )
 }
@@ -463,6 +567,7 @@ export default function RuleDetailDrawer() {
 
         <div className="rdd-body">
           {tab === 'overview'   && <OverviewTab   rule={rule} />}
+          {tab === 'comparison' && <ComparisonTab evaluated={evaluated} />}
           {tab === 'conditions' && <ConditionsTab rule={rule} evaluated={evaluated} />}
           {tab === 'formulas'   && <FormulasTab   rule={rule} />}
           {tab === 'example'    && <ExampleTab    rule={rule} />}
