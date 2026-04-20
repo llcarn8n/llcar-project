@@ -242,6 +242,11 @@ export function CarWireframe({ activeSystem = null, onWheelRefs, onSystemCentroi
     // Debug hook на clonedScene (где userData заполнено): для диагностики hover
     if (typeof window !== 'undefined') {
       ;(window as any).__scene = clone
+      ;(window as any).__resolvePart = (name: string) => {
+        const spec = resolvePartByNode(name)
+        return spec ? { display: spec.display, category: spec.category, patterns: spec.nodeNames } : null
+      }
+      ;(window as any).__normalizeName = normalizeNodeName
       ;(window as any).__dumpBodyNodes = (filter?: string) => {
         const out: { name: string; cat: string; spec: string | null }[] = []
         clone.traverse((c) => {
