@@ -1,11 +1,13 @@
 import { Suspense, useState, useEffect, useRef, useCallback } from 'react'
 import * as THREE from 'three'
-import { Canvas, useFrame } from '@react-three/fiber'
+import { Canvas, useFrame, useThree } from '@react-three/fiber'
 import { EffectComposer, Bloom, Vignette } from '@react-three/postprocessing'
 import { SceneSetup } from './SceneSetup'
 import { CarWireframe, type WheelRefs, type WheelCorner } from './CarWireframe'
 import { AccelWaves, type AccelSample, type WheelBounce } from './AccelWaves'
 import { SeverityHalos, type SystemCentroids, type HealthScores } from './SeverityHalos'
+import { useDashboardStore } from '../../stores/dashboardStore'
+import type { DiagSystem } from './materialClassifier'
 
 interface DiagnosticTwinCanvasProps {
   activeSystem: string | null
@@ -29,6 +31,76 @@ const CORNER_KEY: Record<WheelCorner, keyof WheelBounce> = {
 
 // Shared speed ref — parent пишет при каждом ре-рендере, useFrame читает без re-render
 const speedRef = { kmh: 0 }
+
+// Маппинг rule_name → диагностическая система по ключевым словам
+// (fallback: null — автопилот не меняет камеру для этого правила).
+function ruleNameToSystem(ruleName: string | null | undefined): Exclude<DiagSystem, null> | null {
+  if (!ruleName) return null
+  const n = ruleName.toLowerCase()
+  if (n.includes('suspen') || n.includes('подвеск') || n.includes('wheel') ||
+      n.includes('колес') || n.includes('колёс') || n.includes('brake') ||
+      n.includes('тормоз') || n.includes('шасс') || n.includes('rumble') ||
+      n.includes('bounce') || n.includes('strut') || n.includes('damper')) return 'suspension'
+  if (n.includes('engine') || n.includes('двигат') || n.includes('мотор') ||
+      n.includes('misfire') || n.includes('idle') || n.includes('coolant') ||
+      n.includes('turbo') || n.includes('oil') || n.includes('fuel') ||
+      n.includes('p0')) return 'engine'
+  if (n.includes('electr') || n.includes('электр') || n.includes('battery') ||
+      n.includes('аккум') || n.includes('charg') || n.includes('volt') ||
+      n.includes('alternator') || n.includes('generator')) return 'electrical'
+  if (n.includes('audio') || n.includes('звук') || n.includes('аудио') ||
+      n.includes('noise') || n.includes('шум') || n.includes('сабвуфер')) return 'audio'
+  return null
+}
+
+// Default orbit position + target (совпадает с Canvas camera defaults)
+const DEFAULT_CAM_POS_DESKTOP = new THREE.Vector3(5.9, 2.0, 2.6)
+const DEFAULT_CAM_POS_MOBILE = new THREE.Vector3(8.0, 2.7, 3.8)
+const DEFAULT_TARGET = new THREE.Vector3(0, 0, 0)
+
+// Плавный перелёт камеры к системе активного диагноза.
+// Когда activeRuleDrawer открыт → ищем подходящую систему, летим к её centroid.
+// При закрытии (null) — возвращаемся в default orbit.
+function CameraAutopilot({ centroids, isMobile }: {
+  centroids: SystemCentroids
+  isMobile: boolean
+}) {
+  const { camera } = useThree()
+  const activeRuleDrawer = useDashboardStore((s) => s.activeRuleDrawer)
+  const targetPos = useRef(new THREE.Vector3().copy(isMobile ? DEFAULT_CAM_POS_MOBILE : DEFAULT_CAM_POS_DESKTOP))
+  const targetLook = useRef(new THREE.Vector3().copy(DEFAULT_TARGET))
+  const tmpLook = useRef(new THREE.Vector3())
+
+  useEffect(() => {
+    const system = ruleNameToSystem(activeRuleDrawer?.ruleName ?? null)
+    const defaultPos = isMobile ? DEFAULT_CAM_POS_MOBILE : DEFAULT_CAM_POS_DESKTOP
+    if (!system || !centroids[system]) {
+      targetPos.current.copy(defaultPos)
+      targetLook.current.copy(DEFAULT_TARGET)
+      return
+    }
+    // Halos рендерятся со смещением [0,-0.5,0], учитываем для lookAt
+    const centroid = centroids[system]!.clone()
+    centroid.y += -0.5
+    targetLook.current.copy(centroid)
+    // Камеру ставим чуть в стороне от centroid — 3м по направлению из defaultPos
+    const offset = defaultPos.clone().sub(DEFAULT_TARGET).normalize().multiplyScalar(3.2)
+    targetPos.current.copy(centroid).add(offset)
+  }, [activeRuleDrawer, centroids, isMobile])
+
+  useFrame((_, delta) => {
+    const lerpAmount = Math.min(1, delta * 3.5)
+    camera.position.lerp(targetPos.current, lerpAmount)
+    tmpLook.current.lerp(targetLook.current, lerpAmount)
+    // Первый кадр tmpLook = (0,0,0), нужно явно инициализировать к target
+    if (tmpLook.current.lengthSq() < 0.0001 && targetLook.current.lengthSq() > 0.0001) {
+      tmpLook.current.copy(targetLook.current)
+    }
+    camera.lookAt(tmpLook.current)
+  })
+
+  return null
+}
 
 // Applies bounce to car body + per-wheel pivoted spin (no React re-renders)
 function CarBouncer({ activeSystem, groupRef, onSystemCentroids }: {
@@ -153,8 +225,8 @@ function CarBouncer({ activeSystem, groupRef, onSystemCentroids }: {
 }
 
 function SceneContent({
-  activeSystem, accelData, speedKmh, healthScores,
-}: DiagnosticTwinCanvasProps) {
+  activeSystem, accelData, speedKmh, healthScores, isMobile,
+}: DiagnosticTwinCanvasProps & { isMobile: boolean }) {
   const carGroupRef = useRef<THREE.Group>(null)
   const [centroids, setCentroids] = useState<SystemCentroids>({})
   // Синхронизируем в shared ref перед каждым кадром, чтобы useFrame читал актуальное
@@ -184,6 +256,7 @@ function SceneContent({
       <group position={[0, -0.5, 0]}>
         <SeverityHalos centroids={centroids} healthScores={healthScores ?? null} />
       </group>
+      <CameraAutopilot centroids={centroids} isMobile={isMobile} />
       <AccelWaves
         accelData={accelData ?? null}
         visible={true}
@@ -207,7 +280,7 @@ export default function DiagnosticTwinCanvas(props: DiagnosticTwinCanvasProps) {
       style={{ background: 'transparent' }}
     >
       <Suspense fallback={null}>
-        <SceneContent {...props} />
+        <SceneContent {...props} isMobile={isMobile} />
       </Suspense>
       {!isMobile && (
         <EffectComposer multisampling={0}>
