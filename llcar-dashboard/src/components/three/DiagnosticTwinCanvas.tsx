@@ -141,6 +141,10 @@ function CarBouncer({ activeSystem, groupRef, onSystemCentroids }: {
     const parent = groupRef.current
     if (!parent) return
     parent.updateMatrixWorld(true)
+    // Pointer handlers навешаны на inner <group> внутри CarWireframe
+    // (parent.children[0]). Чтобы hover работал на шинах/тормозах/колёсах,
+    // pivot'ы нужно добавлять туда же, а не в outer groupRef.
+    const pointerGroup = (parent.children[0] as THREE.Group | undefined) ?? parent
 
     // Замер самой низкой точки шин в мире ДО перепарентинга в pivot.
     const globalTireBox = new THREE.Box3()
@@ -177,8 +181,9 @@ function CarBouncer({ activeSystem, groupRef, onSystemCentroids }: {
       const pivot = new THREE.Group()
       pivot.name = `wheelPivot_${corner}`
       pivot.position.copy(worldCenter)
-      parent.worldToLocal(pivot.position)
-      parent.add(pivot)
+      pointerGroup.updateMatrixWorld(true)
+      pointerGroup.worldToLocal(pivot.position)
+      pointerGroup.add(pivot)
       for (const m of meshes) pivot.attach(m)
 
       wheelPivots.current.set(corner, pivot)
