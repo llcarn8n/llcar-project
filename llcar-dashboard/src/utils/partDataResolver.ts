@@ -92,12 +92,12 @@ export function resolvePartValue(
     return (typeof pidLtft === 'number' && typeof pidStft === 'number') ? pidLtft - pidStft : null
   }
   // Поля, которые бэк может слать по VIN / extended PIDs — пробуем напрямую, null если нет.
-  if (key === 'maf') return (pids as any)?.maf ?? null
-  if (key === 'map_pressure') return (pids as any)?.map_pressure ?? (pids as any)?.map ?? null
-  if (key === 'oil_pressure') return (pids as any)?.oil_pressure ?? null
-  if (key === 'o2_voltage') return (pids as any)?.o2_voltage ?? null
-  if (key === 'runtime') return (pids as any)?.runtime ?? null
-  if (key === 'ltft_bank2') return (pids as any)?.ltft_bank2 ?? null
+  if (key === 'maf') return pids?.maf ?? null
+  if (key === 'map_pressure') return pids?.map_pressure ?? pids?.map ?? null
+  if (key === 'oil_pressure') return pids?.oil_pressure ?? null
+  if (key === 'o2_voltage') return pids?.o2_voltage ?? null
+  if (key === 'runtime') return pids?.runtime ?? null
+  if (key === 'ltft_bank2') return pids?.ltft_bank2 ?? null
 
   // Freeze-frame fallback — берём snapshot из последнего диагноза, если он есть,
   // когда live PIDs недоступны. Это даёт tooltip «что было на момент срабатывания».
@@ -120,16 +120,16 @@ export function resolvePartValue(
   //    активирует can_parser.py (см. project_p3_backend_evpids_urgent.md).
   //    Сейчас pids.* не содержат этих полей → возвращаем null гладко.
   if (key === 'motor_temp' || key === 'e_motor_temp') {
-    return (pids as any)?.e_motor_temp ?? (pids as any)?.motor_temp ?? null
+    return pids?.e_motor_temp ?? pids?.motor_temp ?? null
   }
-  if (key === 'motor_power_kw') return (pids as any)?.motor_power_kw ?? null
-  if (key === 'hv_voltage' || key === 'hv_battery_voltage') return (pids as any)?.hv_battery_voltage ?? null
-  if (key === 'hv_battery_current') return (pids as any)?.hv_battery_current ?? null
-  if (key === 'soc_percent' || key === 'hv_battery_soc') return (pids as any)?.hv_battery_soc ?? null
-  if (key === 'hv_battery_temp') return (pids as any)?.hv_battery_temp ?? null
-  if (key === 'cell_delta' || key === 'hv_cell_voltage_delta') return (pids as any)?.hv_cell_voltage_delta ?? null
-  if (key === 'inverter_temp') return (pids as any)?.inverter_temp ?? null
-  if (key === 'regen_brake_power') return (pids as any)?.regen_brake_power ?? null
+  if (key === 'motor_power_kw') return pids?.motor_power_kw ?? null
+  if (key === 'hv_voltage' || key === 'hv_battery_voltage') return pids?.hv_battery_voltage ?? null
+  if (key === 'hv_battery_current') return pids?.hv_battery_current ?? null
+  if (key === 'soc_percent' || key === 'hv_battery_soc') return pids?.hv_battery_soc ?? null
+  if (key === 'hv_battery_temp') return pids?.hv_battery_temp ?? null
+  if (key === 'cell_delta' || key === 'hv_cell_voltage_delta') return pids?.hv_cell_voltage_delta ?? null
+  if (key === 'inverter_temp') return pids?.inverter_temp ?? null
+  if (key === 'regen_brake_power') return pids?.regen_brake_power ?? null
 
   // Требуют P3 (физический IMU / confidence из backend) — null пока.
   if (key === 'ride_height') return null

@@ -1,0 +1,118 @@
+{
+  "version": "0.1-scaffold",
+  "vehicle": "Li Auto Li7",
+  "protocol": "LEEA 2.0 over DoIP",
+  "notes": [
+    "Заготовка карты CAN ID / byte layout -> HV field для P3 интеграции.",
+    "Значения scale/offset/bytes помечены как null или 'TBD' там, где",
+    "требуется верификация по реверсу реальной машины или vendor docs.",
+    "Используется в dashboard_build/diagnostic/can_parser.py:parse_can_frame.",
+    "См. reference_can_bus_li_auto.md в памяти для LEEA 2.0 deep-dive."
+  ],
+  "byte_order": "big-endian",
+  "frames": [
+    {
+      "can_id": "0x7E0",
+      "field": "hv_battery_voltage",
+      "bytes": [2, 3],
+      "scale": null,
+      "offset": 0,
+      "unit": "V",
+      "signed": false,
+      "verified": false,
+      "comment": "Типичный диапазон 350-450 В для LFP/NMC пакетов 96s."
+    },
+    {
+      "can_id": "0x7E1",
+      "field": "hv_battery_current",
+      "bytes": [0, 1],
+      "scale": null,
+      "offset": null,
+      "unit": "A",
+      "signed": true,
+      "verified": false,
+      "comment": "Положительные значения = разряд, отрицательные = зарядка (или наоборот — уточнить при реверсе)."
+    },
+    {
+      "can_id": "0x7E2",
+      "field": "hv_battery_soc",
+      "bytes": [0],
+      "scale": 0.5,
+      "offset": 0,
+      "unit": "%",
+      "signed": false,
+      "verified": false,
+      "comment": "Классическая схема raw/2 = SOC. Значения 0-100."
+    },
+    {
+      "can_id": "0x7E3",
+      "field": "hv_battery_temp",
+      "bytes": [2],
+      "scale": 1,
+      "offset": -40,
+      "unit": "°C",
+      "signed": false,
+      "verified": false,
+      "comment": "Типичный offset -40 для температурных PID. Диапазон -40..+215."
+    },
+    {
+      "can_id": "TBD",
+      "field": "hv_cell_voltage_delta",
+      "bytes": "TBD",
+      "scale": "TBD",
+      "offset": "TBD",
+      "unit": "V",
+      "signed": false,
+      "verified": false,
+      "comment": "Δ между max и min ячейкой пакета. Норма <0.03 В, внимание 0.03-0.1, критика >0.1."
+    },
+    {
+      "can_id": "TBD",
+      "field": "inverter_temp",
+      "bytes": "TBD",
+      "scale": 1,
+      "offset": -40,
+      "unit": "°C",
+      "signed": false,
+      "verified": false,
+      "comment": "Силовая электроника. Правило inverter_overtemp срабатывает >90°C."
+    },
+    {
+      "can_id": "TBD",
+      "field": "e_motor_temp",
+      "bytes": "TBD",
+      "scale": 1,
+      "offset": -40,
+      "unit": "°C",
+      "signed": false,
+      "verified": false,
+      "comment": "Температура статора/ротора. Правило e_motor_temp_high >120°C."
+    },
+    {
+      "can_id": "TBD",
+      "field": "motor_power_kw",
+      "bytes": "TBD",
+      "scale": "TBD",
+      "offset": 0,
+      "unit": "kW",
+      "signed": true,
+      "verified": false,
+      "comment": "Мгновенная мощность. Отрицательные = рекуперация."
+    },
+    {
+      "can_id": "TBD",
+      "field": "regen_brake_power",
+      "bytes": "TBD",
+      "scale": "TBD",
+      "offset": 0,
+      "unit": "kW",
+      "signed": true,
+      "verified": false,
+      "comment": "Мощность рекуперативного торможения. Может быть вычислимо из motor_power_kw при отрицательных значениях."
+    }
+  ],
+  "usage": {
+    "python_example": "import json\nfrom pathlib import Path\nMAP = json.loads(Path('scripts/leea2_pid_map.json').read_text(encoding='utf-8'))\nfor frame_spec in MAP['frames']:\n    if frame_spec['can_id'] == incoming_can_id:\n        raw = bytes_at(incoming_payload, frame_spec['bytes'])\n        value = raw * frame_spec['scale'] + frame_spec['offset']\n        snapshot_field = frame_spec['field']",
+    "verification": "После заполнения поля 'verified': true и 'scale'/'offset'/'bytes' реальными значениями — запустить pytest dashboard_build/tests/test_can_parser.py и smoke-тест hover на /v3/diagnostics."
+  }
+}

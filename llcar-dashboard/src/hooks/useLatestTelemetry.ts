@@ -22,10 +22,49 @@ export interface AudioSample {
   ts?: number
 }
 
+// PidsPayload — унифицированный shape pids от /api/data/.
+// Основные OBD-поля (обязательные) + extended VIN/EV поля (optional).
+// Signature `[key: string]: number | undefined` сохраняет backward-compat
+// с legacy OBD-кодами (p010c/p0142/p06) которые тоже могут прилетать.
+export interface PidsPayload {
+  // OBD standard (flat fields from /api/data/?tab=overview)
+  rpm?: number
+  speed?: number
+  coolant?: number
+  voltage?: number
+  engine_load?: number
+  throttle?: number
+  ltft?: number
+  stft?: number
+
+  // Extended VIN PIDs (могут быть, зависит от адаптера)
+  maf?: number
+  map_pressure?: number
+  oil_pressure?: number
+  o2_voltage?: number
+  runtime?: number
+  ltft_bank2?: number
+
+  // EV / HV — заполняются P3 CAN-парсером (см. dashboard_build/diagnostic/can_parser.py)
+  hv_battery_voltage?: number
+  hv_battery_current?: number
+  hv_battery_soc?: number
+  hv_battery_temp?: number
+  hv_cell_voltage_delta?: number
+  inverter_temp?: number
+  e_motor_temp?: number
+  motor_temp?: number
+  motor_power_kw?: number
+  regen_brake_power?: number
+
+  // Legacy OBD PID codes (p010c, p0142, p06 и т.п.) — fallback схема
+  [key: string]: number | undefined
+}
+
 export interface LatestTelemetry {
   accel: AccelSample | null
   audio: AudioSample[] | null
-  pids: Record<string, number> | null
+  pids: PidsPayload | null
   report: DiagnosticReport | null
   audioMetrics: AudioMetrics | null
   vibrationMetrics: VibrationMetrics | null
@@ -35,7 +74,7 @@ export interface LatestTelemetry {
 interface ApiDataShape {
   accel?: AccelSample[]
   audio?: AudioSample[]
-  pids?: Record<string, number>
+  pids?: PidsPayload
 }
 
 export function useLatestTelemetry(): LatestTelemetry {

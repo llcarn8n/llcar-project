@@ -1,5 +1,8 @@
 import { useMemo } from 'react'
 
+// Shape совпадает с PidsPayload + обязательный ts для time-series entry.
+// Формально это `PidsPayload & { ts: string }`, но старый локальный interface
+// оставляем чтобы не менять >60 usages — просто добавляем EV-поля как optional.
 interface PidEntry {
   ts: string
   rpm: number
@@ -10,6 +13,17 @@ interface PidEntry {
   throttle: number
   ltft: number
   stft: number
+  // EV (optional, заполняется P3 CAN-парсером)
+  hv_battery_voltage?: number
+  hv_battery_current?: number
+  hv_battery_soc?: number
+  hv_battery_temp?: number
+  hv_cell_voltage_delta?: number
+  inverter_temp?: number
+  e_motor_temp?: number
+  motor_temp?: number
+  motor_power_kw?: number
+  regen_brake_power?: number
 }
 
 interface LiveTelemetryRibbonProps {

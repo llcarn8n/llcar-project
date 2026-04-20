@@ -126,7 +126,9 @@ def enrich_pids_with_hv(
     """Обогащает plain pids dict полями из CAN (in-place safe копия).
 
     **STUB-режим**: если ``can_frames`` пуст или None — возвращает
-    pids без изменений. Иначе парсит и мержит.
+    копию pids без изменений. Иначе парсит и мержит.
+
+    Всегда возвращает НОВЫЙ dict — исходный никогда не мутируется.
 
     Использовать в ``pipeline.py`` после стандартного OBD-опроса:
 
@@ -136,15 +138,14 @@ def enrich_pids_with_hv(
         pids = {'rpm': 1200, 'speed': 60, ...}
         pids = enrich_pids_with_hv(pids, can_frames=collector.latest_can())
     """
+    out = dict(pids)
     if not can_frames:
-        return pids
+        return out
     snapshots = [snap for frame in can_frames if (snap := parse_can_frame(frame)) is not None]
     if not snapshots:
-        return pids
+        return out
     merged = merge_snapshots(snapshots)
-    hv_dict = merged.to_pids_dict()
-    out = dict(pids)
-    out.update(hv_dict)
+    out.update(merged.to_pids_dict())
     return out
 
 
