@@ -6,6 +6,7 @@ import { useRecallsSearch, type RecallCampaign } from '../../hooks/useRecallsSea
 interface RecallsBrowserProps {
   vehicleBrand?: string | null
   vehicleModel?: string | null
+  initialOnlyMyCar?: boolean
 }
 
 const SEVERITY_CONFIG: Record<string, { color: string; label: string }> = {
@@ -134,11 +135,11 @@ function RecallCard({ recall }: { recall: RecallCampaign }) {
   )
 }
 
-export function RecallsBrowser({ vehicleBrand, vehicleModel }: RecallsBrowserProps) {
+export function RecallsBrowser({ vehicleBrand, vehicleModel, initialOnlyMyCar = false }: RecallsBrowserProps) {
   const [q, setQ] = useState('')
   const [brand, setBrand] = useState('')
   const [severity, setSeverity] = useState('')
-  const [onlyMyCar, setOnlyMyCar] = useState(false)
+  const [onlyMyCar, setOnlyMyCar] = useState(initialOnlyMyCar)
   const [page, setPage] = useState(0)
   const PAGE_SIZE = 50
 

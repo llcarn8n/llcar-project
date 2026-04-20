@@ -1309,3 +1309,20 @@ html, body, .app-root-scroll { scrollbar-width: thin; scrollbar-color: rgba(230,
     min-height: 300px;
   }
 }
+
+/* ── 27. KB video links — hover для десктопа, :active для touch.
+   Ранее hover жил на onMouseEnter/Leave, что ломалось на мобильном. ── */
+.kb-video-link:hover,
+.kb-video-link:focus-visible {
+  background: rgba(0, 229, 255, 0.06) !important;
+  border-color: rgba(0, 229, 255, 0.22) !important;
+}
+.kb-video-link:active {
+  background: rgba(0, 229, 255, 0.10) !important;
+  border-color: rgba(0, 229, 255, 0.35) !important;
+}
+@media (max-width: 768px) {
+  .kb-video-link {
+    font-size: 14px;
+  }
+}

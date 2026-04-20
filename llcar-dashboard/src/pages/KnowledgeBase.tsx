@@ -75,7 +75,18 @@ export function KnowledgeBase() {
   const [manualMeta, setManualMeta] = useState<KbManualMeta | null>(null)
   const [vehicleInfoOpen, setVehicleInfoOpen] = useState(false)
   const [recallsOpen, setRecallsOpen] = useState(false)
+  const [recallsMyCarMode, setRecallsMyCarMode] = useState(false)
   const [situationsOpen, setSituationsOpen] = useState(false)
+
+  const jumpToRecallsForBrand = () => {
+    setRecallsOpen(true)
+    setRecallsMyCarMode(true)
+    // Даём секции раскрыться, затем скроллим к ней.
+    setTimeout(() => {
+      const el = document.getElementById('kb-recalls-section')
+      if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' })
+    }, 180)
+  }
 
   // Derive generation name from brands data
   useEffect(() => {
@@ -215,9 +226,9 @@ export function KnowledgeBase() {
       {/* Header */}
       <div className="col-span-12">
         <GlassPanel>
-          <div style={{ display: 'flex', alignItems: 'center', gap: 16 }}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: 16, flexWrap: 'wrap' }}>
             <img src={ICONS.knowledgeBase} alt="" style={{ width: 56, height: 56, objectFit: 'contain', mixBlendMode: 'screen', filter: 'brightness(1.45) contrast(1.15) saturate(1.2) drop-shadow(0 0 10px rgba(255,239,180,0.55)) drop-shadow(0 0 22px rgba(232,184,110,0.4)) drop-shadow(0 0 48px rgba(200,148,70,0.2))' }} />
-            <div>
+            <div style={{ flex: '1 1 220px', minWidth: 0 }}>
               <div className="hud-header" style={{ marginBottom: 4 }}>База знаний</div>
               <div style={{
                 fontFamily: 'var(--f-body), sans-serif',
@@ -234,6 +245,34 @@ export function KnowledgeBase() {
                   : '764 универсальных ситуации для всех марок и моделей'}
               </div>
             </div>
+            {vehicleProfile?.brand && (
+              <button
+                type="button"
+                onClick={jumpToRecallsForBrand}
+                style={{
+                  flexShrink: 0,
+                  minHeight: 44,
+                  padding: '10px 14px',
+                  fontFamily: 'var(--f-display)',
+                  fontSize: 11,
+                  fontWeight: 700,
+                  letterSpacing: '0.14em',
+                  color: 'var(--c-champagne)',
+                  background: 'rgba(255,23,68,0.08)',
+                  border: '1px solid rgba(255,23,68,0.35)',
+                  borderRadius: 4,
+                  cursor: 'pointer',
+                  textTransform: 'uppercase',
+                  display: 'inline-flex', alignItems: 'center', gap: 6,
+                  touchAction: 'manipulation',
+                  WebkitTapHighlightColor: 'rgba(255,23,68,0.25)',
+                }}
+                title={`Открыть отзывные кампании для ${vehicleProfile.brand}`}
+              >
+                <span aria-hidden>🔔</span>
+                Отзывы для {vehicleProfile.brand}
+              </button>
+            )}
           </div>
         </GlassPanel>
       </div>
@@ -276,7 +315,7 @@ export function KnowledgeBase() {
       </div>
 
       {/* Отзывные кампании — свёрнуто по умолчанию */}
-      <div className="col-span-12">
+      <div className="col-span-12" id="kb-recalls-section">
         <GlassPanel>
           <button
             type="button"
@@ -309,8 +348,10 @@ export function KnowledgeBase() {
           {recallsOpen && (
             <div style={{ marginTop: 4 }}>
               <RecallsBrowser
+                key={recallsMyCarMode ? 'mine' : 'all'}
                 vehicleBrand={vehicleProfile?.brand}
                 vehicleModel={vehicleProfile?.model}
+                initialOnlyMyCar={recallsMyCarMode && !!vehicleProfile?.brand}
               />
             </div>
           )}
@@ -421,25 +462,22 @@ export function KnowledgeBase() {
                     href={v.url}
                     target="_blank"
                     rel="noopener noreferrer"
+                    className="kb-video-link"
                     style={{
                       display: 'flex',
                       alignItems: 'center',
                       gap: 10,
-                      padding: '8px 10px',
+                      padding: '10px 12px',
+                      minHeight: 48,
                       borderRadius: 4,
                       background: 'rgba(0,229,255,0.02)',
                       border: '1px solid rgba(0,229,255,0.06)',
                       textDecoration: 'none',
-                      transition: 'all 0.2s',
+                      transition: 'background 0.15s ease, border-color 0.15s ease',
                       cursor: 'pointer',
-                    }}
-                    onMouseEnter={e => {
-                      (e.currentTarget as HTMLElement).style.background = 'rgba(0,229,255,0.06)'
-                      ;(e.currentTarget as HTMLElement).style.borderColor = 'rgba(0,229,255,0.15)'
-                    }}
-                    onMouseLeave={e => {
-                      (e.currentTarget as HTMLElement).style.background = 'rgba(0,229,255,0.02)'
-                      ;(e.currentTarget as HTMLElement).style.borderColor = 'rgba(0,229,255,0.06)'
+                      WebkitTapHighlightColor: 'rgba(0,229,255,0.25)',
+                      touchAction: 'manipulation',
+                      userSelect: 'none',
                     }}
                   >
                     {/* Play icon */}
