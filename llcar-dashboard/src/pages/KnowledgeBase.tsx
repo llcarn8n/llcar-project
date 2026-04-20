@@ -267,10 +267,10 @@ export function KnowledgeBase() {
                   touchAction: 'manipulation',
                   WebkitTapHighlightColor: 'rgba(255,23,68,0.25)',
                 }}
-                title={`Открыть отзывные кампании для ${vehicleProfile.brand}`}
+                title={`Открыть отзывные кампании ${vehicleProfile.brand}`}
               >
                 <span aria-hidden>🔔</span>
-                Отзывы для {vehicleProfile.brand}
+                Отзывные кампании {vehicleProfile.brand}
               </button>
             )}
           </div>
