@@ -101,6 +101,7 @@ export function CarWireframe({ activeSystem = null, onWheelRefs, onSystemCentroi
   const { scene } = useGLTF(`${import.meta.env.BASE_URL}models/car.glb`)
   const setHoveredPart = useDashboardStore((s) => s.setHoveredPart)
   const clearHoveredPart = useDashboardStore((s) => s.clearHoveredPart)
+  const hoveredPart = useDashboardStore((s) => s.hoveredPart)
 
   // Remember the non-hover material for any mesh we've applied a hover clone to,
   // so we can restore it on pointer-out. Keyed by mesh uuid to avoid name clashes.
@@ -361,6 +362,40 @@ export function CarWireframe({ activeSystem = null, onWheelRefs, onSystemCentroi
     restoreHoverMaterial()
     clearHoveredPart()
   }, [restoreHoverMaterial, clearHoveredPart])
+
+  // Внешний триггер подсветки: когда hoveredPart меняется не через raycaster
+  // (например, MobilePartPicker дёргает setHoveredPart), нужно найти mesh
+  // в clonedScene по nodeName из partSpec и применить hover material.
+  useEffect(() => {
+    if (!clonedScene) return
+    if (!hoveredPart || !hoveredPart.partSpec) {
+      // Pointer-out уже и так restoreHoverMaterial() вызывает, но если
+      // изменение пришло «снаружи» (clearHoveredPart из picker'а) —
+      // чистим сами.
+      restoreHoverMaterial()
+      return
+    }
+    // Pointer events уже подсветили нужный mesh — не трогаем.
+    const current = currentlyHovered.current
+    if (current && current.name && hoveredPart.nodeName &&
+        normalizeNodeName(current.name) === normalizeNodeName(hoveredPart.nodeName)) {
+      return
+    }
+    const names = hoveredPart.partSpec.nodeNames ?? []
+    if (names.length === 0) return
+    const targets = names.map(n => normalizeNodeName(n))
+    let target: THREE.Mesh | null = null
+    clonedScene.traverse((obj) => {
+      if (target) return
+      if (!(obj instanceof THREE.Mesh)) return
+      const norm = normalizeNodeName(obj.name || '')
+      if (!norm) return
+      for (const t of targets) {
+        if (t && norm.includes(t)) { target = obj; return }
+      }
+    })
+    if (target) applyHoverMaterial(target)
+  }, [hoveredPart, clonedScene, applyHoverMaterial, restoreHoverMaterial])
 
   return (
     <group
