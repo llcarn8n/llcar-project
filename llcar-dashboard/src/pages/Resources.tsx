@@ -1,6 +1,5 @@
-import { useState, useMemo, useEffect } from 'react'
+import { useState, useMemo } from 'react'
 import { GlassPanel } from '../components/shared/GlassPanel'
-import { ErrorBoundary } from '../components/shared/ErrorBoundary'
 import { useDashboardStore } from '../stores/dashboardStore'
 import { theme } from '../theme'
 import { ICONS } from '../utils/icons'
@@ -12,7 +11,7 @@ interface Resource {
    *  у пользователя не выбрано авто — fallback на обычный url. */
   searchPattern?: string
   desc: string
-  category: 'forum' | 'video' | 'tool' | 'manufacturer' | 'recall'
+  category: 'forum' | 'video' | 'tool' | 'manufacturer'
   brands?: string[] // empty = universal
 }
 
@@ -56,9 +55,9 @@ const RESOURCES: Resource[] = [
   { name: 'Hyundai Russia', url: 'https://www.hyundai.ru', desc: 'Модели, сервис, запчасти', category: 'manufacturer', brands: ['hyundai'] },
   { name: 'Kia Russia', url: 'https://www.kia.ru', desc: 'Официальный сайт, гарантия', category: 'manufacturer', brands: ['kia'] },
 
-  // Recalls
-  { name: 'Росстандарт — Отзывные кампании', url: 'https://www.rst.gov.ru/portal/gost/home/presscenter/news', desc: 'Официальный реестр отзывных кампаний РФ', category: 'recall' },
-  { name: 'NHTSA Recalls', url: 'https://www.nhtsa.gov/recalls', desc: 'База отзывных кампаний США (англ.)', category: 'recall' },
+  // Recalls удалены — отзывные кампании живут в /v3/kb (полноценный
+  // RecallsBrowser с фильтрами, поиском, пагинацией и быстрой кнопкой
+  // «Отзывные кампании {brand}» в header'е KB).
 ]
 
 const CATEGORY_INFO: Record<string, { label: string; icon: string; color: string }> = {
@@ -66,126 +65,9 @@ const CATEGORY_INFO: Record<string, { label: string; icon: string; color: string
   video: { label: 'Видео', icon: '\u{1F3AC}', color: 'var(--c-champagne)' },
   tool: { label: 'Инструменты', icon: '\u{1F6E0}', color: 'var(--c-champagne)' },
   manufacturer: { label: 'Производители', icon: '\u{1F3ED}', color: 'var(--c-champagne)' },
-  recall: { label: 'Отзывные кампании', icon: '\u26A0', color: 'var(--c-champagne)' },
 }
 
-interface RecallCampaign {
-  id: string; brand: string; models: string[]; date: string;
-  count: number; title: string; desc: string; severity: string;
-}
-
-function RecallsSearch({ brand }: { brand: string | null; model: string | null }) {
-  const [recalls, setRecalls] = useState<RecallCampaign[]>([])
-  const [loading, setLoading] = useState(true)
-  const [search, setSearch] = useState('')
-
-  useEffect(() => {
-    let cancelled = false
-    const base = (import.meta.env.BASE_URL || '/') as string
-    fetch(`${base}data/recalls.json`)
-      .then(r => {
-        if (!r.ok) throw new Error(`HTTP ${r.status}`)
-        return r.json()
-      })
-      .then((d: unknown) => {
-        if (cancelled) return
-        // Гарантируем массив — иначе .filter ниже упадёт и вся страница рухнет в SyntaxError/TypeError.
-        setRecalls(Array.isArray(d) ? (d as RecallCampaign[]) : [])
-        setLoading(false)
-      })
-      .catch((e) => {
-        if (cancelled) return
-        // eslint-disable-next-line no-console
-        console.error('[Resources] recalls.json load error:', e)
-        setRecalls([])
-        setLoading(false)
-      })
-    return () => { cancelled = true }
-  }, [])
-
-  const filtered = useMemo(() => {
-    // Двойная защита — на случай, если в json попали некорректные записи без brand/models/title
-    let results = recalls.filter(r => r && typeof r.title === 'string' && typeof r.brand === 'string' && Array.isArray(r.models))
-    if (brand) results = results.filter(r => r.brand === brand)
-    if (search) {
-      const q = search.toLowerCase()
-      results = results.filter(r =>
-        r.title.toLowerCase().includes(q) ||
-        r.models.some(m => typeof m === 'string' && m.toLowerCase().includes(q)) ||
-        r.brand.toLowerCase().includes(q)
-      )
-    }
-    return results.slice(0, 30)
-  }, [recalls, brand, search])
-
-  return (
-    <GlassPanel>
-      <div className="hud-header mb-3">
-        Отзывные кампании
-        {!loading && <span style={{ fontSize: 10, color: theme.text.muted, marginLeft: 8, fontWeight: 400 }}>{recalls.length} в базе</span>}
-      </div>
-
-      <input
-        type="text"
-        placeholder="Поиск по кампаниям..."
-        value={search}
-        onChange={e => setSearch(e.target.value)}
-        style={{
-          width: '100%', padding: '10px 14px', marginBottom: 12,
-          fontFamily: "var(--f-body)", fontSize: 14, fontWeight: 600,
-          color: '#ffffff', background: '#0f1923',
-          border: '1px solid rgba(230,212,168,0.15)', borderRadius: 4, outline: 'none',
-        }}
-      />
-
-      {loading ? (
-        <div style={{ textAlign: 'center', padding: 16, fontFamily: "var(--f-display)", fontSize: 12, color: theme.accent.cyan }}>LOADING...</div>
-      ) : (
-        <div style={{ display: 'flex', flexDirection: 'column', gap: 6, maxHeight: '50vh', overflowY: 'auto' }}>
-          {filtered.length === 0 && (
-            <div style={{ padding: 16, fontFamily: "var(--f-body)", fontSize: 13, color: theme.text.muted, textAlign: 'center' }}>
-              {brand ? `Нет отзывных кампаний для ${brand}` : 'Введите запрос или выберите автомобиль'}
-            </div>
-          )}
-          {filtered.map(r => (
-            <div key={r.id} style={{
-              padding: '12px 14px', borderRadius: 4,
-              background: 'rgba(255,23,68,0.03)', border: '1px solid rgba(255,23,68,0.1)',
-              transition: 'all 0.2s',
-            }}>
-              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', gap: 12 }}>
-                <div style={{ flex: 1 }}>
-                  <div style={{ fontFamily: "var(--f-body)", fontSize: 13, fontWeight: 700, color: theme.text.secondary, marginBottom: 4 }}>
-                    {r.title}
-                  </div>
-                  <div style={{ fontFamily: "var(--f-body)", fontSize: 11, color: theme.text.muted, lineHeight: 1.4, marginBottom: 6 }}>
-                    {r.desc}
-                  </div>
-                  <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
-                    {r.models.slice(0, 5).map(m => (
-                      <span key={m} style={{
-                        fontSize: 9, padding: '2px 6px', borderRadius: 2,
-                        background: 'rgba(230,212,168,0.06)', border: '1px solid rgba(230,212,168,0.12)',
-                        fontFamily: "var(--f-body)", fontWeight: 600, color: theme.accent.cyan,
-                      }}>{m}</span>
-                    ))}
-                  </div>
-                </div>
-                <div style={{ textAlign: 'right', flexShrink: 0 }}>
-                  <div style={{ fontFamily: "var(--f-display)", fontSize: 12, fontWeight: 700, color: theme.status.critical }}>
-                    {r.count.toLocaleString()}
-                  </div>
-                  <div style={{ fontFamily: "var(--f-body)", fontSize: 9, color: theme.text.muted }}>авто</div>
-                  <div style={{ fontFamily: 'monospace', fontSize: 9, color: theme.text.muted, marginTop: 4 }}>{r.date}</div>
-                </div>
-              </div>
-            </div>
-          ))}
-        </div>
-      )}
-    </GlassPanel>
-  )
-}
+/* RecallsSearch удалён — отзывные кампании теперь только в /v3/kb */
 
 export function Resources() {
   const { vehicleProfile } = useDashboardStore()
@@ -220,7 +102,7 @@ export function Resources() {
             <div>
               <div className="hud-header" style={{ marginBottom: 4 }}>Полезные источники</div>
               <div style={{ fontFamily: "var(--f-body)", fontSize: 13, color: theme.text.muted, lineHeight: 1.4 }}>
-                Форумы, видео, инструменты диагностики и отзывные кампании
+                Форумы, видео, инструменты диагностики, сайты производителей
                 {vehicleProfile && ` для ${vehicleProfile.brand} ${vehicleProfile.model}`}
               </div>
             </div>
@@ -349,12 +231,7 @@ export function Resources() {
         </div>
       </div>
 
-      {/* Recalls search — огорожен ErrorBoundary'ем чтобы сбой fetch/парсинга не крашил всю страницу */}
-      <div className="col-span-12">
-        <ErrorBoundary label="RecallsSearch">
-          <RecallsSearch brand={vehicleProfile?.brandId || null} model={vehicleProfile?.model || null} />
-        </ErrorBoundary>
-      </div>
+      {/* Recalls блок удалён — отзывные кампании живут в /v3/kb. */}
     </div>
   )
 }
