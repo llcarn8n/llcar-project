@@ -204,83 +204,76 @@ function getPotholeWallTexture(): THREE.CanvasTexture {
   return tex
 }
 
+// Displaced road patch — реальный 3D-кратер в геометрии.
+// Плоскость 1.0×0.8 м с тесселяцией 64×48 вершин. Вершины, попадающие
+// в эллиптический радиус ямы, смещаются вниз по cosine-bell falloff +
+// небольшой noise для органики. Normals пересчитываются — освещение
+// показывает глубину корректно под любым углом камеры.
+function PotholePit() {
+  const geometry = useMemo(() => {
+    const W = 1.0, H = 0.8
+    const SEG_X = 64, SEG_Z = 48
+    const geo = new THREE.PlaneGeometry(W, H, SEG_X, SEG_Z)
+    geo.rotateX(-Math.PI / 2) // положить горизонтально
+
+    const positions = geo.attributes.position
+    const RX = 0.34       // горизонтальный радиус ямы
+    const RZ = 0.22       // продольный радиус ямы (яма эллиптическая)
+    const DEPTH = 0.35    // глубина 35 см
+
+    for (let i = 0; i < positions.count; i++) {
+      const x = positions.getX(i)
+      const z = positions.getZ(i)
+      // Эллиптическая нормализованная дистанция (0 в центре, 1 на границе)
+      const d = Math.sqrt((x / RX) ** 2 + (z / RZ) ** 2)
+      if (d >= 1) continue
+      // Cosine-bell falloff: плавный спуск в центр, вертикальная стенка на границе
+      const t = d
+      const bell = 0.5 * (Math.cos(Math.PI * t) + 1) // 1 в центре, 0 на границе
+      // Внутренняя ямка (плоская глубокая часть 60% радиуса)
+      const inner = t < 0.6 ? 1 : bell * (1 - (t - 0.6) / 0.4 * 0.3)
+      const y = -DEPTH * inner
+      // Органический noise по периметру — рваный асфальт
+      const rimNoise = t > 0.85
+        ? (Math.sin(x * 50) * Math.cos(z * 45) + Math.sin(x * 20 + z * 30)) * 0.015
+        : 0
+      positions.setY(i, y + rimNoise)
+    }
+    positions.needsUpdate = true
+    geo.computeVertexNormals()
+    return geo
+  }, [])
+
+  // Single dark mesh с normals — освещение делает всю работу
+  return (
+    <group position={[0, 0.001, 0]}>
+      {/* Сам deformed road patch */}
+      <mesh geometry={geometry}>
+        <meshStandardMaterial
+          color="#1a1b1e"
+          roughness={0.98}
+          metalness={0.02}
+          side={THREE.DoubleSide}
+        />
+      </mesh>
+      {/* Дополнительная pure-black плоскость на дне — гарантированная чернота глубины */}
+      <mesh position={[0, -0.345, 0]} rotation={[-Math.PI / 2, 0, 0]}>
+        <circleGeometry args={[0.18, 32]} />
+        <meshBasicMaterial color="#000000" />
+      </mesh>
+    </group>
+  )
+}
+
 function ObstacleMesh({ type }: { type: ObsType }) {
   if (type === 'pothole_l' || type === 'pothole_r') {
-    // Яма: разбитый асфальт с неровным периметром, глубокой тёмной впадиной,
-    // стенками с градиентной текстурой (светлее у края, чёрно у дна)
-    // и трещинами вокруг. Глубина 30см, читается под любым углом камеры.
-    const floorTex = getPotholeFloorTexture()
-    const wallTex = getPotholeWallTexture()
-    return (
-      <group>
-        {/* Дно — 30см ниже дороги, с радиальным градиентом (чернее к центру) */}
-        <mesh position={[0, -0.30, 0]} rotation={[-Math.PI / 2, 0, 0]} scale={[1.2, 0.8, 1]}>
-          <circleGeometry args={[0.24, 64]} />
-          <meshStandardMaterial map={floorTex} color="#000000" roughness={1.0} metalness={0.0} />
-        </mesh>
-        {/* Дополнительный очень тёмный диск в самом центре — усиление «провала» */}
-        <mesh position={[0, -0.299, 0]} rotation={[-Math.PI / 2, 0, 0]} scale={[1.2, 0.8, 1]}>
-          <circleGeometry args={[0.12, 32]} />
-          <meshBasicMaterial color="#000000" transparent opacity={0.85} />
-        </mesh>
-        {/* Скошенные стенки — truncated cone, 30см высотой, с градиент-текстурой */}
-        <mesh position={[0, -0.15, 0]} scale={[1.2, 1, 0.8]}>
-          <cylinderGeometry args={[0.36, 0.22, 0.30, 64, 1, true]} />
-          <meshStandardMaterial map={wallTex} color="#ffffff" roughness={0.95} metalness={0.05} side={THREE.BackSide} />
-        </mesh>
-        {/* Тонкая светлая подсветка по верхнему краю — hint of light catching rim */}
-        <mesh position={[0, -0.002, 0]} rotation={[-Math.PI / 2, 0, 0]} scale={[1.2, 0.8, 1]}>
-          <ringGeometry args={[0.355, 0.370, 64]} />
-          <meshBasicMaterial color="#2a2b2e" transparent opacity={0.75} side={THREE.DoubleSide} depthWrite={false} />
-        </mesh>
-        {/* Рваный rim — 8 плоских тёмно-серых патчей вокруг периметра (имитация отколотого асфальта) */}
-        {Array.from({ length: 8 }).map((_, i) => {
-          const a = (i / 8) * Math.PI * 2
-          const r = 0.34 + (i % 2 === 0 ? 0.025 : 0.008)
-          const sx = 0.14 + (i % 3 === 0 ? 0.04 : 0)
-          const sz = 0.08 + (i % 2 === 1 ? 0.03 : 0)
-          return (
-            <mesh
-              key={i}
-              position={[Math.cos(a) * r * 1.2, 0.002, Math.sin(a) * r * 0.8]}
-              rotation={[-Math.PI / 2, 0, a + Math.PI / 2]}
-              scale={[sx, sz, 1]}
-            >
-              <circleGeometry args={[0.12, 12]} />
-              <meshStandardMaterial color="#1A1B1D" roughness={0.98} metalness={0.0} />
-            </mesh>
-          )
-        })}
-        {/* Трещины-лучи от центра ямы — 5 тонких тёмных полос */}
-        {Array.from({ length: 5 }).map((_, i) => {
-          const a = (i / 5) * Math.PI * 2 + 0.3
-          const len = 0.18 + (i % 2 === 0 ? 0.08 : 0)
-          const w = 0.008 + (i % 3) * 0.002
-          return (
-            <mesh
-              key={`crack-${i}`}
-              position={[Math.cos(a) * (0.36 + len / 2) * 1.2, 0.003, Math.sin(a) * (0.36 + len / 2) * 0.8]}
-              rotation={[-Math.PI / 2, 0, a + Math.PI / 2]}
-            >
-              <planeGeometry args={[w, len]} />
-              <meshStandardMaterial color="#07080A" roughness={1.0} metalness={0.0} />
-            </mesh>
-          )
-        })}
-        {/* Глубокая AO-тень вокруг — шире и темнее, усиливает read-ability ямы */}
-        <mesh position={[0, 0.001, 0]} rotation={[-Math.PI / 2, 0, 0]} scale={[1.2, 0.8, 1]}>
-          <ringGeometry args={[0.33, 0.58, 48]} />
-          <meshBasicMaterial color="#040506" transparent opacity={0.55} side={THREE.DoubleSide} depthWrite={false} />
-        </mesh>
-        {/* Внутренний затемняющий ободок поверх стенок */}
-        <mesh position={[0, -0.002, 0]} rotation={[-Math.PI / 2, 0, 0]} scale={[1.2, 0.8, 1]}>
-          <ringGeometry args={[0.24, 0.355, 48]} />
-          <meshBasicMaterial color="#000000" transparent opacity={0.35} side={THREE.DoubleSide} depthWrite={false} />
-        </mesh>
-      </group>
-    )
+    // Яма: НАСТОЯЩЕЕ 3D-углубление в плоскости дороги.
+    // Берём PlaneGeometry с высокой тесселяцией (64×48 вершин), поворачиваем в
+    // горизонтальную плоскость и смещаем ВНИЗ вершины, попадающие в радиус ямы,
+    // по cosine-bell falloff. Получается реальный кратер — с правильными normals,
+    // тенями от направленного света, и видимой глубиной под любым углом камеры.
+    return <PotholePit />
   }
-
   if (type === 'bump') {
     // Лежачий полицейский: реальный half-dome, вытянутый поперёк дороги (по X),
     // приподнят на 0.08 над road. Spectral rim по периметру основания.

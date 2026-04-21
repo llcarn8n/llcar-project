@@ -35,7 +35,8 @@ export function LogoVideoModal({ open, onClose }: Props) {
         position: 'fixed',
         inset: 0,
         zIndex: 10000,
-        background: 'rgba(5,6,12,0.88)',
+        background:
+          'radial-gradient(circle at 50% 50%, rgba(255,188,110,0.22) 0%, rgba(230,160,80,0.12) 25%, rgba(18,12,6,0.92) 65%, rgba(5,6,12,0.95) 100%)',
         backdropFilter: 'blur(14px) saturate(140%)',
         WebkitBackdropFilter: 'blur(14px) saturate(140%)',
         display: 'flex',
@@ -45,6 +46,21 @@ export function LogoVideoModal({ open, onClose }: Props) {
         cursor: 'zoom-out',
       }}
     >
+      {/* Warm champagne halo behind video — soft glow внутри модалки. */}
+      <div
+        aria-hidden
+        style={{
+          position: 'absolute',
+          width: 'min(82vw, 860px)',
+          height: 'min(82vw, 860px)',
+          borderRadius: '50%',
+          background:
+            'radial-gradient(circle, rgba(255,210,140,0.38) 0%, rgba(240,170,80,0.18) 40%, rgba(180,90,30,0.05) 70%, transparent 100%)',
+          filter: 'blur(40px)',
+          pointerEvents: 'none',
+          zIndex: 0,
+        }}
+      />
       <video
         ref={videoRef}
         src={`${import.meta.env.BASE_URL}logo-intro.mp4`}
@@ -55,11 +71,13 @@ export function LogoVideoModal({ open, onClose }: Props) {
         preload="auto"
         onClick={e => e.stopPropagation()}
         style={{
+          position: 'relative',
+          zIndex: 1,
           maxWidth: 'min(90vw, 760px)',
           maxHeight: '85vh',
           borderRadius: 12,
-          boxShadow: '0 0 80px rgba(230,212,168,0.25), 0 30px 80px rgba(0,0,0,0.6)',
-          border: '1px solid rgba(230,212,168,0.35)',
+          boxShadow: '0 0 120px rgba(255,188,110,0.35), 0 0 60px rgba(230,212,168,0.25), 0 30px 80px rgba(0,0,0,0.6)',
+          border: '1px solid rgba(230,212,168,0.4)',
           cursor: 'default',
         }}
       />
