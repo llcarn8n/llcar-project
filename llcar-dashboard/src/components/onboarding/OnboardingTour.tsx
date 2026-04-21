@@ -51,10 +51,18 @@ export function OnboardingTour() {
   const [visible, setVisible] = useState(false)
 
   useEffect(() => {
-    const done = localStorage.getItem(STORAGE_KEY)
-    if (!done) {
-      setVisible(true)
+    const showIfNotDone = () => {
+      const done = localStorage.getItem(STORAGE_KEY)
+      if (!done) {
+        setStep(0)
+        setVisible(true)
+      }
     }
+    showIfNotDone()
+    // Allow "Пройти тур заново" button (MainLayout) to re-open the tour
+    // without a full page reload.
+    window.addEventListener('llcar-restart-tour', showIfNotDone)
+    return () => window.removeEventListener('llcar-restart-tour', showIfNotDone)
   }, [])
 
   if (!visible) return null

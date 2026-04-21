@@ -1,15 +1,14 @@
-import { Suspense, lazy, useState, useMemo } from 'react'
+import { Suspense, useState, useMemo } from 'react'
 import { ActiveDiagnosesFeed } from '../components/diagnostics/ActiveDiagnosesFeed'
 import { RulesPicker } from '../components/diagnostics/RulesPicker'
 import { StatusBar } from '../components/diagnostics/StatusBar'
 import { SystemScoreCards } from '../components/diagnostics/SystemScoreCards'
 import { LiveTelemetryRibbon } from '../components/diagnostics/LiveTelemetryRibbon'
+import { lazyWithRetry } from '../utils/lazyWithRetry'
 
-const DiagnosticTwinCanvas = lazy(() => import('../components/three/DiagnosticTwinCanvas'))
-const SmartSphere = lazy(() => import('../components/three/SmartSphere').then(m => ({ default: m.SmartSphere })))
-import { AudioSpectrum } from '../components/panels/AudioSpectrum'
+const DiagnosticTwinCanvas = lazyWithRetry(() => import('../components/three/DiagnosticTwinCanvas'))
+const SmartSphere = lazyWithRetry(() => import('../components/three/SmartSphere').then(m => ({ default: m.SmartSphere })))
 import { DiagnosisCard } from '../components/panels/DiagnosisCard'
-import { AnomalyTimeline } from '../components/panels/AnomalyTimeline'
 import type { HistoryPoint } from '../components/panels/AnomalyTimeline'
 import { GlassPanel } from '../components/shared/GlassPanel'
 import { useApiData } from '../hooks/useApiData'
@@ -19,16 +18,10 @@ import { theme } from '../theme'
 import { useDiagnosticV2 } from '../hooks/useDiagnosticV2'
 import { useDebouncedDiagnoses } from '../hooks/useDebouncedDiagnoses'
 import { DiagnosisCardV2 } from '../components/diagnostics/DiagnosisCardV2'
-import { EscalationTimeline } from '../components/panels/EscalationTimeline'
-import { CorrelationPanel } from '../components/panels/CorrelationPanel'
 import { OnboardingTour } from '../components/onboarding/OnboardingTour'
 import { BaselineStatus } from '../components/panels/BaselineStatus'
-import { ChatPanel } from '../components/chat/ChatPanel'
-import { HistoryHeatmap } from '../components/diagnostics/HistoryHeatmap'
 import { RulesList } from '../components/diagnostics/RulesList'
 import { DiagnosticSearch } from '../components/diagnostics/DiagnosticSearch'
-import { SuspensionTab } from '../components/panels/SuspensionTab'
-import { AudioTab } from '../components/panels/AudioTab'
 import PartTooltip from '../components/three/PartTooltip'
 import { MobilePartPicker } from '../components/three/MobilePartPicker'
 
@@ -37,10 +30,34 @@ import { NebulaPanel } from '../components/ui/NebulaPanel'
 import { MiniSparkline } from '../components/ui/MiniSparkline'
 import { SkyOrb } from '../components/ui/SkyOrb'
 
-const CoherenceMap = lazy(() => import('../components/panels/CoherenceMap').then(m => ({ default: m.CoherenceMap })))
-const CUSUMChart = lazy(() => import('../components/panels/CUSUMChart').then(m => ({ default: m.CUSUMChart })))
-const PseudoOrderPlot = lazy(() => import('../components/panels/PseudoOrderPlot').then(m => ({ default: m.PseudoOrderPlot })))
-const RuleDetailDrawer = lazy(() => import('../components/diagnostics/RuleDetailDrawer'))
+// Heavy panels (echarts / echarts-gl / three) — lazy-loaded so the initial
+// Diagnostics page doesn't pull ~2 MB of chart libraries on every mount.
+// These chunks are fetched only when the matching tab / section is rendered.
+const AnomalyTimeline = lazyWithRetry(() => import('../components/panels/AnomalyTimeline').then(m => ({ default: m.AnomalyTimeline })))
+const AudioSpectrum = lazyWithRetry(() => import('../components/panels/AudioSpectrum').then(m => ({ default: m.AudioSpectrum })))
+const CorrelationPanel = lazyWithRetry(() => import('../components/panels/CorrelationPanel').then(m => ({ default: m.CorrelationPanel })))
+const EscalationTimeline = lazyWithRetry(() => import('../components/panels/EscalationTimeline').then(m => ({ default: m.EscalationTimeline })))
+const HistoryHeatmap = lazyWithRetry(() => import('../components/diagnostics/HistoryHeatmap').then(m => ({ default: m.HistoryHeatmap })))
+const SuspensionTab = lazyWithRetry(() => import('../components/panels/SuspensionTab').then(m => ({ default: m.SuspensionTab })))
+const AudioTab = lazyWithRetry(() => import('../components/panels/AudioTab').then(m => ({ default: m.AudioTab })))
+const ChatPanel = lazyWithRetry(() => import('../components/chat/ChatPanel').then(m => ({ default: m.ChatPanel })))
+
+const CoherenceMap = lazyWithRetry(() => import('../components/panels/CoherenceMap').then(m => ({ default: m.CoherenceMap })))
+const CUSUMChart = lazyWithRetry(() => import('../components/panels/CUSUMChart').then(m => ({ default: m.CUSUMChart })))
+const PseudoOrderPlot = lazyWithRetry(() => import('../components/panels/PseudoOrderPlot').then(m => ({ default: m.PseudoOrderPlot })))
+const RuleDetailDrawer = lazyWithRetry(() => import('../components/diagnostics/RuleDetailDrawer'))
+
+function PanelLoading({ height = 180, label = 'Загрузка…' }: { height?: number; label?: string }) {
+  return (
+    <GlassPanel style={{ minHeight: height }}>
+      <div style={{
+        display: 'flex', alignItems: 'center', justifyContent: 'center',
+        height, color: 'var(--c-spectral-muted)', fontSize: 11,
+        fontFamily: 'var(--f-mono)', letterSpacing: '0.18em', textTransform: 'uppercase',
+      }}>{label}</div>
+    </GlassPanel>
+  )
+}
 
 type SystemKey = 'suspension' | 'engine' | 'electrical' | 'audio'
 
@@ -77,12 +94,20 @@ export function Diagnostics() {
   const vehicleProfile = useDashboardStore(s => s.vehicleProfile)
   const resetVehicle = useDashboardStore(s => s.resetVehicle)
   const { report: v2Report, history: v2History, loading: v2Loading, error: _v2Error, sendFeedback, fetchLatest } = useDiagnosticV2(clientHash, timeRange)
-  const { diagnoses: debouncedDiagnoses, activeCount: debouncedActive, flickeringCount: debouncedFlicker } = useDebouncedDiagnoses(v2Report?.diagnoses)
-  const v2ReportDebounced = v2Report ? { ...v2Report, diagnoses: debouncedDiagnoses } : null
+  const { diagnoses: debouncedDiagnoses, activeCount: debouncedActive, flickeringCount: debouncedFlicker } = useDebouncedDiagnoses(v2Report?.diagnoses, undefined, clientHash)
+  const v2ReportDebounced = useMemo(
+    () => (v2Report ? { ...v2Report, diagnoses: debouncedDiagnoses } : null),
+    [v2Report, debouncedDiagnoses],
+  )
   const [manualLoading, setManualLoading] = useState(false)
   const [activeSystem, setActiveSystem] = useState<SystemKey | null>('suspension')
   const [openInsight, setOpenInsight] = useState<string | null>(null)
   const [mobileDiagExpanded, setMobileDiagExpanded] = useState(false)
+  const mobileVisibleDiagnoses = useMemo(() => {
+    const list = v2ReportDebounced?.diagnoses
+    if (!list) return undefined
+    return mobileDiagExpanded ? list : list.slice(0, 5)
+  }, [v2ReportDebounced, mobileDiagExpanded])
 
   const v2HistoryAdapted = useMemo<HistoryPoint[]>(() => {
     if (!v2History || v2History.length === 0) return []
@@ -322,6 +347,8 @@ export function Diagnostics() {
 
   // Общий блок диагностики — добавляется во все системные табы (suspension/engine/electrical/audio)
   // под их специфичным контентом. Ничего из Обзора не теряется.
+  // Heavy-панели (AnomalyTimeline, CorrelationPanel, EscalationTimeline, HistoryHeatmap, ChatPanel)
+  // идут через lazyWithRetry — оборачиваем в <Suspense>, чтобы echarts/chart-чанки подгружались лениво.
   const commonBlock = (
     <>
       <div className="col-span-12">
@@ -341,14 +368,20 @@ export function Diagnostics() {
         </div>
       )}
       <div className={useV2Api && v2Report?.baseline_status ? 'col-span-12 lg:col-span-7' : 'col-span-12'}>
-        <AnomalyTimeline history={useV2Api ? v2HistoryAdapted : (historyData?.history ?? [])} />
+        <Suspense fallback={<PanelLoading height={220} label="Временная шкала…" />}>
+          <AnomalyTimeline history={useV2Api ? v2HistoryAdapted : (historyData?.history ?? [])} />
+        </Suspense>
       </div>
       <div className="col-span-12">
-        <CorrelationPanel clientHash={clientHash} />
+        <Suspense fallback={<PanelLoading height={200} label="Корреляции…" />}>
+          <CorrelationPanel clientHash={clientHash} />
+        </Suspense>
       </div>
       {useV2Api && v2Report?.escalations && v2Report.escalations.length > 0 && (
         <div className="col-span-12">
-          <EscalationTimeline escalations={v2Report.escalations} />
+          <Suspense fallback={<PanelLoading height={160} label="Эскалации…" />}>
+            <EscalationTimeline escalations={v2Report.escalations} />
+          </Suspense>
         </div>
       )}
       {useV2Api && (
@@ -365,7 +398,9 @@ export function Diagnostics() {
               По горизонтали — шаги истории от раннего к недавнему; по вертикали — 4 системы.
               Тёмно-красные ячейки — критика, оранжевые — внимание, бежевые — лёгкая деградация, зелёные — норма.
             </div>
-            <HistoryHeatmap history={v2History} />
+            <Suspense fallback={<PanelLoading height={180} label="Тепловая карта…" />}>
+              <HistoryHeatmap history={v2History} />
+            </Suspense>
           </GlassPanel>
         </div>
       )}
@@ -373,7 +408,9 @@ export function Diagnostics() {
         <DiagnosticSearch />
       </div>
       <div className="col-span-12">
-        <ChatPanel />
+        <Suspense fallback={<PanelLoading height={240} label="Чат-диагност…" />}>
+          <ChatPanel />
+        </Suspense>
       </div>
     </>
   )
@@ -539,15 +576,12 @@ export function Diagnostics() {
             Диагнозы · {debouncedActive ?? v2ReportDebounced?.diagnoses?.length}
           </div>
           <div style={{ display: 'flex', flexDirection: 'column', gap: 6 }}>
-            {(mobileDiagExpanded
-              ? v2ReportDebounced?.diagnoses
-              : v2ReportDebounced?.diagnoses?.slice(0, 5)
-            )?.map((d, i) => {
+            {mobileVisibleDiagnoses?.map((d, i) => {
               const conf = Math.round((d.confidence ?? 0) > 1 ? (d.confidence ?? 0) : (d.confidence ?? 0) * 100)
               const sevColor = conf >= 70 ? '#FF4A4A' : conf >= 40 ? '#E0B46B' : '#6BE08F'
               const ruleName = d.rule_name
               return (
-                <div key={i}
+                <div key={ruleName ?? `diag-${i}`}
                   onClick={() => ruleName && openRuleDrawer(ruleName)}
                   role={ruleName ? 'button' : undefined}
                   tabIndex={ruleName ? 0 : undefined}
@@ -633,7 +667,9 @@ export function Diagnostics() {
               )}
             </div>
             <div className="col-span-12 lg:col-span-7">
-              <AnomalyTimeline history={useV2Api ? v2HistoryAdapted : (historyData?.history ?? [])} />
+              <Suspense fallback={<PanelLoading height={220} label="Временная шкала…" />}>
+                <AnomalyTimeline history={useV2Api ? v2HistoryAdapted : (historyData?.history ?? [])} />
+              </Suspense>
             </div>
 
             {useV2Api && v2Report && (
@@ -644,7 +680,13 @@ export function Diagnostics() {
                       <span style={{ fontSize: 12, fontFamily: 'var(--f-body)', fontWeight: 600, color: theme.text.primary }}>История диагнозов</span>
                       <span style={{ fontSize: 10, color: theme.accent.cyan }}>{openInsight === 'esc' ? '▾' : '▸'}</span>
                     </div>
-                    {openInsight === 'esc' && <div style={{ marginTop: 8 }} onClick={e => e.stopPropagation()}><EscalationTimeline escalations={v2Report.escalations} /></div>}
+                    {openInsight === 'esc' && (
+                      <div style={{ marginTop: 8 }} onClick={e => e.stopPropagation()}>
+                        <Suspense fallback={<PanelLoading height={140} label="Эскалации…" />}>
+                          <EscalationTimeline escalations={v2Report.escalations} />
+                        </Suspense>
+                      </div>
+                    )}
                   </div>
                 )}
                 <div className="glass-panel" style={{ padding: '10px 14px', cursor: 'pointer' }} onClick={() => setOpenInsight(openInsight === 'corr' ? null : 'corr')}>
@@ -652,7 +694,13 @@ export function Diagnostics() {
                     <span style={{ fontSize: 12, fontFamily: 'var(--f-body)', fontWeight: 600, color: theme.text.primary }}>Корреляции</span>
                     <span style={{ fontSize: 10, color: theme.accent.cyan }}>{openInsight === 'corr' ? '▾' : '▸'}</span>
                   </div>
-                  {openInsight === 'corr' && <div style={{ marginTop: 8 }} onClick={e => e.stopPropagation()}><CorrelationPanel clientHash={clientHash} /></div>}
+                  {openInsight === 'corr' && (
+                    <div style={{ marginTop: 8 }} onClick={e => e.stopPropagation()}>
+                      <Suspense fallback={<PanelLoading height={180} label="Корреляции…" />}>
+                        <CorrelationPanel clientHash={clientHash} />
+                      </Suspense>
+                    </div>
+                  )}
                 </div>
               </div>
             )}
@@ -669,7 +717,9 @@ export function Diagnostics() {
         {activeSystem === 'suspension' && (
           <>
             <div className="col-span-12">
-              <SuspensionTab accelData={accelData} />
+              <Suspense fallback={<PanelLoading height={260} label="Подвеска: графики…" />}>
+                <SuspensionTab accelData={accelData} />
+              </Suspense>
             </div>
             <div className="col-span-12 lg:col-span-12">
               <Suspense fallback={
@@ -708,10 +758,14 @@ export function Diagnostics() {
         {activeSystem === 'audio' && (
           <>
             <div className="col-span-12">
-              <AudioTab data={audioData} />
+              <Suspense fallback={<PanelLoading height={240} label="Аудио: панель…" />}>
+                <AudioTab data={audioData} />
+              </Suspense>
             </div>
             <div className="col-span-12">
-              <AudioSpectrum data={audioData} />
+              <Suspense fallback={<PanelLoading height={200} label="Аудио-спектр…" />}>
+                <AudioSpectrum data={audioData} />
+              </Suspense>
             </div>
             <div className="col-span-12">
               <RulesList filterSystem="Шумы" />

@@ -183,6 +183,9 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
   useEffect(() => {
     if (!chart3dRef.current || trajectoryData.length === 0) return
 
+    // Belt-and-suspenders: force-dispose any orphan instance attached to this DOM node
+    // (React strict-mode double-effects, fast re-renders, or missed cleanup can leave one).
+    echarts.getInstanceByDom(chart3dRef.current)?.dispose()
     const chart = echarts.init(chart3dRef.current, undefined, { renderer: 'canvas' })
     chart3dInstance.current = chart
 
@@ -325,6 +328,7 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
   useEffect(() => {
     if (!chartAxesRef.current || accelData.length === 0) return
 
+    echarts.getInstanceByDom(chartAxesRef.current)?.dispose()
     const chart = echarts.init(chartAxesRef.current, undefined, { renderer: 'canvas' })
     chartAxesInstance.current = chart
 
@@ -424,6 +428,7 @@ export function SuspensionTab({ accelData }: SuspensionTabProps) {
     const hasZData = accelData.some(d => d.z_min != null || d.z_max != null)
     if (!hasZData) return
 
+    echarts.getInstanceByDom(chartCorridorRef.current)?.dispose()
     const chart = echarts.init(chartCorridorRef.current, undefined, { renderer: 'canvas' })
     chartCorridorInstance.current = chart
 

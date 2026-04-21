@@ -1,4 +1,4 @@
-import { useState, useEffect, useMemo } from 'react'
+import { useState, useMemo, useRef, useCallback } from 'react'
 import { GlassPanel } from '../shared/GlassPanel'
 import { theme } from '../../theme'
 import { cachedFetch } from '../../utils/fetchCache'
@@ -11,17 +11,31 @@ interface SearchResult {
   severity?: string
 }
 
-// Lightweight search across all data sources
+type DtcEntry = { c: string; t: string }
+type SituationEntry = { id: string; title: string; qa: string }
+type RulesBundle = { articles: Array<{ id: string; title: string; qa: string }>; rules: Array<{ id: string; title: string }> }
+
+// Lightweight search across all data sources.
+// Heavy JSON bundles (~1.5 MB total) are fetched ONLY on first user interaction
+// (focus or typing), not on mount — prevents blocking the Diagnostics initial render on mobile.
 export function DiagnosticSearch() {
   const [query, setQuery] = useState('')
-  const [dtcData, setDtcData] = useState<Array<{ c: string; t: string }>>([])
-  const [situations, setSituations] = useState<Array<{ id: string; title: string; qa: string }>>([])
-  const [rules, setRules] = useState<{ articles: Array<{ id: string; title: string; qa: string }>; rules: Array<{ id: string; title: string }> } | null>(null)
+  const [dtcData, setDtcData] = useState<DtcEntry[]>([])
+  const [situations, setSituations] = useState<SituationEntry[]>([])
+  const [rules, setRules] = useState<RulesBundle | null>(null)
+  const [loading, setLoading] = useState(false)
+  const loadedRef = useRef(false)
 
-  useEffect(() => {
-    cachedFetch(`${import.meta.env.BASE_URL}data/dtc-search.json`).then(setDtcData).catch(() => {})
-    cachedFetch(`${import.meta.env.BASE_URL}data/situations-universal.json`).then(setSituations).catch(() => {})
-    cachedFetch(`${import.meta.env.BASE_URL}data/diagnostic-rules.json`).then(setRules).catch(() => {})
+  const ensureLoaded = useCallback(() => {
+    if (loadedRef.current) return
+    loadedRef.current = true
+    setLoading(true)
+    const base = import.meta.env.BASE_URL
+    Promise.allSettled([
+      cachedFetch<DtcEntry[]>(`${base}data/dtc-search.json`).then(setDtcData),
+      cachedFetch<SituationEntry[]>(`${base}data/situations-universal.json`).then(setSituations),
+      cachedFetch<RulesBundle>(`${base}data/diagnostic-rules.json`).then(setRules),
+    ]).finally(() => setLoading(false))
   }, [])
 
   const results = useMemo<SearchResult[]>(() => {
@@ -29,17 +43,14 @@ export function DiagnosticSearch() {
     const q = query.toLowerCase()
     const res: SearchResult[] = []
 
-    // DTC codes (max 10)
     dtcData.filter(d => d.c.toLowerCase().includes(q) || d.t.toLowerCase().includes(q))
       .slice(0, 10)
       .forEach(d => res.push({ type: 'dtc', id: d.c, title: d.c, preview: d.t }))
 
-    // Situations (max 10)
     situations.filter(s => s.title.toLowerCase().includes(q) || s.qa.toLowerCase().includes(q))
       .slice(0, 10)
       .forEach(s => res.push({ type: 'situation', id: s.id, title: s.title, preview: s.qa.slice(0, 150) }))
 
-    // Rules + articles (max 5 each)
     if (rules) {
       rules.articles.filter(a => a.title.toLowerCase().includes(q) || a.qa.toLowerCase().includes(q))
         .slice(0, 5)
@@ -66,7 +77,13 @@ export function DiagnosticSearch() {
         type="text"
         placeholder="Катализатор, P0420, подвеска, масло..."
         value={query}
-        onChange={e => setQuery(e.target.value)}
+        onChange={e => { ensureLoaded(); setQuery(e.target.value) }}
+        onFocus={e => {
+          ensureLoaded()
+          e.target.style.borderColor = 'var(--c-amber)'
+          e.target.style.boxShadow = '0 0 0 3px rgba(255,159,28,0.15)'
+        }}
+        onBlur={e => { e.target.style.borderColor = 'var(--border-frost)'; e.target.style.boxShadow = 'none' }}
         style={{
           width: '100%', padding: '12px 16px', marginBottom: 10,
           fontFamily: 'var(--f-body)', fontSize: 15, fontWeight: 500,
@@ -74,11 +91,15 @@ export function DiagnosticSearch() {
           border: '1px solid var(--border-frost)', borderRadius: 'var(--r-card)', outline: 'none',
           transition: 'border-color 0.3s, box-shadow 0.3s',
         }}
-        onFocus={e => { e.target.style.borderColor = 'var(--c-amber)'; e.target.style.boxShadow = '0 0 0 3px rgba(255,159,28,0.15)' }}
-        onBlur={e => { e.target.style.borderColor = 'var(--border-frost)'; e.target.style.boxShadow = 'none' }}
       />
 
-      {results.length > 0 && (
+      {loading && query.length >= 2 && (
+        <div style={{ padding: 12, textAlign: 'center', fontFamily: 'var(--f-body)', fontSize: 11, color: theme.text.muted, letterSpacing: '0.12em', textTransform: 'uppercase' }}>
+          Загрузка базы…
+        </div>
+      )}
+
+      {!loading && results.length > 0 && (
         <div style={{ maxHeight: '40vh', overflowY: 'auto', display: 'flex', flexDirection: 'column', gap: 4 }}>
           <div style={{ fontSize: 10, color: theme.text.muted, fontFamily: 'var(--f-body)', marginBottom: 4 }}>
             {results.length} результатов
@@ -113,7 +134,7 @@ export function DiagnosticSearch() {
         </div>
       )}
 
-      {query.length >= 2 && results.length === 0 && (
+      {!loading && query.length >= 2 && results.length === 0 && (
         <div style={{ padding: 16, textAlign: 'center', fontFamily: 'var(--f-body)', fontSize: 13, color: theme.text.muted }}>
           Ничего не найдено по запросу "{query}"
         </div>

@@ -125,7 +125,7 @@ export function RulesList({ filterSystem }: { filterSystem?: string } = {}) {
   const [tiers, setTiers] = useState<Record<string, boolean>>({ T1: true, T2: true, T3: true })
 
   useEffect(() => {
-    cachedFetch(`${import.meta.env.BASE_URL}data/diagnostic-rules.json`)
+    cachedFetch<DiagData>(`${import.meta.env.BASE_URL}data/diagnostic-rules.json`)
       .then(d => setData(d))
       .catch(() => {})
   }, [])

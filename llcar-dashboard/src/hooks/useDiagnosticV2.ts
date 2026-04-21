@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback } from 'react'
+import { useState, useEffect, useCallback, useRef } from 'react'
 
 export interface DiagnosticReport {
   can_drive: 'safe' | 'caution' | 'stop'
@@ -93,59 +93,104 @@ export interface HistoryEntry {
   top_diagnostic_confidence: number
 }
 
+const LATEST_INTERVAL_MS = 30_000
+const HISTORY_INTERVAL_MS = 60_000
+
 export function useDiagnosticV2(clientHash: string, timeRange: number = 10080) {
   const [report, setReport] = useState<DiagnosticReport | null>(null)
   const [history, setHistory] = useState<HistoryEntry[]>([])
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
 
-  // Fetch latest diagnosis from server
+  const latestAbortRef = useRef<AbortController | null>(null)
+  const historyAbortRef = useRef<AbortController | null>(null)
+
   const fetchLatest = useCallback(async () => {
+    latestAbortRef.current?.abort()
+    const controller = new AbortController()
+    latestAbortRef.current = controller
     try {
       setLoading(true)
-      const res = await fetch(`/api/v2/diagnose-latest/?client_hash=${clientHash}&minutes=${timeRange}`)
-      if (res.ok) {
-        const data = await res.json()
-        if (!data.error) {
-          setReport(data as DiagnosticReport)
-          setError(null)
-        } else {
-          setError(data.message || 'No data')
-        }
+      const res = await fetch(
+        `/api/v2/diagnose-latest/?client_hash=${clientHash}&minutes=${timeRange}`,
+        { signal: controller.signal },
+      )
+      if (!res.ok) {
+        setError(`HTTP ${res.status}`)
+        return
       }
-    } catch (e: any) {
-      setError(e.message)
+      const data = await res.json()
+      if (data && !data.error) {
+        setReport(data as DiagnosticReport)
+        setError(null)
+      } else {
+        setError(data?.message || 'No data')
+      }
+    } catch (e: unknown) {
+      if ((e as { name?: string })?.name === 'AbortError') return
+      setError((e as Error)?.message ?? 'network error')
     } finally {
-      setLoading(false)
+      if (!controller.signal.aborted) setLoading(false)
     }
   }, [clientHash, timeRange])
 
-  // Fetch history
   const fetchHistory = useCallback(async (period = '7d') => {
+    historyAbortRef.current?.abort()
+    const controller = new AbortController()
+    historyAbortRef.current = controller
     try {
-      // Backend expects ?client_hash= (param name matters, days/minutes ignored — returns full 1000pt history)
       const days = period === '1h' || period === '24h' ? 1 : period === '30d' ? 30 : 7
-      const res = await fetch(`/api/v2/history/?client_hash=${clientHash}&days=${days}`)
-      if (res.ok) {
-        const data = await res.json()
-        setHistory(Array.isArray(data) ? data : [])
-      }
-    } catch {
-      // silent fail
+      const res = await fetch(
+        `/api/v2/history/?client_hash=${clientHash}&days=${days}`,
+        { signal: controller.signal },
+      )
+      if (!res.ok) return
+      const data = await res.json()
+      setHistory(Array.isArray(data) ? data : [])
+    } catch (e: unknown) {
+      if ((e as { name?: string })?.name === 'AbortError') return
+      // silent fail — history is secondary
     }
   }, [clientHash])
 
-  // Auto-fetch on mount + periodic refresh
+  // Auto-fetch on mount + periodic refresh. Paused when the document is hidden
+  // to avoid draining the battery and piling up requests on mobile background tabs.
   useEffect(() => {
     const period = timeRange <= 60 ? '1h' : timeRange <= 1440 ? '24h' : timeRange <= 10080 ? '7d' : '30d'
+    let latestTimer: ReturnType<typeof setInterval> | null = null
+    let historyTimer: ReturnType<typeof setInterval> | null = null
+
+    const start = () => {
+      if (latestTimer == null) latestTimer = setInterval(fetchLatest, LATEST_INTERVAL_MS)
+      if (historyTimer == null) historyTimer = setInterval(() => fetchHistory(period), HISTORY_INTERVAL_MS)
+    }
+    const stop = () => {
+      if (latestTimer != null) { clearInterval(latestTimer); latestTimer = null }
+      if (historyTimer != null) { clearInterval(historyTimer); historyTimer = null }
+    }
+    const onVisibility = () => {
+      if (document.visibilityState === 'hidden') {
+        stop()
+      } else {
+        fetchLatest()
+        fetchHistory(period)
+        start()
+      }
+    }
+
     fetchLatest()
     fetchHistory(period)
-    const timer1 = setInterval(fetchLatest, 30000)
-    const timer2 = setInterval(() => fetchHistory(period), 60000)
-    return () => { clearInterval(timer1); clearInterval(timer2) }
+    if (document.visibilityState !== 'hidden') start()
+    document.addEventListener('visibilitychange', onVisibility)
+
+    return () => {
+      stop()
+      document.removeEventListener('visibilitychange', onVisibility)
+      latestAbortRef.current?.abort()
+      historyAbortRef.current?.abort()
+    }
   }, [fetchLatest, fetchHistory, timeRange])
 
-  // Send feedback
   const sendFeedback = useCallback(async (ruleName: string, action: 'confirmed' | 'dismissed') => {
     try {
       await fetch('/api/v2/feedback/', {

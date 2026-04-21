@@ -94,10 +94,11 @@ export function KnowledgeBase() {
       setGenName(null)
       return
     }
-    fetch(`${import.meta.env.BASE_URL}data/brands/${vehicleProfile.brandId}.json`)
+    const controller = new AbortController()
+    fetch(`${import.meta.env.BASE_URL}data/brands/${vehicleProfile.brandId}.json`, { signal: controller.signal })
       .then(r => r.ok ? r.json() : null)
       .then(data => {
-        if (!data) return
+        if (controller.signal.aborted || !data) return
         const model = data.models?.find((m: any) =>
           m.name.toLowerCase() === vehicleProfile.model.toLowerCase()
         )
@@ -106,7 +107,11 @@ export function KnowledgeBase() {
         )
         setGenName(gen?.name || null)
       })
-      .catch(() => setGenName(null))
+      .catch((e) => {
+        if ((e as { name?: string })?.name === 'AbortError') return
+        setGenName(null)
+      })
+    return () => controller.abort()
   }, [vehicleProfile?.brandId, vehicleProfile?.generationId, vehicleProfile?.model])
 
   // Compute KB generation path
@@ -127,50 +132,76 @@ export function KnowledgeBase() {
   // Load videos.json for this generation
   useEffect(() => {
     if (!kbGenPath) { setVideos([]); return }
-    fetch(`${import.meta.env.BASE_URL}data/kb/${kbGenPath}/videos.json`)
+    const ctrl = new AbortController()
+    fetch(`${import.meta.env.BASE_URL}data/kb/${kbGenPath}/videos.json`, { signal: ctrl.signal })
       .then(r => r.ok ? r.json() : [])
       .then((data: KbVideo[]) => {
+        if (ctrl.signal.aborted) return
         if (!Array.isArray(data)) { setVideos([]); return }
-        // Deduplicate by URL and filter irrelevant videos
         const seen = new Set<string>()
         const filtered = data.filter(v => {
           if (!v.url || seen.has(v.url)) return false
           seen.add(v.url)
-          // Filter out obviously irrelevant videos (not about cars)
           const t = (v.title || '').toLowerCase()
           if (t.includes('ванн') || t.includes('кухн') || t.includes('деревн') || t.includes('ремонт квартир')) return false
           return true
         })
         setVideos(filtered)
       })
-      .catch(() => setVideos([]))
+      .catch((e) => {
+        if ((e as { name?: string })?.name === 'AbortError') return
+        setVideos([])
+      })
+    return () => ctrl.abort()
   }, [kbGenPath])
 
   // Load reviews.json at GEN-level (legacy) — new reviews.md at model-level not JSON
   useEffect(() => {
     if (!kbGenPath) { setReviews([]); return }
-    fetch(`${import.meta.env.BASE_URL}data/kb/${kbGenPath}/reviews.json`)
+    const ctrl = new AbortController()
+    fetch(`${import.meta.env.BASE_URL}data/kb/${kbGenPath}/reviews.json`, { signal: ctrl.signal })
       .then(r => r.ok ? r.json() : [])
-      .then((data: KbReview[]) => setReviews(Array.isArray(data) ? data : []))
-      .catch(() => setReviews([]))
+      .then((data: KbReview[]) => {
+        if (ctrl.signal.aborted) return
+        setReviews(Array.isArray(data) ? data : [])
+      })
+      .catch((e) => {
+        if ((e as { name?: string })?.name === 'AbortError') return
+        setReviews([])
+      })
+    return () => ctrl.abort()
   }, [kbGenPath])
 
   // Model-level: parts-catalog.json (one per model, not per gen)
   useEffect(() => {
     if (!kbModelPath) { setPartsCat(null); return }
-    fetch(`${import.meta.env.BASE_URL}data/kb/${kbModelPath}/parts-catalog.json`)
+    const ctrl = new AbortController()
+    fetch(`${import.meta.env.BASE_URL}data/kb/${kbModelPath}/parts-catalog.json`, { signal: ctrl.signal })
       .then(r => r.ok ? r.json() : null)
-      .then((data: KbPartsCatalog | null) => setPartsCat(data))
-      .catch(() => setPartsCat(null))
+      .then((data: KbPartsCatalog | null) => {
+        if (!ctrl.signal.aborted) setPartsCat(data)
+      })
+      .catch((e) => {
+        if ((e as { name?: string })?.name === 'AbortError') return
+        setPartsCat(null)
+      })
+    return () => ctrl.abort()
   }, [kbModelPath])
 
   // Model-level: manual_meta.json
   useEffect(() => {
     if (!kbModelPath) { setManualMeta(null); return }
-    fetch(`${import.meta.env.BASE_URL}data/kb/${kbModelPath}/manual_meta.json`)
+    const ctrl = new AbortController()
+    fetch(`${import.meta.env.BASE_URL}data/kb/${kbModelPath}/manual_meta.json`, { signal: ctrl.signal })
       .then(r => r.ok ? r.json() : null)
-      .then((data: KbManualMeta | null) => setManualMeta(data))
-      .catch(() => setManualMeta(null))
+      .then((data: KbManualMeta | null) => {
+        if (!ctrl.signal.aborted) setManualMeta(data)
+      })
+      .catch((e) => {
+        if ((e as { name?: string })?.name === 'AbortError') return
+        setManualMeta(null)
+      })
+    return () => ctrl.abort()
   }, [kbModelPath])
 
   async function handleDtcSelect(ref: DtcSituationRef) {

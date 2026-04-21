@@ -576,8 +576,9 @@ def diagnose_latest_view(request: Any) -> JsonResponse:
             return JsonResponse(report, status=200)
 
     except Exception as e:
-        logger.error("diagnose_latest failed: %s", str(e))
-        return JsonResponse({"error": str(e)}, status=500)
+        # Log full exception details server-side, but do NOT leak internals to the client.
+        logger.exception("diagnose_latest failed: %s", str(e))
+        return JsonResponse({"error": "internal server error"}, status=500)
 
 
 # ---------------------------------------------------------------------------
@@ -772,6 +773,12 @@ def shadow_metrics_view(request: Any) -> JsonResponse:
             window_days = int(request.GET.get("window_days") or 30)
         except (TypeError, ValueError):
             window_days = 30
+        # Clamp to sane bounds (1..3650) — also defence-in-depth alongside the
+        # parameterised SQL below, so a caller can't force a pathological interval.
+        if window_days < 1:
+            window_days = 1
+        elif window_days > 3650:
+            window_days = 3650
         try:
             min_we = float(request.GET.get("min_we") or 40.0)
         except (TypeError, ValueError):
@@ -842,15 +849,18 @@ def _compute_shadow_metrics(
     metrics: Dict[str, Any] = {}
 
     # [1] Триггер-статистика
+    # NOTE: window_days передаётся через параметр, а не через f-string,
+    # чтобы закрыть даже потенциальную SQL-инъекцию при рефакторинге
+    # (сейчас вызывающий код уже cast'ит в int + clamp'ит диапазон).
     if is_pg:
         cursor.execute(
             f"""
             SELECT COUNT(*), COUNT(DISTINCT client_hash), AVG(confidence)
             FROM shadow_rule_log
             WHERE rule_name = {ph}
-              AND time > NOW() - INTERVAL '{window_days} days'
+              AND time > NOW() - make_interval(days => {ph})
             """,
-            (rule_name,),
+            (rule_name, window_days),
         )
     else:
         cursor.execute(

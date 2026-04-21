@@ -1,4 +1,4 @@
-import { lazy, Suspense } from 'react'
+import { Suspense } from 'react'
 import { Routes, Route, Navigate, useLocation, useNavigate } from 'react-router-dom'
 import { MainLayout } from './layouts/MainLayout'
 import { ThemeProvider } from './components/shared/ThemeProvider'
@@ -6,18 +6,19 @@ import { useDashboardStore } from './stores/dashboardStore'
 import { VehicleSetup } from './components/onboarding/VehicleSetup'
 import { ConnectionWizard } from './components/onboarding/ConnectionWizard'
 import { GlassPanel } from './components/shared/GlassPanel'
+import { lazyWithRetry } from './utils/lazyWithRetry'
 
 // Lazy-loaded pages
-const Landing = lazy(() => import('./pages/Landing').then(m => ({ default: m.Landing })))
+const Landing = lazyWithRetry(() => import('./pages/Landing').then(m => ({ default: m.Landing })))
 // VehicleInfo removed — all info now in Diagnostics overview tab
-const KnowledgeBase = lazy(() => import('./pages/KnowledgeBase').then(m => ({ default: m.KnowledgeBase })))
-const ErrorCodes = lazy(() => import('./pages/ErrorCodes').then(m => ({ default: m.ErrorCodes })))
-const Diagnostics = lazy(() => import('./pages/Diagnostics').then(m => ({ default: m.Diagnostics })))
-const Resources = lazy(() => import('./pages/Resources').then(m => ({ default: m.Resources })))
-const Pricing = lazy(() => import('./pages/Pricing').then(m => ({ default: m.Pricing })))
-const NebulaDemo = lazy(() => import('./pages/NebulaDemo').then(m => ({ default: m.NebulaDemo })))
-const UnderwaterDemo = lazy(() => import('./pages/UnderwaterDemo').then(m => ({ default: m.UnderwaterDemo })))
-const DiagUnderwaterFullDemo = lazy(() => import('./pages/DiagUnderwaterFullDemo').then(m => ({ default: m.DiagUnderwaterFullDemo })))
+const KnowledgeBase = lazyWithRetry(() => import('./pages/KnowledgeBase').then(m => ({ default: m.KnowledgeBase })))
+const ErrorCodes = lazyWithRetry(() => import('./pages/ErrorCodes').then(m => ({ default: m.ErrorCodes })))
+const Diagnostics = lazyWithRetry(() => import('./pages/Diagnostics').then(m => ({ default: m.Diagnostics })))
+const Resources = lazyWithRetry(() => import('./pages/Resources').then(m => ({ default: m.Resources })))
+const Pricing = lazyWithRetry(() => import('./pages/Pricing').then(m => ({ default: m.Pricing })))
+const NebulaDemo = lazyWithRetry(() => import('./pages/NebulaDemo').then(m => ({ default: m.NebulaDemo })))
+const UnderwaterDemo = lazyWithRetry(() => import('./pages/UnderwaterDemo').then(m => ({ default: m.UnderwaterDemo })))
+const DiagUnderwaterFullDemo = lazyWithRetry(() => import('./pages/DiagUnderwaterFullDemo').then(m => ({ default: m.DiagUnderwaterFullDemo })))
 
 function PageLoader() {
   return (

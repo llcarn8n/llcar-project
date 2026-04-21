@@ -236,7 +236,9 @@ export function MainLayout({ children }: { children: ReactNode }) {
                   localStorage.removeItem('llcar-onboarding-v3-done')
                   toggleSidebar()
                   navigate('/diagnostics')
-                  setTimeout(() => { window.location.reload() }, 50)
+                  // Notify OnboardingTour to re-check state and show itself.
+                  // Avoids the previous race between navigate() and window.location.reload().
+                  window.dispatchEvent(new Event('llcar-restart-tour'))
                 }}
                 style={{
                   width: '100%',

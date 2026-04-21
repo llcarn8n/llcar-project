@@ -25,6 +25,7 @@ interface DebouncedState {
 export function useDebouncedDiagnoses(
   incoming: Diagnosis[] | undefined | null,
   ttlSnapshots = 3,
+  resetKey?: string,
 ): DebouncedState {
   const [state, setState] = useState<DebouncedState>({
     diagnoses: [],
@@ -32,6 +33,18 @@ export function useDebouncedDiagnoses(
     flickeringCount: 0,
   })
   const seenRef = useRef<Map<string, { diag: Diagnosis; missed: number }>>(new Map())
+  const lastResetKeyRef = useRef<string | undefined>(resetKey)
+
+  // When the caller switches to a different vehicle/client (resetKey change),
+  // drop the accumulated "seen" map so stale diagnoses from the previous vehicle
+  // don't linger as "flickering" for ttl snapshots.
+  useEffect(() => {
+    if (lastResetKeyRef.current !== resetKey) {
+      seenRef.current = new Map()
+      lastResetKeyRef.current = resetKey
+      setState({ diagnoses: [], activeCount: 0, flickeringCount: 0 })
+    }
+  }, [resetKey])
 
   useEffect(() => {
     if (!Array.isArray(incoming)) return
