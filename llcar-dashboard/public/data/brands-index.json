@@ -1,1 +1,415 @@
-[{"id":"lada","name":"Lada","name_ru":"Лада","country":"RU","models":7},{"id":"uaz","name":"UAZ","name_ru":"УАЗ","country":"RU","models":3},{"id":"baic","name":"BAIC","name_ru":"БАИК","country":"CN","models":5},{"id":"byd","name":"BYD","name_ru":"БИД","country":"CN","models":10},{"id":"bestune","name":"Bestune","name_ru":"Бестюн","country":"CN","models":2},{"id":"changan","name":"Changan","name_ru":"Чанган","country":"CN","models":9},{"id":"chery","name":"Chery","name_ru":"Чери","country":"CN","models":5},{"id":"exeed","name":"Exeed","name_ru":"Эксид","country":"CN","models":8},{"id":"forthing","name":"Forthing","name_ru":"Фортинг","country":"CN","models":7},{"id":"gac","name":"GAC","name_ru":"ГАК","country":"CN","models":7},{"id":"geely","name":"Geely","name_ru":"Джили","country":"CN","models":8},{"id":"haval","name":"Haval","name_ru":"Хавал","country":"CN","models":9},{"id":"hongqi","name":"Hongqi","name_ru":"Хунци","country":"CN","models":4},{"id":"jac","name":"JAC","name_ru":"Джак","country":"CN","models":4},{"id":"jaecoo","name":"Jaecoo","name_ru":"Джейку","country":"CN","models":4},{"id":"jetour","name":"Jetour","name_ru":"Джетур","country":"CN","models":8},{"id":"kaiyi","name":"Kaiyi","name_ru":"Кайи","country":"CN","models":6},{"id":"li","name":"Li Auto","name_ru":"Li Auto","country":"CN","models":8},{"id":"livan","name":"Livan","name_ru":"Ливан","country":"CN","models":5},{"id":"omoda","name":"Omoda","name_ru":"Омода","country":"CN","models":6},{"id":"tank","name":"Tank","name_ru":"Танк","country":"CN","models":4},{"id":"voyah","name":"Voyah","name_ru":"Воях","country":"CN","models":6},{"id":"zeekr","name":"Zeekr","name_ru":"Зикр","country":"CN","models":8},{"id":"daewoo","name":"Daewoo","name_ru":"Дэу","country":"KR","models":4},{"id":"genesis","name":"Genesis","name_ru":"Генезис","country":"KR","models":5},{"id":"hyundai","name":"Hyundai","name_ru":"Хёндэ","country":"KR","models":9},{"id":"kia","name":"Kia","name_ru":"Киа","country":"KR","models":13},{"id":"ssangyong","name":"SsangYong","name_ru":"СанЙонг","country":"KR","models":6},{"id":"datsun","name":"Datsun","name_ru":"Датсун","country":"JP","models":2},{"id":"honda","name":"Honda","name_ru":"Хонда","country":"JP","models":10},{"id":"infiniti","name":"Infiniti","name_ru":"Инфинити","country":"JP","models":7},{"id":"lexus","name":"Lexus","name_ru":"Лексус","country":"JP","models":9},{"id":"mazda","name":"Mazda","name_ru":"Мазда","country":"JP","models":9},{"id":"mitsubishi","name":"Mitsubishi","name_ru":"Мицубиси","country":"JP","models":6},{"id":"nissan","name":"Nissan","name_ru":"Ниссан","country":"JP","models":13},{"id":"subaru","name":"Subaru","name_ru":"Субару","country":"JP","models":5},{"id":"suzuki","name":"Suzuki","name_ru":"Сузуки","country":"JP","models":5},{"id":"toyota","name":"Toyota","name_ru":"Тойота","country":"JP","models":28},{"id":"audi","name":"Audi","name_ru":"Ауди","country":"DE","models":14},{"id":"bmw","name":"BMW","name_ru":"БМВ","country":"DE","models":18},{"id":"mercedes_benz","name":"Mercedes-Benz","name_ru":"Мерседес-Бенц","country":"DE","models":20},{"id":"opel","name":"Opel","name_ru":"Опель","country":"DE","models":10},{"id":"porsche","name":"Porsche","name_ru":"Порше","country":"DE","models":7},{"id":"volkswagen","name":"Volkswagen","name_ru":"Фольксваген","country":"DE","models":21},{"id":"citroen","name":"Citroen","name_ru":"Ситроен","country":"FR","models":5},{"id":"peugeot","name":"Peugeot","name_ru":"Пежо","country":"FR","models":7},{"id":"renault","name":"Renault","name_ru":"Рено","country":"FR","models":10},{"id":"cadillac","name":"Cadillac","name_ru":"Кадиллак","country":"US","models":5},{"id":"chevrolet","name":"Chevrolet","name_ru":"Шевроле","country":"US","models":12},{"id":"ford","name":"Ford","name_ru":"Форд","country":"US","models":12},{"id":"jeep","name":"Jeep","name_ru":"Джип","country":"US","models":4},{"id":"jaguar","name":"Jaguar","name_ru":"Ягуар","country":"GB","models":5},{"id":"land_rover","name":"Land Rover","name_ru":"Лэнд Ровер","country":"GB","models":6},{"id":"mini","name":"Mini","name_ru":"Мини","country":"GB","models":4},{"id":"belgee","name":"BelGee","name_ru":"БелДжи","country":"BY","models":4},{"id":"fiat","name":"Fiat","name_ru":"Фиат","country":"IT","models":4},{"id":"skoda","name":"Skoda","name_ru":"Шкода","country":"CZ","models":11},{"id":"volvo","name":"Volvo","name_ru":"Вольво","country":"SE","models":8}]
+[
+  {
+    "id": "lada",
+    "name": "Lada",
+    "name_ru": "Лада",
+    "country": "RU",
+    "models": 10
+  },
+  {
+    "id": "uaz",
+    "name": "UAZ",
+    "name_ru": "УАЗ",
+    "country": "RU",
+    "models": 4
+  },
+  {
+    "id": "baic",
+    "name": "BAIC",
+    "name_ru": "БАИК",
+    "country": "CN",
+    "models": 6
+  },
+  {
+    "id": "byd",
+    "name": "BYD",
+    "name_ru": "БИД",
+    "country": "CN",
+    "models": 13
+  },
+  {
+    "id": "bestune",
+    "name": "Bestune",
+    "name_ru": "Бестюн",
+    "country": "CN",
+    "models": 4
+  },
+  {
+    "id": "changan",
+    "name": "Changan",
+    "name_ru": "Чанган",
+    "country": "CN",
+    "models": 13
+  },
+  {
+    "id": "chery",
+    "name": "Chery",
+    "name_ru": "Чери",
+    "country": "CN",
+    "models": 13
+  },
+  {
+    "id": "exeed",
+    "name": "Exeed",
+    "name_ru": "Эксид",
+    "country": "CN",
+    "models": 11
+  },
+  {
+    "id": "forthing",
+    "name": "Forthing",
+    "name_ru": "Фортинг",
+    "country": "CN",
+    "models": 8
+  },
+  {
+    "id": "gac",
+    "name": "GAC",
+    "name_ru": "ГАК",
+    "country": "CN",
+    "models": 8
+  },
+  {
+    "id": "geely",
+    "name": "Geely",
+    "name_ru": "Джили",
+    "country": "CN",
+    "models": 9
+  },
+  {
+    "id": "haval",
+    "name": "Haval",
+    "name_ru": "Хавал",
+    "country": "CN",
+    "models": 10
+  },
+  {
+    "id": "hongqi",
+    "name": "Hongqi",
+    "name_ru": "Хунци",
+    "country": "CN",
+    "models": 5
+  },
+  {
+    "id": "jac",
+    "name": "JAC",
+    "name_ru": "Джак",
+    "country": "CN",
+    "models": 4
+  },
+  {
+    "id": "jaecoo",
+    "name": "Jaecoo",
+    "name_ru": "Джейку",
+    "country": "CN",
+    "models": 4
+  },
+  {
+    "id": "jetour",
+    "name": "Jetour",
+    "name_ru": "Джетур",
+    "country": "CN",
+    "models": 8
+  },
+  {
+    "id": "kaiyi",
+    "name": "Kaiyi",
+    "name_ru": "Кайи",
+    "country": "CN",
+    "models": 6
+  },
+  {
+    "id": "li",
+    "name": "Li Auto",
+    "name_ru": "Li Auto",
+    "country": "CN",
+    "models": 8
+  },
+  {
+    "id": "livan",
+    "name": "Livan",
+    "name_ru": "Ливан",
+    "country": "CN",
+    "models": 6
+  },
+  {
+    "id": "omoda",
+    "name": "Omoda",
+    "name_ru": "Омода",
+    "country": "CN",
+    "models": 6
+  },
+  {
+    "id": "tank",
+    "name": "Tank",
+    "name_ru": "Танк",
+    "country": "CN",
+    "models": 4
+  },
+  {
+    "id": "voyah",
+    "name": "Voyah",
+    "name_ru": "Воях",
+    "country": "CN",
+    "models": 7
+  },
+  {
+    "id": "zeekr",
+    "name": "Zeekr",
+    "name_ru": "Зикр",
+    "country": "CN",
+    "models": 8
+  },
+  {
+    "id": "daewoo",
+    "name": "Daewoo",
+    "name_ru": "Дэу",
+    "country": "KR",
+    "models": 4
+  },
+  {
+    "id": "genesis",
+    "name": "Genesis",
+    "name_ru": "Генезис",
+    "country": "KR",
+    "models": 6
+  },
+  {
+    "id": "hyundai",
+    "name": "Hyundai",
+    "name_ru": "Хёндэ",
+    "country": "KR",
+    "models": 17
+  },
+  {
+    "id": "kia",
+    "name": "Kia",
+    "name_ru": "Киа",
+    "country": "KR",
+    "models": 19
+  },
+  {
+    "id": "ssangyong",
+    "name": "SsangYong",
+    "name_ru": "СанЙонг",
+    "country": "KR",
+    "models": 6
+  },
+  {
+    "id": "datsun",
+    "name": "Datsun",
+    "name_ru": "Датсун",
+    "country": "JP",
+    "models": 2
+  },
+  {
+    "id": "honda",
+    "name": "Honda",
+    "name_ru": "Хонда",
+    "country": "JP",
+    "models": 12
+  },
+  {
+    "id": "infiniti",
+    "name": "Infiniti",
+    "name_ru": "Инфинити",
+    "country": "JP",
+    "models": 7
+  },
+  {
+    "id": "lexus",
+    "name": "Lexus",
+    "name_ru": "Лексус",
+    "country": "JP",
+    "models": 11
+  },
+  {
+    "id": "mazda",
+    "name": "Mazda",
+    "name_ru": "Мазда",
+    "country": "JP",
+    "models": 15
+  },
+  {
+    "id": "mitsubishi",
+    "name": "Mitsubishi",
+    "name_ru": "Мицубиси",
+    "country": "JP",
+    "models": 10
+  },
+  {
+    "id": "nissan",
+    "name": "Nissan",
+    "name_ru": "Ниссан",
+    "country": "JP",
+    "models": 18
+  },
+  {
+    "id": "subaru",
+    "name": "Subaru",
+    "name_ru": "Субару",
+    "country": "JP",
+    "models": 5
+  },
+  {
+    "id": "suzuki",
+    "name": "Suzuki",
+    "name_ru": "Сузуки",
+    "country": "JP",
+    "models": 6
+  },
+  {
+    "id": "toyota",
+    "name": "Toyota",
+    "name_ru": "Тойота",
+    "country": "JP",
+    "models": 31
+  },
+  {
+    "id": "audi",
+    "name": "Audi",
+    "name_ru": "Ауди",
+    "country": "DE",
+    "models": 14
+  },
+  {
+    "id": "bmw",
+    "name": "BMW",
+    "name_ru": "БМВ",
+    "country": "DE",
+    "models": 19
+  },
+  {
+    "id": "mercedes_benz",
+    "name": "Mercedes-Benz",
+    "name_ru": "Мерседес-Бенц",
+    "country": "DE",
+    "models": 22
+  },
+  {
+    "id": "opel",
+    "name": "Opel",
+    "name_ru": "Опель",
+    "country": "DE",
+    "models": 17
+  },
+  {
+    "id": "porsche",
+    "name": "Porsche",
+    "name_ru": "Порше",
+    "country": "DE",
+    "models": 8
+  },
+  {
+    "id": "volkswagen",
+    "name": "Volkswagen",
+    "name_ru": "Фольксваген",
+    "country": "DE",
+    "models": 22
+  },
+  {
+    "id": "citroen",
+    "name": "Citroen",
+    "name_ru": "Ситроен",
+    "country": "FR",
+    "models": 9
+  },
+  {
+    "id": "peugeot",
+    "name": "Peugeot",
+    "name_ru": "Пежо",
+    "country": "FR",
+    "models": 12
+  },
+  {
+    "id": "renault",
+    "name": "Renault",
+    "name_ru": "Рено",
+    "country": "FR",
+    "models": 14
+  },
+  {
+    "id": "cadillac",
+    "name": "Cadillac",
+    "name_ru": "Кадиллак",
+    "country": "US",
+    "models": 5
+  },
+  {
+    "id": "chevrolet",
+    "name": "Chevrolet",
+    "name_ru": "Шевроле",
+    "country": "US",
+    "models": 14
+  },
+  {
+    "id": "ford",
+    "name": "Ford",
+    "name_ru": "Форд",
+    "country": "US",
+    "models": 15
+  },
+  {
+    "id": "jeep",
+    "name": "Jeep",
+    "name_ru": "Джип",
+    "country": "US",
+    "models": 4
+  },
+  {
+    "id": "jaguar",
+    "name": "Jaguar",
+    "name_ru": "Ягуар",
+    "country": "GB",
+    "models": 5
+  },
+  {
+    "id": "land_rover",
+    "name": "Land Rover",
+    "name_ru": "Лэнд Ровер",
+    "country": "GB",
+    "models": 6
+  },
+  {
+    "id": "mini",
+    "name": "Mini",
+    "name_ru": "Мини",
+    "country": "GB",
+    "models": 4
+  },
+  {
+    "id": "belgee",
+    "name": "BelGee",
+    "name_ru": "БелДжи",
+    "country": "BY",
+    "models": 5
+  },
+  {
+    "id": "fiat",
+    "name": "Fiat",
+    "name_ru": "Фиат",
+    "country": "IT",
+    "models": 8
+  },
+  {
+    "id": "skoda",
+    "name": "Skoda",
+    "name_ru": "Шкода",
+    "country": "CZ",
+    "models": 11
+  },
+  {
+    "id": "volvo",
+    "name": "Volvo",
+    "name_ru": "Вольво",
+    "country": "SE",
+    "models": 9
+  },
+  {
+    "id": "lifan",
+    "name": "Lifan",
+    "name_ru": "Лифан",
+    "country": "CN",
+    "models": 2
+  }
+]

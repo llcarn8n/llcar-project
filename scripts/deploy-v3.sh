@@ -159,12 +159,12 @@ if [[ "$BACKEND_ONLY" == false ]]; then
                 || warn "  KB data rsync had errors (non-fatal)"
         else
             log "  rsync not found, using tar-over-ssh fallback"
-            # one SSH session: tar cz locally, pipe to remote tar xz
+            # one SSH session: tar cz locally (all of data/: kb, brands, etc)
             (cd "$KB_SRC" && tar czf - \
                 --exclude='_images' --exclude='_images_*' --exclude='*.webp' \
-                kb) \
+                .) \
                 | $SSH "cd $REMOTE_SPA/data && tar xzf -" \
-                && log "  KB data synced (tar-over-ssh)" \
+                && log "  KB data synced (tar-over-ssh, full data/)" \
                 || warn "  KB data tar-over-ssh had errors (non-fatal)"
         fi
     else

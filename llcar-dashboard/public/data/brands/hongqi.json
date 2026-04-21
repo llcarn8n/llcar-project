@@ -1,1 +1,646 @@
-{"id":"hongqi","name":"Hongqi","name_ru":"Хунци","country":"CN","models":[{"id":"hongqi_e_hs9","name":"E-HS9","body_type":"suv","powertrain":"ice","generations":[{"id":"hongqi_e_hs9__e_hs9_suv_2020_2020","name":"E-HS9 I 2020-н.в.","ys":2020,"ye":null,"body_type":"suv","dimensions":{"length_mm":5209,"width_mm":2010,"height_mm":1731,"wheelbase_mm":3110,"ground_clearance_mm":175,"trunk_volume_l":438,"curb_weight_kg":2660,"gross_weight_kg":3205,"doors":5,"seats":7},"trims":[{"name":"EV 320 kW AWD","engine":{"type":"electric","power_hp":430,"power_kw":320,"torque_nm":660,"fuel_type":"electric"},"transmission":{"type":"automatic","gears":1},"drivetrain":"awd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":5.5}},{"name":"EV 405 kW AWD","engine":{"type":"electric","power_hp":551,"power_kw":405,"torque_nm":750,"fuel_type":"electric"},"transmission":{"type":"automatic","gears":1},"drivetrain":"awd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":4.9}}]},{"id":"faw_hongqi_e_hs9__hongqi_e_hs9_2023_2023","name":"E-HS9 II 2023-2023","ys":2023,"ye":2023,"body_type":"suv","dimensions":{"length_mm":5209,"width_mm":2010,"height_mm":1731,"wheelbase_mm":3110,"ground_clearance_mm":175,"trunk_volume_l":438,"curb_weight_kg":2632,"doors":5,"seats":7},"trims":[{"name":"EV 368 kW","engine":{"type":"electric","power_hp":500,"power_kw":368,"fuel_type":"electric"},"performance":{"fuel_consumption_standard":"WLTP"}}]}]},{"id":"hongqi_h5","name":"H5","body_type":"sedan","powertrain":"ice","generations":[{"id":"hongqi__h5__h5_ii_2022_2022","name":"H5 I 2020-2022","ys":2020,"ye":2022,"body_type":"sedan","dimensions":{"length_mm":4945,"width_mm":1845,"height_mm":1470,"ground_clearance_mm":140,"curb_weight_kg":1615,"gross_weight_kg":2065,"doors":4,"seats":5,"wheelbase_mm":2920,"trunk_volume_l":410,"fuel_tank_l":58},"trims":[{"name":"1.5L 7DCT (169 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1498,"cylinders":4,"power_hp":169,"power_kw":124,"torque_nm":258,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"fwd","performance":{"top_speed_kmh":215,"acceleration_0_100_s":9.5,"fuel_consumption_combined_l100km":6.2}},{"name":"2.0L 8AT (224 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1989,"cylinders":4,"power_hp":224,"power_kw":165,"torque_nm":340,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"top_speed_kmh":230,"acceleration_0_100_s":7.8,"fuel_consumption_combined_l100km":7.5}}]},{"id":"hongqi__h5__0","name":"H5 II","ys":null,"ye":null,"body_type":"sedan","dimensions":{"length_mm":4988,"width_mm":1875,"height_mm":1470,"wheelbase_mm":2920},"trims":[{"name":"1.5L 7DCT (169 HP)","engine":{"type":"petrol","displacement_cc":1498,"power_hp":169,"torque_nm":258,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"fwd","performance":{"power_hp":169}},{"name":"2.0L 8AT (224 HP)","engine":{"type":"petrol","displacement_cc":1989,"power_hp":224,"torque_nm":340,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"power_hp":224}},{"name":"1.5L CVT (169 HP) Hybrid","engine":{"type":"hybrid_petrol","displacement_cc":1498,"power_hp":169,"torque_nm":258,"fuel_type":"hybrid_petrol"},"transmission":{"type":"cvt","gears":1},"drivetrain":"fwd","performance":{"power_hp":169}}]}]},{"id":"hongqi_h9","name":"H9","body_type":"sedan","powertrain":"ice","generations":[{"id":"hongqi_h9__h9_sedan_2020_2020","name":"H9 I 2020-2024","ys":2020,"ye":2024,"body_type":"sedan","dimensions":{"length_mm":5137,"width_mm":1904,"height_mm":1493,"wheelbase_mm":3060,"ground_clearance_mm":130,"trunk_volume_l":370,"trunk_volume_max_l":370,"fuel_tank_l":62,"curb_weight_kg":1875,"gross_weight_kg":2325,"doors":4,"seats":5},"trims":[{"name":"2.0L 7DCT (252 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1989,"cylinders":4,"power_hp":252,"power_kw":185,"torque_nm":380,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"rwd","performance":{"top_speed_kmh":230,"acceleration_0_100_s":7.8,"fuel_consumption_combined_l100km":7.1}},{"name":"3.0L 7DCT (272 HP)","engine":{"type":"petrol","aspiration":"supercharged","displacement_cc":2951,"cylinders":6,"power_hp":272,"power_kw":200,"torque_nm":400,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"rwd","performance":{"top_speed_kmh":210,"acceleration_0_100_s":8.5,"fuel_consumption_combined_l100km":9}},{"name":"3.0L 8AT (337 HP) AWD","engine":{"type":"petrol","aspiration":"supercharged","displacement_cc":2999,"cylinders":6,"power_hp":337,"torque_nm":445,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"power_hp":337}},{"name":"2.0L 8AT (252 HP) MHEV","engine":{"type":"mild_hybrid_petrol","aspiration":"turbocharged","displacement_cc":1989,"cylinders":4,"power_hp":252,"torque_nm":380,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"rwd","performance":{"power_hp":252}}]},{"id":"hongqi_h9__h9_2024_2024","name":"H9 II 2023-2024","ys":2023,"ye":2024,"body_type":"sedan","dimensions":{"length_mm":5137,"width_mm":1904,"height_mm":1493,"wheelbase_mm":3060,"ground_clearance_mm":130,"trunk_volume_l":370,"fuel_tank_l":62,"curb_weight_kg":1995,"doors":4,"seats":5,"gross_weight_kg":2505},"trims":[{"name":"3.0L (91 HP)","engine":{"type":"petrol","displacement_cc":2951,"cylinders":6,"power_hp":91,"power_kw":67,"fuel_type":"petrol"},"performance":{"fuel_consumption_standard":"WLTP"}},{"name":"2.0L (252 HP)","engine":{"type":"petrol","displacement_cc":1989,"cylinders":4,"power_hp":252,"power_kw":185,"fuel_type":"petrol"},"drivetrain":"rwd","performance":{"fuel_consumption_standard":"WLTP"}},{"name":"2.0L 7DCT (252 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1989,"cylinders":4,"power_hp":252,"power_kw":185,"torque_nm":380,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"rwd","performance":{"top_speed_kmh":230,"acceleration_0_100_s":7.8,"fuel_consumption_combined_l100km":7.1}},{"name":"3.0L 8AT (337 HP)","engine":{"type":"petrol","aspiration":"supercharged","displacement_cc":2951,"cylinders":6,"power_hp":337,"power_kw":248,"torque_nm":445,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"rwd","performance":{"top_speed_kmh":250,"acceleration_0_100_s":7.1,"fuel_consumption_combined_l100km":7.9}}]},{"id":"hongqi__h9__0","name":"H9 III","ys":null,"ye":null,"body_type":"sedan","dimensions":{"length_mm":5137,"width_mm":1904,"height_mm":1493,"wheelbase_mm":3060},"trims":[{"name":"2.0L 7DCT (252 HP)","engine":{"type":"petrol","displacement_cc":1989,"power_hp":252,"torque_nm":380,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"rwd","performance":{"power_hp":252}},{"name":"3.0L 8AT (337 HP)","engine":{"type":"petrol","displacement_cc":2951,"power_hp":337,"torque_nm":445,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"rwd","performance":{"power_hp":337}}]}]},{"id":"hongqi_hs5","name":"HS5","body_type":"suv","powertrain":"ice","generations":[{"id":"hongqi_hs5__hs5_suv_2019_2019","name":"HS5 I 2019-2023","ys":2019,"ye":2023,"body_type":"suv","dimensions":{"length_mm":4760,"width_mm":1907,"height_mm":1700,"wheelbase_mm":2870,"ground_clearance_mm":200,"trunk_volume_l":485,"fuel_tank_l":64,"curb_weight_kg":1795,"gross_weight_kg":2255,"doors":5,"seats":5},"trims":[{"name":"2.0L 7DCT (224 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1989,"cylinders":4,"power_hp":224,"power_kw":165,"torque_nm":340,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"fwd","performance":{"top_speed_kmh":204,"acceleration_0_100_s":8.7,"fuel_consumption_combined_l100km":8.4}}]},{"id":"hongqi_hs5__hs5_facelift_2023_suv_2023","name":"HS5 II 2023-2024","ys":2023,"ye":2024,"body_type":"suv","dimensions":{"length_mm":4785,"width_mm":1905,"height_mm":1700,"wheelbase_mm":2823,"ground_clearance_mm":200,"trunk_volume_l":485,"fuel_tank_l":64,"curb_weight_kg":1820,"gross_weight_kg":2270,"doors":5,"seats":5,"wheelbase_estimated":true,"wheelbase_mm_original_error":5080},"trims":[{"name":"2.0L 8AT (252 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1989,"cylinders":4,"power_hp":252,"power_kw":185,"torque_nm":380,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"top_speed_kmh":215,"acceleration_0_100_s":7.6,"fuel_consumption_combined_l100km":7.3}},{"name":"2.0L (218 HP)","engine":{"type":"petrol","displacement_cc":1989,"cylinders":4,"power_hp":218,"power_kw":160,"fuel_type":"petrol"},"performance":{"co2_emissions_gkm":240,"fuel_consumption_standard":"WLTP"}}]}]}]}
+{
+  "id": "hongqi",
+  "name": "Hongqi",
+  "name_ru": "Хунци",
+  "country": "CN",
+  "models": [
+    {
+      "id": "hongqi_e_hs9",
+      "name": "E-HS9",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "hongqi_e_hs9__e_hs9_suv_2020_2020",
+          "name": "E-HS9 I 2020-н.в.",
+          "ys": 2020,
+          "ye": null,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 5209,
+            "width_mm": 2010,
+            "height_mm": 1731,
+            "wheelbase_mm": 3110,
+            "ground_clearance_mm": 175,
+            "trunk_volume_l": 438,
+            "curb_weight_kg": 2660,
+            "gross_weight_kg": 3205,
+            "doors": 5,
+            "seats": 7
+          },
+          "trims": [
+            {
+              "name": "EV 320 kW AWD",
+              "engine": {
+                "type": "electric",
+                "power_hp": 430,
+                "power_kw": 320,
+                "torque_nm": 660,
+                "fuel_type": "electric"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 1
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 5.5
+              }
+            },
+            {
+              "name": "EV 405 kW AWD",
+              "engine": {
+                "type": "electric",
+                "power_hp": 551,
+                "power_kw": 405,
+                "torque_nm": 750,
+                "fuel_type": "electric"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 1
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 4.9
+              }
+            }
+          ]
+        },
+        {
+          "id": "faw_hongqi_e_hs9__hongqi_e_hs9_2023_2023",
+          "name": "E-HS9 II 2023-2023",
+          "ys": 2023,
+          "ye": 2023,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 5209,
+            "width_mm": 2010,
+            "height_mm": 1731,
+            "wheelbase_mm": 3110,
+            "ground_clearance_mm": 175,
+            "trunk_volume_l": 438,
+            "curb_weight_kg": 2632,
+            "doors": 5,
+            "seats": 7
+          },
+          "trims": [
+            {
+              "name": "EV 368 kW",
+              "engine": {
+                "type": "electric",
+                "power_hp": 500,
+                "power_kw": 368,
+                "fuel_type": "electric"
+              },
+              "performance": {
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hongqi_h5",
+      "name": "H5",
+      "body_type": "sedan",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "hongqi__h5__h5_ii_2022_2022",
+          "name": "H5 I 2020-2022",
+          "ys": 2020,
+          "ye": 2022,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 4945,
+            "width_mm": 1845,
+            "height_mm": 1470,
+            "ground_clearance_mm": 140,
+            "curb_weight_kg": 1615,
+            "gross_weight_kg": 2065,
+            "doors": 4,
+            "seats": 5,
+            "wheelbase_mm": 2920,
+            "trunk_volume_l": 410,
+            "fuel_tank_l": 58
+          },
+          "trims": [
+            {
+              "name": "1.5L 7DCT (169 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1498,
+                "cylinders": 4,
+                "power_hp": 169,
+                "power_kw": 124,
+                "torque_nm": 258,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 215,
+                "acceleration_0_100_s": 9.5,
+                "fuel_consumption_combined_l100km": 6.2
+              }
+            },
+            {
+              "name": "2.0L 8AT (224 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1989,
+                "cylinders": 4,
+                "power_hp": 224,
+                "power_kw": 165,
+                "torque_nm": 340,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 230,
+                "acceleration_0_100_s": 7.8,
+                "fuel_consumption_combined_l100km": 7.5
+              }
+            }
+          ]
+        },
+        {
+          "id": "hongqi__h5__0",
+          "name": "H5 II",
+          "ys": null,
+          "ye": null,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 4988,
+            "width_mm": 1875,
+            "height_mm": 1470,
+            "wheelbase_mm": 2920
+          },
+          "trims": [
+            {
+              "name": "1.5L 7DCT (169 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1498,
+                "power_hp": 169,
+                "torque_nm": 258,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 169
+              }
+            },
+            {
+              "name": "2.0L 8AT (224 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1989,
+                "power_hp": 224,
+                "torque_nm": 340,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 224
+              }
+            },
+            {
+              "name": "1.5L CVT (169 HP) Hybrid",
+              "engine": {
+                "type": "hybrid_petrol",
+                "displacement_cc": 1498,
+                "power_hp": 169,
+                "torque_nm": 258,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "cvt",
+                "gears": 1
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 169
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hongqi_h9",
+      "name": "H9",
+      "body_type": "sedan",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "hongqi_h9__h9_sedan_2020_2020",
+          "name": "H9 I 2020-2024",
+          "ys": 2020,
+          "ye": 2024,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 5137,
+            "width_mm": 1904,
+            "height_mm": 1493,
+            "wheelbase_mm": 3060,
+            "ground_clearance_mm": 130,
+            "trunk_volume_l": 370,
+            "trunk_volume_max_l": 370,
+            "fuel_tank_l": 62,
+            "curb_weight_kg": 1875,
+            "gross_weight_kg": 2325,
+            "doors": 4,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "2.0L 7DCT (252 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1989,
+                "cylinders": 4,
+                "power_hp": 252,
+                "power_kw": 185,
+                "torque_nm": 380,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "top_speed_kmh": 230,
+                "acceleration_0_100_s": 7.8,
+                "fuel_consumption_combined_l100km": 7.1
+              }
+            },
+            {
+              "name": "3.0L 7DCT (272 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "supercharged",
+                "displacement_cc": 2951,
+                "cylinders": 6,
+                "power_hp": 272,
+                "power_kw": 200,
+                "torque_nm": 400,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "top_speed_kmh": 210,
+                "acceleration_0_100_s": 8.5,
+                "fuel_consumption_combined_l100km": 9
+              }
+            },
+            {
+              "name": "3.0L 8AT (337 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "supercharged",
+                "displacement_cc": 2999,
+                "cylinders": 6,
+                "power_hp": 337,
+                "torque_nm": 445,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 337
+              }
+            },
+            {
+              "name": "2.0L 8AT (252 HP) MHEV",
+              "engine": {
+                "type": "mild_hybrid_petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1989,
+                "cylinders": 4,
+                "power_hp": 252,
+                "torque_nm": 380,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "power_hp": 252
+              }
+            }
+          ]
+        },
+        {
+          "id": "hongqi_h9__h9_2024_2024",
+          "name": "H9 II 2023-2024",
+          "ys": 2023,
+          "ye": 2024,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 5137,
+            "width_mm": 1904,
+            "height_mm": 1493,
+            "wheelbase_mm": 3060,
+            "ground_clearance_mm": 130,
+            "trunk_volume_l": 370,
+            "fuel_tank_l": 62,
+            "curb_weight_kg": 1995,
+            "doors": 4,
+            "seats": 5,
+            "gross_weight_kg": 2505
+          },
+          "trims": [
+            {
+              "name": "3.0L (91 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 2951,
+                "cylinders": 6,
+                "power_hp": 91,
+                "power_kw": 67,
+                "fuel_type": "petrol"
+              },
+              "performance": {
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "2.0L (252 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1989,
+                "cylinders": 4,
+                "power_hp": 252,
+                "power_kw": 185,
+                "fuel_type": "petrol"
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "2.0L 7DCT (252 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1989,
+                "cylinders": 4,
+                "power_hp": 252,
+                "power_kw": 185,
+                "torque_nm": 380,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "top_speed_kmh": 230,
+                "acceleration_0_100_s": 7.8,
+                "fuel_consumption_combined_l100km": 7.1
+              }
+            },
+            {
+              "name": "3.0L 8AT (337 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "supercharged",
+                "displacement_cc": 2951,
+                "cylinders": 6,
+                "power_hp": 337,
+                "power_kw": 248,
+                "torque_nm": 445,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "top_speed_kmh": 250,
+                "acceleration_0_100_s": 7.1,
+                "fuel_consumption_combined_l100km": 7.9
+              }
+            }
+          ]
+        },
+        {
+          "id": "hongqi__h9__0",
+          "name": "H9 III",
+          "ys": null,
+          "ye": null,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 5137,
+            "width_mm": 1904,
+            "height_mm": 1493,
+            "wheelbase_mm": 3060
+          },
+          "trims": [
+            {
+              "name": "2.0L 7DCT (252 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1989,
+                "power_hp": 252,
+                "torque_nm": 380,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "power_hp": 252
+              }
+            },
+            {
+              "name": "3.0L 8AT (337 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 2951,
+                "power_hp": 337,
+                "torque_nm": 445,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "power_hp": 337
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hongqi_hs5",
+      "name": "HS5",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "hongqi_hs5__hs5_suv_2019_2019",
+          "name": "HS5 I 2019-2023",
+          "ys": 2019,
+          "ye": 2023,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4760,
+            "width_mm": 1907,
+            "height_mm": 1700,
+            "wheelbase_mm": 2870,
+            "ground_clearance_mm": 200,
+            "trunk_volume_l": 485,
+            "fuel_tank_l": 64,
+            "curb_weight_kg": 1795,
+            "gross_weight_kg": 2255,
+            "doors": 5,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "2.0L 7DCT (224 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1989,
+                "cylinders": 4,
+                "power_hp": 224,
+                "power_kw": 165,
+                "torque_nm": 340,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 204,
+                "acceleration_0_100_s": 8.7,
+                "fuel_consumption_combined_l100km": 8.4
+              }
+            }
+          ]
+        },
+        {
+          "id": "hongqi_hs5__hs5_facelift_2023_suv_2023",
+          "name": "HS5 II 2023-2024",
+          "ys": 2023,
+          "ye": 2024,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4785,
+            "width_mm": 1905,
+            "height_mm": 1700,
+            "wheelbase_mm": 2823,
+            "ground_clearance_mm": 200,
+            "trunk_volume_l": 485,
+            "fuel_tank_l": 64,
+            "curb_weight_kg": 1820,
+            "gross_weight_kg": 2270,
+            "doors": 5,
+            "seats": 5,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 5080
+          },
+          "trims": [
+            {
+              "name": "2.0L 8AT (252 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1989,
+                "cylinders": 4,
+                "power_hp": 252,
+                "power_kw": 185,
+                "torque_nm": 380,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 215,
+                "acceleration_0_100_s": 7.6,
+                "fuel_consumption_combined_l100km": 7.3
+              }
+            },
+            {
+              "name": "2.0L (218 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1989,
+                "cylinders": 4,
+                "power_hp": 218,
+                "power_kw": 160,
+                "fuel_type": "petrol"
+              },
+              "performance": {
+                "co2_emissions_gkm": 240,
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hongqi_hq9",
+      "name": "HQ9",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "hongqi_hq9_2022",
+          "name": "HQ9 2022-н.в.",
+          "ys": 2022,
+          "ye": 2026
+        }
+      ]
+    }
+  ]
+}

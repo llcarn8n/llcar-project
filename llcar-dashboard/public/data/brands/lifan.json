@@ -1,0 +1,36 @@
+{
+  "id": "lifan",
+  "name": "Lifan",
+  "name_ru": "Лифан",
+  "country": "CN",
+  "models": [
+    {
+      "id": "lifan_breez",
+      "name": "Breez",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "lifan_breez_2005",
+          "name": "Breez 2005-н.в.",
+          "ys": 2005,
+          "ye": 2026
+        }
+      ]
+    },
+    {
+      "id": "lifan_solano",
+      "name": "Solano",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "lifan_solano_2009",
+          "name": "Solano 2009-н.в.",
+          "ys": 2009,
+          "ye": 2026
+        }
+      ]
+    }
+  ]
+}

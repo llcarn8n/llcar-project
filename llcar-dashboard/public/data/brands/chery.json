@@ -1,1 +1,1102 @@
-{"id":"chery","name":"Chery","name_ru":"Чери","country":"CN","models":[{"id":"chery_arrizo_8","name":"ARRIZO 8","body_type":"sedan","powertrain":"ice","generations":[{"id":"chery__arrizo_8__arrizo_8_2023_2023","name":"ARRIZO 8 2022-2024","ys":2022,"ye":2024,"body_type":"sedan","dimensions":{"length_mm":4780,"width_mm":1843,"height_mm":1469,"wheelbase_mm":3505,"ground_clearance_mm":140,"trunk_volume_l":455,"trunk_volume_max_l":455,"fuel_tank_l":55,"curb_weight_kg":1540,"gross_weight_kg":1935,"doors":4,"seats":5},"trims":[{"name":"1.5L (143 HP) Hybrid","engine":{"type":"hybrid_petrol","displacement_cc":1498,"cylinders":4,"power_hp":143,"power_kw":105,"fuel_type":"hybrid_petrol"},"drivetrain":"fwd","performance":{"co2_emissions_gkm":90,"fuel_consumption_standard":"WLTP"}},{"name":"1.6L 7DCT (186 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1598,"cylinders":4,"power_hp":186,"power_kw":137,"torque_nm":290,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"fwd","performance":{"top_speed_kmh":205,"acceleration_0_100_s":8.9,"fuel_consumption_combined_l100km":6.5}},{"name":"2.0L 7DCT (254 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1997,"cylinders":4,"power_hp":254,"power_kw":187,"torque_nm":390,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"fwd","performance":{"top_speed_kmh":215,"acceleration_0_100_s":7.3,"fuel_consumption_combined_l100km":7.2}},{"name":"1.6L 7DCT (194 HP)","engine":{"type":"petrol","displacement_cc":1598,"power_hp":194,"torque_nm":290,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"fwd","performance":{"power_hp":194}},{"name":"1.5L 3AT (330 HP) PHEV","engine":{"type":"phev","displacement_cc":1498,"power_hp":330,"power_kw":245,"torque_nm":525,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":3},"drivetrain":"fwd","performance":{"power_hp":330,"power_kw":245}}]}]},{"id":"chery_tiggo_2","name":"Tiggo 2","body_type":"suv","powertrain":"ice","generations":[{"id":"chery_tiggo_2__tiggo_2_pro_facelift_2024_suv_2025_2025","name":"Tiggo 2 2024-2025","ys":2024,"ye":2025,"body_type":"suv","dimensions":{"length_mm":4200,"width_mm":1760,"height_mm":1570,"ground_clearance_mm":200,"trunk_volume_l":420,"trunk_volume_max_l":420,"curb_weight_kg":1268,"gross_weight_kg":1662,"doors":5,"seats":5},"trims":[{"name":"1.5L 5MT (116 HP)","engine":{"type":"petrol","displacement_cc":1498,"power_hp":116,"torque_nm":143,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"power_hp":116}},{"name":"1.5L CVT (116 HP)","engine":{"type":"petrol","displacement_cc":1498,"power_hp":116,"torque_nm":143,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"power_hp":116}}]}]},{"id":"chery_tiggo_4","name":"Tiggo 4","body_type":"suv","powertrain":"ice","generations":[{"id":"chery__tiggo_4_pro__tiggo_4_pro_2022_2022","name":"Tiggo 4 I 2022-2025","ys":2022,"ye":2025,"body_type":"suv","dimensions":{"length_mm":4318,"width_mm":1831,"height_mm":1670,"wheelbase_mm":2610,"ground_clearance_mm":180,"trunk_volume_l":340,"fuel_tank_l":51,"curb_weight_kg":1345,"doors":5,"seats":5,"trunk_volume_max_l":380,"gross_weight_kg":1799},"trims":[{"name":"1.5L CVT (113 HP)","engine":{"type":"petrol","aspiration":"naturally_aspirated","displacement_cc":1498,"cylinders":4,"power_hp":113,"power_kw":83,"torque_nm":138,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"top_speed_kmh":165,"acceleration_0_100_s":13.5,"fuel_consumption_combined_l100km":7.4}},{"name":"1.5L CVT (147 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1497,"cylinders":4,"power_hp":147,"power_kw":108,"torque_nm":210,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"top_speed_kmh":190,"acceleration_0_100_s":9.7,"fuel_consumption_combined_l100km":7.1}},{"name":"1.5L CVT (145 HP)","engine":{"type":"petrol","displacement_cc":1498,"power_hp":145,"torque_nm":210,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"power_hp":145}},{"name":"1.5L 3AT (204 HP) Hybrid","engine":{"type":"hybrid_petrol","displacement_cc":1498,"power_hp":204,"torque_nm":310,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":3},"drivetrain":"fwd","performance":{"power_hp":204}}]},{"id":"chery_tiggo_4__tiggo_4_facelift_2025_suv_2026_2025","name":"Tiggo 4 II 2025-н.в.","ys":2025,"ye":null,"body_type":"suv","dimensions":{"length_mm":4351,"width_mm":1831,"height_mm":1660,"ground_clearance_mm":200,"trunk_volume_l":470,"trunk_volume_max_l":470,"curb_weight_kg":1494,"gross_weight_kg":1905,"doors":5,"seats":5},"trims":[{"name":"1.5L CVT (145 HP)","engine":{"type":"petrol","displacement_cc":1498,"power_hp":145,"torque_nm":210,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"power_hp":145}},{"name":"1.5L 3AT (204 HP) Hybrid","engine":{"type":"hybrid_petrol","displacement_cc":1498,"power_hp":204,"torque_nm":310,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":3},"drivetrain":"fwd","performance":{"power_hp":204}}]}]},{"id":"chery_tiggo_7","name":"Tiggo 7","body_type":"suv","powertrain":"ice","generations":[{"id":"chery__tiggo_7__tiggo_7_gen_i_2016_2020_2016","name":"Tiggo 7 I 2016-2020","ys":2016,"ye":2020,"body_type":"suv","dimensions":{"length_mm":4505,"width_mm":1837,"height_mm":1670,"wheelbase_mm":2670,"ground_clearance_mm":163,"trunk_volume_l":475,"fuel_tank_l":51,"curb_weight_kg":1390,"doors":5,"seats":5},"trims":[{"name":"1.5L 6MT (152 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1498,"cylinders":4,"power_hp":152,"power_kw":112,"torque_nm":210,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":185,"acceleration_0_100_s":10,"fuel_consumption_combined_l100km":6.3}},{"name":"1.5L 6DCT (152 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1498,"cylinders":4,"power_hp":152,"power_kw":112,"torque_nm":210,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":185,"acceleration_0_100_s":9.8,"fuel_consumption_combined_l100km":6.5}},{"name":"1.5L CVT (156 HP)","engine":{"type":"petrol","displacement_cc":1498,"power_hp":156,"torque_nm":230,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"power_hp":156}},{"name":"1.5L 6DCT (156 HP)","engine":{"type":"petrol","displacement_cc":1498,"power_hp":156,"torque_nm":230,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":6},"drivetrain":"fwd","performance":{"power_hp":156}},{"name":"1.6L 7DCT (197 HP)","engine":{"type":"petrol","displacement_cc":1598,"power_hp":197,"torque_nm":290,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"fwd","performance":{"power_hp":197}}]},{"id":"chery_tiggo_7__tiggo_7_ii_suv_2020_2020","name":"Tiggo 7 II 2020-2022","ys":2020,"ye":2022,"body_type":"suv","dimensions":{"length_mm":4500,"width_mm":1837,"height_mm":1746,"wheelbase_mm":2655,"ground_clearance_mm":200,"trunk_volume_l":475,"trunk_volume_max_l":475,"curb_weight_kg":1465,"doors":5,"seats":5,"wheelbase_estimated":true,"wheelbase_mm_original_error":5334,"fuel_tank_l":51},"trims":[{"name":"1.5L 6MT (152 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1498,"cylinders":4,"power_hp":152,"power_kw":112,"torque_nm":210,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":185,"acceleration_0_100_s":10,"fuel_consumption_combined_l100km":6.3}},{"name":"1.5L 6DCT (152 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1498,"cylinders":4,"power_hp":152,"power_kw":112,"torque_nm":210,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":185,"acceleration_0_100_s":9.8,"fuel_consumption_combined_l100km":6.5}},{"name":"1.5L CVT (156 HP)","engine":{"type":"petrol","displacement_cc":1498,"power_hp":156,"torque_nm":230,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"power_hp":156}},{"name":"1.5L 6DCT (156 HP)","engine":{"type":"petrol","displacement_cc":1498,"power_hp":156,"torque_nm":230,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":6},"drivetrain":"fwd","performance":{"power_hp":156}},{"name":"1.6L 7DCT (197 HP)","engine":{"type":"petrol","displacement_cc":1598,"power_hp":197,"torque_nm":290,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"fwd","performance":{"power_hp":197}},{"name":"1.5L CVT (147 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1498,"cylinders":4,"power_hp":147,"power_kw":108,"torque_nm":210,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"top_speed_kmh":185,"acceleration_0_100_s":9.7,"fuel_consumption_combined_l100km":6.8}},{"name":"1.6L 7DCT (150 HP) AWD","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1598,"cylinders":4,"power_hp":150,"power_kw":110,"torque_nm":290,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"awd","performance":{"top_speed_kmh":205,"acceleration_0_100_s":8,"fuel_consumption_combined_l100km":7.8}}]},{"id":"chery_tiggo_7__tiggo_7_ii_facelift_2024_chinese_market_suv_2025_2024","name":"Tiggo 7 III 2024-2024","ys":2024,"ye":2024,"body_type":"suv","dimensions":{"length_mm":4530,"width_mm":1862,"height_mm":1695,"wheelbase_mm":2672,"ground_clearance_mm":200,"trunk_volume_l":475,"trunk_volume_max_l":475,"curb_weight_kg":1497,"gross_weight_kg":2081,"doors":5,"seats":5,"wheelbase_estimated":true,"wheelbase_mm_original_error":4572},"trims":[{"name":"1.5L 6MT (152 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1498,"cylinders":4,"power_hp":152,"power_kw":112,"torque_nm":210,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":185,"acceleration_0_100_s":10,"fuel_consumption_combined_l100km":6.3}},{"name":"1.5L 6DCT (152 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1498,"cylinders":4,"power_hp":152,"power_kw":112,"torque_nm":210,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":185,"acceleration_0_100_s":9.8,"fuel_consumption_combined_l100km":6.5}},{"name":"1.5L CVT (156 HP)","engine":{"type":"petrol","displacement_cc":1498,"power_hp":156,"torque_nm":230,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"power_hp":156}},{"name":"1.5L 6DCT (156 HP)","engine":{"type":"petrol","displacement_cc":1498,"power_hp":156,"torque_nm":230,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":6},"drivetrain":"fwd","performance":{"power_hp":156}},{"name":"1.6L 7DCT (197 HP)","engine":{"type":"petrol","displacement_cc":1598,"power_hp":197,"torque_nm":290,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"fwd","performance":{"power_hp":197}}]}]},{"id":"chery_tiggo_8","name":"Tiggo 8","body_type":"suv","powertrain":"ice","generations":[{"id":"chery_tiggo_8__tiggo_8_ii_suv_2026_2025","name":"Tiggo 8 2020-2025","ys":2020,"ye":2025,"body_type":"suv","dimensions":{"length_mm":4700,"width_mm":1880,"height_mm":1710,"wheelbase_mm":2773,"ground_clearance_mm":200,"trunk_volume_l":546,"trunk_volume_max_l":546,"curb_weight_kg":1540,"doors":5,"seats":5,"wheelbase_estimated":true,"wheelbase_mm_original_error":4826,"fuel_tank_l":51},"trims":[{"name":"1.5L 6DCT (154 HP)","engine":{"type":"petrol","displacement_cc":1498,"power_hp":154,"torque_nm":230,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":6},"drivetrain":"fwd","performance":{"power_hp":154}},{"name":"1.6L 7DCT (194 HP)","engine":{"type":"petrol","displacement_cc":1598,"power_hp":194,"torque_nm":290,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"fwd","performance":{"power_hp":194}},{"name":"2.0L 7DCT (251 HP) AWD","engine":{"type":"petrol","displacement_cc":1998,"power_hp":251,"torque_nm":390,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"awd","performance":{"power_hp":251}},{"name":"1.6L 7DCT (186 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1598,"cylinders":4,"power_hp":186,"power_kw":137,"torque_nm":290,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"fwd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":8.5,"fuel_consumption_combined_l100km":7.4}},{"name":"2.0L CVT (170 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1997,"cylinders":4,"power_hp":170,"power_kw":125,"torque_nm":250,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"top_speed_kmh":195,"acceleration_0_100_s":8.9,"fuel_consumption_combined_l100km":7.8}},{"name":"2.0L 7DCT (197 HP) AWD","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1997,"cylinders":4,"power_hp":197,"power_kw":145,"torque_nm":390,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"awd","performance":{"top_speed_kmh":210,"acceleration_0_100_s":7.3,"fuel_consumption_combined_l100km":8.5}}]}]}]}
+{
+  "id": "chery",
+  "name": "Chery",
+  "name_ru": "Чери",
+  "country": "CN",
+  "models": [
+    {
+      "id": "chery_arrizo_8",
+      "name": "ARRIZO 8",
+      "body_type": "sedan",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "chery__arrizo_8__arrizo_8_2023_2023",
+          "name": "ARRIZO 8 2022-2024",
+          "ys": 2022,
+          "ye": 2024,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 4780,
+            "width_mm": 1843,
+            "height_mm": 1469,
+            "wheelbase_mm": 3505,
+            "ground_clearance_mm": 140,
+            "trunk_volume_l": 455,
+            "trunk_volume_max_l": 455,
+            "fuel_tank_l": 55,
+            "curb_weight_kg": 1540,
+            "gross_weight_kg": 1935,
+            "doors": 4,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "1.5L (143 HP) Hybrid",
+              "engine": {
+                "type": "hybrid_petrol",
+                "displacement_cc": 1498,
+                "cylinders": 4,
+                "power_hp": 143,
+                "power_kw": 105,
+                "fuel_type": "hybrid_petrol"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "co2_emissions_gkm": 90,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.6L 7DCT (186 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 186,
+                "power_kw": 137,
+                "torque_nm": 290,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 205,
+                "acceleration_0_100_s": 8.9,
+                "fuel_consumption_combined_l100km": 6.5
+              }
+            },
+            {
+              "name": "2.0L 7DCT (254 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1997,
+                "cylinders": 4,
+                "power_hp": 254,
+                "power_kw": 187,
+                "torque_nm": 390,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 215,
+                "acceleration_0_100_s": 7.3,
+                "fuel_consumption_combined_l100km": 7.2
+              }
+            },
+            {
+              "name": "1.6L 7DCT (194 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1598,
+                "power_hp": 194,
+                "torque_nm": 290,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 194
+              }
+            },
+            {
+              "name": "1.5L 3AT (330 HP) PHEV",
+              "engine": {
+                "type": "phev",
+                "displacement_cc": 1498,
+                "power_hp": 330,
+                "power_kw": 245,
+                "torque_nm": 525,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 3
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 330,
+                "power_kw": 245
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chery_tiggo_2",
+      "name": "Tiggo 2",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "chery_tiggo_2__tiggo_2_pro_facelift_2024_suv_2025_2025",
+          "name": "Tiggo 2 2024-2025",
+          "ys": 2024,
+          "ye": 2025,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4200,
+            "width_mm": 1760,
+            "height_mm": 1570,
+            "ground_clearance_mm": 200,
+            "trunk_volume_l": 420,
+            "trunk_volume_max_l": 420,
+            "curb_weight_kg": 1268,
+            "gross_weight_kg": 1662,
+            "doors": 5,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "1.5L 5MT (116 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1498,
+                "power_hp": 116,
+                "torque_nm": 143,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 116
+              }
+            },
+            {
+              "name": "1.5L CVT (116 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1498,
+                "power_hp": 116,
+                "torque_nm": 143,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 116
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chery_tiggo_4",
+      "name": "Tiggo 4",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "chery__tiggo_4_pro__tiggo_4_pro_2022_2022",
+          "name": "Tiggo 4 I 2022-2025",
+          "ys": 2022,
+          "ye": 2025,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4318,
+            "width_mm": 1831,
+            "height_mm": 1670,
+            "wheelbase_mm": 2610,
+            "ground_clearance_mm": 180,
+            "trunk_volume_l": 340,
+            "fuel_tank_l": 51,
+            "curb_weight_kg": 1345,
+            "doors": 5,
+            "seats": 5,
+            "trunk_volume_max_l": 380,
+            "gross_weight_kg": 1799
+          },
+          "trims": [
+            {
+              "name": "1.5L CVT (113 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "naturally_aspirated",
+                "displacement_cc": 1498,
+                "cylinders": 4,
+                "power_hp": 113,
+                "power_kw": 83,
+                "torque_nm": 138,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 165,
+                "acceleration_0_100_s": 13.5,
+                "fuel_consumption_combined_l100km": 7.4
+              }
+            },
+            {
+              "name": "1.5L CVT (147 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1497,
+                "cylinders": 4,
+                "power_hp": 147,
+                "power_kw": 108,
+                "torque_nm": 210,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 190,
+                "acceleration_0_100_s": 9.7,
+                "fuel_consumption_combined_l100km": 7.1
+              }
+            },
+            {
+              "name": "1.5L CVT (145 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1498,
+                "power_hp": 145,
+                "torque_nm": 210,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 145
+              }
+            },
+            {
+              "name": "1.5L 3AT (204 HP) Hybrid",
+              "engine": {
+                "type": "hybrid_petrol",
+                "displacement_cc": 1498,
+                "power_hp": 204,
+                "torque_nm": 310,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 3
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 204
+              }
+            }
+          ]
+        },
+        {
+          "id": "chery_tiggo_4__tiggo_4_facelift_2025_suv_2026_2025",
+          "name": "Tiggo 4 II 2025-н.в.",
+          "ys": 2025,
+          "ye": null,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4351,
+            "width_mm": 1831,
+            "height_mm": 1660,
+            "ground_clearance_mm": 200,
+            "trunk_volume_l": 470,
+            "trunk_volume_max_l": 470,
+            "curb_weight_kg": 1494,
+            "gross_weight_kg": 1905,
+            "doors": 5,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "1.5L CVT (145 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1498,
+                "power_hp": 145,
+                "torque_nm": 210,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 145
+              }
+            },
+            {
+              "name": "1.5L 3AT (204 HP) Hybrid",
+              "engine": {
+                "type": "hybrid_petrol",
+                "displacement_cc": 1498,
+                "power_hp": 204,
+                "torque_nm": 310,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 3
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 204
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chery_tiggo_7",
+      "name": "Tiggo 7",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "chery__tiggo_7__tiggo_7_gen_i_2016_2020_2016",
+          "name": "Tiggo 7 I 2016-2020",
+          "ys": 2016,
+          "ye": 2020,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4505,
+            "width_mm": 1837,
+            "height_mm": 1670,
+            "wheelbase_mm": 2670,
+            "ground_clearance_mm": 163,
+            "trunk_volume_l": 475,
+            "fuel_tank_l": 51,
+            "curb_weight_kg": 1390,
+            "doors": 5,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "1.5L 6MT (152 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1498,
+                "cylinders": 4,
+                "power_hp": 152,
+                "power_kw": 112,
+                "torque_nm": 210,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 185,
+                "acceleration_0_100_s": 10,
+                "fuel_consumption_combined_l100km": 6.3
+              }
+            },
+            {
+              "name": "1.5L 6DCT (152 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1498,
+                "cylinders": 4,
+                "power_hp": 152,
+                "power_kw": 112,
+                "torque_nm": 210,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 185,
+                "acceleration_0_100_s": 9.8,
+                "fuel_consumption_combined_l100km": 6.5
+              }
+            },
+            {
+              "name": "1.5L CVT (156 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1498,
+                "power_hp": 156,
+                "torque_nm": 230,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 156
+              }
+            },
+            {
+              "name": "1.5L 6DCT (156 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1498,
+                "power_hp": 156,
+                "torque_nm": 230,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 156
+              }
+            },
+            {
+              "name": "1.6L 7DCT (197 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1598,
+                "power_hp": 197,
+                "torque_nm": 290,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 197
+              }
+            }
+          ]
+        },
+        {
+          "id": "chery_tiggo_7__tiggo_7_ii_suv_2020_2020",
+          "name": "Tiggo 7 II 2020-2022",
+          "ys": 2020,
+          "ye": 2022,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4500,
+            "width_mm": 1837,
+            "height_mm": 1746,
+            "wheelbase_mm": 2655,
+            "ground_clearance_mm": 200,
+            "trunk_volume_l": 475,
+            "trunk_volume_max_l": 475,
+            "curb_weight_kg": 1465,
+            "doors": 5,
+            "seats": 5,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 5334,
+            "fuel_tank_l": 51
+          },
+          "trims": [
+            {
+              "name": "1.5L 6MT (152 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1498,
+                "cylinders": 4,
+                "power_hp": 152,
+                "power_kw": 112,
+                "torque_nm": 210,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 185,
+                "acceleration_0_100_s": 10,
+                "fuel_consumption_combined_l100km": 6.3
+              }
+            },
+            {
+              "name": "1.5L 6DCT (152 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1498,
+                "cylinders": 4,
+                "power_hp": 152,
+                "power_kw": 112,
+                "torque_nm": 210,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 185,
+                "acceleration_0_100_s": 9.8,
+                "fuel_consumption_combined_l100km": 6.5
+              }
+            },
+            {
+              "name": "1.5L CVT (156 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1498,
+                "power_hp": 156,
+                "torque_nm": 230,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 156
+              }
+            },
+            {
+              "name": "1.5L 6DCT (156 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1498,
+                "power_hp": 156,
+                "torque_nm": 230,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 156
+              }
+            },
+            {
+              "name": "1.6L 7DCT (197 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1598,
+                "power_hp": 197,
+                "torque_nm": 290,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 197
+              }
+            },
+            {
+              "name": "1.5L CVT (147 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1498,
+                "cylinders": 4,
+                "power_hp": 147,
+                "power_kw": 108,
+                "torque_nm": 210,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 185,
+                "acceleration_0_100_s": 9.7,
+                "fuel_consumption_combined_l100km": 6.8
+              }
+            },
+            {
+              "name": "1.6L 7DCT (150 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 150,
+                "power_kw": 110,
+                "torque_nm": 290,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 205,
+                "acceleration_0_100_s": 8,
+                "fuel_consumption_combined_l100km": 7.8
+              }
+            }
+          ]
+        },
+        {
+          "id": "chery_tiggo_7__tiggo_7_ii_facelift_2024_chinese_market_suv_2025_2024",
+          "name": "Tiggo 7 III 2024-2024",
+          "ys": 2024,
+          "ye": 2024,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4530,
+            "width_mm": 1862,
+            "height_mm": 1695,
+            "wheelbase_mm": 2672,
+            "ground_clearance_mm": 200,
+            "trunk_volume_l": 475,
+            "trunk_volume_max_l": 475,
+            "curb_weight_kg": 1497,
+            "gross_weight_kg": 2081,
+            "doors": 5,
+            "seats": 5,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 4572
+          },
+          "trims": [
+            {
+              "name": "1.5L 6MT (152 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1498,
+                "cylinders": 4,
+                "power_hp": 152,
+                "power_kw": 112,
+                "torque_nm": 210,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 185,
+                "acceleration_0_100_s": 10,
+                "fuel_consumption_combined_l100km": 6.3
+              }
+            },
+            {
+              "name": "1.5L 6DCT (152 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1498,
+                "cylinders": 4,
+                "power_hp": 152,
+                "power_kw": 112,
+                "torque_nm": 210,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 185,
+                "acceleration_0_100_s": 9.8,
+                "fuel_consumption_combined_l100km": 6.5
+              }
+            },
+            {
+              "name": "1.5L CVT (156 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1498,
+                "power_hp": 156,
+                "torque_nm": 230,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 156
+              }
+            },
+            {
+              "name": "1.5L 6DCT (156 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1498,
+                "power_hp": 156,
+                "torque_nm": 230,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 156
+              }
+            },
+            {
+              "name": "1.6L 7DCT (197 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1598,
+                "power_hp": 197,
+                "torque_nm": 290,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 197
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chery_tiggo_8",
+      "name": "Tiggo 8",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "chery_tiggo_8__tiggo_8_ii_suv_2026_2025",
+          "name": "Tiggo 8 2020-2025",
+          "ys": 2020,
+          "ye": 2025,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4700,
+            "width_mm": 1880,
+            "height_mm": 1710,
+            "wheelbase_mm": 2773,
+            "ground_clearance_mm": 200,
+            "trunk_volume_l": 546,
+            "trunk_volume_max_l": 546,
+            "curb_weight_kg": 1540,
+            "doors": 5,
+            "seats": 5,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 4826,
+            "fuel_tank_l": 51
+          },
+          "trims": [
+            {
+              "name": "1.5L 6DCT (154 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1498,
+                "power_hp": 154,
+                "torque_nm": 230,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 154
+              }
+            },
+            {
+              "name": "1.6L 7DCT (194 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1598,
+                "power_hp": 194,
+                "torque_nm": 290,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 194
+              }
+            },
+            {
+              "name": "2.0L 7DCT (251 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1998,
+                "power_hp": 251,
+                "torque_nm": 390,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 251
+              }
+            },
+            {
+              "name": "1.6L 7DCT (186 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 186,
+                "power_kw": 137,
+                "torque_nm": 290,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 8.5,
+                "fuel_consumption_combined_l100km": 7.4
+              }
+            },
+            {
+              "name": "2.0L CVT (170 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1997,
+                "cylinders": 4,
+                "power_hp": 170,
+                "power_kw": 125,
+                "torque_nm": 250,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 195,
+                "acceleration_0_100_s": 8.9,
+                "fuel_consumption_combined_l100km": 7.8
+              }
+            },
+            {
+              "name": "2.0L 7DCT (197 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1997,
+                "cylinders": 4,
+                "power_hp": 197,
+                "power_kw": 145,
+                "torque_nm": 390,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 210,
+                "acceleration_0_100_s": 7.3,
+                "fuel_consumption_combined_l100km": 8.5
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chery_a13",
+      "name": "A13",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "chery_a13_2009",
+          "name": "A13 2009-н.в.",
+          "ys": 2009,
+          "ye": 2026
+        }
+      ]
+    },
+    {
+      "id": "chery_arrizo_7",
+      "name": "Arrizo 7",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "chery_arrizo_7_2013",
+          "name": "Arrizo 7 2013-н.в.",
+          "ys": 2013,
+          "ye": 2026
+        },
+        {
+          "id": "chery_arrizo_7_2015",
+          "name": "Arrizo 7 (актуальное)",
+          "ys": 2015,
+          "ye": 2026
+        }
+      ]
+    },
+    {
+      "id": "chery_bonus",
+      "name": "Bonus",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "chery_bonus_2015",
+          "name": "Bonus (актуальное)",
+          "ys": 2015,
+          "ye": 2026
+        }
+      ]
+    },
+    {
+      "id": "chery_maintenance_and_owner_s_manual",
+      "name": "Бонус-справочник",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "chery_maintenance_and_owner_s_manual_2015",
+          "name": "Бонус-справочник (актуальное)",
+          "ys": 2015,
+          "ye": 2026
+        }
+      ]
+    },
+    {
+      "id": "chery_qq",
+      "name": "QQ",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "chery_qq_2015",
+          "name": "QQ (актуальное)",
+          "ys": 2015,
+          "ye": 2026
+        }
+      ]
+    },
+    {
+      "id": "chery_tiggo_7_pro",
+      "name": "Tiggo 7 Pro",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "chery_tiggo_7_pro_2020",
+          "name": "Tiggo 7 Pro 2020-н.в.",
+          "ys": 2020,
+          "ye": 2026
+        },
+        {
+          "id": "chery_tiggo_7_pro_2015",
+          "name": "Tiggo 7 Pro (актуальное)",
+          "ys": 2015,
+          "ye": 2026
+        },
+        {
+          "id": "chery_tiggo_7_pro_2015",
+          "name": "Tiggo 7 Pro (актуальное)",
+          "ys": 2015,
+          "ye": 2026
+        },
+        {
+          "id": "chery_tiggo_7_pro_2015",
+          "name": "Tiggo 7 Pro (актуальное)",
+          "ys": 2015,
+          "ye": 2026
+        },
+        {
+          "id": "chery_tiggo_7_pro_2019",
+          "name": "Tiggo 7 Pro 2019-н.в.",
+          "ys": 2019,
+          "ye": 2026
+        },
+        {
+          "id": "chery_tiggo_7_pro_2015",
+          "name": "Tiggo 7 Pro (актуальное)",
+          "ys": 2015,
+          "ye": 2026
+        },
+        {
+          "id": "chery_tiggo_7_pro_2015",
+          "name": "Tiggo 7 Pro (актуальное)",
+          "ys": 2015,
+          "ye": 2026
+        }
+      ]
+    },
+    {
+      "id": "chery_tiggo_8_pro",
+      "name": "Tiggo 8 Pro",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "chery_tiggo_8_pro_2021",
+          "name": "Tiggo 8 Pro 2021-н.в.",
+          "ys": 2021,
+          "ye": 2026
+        },
+        {
+          "id": "chery_tiggo_8_pro_2015",
+          "name": "Tiggo 8 Pro (актуальное)",
+          "ys": 2015,
+          "ye": 2026
+        }
+      ]
+    },
+    {
+      "id": "chery_tiggo_9",
+      "name": "Tiggo 9",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "chery_tiggo_9_2023",
+          "name": "Tiggo 9 2023-н.в.",
+          "ys": 2023,
+          "ye": 2026
+        }
+      ]
+    }
+  ]
+}

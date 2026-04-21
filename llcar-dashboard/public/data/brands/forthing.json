@@ -1,1 +1,378 @@
-{"id":"forthing","name":"Forthing","name_ru":"Фортинг","country":"CN","models":[{"id":"forthing_t5","name":"T5","body_type":"suv","powertrain":"ice","generations":[{"id":"forthing_t5__t5_mach_edition_facelift_2022_suv_2023_2022","name":"T5 2022-н.в.","ys":2022,"ye":null,"body_type":"suv","dimensions":{"length_mm":4785,"width_mm":1872,"height_mm":1775,"wheelbase_mm":2823,"ground_clearance_mm":200,"curb_weight_kg":1635,"doors":5,"seats":5,"wheelbase_estimated":true,"wheelbase_mm_original_error":4953},"trims":[{"name":"1.5L CVT (147 HP)","engine":{"type":"petrol","displacement_cc":1498,"power_hp":147,"torque_nm":250,"fuel_type":"petrol"},"transmission":{"type":"cvt","gears":1},"drivetrain":"fwd","performance":{"power_hp":147}},{"name":"1.5L CVT (147 HP)","engine":{"type":"petrol","displacement_cc":1498,"power_hp":147,"torque_nm":250,"fuel_type":"petrol"},"transmission":{"type":"cvt","gears":1},"drivetrain":"fwd","performance":{"power_hp":147}}]}]},{"id":"forthing_t5_evo","name":"T5 EVO","body_type":"suv","powertrain":"ice","generations":[{"id":"forthing_t5_evo__t5_evo_suv_2021_2020","name":"T5 EVO I 2020-н.в.","ys":2020,"ye":null,"body_type":"suv","dimensions":{"length_mm":4565,"width_mm":1860,"height_mm":1690,"wheelbase_mm":2715,"ground_clearance_mm":165,"trunk_volume_l":480,"trunk_volume_max_l":480,"fuel_tank_l":55,"curb_weight_kg":1700,"gross_weight_kg":2075,"doors":5,"seats":5},"trims":[{"name":"1.5L 7DCT (197 HP)","engine":{"code":"4A95TD","type":"petrol","aspiration":"turbo","displacement_cc":1481,"cylinders":4,"power_hp":197,"power_kw":145,"torque_nm":285,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"fwd","performance":{"top_speed_kmh":195,"acceleration_0_100_s":9.5,"fuel_consumption_combined_l100km":6.6}}]},{"id":"forthing_t5_evo__t5_evo_2023_2023","name":"T5 EVO II 2023-2023","ys":2023,"ye":2023,"body_type":"suv","dimensions":{"length_mm":4565,"width_mm":1860,"height_mm":1690,"wheelbase_mm":2715,"ground_clearance_mm":165,"trunk_volume_l":480,"fuel_tank_l":55,"curb_weight_kg":1635,"doors":5,"seats":5},"trims":[{"name":"1.5L (177 HP)","engine":{"type":"petrol","displacement_cc":1481,"cylinders":4,"power_hp":177,"power_kw":130,"fuel_type":"petrol"},"performance":{"fuel_consumption_combined_l100km":6.9,"co2_emissions_gkm":161,"fuel_consumption_standard":"WLTP"}}]}]},{"id":"forthing_u_tour","name":"U TOUR","body_type":"minivan","powertrain":"ice","generations":[{"id":"forthing_u_tour__u_tour_2024_2024","name":"U TOUR I 2024-2024","ys":2024,"ye":2024,"body_type":"minivan","dimensions":{"length_mm":4850,"width_mm":1900,"height_mm":1715,"wheelbase_mm":2900,"curb_weight_kg":1790},"trims":[{"name":"1.5L (177 HP)","engine":{"type":"petrol","displacement_cc":1481,"cylinders":4,"power_hp":177,"power_kw":130,"fuel_type":"petrol"},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":7.1,"co2_emissions_gkm":175,"fuel_consumption_standard":"WLTP"}},{"name":"1.5L 7DCT (197 HP)","engine":{"type":"petrol","displacement_cc":1481,"cylinders":4,"power_hp":197,"power_kw":145,"torque_nm":285,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"fwd","performance":{"power_hp":197,"power_kw":145}}]},{"id":"forthing__u_tour__u_tour_2022_present_0","name":"U TOUR II","ys":null,"ye":null,"body_type":"minivan","dimensions":{"length_mm":4850,"width_mm":1900,"height_mm":1715,"wheelbase_mm":2900},"trims":[{"name":"1.5L 7DCT (197 HP)","engine":{"type":"petrol","aspiration":"turbo","displacement_cc":1481,"cylinders":4,"power_hp":197,"torque_nm":285,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"fwd","performance":{"power_hp":197}}]}]},{"id":"forthing__friday","name":"Friday","body_type":"suv","powertrain":"ice","generations":[{"id":"forthing__friday__friday_2023_present_0","name":"Friday","ys":null,"ye":null,"body_type":"suv","dimensions":{"length_mm":4600,"width_mm":1860,"height_mm":1680,"wheelbase_mm":2715},"trims":[{"name":"EV 204 HP","engine":{"type":"electric","power_hp":204,"torque_nm":340,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":1},"drivetrain":"fwd","performance":{"power_hp":204}},{"name":"EV 204 HP","engine":{"type":"electric","power_hp":204,"torque_nm":340,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":1},"drivetrain":"fwd","performance":{"power_hp":204}}]}]},{"id":"forthing_580","name":"580","body_type":"minivan","powertrain":"ice","generations":[{"id":"forthing_580__stub","name":"580","body_type":"minivan","dimensions":{},"trims":[]}]},{"id":"forthing_ax7","name":"AX7","body_type":"suv","powertrain":"ice","generations":[{"id":"forthing_ax7__stub","name":"AX7","body_type":"suv","dimensions":{},"trims":[]}]},{"id":"forthing_h30_cross","name":"H30 Cross","body_type":"hatchback","powertrain":"ice","generations":[{"id":"forthing_h30_cross__stub","name":"H30 Cross (H30)","body_type":"hatchback","dimensions":{},"trims":[]}]}]}
+{
+  "id": "forthing",
+  "name": "Forthing",
+  "name_ru": "Фортинг",
+  "country": "CN",
+  "models": [
+    {
+      "id": "forthing_t5",
+      "name": "T5",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "forthing_t5__t5_mach_edition_facelift_2022_suv_2023_2022",
+          "name": "T5 2022-н.в.",
+          "ys": 2022,
+          "ye": null,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4785,
+            "width_mm": 1872,
+            "height_mm": 1775,
+            "wheelbase_mm": 2823,
+            "ground_clearance_mm": 200,
+            "curb_weight_kg": 1635,
+            "doors": 5,
+            "seats": 5,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 4953
+          },
+          "trims": [
+            {
+              "name": "1.5L CVT (147 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1498,
+                "power_hp": 147,
+                "torque_nm": 250,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt",
+                "gears": 1
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 147
+              }
+            },
+            {
+              "name": "1.5L CVT (147 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1498,
+                "power_hp": 147,
+                "torque_nm": 250,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt",
+                "gears": 1
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 147
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "forthing_t5_evo",
+      "name": "T5 EVO",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "forthing_t5_evo__t5_evo_suv_2021_2020",
+          "name": "T5 EVO I 2020-н.в.",
+          "ys": 2020,
+          "ye": null,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4565,
+            "width_mm": 1860,
+            "height_mm": 1690,
+            "wheelbase_mm": 2715,
+            "ground_clearance_mm": 165,
+            "trunk_volume_l": 480,
+            "trunk_volume_max_l": 480,
+            "fuel_tank_l": 55,
+            "curb_weight_kg": 1700,
+            "gross_weight_kg": 2075,
+            "doors": 5,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "1.5L 7DCT (197 HP)",
+              "engine": {
+                "code": "4A95TD",
+                "type": "petrol",
+                "aspiration": "turbo",
+                "displacement_cc": 1481,
+                "cylinders": 4,
+                "power_hp": 197,
+                "power_kw": 145,
+                "torque_nm": 285,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 195,
+                "acceleration_0_100_s": 9.5,
+                "fuel_consumption_combined_l100km": 6.6
+              }
+            }
+          ]
+        },
+        {
+          "id": "forthing_t5_evo__t5_evo_2023_2023",
+          "name": "T5 EVO II 2023-2023",
+          "ys": 2023,
+          "ye": 2023,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4565,
+            "width_mm": 1860,
+            "height_mm": 1690,
+            "wheelbase_mm": 2715,
+            "ground_clearance_mm": 165,
+            "trunk_volume_l": 480,
+            "fuel_tank_l": 55,
+            "curb_weight_kg": 1635,
+            "doors": 5,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "1.5L (177 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1481,
+                "cylinders": 4,
+                "power_hp": 177,
+                "power_kw": 130,
+                "fuel_type": "petrol"
+              },
+              "performance": {
+                "fuel_consumption_combined_l100km": 6.9,
+                "co2_emissions_gkm": 161,
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "forthing_u_tour",
+      "name": "U TOUR",
+      "body_type": "minivan",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "forthing_u_tour__u_tour_2024_2024",
+          "name": "U TOUR I 2024-2024",
+          "ys": 2024,
+          "ye": 2024,
+          "body_type": "minivan",
+          "dimensions": {
+            "length_mm": 4850,
+            "width_mm": 1900,
+            "height_mm": 1715,
+            "wheelbase_mm": 2900,
+            "curb_weight_kg": 1790
+          },
+          "trims": [
+            {
+              "name": "1.5L (177 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1481,
+                "cylinders": 4,
+                "power_hp": 177,
+                "power_kw": 130,
+                "fuel_type": "petrol"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 7.1,
+                "co2_emissions_gkm": 175,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.5L 7DCT (197 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1481,
+                "cylinders": 4,
+                "power_hp": 197,
+                "power_kw": 145,
+                "torque_nm": 285,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 197,
+                "power_kw": 145
+              }
+            }
+          ]
+        },
+        {
+          "id": "forthing__u_tour__u_tour_2022_present_0",
+          "name": "U TOUR II",
+          "ys": null,
+          "ye": null,
+          "body_type": "minivan",
+          "dimensions": {
+            "length_mm": 4850,
+            "width_mm": 1900,
+            "height_mm": 1715,
+            "wheelbase_mm": 2900
+          },
+          "trims": [
+            {
+              "name": "1.5L 7DCT (197 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbo",
+                "displacement_cc": 1481,
+                "cylinders": 4,
+                "power_hp": 197,
+                "torque_nm": 285,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 197
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "forthing__friday",
+      "name": "Friday",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "forthing__friday__friday_2023_present_0",
+          "name": "Friday",
+          "ys": null,
+          "ye": null,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4600,
+            "width_mm": 1860,
+            "height_mm": 1680,
+            "wheelbase_mm": 2715
+          },
+          "trims": [
+            {
+              "name": "EV 204 HP",
+              "engine": {
+                "type": "electric",
+                "power_hp": 204,
+                "torque_nm": 340,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 1
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 204
+              }
+            },
+            {
+              "name": "EV 204 HP",
+              "engine": {
+                "type": "electric",
+                "power_hp": 204,
+                "torque_nm": 340,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 1
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 204
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "forthing_580",
+      "name": "580",
+      "body_type": "minivan",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "forthing_580__stub",
+          "name": "580",
+          "body_type": "minivan",
+          "dimensions": {},
+          "trims": []
+        }
+      ]
+    },
+    {
+      "id": "forthing_ax7",
+      "name": "AX7",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "forthing_ax7__stub",
+          "name": "AX7",
+          "body_type": "suv",
+          "dimensions": {},
+          "trims": []
+        }
+      ]
+    },
+    {
+      "id": "forthing_h30_cross",
+      "name": "H30 Cross",
+      "body_type": "hatchback",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "forthing_h30_cross__stub",
+          "name": "H30 Cross (H30)",
+          "body_type": "hatchback",
+          "dimensions": {},
+          "trims": []
+        }
+      ]
+    },
+    {
+      "id": "forthing_m4",
+      "name": "M4",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "forthing_m4_2023",
+          "name": "M4 2023-н.в.",
+          "ys": 2023,
+          "ye": 2026
+        }
+      ]
+    }
+  ]
+}

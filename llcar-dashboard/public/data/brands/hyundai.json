@@ -1,1 +1,3460 @@
-{"id":"hyundai","name":"Hyundai","name_ru":"Хёндэ","country":"KR","models":[{"id":"hyundai_accent","name":"Accent","body_type":"sedan","powertrain":"ice","generations":[{"id":"hyundai_accent__accent_2017_2017","name":"Accent 2017-н.в.","ys":2017,"ye":null,"body_type":"sedan","dimensions":{"length_mm":4370,"width_mm":1700,"height_mm":1475,"wheelbase_mm":2578,"ground_clearance_mm":140,"trunk_volume_l":388,"fuel_tank_l":45,"doors":4,"seats":5,"wheelbase_estimated":true,"wheelbase_mm_original_error":3556},"trims":[{"name":"1.6L 6AT (132 HP)","engine":{"type":"petrol","aspiration":"direct injection","displacement_cc":1591,"cylinders":4,"power_hp":132,"power_kw":96,"torque_nm":161,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":7.3,"fuel_consumption_city_l100km":8.4,"fuel_consumption_highway_l100km":6.2,"power_hp":132,"power_kw":96}},{"name":"1.6L 6MT (132 HP)","engine":{"type":"petrol","aspiration":"direct injection","displacement_cc":1591,"cylinders":4,"power_hp":132,"power_kw":96,"torque_nm":161,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":7.4,"fuel_consumption_city_l100km":8.4,"fuel_consumption_highway_l100km":6.4,"power_hp":132,"power_kw":96}},{"name":"1.6L 6AT (120 HP)","engine":{"type":"petrol","aspiration":"direct injection","displacement_cc":1598,"cylinders":4,"power_hp":120,"power_kw":88,"torque_nm":153,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":7,"fuel_consumption_city_l100km":8.1,"fuel_consumption_highway_l100km":6,"power_hp":120,"power_kw":88}}]}]},{"id":"hyundai_creta","name":"Creta","body_type":"suv","powertrain":"ice","generations":[{"id":"hyundai_creta__creta_ii_suv_2020_2020","name":"Creta I 2020-2024","ys":2020,"ye":2024,"body_type":"suv","dimensions":{"length_mm":4300,"width_mm":1790,"height_mm":1635,"wheelbase_mm":2537,"ground_clearance_mm":200,"trunk_volume_l":402,"trunk_volume_max_l":402,"gross_weight_kg":1790,"doors":5,"seats":5,"wheelbase_estimated":true,"wheelbase_mm_original_error":4826,"fuel_tank_l":50,"curb_weight_kg":1335},"trims":[{"name":"1.6L CVT (123 HP)","engine":{"type":"petrol","aspiration":"NA","displacement_cc":1591,"cylinders":4,"power_hp":123,"power_kw":91,"torque_nm":151,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"top_speed_kmh":177,"acceleration_0_100_s":12.7,"fuel_consumption_combined_l100km":7}},{"name":"2.0L 6AT (149 HP) AWD","engine":{"type":"petrol","aspiration":"NA","displacement_cc":1999,"cylinders":4,"power_hp":149,"power_kw":110,"torque_nm":179,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"awd","performance":{"top_speed_kmh":182,"acceleration_0_100_s":11,"fuel_consumption_combined_l100km":8.7}},{"name":"1.5L 6MT (115 HP)","engine":{"type":"petrol","displacement_cc":1497,"power_hp":115,"torque_nm":144,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"power_hp":115}},{"name":"1.5L CVT (115 HP)","engine":{"type":"petrol","displacement_cc":1497,"power_hp":115,"torque_nm":144,"fuel_type":"petrol"},"transmission":{"type":"cvt","gears":1},"drivetrain":"fwd","performance":{"power_hp":115}},{"name":"1.5L 7DCT (160 HP)","engine":{"type":"petrol","displacement_cc":1482,"power_hp":160,"torque_nm":253,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"fwd","performance":{"power_hp":160}},{"name":"1.5L 6MT (116 HP)","engine":{"type":"diesel","displacement_cc":1493,"power_hp":116,"torque_nm":250,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"power_hp":116}},{"name":"1.5L 6AT (116 HP)","engine":{"type":"diesel","displacement_cc":1493,"power_hp":116,"torque_nm":250,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"fwd","performance":{"power_hp":116}}]},{"id":"hyundai_creta__creta_ii_facelift_2024_suv_2024","name":"Creta II 2024-н.в.","ys":2024,"ye":null,"body_type":"suv","dimensions":{"length_mm":4300,"width_mm":1790,"height_mm":1655,"wheelbase_mm":2610,"ground_clearance_mm":200,"trunk_volume_l":433,"fuel_tank_l":50,"doors":5,"seats":5},"trims":[{"name":"1.6L CVT (123 HP)","engine":{"type":"petrol","aspiration":"NA","displacement_cc":1591,"cylinders":4,"power_hp":123,"power_kw":91,"torque_nm":151,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"top_speed_kmh":177,"acceleration_0_100_s":12.7,"fuel_consumption_combined_l100km":7}},{"name":"2.0L 6AT (149 HP) AWD","engine":{"type":"petrol","aspiration":"NA","displacement_cc":1999,"cylinders":4,"power_hp":149,"power_kw":110,"torque_nm":179,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"awd","performance":{"top_speed_kmh":182,"acceleration_0_100_s":11,"fuel_consumption_combined_l100km":8.7}},{"name":"1.5L 6MT (115 HP)","engine":{"type":"petrol","displacement_cc":1497,"power_hp":115,"torque_nm":144,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"power_hp":115}},{"name":"1.5L CVT (115 HP)","engine":{"type":"petrol","displacement_cc":1497,"power_hp":115,"torque_nm":144,"fuel_type":"petrol"},"transmission":{"type":"cvt","gears":1},"drivetrain":"fwd","performance":{"power_hp":115}},{"name":"1.5L 7DCT (160 HP)","engine":{"type":"petrol","displacement_cc":1482,"power_hp":160,"torque_nm":253,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"fwd","performance":{"power_hp":160}},{"name":"1.5L 6MT (116 HP)","engine":{"type":"diesel","displacement_cc":1493,"power_hp":116,"torque_nm":250,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"power_hp":116}},{"name":"1.5L 6MT (115 HP)","engine":{"type":"petrol","displacement_cc":1497,"power_hp":115,"torque_nm":144,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"power_hp":115}},{"name":"1.5L 7DCT (160 HP)","engine":{"type":"petrol","displacement_cc":1482,"power_hp":160,"torque_nm":253,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"fwd","performance":{"power_hp":160}},{"name":"1.5L 6AT (116 HP)","engine":{"type":"diesel","displacement_cc":1493,"power_hp":116,"torque_nm":250,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"fwd","performance":{"power_hp":116}}]},{"id":"hyundai__creta_2nd_gen__creta_2nd_gen_0","name":"Creta III","ys":null,"ye":null,"body_type":"suv","dimensions":{"length_mm":4300,"width_mm":1790,"height_mm":1635,"wheelbase_mm":2610},"trims":[{"name":"1.5L 6MT (115 HP)","engine":{"type":"petrol","displacement_cc":1497,"power_hp":115,"torque_nm":144,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"power_hp":115}},{"name":"1.5L CVT (115 HP)","engine":{"type":"petrol","displacement_cc":1497,"power_hp":115,"torque_nm":144,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"power_hp":115}},{"name":"1.5L 7DCT (160 HP)","engine":{"type":"petrol","displacement_cc":1482,"power_hp":160,"torque_nm":253,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"fwd","performance":{"power_hp":160}},{"name":"1.5L 6MT (115 HP)","engine":{"type":"diesel","displacement_cc":1493,"power_hp":115,"torque_nm":250,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"power_hp":115}},{"name":"1.5L 6AT (115 HP)","engine":{"type":"diesel","displacement_cc":1493,"power_hp":115,"torque_nm":250,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"fwd","performance":{"power_hp":115}}]}]},{"id":"hyundai_elantra","name":"Elantra","body_type":"sedan","powertrain":"ice","generations":[{"id":"hyundai_elantra_5_doors__elantra_5_doors_2003_2006_2003","name":"Elantra I 2003-2006","ys":2003,"ye":2006,"body_type":"sedan","dimensions":{"length_mm":4496,"width_mm":1720,"height_mm":1425,"wheelbase_mm":2611,"fuel_tank_l":54,"curb_weight_kg":1253},"trims":[{"name":"1.5L 5MT (103 HP)","engine":{"type":"petrol","aspiration":"electronic injection","displacement_cc":1495,"cylinders":4,"power_hp":103,"power_kw":76,"torque_nm":136,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":189,"acceleration_0_100_s":11}},{"name":"1.6L 5MT (107 HP)","engine":{"type":"petrol","aspiration":"electronic injection","displacement_cc":1599,"cylinders":4,"power_hp":107,"power_kw":79,"torque_nm":143,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":182,"acceleration_0_100_s":11,"fuel_consumption_combined_l100km":7.8,"fuel_consumption_city_l100km":9.4,"fuel_consumption_highway_l100km":6.2}},{"name":"1.8L 5MT (132 HP)","engine":{"type":"petrol","aspiration":"electronic injection","displacement_cc":1796,"cylinders":4,"power_hp":132,"power_kw":97,"torque_nm":166,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":199,"acceleration_0_100_s":9.7}},{"name":"2.0L 5MT (141 HP)","engine":{"type":"petrol","aspiration":"electronic injection","displacement_cc":1975,"cylinders":4,"power_hp":141,"power_kw":104,"torque_nm":182,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":206,"acceleration_0_100_s":9.1,"fuel_consumption_combined_l100km":8.8,"fuel_consumption_city_l100km":11.1,"fuel_consumption_highway_l100km":6.5}},{"name":"2.0L 5MT (111 HP)","engine":{"type":"petrol","aspiration":"electronic injection","displacement_cc":1991,"cylinders":4,"power_hp":111,"power_kw":82,"torque_nm":235,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":187,"acceleration_0_100_s":11.7,"fuel_consumption_combined_l100km":6.8,"fuel_consumption_city_l100km":8.6,"fuel_consumption_highway_l100km":5.1}}]},{"id":"hyundai_elantra_touring__elantra_touring_2009_2012_2009","name":"Elantra II 2009-2012","ys":2009,"ye":2012,"body_type":"wagon","dimensions":{"length_mm":4486,"width_mm":1765,"height_mm":1519,"wheelbase_mm":2700,"ground_clearance_mm":155,"curb_weight_kg":1347,"doors":5,"seats":5},"trims":[{"name":"2.0L 4AT (9 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1975,"cylinders":4,"power_hp":9,"power_kw":102,"torque_nm":186,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":4},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":9,"fuel_consumption_city_l100km":10.2,"fuel_consumption_highway_l100km":7.8,"power_hp":9,"power_kw":102}},{"name":"2.0L 5MT (9 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1975,"cylinders":4,"power_hp":9,"power_kw":102,"torque_nm":186,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":8.9,"fuel_consumption_city_l100km":10.2,"fuel_consumption_highway_l100km":7.6,"power_hp":9,"power_kw":102}}]},{"id":"hyundai_elantra__elantra_2014_2016_2014","name":"Elantra III 2012-2016","ys":2012,"ye":2016,"body_type":"sedan","dimensions":{"length_mm":4539,"width_mm":1775,"height_mm":1435,"wheelbase_mm":2700,"ground_clearance_mm":120,"curb_weight_kg":1238,"doors":2,"seats":4,"fuel_tank_l":50},"trims":[{"name":"1.8L 6AT (150 HP)","engine":{"type":"petrol","aspiration":"direct injection","displacement_cc":1797,"cylinders":4,"power_hp":150,"power_kw":110,"torque_nm":178,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"fwd","performance":{"acceleration_0_100_s":9.1,"fuel_consumption_combined_l100km":7.5,"fuel_consumption_city_l100km":8.7,"fuel_consumption_highway_l100km":6.4}},{"name":"1.8L 6MT (148 HP)","engine":{"type":"petrol","aspiration":"direct injection","displacement_cc":1797,"cylinders":4,"power_hp":148,"power_kw":110,"torque_nm":178,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"acceleration_0_100_s":9.3,"fuel_consumption_combined_l100km":7.3,"fuel_consumption_city_l100km":8.4,"fuel_consumption_highway_l100km":6.2}},{"name":"1.8L 6AT (147 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1797,"cylinders":4,"power_hp":147,"power_kw":108,"torque_nm":176,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":7.5,"fuel_consumption_city_l100km":8.7,"fuel_consumption_highway_l100km":6.4,"power_hp":147,"power_kw":108}},{"name":"1.8L 6MT (147 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1797,"cylinders":4,"power_hp":147,"power_kw":108,"torque_nm":176,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":7.5,"fuel_consumption_city_l100km":8.7,"fuel_consumption_highway_l100km":6.4,"power_hp":147,"power_kw":108}},{"name":"2.0L 6AT (168 HP)","engine":{"type":"petrol","aspiration":"direct injection","displacement_cc":1999,"cylinders":4,"power_hp":168,"power_kw":123,"torque_nm":201,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":8.1,"fuel_consumption_city_l100km":9.4,"fuel_consumption_highway_l100km":6.7,"power_hp":168,"power_kw":123}},{"name":"2.0L 6AT (175 HP)","engine":{"type":"petrol","aspiration":"direct injection","displacement_cc":1999,"cylinders":4,"power_hp":175,"power_kw":129,"torque_nm":209,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":8.1,"fuel_consumption_city_l100km":9.4,"fuel_consumption_highway_l100km":6.7,"power_hp":175,"power_kw":129}},{"name":"2.0L 6MT (168 HP)","engine":{"type":"petrol","aspiration":"direct injection","displacement_cc":1999,"cylinders":4,"power_hp":168,"power_kw":123,"torque_nm":201,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":8.4,"fuel_consumption_city_l100km":9.8,"fuel_consumption_highway_l100km":6.9,"power_hp":168,"power_kw":123}},{"name":"2.0L 6MT (175 HP)","engine":{"type":"petrol","aspiration":"direct injection","displacement_cc":1999,"cylinders":4,"power_hp":175,"power_kw":129,"torque_nm":209,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":8.4,"fuel_consumption_city_l100km":9.8,"fuel_consumption_highway_l100km":6.9,"power_hp":175,"power_kw":129}}]},{"id":"hyundai_elantra__elantra_2018_2018","name":"Elantra IV 2018-2025","ys":2018,"ye":2025,"body_type":"sedan","dimensions":{"length_mm":4710,"width_mm":1825,"height_mm":1420,"ground_clearance_mm":140,"trunk_volume_l":402,"curb_weight_kg":1275,"doors":4,"seats":5,"trunk_volume_max_l":402,"gross_weight_kg":1895},"trims":[{"name":"1.6L (122 HP)","engine":{"type":"petrol","displacement_cc":1598,"cylinders":4,"power_hp":122,"power_kw":90,"fuel_type":"petrol"},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":6.7,"co2_emissions_gkm":138,"fuel_consumption_standard":"WLTP"}},{"name":"1.6L (131 HP)","engine":{"type":"petrol","displacement_cc":1598,"cylinders":4,"power_hp":131,"power_kw":96,"fuel_type":"petrol"},"drivetrain":"fwd","performance":{"fuel_consumption_standard":"WLTP"}},{"name":"1.6L CVT (123 HP)","engine":{"type":"petrol","aspiration":"NA","displacement_cc":1591,"cylinders":4,"power_hp":123,"power_kw":91,"torque_nm":151,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"top_speed_kmh":181,"acceleration_0_100_s":12.6,"fuel_consumption_combined_l100km":6.6}},{"name":"2.0L 6AT (150 HP)","engine":{"type":"petrol","aspiration":"NA","displacement_cc":1999,"cylinders":4,"power_hp":150,"power_kw":110,"torque_nm":192,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":195,"acceleration_0_100_s":10.3,"fuel_consumption_combined_l100km":7.6}},{"name":"2.0L CVT (150 HP)","engine":{"type":"petrol","displacement_cc":1999,"power_hp":150,"torque_nm":192,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"power_hp":150}},{"name":"1.6L 7DCT (201 HP)","engine":{"type":"petrol","displacement_cc":1598,"power_hp":201,"torque_nm":265,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"fwd","performance":{"power_hp":201}},{"name":"2.0L 8DCT (276 HP)","engine":{"type":"petrol","displacement_cc":1998,"power_hp":276,"torque_nm":392,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":8},"drivetrain":"fwd","performance":{"power_hp":276}},{"name":"2.0L CVT (147 HP)","engine":{"type":"petrol","displacement_cc":1999,"power_hp":147,"torque_nm":179,"fuel_type":"petrol"},"transmission":{"type":"cvt","gears":1},"drivetrain":"fwd","performance":{"power_hp":147}},{"name":"2.0L 8DCT (280 HP)","engine":{"type":"petrol","displacement_cc":1998,"power_hp":280,"torque_nm":392,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":8},"drivetrain":"fwd","performance":{"power_hp":280}}]},{"id":"hyundai_elantra__elantra_vii_cn7_sedan_2021_2021","name":"Elantra V 2021-2023","ys":2021,"ye":2023,"body_type":"sedan","dimensions":{"length_mm":4539,"width_mm":1775,"height_mm":1430,"ground_clearance_mm":140,"trunk_volume_l":402,"trunk_volume_max_l":402,"curb_weight_kg":1495,"gross_weight_kg":1895,"doors":4,"seats":5},"trims":[{"name":"1.6L (122 HP)","engine":{"type":"petrol","displacement_cc":1598,"cylinders":4,"power_hp":122,"power_kw":90,"fuel_type":"petrol"},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":6.7,"co2_emissions_gkm":138,"fuel_consumption_standard":"WLTP"}}]}]},{"id":"hyundai_palisade","name":"Palisade","body_type":"suv","powertrain":"ice","generations":[{"id":"hyundai_palisade__palisade_i_suv_2020_2018","name":"Palisade I 2018-2022","ys":2018,"ye":2022,"body_type":"suv","dimensions":{"length_mm":4980,"width_mm":1975,"height_mm":1750,"wheelbase_mm":2900,"ground_clearance_mm":200,"trunk_volume_l":509,"fuel_tank_l":71,"curb_weight_kg":1942,"gross_weight_kg":2690,"doors":5,"seats":8},"trims":[{"name":"3.5L 8AT (277 HP) AWD","engine":{"type":"petrol","aspiration":"naturally_aspirated","displacement_cc":3470,"cylinders":6,"cylinder_layout":"V","power_hp":277,"power_kw":203,"torque_nm":335,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"top_speed_kmh":209,"acceleration_0_100_s":8.1,"fuel_consumption_combined_l100km":11.5,"fuel_consumption_city_l100km":14.9,"fuel_consumption_highway_l100km":8.1}},{"name":"3.5L 8AT (277 HP)","engine":{"type":"petrol","aspiration":"naturally_aspirated","displacement_cc":3470,"cylinders":6,"cylinder_layout":"V","power_hp":277,"power_kw":203,"torque_nm":335,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"top_speed_kmh":209,"acceleration_0_100_s":8.2,"fuel_consumption_combined_l100km":10.8,"fuel_consumption_city_l100km":14.2,"fuel_consumption_highway_l100km":7.3}},{"name":"3.5L 8AT (277 HP) AWD","engine":{"type":"petrol","aspiration":"naturally_aspirated","displacement_cc":3470,"cylinders":6,"cylinder_layout":"V","power_hp":277,"power_kw":203,"torque_nm":335,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"top_speed_kmh":209,"acceleration_0_100_s":8.1,"fuel_consumption_combined_l100km":11.2,"fuel_consumption_city_l100km":14.4,"fuel_consumption_highway_l100km":8.1}},{"name":"3.8L 8AT (291 HP)","engine":{"type":"petrol","aspiration":"direct injection","displacement_cc":3778,"cylinders":6,"cylinder_layout":"V","power_hp":291,"power_kw":214,"torque_nm":262,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"top_speed_kmh":209,"acceleration_0_100_s":7.8,"fuel_consumption_combined_l100km":11.5,"fuel_consumption_city_l100km":14.9,"fuel_consumption_highway_l100km":8.1}},{"name":"2.2L 8AT (193 HP) AWD","engine":{"type":"diesel","aspiration":"turbocharged","displacement_cc":2199,"power_hp":193,"power_kw":142,"torque_nm":441,"fuel_type":"diesel"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"top_speed_kmh":190,"acceleration_0_100_s":10.5,"fuel_consumption_combined_l100km":7.9,"fuel_consumption_city_l100km":9.6,"fuel_consumption_highway_l100km":6.3}},{"name":"2.2L 8AT (200 HP) AWD","engine":{"type":"diesel","aspiration":"turbocharged","displacement_cc":2199,"power_hp":200,"power_kw":147,"torque_nm":441,"fuel_type":"diesel"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"top_speed_kmh":190,"acceleration_0_100_s":10.5,"fuel_consumption_combined_l100km":7.9,"fuel_consumption_city_l100km":9.6,"fuel_consumption_highway_l100km":6.3}},{"name":"2.2L 8AT (193 HP)","engine":{"type":"diesel","aspiration":"turbocharged","displacement_cc":2199,"power_hp":193,"power_kw":142,"torque_nm":441,"fuel_type":"diesel"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"top_speed_kmh":190,"acceleration_0_100_s":10.2,"fuel_consumption_combined_l100km":7.3,"fuel_consumption_city_l100km":9.1,"fuel_consumption_highway_l100km":5.6}},{"name":"2.2L 8AT (200 HP)","engine":{"type":"diesel","aspiration":"turbocharged","displacement_cc":2199,"power_hp":200,"power_kw":147,"torque_nm":441,"fuel_type":"diesel"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"top_speed_kmh":190,"acceleration_0_100_s":10.2,"fuel_consumption_combined_l100km":7.3,"fuel_consumption_city_l100km":9.1,"fuel_consumption_highway_l100km":5.6}},{"name":"8AT (291 HP) AWD","engine":{"type":"petrol","aspiration":"direct injection","cylinders":6,"cylinder_layout":"V","power_hp":291,"power_kw":214,"torque_nm":355,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"power_hp":291,"power_kw":214}},{"name":"3.8L 8AT (295 HP) AWD","engine":{"type":"petrol","aspiration":"NA","displacement_cc":3778,"cylinders":6,"power_hp":295,"power_kw":217,"torque_nm":355,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"top_speed_kmh":210,"acceleration_0_100_s":7.7,"fuel_consumption_combined_l100km":11.2,"fuel_consumption_city_l100km":14.4,"fuel_consumption_highway_l100km":8.1}}]},{"id":"hyundai_palisade__palisade_2021_2021","name":"Palisade II 2021-2025","ys":2021,"ye":2025,"body_type":"suv","dimensions":{"length_mm":4980,"width_mm":1975,"height_mm":1750,"wheelbase_mm":2900,"ground_clearance_mm":200,"trunk_volume_l":509,"fuel_tank_l":71,"curb_weight_kg":1975,"doors":5,"seats":8},"trims":[{"name":"2.5L 8AT (223 HP)","engine":{"type":"petrol","displacement_cc":2500,"power_hp":223,"power_kw":164,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"fuel_consumption_standard":"WLTP"}},{"name":"2.5L 8AT (194 HP)","engine":{"type":"petrol","displacement_cc":2500,"power_hp":194,"power_kw":143,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"fuel_consumption_standard":"WLTP"}},{"name":"3.8L 8AT (295 HP)","engine":{"type":"petrol","displacement_cc":3778,"cylinders":8,"power_hp":295,"power_kw":217,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"fuel_consumption_standard":"WLTP"}}]},{"id":"hyundai_palisade__palisade_ii_suv_2026_2025","name":"Palisade III 2025-2025","ys":2025,"ye":2025,"body_type":"suv","dimensions":{"length_mm":4981,"width_mm":1976,"height_mm":1750,"wheelbase_mm":2901,"ground_clearance_mm":200,"trunk_volume_l":541,"trunk_volume_max_l":541,"curb_weight_kg":2010,"gross_weight_kg":2663,"doors":5,"seats":5},"trims":[{"name":"3.5L 8AT (277 HP) AWD","engine":{"type":"petrol","aspiration":"naturally_aspirated","displacement_cc":3470,"cylinders":6,"cylinder_layout":"V","power_hp":277,"power_kw":203,"torque_nm":335,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"top_speed_kmh":209,"acceleration_0_100_s":8.1,"fuel_consumption_combined_l100km":11.5,"fuel_consumption_city_l100km":14.9,"fuel_consumption_highway_l100km":8.1}},{"name":"3.5L 8AT (277 HP)","engine":{"type":"petrol","aspiration":"naturally_aspirated","displacement_cc":3470,"cylinders":6,"cylinder_layout":"V","power_hp":277,"power_kw":203,"torque_nm":335,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"top_speed_kmh":209,"acceleration_0_100_s":8.2,"fuel_consumption_combined_l100km":10.8,"fuel_consumption_city_l100km":14.2,"fuel_consumption_highway_l100km":7.3}},{"name":"3.5L 8AT (277 HP) AWD","engine":{"type":"petrol","aspiration":"naturally_aspirated","displacement_cc":3470,"cylinders":6,"cylinder_layout":"V","power_hp":277,"power_kw":203,"torque_nm":335,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"top_speed_kmh":209,"acceleration_0_100_s":8.1,"fuel_consumption_combined_l100km":11.2,"fuel_consumption_city_l100km":14.4,"fuel_consumption_highway_l100km":8.1}},{"name":"3.8L 8AT (291 HP)","engine":{"type":"petrol","aspiration":"direct injection","displacement_cc":3778,"cylinders":6,"cylinder_layout":"V","power_hp":291,"power_kw":214,"torque_nm":262,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"top_speed_kmh":209,"acceleration_0_100_s":7.8,"fuel_consumption_combined_l100km":11.5,"fuel_consumption_city_l100km":14.9,"fuel_consumption_highway_l100km":8.1}},{"name":"2.2L 8AT (193 HP) AWD","engine":{"type":"diesel","aspiration":"turbocharged","displacement_cc":2199,"power_hp":193,"power_kw":142,"torque_nm":441,"fuel_type":"diesel"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"top_speed_kmh":190,"acceleration_0_100_s":10.5,"fuel_consumption_combined_l100km":7.9,"fuel_consumption_city_l100km":9.6,"fuel_consumption_highway_l100km":6.3}},{"name":"2.2L 8AT (200 HP) AWD","engine":{"type":"diesel","aspiration":"turbocharged","displacement_cc":2199,"power_hp":200,"power_kw":147,"torque_nm":441,"fuel_type":"diesel"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"top_speed_kmh":190,"acceleration_0_100_s":10.5,"fuel_consumption_combined_l100km":7.9,"fuel_consumption_city_l100km":9.6,"fuel_consumption_highway_l100km":6.3}},{"name":"2.2L 8AT (193 HP)","engine":{"type":"diesel","aspiration":"turbocharged","displacement_cc":2199,"power_hp":193,"power_kw":142,"torque_nm":441,"fuel_type":"diesel"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"top_speed_kmh":190,"acceleration_0_100_s":10.2,"fuel_consumption_combined_l100km":7.3,"fuel_consumption_city_l100km":9.1,"fuel_consumption_highway_l100km":5.6}},{"name":"2.2L 8AT (200 HP)","engine":{"type":"diesel","aspiration":"turbocharged","displacement_cc":2199,"power_hp":200,"power_kw":147,"torque_nm":441,"fuel_type":"diesel"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"top_speed_kmh":190,"acceleration_0_100_s":10.2,"fuel_consumption_combined_l100km":7.3,"fuel_consumption_city_l100km":9.1,"fuel_consumption_highway_l100km":5.6}},{"name":"8AT (291 HP) AWD","engine":{"type":"petrol","aspiration":"direct injection","cylinders":6,"cylinder_layout":"V","power_hp":291,"power_kw":214,"torque_nm":355,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"power_hp":291,"power_kw":214}},{"name":"3.8L 8AT (295 HP) AWD","engine":{"type":"petrol","aspiration":"NA","displacement_cc":3778,"cylinders":6,"power_hp":295,"power_kw":217,"torque_nm":355,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"top_speed_kmh":210,"acceleration_0_100_s":7.7,"fuel_consumption_combined_l100km":11.2,"fuel_consumption_city_l100km":14.4,"fuel_consumption_highway_l100km":8.1}}]}]},{"id":"hyundai_santa_fe","name":"Santa Fe","body_type":"suv","powertrain":"ice","generations":[{"id":"hyundai_santa_fe__santa_fe_2018_2020_2018","name":"Santa Fe I 2018-2025","ys":2018,"ye":2025,"body_type":"suv","dimensions":{"length_mm":4770,"width_mm":1890,"height_mm":1680,"wheelbase_mm":2765,"ground_clearance_mm":185,"trunk_volume_l":625,"fuel_tank_l":65,"curb_weight_kg":1870,"doors":5,"seats":7,"trunk_volume_max_l":634,"gross_weight_kg":2690,"wheelbase_estimated":true,"wheelbase_mm_original_error":5080},"trims":[{"name":"2.2L 8AT (192 HP)","engine":{"type":"diesel","displacement_cc":2151,"power_hp":192,"power_kw":141,"fuel_type":"diesel"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":6.6,"co2_emissions_gkm":172,"fuel_consumption_standard":"WLTP"}},{"name":"1.6L 8AT (162 HP)","engine":{"type":"petrol","displacement_cc":1598,"cylinders":4,"power_hp":162,"power_kw":119,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":6.9,"co2_emissions_gkm":161,"fuel_consumption_standard":"WLTP"}},{"name":"1.6L 8AT (165 HP) Hybrid","engine":{"type":"hybrid_petrol","displacement_cc":1598,"cylinders":4,"power_hp":165,"power_kw":121,"fuel_type":"hybrid_petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":1.9,"co2_emissions_gkm":39,"fuel_consumption_standard":"WLTP"}},{"name":"2.0L 5MT (135 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1997,"cylinders":4,"power_hp":135,"power_kw":99,"torque_nm":183,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":174,"acceleration_0_100_s":12.2,"fuel_consumption_combined_l100km":10.3,"fuel_consumption_city_l100km":13.1,"fuel_consumption_highway_l100km":7.6}},{"name":"2.4L 5MT (145 HP) AWD","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":2351,"power_hp":145,"power_kw":107,"torque_nm":204,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"awd","performance":{"top_speed_kmh":173,"acceleration_0_100_s":11.4,"fuel_consumption_combined_l100km":10.4,"fuel_consumption_city_l100km":13.1,"fuel_consumption_highway_l100km":7.8}},{"name":"2.7L 4AT (179 HP) AWD","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":2656,"cylinders":6,"cylinder_layout":"V","power_hp":179,"power_kw":132,"torque_nm":255,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":4},"drivetrain":"awd","performance":{"top_speed_kmh":182,"acceleration_0_100_s":11.6,"fuel_consumption_combined_l100km":12.2,"fuel_consumption_city_l100km":14.9,"fuel_consumption_highway_l100km":9.4}},{"name":"2.0L 5MT (111 HP)","engine":{"type":"diesel","aspiration":"common rail","displacement_cc":1991,"cylinders":4,"power_hp":111,"power_kw":82,"torque_nm":255,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":167,"acceleration_0_100_s":13.7,"fuel_consumption_combined_l100km":8.2,"fuel_consumption_city_l100km":10,"fuel_consumption_highway_l100km":6.3}},{"name":"2.0L 5MT (125 HP) AWD","engine":{"type":"diesel","aspiration":"common rail","displacement_cc":1991,"cylinders":4,"power_hp":125,"power_kw":92,"torque_nm":285,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":5},"drivetrain":"awd","performance":{"top_speed_kmh":172,"acceleration_0_100_s":13,"fuel_consumption_combined_l100km":7.9,"fuel_consumption_city_l100km":9.4,"fuel_consumption_highway_l100km":6.4}},{"name":"2.7L 5MT (192 HP)","engine":{"type":"petrol","aspiration":"electronic injection","displacement_cc":2656,"cylinders":6,"cylinder_layout":"V","power_hp":192,"power_kw":141,"torque_nm":250,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"power_hp":192,"power_kw":141}},{"name":"3.3L 5AT (234 HP)","engine":{"type":"petrol","aspiration":"electronic injection","displacement_cc":3342,"cylinders":6,"cylinder_layout":"V","power_hp":234,"power_kw":172,"torque_nm":304,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":5},"drivetrain":"fwd","performance":{"power_hp":234,"power_kw":172}}]},{"id":"hyundai_hyundai_santa_fe__hyundai_santa_fe_2023_2023","name":"Santa Fe II 2023-2024","ys":2023,"ye":2024,"body_type":"suv","dimensions":{"length_mm":4785,"width_mm":1900,"height_mm":1710,"wheelbase_mm":2823,"ground_clearance_mm":200,"trunk_volume_l":571,"curb_weight_kg":2040,"doors":5,"seats":5,"wheelbase_estimated":true,"wheelbase_mm_original_error":5080},"trims":[{"name":"1.6L 8AT (179 HP)","engine":{"type":"petrol","displacement_cc":1598,"cylinders":4,"power_hp":179,"power_kw":132,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":7.2,"co2_emissions_gkm":164,"fuel_consumption_standard":"WLTP"}},{"name":"1.6L 8AT (179 HP) Hybrid","engine":{"type":"hybrid_petrol","displacement_cc":1598,"cylinders":4,"power_hp":179,"power_kw":132,"fuel_type":"hybrid_petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":1.6,"co2_emissions_gkm":37,"fuel_consumption_standard":"WLTP"}},{"name":"2.2L 8AT (193 HP)","engine":{"type":"diesel","displacement_cc":2151,"power_hp":193,"power_kw":142,"fuel_type":"diesel"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":6.4,"co2_emissions_gkm":167,"fuel_consumption_standard":"WLTP"}},{"name":"1.6L 8AT (165 HP) Hybrid","engine":{"type":"hybrid_petrol","displacement_cc":1598,"cylinders":4,"power_hp":165,"power_kw":121,"fuel_type":"hybrid_petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":1.5,"co2_emissions_gkm":28,"fuel_consumption_standard":"WLTP"}}]},{"id":"hyundai__santa_fe_tm__santa_fe_tm_0","name":"Santa Fe III","ys":null,"ye":null,"body_type":"suv","dimensions":{"length_mm":4770,"width_mm":1890,"height_mm":1680,"wheelbase_mm":2765},"trims":[{"name":"2.4L 6AT (185 HP)","engine":{"type":"petrol","displacement_cc":2359,"power_hp":185,"torque_nm":241,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"fwd","performance":{"power_hp":185}},{"name":"2.4L 6AT (185 HP) AWD","engine":{"type":"petrol","displacement_cc":2359,"power_hp":185,"torque_nm":241,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"awd","performance":{"power_hp":185}},{"name":"2.0L 8AT (235 HP) AWD","engine":{"type":"petrol","displacement_cc":1998,"power_hp":235,"torque_nm":353,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"power_hp":235}},{"name":"2.2L 8AT (200 HP) AWD","engine":{"type":"diesel","displacement_cc":2199,"power_hp":200,"torque_nm":440,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"power_hp":200}}]}]},{"id":"hyundai_matrix","name":"Matrix","body_type":"minivan","powertrain":"bev","generations":[{"id":"hyundai_matrix__matrix_minivan_2001_2001","name":"Matrix 2001-2010","ys":2001,"ye":2010,"body_type":"minivan","dimensions":{"length_mm":4025,"width_mm":1740,"height_mm":1635,"ground_clearance_mm":160,"trunk_volume_l":350,"trunk_volume_max_l":354,"fuel_tank_l":54,"curb_weight_kg":1370,"gross_weight_kg":1840,"doors":5,"seats":7},"trims":[{"name":"1.6L 4AT (103 HP)","engine":{"type":"petrol","aspiration":"electronic injection","displacement_cc":1599,"cylinders":4,"power_hp":103,"power_kw":76,"torque_nm":142,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":4},"drivetrain":"fwd","performance":{"top_speed_kmh":170,"acceleration_0_100_s":12.7,"fuel_consumption_combined_l100km":9.3,"fuel_consumption_city_l100km":11.4,"fuel_consumption_highway_l100km":7.3}},{"name":"1.6L 5MT (103 HP)","engine":{"type":"petrol","aspiration":"electronic injection","displacement_cc":1599,"cylinders":4,"power_hp":103,"power_kw":76,"torque_nm":142,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":170,"acceleration_0_100_s":12.7,"fuel_consumption_combined_l100km":7.7,"fuel_consumption_city_l100km":9.1,"fuel_consumption_highway_l100km":6.3}},{"name":"1.8L 4AT (122 HP)","engine":{"type":"petrol","aspiration":"electronic injection","displacement_cc":1795,"cylinders":4,"power_hp":122,"power_kw":90,"torque_nm":162,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":4},"drivetrain":"fwd","performance":{"top_speed_kmh":171,"acceleration_0_100_s":12.7,"fuel_consumption_combined_l100km":9.8,"fuel_consumption_city_l100km":12.5,"fuel_consumption_highway_l100km":7.2}},{"name":"1.8L 5MT (122 HP)","engine":{"type":"petrol","aspiration":"electronic injection","displacement_cc":1795,"cylinders":4,"power_hp":122,"power_kw":90,"torque_nm":162,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":184,"acceleration_0_100_s":11.3,"fuel_consumption_combined_l100km":8.8,"fuel_consumption_city_l100km":10.8,"fuel_consumption_highway_l100km":6.7}},{"name":"1.5L 5MT (102 HP)","engine":{"type":"diesel","aspiration":"direct injection","displacement_cc":1493,"cylinders":4,"power_hp":102,"power_kw":75,"torque_nm":235,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":164,"acceleration_0_100_s":14.3}},{"name":"1.5L 5MT (82 HP)","engine":{"type":"diesel","aspiration":"turbocharged","displacement_cc":1493,"cylinders":4,"power_hp":82,"power_kw":60,"torque_nm":187,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":158,"acceleration_0_100_s":14,"fuel_consumption_combined_l100km":5.8,"fuel_consumption_city_l100km":7,"fuel_consumption_highway_l100km":4.5}}]}]},{"id":"hyundai_solaris","name":"Solaris","body_type":"sedan","powertrain":"ice","generations":[{"id":"hyundai__solaris__solaris_ii_2017_2017","name":"Solaris 2017-н.в.","ys":2017,"ye":null,"body_type":"sedan","dimensions":{"length_mm":4370,"width_mm":1700,"height_mm":1470,"wheelbase_mm":2570,"ground_clearance_mm":160,"trunk_volume_l":480,"fuel_tank_l":50,"curb_weight_kg":1110,"doors":4,"seats":5},"trims":[{"name":"1.4L 6AT (100 HP)","engine":{"type":"petrol","aspiration":"NA","displacement_cc":1368,"cylinders":4,"power_hp":100,"power_kw":74,"torque_nm":132,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":175,"acceleration_0_100_s":13.1,"fuel_consumption_combined_l100km":6.6}},{"name":"1.6L 6AT (123 HP)","engine":{"type":"petrol","aspiration":"NA","displacement_cc":1591,"cylinders":4,"power_hp":123,"power_kw":91,"torque_nm":151,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":188,"acceleration_0_100_s":11.2,"fuel_consumption_combined_l100km":7}}]}]},{"id":"hyundai_sonata","name":"Sonata","body_type":"sedan","powertrain":"ice","generations":[{"id":"hyundai_sonata__sonata_viii_dn8_sedan_2020_2019","name":"Sonata 2019-2023","ys":2019,"ye":2023,"body_type":"sedan","dimensions":{"length_mm":4900,"width_mm":1859,"height_mm":1445,"wheelbase_mm":3429,"ground_clearance_mm":140,"trunk_volume_l":453,"trunk_volume_max_l":453,"fuel_tank_l":65,"curb_weight_kg":1611,"gross_weight_kg":2070,"doors":4,"seats":5},"trims":[{"name":"2.0L 6AT (150 HP)","engine":{"type":"petrol","aspiration":"NA","displacement_cc":1999,"cylinders":4,"power_hp":150,"power_kw":110,"torque_nm":191,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":195,"acceleration_0_100_s":11,"fuel_consumption_combined_l100km":7.6,"fuel_consumption_city_l100km":8.7,"fuel_consumption_highway_l100km":6.5}},{"name":"2.5L 8AT (191 HP)","engine":{"type":"petrol","aspiration":"NA","displacement_cc":2497,"cylinders":4,"power_hp":191,"power_kw":141,"torque_nm":246,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"top_speed_kmh":215,"acceleration_0_100_s":8.5,"fuel_consumption_combined_l100km":7.3,"fuel_consumption_city_l100km":8.4,"fuel_consumption_highway_l100km":6.2}},{"name":"2.0L 6AT (150 HP)","engine":{"type":"petrol","displacement_cc":1999,"power_hp":150,"torque_nm":192,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"fwd","performance":{"power_hp":150,"fuel_consumption_city_l100km":8.7,"fuel_consumption_highway_l100km":6.5,"fuel_consumption_combined_l100km":7.6}},{"name":"2.5L 8AT (191 HP)","engine":{"type":"petrol","displacement_cc":2497,"power_hp":191,"torque_nm":245,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"power_hp":191,"fuel_consumption_city_l100km":8.7,"fuel_consumption_highway_l100km":6.5,"fuel_consumption_combined_l100km":7.6}},{"name":"1.6L 8AT (180 HP)","engine":{"type":"petrol","displacement_cc":1598,"power_hp":180,"torque_nm":265,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"power_hp":180,"fuel_consumption_city_l100km":8.7,"fuel_consumption_highway_l100km":6.5,"fuel_consumption_combined_l100km":7.6}},{"name":"2.5L 8DCT (290 HP)","engine":{"type":"petrol","displacement_cc":2497,"power_hp":290,"torque_nm":422,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":8},"drivetrain":"fwd","performance":{"power_hp":290,"fuel_consumption_city_l100km":8.7,"fuel_consumption_highway_l100km":6.5,"fuel_consumption_combined_l100km":7.6}}]}]},{"id":"hyundai_tucson","name":"Tucson","body_type":"suv","powertrain":"ice","generations":[{"id":"hyundai_tucson__tucson_2018_2018","name":"Tucson I 2018-2025","ys":2018,"ye":2025,"body_type":"suv","dimensions":{"length_mm":4545,"width_mm":1850,"height_mm":1684,"wheelbase_mm":2681,"ground_clearance_mm":200,"trunk_volume_l":546,"curb_weight_kg":1879,"doors":5,"seats":5,"wheelbase_estimated":true,"wheelbase_mm_original_error":4623,"fuel_tank_l":62,"trunk_volume_max_l":1096,"gross_weight_kg":2420},"trims":[{"name":"1.6L 8AT (131 HP) AWD","engine":{"type":"diesel","displacement_cc":1598,"cylinders":4,"power_hp":131,"power_kw":96,"fuel_type":"diesel"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"fuel_consumption_combined_l100km":8.4,"fuel_consumption_city_l100km":9.4,"fuel_consumption_highway_l100km":7.4,"co2_emissions_gkm":138,"fuel_consumption_standard":"WLTP"}},{"name":"1.6L 8AT (162 HP) AWD","engine":{"type":"petrol","displacement_cc":1597,"cylinders":4,"power_hp":162,"power_kw":119,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"fuel_consumption_combined_l100km":8.4,"fuel_consumption_city_l100km":9.4,"fuel_consumption_highway_l100km":7.4,"co2_emissions_gkm":141,"fuel_consumption_standard":"WLTP"}},{"name":"1.6L 8AT (170 HP) Hybrid AWD","engine":{"type":"hybrid_petrol","displacement_cc":1598,"cylinders":4,"power_hp":170,"power_kw":125,"fuel_type":"hybrid_petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"fuel_consumption_combined_l100km":8.4,"fuel_consumption_city_l100km":9.4,"fuel_consumption_highway_l100km":7.4,"co2_emissions_gkm":29,"fuel_consumption_standard":"WLTP"}},{"name":"1.6L 8AT (136 HP)","engine":{"type":"diesel","displacement_cc":1598,"cylinders":4,"power_hp":136,"power_kw":100,"fuel_type":"diesel"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":8.4,"fuel_consumption_city_l100km":9.4,"fuel_consumption_highway_l100km":7.4,"co2_emissions_gkm":147,"fuel_consumption_standard":"WLTP"}},{"name":"1.6L 8AT (165 HP)","engine":{"type":"petrol","displacement_cc":1598,"cylinders":4,"power_hp":165,"power_kw":121,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":8.4,"fuel_consumption_city_l100km":9.4,"fuel_consumption_highway_l100km":7.4,"co2_emissions_gkm":153,"fuel_consumption_standard":"WLTP"}},{"name":"2.0L 6AT (150 HP)","engine":{"type":"petrol","aspiration":"NA","displacement_cc":1999,"cylinders":4,"power_hp":150,"power_kw":110,"torque_nm":192,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":183,"acceleration_0_100_s":11.3,"fuel_consumption_combined_l100km":8.6}},{"name":"2.0L 6AT (150 HP) AWD","engine":{"type":"petrol","aspiration":"NA","displacement_cc":1999,"cylinders":4,"power_hp":150,"power_kw":110,"torque_nm":192,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"awd","performance":{"top_speed_kmh":181,"acceleration_0_100_s":11.8,"fuel_consumption_combined_l100km":8.4,"fuel_consumption_city_l100km":9.4,"fuel_consumption_highway_l100km":7.4}},{"name":"1.6L 6AT (230 HP) Hybrid AWD","engine":{"type":"hybrid_petrol","aspiration":"turbocharged","displacement_cc":1598,"cylinders":4,"power_hp":230,"power_kw":169,"torque_nm":350,"fuel_type":"hybrid_petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"awd","performance":{"top_speed_kmh":193,"acceleration_0_100_s":8,"fuel_consumption_combined_l100km":6.3}},{"name":"2.0L 6AT (156 HP)","engine":{"type":"petrol","displacement_cc":1999,"power_hp":156,"torque_nm":192,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"fwd","performance":{"power_hp":156,"fuel_consumption_city_l100km":9.4,"fuel_consumption_highway_l100km":7.4,"fuel_consumption_combined_l100km":8.4}},{"name":"2.0L 6AT (156 HP) AWD","engine":{"type":"petrol","displacement_cc":1999,"power_hp":156,"torque_nm":192,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"awd","performance":{"power_hp":156,"fuel_consumption_city_l100km":9.4,"fuel_consumption_highway_l100km":7.4,"fuel_consumption_combined_l100km":8.4}}]},{"id":"hyundai__tucson__tucson_iv_nx4_2021_2021","name":"Tucson II 2021-2023","ys":2021,"ye":2023,"body_type":"suv","dimensions":{"length_mm":4630,"width_mm":1865,"height_mm":1665,"wheelbase_mm":2755,"ground_clearance_mm":182,"trunk_volume_l":539,"fuel_tank_l":54,"curb_weight_kg":1570,"doors":5,"seats":5,"trunk_volume_max_l":1096,"gross_weight_kg":2415},"trims":[{"name":"2.0L 6AT (150 HP)","engine":{"type":"petrol","aspiration":"NA","displacement_cc":1999,"cylinders":4,"power_hp":150,"power_kw":110,"torque_nm":192,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":183,"acceleration_0_100_s":11.3,"fuel_consumption_combined_l100km":8.6}},{"name":"2.0L 6AT (150 HP) AWD","engine":{"type":"petrol","aspiration":"NA","displacement_cc":1999,"cylinders":4,"power_hp":150,"power_kw":110,"torque_nm":192,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"awd","performance":{"top_speed_kmh":181,"acceleration_0_100_s":11.8,"fuel_consumption_combined_l100km":8.4,"fuel_consumption_city_l100km":9.4,"fuel_consumption_highway_l100km":7.4}},{"name":"1.6L 6AT (230 HP) Hybrid AWD","engine":{"type":"hybrid_petrol","aspiration":"turbocharged","displacement_cc":1598,"cylinders":4,"power_hp":230,"power_kw":169,"torque_nm":350,"fuel_type":"hybrid_petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"awd","performance":{"top_speed_kmh":193,"acceleration_0_100_s":8,"fuel_consumption_combined_l100km":6.3}},{"name":"2.0L 6AT (156 HP)","engine":{"type":"petrol","displacement_cc":1999,"power_hp":156,"torque_nm":192,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"fwd","performance":{"power_hp":156,"fuel_consumption_city_l100km":9.4,"fuel_consumption_highway_l100km":7.4,"fuel_consumption_combined_l100km":8.4}},{"name":"2.0L 6AT (156 HP) AWD","engine":{"type":"petrol","displacement_cc":1999,"power_hp":156,"torque_nm":192,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"awd","performance":{"power_hp":156,"fuel_consumption_city_l100km":9.4,"fuel_consumption_highway_l100km":7.4,"fuel_consumption_combined_l100km":8.4}},{"name":"1.6L 7DCT (180 HP)","engine":{"type":"petrol","displacement_cc":1598,"power_hp":180,"torque_nm":265,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"fwd","performance":{"power_hp":180,"fuel_consumption_city_l100km":9.4,"fuel_consumption_highway_l100km":7.4,"fuel_consumption_combined_l100km":8.4}},{"name":"1.6L 7DCT (180 HP) AWD","engine":{"type":"petrol","displacement_cc":1598,"power_hp":180,"torque_nm":265,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"awd","performance":{"power_hp":180,"top_speed_kmh":193,"acceleration_0_100_s":8.3}},{"name":"2.0L 8AT (186 HP) AWD","engine":{"type":"diesel","displacement_cc":1995,"power_hp":186,"torque_nm":416,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"power_hp":186,"top_speed_kmh":201,"acceleration_0_100_s":9.9,"fuel_consumption_city_l100km":5.4,"fuel_consumption_highway_l100km":5.1,"fuel_consumption_combined_l100km":5.2}},{"name":"2.5L 8AT (187 HP)","engine":{"type":"petrol","displacement_cc":2497,"power_hp":187,"torque_nm":241,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"power_hp":187,"fuel_consumption_city_l100km":9.4,"fuel_consumption_highway_l100km":7.4,"fuel_consumption_combined_l100km":8.4}},{"name":"1.6L 6AT (230 HP) Hybrid","engine":{"type":"hybrid_petrol","displacement_cc":1598,"power_hp":230,"torque_nm":350,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"fwd","performance":{"power_hp":230,"top_speed_kmh":203,"acceleration_0_100_s":9.2,"fuel_consumption_city_l100km":9.9,"fuel_consumption_highway_l100km":6.4,"fuel_consumption_combined_l100km":8.2}}]},{"id":"692_tucsonix35_2__tucsonix35_2024_2024","name":"Tucson III 2024-2024","ys":2024,"ye":2024,"body_type":"suv","dimensions":{"length_mm":4630,"width_mm":1865,"height_mm":1665,"wheelbase_mm":2755,"ground_clearance_mm":182,"trunk_volume_l":539,"fuel_tank_l":54,"curb_weight_kg":1891,"doors":5,"seats":5},"trims":[{"name":"1.6L 8AT (163 HP) AWD","engine":{"type":"petrol","displacement_cc":1598,"cylinders":4,"power_hp":163,"power_kw":120,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"fuel_consumption_combined_l100km":8.4,"fuel_consumption_city_l100km":9.4,"fuel_consumption_highway_l100km":7.4,"co2_emissions_gkm":107,"fuel_consumption_standard":"WLTP"}},{"name":"1.6L 8AT (174 HP) Hybrid AWD","engine":{"type":"hybrid_petrol","displacement_cc":1598,"cylinders":4,"power_hp":174,"power_kw":128,"fuel_type":"hybrid_petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"fuel_consumption_combined_l100km":8.4,"fuel_consumption_city_l100km":9.4,"fuel_consumption_highway_l100km":7.4,"co2_emissions_gkm":22,"fuel_consumption_standard":"WLTP"}},{"name":"1.6L 8AT (136 HP) AWD","engine":{"type":"diesel","displacement_cc":1598,"cylinders":4,"power_hp":136,"power_kw":100,"fuel_type":"diesel"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"fuel_consumption_combined_l100km":8.4,"fuel_consumption_city_l100km":9.4,"fuel_consumption_highway_l100km":7.4,"co2_emissions_gkm":103,"fuel_consumption_standard":"WLTP"}}]}]}]}
+{
+  "id": "hyundai",
+  "name": "Hyundai",
+  "name_ru": "Хёндэ",
+  "country": "KR",
+  "models": [
+    {
+      "id": "hyundai_accent",
+      "name": "Accent",
+      "body_type": "sedan",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "hyundai_accent__accent_2017_2017",
+          "name": "Accent 2017-н.в.",
+          "ys": 2017,
+          "ye": null,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 4370,
+            "width_mm": 1700,
+            "height_mm": 1475,
+            "wheelbase_mm": 2578,
+            "ground_clearance_mm": 140,
+            "trunk_volume_l": 388,
+            "fuel_tank_l": 45,
+            "doors": 4,
+            "seats": 5,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 3556
+          },
+          "trims": [
+            {
+              "name": "1.6L 6AT (132 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "direct injection",
+                "displacement_cc": 1591,
+                "cylinders": 4,
+                "power_hp": 132,
+                "power_kw": 96,
+                "torque_nm": 161,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 7.3,
+                "fuel_consumption_city_l100km": 8.4,
+                "fuel_consumption_highway_l100km": 6.2,
+                "power_hp": 132,
+                "power_kw": 96
+              }
+            },
+            {
+              "name": "1.6L 6MT (132 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "direct injection",
+                "displacement_cc": 1591,
+                "cylinders": 4,
+                "power_hp": 132,
+                "power_kw": 96,
+                "torque_nm": 161,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 7.4,
+                "fuel_consumption_city_l100km": 8.4,
+                "fuel_consumption_highway_l100km": 6.4,
+                "power_hp": 132,
+                "power_kw": 96
+              }
+            },
+            {
+              "name": "1.6L 6AT (120 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "direct injection",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 120,
+                "power_kw": 88,
+                "torque_nm": 153,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 7,
+                "fuel_consumption_city_l100km": 8.1,
+                "fuel_consumption_highway_l100km": 6,
+                "power_hp": 120,
+                "power_kw": 88
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hyundai_creta",
+      "name": "Creta",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "hyundai_creta__creta_ii_suv_2020_2020",
+          "name": "Creta I 2020-2024",
+          "ys": 2020,
+          "ye": 2024,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4300,
+            "width_mm": 1790,
+            "height_mm": 1635,
+            "wheelbase_mm": 2537,
+            "ground_clearance_mm": 200,
+            "trunk_volume_l": 402,
+            "trunk_volume_max_l": 402,
+            "gross_weight_kg": 1790,
+            "doors": 5,
+            "seats": 5,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 4826,
+            "fuel_tank_l": 50,
+            "curb_weight_kg": 1335
+          },
+          "trims": [
+            {
+              "name": "1.6L CVT (123 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "NA",
+                "displacement_cc": 1591,
+                "cylinders": 4,
+                "power_hp": 123,
+                "power_kw": 91,
+                "torque_nm": 151,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 177,
+                "acceleration_0_100_s": 12.7,
+                "fuel_consumption_combined_l100km": 7
+              }
+            },
+            {
+              "name": "2.0L 6AT (149 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "NA",
+                "displacement_cc": 1999,
+                "cylinders": 4,
+                "power_hp": 149,
+                "power_kw": 110,
+                "torque_nm": 179,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 182,
+                "acceleration_0_100_s": 11,
+                "fuel_consumption_combined_l100km": 8.7
+              }
+            },
+            {
+              "name": "1.5L 6MT (115 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1497,
+                "power_hp": 115,
+                "torque_nm": 144,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 115
+              }
+            },
+            {
+              "name": "1.5L CVT (115 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1497,
+                "power_hp": 115,
+                "torque_nm": 144,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt",
+                "gears": 1
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 115
+              }
+            },
+            {
+              "name": "1.5L 7DCT (160 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1482,
+                "power_hp": 160,
+                "torque_nm": 253,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 160
+              }
+            },
+            {
+              "name": "1.5L 6MT (116 HP)",
+              "engine": {
+                "type": "diesel",
+                "displacement_cc": 1493,
+                "power_hp": 116,
+                "torque_nm": 250,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 116
+              }
+            },
+            {
+              "name": "1.5L 6AT (116 HP)",
+              "engine": {
+                "type": "diesel",
+                "displacement_cc": 1493,
+                "power_hp": 116,
+                "torque_nm": 250,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 116
+              }
+            }
+          ]
+        },
+        {
+          "id": "hyundai_creta__creta_ii_facelift_2024_suv_2024",
+          "name": "Creta II 2024-н.в.",
+          "ys": 2024,
+          "ye": null,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4300,
+            "width_mm": 1790,
+            "height_mm": 1655,
+            "wheelbase_mm": 2610,
+            "ground_clearance_mm": 200,
+            "trunk_volume_l": 433,
+            "fuel_tank_l": 50,
+            "doors": 5,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "1.6L CVT (123 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "NA",
+                "displacement_cc": 1591,
+                "cylinders": 4,
+                "power_hp": 123,
+                "power_kw": 91,
+                "torque_nm": 151,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 177,
+                "acceleration_0_100_s": 12.7,
+                "fuel_consumption_combined_l100km": 7
+              }
+            },
+            {
+              "name": "2.0L 6AT (149 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "NA",
+                "displacement_cc": 1999,
+                "cylinders": 4,
+                "power_hp": 149,
+                "power_kw": 110,
+                "torque_nm": 179,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 182,
+                "acceleration_0_100_s": 11,
+                "fuel_consumption_combined_l100km": 8.7
+              }
+            },
+            {
+              "name": "1.5L 6MT (115 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1497,
+                "power_hp": 115,
+                "torque_nm": 144,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 115
+              }
+            },
+            {
+              "name": "1.5L CVT (115 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1497,
+                "power_hp": 115,
+                "torque_nm": 144,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt",
+                "gears": 1
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 115
+              }
+            },
+            {
+              "name": "1.5L 7DCT (160 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1482,
+                "power_hp": 160,
+                "torque_nm": 253,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 160
+              }
+            },
+            {
+              "name": "1.5L 6MT (116 HP)",
+              "engine": {
+                "type": "diesel",
+                "displacement_cc": 1493,
+                "power_hp": 116,
+                "torque_nm": 250,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 116
+              }
+            },
+            {
+              "name": "1.5L 6MT (115 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1497,
+                "power_hp": 115,
+                "torque_nm": 144,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 115
+              }
+            },
+            {
+              "name": "1.5L 7DCT (160 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1482,
+                "power_hp": 160,
+                "torque_nm": 253,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 160
+              }
+            },
+            {
+              "name": "1.5L 6AT (116 HP)",
+              "engine": {
+                "type": "diesel",
+                "displacement_cc": 1493,
+                "power_hp": 116,
+                "torque_nm": 250,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 116
+              }
+            }
+          ]
+        },
+        {
+          "id": "hyundai__creta_2nd_gen__creta_2nd_gen_0",
+          "name": "Creta III",
+          "ys": null,
+          "ye": null,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4300,
+            "width_mm": 1790,
+            "height_mm": 1635,
+            "wheelbase_mm": 2610
+          },
+          "trims": [
+            {
+              "name": "1.5L 6MT (115 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1497,
+                "power_hp": 115,
+                "torque_nm": 144,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 115
+              }
+            },
+            {
+              "name": "1.5L CVT (115 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1497,
+                "power_hp": 115,
+                "torque_nm": 144,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 115
+              }
+            },
+            {
+              "name": "1.5L 7DCT (160 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1482,
+                "power_hp": 160,
+                "torque_nm": 253,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 160
+              }
+            },
+            {
+              "name": "1.5L 6MT (115 HP)",
+              "engine": {
+                "type": "diesel",
+                "displacement_cc": 1493,
+                "power_hp": 115,
+                "torque_nm": 250,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 115
+              }
+            },
+            {
+              "name": "1.5L 6AT (115 HP)",
+              "engine": {
+                "type": "diesel",
+                "displacement_cc": 1493,
+                "power_hp": 115,
+                "torque_nm": 250,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 115
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hyundai_elantra",
+      "name": "Elantra",
+      "body_type": "sedan",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "hyundai_elantra_5_doors__elantra_5_doors_2003_2006_2003",
+          "name": "Elantra I 2003-2006",
+          "ys": 2003,
+          "ye": 2006,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 4496,
+            "width_mm": 1720,
+            "height_mm": 1425,
+            "wheelbase_mm": 2611,
+            "fuel_tank_l": 54,
+            "curb_weight_kg": 1253
+          },
+          "trims": [
+            {
+              "name": "1.5L 5MT (103 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "electronic injection",
+                "displacement_cc": 1495,
+                "cylinders": 4,
+                "power_hp": 103,
+                "power_kw": 76,
+                "torque_nm": 136,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 189,
+                "acceleration_0_100_s": 11
+              }
+            },
+            {
+              "name": "1.6L 5MT (107 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "electronic injection",
+                "displacement_cc": 1599,
+                "cylinders": 4,
+                "power_hp": 107,
+                "power_kw": 79,
+                "torque_nm": 143,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 182,
+                "acceleration_0_100_s": 11,
+                "fuel_consumption_combined_l100km": 7.8,
+                "fuel_consumption_city_l100km": 9.4,
+                "fuel_consumption_highway_l100km": 6.2
+              }
+            },
+            {
+              "name": "1.8L 5MT (132 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "electronic injection",
+                "displacement_cc": 1796,
+                "cylinders": 4,
+                "power_hp": 132,
+                "power_kw": 97,
+                "torque_nm": 166,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 199,
+                "acceleration_0_100_s": 9.7
+              }
+            },
+            {
+              "name": "2.0L 5MT (141 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "electronic injection",
+                "displacement_cc": 1975,
+                "cylinders": 4,
+                "power_hp": 141,
+                "power_kw": 104,
+                "torque_nm": 182,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 206,
+                "acceleration_0_100_s": 9.1,
+                "fuel_consumption_combined_l100km": 8.8,
+                "fuel_consumption_city_l100km": 11.1,
+                "fuel_consumption_highway_l100km": 6.5
+              }
+            },
+            {
+              "name": "2.0L 5MT (111 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "electronic injection",
+                "displacement_cc": 1991,
+                "cylinders": 4,
+                "power_hp": 111,
+                "power_kw": 82,
+                "torque_nm": 235,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 187,
+                "acceleration_0_100_s": 11.7,
+                "fuel_consumption_combined_l100km": 6.8,
+                "fuel_consumption_city_l100km": 8.6,
+                "fuel_consumption_highway_l100km": 5.1
+              }
+            }
+          ]
+        },
+        {
+          "id": "hyundai_elantra_touring__elantra_touring_2009_2012_2009",
+          "name": "Elantra II 2009-2012",
+          "ys": 2009,
+          "ye": 2012,
+          "body_type": "wagon",
+          "dimensions": {
+            "length_mm": 4486,
+            "width_mm": 1765,
+            "height_mm": 1519,
+            "wheelbase_mm": 2700,
+            "ground_clearance_mm": 155,
+            "curb_weight_kg": 1347,
+            "doors": 5,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "2.0L 4AT (9 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1975,
+                "cylinders": 4,
+                "power_hp": 9,
+                "power_kw": 102,
+                "torque_nm": 186,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 4
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 9,
+                "fuel_consumption_city_l100km": 10.2,
+                "fuel_consumption_highway_l100km": 7.8,
+                "power_hp": 9,
+                "power_kw": 102
+              }
+            },
+            {
+              "name": "2.0L 5MT (9 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1975,
+                "cylinders": 4,
+                "power_hp": 9,
+                "power_kw": 102,
+                "torque_nm": 186,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 8.9,
+                "fuel_consumption_city_l100km": 10.2,
+                "fuel_consumption_highway_l100km": 7.6,
+                "power_hp": 9,
+                "power_kw": 102
+              }
+            }
+          ]
+        },
+        {
+          "id": "hyundai_elantra__elantra_2014_2016_2014",
+          "name": "Elantra III 2012-2016",
+          "ys": 2012,
+          "ye": 2016,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 4539,
+            "width_mm": 1775,
+            "height_mm": 1435,
+            "wheelbase_mm": 2700,
+            "ground_clearance_mm": 120,
+            "curb_weight_kg": 1238,
+            "doors": 2,
+            "seats": 4,
+            "fuel_tank_l": 50
+          },
+          "trims": [
+            {
+              "name": "1.8L 6AT (150 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "direct injection",
+                "displacement_cc": 1797,
+                "cylinders": 4,
+                "power_hp": 150,
+                "power_kw": 110,
+                "torque_nm": 178,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "acceleration_0_100_s": 9.1,
+                "fuel_consumption_combined_l100km": 7.5,
+                "fuel_consumption_city_l100km": 8.7,
+                "fuel_consumption_highway_l100km": 6.4
+              }
+            },
+            {
+              "name": "1.8L 6MT (148 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "direct injection",
+                "displacement_cc": 1797,
+                "cylinders": 4,
+                "power_hp": 148,
+                "power_kw": 110,
+                "torque_nm": 178,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "acceleration_0_100_s": 9.3,
+                "fuel_consumption_combined_l100km": 7.3,
+                "fuel_consumption_city_l100km": 8.4,
+                "fuel_consumption_highway_l100km": 6.2
+              }
+            },
+            {
+              "name": "1.8L 6AT (147 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1797,
+                "cylinders": 4,
+                "power_hp": 147,
+                "power_kw": 108,
+                "torque_nm": 176,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 7.5,
+                "fuel_consumption_city_l100km": 8.7,
+                "fuel_consumption_highway_l100km": 6.4,
+                "power_hp": 147,
+                "power_kw": 108
+              }
+            },
+            {
+              "name": "1.8L 6MT (147 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1797,
+                "cylinders": 4,
+                "power_hp": 147,
+                "power_kw": 108,
+                "torque_nm": 176,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 7.5,
+                "fuel_consumption_city_l100km": 8.7,
+                "fuel_consumption_highway_l100km": 6.4,
+                "power_hp": 147,
+                "power_kw": 108
+              }
+            },
+            {
+              "name": "2.0L 6AT (168 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "direct injection",
+                "displacement_cc": 1999,
+                "cylinders": 4,
+                "power_hp": 168,
+                "power_kw": 123,
+                "torque_nm": 201,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 8.1,
+                "fuel_consumption_city_l100km": 9.4,
+                "fuel_consumption_highway_l100km": 6.7,
+                "power_hp": 168,
+                "power_kw": 123
+              }
+            },
+            {
+              "name": "2.0L 6AT (175 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "direct injection",
+                "displacement_cc": 1999,
+                "cylinders": 4,
+                "power_hp": 175,
+                "power_kw": 129,
+                "torque_nm": 209,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 8.1,
+                "fuel_consumption_city_l100km": 9.4,
+                "fuel_consumption_highway_l100km": 6.7,
+                "power_hp": 175,
+                "power_kw": 129
+              }
+            },
+            {
+              "name": "2.0L 6MT (168 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "direct injection",
+                "displacement_cc": 1999,
+                "cylinders": 4,
+                "power_hp": 168,
+                "power_kw": 123,
+                "torque_nm": 201,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 8.4,
+                "fuel_consumption_city_l100km": 9.8,
+                "fuel_consumption_highway_l100km": 6.9,
+                "power_hp": 168,
+                "power_kw": 123
+              }
+            },
+            {
+              "name": "2.0L 6MT (175 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "direct injection",
+                "displacement_cc": 1999,
+                "cylinders": 4,
+                "power_hp": 175,
+                "power_kw": 129,
+                "torque_nm": 209,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 8.4,
+                "fuel_consumption_city_l100km": 9.8,
+                "fuel_consumption_highway_l100km": 6.9,
+                "power_hp": 175,
+                "power_kw": 129
+              }
+            }
+          ]
+        },
+        {
+          "id": "hyundai_elantra__elantra_2018_2018",
+          "name": "Elantra IV 2018-2025",
+          "ys": 2018,
+          "ye": 2025,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 4710,
+            "width_mm": 1825,
+            "height_mm": 1420,
+            "ground_clearance_mm": 140,
+            "trunk_volume_l": 402,
+            "curb_weight_kg": 1275,
+            "doors": 4,
+            "seats": 5,
+            "trunk_volume_max_l": 402,
+            "gross_weight_kg": 1895
+          },
+          "trims": [
+            {
+              "name": "1.6L (122 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 122,
+                "power_kw": 90,
+                "fuel_type": "petrol"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 6.7,
+                "co2_emissions_gkm": 138,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.6L (131 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 131,
+                "power_kw": 96,
+                "fuel_type": "petrol"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.6L CVT (123 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "NA",
+                "displacement_cc": 1591,
+                "cylinders": 4,
+                "power_hp": 123,
+                "power_kw": 91,
+                "torque_nm": 151,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 181,
+                "acceleration_0_100_s": 12.6,
+                "fuel_consumption_combined_l100km": 6.6
+              }
+            },
+            {
+              "name": "2.0L 6AT (150 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "NA",
+                "displacement_cc": 1999,
+                "cylinders": 4,
+                "power_hp": 150,
+                "power_kw": 110,
+                "torque_nm": 192,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 195,
+                "acceleration_0_100_s": 10.3,
+                "fuel_consumption_combined_l100km": 7.6
+              }
+            },
+            {
+              "name": "2.0L CVT (150 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1999,
+                "power_hp": 150,
+                "torque_nm": 192,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 150
+              }
+            },
+            {
+              "name": "1.6L 7DCT (201 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1598,
+                "power_hp": 201,
+                "torque_nm": 265,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 201
+              }
+            },
+            {
+              "name": "2.0L 8DCT (276 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1998,
+                "power_hp": 276,
+                "torque_nm": 392,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 276
+              }
+            },
+            {
+              "name": "2.0L CVT (147 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1999,
+                "power_hp": 147,
+                "torque_nm": 179,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt",
+                "gears": 1
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 147
+              }
+            },
+            {
+              "name": "2.0L 8DCT (280 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1998,
+                "power_hp": 280,
+                "torque_nm": 392,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 280
+              }
+            }
+          ]
+        },
+        {
+          "id": "hyundai_elantra__elantra_vii_cn7_sedan_2021_2021",
+          "name": "Elantra V 2021-2023",
+          "ys": 2021,
+          "ye": 2023,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 4539,
+            "width_mm": 1775,
+            "height_mm": 1430,
+            "ground_clearance_mm": 140,
+            "trunk_volume_l": 402,
+            "trunk_volume_max_l": 402,
+            "curb_weight_kg": 1495,
+            "gross_weight_kg": 1895,
+            "doors": 4,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "1.6L (122 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 122,
+                "power_kw": 90,
+                "fuel_type": "petrol"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 6.7,
+                "co2_emissions_gkm": 138,
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hyundai_palisade",
+      "name": "Palisade",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "hyundai_palisade__palisade_i_suv_2020_2018",
+          "name": "Palisade I 2018-2022",
+          "ys": 2018,
+          "ye": 2022,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4980,
+            "width_mm": 1975,
+            "height_mm": 1750,
+            "wheelbase_mm": 2900,
+            "ground_clearance_mm": 200,
+            "trunk_volume_l": 509,
+            "fuel_tank_l": 71,
+            "curb_weight_kg": 1942,
+            "gross_weight_kg": 2690,
+            "doors": 5,
+            "seats": 8
+          },
+          "trims": [
+            {
+              "name": "3.5L 8AT (277 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "naturally_aspirated",
+                "displacement_cc": 3470,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 277,
+                "power_kw": 203,
+                "torque_nm": 335,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 209,
+                "acceleration_0_100_s": 8.1,
+                "fuel_consumption_combined_l100km": 11.5,
+                "fuel_consumption_city_l100km": 14.9,
+                "fuel_consumption_highway_l100km": 8.1
+              }
+            },
+            {
+              "name": "3.5L 8AT (277 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "naturally_aspirated",
+                "displacement_cc": 3470,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 277,
+                "power_kw": 203,
+                "torque_nm": 335,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 209,
+                "acceleration_0_100_s": 8.2,
+                "fuel_consumption_combined_l100km": 10.8,
+                "fuel_consumption_city_l100km": 14.2,
+                "fuel_consumption_highway_l100km": 7.3
+              }
+            },
+            {
+              "name": "3.5L 8AT (277 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "naturally_aspirated",
+                "displacement_cc": 3470,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 277,
+                "power_kw": 203,
+                "torque_nm": 335,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 209,
+                "acceleration_0_100_s": 8.1,
+                "fuel_consumption_combined_l100km": 11.2,
+                "fuel_consumption_city_l100km": 14.4,
+                "fuel_consumption_highway_l100km": 8.1
+              }
+            },
+            {
+              "name": "3.8L 8AT (291 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "direct injection",
+                "displacement_cc": 3778,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 291,
+                "power_kw": 214,
+                "torque_nm": 262,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 209,
+                "acceleration_0_100_s": 7.8,
+                "fuel_consumption_combined_l100km": 11.5,
+                "fuel_consumption_city_l100km": 14.9,
+                "fuel_consumption_highway_l100km": 8.1
+              }
+            },
+            {
+              "name": "2.2L 8AT (193 HP) AWD",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "turbocharged",
+                "displacement_cc": 2199,
+                "power_hp": 193,
+                "power_kw": 142,
+                "torque_nm": 441,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 190,
+                "acceleration_0_100_s": 10.5,
+                "fuel_consumption_combined_l100km": 7.9,
+                "fuel_consumption_city_l100km": 9.6,
+                "fuel_consumption_highway_l100km": 6.3
+              }
+            },
+            {
+              "name": "2.2L 8AT (200 HP) AWD",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "turbocharged",
+                "displacement_cc": 2199,
+                "power_hp": 200,
+                "power_kw": 147,
+                "torque_nm": 441,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 190,
+                "acceleration_0_100_s": 10.5,
+                "fuel_consumption_combined_l100km": 7.9,
+                "fuel_consumption_city_l100km": 9.6,
+                "fuel_consumption_highway_l100km": 6.3
+              }
+            },
+            {
+              "name": "2.2L 8AT (193 HP)",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "turbocharged",
+                "displacement_cc": 2199,
+                "power_hp": 193,
+                "power_kw": 142,
+                "torque_nm": 441,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 190,
+                "acceleration_0_100_s": 10.2,
+                "fuel_consumption_combined_l100km": 7.3,
+                "fuel_consumption_city_l100km": 9.1,
+                "fuel_consumption_highway_l100km": 5.6
+              }
+            },
+            {
+              "name": "2.2L 8AT (200 HP)",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "turbocharged",
+                "displacement_cc": 2199,
+                "power_hp": 200,
+                "power_kw": 147,
+                "torque_nm": 441,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 190,
+                "acceleration_0_100_s": 10.2,
+                "fuel_consumption_combined_l100km": 7.3,
+                "fuel_consumption_city_l100km": 9.1,
+                "fuel_consumption_highway_l100km": 5.6
+              }
+            },
+            {
+              "name": "8AT (291 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "direct injection",
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 291,
+                "power_kw": 214,
+                "torque_nm": 355,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 291,
+                "power_kw": 214
+              }
+            },
+            {
+              "name": "3.8L 8AT (295 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "NA",
+                "displacement_cc": 3778,
+                "cylinders": 6,
+                "power_hp": 295,
+                "power_kw": 217,
+                "torque_nm": 355,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 210,
+                "acceleration_0_100_s": 7.7,
+                "fuel_consumption_combined_l100km": 11.2,
+                "fuel_consumption_city_l100km": 14.4,
+                "fuel_consumption_highway_l100km": 8.1
+              }
+            }
+          ]
+        },
+        {
+          "id": "hyundai_palisade__palisade_2021_2021",
+          "name": "Palisade II 2021-2025",
+          "ys": 2021,
+          "ye": 2025,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4980,
+            "width_mm": 1975,
+            "height_mm": 1750,
+            "wheelbase_mm": 2900,
+            "ground_clearance_mm": 200,
+            "trunk_volume_l": 509,
+            "fuel_tank_l": 71,
+            "curb_weight_kg": 1975,
+            "doors": 5,
+            "seats": 8
+          },
+          "trims": [
+            {
+              "name": "2.5L 8AT (223 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 2500,
+                "power_hp": 223,
+                "power_kw": 164,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "2.5L 8AT (194 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 2500,
+                "power_hp": 194,
+                "power_kw": 143,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "3.8L 8AT (295 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 3778,
+                "cylinders": 8,
+                "power_hp": 295,
+                "power_kw": 217,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        },
+        {
+          "id": "hyundai_palisade__palisade_ii_suv_2026_2025",
+          "name": "Palisade III 2025-2025",
+          "ys": 2025,
+          "ye": 2025,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4981,
+            "width_mm": 1976,
+            "height_mm": 1750,
+            "wheelbase_mm": 2901,
+            "ground_clearance_mm": 200,
+            "trunk_volume_l": 541,
+            "trunk_volume_max_l": 541,
+            "curb_weight_kg": 2010,
+            "gross_weight_kg": 2663,
+            "doors": 5,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "3.5L 8AT (277 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "naturally_aspirated",
+                "displacement_cc": 3470,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 277,
+                "power_kw": 203,
+                "torque_nm": 335,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 209,
+                "acceleration_0_100_s": 8.1,
+                "fuel_consumption_combined_l100km": 11.5,
+                "fuel_consumption_city_l100km": 14.9,
+                "fuel_consumption_highway_l100km": 8.1
+              }
+            },
+            {
+              "name": "3.5L 8AT (277 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "naturally_aspirated",
+                "displacement_cc": 3470,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 277,
+                "power_kw": 203,
+                "torque_nm": 335,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 209,
+                "acceleration_0_100_s": 8.2,
+                "fuel_consumption_combined_l100km": 10.8,
+                "fuel_consumption_city_l100km": 14.2,
+                "fuel_consumption_highway_l100km": 7.3
+              }
+            },
+            {
+              "name": "3.5L 8AT (277 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "naturally_aspirated",
+                "displacement_cc": 3470,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 277,
+                "power_kw": 203,
+                "torque_nm": 335,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 209,
+                "acceleration_0_100_s": 8.1,
+                "fuel_consumption_combined_l100km": 11.2,
+                "fuel_consumption_city_l100km": 14.4,
+                "fuel_consumption_highway_l100km": 8.1
+              }
+            },
+            {
+              "name": "3.8L 8AT (291 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "direct injection",
+                "displacement_cc": 3778,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 291,
+                "power_kw": 214,
+                "torque_nm": 262,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 209,
+                "acceleration_0_100_s": 7.8,
+                "fuel_consumption_combined_l100km": 11.5,
+                "fuel_consumption_city_l100km": 14.9,
+                "fuel_consumption_highway_l100km": 8.1
+              }
+            },
+            {
+              "name": "2.2L 8AT (193 HP) AWD",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "turbocharged",
+                "displacement_cc": 2199,
+                "power_hp": 193,
+                "power_kw": 142,
+                "torque_nm": 441,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 190,
+                "acceleration_0_100_s": 10.5,
+                "fuel_consumption_combined_l100km": 7.9,
+                "fuel_consumption_city_l100km": 9.6,
+                "fuel_consumption_highway_l100km": 6.3
+              }
+            },
+            {
+              "name": "2.2L 8AT (200 HP) AWD",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "turbocharged",
+                "displacement_cc": 2199,
+                "power_hp": 200,
+                "power_kw": 147,
+                "torque_nm": 441,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 190,
+                "acceleration_0_100_s": 10.5,
+                "fuel_consumption_combined_l100km": 7.9,
+                "fuel_consumption_city_l100km": 9.6,
+                "fuel_consumption_highway_l100km": 6.3
+              }
+            },
+            {
+              "name": "2.2L 8AT (193 HP)",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "turbocharged",
+                "displacement_cc": 2199,
+                "power_hp": 193,
+                "power_kw": 142,
+                "torque_nm": 441,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 190,
+                "acceleration_0_100_s": 10.2,
+                "fuel_consumption_combined_l100km": 7.3,
+                "fuel_consumption_city_l100km": 9.1,
+                "fuel_consumption_highway_l100km": 5.6
+              }
+            },
+            {
+              "name": "2.2L 8AT (200 HP)",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "turbocharged",
+                "displacement_cc": 2199,
+                "power_hp": 200,
+                "power_kw": 147,
+                "torque_nm": 441,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 190,
+                "acceleration_0_100_s": 10.2,
+                "fuel_consumption_combined_l100km": 7.3,
+                "fuel_consumption_city_l100km": 9.1,
+                "fuel_consumption_highway_l100km": 5.6
+              }
+            },
+            {
+              "name": "8AT (291 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "direct injection",
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 291,
+                "power_kw": 214,
+                "torque_nm": 355,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 291,
+                "power_kw": 214
+              }
+            },
+            {
+              "name": "3.8L 8AT (295 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "NA",
+                "displacement_cc": 3778,
+                "cylinders": 6,
+                "power_hp": 295,
+                "power_kw": 217,
+                "torque_nm": 355,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 210,
+                "acceleration_0_100_s": 7.7,
+                "fuel_consumption_combined_l100km": 11.2,
+                "fuel_consumption_city_l100km": 14.4,
+                "fuel_consumption_highway_l100km": 8.1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hyundai_santa_fe",
+      "name": "Santa Fe",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "hyundai_santa_fe__santa_fe_2018_2020_2018",
+          "name": "Santa Fe I 2018-2025",
+          "ys": 2018,
+          "ye": 2025,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4770,
+            "width_mm": 1890,
+            "height_mm": 1680,
+            "wheelbase_mm": 2765,
+            "ground_clearance_mm": 185,
+            "trunk_volume_l": 625,
+            "fuel_tank_l": 65,
+            "curb_weight_kg": 1870,
+            "doors": 5,
+            "seats": 7,
+            "trunk_volume_max_l": 634,
+            "gross_weight_kg": 2690,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 5080
+          },
+          "trims": [
+            {
+              "name": "2.2L 8AT (192 HP)",
+              "engine": {
+                "type": "diesel",
+                "displacement_cc": 2151,
+                "power_hp": 192,
+                "power_kw": 141,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 6.6,
+                "co2_emissions_gkm": 172,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.6L 8AT (162 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 162,
+                "power_kw": 119,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 6.9,
+                "co2_emissions_gkm": 161,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.6L 8AT (165 HP) Hybrid",
+              "engine": {
+                "type": "hybrid_petrol",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 165,
+                "power_kw": 121,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 1.9,
+                "co2_emissions_gkm": 39,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "2.0L 5MT (135 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1997,
+                "cylinders": 4,
+                "power_hp": 135,
+                "power_kw": 99,
+                "torque_nm": 183,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 174,
+                "acceleration_0_100_s": 12.2,
+                "fuel_consumption_combined_l100km": 10.3,
+                "fuel_consumption_city_l100km": 13.1,
+                "fuel_consumption_highway_l100km": 7.6
+              }
+            },
+            {
+              "name": "2.4L 5MT (145 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 2351,
+                "power_hp": 145,
+                "power_kw": 107,
+                "torque_nm": 204,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 173,
+                "acceleration_0_100_s": 11.4,
+                "fuel_consumption_combined_l100km": 10.4,
+                "fuel_consumption_city_l100km": 13.1,
+                "fuel_consumption_highway_l100km": 7.8
+              }
+            },
+            {
+              "name": "2.7L 4AT (179 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 2656,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 179,
+                "power_kw": 132,
+                "torque_nm": 255,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 4
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 182,
+                "acceleration_0_100_s": 11.6,
+                "fuel_consumption_combined_l100km": 12.2,
+                "fuel_consumption_city_l100km": 14.9,
+                "fuel_consumption_highway_l100km": 9.4
+              }
+            },
+            {
+              "name": "2.0L 5MT (111 HP)",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "common rail",
+                "displacement_cc": 1991,
+                "cylinders": 4,
+                "power_hp": 111,
+                "power_kw": 82,
+                "torque_nm": 255,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 167,
+                "acceleration_0_100_s": 13.7,
+                "fuel_consumption_combined_l100km": 8.2,
+                "fuel_consumption_city_l100km": 10,
+                "fuel_consumption_highway_l100km": 6.3
+              }
+            },
+            {
+              "name": "2.0L 5MT (125 HP) AWD",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "common rail",
+                "displacement_cc": 1991,
+                "cylinders": 4,
+                "power_hp": 125,
+                "power_kw": 92,
+                "torque_nm": 285,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 172,
+                "acceleration_0_100_s": 13,
+                "fuel_consumption_combined_l100km": 7.9,
+                "fuel_consumption_city_l100km": 9.4,
+                "fuel_consumption_highway_l100km": 6.4
+              }
+            },
+            {
+              "name": "2.7L 5MT (192 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "electronic injection",
+                "displacement_cc": 2656,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 192,
+                "power_kw": 141,
+                "torque_nm": 250,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 192,
+                "power_kw": 141
+              }
+            },
+            {
+              "name": "3.3L 5AT (234 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "electronic injection",
+                "displacement_cc": 3342,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 234,
+                "power_kw": 172,
+                "torque_nm": 304,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 234,
+                "power_kw": 172
+              }
+            }
+          ]
+        },
+        {
+          "id": "hyundai_hyundai_santa_fe__hyundai_santa_fe_2023_2023",
+          "name": "Santa Fe II 2023-2024",
+          "ys": 2023,
+          "ye": 2024,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4785,
+            "width_mm": 1900,
+            "height_mm": 1710,
+            "wheelbase_mm": 2823,
+            "ground_clearance_mm": 200,
+            "trunk_volume_l": 571,
+            "curb_weight_kg": 2040,
+            "doors": 5,
+            "seats": 5,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 5080
+          },
+          "trims": [
+            {
+              "name": "1.6L 8AT (179 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 179,
+                "power_kw": 132,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 7.2,
+                "co2_emissions_gkm": 164,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.6L 8AT (179 HP) Hybrid",
+              "engine": {
+                "type": "hybrid_petrol",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 179,
+                "power_kw": 132,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 1.6,
+                "co2_emissions_gkm": 37,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "2.2L 8AT (193 HP)",
+              "engine": {
+                "type": "diesel",
+                "displacement_cc": 2151,
+                "power_hp": 193,
+                "power_kw": 142,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 6.4,
+                "co2_emissions_gkm": 167,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.6L 8AT (165 HP) Hybrid",
+              "engine": {
+                "type": "hybrid_petrol",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 165,
+                "power_kw": 121,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 1.5,
+                "co2_emissions_gkm": 28,
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        },
+        {
+          "id": "hyundai__santa_fe_tm__santa_fe_tm_0",
+          "name": "Santa Fe III",
+          "ys": null,
+          "ye": null,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4770,
+            "width_mm": 1890,
+            "height_mm": 1680,
+            "wheelbase_mm": 2765
+          },
+          "trims": [
+            {
+              "name": "2.4L 6AT (185 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 2359,
+                "power_hp": 185,
+                "torque_nm": 241,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 185
+              }
+            },
+            {
+              "name": "2.4L 6AT (185 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 2359,
+                "power_hp": 185,
+                "torque_nm": 241,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 185
+              }
+            },
+            {
+              "name": "2.0L 8AT (235 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1998,
+                "power_hp": 235,
+                "torque_nm": 353,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 235
+              }
+            },
+            {
+              "name": "2.2L 8AT (200 HP) AWD",
+              "engine": {
+                "type": "diesel",
+                "displacement_cc": 2199,
+                "power_hp": 200,
+                "torque_nm": 440,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 200
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hyundai_matrix",
+      "name": "Matrix",
+      "body_type": "minivan",
+      "powertrain": "bev",
+      "generations": [
+        {
+          "id": "hyundai_matrix__matrix_minivan_2001_2001",
+          "name": "Matrix 2001-2010",
+          "ys": 2001,
+          "ye": 2010,
+          "body_type": "minivan",
+          "dimensions": {
+            "length_mm": 4025,
+            "width_mm": 1740,
+            "height_mm": 1635,
+            "ground_clearance_mm": 160,
+            "trunk_volume_l": 350,
+            "trunk_volume_max_l": 354,
+            "fuel_tank_l": 54,
+            "curb_weight_kg": 1370,
+            "gross_weight_kg": 1840,
+            "doors": 5,
+            "seats": 7
+          },
+          "trims": [
+            {
+              "name": "1.6L 4AT (103 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "electronic injection",
+                "displacement_cc": 1599,
+                "cylinders": 4,
+                "power_hp": 103,
+                "power_kw": 76,
+                "torque_nm": 142,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 4
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 170,
+                "acceleration_0_100_s": 12.7,
+                "fuel_consumption_combined_l100km": 9.3,
+                "fuel_consumption_city_l100km": 11.4,
+                "fuel_consumption_highway_l100km": 7.3
+              }
+            },
+            {
+              "name": "1.6L 5MT (103 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "electronic injection",
+                "displacement_cc": 1599,
+                "cylinders": 4,
+                "power_hp": 103,
+                "power_kw": 76,
+                "torque_nm": 142,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 170,
+                "acceleration_0_100_s": 12.7,
+                "fuel_consumption_combined_l100km": 7.7,
+                "fuel_consumption_city_l100km": 9.1,
+                "fuel_consumption_highway_l100km": 6.3
+              }
+            },
+            {
+              "name": "1.8L 4AT (122 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "electronic injection",
+                "displacement_cc": 1795,
+                "cylinders": 4,
+                "power_hp": 122,
+                "power_kw": 90,
+                "torque_nm": 162,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 4
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 171,
+                "acceleration_0_100_s": 12.7,
+                "fuel_consumption_combined_l100km": 9.8,
+                "fuel_consumption_city_l100km": 12.5,
+                "fuel_consumption_highway_l100km": 7.2
+              }
+            },
+            {
+              "name": "1.8L 5MT (122 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "electronic injection",
+                "displacement_cc": 1795,
+                "cylinders": 4,
+                "power_hp": 122,
+                "power_kw": 90,
+                "torque_nm": 162,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 184,
+                "acceleration_0_100_s": 11.3,
+                "fuel_consumption_combined_l100km": 8.8,
+                "fuel_consumption_city_l100km": 10.8,
+                "fuel_consumption_highway_l100km": 6.7
+              }
+            },
+            {
+              "name": "1.5L 5MT (102 HP)",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "direct injection",
+                "displacement_cc": 1493,
+                "cylinders": 4,
+                "power_hp": 102,
+                "power_kw": 75,
+                "torque_nm": 235,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 164,
+                "acceleration_0_100_s": 14.3
+              }
+            },
+            {
+              "name": "1.5L 5MT (82 HP)",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1493,
+                "cylinders": 4,
+                "power_hp": 82,
+                "power_kw": 60,
+                "torque_nm": 187,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 158,
+                "acceleration_0_100_s": 14,
+                "fuel_consumption_combined_l100km": 5.8,
+                "fuel_consumption_city_l100km": 7,
+                "fuel_consumption_highway_l100km": 4.5
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hyundai_solaris",
+      "name": "Solaris",
+      "body_type": "sedan",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "hyundai__solaris__solaris_ii_2017_2017",
+          "name": "Solaris 2017-н.в.",
+          "ys": 2017,
+          "ye": null,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 4370,
+            "width_mm": 1700,
+            "height_mm": 1470,
+            "wheelbase_mm": 2570,
+            "ground_clearance_mm": 160,
+            "trunk_volume_l": 480,
+            "fuel_tank_l": 50,
+            "curb_weight_kg": 1110,
+            "doors": 4,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "1.4L 6AT (100 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "NA",
+                "displacement_cc": 1368,
+                "cylinders": 4,
+                "power_hp": 100,
+                "power_kw": 74,
+                "torque_nm": 132,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 175,
+                "acceleration_0_100_s": 13.1,
+                "fuel_consumption_combined_l100km": 6.6
+              }
+            },
+            {
+              "name": "1.6L 6AT (123 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "NA",
+                "displacement_cc": 1591,
+                "cylinders": 4,
+                "power_hp": 123,
+                "power_kw": 91,
+                "torque_nm": 151,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 188,
+                "acceleration_0_100_s": 11.2,
+                "fuel_consumption_combined_l100km": 7
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hyundai_sonata",
+      "name": "Sonata",
+      "body_type": "sedan",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "hyundai_sonata__sonata_viii_dn8_sedan_2020_2019",
+          "name": "Sonata 2019-2023",
+          "ys": 2019,
+          "ye": 2023,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 4900,
+            "width_mm": 1859,
+            "height_mm": 1445,
+            "wheelbase_mm": 3429,
+            "ground_clearance_mm": 140,
+            "trunk_volume_l": 453,
+            "trunk_volume_max_l": 453,
+            "fuel_tank_l": 65,
+            "curb_weight_kg": 1611,
+            "gross_weight_kg": 2070,
+            "doors": 4,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "2.0L 6AT (150 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "NA",
+                "displacement_cc": 1999,
+                "cylinders": 4,
+                "power_hp": 150,
+                "power_kw": 110,
+                "torque_nm": 191,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 195,
+                "acceleration_0_100_s": 11,
+                "fuel_consumption_combined_l100km": 7.6,
+                "fuel_consumption_city_l100km": 8.7,
+                "fuel_consumption_highway_l100km": 6.5
+              }
+            },
+            {
+              "name": "2.5L 8AT (191 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "NA",
+                "displacement_cc": 2497,
+                "cylinders": 4,
+                "power_hp": 191,
+                "power_kw": 141,
+                "torque_nm": 246,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 215,
+                "acceleration_0_100_s": 8.5,
+                "fuel_consumption_combined_l100km": 7.3,
+                "fuel_consumption_city_l100km": 8.4,
+                "fuel_consumption_highway_l100km": 6.2
+              }
+            },
+            {
+              "name": "2.0L 6AT (150 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1999,
+                "power_hp": 150,
+                "torque_nm": 192,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 150,
+                "fuel_consumption_city_l100km": 8.7,
+                "fuel_consumption_highway_l100km": 6.5,
+                "fuel_consumption_combined_l100km": 7.6
+              }
+            },
+            {
+              "name": "2.5L 8AT (191 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 2497,
+                "power_hp": 191,
+                "torque_nm": 245,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 191,
+                "fuel_consumption_city_l100km": 8.7,
+                "fuel_consumption_highway_l100km": 6.5,
+                "fuel_consumption_combined_l100km": 7.6
+              }
+            },
+            {
+              "name": "1.6L 8AT (180 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1598,
+                "power_hp": 180,
+                "torque_nm": 265,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 180,
+                "fuel_consumption_city_l100km": 8.7,
+                "fuel_consumption_highway_l100km": 6.5,
+                "fuel_consumption_combined_l100km": 7.6
+              }
+            },
+            {
+              "name": "2.5L 8DCT (290 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 2497,
+                "power_hp": 290,
+                "torque_nm": 422,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 290,
+                "fuel_consumption_city_l100km": 8.7,
+                "fuel_consumption_highway_l100km": 6.5,
+                "fuel_consumption_combined_l100km": 7.6
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hyundai_tucson",
+      "name": "Tucson",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "hyundai_tucson__tucson_2018_2018",
+          "name": "Tucson I 2018-2025",
+          "ys": 2018,
+          "ye": 2025,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4545,
+            "width_mm": 1850,
+            "height_mm": 1684,
+            "wheelbase_mm": 2681,
+            "ground_clearance_mm": 200,
+            "trunk_volume_l": 546,
+            "curb_weight_kg": 1879,
+            "doors": 5,
+            "seats": 5,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 4623,
+            "fuel_tank_l": 62,
+            "trunk_volume_max_l": 1096,
+            "gross_weight_kg": 2420
+          },
+          "trims": [
+            {
+              "name": "1.6L 8AT (131 HP) AWD",
+              "engine": {
+                "type": "diesel",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 131,
+                "power_kw": 96,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 8.4,
+                "fuel_consumption_city_l100km": 9.4,
+                "fuel_consumption_highway_l100km": 7.4,
+                "co2_emissions_gkm": 138,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.6L 8AT (162 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1597,
+                "cylinders": 4,
+                "power_hp": 162,
+                "power_kw": 119,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 8.4,
+                "fuel_consumption_city_l100km": 9.4,
+                "fuel_consumption_highway_l100km": 7.4,
+                "co2_emissions_gkm": 141,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.6L 8AT (170 HP) Hybrid AWD",
+              "engine": {
+                "type": "hybrid_petrol",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 170,
+                "power_kw": 125,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 8.4,
+                "fuel_consumption_city_l100km": 9.4,
+                "fuel_consumption_highway_l100km": 7.4,
+                "co2_emissions_gkm": 29,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.6L 8AT (136 HP)",
+              "engine": {
+                "type": "diesel",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 136,
+                "power_kw": 100,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 8.4,
+                "fuel_consumption_city_l100km": 9.4,
+                "fuel_consumption_highway_l100km": 7.4,
+                "co2_emissions_gkm": 147,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.6L 8AT (165 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 165,
+                "power_kw": 121,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 8.4,
+                "fuel_consumption_city_l100km": 9.4,
+                "fuel_consumption_highway_l100km": 7.4,
+                "co2_emissions_gkm": 153,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "2.0L 6AT (150 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "NA",
+                "displacement_cc": 1999,
+                "cylinders": 4,
+                "power_hp": 150,
+                "power_kw": 110,
+                "torque_nm": 192,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 183,
+                "acceleration_0_100_s": 11.3,
+                "fuel_consumption_combined_l100km": 8.6
+              }
+            },
+            {
+              "name": "2.0L 6AT (150 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "NA",
+                "displacement_cc": 1999,
+                "cylinders": 4,
+                "power_hp": 150,
+                "power_kw": 110,
+                "torque_nm": 192,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 181,
+                "acceleration_0_100_s": 11.8,
+                "fuel_consumption_combined_l100km": 8.4,
+                "fuel_consumption_city_l100km": 9.4,
+                "fuel_consumption_highway_l100km": 7.4
+              }
+            },
+            {
+              "name": "1.6L 6AT (230 HP) Hybrid AWD",
+              "engine": {
+                "type": "hybrid_petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 230,
+                "power_kw": 169,
+                "torque_nm": 350,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 193,
+                "acceleration_0_100_s": 8,
+                "fuel_consumption_combined_l100km": 6.3
+              }
+            },
+            {
+              "name": "2.0L 6AT (156 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1999,
+                "power_hp": 156,
+                "torque_nm": 192,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 156,
+                "fuel_consumption_city_l100km": 9.4,
+                "fuel_consumption_highway_l100km": 7.4,
+                "fuel_consumption_combined_l100km": 8.4
+              }
+            },
+            {
+              "name": "2.0L 6AT (156 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1999,
+                "power_hp": 156,
+                "torque_nm": 192,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 156,
+                "fuel_consumption_city_l100km": 9.4,
+                "fuel_consumption_highway_l100km": 7.4,
+                "fuel_consumption_combined_l100km": 8.4
+              }
+            }
+          ]
+        },
+        {
+          "id": "hyundai__tucson__tucson_iv_nx4_2021_2021",
+          "name": "Tucson II 2021-2023",
+          "ys": 2021,
+          "ye": 2023,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4630,
+            "width_mm": 1865,
+            "height_mm": 1665,
+            "wheelbase_mm": 2755,
+            "ground_clearance_mm": 182,
+            "trunk_volume_l": 539,
+            "fuel_tank_l": 54,
+            "curb_weight_kg": 1570,
+            "doors": 5,
+            "seats": 5,
+            "trunk_volume_max_l": 1096,
+            "gross_weight_kg": 2415
+          },
+          "trims": [
+            {
+              "name": "2.0L 6AT (150 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "NA",
+                "displacement_cc": 1999,
+                "cylinders": 4,
+                "power_hp": 150,
+                "power_kw": 110,
+                "torque_nm": 192,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 183,
+                "acceleration_0_100_s": 11.3,
+                "fuel_consumption_combined_l100km": 8.6
+              }
+            },
+            {
+              "name": "2.0L 6AT (150 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "NA",
+                "displacement_cc": 1999,
+                "cylinders": 4,
+                "power_hp": 150,
+                "power_kw": 110,
+                "torque_nm": 192,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 181,
+                "acceleration_0_100_s": 11.8,
+                "fuel_consumption_combined_l100km": 8.4,
+                "fuel_consumption_city_l100km": 9.4,
+                "fuel_consumption_highway_l100km": 7.4
+              }
+            },
+            {
+              "name": "1.6L 6AT (230 HP) Hybrid AWD",
+              "engine": {
+                "type": "hybrid_petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 230,
+                "power_kw": 169,
+                "torque_nm": 350,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 193,
+                "acceleration_0_100_s": 8,
+                "fuel_consumption_combined_l100km": 6.3
+              }
+            },
+            {
+              "name": "2.0L 6AT (156 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1999,
+                "power_hp": 156,
+                "torque_nm": 192,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 156,
+                "fuel_consumption_city_l100km": 9.4,
+                "fuel_consumption_highway_l100km": 7.4,
+                "fuel_consumption_combined_l100km": 8.4
+              }
+            },
+            {
+              "name": "2.0L 6AT (156 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1999,
+                "power_hp": 156,
+                "torque_nm": 192,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 156,
+                "fuel_consumption_city_l100km": 9.4,
+                "fuel_consumption_highway_l100km": 7.4,
+                "fuel_consumption_combined_l100km": 8.4
+              }
+            },
+            {
+              "name": "1.6L 7DCT (180 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1598,
+                "power_hp": 180,
+                "torque_nm": 265,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 180,
+                "fuel_consumption_city_l100km": 9.4,
+                "fuel_consumption_highway_l100km": 7.4,
+                "fuel_consumption_combined_l100km": 8.4
+              }
+            },
+            {
+              "name": "1.6L 7DCT (180 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1598,
+                "power_hp": 180,
+                "torque_nm": 265,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 180,
+                "top_speed_kmh": 193,
+                "acceleration_0_100_s": 8.3
+              }
+            },
+            {
+              "name": "2.0L 8AT (186 HP) AWD",
+              "engine": {
+                "type": "diesel",
+                "displacement_cc": 1995,
+                "power_hp": 186,
+                "torque_nm": 416,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 186,
+                "top_speed_kmh": 201,
+                "acceleration_0_100_s": 9.9,
+                "fuel_consumption_city_l100km": 5.4,
+                "fuel_consumption_highway_l100km": 5.1,
+                "fuel_consumption_combined_l100km": 5.2
+              }
+            },
+            {
+              "name": "2.5L 8AT (187 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 2497,
+                "power_hp": 187,
+                "torque_nm": 241,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 187,
+                "fuel_consumption_city_l100km": 9.4,
+                "fuel_consumption_highway_l100km": 7.4,
+                "fuel_consumption_combined_l100km": 8.4
+              }
+            },
+            {
+              "name": "1.6L 6AT (230 HP) Hybrid",
+              "engine": {
+                "type": "hybrid_petrol",
+                "displacement_cc": 1598,
+                "power_hp": 230,
+                "torque_nm": 350,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 230,
+                "top_speed_kmh": 203,
+                "acceleration_0_100_s": 9.2,
+                "fuel_consumption_city_l100km": 9.9,
+                "fuel_consumption_highway_l100km": 6.4,
+                "fuel_consumption_combined_l100km": 8.2
+              }
+            }
+          ]
+        },
+        {
+          "id": "692_tucsonix35_2__tucsonix35_2024_2024",
+          "name": "Tucson III 2024-2024",
+          "ys": 2024,
+          "ye": 2024,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4630,
+            "width_mm": 1865,
+            "height_mm": 1665,
+            "wheelbase_mm": 2755,
+            "ground_clearance_mm": 182,
+            "trunk_volume_l": 539,
+            "fuel_tank_l": 54,
+            "curb_weight_kg": 1891,
+            "doors": 5,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "1.6L 8AT (163 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 163,
+                "power_kw": 120,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 8.4,
+                "fuel_consumption_city_l100km": 9.4,
+                "fuel_consumption_highway_l100km": 7.4,
+                "co2_emissions_gkm": 107,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.6L 8AT (174 HP) Hybrid AWD",
+              "engine": {
+                "type": "hybrid_petrol",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 174,
+                "power_kw": 128,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 8.4,
+                "fuel_consumption_city_l100km": 9.4,
+                "fuel_consumption_highway_l100km": 7.4,
+                "co2_emissions_gkm": 22,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.6L 8AT (136 HP) AWD",
+              "engine": {
+                "type": "diesel",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 136,
+                "power_kw": 100,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 8.4,
+                "fuel_consumption_city_l100km": 9.4,
+                "fuel_consumption_highway_l100km": 7.4,
+                "co2_emissions_gkm": 103,
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hyundai_i30",
+      "name": "i30",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "hyundai_i30_2012",
+          "name": "i30 2012-н.в.",
+          "ys": 2012,
+          "ye": 2026
+        }
+      ]
+    },
+    {
+      "id": "hyundai_i40",
+      "name": "i40",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "hyundai_i40_2015",
+          "name": "i40 (актуальное)",
+          "ys": 2015,
+          "ye": 2026
+        },
+        {
+          "id": "hyundai_i40_2011",
+          "name": "i40 2011-н.в.",
+          "ys": 2011,
+          "ye": 2026
+        }
+      ]
+    },
+    {
+      "id": "hyundai_ioniq5",
+      "name": "Ioniq 5",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "hyundai_ioniq5_2015",
+          "name": "Ioniq 5 (актуальное)",
+          "ys": 2015,
+          "ye": 2026
+        },
+        {
+          "id": "hyundai_ioniq5_2015",
+          "name": "Ioniq 5 (актуальное)",
+          "ys": 2015,
+          "ye": 2026
+        }
+      ]
+    },
+    {
+      "id": "hyundai_ix35",
+      "name": "ix35",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "hyundai_ix35_2013",
+          "name": "ix35 2013-н.в.",
+          "ys": 2013,
+          "ye": 2026
+        },
+        {
+          "id": "hyundai_ix35_2010",
+          "name": "ix35 2010-н.в.",
+          "ys": 2010,
+          "ye": 2026
+        }
+      ]
+    },
+    {
+      "id": "hyundai_kona",
+      "name": "Kona",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "hyundai_kona_2019",
+          "name": "Kona 2019-н.в.",
+          "ys": 2019,
+          "ye": 2026
+        }
+      ]
+    },
+    {
+      "id": "hyundai_starex",
+      "name": "Starex",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "hyundai_starex_2007",
+          "name": "Starex 2007-н.в.",
+          "ys": 2007,
+          "ye": 2026
+        }
+      ]
+    },
+    {
+      "id": "hyundai_staria",
+      "name": "Staria",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "hyundai_staria_2015",
+          "name": "Staria (актуальное)",
+          "ys": 2015,
+          "ye": 2026
+        },
+        {
+          "id": "hyundai_staria_2021",
+          "name": "Staria 2021-н.в.",
+          "ys": 2021,
+          "ye": 2026
+        }
+      ]
+    },
+    {
+      "id": "hyundai_venue",
+      "name": "Venue",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "hyundai_venue_2022",
+          "name": "Venue 2022-н.в.",
+          "ys": 2022,
+          "ye": 2026
+        }
+      ]
+    }
+  ]
+}

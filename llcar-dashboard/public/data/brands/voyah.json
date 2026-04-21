@@ -1,1 +1,562 @@
-{"id":"voyah","name":"Voyah","name_ru":"Воях","country":"CN","models":[{"id":"voyah_courage","name":"Courage","body_type":"suv","powertrain":"erev","generations":[{"id":"voyah_courage__courage_suv_2024_2024","name":"Courage 2024-н.в.","ys":2024,"ye":null,"body_type":"suv","dimensions":{"length_mm":4725,"width_mm":1900,"height_mm":1653,"wheelbase_mm":2787,"ground_clearance_mm":180,"trunk_volume_l":527,"trunk_volume_max_l":527,"curb_weight_kg":2265,"gross_weight_kg":2640,"doors":5,"seats":5,"wheelbase_estimated":true,"wheelbase_mm_original_error":4572},"trims":[{"name":"EV 215 kW","engine":{"type":"electric","power_hp":292,"power_kw":215,"torque_nm":340,"fuel_type":"electric"},"transmission":{"type":"automatic","gears":1},"drivetrain":"rwd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":6.8}},{"name":"EV 320 kW AWD","engine":{"type":"electric","power_hp":435,"power_kw":320,"torque_nm":620,"fuel_type":"electric"},"transmission":{"type":"automatic","gears":1},"drivetrain":"awd","performance":{"top_speed_kmh":204,"acceleration_0_100_s":4.9}},{"name":"EV 230 kW","engine":{"type":"electric","power_hp":313,"power_kw":230,"torque_nm":340,"fuel_type":"electric","battery_kwh":109},"transmission":{"type":"single_speed","gears":1},"drivetrain":"rwd","performance":{"range_km":901}},{"name":"EV 313 HP","engine":{"type":"electric","power_hp":313,"torque_nm":395,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":1},"drivetrain":"rwd","performance":{"power_hp":313}}]}]},{"id":"voyah_dream","name":"DREAM","body_type":"minivan","powertrain":"erev","generations":[{"id":"voyah__dream__dream_2022_2022","name":"DREAM 2022-2023","ys":2022,"ye":2023,"body_type":"minivan","dimensions":{"length_mm":5315,"width_mm":1985,"height_mm":1820,"wheelbase_mm":3200,"ground_clearance_mm":133,"trunk_volume_l":427,"fuel_tank_l":51,"curb_weight_kg":2580,"doors":5,"seats":7},"trims":[{"name":"1.5L 1AT (571 HP) PHEV AWD","engine":{"type":"phev","aspiration":"turbocharged","displacement_cc":1497,"cylinders":4,"power_hp":571,"power_kw":420,"torque_nm":840,"fuel_type":"phev"},"transmission":{"type":"automatic","gears":1},"drivetrain":"awd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":5.9,"fuel_consumption_combined_l100km":5.4}},{"name":"EV 320 kW AWD","engine":{"type":"electric","power_hp":435,"power_kw":320,"torque_nm":620,"fuel_type":"electric"},"transmission":{"type":"automatic","gears":1},"drivetrain":"awd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":5.8}},{"name":"EV 320 kW","engine":{"type":"electric","power_hp":435,"power_kw":320,"fuel_type":"electric"},"performance":{"fuel_consumption_standard":"WLTP"}}]}]},{"id":"voyah_dreamer_2","name":"Dreamer","body_type":"minivan","powertrain":"erev","generations":[{"id":"voyah_dreamer_2__dreamer_minivan_2022_2022","name":"Dreamer 2022-2024","ys":2022,"ye":2024,"body_type":"minivan","dimensions":{"length_mm":5315,"width_mm":1985,"height_mm":1820,"wheelbase_mm":3200,"ground_clearance_mm":160,"trunk_volume_l":427,"trunk_volume_max_l":427,"curb_weight_kg":2645,"doors":5,"seats":7},"trims":[{"name":"1.5L 1AT (571 HP) Hybrid AWD","engine":{"type":"hybrid_petrol","displacement_cc":1497,"power_hp":571,"torque_nm":840,"fuel_type":"hybrid_petrol","battery_kwh":43},"transmission":{"type":"single_speed","gears":1},"drivetrain":"awd","performance":{"range_km":1231}},{"name":"EV 320 kW AWD","engine":{"type":"electric","power_hp":435,"power_kw":320,"torque_nm":620,"fuel_type":"electric","battery_kwh":108.7},"transmission":{"type":"single_speed","gears":1},"drivetrain":"awd","performance":{"range_km":605}},{"name":"EV 130 kW","engine":{"type":"electric","power_hp":177,"power_kw":130,"fuel_type":"electric"},"performance":{"fuel_consumption_standard":"WLTP"}}]}]},{"id":"voyah_free_2","name":"Free","body_type":"suv","powertrain":"erev","generations":[{"id":"voyah_free_2__free_suv_2021_2021","name":"Free 2021-2023","ys":2021,"ye":2023,"body_type":"suv","dimensions":{"length_mm":4905,"width_mm":1950,"height_mm":1645,"wheelbase_mm":2893,"ground_clearance_mm":170,"trunk_volume_l":560,"trunk_volume_max_l":560,"fuel_tank_l":56,"curb_weight_kg":2330,"gross_weight_kg":2705,"doors":5,"seats":5,"wheelbase_estimated":true,"wheelbase_mm_original_error":4140},"trims":[{"name":"1.5L 1AT (490 HP) PHEV AWD","engine":{"type":"phev","aspiration":"turbocharged","displacement_cc":1497,"cylinders":4,"power_hp":490,"power_kw":360,"torque_nm":720,"fuel_type":"phev"},"transmission":{"type":"automatic","gears":1},"drivetrain":"awd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":4.8,"fuel_consumption_combined_l100km":6}},{"name":"EV 360 kW AWD","engine":{"type":"electric","power_hp":490,"power_kw":360,"torque_nm":720,"fuel_type":"electric"},"transmission":{"type":"automatic","gears":1},"drivetrain":"awd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":4.4}},{"name":"1.5L 1AT (490 HP) Hybrid AWD","engine":{"type":"hybrid_petrol","displacement_cc":1497,"power_hp":490,"torque_nm":720,"fuel_type":"hybrid_petrol","battery_kwh":39.2},"transmission":{"type":"single_speed","gears":1},"drivetrain":"awd","performance":{"range_km":1221}},{"name":"EV 510 kW AWD","engine":{"type":"electric","power_hp":693,"power_kw":510,"torque_nm":1040,"fuel_type":"electric","battery_kwh":88},"transmission":{"type":"single_speed","gears":1},"drivetrain":"awd","performance":{"range_km":500}},{"name":"EV 353 kW","engine":{"type":"electric","power_hp":480,"power_kw":353,"fuel_type":"electric"},"performance":{"fuel_consumption_standard":"WLTP"}},{"name":"EV 195 kW","engine":{"type":"electric","power_hp":265,"power_kw":195,"fuel_type":"electric"},"performance":{"fuel_consumption_standard":"WLTP"}}]}]},{"id":"voyah_passion","name":"Passion","body_type":"sedan","powertrain":"erev","generations":[{"id":"voyah__passion__passion_2023_2023","name":"Passion 2022-н.в.","ys":2022,"ye":null,"body_type":"sedan","dimensions":{"length_mm":5088,"width_mm":1970,"height_mm":1515,"wheelbase_mm":3000,"ground_clearance_mm":140,"trunk_volume_l":410,"trunk_volume_max_l":410,"curb_weight_kg":2286,"gross_weight_kg":2661,"doors":4,"seats":5,"fuel_tank_l":60},"trims":[{"name":"1.5L 1AT (530 HP) Hybrid AWD","engine":{"type":"hybrid_petrol","displacement_cc":1497,"power_hp":530,"torque_nm":810,"fuel_type":"hybrid_petrol","battery_kwh":25.6},"transmission":{"type":"single_speed","gears":1},"drivetrain":"awd","performance":{"range_km":1260}},{"name":"EV 375 kW AWD","engine":{"type":"electric","power_hp":503,"power_kw":375,"torque_nm":730,"fuel_type":"electric","battery_kwh":82},"transmission":{"type":"single_speed","gears":1},"drivetrain":"awd","performance":{"range_km":580}},{"name":"1.5L 1AT (530 HP) PHEV AWD","engine":{"type":"phev","aspiration":"turbocharged","displacement_cc":1497,"cylinders":4,"power_hp":530,"power_kw":394,"torque_nm":810,"fuel_type":"phev"},"transmission":{"type":"automatic","gears":1},"drivetrain":"awd","performance":{"top_speed_kmh":210,"acceleration_0_100_s":4.5,"fuel_consumption_combined_l100km":5.5}}]}]},{"id":"voyah_taishan","name":"Taishan","body_type":"suv","powertrain":"erev","generations":[{"id":"voyah_taishan__taishan_suv_2025_2025","name":"Taishan 2025-н.в.","ys":2025,"ye":null,"body_type":"suv","dimensions":{"length_mm":5170,"width_mm":1999,"height_mm":1908,"wheelbase_mm":3050,"ground_clearance_mm":220,"curb_weight_kg":2700},"trims":[{"name":"Taishan EREV 4WD","engine":{"type":"erev","fuel_type":"electric+petrol","power_hp":680,"displacement_cc":1500},"transmission":{"type":"single-speed","gears":1},"drivetrain":"AWD","performance":{"range_km_erev":1200,"range_km_ev":150}}]}]}]}
+{
+  "id": "voyah",
+  "name": "Voyah",
+  "name_ru": "Воях",
+  "country": "CN",
+  "models": [
+    {
+      "id": "voyah_courage",
+      "name": "Courage",
+      "body_type": "suv",
+      "powertrain": "erev",
+      "generations": [
+        {
+          "id": "voyah_courage__courage_suv_2024_2024",
+          "name": "Courage 2024-н.в.",
+          "ys": 2024,
+          "ye": null,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4725,
+            "width_mm": 1900,
+            "height_mm": 1653,
+            "wheelbase_mm": 2787,
+            "ground_clearance_mm": 180,
+            "trunk_volume_l": 527,
+            "trunk_volume_max_l": 527,
+            "curb_weight_kg": 2265,
+            "gross_weight_kg": 2640,
+            "doors": 5,
+            "seats": 5,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 4572
+          },
+          "trims": [
+            {
+              "name": "EV 215 kW",
+              "engine": {
+                "type": "electric",
+                "power_hp": 292,
+                "power_kw": 215,
+                "torque_nm": 340,
+                "fuel_type": "electric"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 1
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 6.8
+              }
+            },
+            {
+              "name": "EV 320 kW AWD",
+              "engine": {
+                "type": "electric",
+                "power_hp": 435,
+                "power_kw": 320,
+                "torque_nm": 620,
+                "fuel_type": "electric"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 1
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 204,
+                "acceleration_0_100_s": 4.9
+              }
+            },
+            {
+              "name": "EV 230 kW",
+              "engine": {
+                "type": "electric",
+                "power_hp": 313,
+                "power_kw": 230,
+                "torque_nm": 340,
+                "fuel_type": "electric",
+                "battery_kwh": 109
+              },
+              "transmission": {
+                "type": "single_speed",
+                "gears": 1
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "range_km": 901
+              }
+            },
+            {
+              "name": "EV 313 HP",
+              "engine": {
+                "type": "electric",
+                "power_hp": 313,
+                "torque_nm": 395,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 1
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "power_hp": 313
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "voyah_dream",
+      "name": "DREAM",
+      "body_type": "minivan",
+      "powertrain": "erev",
+      "generations": [
+        {
+          "id": "voyah__dream__dream_2022_2022",
+          "name": "DREAM 2022-2023",
+          "ys": 2022,
+          "ye": 2023,
+          "body_type": "minivan",
+          "dimensions": {
+            "length_mm": 5315,
+            "width_mm": 1985,
+            "height_mm": 1820,
+            "wheelbase_mm": 3200,
+            "ground_clearance_mm": 133,
+            "trunk_volume_l": 427,
+            "fuel_tank_l": 51,
+            "curb_weight_kg": 2580,
+            "doors": 5,
+            "seats": 7
+          },
+          "trims": [
+            {
+              "name": "1.5L 1AT (571 HP) PHEV AWD",
+              "engine": {
+                "type": "phev",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1497,
+                "cylinders": 4,
+                "power_hp": 571,
+                "power_kw": 420,
+                "torque_nm": 840,
+                "fuel_type": "phev"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 1
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 5.9,
+                "fuel_consumption_combined_l100km": 5.4
+              }
+            },
+            {
+              "name": "EV 320 kW AWD",
+              "engine": {
+                "type": "electric",
+                "power_hp": 435,
+                "power_kw": 320,
+                "torque_nm": 620,
+                "fuel_type": "electric"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 1
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 5.8
+              }
+            },
+            {
+              "name": "EV 320 kW",
+              "engine": {
+                "type": "electric",
+                "power_hp": 435,
+                "power_kw": 320,
+                "fuel_type": "electric"
+              },
+              "performance": {
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "voyah_dreamer_2",
+      "name": "Dreamer",
+      "body_type": "minivan",
+      "powertrain": "erev",
+      "generations": [
+        {
+          "id": "voyah_dreamer_2__dreamer_minivan_2022_2022",
+          "name": "Dreamer 2022-2024",
+          "ys": 2022,
+          "ye": 2024,
+          "body_type": "minivan",
+          "dimensions": {
+            "length_mm": 5315,
+            "width_mm": 1985,
+            "height_mm": 1820,
+            "wheelbase_mm": 3200,
+            "ground_clearance_mm": 160,
+            "trunk_volume_l": 427,
+            "trunk_volume_max_l": 427,
+            "curb_weight_kg": 2645,
+            "doors": 5,
+            "seats": 7
+          },
+          "trims": [
+            {
+              "name": "1.5L 1AT (571 HP) Hybrid AWD",
+              "engine": {
+                "type": "hybrid_petrol",
+                "displacement_cc": 1497,
+                "power_hp": 571,
+                "torque_nm": 840,
+                "fuel_type": "hybrid_petrol",
+                "battery_kwh": 43
+              },
+              "transmission": {
+                "type": "single_speed",
+                "gears": 1
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "range_km": 1231
+              }
+            },
+            {
+              "name": "EV 320 kW AWD",
+              "engine": {
+                "type": "electric",
+                "power_hp": 435,
+                "power_kw": 320,
+                "torque_nm": 620,
+                "fuel_type": "electric",
+                "battery_kwh": 108.7
+              },
+              "transmission": {
+                "type": "single_speed",
+                "gears": 1
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "range_km": 605
+              }
+            },
+            {
+              "name": "EV 130 kW",
+              "engine": {
+                "type": "electric",
+                "power_hp": 177,
+                "power_kw": 130,
+                "fuel_type": "electric"
+              },
+              "performance": {
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "voyah_free_2",
+      "name": "Free",
+      "body_type": "suv",
+      "powertrain": "erev",
+      "generations": [
+        {
+          "id": "voyah_free_2__free_suv_2021_2021",
+          "name": "Free 2021-2023",
+          "ys": 2021,
+          "ye": 2023,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4905,
+            "width_mm": 1950,
+            "height_mm": 1645,
+            "wheelbase_mm": 2893,
+            "ground_clearance_mm": 170,
+            "trunk_volume_l": 560,
+            "trunk_volume_max_l": 560,
+            "fuel_tank_l": 56,
+            "curb_weight_kg": 2330,
+            "gross_weight_kg": 2705,
+            "doors": 5,
+            "seats": 5,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 4140
+          },
+          "trims": [
+            {
+              "name": "1.5L 1AT (490 HP) PHEV AWD",
+              "engine": {
+                "type": "phev",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1497,
+                "cylinders": 4,
+                "power_hp": 490,
+                "power_kw": 360,
+                "torque_nm": 720,
+                "fuel_type": "phev"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 1
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 4.8,
+                "fuel_consumption_combined_l100km": 6
+              }
+            },
+            {
+              "name": "EV 360 kW AWD",
+              "engine": {
+                "type": "electric",
+                "power_hp": 490,
+                "power_kw": 360,
+                "torque_nm": 720,
+                "fuel_type": "electric"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 1
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 4.4
+              }
+            },
+            {
+              "name": "1.5L 1AT (490 HP) Hybrid AWD",
+              "engine": {
+                "type": "hybrid_petrol",
+                "displacement_cc": 1497,
+                "power_hp": 490,
+                "torque_nm": 720,
+                "fuel_type": "hybrid_petrol",
+                "battery_kwh": 39.2
+              },
+              "transmission": {
+                "type": "single_speed",
+                "gears": 1
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "range_km": 1221
+              }
+            },
+            {
+              "name": "EV 510 kW AWD",
+              "engine": {
+                "type": "electric",
+                "power_hp": 693,
+                "power_kw": 510,
+                "torque_nm": 1040,
+                "fuel_type": "electric",
+                "battery_kwh": 88
+              },
+              "transmission": {
+                "type": "single_speed",
+                "gears": 1
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "range_km": 500
+              }
+            },
+            {
+              "name": "EV 353 kW",
+              "engine": {
+                "type": "electric",
+                "power_hp": 480,
+                "power_kw": 353,
+                "fuel_type": "electric"
+              },
+              "performance": {
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "EV 195 kW",
+              "engine": {
+                "type": "electric",
+                "power_hp": 265,
+                "power_kw": 195,
+                "fuel_type": "electric"
+              },
+              "performance": {
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "voyah_passion",
+      "name": "Passion",
+      "body_type": "sedan",
+      "powertrain": "erev",
+      "generations": [
+        {
+          "id": "voyah__passion__passion_2023_2023",
+          "name": "Passion 2022-н.в.",
+          "ys": 2022,
+          "ye": null,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 5088,
+            "width_mm": 1970,
+            "height_mm": 1515,
+            "wheelbase_mm": 3000,
+            "ground_clearance_mm": 140,
+            "trunk_volume_l": 410,
+            "trunk_volume_max_l": 410,
+            "curb_weight_kg": 2286,
+            "gross_weight_kg": 2661,
+            "doors": 4,
+            "seats": 5,
+            "fuel_tank_l": 60
+          },
+          "trims": [
+            {
+              "name": "1.5L 1AT (530 HP) Hybrid AWD",
+              "engine": {
+                "type": "hybrid_petrol",
+                "displacement_cc": 1497,
+                "power_hp": 530,
+                "torque_nm": 810,
+                "fuel_type": "hybrid_petrol",
+                "battery_kwh": 25.6
+              },
+              "transmission": {
+                "type": "single_speed",
+                "gears": 1
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "range_km": 1260
+              }
+            },
+            {
+              "name": "EV 375 kW AWD",
+              "engine": {
+                "type": "electric",
+                "power_hp": 503,
+                "power_kw": 375,
+                "torque_nm": 730,
+                "fuel_type": "electric",
+                "battery_kwh": 82
+              },
+              "transmission": {
+                "type": "single_speed",
+                "gears": 1
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "range_km": 580
+              }
+            },
+            {
+              "name": "1.5L 1AT (530 HP) PHEV AWD",
+              "engine": {
+                "type": "phev",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1497,
+                "cylinders": 4,
+                "power_hp": 530,
+                "power_kw": 394,
+                "torque_nm": 810,
+                "fuel_type": "phev"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 1
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 210,
+                "acceleration_0_100_s": 4.5,
+                "fuel_consumption_combined_l100km": 5.5
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "voyah_taishan",
+      "name": "Taishan",
+      "body_type": "suv",
+      "powertrain": "erev",
+      "generations": [
+        {
+          "id": "voyah_taishan__taishan_suv_2025_2025",
+          "name": "Taishan 2025-н.в.",
+          "ys": 2025,
+          "ye": null,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 5170,
+            "width_mm": 1999,
+            "height_mm": 1908,
+            "wheelbase_mm": 3050,
+            "ground_clearance_mm": 220,
+            "curb_weight_kg": 2700
+          },
+          "trims": [
+            {
+              "name": "Taishan EREV 4WD",
+              "engine": {
+                "type": "erev",
+                "fuel_type": "electric+petrol",
+                "power_hp": 680,
+                "displacement_cc": 1500
+              },
+              "transmission": {
+                "type": "single-speed",
+                "gears": 1
+              },
+              "drivetrain": "AWD",
+              "performance": {
+                "range_km_erev": 1200,
+                "range_km_ev": 150
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "voyah_ekgnqf_voyah_dream_s4_ekrannaa_versia_13",
+      "name": "Ekgnqf Voyah Dream S4 Ekrannaa Versia 13",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "voyah_ekgnqf_dream_s4_ekrannaa_versia_13_2024",
+          "name": "Ekgnqf Voyah Dream S4 Ekrannaa Versia 13 2024-н.в.",
+          "ys": 2024,
+          "ye": 2026
+        }
+      ]
+    }
+  ]
+}

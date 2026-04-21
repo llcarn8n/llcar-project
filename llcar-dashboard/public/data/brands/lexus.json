@@ -1,1 +1,3693 @@
-{"id":"lexus","name":"Lexus","name_ru":"Лексус","country":"JP","models":[{"id":"lexus_es","name":"ES","body_type":"sedan","powertrain":"ice","generations":[{"id":"lexus_es__es_2012_2015_2012","name":"ES I 2012-2015","ys":2012,"ye":2015,"body_type":"sedan","dimensions":{"length_mm":4895,"width_mm":1820,"height_mm":1450,"wheelbase_mm":2888,"ground_clearance_mm":140,"trunk_volume_l":342,"fuel_tank_l":70,"doors":4,"seats":5,"wheelbase_estimated":true,"wheelbase_mm_original_error":3937},"trims":[{"name":"3.0L 5AT (213 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":2994,"cylinders":6,"cylinder_layout":"V","power_hp":213,"power_kw":156,"torque_nm":299,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":225,"acceleration_0_100_s":8.1,"fuel_consumption_combined_l100km":9.9,"fuel_consumption_city_l100km":11.8,"fuel_consumption_highway_l100km":8.1}},{"name":"3.3L 5AT (228 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":3311,"cylinders":6,"cylinder_layout":"V","power_hp":228,"power_kw":168,"torque_nm":325,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":230,"acceleration_0_100_s":7.2,"fuel_consumption_combined_l100km":9.6,"fuel_consumption_city_l100km":11.2,"fuel_consumption_highway_l100km":8.1}},{"name":"3.5L 6AT (276 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":3456,"cylinders":6,"cylinder_layout":"V","power_hp":276,"power_kw":203,"torque_nm":344,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":221,"acceleration_0_100_s":6.8,"fuel_consumption_combined_l100km":9.5,"fuel_consumption_city_l100km":11.2,"fuel_consumption_highway_l100km":7.8}},{"name":"2.5L 6AT (184 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":2494,"power_hp":184,"power_kw":135,"torque_nm":235,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":198,"acceleration_0_100_s":9.8,"fuel_consumption_combined_l100km":8.6,"fuel_consumption_city_l100km":11,"fuel_consumption_highway_l100km":6.1}},{"name":"2.5L AT (160 HP) Hybrid","engine":{"type":"hybrid_petrol","aspiration":"direct injection","displacement_cc":2494,"power_hp":160,"power_kw":118,"torque_nm":213,"fuel_type":"hybrid_petrol"},"transmission":{"type":"automatic"},"drivetrain":"fwd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":7.9,"fuel_consumption_combined_l100km":6,"fuel_consumption_city_l100km":5.9,"fuel_consumption_highway_l100km":6}}]},{"id":"lexus_es__es_2018_2021_2018","name":"ES II 2018-2025","ys":2018,"ye":2025,"body_type":"sedan","dimensions":{"length_mm":4975,"width_mm":1865,"height_mm":1445,"wheelbase_mm":2870,"ground_clearance_mm":155,"trunk_volume_l":430,"fuel_tank_l":49,"curb_weight_kg":1771,"doors":4,"seats":5},"trims":[{"name":"2.5L (178 HP)","engine":{"type":"petrol","displacement_cc":2487,"power_hp":178,"power_kw":131,"fuel_type":"petrol"},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":5.3,"co2_emissions_gkm":120,"fuel_consumption_standard":"WLTP"}},{"name":"3.5L 6AT (7 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":3456,"cylinders":6,"cylinder_layout":"V","power_hp":7,"power_kw":199,"torque_nm":336,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":209,"acceleration_0_100_s":7.3,"fuel_consumption_combined_l100km":9.4,"fuel_consumption_city_l100km":11.2,"fuel_consumption_highway_l100km":7.6}},{"name":"2.5L CVT (8 HP) Hybrid","engine":{"type":"hybrid_petrol","aspiration":"multipoint injection","displacement_cc":2494,"power_hp":8,"power_kw":149,"torque_nm":221,"fuel_type":"hybrid_petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":8.4,"fuel_consumption_combined_l100km":6,"fuel_consumption_city_l100km":5.9,"fuel_consumption_highway_l100km":6}},{"name":"2.4L 8AT (215 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":2449,"power_hp":215,"power_kw":158,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"power_hp":215,"power_kw":158}},{"name":"3.7L 8AT (302 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":3696,"cylinders":6,"cylinder_layout":"V","power_hp":302,"power_kw":222,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"power_hp":302,"power_kw":222}},{"name":"2.5L 8AT (200 HP)","engine":{"code":"A25A-FKS","type":"petrol","aspiration":"NA","displacement_cc":2487,"cylinders":4,"power_hp":200,"power_kw":150,"torque_nm":243,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"top_speed_kmh":210,"acceleration_0_100_s":9.1,"fuel_consumption_combined_l100km":9.4}},{"name":"2.5L CVT (218 HP) Hybrid","engine":{"code":"A25A-FXS","type":"hybrid_petrol","aspiration":"NA","displacement_cc":2487,"cylinders":4,"power_hp":218,"power_kw":160,"torque_nm":221,"fuel_type":"hybrid_petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":8.1,"fuel_consumption_combined_l100km":4.8}},{"name":"2.5L 8AT (203 HP)","engine":{"type":"petrol","displacement_cc":2487,"power_hp":203,"torque_nm":243,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"power_hp":203}},{"name":"3.5L 8AT (302 HP)","engine":{"type":"petrol","displacement_cc":3456,"power_hp":302,"torque_nm":362,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"power_hp":302}},{"name":"2.5L 8AT (203 HP) AWD","engine":{"code":"A25A-FKS","type":"petrol","aspiration":"naturally_aspirated","displacement_cc":2487,"cylinders":4,"power_hp":203,"power_kw":150,"torque_nm":249,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":8.6,"fuel_consumption_combined_l100km":8.1}}]},{"id":"lexus_es__es_vii_xz10_facelift_2024_sedan_2025_2024","name":"ES III 2023-2024","ys":2023,"ye":2024,"body_type":"sedan","dimensions":{"length_mm":4976,"width_mm":1864,"height_mm":1445,"wheelbase_mm":2870,"curb_weight_kg":1715,"ground_clearance_mm":140,"trunk_volume_l":454,"trunk_volume_max_l":454,"gross_weight_kg":2150,"doors":4,"seats":5},"trims":[{"name":"2.5L (178 HP)","engine":{"type":"petrol","displacement_cc":2487,"power_hp":178,"power_kw":131,"fuel_type":"petrol"},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":5.2,"co2_emissions_gkm":119,"fuel_consumption_standard":"WLTP"}},{"name":"3.5L 6AT (7 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":3456,"cylinders":6,"cylinder_layout":"V","power_hp":7,"power_kw":199,"torque_nm":336,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":209,"acceleration_0_100_s":7.3,"fuel_consumption_combined_l100km":9.4,"fuel_consumption_city_l100km":11.2,"fuel_consumption_highway_l100km":7.6}},{"name":"2.5L CVT (8 HP) Hybrid","engine":{"type":"hybrid_petrol","aspiration":"multipoint injection","displacement_cc":2494,"power_hp":8,"power_kw":149,"torque_nm":221,"fuel_type":"hybrid_petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":8.4,"fuel_consumption_combined_l100km":6,"fuel_consumption_city_l100km":5.9,"fuel_consumption_highway_l100km":6}},{"name":"2.4L 8AT (215 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":2449,"power_hp":215,"power_kw":158,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"power_hp":215,"power_kw":158}},{"name":"3.7L 8AT (302 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":3696,"cylinders":6,"cylinder_layout":"V","power_hp":302,"power_kw":222,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"power_hp":302,"power_kw":222}},{"name":"2.5L 8AT (200 HP)","engine":{"code":"A25A-FKS","type":"petrol","aspiration":"NA","displacement_cc":2487,"cylinders":4,"power_hp":200,"power_kw":150,"torque_nm":243,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"top_speed_kmh":210,"acceleration_0_100_s":9.1,"fuel_consumption_combined_l100km":9.4}},{"name":"2.5L CVT (218 HP) Hybrid","engine":{"code":"A25A-FXS","type":"hybrid_petrol","aspiration":"NA","displacement_cc":2487,"cylinders":4,"power_hp":218,"power_kw":160,"torque_nm":221,"fuel_type":"hybrid_petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":8.1,"fuel_consumption_combined_l100km":4.8}},{"name":"2.5L 8AT (203 HP)","engine":{"type":"petrol","displacement_cc":2487,"power_hp":203,"torque_nm":243,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"power_hp":203}},{"name":"3.5L 8AT (302 HP)","engine":{"type":"petrol","displacement_cc":3456,"power_hp":302,"torque_nm":362,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"power_hp":302}}]},{"id":"lexus_es__es_viii_xz20_sedan_2026_2105","name":"ES IV 2026-н.в.","ys":2026,"ye":null,"body_type":"sedan","dimensions":{"length_mm":5140,"width_mm":1920,"height_mm":1560,"ground_clearance_mm":140,"curb_weight_kg":2205,"doors":4,"seats":5},"trims":[{"name":"3.5L 6AT (7 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":3456,"cylinders":6,"cylinder_layout":"V","power_hp":7,"power_kw":199,"torque_nm":336,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":209,"acceleration_0_100_s":7.3,"fuel_consumption_combined_l100km":9.4,"fuel_consumption_city_l100km":11.2,"fuel_consumption_highway_l100km":7.6}},{"name":"2.5L CVT (8 HP) Hybrid","engine":{"type":"hybrid_petrol","aspiration":"multipoint injection","displacement_cc":2494,"power_hp":8,"power_kw":149,"torque_nm":221,"fuel_type":"hybrid_petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":8.4,"fuel_consumption_combined_l100km":6,"fuel_consumption_city_l100km":5.9,"fuel_consumption_highway_l100km":6}},{"name":"2.4L 8AT (215 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":2449,"power_hp":215,"power_kw":158,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"power_hp":215,"power_kw":158}},{"name":"3.7L 8AT (302 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":3696,"cylinders":6,"cylinder_layout":"V","power_hp":302,"power_kw":222,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"power_hp":302,"power_kw":222}},{"name":"2.5L 8AT (200 HP)","engine":{"code":"A25A-FKS","type":"petrol","aspiration":"NA","displacement_cc":2487,"cylinders":4,"power_hp":200,"power_kw":150,"torque_nm":243,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"top_speed_kmh":210,"acceleration_0_100_s":9.1,"fuel_consumption_combined_l100km":9.4}},{"name":"2.5L CVT (218 HP) Hybrid","engine":{"code":"A25A-FXS","type":"hybrid_petrol","aspiration":"NA","displacement_cc":2487,"cylinders":4,"power_hp":218,"power_kw":160,"torque_nm":221,"fuel_type":"hybrid_petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":8.1,"fuel_consumption_combined_l100km":4.8}},{"name":"2.5L 8AT (203 HP)","engine":{"type":"petrol","displacement_cc":2487,"power_hp":203,"torque_nm":243,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"power_hp":203}},{"name":"2.5L CVT (218 HP) Hybrid","engine":{"type":"hybrid_petrol","displacement_cc":2487,"power_hp":218,"torque_nm":221,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"power_hp":218}},{"name":"3.5L 8AT (302 HP)","engine":{"type":"petrol","displacement_cc":3456,"power_hp":302,"torque_nm":362,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"power_hp":302}}]}]},{"id":"lexus_gx","name":"GX","body_type":"suv","powertrain":"ice","generations":[{"id":"lexus_gx__gx_2010_2013_2010","name":"GX I 2010-2013","ys":2010,"ye":2013,"body_type":"suv","dimensions":{"length_mm":5005,"width_mm":1885,"height_mm":1935,"wheelbase_mm":2952,"ground_clearance_mm":200,"trunk_volume_l":292,"doors":5,"seats":5,"wheelbase_estimated":true,"wheelbase_mm_original_error":5232},"trims":[{"name":"4.7L 5AT (235 HP) AWD","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":4664,"cylinders":8,"cylinder_layout":"V","power_hp":235,"power_kw":173,"torque_nm":434,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":5},"drivetrain":"awd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":8.5,"fuel_consumption_combined_l100km":15.3,"fuel_consumption_city_l100km":16.8,"fuel_consumption_highway_l100km":13.8}},{"name":"4.6L 6AT (301 HP) AWD","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":4608,"cylinders":8,"cylinder_layout":"V","power_hp":301,"power_kw":221,"torque_nm":446,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"awd","performance":{"top_speed_kmh":177,"acceleration_0_100_s":8.2,"fuel_consumption_combined_l100km":13.8,"fuel_consumption_city_l100km":15.7,"fuel_consumption_highway_l100km":11.8}}]},{"id":"lexus_lexus_gx_550__lexus_gx_550_2024_2024","name":"GX II 2024-2024","ys":2024,"ye":2024,"body_type":"suv","dimensions":{"length_mm":4970,"width_mm":1885,"height_mm":1890,"wheelbase_mm":2790,"ground_clearance_mm":235,"trunk_volume_l":700,"fuel_tank_l":73,"curb_weight_kg":2430,"doors":5,"seats":7},"trims":[{"name":"3.4L 10AT (349 HP) AWD","engine":{"code":"V35A-FTS","type":"petrol","aspiration":"twin-turbo","displacement_cc":3445,"cylinders":6,"power_hp":349,"power_kw":257,"torque_nm":479,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":10},"drivetrain":"awd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":6.5,"fuel_consumption_combined_l100km":12.4}},{"name":"3.4L 10AT (351 HP) AWD","engine":{"type":"petrol","displacement_cc":3445,"cylinders":6,"power_hp":351,"power_kw":258,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":10},"drivetrain":"awd","performance":{"co2_emissions_gkm":342,"fuel_consumption_standard":"WLTP"}}]}]},{"id":"lexus_is","name":"IS","body_type":"wagon","powertrain":"ice","generations":[{"id":"lexus_is__is_1998_2005_1998","name":"IS I 1998-2005","ys":1998,"ye":2005,"body_type":"wagon","dimensions":{"length_mm":4400,"width_mm":1725,"height_mm":1412,"ground_clearance_mm":155,"trunk_volume_l":310,"fuel_tank_l":70,"doors":5,"seats":5},"trims":[{"name":"2.0L 6MT (155 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1988,"cylinders":4,"power_hp":155,"power_kw":114,"torque_nm":195,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"rwd","performance":{"top_speed_kmh":215,"acceleration_0_100_s":9.5,"fuel_consumption_combined_l100km":10.7,"fuel_consumption_city_l100km":13.6,"fuel_consumption_highway_l100km":7.8}},{"name":"2.2L 6AT (207 HP)","engine":{"type":"petrol","aspiration":"direct injection","displacement_cc":2231,"power_hp":207,"power_kw":152,"torque_nm":252,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"rwd","performance":{"top_speed_kmh":225,"acceleration_0_100_s":8.5,"fuel_consumption_combined_l100km":11.8,"fuel_consumption_city_l100km":15.5,"fuel_consumption_highway_l100km":8}},{"name":"2.2L 6MT (207 HP)","engine":{"type":"petrol","aspiration":"direct injection","displacement_cc":2231,"power_hp":207,"power_kw":152,"torque_nm":252,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"rwd","performance":{"top_speed_kmh":220,"acceleration_0_100_s":8.7,"fuel_consumption_combined_l100km":11.8,"fuel_consumption_city_l100km":15.5,"fuel_consumption_highway_l100km":8}},{"name":"3.0L 5AT (213 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":2997,"cylinders":6,"power_hp":213,"power_kw":157,"torque_nm":288,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":5},"drivetrain":"rwd","performance":{"top_speed_kmh":230,"acceleration_0_100_s":8.2,"fuel_consumption_combined_l100km":11.8,"fuel_consumption_city_l100km":15.5,"fuel_consumption_highway_l100km":8}},{"name":"2.2L 6AT (177 HP)","engine":{"type":"diesel","aspiration":"turbocharged","displacement_cc":2231,"power_hp":177,"power_kw":130,"torque_nm":400,"fuel_type":"diesel"},"transmission":{"type":"automatic","gears":6},"drivetrain":"rwd","performance":{"top_speed_kmh":216,"acceleration_0_100_s":9.2,"fuel_consumption_combined_l100km":11.8,"fuel_consumption_city_l100km":15.5,"fuel_consumption_highway_l100km":8}}]},{"id":"lexus_is__is_iii_xe30_facelift_2020_sedan_2021_2020","name":"IS II 2020-2020","ys":2020,"ye":2020,"body_type":"sedan","dimensions":{"length_mm":4680,"width_mm":1840,"height_mm":1440,"wheelbase_mm":3556,"ground_clearance_mm":140,"trunk_volume_l":306,"fuel_tank_l":65,"doors":4,"seats":5,"trunk_volume_max_l":450,"curb_weight_kg":1780,"gross_weight_kg":2186},"trims":[{"name":"2.5L 6MT (208 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":2499,"cylinders":6,"cylinder_layout":"V","power_hp":208,"power_kw":153,"torque_nm":251,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"rwd","performance":{"top_speed_kmh":230,"acceleration_0_100_s":8.1,"fuel_consumption_combined_l100km":10.6,"fuel_consumption_city_l100km":13.5,"fuel_consumption_highway_l100km":7.7}},{"name":"3.5L AT (310 HP)","engine":{"type":"petrol","aspiration":"direct injection","displacement_cc":3456,"cylinders":6,"cylinder_layout":"V","power_hp":310,"power_kw":228,"torque_nm":376,"fuel_type":"petrol"},"transmission":{"type":"automatic"},"drivetrain":"rwd","performance":{"top_speed_kmh":229,"acceleration_0_100_s":5.6,"fuel_consumption_combined_l100km":9.8,"fuel_consumption_city_l100km":11.2,"fuel_consumption_highway_l100km":8.4}},{"name":"2.2L 6MT (177 HP)","engine":{"type":"diesel","aspiration":"common rail","displacement_cc":2231,"power_hp":177,"power_kw":130,"torque_nm":400,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":6},"drivetrain":"rwd","performance":{"top_speed_kmh":215,"acceleration_0_100_s":8.9,"fuel_consumption_combined_l100km":6.7,"fuel_consumption_city_l100km":7.9,"fuel_consumption_highway_l100km":5.4}},{"name":"2.0L 8AT (244 HP) AWD","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1999,"cylinders":4,"power_hp":244,"power_kw":179,"torque_nm":350,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"top_speed_kmh":230,"acceleration_0_100_s":7.2}},{"name":"3.5L 6AT (259 HP) AWD","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":3499,"cylinders":6,"cylinder_layout":"V","power_hp":259,"power_kw":190,"torque_nm":320,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"awd","performance":{"power_hp":259,"power_kw":190}},{"name":"3.5L 8AT (310 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":3499,"cylinders":6,"cylinder_layout":"V","power_hp":310,"power_kw":228,"torque_nm":376,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"rwd","performance":{"power_hp":310,"power_kw":228}},{"name":"2.5L CVT (223 HP) Hybrid","engine":{"type":"hybrid_petrol","aspiration":"multipoint injection","displacement_cc":2494,"power_hp":223,"power_kw":164,"torque_nm":221,"fuel_type":"hybrid_petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":8.6}},{"name":"8AT (241 HP)","engine":{"type":"petrol","aspiration":"turbocharged","power_hp":241,"power_kw":177,"torque_nm":350,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"rwd","performance":{"top_speed_kmh":230,"acceleration_0_100_s":7.1}},{"name":"3.5L 8AT (311 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":3456,"cylinders":6,"cylinder_layout":"V","power_hp":311,"power_kw":228,"torque_nm":380,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"rwd","performance":{"acceleration_0_100_s":6.3}},{"name":"2.0L 8AT (241 HP) AWD","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1998,"cylinders":6,"cylinder_layout":"V","power_hp":241,"power_kw":177,"torque_nm":320,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"power_hp":241,"power_kw":177}}]}]},{"id":"lexus_lc","name":"LC","body_type":"coupe","powertrain":"ice","generations":[{"id":"lexus_lc__lc_2018_2018","name":"LC I 2018-2025","ys":2018,"ye":2025,"body_type":"coupe","dimensions":{"length_mm":4760,"width_mm":1920,"height_mm":1346,"wheelbase_mm":2870,"curb_weight_kg":1935},"trims":[{"name":"5.0L 10AT (464 HP)","engine":{"type":"petrol","displacement_cc":4969,"cylinders":8,"power_hp":464,"power_kw":341,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":10},"drivetrain":"rwd","performance":{"top_speed_kmh":270,"acceleration_0_100_s":4.7,"fuel_consumption_combined_l100km":12.7,"fuel_consumption_city_l100km":17.4,"fuel_consumption_highway_l100km":8,"co2_emissions_gkm":262,"fuel_consumption_standard":"WLTP"}}]},{"id":"lexus_lc500__lc500_2023_2023","name":"LC II (LC500) 2023-2026","ys":2023,"ye":2026,"body_type":"coupe","dimensions":{"length_mm":4760,"width_mm":1920,"height_mm":1346,"wheelbase_mm":2870,"curb_weight_kg":1935,"ground_clearance_mm":120,"trunk_volume_l":96,"trunk_volume_max_l":96,"gross_weight_kg":2475,"doors":2,"seats":4},"trims":[{"name":"5.0L 10AT (464 HP)","engine":{"type":"petrol","displacement_cc":4969,"cylinders":8,"power_hp":464,"power_kw":341,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":10},"drivetrain":"rwd","performance":{"top_speed_kmh":270,"acceleration_0_100_s":4.7,"fuel_consumption_combined_l100km":12.7,"fuel_consumption_city_l100km":17.4,"fuel_consumption_highway_l100km":8,"co2_emissions_gkm":268,"fuel_consumption_standard":"WLTP"}},{"name":"5.0L 10AT (461 HP)","engine":{"type":"petrol","displacement_cc":4954,"cylinders":8,"power_hp":461,"power_kw":339,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":10},"drivetrain":"rwd","performance":{"top_speed_kmh":270,"acceleration_0_100_s":4.7,"fuel_consumption_combined_l100km":12.7,"fuel_consumption_city_l100km":17.4,"fuel_consumption_highway_l100km":8,"co2_emissions_gkm":235,"fuel_consumption_standard":"WLTP"}},{"name":"3.5L 10AT (299 HP)","engine":{"type":"petrol","displacement_cc":3456,"cylinders":6,"power_hp":299,"power_kw":220,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":10},"drivetrain":"rwd","performance":{"top_speed_kmh":270,"acceleration_0_100_s":4.7,"fuel_consumption_combined_l100km":12.7,"fuel_consumption_city_l100km":17.4,"fuel_consumption_highway_l100km":8,"co2_emissions_gkm":183,"fuel_consumption_standard":"WLTP"}}]}]},{"id":"lexus_ls","name":"LS","body_type":"sedan","powertrain":"ice","generations":[{"id":"lexus_ls__ls_1997_2000_1997","name":"LS I 1995-2000","ys":1995,"ye":2000,"body_type":"sedan","dimensions":{"length_mm":4995,"width_mm":1830,"height_mm":1440,"wheelbase_mm":3556,"ground_clearance_mm":140,"trunk_volume_l":463,"doors":4,"seats":5},"trims":[{"name":"4.0L 4AT (245 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":3969,"cylinders":8,"cylinder_layout":"V","power_hp":245,"power_kw":180,"torque_nm":350,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":4},"drivetrain":"rwd","performance":{"top_speed_kmh":249,"acceleration_0_100_s":8.5}},{"name":"4.0L 5AT (284 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":3969,"cylinders":8,"cylinder_layout":"V","power_hp":284,"power_kw":209,"torque_nm":398,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":5},"drivetrain":"rwd","performance":{"top_speed_kmh":250,"acceleration_0_100_s":6.9,"fuel_consumption_combined_l100km":13.3,"fuel_consumption_city_l100km":17.4,"fuel_consumption_highway_l100km":9.2}}]},{"id":"lexus_ls__ls_2012_2017_2012","name":"LS II 2012-2020","ys":2012,"ye":2020,"body_type":"sedan","dimensions":{"length_mm":5090,"width_mm":1875,"height_mm":1470,"wheelbase_mm":3683,"ground_clearance_mm":140,"trunk_volume_l":420,"fuel_tank_l":84,"doors":4,"seats":5},"trims":[{"name":"4.6L 8AT (390 HP)","engine":{"type":"petrol","aspiration":"direct injection","displacement_cc":4608,"cylinders":8,"cylinder_layout":"V","power_hp":390,"power_kw":287,"torque_nm":500,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"rwd","performance":{"top_speed_kmh":209,"acceleration_0_100_s":5.4,"fuel_consumption_combined_l100km":12.2,"fuel_consumption_city_l100km":14.7,"fuel_consumption_highway_l100km":9.8}},{"name":"4.6L 8AT (360 HP) AWD","engine":{"type":"petrol","aspiration":"direct injection","displacement_cc":4608,"cylinders":8,"cylinder_layout":"V","power_hp":360,"power_kw":265,"torque_nm":470,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"top_speed_kmh":209,"acceleration_0_100_s":6,"fuel_consumption_combined_l100km":12.4,"fuel_consumption_city_l100km":14.7,"fuel_consumption_highway_l100km":10.2}},{"name":"4.6L AT (390 HP)","engine":{"type":"petrol","aspiration":"direct injection","displacement_cc":4608,"cylinders":8,"cylinder_layout":"V","power_hp":390,"power_kw":287,"torque_nm":500,"fuel_type":"petrol"},"transmission":{"type":"automatic"},"drivetrain":"rwd","performance":{"top_speed_kmh":209,"acceleration_0_100_s":5.6,"fuel_consumption_combined_l100km":12.2,"fuel_consumption_city_l100km":14.7,"fuel_consumption_highway_l100km":9.8}},{"name":"5.0L CVT (394 HP) Hybrid AWD","engine":{"type":"hybrid_petrol","aspiration":"direct injection","displacement_cc":4969,"cylinders":8,"cylinder_layout":"V","power_hp":394,"power_kw":289,"torque_nm":522,"fuel_type":"hybrid_petrol"},"transmission":{"type":"cvt"},"drivetrain":"awd","performance":{"top_speed_kmh":209,"acceleration_0_100_s":5.8,"fuel_consumption_combined_l100km":11.3,"fuel_consumption_city_l100km":12.4,"fuel_consumption_highway_l100km":10.2}},{"name":"4.3L 5AT (281 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":4293,"cylinders":8,"cylinder_layout":"V","power_hp":281,"power_kw":207,"torque_nm":417,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":5},"drivetrain":"rwd","performance":{"top_speed_kmh":250,"acceleration_0_100_s":6.7,"fuel_consumption_combined_l100km":13.2,"fuel_consumption_city_l100km":17.6,"fuel_consumption_highway_l100km":8.9}},{"name":"4.3L 6AT (282 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":4293,"cylinders":8,"cylinder_layout":"V","power_hp":282,"power_kw":207,"torque_nm":417,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"rwd","performance":{"top_speed_kmh":250,"acceleration_0_100_s":6.3,"fuel_consumption_combined_l100km":12.4,"fuel_consumption_city_l100km":16.3,"fuel_consumption_highway_l100km":8.5}},{"name":"4.6L 8AT (379 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":4608,"cylinders":8,"cylinder_layout":"V","power_hp":379,"power_kw":279,"torque_nm":498,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"rwd","performance":{"top_speed_kmh":249,"acceleration_0_100_s":5.7,"fuel_consumption_combined_l100km":10.5,"fuel_consumption_city_l100km":12.3,"fuel_consumption_highway_l100km":8.7}},{"name":"3.5L 10AT (416 HP) AWD","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":3455,"cylinders":6,"cylinder_layout":"V","power_hp":416,"power_kw":306,"torque_nm":599,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":10},"drivetrain":"awd","performance":{"top_speed_kmh":219,"acceleration_0_100_s":4.8,"fuel_consumption_combined_l100km":10.9,"fuel_consumption_city_l100km":13.1,"fuel_consumption_highway_l100km":8.7}}]},{"id":"lexus_ls__ls_2018_2018","name":"LS III 2018-2025","ys":2018,"ye":2025,"body_type":"sedan","dimensions":{"length_mm":5235,"width_mm":1900,"height_mm":1450,"wheelbase_mm":3683,"ground_clearance_mm":140,"trunk_volume_l":430,"curb_weight_kg":2447,"doors":4,"seats":5},"trims":[{"name":"3.5L 10AT (299 HP) AWD","engine":{"type":"petrol","displacement_cc":3456,"cylinders":6,"power_hp":299,"power_kw":220,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":10},"drivetrain":"awd","performance":{"top_speed_kmh":219,"acceleration_0_100_s":4.8,"fuel_consumption_combined_l100km":10.9,"fuel_consumption_city_l100km":13.1,"fuel_consumption_highway_l100km":8.7,"co2_emissions_gkm":215,"fuel_consumption_standard":"WLTP"}}]},{"id":"lexus_lexus_ls500h__lexus_ls500h_2023_2023","name":"LS IV 2023-2023","ys":2023,"ye":2023,"body_type":"sedan","dimensions":{"length_mm":5235,"width_mm":1900,"height_mm":1450,"wheelbase_mm":3124,"curb_weight_kg":2240},"trims":[{"name":"3.5L 10AT (299 HP) AWD","engine":{"type":"petrol","displacement_cc":3456,"cylinders":6,"power_hp":299,"power_kw":220,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":10},"drivetrain":"awd","performance":{"top_speed_kmh":219,"acceleration_0_100_s":4.8,"fuel_consumption_combined_l100km":10.9,"fuel_consumption_city_l100km":13.1,"fuel_consumption_highway_l100km":8.7,"co2_emissions_gkm":214,"fuel_consumption_standard":"WLTP"}}]}]},{"id":"lexus_lx","name":"LX","body_type":"suv","powertrain":"ice","generations":[{"id":"lexus_lx__lx_1997_2007_1997","name":"LX I 1997-2007","ys":1997,"ye":2007,"body_type":"suv","dimensions":{"length_mm":4890,"width_mm":1940,"height_mm":1875,"wheelbase_mm":2885,"ground_clearance_mm":200,"trunk_volume_l":510,"doors":5,"seats":5,"wheelbase_estimated":true,"wheelbase_mm_original_error":5588},"trims":[{"name":"4.5L 5MT (215 HP) AWD","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":4477,"cylinders":8,"cylinder_layout":"V","power_hp":215,"power_kw":158,"torque_nm":373,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"awd","performance":{"fuel_consumption_combined_l100km":16.1,"fuel_consumption_city_l100km":17.2,"fuel_consumption_highway_l100km":15,"power_hp":215,"power_kw":158}},{"name":"4.7L 4AT (235 HP) AWD","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":4664,"cylinders":8,"cylinder_layout":"V","power_hp":235,"power_kw":173,"torque_nm":422,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":4},"drivetrain":"awd","performance":{"top_speed_kmh":175,"acceleration_0_100_s":11.7,"fuel_consumption_combined_l100km":17.9,"fuel_consumption_city_l100km":22.4,"fuel_consumption_highway_l100km":13.3}}]},{"id":"lexus_lx__lx_2018_2018","name":"LX II 2018-2025","ys":2018,"ye":2025,"body_type":"suv","dimensions":{"length_mm":5005,"width_mm":1980,"height_mm":1910,"wheelbase_mm":2952,"ground_clearance_mm":200,"trunk_volume_l":259,"curb_weight_kg":2650,"doors":5,"seats":5,"wheelbase_estimated":true,"wheelbase_mm_original_error":5715},"trims":[{"name":"3.3L 10AT (307 HP) AWD","engine":{"type":"diesel","displacement_cc":3346,"cylinders":6,"power_hp":307,"power_kw":226,"fuel_type":"diesel"},"transmission":{"type":"automatic","gears":10},"drivetrain":"awd","performance":{"fuel_consumption_standard":"WLTP"}}]},{"id":"lexus_lx__lx_iv_j300_suv_2022_2021","name":"LX III (J300) 2021-2021","ys":2021,"ye":2021,"body_type":"suv","dimensions":{"length_mm":5090,"width_mm":1990,"height_mm":1895,"wheelbase_mm":2850,"ground_clearance_mm":200,"trunk_volume_l":810,"fuel_tank_l":93,"curb_weight_kg":2570,"doors":5,"seats":7,"trunk_volume_max_l":1109,"gross_weight_kg":3379,"wheelbase_estimated":true,"wheelbase_mm_original_error":5080},"trims":[{"name":"5.7L 6AT (383 HP) AWD","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":5663,"cylinders":8,"cylinder_layout":"V","power_hp":383,"power_kw":283,"torque_nm":546,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"awd","performance":{"top_speed_kmh":220,"acceleration_0_100_s":7.4,"fuel_consumption_combined_l100km":16.4,"fuel_consumption_city_l100km":19.6,"fuel_consumption_highway_l100km":13.1}},{"name":"5.7L 8AT (367 HP) AWD","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":5663,"cylinders":8,"cylinder_layout":"V","power_hp":367,"power_kw":269,"torque_nm":530,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"top_speed_kmh":220,"acceleration_0_100_s":7.7,"fuel_consumption_combined_l100km":15.6,"fuel_consumption_city_l100km":20.3,"fuel_consumption_highway_l100km":10.9}},{"name":"4.5L 6AT (272 HP) AWD","engine":{"type":"diesel","aspiration":"turbocharged","displacement_cc":4461,"cylinders":8,"cylinder_layout":"V","power_hp":272,"power_kw":200,"torque_nm":650,"fuel_type":"diesel"},"transmission":{"type":"automatic","gears":6},"drivetrain":"awd","performance":{"top_speed_kmh":209,"acceleration_0_100_s":8.6,"fuel_consumption_combined_l100km":9.8,"fuel_consumption_city_l100km":11.2,"fuel_consumption_highway_l100km":8.5}},{"name":"10AT (409 HP) AWD","engine":{"type":"petrol","aspiration":"turbocharged","cylinders":6,"cylinder_layout":"V","power_hp":409,"power_kw":300,"torque_nm":649,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":10},"drivetrain":"awd","performance":{"power_hp":409,"power_kw":300}},{"name":"3.4L 10AT (415 HP) AWD","engine":{"code":"V35A-FTS","type":"petrol","aspiration":"twin-turbo","displacement_cc":3445,"cylinders":6,"power_hp":415,"power_kw":305,"torque_nm":650,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":10},"drivetrain":"awd","performance":{"top_speed_kmh":220,"acceleration_0_100_s":6.7,"fuel_consumption_combined_l100km":13.2}}]},{"id":"lexus_lx_600__lx_600_2024_2024","name":"LX IV 2024-2024","ys":2024,"ye":2024,"body_type":"suv","dimensions":{"length_mm":5065,"width_mm":1981,"height_mm":1910,"wheelbase_mm":2850,"curb_weight_kg":2740},"trims":[{"name":"3.4L 10AT (415 HP) AWD","engine":{"type":"petrol","displacement_cc":3445,"cylinders":6,"power_hp":415,"power_kw":305,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":10},"drivetrain":"awd","performance":{"fuel_consumption_standard":"WLTP"}}]}]},{"id":"lexus_nx","name":"NX","body_type":"suv","powertrain":"ice","generations":[{"id":"lexus_nx__nx_2018_2018","name":"NX I 2018-2025","ys":2018,"ye":2025,"body_type":"suv","dimensions":{"length_mm":4630,"width_mm":1845,"height_mm":1661,"wheelbase_mm":2731,"ground_clearance_mm":200,"trunk_volume_l":545,"curb_weight_kg":2075,"doors":5,"seats":5,"wheelbase_estimated":true,"wheelbase_mm_original_error":4699},"trims":[{"name":"2.5L 8AT (190 HP) AWD","engine":{"type":"petrol","displacement_cc":2487,"power_hp":190,"power_kw":140,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"acceleration_0_100_s":8.5,"fuel_consumption_combined_l100km":6.5,"co2_emissions_gkm":146,"fuel_consumption_standard":"WLTP"}},{"name":"2.5L 8AT (185 HP) Hybrid AWD","engine":{"type":"hybrid_petrol","displacement_cc":2487,"power_hp":185,"power_kw":136,"fuel_type":"hybrid_petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"acceleration_0_100_s":8.5,"fuel_consumption_combined_l100km":1,"co2_emissions_gkm":23,"fuel_consumption_standard":"WLTP"}}]},{"id":"lexus_nx__nx_2021_2021","name":"NX II 2021-2023","ys":2021,"ye":2023,"body_type":"suv","dimensions":{"length_mm":4660,"width_mm":1865,"height_mm":1660,"wheelbase_mm":2690,"ground_clearance_mm":185,"trunk_volume_l":545,"fuel_tank_l":56,"curb_weight_kg":1740,"doors":5,"seats":5},"trims":[{"name":"2.0L 6AT (238 HP) AWD","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1998,"cylinders":4,"power_hp":238,"power_kw":175,"torque_nm":350,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"awd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":7.2,"fuel_consumption_combined_l100km":9.6,"fuel_consumption_city_l100km":10.7,"fuel_consumption_highway_l100km":8.4}},{"name":"2.0L 6AT (238 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1998,"cylinders":4,"power_hp":238,"power_kw":175,"torque_nm":350,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":7.4,"fuel_consumption_combined_l100km":9.6,"fuel_consumption_city_l100km":10.7,"fuel_consumption_highway_l100km":8.4}},{"name":"2.5L CVT (155 HP) Hybrid AWD","engine":{"type":"hybrid_petrol","aspiration":"multipoint injection, atkinson cycle","displacement_cc":2494,"power_hp":155,"power_kw":114,"torque_nm":210,"fuel_type":"hybrid_petrol"},"transmission":{"type":"cvt"},"drivetrain":"awd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":9.4,"fuel_consumption_combined_l100km":7.4,"fuel_consumption_city_l100km":7.1,"fuel_consumption_highway_l100km":7.8}},{"name":"2.5L CVT (155 HP) Hybrid","engine":{"type":"hybrid_petrol","aspiration":"multipoint injection, atkinson cycle","displacement_cc":2494,"power_hp":155,"power_kw":114,"torque_nm":210,"fuel_type":"hybrid_petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":9.3,"fuel_consumption_combined_l100km":7.4,"fuel_consumption_city_l100km":7.1,"fuel_consumption_highway_l100km":7.8}},{"name":"8AT (203 HP)","engine":{"type":"petrol","aspiration":"naturally_aspirated","power_hp":203,"power_kw":149,"torque_nm":249,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"acceleration_0_100_s":8.5}},{"name":"8AT (275 HP) AWD","engine":{"type":"petrol","aspiration":"turbocharged","power_hp":275,"power_kw":202,"torque_nm":430,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"acceleration_0_100_s":7}},{"name":"CVT (239 HP) Hybrid AWD","engine":{"type":"hybrid_petrol","power_hp":239,"power_kw":175,"fuel_type":"hybrid_petrol"},"transmission":{"type":"cvt"},"drivetrain":"awd","performance":{"acceleration_0_100_s":7.4}},{"name":"CVT (302 HP) Hybrid AWD","engine":{"type":"hybrid_petrol","power_hp":302,"power_kw":222,"fuel_type":"hybrid_petrol"},"transmission":{"type":"cvt"},"drivetrain":"awd","performance":{"acceleration_0_100_s":6.2}},{"name":"2.5L 8AT (203 HP)","engine":{"code":"A25A-FKS","type":"petrol","aspiration":"NA","displacement_cc":2487,"cylinders":4,"power_hp":203,"power_kw":150,"torque_nm":243,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"top_speed_kmh":190,"acceleration_0_100_s":8.2,"fuel_consumption_combined_l100km":9}},{"name":"2.4L 8AT (279 HP) AWD","engine":{"code":"T24A-FTS","type":"petrol","aspiration":"turbocharged","displacement_cc":2393,"cylinders":4,"power_hp":279,"power_kw":205,"torque_nm":430,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"top_speed_kmh":210,"acceleration_0_100_s":6.9,"fuel_consumption_combined_l100km":9.5}}]},{"id":"948_lexus_nx450h__lexus_nx450h_2024_2024","name":"NX III 2024-2024","ys":2024,"ye":2024,"body_type":"suv","dimensions":{"length_mm":4638,"width_mm":1869,"height_mm":1646,"wheelbase_mm":2659,"curb_weight_kg":1837},"trims":[{"name":"2.5L 8AT (190 HP) AWD","engine":{"type":"petrol","displacement_cc":2487,"power_hp":190,"power_kw":140,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"acceleration_0_100_s":8.5,"fuel_consumption_combined_l100km":7.3,"co2_emissions_gkm":105,"fuel_consumption_standard":"WLTP"}},{"name":"2.5L 8AT (185 HP) Hybrid AWD","engine":{"type":"hybrid_petrol","displacement_cc":2487,"power_hp":185,"power_kw":136,"fuel_type":"hybrid_petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"acceleration_0_100_s":8.5,"fuel_consumption_combined_l100km":1.5,"co2_emissions_gkm":17,"fuel_consumption_standard":"WLTP"}}]}]},{"id":"lexus_rx","name":"RX","body_type":"suv","powertrain":"ice","generations":[{"id":"lexus_rx__rx_1998_2003_1998","name":"RX I 1998-2003","ys":1998,"ye":2003,"body_type":"suv","dimensions":{"length_mm":4890,"width_mm":1920,"height_mm":1709,"fuel_tank_l":75},"trims":[{"name":"2.4L 4AT (160 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":2362,"power_hp":160,"power_kw":118,"torque_nm":221,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":4},"drivetrain":"fwd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":8.5,"fuel_consumption_combined_l100km":11.9,"fuel_consumption_city_l100km":13.1,"fuel_consumption_highway_l100km":10.7}},{"name":"3.0L 4AT (220 HP) AWD","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":2995,"cylinders":6,"cylinder_layout":"V","power_hp":220,"power_kw":162,"torque_nm":304,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":4},"drivetrain":"awd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":8.8,"fuel_consumption_combined_l100km":14,"fuel_consumption_city_l100km":17.7,"fuel_consumption_highway_l100km":10.3}}]},{"id":"lexus_rx__rx_2008_2012_2008","name":"RX II 2008-2012","ys":2008,"ye":2012,"body_type":"suv","dimensions":{"length_mm":4890,"width_mm":1920,"height_mm":1709,"fuel_tank_l":71},"trims":[{"name":"3.0L 5AT (204 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":2995,"cylinders":6,"cylinder_layout":"V","power_hp":204,"power_kw":150,"torque_nm":283,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":9,"fuel_consumption_combined_l100km":13.1,"fuel_consumption_city_l100km":16.9,"fuel_consumption_highway_l100km":9.4}},{"name":"3.3L 5AT (226 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":3309,"cylinders":6,"cylinder_layout":"V","power_hp":226,"power_kw":166,"torque_nm":323,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":190,"acceleration_0_100_s":7.8,"fuel_consumption_combined_l100km":10.9,"fuel_consumption_city_l100km":12.4,"fuel_consumption_highway_l100km":9.4}},{"name":"3.5L 5AT (275 HP) AWD","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":3456,"cylinders":6,"cylinder_layout":"V","power_hp":275,"power_kw":202,"torque_nm":342,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":5},"drivetrain":"awd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":7.8}},{"name":"3.3L CVT (210 HP) Hybrid AWD","engine":{"type":"hybrid_petrol","aspiration":"multipoint injection","displacement_cc":3311,"cylinders":6,"cylinder_layout":"V","power_hp":210,"power_kw":154,"torque_nm":287,"fuel_type":"hybrid_petrol"},"transmission":{"type":"cvt"},"drivetrain":"awd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":7.6,"fuel_consumption_combined_l100km":8.3,"fuel_consumption_city_l100km":9.1,"fuel_consumption_highway_l100km":7.6}},{"name":"3.5L CVT (270 HP) Hybrid","engine":{"type":"hybrid_petrol","aspiration":"multipoint injection","displacement_cc":3456,"cylinders":6,"cylinder_layout":"V","power_hp":270,"power_kw":198,"torque_nm":342,"fuel_type":"hybrid_petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":7.5,"fuel_consumption_combined_l100km":8.3,"fuel_consumption_city_l100km":9.1,"fuel_consumption_highway_l100km":7.6}},{"name":"3.5L 6AT (277 HP) AWD","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":3456,"cylinders":6,"cylinder_layout":"V","power_hp":277,"power_kw":204,"torque_nm":348,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"awd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":8,"fuel_consumption_combined_l100km":11.4,"fuel_consumption_city_l100km":14.3,"fuel_consumption_highway_l100km":8.4}},{"name":"3.5L CVT (249 HP) Hybrid AWD","engine":{"type":"hybrid_petrol","aspiration":"multipoint injection","displacement_cc":3456,"cylinders":6,"cylinder_layout":"V","power_hp":249,"power_kw":183,"torque_nm":317,"fuel_type":"hybrid_petrol"},"transmission":{"type":"cvt"},"drivetrain":"awd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":7.8,"fuel_consumption_combined_l100km":8.7,"fuel_consumption_city_l100km":8.4,"fuel_consumption_highway_l100km":9}}]},{"id":"lexus_rx__rx_iv_facelift_2019_suv_2020_2020","name":"RX III 2018-2025","ys":2018,"ye":2025,"body_type":"suv","dimensions":{"length_mm":4890,"width_mm":1920,"height_mm":1710,"wheelbase_mm":2885,"ground_clearance_mm":200,"trunk_volume_l":838,"curb_weight_kg":2237,"doors":5,"seats":5,"wheelbase_estimated":true,"wheelbase_mm_original_error":5080,"trunk_volume_max_l":453,"gross_weight_kg":2717},"trims":[{"name":"2.5L 8AT (185 HP) Hybrid AWD","engine":{"type":"hybrid_petrol","displacement_cc":2487,"power_hp":185,"power_kw":136,"fuel_type":"hybrid_petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"acceleration_0_100_s":7.1,"fuel_consumption_combined_l100km":4.5,"co2_emissions_gkm":25,"fuel_consumption_standard":"WLTP"}},{"name":"2.4L 8AT (230 HP) AWD","engine":{"type":"petrol","displacement_cc":2440,"power_hp":230,"power_kw":169,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"acceleration_0_100_s":7.1,"fuel_consumption_combined_l100km":7.3,"co2_emissions_gkm":164,"fuel_consumption_standard":"WLTP"}},{"name":"2.7L 6AT (188 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":2671,"cylinders":6,"power_hp":188,"power_kw":138,"torque_nm":252,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":8.2}},{"name":"3.5L 6AT (273 HP) AWD","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":3456,"cylinders":6,"cylinder_layout":"V","power_hp":273,"power_kw":201,"torque_nm":336,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"awd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":8.1,"fuel_consumption_combined_l100km":11.4,"fuel_consumption_city_l100km":13.1,"fuel_consumption_highway_l100km":9.8}},{"name":"3.5L 8AT (273 HP) AWD","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":3456,"cylinders":6,"cylinder_layout":"V","power_hp":273,"power_kw":201,"torque_nm":336,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":7.7,"fuel_consumption_combined_l100km":11.1,"fuel_consumption_city_l100km":13.1,"fuel_consumption_highway_l100km":9}},{"name":"3.5L 6AT (273 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":3456,"cylinders":6,"cylinder_layout":"V","power_hp":273,"power_kw":201,"torque_nm":336,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":7.7,"fuel_consumption_combined_l100km":11.2,"fuel_consumption_city_l100km":13.1,"fuel_consumption_highway_l100km":9.4}},{"name":"3.5L CVT (249 HP) Hybrid AWD","engine":{"type":"hybrid_petrol","aspiration":"multipoint injection","displacement_cc":3456,"cylinders":6,"cylinder_layout":"V","power_hp":249,"power_kw":183,"torque_nm":317,"fuel_type":"hybrid_petrol"},"transmission":{"type":"cvt"},"drivetrain":"awd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":7.4,"fuel_consumption_combined_l100km":8.1,"fuel_consumption_city_l100km":7.8,"fuel_consumption_highway_l100km":8.4}},{"name":"3.5L CVT (249 HP) Hybrid","engine":{"type":"hybrid_petrol","aspiration":"multipoint injection","displacement_cc":3456,"cylinders":6,"cylinder_layout":"V","power_hp":249,"power_kw":183,"torque_nm":317,"fuel_type":"hybrid_petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":7.8,"fuel_consumption_combined_l100km":7.9,"fuel_consumption_city_l100km":7.4,"fuel_consumption_highway_l100km":8.4}},{"name":"2.0L 6AT (238 HP) AWD","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1998,"cylinders":4,"power_hp":238,"power_kw":175,"torque_nm":350,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"awd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":9.5,"fuel_consumption_combined_l100km":8.2,"fuel_consumption_city_l100km":9.9,"fuel_consumption_highway_l100km":6.6}},{"name":"3.5L 8AT (290 HP) AWD","engine":{"type":"petrol","aspiration":"monopoint injection","displacement_cc":3456,"cylinders":6,"cylinder_layout":"V","power_hp":290,"power_kw":213,"torque_nm":363,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":8.1,"fuel_consumption_combined_l100km":11.2,"fuel_consumption_city_l100km":13.1,"fuel_consumption_highway_l100km":9.4}}]},{"id":"lexus_rx__rx_2022_2022","name":"RX IV 2022-2024","ys":2022,"ye":2024,"body_type":"suv","dimensions":{"length_mm":4770,"width_mm":1895,"height_mm":1720,"wheelbase_mm":2814,"ground_clearance_mm":200,"trunk_volume_l":176,"fuel_tank_l":73,"curb_weight_kg":1985,"doors":5,"seats":5,"wheelbase_estimated":true,"wheelbase_mm_original_error":4699},"trims":[{"name":"2.7L 6AT (188 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":2671,"cylinders":6,"power_hp":188,"power_kw":138,"torque_nm":252,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":8.2}},{"name":"3.5L 6AT (273 HP) AWD","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":3456,"cylinders":6,"cylinder_layout":"V","power_hp":273,"power_kw":201,"torque_nm":336,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"awd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":8.1,"fuel_consumption_combined_l100km":11.4,"fuel_consumption_city_l100km":13.1,"fuel_consumption_highway_l100km":9.8}},{"name":"3.5L 8AT (273 HP) AWD","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":3456,"cylinders":6,"cylinder_layout":"V","power_hp":273,"power_kw":201,"torque_nm":336,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":7.7,"fuel_consumption_combined_l100km":11.1,"fuel_consumption_city_l100km":13.1,"fuel_consumption_highway_l100km":9}},{"name":"3.5L 6AT (273 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":3456,"cylinders":6,"cylinder_layout":"V","power_hp":273,"power_kw":201,"torque_nm":336,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":7.7,"fuel_consumption_combined_l100km":11.2,"fuel_consumption_city_l100km":13.1,"fuel_consumption_highway_l100km":9.4}},{"name":"3.5L CVT (249 HP) Hybrid AWD","engine":{"type":"hybrid_petrol","aspiration":"multipoint injection","displacement_cc":3456,"cylinders":6,"cylinder_layout":"V","power_hp":249,"power_kw":183,"torque_nm":317,"fuel_type":"hybrid_petrol"},"transmission":{"type":"cvt"},"drivetrain":"awd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":7.4,"fuel_consumption_combined_l100km":8.1,"fuel_consumption_city_l100km":7.8,"fuel_consumption_highway_l100km":8.4}},{"name":"3.5L CVT (249 HP) Hybrid","engine":{"type":"hybrid_petrol","aspiration":"multipoint injection","displacement_cc":3456,"cylinders":6,"cylinder_layout":"V","power_hp":249,"power_kw":183,"torque_nm":317,"fuel_type":"hybrid_petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":7.8,"fuel_consumption_combined_l100km":7.9,"fuel_consumption_city_l100km":7.4,"fuel_consumption_highway_l100km":8.4}},{"name":"2.0L 6AT (238 HP) AWD","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1998,"cylinders":4,"power_hp":238,"power_kw":175,"torque_nm":350,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"awd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":9.5,"fuel_consumption_combined_l100km":8.2,"fuel_consumption_city_l100km":9.9,"fuel_consumption_highway_l100km":6.6}},{"name":"3.5L 8AT (290 HP) AWD","engine":{"type":"petrol","aspiration":"monopoint injection","displacement_cc":3456,"cylinders":6,"cylinder_layout":"V","power_hp":290,"power_kw":213,"torque_nm":363,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":8.1,"fuel_consumption_combined_l100km":11.2,"fuel_consumption_city_l100km":13.1,"fuel_consumption_highway_l100km":9.4}},{"name":"3.5L AT (308 HP) Hybrid AWD","engine":{"type":"hybrid_petrol","aspiration":"monopoint injection","displacement_cc":3456,"cylinders":6,"cylinder_layout":"V","power_hp":308,"power_kw":226,"torque_nm":363,"fuel_type":"hybrid_petrol"},"transmission":{"type":"automatic"},"drivetrain":"awd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":7.9,"fuel_consumption_combined_l100km":8,"fuel_consumption_city_l100km":7.6,"fuel_consumption_highway_l100km":8.4}},{"name":"3.5L CVT (263 HP) Hybrid AWD","engine":{"type":"hybrid_petrol","aspiration":"monopoint injection","displacement_cc":3456,"cylinders":6,"cylinder_layout":"V","power_hp":263,"power_kw":193,"torque_nm":335,"fuel_type":"hybrid_petrol"},"transmission":{"type":"cvt"},"drivetrain":"awd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":7.7,"fuel_consumption_combined_l100km":5.2,"fuel_consumption_city_l100km":5.2,"fuel_consumption_highway_l100km":5.2}}]}]},{"id":"lexus_ux","name":"UX","body_type":"suv","powertrain":"ice","generations":[{"id":"lexus_ux__ux_suv_2019_2019","name":"UX I 2019-2025","ys":2019,"ye":2025,"body_type":"suv","dimensions":{"length_mm":4495,"width_mm":1840,"height_mm":1545,"ground_clearance_mm":200,"trunk_volume_l":315,"trunk_volume_max_l":486,"curb_weight_kg":1840,"gross_weight_kg":2245,"doors":5,"seats":5},"trims":[{"name":"2.0L CVT (169 HP)","engine":{"type":"petrol","aspiration":"direct injection","displacement_cc":1987,"cylinders":4,"power_hp":169,"power_kw":124,"torque_nm":205,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"top_speed_kmh":190,"acceleration_0_100_s":9.2,"fuel_consumption_combined_l100km":7.2,"fuel_consumption_city_l100km":8.1,"fuel_consumption_highway_l100km":6.4}},{"name":"2.0L CVT (181 HP) Hybrid AWD","engine":{"type":"hybrid_petrol","aspiration":"direct injection","displacement_cc":1987,"cylinders":4,"power_hp":181,"power_kw":133,"fuel_type":"hybrid_petrol"},"transmission":{"type":"cvt"},"drivetrain":"awd","performance":{"top_speed_kmh":177,"acceleration_0_100_s":8.7,"fuel_consumption_combined_l100km":7.2,"fuel_consumption_city_l100km":8.1,"fuel_consumption_highway_l100km":6.4}},{"name":"EV 150 kW AWD","engine":{"type":"electric","power_hp":9,"power_kw":150,"torque_nm":300,"fuel_type":"electric"},"drivetrain":"awd","performance":{"power_hp":9,"power_kw":150}},{"name":"2.0L AT (152 HP) AWD","engine":{"type":"petrol","displacement_cc":1987,"cylinders":4,"power_hp":152,"power_kw":112,"fuel_type":"petrol"},"transmission":{"type":"automatic"},"drivetrain":"awd","performance":{"top_speed_kmh":190,"acceleration_0_100_s":9.2,"fuel_consumption_combined_l100km":7.2,"fuel_consumption_city_l100km":8.1,"fuel_consumption_highway_l100km":6.4,"co2_emissions_gkm":121,"fuel_consumption_standard":"WLTP"}}]},{"id":"lexus_lexus_ux200__lexus_ux200_2023_2023","name":"UX II (UX200) 2023-2024","ys":2023,"ye":2024,"body_type":"suv","dimensions":{"length_mm":4496,"width_mm":1839,"height_mm":1519,"wheelbase_mm":2639,"curb_weight_kg":1500},"trims":[{"name":"2.0L AT (173 HP) AWD","engine":{"type":"petrol","displacement_cc":1987,"cylinders":4,"power_hp":173,"power_kw":127,"fuel_type":"petrol"},"transmission":{"type":"automatic"},"drivetrain":"awd","performance":{"top_speed_kmh":190,"acceleration_0_100_s":9.2,"fuel_consumption_combined_l100km":7.2,"fuel_consumption_city_l100km":8.1,"fuel_consumption_highway_l100km":6.4,"co2_emissions_gkm":112,"fuel_consumption_standard":"WLTP"}},{"name":"2.0L CVT (184 HP) Hybrid","engine":{"type":"hybrid_petrol","displacement_cc":1987,"power_hp":184,"torque_nm":188,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"power_hp":184,"top_speed_kmh":190,"acceleration_0_100_s":9.2,"fuel_consumption_city_l100km":8.1,"fuel_consumption_highway_l100km":6.4,"fuel_consumption_combined_l100km":7.2}},{"name":"2.0L CVT (184 HP) Hybrid AWD","engine":{"type":"hybrid_petrol","displacement_cc":1987,"power_hp":184,"torque_nm":188,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"awd","performance":{"power_hp":184,"top_speed_kmh":190,"acceleration_0_100_s":9.2,"fuel_consumption_city_l100km":8.1,"fuel_consumption_highway_l100km":6.4,"fuel_consumption_combined_l100km":7.2}},{"name":"2.0L CVT (199 HP) Hybrid","engine":{"type":"hybrid_petrol","displacement_cc":1987,"power_hp":199,"torque_nm":190,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"power_hp":199,"top_speed_kmh":190,"acceleration_0_100_s":9.2,"fuel_consumption_city_l100km":8.1,"fuel_consumption_highway_l100km":6.4,"fuel_consumption_combined_l100km":7.2}},{"name":"2.0L AT (152 HP) AWD","engine":{"type":"petrol","displacement_cc":1987,"cylinders":4,"power_hp":152,"power_kw":112,"fuel_type":"petrol"},"transmission":{"type":"automatic"},"drivetrain":"awd","performance":{"top_speed_kmh":190,"acceleration_0_100_s":9.2,"fuel_consumption_combined_l100km":7.2,"fuel_consumption_city_l100km":8.1,"fuel_consumption_highway_l100km":6.4,"co2_emissions_gkm":95,"fuel_consumption_standard":"WLTP"}},{"name":"EV 150 kW AWD","engine":{"type":"electric","power_hp":204,"power_kw":150,"fuel_type":"electric"},"transmission":{"type":"automatic"},"drivetrain":"awd","performance":{"top_speed_kmh":190,"acceleration_0_100_s":9.2,"fuel_consumption_combined_l100km":7.2,"fuel_consumption_city_l100km":8.1,"fuel_consumption_highway_l100km":6.4,"fuel_consumption_standard":"WLTP"}},{"name":"2.0L AT (171 HP) AWD","engine":{"type":"petrol","displacement_cc":1987,"cylinders":4,"power_hp":171,"power_kw":126,"fuel_type":"petrol"},"transmission":{"type":"automatic"},"drivetrain":"awd","performance":{"top_speed_kmh":190,"acceleration_0_100_s":9.2,"fuel_consumption_combined_l100km":7.2,"fuel_consumption_city_l100km":8.1,"fuel_consumption_highway_l100km":6.4,"co2_emissions_gkm":150,"fuel_consumption_standard":"WLTP"}}]}]}]}
+{
+  "id": "lexus",
+  "name": "Lexus",
+  "name_ru": "Лексус",
+  "country": "JP",
+  "models": [
+    {
+      "id": "lexus_es",
+      "name": "ES",
+      "body_type": "sedan",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "lexus_es__es_2012_2015_2012",
+          "name": "ES I 2012-2015",
+          "ys": 2012,
+          "ye": 2015,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 4895,
+            "width_mm": 1820,
+            "height_mm": 1450,
+            "wheelbase_mm": 2888,
+            "ground_clearance_mm": 140,
+            "trunk_volume_l": 342,
+            "fuel_tank_l": 70,
+            "doors": 4,
+            "seats": 5,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 3937
+          },
+          "trims": [
+            {
+              "name": "3.0L 5AT (213 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 2994,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 213,
+                "power_kw": 156,
+                "torque_nm": 299,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 225,
+                "acceleration_0_100_s": 8.1,
+                "fuel_consumption_combined_l100km": 9.9,
+                "fuel_consumption_city_l100km": 11.8,
+                "fuel_consumption_highway_l100km": 8.1
+              }
+            },
+            {
+              "name": "3.3L 5AT (228 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 3311,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 228,
+                "power_kw": 168,
+                "torque_nm": 325,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 230,
+                "acceleration_0_100_s": 7.2,
+                "fuel_consumption_combined_l100km": 9.6,
+                "fuel_consumption_city_l100km": 11.2,
+                "fuel_consumption_highway_l100km": 8.1
+              }
+            },
+            {
+              "name": "3.5L 6AT (276 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 3456,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 276,
+                "power_kw": 203,
+                "torque_nm": 344,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 221,
+                "acceleration_0_100_s": 6.8,
+                "fuel_consumption_combined_l100km": 9.5,
+                "fuel_consumption_city_l100km": 11.2,
+                "fuel_consumption_highway_l100km": 7.8
+              }
+            },
+            {
+              "name": "2.5L 6AT (184 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 2494,
+                "power_hp": 184,
+                "power_kw": 135,
+                "torque_nm": 235,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 198,
+                "acceleration_0_100_s": 9.8,
+                "fuel_consumption_combined_l100km": 8.6,
+                "fuel_consumption_city_l100km": 11,
+                "fuel_consumption_highway_l100km": 6.1
+              }
+            },
+            {
+              "name": "2.5L AT (160 HP) Hybrid",
+              "engine": {
+                "type": "hybrid_petrol",
+                "aspiration": "direct injection",
+                "displacement_cc": 2494,
+                "power_hp": 160,
+                "power_kw": 118,
+                "torque_nm": 213,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "automatic"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 7.9,
+                "fuel_consumption_combined_l100km": 6,
+                "fuel_consumption_city_l100km": 5.9,
+                "fuel_consumption_highway_l100km": 6
+              }
+            }
+          ]
+        },
+        {
+          "id": "lexus_es__es_2018_2021_2018",
+          "name": "ES II 2018-2025",
+          "ys": 2018,
+          "ye": 2025,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 4975,
+            "width_mm": 1865,
+            "height_mm": 1445,
+            "wheelbase_mm": 2870,
+            "ground_clearance_mm": 155,
+            "trunk_volume_l": 430,
+            "fuel_tank_l": 49,
+            "curb_weight_kg": 1771,
+            "doors": 4,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "2.5L (178 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 2487,
+                "power_hp": 178,
+                "power_kw": 131,
+                "fuel_type": "petrol"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 5.3,
+                "co2_emissions_gkm": 120,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "3.5L 6AT (7 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 3456,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 7,
+                "power_kw": 199,
+                "torque_nm": 336,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 209,
+                "acceleration_0_100_s": 7.3,
+                "fuel_consumption_combined_l100km": 9.4,
+                "fuel_consumption_city_l100km": 11.2,
+                "fuel_consumption_highway_l100km": 7.6
+              }
+            },
+            {
+              "name": "2.5L CVT (8 HP) Hybrid",
+              "engine": {
+                "type": "hybrid_petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 2494,
+                "power_hp": 8,
+                "power_kw": 149,
+                "torque_nm": 221,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 8.4,
+                "fuel_consumption_combined_l100km": 6,
+                "fuel_consumption_city_l100km": 5.9,
+                "fuel_consumption_highway_l100km": 6
+              }
+            },
+            {
+              "name": "2.4L 8AT (215 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 2449,
+                "power_hp": 215,
+                "power_kw": 158,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 215,
+                "power_kw": 158
+              }
+            },
+            {
+              "name": "3.7L 8AT (302 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 3696,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 302,
+                "power_kw": 222,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 302,
+                "power_kw": 222
+              }
+            },
+            {
+              "name": "2.5L 8AT (200 HP)",
+              "engine": {
+                "code": "A25A-FKS",
+                "type": "petrol",
+                "aspiration": "NA",
+                "displacement_cc": 2487,
+                "cylinders": 4,
+                "power_hp": 200,
+                "power_kw": 150,
+                "torque_nm": 243,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 210,
+                "acceleration_0_100_s": 9.1,
+                "fuel_consumption_combined_l100km": 9.4
+              }
+            },
+            {
+              "name": "2.5L CVT (218 HP) Hybrid",
+              "engine": {
+                "code": "A25A-FXS",
+                "type": "hybrid_petrol",
+                "aspiration": "NA",
+                "displacement_cc": 2487,
+                "cylinders": 4,
+                "power_hp": 218,
+                "power_kw": 160,
+                "torque_nm": 221,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 8.1,
+                "fuel_consumption_combined_l100km": 4.8
+              }
+            },
+            {
+              "name": "2.5L 8AT (203 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 2487,
+                "power_hp": 203,
+                "torque_nm": 243,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 203
+              }
+            },
+            {
+              "name": "3.5L 8AT (302 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 3456,
+                "power_hp": 302,
+                "torque_nm": 362,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 302
+              }
+            },
+            {
+              "name": "2.5L 8AT (203 HP) AWD",
+              "engine": {
+                "code": "A25A-FKS",
+                "type": "petrol",
+                "aspiration": "naturally_aspirated",
+                "displacement_cc": 2487,
+                "cylinders": 4,
+                "power_hp": 203,
+                "power_kw": 150,
+                "torque_nm": 249,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 8.6,
+                "fuel_consumption_combined_l100km": 8.1
+              }
+            }
+          ]
+        },
+        {
+          "id": "lexus_es__es_vii_xz10_facelift_2024_sedan_2025_2024",
+          "name": "ES III 2023-2024",
+          "ys": 2023,
+          "ye": 2024,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 4976,
+            "width_mm": 1864,
+            "height_mm": 1445,
+            "wheelbase_mm": 2870,
+            "curb_weight_kg": 1715,
+            "ground_clearance_mm": 140,
+            "trunk_volume_l": 454,
+            "trunk_volume_max_l": 454,
+            "gross_weight_kg": 2150,
+            "doors": 4,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "2.5L (178 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 2487,
+                "power_hp": 178,
+                "power_kw": 131,
+                "fuel_type": "petrol"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 5.2,
+                "co2_emissions_gkm": 119,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "3.5L 6AT (7 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 3456,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 7,
+                "power_kw": 199,
+                "torque_nm": 336,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 209,
+                "acceleration_0_100_s": 7.3,
+                "fuel_consumption_combined_l100km": 9.4,
+                "fuel_consumption_city_l100km": 11.2,
+                "fuel_consumption_highway_l100km": 7.6
+              }
+            },
+            {
+              "name": "2.5L CVT (8 HP) Hybrid",
+              "engine": {
+                "type": "hybrid_petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 2494,
+                "power_hp": 8,
+                "power_kw": 149,
+                "torque_nm": 221,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 8.4,
+                "fuel_consumption_combined_l100km": 6,
+                "fuel_consumption_city_l100km": 5.9,
+                "fuel_consumption_highway_l100km": 6
+              }
+            },
+            {
+              "name": "2.4L 8AT (215 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 2449,
+                "power_hp": 215,
+                "power_kw": 158,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 215,
+                "power_kw": 158
+              }
+            },
+            {
+              "name": "3.7L 8AT (302 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 3696,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 302,
+                "power_kw": 222,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 302,
+                "power_kw": 222
+              }
+            },
+            {
+              "name": "2.5L 8AT (200 HP)",
+              "engine": {
+                "code": "A25A-FKS",
+                "type": "petrol",
+                "aspiration": "NA",
+                "displacement_cc": 2487,
+                "cylinders": 4,
+                "power_hp": 200,
+                "power_kw": 150,
+                "torque_nm": 243,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 210,
+                "acceleration_0_100_s": 9.1,
+                "fuel_consumption_combined_l100km": 9.4
+              }
+            },
+            {
+              "name": "2.5L CVT (218 HP) Hybrid",
+              "engine": {
+                "code": "A25A-FXS",
+                "type": "hybrid_petrol",
+                "aspiration": "NA",
+                "displacement_cc": 2487,
+                "cylinders": 4,
+                "power_hp": 218,
+                "power_kw": 160,
+                "torque_nm": 221,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 8.1,
+                "fuel_consumption_combined_l100km": 4.8
+              }
+            },
+            {
+              "name": "2.5L 8AT (203 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 2487,
+                "power_hp": 203,
+                "torque_nm": 243,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 203
+              }
+            },
+            {
+              "name": "3.5L 8AT (302 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 3456,
+                "power_hp": 302,
+                "torque_nm": 362,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 302
+              }
+            }
+          ]
+        },
+        {
+          "id": "lexus_es__es_viii_xz20_sedan_2026_2105",
+          "name": "ES IV 2026-н.в.",
+          "ys": 2026,
+          "ye": null,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 5140,
+            "width_mm": 1920,
+            "height_mm": 1560,
+            "ground_clearance_mm": 140,
+            "curb_weight_kg": 2205,
+            "doors": 4,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "3.5L 6AT (7 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 3456,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 7,
+                "power_kw": 199,
+                "torque_nm": 336,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 209,
+                "acceleration_0_100_s": 7.3,
+                "fuel_consumption_combined_l100km": 9.4,
+                "fuel_consumption_city_l100km": 11.2,
+                "fuel_consumption_highway_l100km": 7.6
+              }
+            },
+            {
+              "name": "2.5L CVT (8 HP) Hybrid",
+              "engine": {
+                "type": "hybrid_petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 2494,
+                "power_hp": 8,
+                "power_kw": 149,
+                "torque_nm": 221,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 8.4,
+                "fuel_consumption_combined_l100km": 6,
+                "fuel_consumption_city_l100km": 5.9,
+                "fuel_consumption_highway_l100km": 6
+              }
+            },
+            {
+              "name": "2.4L 8AT (215 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 2449,
+                "power_hp": 215,
+                "power_kw": 158,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 215,
+                "power_kw": 158
+              }
+            },
+            {
+              "name": "3.7L 8AT (302 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 3696,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 302,
+                "power_kw": 222,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 302,
+                "power_kw": 222
+              }
+            },
+            {
+              "name": "2.5L 8AT (200 HP)",
+              "engine": {
+                "code": "A25A-FKS",
+                "type": "petrol",
+                "aspiration": "NA",
+                "displacement_cc": 2487,
+                "cylinders": 4,
+                "power_hp": 200,
+                "power_kw": 150,
+                "torque_nm": 243,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 210,
+                "acceleration_0_100_s": 9.1,
+                "fuel_consumption_combined_l100km": 9.4
+              }
+            },
+            {
+              "name": "2.5L CVT (218 HP) Hybrid",
+              "engine": {
+                "code": "A25A-FXS",
+                "type": "hybrid_petrol",
+                "aspiration": "NA",
+                "displacement_cc": 2487,
+                "cylinders": 4,
+                "power_hp": 218,
+                "power_kw": 160,
+                "torque_nm": 221,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 8.1,
+                "fuel_consumption_combined_l100km": 4.8
+              }
+            },
+            {
+              "name": "2.5L 8AT (203 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 2487,
+                "power_hp": 203,
+                "torque_nm": 243,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 203
+              }
+            },
+            {
+              "name": "2.5L CVT (218 HP) Hybrid",
+              "engine": {
+                "type": "hybrid_petrol",
+                "displacement_cc": 2487,
+                "power_hp": 218,
+                "torque_nm": 221,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 218
+              }
+            },
+            {
+              "name": "3.5L 8AT (302 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 3456,
+                "power_hp": 302,
+                "torque_nm": 362,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 302
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lexus_gx",
+      "name": "GX",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "lexus_gx__gx_2010_2013_2010",
+          "name": "GX I 2010-2013",
+          "ys": 2010,
+          "ye": 2013,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 5005,
+            "width_mm": 1885,
+            "height_mm": 1935,
+            "wheelbase_mm": 2952,
+            "ground_clearance_mm": 200,
+            "trunk_volume_l": 292,
+            "doors": 5,
+            "seats": 5,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 5232
+          },
+          "trims": [
+            {
+              "name": "4.7L 5AT (235 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 4664,
+                "cylinders": 8,
+                "cylinder_layout": "V",
+                "power_hp": 235,
+                "power_kw": 173,
+                "torque_nm": 434,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 5
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 8.5,
+                "fuel_consumption_combined_l100km": 15.3,
+                "fuel_consumption_city_l100km": 16.8,
+                "fuel_consumption_highway_l100km": 13.8
+              }
+            },
+            {
+              "name": "4.6L 6AT (301 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 4608,
+                "cylinders": 8,
+                "cylinder_layout": "V",
+                "power_hp": 301,
+                "power_kw": 221,
+                "torque_nm": 446,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 177,
+                "acceleration_0_100_s": 8.2,
+                "fuel_consumption_combined_l100km": 13.8,
+                "fuel_consumption_city_l100km": 15.7,
+                "fuel_consumption_highway_l100km": 11.8
+              }
+            }
+          ]
+        },
+        {
+          "id": "lexus_lexus_gx_550__lexus_gx_550_2024_2024",
+          "name": "GX II 2024-2024",
+          "ys": 2024,
+          "ye": 2024,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4970,
+            "width_mm": 1885,
+            "height_mm": 1890,
+            "wheelbase_mm": 2790,
+            "ground_clearance_mm": 235,
+            "trunk_volume_l": 700,
+            "fuel_tank_l": 73,
+            "curb_weight_kg": 2430,
+            "doors": 5,
+            "seats": 7
+          },
+          "trims": [
+            {
+              "name": "3.4L 10AT (349 HP) AWD",
+              "engine": {
+                "code": "V35A-FTS",
+                "type": "petrol",
+                "aspiration": "twin-turbo",
+                "displacement_cc": 3445,
+                "cylinders": 6,
+                "power_hp": 349,
+                "power_kw": 257,
+                "torque_nm": 479,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 10
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 6.5,
+                "fuel_consumption_combined_l100km": 12.4
+              }
+            },
+            {
+              "name": "3.4L 10AT (351 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 3445,
+                "cylinders": 6,
+                "power_hp": 351,
+                "power_kw": 258,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 10
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "co2_emissions_gkm": 342,
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lexus_is",
+      "name": "IS",
+      "body_type": "wagon",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "lexus_is__is_1998_2005_1998",
+          "name": "IS I 1998-2005",
+          "ys": 1998,
+          "ye": 2005,
+          "body_type": "wagon",
+          "dimensions": {
+            "length_mm": 4400,
+            "width_mm": 1725,
+            "height_mm": 1412,
+            "ground_clearance_mm": 155,
+            "trunk_volume_l": 310,
+            "fuel_tank_l": 70,
+            "doors": 5,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "2.0L 6MT (155 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1988,
+                "cylinders": 4,
+                "power_hp": 155,
+                "power_kw": 114,
+                "torque_nm": 195,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "top_speed_kmh": 215,
+                "acceleration_0_100_s": 9.5,
+                "fuel_consumption_combined_l100km": 10.7,
+                "fuel_consumption_city_l100km": 13.6,
+                "fuel_consumption_highway_l100km": 7.8
+              }
+            },
+            {
+              "name": "2.2L 6AT (207 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "direct injection",
+                "displacement_cc": 2231,
+                "power_hp": 207,
+                "power_kw": 152,
+                "torque_nm": 252,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "top_speed_kmh": 225,
+                "acceleration_0_100_s": 8.5,
+                "fuel_consumption_combined_l100km": 11.8,
+                "fuel_consumption_city_l100km": 15.5,
+                "fuel_consumption_highway_l100km": 8
+              }
+            },
+            {
+              "name": "2.2L 6MT (207 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "direct injection",
+                "displacement_cc": 2231,
+                "power_hp": 207,
+                "power_kw": 152,
+                "torque_nm": 252,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "top_speed_kmh": 220,
+                "acceleration_0_100_s": 8.7,
+                "fuel_consumption_combined_l100km": 11.8,
+                "fuel_consumption_city_l100km": 15.5,
+                "fuel_consumption_highway_l100km": 8
+              }
+            },
+            {
+              "name": "3.0L 5AT (213 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 2997,
+                "cylinders": 6,
+                "power_hp": 213,
+                "power_kw": 157,
+                "torque_nm": 288,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 5
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "top_speed_kmh": 230,
+                "acceleration_0_100_s": 8.2,
+                "fuel_consumption_combined_l100km": 11.8,
+                "fuel_consumption_city_l100km": 15.5,
+                "fuel_consumption_highway_l100km": 8
+              }
+            },
+            {
+              "name": "2.2L 6AT (177 HP)",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "turbocharged",
+                "displacement_cc": 2231,
+                "power_hp": 177,
+                "power_kw": 130,
+                "torque_nm": 400,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "top_speed_kmh": 216,
+                "acceleration_0_100_s": 9.2,
+                "fuel_consumption_combined_l100km": 11.8,
+                "fuel_consumption_city_l100km": 15.5,
+                "fuel_consumption_highway_l100km": 8
+              }
+            }
+          ]
+        },
+        {
+          "id": "lexus_is__is_iii_xe30_facelift_2020_sedan_2021_2020",
+          "name": "IS II 2020-2020",
+          "ys": 2020,
+          "ye": 2020,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 4680,
+            "width_mm": 1840,
+            "height_mm": 1440,
+            "wheelbase_mm": 3556,
+            "ground_clearance_mm": 140,
+            "trunk_volume_l": 306,
+            "fuel_tank_l": 65,
+            "doors": 4,
+            "seats": 5,
+            "trunk_volume_max_l": 450,
+            "curb_weight_kg": 1780,
+            "gross_weight_kg": 2186
+          },
+          "trims": [
+            {
+              "name": "2.5L 6MT (208 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 2499,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 208,
+                "power_kw": 153,
+                "torque_nm": 251,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "top_speed_kmh": 230,
+                "acceleration_0_100_s": 8.1,
+                "fuel_consumption_combined_l100km": 10.6,
+                "fuel_consumption_city_l100km": 13.5,
+                "fuel_consumption_highway_l100km": 7.7
+              }
+            },
+            {
+              "name": "3.5L AT (310 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "direct injection",
+                "displacement_cc": 3456,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 310,
+                "power_kw": 228,
+                "torque_nm": 376,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic"
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "top_speed_kmh": 229,
+                "acceleration_0_100_s": 5.6,
+                "fuel_consumption_combined_l100km": 9.8,
+                "fuel_consumption_city_l100km": 11.2,
+                "fuel_consumption_highway_l100km": 8.4
+              }
+            },
+            {
+              "name": "2.2L 6MT (177 HP)",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "common rail",
+                "displacement_cc": 2231,
+                "power_hp": 177,
+                "power_kw": 130,
+                "torque_nm": 400,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "top_speed_kmh": 215,
+                "acceleration_0_100_s": 8.9,
+                "fuel_consumption_combined_l100km": 6.7,
+                "fuel_consumption_city_l100km": 7.9,
+                "fuel_consumption_highway_l100km": 5.4
+              }
+            },
+            {
+              "name": "2.0L 8AT (244 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1999,
+                "cylinders": 4,
+                "power_hp": 244,
+                "power_kw": 179,
+                "torque_nm": 350,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 230,
+                "acceleration_0_100_s": 7.2
+              }
+            },
+            {
+              "name": "3.5L 6AT (259 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 3499,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 259,
+                "power_kw": 190,
+                "torque_nm": 320,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 259,
+                "power_kw": 190
+              }
+            },
+            {
+              "name": "3.5L 8AT (310 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 3499,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 310,
+                "power_kw": 228,
+                "torque_nm": 376,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "power_hp": 310,
+                "power_kw": 228
+              }
+            },
+            {
+              "name": "2.5L CVT (223 HP) Hybrid",
+              "engine": {
+                "type": "hybrid_petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 2494,
+                "power_hp": 223,
+                "power_kw": 164,
+                "torque_nm": 221,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 8.6
+              }
+            },
+            {
+              "name": "8AT (241 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "power_hp": 241,
+                "power_kw": 177,
+                "torque_nm": 350,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "top_speed_kmh": 230,
+                "acceleration_0_100_s": 7.1
+              }
+            },
+            {
+              "name": "3.5L 8AT (311 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 3456,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 311,
+                "power_kw": 228,
+                "torque_nm": 380,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "acceleration_0_100_s": 6.3
+              }
+            },
+            {
+              "name": "2.0L 8AT (241 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1998,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 241,
+                "power_kw": 177,
+                "torque_nm": 320,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 241,
+                "power_kw": 177
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lexus_lc",
+      "name": "LC",
+      "body_type": "coupe",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "lexus_lc__lc_2018_2018",
+          "name": "LC I 2018-2025",
+          "ys": 2018,
+          "ye": 2025,
+          "body_type": "coupe",
+          "dimensions": {
+            "length_mm": 4760,
+            "width_mm": 1920,
+            "height_mm": 1346,
+            "wheelbase_mm": 2870,
+            "curb_weight_kg": 1935
+          },
+          "trims": [
+            {
+              "name": "5.0L 10AT (464 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 4969,
+                "cylinders": 8,
+                "power_hp": 464,
+                "power_kw": 341,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 10
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "top_speed_kmh": 270,
+                "acceleration_0_100_s": 4.7,
+                "fuel_consumption_combined_l100km": 12.7,
+                "fuel_consumption_city_l100km": 17.4,
+                "fuel_consumption_highway_l100km": 8,
+                "co2_emissions_gkm": 262,
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        },
+        {
+          "id": "lexus_lc500__lc500_2023_2023",
+          "name": "LC II (LC500) 2023-2026",
+          "ys": 2023,
+          "ye": 2026,
+          "body_type": "coupe",
+          "dimensions": {
+            "length_mm": 4760,
+            "width_mm": 1920,
+            "height_mm": 1346,
+            "wheelbase_mm": 2870,
+            "curb_weight_kg": 1935,
+            "ground_clearance_mm": 120,
+            "trunk_volume_l": 96,
+            "trunk_volume_max_l": 96,
+            "gross_weight_kg": 2475,
+            "doors": 2,
+            "seats": 4
+          },
+          "trims": [
+            {
+              "name": "5.0L 10AT (464 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 4969,
+                "cylinders": 8,
+                "power_hp": 464,
+                "power_kw": 341,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 10
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "top_speed_kmh": 270,
+                "acceleration_0_100_s": 4.7,
+                "fuel_consumption_combined_l100km": 12.7,
+                "fuel_consumption_city_l100km": 17.4,
+                "fuel_consumption_highway_l100km": 8,
+                "co2_emissions_gkm": 268,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "5.0L 10AT (461 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 4954,
+                "cylinders": 8,
+                "power_hp": 461,
+                "power_kw": 339,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 10
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "top_speed_kmh": 270,
+                "acceleration_0_100_s": 4.7,
+                "fuel_consumption_combined_l100km": 12.7,
+                "fuel_consumption_city_l100km": 17.4,
+                "fuel_consumption_highway_l100km": 8,
+                "co2_emissions_gkm": 235,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "3.5L 10AT (299 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 3456,
+                "cylinders": 6,
+                "power_hp": 299,
+                "power_kw": 220,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 10
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "top_speed_kmh": 270,
+                "acceleration_0_100_s": 4.7,
+                "fuel_consumption_combined_l100km": 12.7,
+                "fuel_consumption_city_l100km": 17.4,
+                "fuel_consumption_highway_l100km": 8,
+                "co2_emissions_gkm": 183,
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lexus_ls",
+      "name": "LS",
+      "body_type": "sedan",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "lexus_ls__ls_1997_2000_1997",
+          "name": "LS I 1995-2000",
+          "ys": 1995,
+          "ye": 2000,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 4995,
+            "width_mm": 1830,
+            "height_mm": 1440,
+            "wheelbase_mm": 3556,
+            "ground_clearance_mm": 140,
+            "trunk_volume_l": 463,
+            "doors": 4,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "4.0L 4AT (245 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 3969,
+                "cylinders": 8,
+                "cylinder_layout": "V",
+                "power_hp": 245,
+                "power_kw": 180,
+                "torque_nm": 350,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 4
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "top_speed_kmh": 249,
+                "acceleration_0_100_s": 8.5
+              }
+            },
+            {
+              "name": "4.0L 5AT (284 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 3969,
+                "cylinders": 8,
+                "cylinder_layout": "V",
+                "power_hp": 284,
+                "power_kw": 209,
+                "torque_nm": 398,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 5
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "top_speed_kmh": 250,
+                "acceleration_0_100_s": 6.9,
+                "fuel_consumption_combined_l100km": 13.3,
+                "fuel_consumption_city_l100km": 17.4,
+                "fuel_consumption_highway_l100km": 9.2
+              }
+            }
+          ]
+        },
+        {
+          "id": "lexus_ls__ls_2012_2017_2012",
+          "name": "LS II 2012-2020",
+          "ys": 2012,
+          "ye": 2020,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 5090,
+            "width_mm": 1875,
+            "height_mm": 1470,
+            "wheelbase_mm": 3683,
+            "ground_clearance_mm": 140,
+            "trunk_volume_l": 420,
+            "fuel_tank_l": 84,
+            "doors": 4,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "4.6L 8AT (390 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "direct injection",
+                "displacement_cc": 4608,
+                "cylinders": 8,
+                "cylinder_layout": "V",
+                "power_hp": 390,
+                "power_kw": 287,
+                "torque_nm": 500,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "top_speed_kmh": 209,
+                "acceleration_0_100_s": 5.4,
+                "fuel_consumption_combined_l100km": 12.2,
+                "fuel_consumption_city_l100km": 14.7,
+                "fuel_consumption_highway_l100km": 9.8
+              }
+            },
+            {
+              "name": "4.6L 8AT (360 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "direct injection",
+                "displacement_cc": 4608,
+                "cylinders": 8,
+                "cylinder_layout": "V",
+                "power_hp": 360,
+                "power_kw": 265,
+                "torque_nm": 470,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 209,
+                "acceleration_0_100_s": 6,
+                "fuel_consumption_combined_l100km": 12.4,
+                "fuel_consumption_city_l100km": 14.7,
+                "fuel_consumption_highway_l100km": 10.2
+              }
+            },
+            {
+              "name": "4.6L AT (390 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "direct injection",
+                "displacement_cc": 4608,
+                "cylinders": 8,
+                "cylinder_layout": "V",
+                "power_hp": 390,
+                "power_kw": 287,
+                "torque_nm": 500,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic"
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "top_speed_kmh": 209,
+                "acceleration_0_100_s": 5.6,
+                "fuel_consumption_combined_l100km": 12.2,
+                "fuel_consumption_city_l100km": 14.7,
+                "fuel_consumption_highway_l100km": 9.8
+              }
+            },
+            {
+              "name": "5.0L CVT (394 HP) Hybrid AWD",
+              "engine": {
+                "type": "hybrid_petrol",
+                "aspiration": "direct injection",
+                "displacement_cc": 4969,
+                "cylinders": 8,
+                "cylinder_layout": "V",
+                "power_hp": 394,
+                "power_kw": 289,
+                "torque_nm": 522,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 209,
+                "acceleration_0_100_s": 5.8,
+                "fuel_consumption_combined_l100km": 11.3,
+                "fuel_consumption_city_l100km": 12.4,
+                "fuel_consumption_highway_l100km": 10.2
+              }
+            },
+            {
+              "name": "4.3L 5AT (281 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 4293,
+                "cylinders": 8,
+                "cylinder_layout": "V",
+                "power_hp": 281,
+                "power_kw": 207,
+                "torque_nm": 417,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 5
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "top_speed_kmh": 250,
+                "acceleration_0_100_s": 6.7,
+                "fuel_consumption_combined_l100km": 13.2,
+                "fuel_consumption_city_l100km": 17.6,
+                "fuel_consumption_highway_l100km": 8.9
+              }
+            },
+            {
+              "name": "4.3L 6AT (282 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 4293,
+                "cylinders": 8,
+                "cylinder_layout": "V",
+                "power_hp": 282,
+                "power_kw": 207,
+                "torque_nm": 417,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "top_speed_kmh": 250,
+                "acceleration_0_100_s": 6.3,
+                "fuel_consumption_combined_l100km": 12.4,
+                "fuel_consumption_city_l100km": 16.3,
+                "fuel_consumption_highway_l100km": 8.5
+              }
+            },
+            {
+              "name": "4.6L 8AT (379 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 4608,
+                "cylinders": 8,
+                "cylinder_layout": "V",
+                "power_hp": 379,
+                "power_kw": 279,
+                "torque_nm": 498,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "top_speed_kmh": 249,
+                "acceleration_0_100_s": 5.7,
+                "fuel_consumption_combined_l100km": 10.5,
+                "fuel_consumption_city_l100km": 12.3,
+                "fuel_consumption_highway_l100km": 8.7
+              }
+            },
+            {
+              "name": "3.5L 10AT (416 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 3455,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 416,
+                "power_kw": 306,
+                "torque_nm": 599,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 10
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 219,
+                "acceleration_0_100_s": 4.8,
+                "fuel_consumption_combined_l100km": 10.9,
+                "fuel_consumption_city_l100km": 13.1,
+                "fuel_consumption_highway_l100km": 8.7
+              }
+            }
+          ]
+        },
+        {
+          "id": "lexus_ls__ls_2018_2018",
+          "name": "LS III 2018-2025",
+          "ys": 2018,
+          "ye": 2025,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 5235,
+            "width_mm": 1900,
+            "height_mm": 1450,
+            "wheelbase_mm": 3683,
+            "ground_clearance_mm": 140,
+            "trunk_volume_l": 430,
+            "curb_weight_kg": 2447,
+            "doors": 4,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "3.5L 10AT (299 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 3456,
+                "cylinders": 6,
+                "power_hp": 299,
+                "power_kw": 220,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 10
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 219,
+                "acceleration_0_100_s": 4.8,
+                "fuel_consumption_combined_l100km": 10.9,
+                "fuel_consumption_city_l100km": 13.1,
+                "fuel_consumption_highway_l100km": 8.7,
+                "co2_emissions_gkm": 215,
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        },
+        {
+          "id": "lexus_lexus_ls500h__lexus_ls500h_2023_2023",
+          "name": "LS IV 2023-2023",
+          "ys": 2023,
+          "ye": 2023,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 5235,
+            "width_mm": 1900,
+            "height_mm": 1450,
+            "wheelbase_mm": 3124,
+            "curb_weight_kg": 2240
+          },
+          "trims": [
+            {
+              "name": "3.5L 10AT (299 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 3456,
+                "cylinders": 6,
+                "power_hp": 299,
+                "power_kw": 220,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 10
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 219,
+                "acceleration_0_100_s": 4.8,
+                "fuel_consumption_combined_l100km": 10.9,
+                "fuel_consumption_city_l100km": 13.1,
+                "fuel_consumption_highway_l100km": 8.7,
+                "co2_emissions_gkm": 214,
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lexus_lx",
+      "name": "LX",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "lexus_lx__lx_1997_2007_1997",
+          "name": "LX I 1997-2007",
+          "ys": 1997,
+          "ye": 2007,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4890,
+            "width_mm": 1940,
+            "height_mm": 1875,
+            "wheelbase_mm": 2885,
+            "ground_clearance_mm": 200,
+            "trunk_volume_l": 510,
+            "doors": 5,
+            "seats": 5,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 5588
+          },
+          "trims": [
+            {
+              "name": "4.5L 5MT (215 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 4477,
+                "cylinders": 8,
+                "cylinder_layout": "V",
+                "power_hp": 215,
+                "power_kw": 158,
+                "torque_nm": 373,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 16.1,
+                "fuel_consumption_city_l100km": 17.2,
+                "fuel_consumption_highway_l100km": 15,
+                "power_hp": 215,
+                "power_kw": 158
+              }
+            },
+            {
+              "name": "4.7L 4AT (235 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 4664,
+                "cylinders": 8,
+                "cylinder_layout": "V",
+                "power_hp": 235,
+                "power_kw": 173,
+                "torque_nm": 422,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 4
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 175,
+                "acceleration_0_100_s": 11.7,
+                "fuel_consumption_combined_l100km": 17.9,
+                "fuel_consumption_city_l100km": 22.4,
+                "fuel_consumption_highway_l100km": 13.3
+              }
+            }
+          ]
+        },
+        {
+          "id": "lexus_lx__lx_2018_2018",
+          "name": "LX II 2018-2025",
+          "ys": 2018,
+          "ye": 2025,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 5005,
+            "width_mm": 1980,
+            "height_mm": 1910,
+            "wheelbase_mm": 2952,
+            "ground_clearance_mm": 200,
+            "trunk_volume_l": 259,
+            "curb_weight_kg": 2650,
+            "doors": 5,
+            "seats": 5,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 5715
+          },
+          "trims": [
+            {
+              "name": "3.3L 10AT (307 HP) AWD",
+              "engine": {
+                "type": "diesel",
+                "displacement_cc": 3346,
+                "cylinders": 6,
+                "power_hp": 307,
+                "power_kw": 226,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 10
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        },
+        {
+          "id": "lexus_lx__lx_iv_j300_suv_2022_2021",
+          "name": "LX III (J300) 2021-2021",
+          "ys": 2021,
+          "ye": 2021,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 5090,
+            "width_mm": 1990,
+            "height_mm": 1895,
+            "wheelbase_mm": 2850,
+            "ground_clearance_mm": 200,
+            "trunk_volume_l": 810,
+            "fuel_tank_l": 93,
+            "curb_weight_kg": 2570,
+            "doors": 5,
+            "seats": 7,
+            "trunk_volume_max_l": 1109,
+            "gross_weight_kg": 3379,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 5080
+          },
+          "trims": [
+            {
+              "name": "5.7L 6AT (383 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 5663,
+                "cylinders": 8,
+                "cylinder_layout": "V",
+                "power_hp": 383,
+                "power_kw": 283,
+                "torque_nm": 546,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 220,
+                "acceleration_0_100_s": 7.4,
+                "fuel_consumption_combined_l100km": 16.4,
+                "fuel_consumption_city_l100km": 19.6,
+                "fuel_consumption_highway_l100km": 13.1
+              }
+            },
+            {
+              "name": "5.7L 8AT (367 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 5663,
+                "cylinders": 8,
+                "cylinder_layout": "V",
+                "power_hp": 367,
+                "power_kw": 269,
+                "torque_nm": 530,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 220,
+                "acceleration_0_100_s": 7.7,
+                "fuel_consumption_combined_l100km": 15.6,
+                "fuel_consumption_city_l100km": 20.3,
+                "fuel_consumption_highway_l100km": 10.9
+              }
+            },
+            {
+              "name": "4.5L 6AT (272 HP) AWD",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "turbocharged",
+                "displacement_cc": 4461,
+                "cylinders": 8,
+                "cylinder_layout": "V",
+                "power_hp": 272,
+                "power_kw": 200,
+                "torque_nm": 650,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 209,
+                "acceleration_0_100_s": 8.6,
+                "fuel_consumption_combined_l100km": 9.8,
+                "fuel_consumption_city_l100km": 11.2,
+                "fuel_consumption_highway_l100km": 8.5
+              }
+            },
+            {
+              "name": "10AT (409 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 409,
+                "power_kw": 300,
+                "torque_nm": 649,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 10
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 409,
+                "power_kw": 300
+              }
+            },
+            {
+              "name": "3.4L 10AT (415 HP) AWD",
+              "engine": {
+                "code": "V35A-FTS",
+                "type": "petrol",
+                "aspiration": "twin-turbo",
+                "displacement_cc": 3445,
+                "cylinders": 6,
+                "power_hp": 415,
+                "power_kw": 305,
+                "torque_nm": 650,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 10
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 220,
+                "acceleration_0_100_s": 6.7,
+                "fuel_consumption_combined_l100km": 13.2
+              }
+            }
+          ]
+        },
+        {
+          "id": "lexus_lx_600__lx_600_2024_2024",
+          "name": "LX IV 2024-2024",
+          "ys": 2024,
+          "ye": 2024,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 5065,
+            "width_mm": 1981,
+            "height_mm": 1910,
+            "wheelbase_mm": 2850,
+            "curb_weight_kg": 2740
+          },
+          "trims": [
+            {
+              "name": "3.4L 10AT (415 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 3445,
+                "cylinders": 6,
+                "power_hp": 415,
+                "power_kw": 305,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 10
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lexus_nx",
+      "name": "NX",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "lexus_nx__nx_2018_2018",
+          "name": "NX I 2018-2025",
+          "ys": 2018,
+          "ye": 2025,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4630,
+            "width_mm": 1845,
+            "height_mm": 1661,
+            "wheelbase_mm": 2731,
+            "ground_clearance_mm": 200,
+            "trunk_volume_l": 545,
+            "curb_weight_kg": 2075,
+            "doors": 5,
+            "seats": 5,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 4699
+          },
+          "trims": [
+            {
+              "name": "2.5L 8AT (190 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 2487,
+                "power_hp": 190,
+                "power_kw": 140,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "acceleration_0_100_s": 8.5,
+                "fuel_consumption_combined_l100km": 6.5,
+                "co2_emissions_gkm": 146,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "2.5L 8AT (185 HP) Hybrid AWD",
+              "engine": {
+                "type": "hybrid_petrol",
+                "displacement_cc": 2487,
+                "power_hp": 185,
+                "power_kw": 136,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "acceleration_0_100_s": 8.5,
+                "fuel_consumption_combined_l100km": 1,
+                "co2_emissions_gkm": 23,
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        },
+        {
+          "id": "lexus_nx__nx_2021_2021",
+          "name": "NX II 2021-2023",
+          "ys": 2021,
+          "ye": 2023,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4660,
+            "width_mm": 1865,
+            "height_mm": 1660,
+            "wheelbase_mm": 2690,
+            "ground_clearance_mm": 185,
+            "trunk_volume_l": 545,
+            "fuel_tank_l": 56,
+            "curb_weight_kg": 1740,
+            "doors": 5,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "2.0L 6AT (238 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1998,
+                "cylinders": 4,
+                "power_hp": 238,
+                "power_kw": 175,
+                "torque_nm": 350,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 7.2,
+                "fuel_consumption_combined_l100km": 9.6,
+                "fuel_consumption_city_l100km": 10.7,
+                "fuel_consumption_highway_l100km": 8.4
+              }
+            },
+            {
+              "name": "2.0L 6AT (238 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1998,
+                "cylinders": 4,
+                "power_hp": 238,
+                "power_kw": 175,
+                "torque_nm": 350,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 7.4,
+                "fuel_consumption_combined_l100km": 9.6,
+                "fuel_consumption_city_l100km": 10.7,
+                "fuel_consumption_highway_l100km": 8.4
+              }
+            },
+            {
+              "name": "2.5L CVT (155 HP) Hybrid AWD",
+              "engine": {
+                "type": "hybrid_petrol",
+                "aspiration": "multipoint injection, atkinson cycle",
+                "displacement_cc": 2494,
+                "power_hp": 155,
+                "power_kw": 114,
+                "torque_nm": 210,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 9.4,
+                "fuel_consumption_combined_l100km": 7.4,
+                "fuel_consumption_city_l100km": 7.1,
+                "fuel_consumption_highway_l100km": 7.8
+              }
+            },
+            {
+              "name": "2.5L CVT (155 HP) Hybrid",
+              "engine": {
+                "type": "hybrid_petrol",
+                "aspiration": "multipoint injection, atkinson cycle",
+                "displacement_cc": 2494,
+                "power_hp": 155,
+                "power_kw": 114,
+                "torque_nm": 210,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 9.3,
+                "fuel_consumption_combined_l100km": 7.4,
+                "fuel_consumption_city_l100km": 7.1,
+                "fuel_consumption_highway_l100km": 7.8
+              }
+            },
+            {
+              "name": "8AT (203 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "naturally_aspirated",
+                "power_hp": 203,
+                "power_kw": 149,
+                "torque_nm": 249,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "acceleration_0_100_s": 8.5
+              }
+            },
+            {
+              "name": "8AT (275 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "power_hp": 275,
+                "power_kw": 202,
+                "torque_nm": 430,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "acceleration_0_100_s": 7
+              }
+            },
+            {
+              "name": "CVT (239 HP) Hybrid AWD",
+              "engine": {
+                "type": "hybrid_petrol",
+                "power_hp": 239,
+                "power_kw": 175,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "acceleration_0_100_s": 7.4
+              }
+            },
+            {
+              "name": "CVT (302 HP) Hybrid AWD",
+              "engine": {
+                "type": "hybrid_petrol",
+                "power_hp": 302,
+                "power_kw": 222,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "acceleration_0_100_s": 6.2
+              }
+            },
+            {
+              "name": "2.5L 8AT (203 HP)",
+              "engine": {
+                "code": "A25A-FKS",
+                "type": "petrol",
+                "aspiration": "NA",
+                "displacement_cc": 2487,
+                "cylinders": 4,
+                "power_hp": 203,
+                "power_kw": 150,
+                "torque_nm": 243,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 190,
+                "acceleration_0_100_s": 8.2,
+                "fuel_consumption_combined_l100km": 9
+              }
+            },
+            {
+              "name": "2.4L 8AT (279 HP) AWD",
+              "engine": {
+                "code": "T24A-FTS",
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 2393,
+                "cylinders": 4,
+                "power_hp": 279,
+                "power_kw": 205,
+                "torque_nm": 430,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 210,
+                "acceleration_0_100_s": 6.9,
+                "fuel_consumption_combined_l100km": 9.5
+              }
+            }
+          ]
+        },
+        {
+          "id": "948_lexus_nx450h__lexus_nx450h_2024_2024",
+          "name": "NX III 2024-2024",
+          "ys": 2024,
+          "ye": 2024,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4638,
+            "width_mm": 1869,
+            "height_mm": 1646,
+            "wheelbase_mm": 2659,
+            "curb_weight_kg": 1837
+          },
+          "trims": [
+            {
+              "name": "2.5L 8AT (190 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 2487,
+                "power_hp": 190,
+                "power_kw": 140,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "acceleration_0_100_s": 8.5,
+                "fuel_consumption_combined_l100km": 7.3,
+                "co2_emissions_gkm": 105,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "2.5L 8AT (185 HP) Hybrid AWD",
+              "engine": {
+                "type": "hybrid_petrol",
+                "displacement_cc": 2487,
+                "power_hp": 185,
+                "power_kw": 136,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "acceleration_0_100_s": 8.5,
+                "fuel_consumption_combined_l100km": 1.5,
+                "co2_emissions_gkm": 17,
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lexus_rx",
+      "name": "RX",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "lexus_rx__rx_1998_2003_1998",
+          "name": "RX I 1998-2003",
+          "ys": 1998,
+          "ye": 2003,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4890,
+            "width_mm": 1920,
+            "height_mm": 1709,
+            "fuel_tank_l": 75
+          },
+          "trims": [
+            {
+              "name": "2.4L 4AT (160 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 2362,
+                "power_hp": 160,
+                "power_kw": 118,
+                "torque_nm": 221,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 4
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 8.5,
+                "fuel_consumption_combined_l100km": 11.9,
+                "fuel_consumption_city_l100km": 13.1,
+                "fuel_consumption_highway_l100km": 10.7
+              }
+            },
+            {
+              "name": "3.0L 4AT (220 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 2995,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 220,
+                "power_kw": 162,
+                "torque_nm": 304,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 4
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 8.8,
+                "fuel_consumption_combined_l100km": 14,
+                "fuel_consumption_city_l100km": 17.7,
+                "fuel_consumption_highway_l100km": 10.3
+              }
+            }
+          ]
+        },
+        {
+          "id": "lexus_rx__rx_2008_2012_2008",
+          "name": "RX II 2008-2012",
+          "ys": 2008,
+          "ye": 2012,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4890,
+            "width_mm": 1920,
+            "height_mm": 1709,
+            "fuel_tank_l": 71
+          },
+          "trims": [
+            {
+              "name": "3.0L 5AT (204 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 2995,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 204,
+                "power_kw": 150,
+                "torque_nm": 283,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 9,
+                "fuel_consumption_combined_l100km": 13.1,
+                "fuel_consumption_city_l100km": 16.9,
+                "fuel_consumption_highway_l100km": 9.4
+              }
+            },
+            {
+              "name": "3.3L 5AT (226 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 3309,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 226,
+                "power_kw": 166,
+                "torque_nm": 323,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 190,
+                "acceleration_0_100_s": 7.8,
+                "fuel_consumption_combined_l100km": 10.9,
+                "fuel_consumption_city_l100km": 12.4,
+                "fuel_consumption_highway_l100km": 9.4
+              }
+            },
+            {
+              "name": "3.5L 5AT (275 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 3456,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 275,
+                "power_kw": 202,
+                "torque_nm": 342,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 5
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 7.8
+              }
+            },
+            {
+              "name": "3.3L CVT (210 HP) Hybrid AWD",
+              "engine": {
+                "type": "hybrid_petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 3311,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 210,
+                "power_kw": 154,
+                "torque_nm": 287,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 7.6,
+                "fuel_consumption_combined_l100km": 8.3,
+                "fuel_consumption_city_l100km": 9.1,
+                "fuel_consumption_highway_l100km": 7.6
+              }
+            },
+            {
+              "name": "3.5L CVT (270 HP) Hybrid",
+              "engine": {
+                "type": "hybrid_petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 3456,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 270,
+                "power_kw": 198,
+                "torque_nm": 342,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 7.5,
+                "fuel_consumption_combined_l100km": 8.3,
+                "fuel_consumption_city_l100km": 9.1,
+                "fuel_consumption_highway_l100km": 7.6
+              }
+            },
+            {
+              "name": "3.5L 6AT (277 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 3456,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 277,
+                "power_kw": 204,
+                "torque_nm": 348,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 8,
+                "fuel_consumption_combined_l100km": 11.4,
+                "fuel_consumption_city_l100km": 14.3,
+                "fuel_consumption_highway_l100km": 8.4
+              }
+            },
+            {
+              "name": "3.5L CVT (249 HP) Hybrid AWD",
+              "engine": {
+                "type": "hybrid_petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 3456,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 249,
+                "power_kw": 183,
+                "torque_nm": 317,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 7.8,
+                "fuel_consumption_combined_l100km": 8.7,
+                "fuel_consumption_city_l100km": 8.4,
+                "fuel_consumption_highway_l100km": 9
+              }
+            }
+          ]
+        },
+        {
+          "id": "lexus_rx__rx_iv_facelift_2019_suv_2020_2020",
+          "name": "RX III 2018-2025",
+          "ys": 2018,
+          "ye": 2025,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4890,
+            "width_mm": 1920,
+            "height_mm": 1710,
+            "wheelbase_mm": 2885,
+            "ground_clearance_mm": 200,
+            "trunk_volume_l": 838,
+            "curb_weight_kg": 2237,
+            "doors": 5,
+            "seats": 5,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 5080,
+            "trunk_volume_max_l": 453,
+            "gross_weight_kg": 2717
+          },
+          "trims": [
+            {
+              "name": "2.5L 8AT (185 HP) Hybrid AWD",
+              "engine": {
+                "type": "hybrid_petrol",
+                "displacement_cc": 2487,
+                "power_hp": 185,
+                "power_kw": 136,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "acceleration_0_100_s": 7.1,
+                "fuel_consumption_combined_l100km": 4.5,
+                "co2_emissions_gkm": 25,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "2.4L 8AT (230 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 2440,
+                "power_hp": 230,
+                "power_kw": 169,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "acceleration_0_100_s": 7.1,
+                "fuel_consumption_combined_l100km": 7.3,
+                "co2_emissions_gkm": 164,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "2.7L 6AT (188 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 2671,
+                "cylinders": 6,
+                "power_hp": 188,
+                "power_kw": 138,
+                "torque_nm": 252,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 8.2
+              }
+            },
+            {
+              "name": "3.5L 6AT (273 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 3456,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 273,
+                "power_kw": 201,
+                "torque_nm": 336,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 8.1,
+                "fuel_consumption_combined_l100km": 11.4,
+                "fuel_consumption_city_l100km": 13.1,
+                "fuel_consumption_highway_l100km": 9.8
+              }
+            },
+            {
+              "name": "3.5L 8AT (273 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 3456,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 273,
+                "power_kw": 201,
+                "torque_nm": 336,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 7.7,
+                "fuel_consumption_combined_l100km": 11.1,
+                "fuel_consumption_city_l100km": 13.1,
+                "fuel_consumption_highway_l100km": 9
+              }
+            },
+            {
+              "name": "3.5L 6AT (273 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 3456,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 273,
+                "power_kw": 201,
+                "torque_nm": 336,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 7.7,
+                "fuel_consumption_combined_l100km": 11.2,
+                "fuel_consumption_city_l100km": 13.1,
+                "fuel_consumption_highway_l100km": 9.4
+              }
+            },
+            {
+              "name": "3.5L CVT (249 HP) Hybrid AWD",
+              "engine": {
+                "type": "hybrid_petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 3456,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 249,
+                "power_kw": 183,
+                "torque_nm": 317,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 7.4,
+                "fuel_consumption_combined_l100km": 8.1,
+                "fuel_consumption_city_l100km": 7.8,
+                "fuel_consumption_highway_l100km": 8.4
+              }
+            },
+            {
+              "name": "3.5L CVT (249 HP) Hybrid",
+              "engine": {
+                "type": "hybrid_petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 3456,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 249,
+                "power_kw": 183,
+                "torque_nm": 317,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 7.8,
+                "fuel_consumption_combined_l100km": 7.9,
+                "fuel_consumption_city_l100km": 7.4,
+                "fuel_consumption_highway_l100km": 8.4
+              }
+            },
+            {
+              "name": "2.0L 6AT (238 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1998,
+                "cylinders": 4,
+                "power_hp": 238,
+                "power_kw": 175,
+                "torque_nm": 350,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 9.5,
+                "fuel_consumption_combined_l100km": 8.2,
+                "fuel_consumption_city_l100km": 9.9,
+                "fuel_consumption_highway_l100km": 6.6
+              }
+            },
+            {
+              "name": "3.5L 8AT (290 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "monopoint injection",
+                "displacement_cc": 3456,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 290,
+                "power_kw": 213,
+                "torque_nm": 363,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 8.1,
+                "fuel_consumption_combined_l100km": 11.2,
+                "fuel_consumption_city_l100km": 13.1,
+                "fuel_consumption_highway_l100km": 9.4
+              }
+            }
+          ]
+        },
+        {
+          "id": "lexus_rx__rx_2022_2022",
+          "name": "RX IV 2022-2024",
+          "ys": 2022,
+          "ye": 2024,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4770,
+            "width_mm": 1895,
+            "height_mm": 1720,
+            "wheelbase_mm": 2814,
+            "ground_clearance_mm": 200,
+            "trunk_volume_l": 176,
+            "fuel_tank_l": 73,
+            "curb_weight_kg": 1985,
+            "doors": 5,
+            "seats": 5,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 4699
+          },
+          "trims": [
+            {
+              "name": "2.7L 6AT (188 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 2671,
+                "cylinders": 6,
+                "power_hp": 188,
+                "power_kw": 138,
+                "torque_nm": 252,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 8.2
+              }
+            },
+            {
+              "name": "3.5L 6AT (273 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 3456,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 273,
+                "power_kw": 201,
+                "torque_nm": 336,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 8.1,
+                "fuel_consumption_combined_l100km": 11.4,
+                "fuel_consumption_city_l100km": 13.1,
+                "fuel_consumption_highway_l100km": 9.8
+              }
+            },
+            {
+              "name": "3.5L 8AT (273 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 3456,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 273,
+                "power_kw": 201,
+                "torque_nm": 336,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 7.7,
+                "fuel_consumption_combined_l100km": 11.1,
+                "fuel_consumption_city_l100km": 13.1,
+                "fuel_consumption_highway_l100km": 9
+              }
+            },
+            {
+              "name": "3.5L 6AT (273 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 3456,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 273,
+                "power_kw": 201,
+                "torque_nm": 336,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 7.7,
+                "fuel_consumption_combined_l100km": 11.2,
+                "fuel_consumption_city_l100km": 13.1,
+                "fuel_consumption_highway_l100km": 9.4
+              }
+            },
+            {
+              "name": "3.5L CVT (249 HP) Hybrid AWD",
+              "engine": {
+                "type": "hybrid_petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 3456,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 249,
+                "power_kw": 183,
+                "torque_nm": 317,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 7.4,
+                "fuel_consumption_combined_l100km": 8.1,
+                "fuel_consumption_city_l100km": 7.8,
+                "fuel_consumption_highway_l100km": 8.4
+              }
+            },
+            {
+              "name": "3.5L CVT (249 HP) Hybrid",
+              "engine": {
+                "type": "hybrid_petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 3456,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 249,
+                "power_kw": 183,
+                "torque_nm": 317,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 7.8,
+                "fuel_consumption_combined_l100km": 7.9,
+                "fuel_consumption_city_l100km": 7.4,
+                "fuel_consumption_highway_l100km": 8.4
+              }
+            },
+            {
+              "name": "2.0L 6AT (238 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1998,
+                "cylinders": 4,
+                "power_hp": 238,
+                "power_kw": 175,
+                "torque_nm": 350,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 9.5,
+                "fuel_consumption_combined_l100km": 8.2,
+                "fuel_consumption_city_l100km": 9.9,
+                "fuel_consumption_highway_l100km": 6.6
+              }
+            },
+            {
+              "name": "3.5L 8AT (290 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "monopoint injection",
+                "displacement_cc": 3456,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 290,
+                "power_kw": 213,
+                "torque_nm": 363,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 8.1,
+                "fuel_consumption_combined_l100km": 11.2,
+                "fuel_consumption_city_l100km": 13.1,
+                "fuel_consumption_highway_l100km": 9.4
+              }
+            },
+            {
+              "name": "3.5L AT (308 HP) Hybrid AWD",
+              "engine": {
+                "type": "hybrid_petrol",
+                "aspiration": "monopoint injection",
+                "displacement_cc": 3456,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 308,
+                "power_kw": 226,
+                "torque_nm": 363,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "automatic"
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 7.9,
+                "fuel_consumption_combined_l100km": 8,
+                "fuel_consumption_city_l100km": 7.6,
+                "fuel_consumption_highway_l100km": 8.4
+              }
+            },
+            {
+              "name": "3.5L CVT (263 HP) Hybrid AWD",
+              "engine": {
+                "type": "hybrid_petrol",
+                "aspiration": "monopoint injection",
+                "displacement_cc": 3456,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 263,
+                "power_kw": 193,
+                "torque_nm": 335,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 7.7,
+                "fuel_consumption_combined_l100km": 5.2,
+                "fuel_consumption_city_l100km": 5.2,
+                "fuel_consumption_highway_l100km": 5.2
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lexus_ux",
+      "name": "UX",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "lexus_ux__ux_suv_2019_2019",
+          "name": "UX I 2019-2025",
+          "ys": 2019,
+          "ye": 2025,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4495,
+            "width_mm": 1840,
+            "height_mm": 1545,
+            "ground_clearance_mm": 200,
+            "trunk_volume_l": 315,
+            "trunk_volume_max_l": 486,
+            "curb_weight_kg": 1840,
+            "gross_weight_kg": 2245,
+            "doors": 5,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "2.0L CVT (169 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "direct injection",
+                "displacement_cc": 1987,
+                "cylinders": 4,
+                "power_hp": 169,
+                "power_kw": 124,
+                "torque_nm": 205,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 190,
+                "acceleration_0_100_s": 9.2,
+                "fuel_consumption_combined_l100km": 7.2,
+                "fuel_consumption_city_l100km": 8.1,
+                "fuel_consumption_highway_l100km": 6.4
+              }
+            },
+            {
+              "name": "2.0L CVT (181 HP) Hybrid AWD",
+              "engine": {
+                "type": "hybrid_petrol",
+                "aspiration": "direct injection",
+                "displacement_cc": 1987,
+                "cylinders": 4,
+                "power_hp": 181,
+                "power_kw": 133,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 177,
+                "acceleration_0_100_s": 8.7,
+                "fuel_consumption_combined_l100km": 7.2,
+                "fuel_consumption_city_l100km": 8.1,
+                "fuel_consumption_highway_l100km": 6.4
+              }
+            },
+            {
+              "name": "EV 150 kW AWD",
+              "engine": {
+                "type": "electric",
+                "power_hp": 9,
+                "power_kw": 150,
+                "torque_nm": 300,
+                "fuel_type": "electric"
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 9,
+                "power_kw": 150
+              }
+            },
+            {
+              "name": "2.0L AT (152 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1987,
+                "cylinders": 4,
+                "power_hp": 152,
+                "power_kw": 112,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic"
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 190,
+                "acceleration_0_100_s": 9.2,
+                "fuel_consumption_combined_l100km": 7.2,
+                "fuel_consumption_city_l100km": 8.1,
+                "fuel_consumption_highway_l100km": 6.4,
+                "co2_emissions_gkm": 121,
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        },
+        {
+          "id": "lexus_lexus_ux200__lexus_ux200_2023_2023",
+          "name": "UX II (UX200) 2023-2024",
+          "ys": 2023,
+          "ye": 2024,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4496,
+            "width_mm": 1839,
+            "height_mm": 1519,
+            "wheelbase_mm": 2639,
+            "curb_weight_kg": 1500
+          },
+          "trims": [
+            {
+              "name": "2.0L AT (173 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1987,
+                "cylinders": 4,
+                "power_hp": 173,
+                "power_kw": 127,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic"
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 190,
+                "acceleration_0_100_s": 9.2,
+                "fuel_consumption_combined_l100km": 7.2,
+                "fuel_consumption_city_l100km": 8.1,
+                "fuel_consumption_highway_l100km": 6.4,
+                "co2_emissions_gkm": 112,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "2.0L CVT (184 HP) Hybrid",
+              "engine": {
+                "type": "hybrid_petrol",
+                "displacement_cc": 1987,
+                "power_hp": 184,
+                "torque_nm": 188,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 184,
+                "top_speed_kmh": 190,
+                "acceleration_0_100_s": 9.2,
+                "fuel_consumption_city_l100km": 8.1,
+                "fuel_consumption_highway_l100km": 6.4,
+                "fuel_consumption_combined_l100km": 7.2
+              }
+            },
+            {
+              "name": "2.0L CVT (184 HP) Hybrid AWD",
+              "engine": {
+                "type": "hybrid_petrol",
+                "displacement_cc": 1987,
+                "power_hp": 184,
+                "torque_nm": 188,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 184,
+                "top_speed_kmh": 190,
+                "acceleration_0_100_s": 9.2,
+                "fuel_consumption_city_l100km": 8.1,
+                "fuel_consumption_highway_l100km": 6.4,
+                "fuel_consumption_combined_l100km": 7.2
+              }
+            },
+            {
+              "name": "2.0L CVT (199 HP) Hybrid",
+              "engine": {
+                "type": "hybrid_petrol",
+                "displacement_cc": 1987,
+                "power_hp": 199,
+                "torque_nm": 190,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 199,
+                "top_speed_kmh": 190,
+                "acceleration_0_100_s": 9.2,
+                "fuel_consumption_city_l100km": 8.1,
+                "fuel_consumption_highway_l100km": 6.4,
+                "fuel_consumption_combined_l100km": 7.2
+              }
+            },
+            {
+              "name": "2.0L AT (152 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1987,
+                "cylinders": 4,
+                "power_hp": 152,
+                "power_kw": 112,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic"
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 190,
+                "acceleration_0_100_s": 9.2,
+                "fuel_consumption_combined_l100km": 7.2,
+                "fuel_consumption_city_l100km": 8.1,
+                "fuel_consumption_highway_l100km": 6.4,
+                "co2_emissions_gkm": 95,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "EV 150 kW AWD",
+              "engine": {
+                "type": "electric",
+                "power_hp": 204,
+                "power_kw": 150,
+                "fuel_type": "electric"
+              },
+              "transmission": {
+                "type": "automatic"
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 190,
+                "acceleration_0_100_s": 9.2,
+                "fuel_consumption_combined_l100km": 7.2,
+                "fuel_consumption_city_l100km": 8.1,
+                "fuel_consumption_highway_l100km": 6.4,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "2.0L AT (171 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1987,
+                "cylinders": 4,
+                "power_hp": 171,
+                "power_kw": 126,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic"
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 190,
+                "acceleration_0_100_s": 9.2,
+                "fuel_consumption_combined_l100km": 7.2,
+                "fuel_consumption_city_l100km": 8.1,
+                "fuel_consumption_highway_l100km": 6.4,
+                "co2_emissions_gkm": 150,
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lexus_rx270_rx350",
+      "name": "RX",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "lexus_rx270_rx350_2009",
+          "name": "RX 2009-н.в.",
+          "ys": 2009,
+          "ye": 2026
+        }
+      ]
+    },
+    {
+      "id": "lexus_toyota_mark",
+      "name": "Toyota Mark",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "lexus_toyota_mark_2004",
+          "name": "Toyota Mark 2004-н.в.",
+          "ys": 2004,
+          "ye": 2026
+        }
+      ]
+    }
+  ]
+}

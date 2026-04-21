@@ -1,1 +1,1816 @@
-{"id":"genesis","name":"Genesis","name_ru":"Генезис","country":"KR","models":[{"id":"genesis_g70","name":"G70","body_type":"sedan","powertrain":"ice","generations":[{"id":"genesis_g70__g70_2017_2021_2017","name":"G70 I (G70) 2017-2021","ys":2017,"ye":2021,"body_type":"sedan","dimensions":{"length_mm":4685,"width_mm":1850,"height_mm":1400,"wheelbase_mm":2835,"ground_clearance_mm":140,"trunk_volume_l":330,"fuel_tank_l":60,"curb_weight_kg":1620,"doors":4,"seats":5},"trims":[{"name":"2.0L 8AT (252 HP) AWD","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1998,"cylinders":4,"power_hp":252,"power_kw":185,"torque_nm":353,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"acceleration_0_100_s":6.2,"fuel_consumption_combined_l100km":10,"fuel_consumption_city_l100km":11.5,"fuel_consumption_highway_l100km":8.5}},{"name":"2.0L 8AT (252 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1998,"cylinders":4,"power_hp":252,"power_kw":185,"torque_nm":353,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"rwd","performance":{"acceleration_0_100_s":6.2,"fuel_consumption_combined_l100km":9.2,"fuel_consumption_city_l100km":10.5,"fuel_consumption_highway_l100km":7.9}},{"name":"3.3L 8AT (370 HP) AWD","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":3342,"cylinders":6,"cylinder_layout":"V","power_hp":370,"power_kw":272,"torque_nm":510,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"top_speed_kmh":270,"fuel_consumption_combined_l100km":10,"fuel_consumption_city_l100km":10.5,"fuel_consumption_highway_l100km":9.5}},{"name":"3.3L 8AT (370 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":3342,"cylinders":6,"cylinder_layout":"V","power_hp":370,"power_kw":272,"torque_nm":510,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"rwd","performance":{"top_speed_kmh":270,"acceleration_0_100_s":4.7,"fuel_consumption_combined_l100km":11,"fuel_consumption_city_l100km":12.6,"fuel_consumption_highway_l100km":9.4}},{"name":"2.2L 8AT (202 HP) AWD","engine":{"type":"diesel","aspiration":"turbocharged","displacement_cc":2199,"power_hp":202,"power_kw":148,"torque_nm":450,"fuel_type":"diesel"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"fuel_consumption_combined_l100km":7.2,"fuel_consumption_city_l100km":8.1,"fuel_consumption_highway_l100km":6.3,"power_hp":202,"power_kw":148}},{"name":"2.2L 8AT (202 HP)","engine":{"type":"diesel","aspiration":"turbocharged","displacement_cc":2199,"power_hp":202,"power_kw":148,"torque_nm":450,"fuel_type":"diesel"},"transmission":{"type":"automatic","gears":8},"drivetrain":"rwd","performance":{"fuel_consumption_combined_l100km":6.5,"fuel_consumption_city_l100km":7.4,"fuel_consumption_highway_l100km":5.6,"power_hp":202,"power_kw":148}},{"name":"2.0L 8AT (245 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1998,"cylinders":4,"power_hp":245,"power_kw":180,"torque_nm":353,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"rwd","performance":{"top_speed_kmh":240,"acceleration_0_100_s":6.6,"fuel_consumption_combined_l100km":9.8}},{"name":"2.0L 8AT (245 HP) AWD","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1998,"cylinders":4,"power_hp":245,"power_kw":180,"torque_nm":353,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"top_speed_kmh":240,"acceleration_0_100_s":6.6}},{"name":"2.0L 8AT (197 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1998,"cylinders":4,"power_hp":197,"power_kw":144,"torque_nm":353,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"rwd","performance":{"top_speed_kmh":224,"acceleration_0_100_s":8.8}}]},{"id":"genesis_g70__g70_shooting_brake_facelift_2021_station_wagon_2022_2021","name":"G70 II (G70) 2020-2025","ys":2020,"ye":2025,"body_type":"wagon","dimensions":{"length_mm":4685,"width_mm":1850,"height_mm":1400,"wheelbase_mm":3302,"ground_clearance_mm":140,"trunk_volume_l":330,"trunk_volume_max_l":330,"curb_weight_kg":1838,"gross_weight_kg":2300,"doors":4,"seats":5},"trims":[{"name":"2.2L 8AT (200 HP) AWD","engine":{"type":"diesel","displacement_cc":2199,"power_hp":200,"power_kw":147,"fuel_type":"diesel"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"fuel_consumption_combined_l100km":7.2,"fuel_consumption_city_l100km":8.1,"fuel_consumption_highway_l100km":6.3,"co2_emissions_gkm":184,"fuel_consumption_standard":"WLTP"}},{"name":"2.0L 8AT (245 HP) AWD","engine":{"type":"petrol","displacement_cc":1998,"cylinders":4,"power_hp":245,"power_kw":180,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"top_speed_kmh":240,"acceleration_0_100_s":6.6,"fuel_consumption_combined_l100km":9.3,"co2_emissions_gkm":212,"fuel_consumption_standard":"WLTP"}}]},{"id":"genesis_g70_genesis_g70__g70_genesis_g70_2023_2023","name":"G70 III (G70) 2023-2023","ys":2023,"ye":2023,"body_type":"sedan","dimensions":{"length_mm":4684,"width_mm":1849,"height_mm":1400,"wheelbase_mm":2835,"curb_weight_kg":1740},"trims":[{"name":"2.2L 8AT (200 HP)","engine":{"type":"diesel","displacement_cc":2199,"power_hp":200,"power_kw":147,"fuel_type":"diesel"},"transmission":{"type":"automatic","gears":8},"performance":{"top_speed_kmh":240,"acceleration_0_100_s":6.6,"co2_emissions_gkm":186,"fuel_consumption_standard":"WLTP"}},{"name":"2.0L 8AT (245 HP)","engine":{"type":"petrol","displacement_cc":1998,"cylinders":4,"power_hp":245,"power_kw":180,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"performance":{"top_speed_kmh":240,"acceleration_0_100_s":6.6,"co2_emissions_gkm":215,"fuel_consumption_standard":"WLTP"}}]},{"id":"genesis__g70_ik__g70_ik_0","name":"G70 IV (G70)","ys":null,"ye":null,"body_type":"sedan","dimensions":{"length_mm":4685,"width_mm":1850,"height_mm":1400,"wheelbase_mm":2835},"trims":[{"name":"2.0L 8AT (252 HP)","engine":{"type":"petrol","displacement_cc":1998,"power_hp":252,"torque_nm":353,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"rwd","performance":{"power_hp":252,"top_speed_kmh":240,"acceleration_0_100_s":6.6}},{"name":"2.0L 8AT (252 HP) AWD","engine":{"type":"petrol","displacement_cc":1998,"power_hp":252,"torque_nm":353,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"power_hp":252,"top_speed_kmh":240,"acceleration_0_100_s":6.6}},{"name":"3.3L 8AT (370 HP)","engine":{"type":"petrol","displacement_cc":3342,"power_hp":370,"torque_nm":510,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"rwd","performance":{"power_hp":370,"top_speed_kmh":240,"acceleration_0_100_s":6.6}},{"name":"3.3L 8AT (370 HP) AWD","engine":{"type":"petrol","displacement_cc":3342,"power_hp":370,"torque_nm":510,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"power_hp":370,"top_speed_kmh":240,"acceleration_0_100_s":6.6}},{"name":"2.2L 8AT (202 HP)","engine":{"type":"diesel","displacement_cc":2199,"power_hp":202,"torque_nm":441,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"rwd","performance":{"power_hp":202,"top_speed_kmh":240,"acceleration_0_100_s":6.6}}]}]},{"id":"genesis_g80","name":"G80","body_type":"sedan","powertrain":"ice","generations":[{"id":"genesis_g80__g80_ii_sedan_2021_2020","name":"G80 I (G80) 2018-2025","ys":2018,"ye":2025,"body_type":"sedan","dimensions":{"length_mm":4990,"width_mm":1925,"height_mm":1475,"wheelbase_mm":3556,"ground_clearance_mm":140,"trunk_volume_l":424,"fuel_tank_l":65,"curb_weight_kg":2325,"doors":4,"seats":5,"trunk_volume_max_l":424,"gross_weight_kg":2770},"trims":[{"name":"G80","engine":{"type":"electric","fuel_type":"electric"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"fuel_consumption_standard":"WLTP"}},{"name":"EV 272 kW AWD","engine":{"type":"electric","power_hp":370,"power_kw":272,"fuel_type":"electric"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"fuel_consumption_standard":"WLTP"}},{"name":"2.5L 8AT (305 HP) AWD","engine":{"type":"petrol","displacement_cc":2497,"power_hp":305,"power_kw":224,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"fuel_consumption_combined_l100km":9.2,"co2_emissions_gkm":209,"fuel_consumption_standard":"WLTP"}},{"name":"3.3L 8AT (282 HP) AWD","engine":{"type":"petrol","aspiration":"direct injection","displacement_cc":3342,"cylinders":6,"cylinder_layout":"V","power_hp":282,"power_kw":207,"torque_nm":347,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"fuel_consumption_combined_l100km":11.1,"fuel_consumption_city_l100km":12.8,"fuel_consumption_highway_l100km":9.3,"power_hp":282,"power_kw":207}},{"name":"3.3L 8AT (282 HP)","engine":{"type":"petrol","aspiration":"direct injection","displacement_cc":3342,"cylinders":6,"cylinder_layout":"V","power_hp":282,"power_kw":207,"torque_nm":347,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"rwd","performance":{"fuel_consumption_combined_l100km":10.2,"fuel_consumption_city_l100km":11.9,"fuel_consumption_highway_l100km":8.6,"power_hp":282,"power_kw":207}},{"name":"3.8L 8AT (315 HP) AWD","engine":{"type":"petrol","aspiration":"direct injection","displacement_cc":3778,"cylinders":6,"cylinder_layout":"V","power_hp":315,"power_kw":231,"torque_nm":397,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"fuel_consumption_combined_l100km":12.1,"fuel_consumption_city_l100km":14.7,"fuel_consumption_highway_l100km":9.4,"power_hp":315,"power_kw":231}},{"name":"3.8L 8AT (315 HP)","engine":{"type":"petrol","aspiration":"direct injection","displacement_cc":3778,"cylinders":6,"cylinder_layout":"V","power_hp":315,"power_kw":231,"torque_nm":397,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"rwd","performance":{"fuel_consumption_combined_l100km":10.8,"fuel_consumption_city_l100km":13.1,"fuel_consumption_highway_l100km":8.4,"power_hp":315,"power_kw":231}},{"name":"5.0L 8AT (426 HP)","engine":{"type":"petrol","aspiration":"direct injection","displacement_cc":5038,"cylinders":8,"cylinder_layout":"V","power_hp":426,"power_kw":313,"torque_nm":519,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"rwd","performance":{"fuel_consumption_combined_l100km":12.9,"fuel_consumption_city_l100km":15.7,"fuel_consumption_highway_l100km":10.2,"power_hp":426,"power_kw":313}},{"name":"2.5L 8AT (300 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":2497,"power_hp":300,"power_kw":220,"torque_nm":422,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"rwd","performance":{"power_hp":300,"power_kw":220}},{"name":"3.5L 8AT (300 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":3470,"cylinders":6,"cylinder_layout":"V","power_hp":300,"power_kw":220,"torque_nm":530,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"rwd","performance":{"power_hp":300,"power_kw":220}}]},{"id":"hyundai_g80_genesis_g80__g80_genesis_g80_2023_2023","name":"G80 II (G80) 2023-2024","ys":2023,"ye":2024,"body_type":"sedan","dimensions":{"length_mm":4990,"width_mm":1925,"height_mm":1475,"wheelbase_mm":3556,"ground_clearance_mm":140,"trunk_volume_l":424,"fuel_tank_l":65,"curb_weight_kg":2411,"doors":4,"seats":5},"trims":[{"name":"EV 220 kW AWD","engine":{"type":"electric","power_hp":299,"power_kw":220,"fuel_type":"electric"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"fuel_consumption_standard":"WLTP"}},{"name":"2.5L 8AT (303 HP) AWD","engine":{"type":"petrol","displacement_cc":2497,"power_hp":303,"power_kw":223,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"fuel_consumption_standard":"WLTP"}},{"name":"2.5L 8AT (305 HP) AWD","engine":{"type":"petrol","displacement_cc":2497,"power_hp":305,"power_kw":224,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"fuel_consumption_combined_l100km":6.5,"co2_emissions_gkm":207,"fuel_consumption_standard":"WLTP"}}]}]},{"id":"genesis_g90","name":"G90","body_type":"sedan","powertrain":"ice","generations":[{"id":"genesis_g90__g90_2022_2022","name":"G90 I (G90) 2019-2022","ys":2019,"ye":2022,"body_type":"sedan","dimensions":{"length_mm":5276,"width_mm":1930,"height_mm":1491,"wheelbase_mm":3180,"fuel_tank_l":82},"trims":[{"name":"3.3L 8AT (370 HP) AWD","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":3342,"cylinders":6,"cylinder_layout":"V","power_hp":370,"power_kw":272,"torque_nm":510,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"fuel_consumption_combined_l100km":11.8,"fuel_consumption_city_l100km":13.8,"fuel_consumption_highway_l100km":9.8,"power_hp":370,"power_kw":272}},{"name":"3.3L 8AT (370 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":3342,"cylinders":6,"cylinder_layout":"V","power_hp":370,"power_kw":272,"torque_nm":510,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"rwd","performance":{"fuel_consumption_combined_l100km":11.8,"fuel_consumption_city_l100km":13.8,"fuel_consumption_highway_l100km":9.8,"power_hp":370,"power_kw":272}},{"name":"5.0L 8AT (426 HP) AWD","engine":{"type":"petrol","aspiration":"direct injection","displacement_cc":5038,"cylinders":8,"cylinder_layout":"V","power_hp":426,"power_kw":313,"torque_nm":519,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"fuel_consumption_combined_l100km":12.9,"fuel_consumption_city_l100km":15.7,"fuel_consumption_highway_l100km":10.2,"power_hp":426,"power_kw":313}},{"name":"5.0L 8AT (426 HP)","engine":{"type":"petrol","aspiration":"direct injection","displacement_cc":5038,"cylinders":8,"cylinder_layout":"V","power_hp":426,"power_kw":313,"torque_nm":519,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"rwd","performance":{"fuel_consumption_combined_l100km":12.2,"fuel_consumption_city_l100km":14.7,"fuel_consumption_highway_l100km":9.8,"power_hp":426,"power_kw":313}},{"name":"3.5L 8AT (380 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":3470,"cylinders":6,"power_hp":380,"power_kw":279,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"rwd","performance":{"power_hp":380,"power_kw":279}},{"name":"LWB 3.5L T-GDI 48V 8AT AWD","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":3470,"cylinders":6,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd"}]},{"id":"hyundai_g90genesis_g90__g90genesis_g90_2024_2024","name":"G90 II (G90) 2023-2024","ys":2023,"ye":2024,"body_type":"sedan","dimensions":{"length_mm":5276,"width_mm":1930,"height_mm":1491,"wheelbase_mm":3180,"curb_weight_kg":2260},"trims":[{"name":"3.5L 8AT (415 HP) AWD","engine":{"type":"petrol","displacement_cc":3470,"cylinders":6,"power_hp":415,"power_kw":305,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"co2_emissions_gkm":253,"fuel_consumption_standard":"WLTP"}}]},{"id":"genesis__g90__g90_rs4_0","name":"G90 III (G90)","ys":null,"ye":null,"body_type":"sedan","dimensions":{"length_mm":5275,"width_mm":1930,"height_mm":1490,"wheelbase_mm":3180},"trims":[{"name":"3.5L 8AT (380 HP) AWD","engine":{"type":"petrol","displacement_cc":3470,"power_hp":380,"torque_nm":530,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"power_hp":380}},{"name":"3.5L 8AT (415 HP) Hybrid AWD","engine":{"type":"hybrid_petrol","displacement_cc":3470,"power_hp":415,"torque_nm":549,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"power_hp":415}},{"name":"3.5L 8AT (375 HP) AWD","engine":{"type":"petrol","displacement_cc":3470,"power_hp":375,"torque_nm":530,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"power_hp":375}},{"name":"3.5L 8AT (375 HP)","engine":{"type":"petrol","displacement_cc":3470,"power_hp":375,"torque_nm":530,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"rwd","performance":{"power_hp":375,"fuel_consumption_city_l100km":13.8,"fuel_consumption_highway_l100km":9.8,"fuel_consumption_combined_l100km":11.8}},{"name":"3.5L 8AT (375 HP) AWD","engine":{"type":"petrol","displacement_cc":3470,"power_hp":375,"torque_nm":530,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"power_hp":375}},{"name":"3.5L 8AT (375 HP) AWD","engine":{"type":"petrol_turbo","displacement_cc":3470,"power_hp":375,"torque_nm":530,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"power_hp":375}},{"name":"3.5L 8AT (409 HP) MHEV AWD","engine":{"type":"mild_hybrid_petrol","displacement_cc":3470,"power_hp":409,"torque_nm":549,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"power_hp":409}}]}]},{"id":"genesis_gv70","name":"GV70","body_type":"suv","powertrain":"ice","generations":[{"id":"genesis_gv70__gv70_suv_2021_2021","name":"GV70 I 2021-2025","ys":2021,"ye":2025,"body_type":"suv","dimensions":{"length_mm":4715,"width_mm":1910,"height_mm":1630,"wheelbase_mm":2781,"ground_clearance_mm":195,"trunk_volume_l":503,"trunk_volume_max_l":503,"fuel_tank_l":65,"curb_weight_kg":2310,"gross_weight_kg":2845,"doors":5,"seats":5,"wheelbase_estimated":true,"wheelbase_mm_original_error":4420},"trims":[{"name":"2.5L 8AT (304 HP) AWD","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":2497,"power_hp":304,"power_kw":223,"torque_nm":422,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"fuel_consumption_combined_l100km":10.1,"fuel_consumption_city_l100km":11.5,"fuel_consumption_highway_l100km":8.7,"power_hp":304,"power_kw":223}},{"name":"2.5L 8AT (304 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":2497,"power_hp":304,"power_kw":223,"torque_nm":422,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"rwd","performance":{"fuel_consumption_combined_l100km":9.2,"fuel_consumption_city_l100km":10.4,"fuel_consumption_highway_l100km":8.1,"power_hp":304,"power_kw":223}},{"name":"3.5L 8AT (380 HP) AWD","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":3470,"cylinders":6,"cylinder_layout":"V","power_hp":380,"power_kw":279,"torque_nm":530,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"fuel_consumption_combined_l100km":11.5,"fuel_consumption_city_l100km":13.3,"fuel_consumption_highway_l100km":9.7,"power_hp":380,"power_kw":279}},{"name":"2.2L 8AT (210 HP) AWD","engine":{"type":"diesel","aspiration":"turbocharged","displacement_cc":2151,"power_hp":210,"power_kw":154,"torque_nm":441,"fuel_type":"diesel"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"fuel_consumption_combined_l100km":7.7,"fuel_consumption_city_l100km":8.7,"fuel_consumption_highway_l100km":6.7,"power_hp":210,"power_kw":154}},{"name":"2.2L 8AT (210 HP)","engine":{"type":"diesel","aspiration":"turbocharged","displacement_cc":2151,"power_hp":210,"power_kw":154,"torque_nm":441,"fuel_type":"diesel"},"transmission":{"type":"automatic","gears":8},"drivetrain":"rwd","performance":{"fuel_consumption_combined_l100km":7.3,"fuel_consumption_city_l100km":8.3,"fuel_consumption_highway_l100km":6.3,"power_hp":210,"power_kw":154}},{"name":"2.5L 8AT (300 HP) AWD","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":2497,"cylinders":4,"power_hp":300,"power_kw":221,"torque_nm":422,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"top_speed_kmh":240,"acceleration_0_100_s":5.1,"fuel_consumption_combined_l100km":10.1,"fuel_consumption_city_l100km":11.5,"fuel_consumption_highway_l100km":8.7}},{"name":"2.2L 8AT (204 HP) AWD","engine":{"type":"diesel","displacement_cc":2199,"power_hp":204,"torque_nm":440,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"power_hp":204,"fuel_consumption_city_l100km":11.5,"fuel_consumption_highway_l100km":8.7,"fuel_consumption_combined_l100km":10.1}},{"name":"2.5L 8AT (300 HP)","engine":{"type":"petrol","displacement_cc":2497,"power_hp":300,"torque_nm":422,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"rwd","performance":{"power_hp":300,"fuel_consumption_city_l100km":11.5,"fuel_consumption_highway_l100km":8.7,"fuel_consumption_combined_l100km":10.1}},{"name":"3.5L 8AT (375 HP) AWD","engine":{"type":"petrol","displacement_cc":3470,"power_hp":375,"torque_nm":530,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"power_hp":375,"fuel_consumption_city_l100km":13.3,"fuel_consumption_highway_l100km":9.7,"fuel_consumption_combined_l100km":11.5}},{"name":"2.5L 8AT (303 HP) AWD","engine":{"type":"petrol","displacement_cc":2497,"power_hp":303,"power_kw":223,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"fuel_consumption_combined_l100km":10.1,"fuel_consumption_city_l100km":11.5,"fuel_consumption_highway_l100km":8.7,"co2_emissions_gkm":225,"fuel_consumption_standard":"WLTP"}}]},{"id":"genesis_gv70__gv70_facelift_2024_suv_2026_2024","name":"GV70 II 2024-2024","ys":2024,"ye":2024,"body_type":"suv","dimensions":{"length_mm":4715,"width_mm":1910,"height_mm":1630,"ground_clearance_mm":200,"trunk_volume_l":542,"curb_weight_kg":1985,"doors":5,"seats":5,"trunk_volume_max_l":542},"trims":[{"name":"2.5L 8AT (303 HP) AWD","engine":{"type":"petrol","displacement_cc":2497,"power_hp":303,"power_kw":223,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"fuel_consumption_combined_l100km":10.1,"fuel_consumption_city_l100km":11.5,"fuel_consumption_highway_l100km":8.7,"fuel_consumption_standard":"WLTP"}}]}]},{"id":"genesis_gv80","name":"GV80","body_type":"suv","powertrain":"ice","generations":[{"id":"genesis_gv80__gv80_2021_2021","name":"GV80 I (GV80) 2020-2025","ys":2020,"ye":2025,"body_type":"suv","dimensions":{"length_mm":4945,"width_mm":1975,"height_mm":1715,"ground_clearance_mm":200,"curb_weight_kg":2265,"doors":5,"seats":5,"wheelbase_mm":2955,"trunk_volume_l":987,"fuel_tank_l":80},"trims":[{"name":"3.0L 8AT (272 HP) AWD","engine":{"type":"diesel","displacement_cc":2996,"cylinders":6,"power_hp":272,"power_kw":200,"fuel_type":"diesel"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"fuel_consumption_combined_l100km":9.1,"fuel_consumption_city_l100km":10.2,"fuel_consumption_highway_l100km":7.9,"co2_emissions_gkm":243,"fuel_consumption_standard":"WLTP"}},{"name":"2.5L (305 HP) AWD","engine":{"type":"petrol","displacement_cc":2497,"power_hp":305,"power_kw":224,"fuel_type":"petrol"},"drivetrain":"awd","performance":{"fuel_consumption_combined_l100km":9.7,"co2_emissions_gkm":241,"fuel_consumption_standard":"WLTP"}},{"name":"EV 160 kW AWD","engine":{"type":"electric","power_hp":218,"power_kw":160,"fuel_type":"electric"},"drivetrain":"awd","performance":{"fuel_consumption_standard":"WLTP"}},{"name":"2.5L (265 HP) AWD","engine":{"type":"petrol","displacement_cc":2500,"power_hp":265,"power_kw":195,"fuel_type":"petrol"},"drivetrain":"awd","performance":{"fuel_consumption_standard":"WLTP"}},{"name":"3.5L (379 HP) AWD","engine":{"type":"petrol","displacement_cc":3470,"cylinders":6,"power_hp":379,"power_kw":279,"fuel_type":"petrol"},"drivetrain":"awd","performance":{"fuel_consumption_standard":"WLTP"}},{"name":"2.5L 8AT (304 HP) AWD","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":2497,"cylinders":4,"power_hp":304,"power_kw":224,"torque_nm":422,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"top_speed_kmh":235,"acceleration_0_100_s":6.4,"fuel_consumption_combined_l100km":11}},{"name":"3.5L 8AT (380 HP) AWD","engine":{"type":"petrol","aspiration":"twin-turbo","displacement_cc":3470,"cylinders":6,"power_hp":380,"power_kw":279,"torque_nm":530,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"top_speed_kmh":250,"acceleration_0_100_s":5.5,"fuel_consumption_combined_l100km":13.5}},{"name":"2.5L 8AT (304 HP)","engine":{"type":"petrol","displacement_cc":2497,"power_hp":304,"torque_nm":422,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"rwd","performance":{"power_hp":304}},{"name":"3.0L 8AT (278 HP) AWD","engine":{"type":"diesel","displacement_cc":2993,"power_hp":278,"torque_nm":588,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"power_hp":278}},{"name":"2.5L 8AT (300 HP) AWD","engine":{"type":"petrol","displacement_cc":2497,"power_hp":300,"torque_nm":422,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"power_hp":300,"fuel_consumption_city_l100km":10.2,"fuel_consumption_highway_l100km":7.9,"fuel_consumption_combined_l100km":9.1}}]},{"id":"hyundai_genesis_gv80__genesis_gv80_2024_2024","name":"GV80 II (GV80) 2023-2024","ys":2023,"ye":2024,"body_type":"suv","dimensions":{"length_mm":4945,"width_mm":1976,"height_mm":1715,"wheelbase_mm":2995,"curb_weight_kg":2308,"ground_clearance_mm":200,"trunk_volume_l":328,"trunk_volume_max_l":1034,"gross_weight_kg":2960,"doors":5,"seats":5,"wheelbase_estimated":true,"wheelbase_mm_original_error":5232},"trims":[{"name":"3.0L (272 HP)","engine":{"type":"diesel","displacement_cc":2996,"cylinders":6,"power_hp":272,"power_kw":200,"fuel_type":"diesel"},"performance":{"fuel_consumption_combined_l100km":9.3,"co2_emissions_gkm":242,"fuel_consumption_standard":"WLTP"}},{"name":"2.5L (305 HP)","engine":{"type":"petrol","displacement_cc":2497,"power_hp":305,"power_kw":224,"fuel_type":"petrol"},"performance":{"co2_emissions_gkm":248,"fuel_consumption_standard":"WLTP"}},{"name":"3.0L 8AT (272 HP) AWD","engine":{"type":"diesel","displacement_cc":2996,"cylinders":6,"power_hp":272,"power_kw":200,"fuel_type":"diesel"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"fuel_consumption_combined_l100km":9.1,"fuel_consumption_city_l100km":10.2,"fuel_consumption_highway_l100km":7.9,"co2_emissions_gkm":243,"fuel_consumption_standard":"WLTP"}},{"name":"2.5L (305 HP) AWD","engine":{"type":"petrol","displacement_cc":2497,"power_hp":305,"power_kw":224,"fuel_type":"petrol"},"drivetrain":"awd","performance":{"fuel_consumption_combined_l100km":9.7,"co2_emissions_gkm":241,"fuel_consumption_standard":"WLTP"}},{"name":"3.0L (272 HP) AWD","engine":{"type":"diesel","displacement_cc":2996,"cylinders":6,"power_hp":272,"power_kw":200,"fuel_type":"diesel"},"drivetrain":"awd","performance":{"fuel_consumption_combined_l100km":9.3,"co2_emissions_gkm":243,"fuel_consumption_standard":"WLTP"}}]}]}]}
+{
+  "id": "genesis",
+  "name": "Genesis",
+  "name_ru": "Генезис",
+  "country": "KR",
+  "models": [
+    {
+      "id": "genesis_g70",
+      "name": "G70",
+      "body_type": "sedan",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "genesis_g70__g70_2017_2021_2017",
+          "name": "G70 I (G70) 2017-2021",
+          "ys": 2017,
+          "ye": 2021,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 4685,
+            "width_mm": 1850,
+            "height_mm": 1400,
+            "wheelbase_mm": 2835,
+            "ground_clearance_mm": 140,
+            "trunk_volume_l": 330,
+            "fuel_tank_l": 60,
+            "curb_weight_kg": 1620,
+            "doors": 4,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "2.0L 8AT (252 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1998,
+                "cylinders": 4,
+                "power_hp": 252,
+                "power_kw": 185,
+                "torque_nm": 353,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "acceleration_0_100_s": 6.2,
+                "fuel_consumption_combined_l100km": 10,
+                "fuel_consumption_city_l100km": 11.5,
+                "fuel_consumption_highway_l100km": 8.5
+              }
+            },
+            {
+              "name": "2.0L 8AT (252 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1998,
+                "cylinders": 4,
+                "power_hp": 252,
+                "power_kw": 185,
+                "torque_nm": 353,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "acceleration_0_100_s": 6.2,
+                "fuel_consumption_combined_l100km": 9.2,
+                "fuel_consumption_city_l100km": 10.5,
+                "fuel_consumption_highway_l100km": 7.9
+              }
+            },
+            {
+              "name": "3.3L 8AT (370 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 3342,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 370,
+                "power_kw": 272,
+                "torque_nm": 510,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 270,
+                "fuel_consumption_combined_l100km": 10,
+                "fuel_consumption_city_l100km": 10.5,
+                "fuel_consumption_highway_l100km": 9.5
+              }
+            },
+            {
+              "name": "3.3L 8AT (370 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 3342,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 370,
+                "power_kw": 272,
+                "torque_nm": 510,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "top_speed_kmh": 270,
+                "acceleration_0_100_s": 4.7,
+                "fuel_consumption_combined_l100km": 11,
+                "fuel_consumption_city_l100km": 12.6,
+                "fuel_consumption_highway_l100km": 9.4
+              }
+            },
+            {
+              "name": "2.2L 8AT (202 HP) AWD",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "turbocharged",
+                "displacement_cc": 2199,
+                "power_hp": 202,
+                "power_kw": 148,
+                "torque_nm": 450,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 7.2,
+                "fuel_consumption_city_l100km": 8.1,
+                "fuel_consumption_highway_l100km": 6.3,
+                "power_hp": 202,
+                "power_kw": 148
+              }
+            },
+            {
+              "name": "2.2L 8AT (202 HP)",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "turbocharged",
+                "displacement_cc": 2199,
+                "power_hp": 202,
+                "power_kw": 148,
+                "torque_nm": 450,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 6.5,
+                "fuel_consumption_city_l100km": 7.4,
+                "fuel_consumption_highway_l100km": 5.6,
+                "power_hp": 202,
+                "power_kw": 148
+              }
+            },
+            {
+              "name": "2.0L 8AT (245 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1998,
+                "cylinders": 4,
+                "power_hp": 245,
+                "power_kw": 180,
+                "torque_nm": 353,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "top_speed_kmh": 240,
+                "acceleration_0_100_s": 6.6,
+                "fuel_consumption_combined_l100km": 9.8
+              }
+            },
+            {
+              "name": "2.0L 8AT (245 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1998,
+                "cylinders": 4,
+                "power_hp": 245,
+                "power_kw": 180,
+                "torque_nm": 353,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 240,
+                "acceleration_0_100_s": 6.6
+              }
+            },
+            {
+              "name": "2.0L 8AT (197 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1998,
+                "cylinders": 4,
+                "power_hp": 197,
+                "power_kw": 144,
+                "torque_nm": 353,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "top_speed_kmh": 224,
+                "acceleration_0_100_s": 8.8
+              }
+            }
+          ]
+        },
+        {
+          "id": "genesis_g70__g70_shooting_brake_facelift_2021_station_wagon_2022_2021",
+          "name": "G70 II (G70) 2020-2025",
+          "ys": 2020,
+          "ye": 2025,
+          "body_type": "wagon",
+          "dimensions": {
+            "length_mm": 4685,
+            "width_mm": 1850,
+            "height_mm": 1400,
+            "wheelbase_mm": 3302,
+            "ground_clearance_mm": 140,
+            "trunk_volume_l": 330,
+            "trunk_volume_max_l": 330,
+            "curb_weight_kg": 1838,
+            "gross_weight_kg": 2300,
+            "doors": 4,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "2.2L 8AT (200 HP) AWD",
+              "engine": {
+                "type": "diesel",
+                "displacement_cc": 2199,
+                "power_hp": 200,
+                "power_kw": 147,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 7.2,
+                "fuel_consumption_city_l100km": 8.1,
+                "fuel_consumption_highway_l100km": 6.3,
+                "co2_emissions_gkm": 184,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "2.0L 8AT (245 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1998,
+                "cylinders": 4,
+                "power_hp": 245,
+                "power_kw": 180,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 240,
+                "acceleration_0_100_s": 6.6,
+                "fuel_consumption_combined_l100km": 9.3,
+                "co2_emissions_gkm": 212,
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        },
+        {
+          "id": "genesis_g70_genesis_g70__g70_genesis_g70_2023_2023",
+          "name": "G70 III (G70) 2023-2023",
+          "ys": 2023,
+          "ye": 2023,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 4684,
+            "width_mm": 1849,
+            "height_mm": 1400,
+            "wheelbase_mm": 2835,
+            "curb_weight_kg": 1740
+          },
+          "trims": [
+            {
+              "name": "2.2L 8AT (200 HP)",
+              "engine": {
+                "type": "diesel",
+                "displacement_cc": 2199,
+                "power_hp": 200,
+                "power_kw": 147,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "performance": {
+                "top_speed_kmh": 240,
+                "acceleration_0_100_s": 6.6,
+                "co2_emissions_gkm": 186,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "2.0L 8AT (245 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1998,
+                "cylinders": 4,
+                "power_hp": 245,
+                "power_kw": 180,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "performance": {
+                "top_speed_kmh": 240,
+                "acceleration_0_100_s": 6.6,
+                "co2_emissions_gkm": 215,
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        },
+        {
+          "id": "genesis__g70_ik__g70_ik_0",
+          "name": "G70 IV (G70)",
+          "ys": null,
+          "ye": null,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 4685,
+            "width_mm": 1850,
+            "height_mm": 1400,
+            "wheelbase_mm": 2835
+          },
+          "trims": [
+            {
+              "name": "2.0L 8AT (252 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1998,
+                "power_hp": 252,
+                "torque_nm": 353,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "power_hp": 252,
+                "top_speed_kmh": 240,
+                "acceleration_0_100_s": 6.6
+              }
+            },
+            {
+              "name": "2.0L 8AT (252 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1998,
+                "power_hp": 252,
+                "torque_nm": 353,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 252,
+                "top_speed_kmh": 240,
+                "acceleration_0_100_s": 6.6
+              }
+            },
+            {
+              "name": "3.3L 8AT (370 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 3342,
+                "power_hp": 370,
+                "torque_nm": 510,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "power_hp": 370,
+                "top_speed_kmh": 240,
+                "acceleration_0_100_s": 6.6
+              }
+            },
+            {
+              "name": "3.3L 8AT (370 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 3342,
+                "power_hp": 370,
+                "torque_nm": 510,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 370,
+                "top_speed_kmh": 240,
+                "acceleration_0_100_s": 6.6
+              }
+            },
+            {
+              "name": "2.2L 8AT (202 HP)",
+              "engine": {
+                "type": "diesel",
+                "displacement_cc": 2199,
+                "power_hp": 202,
+                "torque_nm": 441,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "power_hp": 202,
+                "top_speed_kmh": 240,
+                "acceleration_0_100_s": 6.6
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "genesis_g80",
+      "name": "G80",
+      "body_type": "sedan",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "genesis_g80__g80_ii_sedan_2021_2020",
+          "name": "G80 I (G80) 2018-2025",
+          "ys": 2018,
+          "ye": 2025,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 4990,
+            "width_mm": 1925,
+            "height_mm": 1475,
+            "wheelbase_mm": 3556,
+            "ground_clearance_mm": 140,
+            "trunk_volume_l": 424,
+            "fuel_tank_l": 65,
+            "curb_weight_kg": 2325,
+            "doors": 4,
+            "seats": 5,
+            "trunk_volume_max_l": 424,
+            "gross_weight_kg": 2770
+          },
+          "trims": [
+            {
+              "name": "G80",
+              "engine": {
+                "type": "electric",
+                "fuel_type": "electric"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "EV 272 kW AWD",
+              "engine": {
+                "type": "electric",
+                "power_hp": 370,
+                "power_kw": 272,
+                "fuel_type": "electric"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "2.5L 8AT (305 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 2497,
+                "power_hp": 305,
+                "power_kw": 224,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 9.2,
+                "co2_emissions_gkm": 209,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "3.3L 8AT (282 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "direct injection",
+                "displacement_cc": 3342,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 282,
+                "power_kw": 207,
+                "torque_nm": 347,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 11.1,
+                "fuel_consumption_city_l100km": 12.8,
+                "fuel_consumption_highway_l100km": 9.3,
+                "power_hp": 282,
+                "power_kw": 207
+              }
+            },
+            {
+              "name": "3.3L 8AT (282 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "direct injection",
+                "displacement_cc": 3342,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 282,
+                "power_kw": 207,
+                "torque_nm": 347,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 10.2,
+                "fuel_consumption_city_l100km": 11.9,
+                "fuel_consumption_highway_l100km": 8.6,
+                "power_hp": 282,
+                "power_kw": 207
+              }
+            },
+            {
+              "name": "3.8L 8AT (315 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "direct injection",
+                "displacement_cc": 3778,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 315,
+                "power_kw": 231,
+                "torque_nm": 397,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 12.1,
+                "fuel_consumption_city_l100km": 14.7,
+                "fuel_consumption_highway_l100km": 9.4,
+                "power_hp": 315,
+                "power_kw": 231
+              }
+            },
+            {
+              "name": "3.8L 8AT (315 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "direct injection",
+                "displacement_cc": 3778,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 315,
+                "power_kw": 231,
+                "torque_nm": 397,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 10.8,
+                "fuel_consumption_city_l100km": 13.1,
+                "fuel_consumption_highway_l100km": 8.4,
+                "power_hp": 315,
+                "power_kw": 231
+              }
+            },
+            {
+              "name": "5.0L 8AT (426 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "direct injection",
+                "displacement_cc": 5038,
+                "cylinders": 8,
+                "cylinder_layout": "V",
+                "power_hp": 426,
+                "power_kw": 313,
+                "torque_nm": 519,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 12.9,
+                "fuel_consumption_city_l100km": 15.7,
+                "fuel_consumption_highway_l100km": 10.2,
+                "power_hp": 426,
+                "power_kw": 313
+              }
+            },
+            {
+              "name": "2.5L 8AT (300 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 2497,
+                "power_hp": 300,
+                "power_kw": 220,
+                "torque_nm": 422,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "power_hp": 300,
+                "power_kw": 220
+              }
+            },
+            {
+              "name": "3.5L 8AT (300 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 3470,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 300,
+                "power_kw": 220,
+                "torque_nm": 530,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "power_hp": 300,
+                "power_kw": 220
+              }
+            }
+          ]
+        },
+        {
+          "id": "hyundai_g80_genesis_g80__g80_genesis_g80_2023_2023",
+          "name": "G80 II (G80) 2023-2024",
+          "ys": 2023,
+          "ye": 2024,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 4990,
+            "width_mm": 1925,
+            "height_mm": 1475,
+            "wheelbase_mm": 3556,
+            "ground_clearance_mm": 140,
+            "trunk_volume_l": 424,
+            "fuel_tank_l": 65,
+            "curb_weight_kg": 2411,
+            "doors": 4,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "EV 220 kW AWD",
+              "engine": {
+                "type": "electric",
+                "power_hp": 299,
+                "power_kw": 220,
+                "fuel_type": "electric"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "2.5L 8AT (303 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 2497,
+                "power_hp": 303,
+                "power_kw": 223,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "2.5L 8AT (305 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 2497,
+                "power_hp": 305,
+                "power_kw": 224,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 6.5,
+                "co2_emissions_gkm": 207,
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "genesis_g90",
+      "name": "G90",
+      "body_type": "sedan",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "genesis_g90__g90_2022_2022",
+          "name": "G90 I (G90) 2019-2022",
+          "ys": 2019,
+          "ye": 2022,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 5276,
+            "width_mm": 1930,
+            "height_mm": 1491,
+            "wheelbase_mm": 3180,
+            "fuel_tank_l": 82
+          },
+          "trims": [
+            {
+              "name": "3.3L 8AT (370 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 3342,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 370,
+                "power_kw": 272,
+                "torque_nm": 510,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 11.8,
+                "fuel_consumption_city_l100km": 13.8,
+                "fuel_consumption_highway_l100km": 9.8,
+                "power_hp": 370,
+                "power_kw": 272
+              }
+            },
+            {
+              "name": "3.3L 8AT (370 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 3342,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 370,
+                "power_kw": 272,
+                "torque_nm": 510,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 11.8,
+                "fuel_consumption_city_l100km": 13.8,
+                "fuel_consumption_highway_l100km": 9.8,
+                "power_hp": 370,
+                "power_kw": 272
+              }
+            },
+            {
+              "name": "5.0L 8AT (426 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "direct injection",
+                "displacement_cc": 5038,
+                "cylinders": 8,
+                "cylinder_layout": "V",
+                "power_hp": 426,
+                "power_kw": 313,
+                "torque_nm": 519,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 12.9,
+                "fuel_consumption_city_l100km": 15.7,
+                "fuel_consumption_highway_l100km": 10.2,
+                "power_hp": 426,
+                "power_kw": 313
+              }
+            },
+            {
+              "name": "5.0L 8AT (426 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "direct injection",
+                "displacement_cc": 5038,
+                "cylinders": 8,
+                "cylinder_layout": "V",
+                "power_hp": 426,
+                "power_kw": 313,
+                "torque_nm": 519,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 12.2,
+                "fuel_consumption_city_l100km": 14.7,
+                "fuel_consumption_highway_l100km": 9.8,
+                "power_hp": 426,
+                "power_kw": 313
+              }
+            },
+            {
+              "name": "3.5L 8AT (380 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 3470,
+                "cylinders": 6,
+                "power_hp": 380,
+                "power_kw": 279,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "power_hp": 380,
+                "power_kw": 279
+              }
+            },
+            {
+              "name": "LWB 3.5L T-GDI 48V 8AT AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 3470,
+                "cylinders": 6,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd"
+            }
+          ]
+        },
+        {
+          "id": "hyundai_g90genesis_g90__g90genesis_g90_2024_2024",
+          "name": "G90 II (G90) 2023-2024",
+          "ys": 2023,
+          "ye": 2024,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 5276,
+            "width_mm": 1930,
+            "height_mm": 1491,
+            "wheelbase_mm": 3180,
+            "curb_weight_kg": 2260
+          },
+          "trims": [
+            {
+              "name": "3.5L 8AT (415 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 3470,
+                "cylinders": 6,
+                "power_hp": 415,
+                "power_kw": 305,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "co2_emissions_gkm": 253,
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        },
+        {
+          "id": "genesis__g90__g90_rs4_0",
+          "name": "G90 III (G90)",
+          "ys": null,
+          "ye": null,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 5275,
+            "width_mm": 1930,
+            "height_mm": 1490,
+            "wheelbase_mm": 3180
+          },
+          "trims": [
+            {
+              "name": "3.5L 8AT (380 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 3470,
+                "power_hp": 380,
+                "torque_nm": 530,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 380
+              }
+            },
+            {
+              "name": "3.5L 8AT (415 HP) Hybrid AWD",
+              "engine": {
+                "type": "hybrid_petrol",
+                "displacement_cc": 3470,
+                "power_hp": 415,
+                "torque_nm": 549,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 415
+              }
+            },
+            {
+              "name": "3.5L 8AT (375 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 3470,
+                "power_hp": 375,
+                "torque_nm": 530,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 375
+              }
+            },
+            {
+              "name": "3.5L 8AT (375 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 3470,
+                "power_hp": 375,
+                "torque_nm": 530,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "power_hp": 375,
+                "fuel_consumption_city_l100km": 13.8,
+                "fuel_consumption_highway_l100km": 9.8,
+                "fuel_consumption_combined_l100km": 11.8
+              }
+            },
+            {
+              "name": "3.5L 8AT (375 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 3470,
+                "power_hp": 375,
+                "torque_nm": 530,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 375
+              }
+            },
+            {
+              "name": "3.5L 8AT (375 HP) AWD",
+              "engine": {
+                "type": "petrol_turbo",
+                "displacement_cc": 3470,
+                "power_hp": 375,
+                "torque_nm": 530,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 375
+              }
+            },
+            {
+              "name": "3.5L 8AT (409 HP) MHEV AWD",
+              "engine": {
+                "type": "mild_hybrid_petrol",
+                "displacement_cc": 3470,
+                "power_hp": 409,
+                "torque_nm": 549,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 409
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "genesis_gv70",
+      "name": "GV70",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "genesis_gv70__gv70_suv_2021_2021",
+          "name": "GV70 I 2021-2025",
+          "ys": 2021,
+          "ye": 2025,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4715,
+            "width_mm": 1910,
+            "height_mm": 1630,
+            "wheelbase_mm": 2781,
+            "ground_clearance_mm": 195,
+            "trunk_volume_l": 503,
+            "trunk_volume_max_l": 503,
+            "fuel_tank_l": 65,
+            "curb_weight_kg": 2310,
+            "gross_weight_kg": 2845,
+            "doors": 5,
+            "seats": 5,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 4420
+          },
+          "trims": [
+            {
+              "name": "2.5L 8AT (304 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 2497,
+                "power_hp": 304,
+                "power_kw": 223,
+                "torque_nm": 422,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 10.1,
+                "fuel_consumption_city_l100km": 11.5,
+                "fuel_consumption_highway_l100km": 8.7,
+                "power_hp": 304,
+                "power_kw": 223
+              }
+            },
+            {
+              "name": "2.5L 8AT (304 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 2497,
+                "power_hp": 304,
+                "power_kw": 223,
+                "torque_nm": 422,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 9.2,
+                "fuel_consumption_city_l100km": 10.4,
+                "fuel_consumption_highway_l100km": 8.1,
+                "power_hp": 304,
+                "power_kw": 223
+              }
+            },
+            {
+              "name": "3.5L 8AT (380 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 3470,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 380,
+                "power_kw": 279,
+                "torque_nm": 530,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 11.5,
+                "fuel_consumption_city_l100km": 13.3,
+                "fuel_consumption_highway_l100km": 9.7,
+                "power_hp": 380,
+                "power_kw": 279
+              }
+            },
+            {
+              "name": "2.2L 8AT (210 HP) AWD",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "turbocharged",
+                "displacement_cc": 2151,
+                "power_hp": 210,
+                "power_kw": 154,
+                "torque_nm": 441,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 7.7,
+                "fuel_consumption_city_l100km": 8.7,
+                "fuel_consumption_highway_l100km": 6.7,
+                "power_hp": 210,
+                "power_kw": 154
+              }
+            },
+            {
+              "name": "2.2L 8AT (210 HP)",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "turbocharged",
+                "displacement_cc": 2151,
+                "power_hp": 210,
+                "power_kw": 154,
+                "torque_nm": 441,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 7.3,
+                "fuel_consumption_city_l100km": 8.3,
+                "fuel_consumption_highway_l100km": 6.3,
+                "power_hp": 210,
+                "power_kw": 154
+              }
+            },
+            {
+              "name": "2.5L 8AT (300 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 2497,
+                "cylinders": 4,
+                "power_hp": 300,
+                "power_kw": 221,
+                "torque_nm": 422,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 240,
+                "acceleration_0_100_s": 5.1,
+                "fuel_consumption_combined_l100km": 10.1,
+                "fuel_consumption_city_l100km": 11.5,
+                "fuel_consumption_highway_l100km": 8.7
+              }
+            },
+            {
+              "name": "2.2L 8AT (204 HP) AWD",
+              "engine": {
+                "type": "diesel",
+                "displacement_cc": 2199,
+                "power_hp": 204,
+                "torque_nm": 440,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 204,
+                "fuel_consumption_city_l100km": 11.5,
+                "fuel_consumption_highway_l100km": 8.7,
+                "fuel_consumption_combined_l100km": 10.1
+              }
+            },
+            {
+              "name": "2.5L 8AT (300 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 2497,
+                "power_hp": 300,
+                "torque_nm": 422,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "power_hp": 300,
+                "fuel_consumption_city_l100km": 11.5,
+                "fuel_consumption_highway_l100km": 8.7,
+                "fuel_consumption_combined_l100km": 10.1
+              }
+            },
+            {
+              "name": "3.5L 8AT (375 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 3470,
+                "power_hp": 375,
+                "torque_nm": 530,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 375,
+                "fuel_consumption_city_l100km": 13.3,
+                "fuel_consumption_highway_l100km": 9.7,
+                "fuel_consumption_combined_l100km": 11.5
+              }
+            },
+            {
+              "name": "2.5L 8AT (303 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 2497,
+                "power_hp": 303,
+                "power_kw": 223,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 10.1,
+                "fuel_consumption_city_l100km": 11.5,
+                "fuel_consumption_highway_l100km": 8.7,
+                "co2_emissions_gkm": 225,
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        },
+        {
+          "id": "genesis_gv70__gv70_facelift_2024_suv_2026_2024",
+          "name": "GV70 II 2024-2024",
+          "ys": 2024,
+          "ye": 2024,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4715,
+            "width_mm": 1910,
+            "height_mm": 1630,
+            "ground_clearance_mm": 200,
+            "trunk_volume_l": 542,
+            "curb_weight_kg": 1985,
+            "doors": 5,
+            "seats": 5,
+            "trunk_volume_max_l": 542
+          },
+          "trims": [
+            {
+              "name": "2.5L 8AT (303 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 2497,
+                "power_hp": 303,
+                "power_kw": 223,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 10.1,
+                "fuel_consumption_city_l100km": 11.5,
+                "fuel_consumption_highway_l100km": 8.7,
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "genesis_gv80",
+      "name": "GV80",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "genesis_gv80__gv80_2021_2021",
+          "name": "GV80 I (GV80) 2020-2025",
+          "ys": 2020,
+          "ye": 2025,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4945,
+            "width_mm": 1975,
+            "height_mm": 1715,
+            "ground_clearance_mm": 200,
+            "curb_weight_kg": 2265,
+            "doors": 5,
+            "seats": 5,
+            "wheelbase_mm": 2955,
+            "trunk_volume_l": 987,
+            "fuel_tank_l": 80
+          },
+          "trims": [
+            {
+              "name": "3.0L 8AT (272 HP) AWD",
+              "engine": {
+                "type": "diesel",
+                "displacement_cc": 2996,
+                "cylinders": 6,
+                "power_hp": 272,
+                "power_kw": 200,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 9.1,
+                "fuel_consumption_city_l100km": 10.2,
+                "fuel_consumption_highway_l100km": 7.9,
+                "co2_emissions_gkm": 243,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "2.5L (305 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 2497,
+                "power_hp": 305,
+                "power_kw": 224,
+                "fuel_type": "petrol"
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 9.7,
+                "co2_emissions_gkm": 241,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "EV 160 kW AWD",
+              "engine": {
+                "type": "electric",
+                "power_hp": 218,
+                "power_kw": 160,
+                "fuel_type": "electric"
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "2.5L (265 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 2500,
+                "power_hp": 265,
+                "power_kw": 195,
+                "fuel_type": "petrol"
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "3.5L (379 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 3470,
+                "cylinders": 6,
+                "power_hp": 379,
+                "power_kw": 279,
+                "fuel_type": "petrol"
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "2.5L 8AT (304 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 2497,
+                "cylinders": 4,
+                "power_hp": 304,
+                "power_kw": 224,
+                "torque_nm": 422,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 235,
+                "acceleration_0_100_s": 6.4,
+                "fuel_consumption_combined_l100km": 11
+              }
+            },
+            {
+              "name": "3.5L 8AT (380 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "twin-turbo",
+                "displacement_cc": 3470,
+                "cylinders": 6,
+                "power_hp": 380,
+                "power_kw": 279,
+                "torque_nm": 530,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 250,
+                "acceleration_0_100_s": 5.5,
+                "fuel_consumption_combined_l100km": 13.5
+              }
+            },
+            {
+              "name": "2.5L 8AT (304 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 2497,
+                "power_hp": 304,
+                "torque_nm": 422,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "power_hp": 304
+              }
+            },
+            {
+              "name": "3.0L 8AT (278 HP) AWD",
+              "engine": {
+                "type": "diesel",
+                "displacement_cc": 2993,
+                "power_hp": 278,
+                "torque_nm": 588,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 278
+              }
+            },
+            {
+              "name": "2.5L 8AT (300 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 2497,
+                "power_hp": 300,
+                "torque_nm": 422,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 300,
+                "fuel_consumption_city_l100km": 10.2,
+                "fuel_consumption_highway_l100km": 7.9,
+                "fuel_consumption_combined_l100km": 9.1
+              }
+            }
+          ]
+        },
+        {
+          "id": "hyundai_genesis_gv80__genesis_gv80_2024_2024",
+          "name": "GV80 II (GV80) 2023-2024",
+          "ys": 2023,
+          "ye": 2024,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4945,
+            "width_mm": 1976,
+            "height_mm": 1715,
+            "wheelbase_mm": 2995,
+            "curb_weight_kg": 2308,
+            "ground_clearance_mm": 200,
+            "trunk_volume_l": 328,
+            "trunk_volume_max_l": 1034,
+            "gross_weight_kg": 2960,
+            "doors": 5,
+            "seats": 5,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 5232
+          },
+          "trims": [
+            {
+              "name": "3.0L (272 HP)",
+              "engine": {
+                "type": "diesel",
+                "displacement_cc": 2996,
+                "cylinders": 6,
+                "power_hp": 272,
+                "power_kw": 200,
+                "fuel_type": "diesel"
+              },
+              "performance": {
+                "fuel_consumption_combined_l100km": 9.3,
+                "co2_emissions_gkm": 242,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "2.5L (305 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 2497,
+                "power_hp": 305,
+                "power_kw": 224,
+                "fuel_type": "petrol"
+              },
+              "performance": {
+                "co2_emissions_gkm": 248,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "3.0L 8AT (272 HP) AWD",
+              "engine": {
+                "type": "diesel",
+                "displacement_cc": 2996,
+                "cylinders": 6,
+                "power_hp": 272,
+                "power_kw": 200,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 9.1,
+                "fuel_consumption_city_l100km": 10.2,
+                "fuel_consumption_highway_l100km": 7.9,
+                "co2_emissions_gkm": 243,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "2.5L (305 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 2497,
+                "power_hp": 305,
+                "power_kw": 224,
+                "fuel_type": "petrol"
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 9.7,
+                "co2_emissions_gkm": 241,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "3.0L (272 HP) AWD",
+              "engine": {
+                "type": "diesel",
+                "displacement_cc": 2996,
+                "cylinders": 6,
+                "power_hp": 272,
+                "power_kw": 200,
+                "fuel_type": "diesel"
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 9.3,
+                "co2_emissions_gkm": 243,
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "genesis_gv60",
+      "name": "GV60",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "genesis_gv60_2021",
+          "name": "GV60 2021-н.в.",
+          "ys": 2021,
+          "ye": 2026
+        },
+        {
+          "id": "genesis_gv60_2022",
+          "name": "GV60 2022-н.в.",
+          "ys": 2022,
+          "ye": 2026
+        }
+      ]
+    }
+  ]
+}

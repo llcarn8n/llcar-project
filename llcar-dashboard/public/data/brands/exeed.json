@@ -1,1 +1,1055 @@
-{"id":"exeed","name":"Exeed","name_ru":"Эксид","country":"CN","models":[{"id":"exeed_lx","name":"LX","body_type":"suv","powertrain":"ice","generations":[{"id":"exeed_lx__lx_suv_2019_2019","name":"LX I 2019-2022","ys":2019,"ye":2022,"body_type":"suv","dimensions":{"length_mm":4533,"width_mm":1848,"height_mm":1699,"wheelbase_mm":2670,"ground_clearance_mm":190,"trunk_volume_l":351,"trunk_volume_max_l":351,"fuel_tank_l":56,"curb_weight_kg":1476,"doors":5,"seats":5},"trims":[{"name":"1.6L 7DCT (197 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1598,"cylinders":4,"power_hp":197,"power_kw":145,"torque_nm":290,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"fwd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":8.5,"fuel_consumption_combined_l100km":7.6}},{"name":"1.6L 7DCT (197 HP) AWD","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1598,"cylinders":4,"power_hp":197,"power_kw":145,"torque_nm":290,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"awd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":9.1,"fuel_consumption_combined_l100km":8.6}},{"name":"7DCT (197 HP)","engine":{"type":"petrol","power_hp":197,"power_kw":145,"torque_nm":290,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"fwd","performance":{"power_hp":197,"power_kw":145}},{"name":"7DCT (197 HP) AWD","engine":{"type":"petrol","power_hp":197,"power_kw":145,"torque_nm":290,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"awd","performance":{"power_hp":197,"power_kw":145}}]},{"id":"exeed_lx__lx_zhuifeng_facelift_2023_suv_2023","name":"LX II 2023-2023","ys":2023,"ye":2023,"body_type":"suv","dimensions":{"length_mm":4538,"width_mm":1848,"height_mm":1699,"wheelbase_mm":2677,"ground_clearance_mm":190,"trunk_volume_l":442,"fuel_tank_l":56,"curb_weight_kg":1656,"gross_weight_kg":1967,"doors":5,"seats":5,"wheelbase_estimated":true,"wheelbase_mm_original_error":4699},"trims":[{"name":"1.6L 7DCT (197 HP) AWD","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1598,"cylinders":4,"power_hp":197,"power_kw":145,"torque_nm":290,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"awd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":9,"fuel_consumption_combined_l100km":8.4}}]}]},{"id":"exeed_rx","name":"RX","body_type":"suv","powertrain":"ice","generations":[{"id":"exeed__rx__rx_2022_2022","name":"RX I 2022-н.в.","ys":2022,"ye":null,"body_type":"suv","dimensions":{"length_mm":4775,"width_mm":1900,"height_mm":1695,"wheelbase_mm":2800,"ground_clearance_mm":185,"trunk_volume_l":450,"fuel_tank_l":56,"curb_weight_kg":1690,"doors":5,"seats":5,"gross_weight_kg":2237,"wheelbase_estimated":true,"wheelbase_mm_original_error":4750},"trims":[{"name":"1.6L 7DCT (197 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1598,"cylinders":4,"power_hp":197,"power_kw":145,"torque_nm":290,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"fwd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":8.5,"fuel_consumption_combined_l100km":7.5}},{"name":"1.6L 7DCT (197 HP) AWD","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1598,"cylinders":4,"power_hp":197,"power_kw":145,"torque_nm":290,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"awd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":9,"fuel_consumption_combined_l100km":8.5}},{"name":"7DCT (261 HP)","engine":{"type":"petrol","power_hp":261,"power_kw":192,"torque_nm":400,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"fwd","performance":{"power_hp":261,"power_kw":192}},{"name":"7DCT (261 HP) AWD","engine":{"type":"petrol","power_hp":261,"power_kw":192,"torque_nm":400,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"awd","performance":{"power_hp":261,"power_kw":192}}]},{"id":"exeed__rx__0","name":"RX II","ys":null,"ye":null,"body_type":"suv","dimensions":{"length_mm":4781,"width_mm":1920,"height_mm":1671,"wheelbase_mm":2815},"trims":[{"name":"2.0L 7DCT (261 HP)","engine":{"type":"petrol","displacement_cc":1998,"cylinders":4,"power_hp":261,"power_kw":192,"torque_nm":400,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"fwd","performance":{"power_hp":261,"power_kw":192}},{"name":"2.0L 7DCT (249 HP) AWD","engine":{"type":"petrol","displacement_cc":1998,"cylinders":4,"power_hp":249,"power_kw":183,"torque_nm":385,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"awd","performance":{"power_hp":249,"power_kw":183}}]}]},{"id":"exeed_sterra_es","name":"Sterra ES","body_type":"sedan","powertrain":"ice","generations":[{"id":"exeed_sterra_es__sterra_es_sedan_2024_2023","name":"Sterra ES 2023-н.в.","ys":2023,"ye":null,"body_type":"sedan","dimensions":{"length_mm":4945,"width_mm":1978,"height_mm":1489,"wheelbase_mm":3000,"ground_clearance_mm":140,"curb_weight_kg":2100,"doors":4,"seats":5,"trunk_volume_l":620},"trims":[{"name":"EV 185 kW","engine":{"type":"electric","power_hp":252,"power_kw":185,"torque_nm":356,"fuel_type":"electric"},"transmission":{"type":"single_speed","gears":1},"drivetrain":"rwd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":7.4}},{"name":"EV 230 kW","engine":{"type":"electric","power_hp":310,"power_kw":230,"torque_nm":425,"fuel_type":"electric"},"transmission":{"type":"single_speed","gears":1},"drivetrain":"rwd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":5.6}},{"name":"AWD Dual Motor (79.9 kWh Performance)","engine":{"type":"electric","fuel_type":"electric"},"transmission":{"type":"single_speed","gears":1},"drivetrain":"awd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":3.7}},{"name":"EV 200 kW","engine":{"type":"electric","power_hp":272,"power_kw":200,"torque_nm":340,"fuel_type":"electric"},"transmission":{"type":"automatic","gears":1},"drivetrain":"rwd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":6.9}},{"name":"EV 380 kW AWD","engine":{"type":"electric","power_hp":517,"power_kw":380,"torque_nm":680,"fuel_type":"electric"},"transmission":{"type":"automatic","gears":1},"drivetrain":"awd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":3.7}}]}]},{"id":"exeed_sterra_et","name":"Sterra ET","body_type":"suv","powertrain":"ice","generations":[{"id":"exeed_sterra_et__sterra_et_suv_2024_2024","name":"Sterra ET 2024-н.в.","ys":2024,"ye":null,"body_type":"suv","dimensions":{"length_mm":4955,"width_mm":1975,"height_mm":1698,"wheelbase_mm":3000,"ground_clearance_mm":170,"trunk_volume_l":546,"trunk_volume_max_l":546,"curb_weight_kg":2340,"gross_weight_kg":2784,"doors":5,"seats":5},"trims":[{"name":"EV 200 kW","engine":{"type":"electric","power_hp":272,"power_kw":200,"torque_nm":340,"fuel_type":"electric"},"transmission":{"type":"automatic","gears":1},"drivetrain":"rwd","performance":{"top_speed_kmh":185,"acceleration_0_100_s":7}},{"name":"EV 380 kW AWD","engine":{"type":"electric","power_hp":517,"power_kw":380,"torque_nm":680,"fuel_type":"electric"},"transmission":{"type":"automatic","gears":1},"drivetrain":"awd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":4.1}},{"name":"EV 380 kW AWD","engine":{"type":"electric","power_hp":517,"power_kw":380,"torque_nm":680,"fuel_type":"electric"},"transmission":{"type":"automatic","gears":1},"drivetrain":"awd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":4.1}},{"name":"1.5L 1AT (490 HP) PHEV AWD","engine":{"type":"phev","aspiration":"turbocharged","displacement_cc":1497,"cylinders":4,"power_hp":490,"power_kw":360,"torque_nm":710,"fuel_type":"phev"},"transmission":{"type":"automatic","gears":1},"drivetrain":"awd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":5,"fuel_consumption_combined_l100km":6.5}}]}]},{"id":"exeed_txtxl","name":"TX/TXL","body_type":"suv","powertrain":"ice","generations":[{"id":"exeed__txl__txl_2020_2020","name":"TX/TXL 2020-н.в.","ys":2020,"ye":null,"body_type":"suv","dimensions":{"length_mm":4780,"width_mm":1900,"height_mm":1725,"wheelbase_mm":2800,"ground_clearance_mm":190,"trunk_volume_l":490,"fuel_tank_l":56,"curb_weight_kg":1790,"doors":5,"seats":7},"trims":[{"name":"1.6L 7DCT (197 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1598,"cylinders":4,"power_hp":197,"power_kw":145,"torque_nm":290,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"fwd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":8.8,"fuel_consumption_combined_l100km":7.8}},{"name":"1.6L 7DCT (197 HP) AWD","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1598,"cylinders":4,"power_hp":197,"power_kw":145,"torque_nm":290,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"awd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":9.2,"fuel_consumption_combined_l100km":8.8}},{"name":"2.0L 7DCT (233 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1998,"cylinders":4,"power_hp":233,"power_kw":171,"torque_nm":390,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"fwd","performance":{"top_speed_kmh":210,"acceleration_0_100_s":8,"fuel_consumption_combined_l100km":8.2}},{"name":"2.0L 7DCT (233 HP) AWD","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1998,"cylinders":4,"power_hp":233,"power_kw":171,"torque_nm":390,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"awd","performance":{"top_speed_kmh":210,"acceleration_0_100_s":8.5,"fuel_consumption_combined_l100km":9}},{"name":"7DCT (197 HP)","engine":{"type":"petrol","power_hp":197,"power_kw":145,"torque_nm":300,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"fwd","performance":{"power_hp":197,"power_kw":145}},{"name":"1.6L 7DCT (201 HP)","engine":{"type":"petrol","displacement_cc":1598,"cylinders":4,"power_hp":201,"power_kw":145,"torque_nm":300,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"fwd","performance":{"power_hp":201,"power_kw":145}},{"name":"2.0L 8AT (261 HP)","engine":{"type":"petrol","displacement_cc":1998,"cylinders":4,"power_hp":261,"power_kw":192,"torque_nm":400,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"power_hp":261,"power_kw":192}},{"name":"2.0L 8AT (261 HP) AWD","engine":{"type":"petrol","displacement_cc":1998,"cylinders":4,"power_hp":261,"power_kw":192,"torque_nm":400,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"power_hp":261,"power_kw":192}}]}]},{"id":"exeed_vx","name":"VX","body_type":"suv","powertrain":"ice","generations":[{"id":"exeed_vx__vx_suv_2021_2021","name":"VX 2021-2023","ys":2021,"ye":2023,"body_type":"suv","dimensions":{"length_mm":4970,"width_mm":1940,"height_mm":1795,"wheelbase_mm":2900,"ground_clearance_mm":195,"trunk_volume_l":520,"fuel_tank_l":65,"curb_weight_kg":1771,"doors":5,"seats":7},"trims":[{"name":"2.0L 7DCT (233 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1998,"cylinders":4,"power_hp":233,"power_kw":171,"torque_nm":390,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"fwd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":8.4,"fuel_consumption_combined_l100km":8.5}},{"name":"2.0L 7DCT (233 HP) AWD","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1998,"cylinders":4,"power_hp":233,"power_kw":171,"torque_nm":390,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"awd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":8.9,"fuel_consumption_combined_l100km":9.3}},{"name":"7DCT (261 HP) AWD","engine":{"type":"petrol","power_hp":261,"power_kw":192,"torque_nm":400,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"awd","performance":{"power_hp":261,"power_kw":192}},{"name":"2.0L 7DCT (249 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1998,"cylinders":4,"power_hp":249,"power_kw":183,"torque_nm":390,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"fwd","performance":{"top_speed_kmh":215,"acceleration_0_100_s":7.9,"fuel_consumption_combined_l100km":8.2}},{"name":"2.0L 7DCT (249 HP) AWD","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1998,"cylinders":4,"power_hp":249,"power_kw":183,"torque_nm":390,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"awd","performance":{"top_speed_kmh":210,"acceleration_0_100_s":8.2,"fuel_consumption_combined_l100km":9}}]}]},{"id":"exeed_yaoguang","name":"Yaoguang","body_type":"suv","powertrain":"ice","generations":[{"id":"exeed_yaoguang__yaoguang_suv_2023_2023","name":"Yaoguang 2023-н.в.","ys":2023,"ye":null,"body_type":"suv","dimensions":{"length_mm":4781,"width_mm":1920,"height_mm":1671,"wheelbase_mm":2815,"ground_clearance_mm":200,"trunk_volume_l":660,"trunk_volume_max_l":660,"curb_weight_kg":1783,"doors":5,"seats":5},"trims":[{"name":"2.0L 7DCT (261 HP)","engine":{"type":"petrol","displacement_cc":1998,"cylinders":4,"power_hp":261,"power_kw":192,"torque_nm":400,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"fwd","performance":{"power_hp":261,"power_kw":192}},{"name":"2.0L 7DCT (261 HP) AWD","engine":{"type":"petrol","displacement_cc":1998,"cylinders":4,"power_hp":261,"power_kw":192,"torque_nm":400,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"awd","performance":{"power_hp":261,"power_kw":192}}]}]},{"id":"exeed_tx","name":"TX/TXL","body_type":"suv","powertrain":"ice","generations":[{"id":"exeed_tx__stub","name":"TX/TXL","body_type":"suv","dimensions":{},"trims":[]}]}]}
+{
+  "id": "exeed",
+  "name": "Exeed",
+  "name_ru": "Эксид",
+  "country": "CN",
+  "models": [
+    {
+      "id": "exeed_lx",
+      "name": "LX",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "exeed_lx__lx_suv_2019_2019",
+          "name": "LX I 2019-2022",
+          "ys": 2019,
+          "ye": 2022,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4533,
+            "width_mm": 1848,
+            "height_mm": 1699,
+            "wheelbase_mm": 2670,
+            "ground_clearance_mm": 190,
+            "trunk_volume_l": 351,
+            "trunk_volume_max_l": 351,
+            "fuel_tank_l": 56,
+            "curb_weight_kg": 1476,
+            "doors": 5,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "1.6L 7DCT (197 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 197,
+                "power_kw": 145,
+                "torque_nm": 290,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 8.5,
+                "fuel_consumption_combined_l100km": 7.6
+              }
+            },
+            {
+              "name": "1.6L 7DCT (197 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 197,
+                "power_kw": 145,
+                "torque_nm": 290,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 9.1,
+                "fuel_consumption_combined_l100km": 8.6
+              }
+            },
+            {
+              "name": "7DCT (197 HP)",
+              "engine": {
+                "type": "petrol",
+                "power_hp": 197,
+                "power_kw": 145,
+                "torque_nm": 290,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 197,
+                "power_kw": 145
+              }
+            },
+            {
+              "name": "7DCT (197 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "power_hp": 197,
+                "power_kw": 145,
+                "torque_nm": 290,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 197,
+                "power_kw": 145
+              }
+            }
+          ]
+        },
+        {
+          "id": "exeed_lx__lx_zhuifeng_facelift_2023_suv_2023",
+          "name": "LX II 2023-2023",
+          "ys": 2023,
+          "ye": 2023,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4538,
+            "width_mm": 1848,
+            "height_mm": 1699,
+            "wheelbase_mm": 2677,
+            "ground_clearance_mm": 190,
+            "trunk_volume_l": 442,
+            "fuel_tank_l": 56,
+            "curb_weight_kg": 1656,
+            "gross_weight_kg": 1967,
+            "doors": 5,
+            "seats": 5,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 4699
+          },
+          "trims": [
+            {
+              "name": "1.6L 7DCT (197 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 197,
+                "power_kw": 145,
+                "torque_nm": 290,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 9,
+                "fuel_consumption_combined_l100km": 8.4
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exeed_rx",
+      "name": "RX",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "exeed__rx__rx_2022_2022",
+          "name": "RX I 2022-н.в.",
+          "ys": 2022,
+          "ye": null,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4775,
+            "width_mm": 1900,
+            "height_mm": 1695,
+            "wheelbase_mm": 2800,
+            "ground_clearance_mm": 185,
+            "trunk_volume_l": 450,
+            "fuel_tank_l": 56,
+            "curb_weight_kg": 1690,
+            "doors": 5,
+            "seats": 5,
+            "gross_weight_kg": 2237,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 4750
+          },
+          "trims": [
+            {
+              "name": "1.6L 7DCT (197 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 197,
+                "power_kw": 145,
+                "torque_nm": 290,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 8.5,
+                "fuel_consumption_combined_l100km": 7.5
+              }
+            },
+            {
+              "name": "1.6L 7DCT (197 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 197,
+                "power_kw": 145,
+                "torque_nm": 290,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 9,
+                "fuel_consumption_combined_l100km": 8.5
+              }
+            },
+            {
+              "name": "7DCT (261 HP)",
+              "engine": {
+                "type": "petrol",
+                "power_hp": 261,
+                "power_kw": 192,
+                "torque_nm": 400,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 261,
+                "power_kw": 192
+              }
+            },
+            {
+              "name": "7DCT (261 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "power_hp": 261,
+                "power_kw": 192,
+                "torque_nm": 400,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 261,
+                "power_kw": 192
+              }
+            }
+          ]
+        },
+        {
+          "id": "exeed__rx__0",
+          "name": "RX II",
+          "ys": null,
+          "ye": null,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4781,
+            "width_mm": 1920,
+            "height_mm": 1671,
+            "wheelbase_mm": 2815
+          },
+          "trims": [
+            {
+              "name": "2.0L 7DCT (261 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1998,
+                "cylinders": 4,
+                "power_hp": 261,
+                "power_kw": 192,
+                "torque_nm": 400,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 261,
+                "power_kw": 192
+              }
+            },
+            {
+              "name": "2.0L 7DCT (249 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1998,
+                "cylinders": 4,
+                "power_hp": 249,
+                "power_kw": 183,
+                "torque_nm": 385,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 249,
+                "power_kw": 183
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exeed_sterra_es",
+      "name": "Sterra ES",
+      "body_type": "sedan",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "exeed_sterra_es__sterra_es_sedan_2024_2023",
+          "name": "Sterra ES 2023-н.в.",
+          "ys": 2023,
+          "ye": null,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 4945,
+            "width_mm": 1978,
+            "height_mm": 1489,
+            "wheelbase_mm": 3000,
+            "ground_clearance_mm": 140,
+            "curb_weight_kg": 2100,
+            "doors": 4,
+            "seats": 5,
+            "trunk_volume_l": 620
+          },
+          "trims": [
+            {
+              "name": "EV 185 kW",
+              "engine": {
+                "type": "electric",
+                "power_hp": 252,
+                "power_kw": 185,
+                "torque_nm": 356,
+                "fuel_type": "electric"
+              },
+              "transmission": {
+                "type": "single_speed",
+                "gears": 1
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 7.4
+              }
+            },
+            {
+              "name": "EV 230 kW",
+              "engine": {
+                "type": "electric",
+                "power_hp": 310,
+                "power_kw": 230,
+                "torque_nm": 425,
+                "fuel_type": "electric"
+              },
+              "transmission": {
+                "type": "single_speed",
+                "gears": 1
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 5.6
+              }
+            },
+            {
+              "name": "AWD Dual Motor (79.9 kWh Performance)",
+              "engine": {
+                "type": "electric",
+                "fuel_type": "electric"
+              },
+              "transmission": {
+                "type": "single_speed",
+                "gears": 1
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 3.7
+              }
+            },
+            {
+              "name": "EV 200 kW",
+              "engine": {
+                "type": "electric",
+                "power_hp": 272,
+                "power_kw": 200,
+                "torque_nm": 340,
+                "fuel_type": "electric"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 1
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 6.9
+              }
+            },
+            {
+              "name": "EV 380 kW AWD",
+              "engine": {
+                "type": "electric",
+                "power_hp": 517,
+                "power_kw": 380,
+                "torque_nm": 680,
+                "fuel_type": "electric"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 1
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 3.7
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exeed_sterra_et",
+      "name": "Sterra ET",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "exeed_sterra_et__sterra_et_suv_2024_2024",
+          "name": "Sterra ET 2024-н.в.",
+          "ys": 2024,
+          "ye": null,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4955,
+            "width_mm": 1975,
+            "height_mm": 1698,
+            "wheelbase_mm": 3000,
+            "ground_clearance_mm": 170,
+            "trunk_volume_l": 546,
+            "trunk_volume_max_l": 546,
+            "curb_weight_kg": 2340,
+            "gross_weight_kg": 2784,
+            "doors": 5,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "EV 200 kW",
+              "engine": {
+                "type": "electric",
+                "power_hp": 272,
+                "power_kw": 200,
+                "torque_nm": 340,
+                "fuel_type": "electric"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 1
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "top_speed_kmh": 185,
+                "acceleration_0_100_s": 7
+              }
+            },
+            {
+              "name": "EV 380 kW AWD",
+              "engine": {
+                "type": "electric",
+                "power_hp": 517,
+                "power_kw": 380,
+                "torque_nm": 680,
+                "fuel_type": "electric"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 1
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 4.1
+              }
+            },
+            {
+              "name": "EV 380 kW AWD",
+              "engine": {
+                "type": "electric",
+                "power_hp": 517,
+                "power_kw": 380,
+                "torque_nm": 680,
+                "fuel_type": "electric"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 1
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 4.1
+              }
+            },
+            {
+              "name": "1.5L 1AT (490 HP) PHEV AWD",
+              "engine": {
+                "type": "phev",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1497,
+                "cylinders": 4,
+                "power_hp": 490,
+                "power_kw": 360,
+                "torque_nm": 710,
+                "fuel_type": "phev"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 1
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 5,
+                "fuel_consumption_combined_l100km": 6.5
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exeed_txtxl",
+      "name": "TX/TXL",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "exeed__txl__txl_2020_2020",
+          "name": "TX/TXL 2020-н.в.",
+          "ys": 2020,
+          "ye": null,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4780,
+            "width_mm": 1900,
+            "height_mm": 1725,
+            "wheelbase_mm": 2800,
+            "ground_clearance_mm": 190,
+            "trunk_volume_l": 490,
+            "fuel_tank_l": 56,
+            "curb_weight_kg": 1790,
+            "doors": 5,
+            "seats": 7
+          },
+          "trims": [
+            {
+              "name": "1.6L 7DCT (197 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 197,
+                "power_kw": 145,
+                "torque_nm": 290,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 8.8,
+                "fuel_consumption_combined_l100km": 7.8
+              }
+            },
+            {
+              "name": "1.6L 7DCT (197 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 197,
+                "power_kw": 145,
+                "torque_nm": 290,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 9.2,
+                "fuel_consumption_combined_l100km": 8.8
+              }
+            },
+            {
+              "name": "2.0L 7DCT (233 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1998,
+                "cylinders": 4,
+                "power_hp": 233,
+                "power_kw": 171,
+                "torque_nm": 390,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 210,
+                "acceleration_0_100_s": 8,
+                "fuel_consumption_combined_l100km": 8.2
+              }
+            },
+            {
+              "name": "2.0L 7DCT (233 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1998,
+                "cylinders": 4,
+                "power_hp": 233,
+                "power_kw": 171,
+                "torque_nm": 390,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 210,
+                "acceleration_0_100_s": 8.5,
+                "fuel_consumption_combined_l100km": 9
+              }
+            },
+            {
+              "name": "7DCT (197 HP)",
+              "engine": {
+                "type": "petrol",
+                "power_hp": 197,
+                "power_kw": 145,
+                "torque_nm": 300,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 197,
+                "power_kw": 145
+              }
+            },
+            {
+              "name": "1.6L 7DCT (201 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 201,
+                "power_kw": 145,
+                "torque_nm": 300,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 201,
+                "power_kw": 145
+              }
+            },
+            {
+              "name": "2.0L 8AT (261 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1998,
+                "cylinders": 4,
+                "power_hp": 261,
+                "power_kw": 192,
+                "torque_nm": 400,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 261,
+                "power_kw": 192
+              }
+            },
+            {
+              "name": "2.0L 8AT (261 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1998,
+                "cylinders": 4,
+                "power_hp": 261,
+                "power_kw": 192,
+                "torque_nm": 400,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 261,
+                "power_kw": 192
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exeed_vx",
+      "name": "VX",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "exeed_vx__vx_suv_2021_2021",
+          "name": "VX 2021-2023",
+          "ys": 2021,
+          "ye": 2023,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4970,
+            "width_mm": 1940,
+            "height_mm": 1795,
+            "wheelbase_mm": 2900,
+            "ground_clearance_mm": 195,
+            "trunk_volume_l": 520,
+            "fuel_tank_l": 65,
+            "curb_weight_kg": 1771,
+            "doors": 5,
+            "seats": 7
+          },
+          "trims": [
+            {
+              "name": "2.0L 7DCT (233 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1998,
+                "cylinders": 4,
+                "power_hp": 233,
+                "power_kw": 171,
+                "torque_nm": 390,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 8.4,
+                "fuel_consumption_combined_l100km": 8.5
+              }
+            },
+            {
+              "name": "2.0L 7DCT (233 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1998,
+                "cylinders": 4,
+                "power_hp": 233,
+                "power_kw": 171,
+                "torque_nm": 390,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 8.9,
+                "fuel_consumption_combined_l100km": 9.3
+              }
+            },
+            {
+              "name": "7DCT (261 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "power_hp": 261,
+                "power_kw": 192,
+                "torque_nm": 400,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 261,
+                "power_kw": 192
+              }
+            },
+            {
+              "name": "2.0L 7DCT (249 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1998,
+                "cylinders": 4,
+                "power_hp": 249,
+                "power_kw": 183,
+                "torque_nm": 390,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 215,
+                "acceleration_0_100_s": 7.9,
+                "fuel_consumption_combined_l100km": 8.2
+              }
+            },
+            {
+              "name": "2.0L 7DCT (249 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1998,
+                "cylinders": 4,
+                "power_hp": 249,
+                "power_kw": 183,
+                "torque_nm": 390,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 210,
+                "acceleration_0_100_s": 8.2,
+                "fuel_consumption_combined_l100km": 9
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exeed_yaoguang",
+      "name": "Yaoguang",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "exeed_yaoguang__yaoguang_suv_2023_2023",
+          "name": "Yaoguang 2023-н.в.",
+          "ys": 2023,
+          "ye": null,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4781,
+            "width_mm": 1920,
+            "height_mm": 1671,
+            "wheelbase_mm": 2815,
+            "ground_clearance_mm": 200,
+            "trunk_volume_l": 660,
+            "trunk_volume_max_l": 660,
+            "curb_weight_kg": 1783,
+            "doors": 5,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "2.0L 7DCT (261 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1998,
+                "cylinders": 4,
+                "power_hp": 261,
+                "power_kw": 192,
+                "torque_nm": 400,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 261,
+                "power_kw": 192
+              }
+            },
+            {
+              "name": "2.0L 7DCT (261 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1998,
+                "cylinders": 4,
+                "power_hp": 261,
+                "power_kw": 192,
+                "torque_nm": 400,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 261,
+                "power_kw": 192
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exeed_tx",
+      "name": "TX/TXL",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "exeed_tx__stub",
+          "name": "TX/TXL",
+          "body_type": "suv",
+          "dimensions": {},
+          "trims": []
+        }
+      ]
+    },
+    {
+      "id": "exeed_es",
+      "name": "ES",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "exeed_es_2023",
+          "name": "ES 2023-н.в.",
+          "ys": 2023,
+          "ye": 2026
+        }
+      ]
+    },
+    {
+      "id": "exeed_et",
+      "name": "ET",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "exeed_et_2023",
+          "name": "ET 2023-н.в.",
+          "ys": 2023,
+          "ye": 2026
+        }
+      ]
+    },
+    {
+      "id": "exeed_txl",
+      "name": "TXL",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "exeed_txl_2015",
+          "name": "TXL (актуальное)",
+          "ys": 2015,
+          "ye": 2026
+        },
+        {
+          "id": "exeed_txl_2020",
+          "name": "TXL 2020-н.в.",
+          "ys": 2020,
+          "ye": 2026
+        },
+        {
+          "id": "exeed_txl_2015",
+          "name": "TXL (актуальное)",
+          "ys": 2015,
+          "ye": 2026
+        }
+      ]
+    }
+  ]
+}

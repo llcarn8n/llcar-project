@@ -1,1 +1,2020 @@
-{"id":"nissan","name":"Nissan","name_ru":"Ниссан","country":"JP","models":[{"id":"nissan_almera","name":"Almera","body_type":"sedan","powertrain":"ice","generations":[{"id":"nissan_almera__almera_g11_sedan_2013_2012","name":"Almera (G11) 2012-2018","ys":2012,"ye":2018,"body_type":"sedan","dimensions":{"length_mm":4656,"width_mm":1695,"height_mm":1522,"wheelbase_mm":2747,"ground_clearance_mm":135,"trunk_volume_l":500,"trunk_volume_max_l":500,"fuel_tank_l":50,"curb_weight_kg":1224,"gross_weight_kg":1650,"doors":4,"seats":5,"wheelbase_estimated":true,"wheelbase_mm_original_error":4064},"trims":[{"name":"1.6L 5MT (102 HP)","engine":{"code":"K4M","type":"petrol","aspiration":"NA","displacement_cc":1598,"cylinders":4,"power_hp":102,"power_kw":75,"torque_nm":145,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":185,"acceleration_0_100_s":10.9,"fuel_consumption_combined_l100km":8.3,"fuel_consumption_city_l100km":10.3,"fuel_consumption_highway_l100km":6.3}},{"name":"1.6L 4AT (102 HP)","engine":{"code":"K4M","type":"petrol","aspiration":"NA","displacement_cc":1598,"cylinders":4,"power_hp":102,"power_kw":75,"torque_nm":145,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":4},"drivetrain":"fwd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":12.5,"fuel_consumption_combined_l100km":8.3,"fuel_consumption_city_l100km":10.3,"fuel_consumption_highway_l100km":6.3}}]}]},{"id":"nissan_murano","name":"Murano","body_type":"suv","powertrain":"ice","generations":[{"id":"nissan_murano__murano_2015_2018_2015","name":"Murano I 2015-2018","ys":2015,"ye":2018,"body_type":"suv","dimensions":{"length_mm":4900,"width_mm":1981,"height_mm":1725,"wheelbase_mm":2891,"ground_clearance_mm":200,"trunk_volume_l":932,"fuel_tank_l":71,"doors":5,"seats":5,"wheelbase_estimated":true,"wheelbase_mm_original_error":5359},"trims":[{"name":"3.5L CVT (248 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":3498,"cylinders":6,"cylinder_layout":"V","power_hp":248,"power_kw":182,"torque_nm":333,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":8.4,"fuel_consumption_combined_l100km":13.3,"fuel_consumption_city_l100km":17.2,"fuel_consumption_highway_l100km":9.5}},{"name":"3.5L CVT (256 HP) AWD","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":3498,"cylinders":6,"cylinder_layout":"V","power_hp":256,"power_kw":188,"torque_nm":334,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"awd","performance":{"top_speed_kmh":209,"acceleration_0_100_s":8,"fuel_consumption_combined_l100km":11.6,"fuel_consumption_city_l100km":14.8,"fuel_consumption_highway_l100km":8.3}},{"name":"2.5L 6AT (190 HP) AWD","engine":{"type":"diesel","aspiration":"common rail direct injection","displacement_cc":2488,"power_hp":190,"power_kw":140,"torque_nm":450,"fuel_type":"diesel"},"transmission":{"type":"automatic","gears":6},"drivetrain":"awd","performance":{"top_speed_kmh":196,"acceleration_0_100_s":10.5,"fuel_consumption_combined_l100km":8.4,"fuel_consumption_city_l100km":10.1,"fuel_consumption_highway_l100km":6.8}},{"name":"2.5L CVT AWD (250 HP)","engine":{"type":"hybrid_petrol","aspiration":"direct injection","displacement_cc":2488,"torque_nm":329,"fuel_type":"hybrid_petrol"},"transmission":{"type":"cvt"},"drivetrain":"awd","performance":{"top_speed_kmh":209,"acceleration_0_100_s":8.3,"fuel_consumption_combined_l100km":8.4,"fuel_consumption_city_l100km":9,"fuel_consumption_highway_l100km":7.8}}]},{"id":"nissan_murano__murano_iii_z52_facelift_2019_suv_2019","name":"Murano II (Z52) 2019-2024","ys":2019,"ye":2024,"body_type":"suv","dimensions":{"length_mm":4897,"width_mm":1915,"height_mm":1722,"wheelbase_mm":2889,"ground_clearance_mm":195,"trunk_volume_l":881,"trunk_volume_max_l":881,"fuel_tank_l":82,"curb_weight_kg":1800,"gross_weight_kg":2395,"doors":5,"seats":5,"wheelbase_estimated":true,"wheelbase_mm_original_error":4445},"trims":[{"name":"3.5L CVT (260 HP) AWD","engine":{"code":"VQ35DE","type":"petrol","aspiration":"NA","displacement_cc":3498,"cylinders":6,"power_hp":260,"power_kw":191,"torque_nm":325,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"awd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":8.4,"fuel_consumption_combined_l100km":10.1,"fuel_consumption_city_l100km":11.8,"fuel_consumption_highway_l100km":8.4}}]}]},{"id":"nissan_pathfinder","name":"Pathfinder","body_type":"suv","powertrain":"ice","generations":[{"id":"nissan_pathfinder__pathfinder_2016_2021_2016","name":"Pathfinder I 2016-2025","ys":2016,"ye":2025,"body_type":"suv","dimensions":{"length_mm":5009,"width_mm":1961,"height_mm":1802,"ground_clearance_mm":200,"trunk_volume_l":205,"fuel_tank_l":79,"doors":5,"seats":5,"curb_weight_kg":2107},"trims":[{"name":"3.3L 4AT (150 HP) AWD","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":3274,"cylinders":6,"cylinder_layout":"V","power_hp":150,"power_kw":110,"torque_nm":266,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":4},"drivetrain":"awd","performance":{"top_speed_kmh":166,"acceleration_0_100_s":11.4,"fuel_consumption_combined_l100km":14.8,"fuel_consumption_city_l100km":18.2,"fuel_consumption_highway_l100km":11.5}},{"name":"4.0L 5AT (269 HP) AWD","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":3954,"cylinders":6,"cylinder_layout":"V","power_hp":269,"power_kw":198,"torque_nm":385,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":5},"drivetrain":"awd","performance":{"top_speed_kmh":190,"acceleration_0_100_s":8.9,"fuel_consumption_combined_l100km":14.6,"fuel_consumption_city_l100km":18.7,"fuel_consumption_highway_l100km":10.5}},{"name":"2.5L 6MT (171 HP) AWD","engine":{"type":"diesel","aspiration":"common rail","displacement_cc":2488,"power_hp":171,"power_kw":126,"torque_nm":403,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":6},"drivetrain":"awd","performance":{"top_speed_kmh":175,"acceleration_0_100_s":11.9,"fuel_consumption_combined_l100km":10.2,"fuel_consumption_city_l100km":12,"fuel_consumption_highway_l100km":8.5}},{"name":"5.6L 5AT (314 HP) AWD","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":5552,"cylinders":8,"cylinder_layout":"V","power_hp":314,"power_kw":231,"torque_nm":526,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":5},"drivetrain":"awd","performance":{"fuel_consumption_combined_l100km":15.6,"fuel_consumption_city_l100km":18.1,"fuel_consumption_highway_l100km":13.1,"power_hp":314,"power_kw":231}},{"name":"2.5L 5AT (171 HP) AWD","engine":{"type":"diesel","aspiration":"turbocharged","displacement_cc":2488,"power_hp":171,"power_kw":126,"torque_nm":403,"fuel_type":"diesel"},"transmission":{"type":"automatic","gears":5},"drivetrain":"awd","performance":{"top_speed_kmh":175,"acceleration_0_100_s":11.8,"fuel_consumption_combined_l100km":11,"fuel_consumption_city_l100km":12.9,"fuel_consumption_highway_l100km":9.1}},{"name":"2.5L 7AT (231 HP) AWD","engine":{"type":"diesel","aspiration":"turbocharged","displacement_cc":2488,"cylinders":6,"cylinder_layout":"V","power_hp":231,"power_kw":170,"torque_nm":550,"fuel_type":"diesel"},"transmission":{"type":"automatic","gears":7},"drivetrain":"awd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":8.9,"fuel_consumption_combined_l100km":10.1,"fuel_consumption_city_l100km":12.4,"fuel_consumption_highway_l100km":7.7}},{"name":"3.5L CVT (6 HP) AWD","engine":{"type":"petrol","aspiration":"direct injection","displacement_cc":3498,"cylinders":6,"cylinder_layout":"V","power_hp":6,"power_kw":193,"torque_nm":325,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"awd","performance":{"fuel_consumption_combined_l100km":10.9,"fuel_consumption_city_l100km":12.4,"fuel_consumption_highway_l100km":9.4,"power_hp":6,"power_kw":193}},{"name":"3.5L 9AT (288 HP) 4WD","engine":{"type":"petrol","displacement_cc":3498,"cylinders":6,"power_hp":288,"power_kw":212,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":9},"drivetrain":"4wd","performance":{"fuel_consumption_standard":"WLTP"}}]},{"id":"nissan__pathfinder_r53__pathfinder_r53_2021_present_2021","name":"Pathfinder II (R53) 2021-2025","ys":2021,"ye":2025,"body_type":"suv","dimensions":{"length_mm":5020,"width_mm":1979,"height_mm":1801,"wheelbase_mm":2901,"ground_clearance_mm":179,"trunk_volume_l":470,"fuel_tank_l":72,"curb_weight_kg":2015,"doors":5,"seats":8,"trunk_volume_max_l":470,"gross_weight_kg":2750,"wheelbase_estimated":true,"wheelbase_mm_original_error":4521},"trims":[{"name":"3.5L 9AT (284 HP)","engine":{"code":"VQ35DD","type":"petrol","aspiration":"naturally_aspirated","displacement_cc":3498,"cylinders":6,"power_hp":284,"power_kw":209,"torque_nm":351,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":9},"drivetrain":"fwd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":7.1,"fuel_consumption_combined_l100km":10.2}},{"name":"3.5L 9AT (284 HP) AWD","engine":{"code":"VQ35DD","type":"petrol","aspiration":"naturally_aspirated","displacement_cc":3498,"cylinders":6,"power_hp":284,"power_kw":209,"torque_nm":351,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":9},"drivetrain":"awd","performance":{"top_speed_kmh":193,"acceleration_0_100_s":6.6,"fuel_consumption_combined_l100km":10.7}},{"name":"9AT (284 HP) AWD","engine":{"type":"petrol","aspiration":"direct injection","cylinders":6,"cylinder_layout":"V","power_hp":284,"power_kw":208,"torque_nm":351,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":9},"drivetrain":"awd","performance":{"power_hp":284,"power_kw":208}},{"name":"3.5L 9AT (288 HP) 4WD","engine":{"type":"petrol","displacement_cc":3498,"cylinders":6,"power_hp":288,"power_kw":212,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":9},"drivetrain":"4wd","performance":{"fuel_consumption_standard":"WLTP"}}]}]},{"id":"nissan_navara","name":"Navara","body_type":"pickup","powertrain":"ice","generations":[{"id":"nissan_navara_np300_double_cab__navara_np300_double_cab_2015_2015","name":"Navara I (NP300) 2015-н.в.","ys":2015,"ye":null,"body_type":"pickup","dimensions":{"ground_clearance_mm":210,"fuel_tank_l":79,"doors":4,"seats":5},"trims":[{"name":"2.3L 6MT (160 HP) AWD","engine":{"type":"diesel","aspiration":"turbocharged","displacement_cc":2298,"power_hp":160,"power_kw":117,"torque_nm":403,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":6},"drivetrain":"awd","performance":{"top_speed_kmh":172,"acceleration_0_100_s":12}},{"name":"2.3L 6MT (190 HP) AWD","engine":{"type":"diesel","aspiration":"turbocharged","displacement_cc":2298,"power_hp":190,"power_kw":139,"torque_nm":450,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":6},"drivetrain":"awd","performance":{"top_speed_kmh":183,"acceleration_0_100_s":10.8}},{"name":"2.3L 7AT (190 HP) AWD","engine":{"type":"diesel","aspiration":"turbocharged","displacement_cc":2298,"power_hp":190,"power_kw":139,"torque_nm":450,"fuel_type":"diesel"},"transmission":{"type":"automatic","gears":7},"drivetrain":"awd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":10.8}},{"name":"2.3L 6MT (160 HP)","engine":{"type":"diesel","aspiration":"turbocharged","displacement_cc":2298,"power_hp":160,"power_kw":117,"torque_nm":403,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":6},"drivetrain":"rwd","performance":{"top_speed_kmh":172,"acceleration_0_100_s":11.6}}]},{"id":"nissan__navara__d23_facelift_2021_2021","name":"Navara II (D23) 2021-н.в.","ys":2021,"ye":null,"body_type":"pickup","dimensions":{"ground_clearance_mm":210,"fuel_tank_l":79,"doors":4,"seats":5},"trims":[{"name":"2.3L 6MT (163 HP) AWD","engine":{"type":"diesel","displacement_cc":2298,"power_hp":163,"torque_nm":403,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"awd","performance":{"power_hp":163}},{"name":"2.3L 7AT (190 HP) AWD","engine":{"type":"diesel","displacement_cc":2298,"power_hp":190,"torque_nm":450,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":7},"drivetrain":"awd","performance":{"power_hp":190}}]}]},{"id":"nissan_sentra","name":"Sentra","body_type":"sedan","powertrain":"ice","generations":[{"id":"nissan_sentra_se_r__sentra_se_r_2006_2006","name":"Sentra I 2006-2006","ys":2006,"ye":2006,"body_type":"sedan","dimensions":{"length_mm":4646,"width_mm":1816,"height_mm":1445,"wheelbase_mm":2708,"fuel_tank_l":50,"curb_weight_kg":1377},"trims":[{"name":"2.5L 4AT (167 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":2489,"power_hp":167,"power_kw":123,"torque_nm":237,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":4},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":8.8,"fuel_consumption_city_l100km":9.8,"fuel_consumption_highway_l100km":7.8,"power_hp":167,"power_kw":123}},{"name":"2.5L 6MT (177 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":2489,"power_hp":177,"power_kw":130,"torque_nm":244,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":8.8,"fuel_consumption_city_l100km":9.8,"fuel_consumption_highway_l100km":7.8,"power_hp":177,"power_kw":130}},{"name":"2.5L CVT (179 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":2488,"power_hp":179,"power_kw":132,"torque_nm":233,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":8.7,"fuel_consumption_city_l100km":9.8,"fuel_consumption_highway_l100km":7.6,"power_hp":179,"power_kw":132}},{"name":"2.5L 6MT (203 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":2488,"power_hp":203,"power_kw":149,"torque_nm":244,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":9.8,"fuel_consumption_city_l100km":11.2,"fuel_consumption_highway_l100km":8.4,"power_hp":203,"power_kw":149}}]},{"id":"nissan_sentra__sentra_2015_2019_2015","name":"Sentra II 2015-2019","ys":2015,"ye":2019,"body_type":"sedan","dimensions":{"length_mm":4646,"width_mm":1816,"height_mm":1445,"wheelbase_mm":2708,"fuel_tank_l":50,"curb_weight_kg":1377},"trims":[{"name":"2.0L 6MT (140 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1997,"cylinders":4,"power_hp":140,"power_kw":103,"torque_nm":199,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":8.7,"fuel_consumption_city_l100km":9.8,"fuel_consumption_highway_l100km":7.6,"power_hp":140,"power_kw":103}},{"name":"2.0L CVT (140 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1997,"cylinders":4,"power_hp":140,"power_kw":103,"torque_nm":199,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":7.8,"fuel_consumption_city_l100km":8.7,"fuel_consumption_highway_l100km":6.9,"power_hp":140,"power_kw":103}},{"name":"2.5L CVT (177 HP)","engine":{"type":"petrol","aspiration":"sequential multi-point fuel injection","displacement_cc":2488,"power_hp":177,"power_kw":130,"torque_nm":233,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":8.8,"fuel_consumption_city_l100km":9.8,"fuel_consumption_highway_l100km":7.8,"power_hp":177,"power_kw":130}},{"name":"2.5L 6MT (200 HP)","engine":{"type":"petrol","aspiration":"sequential multi-point fuel injection","displacement_cc":2488,"power_hp":200,"power_kw":147,"torque_nm":244,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":9.8,"fuel_consumption_city_l100km":11.2,"fuel_consumption_highway_l100km":8.4,"power_hp":200,"power_kw":147}},{"name":"1.8L 6MT (130 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1798,"cylinders":4,"power_hp":130,"power_kw":96,"torque_nm":174,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":190,"acceleration_0_100_s":10.3,"fuel_consumption_combined_l100km":7.8,"fuel_consumption_city_l100km":9,"fuel_consumption_highway_l100km":6.5}},{"name":"1.8L CVT (130 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1798,"cylinders":4,"power_hp":130,"power_kw":96,"torque_nm":174,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"top_speed_kmh":190,"acceleration_0_100_s":11.2,"fuel_consumption_combined_l100km":6.9,"fuel_consumption_city_l100km":7.8,"fuel_consumption_highway_l100km":6}},{"name":"1.6L 6MT (191 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1618,"cylinders":4,"power_hp":191,"power_kw":140,"torque_nm":240,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":8.2,"fuel_consumption_city_l100km":9,"fuel_consumption_highway_l100km":7.4,"power_hp":191,"power_kw":140}},{"name":"1.6L CVT (191 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1618,"cylinders":4,"power_hp":191,"power_kw":140,"torque_nm":240,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":7.9,"fuel_consumption_city_l100km":8.7,"fuel_consumption_highway_l100km":7.1,"power_hp":191,"power_kw":140}}]},{"id":"nissan_sentra__sentra_viii_b18_sedan_2020_2019","name":"Sentra III (B18) 2019-2023","ys":2019,"ye":2023,"body_type":"sedan","dimensions":{"length_mm":4641,"width_mm":1816,"height_mm":1448,"wheelbase_mm":2738,"ground_clearance_mm":140,"trunk_volume_l":405,"trunk_volume_max_l":405,"fuel_tank_l":50,"curb_weight_kg":1399,"gross_weight_kg":1815,"doors":4,"seats":5,"wheelbase_estimated":true,"wheelbase_mm_original_error":4191},"trims":[{"name":"1.8L 5MT (129 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1769,"cylinders":4,"power_hp":129,"power_kw":94,"torque_nm":175,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":175,"fuel_consumption_combined_l100km":7.6,"fuel_consumption_city_l100km":8.4,"fuel_consumption_highway_l100km":6.7}},{"name":"2.5L 5MT (165 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":2488,"power_hp":165,"power_kw":121,"torque_nm":231,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":9.3,"fuel_consumption_city_l100km":10.2,"fuel_consumption_highway_l100km":8.4,"power_hp":165,"power_kw":121}}]},{"id":"nissan_sentra__sentra_viii_b18_facelift_2023_sedan_2024_2023","name":"Sentra IV (B18) 2023-2025","ys":2023,"ye":2025,"body_type":"sedan","dimensions":{"length_mm":4646,"width_mm":1816,"height_mm":1445,"wheelbase_mm":3023,"ground_clearance_mm":140,"trunk_volume_l":405,"trunk_volume_max_l":405,"curb_weight_kg":1377,"gross_weight_kg":1815,"doors":4,"seats":5},"trims":[{"name":"2.0L CVT (149 HP)","engine":{"type":"petrol","displacement_cc":1997,"power_hp":149,"torque_nm":197,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"power_hp":149,"fuel_consumption_city_l100km":8.7,"fuel_consumption_highway_l100km":6.9,"fuel_consumption_combined_l100km":7.8}}]}]},{"id":"nissan_teana","name":"Teana","body_type":"sedan","powertrain":"ice","generations":[{"id":"nissan_teana__teana_2003_2009_2003","name":"Teana 2003-2009","ys":2003,"ye":2009,"body_type":"sedan","dimensions":{"length_mm":4845,"width_mm":1765,"height_mm":1475,"ground_clearance_mm":140,"trunk_volume_l":476,"fuel_tank_l":70,"doors":4,"seats":5,"trunk_volume_max_l":476,"curb_weight_kg":1589,"gross_weight_kg":2040},"trims":[{"name":"2.0L CVT (145 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1998,"cylinders":4,"power_hp":145,"power_kw":107,"torque_nm":195,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"acceleration_0_100_s":11.7}},{"name":"2.3L 4AT (173 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":2349,"cylinders":6,"cylinder_layout":"V","power_hp":173,"power_kw":127,"torque_nm":225,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":4},"drivetrain":"fwd","performance":{"power_hp":173,"power_kw":127}},{"name":"2.5L 4AT (160 HP) AWD","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":2488,"power_hp":160,"power_kw":118,"torque_nm":240,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":4},"drivetrain":"awd","performance":{"power_hp":160,"power_kw":118}},{"name":"3.5L CVT (231 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":3498,"cylinders":6,"cylinder_layout":"V","power_hp":231,"power_kw":170,"torque_nm":334,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"acceleration_0_100_s":6.3}},{"name":"2.0L CVT (136 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1997,"cylinders":4,"power_hp":136,"power_kw":100,"torque_nm":190,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"power_hp":136,"power_kw":100}},{"name":"2.5L CVT (182 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":2496,"cylinders":6,"cylinder_layout":"V","power_hp":182,"power_kw":134,"torque_nm":228,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"power_hp":182,"power_kw":134}},{"name":"3.5L CVT (252 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":3498,"cylinders":6,"cylinder_layout":"V","power_hp":252,"power_kw":185,"torque_nm":325,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"power_hp":252,"power_kw":185}}]}]},{"id":"nissan_terrano","name":"Terrano","body_type":"suv","powertrain":"ice","generations":[{"id":"nissan_terrano_ii_5_doors__terrano_ii_5_doors_1996_2000_1996","name":"Terrano I 1996-2000","ys":1996,"ye":2000,"body_type":"suv","dimensions":{"length_mm":4729,"width_mm":1760,"height_mm":1808,"wheelbase_mm":2649,"fuel_tank_l":79,"curb_weight_kg":1800},"trims":[{"name":"2.4L 5MT (124 HP) AWD","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":2389,"power_hp":124,"power_kw":91,"torque_nm":197,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"awd","performance":{"top_speed_kmh":159,"acceleration_0_100_s":14,"fuel_consumption_combined_l100km":11,"fuel_consumption_city_l100km":13.3,"fuel_consumption_highway_l100km":8.7}},{"name":"2.7L 5MT (101 HP) AWD","engine":{"type":"diesel","aspiration":"indirect injection","displacement_cc":2664,"cylinders":6,"power_hp":101,"power_kw":74,"torque_nm":221,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":5},"drivetrain":"awd","performance":{"top_speed_kmh":145,"acceleration_0_100_s":19.9}}]},{"id":"nissan_terrano_ii_5_doors__terrano_ii_5_doors_2002_2005_2002","name":"Terrano II 2002-2005","ys":2002,"ye":2005,"body_type":"suv","dimensions":{"length_mm":4729,"width_mm":1760,"height_mm":1808,"wheelbase_mm":2649,"fuel_tank_l":79,"curb_weight_kg":1800},"trims":[{"name":"2.7L 5MT (125 HP) AWD","engine":{"type":"diesel","aspiration":"direct injection","displacement_cc":2664,"cylinders":6,"power_hp":125,"power_kw":92,"torque_nm":278,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":5},"drivetrain":"awd","performance":{"top_speed_kmh":154,"acceleration_0_100_s":16.7,"fuel_consumption_combined_l100km":10.3,"fuel_consumption_city_l100km":11.9,"fuel_consumption_highway_l100km":8.7}},{"name":"3.0L 5MT (154 HP) AWD","engine":{"type":"diesel","aspiration":"direct injection","displacement_cc":2953,"cylinders":6,"power_hp":154,"power_kw":113,"torque_nm":304,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":5},"drivetrain":"awd","performance":{"top_speed_kmh":171,"acceleration_0_100_s":13.5,"fuel_consumption_combined_l100km":9.7,"fuel_consumption_city_l100km":11.8,"fuel_consumption_highway_l100km":7.6}}]},{"id":"nissan_terrano__terrano_india_suv_2013_2013","name":"Terrano III 2013-2022","ys":2013,"ye":2022,"body_type":"suv","dimensions":{"length_mm":4331,"width_mm":1822,"height_mm":1671,"wheelbase_mm":2555,"ground_clearance_mm":200,"fuel_tank_l":50,"gross_weight_kg":1787,"doors":5,"seats":5,"wheelbase_estimated":true,"wheelbase_mm_original_error":5207,"trunk_volume_l":475,"curb_weight_kg":1320},"trims":[{"name":"1.6L 5MT (103 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1598,"cylinders":4,"power_hp":103,"power_kw":76,"torque_nm":145,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"power_hp":103,"power_kw":76}},{"name":"1.5L 5MT (86 HP)","engine":{"type":"diesel","aspiration":"common rail direct injection","displacement_cc":1461,"cylinders":4,"power_hp":86,"power_kw":63,"torque_nm":201,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"power_hp":86,"power_kw":63}},{"name":"1.5L 6MT (110 HP)","engine":{"type":"diesel","aspiration":"common rail direct injection","displacement_cc":1461,"cylinders":4,"power_hp":110,"power_kw":81,"torque_nm":248,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"power_hp":110,"power_kw":81}},{"name":"1.6L 5MT (102 HP)","engine":{"code":"HR16DE","type":"petrol","aspiration":"NA","displacement_cc":1598,"cylinders":4,"power_hp":102,"power_kw":75,"torque_nm":145,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":175,"acceleration_0_100_s":13.2,"fuel_consumption_combined_l100km":7.7}},{"name":"2.0L 4AT (135 HP) AWD","engine":{"code":"MR20DD","type":"petrol","aspiration":"NA","displacement_cc":1997,"cylinders":4,"power_hp":135,"power_kw":99,"torque_nm":196,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":4},"drivetrain":"awd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":11.6,"fuel_consumption_combined_l100km":8.7}}]}]},{"id":"nissan_primera","name":"Primera","body_type":"sedan","powertrain":"ice","generations":[{"id":"nissan_primera_p11","name":"Primera I (P11) 1996-2002","ys":1996,"ye":2002,"body_type":"sedan","dimensions":{"length_mm":4430,"width_mm":1720,"height_mm":1415,"wheelbase_mm":2600,"ground_clearance_mm":150,"trunk_volume_l":420,"fuel_tank_l":60,"seats":5},"trims":[{"name":"2.0 SR20DE 150hp AT","engine":{"type":"petrol","displacement_cc":1998,"power_hp":150,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":4},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":9.5}}]},{"id":"nissan_primera_p12","name":"Primera II (P12) 2002-2008","ys":2002,"ye":2008,"body_type":"sedan","dimensions":{"length_mm":4565,"width_mm":1760,"height_mm":1480,"wheelbase_mm":2680,"ground_clearance_mm":155,"trunk_volume_l":460,"fuel_tank_l":60,"seats":5},"trims":[{"name":"2.0 QR20DE 140hp CVT","engine":{"type":"petrol","displacement_cc":1998,"power_hp":140,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":8.6}}]}]},{"id":"nissan_march","name":"March","body_type":"hatchback","powertrain":"ice","generations":[{"id":"nissan_march_k12","name":"March (K12) 2002-2010","ys":2002,"ye":2010,"body_type":"hatchback","dimensions":{"length_mm":3825,"width_mm":1660,"height_mm":1535,"wheelbase_mm":2430,"ground_clearance_mm":150,"trunk_volume_l":251,"fuel_tank_l":41,"seats":5},"trims":[{"name":"1.2 CR12DE 90hp CVT","engine":{"type":"petrol","displacement_cc":1240,"power_hp":90,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":5.5}}]}]},{"id":"nissan_cube","name":"Cube","body_type":"hatchback","powertrain":"ice","generations":[{"id":"nissan_cube_z12","name":"Cube (Z12) 2008-2019","ys":2008,"ye":2019,"body_type":"hatchback","dimensions":{"length_mm":3890,"width_mm":1695,"height_mm":1650,"wheelbase_mm":2530,"ground_clearance_mm":155,"trunk_volume_l":260,"fuel_tank_l":41,"seats":5},"trims":[{"name":"1.5 HR15DE 109hp CVT","engine":{"type":"petrol","displacement_cc":1498,"power_hp":109,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":6}}]}]},{"id":"nissan_elgrand","name":"Elgrand","body_type":"minivan","powertrain":"ice","generations":[{"id":"nissan_elgrand_e51","name":"Elgrand I (E51) 2002-2010","ys":2002,"ye":2010,"body_type":"minivan","dimensions":{"length_mm":4795,"width_mm":1800,"height_mm":1910,"wheelbase_mm":2900,"ground_clearance_mm":175,"fuel_tank_l":73,"seats":8},"trims":[{"name":"3.5 VQ35DE 240hp AT","engine":{"type":"petrol","displacement_cc":3498,"power_hp":240,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":5},"drivetrain":"rwd","performance":{"fuel_consumption_combined_l100km":12}}]},{"id":"nissan_elgrand_e52","name":"Elgrand II (E52) 2010-2020","ys":2010,"ye":2020,"body_type":"minivan","dimensions":{"length_mm":4915,"width_mm":1850,"height_mm":1815,"wheelbase_mm":3000,"ground_clearance_mm":170,"fuel_tank_l":73,"seats":8},"trims":[{"name":"2.5 QR25DE 170hp CVT","engine":{"type":"petrol","displacement_cc":2488,"power_hp":170,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":10}}]}]},{"id":"nissan_qashqai","name":"Qashqai","body_type":"suv","powertrain":"ice","generations":[{"id":"nissan_qashqai__stub","name":"Qashqai","body_type":"suv","dimensions":{},"trims":[]}]},{"id":"nissan_x_trail","name":"X-Trail","body_type":"suv","powertrain":"ice","generations":[{"id":"nissan_x_trail__stub","name":"X-Trail","body_type":"suv","dimensions":{},"trims":[]}]}]}
+{
+  "id": "nissan",
+  "name": "Nissan",
+  "name_ru": "Ниссан",
+  "country": "JP",
+  "models": [
+    {
+      "id": "nissan_almera",
+      "name": "Almera",
+      "body_type": "sedan",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "nissan_almera__almera_g11_sedan_2013_2012",
+          "name": "Almera (G11) 2012-2018",
+          "ys": 2012,
+          "ye": 2018,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 4656,
+            "width_mm": 1695,
+            "height_mm": 1522,
+            "wheelbase_mm": 2747,
+            "ground_clearance_mm": 135,
+            "trunk_volume_l": 500,
+            "trunk_volume_max_l": 500,
+            "fuel_tank_l": 50,
+            "curb_weight_kg": 1224,
+            "gross_weight_kg": 1650,
+            "doors": 4,
+            "seats": 5,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 4064
+          },
+          "trims": [
+            {
+              "name": "1.6L 5MT (102 HP)",
+              "engine": {
+                "code": "K4M",
+                "type": "petrol",
+                "aspiration": "NA",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 102,
+                "power_kw": 75,
+                "torque_nm": 145,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 185,
+                "acceleration_0_100_s": 10.9,
+                "fuel_consumption_combined_l100km": 8.3,
+                "fuel_consumption_city_l100km": 10.3,
+                "fuel_consumption_highway_l100km": 6.3
+              }
+            },
+            {
+              "name": "1.6L 4AT (102 HP)",
+              "engine": {
+                "code": "K4M",
+                "type": "petrol",
+                "aspiration": "NA",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 102,
+                "power_kw": 75,
+                "torque_nm": 145,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 4
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 12.5,
+                "fuel_consumption_combined_l100km": 8.3,
+                "fuel_consumption_city_l100km": 10.3,
+                "fuel_consumption_highway_l100km": 6.3
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nissan_murano",
+      "name": "Murano",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "nissan_murano__murano_2015_2018_2015",
+          "name": "Murano I 2015-2018",
+          "ys": 2015,
+          "ye": 2018,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4900,
+            "width_mm": 1981,
+            "height_mm": 1725,
+            "wheelbase_mm": 2891,
+            "ground_clearance_mm": 200,
+            "trunk_volume_l": 932,
+            "fuel_tank_l": 71,
+            "doors": 5,
+            "seats": 5,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 5359
+          },
+          "trims": [
+            {
+              "name": "3.5L CVT (248 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 3498,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 248,
+                "power_kw": 182,
+                "torque_nm": 333,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 8.4,
+                "fuel_consumption_combined_l100km": 13.3,
+                "fuel_consumption_city_l100km": 17.2,
+                "fuel_consumption_highway_l100km": 9.5
+              }
+            },
+            {
+              "name": "3.5L CVT (256 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 3498,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 256,
+                "power_kw": 188,
+                "torque_nm": 334,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 209,
+                "acceleration_0_100_s": 8,
+                "fuel_consumption_combined_l100km": 11.6,
+                "fuel_consumption_city_l100km": 14.8,
+                "fuel_consumption_highway_l100km": 8.3
+              }
+            },
+            {
+              "name": "2.5L 6AT (190 HP) AWD",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "common rail direct injection",
+                "displacement_cc": 2488,
+                "power_hp": 190,
+                "power_kw": 140,
+                "torque_nm": 450,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 196,
+                "acceleration_0_100_s": 10.5,
+                "fuel_consumption_combined_l100km": 8.4,
+                "fuel_consumption_city_l100km": 10.1,
+                "fuel_consumption_highway_l100km": 6.8
+              }
+            },
+            {
+              "name": "2.5L CVT AWD (250 HP)",
+              "engine": {
+                "type": "hybrid_petrol",
+                "aspiration": "direct injection",
+                "displacement_cc": 2488,
+                "torque_nm": 329,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 209,
+                "acceleration_0_100_s": 8.3,
+                "fuel_consumption_combined_l100km": 8.4,
+                "fuel_consumption_city_l100km": 9,
+                "fuel_consumption_highway_l100km": 7.8
+              }
+            }
+          ]
+        },
+        {
+          "id": "nissan_murano__murano_iii_z52_facelift_2019_suv_2019",
+          "name": "Murano II (Z52) 2019-2024",
+          "ys": 2019,
+          "ye": 2024,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4897,
+            "width_mm": 1915,
+            "height_mm": 1722,
+            "wheelbase_mm": 2889,
+            "ground_clearance_mm": 195,
+            "trunk_volume_l": 881,
+            "trunk_volume_max_l": 881,
+            "fuel_tank_l": 82,
+            "curb_weight_kg": 1800,
+            "gross_weight_kg": 2395,
+            "doors": 5,
+            "seats": 5,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 4445
+          },
+          "trims": [
+            {
+              "name": "3.5L CVT (260 HP) AWD",
+              "engine": {
+                "code": "VQ35DE",
+                "type": "petrol",
+                "aspiration": "NA",
+                "displacement_cc": 3498,
+                "cylinders": 6,
+                "power_hp": 260,
+                "power_kw": 191,
+                "torque_nm": 325,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 8.4,
+                "fuel_consumption_combined_l100km": 10.1,
+                "fuel_consumption_city_l100km": 11.8,
+                "fuel_consumption_highway_l100km": 8.4
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nissan_pathfinder",
+      "name": "Pathfinder",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "nissan_pathfinder__pathfinder_2016_2021_2016",
+          "name": "Pathfinder I 2016-2025",
+          "ys": 2016,
+          "ye": 2025,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 5009,
+            "width_mm": 1961,
+            "height_mm": 1802,
+            "ground_clearance_mm": 200,
+            "trunk_volume_l": 205,
+            "fuel_tank_l": 79,
+            "doors": 5,
+            "seats": 5,
+            "curb_weight_kg": 2107
+          },
+          "trims": [
+            {
+              "name": "3.3L 4AT (150 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 3274,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 150,
+                "power_kw": 110,
+                "torque_nm": 266,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 4
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 166,
+                "acceleration_0_100_s": 11.4,
+                "fuel_consumption_combined_l100km": 14.8,
+                "fuel_consumption_city_l100km": 18.2,
+                "fuel_consumption_highway_l100km": 11.5
+              }
+            },
+            {
+              "name": "4.0L 5AT (269 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 3954,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 269,
+                "power_kw": 198,
+                "torque_nm": 385,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 5
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 190,
+                "acceleration_0_100_s": 8.9,
+                "fuel_consumption_combined_l100km": 14.6,
+                "fuel_consumption_city_l100km": 18.7,
+                "fuel_consumption_highway_l100km": 10.5
+              }
+            },
+            {
+              "name": "2.5L 6MT (171 HP) AWD",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "common rail",
+                "displacement_cc": 2488,
+                "power_hp": 171,
+                "power_kw": 126,
+                "torque_nm": 403,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 175,
+                "acceleration_0_100_s": 11.9,
+                "fuel_consumption_combined_l100km": 10.2,
+                "fuel_consumption_city_l100km": 12,
+                "fuel_consumption_highway_l100km": 8.5
+              }
+            },
+            {
+              "name": "5.6L 5AT (314 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 5552,
+                "cylinders": 8,
+                "cylinder_layout": "V",
+                "power_hp": 314,
+                "power_kw": 231,
+                "torque_nm": 526,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 5
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 15.6,
+                "fuel_consumption_city_l100km": 18.1,
+                "fuel_consumption_highway_l100km": 13.1,
+                "power_hp": 314,
+                "power_kw": 231
+              }
+            },
+            {
+              "name": "2.5L 5AT (171 HP) AWD",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "turbocharged",
+                "displacement_cc": 2488,
+                "power_hp": 171,
+                "power_kw": 126,
+                "torque_nm": 403,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 5
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 175,
+                "acceleration_0_100_s": 11.8,
+                "fuel_consumption_combined_l100km": 11,
+                "fuel_consumption_city_l100km": 12.9,
+                "fuel_consumption_highway_l100km": 9.1
+              }
+            },
+            {
+              "name": "2.5L 7AT (231 HP) AWD",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "turbocharged",
+                "displacement_cc": 2488,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 231,
+                "power_kw": 170,
+                "torque_nm": 550,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 7
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 8.9,
+                "fuel_consumption_combined_l100km": 10.1,
+                "fuel_consumption_city_l100km": 12.4,
+                "fuel_consumption_highway_l100km": 7.7
+              }
+            },
+            {
+              "name": "3.5L CVT (6 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "direct injection",
+                "displacement_cc": 3498,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 6,
+                "power_kw": 193,
+                "torque_nm": 325,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 10.9,
+                "fuel_consumption_city_l100km": 12.4,
+                "fuel_consumption_highway_l100km": 9.4,
+                "power_hp": 6,
+                "power_kw": 193
+              }
+            },
+            {
+              "name": "3.5L 9AT (288 HP) 4WD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 3498,
+                "cylinders": 6,
+                "power_hp": 288,
+                "power_kw": 212,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 9
+              },
+              "drivetrain": "4wd",
+              "performance": {
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        },
+        {
+          "id": "nissan__pathfinder_r53__pathfinder_r53_2021_present_2021",
+          "name": "Pathfinder II (R53) 2021-2025",
+          "ys": 2021,
+          "ye": 2025,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 5020,
+            "width_mm": 1979,
+            "height_mm": 1801,
+            "wheelbase_mm": 2901,
+            "ground_clearance_mm": 179,
+            "trunk_volume_l": 470,
+            "fuel_tank_l": 72,
+            "curb_weight_kg": 2015,
+            "doors": 5,
+            "seats": 8,
+            "trunk_volume_max_l": 470,
+            "gross_weight_kg": 2750,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 4521
+          },
+          "trims": [
+            {
+              "name": "3.5L 9AT (284 HP)",
+              "engine": {
+                "code": "VQ35DD",
+                "type": "petrol",
+                "aspiration": "naturally_aspirated",
+                "displacement_cc": 3498,
+                "cylinders": 6,
+                "power_hp": 284,
+                "power_kw": 209,
+                "torque_nm": 351,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 9
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 7.1,
+                "fuel_consumption_combined_l100km": 10.2
+              }
+            },
+            {
+              "name": "3.5L 9AT (284 HP) AWD",
+              "engine": {
+                "code": "VQ35DD",
+                "type": "petrol",
+                "aspiration": "naturally_aspirated",
+                "displacement_cc": 3498,
+                "cylinders": 6,
+                "power_hp": 284,
+                "power_kw": 209,
+                "torque_nm": 351,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 9
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 193,
+                "acceleration_0_100_s": 6.6,
+                "fuel_consumption_combined_l100km": 10.7
+              }
+            },
+            {
+              "name": "9AT (284 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "direct injection",
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 284,
+                "power_kw": 208,
+                "torque_nm": 351,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 9
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 284,
+                "power_kw": 208
+              }
+            },
+            {
+              "name": "3.5L 9AT (288 HP) 4WD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 3498,
+                "cylinders": 6,
+                "power_hp": 288,
+                "power_kw": 212,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 9
+              },
+              "drivetrain": "4wd",
+              "performance": {
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nissan_navara",
+      "name": "Navara",
+      "body_type": "pickup",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "nissan_navara_np300_double_cab__navara_np300_double_cab_2015_2015",
+          "name": "Navara I (NP300) 2015-н.в.",
+          "ys": 2015,
+          "ye": null,
+          "body_type": "pickup",
+          "dimensions": {
+            "ground_clearance_mm": 210,
+            "fuel_tank_l": 79,
+            "doors": 4,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "2.3L 6MT (160 HP) AWD",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "turbocharged",
+                "displacement_cc": 2298,
+                "power_hp": 160,
+                "power_kw": 117,
+                "torque_nm": 403,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 172,
+                "acceleration_0_100_s": 12
+              }
+            },
+            {
+              "name": "2.3L 6MT (190 HP) AWD",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "turbocharged",
+                "displacement_cc": 2298,
+                "power_hp": 190,
+                "power_kw": 139,
+                "torque_nm": 450,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 183,
+                "acceleration_0_100_s": 10.8
+              }
+            },
+            {
+              "name": "2.3L 7AT (190 HP) AWD",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "turbocharged",
+                "displacement_cc": 2298,
+                "power_hp": 190,
+                "power_kw": 139,
+                "torque_nm": 450,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 7
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 10.8
+              }
+            },
+            {
+              "name": "2.3L 6MT (160 HP)",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "turbocharged",
+                "displacement_cc": 2298,
+                "power_hp": 160,
+                "power_kw": 117,
+                "torque_nm": 403,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "top_speed_kmh": 172,
+                "acceleration_0_100_s": 11.6
+              }
+            }
+          ]
+        },
+        {
+          "id": "nissan__navara__d23_facelift_2021_2021",
+          "name": "Navara II (D23) 2021-н.в.",
+          "ys": 2021,
+          "ye": null,
+          "body_type": "pickup",
+          "dimensions": {
+            "ground_clearance_mm": 210,
+            "fuel_tank_l": 79,
+            "doors": 4,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "2.3L 6MT (163 HP) AWD",
+              "engine": {
+                "type": "diesel",
+                "displacement_cc": 2298,
+                "power_hp": 163,
+                "torque_nm": 403,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 163
+              }
+            },
+            {
+              "name": "2.3L 7AT (190 HP) AWD",
+              "engine": {
+                "type": "diesel",
+                "displacement_cc": 2298,
+                "power_hp": 190,
+                "torque_nm": 450,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 7
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 190
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nissan_sentra",
+      "name": "Sentra",
+      "body_type": "sedan",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "nissan_sentra_se_r__sentra_se_r_2006_2006",
+          "name": "Sentra I 2006-2006",
+          "ys": 2006,
+          "ye": 2006,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 4646,
+            "width_mm": 1816,
+            "height_mm": 1445,
+            "wheelbase_mm": 2708,
+            "fuel_tank_l": 50,
+            "curb_weight_kg": 1377
+          },
+          "trims": [
+            {
+              "name": "2.5L 4AT (167 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 2489,
+                "power_hp": 167,
+                "power_kw": 123,
+                "torque_nm": 237,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 4
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 8.8,
+                "fuel_consumption_city_l100km": 9.8,
+                "fuel_consumption_highway_l100km": 7.8,
+                "power_hp": 167,
+                "power_kw": 123
+              }
+            },
+            {
+              "name": "2.5L 6MT (177 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 2489,
+                "power_hp": 177,
+                "power_kw": 130,
+                "torque_nm": 244,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 8.8,
+                "fuel_consumption_city_l100km": 9.8,
+                "fuel_consumption_highway_l100km": 7.8,
+                "power_hp": 177,
+                "power_kw": 130
+              }
+            },
+            {
+              "name": "2.5L CVT (179 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 2488,
+                "power_hp": 179,
+                "power_kw": 132,
+                "torque_nm": 233,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 8.7,
+                "fuel_consumption_city_l100km": 9.8,
+                "fuel_consumption_highway_l100km": 7.6,
+                "power_hp": 179,
+                "power_kw": 132
+              }
+            },
+            {
+              "name": "2.5L 6MT (203 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 2488,
+                "power_hp": 203,
+                "power_kw": 149,
+                "torque_nm": 244,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 9.8,
+                "fuel_consumption_city_l100km": 11.2,
+                "fuel_consumption_highway_l100km": 8.4,
+                "power_hp": 203,
+                "power_kw": 149
+              }
+            }
+          ]
+        },
+        {
+          "id": "nissan_sentra__sentra_2015_2019_2015",
+          "name": "Sentra II 2015-2019",
+          "ys": 2015,
+          "ye": 2019,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 4646,
+            "width_mm": 1816,
+            "height_mm": 1445,
+            "wheelbase_mm": 2708,
+            "fuel_tank_l": 50,
+            "curb_weight_kg": 1377
+          },
+          "trims": [
+            {
+              "name": "2.0L 6MT (140 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1997,
+                "cylinders": 4,
+                "power_hp": 140,
+                "power_kw": 103,
+                "torque_nm": 199,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 8.7,
+                "fuel_consumption_city_l100km": 9.8,
+                "fuel_consumption_highway_l100km": 7.6,
+                "power_hp": 140,
+                "power_kw": 103
+              }
+            },
+            {
+              "name": "2.0L CVT (140 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1997,
+                "cylinders": 4,
+                "power_hp": 140,
+                "power_kw": 103,
+                "torque_nm": 199,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 7.8,
+                "fuel_consumption_city_l100km": 8.7,
+                "fuel_consumption_highway_l100km": 6.9,
+                "power_hp": 140,
+                "power_kw": 103
+              }
+            },
+            {
+              "name": "2.5L CVT (177 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "sequential multi-point fuel injection",
+                "displacement_cc": 2488,
+                "power_hp": 177,
+                "power_kw": 130,
+                "torque_nm": 233,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 8.8,
+                "fuel_consumption_city_l100km": 9.8,
+                "fuel_consumption_highway_l100km": 7.8,
+                "power_hp": 177,
+                "power_kw": 130
+              }
+            },
+            {
+              "name": "2.5L 6MT (200 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "sequential multi-point fuel injection",
+                "displacement_cc": 2488,
+                "power_hp": 200,
+                "power_kw": 147,
+                "torque_nm": 244,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 9.8,
+                "fuel_consumption_city_l100km": 11.2,
+                "fuel_consumption_highway_l100km": 8.4,
+                "power_hp": 200,
+                "power_kw": 147
+              }
+            },
+            {
+              "name": "1.8L 6MT (130 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1798,
+                "cylinders": 4,
+                "power_hp": 130,
+                "power_kw": 96,
+                "torque_nm": 174,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 190,
+                "acceleration_0_100_s": 10.3,
+                "fuel_consumption_combined_l100km": 7.8,
+                "fuel_consumption_city_l100km": 9,
+                "fuel_consumption_highway_l100km": 6.5
+              }
+            },
+            {
+              "name": "1.8L CVT (130 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1798,
+                "cylinders": 4,
+                "power_hp": 130,
+                "power_kw": 96,
+                "torque_nm": 174,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 190,
+                "acceleration_0_100_s": 11.2,
+                "fuel_consumption_combined_l100km": 6.9,
+                "fuel_consumption_city_l100km": 7.8,
+                "fuel_consumption_highway_l100km": 6
+              }
+            },
+            {
+              "name": "1.6L 6MT (191 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1618,
+                "cylinders": 4,
+                "power_hp": 191,
+                "power_kw": 140,
+                "torque_nm": 240,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 8.2,
+                "fuel_consumption_city_l100km": 9,
+                "fuel_consumption_highway_l100km": 7.4,
+                "power_hp": 191,
+                "power_kw": 140
+              }
+            },
+            {
+              "name": "1.6L CVT (191 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1618,
+                "cylinders": 4,
+                "power_hp": 191,
+                "power_kw": 140,
+                "torque_nm": 240,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 7.9,
+                "fuel_consumption_city_l100km": 8.7,
+                "fuel_consumption_highway_l100km": 7.1,
+                "power_hp": 191,
+                "power_kw": 140
+              }
+            }
+          ]
+        },
+        {
+          "id": "nissan_sentra__sentra_viii_b18_sedan_2020_2019",
+          "name": "Sentra III (B18) 2019-2023",
+          "ys": 2019,
+          "ye": 2023,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 4641,
+            "width_mm": 1816,
+            "height_mm": 1448,
+            "wheelbase_mm": 2738,
+            "ground_clearance_mm": 140,
+            "trunk_volume_l": 405,
+            "trunk_volume_max_l": 405,
+            "fuel_tank_l": 50,
+            "curb_weight_kg": 1399,
+            "gross_weight_kg": 1815,
+            "doors": 4,
+            "seats": 5,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 4191
+          },
+          "trims": [
+            {
+              "name": "1.8L 5MT (129 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1769,
+                "cylinders": 4,
+                "power_hp": 129,
+                "power_kw": 94,
+                "torque_nm": 175,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 175,
+                "fuel_consumption_combined_l100km": 7.6,
+                "fuel_consumption_city_l100km": 8.4,
+                "fuel_consumption_highway_l100km": 6.7
+              }
+            },
+            {
+              "name": "2.5L 5MT (165 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 2488,
+                "power_hp": 165,
+                "power_kw": 121,
+                "torque_nm": 231,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 9.3,
+                "fuel_consumption_city_l100km": 10.2,
+                "fuel_consumption_highway_l100km": 8.4,
+                "power_hp": 165,
+                "power_kw": 121
+              }
+            }
+          ]
+        },
+        {
+          "id": "nissan_sentra__sentra_viii_b18_facelift_2023_sedan_2024_2023",
+          "name": "Sentra IV (B18) 2023-2025",
+          "ys": 2023,
+          "ye": 2025,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 4646,
+            "width_mm": 1816,
+            "height_mm": 1445,
+            "wheelbase_mm": 3023,
+            "ground_clearance_mm": 140,
+            "trunk_volume_l": 405,
+            "trunk_volume_max_l": 405,
+            "curb_weight_kg": 1377,
+            "gross_weight_kg": 1815,
+            "doors": 4,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "2.0L CVT (149 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1997,
+                "power_hp": 149,
+                "torque_nm": 197,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 149,
+                "fuel_consumption_city_l100km": 8.7,
+                "fuel_consumption_highway_l100km": 6.9,
+                "fuel_consumption_combined_l100km": 7.8
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nissan_teana",
+      "name": "Teana",
+      "body_type": "sedan",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "nissan_teana__teana_2003_2009_2003",
+          "name": "Teana 2003-2009",
+          "ys": 2003,
+          "ye": 2009,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 4845,
+            "width_mm": 1765,
+            "height_mm": 1475,
+            "ground_clearance_mm": 140,
+            "trunk_volume_l": 476,
+            "fuel_tank_l": 70,
+            "doors": 4,
+            "seats": 5,
+            "trunk_volume_max_l": 476,
+            "curb_weight_kg": 1589,
+            "gross_weight_kg": 2040
+          },
+          "trims": [
+            {
+              "name": "2.0L CVT (145 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1998,
+                "cylinders": 4,
+                "power_hp": 145,
+                "power_kw": 107,
+                "torque_nm": 195,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "acceleration_0_100_s": 11.7
+              }
+            },
+            {
+              "name": "2.3L 4AT (173 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 2349,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 173,
+                "power_kw": 127,
+                "torque_nm": 225,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 4
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 173,
+                "power_kw": 127
+              }
+            },
+            {
+              "name": "2.5L 4AT (160 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 2488,
+                "power_hp": 160,
+                "power_kw": 118,
+                "torque_nm": 240,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 4
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 160,
+                "power_kw": 118
+              }
+            },
+            {
+              "name": "3.5L CVT (231 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 3498,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 231,
+                "power_kw": 170,
+                "torque_nm": 334,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "acceleration_0_100_s": 6.3
+              }
+            },
+            {
+              "name": "2.0L CVT (136 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1997,
+                "cylinders": 4,
+                "power_hp": 136,
+                "power_kw": 100,
+                "torque_nm": 190,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 136,
+                "power_kw": 100
+              }
+            },
+            {
+              "name": "2.5L CVT (182 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 2496,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 182,
+                "power_kw": 134,
+                "torque_nm": 228,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 182,
+                "power_kw": 134
+              }
+            },
+            {
+              "name": "3.5L CVT (252 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 3498,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 252,
+                "power_kw": 185,
+                "torque_nm": 325,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 252,
+                "power_kw": 185
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nissan_terrano",
+      "name": "Terrano",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "nissan_terrano_ii_5_doors__terrano_ii_5_doors_1996_2000_1996",
+          "name": "Terrano I 1996-2000",
+          "ys": 1996,
+          "ye": 2000,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4729,
+            "width_mm": 1760,
+            "height_mm": 1808,
+            "wheelbase_mm": 2649,
+            "fuel_tank_l": 79,
+            "curb_weight_kg": 1800
+          },
+          "trims": [
+            {
+              "name": "2.4L 5MT (124 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 2389,
+                "power_hp": 124,
+                "power_kw": 91,
+                "torque_nm": 197,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 159,
+                "acceleration_0_100_s": 14,
+                "fuel_consumption_combined_l100km": 11,
+                "fuel_consumption_city_l100km": 13.3,
+                "fuel_consumption_highway_l100km": 8.7
+              }
+            },
+            {
+              "name": "2.7L 5MT (101 HP) AWD",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "indirect injection",
+                "displacement_cc": 2664,
+                "cylinders": 6,
+                "power_hp": 101,
+                "power_kw": 74,
+                "torque_nm": 221,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 145,
+                "acceleration_0_100_s": 19.9
+              }
+            }
+          ]
+        },
+        {
+          "id": "nissan_terrano_ii_5_doors__terrano_ii_5_doors_2002_2005_2002",
+          "name": "Terrano II 2002-2005",
+          "ys": 2002,
+          "ye": 2005,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4729,
+            "width_mm": 1760,
+            "height_mm": 1808,
+            "wheelbase_mm": 2649,
+            "fuel_tank_l": 79,
+            "curb_weight_kg": 1800
+          },
+          "trims": [
+            {
+              "name": "2.7L 5MT (125 HP) AWD",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "direct injection",
+                "displacement_cc": 2664,
+                "cylinders": 6,
+                "power_hp": 125,
+                "power_kw": 92,
+                "torque_nm": 278,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 154,
+                "acceleration_0_100_s": 16.7,
+                "fuel_consumption_combined_l100km": 10.3,
+                "fuel_consumption_city_l100km": 11.9,
+                "fuel_consumption_highway_l100km": 8.7
+              }
+            },
+            {
+              "name": "3.0L 5MT (154 HP) AWD",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "direct injection",
+                "displacement_cc": 2953,
+                "cylinders": 6,
+                "power_hp": 154,
+                "power_kw": 113,
+                "torque_nm": 304,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 171,
+                "acceleration_0_100_s": 13.5,
+                "fuel_consumption_combined_l100km": 9.7,
+                "fuel_consumption_city_l100km": 11.8,
+                "fuel_consumption_highway_l100km": 7.6
+              }
+            }
+          ]
+        },
+        {
+          "id": "nissan_terrano__terrano_india_suv_2013_2013",
+          "name": "Terrano III 2013-2022",
+          "ys": 2013,
+          "ye": 2022,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4331,
+            "width_mm": 1822,
+            "height_mm": 1671,
+            "wheelbase_mm": 2555,
+            "ground_clearance_mm": 200,
+            "fuel_tank_l": 50,
+            "gross_weight_kg": 1787,
+            "doors": 5,
+            "seats": 5,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 5207,
+            "trunk_volume_l": 475,
+            "curb_weight_kg": 1320
+          },
+          "trims": [
+            {
+              "name": "1.6L 5MT (103 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 103,
+                "power_kw": 76,
+                "torque_nm": 145,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 103,
+                "power_kw": 76
+              }
+            },
+            {
+              "name": "1.5L 5MT (86 HP)",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "common rail direct injection",
+                "displacement_cc": 1461,
+                "cylinders": 4,
+                "power_hp": 86,
+                "power_kw": 63,
+                "torque_nm": 201,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 86,
+                "power_kw": 63
+              }
+            },
+            {
+              "name": "1.5L 6MT (110 HP)",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "common rail direct injection",
+                "displacement_cc": 1461,
+                "cylinders": 4,
+                "power_hp": 110,
+                "power_kw": 81,
+                "torque_nm": 248,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 110,
+                "power_kw": 81
+              }
+            },
+            {
+              "name": "1.6L 5MT (102 HP)",
+              "engine": {
+                "code": "HR16DE",
+                "type": "petrol",
+                "aspiration": "NA",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 102,
+                "power_kw": 75,
+                "torque_nm": 145,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 175,
+                "acceleration_0_100_s": 13.2,
+                "fuel_consumption_combined_l100km": 7.7
+              }
+            },
+            {
+              "name": "2.0L 4AT (135 HP) AWD",
+              "engine": {
+                "code": "MR20DD",
+                "type": "petrol",
+                "aspiration": "NA",
+                "displacement_cc": 1997,
+                "cylinders": 4,
+                "power_hp": 135,
+                "power_kw": 99,
+                "torque_nm": 196,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 4
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 11.6,
+                "fuel_consumption_combined_l100km": 8.7
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nissan_primera",
+      "name": "Primera",
+      "body_type": "sedan",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "nissan_primera_p11",
+          "name": "Primera I (P11) 1996-2002",
+          "ys": 1996,
+          "ye": 2002,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 4430,
+            "width_mm": 1720,
+            "height_mm": 1415,
+            "wheelbase_mm": 2600,
+            "ground_clearance_mm": 150,
+            "trunk_volume_l": 420,
+            "fuel_tank_l": 60,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "2.0 SR20DE 150hp AT",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1998,
+                "power_hp": 150,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 4
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 9.5
+              }
+            }
+          ]
+        },
+        {
+          "id": "nissan_primera_p12",
+          "name": "Primera II (P12) 2002-2008",
+          "ys": 2002,
+          "ye": 2008,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 4565,
+            "width_mm": 1760,
+            "height_mm": 1480,
+            "wheelbase_mm": 2680,
+            "ground_clearance_mm": 155,
+            "trunk_volume_l": 460,
+            "fuel_tank_l": 60,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "2.0 QR20DE 140hp CVT",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1998,
+                "power_hp": 140,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 8.6
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nissan_march",
+      "name": "March",
+      "body_type": "hatchback",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "nissan_march_k12",
+          "name": "March (K12) 2002-2010",
+          "ys": 2002,
+          "ye": 2010,
+          "body_type": "hatchback",
+          "dimensions": {
+            "length_mm": 3825,
+            "width_mm": 1660,
+            "height_mm": 1535,
+            "wheelbase_mm": 2430,
+            "ground_clearance_mm": 150,
+            "trunk_volume_l": 251,
+            "fuel_tank_l": 41,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "1.2 CR12DE 90hp CVT",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1240,
+                "power_hp": 90,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 5.5
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nissan_cube",
+      "name": "Cube",
+      "body_type": "hatchback",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "nissan_cube_z12",
+          "name": "Cube (Z12) 2008-2019",
+          "ys": 2008,
+          "ye": 2019,
+          "body_type": "hatchback",
+          "dimensions": {
+            "length_mm": 3890,
+            "width_mm": 1695,
+            "height_mm": 1650,
+            "wheelbase_mm": 2530,
+            "ground_clearance_mm": 155,
+            "trunk_volume_l": 260,
+            "fuel_tank_l": 41,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "1.5 HR15DE 109hp CVT",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1498,
+                "power_hp": 109,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 6
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nissan_elgrand",
+      "name": "Elgrand",
+      "body_type": "minivan",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "nissan_elgrand_e51",
+          "name": "Elgrand I (E51) 2002-2010",
+          "ys": 2002,
+          "ye": 2010,
+          "body_type": "minivan",
+          "dimensions": {
+            "length_mm": 4795,
+            "width_mm": 1800,
+            "height_mm": 1910,
+            "wheelbase_mm": 2900,
+            "ground_clearance_mm": 175,
+            "fuel_tank_l": 73,
+            "seats": 8
+          },
+          "trims": [
+            {
+              "name": "3.5 VQ35DE 240hp AT",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 3498,
+                "power_hp": 240,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 5
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 12
+              }
+            }
+          ]
+        },
+        {
+          "id": "nissan_elgrand_e52",
+          "name": "Elgrand II (E52) 2010-2020",
+          "ys": 2010,
+          "ye": 2020,
+          "body_type": "minivan",
+          "dimensions": {
+            "length_mm": 4915,
+            "width_mm": 1850,
+            "height_mm": 1815,
+            "wheelbase_mm": 3000,
+            "ground_clearance_mm": 170,
+            "fuel_tank_l": 73,
+            "seats": 8
+          },
+          "trims": [
+            {
+              "name": "2.5 QR25DE 170hp CVT",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 2488,
+                "power_hp": 170,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 10
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nissan_qashqai",
+      "name": "Qashqai",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "nissan_qashqai__stub",
+          "name": "Qashqai",
+          "body_type": "suv",
+          "dimensions": {},
+          "trims": []
+        }
+      ]
+    },
+    {
+      "id": "nissan_x_trail",
+      "name": "X-Trail",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "nissan_x_trail__stub",
+          "name": "X-Trail",
+          "body_type": "suv",
+          "dimensions": {},
+          "trims": []
+        }
+      ]
+    },
+    {
+      "id": "nissan_ariya",
+      "name": "Ariya",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "nissan_ariya_2023",
+          "name": "Ariya 2023-н.в.",
+          "ys": 2023,
+          "ye": 2026
+        }
+      ]
+    },
+    {
+      "id": "nissan_juke",
+      "name": "Juke",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "nissan_juke_2010",
+          "name": "Juke 2010-н.в.",
+          "ys": 2010,
+          "ye": 2026
+        }
+      ]
+    },
+    {
+      "id": "nissan_kicks",
+      "name": "Kicks",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "nissan_kicks_2016",
+          "name": "Kicks 2016-н.в.",
+          "ys": 2016,
+          "ye": 2026
+        }
+      ]
+    },
+    {
+      "id": "nissan_leaf",
+      "name": "Leaf",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "nissan_leaf_2012",
+          "name": "Leaf 2012-н.в.",
+          "ys": 2012,
+          "ye": 2026
+        },
+        {
+          "id": "nissan_leaf_2014",
+          "name": "Leaf 2014-н.в.",
+          "ys": 2014,
+          "ye": 2026
+        },
+        {
+          "id": "nissan_leaf_2020",
+          "name": "Leaf 2020-н.в.",
+          "ys": 2020,
+          "ye": 2026
+        }
+      ]
+    },
+    {
+      "id": "nissan_tiida",
+      "name": "Tiida",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "nissan_tiida_2004",
+          "name": "Tiida 2004-н.в.",
+          "ys": 2004,
+          "ye": 2026
+        }
+      ]
+    }
+  ]
+}

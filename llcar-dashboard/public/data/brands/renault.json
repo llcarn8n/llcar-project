@@ -1,1 +1,2785 @@
-{"id":"renault","name":"Renault","name_ru":"Рено","country":"FR","models":[{"id":"renault_arkana","name":"ARKANA","body_type":"coupe","powertrain":"ice","generations":[{"id":"renault_arkana_2__arkana_coupe_2019_2019","name":"ARKANA I 2019-2023","ys":2019,"ye":2023,"body_type":"coupe","dimensions":{"length_mm":4568,"width_mm":1821,"height_mm":1576,"wheelbase_mm":2720,"ground_clearance_mm":205,"trunk_volume_l":409,"trunk_volume_max_l":513,"fuel_tank_l":50,"curb_weight_kg":1435,"gross_weight_kg":1961,"doors":5,"seats":5},"trims":[{"name":"1.3L CVT (150 HP)","engine":{"code":"H5Ht","type":"petrol","aspiration":"turbo","displacement_cc":1333,"cylinders":4,"power_hp":150,"power_kw":110,"torque_nm":250,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"top_speed_kmh":190,"acceleration_0_100_s":9.3,"fuel_consumption_combined_l100km":7.5,"fuel_consumption_city_l100km":9.1,"fuel_consumption_highway_l100km":6}},{"name":"1.3L CVT (150 HP) AWD","engine":{"code":"H5Ht","type":"petrol","aspiration":"turbo","displacement_cc":1333,"cylinders":4,"power_hp":150,"power_kw":110,"torque_nm":250,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"awd","performance":{"top_speed_kmh":185,"acceleration_0_100_s":10.5,"fuel_consumption_combined_l100km":7.7}}]},{"id":"renault_arkana__arkana_2023_2023","name":"ARKANA II 2023-2024","ys":2023,"ye":2024,"body_type":"coupe","dimensions":{"length_mm":4567,"width_mm":1821,"height_mm":1575,"wheelbase_mm":2720,"curb_weight_kg":1336,"ground_clearance_mm":120,"trunk_volume_l":480,"doors":2,"seats":4,"wheelbase_estimated":true,"wheelbase_mm_original_error":5080,"trunk_volume_max_l":513,"gross_weight_kg":1961},"trims":[{"name":"1.6L 7AT (94 HP)","engine":{"type":"petrol","displacement_cc":1598,"cylinders":4,"power_hp":94,"power_kw":69,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":7},"drivetrain":"fwd","performance":{"top_speed_kmh":174,"acceleration_0_100_s":9.8,"fuel_consumption_combined_l100km":4.7,"co2_emissions_gkm":106,"fuel_consumption_standard":"WLTP"}},{"name":"1.3L 7AT (143 HP)","engine":{"type":"petrol","displacement_cc":1332,"cylinders":4,"power_hp":143,"power_kw":105,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":7},"drivetrain":"fwd","performance":{"top_speed_kmh":174,"acceleration_0_100_s":9.8,"fuel_consumption_combined_l100km":5.9,"co2_emissions_gkm":132,"fuel_consumption_standard":"WLTP"}},{"name":"1.3L 7AT (144 HP) Hybrid","engine":{"type":"hybrid_petrol","displacement_cc":1332,"cylinders":4,"power_hp":144,"power_kw":106,"fuel_type":"hybrid_petrol"},"transmission":{"type":"automatic","gears":7},"drivetrain":"fwd","performance":{"top_speed_kmh":174,"acceleration_0_100_s":9.8,"fuel_consumption_combined_l100km":7.2,"co2_emissions_gkm":133,"fuel_consumption_standard":"WLTP"}},{"name":"1.3L 7AT (147 HP)","engine":{"type":"petrol","displacement_cc":1332,"cylinders":4,"power_hp":147,"power_kw":108,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":7},"drivetrain":"fwd","performance":{"top_speed_kmh":174,"acceleration_0_100_s":9.8,"fuel_consumption_combined_l100km":7.3,"co2_emissions_gkm":101,"fuel_consumption_standard":"WLTP"}}]}]},{"id":"renault_kangoo_2","name":"Kangoo","body_type":"minivan","powertrain":"ice","generations":[{"id":"renault_kangoo_2__kangoo_1997_2003_1997","name":"Kangoo I 1997-2003","ys":1997,"ye":2003,"body_type":"minivan","dimensions":{"length_mm":4486,"width_mm":1920,"height_mm":1839,"wheelbase_mm":2715,"fuel_tank_l":50,"curb_weight_kg":1616},"trims":[{"name":"1.1L 5MT (75 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1149,"cylinders":4,"power_hp":75,"power_kw":55,"torque_nm":105,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":157,"acceleration_0_100_s":14.7,"fuel_consumption_combined_l100km":7.5,"fuel_consumption_city_l100km":9,"fuel_consumption_highway_l100km":5.9}},{"name":"1.1L 5MT (58 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1149,"cylinders":4,"power_hp":58,"power_kw":43,"torque_nm":93,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":136,"acceleration_0_100_s":20.6,"fuel_consumption_combined_l100km":7.2,"fuel_consumption_city_l100km":8.3,"fuel_consumption_highway_l100km":6.1}},{"name":"1.4L 5MT (75 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1390,"cylinders":4,"power_hp":75,"power_kw":55,"torque_nm":114,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":153,"acceleration_0_100_s":15,"fuel_consumption_combined_l100km":7.9,"fuel_consumption_city_l100km":9.5,"fuel_consumption_highway_l100km":6.3}},{"name":"1.6L 5MT (95 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1598,"cylinders":4,"power_hp":95,"power_kw":70,"torque_nm":148,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":170,"acceleration_0_100_s":11.7,"fuel_consumption_combined_l100km":8,"fuel_consumption_city_l100km":9.8,"fuel_consumption_highway_l100km":6.1}},{"name":"1.5L 5MT (65 HP)","engine":{"type":"diesel","aspiration":"common rail","displacement_cc":1461,"cylinders":4,"power_hp":65,"power_kw":48,"torque_nm":160,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":146,"acceleration_0_100_s":16.3,"fuel_consumption_combined_l100km":5.7,"fuel_consumption_city_l100km":6.5,"fuel_consumption_highway_l100km":4.9}},{"name":"1.5L 5MT (82 HP)","engine":{"type":"diesel","aspiration":"common rail","displacement_cc":1461,"cylinders":4,"power_hp":82,"power_kw":60,"torque_nm":185,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":155,"acceleration_0_100_s":12.5,"fuel_consumption_combined_l100km":5.5,"fuel_consumption_city_l100km":6.4,"fuel_consumption_highway_l100km":4.6}},{"name":"1.9L 5MT (65 HP)","engine":{"type":"diesel","aspiration":"indirect injection","displacement_cc":1870,"cylinders":4,"power_hp":65,"power_kw":48,"torque_nm":120,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":145,"acceleration_0_100_s":19.5,"fuel_consumption_combined_l100km":7.1,"fuel_consumption_city_l100km":8.2,"fuel_consumption_highway_l100km":6}},{"name":"1.9L 5MT (80 HP)","engine":{"type":"diesel","aspiration":"direct injection","displacement_cc":1870,"cylinders":4,"power_hp":80,"power_kw":59,"torque_nm":160,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":160,"acceleration_0_100_s":14.1,"fuel_consumption_combined_l100km":6,"fuel_consumption_city_l100km":7.1,"fuel_consumption_highway_l100km":4.9}}]},{"id":"renault_kangoo_4x4__kangoo_4x4_2001_2003_2001","name":"Kangoo II 2001-2003","ys":2001,"ye":2003,"body_type":"suv","dimensions":{"length_mm":4049,"width_mm":1669,"height_mm":1890,"wheelbase_mm":2619,"ground_clearance_mm":200,"fuel_tank_l":50,"curb_weight_kg":1275,"doors":5,"seats":5},"trims":[{"name":"1.6L 5MT (95 HP) AWD","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1598,"cylinders":4,"power_hp":95,"power_kw":70,"torque_nm":148,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"awd","performance":{"top_speed_kmh":153,"acceleration_0_100_s":13.1,"fuel_consumption_combined_l100km":9.1,"fuel_consumption_city_l100km":10.8,"fuel_consumption_highway_l100km":7.3}},{"name":"1.9L 5MT (80 HP) AWD","engine":{"type":"diesel","aspiration":"common rail","displacement_cc":1870,"cylinders":4,"power_hp":80,"power_kw":59,"torque_nm":180,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":5},"drivetrain":"awd","performance":{"top_speed_kmh":142,"acceleration_0_100_s":16.2,"fuel_consumption_combined_l100km":7.8,"fuel_consumption_city_l100km":9.3,"fuel_consumption_highway_l100km":6.3}}]},{"id":"renault_kangoo_2__kangoo_2008_2020_2008","name":"Kangoo III 2008-2020","ys":2008,"ye":2020,"body_type":"minivan","dimensions":{"length_mm":4213,"width_mm":1829,"height_mm":1844,"wheelbase_mm":2485,"ground_clearance_mm":160,"trunk_volume_l":3000,"fuel_tank_l":60,"doors":5,"seats":7,"wheelbase_estimated":true,"wheelbase_mm_original_error":4674},"trims":[{"name":"1.1L 5MT (75 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1149,"cylinders":4,"power_hp":75,"power_kw":55,"torque_nm":105,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":154,"acceleration_0_100_s":14.2,"fuel_consumption_combined_l100km":7.5,"fuel_consumption_city_l100km":9,"fuel_consumption_highway_l100km":5.9}},{"name":"1.1L 5MT (58 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1149,"cylinders":4,"power_hp":58,"power_kw":43,"torque_nm":93,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":136,"acceleration_0_100_s":18.9,"fuel_consumption_combined_l100km":7.2,"fuel_consumption_city_l100km":8.3,"fuel_consumption_highway_l100km":6.1}},{"name":"1.6L 5MT (95 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1598,"cylinders":4,"power_hp":95,"power_kw":70,"torque_nm":148,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":170,"acceleration_0_100_s":10.7,"fuel_consumption_combined_l100km":8,"fuel_consumption_city_l100km":9.8,"fuel_consumption_highway_l100km":6.1}},{"name":"1.5L 5MT (65 HP)","engine":{"type":"diesel","aspiration":"common rail","displacement_cc":1461,"cylinders":4,"power_hp":65,"power_kw":48,"torque_nm":160,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":146,"acceleration_0_100_s":16.3,"fuel_consumption_combined_l100km":5.7,"fuel_consumption_city_l100km":6.5,"fuel_consumption_highway_l100km":4.9}},{"name":"1.5L 5MT (82 HP)","engine":{"type":"diesel","aspiration":"common rail","displacement_cc":1461,"cylinders":4,"power_hp":82,"power_kw":60,"torque_nm":184,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":155,"acceleration_0_100_s":12.5,"fuel_consumption_combined_l100km":5.5,"fuel_consumption_city_l100km":6.4,"fuel_consumption_highway_l100km":4.6}},{"name":"1.5L 5MT (82 HP) AWD","engine":{"type":"diesel","aspiration":"common rail","displacement_cc":1461,"cylinders":4,"power_hp":82,"power_kw":60,"torque_nm":184,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":5},"drivetrain":"awd","performance":{"top_speed_kmh":146,"acceleration_0_100_s":16.2,"fuel_consumption_combined_l100km":7.8,"fuel_consumption_city_l100km":9.3,"fuel_consumption_highway_l100km":6.3}},{"name":"1.6L 5MT (106 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1598,"cylinders":4,"power_hp":106,"power_kw":78,"torque_nm":148,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":170,"acceleration_0_100_s":13,"fuel_consumption_combined_l100km":8.4,"fuel_consumption_city_l100km":10.6,"fuel_consumption_highway_l100km":6.3}},{"name":"1.5L 5MT (103 HP)","engine":{"type":"diesel","aspiration":"common rail","displacement_cc":1461,"cylinders":4,"power_hp":103,"power_kw":76,"torque_nm":240,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":169,"acceleration_0_100_s":13.2,"fuel_consumption_combined_l100km":5.8,"fuel_consumption_city_l100km":6.4,"fuel_consumption_highway_l100km":5.3}}]},{"id":"renault_kangoo_2__grand_kangoo_iii_2024_2023","name":"Kangoo IV 2023-2023","ys":2023,"ye":2023,"body_type":"minivan","dimensions":{"length_mm":4911,"width_mm":1860,"height_mm":1869,"wheelbase_mm":4166,"ground_clearance_mm":160,"trunk_volume_l":500,"trunk_volume_max_l":500,"fuel_tank_l":54,"curb_weight_kg":1917,"gross_weight_kg":2550,"doors":5,"seats":7},"trims":[{"name":"1.3L 6MT (100 HP)","engine":{"type":"petrol","aspiration":"direct injection","displacement_cc":1333,"cylinders":4,"power_hp":100,"power_kw":73,"torque_nm":200,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":167,"acceleration_0_100_s":14.5}},{"name":"1.3L 6MT (130 HP)","engine":{"type":"petrol","aspiration":"direct injection","displacement_cc":1333,"cylinders":4,"power_hp":130,"power_kw":95,"torque_nm":240,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":183,"acceleration_0_100_s":12.8}},{"name":"1.5L 6MT (115 HP)","engine":{"type":"diesel","aspiration":"common rail","displacement_cc":1461,"cylinders":4,"power_hp":115,"power_kw":84,"torque_nm":270,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":175,"acceleration_0_100_s":12}},{"name":"1.5L 6MT (75 HP)","engine":{"type":"diesel","aspiration":"common rail","displacement_cc":1461,"cylinders":4,"power_hp":75,"power_kw":55,"torque_nm":230,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":151,"acceleration_0_100_s":19.2}},{"name":"1.5L 6MT (95 HP)","engine":{"type":"diesel","aspiration":"common rail","displacement_cc":1461,"cylinders":4,"power_hp":95,"power_kw":69,"torque_nm":260,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":164,"acceleration_0_100_s":15.1}},{"name":"1.5L 6MT (101 HP)","engine":{"type":"diesel","displacement_cc":1461,"cylinders":4,"power_hp":101,"power_kw":74,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":167,"acceleration_0_100_s":14.5,"fuel_consumption_combined_l100km":5.3,"co2_emissions_gkm":138,"fuel_consumption_standard":"WLTP"}},{"name":"EV 51 kW","engine":{"type":"electric","power_hp":69,"power_kw":51,"fuel_type":"electric"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":167,"acceleration_0_100_s":14.5,"fuel_consumption_standard":"WLTP"}},{"name":"1.3L 6MT (116 HP)","engine":{"type":"lpg","displacement_cc":1332,"cylinders":4,"power_hp":116,"power_kw":85,"fuel_type":"lpg"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":167,"acceleration_0_100_s":14.5,"fuel_consumption_combined_l100km":6.9,"co2_emissions_gkm":155,"fuel_consumption_standard":"WLTP"}},{"name":"1.3L 6MT (124 HP)","engine":{"type":"petrol","displacement_cc":1332,"cylinders":4,"power_hp":124,"power_kw":91,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":167,"acceleration_0_100_s":14.5,"fuel_consumption_combined_l100km":6.9,"co2_emissions_gkm":156,"fuel_consumption_standard":"WLTP"}}]}]},{"id":"renault_kaptur","name":"Kaptur","body_type":"suv","powertrain":"ice","generations":[{"id":"renault_kaptur__kaptur_facelift_2020_suv_2020","name":"Kaptur 2020-н.в.","ys":2020,"ye":null,"body_type":"suv","dimensions":{"length_mm":4333,"width_mm":1813,"height_mm":1613,"wheelbase_mm":2556,"ground_clearance_mm":204,"trunk_volume_l":387,"trunk_volume_max_l":387,"fuel_tank_l":50,"curb_weight_kg":1414,"gross_weight_kg":1883,"doors":5,"seats":5,"wheelbase_estimated":true,"wheelbase_mm_original_error":5207},"trims":[{"name":"1.6L 5MT (114 HP)","engine":{"code":"H4M","type":"petrol","aspiration":"na","displacement_cc":1598,"cylinders":4,"power_hp":114,"power_kw":84,"torque_nm":156,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":171,"acceleration_0_100_s":11.7,"fuel_consumption_combined_l100km":7.4}},{"name":"1.6L CVT (114 HP)","engine":{"code":"H4M","type":"petrol","aspiration":"na","displacement_cc":1598,"cylinders":4,"power_hp":114,"power_kw":84,"torque_nm":156,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"top_speed_kmh":169,"acceleration_0_100_s":12,"fuel_consumption_combined_l100km":7.8}},{"name":"1.3L CVT (150 HP) AWD","engine":{"code":"H5Ht","type":"petrol","aspiration":"turbo","displacement_cc":1333,"cylinders":4,"power_hp":150,"power_kw":110,"torque_nm":250,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"awd","performance":{"top_speed_kmh":178,"acceleration_0_100_s":10.5,"fuel_consumption_combined_l100km":8}}]}]},{"id":"renault_koleos","name":"Koleos","body_type":"suv","powertrain":"ice","generations":[{"id":"renault_koleos__l_2013","name":"Koleos I 2013-2016","ys":2013,"ye":2016,"body_type":"suv","dimensions":{"length_mm":4520,"width_mm":1855,"height_mm":1695,"ground_clearance_mm":200,"trunk_volume_l":450,"trunk_volume_max_l":450,"curb_weight_kg":1784,"gross_weight_kg":2300,"doors":5,"seats":5},"trims":[{"name":"2.0L AT (184 HP)","engine":{"type":"diesel","displacement_cc":1997,"cylinders":4,"power_hp":184,"power_kw":135,"fuel_type":"diesel"},"transmission":{"type":"automatic"},"performance":{"top_speed_kmh":190,"acceleration_0_100_s":11.8,"fuel_consumption_combined_l100km":5.6,"fuel_consumption_city_l100km":6.2,"fuel_consumption_highway_l100km":5,"co2_emissions_gkm":177,"fuel_consumption_standard":"WLTP"}},{"name":"1.3L AT (158 HP)","engine":{"type":"petrol","displacement_cc":1332,"cylinders":4,"power_hp":158,"power_kw":116,"fuel_type":"petrol"},"transmission":{"type":"automatic"},"performance":{"top_speed_kmh":190,"acceleration_0_100_s":11.8,"fuel_consumption_combined_l100km":5.6,"fuel_consumption_city_l100km":6.2,"fuel_consumption_highway_l100km":5,"co2_emissions_gkm":152,"fuel_consumption_standard":"WLTP"}}]},{"id":"renault_koleos__koleos_2016_2019_2016","name":"Koleos II 2016-2019","ys":2016,"ye":2019,"body_type":"suv","dimensions":{"length_mm":4780,"width_mm":1843,"height_mm":1673,"wheelbase_mm":2820,"ground_clearance_mm":200,"trunk_volume_l":530,"fuel_tank_l":60,"doors":5,"seats":5,"wheelbase_estimated":true,"wheelbase_mm_original_error":5334},"trims":[{"name":"2.5L 6MT (171 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":2488,"power_hp":171,"power_kw":125,"torque_nm":226,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":192,"acceleration_0_100_s":9,"fuel_consumption_combined_l100km":10.3,"fuel_consumption_city_l100km":12.9,"fuel_consumption_highway_l100km":7.7}},{"name":"2.5L CVT (171 HP) AWD","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":2488,"power_hp":171,"power_kw":125,"torque_nm":226,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"awd","performance":{"top_speed_kmh":185,"acceleration_0_100_s":10.3,"fuel_consumption_combined_l100km":10,"fuel_consumption_city_l100km":12,"fuel_consumption_highway_l100km":8}},{"name":"2.5L CVT (171 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":2488,"power_hp":171,"power_kw":125,"torque_nm":226,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"top_speed_kmh":187,"acceleration_0_100_s":9.9,"fuel_consumption_combined_l100km":9.9,"fuel_consumption_city_l100km":11.8,"fuel_consumption_highway_l100km":7.9}},{"name":"2.0L 6MT (175 HP) AWD","engine":{"type":"diesel","aspiration":"turbocharged","displacement_cc":1995,"cylinders":4,"power_hp":175,"power_kw":128,"torque_nm":360,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":6},"drivetrain":"awd","performance":{"top_speed_kmh":192,"acceleration_0_100_s":9.9,"fuel_consumption_combined_l100km":6.6,"fuel_consumption_city_l100km":7.5,"fuel_consumption_highway_l100km":5.7}},{"name":"2.0L 6MT (150 HP)","engine":{"type":"diesel","aspiration":"turbocharged","displacement_cc":1995,"cylinders":4,"power_hp":150,"power_kw":110,"torque_nm":320,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":183,"acceleration_0_100_s":10,"fuel_consumption_combined_l100km":6,"fuel_consumption_city_l100km":7,"fuel_consumption_highway_l100km":4.9}},{"name":"2.0L 6AT (175 HP)","engine":{"type":"diesel","aspiration":"turbocharged","displacement_cc":1995,"cylinders":4,"power_hp":175,"power_kw":128,"torque_nm":360,"fuel_type":"diesel"},"transmission":{"type":"automatic","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":190,"acceleration_0_100_s":11.5,"fuel_consumption_combined_l100km":5.5,"fuel_consumption_city_l100km":6,"fuel_consumption_highway_l100km":4.9}},{"name":"2.0L CVT (144 HP) AWD","engine":{"type":"petrol","aspiration":"direct injection","displacement_cc":1997,"cylinders":4,"power_hp":144,"power_kw":105,"torque_nm":200,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"awd","performance":{"top_speed_kmh":187,"acceleration_0_100_s":11.3,"fuel_consumption_combined_l100km":7.9,"fuel_consumption_city_l100km":9.4,"fuel_consumption_highway_l100km":6.4}},{"name":"1.6L AT (130 HP)","engine":{"type":"diesel","aspiration":"turbocharged","displacement_cc":1598,"cylinders":4,"power_hp":130,"power_kw":95,"torque_nm":320,"fuel_type":"diesel"},"transmission":{"type":"automatic"},"drivetrain":"fwd","performance":{"top_speed_kmh":166,"acceleration_0_100_s":13.3,"fuel_consumption_combined_l100km":4.7,"fuel_consumption_city_l100km":5.1,"fuel_consumption_highway_l100km":4.2}}]},{"id":"renault__koleos__phase_2_2019","name":"Koleos III 2019-н.в.","ys":2019,"ye":null,"body_type":"suv","dimensions":{"length_mm":4673,"width_mm":1843,"height_mm":1672,"wheelbase_mm":2705,"ground_clearance_mm":175,"trunk_volume_l":493,"fuel_tank_l":60,"curb_weight_kg":1615,"doors":5,"seats":5},"trims":[{"name":"2.5L CVT (170 HP)","engine":{"code":"PR25DD","type":"petrol","aspiration":"na","displacement_cc":2488,"cylinders":4,"power_hp":170,"power_kw":126,"torque_nm":233,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"top_speed_kmh":195,"acceleration_0_100_s":9.9,"fuel_consumption_combined_l100km":9.9,"fuel_consumption_city_l100km":11.8,"fuel_consumption_highway_l100km":7.9}},{"name":"2.5L CVT (170 HP) AWD","engine":{"code":"PR25DD","type":"petrol","aspiration":"na","displacement_cc":2488,"cylinders":4,"power_hp":170,"power_kw":126,"torque_nm":233,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"awd","performance":{"top_speed_kmh":193,"acceleration_0_100_s":10.3,"fuel_consumption_combined_l100km":5.6,"fuel_consumption_city_l100km":6.2,"fuel_consumption_highway_l100km":5}}]}]},{"id":"renault_laguna","name":"Laguna","body_type":"hatchback","powertrain":"ice","generations":[{"id":"renault_laguna__laguna_1998_2001_1998","name":"Laguna I 1998-2001","ys":1998,"ye":2001,"body_type":"hatchback","dimensions":{"length_mm":4694,"width_mm":1811,"height_mm":1445,"wheelbase_mm":2756,"curb_weight_kg":1381},"trims":[{"name":"1.8L 5MT (95 HP)","engine":{"type":"petrol","aspiration":"monopoint injection","displacement_cc":1783,"cylinders":4,"power_hp":95,"power_kw":70,"torque_nm":142,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":13.9,"fuel_consumption_combined_l100km":9.2,"fuel_consumption_city_l100km":11.5,"fuel_consumption_highway_l100km":6.9}},{"name":"1.9L 5MT (140 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1948,"cylinders":4,"power_hp":140,"power_kw":103,"torque_nm":182,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":205,"acceleration_0_100_s":9.8,"fuel_consumption_combined_l100km":8.2,"fuel_consumption_city_l100km":10.4,"fuel_consumption_highway_l100km":6.1}},{"name":"2.0L 5MT (115 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1998,"cylinders":4,"power_hp":115,"power_kw":85,"torque_nm":168,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":10.6,"fuel_consumption_combined_l100km":9.6,"fuel_consumption_city_l100km":12.2,"fuel_consumption_highway_l100km":7}},{"name":"2.9L 4AT (194 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":2946,"cylinders":6,"cylinder_layout":"V","power_hp":194,"power_kw":143,"torque_nm":267,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":4},"drivetrain":"fwd","performance":{"top_speed_kmh":230,"acceleration_0_100_s":8.7,"fuel_consumption_combined_l100km":12.7,"fuel_consumption_city_l100km":17,"fuel_consumption_highway_l100km":8.3}},{"name":"3.0L 5MT (170 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":2963,"cylinders":6,"cylinder_layout":"V","power_hp":170,"power_kw":125,"torque_nm":235,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":220,"acceleration_0_100_s":8.6,"fuel_consumption_combined_l100km":13.4,"fuel_consumption_city_l100km":17.7,"fuel_consumption_highway_l100km":9.1}},{"name":"2.2L 5MT (84 HP)","engine":{"type":"diesel","aspiration":"indirect injection","displacement_cc":2188,"power_hp":84,"power_kw":62,"torque_nm":142,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":175,"acceleration_0_100_s":15.5,"fuel_consumption_combined_l100km":7.7,"fuel_consumption_city_l100km":9.5,"fuel_consumption_highway_l100km":5.8}},{"name":"2.2L 5MT (116 HP)","engine":{"type":"diesel","aspiration":"indirect injection","displacement_cc":2188,"cylinders":4,"power_hp":116,"power_kw":85,"torque_nm":234,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":195,"acceleration_0_100_s":11.8,"fuel_consumption_combined_l100km":7.5,"fuel_consumption_city_l100km":9.8,"fuel_consumption_highway_l100km":5.2}},{"name":"1.9L 5MT (110 HP)","engine":{"type":"diesel","aspiration":"direct injection","displacement_cc":1870,"cylinders":4,"power_hp":110,"power_kw":79,"torque_nm":249,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":190,"acceleration_0_100_s":11.8,"fuel_consumption_combined_l100km":6,"fuel_consumption_city_l100km":7.4,"fuel_consumption_highway_l100km":4.6}}]},{"id":"renault_laguna__laguna_2010_2016_2010","name":"Laguna II 2010-2016","ys":2010,"ye":2016,"body_type":"hatchback","dimensions":{"length_mm":4803,"width_mm":1811,"height_mm":1445,"wheelbase_mm":3048,"ground_clearance_mm":155,"trunk_volume_l":508,"trunk_volume_max_l":508,"curb_weight_kg":1595,"gross_weight_kg":2107,"doors":5,"seats":5,"fuel_tank_l":65},"trims":[{"name":"2.0L 6AT (140 HP)","engine":{"type":"petrol","displacement_cc":1997,"cylinders":4,"power_hp":140,"power_kw":103,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":220,"acceleration_0_100_s":9.2,"fuel_consumption_combined_l100km":9.5,"fuel_consumption_city_l100km":12.5,"fuel_consumption_highway_l100km":6.5,"co2_emissions_gkm":112,"fuel_consumption_standard":"WLTP"}},{"name":"1.6L 5MT (107 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1598,"cylinders":4,"power_hp":107,"power_kw":79,"torque_nm":148,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":195,"acceleration_0_100_s":11.5,"fuel_consumption_combined_l100km":7.8,"fuel_consumption_city_l100km":9.9,"fuel_consumption_highway_l100km":5.7}},{"name":"1.8L 5MT (121 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1783,"cylinders":4,"power_hp":121,"power_kw":89,"torque_nm":168,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":203,"acceleration_0_100_s":10.8,"fuel_consumption_combined_l100km":8.1,"fuel_consumption_city_l100km":10,"fuel_consumption_highway_l100km":6.1}},{"name":"2.0L 5MT (135 HP)","engine":{"type":"petrol","aspiration":"multi point fuel injection","displacement_cc":1998,"cylinders":4,"power_hp":135,"power_kw":99,"torque_nm":191,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":204,"acceleration_0_100_s":9.9,"fuel_consumption_combined_l100km":8.7,"fuel_consumption_city_l100km":11.1,"fuel_consumption_highway_l100km":6.2}},{"name":"2.0L 5MT (140 HP)","engine":{"type":"petrol","aspiration":"direct injection","displacement_cc":1998,"cylinders":4,"power_hp":140,"power_kw":103,"torque_nm":200,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":210,"acceleration_0_100_s":9.8,"fuel_consumption_combined_l100km":8.2,"fuel_consumption_city_l100km":10.4,"fuel_consumption_highway_l100km":6.1}},{"name":"2.0L 6MT (163 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1998,"cylinders":4,"power_hp":163,"power_kw":120,"torque_nm":270,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":217,"acceleration_0_100_s":8.5,"fuel_consumption_combined_l100km":8.9,"fuel_consumption_city_l100km":11.4,"fuel_consumption_highway_l100km":6.4}},{"name":"2.9L 5AT (207 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":2946,"cylinders":6,"cylinder_layout":"V","power_hp":207,"power_kw":152,"torque_nm":285,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":235,"acceleration_0_100_s":8.1,"fuel_consumption_combined_l100km":11.1,"fuel_consumption_city_l100km":14.9,"fuel_consumption_highway_l100km":7.3}},{"name":"1.9L 5MT (101 HP)","engine":{"type":"diesel","aspiration":"common rail","displacement_cc":1870,"cylinders":4,"power_hp":101,"power_kw":74,"torque_nm":200,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":185,"acceleration_0_100_s":13,"fuel_consumption_combined_l100km":5.9,"fuel_consumption_city_l100km":7.2,"fuel_consumption_highway_l100km":4.6}},{"name":"1.9L 6MT (120 HP)","engine":{"type":"diesel","aspiration":"common rail","displacement_cc":1870,"cylinders":4,"power_hp":120,"power_kw":88,"torque_nm":270,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":10.7,"fuel_consumption_combined_l100km":6,"fuel_consumption_city_l100km":7.2,"fuel_consumption_highway_l100km":4.8}},{"name":"2.2L 6MT (150 HP)","engine":{"type":"diesel","aspiration":"common rail","displacement_cc":2188,"power_hp":150,"power_kw":110,"torque_nm":320,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":216,"acceleration_0_100_s":9.8,"fuel_consumption_combined_l100km":6.9,"fuel_consumption_city_l100km":8.6,"fuel_consumption_highway_l100km":5.3}}]}]},{"id":"renault_logan","name":"Logan","body_type":"sedan","powertrain":"ice","generations":[{"id":"renault_logan__logan_sedan_2005_2004","name":"Logan I 2004-2009","ys":2004,"ye":2009,"body_type":"sedan","dimensions":{"length_mm":4250,"width_mm":1735,"height_mm":1525,"ground_clearance_mm":140,"trunk_volume_l":510,"trunk_volume_max_l":510,"curb_weight_kg":980,"gross_weight_kg":1540,"doors":4,"seats":5},"trims":[{"name":"1.0L 5MT (77 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":999,"cylinders":3,"power_hp":77,"power_kw":57,"torque_nm":100,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":159,"acceleration_0_100_s":14.2,"fuel_consumption_combined_l100km":6.2,"fuel_consumption_city_l100km":7.6,"fuel_consumption_highway_l100km":4.9}},{"name":"1.6L 5MT (98 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1598,"cylinders":4,"power_hp":98,"power_kw":72,"torque_nm":142,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":177,"acceleration_0_100_s":11.5}}]},{"id":"renault__logan__b0_facelift_2018","name":"Logan II (B0) 2018-н.в.","ys":2018,"ye":null,"body_type":"sedan","dimensions":{"length_mm":4346,"width_mm":1762,"height_mm":1517,"wheelbase_mm":2634,"ground_clearance_mm":163,"trunk_volume_l":510,"fuel_tank_l":50,"curb_weight_kg":1069,"doors":4,"seats":5},"trims":[{"name":"1.6L 5MT (82 HP)","engine":{"code":"K7M","type":"petrol","aspiration":"na","displacement_cc":1598,"cylinders":4,"power_hp":82,"power_kw":60,"torque_nm":134,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":163,"acceleration_0_100_s":13.2,"fuel_consumption_combined_l100km":6.2,"fuel_consumption_city_l100km":7.6,"fuel_consumption_highway_l100km":4.9}},{"name":"1.6L 5MT (113 HP)","engine":{"code":"K4M","type":"petrol","aspiration":"na","displacement_cc":1598,"cylinders":4,"power_hp":113,"power_kw":83,"torque_nm":155,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":11,"fuel_consumption_combined_l100km":6.2,"fuel_consumption_city_l100km":7.6,"fuel_consumption_highway_l100km":4.9}},{"name":"1.6L 4AT (113 HP)","engine":{"code":"K4M","type":"petrol","aspiration":"na","displacement_cc":1598,"cylinders":4,"power_hp":113,"power_kw":83,"torque_nm":155,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":4},"drivetrain":"fwd","performance":{"top_speed_kmh":176,"acceleration_0_100_s":11.8,"fuel_consumption_combined_l100km":6.2,"fuel_consumption_city_l100km":7.6,"fuel_consumption_highway_l100km":4.9}}]}]},{"id":"renault_master","name":"MASTER","body_type":"minivan","powertrain":"ice","generations":[{"id":"renaultcarpol_master__master_2024_2024","name":"MASTER 2023-2024","ys":2023,"ye":2024,"body_type":"minivan","dimensions":{"curb_weight_kg":2465},"trims":[{"name":"2.3L (147 HP)","engine":{"type":"diesel","displacement_cc":2299,"power_hp":147,"power_kw":108,"fuel_type":"diesel"},"performance":{"fuel_consumption_combined_l100km":10.2,"co2_emissions_gkm":277,"fuel_consumption_standard":"WLTP"}},{"name":"2.3L (150 HP)","engine":{"type":"diesel","displacement_cc":2299,"power_hp":150,"power_kw":110,"fuel_type":"diesel"},"performance":{"fuel_consumption_combined_l100km":9.2,"co2_emissions_gkm":242,"fuel_consumption_standard":"WLTP"}}]}]},{"id":"renault_scenic","name":"Scenic","body_type":"minivan","powertrain":"ice","generations":[{"id":"renault_scenic_rx4__scenic_rx4_2000_2003_2000","name":"Scenic I 2000-2003","ys":2000,"ye":2003,"body_type":"minivan","dimensions":{"length_mm":4440,"width_mm":1781,"height_mm":1730,"wheelbase_mm":2619,"fuel_tank_l":60,"curb_weight_kg":1440},"trims":[{"name":"2.0L 5MT (140 HP) AWD","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1998,"cylinders":4,"power_hp":140,"power_kw":103,"torque_nm":188,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"awd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":11.9,"fuel_consumption_combined_l100km":10,"fuel_consumption_city_l100km":11.8,"fuel_consumption_highway_l100km":8.2}},{"name":"1.9L 5MT (102 HP) AWD","engine":{"type":"diesel","aspiration":"direct injection","displacement_cc":1870,"cylinders":4,"power_hp":102,"power_kw":75,"torque_nm":200,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":5},"drivetrain":"awd","performance":{"top_speed_kmh":160,"acceleration_0_100_s":14.8,"fuel_consumption_combined_l100km":7.8,"fuel_consumption_city_l100km":8.9,"fuel_consumption_highway_l100km":6.6}}]},{"id":"renault_scenic__scenic_2009_2013_2009","name":"Scenic II 2009-2016","ys":2009,"ye":2016,"body_type":"minivan","dimensions":{"length_mm":4366,"width_mm":1845,"height_mm":1640,"ground_clearance_mm":160,"trunk_volume_l":437,"fuel_tank_l":60,"doors":5,"seats":7},"trims":[{"name":"1.4L 5MT (95 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1390,"cylinders":4,"power_hp":95,"power_kw":70,"torque_nm":127,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":173,"acceleration_0_100_s":12.9,"fuel_consumption_combined_l100km":7.7,"fuel_consumption_city_l100km":9.7,"fuel_consumption_highway_l100km":5.7}},{"name":"1.6L 5MT (107 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1598,"cylinders":4,"power_hp":107,"power_kw":79,"torque_nm":148,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":185,"acceleration_0_100_s":11.2,"fuel_consumption_combined_l100km":7.8,"fuel_consumption_city_l100km":9.6,"fuel_consumption_highway_l100km":6}},{"name":"1.8L 5MT (116 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1783,"cylinders":4,"power_hp":116,"power_kw":85,"torque_nm":164,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":189,"acceleration_0_100_s":10.9,"fuel_consumption_combined_l100km":8.3,"fuel_consumption_city_l100km":10.4,"fuel_consumption_highway_l100km":6.3}},{"name":"2.0L 5MT (140 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1998,"cylinders":4,"power_hp":140,"power_kw":103,"torque_nm":189,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":196,"acceleration_0_100_s":10.2,"fuel_consumption_combined_l100km":8.6,"fuel_consumption_city_l100km":10.8,"fuel_consumption_highway_l100km":6.4}},{"name":"1.9L 5MT (64 HP)","engine":{"type":"diesel","aspiration":"indirect injection","displacement_cc":1870,"cylinders":4,"power_hp":64,"power_kw":47,"torque_nm":120,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":160,"acceleration_0_100_s":18.9,"fuel_consumption_combined_l100km":7.3,"fuel_consumption_city_l100km":8.9,"fuel_consumption_highway_l100km":5.8}},{"name":"1.9L 5MT (102 HP)","engine":{"type":"diesel","aspiration":"direct injection","displacement_cc":1870,"cylinders":4,"power_hp":102,"power_kw":75,"torque_nm":200,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":173,"acceleration_0_100_s":12.8,"fuel_consumption_combined_l100km":6.3,"fuel_consumption_city_l100km":7.7,"fuel_consumption_highway_l100km":4.9}},{"name":"1.9L 5MT (98 HP)","engine":{"type":"diesel","aspiration":"direct injection","displacement_cc":1870,"cylinders":4,"power_hp":98,"power_kw":72,"torque_nm":200,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":174,"acceleration_0_100_s":12.7,"fuel_consumption_combined_l100km":6.3,"fuel_consumption_city_l100km":7.7,"fuel_consumption_highway_l100km":4.9}},{"name":"1.9L 5MT (80 HP)","engine":{"type":"diesel","aspiration":"direct injection","displacement_cc":1870,"cylinders":4,"power_hp":80,"power_kw":59,"torque_nm":160,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":162,"acceleration_0_100_s":15.7,"fuel_consumption_combined_l100km":6,"fuel_consumption_city_l100km":7.3,"fuel_consumption_highway_l100km":4.8}},{"name":"1.2L 6MT (116 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1198,"cylinders":4,"power_hp":116,"power_kw":85,"torque_nm":190,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":11.7,"fuel_consumption_combined_l100km":6.2,"fuel_consumption_city_l100km":7.2,"fuel_consumption_highway_l100km":5.2}},{"name":"1.4L 6MT (131 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1397,"cylinders":4,"power_hp":131,"power_kw":96,"torque_nm":190,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":190,"acceleration_0_100_s":10.5,"fuel_consumption_combined_l100km":7.6,"fuel_consumption_city_l100km":9.4,"fuel_consumption_highway_l100km":5.8}}]},{"id":"renault_scenic__l_2013","name":"Scenic III 2013-2016","ys":2013,"ye":2016,"body_type":"suv","dimensions":{"length_mm":4372,"width_mm":1845,"height_mm":1640,"ground_clearance_mm":200,"trunk_volume_l":437,"trunk_volume_max_l":437,"curb_weight_kg":1506,"gross_weight_kg":2055,"doors":5,"seats":5},"trims":[{"name":"EV 157 kW","engine":{"type":"electric","power_hp":213,"power_kw":157,"fuel_type":"electric"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":185,"acceleration_0_100_s":12.3,"fuel_consumption_city_l100km":7.2,"fuel_consumption_standard":"WLTP"}},{"name":"1.3L 6MT (141 HP)","engine":{"type":"petrol","displacement_cc":1332,"cylinders":4,"power_hp":141,"power_kw":104,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":185,"acceleration_0_100_s":12.3,"fuel_consumption_combined_l100km":6.7,"fuel_consumption_city_l100km":7.2,"co2_emissions_gkm":151,"fuel_consumption_standard":"WLTP"}}]},{"id":"renault_scenic__scenic_iv_phase_ii_minivan_2020_2020","name":"Scenic IV 2020-2022","ys":2020,"ye":2022,"body_type":"minivan","dimensions":{"length_mm":4407,"width_mm":1866,"height_mm":1653,"wheelbase_mm":2600,"ground_clearance_mm":160,"trunk_volume_l":506,"trunk_volume_max_l":506,"curb_weight_kg":1450,"gross_weight_kg":2044,"doors":5,"seats":7,"wheelbase_estimated":true,"wheelbase_mm_original_error":4318},"trims":[{"name":"EV 157 kW","engine":{"type":"electric","power_hp":213,"power_kw":157,"fuel_type":"electric"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":185,"acceleration_0_100_s":12.3,"fuel_consumption_city_l100km":7.2,"fuel_consumption_standard":"WLTP"}},{"name":"1.3L 6MT (141 HP)","engine":{"type":"petrol","displacement_cc":1332,"cylinders":4,"power_hp":141,"power_kw":104,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":185,"acceleration_0_100_s":12.3,"fuel_consumption_combined_l100km":6.7,"fuel_consumption_city_l100km":7.2,"co2_emissions_gkm":151,"fuel_consumption_standard":"WLTP"}}]},{"id":"renault_scenic__scenic_v_e_tech_electric_suv_2024_4400","name":"Scenic V 2024-н.в.","ys":2024,"ye":null,"body_type":"suv","dimensions":{"length_mm":4470,"width_mm":1864,"height_mm":1571,"ground_clearance_mm":200,"trunk_volume_l":545,"trunk_volume_max_l":545,"curb_weight_kg":1842,"doors":5,"seats":5},"trims":[{"name":"EV 157 kW","engine":{"type":"electric","power_hp":213,"power_kw":157,"fuel_type":"electric"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":185,"acceleration_0_100_s":12.3,"fuel_consumption_city_l100km":7.2,"fuel_consumption_standard":"WLTP"}},{"name":"1.3L 6MT (141 HP)","engine":{"type":"petrol","displacement_cc":1332,"cylinders":4,"power_hp":141,"power_kw":104,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":185,"acceleration_0_100_s":12.3,"fuel_consumption_combined_l100km":6.7,"fuel_consumption_city_l100km":7.2,"co2_emissions_gkm":151,"fuel_consumption_standard":"WLTP"}}]}]},{"id":"renault_duster","name":"Duster","body_type":"suv","powertrain":"ice","generations":[{"id":"renault_duster__stub","name":"Duster","body_type":"suv","dimensions":{},"trims":[]}]},{"id":"renault_sandero","name":"Sandero","body_type":"hatchback","powertrain":"ice","generations":[{"id":"renault_sandero__stub","name":"Sandero","body_type":"hatchback","dimensions":{},"trims":[]}]}]}
+{
+  "id": "renault",
+  "name": "Renault",
+  "name_ru": "Рено",
+  "country": "FR",
+  "models": [
+    {
+      "id": "renault_arkana",
+      "name": "ARKANA",
+      "body_type": "coupe",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "renault_arkana_2__arkana_coupe_2019_2019",
+          "name": "ARKANA I 2019-2023",
+          "ys": 2019,
+          "ye": 2023,
+          "body_type": "coupe",
+          "dimensions": {
+            "length_mm": 4568,
+            "width_mm": 1821,
+            "height_mm": 1576,
+            "wheelbase_mm": 2720,
+            "ground_clearance_mm": 205,
+            "trunk_volume_l": 409,
+            "trunk_volume_max_l": 513,
+            "fuel_tank_l": 50,
+            "curb_weight_kg": 1435,
+            "gross_weight_kg": 1961,
+            "doors": 5,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "1.3L CVT (150 HP)",
+              "engine": {
+                "code": "H5Ht",
+                "type": "petrol",
+                "aspiration": "turbo",
+                "displacement_cc": 1333,
+                "cylinders": 4,
+                "power_hp": 150,
+                "power_kw": 110,
+                "torque_nm": 250,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 190,
+                "acceleration_0_100_s": 9.3,
+                "fuel_consumption_combined_l100km": 7.5,
+                "fuel_consumption_city_l100km": 9.1,
+                "fuel_consumption_highway_l100km": 6
+              }
+            },
+            {
+              "name": "1.3L CVT (150 HP) AWD",
+              "engine": {
+                "code": "H5Ht",
+                "type": "petrol",
+                "aspiration": "turbo",
+                "displacement_cc": 1333,
+                "cylinders": 4,
+                "power_hp": 150,
+                "power_kw": 110,
+                "torque_nm": 250,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 185,
+                "acceleration_0_100_s": 10.5,
+                "fuel_consumption_combined_l100km": 7.7
+              }
+            }
+          ]
+        },
+        {
+          "id": "renault_arkana__arkana_2023_2023",
+          "name": "ARKANA II 2023-2024",
+          "ys": 2023,
+          "ye": 2024,
+          "body_type": "coupe",
+          "dimensions": {
+            "length_mm": 4567,
+            "width_mm": 1821,
+            "height_mm": 1575,
+            "wheelbase_mm": 2720,
+            "curb_weight_kg": 1336,
+            "ground_clearance_mm": 120,
+            "trunk_volume_l": 480,
+            "doors": 2,
+            "seats": 4,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 5080,
+            "trunk_volume_max_l": 513,
+            "gross_weight_kg": 1961
+          },
+          "trims": [
+            {
+              "name": "1.6L 7AT (94 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 94,
+                "power_kw": 69,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 174,
+                "acceleration_0_100_s": 9.8,
+                "fuel_consumption_combined_l100km": 4.7,
+                "co2_emissions_gkm": 106,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.3L 7AT (143 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1332,
+                "cylinders": 4,
+                "power_hp": 143,
+                "power_kw": 105,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 174,
+                "acceleration_0_100_s": 9.8,
+                "fuel_consumption_combined_l100km": 5.9,
+                "co2_emissions_gkm": 132,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.3L 7AT (144 HP) Hybrid",
+              "engine": {
+                "type": "hybrid_petrol",
+                "displacement_cc": 1332,
+                "cylinders": 4,
+                "power_hp": 144,
+                "power_kw": 106,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 174,
+                "acceleration_0_100_s": 9.8,
+                "fuel_consumption_combined_l100km": 7.2,
+                "co2_emissions_gkm": 133,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.3L 7AT (147 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1332,
+                "cylinders": 4,
+                "power_hp": 147,
+                "power_kw": 108,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 174,
+                "acceleration_0_100_s": 9.8,
+                "fuel_consumption_combined_l100km": 7.3,
+                "co2_emissions_gkm": 101,
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "renault_kangoo_2",
+      "name": "Kangoo",
+      "body_type": "minivan",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "renault_kangoo_2__kangoo_1997_2003_1997",
+          "name": "Kangoo I 1997-2003",
+          "ys": 1997,
+          "ye": 2003,
+          "body_type": "minivan",
+          "dimensions": {
+            "length_mm": 4486,
+            "width_mm": 1920,
+            "height_mm": 1839,
+            "wheelbase_mm": 2715,
+            "fuel_tank_l": 50,
+            "curb_weight_kg": 1616
+          },
+          "trims": [
+            {
+              "name": "1.1L 5MT (75 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1149,
+                "cylinders": 4,
+                "power_hp": 75,
+                "power_kw": 55,
+                "torque_nm": 105,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 157,
+                "acceleration_0_100_s": 14.7,
+                "fuel_consumption_combined_l100km": 7.5,
+                "fuel_consumption_city_l100km": 9,
+                "fuel_consumption_highway_l100km": 5.9
+              }
+            },
+            {
+              "name": "1.1L 5MT (58 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1149,
+                "cylinders": 4,
+                "power_hp": 58,
+                "power_kw": 43,
+                "torque_nm": 93,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 136,
+                "acceleration_0_100_s": 20.6,
+                "fuel_consumption_combined_l100km": 7.2,
+                "fuel_consumption_city_l100km": 8.3,
+                "fuel_consumption_highway_l100km": 6.1
+              }
+            },
+            {
+              "name": "1.4L 5MT (75 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1390,
+                "cylinders": 4,
+                "power_hp": 75,
+                "power_kw": 55,
+                "torque_nm": 114,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 153,
+                "acceleration_0_100_s": 15,
+                "fuel_consumption_combined_l100km": 7.9,
+                "fuel_consumption_city_l100km": 9.5,
+                "fuel_consumption_highway_l100km": 6.3
+              }
+            },
+            {
+              "name": "1.6L 5MT (95 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 95,
+                "power_kw": 70,
+                "torque_nm": 148,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 170,
+                "acceleration_0_100_s": 11.7,
+                "fuel_consumption_combined_l100km": 8,
+                "fuel_consumption_city_l100km": 9.8,
+                "fuel_consumption_highway_l100km": 6.1
+              }
+            },
+            {
+              "name": "1.5L 5MT (65 HP)",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "common rail",
+                "displacement_cc": 1461,
+                "cylinders": 4,
+                "power_hp": 65,
+                "power_kw": 48,
+                "torque_nm": 160,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 146,
+                "acceleration_0_100_s": 16.3,
+                "fuel_consumption_combined_l100km": 5.7,
+                "fuel_consumption_city_l100km": 6.5,
+                "fuel_consumption_highway_l100km": 4.9
+              }
+            },
+            {
+              "name": "1.5L 5MT (82 HP)",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "common rail",
+                "displacement_cc": 1461,
+                "cylinders": 4,
+                "power_hp": 82,
+                "power_kw": 60,
+                "torque_nm": 185,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 155,
+                "acceleration_0_100_s": 12.5,
+                "fuel_consumption_combined_l100km": 5.5,
+                "fuel_consumption_city_l100km": 6.4,
+                "fuel_consumption_highway_l100km": 4.6
+              }
+            },
+            {
+              "name": "1.9L 5MT (65 HP)",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "indirect injection",
+                "displacement_cc": 1870,
+                "cylinders": 4,
+                "power_hp": 65,
+                "power_kw": 48,
+                "torque_nm": 120,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 145,
+                "acceleration_0_100_s": 19.5,
+                "fuel_consumption_combined_l100km": 7.1,
+                "fuel_consumption_city_l100km": 8.2,
+                "fuel_consumption_highway_l100km": 6
+              }
+            },
+            {
+              "name": "1.9L 5MT (80 HP)",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "direct injection",
+                "displacement_cc": 1870,
+                "cylinders": 4,
+                "power_hp": 80,
+                "power_kw": 59,
+                "torque_nm": 160,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 160,
+                "acceleration_0_100_s": 14.1,
+                "fuel_consumption_combined_l100km": 6,
+                "fuel_consumption_city_l100km": 7.1,
+                "fuel_consumption_highway_l100km": 4.9
+              }
+            }
+          ]
+        },
+        {
+          "id": "renault_kangoo_4x4__kangoo_4x4_2001_2003_2001",
+          "name": "Kangoo II 2001-2003",
+          "ys": 2001,
+          "ye": 2003,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4049,
+            "width_mm": 1669,
+            "height_mm": 1890,
+            "wheelbase_mm": 2619,
+            "ground_clearance_mm": 200,
+            "fuel_tank_l": 50,
+            "curb_weight_kg": 1275,
+            "doors": 5,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "1.6L 5MT (95 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 95,
+                "power_kw": 70,
+                "torque_nm": 148,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 153,
+                "acceleration_0_100_s": 13.1,
+                "fuel_consumption_combined_l100km": 9.1,
+                "fuel_consumption_city_l100km": 10.8,
+                "fuel_consumption_highway_l100km": 7.3
+              }
+            },
+            {
+              "name": "1.9L 5MT (80 HP) AWD",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "common rail",
+                "displacement_cc": 1870,
+                "cylinders": 4,
+                "power_hp": 80,
+                "power_kw": 59,
+                "torque_nm": 180,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 142,
+                "acceleration_0_100_s": 16.2,
+                "fuel_consumption_combined_l100km": 7.8,
+                "fuel_consumption_city_l100km": 9.3,
+                "fuel_consumption_highway_l100km": 6.3
+              }
+            }
+          ]
+        },
+        {
+          "id": "renault_kangoo_2__kangoo_2008_2020_2008",
+          "name": "Kangoo III 2008-2020",
+          "ys": 2008,
+          "ye": 2020,
+          "body_type": "minivan",
+          "dimensions": {
+            "length_mm": 4213,
+            "width_mm": 1829,
+            "height_mm": 1844,
+            "wheelbase_mm": 2485,
+            "ground_clearance_mm": 160,
+            "trunk_volume_l": 3000,
+            "fuel_tank_l": 60,
+            "doors": 5,
+            "seats": 7,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 4674
+          },
+          "trims": [
+            {
+              "name": "1.1L 5MT (75 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1149,
+                "cylinders": 4,
+                "power_hp": 75,
+                "power_kw": 55,
+                "torque_nm": 105,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 154,
+                "acceleration_0_100_s": 14.2,
+                "fuel_consumption_combined_l100km": 7.5,
+                "fuel_consumption_city_l100km": 9,
+                "fuel_consumption_highway_l100km": 5.9
+              }
+            },
+            {
+              "name": "1.1L 5MT (58 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1149,
+                "cylinders": 4,
+                "power_hp": 58,
+                "power_kw": 43,
+                "torque_nm": 93,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 136,
+                "acceleration_0_100_s": 18.9,
+                "fuel_consumption_combined_l100km": 7.2,
+                "fuel_consumption_city_l100km": 8.3,
+                "fuel_consumption_highway_l100km": 6.1
+              }
+            },
+            {
+              "name": "1.6L 5MT (95 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 95,
+                "power_kw": 70,
+                "torque_nm": 148,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 170,
+                "acceleration_0_100_s": 10.7,
+                "fuel_consumption_combined_l100km": 8,
+                "fuel_consumption_city_l100km": 9.8,
+                "fuel_consumption_highway_l100km": 6.1
+              }
+            },
+            {
+              "name": "1.5L 5MT (65 HP)",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "common rail",
+                "displacement_cc": 1461,
+                "cylinders": 4,
+                "power_hp": 65,
+                "power_kw": 48,
+                "torque_nm": 160,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 146,
+                "acceleration_0_100_s": 16.3,
+                "fuel_consumption_combined_l100km": 5.7,
+                "fuel_consumption_city_l100km": 6.5,
+                "fuel_consumption_highway_l100km": 4.9
+              }
+            },
+            {
+              "name": "1.5L 5MT (82 HP)",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "common rail",
+                "displacement_cc": 1461,
+                "cylinders": 4,
+                "power_hp": 82,
+                "power_kw": 60,
+                "torque_nm": 184,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 155,
+                "acceleration_0_100_s": 12.5,
+                "fuel_consumption_combined_l100km": 5.5,
+                "fuel_consumption_city_l100km": 6.4,
+                "fuel_consumption_highway_l100km": 4.6
+              }
+            },
+            {
+              "name": "1.5L 5MT (82 HP) AWD",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "common rail",
+                "displacement_cc": 1461,
+                "cylinders": 4,
+                "power_hp": 82,
+                "power_kw": 60,
+                "torque_nm": 184,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 146,
+                "acceleration_0_100_s": 16.2,
+                "fuel_consumption_combined_l100km": 7.8,
+                "fuel_consumption_city_l100km": 9.3,
+                "fuel_consumption_highway_l100km": 6.3
+              }
+            },
+            {
+              "name": "1.6L 5MT (106 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 106,
+                "power_kw": 78,
+                "torque_nm": 148,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 170,
+                "acceleration_0_100_s": 13,
+                "fuel_consumption_combined_l100km": 8.4,
+                "fuel_consumption_city_l100km": 10.6,
+                "fuel_consumption_highway_l100km": 6.3
+              }
+            },
+            {
+              "name": "1.5L 5MT (103 HP)",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "common rail",
+                "displacement_cc": 1461,
+                "cylinders": 4,
+                "power_hp": 103,
+                "power_kw": 76,
+                "torque_nm": 240,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 169,
+                "acceleration_0_100_s": 13.2,
+                "fuel_consumption_combined_l100km": 5.8,
+                "fuel_consumption_city_l100km": 6.4,
+                "fuel_consumption_highway_l100km": 5.3
+              }
+            }
+          ]
+        },
+        {
+          "id": "renault_kangoo_2__grand_kangoo_iii_2024_2023",
+          "name": "Kangoo IV 2023-2023",
+          "ys": 2023,
+          "ye": 2023,
+          "body_type": "minivan",
+          "dimensions": {
+            "length_mm": 4911,
+            "width_mm": 1860,
+            "height_mm": 1869,
+            "wheelbase_mm": 4166,
+            "ground_clearance_mm": 160,
+            "trunk_volume_l": 500,
+            "trunk_volume_max_l": 500,
+            "fuel_tank_l": 54,
+            "curb_weight_kg": 1917,
+            "gross_weight_kg": 2550,
+            "doors": 5,
+            "seats": 7
+          },
+          "trims": [
+            {
+              "name": "1.3L 6MT (100 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "direct injection",
+                "displacement_cc": 1333,
+                "cylinders": 4,
+                "power_hp": 100,
+                "power_kw": 73,
+                "torque_nm": 200,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 167,
+                "acceleration_0_100_s": 14.5
+              }
+            },
+            {
+              "name": "1.3L 6MT (130 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "direct injection",
+                "displacement_cc": 1333,
+                "cylinders": 4,
+                "power_hp": 130,
+                "power_kw": 95,
+                "torque_nm": 240,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 183,
+                "acceleration_0_100_s": 12.8
+              }
+            },
+            {
+              "name": "1.5L 6MT (115 HP)",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "common rail",
+                "displacement_cc": 1461,
+                "cylinders": 4,
+                "power_hp": 115,
+                "power_kw": 84,
+                "torque_nm": 270,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 175,
+                "acceleration_0_100_s": 12
+              }
+            },
+            {
+              "name": "1.5L 6MT (75 HP)",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "common rail",
+                "displacement_cc": 1461,
+                "cylinders": 4,
+                "power_hp": 75,
+                "power_kw": 55,
+                "torque_nm": 230,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 151,
+                "acceleration_0_100_s": 19.2
+              }
+            },
+            {
+              "name": "1.5L 6MT (95 HP)",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "common rail",
+                "displacement_cc": 1461,
+                "cylinders": 4,
+                "power_hp": 95,
+                "power_kw": 69,
+                "torque_nm": 260,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 164,
+                "acceleration_0_100_s": 15.1
+              }
+            },
+            {
+              "name": "1.5L 6MT (101 HP)",
+              "engine": {
+                "type": "diesel",
+                "displacement_cc": 1461,
+                "cylinders": 4,
+                "power_hp": 101,
+                "power_kw": 74,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 167,
+                "acceleration_0_100_s": 14.5,
+                "fuel_consumption_combined_l100km": 5.3,
+                "co2_emissions_gkm": 138,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "EV 51 kW",
+              "engine": {
+                "type": "electric",
+                "power_hp": 69,
+                "power_kw": 51,
+                "fuel_type": "electric"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 167,
+                "acceleration_0_100_s": 14.5,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.3L 6MT (116 HP)",
+              "engine": {
+                "type": "lpg",
+                "displacement_cc": 1332,
+                "cylinders": 4,
+                "power_hp": 116,
+                "power_kw": 85,
+                "fuel_type": "lpg"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 167,
+                "acceleration_0_100_s": 14.5,
+                "fuel_consumption_combined_l100km": 6.9,
+                "co2_emissions_gkm": 155,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.3L 6MT (124 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1332,
+                "cylinders": 4,
+                "power_hp": 124,
+                "power_kw": 91,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 167,
+                "acceleration_0_100_s": 14.5,
+                "fuel_consumption_combined_l100km": 6.9,
+                "co2_emissions_gkm": 156,
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "renault_kaptur",
+      "name": "Kaptur",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "renault_kaptur__kaptur_facelift_2020_suv_2020",
+          "name": "Kaptur 2020-н.в.",
+          "ys": 2020,
+          "ye": null,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4333,
+            "width_mm": 1813,
+            "height_mm": 1613,
+            "wheelbase_mm": 2556,
+            "ground_clearance_mm": 204,
+            "trunk_volume_l": 387,
+            "trunk_volume_max_l": 387,
+            "fuel_tank_l": 50,
+            "curb_weight_kg": 1414,
+            "gross_weight_kg": 1883,
+            "doors": 5,
+            "seats": 5,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 5207
+          },
+          "trims": [
+            {
+              "name": "1.6L 5MT (114 HP)",
+              "engine": {
+                "code": "H4M",
+                "type": "petrol",
+                "aspiration": "na",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 114,
+                "power_kw": 84,
+                "torque_nm": 156,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 171,
+                "acceleration_0_100_s": 11.7,
+                "fuel_consumption_combined_l100km": 7.4
+              }
+            },
+            {
+              "name": "1.6L CVT (114 HP)",
+              "engine": {
+                "code": "H4M",
+                "type": "petrol",
+                "aspiration": "na",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 114,
+                "power_kw": 84,
+                "torque_nm": 156,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 169,
+                "acceleration_0_100_s": 12,
+                "fuel_consumption_combined_l100km": 7.8
+              }
+            },
+            {
+              "name": "1.3L CVT (150 HP) AWD",
+              "engine": {
+                "code": "H5Ht",
+                "type": "petrol",
+                "aspiration": "turbo",
+                "displacement_cc": 1333,
+                "cylinders": 4,
+                "power_hp": 150,
+                "power_kw": 110,
+                "torque_nm": 250,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 178,
+                "acceleration_0_100_s": 10.5,
+                "fuel_consumption_combined_l100km": 8
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "renault_koleos",
+      "name": "Koleos",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "renault_koleos__l_2013",
+          "name": "Koleos I 2013-2016",
+          "ys": 2013,
+          "ye": 2016,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4520,
+            "width_mm": 1855,
+            "height_mm": 1695,
+            "ground_clearance_mm": 200,
+            "trunk_volume_l": 450,
+            "trunk_volume_max_l": 450,
+            "curb_weight_kg": 1784,
+            "gross_weight_kg": 2300,
+            "doors": 5,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "2.0L AT (184 HP)",
+              "engine": {
+                "type": "diesel",
+                "displacement_cc": 1997,
+                "cylinders": 4,
+                "power_hp": 184,
+                "power_kw": 135,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "automatic"
+              },
+              "performance": {
+                "top_speed_kmh": 190,
+                "acceleration_0_100_s": 11.8,
+                "fuel_consumption_combined_l100km": 5.6,
+                "fuel_consumption_city_l100km": 6.2,
+                "fuel_consumption_highway_l100km": 5,
+                "co2_emissions_gkm": 177,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.3L AT (158 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1332,
+                "cylinders": 4,
+                "power_hp": 158,
+                "power_kw": 116,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic"
+              },
+              "performance": {
+                "top_speed_kmh": 190,
+                "acceleration_0_100_s": 11.8,
+                "fuel_consumption_combined_l100km": 5.6,
+                "fuel_consumption_city_l100km": 6.2,
+                "fuel_consumption_highway_l100km": 5,
+                "co2_emissions_gkm": 152,
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        },
+        {
+          "id": "renault_koleos__koleos_2016_2019_2016",
+          "name": "Koleos II 2016-2019",
+          "ys": 2016,
+          "ye": 2019,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4780,
+            "width_mm": 1843,
+            "height_mm": 1673,
+            "wheelbase_mm": 2820,
+            "ground_clearance_mm": 200,
+            "trunk_volume_l": 530,
+            "fuel_tank_l": 60,
+            "doors": 5,
+            "seats": 5,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 5334
+          },
+          "trims": [
+            {
+              "name": "2.5L 6MT (171 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 2488,
+                "power_hp": 171,
+                "power_kw": 125,
+                "torque_nm": 226,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 192,
+                "acceleration_0_100_s": 9,
+                "fuel_consumption_combined_l100km": 10.3,
+                "fuel_consumption_city_l100km": 12.9,
+                "fuel_consumption_highway_l100km": 7.7
+              }
+            },
+            {
+              "name": "2.5L CVT (171 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 2488,
+                "power_hp": 171,
+                "power_kw": 125,
+                "torque_nm": 226,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 185,
+                "acceleration_0_100_s": 10.3,
+                "fuel_consumption_combined_l100km": 10,
+                "fuel_consumption_city_l100km": 12,
+                "fuel_consumption_highway_l100km": 8
+              }
+            },
+            {
+              "name": "2.5L CVT (171 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 2488,
+                "power_hp": 171,
+                "power_kw": 125,
+                "torque_nm": 226,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 187,
+                "acceleration_0_100_s": 9.9,
+                "fuel_consumption_combined_l100km": 9.9,
+                "fuel_consumption_city_l100km": 11.8,
+                "fuel_consumption_highway_l100km": 7.9
+              }
+            },
+            {
+              "name": "2.0L 6MT (175 HP) AWD",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1995,
+                "cylinders": 4,
+                "power_hp": 175,
+                "power_kw": 128,
+                "torque_nm": 360,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 192,
+                "acceleration_0_100_s": 9.9,
+                "fuel_consumption_combined_l100km": 6.6,
+                "fuel_consumption_city_l100km": 7.5,
+                "fuel_consumption_highway_l100km": 5.7
+              }
+            },
+            {
+              "name": "2.0L 6MT (150 HP)",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1995,
+                "cylinders": 4,
+                "power_hp": 150,
+                "power_kw": 110,
+                "torque_nm": 320,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 183,
+                "acceleration_0_100_s": 10,
+                "fuel_consumption_combined_l100km": 6,
+                "fuel_consumption_city_l100km": 7,
+                "fuel_consumption_highway_l100km": 4.9
+              }
+            },
+            {
+              "name": "2.0L 6AT (175 HP)",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1995,
+                "cylinders": 4,
+                "power_hp": 175,
+                "power_kw": 128,
+                "torque_nm": 360,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 190,
+                "acceleration_0_100_s": 11.5,
+                "fuel_consumption_combined_l100km": 5.5,
+                "fuel_consumption_city_l100km": 6,
+                "fuel_consumption_highway_l100km": 4.9
+              }
+            },
+            {
+              "name": "2.0L CVT (144 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "direct injection",
+                "displacement_cc": 1997,
+                "cylinders": 4,
+                "power_hp": 144,
+                "power_kw": 105,
+                "torque_nm": 200,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 187,
+                "acceleration_0_100_s": 11.3,
+                "fuel_consumption_combined_l100km": 7.9,
+                "fuel_consumption_city_l100km": 9.4,
+                "fuel_consumption_highway_l100km": 6.4
+              }
+            },
+            {
+              "name": "1.6L AT (130 HP)",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 130,
+                "power_kw": 95,
+                "torque_nm": 320,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "automatic"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 166,
+                "acceleration_0_100_s": 13.3,
+                "fuel_consumption_combined_l100km": 4.7,
+                "fuel_consumption_city_l100km": 5.1,
+                "fuel_consumption_highway_l100km": 4.2
+              }
+            }
+          ]
+        },
+        {
+          "id": "renault__koleos__phase_2_2019",
+          "name": "Koleos III 2019-н.в.",
+          "ys": 2019,
+          "ye": null,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4673,
+            "width_mm": 1843,
+            "height_mm": 1672,
+            "wheelbase_mm": 2705,
+            "ground_clearance_mm": 175,
+            "trunk_volume_l": 493,
+            "fuel_tank_l": 60,
+            "curb_weight_kg": 1615,
+            "doors": 5,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "2.5L CVT (170 HP)",
+              "engine": {
+                "code": "PR25DD",
+                "type": "petrol",
+                "aspiration": "na",
+                "displacement_cc": 2488,
+                "cylinders": 4,
+                "power_hp": 170,
+                "power_kw": 126,
+                "torque_nm": 233,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 195,
+                "acceleration_0_100_s": 9.9,
+                "fuel_consumption_combined_l100km": 9.9,
+                "fuel_consumption_city_l100km": 11.8,
+                "fuel_consumption_highway_l100km": 7.9
+              }
+            },
+            {
+              "name": "2.5L CVT (170 HP) AWD",
+              "engine": {
+                "code": "PR25DD",
+                "type": "petrol",
+                "aspiration": "na",
+                "displacement_cc": 2488,
+                "cylinders": 4,
+                "power_hp": 170,
+                "power_kw": 126,
+                "torque_nm": 233,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 193,
+                "acceleration_0_100_s": 10.3,
+                "fuel_consumption_combined_l100km": 5.6,
+                "fuel_consumption_city_l100km": 6.2,
+                "fuel_consumption_highway_l100km": 5
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "renault_laguna",
+      "name": "Laguna",
+      "body_type": "hatchback",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "renault_laguna__laguna_1998_2001_1998",
+          "name": "Laguna I 1998-2001",
+          "ys": 1998,
+          "ye": 2001,
+          "body_type": "hatchback",
+          "dimensions": {
+            "length_mm": 4694,
+            "width_mm": 1811,
+            "height_mm": 1445,
+            "wheelbase_mm": 2756,
+            "curb_weight_kg": 1381
+          },
+          "trims": [
+            {
+              "name": "1.8L 5MT (95 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "monopoint injection",
+                "displacement_cc": 1783,
+                "cylinders": 4,
+                "power_hp": 95,
+                "power_kw": 70,
+                "torque_nm": 142,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 13.9,
+                "fuel_consumption_combined_l100km": 9.2,
+                "fuel_consumption_city_l100km": 11.5,
+                "fuel_consumption_highway_l100km": 6.9
+              }
+            },
+            {
+              "name": "1.9L 5MT (140 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1948,
+                "cylinders": 4,
+                "power_hp": 140,
+                "power_kw": 103,
+                "torque_nm": 182,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 205,
+                "acceleration_0_100_s": 9.8,
+                "fuel_consumption_combined_l100km": 8.2,
+                "fuel_consumption_city_l100km": 10.4,
+                "fuel_consumption_highway_l100km": 6.1
+              }
+            },
+            {
+              "name": "2.0L 5MT (115 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1998,
+                "cylinders": 4,
+                "power_hp": 115,
+                "power_kw": 85,
+                "torque_nm": 168,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 10.6,
+                "fuel_consumption_combined_l100km": 9.6,
+                "fuel_consumption_city_l100km": 12.2,
+                "fuel_consumption_highway_l100km": 7
+              }
+            },
+            {
+              "name": "2.9L 4AT (194 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 2946,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 194,
+                "power_kw": 143,
+                "torque_nm": 267,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 4
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 230,
+                "acceleration_0_100_s": 8.7,
+                "fuel_consumption_combined_l100km": 12.7,
+                "fuel_consumption_city_l100km": 17,
+                "fuel_consumption_highway_l100km": 8.3
+              }
+            },
+            {
+              "name": "3.0L 5MT (170 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 2963,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 170,
+                "power_kw": 125,
+                "torque_nm": 235,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 220,
+                "acceleration_0_100_s": 8.6,
+                "fuel_consumption_combined_l100km": 13.4,
+                "fuel_consumption_city_l100km": 17.7,
+                "fuel_consumption_highway_l100km": 9.1
+              }
+            },
+            {
+              "name": "2.2L 5MT (84 HP)",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "indirect injection",
+                "displacement_cc": 2188,
+                "power_hp": 84,
+                "power_kw": 62,
+                "torque_nm": 142,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 175,
+                "acceleration_0_100_s": 15.5,
+                "fuel_consumption_combined_l100km": 7.7,
+                "fuel_consumption_city_l100km": 9.5,
+                "fuel_consumption_highway_l100km": 5.8
+              }
+            },
+            {
+              "name": "2.2L 5MT (116 HP)",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "indirect injection",
+                "displacement_cc": 2188,
+                "cylinders": 4,
+                "power_hp": 116,
+                "power_kw": 85,
+                "torque_nm": 234,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 195,
+                "acceleration_0_100_s": 11.8,
+                "fuel_consumption_combined_l100km": 7.5,
+                "fuel_consumption_city_l100km": 9.8,
+                "fuel_consumption_highway_l100km": 5.2
+              }
+            },
+            {
+              "name": "1.9L 5MT (110 HP)",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "direct injection",
+                "displacement_cc": 1870,
+                "cylinders": 4,
+                "power_hp": 110,
+                "power_kw": 79,
+                "torque_nm": 249,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 190,
+                "acceleration_0_100_s": 11.8,
+                "fuel_consumption_combined_l100km": 6,
+                "fuel_consumption_city_l100km": 7.4,
+                "fuel_consumption_highway_l100km": 4.6
+              }
+            }
+          ]
+        },
+        {
+          "id": "renault_laguna__laguna_2010_2016_2010",
+          "name": "Laguna II 2010-2016",
+          "ys": 2010,
+          "ye": 2016,
+          "body_type": "hatchback",
+          "dimensions": {
+            "length_mm": 4803,
+            "width_mm": 1811,
+            "height_mm": 1445,
+            "wheelbase_mm": 3048,
+            "ground_clearance_mm": 155,
+            "trunk_volume_l": 508,
+            "trunk_volume_max_l": 508,
+            "curb_weight_kg": 1595,
+            "gross_weight_kg": 2107,
+            "doors": 5,
+            "seats": 5,
+            "fuel_tank_l": 65
+          },
+          "trims": [
+            {
+              "name": "2.0L 6AT (140 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1997,
+                "cylinders": 4,
+                "power_hp": 140,
+                "power_kw": 103,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 220,
+                "acceleration_0_100_s": 9.2,
+                "fuel_consumption_combined_l100km": 9.5,
+                "fuel_consumption_city_l100km": 12.5,
+                "fuel_consumption_highway_l100km": 6.5,
+                "co2_emissions_gkm": 112,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.6L 5MT (107 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 107,
+                "power_kw": 79,
+                "torque_nm": 148,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 195,
+                "acceleration_0_100_s": 11.5,
+                "fuel_consumption_combined_l100km": 7.8,
+                "fuel_consumption_city_l100km": 9.9,
+                "fuel_consumption_highway_l100km": 5.7
+              }
+            },
+            {
+              "name": "1.8L 5MT (121 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1783,
+                "cylinders": 4,
+                "power_hp": 121,
+                "power_kw": 89,
+                "torque_nm": 168,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 203,
+                "acceleration_0_100_s": 10.8,
+                "fuel_consumption_combined_l100km": 8.1,
+                "fuel_consumption_city_l100km": 10,
+                "fuel_consumption_highway_l100km": 6.1
+              }
+            },
+            {
+              "name": "2.0L 5MT (135 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multi point fuel injection",
+                "displacement_cc": 1998,
+                "cylinders": 4,
+                "power_hp": 135,
+                "power_kw": 99,
+                "torque_nm": 191,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 204,
+                "acceleration_0_100_s": 9.9,
+                "fuel_consumption_combined_l100km": 8.7,
+                "fuel_consumption_city_l100km": 11.1,
+                "fuel_consumption_highway_l100km": 6.2
+              }
+            },
+            {
+              "name": "2.0L 5MT (140 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "direct injection",
+                "displacement_cc": 1998,
+                "cylinders": 4,
+                "power_hp": 140,
+                "power_kw": 103,
+                "torque_nm": 200,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 210,
+                "acceleration_0_100_s": 9.8,
+                "fuel_consumption_combined_l100km": 8.2,
+                "fuel_consumption_city_l100km": 10.4,
+                "fuel_consumption_highway_l100km": 6.1
+              }
+            },
+            {
+              "name": "2.0L 6MT (163 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1998,
+                "cylinders": 4,
+                "power_hp": 163,
+                "power_kw": 120,
+                "torque_nm": 270,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 217,
+                "acceleration_0_100_s": 8.5,
+                "fuel_consumption_combined_l100km": 8.9,
+                "fuel_consumption_city_l100km": 11.4,
+                "fuel_consumption_highway_l100km": 6.4
+              }
+            },
+            {
+              "name": "2.9L 5AT (207 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 2946,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 207,
+                "power_kw": 152,
+                "torque_nm": 285,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 235,
+                "acceleration_0_100_s": 8.1,
+                "fuel_consumption_combined_l100km": 11.1,
+                "fuel_consumption_city_l100km": 14.9,
+                "fuel_consumption_highway_l100km": 7.3
+              }
+            },
+            {
+              "name": "1.9L 5MT (101 HP)",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "common rail",
+                "displacement_cc": 1870,
+                "cylinders": 4,
+                "power_hp": 101,
+                "power_kw": 74,
+                "torque_nm": 200,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 185,
+                "acceleration_0_100_s": 13,
+                "fuel_consumption_combined_l100km": 5.9,
+                "fuel_consumption_city_l100km": 7.2,
+                "fuel_consumption_highway_l100km": 4.6
+              }
+            },
+            {
+              "name": "1.9L 6MT (120 HP)",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "common rail",
+                "displacement_cc": 1870,
+                "cylinders": 4,
+                "power_hp": 120,
+                "power_kw": 88,
+                "torque_nm": 270,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 10.7,
+                "fuel_consumption_combined_l100km": 6,
+                "fuel_consumption_city_l100km": 7.2,
+                "fuel_consumption_highway_l100km": 4.8
+              }
+            },
+            {
+              "name": "2.2L 6MT (150 HP)",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "common rail",
+                "displacement_cc": 2188,
+                "power_hp": 150,
+                "power_kw": 110,
+                "torque_nm": 320,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 216,
+                "acceleration_0_100_s": 9.8,
+                "fuel_consumption_combined_l100km": 6.9,
+                "fuel_consumption_city_l100km": 8.6,
+                "fuel_consumption_highway_l100km": 5.3
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "renault_logan",
+      "name": "Logan",
+      "body_type": "sedan",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "renault_logan__logan_sedan_2005_2004",
+          "name": "Logan I 2004-2009",
+          "ys": 2004,
+          "ye": 2009,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 4250,
+            "width_mm": 1735,
+            "height_mm": 1525,
+            "ground_clearance_mm": 140,
+            "trunk_volume_l": 510,
+            "trunk_volume_max_l": 510,
+            "curb_weight_kg": 980,
+            "gross_weight_kg": 1540,
+            "doors": 4,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "1.0L 5MT (77 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 999,
+                "cylinders": 3,
+                "power_hp": 77,
+                "power_kw": 57,
+                "torque_nm": 100,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 159,
+                "acceleration_0_100_s": 14.2,
+                "fuel_consumption_combined_l100km": 6.2,
+                "fuel_consumption_city_l100km": 7.6,
+                "fuel_consumption_highway_l100km": 4.9
+              }
+            },
+            {
+              "name": "1.6L 5MT (98 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 98,
+                "power_kw": 72,
+                "torque_nm": 142,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 177,
+                "acceleration_0_100_s": 11.5
+              }
+            }
+          ]
+        },
+        {
+          "id": "renault__logan__b0_facelift_2018",
+          "name": "Logan II (B0) 2018-н.в.",
+          "ys": 2018,
+          "ye": null,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 4346,
+            "width_mm": 1762,
+            "height_mm": 1517,
+            "wheelbase_mm": 2634,
+            "ground_clearance_mm": 163,
+            "trunk_volume_l": 510,
+            "fuel_tank_l": 50,
+            "curb_weight_kg": 1069,
+            "doors": 4,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "1.6L 5MT (82 HP)",
+              "engine": {
+                "code": "K7M",
+                "type": "petrol",
+                "aspiration": "na",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 82,
+                "power_kw": 60,
+                "torque_nm": 134,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 163,
+                "acceleration_0_100_s": 13.2,
+                "fuel_consumption_combined_l100km": 6.2,
+                "fuel_consumption_city_l100km": 7.6,
+                "fuel_consumption_highway_l100km": 4.9
+              }
+            },
+            {
+              "name": "1.6L 5MT (113 HP)",
+              "engine": {
+                "code": "K4M",
+                "type": "petrol",
+                "aspiration": "na",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 113,
+                "power_kw": 83,
+                "torque_nm": 155,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 11,
+                "fuel_consumption_combined_l100km": 6.2,
+                "fuel_consumption_city_l100km": 7.6,
+                "fuel_consumption_highway_l100km": 4.9
+              }
+            },
+            {
+              "name": "1.6L 4AT (113 HP)",
+              "engine": {
+                "code": "K4M",
+                "type": "petrol",
+                "aspiration": "na",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 113,
+                "power_kw": 83,
+                "torque_nm": 155,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 4
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 176,
+                "acceleration_0_100_s": 11.8,
+                "fuel_consumption_combined_l100km": 6.2,
+                "fuel_consumption_city_l100km": 7.6,
+                "fuel_consumption_highway_l100km": 4.9
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "renault_master",
+      "name": "MASTER",
+      "body_type": "minivan",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "renaultcarpol_master__master_2024_2024",
+          "name": "MASTER 2023-2024",
+          "ys": 2023,
+          "ye": 2024,
+          "body_type": "minivan",
+          "dimensions": {
+            "curb_weight_kg": 2465
+          },
+          "trims": [
+            {
+              "name": "2.3L (147 HP)",
+              "engine": {
+                "type": "diesel",
+                "displacement_cc": 2299,
+                "power_hp": 147,
+                "power_kw": 108,
+                "fuel_type": "diesel"
+              },
+              "performance": {
+                "fuel_consumption_combined_l100km": 10.2,
+                "co2_emissions_gkm": 277,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "2.3L (150 HP)",
+              "engine": {
+                "type": "diesel",
+                "displacement_cc": 2299,
+                "power_hp": 150,
+                "power_kw": 110,
+                "fuel_type": "diesel"
+              },
+              "performance": {
+                "fuel_consumption_combined_l100km": 9.2,
+                "co2_emissions_gkm": 242,
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "renault_scenic",
+      "name": "Scenic",
+      "body_type": "minivan",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "renault_scenic_rx4__scenic_rx4_2000_2003_2000",
+          "name": "Scenic I 2000-2003",
+          "ys": 2000,
+          "ye": 2003,
+          "body_type": "minivan",
+          "dimensions": {
+            "length_mm": 4440,
+            "width_mm": 1781,
+            "height_mm": 1730,
+            "wheelbase_mm": 2619,
+            "fuel_tank_l": 60,
+            "curb_weight_kg": 1440
+          },
+          "trims": [
+            {
+              "name": "2.0L 5MT (140 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1998,
+                "cylinders": 4,
+                "power_hp": 140,
+                "power_kw": 103,
+                "torque_nm": 188,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 11.9,
+                "fuel_consumption_combined_l100km": 10,
+                "fuel_consumption_city_l100km": 11.8,
+                "fuel_consumption_highway_l100km": 8.2
+              }
+            },
+            {
+              "name": "1.9L 5MT (102 HP) AWD",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "direct injection",
+                "displacement_cc": 1870,
+                "cylinders": 4,
+                "power_hp": 102,
+                "power_kw": 75,
+                "torque_nm": 200,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 160,
+                "acceleration_0_100_s": 14.8,
+                "fuel_consumption_combined_l100km": 7.8,
+                "fuel_consumption_city_l100km": 8.9,
+                "fuel_consumption_highway_l100km": 6.6
+              }
+            }
+          ]
+        },
+        {
+          "id": "renault_scenic__scenic_2009_2013_2009",
+          "name": "Scenic II 2009-2016",
+          "ys": 2009,
+          "ye": 2016,
+          "body_type": "minivan",
+          "dimensions": {
+            "length_mm": 4366,
+            "width_mm": 1845,
+            "height_mm": 1640,
+            "ground_clearance_mm": 160,
+            "trunk_volume_l": 437,
+            "fuel_tank_l": 60,
+            "doors": 5,
+            "seats": 7
+          },
+          "trims": [
+            {
+              "name": "1.4L 5MT (95 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1390,
+                "cylinders": 4,
+                "power_hp": 95,
+                "power_kw": 70,
+                "torque_nm": 127,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 173,
+                "acceleration_0_100_s": 12.9,
+                "fuel_consumption_combined_l100km": 7.7,
+                "fuel_consumption_city_l100km": 9.7,
+                "fuel_consumption_highway_l100km": 5.7
+              }
+            },
+            {
+              "name": "1.6L 5MT (107 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1598,
+                "cylinders": 4,
+                "power_hp": 107,
+                "power_kw": 79,
+                "torque_nm": 148,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 185,
+                "acceleration_0_100_s": 11.2,
+                "fuel_consumption_combined_l100km": 7.8,
+                "fuel_consumption_city_l100km": 9.6,
+                "fuel_consumption_highway_l100km": 6
+              }
+            },
+            {
+              "name": "1.8L 5MT (116 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1783,
+                "cylinders": 4,
+                "power_hp": 116,
+                "power_kw": 85,
+                "torque_nm": 164,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 189,
+                "acceleration_0_100_s": 10.9,
+                "fuel_consumption_combined_l100km": 8.3,
+                "fuel_consumption_city_l100km": 10.4,
+                "fuel_consumption_highway_l100km": 6.3
+              }
+            },
+            {
+              "name": "2.0L 5MT (140 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1998,
+                "cylinders": 4,
+                "power_hp": 140,
+                "power_kw": 103,
+                "torque_nm": 189,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 196,
+                "acceleration_0_100_s": 10.2,
+                "fuel_consumption_combined_l100km": 8.6,
+                "fuel_consumption_city_l100km": 10.8,
+                "fuel_consumption_highway_l100km": 6.4
+              }
+            },
+            {
+              "name": "1.9L 5MT (64 HP)",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "indirect injection",
+                "displacement_cc": 1870,
+                "cylinders": 4,
+                "power_hp": 64,
+                "power_kw": 47,
+                "torque_nm": 120,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 160,
+                "acceleration_0_100_s": 18.9,
+                "fuel_consumption_combined_l100km": 7.3,
+                "fuel_consumption_city_l100km": 8.9,
+                "fuel_consumption_highway_l100km": 5.8
+              }
+            },
+            {
+              "name": "1.9L 5MT (102 HP)",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "direct injection",
+                "displacement_cc": 1870,
+                "cylinders": 4,
+                "power_hp": 102,
+                "power_kw": 75,
+                "torque_nm": 200,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 173,
+                "acceleration_0_100_s": 12.8,
+                "fuel_consumption_combined_l100km": 6.3,
+                "fuel_consumption_city_l100km": 7.7,
+                "fuel_consumption_highway_l100km": 4.9
+              }
+            },
+            {
+              "name": "1.9L 5MT (98 HP)",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "direct injection",
+                "displacement_cc": 1870,
+                "cylinders": 4,
+                "power_hp": 98,
+                "power_kw": 72,
+                "torque_nm": 200,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 174,
+                "acceleration_0_100_s": 12.7,
+                "fuel_consumption_combined_l100km": 6.3,
+                "fuel_consumption_city_l100km": 7.7,
+                "fuel_consumption_highway_l100km": 4.9
+              }
+            },
+            {
+              "name": "1.9L 5MT (80 HP)",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "direct injection",
+                "displacement_cc": 1870,
+                "cylinders": 4,
+                "power_hp": 80,
+                "power_kw": 59,
+                "torque_nm": 160,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 162,
+                "acceleration_0_100_s": 15.7,
+                "fuel_consumption_combined_l100km": 6,
+                "fuel_consumption_city_l100km": 7.3,
+                "fuel_consumption_highway_l100km": 4.8
+              }
+            },
+            {
+              "name": "1.2L 6MT (116 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1198,
+                "cylinders": 4,
+                "power_hp": 116,
+                "power_kw": 85,
+                "torque_nm": 190,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 11.7,
+                "fuel_consumption_combined_l100km": 6.2,
+                "fuel_consumption_city_l100km": 7.2,
+                "fuel_consumption_highway_l100km": 5.2
+              }
+            },
+            {
+              "name": "1.4L 6MT (131 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1397,
+                "cylinders": 4,
+                "power_hp": 131,
+                "power_kw": 96,
+                "torque_nm": 190,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 190,
+                "acceleration_0_100_s": 10.5,
+                "fuel_consumption_combined_l100km": 7.6,
+                "fuel_consumption_city_l100km": 9.4,
+                "fuel_consumption_highway_l100km": 5.8
+              }
+            }
+          ]
+        },
+        {
+          "id": "renault_scenic__l_2013",
+          "name": "Scenic III 2013-2016",
+          "ys": 2013,
+          "ye": 2016,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4372,
+            "width_mm": 1845,
+            "height_mm": 1640,
+            "ground_clearance_mm": 200,
+            "trunk_volume_l": 437,
+            "trunk_volume_max_l": 437,
+            "curb_weight_kg": 1506,
+            "gross_weight_kg": 2055,
+            "doors": 5,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "EV 157 kW",
+              "engine": {
+                "type": "electric",
+                "power_hp": 213,
+                "power_kw": 157,
+                "fuel_type": "electric"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 185,
+                "acceleration_0_100_s": 12.3,
+                "fuel_consumption_city_l100km": 7.2,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.3L 6MT (141 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1332,
+                "cylinders": 4,
+                "power_hp": 141,
+                "power_kw": 104,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 185,
+                "acceleration_0_100_s": 12.3,
+                "fuel_consumption_combined_l100km": 6.7,
+                "fuel_consumption_city_l100km": 7.2,
+                "co2_emissions_gkm": 151,
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        },
+        {
+          "id": "renault_scenic__scenic_iv_phase_ii_minivan_2020_2020",
+          "name": "Scenic IV 2020-2022",
+          "ys": 2020,
+          "ye": 2022,
+          "body_type": "minivan",
+          "dimensions": {
+            "length_mm": 4407,
+            "width_mm": 1866,
+            "height_mm": 1653,
+            "wheelbase_mm": 2600,
+            "ground_clearance_mm": 160,
+            "trunk_volume_l": 506,
+            "trunk_volume_max_l": 506,
+            "curb_weight_kg": 1450,
+            "gross_weight_kg": 2044,
+            "doors": 5,
+            "seats": 7,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 4318
+          },
+          "trims": [
+            {
+              "name": "EV 157 kW",
+              "engine": {
+                "type": "electric",
+                "power_hp": 213,
+                "power_kw": 157,
+                "fuel_type": "electric"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 185,
+                "acceleration_0_100_s": 12.3,
+                "fuel_consumption_city_l100km": 7.2,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.3L 6MT (141 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1332,
+                "cylinders": 4,
+                "power_hp": 141,
+                "power_kw": 104,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 185,
+                "acceleration_0_100_s": 12.3,
+                "fuel_consumption_combined_l100km": 6.7,
+                "fuel_consumption_city_l100km": 7.2,
+                "co2_emissions_gkm": 151,
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        },
+        {
+          "id": "renault_scenic__scenic_v_e_tech_electric_suv_2024_4400",
+          "name": "Scenic V 2024-н.в.",
+          "ys": 2024,
+          "ye": null,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4470,
+            "width_mm": 1864,
+            "height_mm": 1571,
+            "ground_clearance_mm": 200,
+            "trunk_volume_l": 545,
+            "trunk_volume_max_l": 545,
+            "curb_weight_kg": 1842,
+            "doors": 5,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "EV 157 kW",
+              "engine": {
+                "type": "electric",
+                "power_hp": 213,
+                "power_kw": 157,
+                "fuel_type": "electric"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 185,
+                "acceleration_0_100_s": 12.3,
+                "fuel_consumption_city_l100km": 7.2,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.3L 6MT (141 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1332,
+                "cylinders": 4,
+                "power_hp": 141,
+                "power_kw": 104,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 185,
+                "acceleration_0_100_s": 12.3,
+                "fuel_consumption_combined_l100km": 6.7,
+                "fuel_consumption_city_l100km": 7.2,
+                "co2_emissions_gkm": 151,
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "renault_duster",
+      "name": "Duster",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "renault_duster__stub",
+          "name": "Duster",
+          "body_type": "suv",
+          "dimensions": {},
+          "trims": []
+        }
+      ]
+    },
+    {
+      "id": "renault_sandero",
+      "name": "Sandero",
+      "body_type": "hatchback",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "renault_sandero__stub",
+          "name": "Sandero",
+          "body_type": "hatchback",
+          "dimensions": {},
+          "trims": []
+        }
+      ]
+    },
+    {
+      "id": "renault_clio",
+      "name": "Clio",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "renault_clio_2015",
+          "name": "Clio (актуальное)",
+          "ys": 2015,
+          "ye": 2026
+        },
+        {
+          "id": "renault_clio_1999",
+          "name": "Clio 1999-н.в.",
+          "ys": 1999,
+          "ye": 2026
+        }
+      ]
+    },
+    {
+      "id": "renault_k9k_1_5diesel",
+      "name": "K9k 1 5diesel",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "renault_k9k_1_5diesel_2015",
+          "name": "K9k 1 5diesel (актуальное)",
+          "ys": 2015,
+          "ye": 2026
+        }
+      ]
+    },
+    {
+      "id": "renault_megane",
+      "name": "Megane",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "renault_megane_2003",
+          "name": "Megane 2003-н.в.",
+          "ys": 2003,
+          "ye": 2026
+        },
+        {
+          "id": "renault_megane_2003",
+          "name": "Megane 2003-н.в.",
+          "ys": 2003,
+          "ye": 2026
+        },
+        {
+          "id": "renault_megane_2015",
+          "name": "Megane (актуальное)",
+          "ys": 2015,
+          "ye": 2026
+        },
+        {
+          "id": "renault_megane_1999",
+          "name": "Megane 1999-н.в.",
+          "ys": 1999,
+          "ye": 2026
+        },
+        {
+          "id": "renault_megane_1999",
+          "name": "Megane 1999-н.в.",
+          "ys": 1999,
+          "ye": 2026
+        }
+      ]
+    },
+    {
+      "id": "renault_symbol",
+      "name": "Symbol",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "renault_symbol_2008",
+          "name": "Symbol 2008-н.в.",
+          "ys": 2008,
+          "ye": 2026
+        }
+      ]
+    }
+  ]
+}

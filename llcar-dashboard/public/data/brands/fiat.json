@@ -1,1 +1,631 @@
-{"id":"fiat","name":"Fiat","name_ru":"Фиат","country":"IT","models":[{"id":"fiat_500","name":"500","body_type":"hatchback","powertrain":"ice","generations":[{"id":"fiat_500__500_2015_2015","name":"500 I 2015-2015","ys":2015,"ye":2015,"body_type":"hatchback","dimensions":{"length_mm":3617,"width_mm":1628,"height_mm":1527,"wheelbase_mm":2134,"ground_clearance_mm":145,"trunk_volume_l":198,"fuel_tank_l":34,"doors":5,"seats":5,"wheelbase_estimated":true,"wheelbase_mm_original_error":2896},"trims":[{"name":"0.9L 5MT (86 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":875,"cylinders":3,"power_hp":86,"power_kw":63,"torque_nm":145,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":172,"acceleration_0_100_s":11,"fuel_consumption_combined_l100km":4,"fuel_consumption_city_l100km":4.6,"fuel_consumption_highway_l100km":3.4}},{"name":"0.9L 6MT (105 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":875,"cylinders":3,"power_hp":105,"power_kw":77,"torque_nm":145,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":188,"acceleration_0_100_s":10,"fuel_consumption_combined_l100km":4.5,"fuel_consumption_city_l100km":5.5,"fuel_consumption_highway_l100km":3.5}},{"name":"1.2L 5AT (69 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1242,"cylinders":4,"power_hp":69,"power_kw":51,"torque_nm":102,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":159,"acceleration_0_100_s":12.9,"fuel_consumption_combined_l100km":5.3,"fuel_consumption_city_l100km":6.3,"fuel_consumption_highway_l100km":4.3}},{"name":"1.2L 5MT (69 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1242,"cylinders":4,"power_hp":69,"power_kw":51,"torque_nm":102,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":159,"acceleration_0_100_s":12.9,"fuel_consumption_combined_l100km":5.2,"fuel_consumption_city_l100km":6.2,"fuel_consumption_highway_l100km":4.2}},{"name":"1.4L 5MT (100 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1368,"cylinders":4,"power_hp":100,"power_kw":74,"torque_nm":132,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":182,"acceleration_0_100_s":10.5,"fuel_consumption_combined_l100km":6.4,"fuel_consumption_city_l100km":7.7,"fuel_consumption_highway_l100km":5.1}},{"name":"1.4L 6AT (101 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1368,"cylinders":4,"power_hp":101,"power_kw":74,"torque_nm":132,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":182,"acceleration_0_100_s":10.5,"fuel_consumption_combined_l100km":6.4,"fuel_consumption_city_l100km":7.7,"fuel_consumption_highway_l100km":5.1}},{"name":"1.4L 6MT (101 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1368,"cylinders":4,"power_hp":101,"power_kw":74,"torque_nm":132,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":182,"acceleration_0_100_s":10.5,"fuel_consumption_combined_l100km":6.7,"fuel_consumption_city_l100km":8.2,"fuel_consumption_highway_l100km":5.2}},{"name":"1.2L 5MT (75 HP)","engine":{"type":"diesel","aspiration":"turbocharged","displacement_cc":1248,"cylinders":4,"power_hp":75,"power_kw":55,"torque_nm":145,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":165,"acceleration_0_100_s":12.5,"fuel_consumption_combined_l100km":4.5,"fuel_consumption_city_l100km":5.3,"fuel_consumption_highway_l100km":3.6}},{"name":"1.2L 5MT (95 HP)","engine":{"type":"diesel","aspiration":"turbocharged","displacement_cc":1248,"cylinders":4,"power_hp":95,"power_kw":70,"torque_nm":201,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":10.7,"fuel_consumption_combined_l100km":3.5,"fuel_consumption_city_l100km":4.1,"fuel_consumption_highway_l100km":3}}]},{"id":"fiat_500__500_2018_2018","name":"500 II 2018-2025","ys":2018,"ye":2025,"body_type":"hatchback","dimensions":{"length_mm":3571,"width_mm":1628,"height_mm":1488,"wheelbase_mm":2301,"curb_weight_kg":1005},"trims":[{"name":"EV 78 kW","engine":{"type":"electric","power_hp":106,"power_kw":78,"fuel_type":"electric"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":172,"acceleration_0_100_s":11,"fuel_consumption_combined_l100km":4,"fuel_consumption_city_l100km":4.6,"fuel_consumption_highway_l100km":3.4,"fuel_consumption_standard":"WLTP"}},{"name":"1.0L 5MT (69 HP)","engine":{"type":"petrol","displacement_cc":999,"cylinders":3,"power_hp":69,"power_kw":51,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":172,"acceleration_0_100_s":11,"fuel_consumption_combined_l100km":4,"fuel_consumption_city_l100km":4.6,"fuel_consumption_highway_l100km":3.4,"co2_emissions_gkm":105,"fuel_consumption_standard":"WLTP"}},{"name":"EV 82 kW","engine":{"type":"electric","power_hp":111,"power_kw":82,"fuel_type":"electric"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":172,"acceleration_0_100_s":11,"fuel_consumption_combined_l100km":4,"fuel_consumption_city_l100km":4.6,"fuel_consumption_highway_l100km":3.4,"fuel_consumption_standard":"WLTP"}}]},{"id":"fiat_fiat_500__fiat_500_2023_2023","name":"500 III 2023-2024","ys":2023,"ye":2024,"body_type":"hatchback","dimensions":{"length_mm":3571,"width_mm":1628,"height_mm":1488,"wheelbase_mm":2301,"curb_weight_kg":1005},"trims":[{"name":"1.0L 5MT (71 HP)","engine":{"type":"diesel","displacement_cc":999,"cylinders":3,"power_hp":71,"power_kw":52,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":172,"acceleration_0_100_s":11,"fuel_consumption_combined_l100km":4,"fuel_consumption_city_l100km":4.6,"fuel_consumption_highway_l100km":3.4,"co2_emissions_gkm":105,"fuel_consumption_standard":"WLTP"}},{"name":"EV 43 kW","engine":{"type":"electric","power_hp":58,"power_kw":43,"fuel_type":"electric"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":172,"acceleration_0_100_s":11,"fuel_consumption_combined_l100km":4,"fuel_consumption_city_l100km":4.6,"fuel_consumption_highway_l100km":3.4,"fuel_consumption_standard":"WLTP"}},{"name":"1.2L 5MT (69 HP)","engine":{"type":"lpg","displacement_cc":1242,"cylinders":4,"power_hp":69,"power_kw":51,"fuel_type":"lpg"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":172,"acceleration_0_100_s":11,"fuel_consumption_combined_l100km":4,"fuel_consumption_city_l100km":4.6,"fuel_consumption_highway_l100km":3.4,"co2_emissions_gkm":114,"fuel_consumption_standard":"WLTP"}},{"name":"1.0L 5MT (69 HP) Hybrid","engine":{"type":"hybrid_petrol","displacement_cc":999,"cylinders":3,"power_hp":69,"power_kw":51,"fuel_type":"hybrid_petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":172,"acceleration_0_100_s":11,"fuel_consumption_combined_l100km":4,"fuel_consumption_city_l100km":4.6,"fuel_consumption_highway_l100km":3.4,"co2_emissions_gkm":107,"fuel_consumption_standard":"WLTP"}},{"name":"EV 87 kW","engine":{"type":"electric","power_hp":118,"power_kw":87,"fuel_type":"electric"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":172,"acceleration_0_100_s":11,"fuel_consumption_combined_l100km":4,"fuel_consumption_city_l100km":4.6,"fuel_consumption_highway_l100km":3.4,"fuel_consumption_standard":"WLTP"}}]}]},{"id":"fiat_ducato","name":"Ducato","body_type":"van","powertrain":"ice","generations":[{"id":"fiat_ducato__ducato_2023_2023","name":"Ducato 2023-2023","ys":2023,"ye":2023,"body_type":"van","dimensions":{"curb_weight_kg":2577},"trims":[{"name":"2.2L (166 HP)","engine":{"type":"diesel","displacement_cc":2184,"power_hp":166,"power_kw":122,"fuel_type":"diesel"},"performance":{"fuel_consumption_combined_l100km":7.3,"co2_emissions_gkm":230,"fuel_consumption_standard":"WLTP"}},{"name":"EV 205 kW","engine":{"type":"electric","power_hp":279,"power_kw":205,"fuel_type":"electric"},"performance":{"fuel_consumption_standard":"WLTP"}},{"name":"2.2L (144 HP)","engine":{"type":"diesel","displacement_cc":2184,"power_hp":144,"power_kw":106,"fuel_type":"diesel"},"performance":{"fuel_consumption_combined_l100km":9,"co2_emissions_gkm":238,"fuel_consumption_standard":"WLTP"}}]}]},{"id":"fiat_doblo","name":"Doblo","body_type":"minivan","powertrain":"ice","generations":[{"id":"fiat_doblo__stub","name":"Doblo","body_type":"minivan","dimensions":{},"trims":[]}]},{"id":"fiat_grande_punto","name":"Grande Punto","body_type":"hatchback","powertrain":"ice","generations":[{"id":"fiat_grande_punto__stub","name":"Grande Punto","body_type":"hatchback","dimensions":{},"trims":[]}]}]}
+{
+  "id": "fiat",
+  "name": "Fiat",
+  "name_ru": "Фиат",
+  "country": "IT",
+  "models": [
+    {
+      "id": "fiat_500",
+      "name": "500",
+      "body_type": "hatchback",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "fiat_500__500_2015_2015",
+          "name": "500 I 2015-2015",
+          "ys": 2015,
+          "ye": 2015,
+          "body_type": "hatchback",
+          "dimensions": {
+            "length_mm": 3617,
+            "width_mm": 1628,
+            "height_mm": 1527,
+            "wheelbase_mm": 2134,
+            "ground_clearance_mm": 145,
+            "trunk_volume_l": 198,
+            "fuel_tank_l": 34,
+            "doors": 5,
+            "seats": 5,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 2896
+          },
+          "trims": [
+            {
+              "name": "0.9L 5MT (86 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 875,
+                "cylinders": 3,
+                "power_hp": 86,
+                "power_kw": 63,
+                "torque_nm": 145,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 172,
+                "acceleration_0_100_s": 11,
+                "fuel_consumption_combined_l100km": 4,
+                "fuel_consumption_city_l100km": 4.6,
+                "fuel_consumption_highway_l100km": 3.4
+              }
+            },
+            {
+              "name": "0.9L 6MT (105 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 875,
+                "cylinders": 3,
+                "power_hp": 105,
+                "power_kw": 77,
+                "torque_nm": 145,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 188,
+                "acceleration_0_100_s": 10,
+                "fuel_consumption_combined_l100km": 4.5,
+                "fuel_consumption_city_l100km": 5.5,
+                "fuel_consumption_highway_l100km": 3.5
+              }
+            },
+            {
+              "name": "1.2L 5AT (69 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1242,
+                "cylinders": 4,
+                "power_hp": 69,
+                "power_kw": 51,
+                "torque_nm": 102,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 159,
+                "acceleration_0_100_s": 12.9,
+                "fuel_consumption_combined_l100km": 5.3,
+                "fuel_consumption_city_l100km": 6.3,
+                "fuel_consumption_highway_l100km": 4.3
+              }
+            },
+            {
+              "name": "1.2L 5MT (69 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1242,
+                "cylinders": 4,
+                "power_hp": 69,
+                "power_kw": 51,
+                "torque_nm": 102,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 159,
+                "acceleration_0_100_s": 12.9,
+                "fuel_consumption_combined_l100km": 5.2,
+                "fuel_consumption_city_l100km": 6.2,
+                "fuel_consumption_highway_l100km": 4.2
+              }
+            },
+            {
+              "name": "1.4L 5MT (100 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1368,
+                "cylinders": 4,
+                "power_hp": 100,
+                "power_kw": 74,
+                "torque_nm": 132,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 182,
+                "acceleration_0_100_s": 10.5,
+                "fuel_consumption_combined_l100km": 6.4,
+                "fuel_consumption_city_l100km": 7.7,
+                "fuel_consumption_highway_l100km": 5.1
+              }
+            },
+            {
+              "name": "1.4L 6AT (101 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1368,
+                "cylinders": 4,
+                "power_hp": 101,
+                "power_kw": 74,
+                "torque_nm": 132,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 182,
+                "acceleration_0_100_s": 10.5,
+                "fuel_consumption_combined_l100km": 6.4,
+                "fuel_consumption_city_l100km": 7.7,
+                "fuel_consumption_highway_l100km": 5.1
+              }
+            },
+            {
+              "name": "1.4L 6MT (101 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1368,
+                "cylinders": 4,
+                "power_hp": 101,
+                "power_kw": 74,
+                "torque_nm": 132,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 182,
+                "acceleration_0_100_s": 10.5,
+                "fuel_consumption_combined_l100km": 6.7,
+                "fuel_consumption_city_l100km": 8.2,
+                "fuel_consumption_highway_l100km": 5.2
+              }
+            },
+            {
+              "name": "1.2L 5MT (75 HP)",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1248,
+                "cylinders": 4,
+                "power_hp": 75,
+                "power_kw": 55,
+                "torque_nm": 145,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 165,
+                "acceleration_0_100_s": 12.5,
+                "fuel_consumption_combined_l100km": 4.5,
+                "fuel_consumption_city_l100km": 5.3,
+                "fuel_consumption_highway_l100km": 3.6
+              }
+            },
+            {
+              "name": "1.2L 5MT (95 HP)",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1248,
+                "cylinders": 4,
+                "power_hp": 95,
+                "power_kw": 70,
+                "torque_nm": 201,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 10.7,
+                "fuel_consumption_combined_l100km": 3.5,
+                "fuel_consumption_city_l100km": 4.1,
+                "fuel_consumption_highway_l100km": 3
+              }
+            }
+          ]
+        },
+        {
+          "id": "fiat_500__500_2018_2018",
+          "name": "500 II 2018-2025",
+          "ys": 2018,
+          "ye": 2025,
+          "body_type": "hatchback",
+          "dimensions": {
+            "length_mm": 3571,
+            "width_mm": 1628,
+            "height_mm": 1488,
+            "wheelbase_mm": 2301,
+            "curb_weight_kg": 1005
+          },
+          "trims": [
+            {
+              "name": "EV 78 kW",
+              "engine": {
+                "type": "electric",
+                "power_hp": 106,
+                "power_kw": 78,
+                "fuel_type": "electric"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 172,
+                "acceleration_0_100_s": 11,
+                "fuel_consumption_combined_l100km": 4,
+                "fuel_consumption_city_l100km": 4.6,
+                "fuel_consumption_highway_l100km": 3.4,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.0L 5MT (69 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 999,
+                "cylinders": 3,
+                "power_hp": 69,
+                "power_kw": 51,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 172,
+                "acceleration_0_100_s": 11,
+                "fuel_consumption_combined_l100km": 4,
+                "fuel_consumption_city_l100km": 4.6,
+                "fuel_consumption_highway_l100km": 3.4,
+                "co2_emissions_gkm": 105,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "EV 82 kW",
+              "engine": {
+                "type": "electric",
+                "power_hp": 111,
+                "power_kw": 82,
+                "fuel_type": "electric"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 172,
+                "acceleration_0_100_s": 11,
+                "fuel_consumption_combined_l100km": 4,
+                "fuel_consumption_city_l100km": 4.6,
+                "fuel_consumption_highway_l100km": 3.4,
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        },
+        {
+          "id": "fiat_fiat_500__fiat_500_2023_2023",
+          "name": "500 III 2023-2024",
+          "ys": 2023,
+          "ye": 2024,
+          "body_type": "hatchback",
+          "dimensions": {
+            "length_mm": 3571,
+            "width_mm": 1628,
+            "height_mm": 1488,
+            "wheelbase_mm": 2301,
+            "curb_weight_kg": 1005
+          },
+          "trims": [
+            {
+              "name": "1.0L 5MT (71 HP)",
+              "engine": {
+                "type": "diesel",
+                "displacement_cc": 999,
+                "cylinders": 3,
+                "power_hp": 71,
+                "power_kw": 52,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 172,
+                "acceleration_0_100_s": 11,
+                "fuel_consumption_combined_l100km": 4,
+                "fuel_consumption_city_l100km": 4.6,
+                "fuel_consumption_highway_l100km": 3.4,
+                "co2_emissions_gkm": 105,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "EV 43 kW",
+              "engine": {
+                "type": "electric",
+                "power_hp": 58,
+                "power_kw": 43,
+                "fuel_type": "electric"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 172,
+                "acceleration_0_100_s": 11,
+                "fuel_consumption_combined_l100km": 4,
+                "fuel_consumption_city_l100km": 4.6,
+                "fuel_consumption_highway_l100km": 3.4,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.2L 5MT (69 HP)",
+              "engine": {
+                "type": "lpg",
+                "displacement_cc": 1242,
+                "cylinders": 4,
+                "power_hp": 69,
+                "power_kw": 51,
+                "fuel_type": "lpg"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 172,
+                "acceleration_0_100_s": 11,
+                "fuel_consumption_combined_l100km": 4,
+                "fuel_consumption_city_l100km": 4.6,
+                "fuel_consumption_highway_l100km": 3.4,
+                "co2_emissions_gkm": 114,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.0L 5MT (69 HP) Hybrid",
+              "engine": {
+                "type": "hybrid_petrol",
+                "displacement_cc": 999,
+                "cylinders": 3,
+                "power_hp": 69,
+                "power_kw": 51,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 172,
+                "acceleration_0_100_s": 11,
+                "fuel_consumption_combined_l100km": 4,
+                "fuel_consumption_city_l100km": 4.6,
+                "fuel_consumption_highway_l100km": 3.4,
+                "co2_emissions_gkm": 107,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "EV 87 kW",
+              "engine": {
+                "type": "electric",
+                "power_hp": 118,
+                "power_kw": 87,
+                "fuel_type": "electric"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 172,
+                "acceleration_0_100_s": 11,
+                "fuel_consumption_combined_l100km": 4,
+                "fuel_consumption_city_l100km": 4.6,
+                "fuel_consumption_highway_l100km": 3.4,
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fiat_ducato",
+      "name": "Ducato",
+      "body_type": "van",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "fiat_ducato__ducato_2023_2023",
+          "name": "Ducato 2023-2023",
+          "ys": 2023,
+          "ye": 2023,
+          "body_type": "van",
+          "dimensions": {
+            "curb_weight_kg": 2577
+          },
+          "trims": [
+            {
+              "name": "2.2L (166 HP)",
+              "engine": {
+                "type": "diesel",
+                "displacement_cc": 2184,
+                "power_hp": 166,
+                "power_kw": 122,
+                "fuel_type": "diesel"
+              },
+              "performance": {
+                "fuel_consumption_combined_l100km": 7.3,
+                "co2_emissions_gkm": 230,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "EV 205 kW",
+              "engine": {
+                "type": "electric",
+                "power_hp": 279,
+                "power_kw": 205,
+                "fuel_type": "electric"
+              },
+              "performance": {
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "2.2L (144 HP)",
+              "engine": {
+                "type": "diesel",
+                "displacement_cc": 2184,
+                "power_hp": 144,
+                "power_kw": 106,
+                "fuel_type": "diesel"
+              },
+              "performance": {
+                "fuel_consumption_combined_l100km": 9,
+                "co2_emissions_gkm": 238,
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fiat_doblo",
+      "name": "Doblo",
+      "body_type": "minivan",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "fiat_doblo__stub",
+          "name": "Doblo",
+          "body_type": "minivan",
+          "dimensions": {},
+          "trims": []
+        }
+      ]
+    },
+    {
+      "id": "fiat_grande_punto",
+      "name": "Grande Punto",
+      "body_type": "hatchback",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "fiat_grande_punto__stub",
+          "name": "Grande Punto",
+          "body_type": "hatchback",
+          "dimensions": {},
+          "trims": []
+        }
+      ]
+    },
+    {
+      "id": "fiat_bravo",
+      "name": "Bravo",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "fiat_bravo_2007",
+          "name": "Bravo 2007-н.в.",
+          "ys": 2007,
+          "ye": 2026
+        }
+      ]
+    },
+    {
+      "id": "fiat_ocr",
+      "name": "Ocr",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "fiat_ocr_2007",
+          "name": "Ocr 2007-н.в.",
+          "ys": 2007,
+          "ye": 2026
+        }
+      ]
+    },
+    {
+      "id": "fiat_palio",
+      "name": "Palio",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "fiat_palio_2005",
+          "name": "Palio 2005-н.в.",
+          "ys": 2005,
+          "ye": 2026
+        }
+      ]
+    },
+    {
+      "id": "fiat_tipo",
+      "name": "Tipo",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "fiat_tipo_2015",
+          "name": "Tipo 2015-н.в.",
+          "ys": 2015,
+          "ye": 2026
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,1530 @@
-{"id":"suzuki","name":"Suzuki","name_ru":"Сузуки","country":"JP","models":[{"id":"suzuki_sx4","name":"SX4","body_type":"suv","powertrain":"ice","generations":[{"id":"suzuki_sx4__sx4_2013_2016_2013","name":"SX4 I 2013-2016","ys":2013,"ye":2016,"body_type":"suv","dimensions":{"length_mm":4300,"width_mm":1765,"height_mm":1575,"wheelbase_mm":2601,"fuel_tank_l":46,"curb_weight_kg":1245},"trims":[{"name":"1.5L 5MT (111 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1490,"cylinders":4,"power_hp":111,"power_kw":82,"torque_nm":145,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":11,"fuel_consumption_combined_l100km":6.4,"fuel_consumption_city_l100km":7.8,"fuel_consumption_highway_l100km":5.1}},{"name":"1.5L 5MT (98 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1490,"cylinders":4,"power_hp":98,"power_kw":72,"torque_nm":133,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":174,"acceleration_0_100_s":11,"fuel_consumption_combined_l100km":7.1,"fuel_consumption_city_l100km":8.5,"fuel_consumption_highway_l100km":5.7}},{"name":"1.6L 4AT (120 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1586,"cylinders":4,"power_hp":120,"power_kw":88,"torque_nm":156,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":4},"drivetrain":"fwd","performance":{"top_speed_kmh":175,"acceleration_0_100_s":12.3,"fuel_consumption_combined_l100km":7.5,"fuel_consumption_city_l100km":9.2,"fuel_consumption_highway_l100km":5.9}},{"name":"1.6L 5MT (107 HP) AWD","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1586,"cylinders":4,"power_hp":107,"power_kw":79,"torque_nm":145,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"awd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":10.7,"fuel_consumption_combined_l100km":7.7,"fuel_consumption_city_l100km":8.9,"fuel_consumption_highway_l100km":6.5}},{"name":"1.6L 5MT (120 HP) AWD","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1586,"cylinders":4,"power_hp":120,"power_kw":88,"torque_nm":156,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"awd","performance":{"top_speed_kmh":175,"acceleration_0_100_s":11.5,"fuel_consumption_combined_l100km":5.9,"fuel_consumption_city_l100km":6.8,"fuel_consumption_highway_l100km":5}},{"name":"1.6L 5MT (107 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1586,"cylinders":4,"power_hp":107,"power_kw":79,"torque_nm":145,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":10.7,"fuel_consumption_combined_l100km":7.2,"fuel_consumption_city_l100km":8.5,"fuel_consumption_highway_l100km":5.8}},{"name":"1.6L 5MT (120 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1586,"cylinders":4,"power_hp":120,"power_kw":88,"torque_nm":156,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":185,"acceleration_0_100_s":10.7,"fuel_consumption_combined_l100km":5.7,"fuel_consumption_city_l100km":6.6,"fuel_consumption_highway_l100km":4.8}},{"name":"2.0L 4AT (143 HP) AWD","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1995,"cylinders":4,"power_hp":143,"power_kw":105,"torque_nm":184,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":4},"drivetrain":"awd","performance":{"fuel_consumption_combined_l100km":8.8,"fuel_consumption_city_l100km":9.8,"fuel_consumption_highway_l100km":7.8,"power_hp":143,"power_kw":105}},{"name":"2.0L 5MT (143 HP) AWD","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1995,"cylinders":4,"power_hp":143,"power_kw":105,"torque_nm":184,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"awd","performance":{"fuel_consumption_combined_l100km":8.9,"fuel_consumption_city_l100km":9.8,"fuel_consumption_highway_l100km":8.1,"power_hp":143,"power_kw":105}},{"name":"1.6L 5MT (90 HP)","engine":{"type":"diesel","aspiration":"common rail","displacement_cc":1560,"cylinders":4,"power_hp":90,"power_kw":66,"torque_nm":216,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":175,"acceleration_0_100_s":12.2,"fuel_consumption_combined_l100km":5.1,"fuel_consumption_city_l100km":5.9,"fuel_consumption_highway_l100km":4.3}}]},{"id":"suzuki_sx4__sx4_2023_2023","name":"SX4 II 2023-2024","ys":2023,"ye":2024,"body_type":"suv","dimensions":{"length_mm":4300,"width_mm":1765,"height_mm":1575,"wheelbase_mm":2601,"curb_weight_kg":1245},"trims":[{"name":"1.4L 5MT (129 HP)","engine":{"type":"petrol","displacement_cc":1373,"cylinders":4,"power_hp":129,"power_kw":95,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":175,"acceleration_0_100_s":12,"fuel_consumption_combined_l100km":5.9,"fuel_consumption_city_l100km":6.8,"fuel_consumption_highway_l100km":5,"co2_emissions_gkm":124,"fuel_consumption_standard":"WLTP"}},{"name":"1.4L 5MT (121 HP)","engine":{"type":"petrol","displacement_cc":1395,"cylinders":4,"power_hp":121,"power_kw":89,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":175,"acceleration_0_100_s":12,"fuel_consumption_combined_l100km":5.9,"fuel_consumption_city_l100km":6.8,"fuel_consumption_highway_l100km":5,"co2_emissions_gkm":126,"fuel_consumption_standard":"WLTP"}},{"name":"1.4L 5MT (122 HP)","engine":{"type":"petrol","displacement_cc":1385,"cylinders":4,"power_hp":122,"power_kw":90,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":175,"acceleration_0_100_s":12,"fuel_consumption_combined_l100km":5.9,"fuel_consumption_city_l100km":6.8,"fuel_consumption_highway_l100km":5,"co2_emissions_gkm":127,"fuel_consumption_standard":"WLTP"}},{"name":"1.4L 5MT (137 HP) Hybrid","engine":{"type":"hybrid_petrol","displacement_cc":1373,"cylinders":4,"power_hp":137,"power_kw":101,"fuel_type":"hybrid_petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":175,"acceleration_0_100_s":12,"fuel_consumption_combined_l100km":5.9,"fuel_consumption_city_l100km":6.8,"fuel_consumption_highway_l100km":5,"co2_emissions_gkm":125,"fuel_consumption_standard":"WLTP"}},{"name":"1.6L 5MT (107 HP)","engine":{"type":"petrol","displacement_cc":1586,"cylinders":4,"power_hp":107,"power_kw":79,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":175,"acceleration_0_100_s":12,"fuel_consumption_combined_l100km":5.9,"fuel_consumption_city_l100km":6.8,"fuel_consumption_highway_l100km":5,"fuel_consumption_standard":"WLTP"}},{"name":"1.4L 5MT (128 HP)","engine":{"type":"petrol","displacement_cc":1377,"cylinders":4,"power_hp":128,"power_kw":94,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":175,"acceleration_0_100_s":12,"fuel_consumption_combined_l100km":5.9,"fuel_consumption_city_l100km":6.8,"fuel_consumption_highway_l100km":5,"co2_emissions_gkm":127,"fuel_consumption_standard":"WLTP"}},{"name":"1.4L 5MT (125 HP)","engine":{"type":"petrol","displacement_cc":1382,"cylinders":4,"power_hp":125,"power_kw":92,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":175,"acceleration_0_100_s":12,"fuel_consumption_combined_l100km":5.9,"fuel_consumption_city_l100km":6.8,"fuel_consumption_highway_l100km":5,"co2_emissions_gkm":119,"fuel_consumption_standard":"WLTP"}},{"name":"1.5L 5MT (102 HP)","engine":{"type":"petrol","displacement_cc":1462,"cylinders":4,"power_hp":102,"power_kw":75,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":175,"acceleration_0_100_s":12,"fuel_consumption_combined_l100km":5.9,"fuel_consumption_city_l100km":6.8,"fuel_consumption_highway_l100km":5,"co2_emissions_gkm":90,"fuel_consumption_standard":"WLTP"}}]}]},{"id":"suzuki_swift","name":"SWIFT","body_type":"hatchback","powertrain":"ice","generations":[{"id":"suzuki_swift_sedan__swift_sedan_1991_1996_1991","name":"SWIFT I 1991-1996","ys":1991,"ye":1996,"body_type":"sedan","dimensions":{"length_mm":4100,"width_mm":1580,"height_mm":1379,"wheelbase_mm":2360,"ground_clearance_mm":140,"fuel_tank_l":40,"curb_weight_kg":800,"doors":4,"seats":5},"trims":[{"name":"1.3L 5MT (68 HP)","engine":{"type":"petrol","aspiration":"monopoint injection","displacement_cc":1298,"cylinders":4,"power_hp":68,"power_kw":50,"torque_nm":99,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":266,"acceleration_0_100_s":13}},{"name":"1.6L 5MT (92 HP)","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1590,"cylinders":4,"power_hp":92,"power_kw":68,"torque_nm":130,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":11}}]},{"id":"suzuki__swift__swift_vi_2017_2017","name":"SWIFT II 2017-н.в.","ys":2017,"ye":null,"body_type":"hatchback","dimensions":{"fuel_tank_l":37,"length_mm":3840,"width_mm":1735,"height_mm":1495,"wheelbase_mm":2450,"ground_clearance_mm":145,"trunk_volume_l":265,"curb_weight_kg":920,"doors":5,"seats":5},"trims":[{"name":"1.4L 6MT (140 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1373,"cylinders":4,"power_hp":140,"power_kw":103,"torque_nm":230,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"power_hp":140,"power_kw":103}},{"name":"1.4L 6MT (129 HP) Hybrid","engine":{"type":"hybrid_petrol","aspiration":"turbocharged","displacement_cc":1373,"cylinders":4,"power_hp":129,"power_kw":94,"torque_nm":235,"fuel_type":"hybrid_petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":209,"acceleration_0_100_s":9.1}},{"name":"1.2L CVT (90 HP)","engine":{"code":"K12C","type":"petrol","aspiration":"NA","displacement_cc":1197,"cylinders":4,"power_hp":90,"power_kw":66,"torque_nm":120,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"top_speed_kmh":170,"acceleration_0_100_s":12,"fuel_consumption_combined_l100km":5}},{"name":"1.0L 6AT (111 HP)","engine":{"code":"K10C","type":"petrol","aspiration":"turbocharged","displacement_cc":998,"cylinders":3,"power_hp":111,"power_kw":82,"torque_nm":170,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":195,"acceleration_0_100_s":9.9,"fuel_consumption_combined_l100km":5.1}},{"name":"1.2L 5MT (83 HP) MHEV","engine":{"type":"mild_hybrid_petrol","displacement_cc":1197,"power_hp":83,"torque_nm":112,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"power_hp":83,"acceleration_0_100_s":12.2}},{"name":"1.2L CVT (83 HP) MHEV","engine":{"type":"mild_hybrid_petrol","displacement_cc":1197,"power_hp":83,"torque_nm":112,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"power_hp":83,"acceleration_0_100_s":12.2}},{"name":"1.2L CVT (83 HP) MHEV AWD","engine":{"type":"mild_hybrid_petrol","displacement_cc":1197,"power_hp":83,"torque_nm":112,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"awd","performance":{"power_hp":83}}]},{"id":"suzuki_swift_2__swift_vi_facelift_2020_hatchback_2021_2020","name":"SWIFT III 2020-2023","ys":2020,"ye":2023,"body_type":"hatchback","dimensions":{"length_mm":3860,"width_mm":1735,"height_mm":1520,"wheelbase_mm":2277,"ground_clearance_mm":145,"trunk_volume_l":265,"trunk_volume_max_l":265,"curb_weight_kg":975,"gross_weight_kg":1445,"doors":5,"seats":5,"wheelbase_estimated":true,"wheelbase_mm_original_error":3048},"trims":[{"name":"1.2L (88 HP)","engine":{"type":"petrol","displacement_cc":1222,"cylinders":4,"power_hp":88,"power_kw":65,"fuel_type":"petrol"},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":7.3,"co2_emissions_gkm":89,"fuel_consumption_standard":"WLTP"}}]},{"id":"suzuki_swift__swift_2023_2023","name":"SWIFT IV 2023-2024","ys":2023,"ye":2024,"body_type":"hatchback","dimensions":{"length_mm":3860,"width_mm":1695,"height_mm":1525,"ground_clearance_mm":145,"trunk_volume_l":265,"curb_weight_kg":999,"doors":5,"seats":5},"trims":[{"name":"EV 61 kW","engine":{"type":"electric","power_hp":83,"power_kw":61,"fuel_type":"electric"},"drivetrain":"fwd","performance":{"fuel_consumption_standard":"WLTP"}},{"name":"1.2L (83 HP)","engine":{"type":"petrol","displacement_cc":1203,"cylinders":4,"power_hp":83,"power_kw":61,"fuel_type":"petrol"},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":4.7,"co2_emissions_gkm":105,"fuel_consumption_standard":"WLTP"}},{"name":"1.2L (82 HP) Hybrid","engine":{"type":"hybrid_petrol","displacement_cc":1200,"cylinders":4,"power_hp":82,"power_kw":60,"fuel_type":"hybrid_petrol"},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":4.6,"co2_emissions_gkm":102,"fuel_consumption_standard":"WLTP"}},{"name":"1.2L (87 HP)","engine":{"type":"petrol","displacement_cc":1219,"cylinders":4,"power_hp":87,"power_kw":64,"fuel_type":"petrol"},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":5,"co2_emissions_gkm":112,"fuel_consumption_standard":"WLTP"}},{"name":"1.4L (129 HP)","engine":{"type":"petrol","displacement_cc":1373,"cylinders":4,"power_hp":129,"power_kw":95,"fuel_type":"petrol"},"drivetrain":"fwd","performance":{"fuel_consumption_standard":"WLTP"}},{"name":"1.6L (136 HP)","engine":{"type":"petrol","displacement_cc":1586,"cylinders":4,"power_hp":136,"power_kw":100,"fuel_type":"petrol"},"drivetrain":"fwd","performance":{"fuel_consumption_standard":"WLTP"}},{"name":"1.3L (98 HP)","engine":{"type":"petrol","displacement_cc":1255,"cylinders":4,"power_hp":98,"power_kw":72,"fuel_type":"petrol"},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":5.1,"co2_emissions_gkm":115,"fuel_consumption_standard":"WLTP"}},{"name":"1.2L (88 HP)","engine":{"type":"petrol","displacement_cc":1222,"cylinders":4,"power_hp":88,"power_kw":65,"fuel_type":"petrol"},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":7.3,"co2_emissions_gkm":89,"fuel_consumption_standard":"WLTP"}}]}]},{"id":"suzuki_vitara","name":"Vitara","body_type":"suv","powertrain":"ice","generations":[{"id":"suzuki_vitara_vietnam__vitara_vietnam_1991_1994_1991","name":"Vitara I 1991-1994","ys":1991,"ye":1994,"body_type":"suv","dimensions":{"length_mm":4028,"width_mm":1636,"height_mm":1702,"wheelbase_mm":2479,"fuel_tank_l":54,"curb_weight_kg":1242},"trims":[{"name":"1.6L 5MT (97 HP) AWD","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1590,"cylinders":4,"power_hp":97,"power_kw":71,"torque_nm":132,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"awd","performance":{"top_speed_kmh":150,"acceleration_0_100_s":11.8}},{"name":"2.0L 5MT (136 HP) AWD","engine":{"type":"petrol","aspiration":"multipoint injection","displacement_cc":1998,"cylinders":6,"cylinder_layout":"V","power_hp":136,"power_kw":100,"torque_nm":172,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"awd","performance":{"top_speed_kmh":160,"acceleration_0_100_s":12.5}},{"name":"1.9L 5MT (75 HP) AWD","engine":{"type":"diesel","aspiration":"indirect injection","displacement_cc":1905,"cylinders":4,"power_hp":75,"power_kw":55,"torque_nm":135,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":5},"drivetrain":"awd","performance":{"top_speed_kmh":150,"fuel_consumption_combined_l100km":8.2,"fuel_consumption_city_l100km":9.4,"fuel_consumption_highway_l100km":6.9}},{"name":"2.0L 5MT (87 HP) AWD","engine":{"type":"diesel","aspiration":"indirect injection","displacement_cc":1998,"cylinders":4,"power_hp":87,"power_kw":64,"torque_nm":216,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":5},"drivetrain":"awd","performance":{"top_speed_kmh":150,"acceleration_0_100_s":19.8}}]},{"id":"suzuki_vitara__vitara_iv_suv_2015_2014","name":"Vitara II 2014-2018","ys":2014,"ye":2018,"body_type":"suv","dimensions":{"length_mm":4175,"width_mm":1775,"height_mm":1610,"wheelbase_mm":2463,"ground_clearance_mm":200,"trunk_volume_l":375,"trunk_volume_max_l":375,"fuel_tank_l":46,"curb_weight_kg":1295,"gross_weight_kg":1870,"doors":5,"seats":5,"wheelbase_estimated":true,"wheelbase_mm_original_error":4699},"trims":[{"name":"1.6L 5MT (120 HP)","engine":{"type":"petrol","aspiration":"multipoint fuel injection","displacement_cc":1586,"cylinders":4,"power_hp":120,"power_kw":88,"torque_nm":156,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":11.5,"fuel_consumption_combined_l100km":5.5,"fuel_consumption_city_l100km":6.3,"fuel_consumption_highway_l100km":4.8}},{"name":"1.6L 6AT (120 HP)","engine":{"type":"petrol","aspiration":"multipoint fuel injection","displacement_cc":1586,"cylinders":4,"power_hp":120,"power_kw":88,"torque_nm":156,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":12.5,"fuel_consumption_combined_l100km":5.8,"fuel_consumption_city_l100km":6.6,"fuel_consumption_highway_l100km":4.9}},{"name":"1.6L 5MT (120 HP) AWD","engine":{"type":"petrol","aspiration":"multipoint fuel injection","displacement_cc":1586,"cylinders":4,"power_hp":120,"power_kw":88,"torque_nm":156,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"awd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":12,"fuel_consumption_combined_l100km":5.8,"fuel_consumption_city_l100km":6.5,"fuel_consumption_highway_l100km":5.1}},{"name":"1.6L 6AT (120 HP) AWD","engine":{"type":"petrol","aspiration":"multipoint fuel injection","displacement_cc":1586,"cylinders":4,"power_hp":120,"power_kw":88,"torque_nm":156,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"awd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":13,"fuel_consumption_combined_l100km":5.9,"fuel_consumption_city_l100km":6.7,"fuel_consumption_highway_l100km":5.1}},{"name":"1.6L 6MT (120 HP)","engine":{"type":"diesel","aspiration":"common rail direct injection","displacement_cc":1586,"cylinders":4,"power_hp":120,"power_kw":88,"torque_nm":320,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":11.5,"fuel_consumption_combined_l100km":4.2,"fuel_consumption_city_l100km":4.6,"fuel_consumption_highway_l100km":3.7}},{"name":"1.6L 6MT (120 HP) AWD","engine":{"type":"diesel","aspiration":"common rail direct injection","displacement_cc":1586,"cylinders":4,"power_hp":120,"power_kw":88,"torque_nm":320,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":6},"drivetrain":"awd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":12.4,"fuel_consumption_combined_l100km":4.3,"fuel_consumption_city_l100km":4.7,"fuel_consumption_highway_l100km":4}},{"name":"1.0L 5MT (112 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":998,"cylinders":3,"power_hp":112,"power_kw":82,"torque_nm":170,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":11.5,"fuel_consumption_combined_l100km":5.5,"fuel_consumption_city_l100km":6.2,"fuel_consumption_highway_l100km":4.8}},{"name":"1.0L 6AT (112 HP) AWD","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":998,"cylinders":3,"power_hp":112,"power_kw":82,"torque_nm":160,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"awd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":13,"fuel_consumption_combined_l100km":6.2,"fuel_consumption_city_l100km":7,"fuel_consumption_highway_l100km":5.3}},{"name":"1.4L 6AT (140 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1373,"cylinders":4,"power_hp":140,"power_kw":103,"torque_nm":220,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":9.5,"fuel_consumption_combined_l100km":6.1,"fuel_consumption_city_l100km":7.1,"fuel_consumption_highway_l100km":5.1}},{"name":"1.4L 6MT (140 HP) AWD","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1373,"cylinders":4,"power_hp":140,"power_kw":103,"torque_nm":220,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"awd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":10.2,"fuel_consumption_combined_l100km":6.2,"fuel_consumption_city_l100km":7,"fuel_consumption_highway_l100km":5.5}}]},{"id":"suzuki_vitara__vitara_2023_2023","name":"Vitara III 2023-2025","ys":2023,"ye":2025,"body_type":"suv","dimensions":{"length_mm":4175,"width_mm":1775,"height_mm":1635,"ground_clearance_mm":200,"trunk_volume_l":289,"curb_weight_kg":1320,"doors":5,"seats":5,"trunk_volume_max_l":362,"gross_weight_kg":1770},"trims":[{"name":"1.5L 5MT (102 HP)","engine":{"type":"petrol","displacement_cc":1462,"cylinders":4,"power_hp":102,"power_kw":75,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"rwd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":11.5,"fuel_consumption_combined_l100km":5.5,"fuel_consumption_city_l100km":6.2,"fuel_consumption_highway_l100km":4.8,"co2_emissions_gkm":121,"fuel_consumption_standard":"WLTP"}},{"name":"1.4L 5MT (118 HP)","engine":{"type":"petrol","displacement_cc":1391,"cylinders":4,"power_hp":118,"power_kw":87,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"rwd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":11.5,"fuel_consumption_combined_l100km":5.5,"fuel_consumption_city_l100km":6.2,"fuel_consumption_highway_l100km":4.8,"co2_emissions_gkm":123,"fuel_consumption_standard":"WLTP"}},{"name":"1.5L 5MT (103 HP) Hybrid","engine":{"type":"hybrid_petrol","displacement_cc":1455,"cylinders":4,"power_hp":103,"power_kw":76,"fuel_type":"hybrid_petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"rwd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":11.5,"fuel_consumption_combined_l100km":5.5,"fuel_consumption_city_l100km":6.2,"fuel_consumption_highway_l100km":4.8,"co2_emissions_gkm":121,"fuel_consumption_standard":"WLTP"}},{"name":"1.4L 5MT (129 HP)","engine":{"type":"lpg","displacement_cc":1373,"cylinders":4,"power_hp":129,"power_kw":95,"fuel_type":"lpg"},"transmission":{"type":"manual","gears":5},"drivetrain":"rwd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":11.5,"fuel_consumption_combined_l100km":5.5,"fuel_consumption_city_l100km":6.2,"fuel_consumption_highway_l100km":4.8,"co2_emissions_gkm":109,"fuel_consumption_standard":"WLTP"}},{"name":"1.4L 5MT (136 HP) Hybrid","engine":{"type":"hybrid_petrol","displacement_cc":1376,"cylinders":4,"power_hp":136,"power_kw":100,"fuel_type":"hybrid_petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"rwd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":11.5,"fuel_consumption_combined_l100km":5.5,"fuel_consumption_city_l100km":6.2,"fuel_consumption_highway_l100km":4.8,"co2_emissions_gkm":125,"fuel_consumption_standard":"WLTP"}},{"name":"1.5L 5MT (103 HP)","engine":{"type":"petrol","displacement_cc":1457,"cylinders":4,"power_hp":103,"power_kw":76,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"rwd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":11.5,"fuel_consumption_combined_l100km":5.5,"fuel_consumption_city_l100km":6.2,"fuel_consumption_highway_l100km":4.8,"co2_emissions_gkm":96,"fuel_consumption_standard":"WLTP"}}]}]},{"id":"suzuki_grand_vitara","name":"Grand Vitara","body_type":"suv","powertrain":"ice","generations":[{"id":"suzuki_grand_vitara__stub","name":"Grand Vitara","body_type":"suv","dimensions":{},"trims":[]}]},{"id":"suzuki_jimny","name":"Jimny","body_type":"suv","powertrain":"ice","generations":[{"id":"suzuki_jimny__stub","name":"Jimny","body_type":"suv","dimensions":{},"trims":[]}]}]}
+{
+  "id": "suzuki",
+  "name": "Suzuki",
+  "name_ru": "Сузуки",
+  "country": "JP",
+  "models": [
+    {
+      "id": "suzuki_sx4",
+      "name": "SX4",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "suzuki_sx4__sx4_2013_2016_2013",
+          "name": "SX4 I 2013-2016",
+          "ys": 2013,
+          "ye": 2016,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4300,
+            "width_mm": 1765,
+            "height_mm": 1575,
+            "wheelbase_mm": 2601,
+            "fuel_tank_l": 46,
+            "curb_weight_kg": 1245
+          },
+          "trims": [
+            {
+              "name": "1.5L 5MT (111 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1490,
+                "cylinders": 4,
+                "power_hp": 111,
+                "power_kw": 82,
+                "torque_nm": 145,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 11,
+                "fuel_consumption_combined_l100km": 6.4,
+                "fuel_consumption_city_l100km": 7.8,
+                "fuel_consumption_highway_l100km": 5.1
+              }
+            },
+            {
+              "name": "1.5L 5MT (98 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1490,
+                "cylinders": 4,
+                "power_hp": 98,
+                "power_kw": 72,
+                "torque_nm": 133,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 174,
+                "acceleration_0_100_s": 11,
+                "fuel_consumption_combined_l100km": 7.1,
+                "fuel_consumption_city_l100km": 8.5,
+                "fuel_consumption_highway_l100km": 5.7
+              }
+            },
+            {
+              "name": "1.6L 4AT (120 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1586,
+                "cylinders": 4,
+                "power_hp": 120,
+                "power_kw": 88,
+                "torque_nm": 156,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 4
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 175,
+                "acceleration_0_100_s": 12.3,
+                "fuel_consumption_combined_l100km": 7.5,
+                "fuel_consumption_city_l100km": 9.2,
+                "fuel_consumption_highway_l100km": 5.9
+              }
+            },
+            {
+              "name": "1.6L 5MT (107 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1586,
+                "cylinders": 4,
+                "power_hp": 107,
+                "power_kw": 79,
+                "torque_nm": 145,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 10.7,
+                "fuel_consumption_combined_l100km": 7.7,
+                "fuel_consumption_city_l100km": 8.9,
+                "fuel_consumption_highway_l100km": 6.5
+              }
+            },
+            {
+              "name": "1.6L 5MT (120 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1586,
+                "cylinders": 4,
+                "power_hp": 120,
+                "power_kw": 88,
+                "torque_nm": 156,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 175,
+                "acceleration_0_100_s": 11.5,
+                "fuel_consumption_combined_l100km": 5.9,
+                "fuel_consumption_city_l100km": 6.8,
+                "fuel_consumption_highway_l100km": 5
+              }
+            },
+            {
+              "name": "1.6L 5MT (107 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1586,
+                "cylinders": 4,
+                "power_hp": 107,
+                "power_kw": 79,
+                "torque_nm": 145,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 10.7,
+                "fuel_consumption_combined_l100km": 7.2,
+                "fuel_consumption_city_l100km": 8.5,
+                "fuel_consumption_highway_l100km": 5.8
+              }
+            },
+            {
+              "name": "1.6L 5MT (120 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1586,
+                "cylinders": 4,
+                "power_hp": 120,
+                "power_kw": 88,
+                "torque_nm": 156,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 185,
+                "acceleration_0_100_s": 10.7,
+                "fuel_consumption_combined_l100km": 5.7,
+                "fuel_consumption_city_l100km": 6.6,
+                "fuel_consumption_highway_l100km": 4.8
+              }
+            },
+            {
+              "name": "2.0L 4AT (143 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1995,
+                "cylinders": 4,
+                "power_hp": 143,
+                "power_kw": 105,
+                "torque_nm": 184,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 4
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 8.8,
+                "fuel_consumption_city_l100km": 9.8,
+                "fuel_consumption_highway_l100km": 7.8,
+                "power_hp": 143,
+                "power_kw": 105
+              }
+            },
+            {
+              "name": "2.0L 5MT (143 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1995,
+                "cylinders": 4,
+                "power_hp": 143,
+                "power_kw": 105,
+                "torque_nm": 184,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 8.9,
+                "fuel_consumption_city_l100km": 9.8,
+                "fuel_consumption_highway_l100km": 8.1,
+                "power_hp": 143,
+                "power_kw": 105
+              }
+            },
+            {
+              "name": "1.6L 5MT (90 HP)",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "common rail",
+                "displacement_cc": 1560,
+                "cylinders": 4,
+                "power_hp": 90,
+                "power_kw": 66,
+                "torque_nm": 216,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 175,
+                "acceleration_0_100_s": 12.2,
+                "fuel_consumption_combined_l100km": 5.1,
+                "fuel_consumption_city_l100km": 5.9,
+                "fuel_consumption_highway_l100km": 4.3
+              }
+            }
+          ]
+        },
+        {
+          "id": "suzuki_sx4__sx4_2023_2023",
+          "name": "SX4 II 2023-2024",
+          "ys": 2023,
+          "ye": 2024,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4300,
+            "width_mm": 1765,
+            "height_mm": 1575,
+            "wheelbase_mm": 2601,
+            "curb_weight_kg": 1245
+          },
+          "trims": [
+            {
+              "name": "1.4L 5MT (129 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1373,
+                "cylinders": 4,
+                "power_hp": 129,
+                "power_kw": 95,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 175,
+                "acceleration_0_100_s": 12,
+                "fuel_consumption_combined_l100km": 5.9,
+                "fuel_consumption_city_l100km": 6.8,
+                "fuel_consumption_highway_l100km": 5,
+                "co2_emissions_gkm": 124,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.4L 5MT (121 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1395,
+                "cylinders": 4,
+                "power_hp": 121,
+                "power_kw": 89,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 175,
+                "acceleration_0_100_s": 12,
+                "fuel_consumption_combined_l100km": 5.9,
+                "fuel_consumption_city_l100km": 6.8,
+                "fuel_consumption_highway_l100km": 5,
+                "co2_emissions_gkm": 126,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.4L 5MT (122 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1385,
+                "cylinders": 4,
+                "power_hp": 122,
+                "power_kw": 90,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 175,
+                "acceleration_0_100_s": 12,
+                "fuel_consumption_combined_l100km": 5.9,
+                "fuel_consumption_city_l100km": 6.8,
+                "fuel_consumption_highway_l100km": 5,
+                "co2_emissions_gkm": 127,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.4L 5MT (137 HP) Hybrid",
+              "engine": {
+                "type": "hybrid_petrol",
+                "displacement_cc": 1373,
+                "cylinders": 4,
+                "power_hp": 137,
+                "power_kw": 101,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 175,
+                "acceleration_0_100_s": 12,
+                "fuel_consumption_combined_l100km": 5.9,
+                "fuel_consumption_city_l100km": 6.8,
+                "fuel_consumption_highway_l100km": 5,
+                "co2_emissions_gkm": 125,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.6L 5MT (107 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1586,
+                "cylinders": 4,
+                "power_hp": 107,
+                "power_kw": 79,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 175,
+                "acceleration_0_100_s": 12,
+                "fuel_consumption_combined_l100km": 5.9,
+                "fuel_consumption_city_l100km": 6.8,
+                "fuel_consumption_highway_l100km": 5,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.4L 5MT (128 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1377,
+                "cylinders": 4,
+                "power_hp": 128,
+                "power_kw": 94,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 175,
+                "acceleration_0_100_s": 12,
+                "fuel_consumption_combined_l100km": 5.9,
+                "fuel_consumption_city_l100km": 6.8,
+                "fuel_consumption_highway_l100km": 5,
+                "co2_emissions_gkm": 127,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.4L 5MT (125 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1382,
+                "cylinders": 4,
+                "power_hp": 125,
+                "power_kw": 92,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 175,
+                "acceleration_0_100_s": 12,
+                "fuel_consumption_combined_l100km": 5.9,
+                "fuel_consumption_city_l100km": 6.8,
+                "fuel_consumption_highway_l100km": 5,
+                "co2_emissions_gkm": 119,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.5L 5MT (102 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1462,
+                "cylinders": 4,
+                "power_hp": 102,
+                "power_kw": 75,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 175,
+                "acceleration_0_100_s": 12,
+                "fuel_consumption_combined_l100km": 5.9,
+                "fuel_consumption_city_l100km": 6.8,
+                "fuel_consumption_highway_l100km": 5,
+                "co2_emissions_gkm": 90,
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "suzuki_swift",
+      "name": "SWIFT",
+      "body_type": "hatchback",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "suzuki_swift_sedan__swift_sedan_1991_1996_1991",
+          "name": "SWIFT I 1991-1996",
+          "ys": 1991,
+          "ye": 1996,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 4100,
+            "width_mm": 1580,
+            "height_mm": 1379,
+            "wheelbase_mm": 2360,
+            "ground_clearance_mm": 140,
+            "fuel_tank_l": 40,
+            "curb_weight_kg": 800,
+            "doors": 4,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "1.3L 5MT (68 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "monopoint injection",
+                "displacement_cc": 1298,
+                "cylinders": 4,
+                "power_hp": 68,
+                "power_kw": 50,
+                "torque_nm": 99,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 266,
+                "acceleration_0_100_s": 13
+              }
+            },
+            {
+              "name": "1.6L 5MT (92 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1590,
+                "cylinders": 4,
+                "power_hp": 92,
+                "power_kw": 68,
+                "torque_nm": 130,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 11
+              }
+            }
+          ]
+        },
+        {
+          "id": "suzuki__swift__swift_vi_2017_2017",
+          "name": "SWIFT II 2017-н.в.",
+          "ys": 2017,
+          "ye": null,
+          "body_type": "hatchback",
+          "dimensions": {
+            "fuel_tank_l": 37,
+            "length_mm": 3840,
+            "width_mm": 1735,
+            "height_mm": 1495,
+            "wheelbase_mm": 2450,
+            "ground_clearance_mm": 145,
+            "trunk_volume_l": 265,
+            "curb_weight_kg": 920,
+            "doors": 5,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "1.4L 6MT (140 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1373,
+                "cylinders": 4,
+                "power_hp": 140,
+                "power_kw": 103,
+                "torque_nm": 230,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 140,
+                "power_kw": 103
+              }
+            },
+            {
+              "name": "1.4L 6MT (129 HP) Hybrid",
+              "engine": {
+                "type": "hybrid_petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1373,
+                "cylinders": 4,
+                "power_hp": 129,
+                "power_kw": 94,
+                "torque_nm": 235,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 209,
+                "acceleration_0_100_s": 9.1
+              }
+            },
+            {
+              "name": "1.2L CVT (90 HP)",
+              "engine": {
+                "code": "K12C",
+                "type": "petrol",
+                "aspiration": "NA",
+                "displacement_cc": 1197,
+                "cylinders": 4,
+                "power_hp": 90,
+                "power_kw": 66,
+                "torque_nm": 120,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 170,
+                "acceleration_0_100_s": 12,
+                "fuel_consumption_combined_l100km": 5
+              }
+            },
+            {
+              "name": "1.0L 6AT (111 HP)",
+              "engine": {
+                "code": "K10C",
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 998,
+                "cylinders": 3,
+                "power_hp": 111,
+                "power_kw": 82,
+                "torque_nm": 170,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 195,
+                "acceleration_0_100_s": 9.9,
+                "fuel_consumption_combined_l100km": 5.1
+              }
+            },
+            {
+              "name": "1.2L 5MT (83 HP) MHEV",
+              "engine": {
+                "type": "mild_hybrid_petrol",
+                "displacement_cc": 1197,
+                "power_hp": 83,
+                "torque_nm": 112,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 83,
+                "acceleration_0_100_s": 12.2
+              }
+            },
+            {
+              "name": "1.2L CVT (83 HP) MHEV",
+              "engine": {
+                "type": "mild_hybrid_petrol",
+                "displacement_cc": 1197,
+                "power_hp": 83,
+                "torque_nm": 112,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 83,
+                "acceleration_0_100_s": 12.2
+              }
+            },
+            {
+              "name": "1.2L CVT (83 HP) MHEV AWD",
+              "engine": {
+                "type": "mild_hybrid_petrol",
+                "displacement_cc": 1197,
+                "power_hp": 83,
+                "torque_nm": 112,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 83
+              }
+            }
+          ]
+        },
+        {
+          "id": "suzuki_swift_2__swift_vi_facelift_2020_hatchback_2021_2020",
+          "name": "SWIFT III 2020-2023",
+          "ys": 2020,
+          "ye": 2023,
+          "body_type": "hatchback",
+          "dimensions": {
+            "length_mm": 3860,
+            "width_mm": 1735,
+            "height_mm": 1520,
+            "wheelbase_mm": 2277,
+            "ground_clearance_mm": 145,
+            "trunk_volume_l": 265,
+            "trunk_volume_max_l": 265,
+            "curb_weight_kg": 975,
+            "gross_weight_kg": 1445,
+            "doors": 5,
+            "seats": 5,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 3048
+          },
+          "trims": [
+            {
+              "name": "1.2L (88 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1222,
+                "cylinders": 4,
+                "power_hp": 88,
+                "power_kw": 65,
+                "fuel_type": "petrol"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 7.3,
+                "co2_emissions_gkm": 89,
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        },
+        {
+          "id": "suzuki_swift__swift_2023_2023",
+          "name": "SWIFT IV 2023-2024",
+          "ys": 2023,
+          "ye": 2024,
+          "body_type": "hatchback",
+          "dimensions": {
+            "length_mm": 3860,
+            "width_mm": 1695,
+            "height_mm": 1525,
+            "ground_clearance_mm": 145,
+            "trunk_volume_l": 265,
+            "curb_weight_kg": 999,
+            "doors": 5,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "EV 61 kW",
+              "engine": {
+                "type": "electric",
+                "power_hp": 83,
+                "power_kw": 61,
+                "fuel_type": "electric"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.2L (83 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1203,
+                "cylinders": 4,
+                "power_hp": 83,
+                "power_kw": 61,
+                "fuel_type": "petrol"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 4.7,
+                "co2_emissions_gkm": 105,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.2L (82 HP) Hybrid",
+              "engine": {
+                "type": "hybrid_petrol",
+                "displacement_cc": 1200,
+                "cylinders": 4,
+                "power_hp": 82,
+                "power_kw": 60,
+                "fuel_type": "hybrid_petrol"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 4.6,
+                "co2_emissions_gkm": 102,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.2L (87 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1219,
+                "cylinders": 4,
+                "power_hp": 87,
+                "power_kw": 64,
+                "fuel_type": "petrol"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 5,
+                "co2_emissions_gkm": 112,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.4L (129 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1373,
+                "cylinders": 4,
+                "power_hp": 129,
+                "power_kw": 95,
+                "fuel_type": "petrol"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.6L (136 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1586,
+                "cylinders": 4,
+                "power_hp": 136,
+                "power_kw": 100,
+                "fuel_type": "petrol"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.3L (98 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1255,
+                "cylinders": 4,
+                "power_hp": 98,
+                "power_kw": 72,
+                "fuel_type": "petrol"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 5.1,
+                "co2_emissions_gkm": 115,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.2L (88 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1222,
+                "cylinders": 4,
+                "power_hp": 88,
+                "power_kw": 65,
+                "fuel_type": "petrol"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 7.3,
+                "co2_emissions_gkm": 89,
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "suzuki_vitara",
+      "name": "Vitara",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "suzuki_vitara_vietnam__vitara_vietnam_1991_1994_1991",
+          "name": "Vitara I 1991-1994",
+          "ys": 1991,
+          "ye": 1994,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4028,
+            "width_mm": 1636,
+            "height_mm": 1702,
+            "wheelbase_mm": 2479,
+            "fuel_tank_l": 54,
+            "curb_weight_kg": 1242
+          },
+          "trims": [
+            {
+              "name": "1.6L 5MT (97 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1590,
+                "cylinders": 4,
+                "power_hp": 97,
+                "power_kw": 71,
+                "torque_nm": 132,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 150,
+                "acceleration_0_100_s": 11.8
+              }
+            },
+            {
+              "name": "2.0L 5MT (136 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint injection",
+                "displacement_cc": 1998,
+                "cylinders": 6,
+                "cylinder_layout": "V",
+                "power_hp": 136,
+                "power_kw": 100,
+                "torque_nm": 172,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 160,
+                "acceleration_0_100_s": 12.5
+              }
+            },
+            {
+              "name": "1.9L 5MT (75 HP) AWD",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "indirect injection",
+                "displacement_cc": 1905,
+                "cylinders": 4,
+                "power_hp": 75,
+                "power_kw": 55,
+                "torque_nm": 135,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 150,
+                "fuel_consumption_combined_l100km": 8.2,
+                "fuel_consumption_city_l100km": 9.4,
+                "fuel_consumption_highway_l100km": 6.9
+              }
+            },
+            {
+              "name": "2.0L 5MT (87 HP) AWD",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "indirect injection",
+                "displacement_cc": 1998,
+                "cylinders": 4,
+                "power_hp": 87,
+                "power_kw": 64,
+                "torque_nm": 216,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 150,
+                "acceleration_0_100_s": 19.8
+              }
+            }
+          ]
+        },
+        {
+          "id": "suzuki_vitara__vitara_iv_suv_2015_2014",
+          "name": "Vitara II 2014-2018",
+          "ys": 2014,
+          "ye": 2018,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4175,
+            "width_mm": 1775,
+            "height_mm": 1610,
+            "wheelbase_mm": 2463,
+            "ground_clearance_mm": 200,
+            "trunk_volume_l": 375,
+            "trunk_volume_max_l": 375,
+            "fuel_tank_l": 46,
+            "curb_weight_kg": 1295,
+            "gross_weight_kg": 1870,
+            "doors": 5,
+            "seats": 5,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 4699
+          },
+          "trims": [
+            {
+              "name": "1.6L 5MT (120 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint fuel injection",
+                "displacement_cc": 1586,
+                "cylinders": 4,
+                "power_hp": 120,
+                "power_kw": 88,
+                "torque_nm": 156,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 11.5,
+                "fuel_consumption_combined_l100km": 5.5,
+                "fuel_consumption_city_l100km": 6.3,
+                "fuel_consumption_highway_l100km": 4.8
+              }
+            },
+            {
+              "name": "1.6L 6AT (120 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint fuel injection",
+                "displacement_cc": 1586,
+                "cylinders": 4,
+                "power_hp": 120,
+                "power_kw": 88,
+                "torque_nm": 156,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 12.5,
+                "fuel_consumption_combined_l100km": 5.8,
+                "fuel_consumption_city_l100km": 6.6,
+                "fuel_consumption_highway_l100km": 4.9
+              }
+            },
+            {
+              "name": "1.6L 5MT (120 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint fuel injection",
+                "displacement_cc": 1586,
+                "cylinders": 4,
+                "power_hp": 120,
+                "power_kw": 88,
+                "torque_nm": 156,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 12,
+                "fuel_consumption_combined_l100km": 5.8,
+                "fuel_consumption_city_l100km": 6.5,
+                "fuel_consumption_highway_l100km": 5.1
+              }
+            },
+            {
+              "name": "1.6L 6AT (120 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "multipoint fuel injection",
+                "displacement_cc": 1586,
+                "cylinders": 4,
+                "power_hp": 120,
+                "power_kw": 88,
+                "torque_nm": 156,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 13,
+                "fuel_consumption_combined_l100km": 5.9,
+                "fuel_consumption_city_l100km": 6.7,
+                "fuel_consumption_highway_l100km": 5.1
+              }
+            },
+            {
+              "name": "1.6L 6MT (120 HP)",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "common rail direct injection",
+                "displacement_cc": 1586,
+                "cylinders": 4,
+                "power_hp": 120,
+                "power_kw": 88,
+                "torque_nm": 320,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 11.5,
+                "fuel_consumption_combined_l100km": 4.2,
+                "fuel_consumption_city_l100km": 4.6,
+                "fuel_consumption_highway_l100km": 3.7
+              }
+            },
+            {
+              "name": "1.6L 6MT (120 HP) AWD",
+              "engine": {
+                "type": "diesel",
+                "aspiration": "common rail direct injection",
+                "displacement_cc": 1586,
+                "cylinders": 4,
+                "power_hp": 120,
+                "power_kw": 88,
+                "torque_nm": 320,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 12.4,
+                "fuel_consumption_combined_l100km": 4.3,
+                "fuel_consumption_city_l100km": 4.7,
+                "fuel_consumption_highway_l100km": 4
+              }
+            },
+            {
+              "name": "1.0L 5MT (112 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 998,
+                "cylinders": 3,
+                "power_hp": 112,
+                "power_kw": 82,
+                "torque_nm": 170,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 11.5,
+                "fuel_consumption_combined_l100km": 5.5,
+                "fuel_consumption_city_l100km": 6.2,
+                "fuel_consumption_highway_l100km": 4.8
+              }
+            },
+            {
+              "name": "1.0L 6AT (112 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 998,
+                "cylinders": 3,
+                "power_hp": 112,
+                "power_kw": 82,
+                "torque_nm": 160,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 13,
+                "fuel_consumption_combined_l100km": 6.2,
+                "fuel_consumption_city_l100km": 7,
+                "fuel_consumption_highway_l100km": 5.3
+              }
+            },
+            {
+              "name": "1.4L 6AT (140 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1373,
+                "cylinders": 4,
+                "power_hp": 140,
+                "power_kw": 103,
+                "torque_nm": 220,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 9.5,
+                "fuel_consumption_combined_l100km": 6.1,
+                "fuel_consumption_city_l100km": 7.1,
+                "fuel_consumption_highway_l100km": 5.1
+              }
+            },
+            {
+              "name": "1.4L 6MT (140 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1373,
+                "cylinders": 4,
+                "power_hp": 140,
+                "power_kw": 103,
+                "torque_nm": 220,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 10.2,
+                "fuel_consumption_combined_l100km": 6.2,
+                "fuel_consumption_city_l100km": 7,
+                "fuel_consumption_highway_l100km": 5.5
+              }
+            }
+          ]
+        },
+        {
+          "id": "suzuki_vitara__vitara_2023_2023",
+          "name": "Vitara III 2023-2025",
+          "ys": 2023,
+          "ye": 2025,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4175,
+            "width_mm": 1775,
+            "height_mm": 1635,
+            "ground_clearance_mm": 200,
+            "trunk_volume_l": 289,
+            "curb_weight_kg": 1320,
+            "doors": 5,
+            "seats": 5,
+            "trunk_volume_max_l": 362,
+            "gross_weight_kg": 1770
+          },
+          "trims": [
+            {
+              "name": "1.5L 5MT (102 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1462,
+                "cylinders": 4,
+                "power_hp": 102,
+                "power_kw": 75,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 11.5,
+                "fuel_consumption_combined_l100km": 5.5,
+                "fuel_consumption_city_l100km": 6.2,
+                "fuel_consumption_highway_l100km": 4.8,
+                "co2_emissions_gkm": 121,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.4L 5MT (118 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1391,
+                "cylinders": 4,
+                "power_hp": 118,
+                "power_kw": 87,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 11.5,
+                "fuel_consumption_combined_l100km": 5.5,
+                "fuel_consumption_city_l100km": 6.2,
+                "fuel_consumption_highway_l100km": 4.8,
+                "co2_emissions_gkm": 123,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.5L 5MT (103 HP) Hybrid",
+              "engine": {
+                "type": "hybrid_petrol",
+                "displacement_cc": 1455,
+                "cylinders": 4,
+                "power_hp": 103,
+                "power_kw": 76,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 11.5,
+                "fuel_consumption_combined_l100km": 5.5,
+                "fuel_consumption_city_l100km": 6.2,
+                "fuel_consumption_highway_l100km": 4.8,
+                "co2_emissions_gkm": 121,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.4L 5MT (129 HP)",
+              "engine": {
+                "type": "lpg",
+                "displacement_cc": 1373,
+                "cylinders": 4,
+                "power_hp": 129,
+                "power_kw": 95,
+                "fuel_type": "lpg"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 11.5,
+                "fuel_consumption_combined_l100km": 5.5,
+                "fuel_consumption_city_l100km": 6.2,
+                "fuel_consumption_highway_l100km": 4.8,
+                "co2_emissions_gkm": 109,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.4L 5MT (136 HP) Hybrid",
+              "engine": {
+                "type": "hybrid_petrol",
+                "displacement_cc": 1376,
+                "cylinders": 4,
+                "power_hp": 136,
+                "power_kw": 100,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 11.5,
+                "fuel_consumption_combined_l100km": 5.5,
+                "fuel_consumption_city_l100km": 6.2,
+                "fuel_consumption_highway_l100km": 4.8,
+                "co2_emissions_gkm": 125,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.5L 5MT (103 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1457,
+                "cylinders": 4,
+                "power_hp": 103,
+                "power_kw": 76,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 11.5,
+                "fuel_consumption_combined_l100km": 5.5,
+                "fuel_consumption_city_l100km": 6.2,
+                "fuel_consumption_highway_l100km": 4.8,
+                "co2_emissions_gkm": 96,
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "suzuki_grand_vitara",
+      "name": "Grand Vitara",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "suzuki_grand_vitara__stub",
+          "name": "Grand Vitara",
+          "body_type": "suv",
+          "dimensions": {},
+          "trims": []
+        }
+      ]
+    },
+    {
+      "id": "suzuki_jimny",
+      "name": "Jimny",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "suzuki_jimny__stub",
+          "name": "Jimny",
+          "body_type": "suv",
+          "dimensions": {},
+          "trims": []
+        }
+      ]
+    },
+    {
+      "id": "suzuki_liana",
+      "name": "Liana",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "suzuki_liana_2003",
+          "name": "Liana 2003-н.в.",
+          "ys": 2003,
+          "ye": 2026
+        }
+      ]
+    }
+  ]
+}

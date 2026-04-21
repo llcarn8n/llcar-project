@@ -1,1 +1,584 @@
-{"id":"gac","name":"GAC","name_ru":"ГАК","country":"CN","models":[{"id":"gac_emkoo","name":"Emkoo","body_type":"suv","powertrain":"ice","generations":[{"id":"trumpchi_emkoo__emkoo_suv_2022_2022","name":"Emkoo I 2022-н.в.","ys":2022,"ye":null,"body_type":"suv","dimensions":{"length_mm":4680,"width_mm":1901,"height_mm":1670,"wheelbase_mm":2750,"ground_clearance_mm":200,"trunk_volume_l":181,"trunk_volume_max_l":181,"curb_weight_kg":1670,"doors":5,"seats":5},"trims":[{"name":"1.5L 7DCT (177 HP)","engine":{"type":"petrol","displacement_cc":1498,"cylinders":4,"power_hp":177,"torque_nm":270,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"fwd","performance":{"power_hp":177}}]},{"id":"gac__emkoo__emkoo_2022_present_0","name":"Emkoo II","ys":null,"ye":null,"body_type":"suv","dimensions":{"length_mm":4680,"width_mm":1901,"height_mm":1670,"wheelbase_mm":2750},"trims":[{"name":"1.5L 7DCT (177 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1498,"cylinders":4,"power_hp":177,"torque_nm":270,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"fwd","performance":{"power_hp":177}}]}]},{"id":"gac_gs3","name":"GS3","body_type":"suv","powertrain":"ice","generations":[{"id":"trumpchi_gs3__gs3_power_i_facelift_2020_suv_2021_2020","name":"GS3 I 2020-2023","ys":2020,"ye":2023,"body_type":"suv","dimensions":{"length_mm":4350,"width_mm":1825,"height_mm":1685,"wheelbase_mm":2566,"ground_clearance_mm":200,"curb_weight_kg":1392,"gross_weight_kg":1780,"doors":5,"seats":5,"wheelbase_estimated":true,"wheelbase_mm_original_error":3810},"trims":[{"name":"1.5L 6AT (163 HP)","engine":{"type":"petrol","displacement_cc":1498,"power_hp":163,"torque_nm":235,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"fwd","performance":{"power_hp":163}},{"name":"1.5L 5MT (114 HP)","engine":{"type":"petrol","displacement_cc":1498,"power_hp":114,"torque_nm":150,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"power_hp":114}}]},{"id":"trumpchi_gs3__gs3_emzoom_ii_suv_2023_2023","name":"GS3 II 2023-н.в.","ys":2023,"ye":null,"body_type":"suv","dimensions":{"length_mm":4446,"width_mm":1850,"height_mm":1600,"wheelbase_mm":2623,"ground_clearance_mm":200,"trunk_volume_l":341,"trunk_volume_max_l":341,"curb_weight_kg":1370,"gross_weight_kg":1795,"doors":5,"seats":5,"wheelbase_estimated":true,"wheelbase_mm_original_error":3683},"trims":[{"name":"1.5L 6AT (163 HP)","engine":{"type":"petrol","displacement_cc":1498,"power_hp":163,"torque_nm":235,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"fwd","performance":{"power_hp":163}},{"name":"1.5L 5MT (114 HP)","engine":{"type":"petrol","displacement_cc":1498,"power_hp":114,"torque_nm":150,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"power_hp":114}}]}]},{"id":"gac_gs4","name":"GS4","body_type":"suv","powertrain":"ice","generations":[{"id":"gac__gs4__gs4_ii_2020_2020","name":"GS4 2020-н.в.","ys":2020,"ye":null,"body_type":"suv","dimensions":{"length_mm":4577,"width_mm":1873,"height_mm":1646,"wheelbase_mm":2680,"ground_clearance_mm":180,"trunk_volume_l":470,"fuel_tank_l":55,"curb_weight_kg":1540,"doors":5,"seats":5},"trims":[{"name":"1.5L 6AT (169 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1498,"cylinders":4,"power_hp":169,"power_kw":124,"torque_nm":265,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":193,"acceleration_0_100_s":9.3,"fuel_consumption_combined_l100km":8.3}},{"name":"1.5L 7DCT (177 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1497,"cylinders":4,"power_hp":177,"power_kw":130,"torque_nm":270,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"fwd","performance":{"top_speed_kmh":195,"acceleration_0_100_s":8.5,"fuel_consumption_combined_l100km":6.8}}]}]},{"id":"gac_gs5","name":"GS5","body_type":"suv","powertrain":"ice","generations":[{"id":"trumpchi_gs5__gs5_ii_suv_2018_2018","name":"GS5 I 2018-н.в.","ys":2018,"ye":null,"body_type":"suv","dimensions":{"length_mm":4695,"width_mm":1885,"height_mm":1700,"wheelbase_mm":2710,"ground_clearance_mm":200,"doors":5,"seats":5},"trims":[{"name":"1.5L 6AT (169 HP)","engine":{"type":"petrol","displacement_cc":1495,"cylinders":4,"power_hp":169,"torque_nm":265,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"fwd","performance":{"power_hp":169}},{"name":"1.5L 6MT (152 HP)","engine":{"type":"petrol","displacement_cc":1495,"cylinders":4,"power_hp":152,"torque_nm":235,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"power_hp":152}}]},{"id":"gac__gs5__gs5_2018_2024_0","name":"GS5 II","ys":null,"ye":null,"body_type":"suv","dimensions":{"length_mm":4695,"width_mm":1885,"height_mm":1700,"wheelbase_mm":2710},"trims":[{"name":"1.5L 6AT (169 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1495,"cylinders":4,"power_hp":169,"torque_nm":265,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"fwd","performance":{"power_hp":169}},{"name":"1.5L 6MT (152 HP)","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1495,"cylinders":4,"power_hp":152,"torque_nm":235,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"power_hp":152}}]}]},{"id":"gac_gs8","name":"GS8","body_type":"suv","powertrain":"ice","generations":[{"id":"gac__gs8__gs8_ii_2022_2022","name":"GS8 2021-2021","ys":2021,"ye":2021,"body_type":"suv","dimensions":{"length_mm":4980,"width_mm":1950,"height_mm":1780,"wheelbase_mm":2938,"ground_clearance_mm":200,"curb_weight_kg":2000,"gross_weight_kg":2556,"doors":5,"seats":5,"wheelbase_estimated":true,"wheelbase_mm_original_error":4064,"trunk_volume_l":450,"fuel_tank_l":65},"trims":[{"name":"2.0L 8AT (252 HP)","engine":{"type":"petrol","displacement_cc":1991,"cylinders":4,"power_hp":252,"torque_nm":400,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"fwd","performance":{"power_hp":252}},{"name":"2.0L 8AT (252 HP) AWD","engine":{"type":"petrol","displacement_cc":1991,"cylinders":4,"power_hp":252,"torque_nm":400,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"power_hp":252}},{"name":"2.0L eCVT (190 HP) Hybrid AWD","engine":{"type":"hybrid_petrol","displacement_cc":1991,"cylinders":4,"power_hp":190,"torque_nm":330,"fuel_type":"hybrid_petrol"},"transmission":{"type":"e_cvt"},"drivetrain":"awd","performance":{"power_hp":190}},{"name":"2.0L CVT (274 HP) AWD","engine":{"type":"petrol","aspiration":"turbocharged","displacement_cc":1998,"cylinders":4,"power_hp":274,"power_kw":203,"torque_nm":630,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"awd","performance":{"top_speed_kmh":200,"acceleration_0_100_s":7.5,"fuel_consumption_combined_l100km":5.5}},{"name":"2.0L CVT (190 HP) Hybrid AWD","engine":{"type":"hybrid_petrol","aspiration":"turbocharged","displacement_cc":1991,"cylinders":4,"power_hp":190,"torque_nm":330,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"awd","performance":{"power_hp":190}}]}]},{"id":"gac_aion_lx","name":"Aion LX","body_type":"suv","powertrain":"bev","generations":[{"id":"gac_aion_lx__stub","name":"Aion LX","body_type":"suv","dimensions":{},"trims":[]}]},{"id":"gac_gn8","name":"GN8","body_type":"minivan","powertrain":"ice","generations":[{"id":"gac_gn8__stub","name":"GN8","body_type":"minivan","dimensions":{},"trims":[]}]}]}
+{
+  "id": "gac",
+  "name": "GAC",
+  "name_ru": "ГАК",
+  "country": "CN",
+  "models": [
+    {
+      "id": "gac_emkoo",
+      "name": "Emkoo",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "trumpchi_emkoo__emkoo_suv_2022_2022",
+          "name": "Emkoo I 2022-н.в.",
+          "ys": 2022,
+          "ye": null,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4680,
+            "width_mm": 1901,
+            "height_mm": 1670,
+            "wheelbase_mm": 2750,
+            "ground_clearance_mm": 200,
+            "trunk_volume_l": 181,
+            "trunk_volume_max_l": 181,
+            "curb_weight_kg": 1670,
+            "doors": 5,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "1.5L 7DCT (177 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1498,
+                "cylinders": 4,
+                "power_hp": 177,
+                "torque_nm": 270,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 177
+              }
+            }
+          ]
+        },
+        {
+          "id": "gac__emkoo__emkoo_2022_present_0",
+          "name": "Emkoo II",
+          "ys": null,
+          "ye": null,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4680,
+            "width_mm": 1901,
+            "height_mm": 1670,
+            "wheelbase_mm": 2750
+          },
+          "trims": [
+            {
+              "name": "1.5L 7DCT (177 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1498,
+                "cylinders": 4,
+                "power_hp": 177,
+                "torque_nm": 270,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 177
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gac_gs3",
+      "name": "GS3",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "trumpchi_gs3__gs3_power_i_facelift_2020_suv_2021_2020",
+          "name": "GS3 I 2020-2023",
+          "ys": 2020,
+          "ye": 2023,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4350,
+            "width_mm": 1825,
+            "height_mm": 1685,
+            "wheelbase_mm": 2566,
+            "ground_clearance_mm": 200,
+            "curb_weight_kg": 1392,
+            "gross_weight_kg": 1780,
+            "doors": 5,
+            "seats": 5,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 3810
+          },
+          "trims": [
+            {
+              "name": "1.5L 6AT (163 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1498,
+                "power_hp": 163,
+                "torque_nm": 235,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 163
+              }
+            },
+            {
+              "name": "1.5L 5MT (114 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1498,
+                "power_hp": 114,
+                "torque_nm": 150,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 114
+              }
+            }
+          ]
+        },
+        {
+          "id": "trumpchi_gs3__gs3_emzoom_ii_suv_2023_2023",
+          "name": "GS3 II 2023-н.в.",
+          "ys": 2023,
+          "ye": null,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4446,
+            "width_mm": 1850,
+            "height_mm": 1600,
+            "wheelbase_mm": 2623,
+            "ground_clearance_mm": 200,
+            "trunk_volume_l": 341,
+            "trunk_volume_max_l": 341,
+            "curb_weight_kg": 1370,
+            "gross_weight_kg": 1795,
+            "doors": 5,
+            "seats": 5,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 3683
+          },
+          "trims": [
+            {
+              "name": "1.5L 6AT (163 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1498,
+                "power_hp": 163,
+                "torque_nm": 235,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 163
+              }
+            },
+            {
+              "name": "1.5L 5MT (114 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1498,
+                "power_hp": 114,
+                "torque_nm": 150,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 114
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gac_gs4",
+      "name": "GS4",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "gac__gs4__gs4_ii_2020_2020",
+          "name": "GS4 2020-н.в.",
+          "ys": 2020,
+          "ye": null,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4577,
+            "width_mm": 1873,
+            "height_mm": 1646,
+            "wheelbase_mm": 2680,
+            "ground_clearance_mm": 180,
+            "trunk_volume_l": 470,
+            "fuel_tank_l": 55,
+            "curb_weight_kg": 1540,
+            "doors": 5,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "1.5L 6AT (169 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1498,
+                "cylinders": 4,
+                "power_hp": 169,
+                "power_kw": 124,
+                "torque_nm": 265,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 193,
+                "acceleration_0_100_s": 9.3,
+                "fuel_consumption_combined_l100km": 8.3
+              }
+            },
+            {
+              "name": "1.5L 7DCT (177 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1497,
+                "cylinders": 4,
+                "power_hp": 177,
+                "power_kw": 130,
+                "torque_nm": 270,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 195,
+                "acceleration_0_100_s": 8.5,
+                "fuel_consumption_combined_l100km": 6.8
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gac_gs5",
+      "name": "GS5",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "trumpchi_gs5__gs5_ii_suv_2018_2018",
+          "name": "GS5 I 2018-н.в.",
+          "ys": 2018,
+          "ye": null,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4695,
+            "width_mm": 1885,
+            "height_mm": 1700,
+            "wheelbase_mm": 2710,
+            "ground_clearance_mm": 200,
+            "doors": 5,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "1.5L 6AT (169 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1495,
+                "cylinders": 4,
+                "power_hp": 169,
+                "torque_nm": 265,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 169
+              }
+            },
+            {
+              "name": "1.5L 6MT (152 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1495,
+                "cylinders": 4,
+                "power_hp": 152,
+                "torque_nm": 235,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 152
+              }
+            }
+          ]
+        },
+        {
+          "id": "gac__gs5__gs5_2018_2024_0",
+          "name": "GS5 II",
+          "ys": null,
+          "ye": null,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4695,
+            "width_mm": 1885,
+            "height_mm": 1700,
+            "wheelbase_mm": 2710
+          },
+          "trims": [
+            {
+              "name": "1.5L 6AT (169 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1495,
+                "cylinders": 4,
+                "power_hp": 169,
+                "torque_nm": 265,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 169
+              }
+            },
+            {
+              "name": "1.5L 6MT (152 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1495,
+                "cylinders": 4,
+                "power_hp": 152,
+                "torque_nm": 235,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 152
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gac_gs8",
+      "name": "GS8",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "gac__gs8__gs8_ii_2022_2022",
+          "name": "GS8 2021-2021",
+          "ys": 2021,
+          "ye": 2021,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4980,
+            "width_mm": 1950,
+            "height_mm": 1780,
+            "wheelbase_mm": 2938,
+            "ground_clearance_mm": 200,
+            "curb_weight_kg": 2000,
+            "gross_weight_kg": 2556,
+            "doors": 5,
+            "seats": 5,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 4064,
+            "trunk_volume_l": 450,
+            "fuel_tank_l": 65
+          },
+          "trims": [
+            {
+              "name": "2.0L 8AT (252 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1991,
+                "cylinders": 4,
+                "power_hp": 252,
+                "torque_nm": 400,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 252
+              }
+            },
+            {
+              "name": "2.0L 8AT (252 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1991,
+                "cylinders": 4,
+                "power_hp": 252,
+                "torque_nm": 400,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 252
+              }
+            },
+            {
+              "name": "2.0L eCVT (190 HP) Hybrid AWD",
+              "engine": {
+                "type": "hybrid_petrol",
+                "displacement_cc": 1991,
+                "cylinders": 4,
+                "power_hp": 190,
+                "torque_nm": 330,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "e_cvt"
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 190
+              }
+            },
+            {
+              "name": "2.0L CVT (274 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1998,
+                "cylinders": 4,
+                "power_hp": 274,
+                "power_kw": 203,
+                "torque_nm": 630,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 7.5,
+                "fuel_consumption_combined_l100km": 5.5
+              }
+            },
+            {
+              "name": "2.0L CVT (190 HP) Hybrid AWD",
+              "engine": {
+                "type": "hybrid_petrol",
+                "aspiration": "turbocharged",
+                "displacement_cc": 1991,
+                "cylinders": 4,
+                "power_hp": 190,
+                "torque_nm": 330,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 190
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gac_aion_lx",
+      "name": "Aion LX",
+      "body_type": "suv",
+      "powertrain": "bev",
+      "generations": [
+        {
+          "id": "gac_aion_lx__stub",
+          "name": "Aion LX",
+          "body_type": "suv",
+          "dimensions": {},
+          "trims": []
+        }
+      ]
+    },
+    {
+      "id": "gac_gn8",
+      "name": "GN8",
+      "body_type": "minivan",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "gac_gn8__stub",
+          "name": "GN8",
+          "body_type": "minivan",
+          "dimensions": {},
+          "trims": []
+        }
+      ]
+    },
+    {
+      "id": "gac_s7",
+      "name": "S7",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "gac_s7_2012",
+          "name": "S7 2012-н.в.",
+          "ys": 2012,
+          "ye": 2026
+        }
+      ]
+    }
+  ]
+}

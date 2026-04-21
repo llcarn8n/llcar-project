@@ -1,1 +1,367 @@
-{"id":"livan","name":"Livan","name_ru":"Ливан","country":"CN","models":[{"id":"livan_7","name":"7","body_type":"coupe","powertrain":"bev","generations":[{"id":"livan_7__7_coupe_2023_2023","name":"7 2023-н.в.","ys":2023,"ye":null,"body_type":"coupe","dimensions":{"length_mm":4690,"width_mm":1892,"height_mm":1650,"ground_clearance_mm":120,"trunk_volume_l":402,"trunk_volume_max_l":402,"doors":2,"seats":4},"trims":[{"name":"EV 100 kW","engine":{"type":"electric","power_hp":136,"power_kw":100,"torque_nm":180,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":1},"drivetrain":"fwd","performance":{"power_hp":136,"power_kw":100}},{"name":"EV 150 kW","engine":{"type":"electric","power_hp":204,"power_kw":150,"torque_nm":310,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":1},"drivetrain":"fwd","performance":{"power_hp":204,"power_kw":150}}]}]},{"id":"livan_9","name":"9","body_type":"suv","powertrain":"bev","generations":[{"id":"livan_9__9_suv_2023_2022","name":"9 2022-н.в.","ys":2022,"ye":null,"body_type":"suv","dimensions":{"length_mm":4845,"width_mm":1890,"height_mm":1778,"wheelbase_mm":3429,"ground_clearance_mm":200,"trunk_volume_l":162,"trunk_volume_max_l":162,"curb_weight_kg":1850,"doors":5,"seats":5},"trims":[{"name":"1.5L 7AT (181 HP)","engine":{"type":"petrol","displacement_cc":1498,"power_hp":181,"power_kw":133,"torque_nm":285,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":7},"drivetrain":"fwd","performance":{"power_hp":181,"power_kw":133}},{"name":"1.5L 7AT (181 HP)","engine":{"type":"petrol","displacement_cc":1498,"power_hp":181,"power_kw":133,"torque_nm":285,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":7},"drivetrain":"fwd","performance":{"power_hp":181,"power_kw":133}}]}]},{"id":"livan_s6_pro","name":"S6 Pro","body_type":"sedan","powertrain":"bev","generations":[{"id":"livan_s6_pro__s6_pro_sedan_2024_2023","name":"S6 Pro 2023-н.в.","ys":2023,"ye":null,"body_type":"sedan","dimensions":{"length_mm":4730,"width_mm":1818,"height_mm":1480,"wheelbase_mm":2790,"ground_clearance_mm":150,"trunk_volume_l":418,"trunk_volume_max_l":418,"fuel_tank_l":55,"curb_weight_kg":1425,"doors":4,"seats":5,"wheelbase_estimated":true,"wheelbase_mm_original_error":3810},"trims":[{"name":"1.5L 7DCT (147 HP)","engine":{"type":"petrol","aspiration":"turbo","displacement_cc":1499,"cylinders":4,"power_hp":147,"power_kw":108,"torque_nm":270,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"fwd","performance":{"top_speed_kmh":190,"acceleration_0_100_s":8.8,"fuel_consumption_combined_l100km":6.3}},{"name":"1.5L 7DCT (181 HP)","engine":{"type":"petrol","aspiration":"turbo","displacement_cc":1499,"cylinders":4,"power_hp":181,"power_kw":133,"torque_nm":290,"fuel_type":"petrol"},"transmission":{"type":"dct","gears":7},"drivetrain":"fwd","performance":{"top_speed_kmh":195,"acceleration_0_100_s":8.4,"fuel_consumption_combined_l100km":6.3}}]}]},{"id":"livan_x3_pro","name":"X3 PRO","body_type":"suv","powertrain":"bev","generations":[{"id":"livan__x3_pro__i_2022","name":"X3 PRO 2022-2024","ys":2022,"ye":2024,"body_type":"suv","dimensions":{"length_mm":4005,"width_mm":1760,"height_mm":1575,"wheelbase_mm":2480,"ground_clearance_mm":185,"trunk_volume_l":400,"fuel_tank_l":45,"curb_weight_kg":1180,"doors":5,"seats":5,"trunk_volume_max_l":400,"gross_weight_kg":1590,"wheelbase_estimated":true,"wheelbase_mm_original_error":4699},"trims":[{"name":"1.5L 5MT (103 HP)","engine":{"code":"JLy-4G15","type":"petrol","aspiration":"natural","displacement_cc":1498,"cylinders":4,"power_hp":103,"power_kw":76,"torque_nm":140,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":170,"acceleration_0_100_s":13,"fuel_consumption_combined_l100km":7.2}},{"name":"1.5L CVT (103 HP)","engine":{"code":"JLy-4G15","type":"petrol","aspiration":"natural","displacement_cc":1498,"cylinders":4,"power_hp":103,"power_kw":76,"torque_nm":140,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"top_speed_kmh":170,"acceleration_0_100_s":13,"fuel_consumption_combined_l100km":7.3}},{"name":"1.5L CVT (113 HP)","engine":{"code":"JLC-4G15C","type":"petrol","aspiration":"natural","displacement_cc":1498,"cylinders":4,"power_hp":113,"power_kw":83,"torque_nm":143,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"top_speed_kmh":160,"fuel_consumption_combined_l100km":6.9}},{"name":"1.5L (103 HP)","engine":{"type":"lpg","displacement_cc":1498,"cylinders":4,"power_hp":103,"power_kw":76,"fuel_type":"lpg"},"drivetrain":"fwd","performance":{"co2_emissions_gkm":149,"fuel_consumption_standard":"WLTP"}}]}]},{"id":"livan_solano","name":"Solano","body_type":"sedan","powertrain":"ice","generations":[{"id":"livan_solano__stub","name":"Solano","body_type":"sedan","dimensions":{},"trims":[]}]}]}
+{
+  "id": "livan",
+  "name": "Livan",
+  "name_ru": "Ливан",
+  "country": "CN",
+  "models": [
+    {
+      "id": "livan_7",
+      "name": "7",
+      "body_type": "coupe",
+      "powertrain": "bev",
+      "generations": [
+        {
+          "id": "livan_7__7_coupe_2023_2023",
+          "name": "7 2023-н.в.",
+          "ys": 2023,
+          "ye": null,
+          "body_type": "coupe",
+          "dimensions": {
+            "length_mm": 4690,
+            "width_mm": 1892,
+            "height_mm": 1650,
+            "ground_clearance_mm": 120,
+            "trunk_volume_l": 402,
+            "trunk_volume_max_l": 402,
+            "doors": 2,
+            "seats": 4
+          },
+          "trims": [
+            {
+              "name": "EV 100 kW",
+              "engine": {
+                "type": "electric",
+                "power_hp": 136,
+                "power_kw": 100,
+                "torque_nm": 180,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 1
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 136,
+                "power_kw": 100
+              }
+            },
+            {
+              "name": "EV 150 kW",
+              "engine": {
+                "type": "electric",
+                "power_hp": 204,
+                "power_kw": 150,
+                "torque_nm": 310,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 1
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 204,
+                "power_kw": 150
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "livan_9",
+      "name": "9",
+      "body_type": "suv",
+      "powertrain": "bev",
+      "generations": [
+        {
+          "id": "livan_9__9_suv_2023_2022",
+          "name": "9 2022-н.в.",
+          "ys": 2022,
+          "ye": null,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4845,
+            "width_mm": 1890,
+            "height_mm": 1778,
+            "wheelbase_mm": 3429,
+            "ground_clearance_mm": 200,
+            "trunk_volume_l": 162,
+            "trunk_volume_max_l": 162,
+            "curb_weight_kg": 1850,
+            "doors": 5,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "1.5L 7AT (181 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1498,
+                "power_hp": 181,
+                "power_kw": 133,
+                "torque_nm": 285,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 181,
+                "power_kw": 133
+              }
+            },
+            {
+              "name": "1.5L 7AT (181 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1498,
+                "power_hp": 181,
+                "power_kw": 133,
+                "torque_nm": 285,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 181,
+                "power_kw": 133
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "livan_s6_pro",
+      "name": "S6 Pro",
+      "body_type": "sedan",
+      "powertrain": "bev",
+      "generations": [
+        {
+          "id": "livan_s6_pro__s6_pro_sedan_2024_2023",
+          "name": "S6 Pro 2023-н.в.",
+          "ys": 2023,
+          "ye": null,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 4730,
+            "width_mm": 1818,
+            "height_mm": 1480,
+            "wheelbase_mm": 2790,
+            "ground_clearance_mm": 150,
+            "trunk_volume_l": 418,
+            "trunk_volume_max_l": 418,
+            "fuel_tank_l": 55,
+            "curb_weight_kg": 1425,
+            "doors": 4,
+            "seats": 5,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 3810
+          },
+          "trims": [
+            {
+              "name": "1.5L 7DCT (147 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbo",
+                "displacement_cc": 1499,
+                "cylinders": 4,
+                "power_hp": 147,
+                "power_kw": 108,
+                "torque_nm": 270,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 190,
+                "acceleration_0_100_s": 8.8,
+                "fuel_consumption_combined_l100km": 6.3
+              }
+            },
+            {
+              "name": "1.5L 7DCT (181 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "turbo",
+                "displacement_cc": 1499,
+                "cylinders": 4,
+                "power_hp": 181,
+                "power_kw": 133,
+                "torque_nm": 290,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "dct",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 195,
+                "acceleration_0_100_s": 8.4,
+                "fuel_consumption_combined_l100km": 6.3
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "livan_x3_pro",
+      "name": "X3 PRO",
+      "body_type": "suv",
+      "powertrain": "bev",
+      "generations": [
+        {
+          "id": "livan__x3_pro__i_2022",
+          "name": "X3 PRO 2022-2024",
+          "ys": 2022,
+          "ye": 2024,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4005,
+            "width_mm": 1760,
+            "height_mm": 1575,
+            "wheelbase_mm": 2480,
+            "ground_clearance_mm": 185,
+            "trunk_volume_l": 400,
+            "fuel_tank_l": 45,
+            "curb_weight_kg": 1180,
+            "doors": 5,
+            "seats": 5,
+            "trunk_volume_max_l": 400,
+            "gross_weight_kg": 1590,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 4699
+          },
+          "trims": [
+            {
+              "name": "1.5L 5MT (103 HP)",
+              "engine": {
+                "code": "JLy-4G15",
+                "type": "petrol",
+                "aspiration": "natural",
+                "displacement_cc": 1498,
+                "cylinders": 4,
+                "power_hp": 103,
+                "power_kw": 76,
+                "torque_nm": 140,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 170,
+                "acceleration_0_100_s": 13,
+                "fuel_consumption_combined_l100km": 7.2
+              }
+            },
+            {
+              "name": "1.5L CVT (103 HP)",
+              "engine": {
+                "code": "JLy-4G15",
+                "type": "petrol",
+                "aspiration": "natural",
+                "displacement_cc": 1498,
+                "cylinders": 4,
+                "power_hp": 103,
+                "power_kw": 76,
+                "torque_nm": 140,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 170,
+                "acceleration_0_100_s": 13,
+                "fuel_consumption_combined_l100km": 7.3
+              }
+            },
+            {
+              "name": "1.5L CVT (113 HP)",
+              "engine": {
+                "code": "JLC-4G15C",
+                "type": "petrol",
+                "aspiration": "natural",
+                "displacement_cc": 1498,
+                "cylinders": 4,
+                "power_hp": 113,
+                "power_kw": 83,
+                "torque_nm": 143,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 160,
+                "fuel_consumption_combined_l100km": 6.9
+              }
+            },
+            {
+              "name": "1.5L (103 HP)",
+              "engine": {
+                "type": "lpg",
+                "displacement_cc": 1498,
+                "cylinders": 4,
+                "power_hp": 103,
+                "power_kw": 76,
+                "fuel_type": "lpg"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "co2_emissions_gkm": 149,
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "livan_solano",
+      "name": "Solano",
+      "body_type": "sedan",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "livan_solano__stub",
+          "name": "Solano",
+          "body_type": "sedan",
+          "dimensions": {},
+          "trims": []
+        }
+      ]
+    },
+    {
+      "id": "livan_x50",
+      "name": "X50",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "livan_x50_2023",
+          "name": "X50 2023-н.в.",
+          "ys": 2023,
+          "ye": 2026
+        }
+      ]
+    }
+  ]
+}

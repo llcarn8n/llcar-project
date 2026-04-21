@@ -1,1 +1,1209 @@
-{"id":"baic","name":"BAIC","name_ru":"БАИК","country":"CN","models":[{"id":"baic_bj40","name":"BJ40","body_type":"suv","powertrain":"ice","generations":[{"id":"baic_bj40__bj40_i_рестайлинг_suv_2019","name":"BJ40 I (BJ40) 2019-2026","ys":2019,"ye":2026,"body_type":"suv","dimensions":{"length_mm":4624,"width_mm":1925,"height_mm":1871,"wheelbase_mm":2725,"ground_clearance_mm":200,"fuel_tank_l":75,"curb_weight_kg":2140,"doors":5,"seats":5},"trims":[{"name":"2.0L 8AT (225 HP) AWD","engine":{"type":"petrol","displacement_cc":1967,"cylinders":4,"power_hp":225,"power_kw":165,"torque_nm":380,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"top_speed_kmh":160,"fuel_consumption_combined_l100km":9.4}},{"name":"2.0L 8AT (218 HP) AWD","engine":{"type":"petrol","displacement_cc":1967,"cylinders":4,"power_hp":218,"power_kw":160,"torque_nm":380,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"top_speed_kmh":160,"acceleration_0_100_s":10.85,"fuel_consumption_combined_l100km":10.4,"fuel_consumption_city_l100km":13.8,"fuel_consumption_highway_l100km":8.4}},{"name":"2.0L 8AT (224 HP) AWD","engine":{"type":"petrol","displacement_cc":1967,"cylinders":4,"power_hp":224,"power_kw":165,"torque_nm":380,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"top_speed_kmh":160,"fuel_consumption_combined_l100km":9.85}},{"name":"2.0L 8AT (224 HP)","engine":{"type":"petrol","displacement_cc":1967,"cylinders":4,"power_hp":224,"power_kw":165,"torque_nm":380,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":8},"drivetrain":"rwd","performance":{"top_speed_kmh":160,"fuel_consumption_combined_l100km":9.4}},{"name":"2.0L 8AT (162 HP) AWD","engine":{"type":"diesel","displacement_cc":1968,"cylinders":4,"power_hp":162,"power_kw":119,"torque_nm":380,"fuel_type":"diesel"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"top_speed_kmh":160,"acceleration_0_100_s":14.48,"fuel_consumption_combined_l100km":8.4,"fuel_consumption_city_l100km":10.5,"fuel_consumption_highway_l100km":7.2}},{"name":"2.3L 6AT (231 HP) AWD","engine":{"type":"petrol","displacement_cc":2290,"cylinders":4,"power_hp":231,"power_kw":170,"torque_nm":345,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"awd","performance":{"top_speed_kmh":160,"fuel_consumption_combined_l100km":10.6}},{"name":"2.3L 5MT (211 HP) AWD","engine":{"type":"petrol","displacement_cc":2290,"cylinders":4,"power_hp":211,"power_kw":155,"torque_nm":330,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"awd","performance":{"top_speed_kmh":160,"fuel_consumption_combined_l100km":9.7}},{"name":"2.3L 6AT (250 HP) AWD","engine":{"type":"petrol","displacement_cc":2290,"cylinders":4,"power_hp":250,"power_kw":184,"torque_nm":350,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"awd","performance":{"top_speed_kmh":160}}]},{"id":"baic_bj40__bj40_ii_suv_2023","name":"BJ40 II (BJ40) 2023-2026","ys":2023,"ye":2026,"body_type":"suv","dimensions":{"length_mm":4790,"width_mm":1940,"height_mm":1895,"wheelbase_mm":2760,"ground_clearance_mm":210,"trunk_volume_l":532,"fuel_tank_l":84,"curb_weight_kg":2640,"doors":5,"seats":5},"trims":[{"name":"2.3L 6AT (231 HP) AWD","engine":{"type":"petrol","displacement_cc":2290,"cylinders":4,"power_hp":231,"power_kw":170,"torque_nm":345,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"awd","performance":{"top_speed_kmh":160,"fuel_consumption_combined_l100km":10.6}},{"name":"2.3L 5MT (211 HP) AWD","engine":{"type":"petrol","displacement_cc":2290,"cylinders":4,"power_hp":211,"power_kw":155,"torque_nm":330,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"awd","performance":{"top_speed_kmh":160,"fuel_consumption_combined_l100km":9.7}},{"name":"2.0L 8AT (163 HP) AWD","engine":{"type":"diesel","displacement_cc":1999,"cylinders":4,"power_hp":163,"power_kw":120,"torque_nm":380,"fuel_type":"diesel"},"transmission":{"type":"automatic","gears":8},"drivetrain":"awd","performance":{"top_speed_kmh":160,"fuel_consumption_combined_l100km":8.5}},{"name":"2.0L 6MT (150 HP) AWD","engine":{"type":"diesel","displacement_cc":1999,"cylinders":4,"power_hp":150,"power_kw":110,"torque_nm":350,"fuel_type":"diesel"},"transmission":{"type":"manual","gears":6},"drivetrain":"awd","performance":{"top_speed_kmh":160,"fuel_consumption_combined_l100km":8.5,"fuel_consumption_city_l100km":9.8,"fuel_consumption_highway_l100km":7.7}},{"name":"2.3L 5MT (250 HP) AWD","engine":{"type":"petrol","displacement_cc":2290,"cylinders":4,"power_hp":250,"power_kw":184,"torque_nm":350,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"awd","performance":{"top_speed_kmh":160}},{"name":"2.3L 6AT (250 HP) AWD","engine":{"type":"petrol","displacement_cc":2290,"cylinders":4,"power_hp":250,"power_kw":184,"torque_nm":350,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"awd","performance":{"top_speed_kmh":160,"acceleration_0_100_s":10,"fuel_consumption_combined_l100km":10.8}},{"name":"2.0L 5MT (204 HP)","engine":{"type":"petrol","displacement_cc":1985,"cylinders":4,"power_hp":204,"power_kw":150,"torque_nm":280,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"rwd","performance":{"top_speed_kmh":160,"fuel_consumption_combined_l100km":10.8,"fuel_consumption_city_l100km":14.2,"fuel_consumption_highway_l100km":8.8}},{"name":"2.0L 5MT (204 HP) AWD","engine":{"type":"petrol","displacement_cc":1985,"cylinders":4,"power_hp":204,"power_kw":150,"torque_nm":280,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"awd","performance":{"top_speed_kmh":160,"fuel_consumption_combined_l100km":10.8,"fuel_consumption_city_l100km":14.2,"fuel_consumption_highway_l100km":8.8}},{"name":"2.3L 6AT (250 HP)","engine":{"type":"petrol","displacement_cc":2290,"cylinders":4,"power_hp":250,"power_kw":184,"torque_nm":350,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":6},"drivetrain":"rwd","performance":{"top_speed_kmh":160}},{"name":"2.4L 5MT (143 HP) AWD","engine":{"type":"petrol","displacement_cc":2438,"cylinders":4,"power_hp":143,"power_kw":105,"torque_nm":217,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"awd","performance":{"power_hp":143,"power_kw":105}}]}]},{"id":"baic_u5_plus","name":"U5 Plus","body_type":"sedan","powertrain":"ice","generations":[{"id":"baic_u5_plus__u5_plus_sedan_2021_2021","name":"U5 Plus 2021-2026","ys":2021,"ye":2026,"body_type":"sedan","dimensions":{"length_mm":4660,"width_mm":1820,"height_mm":1480,"wheelbase_mm":2670,"ground_clearance_mm":140,"fuel_tank_l":48,"curb_weight_kg":1288,"doors":4,"seats":5},"trims":[{"name":"1.5L 5MT (105 HP)","engine":{"type":"petrol","displacement_cc":1499,"cylinders":4,"power_hp":105,"power_kw":77,"torque_nm":134,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"performance":{"top_speed_kmh":180,"acceleration_0_100_s":12.5,"fuel_consumption_combined_l100km":5.7,"fuel_consumption_city_l100km":8.1,"fuel_consumption_highway_l100km":4.1}},{"name":"1.5L CVT (105 HP)","engine":{"type":"petrol","displacement_cc":1499,"cylinders":4,"power_hp":105,"power_kw":77,"torque_nm":134,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"performance":{"top_speed_kmh":180,"acceleration_0_100_s":12.5,"fuel_consumption_combined_l100km":5.9,"fuel_consumption_city_l100km":8.5,"fuel_consumption_highway_l100km":4.3}},{"name":"1.5L 5MT (105 HP)","engine":{"type":"lpg","displacement_cc":1499,"cylinders":4,"power_hp":105,"power_kw":77,"torque_nm":134,"fuel_type":"lpg"},"transmission":{"type":"manual","gears":5},"performance":{"top_speed_kmh":180,"acceleration_0_100_s":12.5,"fuel_consumption_combined_l100km":7.4,"fuel_consumption_city_l100km":9.5,"fuel_consumption_highway_l100km":6.1}},{"name":"1.5L CVT (105 HP)","engine":{"type":"lpg","displacement_cc":1499,"cylinders":4,"power_hp":105,"power_kw":77,"torque_nm":134,"fuel_type":"lpg"},"transmission":{"type":"cvt"},"performance":{"top_speed_kmh":180,"acceleration_0_100_s":12.5,"fuel_consumption_combined_l100km":7.7,"fuel_consumption_city_l100km":9.5,"fuel_consumption_highway_l100km":6.6}},{"name":"1.5L CVT (150 HP)","engine":{"type":"petrol","displacement_cc":1499,"cylinders":4,"power_hp":150,"power_kw":110,"torque_nm":210,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"performance":{"top_speed_kmh":180,"fuel_consumption_combined_l100km":6.2,"fuel_consumption_city_l100km":9.5,"fuel_consumption_highway_l100km":4.4}}]}]},{"id":"baic_x35","name":"X35","body_type":"suv","powertrain":"ice","generations":[{"id":"baic_x35__x35_suv_2019_2019","name":"X35 I (X35) 2019-2025","ys":2019,"ye":2025,"body_type":"suv","dimensions":{"length_mm":4325,"width_mm":1830,"height_mm":1640,"wheelbase_mm":2570,"ground_clearance_mm":200,"fuel_tank_l":46,"curb_weight_kg":1340,"doors":5,"seats":5},"trims":[{"name":"1.5L 5MT (112 HP)","engine":{"type":"petrol","displacement_cc":1499,"cylinders":4,"power_hp":112,"power_kw":82,"torque_nm":142,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":5},"drivetrain":"fwd","performance":{"top_speed_kmh":170,"fuel_consumption_combined_l100km":6.6,"fuel_consumption_city_l100km":8.4,"fuel_consumption_highway_l100km":5.8}},{"name":"1.5L CVT (136 HP)","engine":{"type":"petrol","displacement_cc":1499,"cylinders":4,"power_hp":136,"power_kw":100,"torque_nm":210,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"top_speed_kmh":175,"acceleration_0_100_s":11.3,"fuel_consumption_combined_l100km":7.2,"fuel_consumption_city_l100km":9.4,"fuel_consumption_highway_l100km":6}},{"name":"1.5L 4AT (112 HP)","engine":{"type":"petrol","displacement_cc":1499,"cylinders":4,"power_hp":112,"power_kw":82,"torque_nm":142,"fuel_type":"petrol"},"transmission":{"type":"automatic","gears":4},"drivetrain":"fwd","performance":{"top_speed_kmh":170,"fuel_consumption_combined_l100km":6.8,"fuel_consumption_city_l100km":8.8,"fuel_consumption_highway_l100km":6}},{"name":"1.5L 6MT (136 HP)","engine":{"type":"petrol","displacement_cc":1499,"cylinders":4,"power_hp":136,"power_kw":100,"torque_nm":210,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":185,"fuel_consumption_combined_l100km":6.9,"fuel_consumption_city_l100km":9.2,"fuel_consumption_highway_l100km":5.5}},{"name":"1.5L 6MT (150 HP)","engine":{"type":"petrol","displacement_cc":1499,"cylinders":4,"power_hp":150,"power_kw":110,"torque_nm":210,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":185,"fuel_consumption_combined_l100km":6.9,"fuel_consumption_city_l100km":9.2,"fuel_consumption_highway_l100km":5.5}},{"name":"1.5L 6MT (116 HP)","engine":{"type":"petrol","displacement_cc":1499,"cylinders":4,"power_hp":116,"torque_nm":148,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"power_hp":116}},{"name":"1.5L CVT (116 HP)","engine":{"type":"petrol","displacement_cc":1499,"cylinders":4,"power_hp":116,"torque_nm":148,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"power_hp":116}}]},{"id":"baic_x35__x35_2023_2023","name":"X35 II (X35) 2023-2023","ys":2023,"ye":2023,"body_type":"suv","dimensions":{"curb_weight_kg":1400},"trims":[{"name":"1.5L (125 HP)","engine":{"type":"lpg","displacement_cc":1499,"cylinders":4,"power_hp":125,"power_kw":92,"fuel_type":"lpg"},"performance":{"co2_emissions_gkm":184,"fuel_consumption_standard":"WLTP"}},{"name":"1.5L (116 HP)","engine":{"type":"cng","displacement_cc":1499,"cylinders":4,"power_hp":116,"power_kw":85,"fuel_type":"cng"},"performance":{"fuel_consumption_combined_l100km":8.7,"co2_emissions_gkm":197,"fuel_consumption_standard":"WLTP"}},{"name":"1.5L (125 HP)","engine":{"type":"petrol","displacement_cc":1498,"cylinders":4,"power_hp":125,"power_kw":92,"fuel_type":"petrol"},"performance":{"fuel_consumption_combined_l100km":8.4,"co2_emissions_gkm":195,"fuel_consumption_standard":"WLTP"}}]},{"id":"baic__x35__x35_2016_present_0","name":"X35 III (X35)","ys":null,"ye":null,"body_type":"suv","dimensions":{"length_mm":4286,"width_mm":1815,"height_mm":1665,"wheelbase_mm":2570},"trims":[{"name":"1.5L 6MT (116 HP)","engine":{"type":"petrol","aspiration":"naturally_aspirated","displacement_cc":1499,"cylinders":4,"power_hp":116,"torque_nm":148,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"power_hp":116}},{"name":"1.5L CVT (116 HP)","engine":{"type":"petrol","aspiration":"naturally_aspirated","displacement_cc":1499,"cylinders":4,"power_hp":116,"torque_nm":148,"fuel_type":"petrol"},"transmission":{"type":"cvt"},"drivetrain":"fwd","performance":{"power_hp":116}}]}]},{"id":"baic_x55","name":"X55","body_type":"suv","powertrain":"ice","generations":[{"id":"baic_x55__x55_suv_2023_2022","name":"X55 (X55) 2022-2026","ys":2022,"ye":2026,"body_type":"suv","dimensions":{"length_mm":4620,"width_mm":1886,"height_mm":1680,"wheelbase_mm":2735,"ground_clearance_mm":200,"fuel_tank_l":53,"curb_weight_kg":1625,"doors":5,"seats":5,"trunk_volume_l":350,"trunk_volume_max_l":350,"gross_weight_kg":1970,"wheelbase_estimated":true,"wheelbase_mm_original_error":4064},"trims":[{"name":"1.5L 7AMT (188 HP)","engine":{"type":"petrol","displacement_cc":1498,"cylinders":4,"power_hp":188,"power_kw":138,"torque_nm":305,"fuel_type":"petrol"},"transmission":{"type":"amt","gears":7},"performance":{"top_speed_kmh":200,"acceleration_0_100_s":7.8,"fuel_consumption_combined_l100km":7.2}},{"name":"1.5L 7AMT (177 HP)","engine":{"type":"petrol","displacement_cc":1498,"cylinders":4,"power_hp":177,"power_kw":130,"torque_nm":305,"fuel_type":"petrol"},"transmission":{"type":"amt","gears":7},"performance":{"top_speed_kmh":200,"acceleration_0_100_s":7.8,"fuel_consumption_combined_l100km":6.5,"fuel_consumption_city_l100km":7.8,"fuel_consumption_highway_l100km":9.8}},{"name":"1.5L (174 HP)","engine":{"type":"lpg","displacement_cc":1498,"cylinders":4,"power_hp":174,"power_kw":128,"fuel_type":"lpg"},"performance":{"fuel_consumption_combined_l100km":8,"co2_emissions_gkm":165,"fuel_consumption_standard":"WLTP"}},{"name":"1.5L (175 HP)","engine":{"type":"petrol","displacement_cc":1497,"cylinders":4,"power_hp":175,"power_kw":129,"fuel_type":"petrol"},"performance":{"fuel_consumption_combined_l100km":7.6,"co2_emissions_gkm":175,"fuel_consumption_standard":"WLTP"}},{"name":"1.5L (151 HP)","engine":{"type":"lpg","displacement_cc":1498,"cylinders":4,"power_hp":151,"power_kw":111,"fuel_type":"lpg"},"performance":{"co2_emissions_gkm":174,"fuel_consumption_standard":"WLTP"}},{"name":"1.5L (136 HP)","engine":{"type":"cng","displacement_cc":1499,"cylinders":4,"power_hp":136,"power_kw":100,"fuel_type":"cng"},"performance":{"co2_emissions_gkm":206,"fuel_consumption_standard":"WLTP"}}]}]},{"id":"baic_x7","name":"X7","body_type":"suv","powertrain":"ice","generations":[{"id":"baic_x7__x7_i_suv_2020","name":"X7 I 2020-2025","ys":2020,"ye":2025,"body_type":"suv","dimensions":{"length_mm":4710,"width_mm":1892,"height_mm":1715,"wheelbase_mm":2800,"ground_clearance_mm":200,"fuel_tank_l":59,"curb_weight_kg":1879,"doors":5,"seats":5},"trims":[{"name":"1.5L 6MT (180 HP)","engine":{"type":"petrol","displacement_cc":1499,"cylinders":4,"power_hp":180,"power_kw":132,"torque_nm":275,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":200,"fuel_consumption_combined_l100km":6.6,"fuel_consumption_city_l100km":9.3,"fuel_consumption_highway_l100km":5.2}},{"name":"1.5L 7AMT (180 HP)","engine":{"type":"petrol","displacement_cc":1499,"cylinders":4,"power_hp":180,"power_kw":132,"torque_nm":270,"fuel_type":"petrol"},"transmission":{"type":"amt","gears":7},"drivetrain":"fwd","performance":{"top_speed_kmh":210,"fuel_consumption_combined_l100km":7.9,"fuel_consumption_city_l100km":10.5,"fuel_consumption_highway_l100km":6.4}},{"name":"1.5L 7AMT (188 HP)","engine":{"type":"petrol","displacement_cc":1499,"cylinders":4,"power_hp":188,"power_kw":138,"torque_nm":275,"fuel_type":"petrol"},"transmission":{"type":"amt","gears":7},"drivetrain":"fwd","performance":{"top_speed_kmh":210,"acceleration_0_100_s":10.5,"fuel_consumption_combined_l100km":6.8,"fuel_consumption_city_l100km":9.4,"fuel_consumption_highway_l100km":5.1}},{"name":"1.5L 6MT (188 HP)","engine":{"type":"petrol","displacement_cc":1499,"cylinders":4,"power_hp":188,"power_kw":138,"torque_nm":275,"fuel_type":"petrol"},"transmission":{"type":"manual","gears":6},"drivetrain":"fwd","performance":{"top_speed_kmh":200,"fuel_consumption_combined_l100km":6.6,"fuel_consumption_city_l100km":9.3,"fuel_consumption_highway_l100km":5.2}},{"name":"1.5L 7AMT (169 HP) Hybrid","engine":{"type":"hybrid_petrol","displacement_cc":1499,"cylinders":4,"power_hp":169,"power_kw":124,"torque_nm":260,"fuel_type":"hybrid_petrol"},"transmission":{"type":"amt","gears":7},"drivetrain":"fwd","performance":{"top_speed_kmh":180,"acceleration_0_100_s":7.2,"fuel_consumption_combined_l100km":1.4}}]},{"id":"baic_x7__x7_2024_2024","name":"X7 II 2024-2024","ys":2024,"ye":2024,"body_type":"suv","dimensions":{"length_mm":4745,"width_mm":1892,"height_mm":1715,"wheelbase_mm":2800,"ground_clearance_mm":200,"fuel_tank_l":60,"curb_weight_kg":1700,"doors":5,"seats":5},"trims":[{"name":"1.5L (177 HP)","engine":{"type":"petrol","displacement_cc":1498,"cylinders":4,"power_hp":177,"power_kw":130,"fuel_type":"petrol"},"drivetrain":"fwd","performance":{"fuel_consumption_combined_l100km":7.3,"fuel_consumption_standard":"WLTP"}}]}]}]}
+{
+  "id": "baic",
+  "name": "BAIC",
+  "name_ru": "БАИК",
+  "country": "CN",
+  "models": [
+    {
+      "id": "baic_bj40",
+      "name": "BJ40",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "baic_bj40__bj40_i_рестайлинг_suv_2019",
+          "name": "BJ40 I (BJ40) 2019-2026",
+          "ys": 2019,
+          "ye": 2026,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4624,
+            "width_mm": 1925,
+            "height_mm": 1871,
+            "wheelbase_mm": 2725,
+            "ground_clearance_mm": 200,
+            "fuel_tank_l": 75,
+            "curb_weight_kg": 2140,
+            "doors": 5,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "2.0L 8AT (225 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1967,
+                "cylinders": 4,
+                "power_hp": 225,
+                "power_kw": 165,
+                "torque_nm": 380,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 160,
+                "fuel_consumption_combined_l100km": 9.4
+              }
+            },
+            {
+              "name": "2.0L 8AT (218 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1967,
+                "cylinders": 4,
+                "power_hp": 218,
+                "power_kw": 160,
+                "torque_nm": 380,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 160,
+                "acceleration_0_100_s": 10.85,
+                "fuel_consumption_combined_l100km": 10.4,
+                "fuel_consumption_city_l100km": 13.8,
+                "fuel_consumption_highway_l100km": 8.4
+              }
+            },
+            {
+              "name": "2.0L 8AT (224 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1967,
+                "cylinders": 4,
+                "power_hp": 224,
+                "power_kw": 165,
+                "torque_nm": 380,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 160,
+                "fuel_consumption_combined_l100km": 9.85
+              }
+            },
+            {
+              "name": "2.0L 8AT (224 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1967,
+                "cylinders": 4,
+                "power_hp": 224,
+                "power_kw": 165,
+                "torque_nm": 380,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "top_speed_kmh": 160,
+                "fuel_consumption_combined_l100km": 9.4
+              }
+            },
+            {
+              "name": "2.0L 8AT (162 HP) AWD",
+              "engine": {
+                "type": "diesel",
+                "displacement_cc": 1968,
+                "cylinders": 4,
+                "power_hp": 162,
+                "power_kw": 119,
+                "torque_nm": 380,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 160,
+                "acceleration_0_100_s": 14.48,
+                "fuel_consumption_combined_l100km": 8.4,
+                "fuel_consumption_city_l100km": 10.5,
+                "fuel_consumption_highway_l100km": 7.2
+              }
+            },
+            {
+              "name": "2.3L 6AT (231 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 2290,
+                "cylinders": 4,
+                "power_hp": 231,
+                "power_kw": 170,
+                "torque_nm": 345,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 160,
+                "fuel_consumption_combined_l100km": 10.6
+              }
+            },
+            {
+              "name": "2.3L 5MT (211 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 2290,
+                "cylinders": 4,
+                "power_hp": 211,
+                "power_kw": 155,
+                "torque_nm": 330,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 160,
+                "fuel_consumption_combined_l100km": 9.7
+              }
+            },
+            {
+              "name": "2.3L 6AT (250 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 2290,
+                "cylinders": 4,
+                "power_hp": 250,
+                "power_kw": 184,
+                "torque_nm": 350,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 160
+              }
+            }
+          ]
+        },
+        {
+          "id": "baic_bj40__bj40_ii_suv_2023",
+          "name": "BJ40 II (BJ40) 2023-2026",
+          "ys": 2023,
+          "ye": 2026,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4790,
+            "width_mm": 1940,
+            "height_mm": 1895,
+            "wheelbase_mm": 2760,
+            "ground_clearance_mm": 210,
+            "trunk_volume_l": 532,
+            "fuel_tank_l": 84,
+            "curb_weight_kg": 2640,
+            "doors": 5,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "2.3L 6AT (231 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 2290,
+                "cylinders": 4,
+                "power_hp": 231,
+                "power_kw": 170,
+                "torque_nm": 345,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 160,
+                "fuel_consumption_combined_l100km": 10.6
+              }
+            },
+            {
+              "name": "2.3L 5MT (211 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 2290,
+                "cylinders": 4,
+                "power_hp": 211,
+                "power_kw": 155,
+                "torque_nm": 330,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 160,
+                "fuel_consumption_combined_l100km": 9.7
+              }
+            },
+            {
+              "name": "2.0L 8AT (163 HP) AWD",
+              "engine": {
+                "type": "diesel",
+                "displacement_cc": 1999,
+                "cylinders": 4,
+                "power_hp": 163,
+                "power_kw": 120,
+                "torque_nm": 380,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 8
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 160,
+                "fuel_consumption_combined_l100km": 8.5
+              }
+            },
+            {
+              "name": "2.0L 6MT (150 HP) AWD",
+              "engine": {
+                "type": "diesel",
+                "displacement_cc": 1999,
+                "cylinders": 4,
+                "power_hp": 150,
+                "power_kw": 110,
+                "torque_nm": 350,
+                "fuel_type": "diesel"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 160,
+                "fuel_consumption_combined_l100km": 8.5,
+                "fuel_consumption_city_l100km": 9.8,
+                "fuel_consumption_highway_l100km": 7.7
+              }
+            },
+            {
+              "name": "2.3L 5MT (250 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 2290,
+                "cylinders": 4,
+                "power_hp": 250,
+                "power_kw": 184,
+                "torque_nm": 350,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 160
+              }
+            },
+            {
+              "name": "2.3L 6AT (250 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 2290,
+                "cylinders": 4,
+                "power_hp": 250,
+                "power_kw": 184,
+                "torque_nm": 350,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 160,
+                "acceleration_0_100_s": 10,
+                "fuel_consumption_combined_l100km": 10.8
+              }
+            },
+            {
+              "name": "2.0L 5MT (204 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1985,
+                "cylinders": 4,
+                "power_hp": 204,
+                "power_kw": 150,
+                "torque_nm": 280,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "top_speed_kmh": 160,
+                "fuel_consumption_combined_l100km": 10.8,
+                "fuel_consumption_city_l100km": 14.2,
+                "fuel_consumption_highway_l100km": 8.8
+              }
+            },
+            {
+              "name": "2.0L 5MT (204 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1985,
+                "cylinders": 4,
+                "power_hp": 204,
+                "power_kw": 150,
+                "torque_nm": 280,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "top_speed_kmh": 160,
+                "fuel_consumption_combined_l100km": 10.8,
+                "fuel_consumption_city_l100km": 14.2,
+                "fuel_consumption_highway_l100km": 8.8
+              }
+            },
+            {
+              "name": "2.3L 6AT (250 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 2290,
+                "cylinders": 4,
+                "power_hp": 250,
+                "power_kw": 184,
+                "torque_nm": 350,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 6
+              },
+              "drivetrain": "rwd",
+              "performance": {
+                "top_speed_kmh": 160
+              }
+            },
+            {
+              "name": "2.4L 5MT (143 HP) AWD",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 2438,
+                "cylinders": 4,
+                "power_hp": 143,
+                "power_kw": 105,
+                "torque_nm": 217,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "awd",
+              "performance": {
+                "power_hp": 143,
+                "power_kw": 105
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "baic_u5_plus",
+      "name": "U5 Plus",
+      "body_type": "sedan",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "baic_u5_plus__u5_plus_sedan_2021_2021",
+          "name": "U5 Plus 2021-2026",
+          "ys": 2021,
+          "ye": 2026,
+          "body_type": "sedan",
+          "dimensions": {
+            "length_mm": 4660,
+            "width_mm": 1820,
+            "height_mm": 1480,
+            "wheelbase_mm": 2670,
+            "ground_clearance_mm": 140,
+            "fuel_tank_l": 48,
+            "curb_weight_kg": 1288,
+            "doors": 4,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "1.5L 5MT (105 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1499,
+                "cylinders": 4,
+                "power_hp": 105,
+                "power_kw": 77,
+                "torque_nm": 134,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 12.5,
+                "fuel_consumption_combined_l100km": 5.7,
+                "fuel_consumption_city_l100km": 8.1,
+                "fuel_consumption_highway_l100km": 4.1
+              }
+            },
+            {
+              "name": "1.5L CVT (105 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1499,
+                "cylinders": 4,
+                "power_hp": 105,
+                "power_kw": 77,
+                "torque_nm": 134,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 12.5,
+                "fuel_consumption_combined_l100km": 5.9,
+                "fuel_consumption_city_l100km": 8.5,
+                "fuel_consumption_highway_l100km": 4.3
+              }
+            },
+            {
+              "name": "1.5L 5MT (105 HP)",
+              "engine": {
+                "type": "lpg",
+                "displacement_cc": 1499,
+                "cylinders": 4,
+                "power_hp": 105,
+                "power_kw": 77,
+                "torque_nm": 134,
+                "fuel_type": "lpg"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 12.5,
+                "fuel_consumption_combined_l100km": 7.4,
+                "fuel_consumption_city_l100km": 9.5,
+                "fuel_consumption_highway_l100km": 6.1
+              }
+            },
+            {
+              "name": "1.5L CVT (105 HP)",
+              "engine": {
+                "type": "lpg",
+                "displacement_cc": 1499,
+                "cylinders": 4,
+                "power_hp": 105,
+                "power_kw": 77,
+                "torque_nm": 134,
+                "fuel_type": "lpg"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 12.5,
+                "fuel_consumption_combined_l100km": 7.7,
+                "fuel_consumption_city_l100km": 9.5,
+                "fuel_consumption_highway_l100km": 6.6
+              }
+            },
+            {
+              "name": "1.5L CVT (150 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1499,
+                "cylinders": 4,
+                "power_hp": 150,
+                "power_kw": 110,
+                "torque_nm": 210,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "performance": {
+                "top_speed_kmh": 180,
+                "fuel_consumption_combined_l100km": 6.2,
+                "fuel_consumption_city_l100km": 9.5,
+                "fuel_consumption_highway_l100km": 4.4
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "baic_x35",
+      "name": "X35",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "baic_x35__x35_suv_2019_2019",
+          "name": "X35 I (X35) 2019-2025",
+          "ys": 2019,
+          "ye": 2025,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4325,
+            "width_mm": 1830,
+            "height_mm": 1640,
+            "wheelbase_mm": 2570,
+            "ground_clearance_mm": 200,
+            "fuel_tank_l": 46,
+            "curb_weight_kg": 1340,
+            "doors": 5,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "1.5L 5MT (112 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1499,
+                "cylinders": 4,
+                "power_hp": 112,
+                "power_kw": 82,
+                "torque_nm": 142,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 5
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 170,
+                "fuel_consumption_combined_l100km": 6.6,
+                "fuel_consumption_city_l100km": 8.4,
+                "fuel_consumption_highway_l100km": 5.8
+              }
+            },
+            {
+              "name": "1.5L CVT (136 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1499,
+                "cylinders": 4,
+                "power_hp": 136,
+                "power_kw": 100,
+                "torque_nm": 210,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 175,
+                "acceleration_0_100_s": 11.3,
+                "fuel_consumption_combined_l100km": 7.2,
+                "fuel_consumption_city_l100km": 9.4,
+                "fuel_consumption_highway_l100km": 6
+              }
+            },
+            {
+              "name": "1.5L 4AT (112 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1499,
+                "cylinders": 4,
+                "power_hp": 112,
+                "power_kw": 82,
+                "torque_nm": 142,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "automatic",
+                "gears": 4
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 170,
+                "fuel_consumption_combined_l100km": 6.8,
+                "fuel_consumption_city_l100km": 8.8,
+                "fuel_consumption_highway_l100km": 6
+              }
+            },
+            {
+              "name": "1.5L 6MT (136 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1499,
+                "cylinders": 4,
+                "power_hp": 136,
+                "power_kw": 100,
+                "torque_nm": 210,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 185,
+                "fuel_consumption_combined_l100km": 6.9,
+                "fuel_consumption_city_l100km": 9.2,
+                "fuel_consumption_highway_l100km": 5.5
+              }
+            },
+            {
+              "name": "1.5L 6MT (150 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1499,
+                "cylinders": 4,
+                "power_hp": 150,
+                "power_kw": 110,
+                "torque_nm": 210,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 185,
+                "fuel_consumption_combined_l100km": 6.9,
+                "fuel_consumption_city_l100km": 9.2,
+                "fuel_consumption_highway_l100km": 5.5
+              }
+            },
+            {
+              "name": "1.5L 6MT (116 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1499,
+                "cylinders": 4,
+                "power_hp": 116,
+                "torque_nm": 148,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 116
+              }
+            },
+            {
+              "name": "1.5L CVT (116 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1499,
+                "cylinders": 4,
+                "power_hp": 116,
+                "torque_nm": 148,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 116
+              }
+            }
+          ]
+        },
+        {
+          "id": "baic_x35__x35_2023_2023",
+          "name": "X35 II (X35) 2023-2023",
+          "ys": 2023,
+          "ye": 2023,
+          "body_type": "suv",
+          "dimensions": {
+            "curb_weight_kg": 1400
+          },
+          "trims": [
+            {
+              "name": "1.5L (125 HP)",
+              "engine": {
+                "type": "lpg",
+                "displacement_cc": 1499,
+                "cylinders": 4,
+                "power_hp": 125,
+                "power_kw": 92,
+                "fuel_type": "lpg"
+              },
+              "performance": {
+                "co2_emissions_gkm": 184,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.5L (116 HP)",
+              "engine": {
+                "type": "cng",
+                "displacement_cc": 1499,
+                "cylinders": 4,
+                "power_hp": 116,
+                "power_kw": 85,
+                "fuel_type": "cng"
+              },
+              "performance": {
+                "fuel_consumption_combined_l100km": 8.7,
+                "co2_emissions_gkm": 197,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.5L (125 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1498,
+                "cylinders": 4,
+                "power_hp": 125,
+                "power_kw": 92,
+                "fuel_type": "petrol"
+              },
+              "performance": {
+                "fuel_consumption_combined_l100km": 8.4,
+                "co2_emissions_gkm": 195,
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        },
+        {
+          "id": "baic__x35__x35_2016_present_0",
+          "name": "X35 III (X35)",
+          "ys": null,
+          "ye": null,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4286,
+            "width_mm": 1815,
+            "height_mm": 1665,
+            "wheelbase_mm": 2570
+          },
+          "trims": [
+            {
+              "name": "1.5L 6MT (116 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "naturally_aspirated",
+                "displacement_cc": 1499,
+                "cylinders": 4,
+                "power_hp": 116,
+                "torque_nm": 148,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 116
+              }
+            },
+            {
+              "name": "1.5L CVT (116 HP)",
+              "engine": {
+                "type": "petrol",
+                "aspiration": "naturally_aspirated",
+                "displacement_cc": 1499,
+                "cylinders": 4,
+                "power_hp": 116,
+                "torque_nm": 148,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "cvt"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "power_hp": 116
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "baic_x55",
+      "name": "X55",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "baic_x55__x55_suv_2023_2022",
+          "name": "X55 (X55) 2022-2026",
+          "ys": 2022,
+          "ye": 2026,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4620,
+            "width_mm": 1886,
+            "height_mm": 1680,
+            "wheelbase_mm": 2735,
+            "ground_clearance_mm": 200,
+            "fuel_tank_l": 53,
+            "curb_weight_kg": 1625,
+            "doors": 5,
+            "seats": 5,
+            "trunk_volume_l": 350,
+            "trunk_volume_max_l": 350,
+            "gross_weight_kg": 1970,
+            "wheelbase_estimated": true,
+            "wheelbase_mm_original_error": 4064
+          },
+          "trims": [
+            {
+              "name": "1.5L 7AMT (188 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1498,
+                "cylinders": 4,
+                "power_hp": 188,
+                "power_kw": 138,
+                "torque_nm": 305,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "amt",
+                "gears": 7
+              },
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 7.8,
+                "fuel_consumption_combined_l100km": 7.2
+              }
+            },
+            {
+              "name": "1.5L 7AMT (177 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1498,
+                "cylinders": 4,
+                "power_hp": 177,
+                "power_kw": 130,
+                "torque_nm": 305,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "amt",
+                "gears": 7
+              },
+              "performance": {
+                "top_speed_kmh": 200,
+                "acceleration_0_100_s": 7.8,
+                "fuel_consumption_combined_l100km": 6.5,
+                "fuel_consumption_city_l100km": 7.8,
+                "fuel_consumption_highway_l100km": 9.8
+              }
+            },
+            {
+              "name": "1.5L (174 HP)",
+              "engine": {
+                "type": "lpg",
+                "displacement_cc": 1498,
+                "cylinders": 4,
+                "power_hp": 174,
+                "power_kw": 128,
+                "fuel_type": "lpg"
+              },
+              "performance": {
+                "fuel_consumption_combined_l100km": 8,
+                "co2_emissions_gkm": 165,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.5L (175 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1497,
+                "cylinders": 4,
+                "power_hp": 175,
+                "power_kw": 129,
+                "fuel_type": "petrol"
+              },
+              "performance": {
+                "fuel_consumption_combined_l100km": 7.6,
+                "co2_emissions_gkm": 175,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.5L (151 HP)",
+              "engine": {
+                "type": "lpg",
+                "displacement_cc": 1498,
+                "cylinders": 4,
+                "power_hp": 151,
+                "power_kw": 111,
+                "fuel_type": "lpg"
+              },
+              "performance": {
+                "co2_emissions_gkm": 174,
+                "fuel_consumption_standard": "WLTP"
+              }
+            },
+            {
+              "name": "1.5L (136 HP)",
+              "engine": {
+                "type": "cng",
+                "displacement_cc": 1499,
+                "cylinders": 4,
+                "power_hp": 136,
+                "power_kw": 100,
+                "fuel_type": "cng"
+              },
+              "performance": {
+                "co2_emissions_gkm": 206,
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "baic_x7",
+      "name": "X7",
+      "body_type": "suv",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "baic_x7__x7_i_suv_2020",
+          "name": "X7 I 2020-2025",
+          "ys": 2020,
+          "ye": 2025,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4710,
+            "width_mm": 1892,
+            "height_mm": 1715,
+            "wheelbase_mm": 2800,
+            "ground_clearance_mm": 200,
+            "fuel_tank_l": 59,
+            "curb_weight_kg": 1879,
+            "doors": 5,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "1.5L 6MT (180 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1499,
+                "cylinders": 4,
+                "power_hp": 180,
+                "power_kw": 132,
+                "torque_nm": 275,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "fuel_consumption_combined_l100km": 6.6,
+                "fuel_consumption_city_l100km": 9.3,
+                "fuel_consumption_highway_l100km": 5.2
+              }
+            },
+            {
+              "name": "1.5L 7AMT (180 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1499,
+                "cylinders": 4,
+                "power_hp": 180,
+                "power_kw": 132,
+                "torque_nm": 270,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "amt",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 210,
+                "fuel_consumption_combined_l100km": 7.9,
+                "fuel_consumption_city_l100km": 10.5,
+                "fuel_consumption_highway_l100km": 6.4
+              }
+            },
+            {
+              "name": "1.5L 7AMT (188 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1499,
+                "cylinders": 4,
+                "power_hp": 188,
+                "power_kw": 138,
+                "torque_nm": 275,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "amt",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 210,
+                "acceleration_0_100_s": 10.5,
+                "fuel_consumption_combined_l100km": 6.8,
+                "fuel_consumption_city_l100km": 9.4,
+                "fuel_consumption_highway_l100km": 5.1
+              }
+            },
+            {
+              "name": "1.5L 6MT (188 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1499,
+                "cylinders": 4,
+                "power_hp": 188,
+                "power_kw": 138,
+                "torque_nm": 275,
+                "fuel_type": "petrol"
+              },
+              "transmission": {
+                "type": "manual",
+                "gears": 6
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 200,
+                "fuel_consumption_combined_l100km": 6.6,
+                "fuel_consumption_city_l100km": 9.3,
+                "fuel_consumption_highway_l100km": 5.2
+              }
+            },
+            {
+              "name": "1.5L 7AMT (169 HP) Hybrid",
+              "engine": {
+                "type": "hybrid_petrol",
+                "displacement_cc": 1499,
+                "cylinders": 4,
+                "power_hp": 169,
+                "power_kw": 124,
+                "torque_nm": 260,
+                "fuel_type": "hybrid_petrol"
+              },
+              "transmission": {
+                "type": "amt",
+                "gears": 7
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "top_speed_kmh": 180,
+                "acceleration_0_100_s": 7.2,
+                "fuel_consumption_combined_l100km": 1.4
+              }
+            }
+          ]
+        },
+        {
+          "id": "baic_x7__x7_2024_2024",
+          "name": "X7 II 2024-2024",
+          "ys": 2024,
+          "ye": 2024,
+          "body_type": "suv",
+          "dimensions": {
+            "length_mm": 4745,
+            "width_mm": 1892,
+            "height_mm": 1715,
+            "wheelbase_mm": 2800,
+            "ground_clearance_mm": 200,
+            "fuel_tank_l": 60,
+            "curb_weight_kg": 1700,
+            "doors": 5,
+            "seats": 5
+          },
+          "trims": [
+            {
+              "name": "1.5L (177 HP)",
+              "engine": {
+                "type": "petrol",
+                "displacement_cc": 1498,
+                "cylinders": 4,
+                "power_hp": 177,
+                "power_kw": 130,
+                "fuel_type": "petrol"
+              },
+              "drivetrain": "fwd",
+              "performance": {
+                "fuel_consumption_combined_l100km": 7.3,
+                "fuel_consumption_standard": "WLTP"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "baic_bj60",
+      "name": "BJ60",
+      "body_type": "",
+      "powertrain": "ice",
+      "generations": [
+        {
+          "id": "baic_bj60_2023",
+          "name": "BJ60 2023-н.в.",
+          "ys": 2023,
+          "ye": 2026
+        }
+      ]
+    }
+  ]
+}
