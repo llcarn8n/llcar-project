@@ -1157,3 +1157,66 @@ def recalls_search_view(request: Any) -> JsonResponse:
         "campaigns": campaigns_out,
         "brands": brands_out,
     }, status=200)
+
+
+# ---------------------------------------------------------------------------
+# S27 — KB image proxy (lazy, filesystem-backed)
+# ---------------------------------------------------------------------------
+
+import os
+import re as _re
+from pathlib import Path as _Path
+
+try:
+    from django.http import HttpResponse, HttpResponseNotFound
+except ImportError:
+    class HttpResponse:  # type: ignore[no-redef]
+        def __init__(self, content: bytes = b"", status: int = 200, content_type: str = "", **_: Any) -> None:
+            self.content = content
+            self.status_code = status
+            self.headers: Dict[str, str] = {}
+            if content_type:
+                self.headers["Content-Type"] = content_type
+
+        def __setitem__(self, k: str, v: str) -> None:
+            self.headers[k] = v
+
+    class HttpResponseNotFound(HttpResponse):  # type: ignore[no-redef]
+        def __init__(self, content: bytes = b"", **kw: Any) -> None:
+            super().__init__(content=content, status=404, **kw)
+
+
+_KB_IMAGE_HASH = _re.compile(r"^[0-9a-f]{64}$")
+_KB_IMAGE_ROOT = _Path(os.environ.get("KB_IMAGES_ROOT", "/var/kb-images"))
+# Transparent 1x1 webp fallback (64 B).
+_KB_IMAGE_PLACEHOLDER = bytes.fromhex(
+    "52494646260000005745425056503820190000003001009d012a0100010002003425a0028000fe8d000000"
+)
+
+
+def kb_image(request, hash: str):  # pragma: no cover — thin I/O wrapper
+    """Serve a manual image by sha256 hash from KB_IMAGES_ROOT.
+
+    Path layout on disk (2-level sharding by first 2 hex chars):
+        {KB_IMAGES_ROOT}/{hash[:2]}/{hash}.webp
+    """
+    if not _KB_IMAGE_HASH.match(hash or ""):
+        return HttpResponseNotFound()
+
+    shard = hash[:2]
+    path = _KB_IMAGE_ROOT / shard / f"{hash}.webp"
+    if not path.is_file():
+        resp = HttpResponse(_KB_IMAGE_PLACEHOLDER, status=404, content_type="image/webp")
+        resp["Cache-Control"] = "public, max-age=300"
+        return resp
+
+    try:
+        data = path.read_bytes()
+    except OSError:
+        return HttpResponseNotFound()
+
+    resp = HttpResponse(data, content_type="image/webp")
+    resp["Cache-Control"] = "public, max-age=31536000, immutable"
+    resp["ETag"] = f'"{hash}"'
+    resp["Content-Length"] = str(len(data))
+    return resp

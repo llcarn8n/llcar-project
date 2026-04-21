@@ -1,6 +1,7 @@
 import { useState, useEffect, useMemo, useCallback, type JSX } from 'react'
 import { GlassPanel } from '../shared/GlassPanel'
 import { theme } from '../../theme'
+import { extractImageSrc, resolveManualImage } from '../../utils/manualImages'
 
 // ── DITA JSON types ──────────────────────────────────────────────
 
@@ -145,23 +146,64 @@ function renderInlineText(text: string): (string | JSX.Element)[] {
         </code>
       )
     } else if (match[0].startsWith('![')) {
-      // Image placeholder
-      result.push(
-        <span key={`img-${key++}`} style={{
-          display: 'inline-flex',
-          alignItems: 'center',
-          gap: 4,
-          padding: '2px 8px',
-          borderRadius: 3,
-          background: 'rgba(0,229,255,0.04)',
-          border: '1px dashed rgba(0,229,255,0.15)',
-          color: theme.text.muted,
-          fontSize: 11,
-        }}>
-          <span style={{ fontSize: 12, opacity: 0.5 }}>&#x1F4F7;</span>
-          [Изображение]
-        </span>
-      )
+      const rawSrc = extractImageSrc(match[0])
+      const resolved = rawSrc ? resolveManualImage(rawSrc) : null
+      if (resolved) {
+        result.push(
+          <img
+            key={`img-${key++}`}
+            src={resolved}
+            loading="lazy"
+            decoding="async"
+            style={{
+              display: 'block',
+              maxWidth: '100%',
+              maxHeight: 320,
+              margin: '10px 0',
+              borderRadius: 4,
+              background: 'rgba(0,229,255,0.03)',
+              border: '1px solid rgba(0,229,255,0.1)',
+            }}
+            onError={(e) => {
+              const target = e.currentTarget
+              target.style.display = 'none'
+              const ph = target.nextElementSibling as HTMLElement | null
+              if (ph) ph.style.display = 'inline-flex'
+            }}
+          />,
+          <span key={`img-ph-${key++}`} style={{
+            display: 'none',
+            alignItems: 'center',
+            gap: 4,
+            padding: '2px 8px',
+            borderRadius: 3,
+            background: 'rgba(0,229,255,0.04)',
+            border: '1px dashed rgba(0,229,255,0.15)',
+            color: theme.text.muted,
+            fontSize: 11,
+          }}>
+            <span style={{ fontSize: 12, opacity: 0.5 }}>&#x1F4F7;</span>
+            [Изображение недоступно]
+          </span>
+        )
+      } else {
+        result.push(
+          <span key={`img-${key++}`} style={{
+            display: 'inline-flex',
+            alignItems: 'center',
+            gap: 4,
+            padding: '2px 8px',
+            borderRadius: 3,
+            background: 'rgba(0,229,255,0.04)',
+            border: '1px dashed rgba(0,229,255,0.15)',
+            color: theme.text.muted,
+            fontSize: 11,
+          }}>
+            <span style={{ fontSize: 12, opacity: 0.5 }}>&#x1F4F7;</span>
+            [Изображение]
+          </span>
+        )
+      }
     }
 
     lastIndex = match.index + match[0].length

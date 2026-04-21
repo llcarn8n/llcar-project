@@ -140,6 +140,25 @@ if [[ "$BACKEND_ONLY" == false ]]; then
         done
     fi
 
+    # Upload KB data tree (manuals, situations, dtc, articles, brands)
+    # Uses rsync over SSH for incremental sync. Excludes _images/ — images are
+    # served by backend /api/kb-image/<hash>.webp from /var/kb-images (S27).
+    KB_SRC="$DIST_DIR/data"
+    if [[ -d "$KB_SRC" ]]; then
+        log "Uploading KB data tree (rsync)..."
+        $SSH "mkdir -p $REMOTE_SPA/data"
+        rsync -az --delete \
+            --exclude='_images/' \
+            --exclude='_images_*/' \
+            --exclude='*.webp' \
+            -e "$SSH" \
+            "$KB_SRC/" "$REMOTE_HOST:$REMOTE_SPA/data/" \
+            && log "  KB data synced" \
+            || warn "  KB data rsync had errors (non-fatal)"
+    else
+        warn "  KB data source not found: $KB_SRC"
+    fi
+
     # Clean up stale remote chunks that no longer exist locally
     log "Cleaning stale remote chunks..."
     LOCAL_NAMES=$(ls "$DIST_STATIC" | sort)
