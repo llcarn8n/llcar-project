@@ -64,7 +64,13 @@ except for the mainland of China
 
 ### Driving
 4-1. Before Driving
+Driving a vehicle ................................................. 112
+Goods and luggage .............................................. 118
+Trailer towing ...................................................... 119
 4-2. Driving regulations
+Engine (start) switch ............................................ 120
+Transmission........................................................ 123
+Driving mode ....................................................... 128
 3
 1
 2
@@ -75,25 +81,42 @@ except for the mainland of China
 7
 8
 9
+Turn signal lamp control handle .......................... 131
+Electronic parking brake (EPB) system ............... 132
 
 ### Contents
 Index
 4
 5-6. Bluetooth Music
+Bluetooth music play ........................................... 241
 5-7. Video
+Video play............................................................ 243
 5-8. Images
+Image viewing ..................................................... 246
 5-9. Hands-free System
+Using the hands-free system ................................ 249
 5-10. Bluetooth Telephone
+Using Bluetooth® phone ..................................... 252
 5-11. Speech recognition
+Using the voice recognition function................... 256
 5-12. Mobile phone APP
+Using the mobile phone APP ............................... 258
 5-13. Hongqi Smart Connect
+Using Hongqi Smart Connect .............................. 261
 6
 
+### 9. Specifications
+Maintenance data ................................................. 378
+Fuel information .................................................. 390
+
+### Other information
+List of Abbreviations ......................................... 394
 
 ### Additional information
 10
 Additional information on sales to other
 countries and regions except for the mainland
+of China. ........................................................... 392
 6
 
 ### Engine compartment
@@ -1665,10 +1688,23 @@ on the road, etc. ahead of the vehicle.
 72
 73
 3.1. Key information
+Key ........................................................................................ 74
 3.2. Opening, closing and locking of doors and trunk lid
+Doors ..................................................................................... 77
+Trunk lid ............................................................................... 81
+Intelligent entry & start system .......................................... 85
 3-3. Adjusting the Seats
+Front seats ............................................................................ 90
+Rear seats ............................................................................. 92
+Head restraints..................................................................... 94
+Seat memory* ...................................................................... 96
 3-4. Adjusting the Steering Wheel and Rear-view Mirrors
+Steering wheel ...................................................................... 98
+Anti-glare inner rear view mirror .................................... 100
+Exterior mirrors ................................................................ 102
 3-5. Opening and Closing the Windows
+Power windows .................................................................. 105
+Panorama sunroof* ........................................................... 108
 Operating the Components 3
 3.1. Information on the Key
 Key
@@ -2606,7 +2642,14 @@ initialisation operation is needed.
 ● The anti-pinch function may not work if something gets pinched just before the sunroof fully closes.
 111
 4-1. Before Driving
+Driving a vehicle ................................................ 112
+Goods and luggage ............................................. 118
+Trailer towing ..................................................... 119
 4-2. Driving regulations
+Engine (start) switch ......................................... 120
+Transmission ...................................................... 123
+Driving mode...................................................... 128
+Turn signal lamp control handle ...................... 131
 Electronic parking brake (EPB) system .......... 132
 
 ### Driving a vehicle
@@ -5586,19 +5629,35 @@ death, and to reduce the risk of accidents, the following precautions should be 
 ●Decelerate sufficiently before cornering to ensure that the car can be controlled.
 211
 5-1. Basic Operations
+Multimedia display ............................................ 212
 Multimedia switch on the steering wheel ........ 215
+USB interface ..................................................... 216
 5-2. Settings
+System settings ................................................... 217
+Vehicle settings ................................................... 222
 5-3. Navigation
+Basic functions ................................................... 228
+Using the navigation .......................................... 230
 5-4. Radio
+Using the radio ................................................... 234
 5-5. Music
+My music play .................................................... 237
 5-6. Bluetooth Music
+Bluetooth music play ......................................... 241
 5-7. Video
+Video play ........................................................... 243
 5-8. Images
+Image viewing .................................................... 246
 5-9. Hands-free System
+Using the hands-free system ............................. 249
 5-10. Bluetooth Telephone
+Using Bluetooth® phone ................................... 252
 5-11. Speech recognition
+Using the voice recognition function ................ 256
 5-12. Mobile phone APP
+Using the mobile phone APP ............................ 258
 5-13. Hongqi Smart Connect
+Using Hongqi Smart Connect ........................... 261
 Audio system 5
 5.1. Basic Operation
 
@@ -7365,11 +7424,41 @@ to maintain perfect reception quality.
 > 269
 > 6-1. Using the A/C System
 > Fully automatic air conditioning system.......... 270
+> б Using the automatic A/C system .................... 272
+> • Manual adjustment setting ............................. 273
+> • Other functions ................................................ 276
 > • Adjust the air outlet direction and open and
+> close the air vents ............................................... 278
+> Windshield heating ............................................ 280
 > 6-2. Using the Interior Lamps
+> List of interior lights .......................................... 281
+> •Front row of interior lights .............................. 282
+> • Front reading light .......................................... 282
+> • Rear reading light ........................................... 283
+> • Vanity mirror lighting ..................................... 283
 > 6-3. Using the Storage Units
+> Storage device list .............................................. 284
+> • Glove box ......................................................... 285
+> • Front central storage box ............................... 286
 > • Left lower guard plate sundries box .............. 286
+> • Cup holder ....................................................... 287
+> • Bottle rack and sundry bucket ....................... 288
+> • Document pocket ............................................. 288
+> • Glasses box ....................................................... 289
+> Trunk device ...................................................... 290
+> • Cargo hook ...................................................... 290
+> • Luggage net...................................................... 290
 > 6-4. Other Interior Equipment
+> On-board wireless charging* ............................ 291
+> Sun visor ............................................................. 292
+> Paper holder ....................................................... 293
+> Vanity mirror ..................................................... 294
+> Cigarette lighter ................................................. 295
+> Power socket ...................................................... 296
+> Seat temperature control* ................................ 298
+> Rear center armrest ........................................... 300
+> Roof grab handle ............................................... 301
+> Coat hook ........................................................... 302
 > Interior Equipment 6
 > 6.1 Using the A/C System
 > Fully automatic A/C system
@@ -8010,8 +8099,17 @@ objects may be ejected and cause serious injury or death.
 Cleaning and protecting vehicle exterior trim 304
 Cleaning and protecting vehicle interior trim . 306
 7-2. Maintenance
+Maintenance instructions .................................. 308
 7-3. Do-It-Yourself Maintenance
 Precautions for do-it-yourself maintenance .... 310
+Hood .................................................................... 312
+Engine compartment ......................................... 313
+Tire ...................................................................... 326
+Tire pressure ...................................................... 329
+Wheel .................................................................. 331
+Air conditioning filter ........................................ 332
+Replace key battery ........................................... 334
+Check and replace fuse ..................................... 336
 Maintenance 7
 7-1. Service and maintenance
 
@@ -8928,7 +9026,10 @@ serious damage or even fire.
 > load and repair.
 > 339
 > 8-1. Important information
+> Hazard warning lamps ...................................... 340
+> SOS warning ...................................................... 341
 > 8-2. Measures to Be Taken in Emergencies
+> If the vehicle needs to be towed ........................ 342
 > If any abnormality is found on the vehicle ...... 347
 
 ### Hazard warning flashers
@@ -9799,6 +9900,8 @@ frame.
 > 377
 
 ### 9. Specifications
+Maintenance data .............................................. 378
+Fuel information ................................................ 390
 Vehicle specification: 9
 9.Specifications
 
@@ -10372,6 +10475,7 @@ there is no need for concern.
 
 ### Additional information on sales to other
 countries and regions except for the
+mainland of China..........................394
 10
 392
 
@@ -10389,6 +10493,7 @@ mainland of China
 4. 5-13 HONGQI Smart Connect* and related functions: temporarily only available in the
 mainland of China
 393
+List of Abbreviations ......................................... 394
 
 ### Thumbnail list
 394
@@ -10522,7 +10627,13 @@ except for the mainland of China
 
 ### Driving
 4-1. Before Driving
+Driving a vehicle ................................................. 112
+Goods and luggage .............................................. 118
+Trailer towing ...................................................... 119
 4-2. Driving regulations
+Engine (start) switch ............................................ 120
+Transmission........................................................ 123
+Driving mode ....................................................... 128
 3
 1
 2
@@ -10533,25 +10644,42 @@ except for the mainland of China
 7
 8
 9
+Turn signal lamp control handle .......................... 131
+Electronic parking brake (EPB) system ............... 132
 
 ### Contents
 Index
 4
 5-6. Bluetooth Music
+Bluetooth music play ........................................... 241
 5-7. Video
+Video play............................................................ 243
 5-8. Images
+Image viewing ..................................................... 246
 5-9. Hands-free System
+Using the hands-free system ................................ 249
 5-10. Bluetooth Telephone
+Using Bluetooth® phone ..................................... 252
 5-11. Speech recognition
+Using the voice recognition function................... 256
 5-12. Mobile phone APP
+Using the mobile phone APP ............................... 258
 5-13. Hongqi Smart Connect
+Using Hongqi Smart Connect .............................. 261
 6
 
+### 9. Specifications
+Maintenance data ................................................. 378
+Fuel information .................................................. 390
+
+### Other information
+List of Abbreviations ......................................... 394
 
 ### Additional information
 10
 Additional information on sales to other
 countries and regions except for the mainland
+of China. ........................................................... 392
 6
 
 ### Engine compartment
@@ -12123,10 +12251,23 @@ on the road, etc. ahead of the vehicle.
 72
 73
 3.1. Key information
+Key ........................................................................................ 74
 3.2. Opening, closing and locking of doors and trunk lid
+Doors ..................................................................................... 77
+Trunk lid ............................................................................... 81
+Intelligent entry & start system .......................................... 85
 3-3. Adjusting the Seats
+Front seats ............................................................................ 90
+Rear seats ............................................................................. 92
+Head restraints..................................................................... 94
+Seat memory* ...................................................................... 96
 3-4. Adjusting the Steering Wheel and Rear-view Mirrors
+Steering wheel ...................................................................... 98
+Anti-glare inner rear view mirror .................................... 100
+Exterior mirrors ................................................................ 102
 3-5. Opening and Closing the Windows
+Power windows .................................................................. 105
+Panorama sunroof* ........................................................... 108
 Operating the Components 3
 3.1. Information on the Key
 Key
@@ -13064,7 +13205,14 @@ initialisation operation is needed.
 ● The anti-pinch function may not work if something gets pinched just before the sunroof fully closes.
 111
 4-1. Before Driving
+Driving a vehicle ................................................ 112
+Goods and luggage ............................................. 118
+Trailer towing ..................................................... 119
 4-2. Driving regulations
+Engine (start) switch ......................................... 120
+Transmission ...................................................... 123
+Driving mode...................................................... 128
+Turn signal lamp control handle ...................... 131
 Electronic parking brake (EPB) system .......... 132
 
 ### Driving a vehicle
@@ -16044,19 +16192,35 @@ death, and to reduce the risk of accidents, the following precautions should be 
 ●Decelerate sufficiently before cornering to ensure that the car can be controlled.
 211
 5-1. Basic Operations
+Multimedia display ............................................ 212
 Multimedia switch on the steering wheel ........ 215
+USB interface ..................................................... 216
 5-2. Settings
+System settings ................................................... 217
+Vehicle settings ................................................... 222
 5-3. Navigation
+Basic functions ................................................... 228
+Using the navigation .......................................... 230
 5-4. Radio
+Using the radio ................................................... 234
 5-5. Music
+My music play .................................................... 237
 5-6. Bluetooth Music
+Bluetooth music play ......................................... 241
 5-7. Video
+Video play ........................................................... 243
 5-8. Images
+Image viewing .................................................... 246
 5-9. Hands-free System
+Using the hands-free system ............................. 249
 5-10. Bluetooth Telephone
+Using Bluetooth® phone ................................... 252
 5-11. Speech recognition
+Using the voice recognition function ................ 256
 5-12. Mobile phone APP
+Using the mobile phone APP ............................ 258
 5-13. Hongqi Smart Connect
+Using Hongqi Smart Connect ........................... 261
 Audio system 5
 5.1. Basic Operation
 
@@ -17823,11 +17987,41 @@ to maintain perfect reception quality.
 > 269
 > 6-1. Using the A/C System
 > Fully automatic air conditioning system.......... 270
+> б Using the automatic A/C system .................... 272
+> • Manual adjustment setting ............................. 273
+> • Other functions ................................................ 276
 > • Adjust the air outlet direction and open and
+> close the air vents ............................................... 278
+> Windshield heating ............................................ 280
 > 6-2. Using the Interior Lamps
+> List of interior lights .......................................... 281
+> •Front row of interior lights .............................. 282
+> • Front reading light .......................................... 282
+> • Rear reading light ........................................... 283
+> • Vanity mirror lighting ..................................... 283
 > 6-3. Using the Storage Units
+> Storage device list .............................................. 284
+> • Glove box ......................................................... 285
+> • Front central storage box ............................... 286
 > • Left lower guard plate sundries box .............. 286
+> • Cup holder ....................................................... 287
+> • Bottle rack and sundry bucket ....................... 288
+> • Document pocket ............................................. 288
+> • Glasses box ....................................................... 289
+> Trunk device ...................................................... 290
+> • Cargo hook ...................................................... 290
+> • Luggage net...................................................... 290
 > 6-4. Other Interior Equipment
+> On-board wireless charging* ............................ 291
+> Sun visor ............................................................. 292
+> Paper holder ....................................................... 293
+> Vanity mirror ..................................................... 294
+> Cigarette lighter ................................................. 295
+> Power socket ...................................................... 296
+> Seat temperature control* ................................ 298
+> Rear center armrest ........................................... 300
+> Roof grab handle ............................................... 301
+> Coat hook ........................................................... 302
 > Interior Equipment 6
 > 6.1 Using the A/C System
 > Fully automatic A/C system
@@ -18468,8 +18662,17 @@ objects may be ejected and cause serious injury or death.
 Cleaning and protecting vehicle exterior trim 304
 Cleaning and protecting vehicle interior trim . 306
 7-2. Maintenance
+Maintenance instructions .................................. 308
 7-3. Do-It-Yourself Maintenance
 Precautions for do-it-yourself maintenance .... 310
+Hood .................................................................... 312
+Engine compartment ......................................... 313
+Tire ...................................................................... 326
+Tire pressure ...................................................... 329
+Wheel .................................................................. 331
+Air conditioning filter ........................................ 332
+Replace key battery ........................................... 334
+Check and replace fuse ..................................... 336
 Maintenance 7
 7-1. Service and maintenance
 
@@ -19386,7 +19589,10 @@ serious damage or even fire.
 > load and repair.
 > 339
 > 8-1. Important information
+> Hazard warning lamps ...................................... 340
+> SOS warning ...................................................... 341
 > 8-2. Measures to Be Taken in Emergencies
+> If the vehicle needs to be towed ........................ 342
 > If any abnormality is found on the vehicle ...... 347
 
 ### Hazard warning flashers
@@ -20257,6 +20463,8 @@ frame.
 > 377
 
 ### 9. Specifications
+Maintenance data .............................................. 378
+Fuel information ................................................ 390
 Vehicle specification: 9
 9.Specifications
 
@@ -20830,6 +21038,7 @@ there is no need for concern.
 
 ### Additional information on sales to other
 countries and regions except for the
+mainland of China..........................394
 10
 392
 
@@ -20847,6 +21056,7 @@ mainland of China
 4. 5-13 HONGQI Smart Connect* and related functions: temporarily only available in the
 mainland of China
 393
+List of Abbreviations ......................................... 394
 
 ### Thumbnail list
 394

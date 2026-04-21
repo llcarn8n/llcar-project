@@ -183,3 +183,14 @@ ford/fiesta-2008
 renault/duster-2010
 mitsubishi/lancer-x
 jetour/x70
+
+# --- S27 Этап H2.1: защита от возврата удалённых junk через exact_model/exact_gen ingest ---
+forthing/580
+mercedes_benz/a_class
+mercedes_benz/c_class
+mercedes_benz/eqe
+mitsubishi/pajero_sport
+nissan/almera
+nissan/qashqai
+porsche/macan
+skoda/octavia

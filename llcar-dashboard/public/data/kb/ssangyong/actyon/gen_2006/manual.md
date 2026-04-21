@@ -3146,7 +3146,7 @@ Squish: Squish is the air flows due to the piston head. Normally, this is appear
 
 # 2) Swirl control
 
-In DI type diesel engine, the liquefied fuel is injected into the cylinder directly. If the fuel is evenly distributed in short period, the combustion efficiency could be improved. To get this, there should be good air flow in cylinder. In general, there are two intake ports, swirl port and tangential port, in each cylinder. The swirl port generates the horizontal flow and the tangential port generates the longitudinal flow. In low/mid load range, the tabgential port is closed to increase the horizontal flow. Fast flow decreases the PM during combustion and increases the EGR ratio by better combustion efficiency.
+In DI type diesel engine, the liquefied fuel is injected into the cylinder directly. If the fuel is evenly distributed in short period, the combustion eficiency could be improved. To get this, there should be good air flow in cylinder. In general, there are two intake ports, swirl port and tangential port, in each cylinder. The swirl port generates the horizontal flow and the tangential port generates the longitudinal flow. In low/mid load range, the tabgential port is closed to increase the horizontal flow. Fast flow decreases the PM during combustion and increases the EGR ratio by better combustion eficiency.
 
 ![](images/915718ea0486fcb3f4be4d0a7d7291eac0a6049fb34502d1f7aeadf807c042db.webp)
 
@@ -3166,7 +3166,7 @@ Swirl: This is the twisted (radial) air flow along the cylinder wall during the 
 
 -Swir and air intake efficiency
 
-To generate the swirl, the intake port should be serpentine design. This makes the resistance in air flow. The resistance in air flow in engine high speed decreases the intake efficiency. Eventually, the engine power is also decreased, Thus, the swirl operation is deactivated in high speed range to increase the intake efficiency.
+To generate the swirl, the intake port should be serpentine design. This makes the resistance in air flow. The resistance in air flow in engine high speed decreases the intake eficiency. Eventually, the engine power is also decreased, Thus, the swirl operation is deactivated in high speed range to increase the intake efficiency.
 
 -Relationship between swirl and EGR
 
@@ -3361,7 +3361,7 @@ The followings are cautions to take in handling defects of turbocharger, which m
 
 # 1. SYSTEM DESCRIPTION OF E-VGT (Electric-Variable Geometry Turbine)
 
-The E-VGT turbocharger has one shaft where at each ends are installed with two turbines having different angles to connect one end of housing to the intake manifold and the other end to the exhaust manifold. As the turbine, at exhaust end, is rotated by exhaust gas pressure the impeller, at intake end, gets rotated to send air around center of the impeller, being circumferentiall accelerated by the centrifugal force, into the diffuser. The air, which has been introduced to the difuser having a passage with big surface, transforms its speed energy into the pressure energy while being supplied to the cylinder improving the volume effciency. Also, the exhaust efficiency improves as the exhaust turbine rotates. The turbocharger is often referred to as the exhaust turbine turbocharger.
+The E-VGT turbocharger has one shaft where at each ends are installed with two turbines having different angles to connect one end of housing to the intake manifold and the other end to the exhaust manifold. As the turbine, at exhaust end, is rotated by exhaust gas pressure the impeller, at intake end, gets rotated to send air around center of the impeller, being circumferentiall accelerated by the centrifugal force, into the diffuser. The air, which has been introduced to the difuser having a passage with big surface, transforms its speed energy into the pressure energy while being supplied to the cylinder improving the volume effciency. Also, the exhaust eficiency improves as the exhaust turbine rotates. The turbocharger is often referred to as the exhaust turbine turbocharger.
 
 Diffuser: With the meaning of spreading out it is a device that transforms fluid's speed energy into the pressure energy by enlarging the fluid's passage to slow down the flow. The E-VGT system installed to the D20DTR engine variably controls the passages of the turbine housing to regulate the flow rate of the exhaust gas. The actuator of E-VGT is a DC motor actuator (EActuator) which controls more quickly and precisely than the previous vacuum type actuator.
 
@@ -3379,7 +3379,7 @@ The engine ECU controls the E-Actuator electronically as follows:
 
 1. Optimizes the exhaust gas flow rate by controlling the vanes inside the turbine housing with the EActuator.
 
--Maximizes the intake air charging efficiency (Approx. 15%)
+-Maximizes the intake air charging eficiency (Approx. 15%)
 
 2. Has a faster response time than the conventional vacuum actuator.
 
@@ -4576,7 +4576,7 @@ It is based on detection of the combustion. When the engine is idling, the detec
 
 # Variable swirl valve
 
-The strong swirl caused by intake air is important element for anti-locking function in diesel engine. The swirl control valve partially closes the intake port to generate the swirl according to the engine conditions. When the engine load is in low or medium range, the swir could not be generated because the air flow is slow. To generate strong swirl, there are two passages in intake manifold, and one of them has the valve to open and close the passage. When the valve closes the passage, the air flow through the another passage willbe faster, and the strong swirl wil be generated by the internal structure of the passage. This swirl makes the better mixture of air and fuel, eventually the combustion efficiency in combustion chamber could be improved. This provides the enhanced fuel consumption, power and EGR ratio.
+The strong swirl caused by intake air is important element for anti-locking function in diesel engine. The swirl control valve partially closes the intake port to generate the swirl according to the engine conditions. When the engine load is in low or medium range, the swir could not be generated because the air flow is slow. To generate strong swirl, there are two passages in intake manifold, and one of them has the valve to open and close the passage. When the valve closes the passage, the air flow through the another passage willbe faster, and the strong swirl wil be generated by the internal structure of the passage. This swirl makes the better mixture of air and fuel, eventually the combustion eficiency in combustion chamber could be improved. This provides the enhanced fuel consumption, power and EGR ratio.
 
 # Components
 
@@ -4602,7 +4602,7 @@ Tumble: Tumble is the vertical air flows in cylinder due to the vertical intake 
 
 # D. Swirl control
 
-In DI type diesel engine, the liquefied fuel is injected into the cylinder directly. If the fuel is evenly distributed in short period, the combustion efficiency could be improved. To get this, there should be good air flow in cylinder. In general, there are two intake ports, swirl port and tangential port, in each cylinder. The swirl port generates the horizontal flow and the tangential port generates the longitudinal flow. In low/mid load range, the tabgential port is closed to increase the horizontal flow. Fast flow decreases the PM during combustion and increases the EGR ratio by better combustion efficiency.
+In DI type diesel engine, the liquefied fuel is injected into the cylinder directly. If the fuel is evenly distributed in short period, the combustion eficiency could be improved. To get this, there should be good air flow in cylinder. In general, there are two intake ports, swirl port and tangential port, in each cylinder. The swirl port generates the horizontal flow and the tangential port generates the longitudinal flow. In low/mid load range, the tabgential port is closed to increase the horizontal flow. Fast flow decreases the PM during combustion and increases the EGR ratio by better combustion eficiency.
 
 ![](images/7c84cb8d86de1888113a74b68879b08b6918df8b8c234b578e25e69dd5c7a401.webp)
 
@@ -4622,9 +4622,9 @@ Swirl: This is the twisted (radial) air flow along the cylinder wall during the 
 
 # E. Features
 
-Swirl and air intake efficiency
+Swirl and air intake eficiency
 
-To generate the swir, the intake port should be serpentine design. This makes the resistance in air flow. The resistance in air flow in engine high speed decreases the intake efficiency. Eventuall, the engine power is also decreased, Thus, the swirl operation is deactivated in high speed range to increase the intake efficiency.
+To generate the swir, the intake port should be serpentine design. This makes the resistance in air flow. The resistance in air flow in engine high speed decreases the intake eficiency. Eventuall, the engine power is also decreased, Thus, the swirl operation is deactivated in high speed range to increase the intake efficiency.
 
 -Relationship between swirl and EGR
 
@@ -8134,7 +8134,7 @@ A soft engagement feature avoids harsh take up of drive when selecting Drive or 
 
 # Converter Clutch Lock-Up In All Gears
 
-The transmission features converter clutch lock-up in all gears. This feature provides improved fuel economy and vehicle performance. It also improves transmission cooling efficiency when towing heavy loads at low speeds, e.g. in city driving or hill terrain.
+The transmission features converter clutch lock-up in all gears. This feature provides improved fuel economy and vehicle performance. It also improves transmission cooling eficiency when towing heavy loads at low speeds, e.g. in city driving or hill terrain.
 
 # Embeded Memory Module (EMM)
 
@@ -10544,7 +10544,7 @@ When the ABS hydraulic pressure control takes place, there may be some vibration
 
 # 1. OVERVIEW
 
-When a driver turns the steering wheel, the front wheels are steered and the vehicle moves to the desired direction. However, there is a certain limitation to increase the steering efficiency only with the mechanical methods. A steering system using hydraulic pressure has been introduced to decrease the driver's steering effort while using the normal gear ratio.
+When a driver turns the steering wheel, the front wheels are steered and the vehicle moves to the desired direction. However, there is a certain limitation to increase the steering eficiency only with the mechanical methods. A steering system using hydraulic pressure has been introduced to decrease the driver's steering effort while using the normal gear ratio.
 
 The power steering system consists of pump, oil reservoir, rack and gear box.   
 The power steering pump is a vane type and delivers hydraulic pressure to operate the power steering system. The pressure relief valve in the pump controls the discharging pressure.   
@@ -14476,7 +14476,7 @@ Squish: Squish is the air flows due to the piston head. Normally, this is appear
 
 # 2) Swirl control
 
-In DI type diesel engine, the liquefied fuel is injected into the cylinder directly. If the fuel is evenly distributed in short period, the combustion efficiency could be improved. To get this, there should be good air flow in cylinder. In general, there are two intake ports, swirl port and tangential port, in each cylinder. The swirl port generates the horizontal flow and the tangential port generates the longitudinal flow. In low/mid load range, the tabgential port is closed to increase the horizontal flow. Fast flow decreases the PM during combustion and increases the EGR ratio by better combustion efficiency.
+In DI type diesel engine, the liquefied fuel is injected into the cylinder directly. If the fuel is evenly distributed in short period, the combustion eficiency could be improved. To get this, there should be good air flow in cylinder. In general, there are two intake ports, swirl port and tangential port, in each cylinder. The swirl port generates the horizontal flow and the tangential port generates the longitudinal flow. In low/mid load range, the tabgential port is closed to increase the horizontal flow. Fast flow decreases the PM during combustion and increases the EGR ratio by better combustion eficiency.
 
 ![](images/915718ea0486fcb3f4be4d0a7d7291eac0a6049fb34502d1f7aeadf807c042db.webp)
 
@@ -14496,7 +14496,7 @@ Swirl: This is the twisted (radial) air flow along the cylinder wall during the 
 
 -Swir and air intake efficiency
 
-To generate the swirl, the intake port should be serpentine design. This makes the resistance in air flow. The resistance in air flow in engine high speed decreases the intake efficiency. Eventually, the engine power is also decreased, Thus, the swirl operation is deactivated in high speed range to increase the intake efficiency.
+To generate the swirl, the intake port should be serpentine design. This makes the resistance in air flow. The resistance in air flow in engine high speed decreases the intake eficiency. Eventually, the engine power is also decreased, Thus, the swirl operation is deactivated in high speed range to increase the intake efficiency.
 
 -Relationship between swirl and EGR
 
@@ -14691,7 +14691,7 @@ The followings are cautions to take in handling defects of turbocharger, which m
 
 # 1. SYSTEM DESCRIPTION OF E-VGT (Electric-Variable Geometry Turbine)
 
-The E-VGT turbocharger has one shaft where at each ends are installed with two turbines having different angles to connect one end of housing to the intake manifold and the other end to the exhaust manifold. As the turbine, at exhaust end, is rotated by exhaust gas pressure the impeller, at intake end, gets rotated to send air around center of the impeller, being circumferentiall accelerated by the centrifugal force, into the diffuser. The air, which has been introduced to the difuser having a passage with big surface, transforms its speed energy into the pressure energy while being supplied to the cylinder improving the volume effciency. Also, the exhaust efficiency improves as the exhaust turbine rotates. The turbocharger is often referred to as the exhaust turbine turbocharger.
+The E-VGT turbocharger has one shaft where at each ends are installed with two turbines having different angles to connect one end of housing to the intake manifold and the other end to the exhaust manifold. As the turbine, at exhaust end, is rotated by exhaust gas pressure the impeller, at intake end, gets rotated to send air around center of the impeller, being circumferentiall accelerated by the centrifugal force, into the diffuser. The air, which has been introduced to the difuser having a passage with big surface, transforms its speed energy into the pressure energy while being supplied to the cylinder improving the volume effciency. Also, the exhaust eficiency improves as the exhaust turbine rotates. The turbocharger is often referred to as the exhaust turbine turbocharger.
 
 Diffuser: With the meaning of spreading out it is a device that transforms fluid's speed energy into the pressure energy by enlarging the fluid's passage to slow down the flow. The E-VGT system installed to the D20DTR engine variably controls the passages of the turbine housing to regulate the flow rate of the exhaust gas. The actuator of E-VGT is a DC motor actuator (EActuator) which controls more quickly and precisely than the previous vacuum type actuator.
 
@@ -14709,7 +14709,7 @@ The engine ECU controls the E-Actuator electronically as follows:
 
 1. Optimizes the exhaust gas flow rate by controlling the vanes inside the turbine housing with the EActuator.
 
--Maximizes the intake air charging efficiency (Approx. 15%)
+-Maximizes the intake air charging eficiency (Approx. 15%)
 
 2. Has a faster response time than the conventional vacuum actuator.
 
@@ -15906,7 +15906,7 @@ It is based on detection of the combustion. When the engine is idling, the detec
 
 # Variable swirl valve
 
-The strong swirl caused by intake air is important element for anti-locking function in diesel engine. The swirl control valve partially closes the intake port to generate the swirl according to the engine conditions. When the engine load is in low or medium range, the swir could not be generated because the air flow is slow. To generate strong swirl, there are two passages in intake manifold, and one of them has the valve to open and close the passage. When the valve closes the passage, the air flow through the another passage willbe faster, and the strong swirl wil be generated by the internal structure of the passage. This swirl makes the better mixture of air and fuel, eventually the combustion efficiency in combustion chamber could be improved. This provides the enhanced fuel consumption, power and EGR ratio.
+The strong swirl caused by intake air is important element for anti-locking function in diesel engine. The swirl control valve partially closes the intake port to generate the swirl according to the engine conditions. When the engine load is in low or medium range, the swir could not be generated because the air flow is slow. To generate strong swirl, there are two passages in intake manifold, and one of them has the valve to open and close the passage. When the valve closes the passage, the air flow through the another passage willbe faster, and the strong swirl wil be generated by the internal structure of the passage. This swirl makes the better mixture of air and fuel, eventually the combustion eficiency in combustion chamber could be improved. This provides the enhanced fuel consumption, power and EGR ratio.
 
 # Components
 
@@ -15932,7 +15932,7 @@ Tumble: Tumble is the vertical air flows in cylinder due to the vertical intake 
 
 # D. Swirl control
 
-In DI type diesel engine, the liquefied fuel is injected into the cylinder directly. If the fuel is evenly distributed in short period, the combustion efficiency could be improved. To get this, there should be good air flow in cylinder. In general, there are two intake ports, swirl port and tangential port, in each cylinder. The swirl port generates the horizontal flow and the tangential port generates the longitudinal flow. In low/mid load range, the tabgential port is closed to increase the horizontal flow. Fast flow decreases the PM during combustion and increases the EGR ratio by better combustion efficiency.
+In DI type diesel engine, the liquefied fuel is injected into the cylinder directly. If the fuel is evenly distributed in short period, the combustion eficiency could be improved. To get this, there should be good air flow in cylinder. In general, there are two intake ports, swirl port and tangential port, in each cylinder. The swirl port generates the horizontal flow and the tangential port generates the longitudinal flow. In low/mid load range, the tabgential port is closed to increase the horizontal flow. Fast flow decreases the PM during combustion and increases the EGR ratio by better combustion eficiency.
 
 ![](images/7c84cb8d86de1888113a74b68879b08b6918df8b8c234b578e25e69dd5c7a401.webp)
 
@@ -15952,9 +15952,9 @@ Swirl: This is the twisted (radial) air flow along the cylinder wall during the 
 
 # E. Features
 
-Swirl and air intake efficiency
+Swirl and air intake eficiency
 
-To generate the swir, the intake port should be serpentine design. This makes the resistance in air flow. The resistance in air flow in engine high speed decreases the intake efficiency. Eventuall, the engine power is also decreased, Thus, the swirl operation is deactivated in high speed range to increase the intake efficiency.
+To generate the swir, the intake port should be serpentine design. This makes the resistance in air flow. The resistance in air flow in engine high speed decreases the intake eficiency. Eventuall, the engine power is also decreased, Thus, the swirl operation is deactivated in high speed range to increase the intake efficiency.
 
 -Relationship between swirl and EGR
 
@@ -19464,7 +19464,7 @@ A soft engagement feature avoids harsh take up of drive when selecting Drive or 
 
 # Converter Clutch Lock-Up In All Gears
 
-The transmission features converter clutch lock-up in all gears. This feature provides improved fuel economy and vehicle performance. It also improves transmission cooling efficiency when towing heavy loads at low speeds, e.g. in city driving or hill terrain.
+The transmission features converter clutch lock-up in all gears. This feature provides improved fuel economy and vehicle performance. It also improves transmission cooling eficiency when towing heavy loads at low speeds, e.g. in city driving or hill terrain.
 
 # Embeded Memory Module (EMM)
 
@@ -21874,7 +21874,7 @@ When the ABS hydraulic pressure control takes place, there may be some vibration
 
 # 1. OVERVIEW
 
-When a driver turns the steering wheel, the front wheels are steered and the vehicle moves to the desired direction. However, there is a certain limitation to increase the steering efficiency only with the mechanical methods. A steering system using hydraulic pressure has been introduced to decrease the driver's steering effort while using the normal gear ratio.
+When a driver turns the steering wheel, the front wheels are steered and the vehicle moves to the desired direction. However, there is a certain limitation to increase the steering eficiency only with the mechanical methods. A steering system using hydraulic pressure has been introduced to decrease the driver's steering effort while using the normal gear ratio.
 
 The power steering system consists of pump, oil reservoir, rack and gear box.   
 The power steering pump is a vane type and delivers hydraulic pressure to operate the power steering system. The pressure relief valve in the pump controls the discharging pressure.   
@@ -25772,7 +25772,7 @@ Squish: Squish is the air flows due to the piston head. Normally, this is appear
 
 
 ### 2) Swirl control
-In DI type diesel engine, the liquefied fuel is injected into the cylinder directly. If the fuel is evenly distributed in short period, the combustion efficiency could be improved. To get this, there should be good air flow in cylinder. In general, there are two intake ports, swirl port and tangential port, in each cylinder. The swirl port generates the horizontal flow and the tangential port generates the longitudinal flow. In low/mid load range, the tabgential port is closed to increase the horizontal flow. Fast flow decreases the PM during combustion and increases the EGR ratio by better combustion efficiency.
+In DI type diesel engine, the liquefied fuel is injected into the cylinder directly. If the fuel is evenly distributed in short period, the combustion eficiency could be improved. To get this, there should be good air flow in cylinder. In general, there are two intake ports, swirl port and tangential port, in each cylinder. The swirl port generates the horizontal flow and the tangential port generates the longitudinal flow. In low/mid load range, the tabgential port is closed to increase the horizontal flow. Fast flow decreases the PM during combustion and increases the EGR ratio by better combustion eficiency.
 
 ![](images/915718ea0486fcb3f4be4d0a7d7291eac0a6049fb34502d1f7aeadf807c042db.webp)
 
@@ -25791,7 +25791,7 @@ The variable swirl valve actuator operates when turning the ignition switch ON/O
 ### 3) Features
 -Swir and air intake efficiency
 
-To generate the swirl, the intake port should be serpentine design. This makes the resistance in air flow. The resistance in air flow in engine high speed decreases the intake efficiency. Eventually, the engine power is also decreased, Thus, the swirl operation is deactivated in high speed range to increase the intake efficiency.
+To generate the swirl, the intake port should be serpentine design. This makes the resistance in air flow. The resistance in air flow in engine high speed decreases the intake eficiency. Eventually, the engine power is also decreased, Thus, the swirl operation is deactivated in high speed range to increase the intake efficiency.
 
 -Relationship between swirl and EGR
 
@@ -25978,7 +25978,7 @@ The followings are cautions to take in handling defects of turbocharger, which m
 
 
 ### 1) Overview
-The E-VGT turbocharger has one shaft where at each ends are installed with two turbines having different angles to connect one end of housing to the intake manifold and the other end to the exhaust manifold. As the turbine, at exhaust end, is rotated by exhaust gas pressure the impeller, at intake end, gets rotated to send air around center of the impeller, being circumferentiall accelerated by the centrifugal force, into the diffuser. The air, which has been introduced to the difuser having a passage with big surface, transforms its speed energy into the pressure energy while being supplied to the cylinder improving the volume effciency. Also, the exhaust efficiency improves as the exhaust turbine rotates. The turbocharger is often referred to as the exhaust turbine turbocharger.
+The E-VGT turbocharger has one shaft where at each ends are installed with two turbines having different angles to connect one end of housing to the intake manifold and the other end to the exhaust manifold. As the turbine, at exhaust end, is rotated by exhaust gas pressure the impeller, at intake end, gets rotated to send air around center of the impeller, being circumferentiall accelerated by the centrifugal force, into the diffuser. The air, which has been introduced to the difuser having a passage with big surface, transforms its speed energy into the pressure energy while being supplied to the cylinder improving the volume effciency. Also, the exhaust eficiency improves as the exhaust turbine rotates. The turbocharger is often referred to as the exhaust turbine turbocharger.
 
 Diffuser: With the meaning of spreading out it is a device that transforms fluid's speed energy into the pressure energy by enlarging the fluid's passage to slow down the flow. The E-VGT system installed to the D20DTR engine variably controls the passages of the turbine housing to regulate the flow rate of the exhaust gas. The actuator of E-VGT is a DC motor actuator (EActuator) which controls more quickly and precisely than the previous vacuum type actuator.
 
@@ -25996,7 +25996,7 @@ The engine ECU controls the E-Actuator electronically as follows:
 ### (2) E-VGT Actuator (Electric-Actuator)
 1. Optimizes the exhaust gas flow rate by controlling the vanes inside the turbine housing with the EActuator.
 
--Maximizes the intake air charging efficiency (Approx. 15%)
+-Maximizes the intake air charging eficiency (Approx. 15%)
 
 2. Has a faster response time than the conventional vacuum actuator.
 
@@ -27176,7 +27176,7 @@ It is based on detection of the combustion. When the engine is idling, the detec
 
 
 ### Variable swirl valve
-The strong swirl caused by intake air is important element for anti-locking function in diesel engine. The swirl control valve partially closes the intake port to generate the swirl according to the engine conditions. When the engine load is in low or medium range, the swir could not be generated because the air flow is slow. To generate strong swirl, there are two passages in intake manifold, and one of them has the valve to open and close the passage. When the valve closes the passage, the air flow through the another passage willbe faster, and the strong swirl wil be generated by the internal structure of the passage. This swirl makes the better mixture of air and fuel, eventually the combustion efficiency in combustion chamber could be improved. This provides the enhanced fuel consumption, power and EGR ratio.
+The strong swirl caused by intake air is important element for anti-locking function in diesel engine. The swirl control valve partially closes the intake port to generate the swirl according to the engine conditions. When the engine load is in low or medium range, the swir could not be generated because the air flow is slow. To generate strong swirl, there are two passages in intake manifold, and one of them has the valve to open and close the passage. When the valve closes the passage, the air flow through the another passage willbe faster, and the strong swirl wil be generated by the internal structure of the passage. This swirl makes the better mixture of air and fuel, eventually the combustion eficiency in combustion chamber could be improved. This provides the enhanced fuel consumption, power and EGR ratio.
 
 
 ### Components
@@ -27202,7 +27202,7 @@ Tumble: Tumble is the vertical air flows in cylinder due to the vertical intake 
 
 
 ### D. Swirl control
-In DI type diesel engine, the liquefied fuel is injected into the cylinder directly. If the fuel is evenly distributed in short period, the combustion efficiency could be improved. To get this, there should be good air flow in cylinder. In general, there are two intake ports, swirl port and tangential port, in each cylinder. The swirl port generates the horizontal flow and the tangential port generates the longitudinal flow. In low/mid load range, the tabgential port is closed to increase the horizontal flow. Fast flow decreases the PM during combustion and increases the EGR ratio by better combustion efficiency.
+In DI type diesel engine, the liquefied fuel is injected into the cylinder directly. If the fuel is evenly distributed in short period, the combustion eficiency could be improved. To get this, there should be good air flow in cylinder. In general, there are two intake ports, swirl port and tangential port, in each cylinder. The swirl port generates the horizontal flow and the tangential port generates the longitudinal flow. In low/mid load range, the tabgential port is closed to increase the horizontal flow. Fast flow decreases the PM during combustion and increases the EGR ratio by better combustion eficiency.
 
 ![](images/7c84cb8d86de1888113a74b68879b08b6918df8b8c234b578e25e69dd5c7a401.webp)
 
@@ -27218,9 +27218,9 @@ The variable swirl valve actuator operates when turning the ignition switch ON/O
 
 
 ### E. Features
-Swirl and air intake efficiency
+Swirl and air intake eficiency
 
-To generate the swir, the intake port should be serpentine design. This makes the resistance in air flow. The resistance in air flow in engine high speed decreases the intake efficiency. Eventuall, the engine power is also decreased, Thus, the swirl operation is deactivated in high speed range to increase the intake efficiency.
+To generate the swir, the intake port should be serpentine design. This makes the resistance in air flow. The resistance in air flow in engine high speed decreases the intake eficiency. Eventuall, the engine power is also decreased, Thus, the swirl operation is deactivated in high speed range to increase the intake efficiency.
 
 -Relationship between swirl and EGR
 
@@ -30617,7 +30617,7 @@ A soft engagement feature avoids harsh take up of drive when selecting Drive or 
 
 
 ### Converter Clutch Lock-Up In All Gears
-The transmission features converter clutch lock-up in all gears. This feature provides improved fuel economy and vehicle performance. It also improves transmission cooling efficiency when towing heavy loads at low speeds, e.g. in city driving or hill terrain.
+The transmission features converter clutch lock-up in all gears. This feature provides improved fuel economy and vehicle performance. It also improves transmission cooling eficiency when towing heavy loads at low speeds, e.g. in city driving or hill terrain.
 
 
 ### Embeded Memory Module (EMM)
@@ -33000,7 +33000,7 @@ When the ABS hydraulic pressure control takes place, there may be some vibration
 
 
 ### 1. OVERVIEW
-When a driver turns the steering wheel, the front wheels are steered and the vehicle moves to the desired direction. However, there is a certain limitation to increase the steering efficiency only with the mechanical methods. A steering system using hydraulic pressure has been introduced to decrease the driver's steering effort while using the normal gear ratio.
+When a driver turns the steering wheel, the front wheels are steered and the vehicle moves to the desired direction. However, there is a certain limitation to increase the steering eficiency only with the mechanical methods. A steering system using hydraulic pressure has been introduced to decrease the driver's steering effort while using the normal gear ratio.
 
 The power steering system consists of pump, oil reservoir, rack and gear box.   
 The power steering pump is a vane type and delivers hydraulic pressure to operate the power steering system. The pressure relief valve in the pump controls the discharging pressure.   

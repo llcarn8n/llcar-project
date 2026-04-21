@@ -1,25 +1,70 @@
 # S27 ingest diff — D:/manuals-export → public/data/kb/
 
 **Total pairs:** 969
-- `unmatched`: 694
+- `unmatched`: 644
 - `exact_model`: 209
-- `fuzzy_model`: 55
-- `exact_gen`: 9
-- `fuzzy_gen`: 2
+- `exact_gen`: 54
+- `fuzzy_model`: 52
+- `fuzzy_gen`: 10
 
-## exact_gen (9)
+## exact_gen (54)
 
 | Brand | Source dir | Size | → Dst | exists |
 |---|---|---:|---|:-:|
 | baic | x35 | 40,940,538 | llcar-dashboard/public/data/kb/baic/x35/x35 | ✓ |
+| belgee | x50_plus | 1,387,040 | llcar-dashboard/public/data/kb/belgee/x50/x50_plus | ✓ |
+| bmw | x3_e83 | 8,381,353 | llcar-dashboard/public/data/kb/bmw/x3/x3_e83 | ✓ |
+| bmw | x5_e53 | 6,050,293 | llcar-dashboard/public/data/kb/bmw/x5/x5_e53 | ✓ |
+| bmw | x5_e70 | 6,401,264 | llcar-dashboard/public/data/kb/bmw/x5/x5_e70 | ✓ |
+| byd | dolphin_2 | 1,097,631 | llcar-dashboard/public/data/kb/byd/dolphin/dolphin_2 | ✓ |
 | byd | dolphin_2021 | 1,165,879 | llcar-dashboard/public/data/kb/byd/dolphin/dolphin_2021 | ✓ |
+| byd | han_2 | 1,161,817 | llcar-dashboard/public/data/kb/byd/han/han_2 | ✓ |
+| byd | han_ev | 796,623 | llcar-dashboard/public/data/kb/byd/han/han_ev | ✓ |
+| byd | tang_ev | 2,305,723 | llcar-dashboard/public/data/kb/byd/tang/tang_ev | ✓ |
+| chery | tiggo_7_pro_max_restyled | 1,375,790 | llcar-dashboard/public/data/kb/chery/tiggo_7_pro/tiggo_7_pro_max_restyled | ✓ |
+| chery | tiggo_8_pro_max | 1,412,446 | llcar-dashboard/public/data/kb/chery/tiggo_8_pro/tiggo_8_pro_max | ✓ |
+| citroen | c5_aircross | 1,601,762 | llcar-dashboard/public/data/kb/citroen/c5/c5_aircross | ✓ |
+| citroen | c5_break | 3,148,663 | llcar-dashboard/public/data/kb/citroen/c5/c5_break | ✓ |
+| datsun | on_do_v2_ru_reocr | 967,724 | llcar-dashboard/public/data/kb/datsun/on_do/on_do_v2_ru_reocr | ✓ |
+| exeed | txl_debug | 1,589,481 | llcar-dashboard/public/data/kb/exeed/txl/txl_debug | ✓ |
+| forthing | t5_sx3 | 734,406 | llcar-dashboard/public/data/kb/forthing/t5/t5_sx3 | ✓ |
 | gac | gn8 | 368,348,409 | llcar-dashboard/public/data/kb/gac/gn8/gn8 | ✓ |
 | gac | gs5 | 19,613,162 | llcar-dashboard/public/data/kb/gac/gs5/gs5 | ✓ |
+| geely | atlas_pro | 6,509,933 | llcar-dashboard/public/data/kb/geely/atlas/atlas_pro | ✓ |
+| geely | monjaro_2023_kx11 | 4,048,454 | llcar-dashboard/public/data/kb/geely/monjaro/monjaro_2023_kx11 | ✓ |
 | genesis | g70 | 2,139,550 | llcar-dashboard/public/data/kb/genesis/g70/g70 | ✓ |
 | genesis | g90 | 900,620 | llcar-dashboard/public/data/kb/genesis/g90/g90 | ✓ |
 | hongqi | h5 | 6,179,746 | llcar-dashboard/public/data/kb/hongqi/h5/h5 | ✓ |
 | hongqi | h9 | 1,754,211 | llcar-dashboard/public/data/kb/hongqi/h9/h9 | ✓ |
+| hyundai | solaris_2 | 3,227,600 | llcar-dashboard/public/data/kb/hyundai/solaris/solaris_2 | ✓ |
+| hyundai | staria_premium | 4,727,256 | llcar-dashboard/public/data/kb/hyundai/staria/staria_premium | ✓ |
 | kaiyi | e5 | 1,480,324 | llcar-dashboard/public/data/kb/kaiyi/e5/e5 | ✓ |
+| kia | ev9_my24 | 2,533,402 | llcar-dashboard/public/data/kb/kia/ev9/ev9_my24 | ✓ |
+| kia | rio_iii | 3,323,550 | llcar-dashboard/public/data/kb/kia/rio/rio_iii | ✓ |
+| lada | niva_legend | 786,894 | llcar-dashboard/public/data/kb/lada/niva/niva_legend | ✓ |
+| lada | niva_travel | 783,502 | llcar-dashboard/public/data/kb/lada/niva/niva_travel | ✓ |
+| mitsubishi | outlander_phev | 1,496,292 | llcar-dashboard/public/data/kb/mitsubishi/outlander/outlander_phev | ✓ |
+| nissan | teana_j32 | 4,264,858 | llcar-dashboard/public/data/kb/nissan/teana/teana_j32 | ✓ |
+| nissan | teana_l33 | 2,195,514 | llcar-dashboard/public/data/kb/nissan/teana/teana_l33 | ✓ |
+| nissan | x_trail_v2_ru_reocr | 1,601,535 | llcar-dashboard/public/data/kb/nissan/x_trail/x_trail_v2_ru_reocr | ✓ |
+| renault | kaptur_2016_d | 3,311,660 | llcar-dashboard/public/data/kb/renault/kaptur/kaptur_2016_d | ✓ |
+| renault | logan_sandero | 627,139 | llcar-dashboard/public/data/kb/renault/logan/logan_sandero | ✓ |
+| skoda | fabia_2 | 3,184,952 | llcar-dashboard/public/data/kb/skoda/fabia/fabia_2 | ✓ |
+| skoda | octavia_a4 | 4,083,442 | llcar-dashboard/public/data/kb/skoda/octavia/octavia_a4 | ✓ |
+| skoda | octavia_a5 | 5,187,864 | llcar-dashboard/public/data/kb/skoda/octavia/octavia_a5 | ✓ |
+| skoda | octavia_a7 | 10,274,508 | llcar-dashboard/public/data/kb/skoda/octavia/octavia_a7 | ✓ |
+| skoda | superb_2 | 5,274,890 | llcar-dashboard/public/data/kb/skoda/superb/superb_2 | ✓ |
+| skoda | superb_ii | 5,226,425 | llcar-dashboard/public/data/kb/skoda/superb/superb_ii | ✓ |
+| ssangyong | rexton_v1_ocr | 405,047 | llcar-dashboard/public/data/kb/ssangyong/rexton/rexton_v1_ocr | ✓ |
+| ssangyong | rexton_v2_ocr | 1,098,911 | llcar-dashboard/public/data/kb/ssangyong/rexton/rexton_v2_ocr | ✓ |
+| toyota | camry_v40_ru_reocr | 1,395,176 | llcar-dashboard/public/data/kb/toyota/camry/camry_v40_ru_reocr | ✓ |
+| toyota | land_cruiser_prado | 1,725,488 | llcar-dashboard/public/data/kb/toyota/land_cruiser/land_cruiser_prado | ✓ |
+| volkswagen | golf_2 | 2,009,870 | llcar-dashboard/public/data/kb/volkswagen/golf/golf_2 | ✓ |
+| volkswagen | golf_demo | 207,682 | llcar-dashboard/public/data/kb/volkswagen/golf/golf_demo | ✓ |
+| volkswagen | polo_2 | 3,861,554 | llcar-dashboard/public/data/kb/volkswagen/polo/polo_2 | ✓ |
+| volkswagen | polo_sedan | 2,104,834 | llcar-dashboard/public/data/kb/volkswagen/polo/polo_sedan | ✓ |
+| volkswagen | polo_v2_ru_reocr | 1,577,827 | llcar-dashboard/public/data/kb/volkswagen/polo/polo_v2_ru_reocr | ✓ |
+| voyah | free_2 | 910,354 | llcar-dashboard/public/data/kb/voyah/free/free_2 | ✓ |
 
 ## exact_model (209)
 
@@ -56,8 +101,8 @@
 | bmw | x6 | 925,784 | llcar-dashboard/public/data/kb/bmw/x6/f16_2014 | ✓ |
 | bmw | x7 | 1,010,381 | llcar-dashboard/public/data/kb/bmw/x7/g07_2018 | ✓ |
 | byd | atto_3 | 108,365,718 | llcar-dashboard/public/data/kb/byd/atto_3/yuan_2021 | ✓ |
-| byd | dolphin | 1,129,286 | llcar-dashboard/public/data/kb/byd/dolphin/dolphin_2021 | ✓ |
-| byd | han | 2,323,638 | llcar-dashboard/public/data/kb/byd/han/han_2020 | ✓ |
+| byd | dolphin | 1,129,286 | llcar-dashboard/public/data/kb/byd/dolphin/dolphin_2 | ✓ |
+| byd | han | 2,323,638 | llcar-dashboard/public/data/kb/byd/han/han_2 | ✓ |
 | byd | seal | 777,141 | llcar-dashboard/public/data/kb/byd/seal/seal_2022 | ✓ |
 | byd | tang | 1,946,898 | llcar-dashboard/public/data/kb/byd/tang/tang_2018 | ✓ |
 | changan | cs35_plus | 727,457 | llcar-dashboard/public/data/kb/changan/cs35_plus/cs35p1_2018 | ✓ |
@@ -67,7 +112,7 @@
 | chery | tiggo_7_pro | 5,649,653 | llcar-dashboard/public/data/kb/chery/tiggo_7_pro/t7p_2020 | ✓ |
 | chery | tiggo_8_pro | 11,445,460 | llcar-dashboard/public/data/kb/chery/tiggo_8_pro/t8p_2021 | ✓ |
 | chevrolet | cruze | 710,251 | llcar-dashboard/public/data/kb/chevrolet/cruze/j400_2016 | ✓ |
-| citroen | c5 | 9,492,083 | llcar-dashboard/public/data/kb/citroen/c5/rc_2021 | ✓ |
+| citroen | c5 | 9,492,083 | llcar-dashboard/public/data/kb/citroen/c5/c5_aircross | ✓ |
 | daewoo | gentra | 11,899,193 | llcar-dashboard/public/data/kb/daewoo/gentra/daewoo_gentra__stub | ✓ |
 | daewoo | lacetti | 759,830,889 | llcar-dashboard/public/data/kb/daewoo/lacetti/gen_2002 | ✓ |
 | daewoo | matiz | 21,880,438 | llcar-dashboard/public/data/kb/daewoo/matiz/daewoo_matiz__matiz | ✓ |
@@ -93,7 +138,7 @@
 | gac | gs3 | 51,992,107 | llcar-dashboard/public/data/kb/gac/gs3/gs3_2020 | ✓ |
 | gac | gs4 | 16,443,368 | llcar-dashboard/public/data/kb/gac/gs4/gs4_2020 | ✓ |
 | gac | gs8 | 287,864,975 | llcar-dashboard/public/data/kb/gac/gs8/gs8_2021 | ✓ |
-| geely | atlas | 519,331 | llcar-dashboard/public/data/kb/geely/atlas/nl3_2018 | ✓ |
+| geely | atlas | 519,331 | llcar-dashboard/public/data/kb/geely/atlas/atlas_pro | ✓ |
 | geely | coolray | 3,180,308 | llcar-dashboard/public/data/kb/geely/coolray/sx11_2020 | ✓ |
 | geely | monjaro | 2,038,277 | llcar-dashboard/public/data/kb/geely/monjaro/kx11_2022 | ✓ |
 | geely | tugella | 22,603,238 | llcar-dashboard/public/data/kb/geely/tugella/fy11_2020 | ✓ |
@@ -117,7 +162,7 @@
 | hyundai | santa_fe | 4,745,302 | llcar-dashboard/public/data/kb/hyundai/santa_fe/cm_2005 | ✓ |
 | hyundai | solaris | 3,248,423 | llcar-dashboard/public/data/kb/hyundai/solaris/hc_2017 | ✓ |
 | hyundai | sonata | 3,573,754 | llcar-dashboard/public/data/kb/hyundai/sonata/dn8_2019 | ✓ |
-| hyundai | staria | 4,665,928 | llcar-dashboard/public/data/kb/hyundai/staria/us4_2021 | ✓ |
+| hyundai | staria | 4,665,928 | llcar-dashboard/public/data/kb/hyundai/staria/staria_premium | ✓ |
 | hyundai | tucson | 3,597,203 | llcar-dashboard/public/data/kb/hyundai/tucson/nx4_2020 | ✓ |
 | infiniti | q50 | 25,114,436 | llcar-dashboard/public/data/kb/infiniti/q50/v37_2013 | ✓ |
 | infiniti | qx50 | 18,923,256 | llcar-dashboard/public/data/kb/infiniti/qx50/j55_2017 | ✓ |
@@ -138,7 +183,7 @@
 | kia | ceed | 3,351,878 | llcar-dashboard/public/data/kb/kia/ceed/jd_2012 | ✓ |
 | kia | cerato | 3,082,944 | llcar-dashboard/public/data/kb/kia/cerato/bd_2018 | ✓ |
 | kia | ev6 | 1,183,554 | llcar-dashboard/public/data/kb/kia/ev6/cv_2021 | ✓ |
-| kia | ev9 | 2,817,150 | llcar-dashboard/public/data/kb/kia/ev9/mv_2023 | ✓ |
+| kia | ev9 | 2,817,150 | llcar-dashboard/public/data/kb/kia/ev9/ev9_my24 | ✓ |
 | kia | k5 | 3,837,242 | llcar-dashboard/public/data/kb/kia/k5/.omc | ✓ |
 | kia | mohave | 3,654,738 | llcar-dashboard/public/data/kb/kia/mohave/hm_2019 | ✓ |
 | kia | optima | 247,439,496 | llcar-dashboard/public/data/kb/kia/optima/jf_2015 | ✓ |
@@ -193,12 +238,12 @@
 | porsche | cayenne | 6,012,311 | llcar-dashboard/public/data/kb/porsche/cayenne/92a_2010 | ✓ |
 | porsche | macan | 83,429,912 | llcar-dashboard/public/data/kb/porsche/macan/95b_2014 | ✓ |
 | renault | arkana | 74,203,892 | llcar-dashboard/public/data/kb/renault/arkana/rjl_2019 | ✓ |
-| renault | duster | 4,115,683 | llcar-dashboard/public/data/kb/renault/duster/hm_2021 | ✓ |
+| renault | duster | 4,115,683 | llcar-dashboard/public/data/kb/renault/duster/duster_2010 | ✓ |
 | renault | kaptur | 3,256,639 | llcar-dashboard/public/data/kb/renault/kaptur/hha_2016 | ✓ |
 | renault | koleos | 95,005,705 | llcar-dashboard/public/data/kb/renault/koleos/hy_2007 | ✓ |
 | renault | logan | 1,204,980 | llcar-dashboard/public/data/kb/renault/logan/l52_2014 | ✓ |
 | renault | sandero | 3,245,892 | llcar-dashboard/public/data/kb/renault/sandero/b52_2014 | ✓ |
-| skoda | fabia | 4,889,354 | llcar-dashboard/public/data/kb/skoda/fabia/nj_2014 | ✓ |
+| skoda | fabia | 4,889,354 | llcar-dashboard/public/data/kb/skoda/fabia/fabia_2 | ✓ |
 | skoda | kodiaq | 77,797,333 | llcar-dashboard/public/data/kb/skoda/kodiaq/ns_2016 | ✓ |
 | skoda | octavia | 2,954,328 | llcar-dashboard/public/data/kb/skoda/octavia/a8_2020 | ✓ |
 | skoda | rapid | 2,872,932 | llcar-dashboard/public/data/kb/skoda/rapid/nh_2020 | ✓ |
@@ -216,33 +261,41 @@
 | tank | 500 | 410,983,059 | llcar-dashboard/public/data/kb/tank/500/gen_2022 | ✓ |
 | tank | 700 | 1,291,492 | llcar-dashboard/public/data/kb/tank/700/gen_2024 | ✓ |
 | toyota | alphard | 31,856,703 | llcar-dashboard/public/data/kb/toyota/alphard/ah30_2015 | ✓ |
-| toyota | camry | 3,092,061 | llcar-dashboard/public/data/kb/toyota/camry/v50_2011 | ✓ |
+| toyota | camry | 3,092,061 | llcar-dashboard/public/data/kb/toyota/camry/camry_v40_ru_reocr | ✓ |
 | toyota | corolla | 4,288,390 | llcar-dashboard/public/data/kb/toyota/corolla/e180_2013 | ✓ |
 | toyota | highlander | 56,404,984 | llcar-dashboard/public/data/kb/toyota/highlander/xu70_2019 | ✓ |
 | toyota | land_cruiser | 2,639,002 | llcar-dashboard/public/data/kb/toyota/land_cruiser/j200_2007 | ✓ |
 | toyota | prado | 4,841,334 | llcar-dashboard/public/data/kb/toyota/prado/j150_2009 | ✓ |
 | toyota | rav4 | 2,309,815 | llcar-dashboard/public/data/kb/toyota/rav4/xa40_2013 | ✓ |
 | uaz | patriot | 1,337,460 | llcar-dashboard/public/data/kb/uaz/patriot/patriot_2005 | ✓ |
-| volkswagen | golf | 3,454,189 | llcar-dashboard/public/data/kb/volkswagen/golf/mk7_2012 | ✓ |
+| volkswagen | golf | 3,454,189 | llcar-dashboard/public/data/kb/volkswagen/golf/golf_2 | ✓ |
 | volkswagen | polo | 3,336,665 | llcar-dashboard/public/data/kb/volkswagen/polo/aw_2020 | ✓ |
 | volkswagen | tiguan | 4,477,048 | llcar-dashboard/public/data/kb/volkswagen/tiguan/ad1_2016 | ✓ |
 | volkswagen | touareg | 535,295,845 | llcar-dashboard/public/data/kb/volkswagen/touareg/cr_2018 | ✓ |
 | volvo | s60 | 50,353,838 | llcar-dashboard/public/data/kb/volvo/s60/p_2018 | ✓ |
 | volvo | xc60 | 2,348,504 | llcar-dashboard/public/data/kb/volvo/xc60/su_2017 | ✓ |
 | volvo | xc90 | 6,134,790 | llcar-dashboard/public/data/kb/volvo/xc90/lc_2015 | ✓ |
-| voyah | free | 1,820,714 | llcar-dashboard/public/data/kb/voyah/free/free_2021 | ✓ |
+| voyah | free | 1,820,714 | llcar-dashboard/public/data/kb/voyah/free/free_2 | ✓ |
 | zeekr | 001 | 18,980,992 | llcar-dashboard/public/data/kb/zeekr/001/001_2021 | ✓ |
 | zeekr | 007 | 177,311,273 | llcar-dashboard/public/data/kb/zeekr/007/007_2024 | ✓ |
 | zeekr | 009 | 55,583 | llcar-dashboard/public/data/kb/zeekr/009/009_2022 | ✓ |
 
-## fuzzy_gen (2)
+## fuzzy_gen (10)
 
 | Brand | Source dir | Size | → Dst | exists |
 |---|---|---:|---|:-:|
 | byd | yuan | 851,759 | llcar-dashboard/public/data/kb/byd/atto_3/yuan_2021 | ✓ |
 | haval | h9_4891eab0 | 910,332 | llcar-dashboard/public/data/kb/haval/h9/h9_2015 | ✓ |
+| kia | rio_iii_ru | 902,516 | llcar-dashboard/public/data/kb/kia/rio/rio_iii | ✓ |
+| mitsubishi | outlander_phev_2014 | 2,993,406 | llcar-dashboard/public/data/kb/mitsubishi/outlander/outlander_phev | ✓ |
+| renault | duster_2009 | 80,288,611 | llcar-dashboard/public/data/kb/renault/duster/duster_2010 | ✓ |
+| renault | duster_2015 | 29,884,932 | llcar-dashboard/public/data/kb/renault/duster/duster_2010 | ✓ |
+| renault | duster_ru | 1,676,518 | llcar-dashboard/public/data/kb/renault/duster/duster_2010 | ✓ |
+| skoda | octavia_a5_ru | 1,271,823 | llcar-dashboard/public/data/kb/skoda/octavia/octavia_a5 | ✓ |
+| toyota | land_cruiser_prado_8f32a29a | 1,701,729 | llcar-dashboard/public/data/kb/toyota/land_cruiser/land_cruiser_prado | ✓ |
+| zeekr | 009_user_manual_eng | 100,052 | llcar-dashboard/public/data/kb/zeekr/009/009_user_manual | ✓ |
 
-## fuzzy_model (55)
+## fuzzy_model (52)
 
 | Brand | Source dir | Size | → Dst | exists |
 |---|---|---:|---|:-:|
@@ -250,7 +303,7 @@
 | bmw | 5_series_5604fd15 | 1,210,057 | llcar-dashboard/public/data/kb/bmw/5_series/f10_2010 | ✓ |
 | bmw | 7_series_bbb4f65e | 986,858 | llcar-dashboard/public/data/kb/bmw/7_series/g11_2015 | ✓ |
 | bmw | x5_d95e08c2 | 2,906,581 | llcar-dashboard/public/data/kb/bmw/x5/f15_2013 | ✓ |
-| citroen | c5_2008 | 6,428,678 | llcar-dashboard/public/data/kb/citroen/c5/rc_2021 | ✓ |
+| citroen | c5_2008 | 6,428,678 | llcar-dashboard/public/data/kb/citroen/c5/c5_aircross | ✓ |
 | daewoo | nexia_1994 | 2,858,847 | llcar-dashboard/public/data/kb/daewoo/nexia/daewoo_nexia__stub | ✓ |
 | ford | focus_ru | 697,434 | llcar-dashboard/public/data/kb/ford/focus/mk3_2011 | ✓ |
 | ford | kuga_ru | 2,107,643 | llcar-dashboard/public/data/kb/ford/kuga/mk2_2013 | ✓ |
@@ -284,15 +337,12 @@
 | nissan | qashqai_ru | 1,511,958 | llcar-dashboard/public/data/kb/nissan/qashqai/j11_2014 | ✓ |
 | nissan | x_trail_2021 | 3,665,848 | llcar-dashboard/public/data/kb/nissan/x_trail/t32_2015 | ✓ |
 | porsche | macan_ru | 5,771,022 | llcar-dashboard/public/data/kb/porsche/macan/95b_2014 | ✓ |
-| renault | duster_2009 | 80,288,611 | llcar-dashboard/public/data/kb/renault/duster/hm_2021 | ✓ |
-| renault | duster_2015 | 29,884,932 | llcar-dashboard/public/data/kb/renault/duster/hm_2021 | ✓ |
-| renault | duster_ru | 1,676,518 | llcar-dashboard/public/data/kb/renault/duster/hm_2021 | ✓ |
 | renault | kaptur_2016 | 30,447,588 | llcar-dashboard/public/data/kb/renault/kaptur/hha_2016 | ✓ |
 | renault | kaptur_ru | 1,682,664 | llcar-dashboard/public/data/kb/renault/kaptur/hha_2016 | ✓ |
 | renault | logan_ru | 621,495 | llcar-dashboard/public/data/kb/renault/logan/l52_2014 | ✓ |
 | renault | sandero_2008 | 31,198,040 | llcar-dashboard/public/data/kb/renault/sandero/b52_2014 | ✓ |
 | skoda | octavia_1996 | 96,955,652 | llcar-dashboard/public/data/kb/skoda/octavia/a8_2020 | ✓ |
-| toyota | camry_ru | 1,302,850 | llcar-dashboard/public/data/kb/toyota/camry/v50_2011 | ✓ |
+| toyota | camry_ru | 1,302,850 | llcar-dashboard/public/data/kb/toyota/camry/camry_v40_ru_reocr | ✓ |
 | toyota | corolla_ru | 2,056,496 | llcar-dashboard/public/data/kb/toyota/corolla/e180_2013 | ✓ |
 | toyota | prado_1996 | 53,117,294 | llcar-dashboard/public/data/kb/toyota/prado/j150_2009 | ✓ |
 | toyota | prado_2002 | 97,264,790 | llcar-dashboard/public/data/kb/toyota/prado/j150_2009 | ✓ |
@@ -302,7 +352,7 @@
 | volkswagen | polo_2015 | 60,028,079 | llcar-dashboard/public/data/kb/volkswagen/polo/aw_2020 | ✓ |
 | volkswagen | tiguan_ru | 2,066,013 | llcar-dashboard/public/data/kb/volkswagen/tiguan/ad1_2016 | ✓ |
 
-## unmatched (694)
+## unmatched (644)
 
 | Brand | Source dir | Size | → Dst | exists |
 |---|---|---:|---|:-:|
@@ -311,22 +361,15 @@
 | audi | misc_ac6cbbdd | 87,291 | — | · |
 | audi | misc_bd3f1304 | 87,588 | — | · |
 | baic | bj60 | 2,618,648 | — | · |
-| belgee | x50_plus | 1,387,040 | — | · |
 | belgee | x50plus | 693,631 | — | · |
 | bestune | b70 | 1,151,764 | — | · |
 | bestune | bestune_t90 | 1,061,211 | — | · |
 | bmw | 5_e28 | 1,176,107 | — | · |
 | bmw | i3 | 511,870 | — | · |
-| bmw | x3_e83 | 8,381,353 | — | · |
-| bmw | x5_e53 | 6,050,293 | — | · |
-| bmw | x5_e70 | 6,401,264 | — | · |
 | byd | 24__dmi_rus__1 | 1,043,804 | — | · |
 | byd | byd_sealion_05 | 930,173 | — | · |
 | byd | byd_sealion_06 | 1,391,748 | — | · |
-| byd | dolphin_2 | 1,097,631 | — | · |
 | byd | dolphin_ru_2021 | 1,164,903 | — | · |
-| byd | han_2 | 1,161,817 | — | · |
-| byd | han_ev | 796,623 | — | · |
 | byd | l_dmi_manual_rus_last | 1,960,610 | — | · |
 | byd | misc_76b7520c | 78,124 | — | · |
 | byd | plus_ev2023_champion_edition_user_manual | 1,799,938 | — | · |
@@ -340,7 +383,6 @@
 | byd | song_plus_pfi | 141,599,456 | — | · |
 | byd | t03 | 60,027,309 | — | · |
 | byd | tang_dm_ev_en_2019 | 95,453 | — | · |
-| byd | tang_ev | 2,305,723 | — | · |
 | byd | yuan_plus | 9,880,423 | — | · |
 | byd | yuan_up | 195,018,749 | — | · |
 | cadillac | cadillac_escalade | 5,149,251 | — | · |
@@ -375,9 +417,7 @@
 | chery | tiggo_4_new | 1,200,300 | — | · |
 | chery | tiggo_4_pro | 14,823,248 | — | · |
 | chery | tiggo_7 | 2,028,734 | — | · |
-| chery | tiggo_7_pro_max_restyled | 1,375,790 | — | · |
 | chery | tiggo_8 | 4,239,071 | — | · |
-| chery | tiggo_8_pro_max | 1,412,446 | — | · |
 | chevrolet | aveo | 1,727,436 | — | · |
 | chevrolet | camaro | 2,600,820 | — | · |
 | chevrolet | captiva | 2,031,624 | — | · |
@@ -408,8 +448,6 @@
 | citroen | c3 | 48,923,548 | — | · |
 | citroen | c3_picasso | 5,006,147 | — | · |
 | citroen | c4 | 1,437,807 | — | · |
-| citroen | c5_aircross | 1,601,762 | — | · |
-| citroen | c5_break | 3,148,663 | — | · |
 | citroen | c_crosser | 127,444,987 | — | · |
 | citroen | xsara | 4,795,326 | — | · |
 | citroen | xsara_picasso | 4,302,803 | — | · |
@@ -422,12 +460,10 @@
 | datsun | 1000 | 53,848,063 | — | · |
 | datsun | 1000_v2_ru_reocr | 594,776 | — | · |
 | datsun | datsun_1000_1200_1972 | 594,972 | — | · |
-| datsun | on_do_v2_ru_reocr | 967,724 | — | · |
 | exeed | es | 942,242 | — | · |
 | exeed | exeed_et | 920,633 | — | · |
 | exeed | rx | 1,139,940,395 | — | · |
 | exeed | tx | 4,288,339 | — | · |
-| exeed | txl_debug | 1,589,481 | — | · |
 | exeed | txtxl | 4,464,877 | — | · |
 | fiat | albea | 148,411,836 | — | · |
 | fiat | bravo | 6,828,558 | — | · |
@@ -470,19 +506,16 @@
 | forthing | friday_rhd | 770,160 | — | · |
 | forthing | m4 | 14,046 | — | · |
 | forthing | t5_hev | 83,837,462 | — | · |
-| forthing | t5_sx3 | 734,406 | — | · |
 | gac | aion_y | 1,760,476 | — | · |
 | gac | empow | 18,549,217 | — | · |
 | gac | gac_s7 | 907,454 | — | · |
 | gac | s9 | 282,872,946 | — | · |
-| geely | atlas_pro | 6,509,933 | — | · |
 | geely | cityray | 1,442,269 | — | · |
 | geely | emgrand | 51,045,511 | — | · |
 | geely | emgrand_ev | 11,035,223 | — | · |
 | geely | galaxy | 93,163,887 | — | · |
 | geely | misc_a4380e13 | 690,611 | — | · |
 | geely | mk | 36,546,896 | — | · |
-| geely | monjaro_2023_kx11 | 4,048,454 | — | · |
 | geely | okavango | 1,831,144 | — | · |
 | geely | preface | 16,086,045 | — | · |
 | haval | f7x | 5,624,199 | — | · |
@@ -533,9 +566,7 @@
 | hyundai | kona | 1,672,262 | — | · |
 | hyundai | matrix | 99,494,131 | — | · |
 | hyundai | porter | 35,941,797 | — | · |
-| hyundai | solaris_2 | 3,227,600 | — | · |
 | hyundai | starex | 1,060,818 | — | · |
-| hyundai | staria_premium | 4,727,256 | — | · |
 | hyundai | tucson-2007 | 625,755,974 | — | · |
 | hyundai | venue | 1,335,288 | — | · |
 | infiniti | fx | 7,746,137 | — | · |
@@ -566,14 +597,11 @@
 | kaiyi | misc_4b5cc04f | 507,449 | — | · |
 | kia | 2019_kia_niro | 1,559,091 | — | · |
 | kia | all | 122,454 | — | · |
-| kia | ev9_my24 | 2,533,402 | — | · |
 | kia | k8 | 1,573,810 | — | · |
 | kia | magentis | 40,411,810 | — | · |
 | kia | niro | 1,629,922 | — | · |
 | kia | optima_k5 | 146,403,283 | — | · |
 | kia | picanto | 1,749,902 | — | · |
-| kia | rio_iii | 3,323,550 | — | · |
-| kia | rio_iii_ru | 902,516 | — | · |
 | kia | spectra | 863,548 | — | · |
 | kia | venga | 20,974 | — | · |
 | lada | 2008 | 1,124,227 | — | · |
@@ -606,8 +634,6 @@
 | lada | misc_f7cbfc74 | 942,812 | — | · |
 | lada | misc_f87afd80 | 1,512,287 | — | · |
 | lada | misc_fe8ef99d | 231,202 | — | · |
-| lada | niva_legend | 786,894 | — | · |
-| lada | niva_travel | 783,502 | — | · |
 | lada | priora | 2,652,986 | — | · |
 | land_rover | discovery | 159,814,995 | — | · |
 | land_rover | discovery_iii | 1,489,877 | — | · |
@@ -708,8 +734,6 @@
 | mitsubishi | lancer_x | 294,884,783 | — | · |
 | mitsubishi | montero | 135,540,669 | — | · |
 | mitsubishi | outlander-02 | 730,885,798 | — | · |
-| mitsubishi | outlander_phev | 1,496,292 | — | · |
-| mitsubishi | outlander_phev_2014 | 2,993,406 | — | · |
 | mitsubishi | pajero | 7,850,870 | — | · |
 | mitsubishi | pajero2 | 7,645,699 | — | · |
 | mitsubishi | pajero_2014 | 2,610,394 | — | · |
@@ -743,11 +767,8 @@
 | nissan | serena | 573,557,830 | — | · |
 | nissan | skyline | 249,394,557 | — | · |
 | nissan | sunny | 14,800,393 | — | · |
-| nissan | teana_j32 | 4,264,858 | — | · |
-| nissan | teana_l33 | 2,195,514 | — | · |
 | nissan | tiida | 2,018,578 | — | · |
 | nissan | wingroad | 40,635,028 | — | · |
-| nissan | x_trail_v2_ru_reocr | 1,601,535 | — | · |
 | omoda | c7 | 1,478,090 | — | · |
 | opel | astra | 2,755,120 | — | · |
 | opel | astra_1998_2000 | 1,193,974 | — | · |
@@ -819,7 +840,6 @@
 | renault | kangoo | 13,778,315 | — | · |
 | renault | kangoo_1997 | 1,470,570 | — | · |
 | renault | kangoo_2 | 1,703,610 | — | · |
-| renault | kaptur_2016_d | 3,311,660 | — | · |
 | renault | laguna | 3,610,423 | — | · |
 | renault | laguna_7af14511 | 1,603,006 | — | · |
 | renault | laguna_ii | 37,004,466 | — | · |
@@ -827,7 +847,6 @@
 | renault | laguna_iii_2009 | 17,351,701 | — | · |
 | renault | logan_ii | 29,247,775 | — | · |
 | renault | logan_ii_2014 | 3,138,956 | — | · |
-| renault | logan_sandero | 627,139 | — | · |
 | renault | master | 374,309 | — | · |
 | renault | megan_scenic_1996 | 4,574,100 | — | · |
 | renault | megane | 3,101,742 | — | · |
@@ -852,22 +871,13 @@
 | renault | symbol_thalia_2008 | 4,180,528 | — | · |
 | renault | twingo | 27,982,896 | — | · |
 | renault | twingo_1993 | 3,028,290 | — | · |
-| skoda | fabia_2 | 3,184,952 | — | · |
 | skoda | felicia | 62,883,778 | — | · |
 | skoda | kodiaq_2 | 11,830,137 | — | · |
 | skoda | octavia_3 | 69,424,335 | — | · |
-| skoda | octavia_a4 | 4,083,442 | — | · |
-| skoda | octavia_a5 | 5,187,864 | — | · |
-| skoda | octavia_a5_ru | 1,271,823 | — | · |
-| skoda | octavia_a7 | 10,274,508 | — | · |
 | skoda | scala | 2,835,859 | — | · |
 | skoda | scala_2 | 1,998,408 | — | · |
 | skoda | skoda_octavia_3 | 1,289,838 | — | · |
-| skoda | superb_2 | 5,274,890 | — | · |
-| skoda | superb_ii | 5,226,425 | — | · |
 | ssangyong | rexton2 | 2,973,537 | — | · |
-| ssangyong | rexton_v1_ocr | 405,047 | — | · |
-| ssangyong | rexton_v2_ocr | 1,098,911 | — | · |
 | ssangyong | rukovodstvo_po_ekspluatatsii_ssangyong_actyon_sports_actyon | 1,690,881 | — | · |
 | subaru | brz | 10,463,064 | — | · |
 | subaru | impreza | 548,013 | — | · |
@@ -904,7 +914,6 @@
 | toyota | camry-vista-94 | 405,524,443 | — | · |
 | toyota | camry-xv30 | 513,947,312 | — | · |
 | toyota | camry_2006_ru | 1,022,042 | — | · |
-| toyota | camry_v40_ru_reocr | 1,395,176 | — | · |
 | toyota | celica | 26,413,723 | — | · |
 | toyota | corolla_ax | 85,257,779 | — | · |
 | toyota | corona | 33,688,450 | — | · |
@@ -916,8 +925,6 @@
 | toyota | hilux_2011 | 86,646,832 | — | · |
 | toyota | hilux_2011_v2_ru_reocr | 2,058,684 | — | · |
 | toyota | ipsum | 3,535,187 | — | · |
-| toyota | land_cruiser_prado | 1,725,488 | — | · |
-| toyota | land_cruiser_prado_8f32a29a | 1,701,729 | — | · |
 | toyota | mark_2 | 79,131,208 | — | · |
 | toyota | mark_x | 3,848,278 | — | · |
 | toyota | misc_37edd5bb | 1,061,876 | — | · |
@@ -956,9 +963,7 @@
 | volkswagen | caravelle | 99,884,308 | — | · |
 | volkswagen | caravelle_2 | 19,727,732 | — | · |
 | volkswagen | golf3 | 113,957,237 | — | · |
-| volkswagen | golf_2 | 2,009,870 | — | · |
 | volkswagen | golf_6 | 70,397,270 | — | · |
-| volkswagen | golf_demo | 207,682 | — | · |
 | volkswagen | id4 | 483,991,300 | — | · |
 | volkswagen | id5 | 602,726,608 | — | · |
 | volkswagen | id6 | 262,945,656 | — | · |
@@ -969,10 +974,7 @@
 | volkswagen | multivan_t5 | 506,310,988 | — | · |
 | volkswagen | passat_2 | 19,024,620 | — | · |
 | volkswagen | passat_b6 | 421,112,961 | — | · |
-| volkswagen | polo_2 | 3,861,554 | — | · |
 | volkswagen | polo_2015_ru | 1,304,803 | — | · |
-| volkswagen | polo_sedan | 2,104,834 | — | · |
-| volkswagen | polo_v2_ru_reocr | 1,577,827 | — | · |
 | volkswagen | sharan | 150,088,323 | — | · |
 | volkswagen | sharan_2 | 30,601,779 | — | · |
 | volkswagen | tiguan_2 | 29,768,395 | — | · |
@@ -994,9 +996,7 @@
 | voyah | dreamer | 37,114,615 | — | · |
 | voyah | dreamer_2 | 4,728,255 | — | · |
 | voyah | ekgnqf_voyah_dream_s4_ekrannaa_versia_13 | 54,787 | — | · |
-| voyah | free_2 | 910,354 | — | · |
 | voyah | passion | 1,738,154 | — | · |
 | voyah | taishan | 33,027,923 | — | · |
-| zeekr | 009_user_manual_eng | 100,052 | — | · |
 | zeekr | 7x | 2,559,660 | — | · |
 | zeekr | 9x | 301,458,748 | — | · |

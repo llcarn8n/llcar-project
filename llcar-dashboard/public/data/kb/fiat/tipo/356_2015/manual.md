@@ -5739,8 +5739,6 @@ Fig. 8.6 Vacuum servo push rod adjustment (Sec 15}
 
 completion, bleed the complete brake hydraulic system as described in Section 3.
 
-# 13 Master cylinder – overhaul
-
 # 14Vacuum servo - description and testing
 
 1The vacuum servo is fitted between the brake pedal and the master cylinder and provides assistance to the driver when the pedal is depressed, reducing the effort required to operate the brakes. The unit is operated by vacum from the inlet manifold. With the brake pedal released, vacuum is channelled to both sides of the internal diaphragm, however when the pedal is depressed, one side of the diaphragm is opened to the atmosphere, resulting in assistance to the pedal effort. Should the vacuum servo develop a fault, the hydraulic system is not affected, though greater effort wili be required at the pedai.

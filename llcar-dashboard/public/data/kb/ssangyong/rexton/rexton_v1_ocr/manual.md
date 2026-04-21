@@ -6,6 +6,7 @@ source: kb
 ---
 
 
+
 ### Cleanness of DI Engine Fuel System and Service Procedures
 
 
@@ -1606,7 +1607,7 @@ Remove the two intake hoses from the turbo charger.
 
 3. Remove the #3 pipe of EGR valve from the exhaust manifold.
 
-The turbo charger is an air pump installd on the intake manifold. It enhances power and increases torque power of engine to increase the fuel consumption rate. The engine without turbo charger cannot get as much power output as it inducts air by the means of vacuum being generated from descending strokes of the piston. Therefore, by installing the turbo charger on the intake manifold, it supplies great amounts of air to the cylinder increasing the volume efficiency and, subsequently, enhances output power.
+The turbo charger is an air pump installd on the intake manifold. It enhances power and increases torque power of engine to increase the fuel consumption rate. The engine without turbo charger cannot get as much power output as it inducts air by the means of vacuum being generated from descending strokes of the piston. Therefore, by installing the turbo charger on the intake manifold, it supplies great amounts of air to the cylinder increasing the volume eficiency and, subsequently, enhances output power.
 
 Also, as the engine's power enhances, it increases the torque power and improves the fuel consumption rate. The regular turbo charger operates by utilizing the pressure from the exhaust gas and the other, caled Super Charger, operates by utilizing power from the engine. When the turbo charger is installed, weight of the engine increases by 10 to 15 % whereas the output power increases by 35 to 45 %.
 

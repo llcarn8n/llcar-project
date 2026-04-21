@@ -6,6 +6,7 @@ source: kb
 ---
 
 
+
 Honda
 Civic & del Sol
 1992 thru 1995 AII SOHC models
@@ -3555,6 +3556,7 @@ Heater and air conditioning control assembly   -removal  ···.· 14 and instal
 Oi  ·..   375380
 Thermostat 1 check and replacement.  ·.
 Water pump check   1
+Water pump replacement   ...·······.··········.······ 1
 
 ### General
 

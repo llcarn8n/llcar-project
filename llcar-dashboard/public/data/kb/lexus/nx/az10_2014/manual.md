@@ -77,34 +77,62 @@ Manual_USA_M78287_en
 8
 9
 4-1. Before driving
+Driving the vehicle........................150
+Cargo and luggage......................155
+Vehicle load limits.........................158
 Trailer towing (vehicles with towing
+package)........................................159
 Trailer towing (vehicles without
+towing package).........................167
+Dinghy towing ................................167
 4-2. Driving procedures
+Power (ignition) switch...............168
+EV drive mode ................................171
+Hybrid transmission.....................173
+Turn signal lever.............................176
+Parking brake.................................177
+Brake Hold.......................................179
 ASC (Active Sound Control)...181
 4-3. Operating the lights and wipers
+Headlight switch............................182
+Automatic High Beam................185
+Fog light switch ..............................188
 Windshield wipers and washer188
 Rear window wiper and washer
+............................................................193
 4-4. Refueling
 Opening the fuel tank cap.........195
 4-5. Using the driving support systems
+Lexus Safety System+................. 197
 PCS (Pre-Collision System)...202
 LDA (Lane Departure Alert with
+steering control)........................209
 Dynamic radar cruise control with
+full-speed range...........................217
 PKSA (Parking Support Alert)226
+Intuitive parking assist.................227
 Parking Support Brake function (for
+static objects)...............................232
 BSM (Blind Spot Monitor).........241
 Driving mode select switch .....248
+Driving assist systems ................ 249
 4-6. Driving tips
 Hybrid vehicle driving tips ....... 254
+Winter driving tips....................... 256
 Utility vehicle precautions........258
 5-1. Remote Touch
+Remote Touch................................262
 5-2. Using the air conditioning system
 and defogger
 Automatic air conditioning system
+.......................................................... 266
+Heated steering wheel/seat heaters/seat ventilators................... 273
 5-3. Using the interior lights
+Interior lights list ........................... 276
 5-4. Using the storage features
 List of storage features.............. 279
 Luggage compartment features
+.......................................................... 282
 4 Driving
 5 Interior features
 4
@@ -124,14 +152,20 @@ Manual_USA_M78287_en
 8
 9
 8-2. Customization
+Customizable features................421
 8-3. Initialization
+Items to initialize...........................430
 9-1. For owners
 Reporting safety defects for U.S.
+owners...........................................432
 Seat belt instructions for Canadian
+owners (in French)....................432
 SRS airbag instructions for Canadian owners (in French)..........434
 Headlight aim instructions for
 Canadian owners (in French)441
 What to do if... (Troubleshooting)
+...........................................................444
+Alphabetical Index.......................447
 9 For owners
 Index
 6
@@ -581,12 +615,20 @@ For safety and security
 For safety and security
 1-1.
 For safe use
+Before driving.................................24
+For safe driving.............................. 25
+Seat belts ......................................... 26
+SRS airbags .................................... 32
+Front passenger occupant classification system ................................41
 Safety information for children46
 Child restraint systems .............. 47
 Exhaust gas precautions...........60
 1-2. Hybrid system
+Hybrid system features............... 61
 Hybrid system precautions...... 64
 1-3. Theft deterrent system
+Immobilizer system ..................... 69
+Alarm...................................................71
 24
 1-1. For safe use
 
@@ -3034,8 +3076,11 @@ Vehicle status information
 and indicators
 2-1. Instrument cluster
 Warning lights and indicators. 74
+Gauges and meters .................... 79
 Multi-information display..........84
+Head-up display ...........................89
 Energy monitor/fuel consumption
+screen ............................................ 93
 74
 2-1. Instrument cluster
 
@@ -4283,16 +4328,26 @@ Manual_USA_M78287_en
 Before driving
 Before driving
 3-1. Key information
+Keys .................................................100
 3-2. Opening, closing and locking the
 doors
+Side doors.....................................104
+Back door......................................108
+Smart access system with pushbutton start.................................120
 3-3. Adjusting the seats
+Front seats.....................................126
+Rear seats......................................127
 Driving position memory........132
+Head restraints............................135
 3-4. Adjusting the steering wheel and
 mirrors
+Steering wheel.............................137
 Inside rear view mirror.............138
 Outside rear view mirrors......140
 3-5. Opening, closing the windows
 and moon roof
+Power windows...........................142
+Moon roof.....................................144
 100
 3-1. Key information
 
@@ -7266,29 +7321,49 @@ Manual_USA_M78287_en
 Driving
 Driving
 4-1. Before driving
+Driving the vehicle.....................150
+Cargo and luggage...................155
+Vehicle load limits......................158
+Trailer towing (vehicles with towing package)..............................159
 Trailer towing (vehicles without
+towing package)......................167
+Dinghy towing .............................167
 4-2. Driving procedures
 Power (ignition) switch............168
+EV drive mode .............................171
+Hybrid transmission..................173
+Turn signal lever..........................176
+Parking brake..............................177
+Brake Hold....................................179
 ASC (Active Sound Control) 181
 4-3. Operating the lights and wipers
+Headlight switch.........................182
 Automatic High Beam.............185
+Fog light switch ...........................188
 Windshield wipers and washer
+.........................................................188
 Rear window wiper and washer
+.........................................................193
 4-4. Refueling
 Opening the fuel tank cap......195
 4-5. Using the driving support systems
 Lexus Safety System+.............. 197
 PCS (Pre-Collision System) 202
 LDA (Lane Departure Alert with
+steering control).....................209
 Dynamic radar cruise control with
+full-speed range........................217
 PKSA (Parking Support Alert)
+....................................................... 226
 Intuitive parking assist..............227
 Parking Support Brake function
+(for static objects).................. 232
 BSM (Blind Spot Monitor)......241
 Driving mode select switch ..248
 Driving assist systems.............. 249
 4-6. Driving tips
 Hybrid vehicle driving tips .... 254
+Winter driving tips.................... 256
 Utility vehicle precautions.....258
 150
 4-1. Before driving
@@ -14189,18 +14264,27 @@ Manual_USA_M78287_en
 Interior features
 Interior features
 5-1. Remote Touch
+Remote Touch............................262
 5-2. Using the air conditioning system
 and defogger
 Automatic air conditioning system
+........................................................266
+Heated steering wheel/seat heaters/seat ventilators................273
 5-3. Using the interior lights
+Interior lights list.........................276
 5-4. Using the storage features
 List of storage features............279
 Luggage compartment features
+........................................................282
 5-5. Using the other interior features
 Other interior features ...........286
+Garage door opener...............296
+Compass........................................301
 Lexus Enform Safety Connect
+........................................................304
 Lexus Enform Remote............309
 Lexus Enform Service Connect
+.........................................................310
 262
 5-1. Remote Touch
 
@@ -16510,16 +16594,27 @@ Manual_USA_M78287_en
 Maintenance and care
 Maintenance and care
 6-1. Maintenance and care
+Cleaning and protecting the vehicle exterior.................................312
+Cleaning and protecting the vehicle interior..................................315
 6-2. Maintenance
 Maintenance requirements...319
 General maintenance.............320
 Emission inspection and maintenance (I/M) programs.........322
 6-3. Do-it-yourself maintenance
 Do-it-yourself service precautions
+........................................................324
+Hood...............................................326
 Positioning a floor jack............326
+Engine compartment...............328
+12-volt battery.............................334
+Tires ................................................337
 Tire inflation pressure..............345
+Wheels...........................................346
+Air conditioning filter...............348
 Electronic key battery.............349
 Checking and replacing fuses351
+Headlight aim..............................353
+Light bulbs....................................355
 312
 6-1. Maintenance and care
 
@@ -19027,17 +19122,28 @@ Manual_USA_M78287_en
 When trouble arises
 When trouble arises
 7-1. Essential information
+Emergency flashers..................360
 If your vehicle has to be stopped in
+an emergency..........................360
 7-2. Steps to take in an emergency
 If your vehicle needs to be towed
+........................................................362
 If you think something is wrong
+........................................................365
 If a warning light turns on or a
 warning buzzer sounds .......367
 If a warning message is displayed
+........................................................376
+If you have a flat tire..................379
 If the hybrid system will not start
+........................................................387
+If you lose your keys.................388
 If the fuel filler door cannot be
+opened........................................389
 If the electronic key does not
+operate properly....................389
 If the 12-volt battery is discharged
+........................................................392
 If your vehicle overheats........396
 If the vehicle becomes stuck 399
 360
@@ -21124,9 +21230,13 @@ Vehicle specifications
 Vehicle specifications
 8-1. Specifications
 Maintenance data (fuel, oil level,
+etc.) ..............................................402
+Fuel information..........................410
+Tire information...........................412
 8-2. Customization
 Customizable features.............421
 8-3. Initialization
+Items to initialize........................430
 402
 8-1. Specifications
 
@@ -23183,10 +23293,12 @@ For owners
 For owners
 9-1. For owners
 Reporting safety defects for U.S.
+owners........................................432
 Seat belt instructions for Canadian owners (in French).......432
 SRS airbag instructions for Canadian owners (in French).......434
 Headlight aim instructions for
 Canadian owners (in French)
+.........................................................441
 432
 9-1. For owners
 
@@ -23695,6 +23807,8 @@ Owners
 Manual_USA_M78287_en
 Index
 What to do if... (Troubleshooting)
+........................................................444
+Alphabetical Index....................447
 444
 What to do if... (Troubleshooting)
 
@@ -23853,9 +23967,13 @@ Alphabetical Index
 Alphabetical Index
 A
 
+### (ECB)............................................................249
+Emergency flashers....................................360
 450
 Alphabetical Index
 
+### SRS................................................................... 369
+Tire pressure................................................372
 459
 What to do if... (Troubleshooting)
 
@@ -23955,34 +24073,62 @@ Manual_USA_M78287_en
 8
 9
 4-1. Before driving
+Driving the vehicle........................150
+Cargo and luggage......................155
+Vehicle load limits.........................158
 Trailer towing (vehicles with towing
+package)........................................159
 Trailer towing (vehicles without
+towing package).........................167
+Dinghy towing ................................167
 4-2. Driving procedures
+Power (ignition) switch...............168
+EV drive mode ................................171
+Hybrid transmission.....................173
+Turn signal lever.............................176
+Parking brake.................................177
+Brake Hold.......................................179
 ASC (Active Sound Control)...181
 4-3. Operating the lights and wipers
+Headlight switch............................182
+Automatic High Beam................185
+Fog light switch ..............................188
 Windshield wipers and washer188
 Rear window wiper and washer
+............................................................193
 4-4. Refueling
 Opening the fuel tank cap.........195
 4-5. Using the driving support systems
+Lexus Safety System+................. 197
 PCS (Pre-Collision System)...202
 LDA (Lane Departure Alert with
+steering control)........................209
 Dynamic radar cruise control with
+full-speed range...........................217
 PKSA (Parking Support Alert)226
+Intuitive parking assist.................227
 Parking Support Brake function (for
+static objects)...............................232
 BSM (Blind Spot Monitor).........241
 Driving mode select switch .....248
+Driving assist systems ................ 249
 4-6. Driving tips
 Hybrid vehicle driving tips ....... 254
+Winter driving tips....................... 256
 Utility vehicle precautions........258
 5-1. Remote Touch
+Remote Touch................................262
 5-2. Using the air conditioning system
 and defogger
 Automatic air conditioning system
+.......................................................... 266
+Heated steering wheel/seat heaters/seat ventilators................... 273
 5-3. Using the interior lights
+Interior lights list ........................... 276
 5-4. Using the storage features
 List of storage features.............. 279
 Luggage compartment features
+.......................................................... 282
 4 Driving
 5 Interior features
 4
@@ -24002,14 +24148,20 @@ Manual_USA_M78287_en
 8
 9
 8-2. Customization
+Customizable features................421
 8-3. Initialization
+Items to initialize...........................430
 9-1. For owners
 Reporting safety defects for U.S.
+owners...........................................432
 Seat belt instructions for Canadian
+owners (in French)....................432
 SRS airbag instructions for Canadian owners (in French)..........434
 Headlight aim instructions for
 Canadian owners (in French)441
 What to do if... (Troubleshooting)
+...........................................................444
+Alphabetical Index.......................447
 9 For owners
 Index
 6
@@ -24459,12 +24611,20 @@ For safety and security
 For safety and security
 1-1.
 For safe use
+Before driving.................................24
+For safe driving.............................. 25
+Seat belts ......................................... 26
+SRS airbags .................................... 32
+Front passenger occupant classification system ................................41
 Safety information for children46
 Child restraint systems .............. 47
 Exhaust gas precautions...........60
 1-2. Hybrid system
+Hybrid system features............... 61
 Hybrid system precautions...... 64
 1-3. Theft deterrent system
+Immobilizer system ..................... 69
+Alarm...................................................71
 24
 1-1. For safe use
 
@@ -26912,8 +27072,11 @@ Vehicle status information
 and indicators
 2-1. Instrument cluster
 Warning lights and indicators. 74
+Gauges and meters .................... 79
 Multi-information display..........84
+Head-up display ...........................89
 Energy monitor/fuel consumption
+screen ............................................ 93
 74
 2-1. Instrument cluster
 
@@ -28161,16 +28324,26 @@ Manual_USA_M78287_en
 Before driving
 Before driving
 3-1. Key information
+Keys .................................................100
 3-2. Opening, closing and locking the
 doors
+Side doors.....................................104
+Back door......................................108
+Smart access system with pushbutton start.................................120
 3-3. Adjusting the seats
+Front seats.....................................126
+Rear seats......................................127
 Driving position memory........132
+Head restraints............................135
 3-4. Adjusting the steering wheel and
 mirrors
+Steering wheel.............................137
 Inside rear view mirror.............138
 Outside rear view mirrors......140
 3-5. Opening, closing the windows
 and moon roof
+Power windows...........................142
+Moon roof.....................................144
 100
 3-1. Key information
 
@@ -31144,29 +31317,49 @@ Manual_USA_M78287_en
 Driving
 Driving
 4-1. Before driving
+Driving the vehicle.....................150
+Cargo and luggage...................155
+Vehicle load limits......................158
+Trailer towing (vehicles with towing package)..............................159
 Trailer towing (vehicles without
+towing package)......................167
+Dinghy towing .............................167
 4-2. Driving procedures
 Power (ignition) switch............168
+EV drive mode .............................171
+Hybrid transmission..................173
+Turn signal lever..........................176
+Parking brake..............................177
+Brake Hold....................................179
 ASC (Active Sound Control) 181
 4-3. Operating the lights and wipers
+Headlight switch.........................182
 Automatic High Beam.............185
+Fog light switch ...........................188
 Windshield wipers and washer
+.........................................................188
 Rear window wiper and washer
+.........................................................193
 4-4. Refueling
 Opening the fuel tank cap......195
 4-5. Using the driving support systems
 Lexus Safety System+.............. 197
 PCS (Pre-Collision System) 202
 LDA (Lane Departure Alert with
+steering control).....................209
 Dynamic radar cruise control with
+full-speed range........................217
 PKSA (Parking Support Alert)
+....................................................... 226
 Intuitive parking assist..............227
 Parking Support Brake function
+(for static objects).................. 232
 BSM (Blind Spot Monitor)......241
 Driving mode select switch ..248
 Driving assist systems.............. 249
 4-6. Driving tips
 Hybrid vehicle driving tips .... 254
+Winter driving tips.................... 256
 Utility vehicle precautions.....258
 150
 4-1. Before driving
@@ -38067,18 +38260,27 @@ Manual_USA_M78287_en
 Interior features
 Interior features
 5-1. Remote Touch
+Remote Touch............................262
 5-2. Using the air conditioning system
 and defogger
 Automatic air conditioning system
+........................................................266
+Heated steering wheel/seat heaters/seat ventilators................273
 5-3. Using the interior lights
+Interior lights list.........................276
 5-4. Using the storage features
 List of storage features............279
 Luggage compartment features
+........................................................282
 5-5. Using the other interior features
 Other interior features ...........286
+Garage door opener...............296
+Compass........................................301
 Lexus Enform Safety Connect
+........................................................304
 Lexus Enform Remote............309
 Lexus Enform Service Connect
+.........................................................310
 262
 5-1. Remote Touch
 
@@ -40388,16 +40590,27 @@ Manual_USA_M78287_en
 Maintenance and care
 Maintenance and care
 6-1. Maintenance and care
+Cleaning and protecting the vehicle exterior.................................312
+Cleaning and protecting the vehicle interior..................................315
 6-2. Maintenance
 Maintenance requirements...319
 General maintenance.............320
 Emission inspection and maintenance (I/M) programs.........322
 6-3. Do-it-yourself maintenance
 Do-it-yourself service precautions
+........................................................324
+Hood...............................................326
 Positioning a floor jack............326
+Engine compartment...............328
+12-volt battery.............................334
+Tires ................................................337
 Tire inflation pressure..............345
+Wheels...........................................346
+Air conditioning filter...............348
 Electronic key battery.............349
 Checking and replacing fuses351
+Headlight aim..............................353
+Light bulbs....................................355
 312
 6-1. Maintenance and care
 
@@ -42905,17 +43118,28 @@ Manual_USA_M78287_en
 When trouble arises
 When trouble arises
 7-1. Essential information
+Emergency flashers..................360
 If your vehicle has to be stopped in
+an emergency..........................360
 7-2. Steps to take in an emergency
 If your vehicle needs to be towed
+........................................................362
 If you think something is wrong
+........................................................365
 If a warning light turns on or a
 warning buzzer sounds .......367
 If a warning message is displayed
+........................................................376
+If you have a flat tire..................379
 If the hybrid system will not start
+........................................................387
+If you lose your keys.................388
 If the fuel filler door cannot be
+opened........................................389
 If the electronic key does not
+operate properly....................389
 If the 12-volt battery is discharged
+........................................................392
 If your vehicle overheats........396
 If the vehicle becomes stuck 399
 360
@@ -45002,9 +45226,13 @@ Vehicle specifications
 Vehicle specifications
 8-1. Specifications
 Maintenance data (fuel, oil level,
+etc.) ..............................................402
+Fuel information..........................410
+Tire information...........................412
 8-2. Customization
 Customizable features.............421
 8-3. Initialization
+Items to initialize........................430
 402
 8-1. Specifications
 
@@ -47061,10 +47289,12 @@ For owners
 For owners
 9-1. For owners
 Reporting safety defects for U.S.
+owners........................................432
 Seat belt instructions for Canadian owners (in French).......432
 SRS airbag instructions for Canadian owners (in French).......434
 Headlight aim instructions for
 Canadian owners (in French)
+.........................................................441
 432
 9-1. For owners
 
@@ -47573,6 +47803,8 @@ Owners
 Manual_USA_M78287_en
 Index
 What to do if... (Troubleshooting)
+........................................................444
+Alphabetical Index....................447
 444
 What to do if... (Troubleshooting)
 
@@ -47731,9 +47963,13 @@ Alphabetical Index
 Alphabetical Index
 A
 
+### (ECB)............................................................249
+Emergency flashers....................................360
 450
 Alphabetical Index
 
+### SRS................................................................... 369
+Tire pressure................................................372
 459
 What to do if... (Troubleshooting)
 

@@ -58,7 +58,7 @@ Attention is particularly drawn to the following points concerning repairs and t
 Safety features embodied in the car miay be impaired if other than genuine parts are fitted.
 
 In certain territories, legislation prohibits the fitting of parts not to the vehicle manufacturer's specification. Torque wrench setting figures given in the Manual must be strictly adhered to.   
-Locking devices, where specife, must be fitted. If the efficiency of a locking device is impaired during removal it must be renewed. е Owners purchasing accessories while travelling abroad should ensure that the accessory and its fitted location on the car conform to mandatory requirements existing in their country of origin.   
+Locking devices, where specife, must be fitted. If the eficiency of a locking device is impaired during removal it must be renewed. е Owners purchasing accessories while travelling abroad should ensure that the accessory and its fitted location on the car conform to mandatory requirements existing in their country of origin.   
 The terms of the Owners Service Statement may be ivalidated by the fitting of other than genuine British Leyland parts and Uniparts.   
 All British Leyland parts and Unipart replacements have the full backing of the Owners Service Statement. British Leyland Distributors and Dealers are obliged to supply only genuine service parts.
 
@@ -8147,7 +8147,7 @@ The tie-rods must be exactly the same length.
 
 # MK. II MODELS
 
-The later steering-rack provides a smaller turning circle and it is vitally important that the wheel alignment is checked, and adjusted if necessary, following the correct procedure. Incorrect adjustment could result in excess articulation of the drive shaft constant velocity joints, and subsequent fouling of the suspension tie-rods by the road wheels when on full lock. Checking and adjustment must only be carried out when the vehicle is at 'kerbside' trim, i.e. fully equipped but without occupants or excess luggage.
+The later steering-rack provides a smaller turning circle and it is vitally important that the wheel alignment is checked, and adjusted if necessary, following the correct procedure. Incorrect adjustment could result in excess articulation of the drive shaft constant velocity joints, and subsequent fouling of thè suspension tie-rods by the road wheels when on full lock. Checking and adjustment must only be carried out when the vehicle is at 'kerbside' trim, i.e. fully equipped but without occupants or excess luggage.
 
 # Checking
 
@@ -12627,7 +12627,7 @@ Attention is particularly drawn to the following points concerning repairs and t
 Safety features embodied in the car miay be impaired if other than genuine parts are fitted.
 
 In certain territories, legislation prohibits the fitting of parts not to the vehicle manufacturer's specification. Torque wrench setting figures given in the Manual must be strictly adhered to.   
-Locking devices, where specife, must be fitted. If the efficiency of a locking device is impaired during removal it must be renewed. е Owners purchasing accessories while travelling abroad should ensure that the accessory and its fitted location on the car conform to mandatory requirements existing in their country of origin.   
+Locking devices, where specife, must be fitted. If the eficiency of a locking device is impaired during removal it must be renewed. е Owners purchasing accessories while travelling abroad should ensure that the accessory and its fitted location on the car conform to mandatory requirements existing in their country of origin.   
 The terms of the Owners Service Statement may be ivalidated by the fitting of other than genuine British Leyland parts and Uniparts.   
 All British Leyland parts and Unipart replacements have the full backing of the Owners Service Statement. British Leyland Distributors and Dealers are obliged to supply only genuine service parts.
 
@@ -21398,7 +21398,7 @@ The tie-rods must be exactly the same length.
 
 ### MK. II MODELS
 
-The later steering-rack provides a smaller turning circle and it is vitally important that the wheel alignment is checked, and adjusted if necessary, following the correct procedure. Incorrect adjustment could result in excess articulation of the drive shaft constant velocity joints, and subsequent fouling of the suspension tie-rods by the road wheels when on full lock. Checking and adjustment must only be carried out when the vehicle is at 'kerbside' trim, i.e. fully equipped but without occupants or excess luggage.
+The later steering-rack provides a smaller turning circle and it is vitally important that the wheel alignment is checked, and adjusted if necessary, following the correct procedure. Incorrect adjustment could result in excess articulation of the drive shaft constant velocity joints, and subsequent fouling of thè suspension tie-rods by the road wheels when on full lock. Checking and adjustment must only be carried out when the vehicle is at 'kerbside' trim, i.e. fully equipped but without occupants or excess luggage.
 
 
 ### Checking

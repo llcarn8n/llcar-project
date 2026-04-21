@@ -6,6 +6,7 @@ source: kb
 ---
 
 
+
 ### 1Based on DI Engine + A/T equipped vehicle specifications
 
 
@@ -1434,7 +1435,7 @@ FFH system consists of independent fuel lines and fuel pump, coolant circuit and
 
 The FFH system operates up to more 2 minutes to burn the residual fuel inside the system when stopping the engin luring its operation. Therefore, a certain period of FFH operation after stopping the engine is not a malfunction.
 
-The heater is connected to the coolant circuitin the coolant feed pipe from the vehicle engine to the heat exchanger.
+'he heater is connected to the coolant circuitin the coolant feed pipe from the vehicle engine to the heat exchanger.
 
 Heater operating conditions
 

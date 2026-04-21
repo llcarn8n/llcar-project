@@ -6,6 +6,7 @@ source: kb
 ---
 
 
+
 Thank you for choose BJ40.
 
 Before using this vehicle for the first time, please read this manual carefully. This manual is applicable to BJ2021, BJ2022 series light off-road vehicle and its derivative models. This manual is helpful for you get familiar with the structure, functions, usage and related regulations of the company. Any loss caused by failure to follow the instructions of this manual or modification without the approval of the company, the user will lose the right to claim, and any warranty claim will be denied by the authorized service provider of the company. The contents contained in the manual will help you master the correct methods of driving and maintenance of the vehicle, so that you can enjoy driving fully.
@@ -41,13 +42,16 @@ Seat Belt .  ·.. 10 Airbag system  21 Children safety    33 Safety label ...·.
 
 Start and driving . 135
 Drivetrian system 145
+Brake system   ························ 146
 Parking assistant system     160
+Driving skills..   .····.·············· 164
 
 ### 2. Operation of each component 40
 
 Driving cabin. ················ .41
 Start and stop ..···. .74
 A/C system  ···.. .098
+Headlight and view  .························ 108
 Seats and storage   ··.. 119
 Accessories and refitting .   132
 
@@ -79,6 +83,7 @@ Emergency to be towed · .241
 
 Safe Driving
 Seat Belt   10 Airbag system ...21 Vehicle safety for Children
+Safety Label \*\*..·············.  39
 
 ### General Instructions
 
@@ -4141,6 +4146,7 @@ Unsuitable snow chains will damage the tires, rims, suspension, brake, and body 
 Warning Triangles and Fire Extinguisher .· ····... .223
 Spare Tires and Tools .  224
 Replacement of fuse   · .232
+Replacement of bulb ...············.············  242
 Emergency start ···. ...242
 Emergency traction .244
 

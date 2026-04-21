@@ -2934,6 +2934,7 @@ Work Flow ...74
 
 ADDITIONAL SERVICE WHEN REPLACING AV CONTROL UNIT . 0  76 ADDITIONAL SERVICE WHEN REPLACING AV CONTROL UNIT Description  76 ADDITIONAL SERVICE WHEN REPLACING AV CONTROL UNIT Work Procedure ...76
 
+### CONFIGURATION (AV CONTROL UNIT) ................76
 
 CONFIGURATION (AV CONTROL UNIT) Description  77 CONFIGURATION (AV CONTROL UNIT) : Work Procedure  77 CONFIGURATION (AV CONTROL UNIT) : Configuration List ...78
 
@@ -3461,6 +3462,7 @@ ADJUSTMENT 1 483 PREDICTED COURSE LINE CENTER POSITION ADJUSTMENT Description   
 
 CALIBRATING CAMERA IMAGE (AROUND VIEW MONITOR)   .484 CALIBRATING CAMERA IMAGE (AROUND VIEW MONITOR) Description .484 CALIBRATING CAMERA IMAGE (AROUND VIEW MONITOR) Work Procedure 484
 
+### U1000 CAN COMM CIRCUIT ......................... 490
 
 AV CONTROL UNIT    490
 AV CONTROL UNIT DTC Logic    490
@@ -19189,6 +19191,7 @@ INFOID:0000000012850155
 
 PRECAUTION
 PRECAUTIONS 0   Precaution for Supplemental Restraint System (SRS) "AIR BAG" and "SEAT BELT PRE-TENSIONER" . .·.  3 Precaution for Procedure without Cowl Top Cove.r 3 Precaution for Brake System
+PREPARATION .·.········.······················ 5
 PREPARATION   5 Special Service Tool   Commercial Service Tool
 SYMPTOM DIAGNOSIS
 NOISE, VIBRATION AND HARSHNESS
@@ -19197,7 +19200,9 @@ BASIC INSPECTION □■□□■□□■■□□■·□□■□□■·□�
 BRAKE PEDAL  ···...···..···...··· ···..···...···.····· 7 Inspection .…...·..·  ··..·.·..··...
 BRAKE FLUID   8 Inspection   .8
 BRAKE MASTER CYLINDER   9 Inspection
+BRAKE BOOSTER  10 Inspection   ·.·.·········..··.···.····.····.··· 10
 FRONT DISC BRAKE  ·...···   11
+DISC ROTOR   11 DISC ROTOR Inspection ······················ 11
 REAR DISC BRAKE  12
 DISC ROTOR ·.   12 DISC ROTOR Inspection ….·..\*… 12
 
@@ -27566,6 +27571,7 @@ ADAS CONTROL UNIT DTC Logic 1 ： 96
 ADAS CONTROL UNIT Diagnosis Procedure   96
 ICC SENSOR 96
 ICC SENSOR DTC Logic 96
+ICC SENSOR Diagnosis Procedure .·.·.·.····.··· 97
 
 ### C1A36 ACCELERATOR PEDAL ACTUATOR
 
@@ -33224,6 +33230,7 @@ Precaution for Supplemental Restraint System (SRS) "AIR BAG" and "SEAT BELT PRE-
 ### COMPONENT PARTS 176
 
 Component Parts Location 176
+ICC Sensor .···.··.·.···..···.· 178
 ICC Steering Switch 178
 Brake Pedal Position Switch Stop Lamp Switch 178
 ICC Brake Hold Relay   179
@@ -43452,6 +43459,7 @@ PASSENGER SIDE Component Function Check 179 PASSENGER SIDE Diagnosis Procedure  
 
 REAR LH ！ 180
 REAR LH Component Function Check   180
+REAR LH Diagnosis Procedure ·..··················· 180
 REAR RH 181
 REAR RH : Component Function Check   181
 REAR RH : Diagnosis Procedure   181
@@ -52974,8 +52982,10 @@ On Board Diagnostic (OBD) System of Engine and CVT 568 General Precautions 568
 
 Infiniti Drive Mode Selector Component Parts Lo
 cation   ... 578
+Accelerator Pedal Position Sensor .·.···.·.····..··· 579
 Air Fuel Ratio (A/F) Sensor 1   580
 ASCD Steering Switch .······· 580
+Camshaft Position Sensor (PHASE) ...··.········· 581
 Cooling Fan Motor & Cooling Fan Control Module.. 581
 Crankshaft Position Sensor (POS)   581
 ECM ...· ·   582
@@ -52983,19 +52993,24 @@ Electric Throttle Control Actuator     582
 Electronic Controlled Engine Mount   583
 Engine Coolant Temperature Sensor ….… 583
 Engine Oil Pressure Sensor … ： 584
+Engine Oil Temperature Sensor ····················· 584
 EVAP Canister .············· 584
 EVAP Canister Purge Volume Control Solenoid
 Valve ： ·   584
+EVAP Canister Vent Control Valve ...········.···· 585
 EVAP Control System Pressure Sensor  · 585
 Fuel Injector .·.. .. .· 585
 Fuel Level Sensor Unit and Fuel Pump (With Fuel
+Tank Temperature Sensor) .····························· 585
 Heated Oxygen Sensor 2   586
 ICC Steering Switch   .··.   587
 Ignition Coil (With Power Transistor)   587
 Intake Valve Timing Control Solenoid Valve   587
+Knock Sensor   .························ 587
 Malfunction Indicator lamp (MIL) ..   587
 Mass Air Flow Sensor (With Intake Air Tempera
 ture Sensor) ： · 588
+Oil Pressure Warning Lamp .······························ 588
 Power Valve Actuator 1 and 2   588
 Refrigerant Pressure Sensor     589
 Stop Lamp Switch&Brake Pedal Position Switch . 589

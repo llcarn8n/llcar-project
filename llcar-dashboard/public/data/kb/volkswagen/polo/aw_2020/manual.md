@@ -3630,7 +3630,7 @@ b) Inspect therubbermountings for signs of damage or deterioration, and renewas 
 
 ### Petrol models
 
-a) DO NOT use leaded(UK 4-star) petrol ina car with acatalytic converterthe lead will coat the precious metals'reagents, reducing their converting efficiency,and will eventually destroy the converter. b) Always keep theignition and fuel systems
+a) DO NOT use leaded(UK 4-star) petrol ina car with acatalytic converterthe lead will coat the precious metals'reagents, reducing their converting eficiency,and will eventually destroy the converter. b) Always keep theignition and fuel systems
 
 well-maintained in accordance withthe manufacturer'sschedule.
 c) If the engine develops amisfire,do not drive the carat all(or at least as little as possible) until the fault is cured.
@@ -20571,7 +20571,7 @@ b) Inspect therubbermountings for signs of damage or deterioration, and renewas 
 
 ### Petrol models
 
-a) DO NOT use leaded(UK 4-star) petrol ina car with acatalytic converterthe lead will coat the precious metals'reagents, reducing their converting efficiency,and will eventually destroy the converter. b) Always keep theignition and fuel systems
+a) DO NOT use leaded(UK 4-star) petrol ina car with acatalytic converterthe lead will coat the precious metals'reagents, reducing their converting eficiency,and will eventually destroy the converter. b) Always keep theignition and fuel systems
 
 well-maintained in accordance withthe manufacturer'sschedule.
 c) If the engine develops amisfire,do not drive the carat all(or at least as little as possible) until the fault is cured.

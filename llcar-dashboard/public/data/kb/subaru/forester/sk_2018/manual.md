@@ -1450,11 +1450,13 @@ Schedule ..3
 12. Cooling System 14
 13. Engine Coolant 15
 14. Clutch System 16
+15. Transmission Gear Oil ...···················· 17
 16. CVTF 18
 17. Front & Rear Differential Gear Oil 19
 18. Brake Line · 0 20
 19. Brake Fluid ： 21
 20. Disc Brake Pad and Disc   22
+21. Parking Brake ···················· 23
 22. Suspension 24
 23. Wheel Bearing ··· 27
 24. Axle Boots & Joints 28
@@ -4366,6 +4368,7 @@ Front Catalytic Converter ·
 9. Fuel Sub Level Sensor 33
 10. Drain Filter ······· 34
 11. Leak Check Valve Assembly · 35
+12. PCV Hose ...··········.···..· 54
 13. PCV Valve 55
 
 ### 1. CANISTER, PURGE CONTROL SOLENOID VALVE, AND LEAK CHECK VALVE ASSEMBLY
@@ -11305,6 +11308,7 @@ Engine Oil .. 13
 Oil Pump ··· 18
 5. Oil Pan and Strainer 19
 6. Oil Pressure Switch 42
+7. Engine Oil Cooler ···················· 46
 8. Engine Oil Cooler Pipe 48
 9. Oil Catch Tank 53
 10. Scavenge Pump 54
@@ -13834,6 +13838,7 @@ Check List for Interview 4
 8. General Scan Tool    31
 9. Subaru Select Monitor 36
 10. Read Diagnostic Trouble Code (DTC) ················ ···· 43
+11. Inspection Mode ..··················· 44
 12. Drive Cycle   ·········· 47
 13. Clear Memory Mode 58
 14. System Operation Check Mode   59
@@ -24397,6 +24402,7 @@ Front Catalytic Converter
 10. Fuel Sub Level Sensor 44
 11. Drain Filter 45
 12. Leak Check Valve Assembly 46
+13. PCV Pipe ························ 66
 14. PCV Connector   68
 15. PCV Hose 70
 16. PCV Hose Assembly 72
@@ -31607,6 +31613,7 @@ Radiator Fan System
 3. Engine Coolant 13
 4. Water Pump ···· 16
 5. Water Pipe Assembly 19
+6. Thermostat ··············· 35
 7. Radiator 39
 8. Radiator Cap · 51
 9. Radiator Main Fan and Fan Motor 52
@@ -32605,6 +32612,7 @@ SC(H4DOTC)-2
 #
 
 Page
+12. Basic Diagnostic Procedure ················ ·················· 2
 Check List for Interview 0 ..4
 3. General Description 6
 4. Electrical Component Location ...·. 9
@@ -32613,6 +32621,7 @@ Check List for Interview 0 ..4
 8. General Scan Tool 32
 9. Subaru Select Monitor 37
 10. Read Diagnostic Trouble Code (DTC) 44
+11. Inspection Mode ············································ 45
 12. Drive Cycle  ··· 48
 13. Clear Memory Mode   ········ 60
 14. System Operation Check Mode 61
@@ -52843,6 +52852,7 @@ When replacing the converter case cover, select the following shims.
 General Description 5
 4. Electrical Component Location
 5. Transmission Control Module (TCM) I/O Signal 12
+6. Subaru Select Monitor  ···.··..··.·.·..· 19
 7. Read Diagnostic Trouble Code (DTC) ： 23
 8. Clear Memory Mode   24
 9. Inspection Mode 25
@@ -53714,6 +53724,7 @@ Transmission Mounting System 33
 7. Switches and Harness 40
 8. Air Breather Hose 42
 9. Preparation for Overhaul 0 ■ 43
+10. Transfer Case and Extension Case Assembly ..································ 44
 11. Transfer Drive Gear · 50
 12. Transfer Driven Gear · 52
 13. Center Differential 54
@@ -57765,6 +57776,7 @@ All information, illustration and specifications contained in this manual are ba
 2. Wheel Alignment 7
 3. Front Crossmember 18
 4. Front Crossmember Support Plate 27
+5. Front Stabilizer .··············.··  29
 6. Front Ball Joint ...31
 7. Front Arm  34
 8. Front Strut ..41
@@ -59433,6 +59445,7 @@ Electrical Component Location   6
 5. Subaru Select Monitor     9
 6. Read Diagnostic Trouble Code (DTC) 12
 7. Clear Memory Mode ······································ ·· 13
+8. Read Current Data ···.·.··.········.·· 14
 9. Register Transmitter (ID) ..·...· · 15
 10. Display Transmitter (ID)   16
 11. Inspection Mode   17
@@ -63136,6 +63149,7 @@ Vehicle Dynamics Control System .
 10. Front ABS Wheel Speed Sensor ...··..·..· 37
 11. Rear ABS Wheel Speed Sensor 40
 12. Front Magnetic Encoder   .·..· 44
+13. Rear Magnetic Encoder ..···········..·· 45
 14. VDC OFF Switch .···.····...···.···· ·..·· 46
 
 ### 1. ABS WHEEL SPEED SENSOR
@@ -68036,6 +68050,7 @@ Page
 22. Ambient Sensor 72
 23. Sunload Sensor (Auto A/C Model)  ··.··.··..·· 74
 24. In-Vehicle Sensor (Auto A/C Model) # 76
+25. Evaporator Sensor ················ 80
 26. FRESH/RECIRC Door Actuator 83
 27. Mode Door Actuator   88
 28. Air Mix Door Actuator · ■ · · 90
@@ -75904,6 +75919,7 @@ Check List for Interview ..3
 6. Subaru Select Monitor  ·········
 7. Read Diagnostic Trouble Code (DTC) · 10
 8. Clear Memory Mode 11
+9. Read Current Data ······················· 12
 10. List of Diagnostic Trouble Code (DTC) 中 13
 11. Diagnostic Procedure with Diagnostic Trouble Code (DTC) · 14
 12. Diagnostics with Phenomenon .\*\*\*·\*\*·\*\*\*··\*\*\*\*\*··\*\*·\*\*\*\*\*\*\*\*\*·\*······ 18
@@ -77754,6 +77770,7 @@ Relay and Fuse
 8. Outer Mirror Assembly   23
 9. Remote Control Mirror Switch = 28
 10. Rearview Mirror 30
+11. Rear Door Glass ..·.··.·····.·.· 31
 12. Rear Regulator and Motor Assembly 33
 13. Windshield Glass 35
 14. Rear Gate Glass 43
@@ -82578,6 +82595,7 @@ Page
 7. Front Hood Duct 30
 8. Front Bumper 31
 9. Rear Bumper 42
+10. Cowl Panel ··············· 46
 11. Side Garnish 49
 12. Roof Spoiler ··········· 50
 13. Roof Molding # 52
@@ -86055,7 +86073,9 @@ General Description ..4
 7. Read Diagnostic Trouble Code (DTC) 11
 8. Clear Memory Mode   12
 9. Read Current Data .····· 13
+10. List of Diagnostic Trouble Code (DTC) ..· · ..·..········.·······.· 15
 11. Diagnostic Procedure with Diagnostic Trouble Code (DTC)  ······.··.·· 17
+12. General Diagnostic Table .·.. ··············· 54
 13. Diagnostics with Phenomenon 55
 
 ### A: CHECK
@@ -87164,6 +87184,7 @@ General Description .4
 3. Electrical Component Location ...6
 4. Immobilizer Control Module I/O Signal .7
 5. Subaru Select Monitor  8
+6. Read Diagnostic Trouble Code (DTC) ··············································· 9
 7. Clear Memory Mode 10
 8. Diagnostics Chart for Security Indicator Light 11
 9. List of Diagnostic Trouble Code (DTC)   14
@@ -91345,6 +91366,7 @@ Page
 8. Read Current Data ·· ·  11
 9. User Customizing 15
 10. Registration Body Integrated Unit 17
+11. Function Check ..·························..· 21
 12. List of Diagnostic Trouble Code (DTC) . 22
 13. Diagnostic Procedure with Diagnostic Trouble Code (DTC)  23
 14. General Diagnostic Table ····· 39
@@ -91786,6 +91808,7 @@ Page
 63. Front Wiring Harness ·· ···· 433
 64. Bulkhead Wiring Harness (In Engine Compartment) RH ·· . 435
 65. Bulkhead Wiring Harness (In Engine Compartment) LH  437
+66. Bulkhead Wiring Harness (In Compartment) RH ······························ 439
 67. Bulkhead Wiring Harness (In Compartment) LH ································· .443
 68. Engine Wiring Harness and Transmission Cord ······························ .449
 69. Instrument Panel Wiring Harness RH . 455

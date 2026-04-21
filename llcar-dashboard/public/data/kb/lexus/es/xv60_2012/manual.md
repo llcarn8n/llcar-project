@@ -69,7 +69,11 @@ Search alphabetically
 8
 9
 Automatic transmission..............149
+Turn signal lever.............................153
+Parking brake.................................154
+Brake Hold.......................................156
 4-3. Operating the lights and wipers
+Headlight switch............................158
 AHB (Automatic High Beam)..161
 Windshield wipers and washer164
 4-4. Refueling
@@ -80,30 +84,50 @@ PCS (Pre-Collision System).....176
 LTA (Lane Tracing Assist).........186
 RSA (Road Sign Assist)..............195
 Dynamic radar cruise control with
+full-speed range..........................198
 BSM (Blind Spot Monitor).......208
 Driving Mode Select switch .....213
 PKSA (Parking Support Alert) 215
+Intuitive parking assist.................216
 RCTA (Rear cross traffic alert)
+function..........................................223
 RCD (Rear Camera Detection)
+function..........................................229
 PKSB (Parking Support Brake)
+...........................................................232
 Parking Support Brake function
+(static objects)............................239
 Parking Support Brake function
 (rear-crossing vehicles)..........242
 Parking Support Brake function
+(rear pedestrians) .....................244
+Driving assist systems.................246
 4-6. Driving tips
+Winter driving tips........................251
 5-1. Remote Touch/Display
+Remote Touch............................... 256
+Center Display..............................258
 5-2. Lexus Climate Concierge
 Lexus Climate Concierge........260
 5-3. Using the air conditioning system
 Automatic air conditioning system
+...........................................................262
+Heated steering wheel/seat heaters/seat ventilators................... 269
 5-4. Using the interior lights
+Interior lights list ........................... 273
 5-5. Using the storage features
 List of storage features.............. 276
+Trunk features............................... 279
 5-6. Using the other interior features
 Other interior features..............280
+Garage door opener .................289
+Compass......................................... 294
 6-1. Maintenance and care
+Cleaning and protecting the vehicle exterior...................................298
+Cleaning and protecting the vehicle interior.....................................301
 6-2. Maintenance
 Maintenance requirements.....303
+General maintenance................304
 Emission inspection and maintenance (I/M) programs............307
 5 Interior features
 6 Maintenance and care
@@ -120,6 +144,8 @@ Emission inspection and maintenance (I/M) programs............307
 8
 9
 What to do if... (Troubleshooting)
+...........................................................434
+Alphabetical index ......................437
 Index
 6
 Please note that this manual applies to
@@ -528,14 +554,21 @@ For safety and security
 For safety and security
 1-1.
 For safe use
+Before driving.................................22
+For safe driving.............................. 23
+Seat belts ..........................................24
+SRS airbags ....................................28
 Front passenger occupant
+classification system................. 37
 Exhaust gas precautions............42
 1-2. Child safety
+Riding with children..................... 43
 Child restraint systems .............. 43
 1-3. Lexus Enform
 Lexus Enform Safety Connect55
 1-4. Theft deterrent system
 Engine immobilizer system...... 59
+Alarm.................................................60
 22
 1-1. For safe use
 1-1.For safe use
@@ -2451,8 +2484,11 @@ and indicators
 2-1. Instrument cluster
 Warning lights and indicators. 64
 Gauges and meters (except F
+SPORT models) ........................68
 Gauges and meters (F SPORT
+models)............................................71
 Multi-information display.......... 76
+Head-up display ...........................83
 Fuel consumption screen..........87
 64
 2-1. Instrument cluster
@@ -3761,15 +3797,24 @@ Use the displayed average fuel consumption as a reference.
 Before driving
 Before driving
 3-1. Key information
+Keys ................................................... 92
 3-2. Opening, closing and locking the
 doors and trunk
+Doors................................................. 96
+Trunk................................................100
+Smart access system with pushbutton start.................................107
 3-3. Adjusting the seats
+Front seats......................................112
 Driving position memory.........113
+Head restraints.............................116
 3-4. Adjusting the steering wheel and
 mirrors
+Steering wheel..............................118
 Inside rear view mirror..............119
 Outside rear view mirrors......120
 3-5. Opening and closing the windows and moon roof
+Power windows...........................123
+Moon roof.....................................125
 Panoramic moon roof..............128
 92
 3-1. Key information
@@ -6178,12 +6223,22 @@ roof is opened.
 Driving
 Driving
 4-1. Before driving
+Driving the vehicle.....................134
+Cargo and luggage...................140
+Vehicle load limits......................142
+Trailer towing...............................142
+Dinghy towing .............................143
 4-2. Driving procedures
 Engine (ignition) switch...........144
 Automatic transmission...........149
+Turn signal lever..........................153
+Parking brake..............................154
+Brake Hold....................................156
 4-3. Operating the lights and wipers
+Headlight switch.........................158
 AHB (Automatic High Beam)161
 Windshield wipers and washer
+.........................................................164
 4-4. Refueling
 Opening the fuel tank cap......169
 4-5. Using the driving support systems
@@ -6192,19 +6247,27 @@ PCS (Pre-Collision System)..176
 LTA (Lane Tracing Assist)......186
 RSA (Road Sign Assist)...........195
 Dynamic radar cruise control with
+full-speed range.......................198
 BSM (Blind Spot Monitor)....208
 Driving Mode Select switch ..213
 PKSA (Parking Support Alert)
+........................................................ 215
 Intuitive parking assist.............. 216
 RCTA (Rear cross traffic alert)
+function....................................... 223
 RCD (Rear Camera Detection)
+function....................................... 229
 PKSB (Parking Support Brake)
+....................................................... 232
 Parking Support Brake function
+(static objects)......................... 239
 Parking Support Brake function
 (rear-crossing vehicles).......242
 Parking Support Brake function
+(rear pedestrians).................. 244
 Driving assist systems.............. 246
 4-6. Driving tips
+Winter driving tips..................... 251
 134
 4-1. Before driving
 4-1.Before driving
@@ -12899,15 +12962,23 @@ Windshield wipers
 Interior features
 Interior features
 5-1. Remote Touch/Display
+Remote Touch............................256
+Center Display...........................258
 5-2. Lexus Climate Concierge
 Lexus Climate Concierge.....260
 5-3. Using the air conditioning system
 Automatic air conditioning
+system.........................................262
+Heated steering wheel/seat heaters/seat ventilators................269
 5-4. Using the interior lights
+Interior lights list.........................273
 5-5. Using the storage features
 List of storage features............276
+Trunk features.............................279
 5-6. Using the other interior features
 Other interior features ...........280
+Garage door opener...............289
+Compass.......................................294
 256
 5-1. Remote Touch/Display
 5-1.Remote Touch/Display
@@ -14892,16 +14963,27 @@ violate any local traffic rules while performing circling calibration.
 Maintenance and care
 Maintenance and care
 6-1. Maintenance and care
+Cleaning and protecting the vehicle exterior................................298
+Cleaning and protecting the vehicle interior..................................301
 6-2. Maintenance
 Maintenance requirements..303
 General maintenance.............304
 Emission inspection and maintenance (I/M) programs.........307
 6-3. Do-it-yourself maintenance
 Do-it-yourself service
+precautions...............................308
+Hood................................................310
 Positioning a floor jack.............310
+Engine compartment................312
+Tires ................................................320
 Tire inflation pressure..............328
+Wheels...........................................330
+Air conditioning filter................331
 Electronic key battery.............333
 Checking and replacing fuses
+........................................................335
+Headlight aim..............................337
+Light bulbs....................................338
 298
 6-1. Maintenance and care
 6-1.Maintenance and care
@@ -17332,19 +17414,28 @@ installing to prevent heat damage.
 When trouble arises
 When trouble arises
 7-1. Essential information
+Emergency flashers..................344
 If your vehicle has to be stopped
+in an emergency.....................344
 If the vehicle is submerged or
 water on the road is rising ..345
 7-2. Steps to take in an emergency
 If your vehicle needs to be towed
+........................................................347
 If you think something is wrong
+........................................................349
 Fuel pump shut off system.....350
 If a warning light turns on or a
 warning buzzer sounds ........351
 If a warning message is displayed
+.........................................................361
+If you have a flat tire..................365
 If the engine will not start .......374
+If you lose your keys.................375
 If the fuel filler door cannot be
+opened........................................376
 If the electronic key does not
+operate properly....................376
 If the battery is discharged....379
 If your vehicle overheats........382
 If the vehicle becomes stuck 385
@@ -19307,9 +19398,13 @@ Vehicle specifications
 Vehicle specifications
 8-1. Specifications
 Maintenance data (fuel, oil level,
+etc.) ..............................................388
+Fuel information.........................397
+Tire information..........................399
 8-2. Customization
 Customizable features............408
 8-3. Items to initialize
+Items to initialize.........................419
 388
 8-1. Specifications
 8-1.Specifications
@@ -21281,11 +21376,14 @@ For owners
 For owners
 9-1. For owners
 Reporting safety defects for U.S.
+owners........................................422
 Reporting safety defects for
+Canadian owners...................422
 Seat belt instructions for Canadian owners (in French).......423
 SRS airbag instructions for Canadian owners (in French).......424
 Headlight aim instructions for
 Canadian owners (in French)
+........................................................430
 422
 9-1. For owners
 9-1.For owners
@@ -21748,6 +21846,8 @@ afin qu’il règle la portée des phares.
 433
 Index
 What to do if... (Troubleshooting)
+........................................................434
+Alphabetical index ...................437
 434
 What to do if... (Troubleshooting)
 1-1.What to do if... (Troubleshooting)
@@ -22017,7 +22117,11 @@ Search alphabetically
 8
 9
 Automatic transmission..............149
+Turn signal lever.............................153
+Parking brake.................................154
+Brake Hold.......................................156
 4-3. Operating the lights and wipers
+Headlight switch............................158
 AHB (Automatic High Beam)..161
 Windshield wipers and washer164
 4-4. Refueling
@@ -22028,30 +22132,50 @@ PCS (Pre-Collision System).....176
 LTA (Lane Tracing Assist).........186
 RSA (Road Sign Assist)..............195
 Dynamic radar cruise control with
+full-speed range..........................198
 BSM (Blind Spot Monitor).......208
 Driving Mode Select switch .....213
 PKSA (Parking Support Alert) 215
+Intuitive parking assist.................216
 RCTA (Rear cross traffic alert)
+function..........................................223
 RCD (Rear Camera Detection)
+function..........................................229
 PKSB (Parking Support Brake)
+...........................................................232
 Parking Support Brake function
+(static objects)............................239
 Parking Support Brake function
 (rear-crossing vehicles)..........242
 Parking Support Brake function
+(rear pedestrians) .....................244
+Driving assist systems.................246
 4-6. Driving tips
+Winter driving tips........................251
 5-1. Remote Touch/Display
+Remote Touch............................... 256
+Center Display..............................258
 5-2. Lexus Climate Concierge
 Lexus Climate Concierge........260
 5-3. Using the air conditioning system
 Automatic air conditioning system
+...........................................................262
+Heated steering wheel/seat heaters/seat ventilators................... 269
 5-4. Using the interior lights
+Interior lights list ........................... 273
 5-5. Using the storage features
 List of storage features.............. 276
+Trunk features............................... 279
 5-6. Using the other interior features
 Other interior features..............280
+Garage door opener .................289
+Compass......................................... 294
 6-1. Maintenance and care
+Cleaning and protecting the vehicle exterior...................................298
+Cleaning and protecting the vehicle interior.....................................301
 6-2. Maintenance
 Maintenance requirements.....303
+General maintenance................304
 Emission inspection and maintenance (I/M) programs............307
 5 Interior features
 6 Maintenance and care
@@ -22068,6 +22192,8 @@ Emission inspection and maintenance (I/M) programs............307
 8
 9
 What to do if... (Troubleshooting)
+...........................................................434
+Alphabetical index ......................437
 Index
 6
 Please note that this manual applies to
@@ -22476,14 +22602,21 @@ For safety and security
 For safety and security
 1-1.
 For safe use
+Before driving.................................22
+For safe driving.............................. 23
+Seat belts ..........................................24
+SRS airbags ....................................28
 Front passenger occupant
+classification system................. 37
 Exhaust gas precautions............42
 1-2. Child safety
+Riding with children..................... 43
 Child restraint systems .............. 43
 1-3. Lexus Enform
 Lexus Enform Safety Connect55
 1-4. Theft deterrent system
 Engine immobilizer system...... 59
+Alarm.................................................60
 22
 1-1. For safe use
 1-1.For safe use
@@ -24399,8 +24532,11 @@ and indicators
 2-1. Instrument cluster
 Warning lights and indicators. 64
 Gauges and meters (except F
+SPORT models) ........................68
 Gauges and meters (F SPORT
+models)............................................71
 Multi-information display.......... 76
+Head-up display ...........................83
 Fuel consumption screen..........87
 64
 2-1. Instrument cluster
@@ -25709,15 +25845,24 @@ Use the displayed average fuel consumption as a reference.
 Before driving
 Before driving
 3-1. Key information
+Keys ................................................... 92
 3-2. Opening, closing and locking the
 doors and trunk
+Doors................................................. 96
+Trunk................................................100
+Smart access system with pushbutton start.................................107
 3-3. Adjusting the seats
+Front seats......................................112
 Driving position memory.........113
+Head restraints.............................116
 3-4. Adjusting the steering wheel and
 mirrors
+Steering wheel..............................118
 Inside rear view mirror..............119
 Outside rear view mirrors......120
 3-5. Opening and closing the windows and moon roof
+Power windows...........................123
+Moon roof.....................................125
 Panoramic moon roof..............128
 92
 3-1. Key information
@@ -28126,12 +28271,22 @@ roof is opened.
 Driving
 Driving
 4-1. Before driving
+Driving the vehicle.....................134
+Cargo and luggage...................140
+Vehicle load limits......................142
+Trailer towing...............................142
+Dinghy towing .............................143
 4-2. Driving procedures
 Engine (ignition) switch...........144
 Automatic transmission...........149
+Turn signal lever..........................153
+Parking brake..............................154
+Brake Hold....................................156
 4-3. Operating the lights and wipers
+Headlight switch.........................158
 AHB (Automatic High Beam)161
 Windshield wipers and washer
+.........................................................164
 4-4. Refueling
 Opening the fuel tank cap......169
 4-5. Using the driving support systems
@@ -28140,19 +28295,27 @@ PCS (Pre-Collision System)..176
 LTA (Lane Tracing Assist)......186
 RSA (Road Sign Assist)...........195
 Dynamic radar cruise control with
+full-speed range.......................198
 BSM (Blind Spot Monitor)....208
 Driving Mode Select switch ..213
 PKSA (Parking Support Alert)
+........................................................ 215
 Intuitive parking assist.............. 216
 RCTA (Rear cross traffic alert)
+function....................................... 223
 RCD (Rear Camera Detection)
+function....................................... 229
 PKSB (Parking Support Brake)
+....................................................... 232
 Parking Support Brake function
+(static objects)......................... 239
 Parking Support Brake function
 (rear-crossing vehicles).......242
 Parking Support Brake function
+(rear pedestrians).................. 244
 Driving assist systems.............. 246
 4-6. Driving tips
+Winter driving tips..................... 251
 134
 4-1. Before driving
 4-1.Before driving
@@ -34847,15 +35010,23 @@ Windshield wipers
 Interior features
 Interior features
 5-1. Remote Touch/Display
+Remote Touch............................256
+Center Display...........................258
 5-2. Lexus Climate Concierge
 Lexus Climate Concierge.....260
 5-3. Using the air conditioning system
 Automatic air conditioning
+system.........................................262
+Heated steering wheel/seat heaters/seat ventilators................269
 5-4. Using the interior lights
+Interior lights list.........................273
 5-5. Using the storage features
 List of storage features............276
+Trunk features.............................279
 5-6. Using the other interior features
 Other interior features ...........280
+Garage door opener...............289
+Compass.......................................294
 256
 5-1. Remote Touch/Display
 5-1.Remote Touch/Display
@@ -36840,16 +37011,27 @@ violate any local traffic rules while performing circling calibration.
 Maintenance and care
 Maintenance and care
 6-1. Maintenance and care
+Cleaning and protecting the vehicle exterior................................298
+Cleaning and protecting the vehicle interior..................................301
 6-2. Maintenance
 Maintenance requirements..303
 General maintenance.............304
 Emission inspection and maintenance (I/M) programs.........307
 6-3. Do-it-yourself maintenance
 Do-it-yourself service
+precautions...............................308
+Hood................................................310
 Positioning a floor jack.............310
+Engine compartment................312
+Tires ................................................320
 Tire inflation pressure..............328
+Wheels...........................................330
+Air conditioning filter................331
 Electronic key battery.............333
 Checking and replacing fuses
+........................................................335
+Headlight aim..............................337
+Light bulbs....................................338
 298
 6-1. Maintenance and care
 6-1.Maintenance and care
@@ -39280,19 +39462,28 @@ installing to prevent heat damage.
 When trouble arises
 When trouble arises
 7-1. Essential information
+Emergency flashers..................344
 If your vehicle has to be stopped
+in an emergency.....................344
 If the vehicle is submerged or
 water on the road is rising ..345
 7-2. Steps to take in an emergency
 If your vehicle needs to be towed
+........................................................347
 If you think something is wrong
+........................................................349
 Fuel pump shut off system.....350
 If a warning light turns on or a
 warning buzzer sounds ........351
 If a warning message is displayed
+.........................................................361
+If you have a flat tire..................365
 If the engine will not start .......374
+If you lose your keys.................375
 If the fuel filler door cannot be
+opened........................................376
 If the electronic key does not
+operate properly....................376
 If the battery is discharged....379
 If your vehicle overheats........382
 If the vehicle becomes stuck 385
@@ -41255,9 +41446,13 @@ Vehicle specifications
 Vehicle specifications
 8-1. Specifications
 Maintenance data (fuel, oil level,
+etc.) ..............................................388
+Fuel information.........................397
+Tire information..........................399
 8-2. Customization
 Customizable features............408
 8-3. Items to initialize
+Items to initialize.........................419
 388
 8-1. Specifications
 8-1.Specifications
@@ -43229,11 +43424,14 @@ For owners
 For owners
 9-1. For owners
 Reporting safety defects for U.S.
+owners........................................422
 Reporting safety defects for
+Canadian owners...................422
 Seat belt instructions for Canadian owners (in French).......423
 SRS airbag instructions for Canadian owners (in French).......424
 Headlight aim instructions for
 Canadian owners (in French)
+........................................................430
 422
 9-1. For owners
 9-1.For owners
@@ -43696,6 +43894,8 @@ afin qu’il règle la portée des phares.
 433
 Index
 What to do if... (Troubleshooting)
+........................................................434
+Alphabetical index ...................437
 434
 What to do if... (Troubleshooting)
 1-1.What to do if... (Troubleshooting)

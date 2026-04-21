@@ -3091,7 +3091,6 @@ Use unleaded premium gasoline for maximum vehicle performance.
 > • U.S. government regulations require ethanol dispensing pumps to be identified by a small, square,
 > orange and black label with the common abbreviation or the appropriate percentage for that region.
 
-### FOR MEXICO
 
 ### Revision: 2013 November
 
@@ -5460,7 +5459,6 @@ tail lamps, turn signal lamps, and other lamps are all operating properly and in
 securely. Also check the aim of the headlamps.
 —
 
-### Tires
 
 ### WT-71
 
@@ -5990,7 +5988,6 @@ NOTE:
 20,000 miles (32,000 km) or 24 months.
 • (3) Refer to “Tire rotation” under the “GENERAL MAINTENANCE” heading earlier in this section.
 
-### MAINTENANCE UNDER SEVERE DRIVING CONDITIONS
 
 ### Brake lines & cables
 
@@ -8072,7 +8069,6 @@ Blow air into the back side of radiator core vertically downward.
 5.
 Blow air again into all the radiator core surfaces once per minute until no water sprays out.
 
-### FUEL LINES
 
 ### AIR CLEANER FILTER
 
@@ -8119,7 +8115,6 @@ A
 Note the following item, and install in the reverse order of removal.
 • Install the air cleaner filter by aligning the seal with the notch of air cleaner case.
 
-### AIR CLEANER FILTER : Inspection (Viscous Paper Type)
 
 ### MA-12, "FOR MEXICO : Periodic Maintenance" (FOR MEXICO).
 
@@ -9452,7 +9447,6 @@ the lower end of windshield with urethane, etc to prevent damage to
 windshield.
 Precaution for Supplemental Restraint System (SRS) "AIR BAG" and "SEAT BELT
 
-### PRE-TENSIONER"
 
 ### Precautions For Engine Service
 
@@ -10619,7 +10613,6 @@ Remove engine undercover with power tool.
 3.
 Remove radiator cooling fan assembly. Refer to CO-20, "Exploded View".
 
-### JPBIA1060ZZ
 
 ### Indicator
 
@@ -10704,7 +10697,6 @@ Note the following, and install in the reverse order of removal.
 Inspection (Viscous Paper Type)
 INFOID:0000000010246609
 
-### INSPECTION AFTER REMOVAL
 
 ### MA-12, "FOR MEXICO : Periodic Maintenance" (FOR MEXICO).
 
@@ -14484,7 +14476,6 @@ Separate the engine from the transmission assembly. Refer to TM-226, "VQ37VHR (A
 View".
 10. Remove the front final drive assembly from oil pan (upper). Refer to DLN-131, "VQ37VHR : Exploded
 
-### View".
 
 ### View".
 
@@ -17333,7 +17324,6 @@ CYLINDER HEAD
 EM-129
 < UNIT DISASSEMBLY AND ASSEMBLY >
 
-### [VQ37VHR]
 
 ### 2014 Q70
 
@@ -19019,7 +19009,6 @@ K
 : Identification code
 : Engine front
 
-### JPBIA0268ZZ
 
 ### JPBIA0269ZZ
 
@@ -20255,7 +20244,6 @@ the lower end of windshield with urethane, etc to prevent damage to
 windshield.
 Precaution for Supplemental Restraint System (SRS) "AIR BAG" and "SEAT BELT
 
-### PRE-TENSIONER"
 
 ### Precaution for Handling High-pressure Fuel System
 
@@ -20351,7 +20339,6 @@ remove old liquid gasket sealing.
 > 3.
 > Attach liquid gasket tube to the tube presser (commercial service tool).
 
-### Use Genuine RTV Silicone Sealant or an equivalent.
 
 ### Check to read the text of this manual.
 
@@ -21083,9 +21070,6 @@ Check specified noise source.
 If necessary, repair or replace these parts.
 A: Closely related
 
-### B: Related
-
-### When
 
 ### EM-262
 
@@ -21227,7 +21211,6 @@ PERIODIC MAINTENANCE
 DRIVE BELTS
 Exploded View
 
-### INFOID:0000000010095468
 
 ### 2014 Q70
 
@@ -21408,7 +21391,6 @@ INSTALLATION
 Note the following item, and install in the reverse order of removal.
 • Install the air cleaner filter by aligning the seal with the notch of air cleaner case.
 
-### Inspection (Viscous Paper Type)
 
 ### MA-12, "FOR MEXICO : Periodic Maintenance" (FOR MEXICO).
 
@@ -21708,7 +21690,6 @@ Remove mass air flow sensor from air cleaner cover assembly, if necessary.
 > Air cleaner case assembly (bank 2)
 > 4.
 
-### Air cleaner cover assembly (bank 2)
 
 ### Air duct (bank 2)
 
@@ -21796,7 +21777,6 @@ Disconnect PCV hose from rocker cover.
 Remove spark plugs. Refer to EM-187, "Removal and Installation".
 1.
 
-### Clamp
 
 ### Ignition coil (No. 7, 8)
 
@@ -23855,7 +23835,6 @@ unavoidable reasons, support at rear axle jacking point with transmission jack o
 starting work, in preparation for the backward shift of the center of gravity.
 • For supporting points for lifting and jacking point at rear axle, refer to GI-31, "Garage Jack and
 
-### Safety Stand and 2-Pole Lift".
 
 ### Procedure" (FOR MEXICO).
 
@@ -24032,7 +24011,6 @@ bolts (E).
 shown in the figure.
 • Check that all engine mounting insulators are seated properly, then tighten mounting nuts and bolts.
 
-### AWD : Inspection
 
 ### JPBIA0159ZZ
 
@@ -25513,7 +25491,6 @@ Check for cracks and any excessive wear at link plates and roller
 links of timing chain. Replace timing chain if necessary.
 INSPECTION AFTER ASSEMBLY
 
-### Inspection for Leakage
 
 ### Summary of the inspection items:
 
@@ -26134,7 +26111,6 @@ CAMSHAFT (EXH) VALVE CLEARANCE ADJUSTMENT
 • Perform adjustment depending on selected head thickness of valve lifter (EXH).
 1.
 
-### Measure the valve clearance. Refer to EM-175, "Inspection".
 
 ### JPBIA2142ZZ
 
@@ -26861,7 +26837,6 @@ Provide valve seats (EXH) cooled well with dry ice. Force fit valve seat (EXH) i
 > Using the valve seat cutter set (commercial service tool) or valve
 > seat grinder, finish seat to the specified dimensions. Refer to
 
-### EM-311, "Cylinder Head".
 
 ### Using compound, grind to adjust valve fitting.
 
@@ -28220,9 +28195,6 @@ EM-296
 CYLINDER BLOCK
 • If out of the standard, measure the main bearing oil clearance. Then use undersize bearing. Refer to EM303, "Main Bearing".
 
-### CRANKSHAFT PIN JOURNAL DIAMETER
-
-### CRANKSHAFT OUT-OF-ROUND AND TAPER
 
 ### CRANKSHAFT RUNOUT
 
@@ -28278,7 +28250,6 @@ tightening procedure.
 • If the calculated value exceeds the limit, select proper connecting rod bearing according to connecting rod
 big end diameter and crankshaft pin journal diameter to obtain the specified bearing oil clearance. Refer to
 
-### EM-300, "Description".
 
 ### MAIN BEARING OIL CLEARANCE
 
@@ -29610,9 +29581,6 @@ Grade No. A
 Grade No. B
 57.001 - 57.002 (2.2441 - 2.2442)
 
-### Grade No. C
-
-### Grade No. H
 
 ### Grade No. N
 
@@ -35071,7 +35039,6 @@ self-diagnosis condition.
 ABSNT: The vehicle condition is not within the diagnosis range.
 PRSNT: The vehicle condition is within the diagnosis range.
 
-### A/F SEN1 DIAG3
 
 ### A/F-S ATMSPHRC
 
@@ -35081,7 +35048,6 @@ Displays a determined value of atmospheric correction factor necessary for corre
 signal input to ECM. The signal used for the correction is an A/F sensor signal transmitted while driving
 under atmospheric pressure.
 
-### A/F-S ATMSPHRC
 
 ### A/F-S ATMSPHRC
 
@@ -35859,7 +35825,6 @@ ON
 • Engine speed: Above 3,600 rpm
 OFF
 
-### HO2S2 HTR (B2)
 
 ### I/P PULLY SPD
 
@@ -43821,7 +43786,6 @@ NO
 With CONSULT
 1.
 
-### Turn ignition switch OFF and wait at least 10 seconds.
 
 ### Turn ignition switch ON.
 
@@ -43882,9 +43846,6 @@ Pattern".
 >> GO TO 4.
 4.CHECK PERMANENT DTC
 
-### With CONSULT
-
-### With GST
 
 ### Is any permanent DTC detected?
 
@@ -43901,7 +43862,6 @@ pattern B and D is reset.
 1.
 Drive the vehicle according to driving pattern D. Refer to EC-80, "DIAGNOSIS DESCRIPTION : Driving
 
-### Pattern".
 
 ### Revision: 2013 November
 
@@ -46365,7 +46325,6 @@ View".
 Refer to GI-47, "Intermittent Incident".
 >> INSPECTION END
 
-### Component Inspection
 
 ### Is the inspection result normal?
 
@@ -46946,7 +46905,6 @@ Start engine and warm it up to normal operating temperature.
 Check the voltage between ECM harness connector terminals under the following conditions.
 ECM
 
-### Idle to about 4,000 rpm
 
 ### Is the inspection result normal?
 
@@ -47006,7 +46964,6 @@ DTC Logic
 INFOID:0000000010096239
 DTC DETECTION LOGIC
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Turn ignition switch ON.
 
@@ -47366,7 +47323,6 @@ NO
 >> GO TO 3.
 3.CHECK MASS AIR FLOW SENSOR-II
 
-### With CONSULT
 
 ### Idle to about 4,000 rpm
 
@@ -47426,7 +47382,6 @@ F102
 signal]
 68
 
-### Ignition switch ON (Engine stopped.)
 
 ### Revision: 2013 November
 
@@ -48066,7 +48021,6 @@ If DTC Confirmation Procedure has been previously conducted, always perform the 
 before conducting the next test.
 1.
 
-### Turn ignition switch OFF and wait at least 10 seconds.
 
 ### Is DTC detected?
 
@@ -48856,7 +48810,6 @@ Disconnect mass air flow sensor (bank 1) harness connector.
 3.
 Check resistance between mass air flow sensor (bank 1) terminals as follows.
 
-### Is the inspection result normal?
 
 ### Revision: 2013 November
 
@@ -49335,7 +49288,6 @@ Check ground connection M95. Refer to Ground Inspection in GI-50, "Circuit Inspe
 Is the inspection result normal?
 YES
 
-### >> GO TO 2.
 
 ### Is the inspection result normal?
 
@@ -49604,9 +49556,6 @@ Turn ignition switch OFF.
 2.
 Check ground connection M95. Refer to Ground Inspection in GI-50, "Circuit Inspection".
 
-### Is the inspection result normal?
-
-### A/F sensor 1
 
 ### A/F sensor 1
 
@@ -49661,7 +49610,6 @@ NO
 5.CHECK INTERMITTENT INCIDENT
 Perform GI-47, "Intermittent Incident".
 
-### Is the inspection result normal?
 
 ### >> INSPECTION END
 
@@ -50220,7 +50168,6 @@ YES
 NO
 >> Repair open circuit, short to ground or short to power in harness or connectors.
 
-### 5.CHECK HEATED OXYGEN SENSOR 2
 
 ### >> INSPECTION END
 
@@ -51197,7 +51144,6 @@ NO
 >> GO TO 6.
 6.REPLACE HEATED OXYGEN SENSOR 2
 
-### Replace malfunctioning heated oxygen sensor 2.
 
 ### >> INSPECTION END
 
@@ -51221,7 +51167,6 @@ The voltage should be below 0.18 V at least
 once during this procedure.
 80
 
-### [HO2S2
 
 ### The voltage should be below 0.18 V at least
 
@@ -51708,11 +51653,6 @@ EC-284
 [VQ37VHR FOR USA AND CANADA]
 P0139, P0159 HO2S2
 
-### Is the inspection result normal?
-
-### Replace malfunctioning heated oxygen sensor 2.
-
-### Condition
 
 ### The voltage should be below 0.18 V at least
 
@@ -52709,7 +52649,6 @@ EC-296
 [VQ37VHR FOR USA AND CANADA]
 P0172, P0175 FUEL INJECTION SYSTEM FUNCTION
 
-### P0172, P0175 FUEL INJECTION SYSTEM FUNCTION
 
 ### Do not depress accelerator pedal too much.
 
@@ -53173,7 +53112,6 @@ Perform component function check. Refer to EC-301, "Component Function Check".
 > NO
 > >> Proceed to EC-302, "Diagnosis Procedure".
 
-### 7.PRECONDITIONING
 
 ### >> GO TO 8.
 
@@ -53521,7 +53459,6 @@ Check the following.
 • Harness for open or short between ECM and “fuel level sensor unit and fuel pump”
 >> Repair open circuit, short to ground or short to power in harness or connector.
 
-### 5.CHECK FUEL TANK TEMPERATURE SENSOR GROUND CIRCUIT FOR OPEN AND SHORT
 
 ### Also check harness for short to ground and short to power.
 
@@ -53536,7 +53473,6 @@ Check the following.
 • Harness for open or short between “fuel level sensor unit and fuel pump” and “combination meter”
 >> Repair open circuit, short to ground or short to power in harness or connector.
 
-### 7.CHECK FUEL TANK TEMPERATURE SENSOR
 
 ### Refer to GI-47, "Intermittent Incident".
 
@@ -53750,11 +53686,6 @@ NO
 If DTC CONFIRMATION PROCEDURE has been previously conducted, always perform the following procedure before conducting the next test.
 1.
 
-### Turn ignition switch OFF and wait at least 10 seconds.
-
-### >> GO TO 7.
-
-### Turn ignition switch OFF and soak the vehicle for 12 hours.
 
 ### COOLAN TEMP/S
 
@@ -53860,7 +53791,6 @@ Disconnect engine oil temperature sensor harness connector.
 3.
 Remove engine oil temperature sensor. Refer to EM-48, "Exploded View".
 
-### Terminals
 
 ### P0196 EOT SENSOR
 
@@ -54314,7 +54244,6 @@ N
 P
 O
 
-### Component Inspection
 
 ### Replace malfunctioning electric throttle control actuator.
 
@@ -54772,7 +54701,6 @@ YES
 NO
 >> Follow the EC-174, "Work Procedure".
 
-### 13.CHECK A/F SENSOR 1 INPUT SIGNAL CIRCUIT
 
 ### Also check harness for short to power.
 
@@ -54943,7 +54871,6 @@ YES
 NO
 >> INSPECTION END
 
-### Diagnosis Procedure
 
 ### >> GO TO 2.
 
@@ -56027,7 +55954,6 @@ Do not hold engine speed for more than the specified minutes below.
 >> GO TO 3.
 3.PERFORM DTC CONFIRMATION PROCEDURE-I
 
-### With CONSULT
 
 ### Turn ignition switch ON.
 
@@ -56432,7 +56358,6 @@ canister purge volume control solenoid valve is open to admit purge flow. Purge 
 Under normal conditions (non-closed throttle), sensor output voltage indicates if pressure drop and purge flow
 are adequate. If not, a malfunction is determined.
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Turn ignition switch OFF and wait at least 10 seconds.
 
@@ -56843,7 +56768,6 @@ EC-344
 P0443 EVAP CANISTER PURGE VOLUME CONTROL SOLENOID VALVE
 P0443 EVAP CANISTER PURGE VOLUME CONTROL SOLENOID VALVE
 
-### DTC Logic
 
 ### Turn ignition switch OFF and wait at least 10 seconds.
 
@@ -57803,7 +57727,6 @@ Condition VENT CONT/V
 Air passage continuity between (A) and (B)
 ON
 
-### Not existed
 
 ### EC-355
 
@@ -58286,7 +58209,6 @@ YES
 >> Proceed to EC-360, "Diagnosis Procedure".
 NO
 
-### >> INSPECTION END
 
 ### >> GO TO 2.
 
@@ -58514,7 +58436,6 @@ N
 P
 O
 
-### P0452 EVAP CONTROL SYSTEM PRESSURE SENSOR
 
 ### Turn ignition switch OFF and wait at least 10 seconds.
 
@@ -59034,9 +58955,6 @@ YES
 >> Go to EC-369, "Diagnosis Procedure".
 NO
 
-### >> INSPECTION END
-
-### >> GO TO 2.
 
 ### >> GO TO 3.
 
@@ -59113,7 +59031,6 @@ NO
 9.REPLACE ACCELERATOR PEDAL ASSEMBLY
 1.
 
-### Replace accelerator pedal assembly
 
 ### Sensor
 
@@ -60187,7 +60104,6 @@ NOTE:
 • If DTC P0500 is displayed with DTC P0607, first perform the trouble diagnosis for DTC P0607. Refer
 to EC-401, "DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Turn ignition switch OFF and wait at least 10 seconds.
 
@@ -60756,7 +60672,6 @@ NOTE:
 If DTC P0524 is displayed with DTC P0075 or P0081, first perform the trouble diagnosis for DTC P0075,
 P0081. Refer to EC-221, "DTC Logic"
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Turn ignition switch ON.
 
@@ -61197,7 +61112,6 @@ Battery voltage is supplied to the ECM even when the ignition switch
 is turned OFF for the ECM memory function of the DTC memory, the
 air-fuel ratio feedback compensation value memory, the idle air volume learning value memory, etc.
 
-### DTC Logic
 
 ### Turn ignition switch OFF and wait at least 10 seconds.
 
@@ -62599,7 +62513,6 @@ YES
 NO
 >> GO TO 7.
 
-### 7.DETECT MALFUNCTIONING PART
 
 ### 8.CHECK INTERMITTENT INCIDENT
 
@@ -62900,7 +62813,6 @@ Replace VVEL actuator sub assembly.
 Go to EC-419, "Special Repair Requirement".
 >> INSPECTION END
 
-### Special Repair Requirement
 
 ### Revision: 2013 November
 
@@ -63825,7 +63737,6 @@ EC-432
 [VQ37VHR FOR USA AND CANADA]
 P1226, P1235 TP SENSOR
 
-### P1226, P1235 TP SENSOR
 
 ### >> GO TO 2.
 
@@ -64673,7 +64584,6 @@ EC-442
 P1238, P2119 ELECTRIC THROTTLE CONTROL ACTUATOR
 2.
 
-### Remove the intake air duct.
 
 ### 2.REPLACE ELECTRIC THROTTLE CONTROL ACTUATOR
 
@@ -64817,7 +64727,6 @@ Check the continuity between electric throttle control actuator harness connecto
 4.
 Also check harness for short to ground and short to power.
 
-### Is the inspection result normal?
 
 ### Also check harness for short to ground and short to power.
 
@@ -64965,7 +64874,6 @@ P1290, P2100, P2103 THROTTLE CONTROL MOTOR RELAY
 P1290, P2100, P2103 THROTTLE CONTROL MOTOR RELAY
 DTC Logic
 
-### INFOID:0000000010096440
 
 ### Turn ignition switch OFF and wait at least 10 seconds.
 
@@ -65684,7 +65592,6 @@ ECM
 Sensor
 Connector
 
-### Terminal
 
 ### Refrigerant pressure sensor
 
@@ -65727,7 +65634,6 @@ Check the continuity between battery current sensor harness connector and ECM ha
 4.
 Also check harness for short to ground and short to power.
 
-### Is the inspection result normal?
 
 ### 13.CHECK BATTERY CURRENT SENSOR
 
@@ -65795,7 +65701,6 @@ INFOID:0000000010096447
 1.CHECK BATTERY CURRENT SENSOR
 1.
 
-### Turn ignition switch OFF.
 
 ### Approx. 2.5
 
@@ -66093,7 +65998,6 @@ Turn ignition switch OFF.
 2.
 Check ground connection M95. Refer to Ground Inspection in GI-50, "Circuit Inspection".
 
-### Is the inspection result normal?
 
 ### Battery current sensor
 
@@ -67028,7 +66932,6 @@ Turn ignition switch ON.
 2.
 Check the voltage between ECM harness connector terminals as per the following.
 
-### Is the inspection result normal?
 
 ### Also check harness for short to ground and short to power.
 
@@ -67141,7 +67044,6 @@ EC-472
 Check the continuity between combination switch and ECM harness connector.
 2.
 
-### Also check harness for short to ground and short to power.
 
 ### 7.CHECK ICC STEERING SWITCH
 
@@ -68591,9 +68493,6 @@ INFOID:0000000010096479
 The ECM receives two vehicle speed signals via CAN communication line. One is sent from “combination
 meter”, and the other is from TCM (Transmission control module). The ECM uses these signals for ICC control. Refer to CCS-13, "System Description" for ICC functions.
 
-### DTC Logic
-
-### Always drive vehicle at a safe speed.
 
 ### >> INSPECTION END
 
@@ -68607,7 +68506,6 @@ YES
 DTC No.
 Trouble diagnosis name
 
-### DTC detecting condition
 
 ### • TCM
 
@@ -68875,7 +68773,6 @@ EC-494
 [VQ37VHR FOR USA AND CANADA]
 P1608 VVEL SENSOR POWER SUPPLY
 
-### 3.CHECK VVEL CONTROL SHAFT POSITION SENSOR POWER SUPPLY CIRCUIT FOR OPEN AND
 
 ### Also check harness for short to ground and power.
 
@@ -69579,7 +69476,6 @@ NO
 >> Repair or replace.
 13.REPLACE AIR FUEL RATIO (A/F) SENSOR 1
 
-### Replace air fuel ratio (A/F) sensor 1.
 
 ### Do you have CONSULT?
 
@@ -69648,7 +69544,6 @@ P2122, P2123 APP SENSOR
 DTC Logic
 INFOID:0000000010096494
 
-### DTC DETECTION LOGIC
 
 ### >> GO TO 2.
 
@@ -70091,7 +69986,6 @@ Sensor
 Connector
 Terminal
 
-### Name
 
 ### Refrigerant pressure sensor
 
@@ -70945,7 +70839,6 @@ Existed
 Terminals
 Condition
 
-### Continuity
 
 ### 2014 Q70
 
@@ -73256,7 +73149,6 @@ Also check harness for short to ground and short to power.
 Is the inspection result normal?
 YES
 
-### >> GO TO 8.
 
 ### 8.CHECK INTERMITTENT INCIDENT
 
@@ -73800,7 +73692,6 @@ HESITATION/SURGING/FLAT SPOT
 SPARK KNOCK/DETONATION
 LACK OF POWER/POOR ACCELERATION
 
-### HIGH IDLE/LOW IDLE
 
 ### Revision: 2013 November
 
@@ -74257,7 +74148,6 @@ Mass air flow (Using CONSULT or GST)
 2.0 – 6.0 g/s at idle*
 7.0 – 20.0 g/s at 2,500 rpm*
 
-### Revision: 2013 November
 
 ### Precaution for Procedure without Cowl Top Cover
 
@@ -74294,9 +74184,6 @@ O
 (Turning it ON outside the lamp case may cause fire or visual impairments.)
 • Never touch the bulb glass immediately after turning it OFF. It is extremely hot.
 
-### On Board Diagnostic (OBD) System of Engine and A/T
-
-### General Precautions
 
 ### SEF289H
 
@@ -74403,7 +74290,6 @@ INFOID:0000000010096556
 NOTE:
 The actual shapes of Kent-Moore tools may differ from those of special service tools illustrated here.
 
-### Commercial Service Tools
 
 ### Removes and installs engine coolant temperature
 
@@ -74457,7 +74343,6 @@ COMPONENT PARTS
 ENGINE CONTROL SYSTEM
 ENGINE CONTROL SYSTEM : Component Parts Location
 
-### INFOID:0000000010096558
 
 ### EVAP canister purge volume control
 
@@ -74678,9 +74563,6 @@ EC-572
 < SYSTEM DESCRIPTION >
 [VQ37VHR FOR MEXICO]
 
-### COMPONENT PARTS
-
-### Air Fuel Ratio Sensor 1
 
 ### A/C auto amp.
 
@@ -74861,7 +74743,6 @@ INFOID:0000000010096569
 Brake switch signal is applied to the ECM through the stop lamp switch when the brake pedal is depressed.
 This signal is used mainly to decrease the engine speed when the vehicle is being driven.
 
-### Camshaft Position Sensor (PHASE)
 
 ### JSBIA0483ZZ
 
@@ -74913,7 +74794,6 @@ The revolution speed of cooling fan motor is controlled by duty cycle of the vol
 Cooling fan motor receives cooling fan motor operating voltage from cooling fan control module. The revolution speed of cooling fan motor is controlled by duty cycle of the voltage.
 Crankshaft Position Sensor (POS)
 
-### INFOID:0000000010096572
 
 ### ECM receives the signals as shown in the figure.
 
@@ -75006,9 +74886,6 @@ decreases as temperature increases.
 *: These data are reference values and are measured between ECM terminals 78
 (Engine oil temperature sensor) and 84 (Sensor ground).
 
-### EVAP Canister Purge Volume Control Solenoid Valve
-
-### Fuel Injector
 
 ### Fuel Level Sensor
 
@@ -75017,7 +74894,6 @@ The fuel level sensor is mounted in the fuel level sensor unit.
 The sensor detects a fuel level in the fuel tank and transmits a signal to the “A/C auto amp.”. The “A/C auto
 amp.” sends the fuel level sensor signal to the ECM via the CAN communication line.
 
-### SEF594K
 
 ### SEF375Z
 
@@ -75040,9 +74916,6 @@ the ignition switch is ON, the engine stalls. The ECM stops pump operation and p
 thereby improving safety. The ECM does not directly drive the fuel pump. It controls the ON/OFF fuel pump
 relay, which in turn controls the fuel pump.
 
-### Fuel Tank Temperature Sensor
-
-### Heated Oxygen Sensor 2
 
 ### Heated Oxygen Sensor 2 Heater
 
@@ -75119,7 +74992,6 @@ The ignition signal from the ECM is sent to and amplified by the power transisto
 ON and OFF the ignition coil primary circuit. This ON/OFF operation induces the proper high voltage in the coil
 secondary circuit.
 
-### Intake Air Temperature Sensor
 
 ### Sensor
 
@@ -75188,11 +75060,6 @@ The knock sensor is attached to the cylinder block. It senses engine knocking us
 knocking vibration from the cylinder block is sensed as vibrational pressure. This pressure is converted into a
 voltage signal and sent to the ECM.
 
-### Manifold Absolute Pressure Sensor
-
-### Malfunction Indicator Lamp
-
-### For details, refer to EC-601, "Diagnosis Description".
 
 ### ECM detects the air flow by means of this current change.
 
@@ -75224,7 +75091,6 @@ P
 O
 Power Steering Pressure Sensor
 
-### INFOID:0000000010096591
 
 ### Refrigerant Pressure Sensor
 
@@ -75233,13 +75099,6 @@ The refrigerant pressure sensor is installed at the condenser of the air conditi
 electrostatic volume pressure transducer to convert refrigerant pressure to voltage. The voltage signal is sent
 to ECM, and ECM controls cooling fan system.
 
-### Throttle Control Motor
-
-### Throttle Control Motor Relay
-
-### Throttle Position Sensor
-
-### VVEL Actuator Motor
 
 ### VVEL control shaft position sensor signal.
 
@@ -75263,7 +75122,6 @@ INFOID:0000000010096598
 The VVEL control module consists of a microcomputer and connectors for signal input and output and for power supply. The VVEL control module controls VVEL system.
 VVEL Control Position Sensor
 
-### INFOID:0000000010096599
 
 ### JMBIA0879ZZ
 
@@ -75293,7 +75151,6 @@ O
 STRUCTURE AND OPERATION
 Positive Crankcase Ventilation
 
-### INFOID:0000000010096600
 
 ### PCV valve
 
@@ -75480,7 +75337,6 @@ SYSTEM
 EC-587
 < SYSTEM DESCRIPTION >
 
-### [VQ37VHR FOR MEXICO]
 
 ### FUEL SHUT-OFF
 
@@ -75597,9 +75453,6 @@ SYSTEM
 EC-591
 < SYSTEM DESCRIPTION >
 
-### COAST OPERATION
-
-### CAN COMMUNICATION
 
 ### COOLING FAN CONTROL
 
@@ -75613,7 +75466,6 @@ Revision: 2013 November
 2014 Q70
 EC-592
 
-### < SYSTEM DESCRIPTION >
 
 ### EVAPORATIVE EMISSION SYSTEM
 
@@ -75626,7 +75478,6 @@ Sensor
 Input signal to ECM
 ECM function
 
-### Refrigerant pressure sensor
 
 ### Revision: 2013 November
 
@@ -75716,7 +75567,6 @@ N
 P
 O
 
-### VVEL SYSTEM : System Diagram
 
 ### Control shaft
 
@@ -75749,7 +75599,6 @@ NOTE:
 • This section provides descriptions only about the control by ECM.
 For overall control, refer to DMS-5, "Infiniti Drive Mode Selector : System Description".
 
-### - SNOW: ON/OFF
 
 ### Control
 
@@ -75830,7 +75679,6 @@ INFOID:0000000010096623
 SWITCHES AND INDICATORS
 SET SPEED RANGE
 
-### ASCD system can be set the following vehicle speed.
 
 ### (ACCELERATE/RESUME)
 
@@ -75946,9 +75794,6 @@ control unit equipped in the vehicle and then enable various kinds of diagnostic
 > DIAGNOSIS DESCRIPTION
 > DIAGNOSIS DESCRIPTION : 1st Trip Detection Logic and Two Trip Detection Logic
 
-### INFOID:0000000010096627
-
-### DIAGNOSIS DESCRIPTION : DTC and Freeze Frame Data
 
 ### Misfire (Possible three way catalyst
 
@@ -76012,7 +75857,6 @@ stored in the ECM memory, 1st trip freeze data is no longer stored (because only
 trip freeze frame data can be stored in the ECM). If freeze frame data is stored in the ECM memory and freeze
 frame data with the same priority occurs later, the first (original) freeze frame data remains unchanged in the
 
-### ECM memory.
 
 ### Revision: 2013 November
 
@@ -76114,7 +75958,6 @@ Calculated load value: (Calculated load value in the freeze frame data) x (1±0.
 > If MIL is ON during the state emissions inspection, the vehicle is also returned to the customer untested even
 > though the SRT indicates “CMPLT” for all test items. Therefore, it is important to check SRT (“CMPLT”) and
 
-### DTC (No DTCs) before the inspection.
 
 ### Revision: 2013 November
 
@@ -76364,9 +76207,6 @@ Fully depress the accelerator pedal and keep it depressed for more than 10 secon
 7.
 Fully release the accelerator pedal, and confirm the DTC 0000 is displayed.
 
-### CONSULT Function
-
-### SELF DIAGNOSTIC RESULT MODE
 
 ### How to Erase DTC and 1st Trip DTC
 
@@ -76761,7 +76601,6 @@ YET/DONE
 YET: VVEL learning has not been performed yet.
 DONE: VVEL learning has already been performed successfully.
 
-### VVEL SEN LEARN-
 
 ### A/F ADJ-B2
 
@@ -77026,9 +76865,6 @@ ECU DIAGNOSIS INFORMATION
 ECM
 Reference Value
 
-### INFOID:0000000010096635
-
-### CONSULT MONITOR ITEM
 
 ### MAS A/F SE-B2
 
@@ -77044,7 +76880,6 @@ COOLAN TEMP/S
 Indicates engine coolant
 temperature
 
-### ACCEL SEN 1
 
 ### Less than 4.75 V
 
@@ -77120,7 +76955,6 @@ BRAKE SW
 Brake pedal: Fully released
 OFF
 
-### Brake pedal: Slightly depressed
 
 ### Idle
 
@@ -77341,7 +77175,6 @@ When revving engine up to 2,000 rpm
 quickly
 Approx. 0.25 - 4.75 V
 
-### VVEL TIM-B1
 
 ### Idle
 
@@ -77426,7 +77259,6 @@ Engine: Running
 Varies depending on the
 number of updates.
 
-### A/F-S ATMSPHRC
 
 ### Monitor Item
 
@@ -77506,7 +77338,6 @@ Output
 • Selector lever: D
 • Accelerator pedal: Fully released
 
-### 0 - 14 V
 
 ### 0 - 14 V
 
@@ -77591,7 +77422,6 @@ the following conditions are met
 3,500 and 4,000 rpm for 1 minute and at
 idle for 1 minute under no load
 
-### BATTERY VOLTAGE
 
 ### JMBIA0036GB
 
@@ -78321,7 +78151,6 @@ Engine speed will not rise
 more than 2,500 rpm due
 to the fuel cut
 
-### Revision: 2013 November
 
 ### P0605
 
@@ -78367,7 +78196,6 @@ Brake switch
 ECM controls the electric throttle control actuator by regulating the throttle opening to a
 small range.
 
-### Therefore, acceleration will be poor.
 
 ### Therefore, the acceleration will be poor.
 
@@ -79601,7 +79429,6 @@ ECM
 *5: When the fail-safe operations for both self-diagnoses occur, the MIL illuminates.
 *6: When the ECM is in the mode that displays SRT status, MIL may blink. For the details, refer to “How to Display SRT Status”.
 
-### Test Value and Test Limit
 
 ### P2118
 
@@ -80240,7 +80067,6 @@ P0304
 0BH
 24H
 
-### EWMA (Exponential Weighted Moving
 
 ### P0305
 
@@ -80262,7 +80088,6 @@ Misfire counts for last/current driving
 cycles
 A8H
 
-### No. 7 cylinder misfire
 
 ### EWMA (Exponential Weighted Moving
 
@@ -81010,7 +80835,6 @@ Verify relation between the symptom and the condition when the symptom is detect
 Try to confirm the symptom described by the customer.
 Also study the normal operation and fail-safe related to the symptom. Refer to EC-969, "Description" and EC635, "Fail safe".
 
-### Diagnosis Work Sheet is useful to verify the incident.
 
 ### MATION PROCEDURE.
 
@@ -81326,7 +81150,6 @@ Accelerator Pedal Released Position Learning is a function of ECM to learn the f
 accelerator pedal by monitoring the accelerator pedal position sensor output signal. It must be performed each
 time the harness connector of the accelerator pedal position sensor or ECM is disconnected.
 
-### Work Procedure
 
 ### Turn ignition switch ON and wait at least 2 seconds.
 
@@ -81341,9 +81164,6 @@ EC-688
 THROTTLE VALVE CLOSED POSITION LEARNING
 THROTTLE VALVE CLOSED POSITION LEARNING
 
-### Description
-
-### Work Procedure
 
 ### >> END
 
@@ -81378,7 +81198,6 @@ the specific range. It must be performed under the following conditions:
 • Each time VVEL actuator sub assembly or VVEL control module is replaced.
 • Idle speed or ignition timing is out of specification.
 
-### Work Procedure
 
 ### Do you have CONSULT?
 
@@ -81438,7 +81257,6 @@ specifications. Refer to EC-976, "Idle Speed" and EC-976, "Ignition Timing".
 Is the inspection result normal?
 YES
 
-### Is the inspection result normal?
 
 ### >> INSPECTION END
 
@@ -81467,9 +81285,6 @@ P
 O
 VVEL CONTROL SHAFT POSITION SENSOR ADJUSTMENT
 
-### Description
-
-### Work Procedure
 
 ### 12. Turn ignition switch OFF and wait at least 10 seconds.
 
@@ -81717,9 +81532,6 @@ Perform EC-689, "Work Procedure".
 Is Idle Air Volume Learning carried out successfully?
 YES
 
-### >> GO TO 14.
-
-### For specification, refer to EC-976, "Idle Speed".
 
 ### >> GO TO 17.
 
@@ -81989,7 +81801,6 @@ In order to set all SRTs, the SRT set driving pattern must be performed at least
 > < BASIC INSPECTION >
 > [VQ37VHR FOR MEXICO]
 
-### HOW TO SET SRT CODE
 
 ### >> GO TO 7.
 
@@ -82030,9 +81841,6 @@ N
 P
 O
 
-### DTC/CIRCUIT DIAGNOSIS
-
-### Component Function Check
 
 ### >> GO TO 2.
 
@@ -82113,7 +81921,6 @@ NOTE:
 Check “A/F ALPHA-B1”, “A/F ALPHA-B2” for approximately 1 minute because they may fluctuate. It is NG
 if the indication is out of the SP value even a little.
 
-### >> INSPECTION END
 
 ### 8.CHECK “A/F ALPHA-B1”, “A/F ALPHA-B2”
 
@@ -82548,7 +82355,6 @@ YES
 >> EC-718, "Diagnosis Procedure".
 NO
 
-### >> INSPECTION END
 
 ### TCM and ECM
 
@@ -82578,7 +82384,6 @@ P
 O
 U1001 CAN COMM CIRCUIT
 
-### Description
 
 ### DTC Logic
 
@@ -82945,9 +82750,6 @@ P0011, P0021 IVT CONTROL
 Is the inspection result normal?
 YES
 
-### >> GO TO 6.
-
-### Refer to GI-47, "Intermittent Incident".
 
 ### JMBIA0962ZZ
 
@@ -83026,7 +82828,6 @@ YES
 NG
 >> INSPECTION END
 
-### Diagnosis Procedure
 
 ### Revision: 2013 November
 
@@ -83088,7 +82889,6 @@ Refer to EC-730, "Component Inspection".
 Is the inspection result normal?
 YES
 
-### >> GO TO 7.
 
 ### >> INSPECTION END
 
@@ -83153,7 +82953,6 @@ Disconnect A/F sensor 1 harness connector.
 3.
 Check resistance between A/F sensor 1 terminals as follows.
 
-### Is the inspection result normal?
 
 ### >> INSPECTION END
 
@@ -83391,9 +83190,6 @@ Disconnect ECM harness connector.
 Check the continuity between intake valve timing control solenoid valve harness connector and ECM harness connector.
 4.
 
-### Also check harness for short to ground and short to power.
-
-### Component Inspection
 
 ### JMBIA0079ZZ
 
@@ -83435,7 +83231,6 @@ O
 P0102, P0103, P010C, P010D MAF SENSOR
 DTC Logic
 
-### Turn ignition switch OFF and wait at least 10 seconds.
 
 ### Start engine and wait at least 5 seconds.
 
@@ -83678,7 +83473,6 @@ YES
 >> Proceed to EC-743, "Diagnosis Procedure".
 NO
 
-### >> INSPECTION END
 
 ### >> GO TO 2.
 
@@ -84009,7 +83803,6 @@ Refer to EC-747, "Component Inspection".
 Is the inspection result normal?
 YES
 
-### Component Inspection
 
 ### Terminal
 
@@ -84092,7 +83885,6 @@ Refer to EC-749, "Component Inspection".
 Is the inspection result normal?
 YES
 
-### >> GO TO 6.
 
 ### Resistance (kΩ)
 
@@ -84340,9 +84132,6 @@ Before performing the following procedure, confirm that battery voltage is more 
 Start engine and warm it up to normal operating temperature.
 2.
 
-### Let engine idle for 2 minutes.
-
-### Check “A/F SEN1 (B1)” or “A/F SEN1 (B2)” indication.
 
 ### Revision: 2013 November
 
@@ -84365,7 +84154,6 @@ NOTE:
 Use component function check to check the overall function of the A/F sensor 1 circuit. During this check, a
 1st trip DTC might not be confirmed.
 
-### Is the inspection result normal?
 
 ### More than 64 km/h (40 mph)
 
@@ -84577,7 +84365,6 @@ Turn ignition switch OFF.
 2.
 Check ground connection M95. Refer to Ground Inspection in GI-50, "Circuit Inspection".
 
-### A/F sensor 1
 
 ### A/F sensor 1
 
@@ -84783,7 +84570,6 @@ N
 P
 O
 
-### P0133, P0153 A/F SENSOR 1
 
 ### >> GO TO 2.
 
@@ -84894,7 +84680,6 @@ Calculate the total value of “Short term fuel trim” and “Long term fuel tr
 Is the total percentage within ±15%?
 YES
 
-### >> GO TO 7.
 
 ### 7.PERFORM DTC CONFIRMATION PROCEDURE
 
@@ -85022,7 +84807,6 @@ EC-766
 < DTC/CIRCUIT DIAGNOSIS >
 [VQ37VHR FOR MEXICO]
 
-### P0133, P0153 A/F SENSOR 1
 
 ### Also check harness for short to power.
 
@@ -85237,7 +85021,6 @@ Perform component function check. Refer to EC-769, "Component Function Check".
 > NO
 > >> Go to EC-770, "Diagnosis Procedure".
 
-### Component Function Check
 
 ### 2014 Q70
 
@@ -85348,7 +85131,6 @@ YES
 NO
 >> Repair open circuit, short to ground or short to power in harness or connectors.
 
-### 5.CHECK HEATED OXYGEN SENSOR 2
 
 ### >> INSPECTION END
 
@@ -85505,9 +85287,6 @@ O
 Start engine and warm it up to the normal operating temperature.
 2.
 
-### Turn ignition switch OFF and wait at least 10 seconds.
-
-### Check 1st trip DTC.
 
 ### 11. Start engine and follow the instruction of CONSULT display.
 
@@ -85541,7 +85320,6 @@ Revision: 2013 November
 EC-776
 < DTC/CIRCUIT DIAGNOSIS >
 
-### [VQ37VHR FOR MEXICO]
 
 ### >> INSPECTION END
 
@@ -85554,7 +85332,6 @@ Confirm the detected malfunction (A or B). Refer to EC-774, "DTC Logic".
 Which malfunction is detected?
 A
 
-### Connector
 
 ### EC-777
 
@@ -85675,7 +85452,6 @@ Revision: 2013 November
 EC-778
 < DTC/CIRCUIT DIAGNOSIS >
 
-### [VQ37VHR FOR MEXICO]
 
 ### Is the inspection result normal?
 
@@ -85841,7 +85617,6 @@ Turn ignition switch OFF and wait at least 10 seconds.
 Start engine and keep the engine speed between 3,500 and 4,000 rpm for at least 1 minute under no load.
 5.
 
-### Let engine idle for 1 minute.
 
 ### The voltage should be below 0.18 V at least
 
@@ -85886,7 +85661,6 @@ YES
 NO
 >> GO TO 6.
 
-### 6.REPLACE HEATED OXYGEN SENSOR 2
 
 ### The voltage should be below 0.18 V at least
 
@@ -85904,7 +85678,6 @@ P0139, P0159 HO2S2
 DTC Logic
 INFOID:0000000010096727
 
-### DTC DETECTION LOGIC
 
 ### Turn ignition switch ON.
 
@@ -85995,9 +85768,6 @@ NO
 6.PERFORM COMPONENT FUNCTION CHECK
 Perform component function check. Refer to EC-783, "Component Function Check".
 
-### Component Function Check
-
-### Let engine idle for 1 minute.
 
 ### Condition
 
@@ -86243,7 +86013,6 @@ YES
 NO
 >> GO TO 3.
 
-### 2.CHECK HEATED OXYGEN SENSOR 2
 
 ### PBIB3458E
 
@@ -86576,7 +86345,6 @@ EC-792
 [VQ37VHR FOR MEXICO]
 P0172, P0175 FUEL INJECTION SYSTEM FUNCTION
 
-### P0172, P0175 FUEL INJECTION SYSTEM FUNCTION
 
 ### Do not depress accelerator pedal too much.
 
@@ -86795,7 +86563,6 @@ Listen to each fuel injector operating sound.
 Is the inspection result normal?
 YES
 
-### >> GO TO 7.
 
 ### PBIB3332E
 
@@ -86811,9 +86578,6 @@ INFOID:0000000010096735
 DTC DETECTION LOGIC
 DTC CONFIRMATION PROCEDURE
 
-### Turn ignition switch OFF and wait at least 10 seconds.
-
-### >> INSPECTION END
 
 ### Revision: 2013 November
 
@@ -87072,7 +86836,6 @@ EC-802
 < DTC/CIRCUIT DIAGNOSIS >
 [VQ37VHR FOR MEXICO]
 
-### Also check harness for short to ground and short to power.
 
 ### Is the inspection result normal?
 
@@ -87183,7 +86946,6 @@ P0300, P0301, P0302, P0303, P0304, P0305, P0306 MISFIRE
 P0300, P0301, P0302, P0303, P0304, P0305, P0306 MISFIRE
 DTC Logic
 
-### INFOID:0000000010096745
 
 ### EC-805
 
@@ -87443,7 +87205,6 @@ EC-810
 [VQ37VHR FOR MEXICO]
 P0327, P0328, P0332, P0333 KS
 
-### P0327, P0328, P0332, P0333 KS
 
 ### >> GO TO 2.
 
@@ -87458,7 +87219,6 @@ YES
 NO
 >> INSPECTION END
 
-### Diagnosis Procedure
 
 ### Existed
 
@@ -87504,7 +87264,6 @@ NO
 7.CHECK INTERMITTENT INCIDENT
 Refer to GI-47, "Intermittent Incident".
 
-### >> INSPECTION END
 
 ### Revision: 2013 November
 
@@ -87562,7 +87321,6 @@ YES
 >> Go to EC-813, "Diagnosis Procedure".
 NO
 
-### >> INSPECTION END
 
 ### >> GO TO 2.
 
@@ -87832,7 +87590,6 @@ Revision: 2013 November
 EC-816
 < DTC/CIRCUIT DIAGNOSIS >
 
-### [VQ37VHR FOR MEXICO]
 
 ### Revision: 2013 November
 
@@ -87862,7 +87619,6 @@ DTC Logic
 INFOID:0000000010096753
 DTC DETECTION LOGIC
 
-### >> GO TO 2.
 
 ### >> GO TO 3.
 
@@ -87875,7 +87631,6 @@ Is 1st trip DTC detected?
 YES
 >> Go to EC-818, "Diagnosis Procedure".
 
-### DTC No.
 
 ### P0345
 
@@ -88058,7 +87813,6 @@ Disconnect ECM harness connector.
 Check the continuity between CMP sensor (PHASE) harness connector and ECM harness connector.
 4.
 
-### Also check harness for short to ground and short to power.
 
 ### Also check harness for short to ground and short to power.
 
@@ -88209,7 +87963,6 @@ P0420, P0430 THREE WAY CATALYST FUNCTION
 DTC Logic
 INFOID:0000000010096756
 
-### DTC DETECTION LOGIC
 
 ### P0430
 
@@ -88236,7 +87989,6 @@ NO
 7.PERFORM COMPONENT FUNCTION CHECK
 Perform component function check. Refer to EC-822, "Component Function Check".
 
-### Component Function Check
 
 ### Let engine idle for 1 minute.
 
@@ -88331,7 +88083,6 @@ Turn ignition switch OFF.
 2.
 Remove fuel pump fuse (1) in IPDM E/R (2) to release fuel pressure.
 
-### Turn ignition switch OFF.
 
 ### EC-825
 
@@ -88359,7 +88110,6 @@ Disconnect spark plug and connect a non-malfunctioning spark plug.
 Crank engine for about 3 seconds, and recheck whether spark is generated between the spark plug and
 the grounded metal portion.
 
-### Is the inspection result normal?
 
 ### Spark should be generated.
 
@@ -88373,7 +88123,6 @@ EC-826
 P0444 EVAP CANISTER PURGE VOLUME CONTROL SOLENOID VALVE
 P0444 EVAP CANISTER PURGE VOLUME CONTROL SOLENOID VALVE
 
-### DTC Logic
 
 ### 2.PERFORM DTC CONFIRMATION PROCEDURE
 
@@ -88624,9 +88373,6 @@ Lift up drive wheels.
 Start engine.
 3.
 
-### Read vehicle speed signal in Service $01 with GST.
-
-### Diagnosis Procedure
 
 ### Refer to MWI-31, "CONSULT Function".
 
@@ -88768,7 +88514,6 @@ NO
 8.CHECK INTERMITTENT INCIDENT
 Refer to GI-47, "Intermittent Incident".
 
-### >> INSPECTION END
 
 ### JMBIA0079ZZ
 
@@ -88800,7 +88545,6 @@ YES
 >> Go to EC-834, "Diagnosis Procedure".
 NO
 
-### >> INSPECTION END
 
 ### >> GO TO 2.
 
@@ -88886,7 +88630,6 @@ Battery voltage is supplied to the ECM even when the ignition switch
 is turned OFF for the ECM memory function of the DTC memory, the
 air-fuel ratio feedback compensation value memory, the idle air volume learning value memory, etc.
 
-### DTC Logic
 
 ### Turn ignition switch ON and wait at least 10 seconds.
 
@@ -88936,7 +88679,6 @@ O
 Is the inspection result normal?
 YES
 
-### >> GO TO 3.
 
 ### Erase DTC.
 
@@ -88985,7 +88727,6 @@ Turn ignition switch ON.
 2.
 Check 1st trip DTC.
 
-### Is 1st trip DTC detected?
 
 ### Check 1st trip DTC.
 
@@ -89032,7 +88773,6 @@ Trouble diagnosis name
 DTC detecting condition
 Possible cause
 
-### P0605
 
 ### EC-839
 
@@ -89320,9 +89060,6 @@ INFOID:0000000010096781
 When the selector lever position is P or N, park/neutral position (PNP) signal from the TCM is sent to ECM.
 ECM detects the position because the continuity of the line (the ON signal) exists.
 
-### DTC Logic
-
-### Is the inspection result normal?
 
 ### • TCM
 
@@ -89354,7 +89091,6 @@ NO
 5.PERFORM COMPONENT FUNCTION CHECK
 Perform component function check. Refer to EC-844, "Component Function Check".
 
-### Component Function Check
 
 ### >> INSPECTION END
 
@@ -89833,7 +89569,6 @@ O
 4.
 Also check harness for short to ground and power.
 
-### 4.CHECK VVEL ACTUATOR MOTOR
 
 ### Go to EC-685, "Work Procedure".
 
@@ -90159,7 +89894,6 @@ and electric unit (control unit)” to ECM.
 Be sure to erase the malfunction information such as DTC not only for “ABS actuator and electric unit
 (control unit)” but also for ECM after TCS related repair.
 
-### DTC Logic
 
 ### >> GO TO 2.
 
@@ -90174,7 +89908,6 @@ YES
 NO
 >> INSPECTION END
 
-### Diagnosis Procedure
 
 ### Revision: 2013 November
 
@@ -90369,7 +90102,6 @@ O
 4.CHECK RADIATOR CAP
 Check radiator cap. Refer to CO-13, "RADIATOR CAP : Inspection".
 
-### 6.CHECK ENGINE COOLANT TEMPERATURE SENSOR
 
 ### • CONSULT
 
@@ -90659,7 +90391,6 @@ NO
 >> INSPECTION END
 Diagnosis Procedure
 
-### INFOID:0000000010096818
 
 ### 2.CHECK THROTTLE CONTROL MOTOR RELAY INPUT SIGNAL CIRCUIT-I
 
@@ -90708,7 +90439,6 @@ Check the continuity between IPDM E/R harness connector and ECM harness connecto
 5.
 Also check harness for short to ground and short to power.
 
-### Is the inspection result normal?
 
 ### Terminal
 
@@ -91092,7 +90822,6 @@ Replace malfunctioning electric throttle control actuator.
 Go to EC-876, "Special Repair Requirement".
 >> INSPECTION END
 
-### Special Repair Requirement
 
 ### Connector
 
@@ -91338,7 +91067,6 @@ N
 P
 O
 
-### Also check harness for short to ground and short to power.
 
 ### Is the inspection result normal?
 
@@ -91411,7 +91139,6 @@ Replace malfunctioning electric throttle control actuator.
 Go to EC-882, "Special Repair Requirement".
 >> INSPECTION END
 
-### Special Repair Requirement
 
 ### 2014 Q70
 
@@ -91475,7 +91202,6 @@ YES
 NO
 >> INSPECTION END
 
-### Diagnosis Procedure
 
 ### IPDM E/R
 
@@ -91529,9 +91255,6 @@ P
 O
 P1550 BATTERY CURRENT SENSOR
 
-### DTC Logic
-
-### Turn ignition switch OFF and wait at least 10 seconds.
 
 ### >> GO TO 2.
 
@@ -91743,7 +91466,6 @@ NO
 14.CHECK INTERMITTENT INCIDENT
 Refer to GI-47, "Intermittent Incident".
 
-### >> INSPECTION END
 
 ### 2014 Q70
 
@@ -91799,7 +91521,6 @@ P
 O
 P1551, P1552 BATTERY CURRENT SENSOR
 
-### DTC Logic
 
 ### Turn ignition switch OFF and wait at least 10 seconds.
 
@@ -91824,9 +91545,6 @@ YES
 NO
 >> INSPECTION END
 
-### Diagnosis Procedure
-
-### >> GO TO 2.
 
 ### Is the inspection result normal?
 
@@ -91916,7 +91634,6 @@ Check the following.
 • Camshaft position sensor (PHASE) (bank 2) (Refer to EC-820, "Component Inspection".)
 • Refrigerant pressure sensor (Refer to EC-962, "Diagnosis Procedure".)
 
-### Is the inspection result normal?
 
 ### CKP sensor (POS)
 
@@ -91942,9 +91659,6 @@ Revision: 2013 November
 2014 Q70
 P1551, P1552 BATTERY CURRENT SENSOR
 
-### EC-891
-
-### 13.CHECK BATTERY CURRENT SENSOR
 
 ### 2014 Q70
 
@@ -92053,7 +91767,6 @@ YES
 NO
 >> GO TO 3.
 
-### CKP sensor (POS)
 
 ### 2014 Q70
 
@@ -92177,7 +91890,6 @@ P1554 BATTERY CURRENT SENSOR
 NO
 >> Go to EC-898, "Diagnosis Procedure"
 
-### Diagnosis Procedure
 
 ### 2014 Q70
 
@@ -92404,7 +92116,6 @@ NO
 >> GO TO 6.
 6.REPLACE ACCELERATOR PEDAL ASSEMBLY
 
-### Replace accelerator pedal assembly.
 
 ### Also check harness for short to ground and short to power.
 
@@ -92417,7 +92128,6 @@ NO
 Refer to EC-903, "Component Inspection (Battery Temperature Sensor)".
 ECM
 
-### Sensor
 
 ### Battery current sensor
 
@@ -92482,7 +92192,6 @@ DTC DETECTION LOGIC
 NOTE:
 If DTC P1564 is displayed with DTC P0605, first perform the trouble diagnosis for DTC P0605. Refer to
 
-### Turn ignition switch ON.
 
 ### Check DTC.
 
@@ -92545,7 +92254,6 @@ P1564 ASCD STEERING SWITCH
 2.
 Also check harness for short to ground and short to power.
 
-### 7.CHECK ASCD STEERING SWITCH
 
 ### >> INSPECTION END
 
@@ -92591,7 +92299,6 @@ ECM detects the state of the brake pedal by those two types of input (ON/OFF sig
 Refer to EC-590, "AUTOMATIC SPEED CONTROL DEVICE (ASCD) : System Description" for the ASCD
 function.
 
-### DTC Logic
 
 ### 2014 Q70
 
@@ -92678,7 +92385,6 @@ EC-910
 7.CHECK ASCD BRAKE SWITCH
 Refer to EC-911, "Component Inspection (ASCD Brake Switch)"
 
-### 12.CHECK STOP LAMP SWITCH
 
 ### Connector
 
@@ -92798,7 +92504,6 @@ to EC-838, "DTC Logic".
 • If DTC P1574 is displayed with DTC P0607, first perform the trouble diagnosis for DTC P0607. Refer
 to EC-840, "DTC Logic".
 
-### Always drive vehicle at a safe speed.
 
 ### >> INSPECTION END
 
@@ -93131,7 +92836,6 @@ EC-920
 P1805 BRAKE SWITCH
 P1805 BRAKE SWITCH
 
-### DTC Logic
 
 ### Check 1st trip DTC.
 
@@ -93956,7 +93660,6 @@ Terminal
 M9
 6
 
-### M107
 
 ### Revision: 2013 November
 
@@ -94249,7 +93952,6 @@ NO
 4.CHECK FOR INTAKE AIR LEAK
 1.
 
-### Start engine and run it at idle.
 
 ### Run engine for at least 10 minutes at idle speed.
 
@@ -94424,7 +94126,6 @@ P2A00, P2A03 A/F SENSOR 1
 EC-937
 < DTC/CIRCUIT DIAGNOSIS >
 
-### [VQ37VHR FOR MEXICO]
 
 ### Is “0.000” displayed?
 
@@ -94452,7 +94153,6 @@ Component Function Check
 INFOID:0000000010096885
 1.CHECK ASCD BRAKE SWITCH FUNCTION
 
-### With CONSULT
 
 ### Is the inspection result normal?
 
@@ -94667,7 +94367,6 @@ Check the continuity between cooling fan control module harness connector and gr
 3.
 Also check harness for short to power.
 
-### Is the inspection result normal?
 
 ### Connector
 
@@ -94699,7 +94398,6 @@ Check the continuity between IPDM E/R harness connector and cooling fan control 
 3.
 Also check harness for short to ground and short to power.
 
-### Is the inspection result normal?
 
 ### 6.CHECK COOLING FAN MOTORS -1 AND -2
 
@@ -94767,7 +94465,6 @@ NO
 10.CHECK COOLING FAN RELAY
 Refer to EC-944, "Component Inspection (Cooling Fan Relay)".
 
-### Component Inspection (Cooling Fan Motor)
 
 ### 2014 Q70
 
@@ -94831,7 +94528,6 @@ INFOID:0000000010096894
 The electrical load signal (Headlamp switch signal, rear window defogger switch signal, etc.) is transferred via
 the CAN communication line.
 
-### Component Function Check
 
 ### Is the inspection result normal?
 
@@ -95062,7 +94758,6 @@ INFOID:0000000010096901
 Turn ignition switch OFF.
 2.
 
-### Disconnect ECM harness connector.
 
 ### JMBIA0849ZZ
 
@@ -95104,7 +94799,6 @@ NO
 Turn ignition switch OFF.
 2.
 
-### Disconnect 15A fuse (No. 41) from IPDM E/R.
 
 ### Revision: 2013 November
 
@@ -95218,7 +94912,6 @@ NO
 Turn ignition switch OFF.
 2.
 
-### Disconnect condenser harness connector.
 
 ### Turn ignition switch OFF.
 
@@ -95335,7 +95028,6 @@ NO
 11.CHECK IGNITION COIL WITH POWER TRANSISTOR
 Refer to EC-955, "Component Inspection (Ignition Coil with Power Transistor)".
 
-### Component Inspection (Ignition Coil with Power Transistor)
 
 ### Terminals
 
@@ -95354,7 +95046,6 @@ IGNITION SIGNAL
 3.
 Remove fuel pump fuse (1) in IPDM E/R (2) to release fuel pressure.
 
-### Component Inspection (Condenser)
 
 ### >> INSPECTION END
 
@@ -95847,9 +95538,6 @@ YES
 NO
 >> GO TO 5.
 
-### 5.DETECT MALFUNCTIONING PART
-
-### Continuity
 
 ### < SYMPTOM DIAGNOSIS >
 
@@ -95865,7 +95553,6 @@ Reference
 page
 HARD/NO START/RESTART (EXCP. HA)
 
-### ENGINE STALL
 
 ### EXCESSIVE OIL CONSUMPTION
 
@@ -96241,7 +95928,6 @@ N
 P
 O
 
-### NORMAL OPERATING CONDITION
 
 ### Revision: 2013 November
 
@@ -96497,7 +96183,6 @@ INFOID:0000000010096923
 • Electric load: OFF (Lights, heater fan & rear window defogger)
 • Steering wheel: Kept in straight-ahead position
 
-### Ignition Timing
 
 ### INFOID:0000000010096925
 
@@ -96555,7 +96240,6 @@ PRECAUTION
 PRECAUTIONS
 Precaution for Supplemental Restraint System (SRS) "AIR BAG" and "SEAT BELT
 
-### PRE-TENSIONER"
 
 ### Precaution for Procedure without Cowl Top Cover
 
@@ -96662,7 +96346,6 @@ from ECM, never damage pin terminals (bends or break).
 Check that there are not any bends or breaks on ECM pin terminal, when connecting pin connectors.
 • Securely connect ECM harness connectors.
 
-### A poor connection can cause an extremely high (surge) volt-
 
 ### SEF289H
 
@@ -97437,11 +97120,6 @@ EC-992
 < SYSTEM DESCRIPTION >
 [VK56VD FOR USA AND CANADA]
 
-### COMPONENT PARTS
-
-### COOLING FAN MOTOR
-
-### INFOID:0000000010096945
 
 ### ECM receives the signals as shown in the figure.
 
@@ -97600,7 +97278,6 @@ This solenoid valve is used only for diagnosis, and usually remains
 opened.
 When the vent is closed, under normal purge conditions, the evaporative emission control system is depressurized and allows “EVAP
 
-### Control System” diagnosis.
 
 ### Engine oil temperature
 
@@ -97742,7 +97419,6 @@ The high pressure fuel pump is installed at the front of the engine bank 2 side 
 ECM controls the high pressure fuel pump control solenoid valve built into the high pressure fuel pump and
 adjusts the amount of discharge by changing the suction timing of the low pressure fuel.
 
-### Operating Description
 
 ### JSBIA0285GB
 
@@ -97829,7 +97505,6 @@ The intake valve timing control solenoid valve changes the oil
 amount and direction of flow through intake valve timing control unit
 or stops oil flow.
 
-### The longer pulse width advances valve angle.
 
 ### PBID0206J
 
@@ -97853,7 +97528,6 @@ INFOID:0000000010096969
 The low pressure fuel pump is integrated with a fuel pressure regulator and a fuel filter. This pump is build into the fuel tank.
 ECM controls the low pressure fuel pump via FPCM.
 
-### Malfunction Indicator Lamp (MIL)
 
 ### For details, refer to EC-1027, "Diagnosis Description".
 
@@ -97913,11 +97587,6 @@ resistance of the thermistor decreases in response to the rise in temperature.
 <Reference data>
 *: These data are reference values and are measured between ECM terminals.
 
-### Power Steering Pressure (PSP) Sensor
-
-### Refrigerant Pressure Sensor
-
-### Stop Lamp Switch
 
 ### PBIA9559J
 
@@ -97941,7 +97610,6 @@ EC-1002
 < SYSTEM DESCRIPTION >
 [VK56VD FOR USA AND CANADA]
 
-### COMPONENT PARTS
 
 ### VVEL control shaft position sensor signal.
 
@@ -97951,7 +97619,6 @@ Power supply for the VVEL actuator motor is provided to the VVEL control module 
 relay. VVEL actuator motor relay is ON/OFF controlled by the VVEL control module. In addition, when the
 VVEL actuator motor relay cannot be controlled by the VVEL control module for some reason, it ON/OFF controlled by ECM.
 
-### VVEL Control Module
 
 ### JMBIA0879ZZ
 
@@ -98099,7 +97766,6 @@ ECM memory. The program value is preset by engine operating conditions. These co
 by input signals (for engine speed and intake air and fuel rail pressure) from the crankshaft position sensor,
 camshaft position sensor, mass air flow sensor and the fuel rail pressure sensor.
 
-### VARIOUS FUEL INJECTION INCREASE/DECREASE COMPENSATION
 
 ### FUEL INJECTION CONTROL
 
@@ -98123,7 +97789,6 @@ Camshaft position sensor
 Camshaft position
 Mass air flow sensor
 
-### Amount of intake air
 
 ### Fuel rail pressure
 
@@ -98185,7 +97850,6 @@ control stops in order to maintain stabilized fuel combustion.
 - After shifting from N to D
 - When starting the engine
 
-### MIXTURE RATIO SELF-LEARNING CONTROL
 
 ### FUEL INJECTION TIMING
 
@@ -98567,7 +98231,6 @@ SYSTEM
 EC-1015
 < SYSTEM DESCRIPTION >
 
-### [VK56VD FOR USA AND CANADA]
 
 ### Control shaft
 
@@ -98601,7 +98264,6 @@ INPUT/OUTPUT SIGNAL CHART
 *1: ECM determines the start signal status by the signals of engine speed and battery voltage.
 *2: This signal is sent to the ECM via the CAN communication line.
 
-### Density of oxygen in exhaust gas
 
 ### 2014 Q70
 
@@ -98760,7 +98422,6 @@ operating instructions.
 > Each control unit transmits/receives data but selectively reads required data only.
 > Refer to LAN-34, "CAN COMMUNICATION SYSTEM : CAN Communication Signal Chart", about CAN communication for detail.
 
-### FUEL FILLER CAP WARNING SYSTEM
 
 ### ASCD steering switch
 
@@ -98786,9 +98447,6 @@ FUEL FILLER CAP WARNING SYSTEM : System Description
 INFOID:0000000010097007
 INPUT/OUTPUT SIGNAL CHART
 
-### Input
-
-### Unit/Sensor
 
 ### JSBIA1456GB
 
@@ -98826,7 +98484,6 @@ O
 > Infiniti Drive Mode Selector
 > Infiniti Drive Mode Selector : System Description
 
-### INFOID:0000000010097008
 
 ### Control
 
@@ -99025,7 +98682,6 @@ DIAGNOSIS SYSTEM (ECM)
 DIAGNOSIS DESCRIPTION
 DIAGNOSIS DESCRIPTION : 1st Trip Detection Logic and Two Trip Detection Logic
 
-### DIAGNOSIS DESCRIPTION : DTC and Freeze Frame Data
 
 ### Items
 
@@ -99083,11 +98739,6 @@ Except above
 Revision: 2013 November
 2014 Q70
 
-### DIAGNOSIS SYSTEM (ECM)
-
-### ECM memory.
-
-### Priority
 
 ### Revision: 2013 November
 
@@ -99150,7 +98801,6 @@ System”
 Driving Pattern A
 Refer to EC-1032, "DIAGNOSIS DESCRIPTION : Driving Pattern".
 
-### Driving Pattern B
 
 ### Revision: 2013 November
 
@@ -99177,9 +98827,6 @@ P
 O
 Calculated load value: (Calculated load value in the freeze frame data) x (1±0.1) [%]
 
-### DIAGNOSIS DESCRIPTION : System Readiness Test (SRT) Code
-
-### Revision: 2013 November
 
 ### INFOID:0000000010097018
 
@@ -99220,9 +98867,6 @@ DIAGNOSIS SYSTEM (ECM)
 EC-1035
 < SYSTEM DESCRIPTION >
 
-### INFOID:0000000010097019
-
-### On Board Diagnosis Function
 
 ### Operation Procedure
 
@@ -99279,7 +98923,6 @@ the two consecutive driving cycles.
 cycle.
 • ECM blinks MIL when it detects a malfunction that may damage the three way catalyst (misfire).
 
-### SELF-DIAGNOSTIC RESULTS MODE
 
 ### ECM has entered to “Self-diagnostic results” mode.
 
@@ -99354,11 +98997,6 @@ EC-1038
 DIAGNOSIS SYSTEM (ECM)
 In this way, all the detected malfunctions are classified by their DTC numbers. The DTC 0000 refers to no malfunction. Refer to EC-1077, "DTC Index".
 
-### Turn ignition switch OFF and wait at least 10 seconds.
-
-### CONSULT Function
-
-### SELF DIAGNOSTIC RESULT MODE
 
 ### Diagnostic test mode
 
@@ -99369,9 +99007,6 @@ can be read and erased quickly.*
 Data Monitor
 Input/Output data in the ECM can be read.
 
-### Work support
-
-### ECU Identification
 
 ### < SYSTEM DESCRIPTION >
 
@@ -99419,7 +99054,6 @@ EC-1077, "DTC Index".)
 CAL/LD VALUE [%]
 • The calculated load value at the moment a malfunction is detected is displayed.
 
-### COOLANT TEMP [°C]
 
 ### S-FUEL TRM-B2 [%]
 
@@ -99636,7 +99270,6 @@ ON/OFF
 sensor 2 heater determined by ECM according to
 the input signals.
 
-### OFF: Power generation voltage variable control
 
 ### IDL A/V LEARN
 
@@ -100096,7 +99729,6 @@ If malfunctioning symptom disappears, see CHECK ITEM.
 • Fuel injector
 • Air fuel ratio (A/F) sensor 1
 
-### FUEL/T TEMP
 
 ### SULT.
 
@@ -100206,7 +99838,6 @@ O
 Test Item
 *: DTC P1456 does not apply to Y51 models but appears in DTC Work Support Mode screens.
 
-### SRT & P-DTC MODE
 
 ### PERMANENT DTC STATUS Mode
 
@@ -100335,7 +99966,6 @@ This occurs because the timing light shows a value calculated by ECM according t
 the cam shaft position sensor and other sensors related to ignition timing.
 For outlines of following items, refer to EC-1038, "CONSULT Function".
 
-### CONSULT MONITOR ITEM
 
 ### MAS A/F SE-B2
 
@@ -100686,7 +100316,6 @@ VHCL SPEED SE
 Almost the same speed as
 the speedometer indication
 
-### BRAKE SW1
 
 ### DIST SW
 
@@ -102510,7 +102139,6 @@ O
 100
 (P)
 
-### Heated oxygen sensor 2 (bank
 
 ### 0 - 1.0 V
 
@@ -102618,7 +102246,6 @@ Output
 > (B)
 > High pressure fuel pump (HI)
 
-### Input
 
 ### BATTERY VOLTAGE
 
@@ -102639,7 +102266,6 @@ NOTE:
 The pulse cycle changes depending
 on rpm at idle
 
-### BATTERY VOLTAGE
 
 ### JPBIA3356ZZ
 
@@ -102676,7 +102302,6 @@ O
 175
 (B)
 
-### Fuel injector No. 1 (LO)
 
 ### BATTERY VOLTAGE
 
@@ -103361,7 +102986,6 @@ Engine coolant temperature sensor circuit
 Engine coolant temperature will be determined by ECM based on the following condition.
 CONSULT displays the engine coolant temperature decided by ECM.
 
-### Condition
 
 ### Revision: 2013 November
 
@@ -103414,7 +103038,6 @@ Injector
 • Mixture ratio feedback control does not function.
 • Idle engine speed is increased.
 
-### P0500
 
 ### ECM deactivates ASCD operation.
 
@@ -103441,7 +103064,6 @@ Sensor power supply
 ECM stops the electric throttle control actuator control, throttle valve is maintained at a
 fixed opening (approx. 5 degrees) by the return spring.
 
-### VVEL value is maintained at a fixed angle.
 
 ### P1091
 
@@ -105543,7 +105165,6 @@ O
 *8: When the ECM is in the mode that displays SRT status, MIL may blink. For the details, refer to “How to Display SRT Status”.
 *9: When erasing this DTC, always use CONSULT or GST.
 
-### Test Value and Test Limit
 
 ### P2096
 
@@ -106010,7 +105631,6 @@ BATTERY VOLTAGE
 (L/B)
 14
 
-### (B/R)
 
 ### VVEL control shaft position
 
@@ -106903,7 +106523,6 @@ Study the relationship between the cause detected by DTC and the symptom describ
 3.
 Check related service bulletins for information.
 
-### Are any symptoms described and any DTCs detected?
 
 ### Diagnosis Work Sheet is useful to verify the incident.
 
@@ -107214,7 +106833,6 @@ Check the Following.
 • Check camshaft position sensor and circuit. Refer to EC-1322, "DTC Logic".
 • Check crankshaft position sensor and circuit. Refer to EC-1318, "DTC Logic".
 
-### Is the inspection result normal?
 
 ### SEC-53, "ECM : Work Procedure".
 
@@ -107429,7 +107047,6 @@ Refer to SEC-53, "ECM : Work Procedure".
 7.CHECK ECM DATA STATUS
 Check if the data is successfully copied from the ECM at Step 1 (before replacement) and saved in CONSULT.
 
-### Is the data saved successfully?
 
 ### >> GO TO 10.
 
@@ -107574,7 +107191,6 @@ Throttle Valve Closed Position Learning is a function of ECM to learn the fully 
 valve by monitoring the throttle position sensor output signal. It must be performed each time the harness connector of the electric throttle control actuator or ECM is disconnected or electric throttle control actuator inside
 is cleaned.
 
-### Work Procedure
 
 ### Without CONSULT
 
@@ -107717,7 +107333,6 @@ Rev up engine two or three times and check that idle speed and ignition timing a
 For procedure, refer to EC-1569, "Idle Speed" and EC-1569, "Ignition Timing".
 For specifications, refer to EC-1569, "Idle Speed" and EC-1569, "Ignition Timing".
 
-### Is the inspection result normal?
 
 ### Is the inspection result normal?
 
@@ -108322,7 +107937,6 @@ NO-1
 NO-2
 >> Without CONSULT: GO TO 4.
 
-### 3.DTC CONFIRMATION PROCEDURE
 
 ### Check DTC.
 
@@ -108458,7 +108072,6 @@ INFOID:0000000010097052
 When a DTC is stored in ECM
 When a DTC is stored in ECM and MIL is ON, a permanent DTC is erased with MIL shutoff if the same malfunction is not detected after performing the driving pattern for MIL shutoff three times in a raw.
 
-### When a DTC is not stored in ECM
 
 ### PERMANENT DTC ITEM
 
@@ -108534,7 +108147,6 @@ YES
 >> Repair malfunction(s) and erase DTC. Refer to EC-1035, "On Board Diagnosis Function", EC1038, "CONSULT Function".
 NO
 
-### >> GO TO 2.
 
 ### Is any permanent DTC detected?
 
@@ -108547,7 +108159,6 @@ Perform “DTC CONFIRMATION PROCEDURE” for DTCs which are the same as permanen
 ECM. Refer to EC-1077, "DTC Index".
 >> GO TO 4.
 
-### 4.CHECK PERMANENT DTC
 
 ### Is any permanent DTC detected?
 
@@ -108616,7 +108227,6 @@ P
 O
 4.
 
-### Turn ignition switch ON.
 
 ### With CONSULT
 
@@ -108636,7 +108246,6 @@ Pattern".
 >> GO TO 4.
 4.CHECK PERMANENT DTC
 
-### Is any permanent DTC detected?
 
 ### Revision: 2013 November
 
@@ -108830,7 +108439,6 @@ Start engine.
 Select “A/F ALPHA-B1” and “A/F ALPHA-B2” in “SPEC” of “DATA MONITOR” mode, and check that each
 indication is within the SP value.
 
-### Is the measurement value within the SP value?
 
 ### >> INSPECTION END
 
@@ -110830,7 +110438,6 @@ P0031, P0032, P0051, P0052 A/F SENSOR 1 HEATER
 Is the inspection result normal?
 YES
 
-### >> INSPECTION END
 
 ### >> INSPECTION END
 
@@ -110886,7 +110493,6 @@ Before performing the following procedure, confirm that battery voltage is 11 V 
 Start engine and warm it up to the normal operating temperature.
 2.
 
-### Turn ignition switch OFF and wait at least 10 seconds.
 
 ### Check 1st trip DTC.
 
@@ -110926,11 +110532,6 @@ through the heated oxygen sensor 2 heater.)
 circuit is open or shorted.)
 • Heated oxygen sensor 2 heater
 
-### P0038
-
-### P0057
-
-### P0058
 
 ### Revision: 2013 November
 
@@ -111309,7 +110910,6 @@ P
 O
 P0078, P0084 EVT CONTROL SOLENOID VALVE
 
-### DTC Logic
 
 ### Is 1st trip DTC detected?
 
@@ -111430,7 +111030,6 @@ Disconnect exhaust valve timing control solenoid valve harness connector.
 3.
 Check resistance between exhaust valve timing control solenoid valve terminals as per the following.
 
-### Is the inspection result normal?
 
 ### EVT control solenoid valve
 
@@ -111673,7 +111272,6 @@ Check the continuity between FPCM harness connector and fuel level sensor unit a
 harness connector.
 4.
 
-### Also check harness for short to ground and short to power.
 
 ### DTC No.
 
@@ -111992,7 +111590,6 @@ Select “L/FUEL PRES SEN” in “DATA MONITOR” mode of “ECM” using CONSU
 4.
 Check the following value 30 minutes after turning the ignition switch ON.
 
-### WITHOUT CONSULT
 
 ### Condition
 
@@ -112140,9 +111737,6 @@ DTC DETECTION LOGIC
 NOTE:
 If DTC P0088 is displayed with DTC P0090, first perform the trouble diagnosis for DTC P0090.
 
-### DTC CONFIRMATION PROCEDURE
-
-### Turn ignition switch ON.
 
 ### >> GO TO 2.
 
@@ -112479,7 +112073,6 @@ YES
 NO
 >> Replace the error-detected parts.
 
-### Component Inspection (High Pressure Fuel Pump)
 
 ### Start the engine.
 
@@ -112690,7 +112283,6 @@ Check the following.
 • Loose or poor connection for each connector and harness
 >> Repair or replace error-detected parts.
 
-### Is the inspection result normal?
 
 ### Voltage
 
@@ -112819,9 +112411,6 @@ YES
 NO
 >> Replace mass air flow sensor (bank 2). Refer to EM-191, "Removal and Installation".
 
-### Component Inspection (MAF Sensor)
-
-### Connect CONSULT and select “DATA MONITOR” mode.
 
 ### Reconnect all harness connectors disconnected.
 
@@ -112856,9 +112445,6 @@ P0101, P010B MAF SENSOR
 Is the inspection result normal?
 YES
 
-### >> INSPECTION END
-
-### >> GO TO 3.
 
 ### Condition
 
@@ -112938,13 +112524,6 @@ P
 O
 *: Check for linear voltage rise in response to engine being increased to about 4,000 rpm.
 
-### Is the inspection result normal?
-
-### Connect CONSULT and select “DATA MONITOR” mode.
-
-### Idle to about 4,000 rpm
-
-### Idle to about 4,000 rpm
 
 ### Idle to about 4,000 rpm
 
@@ -112992,7 +112571,6 @@ Idle to about 4,000 rpm
 signal]
 30
 
-### Ignition switch ON (Engine stopped.)
 
 ### Revision: 2013 November
 
@@ -113263,7 +112841,6 @@ Connect CONSULT and select “DATA MONITOR” mode.
 Select “MAS A/F SE-B1” and “MAS A/F SE-B2”, and check the indication.
 *: Check for linear voltage rise in response to engine being increased to about 4,000 rpm.
 
-### WITHOUT CONSULT
 
 ### MAF sensor
 
@@ -113293,7 +112870,6 @@ MAS A/F SE-B1
 MAS A/F SE-B2
 Ignition switch ON (Engine stopped.)
 
-### Approx. 0.4
 
 ### 2014 Q70
 
@@ -113370,9 +112946,6 @@ P010A MANIFOLD ABSOLUTE PRESSURE SENSOR
 DTC Logic
 INFOID:0000000010097104
 
-### DTC DETECTION LOGIC
-
-### Turn ignition switch OFF and wait at least 10 seconds.
 
 ### >> INSPECTION END
 
@@ -113471,7 +113044,6 @@ Refer to GI-47, "Intermittent Incident".
 >> INSPECTION END
 Component Inspection (MAP Sensor)
 
-### INFOID:0000000010097106
 
 ### Measure the atmospheric pressure.
 
@@ -113794,7 +113366,6 @@ EC-1226
 P0112, P0113 IAT SENSOR
 P0112, P0113 IAT SENSOR
 
-### DTC Logic
 
 ### Is 1st trip DTC detected?
 
@@ -113981,7 +113552,6 @@ NO
 If DTC CONFIRMATION PROCEDURE has been previously conducted, always perform the following procedure before conducting the next test.
 1.
 
-### >> GO TO 4.
 
 ### Check 1st trip DTC.
 
@@ -115058,7 +114628,6 @@ INFOID:0000000010097133
 DTC DETECTION LOGIC
 To judge malfunctions, the diagnosis checks that the A/F signal computed by ECM from the A/F sensor 1 signal fluctuates according to fuel feedback control.
 
-### DTC CONFIRMATION PROCEDURE
 
 ### >> GO TO 2.
 
@@ -115516,7 +115085,6 @@ sensor 1 signal is constantly approx. 0 V.
 shorted.)
 • A/F sensor 1
 
-### P0151
 
 ### Revision: 2013 November
 
@@ -115663,7 +115231,6 @@ YES
 NO
 >> Repair or replace malfunctioning part.
 
-### 5.REPLACE A/F SENSOR 1
 
 ### >> INSPECTION END
 
@@ -115889,7 +115456,6 @@ Refer to GI-47, "Intermittent Incident".
 Is the inspection result normal?
 YES
 
-### >> GO TO 5.
 
 ### >> INSPECTION END
 
@@ -116061,7 +115627,6 @@ Select Service $01 with GST.
 3.
 Calculate the total value of “Short term fuel trim” and “Long term fuel trim” indications.
 
-### Is the total percentage within ±15%?
 
 ### 7.PERFORM DTC CONFIRMATION PROCEDURE
 
@@ -116802,7 +116367,6 @@ Check “HO2S2 (B1)/(B2)” at idle speed when adjusting “FUEL INJECTION” to
 “HO2S2 (B1)/(B2)” should be below
 (0.18 V) at least once when the “FUEL INJECTION” is −25%.
 
-### Is the inspection result normal?
 
 ### Let engine idle for 1 minute.
 
@@ -116883,7 +116447,6 @@ P0137, P0157 HO2S2
 Is the inspection result normal?
 YES
 
-### >> INSPECTION END
 
 ### >> INSPECTION END
 
@@ -117048,9 +116611,6 @@ WITH CONSULT
 > Turn ignition switch OFF and wait at least 10 seconds.
 > 3.
 
-### Turn ignition switch ON.
-
-### Select “DATA MONITOR” mode with CONSULT.
 
 ### 11. Follow the instruction of CONSULT display.
 
@@ -117120,7 +116680,6 @@ Let engine idle for 1 minute.
 7.
 Check the voltage between ECM harness connector terminals under the following conditions.
 
-### Is the inspection result normal?
 
 ### >> INSPECTION END
 
@@ -117232,7 +116791,6 @@ Disconnect ECM harness connector.
 Check the continuity between HO2S2 harness connector and ECM harness connector.
 3.
 
-### Also check harness for short to ground and short to power.
 
 ### Also check harness for short to power.
 
@@ -117531,7 +117089,6 @@ NO
 >> GO TO 6.
 3.CHECK HEATED OXYGEN SENSOR 2-I
 
-### WITHOUT CONSULT
 
 ### Is the inspection result normal?
 
@@ -117624,7 +117181,6 @@ EC-1270
 < DTC/CIRCUIT DIAGNOSIS >
 [VK56VD FOR USA AND CANADA]
 
-### P0138, P0158 HO2S2
 
 ### >> INSPECTION END
 
@@ -117724,7 +117280,6 @@ CAN NOT BE DIAGNOSED>>GO TO 3.
 Turn ignition switch OFF and leave the vehicle in a cool place (soak the vehicle).
 2.
 
-### Perform DTC confirmation procedure again.
 
 ### Is the inspection result normal?
 
@@ -117780,7 +117335,6 @@ P0159
 87
 Revision: 2013 November
 
-### 2014 Q70
 
 ### Is the inspection result normal?
 
@@ -117816,7 +117370,6 @@ Disconnect ECM harness connector.
 Check the continuity between HO2S2 harness connector and ECM harness connector.
 5.
 
-### Also check harness for short to ground and short to power.
 
 ### Condition
 
@@ -118015,7 +117568,6 @@ N
 P
 O
 
-### P0171, P0174 FUEL INJECTION SYSTEM FUNCTION
 
 ### Turn ignition switch ON.
 
@@ -118040,7 +117592,6 @@ NO
 Keep engine idle for at least 5 minutes.
 2.
 
-### Check 1st trip DTC.
 
 ### DTC detecting condition
 
@@ -118344,7 +117895,6 @@ P
 O
 P0172, P0175 FUEL INJECTION SYSTEM FUNCTION
 
-### DTC Logic
 
 ### Do not depress accelerator pedal too much.
 
@@ -118517,7 +118067,6 @@ A/F sensor 1
 ECM
 Continuity
 
-### Bank
 
 ### F111
 
@@ -118594,7 +118143,6 @@ DTC DETECTION LOGIC
 DTC CONFIRMATION PROCEDURE
 1.INSPECTION START
 
-### Is it necessary to erase permanent DTC?
 
 ### Turn ignition switch ON.
 
@@ -118702,7 +118250,6 @@ NO
 If DTC CONFIRMATION PROCEDURE has been previously conducted, always perform the following procedure before conducting the next test.
 1.
 
-### >> GO TO 8.
 
 ### Check 1st trip DTC.
 
@@ -118748,7 +118295,6 @@ O
 Check resistance between “fuel level sensor unit and fuel pump
 (main)” terminals by heating with hot water as shown in the figure.
 
-### Is the inspection result normal?
 
 ### Diagnosis Procedure
 
@@ -119047,7 +118593,6 @@ YES
 NO
 >> Replace “fuel level sensor unit and fuel pump”. Refer to FL-6, "Removal and Installation".
 
-### 7.CHECK INTERMITTENT INCIDENT
 
 ### Is the inspection result normal?
 
@@ -119673,9 +119218,6 @@ Check the continuity between FRP sensor harness connector and ECM harness connec
 4.
 Also check harness for short to ground and to power.
 
-### Is inspection result normal?
-
-### Component Inspection (Fuel Rail Pressure Sensor)
 
 ### Revision: 2013 November
 
@@ -119881,7 +119423,6 @@ NO
 If DTC CONFIRMATION PROCEDURE has been previously conducted, always perform the following procedure before conducting the next test.
 1.
 
-### >> GO TO 7.
 
 ### Turn ignition switch OFF and soak the vehicle for 12 hours.
 
@@ -120098,7 +119639,6 @@ is sent to ECM.
 (The EOT sensor circuit is open or shorted.)
 • Engine oil temperature sensor
 
-### P0198
 
 ### Continuity
 
@@ -121295,7 +120835,6 @@ EC-1318
 P0335 CKP SENSOR
 P0335 CKP SENSOR
 
-### DTC Logic
 
 ### TESTING CONDITION:
 
@@ -121409,7 +120948,6 @@ Disconnect ECM harness connector.
 3.
 Check the continuity between CKP sensor harness connector and ECM harness connector.
 
-### Is the inspection result normal?
 
 ### >> GO TO 4.
 
@@ -122278,7 +121816,6 @@ Perform component function check. Refer to EC-1328, "Component Function Check".
 > NO
 > >> Proceed to EC-1329, "Diagnosis Procedure"
 
-### Component Function Check
 
 ### Let engine idle for 1 minute.
 
@@ -122545,7 +122082,6 @@ Trouble diagnosis name
 (Trouble diagnosis content)
 DTC detecting condition
 
-### Possible cause
 
 ### Revision: 2013 November
 
@@ -122676,7 +122212,6 @@ Turn ignition switch OFF.
 2.
 Check EVAP canister for cracks.
 
-### Is the inspection result normal?
 
 ### Start engine and let it idle.
 
@@ -122788,7 +122323,6 @@ Disconnect purge hoses connected to EVAP service port (A)
 and EVAP canister purge volume control solenoid valve (B).
 2.
 
-### Blow air into each hose and EVAP purge port (C).
 
 ### >> GO TO 8.
 
@@ -122899,7 +122433,6 @@ N
 P
 O
 
-### P0443 EVAP CANISTER PURGE VOLUME CONTROL SOLENOID VALVE
 
 ### Turn ignition switch OFF and wait at least 10 seconds.
 
@@ -123290,7 +122823,6 @@ O
 6.
 Touch “Qd” and “Qu” on CONSULT screen to adjust “PURG
 
-### VOL C/V” opening and check air passage continuity of EVAP
 
 ### Check air passage continuity of EVAP canister purge volume
 
@@ -123316,7 +122848,6 @@ P0444, P0445 EVAP CANISTER PURGE VOLUME CONTROL SOLENOID
 VALVE
 P0444, P0445 EVAP CANISTER PURGE VOLUME CONTROL SOLENOID
 
-### VALVE
 
 ### TESTING CONDITION:
 
@@ -123784,7 +123315,6 @@ P0447 EVAP CANISTER VENT CONTROL VALVE
 3.
 Check air passage continuity and operation delay time.
 
-### Check that new O-ring is installed properly.
 
 ### Check that new O-ring is installed properly.
 
@@ -123940,7 +123470,6 @@ NO
 Weigh the EVAP canister with the EVAP canister vent control valve and EVAP control system pressure sensor
 attached.
 
-### The weight should be less than 2.1 kg (4.6 lb).
 
 ### 6.CHECK EVAP CONTROL SYSTEM PRESSURE SENSOR CONNECTOR
 
@@ -124002,9 +123531,6 @@ Turn ignition switch OFF.
 2.
 Remove EVAP canister vent control valve from EVAP canister. Refer to FL-14, "EXCEPT FOR MEXICO :
 
-### Operation takes less than 1 second.
-
-### JMBIA0168ZZ
 
 ### Not existed
 
@@ -124368,7 +123894,6 @@ N
 P
 O
 
-### P0452 EVAP CONTROL SYSTEM PRESSURE SENSOR
 
 ### Turn ignition switch ON.
 
@@ -124548,7 +124073,6 @@ N
 P
 O
 
-### Is the inspection result normal?
 
 ### Pressure Sensor)".)
 
@@ -124561,7 +124085,6 @@ NO
 7.CHECK APP SENSOR
 Refer to EC-1506, "Component Inspection (Accelerator Pedal Position Sensor)".
 
-### Is the inspection result normal?
 
 ### >> INSPECTION END
 
@@ -124719,7 +124242,6 @@ CAUTION:
 • Never apply below -93.3 kPa (-0.952 kg/cm2, -13.53 psi) or pressure over 101.3 kPa (1.033 kg/cm2,
 14.69 psi).
 
-### Is the inspection result normal?
 
 ### Terminal
 
@@ -124749,7 +124271,6 @@ If DTC Confirmation Procedure has been previously conducted, always perform the 
 before conducting the next test.
 1.
 
-### Turn ignition switch ON.
 
 ### DTC No.
 
@@ -124835,7 +124356,6 @@ Disconnect EVAP control system pressure sensor harness connector.
 2.
 Check that water is not inside connectors.
 
-### Is the inspection result normal?
 
 ### Is the inspection result normal?
 
@@ -124905,9 +124425,6 @@ EC-1364
 P0453 EVAP CONTROL SYSTEM PRESSURE SENSOR
 >> Repair open circuit.
 
-### Is the inspection result normal?
-
-### >> INSPECTION END
 
 ### Sensor
 
@@ -125053,7 +124570,6 @@ YES
 NO
 >> Replace EVAP control system pressure sensor. Refer to FL-14, "EXCEPT FOR MEXICO :
 
-### Exploded View".
 
 ### Check if water will drain from the EVAP canister (1).
 
@@ -125171,7 +124687,6 @@ DTC DETECTION LOGIC
 This diagnosis detects leaks in the EVAP line between fuel tank and EVAP canister purge volume control solenoid valve, using the negative pressure caused by decrease of fuel temperature in the fuel tank after turning
 ignition switch OFF.
 
-### If ECM judges there are no leaks, the diagnosis will be OK.
 
 ### DTC CONFIRMATION PROCEDURE
 
@@ -125238,7 +124753,6 @@ O
 If DTC Confirmation Procedure has been previously conducted, always perform the following before conducting the next test.
 1.
 
-### Turn ignition switch OFF and wait at least 10 seconds.
 
 ### Check that “EVAP LEAK DIAG” indication.
 
@@ -125253,7 +124767,6 @@ YES
 >> Proceed toEC-1369, "Diagnosis Procedure".
 NO
 
-### >> INSPECTION END.
 
 ### Turn ignition switch ON.
 
@@ -125285,7 +124798,6 @@ YES
 NO
 >> Replace with genuine NISSAN fuel filler cap. Refer to
 
-### FL-10, "Exploded View".
 
 ### 3.CHECK FUEL FILLER CAP FUNCTION
 
@@ -125396,7 +124908,6 @@ Select “PURG VOL CONT/V” in “ACTIVE TEST” mode.
 Touch “Qu” on CONSULT screen to increase “PURG VOL CONT/V” opening to 100%.
 5.
 
-### Check vacuum hose for vacuum.
 
 ### Stop engine.
 
@@ -125560,7 +125071,6 @@ NO
 >> GO TO 2.
 2.REPLACE FUEL FILLER CAP
 
-### Replace fuel filler cap. Refer to FL-10, "Exploded View".
 
 ### Vacuum:
 
@@ -126073,7 +125583,6 @@ YES
 NO
 >> Replace or replace error-detected parts.
 
-### Revision: 2013 November
 
 ### DTC Logic
 
@@ -126181,7 +125690,6 @@ Perform additional service when replacing ECM. Refer to EC-1133, "Work Procedure
 >> INSPECTION END
 Revision: 2013 November
 
-### 2014 Q70
 
 ### DTC Logic
 
@@ -126278,7 +125786,6 @@ YES
 >> Discover air leakage location and repair.
 NO
 
-### >> GO TO 3.
 
 ### 2014 Q70
 
@@ -126305,7 +125812,6 @@ If DTC Confirmation Procedure has been previously conducted, always perform the 
 before conducting the next test.
 1.
 
-### >> GO TO 2.
 
 ### 3.PERFORM DTC CONFIRMATION PROCEDURE-II
 
@@ -126626,7 +126132,6 @@ NO
 7.CHECK EOP SENSOR SIGNAL CIRCUIT
 1.
 
-### Turn ignition switch OFF.
 
 ### >> GO TO 8.
 
@@ -127934,7 +127439,6 @@ If DTC Confirmation Procedure has been previously conducted, always perform the 
 before conducting the next test.
 1.
 
-### Turn ignition switch OFF and wait at least 10 seconds.
 
 ### Is the inspection result normal?
 
@@ -128819,7 +128323,6 @@ If DTC P1089 or P1092 is displayed with DTC P1608, first perform the trouble dia
 Refer to EC-1492, "DTC Logic".
 DTC CONFIRMATION PROCEDURE
 
-### 1.PRECONDITIONING
 
 ### >> GO TO 2.
 
@@ -129180,7 +128683,6 @@ P
 O
 4.
 
-### Also check harness for short to ground and power.
 
 ### 3.CHECK VVEL ACTUATOR MOTOR
 
@@ -129642,7 +129144,6 @@ INFOID:0000000010097289
 This diagnosis result is detected when the fuel level of the fuel tank is extremely low and the engine does not
 run normally.
 
-### DTC Logic
 
 ### TESTING CONDITION:
 
@@ -129942,7 +129443,6 @@ P1217 ENGINE OVER TEMPERATURE
 EC-1429
 < DTC/CIRCUIT DIAGNOSIS >
 
-### [VK56VD FOR USA AND CANADA]
 
 ### >> GO TO 2.
 
@@ -130073,7 +129573,6 @@ N
 P
 O
 
-### P1220 FUEL PUMP CONTROL MODULE (FPCM)
 
 ### Turn ignition switch OFF and wait at least 10 seconds.
 
@@ -130466,7 +129965,6 @@ Check that no foreign matter is caught between the throttle valve and the housin
 Is the inspection result normal?
 YES
 
-### >> GO TO 2.
 
 ### >> INSPECTION END
 
@@ -130864,9 +130362,6 @@ EC-1440
 [VK56VD FOR USA AND CANADA]
 P1236, P2118 THROTTLE CONTROL MOTOR
 
-### P1236, P2118 THROTTLE CONTROL MOTOR
-
-### Turn ignition switch OFF and wait at least 10 seconds.
 
 ### Check DTC.
 
@@ -131010,7 +130505,6 @@ Disconnect electric throttle control actuator harness connector.
 3.
 Check resistance between electric throttle control actuator terminals as per the following.
 
-### Is the inspection result normal?
 
 ### Electric throttle control actuator
 
@@ -131032,7 +130526,6 @@ EC-1442
 [VK56VD FOR USA AND CANADA]
 P1238, P2119 ELECTRIC THROTTLE CONTROL ACTUATOR
 
-### P1238, P2119 ELECTRIC THROTTLE CONTROL ACTUATOR
 
 ### TESTING CONDITION:
 
@@ -131178,7 +130671,6 @@ NOTE:
 If DTC P1239 or P2135 is displayed with DTC P0643, first perform the trouble diagnosis for DTC P0643.
 Refer to EC-1402, "DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### >> GO TO 2.
 
@@ -131404,7 +130896,6 @@ Less than 4.75
 69
 Accelerator pedal: Fully released
 
-### More than 0.36
 
 ### Accelerator pedal: Fully released
 
@@ -132012,7 +131503,6 @@ Terminal
 E21
 1
 
-### M160
 
 ### Refrigerant pressure sensor
 
@@ -132070,7 +131560,6 @@ NO
 9.CHECK BATTERY CURRENT SENSOR
 Refer to EC-1455, "Component Inspection (Battery Current Sensor)".
 
-### Is the inspection result normal?
 
 ### Check the voltage between ECM harness connector terminals
 
@@ -132170,7 +131659,6 @@ YES
 NO
 >> INSPECTION END
 
-### Diagnosis Procedure
 
 ### Is the inspection result normal?
 
@@ -132242,7 +131730,6 @@ NO
 3.CHECK SENSOR POWER SUPPLY CIRCUIT
 Check harness for short to power and short to ground, between the following terminals.
 
-### Is the inspection result normal?
 
 ### Is the inspection result normal?
 
@@ -132256,7 +131743,6 @@ Replace accelerator pedal assembly.
 ASSIST SYSTEM : Removal and Installation"
 • Models with Distance Control Assist system: ACC-4, "MODELS WITH DISTANCE CONTROL ASSIST SYS-
 
-### TEM : Removal and Installation"
 
 ### 2014 Q70
 
@@ -132413,7 +131899,6 @@ TESTING CONDITION:
 • Before performing the following procedure, confirm that battery voltage is 12.8 V or more at idle.
 • Before performing the following procedure, confirm that all load switches and A/C switch are turned
 
-### OFF.
 
 ### WITHOUT CONSULT
 
@@ -132461,7 +131946,6 @@ YES
 NO
 >> Proceed to EC-1462, "Diagnosis Procedure".
 
-### Diagnosis Procedure
 
 ### Is the inspection result normal?
 
@@ -132597,7 +132081,6 @@ Replace accelerator pedal assembly.
 ASSIST SYSTEM : Removal and Installation"
 • Models with Distance Control Assist system: ACC-3, "MODELS WITHOUT DISTANCE CONTROL ASSIST
 
-### SYSTEM : Removal and Installation"
 
 ### Also check harness for short to ground and short to power.
 
@@ -132713,7 +132196,6 @@ P1556, P1557 BATTERY TEMPERATURE SENSOR
 DTC Logic
 INFOID:0000000010097332
 
-### DTC DETECTION LOGIC
 
 ### >> GO TO 2.
 
@@ -132771,7 +132253,6 @@ shorted.)
 • EVAP control system pressure sensor
 • Refrigerant pressure sensor
 
-### P1557
 
 ### Connector
 
@@ -133275,7 +132756,6 @@ Check the continuity between combination switch and ECM harness connector.
 5.
 Also check harness for short to ground and short to power.
 
-### Is the inspection result normal?
 
 ### 4.CHECK ICC STEERING SWITCH INPUT SIGNAL CIRCUIT FOR OPEN AND SHORT
 
@@ -133942,7 +133422,6 @@ EC-1480
 P1572 ICC BRAKE SWITCH
 P1572 ICC BRAKE SWITCH
 
-### DTC Logic
 
 ### DTC CONFIRMATION PROCEDURE
 
@@ -134192,7 +133671,6 @@ YES
 NO
 >> Replace ICC brake switch. Refer to BR-18, "Exploded View".
 
-### 8.CHECK STOP LAMP SWITCH POWER SUPPLY CIRCUIT
 
 ### Terminal
 
@@ -134253,7 +133731,6 @@ Disconnect ICC brake switch harness connector.
 3.
 Check the continuity between ICC brake switch terminals under the following conditions.
 
-### Is the inspection result normal?
 
 ### Is the inspection result normal?
 
@@ -134533,7 +134010,6 @@ Turn ignition switch OFF and wait at least 10 seconds.
 2.PERFORM DTC CONFIRMATION PROCEDURE
 1.
 
-### Start engine (VDC switch OFF).
 
 ### Check DTC.
 
@@ -134547,7 +134023,6 @@ INFOID:0000000010097357
 1.CHECK DTC WITH TCM
 Check DTC with TCM. Refer to TM-61, "CONSULT Function".
 
-### Is the inspection result normal?
 
 ### • TCM
 
@@ -135034,7 +134509,6 @@ Check the voltage between stop lamp switch harness connector and ground.
 Is the inspection result normal?
 YES
 
-### >> GO TO 4.
 
 ### DTC No.
 
@@ -135576,7 +135050,6 @@ P2100, P2103 THROTTLE CONTROL MOTOR RELAY
 P2100, P2103 THROTTLE CONTROL MOTOR RELAY
 DTC Logic
 
-### INFOID:0000000010097372
 
 ### TESTING CONDITION:
 
@@ -135682,9 +135155,6 @@ P
 O
 NO
 
-### >> GO TO 2.
-
-### >> GO TO 4.
 
 ### 5.CHECK FUSE
 
@@ -135947,7 +135417,6 @@ YES
 >> INSPECTION END
 NO
 
-### >> GO TO 2.
 
 ### >> INSPECTION END
 
@@ -136001,7 +135470,6 @@ P2127, P2128 APP SENSOR
 DTC Logic
 INFOID:0000000010097377
 
-### DTC DETECTION LOGIC
 
 ### >> GO TO 2.
 
@@ -136198,9 +135666,6 @@ Disconnect ECM harness connector.
 Check the continuity between APP sensor harness connector and ECM harness connector.
 4.
 
-### Also check harness for short to ground and short to power.
-
-### 8.CHECK APP SENSOR 2 INPUT SIGNAL CIRCUIT FOR OPEN AND SHORT
 
 ### >> GO TO 9.
 
@@ -136409,7 +135874,6 @@ EC-1512
 P2138 APP SENSOR
 YES
 
-### >> GO TO 3.
 
 ### 3.CHECK APP SENSOR 2 POWER SUPPLY CIRCUIT-I
 
@@ -136870,7 +136334,6 @@ NO
 2.CHECK LOW FUEL PRESSURE SENSOR POWER SUPPLY-II
 Check the voltage between low fuel pressure sensor harness connector and the ground.
 
-### Is inspection result normal?
 
 ### Is inspection result normal?
 
@@ -137119,7 +136582,6 @@ Component Function Check
 INFOID:0000000010097386
 1.CHECK ASCD BRAKE SWITCH FUNCTION
 
-### WITH CONSULT
 
 ### Is the inspection result normal?
 
@@ -137152,7 +136614,6 @@ Check the following.
 • Loose or poor connection for each connector and harness
 >> Repair open circuit or short to ground in harness or connectors.
 
-### 3.CHECK ASCD BRAKE SWITCH INPUT SIGNAL CIRCUIT FOR OPEN AND SHORT
 
 ### ASCD brake switch
 
@@ -137292,7 +136753,6 @@ NO
 >> Repair or replace malfunctioning part.
 ASCD INDICATOR
 
-### CONDITION
 
 ### Revision: 2013 November
 
@@ -138206,7 +137666,6 @@ Connector
 Terminal
 Connector
 
-### Terminal
 
 ### BATTERY VOLTAGE
 
@@ -138924,7 +138383,6 @@ NO
 Refer to GI-47, "Intermittent Incident".
 >> INSPECTION END
 
-### Component Inspection (Ignition Coil with Power Transistor)
 
 ### Is the inspection result normal?
 
@@ -139037,7 +138495,6 @@ metal portion.
 > NO
 > >> Replace malfunctioning ignition coil with power transistor. Refer to EM-193, "Exploded View".
 
-### Component Inspection (Condenser)
 
 ### >> INSPECTION END
 
@@ -140539,7 +139996,6 @@ Symptom Table
 INFOID:0000000010097427
 SYSTEM －DRIVE MODE SELECTOR －
 
-### Malfunction
 
 ### The central switch of the navi-
 
@@ -140917,9 +140373,6 @@ O
 SERVICE DATA AND SPECIFICATIONS (SDS)
 SERVICE DATA AND SPECIFICATIONS (SDS)
 
-### Idle Speed
-
-### INFOID:0000000010097437
 
 ### Mass Air Flow Sensor
 
@@ -140961,9 +140414,6 @@ PRECAUTION
 PRECAUTIONS
 Precaution for Supplemental Restraint System (SRS) "AIR BAG" and "SEAT BELT
 
-### PRE-TENSIONER"
-
-### Precaution for Procedure without Cowl Top Cover
 
 ### PIIB3706J
 
@@ -141001,7 +140451,6 @@ O
 > The ECM has an on board diagnostic system. It will illuminate the malfunction indicator lamp (MIL) to warn the
 > driver of a malfunction causing emission deterioration.
 
-### SEF289H
 
 ### SEF289H
 
@@ -141032,7 +140481,6 @@ P
 O
 • Before replacing ECM, perform ECM Terminals and Reference
 
-### Value inspection and check that ECM functions properly.
 
 ### Accidental contact of probes will cause a short circuit and
 
@@ -141059,7 +140507,6 @@ control systems depending on installation location.
 - Keep the antenna feeder line more than 20 cm (8 in) away
 from the harness of electronic controls.
 
-### Never let them run parallel for a long distance.
 
 ### EC-1575
 
@@ -141090,7 +140537,6 @@ INFOID:0000000010097446
 Tool number
 (Kent-Moore No.)
 
-### Tool name
 
 ### Applys positive pressure through EVAP service
 
@@ -141123,9 +140569,6 @@ installing a new oxygen sensor. Use with antiseize lubricant shown below.
 a: 18 mm diameter with pitch 1.5 mm for Zirconia Oxygen Sensor
 b: 12 mm diameter with pitch 1.25 mm for Titania Oxygen Sensor
 
-### AEM488
-
-### INFOID:0000000010097447
 
 ### Refrigerant pressure sensor
 
@@ -141496,9 +140939,6 @@ AV control unit
 Refer to AV-11, "Component Parts
 Location" (BASE AUDIO WITHOUT
 
-### NAVIGATION).
-
-### A/C auto amp.
 
 ### Revision: 2013 November
 
@@ -141525,9 +140965,6 @@ P
 O
 *: ECO pedal control is only for vehicles with intelligent pedal (distance control assist).
 
-### Accelerator Pedal Position Sensor
-
-### Air Fuel Ratio (A/F) Sensor 1
 
 ### Battery Current Sensor (With Battery Temperature Sensor)
 
@@ -141554,7 +140991,6 @@ ECM sends the calculated value as the power generation command
 value to IPDM E/R. For the details of the power generation voltage
 variable control, refer to CHG-9, "POWER GENERATION VOLTAGE
 
-### Camshaft Position Sensor
 
 ### ECM receives the signals as shown in the figure.
 
@@ -141638,7 +141074,6 @@ The current opening angle of the throttle valve is detected by the throttle posi
 sensor provides feedback to the ECM, when opens/closes the throttle valve in response to driving conditions
 via the throttle control motor.
 
-### Engine Coolant Temperature Sensor
 
 ### JSBIA0270GB
 
@@ -141784,9 +141219,6 @@ decreases as temperature increases.
 <Reference data>
 *: These data are reference values and are measured between ECM terminals.
 
-### Heated Oxygen Sensor 2
-
-### High Pressure Fuel Pump
 
 ### Fuel temperature [°C (°F)]
 
@@ -141857,7 +141289,6 @@ measures fuel pressure in the fuel rail. The sensor transmits voltage
 signal to the ECM. As the pressure increases, the voltage rises. The
 ECM controls the fuel pressure in the fuel rail by operating high pressure fuel pump. The ECM uses the signal from fuel rail pressure sensor as a feedback signal.
 
-### ICC Brake Switch
 
 ### ICC Steering Switch
 
@@ -141866,11 +141297,6 @@ ICC steering switch has variant values of electrical resistance for each button.
 switch, and determines which button is operated.
 Ignition Coil With Power Transistor
 
-### INFOID:0000000010097473
-
-### Information Display
-
-### CEL is indicated on the information display.
 
 ### The longer pulse width advances valve angle.
 
@@ -141909,7 +141335,6 @@ INFOID:0000000010097478
 The low pressure fuel pump is integrated with a fuel pressure regulator and a fuel filter. This pump is build into the fuel tank.
 ECM controls the low pressure fuel pump via FPCM.
 
-### Malfunction Indicator Lamp (MIL)
 
 ### For details, refer to EC-1615, "Diagnosis Description".
 
@@ -141962,7 +141387,6 @@ greater the heat loss.
 Therefore, the electric current supplied to hot wire is changed to
 maintain the temperature of the hot wire as air flow increases. The
 
-### Power Steering Pressure (PSP) Sensor
 
 ### JMBIA0877ZZ
 
@@ -141986,11 +141410,6 @@ EC-1594
 < SYSTEM DESCRIPTION >
 [VK56VD FOR MEXICO]
 
-### COMPONENT PARTS
-
-### Stop Lamp Switch
-
-### VVEL Actuator Motor
 
 ### VVEL control shaft position sensor signal.
 
@@ -142000,7 +141419,6 @@ Power supply for the VVEL actuator motor is provided to the VVEL control module 
 relay. VVEL actuator motor relay is ON/OFF controlled by the VVEL control module. In addition, when the
 VVEL actuator motor relay cannot be controlled by the VVEL control module for some reason, it ON/OFF controlled by ECM.
 
-### VVEL Control Module
 
 ### PBIB2657E
 
@@ -142050,7 +141468,6 @@ Revision: 2013 November
 EC-1596
 < SYSTEM DESCRIPTION >
 
-### [VK56VD FOR MEXICO]
 
 ### PBIB1068E
 
@@ -142139,7 +141556,6 @@ Homogeneous Combustion
 Homogeneous combustion is a combustion method that fuel is injected during intake process so that combustion occurs in the entire combustion chamber, as is common with conventional methods.
 As for a start except for starts with the engine cold, homogeneous combustion occurs.
 
-### MIXTURE RATIO FEEDBACK CONTROL (CLOSED LOOP CONTROL)
 
 ### FUEL INJECTION TIMING
 
@@ -142275,7 +141691,6 @@ P
 O
 INTAKE VALVE TIMING CONTROL
 
-### INTAKE VALVE TIMING CONTROL : System Diagram
 
 ### Engine oil temperature sensor
 
@@ -142300,9 +141715,6 @@ INFOID:0000000010097504
 INPUT/OUTPUT SIGNAL CHART
 *: This signal is sent to the ECM via the CAN Communication line
 
-### Engine oil temperature sensor
-
-### [VK56VD FOR MEXICO]
 
 ### Control shaft
 
@@ -142327,7 +141739,6 @@ EC-1608
 SYSTEM
 EVAPORATIVE EMISSION SYSTEM
 
-### EVAPORATIVE EMISSION SYSTEM : System Diagram
 
 ### Density of oxygen in exhaust gas
 
@@ -142449,7 +141860,6 @@ N
 P
 O
 
-### Infiniti Drive Mode Selector : System Description
 
 ### Control
 
@@ -142507,7 +141917,6 @@ reaction force is generated in common with ECO mode until the accelerator pedal 
 - Accelerator pedal is depressed quickly.
 - Selector lever is in N or R range.
 
-### ALTERNATOR POWER GENERATION VOLTAGE VARIABLE CONTROL SYS-
 
 ### Diagram".
 
@@ -142572,7 +141981,6 @@ DIAGNOSIS SYSTEM (ECM)
 DIAGNOSIS DESCRIPTION
 DIAGNOSIS DESCRIPTION : 1st Trip Detection Logic and Two Trip Detection Logic
 
-### DIAGNOSIS DESCRIPTION : DTC and Freeze Frame Data
 
 ### Misfire (Possible three way catalyst
 
@@ -142603,9 +142011,6 @@ Except above
 Revision: 2013 November
 2014 Q70
 
-### DIAGNOSIS SYSTEM (ECM)
-
-### ECM memory.
 
 ### Revision: 2013 November
 
@@ -142662,7 +142067,6 @@ Calculated load value: (Calculated load value in the freeze frame data) x (1±0.
 • When the freeze frame data shows lower than 70°C (158°F), T should be lower than 70°C (158°F).
 • When the freeze frame data shows higher than or equal to 70°C (158°F), T should be higher than or equal to
 
-### 70°C (158°F).
 
 ### (158°F)
 
@@ -142818,7 +142222,6 @@ stored in ECM.
 > Self-diagnosis result
 > Example
 
-### Diagnosis
 
 ### Case 2
 
@@ -142876,7 +142279,6 @@ EC-1624
 DIAGNOSIS SYSTEM (ECM)
 DIAGNOSIS DESCRIPTION : Malfunction Indicator Lamp (MIL)
 
-### On Board Diagnosis Function
 
 ### Operation Procedure
 
@@ -142936,9 +142338,6 @@ MALFUNCTION WARNING MODE
 In this function ECM turns on or blinks MIL when it detects a malfunction in the emission control system components and/or the powertrain control components (which affect vehicle emissions) to inform the driver that a
 malfunction has been detected.
 
-### Operation Procedure
-
-### SELF-DIAGNOSTIC RESULTS MODE
 
 ### ECM has entered to SELF-DIAGNOSTIC RESULTS mode.
 
@@ -142952,7 +142351,6 @@ DIAGNOSIS SYSTEM (ECM)
 NOTE:
 Wait until the same DTC (or 1st trip DTC) appears to completely confirm all DTCs.
 
-### How to Read Self diagnostic Results
 
 ### PBIB0092E
 
@@ -143015,11 +142413,6 @@ P
 O
 In this way, all the detected malfunctions are classified by their DTC numbers. The DTC 0000 refers to no malfunction. Refer to EC-1664, "DTC Index".
 
-### Turn ignition switch OFF and wait at least 10 seconds.
-
-### CONSULT Function
-
-### SELF DIAGNOSTIC RESULT MODE
 
 ### ECU Identification
 
@@ -143174,7 +142567,6 @@ ON/OFF
 • The control condition of the power generation
 voltage variable control (determined by ECM according to the input signals) is indicated.
 
-### ON: Power generation voltage variable control is
 
 ### ON/OFF
 
@@ -143402,7 +142794,6 @@ FUEL PUMP DUTY
 module (FPCM) (determined by ECM according
 to the input signals) is indicated.
 
-### Monitored item
 
 ### FUEL PRESSURE RELEASE
 
@@ -143447,7 +142838,6 @@ When adjusting target ignition timing
 CLSD THL POS LEARN
 • Ignition switch ON and engine stopped
 
-### When learning the throttle valve
 
 ### When ECM is replaced.
 
@@ -143628,9 +143018,6 @@ NOTE:
 • Numerical values in the following table are reference values.
 • These values are input/output values that ECM receives/transmits and may differ from actual operations.
 
-### Example:
-
-### CONSULT MONITOR ITEM
 
 ### MAS A/F SE-B2
 
@@ -143749,7 +143136,6 @@ the engine
 Blower fan switch: ON
 ON
 
-### Blower fan switch: OFF
 
 ### Idle
 
@@ -143974,7 +143360,6 @@ TP SEN 1-B2
 • Selector lever: D position
 Accelerator pedal: Fully released
 
-### More than 0.36 V
 
 ### Less than 4.75 V
 
@@ -144134,7 +143519,6 @@ MID
 • Engine: Idle
 • Engine coolant temperature: More than
 
-### HO2 S2 DIAG2(B2)
 
 ### Idle
 
@@ -144721,7 +144105,6 @@ O
 (B)
 Fuel injector driver power supply
 
-### Input
 
 ### 2.9 - 8.8 V
 
@@ -144782,9 +144165,6 @@ ECM
 (B)
 Heated oxygen sensor 2 heater (bank 2)
 
-### Output
-
-### 2.9 - 8.8 V
 
 ### 7 - 12 V
 
@@ -144908,7 +144288,6 @@ EC-1650
 ECM
 64
 
-### (GR)
 
 ### Sensor ground
 
@@ -145105,7 +144484,6 @@ Sensor power supply
 (W)
 69
 
-### (O/L)
 
 ### 0 - 1.0 V
 
@@ -145188,7 +144566,6 @@ Input
 • Selector lever: D position
 • Accelerator pedal: Fully released
 
-### Camshaft position sensor
 
 ### 0 - 1.0 V
 
@@ -145316,7 +144693,6 @@ O
 175
 (B)
 
-### High pressure fuel pump (HI)
 
 ### BATTERY VOLTAGE
 
@@ -145753,7 +145129,6 @@ ECM
 EC-1659
 < ECU DIAGNOSIS INFORMATION >
 
-### [VK56VD FOR MEXICO]
 
 ### Fail-safe
 
@@ -145796,7 +145171,6 @@ page
 Malfunction indicator
 lamp circuit
 
-### Engine speed will not rise
 
 ### EC-2020,
 
@@ -145850,7 +145224,6 @@ P0102
 P0103
 P010C
 
-### P010D
 
 ### Therefore, the acceleration will be poor.
 
@@ -145898,7 +145271,6 @@ The signal is not energized to the intake valve timing control solenoid valve an
 control does not function.
 Engine speed will not rise more than 2,400 rpm due to the fuel cut.
 
-### VVEL value is maintained at a fixed angle.
 
 ### P1091
 
@@ -145920,11 +145292,6 @@ fixed opening (approx. 5 degrees) by the return spring.
 P1236
 P2118
 
-### Throttle control motor
-
-### P2100
-
-### P1608
 
 ### Engine operating condition in fail-safe mode
 
@@ -147502,7 +146869,6 @@ O
 *6: When the ECM is in the mode that displays SRT status, MIL may blink. For the details, refer to “How to Display SRT Status”.
 *7: When erasing this DTC, always use CONSULT or GST.
 
-### Test Value and Test Limit
 
 ### P2128
 
@@ -147759,7 +147125,6 @@ P0137
 08H
 0CH
 
-### Maximum sensor output voltage for
 
 ### Minimum sensor output voltage for test
 
@@ -148013,7 +147378,6 @@ EGR
 SYSTEM
 31H
 
-### EGR function
 
 ### Scaling
 
@@ -148072,7 +147436,6 @@ HEATER
 41H
 A/F sensor 1 heater (Bank 1)
 
-### Low Input: P0031
 
 ### Cylinder A/F imbalance monitoring
 
@@ -148817,7 +148180,6 @@ Study the relationship between the cause detected by DTC and the symptom describ
 (Symptom Matrix Chart is useful. Refer to EC-2023, "Symptom Table".)
 3.
 
-### Check related service bulletins for information.
 
 ### 3.CONFIRM THE SYMPTOM
 
@@ -149079,9 +148441,6 @@ Perform EC-1723, "Work Procedure".
 13.PERFORM IDLE AIR VOLUME LEARNING
 Perform EC-1724, "Work Procedure".
 
-### Is Idle Air Volume Learning carried out successfully?
-
-### For specification, refer to EC-2036, "Idle Speed".
 
 ### For specification, refer to EC-2036, "Ignition Timing".
 
@@ -149280,9 +148639,6 @@ EC-1722
 ACCELERATOR PEDAL RELEASED POSITION LEARNING
 ACCELERATOR PEDAL RELEASED POSITION LEARNING
 
-### Description
-
-### Work Procedure
 
 ### Turn ignition switch OFF and wait at least 10 seconds.
 
@@ -149318,7 +148674,6 @@ Throttle Valve Closed Position Learning is a function of ECM to learn the fully 
 valve by monitoring the throttle position sensor output signal. It must be performed each time the harness connector of the electric throttle control actuator or ECM is disconnected or electric throttle control actuator inside
 is cleaned.
 
-### Work Procedure
 
 ### Turn ignition switch OFF and wait at least 10 seconds.
 
@@ -149331,9 +148686,6 @@ EC-1724
 [VK56VD FOR MEXICO]
 IDLE AIR VOLUME LEARNING
 
-### IDLE AIR VOLUME LEARNING
-
-### Work Procedure
 
 ### Will CONSULT be used?
 
@@ -149406,7 +148758,6 @@ Rev up engine two or three times and check that idle speed and ignition timing a
 For procedure, refer to EC-2036, "Idle Speed" and EC-2036, "Ignition Timing".
 For specifications, refer to EC-2036, "Idle Speed" and EC-2036, "Ignition Timing".
 
-### Is the inspection result normal?
 
 ### >> INSPECTION END
 
@@ -149424,7 +148775,6 @@ VVEL control shaft position sensor adjustment is an operation to adjust the init
 shaft position sensor.
 It must be performed each time VVEL actuator sub assembly is replaced.
 
-### Work Procedure
 
 ### 12. Turn ignition switch OFF and wait at least 10 seconds.
 
@@ -149436,9 +148786,6 @@ Without CONSULT
 Disconnect VVEL control shaft position sensor harness connector.
 2.
 
-### Remove VVEL actuator motor relay.
-
-### EC-1727
 
 ### 13. Turn ignition switch OFF and wait at least 10 seconds.
 
@@ -149525,7 +148872,6 @@ P
 O
 FUEL PRESSURE
 
-### Work Procedure
 
 ### Turn ignition switch OFF.
 
@@ -149550,7 +148896,6 @@ NOTE:
 > < BASIC INSPECTION >
 > [VK56VD FOR MEXICO]
 
-### FUEL PRESSURE
 
 ### Tightening torque
 
@@ -149640,7 +148985,6 @@ OUTLINE
 In order to set all SRTs, the self-diagnoses as in the “SRT ITEM” table must have been performed at least
 once. Each diagnosis may require actual driving for a long period of time under various conditions.
 
-### SRT ITEM
 
 ### SRT item*1
 
@@ -149769,7 +149113,6 @@ NO-1
 NO-2
 >> Without CONSULT: GO TO 4.
 
-### 3.DTC CONFIRMATION PROCEDURE
 
 ### Check DTC.
 
@@ -149794,7 +149137,6 @@ In order to set all SRTs, the SRT set driving pattern must be performed at least
 > < BASIC INSPECTION >
 > [VK56VD FOR MEXICO]
 
-### HOW TO SET SRT CODE
 
 ### 8.PATTERN 4
 
@@ -149853,9 +149195,6 @@ or more malfunctions.
 The SP value is used to detect malfunctions that may affect the Engine Control System, but will not illuminate
 the MIL.
 
-### Component Function Check
-
-### >> GO TO 2.
 
 ### Check that monitor items are within the SP value.
 
@@ -149899,7 +149238,6 @@ N
 P
 O
 
-### DETAILED PROCEDURE
 
 ### JMBIA0056GB
 
@@ -149993,7 +149331,6 @@ Engine oil viscosity
 Belt tension of power steering, alternator, A/C compressor, etc. is excessive
 -
 
-### >> GO TO 19.
 
 ### >> GO TO 21.
 
@@ -150116,7 +149453,6 @@ POWER SUPPLY AND GROUND CIRCUIT
 Reconnect ECM harness connector.
 2.
 
-### Turn ignition switch ON.
 
 ### 2014 Q70
 
@@ -150524,7 +149860,6 @@ O
 > NO
 > >> INSPECTION END
 
-### Diagnosis Procedure
 
 ### >> GO TO 2.
 
@@ -150578,7 +149913,6 @@ Disconnect intake valve timing control solenoid valve harness connector.
 3.
 Check resistance between intake valve timing control solenoid valve terminals as per the following.
 
-### Is the inspection result normal?
 
 ### JMBIA0962ZZ
 
@@ -150739,7 +150073,6 @@ EC-1760
 < DTC/CIRCUIT DIAGNOSIS >
 [VK56VD FOR MEXICO]
 
-### P0014, P0024 EVT CONTROL
 
 ### Refer to GI-47, "Intermittent Incident".
 
@@ -150814,7 +150147,6 @@ EC-1762
 [VK56VD FOR MEXICO]
 P0031, P0032, P0051, P0052 A/F SENSOR 1 HEATER
 
-### P0031, P0032, P0051, P0052 A/F SENSOR 1 HEATER
 
 ### TESTING CONDITION:
 
@@ -150860,7 +150192,6 @@ P0031, P0032, P0051, P0052 A/F SENSOR 1 HEATER
 EC-1763
 < DTC/CIRCUIT DIAGNOSIS >
 
-### Is the inspection result normal?
 
 ### >> INSPECTION END
 
@@ -150888,7 +150219,6 @@ P0031, P0032, P0051, P0052 A/F SENSOR 1 HEATER
 Is the inspection result normal?
 YES
 
-### >> INSPECTION END
 
 ### >> INSPECTION END
 
@@ -150921,7 +150251,6 @@ N
 P
 O
 
-### P0037, P0038, P0057, P0058 HO2S2 HEATER
 
 ### Check 1st trip DTC.
 
@@ -151021,7 +150350,6 @@ Turn ignition switch OFF.
 Disconnect heated oxygen sensor 2 (HO2S2) harness connector.
 3.
 
-### Check resistance between HO2S2 terminals as follows.
 
 ### >> INSPECTION END
 
@@ -151112,7 +150440,6 @@ Refer to GI-47, "Intermittent Incident".
 >> INSPECTION END
 Component Inspection (Intake Valve Timing Control Solenoid Valve)
 
-### Is the inspection result normal?
 
 ### JMBIA0079ZZ
 
@@ -151202,7 +150529,6 @@ Provide 12 V DC between exhaust valve timing control solenoid
 valve terminals 1 and 2, and then interrupt it. Check that the
 plunger moves as shown in the figure.
 
-### Is the inspection result normal?
 
 ### JMBIA0079ZZ
 
@@ -151463,7 +150789,6 @@ NO
 4.CHECK HIGH PRESSURE FUEL PUMP
 Check high pressure fuel pump. Refer to EC-1779, "Component Inspection (High Pressure Fuel Pump)".
 
-### WITHOUT CONSULT
 
 ### Condition
 
@@ -151514,7 +150839,6 @@ YES
 NO
 >> Replace low pressure fuel pump. Refer to FL-6, "Removal and Installation".
 
-### Component Inspection (High Pressure Fuel Pump)
 
 ### >> INSPECTION END
 
@@ -151599,7 +150923,6 @@ cm2, 2392.5 psi) for 1 second or more
 during engine idle condition after cold
 start [water temperature 5°C (41°F) -
 
-### 40°C (104°F)].
 
 ### Revision: 2013 November
 
@@ -151644,9 +150967,6 @@ NO
 2.CHECK HIGH PRESSURE FUEL PUMP
 Check high pressure fuel pump. Refer to EC-1781, "Component Inspection (High Pressure Fuel Pump)".
 
-### Component Inspection (High Pressure Fuel Pump)
-
-### Start the engine.
 
 ### 2014 Q70
 
@@ -151723,7 +151043,6 @@ O
 P0090 HIGH PRESSURE FUEL PUMP
 DTC Logic
 
-### INFOID:0000000010097591
 
 ### Turn ignition switch OFF and wait at least 10 seconds.
 
@@ -151756,7 +151075,6 @@ FUEL PUMP
 less for 3 seconds or more during engine rev.
 • Fuel rail pressure remains at 18.5
 
-### MPa (185 bar, 188.7 kg/ cm2, 2682.5
 
 ### 2014 Q70
 
@@ -151781,7 +151099,6 @@ YES
 NO
 >> Replace the error-detected parts.
 
-### Component Inspection (High Pressure Fuel Pump)
 
 ### Value
 
@@ -152169,7 +151486,6 @@ P
 O
 4.
 
-### Also check harness for short to ground and short to power.
 
 ### Also check harness for short to ground and short to power.
 
@@ -152468,7 +151784,6 @@ DTC CONFIRMATION PROCEDURE
 1.PRECONDITIONING
 1.
 
-### Turn ignition switch OFF and wait at least 10 seconds.
 
 ### >> GO TO 2.
 
@@ -152507,7 +151822,6 @@ EC-1800
 [VK56VD FOR MEXICO]
 P0122, P0123, P0227, P0228 TP SENSOR
 
-### Also check harness for short to ground and short to power.
 
 ### Refer to GI-47, "Intermittent Incident".
 
@@ -152576,7 +151890,6 @@ INFOID:0000000010097609
 DTC DETECTION LOGIC
 To judge malfunctions, the diagnosis checks that the A/F signal computed by ECM from the A/F sensor 1 signal fluctuates according to fuel feedback control.
 
-### >> GO TO 2.
 
 ### Check “A/F SEN1 (B1)” or “A/F SEN1 (B2)” indication.
 
@@ -152627,7 +151940,6 @@ NO
 With GST
 Perform component function check. Refer to EC-1803, "Component Function Check".
 
-### Component Function Check
 
 ### Turn ignition switch OFF and wait at least 10 seconds.
 
@@ -152659,7 +151971,6 @@ YES
 NO
 >> INSPECTION END
 
-### Diagnosis Procedure
 
 ### P0150
 
@@ -152694,7 +152005,6 @@ YES
 NO
 >> Repair open circuit, short to ground or short to power in harness or connectors.
 
-### 4.CHECK INTERMITTENT INCIDENT
 
 ### >> INSPECTION END
 
@@ -152967,11 +152277,6 @@ To judge the malfunction of A/F sensor 1, this diagnosis measures response time 
 by ECM from the A/F sensor 1 signal. The time is compensated by engine operating (speed and load), fuel
 feedback control constant, and the A/F sensor 1 temperature index. Judgment is based on whether the compensated time (the A/F signal cycling time index) is inordinately long or not.
 
-### Touch “START”.
-
-### • PCV
-
-### [VK56VD FOR MEXICO]
 
 ### SULT screen.
 
@@ -152983,7 +152288,6 @@ Touch “SELF-DIAG RESULT”.
 Which is displayed on CONSULT screen?
 OK
 
-### >> INSPECTION END
 
 ### Check 1st trip DTC.
 
@@ -153055,7 +152359,6 @@ Also check harness for short to power.
 Is the inspection result normal?
 YES
 
-### >> GO TO 7.
 
 ### Also check harness for short to power.
 
@@ -153091,7 +152394,6 @@ YES
 NO
 >> Repair or replace PCV valve. Refer to EM-193, "Exploded View".
 
-### 11.CHECK INTERMITTENT INCIDENT
 
 ### 2014 Q70
 
@@ -153132,7 +152434,6 @@ DTC Logic
 INFOID:0000000010097618
 DTC DETECTION LOGIC
 
-### 11. Follow the instruction of CONSULT display.
 
 ### P0157
 
@@ -153160,7 +152461,6 @@ CAN NOT BE DIAGNOSED>>GO TO 3.
 Turn ignition switch OFF and leave the vehicle in a cool place (soak the vehicle).
 2.
 
-### Perform DTC confirmation procedure again.
 
 ### Is the inspection result normal?
 
@@ -153268,7 +152568,6 @@ NO
 2.CHECK HEATED OXYGEN SENSOR 2 GROUND CIRCUIT FOR OPEN AND SHORT
 1.
 
-### Condition
 
 ### Existed
 
@@ -153288,7 +152587,6 @@ Also check harness for short to power.
 Is the inspection result normal?
 YES
 
-### >> GO TO 4.
 
 ### >> INSPECTION END
 
@@ -153457,7 +152755,6 @@ P
 O
 P0138, P0158 HO2S2
 
-### DTC Logic
 
 ### Revision: 2013 November
 
@@ -153664,7 +152961,6 @@ Will CONSULT be used?
 Will CONSULT be used?
 YES
 
-### Let engine idle for 1 minute.
 
 ### Is the inspection result normal?
 
@@ -153796,9 +153092,6 @@ EC-1832
 P0139, P0159 HO2S2
 It will take at most 10 minutes until “COMPLETED” is displayed.
 
-### 12. Touch “SELF-DIAG RESULTS”.
-
-### Perform DTC confirmation procedure again.
 
 ### Is the inspection result normal?
 
@@ -153814,7 +153107,6 @@ With GST
 Start engine and warm it up to the normal operating temperature.
 2.
 
-### 2014 Q70
 
 ### Is the inspection result normal?
 
@@ -153959,7 +153251,6 @@ N
 P
 O
 
-### P0171, P0174 FUEL INJECTION SYSTEM FUNCTION
 
 ### Turn ignition switch ON.
 
@@ -154043,7 +153334,6 @@ Check the continuity between A/F sensor 1 harness connector and ground, or ECM h
 and ground.
 6.
 
-### Also check harness for short to power.
 
 ### 6.CHECK MASS AIR FLOW SENSOR
 
@@ -154140,7 +153430,6 @@ P
 O
 P0172, P0175 FUEL INJECTION SYSTEM FUNCTION
 
-### DTC Logic
 
 ### Do not depress accelerator pedal too much.
 
@@ -154368,7 +153657,6 @@ NO
 >> GO TO 2.
 2.CHECK FRP SENSOR POWER SUPPLY-II
 
-### DTC No.
 
 ### FRP sensor
 
@@ -154433,7 +153721,6 @@ Ground
 ECM
 Sensor
 
-### Connector
 
 ### Terminal
 
@@ -154506,7 +153793,6 @@ YES
 NO
 >> Repair or replace error-detected parts.
 
-### Component Inspection (Fuel Rail Pressure Sensor)
 
 ### WITHOUT CONSULT
 
@@ -154526,7 +153812,6 @@ NO
 +
 −
 
-### Continuity
 
 ### 0.82 – 3.06 V
 
@@ -154702,7 +153987,6 @@ N
 P
 O
 
-### P0222, P0223, P2132, P2133 TP SENSOR
 
 ### >> GO TO 2.
 
@@ -154891,7 +154175,6 @@ Revision: 2013 November
 EC-1856
 < DTC/CIRCUIT DIAGNOSIS >
 
-### Is the inspection result normal?
 
 ### Start engine.
 
@@ -155417,7 +154700,6 @@ Visually check for chipping signal plate gear tooth.
 Is the inspection result normal?
 YES
 
-### >> GO TO 11.
 
 ### INFOID:0000000010097652
 
@@ -155519,9 +154801,6 @@ DTC DETECTION LOGIC
 NOTE:
 If DTC P0345 is displayed with DTC P0643, first perform the trouble diagnosis for DTC P0643. Refer to
 
-### EC-1900, "DTC Logic".
-
-### >> GO TO 2.
 
 ### >> GO TO 3.
 
@@ -155864,7 +155143,6 @@ Turn ignition switch OFF.
 Loosen the fixing bolt of the sensor.
 3.
 
-### Disconnect camshaft position sensor harness connector.
 
 ### Is the inspection result normal?
 
@@ -155949,7 +155227,6 @@ Perform component function check. Refer to EC-1871, "Component Function Check".
 > NO
 > >> Proceed to EC-1872, "Diagnosis Procedure"
 
-### Component Function Check
 
 ### Let engine idle for 1 minute.
 
@@ -156165,7 +155442,6 @@ DTC CONFIRMATION PROCEDURE
 Turn ignition switch OFF and wait at least 10 seconds.
 2.
 
-### Turn ignition switch ON.
 
 ### Start engine and let it idle for at least 13 seconds.
 
@@ -156194,7 +155470,6 @@ Check the following.
 • Harness for open or short between EVAP canister purge volume control solenoid valve and ECM
 >> Repair open circuit, short to ground or short to power in harness or connectors.
 
-### 3.CHECK EVAP CANISTER PURGE VOLUME CONTROL SOLENOID VALVE OUTPUT SIGNAL CIRCU
 
 ### EVAP canister purge volume
 
@@ -156214,7 +155489,6 @@ EC-1876
 [VK56VD FOR MEXICO]
 P0444 EVAP CANISTER PURGE VOLUME CONTROL SOLENOID VALVE
 
-### FOR OPEN AND SHORT
 
 ### Is the inspection result normal?
 
@@ -156242,7 +155516,6 @@ Refer to GI-47, "Intermittent Incident".
 >> INSPECTION END
 Component Inspection (EVAP Canister Purge Volume Control Solenoid Valve)
 
-### INFOID:0000000010097661
 
 ### 2014 Q70
 
@@ -156315,7 +155588,6 @@ INFOID:0000000010097662
 The vehicle speed signal is sent to the “combination meter” from the “ABS actuator and electric unit (control
 unit)” by CAN communication line. The “combination meter” then sends a signal to the ECM by CAN communication line.
 
-### DTC Logic
 
 ### Turn ignition switch ON.
 
@@ -156458,9 +155730,6 @@ Except P or N position
 PW/ST SIGNAL
 OFF
 
-### Revision: 2013 November
-
-### DTC Logic
 
 ### Turn ignition switch ON.
 
@@ -156530,9 +155799,6 @@ Revision: 2013 November
 EC-1882
 < DTC/CIRCUIT DIAGNOSIS >
 
-### [VK56VD FOR MEXICO]
-
-### DTC Logic
 
 ### Check 1st trip DTC.
 
@@ -156685,7 +155951,6 @@ YES
 NO
 >> Repair or replace error-detected parts.
 
-### Component Inspection (EOP sensor)
 
 ### >> INSPECTION END.
 
@@ -156774,7 +156039,6 @@ DTC DETECTION LOGIC
 NOTE:
 If DTC P0524 is displayed with DTC P0520, P0075, or P0081, perform trouble diagnosis for DTC P0520,
 
-### Is 1st trip DTC detected?
 
 ### Revision: 2013 November
 
@@ -156838,7 +156102,6 @@ NO
 >> Remove debris and clean the signal plate of camshaft
 sprocket (INT) or replace camshaft sprocket (INT).
 
-### Refer to EM-254, "Disassembly and Assembly".
 
 ### >> GO TO 7.
 
@@ -156851,7 +156114,6 @@ Revision: 2013 November
 P0524 ENGINE OIL PRESSURE
 EC-1889
 
-### < DTC/CIRCUIT DIAGNOSIS >
 
 ### >> INSPECTION END
 
@@ -156904,7 +156166,6 @@ DTC No.
 Trouble diagnosis name
 (Trouble diagnosis content)
 
-### DTC detecting condition
 
 ### PSP sensor
 
@@ -157071,7 +156332,6 @@ N
 P
 O
 
-### P0603 ECM POWER SUPPLY
 
 ### Turn ignition switch ON, wait at least 10 seconds.
 
@@ -157379,7 +156639,6 @@ INFOID:0000000010097689
 This DTC is detected when the ECM-integrated injector driver unit has a malfunction. For injector driver unit,
 refer to EC-1585, "ECM".
 
-### DTC Logic
 
 ### Check 1st trip DTC.
 
@@ -157540,7 +156799,6 @@ Replace accelerator pedal assembly.
 Refer to ACC-4, "MODELS WITH DISTANCE CONTROL ASSIST SYSTEM : Removal and Installation".
 >> INSPECTION END
 
-### 8.CHECK INTERMITTENT INCIDENT
 
 ### Camshaft position sensor (bank 2)
 
@@ -157585,7 +156843,6 @@ If DTC Confirmation Procedure has been previously conducted, always perform the 
 before conducting the next test.
 1.
 
-### Is the inspection result normal?
 
 ### • TCM
 
@@ -157893,7 +157150,6 @@ YES
 NO
 >> INSPECTION END
 
-### Diagnosis Procedure
 
 ### EVT control position sensor
 
@@ -157950,7 +157206,6 @@ Refer to EC-1869, "Component Inspection (Camshaft Position Sensor)".
 Is the inspection result normal?
 YES
 
-### >> GO TO 7.
 
 ### Connector
 
@@ -158040,7 +157295,6 @@ Visually check the sensor for chipping.
 Is the inspection result normal?
 YES
 
-### >> GO TO 2.
 
 ### Revision: 2013 November
 
@@ -158261,11 +157515,6 @@ P
 O
 4.
 
-### 3.CHECK VVEL ACTUATOR MOTOR
-
-### >> GO TO 7.
-
-### >> INSPECTION END
 
 ### >> INSPECTION END
 
@@ -158341,7 +157590,6 @@ P
 O
 P1091 VVEL ACTUATOR MOTOR RELAY
 
-### DTC Logic
 
 ### Turn ignition switch OFF and wait at least 10 seconds.
 
@@ -158538,7 +157786,6 @@ Refuel 10 liter (10 US qt, 8 imp qt).
 > reaches at least 70°C (158°F).
 > 3.
 
-### Turn ignition switch OFF and wait at least 10 seconds.
 
 ### Is 1st trip DTC detected?
 
@@ -158554,7 +157801,6 @@ YES
 NO
 >> Repair or replace error-detected parts.
 
-### 3.CHECK HIGH PRESSURE FUEL PUMP
 
 ### 2014 Q70
 
@@ -158570,7 +157816,6 @@ signals are exchanged between ECM and “ABS actuator and electric unit (control
 Be sure to erase the malfunction information such as DTC not only for “ABS actuator and electric unit
 (control unit)” but also for ECM after TCS related repair.
 
-### DTC Logic
 
 ### >> GO TO 2.
 
@@ -158978,7 +158223,6 @@ P
 O
 P1225, P1234 TP SENSOR
 
-### DTC Logic
 
 ### Turn ignition switch ON.
 
@@ -159387,7 +158631,6 @@ DTC CONFIRMATION PROCEDURE
 Turn ignition switch OFF and wait at least 10 seconds.
 2.
 
-### Turn ignition switch ON.
 
 ### Turn ignition switch ON and wait at least 1 second.
 
@@ -159679,7 +158922,6 @@ ECM
 Condition
 Voltage (V)
 
-### Connector
 
 ### Accelerator pedal: Fully released
 
@@ -159694,7 +158936,6 @@ EC-1944
 P1550 BATTERY CURRENT SENSOR
 P1550 BATTERY CURRENT SENSOR
 
-### DTC Logic
 
 ### TESTING CONDITION:
 
@@ -159898,9 +159139,6 @@ NO
 9.CHECK BATTERY CURRENT SENSOR
 Refer to EC-1946, "Component Inspection (Battery Current Sensor)".
 
-### Is the inspection result normal?
-
-### Check the voltage between ECM harness connector terminals
 
 ### Battery current sensor
 
@@ -159957,7 +159195,6 @@ DTC Logic
 INFOID:0000000010097746
 DTC DETECTION LOGIC
 
-### DTC CONFIRMATION PROCEDURE
 
 ### >> GO TO 2.
 
@@ -159972,7 +159209,6 @@ YES
 NO
 >> INSPECTION END
 
-### Diagnosis Procedure
 
 ### Is the inspection result normal?
 
@@ -160036,7 +159272,6 @@ Connector
 Terminal
 Connector
 
-### Terminal
 
 ### APP sensor 2
 
@@ -160088,7 +159323,6 @@ NO
 9.CHECK BATTERY CURRENT SENSOR
 Refer to EC-1949, "Component Inspection (Battery Current Sensor)".
 
-### Is the inspection result normal?
 
 ### Terminal
 
@@ -160107,7 +159341,6 @@ EC-1950
 P1553 BATTERY CURRENT SENSOR
 P1553 BATTERY CURRENT SENSOR
 
-### DTC Logic
 
 ### TESTING CONDITION:
 
@@ -160242,7 +159475,6 @@ NO
 9.CHECK BATTERY CURRENT SENSOR
 Refer to EC-1952, "Component Inspection (Battery Current Sensor)".
 
-### Is the inspection result normal?
 
 ### 2014 Q70
 
@@ -160435,7 +159667,6 @@ NO
 9.CHECK BATTERY CURRENT SENSOR
 Refer to EC-1955, "Component Inspection (Battery Current Sensor)".
 
-### Is the inspection result normal?
 
 ### 1.CHECK BATTERY CURRENT SENSOR
 
@@ -160508,7 +159739,6 @@ P1556, P1557 BATTERY TEMPERATURE SENSOR
 DTC Logic
 INFOID:0000000010097756
 
-### >> GO TO 2.
 
 ### Diagnosis Procedure
 
@@ -160578,7 +159808,6 @@ Check the following.
 • Battery current sensor (Refer to EC-1955, "Component Inspection (Battery Current Sensor)".)
 • Refrigerant pressure sensor (Refer to EC-2021, "Diagnosis Procedure".)
 
-### Is the inspection result normal?
 
 ### >> GO TO 6.
 
@@ -160675,7 +159904,6 @@ DTC DETECTION LOGIC
 NOTE:
 If DTC P1564 is displayed with DTC P0605, first perform the trouble diagnosis for DTC P0605. Refer to
 
-### Turn ignition switch ON.
 
 ### Check DTC.
 
@@ -160806,7 +160034,6 @@ M303
 13 and 16
 MAIN switch: Pressed
 
-### Approx. 0
 
 ### Approx. 3,000
 
@@ -160854,7 +160081,6 @@ If DTC Confirmation Procedure has been previously conducted, always perform the 
 before conducting the next test.
 1.
 
-### Turn ignition switch OFF and wait at least 10 seconds.
 
 ### Press SET/COAST switch.
 
@@ -161175,7 +160401,6 @@ Disconnect stop lamp switch harness connector.
 3.
 Check the continuity between stop lamp switch terminals under the following conditions.
 
-### Terminals
 
 ### Condition
 
@@ -161514,7 +160739,6 @@ DTC No.
 Trouble diagnosis name
 (Trouble diagnosis content)
 
-### DTC detecting condition
 
 ### VVEL control shaft position sensor
 
@@ -161658,7 +160882,6 @@ Trouble diagnosis name
 (Trouble diagnosis content)
 DTC detecting condition
 
-### Possible cause
 
 ### • TCM
 
@@ -161717,7 +160940,6 @@ Check for stop lamp illumination under the following conditions.
 Is the inspection result normal?
 YES
 
-### Condition
 
 ### < DTC/CIRCUIT DIAGNOSIS >
 
@@ -161742,7 +160964,6 @@ NO
 >> Replace stop lamp switch. Refer to BR-18, "Exploded View".
 7.CHECK INTERMITTENT INCIDENT
 
-### Refer to GI-47, "Intermittent Incident".
 
 ### Condition
 
@@ -161789,7 +161010,6 @@ EC-1980
 P2100, P2103 THROTTLE CONTROL MOTOR RELAY
 P2100, P2103 THROTTLE CONTROL MOTOR RELAY
 
-### DTC Logic
 
 ### Turn ignition switch ON and wait at least 2 seconds.
 
@@ -161951,7 +161171,6 @@ O
 3.CHECK APP SENSOR 1 GROUND CIRCUIT FOR OPEN AND SHORT
 1.
 
-### >> GO TO 5.
 
 ### 7.CHECK APP SENSOR
 
@@ -162028,7 +161247,6 @@ Refer to ACC-4, "MODELS WITH DISTANCE CONTROL ASSIST SYSTEM : Removal and Instal
 >> INSPECTION END
 ECM
 
-### Condition
 
 ### Revision: 2013 November
 
@@ -162111,7 +161329,6 @@ the APP sensor 2 is sent to ECM.
 • Camshaft position sensor (bank 1)
 • Refrigerant pressure sensor
 
-### P2128
 
 ### Approx. 5 V
 
@@ -162318,7 +161535,6 @@ ECM
 Condition
 Voltage (V)
 
-### Connector
 
 ### 2014 Q70
 
@@ -162528,9 +161744,6 @@ Disconnect ECM harness connector.
 Check the continuity between APP sensor harness connector and ECM harness connector.
 4.
 
-### Also check harness for short to ground and short to power.
-
-### 10.CHECK APP SENSOR INPUT SIGNAL CIRCUIT FOR OPEN AND SHORT
 
 ### >> GO TO 11.
 
@@ -162748,7 +161961,6 @@ Voltage
 (Approx.)
 Low fuel pressure sensor
 
-### Connector
 
 ### Continuity
 
@@ -162831,7 +162043,6 @@ YES
 NO
 >> Replace low fuel pressure sensor.
 
-### Component Inspection
 
 ### Check that the “L/FUEL PRES SEN V” value.
 
@@ -162948,7 +162159,6 @@ YES
 NO
 >> Proceed to EC-1997, "Diagnosis Procedure".
 
-### Diagnosis Procedure
 
 ### Ground
 
@@ -163067,7 +162277,6 @@ NO
 10.CHECK COOLING FAN RELAYS -1 AND -2
 Refer to EC-2001, "Component Inspection (Cooling Fan Relay)".
 
-### Component Inspection (Cooling Fan Motor)
 
 ### Ground
 
@@ -163261,7 +162470,6 @@ NO
 Diagnosis Procedure
 INFOID:0000000010097807
 
-### 1.CHECK FUEL INJECTOR POWER SUPPLY
 
 ### PBIB3332E
 
@@ -163540,7 +162748,6 @@ WITH CONSULT
 Turn ignition switch ON.
 2.
 
-### Select “BRAKE SW1” in “DATA MONITOR” mode with CONSULT.
 
 ### >> INSPECTION END
 
@@ -163803,7 +163010,6 @@ Turn ignition switch ON.
 4.
 Check the voltage between condenser harness connector and ground.
 
-### Also check harness for short to ground and short to power.
 
 ### Condenser
 
@@ -163868,7 +163074,6 @@ Is the inspection result normal?
 Ignition coil
 Ground
 
-### Voltage
 
 ### Revision: 2013 November
 
@@ -164026,7 +163231,6 @@ NOTE:
 > NO
 > >> Replace malfunctioning ignition coil with power transistor.
 
-### Component Inspection (Condenser)
 
 ### >> INSPECTION END
 
@@ -164169,7 +163373,6 @@ YES
 NO
 >> Repair or replace error-detected parts.
 
-### 4.CHECK FUEL PUMP CONTROL CIRCUIT
 
 ### Also check harness for short to ground and to power.
 
@@ -164308,7 +163511,6 @@ Check that DTC UXXXX is not displayed.
 Is the inspection result normal?
 YES
 
-### >> GO TO 2.
 
 ### 3.CHECK INTERMITTENT INCIDENT
 
@@ -164371,7 +163573,6 @@ Turn ignition switch ON.
 3.
 Check the voltage between refrigerant pressure sensor harness connector and ground.
 
-### Is the inspection result normal?
 
 ### Ground
 
@@ -165290,7 +164491,6 @@ INFOID:0000000010097838
 • Electric load: OFF (Lights, heater fan & rear window defogger)
 • Steering wheel: Kept in straight-ahead position
 
-### Ignition Timing
 
 ### INFOID:0000000010097840
 
@@ -165303,7 +164503,6 @@ No load* (in P or N position)
 600 ± 50 rpm
 Condition
 
-### Specification
 
 ### Mass air flow (Using CONSULT or GST)
 
@@ -166039,7 +165238,6 @@ Check the thickness of the disc rotor using a micrometer. Replace
 the disc rotor if the thickness is below the wear limit. Refer to FAX-7,
 "Removal and Installation" (2WD), FAX-17, "Removal and Installation" (AWD).
 
-### ADJUSTMENT
 
 ### Runout
 
@@ -166814,7 +166012,6 @@ off immediately and wash with water if it gets on a painted surface.
 • If the brake fluid adheres to the brake caliper assembly and disc rotor, quickly wipe it off.
 1.
 
-### Remove tires with power tool.
 
 ### Remove the lock plate and remove the brake hose.
 
@@ -167643,7 +166840,6 @@ BRAKE PAD (4 PISTON TYPE) : Exploded View
 INFOID:0000000010098330
 Molykote is a registered trademark of Dow Corning Corporation.
 
-### BRAKE PAD (4 PISTON TYPE) : Removal and Installation
 
 ### Remove tires with power tool.
 
@@ -167707,7 +166903,6 @@ Remove brake pads and shims from caliper with suitable pliers.
 > Perform inspection after removal. Refer to BR-44, "BRAKE PAD
 > (4 PISTON TYPE) : Inspection".
 
-### INSTALLATION
 
 ### Apply MOLYKOTE® AS880N or copper based brake grease to
 
@@ -168474,7 +167669,6 @@ BRAKE PAD (2 PISTON TYPE) : Exploded View
 INFOID:0000000010098344
 Molykote is a registered trademark of Dow Corning Corporation.
 
-### BRAKE PAD (2 PISTON TYPE) : Removal and Installation
 
 ### Remove tires with power tool.
 
@@ -168544,7 +167738,6 @@ CAUTION:
 Perform inspection after removal. Refer to BR-56, "BRAKE PAD
 (2 PISTON TYPE) : Inspection".
 
-### INSTALLATION
 
 ### Apply MOLYKOTE® AS880N or copper based brake grease to
 
@@ -168857,7 +168050,6 @@ grease to the pawls part of cylinder body.
 Apply rubber grease to sliding pin bolt, and install the cylinder body to tighten sliding pin bolts to the specified torque.
 BRAKE CALIPER ASSEMBLY (1 PISTON TYPE) : Inspection
 
-### INFOID:0000000010098350
 
 ### Torque Member
 
@@ -169327,7 +168519,6 @@ SERVICE DATA AND SPECIFICATIONS
 (SDS) .......................................................... 79
 SERVICE DATA AND SPECIFICATIONS
 
-### Revision: 2013 November
 
 ### Service Notice or Precautions for Steering System
 
@@ -172416,7 +171607,6 @@ gear housing assembly must be replaced if inner socket and gear housing assembly
 because it may cause foreign material interfusion.
 9.
 
-### Remove inner socket from gear housing assembly.
 
 ### JSGIA0111ZZ
 
@@ -172595,9 +171785,6 @@ STEERING GEAR AND LINKAGE
 screw (2 turns thread), and then screw in the adjusting screw
 until it reaches height “H” from gear housing assembly measured before disassembling.
 
-### Use Genuine High Performance Thread Sealant or equiva-
-
-### Turn pinion fully to left.
 
 ### SGIA0624E
 
@@ -172746,7 +171933,6 @@ the value is within the following specified range. Replace outer
 socket (1) and inner socket (2) if the measured value is outside the
 standard.
 
-### INSPECTION AFTER INSTALLATION
 
 ### Procedure".
 
@@ -173688,7 +172874,6 @@ JSGIA0951GB
 Reservoir tank bracket
 2.
 
-### Collar
 
 ### 2014 Q70
 
@@ -173792,7 +172977,6 @@ High pressure piping
 Low pressure piping
 14.
 
-### Steering gear assembly
 
 ### 2014 Q70
 
@@ -176846,7 +176030,6 @@ Remove mounting bolts, and then remove evaporator pipe assembly and expansion va
 > • O-rings are different from low-pressure pipe 1 (high-pressure pipe 1) and low-pressure pipe 2 (highpressure pipe 2).
 > • Check for leakages when recharging refrigerant. Refer to HA-19, "Leak Test".
 
-### EXPANSION VALVE
 
 ### Revision: 2013 November
 
@@ -176988,7 +176171,6 @@ use) to remove adhering moisture, grease and foreign materials.
 Apply liquid gasket to the liquid gasket application surface.
 Use Genuine RTV Silicone Sealant or equivalent. Refer to GI-24, "Recommended Chemical Products and Sealants".
 
-### Revision: 2013 November
 
 ### Precautions for Removing of Battery Terminal
 
@@ -178298,7 +177480,6 @@ ST25052000
 Hose
 Adapting oil pressure gauge to oil pan (upper)
 
-### KV10115801
 
 ### 2014 Q70
 
@@ -178575,7 +177756,6 @@ CAUTION:
 • Completely wipe off any engine oil that adheres to engine and vehicle.
 1.
 
-### Inspection
 
 ### JPBIA2307ZZ
 
@@ -179313,7 +178493,6 @@ P
 O
 3.
 
-### Check that each hose clamp has been firmly tightened.
 
 ### 12. Refill reservoir tank to “MAX” level line with engine coolant.
 
@@ -180557,7 +179736,6 @@ PRECAUTIONS
 CO-31
 < PRECAUTION >
 
-### [VK56VD]
 
 ### Precautions for Removing of Battery Terminal
 
@@ -180866,7 +180044,6 @@ Check drained engine coolant for contaminants such as rust, corrosion or discolo
 If contaminated, flush the engine cooling system. Refer to CO-40, "Flushing".
 5.
 
-### Disconnect drain hose.
 
 ### Install reservoir tank if removed, and radiator drain plug.
 
@@ -180965,7 +180142,6 @@ ENGINE COOLANT
 • Remove the radiator cap to check the fluid level. If the fluid level is low, refill with cooling water and
 repeat the steps from Step 8.
 
-### Check that the reservoir tank cap is tightened.
 
 ### Remove air relief plug (1) on radiator.
 
@@ -183107,11 +182283,6 @@ STARTING SYSTEM
 PRECAUTION .............................................. 2
 PRECAUTIONS .................................................. 2
 
-### Revision: 2013 November
-
-### Precaution for Procedure without Cowl Top Cover
-
-### INFOID:0000000010100615
 
 ### PIIB3706J
 
@@ -183795,7 +182966,6 @@ Description
 INFOID:0000000010100629
 The starter motor magnetic switch is supplied with power when the ignition switch is turned to the START position while the selector lever is in the P or N position.
 
-### Diagnosis Procedure
 
 ### 1.CHECK “S” CONNECTOR CIRCUIT
 
@@ -184559,7 +183729,6 @@ O
 P
 VK56VD (2WD) : Inspection and Adjustment ....... 231
 
-### Revision: 2013 November
 
 ### Precaution for Procedure without Cowl Top Cover
 
@@ -185971,7 +185140,6 @@ Number of revolutions
 —
 Deceleration from under drive internal gear
 
-### Same number of revolution as the
 
 ### Same number of revolution as the
 
@@ -186046,7 +185214,6 @@ Mid sun gear
 Mid carrier
 Mid internal gear
 
-### Condition
 
 ### 2014 Q70
 
@@ -186225,7 +185392,6 @@ Mid planetary gear
 Name
 Front sun gear
 
-### Front carrier
 
 ### Name
 
@@ -187479,7 +186645,6 @@ valve
 • Anti-interlock solenoid
 valve
 
-### Output speed sensor
 
 ### Drive mode select signal*
 
@@ -187854,7 +187019,6 @@ to this vehicle, refer to CONSULT display items.
 X: Standard, —: Not applicable,
 : Option
 
-### Diagnostic test mode
 
 ### CAN Diagnosis
 
@@ -190604,7 +189768,6 @@ Decel G sensor calibration must be performed when the following operation is per
 > After removing/replacing the yaw rate/side/decal G sensor or replacing the ABS actuator and electric
 > unit (control unit), the decel G sensor of the ABS actuator and electric unit (control unit) must be calibrated first. Refer to BRC-71, "Description".
 
-### Special Repair Requirement
 
 ### 1.PREPARATION BEFORE CALIBRATION PROCEDURE
 
@@ -191942,7 +191105,6 @@ Description
 INFOID:0000000010098842
 The engine speed signal is transmitted from the ECM to the TCM via CAN communication line.
 
-### DTC Logic
 
 ### >> GO TO 2.
 
@@ -192032,7 +191194,6 @@ O
 P
 NO
 
-### >> GO TO 3.
 
 ### Revision: 2013 November
 
@@ -192577,7 +191738,6 @@ P
 3.
 Keep the current driving status for 2 seconds or more if CONSULT screen changes from “OUT OF CON-
 
-### DITION” to “TESTING”.
 
 ### With GST
 
@@ -192613,7 +191773,6 @@ YES
 NO
 >> Repair or replace damaged parts.
 
-### 2.DETECT MALFUNCTIONING ITEM
 
 ### Is the inspection result normal?
 
@@ -192699,9 +191858,6 @@ solenoid valve
 • Input speed sensor 1, 2
 • Hydraulic control circuit
 
-### ATF TEMP 1
-
-### DITION” to “TESTING”.
 
 ### With GST
 
@@ -192904,7 +192060,6 @@ NOTE:
 Check the component parts, referring to “Possible cause” in “DTC DETECTION LOGIC”. Refer to TM-128,
 "DTC Logic".
 
-### Is the inspection result normal?
 
 ### Gear position
 
@@ -193003,7 +192158,6 @@ P
 3.
 Keep the current driving status for 2 seconds or more if CONSULT screen changes from “OUT OF CON-
 
-### DITION” to “TESTING”.
 
 ### With GST
 
@@ -193039,9 +192193,6 @@ YES
 NO
 >> Repair or replace damaged parts.
 
-### 2.DETECT MALFUNCTIONING ITEM
-
-### Is the inspection result normal?
 
 ### Gear position
 
@@ -193058,7 +192209,6 @@ TM-132
 P0740 TORQUE CONVERTER
 P0740 TORQUE CONVERTER
 
-### DTC Logic
 
 ### >> GO TO 2.
 
@@ -193152,7 +192302,6 @@ This malfunction is detected when the A/T does not lock-up. This is not only cau
 (circuits open or shorted) but also by mechanical malfunction such as control valve sticking, improper solenoid
 valve operation, etc.
 
-### DTC Logic
 
 ### >> GO TO 2.
 
@@ -193539,7 +192688,6 @@ YES
 NO
 >> Repair or replace damaged parts.
 
-### 2.DETECT MALFUNCTIONING ITEM
 
 ### Is the inspection result normal?
 
@@ -193554,7 +192702,6 @@ TM-140
 [7AT: RE7R01A]
 P0795 PRESSURE CONTROL SOLENOID C
 
-### P0795 PRESSURE CONTROL SOLENOID C
 
 ### Perform “Self Diagnostic Results” in “TRANSMISSION”.
 
@@ -193685,7 +192832,6 @@ INFOID:0000000010098884
 The vehicle speed signal is transmitted from combination meter to TCM via CAN communication line. The signal functions as an auxiliary device to the output speed sensor when it is malfunctioning. The TCM will then
 use the vehicle speed signal.
 
-### DTC Logic
 
 ### >> GO TO 2.
 
@@ -194660,7 +193806,6 @@ DTC Logic
 INFOID:0000000010098899
 DTC DETECTION LOGIC
 
-### >> GO TO 2.
 
 ### Perform “Self Diagnostic Results” in “TRANSMISSION”.
 
@@ -194722,7 +193867,6 @@ N
 O
 P
 
-### P2722 PRESSURE CONTROL SOLENOID E
 
 ### Perform “Self Diagnostic Results” in “TRANSMISSION”.
 
@@ -194767,7 +193911,6 @@ TM-156
 P2731 PRESSURE CONTROL SOLENOID F
 P2731 PRESSURE CONTROL SOLENOID F
 
-### DTC Logic
 
 ### Perform “Self Diagnostic Results” in “TRANSMISSION”.
 
@@ -194827,7 +193970,6 @@ N
 O
 P
 
-### P2807 PRESSURE CONTROL SOLENOID G
 
 ### Perform “Self Diagnostic Results” in “TRANSMISSION”.
 
@@ -196109,7 +195251,6 @@ YES
 NO
 >> Repair or replace damaged parts.
 
-### WITHOUT ICC : Component Inspection (Shift Lock Unit)
 
 ### Existed
 
@@ -196141,7 +195282,6 @@ NO
 "AWD : Exploded View" (AWD).
 WITHOUT ICC : Component Inspection (Stop Lamp Switch)
 
-### INFOID:0000000010098919
 
 ### Shift lock unit connector
 
@@ -198124,7 +197264,6 @@ Note the following, and install in the reverse order of removal.
 CAUTION:
 Apply multi-purpose grease on the pin surface (that slides after installing collar) of the tip of the control rod.
 
-### Inspection
 
 ### A/T assembly
 
@@ -199789,7 +198928,6 @@ should be positioned as shown in the figure.
 : Vehicle front
 : Bolt
 
-### SCIA8269E
 
 ### (D).]
 
@@ -199894,7 +199032,6 @@ Note the following, and Install in the reverse order of removal.
 > Copper washer
 > 3.
 
-### A/T fluid cooler tube
 
 ### Facing downward
 
@@ -200561,7 +199698,6 @@ TRANSMISSION ASSEMBLY
 VK56VD (AWD) : Exploded View
 INFOID:0000000010098977
 
-### VK56VD (AWD) : Removal and Installation
 
 ### Disconnect the battery cable from the negative terminal.
 
@@ -201685,7 +200821,6 @@ CAUTION:
 Never disassemble parts behind drum support. Refer to TM-17, "Cross-Sectional View".
 1.
 
-### Drain ATF through drain plug.
 
 ### JPDIA1147ZZ
 
@@ -203469,7 +202604,6 @@ proper position.
 Inspection
 INFOID:0000000010098986
 
-### INSPECTION AFTER DISASSEMBLY
 
 ### Torque Converter
 
@@ -205139,9 +204273,6 @@ STANDARD MODE
 • At closed throttle, the accelerator opening is less than 1/8 condition. (Closed throttle position signal OFF)
 • At half throttle, the accelerator opening is 4/8 of the full opening.
 
-### ECO MODE
-
-### VK56VD
 
 ### Stall Speed
 
@@ -207957,7 +207088,6 @@ control units during operation (not independent). In CAN communication, control 
 communication lines (CAN-H line, CAN-L line) allowing a high rate of information transmission with less wiring.
 Each control unit communicate data but selectively reads required data only.
 
-### DTC Logic
 
 ### Is DTC “U1010” detected?
 
@@ -208699,7 +207829,6 @@ DLN-60
 < PERIODIC MAINTENANCE >
 [TRANSFER: ETX13C]
 
-### TRANSFER FLUID
 
 ### Draining
 
@@ -210086,7 +209215,6 @@ Transfer fluid temperature sensor
 Spacer
 28.
 
-### Baffle plate
 
 ### Self-lock nut
 
@@ -211345,7 +210473,6 @@ DLN-113, "Inspection"
 NVH of FRONT and REAR FINAL DRIVE in this section.
 NVH in FAX, RAX, FSU and RSU section.
 
-### NVH in WT section.
 
 ### Revision: 2013 November
 
@@ -211375,7 +210502,6 @@ REAR PROPELLER SHAFT
 Inspection
 INFOID:0000000010102321
 
-### APPEARANCE AND NOISE
 
 ### Check the vibration by driving vehicle.
 
@@ -211494,7 +210620,6 @@ coupling above the angle (A).
 • Never damage the grease seal (3).
 • Never damage the rubber coupling.
 
-### 11. Slide the propeller shaft in the vehicle forward direction slightly.
 
 ### 12. Perform inspection after removal. Refer to DLN-116, "Inspection".
 
@@ -212968,7 +212093,6 @@ Extension tube retainer
 Side shaft oil seal
 37.
 
-### Dust seal
 
 ### JPDID0225GB
 
@@ -213795,7 +212919,6 @@ Drive gear
 Side oil seal (right side)
 13.
 
-### Side retainer
 
 ### Side gear thrust washer
 
@@ -213816,9 +212939,6 @@ DRIVE PINION
 DLN-155
 < UNIT DISASSEMBLY AND ASSEMBLY >
 
-### [FRONT FINAL DRIVE: F160A]
-
-### Side shaft
 
 ### JPDID0225GB
 
@@ -213869,7 +212989,6 @@ Pinion rear bearing
 Pinion height adjusting washer
 10.
 
-### Drive pinion
 
 ### Drain plug
 
@@ -214270,7 +213389,6 @@ these items and repair if necessary.
 c.
 If the runout value is still outside of the limit after the check and repair, replace companion flange.
 
-### Inspection
 
 ### Companion Flange
 
@@ -214812,7 +213930,6 @@ View".
 CAUTION:
 Never reuse gasket.
 
-### Refilling
 
 ### DLN-180, "Exploded View".
 
@@ -215701,7 +214818,6 @@ Rotate drive pinion back and forth 2 to 3 times to check for unusual noise and r
 Rotate drive pinion at least 20 times to check for smooth operation of the bearing.
 4.
 
-### Measure total preload with the preload gauge (A) [SST:
 
 ### SIDE BEARING PRELOAD
 
@@ -215998,7 +215114,6 @@ Differential case
 Bearing cap
 23.
 
-### Filler plug
 
 ### JPDID0284GB
 
@@ -216337,7 +215452,6 @@ information.
 CAUTION:
 If unable to find a washer of desired thickness, use a washer with thickness closest to the calculated value.
 
-### Inspection
 
 ### Oil Seal
 
@@ -216372,9 +215486,6 @@ Revision: 2013 November
 DLN-200
 < UNIT DISASSEMBLY AND ASSEMBLY >
 
-### [REAR FINAL DRIVE: R200]
-
-### Companion Flange
 
 ### 2014 Q70
 
@@ -216911,7 +216022,6 @@ View".
 CAUTION:
 Never reuse gasket.
 
-### Refilling
 
 ### DLN-218, "Exploded View".
 
@@ -217632,7 +216742,6 @@ CAUTION:
 • Apply multi-purpose grease onto oil seal lips, and gear oil
 onto the circumference of oil seal.
 
-### 18. Check total preload torque. Refer to DLN-224, "Adjustment".
 
 ### Measure total preload with the preload gauge (A) [SST:
 
@@ -217859,7 +216968,6 @@ thickness of side bearing adjusting washers.
 > and drive gear tooth side adjusting washer thinner by
 > the same amount. For selecting adjusting washer, refer to the latest parts information.
 
-### When the backlash is small:
 
 ### Revision: 2013 November
 
@@ -217872,7 +216980,6 @@ Never change the total amount of washers as it changes the bearing preload.
 Inspection
 INFOID:0000000010102412
 
-### INSPECTION AFTER DISASSEMBLY
 
 ### Revision: 2013 November
 
@@ -217930,7 +217037,6 @@ Gasket
 Rear cover
 24.
 
-### Stud bolt
 
 ### JPDID0367GB
 
@@ -218188,7 +217294,6 @@ PINION GEAR HEIGHT
 If the hypoid gear set has been replaced, select the pinion height adjusting washer.
 1.
 
-### Inspection
 
 ### Oil Seal
 
@@ -218198,7 +217303,6 @@ Companion Flange
 • Clean up the disassembled parts.
 • If any chipped mark [about 0.1 mm, (0.004 in)] or other damage on the contact sides of the lips of the companion flange is found, replace.
 
-### Washer selection equation:
 
 ### Example:
 
@@ -218318,7 +217422,6 @@ PRECAUTIONS .................................................. 3
 Precaution for Supplemental Restraint System
 (SRS) "AIR BAG" and "SEAT BELT PRE-TENSIONER" ..................................................................3
 
-### Revision: 2013 November
 
 ### Precautions for Removing of Battery Terminal
 
@@ -218624,7 +217727,6 @@ PRECAUTION
 PRECAUTIONS
 Precaution for Supplemental Restraint System (SRS) "AIR BAG" and "SEAT BELT
 
-### PRE-TENSIONER"
 
 ### Precautions for Drive Shaft
 
@@ -219365,7 +218467,6 @@ FRONT DRIVE SHAFT BOOT
 • Disassemble drive shaft and exchange malfunctioning part if there
 is a non-standard condition.
 
-### INSPECTION AFTER INSTALLATION
 
 ### SDIA1163J
 
@@ -220022,7 +219123,6 @@ O
 P
 CONTENTS
 
-### Revision: 2013 November
 
 ### Precautions for Removing of Battery Terminal
 
@@ -221084,7 +220184,6 @@ PRECAUTIONS .................................................23
 Precaution for Supplemental Restraint System
 (SRS) "AIR BAG" and "SEAT BELT PRE-TENSIONER" ................................................................23
 
-### Revision: 2013 November
 
 ### Precaution for Procedure without Cowl Top Cover
 
@@ -222263,7 +221362,6 @@ Rear (Hr)
 SFA818A
 Revision: 2013 November
 
-### 2014 Q70
 
 ### Precaution for Procedure without Cowl Top Cover
 
@@ -222468,7 +221566,6 @@ FSU-28
 [AWD]
 WHEEL ALIGNMENT
 
-### WHEEL ALIGNMENT
 
 ### Measure wheel alignment under unladen conditions.
 
@@ -222845,7 +221942,6 @@ Remove insulator form transverse link. (VK56VD)
 Remove mounting bolts, nuts, and stopper bushings, and then remove transverse link from suspension
 and vehicle.
 
-### 10. Perform inspection after removal. Refer to FSU-34, "Inspection".
 
 ### Inspection
 
@@ -222865,11 +221961,6 @@ Upper link
 Stopper rubber
 Refer to GI-4, "Components" for symbols in the figure.
 
-### JSEIA0409GB
-
-### Rotating Torque Inspection
-
-### INSPECTION AFTER INSTALLATION
 
 ### Swing torque
 
@@ -222903,9 +221994,6 @@ Remove mounting bolts and stopper rubber, and then remove upper link from vehicl
 4.
 Perform inspection after removal. Refer to FSU-36, "Inspection".
 
-### INSTALLATION
-
-### Inspection
 
 ### Ball Joint Inspection
 
@@ -223086,7 +222174,6 @@ Note the following, and install in the reverse order of removal.
 condition with tires on level ground.
 • Perform inspection after installation. Refer to FSU-40, "Inspection".
 
-### Inspection
 
 ### Exploded View".
 
@@ -224166,7 +223253,6 @@ Front lower link
 Rear lower link
 4.
 
-### TOE CONTROL LINK
 
 ### Revision: 2013 November
 
@@ -224516,7 +223602,6 @@ ROAD WHEELS & TIRES
 PRECAUTION .............................................. 3
 PRECAUTIONS .................................................. 3
 
-### Revision: 2013 November
 
 ### Precautions for Removing of Battery Terminal
 
@@ -226434,7 +225519,6 @@ B13 (Rear LH)
 B213 (Rear RH)
 Monitor item
 
-### Displayed value
 
 ### AIR PRESS RL
 
@@ -226472,7 +225556,6 @@ WT-38
 < DTC/CIRCUIT DIAGNOSIS >
 C1716, C1717, C1718, C1719 TIRE PRESSURE SENSOR
 
-### C1716, C1717, C1718, C1719 TIRE PRESSURE SENSOR
 
 ### Perform self-diagnosis for “AIR PRESSURE MONITOR”.
 
@@ -227440,7 +226523,6 @@ control units during operation (not independent). In CAN communication, control 
 communication lines (CAN-H line, CAN-L line) allowing a high rate of information transmission with less wiring.
 Each control unit communicates data but selectively reads required data only.
 
-### DTC Logic
 
 ### Perform self-diagnosis for “AIR PRESSURE MONITOR”.
 
@@ -229356,7 +228438,6 @@ PRECAUTIONS
 Precaution for Supplemental Restraint System (SRS) "AIR BAG" and "SEAT BELT
 PRE-TENSIONER"
 
-### INFOID:0000000010099751
 
 ### Precaution for Procedure without Cowl Top Cover
 
@@ -231052,7 +230133,6 @@ be easily bypassed by steering operation.
 • During braking, control units calculates wheel speed and pseudo-vehicle speed, and transmits pressure
 increase, hold or decrease signals to actuator portion according to wheel slip status.
 
-### Component
 
 ### Revision: 2013 November
 
@@ -231231,7 +230311,6 @@ INPUT SIGNAL AND OUTPUT SIGNAL
 Major signal transmission between each unit via communication lines is shown in the following table.
 *: Communication line between yaw rate/side/decel G sensor and ABS actuator and electric unit (control unit)
 
-### ACTIVE STABILITY ASSIST
 
 ### Combination meter
 
@@ -231329,7 +230408,6 @@ OFF.
 > all driving conditions (example: when road surface resistance is low).
 > OPERATION CHARACTERISTICS
 
-### Component
 
 ### Combination meter
 
@@ -232948,7 +232026,6 @@ NO
 Diagnostic Work Sheet
 INFOID:0000000010099789
 
-### Description
 
 ### INTERVIEW SHEET SAMPLE
 
@@ -233740,7 +232817,6 @@ FR RH SENSOR-2
 and front RH wheel sensor rotor is large.
 • When installation of front RH wheel sensor or front
 
-### RH wheel sensor rotor is not normal.
 
 ### LH wheel sensor rotor is not normal.
 
@@ -233930,7 +233006,6 @@ Perform self-diagnosis for “ABS”.
 Is DTC “C1105”, “C1106”, “C1107” or “C1108” detected?
 YES
 
-### >> GO TO 11.
 
 ### Is the inspection result normal?
 
@@ -233974,7 +233049,6 @@ Erase self-diagnosis result for “ABS”.
 Turn the ignition switch OFF, and wait 10 seconds or more.
 5.
 
-### Start the engine.
 
 ### >> GO TO 13.
 
@@ -234167,7 +233241,6 @@ INFOID:0000000010099799
 Ignition power supply is supplied to ABS actuator and electric unit (control unit).
 DTC Logic
 
-### INFOID:0000000010099800
 
 ### >> GO TO 2.
 
@@ -234353,7 +233426,6 @@ O
 P
 C1111 ABS MOTOR, MOTOR RELAY SYSTEM
 
-### DTC Logic
 
 ### >> GO TO 2.
 
@@ -234508,7 +233580,6 @@ O
 P
 C1115 WHEEL SENSOR
 
-### DTC Logic
 
 ### >> GO TO 2.
 
@@ -234610,7 +233681,6 @@ Perform self-diagnosis for “ABS”.
 Is DTC “C1115” detected?
 YES
 
-### Is the inspection result normal?
 
 ### >> GO TO 7.
 
@@ -234768,7 +233838,6 @@ Continuity
 Connector
 Terminal
 
-### Connector
 
 ### E27 (Front RH)
 
@@ -234838,9 +233907,6 @@ Perform self-diagnosis for “ABS”.
 Is DTC “C1115” detected?
 YES
 
-### >> GO TO 17.
-
-### >> GO TO 18.
 
 ### Is DTC “C1115” detected?
 
@@ -235045,7 +234111,6 @@ YES
 NO
 >> Replace stop lamp switch. Refer to BR-18, "Removal and Installation". GO TO 8.
 
-### 8.CHECK DATA MONITOR (3)
 
 ### Revision: 2013 November
 
@@ -235483,7 +234548,6 @@ BRC-98
 C1121, C1123, C1125, C1127 ABS OUT VALVE SYSTEM
 C1121, C1123, C1125, C1127 ABS OUT VALVE SYSTEM
 
-### DTC Logic
 
 ### >> GO TO 2.
 
@@ -235511,7 +234575,6 @@ Disconnect ABS actuator and electric unit (control unit) harness connector.
 Check voltage between ABS actuator and electric unit (control unit) harness connector and ground.
 4.
 
-### Turn the ignition switch ON.
 
 ### Display Item
 
@@ -235595,7 +234658,6 @@ C1130 ENGINE SIGNAL
 DTC Logic
 INFOID:0000000010099813
 
-### DTC DETECTION LOGIC
 
 ### >> GO TO 2.
 
@@ -235823,7 +234885,6 @@ O
 P
 C1142 PRESS SENSOR
 
-### DTC Logic
 
 ### >> GO TO 2.
 
@@ -236167,7 +235228,6 @@ O
 P
 C1144 INCOMPLETE STEERING ANGLE SENSOR ADJUSTMENT
 
-### DTC Logic
 
 ### >> GO TO 2.
 
@@ -237002,7 +236062,6 @@ O
 P
 C1170 VARIANT CODING
 
-### DTC Logic
 
 ### >> GO TO 2.
 
@@ -237629,7 +236688,6 @@ CAN communication allows a high rate of information transmission through the two
 (CAN-H line and CAN-L line) connecting various control units in the system. Each control unit transmits/
 receives data but selectively reads required data only.
 
-### DTC Logic
 
 ### >> GO TO 2.
 
@@ -237688,7 +236746,6 @@ Description
 INFOID:0000000010099847
 ADUS control unit reads status of signal that is transmitted from A/C auto AMP. to ADAS control unit.
 
-### DTC Logic
 
 ### >> GO TO 2.
 
@@ -237928,7 +236985,6 @@ E41
 Ground
 Battery voltage
 
-### ABS actuator and electric unit (control unit)
 
 ### < DTC/CIRCUIT DIAGNOSIS >
 
@@ -239968,7 +239024,6 @@ Stop lamp switch
 ICC brake switch
 11.
 
-### IBA OFF switch
 
 ### Revision: 2013 November
 
@@ -240394,7 +239449,6 @@ PRECAUTION
 PRECAUTIONS
 Precaution for Supplemental Restraint System (SRS) "AIR BAG" and "SEAT BELT
 
-### PRE-TENSIONER"
 
 ### PRECAUTIONS WHEN USING POWER TOOLS (AIR OR ELECTRIC) AND HAMMERS
 
@@ -241690,7 +240744,6 @@ PRECAUTIONS .................................................. 2
 Precaution for Supplemental Restraint System
 (SRS) "AIR BAG" and "SEAT BELT PRE-TENSIONER" ..................................................................2
 
-### Revision: 2013 November
 
 ### Precautions for Removing of Battery Terminal
 
@@ -242157,7 +241210,6 @@ AFTER A COLLISION
 > pre-tensioners should be replaced even if the seat belts were not in use during a frontal collision in
 > which the air bags were deployed.
 
-### Replace any seat belt assembly (including anchor bolts) if:
 
 ### PRELIMINARY CHECKS
 
@@ -242465,9 +241517,6 @@ Revision: 2013 November
 REAR SEAT BELT
 SB-15
 
-### < REMOVAL AND INSTALLATION >
-
-### Replace any seat belt assembly (including anchor bolts) if:
 
 ### PRELIMINARY CHECKS
 
@@ -242632,7 +241681,6 @@ Precaution for Supplemental Restraint System
 (SRS) "AIR BAG" and "SEAT BELT PRE-TENSIONER" ..................................................................2
 Precautions Necessary for Steering Wheel Rotation After Battery Disconnection ...............................2
 
-### Revision: 2013 November
 
 ### Revision: 2013 November
 
@@ -243529,7 +242577,6 @@ Regulator assembly
 Module base
 4.
 
-### Power window motor
 
 ### GW-20
 
@@ -243784,7 +242831,6 @@ If any of the following work has been done, initialize the system. Refer to PWC-
 Initialization
 After installing each component to the vehicle, follow the steps below. Refer to PWC-31, "Work Procedure".
 
-### FITTING INSPECTION
 
 ### Revision: 2013 November
 
@@ -243846,9 +242892,6 @@ N
 O
 P
 
-### PRECAUTION
-
-### Precaution for Procedure without Cowl Top Cover
 
 ### PIIB3706J
 
@@ -245048,7 +244091,6 @@ YES
 >> Check intermittent incident. Refer to GI-47, "Intermittent Incident".
 NO
 
-### >> GO TO 1.
 
 ### DUPLICATE THE NOISE AND TEST DRIVE
 
@@ -245111,7 +244153,6 @@ After repair is complete, test drive the vehicle to confirm that the cause of no
 vehicle. Operate the vehicle under the same conditions as when the noise originally occurred. Refer to the
 notes on the Diagnostic Worksheet.
 
-### Inspection Procedure
 
 ### TRUNK
 
@@ -245702,7 +244743,6 @@ Precaution for Supplemental Restraint System
 (SRS) "AIR BAG" and "SEAT BELT PRE-TENSIONER" ..................................................................3
 Precautions for Removing of Battery Terminal ........3
 
-### Revision: 2013 November
 
 ### Precautions for Removing of Battery Terminal
 
@@ -246141,7 +245181,6 @@ Stops the operation in the conditions as per the following.
 • During emergency brake operation
 • When ABS continuously operates
 
-### B2455:CONTROL UNIT DR
 
 ### Revision: 2013 November
 
@@ -248336,7 +247375,6 @@ When fastening and unfastening seat belt or opening and closing door is repeated
 period of time, the system temporarily deactivates the retracting function of seat belt to prevent excessive
 heating. The system recovers automatically.
 
-### DTC Logic
 
 ### Is DTC detected?
 
@@ -248393,7 +247431,6 @@ When fastening and unfastening seat belt or opening and closing door is repeated
 period of time, the system temporarily deactivates the retracting function of seat belt to prevent excessive
 heating. The system recovers automatically.
 
-### DTC Logic
 
 ### Is DTC detected?
 
@@ -249362,7 +248399,6 @@ PRECAUTIONS .................................................. 2
 Precaution for Supplemental Restraint System
 (SRS) "AIR BAG" and "SEAT BELT PRE-TEN-
 
-### Revision: 2013 November
 
 ### Precautions for Removing of Battery Terminal
 
@@ -249860,7 +248896,6 @@ REPLACE the satellite sensor on the collision side with new fasteners.
 Diagnosis sensor unit
 If any of the SRS components have deployed:
 
-### REPLACE the diagnosis sensor unit with new fasteners.
 
 ### Center inner pillar
 
@@ -250723,7 +249758,6 @@ or sustained an impact.
 • Replace the front door satellite sensor of deployed side air bag module and deployed curtain air bag
 module.
 
-### Installation
 
 ### SATELLITE SENSOR
 
@@ -251226,7 +250260,6 @@ load limiter.
 • Lap pre-tensioner upgrades passenger restrain function by reducing movement of
 lumber during a frontal collision or side collision.
 
-### Occupant classification system control unit
 
 ### Passenger air bag OFF indicator
 
@@ -251272,7 +250305,6 @@ Seat belt pre-tensioner LH/RH
 the air bag diagnosis sensor unit detects the deceleration caused by collision. It restrains the passenger with seat belt easing the stress on passengers chest with
 load limiter.
 
-### Side air bag module LH/RH
 
 ### Component
 
@@ -253330,7 +252362,6 @@ WARNING:
 or more. (To discharge backup capacitor.)
 • Never use unspecified tester or other measuring device.
 
-### Is the inspection result normal?
 
 ### Is DTC detected?
 
@@ -253523,7 +252554,6 @@ WARNING:
 or more. (To discharge backup capacitor.)
 • Never use unspecified tester or other measuring device.
 
-### Is the inspection result normal?
 
 ### Is DTC detected?
 
@@ -253584,7 +252614,6 @@ O
 P
 B1026, B1027, B1028, B1029, B1030, B1031 DIAGNOSIS SENSOR UNIT
 
-### DTC Logic
 
 ### Is malfunctioning part detected?
 
@@ -253599,7 +252628,6 @@ WARNING:
 or more. (To discharge backup capacitor.)
 • Never use unspecified tester or other measuring device.
 
-### >> GO TO 3.
 
 ### Is DTC detected?
 
@@ -253704,7 +252732,6 @@ SRC-54
 < DTC/CIRCUIT DIAGNOSIS >
 B1035 CRASH ZONE SENSOR
 
-### B1035 CRASH ZONE SENSOR
 
 ### Is malfunctioning part detected?
 
@@ -253729,7 +252756,6 @@ Replace crash zone sensor. Refer to SR-21, "Removal and Installation".
 2.
 Perform DTC confirmation procedure. Refer to SRC-54, "DTC Logic".
 
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -253805,7 +252831,6 @@ WARNING:
 or more. (To discharge backup capacitor.)
 • Never use unspecified tester or other measuring device.
 
-### >> GO TO 3.
 
 ### Is DTC detected?
 
@@ -253874,7 +252899,6 @@ Replace crash zone sensor. Refer to SR-21, "Removal and Installation".
 2.
 Perform DTC confirmation procedure. Refer to SRC-57, "DTC Logic".
 
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -253931,9 +252955,6 @@ DTC DETECTION LOGIC
 DTC CONFIRMATION PROCEDURE
 1.CHECK SELF-DIAG RESULT
 
-### With CONSULT
-
-### >> GO TO 3.
 
 ### Is DTC detected?
 
@@ -254133,7 +253154,6 @@ YES
 >> Refer to SRC-62, "Diagnosis Procedure".
 NO
 
-### >> INSPECTION END
 
 ### >> GO TO 3.
 
@@ -254321,7 +253341,6 @@ B1052, B1057 DRIVER AIR BAG MODULE
 B1052, B1057 DRIVER AIR BAG MODULE
 DTC Logic
 
-### Turn ignition switch ON.
 
 ### >> INSPECTION END
 
@@ -254597,7 +253616,6 @@ N
 O
 P
 
-### B1066, B1071 PASSENGER AIR BAG MODULE
 
 ### Is malfunctioning part detected?
 
@@ -254612,7 +253630,6 @@ WARNING:
 minutes or more. (To discharge backup capacitor.)
 • Never use unspecified tester or other measuring device.
 
-### >> GO TO 3.
 
 ### Is DTC detected?
 
@@ -254711,7 +253728,6 @@ Replace air bag diagnosis sensor unit. Refer to SR-25, "Removal and Installation
 2.
 Perform DTC confirmation procedure. Refer to SRC-73, "DTC Logic".
 
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -254799,7 +253815,6 @@ Replace air bag diagnosis sensor unit. Refer to SR-25, "Removal and Installation
 2.
 Perform DTC confirmation procedure. Refer to SRC-75, "DTC Logic".
 
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -255144,7 +254159,6 @@ Replace seat belt pre-tensioner RH. Refer to SR-27, "Removal and Installation".
 2.
 Perform DTC confirmation procedure. Refer to SRC-82, "DTC Logic".
 
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -255425,7 +254439,6 @@ Replace seat belt pre-tensioner LH. Refer to SR-27, "Removal and Installation".
 2.
 Perform DTC confirmation procedure. Refer to SRC-88, "DTC Logic".
 
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -255608,7 +254621,6 @@ Replace seat belt pre-tensioner LH. Refer to SR-27, "Removal and Installation".
 2.
 Perform DTC confirmation procedure. Refer to SRC-92, "DTC Logic".
 
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -255685,9 +254697,6 @@ WARNING:
 minutes or more. (To discharge backup capacitor.)
 • Never use unspecified tester or other measuring device.
 
-### >> GO TO 3.
-
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -255764,7 +254773,6 @@ WARNING:
 minutes or more. (To discharge backup capacitor.)
 • Never use unspecified tester or other measuring device.
 
-### >> GO TO 3.
 
 ### Is DTC detected?
 
@@ -255811,7 +254819,6 @@ O
 P
 B1106, B1107, B1108, B1109, B1110, B1111 DIAGNOSIS SENSOR UNIT
 
-### DTC Logic
 
 ### Is malfunctioning part detected?
 
@@ -255879,7 +254886,6 @@ Replace satellite sensor RH. Refer to SR-23, "Removal and Installation".
 2.
 Perform DTC confirmation procedure. Refer to SRC-98, "DTC Logic".
 
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -255965,7 +254971,6 @@ Replace satellite sensor RH. Refer to SR-23, "Removal and Installation".
 2.
 Perform DTC confirmation procedure. Refer to SRC-100, "DTC Logic".
 
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -256015,7 +255020,6 @@ SRC-102
 < DTC/CIRCUIT DIAGNOSIS >
 B1116 SATELLITE SENSOR RH
 
-### B1116 SATELLITE SENSOR RH
 
 ### Is malfunctioning part detected?
 
@@ -256117,7 +255121,6 @@ Replace satellite sensor LH. Refer to SR-23, "Removal and Installation".
 2.
 Perform DTC confirmation procedure. Refer to SRC-103, "DTC Logic"
 
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -256203,7 +255206,6 @@ Replace satellite sensor LH. Refer to SR-23, "Removal and Installation".
 2.
 Perform DTC confirmation procedure. Refer to SRC-105, "DTC Logic".
 
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -256289,7 +255291,6 @@ Replace satellite sensor LH. Refer to SR-23, "Removal and Installation".
 2.
 Perform DTC confirmation procedure. Refer to SRC-107, "DTC Logic".
 
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -256328,7 +255329,6 @@ INFOID:0000000010100402
 > >> INSPECTION END
 > Diagnosis Procedure
 
-### >> GO TO 3.
 
 ### Is DTC detected?
 
@@ -256497,7 +255497,6 @@ WARNING:
 minutes or more. (To discharge backup capacitor.)
 • Never use unspecified tester or other measuring device.
 
-### >> GO TO 3.
 
 ### Is DTC detected?
 
@@ -256586,7 +255585,6 @@ WARNING:
 minutes or more. (To discharge backup capacitor.)
 • Never use unspecified tester or other measuring device.
 
-### >> GO TO 3.
 
 ### Is DTC detected?
 
@@ -256685,7 +255683,6 @@ Replace air bag diagnosis sensor unit. Refer to SR-25, "Removal and Installation
 2.
 Perform DTC confirmation procedure. Refer to SRC-115, "DTC Logic".
 
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -256748,7 +255745,6 @@ Turn ignition switch ON.
 2.
 Perform “Self Diagnostic Result” mode of “AIR BAG” using CONSULT.
 
-### Is malfunctioning part detected?
 
 ### >> GO TO 3.
 
@@ -256819,7 +255815,6 @@ N
 O
 P
 
-### B1135 SIDE AIR BAG MODULE LH
 
 ### Is malfunctioning part detected?
 
@@ -256834,9 +255829,6 @@ WARNING:
 minutes or more. (To discharge backup capacitor.)
 • Never use unspecified tester or other measuring device.
 
-### >> GO TO 3.
-
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -256887,7 +255879,6 @@ N
 O
 P
 
-### B1136 SIDE AIR BAG MODULE LH
 
 ### Is malfunctioning part detected?
 
@@ -256902,9 +255893,6 @@ WARNING:
 minutes or more. (To discharge backup capacitor.)
 • Never use unspecified tester or other measuring device.
 
-### >> GO TO 3.
-
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -256981,7 +255969,6 @@ WARNING:
 minutes or more. (To discharge backup capacitor.)
 • Never use unspecified tester or other measuring device.
 
-### >> GO TO 3.
 
 ### Is DTC detected?
 
@@ -257060,7 +256047,6 @@ DTC CONFIRMATION PROCEDURE
 > >> INSPECTION END
 > Diagnosis Procedure
 
-### >> GO TO 3.
 
 ### Is DTC detected?
 
@@ -257095,7 +256081,6 @@ INFOID:0000000010100422
 DTC DETECTION LOGIC
 DTC CONFIRMATION PROCEDURE
 
-### >> GO TO 3.
 
 ### Is DTC detected?
 
@@ -257143,7 +256128,6 @@ INFOID:0000000010100424
 DTC DETECTION LOGIC
 DTC CONFIRMATION PROCEDURE
 
-### >> GO TO 3.
 
 ### Is DTC detected?
 
@@ -257205,7 +256189,6 @@ N
 O
 P
 
-### B1146 CURTAIN AIR BAG MODULE RH
 
 ### Is malfunctioning part detected?
 
@@ -257220,7 +256203,6 @@ WARNING:
 minutes or more. (To discharge backup capacitor.)
 • Never use unspecified tester or other measuring device.
 
-### >> GO TO 3.
 
 ### Is DTC detected?
 
@@ -257309,9 +256291,6 @@ WARNING:
 minutes or more. (To discharge backup capacitor.)
 • Never use unspecified tester or other measuring device.
 
-### >> GO TO 3.
-
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -257582,7 +256561,6 @@ WARNING:
 minutes or more. (To discharge backup capacitor.)
 • Never use unspecified tester or other measuring device.
 
-### >> GO TO 3.
 
 ### Is DTC detected?
 
@@ -257645,7 +256623,6 @@ N
 O
 P
 
-### B1152 CURTAIN AIR BAG MODULE LH
 
 ### Is malfunctioning part detected?
 
@@ -257660,9 +256637,6 @@ WARNING:
 minutes or more. (To discharge backup capacitor.)
 • Never use unspecified tester or other measuring device.
 
-### >> GO TO 3.
-
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -257713,7 +256687,6 @@ N
 O
 P
 
-### B1153 CURTAIN AIR BAG MODULE LH
 
 ### Is malfunctioning part detected?
 
@@ -257728,9 +256701,6 @@ WARNING:
 minutes or more. (To discharge backup capacitor.)
 • Never use unspecified tester or other measuring device.
 
-### >> GO TO 3.
-
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -257798,7 +256768,6 @@ DTC CONFIRMATION PROCEDURE
 > >> INSPECTION END
 > Diagnosis Procedure
 
-### >> GO TO 3.
 
 ### Is DTC detected?
 
@@ -257830,11 +256799,6 @@ B1170, B1171, B1172, B1173, B1174, B1175 DIAGNOSIS SENSOR UNIT
 B1170, B1171, B1172, B1173, B1174, B1175 DIAGNOSIS SENSOR UNIT
 DTC Logic
 
-### Turn ignition switch ON.
-
-### >> INSPECTION END
-
-### >> GO TO 3.
 
 ### Is DTC detected?
 
@@ -257909,7 +256873,6 @@ Replace lap pre-tensioner LH. Refer to SR-27, "Removal and Installation".
 2.
 Perform DTC confirmation procedure. Refer to SRC-145, "DTC Logic".
 
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -257954,9 +256917,6 @@ With CONSULT
 > Diagnosis Procedure
 > INFOID:0000000010100447
 
-### >> GO TO 3.
-
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -258026,7 +256986,6 @@ Replace lap pre-tensioner LH. Refer to SR-27, "Removal and Installation".
 2.
 Perform DTC confirmation procedure. Refer to SRC-147, "DTC Logic".
 
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -258072,9 +257031,6 @@ With CONSULT
 > Diagnosis Procedure
 > INFOID:0000000010100451
 
-### >> GO TO 3.
-
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -258120,11 +257076,6 @@ O
 P
 B1186, B1187, B1188, B1189, B1190, B1191 DIAGNOSIS SENSOR UNIT
 
-### DTC Logic
-
-### Is malfunctioning part detected?
-
-### >> GO TO 3.
 
 ### Is DTC detected?
 
@@ -258156,11 +257107,6 @@ B1202, B1203, B1204, B1205, B1206, B1207 DIAGNOSIS SENSOR UNIT
 B1202, B1203, B1204, B1205, B1206, B1207 DIAGNOSIS SENSOR UNIT
 DTC Logic
 
-### Turn ignition switch ON.
-
-### >> INSPECTION END
-
-### >> GO TO 3.
 
 ### Is DTC detected?
 
@@ -258210,7 +257156,6 @@ Description
 INFOID:0000000010100456
 The air bags and seat belt pre-tensioners for driver and passenger are activated by the air bag diagnosis sensor unit signal transmitted at the time of the frontal collision.
 
-### DTC Logic
 
 ### Is malfunctioning part detected?
 
@@ -258348,7 +257293,6 @@ WARNING:
 minutes or more. (To discharge backup capacitor.)
 • Never use unspecified tester or other measuring device.
 
-### >> GO TO 3.
 
 ### Is DTC detected?
 
@@ -258446,7 +257390,6 @@ Replace satellite sensor LH. Refer to SR-23, "Removal and Installation".
 2.
 Perform DTC confirmation procedure. Refer to SRC-155, "DTC Logic"
 
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -258504,7 +257447,6 @@ DTC DETECTION LOGIC
 DTC CONFIRMATION PROCEDURE
 1.CHECK SELF-DIAG RESULT
 
-### >> GO TO 3.
 
 ### Is DTC detected?
 
@@ -258536,11 +257478,6 @@ B1234, B1235, B1236, B1237, B1238, B1239 DIAGNOSIS SENSOR UNIT
 B1234, B1235, B1236, B1237, B1238, B1239 DIAGNOSIS SENSOR UNIT
 DTC Logic
 
-### Turn ignition switch ON.
-
-### >> INSPECTION END
-
-### >> GO TO 3.
 
 ### Is DTC detected?
 
@@ -258587,7 +257524,6 @@ O
 P
 B1250, B1251, B1252, B1253, B1254, B1255 DIAGNOSIS SENSOR UNIT
 
-### DTC Logic
 
 ### Is malfunctioning part detected?
 
@@ -258645,7 +257581,6 @@ Replace front door satellite sensor RH. Refer to SR-23, "Removal and Installatio
 2.
 Perform DTC confirmation procedure. Refer to SRC-160, "DTC Logic".
 
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -258995,7 +257930,6 @@ Replace front door satellite sensor LH. Refer to SR-23, "Removal and Installatio
 2.
 Perform DTC confirmation procedure. Refer to SRC-170, "DTC Logic".
 
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -259139,7 +258073,6 @@ YES
 NO
 >> INSPECTION END
 
-### 2.REPLACE AIR BAG DIAGNOSIS SENSOR UNIT
 
 ### Display contents of
 
@@ -259370,7 +258303,6 @@ Precaution for Supplemental Restraint System
 (SRS) "AIR BAG" and "SEAT BELT PRE-TENSIONER" ..................................................................3
 Precaution for Procedure without Cowl Top Cover ......3
 
-### Revision: 2013 November
 
 ### Precaution for Procedure without Cowl Top Cover
 
@@ -260785,7 +259717,6 @@ signal from A/C auto amp.
 • According to PBR feedback signal, A/C auto amp. monitors that motor is in an appropriate door position.
 HEATER & COOLING UNIT ASSEMBLY : Mode Door Motor (Passenger side)
 
-### INFOID:0000000010099390
 
 ### HEATER & COOLING UNIT ASSEMBLY : Rear Mode Door Motor
 
@@ -262329,7 +261260,6 @@ automatic control. (Intake switch indicator indicates air inlet state during aut
 > at a rate of 0.5°C (1.0°F) per adjustment.
 > •
 
-### Press: Setting temperature increases
 
 ### Switch name
 
@@ -266678,7 +265608,6 @@ NOTE:
 • If DTC is displayed along with DTC U1010, first perform the trouble diagnosis for DTC U1010. HAC-82,
 "DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### >> INSPECTION END
 
@@ -267022,7 +265951,6 @@ NOTE:
 • Sunload sensor may register a malfunction when indoors, at dusk, or at other times when light is insufficient.
 When performing the diagnosis indoors, use a lamp (60 W or more) that is pointed at the sunload sensor.
 
-### DTC CONFIRMATION PROCEDURE
 
 ### >> INSPECTION END
 
@@ -267168,7 +266096,6 @@ YES
 NO
 >> Replace sunload sensor. Refer to HAC-178, "Removal and Installation".
 
-### 7.CHECK INTERMITTENT INCIDENT
 
 ### Continuity
 
@@ -267301,7 +266228,6 @@ circuit. Refer to HAC-145, "DOOR MOTOR PBR (WITH FOREST AIR) : Diagnosis Procedu
 circuit. Refer to HAC-147, "DOOR MOTOR PBR (WITHOUT FOREST AIR) : Diagnosis Procedure" (Without
 Forest Air).
 
-### DTC CONFIRMATION PROCEDURE
 
 ### >> INSPECTION END
 
@@ -268249,9 +267175,6 @@ P
 B2756, B2757, B2758 MODE DOOR MOTOR (DRIVER SIDE)
 DTC Logic
 
-### INFOID:0000000010099468
-
-### DTC CONFIRMATION PROCEDURE
 
 ### >> INSPECTION END
 
@@ -268727,7 +267650,6 @@ HAC-114
 [AUTOMATIC AIR CONDITIONING]
 B2759, B275A, B275B MODE DOOR MOTOR (PASSENGER SIDE)
 
-### B2759, B275A, B275B MODE DOOR MOTOR (PASSENGER SIDE)
 
 ### DTC CONFIRMATION PROCEDURE
 
@@ -269235,9 +268157,6 @@ O
 P
 B275C, B275D, B275E INTAKE DOOR MOTOR
 
-### DTC Logic
-
-### DTC CONFIRMATION PROCEDURE
 
 ### >> INSPECTION END
 
@@ -269720,9 +268639,6 @@ HAC-124
 [AUTOMATIC AIR CONDITIONING]
 B275F, B2760, B2761 UPPER VENTILATOR DOOR MOTOR
 
-### B275F, B2760, B2761 UPPER VENTILATOR DOOR MOTOR
-
-### DTC CONFIRMATION PROCEDURE
 
 ### >> INSPECTION END
 
@@ -270344,7 +269260,6 @@ HAC-130
 B2762, B2763, B2764 REAR MODE DOOR MOTOR
 B2762, B2763, B2764 REAR MODE DOOR MOTOR
 
-### DTC Logic
 
 ### DTC CONFIRMATION PROCEDURE
 
@@ -270832,9 +269747,6 @@ N
 O
 P
 
-### B2768, B2769, B276A AROMA MOTOR
-
-### DTC CONFIRMATION PROCEDURE
 
 ### >> INSPECTION END
 
@@ -271300,9 +270212,6 @@ HAC-140
 B276B, B276C, B276D HUMIDITY SENSOR
 B276B, B276C, B276D HUMIDITY SENSOR
 
-### DTC Logic
-
-### DTC CONFIRMATION PROCEDURE
 
 ### >> INSPECTION END
 
@@ -271654,7 +270563,6 @@ YES
 >> INSPECTION END
 NO
 
-### >> GO TO 15.
 
 ### Component Inspection
 
@@ -275174,9 +274082,6 @@ FRONT DOOR FINISHER ................................ 30
 Exploded View ....................................................... 30
 FRONT DOOR FINISHER ........................................ 30
 
-### Revision: 2013 November
-
-### Precaution for Procedure without Cowl Top Cover
 
 ### 2014 Q70
 
@@ -275593,7 +274498,6 @@ DETAILED FLOW
 1.OBTAIN INFORMATION ABOUT SYMPTOM
 Interview the customer to obtain as much malfunction information (conditions and environment when the malfunction occurred) as possible when the customer brings the vehicle in.
 
-### >> GO TO 2.
 
 ### >> GO TO 4.
 
@@ -276019,7 +274923,6 @@ Revision: 2013 November
 INT-24
 < SYMPTOM DIAGNOSIS >
 
-### SQUEAK AND RATTLE TROUBLE DIAGNOSES
 
 ### SBT842
 
@@ -276056,7 +274959,6 @@ The following materials, not found in the kit, can also be used to repair squeak
 UHMW (TEFLON) TAPE
 Insulates where slight movement is present. Ideal for instrument panel applications.
 
-### Inspection Procedure
 
 ### Revision: 2013 November
 
@@ -277896,7 +276798,6 @@ Note the following item, and then install in the reverse order of removal.
 > INSTRUMENT PANEL
 > PRECAUTION .............................................. 2
 
-### Revision: 2013 November
 
 ### Revision: 2013 November
 
@@ -277970,7 +276871,6 @@ Special Service Tools
 INFOID:0000000010099366
 The actual shapes of Kent-Moore tools may differ from those of special service tools illustrated here.
 
-### Commercial Service Tools
 
 ### Tool name
 
@@ -278017,7 +276917,6 @@ IP-6
 < SYMPTOM DIAGNOSIS >
 SQUEAK AND RATTLE TROUBLE DIAGNOSES
 
-### SYMPTOM DIAGNOSIS
 
 ### DUPLICATE THE NOISE AND TEST DRIVE
 
@@ -278062,7 +276961,6 @@ Used to insulate where movement does not occur. Ideal for instrument panel appli
 • 68239-13E00: 5 mm (0.197 in) wide tape roll
 The following materials, not found in the kit, can also be used to repair squeaks and rattles.
 
-### Inspection Procedure
 
 ### TRUNK
 
@@ -279441,7 +278339,6 @@ O
 P
 Diagnosis Procedure ..............................................92
 
-### Revision: 2013 November
 
 ### Precautions for Removing of Battery Terminal
 
@@ -279516,7 +278413,6 @@ Special Service Tool
 INFOID:0000000010102024
 The actual shapes of Kent-Moore tools may differ from those of special service tools illustrated here.
 
-### Commercial Service Tool
 
 ### Tool name
 
@@ -280344,7 +279240,6 @@ and seat cushion thermal electric unit becomes less than 20°C, the system recov
 automatic system recovery, it immediately stops all output and enters the
 system OFF condition.
 
-### Climate controlled seat blower motor system open circuit
 
 ### Revision: 2013 November
 
@@ -280473,7 +279368,6 @@ SE-22
 HEATED SEAT CONTROL UNIT (PASSENGER SIDE)
 HEATED SEAT CONTROL UNIT (PASSENGER SIDE)
 
-### Reference Value
 
 ### (LG/R)
 
@@ -284273,7 +283167,6 @@ NO
 Check temperature adjustment function of climated controlled seat.
 Refer to SE-87, "SEAT CUSHION : Diagnosis Procedure".
 
-### Is the inspection result normal?
 
 ### >> GO TO 1.
 
@@ -284566,7 +283459,6 @@ noise.
 • Placing a piece of paper between components that are suspected to be the cause of the noise.
 • Looking for loose components and contact marks.
 
-### Refer to SE-97, "Inspection Procedure".
 
 ### Department.
 
@@ -284651,7 +283543,6 @@ Pay attention to the following:
 Finisher and inner panel making a slapping noise
 2.
 
-### Inside handle escutcheon to door finisher
 
 ### TRUNK
 
@@ -284691,9 +283582,6 @@ SEATS
 When isolating seat noise it's important to note the position the seats in and the load placed on the seat when
 the noise occurs. These conditions should be duplicated when verifying and isolating the cause of the noise.
 
-### Cause of seat noise include:
-
-### Components that pass through the engine wall
 
 ### Revision: 2013 November
 
@@ -285935,7 +284823,6 @@ Exploded View
 INFOID:0000000010102110
 Refer to IP-23, "Exploded View".
 
-### Removal and Installation
 
 ### Assembly".
 
@@ -285996,7 +284883,6 @@ Turn blower filter counter clockwise and remove it from climate controlled seat 
 > O
 > P
 
-### CONTENTS
 
 ### INSPECTION AND ADJUSTMENT ..................56
 
@@ -286032,7 +284918,6 @@ P
 CHANGEOVER SWITCH : Component Function
 Check .....................................................................89
 
-### Revision: 2013 November
 
 ### Precautions for Removing of Battery Terminal
 
@@ -291347,7 +290232,6 @@ LIFTING SWITCH (FRONT)
 NO
 >> Repair or replace harness or connector.
 
-### 3.CHECK LIFTING SWITCH (FRONT)
 
 ### >> INSPECTION END
 
@@ -293526,7 +292410,6 @@ INFOID:0000000010099644
 Select “TILT PULSE” in “Data monitor” mode with CONSULT.
 2.
 
-### Check tilt sensor signal under the following conditions.
 
 ### Diagnosis Procedure
 
@@ -294915,7 +293798,6 @@ N
 O
 P
 
-### Is the inspection result normal?
 
 ### Not existed
 
@@ -296158,7 +295040,6 @@ YES
 NO
 >> Refer to ADP-132, "SEAT RECLINING : Diagnosis Procedure"
 
-### 2.CHECK RECLINING SENSOR
 
 ### Is the result normal?
 
@@ -296755,7 +295636,6 @@ Remove the front door finisher. Refer to INT-31, "FRONT DOOR FINISHER : Removal 
 2.
 Press pawls and remove seat memory switch from front door finisher, with flat-bladed screw driver.
 
-### INSTALLATION
 
 ### Revision: 2013 November
 
@@ -296791,7 +295671,6 @@ Remove the front seat (driver side). Refer to SE-108, "Removal and Installation"
 Remove the seat cushion outer finisher. Refer to SE-111, "SEAT CUSHION : Disassembly and Assembly".
 3.
 
-### Remove the screws.
 
 ### Revision: 2013 November
 
@@ -296928,9 +295807,6 @@ PRECAUTION
 PRECAUTIONS
 Precaution for Supplemental Restraint System (SRS) "AIR BAG" and "SEAT BELT
 
-### PRE-TENSIONER"
-
-### Precaution for Procedure without Cowl Top Cover
 
 ### PIIB3706J
 
@@ -296979,7 +295855,6 @@ Special Service Tools
 INFOID:0000000010102745
 The actual shapes of Kent-Moore tools may differ from those of special service tools illustrated here.
 
-### Commercial Service Tools
 
 ### Tool name
 
@@ -299762,7 +298637,6 @@ the incident/malfunction occurs).
 2.
 Check operation condition of the function that is malfunctioning.
 
-### >> GO TO 2.
 
 ### Check related service bulletins for information.
 
@@ -299771,7 +298645,6 @@ Symptom is described, DTC is displayed>>GO TO 3.
 Symptom is described, DTC is not displayed>>GO TO 4.
 Symptom is not described, DTC is displayed>>GO TO 5.
 
-### 3.CONFIRM THE SYMPTOM
 
 ### >> GO TO 5.
 
@@ -300311,7 +299184,6 @@ When Intelligent Key is not in antenna detection area
 JMKIA3839GB
 JMKIA5951GB
 
-### Revision: 2013 November
 
 ### 3.CHECK INSIDE KEY ANTENNA INPUT SIGNAL 2
 
@@ -300579,7 +299451,6 @@ YES
 NO
 >> Inside key antenna (passenger side) is OK.
 
-### Diagnosis Procedure
 
 ### >> GO TO 2.
 
@@ -300726,7 +299597,6 @@ YES
 NO
 >> Inside key antenna (rear bumper) is OK.
 
-### Diagnosis Procedure
 
 ### >> GO TO 2.
 
@@ -302083,7 +300953,6 @@ Check continuity between BCM harness connector and rear door lock assembly RH ha
 3.
 Check continuity between BCM harness connector and ground.
 
-### Is the inspection result normal?
 
 ### Rear door lock assembly RH
 
@@ -304139,7 +303008,6 @@ REAR LH : Diagnosis Procedure
 INFOID:0000000010102849
 1.CHECK DOOR LOCK ACTUATOR
 
-### Check rear door lock assembly LH.
 
 ### Is the result normal?
 
@@ -304358,7 +303226,6 @@ PASSENGER SIDE : Diagnosis Procedure
 INFOID:0000000010102858
 1.CHECK PASSENGER SIDE DOOR REQUEST SWITCH
 
-### Check passenger side door request switch.
 
 ### Is the result normal?
 
@@ -305043,7 +303910,6 @@ N
 O
 P
 
-### P RANGE INTERLOCK DOOR LOCK/UNLOCK FUNCTION DOES NOT OP-
 
 ### Is the inspection result normal?
 
@@ -305735,7 +304601,6 @@ YES
 NO
 >> Repair or replace the malfunctioning parts.
 
-### 4.CHECK TRUNK LID OPEN SIGNAL CIRCUIT
 
 ### Check combination meter buzzer.
 
@@ -305809,7 +304674,6 @@ INFOID:0000000010102887
 1.CHECK DTC WITH BCM
 Check that DTC is not detected with BCM.
 
-### Is the inspection result normal?
 
 ### >> GO TO 3.
 
@@ -305919,7 +304783,6 @@ N
 O
 P
 
-### KEY ID WARNING DOES NOT OPERATE
 
 ### 2.CHECK DTC WITH COMBINATION METER
 
@@ -305932,7 +304795,6 @@ NO
 3.CHECK INTELLIGENT KEY BATTERY
 Check Intelligent Key battery.
 
-### Refer to DLK-110, "Component Inspection".
 
 ### >> GO TO 5.
 
@@ -305955,7 +304817,6 @@ DLK-146
 SQUEAK AND RATTLE TROUBLE DIAGNOSES
 SQUEAK AND RATTLE TROUBLE DIAGNOSES
 
-### Work Flow
 
 ### SBT842
 
@@ -305982,7 +304843,6 @@ O
 P
 If the noise can be duplicated easily during the test drive, to help identify the source of the noise, try to duplicate the noise with the vehicle stopped by doing one or all of the following:
 
-### Department.
 
 ### UHMW (TEFLON) TAPE
 
@@ -308990,7 +307850,6 @@ B210D STARTER RELAY ...............................100
 DTC Logic ............................................................ 100
 Diagnosis Procedure ............................................ 100
 
-### Revision: 2013 November
 
 ### Precautions for Removing of Battery Terminal
 
@@ -309390,7 +308249,6 @@ Starter control relay and starter relay are used for the engine starting functio
 Both relays are integrated in IPDM E/R. Starter relay is controlled by BCM, and starter control relay is controlled by IPDM E/R while communicating with BCM.
 IPDM E/R transmits starter relay and starter control relay status signal to BCM via CAN communication.
 
-### Starter Relay
 
 ### Stop Lamp Switch
 
@@ -309742,7 +308600,6 @@ Power source is supplied to the starter motor through the starter relay and the 
 stop signal to IPDM E/R and stops cranking by turning off the starter motor relay. (If engine start is unsuccessful, cranking stops automatically within 5 seconds.)
 *: For the engine start condition, refer to “POWER SUPPLY POSITION CHANGE TABLE BY PUSH-BUTTON
 
-### IGNITION SWITCH OPERATION” below.
 
 ### LOCK → ACC → ON → OFF
 
@@ -314265,7 +313122,6 @@ Revision: 2013 November
 SEC-86
 < DTC/CIRCUIT DIAGNOSIS >
 
-### [WITH INTELLIGENT KEY SYSTEM]
 
 ### A/T shift selector (detention switch)
 
@@ -314742,7 +313598,6 @@ SEC-92
 < DTC/CIRCUIT DIAGNOSIS >
 [WITH INTELLIGENT KEY SYSTEM]
 
-### B2608 STARTER RELAY
 
 ### 4.CHECK INTERMITTENT INCIDENT
 
@@ -317432,7 +316287,6 @@ PWC-4
 < PRECAUTION >
 PRECAUTIONS
 
-### PRECAUTION
 
 ### Precautions for Removing of Battery Terminal
 
@@ -317744,7 +316598,6 @@ APPLICATION ITEM
 CONSULT performs the following functions via CAN communication with BCM.
 SYSTEM APPLICATION
 
-### BCM can perform the following functions for each system.
 
 ### SIGNAL BUFFER
 
@@ -318023,7 +316876,6 @@ Voltage [V]
 +
 -
 
-### Signal name
 
 ### Glass recognition position
 
@@ -318169,7 +317021,6 @@ Terminal No.
 (wire color)
 Description
 
-### Condition
 
 ### Glass recognition position
 
@@ -318310,7 +317161,6 @@ When ignition switch ON or power window timer operates
 Terminal No.
 (wire color)
 
-### Description
 
 ### Glass recognition position
 
@@ -318670,7 +317520,6 @@ Revision: 2013 November
 PWC-34
 < BASIC INSPECTION >
 
-### CHECK ANTI-PINCH FUNCTION
 
 ### Work Procedure
 
@@ -320448,7 +319297,6 @@ Disconnect rear power window switch RH connector.
 3.
 Check continuity between rear power window switch RH harness connector and rear power window motor
 
-### RH harness connector.
 
 ### 6.CHECK GROUND CIRCUIT 2
 
@@ -321363,7 +320211,6 @@ YES
 NO
 >> Repair or replace the malfunctioning parts.
 
-### 2.CONFIRM THE OPERATION
 
 ### FRONT PASSENGER SIDE POWER WINDOW DOES NOT OPERATE
 
@@ -321389,7 +320236,6 @@ NO
 Check passenger side power window motor circuit.
 Refer to PWC-40, "PASSENGER SIDE : Component Function Check".
 
-### Is the inspection result normal?
 
 ### >> GO TO 1.
 
@@ -321457,7 +320303,6 @@ Refer to PWC-41, "REAR LH : Component Function Check".
 Is the inspection result normal?
 YES
 
-### >> GO TO 3.
 
 ### >> GO TO 1.
 
@@ -321655,7 +320500,6 @@ NO
 2.CHECK ENCODER (REAR LH) CIRCUIT
 Check encoder (rear LH) circuit.
 
-### Refer to PWC-47, "REAR LH : Component Function Check".
 
 ### >> GO TO 1.
 
@@ -321726,7 +320570,6 @@ NO
 >> Refer to PWC-65, "DRIVER SIDE : Diagnosis Procedure" (driver side), PWC-65, "PASSENGER
 SIDE : Diagnosis Procedure" (passenjer side), PWC-65, "REAR LH : Diagnosis Procedure"  (rear
 
-### LH), PWC-66, "REAR RH : Diagnosis Procedure" (rear RH).
 
 ### 2014 Q70
 
@@ -321809,7 +320652,6 @@ Refer to PWC-52, "Component Function Check"
 Is the inspection result normal?
 YES
 
-### >> GO TO 3.
 
 ### >> GO TO 1.
 
@@ -322125,7 +320967,6 @@ when the ignition switch is turned to LOCK position.)
 6.
 Perform self-diagnosis check of all control units using CONSULT.
 
-### Precautions For Xenon Headlamp Service
 
 ### Precaution for Procedure without Cowl Top Cover
 
@@ -322170,7 +321011,6 @@ Special Service Tools
 INFOID:0000000010098665
 The actual shapes of Kent-Moore tools may differ from those of special service tools illustrated here.
 
-### Commercial Service Tools
 
 ### Tool name
 
@@ -322217,7 +321057,6 @@ Revision: 2013 November
 EXT-8
 < SYMPTOM DIAGNOSIS >
 
-### SQUEAK AND RATTLE TROUBLE DIAGNOSES
 
 ### DUPLICATE THE NOISE AND TEST DRIVE
 
@@ -322248,11 +321087,6 @@ the Diagnostic Worksheet regarding the conditions or location of the noise. This
 duplicate the same conditions when the repair is reconfirmed.
 If the noise can be duplicated easily during the test drive, to help identify the source of the noise, try to duplicate the noise with the vehicle stopped by doing one or all of the following items:
 
-### INSULATOR (Light foam block)
-
-### Inspection Procedure
-
-### EXT-11
 
 ### Revision: 2013 November
 
@@ -325628,7 +324462,6 @@ View M: Before installing side body assembly
 View N: Side body assembly (replacement parts)
 1.
 
-### Urethane foam
 
 ### JSKIA1643GB
 
@@ -325885,7 +324718,6 @@ View M: Before installing outer sill and outer sill reinforcement
 View N: Before installing outer sill, outer sill reinforcement, outer rear wheelhouse extension (upper), and
 outer rear wheelhouse extension (lower)
 
-### View O: Outer sill reinforcement (replacement parts)
 
 ### JSKIA1652GB
 
@@ -327466,7 +326298,6 @@ Revision: 2013 November
 BRM-78
 < SERVICE DATA AND SPECIFICATIONS (SDS)
 
-### [FOR MEXICO]
 
 ### Engine Compartment
 
@@ -327831,9 +326662,6 @@ MIR-2
 DOOR MIRROR ASSEMBLY .................................. 39
 DOOR MIRROR ASSEMBLY : Removal and Installation ................................................................ 39
 
-### 2014 Q70
-
-### Precaution for Procedure without Cowl Top Cover
 
 ### PIIB3706J
 
@@ -328569,9 +327397,6 @@ YES
 NO
 >> Repair or replace the malfunctioning parts.
 
-### 3.CONFIRM THE OPERATION
-
-### SQUEAK AND RATTLE TROUBLE DIAGNOSES
 
 ### SBT842
 
@@ -328608,9 +327433,6 @@ The following materials, not found in the kit, can also be used to repair squeak
 UHMW (TEFLON) TAPE
 Insulates where slight movement is present. Ideal for instrument panel applications.
 
-### Inspection Procedure
-
-### Revision: 2013 November
 
 ### Revision: 2013 November
 
@@ -329039,7 +327861,6 @@ PRECAUTIONS
 Precaution for Supplemental Restraint System (SRS) "AIR BAG" and "SEAT BELT
 PRE-TENSIONER"
 
-### Precautions For Xenon Headlamp Service
 
 ### Revision: 2013 November
 
@@ -329482,7 +328303,6 @@ communication according to the headlamp (LO) ON condition.
 • IPDM E/R turns the integrated headlamp low relay ON, and turns the headlamp ON according to the low
 beam request signal or daytime running light request signal.
 
-### HEADLAMP SYSTEM (WITH DTRL) : Fail-safe
 
 ### Control part
 
@@ -329537,7 +328357,6 @@ of time.
 > CONSULT. Refer to EXL-27, "HEADLAMP : CONSULT Function (BCM - HEAD LAMP)".
 > AUTO LIGHT FUNCTION (WITH TWILIGHT LIGHTING FUNCTION)
 
-### Description
 
 ### JMLIA0966GB
 
@@ -330075,7 +328894,6 @@ headlamp control function of BCM, and relay control function of IPDM E/R.
 lamps ON according to the position light request signal.
 • Combination meter turns the tail lamp indicator lamp ON according to the position light request signal.
 
-### PARKING, LICENSE PLATE, SIDE MARKER AND TAIL LAMP SYSTEM (WITHOUT
 
 ### If No CAN Communication Is Available With BCM
 
@@ -331672,9 +330490,6 @@ chart.
 > signal when DTC detected, is
 > output.
 
-### Blinks 1 second each.
-
-### Blinks 1 second each.
 
 ### Blinks 1 second each.
 
@@ -337022,7 +335837,6 @@ Remove the screw, and then remove the license plate lamp.
 2.
 Disconnect the license plate lamp connector.
 
-### INSTALLATION
 
 ### LICENSE PLATE LAMP BULB
 
@@ -337641,7 +336455,6 @@ INFOID:0000000010281921
 APPLICATION ITEM
 CONSULT performs the following functions via CAN communication with BCM.
 
-### SYSTEM APPLICATION
 
 ### SIGNAL BUFFER
 
@@ -339835,7 +338648,6 @@ INFOID:0000000010098540
 • Remove console finisher assembly. Refer to IP-24, "Removal and Installation".
 • Remove ashtray assembly. Refer to IP-23, "Exploded View".
 
-### Replacement
 
 ### CIGRETTE LIGHTER ILLUMINATION BULB
 
@@ -339866,7 +338678,6 @@ Removal and Installation
 INFOID:0000000010098543
 Refer to INT-33, "Exploded View" for the rear door finisher installation or removal.
 
-### Replacement
 
 ### ASHTRAY ILLUMINATION BULB
 
@@ -339910,7 +338721,6 @@ Exploded View
 INFOID:0000000010098545
 Removal and Installation
 
-### INFOID:0000000010098546
 
 ### GLOVE BOX LAMP BULB
 
@@ -340061,7 +338871,6 @@ Remove foot lamp case (2) downward while pressing metal clips
 INSTALLATION
 Install in the reverse order of removal.
 
-### PASSENGER SIDE : Replacement
 
 ### FOOT LAMP BULB
 
@@ -340127,7 +338936,6 @@ Disconnect step lamp harness connector.
 INSTALLATION
 Install in the reverse order of removal.
 
-### Replacement
 
 ### STEP LAMP BULB
 
@@ -340218,7 +339026,6 @@ Press the personal lamp finisher to the headlining. Pull the personal
 lamp case pawls in the direction shown by the arrow in the figure
 using appropriate tool.
 
-### Replacement
 
 ### PERSONAL LAMP BLUB
 
@@ -340304,7 +339111,6 @@ lamp case to disengage fixing metal clips as shown by the arrow
 in the figure, and then remove the trunk room lamp case.
 3.
 
-### Disconnect trunk room lamp harness connector.
 
 ### TRUNK ROOM LAMP BULB
 
@@ -340428,9 +339234,6 @@ WIPER AND WASHER SYSTEM SYMPTOMS
 ... 44
 Symptom Table ..................................................... 44
 
-### Revision: 2013 November
-
-### Precaution for Procedure without Cowl Top Cover
 
 ### 2014 Q70
 
@@ -341305,9 +340108,6 @@ DETAILED FLOW
 JMKIA8652GB
 Revision: 2013 November
 
-### 2014 Q70
-
-### >> GO TO 5.
 
 ### DIAGNOSIS AND REPAIR WORK FLOW
 
@@ -343436,7 +342236,6 @@ O
 P
 CONTENTS
 
-### DEFOGGER
 
 ### REAR WINDOW DEFOGGER AND DOOR
 
@@ -343494,7 +342293,6 @@ system uses the seat belt switches to determine the front air bag deployment, an
 air bag, depending on the severity of a collision and whether the front occupants are belted or unbelted.
 Information necessary to service the system safely is included in the “SRS AIR BAG” and “SEAT BELT” of this
 
-### Precaution for Procedure without Cowl Top Cover
 
 ### PIIB3706J
 
@@ -343664,11 +342462,6 @@ DIAGNOSIS SYSTEM (BCM)
 COMMON ITEM
 COMMON ITEM : CONSULT Function (BCM - COMMON ITEM)
 
-### INFOID:0000000010287565
-
-### BATTERY SAVER
-
-### < SYSTEM DESCRIPTION >
 
 ### “LOCK”.
 
@@ -344915,7 +343708,6 @@ NO
 2.CHECK REAR WINDOW DEFOGGER RELAY
 Check rear window defogger relay.
 
-### Refer to DEF-22, "Component Function Check".
 
 ### >> GO TO 1.
 
@@ -344978,7 +343770,6 @@ INFOID:0000000010100036
 1.CHECK DOOR MIRROR DEFOGGER
 Check door mirror defogger.
 
-### Refer to DEF-26, "Component Function Check".
 
 ### >> GO TO 1.
 
@@ -345169,7 +343960,6 @@ HORN
 PRECAUTION .............................................. 2
 PRECAUTIONS .................................................. 2
 
-### Revision: 2013 November
 
 ### Precautions for Removing of Battery Terminal
 
@@ -345298,7 +344088,6 @@ PWO-2
 < PRECAUTION >
 PRECAUTIONS
 
-### PRECAUTION
 
 ### Precautions for Removing of Battery Terminal
 
@@ -346386,7 +345175,6 @@ touched
 screen is touched
 • The door lock actuator (other) is unlocked when “OTR ULK” on CONSULT screen is touched
 
-### Monitor Item
 
 ### Test item
 
@@ -346535,9 +345323,6 @@ MODE 2
 Interior room lamp timer activates with synchronizing the driver door only.
 Service item
 
-### Setting item
-
-### Test item
 
 ### Revision: 2013 November
 
@@ -346744,7 +345529,6 @@ Off
 Stops the voltage to turn the turn signal lamps OFF.
 Monitor item
 
-### Description
 
 ### Revision: 2013 November
 
@@ -346860,7 +345644,6 @@ Indicates [On/Off] condition of push-button ignition switch
 IGN RLY1 -F/B
 Indicates [On/Off] condition of ignition relay 1
 
-### DETE SW -IPDM
 
 ### OUTSIDE BUZZER
 
@@ -347057,7 +345840,6 @@ switch.
 > *: Each lamp switch is in ON position.
 > TRUNK
 
-### TRUNK : CONSULT Function (BCM - TRUNK)
 
 ### PUSH SW
 
@@ -347207,7 +345989,6 @@ Indicates [ON/OFF] condition of front door switch (driver side).
 DOOR SW-AS
 Indicates [ON/OFF] condition of front door switch (passenger side).
 
-### Test Item
 
 ### Revision: 2013 November
 
@@ -349160,7 +347941,6 @@ operated with
 ignition switch
 ON
 
-### When Intelligent Key is
 
 ### Ground
 
@@ -349199,7 +347979,6 @@ door request
 switch is operated with ignition
 switch ON
 
-### When Intelligent Key is
 
 ### (BR)
 
@@ -352321,7 +351100,6 @@ TCU
 TPMS
 Low tire pressure warning control unit
 
-### Revision: 2013 November
 
 ### Precautions for Removing of Battery Terminal
 
@@ -354170,7 +352948,6 @@ NO
 A/C auto amp. harness connector
 AV control unit harness connector
 
-### Continuity
 
 ### Terminal No.
 
@@ -354282,7 +353059,6 @@ MAIN LINE BETWEEN M&A AND DLC CIRCUIT
 MAIN LINE BETWEEN M&A AND DLC CIRCUIT
 Diagnosis Procedure
 
-### INFOID:0000000010101299
 
 ### Harness connectors M105 and M181
 
@@ -354934,7 +353710,6 @@ Harness connector M6
 -
 Harness connector E106
 
-### Is the inspection result normal?
 
 ### Is the inspection result normal?
 
@@ -355172,7 +353947,6 @@ P
 N
 MAIN LINE BETWEEN RDR-L AND RDR-R CIRCUIT
 
-### Diagnosis Procedure
 
 ### Harness connector B33
 
@@ -356169,7 +354943,6 @@ P
 N
 A-BAG BRANCH LINE CIRCUIT
 
-### Diagnosis Procedure
 
 ### 1.CHECK CONNECTOR
 
@@ -356659,7 +355432,6 @@ Disconnect the battery cable from the negative terminal.
 Check the following terminals and connectors for damage, bend and loose connection (unit side and connector side).
 -
 
-### Data link connector
 
 ### Is the measurement value within the specification?
 
@@ -356691,7 +355463,6 @@ DLC BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 2)
 DLC BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 2)
 Diagnosis Procedure
 
-### INFOID:0000000010101324
 
 ### Is the measurement value within the specification?
 
@@ -357201,7 +355972,6 @@ P
 N
 ADP BRANCH LINE CIRCUIT
 
-### Diagnosis Procedure
 
 ### Driver seat control unit
 
@@ -359254,7 +358024,6 @@ LAN-144
 [CAN SYSTEM (TYPE 1)]
 MAIN LINE BETWEEN A-BAG AND AV CIRCUIT
 
-### MAIN LINE BETWEEN A-BAG AND AV CIRCUIT
 
 ### Terminal No.
 
@@ -359290,7 +358059,6 @@ P
 N
 MAIN LINE BETWEEN AV AND M&A CIRCUIT
 
-### Diagnosis Procedure
 
 ### Connector No.
 
@@ -359311,9 +358079,6 @@ LAN-146
 MAIN LINE BETWEEN M&A AND DLC CIRCUIT
 MAIN LINE BETWEEN M&A AND DLC CIRCUIT
 
-### Diagnosis Procedure
-
-### Combination meter
 
 ### Combination meter harness connector
 
@@ -359407,7 +358172,6 @@ LAN-148
 MAIN LINE BETWEEN BCM AND ADP CIRCUIT
 MAIN LINE BETWEEN BCM AND ADP CIRCUIT
 
-### Diagnosis Procedure
 
 ### Existed
 
@@ -359436,7 +358200,6 @@ N
 MAIN LINE BETWEEN ADP AND ABS CIRCUIT
 Diagnosis Procedure
 
-### INFOID:0000000010285580
 
 ### Harness connector B1
 
@@ -359543,9 +358306,6 @@ ECM
 -
 Harness connector M30 and PCB harness side connector
 
-### Is the inspection result normal?
-
-### VK56VD
 
 ### 2014 Q70
 
@@ -359599,7 +358359,6 @@ Check the following terminals and connectors for damage, bend and loose connecti
 Low tire pressure warning control unit
 -
 
-### Harness connector M29 and PCB harness side connector
 
 ### Existed
 
@@ -359903,7 +358662,6 @@ M&A BRANCH LINE CIRCUIT
 LAN-161
 < DTC/CIRCUIT DIAGNOSIS >
 
-### [CAN SYSTEM (TYPE 1)]
 
 ### Existed
 
@@ -359950,7 +358708,6 @@ BCM BRANCH LINE CIRCUIT
 Diagnosis Procedure
 INFOID:0000000010285599
 
-### 1.CHECK CONNECTOR
 
 ### Harness connector M22 and PCB harness side connector
 
@@ -359965,7 +358722,6 @@ Disconnect the connector of BCM.
 2.
 Check the resistance between the BCM harness connector terminals.
 
-### Is the measurement value within the specification?
 
 ### Existed
 
@@ -359991,7 +358747,6 @@ Check the following terminals and connectors for damage, bend and loose connecti
 Steering angle sensor
 -
 
-### Harness connector M22 and PCB harness side connector
 
 ### Existed
 
@@ -360321,7 +359076,6 @@ P
 N
 MAIN LINE BETWEEN AV AND M&A CIRCUIT
 
-### Diagnosis Procedure
 
 ### Connector No.
 
@@ -360342,9 +359096,6 @@ LAN-174
 MAIN LINE BETWEEN M&A AND DLC CIRCUIT
 MAIN LINE BETWEEN M&A AND DLC CIRCUIT
 
-### Diagnosis Procedure
-
-### Combination meter harness connector
 
 ### < DTC/CIRCUIT DIAGNOSIS >
 
@@ -360391,7 +359142,6 @@ LAN-176
 MAIN LINE BETWEEN BCM AND ABS CIRCUIT
 MAIN LINE BETWEEN BCM AND ABS CIRCUIT
 
-### Diagnosis Procedure
 
 ### Existed
 
@@ -360444,7 +359194,6 @@ LAN-178
 [CAN SYSTEM (TYPE 2)]
 MAIN LINE BETWEEN DLC AND ADP CIRCUIT
 
-### MAIN LINE BETWEEN DLC AND ADP CIRCUIT
 
 ### Harness connector M20 and PCB harness side connector
 
@@ -360496,7 +359245,6 @@ O
 P
 N
 
-### MAIN LINE BETWEEN RDR-L AND RDR-R CIRCUIT
 
 ### Connector No.
 
@@ -360517,7 +359265,6 @@ LAN-180
 MAIN LINE BETWEEN RDR-R AND APA CIRCUIT
 MAIN LINE BETWEEN RDR-R AND APA CIRCUIT
 
-### Diagnosis Procedure
 
 ### LAN-181
 
@@ -360547,7 +359294,6 @@ LAN-182
 [CAN SYSTEM (TYPE 2)]
 MAIN LINE BETWEEN APA AND LANE CIRCUIT
 
-### MAIN LINE BETWEEN APA AND LANE CIRCUIT
 
 ### Harness connector
 
@@ -360658,7 +359404,6 @@ LAN-186
 CGW BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 1)
 CGW BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 1)
 
-### Diagnosis Procedure
 
 ### CGW BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 2)
 
@@ -360723,7 +359468,6 @@ Check the resistance between the A/C auto amp. harness connector terminals.
 Is the measurement value within the specification?
 YES
 
-### >> GO TO 3.
 
 ### Existed
 
@@ -360809,7 +359553,6 @@ O
 P
 N
 
-### A-BAG BRANCH LINE CIRCUIT
 
 ### Is the inspection result normal?
 
@@ -360912,7 +359655,6 @@ M&A BRANCH LINE CIRCUIT
 LAN-195
 < DTC/CIRCUIT DIAGNOSIS >
 
-### [CAN SYSTEM (TYPE 2)]
 
 ### Existed
 
@@ -360927,7 +359669,6 @@ LAN-196
 DLC BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 1)
 DLC BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 1)
 
-### Diagnosis Procedure
 
 ### Existed
 
@@ -360955,7 +359696,6 @@ P
 N
 DLC BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 2)
 
-### Diagnosis Procedure
 
 ### Existed
 
@@ -361031,7 +359771,6 @@ INFOID:0000000010285657
 1.CHECK CONNECTOR
 1.
 
-### Turn the ignition switch OFF.
 
 ### Resistance (Ω)
 
@@ -361094,7 +359833,6 @@ LAN-202
 IPDM-E BRANCH LINE CIRCUIT
 IPDM-E BRANCH LINE CIRCUIT
 
-### Diagnosis Procedure
 
 ### IPDM E/R harness connector
 
@@ -361128,7 +359866,6 @@ O
 P
 N
 
-### ADP BRANCH LINE CIRCUIT
 
 ### 2014 Q70
 
@@ -361169,7 +359906,6 @@ Check the resistance between the ADAS control unit harness connector terminals.
 Is the measurement value within the specification?
 YES
 
-### >> GO TO 4.
 
 ### PSB BRANCH LINE CIRCUIT
 
@@ -361329,7 +360065,6 @@ LAN-208
 APA BRANCH LINE CIRCUIT
 APA BRANCH LINE CIRCUIT
 
-### Diagnosis Procedure
 
 ### Existed
 
@@ -361432,7 +360167,6 @@ N
 CAN COMMUNICATION CIRCUIT 1
 Diagnosis Procedure
 
-### INFOID:0000000010285669
 
 ### Terminal No.
 
@@ -361488,7 +360222,6 @@ O
 P
 N
 
-### CAN COMMUNICATION CIRCUIT 2
 
 ### Terminal No.
 
@@ -361560,7 +360293,6 @@ LAN-216
 < DTC/CIRCUIT DIAGNOSIS >
 [CAN SYSTEM (TYPE 2)]
 
-### ITS COMMUNICATION CIRCUIT
 
 ### Revision: 2013 November
 
@@ -361588,7 +360320,6 @@ N
 DTC/CIRCUIT DIAGNOSIS
 MAIN LINE BETWEEN TPMS AND HVAC CIRCUIT
 
-### Diagnosis Procedure
 
 ### Low tire pressure warning control unit
 
@@ -361660,7 +360391,6 @@ O
 P
 N
 
-### MAIN LINE BETWEEN A-BAG AND AV CIRCUIT
 
 ### Terminal No.
 
@@ -361716,7 +360446,6 @@ NO
 AV control unit harness connector
 Combination meter harness connector
 
-### Continuity
 
 ### Terminal No.
 
@@ -361752,7 +360481,6 @@ P
 N
 MAIN LINE BETWEEN M&A AND DLC CIRCUIT
 
-### Diagnosis Procedure
 
 ### Combination meter harness connector
 
@@ -361853,7 +360581,6 @@ MAIN LINE BETWEEN ADP AND ABS CIRCUIT
 Diagnosis Procedure
 INFOID:0000000010285686
 
-### 1.CHECK CONNECTOR
 
 ### Existed
 
@@ -361929,7 +360656,6 @@ VK56VD
 Is the measurement value within the specification?
 YES
 
-### >> GO TO 3.
 
 ### 2014 Q70
 
@@ -362086,7 +360812,6 @@ LAN-232
 [CAN SYSTEM (TYPE 3)]
 A-BAG BRANCH LINE CIRCUIT
 
-### A-BAG BRANCH LINE CIRCUIT
 
 ### Is the inspection result normal?
 
@@ -362159,7 +360884,6 @@ Harness connector M25 and PCB harness side connector
 Is the inspection result normal?
 YES
 
-### >> GO TO 2.
 
 ### Harness connector
 
@@ -362385,7 +361109,6 @@ LAN-242
 ADP BRANCH LINE CIRCUIT
 ADP BRANCH LINE CIRCUIT
 
-### Diagnosis Procedure
 
 ### 2014 Q70
 
@@ -362464,7 +361187,6 @@ Connect all the connectors. Check if the symptoms described in the “Symptom (R
 customer)” are reproduced.
 Inspection result
 
-### Reproduced>>GO TO 6.
 
 ### Revision: 2013 November
 
@@ -362492,7 +361214,6 @@ N
 DTC/CIRCUIT DIAGNOSIS
 MAIN LINE BETWEEN TPMS AND HVAC CIRCUIT
 
-### Diagnosis Procedure
 
 ### Low tire pressure warning control unit
 
@@ -362632,7 +361353,6 @@ P
 N
 MAIN LINE BETWEEN M&A AND DLC CIRCUIT
 
-### Diagnosis Procedure
 
 ### Combination meter harness connector
 
@@ -362737,7 +361457,6 @@ Disconnect the harness connectors M6 and E106.
 2.
 Check the continuity between the harness connectors.
 
-### Is the inspection result normal?
 
 ### Connector No.
 
@@ -362775,7 +361494,6 @@ O
 P
 N
 
-### MAIN LINE BETWEEN DLC AND ADP CIRCUIT
 
 ### Terminal No.
 
@@ -362795,7 +361513,6 @@ LAN-254
 MAIN LINE BETWEEN RDR-L AND RDR-R CIRCUIT
 MAIN LINE BETWEEN RDR-L AND RDR-R CIRCUIT
 
-### Diagnosis Procedure
 
 ### Connector No.
 
@@ -362912,7 +361629,6 @@ Turn the ignition switch OFF.
 Disconnect the battery cable from the negative terminal.
 3.
 
-### Disconnect the following harness connectors.
 
 ### Harness connector
 
@@ -363025,9 +361741,6 @@ P
 N
 CGW BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 1)
 
-### Diagnosis Procedure
-
-### M125
 
 ### LAN-262
 
@@ -363039,7 +361752,6 @@ Diagnosis Procedure
 INFOID:0000000010285747
 1.CHECK DTC
 
-### Check DTC of the CAN gateway with CONSULT.
 
 ### 2014 Q70
 
@@ -363083,7 +361795,6 @@ INFOID:0000000010285749
 1.CHECK CONNECTOR
 1.
 
-### Approx. 54 – 66
 
 ### Harness connector
 
@@ -363129,7 +361840,6 @@ TCU BRANCH LINE CIRCUIT
 LAN-267
 < DTC/CIRCUIT DIAGNOSIS >
 
-### [CAN SYSTEM (TYPE 4)]
 
 ### Existed
 
@@ -363207,7 +361917,6 @@ LAN-270
 < DTC/CIRCUIT DIAGNOSIS >
 [CAN SYSTEM (TYPE 4)]
 
-### M&A BRANCH LINE CIRCUIT
 
 ### Existed
 
@@ -363238,7 +361947,6 @@ P
 N
 DLC BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 1)
 
-### Diagnosis Procedure
 
 ### Existed
 
@@ -363340,7 +362048,6 @@ AFS BRANCH LINE CIRCUIT
 AFS BRANCH LINE CIRCUIT
 Diagnosis Procedure
 
-### INFOID:0000000010285762
 
 ### AFS control unit harness connector
 
@@ -363404,7 +362111,6 @@ LAN-278
 ADP BRANCH LINE CIRCUIT
 ADP BRANCH LINE CIRCUIT
 
-### Diagnosis Procedure
 
 ### 2014 Q70
 
@@ -363444,9 +362150,6 @@ Check the following terminals and connectors for damage, bend and loose connecti
 ADAS control unit
 -
 
-### CAN gateway
-
-### CAN gateway harness connector
 
 ### LAN-280
 
@@ -363503,7 +362206,6 @@ side and connector side).
 Is the inspection result normal?
 YES
 
-### >> GO TO 2.
 
 ### >> GO TO 3.
 
@@ -363513,7 +362215,6 @@ NO
 Check the power supply and the ground circuit of the side radar LH. Refer to DAS-578, "SIDE RADAR LH :
 Diagnosis Procedure".
 
-### Is the inspection result normal?
 
 ### Side radar LH harness connector
 
@@ -363532,7 +362233,6 @@ LAN-282
 RDR-R BRANCH LINE CIRCUIT
 RDR-R BRANCH LINE CIRCUIT
 
-### Diagnosis Procedure
 
 ### Side radar RH harness connector
 
@@ -363566,7 +362266,6 @@ O
 P
 N
 
-### APA BRANCH LINE CIRCUIT
 
 ### Existed
 
@@ -363595,7 +362294,6 @@ Check the following terminals and connectors for damage, bend and loose connecti
 Lane camera unit
 -
 
-### Harness connector R7
 
 ### Existed
 
@@ -363675,7 +362373,6 @@ CAN COMMUNICATION CIRCUIT 1
 Diagnosis Procedure
 INFOID:0000000010285773
 
-### 1.CONNECTOR INSPECTION
 
 ### Terminal No.
 
@@ -364000,7 +362697,6 @@ P
 N
 MAIN LINE BETWEEN AV AND M&A CIRCUIT
 
-### Diagnosis Procedure
 
 ### Connector No.
 
@@ -364021,9 +362717,6 @@ LAN-296
 MAIN LINE BETWEEN M&A AND DLC CIRCUIT
 MAIN LINE BETWEEN M&A AND DLC CIRCUIT
 
-### Diagnosis Procedure
-
-### Combination meter harness connector
 
 ### < DTC/CIRCUIT DIAGNOSIS >
 
@@ -364070,7 +362763,6 @@ LAN-298
 MAIN LINE BETWEEN BCM AND ADP CIRCUIT
 MAIN LINE BETWEEN BCM AND ADP CIRCUIT
 
-### Diagnosis Procedure
 
 ### Existed
 
@@ -364287,7 +362979,6 @@ O
 P
 N
 
-### A-BAG BRANCH LINE CIRCUIT
 
 ### Is the inspection result normal?
 
@@ -364375,7 +363066,6 @@ LAN-310
 < DTC/CIRCUIT DIAGNOSIS >
 [CAN SYSTEM (TYPE 5)]
 
-### M&A BRANCH LINE CIRCUIT
 
 ### Existed
 
@@ -364476,7 +363166,6 @@ side and connector side).
 Is the inspection result normal?
 YES
 
-### >> GO TO 2.
 
 ### AWD control unit harness connector
 
@@ -364572,7 +363261,6 @@ O
 P
 N
 
-### ADP BRANCH LINE CIRCUIT
 
 ### 2014 Q70
 
@@ -364677,7 +363365,6 @@ LAN-322
 [CAN SYSTEM (TYPE 6)]
 MAIN LINE BETWEEN A-BAG AND AV CIRCUIT
 
-### MAIN LINE BETWEEN A-BAG AND AV CIRCUIT
 
 ### Terminal No.
 
@@ -364713,7 +363400,6 @@ P
 N
 MAIN LINE BETWEEN AV AND M&A CIRCUIT
 
-### Diagnosis Procedure
 
 ### Connector No.
 
@@ -364734,9 +363420,6 @@ LAN-324
 MAIN LINE BETWEEN M&A AND DLC CIRCUIT
 MAIN LINE BETWEEN M&A AND DLC CIRCUIT
 
-### Diagnosis Procedure
-
-### Combination meter harness connector
 
 ### < DTC/CIRCUIT DIAGNOSIS >
 
@@ -364783,7 +363466,6 @@ LAN-326
 MAIN LINE BETWEEN BCM AND ADP CIRCUIT
 MAIN LINE BETWEEN BCM AND ADP CIRCUIT
 
-### Diagnosis Procedure
 
 ### Existed
 
@@ -365000,7 +363682,6 @@ O
 P
 N
 
-### A-BAG BRANCH LINE CIRCUIT
 
 ### Is the inspection result normal?
 
@@ -365014,7 +363695,6 @@ LAN-336
 < DTC/CIRCUIT DIAGNOSIS >
 [CAN SYSTEM (TYPE 6)]
 
-### TCU BRANCH LINE CIRCUIT
 
 ### Existed
 
@@ -365066,7 +363746,6 @@ LAN-338
 [CAN SYSTEM (TYPE 6)]
 AV BRANCH LINE CIRCUIT
 
-### AV control unit harness connector
 
 ### [CAN SYSTEM (TYPE 6)]
 
@@ -365186,7 +363865,6 @@ N
 4WD BRANCH LINE CIRCUIT
 Diagnosis Procedure
 
-### INFOID:0000000010285875
 
 ### AWD control unit harness connector
 
@@ -365205,7 +363883,6 @@ LAN-344
 ABS BRANCH LINE CIRCUIT
 ABS BRANCH LINE CIRCUIT
 
-### Diagnosis Procedure
 
 ### Resistance (Ω)
 
@@ -365268,7 +363945,6 @@ LAN-346
 ADP BRANCH LINE CIRCUIT
 ADP BRANCH LINE CIRCUIT
 
-### Diagnosis Procedure
 
 ### 2014 Q70
 
@@ -365341,9 +364017,6 @@ N
 DTC/CIRCUIT DIAGNOSIS
 MAIN LINE BETWEEN TPMS AND HVAC CIRCUIT
 
-### Diagnosis Procedure
-
-### Low tire pressure warning control unit
 
 ### [CAN SYSTEM (TYPE 7)]
 
@@ -365393,7 +364066,6 @@ O
 P
 N
 
-### MAIN LINE BETWEEN A-BAG AND AV CIRCUIT
 
 ### Terminal No.
 
@@ -365448,7 +364120,6 @@ P
 N
 MAIN LINE BETWEEN M&A AND DLC CIRCUIT
 
-### Diagnosis Procedure
 
 ### Combination meter harness connector
 
@@ -365557,7 +364228,6 @@ LAN-356
 MAIN LINE BETWEEN 4WD AND ABS CIRCUIT
 MAIN LINE BETWEEN 4WD AND ABS CIRCUIT
 
-### Diagnosis Procedure
 
 ### Disconnect the harness connectors B1 and M7.
 
@@ -365573,7 +364243,6 @@ NO
 Disconnect the harness connectors M6 and E106.
 2.
 
-### Check the continuity between the harness connectors.
 
 ### Continuity
 
@@ -365639,7 +364308,6 @@ and harness side).
 Harness connector M20 and PCB harness side connector
 -
 
-### Harness connector M7
 
 ### Terminal No.
 
@@ -365674,7 +364342,6 @@ O
 P
 N
 
-### MAIN LINE BETWEEN RDR-L AND RDR-R CIRCUIT
 
 ### Connector No.
 
@@ -365695,7 +364362,6 @@ LAN-360
 MAIN LINE BETWEEN RDR-R AND APA CIRCUIT
 MAIN LINE BETWEEN RDR-R AND APA CIRCUIT
 
-### Diagnosis Procedure
 
 ### LAN-361
 
@@ -365761,7 +364427,6 @@ ECM BRANCH LINE CIRCUIT
 LAN-363
 < DTC/CIRCUIT DIAGNOSIS >
 
-### [CAN SYSTEM (TYPE 7)]
 
 ### 2014 Q70
 
@@ -365818,7 +364483,6 @@ LAN-366
 CGW BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 1)
 CGW BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 1)
 
-### Diagnosis Procedure
 
 ### CGW BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 2)
 
@@ -365965,7 +364629,6 @@ LAN-372
 < DTC/CIRCUIT DIAGNOSIS >
 [CAN SYSTEM (TYPE 7)]
 
-### TCU BRANCH LINE CIRCUIT
 
 ### Existed
 
@@ -366017,9 +364680,6 @@ LAN-374
 [CAN SYSTEM (TYPE 7)]
 AV BRANCH LINE CIRCUIT
 
-### AV control unit harness connector
-
-### [CAN SYSTEM (TYPE 7)]
 
 ### Existed
 
@@ -366072,7 +364732,6 @@ P
 N
 DLC BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 2)
 
-### Diagnosis Procedure
 
 ### Existed
 
@@ -366165,7 +364824,6 @@ O
 P
 N
 
-### ABS BRANCH LINE CIRCUIT
 
 ### Resistance (Ω)
 
@@ -366216,7 +364874,6 @@ O
 P
 N
 
-### IPDM-E BRANCH LINE CIRCUIT
 
 ### IPDM E/R harness connector
 
@@ -366235,7 +364892,6 @@ LAN-384
 ADP BRANCH LINE CIRCUIT
 ADP BRANCH LINE CIRCUIT
 
-### Diagnosis Procedure
 
 ### 2014 Q70
 
@@ -366327,7 +364983,6 @@ LAN-388
 RDR-R BRANCH LINE CIRCUIT
 RDR-R BRANCH LINE CIRCUIT
 
-### Diagnosis Procedure
 
 ### Side radar RH harness connector
 
@@ -366361,7 +365016,6 @@ O
 P
 N
 
-### APA BRANCH LINE CIRCUIT
 
 ### Existed
 
@@ -366423,7 +365077,6 @@ CAN COMMUNICATION CIRCUIT 1
 Diagnosis Procedure
 INFOID:0000000010285943
 
-### LAN-393
 
 ### IPDM E/R
 
@@ -366619,7 +365272,6 @@ P
 N
 MAIN LINE BETWEEN AV AND M&A CIRCUIT
 
-### Diagnosis Procedure
 
 ### Connector No.
 
@@ -366640,9 +365292,6 @@ LAN-402
 MAIN LINE BETWEEN M&A AND DLC CIRCUIT
 MAIN LINE BETWEEN M&A AND DLC CIRCUIT
 
-### Diagnosis Procedure
-
-### Combination meter harness connector
 
 ### < DTC/CIRCUIT DIAGNOSIS >
 
@@ -366689,7 +365338,6 @@ LAN-404
 MAIN LINE BETWEEN BCM AND ADP CIRCUIT
 MAIN LINE BETWEEN BCM AND ADP CIRCUIT
 
-### Diagnosis Procedure
 
 ### Existed
 
@@ -366763,7 +365411,6 @@ INFOID:0000000010285985
 1.CHECK CONNECTOR
 1.
 
-### 2014 Q70
 
 ### 2014 Q70
 
@@ -366838,7 +365485,6 @@ TCM BRANCH LINE CIRCUIT
 Diagnosis Procedure
 INFOID:0000000010285990
 
-### Approx. 54 – 66
 
 ### Continuity
 
@@ -366987,7 +365633,6 @@ M&A BRANCH LINE CIRCUIT
 LAN-417
 < DTC/CIRCUIT DIAGNOSIS >
 
-### [CAN SYSTEM (TYPE 8)]
 
 ### Existed
 
@@ -367095,7 +365740,6 @@ LAN-422
 ABS BRANCH LINE CIRCUIT
 ABS BRANCH LINE CIRCUIT
 
-### Diagnosis Procedure
 
 ### Resistance (Ω)
 
@@ -367128,7 +365772,6 @@ O
 P
 N
 
-### IPDM-E BRANCH LINE CIRCUIT
 
 ### IPDM E/R harness connector
 
@@ -367147,7 +365790,6 @@ LAN-424
 ADP BRANCH LINE CIRCUIT
 ADP BRANCH LINE CIRCUIT
 
-### Diagnosis Procedure
 
 ### 2014 Q70
 
@@ -367220,7 +365862,6 @@ N
 DTC/CIRCUIT DIAGNOSIS
 MAIN LINE BETWEEN TPMS AND HVAC CIRCUIT
 
-### Diagnosis Procedure
 
 ### Low tire pressure warning control unit
 
@@ -367360,7 +366001,6 @@ P
 N
 MAIN LINE BETWEEN M&A AND DLC CIRCUIT
 
-### Diagnosis Procedure
 
 ### Combination meter harness connector
 
@@ -367396,7 +366036,6 @@ Turn the ignition switch OFF.
 Disconnect the battery cable from the negative terminal.
 3.
 
-### Harness connector
 
 ### < DTC/CIRCUIT DIAGNOSIS >
 
@@ -367449,7 +366088,6 @@ LAN-434
 MAIN LINE BETWEEN 4WD AND ABS CIRCUIT
 MAIN LINE BETWEEN 4WD AND ABS CIRCUIT
 
-### Diagnosis Procedure
 
 ### Continuity
 
@@ -367537,7 +366175,6 @@ O
 P
 N
 
-### MAIN LINE BETWEEN RDR-L AND RDR-R CIRCUIT
 
 ### Connector No.
 
@@ -367558,7 +366195,6 @@ LAN-438
 MAIN LINE BETWEEN RDR-R AND APA CIRCUIT
 MAIN LINE BETWEEN RDR-R AND APA CIRCUIT
 
-### Diagnosis Procedure
 
 ### LAN-439
 
@@ -367601,7 +366237,6 @@ Disconnect the battery cable from the negative terminal.
 Disconnect the following harness connectors.
 -
 
-### Harness connector
 
 ### [CAN SYSTEM (TYPE 9)]
 
@@ -367689,7 +366324,6 @@ LAN-444
 CGW BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 1)
 CGW BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 1)
 
-### Diagnosis Procedure
 
 ### CGW BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 2)
 
@@ -367815,7 +366449,6 @@ O
 P
 N
 
-### A-BAG BRANCH LINE CIRCUIT
 
 ### Is the inspection result normal?
 
@@ -367895,9 +366528,6 @@ LAN-452
 [CAN SYSTEM (TYPE 9)]
 AV BRANCH LINE CIRCUIT
 
-### AV control unit harness connector
-
-### [CAN SYSTEM (TYPE 9)]
 
 ### Existed
 
@@ -367912,7 +366542,6 @@ LAN-454
 DLC BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 1)
 DLC BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 1)
 
-### Diagnosis Procedure
 
 ### Existed
 
@@ -367940,7 +366569,6 @@ P
 N
 DLC BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 2)
 
-### Diagnosis Procedure
 
 ### Existed
 
@@ -368033,7 +366661,6 @@ O
 P
 N
 
-### ABS BRANCH LINE CIRCUIT
 
 ### Resistance (Ω)
 
@@ -368114,7 +366741,6 @@ LAN-462
 ADP BRANCH LINE CIRCUIT
 ADP BRANCH LINE CIRCUIT
 
-### Diagnosis Procedure
 
 ### 2014 Q70
 
@@ -368206,7 +366832,6 @@ LAN-466
 RDR-R BRANCH LINE CIRCUIT
 RDR-R BRANCH LINE CIRCUIT
 
-### Diagnosis Procedure
 
 ### Side radar RH harness connector
 
@@ -368240,7 +366865,6 @@ O
 P
 N
 
-### APA BRANCH LINE CIRCUIT
 
 ### Existed
 
@@ -368302,7 +366926,6 @@ CAN COMMUNICATION CIRCUIT 1
 Diagnosis Procedure
 INFOID:0000000010286071
 
-### LAN-471
 
 ### IPDM E/R
 
@@ -368498,7 +367121,6 @@ P
 N
 MAIN LINE BETWEEN AV AND M&A CIRCUIT
 
-### Diagnosis Procedure
 
 ### Connector No.
 
@@ -368519,9 +367141,6 @@ LAN-480
 MAIN LINE BETWEEN M&A AND DLC CIRCUIT
 MAIN LINE BETWEEN M&A AND DLC CIRCUIT
 
-### Diagnosis Procedure
-
-### Combination meter harness connector
 
 ### < DTC/CIRCUIT DIAGNOSIS >
 
@@ -368568,7 +367187,6 @@ LAN-482
 MAIN LINE BETWEEN BCM AND ADP CIRCUIT
 MAIN LINE BETWEEN BCM AND ADP CIRCUIT
 
-### Diagnosis Procedure
 
 ### Existed
 
@@ -368729,11 +367347,6 @@ TCM BRANCH LINE CIRCUIT
 Diagnosis Procedure
 INFOID:0000000010286104
 
-### Approx. 54 – 66
-
-### Continuity
-
-### A-BAG BRANCH LINE CIRCUIT
 
 ### Is the inspection result normal?
 
@@ -368985,7 +367598,6 @@ LAN-500
 ADP BRANCH LINE CIRCUIT
 ADP BRANCH LINE CIRCUIT
 
-### Diagnosis Procedure
 
 ### 2014 Q70
 
@@ -369058,7 +367670,6 @@ N
 DTC/CIRCUIT DIAGNOSIS
 MAIN LINE BETWEEN TPMS AND HVAC CIRCUIT
 
-### Diagnosis Procedure
 
 ### Low tire pressure warning control unit
 
@@ -369130,7 +367741,6 @@ O
 P
 N
 
-### MAIN LINE BETWEEN A-BAG AND AV CIRCUIT
 
 ### Terminal No.
 
@@ -369185,7 +367795,6 @@ P
 N
 MAIN LINE BETWEEN M&A AND DLC CIRCUIT
 
-### Diagnosis Procedure
 
 ### Combination meter harness connector
 
@@ -369221,7 +367830,6 @@ Turn the ignition switch OFF.
 Disconnect the battery cable from the negative terminal.
 3.
 
-### Harness connector
 
 ### < DTC/CIRCUIT DIAGNOSIS >
 
@@ -369338,7 +367946,6 @@ LAN-512
 MAIN LINE BETWEEN RDR-L AND RDR-R CIRCUIT
 MAIN LINE BETWEEN RDR-L AND RDR-R CIRCUIT
 
-### Diagnosis Procedure
 
 ### Connector No.
 
@@ -369374,9 +367981,6 @@ O
 P
 N
 
-### MAIN LINE BETWEEN RDR-R AND APA CIRCUIT
-
-### Terminal No.
 
 ### < DTC/CIRCUIT DIAGNOSIS >
 
@@ -369529,7 +368133,6 @@ P
 N
 CGW BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 1)
 
-### Diagnosis Procedure
 
 ### LAN-520
 
@@ -369540,7 +368143,6 @@ CGW BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 2)
 Diagnosis Procedure
 INFOID:0000000010286164
 
-### 1.CHECK DTC
 
 ### 2014 Q70
 
@@ -369584,7 +368186,6 @@ INFOID:0000000010286166
 1.CHECK CONNECTOR
 1.
 
-### Approx. 54 – 66
 
 ### Harness connector
 
@@ -369681,9 +368282,6 @@ LAN-526
 [CAN SYSTEM (TYPE 51)]
 AV BRANCH LINE CIRCUIT
 
-### AV control unit harness connector
-
-### [CAN SYSTEM (TYPE 51)]
 
 ### Existed
 
@@ -369698,7 +368296,6 @@ LAN-528
 DLC BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 1)
 DLC BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 1)
 
-### Diagnosis Procedure
 
 ### Existed
 
@@ -369726,7 +368323,6 @@ P
 N
 DLC BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 2)
 
-### Diagnosis Procedure
 
 ### Existed
 
@@ -369818,7 +368414,6 @@ O
 P
 N
 
-### AFS BRANCH LINE CIRCUIT
 
 ### AFS control unit harness connector
 
@@ -369837,7 +368432,6 @@ LAN-534
 IPDM-E BRANCH LINE CIRCUIT
 IPDM-E BRANCH LINE CIRCUIT
 
-### Diagnosis Procedure
 
 ### IPDM E/R harness connector
 
@@ -369871,7 +368465,6 @@ O
 P
 N
 
-### ADP BRANCH LINE CIRCUIT
 
 ### 2014 Q70
 
@@ -369961,7 +368554,6 @@ O
 P
 N
 
-### RDR-R BRANCH LINE CIRCUIT
 
 ### Side radar RH harness connector
 
@@ -369980,7 +368572,6 @@ LAN-540
 APA BRANCH LINE CIRCUIT
 APA BRANCH LINE CIRCUIT
 
-### Diagnosis Procedure
 
 ### Existed
 
@@ -370241,7 +368832,6 @@ PRECAUTIONS
 PCS-3
 < PRECAUTION >
 
-### [IPDM E/R]
 
 ### Revision: 2013 November
 
@@ -370259,7 +368849,6 @@ when the ignition switch is turned to LOCK position.)
 6.
 Perform self-diagnosis check of all control units using CONSULT.
 
-### Precaution for Procedure without Cowl Top Cover
 
 ### 2014 Q70
 
@@ -370505,7 +369094,6 @@ turned OFF.
 > • Turns OFF the tail lamp relay and daytime running light relay when the ignition switch is
 > turned OFF
 
-### Front wiper motor
 
 ### Front fog lamp
 
@@ -372608,7 +371196,6 @@ PRECAUTION
 PRECAUTIONS
 Precaution for Supplemental Restraint System (SRS) "AIR BAG" and "SEAT BELT
 
-### PRE-TENSIONER"
 
 ### Revision: 2013 November
 
@@ -373112,7 +371699,6 @@ INFOID:0000000010258199
 APPLICATION ITEM
 CONSULT performs the following functions via CAN communication with BCM.
 
-### SIGNAL BUFFER
 
 ### “LOCK”.
 
@@ -373241,9 +371827,6 @@ P
 N
 *: OFF is displayed when brake pedal is depressed while brake switch power supply is OFF.
 
-### ACTIVE TEST
-
-### S/L RELAY-REQ
 
 ### INT LAMP
 
@@ -373483,7 +372066,6 @@ the incident/malfunction occurs).
 2.
 Check operation condition of the function that is malfunctioning.
 
-### >> GO TO 5.
 
 ### Is the symptom described?
 
@@ -375326,7 +373908,6 @@ INFOID:0000000010100577
 • Check that vehicle is under the condition shown in “Conditions of vehicle” before starting diagnosis, and
 check each symptom.
 
-### Conditions of Vehicle (Operating Conditions)
 
 ### 1.CHECK PUSH-BUTTON IGNITION SWITCH INDICATOR
 
@@ -375464,9 +374045,6 @@ PRECAUTION
 PRECAUTIONS
 Precaution for Supplemental Restraint System (SRS) "AIR BAG" and "SEAT BELT
 
-### PRE-TENSIONER"
-
-### Precaution for Procedure without Cowl Top Cover
 
 ### PIIB3706J
 
@@ -377213,7 +375791,6 @@ A
 O
 P
 
-### Revision: 2013 November
 
 ### Precautions for Removing of Battery Terminal
 
@@ -382314,7 +380891,6 @@ YES
 >> GO TO 3.
 NO
 
-### >> GO TO 4.
 
 ### 4.CHECK OIL PRESSURE SWITCH SIGNAL CIRCUIT
 
@@ -383439,9 +382015,6 @@ INFOID:0000000010289364
 CONSULT APPLICATION ITEMS
 CONSULT can perform the following diagnosis modes via CAN communication and the combination meter.
 
-### SELF DIAG RESULT
-
-### Display Item List
 
 ### FUEL METER
 
@@ -383553,9 +382126,6 @@ ACC SET SPEED
 Status of set vehicle speed indicator judged from meter display signal received
 from ADAS control unit with CAN communication line.
 
-### AT SFT DWN SW
-
-### BUCKLE SW
 
 ### DISTANCE
 
@@ -383668,7 +382238,6 @@ DIAGNOSIS SYSTEM (BCM)
 COMMON ITEM
 COMMON ITEM : CONSULT Function (BCM - COMMON ITEM)
 
-### BATTERY SAVER
 
 ### “LOCK”.
 
@@ -383710,9 +382279,6 @@ NOTE:
 The following table includes information (items) inapplicable to this vehicle. For information (items) applicable
 to this vehicle, refer to CONSULT display items.
 
-### ACTIVE TEST
-
-### Description
 
 ### DOOR SW-DR
 
@@ -383838,9 +382404,6 @@ Revision: 2013 November
 WCS-26
 < ECU DIAGNOSIS INFORMATION >
 
-### Ignition switch
-
-### COMBINATION METER
 
 ### 12 V
 
@@ -384142,7 +382705,6 @@ Check voltage between combination meter harness connector and ground.
 Is the inspection result normal?
 YES
 
-### >> GO TO 3.
 
 ### Connector
 
@@ -384571,7 +383133,6 @@ YES
 NO
 >> Repair harness or connector.
 
-### 3.CHECK PARKING BRAKE SWITCH
 
 ### When parking brake is applied
 
@@ -384799,7 +383360,6 @@ PRECAUTION
 PRECAUTIONS
 Precaution for Supplemental Restraint System (SRS) "AIR BAG" and "SEAT BELT
 
-### PRE-TENSIONER"
 
 ### Precautions for Removing of Battery Terminal
 
@@ -388937,7 +387497,6 @@ Grasp vehicle specifications precisely. The control of ECU may not function norm
 > Description
 > Read/Write Configuration
 
-### Before Replace ECU
 
 ### Manual Configuration
 
@@ -391464,7 +390023,6 @@ MENU DOWN switch ON
 : 318 – 324 Ω
 MENU UP switch ON
 
-### : 120 – 122 Ω
 
 ### AV-115
 
@@ -391500,7 +390058,6 @@ Disconnect AV control unit connector and spiral cable connector.
 Check continuity between AV control unit harness connector and spiral cable harness connector.
 3.
 
-### Connect AV control unit connector.
 
 ### 3.CHECK GROUND CIRCUIT
 
@@ -392883,7 +391440,6 @@ PRECAUTION
 PRECAUTIONS
 Precaution for Supplemental Restraint System (SRS) "AIR BAG" and "SEAT BELT
 
-### PRE-TENSIONER"
 
 ### Precautions for Removing of Battery Terminal
 
@@ -392906,7 +391462,6 @@ PRECAUTIONS
 • Be sure to turn ignition switch OFF and disconnect the battery cable from the negative terminal before
 checking the circuit.
 
-### Precaution for Harness Repair
 
 ### PKIA0306E
 
@@ -395081,7 +393636,6 @@ SELF DIAGNOSIS RESULT
 • The timing is displayed as “0” if any of the error codes [U1000], [U1010], [U1300] and [U1310] is detected.
 The counter increases by 1 if the condition is normal at the next ignition switch ON cycle.
 
-### Self-diagnosis Results Display Item
 
 ### AV communication
 
@@ -397323,7 +395877,6 @@ Sound output
 47
 (Y)
 
-### Sound signal rear LH
 
 ### 2014 Q70
 
@@ -397989,7 +396542,6 @@ When closed all doors.
 12.0 V
 78
 
-### (SB)
 
 ### SKIB3609E
 
@@ -398518,7 +397070,6 @@ A
 O
 P
 
-### ADDITIONAL SERVICE WHEN REPLACING (AV CONTROL UNIT)
 
 ### Work Procedure
 
@@ -398538,7 +397089,6 @@ Replace AV control unit. Refer to AV-305, "Removal and Installation".
 -CONSULT Configuration
 Perform “After Replace ECU” or “Manual Configuration” to write vehicle specification. Refer to AV-234, "Work
 
-### Procedure".
 
 ### AV-234
 
@@ -399316,7 +397866,6 @@ U121C AV CONTROL UNIT
 DTC Logic
 INFOID:0000000010098127
 
-### Diagnosis Procedure
 
 ### Display contents of
 
@@ -399494,7 +398043,6 @@ Display contents of
 CONSULT
 DTC detection condition
 
-### Possible malfunction factor
 
 ### Refer to AV-305, "Removal and In-
 
@@ -399908,7 +398456,6 @@ YES
 NO
 >> Repair malfunctioning parts.
 
-### 2.CHECK AV CONTROL UNIT VOLTAGE
 
 ### Display contents of
 
@@ -400165,7 +398712,6 @@ O
 P
 U1310 AV CONTROL UNIT
 
-### DTC Logic
 
 ### Replace AV control unit. If the mal-
 
@@ -400253,7 +398799,6 @@ U1602, U160A FRONT DOOR SQUAWKER/TWEETER
 DTC Logic
 INFOID:0000000010098158
 
-### DTC DETECTION LOGIC
 
 ### Check that the DTC is detected again.
 
@@ -400711,9 +399256,6 @@ NO
 2.CHECK BATTERY POWER SUPPLY CIRCUIT
 Check voltage between AV control unit harness connectors and ground.
 
-### Is the inspection result normal?
-
-### >> GO TO 4.
 
 ### Is the inspection result normal?
 
@@ -401084,7 +399626,6 @@ Description
 INFOID:0000000010098175
 AV control unit transmits the playback DVD image signal to the display unit.
 
-### Diagnosis Procedure
 
 ### Is the inspection result normal?
 
@@ -401155,7 +399696,6 @@ Description
 INFOID:0000000010098177
 The eject signal is output to AV control unit when the eject switch of multifunction switch is pressed.
 
-### Diagnosis Procedure
 
 ### Is the inspection result normal?
 
@@ -401667,9 +400207,6 @@ Description
 INFOID:0000000010098186
 Transmits the steering switch signal to AV control unit.
 
-### Diagnosis Procedure
-
-### Turn ignition switch ON.
 
 ### Turn ignition switch OFF.
 
@@ -401726,7 +400263,6 @@ Revision: 2013 November
 2014 Q70
 AV
 
-### STEERING SWITCH SIGNAL B CIRCUIT
 
 ### 2014 Q70
 
@@ -401749,7 +400285,6 @@ Disconnect AV control unit connector and spiral cable connector.
 Check continuity between AV control unit harness connector and spiral cable harness connector.
 3.
 
-### Connect AV control unit connector.
 
 ### 3.CHECK GROUND CIRCUIT
 
@@ -401892,7 +400427,6 @@ malfunction.
 • AV communication circuit between AV control unit and
 multifunction switch.
 
-### Perform CONSULT self-diagnosis. Refer to AV-176,
 
 ### Refer to AV-278, "AV CONTROL UNIT : Diagnosis Pro-
 
@@ -402319,7 +400853,6 @@ Related to Basic Operation
 Related to Item Choice
 The system should respond correctly to all voice commands without difficulty. If problems are encountered, follow the solutions given in this guide for the appropriate error.
 
-### Symptom
 
 ### The display is turned off.
 
@@ -402440,7 +400973,6 @@ level.
 > 1. Ensure that the voicetag requested matches what was originally stored. This can be confirmed
 > by giving the “Addressbook” Directory or Phone Directory command.
 
-### 2. Replace one of the voicetags being confused with a different voicetag.
 
 ### Revision: 2013 November
 
@@ -402950,7 +401482,6 @@ O
 P
 FRONT DOOR SQUAWKER
 
-### Removal and Installation
 
 ### INSTALLATION
 
@@ -403279,7 +401810,6 @@ Exploded View
 INFOID:0000000010098208
 Removal and Installation
 
-### INFOID:0000000010098209
 
 ### Installation is the reverse order of removal.
 
@@ -403302,7 +401832,6 @@ MULTIFUNCTION SWITCH
 MULTIFUNCTION SWITCH
 Removal and Installation
 
-### INFOID:0000000010098210
 
 ### JSNIA3096ZZ
 
@@ -403381,7 +401910,6 @@ P
 USB CONNECTOR
 Removal and Installation
 
-### INFOID:0000000010098213
 
 ### Revision: 2013 November
 
@@ -403606,9 +402134,6 @@ PRECAUTION
 PRECAUTIONS
 Precaution for Supplemental Restraint System (SRS) "AIR BAG" and "SEAT BELT
 
-### PRE-TENSIONER"
-
-### Precautions for Removing of Battery Terminal
 
 ### SEF289H
 
@@ -403621,7 +402146,6 @@ PRECAUTIONS
 • Be sure to turn ignition switch OFF and disconnect the battery cable from the negative terminal before
 checking the circuit.
 
-### Precaution for Harness Repair
 
 ### PKIA0306E
 
@@ -405281,7 +403805,6 @@ DTC/CIRCUIT DIAGNOSIS
 U1000 CAN COMM CIRCUIT
 DESCRIPTION
 
-### INFOID:0000000010098243
 
 ### DTC Logic
 
@@ -405295,7 +403818,6 @@ Turn the power switch ON and hold it for 2 seconds or more.
 2.
 “”Check the self-diagnosis result of “TCU”.
 
-### Is CAN communication system displayed?
 
 ### When TCU did not transmit and receive CAN communica-
 
@@ -406752,7 +405274,6 @@ A screen other than map screen is displayed.
 Press “MAP”.
 Some pixels in the display are darker or brighter than others.
 
-### This condition is an inherent characteristic of liquid
 
 ### A small black spot or a small bright
 
@@ -407029,9 +405550,6 @@ BATTERY INSPECTION ................................ 120
 How to Handle Battery ..........................................120
 Work Flow .............................................................120
 
-### Revision: 2013 November
-
-### Precaution for Procedure without Cowl Top Cover
 
 ### 2014 Q70
 
@@ -407071,9 +405589,6 @@ switch and wait at least 30 seconds.
 > PREPARATION
 > Special Service Tools
 
-### INFOID:0000000010098703
-
-### For operating instructions, refer to diagnostic
 
 ### AWIIA1239ZZ
 
@@ -409587,7 +408102,6 @@ NORMAL OPERATING CONDITION ..............178
 Description ........................................................... 178
 REMOVAL AND INSTALLATION ............ 181
 
-### Revision: 2013 November
 
 ### Precautions for Removing of Battery Terminal
 
@@ -413467,7 +411981,6 @@ tone
 Lane departure warning lamp
 Cancel
 
-### Blind Spot Warning (BSW)
 
 ### CAN communication line, a mode
 
@@ -413939,7 +412452,6 @@ U0401
 ECM CAN CIR 1
 ON
 
-### A, B, E, F, G
 
 ### CONSULT display
 
@@ -414161,7 +412673,6 @@ Systems for fail-safe
 • H: Active trace control function
 DTC
 
-### CONSULT display
 
 ### < ECU DIAGNOSIS INFORMATION >
 
@@ -414203,7 +412714,6 @@ Systems for fail-safe
 • H: Active trace control function
 DTC
 
-### CONSULT display
 
 ### CCS-57
 
@@ -417637,7 +416147,6 @@ NO
 2.PERFORM SELF-DIAGNOSIS OF ECM
 Check if any DTC is detected in “Self Diagnostic Result” of “ENGINE”.
 
-### Is any DTC detected?
 
 ### Trouble diagnosis name
 
@@ -418671,7 +417180,6 @@ NOTE:
 If DTC “C1A33” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to CCS-151,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “C1A33” detected as the current malfunction?
 
@@ -420231,7 +418739,6 @@ NOTE:
 If DTC “U0402” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to CCS-151,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U0402” detected as the current malfunction?
 
@@ -420355,7 +418862,6 @@ NOTE:
 If DTC “U0415” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to CCS-151,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U0415” detected as the current malfunction?
 
@@ -420907,7 +419413,6 @@ INFOID:0000000010099181
 1.CHECK SELF-DIAGNOSIS RESULTS
 Check if “U1000” is detected other than “U150C” in “Self Diagnostic Result” of “ICC/ADAS”.
 
-### Is any DTC detected?
 
 ### Trouble diagnosis name
 
@@ -421147,7 +419652,6 @@ NOTE:
 If DTC “U1513” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to CCS-151,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U1513” detected as the current malfunction?
 
@@ -421207,7 +419711,6 @@ NOTE:
 If DTC “U1514” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to CCS-151,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U1514” detected as the current malfunction?
 
@@ -421263,7 +419766,6 @@ NOTE:
 If DTC “U1515” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to CCS-151,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U1515” detected as the current malfunction?
 
@@ -421303,7 +419805,6 @@ NOTE:
 If DTC “U1517” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to CCS-151,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U1517” detected as the current malfunction?
 
@@ -422325,7 +420826,6 @@ Erase the self-diagnosis results, and then perform “All DTC Reading” again a
 test. (Refer to CCS-81, "Description" for action test.)
 2.
 
-### Check that the ICC system is normal.
 
 ### Revision: 2013 November
 
@@ -422375,7 +420875,6 @@ indicator and sounding the chime unexpectedly. The driver will
 have to manually control the proper distance away from the vehicle
 traveling ahead.
 
-### JPOIA0221ZZ
 
 ### JPOIA0219ZZ
 
@@ -422840,7 +421339,6 @@ CAN communication
 Closed throttle position signal
 Receives idle position state (ON/OFF)
 
-### Accelerator pedal position signal
 
 ### SET/COAST switch
 
@@ -423256,7 +421754,6 @@ Revision: 2013 November
 DAS-20
 < SYSTEM DESCRIPTION >
 
-### [ADAS CONTROL UNIT]
 
 ### CAN communication line, a mode
 
@@ -423409,7 +421906,6 @@ NOTE:
 The following table includes information (items) inapplicable to this vehicle. For information (items) applicable
 to this vehicle, refer to CONSULT display items.
 
-### Side Radar Lost
 
 ### Revision: 2013 November
 
@@ -423457,7 +421953,6 @@ LDP SYSTEM ON
 [On/Off]
 ×
 
-### Indicates [On/Off] status of LDP system
 
 ### Monitored item
 
@@ -423532,7 +422027,6 @@ P
 A
 The test is finished in 10 seconds after starting
 
-### Active Pedal
 
 ### Revision: 2013 November
 
@@ -423549,7 +422043,6 @@ BSW/BSI WARNING LAMP
 BSI ON INDICATOR
 Test item
 
-### Opera-
 
 ### Description
 
@@ -423565,7 +422058,6 @@ Transmits the warning systems ON indicator signal to the
 warning systems ON indicator.
 ON
 
-### Test item
 
 ### Revision: 2013 November
 
@@ -423624,7 +422116,6 @@ unit
 SET VHCL SPD
 While driving
 
-### When vehicle speed is set
 
 ### Displays the
 
@@ -423656,7 +422147,6 @@ P
 A
 GEAR
 
-### While driving
 
 ### LDW ON LAMP
 
@@ -423794,7 +422284,6 @@ NOTE:
 • U0121: VDC CAN CIR 2
 • U0126: STRG SEN CAN CIR 1
 
-### • U0235: ICC SENSOR CAN CIRC 1
 
 ### • C1A15: GEAR POSITION
 
@@ -423876,9 +422365,6 @@ ON
 ON
 A, B, C, D, E
 
-### CCS-122
-
-### CONSULT display
 
 ### DAS-43
 
@@ -423936,7 +422422,6 @@ U1010
 CONTROL UNIT (CAN)
 ON
 
-### A, B, C, D, E, F, G,
 
 ### SIDE RDR L CAN CIR 1
 
@@ -424021,11 +422506,6 @@ STRG SEN CAN CIRC 3
 ON
 A, B, C, D, E, G, H
 
-### CCS-160
-
-### CONSULT display
-
-### < ECU DIAGNOSIS INFORMATION >
 
 ### CONSULT display
 
@@ -424743,7 +423223,6 @@ Revision: 2013 November
 2014 Q70
 DAS
 
-### PRECAUTIONS
 
 ### Precautions for Removing of Battery Terminal
 
@@ -424928,7 +423407,6 @@ ICC brake hold relay
 ICC brake hold relay activates the stop lamp by ICC brake hold relay drive signal (stop
 lamp drive signal) outputted by the ADAS control unit
 
-### ICC brake switch
 
 ### Stop lamp switch
 
@@ -425902,9 +424380,6 @@ INFOID:0000000010100715
 APPLICATION ITEMS
 CONSULT performs the following functions via CAN communication with ADAS control unit and the communication with ICC sensor.
 
-### LASER HEIGHT
-
-### < SYSTEM DESCRIPTION >
 
 ### Description
 
@@ -426230,7 +424705,6 @@ ICC system ON
 • Press the DISTANCE
 switch to change the vehicle-to-vehicle distance setting
 
-### When set to “long”
 
 ### Revision: 2013 November
 
@@ -426664,7 +425138,6 @@ U0401
 ECM CAN CIR 1
 ON
 
-### A, B, E, F, G
 
 ### DAS-109
 
@@ -426852,11 +425325,6 @@ Revision: 2013 November
 2014 Q70
 DAS-110
 
-### < ECU DIAGNOSIS INFORMATION >
-
-### U1517
-
-### CONSULT display
 
 ### DAS-111
 
@@ -427576,7 +426044,6 @@ P
 A
 ADDITIONAL SERVICE WHEN REPLACING ICC SENSOR
 
-### Description
 
 ### Always perform it.
 
@@ -427616,7 +426083,6 @@ INFOID:0000000010100733
 Perform accelerator pedal released position learning. Refer to EC-167, "Description" (VQ37VHR) or EC-1137,
 "Description" (VK56VD for USA and Canada) or EC-1722, "Description" (VK56VD for Mexico).
 
-### >> GO TO 2.
 
 ### DAS-137
 
@@ -427716,7 +426182,6 @@ DTC Logic
 INFOID:0000000010100736
 DTC DETECTION LOGIC
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “C1A00” detected as the current malfunction?
 
@@ -427891,7 +426356,6 @@ Drive the vehicle.
 3.
 Check that the value of “VHCL SPD AT” is almost the same as the value of “VHCL SPEED SE” in “DATA
 
-### MONITOR” of “ICC/ADAS”.
 
 ### • TCM
 
@@ -428064,7 +426528,6 @@ YES
 NO
 >> Adjust stop lamp switch installation. Refer to BR-7, "Inspection and Adjustment".
 
-### 10.STOP LAMP SWITCH INSPECTION
 
 ### Continuity
 
@@ -428528,7 +426991,6 @@ Remove ICC brake hold relay.
 3.
 Check that the stop lamp is illuminated by depressing the brake pedal to turn the stop lamp ON.
 
-### Is the inspection result normal?
 
 ### M160
 
@@ -428688,7 +427150,6 @@ YES
 NO
 >> Repair the harnesses or connectors.
 
-### Component Inspection
 
 ### Not exist-
 
@@ -429133,7 +427594,6 @@ Perform “All DTC Reading” with CONSULT.
 5.
 Check if the “C1A24” is detected as the current malfunction in “Self Diagnostic Result” of “ICC/ADAS”.
 
-### Is “C1A24” detected as the current malfunction?
 
 ### Is “C1A24” detected as the current malfunction?
 
@@ -429197,7 +427657,6 @@ If DTC “C1A26” is detected along with DTC “U1000”, “U0415” or “U01
 • DTC “U0415”: Refer to DAS-191, "DTC Logic".
 • DTC “U0121”: Refer to DAS-186, "DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “C1A26” detected as the current malfunction?
 
@@ -429534,7 +427993,6 @@ YES
 NO
 >> Refer to GI-47, "Intermittent Incident".
 
-### Diagnosis Procedure
 
 ### Revision: 2013 November
 
@@ -429572,7 +428030,6 @@ NO
 2.REPLACE ACCELERATOR PEDAL ASSEMBLY
 1.
 
-### APA CAN CIR2
 
 ### DAS-175
 
@@ -429725,7 +428182,6 @@ NO
 >> Refer to GI-47, "Intermittent Incident".
 ADAS CONTROL UNIT : Diagnosis Procedure
 
-### INFOID:0000000010100792
 
 ### Refer to DAS-193, "ADAS CONTROL UNIT : DTC Logic".
 
@@ -430023,7 +428479,6 @@ C1F05 ACCELERATOR PEDAL ACTUATOR POWER SUPPLY CIRCUIT
 C1F05 ACCELERATOR PEDAL ACTUATOR POWER SUPPLY CIRCUIT
 ADAS CONTROL UNIT
 
-### ADAS CONTROL UNIT : DTC Logic
 
 ### Is “C1F05” detected as the current malfunction?
 
@@ -430071,9 +428526,6 @@ DTC
 display)
 Trouble diagnosis name
 
-### DTC detecting condition
-
-### Trouble diagnosis name
 
 ### Revision: 2013 November
 
@@ -430319,7 +428771,6 @@ INFOID:0000000010100810
 1.CHECK SELF-DIAGNOSIS RESULTS
 Check if “U1000” is detected other than “U0121” in “Self Diagnostic Result” of “ICC/ADAS”.
 
-### Trouble diagnosis name
 
 ### Revision: 2013 November
 
@@ -430435,7 +428886,6 @@ NO
 2.CHECK ICC SENSOR SELF-DIAGNOSIS RESULTS
 Check if any DTC is detected in “Self Diagnostic Result” of “LASER”.
 
-### Is any DTC detected?
 
 ### Trouble diagnosis name
 
@@ -430572,7 +429022,6 @@ NO
 2.CHECK TCM SELF-DIAGNOSIS RESULTS
 Check if any DTC is detected in “Self Diagnostic Result” of “TRANSMISSION”.
 
-### Trouble diagnosis
 
 ### U0415 VDC CAN 1
 
@@ -430625,7 +429074,6 @@ INFOID:0000000010100820
 1.CHECK SELF-DIAGNOSIS RESULTS
 Check if “U1000” is detected other than “U0415” in “Self Diagnostic Result” of “ICC/ADAS”.
 
-### Trouble diagnosis name
 
 ### Revision: 2013 November
 
@@ -430705,7 +429153,6 @@ ADAS CONTROL UNIT
 ADAS CONTROL UNIT : Description
 INFOID:0000000010100823
 
-### CAN COMMUNICATION
 
 ### ADAS CONTROL UNIT : DTC Logic
 
@@ -430741,7 +429188,6 @@ ITS COMMUNICATION
 large quantities of data at high speed by connecting control units with 2 communication lines.
 • ITS communication lines adopt twisted-pair line style (two lines twisted) for noise immunity.
 
-### ACCELERATOR PEDAL ACTUATOR : DTC Logic
 
 ### Revision: 2013 November
 
@@ -431020,7 +429466,6 @@ NOTE:
 If DTC “U150D” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to DAS-193,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U150D” detected as the current malfunction?
 
@@ -431075,7 +429520,6 @@ NOTE:
 If DTC “U150E” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to DAS-193,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U150E” detected as the current malfunction?
 
@@ -431098,7 +429542,6 @@ NO
 2.CHECK BCM SELF-DIAGNOSIS RESULTS
 Check if any DTC is detected in “Self Diagnostic Result” of “BCM”.
 
-### Trouble diagnosis name
 
 ### < DTC/CIRCUIT DIAGNOSIS >
 
@@ -431112,7 +429555,6 @@ NOTE:
 If DTC “U1502” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to DAS-193,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U1502” detected as the current malfunction?
 
@@ -431165,7 +429607,6 @@ NOTE:
 If DTC “U1513” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to DAS-193,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U1513” detected as the current malfunction?
 
@@ -431202,7 +429643,6 @@ NOTE:
 If DTC “U1514” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to DAS-193,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U1514” detected as the current malfunction?
 
@@ -431246,7 +429686,6 @@ NOTE:
 If DTC “U1515” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to DAS-193,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U1515” detected as the current malfunction?
 
@@ -432031,7 +430470,6 @@ NO
 Understand the vehicle ahead detection condition when the malfunction occurred. If the detecting function is
 malfunctioning, check according to DAS-216, "Description".
 
-### >> INSPECTION END
 
 ### >> INSPECTION END
 
@@ -432109,7 +430547,6 @@ NO
 6.REPLACE ADAS CONTROL UNIT
 Replace the ADAS control unit. Refer to DAS-68, "Removal and Installation".
 
-### >> GO TO 7.
 
 ### Revision: 2013 November
 
@@ -432271,9 +430708,6 @@ and cause automatic braking. Driver may need to control the distance from other 
 - When the reflector on the vehicle ahead is missing, damaged or covered
 - When the reflector of the vehicle ahead is covered with dirt, snow and road spray
 
-### - When the snow or road spray from traveling vehicles reduces the sensor's vi
-
-### Revision: 2013 November
 
 ### system. The system will release brake control with a warning chime once it ju
 
@@ -433172,7 +431606,6 @@ N
 P
 A
 
-### The test can be performed only when the engine is running.
 
 ### Returns to the “SELECT TEST ITEM” screen
 
@@ -433280,7 +431713,6 @@ LANE DEPARTURE W/L
 BSW/BSI WARNING LAMP
 BSI ON INDICATOR
 
-### Test item
 
 ### Revision: 2013 November
 
@@ -433306,7 +431738,6 @@ NOTE:
 The following table includes information (items) inapplicable to this vehicle. For information (items) applicable
 to this vehicle, refer to CONSULT display items.
 
-### LASER HEIGHT
 
 ### DAS-247
 
@@ -433552,7 +431983,6 @@ When a vehicle ahead is detected
 Displays the distance from the
 preceding vehicle
 
-### When a vehicle ahead is not detected
 
 ### Ignition switch ON
 
@@ -433896,7 +432326,6 @@ NOTE:
 • C1A35: APA CIR
 • C1A36: APA CAN COMM CIR
 
-### • C1A37: APA CAN CIR 2
 
 ### • C1A15: GEAR POSITION
 
@@ -433953,13 +432382,6 @@ ECD PWR SUPLY CIR
 ON
 ON
 
-### A, B, C, D, E
-
-### A, B, E
-
-### C1B00
-
-### DAS-541
 
 ### MAY BE REQUIRED
 
@@ -434004,7 +432426,6 @@ Systems for fail-safe
 • H: Active trace control function
 DTC
 
-### CONSULT display
 
 ### < ECU DIAGNOSIS INFORMATION >
 
@@ -434173,7 +432594,6 @@ ON
 ON
 A, B, C, D, E
 
-### CCS-161
 
 ### DAS-259
 
@@ -434199,7 +432619,6 @@ With the detection of “U1000” some systems do not perform the fail-safe oper
 A system controlling based on a signal received from the control unit performs fail-safe operation when the
 communication with the ADAS control unit becomes inoperable.
 
-### CONSULT display
 
 ### < ECU DIAGNOSIS INFORMATION >
 
@@ -434929,7 +433348,6 @@ DAS
 NORMAL OPERATING CONDITION
 DAS-285
 
-### < SYMPTOM DIAGNOSIS >
 
 ### Revision: 2013 November
 
@@ -434975,7 +433393,6 @@ Remove warning systems switch from instrument lower panel LH.
 > P
 > A
 
-### PRECAUTION
 
 ### Precautions for Removing of Battery Terminal
 
@@ -435610,7 +434027,6 @@ Steering angle sensor signal
 Receives the number of revolutions, turning direction of
 the steering wheel
 
-### Steering angle speed signal
 
 ### ICC sensor
 
@@ -435773,7 +434189,6 @@ navigation screen are “OFF”)
 JPOIA0017GB
 JPOIA0019GB
 
-### JPOIA0020GB
 
 ### Revision: 2013 November
 
@@ -436212,7 +434627,6 @@ Displays causes of automatic system cancellation occurred during system control
 Self Diagnostic Result
 Displays the name of a malfunctioning system stored in the ADAS control unit
 
-### CAN Diag Support Monitor
 
 ### DAS-309
 
@@ -436383,7 +434797,6 @@ VDC OFF SW
 ×
 VDC OFF switch was pressed
 
-### OPE VDC/ABS 2
 
 ### DAS-311
 
@@ -436918,7 +435331,6 @@ SET switch indicator OFF
 Off
 DISTANCE
 
-### Drive the vehicle and activate
 
 ### When a vehicle ahead is detected
 
@@ -436957,7 +435369,6 @@ Ignition switch ON
 When the IBA OFF switch is pressed
 On
 
-### When the IBA OFF switch is not pressed
 
 ### LDW ON LAMP
 
@@ -437268,13 +435679,6 @@ CCS-127
 C1A37
 133
 
-### APA CAN CIR 2
-
-### CCS-123
-
-### U0401
-
-### CONSULT display
 
 ### < ECU DIAGNOSIS INFORMATION >
 
@@ -437358,7 +435762,6 @@ DAS-563
 U1505
 152
 
-### SIDE RDR R CAN CIR 2
 
 ### U150C
 
@@ -437409,9 +435812,6 @@ U1515
 165
 ICC SENSOR CAN
 
-### DAS-331
-
-### CONSULT display
 
 ### < ECU DIAGNOSIS INFORMATION >
 
@@ -438299,7 +436699,6 @@ INFOID:0000000010100937
 System Description".
 - Handling precaution: Refer to DAS-304, "Precautions for Lane Departure Warning/Lane Departure
 
-### Prevention".
 
 ### Prevention".
 
@@ -438325,7 +436724,6 @@ LDP system is OFF.
 3.
 Check the LDW operation according to the following table.
 
-### Revision: 2013 November
 
 ### SYSTEM : System Description".
 
@@ -438942,7 +437340,6 @@ YES-2 (Lane departure warning lamp: OFF)>>Refer to CCS-91, "DTC Logic".
 NO
 >> Refer to GI-47, "Intermittent Incident".
 
-### Diagnosis Procedure
 
 ### BRC-52, "DTC Index".
 
@@ -439128,7 +437525,6 @@ DAS
 C1A05 BRAKE SW/STOP LAMP SW
 DAS-373
 
-### < DTC/CIRCUIT DIAGNOSIS >
 
 ### Continuity
 
@@ -439391,7 +437787,6 @@ If DTC “C1A15” is detected along with DTC “U1000”, “C1A03”, or “C1
 • Refer to DAS-368, "DTC Logic" for DTC “C1A03”.
 • Refer to DAS-369, "DTC Logic" for DTC “C1A04”.
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Stop the vehicle.
 
@@ -439405,7 +437800,6 @@ YES
 NO
 >> Refer to GI-47, "Intermittent Incident".
 
-### Diagnosis Procedure
 
 ### • TCM
 
@@ -440146,7 +438540,6 @@ NOTE:
 If DTC “U0401” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to DAS-397,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U0401” detected as the current malfunction?
 
@@ -440159,9 +438552,6 @@ INFOID:0000000010100989
 1.CHECK SELF-DIAGNOSIS RESULTS
 Check if “U1000” is detected other than “U0401” in “Self Diagnostic Result” of “ICC/ADAS”.
 
-### Is “U1000” detected?
-
-### Trouble diagnosis name
 
 ### U0402 TCM CAN 1
 
@@ -440445,7 +438835,6 @@ ITS COMMUNICATION
 large quantities of data at high speed by connecting control units with 2 communication lines.
 • ITS communication lines adopt twisted-pair line style (two lines twisted) for noise immunity.
 
-### LANE CAMERA UNIT : DTC Logic
 
 ### Revision: 2013 November
 
@@ -440779,7 +439168,6 @@ NO
 2.CHECK BCM SELF-DIAGNOSIS RESULTS
 Check if any DTC is detected in “Self Diagnostic Result” of “BCM”.
 
-### Trouble diagnosis name
 
 ### < DTC/CIRCUIT DIAGNOSIS >
 
@@ -440793,7 +439181,6 @@ NOTE:
 If DTC “U1500” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to DAS-397,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U1500” detected as the current malfunction?
 
@@ -440868,7 +439255,6 @@ NOTE:
 If DTC “U1501” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to DAS-397,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U1501” detected as the current malfunction?
 
@@ -440992,7 +439378,6 @@ NOTE:
 If DTC “U1513” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to DAS-397,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U1513” detected as the current malfunction?
 
@@ -441005,7 +439390,6 @@ INFOID:0000000010101025
 1.CHECK SELF-DIAGNOSIS RESULTS
 Check if “U1000” is detected other than “U1513” in “Self Diagnostic Result” of “ICC/ADAS”.
 
-### Is “U1000” detected?
 
 ### 2014 Q70
 
@@ -442104,9 +440488,6 @@ NO
 3.CHECK DATA MONITOR OF ADAS CONTROL UNIT
 Check that “LDP SELECT” operates normally in “DATA MONITOR” of “ICC/ADAS” with CONSULT.
 
-### Is the inspection result normal?
-
-### < SYMPTOM DIAGNOSIS >
 
 ### LANE DEPARTURE PREVENTION (LDP)
 
@@ -442298,7 +440679,6 @@ P
 A
 PRECAUTION
 
-### PRECAUTIONS
 
 ### Precautions for Removing of Battery Terminal
 
@@ -442822,7 +441202,6 @@ FAIL-SAFE CONTROL BY DTC
 If a malfunction occurs in the side radar, ADAS control unit cancels control, and turns ON the BSW/BSI warning lamp in the combination meter.
 TEMPORARY DISABLED STATUS AT BLOCKAGE
 
-### System
 
 ### CAN communication line, a mode
 
@@ -442972,7 +441351,6 @@ SNOW mode signal
 Receives a mode selection state of the drive mode select
 switch
 
-### ICC sensor
 
 ### Receives detection results of lane marker
 
@@ -443480,7 +441858,6 @@ DCA/BSI is OFF
 - When the VDC system is turned off.
 - When the drive mode select switch is turned to the SNOW mode.
 
-### BSW/BSI warning lamp (yellow)
 
 ### Action
 
@@ -443722,7 +442099,6 @@ INFOID:0000000010101070
 APPLICATION ITEMS
 CONSULT performs the following functions via CAN communication using ADAS control unit.
 
-### CONSULT, and then check the malfunctioning parts.
 
 ### CAN Diag Support Monitor
 
@@ -443798,9 +442174,6 @@ NOTE:
 The following table includes information (items) inapplicable to this vehicle. For information (items) applicable
 to this vehicle, refer to CONSULT display items.
 
-### Side Radar Lost
-
-### < SYSTEM DESCRIPTION >
 
 ### Revision: 2013 November
 
@@ -444067,7 +442440,6 @@ FFD (Freeze Frame Data)
 The side radar records the following data when the malfunction is detected.
 DATA MONITOR
 
-### Active test item
 
 ### DIAGNOSIS SYSTEM (LANE CAMERA UNIT)
 
@@ -444536,7 +442908,6 @@ U0401
 ECM CAN CIR 1
 ON
 
-### A, B, E, F, G
 
 ### DAS-477
 
@@ -444678,11 +443049,6 @@ STRG SEN CAN CIRC 3
 ON
 A, B, C, D, E, G, H
 
-### DAS-570
-
-### CONSULT display
-
-### < ECU DIAGNOSIS INFORMATION >
 
 ### CONSULT display
 
@@ -445104,7 +443470,6 @@ N
 P
 A
 
-### LANE CAMERA UNIT
 
 ### Revision: 2013 November
 
@@ -445940,7 +444305,6 @@ assistance switch.
 7.
 Check that the BSI ON indicator turns OFF when the engine starts again.
 
-### Vehicle condition/ Driver's operation
 
 ### Less than ap-
 
@@ -446123,7 +444487,6 @@ C1A03 VEHICLE SPEED SENSOR
 DTC Logic
 INFOID:0000000010101101
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “C1A03” detected as the current malfunction?
 
@@ -446132,7 +444495,6 @@ YES-2 (Lane departure warning lamp: OFF)>>Refer to CCS-91, "DTC Logic".
 NO
 >> Refer to GI-47, "Intermittent Incident".
 
-### Diagnosis Procedure
 
 ### ADAS control unit via CAN communication, are
 
@@ -446191,7 +444553,6 @@ NOTE:
 If DTC “C1A05” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to DAS-544,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### Diagnosis Procedure
 
 ### >> GO TO 5.
 
@@ -446253,11 +444614,6 @@ YES
 NO
 >> Adjust stop lamp switch installation. Refer to BR-7, "Inspection and Adjustment".
 
-### 10.STOP LAMP SWITCH INSPECTION
-
-### Continuity
-
-### < DTC/CIRCUIT DIAGNOSIS >
 
 ### Continuity
 
@@ -446303,7 +444659,6 @@ NOTE:
 If DTC “C1A06” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to DAS-544,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “C1A06” detected as the current malfunction?
 
@@ -446517,7 +444872,6 @@ YES
 NO
 >> Refer to GI-47, "Intermittent Incident".
 
-### Diagnosis Procedure
 
 ### • TCM
 
@@ -447046,7 +445400,6 @@ YES
 >> Replace the lane camera unit. Refer to DAS-598, "Removal and Installation".
 NO
 
-### Trouble diagnosis name
 
 ### DAS-536
 
@@ -447601,9 +445954,6 @@ YES
 NO
 >> Refer to GI-47, "Intermittent Incident".
 
-### SIDE RADAR RH
-
-### ITS COMMUNICATION
 
 ### Trouble diagnosis name
 
@@ -447649,7 +445999,6 @@ NO
 ADAS CONTROL UNIT
 ADAS CONTROL UNIT : Description
 
-### INFOID:0000000010101153
 
 ### ADAS CONTROL UNIT : DTC Logic
 
@@ -447662,7 +446011,6 @@ INFOID:0000000010101155
 1.PERFORM THE SELF-DIAGNOSIS
 1.
 
-### Turn the ignition switch ON.
 
 ### Trouble diagnosis name
 
@@ -447964,7 +446312,6 @@ ADAS control unit
 DTC
 Trouble diagnosis name
 
-### DTC detecting condition
 
 ### DAS-549
 
@@ -448128,7 +446475,6 @@ YES
 NO
 >> Refer to GI-47, "Intermittent Incident".
 
-### ADAS CONTROL UNIT : Diagnosis Procedure
 
 ### BRC-52, "DTC Index".
 
@@ -448144,7 +446490,6 @@ If DTC “U0126” is detected along with DTC “U1000”, first diagnose the DT
 DTC
 (On board display)
 
-### Trouble diagnosis name
 
 ### 2014 Q70
 
@@ -448163,7 +446508,6 @@ Perform “All DTC Reading” with CONSULT.
 4.
 Check if the “U0126” is detected as the current malfunction in “Self Diagnostic Result” of “LANE CAM-
 
-### ERA”.
 
 ### INFOID:0000000010101180
 
@@ -448543,7 +446887,6 @@ If DTC “U0428” is detected along with DTC “U1000”, first diagnose the DT
 DTC
 (On board display)
 
-### Trouble diagnosis name
 
 ### 2014 Q70
 
@@ -449277,7 +447620,6 @@ INFOID:0000000010101214
 1.CHECK SELF-DIAGNOSIS RESULTS
 Check if “U1000” is detected other than “U1513” in “Self Diagnostic Result” of “ICC/ADAS”.
 
-### Is “U1000” detected?
 
 ### 2014 Q70
 
@@ -449293,7 +447635,6 @@ NOTE:
 If DTC “U1514” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to DAS-544,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U1514” detected as the current malfunction?
 
@@ -449306,7 +447647,6 @@ INFOID:0000000010101216
 1.CHECK SELF-DIAGNOSIS RESULTS
 Check if “U1000” is detected other than “U1514” in “Self Diagnostic Result” of “ICC/ADAS”.
 
-### Is “U1000” detected?
 
 ### Revision: 2013 November
 
@@ -449339,7 +447679,6 @@ NOTE:
 If DTC “U1516” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to DAS-544,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U1516” detected as the current malfunction?
 
@@ -449525,7 +447864,6 @@ YES
 NO
 >> Refer to GI-47, "Intermittent Incident".
 
-### Diagnosis Procedure
 
 ### Revision: 2013 November
 
@@ -449669,9 +448007,6 @@ INFOID:0000000010101230
 1.CHECK SELF-DIAGNOSIS RESULTS
 Check if “U1000” is detected other than “U150E” in “Self Diagnostic Result” of “ICC/ADAS”.
 
-### Is “U1000” detected?
-
-### Trouble diagnosis name
 
 ### < DTC/CIRCUIT DIAGNOSIS >
 
@@ -450066,7 +448401,6 @@ A
 2.
 Check continuity between the ADAS control unit harness connector and triple switch harness connector.
 
-### Component Inspection
 
 ### Existed
 
@@ -450210,7 +448544,6 @@ YES
 NO
 >> Replace warning systems switch. DAS-600, "Removal and Installation".
 
-### Component Inspection
 
 ### >> INSPECTION END
 
@@ -450763,7 +449096,6 @@ NO
 3.CHECK DATA MONITOR OF ADAS CONTROL UNIT
 Check that “BSI SELECT” operates normally in “DATA MONITOR” of “ICC/ADAS” with CONSULT.
 
-### Is the inspection result normal?
 
 ### < SYMPTOM DIAGNOSIS >
 
@@ -453801,7 +452133,6 @@ Observe the following precautions to ensure safe and proper servicing. These pre
 described in each individual section.
 Precaution for Supplemental Restraint System (SRS) "AIR BAG" and "SEAT BELT
 
-### PRE-TENSIONER"
 
 ### Service Manual.
 
@@ -453829,9 +452160,6 @@ serious injury.
 • When using air or electric power tools or hammers, always switch the ignition OFF, disconnect the
 battery, and wait at least 3 minutes before performing any service.
 
-### Precaution for Procedure without Cowl Top Cover
-
-### INFOID:0000000010106231
 
 ### Precautions for Removing of Battery Terminal
 
@@ -454057,7 +452385,6 @@ HA section “REFRIGERANT” for specific instructions.
 > • U.S. government regulations require ethanol dispensing pumps to be identified by a small, square,
 > orange and black label with the common abbreviation or the appropriate percentage for that region.
 
-### FOR MEXICO
 
 ### Revision: 2013 November
 
@@ -455463,7 +453790,6 @@ Function
 All DTC Reading
 Display all DTCs or diagnostic items that all ECUs are recording and judging.
 
-### Work Support
 
 ### CAN Diagnosis
 
@@ -456168,7 +454494,6 @@ INSIDE THE VEHICLE
 The maintenance items listed here should be checked on a regular basis, such as when performing periodic maintenance, cleaning the vehicle,
 etc.
 
-### Item
 
 ### WT-71
 
@@ -456414,7 +454739,6 @@ tail lamps, turn signal lamps, and other lamps are all operating properly and in
 securely. Also check the aim of the headlamps.
 —
 
-### Tires
 
 ### WT-71
 
@@ -456654,7 +454978,6 @@ R
 Spark plugs (Iridium-tipped type)
 Replace every 105,000 miles (168,000 km)
 
-### Intake and exhaust valve clearance*
 
 ### Drive belt
 
@@ -456908,7 +455231,6 @@ NOTE:
 20,000 miles (32,000 km) or 24 months.
 • (3) Refer to “Tire rotation” under the “GENERAL MAINTENANCE” heading earlier in this section.
 
-### MAINTENANCE UNDER SEVERE DRIVING CONDITIONS
 
 ### Brake lines & cables
 
@@ -457984,7 +456306,6 @@ quarter of a turn to release built-up pressure. Then turn radiator cap all the w
 • Never spill engine coolant on drive belt.
 1.
 
-### Connect drain hose.
 
 ### Range when new drive belt is installed
 
@@ -458273,7 +456594,6 @@ A
 (commercial service tool) and the radiator cap tester adapter (commercial service tool) (A), apply engine coolant to the cap seal surface.
 • Replace reservoir tank cap if there is an unusualness related to the above three.
 
-### FUEL LINES
 
 ### AIR CLEANER FILTER
 
@@ -458665,7 +456985,6 @@ Check drained engine coolant for contaminants such as rust, corrosion or discolo
 If contaminated, flush the engine cooling system. Refer to CO-40, "Flushing".
 5.
 
-### Disconnect drain hose.
 
 ### Install reservoir tank if removed, and radiator drain plug.
 
@@ -458791,7 +457110,6 @@ d.
 If flow noise can be heard, repeat from Step 12 of Refilling to Step c of Flow Noise Verification Method.
 e.
 
-### Check that the reservoir tank cap is tightened.
 
 ### Remove air relief plug (1) on radiator.
 
@@ -458893,7 +457211,6 @@ Blow air into the back side of radiator core vertically downward.
 5.
 Blow air again into all the radiator core surfaces once per minute until no water sprays out.
 
-### FUEL LINES
 
 ### AIR CLEANER FILTER
 
@@ -458940,7 +457257,6 @@ A
 Note the following item, and install in the reverse order of removal.
 • Install the air cleaner filter by aligning the seal with the notch of air cleaner case.
 
-### AIR CLEANER FILTER : Inspection (Viscous Paper Type)
 
 ### MA-12, "FOR MEXICO : Periodic Maintenance" (FOR MEXICO).
 
@@ -459025,7 +457341,6 @@ Apply engine oil to the oil seal contact surface of new oil filter.
 Screw oil filter manually until it touches the installation surface,
 then tighten it by 2/3 turn (A). Or tighten to the specification.
 
-### OIL FILTER : Inspection
 
 ### SPARK PLUG
 
@@ -459191,7 +457506,6 @@ CAUTION:
 Never reuse gasket.
 TRANSFER FLUID : Refilling
 
-### INFOID:0000000010274388
 
 ### DLN-69, "Exploded View".
 
@@ -459537,7 +457851,6 @@ CAUTION:
 Never reuse gasket.
 REAR DIFFERENTIAL GEAR OIL: R208 : Refilling
 
-### INFOID:0000000010274570
 
 ### DLN-218, "Exploded View".
 
@@ -460227,7 +458540,6 @@ the lower end of windshield with urethane, etc to prevent damage to
 windshield.
 Precaution for Supplemental Restraint System (SRS) "AIR BAG" and "SEAT BELT
 
-### PRE-TENSIONER"
 
 ### Precautions For Engine Service
 
@@ -460346,7 +458658,6 @@ adhering moisture, grease and foreign materials.
 3.
 Attach liquid gasket tube to the tube presser (commercial service tool).
 
-### Use Genuine RTV Silicone Sealant or equivalent. Refer to
 
 ### Make sure to read the text of this manual.
 
@@ -460895,7 +459206,6 @@ Perform adjustment or replacement if the measured value is out of the standard.
 > • Perform adjustment depending on selected head thickness of valve lifter (EXH).
 > 1.
 
-### Measure the valve clearance. Refer to “INSPECTION”.
 
 ### Measuring position [bank 1 (A)]
 
@@ -461125,9 +459435,6 @@ Specify the operating condition of the engine.
 Check specified noise source.
 If necessary, repair or replace these parts.
 
-### A: Closely related
-
-### When
 
 ### EM-156
 
@@ -461302,7 +459609,6 @@ Remove engine undercover with power tool.
 3.
 Remove radiator cooling fan assembly. Refer to CO-20, "Exploded View".
 
-### JPBIA1060ZZ
 
 ### Indicator
 
@@ -461387,7 +459693,6 @@ Note the following, and install in the reverse order of removal.
 Inspection (Viscous Paper Type)
 INFOID:0000000010246609
 
-### INSPECTION AFTER REMOVAL
 
 ### MA-12, "FOR MEXICO : Periodic Maintenance" (FOR MEXICO).
 
@@ -464805,7 +463110,6 @@ CAUTION:
 8.
 Separate the engine from the transmission assembly. Refer to TM-223, "VQ37VHR (2WD) : Exploded
 
-### View".
 
 ### View".
 
@@ -464833,7 +463137,6 @@ Revision: 2013 November
 EM-80
 < UNIT REMOVAL AND INSTALLATION >
 
-### [VQ37VHR]
 
 ### Summary of the inspection items:
 
@@ -465124,7 +463427,6 @@ Separate the engine from the transmission assembly. Refer to TM-226, "VQ37VHR (A
 View".
 10. Remove the front final drive assembly from oil pan (upper). Refer to DLN-131, "VQ37VHR : Exploded
 
-### View".
 
 ### View".
 
@@ -467957,7 +466259,6 @@ CYLINDER HEAD
 EM-129
 < UNIT DISASSEMBLY AND ASSEMBLY >
 
-### [VQ37VHR]
 
 ### 2014 Q70
 
@@ -469025,9 +467326,6 @@ Measure finished cylinder bore for the out-of-round and taper.
 > • Measure the outer diameter of crankshaft main journals with a micrometer.
 > • If out of the standard, measure the main bearing oil clearance. Then use undersize bearing. Refer to EM153, "Main Bearing".
 
-### CRANKSHAFT PIN JOURNAL DIAMETER
-
-### CRANKSHAFT OUT-OF-ROUND AND TAPER
 
 ### CRANKSHAFT RUNOUT
 
@@ -469489,7 +467787,6 @@ Correspond the measured dimension in “crankshaft pin diameter” column of “
 4.
 Follow step 3 and later in “WHEN NEW CONNECTING ROD AND CRANKSHAFT ARE USED”.
 
-### CONNECTING ROD BEARING SELECTION TABLE
 
 ### JPBIA0269ZZ
 
@@ -469596,7 +467893,6 @@ K
 : Identification code
 : Engine front
 
-### JPBIA0268ZZ
 
 ### JPBIA0269ZZ
 
@@ -470428,9 +468724,6 @@ Grade No. B
 57.001 - 57.002 (2.2441 - 2.2442)
 —
 
-### Grade No. C
-
-### Grade No. H
 
 ### Grade No. N
 
@@ -470802,7 +469095,6 @@ the lower end of windshield with urethane, etc to prevent damage to
 windshield.
 Precaution for Supplemental Restraint System (SRS) "AIR BAG" and "SEAT BELT
 
-### PRE-TENSIONER"
 
 ### Precaution for Handling High-pressure Fuel System
 
@@ -470898,7 +469190,6 @@ remove old liquid gasket sealing.
 > 3.
 > Attach liquid gasket tube to the tube presser (commercial service tool).
 
-### Use Genuine RTV Silicone Sealant or an equivalent.
 
 ### Check to read the text of this manual.
 
@@ -471630,9 +469921,6 @@ Check specified noise source.
 If necessary, repair or replace these parts.
 A: Closely related
 
-### B: Related
-
-### When
 
 ### EM-262
 
@@ -471774,7 +470062,6 @@ PERIODIC MAINTENANCE
 DRIVE BELTS
 Exploded View
 
-### INFOID:0000000010095468
 
 ### 2014 Q70
 
@@ -471908,7 +470195,6 @@ Air cleaner case assembly (bank 2)
 Air cleaner cover assembly (bank 2)
 5.
 
-### Grommet
 
 ### 15. PCV hose (bank 2)
 
@@ -471939,7 +470225,6 @@ INSTALLATION
 Note the following item, and install in the reverse order of removal.
 • Install the air cleaner filter by aligning the seal with the notch of air cleaner case.
 
-### Inspection (Viscous Paper Type)
 
 ### MA-12, "FOR MEXICO : Periodic Maintenance" (FOR MEXICO).
 
@@ -471986,7 +470271,6 @@ Remove ignition coil. Refer to EM-193, "Exploded View".
 Clamp
 2.
 
-### PCV hose
 
 ### PCV hose
 
@@ -472219,7 +470503,6 @@ Remove mass air flow sensor from air cleaner cover assembly, if necessary.
 > Air cleaner case assembly (bank 2)
 > 4.
 
-### Air cleaner cover assembly (bank 2)
 
 ### Air duct (bank 2)
 
@@ -472307,7 +470590,6 @@ Disconnect PCV hose from rocker cover.
 Remove spark plugs. Refer to EM-187, "Removal and Installation".
 1.
 
-### Clamp
 
 ### Ignition coil (No. 7, 8)
 
@@ -474224,7 +472506,6 @@ shown in the figure.
 • Check that all engine mounting insulators are seated properly, then tighten mounting nuts and bolts.
 2WD : Inspection
 
-### INFOID:0000000010095505
 
 ### Summary of the inspection items:
 
@@ -474350,7 +472631,6 @@ unavoidable reasons, support at rear axle jacking point with transmission jack o
 starting work, in preparation for the backward shift of the center of gravity.
 • For supporting points for lifting and jacking point at rear axle, refer to GI-31, "Garage Jack and
 
-### Safety Stand and 2-Pole Lift".
 
 ### Procedure" (FOR MEXICO).
 
@@ -474527,7 +472807,6 @@ bolts (E).
 shown in the figure.
 • Check that all engine mounting insulators are seated properly, then tighten mounting nuts and bolts.
 
-### AWD : Inspection
 
 ### JPBIA0159ZZ
 
@@ -476008,7 +474287,6 @@ Check for cracks and any excessive wear at link plates and roller
 links of timing chain. Replace timing chain if necessary.
 INSPECTION AFTER ASSEMBLY
 
-### Inspection for Leakage
 
 ### Summary of the inspection items:
 
@@ -476629,7 +474907,6 @@ CAMSHAFT (EXH) VALVE CLEARANCE ADJUSTMENT
 • Perform adjustment depending on selected head thickness of valve lifter (EXH).
 1.
 
-### Measure the valve clearance. Refer to EM-175, "Inspection".
 
 ### JPBIA2142ZZ
 
@@ -477356,7 +475633,6 @@ Provide valve seats (EXH) cooled well with dry ice. Force fit valve seat (EXH) i
 > Using the valve seat cutter set (commercial service tool) or valve
 > seat grinder, finish seat to the specified dimensions. Refer to
 
-### EM-311, "Cylinder Head".
 
 ### Using compound, grind to adjust valve fitting.
 
@@ -478715,9 +476991,6 @@ EM-296
 CYLINDER BLOCK
 • If out of the standard, measure the main bearing oil clearance. Then use undersize bearing. Refer to EM303, "Main Bearing".
 
-### CRANKSHAFT PIN JOURNAL DIAMETER
-
-### CRANKSHAFT OUT-OF-ROUND AND TAPER
 
 ### CRANKSHAFT RUNOUT
 
@@ -478773,7 +477046,6 @@ tightening procedure.
 • If the calculated value exceeds the limit, select proper connecting rod bearing according to connecting rod
 big end diameter and crankshaft pin journal diameter to obtain the specified bearing oil clearance. Refer to
 
-### EM-300, "Description".
 
 ### MAIN BEARING OIL CLEARANCE
 
@@ -480105,9 +478377,6 @@ Grade No. A
 Grade No. B
 57.001 - 57.002 (2.2441 - 2.2442)
 
-### Grade No. C
-
-### Grade No. H
 
 ### Grade No. N
 
@@ -481046,7 +479315,6 @@ SYMPTOM DIAGNOSIS ...........................2023
 ENGINE CONTROL SYSTEM SYMPTOMS ..2023
 Symptom Table ...................................................2023
 
-### Revision: 2013 November
 
 ### Precaution for Procedure without Cowl Top Cover
 
@@ -481083,9 +479351,6 @@ O
 (Turning it ON outside the lamp case may cause fire or visual impairments.)
 • Never touch the bulb glass immediately after turning it OFF. It is extremely hot.
 
-### On Board Diagnostic (OBD) System of Engine and A/T
-
-### General Precautions
 
 ### SEF289H
 
@@ -481108,7 +479373,6 @@ Make sure that there are not any bends or breaks on ECM pin
 terminal, when connecting pin connectors.
 • Securely connect ECM harness connectors.
 
-### A poor connection can cause an extremely high (surge) volt-
 
 ### Value inspection and make sure ECM functions properly.
 
@@ -481221,7 +479485,6 @@ INFOID:0000000010096087
 NOTE:
 The actual shapes of Kent-Moore tools may differ from those of special service tools illustrated here.
 
-### Commercial Service Tools
 
 ### Locates the EVAP leak
 
@@ -481298,7 +479561,6 @@ SYSTEM DESCRIPTION
 COMPONENT PARTS
 ENGINE CONTROL SYSTEM
 
-### ENGINE CONTROL SYSTEM : Component Parts Location
 
 ### Cooling fan motor-2
 
@@ -481747,9 +480009,6 @@ P
 O
 *: ECO pedal control is only for vehicles with intelligent pedal (distance control assist).
 
-### Accelerator Pedal Position Sensor
-
-### Air Fuel Ratio Sensor 1
 
 ### (1,472°F).
 
@@ -481879,9 +480138,6 @@ increases.
 *: These data are reference values and are measured between battery temperature
 sensor signal terminal and sensor ground.
 
-### Brake Switch
-
-### Camshaft Position Sensor (PHASE)
 
 ### The sensor consists of a permanent magnet and Hall IC.
 
@@ -481900,7 +480156,6 @@ Cooling fan control module receives ON/OFF pulse duty signal from IPDM E/R. Corr
 pulse duty signal, cooling fan control module sends cooling fan motor operating voltage to cooling fan motor.
 The revolution speed of cooling fan motor is controlled by duty cycle of the voltage.
 
-### COOLING FAN MOTOR
 
 ### Voltage* (V)
 
@@ -481921,7 +480176,6 @@ EC-46
 [VQ37VHR FOR USA AND CANADA]
 COMPONENT PARTS
 
-### Crankshaft Position Sensor (POS)
 
 ### ECM receives the signals as shown in the figure.
 
@@ -481937,7 +480191,6 @@ The throttle position sensor detects the throttle valve position and feeds the v
 ECM judges the current opening angle of the throttle valve from these signals and controls the throttle valve
 opening angle properly in response to driving condition via the throttle control motor.
 
-### Engine Coolant Temperature Sensor
 
 ### JMBIA0062ZZ
 
@@ -481982,9 +480235,6 @@ decreases as temperature increases.
 *: These data are reference values and are measured between ECM terminals 78
 (Engine oil temperature sensor) and 84 (Sensor ground).
 
-### EVAP Canister Purge Volume Control Solenoid Valve
-
-### Engine coolant temperature [°C (°F)]
 
 ### SEF012P
 
@@ -482014,7 +480264,6 @@ INFOID:0000000010096110
 The EVAP control system pressure sensor detects pressure in the
 purge line. The sensor output voltage to the ECM increases as pressure increases.
 
-### Fuel Injector
 
 ### Fuel Level Sensor
 
@@ -482077,9 +480326,6 @@ the ignition switch is ON, the engine stalls. The ECM stops pump operation and p
 thereby improving safety. The ECM does not directly drive the fuel pump. It controls the ON/OFF fuel pump
 relay, which in turn controls the fuel pump.
 
-### Fuel Tank Temperature Sensor
-
-### Heated Oxygen Sensor 2
 
 ### Heated Oxygen Sensor 2 Heater
 
@@ -482143,7 +480389,6 @@ The ignition signal from the ECM is sent to and amplified by the power transisto
 ON and OFF the ignition coil primary circuit. This ON/OFF operation induces the proper high voltage in the coil
 secondary circuit.
 
-### Intake Air Temperature Sensor
 
 ### Intake Valve Timing Control Solenoid Valve
 
@@ -482168,7 +480413,6 @@ When the brake pedal is depressed, ICC brake switch is turned OFF and stop lamp 
 detects the state of the brake pedal by those two types of input (ON/OFF signal).
 Refer to CCS-13, "System Description" for the ICC function.
 
-### Engine speed rpm
 
 ### PBIA9559J
 
@@ -482220,13 +480464,6 @@ The knock sensor is attached to the cylinder block. It senses engine knocking us
 knocking vibration from the cylinder block is sensed as vibrational pressure. This pressure is converted into a
 voltage signal and sent to the ECM.
 
-### Manifold Absolute Pressure Sensor
-
-### Malfunction Indicator Lamp
-
-### For details, refer to EC-75, "Diagnosis Description".
-
-### ECM detects the air flow by means of this current change.
 
 ### JMBIA0877ZZ
 
@@ -482244,13 +480481,6 @@ The refrigerant pressure sensor is installed at the condenser of the air conditi
 electrostatic volume pressure transducer to convert refrigerant pressure to voltage. The voltage signal is sent
 to ECM, and ECM controls cooling fan system.
 
-### Throttle Control Motor
-
-### Throttle Control Motor Relay
-
-### Throttle Position Sensor
-
-### VVEL Actuator Motor
 
 ### VVEL control shaft position sensor signal.
 
@@ -482289,7 +480519,6 @@ VVEL Control Module
 INFOID:0000000010096133
 The VVEL control module consists of a microcomputer and connectors for signal input and output and for power supply. The VVEL control module controls VVEL system.
 
-### VVEL Control Position Sensor
 
 ### JMBIA0879ZZ
 
@@ -482304,7 +480533,6 @@ STRUCTURE AND OPERATION
 Positive Crankcase Ventilation
 INFOID:0000000010096135
 
-### This system returns blow-by gas to the intake manifold.
 
 ### PCV valve
 
@@ -482533,7 +480761,6 @@ ECM memory. The program value is preset by engine operating conditions. These co
 by input signals (for engine speed and intake air) from the crankshaft position sensor (POS), camshaft position
 sensor (PHASE) and the mass air flow sensor.
 
-### VARIOUS FUEL INJECTION INCREASE/DECREASE COMPENSATION
 
 ### MIXTURE RATIO FEEDBACK CONTROL (CLOSED LOOP CONTROL)
 
@@ -482551,7 +480778,6 @@ Fuel injector
 Camshaft position sensor (PHASE)
 Mass air flow sensor
 
-### Amount of intake air
 
 ### Throttle position
 
@@ -482582,9 +480808,6 @@ SYSTEM
 EC-59
 < SYSTEM DESCRIPTION >
 
-### [VQ37VHR FOR USA AND CANADA]
-
-### MIXTURE RATIO SELF-LEARNING CONTROL
 
 ### FUEL INJECTION TIMING
 
@@ -482793,7 +481016,6 @@ When any of following conditions exist, cruise operation will be canceled.
 • Selector lever is in the N, P, R position
 • Vehicle speed decreased to 13 km/h (8 MPH) lower than the set speed
 
-### JPBIA3272GB
 
 ### ASCD steering switch operation
 
@@ -482842,9 +481064,6 @@ stop blinking and the cruise operation will be able to work by pressing SET/COAS
 If MAIN switch is turned to OFF while ASCD is activated, all of ASCD operations will be canceled and vehicle
 speed memory will be erased.
 
-### COAST OPERATION
-
-### CAN COMMUNICATION
 
 ### COOLING FAN CONTROL
 
@@ -482858,7 +481077,6 @@ Revision: 2013 November
 2014 Q70
 EC-64
 
-### < SYSTEM DESCRIPTION >
 
 ### EVAPORATIVE EMISSION SYSTEM
 
@@ -482885,7 +481103,6 @@ Cooling fan motor
 Engine coolant temperature sensor
 Engine coolant temperature
 
-### Refrigerant pressure sensor
 
 ### Revision: 2013 November
 
@@ -482953,7 +481170,6 @@ Accelerator pedal position sensor
 Accelerator pedal position
 Air fuel ratio (A/F) sensor 1
 
-### Density of oxygen in exhaust gas
 
 ### 2014 Q70
 
@@ -482981,7 +481197,6 @@ INFOID:0000000010096155
 > • Fuel refilled.
 > • DTC erased by using CONSULT.
 
-### Unit/Sensor
 
 ### Unit
 
@@ -483018,7 +481233,6 @@ O
 > INTAKE VALVE TIMING CONTROL
 > INTAKE VALVE TIMING CONTROL : System Diagram
 
-### INFOID:0000000010096156
 
 ### VVEL SYSTEM
 
@@ -483049,7 +481263,6 @@ EC-68
 < SYSTEM DESCRIPTION >
 [VQ37VHR FOR USA AND CANADA]
 
-### SYSTEM
 
 ### JSBIA0370GB
 
@@ -483124,7 +481337,6 @@ N
 P
 O
 
-### Infiniti Drive Mode Selector
 
 ### Infiniti drive mode selector
 
@@ -483133,7 +481345,6 @@ O
 - SPORT: ON/OFF
 - ECO: ON/OFF
 
-### - SNOW: ON/OFF
 
 ### ECO pedal control
 
@@ -483258,7 +481469,6 @@ OPERATION
 AUTMATIC SPEED CONTROL DEVICE (ASCD)
 AUTMATIC SPEED CONTROL DEVICE (ASCD) : Switch Name and Function
 
-### INFOID:0000000010096161
 
 ### ACCELERATE switch.
 
@@ -483426,9 +481636,6 @@ control unit equipped in the vehicle and then enable various kinds of diagnostic
 > DIAGNOSIS SYSTEM (ECM)
 > DIAGNOSIS SYSTEM (ECM)
 
-### DIAGNOSIS DESCRIPTION
-
-### DIAGNOSIS DESCRIPTION : DTC and Freeze Frame Data
 
 ### FREEZE FRAME DATA AND 1ST TRIP FREEZE FRAME DATA
 
@@ -483494,9 +481701,6 @@ Except above
 Revision: 2013 November
 2014 Q70
 
-### DIAGNOSIS SYSTEM (ECM)
-
-### ECM memory.
 
 ### SULT will count the number of times the vehicle is driven.
 
@@ -483512,7 +481716,6 @@ For details about patterns A and B under Other, see “EXPLANATION FOR DRIVING P
 • *2: Clear timing is when the same malfunction is detected in the 2nd trip.
 Relationship Between MIL, DTC, 1st Trip DTC and Driving Patterns for “Misfire <Exhaust Quality Deterioration>”, “Fuel Injection System”
 
-### Priority
 
 ### Misfire
 
@@ -483598,7 +481801,6 @@ O
 Driving Pattern C
 Refer to EC-80, "DIAGNOSIS DESCRIPTION : Driving Pattern".
 
-### Example:
 
 ### 70°C (158°F)
 
@@ -483741,7 +481943,6 @@ Driving pattern D means a trip satisfying the following conditions.
 > important to check SRT (“CMPLT”), DTC (No DTCs) and permanent DTC (NO permanent DTCs) before the
 > inspection.
 
-### SRT SET TIMING
 
 ### Revision: 2013 November
 
@@ -483765,7 +481966,6 @@ should be erased, referring to this manual.
 > • The important items in state emission inspection are that MIL is not ON, SRT test items are set, and permanent DTCs are not included.
 > • Permanent DTCs do not apply for regions that permanent DTCs are not regulated by law.
 
-### Self-diagnosis result
 
 ### “CMPLT”
 
@@ -483845,9 +482045,6 @@ PERMANENT DTC SET TIMING
 The setting timing of permanent DTC is stored in ECM with the lighting of MIL when a DTC is confirmed.
 DIAGNOSIS DESCRIPTION : Malfunction Indicator Lamp (MIL)
 
-### INFOID:0000000010096171
-
-### On Board Diagnosis Function
 
 ### Operation Procedure
 
@@ -483911,9 +482108,6 @@ Description
 In this function ECM turns on or blinks MIL when it detects a malfunction in the emission control system components and/or the powertrain control components (which affect vehicle emissions) to inform the driver that a
 malfunction has been detected.
 
-### Operation Procedure
-
-### SELF-DIAGNOSTIC RESULTS MODE
 
 ### MIL starts blinking.
 
@@ -483951,7 +482145,6 @@ O
 NOTE:
 Wait until the same DTC (or 1st trip DTC) appears to completely confirm all DTCs.
 
-### How to Read Self-diagnostic Results
 
 ### PBIB0092E
 
@@ -484014,11 +482207,6 @@ well.
 > above is erased. (The amount of time required for erasing may vary from a few seconds to several hours.)
 > 1.
 
-### Turn ignition switch OFF and wait at least 10 seconds.
-
-### CONSULT Function
-
-### SELF DIAGNOSTIC RESULTS MODE
 
 ### How to Erase DTC and 1st Trip DTC
 
@@ -484029,9 +482217,6 @@ Self-diagnostic results such as 1st trip DTC, DTCs and 1st trip freeze frame dat
 can be read and erased quickly.*
 Data Monitor
 
-### Input/Output data in the ECM can be read.
-
-### ECU Identification
 
 ### < SYSTEM DESCRIPTION >
 
@@ -484085,7 +482270,6 @@ DIAG TROUBLE CODE [PXXXX]
 CAL/LD VALUE [%]
 • The calculated load value at the moment a malfunction is detected is displayed.
 
-### COOLANT TEMP [°C] or [°F]
 
 ### L-FUEL TRM-B2 [%]
 
@@ -484580,7 +482764,6 @@ YET/DONE
 • Display the condition of VVEL learning
 YET: VVEL learning has not been performed yet.
 
-### DONE: VVEL learning has already been per-
 
 ### A/F ADJ-B2
 
@@ -484691,13 +482874,6 @@ INCMP: Self-diagnosis is incomplete.
 CMPLT: Self-diagnosis is complete.
 A/F SEN1 DIAG3
 
-### (B1)
-
-### A/F SEN1 DIAG3
-
-### A/F-S ATMSPHRC
-
-### A/F-S ATMSPHRC
 
 ### A/F-S ATMSPHRC
 
@@ -485031,7 +483207,6 @@ P
 O
 SRT & P-DTC MODE
 
-### SRT STATUS Mode
 
 ### PERMANENT DTC STATUS Mode
 
@@ -485074,9 +483249,6 @@ Select “PERMANENT DTC STATUS” in “DTC & SRT CONFIRMATION” mode with CONS
 > ECU DIAGNOSIS INFORMATION
 > ECM
 
-### Reference Value
-
-### CONSULT MONITOR ITEM
 
 ### MAS A/F SE-B2
 
@@ -485147,7 +483319,6 @@ BATTERY VOLT
 • Ignition switch: ON (Engine stopped)
 11 - 14 V
 
-### ACCEL SEN 1
 
 ### [VQ37VHR FOR USA AND CANADA]
 
@@ -485268,7 +483439,6 @@ OFF
 BRAKE SW
 • Ignition switch: ON
 
-### Brake pedal: Fully released
 
 ### Idle
 
@@ -485406,9 +483576,6 @@ VENT CONT/V
 • Ignition switch: ON
 OFF
 
-### THRTL RELAY
-
-### HO2S2 HTR (B2)
 
 ### I/P PULLY SPD
 
@@ -485526,7 +483693,6 @@ ON
 SET/COAST switch: Released
 OFF
 
-### BRAKE SW1
 
 ### DIST SW
 
@@ -485609,7 +483775,6 @@ VVEL TIM-B1
 Idle
 Approx. 0 - 20 deg
 
-### When revving engine up to 2,000 rpm
 
 ### VVEL LEARN
 
@@ -485791,7 +483956,6 @@ number of updates.
 A/F-S ATMSPHRC
 CRCT UP B2
 
-### Engine: Running
 
 ### Monitor Item
 
@@ -485854,7 +484018,6 @@ Throttle control motor
 128
 (B)
 
-### Throttle control motor
 
 ### 0 - 14 V
 
@@ -485974,7 +484137,6 @@ Output
 • Warm-up condition
 • Idle speed
 
-### BATTERY VOLTAGE
 
 ### JMBIA0037GB
 
@@ -487321,7 +485483,6 @@ Engine speed will not rise
 more than 2,500 rpm due
 to the fuel cut
 
-### Malfunction indicator
 
 ### EC-538
 
@@ -487356,11 +485517,6 @@ Engine coolant temperature will be determined by ECM based on the following cond
 CONSULT displays the engine coolant temperature decided by ECM.
 Condition
 
-### Engine coolant temperature decided
-
-### P0122
-
-### Therefore, the acceleration will be poor.
 
 ### Revision: 2013 November
 
@@ -487397,9 +485553,6 @@ P1092
 VVEL control shaft position
 sensor
 
-### VVEL value is maintained at a fixed angle.
-
-### P1090
 
 ### P1091
 
@@ -487433,7 +485586,6 @@ While the vehicle is being driven, it slows down gradually because of fuel cut. 
 The engine can restart in N or P position, and engine speed will not exceed 1,000 rpm or
 more.
 
-### P1290
 
 ### P1805
 
@@ -487445,7 +485597,6 @@ Vehicle condition
 Driving condition
 When engine is idling
 
-### Normal
 
 ### Therefore, the acceleration will be poor.
 
@@ -489173,7 +487324,6 @@ O
 *7: SRT code will not be set if the self-diagnostic result is NG.
 *8: When the ECM is in the mode that displays SRT status, MIL may blink. For the details, refer to “How to Display SRT Status”.
 
-### Test Value and Test Limit
 
 ### Scaling ID and can be displayed on the GST screen.
 
@@ -489571,7 +487721,6 @@ P0138
 Minimum sensor output voltage for test
 cycle
 
-### P0137
 
 ### P0143
 
@@ -489825,7 +487974,6 @@ P2424
 84H
 84H
 
-### O2 storage index in HC trap catalyst
 
 ### P0400
 
@@ -490043,7 +488191,6 @@ O2 SENSOR
 HEATER
 41H
 
-### A/F sensor 1 heater (Bank 1)
 
 ### Heated oxygen sensor 3 heat-
 
@@ -490372,7 +488519,6 @@ cycles
 A5H
 No. 4 cylinder misfire
 
-### P0304
 
 ### Average) misfire counts for last 10 driv-
 
@@ -490393,7 +488539,6 @@ P0306
 0CH
 24H
 
-### Misfire counts for last/current driving
 
 ### P0308
 
@@ -490479,7 +488624,6 @@ BATTERY VOLTAGE
 (L/B)
 14
 
-### (B/R)
 
 ### VVEL control shaft posi-
 
@@ -491313,7 +489457,6 @@ Study the relationship between the cause detected by DTC and the symptom describ
 3.
 Check related service bulletins for information.
 
-### Are any symptoms described and any DTCs detected?
 
 ### Diagnosis Work Sheet is useful to verify the incident.
 
@@ -491335,7 +489478,6 @@ Also study the normal operation and fail-safe related to the symptom. Refer to E
 > < BASIC INSPECTION >
 > [VQ37VHR FOR USA AND CANADA]
 
-### DIAGNOSIS AND REPAIR WORKFLOW
 
 ### MATION PROCEDURE.
 
@@ -491592,7 +489734,6 @@ Check if the data is successfully copied from the ECM at Step 1 (before replacem
 Is the data saved successfully?
 YES
 
-### >> GO TO 8.
 
 ### >> GO TO 10.
 
@@ -491700,9 +489841,6 @@ N
 P
 O
 
-### ACCELERATOR PEDAL RELEASED POSITION LEARNING
-
-### Work Procedure
 
 ### Turn ignition switch ON and wait at least 2 seconds.
 
@@ -491717,9 +489855,6 @@ EC-168
 THROTTLE VALVE CLOSED POSITION LEARNING
 THROTTLE VALVE CLOSED POSITION LEARNING
 
-### Description
-
-### Work Procedure
 
 ### Without CONSULT
 
@@ -491767,7 +489902,6 @@ the specific range. It must be performed under the following conditions:
 • Each time VVEL actuator sub assembly or VVEL control module is replaced.
 • Idle speed or ignition timing is out of specification.
 
-### Work Procedure
 
 ### Do you have CONSULT?
 
@@ -491850,9 +489984,6 @@ specifications. Refer to EC-559, "Idle Speed" and EC-559, "Ignition Timing".
 Is the inspection result normal?
 YES
 
-### >> INSPECTION END
-
-### Is the inspection result normal?
 
 ### >> INSPECTION END
 
@@ -491888,7 +490019,6 @@ VVEL CONTROL SHAFT POSITION SENSOR ADJUSTMENT
 > • It must not be performed except when VVEL actuator sub assembly is replaced. If by any chance the
 > adjustment is performed, replace VVEL actuator sub assembly.
 
-### Work Procedure
 
 ### Touch “Start” and wait a few seconds.
 
@@ -492211,7 +490341,6 @@ Check the Following.
 • Check camshaft position sensor (PHASE) and circuit. Refer to EC-332, "Component Inspection".
 • Check crankshaft position sensor (POS) and circuit. Refer to EC-327, "Component Inspection".
 
-### Is the inspection result normal?
 
 ### EC-163, "Work Procedure".
 
@@ -492253,9 +490382,6 @@ Perform EC-169, "Work Procedure".
 Is Idle Air Volume Learning carried out successfully?
 YES
 
-### >> GO TO 14.
-
-### For specification, refer to EC-559, "Idle Speed".
 
 ### For specification, refer to EC-559, "Ignition Timing".
 
@@ -492455,7 +490581,6 @@ OUTLINE
 In order to set all SRTs, the self-diagnoses as in the “SRT ITEM” table must have been performed at least
 once. Each diagnosis may require actual driving for a long period of time under various conditions.
 
-### SRT ITEM
 
 ### SRT item*1
 
@@ -492591,7 +490716,6 @@ NO-1
 NO-2
 >> Without CONSULT: GO TO 4.
 
-### 3.DTC CONFIRMATION PROCEDURE
 
 ### Check DTC.
 
@@ -492729,7 +490853,6 @@ INFOID:0000000010096204
 When a DTC is stored in ECM
 When a DTC is stored in ECM and MIL is ON, a permanent DTC is erased with MIL shutoff if the same malfunction is not detected after performing the driving pattern for MIL shutoff three times in a raw.
 
-### When a DTC is not stored in ECM
 
 ### Permanent DTC item
 
@@ -492807,7 +490930,6 @@ With CONSULT
 Turn ignition switch OFF and wait at least 10 seconds.
 2.
 
-### Turn ignition switch ON.
 
 ### Turn ignition switch ON.
 
@@ -492825,9 +490947,6 @@ NO
 3.PERFORM DTC CONFIRMATION PROCEDURE
 Perform “DTC CONFIRMATION PROCEDURE” for DTCs which are the same as permanent DTCs stored in
 
-### ECM. Refer to EC-116, "DTC Index".
-
-### Select “PERMANENT DTC STATUS” mode with CONSULT.
 
 ### Is any permanent DTC detected?
 
@@ -492881,7 +491000,6 @@ NO
 With CONSULT
 1.
 
-### Turn ignition switch OFF and wait at least 10 seconds.
 
 ### Turn ignition switch ON.
 
@@ -492907,7 +491025,6 @@ EC-190
 < BASIC INSPECTION >
 [VQ37VHR FOR USA AND CANADA]
 
-### HOW TO ERASE PERMANENT DTC
 
 ### With CONSULT
 
@@ -492926,13 +491043,6 @@ Pattern".
 >> GO TO 4.
 4.CHECK PERMANENT DTC
 
-### With CONSULT
-
-### With GST
-
-### Is any permanent DTC detected?
-
-### Pattern".
 
 ### Revision: 2013 November
 
@@ -492980,9 +491090,6 @@ NO
 Revision: 2013 November
 2014 Q70
 
-### EC-192
-
-### Component Function Check
 
 ### >> GO TO 2.
 
@@ -493124,9 +491231,6 @@ each indication is within the SP value.
 Is the measurement value within the SP value?
 YES
 
-### >> GO TO 5.
-
-### >> INSPECTION END
 
 ### NO-2
 
@@ -493472,7 +491576,6 @@ EC-200
 [VQ37VHR FOR USA AND CANADA]
 POWER SUPPLY AND GROUND CIRCUIT
 
-### POWER SUPPLY AND GROUND CIRCUIT
 
 ### >> GO TO 2.
 
@@ -493933,7 +492036,6 @@ YES
 >> EC-205, "Diagnosis Procedure".
 NO
 
-### >> INSPECTION END
 
 ### TCM and ECM
 
@@ -494314,7 +492416,6 @@ NOTE:
 DTC P0075, P0081. Refer to EC-221, "DTC Logic".
 • If DTC P0011 or P0021 is displayed with DTC P0524, first perform the trouble diagnosis for DTC
 
-### P0524. Refer to EC-392, "DTC Logic".
 
 ### Turn ignition switch ON.
 
@@ -494481,7 +492582,6 @@ O
 • Accumulation of debris on the signal plate of camshaft front end
 • Chipping signal plate of camshaft front end
 
-### Is the inspection result normal?
 
 ### >> GO TO 7.
 
@@ -494494,7 +492594,6 @@ NO
 >> Clean lubrication line.
 8.CHECK INTERMITTENT INCIDENT
 
-### Refer to GI-47, "Intermittent Incident".
 
 ### Is the inspection result normal?
 
@@ -494570,7 +492669,6 @@ P
 O
 P0031, P0032, P0051, P0052 A/F SENSOR 1 HEATER
 
-### DTC Logic
 
 ### Turn ignition switch OFF and wait at least 10 seconds.
 
@@ -494595,9 +492693,6 @@ YES
 NG
 >> INSPECTION END
 
-### Diagnosis Procedure
-
-### >> GO TO 2.
 
 ### DTC No.
 
@@ -494705,7 +492800,6 @@ YES
 >> GO TO 7.
 NO
 
-### >> GO TO 6.
 
 ### >> INSPECTION END
 
@@ -494785,7 +492879,6 @@ Turn ignition switch OFF.
 Disconnect A/F sensor 1 harness connector.
 3.
 
-### Check resistance between A/F sensor 1 terminals as follows.
 
 ### >> INSPECTION END
 
@@ -494879,11 +492972,6 @@ through the heated oxygen sensor 2 heater.)
 circuit is open or shorted.)
 • Heated oxygen sensor 2 heater
 
-### P0038
-
-### P0057
-
-### P0058
 
 ### Revision: 2013 November
 
@@ -494952,7 +493040,6 @@ Refer to EC-220, "Component Inspection".
 Is the inspection result normal?
 YES
 
-### >> GO TO 7.
 
 ### >> INSPECTION END
 
@@ -495017,7 +493104,6 @@ Disconnect heated oxygen sensor 2 harness connector.
 3.
 Check resistance between HO2S2 terminals as follows.
 
-### Is the inspection result normal?
 
 ### >> INSPECTION END
 
@@ -495160,7 +493246,6 @@ Disconnect ECM harness connector.
 Check the continuity between intake valve timing control solenoid valve harness connector and ECM harness connector.
 4.
 
-### Also check harness for short to ground and short to power.
 
 ### Is the inspection result normal?
 
@@ -495173,7 +493258,6 @@ View".
 Refer to GI-47, "Intermittent Incident".
 >> INSPECTION END
 
-### Component Inspection
 
 ### Is the inspection result normal?
 
@@ -495406,7 +493490,6 @@ Check the continuity between mass air flow sensor harness connector and ECM harn
 4.
 Also check harness for short to ground and short to power.
 
-### Is the inspection result normal?
 
 ### Also check harness for short to ground and short to power.
 
@@ -495540,7 +493623,6 @@ Connect CONSULT and select “DATA MONITOR” mode.
 Select “MAS A/F SE-B1” and “MAS A/F SE-B2”, and check the indication.
 *: Check for linear voltage rise in response to engine being increased to about 4,000 rpm.
 
-### Without CONSULT
 
 ### Monitor item
 
@@ -495555,9 +493637,6 @@ Idle (Engine is warmed-up to normal operating temperature.)
 2,500 rpm (Engine is warmed-up to normal operating temperature.)
 1.3 - 1.7
 
-### Idle to about 4,000 rpm
-
-### Is the inspection result normal?
 
 ### Crushed air ducts
 
@@ -495574,7 +493653,6 @@ YES
 >> GO TO 4.
 NO
 
-### >> GO TO 3.
 
 ### Without CONSULT
 
@@ -495648,11 +493726,6 @@ EC-228
 P0101, P010B MAF SENSOR
 *: Check for linear voltage rise in response to engine being increased to about 4,000 rpm.
 
-### Is the inspection result normal?
-
-### Connect CONSULT and select “DATA MONITOR” mode.
-
-### Idle to about 4,000 rpm
 
 ### Is the inspection result normal?
 
@@ -495675,7 +493748,6 @@ signal]
 68
 Ignition switch ON (Engine stopped.)
 
-### Approx. 0.4
 
 ### Ignition switch ON (Engine stopped.)
 
@@ -495700,9 +493772,6 @@ DTC Logic
 INFOID:0000000010096239
 DTC DETECTION LOGIC
 
-### DTC CONFIRMATION PROCEDURE
-
-### Turn ignition switch ON.
 
 ### Check DTC.
 
@@ -495942,9 +494011,6 @@ NO
 >> Replace malfunctioning mass air flow sensor. Refer to EM-29, "Exploded View".
 9.CHECK INTERMITTENT INCIDENT
 
-### Refer to GI-47, "Intermittent Incident".
-
-### Connect CONSULT and select “DATA MONITOR” mode.
 
 ### Reconnect all harness connectors disconnected.
 
@@ -496029,7 +494095,6 @@ NO
 >> GO TO 3.
 3.CHECK MASS AIR FLOW SENSOR-II
 
-### With CONSULT
 
 ### Idle to about 4,000 rpm
 
@@ -496089,7 +494154,6 @@ F102
 signal]
 68
 
-### Ignition switch ON (Engine stopped.)
 
 ### Revision: 2013 November
 
@@ -496127,11 +494191,6 @@ NO
 If DTC CONFIRMATION PROCEDURE has been previously conducted, always perform the following procedure before conducting the next test.
 1.
 
-### Turn ignition switch OFF and wait at least 10 seconds.
-
-### >> GO TO 4.
-
-### Turn ignition switch OFF and soak the vehicle for 12 hours.
 
 ### Check 1st trip DTC.
 
@@ -496239,7 +494298,6 @@ Disconnect mass air flow sensor (bank 1) harness connector.
 3.
 Check resistance between mass air flow sensor (bank 1) terminals as follows.
 
-### Is the inspection result normal?
 
 ### Terminals
 
@@ -496257,9 +494315,6 @@ EC-238
 P0112, P0113 IAT SENSOR
 P0112, P0113 IAT SENSOR
 
-### DTC Logic
-
-### Turn ignition switch OFF and wait at least 10 seconds.
 
 ### Is 1st trip DTC detected?
 
@@ -496381,7 +494436,6 @@ NO
 Refer to GI-47, "Intermittent Incident".
 >> INSPECTION END
 
-### Component Inspection
 
 ### Is the inspection result normal?
 
@@ -496447,7 +494501,6 @@ Perform component function check. Refer to EC-241, "Component Function Check".
 > NO
 > >> Proceed to EC-241, "Diagnosis Procedure".
 
-### 3.PRECONDITIONING
 
 ### Turn ignition switch OFF and wait at least 10 seconds.
 
@@ -496652,7 +494705,6 @@ If DTC Confirmation Procedure has been previously conducted, always perform the 
 before conducting the next test.
 1.
 
-### Turn ignition switch OFF and wait at least 10 seconds.
 
 ### Is DTC detected?
 
@@ -496754,7 +494806,6 @@ Refer to EC-244, "Component Inspection".
 Is the inspection result normal?
 YES
 
-### >> GO TO 6.
 
 ### 1.CHECK ENGINE COOLANT TEMPERATURE SENSOR
 
@@ -496932,7 +494983,6 @@ Check the continuity between electric throttle control actuator harness connecto
 4.
 Also check harness for short to ground and short to power.
 
-### Is the inspection result normal?
 
 ### Also check harness for short to ground and short to power.
 
@@ -497047,7 +495097,6 @@ N
 P
 O
 
-### Component Inspection
 
 ### Set selector lever to D position.
 
@@ -497262,7 +495311,6 @@ NO
 CO-27, "Exploded View".
 Terminals
 
-### Condition
 
 ### P0127 IAT SENSOR
 
@@ -497397,7 +495445,6 @@ Disconnect mass air flow sensor (bank 1) harness connector.
 3.
 Check resistance between mass air flow sensor (bank 1) terminals as follows.
 
-### Is the inspection result normal?
 
 ### Revision: 2013 November
 
@@ -497686,9 +495733,6 @@ Is 1st trip DTC detected?
 YES
 >> Go to EC-257, "Diagnosis Procedure".
 
-### NO-1
-
-### Check “A/F SEN1 (B1)” or “A/F SEN1 (B2)” indication.
 
 ### SEN1” in “DTC WORK SUPPORT” mode with CONSULT.
 
@@ -497841,7 +495885,6 @@ Check ground connection M95. Refer to Ground Inspection in GI-50, "Circuit Inspe
 Is the inspection result normal?
 YES
 
-### >> GO TO 2.
 
 ### Is the inspection result normal?
 
@@ -497857,9 +495900,6 @@ Check the following.
 • Harness for open or short between A/F sensor 1 and fuse
 >> Repair or replace harness or connectors.
 
-### 4.CHECK A/F SENSOR 1 INPUT SIGNAL CIRCUIT FOR OPEN AND SHORT
-
-### A/F sensor 1
 
 ### Revision: 2013 November
 
@@ -498023,7 +496063,6 @@ approx. 0 V.
 shorted.)
 • A/F sensor 1
 
-### P0151
 
 ### 2014 Q70
 
@@ -498039,9 +496078,6 @@ Turn ignition switch OFF.
 2.
 Check ground connection M95. Refer to Ground Inspection in GI-50, "Circuit Inspection".
 
-### Is the inspection result normal?
-
-### A/F sensor 1
 
 ### A/F sensor 1
 
@@ -498096,7 +496132,6 @@ NO
 5.CHECK INTERMITTENT INCIDENT
 Perform GI-47, "Intermittent Incident".
 
-### Is the inspection result normal?
 
 ### >> INSPECTION END
 
@@ -498311,7 +496346,6 @@ between rich and lean than the air fuel ratio (A/F) sensor 1. The oxygen storage
 switching time. To judge malfunctions of heated oxygen sensor 2,
 ECM monitors whether the maximum voltage of the sensor is sufficiently high during various driving conditions such as fuel-cut.
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Turn ignition switch OFF and wait at least 10 seconds.
 
@@ -498323,7 +496357,6 @@ TESTING CONDITION:
 For better results, perform “DTC WORK SUPPORT” at a temperature of 0 to 30°C (32 to 86°F).
 >> GO TO 3.
 
-### 3.PERFORM DTC CONFIRMATION PROCEDURE
 
 ### Turn ignition switch ON.
 
@@ -498402,9 +496435,6 @@ Perform component function check. Refer to EC-266, "Component Function Check".
 > NO
 > >> Go to EC-267, "Diagnosis Procedure".
 
-### Component Function Check
-
-### Let engine idle for 1 minute.
 
 ### Is the inspection result normal?
 
@@ -498521,7 +496551,6 @@ Disconnect ECM harness connector.
 Check the continuity between HO2S2 harness connector and ECM harness connector.
 5.
 
-### Also check harness for short to ground and short to power.
 
 ### Condition
 
@@ -498599,7 +496628,6 @@ YES
 NO
 >> Repair open circuit, short to ground or short to power in harness or connectors.
 
-### 5.CHECK HEATED OXYGEN SENSOR 2
 
 ### >> INSPECTION END
 
@@ -498696,9 +496724,6 @@ Check “HO2S2 (B1)/(B2)” at idle speed when adjusting “FUEL INJECTION” to
 “HO2S2 (B1)/(B2)” should be above 0.70 V at least once when the “FUEL INJECTION” is +25%.
 “HO2S2 (B1)/(B2)” should be below 0.18 V at least once when the “FUEL INJECTION” is −25%.
 
-### Is the inspection result normal?
-
-### Let engine idle for 1 minute.
 
 ### Is the inspection result normal?
 
@@ -498716,7 +496741,6 @@ Connector
 +
 –
 
-### Terminal
 
 ### [HO2S2
 
@@ -498753,7 +496777,6 @@ P0137, P0157 HO2S2
 Is the inspection result normal?
 YES
 
-### >> INSPECTION END
 
 ### The voltage should be below 0.18 V at
 
@@ -498866,9 +496889,6 @@ Start engine and warm it up to the normal operating temperature.
 Turn ignition switch OFF and wait at least 10 seconds.
 3.
 
-### Turn ignition switch ON.
-
-### Check 1st trip DTC.
 
 ### Select “DATA MONITOR” mode with CONSULT.
 
@@ -498884,7 +496904,6 @@ Turn ignition switch OFF and wait at least 10 seconds.
 Start engine and keep the engine speed between 3,500 and 4,000 rpm for at least 1 minute under no load.
 7.
 
-### Let engine idle for 1 minute.
 
 ### 11. Start engine and follow the instruction of CONSULT display.
 
@@ -499033,7 +497052,6 @@ ECM
 Condition
 Voltage
 
-### Connector
 
 ### < DTC/CIRCUIT DIAGNOSIS >
 
@@ -499290,7 +497308,6 @@ NO
 13.CHECK HEATED OXYGEN SENSOR 2
 Refer to EC-272, "Component Function Check".
 
-### Is the inspection result normal?
 
 ### >> INSPECTION END
 
@@ -499458,7 +497475,6 @@ NO
 >> GO TO 6.
 6.REPLACE HEATED OXYGEN SENSOR 2
 
-### Replace malfunctioning heated oxygen sensor 2.
 
 ### >> INSPECTION END
 
@@ -499482,7 +497498,6 @@ The voltage should be below 0.18 V at least
 once during this procedure.
 80
 
-### [HO2S2
 
 ### The voltage should be below 0.18 V at least
 
@@ -499514,7 +497529,6 @@ P
 O
 P0139, P0159 HO2S2
 
-### DTC Logic
 
 ### DTC CONFIRMATION PROCEDURE
 
@@ -499929,7 +497943,6 @@ YES
 >> GO TO 2.
 NO
 
-### Let engine idle for 1 minute.
 
 ### Let engine idle for 1 minute.
 
@@ -499943,11 +497956,6 @@ EC-284
 [VQ37VHR FOR USA AND CANADA]
 P0139, P0159 HO2S2
 
-### Is the inspection result normal?
-
-### Replace malfunctioning heated oxygen sensor 2.
-
-### Condition
 
 ### The voltage should be below 0.18 V at least
 
@@ -500012,7 +498020,6 @@ P014C, P014D, P014E, P014F, P015A, P015B, P015C, P015D A/F SENSOR 1
 P014C, P014D, P014E, P014F, P015A, P015B, P015C, P015D A/F SENSOR
 1
 
-### DTC Logic
 
 ### Turn ignition switch ON.
 
@@ -500200,7 +498207,6 @@ EC-288
 < DTC/CIRCUIT DIAGNOSIS >
 [VQ37VHR FOR USA AND CANADA]
 
-### P014C, P014D, P014E, P014F, P015A, P015B, P015C, P015D A/F SENSOR 1
 
 ### 8.PERFORM DTC CONFIRMATION PROCEDURE
 
@@ -500536,7 +498542,6 @@ P0171, P0174 FUEL INJECTION SYSTEM FUNCTION
 DTC Logic
 INFOID:0000000010096290
 
-### DTC DETECTION LOGIC
 
 ### Turn ignition switch ON.
 
@@ -500574,7 +498579,6 @@ Keep engine idle for at least 5 minutes.
 2.
 Check 1st trip DTC.
 
-### Is 1st trip DTC detected?
 
 ### Possible cause
 
@@ -500906,7 +498910,6 @@ EC-296
 [VQ37VHR FOR USA AND CANADA]
 P0172, P0175 FUEL INJECTION SYSTEM FUNCTION
 
-### P0172, P0175 FUEL INJECTION SYSTEM FUNCTION
 
 ### Do not depress accelerator pedal too much.
 
@@ -501023,7 +499026,6 @@ YES
 NO
 >> GO TO 3.
 
-### 3.CHECK A/F SENSOR 1 INPUT SIGNAL CIRCUIT
 
 ### VHCL SPEED SE
 
@@ -501186,7 +499188,6 @@ Listen to each fuel injector operating sound.
 Is the inspection result normal?
 YES
 
-### >> GO TO 7.
 
 ### Disconnect all fuel injector harness connectors.
 
@@ -501347,9 +499348,6 @@ Perform component function check. Refer to EC-301, "Component Function Check".
 > NO
 > >> Proceed to EC-302, "Diagnosis Procedure".
 
-### 7.PRECONDITIONING
-
-### >> GO TO 8.
 
 ### Check 1st trip DTC.
 
@@ -501446,7 +499444,6 @@ Check the following.
 • Harness for open or short between ECM and “fuel level sensor unit and fuel pump”
 >> Repair open circuit, short to ground or short to power in harness or connector.
 
-### 5.CHECK FUEL TANK TEMPERATURE SENSOR GROUND CIRCUIT FOR OPEN AND SHORT
 
 ### Also check harness for short to ground and short to power.
 
@@ -501508,7 +499505,6 @@ Check the following.
 • Harness for open or short between “fuel level sensor unit and fuel pump” and combination meter
 >> Repair open circuit, short to ground or short to power in harness or connector.
 
-### 7.CHECK FUEL TANK TEMPERATURE SENSOR
 
 ### Refer to GI-47, "Intermittent Incident".
 
@@ -501557,9 +499553,6 @@ INFOID:0000000010096298
 DTC DETECTION LOGIC
 DTC CONFIRMATION PROCEDURE
 
-### Turn ignition switch OFF and wait at least 10 seconds.
-
-### >> INSPECTION END
 
 ### >> GO TO 2.
 
@@ -501648,7 +499641,6 @@ Check the following.
 • Harness for open or short between ECM and “fuel level sensor unit and fuel pump”
 >> Repair open circuit, short to ground or short to power in harness or connector.
 
-### 5.CHECK FUEL TANK TEMPERATURE SENSOR GROUND CIRCUIT FOR OPEN AND SHORT
 
 ### Also check harness for short to ground and short to power.
 
@@ -501663,7 +499655,6 @@ Check the following.
 • Harness for open or short between “fuel level sensor unit and fuel pump” and “combination meter”
 >> Repair open circuit, short to ground or short to power in harness or connector.
 
-### 7.CHECK FUEL TANK TEMPERATURE SENSOR
 
 ### Refer to GI-47, "Intermittent Incident".
 
@@ -501738,7 +499729,6 @@ DTC DETECTION LOGIC
 > Is it necessary to erase permanent DTC?
 > YES
 
-### >> GO TO 6.
 
 ### Turn ignition switch ON.
 
@@ -501868,11 +499858,6 @@ NO
 If DTC CONFIRMATION PROCEDURE has been previously conducted, always perform the following procedure before conducting the next test.
 1.
 
-### Turn ignition switch OFF and wait at least 10 seconds.
-
-### >> GO TO 7.
-
-### Turn ignition switch OFF and soak the vehicle for 12 hours.
 
 ### COOLAN TEMP/S
 
@@ -501978,7 +499963,6 @@ Disconnect engine oil temperature sensor harness connector.
 3.
 Remove engine oil temperature sensor. Refer to EM-48, "Exploded View".
 
-### Terminals
 
 ### P0196 EOT SENSOR
 
@@ -502107,7 +500091,6 @@ is sent to ECM.
 (The sensor circuit is open or shorted.)
 • Engine oil temperature sensor
 
-### P0198
 
 ### 2014 Q70
 
@@ -502304,7 +500287,6 @@ NO
 Check the continuity between electric throttle control actuator harness connector and ECM harness connector.
 2.
 
-### Also check harness for short to ground and short to power.
 
 ### Is the inspection result normal?
 
@@ -502409,7 +500391,6 @@ N
 P
 O
 
-### Component Inspection
 
 ### Replace malfunctioning electric throttle control actuator.
 
@@ -502455,7 +500436,6 @@ EC-316
 P0300, P0301, P0302, P0303, P0304, P0305, P0306 MISFIRE
 P0300, P0301, P0302, P0303, P0304, P0305, P0306 MISFIRE
 
-### DTC Logic
 
 ### One Trip Detection Logic (Three Way Catalyst Damage)
 
@@ -502668,7 +500648,6 @@ P0300, P0301, P0302, P0303, P0304, P0305, P0306 MISFIRE
 3.
 Make sure that each circuit produces a momentary engine speed drop.
 
-### Is the inspection result normal?
 
 ### EC-526, "Diagnosis Procedure".
 
@@ -502846,7 +500825,6 @@ YES
 NO
 >> Follow the EC-174, "Work Procedure".
 
-### 13.CHECK A/F SENSOR 1 INPUT SIGNAL CIRCUIT
 
 ### Also check harness for short to power.
 
@@ -503017,7 +500995,6 @@ YES
 NO
 >> INSPECTION END
 
-### Diagnosis Procedure
 
 ### >> GO TO 2.
 
@@ -503545,7 +501522,6 @@ EC-328
 P0335 CKP SENSOR (POS)
 4.
 
-### Remove the sensor. Refer to EM-130, "Exploded View".
 
 ### Is the inspection result normal?
 
@@ -503588,7 +501564,6 @@ P0340, P0345 CMP SENSOR (PHASE)
 DTC Logic
 INFOID:0000000010096320
 
-### DTC DETECTION LOGIC
 
 ### Turn ignition switch OFF and wait at least 10 seconds.
 
@@ -503599,7 +501574,6 @@ Turn ignition switch OFF and wait at least 10 seconds.
 TESTING CONDITION:
 Before performing the following procedure, confirm that battery voltage is more than 10.5 V with ignition switch ON.
 
-### >> GO TO 2.
 
 ### >> GO TO 3.
 
@@ -503613,7 +501587,6 @@ Trouble diagnosis name
 DTC detecting condition
 Possible cause
 
-### P0340
 
 ### P0345
 
@@ -503830,7 +501803,6 @@ Disconnect ECM harness connector.
 Check the continuity between CMP sensor (PHASE) harness connector and ECM harness connector.
 4.
 
-### Also check harness for short to ground and short to power.
 
 ### M107
 
@@ -504010,7 +501982,6 @@ EC-334
 [VQ37VHR FOR USA AND CANADA]
 P0420, P0430 THREE WAY CATALYST FUNCTION
 
-### P0420, P0430 THREE WAY CATALYST FUNCTION
 
 ### Turn ignition switch OFF and wait at least 10 seconds.
 
@@ -504023,7 +501994,6 @@ Do not hold engine speed for more than the specified minutes below.
 >> GO TO 3.
 3.PERFORM DTC CONFIRMATION PROCEDURE-I
 
-### With CONSULT
 
 ### Turn ignition switch ON.
 
@@ -504128,7 +502098,6 @@ NO
 7.PERFORM COMPONENT FUNCTION CHECK
 Perform component function check. Refer to EC-335, "Component Function Check".
 
-### Component Function Check
 
 ### Let engine idle for 1 minute.
 
@@ -504268,7 +502237,6 @@ Remove fuel pump fuse (1) in IPDM E/R (2) to release fuel pressure.
 > 7.CHECK FUNCTION OF IGNITION COIL-II
 > 1.
 
-### Turn ignition switch OFF.
 
 ### [VQ37VHR FOR USA AND CANADA]
 
@@ -504279,7 +502247,6 @@ Disconnect spark plug and connect a non-malfunctioning spark plug.
 Crank engine for about 3 seconds, and recheck whether spark is generated between the spark plug and
 the grounded metal portion.
 
-### Is the inspection result normal?
 
 ### 9.CHECK FUNCTION OF IGNITION COIL-III
 
@@ -504369,7 +502336,6 @@ canister purge volume control solenoid valve is open to admit purge flow. Purge 
 Under normal conditions (non-closed throttle), sensor output voltage indicates if pressure drop and purge flow
 are adequate. If not, a malfunction is determined.
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Turn ignition switch OFF and wait at least 10 seconds.
 
@@ -504383,7 +502349,6 @@ PBIB1026E
 DTC No.
 Trouble diagnosis name
 
-### DTC detecting condition
 
 ### Revision: 2013 November
 
@@ -504526,7 +502491,6 @@ Turn ignition switch OFF.
 Check EVAP canister for cracks.
 Is the inspection result normal?
 
-### YES-1 >> With CONSULT: GO TO 2.
 
 ### Start engine and let it idle.
 
@@ -504623,7 +502587,6 @@ EVAP canister purge volume control solenoid valve B.
 Blow air into each hose and EVAP purge port C.
 3.
 
-### Check that air flows freely.
 
 ### With CONSULT
 
@@ -504745,7 +502708,6 @@ EC-344
 P0443 EVAP CANISTER PURGE VOLUME CONTROL SOLENOID VALVE
 P0443 EVAP CANISTER PURGE VOLUME CONTROL SOLENOID VALVE
 
-### DTC Logic
 
 ### Turn ignition switch OFF and wait at least 10 seconds.
 
@@ -504888,7 +502850,6 @@ Check the following.
 • Harness for open or short between EVAP canister purge volume control solenoid valve and ECM
 >> Repair open circuit, short to ground or short to power in harness or connectors.
 
-### 3.CHECK EVAP CANISTER PURGE VOLUME CONTROL SOLENOID VALVE OUTPUT SIGNAL CIRCU
 
 ### Also check harness for short to ground and short to power.
 
@@ -505083,7 +503044,6 @@ Select “PURG VOL CONT/V” in “ACTIVE TEST” mode with CONSULT.
 6.
 Touch “Qd” and “Qu” on CONSULT screen to adjust “PURG
 
-### VOL C/V” opening and check air passage continuity of EVAP
 
 ### Check air passage continuity of EVAP canister purge volume
 
@@ -505125,7 +503085,6 @@ P0444, P0445 EVAP CANISTER PURGE VOLUME CONTROL SOLENOID
 VALVE
 P0444, P0445 EVAP CANISTER PURGE VOLUME CONTROL SOLENOID
 
-### VALVE
 
 ### Turn ignition switch OFF and wait at least 10 seconds.
 
@@ -505628,7 +503587,6 @@ Condition VENT CONT/V
 Air passage continuity between (A) and (B)
 ON
 
-### Not existed
 
 ### < DTC/CIRCUIT DIAGNOSIS >
 
@@ -505660,7 +503618,6 @@ Condition VENT CONT/V
 Air passage continuity between (A) and (B)
 ON
 
-### Not existed
 
 ### EC-355
 
@@ -505791,7 +503748,6 @@ NO
 Weigh the EVAP canister with the EVAP canister vent control valve and EVAP control system pressure sensor
 attached.
 
-### The weight should be less than 2.1 kg (4.6 lb).
 
 ### 6.CHECK EVAP CONTROL SYSTEM PRESSURE SENSOR CONNECTOR
 
@@ -505930,7 +503886,6 @@ P0448 EVAP CANISTER VENT CONTROL VALVE
 3.
 Check air passage continuity and operation delay time.
 
-### Make sure that new O-ring is installed properly.
 
 ### Make sure that new O-ring is installed properly.
 
@@ -506124,7 +504079,6 @@ YES
 >> Proceed to EC-360, "Diagnosis Procedure".
 NO
 
-### >> INSPECTION END
 
 ### >> GO TO 2.
 
@@ -506306,7 +504260,6 @@ following conditions.
 > Is the inspection result normal?
 > YES
 
-### >> INSPECTION END
 
 ### Not applied
 
@@ -506336,7 +504289,6 @@ N
 P
 O
 
-### P0452 EVAP CONTROL SYSTEM PRESSURE SENSOR
 
 ### Turn ignition switch OFF and wait at least 10 seconds.
 
@@ -506449,7 +504401,6 @@ Turn ignition switch OFF.
 2.
 Check ground connection M95. Refer to Ground Inspection in GI-50, "Circuit Inspection".
 
-### Is the inspection result normal?
 
 ### >> GO TO 3.
 
@@ -506569,7 +504520,6 @@ NO
 9.REPLACE ACCELERATOR PEDAL ASSEMBLY
 1.
 
-### Replace accelerator pedal assembly
 
 ### Also check harness for short to ground and short to power.
 
@@ -506831,9 +504781,6 @@ YES
 >> Go to EC-369, "Diagnosis Procedure".
 NO
 
-### >> INSPECTION END
-
-### >> GO TO 2.
 
 ### >> GO TO 3.
 
@@ -506910,9 +504857,6 @@ NO
 9.REPLACE ACCELERATOR PEDAL ASSEMBLY
 1.
 
-### Replace accelerator pedal assembly
-
-### Sensor
 
 ### Refrigerant pressure sensor
 
@@ -507229,7 +505173,6 @@ YES
 >> Go to EC-375, "Diagnosis Procedure".
 NO
 
-### >> INSPECTION END
 
 ### Turn ignition switch ON.
 
@@ -507261,7 +505204,6 @@ EC-376
 < DTC/CIRCUIT DIAGNOSIS >
 [VQ37VHR FOR USA AND CANADA]
 
-### P0456 EVAP CONTROL SYSTEM
 
 ### 3.CHECK FUEL FILLER CAP FUNCTION
 
@@ -507371,7 +505313,6 @@ Select “PURG VOL CONT/V” in “ACTIVE TEST” mode.
 Touch “Qu” on CONSULT screen to increase “PURG VOL C/V” opening to 100%.
 5.
 
-### Check vacuum hose for vacuum.
 
 ### Stop engine.
 
@@ -507529,7 +505470,6 @@ YES
 NO
 >> GO TO 2.
 
-### 2.REPLACE FUEL FILLER CAP
 
 ### Vacuum:
 
@@ -507815,7 +505755,6 @@ P0462, P0463 FUEL LEVEL SENSOR
 DTC Logic
 INFOID:0000000010096358
 
-### DTC DETECTION LOGIC
 
 ### Turn ignition switch ON.
 
@@ -507888,7 +505827,6 @@ NOTE:
 • If DTC P0500 is displayed with DTC P0607, first perform the trouble diagnosis for DTC P0607. Refer
 to EC-401, "DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Turn ignition switch OFF and wait at least 10 seconds.
 
@@ -507996,9 +505934,6 @@ Lift up drive wheels.
 Start engine.
 3.
 
-### Read vehicle speed signal in Service $01 with GST.
-
-### Diagnosis Procedure
 
 ### Refer to MWI-31, "CONSULT Function".
 
@@ -508017,7 +505952,6 @@ Revision: 2013 November
 2014 Q70
 EC-386
 
-### < DTC/CIRCUIT DIAGNOSIS >
 
 ### DTC Logic
 
@@ -508267,7 +506201,6 @@ If DTC Confirmation Procedure has been previously conducted, always perform the 
 before conducting the next test.
 1.
 
-### >> GO TO 2.
 
 ### With GST
 
@@ -508413,7 +506346,6 @@ NOTE:
 If DTC P0524 is displayed with DTC P0075 or P0081, first perform the trouble diagnosis for DTC P0075,
 P0081. Refer to EC-221, "DTC Logic"
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Turn ignition switch ON.
 
@@ -508588,7 +506520,6 @@ Refer to GI-47, "Intermittent Incident".
 >> INSPECTION END
 Component Inspection
 
-### INFOID:0000000010096375
 
 ### Is the inspection result normal?
 
@@ -508846,7 +506777,6 @@ Battery voltage is supplied to the ECM even when the ignition switch
 is turned OFF for the ECM memory function of the DTC memory, the
 air-fuel ratio feedback compensation value memory, the idle air volume learning value memory, etc.
 
-### DTC Logic
 
 ### Turn ignition switch OFF and wait at least 10 seconds.
 
@@ -508924,7 +506854,6 @@ YES
 >> GO TO 3.
 NO
 
-### >> GO TO 2.
 
 ### 3.CHECK INTERMITTENT INCIDENT
 
@@ -508999,7 +506928,6 @@ YES
 >> Go to EC-399, "Diagnosis Procedure".
 NO
 
-### >> GO TO 3.
 
 ### Is 1st trip DTC detected?
 
@@ -509045,7 +506973,6 @@ Trouble diagnosis name
 DTC detecting condition
 Possible cause
 
-### P0605
 
 ### < DTC/CIRCUIT DIAGNOSIS >
 
@@ -509370,9 +507297,6 @@ INFOID:0000000010096388
 When the selector lever position is P or N, park/neutral position (PNP) signal from the TCM is sent to ECM.
 ECM detects the position because the continuity of the line (the ON signal) exists.
 
-### DTC Logic
-
-### Turn ignition switch OFF and wait at least 10 seconds.
 
 ### Is the inspection result normal?
 
@@ -509422,7 +507346,6 @@ NO
 5.PERFORM COMPONENT FUNCTION CHECK
 Perform component function check. Refer to EC-406, "Component Function Check".
 
-### Component Function Check
 
 ### >> INSPECTION END
 
@@ -509866,7 +507789,6 @@ Go to EC-411, "Special Repair Requirement".
 >> INSPECTION END
 Special Repair Requirement
 
-### INFOID:0000000010096396
 
 ### 2014 Q70
 
@@ -510014,9 +507936,6 @@ NO
 >> GO TO 3.
 3.DETECT MALFUNCTIONING PART
 
-### Check the following.
-
-### 4.CHECK VVEL CONTROL SHAFT POSITION SENSOR GROUND CIRCUIT FOR OPEN AND SHORT
 
 ### Also check harness for short to ground and power.
 
@@ -510141,7 +508060,6 @@ YES
 NO
 >> GO TO 7.
 
-### 7.DETECT MALFUNCTIONING PART
 
 ### 8.CHECK INTERMITTENT INCIDENT
 
@@ -510442,7 +508360,6 @@ Replace VVEL actuator sub assembly.
 Go to EC-419, "Special Repair Requirement".
 >> INSPECTION END
 
-### Special Repair Requirement
 
 ### Revision: 2013 November
 
@@ -510783,7 +508700,6 @@ and electric unit (control unit)” to ECM.
 Be sure to erase the malfunction information such as DTC not only for “ABS actuator and electric unit
 (control unit)” but also for ECM after TCS related repair.
 
-### DTC Logic
 
 ### >> GO TO 2.
 
@@ -510798,7 +508714,6 @@ YES
 NO
 >> INSPECTION END
 
-### Diagnosis Procedure
 
 ### Revision: 2013 November
 
@@ -510963,7 +508878,6 @@ P1217 ENGINE OVER TEMPERATURE
 EC-427
 < DTC/CIRCUIT DIAGNOSIS >
 
-### [VQ37VHR FOR USA AND CANADA]
 
 ### >> GO TO 2.
 
@@ -511058,7 +508972,6 @@ YES
 NO
 >> Replace thermostat. Refer to CO-25, "Exploded View".
 
-### 6.CHECK ENGINE COOLANT TEMPERATURE SENSOR
 
 ### Engine
 
@@ -511229,7 +509142,6 @@ INFOID:0000000010096420
 1.CHECK ELECTRIC THROTTLE CONTROL ACTUATOR VISUALLY
 1.
 
-### Turn ignition switch OFF.
 
 ### 2.REPLACE ELECTRIC THROTTLE CONTROL ACTUATOR
 
@@ -511296,7 +509208,6 @@ EC-432
 [VQ37VHR FOR USA AND CANADA]
 P1226, P1235 TP SENSOR
 
-### P1226, P1235 TP SENSOR
 
 ### >> GO TO 2.
 
@@ -511508,7 +509419,6 @@ Disconnect IPDM E/R harness connector E7.
 Check the continuity between IPDM E/R harness connector and ECM harness connector.
 5.
 
-### Also check harness for short to ground and short to power.
 
 ### 5.CHECK THROTTLE CONTROL MOTOR RELAY INPUT SIGNAL CIRCUIT-II
 
@@ -511957,7 +509867,6 @@ Replace malfunctioning electric throttle control actuator.
 Go to EC-439, "Special Repair Requirement".
 >> INSPECTION END
 
-### Special Repair Requirement
 
 ### Connector
 
@@ -512111,7 +510020,6 @@ EC-442
 P1238, P2119 ELECTRIC THROTTLE CONTROL ACTUATOR
 2.
 
-### Remove the intake air duct.
 
 ### 2.REPLACE ELECTRIC THROTTLE CONTROL ACTUATOR
 
@@ -512255,7 +510163,6 @@ Check the continuity between electric throttle control actuator harness connecto
 4.
 Also check harness for short to ground and short to power.
 
-### Is the inspection result normal?
 
 ### Also check harness for short to ground and short to power.
 
@@ -512403,9 +510310,6 @@ P1290, P2100, P2103 THROTTLE CONTROL MOTOR RELAY
 P1290, P2100, P2103 THROTTLE CONTROL MOTOR RELAY
 DTC Logic
 
-### INFOID:0000000010096440
-
-### Turn ignition switch OFF and wait at least 10 seconds.
 
 ### P1290, P2100>>GO TO 2.
 
@@ -512435,7 +510339,6 @@ YES
 NO
 >> INSPECTION END
 
-### Diagnosis Procedure
 
 ### Also check harness for short to ground and short to power.
 
@@ -512524,7 +510427,6 @@ YES
 >> GO TO 5.
 NO
 
-### >> GO TO 4.
 
 ### 5.CHECK FUSE
 
@@ -512607,7 +510509,6 @@ Turn ignition switch OFF.
 2.
 Check ground connection M95. Refer to Ground Inspection in GI-50, "Circuit Inspection".
 
-### Is the inspection result normal?
 
 ### DTC No.
 
@@ -512681,7 +510582,6 @@ Disconnect ECM harness connector.
 3.
 Check the continuity between battery current sensor harness connector and ECM harness connector.
 
-### Is the inspection result normal?
 
 ### Is the inspection result normal?
 
@@ -512786,7 +510686,6 @@ Also check harness for short to ground and short to power.
 Is the inspection result normal?
 YES
 
-### >> GO TO 11.
 
 ### 11.CHECK BATTERY CURRENT SENSOR INPUT SIGNAL CIRCUIT FOR OPEN AND SHORT
 
@@ -512818,7 +510717,6 @@ NO
 14.CHECK INTERMITTENT INCIDENT
 Refer to GI-47, "Intermittent Incident".
 
-### Battery current sensor
 
 ### P1550 BATTERY CURRENT SENSOR
 
@@ -512849,7 +510747,6 @@ INFOID:0000000010096444
 Turn ignition switch OFF.
 2.
 
-### Reconnect harness connectors disconnected.
 
 ### Handle Battery".
 
@@ -512907,7 +510804,6 @@ NO
 Diagnosis Procedure
 INFOID:0000000010096446
 
-### 1.CHECK GROUND CONNECTION
 
 ### 2.CHECK BATTERY CURRENT SENSOR POWER SUPPLY CIRCUIT-I
 
@@ -513014,7 +510910,6 @@ ECM
 Sensor
 Connector
 
-### Terminal
 
 ### Refrigerant pressure sensor
 
@@ -513057,7 +510952,6 @@ Check the continuity between battery current sensor harness connector and ECM ha
 4.
 Also check harness for short to ground and short to power.
 
-### Is the inspection result normal?
 
 ### 13.CHECK BATTERY CURRENT SENSOR
 
@@ -513125,7 +511019,6 @@ INFOID:0000000010096447
 1.CHECK BATTERY CURRENT SENSOR
 1.
 
-### Turn ignition switch OFF.
 
 ### Approx. 2.5
 
@@ -513327,7 +511220,6 @@ TESTING CONDITION:
 • Before performing the following procedure, confirm that battery voltage is more than 12.8 V at idle.
 • Before performing the following procedure, confirm that all load switches and A/C switch are turned
 
-### OFF.
 
 ### Without CONSULT
 
@@ -513412,7 +511304,6 @@ Turn ignition switch OFF.
 2.
 Check ground connection M95. Refer to Ground Inspection in GI-50, "Circuit Inspection".
 
-### Is the inspection result normal?
 
 ### Battery current sensor
 
@@ -513709,7 +511600,6 @@ is shorted.]
 • EVAP control system pressure sensor
 • Refrigerant pressure sensor
 
-### P1557
 
 ### Terminal
 
@@ -513780,7 +511670,6 @@ NO
 >> GO TO 6.
 6.REPLACE ACCELERATOR PEDAL ASSEMBLY
 
-### Replace accelerator pedal assembly.
 
 ### Battery current sensor
 
@@ -513924,7 +511813,6 @@ DTC Logic
 INFOID:0000000010096458
 DTC DETECTION LOGIC
 
-### Turn ignition switch OFF and wait at least 10 seconds.
 
 ### Check DTC.
 
@@ -513988,7 +511876,6 @@ Turn ignition switch ON.
 2.
 Check the voltage between ECM harness connector terminals as per the following.
 
-### Is the inspection result normal?
 
 ### Also check harness for short to ground and short to power.
 
@@ -514098,9 +511985,6 @@ O
 2.
 Also check harness for short to ground and short to power.
 
-### Is the inspection result normal?
-
-### 7.CHECK ASCD STEERING SWITCH
 
 ### >> INSPECTION END
 
@@ -514265,7 +512149,6 @@ Turn ignition switch ON.
 2.
 Check the voltage between ECM harness connector terminals as per the following.
 
-### Is the inspection result normal?
 
 ### Also check harness for short to ground and short to power.
 
@@ -514378,7 +512261,6 @@ EC-472
 Check the continuity between combination switch and ECM harness connector.
 2.
 
-### Also check harness for short to ground and short to power.
 
 ### 7.CHECK ICC STEERING SWITCH
 
@@ -514572,7 +512454,6 @@ When the brake pedal is depressed, ASCD brake switch is turned OFF and stop lamp
 ECM detects the state of the brake pedal by those two types of input (ON/OFF signal).
 Refer to EC-62, "AUTOMATIC SPEED CONTROL DEVICE (ASCD) : System Description" for the ASCD function.
 
-### DTC Logic
 
 ### Turn ignition switch ON.
 
@@ -514656,7 +512537,6 @@ With CONSULT
 Turn ignition switch ON.
 2.
 
-### Select “BRAKE SW1” in “DATA MONITOR” mode with CONSULT.
 
 ### >> GO TO 2.
 
@@ -514895,7 +512775,6 @@ Check the following.
 • Harness for open or short between ECM and stop lamp switch
 >> Repair open circuit, short to ground or short to power in harness or connectors.
 
-### 12.CHECK STOP LAMP SWITCH
 
 ### Connector
 
@@ -514995,7 +512874,6 @@ Adjust stop lamp switch installation. Refer to BR-19, "Inspection and Adjustment
 2.
 Check the continuity between stop lamp switch terminals under the following conditions.
 
-### Is the inspection result normal?
 
 ### Terminals
 
@@ -515354,7 +513232,6 @@ NO
 8.CHECK STOP LAMP SWITCH POWER SUPPLY CIRCUIT
 1.
 
-### Turn ignition switch OFF.
 
 ### Is the inspection result normal?
 
@@ -515524,7 +513401,6 @@ Disconnect stop lamp switch harness connector.
 3.
 Check the continuity between stop lamp switch terminals under the following conditions.
 
-### Terminals
 
 ### 2014 Q70
 
@@ -515627,7 +513503,6 @@ INFOID:0000000010096476
 The ECM receives two vehicle speed signals via the CAN communication line. One is sent from “combination
 meter”, and the other is from TCM (Transmission control module). The ECM uses these signals for ASCD control. Refer to EC-62, "AUTOMATIC SPEED CONTROL DEVICE (ASCD) : System Description" for ASCD functions.
 
-### DTC Logic
 
 ### Turn ignition switch ON.
 
@@ -515641,7 +513516,6 @@ Start engine (VDC switch OFF).
 Drive the vehicle at more than 40 km/h (25 MPH).
 CAUTION:
 
-### Always drive vehicle at a safe speed.
 
 ### >> INSPECTION END
 
@@ -515654,7 +513528,6 @@ DTC No.
 Trouble diagnosis name
 DTC detecting condition
 
-### Possible cause
 
 ### • TCM
 
@@ -515711,9 +513584,6 @@ INFOID:0000000010096479
 The ECM receives two vehicle speed signals via CAN communication line. One is sent from “combination
 meter”, and the other is from TCM (Transmission control module). The ECM uses these signals for ICC control. Refer to CCS-13, "System Description" for ICC functions.
 
-### DTC Logic
-
-### Always drive vehicle at a safe speed.
 
 ### >> INSPECTION END
 
@@ -515727,7 +513597,6 @@ YES
 DTC No.
 Trouble diagnosis name
 
-### DTC detecting condition
 
 ### • TCM
 
@@ -515995,7 +513864,6 @@ EC-494
 [VQ37VHR FOR USA AND CANADA]
 P1608 VVEL SENSOR POWER SUPPLY
 
-### 3.CHECK VVEL CONTROL SHAFT POSITION SENSOR POWER SUPPLY CIRCUIT FOR OPEN AND
 
 ### Also check harness for short to ground and power.
 
@@ -516105,7 +513973,6 @@ EC-496
 P1805 BRAKE SWITCH
 P1805 BRAKE SWITCH
 
-### DTC Logic
 
 ### Check 1st trip DTC.
 
@@ -516460,7 +514327,6 @@ NO
 4.CHECK FOR INTAKE AIR LEAK
 1.
 
-### Start engine and run it at idle.
 
 ### Run engine for at least 10 minutes at idle speed.
 
@@ -516675,7 +514541,6 @@ NO
 >> Repair or replace.
 13.REPLACE AIR FUEL RATIO (A/F) SENSOR 1
 
-### Replace air fuel ratio (A/F) sensor 1.
 
 ### Do you have CONSULT?
 
@@ -516744,7 +514609,6 @@ P2122, P2123 APP SENSOR
 DTC Logic
 INFOID:0000000010096494
 
-### DTC DETECTION LOGIC
 
 ### >> GO TO 2.
 
@@ -517187,7 +515051,6 @@ Sensor
 Connector
 Terminal
 
-### Name
 
 ### Refrigerant pressure sensor
 
@@ -517915,7 +515778,6 @@ Check the following.
 • Harness for open or short between ASCD brake switch and fuse
 >> Repair open circuit or short to ground in harness or connectors.
 
-### 3.CHECK ASCD BRAKE SWITCH INPUT SIGNAL CIRCUIT FOR OPEN AND SHORT
 
 ### Brake pedal
 
@@ -518030,7 +515892,6 @@ Existed
 Terminals
 Condition
 
-### Continuity
 
 ### 2014 Q70
 
@@ -518170,7 +516031,6 @@ Turn ignition switch OFF.
 Check the continuity between cooling fan control module harness connector and ground.
 3.
 
-### Also check harness for short to power.
 
 ### Also check harness for short to power.
 
@@ -518241,7 +516101,6 @@ Disconnect IPDM E/R harness connector.
 Check the continuity between IPDM E/R harness connector and cooling fan control module harness connector.
 3.
 
-### Also check harness for short to ground and short to power.
 
 ### Disconnect cooling fan control module harness connectors.
 
@@ -518370,7 +516229,6 @@ YES
 NO
 >> Repair or replace harness connectors.
 
-### Component Inspection (Cooling Fan Motor)
 
 ### Is the inspection result normal?
 
@@ -518487,7 +516345,6 @@ The electrical load signal (Headlamp switch signal, rear window defogger switch 
 the CAN communication line.
 Component Function Check
 
-### INFOID:0000000010096516
 
 ### Is the inspection result normal?
 
@@ -518836,7 +516693,6 @@ Turn ignition switch OFF.
 Disconnect ECM harness connector.
 3.
 
-### Turn ignition switch ON.
 
 ### Is the inspection result normal?
 
@@ -518917,7 +516773,6 @@ NO
 5.CHECK 15A FUSE
 1.
 
-### Turn ignition switch OFF.
 
 ### Also check harness for short to ground and short to power.
 
@@ -519060,7 +516915,6 @@ INFOID:0000000010096524
 With CONSULT
 1.
 
-### Turn ignition switch ON.
 
 ### Is the inspection result normal?
 
@@ -519186,7 +517040,6 @@ Disconnect ICC brake switch harness connector.
 3.
 Check the continuity between ICC brake switch terminals under the following conditions.
 
-### Is the inspection result normal?
 
 ### Is the inspection result normal?
 
@@ -519329,7 +517182,6 @@ Turn ignition switch OFF.
 Disconnect condenser harness connector.
 3.
 
-### Turn ignition switch ON.
 
 ### Disconnect IPDM E/R harness connector.
 
@@ -519552,7 +517404,6 @@ NO
 Refer to GI-47, "Intermittent Incident".
 >> INSPECTION END
 
-### Component Inspection (Ignition Coil with Power Transistor)
 
 ### Is the inspection result normal?
 
@@ -519674,7 +517525,6 @@ portion.
 > NO
 > >> Replace malfunctioning ignition coil with power transistor. Refer to EM-42, "Exploded View".
 
-### Component Inspection (Condenser)
 
 ### >> INSPECTION END
 
@@ -520206,7 +518056,6 @@ YES
 >> GO TO 6.
 NO
 
-### >> GO TO 5.
 
 ### 6.CHECK REFRIGERANT PRESSURE SENSOR INPUT SIGNAL CIRCUIT FOR OPEN AND SHORT
 
@@ -520217,7 +518066,6 @@ Also check harness for short to ground and short to power.
 Is the inspection result normal?
 YES
 
-### >> GO TO 8.
 
 ### 8.CHECK INTERMITTENT INCIDENT
 
@@ -520230,7 +518078,6 @@ NO
 Refrigerant pressure sensor
 ECM
 
-### Continuity
 
 ### < SYMPTOM DIAGNOSIS >
 
@@ -520245,7 +518092,6 @@ SYMPTOM
 Reference
 page
 
-### HARD/NO START/RESTART (EXCP. HA)
 
 ### EXCESSIVE FUEL CONSUMPTION
 
@@ -520539,7 +518385,6 @@ ENGINE STALL
 HESITATION/SURGING/FLAT SPOT
 SPARK KNOCK/DETONATION
 
-### LACK OF POWER/POOR ACCELERATION
 
 ### Fuel
 
@@ -520703,7 +518548,6 @@ HESITATION/SURGING/FLAT SPOT
 SPARK KNOCK/DETONATION
 LACK OF POWER/POOR ACCELERATION
 
-### HIGH IDLE/LOW IDLE
 
 ### Revision: 2013 November
 
@@ -520718,7 +518562,6 @@ INFOID:0000000010096539
 SYSTEM －DRIVE MODE SELECTOR －
 Malfunction
 
-### Check item
 
 ### The central switch of the naviga-
 
@@ -521085,9 +518928,6 @@ O
 SERVICE DATA AND SPECIFICATIONS (SDS)
 SERVICE DATA AND SPECIFICATIONS (SDS)
 
-### Idle Speed
-
-### INFOID:0000000010096548
 
 ### Mass Air Flow Sensor
 
@@ -521117,7 +518957,6 @@ Mass air flow (Using CONSULT or GST)
 2.0 – 6.0 g/s at idle*
 7.0 – 20.0 g/s at 2,500 rpm*
 
-### Revision: 2013 November
 
 ### Precaution for Procedure without Cowl Top Cover
 
@@ -521154,9 +518993,6 @@ O
 (Turning it ON outside the lamp case may cause fire or visual impairments.)
 • Never touch the bulb glass immediately after turning it OFF. It is extremely hot.
 
-### On Board Diagnostic (OBD) System of Engine and A/T
-
-### General Precautions
 
 ### SEF289H
 
@@ -521263,7 +519099,6 @@ INFOID:0000000010096556
 NOTE:
 The actual shapes of Kent-Moore tools may differ from those of special service tools illustrated here.
 
-### Commercial Service Tools
 
 ### Removes and installs engine coolant temperature
 
@@ -521287,9 +519122,6 @@ installing a new oxygen sensor. Use with antiseize lubricant shown below.
 a: 18 mm diameter with pitch 1.5 mm for Zirconia Oxygen Sensor
 b: 12 mm diameter with pitch 1.25 mm for Titania Oxygen Sensor
 
-### AEM488
-
-### INFOID:0000000010096558
 
 ### EVAP canister purge volume control
 
@@ -521510,9 +519342,6 @@ EC-572
 < SYSTEM DESCRIPTION >
 [VQ37VHR FOR MEXICO]
 
-### COMPONENT PARTS
-
-### Air Fuel Ratio Sensor 1
 
 ### A/C auto amp.
 
@@ -521687,9 +519516,6 @@ increases.
 *: These data are reference values and are measured between battery temperature
 sensor signal terminal and sensor ground.
 
-### Brake Switch
-
-### Camshaft Position Sensor (PHASE)
 
 ### JSBIA0483ZZ
 
@@ -521710,11 +519536,6 @@ COMPONENT PARTS
 EC-575
 < SYSTEM DESCRIPTION >
 
-### [VQ37VHR FOR MEXICO]
-
-### COOLING FAN MOTOR
-
-### INFOID:0000000010096572
 
 ### ECM receives the signals as shown in the figure.
 
@@ -521807,9 +519628,6 @@ decreases as temperature increases.
 *: These data are reference values and are measured between ECM terminals 78
 (Engine oil temperature sensor) and 84 (Sensor ground).
 
-### EVAP Canister Purge Volume Control Solenoid Valve
-
-### Fuel Injector
 
 ### Fuel Level Sensor
 
@@ -521818,7 +519636,6 @@ The fuel level sensor is mounted in the fuel level sensor unit.
 The sensor detects a fuel level in the fuel tank and transmits a signal to the “A/C auto amp.”. The “A/C auto
 amp.” sends the fuel level sensor signal to the ECM via the CAN communication line.
 
-### SEF594K
 
 ### SEF375Z
 
@@ -521841,9 +519658,6 @@ the ignition switch is ON, the engine stalls. The ECM stops pump operation and p
 thereby improving safety. The ECM does not directly drive the fuel pump. It controls the ON/OFF fuel pump
 relay, which in turn controls the fuel pump.
 
-### Fuel Tank Temperature Sensor
-
-### Heated Oxygen Sensor 2
 
 ### Heated Oxygen Sensor 2 Heater
 
@@ -521912,9 +519726,6 @@ O
 The ECM performs ON/OFF control of the heated oxygen sensor 2 heater corresponding to the engine speed,
 amount of intake air and engine coolant temperature.
 
-### OPERATION
-
-### Intake Air Temperature Sensor
 
 ### Sensor
 
@@ -521961,15 +519772,6 @@ EC-580
 < SYSTEM DESCRIPTION >
 [VQ37VHR FOR MEXICO]
 
-### COMPONENT PARTS
-
-### The longer pulse width advances valve angle.
-
-### Manifold Absolute Pressure Sensor
-
-### Malfunction Indicator Lamp
-
-### For details, refer to EC-601, "Diagnosis Description".
 
 ### ECM detects the air flow by means of this current change.
 
@@ -522001,17 +519803,6 @@ P
 O
 Power Steering Pressure Sensor
 
-### INFOID:0000000010096591
-
-### Refrigerant Pressure Sensor
-
-### Throttle Control Motor
-
-### Throttle Control Motor Relay
-
-### Throttle Position Sensor
-
-### VVEL Actuator Motor
 
 ### VVEL control shaft position sensor signal.
 
@@ -522029,9 +519820,6 @@ Power supply for the VVEL actuator motor is provided to the VVEL control module 
 relay. VVEL actuator motor relay is ON/OFF controlled by the VVEL control module. In addition, when the
 VVEL actuator motor relay cannot be controlled by the VVEL control module for some reason, it ON/OFF controlled by ECM.
 
-### VVEL Control Module
-
-### INFOID:0000000010096599
 
 ### JMBIA0879ZZ
 
@@ -522061,7 +519849,6 @@ O
 STRUCTURE AND OPERATION
 Positive Crankcase Ventilation
 
-### INFOID:0000000010096600
 
 ### PCV valve
 
@@ -522248,7 +520035,6 @@ SYSTEM
 EC-587
 < SYSTEM DESCRIPTION >
 
-### [VQ37VHR FOR MEXICO]
 
 ### FUEL SHUT-OFF
 
@@ -522365,9 +520151,6 @@ SYSTEM
 EC-591
 < SYSTEM DESCRIPTION >
 
-### COAST OPERATION
-
-### CAN COMMUNICATION
 
 ### COOLING FAN CONTROL
 
@@ -522381,7 +520164,6 @@ Revision: 2013 November
 2014 Q70
 EC-592
 
-### < SYSTEM DESCRIPTION >
 
 ### EVAPORATIVE EMISSION SYSTEM
 
@@ -522394,7 +520176,6 @@ Sensor
 Input signal to ECM
 ECM function
 
-### Refrigerant pressure sensor
 
 ### Revision: 2013 November
 
@@ -522484,7 +520265,6 @@ N
 P
 O
 
-### VVEL SYSTEM : System Diagram
 
 ### Control shaft
 
@@ -522517,7 +520297,6 @@ NOTE:
 • This section provides descriptions only about the control by ECM.
 For overall control, refer to DMS-5, "Infiniti Drive Mode Selector : System Description".
 
-### - SNOW: ON/OFF
 
 ### Control
 
@@ -522598,7 +520377,6 @@ INFOID:0000000010096623
 SWITCHES AND INDICATORS
 SET SPEED RANGE
 
-### ASCD system can be set the following vehicle speed.
 
 ### (ACCELERATE/RESUME)
 
@@ -522714,9 +520492,6 @@ control unit equipped in the vehicle and then enable various kinds of diagnostic
 > DIAGNOSIS DESCRIPTION
 > DIAGNOSIS DESCRIPTION : 1st Trip Detection Logic and Two Trip Detection Logic
 
-### INFOID:0000000010096627
-
-### DIAGNOSIS DESCRIPTION : DTC and Freeze Frame Data
 
 ### Misfire (Possible three way catalyst
 
@@ -522780,7 +520555,6 @@ stored in the ECM memory, 1st trip freeze data is no longer stored (because only
 trip freeze frame data can be stored in the ECM). If freeze frame data is stored in the ECM memory and freeze
 frame data with the same priority occurs later, the first (original) freeze frame data remains unchanged in the
 
-### ECM memory.
 
 ### Revision: 2013 November
 
@@ -522882,7 +520656,6 @@ Calculated load value: (Calculated load value in the freeze frame data) x (1±0.
 > If MIL is ON during the state emissions inspection, the vehicle is also returned to the customer untested even
 > though the SRT indicates “CMPLT” for all test items. Therefore, it is important to check SRT (“CMPLT”) and
 
-### DTC (No DTCs) before the inspection.
 
 ### Revision: 2013 November
 
@@ -523123,9 +520896,6 @@ Fully depress the accelerator pedal and keep it depressed for more than 10 secon
 7.
 Fully release the accelerator pedal, and confirm the DTC 0000 is displayed.
 
-### CONSULT Function
-
-### SELF DIAGNOSTIC RESULT MODE
 
 ### How to Erase DTC and 1st Trip DTC
 
@@ -523413,7 +521183,6 @@ ON/OFF
 sensor 2 heater determined by ECM according to
 the input signals.
 
-### HO2S2 HTR (B2)
 
 ### Monitored item
 
@@ -523512,7 +521281,6 @@ YET/DONE
 YET: VVEL learning has not been performed yet.
 DONE: VVEL learning has already been performed successfully.
 
-### VVEL SEN LEARN-
 
 ### A/F ADJ-B2
 
@@ -523679,7 +521447,6 @@ see CHECK ITEM.
 sensor
 • Fuel injector
 
-### FUEL/T TEMP SEN
 
 ### CONSULT.
 
@@ -523771,9 +521538,6 @@ ECU DIAGNOSIS INFORMATION
 ECM
 Reference Value
 
-### INFOID:0000000010096635
-
-### CONSULT MONITOR ITEM
 
 ### MAS A/F SE-B2
 
@@ -523789,7 +521553,6 @@ COOLAN TEMP/S
 Indicates engine coolant
 temperature
 
-### ACCEL SEN 1
 
 ### Less than 4.75 V
 
@@ -523865,7 +521628,6 @@ BRAKE SW
 Brake pedal: Fully released
 OFF
 
-### Brake pedal: Slightly depressed
 
 ### Idle
 
@@ -524086,7 +521848,6 @@ When revving engine up to 2,000 rpm
 quickly
 Approx. 0.25 - 4.75 V
 
-### VVEL TIM-B1
 
 ### Idle
 
@@ -524171,7 +521932,6 @@ Engine: Running
 Varies depending on the
 number of updates.
 
-### A/F-S ATMSPHRC
 
 ### Monitor Item
 
@@ -524251,7 +522011,6 @@ Output
 • Selector lever: D
 • Accelerator pedal: Fully released
 
-### 0 - 14 V
 
 ### 0 - 14 V
 
@@ -524324,9 +522083,6 @@ Ignition signal No. 1
 128
 (B)
 
-### Heated oxygen sensor 2
-
-### BATTERY VOLTAGE
 
 ### JMBIA0036GB
 
@@ -524991,7 +522747,6 @@ Revision: 2013 November
 2014 Q70
 ECM
 
-### EC-635
 
 ### Handle Battery".
 
@@ -525034,7 +522789,6 @@ Engine speed will not rise
 more than 2,500 rpm due
 to the fuel cut
 
-### Revision: 2013 November
 
 ### P0605
 
@@ -525080,7 +522834,6 @@ Brake switch
 ECM controls the electric throttle control actuator by regulating the throttle opening to a
 small range.
 
-### Therefore, acceleration will be poor.
 
 ### Therefore, the acceleration will be poor.
 
@@ -526314,7 +524067,6 @@ ECM
 *5: When the fail-safe operations for both self-diagnoses occur, the MIL illuminates.
 *6: When the ECM is in the mode that displays SRT status, MIL may blink. For the details, refer to “How to Display SRT Status”.
 
-### Test Value and Test Limit
 
 ### P2118
 
@@ -526953,7 +524705,6 @@ P0304
 0BH
 24H
 
-### EWMA (Exponential Weighted Moving
 
 ### P0305
 
@@ -526975,7 +524726,6 @@ Misfire counts for last/current driving
 cycles
 A8H
 
-### No. 7 cylinder misfire
 
 ### EWMA (Exponential Weighted Moving
 
@@ -527703,7 +525453,6 @@ Study the relationship between the cause detected by DTC and the symptom describ
 (Symptom Matrix Chart is useful. Refer to EC-964, "Symptom Table".)
 3.
 
-### Check related service bulletins for information.
 
 ### 3.CONFIRM THE SYMPTOM
 
@@ -527718,7 +525467,6 @@ Verify relation between the symptom and the condition when the symptom is detect
 Try to confirm the symptom described by the customer.
 Also study the normal operation and fail-safe related to the symptom. Refer to EC-969, "Description" and EC635, "Fail safe".
 
-### Diagnosis Work Sheet is useful to verify the incident.
 
 ### MATION PROCEDURE.
 
@@ -528034,7 +525782,6 @@ Accelerator Pedal Released Position Learning is a function of ECM to learn the f
 accelerator pedal by monitoring the accelerator pedal position sensor output signal. It must be performed each
 time the harness connector of the accelerator pedal position sensor or ECM is disconnected.
 
-### Work Procedure
 
 ### Turn ignition switch ON and wait at least 2 seconds.
 
@@ -528049,9 +525796,6 @@ EC-688
 THROTTLE VALVE CLOSED POSITION LEARNING
 THROTTLE VALVE CLOSED POSITION LEARNING
 
-### Description
-
-### Work Procedure
 
 ### >> END
 
@@ -528086,7 +525830,6 @@ the specific range. It must be performed under the following conditions:
 • Each time VVEL actuator sub assembly or VVEL control module is replaced.
 • Idle speed or ignition timing is out of specification.
 
-### Work Procedure
 
 ### Do you have CONSULT?
 
@@ -528146,7 +525889,6 @@ specifications. Refer to EC-976, "Idle Speed" and EC-976, "Ignition Timing".
 Is the inspection result normal?
 YES
 
-### Is the inspection result normal?
 
 ### >> INSPECTION END
 
@@ -528175,9 +525917,6 @@ P
 O
 VVEL CONTROL SHAFT POSITION SENSOR ADJUSTMENT
 
-### Description
-
-### Work Procedure
 
 ### 12. Turn ignition switch OFF and wait at least 10 seconds.
 
@@ -528425,9 +526164,6 @@ Perform EC-689, "Work Procedure".
 Is Idle Air Volume Learning carried out successfully?
 YES
 
-### >> GO TO 14.
-
-### For specification, refer to EC-976, "Idle Speed".
 
 ### >> GO TO 17.
 
@@ -528697,7 +526433,6 @@ In order to set all SRTs, the SRT set driving pattern must be performed at least
 > < BASIC INSPECTION >
 > [VQ37VHR FOR MEXICO]
 
-### HOW TO SET SRT CODE
 
 ### >> GO TO 7.
 
@@ -528738,11 +526473,6 @@ N
 P
 O
 
-### DTC/CIRCUIT DIAGNOSIS
-
-### Component Function Check
-
-### >> GO TO 2.
 
 ### Make sure that monitor items are within the SP value.
 
@@ -528810,7 +526540,6 @@ NOTE:
 Check “A/F ALPHA-B1”, “A/F ALPHA-B2” for approximately 1 minute because they may fluctuate. It is NG
 if the indication is out of the SP value even a little.
 
-### >> INSPECTION END
 
 ### 8.CHECK “A/F ALPHA-B1”, “A/F ALPHA-B2”
 
@@ -529245,7 +526974,6 @@ YES
 >> EC-718, "Diagnosis Procedure".
 NO
 
-### >> INSPECTION END
 
 ### TCM and ECM
 
@@ -529275,7 +527003,6 @@ P
 O
 U1001 CAN COMM CIRCUIT
 
-### Description
 
 ### DTC Logic
 
@@ -529642,9 +527369,6 @@ P0011, P0021 IVT CONTROL
 Is the inspection result normal?
 YES
 
-### >> GO TO 6.
-
-### Refer to GI-47, "Intermittent Incident".
 
 ### JMBIA0962ZZ
 
@@ -529723,7 +527447,6 @@ YES
 NG
 >> INSPECTION END
 
-### Diagnosis Procedure
 
 ### Revision: 2013 November
 
@@ -529785,7 +527508,6 @@ Refer to EC-730, "Component Inspection".
 Is the inspection result normal?
 YES
 
-### >> GO TO 7.
 
 ### >> INSPECTION END
 
@@ -529850,7 +527572,6 @@ Disconnect A/F sensor 1 harness connector.
 3.
 Check resistance between A/F sensor 1 terminals as follows.
 
-### Is the inspection result normal?
 
 ### >> INSPECTION END
 
@@ -530088,9 +527809,6 @@ Disconnect ECM harness connector.
 Check the continuity between intake valve timing control solenoid valve harness connector and ECM harness connector.
 4.
 
-### Also check harness for short to ground and short to power.
-
-### Component Inspection
 
 ### JMBIA0079ZZ
 
@@ -530132,7 +527850,6 @@ O
 P0102, P0103, P010C, P010D MAF SENSOR
 DTC Logic
 
-### Turn ignition switch OFF and wait at least 10 seconds.
 
 ### Start engine and wait at least 5 seconds.
 
@@ -530347,11 +528064,6 @@ P010A MANIFOLD ABSOLUTE PRESSURE SENSOR
 DTC Logic
 INFOID:0000000010096697
 
-### DTC DETECTION LOGIC
-
-### Turn ignition switch OFF and wait at least 10 seconds.
-
-### >> INSPECTION END
 
 ### >> GO TO 2.
 
@@ -530671,7 +528383,6 @@ Refer to EC-747, "Component Inspection".
 Is the inspection result normal?
 YES
 
-### Component Inspection
 
 ### Terminal
 
@@ -530754,7 +528465,6 @@ Refer to EC-749, "Component Inspection".
 Is the inspection result normal?
 YES
 
-### >> GO TO 6.
 
 ### Resistance (kΩ)
 
@@ -530913,7 +528623,6 @@ Replace malfunctioning electric throttle control actuator.
 Go to EC-752, "Special Repair Requirement".
 >> INSPECTION END
 
-### Special Repair Requirement
 
 ### Voltage (V)
 
@@ -530992,9 +528701,6 @@ Before performing the following procedure, confirm that battery voltage is more 
 Start engine and warm it up to normal operating temperature.
 2.
 
-### Let engine idle for 2 minutes.
-
-### Check “A/F SEN1 (B1)” or “A/F SEN1 (B2)” indication.
 
 ### Revision: 2013 November
 
@@ -531017,7 +528723,6 @@ NOTE:
 Use component function check to check the overall function of the A/F sensor 1 circuit. During this check, a
 1st trip DTC might not be confirmed.
 
-### Is the inspection result normal?
 
 ### More than 64 km/h (40 mph)
 
@@ -531063,7 +528768,6 @@ Check ground connection M95. Refer to Ground Inspection in GI-50, "Circuit Inspe
 Is the inspection result normal?
 YES
 
-### A/F sensor 1
 
 ### Revision: 2013 November
 
@@ -531188,7 +528892,6 @@ Turn ignition switch OFF.
 2.
 Check ground connection M95. Refer to Ground Inspection in GI-50, "Circuit Inspection".
 
-### A/F sensor 1
 
 ### A/F sensor 1
 
@@ -531394,7 +529097,6 @@ N
 P
 O
 
-### P0133, P0153 A/F SENSOR 1
 
 ### >> GO TO 2.
 
@@ -531505,7 +529207,6 @@ Calculate the total value of “Short term fuel trim” and “Long term fuel tr
 Is the total percentage within ±15%?
 YES
 
-### >> GO TO 7.
 
 ### 7.PERFORM DTC CONFIRMATION PROCEDURE
 
@@ -531633,7 +529334,6 @@ EC-766
 < DTC/CIRCUIT DIAGNOSIS >
 [VQ37VHR FOR MEXICO]
 
-### P0133, P0153 A/F SENSOR 1
 
 ### Also check harness for short to power.
 
@@ -531848,7 +529548,6 @@ Perform component function check. Refer to EC-769, "Component Function Check".
 > NO
 > >> Go to EC-770, "Diagnosis Procedure".
 
-### Component Function Check
 
 ### 2014 Q70
 
@@ -531959,7 +529658,6 @@ YES
 NO
 >> Repair open circuit, short to ground or short to power in harness or connectors.
 
-### 5.CHECK HEATED OXYGEN SENSOR 2
 
 ### >> INSPECTION END
 
@@ -532116,9 +529814,6 @@ O
 Start engine and warm it up to the normal operating temperature.
 2.
 
-### Turn ignition switch OFF and wait at least 10 seconds.
-
-### Check 1st trip DTC.
 
 ### 11. Start engine and follow the instruction of CONSULT display.
 
@@ -532152,7 +529847,6 @@ Revision: 2013 November
 EC-776
 < DTC/CIRCUIT DIAGNOSIS >
 
-### [VQ37VHR FOR MEXICO]
 
 ### >> INSPECTION END
 
@@ -532165,7 +529859,6 @@ Confirm the detected malfunction (A or B). Refer to EC-774, "DTC Logic".
 Which malfunction is detected?
 A
 
-### Connector
 
 ### EC-777
 
@@ -532286,7 +529979,6 @@ Revision: 2013 November
 EC-778
 < DTC/CIRCUIT DIAGNOSIS >
 
-### [VQ37VHR FOR MEXICO]
 
 ### Is the inspection result normal?
 
@@ -532439,9 +530131,6 @@ Revision: 2013 November
 EC-780
 < DTC/CIRCUIT DIAGNOSIS >
 
-### [VQ37VHR FOR MEXICO]
-
-### Let engine idle for 1 minute.
 
 ### The voltage should be below 0.18 V at least
 
@@ -532486,7 +530175,6 @@ YES
 NO
 >> GO TO 6.
 
-### 6.REPLACE HEATED OXYGEN SENSOR 2
 
 ### The voltage should be below 0.18 V at least
 
@@ -532504,7 +530192,6 @@ P0139, P0159 HO2S2
 DTC Logic
 INFOID:0000000010096727
 
-### DTC DETECTION LOGIC
 
 ### Turn ignition switch ON.
 
@@ -532595,9 +530282,6 @@ NO
 6.PERFORM COMPONENT FUNCTION CHECK
 Perform component function check. Refer to EC-783, "Component Function Check".
 
-### Component Function Check
-
-### Let engine idle for 1 minute.
 
 ### Condition
 
@@ -532843,7 +530527,6 @@ YES
 NO
 >> GO TO 3.
 
-### 2.CHECK HEATED OXYGEN SENSOR 2
 
 ### PBIB3458E
 
@@ -533176,7 +530859,6 @@ EC-792
 [VQ37VHR FOR MEXICO]
 P0172, P0175 FUEL INJECTION SYSTEM FUNCTION
 
-### P0172, P0175 FUEL INJECTION SYSTEM FUNCTION
 
 ### Do not depress accelerator pedal too much.
 
@@ -533395,7 +531077,6 @@ Listen to each fuel injector operating sound.
 Is the inspection result normal?
 YES
 
-### >> GO TO 7.
 
 ### PBIB3332E
 
@@ -533411,9 +531092,6 @@ INFOID:0000000010096735
 DTC DETECTION LOGIC
 DTC CONFIRMATION PROCEDURE
 
-### Turn ignition switch OFF and wait at least 10 seconds.
-
-### >> INSPECTION END
 
 ### Revision: 2013 November
 
@@ -533672,7 +531350,6 @@ EC-802
 < DTC/CIRCUIT DIAGNOSIS >
 [VQ37VHR FOR MEXICO]
 
-### Also check harness for short to ground and short to power.
 
 ### Is the inspection result normal?
 
@@ -533783,7 +531460,6 @@ P0300, P0301, P0302, P0303, P0304, P0305, P0306 MISFIRE
 P0300, P0301, P0302, P0303, P0304, P0305, P0306 MISFIRE
 DTC Logic
 
-### INFOID:0000000010096745
 
 ### EC-805
 
@@ -534043,7 +531719,6 @@ EC-810
 [VQ37VHR FOR MEXICO]
 P0327, P0328, P0332, P0333 KS
 
-### P0327, P0328, P0332, P0333 KS
 
 ### >> GO TO 2.
 
@@ -534058,7 +531733,6 @@ YES
 NO
 >> INSPECTION END
 
-### Diagnosis Procedure
 
 ### Existed
 
@@ -534104,7 +531778,6 @@ NO
 7.CHECK INTERMITTENT INCIDENT
 Refer to GI-47, "Intermittent Incident".
 
-### >> INSPECTION END
 
 ### Revision: 2013 November
 
@@ -534162,7 +531835,6 @@ YES
 >> Go to EC-813, "Diagnosis Procedure".
 NO
 
-### >> INSPECTION END
 
 ### >> GO TO 2.
 
@@ -534284,7 +531956,6 @@ F2
 F101
 46
 
-### Existed
 
 ### Revision: 2013 November
 
@@ -534403,7 +532074,6 @@ Revision: 2013 November
 EC-816
 < DTC/CIRCUIT DIAGNOSIS >
 
-### [VQ37VHR FOR MEXICO]
 
 ### Revision: 2013 November
 
@@ -534433,7 +532103,6 @@ DTC Logic
 INFOID:0000000010096753
 DTC DETECTION LOGIC
 
-### >> GO TO 2.
 
 ### >> GO TO 3.
 
@@ -534446,7 +532115,6 @@ Is 1st trip DTC detected?
 YES
 >> Go to EC-818, "Diagnosis Procedure".
 
-### DTC No.
 
 ### P0345
 
@@ -534629,7 +532297,6 @@ Disconnect ECM harness connector.
 Check the continuity between CMP sensor (PHASE) harness connector and ECM harness connector.
 4.
 
-### Also check harness for short to ground and short to power.
 
 ### Also check harness for short to ground and short to power.
 
@@ -534780,7 +532447,6 @@ P0420, P0430 THREE WAY CATALYST FUNCTION
 DTC Logic
 INFOID:0000000010096756
 
-### DTC DETECTION LOGIC
 
 ### P0430
 
@@ -534807,7 +532473,6 @@ NO
 7.PERFORM COMPONENT FUNCTION CHECK
 Perform component function check. Refer to EC-822, "Component Function Check".
 
-### Component Function Check
 
 ### Let engine idle for 1 minute.
 
@@ -534902,7 +532567,6 @@ Turn ignition switch OFF.
 2.
 Remove fuel pump fuse (1) in IPDM E/R (2) to release fuel pressure.
 
-### Turn ignition switch OFF.
 
 ### EC-825
 
@@ -534930,7 +532594,6 @@ Disconnect spark plug and connect a non-malfunctioning spark plug.
 Crank engine for about 3 seconds, and recheck whether spark is generated between the spark plug and
 the grounded metal portion.
 
-### Is the inspection result normal?
 
 ### Spark should be generated.
 
@@ -534944,7 +532607,6 @@ EC-826
 P0444 EVAP CANISTER PURGE VOLUME CONTROL SOLENOID VALVE
 P0444 EVAP CANISTER PURGE VOLUME CONTROL SOLENOID VALVE
 
-### DTC Logic
 
 ### 2.PERFORM DTC CONFIRMATION PROCEDURE
 
@@ -535195,9 +532857,6 @@ Lift up drive wheels.
 Start engine.
 3.
 
-### Read vehicle speed signal in Service $01 with GST.
-
-### Diagnosis Procedure
 
 ### Refer to MWI-31, "CONSULT Function".
 
@@ -535312,9 +532971,6 @@ Revision: 2013 November
 P0524 ENGINE OIL PRESSURE
 EC-833
 
-### < DTC/CIRCUIT DIAGNOSIS >
-
-### >> INSPECTION END
 
 ### JMBIA0079ZZ
 
@@ -535346,7 +533002,6 @@ YES
 >> Go to EC-834, "Diagnosis Procedure".
 NO
 
-### >> INSPECTION END
 
 ### >> GO TO 2.
 
@@ -535432,7 +533087,6 @@ Battery voltage is supplied to the ECM even when the ignition switch
 is turned OFF for the ECM memory function of the DTC memory, the
 air-fuel ratio feedback compensation value memory, the idle air volume learning value memory, etc.
 
-### DTC Logic
 
 ### Turn ignition switch ON and wait at least 10 seconds.
 
@@ -535482,7 +533136,6 @@ O
 Is the inspection result normal?
 YES
 
-### >> GO TO 3.
 
 ### Erase DTC.
 
@@ -535531,7 +533184,6 @@ Turn ignition switch ON.
 2.
 Check 1st trip DTC.
 
-### Is 1st trip DTC detected?
 
 ### Check 1st trip DTC.
 
@@ -535578,7 +533230,6 @@ Trouble diagnosis name
 DTC detecting condition
 Possible cause
 
-### P0605
 
 ### EC-839
 
@@ -535866,9 +533517,6 @@ INFOID:0000000010096781
 When the selector lever position is P or N, park/neutral position (PNP) signal from the TCM is sent to ECM.
 ECM detects the position because the continuity of the line (the ON signal) exists.
 
-### DTC Logic
-
-### Is the inspection result normal?
 
 ### • TCM
 
@@ -535900,7 +533548,6 @@ NO
 5.PERFORM COMPONENT FUNCTION CHECK
 Perform component function check. Refer to EC-844, "Component Function Check".
 
-### Component Function Check
 
 ### >> INSPECTION END
 
@@ -536028,7 +533675,6 @@ O
 4.
 Also check harness for short to ground and power.
 
-### 4.CHECK VVEL ACTUATOR MOTOR
 
 ### Go to EC-685, "Work Procedure".
 
@@ -536368,7 +534014,6 @@ O
 4.
 Also check harness for short to ground and power.
 
-### 4.CHECK VVEL ACTUATOR MOTOR
 
 ### Go to EC-685, "Work Procedure".
 
@@ -536694,7 +534339,6 @@ and electric unit (control unit)” to ECM.
 Be sure to erase the malfunction information such as DTC not only for “ABS actuator and electric unit
 (control unit)” but also for ECM after TCS related repair.
 
-### DTC Logic
 
 ### >> GO TO 2.
 
@@ -536709,7 +534353,6 @@ YES
 NO
 >> INSPECTION END
 
-### Diagnosis Procedure
 
 ### Revision: 2013 November
 
@@ -536904,7 +534547,6 @@ O
 4.CHECK RADIATOR CAP
 Check radiator cap. Refer to CO-13, "RADIATOR CAP : Inspection".
 
-### 6.CHECK ENGINE COOLANT TEMPERATURE SENSOR
 
 ### • CONSULT
 
@@ -537194,7 +534836,6 @@ NO
 >> INSPECTION END
 Diagnosis Procedure
 
-### INFOID:0000000010096818
 
 ### 2.CHECK THROTTLE CONTROL MOTOR RELAY INPUT SIGNAL CIRCUIT-I
 
@@ -537243,7 +534884,6 @@ Check the continuity between IPDM E/R harness connector and ECM harness connecto
 5.
 Also check harness for short to ground and short to power.
 
-### Is the inspection result normal?
 
 ### Terminal
 
@@ -537480,7 +535120,6 @@ P1236, P2118 THROTTLE CONTROL MOTOR
 DTC Logic
 INFOID:0000000010096821
 
-### Turn ignition switch ON.
 
 ### Check DTC.
 
@@ -537617,7 +535256,6 @@ Replace malfunctioning electric throttle control actuator.
 Go to EC-876, "Special Repair Requirement".
 >> INSPECTION END
 
-### Special Repair Requirement
 
 ### Connector
 
@@ -537863,7 +535501,6 @@ N
 P
 O
 
-### Also check harness for short to ground and short to power.
 
 ### Is the inspection result normal?
 
@@ -537936,7 +535573,6 @@ Replace malfunctioning electric throttle control actuator.
 Go to EC-882, "Special Repair Requirement".
 >> INSPECTION END
 
-### Special Repair Requirement
 
 ### 2014 Q70
 
@@ -538000,7 +535636,6 @@ YES
 NO
 >> INSPECTION END
 
-### Diagnosis Procedure
 
 ### IPDM E/R
 
@@ -538054,9 +535689,6 @@ P
 O
 P1550 BATTERY CURRENT SENSOR
 
-### DTC Logic
-
-### Turn ignition switch OFF and wait at least 10 seconds.
 
 ### >> GO TO 2.
 
@@ -538161,7 +535793,6 @@ Check the following.
 • Camshaft position sensor (PHASE) (bank 2) (Refer to EC-820, "Component Inspection".)
 • Refrigerant pressure sensor (Refer to EC-962, "Diagnosis Procedure".)
 
-### Is the inspection result normal?
 
 ### Replace accelerator pedal assembly.
 
@@ -538189,13 +535820,6 @@ Terminal
 F101
 46
 
-### CKP sensor (POS)
-
-### < DTC/CIRCUIT DIAGNOSIS >
-
-### 13.CHECK BATTERY CURRENT SENSOR
-
-### >> INSPECTION END
 
 ### 2014 Q70
 
@@ -538251,7 +535875,6 @@ P
 O
 P1551, P1552 BATTERY CURRENT SENSOR
 
-### DTC Logic
 
 ### Turn ignition switch OFF and wait at least 10 seconds.
 
@@ -538276,9 +535899,6 @@ YES
 NO
 >> INSPECTION END
 
-### Diagnosis Procedure
-
-### >> GO TO 2.
 
 ### Is the inspection result normal?
 
@@ -538368,13 +535988,6 @@ Check the following.
 • Camshaft position sensor (PHASE) (bank 2) (Refer to EC-820, "Component Inspection".)
 • Refrigerant pressure sensor (Refer to EC-962, "Diagnosis Procedure".)
 
-### Is the inspection result normal?
-
-### CKP sensor (POS)
-
-### EC-891
-
-### 13.CHECK BATTERY CURRENT SENSOR
 
 ### 2014 Q70
 
@@ -538483,7 +536096,6 @@ YES
 NO
 >> GO TO 3.
 
-### CKP sensor (POS)
 
 ### 2014 Q70
 
@@ -538607,7 +536219,6 @@ P1554 BATTERY CURRENT SENSOR
 NO
 >> Go to EC-898, "Diagnosis Procedure"
 
-### Diagnosis Procedure
 
 ### 2014 Q70
 
@@ -538796,7 +536407,6 @@ EC-902
 < DTC/CIRCUIT DIAGNOSIS >
 [VQ37VHR FOR MEXICO]
 
-### P1556, P1557 BATTERY TEMPERATURE SENSOR
 
 ### >> GO TO 4.
 
@@ -538824,7 +536434,6 @@ NO
 >> GO TO 6.
 6.REPLACE ACCELERATOR PEDAL ASSEMBLY
 
-### Replace accelerator pedal assembly.
 
 ### Also check harness for short to ground and short to power.
 
@@ -538837,7 +536446,6 @@ NO
 Refer to EC-903, "Component Inspection (Battery Temperature Sensor)".
 ECM
 
-### Sensor
 
 ### Battery current sensor
 
@@ -538902,7 +536510,6 @@ DTC DETECTION LOGIC
 NOTE:
 If DTC P1564 is displayed with DTC P0605, first perform the trouble diagnosis for DTC P0605. Refer to
 
-### Turn ignition switch ON.
 
 ### Check DTC.
 
@@ -538965,7 +536572,6 @@ P1564 ASCD STEERING SWITCH
 2.
 Also check harness for short to ground and short to power.
 
-### 7.CHECK ASCD STEERING SWITCH
 
 ### >> INSPECTION END
 
@@ -539011,7 +536617,6 @@ ECM detects the state of the brake pedal by those two types of input (ON/OFF sig
 Refer to EC-590, "AUTOMATIC SPEED CONTROL DEVICE (ASCD) : System Description" for the ASCD
 function.
 
-### DTC Logic
 
 ### 2014 Q70
 
@@ -539098,7 +536703,6 @@ EC-910
 7.CHECK ASCD BRAKE SWITCH
 Refer to EC-911, "Component Inspection (ASCD Brake Switch)"
 
-### 12.CHECK STOP LAMP SWITCH
 
 ### Connector
 
@@ -539218,7 +536822,6 @@ to EC-838, "DTC Logic".
 • If DTC P1574 is displayed with DTC P0607, first perform the trouble diagnosis for DTC P0607. Refer
 to EC-840, "DTC Logic".
 
-### Always drive vehicle at a safe speed.
 
 ### >> INSPECTION END
 
@@ -539551,7 +537154,6 @@ EC-920
 P1805 BRAKE SWITCH
 P1805 BRAKE SWITCH
 
-### DTC Logic
 
 ### Check 1st trip DTC.
 
@@ -539606,7 +537208,6 @@ NO
 >> Replace stop lamp switch. Refer to BR-18, "Exploded View".
 7.CHECK INTERMITTENT INCIDENT
 
-### Refer to GI-47, "Intermittent Incident".
 
 ### Existed
 
@@ -540365,7 +537966,6 @@ Terminal
 M9
 6
 
-### M107
 
 ### Revision: 2013 November
 
@@ -540658,7 +538258,6 @@ NO
 4.CHECK FOR INTAKE AIR LEAK
 1.
 
-### Start engine and run it at idle.
 
 ### Run engine for at least 10 minutes at idle speed.
 
@@ -540833,7 +538432,6 @@ P2A00, P2A03 A/F SENSOR 1
 EC-937
 < DTC/CIRCUIT DIAGNOSIS >
 
-### [VQ37VHR FOR MEXICO]
 
 ### Is “0.000” displayed?
 
@@ -540861,7 +538459,6 @@ Component Function Check
 INFOID:0000000010096885
 1.CHECK ASCD BRAKE SWITCH FUNCTION
 
-### With CONSULT
 
 ### Is the inspection result normal?
 
@@ -540981,7 +538578,6 @@ YES
 NO
 >> Perform trouble diagnosis for DTC UXXXX.
 
-### ASCD INDICATOR
 
 ### Revision: 2013 November
 
@@ -541060,7 +538656,6 @@ Check the continuity between cooling fan control module harness connector and gr
 3.
 Also check harness for short to power.
 
-### Is the inspection result normal?
 
 ### Connector
 
@@ -541092,7 +538687,6 @@ Check the continuity between IPDM E/R harness connector and cooling fan control 
 3.
 Also check harness for short to ground and short to power.
 
-### Is the inspection result normal?
 
 ### 6.CHECK COOLING FAN MOTORS -1 AND -2
 
@@ -541160,7 +538754,6 @@ NO
 10.CHECK COOLING FAN RELAY
 Refer to EC-944, "Component Inspection (Cooling Fan Relay)".
 
-### Component Inspection (Cooling Fan Motor)
 
 ### 2014 Q70
 
@@ -541224,7 +538817,6 @@ INFOID:0000000010096894
 The electrical load signal (Headlamp switch signal, rear window defogger switch signal, etc.) is transferred via
 the CAN communication line.
 
-### Component Function Check
 
 ### Is the inspection result normal?
 
@@ -541455,7 +539047,6 @@ INFOID:0000000010096901
 Turn ignition switch OFF.
 2.
 
-### Disconnect ECM harness connector.
 
 ### JMBIA0849ZZ
 
@@ -541497,7 +539088,6 @@ NO
 Turn ignition switch OFF.
 2.
 
-### Disconnect 15A fuse (No. 41) from IPDM E/R.
 
 ### Revision: 2013 November
 
@@ -541611,7 +539201,6 @@ NO
 Turn ignition switch OFF.
 2.
 
-### Disconnect condenser harness connector.
 
 ### Turn ignition switch OFF.
 
@@ -541728,7 +539317,6 @@ NO
 11.CHECK IGNITION COIL WITH POWER TRANSISTOR
 Refer to EC-955, "Component Inspection (Ignition Coil with Power Transistor)".
 
-### Component Inspection (Ignition Coil with Power Transistor)
 
 ### Terminals
 
@@ -541747,7 +539335,6 @@ IGNITION SIGNAL
 3.
 Remove fuel pump fuse (1) in IPDM E/R (2) to release fuel pressure.
 
-### Component Inspection (Condenser)
 
 ### >> INSPECTION END
 
@@ -542240,9 +539827,6 @@ YES
 NO
 >> GO TO 5.
 
-### 5.DETECT MALFUNCTIONING PART
-
-### Continuity
 
 ### < SYMPTOM DIAGNOSIS >
 
@@ -542258,7 +539842,6 @@ Reference
 page
 HARD/NO START/RESTART (EXCP. HA)
 
-### ENGINE STALL
 
 ### EXCESSIVE OIL CONSUMPTION
 
@@ -542634,7 +540217,6 @@ N
 P
 O
 
-### NORMAL OPERATING CONDITION
 
 ### Revision: 2013 November
 
@@ -542890,7 +540472,6 @@ INFOID:0000000010096923
 • Electric load: OFF (Lights, heater fan & rear window defogger)
 • Steering wheel: Kept in straight-ahead position
 
-### Ignition Timing
 
 ### INFOID:0000000010096925
 
@@ -542948,9 +540529,6 @@ PRECAUTION
 PRECAUTIONS
 Precaution for Supplemental Restraint System (SRS) "AIR BAG" and "SEAT BELT
 
-### PRE-TENSIONER"
-
-### Precaution for Procedure without Cowl Top Cover
 
 ### PIIB3706J
 
@@ -542981,7 +540559,6 @@ cause the MIL to illuminate due to the malfunction of the EVAP system or fuel in
 • Always erase the unnecessary malfunction information (repairs completed) from the ECM and TCM
 (Transmission control module) before returning the vehicle to the customer.
 
-### SEF289H
 
 ### - ECM (1)
 
@@ -542991,7 +540568,6 @@ from ECM, never damage pin terminals (bends or break).
 Check that there are not any bends or breaks on ECM pin terminal, when connecting pin connectors.
 • Securely connect ECM harness connectors.
 
-### A poor connection can cause an extremely high (surge) volt-
 
 ### SEF289H
 
@@ -543007,7 +540583,6 @@ PRECAUTIONS
 • Before replacing ECM, perform ECM Terminals and Reference
 Value inspection and check that ECM functions properly.
 
-### Refer to EC-1049, "Reference Value".
 
 ### Confirmation Procedure or Component Function Check.
 
@@ -543057,7 +540632,6 @@ control systems depending on installation location.
 - Keep the antenna feeder line more than 20 cm (8 in) away
 from the harness of electronic controls.
 
-### Never let them run parallel for a long distance.
 
 ### < PREPARATION >
 
@@ -543072,7 +540646,6 @@ Tool number
 Tool name
 Description
 
-### KV10120000
 
 ### Fuel filler cap adapter
 
@@ -543133,7 +540706,6 @@ COMPONENT PARTS
 ENGINE CONTROL SYSTEM
 ENGINE CONTROL SYSTEM : Component Parts Location
 
-### INFOID:0000000010096934
 
 ### ST-73, "AWD : Exploded View"
 
@@ -543535,7 +541107,6 @@ Location".
 AV control unit
 Refer to AV-11, "Component Parts
 
-### Location" (BASE AUDIO WITHOUT
 
 ### DAS-14, "Component Parts Loca-
 
@@ -543552,7 +541123,6 @@ Description
 Drive mode select switch
 Transmits an ON/OFF state signal of STANDARD, SPORT, ECO, or SNOW mode to the A/C auto amp.
 
-### A/C auto amp.
 
 ### Revision: 2013 November
 
@@ -543564,9 +541134,6 @@ COMPONENT PARTS
 *: ECO pedal control is only for vehicles with intelligent pedal (distance control assist).
 Accelerator Pedal Position Sensor
 
-### INFOID:0000000010096938
-
-### Air Fuel Ratio (A/F) Sensor 1
 
 ### A/F SENSOR 1 HEATER
 
@@ -543633,7 +541200,6 @@ ECM sends the calculated value as the power generation command
 value to IPDM E/R. For the details of the power generation voltage
 variable control, refer to CHG-9, "POWER GENERATION VOLTAGE
 
-### Camshaft Position Sensor
 
 ### JSBIA0483ZZ
 
@@ -543654,11 +541220,6 @@ EC-992
 < SYSTEM DESCRIPTION >
 [VK56VD FOR USA AND CANADA]
 
-### COMPONENT PARTS
-
-### COOLING FAN MOTOR
-
-### INFOID:0000000010096945
 
 ### ECM receives the signals as shown in the figure.
 
@@ -543817,7 +541378,6 @@ This solenoid valve is used only for diagnosis, and usually remains
 opened.
 When the vent is closed, under normal purge conditions, the evaporative emission control system is depressurized and allows “EVAP
 
-### Control System” diagnosis.
 
 ### Engine oil temperature
 
@@ -543917,7 +541477,6 @@ COMPONENT PARTS
 EC-997
 < SYSTEM DESCRIPTION >
 
-### [VK56VD FOR USA AND CANADA]
 
 ### HEATED OXYGEN SENSOR 2 HEATER
 
@@ -543925,9 +541484,6 @@ Heated oxygen sensor 2 heater is integrated in the sensor.
 The ECM performs ON/OFF control of the heated oxygen sensor 2 heater corresponding to the engine speed,
 amount of intake air and engine coolant temperature.
 
-### High Pressure Fuel Pump
-
-### Operating Description
 
 ### JSBIA0285GB
 
@@ -543951,7 +541507,6 @@ measures fuel pressure in the fuel rail. The sensor transmits voltage
 signal to the ECM. As the pressure increases, the voltage rises. The
 ECM controls the fuel pressure in the fuel rail by operating high pressure fuel pump. The ECM uses the signal from fuel rail pressure sensor as a feedback signal.
 
-### ICC Brake Switch
 
 ### ICC Steering Switch
 
@@ -543992,7 +541547,6 @@ power transistor. The power transistor turns ON and OFF the ignition
 coil primary circuit. This ON/OFF operation induces the proper high
 voltage in the coil secondary circuit.
 
-### Information Display
 
 ### CEL is indicated on the information display.
 
@@ -544004,7 +541558,6 @@ The intake valve timing control solenoid valve changes the oil
 amount and direction of flow through intake valve timing control unit
 or stops oil flow.
 
-### The longer pulse width advances valve angle.
 
 ### PBID0206J
 
@@ -544028,7 +541581,6 @@ INFOID:0000000010096969
 The low pressure fuel pump is integrated with a fuel pressure regulator and a fuel filter. This pump is build into the fuel tank.
 ECM controls the low pressure fuel pump via FPCM.
 
-### Malfunction Indicator Lamp (MIL)
 
 ### For details, refer to EC-1027, "Diagnosis Description".
 
@@ -544088,11 +541640,6 @@ resistance of the thermistor decreases in response to the rise in temperature.
 <Reference data>
 *: These data are reference values and are measured between ECM terminals.
 
-### Power Steering Pressure (PSP) Sensor
-
-### Refrigerant Pressure Sensor
-
-### Stop Lamp Switch
 
 ### PBIA9559J
 
@@ -544116,7 +541663,6 @@ EC-1002
 < SYSTEM DESCRIPTION >
 [VK56VD FOR USA AND CANADA]
 
-### COMPONENT PARTS
 
 ### VVEL control shaft position sensor signal.
 
@@ -544126,7 +541672,6 @@ Power supply for the VVEL actuator motor is provided to the VVEL control module 
 relay. VVEL actuator motor relay is ON/OFF controlled by the VVEL control module. In addition, when the
 VVEL actuator motor relay cannot be controlled by the VVEL control module for some reason, it ON/OFF controlled by ECM.
 
-### VVEL Control Module
 
 ### JMBIA0879ZZ
 
@@ -544175,7 +541720,6 @@ Revision: 2013 November
 EC-1004
 < SYSTEM DESCRIPTION >
 
-### [VK56VD FOR USA AND CANADA]
 
 ### PBIB1068E
 
@@ -544264,7 +541808,6 @@ ECM memory. The program value is preset by engine operating conditions. These co
 by input signals (for engine speed and intake air and fuel rail pressure) from the crankshaft position sensor,
 camshaft position sensor, mass air flow sensor and the fuel rail pressure sensor.
 
-### VARIOUS FUEL INJECTION INCREASE/DECREASE COMPENSATION
 
 ### FUEL INJECTION CONTROL
 
@@ -544288,7 +541831,6 @@ Camshaft position sensor
 Camshaft position
 Mass air flow sensor
 
-### Amount of intake air
 
 ### Fuel rail pressure
 
@@ -544327,9 +541869,6 @@ Homogeneous Combustion
 Homogeneous combustion is a combustion method that fuel is injected during intake process so that combustion occurs in the entire combustion chamber, as is common with conventional methods.
 As for a start except for starts with the engine cold, homogeneous combustion occurs.
 
-### MIXTURE RATIO FEEDBACK CONTROL (CLOSED LOOP CONTROL)
-
-### MIXTURE RATIO SELF-LEARNING CONTROL
 
 ### FUEL INJECTION TIMING
 
@@ -544539,7 +542078,6 @@ ELECTRIC IGNITION SYSTEM : System Diagram
 INFOID:0000000010096990
 ELECTRIC IGNITION SYSTEM : System Description
 
-### INFOID:0000000010096991
 
 ### Ignition order: 1 - 8 - 7 - 3 - 6 - 5 - 4 - 2
 
@@ -544692,9 +542230,6 @@ Exhaust valve timing control
 solenoid valve
 Camshaft position sensor
 
-### Engine oil temperature sensor
-
-### [VK56VD FOR USA AND CANADA]
 
 ### Control shaft
 
@@ -544728,7 +542263,6 @@ INPUT/OUTPUT SIGNAL CHART
 *1: ECM determines the start signal status by the signals of engine speed and battery voltage.
 *2: This signal is sent to the ECM via the CAN communication line.
 
-### Density of oxygen in exhaust gas
 
 ### 2014 Q70
 
@@ -544784,7 +542318,6 @@ SYSTEM
 *1: The ECM determines the start signal status by the signals of engine speed and battery voltage.
 *2: This signal is sent to ECM via the CAN communication line.
 
-### ALTERNATOR POWER GENERATION VOLTAGE VARIABLE CONTROL SYS-
 
 ### Diagram".
 
@@ -544876,7 +542409,6 @@ operating instructions.
 > Each control unit transmits/receives data but selectively reads required data only.
 > Refer to LAN-34, "CAN COMMUNICATION SYSTEM : CAN Communication Signal Chart", about CAN communication for detail.
 
-### FUEL FILLER CAP WARNING SYSTEM
 
 ### ASCD steering switch
 
@@ -544902,9 +542434,6 @@ FUEL FILLER CAP WARNING SYSTEM : System Description
 INFOID:0000000010097007
 INPUT/OUTPUT SIGNAL CHART
 
-### Input
-
-### Unit/Sensor
 
 ### JSBIA1456GB
 
@@ -544942,7 +542471,6 @@ O
 > Infiniti Drive Mode Selector
 > Infiniti Drive Mode Selector : System Description
 
-### INFOID:0000000010097008
 
 ### Control
 
@@ -545141,7 +542669,6 @@ DIAGNOSIS SYSTEM (ECM)
 DIAGNOSIS DESCRIPTION
 DIAGNOSIS DESCRIPTION : 1st Trip Detection Logic and Two Trip Detection Logic
 
-### DIAGNOSIS DESCRIPTION : DTC and Freeze Frame Data
 
 ### Items
 
@@ -545199,11 +542726,6 @@ Except above
 Revision: 2013 November
 2014 Q70
 
-### DIAGNOSIS SYSTEM (ECM)
-
-### ECM memory.
-
-### Priority
 
 ### Revision: 2013 November
 
@@ -545266,7 +542788,6 @@ System”
 Driving Pattern A
 Refer to EC-1032, "DIAGNOSIS DESCRIPTION : Driving Pattern".
 
-### Driving Pattern B
 
 ### Revision: 2013 November
 
@@ -545293,9 +542814,6 @@ P
 O
 Calculated load value: (Calculated load value in the freeze frame data) x (1±0.1) [%]
 
-### DIAGNOSIS DESCRIPTION : System Readiness Test (SRT) Code
-
-### Revision: 2013 November
 
 ### INFOID:0000000010097018
 
@@ -545336,9 +542854,6 @@ DIAGNOSIS SYSTEM (ECM)
 EC-1035
 < SYSTEM DESCRIPTION >
 
-### INFOID:0000000010097019
-
-### On Board Diagnosis Function
 
 ### Operation Procedure
 
@@ -545380,9 +542895,6 @@ Description
 In this function ECM turns on or blinks MIL when it detects a malfunction in the emission control system components and/or the powertrain control components (which affect vehicle emissions) to inform the driver that a
 malfunction has been detected.
 
-### Operation Procedure
-
-### SELF-DIAGNOSTIC RESULTS MODE
 
 ### ECM has entered to “Self-diagnostic results” mode.
 
@@ -545457,11 +542969,6 @@ EC-1038
 DIAGNOSIS SYSTEM (ECM)
 In this way, all the detected malfunctions are classified by their DTC numbers. The DTC 0000 refers to no malfunction. Refer to EC-1077, "DTC Index".
 
-### Turn ignition switch OFF and wait at least 10 seconds.
-
-### CONSULT Function
-
-### SELF DIAGNOSTIC RESULT MODE
 
 ### Diagnostic test mode
 
@@ -545472,9 +542979,6 @@ can be read and erased quickly.*
 Data Monitor
 Input/Output data in the ECM can be read.
 
-### Work support
-
-### ECU Identification
 
 ### < SYSTEM DESCRIPTION >
 
@@ -545522,7 +543026,6 @@ EC-1077, "DTC Index".)
 CAL/LD VALUE [%]
 • The calculated load value at the moment a malfunction is detected is displayed.
 
-### COOLANT TEMP [°C]
 
 ### S-FUEL TRM-B2 [%]
 
@@ -545739,7 +543242,6 @@ ON/OFF
 sensor 2 heater determined by ECM according to
 the input signals.
 
-### OFF: Power generation voltage variable control
 
 ### IDL A/V LEARN
 
@@ -546091,7 +543593,6 @@ Displays a determined value of atmospheric correction factor necessary for corre
 signal input to ECM. The signal used for the correction is an A/F sensor signal transmitted while driving
 under atmospheric pressure.
 
-### Monitored item
 
 ### EVAP SYSTEM CLOSE
 
@@ -546129,7 +543630,6 @@ CLSD THL POS LEARN
 When learning the throttle valve
 closed position
 
-### SAVING DATA FOR REPLC CPU
 
 ### Revision: 2013 November
 
@@ -546181,7 +543681,6 @@ If malfunctioning symptom disappears, see CHECK ITEM.
 • Fuel injector
 • Air fuel ratio (A/F) sensor 1
 
-### FUEL/T TEMP
 
 ### SULT.
 
@@ -546291,7 +543790,6 @@ O
 Test Item
 *: DTC P1456 does not apply to Y51 models but appears in DTC Work Support Mode screens.
 
-### SRT & P-DTC MODE
 
 ### PERMANENT DTC STATUS Mode
 
@@ -546413,9 +543911,6 @@ NOTE:
 • Numerical values in the following table are reference values.
 • These values are input/output values that ECM receives/transmits and may differ from actual operations.
 
-### Example:
-
-### CONSULT MONITOR ITEM
 
 ### MAS A/F SE-B2
 
@@ -546532,7 +544027,6 @@ HEATER FAN SW
 • Engine: After warming up, idle
 the engine
 
-### Blower fan switch: ON
 
 ### Idle
 
@@ -546751,7 +544245,6 @@ VHCL SPEED SE
 Almost the same speed as
 the speedometer indication
 
-### BRAKE SW1
 
 ### DIST SW
 
@@ -546862,7 +544355,6 @@ TP SEN 1-B2
 (Engine stopped)
 • Selector lever: D position
 
-### Accelerator pedal: Fully released
 
 ### Accelerator pedal: Fully depressed
 
@@ -547064,7 +544556,6 @@ Not used.
 —
 THRTL STK CNT B2
 
-### HO2 S2 DIAG2 (B2)
 
 ### IMCMP
 
@@ -547316,7 +544807,6 @@ O
 (B)
 Fuel injector No. 3 (HI)
 
-### Fuel injector No. 2 (HI)
 
 ### BATTERY VOLTAGE
 
@@ -547720,7 +545210,6 @@ Fuel injector driver power supply
 Input
 [Ignition switch: ON]
 
-### BATTERY VOLTAGE
 
 ### 10 V
 
@@ -547884,7 +545373,6 @@ Revision: 2013 November
 EC-1062
 < ECU DIAGNOSIS INFORMATION >
 
-### [VK56VD FOR USA AND CANADA]
 
 ### 7 - 12 V
 
@@ -548018,7 +545506,6 @@ Output
 • Accelerator pedal: In the middle of
 releasing operation
 
-### 0 - 14 V
 
 ### BATTERY VOLTAGE
 
@@ -548273,7 +545760,6 @@ Sensor power supply
 69
 (O/L)
 
-### Sensor power supply
 
 ### Crankshaft position sensor
 
@@ -548295,7 +545781,6 @@ on rpm at idle
 Heated oxygen sensor 2 (bank
 2)
 
-### Input
 
 ### 0 - 1.0 V
 
@@ -548400,7 +545885,6 @@ Input
 > 68
 > (L)
 
-### Camshaft position sensor
 
 ### Description
 
@@ -548443,7 +545927,6 @@ O
 100
 (P)
 
-### Heated oxygen sensor 2 (bank
 
 ### 0 - 1.0 V
 
@@ -548493,7 +545976,6 @@ NOTE:
 The pulse cycle changes depending
 on rpm at idle
 
-### BATTERY VOLTAGE
 
 ### JPBIA3347ZZ
 
@@ -548532,7 +546014,6 @@ Output
 > (B)
 > High pressure fuel pump (HI)
 
-### Input
 
 ### BATTERY VOLTAGE
 
@@ -548553,7 +546034,6 @@ NOTE:
 The pulse cycle changes depending
 on rpm at idle
 
-### BATTERY VOLTAGE
 
 ### JPBIA3356ZZ
 
@@ -548590,7 +546070,6 @@ O
 175
 (B)
 
-### Fuel injector No. 1 (LO)
 
 ### BATTERY VOLTAGE
 
@@ -549262,9 +546741,6 @@ FRP control system
 • Engine torque is limited.
 • VVEL value is maintained at a fixed angle.
 
-### P0102
-
-### Condition
 
 ### Revision: 2013 November
 
@@ -549317,7 +546793,6 @@ Injector
 • Mixture ratio feedback control does not function.
 • Idle engine speed is increased.
 
-### P0500
 
 ### ECM deactivates ASCD operation.
 
@@ -549344,7 +546819,6 @@ Sensor power supply
 ECM stops the electric throttle control actuator control, throttle valve is maintained at a
 fixed opening (approx. 5 degrees) by the return spring.
 
-### VVEL value is maintained at a fixed angle.
 
 ### P1091
 
@@ -549395,7 +546869,6 @@ function
 ECM stops the electric throttle control actuator control, throttle valve is maintained at a
 fixed opening (approx. 5 degrees) by the return spring.
 
-### P1236
 
 ### Therefore, the acceleration will be poor.
 
@@ -551427,7 +548900,6 @@ O
 *8: When the ECM is in the mode that displays SRT status, MIL may blink. For the details, refer to “How to Display SRT Status”.
 *9: When erasing this DTC, always use CONSULT or GST.
 
-### Test Value and Test Limit
 
 ### P2096
 
@@ -551894,7 +549366,6 @@ BATTERY VOLTAGE
 (L/B)
 14
 
-### (B/R)
 
 ### VVEL control shaft position
 
@@ -552787,7 +550258,6 @@ Study the relationship between the cause detected by DTC and the symptom describ
 3.
 Check related service bulletins for information.
 
-### Are any symptoms described and any DTCs detected?
 
 ### Diagnosis Work Sheet is useful to verify the incident.
 
@@ -553098,7 +550568,6 @@ Check the Following.
 • Check camshaft position sensor and circuit. Refer to EC-1322, "DTC Logic".
 • Check crankshaft position sensor and circuit. Refer to EC-1318, "DTC Logic".
 
-### Is the inspection result normal?
 
 ### SEC-53, "ECM : Work Procedure".
 
@@ -553313,7 +550782,6 @@ Refer to SEC-53, "ECM : Work Procedure".
 7.CHECK ECM DATA STATUS
 Check if the data is successfully copied from the ECM at Step 1 (before replacement) and saved in CONSULT.
 
-### Is the data saved successfully?
 
 ### >> GO TO 10.
 
@@ -553428,7 +550896,6 @@ Accelerator Pedal Released Position Learning is a function of ECM to learn the f
 accelerator pedal by monitoring the accelerator pedal position sensor output signal. It must be performed each
 time the harness connector of the accelerator pedal position sensor or ECM is disconnected.
 
-### Work Procedure
 
 ### Turn ignition switch OFF and wait at least 10 seconds.
 
@@ -553446,7 +550913,6 @@ Throttle Valve Closed Position Learning is a function of ECM to learn the fully 
 valve by monitoring the throttle position sensor output signal. It must be performed each time the harness connector of the electric throttle control actuator or ECM is disconnected or electric throttle control actuator inside
 is cleaned.
 
-### Work Procedure
 
 ### Without CONSULT
 
@@ -553487,9 +550953,6 @@ N
 P
 O
 
-### IDLE AIR VOLUME LEARNING
-
-### Work Procedure
 
 ### Will CONSULT be used?
 
@@ -553564,9 +551027,6 @@ Rev up engine two or three times and check that idle speed and ignition timing a
 For procedure, refer to EC-1569, "Idle Speed" and EC-1569, "Ignition Timing".
 For specifications, refer to EC-1569, "Idle Speed" and EC-1569, "Ignition Timing".
 
-### Is the inspection result normal?
-
-### Is the inspection result normal?
 
 ### >> INSPECTION END
 
@@ -553602,7 +551062,6 @@ VVEL control shaft position sensor adjustment is an operation to adjust the init
 shaft position sensor.
 It must be performed each time VVEL actuator sub assembly is replaced.
 
-### Work Procedure
 
 ### Touch “Start” and wait a few seconds.
 
@@ -553641,7 +551100,6 @@ Without CONSULT
 Disconnect VVEL control shaft position sensor harness connector.
 2.
 
-### Remove VVEL actuator motor relay.
 
 ### < BASIC INSPECTION >
 
@@ -553751,7 +551209,6 @@ FUEL PRESSURE
 Work Procedure
 INFOID:0000000010097048
 
-### FUEL PRESSURE RELEASE
 
 ### Turn ignition switch OFF.
 
@@ -553814,7 +551271,6 @@ Disconnect fuel feed hose from fuel tube. Refer to EM-200, "Exploded View".
 > EC-1145
 > < BASIC INSPECTION >
 
-### [VK56VD FOR USA AND CANADA]
 
 ### N4710 or 16439 40U00).
 
@@ -554068,7 +551524,6 @@ NO-1
 NO-2
 >> Without CONSULT: GO TO 4.
 
-### 3.DTC CONFIRMATION PROCEDURE
 
 ### Check DTC.
 
@@ -554204,7 +551659,6 @@ INFOID:0000000010097052
 When a DTC is stored in ECM
 When a DTC is stored in ECM and MIL is ON, a permanent DTC is erased with MIL shutoff if the same malfunction is not detected after performing the driving pattern for MIL shutoff three times in a raw.
 
-### When a DTC is not stored in ECM
 
 ### PERMANENT DTC ITEM
 
@@ -554280,7 +551734,6 @@ YES
 >> Repair malfunction(s) and erase DTC. Refer to EC-1035, "On Board Diagnosis Function", EC1038, "CONSULT Function".
 NO
 
-### >> GO TO 2.
 
 ### Is any permanent DTC detected?
 
@@ -554293,7 +551746,6 @@ Perform “DTC CONFIRMATION PROCEDURE” for DTCs which are the same as permanen
 ECM. Refer to EC-1077, "DTC Index".
 >> GO TO 4.
 
-### 4.CHECK PERMANENT DTC
 
 ### Is any permanent DTC detected?
 
@@ -554362,7 +551814,6 @@ P
 O
 4.
 
-### Turn ignition switch ON.
 
 ### With CONSULT
 
@@ -554382,7 +551833,6 @@ Pattern".
 >> GO TO 4.
 4.CHECK PERMANENT DTC
 
-### Is any permanent DTC detected?
 
 ### Revision: 2013 November
 
@@ -554437,7 +551887,6 @@ the MIL.
 • MAS A/F SE-B1/B2 (The signal voltage of the mass air flow sensor)
 • IDLE FUEL PRES MAX/MIN (the signal voltage of the fuel rail pressure sensor)
 
-### Component Function Check
 
 ### >> GO TO 2.
 
@@ -554494,7 +551943,6 @@ N
 P
 O
 
-### DETAILED PROCEDURE
 
 ### JMBIA0056GB
 
@@ -554549,7 +551997,6 @@ Start engine.
 Select “A/F ALPHA-B1” and “A/F ALPHA-B2” in “SPEC” of “DATA MONITOR” mode, and check that each
 indication is within the SP value.
 
-### Is the measurement value within the SP value?
 
 ### >> INSPECTION END
 
@@ -554743,7 +552190,6 @@ Stop the engine.
 Disconnect mass air flow sensor harness connector. Check pin terminal and connector for damage and
 then reconnect it again.
 
-### >> GO TO 19.
 
 ### Logic". Then GO TO 26.
 
@@ -555105,7 +552551,6 @@ POWER SUPPLY AND GROUND CIRCUIT
 9.CHECK IGNITION SWITCH SIGNAL
 1.
 
-### Reconnect ECM harness connector.
 
 ### Disconnect IPDM E/R harness connector.
 
@@ -555559,7 +553004,6 @@ INFOID:0000000010097066
 Turn ignition switch OFF.
 2.
 
-### Is the inspection result normal?
 
 ### DTC No.
 
@@ -555685,7 +553129,6 @@ NOTE:
 If DTC P0011 or P0021 is displayed with DTC P0075 or P0081, first perform the trouble diagnosis for
 DTC P0075, P0081. Refer to EC-1190, "DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### >> GO TO 2.
 
@@ -555792,7 +553235,6 @@ O
 > NO
 > >> INSPECTION END
 
-### Diagnosis Procedure
 
 ### >> GO TO 2.
 
@@ -555883,7 +553325,6 @@ Disconnect intake valve timing control solenoid valve harness connector.
 3.
 Check resistance between intake valve timing control solenoid valve terminals as per the following.
 
-### Is the inspection result normal?
 
 ### JMBIA0962ZZ
 
@@ -555957,7 +553398,6 @@ NOTE:
 P0078, P0084. Refer to EC-1193, "DTC Logic".
 • If DTC P0014 or P0024 is displayed with DTC P1078, P1084 first perform trouble diagnosis for DTC
 
-### P1078, P1084. Refer to EC-1411, "DTC Logic".
 
 ### Hold the accelerator pedal as steady as possible.
 
@@ -556124,7 +553564,6 @@ YES
 NO
 >> Replace malfunctioning camshaft position sensor. Refer to EM-238, "Exploded View".
 
-### 6.CHECK CAMSHAFT (EXH)
 
 ### 7.CHECK TIMING CHAIN INSTALLATION
 
@@ -556158,7 +553597,6 @@ Disconnect exhaust valve timing control solenoid valve harness connector.
 3.
 Check resistance between exhaust valve timing control solenoid valve terminals as per the following.
 
-### Is the inspection result normal?
 
 ### JMBIA1571ZZ
 
@@ -556233,7 +553671,6 @@ DTC CONFIRMATION PROCEDURE
 Turn ignition switch OFF and wait at least 10 seconds.
 2.
 
-### Turn ignition switch ON.
 
 ### Start engine and let it idle for at least 10 seconds.
 
@@ -556371,9 +553808,6 @@ Check the following.
 • Loose or poor connection for each connector and harness
 >> Repair or replace harness or connectors.
 
-### Is the inspection result normal?
-
-### >> GO TO 6.
 
 ### >> INSPECTION END
 
@@ -556427,7 +553861,6 @@ P0031, P0032, P0051, P0052 A/F SENSOR 1 HEATER
 Is the inspection result normal?
 YES
 
-### >> INSPECTION END
 
 ### >> INSPECTION END
 
@@ -556460,7 +553893,6 @@ N
 P
 O
 
-### P0037, P0038, P0057, P0058 HO2S2 HEATER
 
 ### TESTING CONDITION:
 
@@ -556471,7 +553903,6 @@ Before performing the following procedure, confirm that battery voltage is 11 V 
 Start engine and warm it up to the normal operating temperature.
 2.
 
-### Turn ignition switch OFF and wait at least 10 seconds.
 
 ### Check 1st trip DTC.
 
@@ -556511,11 +553942,6 @@ through the heated oxygen sensor 2 heater.)
 circuit is open or shorted.)
 • Heated oxygen sensor 2 heater
 
-### P0038
-
-### P0057
-
-### P0058
 
 ### Revision: 2013 November
 
@@ -556549,7 +553975,6 @@ Refer to EC-1189, "Component Inspection (HO2 Sensor 2 Heater)".
 Is the inspection result normal?
 YES
 
-### >> GO TO 6.
 
 ### >> INSPECTION END
 
@@ -556798,7 +554223,6 @@ Refer to GI-47, "Intermittent Incident".
 >> INSPECTION END
 Component Inspection (Intake Valve Timing Control Solenoid Valve)
 
-### Is the inspection result normal?
 
 ### Is the inspection result normal?
 
@@ -556870,7 +554294,6 @@ P
 O
 P0078, P0084 EVT CONTROL SOLENOID VALVE
 
-### DTC Logic
 
 ### Is 1st trip DTC detected?
 
@@ -556991,9 +554414,6 @@ Disconnect exhaust valve timing control solenoid valve harness connector.
 3.
 Check resistance between exhaust valve timing control solenoid valve terminals as per the following.
 
-### Is the inspection result normal?
-
-### EVT control solenoid valve
 
 ### Revision: 2013 November
 
@@ -557148,7 +554568,6 @@ O
 Check that the low pressure fuel piping and hose have no breakage, bend, and crush. Refer to FL-4,
 "Inspection".
 
-### Is inspection result normal?
 
 ### 2014 Q70
 
@@ -557200,7 +554619,6 @@ Check the continuity between FPCM harness connector and fuel level sensor unit a
 harness connector.
 4.
 
-### Also check harness for short to ground and short to power.
 
 ### DTC No.
 
@@ -557288,7 +554706,6 @@ NO
 If DTC CONFIRMATION PROCEDURE has been previously conducted, always perform the following procedure before conducting the next test.
 1.
 
-### Turn ignition switch OFF and wait at least 10 seconds.
 
 ### >> GO TO 3.
 
@@ -557465,7 +554882,6 @@ Select “L/FUEL PRES SEN” in “DATA MONITOR” of “ECM” with CONSULT.
 4.
 Check the following value 30 minutes after turning the ignition switch ON.
 
-### WITHOUT CONSULT
 
 ### Is inspection result normal?
 
@@ -557502,7 +554918,6 @@ Select “L/FUEL PRES SEN” in “DATA MONITOR” mode of “ECM” using CONSU
 4.
 Check the following value 30 minutes after turning the ignition switch ON.
 
-### WITHOUT CONSULT
 
 ### Condition
 
@@ -557537,7 +554952,6 @@ YES
 NO
 >> Replace low pressure fuel pump. Refer to FL-6, "Removal and Installation".
 
-### Component Inspection (High Pressure Fuel Pump)
 
 ### Is the inspection result normal?
 
@@ -557641,9 +555055,6 @@ DTC DETECTION LOGIC
 NOTE:
 If DTC P0088 is displayed with DTC P0090, first perform the trouble diagnosis for DTC P0090.
 
-### DTC CONFIRMATION PROCEDURE
-
-### Turn ignition switch ON.
 
 ### >> GO TO 2.
 
@@ -557693,7 +555104,6 @@ HIGH FUEL PRES
 than 16.5 MPa (168.3 kg/cm2, 2392.5
 psi) for 1 second or more during engine idle condition after cold start [water temperature 5°C (41°F) - 40°C
 
-### (104°F)].
 
 ### Revision: 2013 November
 
@@ -557739,9 +555149,6 @@ YES
 NO
 >> Replace or replace the error-detected parts.
 
-### Component Inspection (High Pressure Fuel Pump)
-
-### Start the engine.
 
 ### Ground
 
@@ -557835,7 +555242,6 @@ EC-1206
 [VK56VD FOR USA AND CANADA]
 P0090 HIGH PRESSURE FUEL PUMP
 
-### P0090 HIGH PRESSURE FUEL PUMP
 
 ### >> GO TO 2.
 
@@ -557884,7 +555290,6 @@ FUEL PUMP
 seconds or more during engine rev.
 • Fuel rail pressure remains at 18.5
 
-### MPa (188.7 kg/ cm2, 2682.5 psi) or
 
 ### 2014 Q70
 
@@ -557925,7 +555330,6 @@ YES
 NO
 >> Replace the error-detected parts.
 
-### Component Inspection (High Pressure Fuel Pump)
 
 ### Start the engine.
 
@@ -558136,7 +555540,6 @@ Check the following.
 • Loose or poor connection for each connector and harness
 >> Repair or replace error-detected parts.
 
-### Is the inspection result normal?
 
 ### Voltage
 
@@ -558265,9 +555668,6 @@ YES
 NO
 >> Replace mass air flow sensor (bank 2). Refer to EM-191, "Removal and Installation".
 
-### Component Inspection (MAF Sensor)
-
-### Connect CONSULT and select “DATA MONITOR” mode.
 
 ### Reconnect all harness connectors disconnected.
 
@@ -558280,7 +555680,6 @@ Condition
 Indication (V)
 MAS A/F SE-B1
 
-### MAS A/F SE-B2
 
 ### Revision: 2013 November
 
@@ -558293,9 +555692,6 @@ P0101, P010B MAF SENSOR
 Is the inspection result normal?
 YES
 
-### >> INSPECTION END
-
-### >> GO TO 3.
 
 ### Condition
 
@@ -558318,9 +555714,6 @@ Idle (Engine is warmed-up to normal operating temperature.)
 operating temperature.)
 1.3 - 1.7
 
-### Idle to about 4,000 rpm
-
-### Idle to about 4,000 rpm
 
 ### Idle to about 4,000 rpm
 
@@ -558349,13 +555742,6 @@ P
 O
 *: Check for linear voltage rise in response to engine being increased to about 4,000 rpm.
 
-### Is the inspection result normal?
-
-### Connect CONSULT and select “DATA MONITOR” mode.
-
-### Idle to about 4,000 rpm
-
-### Idle to about 4,000 rpm
 
 ### Idle to about 4,000 rpm
 
@@ -558403,7 +555789,6 @@ Idle to about 4,000 rpm
 signal]
 30
 
-### Ignition switch ON (Engine stopped.)
 
 ### Revision: 2013 November
 
@@ -558674,7 +556059,6 @@ Connect CONSULT and select “DATA MONITOR” mode.
 Select “MAS A/F SE-B1” and “MAS A/F SE-B2”, and check the indication.
 *: Check for linear voltage rise in response to engine being increased to about 4,000 rpm.
 
-### WITHOUT CONSULT
 
 ### MAF sensor
 
@@ -558704,7 +556088,6 @@ MAS A/F SE-B1
 MAS A/F SE-B2
 Ignition switch ON (Engine stopped.)
 
-### Approx. 0.4
 
 ### 2014 Q70
 
@@ -558781,9 +556164,6 @@ P010A MANIFOLD ABSOLUTE PRESSURE SENSOR
 DTC Logic
 INFOID:0000000010097104
 
-### DTC DETECTION LOGIC
-
-### Turn ignition switch OFF and wait at least 10 seconds.
 
 ### >> INSPECTION END
 
@@ -558849,7 +556229,6 @@ P010A MANIFOLD ABSOLUTE PRESSURE SENSOR
 4.
 Also check harness for short to ground and short to power.
 
-### Is the inspection result normal?
 
 ### Also check harness for short to ground and short to power.
 
@@ -558872,7 +556251,6 @@ Refer to GI-47, "Intermittent Incident".
 >> INSPECTION END
 Component Inspection (MAP Sensor)
 
-### INFOID:0000000010097106
 
 ### Measure the atmospheric pressure.
 
@@ -559124,7 +556502,6 @@ Disconnect mass air flow sensor (bank 1) harness connector.
 3.
 Check resistance between mass air flow sensor (bank 1) terminals as follows.
 
-### Is the inspection result normal?
 
 ### Diagnosis Procedure
 
@@ -559183,7 +556560,6 @@ EC-1226
 P0112, P0113 IAT SENSOR
 P0112, P0113 IAT SENSOR
 
-### DTC Logic
 
 ### Is 1st trip DTC detected?
 
@@ -559370,7 +556746,6 @@ NO
 If DTC CONFIRMATION PROCEDURE has been previously conducted, always perform the following procedure before conducting the next test.
 1.
 
-### >> GO TO 4.
 
 ### Check 1st trip DTC.
 
@@ -559712,7 +557087,6 @@ If DTC P0122, P0123, P0227 or P0228 is displayed with DTC P0643, first perform t
 for DTC P0643. Refer to EC-1402, "DTC Logic".
 DTC CONFIRMATION PROCEDURE
 
-### 1.PRECONDITIONING
 
 ### >> GO TO 2.
 
@@ -559928,7 +557302,6 @@ N
 P
 O
 
-### Is the inspection result normal?
 
 ### Condition
 
@@ -559950,7 +557323,6 @@ Less than 4.75
 [TP sensor 1 (bank 2)]
 69
 
-### Accelerator pedal: Fully released
 
 ### Accelerator pedal: Fully released
 
@@ -560415,9 +557787,6 @@ INFOID:0000000010097133
 DTC DETECTION LOGIC
 To judge malfunctions, the diagnosis checks that the A/F signal computed by ECM from the A/F sensor 1 signal fluctuates according to fuel feedback control.
 
-### DTC CONFIRMATION PROCEDURE
-
-### >> GO TO 2.
 
 ### NO-1
 
@@ -560746,7 +558115,6 @@ YES
 NO
 >> Repair open circuit, short to ground or short to power in harness or connectors.
 
-### 4.CHECK INTERMITTENT INCIDENT
 
 ### >> INSPECTION END
 
@@ -560833,7 +558201,6 @@ sensor 1 signal is constantly approx. 0 V.
 shorted.)
 • A/F sensor 1
 
-### P0151
 
 ### Revision: 2013 November
 
@@ -560980,7 +558347,6 @@ YES
 NO
 >> Repair or replace malfunctioning part.
 
-### 5.REPLACE A/F SENSOR 1
 
 ### >> INSPECTION END
 
@@ -561206,7 +558572,6 @@ Refer to GI-47, "Intermittent Incident".
 Is the inspection result normal?
 YES
 
-### >> GO TO 5.
 
 ### >> INSPECTION END
 
@@ -561275,7 +558640,6 @@ Select “A/F SEN1(B1) P1278/P1279” (for DTC P0133) or “A/F SEN1(B2) P1288/P
 of “A/F SEN1” in “DTC WORK SUPPORT” mode with CONSULT.
 8.
 
-### Touch “START”.
 
 ### 4.PERFORM DTC CONFIRMATION PROCEDURE-II
 
@@ -561301,9 +558665,6 @@ shorted.)
 • Intake air leaks
 • Exhaust gas leaks
 
-### • PCV
-
-### [VK56VD FOR USA AND CANADA]
 
 ### SULT screen.
 
@@ -561315,9 +558676,6 @@ Touch “SELF-DIAG RESULT”.
 Which is displayed on CONSULT screen?
 OK
 
-### >> INSPECTION END
-
-### Is the total percentage within ±15%?
 
 ### 7.PERFORM DTC CONFIRMATION PROCEDURE
 
@@ -561479,7 +558837,6 @@ O
 5.
 Also check harness for short to power.
 
-### Is the inspection result normal?
 
 ### Also check harness for short to power.
 
@@ -561654,7 +559011,6 @@ Open engine hood.
 10. Select “HO2S2 (B1) P1147” (for DTC P0137) or “HO2S2 (B2) P1167” (for DTC P0157) of “HO2S2” in
 “DTC WORK SUPPORT” mode with CONSULT.
 
-### 11. Follow the instruction of CONSULT display.
 
 ### P0157
 
@@ -561682,7 +559038,6 @@ CAN NOT BE DIAGNOSED>>GO TO 3.
 Turn ignition switch OFF and leave the vehicle in a cool place (soak the vehicle).
 2.
 
-### Perform DTC confirmation procedure again.
 
 ### Is the inspection result normal?
 
@@ -561712,7 +559067,6 @@ Let engine idle for 1 minute.
 7.
 Check the voltage between ECM harness connector terminals under the following conditions.
 
-### Is the inspection result normal?
 
 ### Condition
 
@@ -561754,7 +559108,6 @@ P0157
 87
 Revision: 2013 November
 
-### 2014 Q70
 
 ### Is the inspection result normal?
 
@@ -561790,9 +559143,6 @@ Check the continuity between HO2S2 harness connector and ECM harness connector.
 5.
 Also check harness for short to ground and short to power.
 
-### Is the inspection result normal?
-
-### Condition
 
 ### P0157
 
@@ -561851,7 +559201,6 @@ Also check harness for short to power.
 Is the inspection result normal?
 YES
 
-### >> GO TO 4.
 
 ### >> INSPECTION END
 
@@ -561936,7 +559285,6 @@ Check “HO2S2 (B1)/(B2)” at idle speed when adjusting “FUEL INJECTION” to
 “HO2S2 (B1)/(B2)” should be below
 (0.18 V) at least once when the “FUEL INJECTION” is −25%.
 
-### Is the inspection result normal?
 
 ### Let engine idle for 1 minute.
 
@@ -562017,7 +559365,6 @@ P0137, P0157 HO2S2
 Is the inspection result normal?
 YES
 
-### >> INSPECTION END
 
 ### >> INSPECTION END
 
@@ -562067,7 +559414,6 @@ N
 P
 O
 
-### P0138, P0158 HO2S2
 
 ### MALFUNCTION A
 
@@ -562175,9 +559521,6 @@ WITH CONSULT
 > Turn ignition switch OFF and wait at least 10 seconds.
 > 3.
 
-### Turn ignition switch ON.
-
-### Select “DATA MONITOR” mode with CONSULT.
 
 ### 11. Follow the instruction of CONSULT display.
 
@@ -562247,7 +559590,6 @@ Let engine idle for 1 minute.
 7.
 Check the voltage between ECM harness connector terminals under the following conditions.
 
-### Is the inspection result normal?
 
 ### >> INSPECTION END
 
@@ -562359,7 +559701,6 @@ Disconnect ECM harness connector.
 Check the continuity between HO2S2 harness connector and ECM harness connector.
 3.
 
-### Also check harness for short to ground and short to power.
 
 ### Also check harness for short to power.
 
@@ -562615,7 +559956,6 @@ Will CONSULT be used?
 Will CONSULT be used?
 YES
 
-### Let engine idle for 1 minute.
 
 ### Is the inspection result normal?
 
@@ -562648,7 +559988,6 @@ NO
 >> GO TO 6.
 3.CHECK HEATED OXYGEN SENSOR 2-I
 
-### WITHOUT CONSULT
 
 ### Is the inspection result normal?
 
@@ -562741,7 +560080,6 @@ EC-1270
 < DTC/CIRCUIT DIAGNOSIS >
 [VK56VD FOR USA AND CANADA]
 
-### P0138, P0158 HO2S2
 
 ### >> INSPECTION END
 
@@ -562841,7 +560179,6 @@ CAN NOT BE DIAGNOSED>>GO TO 3.
 Turn ignition switch OFF and leave the vehicle in a cool place (soak the vehicle).
 2.
 
-### Perform DTC confirmation procedure again.
 
 ### Is the inspection result normal?
 
@@ -562897,7 +560234,6 @@ P0159
 87
 Revision: 2013 November
 
-### 2014 Q70
 
 ### Is the inspection result normal?
 
@@ -562933,7 +560269,6 @@ Disconnect ECM harness connector.
 Check the continuity between HO2S2 harness connector and ECM harness connector.
 5.
 
-### Also check harness for short to ground and short to power.
 
 ### Condition
 
@@ -563132,7 +560467,6 @@ N
 P
 O
 
-### P0171, P0174 FUEL INJECTION SYSTEM FUNCTION
 
 ### Turn ignition switch ON.
 
@@ -563157,7 +560491,6 @@ NO
 Keep engine idle for at least 5 minutes.
 2.
 
-### Check 1st trip DTC.
 
 ### DTC detecting condition
 
@@ -563288,7 +560621,6 @@ Check the continuity between A/F sensor 1 harness connector and ground, or ECM h
 and ground.
 6.
 
-### Also check harness for short to power.
 
 ### Is the inspection result normal?
 
@@ -563327,7 +560659,6 @@ NO
 >> Check connectors for rusted terminals or loose connections in the mass air flow sensor circuit or
 grounds. Refer to EC-1216, "Diagnosis Procedure".
 
-### 7.CHECK FUNCTION OF FUEL INJECTOR
 
 ### Connector
 
@@ -563415,7 +560746,6 @@ P
 O
 P0172, P0175 FUEL INJECTION SYSTEM FUNCTION
 
-### DTC Logic
 
 ### Do not depress accelerator pedal too much.
 
@@ -563588,7 +560918,6 @@ A/F sensor 1
 ECM
 Continuity
 
-### Bank
 
 ### F111
 
@@ -563665,7 +560994,6 @@ DTC DETECTION LOGIC
 DTC CONFIRMATION PROCEDURE
 1.INSPECTION START
 
-### Is it necessary to erase permanent DTC?
 
 ### Turn ignition switch ON.
 
@@ -563773,7 +561101,6 @@ NO
 If DTC CONFIRMATION PROCEDURE has been previously conducted, always perform the following procedure before conducting the next test.
 1.
 
-### >> GO TO 8.
 
 ### Check 1st trip DTC.
 
@@ -563819,7 +561146,6 @@ O
 Check resistance between “fuel level sensor unit and fuel pump
 (main)” terminals by heating with hot water as shown in the figure.
 
-### Is the inspection result normal?
 
 ### Diagnosis Procedure
 
@@ -563922,7 +561248,6 @@ YES
 NO
 >> Replace fuel level sensor unit and fuel pump (main). Refer to FL-6, "Removal and Installation".
 
-### 8.CHECK INTERMITTENT INCIDENT
 
 ### Is the inspection result normal?
 
@@ -564103,7 +561428,6 @@ YES
 NO
 >> Replace “fuel level sensor unit and fuel pump”. Refer to FL-6, "Removal and Installation".
 
-### 7.CHECK INTERMITTENT INCIDENT
 
 ### Is the inspection result normal?
 
@@ -564209,7 +561533,6 @@ Inspection result normal?
 DTC No.
 Trouble diagnosis name
 
-### DTC detecting condition
 
 ### P0192
 
@@ -564369,11 +561692,6 @@ NO
 6.CHECK FRP SENSOR SIGNAL CIRCUIT
 1.
 
-### Turn ignition switch OFF.
-
-### >> GO TO 7.
-
-### Component Inspection (Fuel Rail Pressure Sensor)
 
 ### WITHOUT CONSULT
 
@@ -564402,7 +561720,6 @@ M160
 +
 −
 
-### Continuity
 
 ### Revision: 2013 November
 
@@ -564593,7 +561910,6 @@ Ground
 5 V
 ECM
 
-### Sensor
 
 ### Connector
 
@@ -564628,9 +561944,6 @@ Check the continuity between FRP sensor harness connector and ECM harness connec
 4.
 Also check harness for short to ground and to power.
 
-### Is inspection result normal?
-
-### Component Inspection (Fuel Rail Pressure Sensor)
 
 ### Revision: 2013 November
 
@@ -564836,7 +562149,6 @@ NO
 If DTC CONFIRMATION PROCEDURE has been previously conducted, always perform the following procedure before conducting the next test.
 1.
 
-### >> GO TO 7.
 
 ### Turn ignition switch OFF and soak the vehicle for 12 hours.
 
@@ -565053,7 +562365,6 @@ is sent to ECM.
 (The EOT sensor circuit is open or shorted.)
 • Engine oil temperature sensor
 
-### P0198
 
 ### Continuity
 
@@ -565131,7 +562442,6 @@ EC-1306
 P0201, P0202, P0203, P0204, P0205, P0206, P0207, P0208 INJECTOR
 P0201, P0202, P0203, P0204, P0205, P0206, P0207, P0208 INJECTOR
 
-### DTC Logic
 
 ### TESTING CONDITION:
 
@@ -565232,7 +562542,6 @@ N
 P
 O
 
-### P0222, P0223, P2132, P2133 TP SENSOR
 
 ### >> GO TO 2.
 
@@ -565665,7 +562974,6 @@ Perform “POWER BALANCE” in “ACTIVE TEST” mode with CONSULT.
 3.
 Check that each circuit produces a momentary engine speed drop.
 
-### Is the inspection result normal?
 
 ### 5.CHECK FUNCTION OF IGNITION COIL-I
 
@@ -566217,7 +563525,6 @@ EC-1318
 P0335 CKP SENSOR
 P0335 CKP SENSOR
 
-### DTC Logic
 
 ### TESTING CONDITION:
 
@@ -566331,7 +563638,6 @@ Disconnect ECM harness connector.
 3.
 Check the continuity between CKP sensor harness connector and ECM harness connector.
 
-### Is the inspection result normal?
 
 ### >> GO TO 4.
 
@@ -566471,7 +563777,6 @@ NO
 10.CHECK GEAR TOOTH
 Visually check for chipping signal plate gear tooth.
 
-### Is the inspection result normal?
 
 ### INFOID:0000000010097190
 
@@ -566579,9 +563884,6 @@ NOTE:
 If DTC P0345 is displayed with DTC P0643, first perform the trouble diagnosis for DTC P0643. Refer to
 EC-1402, "DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
-
-### >> GO TO 2.
 
 ### >> GO TO 3.
 
@@ -566958,7 +564260,6 @@ Loosen the fixing bolt of the sensor.
 Disconnect camshaft position sensor harness connector.
 4.
 
-### Remove the sensor. Refer to EM-238, "Exploded View".
 
 ### CMP sensor
 
@@ -567158,7 +564459,6 @@ Perform component function check. Refer to EC-1328, "Component Function Check".
 > NO
 > >> Proceed to EC-1329, "Diagnosis Procedure"
 
-### Component Function Check
 
 ### Let engine idle for 1 minute.
 
@@ -567425,7 +564725,6 @@ Trouble diagnosis name
 (Trouble diagnosis content)
 DTC detecting condition
 
-### Possible cause
 
 ### Revision: 2013 November
 
@@ -567556,7 +564855,6 @@ Turn ignition switch OFF.
 2.
 Check EVAP canister for cracks.
 
-### Is the inspection result normal?
 
 ### Start engine and let it idle.
 
@@ -567668,7 +564966,6 @@ Disconnect purge hoses connected to EVAP service port (A)
 and EVAP canister purge volume control solenoid valve (B).
 2.
 
-### Blow air into each hose and EVAP purge port (C).
 
 ### >> GO TO 8.
 
@@ -567779,7 +565076,6 @@ N
 P
 O
 
-### P0443 EVAP CANISTER PURGE VOLUME CONTROL SOLENOID VALVE
 
 ### Turn ignition switch OFF and wait at least 10 seconds.
 
@@ -568170,7 +565466,6 @@ O
 6.
 Touch “Qd” and “Qu” on CONSULT screen to adjust “PURG
 
-### VOL C/V” opening and check air passage continuity of EVAP
 
 ### Check air passage continuity of EVAP canister purge volume
 
@@ -568196,7 +565491,6 @@ P0444, P0445 EVAP CANISTER PURGE VOLUME CONTROL SOLENOID
 VALVE
 P0444, P0445 EVAP CANISTER PURGE VOLUME CONTROL SOLENOID
 
-### VALVE
 
 ### TESTING CONDITION:
 
@@ -568240,7 +565534,6 @@ Check the following.
 • Loose or poor connection for each connector and harness
 • Harness for open or short between EVAP canister purge volume control solenoid valve and IPDM E/R
 
-### DTC No.
 
 ### P0445
 
@@ -568289,7 +565582,6 @@ NO
 6.CHECK INTERMITTENT INCIDENT
 Refer to GI-47, "Intermittent Incident".
 
-### >> INSPECTION END
 
 ### Turn ignition switch ON.
 
@@ -568594,9 +565886,6 @@ Disconnect EVAP canister vent control valve harness connector.
 Check air passage continuity and operation delay time under the following conditions.
 Check that new O-ring is installed properly.
 
-### Operation takes less than 1 second.
-
-### Perform “VENT CONTROL/V” in “ACTIVE TEST” mode.
 
 ### Not existed
 
@@ -568611,7 +565900,6 @@ P0447 EVAP CANISTER VENT CONTROL VALVE
 3.
 Check air passage continuity and operation delay time.
 
-### Check that new O-ring is installed properly.
 
 ### Check that new O-ring is installed properly.
 
@@ -568746,7 +566034,6 @@ YES
 NO
 >> Replace EVAP canister vent control valve. Refer to FL-14, "EXCEPT FOR MEXICO : Exploded
 
-### View".
 
 ### Check if water will drain from the EVAP canister (1).
 
@@ -568761,7 +566048,6 @@ NO
 Weigh the EVAP canister with the EVAP canister vent control valve and EVAP control system pressure sensor
 attached.
 
-### The weight should be less than 2.1 kg (4.6 lb).
 
 ### 6.CHECK EVAP CONTROL SYSTEM PRESSURE SENSOR CONNECTOR
 
@@ -568823,9 +566109,6 @@ Turn ignition switch OFF.
 2.
 Remove EVAP canister vent control valve from EVAP canister. Refer to FL-14, "EXCEPT FOR MEXICO :
 
-### Operation takes less than 1 second.
-
-### JMBIA0168ZZ
 
 ### Not existed
 
@@ -568992,7 +566275,6 @@ INFOID:0000000010097213
 Disconnect EVAP control system pressure sensor harness connector.
 2.
 
-### Check that water is not inside connectors.
 
 ### Is the inspection result normal?
 
@@ -569037,9 +566319,6 @@ N
 P
 O
 
-### Is the inspection result normal?
-
-### Is the inspection result normal?
 
 ### Exploded View".
 
@@ -569156,9 +566435,6 @@ N
 P
 O
 
-### P0452 EVAP CONTROL SYSTEM PRESSURE SENSOR
-
-### Turn ignition switch ON.
 
 ### Check that the voltage is less than 4.2 V.
 
@@ -569321,7 +566597,6 @@ N
 P
 O
 
-### Is the inspection result normal?
 
 ### Pressure Sensor)".)
 
@@ -569334,11 +566609,6 @@ NO
 7.CHECK APP SENSOR
 Refer to EC-1506, "Component Inspection (Accelerator Pedal Position Sensor)".
 
-### Is the inspection result normal?
-
-### >> INSPECTION END
-
-### Also check harness for short to ground and short to power.
 
 ### Refrigerant pressure sensor
 
@@ -569455,7 +566725,6 @@ CAUTION:
 • Never apply below -93.3 kPa (-0.952 kg/cm2, -13.53 psi) or pressure over 101.3 kPa (1.033 kg/cm2,
 14.69 psi).
 
-### Is the inspection result normal?
 
 ### Terminal
 
@@ -569485,7 +566754,6 @@ If DTC Confirmation Procedure has been previously conducted, always perform the 
 before conducting the next test.
 1.
 
-### Turn ignition switch ON.
 
 ### DTC No.
 
@@ -569571,7 +566839,6 @@ Disconnect EVAP control system pressure sensor harness connector.
 2.
 Check that water is not inside connectors.
 
-### Is the inspection result normal?
 
 ### Is the inspection result normal?
 
@@ -569641,9 +566908,6 @@ EC-1364
 P0453 EVAP CONTROL SYSTEM PRESSURE SENSOR
 >> Repair open circuit.
 
-### Is the inspection result normal?
-
-### >> INSPECTION END
 
 ### Sensor
 
@@ -569789,7 +567053,6 @@ YES
 NO
 >> Replace EVAP control system pressure sensor. Refer to FL-14, "EXCEPT FOR MEXICO :
 
-### Exploded View".
 
 ### Check if water will drain from the EVAP canister (1).
 
@@ -569907,7 +567170,6 @@ DTC DETECTION LOGIC
 This diagnosis detects leaks in the EVAP line between fuel tank and EVAP canister purge volume control solenoid valve, using the negative pressure caused by decrease of fuel temperature in the fuel tank after turning
 ignition switch OFF.
 
-### If ECM judges there are no leaks, the diagnosis will be OK.
 
 ### DTC CONFIRMATION PROCEDURE
 
@@ -569974,7 +567236,6 @@ O
 If DTC Confirmation Procedure has been previously conducted, always perform the following before conducting the next test.
 1.
 
-### Turn ignition switch OFF and wait at least 10 seconds.
 
 ### Check that “EVAP LEAK DIAG” indication.
 
@@ -569989,7 +567250,6 @@ YES
 >> Proceed toEC-1369, "Diagnosis Procedure".
 NO
 
-### >> INSPECTION END.
 
 ### Turn ignition switch ON.
 
@@ -570021,7 +567281,6 @@ YES
 NO
 >> Replace with genuine NISSAN fuel filler cap. Refer to
 
-### FL-10, "Exploded View".
 
 ### 3.CHECK FUEL FILLER CAP FUNCTION
 
@@ -570132,7 +567391,6 @@ Select “PURG VOL CONT/V” in “ACTIVE TEST” mode.
 Touch “Qu” on CONSULT screen to increase “PURG VOL CONT/V” opening to 100%.
 5.
 
-### Check vacuum hose for vacuum.
 
 ### Stop engine.
 
@@ -570296,7 +567554,6 @@ NO
 >> GO TO 2.
 2.REPLACE FUEL FILLER CAP
 
-### Replace fuel filler cap. Refer to FL-10, "Exploded View".
 
 ### Vacuum:
 
@@ -570676,7 +567933,6 @@ INFOID:0000000010097231
 ECM receives vehicle speed signals from two different paths via CAN communication line: One is from the
 ABS actuator and electric unit (control unit) via the combination unit and the other is from TCM.
 
-### DTC Logic
 
 ### Turn ignition switch ON.
 
@@ -570803,9 +568059,6 @@ YES
 NO
 >> Replace or replace error-detected parts.
 
-### Revision: 2013 November
-
-### DTC Logic
 
 ### Turn ignition switch ON.
 
@@ -570889,11 +568142,6 @@ P
 O
 NO
 
-### >> GO TO 2.
-
-### 2014 Q70
-
-### DTC Logic
 
 ### >> GO TO 2.
 
@@ -570978,7 +568226,6 @@ YES
 >> Discover air leakage location and repair.
 NO
 
-### >> GO TO 3.
 
 ### 2014 Q70
 
@@ -571005,7 +568252,6 @@ If DTC Confirmation Procedure has been previously conducted, always perform the 
 before conducting the next test.
 1.
 
-### >> GO TO 2.
 
 ### 3.PERFORM DTC CONFIRMATION PROCEDURE-II
 
@@ -571326,7 +568572,6 @@ NO
 7.CHECK EOP SENSOR SIGNAL CIRCUIT
 1.
 
-### Turn ignition switch OFF.
 
 ### >> GO TO 8.
 
@@ -571340,7 +568585,6 @@ YES
 NO
 >> Repair or replace error-detected parts.
 
-### Component Inspection (EOP sensor)
 
 ### >> INSPECTION END.
 
@@ -571467,7 +568711,6 @@ Check 1st trip DTC.
 WITH GST
 Follow the procedure “With CONSULT” above.
 
-### Is 1st trip DTC detected?
 
 ### ENG SPEED
 
@@ -571546,7 +568789,6 @@ NO
 >> Remove debris and clean the signal plate of camshaft
 sprocket (INT) or replace camshaft sprocket (INT).
 
-### Refer to EM-238, "Exploded View".
 
 ### >> GO TO 7.
 
@@ -571629,7 +568871,6 @@ NO
 2.CHECK POWER STEERING PRESSURE SENSOR POWER SUPPLY-II
 Check the voltage between PSP sensor harness connector and the ground.
 
-### DTC No.
 
 ### PSP sensor
 
@@ -571668,7 +568909,6 @@ O
 Is inspection result normal?
 YES
 
-### >> GO TO 4.
 
 ### Is inspection result normal?
 
@@ -572263,7 +569503,6 @@ INFOID:0000000010097260
 This DTC is detected when the ECM-integrated injector driver unit has a malfunction. For injector driver unit,
 refer to EC-993, "ECM".
 
-### DTC Logic
 
 ### TESTING CONDITION:
 
@@ -572481,7 +569720,6 @@ Refer to ACC-3, "MODELS WITHOUT DISTANCE CONTROL ASSIST SYSTEM : Removal and Ins
 Refer to ACC-4, "MODELS WITH DISTANCE CONTROL ASSIST SYSTEM : Removal and Installation" (With
 distance control assist system).
 
-### >> INSPECTION END
 
 ### Camshaft position sensor (bank 2)
 
@@ -572530,7 +569768,6 @@ If DTC Confirmation Procedure has been previously conducted, always perform the 
 before conducting the next test.
 1.
 
-### Turn ignition switch OFF and wait at least 10 seconds.
 
 ### Is the inspection result normal?
 
@@ -572819,7 +570056,6 @@ P100A, P100B VVEL SYSTEM
 4.
 Also check harness for short to ground and power.
 
-### Is the inspection result normal?
 
 ### 3.CHECK VVEL ACTUATOR MOTOR
 
@@ -573049,7 +570285,6 @@ YES
 NO
 >> INSPECTION END
 
-### Diagnosis Procedure
 
 ### Is the inspection result normal?
 
@@ -573169,7 +570404,6 @@ NO
 6.CHECK CAMSHAFT POSITION SENSOR
 Refer to EC-1325, "Component Inspection (Camshaft Position Sensor)".
 
-### Is the inspection result normal?
 
 ### Continuity
 
@@ -573269,7 +570503,6 @@ Remove the sensor. Refer to EM-238, "Exploded View".
 5.
 Visually check the sensor for chipping.
 
-### Is the inspection result normal?
 
 ### Is the inspection result normal?
 
@@ -573366,7 +570599,6 @@ If DTC P1089 or P1092 is displayed with DTC P1608, first perform the trouble dia
 Refer to EC-1492, "DTC Logic".
 DTC CONFIRMATION PROCEDURE
 
-### 1.PRECONDITIONING
 
 ### >> GO TO 2.
 
@@ -573727,7 +570959,6 @@ P
 O
 4.
 
-### Also check harness for short to ground and power.
 
 ### 3.CHECK VVEL ACTUATOR MOTOR
 
@@ -573740,9 +570971,6 @@ NO
 4.REPLACE VVEL ACTUATOR SUB ASSEMBLY
 Replace VVEL actuator sub assembly. Refer to EM-253, "Exploded View".
 
-### >> GO TO 7.
-
-### >> INSPECTION END
 
 ### >> INSPECTION END
 
@@ -573830,7 +571058,6 @@ P
 O
 P1091 VVEL ACTUATOR MOTOR RELAY
 
-### DTC Logic
 
 ### TESTING CONDITION:
 
@@ -574155,7 +571382,6 @@ INFOID:0000000010097289
 This diagnosis result is detected when the fuel level of the fuel tank is extremely low and the engine does not
 run normally.
 
-### DTC Logic
 
 ### TESTING CONDITION:
 
@@ -574251,7 +571477,6 @@ For best results, warm up the engine until “COOLAN TEMP/S” on “DATA MONITO
 reaches at least 70°C (158°F).
 3.
 
-### Turn ignition switch OFF and wait at least 10 seconds.
 
 ### Is 1st trip DTC detected?
 
@@ -574267,7 +571492,6 @@ YES
 NO
 >> Repair or replace error-detected parts.
 
-### 3.CHECK HIGH PRESSURE FUEL PUMP
 
 ### 2014 Q70
 
@@ -574299,7 +571523,6 @@ signals are exchanged between ECM and “ABS actuator and electric unit (control
 Be sure to erase the malfunction information such as DTC not only for “ABS actuator and electric unit
 (control unit)” but also for ECM after TCS related repair.
 
-### DTC Logic
 
 ### >> GO TO 2.
 
@@ -574427,7 +571650,6 @@ P1217 ENGINE OVER TEMPERATURE
 EC-1429
 < DTC/CIRCUIT DIAGNOSIS >
 
-### [VK56VD FOR USA AND CANADA]
 
 ### >> GO TO 2.
 
@@ -574558,7 +571780,6 @@ N
 P
 O
 
-### P1220 FUEL PUMP CONTROL MODULE (FPCM)
 
 ### Turn ignition switch OFF and wait at least 10 seconds.
 
@@ -574679,7 +571900,6 @@ Check the following.
 • Loose or poor connection for each connector and harness
 >> Repair open circuit, short to ground or short to power in harness or connectors.
 
-### 6.CHECK FUEL PUMP CONTROL CIRCUIT FOR OPEN AND SHORT
 
 ### Also check harness for short to ground and short to power.
 
@@ -574840,7 +572060,6 @@ Remove the intake air duct. Refer to EM-191, "Exploded View".
 3.
 Check that no foreign matter is caught between the throttle valve and the housing.
 
-### Is the inspection result normal?
 
 ### >> INSPECTION END
 
@@ -574936,7 +572155,6 @@ Check that no foreign matter is caught between the throttle valve and the housin
 Is the inspection result normal?
 YES
 
-### >> GO TO 2.
 
 ### >> INSPECTION END
 
@@ -575101,7 +572319,6 @@ YES
 NO
 >> GO TO 3.
 
-### 3.DETECT MALFUNCTIONING PART
 
 ### 4.CHECK THROTTLE CONTROL MOTOR RELAY INPUT SIGNAL CIRCUIT-II
 
@@ -575329,9 +572546,6 @@ EC-1440
 [VK56VD FOR USA AND CANADA]
 P1236, P2118 THROTTLE CONTROL MOTOR
 
-### P1236, P2118 THROTTLE CONTROL MOTOR
-
-### Turn ignition switch OFF and wait at least 10 seconds.
 
 ### Check DTC.
 
@@ -575475,7 +572689,6 @@ Disconnect electric throttle control actuator harness connector.
 3.
 Check resistance between electric throttle control actuator terminals as per the following.
 
-### Is the inspection result normal?
 
 ### Electric throttle control actuator
 
@@ -575497,7 +572710,6 @@ EC-1442
 [VK56VD FOR USA AND CANADA]
 P1238, P2119 ELECTRIC THROTTLE CONTROL ACTUATOR
 
-### P1238, P2119 ELECTRIC THROTTLE CONTROL ACTUATOR
 
 ### TESTING CONDITION:
 
@@ -575643,7 +572855,6 @@ NOTE:
 If DTC P1239 or P2135 is displayed with DTC P0643, first perform the trouble diagnosis for DTC P0643.
 Refer to EC-1402, "DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### >> GO TO 2.
 
@@ -575762,7 +572973,6 @@ NO
 Check the continuity between electric throttle control actuator harness connector and ECM harness connector.
 2.
 
-### Also check harness for short to ground and short to power.
 
 ### Refer to GI-47, "Intermittent Incident".
 
@@ -575845,9 +573055,6 @@ Connector
 +
 –
 
-### Terminal
-
-### More than 0.36
 
 ### Accelerator pedal: Fully released
 
@@ -576018,7 +573225,6 @@ DTC CONFIRMATION PROCEDURE
 Turn ignition switch OFF and wait at least 10 seconds.
 2.
 
-### Turn ignition switch ON.
 
 ### Start engine and let it idle for at least 10 seconds.
 
@@ -576099,7 +573305,6 @@ P1550 BATTERY CURRENT SENSOR
 3.
 Check the continuity between battery current sensor harness connector and ECM harness connector.
 
-### >> GO TO 4.
 
 ### Pressure Sensor)".)
 
@@ -576129,7 +573334,6 @@ Replace accelerator pedal assembly. Refer to following.
 7.CHECK BATTERY CURRENT SENSOR GROUND CIRCUIT FOR OPEN AND SHORT
 1.
 
-### Turn ignition switch OFF.
 
 ### 2014 Q70
 
@@ -576181,7 +573385,6 @@ NO
 9.CHECK BATTERY CURRENT SENSOR
 Refer to EC-1451, "Component Inspection (Battery Current Sensor)".
 
-### Is the inspection result normal?
 
 ### 1.CHECK BATTERY CURRENT SENSOR
 
@@ -576282,7 +573485,6 @@ P1551, P1552 BATTERY CURRENT SENSOR
 DTC Logic
 INFOID:0000000010097322
 
-### DTC DETECTION LOGIC
 
 ### >> GO TO 2.
 
@@ -576297,7 +573499,6 @@ YES
 NO
 >> INSPECTION END
 
-### Diagnosis Procedure
 
 ### Is the inspection result normal?
 
@@ -576379,7 +573580,6 @@ Terminal
 E21
 1
 
-### M160
 
 ### Refrigerant pressure sensor
 
@@ -576416,7 +573616,6 @@ N
 P
 O
 
-### >> INSPECTION END
 
 ### Also check harness for short to ground and short to power.
 
@@ -576428,7 +573627,6 @@ NO
 9.CHECK BATTERY CURRENT SENSOR
 Refer to EC-1455, "Component Inspection (Battery Current Sensor)".
 
-### Is the inspection result normal?
 
 ### Check the voltage between ECM harness connector terminals
 
@@ -576478,7 +573676,6 @@ EC-1456
 < DTC/CIRCUIT DIAGNOSIS >
 [VK56VD FOR USA AND CANADA]
 
-### P1551, P1552 BATTERY CURRENT SENSOR
 
 ### Revision: 2013 November
 
@@ -576521,7 +573718,6 @@ YES
 NO
 >> INSPECTION END
 
-### Diagnosis Procedure
 
 ### Is the inspection result normal?
 
@@ -576593,7 +573789,6 @@ NO
 3.CHECK SENSOR POWER SUPPLY CIRCUIT
 Check harness for short to power and short to ground, between the following terminals.
 
-### Is the inspection result normal?
 
 ### Is the inspection result normal?
 
@@ -576607,7 +573802,6 @@ Replace accelerator pedal assembly.
 ASSIST SYSTEM : Removal and Installation"
 • Models with Distance Control Assist system: ACC-4, "MODELS WITH DISTANCE CONTROL ASSIST SYS-
 
-### TEM : Removal and Installation"
 
 ### 2014 Q70
 
@@ -576764,7 +573958,6 @@ TESTING CONDITION:
 • Before performing the following procedure, confirm that battery voltage is 12.8 V or more at idle.
 • Before performing the following procedure, confirm that all load switches and A/C switch are turned
 
-### OFF.
 
 ### WITHOUT CONSULT
 
@@ -576812,7 +574005,6 @@ YES
 NO
 >> Proceed to EC-1462, "Diagnosis Procedure".
 
-### Diagnosis Procedure
 
 ### Is the inspection result normal?
 
@@ -576948,7 +574140,6 @@ Replace accelerator pedal assembly.
 ASSIST SYSTEM : Removal and Installation"
 • Models with Distance Control Assist system: ACC-3, "MODELS WITHOUT DISTANCE CONTROL ASSIST
 
-### SYSTEM : Removal and Installation"
 
 ### Also check harness for short to ground and short to power.
 
@@ -577064,9 +574255,6 @@ P1556, P1557 BATTERY TEMPERATURE SENSOR
 DTC Logic
 INFOID:0000000010097332
 
-### DTC DETECTION LOGIC
-
-### >> GO TO 2.
 
 ### Diagnosis Procedure
 
@@ -577111,7 +574299,6 @@ shorted.)
 • EVAP control system pressure sensor
 • Refrigerant pressure sensor
 
-### P1557
 
 ### Connector
 
@@ -577345,7 +574532,6 @@ Disconnect combination switch harness connector.
 Check the continuity between combination switch and ECM harness connector.
 5.
 
-### Also check harness for short to ground and short to power.
 
 ### 4.CHECK ASCD STEERING SWITCH INPUT SIGNAL CIRCUIT FOR OPEN AND SHORT
 
@@ -577519,7 +574705,6 @@ DTC Logic
 INFOID:0000000010097338
 DTC DETECTION LOGIC
 
-### Turn ignition switch OFF and wait at least 10 seconds.
 
 ### Check DTC.
 
@@ -577582,7 +574767,6 @@ Check the continuity between combination switch and ECM harness connector.
 5.
 Also check harness for short to ground and short to power.
 
-### Is the inspection result normal?
 
 ### 4.CHECK ICC STEERING SWITCH INPUT SIGNAL CIRCUIT FOR OPEN AND SHORT
 
@@ -577721,7 +574905,6 @@ Terminals
 M303
 13 and 16
 
-### MAIN switch: Pressed
 
 ### Approx. 3,000
 
@@ -577745,7 +574928,6 @@ NOTE:
 EC-1397, "DTC Logic".
 • If DTC P1568 is displayed with DTC P0607, perform the trouble diagnosis for DTC P0607. Refer to
 
-### Turn ignition switch ON.
 
 ### Press SET/COAST switch.
 
@@ -577810,7 +574992,6 @@ P1572 ASCD BRAKE SWITCH
 DTC Logic
 INFOID:0000000010097343
 
-### DTC DETECTION LOGIC
 
 ### >> GO TO 2.
 
@@ -578074,7 +575255,6 @@ YES
 >> GO TO 10.
 NO
 
-### >> GO TO 9.
 
 ### >> GO TO 12.
 
@@ -578216,7 +575396,6 @@ EC-1480
 P1572 ICC BRAKE SWITCH
 P1572 ICC BRAKE SWITCH
 
-### DTC Logic
 
 ### DTC CONFIRMATION PROCEDURE
 
@@ -578466,7 +575645,6 @@ YES
 NO
 >> Replace ICC brake switch. Refer to BR-18, "Exploded View".
 
-### 8.CHECK STOP LAMP SWITCH POWER SUPPLY CIRCUIT
 
 ### Terminal
 
@@ -578527,7 +575705,6 @@ Disconnect ICC brake switch harness connector.
 3.
 Check the continuity between ICC brake switch terminals under the following conditions.
 
-### Is the inspection result normal?
 
 ### Is the inspection result normal?
 
@@ -578681,7 +575858,6 @@ Turn ignition switch ON.
 Turn ignition switch OFF and wait at least 10 seconds.
 >> GO TO 2.
 
-### 2.PERFORM DTC CONFIRMATION PROCEDURE
 
 ### Check DTC.
 
@@ -578695,7 +575871,6 @@ INFOID:0000000010097354
 1.CHECK DTC WITH TCM
 Check DTC with TCM. Refer to TM-61, "CONSULT Function".
 
-### Is the inspection result normal?
 
 ### • TCM
 
@@ -578778,7 +575953,6 @@ Turn ignition switch OFF and wait at least 10 seconds.
 2.PERFORM DTC CONFIRMATION PROCEDURE
 1.
 
-### Start engine (VDC switch OFF).
 
 ### Check DTC.
 
@@ -578792,7 +575966,6 @@ INFOID:0000000010097357
 1.CHECK DTC WITH TCM
 Check DTC with TCM. Refer to TM-61, "CONSULT Function".
 
-### Is the inspection result normal?
 
 ### • TCM
 
@@ -579023,7 +576196,6 @@ Disconnect VVEL control module harness connector.
 Check the continuity between VVEL control shaft position sensor harness connector and VVEL control
 module harness connector.
 
-### DTC No.
 
 ### VVEL control shaft position sensor
 
@@ -579179,7 +576351,6 @@ DTC No.
 Trouble diagnosis name
 (Trouble diagnosis content)
 
-### DTC detecting condition
 
 ### • TCM
 
@@ -579250,7 +576421,6 @@ Check the voltage between stop lamp switch harness connector and ground.
 Is the inspection result normal?
 YES
 
-### >> GO TO 4.
 
 ### DTC No.
 
@@ -579268,7 +576438,6 @@ is being driven.
 (Stop lamp switch circuit is open or shorted.)
 • Stop lamp switch
 
-### Condition
 
 ### < DTC/CIRCUIT DIAGNOSIS >
 
@@ -579516,7 +576685,6 @@ Is the 1st trip DTC P0171, P0172, P0174 or P0175 detected? Is it difficult to st
 YES
 >> Perform trouble diagnosis for DTC P0171, P0174 or P0172, P0175. Refer to EC-1278, "Diagnosis
 
-### Procedure" or EC-1282, "Diagnosis Procedure".
 
 ### Is the inspection result normal?
 
@@ -579763,7 +576931,6 @@ P2100, P2103 THROTTLE CONTROL MOTOR RELAY
 P2100, P2103 THROTTLE CONTROL MOTOR RELAY
 DTC Logic
 
-### INFOID:0000000010097372
 
 ### TESTING CONDITION:
 
@@ -579869,9 +577036,6 @@ P
 O
 NO
 
-### >> GO TO 2.
-
-### >> GO TO 4.
 
 ### 5.CHECK FUSE
 
@@ -580023,11 +577187,6 @@ P
 O
 >> Repair open circuit, short to ground or short to power in harness or connectors.
 
-### Is the inspection result normal?
-
-### 5.CHECK APP SENSOR INPUT SIGNAL CIRCUIT FOR OPEN AND SHORT
-
-### >> GO TO 6.
 
 ### 7.CHECK APP SENSOR
 
@@ -580109,9 +577268,6 @@ YES
 >> INSPECTION END
 NO
 
-### >> GO TO 2.
-
-### >> INSPECTION END
 
 ### Fully depressed
 
@@ -580142,7 +577298,6 @@ P2127, P2128 APP SENSOR
 DTC Logic
 INFOID:0000000010097377
 
-### DTC DETECTION LOGIC
 
 ### >> GO TO 2.
 
@@ -580198,7 +577353,6 @@ shorted.)
 • EVAP control system pressure sensor
 • Refrigerant pressure sensor
 
-### P2128
 
 ### Ground
 
@@ -580325,9 +577479,6 @@ Disconnect ECM harness connector.
 Check the continuity between APP sensor harness connector and ECM harness connector.
 4.
 
-### Also check harness for short to ground and short to power.
-
-### 8.CHECK APP SENSOR 2 INPUT SIGNAL CIRCUIT FOR OPEN AND SHORT
 
 ### >> GO TO 9.
 
@@ -580536,7 +577687,6 @@ EC-1512
 P2138 APP SENSOR
 YES
 
-### >> GO TO 3.
 
 ### 3.CHECK APP SENSOR 2 POWER SUPPLY CIRCUIT-I
 
@@ -580679,7 +577829,6 @@ Also check harness for short to ground and short to power.
 Is the inspection result normal?
 YES
 
-### >> GO TO 10.
 
 ### 10.CHECK APP SENSOR INPUT SIGNAL CIRCUIT FOR OPEN AND SHORT
 
@@ -580989,7 +578138,6 @@ NO
 2.CHECK LOW FUEL PRESSURE SENSOR POWER SUPPLY-II
 Check the voltage between low fuel pressure sensor harness connector and the ground.
 
-### Is inspection result normal?
 
 ### Is inspection result normal?
 
@@ -581030,7 +578178,6 @@ Terminal
 F39
 3
 
-### Ground
 
 ### Low fuel pressure sensor
 
@@ -581083,7 +578230,6 @@ YES
 NO
 >> Replace low fuel pressure sensor. Refer to EM-200, "Exploded View".
 
-### Component Inspection
 
 ### Check that the “L/FUEL PRES SEN V” value.
 
@@ -581198,7 +578344,6 @@ Component Function Check
 INFOID:0000000010097386
 1.CHECK ASCD BRAKE SWITCH FUNCTION
 
-### WITH CONSULT
 
 ### Is the inspection result normal?
 
@@ -581231,7 +578376,6 @@ Check the following.
 • Loose or poor connection for each connector and harness
 >> Repair open circuit or short to ground in harness or connectors.
 
-### 3.CHECK ASCD BRAKE SWITCH INPUT SIGNAL CIRCUIT FOR OPEN AND SHORT
 
 ### ASCD brake switch
 
@@ -581349,7 +578493,6 @@ Check that DTC UXXXX is not displayed.
 Is the inspection result normal?
 YES
 
-### >> GO TO 2.
 
 ### 3.CHECK INTERMITTENT INCIDENT
 
@@ -581361,7 +578504,6 @@ NO
 >> Repair or replace malfunctioning part.
 ASCD INDICATOR
 
-### CONDITION
 
 ### Revision: 2013 November
 
@@ -581423,7 +578565,6 @@ YES
 NO
 >> Proceed to EC-1523, "Diagnosis Procedure".
 
-### Diagnosis Procedure
 
 ### Is the inspection result normal?
 
@@ -581718,7 +578859,6 @@ YES
 NO
 >> Repair or replace harness connectors.
 
-### Component Inspection (Cooling Fan Motor)
 
 ### Is the inspection result normal?
 
@@ -581974,7 +579114,6 @@ NO
 Diagnosis Procedure
 INFOID:0000000010097400
 
-### 1.CHECK FUEL INJECTOR POWER SUPPLY
 
 ### 2.CHECK FUEL INJECTOR CIRCUIT
 
@@ -582244,7 +579383,6 @@ Connector
 Terminal
 Connector
 
-### Terminal
 
 ### BATTERY VOLTAGE
 
@@ -582719,7 +579857,6 @@ Disconnect IPDM E/R harness connector E7.
 Check the continuity between IPDM E/R harness connector and condenser harness connector.
 4.
 
-### Also check harness for short to ground and short to power.
 
 ### 5.CHECK CONDENSER GROUND CIRCUIT FOR OPEN AND SHORT
 
@@ -582838,7 +579975,6 @@ Terminal
 F91
 3
 
-### Ground
 
 ### Revision: 2013 November
 
@@ -582896,7 +580032,6 @@ NO
 Refer to GI-47, "Intermittent Incident".
 >> INSPECTION END
 
-### Component Inspection (Ignition Coil with Power Transistor)
 
 ### Is the inspection result normal?
 
@@ -582979,7 +580114,6 @@ Remove fuel pump fuse in IPDM E/R to release fuel pressure.
 > • Do not use CONSULT to release fuel pressure, or fuel pressure applies again during the following procedure.
 > 4.
 
-### Start engine.
 
 ### 10. Connect spark plug and harness connector to ignition coil.
 
@@ -582998,7 +580132,6 @@ metal portion.
 > NO
 > >> Replace malfunctioning ignition coil with power transistor. Refer to EM-193, "Exploded View".
 
-### Component Inspection (Condenser)
 
 ### >> INSPECTION END
 
@@ -584500,7 +581633,6 @@ Symptom Table
 INFOID:0000000010097427
 SYSTEM －DRIVE MODE SELECTOR －
 
-### Malfunction
 
 ### The central switch of the navi-
 
@@ -584878,9 +582010,6 @@ O
 SERVICE DATA AND SPECIFICATIONS (SDS)
 SERVICE DATA AND SPECIFICATIONS (SDS)
 
-### Idle Speed
-
-### INFOID:0000000010097437
 
 ### Mass Air Flow Sensor
 
@@ -584892,7 +582021,6 @@ No load* (in P or N position)
 600 ± 50 rpm (Without 4WAS)
 675 ± 50 rpm (With 4WAS)
 
-### Condition
 
 ### 0.95 – 1.35 V*
 
@@ -584909,9 +582037,6 @@ PRECAUTION
 PRECAUTIONS
 Precaution for Supplemental Restraint System (SRS) "AIR BAG" and "SEAT BELT
 
-### PRE-TENSIONER"
-
-### Precaution for Procedure without Cowl Top Cover
 
 ### PIIB3706J
 
@@ -584949,7 +582074,6 @@ O
 > The ECM has an on board diagnostic system. It will illuminate the malfunction indicator lamp (MIL) to warn the
 > driver of a malfunction causing emission deterioration.
 
-### SEF289H
 
 ### SEF289H
 
@@ -584980,7 +582104,6 @@ P
 O
 • Before replacing ECM, perform ECM Terminals and Reference
 
-### Value inspection and check that ECM functions properly.
 
 ### Accidental contact of probes will cause a short circuit and
 
@@ -585007,7 +582130,6 @@ control systems depending on installation location.
 - Keep the antenna feeder line more than 20 cm (8 in) away
 from the harness of electronic controls.
 
-### Never let them run parallel for a long distance.
 
 ### EC-1575
 
@@ -585038,7 +582160,6 @@ INFOID:0000000010097446
 Tool number
 (Kent-Moore No.)
 
-### Tool name
 
 ### Applys positive pressure through EVAP service
 
@@ -585071,9 +582192,6 @@ installing a new oxygen sensor. Use with antiseize lubricant shown below.
 a: 18 mm diameter with pitch 1.5 mm for Zirconia Oxygen Sensor
 b: 12 mm diameter with pitch 1.25 mm for Titania Oxygen Sensor
 
-### AEM488
-
-### INFOID:0000000010097447
 
 ### Refrigerant pressure sensor
 
@@ -585444,9 +582562,6 @@ AV control unit
 Refer to AV-11, "Component Parts
 Location" (BASE AUDIO WITHOUT
 
-### NAVIGATION).
-
-### A/C auto amp.
 
 ### Revision: 2013 November
 
@@ -585473,9 +582588,6 @@ P
 O
 *: ECO pedal control is only for vehicles with intelligent pedal (distance control assist).
 
-### Accelerator Pedal Position Sensor
-
-### Air Fuel Ratio (A/F) Sensor 1
 
 ### Battery Current Sensor (With Battery Temperature Sensor)
 
@@ -585502,7 +582614,6 @@ ECM sends the calculated value as the power generation command
 value to IPDM E/R. For the details of the power generation voltage
 variable control, refer to CHG-9, "POWER GENERATION VOLTAGE
 
-### Camshaft Position Sensor
 
 ### ECM receives the signals as shown in the figure.
 
@@ -585586,7 +582697,6 @@ The current opening angle of the throttle valve is detected by the throttle posi
 sensor provides feedback to the ECM, when opens/closes the throttle valve in response to driving conditions
 via the throttle control motor.
 
-### Engine Coolant Temperature Sensor
 
 ### JSBIA0270GB
 
@@ -585744,7 +582854,6 @@ This sensor is made of ceramic zirconia. The zirconia generates voltage from app
 Under normal conditions the heated oxygen sensor 2 is not used for
 engine control operation.
 
-### High Pressure Fuel Pump
 
 ### Fuel temperature [°C (°F)]
 
@@ -585815,7 +582924,6 @@ measures fuel pressure in the fuel rail. The sensor transmits voltage
 signal to the ECM. As the pressure increases, the voltage rises. The
 ECM controls the fuel pressure in the fuel rail by operating high pressure fuel pump. The ECM uses the signal from fuel rail pressure sensor as a feedback signal.
 
-### ICC Brake Switch
 
 ### ICC Steering Switch
 
@@ -585824,11 +582932,6 @@ ICC steering switch has variant values of electrical resistance for each button.
 switch, and determines which button is operated.
 Ignition Coil With Power Transistor
 
-### INFOID:0000000010097473
-
-### Information Display
-
-### CEL is indicated on the information display.
 
 ### The longer pulse width advances valve angle.
 
@@ -585867,7 +582970,6 @@ INFOID:0000000010097478
 The low pressure fuel pump is integrated with a fuel pressure regulator and a fuel filter. This pump is build into the fuel tank.
 ECM controls the low pressure fuel pump via FPCM.
 
-### Malfunction Indicator Lamp (MIL)
 
 ### For details, refer to EC-1615, "Diagnosis Description".
 
@@ -585920,7 +583022,6 @@ greater the heat loss.
 Therefore, the electric current supplied to hot wire is changed to
 maintain the temperature of the hot wire as air flow increases. The
 
-### Power Steering Pressure (PSP) Sensor
 
 ### JMBIA0877ZZ
 
@@ -585944,11 +583045,6 @@ EC-1594
 < SYSTEM DESCRIPTION >
 [VK56VD FOR MEXICO]
 
-### COMPONENT PARTS
-
-### Stop Lamp Switch
-
-### VVEL Actuator Motor
 
 ### VVEL control shaft position sensor signal.
 
@@ -585958,7 +583054,6 @@ Power supply for the VVEL actuator motor is provided to the VVEL control module 
 relay. VVEL actuator motor relay is ON/OFF controlled by the VVEL control module. In addition, when the
 VVEL actuator motor relay cannot be controlled by the VVEL control module for some reason, it ON/OFF controlled by ECM.
 
-### VVEL Control Module
 
 ### PBIB2657E
 
@@ -586008,7 +583103,6 @@ Revision: 2013 November
 EC-1596
 < SYSTEM DESCRIPTION >
 
-### [VK56VD FOR MEXICO]
 
 ### PBIB1068E
 
@@ -586097,7 +583191,6 @@ Homogeneous Combustion
 Homogeneous combustion is a combustion method that fuel is injected during intake process so that combustion occurs in the entire combustion chamber, as is common with conventional methods.
 As for a start except for starts with the engine cold, homogeneous combustion occurs.
 
-### MIXTURE RATIO FEEDBACK CONTROL (CLOSED LOOP CONTROL)
 
 ### FUEL INJECTION TIMING
 
@@ -586233,7 +583326,6 @@ P
 O
 INTAKE VALVE TIMING CONTROL
 
-### INTAKE VALVE TIMING CONTROL : System Diagram
 
 ### Engine oil temperature sensor
 
@@ -586258,9 +583350,6 @@ INFOID:0000000010097504
 INPUT/OUTPUT SIGNAL CHART
 *: This signal is sent to the ECM via the CAN Communication line
 
-### Engine oil temperature sensor
-
-### [VK56VD FOR MEXICO]
 
 ### Control shaft
 
@@ -586285,7 +583374,6 @@ EC-1608
 SYSTEM
 EVAPORATIVE EMISSION SYSTEM
 
-### EVAPORATIVE EMISSION SYSTEM : System Diagram
 
 ### Density of oxygen in exhaust gas
 
@@ -586407,7 +583495,6 @@ N
 P
 O
 
-### Infiniti Drive Mode Selector : System Description
 
 ### Control
 
@@ -586465,7 +583552,6 @@ reaction force is generated in common with ECO mode until the accelerator pedal 
 - Accelerator pedal is depressed quickly.
 - Selector lever is in N or R range.
 
-### ALTERNATOR POWER GENERATION VOLTAGE VARIABLE CONTROL SYS-
 
 ### Diagram".
 
@@ -586530,7 +583616,6 @@ DIAGNOSIS SYSTEM (ECM)
 DIAGNOSIS DESCRIPTION
 DIAGNOSIS DESCRIPTION : 1st Trip Detection Logic and Two Trip Detection Logic
 
-### DIAGNOSIS DESCRIPTION : DTC and Freeze Frame Data
 
 ### Misfire (Possible three way catalyst
 
@@ -586561,9 +583646,6 @@ Except above
 Revision: 2013 November
 2014 Q70
 
-### DIAGNOSIS SYSTEM (ECM)
-
-### ECM memory.
 
 ### Revision: 2013 November
 
@@ -586620,7 +583702,6 @@ Calculated load value: (Calculated load value in the freeze frame data) x (1±0.
 • When the freeze frame data shows lower than 70°C (158°F), T should be lower than 70°C (158°F).
 • When the freeze frame data shows higher than or equal to 70°C (158°F), T should be higher than or equal to
 
-### 70°C (158°F).
 
 ### (158°F)
 
@@ -586776,7 +583857,6 @@ stored in ECM.
 > Self-diagnosis result
 > Example
 
-### Diagnosis
 
 ### Case 2
 
@@ -586834,7 +583914,6 @@ EC-1624
 DIAGNOSIS SYSTEM (ECM)
 DIAGNOSIS DESCRIPTION : Malfunction Indicator Lamp (MIL)
 
-### On Board Diagnosis Function
 
 ### Operation Procedure
 
@@ -586894,9 +583973,6 @@ MALFUNCTION WARNING MODE
 In this function ECM turns on or blinks MIL when it detects a malfunction in the emission control system components and/or the powertrain control components (which affect vehicle emissions) to inform the driver that a
 malfunction has been detected.
 
-### Operation Procedure
-
-### SELF-DIAGNOSTIC RESULTS MODE
 
 ### ECM has entered to SELF-DIAGNOSTIC RESULTS mode.
 
@@ -586910,7 +583986,6 @@ DIAGNOSIS SYSTEM (ECM)
 NOTE:
 Wait until the same DTC (or 1st trip DTC) appears to completely confirm all DTCs.
 
-### How to Read Self diagnostic Results
 
 ### PBIB0092E
 
@@ -586973,11 +584048,6 @@ P
 O
 In this way, all the detected malfunctions are classified by their DTC numbers. The DTC 0000 refers to no malfunction. Refer to EC-1664, "DTC Index".
 
-### Turn ignition switch OFF and wait at least 10 seconds.
-
-### CONSULT Function
-
-### SELF DIAGNOSTIC RESULT MODE
 
 ### ECU Identification
 
@@ -587132,7 +584202,6 @@ ON/OFF
 • The control condition of the power generation
 voltage variable control (determined by ECM according to the input signals) is indicated.
 
-### ON: Power generation voltage variable control is
 
 ### ON/OFF
 
@@ -587360,7 +584429,6 @@ FUEL PUMP DUTY
 module (FPCM) (determined by ECM according
 to the input signals) is indicated.
 
-### Monitored item
 
 ### FUEL PRESSURE RELEASE
 
@@ -587405,7 +584473,6 @@ When adjusting target ignition timing
 CLSD THL POS LEARN
 • Ignition switch ON and engine stopped
 
-### When learning the throttle valve
 
 ### When ECM is replaced.
 
@@ -587586,9 +584653,6 @@ NOTE:
 • Numerical values in the following table are reference values.
 • These values are input/output values that ECM receives/transmits and may differ from actual operations.
 
-### Example:
-
-### CONSULT MONITOR ITEM
 
 ### MAS A/F SE-B2
 
@@ -587707,7 +584771,6 @@ the engine
 Blower fan switch: ON
 ON
 
-### Blower fan switch: OFF
 
 ### Idle
 
@@ -587932,7 +584995,6 @@ TP SEN 1-B2
 • Selector lever: D position
 Accelerator pedal: Fully released
 
-### More than 0.36 V
 
 ### Less than 4.75 V
 
@@ -588092,7 +585154,6 @@ MID
 • Engine: Idle
 • Engine coolant temperature: More than
 
-### HO2 S2 DIAG2(B2)
 
 ### Idle
 
@@ -588679,7 +585740,6 @@ O
 (B)
 Fuel injector driver power supply
 
-### Input
 
 ### 2.9 - 8.8 V
 
@@ -588740,9 +585800,6 @@ ECM
 (B)
 Heated oxygen sensor 2 heater (bank 2)
 
-### Output
-
-### 2.9 - 8.8 V
 
 ### 7 - 12 V
 
@@ -588866,7 +585923,6 @@ EC-1650
 ECM
 64
 
-### (GR)
 
 ### Sensor ground
 
@@ -589063,7 +586119,6 @@ Sensor power supply
 (W)
 69
 
-### (O/L)
 
 ### 0 - 1.0 V
 
@@ -589146,7 +586201,6 @@ Input
 • Selector lever: D position
 • Accelerator pedal: Fully released
 
-### Camshaft position sensor
 
 ### 0 - 1.0 V
 
@@ -589274,7 +586328,6 @@ O
 175
 (B)
 
-### High pressure fuel pump (HI)
 
 ### BATTERY VOLTAGE
 
@@ -589711,7 +586764,6 @@ ECM
 EC-1659
 < ECU DIAGNOSIS INFORMATION >
 
-### [VK56VD FOR MEXICO]
 
 ### Fail-safe
 
@@ -589754,7 +586806,6 @@ page
 Malfunction indicator
 lamp circuit
 
-### Engine speed will not rise
 
 ### EC-2020,
 
@@ -589808,7 +586859,6 @@ P0102
 P0103
 P010C
 
-### P010D
 
 ### Therefore, the acceleration will be poor.
 
@@ -589856,7 +586906,6 @@ The signal is not energized to the intake valve timing control solenoid valve an
 control does not function.
 Engine speed will not rise more than 2,400 rpm due to the fuel cut.
 
-### VVEL value is maintained at a fixed angle.
 
 ### P1091
 
@@ -589878,11 +586927,6 @@ fixed opening (approx. 5 degrees) by the return spring.
 P1236
 P2118
 
-### Throttle control motor
-
-### P2100
-
-### P1608
 
 ### Engine operating condition in fail-safe mode
 
@@ -591460,7 +588504,6 @@ O
 *6: When the ECM is in the mode that displays SRT status, MIL may blink. For the details, refer to “How to Display SRT Status”.
 *7: When erasing this DTC, always use CONSULT or GST.
 
-### Test Value and Test Limit
 
 ### P2128
 
@@ -591717,7 +588760,6 @@ P0137
 08H
 0CH
 
-### Maximum sensor output voltage for
 
 ### Minimum sensor output voltage for test
 
@@ -591971,7 +589013,6 @@ EGR
 SYSTEM
 31H
 
-### EGR function
 
 ### Scaling
 
@@ -592030,7 +589071,6 @@ HEATER
 41H
 A/F sensor 1 heater (Bank 1)
 
-### Low Input: P0031
 
 ### Cylinder A/F imbalance monitoring
 
@@ -592775,7 +589815,6 @@ Study the relationship between the cause detected by DTC and the symptom describ
 (Symptom Matrix Chart is useful. Refer to EC-2023, "Symptom Table".)
 3.
 
-### Check related service bulletins for information.
 
 ### 3.CONFIRM THE SYMPTOM
 
@@ -593037,9 +590076,6 @@ Perform EC-1723, "Work Procedure".
 13.PERFORM IDLE AIR VOLUME LEARNING
 Perform EC-1724, "Work Procedure".
 
-### Is Idle Air Volume Learning carried out successfully?
-
-### For specification, refer to EC-2036, "Idle Speed".
 
 ### For specification, refer to EC-2036, "Ignition Timing".
 
@@ -593238,9 +590274,6 @@ EC-1722
 ACCELERATOR PEDAL RELEASED POSITION LEARNING
 ACCELERATOR PEDAL RELEASED POSITION LEARNING
 
-### Description
-
-### Work Procedure
 
 ### Turn ignition switch OFF and wait at least 10 seconds.
 
@@ -593276,7 +590309,6 @@ Throttle Valve Closed Position Learning is a function of ECM to learn the fully 
 valve by monitoring the throttle position sensor output signal. It must be performed each time the harness connector of the electric throttle control actuator or ECM is disconnected or electric throttle control actuator inside
 is cleaned.
 
-### Work Procedure
 
 ### Turn ignition switch OFF and wait at least 10 seconds.
 
@@ -593289,9 +590321,6 @@ EC-1724
 [VK56VD FOR MEXICO]
 IDLE AIR VOLUME LEARNING
 
-### IDLE AIR VOLUME LEARNING
-
-### Work Procedure
 
 ### Will CONSULT be used?
 
@@ -593364,7 +590393,6 @@ Rev up engine two or three times and check that idle speed and ignition timing a
 For procedure, refer to EC-2036, "Idle Speed" and EC-2036, "Ignition Timing".
 For specifications, refer to EC-2036, "Idle Speed" and EC-2036, "Ignition Timing".
 
-### Is the inspection result normal?
 
 ### >> INSPECTION END
 
@@ -593382,7 +590410,6 @@ VVEL control shaft position sensor adjustment is an operation to adjust the init
 shaft position sensor.
 It must be performed each time VVEL actuator sub assembly is replaced.
 
-### Work Procedure
 
 ### 12. Turn ignition switch OFF and wait at least 10 seconds.
 
@@ -593394,9 +590421,6 @@ Without CONSULT
 Disconnect VVEL control shaft position sensor harness connector.
 2.
 
-### Remove VVEL actuator motor relay.
-
-### EC-1727
 
 ### 13. Turn ignition switch OFF and wait at least 10 seconds.
 
@@ -593483,7 +590507,6 @@ P
 O
 FUEL PRESSURE
 
-### Work Procedure
 
 ### Turn ignition switch OFF.
 
@@ -593508,7 +590531,6 @@ NOTE:
 > < BASIC INSPECTION >
 > [VK56VD FOR MEXICO]
 
-### FUEL PRESSURE
 
 ### Tightening torque
 
@@ -593598,7 +590620,6 @@ OUTLINE
 In order to set all SRTs, the self-diagnoses as in the “SRT ITEM” table must have been performed at least
 once. Each diagnosis may require actual driving for a long period of time under various conditions.
 
-### SRT ITEM
 
 ### SRT item*1
 
@@ -593727,7 +590748,6 @@ NO-1
 NO-2
 >> Without CONSULT: GO TO 4.
 
-### 3.DTC CONFIRMATION PROCEDURE
 
 ### Check DTC.
 
@@ -593752,7 +590772,6 @@ In order to set all SRTs, the SRT set driving pattern must be performed at least
 > < BASIC INSPECTION >
 > [VK56VD FOR MEXICO]
 
-### HOW TO SET SRT CODE
 
 ### 8.PATTERN 4
 
@@ -593811,9 +590830,6 @@ or more malfunctions.
 The SP value is used to detect malfunctions that may affect the Engine Control System, but will not illuminate
 the MIL.
 
-### Component Function Check
-
-### >> GO TO 2.
 
 ### Check that monitor items are within the SP value.
 
@@ -593857,7 +590873,6 @@ N
 P
 O
 
-### DETAILED PROCEDURE
 
 ### JMBIA0056GB
 
@@ -593951,7 +590966,6 @@ Engine oil viscosity
 Belt tension of power steering, alternator, A/C compressor, etc. is excessive
 -
 
-### >> GO TO 19.
 
 ### >> GO TO 21.
 
@@ -594074,7 +591088,6 @@ POWER SUPPLY AND GROUND CIRCUIT
 Reconnect ECM harness connector.
 2.
 
-### Turn ignition switch ON.
 
 ### 2014 Q70
 
@@ -594482,7 +591495,6 @@ O
 > NO
 > >> INSPECTION END
 
-### Diagnosis Procedure
 
 ### >> GO TO 2.
 
@@ -594536,7 +591548,6 @@ Disconnect intake valve timing control solenoid valve harness connector.
 3.
 Check resistance between intake valve timing control solenoid valve terminals as per the following.
 
-### Is the inspection result normal?
 
 ### JMBIA0962ZZ
 
@@ -594697,7 +591708,6 @@ EC-1760
 < DTC/CIRCUIT DIAGNOSIS >
 [VK56VD FOR MEXICO]
 
-### P0014, P0024 EVT CONTROL
 
 ### Refer to GI-47, "Intermittent Incident".
 
@@ -594772,7 +591782,6 @@ EC-1762
 [VK56VD FOR MEXICO]
 P0031, P0032, P0051, P0052 A/F SENSOR 1 HEATER
 
-### P0031, P0032, P0051, P0052 A/F SENSOR 1 HEATER
 
 ### TESTING CONDITION:
 
@@ -594818,7 +591827,6 @@ P0031, P0032, P0051, P0052 A/F SENSOR 1 HEATER
 EC-1763
 < DTC/CIRCUIT DIAGNOSIS >
 
-### Is the inspection result normal?
 
 ### >> INSPECTION END
 
@@ -594846,7 +591854,6 @@ P0031, P0032, P0051, P0052 A/F SENSOR 1 HEATER
 Is the inspection result normal?
 YES
 
-### >> INSPECTION END
 
 ### >> INSPECTION END
 
@@ -594879,7 +591886,6 @@ N
 P
 O
 
-### P0037, P0038, P0057, P0058 HO2S2 HEATER
 
 ### Check 1st trip DTC.
 
@@ -594979,7 +591985,6 @@ Turn ignition switch OFF.
 Disconnect heated oxygen sensor 2 (HO2S2) harness connector.
 3.
 
-### Check resistance between HO2S2 terminals as follows.
 
 ### >> INSPECTION END
 
@@ -595070,7 +592075,6 @@ Refer to GI-47, "Intermittent Incident".
 >> INSPECTION END
 Component Inspection (Intake Valve Timing Control Solenoid Valve)
 
-### Is the inspection result normal?
 
 ### JMBIA0079ZZ
 
@@ -595160,7 +592164,6 @@ Provide 12 V DC between exhaust valve timing control solenoid
 valve terminals 1 and 2, and then interrupt it. Check that the
 plunger moves as shown in the figure.
 
-### Is the inspection result normal?
 
 ### JMBIA0079ZZ
 
@@ -595401,7 +592404,6 @@ YES
 NO
 >> Check low fuel pressure system. Refer to EC-2017, "Diagnosis Procedure".
 
-### WITHOUT CONSULT
 
 ### Is inspection result normal?
 
@@ -595412,7 +592414,6 @@ NO
 4.CHECK HIGH PRESSURE FUEL PUMP
 Check high pressure fuel pump. Refer to EC-1779, "Component Inspection (High Pressure Fuel Pump)".
 
-### WITHOUT CONSULT
 
 ### Condition
 
@@ -595463,7 +592464,6 @@ YES
 NO
 >> Replace low pressure fuel pump. Refer to FL-6, "Removal and Installation".
 
-### Component Inspection (High Pressure Fuel Pump)
 
 ### >> INSPECTION END
 
@@ -595548,7 +592548,6 @@ cm2, 2392.5 psi) for 1 second or more
 during engine idle condition after cold
 start [water temperature 5°C (41°F) -
 
-### 40°C (104°F)].
 
 ### Revision: 2013 November
 
@@ -595593,9 +592592,6 @@ NO
 2.CHECK HIGH PRESSURE FUEL PUMP
 Check high pressure fuel pump. Refer to EC-1781, "Component Inspection (High Pressure Fuel Pump)".
 
-### Component Inspection (High Pressure Fuel Pump)
-
-### Start the engine.
 
 ### 2014 Q70
 
@@ -595672,7 +592668,6 @@ O
 P0090 HIGH PRESSURE FUEL PUMP
 DTC Logic
 
-### INFOID:0000000010097591
 
 ### Turn ignition switch OFF and wait at least 10 seconds.
 
@@ -595705,7 +592700,6 @@ FUEL PUMP
 less for 3 seconds or more during engine rev.
 • Fuel rail pressure remains at 18.5
 
-### MPa (185 bar, 188.7 kg/ cm2, 2682.5
 
 ### 2014 Q70
 
@@ -595730,7 +592724,6 @@ YES
 NO
 >> Replace the error-detected parts.
 
-### Component Inspection (High Pressure Fuel Pump)
 
 ### Value
 
@@ -596118,7 +593111,6 @@ P
 O
 4.
 
-### Also check harness for short to ground and short to power.
 
 ### Also check harness for short to ground and short to power.
 
@@ -596417,7 +593409,6 @@ DTC CONFIRMATION PROCEDURE
 1.PRECONDITIONING
 1.
 
-### Turn ignition switch OFF and wait at least 10 seconds.
 
 ### >> GO TO 2.
 
@@ -596456,7 +593447,6 @@ EC-1800
 [VK56VD FOR MEXICO]
 P0122, P0123, P0227, P0228 TP SENSOR
 
-### Also check harness for short to ground and short to power.
 
 ### Refer to GI-47, "Intermittent Incident".
 
@@ -596525,7 +593515,6 @@ INFOID:0000000010097609
 DTC DETECTION LOGIC
 To judge malfunctions, the diagnosis checks that the A/F signal computed by ECM from the A/F sensor 1 signal fluctuates according to fuel feedback control.
 
-### >> GO TO 2.
 
 ### Check “A/F SEN1 (B1)” or “A/F SEN1 (B2)” indication.
 
@@ -596576,7 +593565,6 @@ NO
 With GST
 Perform component function check. Refer to EC-1803, "Component Function Check".
 
-### Component Function Check
 
 ### Turn ignition switch OFF and wait at least 10 seconds.
 
@@ -596608,7 +593596,6 @@ YES
 NO
 >> INSPECTION END
 
-### Diagnosis Procedure
 
 ### P0150
 
@@ -596643,7 +593630,6 @@ YES
 NO
 >> Repair open circuit, short to ground or short to power in harness or connectors.
 
-### 4.CHECK INTERMITTENT INCIDENT
 
 ### >> INSPECTION END
 
@@ -596916,11 +593902,6 @@ To judge the malfunction of A/F sensor 1, this diagnosis measures response time 
 by ECM from the A/F sensor 1 signal. The time is compensated by engine operating (speed and load), fuel
 feedback control constant, and the A/F sensor 1 temperature index. Judgment is based on whether the compensated time (the A/F signal cycling time index) is inordinately long or not.
 
-### Touch “START”.
-
-### • PCV
-
-### [VK56VD FOR MEXICO]
 
 ### SULT screen.
 
@@ -596932,7 +593913,6 @@ Touch “SELF-DIAG RESULT”.
 Which is displayed on CONSULT screen?
 OK
 
-### >> INSPECTION END
 
 ### Check 1st trip DTC.
 
@@ -597004,7 +593984,6 @@ Also check harness for short to power.
 Is the inspection result normal?
 YES
 
-### >> GO TO 7.
 
 ### Also check harness for short to power.
 
@@ -597040,7 +594019,6 @@ YES
 NO
 >> Repair or replace PCV valve. Refer to EM-193, "Exploded View".
 
-### 11.CHECK INTERMITTENT INCIDENT
 
 ### 2014 Q70
 
@@ -597081,7 +594059,6 @@ DTC Logic
 INFOID:0000000010097618
 DTC DETECTION LOGIC
 
-### 11. Follow the instruction of CONSULT display.
 
 ### P0157
 
@@ -597096,9 +594073,6 @@ EC-1818
 P0137, P0157 HO2S2
 It will take at most 10 minutes until “COMPLETED” is displayed.
 
-### 12. Touch “SELF-DIAG RESULTS”.
-
-### Perform DTC confirmation procedure again.
 
 ### Is the inspection result normal?
 
@@ -597154,7 +594128,6 @@ P0157
 87
 Revision: 2013 November
 
-### 2014 Q70
 
 ### Is the inspection result normal?
 
@@ -597179,7 +594152,6 @@ NO
 2.CHECK HEATED OXYGEN SENSOR 2 GROUND CIRCUIT FOR OPEN AND SHORT
 1.
 
-### Condition
 
 ### Existed
 
@@ -597199,7 +594171,6 @@ Also check harness for short to power.
 Is the inspection result normal?
 YES
 
-### >> GO TO 4.
 
 ### >> INSPECTION END
 
@@ -597368,7 +594339,6 @@ P
 O
 P0138, P0158 HO2S2
 
-### DTC Logic
 
 ### Revision: 2013 November
 
@@ -597575,7 +594545,6 @@ Will CONSULT be used?
 Will CONSULT be used?
 YES
 
-### Let engine idle for 1 minute.
 
 ### Is the inspection result normal?
 
@@ -597707,9 +594676,6 @@ EC-1832
 P0139, P0159 HO2S2
 It will take at most 10 minutes until “COMPLETED” is displayed.
 
-### 12. Touch “SELF-DIAG RESULTS”.
-
-### Perform DTC confirmation procedure again.
 
 ### Is the inspection result normal?
 
@@ -597725,7 +594691,6 @@ With GST
 Start engine and warm it up to the normal operating temperature.
 2.
 
-### 2014 Q70
 
 ### Is the inspection result normal?
 
@@ -597870,7 +594835,6 @@ N
 P
 O
 
-### P0171, P0174 FUEL INJECTION SYSTEM FUNCTION
 
 ### Turn ignition switch ON.
 
@@ -597954,7 +594918,6 @@ Check the continuity between A/F sensor 1 harness connector and ground, or ECM h
 and ground.
 6.
 
-### Also check harness for short to power.
 
 ### 6.CHECK MASS AIR FLOW SENSOR
 
@@ -598051,7 +595014,6 @@ P
 O
 P0172, P0175 FUEL INJECTION SYSTEM FUNCTION
 
-### DTC Logic
 
 ### Do not depress accelerator pedal too much.
 
@@ -598279,7 +595241,6 @@ NO
 >> GO TO 2.
 2.CHECK FRP SENSOR POWER SUPPLY-II
 
-### DTC No.
 
 ### FRP sensor
 
@@ -598344,7 +595305,6 @@ Ground
 ECM
 Sensor
 
-### Connector
 
 ### Terminal
 
@@ -598417,7 +595377,6 @@ YES
 NO
 >> Repair or replace error-detected parts.
 
-### Component Inspection (Fuel Rail Pressure Sensor)
 
 ### WITHOUT CONSULT
 
@@ -598437,7 +595396,6 @@ NO
 +
 −
 
-### Continuity
 
 ### 0.82 – 3.06 V
 
@@ -598613,7 +595571,6 @@ N
 P
 O
 
-### P0222, P0223, P2132, P2133 TP SENSOR
 
 ### >> GO TO 2.
 
@@ -598802,7 +595759,6 @@ Revision: 2013 November
 EC-1856
 < DTC/CIRCUIT DIAGNOSIS >
 
-### Is the inspection result normal?
 
 ### Start engine.
 
@@ -599328,7 +596284,6 @@ Visually check for chipping signal plate gear tooth.
 Is the inspection result normal?
 YES
 
-### >> GO TO 11.
 
 ### INFOID:0000000010097652
 
@@ -599430,9 +596385,6 @@ DTC DETECTION LOGIC
 NOTE:
 If DTC P0345 is displayed with DTC P0643, first perform the trouble diagnosis for DTC P0643. Refer to
 
-### EC-1900, "DTC Logic".
-
-### >> GO TO 2.
 
 ### >> GO TO 3.
 
@@ -599775,7 +596727,6 @@ Turn ignition switch OFF.
 Loosen the fixing bolt of the sensor.
 3.
 
-### Disconnect camshaft position sensor harness connector.
 
 ### Is the inspection result normal?
 
@@ -599860,7 +596811,6 @@ Perform component function check. Refer to EC-1871, "Component Function Check".
 > NO
 > >> Proceed to EC-1872, "Diagnosis Procedure"
 
-### Component Function Check
 
 ### Let engine idle for 1 minute.
 
@@ -600076,7 +597026,6 @@ DTC CONFIRMATION PROCEDURE
 Turn ignition switch OFF and wait at least 10 seconds.
 2.
 
-### Turn ignition switch ON.
 
 ### Start engine and let it idle for at least 13 seconds.
 
@@ -600105,7 +597054,6 @@ Check the following.
 • Harness for open or short between EVAP canister purge volume control solenoid valve and ECM
 >> Repair open circuit, short to ground or short to power in harness or connectors.
 
-### 3.CHECK EVAP CANISTER PURGE VOLUME CONTROL SOLENOID VALVE OUTPUT SIGNAL CIRCU
 
 ### EVAP canister purge volume
 
@@ -600125,7 +597073,6 @@ EC-1876
 [VK56VD FOR MEXICO]
 P0444 EVAP CANISTER PURGE VOLUME CONTROL SOLENOID VALVE
 
-### FOR OPEN AND SHORT
 
 ### Is the inspection result normal?
 
@@ -600153,7 +597100,6 @@ Refer to GI-47, "Intermittent Incident".
 >> INSPECTION END
 Component Inspection (EVAP Canister Purge Volume Control Solenoid Valve)
 
-### INFOID:0000000010097661
 
 ### 2014 Q70
 
@@ -600226,7 +597172,6 @@ INFOID:0000000010097662
 The vehicle speed signal is sent to the “combination meter” from the “ABS actuator and electric unit (control
 unit)” by CAN communication line. The “combination meter” then sends a signal to the ECM by CAN communication line.
 
-### DTC Logic
 
 ### Turn ignition switch ON.
 
@@ -600369,9 +597314,6 @@ Except P or N position
 PW/ST SIGNAL
 OFF
 
-### Revision: 2013 November
-
-### DTC Logic
 
 ### Turn ignition switch ON.
 
@@ -600441,9 +597383,6 @@ Revision: 2013 November
 EC-1882
 < DTC/CIRCUIT DIAGNOSIS >
 
-### [VK56VD FOR MEXICO]
-
-### DTC Logic
 
 ### Check 1st trip DTC.
 
@@ -600596,7 +597535,6 @@ YES
 NO
 >> Repair or replace error-detected parts.
 
-### Component Inspection (EOP sensor)
 
 ### >> INSPECTION END.
 
@@ -600685,7 +597623,6 @@ DTC DETECTION LOGIC
 NOTE:
 If DTC P0524 is displayed with DTC P0520, P0075, or P0081, perform trouble diagnosis for DTC P0520,
 
-### Is 1st trip DTC detected?
 
 ### Revision: 2013 November
 
@@ -600749,7 +597686,6 @@ NO
 >> Remove debris and clean the signal plate of camshaft
 sprocket (INT) or replace camshaft sprocket (INT).
 
-### Refer to EM-254, "Disassembly and Assembly".
 
 ### >> GO TO 7.
 
@@ -600762,7 +597698,6 @@ Revision: 2013 November
 P0524 ENGINE OIL PRESSURE
 EC-1889
 
-### < DTC/CIRCUIT DIAGNOSIS >
 
 ### >> INSPECTION END
 
@@ -600815,7 +597750,6 @@ DTC No.
 Trouble diagnosis name
 (Trouble diagnosis content)
 
-### DTC detecting condition
 
 ### PSP sensor
 
@@ -600982,7 +597916,6 @@ N
 P
 O
 
-### P0603 ECM POWER SUPPLY
 
 ### Turn ignition switch ON, wait at least 10 seconds.
 
@@ -601290,7 +598223,6 @@ INFOID:0000000010097689
 This DTC is detected when the ECM-integrated injector driver unit has a malfunction. For injector driver unit,
 refer to EC-1585, "ECM".
 
-### DTC Logic
 
 ### Check 1st trip DTC.
 
@@ -601451,7 +598383,6 @@ Replace accelerator pedal assembly.
 Refer to ACC-4, "MODELS WITH DISTANCE CONTROL ASSIST SYSTEM : Removal and Installation".
 >> INSPECTION END
 
-### 8.CHECK INTERMITTENT INCIDENT
 
 ### Camshaft position sensor (bank 2)
 
@@ -601496,7 +598427,6 @@ If DTC Confirmation Procedure has been previously conducted, always perform the 
 before conducting the next test.
 1.
 
-### Is the inspection result normal?
 
 ### • TCM
 
@@ -601647,7 +598577,6 @@ P100A, P100B VVEL SYSTEM
 4.
 Also check harness for short to ground and power.
 
-### 3.CHECK VVEL ACTUATOR MOTOR
 
 ### >> INSPECTION END
 
@@ -601795,7 +598724,6 @@ YES
 NO
 >> INSPECTION END
 
-### Diagnosis Procedure
 
 ### EVT control position sensor
 
@@ -601852,7 +598780,6 @@ Refer to EC-1869, "Component Inspection (Camshaft Position Sensor)".
 Is the inspection result normal?
 YES
 
-### >> GO TO 7.
 
 ### Connector
 
@@ -601942,7 +598869,6 @@ Visually check the sensor for chipping.
 Is the inspection result normal?
 YES
 
-### >> GO TO 2.
 
 ### Revision: 2013 November
 
@@ -602163,11 +599089,6 @@ P
 O
 4.
 
-### 3.CHECK VVEL ACTUATOR MOTOR
-
-### >> GO TO 7.
-
-### >> INSPECTION END
 
 ### >> INSPECTION END
 
@@ -602243,7 +599164,6 @@ P
 O
 P1091 VVEL ACTUATOR MOTOR RELAY
 
-### DTC Logic
 
 ### Turn ignition switch OFF and wait at least 10 seconds.
 
@@ -602440,7 +599360,6 @@ Refuel 10 liter (10 US qt, 8 imp qt).
 > reaches at least 70°C (158°F).
 > 3.
 
-### Turn ignition switch OFF and wait at least 10 seconds.
 
 ### Is 1st trip DTC detected?
 
@@ -602456,7 +599375,6 @@ YES
 NO
 >> Repair or replace error-detected parts.
 
-### 3.CHECK HIGH PRESSURE FUEL PUMP
 
 ### 2014 Q70
 
@@ -602472,7 +599390,6 @@ signals are exchanged between ECM and “ABS actuator and electric unit (control
 Be sure to erase the malfunction information such as DTC not only for “ABS actuator and electric unit
 (control unit)” but also for ECM after TCS related repair.
 
-### DTC Logic
 
 ### >> GO TO 2.
 
@@ -602880,7 +599797,6 @@ P
 O
 P1225, P1234 TP SENSOR
 
-### DTC Logic
 
 ### Turn ignition switch ON.
 
@@ -603289,7 +600205,6 @@ DTC CONFIRMATION PROCEDURE
 Turn ignition switch OFF and wait at least 10 seconds.
 2.
 
-### Turn ignition switch ON.
 
 ### Turn ignition switch ON and wait at least 1 second.
 
@@ -603581,7 +600496,6 @@ ECM
 Condition
 Voltage (V)
 
-### Connector
 
 ### Accelerator pedal: Fully released
 
@@ -603596,7 +600510,6 @@ EC-1944
 P1550 BATTERY CURRENT SENSOR
 P1550 BATTERY CURRENT SENSOR
 
-### DTC Logic
 
 ### TESTING CONDITION:
 
@@ -603697,7 +600610,6 @@ Check the following.
 • CKP sensor (Refer to EC-1864, "Component Inspection (Crankshaft Position Sensor)".)
 • Refrigerant pressure sensor (Refer to EC-2021, "Diagnosis Procedure".)
 
-### Is the inspection result normal?
 
 ### >> GO TO 6.
 
@@ -603719,7 +600631,6 @@ Also check harness for short to ground and short to power.
 Battery current sensor
 ECM
 
-### Continuity
 
 ### Refrigerant pressure sensor
 
@@ -603757,9 +600668,6 @@ NO
 9.CHECK BATTERY CURRENT SENSOR
 Refer to EC-1946, "Component Inspection (Battery Current Sensor)".
 
-### Is the inspection result normal?
-
-### Check the voltage between ECM harness connector terminals
 
 ### Battery current sensor
 
@@ -603816,7 +600724,6 @@ DTC Logic
 INFOID:0000000010097746
 DTC DETECTION LOGIC
 
-### DTC CONFIRMATION PROCEDURE
 
 ### >> GO TO 2.
 
@@ -603831,7 +600738,6 @@ YES
 NO
 >> INSPECTION END
 
-### Diagnosis Procedure
 
 ### Is the inspection result normal?
 
@@ -603895,7 +600801,6 @@ Connector
 Terminal
 Connector
 
-### Terminal
 
 ### APP sensor 2
 
@@ -603947,7 +600852,6 @@ NO
 9.CHECK BATTERY CURRENT SENSOR
 Refer to EC-1949, "Component Inspection (Battery Current Sensor)".
 
-### Is the inspection result normal?
 
 ### Terminal
 
@@ -603966,7 +600870,6 @@ EC-1950
 P1553 BATTERY CURRENT SENSOR
 P1553 BATTERY CURRENT SENSOR
 
-### DTC Logic
 
 ### TESTING CONDITION:
 
@@ -604101,7 +601004,6 @@ NO
 9.CHECK BATTERY CURRENT SENSOR
 Refer to EC-1952, "Component Inspection (Battery Current Sensor)".
 
-### Is the inspection result normal?
 
 ### 2014 Q70
 
@@ -604294,7 +601196,6 @@ NO
 9.CHECK BATTERY CURRENT SENSOR
 Refer to EC-1955, "Component Inspection (Battery Current Sensor)".
 
-### Is the inspection result normal?
 
 ### 1.CHECK BATTERY CURRENT SENSOR
 
@@ -604367,7 +601268,6 @@ P1556, P1557 BATTERY TEMPERATURE SENSOR
 DTC Logic
 INFOID:0000000010097756
 
-### >> GO TO 2.
 
 ### Diagnosis Procedure
 
@@ -604437,7 +601337,6 @@ Check the following.
 • Battery current sensor (Refer to EC-1955, "Component Inspection (Battery Current Sensor)".)
 • Refrigerant pressure sensor (Refer to EC-2021, "Diagnosis Procedure".)
 
-### Is the inspection result normal?
 
 ### >> GO TO 6.
 
@@ -604534,7 +601433,6 @@ DTC DETECTION LOGIC
 NOTE:
 If DTC P1564 is displayed with DTC P0605, first perform the trouble diagnosis for DTC P0605. Refer to
 
-### Turn ignition switch ON.
 
 ### Check DTC.
 
@@ -604665,7 +601563,6 @@ M303
 13 and 16
 MAIN switch: Pressed
 
-### Approx. 0
 
 ### Approx. 3,000
 
@@ -604713,7 +601610,6 @@ If DTC Confirmation Procedure has been previously conducted, always perform the 
 before conducting the next test.
 1.
 
-### Turn ignition switch OFF and wait at least 10 seconds.
 
 ### Press SET/COAST switch.
 
@@ -605034,7 +601930,6 @@ Disconnect stop lamp switch harness connector.
 3.
 Check the continuity between stop lamp switch terminals under the following conditions.
 
-### Terminals
 
 ### Condition
 
@@ -605373,7 +602268,6 @@ DTC No.
 Trouble diagnosis name
 (Trouble diagnosis content)
 
-### DTC detecting condition
 
 ### VVEL control shaft position sensor
 
@@ -605517,7 +602411,6 @@ Trouble diagnosis name
 (Trouble diagnosis content)
 DTC detecting condition
 
-### Possible cause
 
 ### • TCM
 
@@ -605576,7 +602469,6 @@ Check for stop lamp illumination under the following conditions.
 Is the inspection result normal?
 YES
 
-### Condition
 
 ### < DTC/CIRCUIT DIAGNOSIS >
 
@@ -605601,7 +602493,6 @@ NO
 >> Replace stop lamp switch. Refer to BR-18, "Exploded View".
 7.CHECK INTERMITTENT INCIDENT
 
-### Refer to GI-47, "Intermittent Incident".
 
 ### Condition
 
@@ -605648,7 +602539,6 @@ EC-1980
 P2100, P2103 THROTTLE CONTROL MOTOR RELAY
 P2100, P2103 THROTTLE CONTROL MOTOR RELAY
 
-### DTC Logic
 
 ### Turn ignition switch ON and wait at least 2 seconds.
 
@@ -605810,7 +602700,6 @@ O
 3.CHECK APP SENSOR 1 GROUND CIRCUIT FOR OPEN AND SHORT
 1.
 
-### >> GO TO 5.
 
 ### 7.CHECK APP SENSOR
 
@@ -605887,7 +602776,6 @@ Refer to ACC-4, "MODELS WITH DISTANCE CONTROL ASSIST SYSTEM : Removal and Instal
 >> INSPECTION END
 ECM
 
-### Condition
 
 ### Revision: 2013 November
 
@@ -605970,7 +602858,6 @@ the APP sensor 2 is sent to ECM.
 • Camshaft position sensor (bank 1)
 • Refrigerant pressure sensor
 
-### P2128
 
 ### Approx. 5 V
 
@@ -606177,7 +603064,6 @@ ECM
 Condition
 Voltage (V)
 
-### Connector
 
 ### 2014 Q70
 
@@ -606387,9 +603273,6 @@ Disconnect ECM harness connector.
 Check the continuity between APP sensor harness connector and ECM harness connector.
 4.
 
-### Also check harness for short to ground and short to power.
-
-### 10.CHECK APP SENSOR INPUT SIGNAL CIRCUIT FOR OPEN AND SHORT
 
 ### >> GO TO 11.
 
@@ -606607,7 +603490,6 @@ Voltage
 (Approx.)
 Low fuel pressure sensor
 
-### Connector
 
 ### Continuity
 
@@ -606690,7 +603572,6 @@ YES
 NO
 >> Replace low fuel pressure sensor.
 
-### Component Inspection
 
 ### Check that the “L/FUEL PRES SEN V” value.
 
@@ -606807,7 +603688,6 @@ YES
 NO
 >> Proceed to EC-1997, "Diagnosis Procedure".
 
-### Diagnosis Procedure
 
 ### Ground
 
@@ -606926,7 +603806,6 @@ NO
 10.CHECK COOLING FAN RELAYS -1 AND -2
 Refer to EC-2001, "Component Inspection (Cooling Fan Relay)".
 
-### Component Inspection (Cooling Fan Motor)
 
 ### Ground
 
@@ -607120,7 +603999,6 @@ NO
 Diagnosis Procedure
 INFOID:0000000010097807
 
-### 1.CHECK FUEL INJECTOR POWER SUPPLY
 
 ### PBIB3332E
 
@@ -607399,7 +604277,6 @@ WITH CONSULT
 Turn ignition switch ON.
 2.
 
-### Select “BRAKE SW1” in “DATA MONITOR” mode with CONSULT.
 
 ### >> INSPECTION END
 
@@ -607662,7 +604539,6 @@ Turn ignition switch ON.
 4.
 Check the voltage between condenser harness connector and ground.
 
-### Also check harness for short to ground and short to power.
 
 ### Condenser
 
@@ -607727,7 +604603,6 @@ Is the inspection result normal?
 Ignition coil
 Ground
 
-### Voltage
 
 ### Revision: 2013 November
 
@@ -607885,7 +604760,6 @@ NOTE:
 > NO
 > >> Replace malfunctioning ignition coil with power transistor.
 
-### Component Inspection (Condenser)
 
 ### >> INSPECTION END
 
@@ -608028,7 +604902,6 @@ YES
 NO
 >> Repair or replace error-detected parts.
 
-### 4.CHECK FUEL PUMP CONTROL CIRCUIT
 
 ### Also check harness for short to ground and to power.
 
@@ -608167,7 +605040,6 @@ Check that DTC UXXXX is not displayed.
 Is the inspection result normal?
 YES
 
-### >> GO TO 2.
 
 ### 3.CHECK INTERMITTENT INCIDENT
 
@@ -608230,7 +605102,6 @@ Turn ignition switch ON.
 3.
 Check the voltage between refrigerant pressure sensor harness connector and ground.
 
-### Is the inspection result normal?
 
 ### Ground
 
@@ -609149,7 +606020,6 @@ INFOID:0000000010097838
 • Electric load: OFF (Lights, heater fan & rear window defogger)
 • Steering wheel: Kept in straight-ahead position
 
-### Ignition Timing
 
 ### INFOID:0000000010097840
 
@@ -609162,7 +606032,6 @@ No load* (in P or N position)
 600 ± 50 rpm
 Condition
 
-### Specification
 
 ### Mass air flow (Using CONSULT or GST)
 
@@ -609215,7 +606084,6 @@ BRAKE CALIPER ASSEMBLY (2 PISTON TYPE)
 : Inspection ............................................................. 64
 SERVICE DATA AND SPECIFICATIONS
 
-### Revision: 2013 November
 
 ### Precaution for Procedure without Cowl Top Cover
 
@@ -609761,7 +606629,6 @@ Check the brake pad wear thickness from an inspection hole on cylinder body. Che
 4 Piston Type
 Check the thickness of brake pad from the inspection hole on caliper.
 
-### Check use a scale if necessary.
 
 ### Drive vehicle on straight, flat road.
 
@@ -609844,7 +606711,6 @@ Check the thickness of the disc rotor using a micrometer. Replace
 the disc rotor if the thickness is below the wear limit. Refer to FAX-7,
 "Removal and Installation" (2WD), FAX-17, "Removal and Installation" (AWD).
 
-### ADJUSTMENT
 
 ### Runout
 
@@ -610344,7 +607210,6 @@ P
 > • If the brake fluid adheres to the brake caliper assembly and disc rotor, quickly wipe it off.
 > 1.
 
-### Remove tires with power tool.
 
 ### Remove the brake hose mounting nut.
 
@@ -610606,9 +607471,6 @@ off immediately and wash with water if it gets on a painted surface.
 • If the brake fluid adheres to the brake caliper assembly and disc rotor, quickly wipe it off.
 1.
 
-### Remove tires with power tool.
-
-### Remove the lock plate and remove the brake hose.
 
 ### Brake hose
 
@@ -611250,7 +608112,6 @@ BRAKE PAD (2 PISTON TYPE) : Exploded View
 INFOID:0000000010098327
 Molykote is a registered trademark of Dow Corning Corporation.
 
-### BRAKE PAD (2 PISTON TYPE) : Removal and Installation
 
 ### Remove tires with power tool.
 
@@ -611406,7 +608267,6 @@ BRAKE PAD (4 PISTON TYPE) : Exploded View
 INFOID:0000000010098330
 Molykote is a registered trademark of Dow Corning Corporation.
 
-### BRAKE PAD (4 PISTON TYPE) : Removal and Installation
 
 ### Remove tires with power tool.
 
@@ -611470,7 +608330,6 @@ Remove brake pads and shims from caliper with suitable pliers.
 > Perform inspection after removal. Refer to BR-44, "BRAKE PAD
 > (4 PISTON TYPE) : Inspection".
 
-### INSTALLATION
 
 ### Apply MOLYKOTE® AS880N or copper based brake grease to
 
@@ -611743,7 +608602,6 @@ Apply new brake fluid to piston seals (1), and install them to cylinder body.
 > 7.
 > Install the cylinder body to tighten sliding pin bolts to the specified torque.
 
-### BRAKE CALIPER ASSEMBLY (2 PISTON TYPE) : Inspection
 
 ### Torque Member
 
@@ -612042,7 +608900,6 @@ BRAKE PAD (1 PISTON TYPE) : Exploded View
 INFOID:0000000010098341
 Molykote is a registered trademark of Dow Corning Corporation.
 
-### BRAKE PAD (1 PISTON TYPE) : Removal and Installation
 
 ### Remove tires with power tool.
 
@@ -612200,7 +609057,6 @@ BRAKE PAD (2 PISTON TYPE) : Exploded View
 INFOID:0000000010098344
 Molykote is a registered trademark of Dow Corning Corporation.
 
-### BRAKE PAD (2 PISTON TYPE) : Removal and Installation
 
 ### Remove tires with power tool.
 
@@ -612270,7 +609126,6 @@ CAUTION:
 Perform inspection after removal. Refer to BR-56, "BRAKE PAD
 (2 PISTON TYPE) : Inspection".
 
-### INSTALLATION
 
 ### Apply MOLYKOTE® AS880N or copper based brake grease to
 
@@ -612583,7 +609438,6 @@ grease to the pawls part of cylinder body.
 Apply rubber grease to sliding pin bolt, and install the cylinder body to tighten sliding pin bolts to the specified torque.
 BRAKE CALIPER ASSEMBLY (1 PISTON TYPE) : Inspection
 
-### INFOID:0000000010098350
 
 ### Torque Member
 
@@ -613053,7 +609907,6 @@ SERVICE DATA AND SPECIFICATIONS
 (SDS) .......................................................... 79
 SERVICE DATA AND SPECIFICATIONS
 
-### Revision: 2013 November
 
 ### Service Notice or Precautions for Steering System
 
@@ -615535,7 +612388,6 @@ gear housing assembly must be replaced if inner socket and gear housing assembly
 because it may cause foreign material interfusion.
 9.
 
-### Remove inner socket from gear housing assembly.
 
 ### 12. Remove end cover assembly with a 36 mm (1.42 in) open head
 
@@ -615714,7 +612566,6 @@ screw (2 turns thread), and then screw in the adjusting screw
 until it reaches height “H” from gear housing assembly measured before disassembling.
 Use Genuine High Performance Thread Sealant or equivalent.
 
-### 13. Move rack assembly 10 strokes throughout the full stroke so that
 
 ### Turn pinion fully to left.
 
@@ -615867,7 +612718,6 @@ the value is within the following specified range. Replace outer
 socket (1) and inner socket (2) if the measured value is outside the
 standard.
 
-### INSPECTION AFTER INSTALLATION
 
 ### AWD : Exploded View
 
@@ -616070,7 +612920,6 @@ gear housing assembly must be replaced if inner socket and gear housing assembly
 because it may cause foreign material interfusion.
 9.
 
-### Remove inner socket from gear housing assembly.
 
 ### JSGIA0111ZZ
 
@@ -616249,9 +613098,6 @@ STEERING GEAR AND LINKAGE
 screw (2 turns thread), and then screw in the adjusting screw
 until it reaches height “H” from gear housing assembly measured before disassembling.
 
-### Use Genuine High Performance Thread Sealant or equiva-
-
-### Turn pinion fully to left.
 
 ### SGIA0624E
 
@@ -616400,7 +613246,6 @@ the value is within the following specified range. Replace outer
 socket (1) and inner socket (2) if the measured value is outside the
 standard.
 
-### INSPECTION AFTER INSTALLATION
 
 ### Procedure".
 
@@ -617276,9 +614121,6 @@ Reservoir tank bracket
 Collar
 3.
 
-### Bushing
-
-### Eye bolt
 
 ### 2014 Q70
 
@@ -617308,7 +614150,6 @@ JSGIA0951GB
 Reservoir tank bracket
 2.
 
-### Collar
 
 ### 2014 Q70
 
@@ -617412,7 +614253,6 @@ High pressure piping
 Low pressure piping
 14.
 
-### Steering gear assembly
 
 ### 2014 Q70
 
@@ -620456,7 +617296,6 @@ EVAPORATOR PIPE ASSEMBLY
 > • O-rings are different from low-pressure pipe 1 (high-pressure pipe 1) and low-pressure pipe 2 (highpressure pipe 2).
 > • Check for leakages when recharging refrigerant. Refer to HA-19, "Leak Test".
 
-### EXPANSION VALVE
 
 ### Revision: 2013 November
 
@@ -620598,7 +617437,6 @@ use) to remove adhering moisture, grease and foreign materials.
 Apply liquid gasket to the liquid gasket application surface.
 Use Genuine RTV Silicone Sealant or equivalent. Refer to GI-24, "Recommended Chemical Products and Sealants".
 
-### Revision: 2013 November
 
 ### Precautions for Removing of Battery Terminal
 
@@ -620653,7 +617491,6 @@ ST25052000
 Hose
 Adapting oil pressure gauge to oil pan (upper)
 
-### KV10115801
 
 ### 2014 Q70
 
@@ -621490,7 +618327,6 @@ Note the following, and install in the reverse order of removal.
 > • Align cutout (B) on oil cooler (1) with protrusion (A) on oil filter
 > bracket (2) side, and tighten connector bolt (3).
 
-### AWD : Inspection
 
 ### Check relief valve with the following procedure.
 
@@ -621887,7 +618723,6 @@ ST25052000
 Hose
 Adapting oil pressure gauge to oil pan (upper)
 
-### KV10115801
 
 ### 2014 Q70
 
@@ -622164,7 +618999,6 @@ CAUTION:
 • Completely wipe off any engine oil that adheres to engine and vehicle.
 1.
 
-### Inspection
 
 ### JPBIA2307ZZ
 
@@ -622490,7 +619324,6 @@ CO-2
 Precaution for Supplemental Restraint System
 (SRS) "AIR BAG" and "SEAT BELT PRE-TEN-
 
-### Revision: 2013 November
 
 ### Precautions for Removing of Battery Terminal
 
@@ -622869,7 +619702,6 @@ P
 O
 3.
 
-### Check that each hose clamp has been firmly tightened.
 
 ### 12. Refill reservoir tank to “MAX” level line with engine coolant.
 
@@ -624113,7 +620945,6 @@ PRECAUTIONS
 CO-31
 < PRECAUTION >
 
-### [VK56VD]
 
 ### Precautions for Removing of Battery Terminal
 
@@ -624422,7 +621253,6 @@ Check drained engine coolant for contaminants such as rust, corrosion or discolo
 If contaminated, flush the engine cooling system. Refer to CO-40, "Flushing".
 5.
 
-### Disconnect drain hose.
 
 ### Install reservoir tank if removed, and radiator drain plug.
 
@@ -624521,7 +621351,6 @@ ENGINE COOLANT
 • Remove the radiator cap to check the fluid level. If the fluid level is low, refill with cooling water and
 repeat the steps from Step 8.
 
-### Check that the reservoir tank cap is tightened.
 
 ### Remove air relief plug (1) on radiator.
 
@@ -626663,11 +623492,6 @@ STARTING SYSTEM
 PRECAUTION .............................................. 2
 PRECAUTIONS .................................................. 2
 
-### Revision: 2013 November
-
-### Precaution for Procedure without Cowl Top Cover
-
-### INFOID:0000000010100615
 
 ### PIIB3706J
 
@@ -626708,7 +623532,6 @@ O
 > Special Service Tools
 > INFOID:0000000010100616
 
-### Commercial Service Tools
 
 ### For operating instructions, refer to diagnos-
 
@@ -627225,7 +624048,6 @@ INFOID:0000000010100627
 The “B” terminal is constantly supplied with battery power.
 Diagnosis Procedure
 
-### INFOID:0000000010100628
 
 ### 1.CHECK “B” TERMINAL CIRCUIT
 
@@ -627334,7 +624156,6 @@ Description
 INFOID:0000000010100629
 The starter motor magnetic switch is supplied with power when the ignition switch is turned to the START position while the selector lever is in the P or N position.
 
-### Diagnosis Procedure
 
 ### 1.CHECK “S” CONNECTOR CIRCUIT
 
@@ -628098,7 +624919,6 @@ O
 P
 VK56VD (2WD) : Inspection and Adjustment ....... 231
 
-### Revision: 2013 November
 
 ### Precaution for Procedure without Cowl Top Cover
 
@@ -629161,7 +625981,6 @@ Mid internal gear
 Condition
 Fixed
 
-### Output
 
 ### 2014 Q70
 
@@ -629252,7 +626071,6 @@ Acceleration from under drive internal gear
 Same number of revolution as the
 front carrier
 
-### Name
 
 ### Same number of revolution as the
 
@@ -629447,7 +626265,6 @@ Name
 Front sun gear
 Front carrier
 
-### Front internal gear
 
 ### Name
 
@@ -629466,7 +626283,6 @@ Number of revolutions
 —
 Deceleration from under drive internal gear
 
-### Same number of revolution as the
 
 ### Same number of revolution as the
 
@@ -629541,7 +626357,6 @@ Mid sun gear
 Mid carrier
 Mid internal gear
 
-### Condition
 
 ### 2014 Q70
 
@@ -629720,7 +626535,6 @@ Mid planetary gear
 Name
 Front sun gear
 
-### Front carrier
 
 ### Name
 
@@ -630678,7 +627492,6 @@ valve
 • Anti-interlock solenoid
 valve
 
-### Output speed sensor
 
 ### Stop lamp switch signal*
 
@@ -630963,7 +627776,6 @@ valve
 • Anti-interlock solenoid
 valve
 
-### Output speed sensor
 
 ### Drive mode select signal*
 
@@ -631338,7 +628150,6 @@ to this vehicle, refer to CONSULT display items.
 X: Standard, —: Not applicable,
 : Option
 
-### Diagnostic test mode
 
 ### CAN Diagnosis
 
@@ -634084,7 +630895,6 @@ Decel G sensor calibration must be performed when the following operation is per
 • Replacement of control valve & TCM
 • Replacement of ABS actuator and electric unit (control unit)
 
-### Special Repair Requirement
 
 ### 1.PREPARATION BEFORE CALIBRATION PROCEDURE
 
@@ -634856,7 +631666,6 @@ Check the continuity between joint connector terminals.
 Is the inspection result normal?
 YES
 
-### >> GO TO 5.
 
 ### A/T assembly vehicle side harness connector
 
@@ -635203,7 +632012,6 @@ P0717 INPUT SPEED SENSOR A
 DTC Logic
 INFOID:0000000010098838
 
-### DTC DETECTION LOGIC
 
 ### >> GO TO 2.
 
@@ -635280,7 +632088,6 @@ TM-114
 P0720 OUTPUT SPEED SENSOR
 P0720 OUTPUT SPEED SENSOR
 
-### DTC Logic
 
 ### >> GO TO 2.
 
@@ -635395,7 +632202,6 @@ Description
 INFOID:0000000010098842
 The engine speed signal is transmitted from the ECM to the TCM via CAN communication line.
 
-### DTC Logic
 
 ### >> GO TO 2.
 
@@ -635485,7 +632291,6 @@ O
 P
 NO
 
-### >> GO TO 3.
 
 ### Revision: 2013 November
 
@@ -635767,7 +632572,6 @@ N
 O
 P
 
-### 2.DETECT MALFUNCTIONING ITEM
 
 ### Is the inspection result normal?
 
@@ -635837,9 +632641,6 @@ solenoid valve
 • Input speed sensor 1, 2
 • Hydraulic control circuit
 
-### ATF TEMP 1
-
-### DITION” to “TESTING”.
 
 ### With GST
 
@@ -635966,9 +632767,6 @@ solenoid valve
 • Input speed sensor 1, 2
 • Hydraulic control circuit
 
-### ATF TEMP 1
-
-### DITION” to “TESTING”.
 
 ### With GST
 
@@ -636004,9 +632802,6 @@ YES
 NO
 >> Repair or replace damaged parts.
 
-### 2.DETECT MALFUNCTIONING ITEM
-
-### Is the inspection result normal?
 
 ### Gear position
 
@@ -636077,9 +632872,6 @@ solenoid valve
 • Input speed sensor 1, 2
 • Hydraulic control circuit
 
-### ATF TEMP 1
-
-### DITION” to “TESTING”.
 
 ### With GST
 
@@ -636206,9 +632998,6 @@ solenoid valve
 • Input speed sensor 1, 2
 • Hydraulic control circuit
 
-### ATF TEMP 1
-
-### DITION” to “TESTING”.
 
 ### With GST
 
@@ -636251,7 +633040,6 @@ NOTE:
 Check the component parts, referring to “Possible cause” in “DTC DETECTION LOGIC”. Refer to TM-128,
 "DTC Logic".
 
-### Is the inspection result normal?
 
 ### Gear position
 
@@ -636350,7 +633138,6 @@ P
 3.
 Keep the current driving status for 2 seconds or more if CONSULT screen changes from “OUT OF CON-
 
-### DITION” to “TESTING”.
 
 ### With GST
 
@@ -636386,9 +633173,6 @@ YES
 NO
 >> Repair or replace damaged parts.
 
-### 2.DETECT MALFUNCTIONING ITEM
-
-### Is the inspection result normal?
 
 ### Gear position
 
@@ -636405,7 +633189,6 @@ TM-132
 P0740 TORQUE CONVERTER
 P0740 TORQUE CONVERTER
 
-### DTC Logic
 
 ### >> GO TO 2.
 
@@ -636499,7 +633282,6 @@ This malfunction is detected when the A/T does not lock-up. This is not only cau
 (circuits open or shorted) but also by mechanical malfunction such as control valve sticking, improper solenoid
 valve operation, etc.
 
-### DTC Logic
 
 ### >> GO TO 2.
 
@@ -636666,7 +633448,6 @@ Always drive vehicle at a safe speed.
 If “DTC CONFIRMATION PROCEDURE” is previously conducted, always turn ignition switch OFF and wait at
 least 10 seconds before performing the next test.
 
-### >> GO TO 2.
 
 ### Perform “Self Diagnostic Results” in “TRANSMISSION”.
 
@@ -636875,7 +633656,6 @@ YES
 NO
 >> Repair or replace damaged parts.
 
-### 2.DETECT MALFUNCTIONING ITEM
 
 ### Is the inspection result normal?
 
@@ -636890,7 +633670,6 @@ TM-140
 [7AT: RE7R01A]
 P0795 PRESSURE CONTROL SOLENOID C
 
-### P0795 PRESSURE CONTROL SOLENOID C
 
 ### Perform “Self Diagnostic Results” in “TRANSMISSION”.
 
@@ -637021,7 +633800,6 @@ INFOID:0000000010098884
 The vehicle speed signal is transmitted from combination meter to TCM via CAN communication line. The signal functions as an auxiliary device to the output speed sensor when it is malfunctioning. The TCM will then
 use the vehicle speed signal.
 
-### DTC Logic
 
 ### >> GO TO 2.
 
@@ -637996,7 +634774,6 @@ DTC Logic
 INFOID:0000000010098899
 DTC DETECTION LOGIC
 
-### >> GO TO 2.
 
 ### Perform “Self Diagnostic Results” in “TRANSMISSION”.
 
@@ -638058,7 +634835,6 @@ N
 O
 P
 
-### P2722 PRESSURE CONTROL SOLENOID E
 
 ### Perform “Self Diagnostic Results” in “TRANSMISSION”.
 
@@ -638103,7 +634879,6 @@ TM-156
 P2731 PRESSURE CONTROL SOLENOID F
 P2731 PRESSURE CONTROL SOLENOID F
 
-### DTC Logic
 
 ### Perform “Self Diagnostic Results” in “TRANSMISSION”.
 
@@ -638163,7 +634938,6 @@ N
 O
 P
 
-### P2807 PRESSURE CONTROL SOLENOID G
 
 ### Perform “Self Diagnostic Results” in “TRANSMISSION”.
 
@@ -639006,7 +635780,6 @@ YES
 NO
 >> Repair or replace damaged parts.
 
-### WITH ICC : Component Inspection (Shift Lock Unit)
 
 ### PCB harness vehicle side harness connector
 
@@ -639072,7 +635845,6 @@ YES
 NO
 >> Replace shift lock relay.
 
-### WITH ICC : Component Inspection (Stop Lamp Switch)
 
 ### WITHOUT ICC
 
@@ -639430,7 +636202,6 @@ YES
 NO
 >> Repair or replace damaged parts.
 
-### WITHOUT ICC : Component Inspection (Shift Lock Unit)
 
 ### Existed
 
@@ -639462,7 +636233,6 @@ NO
 "AWD : Exploded View" (AWD).
 WITHOUT ICC : Component Inspection (Stop Lamp Switch)
 
-### INFOID:0000000010098919
 
 ### Shift lock unit connector
 
@@ -641379,7 +638149,6 @@ CAUTION:
 • Never press selector button.
 AWD : Inspection and Adjustment
 
-### INFOID:0000000010098927
 
 ### JSDIA1676ZZ
 
@@ -641431,7 +638200,6 @@ Note the following, and install in the reverse order of removal.
 CAUTION:
 Apply multi-purpose grease on the pin surface (that slides after installing collar) of the tip of the control rod.
 
-### Inspection
 
 ### A/T assembly
 
@@ -642353,7 +639121,6 @@ order shown in the figure after temporarily tightening them. Tighten
 necessary oil pan mounting bolts with specified torque.
 2WD : Inspection
 
-### INFOID:0000000010098947
 
 ### INSPECTION AFTER INSTALLATION
 
@@ -642735,7 +639502,6 @@ Remove the A/T fluid cooler tubes one at a time from the vehicle.
 > A/T assembly
 > 2.
 
-### Copper washer
 
 ### JPDIA0856GB
 
@@ -642773,7 +639539,6 @@ should be positioned as shown in the figure.
 with dimension “A” from the hose edge.
 - Hose clamp should not interfere with the bulge of fluid cooler tube.
 
-### Hose name
 
 ### Facing downward
 
@@ -643057,7 +639822,6 @@ should be positioned as shown in the figure.
 : Vehicle front
 : Bolt
 
-### SCIA8269E
 
 ### (D).]
 
@@ -643162,7 +639926,6 @@ Note the following, and Install in the reverse order of removal.
 > Copper washer
 > 3.
 
-### A/T fluid cooler tube
 
 ### Facing downward
 
@@ -643627,7 +640390,6 @@ VK56VD (2WD) : Exploded View
 INFOID:0000000010098974
 VK56VD (2WD) : Removal and Installation
 
-### INFOID:0000000010098975
 
 ### Disconnect the battery cable from the negative terminal.
 
@@ -643801,7 +640563,6 @@ TRANSMISSION ASSEMBLY
 VK56VD (AWD) : Exploded View
 INFOID:0000000010098977
 
-### VK56VD (AWD) : Removal and Installation
 
 ### Disconnect the battery cable from the negative terminal.
 
@@ -644867,7 +641628,6 @@ M
 (18) Needle bearing
 60 (2.362)
 
-### Location
 
 ### JPDIA1146ZZ
 
@@ -644884,7 +641644,6 @@ CAUTION:
 Never disassemble parts behind drum support. Refer to TM-17, "Cross-Sectional View".
 1.
 
-### Drain ATF through drain plug.
 
 ### JPDIA1147ZZ
 
@@ -646668,7 +643427,6 @@ proper position.
 Inspection
 INFOID:0000000010098986
 
-### INSPECTION AFTER DISASSEMBLY
 
 ### Torque Converter
 
@@ -648330,11 +645088,6 @@ SERVICE DATA AND SPECIFICATIONS (SDS)
 • At half throttle, the accelerator opening is 4/8 of the full opening.
 Vehicle Speed at Which Lock-up Occurs/Releases
 
-### INFOID:0000000010099013
-
-### ECO MODE
-
-### VK56VD
 
 ### Stall Speed
 
@@ -649960,7 +646713,6 @@ YES
 NO
 >> INSPECTION END
 
-### Diagnostic Work Sheet
 
 ### Interview sheet sample
 
@@ -651091,7 +647843,6 @@ control units during operation (not independent). In CAN communication, control 
 communication lines (CAN-H line, CAN-L line) allowing a high rate of information transmission with less wiring.
 Each control unit communicate data but selectively reads required data only.
 
-### DTC Logic
 
 ### Is DTC “U1000” detected?
 
@@ -651129,7 +647880,6 @@ control units during operation (not independent). In CAN communication, control 
 communication lines (CAN-H line, CAN-L line) allowing a high rate of information transmission with less wiring.
 Each control unit communicate data but selectively reads required data only.
 
-### DTC Logic
 
 ### Is DTC “U1010” detected?
 
@@ -651871,7 +648621,6 @@ DLN-60
 < PERIODIC MAINTENANCE >
 [TRANSFER: ETX13C]
 
-### TRANSFER FLUID
 
 ### Draining
 
@@ -652963,7 +649712,6 @@ O-ring
 Retainer
 26.
 
-### Transfer fluid temperature sensor
 
 ### Companion flange
 
@@ -653228,7 +649976,6 @@ Transfer fluid temperature sensor
 Spacer
 28.
 
-### Baffle plate
 
 ### Self-lock nut
 
@@ -654016,7 +650763,6 @@ NVH of REAR FINAL DRIVE in this section.
 NVH in FAX, RAX, FSU and RSU section.
 NVH in WT section.
 
-### NVH in WT section.
 
 ### Revision: 2013 November
 
@@ -654046,7 +650792,6 @@ REAR PROPELLER SHAFT
 Inspection
 INFOID:0000000010102312
 
-### APPEARANCE AND NOISE
 
 ### Check the vibration by driving vehicle.
 
@@ -654165,7 +650910,6 @@ coupling above the angle (A).
 9.
 Slide the propeller shaft in the vehicle forward direction slightly.
 
-### Separate the propeller shaft from the final drive companion
 
 ### 10. Remove the propeller shaft assembly from the vehicle.
 
@@ -654452,7 +651196,6 @@ DLN-113, "Inspection"
 NVH of FRONT and REAR FINAL DRIVE in this section.
 NVH in FAX, RAX, FSU and RSU section.
 
-### NVH in WT section.
 
 ### Revision: 2013 November
 
@@ -654482,7 +651225,6 @@ REAR PROPELLER SHAFT
 Inspection
 INFOID:0000000010102321
 
-### APPEARANCE AND NOISE
 
 ### Check the vibration by driving vehicle.
 
@@ -654601,7 +651343,6 @@ coupling above the angle (A).
 • Never damage the grease seal (3).
 • Never damage the rubber coupling.
 
-### 11. Slide the propeller shaft in the vehicle forward direction slightly.
 
 ### 12. Perform inspection after removal. Refer to DLN-116, "Inspection".
 
@@ -655674,7 +652415,6 @@ Drive pinion
 Drive gear
 12.
 
-### Side oil seal (right side)
 
 ### Gear oil defense
 
@@ -655728,7 +652468,6 @@ Side shaft bearing
 Extension tube retainer
 36.
 
-### Side shaft oil seal
 
 ### JPDID0225GB
 
@@ -655795,7 +652534,6 @@ Gear carrier
 Pinion rear bearing
 9.
 
-### Pinion height adjusting washer
 
 ### Filler plug
 
@@ -655907,9 +652645,6 @@ Side Gear Thrust Washer and Pinion Mate Thrust Washer
 • Clean up the disassembled parts.
 • If it is chipped (by friction), damaged, or unusually worn, replace.
 
-### Oil Seal
-
-### Companion Flange
 
 ### 2014 Q70
 
@@ -655947,9 +652682,6 @@ Revision: 2013 November
 DIFFERENTIAL ASSEMBLY
 DLN-139
 
-### < UNIT DISASSEMBLY AND ASSEMBLY >
-
-### Dust seal
 
 ### JPDID0225GB
 
@@ -656455,7 +653187,6 @@ DIFFERENTIAL ASSEMBLY
 Rotate drive pinion at least 20 times to check for smooth operation of the bearing.
 3.
 
-### Measure
 
 ### SIDE BEARING PRELOAD
 
@@ -656650,7 +653381,6 @@ Fit a dial indicator to the drive gear face to measure the backlash.
 • If the backlash is outside of the specified value, change the
 thickness of side bearing adjusting washer.
 
-### Inspection
 
 ### PDIA0440E
 
@@ -656751,7 +653481,6 @@ Drive gear
 Side oil seal (right side)
 13.
 
-### Side retainer
 
 ### Side gear thrust washer
 
@@ -656772,9 +653501,6 @@ DRIVE PINION
 DLN-155
 < UNIT DISASSEMBLY AND ASSEMBLY >
 
-### [FRONT FINAL DRIVE: F160A]
-
-### Side shaft
 
 ### JPDID0225GB
 
@@ -656816,7 +653542,6 @@ Pinion rear bearing
 Pinion height adjusting washer
 10.
 
-### Drive pinion
 
 ### Drain plug
 
@@ -657217,7 +653942,6 @@ these items and repair if necessary.
 c.
 If the runout value is still outside of the limit after the check and repair, replace companion flange.
 
-### Inspection
 
 ### Companion Flange
 
@@ -657759,7 +654483,6 @@ View".
 CAUTION:
 Never reuse gasket.
 
-### Refilling
 
 ### DLN-180, "Exploded View".
 
@@ -658221,7 +654944,6 @@ Pinion mate gear
 Pinion mate thrust washer
 19.
 
-### Pinion mate shaft
 
 ### JPDID0284GB
 
@@ -658571,9 +655293,6 @@ P
 > application and mounting surfaces.
 > 19. Install rear cover on gear carrier and tighten mounting bolts.
 
-### Adjustment
-
-### Measure total preload with the preload gauge (A) [SST:
 
 ### SIDE BEARING PRELOAD
 
@@ -658776,7 +655495,6 @@ Make drive gear back side adjusting washer thicker,
 and drive gear tooth side adjusting washer thinner by
 the same amount. For selecting adjusting washer, refer to the latest parts information.
 
-### When the backlash is small:
 
 ### Revision: 2013 November
 
@@ -658865,7 +655583,6 @@ Differential case
 Bearing cap
 23.
 
-### Filler plug
 
 ### JPDID0284GB
 
@@ -659187,9 +655904,6 @@ information.
 CAUTION:
 If unable to find a washer of desired thickness, use a washer with thickness closest to the calculated value.
 
-### Inspection
-
-### Oil Seal
 
 ### Example:
 
@@ -659209,9 +655923,6 @@ Revision: 2013 November
 DLN-200
 < UNIT DISASSEMBLY AND ASSEMBLY >
 
-### [REAR FINAL DRIVE: R200]
-
-### Companion Flange
 
 ### 2014 Q70
 
@@ -659748,7 +656459,6 @@ View".
 CAUTION:
 Never reuse gasket.
 
-### Refilling
 
 ### DLN-218, "Exploded View".
 
@@ -660117,7 +656827,6 @@ Pinion mate gear
 Pinion mate thrust washer
 18.
 
-### Pinion mate shaft
 
 ### JPDID0367GB
 
@@ -660442,7 +657151,6 @@ CAUTION:
 • Apply multi-purpose grease onto oil seal lips, and gear oil
 onto the circumference of oil seal.
 
-### 18. Check total preload torque. Refer to DLN-224, "Adjustment".
 
 ### Measure total preload with the preload gauge (A) [SST:
 
@@ -660669,7 +657377,6 @@ thickness of side bearing adjusting washers.
 > and drive gear tooth side adjusting washer thinner by
 > the same amount. For selecting adjusting washer, refer to the latest parts information.
 
-### When the backlash is small:
 
 ### Revision: 2013 November
 
@@ -660682,7 +657389,6 @@ Never change the total amount of washers as it changes the bearing preload.
 Inspection
 INFOID:0000000010102412
 
-### INSPECTION AFTER DISASSEMBLY
 
 ### Revision: 2013 November
 
@@ -660740,7 +657446,6 @@ Gasket
 Rear cover
 24.
 
-### Stud bolt
 
 ### JPDID0367GB
 
@@ -660998,7 +657703,6 @@ PINION GEAR HEIGHT
 If the hypoid gear set has been replaced, select the pinion height adjusting washer.
 1.
 
-### Inspection
 
 ### Oil Seal
 
@@ -661008,7 +657712,6 @@ Companion Flange
 • Clean up the disassembled parts.
 • If any chipped mark [about 0.1 mm, (0.004 in)] or other damage on the contact sides of the lips of the companion flange is found, replace.
 
-### Washer selection equation:
 
 ### Example:
 
@@ -661128,7 +657831,6 @@ PRECAUTIONS .................................................. 3
 Precaution for Supplemental Restraint System
 (SRS) "AIR BAG" and "SEAT BELT PRE-TENSIONER" ..................................................................3
 
-### Revision: 2013 November
 
 ### Precautions for Removing of Battery Terminal
 
@@ -661379,7 +658081,6 @@ Ball Joint Inspection
 Check boots of transverse link, upper link, and steering outer socket ball joint for breakage, axial play, and
 torque. Refer to FSU-14, "Inspection", FSU-16, "Inspection", and ST-48, "2WD : Inspection".
 
-### INSPECTION AFTER INSTALLATION
 
 ### JPDIF0299ZZ
 
@@ -661426,9 +658127,6 @@ PRECAUTION
 PRECAUTIONS
 Precaution for Supplemental Restraint System (SRS) "AIR BAG" and "SEAT BELT
 
-### PRE-TENSIONER"
-
-### Precautions for Drive Shaft
 
 ### Revision: 2013 November
 
@@ -662145,7 +658843,6 @@ FRONT DRIVE SHAFT BOOT
 • Disassemble drive shaft and exchange malfunctioning part if there
 is a non-standard condition.
 
-### INSPECTION AFTER INSTALLATION
 
 ### SDIA1163J
 
@@ -662642,7 +659339,6 @@ pawls (
 > Insert the tip of band into the lower part of pawl (marked
 > with dotted circle) as shown in the figure.
 
-### 14. Align matching marks painted when housing was removed.
 
 ### Inspection
 
@@ -662789,7 +659485,6 @@ O
 P
 CONTENTS
 
-### Revision: 2013 November
 
 ### Precautions for Removing of Battery Terminal
 
@@ -663841,7 +660536,6 @@ PRECAUTIONS .................................................23
 Precaution for Supplemental Restraint System
 (SRS) "AIR BAG" and "SEAT BELT PRE-TENSIONER" ................................................................23
 
-### Revision: 2013 November
 
 ### Precaution for Procedure without Cowl Top Cover
 
@@ -664055,7 +660749,6 @@ FSU-8
 [2WD]
 WHEEL ALIGNMENT
 
-### WHEEL ALIGNMENT
 
 ### Measure wheel alignment under unladen conditions.
 
@@ -664376,7 +661069,6 @@ P
 Coil Spring
 Check coil spring for cracks, wear or damage. Replace it if necessary.
 
-### INSPECTION AFTER INSTALLATION
 
 ### Disposal
 
@@ -664446,7 +661138,6 @@ Remove mounting bolts, nuts, and stopper bushing, and then remove transverse lin
 9.
 Perform inspection after removal. Refer to FSU-14, "Inspection".
 
-### INSTALLATION
 
 ### Inspection
 
@@ -664466,7 +661157,6 @@ Upper link
 Stopper rubber
 Refer to GI-4, "Components" for symbols in the figure.
 
-### JPEIA0266GB
 
 ### Ball Joint Inspection
 
@@ -664481,7 +661171,6 @@ ball stud begins moving.
 • If swing torque exceeds standard range, replace transverse link
 assembly.
 
-### Rotating Torque Inspection
 
 ### ST3127S000 (J-25765-A)].
 
@@ -664529,9 +661218,6 @@ Remove mounting bolts and stopper rubber, and then remove upper link from vehicl
 4.
 Perform inspection after removal. Refer to FSU-16, "Inspection".
 
-### INSTALLATION
-
-### Inspection
 
 ### Ball Joint Inspection
 
@@ -664761,7 +661447,6 @@ Note the following, and install in the reverse order of removal.
 condition with tires on level ground.
 • Perform inspection after installation. Refer to FSU-20, "Inspection".
 
-### Inspection
 
 ### Exploded View".
 
@@ -664938,7 +661623,6 @@ Rear (Hr)
 SFA818A
 Revision: 2013 November
 
-### 2014 Q70
 
 ### Precaution for Procedure without Cowl Top Cover
 
@@ -665143,7 +661827,6 @@ FSU-28
 [AWD]
 WHEEL ALIGNMENT
 
-### WHEEL ALIGNMENT
 
 ### Measure wheel alignment under unladen conditions.
 
@@ -665510,7 +662193,6 @@ Remove insulator form transverse link. (VK56VD)
 Remove mounting bolts, nuts, and stopper bushings, and then remove transverse link from suspension
 and vehicle.
 
-### 10. Perform inspection after removal. Refer to FSU-34, "Inspection".
 
 ### Inspection
 
@@ -665530,11 +662212,6 @@ Upper link
 Stopper rubber
 Refer to GI-4, "Components" for symbols in the figure.
 
-### JSEIA0409GB
-
-### Rotating Torque Inspection
-
-### INSPECTION AFTER INSTALLATION
 
 ### Swing torque
 
@@ -665568,9 +662245,6 @@ Remove mounting bolts and stopper rubber, and then remove upper link from vehicl
 4.
 Perform inspection after removal. Refer to FSU-36, "Inspection".
 
-### INSTALLATION
-
-### Inspection
 
 ### Ball Joint Inspection
 
@@ -665751,7 +662425,6 @@ Note the following, and install in the reverse order of removal.
 condition with tires on level ground.
 • Perform inspection after installation. Refer to FSU-40, "Inspection".
 
-### Inspection
 
 ### Exploded View".
 
@@ -666758,7 +663431,6 @@ JPEIB0202GB
 Revision: 2013 November
 2014 Q70
 
-### REAR LOWER LINK
 
 ### Revision: 2013 November
 
@@ -666807,7 +663479,6 @@ Front lower link
 Rear lower link
 4.
 
-### TOE CONTROL LINK
 
 ### Revision: 2013 November
 
@@ -667157,7 +663828,6 @@ ROAD WHEELS & TIRES
 PRECAUTION .............................................. 3
 PRECAUTIONS .................................................. 3
 
-### Revision: 2013 November
 
 ### Precautions for Removing of Battery Terminal
 
@@ -668635,7 +665305,6 @@ DTC/CIRCUIT DIAGNOSIS
 C1704, C1705, C1706, C1707 LOW TIRE PRESSURE
 DTC Logic
 
-### INFOID:0000000010100077
 
 ### Perform self-diagnosis for “AIR PRESSURE MONITOR”.
 
@@ -668699,7 +665368,6 @@ or less
 Monitor item
 Displayed value
 
-### AIR PRESS FL
 
 ### AIR PRESS RL
 
@@ -669057,7 +665725,6 @@ B13 (Rear LH)
 B213 (Rear RH)
 Monitor item
 
-### Displayed value
 
 ### AIR PRESS RL
 
@@ -669095,7 +665762,6 @@ WT-38
 < DTC/CIRCUIT DIAGNOSIS >
 C1716, C1717, C1718, C1719 TIRE PRESSURE SENSOR
 
-### C1716, C1717, C1718, C1719 TIRE PRESSURE SENSOR
 
 ### Perform self-diagnosis for “AIR PRESSURE MONITOR”.
 
@@ -669996,7 +666662,6 @@ control units during operation (not independent). In CAN communication, control 
 communication lines (CAN-H line, CAN-L line) allowing a high rate of information transmission with less wiring.
 Each control unit communicates data but selectively reads required data only.
 
-### DTC Logic
 
 ### Perform self-diagnosis for “AIR PRESSURE MONITOR”.
 
@@ -670052,7 +666717,6 @@ control units during operation (not independent). In CAN communication, control 
 communication lines (CAN-H line, CAN-L line) allowing a high rate of information transmission with less wiring.
 Each control unit communicates data but selectively reads required data only.
 
-### DTC Logic
 
 ### Perform self-diagnosis for “AIR PRESSURE MONITOR”.
 
@@ -671968,9 +668632,6 @@ PRECAUTIONS
 Precaution for Supplemental Restraint System (SRS) "AIR BAG" and "SEAT BELT
 PRE-TENSIONER"
 
-### INFOID:0000000010099751
-
-### Precaution for Procedure without Cowl Top Cover
 
 ### 2014 Q70
 
@@ -672510,7 +669171,6 @@ INPUT SIGNAL AND OUTPUT SIGNAL
 Major signal transmission between each unit via communication lines is shown in the following table.
 VDC function, TCS function, ABS function, EBD function, Rise-up & Build-up function and Brake force distribution function
 
-### JSFIA2286GB
 
 ### Revision: 2013 November
 
@@ -672544,7 +669204,6 @@ communication.
 • VDC warning lamp signal
 • VDC OFF indicator lamp
 
-### Component
 
 ### CAN communication.
 
@@ -673081,7 +669740,6 @@ system is in normal operation).
 OFF
 When VDC OFF switch is ON (VDC function, TCS function and
 
-### Active trace control function are OFF)
 
 ### ABS FUNCTION
 
@@ -673181,7 +669839,6 @@ is large.
 • When installation of front RH wheel sensor or front RH wheel sensor rotor is not
 normal.
 
-### C1108
 
 ### C1109
 
@@ -673603,7 +670260,6 @@ be easily bypassed by steering operation.
 • During braking, control units calculates wheel speed and pseudo-vehicle speed, and transmits pressure
 increase, hold or decrease signals to actuator portion according to wheel slip status.
 
-### Component
 
 ### Revision: 2013 November
 
@@ -673782,7 +670438,6 @@ INPUT SIGNAL AND OUTPUT SIGNAL
 Major signal transmission between each unit via communication lines is shown in the following table.
 *: Communication line between yaw rate/side/decel G sensor and ABS actuator and electric unit (control unit)
 
-### ACTIVE STABILITY ASSIST
 
 ### Combination meter
 
@@ -673880,7 +670535,6 @@ OFF.
 > all driving conditions (example: when road surface resistance is low).
 > OPERATION CHARACTERISTICS
 
-### Component
 
 ### Combination meter
 
@@ -675499,7 +672153,6 @@ NO
 Diagnostic Work Sheet
 INFOID:0000000010099789
 
-### Description
 
 ### INTERVIEW SHEET SAMPLE
 
@@ -676054,7 +672707,6 @@ YES
 >> GO TO 5.
 NO
 
-### >> INSPECTION END
 
 ### Is the inspection result normal?
 
@@ -676166,7 +672818,6 @@ ABS actuator and electric unit (control unit)
 Wheel sensor
 Continuity
 
-### Connector
 
 ### Terminal
 
@@ -676189,7 +672840,6 @@ BRC-76
 C1105, C1106, C1107, C1108 WHEEL SENSOR
 C1105, C1106, C1107, C1108 WHEEL SENSOR
 
-### DTC Logic
 
 ### >> GO TO 2.
 
@@ -676253,7 +672903,6 @@ FR RH SENSOR-2
 and front RH wheel sensor rotor is large.
 • When installation of front RH wheel sensor or front
 
-### RH wheel sensor rotor is not normal.
 
 ### LH wheel sensor rotor is not normal.
 
@@ -676299,7 +672948,6 @@ Erase self-diagnosis result for “ABS”.
 Turn the ignition switch OFF, and wait 10 seconds or more.
 3.
 
-### Start the engine.
 
 ### >> GO TO 4.
 
@@ -676335,7 +672983,6 @@ wheel sensor mounting hole.
 > • Front: Refer to BRC-146, "FRONT WHEEL SENSOR : Exploded View".
 > • Rear: Refer to BRC-147, "REAR WHEEL SENSOR : Exploded View".
 
-### Is the inspection result normal?
 
 ### Erase self-diagnosis result for “ABS”.
 
@@ -676418,7 +673065,6 @@ Perform self-diagnosis for “ABS”.
 Is DTC “C1105”, “C1106”, “C1107” or “C1108” detected?
 YES
 
-### >> GO TO 11.
 
 ### Is the inspection result normal?
 
@@ -676462,7 +673108,6 @@ Erase self-diagnosis result for “ABS”.
 Turn the ignition switch OFF, and wait 10 seconds or more.
 5.
 
-### Start the engine.
 
 ### >> GO TO 13.
 
@@ -676559,7 +673204,6 @@ Perform self-diagnosis for “ABS”.
 Is DTC “C1105”, “C1106”, “C1107” or “C1108” detected?
 YES
 
-### >> GO TO 17.
 
 ### Erase self-diagnosis result for “ABS”.
 
@@ -676578,7 +673222,6 @@ Regarding the deference at 30 km/h (19 MPH) between the wheel speed detected by 
 wheel sensor and the maximum/minimum wheel speed detected by the normal wheel sensors, is the difference within 5%, respectively?
 YES
 
-### >> GO TO 18.
 
 ### >> GO TO 19.
 
@@ -676630,7 +673273,6 @@ INFOID:0000000010099799
 Ignition power supply is supplied to ABS actuator and electric unit (control unit).
 DTC Logic
 
-### INFOID:0000000010099800
 
 ### >> GO TO 2.
 
@@ -676816,7 +673458,6 @@ O
 P
 C1111 ABS MOTOR, MOTOR RELAY SYSTEM
 
-### DTC Logic
 
 ### >> GO TO 2.
 
@@ -676971,7 +673612,6 @@ O
 P
 C1115 WHEEL SENSOR
 
-### DTC Logic
 
 ### >> GO TO 2.
 
@@ -677073,7 +673713,6 @@ Perform self-diagnosis for “ABS”.
 Is DTC “C1115” detected?
 YES
 
-### Is the inspection result normal?
 
 ### >> GO TO 7.
 
@@ -677231,7 +673870,6 @@ Continuity
 Connector
 Terminal
 
-### Connector
 
 ### E27 (Front RH)
 
@@ -677301,9 +673939,6 @@ Perform self-diagnosis for “ABS”.
 Is DTC “C1115” detected?
 YES
 
-### >> GO TO 17.
-
-### >> GO TO 18.
 
 ### Is DTC “C1115” detected?
 
@@ -677438,7 +674073,6 @@ YES
 NO
 >> Check stop lamp system. Refer to EXL-45, "EXTERIOR LIGHTING SYSTEM : Wiring Diagram".
 
-### GO TO 4.
 
 ### Is the inspection result normal?
 
@@ -677491,7 +674125,6 @@ YES
 NO
 >> Replace stop lamp switch. Refer to BR-18, "Removal and Installation". GO TO 8.
 
-### 8.CHECK DATA MONITOR (3)
 
 ### Revision: 2013 November
 
@@ -677797,7 +674430,6 @@ Disconnect ABS actuator and electric unit (control unit) harness connector.
 Check voltage between ABS actuator and electric unit (control unit) harness connector and ground.
 4.
 
-### Turn the ignition switch ON.
 
 ### Display Item
 
@@ -677917,7 +674549,6 @@ BRC-98
 C1121, C1123, C1125, C1127 ABS OUT VALVE SYSTEM
 C1121, C1123, C1125, C1127 ABS OUT VALVE SYSTEM
 
-### DTC Logic
 
 ### >> GO TO 2.
 
@@ -677945,7 +674576,6 @@ Disconnect ABS actuator and electric unit (control unit) harness connector.
 Check voltage between ABS actuator and electric unit (control unit) harness connector and ground.
 4.
 
-### Turn the ignition switch ON.
 
 ### Display Item
 
@@ -678029,7 +674659,6 @@ C1130 ENGINE SIGNAL
 DTC Logic
 INFOID:0000000010099813
 
-### DTC DETECTION LOGIC
 
 ### >> GO TO 2.
 
@@ -678188,7 +674817,6 @@ When a malfunction is detected in actuator relay.
 • Fusible link
 • Battery power supply system
 
-### ABS actuator and electric unit (control unit)
 
 ### < DTC/CIRCUIT DIAGNOSIS >
 
@@ -678236,7 +674864,6 @@ O
 P
 C1142 PRESS SENSOR
 
-### DTC Logic
 
 ### >> GO TO 2.
 
@@ -678580,7 +675207,6 @@ O
 P
 C1144 INCOMPLETE STEERING ANGLE SENSOR ADJUSTMENT
 
-### DTC Logic
 
 ### >> GO TO 2.
 
@@ -679415,7 +676041,6 @@ O
 P
 C1170 VARIANT CODING
 
-### DTC Logic
 
 ### >> GO TO 2.
 
@@ -680042,7 +676667,6 @@ CAN communication allows a high rate of information transmission through the two
 (CAN-H line and CAN-L line) connecting various control units in the system. Each control unit transmits/
 receives data but selectively reads required data only.
 
-### DTC Logic
 
 ### >> GO TO 2.
 
@@ -680101,7 +676725,6 @@ Description
 INFOID:0000000010099847
 ADUS control unit reads status of signal that is transmitted from A/C auto AMP. to ADAS control unit.
 
-### DTC Logic
 
 ### >> GO TO 2.
 
@@ -680341,7 +676964,6 @@ E41
 Ground
 Battery voltage
 
-### ABS actuator and electric unit (control unit)
 
 ### < DTC/CIRCUIT DIAGNOSIS >
 
@@ -681972,7 +678594,6 @@ SYSTEM : Component Parts Location"
 Stop lamp switch
 10.
 
-### ICC brake switch
 
 ### Instrument lower panel (LH)
 
@@ -682058,7 +678679,6 @@ control and the settings of a vehicle speed and distance between vehicles
 • ICC steering switch signal is transmitted to ECM. ECM transmits
 the signal to the ADAS control unit via CAN communication
 
-### ICC brake switch
 
 ### Stop lamp switch
 
@@ -682353,7 +678973,6 @@ Stop lamp switch
 ICC brake switch
 11.
 
-### IBA OFF switch
 
 ### Revision: 2013 November
 
@@ -682779,7 +679398,6 @@ PRECAUTION
 PRECAUTIONS
 Precaution for Supplemental Restraint System (SRS) "AIR BAG" and "SEAT BELT
 
-### PRE-TENSIONER"
 
 ### PRECAUTIONS WHEN USING POWER TOOLS (AIR OR ELECTRIC) AND HAMMERS
 
@@ -684075,7 +680693,6 @@ PRECAUTIONS .................................................. 2
 Precaution for Supplemental Restraint System
 (SRS) "AIR BAG" and "SEAT BELT PRE-TENSIONER" ..................................................................2
 
-### Revision: 2013 November
 
 ### Precautions for Removing of Battery Terminal
 
@@ -684160,7 +680777,6 @@ unless the collision was minor and the belts show no damage and continue to oper
 pre-tensioners should be replaced even if the seat belts were not in use during a frontal collision in
 which the air bags were deployed.
 
-### Replace any seat belt assembly (including anchor bolts) if:
 
 ### PRELIMINARY CHECKS
 
@@ -684527,7 +681143,6 @@ SEAT BELT BUCKLE : Inspection
 INFOID:0000000010098613
 AFTER A COLLISION
 
-### Replace any seat belt assembly (including anchor bolts) if:
 
 ### PRELIMINARY CHECKS
 
@@ -684835,9 +681450,6 @@ Revision: 2013 November
 REAR SEAT BELT
 SB-15
 
-### < REMOVAL AND INSTALLATION >
-
-### Replace any seat belt assembly (including anchor bolts) if:
 
 ### PRELIMINARY CHECKS
 
@@ -685002,7 +681614,6 @@ Precaution for Supplemental Restraint System
 (SRS) "AIR BAG" and "SEAT BELT PRE-TENSIONER" ..................................................................2
 Precautions Necessary for Steering Wheel Rotation After Battery Disconnection ...............................2
 
-### Revision: 2013 November
 
 ### Revision: 2013 November
 
@@ -685063,7 +681674,6 @@ Special Service Tools
 INFOID:0000000010098629
 The actual shapes of Kent-Moore tools may differ from those of special service tools illustrated here.
 
-### Commercial Service Tools
 
 ### Tool name
 
@@ -685106,7 +681716,6 @@ SQUEAK AND RATTLE TROUBLE DIAGNOSES
 Work Flow
 INFOID:0000000010098631
 
-### CUSTOMER INTERVIEW
 
 ### DUPLICATE THE NOISE AND TEST DRIVE
 
@@ -685157,9 +681766,6 @@ noise.
 • Placing a piece of paper between components that are suspected to be the cause of the noise.
 • Looking for loose components and contact marks.
 
-### Refer to GW-7, "Inspection Procedure".
-
-### Department.
 
 ### URETHANE PADS [1.5 mm (0.059 in) thick]
 
@@ -685218,7 +681824,6 @@ After repair is complete, test drive the vehicle to confirm that the cause of no
 vehicle. Operate the vehicle under the same conditions as when the noise originally occurred. Refer to the
 notes on the Diagnostic Worksheet.
 
-### Inspection Procedure
 
 ### Acrylic lens and combination meter housing
 
@@ -685257,7 +681862,6 @@ Check the following items:
 Finisher and inner panel making a slapping noise
 2.
 
-### Inside handle escutcheon connection to door finisher
 
 ### TRUNK
 
@@ -685298,7 +681902,6 @@ When isolating seat noise it is important to note the position the seat is in an
 when the noise occurs. These conditions should be duplicated when verifying and isolating the cause of the
 noise.
 
-### Causes of seat noise include:
 
 ### UNDERHOOD
 
@@ -685309,7 +681912,6 @@ Causes of transmitted underhood noise include:
 Any component mounted to the engine wall
 2.
 
-### Components that pass through the engine wall
 
 ### Revision: 2013 November
 
@@ -685678,7 +682280,6 @@ INFOID:0000000010098643
 Regulator assembly
 3.
 
-### Module base
 
 ### 2014 Q70
 
@@ -685761,7 +682362,6 @@ Regulator assembly
 Module base
 4.
 
-### Power window motor
 
 ### GW-20
 
@@ -685904,7 +682504,6 @@ INFOID:0000000010098652
 SYSTEM INITIALIZATION OF ANTI-PINCH SYSTEM
 If any of the following work has been done, initialize the system. Refer to PWC-31, "Description".
 
-### Initialization
 
 ### JMKIA4911ZZ
 
@@ -686008,7 +682607,6 @@ If any of the following work has been done, initialize the system. Refer to PWC-
 Initialization
 After installing each component to the vehicle, follow the steps below. Refer to PWC-31, "Work Procedure".
 
-### FITTING INSPECTION
 
 ### Revision: 2013 November
 
@@ -686070,9 +682668,6 @@ N
 O
 P
 
-### PRECAUTION
-
-### Precaution for Procedure without Cowl Top Cover
 
 ### PIIB3706J
 
@@ -686442,7 +683037,6 @@ DETAILED FLOW
 1.OBTAIN INFORMATION ABOUT SYMPTOM
 Interview the customer to obtain the malfunction information (conditions and environment when the malfunction occurred) as much as possible when the customer brings the vehicle in.
 
-### >> GO TO 2.
 
 ### >> INSPECTION END
 
@@ -687265,7 +683859,6 @@ YES
 >> Check intermittent incident. Refer to GI-47, "Intermittent Incident".
 NO
 
-### >> GO TO 1.
 
 ### DUPLICATE THE NOISE AND TEST DRIVE
 
@@ -687328,7 +683921,6 @@ After repair is complete, test drive the vehicle to confirm that the cause of no
 vehicle. Operate the vehicle under the same conditions as when the noise originally occurred. Refer to the
 notes on the Diagnostic Worksheet.
 
-### Inspection Procedure
 
 ### TRUNK
 
@@ -687339,7 +683931,6 @@ Trunk lid dumpers out of adjustment
 2.
 Trunk lid striker out of adjustment
 
-### Revision: 2013 November
 
 ### Revision: 2013 November
 
@@ -687893,7 +684484,6 @@ Precaution for Supplemental Restraint System
 (SRS) "AIR BAG" and "SEAT BELT PRE-TENSIONER" ..................................................................3
 Precautions for Removing of Battery Terminal ........3
 
-### Revision: 2013 November
 
 ### Precautions for Removing of Battery Terminal
 
@@ -688263,7 +684853,6 @@ Stops the operation in the conditions as per the following.
 • A part of comfort function
 B2454:SEAT BLT PWR DR CIRC
 
-### Fully deactivates the whole operation.
 
 ### B2456:SEAT BLT PWR AS
 
@@ -688297,7 +684886,6 @@ Stops the operation in the conditions as per the following.
 • A part of comfort function
 U0428:STRG ANGL CAL
 
-### Stops the operation in the conditions as per the following.
 
 ### Display contents of CONSULT
 
@@ -688311,7 +684899,6 @@ Stops the operation in the conditions as per the following.
 • During emergency brake operation
 • When ABS continuously operates
 
-### B2455:CONTROL UNIT DR
 
 ### Revision: 2013 November
 
@@ -689227,7 +685814,6 @@ the incident/malfunction occurs).
 2.
 Check operation condition of the function that is malfunctioning.
 
-### >> GO TO 2.
 
 ### Check related service bulletins for information.
 
@@ -689236,7 +685822,6 @@ Symptom is described, DTC is detected>>GO TO 3.
 Symptom is described, DTC is not detected>>GO TO 4.
 Symptom is not described, DTC is detected>>GO TO 5.
 
-### 3.CONFIRM THE SYMPTOM
 
 ### >> GO TO 5.
 
@@ -690415,7 +687000,6 @@ SBC-48
 B2466 DR/AS CONTROL UNIT
 B2466 DR/AS CONTROL UNIT
 
-### DTC Logic
 
 ### Is DTC detected?
 
@@ -690480,7 +687064,6 @@ When fastening and unfastening seat belt or opening and closing door is repeated
 period of time, the system temporarily deactivates the retracting function of seat belt to prevent excessive
 heating. The system recovers automatically.
 
-### DTC Logic
 
 ### Is DTC detected?
 
@@ -690537,7 +687120,6 @@ When fastening and unfastening seat belt or opening and closing door is repeated
 period of time, the system temporarily deactivates the retracting function of seat belt to prevent excessive
 heating. The system recovers automatically.
 
-### DTC Logic
 
 ### Is DTC detected?
 
@@ -691306,7 +687888,6 @@ INFOID:0000000010095805
 1.CHECK POWER SUPPLY AND GROUND CIRCUIT
 Check power supply and ground circuit. Refer to SBC-51, "Diagnosis Procedure"
 
-### Is the inspection result normal?
 
 ### >> GO TO 1.
 
@@ -691335,7 +687916,6 @@ Check seat belt buckle switch (passenger side). Refer to SBC-54, "Component Func
 Is the inspection result normal?
 YES
 
-### >> GO TO 3.
 
 ### >> GO TO 1.
 
@@ -691486,7 +688066,6 @@ PRECAUTIONS .................................................. 2
 Precaution for Supplemental Restraint System
 (SRS) "AIR BAG" and "SEAT BELT PRE-TEN-
 
-### Revision: 2013 November
 
 ### Precautions for Removing of Battery Terminal
 
@@ -691627,7 +688206,6 @@ If any of the front air bags or seat belt pre-tensioners* have been activated:
 REPLACE the crash zone sensor and bracket with new fasteners.
 *: Confirm seat belt pre-tensioner activation using CONSULT only.
 
-### Seat belt pre-tensioner assem-
 
 ### Diagnosis sensor unit
 
@@ -691977,7 +688555,6 @@ REPLACE the satellite sensor on the collision side with new fasteners.
 Diagnosis sensor unit
 If any of the SRS components have deployed:
 
-### REPLACE the diagnosis sensor unit with new fasteners.
 
 ### Center inner pillar
 
@@ -692767,7 +689344,6 @@ Disconnect the crash zone sensor harness connector.
 > • Replace the crash zone sensor if it has been dropped or sustained an impact.
 > • Replace the crash zone sensor of deployed driver air bag module, deployed passenger air bag module, or seat belt pre-tensioner.
 
-### INSTALLATION
 
 ### JMHIA0009ZZ
 
@@ -692834,7 +689410,6 @@ or sustained an impact.
 • Replace the front door satellite sensor of deployed side air bag module and deployed curtain air bag
 module.
 
-### Installation
 
 ### SATELLITE SENSOR
 
@@ -693312,7 +689887,6 @@ of the vehicle. Gas is generated by chemical reaction of ignition material, pass
 filter, and deploys air bag.
 • Air bag module mainly consists of air bag and inflator that deploys air bag.
 
-### Driver air bag module
 
 ### Front door satellite sensor LH/RH
 
@@ -693331,7 +689905,6 @@ load limiter.
 • Lap pre-tensioner upgrades passenger restrain function by reducing movement of
 lumber during a frontal collision or side collision.
 
-### Occupant classification system control unit
 
 ### Passenger air bag OFF indicator
 
@@ -693377,7 +689950,6 @@ Seat belt pre-tensioner LH/RH
 the air bag diagnosis sensor unit detects the deceleration caused by collision. It restrains the passenger with seat belt easing the stress on passengers chest with
 load limiter.
 
-### Side air bag module LH/RH
 
 ### Component
 
@@ -694980,9 +691552,6 @@ INFOID:0000000010100320
 DTC DETECTION LOGIC
 DTC CONFIRMATION PROCEDURE
 
-### 1.CHECK SELF-DIAG RESULT
-
-### INFOID:0000000010100321
 
 ### 1.CHECK HARNESS CONNECTOR
 
@@ -695053,9 +691622,6 @@ B1006, B1007, B1008, B1009, B1010 DIAGNOSIS SENSOR UNIT
 DTC Logic
 INFOID:0000000010100322
 
-### DTC DETECTION LOGIC
-
-### >> GO TO 3.
 
 ### Is DTC detected?
 
@@ -695088,7 +691654,6 @@ DTC Logic
 INFOID:0000000010100324
 DTC DETECTION LOGIC
 
-### DTC CONFIRMATION PROCEDURE
 
 ### >> GO TO 3.
 
@@ -695167,7 +691732,6 @@ NO
 2.CHECK WIRING HARNESS
 Check the wiring harness externals.
 
-### Is the inspection result normal?
 
 ### Is DTC detected?
 
@@ -695253,7 +691817,6 @@ With CONSULT
 > >> INSPECTION END
 > Diagnosis Procedure
 
-### Is the inspection result normal?
 
 ### Is DTC detected?
 
@@ -695351,7 +691914,6 @@ WARNING:
 or more. (To discharge backup capacitor.)
 • Never use unspecified tester or other measuring device.
 
-### Is the inspection result normal?
 
 ### Is DTC detected?
 
@@ -695421,7 +691983,6 @@ O
 P
 B1023 PASSENGER AIR BAG OFF INDICATOR
 
-### DTC Logic
 
 ### Is malfunctioning part detected?
 
@@ -695509,7 +692070,6 @@ O
 P
 B1025, B1032, B1048 OCCUPANT SYSTEM SENSOR
 
-### DTC Logic
 
 ### Is malfunctioning part detected?
 
@@ -695524,7 +692084,6 @@ WARNING:
 or more. (To discharge backup capacitor.)
 • Never use unspecified tester or other measuring device.
 
-### Is the inspection result normal?
 
 ### Is DTC detected?
 
@@ -695585,7 +692144,6 @@ O
 P
 B1026, B1027, B1028, B1029, B1030, B1031 DIAGNOSIS SENSOR UNIT
 
-### DTC Logic
 
 ### Is malfunctioning part detected?
 
@@ -695600,7 +692158,6 @@ WARNING:
 or more. (To discharge backup capacitor.)
 • Never use unspecified tester or other measuring device.
 
-### >> GO TO 3.
 
 ### Is DTC detected?
 
@@ -695635,9 +692192,6 @@ INFOID:0000000010100338
 DTC DETECTION LOGIC
 DTC CONFIRMATION PROCEDURE
 
-### >> GO TO 3.
-
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -695687,7 +692241,6 @@ SRC-54
 < DTC/CIRCUIT DIAGNOSIS >
 B1035 CRASH ZONE SENSOR
 
-### B1035 CRASH ZONE SENSOR
 
 ### Is malfunctioning part detected?
 
@@ -695702,9 +692255,6 @@ WARNING:
 or more. (To discharge backup capacitor.)
 • Never use unspecified tester or other measuring device.
 
-### >> GO TO 3.
-
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -695780,9 +692330,6 @@ WARNING:
 or more. (To discharge backup capacitor.)
 • Never use unspecified tester or other measuring device.
 
-### >> GO TO 3.
-
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -695839,7 +692386,6 @@ Replace crash zone sensor. Refer to SR-21, "Removal and Installation".
 2.
 Perform DTC confirmation procedure. Refer to SRC-57, "DTC Logic".
 
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -695896,9 +692442,6 @@ DTC DETECTION LOGIC
 DTC CONFIRMATION PROCEDURE
 1.CHECK SELF-DIAG RESULT
 
-### With CONSULT
-
-### >> GO TO 3.
 
 ### Is DTC detected?
 
@@ -696087,9 +692630,6 @@ Perform “Self Diagnostic Result” mode of “AIR BAG” using CONSULT.
 Without CONSULT
 1.
 
-### Turn ignition switch ON.
-
-### >> INSPECTION END
 
 ### >> GO TO 3.
 
@@ -696277,7 +692817,6 @@ B1052, B1057 DRIVER AIR BAG MODULE
 B1052, B1057 DRIVER AIR BAG MODULE
 DTC Logic
 
-### Turn ignition switch ON.
 
 ### >> INSPECTION END
 
@@ -696475,7 +693014,6 @@ B1065, B1070 PASSENGER AIR BAG MODULE
 DTC Logic
 INFOID:0000000010100358
 
-### INFOID:0000000010100359
 
 ### >> GO TO 3.
 
@@ -696487,7 +693025,6 @@ Replace air bag diagnosis sensor unit. Refer to SR-25, "Removal and Installation
 2.
 Perform DTC confirmation procedure. Refer to SRC-69, "DTC Logic".
 
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -696538,7 +693075,6 @@ N
 O
 P
 
-### B1066, B1071 PASSENGER AIR BAG MODULE
 
 ### Is malfunctioning part detected?
 
@@ -696553,9 +693089,6 @@ WARNING:
 minutes or more. (To discharge backup capacitor.)
 • Never use unspecified tester or other measuring device.
 
-### >> GO TO 3.
-
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -696642,7 +693175,6 @@ Replace air bag diagnosis sensor unit. Refer to SR-25, "Removal and Installation
 2.
 Perform DTC confirmation procedure. Refer to SRC-73, "DTC Logic".
 
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -696730,7 +693262,6 @@ Replace air bag diagnosis sensor unit. Refer to SR-25, "Removal and Installation
 2.
 Perform DTC confirmation procedure. Refer to SRC-75, "DTC Logic".
 
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -696798,7 +693329,6 @@ DTC CONFIRMATION PROCEDURE
 > >> INSPECTION END
 > Diagnosis Procedure
 
-### >> GO TO 3.
 
 ### Is DTC detected?
 
@@ -697067,7 +693597,6 @@ Replace seat belt pre-tensioner RH. Refer to SR-27, "Removal and Installation".
 2.
 Perform DTC confirmation procedure. Refer to SRC-82, "DTC Logic".
 
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -697251,7 +693780,6 @@ Replace seat belt pre-tensioner RH. Refer to SR-27, "Removal and Installation".
 2.
 Perform DTC confirmation procedure. Refer to SRC-86, "DTC Logic".
 
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -697338,7 +693866,6 @@ Replace seat belt pre-tensioner LH. Refer to SR-27, "Removal and Installation".
 2.
 Perform DTC confirmation procedure. Refer to SRC-88, "DTC Logic".
 
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -697414,7 +693941,6 @@ WARNING:
 minutes or more. (To discharge backup capacitor.)
 • Never use unspecified tester or other measuring device.
 
-### >> GO TO 3.
 
 ### Is DTC detected?
 
@@ -697476,7 +694002,6 @@ Revision: 2013 November
 SRC-92
 < DTC/CIRCUIT DIAGNOSIS >
 
-### B1088 SEAT BELT PRE-TENSIONER LH
 
 ### Is malfunctioning part detected?
 
@@ -697491,9 +694016,6 @@ WARNING:
 minutes or more. (To discharge backup capacitor.)
 • Never use unspecified tester or other measuring device.
 
-### >> GO TO 3.
-
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -697570,9 +694092,6 @@ WARNING:
 minutes or more. (To discharge backup capacitor.)
 • Never use unspecified tester or other measuring device.
 
-### >> GO TO 3.
-
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -697649,7 +694168,6 @@ WARNING:
 minutes or more. (To discharge backup capacitor.)
 • Never use unspecified tester or other measuring device.
 
-### >> GO TO 3.
 
 ### Is DTC detected?
 
@@ -697696,7 +694214,6 @@ O
 P
 B1106, B1107, B1108, B1109, B1110, B1111 DIAGNOSIS SENSOR UNIT
 
-### DTC Logic
 
 ### Is malfunctioning part detected?
 
@@ -697711,7 +694228,6 @@ WARNING:
 minutes or more. (To discharge backup capacitor.)
 • Never use unspecified tester or other measuring device.
 
-### >> GO TO 3.
 
 ### Is DTC detected?
 
@@ -697756,7 +694272,6 @@ Replace satellite sensor RH. Refer to SR-23, "Removal and Installation".
 2.
 Perform DTC confirmation procedure. Refer to SRC-98, "DTC Logic".
 
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -697842,7 +694357,6 @@ Replace satellite sensor RH. Refer to SR-23, "Removal and Installation".
 2.
 Perform DTC confirmation procedure. Refer to SRC-100, "DTC Logic".
 
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -697892,7 +694406,6 @@ SRC-102
 < DTC/CIRCUIT DIAGNOSIS >
 B1116 SATELLITE SENSOR RH
 
-### B1116 SATELLITE SENSOR RH
 
 ### Is malfunctioning part detected?
 
@@ -697907,7 +694420,6 @@ WARNING:
 minutes or more. (To discharge backup capacitor.)
 • Never use unspecified tester or other measuring device.
 
-### >> GO TO 3.
 
 ### Is DTC detected?
 
@@ -697977,7 +694489,6 @@ Replace satellite sensor LH. Refer to SR-23, "Removal and Installation".
 2.
 Perform DTC confirmation procedure. Refer to SRC-103, "DTC Logic"
 
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -698063,7 +694574,6 @@ Replace satellite sensor LH. Refer to SR-23, "Removal and Installation".
 2.
 Perform DTC confirmation procedure. Refer to SRC-105, "DTC Logic".
 
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -698149,7 +694659,6 @@ Replace satellite sensor LH. Refer to SR-23, "Removal and Installation".
 2.
 Perform DTC confirmation procedure. Refer to SRC-107, "DTC Logic".
 
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -698188,7 +694697,6 @@ INFOID:0000000010100402
 > >> INSPECTION END
 > Diagnosis Procedure
 
-### >> GO TO 3.
 
 ### Is DTC detected?
 
@@ -698348,9 +694856,6 @@ WARNING:
 minutes or more. (To discharge backup capacitor.)
 • Never use unspecified tester or other measuring device.
 
-### >> GO TO 3.
-
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -698427,7 +694932,6 @@ WARNING:
 minutes or more. (To discharge backup capacitor.)
 • Never use unspecified tester or other measuring device.
 
-### >> GO TO 3.
 
 ### Is DTC detected?
 
@@ -698516,9 +695020,6 @@ WARNING:
 minutes or more. (To discharge backup capacitor.)
 • Never use unspecified tester or other measuring device.
 
-### >> GO TO 3.
-
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -698581,7 +695082,6 @@ Turn ignition switch ON.
 2.
 Perform “Self Diagnostic Result” mode of “AIR BAG” using CONSULT.
 
-### Is malfunctioning part detected?
 
 ### >> GO TO 3.
 
@@ -698593,7 +695093,6 @@ Replace air bag diagnosis sensor unit. Refer to SR-25, "Removal and Installation
 2.
 Perform DTC confirmation procedure. Refer to SRC-117, "DTC Logic".
 
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -698642,7 +695141,6 @@ N
 O
 P
 
-### B1135 SIDE AIR BAG MODULE LH
 
 ### Is malfunctioning part detected?
 
@@ -698657,9 +695155,6 @@ WARNING:
 minutes or more. (To discharge backup capacitor.)
 • Never use unspecified tester or other measuring device.
 
-### >> GO TO 3.
-
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -698710,7 +695205,6 @@ N
 O
 P
 
-### B1136 SIDE AIR BAG MODULE LH
 
 ### Is malfunctioning part detected?
 
@@ -698725,9 +695219,6 @@ WARNING:
 minutes or more. (To discharge backup capacitor.)
 • Never use unspecified tester or other measuring device.
 
-### >> GO TO 3.
-
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -698804,7 +695295,6 @@ WARNING:
 minutes or more. (To discharge backup capacitor.)
 • Never use unspecified tester or other measuring device.
 
-### >> GO TO 3.
 
 ### Is DTC detected?
 
@@ -698883,7 +695373,6 @@ DTC CONFIRMATION PROCEDURE
 > >> INSPECTION END
 > Diagnosis Procedure
 
-### >> GO TO 3.
 
 ### Is DTC detected?
 
@@ -698918,7 +695407,6 @@ INFOID:0000000010100422
 DTC DETECTION LOGIC
 DTC CONFIRMATION PROCEDURE
 
-### >> GO TO 3.
 
 ### Is DTC detected?
 
@@ -698966,7 +695454,6 @@ INFOID:0000000010100424
 DTC DETECTION LOGIC
 DTC CONFIRMATION PROCEDURE
 
-### >> GO TO 3.
 
 ### Is DTC detected?
 
@@ -699028,7 +695515,6 @@ N
 O
 P
 
-### B1146 CURTAIN AIR BAG MODULE RH
 
 ### Is malfunctioning part detected?
 
@@ -699043,9 +695529,6 @@ WARNING:
 minutes or more. (To discharge backup capacitor.)
 • Never use unspecified tester or other measuring device.
 
-### >> GO TO 3.
-
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -699122,9 +695605,6 @@ WARNING:
 minutes or more. (To discharge backup capacitor.)
 • Never use unspecified tester or other measuring device.
 
-### >> GO TO 3.
-
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -699395,9 +695875,6 @@ WARNING:
 minutes or more. (To discharge backup capacitor.)
 • Never use unspecified tester or other measuring device.
 
-### >> GO TO 3.
-
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -699448,7 +695925,6 @@ N
 O
 P
 
-### B1152 CURTAIN AIR BAG MODULE LH
 
 ### Is malfunctioning part detected?
 
@@ -699463,9 +695939,6 @@ WARNING:
 minutes or more. (To discharge backup capacitor.)
 • Never use unspecified tester or other measuring device.
 
-### >> GO TO 3.
-
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -699516,7 +695989,6 @@ N
 O
 P
 
-### B1153 CURTAIN AIR BAG MODULE LH
 
 ### Is malfunctioning part detected?
 
@@ -699531,9 +696003,6 @@ WARNING:
 minutes or more. (To discharge backup capacitor.)
 • Never use unspecified tester or other measuring device.
 
-### >> GO TO 3.
-
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -699601,7 +696070,6 @@ DTC CONFIRMATION PROCEDURE
 > >> INSPECTION END
 > Diagnosis Procedure
 
-### >> GO TO 3.
 
 ### Is DTC detected?
 
@@ -699633,11 +696101,6 @@ B1170, B1171, B1172, B1173, B1174, B1175 DIAGNOSIS SENSOR UNIT
 B1170, B1171, B1172, B1173, B1174, B1175 DIAGNOSIS SENSOR UNIT
 DTC Logic
 
-### Turn ignition switch ON.
-
-### >> INSPECTION END
-
-### >> GO TO 3.
 
 ### Is DTC detected?
 
@@ -699702,9 +696165,6 @@ DTC CONFIRMATION PROCEDURE
 > minutes. (To discharge backup capacitor.)
 > • Never use unspecified tester or other measuring device.
 
-### >> GO TO 3.
-
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -699749,9 +696209,6 @@ With CONSULT
 > Diagnosis Procedure
 > INFOID:0000000010100447
 
-### >> GO TO 3.
-
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -699821,7 +696278,6 @@ Replace lap pre-tensioner LH. Refer to SR-27, "Removal and Installation".
 2.
 Perform DTC confirmation procedure. Refer to SRC-147, "DTC Logic".
 
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -699867,9 +696323,6 @@ With CONSULT
 > Diagnosis Procedure
 > INFOID:0000000010100451
 
-### >> GO TO 3.
-
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -699915,11 +696368,6 @@ O
 P
 B1186, B1187, B1188, B1189, B1190, B1191 DIAGNOSIS SENSOR UNIT
 
-### DTC Logic
-
-### Is malfunctioning part detected?
-
-### >> GO TO 3.
 
 ### Is DTC detected?
 
@@ -699951,11 +696399,6 @@ B1202, B1203, B1204, B1205, B1206, B1207 DIAGNOSIS SENSOR UNIT
 B1202, B1203, B1204, B1205, B1206, B1207 DIAGNOSIS SENSOR UNIT
 DTC Logic
 
-### Turn ignition switch ON.
-
-### >> INSPECTION END
-
-### >> GO TO 3.
 
 ### Is DTC detected?
 
@@ -700005,7 +696448,6 @@ Description
 INFOID:0000000010100456
 The air bags and seat belt pre-tensioners for driver and passenger are activated by the air bag diagnosis sensor unit signal transmitted at the time of the frontal collision.
 
-### DTC Logic
 
 ### Is malfunctioning part detected?
 
@@ -700143,7 +696585,6 @@ WARNING:
 minutes or more. (To discharge backup capacitor.)
 • Never use unspecified tester or other measuring device.
 
-### >> GO TO 3.
 
 ### Is DTC detected?
 
@@ -700241,7 +696682,6 @@ Replace satellite sensor LH. Refer to SR-23, "Removal and Installation".
 2.
 Perform DTC confirmation procedure. Refer to SRC-155, "DTC Logic"
 
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -700299,7 +696739,6 @@ DTC DETECTION LOGIC
 DTC CONFIRMATION PROCEDURE
 1.CHECK SELF-DIAG RESULT
 
-### >> GO TO 3.
 
 ### Is DTC detected?
 
@@ -700331,11 +696770,6 @@ B1234, B1235, B1236, B1237, B1238, B1239 DIAGNOSIS SENSOR UNIT
 B1234, B1235, B1236, B1237, B1238, B1239 DIAGNOSIS SENSOR UNIT
 DTC Logic
 
-### Turn ignition switch ON.
-
-### >> INSPECTION END
-
-### >> GO TO 3.
 
 ### Is DTC detected?
 
@@ -700382,7 +696816,6 @@ O
 P
 B1250, B1251, B1252, B1253, B1254, B1255 DIAGNOSIS SENSOR UNIT
 
-### DTC Logic
 
 ### Is malfunctioning part detected?
 
@@ -700440,7 +696873,6 @@ Replace front door satellite sensor RH. Refer to SR-23, "Removal and Installatio
 2.
 Perform DTC confirmation procedure. Refer to SRC-160, "DTC Logic".
 
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -700627,7 +697059,6 @@ YES
 NO
 >> INSPECTION END
 
-### 2.REPLACE AIR BAG DIAGNOSIS SENSOR UNIT
 
 ### Display contents of
 
@@ -700779,7 +697210,6 @@ Replace front door satellite sensor LH. Refer to SR-23, "Removal and Installatio
 2.
 Perform DTC confirmation procedure. Refer to SRC-170, "DTC Logic".
 
-### Is DTC detected?
 
 ### Is DTC detected?
 
@@ -700923,7 +697353,6 @@ YES
 NO
 >> INSPECTION END
 
-### 2.REPLACE AIR BAG DIAGNOSIS SENSOR UNIT
 
 ### Display contents of
 
@@ -701154,9 +697583,6 @@ Precaution for Supplemental Restraint System
 (SRS) "AIR BAG" and "SEAT BELT PRE-TENSIONER" ..................................................................3
 Precaution for Procedure without Cowl Top Cover ......3
 
-### Revision: 2013 November
-
-### Precaution for Procedure without Cowl Top Cover
 
 ### 2014 Q70
 
@@ -701949,7 +698375,6 @@ P
 CONTENTS
 HEATER & AIR CONDITIONING CONTROL SYSTEM
 
-### AUTOMATIC AIR CONDITIONING
 
 ### AUTOMATIC AIR CONDITIONING SYSTEM ..........14
 
@@ -702531,7 +698956,6 @@ detects door position.
 • According to PBR feedback signal, A/C auto amp. monitors that motor is in an appropriate door position.
 HEATER & COOLING UNIT ASSEMBLY : Air Mix Door Motor (Passenger Side)
 
-### INFOID:0000000010099387
 
 ### HEATER & COOLING UNIT ASSEMBLY : Aspirator
 
@@ -702550,7 +698974,6 @@ signal from A/C auto amp.
 • According to PBR feedback signal, A/C auto amp. monitors that motor is in an appropriate door position.
 HEATER & COOLING UNIT ASSEMBLY : Mode Door Motor (Passenger side)
 
-### INFOID:0000000010099390
 
 ### HEATER & COOLING UNIT ASSEMBLY : Rear Mode Door Motor
 
@@ -703970,7 +700393,6 @@ at a rate of 0.5°C (1.0°F) per adjustment.
 Press: Setting temperature increases
 •
 
-### Press: Setting temperature decreases
 
 ### Temperature control
 
@@ -704090,7 +700512,6 @@ automatic control. (Intake switch indicator indicates air inlet state during aut
 > at a rate of 0.5°C (1.0°F) per adjustment.
 > •
 
-### Press: Setting temperature increases
 
 ### Switch name
 
@@ -707478,7 +703899,6 @@ N
 O
 P
 
-### DTC/CIRCUIT DIAGNOSIS
 
 ### DTC Logic
 
@@ -707743,7 +704163,6 @@ YES
 NO
 >> Replace in-vehicle sensor. Refer to HAC-177, "Removal and Installation".
 
-### 7.CHECK INTERMITTENT INCIDENT
 
 ### INFOID:0000000010099448
 
@@ -708154,7 +704573,6 @@ DTC Logic
 INFOID:0000000010099452
 DTC DETECTION LOGIC
 
-### DTC CONFIRMATION PROCEDURE
 
 ### >> INSPECTION END
 
@@ -708399,9 +704817,6 @@ B262A, B262B, B2657, B2658 EXHAUST GAS/OUTSIDE ODOR DETECTING
 SENSOR
 B262A, B262B, B2657, B2658 EXHAUST GAS/OUTSIDE ODOR DETECTING SENSOR
 
-### DTC Logic
-
-### DTC CONFIRMATION PROCEDURE
 
 ### >> INSPECTION END
 
@@ -708745,7 +705160,6 @@ NOTE:
 • Sunload sensor may register a malfunction when indoors, at dusk, or at other times when light is insufficient.
 When performing the diagnosis indoors, use a lamp (60 W or more) that is pointed at the sunload sensor.
 
-### DTC CONFIRMATION PROCEDURE
 
 ### >> INSPECTION END
 
@@ -708891,7 +705305,6 @@ YES
 NO
 >> Replace sunload sensor. Refer to HAC-178, "Removal and Installation".
 
-### 7.CHECK INTERMITTENT INCIDENT
 
 ### Continuity
 
@@ -709024,7 +705437,6 @@ circuit. Refer to HAC-145, "DOOR MOTOR PBR (WITH FOREST AIR) : Diagnosis Procedu
 circuit. Refer to HAC-147, "DOOR MOTOR PBR (WITHOUT FOREST AIR) : Diagnosis Procedure" (Without
 Forest Air).
 
-### DTC CONFIRMATION PROCEDURE
 
 ### >> INSPECTION END
 
@@ -709478,7 +705890,6 @@ HAC-104
 B2753, B2754, B2755 AIR MIX DOOR MOTOR (PASSENGER SIDE)
 B2753, B2754, B2755 AIR MIX DOOR MOTOR (PASSENGER SIDE)
 
-### DTC Logic
 
 ### DTC CONFIRMATION PROCEDURE
 
@@ -709963,9 +706374,6 @@ P
 B2756, B2757, B2758 MODE DOOR MOTOR (DRIVER SIDE)
 DTC Logic
 
-### INFOID:0000000010099468
-
-### DTC CONFIRMATION PROCEDURE
 
 ### >> INSPECTION END
 
@@ -710441,7 +706849,6 @@ HAC-114
 [AUTOMATIC AIR CONDITIONING]
 B2759, B275A, B275B MODE DOOR MOTOR (PASSENGER SIDE)
 
-### B2759, B275A, B275B MODE DOOR MOTOR (PASSENGER SIDE)
 
 ### DTC CONFIRMATION PROCEDURE
 
@@ -710949,9 +707356,6 @@ O
 P
 B275C, B275D, B275E INTAKE DOOR MOTOR
 
-### DTC Logic
-
-### DTC CONFIRMATION PROCEDURE
 
 ### >> INSPECTION END
 
@@ -711434,9 +707838,6 @@ HAC-124
 [AUTOMATIC AIR CONDITIONING]
 B275F, B2760, B2761 UPPER VENTILATOR DOOR MOTOR
 
-### B275F, B2760, B2761 UPPER VENTILATOR DOOR MOTOR
-
-### DTC CONFIRMATION PROCEDURE
 
 ### >> INSPECTION END
 
@@ -712058,7 +708459,6 @@ HAC-130
 B2762, B2763, B2764 REAR MODE DOOR MOTOR
 B2762, B2763, B2764 REAR MODE DOOR MOTOR
 
-### DTC Logic
 
 ### DTC CONFIRMATION PROCEDURE
 
@@ -712546,9 +708946,6 @@ N
 O
 P
 
-### B2768, B2769, B276A AROMA MOTOR
-
-### DTC CONFIRMATION PROCEDURE
 
 ### >> INSPECTION END
 
@@ -713014,9 +709411,6 @@ HAC-140
 B276B, B276C, B276D HUMIDITY SENSOR
 B276B, B276C, B276D HUMIDITY SENSOR
 
-### DTC Logic
-
-### DTC CONFIRMATION PROCEDURE
 
 ### >> INSPECTION END
 
@@ -713368,7 +709762,6 @@ YES
 >> INSPECTION END
 NO
 
-### >> GO TO 15.
 
 ### Component Inspection
 
@@ -716888,9 +713281,6 @@ FRONT DOOR FINISHER ................................ 30
 Exploded View ....................................................... 30
 FRONT DOOR FINISHER ........................................ 30
 
-### Revision: 2013 November
-
-### Precaution for Procedure without Cowl Top Cover
 
 ### 2014 Q70
 
@@ -716939,7 +713329,6 @@ Special Service Tools
 INFOID:0000000010102117
 The actual shapes of Kent-Moore tools may differ from those of special service tools illustrated here.
 
-### Commercial Service Tools
 
 ### Tool name
 
@@ -717292,7 +713681,6 @@ DETAILED FLOW
 1.OBTAIN INFORMATION ABOUT SYMPTOM
 Interview the customer to obtain as much malfunction information (conditions and environment when the malfunction occurred) as possible when the customer brings the vehicle in.
 
-### >> GO TO 2.
 
 ### >> GO TO 4.
 
@@ -717718,7 +714106,6 @@ Revision: 2013 November
 INT-24
 < SYMPTOM DIAGNOSIS >
 
-### SQUEAK AND RATTLE TROUBLE DIAGNOSES
 
 ### SBT842
 
@@ -717755,7 +714142,6 @@ The following materials, not found in the kit, can also be used to repair squeak
 UHMW (TEFLON) TAPE
 Insulates where slight movement is present. Ideal for instrument panel applications.
 
-### Inspection Procedure
 
 ### Revision: 2013 November
 
@@ -719595,7 +715981,6 @@ Note the following item, and then install in the reverse order of removal.
 > INSTRUMENT PANEL
 > PRECAUTION .............................................. 2
 
-### Revision: 2013 November
 
 ### Revision: 2013 November
 
@@ -719669,7 +716054,6 @@ Special Service Tools
 INFOID:0000000010099366
 The actual shapes of Kent-Moore tools may differ from those of special service tools illustrated here.
 
-### Commercial Service Tools
 
 ### Tool name
 
@@ -719716,7 +716100,6 @@ IP-6
 < SYMPTOM DIAGNOSIS >
 SQUEAK AND RATTLE TROUBLE DIAGNOSES
 
-### SYMPTOM DIAGNOSIS
 
 ### DUPLICATE THE NOISE AND TEST DRIVE
 
@@ -719747,9 +716130,6 @@ the Diagnostic Worksheet regarding the conditions or location of the noise. This
 duplicate the same conditions when the repair is reconfirmed.
 If the noise can be duplicated easily during the test drive, to help identify the source of the noise, try to duplicate the noise with the vehicle stopped by doing one or all of the following items:
 
-### INSULATOR (Light foam block)
-
-### Inspection Procedure
 
 ### TRUNK
 
@@ -719759,7 +716139,6 @@ Revision: 2013 November
 2014 Q70
 SQUEAK AND RATTLE TROUBLE DIAGNOSES
 
-### IP-9
 
 ### Revision: 2013 November
 
@@ -720162,7 +716541,6 @@ Revision: 2013 November
 IP-16
 < REMOVAL AND INSTALLATION >
 
-### INSTRUMENT PANEL ASSEMBLY
 
 ### Disconnect harness connectors.
 
@@ -721081,7 +717459,6 @@ O
 P
 Diagnosis Procedure ..............................................92
 
-### Revision: 2013 November
 
 ### Precautions for Removing of Battery Terminal
 
@@ -721156,7 +717533,6 @@ Special Service Tool
 INFOID:0000000010102024
 The actual shapes of Kent-Moore tools may differ from those of special service tools illustrated here.
 
-### Commercial Service Tool
 
 ### Tool name
 
@@ -721974,7 +718350,6 @@ and seat cushion thermal electric unit becomes less than 20°C, the system recov
 automatic system recovery, it immediately stops all output and enters the
 system OFF condition.
 
-### Climate controlled seat blower motor system open circuit
 
 ### Revision: 2013 November
 
@@ -722014,7 +718389,6 @@ O
 P
 HEATED SEAT CONTROL UNIT (DRIVER SIDE)
 
-### Reference Value
 
 ### Description
 
@@ -722094,7 +718468,6 @@ SE-22
 HEATED SEAT CONTROL UNIT (PASSENGER SIDE)
 HEATED SEAT CONTROL UNIT (PASSENGER SIDE)
 
-### Reference Value
 
 ### (LG/R)
 
@@ -725707,7 +722080,6 @@ YES
 >> INSPECTION END
 NO
 
-### >> GO TO 5.
 
 ### 2014 Q70
 
@@ -725885,7 +722257,6 @@ NO
 Check temperature adjustment function of climated controlled seat.
 Refer to SE-87, "SEAT CUSHION : Diagnosis Procedure".
 
-### Is the inspection result normal?
 
 ### >> GO TO 1.
 
@@ -726092,7 +722463,6 @@ Revision: 2013 November
 2014 Q70
 SQUEAK AND RATTLE TROUBLE DIAGNOSES
 
-### SE-95
 
 ### SBT842
 
@@ -726126,7 +722496,6 @@ noise.
 • Placing a piece of paper between components that are suspected to be the cause of the noise.
 • Looking for loose components and contact marks.
 
-### Refer to SE-97, "Inspection Procedure".
 
 ### Department.
 
@@ -726211,7 +722580,6 @@ Pay attention to the following:
 Finisher and inner panel making a slapping noise
 2.
 
-### Inside handle escutcheon to door finisher
 
 ### TRUNK
 
@@ -726251,9 +722619,6 @@ SEATS
 When isolating seat noise it's important to note the position the seats in and the load placed on the seat when
 the noise occurs. These conditions should be duplicated when verifying and isolating the cause of the noise.
 
-### Cause of seat noise include:
-
-### Components that pass through the engine wall
 
 ### Revision: 2013 November
 
@@ -727447,7 +723812,6 @@ INFOID:0000000010102108
 Refer to IP-23, "Exploded View".
 Removal and Installation
 
-### INFOID:0000000010102109
 
 ### Assembly".
 
@@ -727487,7 +723851,6 @@ Exploded View
 INFOID:0000000010102110
 Refer to IP-23, "Exploded View".
 
-### Removal and Installation
 
 ### Assembly".
 
@@ -727548,7 +723911,6 @@ Turn blower filter counter clockwise and remove it from climate controlled seat 
 > O
 > P
 
-### CONTENTS
 
 ### INSPECTION AND ADJUSTMENT ..................56
 
@@ -727584,7 +723946,6 @@ P
 CHANGEOVER SWITCH : Component Function
 Check .....................................................................89
 
-### Revision: 2013 November
 
 ### Precautions for Removing of Battery Terminal
 
@@ -732726,7 +729087,6 @@ RECLINING SWITCH
 NO
 >> Repair or replace harness or connector.
 
-### 3.CHECK RECLINING SWITCH
 
 ### >> INSPECTION END
 
@@ -732890,7 +729250,6 @@ LIFTING SWITCH (FRONT)
 NO
 >> Repair or replace harness or connector.
 
-### 3.CHECK LIFTING SWITCH (FRONT)
 
 ### >> INSPECTION END
 
@@ -734208,7 +730567,6 @@ INFOID:0000000010099636
 Select “SLIDE PULSE” in “Data monitor” mode with CONSULT.
 2.
 
-### Check sliding sensor signal under the following conditions.
 
 ### Diagnosis Procedure
 
@@ -735062,7 +731420,6 @@ INFOID:0000000010099644
 Select “TILT PULSE” in “Data monitor” mode with CONSULT.
 2.
 
-### Check tilt sensor signal under the following conditions.
 
 ### Diagnosis Procedure
 
@@ -736047,7 +732404,6 @@ N
 O
 P
 
-### Is the inspection result normal?
 
 ### Not existed
 
@@ -736439,7 +732795,6 @@ N
 O
 P
 
-### Is the inspection result normal?
 
 ### Not existed
 
@@ -737630,7 +733985,6 @@ YES
 NO
 >> Refer to ADP-132, "SEAT SLIDING : Diagnosis Procedure"
 
-### 2.CHECK SLIDING SENSOR
 
 ### Is the result normal?
 
@@ -737672,7 +734026,6 @@ YES
 NO
 >> Refer to ADP-132, "SEAT RECLINING : Diagnosis Procedure"
 
-### 2.CHECK RECLINING SENSOR
 
 ### Is the result normal?
 
@@ -738208,7 +734561,6 @@ REMOVAL
 > 3.
 > Remove automatic drive positioner control unit.
 
-### INSTALLATION
 
 ### Revision: 2013 November
 
@@ -738260,7 +734612,6 @@ Remove the front door finisher. Refer to INT-31, "FRONT DOOR FINISHER : Removal 
 2.
 Press pawls and remove seat memory switch from front door finisher, with flat-bladed screw driver.
 
-### INSTALLATION
 
 ### Revision: 2013 November
 
@@ -738296,7 +734647,6 @@ Remove the front seat (driver side). Refer to SE-108, "Removal and Installation"
 Remove the seat cushion outer finisher. Refer to SE-111, "SEAT CUSHION : Disassembly and Assembly".
 3.
 
-### Remove the screws.
 
 ### Revision: 2013 November
 
@@ -738433,9 +734783,6 @@ PRECAUTION
 PRECAUTIONS
 Precaution for Supplemental Restraint System (SRS) "AIR BAG" and "SEAT BELT
 
-### PRE-TENSIONER"
-
-### Precaution for Procedure without Cowl Top Cover
 
 ### PIIB3706J
 
@@ -738484,7 +734831,6 @@ Special Service Tools
 INFOID:0000000010102745
 The actual shapes of Kent-Moore tools may differ from those of special service tools illustrated here.
 
-### Commercial Service Tools
 
 ### Tool name
 
@@ -740112,7 +736458,6 @@ RETAINED PWR
 ×
 Signal buffer system
 
-### SIGNAL BUFFER
 
 ### “LOCK”.
 
@@ -740327,7 +736672,6 @@ touched
 screen is touched
 • The door lock actuator (other) is unlocked when “OTR ULK” on CONSULT screen is touched
 
-### Monitor item
 
 ### ENGINE START BY I-KEY
 
@@ -740508,11 +736852,6 @@ S/L -UNLOCK
 NOTE:
 This item is displayed, but cannot be monitored
 
-### S/L RELAY -F/B
-
-### Indicates [On/Off] condition of ignition relay 1
-
-### ENGINE STATE
 
 ### DOOR STAT-DR
 
@@ -741199,7 +737538,6 @@ the incident/malfunction occurs).
 2.
 Check operation condition of the function that is malfunctioning.
 
-### >> GO TO 2.
 
 ### Check related service bulletins for information.
 
@@ -741208,7 +737546,6 @@ Symptom is described, DTC is displayed>>GO TO 3.
 Symptom is described, DTC is not displayed>>GO TO 4.
 Symptom is not described, DTC is displayed>>GO TO 5.
 
-### 3.CONFIRM THE SYMPTOM
 
 ### >> GO TO 5.
 
@@ -741592,7 +737929,6 @@ JMKIA3839GB
 JMKIA5951GB
 Revision: 2013 November
 
-### 2014 Q70
 
 ### 3.CHECK INSIDE KEY ANTENNA INPUT SIGNAL 2
 
@@ -741721,7 +738057,6 @@ When Intelligent Key is not in antenna detection area
 JMKIA3839GB
 JMKIA5951GB
 
-### Revision: 2013 November
 
 ### 3.CHECK INSIDE KEY ANTENNA INPUT SIGNAL 2
 
@@ -741804,7 +738139,6 @@ YES
 NO
 >> Inside key antenna (driver side) is OK.
 
-### Diagnosis Procedure
 
 ### >> GO TO 2.
 
@@ -741978,7 +738312,6 @@ YES
 NO
 >> Inside key antenna (passenger side) is OK.
 
-### Diagnosis Procedure
 
 ### >> GO TO 2.
 
@@ -742125,7 +738458,6 @@ YES
 NO
 >> Inside key antenna (rear bumper) is OK.
 
-### Diagnosis Procedure
 
 ### >> GO TO 2.
 
@@ -743340,7 +739672,6 @@ DOOR LOCK ACTUATOR
 3.
 Check continuity between BCM harness connector and ground.
 
-### Is the inspection result normal?
 
 ### REAR RH
 
@@ -743467,7 +739798,6 @@ Check continuity between BCM harness connector and rear door lock assembly RH ha
 3.
 Check continuity between BCM harness connector and ground.
 
-### Is the inspection result normal?
 
 ### Rear door lock assembly RH
 
@@ -745456,7 +741786,6 @@ DRIVER SIDE : Diagnosis Procedure
 INFOID:0000000010102845
 1.CHECK DOOR LOCK ACTUATOR
 
-### Check front door lock assembly (driver side).
 
 ### Is the result normal?
 
@@ -745513,7 +741842,6 @@ REAR LH : Diagnosis Procedure
 INFOID:0000000010102849
 1.CHECK DOOR LOCK ACTUATOR
 
-### Check rear door lock assembly LH.
 
 ### Is the result normal?
 
@@ -745732,7 +742060,6 @@ PASSENGER SIDE : Diagnosis Procedure
 INFOID:0000000010102858
 1.CHECK PASSENGER SIDE DOOR REQUEST SWITCH
 
-### Check passenger side door request switch.
 
 ### Is the result normal?
 
@@ -746308,7 +742635,6 @@ N
 O
 P
 
-### VEHICLE SPEED SENSING AUTO LOCK OPERATION DOES NOT OPER-
 
 ### Is the inspection result normal?
 
@@ -746405,7 +742731,6 @@ N
 O
 P
 
-### P RANGE INTERLOCK DOOR LOCK/UNLOCK FUNCTION DOES NOT OP-
 
 ### Is the inspection result normal?
 
@@ -746714,7 +743039,6 @@ YES
 NO
 >> Repair or replace the malfunctioning parts.
 
-### 4.CHECK TRUNK LID OPEN SIGNAL CIRCUIT
 
 ### Check unlock sensor.
 
@@ -746929,7 +743253,6 @@ Diagnosis Procedure
 INFOID:0000000010102884
 1.CHECK DTC WITH BCM
 
-### Check that DTC is not detected with BCM.
 
 ### >> GO TO 3.
 
@@ -746990,7 +743313,6 @@ DLK-140
 ACC WARNING DOES NOT OPERATE
 ACC WARNING DOES NOT OPERATE
 
-### Diagnosis Procedure
 
 ### Check that DTC is not detected with combination meter.
 
@@ -747003,7 +743325,6 @@ NO
 Check combination meter buzzer.
 Refer to DLK-112, "Component Function Check".
 
-### Is the inspection result normal?
 
 ### >> GO TO 5.
 
@@ -747058,7 +743379,6 @@ YES
 NO
 >> Repair or replace the malfunctioning parts.
 
-### 4.CHECK TRUNK LID OPEN SIGNAL CIRCUIT
 
 ### Check combination meter buzzer.
 
@@ -747132,7 +743452,6 @@ INFOID:0000000010102887
 1.CHECK DTC WITH BCM
 Check that DTC is not detected with BCM.
 
-### Is the inspection result normal?
 
 ### >> GO TO 3.
 
@@ -747242,7 +743561,6 @@ N
 O
 P
 
-### KEY ID WARNING DOES NOT OPERATE
 
 ### 2.CHECK DTC WITH COMBINATION METER
 
@@ -747255,7 +743573,6 @@ NO
 3.CHECK INTELLIGENT KEY BATTERY
 Check Intelligent Key battery.
 
-### Refer to DLK-110, "Component Inspection".
 
 ### >> GO TO 5.
 
@@ -747278,7 +743595,6 @@ DLK-146
 SQUEAK AND RATTLE TROUBLE DIAGNOSES
 SQUEAK AND RATTLE TROUBLE DIAGNOSES
 
-### Work Flow
 
 ### SBT842
 
@@ -747305,7 +743621,6 @@ O
 P
 If the noise can be duplicated easily during the test drive, to help identify the source of the noise, try to duplicate the noise with the vehicle stopped by doing one or all of the following:
 
-### Department.
 
 ### UHMW (TEFLON) TAPE
 
@@ -750313,7 +746628,6 @@ B210D STARTER RELAY ...............................100
 DTC Logic ............................................................ 100
 Diagnosis Procedure ............................................ 100
 
-### Revision: 2013 November
 
 ### Precautions for Removing of Battery Terminal
 
@@ -750707,9 +747021,6 @@ Security indicator lamp blinks when power supply position is any position other 
 (NATS) is on board.
 Starter Control Relay
 
-### INFOID:0000000010095559
-
-### Starter Relay
 
 ### Stop Lamp Switch
 
@@ -750866,7 +747177,6 @@ When Intelligent Key battery is discharged, NATS ID verification between transpo
 BCM is performed when Intelligent Key backside is contacted to push-button ignition switch. If the verification
 result is OK, engine can be started.
 
-### POWER SUPPLY POSITION CHANGE TABLE BY PUSH-BUTTON IGNITION SWITCH OPERA-
 
 ### Vehicle speed: less than 4 km/h (2.5 MPH)
 
@@ -751051,7 +747361,6 @@ Power source is supplied to the starter motor through the starter relay and the 
 stop signal to IPDM E/R and stops cranking by turning off the starter motor relay. (If engine start is unsuccessful, cranking stops automatically within 5 seconds.)
 *: For the engine start condition, refer to “POWER SUPPLY POSITION CHANGE TABLE BY PUSH-BUTTON
 
-### IGNITION SWITCH OPERATION” below.
 
 ### LOCK → ACC → ON → OFF
 
@@ -751402,7 +747711,6 @@ COMMON ITEM
 COMMON ITEM : CONSULT Function (BCM - COMMON ITEM)
 INFOID:0000000010282475
 
-### APPLICATION ITEM
 
 ### FREEZE FRAME DATA (FFD)
 
@@ -751481,7 +747789,6 @@ IMMU
 ×
 Interior room lamp battery saver
 
-### BATTERY SAVER
 
 ### SEC-21
 
@@ -751911,7 +748218,6 @@ Indicates [ON/OFF] condition of UNLOCK signal from Intelligent Key.
 RKE-TR/BD
 Indicates [ON/OFF] condition of TRUNK OPEN signal from Intelligent Key.
 
-### Monitored Item
 
 ### Test Item
 
@@ -752635,7 +748941,6 @@ N
 O
 P
 
-### >> GO TO 5.
 
 ### SEC-52
 
@@ -753927,7 +750232,6 @@ Revision: 2013 November
 SEC-68
 < DTC/CIRCUIT DIAGNOSIS >
 
-### [WITH INTELLIGENT KEY SYSTEM]
 
 ### 4.CHECK NATS ANTENNA AMP. OUTPUT SIGNAL 1
 
@@ -755178,7 +751482,6 @@ Revision: 2013 November
 SEC-82
 < DTC/CIRCUIT DIAGNOSIS >
 
-### [WITH INTELLIGENT KEY SYSTEM]
 
 ### A/T shift selector (detention switch)
 
@@ -755507,7 +751810,6 @@ Revision: 2013 November
 SEC-86
 < DTC/CIRCUIT DIAGNOSIS >
 
-### [WITH INTELLIGENT KEY SYSTEM]
 
 ### A/T shift selector (detention switch)
 
@@ -755984,7 +752286,6 @@ SEC-92
 < DTC/CIRCUIT DIAGNOSIS >
 [WITH INTELLIGENT KEY SYSTEM]
 
-### B2608 STARTER RELAY
 
 ### 4.CHECK INTERMITTENT INCIDENT
 
@@ -758366,7 +754667,6 @@ YES
 NO
 >> Repair or replace malfunctioning parts. Refer to SEC-110, "Diagnosis Procedure".
 
-### 6.CONFIRM THE OPERATION
 
 ### [WITH INTELLIGENT KEY SYSTEM]
 
@@ -758663,7 +754963,6 @@ PWC-4
 < PRECAUTION >
 PRECAUTIONS
 
-### PRECAUTION
 
 ### Precautions for Removing of Battery Terminal
 
@@ -758933,7 +755232,6 @@ If fail-safe control, the system changes to a non-initialized condition and the 
 When fail-safe control is activated, perform initialization procedure to recover. If a malfunction is detected in
 power window switch or more, fail-safe control is activated again.
 
-### Malfunction
 
 ### Both pulse sensors mal-
 
@@ -758970,7 +755268,6 @@ APPLICATION ITEM
 CONSULT performs the following functions via CAN communication with BCM.
 SYSTEM APPLICATION
 
-### BCM can perform the following functions for each system.
 
 ### SIGNAL BUFFER
 
@@ -759249,7 +755546,6 @@ Voltage [V]
 +
 -
 
-### Signal name
 
 ### Glass recognition position
 
@@ -759395,7 +755691,6 @@ Terminal No.
 (wire color)
 Description
 
-### Condition
 
 ### Glass recognition position
 
@@ -759536,7 +755831,6 @@ When ignition switch ON or power window timer operates
 Terminal No.
 (wire color)
 
-### Description
 
 ### Glass recognition position
 
@@ -759764,7 +756058,6 @@ O
 P
 ADDITIONAL SERVICE WHEN REMOVING BATTERY NEGATIVE TERMINAL
 
-### Description
 
 ### Work Procedure
 
@@ -759879,7 +756172,6 @@ Revision: 2013 November
 PWC-34
 < BASIC INSPECTION >
 
-### CHECK ANTI-PINCH FUNCTION
 
 ### Work Procedure
 
@@ -760720,7 +757012,6 @@ Disconnect rear power window switch RH connector.
 3.
 Check continuity between rear power window switch RH harness connector and rear power window motor
 
-### RH harness connector.
 
 ### Condition
 
@@ -761647,7 +757938,6 @@ Disconnect rear power window switch RH connector.
 3.
 Check continuity between rear power window switch RH harness connector and rear power window motor
 
-### RH harness connector.
 
 ### 6.CHECK GROUND CIRCUIT 2
 
@@ -762512,7 +758802,6 @@ NO
 Check power window switch power supply and ground circuit.
 Refer to PWC-35, "POWER WINDOW MAIN SWITCH : Diagnosis Procedure".
 
-### Is the inspection result normal?
 
 ### >> GO TO 1.
 
@@ -762551,7 +758840,6 @@ YES
 NO
 >> Repair or replace the malfunctioning parts.
 
-### 2.CONFIRM THE OPERATION
 
 ### FRONT PASSENGER SIDE POWER WINDOW DOES NOT OPERATE
 
@@ -762577,7 +758865,6 @@ NO
 Check passenger side power window motor circuit.
 Refer to PWC-40, "PASSENGER SIDE : Component Function Check".
 
-### Is the inspection result normal?
 
 ### >> GO TO 1.
 
@@ -762645,7 +758932,6 @@ Refer to PWC-41, "REAR LH : Component Function Check".
 Is the inspection result normal?
 YES
 
-### >> GO TO 3.
 
 ### >> GO TO 1.
 
@@ -762843,7 +759129,6 @@ NO
 2.CHECK ENCODER (REAR LH) CIRCUIT
 Check encoder (rear LH) circuit.
 
-### Refer to PWC-47, "REAR LH : Component Function Check".
 
 ### >> GO TO 1.
 
@@ -762914,7 +759199,6 @@ NO
 >> Refer to PWC-65, "DRIVER SIDE : Diagnosis Procedure" (driver side), PWC-65, "PASSENGER
 SIDE : Diagnosis Procedure" (passenjer side), PWC-65, "REAR LH : Diagnosis Procedure"  (rear
 
-### LH), PWC-66, "REAR RH : Diagnosis Procedure" (rear RH).
 
 ### 2014 Q70
 
@@ -762997,7 +759281,6 @@ Refer to PWC-52, "Component Function Check"
 Is the inspection result normal?
 YES
 
-### >> GO TO 3.
 
 ### >> GO TO 1.
 
@@ -763256,7 +759539,6 @@ N
 O
 P
 
-### CONTENTS
 
 ### Revision: 2013 November
 
@@ -763307,7 +759589,6 @@ when the ignition switch is turned to LOCK position.)
 6.
 Perform self-diagnosis check of all control units using CONSULT.
 
-### Precautions For Xenon Headlamp Service
 
 ### Precaution for Procedure without Cowl Top Cover
 
@@ -763352,7 +759633,6 @@ Special Service Tools
 INFOID:0000000010098665
 The actual shapes of Kent-Moore tools may differ from those of special service tools illustrated here.
 
-### Commercial Service Tools
 
 ### Tool name
 
@@ -763399,7 +759679,6 @@ Revision: 2013 November
 EXT-8
 < SYMPTOM DIAGNOSIS >
 
-### SQUEAK AND RATTLE TROUBLE DIAGNOSES
 
 ### DUPLICATE THE NOISE AND TEST DRIVE
 
@@ -763430,11 +759709,6 @@ the Diagnostic Worksheet regarding the conditions or location of the noise. This
 duplicate the same conditions when the repair is reconfirmed.
 If the noise can be duplicated easily during the test drive, to help identify the source of the noise, try to duplicate the noise with the vehicle stopped by doing one or all of the following items:
 
-### INSULATOR (Light foam block)
-
-### Inspection Procedure
-
-### EXT-11
 
 ### Revision: 2013 November
 
@@ -766791,7 +763065,6 @@ N
 O
 P
 
-### Unit: mm (in)
 
 ### JSKIA1642GB
 
@@ -766805,7 +763078,6 @@ View M: Before installing side body assembly
 View N: Side body assembly (replacement parts)
 1.
 
-### Urethane foam
 
 ### JSKIA1643GB
 
@@ -767027,7 +763299,6 @@ REPLACEMENT OPERATIONS
 View J: Before installing outer sill
 View K: Before installing outer sill, outer sill reinforcement, and outer rear wheelhouse extension (upper)
 
-### Unit: mm (in)
 
 ### JSKIA1651GB
 
@@ -767057,7 +763328,6 @@ View M: Before installing outer sill and outer sill reinforcement
 View N: Before installing outer sill, outer sill reinforcement, outer rear wheelhouse extension (upper), and
 outer rear wheelhouse extension (lower)
 
-### View O: Outer sill reinforcement (replacement parts)
 
 ### JSKIA1652GB
 
@@ -767516,7 +763786,6 @@ Revision: 2013 November
 BRM-62
 < SERVICE DATA AND SPECIFICATIONS (SDS)
 
-### [FOR USA AND CANADA]
 
 ### Engine Compartment
 
@@ -768624,7 +764893,6 @@ Revision: 2013 November
 BRM-78
 < SERVICE DATA AND SPECIFICATIONS (SDS)
 
-### [FOR MEXICO]
 
 ### Engine Compartment
 
@@ -768989,9 +765257,6 @@ MIR-2
 DOOR MIRROR ASSEMBLY .................................. 39
 DOOR MIRROR ASSEMBLY : Removal and Installation ................................................................ 39
 
-### 2014 Q70
-
-### Precaution for Procedure without Cowl Top Cover
 
 ### PIIB3706J
 
@@ -769727,9 +765992,6 @@ YES
 NO
 >> Repair or replace the malfunctioning parts.
 
-### 3.CONFIRM THE OPERATION
-
-### SQUEAK AND RATTLE TROUBLE DIAGNOSES
 
 ### SBT842
 
@@ -769766,9 +766028,6 @@ The following materials, not found in the kit, can also be used to repair squeak
 UHMW (TEFLON) TAPE
 Insulates where slight movement is present. Ideal for instrument panel applications.
 
-### Inspection Procedure
-
-### Revision: 2013 November
 
 ### Revision: 2013 November
 
@@ -770197,7 +766456,6 @@ PRECAUTIONS
 Precaution for Supplemental Restraint System (SRS) "AIR BAG" and "SEAT BELT
 PRE-TENSIONER"
 
-### Precautions For Xenon Headlamp Service
 
 ### Revision: 2013 November
 
@@ -770583,7 +766841,6 @@ Headlamp (HI) ON condition
 • IPDM E/R turns the integrated headlamp high relay ON, and turns the headlamp ON according to the high
 beam request signal.
 
-### HEADLAMP SYSTEM (WITHOUT DTRL) : Fail-safe
 
 ### If No CAN Communication Is Available With BCM
 
@@ -770636,9 +766893,6 @@ communication according to the headlamp (LO) ON condition.
 • IPDM E/R turns the integrated headlamp low relay ON, and turns the headlamp ON according to the low
 beam request signal or daytime running light request signal.
 
-### HEADLAMP SYSTEM (WITH DTRL) : Fail-safe
-
-### Control part
 
 ### JMLIA1066GB
 
@@ -770685,7 +766939,6 @@ of time.
 > CONSULT. Refer to EXL-27, "HEADLAMP : CONSULT Function (BCM - HEAD LAMP)".
 > AUTO LIGHT FUNCTION (WITH TWILIGHT LIGHTING FUNCTION)
 
-### Description
 
 ### JMLIA0966GB
 
@@ -771028,7 +767281,6 @@ signal when DTC detected, is
 output.
 Blinks 1 second each.
 
-### Ignition switch OFF
 
 ### Blinks 1 second each.
 
@@ -771081,7 +767333,6 @@ Headlamp, front fog lamp, parking lamp, licence plate lamp, side marker lamp and
 front fog lights request signal.
 • Combination meter turns the front fog lamp indicator lamp ON according to the front fog lights request signal.
 
-### TURN SIGNAL AND HAZARD WARNING LAMP SYSTEM
 
 ### Blinks 1 second each.
 
@@ -771200,7 +767451,6 @@ headlamp control function of BCM, and relay control function of IPDM E/R.
 lamps ON according to the position light request signal.
 • Combination meter turns the tail lamp indicator lamp ON according to the position light request signal.
 
-### PARKING, LICENSE PLATE, SIDE MARKER AND TAIL LAMP SYSTEM (WITHOUT
 
 ### If No CAN Communication Is Available With BCM
 
@@ -772797,9 +769047,6 @@ chart.
 > signal when DTC detected, is
 > output.
 
-### Blinks 1 second each.
-
-### Blinks 1 second each.
 
 ### Blinks 1 second each.
 
@@ -773288,7 +769535,6 @@ Revision: 2013 November
 EXL-68
 < BASIC INSPECTION >
 
-### [XENON TYPE]
 
 ### DIAGNOSIS AND REPAIR WORK FLOW
 
@@ -777721,7 +773967,6 @@ Note the following item, and then installation is the reverse order of removal.
 NOTE:
 After installation, perform aiming adjustment. Refer to EXL-121, "Description"
 
-### Replacement
 
 ### FRONT FOG LAMP BULB
 
@@ -778130,7 +774375,6 @@ Remove the screw, and then remove the license plate lamp.
 2.
 Disconnect the license plate lamp connector.
 
-### INSTALLATION
 
 ### LICENSE PLATE LAMP BULB
 
@@ -778749,7 +774993,6 @@ INFOID:0000000010281921
 APPLICATION ITEM
 CONSULT performs the following functions via CAN communication with BCM.
 
-### SYSTEM APPLICATION
 
 ### SIGNAL BUFFER
 
@@ -778979,7 +775222,6 @@ RKE-UNLOCK
 [On/Off]
 Unlock signal status received from remote keyless entry receiver
 
-### Monitor item
 
 ### STEP LAMP TEST
 
@@ -778994,9 +775236,6 @@ INL-16
 DIAGNOSIS SYSTEM (BCM)
 *:Factory setting
 
-### DATA MONITOR
-
-### Without the exterior lamp battery saver function
 
 ### Revision: 2013 November
 
@@ -780881,7 +777120,6 @@ INFOID:0000000010098540
 • Remove console finisher assembly. Refer to IP-24, "Removal and Installation".
 • Remove ashtray assembly. Refer to IP-23, "Exploded View".
 
-### Replacement
 
 ### CIGRETTE LIGHTER ILLUMINATION BULB
 
@@ -780912,7 +777150,6 @@ Removal and Installation
 INFOID:0000000010098543
 Refer to INT-33, "Exploded View" for the rear door finisher installation or removal.
 
-### Replacement
 
 ### ASHTRAY ILLUMINATION BULB
 
@@ -780956,7 +777193,6 @@ Exploded View
 INFOID:0000000010098545
 Removal and Installation
 
-### INFOID:0000000010098546
 
 ### GLOVE BOX LAMP BULB
 
@@ -780988,7 +777224,6 @@ DRIVER SIDE
 DRIVER SIDE : Exploded View
 INFOID:0000000010098548
 
-### DRIVER SIDE : Removal and Installation
 
 ### REMOVAL
 
@@ -781100,7 +777335,6 @@ Remove foot lamp case (2) downward while pressing metal clips
 INSTALLATION
 Install in the reverse order of removal.
 
-### PASSENGER SIDE : Replacement
 
 ### FOOT LAMP BULB
 
@@ -781166,7 +777400,6 @@ Disconnect step lamp harness connector.
 INSTALLATION
 Install in the reverse order of removal.
 
-### Replacement
 
 ### STEP LAMP BULB
 
@@ -781257,7 +777490,6 @@ Press the personal lamp finisher to the headlining. Pull the personal
 lamp case pawls in the direction shown by the arrow in the figure
 using appropriate tool.
 
-### Replacement
 
 ### PERSONAL LAMP BLUB
 
@@ -781343,7 +777575,6 @@ lamp case to disengage fixing metal clips as shown by the arrow
 in the figure, and then remove the trunk room lamp case.
 3.
 
-### Disconnect trunk room lamp harness connector.
 
 ### TRUNK ROOM LAMP BULB
 
@@ -781467,9 +777698,6 @@ WIPER AND WASHER SYSTEM SYMPTOMS
 ... 44
 Symptom Table ..................................................... 44
 
-### Revision: 2013 November
-
-### Precaution for Procedure without Cowl Top Cover
 
 ### 2014 Q70
 
@@ -781856,7 +778084,6 @@ When CAN communication with BCM is impossible, IPDM E/R performs fail-safe contr
 > • Front wiper switch AUTO and not sensing rain drop: Front wiper is LO operation until the front wiper switch is
 > turned off.
 
-### Control part
 
 ### Ignition switch
 
@@ -782328,9 +778555,6 @@ DETAILED FLOW
 JMKIA8652GB
 Revision: 2013 November
 
-### 2014 Q70
-
-### >> GO TO 5.
 
 ### DIAGNOSIS AND REPAIR WORK FLOW
 
@@ -784459,7 +780683,6 @@ O
 P
 CONTENTS
 
-### DEFOGGER
 
 ### REAR WINDOW DEFOGGER AND DOOR
 
@@ -784517,7 +780740,6 @@ system uses the seat belt switches to determine the front air bag deployment, an
 air bag, depending on the severity of a collision and whether the front occupants are belted or unbelted.
 Information necessary to service the system safely is included in the “SRS AIR BAG” and “SEAT BELT” of this
 
-### Precaution for Procedure without Cowl Top Cover
 
 ### PIIB3706J
 
@@ -784687,11 +780909,6 @@ DIAGNOSIS SYSTEM (BCM)
 COMMON ITEM
 COMMON ITEM : CONSULT Function (BCM - COMMON ITEM)
 
-### INFOID:0000000010287565
-
-### BATTERY SAVER
-
-### < SYSTEM DESCRIPTION >
 
 ### “LOCK”.
 
@@ -784732,7 +780949,6 @@ NOTE:
 The following table includes information (items) inapplicable to this vehicle. For information (items) applicable
 to this vehicle, refer to CONSULT display items.
 
-### ACTIVE TEST
 
 ### Revision: 2013 November
 
@@ -785926,7 +782142,6 @@ NO
 2.CHECK REAR WINDOW DEFOGGER RELAY
 Check rear window defogger relay.
 
-### Refer to DEF-22, "Component Function Check".
 
 ### >> GO TO 1.
 
@@ -785989,7 +782204,6 @@ INFOID:0000000010100036
 1.CHECK DOOR MIRROR DEFOGGER
 Check door mirror defogger.
 
-### Refer to DEF-26, "Component Function Check".
 
 ### >> GO TO 1.
 
@@ -786180,7 +782394,6 @@ HORN
 PRECAUTION .............................................. 2
 PRECAUTIONS .................................................. 2
 
-### Revision: 2013 November
 
 ### Precautions for Removing of Battery Terminal
 
@@ -786309,7 +782522,6 @@ PWO-2
 < PRECAUTION >
 PRECAUTIONS
 
-### PRECAUTION
 
 ### Precautions for Removing of Battery Terminal
 
@@ -787376,7 +783588,6 @@ ACTIVE TEST
 BUZZER
 BUZZER : CONSULT Function (BCM - BUZZER)
 
-### INFOID:0000000010284851
 
 ### Test item
 
@@ -787391,11 +783602,6 @@ touched
 screen is touched
 • The door lock actuator (other) is unlocked when “OTR ULK” on CONSULT screen is touched
 
-### Monitor Item
-
-### Test item
-
-### PUSH SW
 
 ### TAIL LAMP SW
 
@@ -787520,9 +783726,6 @@ MODE 2
 Interior room lamp timer activates with synchronizing the driver door only.
 Service item
 
-### Setting item
-
-### Test item
 
 ### Revision: 2013 November
 
@@ -787729,7 +783932,6 @@ Off
 Stops the voltage to turn the turn signal lamps OFF.
 Monitor item
 
-### Description
 
 ### Revision: 2013 November
 
@@ -787845,7 +784047,6 @@ Indicates [On/Off] condition of push-button ignition switch
 IGN RLY1 -F/B
 Indicates [On/Off] condition of ignition relay 1
 
-### DETE SW -IPDM
 
 ### OUTSIDE BUZZER
 
@@ -788042,7 +784243,6 @@ switch.
 > *: Each lamp switch is in ON position.
 > TRUNK
 
-### TRUNK : CONSULT Function (BCM - TRUNK)
 
 ### PUSH SW
 
@@ -788192,7 +784392,6 @@ Indicates [ON/OFF] condition of front door switch (driver side).
 DOOR SW-AS
 Indicates [ON/OFF] condition of front door switch (passenger side).
 
-### Test Item
 
 ### Revision: 2013 November
 
@@ -790042,7 +786241,6 @@ door request
 switch is operated with ignition
 switch ON
 
-### When Intelligent Key is
 
 ### (SB)
 
@@ -790135,7 +786333,6 @@ operated with
 ignition switch
 ON
 
-### When Intelligent Key is
 
 ### Ground
 
@@ -790174,7 +786371,6 @@ door request
 switch is operated with ignition
 switch ON
 
-### When Intelligent Key is
 
 ### (BR)
 
@@ -793296,7 +789492,6 @@ TCU
 TPMS
 Low tire pressure warning control unit
 
-### Revision: 2013 November
 
 ### Precautions for Removing of Battery Terminal
 
@@ -794967,7 +791162,6 @@ LAN-70
 MAIN LINE BETWEEN TPMS AND HVAC CIRCUIT
 MAIN LINE BETWEEN TPMS AND HVAC CIRCUIT
 
-### Diagnosis Procedure
 
 ### Low tire pressure warning control unit
 
@@ -795057,7 +791251,6 @@ sensor unit.
 NO
 >> Replace the PCB harness.
 
-### A/C auto amp. harness connector
 
 ### Continuity
 
@@ -795080,7 +791273,6 @@ LAN-72
 [CAN]
 MAIN LINE BETWEEN A-BAG AND AV CIRCUIT
 
-### MAIN LINE BETWEEN A-BAG AND AV CIRCUIT
 
 ### A/C auto amp.
 
@@ -795103,7 +791295,6 @@ NO
 A/C auto amp. harness connector
 AV control unit harness connector
 
-### Continuity
 
 ### Terminal No.
 
@@ -795174,7 +791365,6 @@ NO
 >> Replace the PCB harness.
 AV control unit harness connector
 
-### Combination meter harness connector
 
 ### Connector No.
 
@@ -795196,11 +791386,6 @@ MAIN LINE BETWEEN M&A AND DLC CIRCUIT
 MAIN LINE BETWEEN M&A AND DLC CIRCUIT
 Diagnosis Procedure
 
-### INFOID:0000000010101299
-
-### Harness connectors M105 and M181
-
-### Combination meter harness connector
 
 ### [CAN]
 
@@ -795268,7 +791453,6 @@ LAN-76
 [CAN]
 MAIN LINE BETWEEN BCM AND ABS CIRCUIT
 
-### MAIN LINE BETWEEN BCM AND ABS CIRCUIT
 
 ### Harness connector M20 and PCB harness side connector
 
@@ -795391,7 +791575,6 @@ N
 Disconnect the harness connectors M6 and E106.
 2.
 
-### Check the continuity between the harness connectors.
 
 ### Is the inspection result normal?
 
@@ -795444,7 +791627,6 @@ LAN-78
 MAIN LINE BETWEEN BCM AND 4WD CIRCUIT
 MAIN LINE BETWEEN BCM AND 4WD CIRCUIT
 
-### Diagnosis Procedure
 
 ### Harness connector M20 and PCB harness side connector
 
@@ -795547,7 +791729,6 @@ O
 P
 N
 
-### MAIN LINE BETWEEN BCM AND ADP CIRCUIT
 
 ### Is the inspection result normal?
 
@@ -795625,7 +791806,6 @@ and harness side).
 Harness connector B1
 -
 
-### Harness connector M7
 
 ### Is the inspection result normal?
 
@@ -795757,7 +791937,6 @@ Harness connector M6
 -
 Harness connector E106
 
-### Is the inspection result normal?
 
 ### Is the inspection result normal?
 
@@ -795771,7 +791950,6 @@ B1.
 3.CHECK HARNESS CONTINUITY (OPEN CIRCUIT)
 1.
 
-### Disconnect the harness connectors M6 and E106.
 
 ### Is the inspection result normal?
 
@@ -795874,7 +792052,6 @@ Harness connector M20 and PCB harness side connector
 Harness connector M7
 -
 
-### Harness connector B1
 
 ### Is the inspection result normal?
 
@@ -795970,7 +792147,6 @@ P
 N
 MAIN LINE BETWEEN RDR-L AND RDR-R CIRCUIT
 
-### Diagnosis Procedure
 
 ### Harness connector B33
 
@@ -796051,7 +792227,6 @@ LAN-86
 MAIN LINE BETWEEN RDR-R AND APA CIRCUIT
 MAIN LINE BETWEEN RDR-R AND APA CIRCUIT
 
-### Diagnosis Procedure
 
 ### Harness connector B201
 
@@ -796196,7 +792371,6 @@ Disconnect the battery cable from the negative terminal.
 Disconnect the following harness connectors.
 -
 
-### ADAS control unit
 
 ### Harness connector
 
@@ -796221,11 +792395,6 @@ ECM BRANCH LINE CIRCUIT
 LAN-89
 < DTC/CIRCUIT DIAGNOSIS >
 
-### [CAN]
-
-### Harness connector M30 and PCB harness side connector
-
-### VQ37VHR
 
 ### Is the inspection result normal?
 
@@ -796353,7 +792522,6 @@ Low tire pressure warning control unit
 -
 Harness connector M29 and PCB harness side connector
 
-### Is the inspection result normal?
 
 ### Is the measurement value within the specification?
 
@@ -796422,7 +792590,6 @@ CGW BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 1)
 CGW BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 1)
 Diagnosis Procedure
 
-### INFOID:0000000010101314
 
 ### Disconnect the battery cable from the negative terminal.
 
@@ -796478,7 +792645,6 @@ Resistance (Ω)
 Connector No.
 Terminal No.
 
-### M125
 
 ### CGW BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 2)
 
@@ -796506,7 +792672,6 @@ INFOID:0000000010101315
 1.CHECK DTC
 Check DTC of the CAN gateway with CONSULT.
 
-### Is U1010 or B2600 indicated?
 
 ### CAN gateway
 
@@ -796614,7 +792779,6 @@ Disconnect the connector of A/C auto amp.
 2.
 Check the resistance between the A/C auto amp. harness connector terminals.
 
-### Is the measurement value within the specification?
 
 ### 4.CHECK HARNESS CONTINUITY (OPEN CIRCUIT)
 
@@ -796818,9 +792982,6 @@ P
 N
 A-BAG BRANCH LINE CIRCUIT
 
-### Diagnosis Procedure
-
-### 1.CHECK CONNECTOR
 
 ### Air bag diagnosis sensor unit
 
@@ -796966,7 +793127,6 @@ AV control unit
 -
 Harness connector M25 and PCB harness side connector
 
-### Is the inspection result normal?
 
 ### Models with navigation system
 
@@ -797073,7 +793233,6 @@ M&A BRANCH LINE CIRCUIT
 LAN-101
 < DTC/CIRCUIT DIAGNOSIS >
 
-### [CAN]
 
 ### Combination meter
 
@@ -797167,7 +793326,6 @@ Check the following terminals and connectors for damage, bend and loose connecti
 Data link connector
 -
 
-### Harness connector M181
 
 ### Is the measurement value within the specification?
 
@@ -797238,9 +793396,6 @@ P
 N
 DLC BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 1)
 
-### Diagnosis Procedure
-
-### Data link connector
 
 ### Is the measurement value within the specification?
 
@@ -797272,7 +793427,6 @@ DLC BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 2)
 DLC BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 2)
 Diagnosis Procedure
 
-### INFOID:0000000010101324
 
 ### Is the measurement value within the specification?
 
@@ -797345,9 +793499,6 @@ BCM
 -
 Harness connector M22 and PCB harness side connector
 
-### Is the inspection result normal?
-
-### >> GO TO 3.
 
 ### 4.CHECK HARNESS CONTINUITY (OPEN CIRCUIT)
 
@@ -797412,7 +793563,6 @@ Harness connector M22 and PCB harness side connector
 Is the inspection result normal?
 YES
 
-### >> GO TO 2.
 
 ### Is the measurement value within the specification?
 
@@ -797493,9 +793643,6 @@ N
 Diagnosis Procedure
 INFOID:0000000010101327
 
-### 1.CHECK CONNECTOR
-
-### Is the inspection result normal?
 
 ### Is the measurement value within the specification?
 
@@ -797531,7 +793678,6 @@ ABS BRANCH LINE CIRCUIT
 ABS BRANCH LINE CIRCUIT
 Diagnosis Procedure
 
-### INFOID:0000000010101329
 
 ### Is the inspection result normal?
 
@@ -797655,7 +793801,6 @@ IPDM-E BRANCH LINE CIRCUIT
 IPDM-E BRANCH LINE CIRCUIT
 Diagnosis Procedure
 
-### INFOID:0000000010101331
 
 ### Is the inspection result normal?
 
@@ -797716,7 +793861,6 @@ P
 N
 ADP BRANCH LINE CIRCUIT
 
-### Diagnosis Procedure
 
 ### Driver seat control unit
 
@@ -797810,7 +793954,6 @@ Disconnect the battery cable from the negative terminal.
 Check the following terminals and connectors for damage, bend and loose connection (unit side and connector side).
 -
 
-### ADAS control unit
 
 ### Is the inspection result normal?
 
@@ -797833,9 +793976,6 @@ YES
 NO
 >> Replace the body harness.
 
-### 4.CHECK POWER SUPPLY AND GROUND CIRCUIT
-
-### CAN gateway harness connector
 
 ### PSB BRANCH LINE CIRCUIT
 
@@ -797955,7 +794095,6 @@ NO
 3.CHECK POWER SUPPLY AND GROUND CIRCUIT
 Check the power supply and the ground circuit of the side radar LH. Refer to DAS-578, "SIDE RADAR LH :
 
-### Diagnosis Procedure".
 
 ### Side radar LH harness connector
 
@@ -797990,7 +794129,6 @@ P
 N
 RDR-R BRANCH LINE CIRCUIT
 
-### Diagnosis Procedure
 
 ### Is the inspection result normal?
 
@@ -798148,7 +794286,6 @@ LANE BRANCH LINE CIRCUIT
 Diagnosis Procedure
 INFOID:0000000010101338
 
-### Lane camera unit
 
 ### Disconnect the connector of lane camera unit.
 
@@ -798429,7 +794566,6 @@ NO
 Connect all the connectors. Check if the symptoms described in the “Symptom (Results from interview with
 customer)” are reproduced.
 
-### Inspection result
 
 ### Turn the ignition switch OFF.
 
@@ -798478,7 +794614,6 @@ INFOID:0000000010101341
 1.CONNECTOR INSPECTION
 1.
 
-### Turn the ignition switch OFF.
 
 ### Terminal No.
 
@@ -798771,7 +794906,6 @@ LAN-126
 [CAN]
 ITS COMMUNICATION CIRCUIT
 
-### Is the inspection result normal?
 
 ### Check the resistance between the ICC sensor terminals.
 
@@ -799660,7 +795794,6 @@ LAN-144
 [CAN SYSTEM (TYPE 1)]
 MAIN LINE BETWEEN A-BAG AND AV CIRCUIT
 
-### MAIN LINE BETWEEN A-BAG AND AV CIRCUIT
 
 ### Terminal No.
 
@@ -799696,7 +795829,6 @@ P
 N
 MAIN LINE BETWEEN AV AND M&A CIRCUIT
 
-### Diagnosis Procedure
 
 ### Connector No.
 
@@ -799717,11 +795849,6 @@ LAN-146
 MAIN LINE BETWEEN M&A AND DLC CIRCUIT
 MAIN LINE BETWEEN M&A AND DLC CIRCUIT
 
-### Diagnosis Procedure
-
-### Combination meter
-
-### Combination meter harness connector
 
 ### < DTC/CIRCUIT DIAGNOSIS >
 
@@ -799793,7 +795920,6 @@ LAN-148
 MAIN LINE BETWEEN BCM AND ADP CIRCUIT
 MAIN LINE BETWEEN BCM AND ADP CIRCUIT
 
-### Diagnosis Procedure
 
 ### Existed
 
@@ -799822,7 +795948,6 @@ N
 MAIN LINE BETWEEN ADP AND ABS CIRCUIT
 Diagnosis Procedure
 
-### INFOID:0000000010285580
 
 ### Harness connector B1
 
@@ -799929,11 +796054,6 @@ ECM
 -
 Harness connector M30 and PCB harness side connector
 
-### Is the inspection result normal?
-
-### VK56VD
-
-### 2014 Q70
 
 ### 2014 Q70
 
@@ -799973,7 +796093,6 @@ Check the following terminals and connectors for damage, bend and loose connecti
 Low tire pressure warning control unit
 -
 
-### Harness connector M29 and PCB harness side connector
 
 ### Existed
 
@@ -800105,7 +796224,6 @@ M28.
 A/T assembly harness connector
 Harness connector
 
-### Continuity
 
 ### A-BAG BRANCH LINE CIRCUIT
 
@@ -800219,9 +796337,6 @@ the harness connector M25.
 NO (Without navigation system)>>Repair the harness between the AV control unit harness connector M84
 and the harness connector M25.
 
-### AV control unit harness connector
-
-### [CAN SYSTEM (TYPE 1)]
 
 ### Existed
 
@@ -800268,7 +796383,6 @@ BCM BRANCH LINE CIRCUIT
 Diagnosis Procedure
 INFOID:0000000010285599
 
-### 1.CHECK CONNECTOR
 
 ### Harness connector M22 and PCB harness side connector
 
@@ -800283,7 +796397,6 @@ Disconnect the connector of BCM.
 2.
 Check the resistance between the BCM harness connector terminals.
 
-### Is the measurement value within the specification?
 
 ### Existed
 
@@ -800309,7 +796422,6 @@ Check the following terminals and connectors for damage, bend and loose connecti
 Steering angle sensor
 -
 
-### Harness connector M22 and PCB harness side connector
 
 ### Existed
 
@@ -800639,7 +796751,6 @@ P
 N
 MAIN LINE BETWEEN AV AND M&A CIRCUIT
 
-### Diagnosis Procedure
 
 ### Connector No.
 
@@ -800660,9 +796771,6 @@ LAN-174
 MAIN LINE BETWEEN M&A AND DLC CIRCUIT
 MAIN LINE BETWEEN M&A AND DLC CIRCUIT
 
-### Diagnosis Procedure
-
-### Combination meter harness connector
 
 ### < DTC/CIRCUIT DIAGNOSIS >
 
@@ -800709,7 +796817,6 @@ LAN-176
 MAIN LINE BETWEEN BCM AND ABS CIRCUIT
 MAIN LINE BETWEEN BCM AND ABS CIRCUIT
 
-### Diagnosis Procedure
 
 ### Existed
 
@@ -800762,7 +796869,6 @@ LAN-178
 [CAN SYSTEM (TYPE 2)]
 MAIN LINE BETWEEN DLC AND ADP CIRCUIT
 
-### MAIN LINE BETWEEN DLC AND ADP CIRCUIT
 
 ### Harness connector M20 and PCB harness side connector
 
@@ -800814,7 +796920,6 @@ O
 P
 N
 
-### MAIN LINE BETWEEN RDR-L AND RDR-R CIRCUIT
 
 ### Connector No.
 
@@ -800835,7 +796940,6 @@ LAN-180
 MAIN LINE BETWEEN RDR-R AND APA CIRCUIT
 MAIN LINE BETWEEN RDR-R AND APA CIRCUIT
 
-### Diagnosis Procedure
 
 ### LAN-181
 
@@ -800865,9 +796969,6 @@ LAN-182
 [CAN SYSTEM (TYPE 2)]
 MAIN LINE BETWEEN APA AND LANE CIRCUIT
 
-### MAIN LINE BETWEEN APA AND LANE CIRCUIT
-
-### Harness connector
 
 ### [CAN SYSTEM (TYPE 2)]
 
@@ -800900,7 +797001,6 @@ Check the following terminals and connectors for damage, bend and loose connecti
 ECM
 -
 
-### 2014 Q70
 
 ### 2014 Q70
 
@@ -800943,7 +797043,6 @@ LAN-186
 CGW BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 1)
 CGW BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 1)
 
-### Diagnosis Procedure
 
 ### CGW BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 2)
 
@@ -801008,7 +797107,6 @@ Check the resistance between the A/C auto amp. harness connector terminals.
 Is the measurement value within the specification?
 YES
 
-### >> GO TO 3.
 
 ### Existed
 
@@ -801038,7 +797136,6 @@ TCM BRANCH LINE CIRCUIT
 Diagnosis Procedure
 INFOID:0000000010285645
 
-### Approx. 54 – 66
 
 ### Continuity
 
@@ -801077,7 +797174,6 @@ O
 P
 N
 
-### A-BAG BRANCH LINE CIRCUIT
 
 ### Is the inspection result normal?
 
@@ -801180,7 +797276,6 @@ M&A BRANCH LINE CIRCUIT
 LAN-195
 < DTC/CIRCUIT DIAGNOSIS >
 
-### [CAN SYSTEM (TYPE 2)]
 
 ### Existed
 
@@ -801195,7 +797290,6 @@ LAN-196
 DLC BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 1)
 DLC BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 1)
 
-### Diagnosis Procedure
 
 ### Existed
 
@@ -801223,7 +797317,6 @@ P
 N
 DLC BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 2)
 
-### Diagnosis Procedure
 
 ### Existed
 
@@ -801299,7 +797392,6 @@ INFOID:0000000010285657
 1.CHECK CONNECTOR
 1.
 
-### Turn the ignition switch OFF.
 
 ### Resistance (Ω)
 
@@ -801333,7 +797425,6 @@ P
 N
 AFS BRANCH LINE CIRCUIT
 
-### Diagnosis Procedure
 
 ### AFS control unit harness connector
 
@@ -801352,7 +797443,6 @@ LAN-202
 IPDM-E BRANCH LINE CIRCUIT
 IPDM-E BRANCH LINE CIRCUIT
 
-### Diagnosis Procedure
 
 ### IPDM E/R harness connector
 
@@ -801386,7 +797476,6 @@ O
 P
 N
 
-### ADP BRANCH LINE CIRCUIT
 
 ### 2014 Q70
 
@@ -801427,7 +797516,6 @@ Check the resistance between the ADAS control unit harness connector terminals.
 Is the measurement value within the specification?
 YES
 
-### >> GO TO 4.
 
 ### PSB BRANCH LINE CIRCUIT
 
@@ -801587,7 +797675,6 @@ LAN-208
 APA BRANCH LINE CIRCUIT
 APA BRANCH LINE CIRCUIT
 
-### Diagnosis Procedure
 
 ### Existed
 
@@ -801690,7 +797777,6 @@ N
 CAN COMMUNICATION CIRCUIT 1
 Diagnosis Procedure
 
-### INFOID:0000000010285669
 
 ### Terminal No.
 
@@ -801746,7 +797832,6 @@ O
 P
 N
 
-### CAN COMMUNICATION CIRCUIT 2
 
 ### Terminal No.
 
@@ -801818,7 +797903,6 @@ LAN-216
 < DTC/CIRCUIT DIAGNOSIS >
 [CAN SYSTEM (TYPE 2)]
 
-### ITS COMMUNICATION CIRCUIT
 
 ### Revision: 2013 November
 
@@ -801846,9 +797930,6 @@ N
 DTC/CIRCUIT DIAGNOSIS
 MAIN LINE BETWEEN TPMS AND HVAC CIRCUIT
 
-### Diagnosis Procedure
-
-### Low tire pressure warning control unit
 
 ### [CAN SYSTEM (TYPE 3)]
 
@@ -801898,7 +797979,6 @@ O
 P
 N
 
-### MAIN LINE BETWEEN A-BAG AND AV CIRCUIT
 
 ### Terminal No.
 
@@ -801954,7 +798034,6 @@ NO
 AV control unit harness connector
 Combination meter harness connector
 
-### Continuity
 
 ### Terminal No.
 
@@ -801990,7 +798069,6 @@ P
 N
 MAIN LINE BETWEEN M&A AND DLC CIRCUIT
 
-### Diagnosis Procedure
 
 ### Combination meter harness connector
 
@@ -802091,7 +798169,6 @@ MAIN LINE BETWEEN ADP AND ABS CIRCUIT
 Diagnosis Procedure
 INFOID:0000000010285686
 
-### 1.CHECK CONNECTOR
 
 ### Existed
 
@@ -802167,7 +798244,6 @@ VK56VD
 Is the measurement value within the specification?
 YES
 
-### >> GO TO 3.
 
 ### 2014 Q70
 
@@ -802257,7 +798333,6 @@ INFOID:0000000010285697
 1.CHECK CONNECTOR
 1.
 
-### Approx. 54 – 66
 
 ### [CAN SYSTEM (TYPE 3)]
 
@@ -802306,7 +798381,6 @@ LAN-232
 [CAN SYSTEM (TYPE 3)]
 A-BAG BRANCH LINE CIRCUIT
 
-### A-BAG BRANCH LINE CIRCUIT
 
 ### Is the inspection result normal?
 
@@ -802321,7 +798395,6 @@ TCU BRANCH LINE CIRCUIT
 LAN-233
 < DTC/CIRCUIT DIAGNOSIS >
 
-### [CAN SYSTEM (TYPE 3)]
 
 ### Existed
 
@@ -802350,7 +798423,6 @@ Harness connector M25 and PCB harness side connector
 Is the inspection result normal?
 YES
 
-### >> GO TO 2.
 
 ### Harness connector
 
@@ -802412,7 +798484,6 @@ LAN-236
 < DTC/CIRCUIT DIAGNOSIS >
 [CAN SYSTEM (TYPE 3)]
 
-### M&A BRANCH LINE CIRCUIT
 
 ### Existed
 
@@ -802564,7 +798635,6 @@ LAN-242
 ADP BRANCH LINE CIRCUIT
 ADP BRANCH LINE CIRCUIT
 
-### Diagnosis Procedure
 
 ### 2014 Q70
 
@@ -802643,7 +798713,6 @@ Connect all the connectors. Check if the symptoms described in the “Symptom (R
 customer)” are reproduced.
 Inspection result
 
-### Reproduced>>GO TO 6.
 
 ### Revision: 2013 November
 
@@ -802671,7 +798740,6 @@ N
 DTC/CIRCUIT DIAGNOSIS
 MAIN LINE BETWEEN TPMS AND HVAC CIRCUIT
 
-### Diagnosis Procedure
 
 ### Low tire pressure warning control unit
 
@@ -802811,7 +798879,6 @@ P
 N
 MAIN LINE BETWEEN M&A AND DLC CIRCUIT
 
-### Diagnosis Procedure
 
 ### Combination meter harness connector
 
@@ -802847,7 +798914,6 @@ Turn the ignition switch OFF.
 Disconnect the battery cable from the negative terminal.
 3.
 
-### Harness connector
 
 ### < DTC/CIRCUIT DIAGNOSIS >
 
@@ -802896,7 +798962,6 @@ Disconnect the harness connectors M6 and E106.
 2.
 Check the continuity between the harness connectors.
 
-### Is the inspection result normal?
 
 ### Connector No.
 
@@ -802934,7 +798999,6 @@ O
 P
 N
 
-### MAIN LINE BETWEEN DLC AND ADP CIRCUIT
 
 ### Terminal No.
 
@@ -802954,7 +799018,6 @@ LAN-254
 MAIN LINE BETWEEN RDR-L AND RDR-R CIRCUIT
 MAIN LINE BETWEEN RDR-L AND RDR-R CIRCUIT
 
-### Diagnosis Procedure
 
 ### Connector No.
 
@@ -803004,7 +799067,6 @@ Check the following terminals and connectors for damage, bend and loose connecti
 and harness side).
 -
 
-### Terminal No.
 
 ### < DTC/CIRCUIT DIAGNOSIS >
 
@@ -803046,7 +799108,6 @@ Turn the ignition switch OFF.
 Disconnect the battery cable from the negative terminal.
 3.
 
-### Disconnect the following harness connectors.
 
 ### Harness connector
 
@@ -803159,9 +799220,6 @@ P
 N
 CGW BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 1)
 
-### Diagnosis Procedure
-
-### M125
 
 ### LAN-262
 
@@ -803173,7 +799231,6 @@ Diagnosis Procedure
 INFOID:0000000010285747
 1.CHECK DTC
 
-### Check DTC of the CAN gateway with CONSULT.
 
 ### 2014 Q70
 
@@ -803217,7 +799274,6 @@ INFOID:0000000010285749
 1.CHECK CONNECTOR
 1.
 
-### Approx. 54 – 66
 
 ### Harness connector
 
@@ -803263,7 +799319,6 @@ TCU BRANCH LINE CIRCUIT
 LAN-267
 < DTC/CIRCUIT DIAGNOSIS >
 
-### [CAN SYSTEM (TYPE 4)]
 
 ### Existed
 
@@ -803341,7 +799396,6 @@ LAN-270
 < DTC/CIRCUIT DIAGNOSIS >
 [CAN SYSTEM (TYPE 4)]
 
-### M&A BRANCH LINE CIRCUIT
 
 ### Existed
 
@@ -803372,7 +799426,6 @@ P
 N
 DLC BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 1)
 
-### Diagnosis Procedure
 
 ### Existed
 
@@ -803474,7 +799527,6 @@ AFS BRANCH LINE CIRCUIT
 AFS BRANCH LINE CIRCUIT
 Diagnosis Procedure
 
-### INFOID:0000000010285762
 
 ### AFS control unit harness connector
 
@@ -803538,7 +799590,6 @@ LAN-278
 ADP BRANCH LINE CIRCUIT
 ADP BRANCH LINE CIRCUIT
 
-### Diagnosis Procedure
 
 ### 2014 Q70
 
@@ -803578,9 +799629,6 @@ Check the following terminals and connectors for damage, bend and loose connecti
 ADAS control unit
 -
 
-### CAN gateway
-
-### CAN gateway harness connector
 
 ### LAN-280
 
@@ -803637,7 +799685,6 @@ side and connector side).
 Is the inspection result normal?
 YES
 
-### >> GO TO 2.
 
 ### >> GO TO 3.
 
@@ -803647,7 +799694,6 @@ NO
 Check the power supply and the ground circuit of the side radar LH. Refer to DAS-578, "SIDE RADAR LH :
 Diagnosis Procedure".
 
-### Is the inspection result normal?
 
 ### Side radar LH harness connector
 
@@ -803666,7 +799712,6 @@ LAN-282
 RDR-R BRANCH LINE CIRCUIT
 RDR-R BRANCH LINE CIRCUIT
 
-### Diagnosis Procedure
 
 ### Side radar RH harness connector
 
@@ -803700,7 +799745,6 @@ O
 P
 N
 
-### APA BRANCH LINE CIRCUIT
 
 ### Existed
 
@@ -803729,7 +799773,6 @@ Check the following terminals and connectors for damage, bend and loose connecti
 Lane camera unit
 -
 
-### Harness connector R7
 
 ### Existed
 
@@ -803809,7 +799852,6 @@ CAN COMMUNICATION CIRCUIT 1
 Diagnosis Procedure
 INFOID:0000000010285773
 
-### 1.CONNECTOR INSPECTION
 
 ### Terminal No.
 
@@ -803835,7 +799877,6 @@ Revision: 2013 November
 LAN
 CAN COMMUNICATION CIRCUIT 1
 
-### LAN-287
 
 ### IPDM E/R
 
@@ -804108,7 +800149,6 @@ P
 N
 MAIN LINE BETWEEN AV AND M&A CIRCUIT
 
-### Diagnosis Procedure
 
 ### Connector No.
 
@@ -804129,9 +800169,6 @@ LAN-296
 MAIN LINE BETWEEN M&A AND DLC CIRCUIT
 MAIN LINE BETWEEN M&A AND DLC CIRCUIT
 
-### Diagnosis Procedure
-
-### Combination meter harness connector
 
 ### < DTC/CIRCUIT DIAGNOSIS >
 
@@ -804178,7 +800215,6 @@ LAN-298
 MAIN LINE BETWEEN BCM AND ADP CIRCUIT
 MAIN LINE BETWEEN BCM AND ADP CIRCUIT
 
-### Diagnosis Procedure
 
 ### Existed
 
@@ -804395,7 +800431,6 @@ O
 P
 N
 
-### A-BAG BRANCH LINE CIRCUIT
 
 ### Is the inspection result normal?
 
@@ -804483,7 +800518,6 @@ LAN-310
 < DTC/CIRCUIT DIAGNOSIS >
 [CAN SYSTEM (TYPE 5)]
 
-### M&A BRANCH LINE CIRCUIT
 
 ### Existed
 
@@ -804584,7 +800618,6 @@ side and connector side).
 Is the inspection result normal?
 YES
 
-### >> GO TO 2.
 
 ### AWD control unit harness connector
 
@@ -804680,7 +800713,6 @@ O
 P
 N
 
-### ADP BRANCH LINE CIRCUIT
 
 ### 2014 Q70
 
@@ -804785,7 +800817,6 @@ LAN-322
 [CAN SYSTEM (TYPE 6)]
 MAIN LINE BETWEEN A-BAG AND AV CIRCUIT
 
-### MAIN LINE BETWEEN A-BAG AND AV CIRCUIT
 
 ### Terminal No.
 
@@ -804821,7 +800852,6 @@ P
 N
 MAIN LINE BETWEEN AV AND M&A CIRCUIT
 
-### Diagnosis Procedure
 
 ### Connector No.
 
@@ -804842,9 +800872,6 @@ LAN-324
 MAIN LINE BETWEEN M&A AND DLC CIRCUIT
 MAIN LINE BETWEEN M&A AND DLC CIRCUIT
 
-### Diagnosis Procedure
-
-### Combination meter harness connector
 
 ### < DTC/CIRCUIT DIAGNOSIS >
 
@@ -804891,7 +800918,6 @@ LAN-326
 MAIN LINE BETWEEN BCM AND ADP CIRCUIT
 MAIN LINE BETWEEN BCM AND ADP CIRCUIT
 
-### Diagnosis Procedure
 
 ### Existed
 
@@ -805108,7 +801134,6 @@ O
 P
 N
 
-### A-BAG BRANCH LINE CIRCUIT
 
 ### Is the inspection result normal?
 
@@ -805122,7 +801147,6 @@ LAN-336
 < DTC/CIRCUIT DIAGNOSIS >
 [CAN SYSTEM (TYPE 6)]
 
-### TCU BRANCH LINE CIRCUIT
 
 ### Existed
 
@@ -805174,9 +801198,6 @@ LAN-338
 [CAN SYSTEM (TYPE 6)]
 AV BRANCH LINE CIRCUIT
 
-### AV control unit harness connector
-
-### [CAN SYSTEM (TYPE 6)]
 
 ### Existed
 
@@ -805267,7 +801288,6 @@ N
 4WD BRANCH LINE CIRCUIT
 Diagnosis Procedure
 
-### INFOID:0000000010285875
 
 ### AWD control unit harness connector
 
@@ -805286,7 +801306,6 @@ LAN-344
 ABS BRANCH LINE CIRCUIT
 ABS BRANCH LINE CIRCUIT
 
-### Diagnosis Procedure
 
 ### Resistance (Ω)
 
@@ -805349,7 +801368,6 @@ LAN-346
 ADP BRANCH LINE CIRCUIT
 ADP BRANCH LINE CIRCUIT
 
-### Diagnosis Procedure
 
 ### 2014 Q70
 
@@ -805422,9 +801440,6 @@ N
 DTC/CIRCUIT DIAGNOSIS
 MAIN LINE BETWEEN TPMS AND HVAC CIRCUIT
 
-### Diagnosis Procedure
-
-### Low tire pressure warning control unit
 
 ### [CAN SYSTEM (TYPE 7)]
 
@@ -805474,7 +801489,6 @@ O
 P
 N
 
-### MAIN LINE BETWEEN A-BAG AND AV CIRCUIT
 
 ### Terminal No.
 
@@ -805529,7 +801543,6 @@ P
 N
 MAIN LINE BETWEEN M&A AND DLC CIRCUIT
 
-### Diagnosis Procedure
 
 ### Combination meter harness connector
 
@@ -805565,7 +801578,6 @@ Turn the ignition switch OFF.
 Disconnect the battery cable from the negative terminal.
 3.
 
-### Harness connector
 
 ### < DTC/CIRCUIT DIAGNOSIS >
 
@@ -805618,7 +801630,6 @@ LAN-356
 MAIN LINE BETWEEN 4WD AND ABS CIRCUIT
 MAIN LINE BETWEEN 4WD AND ABS CIRCUIT
 
-### Diagnosis Procedure
 
 ### Disconnect the harness connectors B1 and M7.
 
@@ -805634,7 +801645,6 @@ NO
 Disconnect the harness connectors M6 and E106.
 2.
 
-### Check the continuity between the harness connectors.
 
 ### Continuity
 
@@ -805700,7 +801710,6 @@ and harness side).
 Harness connector M20 and PCB harness side connector
 -
 
-### Harness connector M7
 
 ### Terminal No.
 
@@ -805735,7 +801744,6 @@ O
 P
 N
 
-### MAIN LINE BETWEEN RDR-L AND RDR-R CIRCUIT
 
 ### Connector No.
 
@@ -805756,7 +801764,6 @@ LAN-360
 MAIN LINE BETWEEN RDR-R AND APA CIRCUIT
 MAIN LINE BETWEEN RDR-R AND APA CIRCUIT
 
-### Diagnosis Procedure
 
 ### LAN-361
 
@@ -805822,7 +801829,6 @@ ECM BRANCH LINE CIRCUIT
 LAN-363
 < DTC/CIRCUIT DIAGNOSIS >
 
-### [CAN SYSTEM (TYPE 7)]
 
 ### 2014 Q70
 
@@ -805879,7 +801885,6 @@ LAN-366
 CGW BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 1)
 CGW BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 1)
 
-### Diagnosis Procedure
 
 ### CGW BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 2)
 
@@ -806026,7 +802031,6 @@ LAN-372
 < DTC/CIRCUIT DIAGNOSIS >
 [CAN SYSTEM (TYPE 7)]
 
-### TCU BRANCH LINE CIRCUIT
 
 ### Existed
 
@@ -806078,9 +802082,6 @@ LAN-374
 [CAN SYSTEM (TYPE 7)]
 AV BRANCH LINE CIRCUIT
 
-### AV control unit harness connector
-
-### [CAN SYSTEM (TYPE 7)]
 
 ### Existed
 
@@ -806133,7 +802134,6 @@ P
 N
 DLC BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 2)
 
-### Diagnosis Procedure
 
 ### Existed
 
@@ -806226,7 +802226,6 @@ O
 P
 N
 
-### ABS BRANCH LINE CIRCUIT
 
 ### Resistance (Ω)
 
@@ -806277,7 +802276,6 @@ O
 P
 N
 
-### IPDM-E BRANCH LINE CIRCUIT
 
 ### IPDM E/R harness connector
 
@@ -806296,7 +802294,6 @@ LAN-384
 ADP BRANCH LINE CIRCUIT
 ADP BRANCH LINE CIRCUIT
 
-### Diagnosis Procedure
 
 ### 2014 Q70
 
@@ -806388,7 +802385,6 @@ LAN-388
 RDR-R BRANCH LINE CIRCUIT
 RDR-R BRANCH LINE CIRCUIT
 
-### Diagnosis Procedure
 
 ### Side radar RH harness connector
 
@@ -806422,7 +802418,6 @@ O
 P
 N
 
-### APA BRANCH LINE CIRCUIT
 
 ### Existed
 
@@ -806484,7 +802479,6 @@ CAN COMMUNICATION CIRCUIT 1
 Diagnosis Procedure
 INFOID:0000000010285943
 
-### LAN-393
 
 ### IPDM E/R
 
@@ -806680,7 +802674,6 @@ P
 N
 MAIN LINE BETWEEN AV AND M&A CIRCUIT
 
-### Diagnosis Procedure
 
 ### Connector No.
 
@@ -806701,9 +802694,6 @@ LAN-402
 MAIN LINE BETWEEN M&A AND DLC CIRCUIT
 MAIN LINE BETWEEN M&A AND DLC CIRCUIT
 
-### Diagnosis Procedure
-
-### Combination meter harness connector
 
 ### < DTC/CIRCUIT DIAGNOSIS >
 
@@ -806750,7 +802740,6 @@ LAN-404
 MAIN LINE BETWEEN BCM AND ADP CIRCUIT
 MAIN LINE BETWEEN BCM AND ADP CIRCUIT
 
-### Diagnosis Procedure
 
 ### Existed
 
@@ -806911,7 +802900,6 @@ TCM BRANCH LINE CIRCUIT
 Diagnosis Procedure
 INFOID:0000000010285990
 
-### Approx. 54 – 66
 
 ### Continuity
 
@@ -807060,7 +803048,6 @@ M&A BRANCH LINE CIRCUIT
 LAN-417
 < DTC/CIRCUIT DIAGNOSIS >
 
-### [CAN SYSTEM (TYPE 8)]
 
 ### Existed
 
@@ -807168,7 +803155,6 @@ LAN-422
 ABS BRANCH LINE CIRCUIT
 ABS BRANCH LINE CIRCUIT
 
-### Diagnosis Procedure
 
 ### Resistance (Ω)
 
@@ -807201,7 +803187,6 @@ O
 P
 N
 
-### IPDM-E BRANCH LINE CIRCUIT
 
 ### IPDM E/R harness connector
 
@@ -807220,7 +803205,6 @@ LAN-424
 ADP BRANCH LINE CIRCUIT
 ADP BRANCH LINE CIRCUIT
 
-### Diagnosis Procedure
 
 ### 2014 Q70
 
@@ -807293,7 +803277,6 @@ N
 DTC/CIRCUIT DIAGNOSIS
 MAIN LINE BETWEEN TPMS AND HVAC CIRCUIT
 
-### Diagnosis Procedure
 
 ### Low tire pressure warning control unit
 
@@ -807433,7 +803416,6 @@ P
 N
 MAIN LINE BETWEEN M&A AND DLC CIRCUIT
 
-### Diagnosis Procedure
 
 ### Combination meter harness connector
 
@@ -807469,7 +803451,6 @@ Turn the ignition switch OFF.
 Disconnect the battery cable from the negative terminal.
 3.
 
-### Harness connector
 
 ### < DTC/CIRCUIT DIAGNOSIS >
 
@@ -807522,7 +803503,6 @@ LAN-434
 MAIN LINE BETWEEN 4WD AND ABS CIRCUIT
 MAIN LINE BETWEEN 4WD AND ABS CIRCUIT
 
-### Diagnosis Procedure
 
 ### Continuity
 
@@ -807610,7 +803590,6 @@ O
 P
 N
 
-### MAIN LINE BETWEEN RDR-L AND RDR-R CIRCUIT
 
 ### Connector No.
 
@@ -807631,7 +803610,6 @@ LAN-438
 MAIN LINE BETWEEN RDR-R AND APA CIRCUIT
 MAIN LINE BETWEEN RDR-R AND APA CIRCUIT
 
-### Diagnosis Procedure
 
 ### LAN-439
 
@@ -807674,7 +803652,6 @@ Disconnect the battery cable from the negative terminal.
 Disconnect the following harness connectors.
 -
 
-### Harness connector
 
 ### [CAN SYSTEM (TYPE 9)]
 
@@ -807762,7 +803739,6 @@ LAN-444
 CGW BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 1)
 CGW BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 1)
 
-### Diagnosis Procedure
 
 ### CGW BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 2)
 
@@ -807888,7 +803864,6 @@ O
 P
 N
 
-### A-BAG BRANCH LINE CIRCUIT
 
 ### Is the inspection result normal?
 
@@ -807968,9 +803943,6 @@ LAN-452
 [CAN SYSTEM (TYPE 9)]
 AV BRANCH LINE CIRCUIT
 
-### AV control unit harness connector
-
-### [CAN SYSTEM (TYPE 9)]
 
 ### Existed
 
@@ -807985,7 +803957,6 @@ LAN-454
 DLC BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 1)
 DLC BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 1)
 
-### Diagnosis Procedure
 
 ### Existed
 
@@ -808013,7 +803984,6 @@ P
 N
 DLC BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 2)
 
-### Diagnosis Procedure
 
 ### Existed
 
@@ -808106,7 +804076,6 @@ O
 P
 N
 
-### ABS BRANCH LINE CIRCUIT
 
 ### Resistance (Ω)
 
@@ -808187,7 +804156,6 @@ LAN-462
 ADP BRANCH LINE CIRCUIT
 ADP BRANCH LINE CIRCUIT
 
-### Diagnosis Procedure
 
 ### 2014 Q70
 
@@ -808279,7 +804247,6 @@ LAN-466
 RDR-R BRANCH LINE CIRCUIT
 RDR-R BRANCH LINE CIRCUIT
 
-### Diagnosis Procedure
 
 ### Side radar RH harness connector
 
@@ -808313,7 +804280,6 @@ O
 P
 N
 
-### APA BRANCH LINE CIRCUIT
 
 ### Existed
 
@@ -808375,7 +804341,6 @@ CAN COMMUNICATION CIRCUIT 1
 Diagnosis Procedure
 INFOID:0000000010286071
 
-### LAN-471
 
 ### IPDM E/R
 
@@ -808571,7 +804536,6 @@ P
 N
 MAIN LINE BETWEEN AV AND M&A CIRCUIT
 
-### Diagnosis Procedure
 
 ### Connector No.
 
@@ -808592,9 +804556,6 @@ LAN-480
 MAIN LINE BETWEEN M&A AND DLC CIRCUIT
 MAIN LINE BETWEEN M&A AND DLC CIRCUIT
 
-### Diagnosis Procedure
-
-### Combination meter harness connector
 
 ### < DTC/CIRCUIT DIAGNOSIS >
 
@@ -808641,7 +804602,6 @@ LAN-482
 MAIN LINE BETWEEN BCM AND ADP CIRCUIT
 MAIN LINE BETWEEN BCM AND ADP CIRCUIT
 
-### Diagnosis Procedure
 
 ### Existed
 
@@ -808802,11 +804762,6 @@ TCM BRANCH LINE CIRCUIT
 Diagnosis Procedure
 INFOID:0000000010286104
 
-### Approx. 54 – 66
-
-### Continuity
-
-### A-BAG BRANCH LINE CIRCUIT
 
 ### Is the inspection result normal?
 
@@ -809058,7 +805013,6 @@ LAN-500
 ADP BRANCH LINE CIRCUIT
 ADP BRANCH LINE CIRCUIT
 
-### Diagnosis Procedure
 
 ### 2014 Q70
 
@@ -809131,7 +805085,6 @@ N
 DTC/CIRCUIT DIAGNOSIS
 MAIN LINE BETWEEN TPMS AND HVAC CIRCUIT
 
-### Diagnosis Procedure
 
 ### Low tire pressure warning control unit
 
@@ -809203,7 +805156,6 @@ O
 P
 N
 
-### MAIN LINE BETWEEN A-BAG AND AV CIRCUIT
 
 ### Terminal No.
 
@@ -809258,7 +805210,6 @@ P
 N
 MAIN LINE BETWEEN M&A AND DLC CIRCUIT
 
-### Diagnosis Procedure
 
 ### Combination meter harness connector
 
@@ -809294,7 +805245,6 @@ Turn the ignition switch OFF.
 Disconnect the battery cable from the negative terminal.
 3.
 
-### Harness connector
 
 ### < DTC/CIRCUIT DIAGNOSIS >
 
@@ -809411,7 +805361,6 @@ LAN-512
 MAIN LINE BETWEEN RDR-L AND RDR-R CIRCUIT
 MAIN LINE BETWEEN RDR-L AND RDR-R CIRCUIT
 
-### Diagnosis Procedure
 
 ### Connector No.
 
@@ -809447,9 +805396,6 @@ O
 P
 N
 
-### MAIN LINE BETWEEN RDR-R AND APA CIRCUIT
-
-### Terminal No.
 
 ### < DTC/CIRCUIT DIAGNOSIS >
 
@@ -809602,7 +805548,6 @@ P
 N
 CGW BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 1)
 
-### Diagnosis Procedure
 
 ### LAN-520
 
@@ -809613,7 +805558,6 @@ CGW BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 2)
 Diagnosis Procedure
 INFOID:0000000010286164
 
-### 1.CHECK DTC
 
 ### 2014 Q70
 
@@ -809657,7 +805601,6 @@ INFOID:0000000010286166
 1.CHECK CONNECTOR
 1.
 
-### Approx. 54 – 66
 
 ### Harness connector
 
@@ -809754,9 +805697,6 @@ LAN-526
 [CAN SYSTEM (TYPE 51)]
 AV BRANCH LINE CIRCUIT
 
-### AV control unit harness connector
-
-### [CAN SYSTEM (TYPE 51)]
 
 ### Existed
 
@@ -809771,7 +805711,6 @@ LAN-528
 DLC BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 1)
 DLC BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 1)
 
-### Diagnosis Procedure
 
 ### Existed
 
@@ -809799,7 +805738,6 @@ P
 N
 DLC BRANCH LINE CIRCUIT (CAN COMMUNICATION CIRCUIT 2)
 
-### Diagnosis Procedure
 
 ### Existed
 
@@ -809891,7 +805829,6 @@ O
 P
 N
 
-### AFS BRANCH LINE CIRCUIT
 
 ### AFS control unit harness connector
 
@@ -809910,7 +805847,6 @@ LAN-534
 IPDM-E BRANCH LINE CIRCUIT
 IPDM-E BRANCH LINE CIRCUIT
 
-### Diagnosis Procedure
 
 ### IPDM E/R harness connector
 
@@ -809944,7 +805880,6 @@ O
 P
 N
 
-### ADP BRANCH LINE CIRCUIT
 
 ### 2014 Q70
 
@@ -810034,7 +805969,6 @@ O
 P
 N
 
-### RDR-R BRANCH LINE CIRCUIT
 
 ### Side radar RH harness connector
 
@@ -810053,7 +805987,6 @@ LAN-540
 APA BRANCH LINE CIRCUIT
 APA BRANCH LINE CIRCUIT
 
-### Diagnosis Procedure
 
 ### Existed
 
@@ -810314,7 +806247,6 @@ PRECAUTIONS
 PCS-3
 < PRECAUTION >
 
-### [IPDM E/R]
 
 ### Revision: 2013 November
 
@@ -810332,7 +806264,6 @@ when the ignition switch is turned to LOCK position.)
 6.
 Perform self-diagnosis check of all control units using CONSULT.
 
-### Precaution for Procedure without Cowl Top Cover
 
 ### 2014 Q70
 
@@ -810578,7 +806509,6 @@ turned OFF.
 > • Turns OFF the tail lamp relay and daytime running light relay when the ignition switch is
 > turned OFF
 
-### Front wiper motor
 
 ### Front fog lamp
 
@@ -812681,7 +808611,6 @@ PRECAUTION
 PRECAUTIONS
 Precaution for Supplemental Restraint System (SRS) "AIR BAG" and "SEAT BELT
 
-### PRE-TENSIONER"
 
 ### Revision: 2013 November
 
@@ -813185,7 +809114,6 @@ INFOID:0000000010258199
 APPLICATION ITEM
 CONSULT performs the following functions via CAN communication with BCM.
 
-### SIGNAL BUFFER
 
 ### “LOCK”.
 
@@ -813314,9 +809242,6 @@ P
 N
 *: OFF is displayed when brake pedal is depressed while brake switch power supply is OFF.
 
-### ACTIVE TEST
-
-### S/L RELAY-REQ
 
 ### INT LAMP
 
@@ -813556,7 +809481,6 @@ the incident/malfunction occurs).
 2.
 Check operation condition of the function that is malfunctioning.
 
-### >> GO TO 5.
 
 ### Is the symptom described?
 
@@ -815346,7 +811270,6 @@ each symptom.
 > Key system are closely related to each other regarding control. The vehicle security function can operate only
 > when the door lock and power distribution system are operating normally.
 
-### Conditions of Vehicle (Operating Conditions)
 
 ### 1.PERFORM WORK SUPPORT
 
@@ -815394,7 +811317,6 @@ INFOID:0000000010100577
 • Check that vehicle is under the condition shown in “Conditions of vehicle” before starting diagnosis, and
 check each symptom.
 
-### Conditions of Vehicle (Operating Conditions)
 
 ### 1.CHECK PUSH-BUTTON IGNITION SWITCH INDICATOR
 
@@ -815532,9 +811454,6 @@ PRECAUTION
 PRECAUTIONS
 Precaution for Supplemental Restraint System (SRS) "AIR BAG" and "SEAT BELT
 
-### PRE-TENSIONER"
-
-### Precaution for Procedure without Cowl Top Cover
 
 ### PIIB3706J
 
@@ -815585,9 +811504,6 @@ not connect the electrical component or the ground wire directly to the battery 
 > PREPARATION
 > Special Service Tools
 
-### INFOID:0000000010100642
-
-### For operating instructions, refer to diagnos-
 
 ### AWIIA1239ZZ
 
@@ -817263,7 +813179,6 @@ A
 O
 P
 
-### Revision: 2013 November
 
 ### Precautions for Removing of Battery Terminal
 
@@ -819007,7 +814922,6 @@ DATA MONITOR
 > X: Applicable
 > JSNIA3061ZZ
 
-### System
 
 ### Warning History
 
@@ -819327,9 +815241,6 @@ and waiting for 30 seconds.
 > • Brake warning lamp does not store any history when the parking brake is applied or the brake fluid level gets
 > low.
 
-### Display Item
-
-### Status of parking brake switch.
 
 ### DISTANCE
 
@@ -820104,9 +816015,6 @@ This may not match the indicated value
 on the information display.
 FUEL LOW SIG
 
-### Ignition switch
-
-### COMBINATION METER
 
 ### Ignition
 
@@ -821323,7 +817231,6 @@ NO
 2.CHECK POWER SUPPLY CIRCUIT
 Check voltage between combination meter harness connector and ground.
 
-### Is the inspection result normal?
 
 ### Is the inspection result normal?
 
@@ -822180,7 +818087,6 @@ NO
 2.CHECK OIL PRESSURE SWITCH SIGNAL CIRCUIT
 Check the oil pressure switch signal circuit. Refer to MWI-78, "Diagnosis Procedure".
 
-### Is the inspection result normal?
 
 ### 4.CHECK COMBINATION METER INPUT SIGNAL
 
@@ -822250,7 +818156,6 @@ YES
 >> GO TO 3.
 NO
 
-### >> GO TO 4.
 
 ### 4.CHECK OIL PRESSURE SWITCH SIGNAL CIRCUIT
 
@@ -822366,7 +818271,6 @@ YES
 NO
 >> Repair harness or connector.
 
-### 3.CHECK PARKING BRAKE SWITCH UNIT
 
 ### Condition
 
@@ -823368,9 +819272,6 @@ INFOID:0000000010289364
 CONSULT APPLICATION ITEMS
 CONSULT can perform the following diagnosis modes via CAN communication and the combination meter.
 
-### SELF DIAG RESULT
-
-### Display Item List
 
 ### FUEL METER
 
@@ -823482,9 +819383,6 @@ ACC SET SPEED
 Status of set vehicle speed indicator judged from meter display signal received
 from ADAS control unit with CAN communication line.
 
-### AT SFT DWN SW
-
-### BUCKLE SW
 
 ### DISTANCE
 
@@ -823597,7 +819495,6 @@ DIAGNOSIS SYSTEM (BCM)
 COMMON ITEM
 COMMON ITEM : CONSULT Function (BCM - COMMON ITEM)
 
-### BATTERY SAVER
 
 ### “LOCK”.
 
@@ -823639,9 +819536,6 @@ NOTE:
 The following table includes information (items) inapplicable to this vehicle. For information (items) applicable
 to this vehicle, refer to CONSULT display items.
 
-### ACTIVE TEST
-
-### Description
 
 ### DOOR SW-DR
 
@@ -823767,9 +819661,6 @@ Revision: 2013 November
 WCS-26
 < ECU DIAGNOSIS INFORMATION >
 
-### Ignition switch
-
-### COMBINATION METER
 
 ### 12 V
 
@@ -824071,7 +819962,6 @@ Check voltage between combination meter harness connector and ground.
 Is the inspection result normal?
 YES
 
-### >> GO TO 3.
 
 ### Connector
 
@@ -824500,7 +820390,6 @@ YES
 NO
 >> Repair harness or connector.
 
-### 3.CHECK PARKING BRAKE SWITCH
 
 ### When parking brake is applied
 
@@ -824728,7 +820617,6 @@ PRECAUTION
 PRECAUTIONS
 Precaution for Supplemental Restraint System (SRS) "AIR BAG" and "SEAT BELT
 
-### PRE-TENSIONER"
 
 ### Precautions for Removing of Battery Terminal
 
@@ -824767,7 +820655,6 @@ P
 • Be sure to turn ignition switch OFF and disconnect the battery cable from the negative terminal before
 checking the circuit.
 
-### Precaution for Harness Repair
 
 ### PKIA0306E
 
@@ -825245,7 +821132,6 @@ performs a diagnosis for each unit in the system during the on board diagnosis.
 • Perform a CONSULT diagnosis if the on board diagnosis does not start, e.g., the screen does not display
 anything, the multifunction switch does not function, etc.
 
-### On Board Diagnosis Function
 
 ### OFF to ACC and hold them for 3 seconds or more. Then the
 
@@ -825925,7 +821811,6 @@ SELF DIAGNOSIS RESULT
 • The timing is displayed as “0” if any of the error codes [U1000], [U1010], [U1300] and [U1310] is detected.
 The counter increases by 1 if the condition is normal at the next ignition switch ON cycle.
 
-### Self-diagnosis Results Display Item
 
 ### Data Monitor
 
@@ -826171,7 +822056,6 @@ Adjusts the neutral position of the steering angle sensor.
 Function
 Description
 
-### Read/Write Configuration
 
 ### Manual Configuration
 
@@ -828722,7 +824606,6 @@ AV-78
 [BASE AUDIO WITHOUT NAVIGATION]
 ADDITIONAL SERVICE WHEN REPLACING (AV CONTROL UNIT)
 
-### ADDITIONAL SERVICE WHEN REPLACING (AV CONTROL UNIT)
 
 ### Work Procedure
 
@@ -828742,7 +824625,6 @@ Replace AV control unit. Refer to AV-124, "Removal and Installation".
 -CONSULT Configuration
 Perform “After Replace ECU” or “Manual Configuration” to write vehicle specification. Refer to AV-79, "Work
 
-### Procedure".
 
 ### CONFIGURATION (AV CONTROL UNIT)
 
@@ -828812,7 +824694,6 @@ Grasp vehicle specifications precisely. The control of ECU may not function norm
 > Description
 > Read/Write Configuration
 
-### Before Replace ECU
 
 ### Manual Configuration
 
@@ -828907,7 +824788,6 @@ Turn ignition switch ON and wait for 2 seconds or more.
 2.
 Check “Self Diagnostic Result” of “MULTI AV”.
 
-### Is “CAN COMM CIRCUIT” displayed?
 
 ### [U1000]
 
@@ -829480,7 +825360,6 @@ O
 P
 U1310 AV CONTROL UNIT
 
-### DTC Logic
 
 ### Replace AV control unit. If the mal-
 
@@ -829507,9 +825386,6 @@ YES
 NO
 >> Be sure to eliminate cause of malfunction before installing new fuse.
 
-### 2.CHECK BATTERY POWER SUPPLY CIRCUIT
-
-### Is the inspection result normal?
 
 ### Is the inspection result normal?
 
@@ -830527,7 +826403,6 @@ Description
 INFOID:0000000010098027
 AV control unit that inputs the camera image signal transmits the composite image signal to the display unit.
 
-### Diagnosis Procedure
 
 ### Is the inspection result normal?
 
@@ -830776,7 +826651,6 @@ Description
 INFOID:0000000010098033
 The eject signal is output to AV control unit when the eject switch of multifunction switch is pressed.
 
-### Diagnosis Procedure
 
 ### Is the inspection result normal?
 
@@ -831055,7 +826929,6 @@ Check continuity between AV control unit harness connector and spiral cable harn
 3.
 Check continuity between AV control unit harness connector and ground.
 
-### Is the inspection result normal?
 
 ### 3.CHECK AV CONTROL UNIT VOLTAGE
 
@@ -831140,7 +827013,6 @@ MENU DOWN switch ON
 : 318 – 324 Ω
 MENU UP switch ON
 
-### : 120 – 122 Ω
 
 ### AV-113
 
@@ -831166,7 +827038,6 @@ Description
 INFOID:0000000010098042
 Transmits the steering switch signal to AV control unit.
 
-### Diagnosis Procedure
 
 ### 4.CHECK STEERING SWITCH
 
@@ -831237,7 +827108,6 @@ MENU DOWN switch ON
 : 318 – 324 Ω
 MENU UP switch ON
 
-### : 120 – 122 Ω
 
 ### AV-115
 
@@ -831273,7 +827143,6 @@ Disconnect AV control unit connector and spiral cable connector.
 Check continuity between AV control unit harness connector and spiral cable harness connector.
 3.
 
-### Connect AV control unit connector.
 
 ### 3.CHECK GROUND CIRCUIT
 
@@ -831436,7 +827305,6 @@ is started.
 • AV communication circuit between AV control unit and
 multifunction switch.
 
-### Perform “Self diagnosis Result” of “MULTI AV” with
 
 ### Refer to AV-92, "AV CONTROL UNIT : Diagnosis Proce-
 
@@ -831768,7 +827636,6 @@ A
 O
 P
 
-### NORMAL OPERATING CONDITION
 
 ### RELATED TO AUDIO
 
@@ -831780,7 +827647,6 @@ Check if noise is caused and/or changed by engine speed, ignition switch turned 
 > • CD-R is not guaranteed to play because they can contain compressed audio (MP3, WMA) or could be incorrectly mastered by the customer on a computer.
 > • Check if the CDs carry the Compact Disc Logo. If not, the disc is not mastered to the “red book” Compact
 
-### Disc Standard and may not play.
 
 ### The display is turned off.
 
@@ -831792,7 +827658,6 @@ Wait until the interior of the vehicle has
 warmed up.
 Some pixels in the display are darker or brighter than others.
 
-### This condition is an inherent characteristic of liquid
 
 ### Symptom
 
@@ -832017,7 +827882,6 @@ FRONT DOOR SQUAWKER
 FRONT DOOR SQUAWKER
 Removal and Installation
 
-### INFOID:0000000010098052
 
 ### Installation is the reverse order of removal.
 
@@ -832253,7 +828117,6 @@ SATELLITE RADIO ANTENNA
 SATELLITE RADIO ANTENNA
 Exploded View
 
-### INFOID:0000000010098060
 
 ### INSTALLATION
 
@@ -832292,7 +828155,6 @@ O
 P
 MULTIFUNCTION SWITCH
 
-### Removal and Installation
 
 ### Install in the reverse order of removal.
 
@@ -832363,7 +828225,6 @@ USB CONNECTOR
 Removal and Installation
 INFOID:0000000010098065
 
-### REMOVAL
 
 ### Revision: 2013 November
 
@@ -832585,9 +828446,6 @@ PRECAUTION
 PRECAUTIONS
 Precaution for Supplemental Restraint System (SRS) "AIR BAG" and "SEAT BELT
 
-### PRE-TENSIONER"
-
-### Precautions for Removing of Battery Terminal
 
 ### SEF289H
 
@@ -832600,7 +828458,6 @@ PRECAUTIONS
 • Be sure to turn ignition switch OFF and disconnect the battery cable from the negative terminal before
 checking the circuit.
 
-### Precaution for Harness Repair
 
 ### PKIA0306E
 
@@ -834775,7 +830632,6 @@ SELF DIAGNOSIS RESULT
 • The timing is displayed as “0” if any of the error codes [U1000], [U1010], [U1300] and [U1310] is detected.
 The counter increases by 1 if the condition is normal at the next ignition switch ON cycle.
 
-### Self-diagnosis Results Display Item
 
 ### AV communication
 
@@ -834872,7 +830728,6 @@ AV control unit malfunction is detected.
 possibility of the detection of a temporary malfunction.
 • Replace the AV control unit if the malfunction occurs constantly.
 
-### Refer to AV-305, "Removal and Installa-
 
 ### Refer to AV-305, "Removal and Installa-
 
@@ -836788,7 +832643,6 @@ Sound output
 Sound signal driver seat
 speaker RH
 
-### Output
 
 ### 2014 Q70
 
@@ -836991,7 +832845,6 @@ Sound output
 47
 (Y)
 
-### Sound signal rear LH
 
 ### 2014 Q70
 
@@ -837075,7 +832928,6 @@ When closed all doors.
 78
 (SB)
 
-### Ground
 
 ### SKIB3609E
 
@@ -837634,7 +833486,6 @@ When closed all doors.
 12.0 V
 78
 
-### (SB)
 
 ### SKIB3609E
 
@@ -838163,7 +834014,6 @@ A
 O
 P
 
-### ADDITIONAL SERVICE WHEN REPLACING (AV CONTROL UNIT)
 
 ### Work Procedure
 
@@ -838183,7 +834033,6 @@ Replace AV control unit. Refer to AV-305, "Removal and Installation".
 -CONSULT Configuration
 Perform “After Replace ECU” or “Manual Configuration” to write vehicle specification. Refer to AV-234, "Work
 
-### Procedure".
 
 ### AV-234
 
@@ -838624,7 +834473,6 @@ INFOID:0000000010098111
 An intermittent error caused by strong radio interference may be detected unless any symptoms (GPS reception error, etc.) occur. Replace the AV control unit if the malfunction occurs constantly. Refer to AV-305,
 "Removal and Installation".
 
-### DTC Logic
 
 ### Display contents of
 
@@ -838868,7 +834716,6 @@ U121A AV CONTROL UNIT
 DTC Logic
 INFOID:0000000010098123
 
-### Diagnosis Procedure
 
 ### Display contents of
 
@@ -838942,7 +834789,6 @@ U121C AV CONTROL UNIT
 DTC Logic
 INFOID:0000000010098127
 
-### Diagnosis Procedure
 
 ### Display contents of
 
@@ -839120,7 +834966,6 @@ Display contents of
 CONSULT
 DTC detection condition
 
-### Possible malfunction factor
 
 ### Refer to AV-305, "Removal and In-
 
@@ -839461,7 +835306,6 @@ YES
 NO
 >> Repair malfunctioning parts.
 
-### 2.CHECK AV CONTROL UNIT VOLTAGE
 
 ### Display contents of
 
@@ -839521,7 +835365,6 @@ YES
 NO
 >> Repair malfunctioning parts.
 
-### 2.CHECK AV CONTROL UNIT VOLTAGE
 
 ### Display contents of
 
@@ -839778,7 +835621,6 @@ O
 P
 U1310 AV CONTROL UNIT
 
-### DTC Logic
 
 ### Replace AV control unit. If the mal-
 
@@ -839866,7 +835708,6 @@ U1602, U160A FRONT DOOR SQUAWKER/TWEETER
 DTC Logic
 INFOID:0000000010098158
 
-### DTC DETECTION LOGIC
 
 ### Check that the DTC is detected again.
 
@@ -840324,9 +836165,6 @@ NO
 2.CHECK BATTERY POWER SUPPLY CIRCUIT
 Check voltage between AV control unit harness connectors and ground.
 
-### Is the inspection result normal?
-
-### >> GO TO 4.
 
 ### Is the inspection result normal?
 
@@ -840697,7 +836535,6 @@ Description
 INFOID:0000000010098175
 AV control unit transmits the playback DVD image signal to the display unit.
 
-### Diagnosis Procedure
 
 ### Is the inspection result normal?
 
@@ -840768,7 +836605,6 @@ Description
 INFOID:0000000010098177
 The eject signal is output to AV control unit when the eject switch of multifunction switch is pressed.
 
-### Diagnosis Procedure
 
 ### Is the inspection result normal?
 
@@ -841156,7 +836992,6 @@ NO
 Connect AV control unit connector and spiral cable connector.
 2.
 
-### Turn ignition switch ON.
 
 ### Turn ignition switch OFF.
 
@@ -841213,7 +837048,6 @@ Revision: 2013 November
 2014 Q70
 AV
 
-### STEERING SWITCH SIGNAL A CIRCUIT
 
 ### : 318 – 324 Ω
 
@@ -841244,9 +837078,6 @@ Description
 INFOID:0000000010098186
 Transmits the steering switch signal to AV control unit.
 
-### Diagnosis Procedure
-
-### Turn ignition switch ON.
 
 ### Turn ignition switch OFF.
 
@@ -841303,7 +837134,6 @@ Revision: 2013 November
 2014 Q70
 AV
 
-### STEERING SWITCH SIGNAL B CIRCUIT
 
 ### 2014 Q70
 
@@ -841326,7 +837156,6 @@ Disconnect AV control unit connector and spiral cable connector.
 Check continuity between AV control unit harness connector and spiral cable harness connector.
 3.
 
-### Connect AV control unit connector.
 
 ### 3.CHECK GROUND CIRCUIT
 
@@ -841469,7 +837298,6 @@ malfunction.
 • AV communication circuit between AV control unit and
 multifunction switch.
 
-### Perform CONSULT self-diagnosis. Refer to AV-176,
 
 ### Refer to AV-278, "AV CONTROL UNIT : Diagnosis Pro-
 
@@ -841896,7 +837724,6 @@ Related to Basic Operation
 Related to Item Choice
 The system should respond correctly to all voice commands without difficulty. If problems are encountered, follow the solutions given in this guide for the appropriate error.
 
-### Symptom
 
 ### The display is turned off.
 
@@ -842017,7 +837844,6 @@ level.
 > 1. Ensure that the voicetag requested matches what was originally stored. This can be confirmed
 > by giving the “Addressbook” Directory or Phone Directory command.
 
-### 2. Replace one of the voicetags being confused with a different voicetag.
 
 ### Revision: 2013 November
 
@@ -842527,7 +838353,6 @@ O
 P
 FRONT DOOR SQUAWKER
 
-### Removal and Installation
 
 ### INSTALLATION
 
@@ -842856,7 +838681,6 @@ Exploded View
 INFOID:0000000010098208
 Removal and Installation
 
-### INFOID:0000000010098209
 
 ### Installation is the reverse order of removal.
 
@@ -842879,7 +838703,6 @@ MULTIFUNCTION SWITCH
 MULTIFUNCTION SWITCH
 Removal and Installation
 
-### INFOID:0000000010098210
 
 ### JSNIA3096ZZ
 
@@ -842958,7 +838781,6 @@ P
 USB CONNECTOR
 Removal and Installation
 
-### INFOID:0000000010098213
 
 ### Revision: 2013 November
 
@@ -843183,9 +839005,6 @@ PRECAUTION
 PRECAUTIONS
 Precaution for Supplemental Restraint System (SRS) "AIR BAG" and "SEAT BELT
 
-### PRE-TENSIONER"
-
-### Precautions for Removing of Battery Terminal
 
 ### SEF289H
 
@@ -843198,7 +839017,6 @@ PRECAUTIONS
 • Be sure to turn ignition switch OFF and disconnect the battery cable from the negative terminal before
 checking the circuit.
 
-### Precaution for Harness Repair
 
 ### PKIA0306E
 
@@ -844858,7 +840676,6 @@ DTC/CIRCUIT DIAGNOSIS
 U1000 CAN COMM CIRCUIT
 DESCRIPTION
 
-### INFOID:0000000010098243
 
 ### DTC Logic
 
@@ -844872,7 +840689,6 @@ Turn the power switch ON and hold it for 2 seconds or more.
 2.
 “”Check the self-diagnosis result of “TCU”.
 
-### Is CAN communication system displayed?
 
 ### When TCU did not transmit and receive CAN communica-
 
@@ -846329,7 +842145,6 @@ A screen other than map screen is displayed.
 Press “MAP”.
 Some pixels in the display are darker or brighter than others.
 
-### This condition is an inherent characteristic of liquid
 
 ### A small black spot or a small bright
 
@@ -846606,9 +842421,6 @@ BATTERY INSPECTION ................................ 120
 How to Handle Battery ..........................................120
 Work Flow .............................................................120
 
-### Revision: 2013 November
-
-### Precaution for Procedure without Cowl Top Cover
 
 ### 2014 Q70
 
@@ -846648,9 +842460,6 @@ switch and wait at least 30 seconds.
 > PREPARATION
 > Special Service Tools
 
-### INFOID:0000000010098703
-
-### For operating instructions, refer to diagnostic
 
 ### AWIIA1239ZZ
 
@@ -849164,7 +844973,6 @@ NORMAL OPERATING CONDITION ..............178
 Description ........................................................... 178
 REMOVAL AND INSTALLATION ............ 181
 
-### Revision: 2013 November
 
 ### Precautions for Removing of Battery Terminal
 
@@ -849460,7 +845268,6 @@ CAN communication
 Closed throttle position signal
 Receives idle position state (ON/OFF)
 
-### Accelerator pedal position signal
 
 ### SET/COAST switch
 
@@ -849703,9 +845510,6 @@ Fail-safe (ICC Sensor)
 INFOID:0000000010099029
 If a malfunction occurs in the ICC sensor, ADAS control unit cancels control, sounds a beep, and turns ON the
 
-### ICC system warning lamp in the combination meter.
-
-### ICC system warning lamp
 
 ### ICC system warning lamp
 
@@ -849723,7 +845527,6 @@ Blind Spot Warning (BSW)
 —
 BSW/BSI warning lamp
 
-### Cancel
 
 ### CAN communication line, a mode
 
@@ -850417,7 +846220,6 @@ canceled
 except when brake pedal is depressed or when CANCEL
 switch is pressed
 
-### JSOIA0206ZZ
 
 ### AUTO position.
 
@@ -850494,7 +846296,6 @@ indicator and sounding the chime unexpectedly. The driver will
 have to manually control the proper distance away from the vehicle
 traveling ahead.
 
-### JPOIA0221ZZ
 
 ### INFOID:0000000010099037
 
@@ -850538,7 +846339,6 @@ A
 DIAGNOSIS SYSTEM (ADAS CONTROL UNIT)
 On Board Diagnosis Function
 
-### INFOID:0000000010099038
 
 ### Turn the ignition switch OFF.
 
@@ -850605,7 +846405,6 @@ ADAS control unit malfunction
 • Check power supply and ground circuit of ADAS control unit. Refer to DAS-67, "Diagnosis Procedure".
 • Perform SELF-DIAGNOSIS for “ICC/ADAS”with
 
-### CONSULT, and then check the malfunctioning parts.
 
 ### Data Monitor
 
@@ -850913,7 +846712,6 @@ NOTE:
 The following table includes information (items) inapplicable to this vehicle. For information (items) applicable
 to this vehicle, refer to CONSULT display items.
 
-### VDC OFF SW
 
 ### BSI) Vehicle dynamics
 
@@ -851000,9 +846798,6 @@ BSI) Not operating condition
 ×
 Did not meet the operating condition (vehicle speed, turn signal operation, etc.)
 
-### Side Radar Lost
-
-### [ICC]
 
 ### SET/COAST SW
 
@@ -851300,7 +847095,6 @@ LDP SYSTEM ON
 ×
 Indicates [On/Off] status of LDP system
 
-### WARN REQ
 
 ### Shift position
 
@@ -851433,7 +847227,6 @@ N
 P
 A
 
-### ACTIVE TEST
 
 ### METER LAMP
 
@@ -851537,7 +847330,6 @@ CCS-40
 DIAGNOSIS SYSTEM (ADAS CONTROL UNIT)
 The test can be performed only when the engine is running.
 
-### STOP LAMP
 
 ### METER LAMP
 
@@ -851715,7 +847507,6 @@ BSI ON INDICATOR
 Test item
 Operation
 
-### Description
 
 ### WARNING SYSTEM
 
@@ -851731,7 +847522,6 @@ ON
 Test item
 Operation
 
-### Description
 
 ### Test item
 
@@ -851870,9 +847660,6 @@ LASER OFFSET
 NOTE:
 The item is indicated, but not used
 
-### LASER HEIGHT
-
-### < SYSTEM DESCRIPTION >
 
 ### Description
 
@@ -851984,7 +847771,6 @@ ICC system ON
 switch to change the vehicle-to-vehicle distance setting
 When set to “long”
 
-### Long
 
 ### Start the engine and press
 
@@ -852032,7 +847818,6 @@ SET VHCL SPD
 While driving
 When vehicle speed is set
 
-### Displays the set
 
 ### THRTL SENSOR
 
@@ -852145,7 +847930,6 @@ A
 GEAR
 While driving
 
-### Displays the
 
 ### ASCD
 
@@ -852162,7 +847946,6 @@ Drive the vehicle and activate
 the vehicle-to-vehicle distance
 control mode
 
-### When a vehicle ahead is detected
 
 ### Displays the rel-
 
@@ -852204,7 +847987,6 @@ On
 When the IBA OFF switch is not pressed
 Off
 
-### FCW SYSTEM ON
 
 ### APA PWR
 
@@ -852703,7 +848485,6 @@ tone
 Lane departure warning lamp
 Cancel
 
-### Blind Spot Warning (BSW)
 
 ### CAN communication line, a mode
 
@@ -852782,7 +848563,6 @@ NOTE:
 • U0126: STRG SEN CAN CIR 1
 • U0235: ICC SENSOR CAN CIRC 1
 
-### • U0401: ECM CAN CIR 1
 
 ### • U1504: SIDE RDR L CAN CIR 1
 
@@ -852850,7 +848630,6 @@ Other than CAN communication system (Other than U1000, U1010)
 switch OFF → ON. It returns to 0 when a malfunction is detected again in the process.
 - If it is over 49, it is fixed to 49 until the self-diagnosis results are erased.
 
-### Systems for fail-safe
 
 ### CONSULT display
 
@@ -853004,13 +848783,6 @@ ON
 A, B, C, D, E
 CCS-122
 
-### C1A33
-
-### CCS-128
-
-### CAMERA UNIT MALF
-
-### APA MOTOR MALF
 
 ### U0121
 
@@ -853039,9 +848811,6 @@ U0401
 ECM CAN CIR 1
 ON
 
-### A, B, E, F, G
-
-### CONSULT display
 
 ### CCS-55
 
@@ -853101,7 +848870,6 @@ ON
 A, B, C, D, E, F, G,
 H
 
-### CCS-153
 
 ### DAS-563
 
@@ -853187,15 +848955,6 @@ U1515
 165
 ICC SENSOR CAN
 
-### CIRC 3
-
-### CONSULT display
-
-### < ECU DIAGNOSIS INFORMATION >
-
-### U1517
-
-### CONSULT display
 
 ### CCS-57
 
@@ -853846,7 +849605,6 @@ P
 A
 ADDITIONAL SERVICE WHEN REPLACING ICC SENSOR
 
-### Description
 
 ### Always perform it.
 
@@ -854612,7 +850370,6 @@ ADAS CONTROL UNIT
 ADAS CONTROL UNIT : DTC Logic
 INFOID:0000000010099060
 
-### DTC DETECTION LOGIC
 
 ### Is “C1A00” detected as the current malfunction?
 
@@ -854892,7 +850649,6 @@ YES
 NO
 >> Refer to GI-47, "Intermittent Incident".
 
-### Diagnosis Procedure
 
 ### CCS-151, "ADAS CONTROL UNIT : DTC Logic".
 
@@ -855276,7 +851032,6 @@ YES
 NO
 >> Adjust stop lamp switch installation. Refer to BR-7, "Inspection and Adjustment".
 
-### 10.STOP LAMP SWITCH INSPECTION
 
 ### 11.CHECK STOP LAMP SWITCH POWER SUPPLY CIRCUIT
 
@@ -855371,7 +851126,6 @@ CCS
 C1A05 BRAKE SW/STOP LAMP SW
 CCS-97
 
-### < DTC/CIRCUIT DIAGNOSIS >
 
 ### 14.PERFORM SELF-DIAGNOSIS OF ECM
 
@@ -855515,7 +851269,6 @@ NOTE:
 If DTC “C1A06” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to CCS-151,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “C1A06” detected as the current malfunction?
 
@@ -855627,7 +851380,6 @@ Perform “All DTC Reading”.
 4.
 Check if any DTC is detected in “Self Diagnostic Result” of “ENGINE”.
 
-### Is any DTC detected?
 
 ### Component Inspection
 
@@ -855971,7 +851723,6 @@ Check that the stop lamp is illuminated by depressing the brake pedal to turn th
 Is the inspection result normal?
 YES
 
-### >> GO TO6.
 
 ### VQ37VHR
 
@@ -856426,7 +852177,6 @@ YES
 NO
 >> Replace ADAS control unit. Refer to DAS-68, "Removal and Installation".
 
-### Component Inspection
 
 ### >> INSPECTION END
 
@@ -856519,7 +852269,6 @@ NO
 2.PERFORM SELF-DIAGNOSIS OF ECM
 Check if any DTC is detected in “Self Diagnostic Result” of “ENGINE”.
 
-### Is any DTC detected?
 
 ### Trouble diagnosis name
 
@@ -856585,7 +852334,6 @@ YES
 NO
 >> Refer to GI-47, "Intermittent Incident".
 
-### Diagnosis Procedure
 
 ### CCS-52, "DTC Index".
 
@@ -856689,7 +852437,6 @@ Perform “All DTC Reading”.
 2.
 Check if any DTC is detected in “Self Diagnostic Result” of “ABS”.
 
-### Is any DTC detected?
 
 ### Revision: 2013 November
 
@@ -857209,7 +852956,6 @@ Perform “All DTC Reading” with CONSULT.
 5.
 Check if the “C1A24” is detected as the current malfunction in “Self Diagnostic Result” of “ICC/ADAS”.
 
-### Is “C1A24” detected as the current malfunction?
 
 ### Is “C1A24” detected as the current malfunction?
 
@@ -857309,7 +853055,6 @@ If DTC “C1A26” is detected along with DTC “U1000”, “U0415” or “U01
 • DTC “U0415”: Refer to CCS-147, "ADAS CONTROL UNIT : DTC Logic".
 • DTC “U0121”: Refer to CCS-139, "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “C1A26” detected as the current malfunction?
 
@@ -857458,7 +853203,6 @@ DTC Logic
 INFOID:0000000010099111
 DTC DETECTION LOGIC
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “C1A2A” detected as the current malfunction?
 
@@ -857507,7 +853251,6 @@ NOTE:
 If DTC “C1A33” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to CCS-151,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “C1A33” detected as the current malfunction?
 
@@ -857727,7 +853470,6 @@ YES
 NO
 >> Refer to GI-47, "Intermittent Incident".
 
-### Diagnosis Procedure
 
 ### Refer to CCS-151, "ADAS CONTROL UNIT : DTC Logic".
 
@@ -857831,7 +853573,6 @@ Possible causes
 C1A37
 (133)
 
-### APA CAN CIR2
 
 ### CCS-129
 
@@ -858345,7 +854086,6 @@ YES
 NO
 >> Refer to GI-47, "Intermittent Incident".
 
-### Diagnosis Procedure
 
 ### Refer to CCS-151, "ADAS CONTROL UNIT : DTC Logic".
 
@@ -858462,7 +854202,6 @@ A
 C1F05 ACCELERATOR PEDAL ACTUATOR POWER SUPPLY CIRCUIT
 DTC Logic
 
-### INFOID:0000000010099138
 
 ### Is “C1F05” detected as the current malfunction?
 
@@ -858498,7 +854237,6 @@ Trouble diagnosis name
 DTC detecting condition
 Possible causes
 
-### C1F05
 
 ### 2014 Q70
 
@@ -858641,7 +854379,6 @@ SENSOR : DTC Logic".
 DTC
 (On board display)
 
-### Trouble diagnosis name
 
 ### Trouble diagnosis name
 
@@ -858741,7 +854478,6 @@ YES
 NO
 >> Refer to GI-47, "Intermittent Incident".
 
-### ADAS CONTROL UNIT : Diagnosis Procedure
 
 ### BRC-52, "DTC Index".
 
@@ -859005,7 +854741,6 @@ NOTE:
 If DTC “U0402” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to CCS-151,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U0402” detected as the current malfunction?
 
@@ -859038,7 +854773,6 @@ NO
 DTC
 (On board display)
 
-### Trouble diagnosis
 
 ### CCS-146
 
@@ -859053,7 +854787,6 @@ NOTE:
 If DTC “U0405” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to CCS-151,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U0405” detected as the current malfunction?
 
@@ -859107,7 +854840,6 @@ NOTE:
 If DTC “U0415” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to CCS-151,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U0415” detected as the current malfunction?
 
@@ -859131,7 +854863,6 @@ SENSOR : DTC Logic".
 DTC
 (On board display)
 
-### Trouble diagnosis name
 
 ### Trouble diagnosis name
 
@@ -859329,7 +855060,6 @@ N
 P
 A
 
-### U1000 CAN COMM CIRCUIT
 
 ### ITS COMMUNICATION
 
@@ -859371,7 +855101,6 @@ ITS COMMUNICATION
 large quantities of data at high speed by connecting control units with 2 communication lines.
 • ITS communication lines adopt twisted-pair line style (two lines twisted) for noise immunity.
 
-### ICC SENSOR : DTC Logic
 
 ### Revision: 2013 November
 
@@ -859621,7 +855350,6 @@ INFOID:0000000010099181
 1.CHECK SELF-DIAGNOSIS RESULTS
 Check if “U1000” is detected other than “U150C” in “Self Diagnostic Result” of “ICC/ADAS”.
 
-### Is any DTC detected?
 
 ### Trouble diagnosis name
 
@@ -859651,7 +855379,6 @@ NOTE:
 If DTC “U150D” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to CCS-151,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U150D” detected as the current malfunction?
 
@@ -859706,7 +855433,6 @@ NOTE:
 If DTC “U150E” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to CCS-151,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U150E” detected as the current malfunction?
 
@@ -859739,7 +855465,6 @@ NO
 DTC
 (On board display)
 
-### Trouble diagnosis name
 
 ### < DTC/CIRCUIT DIAGNOSIS >
 
@@ -859753,7 +855478,6 @@ NOTE:
 If DTC “U1502” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to CCS-151,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U1502” detected as the current malfunction?
 
@@ -859819,7 +855543,6 @@ NOTE:
 If DTC “U1513” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to CCS-151,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U1513” detected as the current malfunction?
 
@@ -859832,7 +855555,6 @@ INFOID:0000000010099189
 1.CHECK SELF-DIAGNOSIS RESULTS
 Check if “U1000” is detected other than “U1513” in “Self Diagnostic Result” of “ICC/ADAS”.
 
-### Is “U1000” detected?
 
 ### Is any DTC detected?
 
@@ -859871,7 +855593,6 @@ NOTE:
 If DTC “U1514” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to CCS-151,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U1514” detected as the current malfunction?
 
@@ -859927,7 +855648,6 @@ NOTE:
 If DTC “U1515” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to CCS-151,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U1515” detected as the current malfunction?
 
@@ -859967,7 +855687,6 @@ NOTE:
 If DTC “U1517” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to CCS-151,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U1517” detected as the current malfunction?
 
@@ -860989,7 +856708,6 @@ Erase the self-diagnosis results, and then perform “All DTC Reading” again a
 test. (Refer to CCS-81, "Description" for action test.)
 2.
 
-### Check that the ICC system is normal.
 
 ### Revision: 2013 November
 
@@ -861039,7 +856757,6 @@ indicator and sounding the chime unexpectedly. The driver will
 have to manually control the proper distance away from the vehicle
 traveling ahead.
 
-### JPOIA0221ZZ
 
 ### JPOIA0219ZZ
 
@@ -861504,7 +857221,6 @@ CAN communication
 Closed throttle position signal
 Receives idle position state (ON/OFF)
 
-### Accelerator pedal position signal
 
 ### SET/COAST switch
 
@@ -861607,7 +857323,6 @@ Steering angle sensor malfunction signal
 Receives a malfunction state of steering angle sensor
 Steering angle sensor signal
 
-### Receives the number of revolutions, turning direction of
 
 ### A/C auto amp.
 
@@ -861912,7 +857627,6 @@ Revision: 2013 November
 DAS-20
 < SYSTEM DESCRIPTION >
 
-### [ADAS CONTROL UNIT]
 
 ### CAN communication line, a mode
 
@@ -862065,7 +857779,6 @@ NOTE:
 The following table includes information (items) inapplicable to this vehicle. For information (items) applicable
 to this vehicle, refer to CONSULT display items.
 
-### Side Radar Lost
 
 ### Revision: 2013 November
 
@@ -862113,7 +857826,6 @@ LDP SYSTEM ON
 [On/Off]
 ×
 
-### Indicates [On/Off] status of LDP system
 
 ### Monitored item
 
@@ -862188,7 +857900,6 @@ P
 A
 The test is finished in 10 seconds after starting
 
-### Active Pedal
 
 ### Revision: 2013 November
 
@@ -862205,7 +857916,6 @@ BSW/BSI WARNING LAMP
 BSI ON INDICATOR
 Test item
 
-### Opera-
 
 ### Description
 
@@ -862221,7 +857931,6 @@ Transmits the warning systems ON indicator signal to the
 warning systems ON indicator.
 ON
 
-### Test item
 
 ### Revision: 2013 November
 
@@ -862280,7 +857989,6 @@ unit
 SET VHCL SPD
 While driving
 
-### When vehicle speed is set
 
 ### Displays the
 
@@ -862312,7 +858020,6 @@ P
 A
 GEAR
 
-### While driving
 
 ### LDW ON LAMP
 
@@ -862439,9 +858146,6 @@ NOTE:
 • C1A36: APA CAN COMM CIR
 • C1A37: APA CAN CIR 2
 
-### • C1A38: APA CAN CIR 1
-
-### • U0235: ICC SENSOR CAN CIRC 1
 
 ### • C1A15: GEAR POSITION
 
@@ -862523,9 +858227,6 @@ ON
 ON
 A, B, C, D, E
 
-### CCS-122
-
-### CONSULT display
 
 ### DAS-43
 
@@ -862583,7 +858284,6 @@ U1010
 CONTROL UNIT (CAN)
 ON
 
-### A, B, C, D, E, F, G,
 
 ### SIDE RDR L CAN CIR 1
 
@@ -862668,13 +858368,6 @@ STRG SEN CAN CIRC 3
 ON
 A, B, C, D, E, G, H
 
-### CCS-160
-
-### CONSULT display
-
-### < ECU DIAGNOSIS INFORMATION >
-
-### CONSULT display
 
 ### DAS-45
 
@@ -863374,7 +859067,6 @@ Revision: 2013 November
 2014 Q70
 DAS
 
-### PRECAUTIONS
 
 ### Precautions for Removing of Battery Terminal
 
@@ -863559,7 +859251,6 @@ ICC brake hold relay
 ICC brake hold relay activates the stop lamp by ICC brake hold relay drive signal (stop
 lamp drive signal) outputted by the ADAS control unit
 
-### ICC brake switch
 
 ### Stop lamp switch
 
@@ -864125,9 +859816,6 @@ and cause automatic braking. Driver may need to control the distance from other 
 - When the reflector of the vehicle ahead is covered with dirt, snow and road spray
 - When the snow or road spray from traveling vehicles reduces the sensor's visibility
 
-### - When dense exhaust or other smoke (black smoke) from vehicles reduces the s
-
-### Revision: 2013 November
 
 ### still. To prevent the vehicle from moving, the driver must depress the brake 
 
@@ -864465,9 +860153,6 @@ INFOID:0000000010100715
 APPLICATION ITEMS
 CONSULT performs the following functions via CAN communication with ADAS control unit and the communication with ICC sensor.
 
-### LASER HEIGHT
-
-### < SYSTEM DESCRIPTION >
 
 ### Description
 
@@ -864793,7 +860478,6 @@ ICC system ON
 • Press the DISTANCE
 switch to change the vehicle-to-vehicle distance setting
 
-### When set to “long”
 
 ### Revision: 2013 November
 
@@ -865227,7 +860911,6 @@ U0401
 ECM CAN CIR 1
 ON
 
-### A, B, E, F, G
 
 ### DAS-109
 
@@ -865374,7 +861057,6 @@ U1515
 165
 ICC SENSOR CAN
 
-### CIRC 3
 
 ### CONSULT display
 
@@ -865393,11 +861075,6 @@ Revision: 2013 November
 2014 Q70
 DAS-110
 
-### < ECU DIAGNOSIS INFORMATION >
-
-### U1517
-
-### CONSULT display
 
 ### DAS-111
 
@@ -865507,7 +861184,6 @@ DAS-114
 ACCELERATOR PEDAL ACTUATOR
 ACCELERATOR PEDAL ACTUATOR
 
-### Reference Value
 
 ### TERMINAL LAYOUT
 
@@ -866111,7 +861787,6 @@ P
 A
 ADDITIONAL SERVICE WHEN REPLACING ICC SENSOR
 
-### Description
 
 ### Always perform it.
 
@@ -866121,7 +861796,6 @@ INFOID:0000000010100731
 1.LASER BEAM AIMING ADJUSTMENT
 Adjust the laser beam aiming. Refer to CCS-76, "Description".
 
-### >> GO TO 2.
 
 ### < BASIC INSPECTION >
 
@@ -866141,7 +861815,6 @@ INFOID:0000000010100733
 Perform accelerator pedal released position learning. Refer to EC-167, "Description" (VQ37VHR) or EC-1137,
 "Description" (VK56VD for USA and Canada) or EC-1722, "Description" (VK56VD for Mexico).
 
-### >> GO TO 2.
 
 ### DAS-137
 
@@ -866241,7 +861914,6 @@ DTC Logic
 INFOID:0000000010100736
 DTC DETECTION LOGIC
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “C1A00” detected as the current malfunction?
 
@@ -866372,7 +862044,6 @@ DTC DETECTION LOGIC
 > • Refer to DAS-193, "ADAS CONTROL UNIT : DTC Logic" for DTC “U1000”.
 > • Refer to DAS-142, "DTC Logic" for DTC “C1A04”.
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “C1A03” detected as the current malfunction?
 
@@ -866400,7 +862071,6 @@ Drive the vehicle.
 3.
 Check that the value of “VHCL SPD AT” is almost the same as the value of “VHCL SPEED SE” in “DATA
 
-### MONITOR” of “ICC/ADAS”.
 
 ### • TCM
 
@@ -866573,7 +862243,6 @@ YES
 NO
 >> Adjust stop lamp switch installation. Refer to BR-7, "Inspection and Adjustment".
 
-### 10.STOP LAMP SWITCH INSPECTION
 
 ### Continuity
 
@@ -867037,7 +862706,6 @@ Remove ICC brake hold relay.
 3.
 Check that the stop lamp is illuminated by depressing the brake pedal to turn the stop lamp ON.
 
-### Is the inspection result normal?
 
 ### M160
 
@@ -867197,7 +862865,6 @@ YES
 NO
 >> Repair the harnesses or connectors.
 
-### Component Inspection
 
 ### Not exist-
 
@@ -867304,7 +862971,6 @@ If DTC “C1A15” is detected along with DTC “U1000”, “C1A03”, or “C1
 • Refer to DAS-140, "DTC Logic" for DTC “C1A03”.
 • Refer to DAS-142, "DTC Logic" for DTC “C1A04”.
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Stop the vehicle.
 
@@ -867479,7 +863145,6 @@ DTC Logic
 INFOID:0000000010100765
 DTC DETECTION LOGIC
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “C1A18” detected as the current malfunction?
 
@@ -867621,7 +863286,6 @@ Perform “All DTC Reading” with CONSULT.
 5.
 Check if the “C1A24” is detected as the current malfunction in “Self Diagnostic Result” of “ICC/ADAS”.
 
-### Is “C1A24” detected as the current malfunction?
 
 ### Is “C1A24” detected as the current malfunction?
 
@@ -867685,7 +863349,6 @@ If DTC “C1A26” is detected along with DTC “U1000”, “U0415” or “U01
 • DTC “U0415”: Refer to DAS-191, "DTC Logic".
 • DTC “U0121”: Refer to DAS-186, "DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “C1A26” detected as the current malfunction?
 
@@ -867833,7 +863496,6 @@ NO
 2.CHECK ICC SENSOR SELF-DIAGNOSIS
 Check if any DTC is detected in “Self Diagnostic Result” of “LASER”.
 
-### Is any DTC detected?
 
 ### Trouble diagnosis name
 
@@ -868013,7 +863675,6 @@ YES
 NO
 >> Refer to GI-47, "Intermittent Incident".
 
-### Diagnosis Procedure
 
 ### Revision: 2013 November
 
@@ -868051,7 +863712,6 @@ NO
 2.REPLACE ACCELERATOR PEDAL ASSEMBLY
 1.
 
-### APA CAN CIR2
 
 ### DAS-175
 
@@ -868204,7 +863864,6 @@ NO
 >> Refer to GI-47, "Intermittent Incident".
 ADAS CONTROL UNIT : Diagnosis Procedure
 
-### INFOID:0000000010100792
 
 ### Refer to DAS-193, "ADAS CONTROL UNIT : DTC Logic".
 
@@ -868502,7 +864161,6 @@ C1F05 ACCELERATOR PEDAL ACTUATOR POWER SUPPLY CIRCUIT
 C1F05 ACCELERATOR PEDAL ACTUATOR POWER SUPPLY CIRCUIT
 ADAS CONTROL UNIT
 
-### ADAS CONTROL UNIT : DTC Logic
 
 ### Is “C1F05” detected as the current malfunction?
 
@@ -868550,9 +864208,6 @@ DTC
 display)
 Trouble diagnosis name
 
-### DTC detecting condition
-
-### Trouble diagnosis name
 
 ### Revision: 2013 November
 
@@ -868798,7 +864453,6 @@ INFOID:0000000010100810
 1.CHECK SELF-DIAGNOSIS RESULTS
 Check if “U1000” is detected other than “U0121” in “Self Diagnostic Result” of “ICC/ADAS”.
 
-### Trouble diagnosis name
 
 ### Revision: 2013 November
 
@@ -868854,7 +864508,6 @@ INFOID:0000000010100812
 1.CHECK SELF-DIAGNOSIS RESULTS
 Check if “U1000” is detected other than “U0126” in “Self Diagnostic Result” of “ICC/ADAS”.
 
-### Trouble diagnosis name
 
 ### Revision: 2013 November
 
@@ -868904,7 +864557,6 @@ NO
 2.CHECK ICC SENSOR SELF-DIAGNOSIS RESULTS
 Check if any DTC is detected in “Self Diagnostic Result” of “LASER”.
 
-### Is any DTC detected?
 
 ### Trouble diagnosis name
 
@@ -868949,7 +864601,6 @@ NOTE:
 If DTC “U0401” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to DAS-193,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U0401” detected as the current malfunction?
 
@@ -868962,9 +864613,6 @@ INFOID:0000000010100816
 1.CHECK SELF-DIAGNOSIS RESULTS
 Check if “U1000” is detected other than “U0401” in “Self Diagnostic Result” of “ICC/ADAS”.
 
-### Is “U1000” detected?
-
-### Trouble diagnosis name
 
 ### < DTC/CIRCUIT DIAGNOSIS >
 
@@ -869011,7 +864659,6 @@ NO
 2.CHECK TCM SELF-DIAGNOSIS RESULTS
 Check if any DTC is detected in “Self Diagnostic Result” of “TRANSMISSION”.
 
-### Trouble diagnosis
 
 ### U0415 VDC CAN 1
 
@@ -869064,7 +864711,6 @@ INFOID:0000000010100820
 1.CHECK SELF-DIAGNOSIS RESULTS
 Check if “U1000” is detected other than “U0415” in “Self Diagnostic Result” of “ICC/ADAS”.
 
-### Trouble diagnosis name
 
 ### Revision: 2013 November
 
@@ -869104,7 +864750,6 @@ INFOID:0000000010100822
 1.CHECK SELF-DIAGNOSIS RESULTS
 Check if “U1000” is detected other than “U0428” in “Self Diagnostic Result” of “ICC/ADAS”.
 
-### Trouble diagnosis name
 
 ### Revision: 2013 November
 
@@ -869134,7 +864779,6 @@ ADAS CONTROL UNIT
 ADAS CONTROL UNIT : Description
 INFOID:0000000010100823
 
-### CAN COMMUNICATION
 
 ### ADAS CONTROL UNIT : DTC Logic
 
@@ -869170,7 +864814,6 @@ ITS COMMUNICATION
 large quantities of data at high speed by connecting control units with 2 communication lines.
 • ITS communication lines adopt twisted-pair line style (two lines twisted) for noise immunity.
 
-### ACCELERATOR PEDAL ACTUATOR : DTC Logic
 
 ### Revision: 2013 November
 
@@ -869344,7 +864987,6 @@ YES
 NO
 >> Refer to GI-47, "Intermittent Incident".
 
-### Diagnosis Procedure
 
 ### Refer to DAS-193, "ADAS CONTROL UNIT : DTC Logic".
 
@@ -869442,7 +865084,6 @@ NOTE:
 If DTC “U150D” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to DAS-193,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U150D” detected as the current malfunction?
 
@@ -869497,7 +865138,6 @@ NOTE:
 If DTC “U150E” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to DAS-193,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U150E” detected as the current malfunction?
 
@@ -869520,7 +865160,6 @@ NO
 2.CHECK BCM SELF-DIAGNOSIS RESULTS
 Check if any DTC is detected in “Self Diagnostic Result” of “BCM”.
 
-### Trouble diagnosis name
 
 ### < DTC/CIRCUIT DIAGNOSIS >
 
@@ -869534,7 +865173,6 @@ NOTE:
 If DTC “U1502” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to DAS-193,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U1502” detected as the current malfunction?
 
@@ -869587,7 +865225,6 @@ NOTE:
 If DTC “U1513” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to DAS-193,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U1513” detected as the current malfunction?
 
@@ -869600,7 +865237,6 @@ INFOID:0000000010100846
 1.CHECK SELF-DIAGNOSIS RESULTS
 Check if “U1000” is detected other than “U1513” in “Self Diagnostic Result” of “ICC/ADAS”.
 
-### Is “U1000” detected?
 
 ### 2014 Q70
 
@@ -869616,7 +865252,6 @@ NOTE:
 If DTC “U1514” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to DAS-193,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U1514” detected as the current malfunction?
 
@@ -869660,7 +865295,6 @@ NOTE:
 If DTC “U1515” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to DAS-193,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U1515” detected as the current malfunction?
 
@@ -870056,7 +865690,6 @@ NO
 7.REPAIR OR REPLACE MALFUNCTIONING PARTS.
 Repair or replace malfunctioning parts.
 
-### >> GO TO 8.
 
 ### >> INSPECTION END
 
@@ -870359,7 +865992,6 @@ CHIME DOES NOT SOUND
 8.REPLACE ADAS CONTROL UNIT
 Replace the ADAS control unit. Refer to DAS-68, "Removal and Installation".
 
-### >> GO TO 9.
 
 ### >> INSPECTION END
 
@@ -870431,7 +866063,6 @@ NO
 Understand the vehicle ahead detection condition when the malfunction occurred. If the detecting function is
 malfunctioning, check according to DAS-216, "Description".
 
-### >> INSPECTION END
 
 ### >> INSPECTION END
 
@@ -870509,7 +866140,6 @@ NO
 6.REPLACE ADAS CONTROL UNIT
 Replace the ADAS control unit. Refer to DAS-68, "Removal and Installation".
 
-### >> GO TO 7.
 
 ### Revision: 2013 November
 
@@ -870671,9 +866301,6 @@ and cause automatic braking. Driver may need to control the distance from other 
 - When the reflector on the vehicle ahead is missing, damaged or covered
 - When the reflector of the vehicle ahead is covered with dirt, snow and road spray
 
-### - When the snow or road spray from traveling vehicles reduces the sensor's vi
-
-### Revision: 2013 November
 
 ### system. The system will release brake control with a warning chime once it ju
 
@@ -871236,7 +866863,6 @@ HANDLING PRECAUTION
 DAS-233
 < SYSTEM DESCRIPTION >
 
-### [FCW]
 
 ### the system may not warn soon enough.
 
@@ -871299,7 +866925,6 @@ INFOID:0000000010100885
 APPLICATION ITEMS
 CONSULT performs the following functions via CAN communication using ADAS control unit.
 
-### CAN Diag Support Monitor
 
 ### TIRE SLIP
 
@@ -871504,7 +867129,6 @@ N
 P
 A
 
-### The test can be performed only when the engine is running.
 
 ### Returns to the “SELECT TEST ITEM” screen
 
@@ -871612,7 +867236,6 @@ LANE DEPARTURE W/L
 BSW/BSI WARNING LAMP
 BSI ON INDICATOR
 
-### Test item
 
 ### Revision: 2013 November
 
@@ -871638,7 +867261,6 @@ NOTE:
 The following table includes information (items) inapplicable to this vehicle. For information (items) applicable
 to this vehicle, refer to CONSULT display items.
 
-### LASER HEIGHT
 
 ### DAS-247
 
@@ -871884,7 +867506,6 @@ When a vehicle ahead is detected
 Displays the distance from the
 preceding vehicle
 
-### When a vehicle ahead is not detected
 
 ### Ignition switch ON
 
@@ -872228,7 +867849,6 @@ NOTE:
 • C1A35: APA CIR
 • C1A36: APA CAN COMM CIR
 
-### • C1A37: APA CAN CIR 2
 
 ### • C1A15: GEAR POSITION
 
@@ -872285,13 +867905,6 @@ ECD PWR SUPLY CIR
 ON
 ON
 
-### A, B, C, D, E
-
-### A, B, E
-
-### C1B00
-
-### DAS-541
 
 ### MAY BE REQUIRED
 
@@ -872336,7 +867949,6 @@ Systems for fail-safe
 • H: Active trace control function
 DTC
 
-### CONSULT display
 
 ### < ECU DIAGNOSIS INFORMATION >
 
@@ -872423,7 +868035,6 @@ SIDE RDR R CAN CIR 2
 ON
 G
 
-### DAS-564
 
 ### VDC CAN CIRC 3
 
@@ -872476,11 +868087,6 @@ ON
 ON
 A, B, C, D, E
 
-### CCS-161
-
-### DAS-259
-
-### CONSULT display
 
 ### < ECU DIAGNOSIS INFORMATION >
 
@@ -873198,9 +868804,6 @@ NO
 3.CHECK DATA MONITOR OF ADAS CONTROL UNIT
 Check that “DCA SELECT” operates normally in “DATA MONITOR” of “ICC/ADAS” with CONSULT.
 
-### Is the inspection result normal?
-
-### < SYMPTOM DIAGNOSIS >
 
 ### Revision: 2013 November
 
@@ -873246,7 +868849,6 @@ Remove warning systems switch from instrument lower panel LH.
 > P
 > A
 
-### PRECAUTION
 
 ### Precautions for Removing of Battery Terminal
 
@@ -873881,9 +869483,6 @@ Steering angle sensor signal
 Receives the number of revolutions, turning direction of
 the steering wheel
 
-### Steering angle speed signal
-
-### ICC sensor
 
 ### Receives detection results of lane marker
 
@@ -874036,7 +869635,6 @@ navigation screen are “OFF”)
 JPOIA0017GB
 JPOIA0019GB
 
-### JPOIA0020GB
 
 ### Revision: 2013 November
 
@@ -874127,7 +869725,6 @@ Revision: 2013 November
 DAS-302
 < SYSTEM DESCRIPTION >
 
-### [LDW & LDP]
 
 ### LANE DEPARTURE PREVENTION (LDP) SYSTEM
 
@@ -874308,7 +869905,6 @@ sunlight may adversely affect the lane camera unit capability of detecting the l
 • Do not touch the camera lens.
 • Do not remove the screw located on the lane camera unit.
 
-### LANE DEPARTURE WARNING (LDW)
 
 ### LANE DEPARTURE PREVENTION (LDP)
 
@@ -874446,7 +870042,6 @@ Displays causes of automatic system cancellation occurred during system control
 Self Diagnostic Result
 Displays the name of a malfunctioning system stored in the ADAS control unit
 
-### CAN Diag Support Monitor
 
 ### DAS-309
 
@@ -874617,7 +870212,6 @@ VDC OFF SW
 ×
 VDC OFF switch was pressed
 
-### OPE VDC/ABS 2
 
 ### DAS-311
 
@@ -875152,7 +870746,6 @@ SET switch indicator OFF
 Off
 DISTANCE
 
-### Drive the vehicle and activate
 
 ### When a vehicle ahead is detected
 
@@ -875191,7 +870784,6 @@ Ignition switch ON
 When the IBA OFF switch is pressed
 On
 
-### When the IBA OFF switch is not pressed
 
 ### LDW ON LAMP
 
@@ -875502,13 +871094,6 @@ CCS-127
 C1A37
 133
 
-### APA CAN CIR 2
-
-### CCS-123
-
-### U0401
-
-### CONSULT display
 
 ### < ECU DIAGNOSIS INFORMATION >
 
@@ -875592,7 +871177,6 @@ DAS-563
 U1505
 152
 
-### SIDE RDR R CAN CIR 2
 
 ### U150C
 
@@ -875643,9 +871227,6 @@ U1515
 165
 ICC SENSOR CAN
 
-### DAS-331
-
-### CONSULT display
 
 ### < ECU DIAGNOSIS INFORMATION >
 
@@ -876526,7 +872107,6 @@ INFOID:0000000010100937
 System Description".
 - Handling precaution: Refer to DAS-304, "Precautions for Lane Departure Warning/Lane Departure
 
-### Prevention".
 
 ### Prevention".
 
@@ -876552,7 +872132,6 @@ LDP system is OFF.
 3.
 Check the LDW operation according to the following table.
 
-### Revision: 2013 November
 
 ### SYSTEM : System Description".
 
@@ -877144,7 +872723,6 @@ If DTC “C1A03” is detected along with DTC “U1000” or “C1A04”, first 
 • Refer to DAS-397, "ADAS CONTROL UNIT : DTC Logic" for DTC “U1000”.
 • Refer to DAS-369, "DTC Logic" for DTC “C1A04”.
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “C1A03” detected as the current malfunction?
 
@@ -877153,7 +872731,6 @@ YES-2 (Lane departure warning lamp: OFF)>>Refer to CCS-91, "DTC Logic".
 NO
 >> Refer to GI-47, "Intermittent Incident".
 
-### Diagnosis Procedure
 
 ### BRC-52, "DTC Index".
 
@@ -877230,7 +872807,6 @@ NOTE:
 If DTC “C1A05” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to DAS-397,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### Diagnosis Procedure
 
 ### >> GO TO 5.
 
@@ -877304,9 +872880,6 @@ YES
 NO
 >> Replace stop lamp switch.
 
-### Continuity
-
-### < DTC/CIRCUIT DIAGNOSIS >
 
 ### Continuity
 
@@ -877569,7 +873142,6 @@ If DTC “C1A15” is detected along with DTC “U1000”, “C1A03”, or “C1
 • Refer to DAS-368, "DTC Logic" for DTC “C1A03”.
 • Refer to DAS-369, "DTC Logic" for DTC “C1A04”.
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Stop the vehicle.
 
@@ -877583,7 +873155,6 @@ YES
 NO
 >> Refer to GI-47, "Intermittent Incident".
 
-### Diagnosis Procedure
 
 ### • TCM
 
@@ -877994,7 +873565,6 @@ Perform “All DTC Reading” with CONSULT.
 3.
 Check if the “C1B01” is detected as the current malfunction in “Self Diagnostic Result” of “LANE CAM-
 
-### ERA”.
 
 ### INFOID:0000000010100977
 
@@ -878094,7 +873664,6 @@ Temperature around lane camera unit is excessively high
 Interior room temperature is excessively high
 DTC
 
-### Trouble diagnosis name
 
 ### U0104 ADAS CAN 1
 
@@ -878167,7 +873736,6 @@ NO
 >> Replace the lane camera unit. Refer to DAS-425, "Removal and Installation".
 DTC
 
-### Trouble diagnosis name
 
 ### 2014 Q70
 
@@ -878206,7 +873774,6 @@ INFOID:0000000010100985
 1.CHECK SELF-DIAGNOSIS RESULTS
 Check if “U1000” is detected other than “U0121” in “Self Diagnostic Result” of “ICC/ADAS”.
 
-### Is “U1000” detected?
 
 ### Revision: 2013 November
 
@@ -878289,7 +873856,6 @@ NOTE:
 If DTC “U0401” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to DAS-397,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U0401” detected as the current malfunction?
 
@@ -878302,9 +873868,6 @@ INFOID:0000000010100989
 1.CHECK SELF-DIAGNOSIS RESULTS
 Check if “U1000” is detected other than “U0401” in “Self Diagnostic Result” of “ICC/ADAS”.
 
-### Is “U1000” detected?
-
-### Trouble diagnosis name
 
 ### U0402 TCM CAN 1
 
@@ -878334,7 +873897,6 @@ NOTE:
 If DTC “U0402” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to DAS-397,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U0402” detected as the current malfunction?
 
@@ -878370,7 +873932,6 @@ NOTE:
 If DTC “U0405” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to DAS-397,
 "LANE CAMERA UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### ERA”.
 
@@ -878568,7 +874129,6 @@ ITS COMMUNICATION
 large quantities of data at high speed by connecting control units with 2 communication lines.
 • ITS communication lines adopt twisted-pair line style (two lines twisted) for noise immunity.
 
-### LANE CAMERA UNIT : DTC Logic
 
 ### Revision: 2013 November
 
@@ -878892,9 +874452,6 @@ INFOID:0000000010101017
 1.CHECK SELF-DIAGNOSIS RESULTS
 Check if “U1000” is detected other than “U150E” in “Self Diagnostic Result” of “ICC/ADAS”.
 
-### Is “U1000” detected?
-
-### Trouble diagnosis name
 
 ### < DTC/CIRCUIT DIAGNOSIS >
 
@@ -878908,7 +874465,6 @@ NOTE:
 If DTC “U1500” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to DAS-397,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U1500” detected as the current malfunction?
 
@@ -878983,7 +874539,6 @@ NOTE:
 If DTC “U1501” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to DAS-397,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U1501” detected as the current malfunction?
 
@@ -879107,7 +874662,6 @@ NOTE:
 If DTC “U1513” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to DAS-397,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U1513” detected as the current malfunction?
 
@@ -879120,7 +874674,6 @@ INFOID:0000000010101025
 1.CHECK SELF-DIAGNOSIS RESULTS
 Check if “U1000” is detected other than “U1513” in “Self Diagnostic Result” of “ICC/ADAS”.
 
-### Is “U1000” detected?
 
 ### 2014 Q70
 
@@ -879437,7 +874990,6 @@ YES
 NO
 >> Repair the harnesses or connectors.
 
-### Component Inspection
 
 ### Triple switch
 
@@ -879608,7 +875160,6 @@ YES
 NO
 >> Replace warning systems switch. DAS-426, "Removal and Installation".
 
-### Component Inspection
 
 ### >> INSPECTION END
 
@@ -879817,7 +875368,6 @@ SYMPTOM DIAGNOSIS
 LDW & LDP SYSTEM SYMPTOMS
 Symptom Table
 
-### INFOID:0000000010101038
 
 ### Symptom
 
@@ -880196,9 +875746,6 @@ NO
 3.CHECK DATA MONITOR OF ADAS CONTROL UNIT
 Check that “LDP SELECT” operates normally in “DATA MONITOR” of “ICC/ADAS” with CONSULT.
 
-### Is the inspection result normal?
-
-### < SYMPTOM DIAGNOSIS >
 
 ### LANE DEPARTURE PREVENTION (LDP)
 
@@ -880390,7 +875937,6 @@ P
 A
 PRECAUTION
 
-### PRECAUTIONS
 
 ### Precautions for Removing of Battery Terminal
 
@@ -880914,7 +876460,6 @@ FAIL-SAFE CONTROL BY DTC
 If a malfunction occurs in the side radar, ADAS control unit cancels control, and turns ON the BSW/BSI warning lamp in the combination meter.
 TEMPORARY DISABLED STATUS AT BLOCKAGE
 
-### System
 
 ### CAN communication line, a mode
 
@@ -881064,7 +876609,6 @@ SNOW mode signal
 Receives a mode selection state of the drive mode select
 switch
 
-### ICC sensor
 
 ### Receives detection results of lane marker
 
@@ -881411,9 +876955,6 @@ Warning systems ON indicator
 • Blinks when the setting of LDW, FCW, and BSW are “OFF” and the warning systems switch is pressed
 2
 
-### BSW/BSI warning lamp (yellow)
-
-### Action
 
 ### Revision: 2013 November
 
@@ -881547,7 +877088,6 @@ DCA/BSI is OFF
 - When the VDC system is turned off.
 - When the drive mode select switch is turned to the SNOW mode.
 
-### BSW/BSI warning lamp (yellow)
 
 ### Action
 
@@ -881761,7 +877301,6 @@ INFOID:0000000010101070
 APPLICATION ITEMS
 CONSULT performs the following functions via CAN communication using ADAS control unit.
 
-### CONSULT, and then check the malfunctioning parts.
 
 ### CAN Diag Support Monitor
 
@@ -881837,9 +877376,6 @@ NOTE:
 The following table includes information (items) inapplicable to this vehicle. For information (items) applicable
 to this vehicle, refer to CONSULT display items.
 
-### Side Radar Lost
-
-### < SYSTEM DESCRIPTION >
 
 ### Revision: 2013 November
 
@@ -882014,7 +877550,6 @@ Displays memorized DTC in side radar LH. Refer to DAS-480, "DTC Index".
 FFD (Freeze Frame Data)
 The side radar records the following data when the malfunction is detected.
 
-### DATA MONITOR
 
 ### Select diag mode
 
@@ -882066,7 +877601,6 @@ Does not detect a vehicle within detection area.
 On
 Detects a vehicle within detection area.
 
-### Active test item
 
 ### < SYSTEM DESCRIPTION >
 
@@ -882086,7 +877620,6 @@ FFD (Freeze Frame Data)
 The side radar records the following data when the malfunction is detected.
 DATA MONITOR
 
-### Active test item
 
 ### DIAGNOSIS SYSTEM (LANE CAMERA UNIT)
 
@@ -882555,7 +878088,6 @@ U0401
 ECM CAN CIR 1
 ON
 
-### A, B, E, F, G
 
 ### DAS-477
 
@@ -882697,11 +878229,6 @@ STRG SEN CAN CIRC 3
 ON
 A, B, C, D, E, G, H
 
-### DAS-570
-
-### CONSULT display
-
-### < ECU DIAGNOSIS INFORMATION >
 
 ### CONSULT display
 
@@ -883123,7 +878650,6 @@ N
 P
 A
 
-### LANE CAMERA UNIT
 
 ### Revision: 2013 November
 
@@ -883959,7 +879485,6 @@ assistance switch.
 7.
 Check that the BSI ON indicator turns OFF when the engine starts again.
 
-### Vehicle condition/ Driver's operation
 
 ### Less than ap-
 
@@ -884142,7 +879667,6 @@ C1A03 VEHICLE SPEED SENSOR
 DTC Logic
 INFOID:0000000010101101
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “C1A03” detected as the current malfunction?
 
@@ -884151,7 +879675,6 @@ YES-2 (Lane departure warning lamp: OFF)>>Refer to CCS-91, "DTC Logic".
 NO
 >> Refer to GI-47, "Intermittent Incident".
 
-### Diagnosis Procedure
 
 ### ADAS control unit via CAN communication, are
 
@@ -884210,7 +879733,6 @@ NOTE:
 If DTC “C1A05” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to DAS-544,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### Diagnosis Procedure
 
 ### >> GO TO 5.
 
@@ -884272,11 +879794,6 @@ YES
 NO
 >> Adjust stop lamp switch installation. Refer to BR-7, "Inspection and Adjustment".
 
-### 10.STOP LAMP SWITCH INSPECTION
-
-### Continuity
-
-### < DTC/CIRCUIT DIAGNOSIS >
 
 ### Continuity
 
@@ -884322,7 +879839,6 @@ NOTE:
 If DTC “C1A06” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to DAS-544,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “C1A06” detected as the current malfunction?
 
@@ -884536,7 +880052,6 @@ YES
 NO
 >> Refer to GI-47, "Intermittent Incident".
 
-### Diagnosis Procedure
 
 ### • TCM
 
@@ -885065,7 +880580,6 @@ YES
 >> Replace the lane camera unit. Refer to DAS-598, "Removal and Installation".
 NO
 
-### Trouble diagnosis name
 
 ### DAS-536
 
@@ -885590,7 +881104,6 @@ with 2 communication lines (CAN-H, CAN-L) allowing a high rate of information tr
 Each control unit transmits/receives data but selectively reads the required data only.
 CAN communication signal chart. Refer to LAN-34, "CAN COMMUNICATION SYSTEM : CAN Communication Signal Chart".
 
-### ITS COMMUNICATION
 
 ### SIDE RADAR LH : DTC Logic
 
@@ -885616,9 +881129,6 @@ YES
 NO
 >> Refer to GI-47, "Intermittent Incident".
 
-### SIDE RADAR RH
-
-### ITS COMMUNICATION
 
 ### Trouble diagnosis name
 
@@ -885645,7 +881155,6 @@ INFOID:0000000010101152
 1.PERFORM THE SELF-DIAGNOSIS
 1.
 
-### Start the engine.
 
 ### RIGHT”.
 
@@ -885657,7 +881166,6 @@ NO
 ADAS CONTROL UNIT
 ADAS CONTROL UNIT : Description
 
-### INFOID:0000000010101153
 
 ### ADAS CONTROL UNIT : DTC Logic
 
@@ -885670,7 +881178,6 @@ INFOID:0000000010101155
 1.PERFORM THE SELF-DIAGNOSIS
 1.
 
-### Turn the ignition switch ON.
 
 ### Trouble diagnosis name
 
@@ -885972,7 +881479,6 @@ ADAS control unit
 DTC
 Trouble diagnosis name
 
-### DTC detecting condition
 
 ### DAS-549
 
@@ -886136,7 +881642,6 @@ YES
 NO
 >> Refer to GI-47, "Intermittent Incident".
 
-### ADAS CONTROL UNIT : Diagnosis Procedure
 
 ### BRC-52, "DTC Index".
 
@@ -886152,7 +881657,6 @@ If DTC “U0126” is detected along with DTC “U1000”, first diagnose the DT
 DTC
 (On board display)
 
-### Trouble diagnosis name
 
 ### 2014 Q70
 
@@ -886171,7 +881675,6 @@ Perform “All DTC Reading” with CONSULT.
 4.
 Check if the “U0126” is detected as the current malfunction in “Self Diagnostic Result” of “LANE CAM-
 
-### ERA”.
 
 ### INFOID:0000000010101180
 
@@ -886551,7 +882054,6 @@ If DTC “U0428” is detected along with DTC “U1000”, first diagnose the DT
 DTC
 (On board display)
 
-### Trouble diagnosis name
 
 ### 2014 Q70
 
@@ -887199,7 +882701,6 @@ NOTE:
 If DTC “U1512” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to DAS-544,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U1512” detected as the current malfunction?
 
@@ -887252,7 +882753,6 @@ NOTE:
 If DTC “U1513” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to DAS-544,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U1513” detected as the current malfunction?
 
@@ -887265,7 +882765,6 @@ INFOID:0000000010101214
 1.CHECK SELF-DIAGNOSIS RESULTS
 Check if “U1000” is detected other than “U1513” in “Self Diagnostic Result” of “ICC/ADAS”.
 
-### Is “U1000” detected?
 
 ### 2014 Q70
 
@@ -887281,7 +882780,6 @@ NOTE:
 If DTC “U1514” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to DAS-544,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U1514” detected as the current malfunction?
 
@@ -887294,7 +882792,6 @@ INFOID:0000000010101216
 1.CHECK SELF-DIAGNOSIS RESULTS
 Check if “U1000” is detected other than “U1514” in “Self Diagnostic Result” of “ICC/ADAS”.
 
-### Is “U1000” detected?
 
 ### Revision: 2013 November
 
@@ -887327,7 +882824,6 @@ NOTE:
 If DTC “U1516” is detected along with DTC “U1000”, first diagnose the DTC “U1000”. Refer to DAS-544,
 "ADAS CONTROL UNIT : DTC Logic".
 
-### DTC CONFIRMATION PROCEDURE
 
 ### Is “U1516” detected as the current malfunction?
 
@@ -887513,7 +883009,6 @@ YES
 NO
 >> Refer to GI-47, "Intermittent Incident".
 
-### Diagnosis Procedure
 
 ### Revision: 2013 November
 
@@ -887657,9 +883152,6 @@ INFOID:0000000010101230
 1.CHECK SELF-DIAGNOSIS RESULTS
 Check if “U1000” is detected other than “U150E” in “Self Diagnostic Result” of “ICC/ADAS”.
 
-### Is “U1000” detected?
-
-### Trouble diagnosis name
 
 ### < DTC/CIRCUIT DIAGNOSIS >
 
@@ -888054,7 +883546,6 @@ A
 2.
 Check continuity between the ADAS control unit harness connector and triple switch harness connector.
 
-### Component Inspection
 
 ### Existed
 
@@ -888198,7 +883689,6 @@ YES
 NO
 >> Replace warning systems switch. DAS-600, "Removal and Installation".
 
-### Component Inspection
 
 ### >> INSPECTION END
 
@@ -888751,7 +884241,6 @@ NO
 3.CHECK DATA MONITOR OF ADAS CONTROL UNIT
 Check that “BSI SELECT” operates normally in “DATA MONITOR” of “ICC/ADAS” with CONSULT.
 
-### Is the inspection result normal?
 
 ### < SYMPTOM DIAGNOSIS >
 

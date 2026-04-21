@@ -363,6 +363,7 @@ A Warning:
 1.6.1.5 Coolant.. .40
 1.6.1.6 12V battery (starter Fe battery) 41
 1.6.1.7 Brake fluid ...42
+1.6.1.8 Chemical materials ···············  43
 1.6.1.9 Dust . ..44
 1.6.1.10 Electric shock ..45
 1.6.1.11 Fibre isolation .46
@@ -7508,6 +7509,7 @@ operation  476
 3.5.7 DTC diagnosis and operation 478
 3.5.7.1 Basic process of troubleshooting ...478
 3.5.7.2 DTC reading and clearing 479
+3.5.7.3 Read data flow . ································ 480
 3.5.7.4 Circuit diagram ··················· ·········· 482
 3.5.7.5 Diagnostic information  483
 3.5.7.6 DTC list (DTC) ········· ·········  485
@@ -12070,6 +12072,7 @@ assembly     .757
 4.1.7.11 Front right control arm
 assembly ·········   764
 4.1.7.12 Rear control arm assembly  765
+4.1.7.13 Tow arm assembly . ······················· 766
 
 ### 4.1.1.1 Fastener parameters
 
@@ -15254,6 +15257,7 @@ c. Road test.
 4.6.7.5 Circuit diagram 941
 4.6.7.6 Diagnostic information 942
 4.6.7.7 DTC list (DTC) 945
+4.6.7.8 DTC diagnosis: C117009 ··············· 951
 4.6.7.9 DTC diagnosis: C113016, C113017, C113116, C113117, C115009, C115109, C11C100 .955
 4.6.7.10 DTC diagnosis: C11A006, C117006 957
 4.6.7.11 DTC diagnosis: U007388. 959
@@ -18427,11 +18431,13 @@ Torque: 10 N•m
 5.1.9.8 Front interior light assembly 1234
 5.1.9.9 Rear interior light assembly  1235
 5.1.9.10 Rear side interior light assembly   1236
+5.1.9.11 Vanity mirror light . ··············· 1237
 5.1.9.12 Storage box light   1238
 5.1.9.13 Foot ambient light   1239
 5.1.9.14 Door light (front door). ········· 1240
 5.1.9.15 Door light (rear door) ·············· 1241
 5.1.9.16 Boot Light.. ..   1242
+5.1.9.17 Ambient light ECU. ··················· 1243
 5.1.9.18 Right panel ambient light assembly of dashboard  . . 1244
 5.1.9.19 Front door ambient light assembly   1245
 5.1.9.20 Rear door ambient light assembly   ········ 1246
@@ -25865,9 +25871,11 @@ troubleshooting 1640
 B2A2111 1688
 
 5.10.7.9 DTC diagnosis: B2A2213, B2A2311 . ··· ·············· 1691
+5.10.7.10 DTC diagnosis: B2A2413, B2A2511 . ·········· ···················· 1694
 5.10.7.11 DTC diagnosis: B2A5813, B2A5811 .·· ···· 1697
 5.10.7.12 DTC diagnosis: B2A5913, B2A5911 .   1701
 5.10.7.13 DTC diagnosis: B2A5A13, B2A5A11 .   1705
+5.10.7.14 DTC diagnosis: B2A5B13, B2A5B11. ····················· 1709
 5.10.7.15 DTC diagnosis: B2A4E13, B2A4F11 .     1712
 5.10.7.16 DTC diagnosis: B2A2A14, B2A2A12, B2A2A92 . ··· ············ 1716
 5.10.7.17 DTC diagnosis: B2A4B14, B2A4B12, B2A4B92.   1720
@@ -28926,17 +28934,21 @@ assembly   1884
 5.11.8.5 FRONTVIEW CAMERA ASSY.   1888
 5.11.8.6 REARVIEW CAMERA ASSY.   1889
 5.11.8.7 USB Ports   1890
+5.11.8.8 USB port assembly. ····················· 1891
 5.11.8.9 External Antenna. ... ·· ········· 1892
 5.11.8.10 High-pitched speaker (front
 door)   1894
 5.11.8.11 High-pitched speaker (rear
+door)   ·················· 1895
 5.11.8.12 Low-pitched speaker (front
+door) ················ 1896
 5.11.8.13 Low-pitched speaker (rear
 door)   1897
 5.11.8.14 Centre speaker .   1898
 5.11.8.15 Mid-range speaker.   ········ 1899
 5.11.8.16 DEEP BASS SPEAKER  1900
 5.11.8.17 External power amplifier  1901
+5.11.8.18 Host assembly. ····················· 1902
 
 ### i Caution:
 
@@ -40332,6 +40344,7 @@ Torque of bolt A: 5N•m Torque of bolt B: 10N•m
 7.4.5.8 Lower dashboard body assembly ········· ············ 2565
 7.4.5.9 Glovebox assembly   … 2568
 7.4.5.10 Lower right sound insulation board assembly of dashboard · ： 2569
+7.4.5.11 Lower left shield assembly of dashboard. ： ······························· 2570
 7.4.5.12 Lower left sound insulation board assembly of dashboard 2571
 7.4.5.13 Tubular beam welding assembly 2572
 
@@ -44458,6 +44471,7 @@ b. After installation, start the vehicle and check that the seat belt reminder o
 7.15.5.6 Rear door run channel 2828
 7.15.5.7 Outer weather strip of front door   2829
 7.15.5.8 Outer weather strip of rear door   2830
+7.15.5.9 Inner weather strip of front door ················ 2831
 7.15.5.10 Inner weather strip of rear door 2832
 7.15.5.11 Rear triangular window glass assembly   2833
 7.15.5.12 Front door sealing strip. 2837
@@ -45769,6 +45783,7 @@ The position where epoxy primer cannot be applied with a brush can be sprayed wi
 8.3.2.1 Examples and treatment methods for common defects of automobile top coat. 2895
 8.3.2.2 Examples of treatment process of common paint film defects. 2897
 8.3.2.3 Examples of treatment process of common grinding and polishing treatment. 2898
+8.3.2.4 Examples of treatment process of deep grinding and polishing treatment.   ····················· 2899
 8.3.2.5 Paint spraying process for rigid surfaces  2900
 8.3.2.6 Paint treatment of rigid surfaces after sheet metal repair 2901
 8.3.2.7 Paint repair procedure of plastic parts. 2902
