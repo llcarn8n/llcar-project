@@ -141,20 +141,32 @@ if [[ "$BACKEND_ONLY" == false ]]; then
     fi
 
     # Upload KB data tree (manuals, situations, dtc, articles, brands)
-    # Uses rsync over SSH for incremental sync. Excludes _images/ — images are
-    # served by backend /api/kb-image/<hash>.webp from /var/kb-images (S27).
+    # Prefers rsync; falls back to tar-over-ssh if rsync unavailable (Windows bash).
+    # Excludes _images/ — images served by backend /api/kb-image/<hash>.webp.
     KB_SRC="$DIST_DIR/data"
     if [[ -d "$KB_SRC" ]]; then
-        log "Uploading KB data tree (rsync)..."
+        log "Uploading KB data tree..."
         $SSH "mkdir -p $REMOTE_SPA/data"
-        rsync -az --delete \
-            --exclude='_images/' \
-            --exclude='_images_*/' \
-            --exclude='*.webp' \
-            -e "$SSH" \
-            "$KB_SRC/" "$REMOTE_HOST:$REMOTE_SPA/data/" \
-            && log "  KB data synced" \
-            || warn "  KB data rsync had errors (non-fatal)"
+        if command -v rsync >/dev/null 2>&1; then
+            log "  using rsync"
+            rsync -az --delete \
+                --exclude='_images/' \
+                --exclude='_images_*/' \
+                --exclude='*.webp' \
+                -e "$SSH" \
+                "$KB_SRC/" "$REMOTE_HOST:$REMOTE_SPA/data/" \
+                && log "  KB data synced (rsync)" \
+                || warn "  KB data rsync had errors (non-fatal)"
+        else
+            log "  rsync not found, using tar-over-ssh fallback"
+            # one SSH session: tar cz locally, pipe to remote tar xz
+            (cd "$KB_SRC" && tar czf - \
+                --exclude='_images' --exclude='_images_*' --exclude='*.webp' \
+                kb) \
+                | $SSH "cd $REMOTE_SPA/data && tar xzf -" \
+                && log "  KB data synced (tar-over-ssh)" \
+                || warn "  KB data tar-over-ssh had errors (non-fatal)"
+        fi
     else
         warn "  KB data source not found: $KB_SRC"
     fi
