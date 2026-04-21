@@ -188,7 +188,12 @@ def verdict(m: FileMetrics) -> list[str]:
 # ---------------------------------------------------------------------------
 # Scan + report
 # ---------------------------------------------------------------------------
-def scan(root: Path) -> list[FileMetrics]:
+def scan(root: Path, jsonl_fh=None) -> list[FileMetrics]:
+    """Scan manual.md files under root.
+
+    If jsonl_fh is given, writes one JSON line per file *immediately* and
+    flushes to disk — partial progress survives crashes/kills.
+    """
     results: list[FileMetrics] = []
     files = sorted(root.rglob("manual.md"))
     total = len(files)
@@ -197,8 +202,20 @@ def scan(root: Path) -> list[FileMetrics]:
         if m is None:
             continue
         results.append(m)
-        if i % 50 == 0 or i == total:
-            print(f"  [{i}/{total}] scanned", file=sys.stderr)
+        if jsonl_fh is not None:
+            tags = verdict(m)
+            row = asdict(m)
+            row["rel"] = rel_path(m.path, root)
+            row["verdict"] = tags
+            row["unique_ratio"] = round(m.unique_ratio, 4)
+            row["dup_ratio"] = round(m.dup_ratio, 4)
+            row["toc_ratio"] = round(m.toc_ratio, 4)
+            row["part_label_ratio"] = round(m.part_label_ratio, 4)
+            row["image_byte_ratio"] = round(m.image_byte_ratio, 4)
+            jsonl_fh.write(json.dumps(row, ensure_ascii=False) + "\n")
+            jsonl_fh.flush()
+        if i % 10 == 0 or i == total:
+            print(f"  [{i}/{total}] {rel_path(m.path, root)[:60]}", file=sys.stderr, flush=True)
     return results
 
 
@@ -209,26 +226,28 @@ def rel_path(p: Path | str, root: Path) -> str:
         return str(p).replace("\\", "/")
 
 
-def write_report(results: list[FileMetrics], root: Path, label: str, out_md: Path, out_jsonl: Path) -> None:
+def write_report(results: list[FileMetrics], root: Path, label: str, out_md: Path,
+                 out_jsonl: Path, skip_jsonl: bool = False) -> None:
     # Classify all
     entries: list[tuple[FileMetrics, list[str], str]] = []
     for m in results:
         tags = verdict(m)
         entries.append((m, tags, rel_path(m.path, root)))
 
-    # JSONL
-    out_jsonl.parent.mkdir(parents=True, exist_ok=True)
-    with out_jsonl.open("w", encoding="utf-8") as fh:
-        for m, tags, rel in entries:
-            row = asdict(m)
-            row["rel"] = rel
-            row["verdict"] = tags
-            row["unique_ratio"] = round(m.unique_ratio, 4)
-            row["dup_ratio"] = round(m.dup_ratio, 4)
-            row["toc_ratio"] = round(m.toc_ratio, 4)
-            row["part_label_ratio"] = round(m.part_label_ratio, 4)
-            row["image_byte_ratio"] = round(m.image_byte_ratio, 4)
-            fh.write(json.dumps(row, ensure_ascii=False) + "\n")
+    # JSONL (skip if scan already streamed it)
+    if not skip_jsonl:
+        out_jsonl.parent.mkdir(parents=True, exist_ok=True)
+        with out_jsonl.open("w", encoding="utf-8") as fh:
+            for m, tags, rel in entries:
+                row = asdict(m)
+                row["rel"] = rel
+                row["verdict"] = tags
+                row["unique_ratio"] = round(m.unique_ratio, 4)
+                row["dup_ratio"] = round(m.dup_ratio, 4)
+                row["toc_ratio"] = round(m.toc_ratio, 4)
+                row["part_label_ratio"] = round(m.part_label_ratio, 4)
+                row["image_byte_ratio"] = round(m.image_byte_ratio, 4)
+                fh.write(json.dumps(row, ensure_ascii=False) + "\n")
 
     # MD report
     total = len(entries)
@@ -318,10 +337,13 @@ def main() -> int:
             print(f"[skip] {root} — not a directory", file=sys.stderr)
             continue
         print(f"[scan] {root} (label={label})", file=sys.stderr)
-        results = scan(root)
         out_md = report_dir / f"s27-content-quality-{label}.md"
         out_jsonl = report_dir / f"s27-content-quality-{label}.jsonl"
-        write_report(results, root, label, out_md, out_jsonl)
+        out_jsonl.parent.mkdir(parents=True, exist_ok=True)
+        # Streaming write: one JSON per file, flushed — survives crash/kill
+        with out_jsonl.open("w", encoding="utf-8") as jfh:
+            results = scan(root, jsonl_fh=jfh)
+        write_report(results, root, label, out_md, out_jsonl, skip_jsonl=True)
         tag_counts: dict[str, int] = {}
         for m in results:
             for t in verdict(m):

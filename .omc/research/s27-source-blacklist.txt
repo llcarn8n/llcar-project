@@ -1,19 +1,13 @@
-# S27 · Этап G — source blacklist
+# S27 Этап G — source blacklist
+# Ingest-скрипты (scripts/s27_ingest_manuals_export.py,
+# scripts/s27_ingest_oversize_normalized.py) пропускают записи из этого
+# файла. Формат: <brand>/<src_dir> (один на строку), # — комментарий.
 #
-# Список <brand>/<gen_dir> пар в D:\manuals-export/ которые НЕ ingestнуть в KB.
-# Проверка в scripts/s27_ingest_manuals_export.py + s27_ingest_oversize_normalized.py.
+# Источник критериев: scripts/s27_audit_content_quality.py v1.1 (streaming).
+# Hard reject: unique_ratio < 0.05 (junk:repetitive) или
+#             image_byte_ratio > 0.30 AND word_count < 5000 (junk:picture_book).
 #
-# Критерий: unique_lines/nonblank_lines < 0.05 (95%+ строк — дубли).
-# Проверено через scripts/s27_audit_content_quality.py на llcar-dashboard/public/data/kb.
-# Автоматический аудит D:\manuals-export см .omc/research/s27-content-quality-source.md.
-#
-# Формат: по одной записи на строку, "<brand>/<src_dir>" (как в D:\manuals-export/<brand>/<src_dir>/).
-# Пустые строки и строки с # игнорируются.
-
-# 34 репо-файла — уже удалены в коммите Этапа G. Имена src_dir в D:\ могут не совпадать
-# с dst_gen в репе (они резолвятся через canonicalize). Ingest-скрипт сравнивает
-# исходные src_dir имена. Ниже перечислены и dst_gen имена — если src_dir отличается,
-# добавь вручную после прогона audit на D:\.
+# --- Repo manuals (удалены в коммите 6256509), D:\ src_dir может отличаться от gen в репо ---
 
 baic/x35_2017
 baic/x55_2022
@@ -41,15 +35,151 @@ mitsubishi/ks_2016
 nissan/almera_g15_2013
 nissan/j11_2014
 porsche/95b_2014
-renault/rjl_2019
 renault/hy_2007
-skoda/ns_2016
+renault/rjl_2019
 skoda/a8_2020
-toyota/xu70_2019
+skoda/ns_2016
 toyota/prado_2002
+toyota/xu70_2019
 volkswagen/polo_2015
 zeekr/001_2021
 zeekr/007_2024
 
-# (после source audit добавить D:\-only файлы которые в репо не ingestились
-# но тоже имеют unique_ratio < 0.05 — их блокируем проактивно.)
+# --- D:\-only junk from full source audit (968 файлов, 42.5GB) ---
+# Всего D:\ junk: 134 файлов, 34.1GB.
+# Critics: unique_ratio < 0.05, подтверждено по topсам 10 брендов sample-чеком.
+# Source: .omc/research/s27-content-quality-source.md
+
+exeed/rx
+mitsubishi/lancer
+ford/transit
+porsche/cayenne-955
+nissan/teana
+peugeot/partner
+infiniti/fx35
+lexus/lx
+daewoo/lacetti
+mitsubishi/outlander-02
+audi/a8
+ford/galaxy
+hyundai/tucson-2007
+kia/soul
+volkswagen/id5
+nissan/serena
+volkswagen/jetta
+toyota/camry-2001
+nissan/murano-z50
+volkswagen/touareg
+toyota/camry-xv30
+volkswagen/multivan_t5
+volkswagen/id4
+toyota/camry-vista-83
+toyota/camry-v40
+toyota/camry-gracia
+volkswagen/passat_b6
+tank/500
+toyota/camry-vista-94
+honda/airwave
+byd/song_plus
+haval/dargo
+gac/gn8
+exeed/lx
+changan/uni_t
+opel/calibra
+nissan/note
+ford/c_max
+mitsubishi/l300_delica
+ford/taurus
+peugeot/5008
+zeekr/9x
+mitsubishi/lancer_x
+exeed/vx
+gac/gs8
+gac/s9
+jac/js4
+suzuki/ignis
+haval/m6
+volkswagen/id6
+mazda/cx_7
+nissan/skyline
+kia/optima
+citroen/berlingo
+jaguar/xj6
+volvo/240
+fiat/doblo
+nissan/navara
+byd/yuan_up
+ford/fiesta
+byd/song_l
+zeekr/007
+nissan/patrol
+land_rover/discovery
+volvo/340
+opel/mokka
+volkswagen/sharan
+fiat/albea
+chevrolet/tracker
+byd/song_plus_pfi
+mitsubishi/montero
+mitsubishi/pajero_iv
+baic/x55
+citroen/c_crosser
+toyota/camry-2006
+bmw/2_series
+honda/edix
+byd/atto_3
+lexus/rx350
+toyota/tundra
+opel/grandland
+lexus/rx
+chevrolet/suburban
+volkswagen/transporter
+volkswagen/caravelle
+hyundai/matrix
+toyota/prado_2009
+skoda/octavia_1996
+bmw/x2
+hyundai/getz
+renault/koleos
+chevrolet/tahoe
+fiat/ducato
+mazda/323
+toyota/hilux_2011
+lexus/rx300
+toyota/hilux
+toyota/corolla_ax
+forthing/t5_hev
+changan/cs75_plus
+changan/cs95
+toyota/mark_2
+skoda/kodiaq
+forthing/t5_evo
+renault/arkana
+mitsubishi/delica
+hyundai/elantra
+volkswagen/golf_6
+changan/cs75
+skoda/octavia_3
+changan/uni_k
+datsun/mi_do
+honda/fit_jazz
+honda/jazz
+renault/fluence
+changan/eado
+mazda/tribute
+byd/t03
+jac/s3
+toyota/highlander
+datsun/1000
+toyota/prado_1996
+gac/gs3
+forthing/friday
+baic/x35
+forthing/t5
+gac/emkoo
+chery/bonus
+zeekr/001
+ford/fiesta-2008
+renault/duster-2010
+mitsubishi/lancer-x
+jetour/x70
