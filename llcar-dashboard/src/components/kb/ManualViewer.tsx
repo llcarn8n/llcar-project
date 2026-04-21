@@ -49,6 +49,35 @@ interface ManualViewerProps {
   kbGenPath?: string  // e.g. "li_auto/l7/2023_max" → fetches kb/li_auto/l7/2023_max/manual.md
 }
 
+// ── Search highlight helpers ─────────────────────────────────────
+
+function escapeRegExp(s: string): string {
+  return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+}
+
+function highlightText(text: string, query: string): JSX.Element | string {
+  const q = query.trim()
+  if (!q) return text
+  const splitter = new RegExp(`(${escapeRegExp(q)})`, 'gi')
+  const ql = q.toLowerCase()
+  const parts = text.split(splitter)
+  return (
+    <>
+      {parts.map((p, i) =>
+        p.toLowerCase() === ql
+          ? <mark key={i} style={{
+              background: 'rgba(255,220,120,0.35)',
+              color: 'inherit',
+              padding: '0 2px',
+              borderRadius: 2,
+              boxShadow: '0 0 6px rgba(255,220,120,0.25)',
+            }}>{p}</mark>
+          : <span key={i}>{p}</span>
+      )}
+    </>
+  )
+}
+
 // ── Markdown parser ──────────────────────────────────────────────
 
 function parseMarkdownSections(md: string): MdSection[] {
@@ -444,7 +473,7 @@ export function ManualViewer({ brandId, modelName, kbGenPath }: ManualViewerProp
     else if (hasDita) setViewMode('dita')
   }, [hasMd, hasDita])
 
-  // ── Search-filtered MD sections ──────────────────────────────
+  // ── Search-filtered MD sections + match counts ──────────────
   const filteredMdSections = useMemo(() => {
     if (!searchQuery.trim()) return mdSections
     const q = searchQuery.toLowerCase()
@@ -452,6 +481,19 @@ export function ManualViewer({ brandId, modelName, kbGenPath }: ManualViewerProp
       s => s.title.toLowerCase().includes(q) || s.content.toLowerCase().includes(q)
     )
   }, [mdSections, searchQuery])
+
+  const totalMatches = useMemo(() => {
+    if (!searchQuery.trim()) return 0
+    const q = searchQuery.toLowerCase()
+    if (q.length < 2) return 0
+    let total = 0
+    for (const s of filteredMdSections) {
+      const titleMatches = (s.title.toLowerCase().match(new RegExp(escapeRegExp(q), 'g')) || []).length
+      const contentMatches = (s.content.toLowerCase().match(new RegExp(escapeRegExp(q), 'g')) || []).length
+      total += titleMatches + contentMatches
+    }
+    return total
+  }, [filteredMdSections, searchQuery])
 
   const totalMdWords = useMemo(
     () => mdSections.reduce((sum, s) => sum + s.wordCount, 0),
@@ -686,6 +728,11 @@ export function ManualViewer({ brandId, modelName, kbGenPath }: ManualViewerProp
             color: theme.text.muted,
           }}>
             {filteredMdSections.length} из {mdSections.length} секций
+            {searchQuery.trim().length >= 2 && totalMatches > 0 && (
+              <span style={{ marginLeft: 10, color: 'rgba(255,220,120,0.9)' }}>
+                · {totalMatches} совпадений
+              </span>
+            )}
           </span>
           <span style={{
             fontFamily: 'var(--f-display), sans-serif',
@@ -712,7 +759,10 @@ export function ManualViewer({ brandId, modelName, kbGenPath }: ManualViewerProp
           )}
 
           {filteredMdSections.map(section => {
-            const isExpanded = expandedMdSection === section.id
+            // During active search, keep all matched sections open so user
+            // sees all occurrences at once. Otherwise use the regular toggle state.
+            const isSearching = searchQuery.trim().length >= 2
+            const isExpanded = isSearching ? true : expandedMdSection === section.id
 
             return (
               <div key={section.id}>
@@ -747,7 +797,7 @@ export function ManualViewer({ brandId, modelName, kbGenPath }: ManualViewerProp
                       fontWeight: section.level === 1 ? 700 : 600,
                       color: section.level === 1 ? theme.text.primary : theme.text.secondary,
                     }}>
-                      {section.title}
+                      {searchQuery.trim().length >= 2 ? highlightText(section.title, searchQuery) : section.title}
                     </div>
                   </div>
                   <span style={{
@@ -768,6 +818,30 @@ export function ManualViewer({ brandId, modelName, kbGenPath }: ManualViewerProp
                     marginTop: 2,
                     marginBottom: 6,
                   }}>
+                    {isSearching && (() => {
+                      const q = searchQuery.trim().toLowerCase()
+                      const cl = section.content.toLowerCase()
+                      const idx = cl.indexOf(q)
+                      if (idx < 0) return null
+                      const start = Math.max(0, idx - 80)
+                      const end = Math.min(section.content.length, idx + q.length + 160)
+                      const snippet = (start > 0 ? '…' : '') + section.content.slice(start, end) + (end < section.content.length ? '…' : '')
+                      return (
+                        <div style={{
+                          fontSize: 12,
+                          fontFamily: 'var(--f-body), sans-serif',
+                          color: theme.text.secondary,
+                          padding: '6px 10px',
+                          marginBottom: 8,
+                          background: 'rgba(255,220,120,0.05)',
+                          border: '1px solid rgba(255,220,120,0.15)',
+                          borderRadius: 4,
+                          lineHeight: 1.5,
+                        }}>
+                          {highlightText(snippet, searchQuery)}
+                        </div>
+                      )
+                    })()}
                     {renderMarkdownContent(section.content)}
                   </div>
                 )}

@@ -1,9 +1,10 @@
-import { useMemo, type ReactNode } from 'react'
+import { useMemo, useState, type ReactNode } from 'react'
 import { useLocation, useNavigate } from 'react-router-dom'
 import { useDashboardStore } from '../stores/dashboardStore'
 import { SidebarContent } from '../components/sidebar/SidebarContent'
 import { Logo } from '../components/Logo'
 import { ChatBubble } from '../components/chat/ChatBubble'
+import { LogoVideoModal } from '../components/shared/LogoVideoModal'
 
 const B = import.meta.env.BASE_URL
 const tabs = [
@@ -18,6 +19,7 @@ export function MainLayout({ children }: { children: ReactNode }) {
   const location = useLocation()
   const navigate = useNavigate()
   const { sidebarOpen, toggleSidebar, clientHash, setClient, timeRange, vehicleProfile, openVehicleSetup, openConnectionWizard } = useDashboardStore()
+  const [logoOpen, setLogoOpen] = useState(false)
 
   const particles = useMemo(
     () =>
@@ -61,7 +63,18 @@ export function MainLayout({ children }: { children: ReactNode }) {
         style={{ borderBottom: '1px solid var(--border-frost)' }}
       >
         <div className="flex items-center gap-2 md:gap-4 flex-1 min-w-0">
-          <Logo size="md" showWordmark withOrbit subtitle="LONG LIFE CAR" />
+          <button
+            type="button"
+            onClick={() => setLogoOpen(true)}
+            title="Посмотреть лого"
+            aria-label="Открыть видео логотипа"
+            style={{
+              background: 'transparent', border: 'none', padding: 0, cursor: 'pointer',
+              display: 'flex', alignItems: 'center', gap: 12, textAlign: 'left',
+            }}
+          >
+            <Logo size="md" showWordmark withOrbit subtitle="LONG LIFE CAR" />
+          </button>
         </div>
 
         <nav className="flex gap-2 flex-shrink-0 items-center justify-center" style={{ overflow: 'visible' }}>
@@ -275,6 +288,7 @@ export function MainLayout({ children }: { children: ReactNode }) {
 
       {/* Floating AI-чат — доступен из любой вкладки */}
       <ChatBubble />
+      <LogoVideoModal open={logoOpen} onClose={() => setLogoOpen(false)} />
     </div>
   )
 }

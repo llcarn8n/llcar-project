@@ -2,6 +2,9 @@ import { useState, useEffect, useMemo } from 'react'
 import { GlassPanel } from '../components/shared/GlassPanel'
 import { SpecCards } from '../components/vehicle/SpecCards'
 import { useDashboardStore } from '../stores/dashboardStore'
+import { getKBStats } from '../utils/kbStats'
+
+const VI_STATS = getKBStats()
 
 interface Generation {
   id: string
@@ -249,7 +252,7 @@ export function VehicleInfo() {
                   color: 'var(--c-graphite-muted)',
                   lineHeight: 1.5,
                 }}>
-                  В нашей базе 58 марок, 999 моделей и 1919 поколений с полными техническими характеристиками.
+                  {`В нашей базе ${VI_STATS.brands} марок, ${VI_STATS.models} моделей и ${VI_STATS.generations} поколений с полными техническими характеристиками.`}
                   Нажмите на своё авто в хедере или перейдите на главную.
                 </div>
               </div>

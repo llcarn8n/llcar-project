@@ -1,7 +1,12 @@
+import { useState } from 'react'
 import { VehicleSelect } from '../components/landing/VehicleSelect'
 import { theme } from '../theme'
+import { LogoVideoModal } from '../components/shared/LogoVideoModal'
+import { getKBStats } from '../utils/kbStats'
 
 export function Landing() {
+  const [logoOpen, setLogoOpen] = useState(false)
+  const stats = getKBStats()
   return (
     <div style={{
       minHeight: '100vh',
@@ -27,24 +32,39 @@ export function Landing() {
 
       {/* Header */}
       <header style={{ display: 'flex', alignItems: 'center', gap: 12, padding: '20px 32px', position: 'relative', zIndex: 2 }}>
-        <img
-          src={`${import.meta.env.BASE_URL}llcar-logo.png`}
-          alt="LLCAR"
+        <button
+          type="button"
+          onClick={() => setLogoOpen(true)}
+          title="Посмотреть лого"
+          aria-label="Открыть видео логотипа"
           style={{
-            height: 40,
-            width: 40,
-            filter: 'brightness(1.5) contrast(1.1) saturate(1.2) drop-shadow(0 0 10px rgba(255,239,180,0.55)) drop-shadow(0 0 22px rgba(232,184,110,0.4)) drop-shadow(0 0 48px rgba(200,148,70,0.2))',
+            background: 'transparent', border: 'none', padding: 0, cursor: 'pointer',
+            display: 'flex', alignItems: 'center', gap: 12,
           }}
-        />
-        <span style={{
-          fontFamily: 'var(--f-display)',
-          fontSize: 20,
-          fontWeight: 700,
-          letterSpacing: '0.2em',
-          color: 'var(--c-champagne)',
-          textShadow: '0 0 18px rgba(230,212,168,0.4)',
-        }}>LLCAR</span>
+        >
+          <img
+            src={`${import.meta.env.BASE_URL}llcar-logo.png`}
+            alt="LLCAR"
+            style={{
+              height: 40,
+              width: 40,
+              filter: 'brightness(1.5) contrast(1.1) saturate(1.2) drop-shadow(0 0 10px rgba(255,239,180,0.55)) drop-shadow(0 0 22px rgba(232,184,110,0.4)) drop-shadow(0 0 48px rgba(200,148,70,0.2))',
+              transition: 'transform 0.2s ease',
+            }}
+            onMouseEnter={e => { e.currentTarget.style.transform = 'scale(1.06)' }}
+            onMouseLeave={e => { e.currentTarget.style.transform = 'scale(1)' }}
+          />
+          <span style={{
+            fontFamily: 'var(--f-display)',
+            fontSize: 20,
+            fontWeight: 700,
+            letterSpacing: '0.2em',
+            color: 'var(--c-champagne)',
+            textShadow: '0 0 18px rgba(230,212,168,0.4)',
+          }}>LLCAR</span>
+        </button>
       </header>
+      <LogoVideoModal open={logoOpen} onClose={() => setLogoOpen(false)} />
 
       {/* Main */}
       <main style={{ flex: 1, display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '0 32px 20px', gap: 48, position: 'relative', zIndex: 2, flexWrap: 'wrap' }}>
@@ -235,7 +255,7 @@ export function Landing() {
             opacity: 0.65,
             letterSpacing: '0.04em',
           }}>
-            58 марок &bull; 999 моделей &bull; 36 000 кодов &bull; 103 правила проверки
+            {stats.brands} марок &bull; {stats.models} моделей &bull; {stats.generations} поколений &bull; 36 000 кодов &bull; {stats.rules} правил проверки
           </div>
         </div>
 

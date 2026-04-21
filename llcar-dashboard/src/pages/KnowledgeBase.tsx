@@ -10,6 +10,9 @@ import { useDashboardStore } from '../stores/dashboardStore'
 import { theme } from '../theme'
 import { ICONS } from '../utils/icons'
 import { deriveKBGenPath } from '../utils/kbPath'
+import { getKBStats } from '../utils/kbStats'
+
+const KB_STATS = getKBStats()
 
 interface DtcSituationRef {
   sit_id: string
@@ -762,8 +765,9 @@ export function KnowledgeBase() {
           <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px 36px', fontFamily: 'var(--f-body)', fontSize: 13, lineHeight: 1.3, justifyContent: 'flex-start' }}>
             {[
               { label: 'Универсальных ситуаций', value: '764' },
-              { label: 'Полных мануалов', value: '333' },
-              { label: 'Брендов с ситуациями', value: '58' },
+              { label: 'Полных мануалов', value: String(KB_STATS.generations) },
+              { label: 'Брендов с ситуациями', value: String(KB_STATS.brands) },
+              { label: 'Моделей в базе', value: String(KB_STATS.models) },
               { label: 'Отзывных кампаний', value: '298' },
             ].map(({ label, value }) => (
               <span key={label} style={{ display: 'inline-flex', alignItems: 'baseline', gap: 8 }}>
